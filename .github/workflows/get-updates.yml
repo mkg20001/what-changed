@@ -13,6 +13,7 @@ jobs:
       matrix:
         include:
           - pkgset: 000-maintained
+          - pkgset: 000-cinnamon
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -22,7 +23,7 @@ jobs:
         with:
           github_access_token: ${{ secrets.GITHUB_TOKEN }}
       - run: sudo pip install GitPython
-      - run: '[[ "${{ matrix.pkgset }}" != "000-maintained" ]] || src/get-maintained.sh'
+      - run: 'src/get-maintained.sh ${{ matrix.pkgset }}'
       - run: python3 src/wc_main.py ${{ matrix.pkgset }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
