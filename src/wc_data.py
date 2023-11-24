@@ -39,12 +39,12 @@ def transform_with_drop(i):
         if 'attr_path' in i:
             return {
                 "kind": "markdown",
-                "content": "> Dropped %s - no appropriate URL found" % i['attr_path'],
+                "content": "> Dropped %s - no appropriate URL found %s\n" % (i['attr_path'], i),
             }
         else:
             return {
                 "kind": "Markdown",
-                "content": "> Dropped unknown %s" % i
+                "content": "> Dropped unknown %s\n" % i
             }
 
     return i
