@@ -1,4 +1,7 @@
 work
 **/__pycache__
 result*
-data/000-maintained.json
+data/**
+!data/
+!data/000-test.json
+
