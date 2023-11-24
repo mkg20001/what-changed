@@ -12,7 +12,7 @@ def fill_data(i, flake):
         i['to_rev'] = "HEAD"
 
     if "attr_path" in i and not "url" in i:
-        if is_set(i, 'src_url') and (i['src_url'].endswith('.git') or 'git.' in i['url']):
+        if is_set(i, 'src_url') and (i['src_url'].endswith('.git') or 'git.' in i['src_url']):
             i['url'] = i['src_url']
         else:
             i['url'] = wc_utils.get_eval(flake, f"{i['attr_path']}.src.meta.homepage")
