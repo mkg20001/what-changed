@@ -50,6 +50,7 @@ def transform_with_drop(i):
     return i
 
 def should_drop(i):
-    if 'url' in i and 'from_rev' in i:
-        if i['url'] == "" or i['from_rev'] == "":
-            return True
+    if 'url' in i and i['url'] == "":
+        return True
+    if 'from_rev' in i and i['from_rev'] == "":
+        return True
