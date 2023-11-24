@@ -49,7 +49,6 @@
 - [ ] [<code>Infobar improvements when adding a podcast (#438)</code>](https://github.com/needle-and-thread/vocal/commit/75734c1be3de5aa7da6ddf0cb3a8046fa0585068)
 - [ ] [<code>Fixed merge conflict</code>](https://github.com/needle-and-thread/vocal/commit/9064433da2f32be79091bc81befd62c49500e8ac)
   - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Merge branch 'alcinnz-master'</code>](https://github.com/needle-and-thread/vocal/commit/538e531960c177923a471f55eeb9e094fdc2f128)
 - [ ] [<code>update README with build steps (#473)</code>](https://github.com/needle-and-thread/vocal/commit/2cec1f1a82a9d777414512ad5930bd3f3b1de825)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Clean up a tag hrefs before returning markup. (#495)</code>](https://github.com/needle-and-thread/vocal/commit/fb125eefbce7c0d4bb6e5a4934a525a0d4c65676)
