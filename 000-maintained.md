@@ -3483,10 +3483,6 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [66b9b6b74ec77b9fec69b2a58296635321d4f5f1 → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/66b9b6b74ec77b9fec69b2a58296635321d4f5f1...HEAD)
 
 - [ ] [<code>Added note about Alpine</code>](https://github.com/FlyveHest/wg-friendly-peer-names/commit/b0c3e1a95c843dc9c6432895105b839ef9b362fc)
-> Dropped x2goclient - no appropriate URL found OrderedDict([('attr_path', 'x2goclient'), ('home_url', 'http://x2go.org/'), ('src_url', 'https://code.x2go.org/releases/source/x2goclient/x2goclient-4.1.2.2.tar.gz'), ('urls', ['https://code.x2go.org/releases/source/x2goclient/x2goclient-4.1.2.2.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
-> Dropped x2goserver - no appropriate URL found OrderedDict([('attr_path', 'x2goserver'), ('home_url', 'http://x2go.org/'), ('src_url', 'https://code.x2go.org/releases/source/x2goserver/x2goserver-4.1.0.3.tar.gz'), ('urls', ['https://code.x2go.org/releases/source/x2goserver/x2goserver-4.1.0.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
 
