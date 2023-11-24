@@ -284,7 +284,7 @@
 
 #### [cinnamon.iso-flags-png-320x420](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
-> Dropped cinnamon.mint-artwork - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.mint-artwork'), ('urls', ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.7.6.tar.xz', 'https://web.archive.org/web/20231010134817/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.7.6.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped cinnamon.mint-artwork - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.mint-artwork'), ('home_url', 'https://github.com/linuxmint/mint-artwork'), ('src_url', ''), ('urls', ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.7.6.tar.xz', 'https://web.archive.org/web/20231010134817/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.7.6.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
@@ -475,7 +475,7 @@
 - [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo-extensions/commit/7ea8afcc7645f4709c7e6b3235090c3c0a209b8a)
   - <sub>Tags: <code>6.0.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-> Dropped cinnamon.nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.nemo-with-extensions'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped cinnamon.nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.0.2 → HEAD](https://github.com/linuxmint/pix/compare/3.0.2...HEAD)
