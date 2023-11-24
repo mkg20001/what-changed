@@ -4,7 +4,9 @@
         "Added translation using Weblate",
         "Deleted translation using Weblate",
         "Update translation files",
-        "Update translation template"
+        "Update translation template",
+        "Merge pull request",
+        "Merge branch"
     ],
     "important_files": [
         "meson.build",
