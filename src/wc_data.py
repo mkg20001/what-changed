@@ -36,13 +36,20 @@ def fail_fast_check(i, const_file):
 
 def transform_with_drop(i):
     if should_drop(i):
-        return {
-            "kind": "markdown",
-            "content": "> Dropped %s - no appropriate URL found" % i['attr_path']
-        }
+        if 'attr_path' in i:
+            return {
+                "kind": "markdown",
+                "content": "> Dropped %s - no appropriate URL found" % i['attr_path'],
+            }
+        else:
+            return {
+                "kind": "Markdown",
+                "content": "> Dropped unknown %s" % i
+            }
 
     return i
 
 def should_drop(i):
-    if i['url'] == "" or i['from_rev'] == "":
-        return True
+    if 'url' in i and 'from_rev' in i:
+        if i['url'] == "" or i['from_rev'] == "":
+            return True
