@@ -3250,9 +3250,8 @@
 - [ ] [<code>CI: Test building with GCC 12 and Clang 15 on Ubuntu 22.04</code>](https://github.com/LubosD/twinkle/commit/b89dca28aa9cec6de35889ec03cd3711cb6d610a)
 - [ ] [<code>CI: Switch to `actions/checkout@v3`</code>](https://github.com/LubosD/twinkle/commit/355813d5640ad58c84dc063826069384470ce310)
 
-#### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [66b9b6b74ec77b9fec69b2a58296635321d4f5f1 → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/66b9b6b74ec77b9fec69b2a58296635321d4f5f1...HEAD)
+#### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
-- [ ] [<code>Added note about Alpine</code>](https://github.com/FlyveHest/wg-friendly-peer-names/commit/b0c3e1a95c843dc9c6432895105b839ef9b362fc)
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
 
