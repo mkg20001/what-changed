@@ -20,10 +20,29 @@ def fill_data(i, flake):
 
 def fail_fast_check(i, const_file):
     if not i['kind'] in wc_utils.get_const(const_file, "supported_kind"):
+        print('failing: %s' % i)
         exit(1)
     if i['kind'] != "markdown":
         if not "attr_path" in i or not "url" in i or not "from_rev" in i:
+            print('failing: %s' % i)
             exit(1)
     else:
         if not "content" in i:
+            print('failing: %s' % i)
             exit(1)
+    #if i['url'] == "" or i['from_rev'] == "":
+    #    print('failing: %s' % i)
+    #    exit(1)
+
+def transform_with_drop(i):
+    if should_drop(i):
+        return {
+            "kind": "markdown",
+            "content": "> Dropped %s - no appropriate URL found" % i['attr_path']
+        }
+
+    return i
+
+def should_drop(i):
+    if i['url'] == "" or i['from_rev'] == "":
+        return True

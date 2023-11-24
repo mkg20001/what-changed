@@ -6,7 +6,7 @@ import json
 import re
 
 
-debug = False
+debug = os.environ['WC_DEBUG']
 
 
 def find_word(w):
@@ -39,8 +39,10 @@ def get_dirpath(base: str, url: str) -> str:
 def clone_repo(url: str, path: str):
     if os.path.exists(path):
         shutil.rmtree(path)
+    #if debug:
+    #    url = url.replace("github.com", "hub.fgit.ml")
     if debug:
-        url = url.replace("github.com", "hub.fgit.ml")
+        print('cloning %s to %s' % (url, path))
     git.Repo.clone_from(url=url, to_path=path)
 
 

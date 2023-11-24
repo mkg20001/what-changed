@@ -27,6 +27,10 @@ def main():
     for i in rdata['case']:
         wc_data.fill_data(i, flake)
         wc_data.fail_fast_check(i, const_file)
+        if wc_utils.debug:
+            print('after filldata %s' % i)
+
+    rdata['case'] = map(wc_data.transform_with_drop, rdata['case'])
 
     if os.path.exists(out_file):
         os.remove(out_file)
@@ -34,6 +38,7 @@ def main():
         os.makedirs(work_dir)
 
     for i in rdata['case']:
+
         if "kind" in i and i['kind'] == "markdown":
             wc_printer.print_trivial(i['content'], out_file)
             continue

@@ -13,8 +13,8 @@ jobs:
       - uses: cachix/install-nix-action@v17
       - run: sudo pip install GitPython
       - run: src/get-maintained.sh
-      - run: python3 src/wc_main.py 000-maintained
-      - run: python3 src/wc_main.py 000-test
+      - run: WC_DEBUG=1 python3 src/wc_main.py 000-test
       - run: git diff
       - run: git diff --quiet
+      - run: WC_DEBUG=1 python3 src/wc_main.py 000-maintained
 
