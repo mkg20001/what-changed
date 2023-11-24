@@ -4,4 +4,4 @@ result*
 data/**
 !data/
 !data/000-test.json
-
+!data/constants.json
