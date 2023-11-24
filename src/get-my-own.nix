@@ -86,14 +86,22 @@ d = rec {
 
   # data for what-changed
   wc = map ({ attrPath, package }: {
-    attr_path = attrPath; # urls = if package ? src && package.src ? urls then package.src.urls else null;
+    attr_path = attrPath;
+    urls = if package ? src && package.src ? urls then package.src.urls else null;
   }) res;
 
   # as json
-  json = d.pkgs.writeText "wc.json" (builtins.toJSON {
-    case = wc;
+  filterAndWriteJSON = name: f: wc: d.pkgs.writeText "${name}.json" (builtins.toJSON {
+    case = lib.filter f wc;
   });
+
+  is_cinnamon = { attr_path, ... }: lib.hasPrefix "cinnamon." attr_path;
+
+  out = {
+    "000-maintained" = filterAndWriteJSON "000-maintained" (p: !is_cinnamon p) wc;
+    "001-cinnamon" = filterAndWriteJSON "001-cinnamon" (p: is_cinnamon p) wc;
+  };
 };
 in
+d.out
 
-d.json
