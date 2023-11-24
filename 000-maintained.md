@@ -2022,6 +2022,13 @@
 - [ ] [<code>#21615 Don't show results when extracting data (#21953)</code>](https://github.com/dbeaver/dbeaver/commit/b30bc0d6c7da749dfdc48beb479461cd82003b4e)
 - [ ] [<code>CB-3794 add fields (#21934)</code>](https://github.com/dbeaver/dbeaver/commit/979327cd36a3aeec3954468e80c32ca878b0af5c)
 - [ ] [<code>23.3.0 version bump</code>](https://github.com/dbeaver/dbeaver/commit/51b42f32f93709cdcd178e644fde23efbbedd21e)
+- [ ] [<code>dbeaver/dbeaver#21921 ERD layout fails. (#21932)</code>](https://github.com/dbeaver/dbeaver/commit/dbe4700d618b0a09d1e763b8a4f9c11be698066a)
+- [ ] [<code>dbeaver/pro#2137 auto relayout (#21922)</code>](https://github.com/dbeaver/dbeaver/commit/e48c9930d1c397b4f22407b55afaf4844e538a14)
+- [ ] [<code>dbeaver/dbeaver#18036 Update DB2 driver version (#21913)</code>](https://github.com/dbeaver/dbeaver/commit/a2e21da994a1d7efff4a7f92c16215582413e3c9)
+- [ ] [<code>#21747 Download driver files to a temporary directory first (#21975)</code>](https://github.com/dbeaver/dbeaver/commit/24f66add892eb7b6ce58b5a674c1a070ca8f7ed8)
+- [ ] [<code>Revert "#21615 Don't show results when extracting data (#21953)" (#21983)</code>](https://github.com/dbeaver/dbeaver/commit/35fe80ee03448fe102aae9def35faca33e44a2b8)
+- [ ] [<code>dbeaver/pro#2062 Force enable save password check (#21960)</code>](https://github.com/dbeaver/dbeaver/commit/5d5c692fda8cb1a8f4e021ffb67fa3583231281a)
+- [ ] [<code>#21955 Increase delay before rollback countdown is shown (#21976)</code>](https://github.com/dbeaver/dbeaver/commit/f545a179c09fa3db9408173a488d3c8f4e7df593)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2248,6 +2255,8 @@
 - [ ] [<code>chore: Follow up new chat: Add mxid if not found</code>](https://github.com/krille-chan/fluffychat/commit/e4e399b69bc00e4e387b55408ae577c69320d34d)
 - [ ] [<code>fix: Encryption dialog crashes in column mode</code>](https://github.com/krille-chan/fluffychat/commit/7a292655c8e07daa48f7cb7f30b819dfa63ca66f)
 - [ ] [<code>fix: Do not scroll up on enter chat</code>](https://github.com/krille-chan/fluffychat/commit/9c55800aebfad6857b77e3b73debbe66b7eecf1a)
+- [ ] [<code>chore: Add error report for incorrect recovery key</code>](https://github.com/krille-chan/fluffychat/commit/d8cc1bdf25116776bef0e5added6cfd1c868fc13)
+- [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/0d9cb4915d8d9221dfa58078be58773bcc3d5899)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2577,6 +2586,8 @@
 - [ ] [<code>Make the gainMap member of avifImage a pointer. (#1801)</code>](https://github.com/AOMediaCodec/libavif/commit/f4948db213b7cd0ff7488b1ac5567f29cdd01539)
 - [ ] [<code>Fix asserts and gain map allocation in fuzz tests. (#1803)</code>](https://github.com/AOMediaCodec/libavif/commit/f55cdaa902bf1ab6b07c877704c6b1326100671e)
 - [ ] [<code>README.md: Change "AOM" (libaom) to "AV1"</code>](https://github.com/AOMediaCodec/libavif/commit/99f4dbbf337c643654e74805d62795f6fb54e29d)
+- [ ] [<code>Fix backward compatibility of AVIF_LOCAL_RAV1E (#1807)</code>](https://github.com/AOMediaCodec/libavif/commit/959109da65bb976d8a342a48647e1abe1f517d95)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3018,14 +3029,13 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.29.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.29.2...HEAD)
 
-> Dropped qpaeq - no appropriate URL found OrderedDict([('attr_path', 'qpaeq'), ('home_url', 'http://www.pulseaudio.org/'), ('src_url', 'http://freedesktop.org/software/pulseaudio/releases/pulseaudio-16.1.tar.xz'), ('urls', ['http://freedesktop.org/software/pulseaudio/releases/pulseaudio-16.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped ssh-import-id - no appropriate URL found OrderedDict([('attr_path', 'ssh-import-id'), ('home_url', None), ('src_url', 'https://git.launchpad.net/ssh-import-id'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '5.11')])
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/5.11...HEAD)
 
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.8.7 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.8.7...HEAD)
