@@ -1,7 +1,7 @@
 let
 d = rec {
   maintainer = "mkg20001";
-  
+
   pkgs = import <nixpkgs> {};
 
   inherit (pkgs) lib;
@@ -88,6 +88,8 @@ d = rec {
   wc = map ({ attrPath, package }: {
     attr_path = attrPath;
     urls = if package ? src && package.src ? urls then package.src.urls else null;
+    src_url = if package ? src && package.src ? url then package.src.url else null;
+    home_url = if package ? meta && package.meta ? homepage then package.meta.homepage else null;
   }) res;
 
   # as json
@@ -96,12 +98,13 @@ d = rec {
   });
 
   is_cinnamon = { attr_path, ... }: lib.hasPrefix "cinnamon." attr_path;
+  is_openwrt = { src_url, ... }: src_url != null && lib.hasPrefix "https://git.openwrt.org/" src_url;
 
   out = {
-    "000-maintained" = filterAndWriteJSON "000-maintained" (p: !is_cinnamon p) wc;
+    "000-maintained" = filterAndWriteJSON "000-maintained" (p: !(is_cinnamon p || is_openwrt p)) wc;
     "001-cinnamon" = filterAndWriteJSON "001-cinnamon" (p: is_cinnamon p) wc;
+    "002-openwrt" = filterAndWriteJSON "002-openwrt" (p: is_openwrt p) wc;
   };
 };
 in
 d.out
-

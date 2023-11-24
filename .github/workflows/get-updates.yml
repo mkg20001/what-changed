@@ -14,6 +14,7 @@ jobs:
         include:
           - pkgset: 000-maintained
           - pkgset: 001-cinnamon
+          - pkgset: 002-openwrt
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
