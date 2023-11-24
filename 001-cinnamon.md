@@ -142,6 +142,7 @@
 - [ ] [<code>Spices.py: Fix desklet reload after update when there are multiple instances (#11920)</code>](https://github.com/linuxmint/cinnamon/commit/75f7b5688e6a55fe54c00def1ef0c59062f0b3b2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>gesturesManager.js: Fix a couple small issues</code>](https://github.com/linuxmint/cinnamon/commit/6461e1cbe873bbdb1b0c8494e3398f96a32017fc)
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
