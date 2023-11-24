@@ -237,7 +237,7 @@
 - [ ] [<code>Merge branch 'master' into master</code>](https://github.com/cjdelisle/cjdns/commit/74b0730e0b88c94e82a92fd687f2619b2a213e62)
 - [ ] [<code>Merge pull request #1248 from BoynChan/master</code>](https://github.com/cjdelisle/cjdns/commit/1ccfbe5ed25b7d3a35aa1daadb46f9079d3522af)
 - [ ] [<code>Crash bug when excepting ALL addresses RouteGen_addException('0.0.0.0/0')</code>](https://github.com/cjdelisle/cjdns/commit/6271719f48861fb6da6028cb1967313514191318)
-> Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
@@ -2129,7 +2129,7 @@
 - [ ] [<code>#21902 show output panel for statistics tab (#21949)</code>](https://github.com/dbeaver/dbeaver/commit/7fbce1ca1869fbc5a8a2c10eec3a88deab858eb2)
 - [ ] [<code>dbeaver/pro#2144 VQB checkbox layout fixed (#21930)</code>](https://github.com/dbeaver/dbeaver/commit/e52692c719cf50364943304c1ba0537d55c1cd30)
 - [ ] [<code>#21615 Don't show results when extracting data (#21953)</code>](https://github.com/dbeaver/dbeaver/commit/b30bc0d6c7da749dfdc48beb479461cd82003b4e)
-> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [855999da8d3d0c9930e06f2d296d82b55aeff79e → HEAD](https://github.com/canonical/firmware-updater/compare/855999da8d3d0c9930e06f2d296d82b55aeff79e...HEAD)
@@ -2716,13 +2716,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Make the gainMap member of avifImage a pointer. (#1801)</code>](https://github.com/AOMediaCodec/libavif/commit/f4948db213b7cd0ff7488b1ac5567f29cdd01539)
 - [ ] [<code>Fix asserts and gain map allocation in fuzz tests. (#1803)</code>](https://github.com/AOMediaCodec/libavif/commit/f55cdaa902bf1ab6b07c877704c6b1326100671e)
-> Dropped libnl-tiny - no appropriate URL found OrderedDict([('attr_path', 'libnl-tiny'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', 'bc92a280186f9becc53c0f17e4e43cfbdeec7e7b')])
-
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
-> Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
@@ -3018,9 +3016,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Fix permissions on folder '/run/NetworkManager/'</code>](https://github.com/canonical/netplan/commit/e2783542686529625de45f57f3bb189900a9bd29)
 - [ ] [<code>cli:try: avoid linting error for type hints</code>](https://github.com/canonical/netplan/commit/2ae3b9eeb6d787bfc83fcacd1c2f73fac4b456a7)
-> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -3183,9 +3181,9 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
-> Dropped python310Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.confight'), ('urls', ['mirror://pypi/c/confight/confight-1.3.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python310Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-1.3.1.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-1.3.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python310Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.ebaysdk'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python310Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [python310Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
@@ -3195,19 +3193,19 @@
 
 #### [python310Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
 
-> Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog): [v0.29.2 → HEAD](https://github.com/foldynl/QLog/compare/v0.29.2...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.29.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.29.2...HEAD)
 
-> Dropped qpaeq - no appropriate URL found OrderedDict([('attr_path', 'qpaeq'), ('urls', ['http://freedesktop.org/software/pulseaudio/releases/pulseaudio-16.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped qpaeq - no appropriate URL found OrderedDict([('attr_path', 'qpaeq'), ('home_url', 'http://www.pulseaudio.org/'), ('src_url', 'http://freedesktop.org/software/pulseaudio/releases/pulseaudio-16.1.tar.xz'), ('urls', ['http://freedesktop.org/software/pulseaudio/releases/pulseaudio-16.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
-> Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped ssh-import-id - no appropriate URL found OrderedDict([('attr_path', 'ssh-import-id'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '5.11')])
+> Dropped ssh-import-id - no appropriate URL found OrderedDict([('attr_path', 'ssh-import-id'), ('home_url', None), ('src_url', 'https://git.launchpad.net/ssh-import-id'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '5.11')])
 
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.8.7 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.8.7...HEAD)
@@ -3312,7 +3310,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Custom FFmpeg commands #600, cairo crash experiment #577</code>](https://github.com/axcore/tartube/commit/ec0dd6ac7290764ae56fb4db674c24f5699707bf)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
+> Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 
 #### [twinkle](https://github.com/LubosD/twinkle): [2301b66a3f54b266675415d261985488d86e9e4c → HEAD](https://github.com/LubosD/twinkle/compare/2301b66a3f54b266675415d261985488d86e9e4c...HEAD)
@@ -3481,15 +3479,13 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>CI: Test building with GCC 12 and Clang 15 on Ubuntu 22.04</code>](https://github.com/LubosD/twinkle/commit/b89dca28aa9cec6de35889ec03cd3711cb6d610a)
 - [ ] [<code>CI: Switch to `actions/checkout@v3`</code>](https://github.com/LubosD/twinkle/commit/355813d5640ad58c84dc063826069384470ce310)
-> Dropped uclient - no appropriate URL found OrderedDict([('attr_path', 'uclient'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '007d945467499f43656b141171d31f5643b83a6c')])
-
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [66b9b6b74ec77b9fec69b2a58296635321d4f5f1 → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/66b9b6b74ec77b9fec69b2a58296635321d4f5f1...HEAD)
 
 - [ ] [<code>Added note about Alpine</code>](https://github.com/FlyveHest/wg-friendly-peer-names/commit/b0c3e1a95c843dc9c6432895105b839ef9b362fc)
-> Dropped x2goclient - no appropriate URL found OrderedDict([('attr_path', 'x2goclient'), ('urls', ['https://code.x2go.org/releases/source/x2goclient/x2goclient-4.1.2.2.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped x2goclient - no appropriate URL found OrderedDict([('attr_path', 'x2goclient'), ('home_url', 'http://x2go.org/'), ('src_url', 'https://code.x2go.org/releases/source/x2goclient/x2goclient-4.1.2.2.tar.gz'), ('urls', ['https://code.x2go.org/releases/source/x2goclient/x2goclient-4.1.2.2.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped x2goserver - no appropriate URL found OrderedDict([('attr_path', 'x2goserver'), ('urls', ['https://code.x2go.org/releases/source/x2goserver/x2goserver-4.1.0.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped x2goserver - no appropriate URL found OrderedDict([('attr_path', 'x2goserver'), ('home_url', 'http://x2go.org/'), ('src_url', 'https://code.x2go.org/releases/source/x2goserver/x2goserver-4.1.0.3.tar.gz'), ('urls', ['https://code.x2go.org/releases/source/x2goserver/x2goserver-4.1.0.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
