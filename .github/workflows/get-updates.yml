@@ -13,7 +13,7 @@ jobs:
       matrix:
         include:
           - pkgset: 000-maintained
-          - pkgset: 000-cinnamon
+          - pkgset: 001-cinnamon
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
