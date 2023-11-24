@@ -1,0 +1,4032 @@
+
+#### [bless](https://github.com/afrantzis/bless): [v0.6.3 → HEAD](https://github.com/afrantzis/bless/compare/v0.6.3...HEAD)
+
+- [ ] [<code>gui: Clear selection on revert</code>](https://github.com/afrantzis/bless/commit/f0f3792f766e187b770c714322e972db75336317)
+- [ ] [<code>ui: Add 64bit conversion entries in ConversionTable</code>](https://github.com/afrantzis/bless/commit/2c8dfa976d486f78c4a13aba5ca376a9ea6ee568)
+- [ ] [<code>plugins: Add 64bit support to ConversionTable</code>](https://github.com/afrantzis/bless/commit/103fbd6f4e449666e72fe21d3151a94adef5b880)
+
+#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.2.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.2.0...HEAD)
+
+- [ ] [<code>Version 1.2.0 changelog</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/cb1822e44d9fd8ce1a8d99b8624085d12d8d36ec)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Removed SELinux warning because 1.2.0 fixed issue</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/224b2f2560707fd8ab6c20e2772bc1da2ac4a429)
+- [ ] [<code>Added Secure Boot warning</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/f3137d5d402bd8263bf0e0c4de596950def98332)
+- [ ] [<code>Fixed README linking old releases package page</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/fb723db0222bc06a417bc3bafdb7a6ad1d3ed84b)
+- [ ] [<code>Use POSIX shell instead of bash</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/54d3cf2c7dd10084adc1a1a5c4d04264adf773d6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix file rename</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/b5119167186b0a5f48a362064dfbf7b4d2533e7d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #6 from viljemskornik/fix-install</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/72bee98170135b062e431a74952e1d0c8110a87d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Lowered CMake required version</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/3eb191788f60aa28ff7099f87c02389d229d5efa)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Added github actions CI</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/bd41cce675cca00fdd97e1d46a913b5f774dc35e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>change task rebalancing threshold as well (#8)</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/ed3b5a50f7cbf8d8d3f81b40b591123578268e66)
+- [ ] [<code>Print number of tasks to iterate in a balance run</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/3289bf3486c273d2666544a090d19909617945a4)
+- [ ] [<code>Add support for EEVDF scheduler</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/75cb8c20d0d9fbaaada31068ba6c2b7856135c77)
+- [ ] [<code>Version 1.3.0</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/a5d1533f9029a6a4437b175a6bf799956d44e0d3)
+  - <sub>Tags: <code>1.3.0</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+
+#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [2.10 → HEAD](https://github.com/linuxmint/bulky/compare/2.10...HEAD)
+
+- [ ] [<code>Support DND for file manager items, or a single text path/uri.</code>](https://github.com/linuxmint/bulky/commit/65787fb605d9b04a9459cf26eeba74069902de3e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix file icons/thumbnails.</code>](https://github.com/linuxmint/bulky/commit/d84ff32d88a75e9730a47e2e70b92e5bfb472510)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [5.8.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/5.8.4...HEAD)
+
+- [ ] [<code>settings: Replace PIL.Image.ANTIALIAS with PIL.Image.LANCZOS.</code>](https://github.com/linuxmint/cinnamon/commit/fce9aad1ebb290802dc550e8dae6344dddf9dec1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>gestures: Adjust to amplified max volume, not normal.</code>](https://github.com/linuxmint/cinnamon/commit/69727ba9b61673902cc6c56461f0a57cf7140392)
+- [ ] [<code>cs_themes: Finish removing tinycss support.</code>](https://github.com/linuxmint/cinnamon/commit/ffa905066d7e330c64b6c4ec25cc2f648a96bc44)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes.py: Fix navigation/stack issue.</code>](https://github.com/linuxmint/cinnamon/commit/6fbc0d54cab46dc00d7c6a7107b1e25ffec46226)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon.css: Center text in .applet-box (#11755)</code>](https://github.com/linuxmint/cinnamon/commit/97af1698ef911756a92ea2c61b0d3c6d40c85127)
+- [ ] [<code>lightbox: Reduce color banding with dithering... (#11757)</code>](https://github.com/linuxmint/cinnamon/commit/720cb81e186072097752c6e785665dcbf91c381e)
+- [ ] [<code>sound@cinnamon.org: Word wrap for artist and title labels (#11756)</code>](https://github.com/linuxmint/cinnamon/commit/344b56aa36f21e551dee63a74e5cad10035ac0f4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/cinnamon/commit/70297d2e300442ac6978e13053422ddb55d49879)
+- [ ] [<code>Fix thumbnails not appearing for windows created while menu is open (#11759)</code>](https://github.com/linuxmint/cinnamon/commit/2faa38d93fb5e1cac95e42662153e3fe2266ffb2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-menu-editor: Fix window type to enable window resizing.</code>](https://github.com/linuxmint/cinnamon/commit/3e9079a84725dba05fc9923b8e00075689ea147d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keybindings: Make Above_Tab displayable.</code>](https://github.com/linuxmint/cinnamon/commit/5198900520ab2b62ac46c11a0bbeaa924b50167b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Looking glass: Fix log text colors.</code>](https://github.com/linuxmint/cinnamon/commit/36ba660a5f438ec85a6f4ccb6d90a24a1698317e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gesturesManager.js: Ignore gestures when the screensaver is active.</code>](https://github.com/linuxmint/cinnamon/commit/58655f22f396a670f0f3a35daff28bbaa1cb50fd)
+- [ ] [<code>Updated write-applet.xml for Cinnamon 4.6 to 5.8+ (#11801)</code>](https://github.com/linuxmint/cinnamon/commit/5ebb1156930c3e5706f6f94797055b9e0ef968e2)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update issue template with a link to open and closed issues for</code>](https://github.com/linuxmint/cinnamon/commit/c0e6a43e56f4d084c27cc3cbeea70563aa4a8d80)
+- [ ] [<code>window-list/gwl: Simplify window focus updates.</code>](https://github.com/linuxmint/cinnamon/commit/e2cb99ad4ab4f729571791e1c4337f7e3850fdf6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>applet.js: Improve code comments.</code>](https://github.com/linuxmint/cinnamon/commit/dc395101814052974c4fb149ec1ab679aeae1ead)
+- [ ] [<code>gwl: Track the getThumbnail timeout source id.</code>](https://github.com/linuxmint/cinnamon/commit/a69d30b8e9bd6bc9c3399a112384a145bce5b7d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11805 from fredcw/resizecomments</code>](https://github.com/linuxmint/cinnamon/commit/cd1d6491eb36be76a087f1e4484544882e3ea15a)
+- [ ] [<code>Show all batteries as "primary" batteries,</code>](https://github.com/linuxmint/cinnamon/commit/b7f958ee0290abbe84c476fff03ee5826792f2a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Menu applet: Fix bug where menu is partly behind panel (#11788)</code>](https://github.com/linuxmint/cinnamon/commit/a80336bebb15033026fc595103c766dce7d8dd0d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gestures: Remove device detection.</code>](https://github.com/linuxmint/cinnamon/commit/09b9113171ead0fdf9d0027598b9974f46a8f45b)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix issue #11810 (#11814)</code>](https://github.com/linuxmint/cinnamon/commit/d71dbf5f3909a3e9c0404a36e4cf26490fde3a0f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/cinnamon/commit/b6744f144753a162d82ad60afebd573d0a96b572)
+- [ ] [<code>Updated cs_info module (#11861)</code>](https://github.com/linuxmint/cinnamon/commit/4ab982415b91c26bafb6a7a5dc7a48e2ceab0386)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: Add telegram-desktop to players without seek support (#11835)</code>](https://github.com/linuxmint/cinnamon/commit/7d2c9157baaba2e7d5365a32560bb0f245271c7e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix various typos (#11836)</code>](https://github.com/linuxmint/cinnamon/commit/ce4dce539fe13d4287a35ccb7034775f12095dc3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>js: Use string instead of regexp (#11845)</code>](https://github.com/linuxmint/cinnamon/commit/0b4525cc538e73ec03d0473dab5cd06be1c640c6)
+- [ ] [<code>cinnamon-subprocess-wrapper: Handle invalid utf8, fix error message.</code>](https://github.com/linuxmint/cinnamon/commit/315801a4481b33c61451532bab6494ce26523871)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Replace misc/util.js polyfills with js natives... (#11865)</code>](https://github.com/linuxmint/cinnamon/commit/d04f6c3793df6574ceabb00d6d9d14c7fba37ffb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Replace util.js polyfills with JS natives... (#11871)</code>](https://github.com/linuxmint/cinnamon/commit/e4b39d33273cdf5f83f786063a68de5e437db18b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>state.js: replace polyfills with js natives.. (#11873)</code>](https://github.com/linuxmint/cinnamon/commit/56718fd2063f940f2d29000d24e5c42d1a804b4c)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#11870)</code>](https://github.com/linuxmint/cinnamon/commit/331e0fcf0ca613054ac4e1dfbfafc1ef92882243)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>cs_backgrounds: Recognize .avif files.</code>](https://github.com/linuxmint/cinnamon/commit/96f73f6c75f40ae88810b78e2a393fd47ba65a26)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>misc: Use locale.getlocale() instead of locale.getdefaultlocale().</code>](https://github.com/linuxmint/cinnamon/commit/6e387fff67378f2136ca94b236b68506313c8f96)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>calendar eventView.js: Try to cancel scroll-to-row callback when</code>](https://github.com/linuxmint/cinnamon/commit/d12ad8444c88c370b3c881848d6740063ea717ad)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_info.py: Don't freeze when 'Copy to clipboard' is clicked.</code>](https://github.com/linuxmint/cinnamon/commit/5d420b3a34bb8afef3917ea5840c4803c90ff28e)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fixed calculate a sidePage height when it comes as standalone</code>](https://github.com/linuxmint/cinnamon/commit/336ab671c05d4d3872cfedca51f839d62a5daca9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update cinnamon-settings.py</code>](https://github.com/linuxmint/cinnamon/commit/6900f6ef4814fb07783035cbebf19684d0aa5fb0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11900 from kacperpaczos/standalone_height</code>](https://github.com/linuxmint/cinnamon/commit/e23681208158532c4f073a58dcb100718f87be8c)
+- [ ] [<code>Require soup 3.0.</code>](https://github.com/linuxmint/cinnamon/commit/5eda3d4d8a65517062b48354fb17966a39ceaeca)
+- [ ] [<code>Ensure settings window expands to fit toolbar</code>](https://github.com/linuxmint/cinnamon/commit/7f79812e83301d8948a14c7217c49de64d72525a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11910 from fredcw/settings_toolbar</code>](https://github.com/linuxmint/cinnamon/commit/3a376e881523897523a5cea83e807c5961c94e32)
+- [ ] [<code>Adds option to always show the input switch in the sound applet. (Closes #11232)</code>](https://github.com/linuxmint/cinnamon/commit/e5fc002e1ff591fb06859204ba65f105aeac29c5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #11914 from sphh/sound-always-show-input</code>](https://github.com/linuxmint/cinnamon/commit/826b7552ec69ef7c0531240f8f859416101c16e7)
+- [ ] [<code>wayland: Add session files</code>](https://github.com/linuxmint/cinnamon/commit/40e74ec3f5376b9668044b2114ea8bee5f1cd62a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Clean up build deps and some unused imports</code>](https://github.com/linuxmint/cinnamon/commit/3295a2d631870416485fb53a4a28cea5366ff886)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wayland: Don't use Gtk/Gdk anywhere in core/startup code</code>](https://github.com/linuxmint/cinnamon/commit/52037a9690c476046c6247a9ffacca84ebcf77b5)
+- [ ] [<code>st-texture-cache: Make our own GtkIconTheme instead of trying to</code>](https://github.com/linuxmint/cinnamon/commit/8cbd6f3bd443a333e6f4ea37b0c38a624a836ddf)
+- [ ] [<code>Disable/avoid things that don't currently work in Wayland</code>](https://github.com/linuxmint/cinnamon/commit/ccfda8f6be99f11826a9db593092d8f32ba5749d)
+- [ ] [<code>Extensions: Block certain x11-only xlets from trying to load</code>](https://github.com/linuxmint/cinnamon/commit/0013157dde341fa3ddde3219953927e6860f1af9)
+- [ ] [<code>dbus: Add monitor labeler</code>](https://github.com/linuxmint/cinnamon/commit/995e2529b35a2c5583d38f9dcb34fd71a02c2d60)
+- [ ] [<code>Restore system background</code>](https://github.com/linuxmint/cinnamon/commit/fe9015139fd6a35d0fdc87959b890230fd6852de)
+- [ ] [<code>Log the backend at Cinnamon start, add a row for it in cs_info.py</code>](https://github.com/linuxmint/cinnamon/commit/83ec7c481b834ba6c2e602a8deb97e9f94523461)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_themes: Don't use a GtkPlug/Socket for overview-scrollbar</code>](https://github.com/linuxmint/cinnamon/commit/9b9400cda3a3034f825cb042bd031fb4bcdc8a9d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>cs_display: Add scale-monitor-framebuffer for Wayland fractional</code>](https://github.com/linuxmint/cinnamon/commit/7842d0e08019bddaac97769f0e15341826c94816)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove some leftovers from main.c, adjust a string in cs_themes.py</code>](https://github.com/linuxmint/cinnamon/commit/f1d5541f75a4d44909b8ee8cebe81200b8a02ba4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power applet: Wait for csd-power's dbus presence before trying to</code>](https://github.com/linuxmint/cinnamon/commit/8c668670a14accb171b303026a8cf8f1e4c26ef4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-launcher: Launch cinnamon immediately under Wayland</code>](https://github.com/linuxmint/cinnamon/commit/99021459023e02de7a61296201c5d3541eb62e5b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>session: Use a separate desktop file for Wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/6ef5dccb4717127d9cf6e2f0be432c23624b324e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>cinnamon-settings: Suppress/hide some x11-only elements.</code>](https://github.com/linuxmint/cinnamon/commit/5a73d4065f3ad757053dd5db931bc1372ade724e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>modalDialog.js: Fix sync call in x11.</code>](https://github.com/linuxmint/cinnamon/commit/c279ee07a5fb45ccd8ae23181bec68c9cfed9cb4)
+- [ ] [<code>melange: convert to GApplication, cleanup, fix launch-as-inspector</code>](https://github.com/linuxmint/cinnamon/commit/b885436797c181f001052e1b8e91e628dda98240)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>lookingGlass.js: Initialize melange interface at startup.</code>](https://github.com/linuxmint/cinnamon/commit/22254e2c0b3bbcc81d5e271623d9c8da39a358d5)
+- [ ] [<code>Add .git-blame-ignore-revs for commits</code>](https://github.com/linuxmint/cinnamon/commit/430422df2bf6652d098dd259dfaa5484e644d8e2)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Adding an option for notification screen selection</code>](https://github.com/linuxmint/cinnamon/commit/d1f0b454b30f13b761e9c3991b52395e0111ded0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix whitespace</code>](https://github.com/linuxmint/cinnamon/commit/367ff2c0c9719495a85bc9100d75460003f43865)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix GLib exception: (#11927)</code>](https://github.com/linuxmint/cinnamon/commit/924a8e29c037b86be20fd167716e86ebd9b9b5f4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: Re-add dbus dependency (#11932)</code>](https://github.com/linuxmint/cinnamon/commit/fc69a484f56a07386fe07f3b1c05c5ded1bb126b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Gestures: Allow the user to specify when an action is triggered.</code>](https://github.com/linuxmint/cinnamon/commit/7110a772265f270ded56abd1ac26311d24b76347)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Gestures: Add a desktop zoom action.</code>](https://github.com/linuxmint/cinnamon/commit/861b2edd6ec7650819ee2e697961d967127893a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rename Wayland session</code>](https://github.com/linuxmint/cinnamon/commit/577bfa88bafb62d3c0696079dbb3c3032115a424)
+- [ ] [<code>cinnamon-launcher: Remove wayland handling.</code>](https://github.com/linuxmint/cinnamon/commit/6663e55b8d849e48f747127a058685d79f0ec9cf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-global.c: Restore cinnamon_global_set_pointer.</code>](https://github.com/linuxmint/cinnamon/commit/e33530867d8906f1d92c25d9f6e93d3c9a65cd0c)
+- [ ] [<code>Fix xlet-settings TreeListWidget's handling of columns with option lists (#11908)</code>](https://github.com/linuxmint/cinnamon/commit/73e944b744a4b04a3135704a9b854e47ffb164ae)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Use menu for window list hover tooltip choice (#11912)</code>](https://github.com/linuxmint/cinnamon/commit/f4884e42b00ae17b45d7564f6aecf2477768bbe9)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Fix the power applet battery status when the seconds var is 3600 (#11931)</code>](https://github.com/linuxmint/cinnamon/commit/379013ead185c24109f0ff3080ee3b8db2fd16f2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Spices.py: Fix desklet reload after update when there are multiple instances (#11920)</code>](https://github.com/linuxmint/cinnamon/commit/75f7b5688e6a55fe54c00def1ef0c59062f0b3b2)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+
+#### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
+
+- [ ] [<code>display: Increase the number of available fractional scale buttons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/35c8df73763d0afc5f64ce8ef35c14fbd2816f45)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#318)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/53f5cdfff822b048189946e99a8b2ba915cce5e8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wacom: Add "disabled" to stylus button actions.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3754965c5d393448e1dda59296a12c6e444965a5)
+- [ ] [<code>display: Add wayland compatibility</code>](https://github.com/linuxmint/cinnamon-control-center/commit/7360582eb853682764eb4d276d9e8535c96fe763)
+- [ ] [<code>display module: Fix color selection for monitor labels.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3ab95fedfd38e864bd73439754270feb23e42f4d)
+- [ ] [<code>display module: Fix some memory leaks.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/856e2c56e023f40c6f69edebe1c42c5243882ecc)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/88acb27ae98abfd3523a0e1a6dd0d9b1a66c94dc)
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/826e7be8c92a54d195de9f65b79f4593f1325ed7)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/5.8.0...HEAD)
+
+- [ ] [<code>gschemas: Change a comment</code>](https://github.com/linuxmint/cinnamon-desktop/commit/3486cb0f0904b07836692682659ba73413389824)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#234)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/831ed6d93238a0769d765862cd47ed068bd503ea)
+  - <sub>Tags: <code>master.lmde6-i386</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cdesktop-enums: Expand CDesktopStylusButtonAction to include</code>](https://github.com/linuxmint/cinnamon-desktop/commit/610a006d86d1f64ded295b5b44533238c08e0c6b)
+- [ ] [<code>Add gnome-systemd</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7eadfb1da9a42384396978b8ab46e0725d18e04f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add gnome-idle-monitor</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2419322898bca95fa90d468de2b55feac7e77977)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>a11y: Add 'always-show-text-caret' xsetting</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fe21fa8c0475b38522db2b7a68f11e95cca4ac91)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Adding an option for notification screen selection (#231)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fdff5caa515e340a4b89912652ab5b1bcca50d46)
+- [ ] [<code>notifications schema: Add fullscreen-notifications boolean (#233)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/03e36d242ad80bee32f5d8aa683725ccea688e83)
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/9822c17013dee1482a232795452722b0efce6882)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [5.8.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/5.8.0...HEAD)
+
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#67)</code>](https://github.com/linuxmint/cinnamon-menus/commit/60f5d52f227fa14747a89d4af96d18e8bb9a3eb2)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/3af7c00715c99ce8e9c7fd21c94ca060ef14701d)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/5.8.1...HEAD)
+
+- [ ] [<code>Don't use libaccountsservice, which can block startup.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d5ad3735721a5e90dfea1f635a72c4f6e4a2c116)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d6b21662254713be9d7b89a3375329b673050873)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#444)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/337ea8b521685e2c72823871f2327f760decead2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Disable screensaver in wayland sessions</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/91900812333bb6ccca9ca0bf57363a3b1d3023a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>debian/control: Remove unused build dep librsvg.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/fe893ea20e5c402eece74066c1fc8861619150cc)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/906277152f6b258303259b996d990eb90585986d)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/5.8.1...HEAD)
+
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#155)</code>](https://github.com/linuxmint/cinnamon-session/commit/8c66255c931c530740b6aa386a45ad49053dea45)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Don't use egg library</code>](https://github.com/linuxmint/cinnamon-session/commit/c5351e34d8a26d24dc0e7e3f6ba65c02ec4d0d71)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>wayland: Replace cs-idle-monitor with gnome-idle-monitor</code>](https://github.com/linuxmint/cinnamon-session/commit/bbc33ae604e0116a75bacac033492ab34d8f91da)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>wayland: Add compatibility</code>](https://github.com/linuxmint/cinnamon-session/commit/c91baef72d08fbcbcbbd1ecad840c02cc9020630)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wayland: Add DisplayServer phase</code>](https://github.com/linuxmint/cinnamon-session/commit/4a75c3ee536d3f420aec0c11cd2f6a4f30e4fd52)
+- [ ] [<code>wayland: Reimplement logout/inhibit dialogs as a separate process</code>](https://github.com/linuxmint/cinnamon-session/commit/264a4d0a675e9106f93bb2f1964e0e6425b437c2)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Clean up and unify logging for session failures</code>](https://github.com/linuxmint/cinnamon-session/commit/5d8c9e9c01ef79a1f711ab83a6744b13f45aa6e5)
+- [ ] [<code>More cleanup - leftover includes, unused files</code>](https://github.com/linuxmint/cinnamon-session/commit/7377e867e67b93d8520d98ebba82c1cae670c520)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix build.</code>](https://github.com/linuxmint/cinnamon-session/commit/cc3d2fc1bff69d9fab320f050bc3e2eb2dcaee0e)
+- [ ] [<code>Don't make a required component failure fatal.</code>](https://github.com/linuxmint/cinnamon-session/commit/c397f613b2b71fde578b90d2afbb10d7bca5eea4)
+- [ ] [<code>On required app failure, log both the app and startup ID.</code>](https://github.com/linuxmint/cinnamon-session/commit/21934430e7803f83184cdeeec7a898cf6ef2b137)
+- [ ] [<code>csm-manager: Remove maybe_restart_user_bus.</code>](https://github.com/linuxmint/cinnamon-session/commit/68bcae2fcc1d8bd1b4f7de227a191bf7d3676f87)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>main.c: Don't direct logging to the journal.</code>](https://github.com/linuxmint/cinnamon-session/commit/4d134d3910b8c7da5aa39b4b85dd7947464e445f)
+- [ ] [<code>csm-manager: Terminate the logout dialog at the beginning of</code>](https://github.com/linuxmint/cinnamon-session/commit/829519b1d36668e4a178f15900bd49af55548926)
+- [ ] [<code>cinnamon-session-quit: Set modal.</code>](https://github.com/linuxmint/cinnamon-session/commit/a99a581c98bdc1ee693e4f63d3a9759d06d278fc)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-session/commit/43d1a1afd9c5067956ca447ad97de3318e6177db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-session/commit/554d621c8fccc70631ddb4fc121bc8df8ed2b4d3)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [5.8.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/5.8.1...HEAD)
+
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#383)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/13b0aa4c5ec930e9a08eca79668be6e982e5ddef)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add wayland support</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5a34ede1288ce966c8fd0d74b1404a78954d86eb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>optimization: Only initialize libnotify for plugins that need it</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8c55ffb8cb3b89c1966ffbda359a4bc1b53daf9f)
+- [ ] [<code>wayland: Add a plugin to sync cinnamon/gnome settings</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c5b3e5f85f2370b66a813840b581ee49081ef4e8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>csd-background: Make wayland-compatible</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ae4756ddeb376c18e1901aa240c93164b9efd8e7)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xsettings: Add gtk-keynav-use-caret setting</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/349e27a46bdb9d194fc719af04152fb857aae5b8)
+- [ ] [<code>daemon-skeleton.h: Make sure the GMainLoop is accessible everywhere</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ae96c48e9f4fa09183f34873c8d6ca9b6616bddb)
+- [ ] [<code>cinnamon-settings-session.c: Don't unref a null GCancellable.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f5393cbc75172060a01e031ea749f94e495be16e)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/ebff319d46c19422d7eea59540d87b0534c230bc)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/5.8.2...HEAD)
+
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/75501ea0535dee6335b88b550267ba09b4ad4b44)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+
+#### [cinnamon.cjs](https://github.com/linuxmint/cjs): [5.8.0 → HEAD](https://github.com/linuxmint/cjs/compare/5.8.0...HEAD)
+
+- [ ] [<code>fix(build, tests): move `have_gtk4` to the appropriate place</code>](https://github.com/linuxmint/cjs/commit/fb480aae4eff422c3acd275c0108e970eafcdcb9)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#119)</code>](https://github.com/linuxmint/cjs/commit/58d7a321efad86fa1c7e8d707740898ac45c0ddb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cjs/commit/4b29b2bde2cb9361f1da9a582d88d7fe1bf597fe)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [b735ed90b798eda541885735368930d045430e6e → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/b735ed90b798eda541885735368930d045430e6e...HEAD)
+
+
+#### [cinnamon.iso-flags-png-320x420](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
+
+> Dropped cinnamon.mint-artwork - no appropriate URL found
+
+#### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
+
+
+#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.6.5...HEAD)
+
+
+#### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [078219f4f947245b3b7bf271c7311f67bf744bfb → HEAD](https://github.com/linuxmint/mint-l-theme/compare/078219f4f947245b3b7bf271c7311f67bf744bfb...HEAD)
+
+- [ ] [<code>Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-l-theme/commit/47d902f01bab482171586029ca3ecefd0f4690fa)
+- [ ] [<code>1.9.6</code>](https://github.com/linuxmint/mint-l-theme/commit/1444bacf3ff470db05b663b9c5c3a3419decba60)
+
+#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.5 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.5...HEAD)
+
+- [ ] [<code>Add github workflow.</code>](https://github.com/linuxmint/mint-themes/commit/429b33d925b9cbef55b06ddf74781eb396ae0036)
+- [ ] [<code>Add flatpak generation script.</code>](https://github.com/linuxmint/mint-themes/commit/526ce688129bdccc5a5d2d272524aae47568a250)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>generate-flatpaks: Copy gtk-dark.css also.</code>](https://github.com/linuxmint/mint-themes/commit/d19773aba09e118b309fcf9a210007e675864fbe)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>flatpak: Use Dart Sass instead of sassc.</code>](https://github.com/linuxmint/mint-themes/commit/c1180e5f5d862220bfd788559cdb74df46e3b910)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Generate pull requests, not direct commits.</code>](https://github.com/linuxmint/mint-themes/commit/f3118860f69727155f9d0f4d43909c893ae681c4)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>flatpaks: Rebase and setup a new branch before modifying content.</code>](https://github.com/linuxmint/mint-themes/commit/ea4196740efe8dd951e68ed9a269829c3d3a5790)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Linux Mint/cinnamon.css: Center text in .applet-box</code>](https://github.com/linuxmint/mint-themes/commit/2fa2083fb6774e402e3f5302ee861815cd997fdb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly (#453)</code>](https://github.com/linuxmint/mint-themes/commit/2b0fd85204aa1017e14206f45542d1b662a605bd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>.gitignore: Fix usr/ path to exclude files/usr (#451)</code>](https://github.com/linuxmint/mint-themes/commit/4f3ff255ace3f5458d5ec633e9acd6fc5f893830)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Mint-X/Y: Fix pane separators in Terminator.</code>](https://github.com/linuxmint/mint-themes/commit/6431f665a5707c5ad5b53bc46141412494b8d55e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+
+#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.5...HEAD)
+
+
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.6.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.6.7...HEAD)
+
+- [ ] [<code>Added F3D, Heroic Games Launcher, itch.io, mastodon icons (#349)</code>](https://github.com/linuxmint/mint-y-icons/commit/9227549d13b1d04f170225ecacc9d7923124ac73)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Added Blockbench and Penpot icons (#350)</code>](https://github.com/linuxmint/mint-y-icons/commit/e86eae590601672041e523a2e71e1ff60e5421e1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Ferdium, Helix and VS Codium icons (#353)</code>](https://github.com/linuxmint/mint-y-icons/commit/3481da2215c557490ba4d5b4820d981c0039b7af)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add symlinks for GNOME apps (#354)</code>](https://github.com/linuxmint/mint-y-icons/commit/f8c8c63cec530916b480a01bf6f02b5b6c09bcdc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Mint-Y cs-gestures</code>](https://github.com/linuxmint/mint-y-icons/commit/cc8f1576f0a992964c199c05770ad891aad81369)
+  - <sub>Keywords: <code>usr</code></sub>
+
+#### [cinnamon.muffin](https://github.com/linuxmint/muffin): [5.8.1 → HEAD](https://github.com/linuxmint/muffin/compare/5.8.1...HEAD)
+
+- [ ] [<code>Remove deprecated/removed zenity arguments.</code>](https://github.com/linuxmint/muffin/commit/ff244dde0780bf186c7be3f4c52ac48e3d1ad7cc)
+- [ ] [<code>Update issue templates.</code>](https://github.com/linuxmint/muffin/commit/bece4326e51f5bad40b5c9bcd1b6ed4460088ab1)
+- [ ] [<code>bug report: Mention crashes.</code>](https://github.com/linuxmint/muffin/commit/84176989dd43aa107e76b3e20da65b1b7b447173)
+- [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/muffin/commit/cfd899614e19eee805ebb84561d6bdb5d6274432)
+- [ ] [<code>meta-monitor.c: Allow 75% scaling once more.</code>](https://github.com/linuxmint/muffin/commit/e537dbbf8bfa92edf1cc4ec534a7dfdb53bfc885)
+- [ ] [<code>Make meta_set_verbose() public.</code>](https://github.com/linuxmint/muffin/commit/224ac93780c00d0c36649a05b131dd4e3e266092)
+- [ ] [<code>Fix a meson warning (#674)</code>](https://github.com/linuxmint/muffin/commit/b28c5f436c0017eb034e8a81fb5228591dc8543d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#675)</code>](https://github.com/linuxmint/muffin/commit/281551c2fa181f15cfea8a53b60a197e90cd7866)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>keybindings: Restore window opacity keybindings.</code>](https://github.com/linuxmint/muffin/commit/042e9d4a855d7014d0770c97d55432243b6eac20)
+- [ ] [<code>input settings: Allow disabling stylus buttons.</code>](https://github.com/linuxmint/muffin/commit/2265985ff36744a751d402641f3e77cbfcb49b4d)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>Fix some incorrect gsettings schemas</code>](https://github.com/linuxmint/muffin/commit/db389b518598d7d8479803ff8c9e0cf216c61462)
+- [ ] [<code>build/packaging: Restore Wayland support</code>](https://github.com/linuxmint/muffin/commit/bc10efe8282b9dc78e5fd05f34cd54e2a242980e)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>wayland: Fix desktop background</code>](https://github.com/linuxmint/muffin/commit/4b87bf9e647f26136a86b7cf15c9a8db0d313226)
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/muffin/commit/a2755891d41eec1e8d51bd48b78e20d354db4871)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [5.8.5 → HEAD](https://github.com/linuxmint/nemo/compare/5.8.5...HEAD)
+
+- [ ] [<code>debian: use buildtype=debugoptimized, use buildtype instead of an</code>](https://github.com/linuxmint/nemo/commit/fcf8d4736c876e01b9cbd336d95e32e56c44de3f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>nemo-window-slot.c: Update the drop zone target each time the</code>](https://github.com/linuxmint/nemo/commit/1f43989b26499b9533a31c0c0ebc7738728da552)
+- [ ] [<code>Fix some leaks, g_object_unref safety.</code>](https://github.com/linuxmint/nemo/commit/596d7ee5a4ce69e75027e3eab056dc27cc4d626e)
+- [ ] [<code>Use `activation_uri` as a second choice in `nemo_file_get_local_uri` (#3269)</code>](https://github.com/linuxmint/nemo/commit/c64905efd219a4da64846e600ebd1f4ed0583131)
+- [ ] [<code>nemo-desktop-link.c: Fix warning when toggling the Trash icon in</code>](https://github.com/linuxmint/nemo/commit/b94dbd75e7e4b5403da26cfdb0948cbf494417a1)
+- [ ] [<code>Fix some style/icon problems.</code>](https://github.com/linuxmint/nemo/commit/5ea25e735d1edd74660a70543d9511750c0b90ab)
+- [ ] [<code>search: Relax folder restrictions to allow gvfs locations.</code>](https://github.com/linuxmint/nemo/commit/1ae5a6d4e24e7ce82eac8a875a0b502aaf2d54a6)
+- [ ] [<code>compact view: Improve text and selection highlight alignment.</code>](https://github.com/linuxmint/nemo/commit/90cf6c6b76e30cde0f2c3b58592c7b6b4ccb021b)
+- [ ] [<code>eel-gtk-extensions.c: (Wayland) Fix menu popup positioning, popup (#3281)</code>](https://github.com/linuxmint/nemo/commit/5b3f274ec504d48275e70ce2e818a2ca64a9fc56)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-file.c: Update hard-coded value for size of thumbnails. (#3278)</code>](https://github.com/linuxmint/nemo/commit/ae66c5e1adc4e3d31cc99e8e7654ab831e084717)
+- [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/nemo/commit/04a5a20761448a657dc6bd70831a77c2acfaf6fd)
+- [ ] [<code>eel-gtk-extensions: Make wayland display check reusable.</code>](https://github.com/linuxmint/nemo/commit/875f2a520b51b407fbe634146e0f5afba90da029)
+- [ ] [<code>nemo-view.c: Use an admin:/// uri for the 'Open as Root' action</code>](https://github.com/linuxmint/nemo/commit/86830eb2b07d4ddc066ed3e5e35d7328b5ae2bd4)
+- [ ] [<code>nemo-window-slot: Set up dnd against the slot itself instead of</code>](https://github.com/linuxmint/nemo/commit/74aacbcfc9ad853101c2cac69776ef6fc7fcad89)
+- [ ] [<code>Fix issue when generating video thumbnails from network shares (#3265)</code>](https://github.com/linuxmint/nemo/commit/c389c2f2661c9ea27c5d4b9852c861c600f81fe5)
+- [ ] [<code>nemo-thumbnails: Use g_file_peek_path to simplify network-to-local</code>](https://github.com/linuxmint/nemo/commit/1c526f6b829091e3121b58a321f9b956674a9d6e)
+- [ ] [<code>Emphasize checking for duplicate existing issues in the bug report</code>](https://github.com/linuxmint/nemo/commit/480cdd58ee3e86ac8a2558e5b8b2ee3e51cb3938)
+- [ ] [<code>nemo-window-slot.c: Disable drop bar, until circular reference can</code>](https://github.com/linuxmint/nemo/commit/1b277e7ab63162a9d015d8c8d6c6ce169cf3c375)
+- [ ] [<code>nemo-window.c: Don't update saved window state if the window is</code>](https://github.com/linuxmint/nemo/commit/88da3336946922b3f433871fdbda595945b97032)
+- [ ] [<code>Fix trying the same filename when moving a file with duplicate name (#3299)</code>](https://github.com/linuxmint/nemo/commit/251dec89bca9f3ede75e5585eb59925a9ac49fab)
+- [ ] [<code>Fix thumbnail creation for local files</code>](https://github.com/linuxmint/nemo/commit/219cdf4dc122a9ceb48b5349cd9a2d7e33f8c77e)
+- [ ] [<code>file ops: Use symbolic tray icons.</code>](https://github.com/linuxmint/nemo/commit/db5cf6f10b27b1248f1a2173cc59fc8b2354c2b1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-view.c: Show detailed actions for some selection types (#3307)</code>](https://github.com/linuxmint/nemo/commit/9a13a25480907565ab581e7fe26a3f98c9ba962a)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#3316)</code>](https://github.com/linuxmint/nemo/commit/c0c76dbdb803a3717bcf6d18a8e8396bdadbf9b3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-pathbar.c: Remove unnecessary g_object_unref.</code>](https://github.com/linuxmint/nemo/commit/ba29a2ffb1cd85ea323a7aa44fbf86fd804c2532)
+- [ ] [<code>nemo-desktop.c: Use Gtk to set the desktop window hint</code>](https://github.com/linuxmint/nemo/commit/41bf0f7a9402b8ab547c7f59657276f0582d41bb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-desktop: Add csd-background to ignored-desktop-handlers.</code>](https://github.com/linuxmint/nemo/commit/32ab5b1c7893054b266afaa6c88b45c43e8ebd25)
+- [ ] [<code>list-view: Remove remaining unused 'drop zone' code.</code>](https://github.com/linuxmint/nemo/commit/9c0bdaa166a5380b4b28db558bd536ac795e5782)
+- [ ] [<code>nemo-list-view: Restrict drag-into-folder actions to be triggered</code>](https://github.com/linuxmint/nemo/commit/b9d396e153951b1925e99105857f47d3261a06cb)
+- [ ] [<code>nemo-list-view.c: Don't apply column-expand test unless there is</code>](https://github.com/linuxmint/nemo/commit/95be8fdac202a8a10e5018f03b42b47af33d181d)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>l10n: Remove unnecessary msgid</code>](https://github.com/linuxmint/nemo/commit/c61e53a3086d1204735c71e15518cce2c282ce7a)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/eacf2dea52fd3c9ed884df56d45042963199f2f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/nemo/commit/470c397d5bd5b5c75ba6dc138bbf0698520b033a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo/commit/22f026976edcd77f5bb7769ad97d00ffcd1ca3c2)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
+
+- [ ] [<code>nemo-share: Fix samba install button visibility and script</code>](https://github.com/linuxmint/nemo-extensions/commit/d6e19ba1dfecf8e1f9951ab5bfdf75f2461b8486)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share 5.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/dfa2ee82496e1d048e579a634c551e1a846aeb0c)
+  - <sub>Tags: <code>nemo-share-5.8.1</code></sub>
+- [ ] [<code>nemo-compare: Replace the preference window's button images with</code>](https://github.com/linuxmint/nemo-extensions/commit/d25b09fcd00c4970c70485fb50d3595d8e6c8ef8)
+- [ ] [<code>nemo-compare 5.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/c915eaf0861ab5ad4052f1e57eaa2a6a49a05a15)
+  - <sub>Tags: <code>nemo-compare-5.8.1</code></sub>
+- [ ] [<code>nemo-share 5.8.2</code>](https://github.com/linuxmint/nemo-extensions/commit/75ba6dabdfbd576a5a81c11ee643c7c46ffbc5cb)
+  - <sub>Tags: <code>nemo-share-5.8.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix a meson warning (#495)</code>](https://github.com/linuxmint/nemo-extensions/commit/17b0005b32e4e2c2487c8fb7dc1a6253d3aa7235)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#496)</code>](https://github.com/linuxmint/nemo-extensions/commit/a1b0232e00c53980acb9882597fc2c34b0e352d8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fixed `nemo-python` examples (#486)</code>](https://github.com/linuxmint/nemo-extensions/commit/c303ed2889121a6c793b1d312a18dc781d7727df)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo-extensions/commit/7ea8afcc7645f4709c7e6b3235090c3c0a209b8a)
+  - <sub>Tags: <code>6.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
+
+- [ ] [<code>nemo-share: Fix samba install button visibility and script</code>](https://github.com/linuxmint/nemo-extensions/commit/d6e19ba1dfecf8e1f9951ab5bfdf75f2461b8486)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share 5.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/dfa2ee82496e1d048e579a634c551e1a846aeb0c)
+  - <sub>Tags: <code>nemo-share-5.8.1</code></sub>
+- [ ] [<code>nemo-compare: Replace the preference window's button images with</code>](https://github.com/linuxmint/nemo-extensions/commit/d25b09fcd00c4970c70485fb50d3595d8e6c8ef8)
+- [ ] [<code>nemo-compare 5.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/c915eaf0861ab5ad4052f1e57eaa2a6a49a05a15)
+  - <sub>Tags: <code>nemo-compare-5.8.1</code></sub>
+- [ ] [<code>nemo-share 5.8.2</code>](https://github.com/linuxmint/nemo-extensions/commit/75ba6dabdfbd576a5a81c11ee643c7c46ffbc5cb)
+  - <sub>Tags: <code>nemo-share-5.8.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix a meson warning (#495)</code>](https://github.com/linuxmint/nemo-extensions/commit/17b0005b32e4e2c2487c8fb7dc1a6253d3aa7235)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#496)</code>](https://github.com/linuxmint/nemo-extensions/commit/a1b0232e00c53980acb9882597fc2c34b0e352d8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fixed `nemo-python` examples (#486)</code>](https://github.com/linuxmint/nemo-extensions/commit/c303ed2889121a6c793b1d312a18dc781d7727df)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo-extensions/commit/7ea8afcc7645f4709c7e6b3235090c3c0a209b8a)
+  - <sub>Tags: <code>6.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [5.8.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/5.8.0...HEAD)
+
+- [ ] [<code>nemo-share: Fix samba install button visibility and script</code>](https://github.com/linuxmint/nemo-extensions/commit/d6e19ba1dfecf8e1f9951ab5bfdf75f2461b8486)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share 5.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/dfa2ee82496e1d048e579a634c551e1a846aeb0c)
+  - <sub>Tags: <code>nemo-share-5.8.1</code></sub>
+- [ ] [<code>nemo-compare: Replace the preference window's button images with</code>](https://github.com/linuxmint/nemo-extensions/commit/d25b09fcd00c4970c70485fb50d3595d8e6c8ef8)
+- [ ] [<code>nemo-compare 5.8.1</code>](https://github.com/linuxmint/nemo-extensions/commit/c915eaf0861ab5ad4052f1e57eaa2a6a49a05a15)
+  - <sub>Tags: <code>nemo-compare-5.8.1</code></sub>
+- [ ] [<code>nemo-share 5.8.2</code>](https://github.com/linuxmint/nemo-extensions/commit/75ba6dabdfbd576a5a81c11ee643c7c46ffbc5cb)
+  - <sub>Tags: <code>nemo-share-5.8.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix a meson warning (#495)</code>](https://github.com/linuxmint/nemo-extensions/commit/17b0005b32e4e2c2487c8fb7dc1a6253d3aa7235)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#496)</code>](https://github.com/linuxmint/nemo-extensions/commit/a1b0232e00c53980acb9882597fc2c34b0e352d8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fixed `nemo-python` examples (#486)</code>](https://github.com/linuxmint/nemo-extensions/commit/c303ed2889121a6c793b1d312a18dc781d7727df)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/nemo-extensions/commit/7ea8afcc7645f4709c7e6b3235090c3c0a209b8a)
+  - <sub>Tags: <code>6.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+> Dropped cinnamon.nemo-with-extensions - no appropriate URL found
+
+#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.0.2 → HEAD](https://github.com/linuxmint/pix/compare/3.0.2...HEAD)
+
+- [ ] [<code>patch to build with exiv 0.28 (#178)</code>](https://github.com/linuxmint/pix/commit/46e19703a973d51fa97e6a22121560f5ba200eea)
+- [ ] [<code>Remove white frame from images.</code>](https://github.com/linuxmint/pix/commit/1964eedcde258423fa21fb5105a5742968ebdef5)
+- [ ] [<code>gth-browser-actions-entries.h: Remove left/right/up/down shortcuts.</code>](https://github.com/linuxmint/pix/commit/7a033863297a2ffa62a59f94bf7369e8070e6452)
+- [ ] [<code>Update bug template, add (obsolete) feature request template.</code>](https://github.com/linuxmint/pix/commit/d6edbd4c5e87371859b73ff89c1f49a6bb5ff126)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+
+#### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
+
+- [ ] [<code>Don't allow bubblewrap mode in Flatpak builds.</code>](https://github.com/linuxmint/warpinator/commit/42f2240db0cdb44e95730b4585be9d53599a13bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README markdown: Switch to using relative image paths.</code>](https://github.com/linuxmint/warpinator/commit/537c9d592d24796417f7555bdb74f52bb6600602)
+- [ ] [<code>Add issue templates.</code>](https://github.com/linuxmint/warpinator/commit/8bed9f85c5f2df10962ec5ab6d7ca547bf2a38f3)
+- [ ] [<code>Fix readme link in bug_report.yaml</code>](https://github.com/linuxmint/warpinator/commit/020af83badfbb60512fad440a6a455eb1ffafcab)
+- [ ] [<code>Allow /run/media/* for a save location, as some systems mount</code>](https://github.com/linuxmint/warpinator/commit/1c502dcd0e590953f79d55b4a6ede424bb5a73cc)
+- [ ] [<code>Update README, fix a typo, add a link to another Window's version</code>](https://github.com/linuxmint/warpinator/commit/fb3a6272084bdda4ca4a193a4d44991a1cf13a70)
+- [ ] [<code>Add issue link to bug report template.</code>](https://github.com/linuxmint/warpinator/commit/896a0aea4e97f76adb72729050c776ed6a86de6d)
+- [ ] [<code>fix NameError for 'sleep' (#187)</code>](https://github.com/linuxmint/warpinator/commit/89a3bef314bd1493261ecf1882ab90d11c12d5c2)
+- [ ] [<code>warpinator.py: Set our own dbus StatusIcon name.</code>](https://github.com/linuxmint/warpinator/commit/fb7be24d1d29099ce38f66b8d9963cd92261e5d5)
+- [ ] [<code>notifications.py: Show the recipient (not the sender) in the</code>](https://github.com/linuxmint/warpinator/commit/f5763dd8d1d4b2cdb225b1af4c7a9000d8defca8)
+- [ ] [<code>warpinator-send.in: Remove a comment leftover from copy/paste.</code>](https://github.com/linuxmint/warpinator/commit/957e21bfd7b46c4fcf01dec8103991ecc3dd11c4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>thread pool: Always use a minimum of 4 threads.</code>](https://github.com/linuxmint/warpinator/commit/cbe92531871209be31daf3a52d0dbce9a52a11e9)
+- [ ] [<code>warpinator-send: Allow uris and paths.</code>](https://github.com/linuxmint/warpinator/commit/17156747b071a2774d4b291ff91b37ad0bd97418)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>save folder: Fully resolve the save location before performing</code>](https://github.com/linuxmint/warpinator/commit/79e129622241ad115e1a11ef6e0724d26a80daac)
+- [ ] [<code>1.7.0 (unstable)</code>](https://github.com/linuxmint/warpinator/commit/80aba204d804becea9ebc1b67086f8ccfe3026f5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Include and build grpc 1.59 and protobuf 4.24.4.</code>](https://github.com/linuxmint/warpinator/commit/dfbdb4e913627906dbf42f3d126d78f7a7c82dce)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code> <code>CMakeLists.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>Regenerate protobuf files.</code>](https://github.com/linuxmint/warpinator/commit/3866d77e791a30387b668d09dac9f40b6d60cdff)
+- [ ] [<code>Increase startup server timeout.</code>](https://github.com/linuxmint/warpinator/commit/53d3bd10b45dd82605cc3056b8ff24de65c30744)
+- [ ] [<code>Bundle zeroconf instead of downloading at build time.</code>](https://github.com/linuxmint/warpinator/commit/6bead39352fc5a7414038328a99dcf5d50f9540d)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update deb build, readme, dependencies, .gitignore.</code>](https://github.com/linuxmint/warpinator/commit/10eb1e5a9238336578d4c07fd8138db41934d88e)
+  - <sub>Tags: <code>master.lmde5</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+
+#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
+
+- [ ] [<code>Add github issue templates.</code>](https://github.com/linuxmint/xapp/commit/7945d7420f0c7daa28a506d03657aa9bb04c5836)
+- [ ] [<code>xapp-gtk3-module.c: Use the 'realize' signal to trigger injecting</code>](https://github.com/linuxmint/xapp/commit/8570496c3f909458c0b8035048ae7671b760577f)
+- [ ] [<code>xapp-sn-watcher.c: Mute some warning messages from more of</code>](https://github.com/linuxmint/xapp/commit/0ab6db8e5b74d7b40a31be3eaed3a2a6740bcc1c)
+- [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#172)</code>](https://github.com/linuxmint/xapp/commit/5df50519684468ba48c630d4bf0d19b8ee4041d0)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update issue template with a link to open and closed issues.</code>](https://github.com/linuxmint/xapp/commit/88192421fce36178fb3a96f84e43bb2cd5843c3d)
+- [ ] [<code>Remove unused includes, bump required gtk version.</code>](https://github.com/linuxmint/xapp/commit/89344d2b6b468b7c872447c4910080eab90830cd)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>2.8.0</code>](https://github.com/linuxmint/xapp/commit/d4e9fc9cdeb1d243a9efca5070af43df1581ad39)
+  - <sub>Tags: <code>2.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Update docs</code>](https://github.com/linuxmint/xapp/commit/a9ba7d237c97e1aeeef0401f1a6ddb6c64d4b2a4)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.2 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.2...HEAD)
+
+- [ ] [<code>I removed the exclamation mark because we want to insert a link, not an image as link. (#605)</code>](https://github.com/linuxmint/xreader/commit/a989f42fdbe83caaa6c4dd2dc20d509141688782)
+- [ ] [<code>ev-window.c: Only close after save-as if it's spawned as a result</code>](https://github.com/linuxmint/xreader/commit/edbe53cc5f2070788334ad5aa7dc4ddbcf6b8b54)
+- [ ] [<code>Add link for existing issues to the bug report template.</code>](https://github.com/linuxmint/xreader/commit/94c8e58275778449d4cb7bf89ce25db926c6a989)
+- [ ] [<code>Fix building with meson 1.2.</code>](https://github.com/linuxmint/xreader/commit/06b18a884c8cf3257ea1f053a82784da078999ed)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ev-message-area.c: Check that the GtkStockItem is initialized</code>](https://github.com/linuxmint/xreader/commit/31c9f12e8ffe59832b8d76d390638f286749012b)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+- [ ] [<code>3.8.3</code>](https://github.com/linuxmint/xreader/commit/e349842dcf11a843b2c69c5dc98608dc8073b1c5)
+  - <sub>Tags: <code>3.8.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+
+#### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.1 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.1...HEAD)
+
+
+#### [cjdns-tools](https://github.com/cjdelisle/cjdns): [cjdns-v21.4 → HEAD](https://github.com/cjdelisle/cjdns/compare/cjdns-v21.4...HEAD)
+
+- [ ] [<code>CryptoAuth implementation in Rust (work in progress)</code>](https://github.com/cjdelisle/cjdns/commit/1308e3facb2dd19ff6e5a0a1e273f44085d7d9ac)
+- [ ] [<code>Added CryptoAuth to cffi so that functions can be accessed from Rust</code>](https://github.com/cjdelisle/cjdns/commit/e1e1bc9afa776a8767c0363d6639a5c27cbf0cf6)
+- [ ] [<code>Random implementation based on sodiumoxide</code>](https://github.com/cjdelisle/cjdns/commit/9b16f8b6a3c43ba02592ebc1fe1c9e5ddbcfd425)
+- [ ] [<code>Crypto fns implementation based on sodiumoxide</code>](https://github.com/cjdelisle/cjdns/commit/ca1add7b7e5ec2908276440c6cc4715d49c1443f)
+- [ ] [<code>Start implementing C bindings for CryptoAuth2</code>](https://github.com/cjdelisle/cjdns/commit/15d4738b5addf881f70f5ee5204b06bd516447b5)
+- [ ] [<code>Merge branch 'boringtun' of github.com:CJDNS-Development-Team/cjdns-router into boringtun</code>](https://github.com/cjdelisle/cjdns/commit/237744be5bb435c0b8ed11b73c54dfee2d382304)
+- [ ] [<code>whitepaper typo fixes</code>](https://github.com/cjdelisle/cjdns/commit/666d0236d8ba4538071791472cc69f116203a3e2)
+- [ ] [<code>re-shuffled tests to be able to run on both new and old CryptoAuth</code>](https://github.com/cjdelisle/cjdns/commit/6d9ecb7e55e85876bf2885ace14bb00cc0a6f489)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Activated tests for new CryptoAuth</code>](https://github.com/cjdelisle/cjdns/commit/6c34a9e50717fed99e0720140c08446b74802007)
+- [ ] [<code>Drop codestyle checker which was not working correctly every time</code>](https://github.com/cjdelisle/cjdns/commit/96f0447fa0958da675c750006d58576a29f2a9a1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Better String type</code>](https://github.com/cjdelisle/cjdns/commit/6e0fed3f93a459534c7b784a9e26fb12f4a545c4)
+- [ ] [<code>Better error type</code>](https://github.com/cjdelisle/cjdns/commit/0f1ce88cbd10700730c5e7f30e9d748ae4d0405c)
+- [ ] [<code>Fixed broken merge (refactoring of keys usage) + proper secure memory wiping</code>](https://github.com/cjdelisle/cjdns/commit/d36517a231ab389a26884c703ac0bf93815681d5)
+- [ ] [<code>Reuse `cjdns-keys` crate for private/public keys infrastructure</code>](https://github.com/cjdelisle/cjdns/commit/fb34104e8d433ab27950741e4f9ba2b02a57b002)
+- [ ] [<code>Updated `sodiumoxide` dependency</code>](https://github.com/cjdelisle/cjdns/commit/dcabef8941ebc3342ad496c375cebed6863c89a1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Refactoring - CryptoAuth</code>](https://github.com/cjdelisle/cjdns/commit/4ce2d8520e9de82e82457fc77aaab17242ee2214)
+- [ ] [<code>CryptoAuth: encrypt and decrypt (work in progress)</code>](https://github.com/cjdelisle/cjdns/commit/711558cb9df6b8384a794d7c30a15c2e531c7535)
+- [ ] [<code>Removed unnecessary features</code>](https://github.com/cjdelisle/cjdns/commit/017a1f9e6cee6766fc279222dc1626295a5ead77)
+- [ ] [<code>ReplayProtector impl</code>](https://github.com/cjdelisle/cjdns/commit/f31df6d496b5ea5a218eec726587661bb3cbcf37)
+- [ ] [<code>Replaced std::sync mutexes with parking_lot</code>](https://github.com/cjdelisle/cjdns/commit/5f61c17d6010e6af60e76dbc662463ade53534b1)
+- [ ] [<code>Fishy attempt to use more granular session locking</code>](https://github.com/cjdelisle/cjdns/commit/47574ae734d20aeac1d63749c3682fcd55e9c8d1)
+- [ ] [<code>Pluggable Random impl - supports Sodium and legacy backends</code>](https://github.com/cjdelisle/cjdns/commit/01e480e76c225b652786e85834b5ad72ae224bb1)
+- [ ] [<code>Attempt to wrap legacy Random (broken)</code>](https://github.com/cjdelisle/cjdns/commit/f894340c942130e5d51cdacff9f6913a6324c86b)
+- [ ] [<code>Refactoring - get rid of potential UB</code>](https://github.com/cjdelisle/cjdns/commit/2acc9c63acf404a7889fe75fd0d377e8fa8c7321)
+- [ ] [<code>Some doc comments copied from CryptoAuth.h</code>](https://github.com/cjdelisle/cjdns/commit/e2a3c244759d4d5e96ac18986c3b646d98bdd326)
+- [ ] [<code>Some error handling on Rust side. Need to pass these errors to C code in `rffi.rs` somehow now.</code>](https://github.com/cjdelisle/cjdns/commit/fd2fddad293af6f5dbabda591dc013bd083705a5)
+- [ ] [<code>Apple ARM fixes</code>](https://github.com/cjdelisle/cjdns/commit/f227c9056e554cb802ff4088876800f38f97a736)
+- [ ] [<code>Wrestled cffi to make Random_t come through properly</code>](https://github.com/cjdelisle/cjdns/commit/44c60b26e3df4de9a502d0427786781e2a137c78)
+- [ ] [<code>Proper error handling instead of asserts</code>](https://github.com/cjdelisle/cjdns/commit/a66956ce3b23a6a3d46d67b98508c151f5c8d034)
+- [ ] [<code>Assert is noreturn</code>](https://github.com/cjdelisle/cjdns/commit/22b4f1afd7159075d4344a74789b22bd85a6fa7c)
+- [ ] [<code>Merge branch 'boringtun' of github.com:CJDNS-Development-Team/cjdns-router into boringtun</code>](https://github.com/cjdelisle/cjdns/commit/a8e95a54b863dcaa8ed1bd8a43db9d46719d031e)
+- [ ] [<code>Signedness</code>](https://github.com/cjdelisle/cjdns/commit/1d16ebb9875018fe648f085ea886810e1a51159b)
+- [ ] [<code>Wrong pointer</code>](https://github.com/cjdelisle/cjdns/commit/0fa0a6041dfab220e58bac813ef6e446800a516e)
+- [ ] [<code>Wrong type for user in newSession</code>](https://github.com/cjdelisle/cjdns/commit/6a1a5ea073065e74a6c07a5e903bd8298a84bb01)
+- [ ] [<code>Hopefully this should make the tests work correctly</code>](https://github.com/cjdelisle/cjdns/commit/e58334888087fd64d0bba90e4a35eef66920fac1)
+- [ ] [<code>Fix encrypt/decrypt buf sizes</code>](https://github.com/cjdelisle/cjdns/commit/cc936043b8ca0039ac70bd778c0f76408340c121)
+- [ ] [<code>Added a test to check sameness of encrypt_rnd_nonce</code>](https://github.com/cjdelisle/cjdns/commit/b75b7f2f410e5addca34a7efd91394bbbc874b97)
+- [ ] [<code>Enhanced test</code>](https://github.com/cjdelisle/cjdns/commit/78a3d86493ca0b18a209ea3f0ff36a53a094bb32)
+- [ ] [<code>More tests</code>](https://github.com/cjdelisle/cjdns/commit/7ce67560b62d452a1e24899cf6e288da97609862)
+- [ ] [<code>More tests: cross-implementation encrypt/decrypt test</code>](https://github.com/cjdelisle/cjdns/commit/fe0ad7153df0d57712305695926614752f27c1a2)
+- [ ] [<code>add missing reference to en-US readme</code>](https://github.com/cjdelisle/cjdns/commit/5a54cf4546a332bdeabf531f1ca787760d49fb66)
+- [ ] [<code>fix minor translation pt-BR typos</code>](https://github.com/cjdelisle/cjdns/commit/57194db2c17c0c5b7b085478eed02b268e95b6e1)
+- [ ] [<code>update missing Wikipedia reference url</code>](https://github.com/cjdelisle/cjdns/commit/591152f3566dbe3495d2698fa9d09a2a53a950d0)
+- [ ] [<code>Switched RandomSeed from raw struct to a typedef</code>](https://github.com/cjdelisle/cjdns/commit/78909a57cdc6a8aa86a121d1765822bbc723b775)
+- [ ] [<code>Added DeterminentRandomSeed to rust cffi</code>](https://github.com/cjdelisle/cjdns/commit/fd72d65bde4c179c597e07bef03a8e6579ce232e)
+- [ ] [<code>fixed test_cross_encrypt_decrypt_rust_to_c</code>](https://github.com/cjdelisle/cjdns/commit/404150e4f91bfe26ed560a9f164eb2798bd719aa)
+- [ ] [<code>More tests: cross-implementation encrypt/decrypt test (c to rust)</code>](https://github.com/cjdelisle/cjdns/commit/333d4ca387771efd078a211513d1c69f86b981c7)
+- [ ] [<code>Make CryptoAuth_test use deterministic random because cross-testing requires it</code>](https://github.com/cjdelisle/cjdns/commit/7542749b39b64e5581340dd5233152df2dc38501)
+- [ ] [<code>Bug fixes: CryptoAuth</code>](https://github.com/cjdelisle/cjdns/commit/a67488835f274db7546e7a389a8980cf8075ac39)
+- [ ] [<code>Do not enforce fc range of key because it is not CryptoAuth's job</code>](https://github.com/cjdelisle/cjdns/commit/cb4256fac40c9d365892167861ed475ac87f1977)
+- [ ] [<code>Fix random generator in CryptoAuthFuzz</code>](https://github.com/cjdelisle/cjdns/commit/cbe4a5691f08df3ae07c4c4199f82385603857af)
+- [ ] [<code>Temporarily disable CryptoAuth_test for noise protocol</code>](https://github.com/cjdelisle/cjdns/commit/d4fda124c053e77f2e487d075617fb55b103d94f)
+- [ ] [<code>Removed unused error</code>](https://github.com/cjdelisle/cjdns/commit/ab9d3d1d6dcee4263bfc30f20dc88189320538e3)
+- [ ] [<code>Noise protocol impl + decrypt() API changed</code>](https://github.com/cjdelisle/cjdns/commit/670c701f2c45256bd877985603cef2726f261e5b)
+- [ ] [<code>Major refactor, switch CryptoAuth to be an Iface adaptor rather than using encrypt() and decrypt() functions</code>](https://github.com/cjdelisle/cjdns/commit/ccf923d8f6dea1aaad0effbeba760ee49107ab53)
+- [ ] [<code>Got the new cryptoauth working with message-passthrough model</code>](https://github.com/cjdelisle/cjdns/commit/7272cbdfc9b664c65f2292ff8252b56f1131a9e4)
+- [ ] [<code>Message: privatized associatedFd and ad</code>](https://github.com/cjdelisle/cjdns/commit/897bc020907c04f676e9adec9761e0f4b58e93b0)
+- [ ] [<code>Message: Privatized alloc</code>](https://github.com/cjdelisle/cjdns/commit/cd188e865c69f7216a0d37fc1e985e37b186592d)
+- [ ] [<code>Use latest rev of cjdelisle/sodiumoxide</code>](https://github.com/cjdelisle/cjdns/commit/32fdb1f761d6978276030fa676ff2a62eaff9cce)
+- [ ] [<code>Fix jshinit config path</code>](https://github.com/cjdelisle/cjdns/commit/c2a358396272cab5b9b7a1e86d51d5ce2fcc21ba)
+- [ ] [<code>Less logs in android_do for travis log limit</code>](https://github.com/cjdelisle/cjdns/commit/7b034239c716ec8a240c6fe91ecc773f15c12428)
+- [ ] [<code>privatized message.capacity</code>](https://github.com/cjdelisle/cjdns/commit/a73e2c68f722f599f30d6bfb718a1419cb58b561)
+- [ ] [<code>privatize message.padding</code>](https://github.com/cjdelisle/cjdns/commit/09fdae751d53bbe479574b6a6f4f2d34efd3c1fb)
+- [ ] [<code>Message privatize length</code>](https://github.com/cjdelisle/cjdns/commit/3651b0d4130322f5cbd7bf4d137f4bb1a462f528)
+- [ ] [<code>Change message->bytes to message->msgbytes in prep for privatizing it</code>](https://github.com/cjdelisle/cjdns/commit/8e3011cb6e5085a153df1830ced0e8110a4b20fb)
+- [ ] [<code>Get rid of some compiler warnings</code>](https://github.com/cjdelisle/cjdns/commit/b5a8365497a3f9fdc8df19311deee4295343aa74)
+- [ ] [<code>Switch to Rust CryptoAuth</code>](https://github.com/cjdelisle/cjdns/commit/a0084a9e21be5c7b8d6263dfd9f0b3905655ecfd)
+- [ ] [<code>Trying to find the source of some invalid messages</code>](https://github.com/cjdelisle/cjdns/commit/9165eb44f85a7d2737c6ddc836608b7bf989ea65)
+- [ ] [<code>Integrate logger from rust into cjdns</code>](https://github.com/cjdelisle/cjdns/commit/b27c8284baac815c2fa55578d5cbf9d270f92915)
+- [ ] [<code>Unused imports removed</code>](https://github.com/cjdelisle/cjdns/commit/7cb3c5ec054efd86ca278a613d07d60036cb96c2)
+- [ ] [<code>Missing error handling</code>](https://github.com/cjdelisle/cjdns/commit/ac88ff0892881ea8161d85fe45a70a5ff485f0a9)
+- [ ] [<code>Fixed ffi logger crash</code>](https://github.com/cjdelisle/cjdns/commit/29b727ed3b2105c03d12866e90142a98f36ff604)
+- [ ] [<code>Allow futex syscall</code>](https://github.com/cjdelisle/cjdns/commit/310576f27e0b21fd14a1c9410b7bda676e9a69d7)
+- [ ] [<code>Exclude Wfortify-source exception from gcc because it's not present</code>](https://github.com/cjdelisle/cjdns/commit/2d148b241761b4f6953f1cb7f82584f60c0a9e8f)
+- [ ] [<code>clear() should set the length to the capacity before emptying</code>](https://github.com/cjdelisle/cjdns/commit/dae02e067150dea80e64979fbf4c2fbdcbad529e)
+- [ ] [<code>Broken unit tests has been fixed.</code>](https://github.com/cjdelisle/cjdns/commit/64060c1e2476cb8e1586c542d488850811e026c8)
+- [ ] [<code>Outdated doc comment fixed.</code>](https://github.com/cjdelisle/cjdns/commit/8f4bc6d7489ee983b4f7497a9c3ac8115a7a4fc2)
+- [ ] [<code>Fixed handshake messages sending in wireguard mode + unit test for wireguard mode messaging</code>](https://github.com/cjdelisle/cjdns/commit/e49a3689444cd5de13840eee7cfee921f7c10124)
+- [ ] [<code>In debug mode, enable optimizations for dependencies, but not for our code (faster executable even in debug mode)</code>](https://github.com/cjdelisle/cjdns/commit/0ae4ef8ac469a2da3849b7b2a727cc037d1068bc)
+- [ ] [<code>Protocol version auto-detection (legacy CryptoAuth vs new WireGuard)</code>](https://github.com/cjdelisle/cjdns/commit/474535dae0661c3c7b68816d9c868ca5ed760ea7)
+- [ ] [<code>Try enabling NOISE proto</code>](https://github.com/cjdelisle/cjdns/commit/29afc1a1278fb5d184a2fb4ac1a54ed87c961a5f)
+- [ ] [<code>Enable v22</code>](https://github.com/cjdelisle/cjdns/commit/686163bfc24a71bbf1e9190e3c2023e11b859904)
+- [ ] [<code>Better logging and fix what was causing noise packets to be forwarded</code>](https://github.com/cjdelisle/cjdns/commit/e022fa45a364279c18ddb263011361b4e5fb6394)
+- [ ] [<code>Return anyhow::Error from Iface_DEFUN functions rather than an integer error type</code>](https://github.com/cjdelisle/cjdns/commit/9a9ffd57d53b04eb4526bce16ec581c5bd98382d)
+- [ ] [<code>NOISE should forward empty packets so that InterfaceController knows that a peer has been registered</code>](https://github.com/cjdelisle/cjdns/commit/4eebb331954086098abb8dda4eceed0fe4f460ee)
+- [ ] [<code>rename encrypt/decrypt to encrypt_msg/decrypt_msg</code>](https://github.com/cjdelisle/cjdns/commit/4b6011a93d51c0e0fcdce1391c824c4eff019354)
+- [ ] [<code>Reorder the operations of sending the traffic and sending the reply packets so that the message certainly gets there</code>](https://github.com/cjdelisle/cjdns/commit/41cb53da8eb921d4c662886ad409150b5294d833)
+- [ ] [<code>Add the ability to convert any kind of cjdns sockaddr to a 16 byte ipv6-like addr</code>](https://github.com/cjdelisle/cjdns/commit/91337703f1fffff99ee3d63b282b38a63decc44f)
+- [ ] [<code>Add APIs to Message and Allocator which allow creation of Rust-owned messages and allocators</code>](https://github.com/cjdelisle/cjdns/commit/6cdc8d8e464cac20b718f6d497a47fc587873e3e)
+- [ ] [<code>unused import</code>](https://github.com/cjdelisle/cjdns/commit/643c9a63084ca5012cf9cb8ea0d2d2b261a0f7d0)
+- [ ] [<code>Implemented boringtun protocol</code>](https://github.com/cjdelisle/cjdns/commit/eb83a46260c057c538389a28ce5a21d4233f2157)
+- [ ] [<code>allow __NR_getrandom syscall</code>](https://github.com/cjdelisle/cjdns/commit/0b2cf1ea5bc0fcdf4f2876cca01904d30e2c400c)
+- [ ] [<code>Better logging</code>](https://github.com/cjdelisle/cjdns/commit/b280e7d0f0f5da53ed3412701bd482e7a7b61184)
+- [ ] [<code>Allow crypto_noise to switch between acting as the initiator and acting as the responder</code>](https://github.com/cjdelisle/cjdns/commit/6b577a62ebe718f26c8407da2a0b262b78ec8bb1)
+- [ ] [<code>When using noise protocol, send the cjdns version in the encryption handshake</code>](https://github.com/cjdelisle/cjdns/commit/0a036f35827f9ece3b66b4dbd3ce965413691c40)
+- [ ] [<code>Make sure the protocol version is right</code>](https://github.com/cjdelisle/cjdns/commit/d843cb42c3237df8a8c250ad77de0ac1526d2408)
+- [ ] [<code>Add 4 beacon tests for noise/old, noise/noise, old/noise and old/old crypto protocols</code>](https://github.com/cjdelisle/cjdns/commit/7fbb3bfa9c0cdcb9260c0064cb9eaee88c2cdea1)
+- [ ] [<code>Breaking change: Introduce a new auth type, 3, uses both login and password</code>](https://github.com/cjdelisle/cjdns/commit/fb1afb5866dfb5090ac5ea7f58aa8b39a284d768)
+- [ ] [<code>Need to also include login for beacon replies</code>](https://github.com/cjdelisle/cjdns/commit/1c0d1de7cb0004ce3eaff720089616b375bcbc60)
+- [ ] [<code>incomingConnection should default to false, and the version should be provided if it is known</code>](https://github.com/cjdelisle/cjdns/commit/027ad407c5eb93c7606dda3e462188e353ff1031)
+- [ ] [<code>Make Iface a little bit more safe by including an Identity</code>](https://github.com/cjdelisle/cjdns/commit/04007c3570cb634910fdb0dae7e39441361fb53d)
+- [ ] [<code>We don't want nodes to actually byte-swap eachothers' sessions indexes.</code>](https://github.com/cjdelisle/cjdns/commit/4a14100119fc6d96fc9d46a73075ceec1a51bb39)
+- [ ] [<code>docs: Fix a few typos</code>](https://github.com/cjdelisle/cjdns/commit/6fbf406bcf6b4aabac9ea77fc0b66e78e7313470)
+- [ ] [<code>fix rust compile errors</code>](https://github.com/cjdelisle/cjdns/commit/46599f8583c03861998f6c3d3f552bc7319d1591)
+- [ ] [<code>Update readmes' indexes</code>](https://github.com/cjdelisle/cjdns/commit/a9a5748c442149c23814ccdf2b11109546e0045f)
+- [ ] [<code>irc links</code>](https://github.com/cjdelisle/cjdns/commit/9995b417fb0645062320ce3fdd899c7bffc51dd1)
+- [ ] [<code>update readme cool bar with the badges</code>](https://github.com/cjdelisle/cjdns/commit/28629bfc3e8188cf3441956d725f04b931f9b073)
+- [ ] [<code>completed the readme translation for up to date instructions</code>](https://github.com/cjdelisle/cjdns/commit/c8dd29ffd345d52378f86dcac8caac349acab329)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Missing archlinux installation notes</code>](https://github.com/cjdelisle/cjdns/commit/fc0b83d7af8e2741a8693939642404878f016d7b)
+- [ ] [<code>capitalization fix</code>](https://github.com/cjdelisle/cjdns/commit/bc2f8cc86698dfcff090a53a848048f07d70e5a5)
+- [ ] [<code>Update README.md</code>](https://github.com/cjdelisle/cjdns/commit/917df56a647242632d6a1f4c1ddd8b9bd3e62a0c)
+- [ ] [<code>Update README.md</code>](https://github.com/cjdelisle/cjdns/commit/aecb452265598576c4f244345c1be0a83f77dea1)
+- [ ] [<code>Update README.md</code>](https://github.com/cjdelisle/cjdns/commit/fbc7789440973b38a83ec79ab177242514c0992a)
+- [ ] [<code>Update cjdns-installer.sh</code>](https://github.com/cjdelisle/cjdns/commit/63fd57ad8d7af42bcfde588baaa13391b0793423)
+- [ ] [<code>Fix invalid cjdroute.conf when on a non-ethinterface machine</code>](https://github.com/cjdelisle/cjdns/commit/7d74e98c08357916793ce7dd21f8c3846e3b14e6)
+- [ ] [<code>upgrade sodiumoxide which was not working correctly on Apple/ARM</code>](https://github.com/cjdelisle/cjdns/commit/eed565c776e40d7ce0bde65abdc2e60e7f58c433)
+- [ ] [<code>Just build libuv directly as if it were part of cjdns</code>](https://github.com/cjdelisle/cjdns/commit/8e6aff8e9325deca4ab714aab2921b82b589e1a3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Finished merge of crashey back to boringtun2</code>](https://github.com/cjdelisle/cjdns/commit/8fd225a0dad1ebd3581b96898bb3c5fa55f9bf65)
+- [ ] [<code>Drop werror because compilers keep adding new stuff</code>](https://github.com/cjdelisle/cjdns/commit/e3dbd5fbadc7b53255cf67c66751362f2e27f493)
+- [ ] [<code>Flow error in builder.js</code>](https://github.com/cjdelisle/cjdns/commit/21d99d85b85f34760e749184f48d7df87e2a95bf)
+- [ ] [<code>Need to build libuv code with proper cflags</code>](https://github.com/cjdelisle/cjdns/commit/8f95937c09dd7f26bb9459aa744f8aea1bc555f6)
+- [ ] [<code>need _GNU_SOURCE for libuv code</code>](https://github.com/cjdelisle/cjdns/commit/e873ef12c29d3f2c4865c2d7733716a86caa5bb8)
+- [ ] [<code>refac binaries into bin/</code>](https://github.com/cjdelisle/cjdns/commit/f85c35647e6a978a9d0e0e4dec4d2bb9456726a1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>new Rffi_inet_ntop</code>](https://github.com/cjdelisle/cjdns/commit/b079099845905a0412befd1d4aa034fe00a2e9e0)
+- [ ] [<code>new Rffi_inet_pton</code>](https://github.com/cjdelisle/cjdns/commit/530ed0af1b9e9e476681d2da40e3df175cdbe27b)
+- [ ] [<code>change libuv funcs to use new rffi ones</code>](https://github.com/cjdelisle/cjdns/commit/5d54b35e99aa2f0cf00a8131535025689cc111f7)
+- [ ] [<code>new generated rffi.h</code>](https://github.com/cjdelisle/cjdns/commit/aba96c54a7bd16c1cbeddf1e430ba87f94812ded)
+- [ ] [<code>manual merge</code>](https://github.com/cjdelisle/cjdns/commit/a32b459d0e0cb6d77aed5ec1ae2d359774dac1b4)
+- [ ] [<code>Merge branch 'README-formatting-fix' of https://github.com/qskwood/cjdns into crashey</code>](https://github.com/cjdelisle/cjdns/commit/bb0cdb287732321d90349c008345439d5edec392)
+- [ ] [<code>Merge branch 'master' of https://github.com/kaotisk-hund/cjdns into crashey</code>](https://github.com/cjdelisle/cjdns/commit/8209adbd36a76ec7e11b73ffada4eb863eb6ff4e)
+- [ ] [<code>Merge branch 'patch-1' of https://github.com/zciendor/cjdns into crashey</code>](https://github.com/cjdelisle/cjdns/commit/f4e506ee7f04621ddc231c20de62d5077f8e9c28)
+- [ ] [<code>Merge branch 'bugfix_typos' of https://github.com/timgates42/cjdns into crashey</code>](https://github.com/cjdelisle/cjdns/commit/0b92218037ba3d4d1fcbdb8776aec2e338f1ebf5)
+- [ ] [<code>manual merge</code>](https://github.com/cjdelisle/cjdns/commit/03d93e6c2119a8d9fa72bd900da2f8b119e06692)
+- [ ] [<code>Merge branch 'patch-2' of https://github.com/kaue/cjdns into crashey</code>](https://github.com/cjdelisle/cjdns/commit/c31d0cc151549ffd9ce8314e7253a328e86779d8)
+- [ ] [<code>Merge branch 'patch-17' of https://github.com/blrhc/cjdns into crashey</code>](https://github.com/cjdelisle/cjdns/commit/2f4f7b6b9b84234f4d68ee6eb820f6cebdbce302)
+- [ ] [<code>remove uv header</code>](https://github.com/cjdelisle/cjdns/commit/e5d9fb6376b037d6bdf57e7f22c1ad37314ad71d)
+- [ ] [<code>Merge pull request #1240 from rsalmei/libuv-remove-step1</code>](https://github.com/cjdelisle/cjdns/commit/6ad278871539c91dada6475c7645adb1a9a80976)
+- [ ] [<code>Moved in.h to the bottom per convension</code>](https://github.com/cjdelisle/cjdns/commit/14851e52642825224c585f7f22cf996b8ccb7074)
+- [ ] [<code>new Rffi timing functions</code>](https://github.com/cjdelisle/cjdns/commit/9ec0628a4dcf84eb0857bc0142e0a9617fba06bd)
+- [ ] [<code>new generated rffi.h</code>](https://github.com/cjdelisle/cjdns/commit/9abec9b8ebf8e29105d625f7a307f30215bb92a9)
+- [ ] [<code>change libuv time funcs to use new rffi ones</code>](https://github.com/cjdelisle/cjdns/commit/7a861bdbdb1ea6da47252492b8cefa0e8228a30c)
+- [ ] [<code>include an instant offset in monotonic time</code>](https://github.com/cjdelisle/cjdns/commit/f5cd41d9454339f2747d87157070ff88eb60895b)
+- [ ] [<code>remove unused param from new timing funcs</code>](https://github.com/cjdelisle/cjdns/commit/4d0aefc5a515e79c9898bbdb3cfb5a8c7159fe9b)
+- [ ] [<code>Merge pull request #1241 from rsalmei/libuv-remove-step2</code>](https://github.com/cjdelisle/cjdns/commit/847c1a904db79070ca02506ab458f75eb59f6c05)
+- [ ] [<code>manual merge crashey</code>](https://github.com/cjdelisle/cjdns/commit/7ba35479e730adc699d4b90832e1d48e1ae716de)
+- [ ] [<code>Should be using the UV wrapper here</code>](https://github.com/cjdelisle/cjdns/commit/2a31cfdade69f1f3561073b58b7a06e751529a43)
+- [ ] [<code>Don't need EventBase_pvt in Time.h</code>](https://github.com/cjdelisle/cjdns/commit/f02b23aaca5dfbdce712e654c1adcef169b22f47)
+- [ ] [<code>rustfmt</code>](https://github.com/cjdelisle/cjdns/commit/1a5db3a8ec0a272d3489ff21692be7b2535a1e72)
+- [ ] [<code>include pnet_datalink, which is part of pnet: a cross-platform API for low level networking using Rust</code>](https://github.com/cjdelisle/cjdns/commit/eb01e7cedc432c82cf478a52d513599f59168952)
+- [ ] [<code>hide constants within method</code>](https://github.com/cjdelisle/cjdns/commit/0cae73eaa0cc620a4a4766c13a6646ff828ab51a)
+- [ ] [<code>typo</code>](https://github.com/cjdelisle/cjdns/commit/70c2a8f0019ad5096f92d891ae1de9980acf6912)
+- [ ] [<code>switching to the full pnet, since I've found it is used in other projects</code>](https://github.com/cjdelisle/cjdns/commit/04399625ed9eb03c522521b6e74a2b33fae3aa83)
+- [ ] [<code>new Rffi_interface_addresses</code>](https://github.com/cjdelisle/cjdns/commit/281183bd9913e90a5618ccd7eb301926919f6947)
+- [ ] [<code>test for Rffi_interface_addresses</code>](https://github.com/cjdelisle/cjdns/commit/d463b761fdfa5fcabc872032a4c70297778b95f3)
+- [ ] [<code>include phys_addr</code>](https://github.com/cjdelisle/cjdns/commit/1acdba64d96fba4026380a3e8c1ada4f0c5b5a31)
+- [ ] [<code>update C code, to use the new Rffi_interface_addresses</code>](https://github.com/cjdelisle/cjdns/commit/8353145a44cabd186d76b803488f7a7aeac082c5)
+- [ ] [<code>Merge pull request #1242 from rsalmei/libuv-remove-step3</code>](https://github.com/cjdelisle/cjdns/commit/e258ba37e3b10856926415731cc20e38361b4328)
+- [ ] [<code>improve docs</code>](https://github.com/cjdelisle/cjdns/commit/6f0f9520a8460b6c7e806eeb413d3774b11b5b4a)
+- [ ] [<code>new rffi exepath function</code>](https://github.com/cjdelisle/cjdns/commit/397b3bd84f7b10533fdbc3d92b0f0a3a9f9d2868)
+- [ ] [<code>test exepath</code>](https://github.com/cjdelisle/cjdns/commit/45be49eab5b502fa3a4804a39ced602485011046)
+- [ ] [<code>use new exepath Rust in C</code>](https://github.com/cjdelisle/cjdns/commit/5048e00611830d47658086570e541fe7a8451390)
+- [ ] [<code>new rffi.h</code>](https://github.com/cjdelisle/cjdns/commit/ef05b17ef3e44806d59895ecf36d75e43003a23b)
+- [ ] [<code>include tokio dependency</code>](https://github.com/cjdelisle/cjdns/commit/89342013b8f9315a218134bf4c7015630a286826)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refac main macro, to instantiate an async tokio Runtime for every binary</code>](https://github.com/cjdelisle/cjdns/commit/a5e15a2fbc1cbeef2c756e7ca7735e656bcee3c0)
+- [ ] [<code>new rffi spawn function</code>](https://github.com/cjdelisle/cjdns/commit/0484a69d7b2696f692764c58d7e385f9f5295543)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>new generated Rffi.h</code>](https://github.com/cjdelisle/cjdns/commit/d99915f60ac6c8b5debba14745a26c300bafc811)
+- [ ] [<code>update Process.c to use the new Rffi</code>](https://github.com/cjdelisle/cjdns/commit/6c93a84be938e702331bf71a5dd0d5b1daf4b84d)
+- [ ] [<code>remove event base from process spawn</code>](https://github.com/cjdelisle/cjdns/commit/b413e59554e9e18fbfdf5b9dea267cb8b35a9f93)
+- [ ] [<code>fix every call site of Process_spawn</code>](https://github.com/cjdelisle/cjdns/commit/6aa260955f544b4cea83a143508798753f58591d)
+- [ ] [<code>Merge pull request #1243 from rsalmei/libuv-remove-step4</code>](https://github.com/cjdelisle/cjdns/commit/5c28c728fbd7b257b2e1b32cdc358ad63a1fea9a)
+- [ ] [<code>c_char may or may not be signed</code>](https://github.com/cjdelisle/cjdns/commit/196dded7dea7648af3c3e8fae087eaffdb85f024)
+- [ ] [<code>crap, missed a spot</code>](https://github.com/cjdelisle/cjdns/commit/b5f9bca7aaffb395c74d79f4f6b7ac91b90a3004)
+- [ ] [<code>Allow blocking open the uv loop so that it will not prematurely shut down</code>](https://github.com/cjdelisle/cjdns/commit/03c61dc8c5a48b47bb7f4033cb5195b8318af8ed)
+- [ ] [<code>Merge branch 'master' into crashey</code>](https://github.com/cjdelisle/cjdns/commit/9a3a4f5773526e4c01da0419f1627c5a00e47a0f)
+- [ ] [<code>Merge branch 'master' into crashey</code>](https://github.com/cjdelisle/cjdns/commit/b4a8badc2289bf115383ef71adab448c5f44c240)
+- [ ] [<code>Merge branch 'master' into crashey</code>](https://github.com/cjdelisle/cjdns/commit/403ebf8540fffc7b74f7d6dd6418bedfb80738cb)
+- [ ] [<code>add Simplified Chinese doc</code>](https://github.com/cjdelisle/cjdns/commit/d263dd5a8cea5ec531f229c6082b2cd65485c3c1)
+- [ ] [<code>Fixed Android build</code>](https://github.com/cjdelisle/cjdns/commit/78adf05ef0e5f5a174e70bc95a267b5146dcf826)
+- [ ] [<code>Suppress logs until the logger has been configured.</code>](https://github.com/cjdelisle/cjdns/commit/f7ce1b206d2ce677d1b57ba377093c4dda9a6414)
+- [ ] [<code>Get rid of a compiler warning by explicitly dropping the box.</code>](https://github.com/cjdelisle/cjdns/commit/47dee2759712cbaabedd702e8afc38b07b851d6c)
+- [ ] [<code>Get rid of LTO which takes ages to complete</code>](https://github.com/cjdelisle/cjdns/commit/8c3288b943971ed9d5ed49f8b914db2cdc20b14e)
+- [ ] [<code>Add a drop-guard to cif.rs so that in case the other side of the iface has been dropped (e.g. session timed out), it won't try to send to it</code>](https://github.com/cjdelisle/cjdns/commit/b9721b9bf11a1e19b00f924d850567cd9ccff70f)
+- [ ] [<code>downgrade pnet because new version is not supported on ARM</code>](https://github.com/cjdelisle/cjdns/commit/f3eb6539850f0c87d82ba689207e850fbff1878a)
+- [ ] [<code>Make sure to always zero an Address when it is created</code>](https://github.com/cjdelisle/cjdns/commit/da79d887c8a7b5fca2ecc699739ad2dd3a5e4fe9)
+- [ ] [<code>When doing a debug build, build the deps with -O2, not -O3 which is self-defeating</code>](https://github.com/cjdelisle/cjdns/commit/1cfa063e49c458544f82068a1f33c742665a7f04)
+- [ ] [<code>Defining android causes android to fail building, defining android=android makes Defined macro not work.</code>](https://github.com/cjdelisle/cjdns/commit/9e8ea4cbfd66430a458e5764007578816df2117b)
+- [ ] [<code>Do not use direct epoll_wait on android because of SECCOMP limitation</code>](https://github.com/cjdelisle/cjdns/commit/1b00bb1f462a637d8fa403dbbecd1f5799bcc6bd)
+- [ ] [<code>Allow any kind of socket syscall to fix seccomp crash from rust code</code>](https://github.com/cjdelisle/cjdns/commit/ca0dcfcb0d8570a5f93e2e248af43daac085e0bc)
+- [ ] [<code>Allow fcntl64 on armeabi</code>](https://github.com/cjdelisle/cjdns/commit/b97c6c87e99722e7f2ae9778ec9be669a460fa8e)
+- [ ] [<code>This is not needed at this stage, it will be needed later as we integrate rust and libuv.</code>](https://github.com/cjdelisle/cjdns/commit/456bd0293c144a5bd3c04cbee533afef5e890fe1)
+- [ ] [<code>Deprecation warnings on mkpasswd and sybilsim</code>](https://github.com/cjdelisle/cjdns/commit/f34e200165f002b808a35b5982a60b6169674504)
+- [ ] [<code>Release is official!</code>](https://github.com/cjdelisle/cjdns/commit/ca53b3b40fc7fb5eebccc2d494f51e20b0f40577)
+- [ ] [<code>Merge master</code>](https://github.com/cjdelisle/cjdns/commit/f3449831541a98f085c1e34ad941c10d9104dd47)
+  - <sub>Tags: <code>cjdns-v22</code></sub>
+- [ ] [<code>Merge branch 'master' into master</code>](https://github.com/cjdelisle/cjdns/commit/74b0730e0b88c94e82a92fd687f2619b2a213e62)
+- [ ] [<code>Merge pull request #1248 from BoynChan/master</code>](https://github.com/cjdelisle/cjdns/commit/1ccfbe5ed25b7d3a35aa1daadb46f9079d3522af)
+- [ ] [<code>Crash bug when excepting ALL addresses RouteGen_addException('0.0.0.0/0')</code>](https://github.com/cjdelisle/cjdns/commit/6271719f48861fb6da6028cb1967313514191318)
+> Dropped common-licenses - no appropriate URL found
+
+#### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
+
+- [ ] [<code>#17834 Avoid NPE on empty editor close (#17836)</code>](https://github.com/dbeaver/dbeaver/commit/e895111757da8088a17d940abd1d52a8016711c1)
+- [ ] [<code>CB-2077 save pattern variables</code>](https://github.com/dbeaver/dbeaver/commit/f808203dfb762cd7f5b7cdc32ad49d6ad9f75935)
+- [ ] [<code>#17825 avoid NPE during the data export to CSV with the custom header (#17832)</code>](https://github.com/dbeaver/dbeaver/commit/c5f152dee16fb8a28734e779de398dda1efe1061)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-2534 Support sql server and oracle as internal db (#17790)</code>](https://github.com/dbeaver/dbeaver/commit/f6b333d77795bc0bd1dc69344e48cb851730163e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-2517 url connection configuration for drivers (#17813)</code>](https://github.com/dbeaver/dbeaver/commit/663b7dfbc986b5ff9f97bacb3d802eac869c59be)
+- [ ] [<code>dbeaver/dbeaver-ee#2031 Fix specified url usage for url configuration type for some databases (#17854)</code>](https://github.com/dbeaver/dbeaver/commit/a63292bd140bd5160f285ff62dfd72c546fec7ef)
+- [ ] [<code>Binary editor dispose fix</code>](https://github.com/dbeaver/dbeaver/commit/e215949f36d0ddccb6a7fc50164ce9b88d02507b)
+- [ ] [<code>#13208 Oracle schema DDL read performance + monitoring</code>](https://github.com/dbeaver/dbeaver/commit/cf13f9b5f311067e5975ac8c7eb00500ed884662)
+- [ ] [<code>CB-2517 add url configuration type for ms sql</code>](https://github.com/dbeaver/dbeaver/commit/1d7e1915852f215d20ba5af786ceced89a84d2ac)
+- [ ] [<code>Asserts for datasources</code>](https://github.com/dbeaver/dbeaver/commit/7247d6045df7285acd31fba77e142c3b119b0f6c)
+- [ ] [<code>#17865 PG: do not use preferQueryMode parameter</code>](https://github.com/dbeaver/dbeaver/commit/1456d6db20c19249f5b28269076729cb43fadabb)
+- [ ] [<code>#17875 Make row number start with `1` in the record mode (#17877)</code>](https://github.com/dbeaver/dbeaver/commit/32073d771f63bf2ba9b2fd140d270ea5c87e12c2)
+- [ ] [<code>16673 inconsistent results between gridtext displays (#17872)</code>](https://github.com/dbeaver/dbeaver/commit/fccda6011aacb45d5d8a6552e90844f3283efead)
+- [ ] [<code>dbeaver/dbeaver-ee#2044 fix(security): update pgjdbc due to known CVEs (#17884)</code>](https://github.com/dbeaver/dbeaver/commit/4070089f6177c2fd09ef364c57ad46a9f7268125)
+- [ ] [<code>1989 update eclipse version (#17850)</code>](https://github.com/dbeaver/dbeaver/commit/4a51a33d9f608be9e4e47bfdce9679053dc4b79d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#16445 support of UUID MariaDB data type added (#17843)</code>](https://github.com/dbeaver/dbeaver/commit/4d65b48d6de70aa8dcec4e63d93432f221b3b576)
+- [ ] [<code>15650 the value viewer panel does not remember by which column is data sorted (#17869)</code>](https://github.com/dbeaver/dbeaver/commit/c5682a407fc40d7402c6da188942ac45d9b144fc)
+- [ ] [<code>CB-2077 add nullability annotations for the function</code>](https://github.com/dbeaver/dbeaver/commit/3ef102952f42b64fe2d02a4f8d84e294575828f7)
+- [ ] [<code>CB-2657 Auth role + auth model refactoring + AD claims (#17855)</code>](https://github.com/dbeaver/dbeaver/commit/fced41e7f769b1e3f7e2b8e4e15a5d10fa060130)
+- [ ] [<code>#17892 Driver download dialog shell fix</code>](https://github.com/dbeaver/dbeaver/commit/f661f3fb7d48c08ea2bd7f58c59885aecacd633f)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into tech/CB-2077</code>](https://github.com/dbeaver/dbeaver/commit/ac6d3fc55ac6e3a79b3080f0569777e779981e02)
+- [ ] [<code>CB-2660 Read resource properties in navigator model</code>](https://github.com/dbeaver/dbeaver/commit/0fd0e99c930c06eb9bca0c1d6cc41fb0de0e0bfb)
+- [ ] [<code>BigQuery advanced driver configuration + bundle rename</code>](https://github.com/dbeaver/dbeaver/commit/682c4b35f17773e2daa12f324a88449d39898cb4)
+- [ ] [<code>Databricks advanced driver configuration</code>](https://github.com/dbeaver/dbeaver/commit/796531f9532538ac477e888fa27f07674817a93e)
+- [ ] [<code>Minor fixes + debug configs</code>](https://github.com/dbeaver/dbeaver/commit/46ae36b72f3437c7981c5334b33f678d6ba5b2da)
+- [ ] [<code>Tunnel config UI fix</code>](https://github.com/dbeaver/dbeaver/commit/5a7c2b332ca0cb2c8c542ac8773efa028ef14c94)
+- [ ] [<code>#17904 Enable create task handler</code>](https://github.com/dbeaver/dbeaver/commit/eacf3f039c2fb677d7256b40c7fd4a4911a3aa79)
+- [ ] [<code>CB-2660 Return empty properties</code>](https://github.com/dbeaver/dbeaver/commit/29bd4c94b419b0e1f115bab180ac4a927d095275)
+- [ ] [<code>CB-2660 Return empty properties</code>](https://github.com/dbeaver/dbeaver/commit/2fb61c053391eb3fb6bf18e42c71fbe15ab61dbc)
+- [ ] [<code>#17904 Tasks view shows only active project. Task create/edit commands enablement fix. (#17905)</code>](https://github.com/dbeaver/dbeaver/commit/09ede6ae4024b53d47200b593453659334258a08)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver-ee#1805 Driver license info button (#17868)</code>](https://github.com/dbeaver/dbeaver/commit/3b4b4b25ce553bcbf0c40e91a61ca11a6345949a)
+- [ ] [<code>dbeaver/dbeaver-ee#1819 Schema variable in export wizards + default o… (#17866)</code>](https://github.com/dbeaver/dbeaver/commit/f2ba61768c2523dfaa5b19bebd44683be8ba51eb)
+- [ ] [<code>#17619 Add ` to escaping for mysql (#17870)</code>](https://github.com/dbeaver/dbeaver/commit/e8b54004ea33ebc4ae4633ef66b5bab98b800ab7)
+- [ ] [<code>#17893 Automatic driver version upgrade (#17907)</code>](https://github.com/dbeaver/dbeaver/commit/5f116b256bfa41fe5f5a1250a75e5ef806567115)
+- [ ] [<code>- Java 17 migration</code>](https://github.com/dbeaver/dbeaver/commit/3ad8d71112f58face4e3dc57404a24e35c5dbe5c)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/882c67f0f566de1e6307f4858ce3651417e2ce62)
+- [ ] [<code>dbeaver/dbeaver-ee#1911 Store configs on RM for TE (#17816)</code>](https://github.com/dbeaver/dbeaver/commit/106e7ffcf47d00c36db61289ef5bc4d85774a91e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #17863 from dbeaver/fix/CB-2517</code>](https://github.com/dbeaver/dbeaver/commit/72e7705b59b6a70e45d8e856398ccd306a3c56f6)
+- [ ] [<code>#17152 Prompt to cancel database tasks upon application exit (#17899)</code>](https://github.com/dbeaver/dbeaver/commit/3a5fe1f95daf6194faebe631468b2b2d2a5c6afa)
+- [ ] [<code>#15644 Remove precision and scale for unbound numeric types (#17894)</code>](https://github.com/dbeaver/dbeaver/commit/261a03fa33fba6b712be042752481653edbcb9db)
+- [ ] [<code>Update README.md</code>](https://github.com/dbeaver/dbeaver/commit/53988da10572b2a6bcb7f0577987ba61bae15ad8)
+- [ ] [<code>Update README.md</code>](https://github.com/dbeaver/dbeaver/commit/52963b10625c184cb523a237cf88661869493511)
+- [ ] [<code>Update README.md</code>](https://github.com/dbeaver/dbeaver/commit/7ec74f786acc4b702468610a4e352d3e34f1687d)
+- [ ] [<code>#17916 Fix NPE in connection preferences (#17917)</code>](https://github.com/dbeaver/dbeaver/commit/081668b3bb73c8bbe9214b5981b43eb2e874e6b1)
+- [ ] [<code>Workspace project resolution fix</code>](https://github.com/dbeaver/dbeaver/commit/d40cfd9168be97c7c31e68cc90a1998a9dbe24ec)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/44f6d00744606c1b8b9dd80a923ddeb0fb3bc55c)
+- [ ] [<code>CB-2713 license role management</code>](https://github.com/dbeaver/dbeaver/commit/9210dba0d0ed21575fdea7645801a34bb54bfba0)
+- [ ] [<code>CB-2713 license role management</code>](https://github.com/dbeaver/dbeaver/commit/c78c10441b5b056414fba292ea4623d01489915b)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into tech/CB-2077</code>](https://github.com/dbeaver/dbeaver/commit/334e34a5538558729af10ae534e856138f8ff62e)
+- [ ] [<code>dbeaver/dbeaver-ee#2057 Add logging for task start/finish (#17935)</code>](https://github.com/dbeaver/dbeaver/commit/d5dc50cdee0d02e9d31ec9aa354a9f09b13ce44b)
+- [ ] [<code>CB-2571 fix auth role context</code>](https://github.com/dbeaver/dbeaver/commit/d1cdc6a361a1b4d7a7e175bd20ae991c8cbeeef6)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into CB-2571-license-access-determine-license-role-for-user-session</code>](https://github.com/dbeaver/dbeaver/commit/d80364c74fff8bc0735a276a0c05560c6dfeefb1)
+- [ ] [<code>Specific row attribute read fixed</code>](https://github.com/dbeaver/dbeaver/commit/7b543ad56c880b2b03a94f10509c20c6f5c1101f)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/2229dd4a683248feef1e4709edd9543372253819)
+- [ ] [<code>#16570 Show a warning when no task types are available; introduce `standalone` task type flag (#17926)</code>](https://github.com/dbeaver/dbeaver/commit/82c42f1087296d02fcd7b5f683bf083089b7add8)
+- [ ] [<code>#17649 Hide network-related configuration pages for embedded drivers (#17923)</code>](https://github.com/dbeaver/dbeaver/commit/e99ce1625a198ad8d48b04894979951d1beb29db)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into tech/CB-2077</code>](https://github.com/dbeaver/dbeaver/commit/bdef4881171d9ba4273a778c2960728ba194477d)
+- [ ] [<code>Merge pull request #17929 from dbeaver/CB-2571-license-access-determine-license-role-for-user-session</code>](https://github.com/dbeaver/dbeaver/commit/9b9abbb40103f05151abcfc11cea018b35e7bdcc)
+- [ ] [<code>#17811 add opensearch driver (#17947)</code>](https://github.com/dbeaver/dbeaver/commit/4bbce5dc76d6348f7f90338c25c7df623869bf85)
+- [ ] [<code>#17329 be more case-sensitive in case of column naming during the dat… (#17924)</code>](https://github.com/dbeaver/dbeaver/commit/52819ce50af9bd96bbd552def5f55713f2b1c7a0)
+- [ ] [<code>#11684 move order and where query generation to DialectQueryGenerator (#17800)</code>](https://github.com/dbeaver/dbeaver/commit/4297350b8161616f6b5389ec9f78803f1f46fbbc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#16205 Append data to existing sheets (#17936)</code>](https://github.com/dbeaver/dbeaver/commit/aa30898b3ce49b410950b1671b760c71eeb85994)
+- [ ] [<code>#17849 unsupported query part of alter table alter column statement removing for Redshift (#17911)</code>](https://github.com/dbeaver/dbeaver/commit/7bc487982c2dcecf1da8c38def9b636890ad647c)
+- [ ] [<code>dbeaver/dbeaver-ee#2034 check existing of fmterrtbl column in Greenplum (#17873)</code>](https://github.com/dbeaver/dbeaver/commit/eb80e6d47fff072c80e7efc8dbb3c1ad56635168)
+- [ ] [<code>#17770 Allow three states for separate connection options (#17948)</code>](https://github.com/dbeaver/dbeaver/commit/6ec5aedf83836df691c1eae7bbf36f5bfab032ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver-ee#1782 fix import xlsx numbers as strings (#17933)</code>](https://github.com/dbeaver/dbeaver/commit/60282e84646825ededbd9304cd08ee99aa053611)
+- [ ] [<code>dbeaver/dbeaver-ee#2023 use eclipse resource menu to open blobs (#17956)</code>](https://github.com/dbeaver/dbeaver/commit/63c812f221f399305a822b33f770e9f5eac73b4f)
+- [ ] [<code>#8673 Oracle `DATE` type formatting fix (#17925)</code>](https://github.com/dbeaver/dbeaver/commit/e75a45358d451d96ad50d585bf599173ac21f807)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#17748 fix jump password when not providing password (#17806)</code>](https://github.com/dbeaver/dbeaver/commit/7c18d2805b816f87918ee3c6fdc3e851945e5375)
+- [ ] [<code>22.2.3 config</code>](https://github.com/dbeaver/dbeaver/commit/210dfd3d04abaedbeb4f65282da75069ace7067e)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into tech/CB-2077</code>](https://github.com/dbeaver/dbeaver/commit/cbefacaeb61d36a4fbabe64858f535a7ceaa3086)
+- [ ] [<code>Merge pull request #17844 from dbeaver/tech/CB-2077</code>](https://github.com/dbeaver/dbeaver/commit/7b81c1cb187d17110abfa98a22c27ff756b74f8d)
+- [ ] [<code>dbeaver/dbeaver#17363 fix ClickhouseSSL (#17952)</code>](https://github.com/dbeaver/dbeaver/commit/7eb92fd9d8d4ab4b4f8b825a54e29bcca761f223)
+- [ ] [<code>dbeaver/dbeaver-ee#1995 File conflict behavior in data export (#17912)</code>](https://github.com/dbeaver/dbeaver/commit/96838650df7ca021840a97c678bf544cd6e52e7c)
+- [ ] [<code>#17162 Localize non-localized strings (#17950)</code>](https://github.com/dbeaver/dbeaver/commit/6cecdf5ae168f423c44eb9005abf71c083470c36)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Manifest fix: export packages</code>](https://github.com/dbeaver/dbeaver/commit/99e2dc691096ebb634140f7363a2c9f4c98263f0)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/ee940c6723cf68a0c1c642893e6d48ae801e9095)
+- [ ] [<code>fix manifest</code>](https://github.com/dbeaver/dbeaver/commit/3aa559ceffaa0ecfad6ccfd74582f2df3dea4531)
+- [ ] [<code>Merge pull request #17979 from dbeaver/fix-manifest</code>](https://github.com/dbeaver/dbeaver/commit/85b612aab506732b596b341084bb1cb9923b9b9e)
+- [ ] [<code>dbeaver/dbeaver-ee#2035 License view dialog button fix</code>](https://github.com/dbeaver/dbeaver/commit/63081ce9e0fcf2b04bf92cd55e3faf5c113de54b)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/b9e099025d7a9dcf980057552142743ef03aa6de)
+- [ ] [<code>dbeaver/dbeaver-ee#1995 Fix xlsx append (#17995)</code>](https://github.com/dbeaver/dbeaver/commit/e1292f76f3a274606f03b60432a35f9a7b352f55)
+- [ ] [<code>#16440 Include description column when exporting as XLSX (#17896)</code>](https://github.com/dbeaver/dbeaver/commit/c868d60b70106ea1c4932ce2c017d61385d61b3c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/dbeaver-ee#1754 Add fallback output directory (#17921)</code>](https://github.com/dbeaver/dbeaver/commit/ea2536ee1e36c306c88385cd0bcd137a2706a711)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver-ee#1664 Implement `days to store log` preference (#17968)</code>](https://github.com/dbeaver/dbeaver/commit/79a71f94f86757f0450aae35b2fd462506c30b5e)
+- [ ] [<code>Merge pull request #18006 from dbeaver/17892-update-driver-dialog-is-not-clickable-until-driver-settings-dialog-is-opened</code>](https://github.com/dbeaver/dbeaver/commit/c94ea3cbddd992b5b68679b136b88fa6f6cb900a)
+- [ ] [<code>CB-2186 add event for adding rm node to navigator model</code>](https://github.com/dbeaver/dbeaver/commit/831b2f56db12e9d03234c874788140754654c998)
+- [ ] [<code>Cb 2714 federated auth claim role info (#17932)</code>](https://github.com/dbeaver/dbeaver/commit/00742932fb73bfc2f68c0a773714d39398ddccd9)
+- [ ] [<code>CB-2024: Create methods to get current user information</code>](https://github.com/dbeaver/dbeaver/commit/c2ad330837368f2e177a65527df8a2b609cd7915)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/5fd4ae6b428089a526ff4da8de7d1e23e31bb76d)
+- [ ] [<code>CB-2186 event fixes</code>](https://github.com/dbeaver/dbeaver/commit/064d77ca7df75ce404dca09aa85f541a8f032543)
+- [ ] [<code>CB-2731 exclude unnecessary drivers</code>](https://github.com/dbeaver/dbeaver/commit/a258387c85d15bf59cafa1eebeff1504214ceab4)
+- [ ] [<code>CB-2702 refactor: remove global project const</code>](https://github.com/dbeaver/dbeaver/commit/d2b905120d5e27319324efe8d41c1f3f89bbc583)
+- [ ] [<code>Merge pull request #17918 from dbeaver/CB-2024-create-methods-to-get-current-user-information</code>](https://github.com/dbeaver/dbeaver/commit/afb062dec9747be4f5c72142aa50b7d5871f6606)
+- [ ] [<code>Merge branch 'devel' into refactor/cb-2702/remove-global-project-const</code>](https://github.com/dbeaver/dbeaver/commit/349f21c65294e33683034b4c2231e885a094b1ae)
+- [ ] [<code>Clickhouse SSL: do not disable by default</code>](https://github.com/dbeaver/dbeaver/commit/ab2498546b91a380f42536c9e4826e05258a3edc)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/a29d0d9f2c1aff41b4197a0713f4139eb9a0bf63)
+- [ ] [<code>#11072 Show task variables before running it (#17986)</code>](https://github.com/dbeaver/dbeaver/commit/1897efd47337b70a2defe9af6703d286438845c5)
+- [ ] [<code>#16789 avoid standard redefiner in the generic new created scripts (#17945)</code>](https://github.com/dbeaver/dbeaver/commit/9b847cff5f61e1e56030cb606108c7644b8f6755)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver-ee#1993 add grants to inherited objects (#17980)</code>](https://github.com/dbeaver/dbeaver/commit/7e6a4f2ce55adae14b00f08f1f3d911f1209f39d)
+- [ ] [<code>CB-2186 connection folder fixes</code>](https://github.com/dbeaver/dbeaver/commit/8dd76810053ccd4e0a454678bb6c6f8d5f8b5edd)
+- [ ] [<code>#15352 Add hint for database field on the connection page for PostgreSQL (#18035)</code>](https://github.com/dbeaver/dbeaver/commit/3031fa634d247e8f5cc650483bdb5d3ac939f341)
+- [ ] [<code>dbeaver/dbeaver#16972 fix sqlite recreate ddl (#17937)</code>](https://github.com/dbeaver/dbeaver/commit/0145f152a19b1d5801868c155a28dc0491c9d859)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#17460 do not change attributes names in case of task using (#17972)</code>](https://github.com/dbeaver/dbeaver/commit/65758affa461dc7e64cecb795bcf69b5c63aadc0)
+- [ ] [<code>dbeaver/dbeaver-ee#1725 remove queries from the log (#17966)</code>](https://github.com/dbeaver/dbeaver/commit/2861dae556a4690c24a18552ecbce5a358ca580b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-2186 code style fix</code>](https://github.com/dbeaver/dbeaver/commit/1a775b22bbebc2a54d5ce73937f9929c91da225c)
+- [ ] [<code>dbeaver/dbeaver-ee#2050 Datasource events enabled for desktop apps (#18042)</code>](https://github.com/dbeaver/dbeaver/commit/ef95ef5f131995a6fd62f39c65932239f121571c)
+- [ ] [<code>CB-2774 QM filters model refactoring (pass dates as strings) (#18039)</code>](https://github.com/dbeaver/dbeaver/commit/c672e52dbff60a63eda2e46c6ad33b4c25edacc4)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into tech/CB-2731</code>](https://github.com/dbeaver/dbeaver/commit/30519ded8d14a8ee6601bb03c46a06a893de935a)
+- [ ] [<code>Merge pull request #18011 from dbeaver/tech/CB-2186</code>](https://github.com/dbeaver/dbeaver/commit/87304d99c1fddf0a8c346b5178f2f194c38fe948)
+- [ ] [<code>Merge pull request #18027 from dbeaver/tech/CB-2731</code>](https://github.com/dbeaver/dbeaver/commit/2344a0323603f2f115f9c3963b20e15c36cabe3c)
+- [ ] [<code>dbeaver/dbeaver-ee#2088 confirmation if statement opens a lot of result sets (#18009)</code>](https://github.com/dbeaver/dbeaver/commit/48e27dc36ff6251eb0b88d9956737c5ee95dbf8c)
+- [ ] [<code>dbeaver/dbeaver-ee#1930 Let decorator decide which styles are supported (#18046)</code>](https://github.com/dbeaver/dbeaver/commit/5ad465a5740f46753c4cd49702bc3749428967f3)
+- [ ] [<code>#17266 Reveal hidden attribute in its original position (#18047)</code>](https://github.com/dbeaver/dbeaver/commit/dd546ef642f65454805696d168e1bb0b745095ae)
+- [ ] [<code>dbeaver/dbeaver-ee#2074 Prefer column name case from the metadata (#17992)</code>](https://github.com/dbeaver/dbeaver/commit/fcbb29c81d9ed8d41972eb221f4fc864dd7749c7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#17975 Add tooltip for separate connection combo (#18008)</code>](https://github.com/dbeaver/dbeaver/commit/3899499445edc4398528f486a0306a5de394f7ec)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into refactor/cb-2702/remove-global-project-const</code>](https://github.com/dbeaver/dbeaver/commit/1a67eb5b81133a2592d46409104162efc799e66a)
+- [ ] [<code>#17043 Add parameter's rules before word rules (#18059)</code>](https://github.com/dbeaver/dbeaver/commit/f8850cc5758588f2c195dc46219d9b714950f419)
+- [ ] [<code>#2049 Custom diagrams save fix (#18051)</code>](https://github.com/dbeaver/dbeaver/commit/a3e11834f743ad5818b9c6fcb6682d92a8d66ba0)
+- [ ] [<code>dbeaver/dbeaver-ee#2027 setting of precision and scale NUMBER paramet… (#17974)</code>](https://github.com/dbeaver/dbeaver/commit/cf63df1f1b51efaae0c8c2442912470b6797dbc0)
+- [ ] [<code>dbeaver/dbeaver-ee#2061 App config read, private projects configurati… (#18040)</code>](https://github.com/dbeaver/dbeaver/commit/a10c0cd1a87197285faec9d95ba1888ee20f68da)
+- [ ] [<code>#16520 Normalize resource path on properties read/write (#18061)</code>](https://github.com/dbeaver/dbeaver/commit/0f01ae9ec6094159d06fc35260ac991c66b17e12)
+- [ ] [<code>dbeaver/dbeaver-ee#2043 NIO filesystem directory creation/deletion (#17960)</code>](https://github.com/dbeaver/dbeaver/commit/5a3ab5e7a8f260383b8378d765854ea7c4356610)
+- [ ] [<code>CB-2450 increase qm events check period</code>](https://github.com/dbeaver/dbeaver/commit/6ac601c827b32651ec4afd9cc8ba9a2654a54d6a)
+- [ ] [<code>dbeaver/dbeaver-ee#2062 SQL Server driver: msal4j lib added</code>](https://github.com/dbeaver/dbeaver/commit/c840c5a8ded94888802498cca496ad71ae69ce90)
+- [ ] [<code>Code cleanup</code>](https://github.com/dbeaver/dbeaver/commit/66f31d17bf9f88daad4eb280f6f59ba22ce96359)
+- [ ] [<code>Snowflake refactoring</code>](https://github.com/dbeaver/dbeaver/commit/f68fe5600f2b0517d3a5abfe52edeb00ab814ab8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-2793 Singleton resource controller. Global project removed from TE/RM.</code>](https://github.com/dbeaver/dbeaver/commit/47c326621e417cbaaa71f5c4a6a245b2e94a3fad)
+- [ ] [<code>#13476 ignore case for alias</code>](https://github.com/dbeaver/dbeaver/commit/101d67d9af2ded7778a8d4d7b801a2bcb8107a7a)
+- [ ] [<code>Merge branch 'refactor/cb-2702/remove-global-project-const' into CB-2793-remove-global-project-from-te</code>](https://github.com/dbeaver/dbeaver/commit/e3204492abd703de2bd7392e153ad681c13b22da)
+- [ ] [<code>dbeaver/dbeaver-ee#2052 disable migration popup for distributed application (#18034)</code>](https://github.com/dbeaver/dbeaver/commit/3b09cdde3ef9e3cd9bd8c9f1d7d074b0acc85f12)
+- [ ] [<code>#18037 Fix forceSingleConnection set for single connection drivers (#18041)</code>](https://github.com/dbeaver/dbeaver/commit/43059fdc81ba9e37b562fd1f38a955e1c9c7aa46)
+- [ ] [<code>#17036 Fix cursor position on right-clicking (#18067)</code>](https://github.com/dbeaver/dbeaver/commit/0af52a63a07cf126080852f0ede8ca7c53dcf54d)
+- [ ] [<code>#17879 Update Clickhouse driver version to 0.3.2-patch11 (#18069)</code>](https://github.com/dbeaver/dbeaver/commit/719ada444ff29dc28a4cadbf2904d3fd5320f8cd)
+- [ ] [<code>CB-2450 get event dispatch period from config</code>](https://github.com/dbeaver/dbeaver/commit/fdfda2c4752da284393fd709733fcf115952dcc7)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into CB-2793-remove-global-project-from-te</code>](https://github.com/dbeaver/dbeaver/commit/4606869f8cea29a0b5ef1b9ff8cb5f8791176155)
+- [ ] [<code>dbeaver/dbeaver#14691 Snowflake driver support (#18058)</code>](https://github.com/dbeaver/dbeaver/commit/088a7f055e6a544edab08b9085a7f07a85f69189)
+- [ ] [<code>Merge pull request #18083 from dbeaver/CB-2793-remove-global-project-from-te</code>](https://github.com/dbeaver/dbeaver/commit/56315ecff4aa2cc3522e36efc74ba086a557adc6)
+- [ ] [<code>Merge pull request #18086 from dbeaver/allow_partial_match#13476</code>](https://github.com/dbeaver/dbeaver/commit/a15f3711407915cf5ea0b4b02eb79ec13a2890db)
+- [ ] [<code>#15268 Pass parameters to dependent methods during completion resolution</code>](https://github.com/dbeaver/dbeaver/commit/8588013ec2b58f32d4d33ec14b1d6f7df65dfb83)
+- [ ] [<code>#15268 Add nullability annotation</code>](https://github.com/dbeaver/dbeaver/commit/c99d668655abdb24e722a431cdbc5801b1de4e2e)
+- [ ] [<code>#17080 Add function names keywords to dialect for Snowflake (#18070)</code>](https://github.com/dbeaver/dbeaver/commit/057d3032e4d2b37935329136c67683e6b4f4b213)
+- [ ] [<code>dbeaver/dbeaver-ee#1981 Add remote call service and UI progress showing (#17987)</code>](https://github.com/dbeaver/dbeaver/commit/c4e541fb64e6e984e984629e78f27126b1b32c05)
+- [ ] [<code>Cb 2596 license access add features model in application (#18050)</code>](https://github.com/dbeaver/dbeaver/commit/efb1e7f68a0949e05d738ad87eccb62a7cb95cf1)
+- [ ] [<code>dbeaver/dbeaver-ee#1538 add annotation to DBUtils#getSelectedObjects method, remove unused monitor (#18098)</code>](https://github.com/dbeaver/dbeaver/commit/7252bae116b9f0b2dd7364d4e4bc2da1f4c34212)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Merge pull request #18099 from dbeaver/proc_completion#15268</code>](https://github.com/dbeaver/dbeaver/commit/8443436acdbedac598a83d7e2223765dd764c556)
+- [ ] [<code>#17246 Search for multiple aliases or table names while completion (#18100)</code>](https://github.com/dbeaver/dbeaver/commit/7a39b1005e9ed0a01f9550e99c39e4bc4389ee11)
+- [ ] [<code>#15266 Fix changing case for block beginning keywords (#18106)</code>](https://github.com/dbeaver/dbeaver/commit/8211d56dc0d213a0b11dee492d4e2d31acf92cc4)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into CB-2450-list-of-the-endpoints-we-want-to-secure-by-certificate</code>](https://github.com/dbeaver/dbeaver/commit/0ac23b4e132afe85eb1ae03e52695a5bcaebd504)
+- [ ] [<code>#18108 JSON parser fix (parse mustn't return null)</code>](https://github.com/dbeaver/dbeaver/commit/3aac1928eafc73e737fcd41497e601775c3ba9de)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into CB-2450-list-of-the-endpoints-we-want-to-secure-by-certificate</code>](https://github.com/dbeaver/dbeaver/commit/1a18d7c85691d93dc3807a4d4142844f6b4a6f8b)
+- [ ] [<code>CB-2836 Add default file names conflict behavior (#18109)</code>](https://github.com/dbeaver/dbeaver/commit/8681ad5ed45d38cb0b46742c72020a4ffb3b6fff)
+- [ ] [<code>Merge pull request #18072 from dbeaver/CB-2450-list-of-the-endpoints-we-want-to-secure-by-certificate</code>](https://github.com/dbeaver/dbeaver/commit/fcfb215279abab66ebd547c91698852e1ef924b2)
+- [ ] [<code>#15177 fix wrong variable preference (#18088)</code>](https://github.com/dbeaver/dbeaver/commit/6382e805a4860d51a03de842384fa0cf836e3414)
+- [ ] [<code>infinite sleep on shutdown fix</code>](https://github.com/dbeaver/dbeaver/commit/0622540c54941e4d67ec3eac977a281d57c426f1)
+- [ ] [<code>22.2.4 config</code>](https://github.com/dbeaver/dbeaver/commit/7d3da44e271d76d94a0f401202d7bbd7f2da049a)
+- [ ] [<code>17880 customize perspective shows incorrect preferences (#18063)</code>](https://github.com/dbeaver/dbeaver/commit/2de774774fee448e70ec10e4f8e49eccb97b36f7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#18121 Fix data export on file conflict (#18127)</code>](https://github.com/dbeaver/dbeaver/commit/293e8b2b87a2502f852a56db40a0edd140d468cc)
+- [ ] [<code>Maven artifact version resolution fix</code>](https://github.com/dbeaver/dbeaver/commit/0c44aa8798cbab6b4474d3073f48834179358484)
+- [ ] [<code>dbeaver/dbeaver-ee#1974 return Role tab on the Database level, not datasource (#18103)</code>](https://github.com/dbeaver/dbeaver/commit/4d23fe4bf90369f204297d49f9276e13e3b0a431)
+- [ ] [<code>#16189 Don't force limit for fetch size for clickhouse (#18132)</code>](https://github.com/dbeaver/dbeaver/commit/c30b0e862a4d0b264b1f5530683f5306f96c72a2)
+- [ ] [<code>dbeaver/pro#1251 Shared credentials + code style</code>](https://github.com/dbeaver/dbeaver/commit/5e98ecc33ffecf455fe8b3137be564947e20e6e2)
+- [ ] [<code>#17348 DT columns mapping page enhancements (#18116)</code>](https://github.com/dbeaver/dbeaver/commit/4f0908d0d2783bc2867eb2045b6c705e573843b1)
+- [ ] [<code>#18152 Fix cursor within selection detection (#18161)</code>](https://github.com/dbeaver/dbeaver/commit/f80d8f78786a8d3319e7f82d5357728a027ce437)
+- [ ] [<code>dbeaver/dbeaver#18137 fix npe in ConnectionTestDialog (#18138)</code>](https://github.com/dbeaver/dbeaver/commit/2fc79c83fd5f5852ea2228dd4cd1b6ce6d8a54d6)
+- [ ] [<code>#18095 naming of erd delete object button returned to default (#18134)</code>](https://github.com/dbeaver/dbeaver/commit/3962ccbee48f0b300981d1a3194556fbc16fa095)
+- [ ] [<code>#18122 reset driver instance during after library removing (#18151)</code>](https://github.com/dbeaver/dbeaver/commit/0be318639011e457e3c0d158acf19afb8742f09a)
+- [ ] [<code>dbeaver/pro#138 Resource move support added. Properties move implementation. (#18162)</code>](https://github.com/dbeaver/dbeaver/commit/1fd327ea3f09c0a2d6eedd79b533c276e02d60b1)
+- [ ] [<code>#18084 format Oracle DATE values as DATE only under request. The particular setting was added to the Oracle settings (#18163)</code>](https://github.com/dbeaver/dbeaver/commit/d34ec15015c0880ab2234e12da5884ace60990dc)
+- [ ] [<code>#2316 Tab autocompletion (#18146)</code>](https://github.com/dbeaver/dbeaver/commit/d1b122fd27620741ba09ca8ec690fd2080bba309)
+- [ ] [<code>#2316 Performance fix (test for key code first)</code>](https://github.com/dbeaver/dbeaver/commit/02239d0108b7f1768cb66b6238d52b01b192351d)
+- [ ] [<code>#9444 tree filter allow "schema.object" syntax (#17930)</code>](https://github.com/dbeaver/dbeaver/commit/2f68c4eecb6be5f4b0eb95e63676531aeb8e8bc6)
+- [ ] [<code>dbeaver/dbeaver-ee#1377 add support for column associations in VQB (#17991)</code>](https://github.com/dbeaver/dbeaver/commit/7b2a8aa0172290b7fdfa9e5b9db844a6c616418b)
+- [ ] [<code>CB-2797 TE. Support deleting connection folders (#18107)</code>](https://github.com/dbeaver/dbeaver/commit/8b425ef6a035f6cd50a75304ae50cee89dc18793)
+- [ ] [<code>CB-2638: Oracle wallet authentication support. Read features (#18048)</code>](https://github.com/dbeaver/dbeaver/commit/14e7f96731f779806a40daefa359a6487c5fa0bb)
+- [ ] [<code>CB-2830 send auth provider in auth info (#18136)</code>](https://github.com/dbeaver/dbeaver/commit/64f89aed7b6d33033b317b1610b4a41c6720892b)
+- [ ] [<code>dbeaver/pro#137 Decode special characters in URLs (#18157)</code>](https://github.com/dbeaver/dbeaver/commit/f830077be0a0e9d762a6265d0e2c4e23287f9f36)
+- [ ] [<code>#17395 Add connection name to the error message (#18166)</code>](https://github.com/dbeaver/dbeaver/commit/abb33fe004aa55249c68af18b97773573271178a)
+- [ ] [<code>#15886 Improve table links detection (#18170)</code>](https://github.com/dbeaver/dbeaver/commit/a19962113cef0f2451d1cf8a736e97313e1e6e15)
+- [ ] [<code>#18164 the "Information" tab and the "Driver class" combo can not be enabled if no drivers in the table (#18180)</code>](https://github.com/dbeaver/dbeaver/commit/98ae4eb8c005f4b2d0da98ef4a4259ce451ca7f8)
+- [ ] [<code>#18187 fix error message typo (#18195)</code>](https://github.com/dbeaver/dbeaver/commit/bbd8fd1b07365cc52cf428a987ea47a91d38946c)
+- [ ] [<code>#1259 Security model refactoring. Move to model.sm. (#18184)</code>](https://github.com/dbeaver/dbeaver/commit/1f03ce00830f893e85ec49a852b0c8a152eae062)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#17219 ability to change XML viewer colors implemented (#18171)</code>](https://github.com/dbeaver/dbeaver/commit/9714c5b247436c63e08f094f25da902a6b63353b)
+- [ ] [<code>145 te resource management (#18203)</code>](https://github.com/dbeaver/dbeaver/commit/2423eaabeddaecbb8cd58f9a0fb415ec086d5870)
+- [ ] [<code>dbeaver/pro#152 fix the Permission tab opening for tables/other entities (#18177)</code>](https://github.com/dbeaver/dbeaver/commit/90b66a8f127a4c478f1f033106e163ce3b758af3)
+- [ ] [<code>#17823 Add null count function to the calculation pane (#18186)</code>](https://github.com/dbeaver/dbeaver/commit/a31fb125f934414485bf1f0d01470b348448b122)
+- [ ] [<code>dbeaver/pro#146 Allow multiple characters command prefix for sql editor (#18159)</code>](https://github.com/dbeaver/dbeaver/commit/d190aafda83bee0b59784139c03eb48d86de3cf2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1264 Resultset refresh button moved (#18204)</code>](https://github.com/dbeaver/dbeaver/commit/51abccb41a6cad6f90df1449c28341f4634f6eba)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#18156 use message box fox confirmation when deleting navigator nodes (#18158)</code>](https://github.com/dbeaver/dbeaver/commit/e9dab27c4724f3c1d0d3ef41d63200232ba19a0d)
+- [ ] [<code>#17040 workaround for no handles && use browser for image editor (#18192)</code>](https://github.com/dbeaver/dbeaver/commit/eed36d9afba031990318cf79573bda8c34f5ad92)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#135 Implement jump server support for SSHJ (#18182)</code>](https://github.com/dbeaver/dbeaver/commit/4be8cb6ad3e8efd9aaea39be6359bc03108483dd)
+- [ ] [<code>22.2.5 config</code>](https://github.com/dbeaver/dbeaver/commit/9b82cc72f90067705b3bcdf20ee5170afa5332d1)
+- [ ] [<code>#18131 Fix auto-convert keyword case, refix blocks case on auto-insertion (#18178)</code>](https://github.com/dbeaver/dbeaver/commit/8de72fed981a6535578a4ffad38296ad10c99528)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>deaver/dbeaver#16552 Dialog fonts apply in all dialogs and panels (#18185)</code>](https://github.com/dbeaver/dbeaver/commit/b8eb529a655e76b0dabf063524ac4840320537bb)
+- [ ] [<code>#18071 add support of COLUMNSTORE indexes for the better statement li… (#18210)</code>](https://github.com/dbeaver/dbeaver/commit/915fd6882133c0f6e25b6ebd5875aecabef4188c)
+- [ ] [<code>dbeaver/pro#136 add filter appending to user query for Influx (#18169)</code>](https://github.com/dbeaver/dbeaver/commit/bb43f05e5d187cc62de5cd07e134386366aaabee)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-2689 shared datasource creds (#18087)</code>](https://github.com/dbeaver/dbeaver/commit/d7624ddf23bfc4e975067655d1fba40c4b0e3360)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>#17040 Use web browser by default + label fix</code>](https://github.com/dbeaver/dbeaver/commit/90124bdc5194480bf6445ec50427779525d7e432)
+- [ ] [<code>#17057 Handle errors when evaluating virtual attribute expressions (#18224)</code>](https://github.com/dbeaver/dbeaver/commit/9504ac90d63e012c63b5f100355084c4f24fc34a)
+- [ ] [<code>CB-2879 change default ssh tunnel implementation (#18226)</code>](https://github.com/dbeaver/dbeaver/commit/b63474976de3089d7c60a9a4c93dc3bdba1a376d)
+- [ ] [<code>#17520 regress to ie on failure & fix thread access (#18225)</code>](https://github.com/dbeaver/dbeaver/commit/fee84a36ed271dd56f798ecfc2dcf4dd0591bcaa)
+- [ ] [<code>#16238 Preselect profile, allow copying existing profiles (#18222)</code>](https://github.com/dbeaver/dbeaver/commit/b74aa41f651bb2848807c1ed201915e33891f1f1)
+- [ ] [<code>1260 consolidate icons data editor export icons (#18231)</code>](https://github.com/dbeaver/dbeaver/commit/6ef90b07a9b0ca662b2f728930e5a28c1f839c24)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#16932 update styles when preference changes (#18232)</code>](https://github.com/dbeaver/dbeaver/commit/5bd423d1085840b152c224117619a1e25b954fce)
+- [ ] [<code>dbeaver/pro#1260 Default behavior fixed</code>](https://github.com/dbeaver/dbeaver/commit/622240c6c8bf1e5ab5fe976ac4faca385b0b818a)
+- [ ] [<code>Revert "dbeaver/dbeaver#18156 use message box fox confirmation when deleting navigator nodes (#18158)"</code>](https://github.com/dbeaver/dbeaver/commit/dc18b377542364a5d3bc6d438a955b7345596eef)
+- [ ] [<code>#18233 avoid NPE in case connection pages switching (#18236)</code>](https://github.com/dbeaver/dbeaver/commit/70be20c7fcf5e64fb8dc2101bf5c000ad652d627)
+- [ ] [<code>dbeaver/pro#139 Update licenses for CE and EE products drivers (#18230)</code>](https://github.com/dbeaver/dbeaver/commit/8b365cfc0ed01dfaf93b8aae53edf2df1984056f)
+- [ ] [<code>#17040 check temp file existence (#18251)</code>](https://github.com/dbeaver/dbeaver/commit/de5857c79d704d2c483e6b7d62c19c70622f846e)
+- [ ] [<code>#17040 check temp file existence (#18250)</code>](https://github.com/dbeaver/dbeaver/commit/0b4240b059408070dd3f30d6789b9786408545bf)
+- [ ] [<code>CB-2873 fix ssh secret serialization (#18217)</code>](https://github.com/dbeaver/dbeaver/commit/5fdacd2fa790956c93e56b6ab493f4f6cae53fcb)
+- [ ] [<code>#9444 NPE fixed (#18269)</code>](https://github.com/dbeaver/dbeaver/commit/7fb7c33fbf4fb9d99a1c42a6b3f5cdf6116ddb72)
+- [ ] [<code>dbeaver/pro#1271 Auth canceling behavior fix (#18284)</code>](https://github.com/dbeaver/dbeaver/commit/eb1d1f7aac6703e5d99c5998e456472eee0372db)
+- [ ] [<code>#18243 Database version added for navigator datasource node tooltip; … (#18256)</code>](https://github.com/dbeaver/dbeaver/commit/3ff45fcd555a16aebff38dfe2f09f1f5b68aaac1)
+- [ ] [<code>dbeaver/dbeaver#18156 use message box fox confirmation when deleting navigator nodes (#18245)</code>](https://github.com/dbeaver/dbeaver/commit/8c6f5c709f4dc717d6a6e524fd2b180935be6d82)
+- [ ] [<code>#18271 Make the `Export data` command show the default command instead (#18291)</code>](https://github.com/dbeaver/dbeaver/commit/eb4832a6b25993c073bd0dc01059095f3a4298c3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#18275 Bring back "execute in new tab"</code>](https://github.com/dbeaver/dbeaver/commit/7e96f79dce31a1a738cd51ffe8eba4ea20c3e055)
+- [ ] [<code>dbeaver/pro#1250 Hide the 'Create' button for Firebird connection page (#18288)</code>](https://github.com/dbeaver/dbeaver/commit/f78904853e0e5ae212823c47fc6f2091ceddfe64)
+- [ ] [<code>#14866 Disable editor services option (#17961)</code>](https://github.com/dbeaver/dbeaver/commit/8a2845cbc702a3f2d67851f167a4801eb6a21f5f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-2821 cloud config refactoring (#18270)</code>](https://github.com/dbeaver/dbeaver/commit/fc2323bfa11c7fcc5215aa1b458e04f8eb9f7169)
+- [ ] [<code>#18314 PostgreSQL role creation fix (#18317)</code>](https://github.com/dbeaver/dbeaver/commit/fe05ddee70a2fe2fe4d5259bb63924773c8f51c2)
+- [ ] [<code>#18274 Bring resultset fetch size back (#18303)</code>](https://github.com/dbeaver/dbeaver/commit/558164b8f9cc602c60cdba44dd7ecfd000cee6ca)
+- [ ] [<code>#18246 Fix initialization sequence of the registry (#18247)</code>](https://github.com/dbeaver/dbeaver/commit/0e9b2740282dd6793e035ae0d9208f9083676c4c)
+- [ ] [<code>#18265 Fix NPE on Data source selector opening for non-project scripts (#18278)</code>](https://github.com/dbeaver/dbeaver/commit/c758bc3e4c6b5c37b851fd912570573d4864d51a)
+- [ ] [<code>#18015 return Iris Cache driver downloading path (#18320)</code>](https://github.com/dbeaver/dbeaver/commit/480c1d1077dd1d43dd14d95f311606de334ef125)
+- [ ] [<code>#16393 Add lasso selection tool (#18244)</code>](https://github.com/dbeaver/dbeaver/commit/2fedb5eef59c76c8fabe2a700f246485ee9fbd56)
+- [ ] [<code>dbeaver/pro#1285 Active shell detection fix. ERD loading error (#18326)</code>](https://github.com/dbeaver/dbeaver/commit/4ec47a222a501d3daff34d7d54366e1e2429e998)
+- [ ] [<code>dbeaver/pro#1284 Driver libraries loader - extra file type check added</code>](https://github.com/dbeaver/dbeaver/commit/1423a7f17bebdbe7f825ec9a0dd6a24ef8d1a7d1)
+- [ ] [<code>dbeaver/pro#1284 Block UI queue during remote client invocations (#18324)</code>](https://github.com/dbeaver/dbeaver/commit/17b24bd779b236a42ec3de11438a29fc1674c0bf)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/c6059857424b7247b5414358ae100ceaf1fde227)
+- [ ] [<code>Do not check title of pr commit message. check only branches commit message</code>](https://github.com/dbeaver/dbeaver/commit/f9f110da5d863560d99287e9e95d8e11d2b09655)
+- [ ] [<code>#18347 Fix typo in Russian translation (#18349)</code>](https://github.com/dbeaver/dbeaver/commit/f1051f60a23089ab7b08592de94ca8a2781b97ef)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#17914 Fix excess quoting when renaming target entity/attribute name (#18287)</code>](https://github.com/dbeaver/dbeaver/commit/fb3a6ecaf08b63a5b5e4e6ac81819a5e0c451266)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#16756 Big scripts run performance (#18277)</code>](https://github.com/dbeaver/dbeaver/commit/056512a639d4330a59f537b3f728da6d045b2f99)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#17740 redundant method removed for the better cache search work (#18282)</code>](https://github.com/dbeaver/dbeaver/commit/3679065c3937678f245e77bda3a88044b7e1a958)
+- [ ] [<code>CB-2833 configuration type save fix (#18318)</code>](https://github.com/dbeaver/dbeaver/commit/5c99914691ce00f248cde2690783c38fee1e10de)
+- [ ] [<code>CB-2834 move folder fix (#18280)</code>](https://github.com/dbeaver/dbeaver/commit/5a5654bd991cc56b20a064fc3c6e48d1b1630112)
+- [ ] [<code>CB-2568 restore user session after server restart (#18283)</code>](https://github.com/dbeaver/dbeaver/commit/bd6048d4d85d045b527799d45b798ca9c95405ea)
+- [ ] [<code>dbeaver/pro#1257 team administration (#18346)</code>](https://github.com/dbeaver/dbeaver/commit/c129edc3e98055e84410c7f25a7b0a7b5cd458a9)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/cf1f3c5e8f8db7597e62783d4e674bfb8ac8f408)
+- [ ] [<code>dbeaver/pro#1272 use "int"/"integer" synonyms for the better data types mapping (#18298)</code>](https://github.com/dbeaver/dbeaver/commit/1f6b8e1545614a25d6356d9252d49d6d01229508)
+- [ ] [<code>22.3.0 config</code>](https://github.com/dbeaver/dbeaver/commit/79cae0ef461b3e774a46ec612e03e171f6d0d133)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/3ff649c0f915ec22a5039f91168f55f050236afd)
+- [ ] [<code>#18101 Do not set windows trust store if it has been already set (#18340)</code>](https://github.com/dbeaver/dbeaver/commit/d91743eba382329c16069a4b6fc9332f70a459ff)
+- [ ] [<code>dbeaver/dbeaver#18358 add new Z type category for pg (#18359)</code>](https://github.com/dbeaver/dbeaver/commit/92792be8dc524fc19c91e8b7eae37669b30ad47d)
+- [ ] [<code>#18367 connection edit dialog is slow (#18368)</code>](https://github.com/dbeaver/dbeaver/commit/5220c39cef70786895005f160de9f1ee8f1fd195)
+- [ ] [<code>dbeaver/pro#1249 Fix zip slip vulnerability (#18285)</code>](https://github.com/dbeaver/dbeaver/commit/3089cd606d9701717feb93ea04e6fc1e7aa7601f)
+- [ ] [<code>dbeaver/pro#135 Fix port forwarding not cancelling task correctly (#18343)</code>](https://github.com/dbeaver/dbeaver/commit/19d332db53d14a79a1c5934852169dba90ecac9f)
+- [ ] [<code>dbeaver/pro#1282 add connection to aws timestream (#18378)</code>](https://github.com/dbeaver/dbeaver/commit/7343ccee6ff114adabd42e1c8eb5f5b927f108f0)
+- [ ] [<code>#18172 fix table DDL generation for Clickhouse (#18336)</code>](https://github.com/dbeaver/dbeaver/commit/7e3953f17be369a0416568e19de7c55ee5162755)
+- [ ] [<code>dbeaver/pro#1202 don't use Eclipse external selector for Linux and Mac (#18373)</code>](https://github.com/dbeaver/dbeaver/commit/5237c4f90bc74c0513cc7d4aa5fd619c23bae11f)
+- [ ] [<code>#16197 add table column tip proposal info (#18297)</code>](https://github.com/dbeaver/dbeaver/commit/d94160f76a2e9e22a57967be936dc4608509b64b)
+- [ ] [<code>dbeaver/pro#131 Oracle json document (#18345)</code>](https://github.com/dbeaver/dbeaver/commit/a2c442955d0612c3876d493137426c70692fbf13)
+- [ ] [<code>dbeaver/pro#1280 decrease consumers number if we lost producer(s) in … (#18360)</code>](https://github.com/dbeaver/dbeaver/commit/45356c63471b7d7e99e5e97b31983ba5e9a14a12)
+- [ ] [<code>CB-2599 persist data source create (#18337)</code>](https://github.com/dbeaver/dbeaver/commit/4b95f8247cfd86ddb099a3751543895ee49b7b67)
+- [ ] [<code>dbeaver/dbeaver#18367 Workbench shell obtain fix</code>](https://github.com/dbeaver/dbeaver/commit/3be1873a3bbb2bb51f22b070decd0b28c5b7815e)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/b384e7cb7b97b4269c619aeb1d8c47f37c9ae609)
+- [ ] [<code>#18253 improve image browser (#18321)</code>](https://github.com/dbeaver/dbeaver/commit/f352be7d9a0d056e8fc0a0c37ebebeeee91a1905)
+- [ ] [<code>CB-2891 check that db creds exist in secret (#18363)</code>](https://github.com/dbeaver/dbeaver/commit/9b3cd6499ad6a7104da034f218ec8701c354a1eb)
+- [ ] [<code>dbeaver/pro#135 NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/ab7f88999e8cf1b23541f610eafae2fdd0b33544)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/49c91fa709e4c24decae0c8a2d96ef561dfca1f3)
+- [ ] [<code>dbeaver/pro#135 NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/ed7a43b735c9d8478c30c798f6f969a959e29e9c)
+- [ ] [<code>dbeaver/pro#1263 Revert data editor changes</code>](https://github.com/dbeaver/dbeaver/commit/82fabf846570672170c01ebdcfd4df05b58a5489)
+- [ ] [<code>dbeaver/dbeaver#18367 Page events - validate that page was created</code>](https://github.com/dbeaver/dbeaver/commit/cd356d9e7bddc50c579f9c65c90769bf497fd547)
+- [ ] [<code>CB-2832 add event for datasource folders (#18382)</code>](https://github.com/dbeaver/dbeaver/commit/d3a338461a0a325f50e229e7903cdb4eceedf7cf)
+- [ ] [<code>dbeaver/pro#1284 Active shell obtain fix</code>](https://github.com/dbeaver/dbeaver/commit/d80b69935c510609b63a1f0672cfa6e83b8a6b9d)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/9919f5002cdd6383393434b9a29356dc2487cd0f)
+- [ ] [<code>#18523 fix NPE (#18411)</code>](https://github.com/dbeaver/dbeaver/commit/eaa9d7292a8e5538148b56d217fceb4b255b2575)
+- [ ] [<code>Secret load error handle added</code>](https://github.com/dbeaver/dbeaver/commit/98fe71e3a16ec2a19377e2376783b8d8090a5b26)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/d48153be236a65fd2d41d3fbeb3c791a47a7e597)
+- [ ] [<code>dbeaver/dbeaver#18367 Tab pages layout fix</code>](https://github.com/dbeaver/dbeaver/commit/b98deb229a4154d8e97a2007df07de460c43a822)
+- [ ] [<code>Fix french translation (#18408)</code>](https://github.com/dbeaver/dbeaver/commit/1eb538b90a157c7ce1a99e84ce990b107d889443)
+- [ ] [<code>xmas</code>](https://github.com/dbeaver/dbeaver/commit/bcbc3c512a78b5497d93910b67af348af2bb6278)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/99d8aa5a8a13a69ec47c2230e5a5a1c2a798e656)
+- [ ] [<code>CB-2927 ssh bugs and improvements (#18384)</code>](https://github.com/dbeaver/dbeaver/commit/190818884c64b0829b98dac9442c79db293ef9b4)
+- [ ] [<code>Fix translation (#18436)</code>](https://github.com/dbeaver/dbeaver/commit/c51338ec9850d30e8177f52daefdb207e143d67c)
+- [ ] [<code>#18434 Make sure the selected processor actually exists (#18438)</code>](https://github.com/dbeaver/dbeaver/commit/19b55afb09a13f25575f20b9d792001197c204f8)
+- [ ] [<code>#18451 Don't disable Use Windows trust store option if it was set by DBeaver (#18453)</code>](https://github.com/dbeaver/dbeaver/commit/c55850fb94889e1c4787ed0e3ecec74b0168cdf4)
+- [ ] [<code>dbeaver/pro#1290 NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/4ce79346fb7823818607cff25fbe596e14d421f3)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/b13ef26195652f03943b4a0efab0746471ea277f)
+- [ ] [<code>CB-2952 check changes of connection config in serializer (#18454)</code>](https://github.com/dbeaver/dbeaver/commit/d9a0c927c00c418c793286735589524704420299)
+- [ ] [<code>dbeaver#18172 add Clickhouse dialect tests (#18413)</code>](https://github.com/dbeaver/dbeaver/commit/5ac207de8f4b89df85e946be018802b4886ebb8f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/dbeaver#18481 Fix tycho build</code>](https://github.com/dbeaver/dbeaver/commit/cae2e8c8af18d09f1c67d7e25216080cbbbbfed1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/ce5aaf7a500100f483417f58ccb19f5cf069cb64)
+- [ ] [<code>dbeaver/dbeaver#18481 Switch to Tycho 3.0.1</code>](https://github.com/dbeaver/dbeaver/commit/02fd5e5977e09861cba73f6991a88c57714e3557)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/44a8d98b415bed0515a3d745a03c09a3fd1c2486)
+- [ ] [<code>#17153 Improve statistics visuals in the navigator (#18403)</code>](https://github.com/dbeaver/dbeaver/commit/4c1ab30a1ebcdd37b9cba0eed28d8d890e8a4210)
+- [ ] [<code>#17763 add special condition before displaying the statistics tab (#18394)</code>](https://github.com/dbeaver/dbeaver/commit/d748f76c4a7eaac14b45692f95239b6f4dfaa4aa)
+- [ ] [<code>#18258 Variables resolution (#18432)</code>](https://github.com/dbeaver/dbeaver/commit/9137b105ae9df57b6c284a1868ca16bb420b77c9)
+- [ ] [<code>dbeaver/pro#1286 avoid templates databases names duplicates in the databases list (#18399)</code>](https://github.com/dbeaver/dbeaver/commit/a764b2b7db9e9163589b3869e5bb5329256b4e85)
+- [ ] [<code>dbeaver/pro#1238 Respect mouse position when zooming charts in/out (#18467)</code>](https://github.com/dbeaver/dbeaver/commit/2d5e968e9468211572a890465a1e956e2dc6d575)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/1fc9e44b52a4aa70fcd6129d7c7e0c4b4e7dcecc)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/bae637c414bf0367a1144e24c5bc23e4c372b705)
+- [ ] [<code>#6830 SQLite extension management (#18431)</code>](https://github.com/dbeaver/dbeaver/commit/5037cd969ddb9b118ad385da4eefe7b00e223ce9)
+- [ ] [<code>#17908 Require JNA bundles (#18400)</code>](https://github.com/dbeaver/dbeaver/commit/addd1842dd052e72ed6b4c628ef510d981a47fe9)
+- [ ] [<code>dbeaver/dbeaver#18383 Native script execute config UI fixes (#18385)</code>](https://github.com/dbeaver/dbeaver/commit/ee3f604d56dff68fc2bf88f1a5ee238dd4b15a27)
+- [ ] [<code>#15912 Allow disabling editing if no primary key is defined (#18448)</code>](https://github.com/dbeaver/dbeaver/commit/85757ba478dba0aff5bbb8a20e601e3df331602c)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Move websockets to ce repo</code>](https://github.com/dbeaver/dbeaver/commit/d7be81b113aad944529f1087638dee8146c4b514)
+- [ ] [<code>#18205 Prevent the endless growth of dbeaver-debug.log file (#18389)</code>](https://github.com/dbeaver/dbeaver/commit/20e596c0c6a702c8d227522dcaa95fb2b0168871)
+- [ ] [<code>#15892 Allow dragging data sources and folders onto the root level (#18415)</code>](https://github.com/dbeaver/dbeaver/commit/f4830aceea67091df0675c5643ac644dc39197b3)
+- [ ] [<code>dbeaver/pro#1263 Use drop-down menu with ordering and filters on colu… (#18305)</code>](https://github.com/dbeaver/dbeaver/commit/8dd6974b293a6e7cd39e483e56c796c82e6292c2)
+- [ ] [<code>#18309 Hint for certificate exception resolution on drivers download  (#18461)</code>](https://github.com/dbeaver/dbeaver/commit/b42e837485aac2dd47f1db5c969a4f60ec59caae)
+- [ ] [<code>#17162 Complete some Simplified Chinese localization work (#18311)</code>](https://github.com/dbeaver/dbeaver/commit/524819aa172042fa6de009796e29d31eafa9d28b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#16702 Confirmation Preference page redesign (#18464)</code>](https://github.com/dbeaver/dbeaver/commit/5ae2cde0afac142616f8c699c5491311f3765b70)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#17415 Fix dnd from navigator for gtk (#18509)</code>](https://github.com/dbeaver/dbeaver/commit/8ff21303d184613a786404956f07755c364684c5)
+- [ ] [<code>#18488 update MySQL Connector driver version to the latest for NDB Cluster (#18492)</code>](https://github.com/dbeaver/dbeaver/commit/b87c009f4a7a2091004ffbe41594523cbb352361)
+- [ ] [<code>#18474 `Reset UI settings` improvements (#18496)</code>](https://github.com/dbeaver/dbeaver/commit/bf8e5c3ee2a78634b4f6315d522ed6697c7045b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#17554-Fix-for-MySQL-username-with-proper-back-quotes (#18228)</code>](https://github.com/dbeaver/dbeaver/commit/9ee1bc79bab191b17cb0da9c2addd35f8e0011de)
+- [ ] [<code>dbeaver/pro#1253 team edition datasets (#18518)</code>](https://github.com/dbeaver/dbeaver/commit/3135d2963351b19111836b84cd39af4aefe38e5c)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1263 Enable data filters for grouping panel</code>](https://github.com/dbeaver/dbeaver/commit/9d217bd8b3d7fc0d3a34158a4f8ef40041c229be)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/42b98175f53dcbe4b987745a182e2b4cd4c96074)
+- [ ] [<code>dbeaver/pro#1263 Grouping panel title fix</code>](https://github.com/dbeaver/dbeaver/commit/c2c432da98840ba669add0908e3bc4541b67a16e)
+- [ ] [<code>#18090 Update Athena driver version to 2.0.34 (#18510)</code>](https://github.com/dbeaver/dbeaver/commit/cb66b665716665e129bf5012573b6827ed06d8cd)
+- [ ] [<code>#18532 turn on database tasks tooltips (#18533)</code>](https://github.com/dbeaver/dbeaver/commit/8ad36ad227ccb635479a8f5081069d08c9bc57c4)
+- [ ] [<code>#17784 Replace path with virtualized to show resource in file explorer for win store app (#18304)</code>](https://github.com/dbeaver/dbeaver/commit/1c279f0a04242e9802b0789b9731e9fa0e0e9888)
+- [ ] [<code>22.3.1 config</code>](https://github.com/dbeaver/dbeaver/commit/dc1949a3fdb59c1383d989dd882357a6a7a44375)
+- [ ] [<code>App startup sequence fix</code>](https://github.com/dbeaver/dbeaver/commit/f751cc2bfed8d21f93a1e67659677b1592fd8f74)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/87a0cfbe32ca3d7b531ed8c904d8ee384c8280b2)
+- [ ] [<code>#18514 add more casting operations for dependency downloading statement (#18531)</code>](https://github.com/dbeaver/dbeaver/commit/6c82ca8d42ef8364d265062950a937b7858ee97f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CB-2840 add non secured property for auth credentials (#18441)</code>](https://github.com/dbeaver/dbeaver/commit/3ad4b867a66d2ce7d17b70244613be5f8dbf41e3)
+- [ ] [<code>Add attached databases#7208 (#18508)</code>](https://github.com/dbeaver/dbeaver/commit/5b37b1bde8b0da600038734fd5b5f3b6d3053069)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1322 Migrate-to-eclipse-2022-12 (#18540)</code>](https://github.com/dbeaver/dbeaver/commit/5d9e0d1e17e290986d0f4768e3270fae9348e210)
+- [ ] [<code>dbeaver/pro#1322 Orbit added</code>](https://github.com/dbeaver/dbeaver/commit/e5db75e1171d9ce46ad891ec2217b1c2dbdff60b)
+- [ ] [<code>dbeaver/pro#1268 Convert SSL keys (PEM -> DER) after connection failure (#18395)</code>](https://github.com/dbeaver/dbeaver/commit/1dbc1fb2b7fa2f15fc29166d5fe1b3560d67666b)
+- [ ] [<code>dbeaver/pro#1322 BC dependency added</code>](https://github.com/dbeaver/dbeaver/commit/cc484a58049b0481c4e3b0b814ed2b28b212b420)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/pro#1252 move to EE SSO and change password features (#18548)</code>](https://github.com/dbeaver/dbeaver/commit/d4f8bef7f090e586a2ecbe6be027bb64ebb7d7a6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-3006 always mark secrets as resolved even if error was happened (#18558)</code>](https://github.com/dbeaver/dbeaver/commit/c256ed1458a355f2fddb0c2d6af58c5d5957dbd6)
+- [ ] [<code>CB-3006 add comment (#18559)</code>](https://github.com/dbeaver/dbeaver/commit/0c8587b95526eb1fc2ca4973422c699efd014b00)
+- [ ] [<code>#18560 Use separate ID for the item list control in the completion popup (#18564)</code>](https://github.com/dbeaver/dbeaver/commit/ffed7b51894f4a1175aa5bf947ff5287f04a5b03)
+- [ ] [<code>dbeaver/pro#1256 use complex target name in export query if query has… (#18542)</code>](https://github.com/dbeaver/dbeaver/commit/8dcdab3f5e9ba25c2bee62e310785d7924d66d88)
+  - <sub>Tags: <code>22.3.1</code></sub>
+- [ ] [<code>CB-2912 websocket client (#18545)</code>](https://github.com/dbeaver/dbeaver/commit/10dc37d8915655e2521a94e579e899ee54534fab)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove Incubating from Kyuubi reference</code>](https://github.com/dbeaver/dbeaver/commit/7abf79b93a98ff8786e023b9789f1db90ce776a1)
+- [ ] [<code>Eclipse repository packaging fix</code>](https://github.com/dbeaver/dbeaver/commit/62960290e6270306bbf7d8d8bd40a4ba7ebb9a3f)
+- [ ] [<code>dbeaver/pro#1263 RSV context menu fix</code>](https://github.com/dbeaver/dbeaver/commit/3e59b6bb6af6991a42a92c47bf9b1a2930b7f735)
+- [ ] [<code>#18589 Column header render fix</code>](https://github.com/dbeaver/dbeaver/commit/68b1e60cd37027a31b6c81c3d6026d3466d3a1f9)
+- [ ] [<code>#17209 Print indentation of nested elements (#18587)</code>](https://github.com/dbeaver/dbeaver/commit/21f856ade9b0e7e1b47d97c9fdced71ceae13bca)
+- [ ] [<code>#16700 Fix sorting of numeric data in the filter dialog (#18585)</code>](https://github.com/dbeaver/dbeaver/commit/844c034eab9900ebafff501dcd80cc692aa79eb3)
+- [ ] [<code>#18207 Show url in navigator instead of host if connection mode is by url (#18566)</code>](https://github.com/dbeaver/dbeaver/commit/d29553639b9e358b29da3c9f726aa9862f5913ba)
+- [ ] [<code>#17827 Fix horizontal scrolling with pinned columns (#18584)</code>](https://github.com/dbeaver/dbeaver/commit/08cf77ac7e3c6f26a733f3a7eba49dff58e2480b)
+- [ ] [<code>#17222 Allow quotation of script parameter names</code>](https://github.com/dbeaver/dbeaver/commit/9b097ca31b18d3fcc8141c433019ad6eb90e9a20)
+- [ ] [<code>#18571 Fix name completion containing struct separator (`.`)</code>](https://github.com/dbeaver/dbeaver/commit/d6bf2ac58676ab1f178ca9d3ca6644010e9330ae)
+- [ ] [<code>#18571 Add tests</code>](https://github.com/dbeaver/dbeaver/commit/b42f59220ac8d6b3d988c7616e607bfc3706ada2)
+- [ ] [<code>#17222 Fix script named parameter parser to allow quoted string literals as names</code>](https://github.com/dbeaver/dbeaver/commit/edffaa82b2d9b15aea99ae3445d085a729f08f0f)
+- [ ] [<code>#17222 Fix named parameters parser, add tests</code>](https://github.com/dbeaver/dbeaver/commit/5e03d241f70e0a3fe71ccb5647f926f368965e29)
+- [ ] [<code>#17222 Use identifier quote strings for named parameters</code>](https://github.com/dbeaver/dbeaver/commit/78780ff6f23a2adf3bf20714b4174c9cb25941ad)
+- [ ] [<code>dbeaver/pro#1318 Fix incorrect data type for non-simple select items with aliases as table columns</code>](https://github.com/dbeaver/dbeaver/commit/3cc84797b21768d30a1616e7f0f21fb6d5dfc53f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-2016 firebird procedure params fix (#18595)</code>](https://github.com/dbeaver/dbeaver/commit/700b3cffd6028c985a08fc15b8b4e09dcc56da30)
+- [ ] [<code>CB-1740 mysql view columns fix (#18596)</code>](https://github.com/dbeaver/dbeaver/commit/c9adbc594f2281ce462fc70f530a9d0b9e7f63ff)
+- [ ] [<code>CB-2462 sync tokens naming (#18512)</code>](https://github.com/dbeaver/dbeaver/commit/6cb4ea0bf96aab4ff50b955f6e419160fb6cbf5f)
+- [ ] [<code>#18571 Handle completion proposals containing aliases</code>](https://github.com/dbeaver/dbeaver/commit/c5c17e3b0270275df2a3cabca890513a52b11f5c)
+- [ ] [<code>dbeaver/pro#1321 do not extra json type for MariaDB driver</code>](https://github.com/dbeaver/dbeaver/commit/8e748cf6fef1faf63fab9d9e8cb4f8086b60af68)
+- [ ] [<code>dbeaver/pro#1332 Fix value handler for EE extension (#18600)</code>](https://github.com/dbeaver/dbeaver/commit/e334b8239ef4a8d6e74f4e9b36db6dd8f1f1d46f)
+- [ ] [<code>dbeaver/pro#440 Filters restore fix (#18561)</code>](https://github.com/dbeaver/dbeaver/commit/8e35a7b8338317aeb5efca14df52c613bcb59850)
+- [ ] [<code>#18599 Change label for max backup log files count setting (#18607)</code>](https://github.com/dbeaver/dbeaver/commit/d6f858dd9f9a60ca9a8c913202e02ff073fd6bc1)
+- [ ] [<code>#16121 Fix templates context initialization and filtering on insert (#18605)</code>](https://github.com/dbeaver/dbeaver/commit/9541bf58b89b928e1eb4786b6467c8747473c55d)
+- [ ] [<code>#17700 Fix parsing of statements with if for Snowflake (#18612)</code>](https://github.com/dbeaver/dbeaver/commit/b1a1166f0d9d40c202982232ed4ce29b9c4276cd)
+- [ ] [<code>#17612 Generic: retrieve identifier quotes from the `identifier-quotes`</code>](https://github.com/dbeaver/dbeaver/commit/fa5a4306b2e70426e4d540ca43d52a18dab7ed49)
+- [ ] [<code>#17612 MS Access: use bracket quotes when escaping `[ident ifiers]`</code>](https://github.com/dbeaver/dbeaver/commit/a3bcd0aabedff0c7dec28218de0f2349d0b21331)
+- [ ] [<code>#18556 Update Exasol driver to version 7.1.16 (#18593)</code>](https://github.com/dbeaver/dbeaver/commit/da345a6652fb0fde41d0808f78836c8cf957c403)
+- [ ] [<code>CB-2984 profile auth model persist secret fix (#18567)</code>](https://github.com/dbeaver/dbeaver/commit/bb4df95c3b12d7c25a9760f4f82688bf2cc1b852)
+- [ ] [<code>dbeaver/pro#1297 Set original hostname as the alias for jump server</code>](https://github.com/dbeaver/dbeaver/commit/3dd063644b027d8325bfdde1b9ec7c5161201407)
+- [ ] [<code>#17222 Make quoted script params case sensitive</code>](https://github.com/dbeaver/dbeaver/commit/1a0b308f128ae72724dcaeb1643a245e36c0d97f)
+- [ ] [<code>Merge remote-tracking branch 'remotes/origin/devel' into bind-variables-quoted#17222</code>](https://github.com/dbeaver/dbeaver/commit/b7c920dc2c69c39aa40f90bc56a1f4cfe272426a)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/07aaaa7892491044b70779a1e7a223a85ad4fe24)
+- [ ] [<code>#18479 hide as utility sqlite_autoindex_% tables to avoid ERD downloading issues (#18611)</code>](https://github.com/dbeaver/dbeaver/commit/16a28b856f6a7412de3f5f4250e85dff5c851f3d)
+- [ ] [<code>#18572 Explicitly set current attribute when opening column menu (#18573)</code>](https://github.com/dbeaver/dbeaver/commit/e02b9001110358379418313e2ad2618f2edb0151)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/774718e4d55b50d9585d3e7389aacbf77bd990c0)
+- [ ] [<code>dbeaver/pro#1319 check password expiration; fix password changing</code>](https://github.com/dbeaver/dbeaver/commit/a50a7204d3f69c4631a314d2daf45e9064801bd4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'remotes/origin/devel' into bind-variables-quoted#17222</code>](https://github.com/dbeaver/dbeaver/commit/a44824a7a7406e32ca4511137cf54ae1bfa125f2)
+- [ ] [<code>#17222 Fix test</code>](https://github.com/dbeaver/dbeaver/commit/be92e71a41359f9ebc6ae68baed0ab7bf58f42fc)
+- [ ] [<code>#17222 Fix code style</code>](https://github.com/dbeaver/dbeaver/commit/a86cacd4794d3cbc3203135f64e459cc8eca3c9b)
+- [ ] [<code>#18630 fix wrong table name</code>](https://github.com/dbeaver/dbeaver/commit/a6f511303248d5c5544f2644695bdf5fe992a176)
+- [ ] [<code>dbeaver/pro#1319 tooltip fix</code>](https://github.com/dbeaver/dbeaver/commit/1953fa293b7784c5070a4d3849a346c9ce10bd32)
+- [ ] [<code>#17222 Fix named parameters save</code>](https://github.com/dbeaver/dbeaver/commit/b59e39d91d4f2d644676c9e8b85958aa0ef3fa62)
+- [ ] [<code>Merge pull request #18655 from dbeaver/fix_wrong_ddl#18630</code>](https://github.com/dbeaver/dbeaver/commit/b6bbf3767d8c406ef3e89e8c41f364ed18830013)
+- [ ] [<code>#18263 Hana improvements: more functions words added; ability to change schema object via UI added; tables statistics added</code>](https://github.com/dbeaver/dbeaver/commit/412c9fb2b18998096a7fab6f8acafba43285976b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#18263 change statistics metadata table</code>](https://github.com/dbeaver/dbeaver/commit/620e6606a8cd829054eb05dd928e1e8641039ddf)
+- [ ] [<code>CB-2914 filter events (#18570)</code>](https://github.com/dbeaver/dbeaver/commit/f3ef427fcf98d95596dbfd453829a3b37ccc3935)
+- [ ] [<code>#17198 change case sensitivity condition for generic schema cache</code>](https://github.com/dbeaver/dbeaver/commit/51ab5fb927776fc132c5b25af6e6ff73ba7898bd)
+- [ ] [<code>#18263 code style and typo</code>](https://github.com/dbeaver/dbeaver/commit/b3d0f2942ed22a07d6d8778070452a308a1d62e5)
+- [ ] [<code>#17739 don't suggest hippie after dot</code>](https://github.com/dbeaver/dbeaver/commit/0a4fa6cf29014993a47c7f020b4baadc4c6b2356)
+- [ ] [<code>Merge pull request #18626 from dbeaver/msaccess-identifier-quotes#17612</code>](https://github.com/dbeaver/dbeaver/commit/a3d2dd6314c8ca8ce8b20636850364b6e4cecc95)
+- [ ] [<code>Merge pull request #18613 from dbeaver/bind-variables-quoted#17222</code>](https://github.com/dbeaver/dbeaver/commit/0d452b11c3a191ec47526458e2601a27f89383b2)
+- [ ] [<code>Merge pull request #18614 from dbeaver/sql-completion-analyzer-dot-name-fix#18571</code>](https://github.com/dbeaver/dbeaver/commit/a59fd2617f465e0e524f073b1dfb8ced32409d64)
+- [ ] [<code>Merge pull request #18620 from dbeaver/jsonMariaDB#1321</code>](https://github.com/dbeaver/dbeaver/commit/27d54d9437d821eb5fe3673d9550dee87760017b)
+- [ ] [<code>Merge pull request #18622 from dbeaver/oracle-data-type-pro#1318</code>](https://github.com/dbeaver/dbeaver/commit/4024af0b842eaadf4ac48f8609f17c3507a7e26d)
+- [ ] [<code>Merge pull request #18590 from dbeaver/jsch-trust-localhost#1297</code>](https://github.com/dbeaver/dbeaver/commit/050e79fd1cc663c1ff3548887d66058d9c80c48f)
+- [ ] [<code>Merge pull request #18641 from dbeaver/verticaPassword#1319</code>](https://github.com/dbeaver/dbeaver/commit/05dd04000131cfcec9a76ec7aabfe1eed06e2a8f)
+- [ ] [<code>Merge pull request #18668 from dbeaver/hanaSchemas#17198</code>](https://github.com/dbeaver/dbeaver/commit/defd1c7491f16a288391914f90ec79f4e058ebe8)
+- [ ] [<code>Merge branch 'devel' into hanaImprovements#18263</code>](https://github.com/dbeaver/dbeaver/commit/cbb995be159310cfad75ceabf823658ec5763e77)
+- [ ] [<code>Merge pull request #18575 from pan3793/kyuubi-graduation</code>](https://github.com/dbeaver/dbeaver/commit/8c30dc4bfb3451fc4b4aa3e32601e0832eba7d89)
+- [ ] [<code>Merge pull request #18669 from dbeaver/dont_suggest_after_dot#17739</code>](https://github.com/dbeaver/dbeaver/commit/faf679b8d55ce86a04db2a82021a8e99086dd093)
+- [ ] [<code>Merge pull request #18667 from dbeaver/hanaImprovements#18263</code>](https://github.com/dbeaver/dbeaver/commit/34ad9b6a4a2fccd3a053e326b392fe8e89258def)
+- [ ] [<code>22.3.2 config</code>](https://github.com/dbeaver/dbeaver/commit/aa1788456ee18829c892f5feb22352b847d8a81b)
+- [ ] [<code>Revert "dbeaver/pro#1318 Fix incorrect data type for non-simple select items with aliases as table columns"</code>](https://github.com/dbeaver/dbeaver/commit/05ed403fd58fa437713cc6f6a3b233bb0bab7da5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1342 return unXMas splash (#18672)</code>](https://github.com/dbeaver/dbeaver/commit/538a9dc344adbe9b62493169658ad0f32e5bd8d9)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/263618c4b4c5fd2bdbf6dde73dae67b5defdc524)
+- [ ] [<code>CB-2623 add log event (#18569)</code>](https://github.com/dbeaver/dbeaver/commit/be7588992c4d86d5c66d9801ca4eb1ed00f3fae8)
+- [ ] [<code>CB-2985 send mq messages for creating deleting folders (#18652)</code>](https://github.com/dbeaver/dbeaver/commit/6a13078002501b1eb1be6ee931e84efbab6302bc)
+- [ ] [<code>dbeaver#18618 Grid sort icon renderer fix</code>](https://github.com/dbeaver/dbeaver/commit/d8474ac81de2a6cbb8bb9985a74d54ae8c1eb53e)
+- [ ] [<code>#8647 use case insensitive schemas search for MIXED case databases (#18681)</code>](https://github.com/dbeaver/dbeaver/commit/5da4b11ba86e31072d99f372015257d754bd6104)
+- [ ] [<code>#17350 add triggers creation statements to view DDL for PostgreSQL (#18693)</code>](https://github.com/dbeaver/dbeaver/commit/7ffa95b568be68620b7b99926d3c93cf6c08f876)
+- [ ] [<code>#17796 Procedure debugging fix (#18615)</code>](https://github.com/dbeaver/dbeaver/commit/4369a10c7cf56b42839537bc78f1e03361e45e60)
+- [ ] [<code>#18553 Get host and port from url for native tools if connection is by url (#18704)</code>](https://github.com/dbeaver/dbeaver/commit/eaeb32bfddf7a01b2bc419235904fb11a1fb8d28)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#18427 Hide status bar for the statistics tab (#18698)</code>](https://github.com/dbeaver/dbeaver/commit/fc7c07472768d32f0f9ed441f46f1397ca3c464e)
+- [ ] [<code>#17698 Set Application Name property for Db2 (#18703)</code>](https://github.com/dbeaver/dbeaver/commit/13a6e801f184a74d75c90e01d585d13d62c318f3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18644 Treat vector types as `varchar` (#18697)</code>](https://github.com/dbeaver/dbeaver/commit/9f128ed65762c384e182f8891f1e9e3be12c5761)
+- [ ] [<code>CB-3023 trino driver fix (#18702)</code>](https://github.com/dbeaver/dbeaver/commit/8de85fb1d53390369db3d2071080113dc3d066b1)
+- [ ] [<code>#18706 Support quoted variables in set, fix case sensitivity (#18711)</code>](https://github.com/dbeaver/dbeaver/commit/a40cf3c2f1bf30f1ca36b21b871fbdbe09e72dcf)
+- [ ] [<code>#12975 Synchronize navigator tree font with the current theme (#18715)</code>](https://github.com/dbeaver/dbeaver/commit/a83322259b3838abbe0fc3346fa44cf5f1d6d4a1)
+- [ ] [<code>dbeaver/pro#1318 Fix incorrect data type for non-simple select items with aliases as table columns (#18695)</code>](https://github.com/dbeaver/dbeaver/commit/a9e88c5dc332673b472603bfb9a1f1796fc25f67)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18716 create connection URL by template for non default databases (#18724)</code>](https://github.com/dbeaver/dbeaver/commit/70b5d317b40b1383aa8064cb57c316c18cb58ae6)
+- [ ] [<code>#17874 Procedures enhancement for SQL Server (#18732)</code>](https://github.com/dbeaver/dbeaver/commit/f4088a309aff5438e4f7f122ccfcf747c287c54f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#15743 aggregate functions DDL creation method added (#18740)</code>](https://github.com/dbeaver/dbeaver/commit/e106895accf03230c75597369076dc203024ce1a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18628(trivial) Db2 naming/capitalization and consistency (#18629)</code>](https://github.com/dbeaver/dbeaver/commit/11609d243870c6d96948705d6f101145026bffda)
+- [ ] [<code>#18737 Fix confirmation message about closing unpinned tabs (#18745)</code>](https://github.com/dbeaver/dbeaver/commit/4ed04936d3a34c599e476012d587497e3ff249f0)
+- [ ] [<code>dbeaver/pro#1201 Allow disabling values completion (#18699)</code>](https://github.com/dbeaver/dbeaver/commit/aa5693718ae72aa1134f5c8c056b50beddf1fccf)
+- [ ] [<code>dbeaver/pro#1343 initial OpenAI GPT support</code>](https://github.com/dbeaver/dbeaver/commit/6ce3ff54cb5ebaee04e75bd3c7d5ff150120b33b)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#5450 Show query start time in statistics (#18653)</code>](https://github.com/dbeaver/dbeaver/commit/5de56d2cb4735617064d04f9bc4df35540f18152)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1198 Rearrange dashboard context menu elements (#18742)</code>](https://github.com/dbeaver/dbeaver/commit/7315405a8dce2c5dae0d9369d543672da0210710)
+- [ ] [<code>#18706 Support quotes in unset command, manual variables addition via UI, fix ${var} handling (#18761)</code>](https://github.com/dbeaver/dbeaver/commit/5a1c324d06a2d394ca2362f7540c2d1418089c06)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1344 update Copyright (#18782)</code>](https://github.com/dbeaver/dbeaver/commit/85ca6582673a63c727e812ca4fa1e030484df449)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>CB-3024 fix migration crash (#18692)</code>](https://github.com/dbeaver/dbeaver/commit/368d2fefa7d951f6779177c142ed6fe7a979b156)
+- [ ] [<code>#18427 Make sure status bar is actually present before trying to hide it (#18764)</code>](https://github.com/dbeaver/dbeaver/commit/d35f99de5278e1e603b7010ce8fde1df25e7b195)
+- [ ] [<code>dbeaver/pro#143 te remote event handle (#18708)</code>](https://github.com/dbeaver/dbeaver/commit/26c1d8372852556c4428f2fefe5733b3fe780466)
+- [ ] [<code>Merge branch 'devel' into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/ab9c5c990eb7b3cca1b0f86f77a26de57414022d)
+- [ ] [<code>Manifest fix</code>](https://github.com/dbeaver/dbeaver/commit/9a404942a54bc12aa491110a736f4b0aa10b7005)
+- [ ] [<code>dbeaver/pro#1343 initial prompt metadata formatting</code>](https://github.com/dbeaver/dbeaver/commit/bc249451cae656e598b2acea549d11e74704c362)
+- [ ] [<code>Databricks: force limit fetch by SQL</code>](https://github.com/dbeaver/dbeaver/commit/2046475a7e21b50e67e554d939a5d98d5407e62f)
+- [ ] [<code>#18771 Fix errors on autocompletion (#18772)</code>](https://github.com/dbeaver/dbeaver/commit/5df0af634f06466e182c2bd0a298ffee92da7db3)
+- [ ] [<code>#17754 Use one-click mode for boolean values editing in privilege table control (#18785)</code>](https://github.com/dbeaver/dbeaver/commit/ea1d402d6bdde8abbc593c33ac993a32951f31e7)
+- [ ] [<code>#18390 Fix Exasol VS display for SaaS. (#18391)</code>](https://github.com/dbeaver/dbeaver/commit/a3703f7b356a904dac0d8e662e23f7912ec5626e)
+- [ ] [<code>#18795 Fix missing localization for erd search occurrences color definition (#18796)</code>](https://github.com/dbeaver/dbeaver/commit/bc01a08186e508a92c9724d981a2845ace6118c6)
+- [ ] [<code>#17781 Fix focus on right mouse clicking by result set (#18780)</code>](https://github.com/dbeaver/dbeaver/commit/469ccea7637e875a98b5f9abe6f8da2720e03334)
+- [ ] [<code>22.3.3 config</code>](https://github.com/dbeaver/dbeaver/commit/c518ea5bd600dc85dd6687a6dca6eeedb96b01c7)
+- [ ] [<code>#18787 Fix statements with if-exists and if-not-exists for snowflake (#18794)</code>](https://github.com/dbeaver/dbeaver/commit/f731d8573758ad797b41518034db0662b9d8e56c)
+- [ ] [<code>#18578 Fix NPE in editor contribution dispose</code>](https://github.com/dbeaver/dbeaver/commit/4fc70c2badcddce9432fed6e56807ab9b1389aa4)
+- [ ] [<code>Merge pull request #18804 from dbeaver/editor-contribution-dispose-npe#18578</code>](https://github.com/dbeaver/dbeaver/commit/e4f204b782106622428c5958bf58a01121aa8fc4)
+- [ ] [<code>dbeaver/pro#1162 Add Global Backup for PostgreSQL (#18765)</code>](https://github.com/dbeaver/dbeaver/commit/6a0647aa82770adc9dec506a76a8acabf3db9cc7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#16433 Split server output based on its severity (#18696)</code>](https://github.com/dbeaver/dbeaver/commit/a6876244487cfb47e69bf342d6b4dda3719550ee)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#16397 ability to disable metadata objects comment reading  (#18781)</code>](https://github.com/dbeaver/dbeaver/commit/5463637ae1ad5764dc4ebaec4f3184c10da9faca)
+  - <sub>Tags: <code>22.3.3</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Widget dispose check</code>](https://github.com/dbeaver/dbeaver/commit/a511a8fca257df3f42a42d046c2e9ef413d1a95d)
+- [ ] [<code>Merge branch 'devel' into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/a5d714d2a0cba73df9169d89fd9619f582bb2361)
+- [ ] [<code>GPT bundle</code>](https://github.com/dbeaver/dbeaver/commit/756160553ab20fb8edc3700483923aa6da5d157d)
+- [ ] [<code>GPT bundle</code>](https://github.com/dbeaver/dbeaver/commit/a8afcb8f9eb1980534b379b5d11e878cc9f1d3b8)
+- [ ] [<code>dbeaver/pro#1343 Dependencies fix</code>](https://github.com/dbeaver/dbeaver/commit/87221d9d2afd0a41b487ab819c979434c00aaa9e)
+- [ ] [<code>dbeaver/pro#1343 UI change</code>](https://github.com/dbeaver/dbeaver/commit/e1202819d8e41587174039e1ad9029336229e7f0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1343 Completion requests redesign</code>](https://github.com/dbeaver/dbeaver/commit/573a83cc5fab3ab723d749eb860f28bd70035f0e)
+- [ ] [<code>dbeaver/pro#1343 Preferences and UI</code>](https://github.com/dbeaver/dbeaver/commit/5ef25d2fdf5c3002bffd3553b7ae73dc5381bac5)
+- [ ] [<code>Merge branch 'devel' into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/f8019bf494dd57a03645cc07669e9401032022e7)
+- [ ] [<code>dbeaver/pro#1343 GPT preferences</code>](https://github.com/dbeaver/dbeaver/commit/ef1d69a26f1e90117380b49b8dc85d6ee2c9b2bb)
+- [ ] [<code>Merge branch 'gpt3#1343' of https://github.com/dbeaver/dbeaver into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/da653cb4daa64b4c2948aca834bc13a361e86440)
+- [ ] [<code>dbeaver/pro#1343 Add GPT button to toolbar</code>](https://github.com/dbeaver/dbeaver/commit/d759712b0b280620f363abbbd3ca5ac6f947dc38)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1343 Code cleanup</code>](https://github.com/dbeaver/dbeaver/commit/5c6a03054c8221dba32bf3452b7e4db8b1dc0887)
+- [ ] [<code>dbeaver/pro#1343 Default preferences</code>](https://github.com/dbeaver/dbeaver/commit/5d4e73c50d71cff62777700b8c16b1f4d95bc3d9)
+- [ ] [<code>dbeaver/pro#1343 Preference hints</code>](https://github.com/dbeaver/dbeaver/commit/e6906c023ad82f4d95d94efc11dc86f7a015fb59)
+- [ ] [<code>dbeaver/pro#1343 Proposal popup UI</code>](https://github.com/dbeaver/dbeaver/commit/3bbc8ad8c1f94bdee78dc5832c66bcde613eebd4)
+- [ ] [<code>dbeaver/pro#1343 Better metadata, logging</code>](https://github.com/dbeaver/dbeaver/commit/89d711220c8451d3a48b769f000fb90919e3157c)
+- [ ] [<code>dbeaver/pro#1343 Extra preferences</code>](https://github.com/dbeaver/dbeaver/commit/51f0281760f533fad427cf21cf0bd43642629233)
+- [ ] [<code>dbeaver/pro#1343 Extra preferences</code>](https://github.com/dbeaver/dbeaver/commit/ab786d37ba8c2ebe379455ebcc6c926d419aafc9)
+- [ ] [<code>dbeaver/pro#1343 Current schema hint</code>](https://github.com/dbeaver/dbeaver/commit/426d8e71bf05147bf42ec9bed32ec66a1d942e7b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1343 Eclipse build</code>](https://github.com/dbeaver/dbeaver/commit/9d9e78ea5baa0ad06802a3e8a4b2a66a176ff3b8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#1343 GPT3 bundle added</code>](https://github.com/dbeaver/dbeaver/commit/858bb7eabcd0aca6393e93076a4087f47e7663a1)
+- [ ] [<code>dbeaver/pro#1343 Code style</code>](https://github.com/dbeaver/dbeaver/commit/a3c246ba42ed3cb5140f13a251ed927dfb757718)
+- [ ] [<code>dbeaver/pro#1343 Code style</code>](https://github.com/dbeaver/dbeaver/commit/000ae819072963c04d9c7433c6aaf090585437fc)
+- [ ] [<code>#18752 Don't remove source from refresh list if entity editor was dirty and changes was reverted</code>](https://github.com/dbeaver/dbeaver/commit/dda3ca9ec4ceffc5af1c548356d46a6a8c4252e0)
+- [ ] [<code>#18707 Quote identifiers starts with numbers</code>](https://github.com/dbeaver/dbeaver/commit/9a87767ad29b666123497041c4c003801b6f9314)
+- [ ] [<code>#18707 Rename pattern to match identifiers start with digits</code>](https://github.com/dbeaver/dbeaver/commit/045ed6a7fa36c6b77f64d2545da032ea336c8f6c)
+- [ ] [<code>dbeaver/dbeaver#18841 AI icon</code>](https://github.com/dbeaver/dbeaver/commit/9cd11b17a7f8e603e3138cffae2badb8d5be4330)
+- [ ] [<code>dbeaver/dbeaver#18841 AI icon + metadata transfer confirmation</code>](https://github.com/dbeaver/dbeaver/commit/cfdf15f7dc0ae084ba45c02868df7dcba8ce5d11)
+- [ ] [<code>#18847 Fix confirmation message for for result set ordering (#18848)</code>](https://github.com/dbeaver/dbeaver/commit/97e8894e9b3965f7d9c4d5d6187254af09ce1b1f)
+- [ ] [<code>#18821 Retrieve non-localized severity of the notice message (#18822)</code>](https://github.com/dbeaver/dbeaver/commit/8045243a9d6ab7bc0a1b1c22f66de34f9bdb1ff8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#18841 ERD palette fix (#18842)</code>](https://github.com/dbeaver/dbeaver/commit/dd5a42bfb3671497ce803ef3ee503e873bed6ffa)
+- [ ] [<code>#18798 escape wild cards during primary and imported keys loading (#18807)</code>](https://github.com/dbeaver/dbeaver/commit/d8b8a32a65665215c3f121cbd279d5a7ee1cd972)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#18841 AI repository + typo fix</code>](https://github.com/dbeaver/dbeaver/commit/7958d694d675b28713e3c5fdb7ed9097e82bfe06)
+- [ ] [<code>dbeaver/dbeaver#18841 AI repository</code>](https://github.com/dbeaver/dbeaver/commit/c78149a9368a1fce160d1336683e59064a991a8d)
+- [ ] [<code>dbeaver/pro#1194 Dynamic nested attributes resolve fix (#18717)</code>](https://github.com/dbeaver/dbeaver/commit/8c8f19f91c087881debd1e6c758ebb717541c8b2)
+- [ ] [<code>CB-2970-RM-Script-connection-assosiating-is-removed-after-opened-script-folder-renaming-back-end (#18803)</code>](https://github.com/dbeaver/dbeaver/commit/b23d7fd0f4893c31f3d97a61388f9920dc70c28c)
+- [ ] [<code>#18778 Set global search property for autocomplete search</code>](https://github.com/dbeaver/dbeaver/commit/9debdb1bdd86eec0dc94bf1e1312bc9f643c06e6)
+- [ ] [<code>NPE during shutdown fixes</code>](https://github.com/dbeaver/dbeaver/commit/620a31286a8ca274c5cb8a8acb1e7b0c41580900)
+- [ ] [<code>dbeaver/pro#1363 do not read trigger cache if triggers are not supported by server type (#18846)</code>](https://github.com/dbeaver/dbeaver/commit/e1c876b7a70ed97df5ea76f27a75718d25433429)
+- [ ] [<code>dbeaver#18366 Disable DB2Constants.PSEUDO_ATTR_RID_BIT when connected to BigSQL (#18369)</code>](https://github.com/dbeaver/dbeaver/commit/fcf47fed75151fab0f8e386bee3edb4a92f66a56)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1343 Popup UI fix</code>](https://github.com/dbeaver/dbeaver/commit/a7777af76600074a265ff145e05c03a81d44d377)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/aeb96ff0c7b221e70f857ca7711ccdb1b50a0f37)
+- [ ] [<code>Merge branch 'devel' into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/8b577ccebbdf612573f90d17a2db1aa449829efb)
+- [ ] [<code>dbeaver/dbeaver#18841 Code style</code>](https://github.com/dbeaver/dbeaver/commit/967510524783e72750a38f53a4ab8cbb6e07d8ca)
+- [ ] [<code>dbeaver/dbeaver#18841 Code style</code>](https://github.com/dbeaver/dbeaver/commit/d0435333af93f6510545200c3a998f96e2297f63)
+- [ ] [<code>Revert "CB-2970-RM-Script-connection-assosiating-is-removed-after-opened-script-folder-renaming-back-end (#18803)"</code>](https://github.com/dbeaver/dbeaver/commit/85c58227414bec24975afadabb92a04067a20ead)
+- [ ] [<code>Postgres better function calling#16352 (#18135)</code>](https://github.com/dbeaver/dbeaver/commit/8121f3de5aee9c5a4b3230d91944a64bd8ed2526)
+- [ ] [<code>#16822 Treat `NULL` structs as so, don't check their values (#18866)</code>](https://github.com/dbeaver/dbeaver/commit/b24e0b27924f9f55c554c9298f11a40cf222be5e)
+- [ ] [<code>CB-2881 remove public permission (#18757)</code>](https://github.com/dbeaver/dbeaver/commit/9b78f024fa02ebc60730d05f02fc394be900a518)
+- [ ] [<code>dbeaver/pro#1336 Java17 backward compatibility option added</code>](https://github.com/dbeaver/dbeaver/commit/a7f2fd65626498d2ea3f2e1a5ded926434ab5d11)
+- [ ] [<code>Merge branch 'devel' into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/069ef25f902976bfb02d7597774198627a78bbfb)
+- [ ] [<code>dbeaver/dbeaver#18841 Error report</code>](https://github.com/dbeaver/dbeaver/commit/c7866a1f3032f626270162dfff9e49f65bd6aad9)
+- [ ] [<code>Merge branch 'gpt3#1343' of https://github.com/dbeaver/dbeaver into gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/95c153e539e4d8db991b60c067d3cb2f6151e07c)
+- [ ] [<code>dbeaver/dbeaver#18841 Error report for 429</code>](https://github.com/dbeaver/dbeaver/commit/c415f885467e0b3a0b5db66cb0e880d127c9a330)
+- [ ] [<code>#18885 Fix variables resolution in strings and comments</code>](https://github.com/dbeaver/dbeaver/commit/884553d44a3ccfc07c86ee00ec0861564e760f88)
+- [ ] [<code>#18752 Refresh object in navigator if it was not refreshed earlier only</code>](https://github.com/dbeaver/dbeaver/commit/86e6e40c69451a02562ce2595f9caca19671180c)
+- [ ] [<code>Merge pull request #18766 from dbeaver/gpt3#1343</code>](https://github.com/dbeaver/dbeaver/commit/617fbb80bb272e574a69a20fd7ea5939e408fb76)
+- [ ] [<code>Merge pull request #18868 from dbeaver/table-column-autocomplete#18778</code>](https://github.com/dbeaver/dbeaver/commit/3c2ac817c0a02089b0af0c630e0c7793a0662ee8)
+- [ ] [<code>dbeaver/pro#1343 Update Eclipse repo references + update to E2022-12</code>](https://github.com/dbeaver/dbeaver/commit/6a309f399c5da89e80ea45ed915eaf2626077a6b)
+- [ ] [<code>Merge pull request #18845 from dbeaver/mysql-quoted-identifiers#18707</code>](https://github.com/dbeaver/dbeaver/commit/11918edb7883df862365983c2104d240708c26bb)
+- [ ] [<code>Merge pull request #18834 from dbeaver/navigator-refresh-on-dirty-editor#18752</code>](https://github.com/dbeaver/dbeaver/commit/b56c82ffaeb1e05ee64004522cbe15f844e54f8b)
+- [ ] [<code>dbeaver/pro#1385 Oracle OS auth config fix</code>](https://github.com/dbeaver/dbeaver/commit/34c9fd481f9b563450b167fa3544fb98d1d18d7f)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/5d15ea7fc7cb4866dcabc51f36a344d7a21ecd80)
+- [ ] [<code>Merge pull request #18887 from dbeaver/vars-in-strings#18885</code>](https://github.com/dbeaver/dbeaver/commit/20164d7509e3b119e30179efa9195bef34ee2e57)
+- [ ] [<code>dbeaver/pro#1202 Return back content types preferences</code>](https://github.com/dbeaver/dbeaver/commit/5191bb4a76ada2015b231dab02e06be43eaf11b2)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/038fd4d0412eef8fd577ffd5101a9f6d52ac3682)
+- [ ] [<code>dbeaver/pro#1368 Change PG properties page title (#18883)</code>](https://github.com/dbeaver/dbeaver/commit/2c6ec9f7a71ce5775b93311df03c77b3bc847041)
+- [ ] [<code>dbeaver/pro#1371 rollback transaction in the exception case (#18891)</code>](https://github.com/dbeaver/dbeaver/commit/483a6c1d09577b8295b11651c07fde6d1011b4be)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18522 Keep datasource's original provider and driver IDs (#18864)</code>](https://github.com/dbeaver/dbeaver/commit/eba9488aec73611b65e316867afc210ec7e475bf)
+- [ ] [<code>Update CONTRIBUTING.md</code>](https://github.com/dbeaver/dbeaver/commit/9e62fe73c531776cbf89872d520edeff68933503)
+- [ ] [<code>Adds DBeaverNature to imported projects (#18636)</code>](https://github.com/dbeaver/dbeaver/commit/2c644b076f304f4e1794633a3c3add07026ce96a)
+- [ ] [<code>"Typed" (enum) field filtering PostgreSQL fix dbeaver#14986 (#18880)</code>](https://github.com/dbeaver/dbeaver/commit/c5ac27985defc1ab25047151e2ecdeb67fd8f62c)
+- [ ] [<code>#15743 Aggregate functions DDL read error log</code>](https://github.com/dbeaver/dbeaver/commit/b3e47caa9d1a87a6d1c8b786bbb55972842aec69)
+- [ ] [<code>CB-3101 copy datasource fix (#18905)</code>](https://github.com/dbeaver/dbeaver/commit/5c785083cedba48e9fabbabc5e0059d50dfeabb9)
+- [ ] [<code>22.3.4 config</code>](https://github.com/dbeaver/dbeaver/commit/2d3f64e383692151e601896e21de1690e2c7cd0f)
+- [ ] [<code>CB-3018 save password fix (#18859)</code>](https://github.com/dbeaver/dbeaver/commit/bdb4fdd29c2c7b587926c930b3c0d3f182764514)
+- [ ] [<code>dbeaver/dbeaver#16683 Add support for LocalDateTime and Instant values & code refactoring (#18832)</code>](https://github.com/dbeaver/dbeaver/commit/21c8198de2eb450d3fe0bbefa36b15b89a143859)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18908 remove the "cast functionality" button from the procedure tab; remove unused localization (#18910)</code>](https://github.com/dbeaver/dbeaver/commit/59b195e66d895ba31d4a95f46818e77c62d60b56)
+- [ ] [<code>#18354 Keep variable rule before parameter rule (#18862)</code>](https://github.com/dbeaver/dbeaver/commit/88ea18d1a090c7711d45b51ab539dd8ef96a55e1)
+- [ ] [<code>[Databricks]: reuse getTableDDL impl from Hive (#18801)</code>](https://github.com/dbeaver/dbeaver/commit/165a3fcb0fc7432d763072fcaad0bad5d6b70ca0)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1375 use parent provider id for correct dashboard descrip… (#18877)</code>](https://github.com/dbeaver/dbeaver/commit/913809bc2659b73400b07eab9ad2ddd6282ee214)
+- [ ] [<code>fix compatibility (#18920)</code>](https://github.com/dbeaver/dbeaver/commit/fe9df422e896cbff215decfc2ebc08f670c39c91)
+- [ ] [<code>Backward compatibility support</code>](https://github.com/dbeaver/dbeaver/commit/6b8ff3a1cebfb6e1ccf0dac4608070d50851a8a6)
+- [ ] [<code>#18896 Show all output severities (#18904)</code>](https://github.com/dbeaver/dbeaver/commit/d43490927693fe2805f07deb72faa586df8d3dc7)
+- [ ] [<code>dbeaver/pro#1308 Improve accessibility for data grid (#18915)</code>](https://github.com/dbeaver/dbeaver/commit/e32fcce46f6bd0cf14d834d372e680d99572d561)
+- [ ] [<code>dbeaver/pro#1350 Improve accessibility for entity properties (#18902)</code>](https://github.com/dbeaver/dbeaver/commit/0e00abcbc58d5a382da0bf952169fa2407746474)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#15282 Fix single \r to \r\n before query execution (#18923)</code>](https://github.com/dbeaver/dbeaver/commit/ba2b545a62fa8a715565e5e0d5af8e1e3f9a7acf)
+- [ ] [<code>CB-2970 RM: Script-connection assosiating is removed after opened script/folder renaming (back-end) (#18884)</code>](https://github.com/dbeaver/dbeaver/commit/af2d1942dcd3ea3f05c3dd4092ba77e8ae0b480f)
+- [ ] [<code>#17242 Numeric value comparison fix (use `=` instead of `>=`) (#18927)</code>](https://github.com/dbeaver/dbeaver/commit/961319affe0cc59e6ed767ce6d9fd3efd1ed2274)
+- [ ] [<code>Mass rows insert performance improve</code>](https://github.com/dbeaver/dbeaver/commit/5af9fc5a575e88007cab7e8a601a397df5b22e78)
+- [ ] [<code>Row paste in empty table fix</code>](https://github.com/dbeaver/dbeaver/commit/191f6f4c2599c1e3e057478ec0fccb5cdaf02670)
+- [ ] [<code>Revert "#17242 Numeric value comparison fix (use `=` instead of `>=`) (#18927)"</code>](https://github.com/dbeaver/dbeaver/commit/14d5333f4d8873af2d5941bff46ff1c20ffdbfb0)
+- [ ] [<code>#18726 Reorder filter actions (#18967)</code>](https://github.com/dbeaver/dbeaver/commit/d977ba434550f7ed6dc8bbc8aae725df975d43ce)
+- [ ] [<code>#18583 fix routines statement call generation (#18936)</code>](https://github.com/dbeaver/dbeaver/commit/77f6faa67779706b788fdeb08208b635e8ba44b7)
+- [ ] [<code>dbeaver/dbeaver#18955 Load ERD from external files (#18957)</code>](https://github.com/dbeaver/dbeaver/commit/a0d1b0212abe9cc1b2b935a713643a6f4371d3a9)
+- [ ] [<code>#18719 Remove uneeded save filters button (in custom SQL results) (#18980)</code>](https://github.com/dbeaver/dbeaver/commit/517047d728c73b7f9a8c9fef79015e06002d0c15)
+- [ ] [<code>#18720 Fix clear filters action handler (#18983)</code>](https://github.com/dbeaver/dbeaver/commit/57b6bb48c8fab0a30903b1d176e7313e7a4a6155)
+- [ ] [<code>#18751 Respect URL-based configuration (#18981)</code>](https://github.com/dbeaver/dbeaver/commit/64a25058dbda427963794766c6e30454b0cbc24e)
+- [ ] [<code>dbeaver/pro#1402 Hide task config page for temporary tasks</code>](https://github.com/dbeaver/dbeaver/commit/b97fe5574d8e888fa1dd41065b4a49005e93e5a4)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/63489fbfc0e2700bfacebf817001e85fd197df8b)
+- [ ] [<code>#18808 Convert binary data to a string if column is text (#18929)</code>](https://github.com/dbeaver/dbeaver/commit/240c9c7f3683c09ed937ce23d16ee68e56194cb1)
+- [ ] [<code>#17614 Don't assume underscore as character(s) to replace with underscore in data transfer file name (#18961)</code>](https://github.com/dbeaver/dbeaver/commit/7fd0b3b4ffdce0a18a50420011ac6aab19037748)
+- [ ] [<code>Include AI in Eclipse product category</code>](https://github.com/dbeaver/dbeaver/commit/185aeb7a951da6ddcd595212719c7f3683e9a4d1)
+- [ ] [<code>CB-2867 support dataset in UI (#18893)</code>](https://github.com/dbeaver/dbeaver/commit/71f0d3b8f33774c3b1304a18a8203b804ff09c6b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#18671 Fix "show orderings" preferences + ordering/filters icons render was fixed (#18979)</code>](https://github.com/dbeaver/dbeaver/commit/e0b0e87882d61721374461a34d0cdc39d942e0ab)
+- [ ] [<code>dbeaver/pro#1294 TE: support new folders in root fix (#18989)</code>](https://github.com/dbeaver/dbeaver/commit/5da782a2138d676a22255802ca06310de963b8bf)
+- [ ] [<code>dbeaver/pro#1393 Fix secured project refresh (#18977)</code>](https://github.com/dbeaver/dbeaver/commit/fd0f8ef57edd8f703c64800e39c38f12d70c6a1e)
+- [ ] [<code>#17244 set maxLength by default to -1 in case of the number format error (#19011)</code>](https://github.com/dbeaver/dbeaver/commit/8f2e7346ed6f7b2cd0bd6f674ebdf2f29500d5ac)
+- [ ] [<code>#17774 #17392 Fix statements extraction for single line comments on the same line (#18970)</code>](https://github.com/dbeaver/dbeaver/commit/82c1ee32ad73ea6e2bf536db8b8f7f25cc7b610b)
+- [ ] [<code>#18890 Handle multi-results with errors in SQL Server as warnings and write them in output log (#18986)</code>](https://github.com/dbeaver/dbeaver/commit/88f8536cb26d0bfcfde79a1827f793f599c1db54)
+- [ ] [<code>#17674 use database datatype when case not equivalent (#19005)</code>](https://github.com/dbeaver/dbeaver/commit/ac4522851e2f91d070374abeebadf660e1369b5e)
+- [ ] [<code>#19015 Update data viewer presentation in sync mode (#19016)</code>](https://github.com/dbeaver/dbeaver/commit/3da7c482f9856903e29d98f9f288bdeb0e84361e)
+- [ ] [<code>CB-3072 RM: metadata for removed script still exists (#18858)</code>](https://github.com/dbeaver/dbeaver/commit/1055e8b5f6a9657af68392ada5319a02d80dec69)
+- [ ] [<code>22.3.5 config</code>](https://github.com/dbeaver/dbeaver/commit/8d94dd6ce08fc3b4ab46cfb60c71808cf94f5ef3)
+- [ ] [<code>#17835 full name for arrays (#19002)</code>](https://github.com/dbeaver/dbeaver/commit/5d2b6926503ba3480e1742954b1e696abe11c5f0)
+- [ ] [<code>Updated InterSystems IRIS JDBC driver location (#18916)</code>](https://github.com/dbeaver/dbeaver/commit/3e88d5b894d09c0171f613a6d295e416250e8892)
+- [ ] [<code>dbeaver/pro#926 Add wiki link about exporting to external drive (#18924)</code>](https://github.com/dbeaver/dbeaver/commit/2c9679e339407b9a2f0c2f249b28e8c513d828a7)
+- [ ] [<code>Change defaults for Exasol connections parameters. (#18945)</code>](https://github.com/dbeaver/dbeaver/commit/cb629e0f255ca4187afa421a37444f0a11366144)
+- [ ] [<code>#18747 update SQL Server, Babelfish and Azure drivers to version 11.2.3 (#18987)</code>](https://github.com/dbeaver/dbeaver/commit/8af69221a5a25a90fb280be7677dd0752d7b3792)
+- [ ] [<code>dbeaver/pro#1412 Resolve credentials from local config if datasource is not persisted (#18988)</code>](https://github.com/dbeaver/dbeaver/commit/8f7c9681612852fc6eb42b882a30ce4c868715f4)
+- [ ] [<code>pro#1378 Keyboard navigation in data grid improvements (#19048)</code>](https://github.com/dbeaver/dbeaver/commit/e745d836425778133458a1f3c1fd0ac21def66f4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#18998 Fix variable names extraction for tasks (#19012)</code>](https://github.com/dbeaver/dbeaver/commit/cf81dc1adff2677adc9036431efe2fe487fd82cf)
+- [ ] [<code>dbeaver/pro#1387 ai enhancements (#18934)</code>](https://github.com/dbeaver/dbeaver/commit/154da508d74d0b0d75c02270cde581c65840b2b4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>CB-3100 rm event for creating project (#18943)</code>](https://github.com/dbeaver/dbeaver/commit/146e47806aedc10ed630ea6f2526c2f1705d5b24)
+- [ ] [<code>dbeaver/pro#1369 update license on missed project files (#19052)</code>](https://github.com/dbeaver/dbeaver/commit/f8daa45d076c28904802b76534e176d3fa58c237)
+- [ ] [<code>dbeaver/pro#1325 use non-overidden timezone setting (#18860)</code>](https://github.com/dbeaver/dbeaver/commit/398a05a7077109170fcf502bb135532a9f7c64b9)
+- [ ] [<code>#18906 use job instead of running in UI (#19006)</code>](https://github.com/dbeaver/dbeaver/commit/169055091c77eb5428bee9b06537d0de4c0fc3b7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1387 Containers load fix</code>](https://github.com/dbeaver/dbeaver/commit/ab6706718e1a901407c477a05d628b319dc86c33)
+- [ ] [<code>CB-3080 reconnect ws client (#19056)</code>](https://github.com/dbeaver/dbeaver/commit/8d54f324899a2cff2e4eb430f4e868a70afcebb7)
+- [ ] [<code>pro#1377 Fonts (#19073)</code>](https://github.com/dbeaver/dbeaver/commit/ca31c64743a470dfbb1dc56b16b88379f170d6d7)
+- [ ] [<code>dbeaver/pro#1360 read extra table/view/schema metadata; separate view… (#19067)</code>](https://github.com/dbeaver/dbeaver/commit/b67f69fed6b2265dd20d3b34bb1cdb40f93f71e3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>import using directly the url (#18421)</code>](https://github.com/dbeaver/dbeaver/commit/bbb144267cad5e92a4a6a13b8bba308a2a9a4ad8)
+- [ ] [<code>Fix QM event fire for CE</code>](https://github.com/dbeaver/dbeaver/commit/a5f3a25c20d718b09e1fff6269dfefd8a5df72fc)
+- [ ] [<code>CB-3062 extra fields for events (#18857)</code>](https://github.com/dbeaver/dbeaver/commit/f77f2e6b590c2b1c0dfa888fdfb12107e9083019)
+- [ ] [<code>dbeaver/pro#1389 Scope detection fix</code>](https://github.com/dbeaver/dbeaver/commit/cd7f709f95a795743d169d88d408a015b62d329a)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/af25cbb59f37e2d33e1ad24a695b626411389cad)
+- [ ] [<code>Remove splash logger after splash dispose</code>](https://github.com/dbeaver/dbeaver/commit/e601869b420ca7e21f65c252fee5e78fdc2da3f2)
+- [ ] [<code>dbeaver/pro#1301 Project create wizard fix</code>](https://github.com/dbeaver/dbeaver/commit/2813471c853d77f56b7cd53c392c16674229111e)
+- [ ] [<code>#19089 FIx variables replacement in echo, set, include commands (#19103)</code>](https://github.com/dbeaver/dbeaver/commit/69752e3fcba22cf849b8733ea7bc732d7b645db9)
+- [ ] [<code>#19125 fix column with comment creation action for FireBird (#19127)</code>](https://github.com/dbeaver/dbeaver/commit/3de2b30968886e15847d6a4fc6f2e5b7e65fb74c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1377 Font dispose fix</code>](https://github.com/dbeaver/dbeaver/commit/9e499fd9aff21323036cf88ba686c119d430420c)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/53bfb48a9b30ef129ab3755d6e24284536b74901)
+- [ ] [<code>PG external schemas read fix + minor logging fixes</code>](https://github.com/dbeaver/dbeaver/commit/da9dd68aab1677d16f6ef46f0699a463cded31d2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19088 Update Dremio driver to the version 24.0.0 (#19126)</code>](https://github.com/dbeaver/dbeaver/commit/f85c3645566e9f4ab01f4a73184588b4e2dcb2fa)
+- [ ] [<code>#17445 fix column comments creation for new and for persisted tables (#19132)</code>](https://github.com/dbeaver/dbeaver/commit/2f114cd07edd7aa7549c781f89b3da1545c3b6ca)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#19106 Fix NPE (#19119)</code>](https://github.com/dbeaver/dbeaver/commit/367f5d547d497b53705fe8127e5daa6ec3d78e5d)
+- [ ] [<code>#19089 Fix confirmation message for running queries canceling (#19090)</code>](https://github.com/dbeaver/dbeaver/commit/7820e440438f4d933564e8ecaf4b07c5cddf2e0c)
+- [ ] [<code>CB-901 fix icons for oracle package dependencies (#19116)</code>](https://github.com/dbeaver/dbeaver/commit/db50fa84a12db12791858776e4274968902c99ff)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CB-901 fix icons for oracle package dependencies (#19116)</code>](https://github.com/dbeaver/dbeaver/commit/e010f4d6ac054c98bae9d0342aa83541cc0c1c20)
+- [ ] [<code>CB-2975 datasource send event fix (#18815)</code>](https://github.com/dbeaver/dbeaver/commit/24705af60d2731b8e8ccb098bb94637a47525327)
+- [ ] [<code>#19026 Fix attributes binding for all columns, columns in quotes (#19128)</code>](https://github.com/dbeaver/dbeaver/commit/3304e2b255d14357879b5eabe54bd303e572b0b3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(properties): typos in French core properties (#19139)</code>](https://github.com/dbeaver/dbeaver/commit/27fa9e87c48a36557b4be2edc9d72664b78b519d)
+- [ ] [<code>dbeaver/pro#1293 TE scripts copy fix (#19135)</code>](https://github.com/dbeaver/dbeaver/commit/4332b7e98b69e76c7ea219120d75218c95f8a357)
+- [ ] [<code>Virtual struct editor page layout fix</code>](https://github.com/dbeaver/dbeaver/commit/c5e6c8b983cada725497334a47b1288fafcbdea3)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/791bd6b8020c5854d3873fe1e910eac6a9f15a01)
+- [ ] [<code>CB-3099 set project property rm api (#19025)</code>](https://github.com/dbeaver/dbeaver/commit/0a40fb32cdbd2d358e6396ccd6e9ce653c6bca4b)
+- [ ] [<code>CB-3147 get file extension from filename (#19136)</code>](https://github.com/dbeaver/dbeaver/commit/162288fd4331b906a38a8de0e266604578fa0a36)
+- [ ] [<code>#18849 Fix buttons update for dashboard creation dialog (#19129)</code>](https://github.com/dbeaver/dbeaver/commit/0e2175da77a5ad71b027bbf04115dc22408ae5e7)
+- [ ] [<code>#15519 Use separate connection for sql console if it was set in settings (#19134)</code>](https://github.com/dbeaver/dbeaver/commit/f5c245d6bacdadfc80a2b6ee9b2a5cdf8813624a)
+- [ ] [<code>#17411 Recognize WKT stored as binary data (#19171)</code>](https://github.com/dbeaver/dbeaver/commit/5c677a9dc33c72d1ab57a568c06abd2232560e29)
+- [ ] [<code>dbeaver/pro#1397 Add localization to spreadsheet accessibility (#19083)</code>](https://github.com/dbeaver/dbeaver/commit/c2f4b5412e877fff8620b2a8c1b066d2d6bdd98a)
+- [ ] [<code>#19013 Navigator tree font change fix (#19118)</code>](https://github.com/dbeaver/dbeaver/commit/1d85fd0444b549ae7373593d7fa4651c30c5a81d)
+- [ ] [<code>23.0 config</code>](https://github.com/dbeaver/dbeaver/commit/54437b3f96123fc2d30e7db90a675f5b442cd8a2)
+- [ ] [<code>#17326 try execute recover for generators (#19131)</code>](https://github.com/dbeaver/dbeaver/commit/b4b536280e34b13ad4ed3b06b255ed15084e96b1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1254 SQL editor additions, dataset editor (#19179)</code>](https://github.com/dbeaver/dbeaver/commit/0385214d12695938c73e70fad4730b7f5f59dc63)
+- [ ] [<code>#19003 j a v a s c r i p t (#19182)</code>](https://github.com/dbeaver/dbeaver/commit/195b6e8c12d2e37fdd8680042d2b98f80988b391)
+- [ ] [<code>Dbeaver/pro#1389 ai enhancements (#19087)</code>](https://github.com/dbeaver/dbeaver/commit/a3dfb40826ee799f95df0bead4b210f8fbaa5d9d)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>#14710 Reduce the amount of spelled text when moving between rows/cols (#19183)</code>](https://github.com/dbeaver/dbeaver/commit/661665e0325bc1877ac7cf14a1b4fc24e626af60)
+- [ ] [<code>#19152 Specify default main font for macOS (#19181)</code>](https://github.com/dbeaver/dbeaver/commit/ed500ba7531af74a890b58bc4d16ac753c2d314e)
+- [ ] [<code>#17421 fix varbyte recogntion (#19167)</code>](https://github.com/dbeaver/dbeaver/commit/3bdbad42da03fd041e6a82fd850df90a3e54b526)
+- [ ] [<code>#18907 Fix focus on node loading for data source selector dialog (#19192)</code>](https://github.com/dbeaver/dbeaver/commit/82f6151b1548d82f78e7f35aeca20a90bab3954b)
+- [ ] [<code>dbeaver/pro#1447 tags and fields now read for entire duration, fix localdatetime in date editor (#19195)</code>](https://github.com/dbeaver/dbeaver/commit/f5bef2d54328e9a4ff79eac766e0f7ab89e2fd5f)
+- [ ] [<code>#19206 Fix NPE on NULL value in Image panel opening (#19207)</code>](https://github.com/dbeaver/dbeaver/commit/ad693d007296ce885a2b1b2b05f3e2b950636921)
+- [ ] [<code>CB-3103 Avoid database corruption (#19051)</code>](https://github.com/dbeaver/dbeaver/commit/44ba164a7fb389096d0665c1d9003f43b339835d)
+- [ ] [<code>dbeaver/pro#1437 3-rd party licenses (#19198)</code>](https://github.com/dbeaver/dbeaver/commit/d8f5358fa117eaab4e45e3a547c11bd2836a3ca8)
+- [ ] [<code>#19124 PG URL patch revert (#19130)</code>](https://github.com/dbeaver/dbeaver/commit/2e365ecf6374cf8a32653ed35297e1c8f45816b8)
+- [ ] [<code>dbeaver/pro#1442 Kerberos auth model config change. Legacy driver remove. (#19164)</code>](https://github.com/dbeaver/dbeaver/commit/9a26f9742ac2b37c4e1a45d39590bce43fe442b5)
+- [ ] [<code>#19046 Support user-defined keybinding for pinning/unpinning active results tab (#19059)</code>](https://github.com/dbeaver/dbeaver/commit/67dc51001c04ff710fe4c9fe8fa675fbd72c0eba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1406 Update version splash to version 2023 (#19153)</code>](https://github.com/dbeaver/dbeaver/commit/ecde19c7afc0b77bfd2e0b6373547d1a7786bffb)
+- [ ] [<code>#19208 BLOB value read/export fix (#19211)</code>](https://github.com/dbeaver/dbeaver/commit/2fd63fd0c13cbd0989916ff4bdcfd38ea2e92054)
+- [ ] [<code>dbeaver/pro#1445 Update ClickHouse driver to 0.4.1 (#19216)</code>](https://github.com/dbeaver/dbeaver/commit/5c914d581a1cdc2e719a28701be852820c46870c)
+- [ ] [<code>CB-2986 save empty creds to secret (#19168)</code>](https://github.com/dbeaver/dbeaver/commit/505c4de5509784310977bf03626dd77ea009ec87)
+- [ ] [<code>CB-3026 dynamodb auth properties fix (#19155)</code>](https://github.com/dbeaver/dbeaver/commit/2ce48c2660ada09ced082180b8ab5b65997e9c4b)
+- [ ] [<code>dbeaver/pro#1426 Rename legacy ODBC driver (#19157)</code>](https://github.com/dbeaver/dbeaver/commit/12af3af4b5ba42061745643e99394d6d2ba6aa85)
+- [ ] [<code>#19191 fix Postgres Explain Plan execution parameters saving (#19197)</code>](https://github.com/dbeaver/dbeaver/commit/0a5b4713835347e241b5266d9500753c420c10b6)
+- [ ] [<code>dbeaver/pro#1451 Use JRE11 SQL Server driver</code>](https://github.com/dbeaver/dbeaver/commit/225c49465c9808fe2dc905a05f99bf61d796b2c0)
+- [ ] [<code>#19224 SQL editor toolbar update in UI thread</code>](https://github.com/dbeaver/dbeaver/commit/9f9d7481916ff3578bb123e2a7de6332beca7921)
+- [ ] [<code>CB-3097 add datasource info for sql parser (#19121)</code>](https://github.com/dbeaver/dbeaver/commit/47b9ebbf4afd4d89b62bef114d327df021226f42)
+- [ ] [<code>CB-3162 add opensearch driver (#19194)</code>](https://github.com/dbeaver/dbeaver/commit/094672be97e4c9b4234067911c68366175506863)
+- [ ] [<code>#19159 Make editors respect current font (#19232)</code>](https://github.com/dbeaver/dbeaver/commit/028592508ec31b53e869debc8badcdade9d2c3c6)
+- [ ] [<code>AIO settings save/load fix</code>](https://github.com/dbeaver/dbeaver/commit/fc68f7493d9f185b711a60d2ef198da57dea8dfe)
+- [ ] [<code>#18511 Add missing native dependencies</code>](https://github.com/dbeaver/dbeaver/commit/1f9a1a3875a2fb089d07e0e1ffd929a19deeca7a)
+- [ ] [<code>dbeaver/pro#1455 Fix manual driver files resolution. Remove redundant… (#19252)</code>](https://github.com/dbeaver/dbeaver/commit/54d88323b87df18510ce2eed289b9f7fc0f84b29)
+- [ ] [<code>#18999 Treat composite as null if its data is null (#19170)</code>](https://github.com/dbeaver/dbeaver/commit/2ccdcc3f3e69303ceeff35c94be290e25e9b5cf4)
+- [ ] [<code>Revert "#19159 Make editors respect current font (#19232)"</code>](https://github.com/dbeaver/dbeaver/commit/b5c95359b484c20c0d181acb7dd335630d9b3013)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/456b3ee528d3d6f59f8f6a3f4f71bdede4353ce2)
+- [ ] [<code>dbeaver/pro#1458 return previous SQL Server driver version; disable trustCertificate option by default (#19274)</code>](https://github.com/dbeaver/dbeaver/commit/130264a19f8d8a2008db99b4df52a53871febc4d)
+- [ ] [<code>dbeaver/pro#1389 GPT limits remove</code>](https://github.com/dbeaver/dbeaver/commit/f13e8b5ac2b4f30136313630c6a7939b76d53c31)
+- [ ] [<code>dbeaver/pro#1456 register new drivers (#19286)</code>](https://github.com/dbeaver/dbeaver/commit/6935db45fa08859f5ab6d218dc409e4e4df737e1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1408 convert "string" data type to text during data transfer (#19114)</code>](https://github.com/dbeaver/dbeaver/commit/8d7fdbb15031373ba72b07b84b407b25f1585e1c)
+- [ ] [<code>dbeaver/pro#1475 Fix redshiuft stats (#19306)</code>](https://github.com/dbeaver/dbeaver/commit/eb5ca7afa7ac0fde59ccf618a85d61199237e3b8)
+- [ ] [<code>#19288 External schema read: ignore database (#19308)</code>](https://github.com/dbeaver/dbeaver/commit/2da9035999cb1cdf93729ecc20b244ef28c20ef1)
+- [ ] [<code>Remove unused localization string (#19332)</code>](https://github.com/dbeaver/dbeaver/commit/125ed3b422a0f7d5b1d2908e9ee56748472b0ef8)
+- [ ] [<code>BC dependency: do not include bundles explicitly</code>](https://github.com/dbeaver/dbeaver/commit/1fbc82abf16cb148af7dd46f47ebf5d78ed2438a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>JSch dep</code>](https://github.com/dbeaver/dbeaver/commit/16564470da38194e79c0c3d8a939921c5a809807)
+- [ ] [<code>dbeaver/pro#1478 JSQLParser update to 4.6</code>](https://github.com/dbeaver/dbeaver/commit/12dbfbde191c7aed91638f4cb9a7b2dc7c8314ff)
+- [ ] [<code>#19329 fix fr localization (#19333)</code>](https://github.com/dbeaver/dbeaver/commit/9120dd655a88997d1e44c3cf2b165aada39f7de2)
+- [ ] [<code>dbeaver/pro#1454 Respect 'Use Windows trust store' option in headless mode (#19233)</code>](https://github.com/dbeaver/dbeaver/commit/c702b0fef401f51345fa792fb5fcffa1af846507)
+- [ ] [<code>#17703 Fix blob export to txt (#19215)</code>](https://github.com/dbeaver/dbeaver/commit/4dccf7ee5c7734a5cd62f20880bca37442840cd3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>GPT limits usage fix</code>](https://github.com/dbeaver/dbeaver/commit/d5676eb78e916eef8b3b2186231a56df7abcf9d4)
+- [ ] [<code>dbeaver/pro#1170 spelling service (#19322)</code>](https://github.com/dbeaver/dbeaver/commit/d5f1efb9ec2b473922eb255997bf56c4f5bdd60a)
+- [ ] [<code>#18455 Fix connection type update (#19279)</code>](https://github.com/dbeaver/dbeaver/commit/dfbaed9078f3d233b4386fdcf38eee39763b4c4b)
+- [ ] [<code>Remove JSch from deps</code>](https://github.com/dbeaver/dbeaver/commit/086484806a25ac62ce0543aee3940c4e6b54de5e)
+- [ ] [<code>dbeaver/pro#148 Allow hiding execution statistics (#19309)</code>](https://github.com/dbeaver/dbeaver/commit/8a22c75f1f9e21946c2a1ab17836f8ffc333ba7f)
+- [ ] [<code>#19366 show default values for domain procedures parameters (#19374)</code>](https://github.com/dbeaver/dbeaver/commit/02c98516b1b9fd71b61e124eff641c68ef9a81af)
+- [ ] [<code>JSch 0.2.5</code>](https://github.com/dbeaver/dbeaver/commit/6681430e77665ef7e36bc039e43f45652476e215)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/90297de1a94e6b34d0330accbaa243be9885f86d)
+- [ ] [<code>#19389 Exclude quicksearch from IDE product</code>](https://github.com/dbeaver/dbeaver/commit/0efcda68ec8b8f54ab45fabf1fd28b9ff463bb17)
+- [ ] [<code>23.0.1 config</code>](https://github.com/dbeaver/dbeaver/commit/169e06a32db39b2143de1008cfb204ab99d207a0)
+- [ ] [<code>Fix workbench flickering during workbench initialization</code>](https://github.com/dbeaver/dbeaver/commit/e73289ba0d18c7bd5ed851620b0ba1c982d938a3)
+- [ ] [<code>dbeaver/pro#1428 Fix font issues (#19271)</code>](https://github.com/dbeaver/dbeaver/commit/468ad6fafc424da454d6fb488b05514ffafab939)
+- [ ] [<code>dbeaver/pro#1443 resource icons model (#19360)</code>](https://github.com/dbeaver/dbeaver/commit/ae57a192502dcfb6276b10ceab08c3d5749b0812)
+- [ ] [<code>#18300 Editor toolbar customization (#19385)</code>](https://github.com/dbeaver/dbeaver/commit/1c1dbe51ebf47ba76390cfa6d9b6e195b286246d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1199 add Sybase ext aux (#19410)</code>](https://github.com/dbeaver/dbeaver/commit/67ae0b2575d1cccaafb1fa8e94ef4329b0d73160)
+- [ ] [<code>Dummy CVE warning fix</code>](https://github.com/dbeaver/dbeaver/commit/a119f4c62b013bdb24f19ca93edfdd9758c972d2)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/56af9fed89db151235abd29c633399444c86ca86)
+- [ ] [<code>Dummy CVE warning fix</code>](https://github.com/dbeaver/dbeaver/commit/de814aa9691e161591d0e07e850e82a16bd5afe6)
+- [ ] [<code>Legacy icons added</code>](https://github.com/dbeaver/dbeaver/commit/a430a66db8f684dd2a3242c33d85450810c5faf8)
+- [ ] [<code>devops: update codeql report</code>](https://github.com/dbeaver/dbeaver/commit/fee34477e23914038e3bb6ddb5b339eeef260db9)
+- [ ] [<code>devops: update codeql report - java version increased</code>](https://github.com/dbeaver/dbeaver/commit/240610bd5329fbba90f211a8995d9d630c9bf486)
+- [ ] [<code>devops: codeql temporary disabled</code>](https://github.com/dbeaver/dbeaver/commit/cf57e7a0f2431efc99427c543f46e1e73b5f6357)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/8e4b585846e0182bf5e3063b5b6f8ca54e279090)
+- [ ] [<code>Show warning only one time</code>](https://github.com/dbeaver/dbeaver/commit/d54571b585ef8d92c1d4c2aba31be0df1cea2e4d)
+- [ ] [<code>dbeaver/pro#1245 Detach result tabs (#19297)</code>](https://github.com/dbeaver/dbeaver/commit/70b937b22231efc5f69fffc5163011aef526e33f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19123 add extra table metadata info properties (#19430)</code>](https://github.com/dbeaver/dbeaver/commit/dbf640c0b4d8a29980379ba2826bad48f53748df)
+- [ ] [<code>CB-2549-virtual-workspace (#19367)</code>](https://github.com/dbeaver/dbeaver/commit/c00aadcd80c0e0d188e5de56c5ca5a80a30e51c9)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/1e3fbeba64afec4519450a34c65022eb9cf9e2b4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>JSch version update</code>](https://github.com/dbeaver/dbeaver/commit/aeb8bdc168b84115a66d992cc78f2e2feb572ab1)
+- [ ] [<code>#3371 add TOP limit support for Sybase and old SQL Server (#19428)</code>](https://github.com/dbeaver/dbeaver/commit/7db22589e98868362cec32b204f666650ce081cb)
+- [ ] [<code>Cb 2852 qm redesign (#19304)</code>](https://github.com/dbeaver/dbeaver/commit/01a4369799057d6df18ced2cab7aae87d925e1eb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#17537 Switch to JSCH fork (#19357)</code>](https://github.com/dbeaver/dbeaver/commit/23c1de8bbfb3179ad31085e9a948d98c05352248)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Show content viewer for strings longer than 32 chars (was 100)</code>](https://github.com/dbeaver/dbeaver/commit/336353912e795bd8dd148d3720ad0592a5523061)
+- [ ] [<code>#19416 Change default font size on macOS from 11 to 13 (#19432)</code>](https://github.com/dbeaver/dbeaver/commit/b268c9f6fc66e5e1f907b7b50e24ac9c5b4061b6)
+- [ ] [<code>dbeaver/dbeaver#16795 Items read from composite cache: respect already read parents (#19440)</code>](https://github.com/dbeaver/dbeaver/commit/fbdd373a47389420599641203475bf1c2688419c)
+- [ ] [<code>dbeaver/pro#1409 Pass source document instead of resolved attribute (#19205)</code>](https://github.com/dbeaver/dbeaver/commit/769b526322ee04e8e225a5ed1c459450794b4d10)
+- [ ] [<code>#19392 Spreadsheet theme update (#19413)</code>](https://github.com/dbeaver/dbeaver/commit/500db9dcb20cb3ed7e0fe4a0e0a375dfeaa92589)
+- [ ] [<code>#17724 add special case for object search: search schemas with equal … (#19154)</code>](https://github.com/dbeaver/dbeaver/commit/bf70acaa178249ed8f413e4f77010302ffcfbdf5)
+- [ ] [<code>dbeaver/pro#1394 show changing password dialog for users with expired… (#19246)</code>](https://github.com/dbeaver/dbeaver/commit/b9586a233f6a211b2ff590a37b0aba03829147ba)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18964 explicitly add strict as keyword (#19447)</code>](https://github.com/dbeaver/dbeaver/commit/d5eaf2db18f5e4a1da11c6f782097e2bd35c19b9)
+- [ ] [<code>#17396 Support TiDB using Modules (#18299)</code>](https://github.com/dbeaver/dbeaver/commit/154ea2655bab710eb88038ae517bcd6806b59e84)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1495 Clickhouse bundle deps</code>](https://github.com/dbeaver/dbeaver/commit/38d011873891f4569b575925ae87464cdd899803)
+- [ ] [<code>dbeaver/pro#1495 Update ClickHouse driver to 0.4.2 (#19454)</code>](https://github.com/dbeaver/dbeaver/commit/f27d342fa902d9944070a1088ac220ec4cb2629b)
+- [ ] [<code>CB-3078 te secret events (#19312)</code>](https://github.com/dbeaver/dbeaver/commit/f10db591095aec065dc20694b6c62f5c57d173a0)
+- [ ] [<code>ANTLR4 dept</code>](https://github.com/dbeaver/dbeaver/commit/f91564eec532be09ab8c44bcba652f3d056104b9)
+- [ ] [<code>CB-2888 project sync (#19213)</code>](https://github.com/dbeaver/dbeaver/commit/1584a9ed682c3168ca1a11a223dee83d731e908e)
+- [ ] [<code>Ask for password during connect always if password is not saved</code>](https://github.com/dbeaver/dbeaver/commit/8e78583c17861302e2e36559e9f1f2705399e134)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/d98cc42c72abca2b309703fb5ec6f42c10c4c935)
+- [ ] [<code>#18300 Return back default buttons to the toolbar (#19476)</code>](https://github.com/dbeaver/dbeaver/commit/0564ce64f7e418f3e204bfc397718730048bb0ea)
+- [ ] [<code>Navigator error messages fix</code>](https://github.com/dbeaver/dbeaver/commit/4b88ad0d0e4b278efcec4ecc731aceab18991193)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/8019a0cccab6e8b66951d9190008a150c4dc8da4)
+- [ ] [<code>Remove guava from deps to avoid conflicts with 3rd party drivers</code>](https://github.com/dbeaver/dbeaver/commit/a8b013b9bbd406bee446c0db1c9a1edb06dbff26)
+- [ ] [<code>CB-1575 db2 application objects node path fix (#19449)</code>](https://github.com/dbeaver/dbeaver/commit/d7248a18d089075dedb8411e1f7a710a378b548b)
+- [ ] [<code>#19418 ability to drop generic triggers via UI added (#19448)</code>](https://github.com/dbeaver/dbeaver/commit/f22d210b2597270f186c55437667ec53ed5e340b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#14511 Move erd diagram only once on search (#19485)</code>](https://github.com/dbeaver/dbeaver/commit/2e4c5c149c625aa6560c8f1b9e2ea0203f10c4a2)
+- [ ] [<code>Jetty server bundle</code>](https://github.com/dbeaver/dbeaver/commit/0fee45c4943ca100be4b30a1b4d73a998f5ed6ce)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/bb7b74faa75ac4f6a27159f444606b9a5dd04026)
+- [ ] [<code>#19365 Fix commands for foldings (#19484)</code>](https://github.com/dbeaver/dbeaver/commit/267ebf5a324189d2a16d8250340398344229dbe7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1497 kerberos subject authentication (#19461)</code>](https://github.com/dbeaver/dbeaver/commit/c54b0646bf4a2124a05d4231bc13a265dd4a7bd3)
+- [ ] [<code>Revert "#19416 Change default font size on macOS from 11 to 13 (#19432)"</code>](https://github.com/dbeaver/dbeaver/commit/064a5e4993e99054066e6431eed7dac825be2e51)
+- [ ] [<code>#19222 Support artifact classifier (#19512)</code>](https://github.com/dbeaver/dbeaver/commit/745d090d3de5fa3272a360b078257627bba42e02)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix double Bundle-ActivationPolicy</code>](https://github.com/dbeaver/dbeaver/commit/53fb92a5727f0116d2d963ed8f339d029869d71b)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/e10823aacbf66081b7266ee907f4c8f06c54b24a)
+- [ ] [<code>Remove redundant RCP dependencies</code>](https://github.com/dbeaver/dbeaver/commit/49caa83938a493e8c6a40d25c2f81ea66078fd05)
+- [ ] [<code>CB-3209 Add instance ID to web session (#19307) (#19435)</code>](https://github.com/dbeaver/dbeaver/commit/f31dbd089cba798ce67e97c8aad31a46ed0fc8f7)
+- [ ] [<code>#19222 Artifact reference parse fix</code>](https://github.com/dbeaver/dbeaver/commit/923bc791180d5f4419f0aecc74f6aaa528ddf4d8)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/0bd65525f0cc795d58b3cc1502ba7cd0e8f287fa)
+- [ ] [<code>dbeaver/pro#1515 Migrate to Eclipse 2023-03 (#19524)</code>](https://github.com/dbeaver/dbeaver/commit/5021b95df48381e497f9059d48e55b81a4d2e608)
+- [ ] [<code>dbeaver/pro#1494 remove disabled models & update SDK & add gpt turbo (#19501)</code>](https://github.com/dbeaver/dbeaver/commit/77804bfdd9ce215ca727a454e2ed17db7d416dfb)
+- [ ] [<code>#19427 Update Teradata driver - load latest release from the maven repository (tdgssconfig.jar is included in the main driver jar) (#19496)</code>](https://github.com/dbeaver/dbeaver/commit/197e74c1b6c4188a9a0a35fa7f5fe9b79b2a0980)
+- [ ] [<code>dbeaver/pro#1461 Make clickable hints look like links (#19469)</code>](https://github.com/dbeaver/dbeaver/commit/b38c447538ebc9c539848a7cb2c78ea46fdd31d8)
+- [ ] [<code>dbeaver/pro#1418 Handle errors during data transfer (#19505)</code>](https://github.com/dbeaver/dbeaver/commit/f58a020471bec279ab8bf402012399de3b087202)
+- [ ] [<code>dbeaver/pro#1241 update icon (#19516)</code>](https://github.com/dbeaver/dbeaver/commit/b4baa46c2cab19c022c75daaea2a41524c3bf7e6)
+- [ ] [<code>dbeaver/dbeaver#18316 INSERT and UPDATE keywords completion (#19581)</code>](https://github.com/dbeaver/dbeaver/commit/a7ae34e51cf7dac1bf31a522eee2131498beff10)
+- [ ] [<code>Cleanup team workspace on start to avoid sync problems</code>](https://github.com/dbeaver/dbeaver/commit/fe7b1c7a018b228650126c274cf364233fd95ce7)
+- [ ] [<code>Set "savePassword" if secret contains password</code>](https://github.com/dbeaver/dbeaver/commit/ec80edc9649ec48405f6b042bad202782d7d94db)
+- [ ] [<code>23.0.2 config</code>](https://github.com/dbeaver/dbeaver/commit/ab404d0ebf4b0d664a8098370b2840b4895246e9)
+- [ ] [<code>dbeaver/dbeaver#19583 Fix statements create attempts if is not intern… (#19584)</code>](https://github.com/dbeaver/dbeaver/commit/7179320ca43046fbc6774fa96f027a60eac6f2fe)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19319 Fix q-string rule chars unreading (#19503)</code>](https://github.com/dbeaver/dbeaver/commit/9c8324ab66461db09f68b27262a9a6420c8cf7e2)
+- [ ] [<code>#19416 Toolbar font fix (#19545)</code>](https://github.com/dbeaver/dbeaver/commit/3a6c3011755e43db33f722a32900177aba4cf3ce)
+- [ ] [<code>dbeaver/pro#1516 change Confirmations page dialog behaviour - keep status of the confirmation dialog (#19544)</code>](https://github.com/dbeaver/dbeaver/commit/f04473cec586e6e226bacae17aac09623feeb28e)
+- [ ] [<code>#19540 support Databricks view description property (#19560)</code>](https://github.com/dbeaver/dbeaver/commit/59883bfdabd85d04be9195923aede3da58ba6f1e)
+- [ ] [<code>dbeaver/pro#1492 Migrate to Java 17. Add extra jvm options (#19534)</code>](https://github.com/dbeaver/dbeaver/commit/d6b56b4b167012c98df63b51175d31df43a81923)
+- [ ] [<code>#19159 Apply main font in various places (#19554)</code>](https://github.com/dbeaver/dbeaver/commit/f2f39988ecfe290f4de156c632daa5952098feb1)
+- [ ] [<code>dbeaver/pro#1121 add Dependencies tab for materialized views (#19565)</code>](https://github.com/dbeaver/dbeaver/commit/239e21e9949a7a05acc4e90ef8f0e70825126879)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/dbeaver#16776 refresh visuals without layout call (#19511)</code>](https://github.com/dbeaver/dbeaver/commit/e810b479eab506da0e131ea86d6b00c8198b77c0)
+- [ ] [<code>Check pg_proc columns presence</code>](https://github.com/dbeaver/dbeaver/commit/55045ba68e4ad4eb22f7fb13622bbe5978eaf94c)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/9eed2258c2ac59404a2541afc5713c63dc81c2e2)
+- [ ] [<code>Set "savePassword" if secret contains password</code>](https://github.com/dbeaver/dbeaver/commit/bf87c8e7487057cab746e75904c6aae3b39347e9)
+- [ ] [<code>dbeaver/pro#1492 Fix CB run scripts</code>](https://github.com/dbeaver/dbeaver/commit/e49cb2c0fcb760e6e6201940d510c3f52e79c45a)
+- [ ] [<code>CB-3217 ee get drivers from maven (#19409)</code>](https://github.com/dbeaver/dbeaver/commit/84796815f2d6f0562b6482a3257f7ecfafadd80c)
+- [ ] [<code>dbeaver/pro#1522 Do not encrypt values in secret storage (standalone) (#19566)</code>](https://github.com/dbeaver/dbeaver/commit/36816127936b78e3b2c253c7346237d884d5be3a)
+- [ ] [<code>dbeaver/dbeaver#18348 update jsch (#19598)</code>](https://github.com/dbeaver/dbeaver/commit/c58a2adfd007580376a0f92c6d0384d96bb59294)
+- [ ] [<code>CB-1577-H2-driver-update (#19380)</code>](https://github.com/dbeaver/dbeaver/commit/7c1bd1c592bbac44065348b3d8aa4765d4eb037f)
+- [ ] [<code>dbeaver/pro#1099 update default schema as well (#19343)</code>](https://github.com/dbeaver/dbeaver/commit/07266256f5f40dba2b283660207c808fe2ace235)
+- [ ] [<code>dbeaver/pro#1311 improve accessibility erd (#19559)</code>](https://github.com/dbeaver/dbeaver/commit/78ede345050851d15f672ff96d556a9de539fd01)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>l10n(zh_TW): Update translations of bundle_tw.properties (#19574)</code>](https://github.com/dbeaver/dbeaver/commit/038d2a0abf5647ed07fbcbfd2f9555351bad2adf)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>#19564 read and use default domain procedures parameters in the procedure DDL (#19588)</code>](https://github.com/dbeaver/dbeaver/commit/35543298092f240432f1b76fe1d50b96a74d1f28)
+- [ ] [<code>#18974 Allow toggling native formatting for special IEEE values (#19603)</code>](https://github.com/dbeaver/dbeaver/commit/25acbb63e2723ca4b4ee43629e35688520b3dcab)
+- [ ] [<code>#19578 correct JOIN for data types reading (#19579)</code>](https://github.com/dbeaver/dbeaver/commit/2245ec4a706b2a00f2824945d52f9cdd6c666c0c)
+- [ ] [<code>#18449 Keep editors when disconnecting from DB (#19594)</code>](https://github.com/dbeaver/dbeaver/commit/8b99670914cd1df6cc97a42dc9f386fb272c57fe)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#19437 open external files (#19599)</code>](https://github.com/dbeaver/dbeaver/commit/d73d107b2f71426558b2e7309bb7e8d48dc96d96)
+- [ ] [<code>#18330 actualize result set columns descriptions before export to XLSX (#19601)</code>](https://github.com/dbeaver/dbeaver/commit/60fe3f079f7893c59f432f452ec29178bd7668eb)
+- [ ] [<code>#19375 Listen to all theme-related events and update after the last one (#19500)</code>](https://github.com/dbeaver/dbeaver/commit/1b64a423d0e44df884066d30ceb03dde95fc18e2)
+- [ ] [<code>#19520 do not transform pasted in the SQL Editor data by default - to avoid data loss (#19614)</code>](https://github.com/dbeaver/dbeaver/commit/a02e51df2fb6bbde019dd578ad9fdd300836a351)
+- [ ] [<code>dbeaver/pro#1263 Remove filters from grouping</code>](https://github.com/dbeaver/dbeaver/commit/60465f53033fbaf474057e323f36e702661068e7)
+- [ ] [<code>#19552 Use array list instead of array to reduce number of allocations for subtasks</code>](https://github.com/dbeaver/dbeaver/commit/e5105b9d42bb9ecfa0dc64c5f034a33f8b17c9d1)
+- [ ] [<code>dbeaver/pro#1532 Load datasource providers on start to avoid lazy loading in the middle of UI interactions</code>](https://github.com/dbeaver/dbeaver/commit/ba0552bcd3501fd2cae292e35eb9ae33f97b6677)
+- [ ] [<code>Force single connection for Athena</code>](https://github.com/dbeaver/dbeaver/commit/e3744a049e3f677953779d3d7ea11ea356832ea6)
+- [ ] [<code>#19031 antlr (#19546)</code>](https://github.com/dbeaver/dbeaver/commit/2fd93e057a1893ab7c3905390b3dba530d6a9ac5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Force single connection for Clickhouse</code>](https://github.com/dbeaver/dbeaver/commit/49550e7b16c333d22e47ad48a205236546ee41c1)
+- [ ] [<code>CB-3112 qm add projects filter (#19563)</code>](https://github.com/dbeaver/dbeaver/commit/2f0b30ee83cdbf0731e287e75fb553551bac670f)
+- [ ] [<code>dbeaver/dbeaver#19031 LSM model</code>](https://github.com/dbeaver/dbeaver/commit/14d63be8cde92273e364536773319dfb0ada5a6a)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/0b898702492b480d8b71580490c1303bc1539da5)
+- [ ] [<code>dbeaver/dbeaver#19031 LSM refactoring + engine test</code>](https://github.com/dbeaver/dbeaver/commit/a5b038331c0a9d927ff9bc2a31313332a06c784e)
+- [ ] [<code>#19031 Allow non-reserved keywords in identifiers (#19645)</code>](https://github.com/dbeaver/dbeaver/commit/9f2334555cd9ecf04e887df596945f16e3a9d4b4)
+- [ ] [<code>19043: Microseconds epoch transformer (#19068)</code>](https://github.com/dbeaver/dbeaver/commit/3396a03e9bf85f236a71ca48165ee25f91603fce)
+- [ ] [<code>dbeaver/dbeaver#19031 Move grammar to root</code>](https://github.com/dbeaver/dbeaver/commit/5a214848695b52a2095810645a829e753d118fd0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/dbeaver#19521 Fix theme listener de-register (#19658)</code>](https://github.com/dbeaver/dbeaver/commit/a2bf06318e1a883d36942c8982c43c7395ab40ba)
+- [ ] [<code>#19650 Fix order by parsing in examples and turn off generating listeners (#19651)</code>](https://github.com/dbeaver/dbeaver/commit/5a30f353f9176b8b43e3d60a65894499b18f2e26)
+- [ ] [<code>Grid prefs page layout fix</code>](https://github.com/dbeaver/dbeaver/commit/a44e8285b42f81234a131dc8c4268204c8385c39)
+- [ ] [<code>#19455 avoid NPE during the grant catalogs comparison (#19632)</code>](https://github.com/dbeaver/dbeaver/commit/2fd492963581b2242bdfceea61798caa62a9c8b8)
+- [ ] [<code>dbeaver/pro#1460 Synchronize and group fonts (#19611)</code>](https://github.com/dbeaver/dbeaver/commit/97db1d053f9cf302eb076a79859ebf140ffa53ca)
+- [ ] [<code>#19305 Render non-displayable characters in the grid (#19660)</code>](https://github.com/dbeaver/dbeaver/commit/9a18a14518e5ac242563be20a6650f6e665dfe78)
+- [ ] [<code>Move generated sources to target</code>](https://github.com/dbeaver/dbeaver/commit/a5c1d2c0ca4adf2a2e1278f74a1d2f8ea3abdd16)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/a586675da162f01193f3e942e915bd110f11baf4)
+- [ ] [<code>#19643 Use type's array delimiter in the array presentation (#19649)</code>](https://github.com/dbeaver/dbeaver/commit/6744ef58eacdf421c43b2a91028db30a724dd251)
+- [ ] [<code>dbeaver/dbeaver#19582 fix focus on palette (#19667)</code>](https://github.com/dbeaver/dbeaver/commit/8c16913beffaa42858499c89ebfdba7705d23c1d)
+- [ ] [<code>dbeaver/pro#1479 Remove link file/folder in TE (#19665)</code>](https://github.com/dbeaver/dbeaver/commit/0ea2ad7f218379287c4ea0eb21653ed2242aa141)
+- [ ] [<code>#19633 Fix export json and blob files to txt (#19647)</code>](https://github.com/dbeaver/dbeaver/commit/b278115e1ca2f3fb4635084a254cd64ae0f0c523)
+- [ ] [<code>#19349 fix ALTER VIEW RENAME statement for Redshift database (#19674)</code>](https://github.com/dbeaver/dbeaver/commit/8628b8a78c4ec99f1a8a7007896482097fa593dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1386 improve external file reader for txt, xml, json (#19657)</code>](https://github.com/dbeaver/dbeaver/commit/2403bf548a985a14bb3778b171de220095380839)
+- [ ] [<code>dbeaver_l10n_pt-BR (#19577)</code>](https://github.com/dbeaver/dbeaver/commit/df738dba659486413843eb6c8f82b50bb0b5310e)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>CB-3215 event improvements (#19623)</code>](https://github.com/dbeaver/dbeaver/commit/20bb98cf97e879b4e1c743ac57ac8c73bd4f209b)
+- [ ] [<code>dbeaver/pro#1514 disable attribute preservation (#19669)</code>](https://github.com/dbeaver/dbeaver/commit/b2e8f1bb85bf27f2deff03ffcafcf528f6f4b018)
+- [ ] [<code>#18836 update Firebird procedure parameters data types recognition (#19686)</code>](https://github.com/dbeaver/dbeaver/commit/971f8230659dc1730a63966e421d7b9817a338eb)
+- [ ] [<code>dbeaver/dbeaver#19553 PG data type cache sync (#19624)</code>](https://github.com/dbeaver/dbeaver/commit/d611b18959714c137fcc782f26a18e7c5edce66d)
+- [ ] [<code>Invoker model</code>](https://github.com/dbeaver/dbeaver/commit/0bae1e3f987f5daa959efb80f248c6cfe67e2b95)
+- [ ] [<code>Connection dropdown enhancement</code>](https://github.com/dbeaver/dbeaver/commit/f69f225bf47568dea9e5d63fac09688c54a1df36)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>GPT account link fix</code>](https://github.com/dbeaver/dbeaver/commit/b8d8a2aa8ebcd0ebb211c3984f538fd790c63956)
+- [ ] [<code>23.0.3 config</code>](https://github.com/dbeaver/dbeaver/commit/ee475823443f162d20395e54736acd9d204d6627)
+- [ ] [<code>dbeaver/pro#1546 Support data filters in grouping panel (#19702)</code>](https://github.com/dbeaver/dbeaver/commit/b5b9bc6b150908d1881e25e871d43b93887a2cd5)
+- [ ] [<code>#19694 Add missing string truncate to txt export (#19705)</code>](https://github.com/dbeaver/dbeaver/commit/a00282d080ee9fcd1aa906619e381d664387daa8)
+- [ ] [<code>dbeaver/pro#1550 Redesign part divider (#19713)</code>](https://github.com/dbeaver/dbeaver/commit/7802aa27540b7f0eb4b48cba8bf6ccb79dff711b)
+- [ ] [<code>dbeaver/pro#1552 Data viewer rendering (#19718)</code>](https://github.com/dbeaver/dbeaver/commit/cede58c694c02ad71d7dfc3adbbdfc7a4b1ff58b)
+- [ ] [<code>#19637 LSM model and enhancements (#19721)</code>](https://github.com/dbeaver/dbeaver/commit/82c755716c343ec3fe1065ae6a202fb1dab7d32f)
+- [ ] [<code>dbeaver/pro#1554 Creds encryption fix (#19725)</code>](https://github.com/dbeaver/dbeaver/commit/6706513e03b3d69bcc093e1afc8c0a9bdd04ab8a)
+- [ ] [<code>dbeaver/pro#1549 Improve spelling (#19712)</code>](https://github.com/dbeaver/dbeaver/commit/c3ba7da0a0c723902f79e682a5399bf909519494)
+- [ ] [<code>Dbeaver/dbeaver#1155 sql word iterator (#19736)</code>](https://github.com/dbeaver/dbeaver/commit/559d02b2a47e47a6a607ac4283f049a10ed6fb99)
+- [ ] [<code>Parser evaluation fix</code>](https://github.com/dbeaver/dbeaver/commit/854672bf448245a92fa3307843aef8931aaf3fd8)
+- [ ] [<code>dbeaver/pro#1549 Annotations update fix (match only damaged region)</code>](https://github.com/dbeaver/dbeaver/commit/68a3aec5ae65631fb72b6e0108947ba61702e96f)
+- [ ] [<code>Parser evaluation fix</code>](https://github.com/dbeaver/dbeaver/commit/5308eded376a9fe1e8388ba288293145ceb4016a)
+- [ ] [<code>dbeaver/pro#1466 disable or hide functionality from the manager user (#19634)</code>](https://github.com/dbeaver/dbeaver/commit/f83fb5e2e58c7f0e12e34831be153db26374e2e1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Support TiDB Cloud Telemetry (#19507)</code>](https://github.com/dbeaver/dbeaver/commit/a7dad6ff2cf2f97823365616adc4e23a3f8c2c86)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19506 typo (#19745)</code>](https://github.com/dbeaver/dbeaver/commit/5d9dec3214832bb18150d88a8003c1b5a65953fe)
+- [ ] [<code>CB-2773-TE-event-pulling-send-session-status-as-an-event (#19635)</code>](https://github.com/dbeaver/dbeaver/commit/d65c9a90aa37666540ca9ac2efaf3c61935d0db3)
+- [ ] [<code>CB-3302 api for group by query (#19666)</code>](https://github.com/dbeaver/dbeaver/commit/d17749e4483bfca60e0ca88f293afc49a5e6a288)
+- [ ] [<code>dbeaver/pro#1543 View definition read fix (#19744)</code>](https://github.com/dbeaver/dbeaver/commit/d3ef4f87b14b777c500eecc2424d450f30c1c309)
+- [ ] [<code>dbeaver/dbeaver#17635 Keep original functions, data types and keyword… (#19706)</code>](https://github.com/dbeaver/dbeaver/commit/ee7e55b7ddf15d0de495e804aae486bab6062e51)
+- [ ] [<code>CB-3398 duckdb fix (#19740)</code>](https://github.com/dbeaver/dbeaver/commit/a96647577bd6014b1d55b1a7bc46ff1a1a0fb923)
+- [ ] [<code>dbeaver/pro#1490 usage statistics (#19596)</code>](https://github.com/dbeaver/dbeaver/commit/fd88dd53c651814aae7a7cd65595dd3e5f70bc2a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#19486 NPE fix (#19764)</code>](https://github.com/dbeaver/dbeaver/commit/a6ffbd4201578525f56cf85346b522e159384036)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/e402e592eb6ef51323cf907a57d944394ce6a9ed)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/4e796903604fd61d0e7ec0c47a190b042ad90d25)
+- [ ] [<code>dbeaver/dbeaver-devops#577 branch and commit properties (#19789)</code>](https://github.com/dbeaver/dbeaver/commit/e17183e45aacd63bfbf5213f3a15f82015870845)
+- [ ] [<code>#19782 fix events reading for quoted schemas for MySQL/MariaDB (#19784)</code>](https://github.com/dbeaver/dbeaver/commit/ed8b37a7c35842f2e9f442424463f8fcdd1378b0)
+- [ ] [<code>dbeaver/dbeaver#19754 ctrl+1 shortcut fix (#19797)</code>](https://github.com/dbeaver/dbeaver/commit/d4728c35004980b1b4bf37b9f122e763d8496fa7)
+- [ ] [<code>#18576 read depended for identity table column sequence; add sequence body in the table DDL (#19738)</code>](https://github.com/dbeaver/dbeaver/commit/a1afff7efbd29ef4aead6fa3c5233811bba82221)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>23.0.4 config</code>](https://github.com/dbeaver/dbeaver/commit/4057a9ac74e36bd9c041a1aa51458a0515fed50a)
+- [ ] [<code>dbeaver/pro#1558 Statistics collector fix (#19794)</code>](https://github.com/dbeaver/dbeaver/commit/f674719fcd7530ca97a24947c4ddc50595344e19)
+- [ ] [<code>CB-3378 tm run task api (#19768)</code>](https://github.com/dbeaver/dbeaver/commit/03d7617adf664a945e220dae2ec2c85ec4f7c970)
+- [ ] [<code>dbeaver/pro#1547 Support provider class replace + show error position (#19703)</code>](https://github.com/dbeaver/dbeaver/commit/1c4555e48431794e14d5e624cd74ff42ed47d4f3)
+- [ ] [<code>Feature ID read fix</code>](https://github.com/dbeaver/dbeaver/commit/447f7adf26ed9674fce8a72256b178e77a63a6de)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/b3127e1f9f2d61f165a5aa7854a9d71e6306b816)
+- [ ] [<code>dbeaver/pro#1558 AI features tracking</code>](https://github.com/dbeaver/dbeaver/commit/ca9d16b72d91650b1cf116ac97af343c53dd3de5)
+- [ ] [<code>#19148 add configuration parameters to PG role DDL (#19767)</code>](https://github.com/dbeaver/dbeaver/commit/74fc1571c2686ad79cb24c55189abc6005c59f7d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1551 update pg driver to 42.5.2 (#19716)</code>](https://github.com/dbeaver/dbeaver/commit/494ea8ad60fe7ab004391790052b3f935507a93a)
+- [ ] [<code>dbeaver/dbeaver#19806 Open sun.security.action for native access</code>](https://github.com/dbeaver/dbeaver/commit/fbf674139aef117b2168050f132abdb8aa3c0534)
+- [ ] [<code>#19807 Correctly handle `\r\n` sequence (#19808)</code>](https://github.com/dbeaver/dbeaver/commit/b7089b4c38ce38f75ec6d867c159eda3677315f3)
+- [ ] [<code>dbeaver/pro#1529 Initialize editors on connect (#19804)</code>](https://github.com/dbeaver/dbeaver/commit/572046a7e0f76d004e3d0478f195695050763179)
+- [ ] [<code>dbeaver/dbeaver#19735 Set JNA boot path (#19801)</code>](https://github.com/dbeaver/dbeaver/commit/3c2f61f06a9c6a2d68a73282abcb14a2fcd2d62c)
+- [ ] [<code>#19231 change generation of ALTER table SQL for foreign tables (#19759)</code>](https://github.com/dbeaver/dbeaver/commit/4d463308b6e8b28731903ff420e14c3a83ed45d9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1258 add extra statistics parameter for Oracle tables (#19819)</code>](https://github.com/dbeaver/dbeaver/commit/02efd575c8d1f9d5dfff73dd5d7360558be9d494)
+- [ ] [<code>#19813 fix DATE data reading in result set with the setting (#19820)</code>](https://github.com/dbeaver/dbeaver/commit/9a990f049f38280a18eb269859337c6f7ebe68f9)
+- [ ] [<code>dbeaver/pro#1555 Fix password reveal not working (#19822)</code>](https://github.com/dbeaver/dbeaver/commit/8fe9a004b32e6ee89fc944347f338a0de5bb7b47)
+- [ ] [<code>dbeaver/dbeaver#19735 WMI native lib link fix</code>](https://github.com/dbeaver/dbeaver/commit/71e4695ac43e1dc7a79cd1f2a3dca412703d4f4d)
+- [ ] [<code>dbeaver/dbeaver#19735 WMI native lib link fix</code>](https://github.com/dbeaver/dbeaver/commit/9ed5e63c180330cb921c4d2f12a0bde02e580c56)
+- [ ] [<code>dbeaver/dbeaver#19735 WMI native lib link fix</code>](https://github.com/dbeaver/dbeaver/commit/79cc669d95b4029bc92790cab2bc5f790d5786e3)
+- [ ] [<code>Clickhouse data type cache fix</code>](https://github.com/dbeaver/dbeaver/commit/ba98288616e3071f920e38ea2008edb7f3f3cb81)
+- [ ] [<code>#19451 trim meta objects names for Informix (#19823)</code>](https://github.com/dbeaver/dbeaver/commit/c3f4a199743f038705f015120b34a51a7341048e)
+- [ ] [<code>#19502 Result Set Viewer bottom toolbar customization (#19680)</code>](https://github.com/dbeaver/dbeaver/commit/222cefa637d7365583856bb6f0ca7f13f58645ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#19541 add data types from dialect (with aliases) to local data types (#19810)</code>](https://github.com/dbeaver/dbeaver/commit/349e69abd23ee6e0209464c6056bb246b6db0a52)
+- [ ] [<code>dbeaver/dbeaver#17805 fix generate same UUID for all selected rows (#19743)</code>](https://github.com/dbeaver/dbeaver/commit/b7072f7e4e101710ccd53184c1d15c3a59a2863b)
+- [ ] [<code>Switch to new P2 repo</code>](https://github.com/dbeaver/dbeaver/commit/dd0f887e3b81e2bb7d9a4a810e85f7bae9e982d1)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/1bbe7ae0ca7163f354e5af49c56be4a957db2684)
+- [ ] [<code>#18621 add Snowflake data types aliases; add numeric column modifiers… (#19837)</code>](https://github.com/dbeaver/dbeaver/commit/b1ef338a089a44b955c9b35c94dc874ea35962f8)
+- [ ] [<code>dbeaver/dbeaver#19720 update CDP drivers (#19843)</code>](https://github.com/dbeaver/dbeaver/commit/2d9a6734723bf7527d994dfc8920f98748257f8b)
+- [ ] [<code>#19219 correct recognize Trino varchar data type (#19826)</code>](https://github.com/dbeaver/dbeaver/commit/c665ac1ae01c342b2ebcca1da2bfb15e66e5d8fe)
+- [ ] [<code>Return Orbit deps</code>](https://github.com/dbeaver/dbeaver/commit/25d4766481d9785b475103572494e9aeb8d1bcbc)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/b911c499872a76316c1e81960b732ac1e5e95b35)
+- [ ] [<code>#19839 Revert "dbeaver/pro#148 Allow hiding execution statistics" (#19861)</code>](https://github.com/dbeaver/dbeaver/commit/7696278f72dab4d5452a2ff425982482c950683c)
+- [ ] [<code>dbeaver/pro#1449 Driver substitution (#19747)</code>](https://github.com/dbeaver/dbeaver/commit/1dbf5de3dc8edc3eb1691e36024f50ade3818d2a)
+- [ ] [<code>Command fg color fix</code>](https://github.com/dbeaver/dbeaver/commit/b04a6ebdf6e9d197c5f4185dfe86525cd15a0ddc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#19383 clickhouse catalog handling (#19687)</code>](https://github.com/dbeaver/dbeaver/commit/a14b0c2b87fdc0492e3e5a525665c0aea02ba775)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19318 Fix if-exists parsing for Oracle (#19858)</code>](https://github.com/dbeaver/dbeaver/commit/45a498e268d6434f3c1561cb7c450ee61c916281)
+- [ ] [<code>dbeaver/dbeaver#19671 improve time handling for MySQL5 and MySQL8 (#19864)</code>](https://github.com/dbeaver/dbeaver/commit/2e14d9abd136d8cdaa30317b3ce711e883b1052b)
+- [ ] [<code>#19541 Return default data types to SQLite</code>](https://github.com/dbeaver/dbeaver/commit/aed4243345d20f30960e628ac2ca9550d3606463)
+- [ ] [<code>dbeaver/dbeaver#19691 add link to the wiki page about building from source (#19792)</code>](https://github.com/dbeaver/dbeaver/commit/634f194894843536d50915cbedeb55e654d706f2)
+- [ ] [<code>SQLite internal functions</code>](https://github.com/dbeaver/dbeaver/commit/2b1e10b4eb1a11f8d052954d6a6d47ef48242d23)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/8811719332ac455be2142868d5d85e109a367607)
+- [ ] [<code>dbeaver/dbeaver#18140 Enable Git extension for non x86 architecture</code>](https://github.com/dbeaver/dbeaver/commit/0642e8c736bb919041add49621b0cc4a819838bb)
+- [ ] [<code>dbeaver/dbeaver#18843 PostgreSQL schema refresh fix (#19884)</code>](https://github.com/dbeaver/dbeaver/commit/ef1a84ef629e812d0447542f21b4521e691e8a86)
+- [ ] [<code>dbeaver/pro#1578 Support annotations hover (#19874)</code>](https://github.com/dbeaver/dbeaver/commit/97a1f77b749e87fd1e0f18f1ec4986db10a66998)
+- [ ] [<code>Update DTMessages_it.properties (#19870)</code>](https://github.com/dbeaver/dbeaver/commit/8ece6315753c2787ae461e4248e2fa8ed6549bf3)
+- [ ] [<code>dbeaver/pro#1587 Redesign part divider (#19896)</code>](https://github.com/dbeaver/dbeaver/commit/a7b507bb46e7d82840445ee06ee199aa45b66802)
+- [ ] [<code>#19049 Do not close pinned tabs (#19910)</code>](https://github.com/dbeaver/dbeaver/commit/797ad58c0ed22f12ab23aeefad91f5becf4a0d34)
+- [ ] [<code>dbeaver/pro#1573 Fix NPE in plan read. Use first node as root (#19885)</code>](https://github.com/dbeaver/dbeaver/commit/8f51d0acb71853dba5782bba6e271b12b4862a29)
+- [ ] [<code>#19699 Fix editor toolbar's command search by id (#19911)</code>](https://github.com/dbeaver/dbeaver/commit/1439d06b10b8436feac4966682b4b725db9891e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1584 hide debug button from TE managers (#19902)</code>](https://github.com/dbeaver/dbeaver/commit/e5a3fd9771ee353658b41c37ebb181a523850140)
+- [ ] [<code>#19723 add Databricks data types without parameters list (#19860)</code>](https://github.com/dbeaver/dbeaver/commit/516e0ee9cb544f36a721b8e4e3635e272794ab54)
+- [ ] [<code>#18861 Clarify error message (#19908)</code>](https://github.com/dbeaver/dbeaver/commit/c7a470f7fd71b40a83c38d4d5b0df065dcaa0151)
+- [ ] [<code>Fix tns import (#19355)</code>](https://github.com/dbeaver/dbeaver/commit/912ee19de9ce1ac4e91ebf634c4215da82bdd3fe)
+- [ ] [<code>CB-3403 TM: store task's files in separate folders (#19834)</code>](https://github.com/dbeaver/dbeaver/commit/8ed6d430a12ddc065a8bb69ec11babb152462f15)
+- [ ] [<code>Upgrade driver to 0.4.6; fix description and URL. (#19878)</code>](https://github.com/dbeaver/dbeaver/commit/6e5649a60c7766826ffb825aa526ce2e51bc42eb)
+- [ ] [<code>#19875 Use correct fallback version value</code>](https://github.com/dbeaver/dbeaver/commit/29fdaeabcc79b8e8e15ae2c7ca3a7b1a83e2bbd1)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/52bdeabca0536bac7d6abc287383bb10d72ed215)
+- [ ] [<code>dbeaver/pro#1586 do not create display when there is no display (#19889)</code>](https://github.com/dbeaver/dbeaver/commit/cd3815a2b730088886ea9f4ccfb14826330caba1)
+- [ ] [<code>#19678 fix tables subpartitions reading; fix cache invalidate (#19872)</code>](https://github.com/dbeaver/dbeaver/commit/6c7fb556587b817c732448c2b27295ad9c4c609b)
+- [ ] [<code>CB-3313 add supported configuration types for dynamic driver properties (#19833)</code>](https://github.com/dbeaver/dbeaver/commit/b566d87db50a30e6d9cebfddd316b9e7f0164e37)
+- [ ] [<code>23.0.5 config</code>](https://github.com/dbeaver/dbeaver/commit/ca07ebc37e0769a0eee23138e13dba269230d017)
+- [ ] [<code>dbeaver/dbeaver#19875 Predefined artifacts are now read-only (#19934)</code>](https://github.com/dbeaver/dbeaver/commit/2e50c1b3e57bf45de7c1cdc670e2b9c5887ddea9)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/ab19952d8cf1f148723a09b37ee507129c968b70)
+- [ ] [<code>#19780 Fix information status, add new info there (#19932)</code>](https://github.com/dbeaver/dbeaver/commit/3d155fe4598f8ebd25f6b2a2e69fa62f2a925e5a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#19101 add handling for datetimeoffset (#19852)</code>](https://github.com/dbeaver/dbeaver/commit/4fc4e9ac95f0fb3e16f741f0b747e748ae51d659)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#19904 Show original variables/parameters names (#19936)</code>](https://github.com/dbeaver/dbeaver/commit/2c530ca8333375b6eb185a6412fd7744237985e5)
+- [ ] [<code>#18962 Make Spark use single connection</code>](https://github.com/dbeaver/dbeaver/commit/0bcd4e25fb09c0593a8318d6723e2f4bc7d2e284)
+- [ ] [<code>#18962 Deprecate Databricks Simba driver</code>](https://github.com/dbeaver/dbeaver/commit/a018979db91c3aa67eaa9a6cf599759b37b46254)
+- [ ] [<code>dbeaver/dbeaver#19570 Set minimum Java version to 11 to allow usage of external JRE</code>](https://github.com/dbeaver/dbeaver/commit/fdd877b6680a285f832d3d44b3312437e7fc458d)
+- [ ] [<code>dbeaver/pro#1431 Add helper for creating non-validating socket factory (#19672)</code>](https://github.com/dbeaver/dbeaver/commit/170dea006167bc4759d269d53fa3cc5252cb6dbb)
+- [ ] [<code>dbeaver/pro#1560 support Greenplum 7 version (#19942)</code>](https://github.com/dbeaver/dbeaver/commit/efa594ab16dd4b49cbcb3dde6d5002cb5e7b7b39)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use theme colors in search panel</code>](https://github.com/dbeaver/dbeaver/commit/f0bb5c1413599196ae56370d340b612357de767b)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/d24c3af769022b5836f82bc9b8c08df7b35eeb20)
+- [ ] [<code>dbeaver/pro#1564 Fallback array reading to manual array parsing (#19930)</code>](https://github.com/dbeaver/dbeaver/commit/83b0aafa8d03d617cdb9ae180b536d488e5b0873)
+- [ ] [<code>dbeaver/pro#1568 DND fix in navigator (folders + remote streaming) (#19943)</code>](https://github.com/dbeaver/dbeaver/commit/28a8d3b7d7685cd108050989db24e1c2c38a10cd)
+- [ ] [<code>#19952 fix table cache reading query (#19957)</code>](https://github.com/dbeaver/dbeaver/commit/9f0666b17628e6ad1983609af5cde833ed027d37)
+- [ ] [<code>CB-3341 qmdb migrate embedded h2 db to version 2 (#19809)</code>](https://github.com/dbeaver/dbeaver/commit/d17cc40d25a528aa58613bd1dd0b21551a421486)
+- [ ] [<code>dbeaver/pro#1580 Allow setting driver substitution for new connections (#19958)</code>](https://github.com/dbeaver/dbeaver/commit/158a0d005efe74442e7c69abeb3645acec41214e)
+- [ ] [<code>CB-3402 task info api (#19923)</code>](https://github.com/dbeaver/dbeaver/commit/4819d5c52c055de4bce6b3b94f387d48b636ebb5)
+- [ ] [<code>#17585 ability to trim string values during export to XLSX implemented with extra setting (#19953)</code>](https://github.com/dbeaver/dbeaver/commit/316d3e3fcb3e7c74c9566bf5704c7993862dac8a)
+- [ ] [<code>CB-3303-edit-driver-settings (#19701)</code>](https://github.com/dbeaver/dbeaver/commit/15729848e116f7d9bd9691c7290c3132868faeb6)
+- [ ] [<code>fix index cache reading for empty containers with non-persistent table (#19990)</code>](https://github.com/dbeaver/dbeaver/commit/b51b4ae1ff800e6ed3efae9ee94d42d1e75192d7)
+- [ ] [<code>dbeaver/dbeaver#19692 remove limit and increase increment (#19967)</code>](https://github.com/dbeaver/dbeaver/commit/c810df2cbcae97d8101e2244cf95e8931a8d31ae)
+- [ ] [<code>dbeaver/dbeaver#17564 hana strip comments before blocks (#19876)</code>](https://github.com/dbeaver/dbeaver/commit/b3b355845afe1727d1896bee282cf3bd6915c947)
+- [ ] [<code>Update bundle_de.properties to latest bundle properties (#19976)</code>](https://github.com/dbeaver/dbeaver/commit/823984e2f2499c0d45f285c2ba1ab173cf9ebc1f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1488 Show "View Diagram" for table container nodes (#19888)</code>](https://github.com/dbeaver/dbeaver/commit/54542039256bfcc526fe225b155196c2ded7f72a)
+- [ ] [<code>CB-3341 qmdb session id hotfix (#19991)</code>](https://github.com/dbeaver/dbeaver/commit/3ad688f964304cce9ed5e35c2bb85a932fc9df7d)
+- [ ] [<code>#19941 Add table and alias inspection according to parse tree (#19988)</code>](https://github.com/dbeaver/dbeaver/commit/632e717a6f36223a30164e1a71e830a05b00a66c)
+- [ ] [<code>CB-3419 te use new database deployment model (#19968)</code>](https://github.com/dbeaver/dbeaver/commit/d242adae92747586d1ba71555b08ba5fabf88fda)
+- [ ] [<code>dbeaver/dbeaver#4896 add handlers for native execute (#19842)</code>](https://github.com/dbeaver/dbeaver/commit/5abb9e5a4aad9ca0f2436612daa68b2b5e85f50f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1588 add support of URL and ODBC switcher to MySQL/MariaDB and DB2 connections (#19984)</code>](https://github.com/dbeaver/dbeaver/commit/c77ce31d67dce021251f5b9b5a08ded5e4dd3203)
+- [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/a3115d3b23e9d04edb1404e335154a841005a910)
+- [ ] [<code>CB-3461 tm save task logs in file (#19985)</code>](https://github.com/dbeaver/dbeaver/commit/24f3564e45bb03f3f8f1683e57adc42dbb17d727)
+- [ ] [<code>dbeaver/pro#1488 NPE fix (#20006)</code>](https://github.com/dbeaver/dbeaver/commit/d3c1d43b30c98ccfec4b4d0132b935839686d165)
+- [ ] [<code>CB-3501 do not escape schema name in create queries (#20010)</code>](https://github.com/dbeaver/dbeaver/commit/e0b668579dfb18b89f26ab4e035abd99eacfb313)
+- [ ] [<code>dbeaver/pro#1627 fix connection configuration reading for the connection page (#20016)</code>](https://github.com/dbeaver/dbeaver/commit/60d7bbf802450b4db54d59adbc04cbc989fb0b04)
+- [ ] [<code>Update README.md</code>](https://github.com/dbeaver/dbeaver/commit/db36c4d24525af8b15e92c5d6c2b38ff46c7bf3f)
+- [ ] [<code>Include LSM to IDE build</code>](https://github.com/dbeaver/dbeaver/commit/c4560fdbda331581c39e66468310e65c04f24a0e)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/d622209a0ff35454597736fb55e5861c802256aa)
+- [ ] [<code>Include LSM to IDE build</code>](https://github.com/dbeaver/dbeaver/commit/75c0d072e948bfe2051c9a775898a09bfcbf98e6)
+- [ ] [<code>#19951 Fix data ordering switching (#19998)</code>](https://github.com/dbeaver/dbeaver/commit/2dbd5821a98b25aa8e5c77fc1af52afcdc2aa1ae)
+- [ ] [<code>#16875 Reveal obscured cursor after control resize (#19996)</code>](https://github.com/dbeaver/dbeaver/commit/222bf01bc7125aebd3c9fd727e51baedb7c2f619)
+- [ ] [<code>#20015 Allow tab insdtead of whitespace after double dash in mysql comment (#20021)</code>](https://github.com/dbeaver/dbeaver/commit/9580017e8e928887acd332f0d6c4f1412bdbffa4)
+- [ ] [<code>dbeaver/pro#1633 Don't recreate wizard if same substitution was chosen (#20004)</code>](https://github.com/dbeaver/dbeaver/commit/ed88e2105ec6c349d023c7a93104d617e8795e42)
+- [ ] [<code>Update bundle_it.properties (#20055)</code>](https://github.com/dbeaver/dbeaver/commit/fbce38f8e7b80bdc840faa990076df2898d0ccaf)
+- [ ] [<code>CB-3496 db2 node id duplicate fix (#20025)</code>](https://github.com/dbeaver/dbeaver/commit/1b610272aa8c32cfa4ced4c61b0df7623e122dce)
+- [ ] [<code>CB-3071 easy config send event fix (#20042)</code>](https://github.com/dbeaver/dbeaver/commit/79992712b486f75bcdcd7a23d3b1c640d08e9894)
+- [ ] [<code>dbeaver/pro#1635 Fix templates completion for drivers replaced in PRO (#20061)</code>](https://github.com/dbeaver/dbeaver/commit/358bb547577b31caac558f57c1800dc46c988883)
+- [ ] [<code>#20032 Fix columns autocompletion in select list when table has no alias (#20035)</code>](https://github.com/dbeaver/dbeaver/commit/62d8b4eda540a7894b0d5113c8289d827613573a)
+- [ ] [<code>#20045 Add parsing of dialect-specific select without from (#20047)</code>](https://github.com/dbeaver/dbeaver/commit/a007d2c595c82e619dc90a14a6b464fcb946b964)
+- [ ] [<code>dbeaver/pro#1634 Keep original driver when replacing the old one (#20044)</code>](https://github.com/dbeaver/dbeaver/commit/217993d74bd9135377c23cc00aaa80bf6aa788ca)
+- [ ] [<code>Update bundle_de.properties to latest bundle (#19981)</code>](https://github.com/dbeaver/dbeaver/commit/e89e4a2e88ef60b23be9c00efb30a043a981f851)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-2973 reset all password properties on save (#20024)</code>](https://github.com/dbeaver/dbeaver/commit/d3fd707a1c3ec20d451b52f025c60c7cb9bd196f)
+- [ ] [<code>#20014 fix handlers using for PRO version; recognize big numbers data… (#20036)</code>](https://github.com/dbeaver/dbeaver/commit/32e45e7b6a15283994f0c3e7e746df6480308acb)
+- [ ] [<code>#20019 Add logging listeners, fix potential NPE (#20020)</code>](https://github.com/dbeaver/dbeaver/commit/ec0439327951561974ca56d6487476273a272b4c)
+- [ ] [<code>dbeaver/dbeaver#18770 save previous user dialog size (#19983)</code>](https://github.com/dbeaver/dbeaver/commit/bdd330715d1715602b81eef2ecbefcc8202f5ec0)
+- [ ] [<code>dbeaver/pro#1611 fix coloring on dark theme (#20086)</code>](https://github.com/dbeaver/dbeaver/commit/3e95c0aa9b77a191048aab2fc50c5a6b7322e9d7)
+- [ ] [<code>Update bundle_de.properties to latest keys in bundle (#19980)</code>](https://github.com/dbeaver/dbeaver/commit/049428a1121743bf007df14134a2a6d87119e909)
+- [ ] [<code>#20031 Change shortcut for Go to matching bracket command (#20088)</code>](https://github.com/dbeaver/dbeaver/commit/45a1fb43115e080495af541ae84e9d596322595d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>23.1.0 config</code>](https://github.com/dbeaver/dbeaver/commit/42def7e2003e0d5541e21fe5c2eded81a6b3376a)
+- [ ] [<code>dbeaver/pro#1585 Add mac address hash to workspace ID (#20077)</code>](https://github.com/dbeaver/dbeaver/commit/55a08b0885c237dee989913bc1cd1d9e5186771d)
+- [ ] [<code>#20108 support partitions for MariaDB; do not show default empty partition for all unpartitioned tables (#20109)</code>](https://github.com/dbeaver/dbeaver/commit/c622c7ded8d8734bf818a822a8c089f3ebfdd908)
+- [ ] [<code>dbeaver/pro#1545 Show tips in applicable products only (#20074)</code>](https://github.com/dbeaver/dbeaver/commit/64c61b17c162ad7e135c847914f0ef0651e2661d)
+- [ ] [<code>dbeaver/dbeaver#18608 Fix CE plugin icons. Remove legacy features branding (#20078)</code>](https://github.com/dbeaver/dbeaver/commit/cbf60b411ca4eeff967fd20f05e50c09dbdddf9d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#20075 Numeric array read fix (#20101)</code>](https://github.com/dbeaver/dbeaver/commit/0c96e41b66cf85938ba7a4ca077b233c93769a6c)
+- [ ] [<code>dbeaver/pro#1652 Cancel detached jobs during editor save (#20098)</code>](https://github.com/dbeaver/dbeaver/commit/92061a20f8ddb11abd4ccae8f6c4f3a55e193572)
+- [ ] [<code>dbeaver/pro#1626 Singlestore support. Table column resolution fix (#20081)</code>](https://github.com/dbeaver/dbeaver/commit/9a5411f9daafb3e59cc7a9c7592e2f49c381174b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20107 Handle autocompletion case when from keyword is right after select keyword (#20111)</code>](https://github.com/dbeaver/dbeaver/commit/f993dddf0e73f0f9e976f32b7afd3948b43082ea)
+- [ ] [<code>dbeaver/dbeaver#20022 read input stream first (#20099)</code>](https://github.com/dbeaver/dbeaver/commit/931d92fdbb1506daa75d4b3b267d2389a541e157)
+- [ ] [<code>CB-2933 data source get required auth fix (#20120)</code>](https://github.com/dbeaver/dbeaver/commit/cd81d5ee99c3d9290091574a67bd4fb69c977961)
+- [ ] [<code>dbeaver/dbeaver#19907 transfer bindings to keyboard only scheme & only when ERD editor active (#20080)</code>](https://github.com/dbeaver/dbeaver/commit/aa55e6d4302a0b7993ddc4d9ec3a65e6b72aff37)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#20073 Add support of different identifier quotes to the grammar (#20079)</code>](https://github.com/dbeaver/dbeaver/commit/cae95f4b6feb84334369d5ff5f964422cf6abb95)
+- [ ] [<code>dbeaver/pro#1502 Deprecate legacy ODBC driver (#20084)</code>](https://github.com/dbeaver/dbeaver/commit/450b21e01fdb48a89b53135946720ea503dc7d15)
+- [ ] [<code>#20108 remove "create partitions" button for MySQL/MariaDB (#20118)</code>](https://github.com/dbeaver/dbeaver/commit/e7f2795d564d4ffdc7447d09a687b713f37a2827)
+- [ ] [<code>#18982 Fix variables substitution into text which line feeds were fixed while parsing (#20115)</code>](https://github.com/dbeaver/dbeaver/commit/9750d99e5dbd3e3b19dabe3d01406dc1761781b8)
+- [ ] [<code>dbeaver/pro#1626 fix xml condition for users folder (#20132)</code>](https://github.com/dbeaver/dbeaver/commit/18dedfe82ade19dac6847c092138886c356513ff)
+- [ ] [<code>CB-3515 sshj keep-alive interval use seconds fix (#20100)</code>](https://github.com/dbeaver/dbeaver/commit/34bcee80c4c32af9217ee993111ab6d6c826c865)
+- [ ] [<code>dbeaver/pro#1662 Fix NPE on editor annotations update (#20131)</code>](https://github.com/dbeaver/dbeaver/commit/3b7a94412cc18feb1bf1569ab1afd183ed72e87b)
+- [ ] [<code>dbeaver/pro#1596 improve naming for objects outside defaults (#20076)</code>](https://github.com/dbeaver/dbeaver/commit/99d1894140eeae8098dd867f906ab914e9a11109)
+- [ ] [<code>dbeaver/pro#1636 do not use default schema/catalog from the script in… (#20119)</code>](https://github.com/dbeaver/dbeaver/commit/0e4e22de5c1663cb284421304723ef60a35cd01f)
+- [ ] [<code>dbeaver/pro#1534 Trino extension added; discover error type method implemented for Trino; better data types recognizing for Trino (#20124)</code>](https://github.com/dbeaver/dbeaver/commit/8499dcdad6274ffa12f72ccb8a20ddc5818725bc)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>#19097 Fix NPE on attribute info loading in PostgreSQL (#20138)</code>](https://github.com/dbeaver/dbeaver/commit/a6a4bdbcd43695ef61f2c66e7ab48a6a0e6fcdb9)
+- [ ] [<code>dbeaver/pro#1502 new connection wizard deprecation (#20152)</code>](https://github.com/dbeaver/dbeaver/commit/79acc5b06fa93b7ae65ba3b47944e0398dabca85)
+- [ ] [<code>Update bundle_de.properties to latest bundle (#19979)</code>](https://github.com/dbeaver/dbeaver/commit/4f0c1263029d7945dd790df16a4e5dbd940edd2a)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>#19854 Disable SSHJ hostname verification when "Bypass host verification" is enabled (#19856)</code>](https://github.com/dbeaver/dbeaver/commit/b38d8bff486bbebf2fa2694fa2802a22d9aefc2d)
+- [ ] [<code>dbeaver/dbeaver#20060 Revert JSQLParser to 4.5 (#20172)</code>](https://github.com/dbeaver/dbeaver/commit/494014d77055b5bcb21b468e1050ecf471e95c1d)
+- [ ] [<code>dbeaver/pro#1664 Driver libraries load fixes + progress monitor (#20169)</code>](https://github.com/dbeaver/dbeaver/commit/1363d25f739a11b700e32a79d2247863a031a2e5)
+- [ ] [<code>CB-3542 fix copying all driver files (#20178)</code>](https://github.com/dbeaver/dbeaver/commit/edfda17da4fe6cbc6cb237742784675b3a7140e7)
+- [ ] [<code>CB-3542 fix custom driver loading (#20184)</code>](https://github.com/dbeaver/dbeaver/commit/3d86b1a84a0695bf931f5034ddfa2c9cd6b0ce7c)
+- [ ] [<code>Dbeaver/pro#1617 tableau integration (#20046)</code>](https://github.com/dbeaver/dbeaver/commit/4026e20ab32f8ad3979df8f7c939ae6994b9fd37)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#20002 only refresh entities instead of reloading diagram (#20176)</code>](https://github.com/dbeaver/dbeaver/commit/0d22eeead97734858fbc10b8ab8eec66800c641d)
+- [ ] [<code>Project nature update fix</code>](https://github.com/dbeaver/dbeaver/commit/a1420c165754991977c6a98d015075426b604eb2)
+- [ ] [<code>dbeaver/pro#1686 Host ID detection fix</code>](https://github.com/dbeaver/dbeaver/commit/191bdec3c92c23e4c0c6d7b5154a36ed75139606)
+- [ ] [<code>dbeaver/pro#1659 Fix time for disconnect from database record in QM (#20158)</code>](https://github.com/dbeaver/dbeaver/commit/e6a1869034a32c420e5de0a322fdc4e535b102e0)
+- [ ] [<code>dbeaver/pro#1684 Fix key names in local secret controller (#20213)</code>](https://github.com/dbeaver/dbeaver/commit/e4744b8748a268a127253ca932f3f09480d9c300)
+- [ ] [<code>Disable row refresh in databases with dynamic metadata</code>](https://github.com/dbeaver/dbeaver/commit/5f6abe29266d2f6d0830e05142fda8988c441a31)
+- [ ] [<code>dbeaver/pro#1678 Project password labels fix (#20215)</code>](https://github.com/dbeaver/dbeaver/commit/f51b3f8d34318031f59eb899f2477f2cfa5a5e81)
+- [ ] [<code>#19802 update msal4j library version for correct Azure MFA Authentication (#20174)</code>](https://github.com/dbeaver/dbeaver/commit/e288d822810bb8e131810127fb1723a0d015f00b)
+- [ ] [<code>CB-3554 fix custom driver with several libs (#20214)</code>](https://github.com/dbeaver/dbeaver/commit/2bfd09191a0345dacb46eb277853e493a971cc8a)
+- [ ] [<code>JSCH version update</code>](https://github.com/dbeaver/dbeaver/commit/1015b1a0dc9159f27d61d50b40923f49bb9d63dd)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/362268271d7bd39dd2b892a6b35f47399aa0a562)
+- [ ] [<code>#20155 Comment lsm model mapping checks in unit tests (#20205)</code>](https://github.com/dbeaver/dbeaver/commit/3ec03c0ecbb58018252e46038ca6d08478d7971f)
+- [ ] [<code>#19886 Make Customize Toolbar be a property page (#20157)</code>](https://github.com/dbeaver/dbeaver/commit/67b805c6b3070ef014f7776c1506ae06666c78d0)
+- [ ] [<code>#20197 do not use aliases in grouping panel generated statements for DB2z (#20200)</code>](https://github.com/dbeaver/dbeaver/commit/17acfb0cdc6da05997c4124c02b0f70d6276e0a9)
+- [ ] [<code>dbeaver/dbeaver#20209 Fix some German literals (#20186)</code>](https://github.com/dbeaver/dbeaver/commit/5f5ef92c182a76dce265e01e509e7d9f74a9d8a1)
+- [ ] [<code>TDengine support (#20183)</code>](https://github.com/dbeaver/dbeaver/commit/14961226c11cf5a803fb51454b1e5db71d0630c9)
+- [ ] [<code>dbeaver/pro#1658 do not require container node for auto-completion in… (#20228)</code>](https://github.com/dbeaver/dbeaver/commit/25069ac7fc8c36defbd491865fbdfd833bad1fd2)
+- [ ] [<code>Revert "dbeaver/pro#1658 do not require container node for auto-completion in… (#20228)"</code>](https://github.com/dbeaver/dbeaver/commit/7094548fcbab081bcb668cf3fae777f9b6719214)
+- [ ] [<code>dbeaver/pro#1658 downgrade Salesforce CDP driver for the latest working version (#20239)</code>](https://github.com/dbeaver/dbeaver/commit/43a538b65d716d995e551d914bca9d7dc3675f92)
+- [ ] [<code>#19941 Turn off experimental autocompletion by default (#20250)</code>](https://github.com/dbeaver/dbeaver/commit/e2fd870023dffb0fc1c5c38079396c3444dfc1b2)
+- [ ] [<code>#11405 fix tablespace statistics refreshing (#20159)</code>](https://github.com/dbeaver/dbeaver/commit/6c2a0e12a5d5b0467cbfc1227a0e186873e9ae0e)
+- [ ] [<code>dbeaver/dbeaver#19673 Fix connection creation on macOS (#20177)</code>](https://github.com/dbeaver/dbeaver/commit/68f788cc31220a83c7bdc0c37291f414ee836b0f)
+- [ ] [<code>dbeaver/pro#1704 Te QM events serialization fix (#20263)</code>](https://github.com/dbeaver/dbeaver/commit/44ad90715d28f3657efc11c26159c5e318b8ae59)
+- [ ] [<code>dbeaver/pro#1647 Deep copy task configuration when copying task (#20162)</code>](https://github.com/dbeaver/dbeaver/commit/7a4da2b839e8d3e3660cfe7b596a23a4afabb398)
+- [ ] [<code>#19854 Use SSHJ tunneling for jump server support (#19857)</code>](https://github.com/dbeaver/dbeaver/commit/d2e34f3a8c4040671908e93b604fb02b6e78f8fd)
+- [ ] [<code>dbeaver/pro#1151 Use GDI to make image from the browser with gis data for Windows (#20266)</code>](https://github.com/dbeaver/dbeaver/commit/9edb40ebe3e3569ed375492159a0836d5ce3d10a)
+- [ ] [<code>#20139 fix PG and forks routines header creation - add default value for parameters; add new enum argument for Greenplum (#20216)</code>](https://github.com/dbeaver/dbeaver/commit/074681d885463558eca33f58abce65f223fdb638)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#19992 add escape parameter for bulk load copy command (#20262)</code>](https://github.com/dbeaver/dbeaver/commit/5ca6449e198c9eb928c04073c656b9ebed69fbec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#11016 enhance working with table partitions and subpartitions for Oracle (#20175)</code>](https://github.com/dbeaver/dbeaver/commit/391ec831f355551254e7d5d4d72727adf726360c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1644 compact ds config (#20271)</code>](https://github.com/dbeaver/dbeaver/commit/9a9f89e924908c28bad3d5971be6d01ddd0fc9d2)
+- [ ] [<code>#19886 Fix invalid property page category error (#20249)</code>](https://github.com/dbeaver/dbeaver/commit/08c62e63beff809c2d0d60320669969551447de2)
+- [ ] [<code>dbeaver/pro#1642 Lazy extension nodes (#20275)</code>](https://github.com/dbeaver/dbeaver/commit/4e8331b847705952c81fa77d2ee4c947c3bca3d6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1710 jdbc model refactoring (#20279)</code>](https://github.com/dbeaver/dbeaver/commit/163f47ccfb0e08e1a8a94797355603fc3c990b0d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1642 Force ext nodes load in multiuser apps</code>](https://github.com/dbeaver/dbeaver/commit/a9393440bcb7f4d74f46eec47efea260607eb550)
+- [ ] [<code>dbeaver/pro#148 sql editor hide statistics (#20278)</code>](https://github.com/dbeaver/dbeaver/commit/f5af49fd9959a6f845c1ffe1affa591f03138017)
+- [ ] [<code>#17882 Add retry with getLocationURI for copy file path command (#20153)</code>](https://github.com/dbeaver/dbeaver/commit/5da41fa34a0702e93e4cfa55aa7f32f52feaf1ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#20187 add quotation rules for snowflake identifiers (#20189)</code>](https://github.com/dbeaver/dbeaver/commit/f0ad921d08703d771bca847d7800407faf81f098)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#1619 Support content presentations for content columns (#20269)</code>](https://github.com/dbeaver/dbeaver/commit/4a6304698e3ede7dcf29cb7e5e3d9f54b941ab02)
+- [ ] [<code>#20150 Refactor Q-string parsing rule for Oracle (#20151)</code>](https://github.com/dbeaver/dbeaver/commit/3a5cdb191e6330192aaef163f2448e74f336882b)
+- [ ] [<code>Bundle vendor update</code>](https://github.com/dbeaver/dbeaver/commit/f25c76af0e21f9ed3180fce34ea949e6a9e1c434)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Bundle vendor update</code>](https://github.com/dbeaver/dbeaver/commit/dea9be1d4ea0d575a2135cbfb41173e88ea26f37)
+- [ ] [<code>dbeaver/pro#1713 Projects refresh fix + correct project root resource (#20286)</code>](https://github.com/dbeaver/dbeaver/commit/8fb90a69c8279bfa3d5cfe630bfb81658a188616)
+- [ ] [<code>#20155 Refactor LSM to rely on SQLDialect (#20196)</code>](https://github.com/dbeaver/dbeaver/commit/e4b5d5bfe46a2757f94244095dbe680186d78d73)
+- [ ] [<code>#18541 Fix NPE on reference panel opening (#20280)</code>](https://github.com/dbeaver/dbeaver/commit/237f351f57d1fce284dbfb11722e726103f3b585)
+- [ ] [<code>#582 ability to drop tablespaces via UI added; ability to add data fi… (#20281)</code>](https://github.com/dbeaver/dbeaver/commit/5f021c8544882167d0089d3fee51c44de1051353)
+- [ ] [<code>dbeaver/pro#1632 Serialize dates with time zone (#20048)</code>](https://github.com/dbeaver/dbeaver/commit/03e78d6649136c127dfc52b16052cdc95606a80d)
+- [ ] [<code>23.1.1 config</code>](https://github.com/dbeaver/dbeaver/commit/ecb76633aedd224e63cd20b31e4bf3df9a40fe7b)
+- [ ] [<code>dbeaver/pro#1720 Migrate to Eclipse 2023-06 (#20308)</code>](https://github.com/dbeaver/dbeaver/commit/6261bf71cc620dce3b06fd9ed091cb3099956c7a)
+- [ ] [<code>#11179 add more metadata info about packages for Oracle; use constants (#20290)</code>](https://github.com/dbeaver/dbeaver/commit/35908b11284515f0ae194860b302bad1e559e81f)
+- [ ] [<code>#19886 Add enabledWhen to Toolbars customization property page (#20309)</code>](https://github.com/dbeaver/dbeaver/commit/7090184afc5ca1c8eb07d69af173f43924b280a7)
+- [ ] [<code>dbeaver/dbeaver#18017 set hostname for credentials instead of password auth (#20218)</code>](https://github.com/dbeaver/dbeaver/commit/16f86a1fae08ece3bf25fcb67a0126d10f05894f)
+- [ ] [<code>#8303 set "Automatically end long idle transactions" to the true by d… (#19520)</code>](https://github.com/dbeaver/dbeaver/commit/b6013a9ff2343e55139155e7465e8ee7e786bc99)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix tidb warnings</code>](https://github.com/dbeaver/dbeaver/commit/346242611d3c9a3c0ddb946a73d31c01267f23ec)
+- [ ] [<code>remove unused code (#20248)</code>](https://github.com/dbeaver/dbeaver/commit/d053d66e93b69f100765a8ce5c13053fed37392f)
+- [ ] [<code>CB-3068 remove cloud data sources after event fix (#20135)</code>](https://github.com/dbeaver/dbeaver/commit/3f65412b9eb548980254f716ff172935be0a2a1d)
+- [ ] [<code>CB-3470 use schema name for all internal queries (#20270)</code>](https://github.com/dbeaver/dbeaver/commit/d6bbdb7c1ec4a33a11d81f55fdfaf2d7ee25c6ce)
+- [ ] [<code>dbeaver/pro#1493 migration to eclipse gef classic & graphiti (#20303)</code>](https://github.com/dbeaver/dbeaver/commit/ff4a2d3091d0a34e519c237dd06e60ebeaa9ed3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1628 do not read substitution driver properties; read cus… (#20137)</code>](https://github.com/dbeaver/dbeaver/commit/34d3aad33f2468fc5e544aab08f88dc95449fb92)
+- [ ] [<code>JSch transient deps fix</code>](https://github.com/dbeaver/dbeaver/commit/2a4f2432c9252ce49a79be99680e14036b3118d9)
+- [ ] [<code>dbeaver/dbeaver#19756 add handling for snapshot repos (#20267)</code>](https://github.com/dbeaver/dbeaver/commit/32b7995faab220ee837b3ddd84773f81626bf40b)
+- [ ] [<code>dbeaver/dbeaver#20257 l10n_pt-BR (#20255)</code>](https://github.com/dbeaver/dbeaver/commit/1fefc1a57f66931b233271dc93c987d0b6f28bb1)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#17368 add workspace export (#20247)</code>](https://github.com/dbeaver/dbeaver/commit/1ac57f1f009fb5ca441c37e56e582358d250b48d)
+- [ ] [<code>#18701 Fix editor area node drag-n-drop (#20337)</code>](https://github.com/dbeaver/dbeaver/commit/2e5db17fcc53282adddf3af04b1483254c6e5ee4)
+- [ ] [<code>copy config on change (#20348)</code>](https://github.com/dbeaver/dbeaver/commit/b2fad5dad38ddca96bcfb025d3056d14e2e60f98)
+- [ ] [<code>Update OSM tile URL (#20331)</code>](https://github.com/dbeaver/dbeaver/commit/b8adca2e7f397556a82269d604c197aedc69b2db)
+- [ ] [<code>CB-3282 save data sources through rm (#20223)</code>](https://github.com/dbeaver/dbeaver/commit/166ee882d38f39533f92618d6224f064237a8664)
+- [ ] [<code>dbeaver/pro#1630 Download/view task results from remotely scheduled task (#20342)</code>](https://github.com/dbeaver/dbeaver/commit/1f87f55a9d30141130c370a7fda09744c9bea505)
+- [ ] [<code>dbeaver/pro#1501 soft migrate license folder (#20300)</code>](https://github.com/dbeaver/dbeaver/commit/62725ec54e54c7a1cb857ae86377ce25ae528cd8)
+- [ ] [<code>dbeaver/pro#1668 tableau datasource editor (#20237)</code>](https://github.com/dbeaver/dbeaver/commit/7161f8f03ac6eb459a9587bfe39e009d0efdebdf)
+  - <sub>Tags: <code>23.1.1</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Median aggregation fix (different types compare)</code>](https://github.com/dbeaver/dbeaver/commit/3750fd20d0a871c28e7f8e277040a88c8d48d1bb)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/290abb8c5ad729e2d87a1d57a247ac96c0328bcc)
+- [ ] [<code>Dummy errors logging suppress</code>](https://github.com/dbeaver/dbeaver/commit/531cf3730e8085c93b9ea3181ecd50aad061bb68)
+- [ ] [<code>Dbeaver/dbeaver#18971 notification theming (#20093)</code>](https://github.com/dbeaver/dbeaver/commit/b4aa25e16bdca1956ccf4ba6be10655da8f06707)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Default identifiers case in dialect</code>](https://github.com/dbeaver/dbeaver/commit/290efadea972f993102ffae9eadaf6c7fdff6b42)
+- [ ] [<code>dbeaver/dbeaver#20367 Mixed cased tables cache bug fixed (#20368)</code>](https://github.com/dbeaver/dbeaver/commit/ed0f7b977e3f2691922a4e8efa3b5071b775db8d)
+- [ ] [<code>Deps fix</code>](https://github.com/dbeaver/dbeaver/commit/ede73caccd16bee186f30da6cd59dbf83b86411d)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/977338d68e3bbd1582fc3f713812f6179462fb2d)
+- [ ] [<code>dbeaver/dbeaver#19890 Add project info in editors tab tooltip (#20360)</code>](https://github.com/dbeaver/dbeaver/commit/7e993ce36c8403847ce535dfd9d312cf521e5bc9)
+- [ ] [<code>Update README.md (#20389)</code>](https://github.com/dbeaver/dbeaver/commit/668e4d047c5e0b13f18e36258386b35e0e71fe43)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#20298 SQL annotations hovering fix (#20356)</code>](https://github.com/dbeaver/dbeaver/commit/65976297dbf99f408bb6eee996e5cbf8e485dc78)
+- [ ] [<code>dbeaver/dbeaver#20340 add -version flag (#20357)</code>](https://github.com/dbeaver/dbeaver/commit/71a5be5fdf5aaa3850232b2d79b9d938234bb183)
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>CB-3562 disable transactions for singlestore and fix fetch all (#20334)</code>](https://github.com/dbeaver/dbeaver/commit/6c907e7d8c10f7ed6fd54ed12e691a156a9ae1ae)
+- [ ] [<code>dbeaver/dbeaver#20393 Oracle partition cache clear fix (#20396)</code>](https://github.com/dbeaver/dbeaver/commit/ed03aaaa2072b85daba62b63d7bb4ad4a2b968d4)
+- [ ] [<code>PG data types read fix (read description in resolve)</code>](https://github.com/dbeaver/dbeaver/commit/a638393919212b75368478df12b0032def5bf9b0)
+- [ ] [<code>dbeaver/dbeaver#20377 Set Java 17 in app requirements (#20387)</code>](https://github.com/dbeaver/dbeaver/commit/bbe40cf5f64c11dcde926f7ed2f53c0b51016e49)
+- [ ] [<code>#20210 References panel refresh fix (#20401)</code>](https://github.com/dbeaver/dbeaver/commit/b2e2a728fc186509731071d4cbb07b99b0a6e726)
+- [ ] [<code>dbeaver/pro#1738 Tableau UI fixes (#20395)</code>](https://github.com/dbeaver/dbeaver/commit/672327c6b953937819feba9014dd2e7797efca33)
+- [ ] [<code>dbeaver/pro#1641 Events handling (#20319)</code>](https://github.com/dbeaver/dbeaver/commit/1713fa839af22a482c5826003cde83469e1bb53b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1747 Lazy SQL editor input initialize fix (#20407)</code>](https://github.com/dbeaver/dbeaver/commit/11b478dd980e17281e9555f5c6a08c6796bbbd38)
+- [ ] [<code>CB-3498 database transfer use entity id instead of node path (#20253)</code>](https://github.com/dbeaver/dbeaver/commit/cdc9862687b99be5a5a0d90c1681f240d6932c6d)
+- [ ] [<code>CB-3387 ability to use original driver configuration in distributed mode (#20302)</code>](https://github.com/dbeaver/dbeaver/commit/246064ee8f0475496f110bf2f74336c9010b306f)
+- [ ] [<code>#20306 Option to keep workspace configuration when resetting settings (#20412)</code>](https://github.com/dbeaver/dbeaver/commit/b5cec3ad1ea53ddcd4e08587fbee60fdbc6ebf09)
+- [ ] [<code>dbeaver/pro#1698 Detect "savePassword" flag dynamically only in distributed apps (#20400)</code>](https://github.com/dbeaver/dbeaver/commit/81aa047ef0bad65e6b05afef2e97ff87c0be7e15)
+- [ ] [<code>#20391 Fix Snowflake identifiers quotation (#20420)</code>](https://github.com/dbeaver/dbeaver/commit/1c255498ca1549c914bc8bc688a5ea08a8720946)
+- [ ] [<code>#19402 Fix regexp for object name extraction for Oracle (#20418)</code>](https://github.com/dbeaver/dbeaver/commit/bf838423694507c4e8b5e4944ac2abcd3276f4e4)
+- [ ] [<code>dbeaver/pro#1719 `application` connection property for Snowflake (#20411)</code>](https://github.com/dbeaver/dbeaver/commit/daeb23e6e2e5d0f0547d79f9f7af09b9c2db430c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#18409 Use FQN of the type when altering column's type (#20402)</code>](https://github.com/dbeaver/dbeaver/commit/05dd9db18001ae7b60d169637634be051617685c)
+- [ ] [<code>dbeaver/pro#1688 Data transfer mappings fixes (#20403)</code>](https://github.com/dbeaver/dbeaver/commit/6b581d60199133b81d8dbd576809f58a1f06cdb6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-3659 internal schema translate fix for psql (#20441)</code>](https://github.com/dbeaver/dbeaver/commit/ca150a8099b388e69b8f091bcf44c05cd4f05444)
+- [ ] [<code>dbeaver/pro#1533 Migrate instance controller to REST (#20358)</code>](https://github.com/dbeaver/dbeaver/commit/64545383e0071fc87935414f8b96968c46d5d3b2)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Update Google BigQuery JDBC driver to version 1.3.3 (#20240)</code>](https://github.com/dbeaver/dbeaver/commit/b3f42e60feea935baab34703129d83b0d7fdd5cc)
+- [ ] [<code>Redundant localization removal</code>](https://github.com/dbeaver/dbeaver/commit/961c9ade157bdd61e1a77f19e0654781a038265d)
+- [ ] [<code>dbeaver/pro#1533 Don't bloat logs if instance server is already running (#20456)</code>](https://github.com/dbeaver/dbeaver/commit/70963e96fa47118e5498e2e4b5d7314abc79ab09)
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>Cb 3451 git scripts history (#20427)</code>](https://github.com/dbeaver/dbeaver/commit/fdd51a9a6568810bdf857d1820f0737ebe277fea)
+- [ ] [<code>#20421 Fix SQL Queries delimiter (#20422)</code>](https://github.com/dbeaver/dbeaver/commit/a1a6976a794c5a6275badda80430118aaa84bcda)
+- [ ] [<code>dbeaver/pro#1741 fix naming for workspace configuration (#20454)</code>](https://github.com/dbeaver/dbeaver/commit/77b84cd42c427aeb9c408754b3ae5ca522129b0b)
+- [ ] [<code>#19892 Implement proper data type reading for DuckDB (#20455)</code>](https://github.com/dbeaver/dbeaver/commit/96c44ce192a2540bf9e474f3af82c4a7ac4e0284)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1745 hide triggers folders for Singlestore (#20468)</code>](https://github.com/dbeaver/dbeaver/commit/c3d8e71e9e39e09afe6d1f150ab5406fc2d408c0)
+- [ ] [<code>CB-3580 snowflake add private key auth (#20417)</code>](https://github.com/dbeaver/dbeaver/commit/3756018ef687108c41eece170ef7a1be42b30ab4)
+- [ ] [<code>#20432 Update bundle_ko.properties (#20433)</code>](https://github.com/dbeaver/dbeaver/commit/8ed38c1a444053c639f153a59826eb4d7ad4c6f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>23.1.2 version bump</code>](https://github.com/dbeaver/dbeaver/commit/ffa1f6aea994679e585cee8235875d0d1531916e)
+- [ ] [<code>#20431 Handle `maven-plugin` packaging type (#20476)</code>](https://github.com/dbeaver/dbeaver/commit/cc5d6b42ba302df99dc2bf71fbe5051a7223deaf)
+- [ ] [<code>dbeaver/pro#1740 add sonatype as default repository (#20453)</code>](https://github.com/dbeaver/dbeaver/commit/be7cc604a980d0163697c472d4dceb0d8926c7ee)
+- [ ] [<code>dbeaver/pro#1667 Generic procedures model enhancements (#20443)</code>](https://github.com/dbeaver/dbeaver/commit/4a085b8b621af4ade8040eb54a700e80d48d834c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Cb 3590 qm objects serialization refactoring (#20385)</code>](https://github.com/dbeaver/dbeaver/commit/ef52f70d73221dd0e5181eabe43ed8b0b1fdce55)
+- [ ] [<code>dbeaver/pro#1602 Check last container is present before using it (#20482)</code>](https://github.com/dbeaver/dbeaver/commit/26592a2b72dca365adfde9ab420fc238dd5d9918)
+- [ ] [<code>dbeaver/dbeaver#19769 fix grouping statement for Firebird (#20475)</code>](https://github.com/dbeaver/dbeaver/commit/2d13fc0172277809ef24fc2f41a1a5fb9995ce91)
+- [ ] [<code>SSH tunnel shutdown fix</code>](https://github.com/dbeaver/dbeaver/commit/a1698ad4dee364839c125a8d027a1e1b58bbb281)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/46eb722bb6f66fe42b6567905b1b07714c63ae21)
+- [ ] [<code>Remove legacy color theme plugin</code>](https://github.com/dbeaver/dbeaver/commit/9b1d949e31b901540d38eb125117b2fae5a68c0f)
+- [ ] [<code>dbeaver/pro#1766 Legacy krb5 support (#20493)</code>](https://github.com/dbeaver/dbeaver/commit/be8c98c7ee4192438db299b9da46d53291af4a97)
+- [ ] [<code>dbeaver/pro#1680 Exclude replaced drivers from SQL context types (#20508)</code>](https://github.com/dbeaver/dbeaver/commit/82c0b5d2e79931373ddec57631b3fdd714af3ec3)
+- [ ] [<code>#20471 Fix projects load (#20479)</code>](https://github.com/dbeaver/dbeaver/commit/6e6fff0c633e78a70846e89ac7c19252dec42de0)
+- [ ] [<code>Fixed DE translation für 'Insertion case' (#20458)</code>](https://github.com/dbeaver/dbeaver/commit/29b09f4011e25d6a9ed8012f80fecfa714b1eefa)
+- [ ] [<code>dbeaver/pro#1772 Tasks view progress info fix (#20509)</code>](https://github.com/dbeaver/dbeaver/commit/19f14197a295c33e8f718fad887bb142e6350eb1)
+- [ ] [<code>dbeaver/pro#1364 Add hint for drivers repo settings (#20519)</code>](https://github.com/dbeaver/dbeaver/commit/8059af794c421069eb409ed88306d566819643bf)
+- [ ] [<code>dbeaver/pro#1676 Grammars refactoring (#20457)</code>](https://github.com/dbeaver/dbeaver/commit/e0eef0ca93f63e60c73b792eab0279108381285c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#1757 Fix tools hiding from leaflet (#20535)</code>](https://github.com/dbeaver/dbeaver/commit/278909e086afdf6408157cee814bb7dbb508ba5f)
+- [ ] [<code>#19986 Fix append to a single file (#20484)</code>](https://github.com/dbeaver/dbeaver/commit/370e53f610336c6439c4af2c0572859126c7e9c2)
+- [ ] [<code>#20492 update data grid accessibility for the JAWs application (#20494)</code>](https://github.com/dbeaver/dbeaver/commit/33d6b188a87810580ce18c7a81ed14fb8dee9621)
+- [ ] [<code>dbeaver/pro#1756 Save image without tools on it (#20533)</code>](https://github.com/dbeaver/dbeaver/commit/f528e4be3bdeeef9423dac9483199803d6eee325)
+- [ ] [<code>dbeaver/pro#1767 Use direct data type resolve for generic JDBC (#20502)</code>](https://github.com/dbeaver/dbeaver/commit/044c58f28101a17fa0eabe669c2388abb10d210b)
+- [ ] [<code>Dbeaver/pro#1736 new model and size computations fix (#20413)</code>](https://github.com/dbeaver/dbeaver/commit/5b5d02fad3f770fe59febc5693ede266c0d4a80e)
+- [ ] [<code>dbeaver/pro#1606 hide external tables for the newest Greenplum server… (#20540)</code>](https://github.com/dbeaver/dbeaver/commit/cb7548c45c883a8a077e790d49fea4de9698a814)
+- [ ] [<code>#19335 Handle EWKT values (#20542)</code>](https://github.com/dbeaver/dbeaver/commit/3229fff12d5999dc7f3ffb5b67d5caff33f9217f)
+- [ ] [<code>dbeaver/dbeaver#18733 Column description in metadata panel (#20526)</code>](https://github.com/dbeaver/dbeaver/commit/5d933dc6b7a8a2490c81162ff8466bcf44d02eb0)
+- [ ] [<code>#20548 fix conditions for sequence DDL generation (#20552)</code>](https://github.com/dbeaver/dbeaver/commit/17b70f34f1b833955f08e17ada4970d1cf48dc1c)
+- [ ] [<code>#20336 Proper find/replace in the value panel (#20550)</code>](https://github.com/dbeaver/dbeaver/commit/504e1d888c997443469fe0683271b1fbdbca2fe7)
+- [ ] [<code>dbeaver/pro#1672 Allow doctype declaration for xml files in data import (#20534)</code>](https://github.com/dbeaver/dbeaver/commit/aed2923866558c150eda6f0d6680eae097254292)
+- [ ] [<code>#17434 support of Columns Masks objects for DB2 added (#20521)</code>](https://github.com/dbeaver/dbeaver/commit/702f44f20734a66d84882c7e790039bf53fdbaa2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20313 show confirmation dialog for result set filtering even user said "no" and "do not ask me again" (#20558)</code>](https://github.com/dbeaver/dbeaver/commit/55265dc96aaf16efbb7f388ec15e214c45ac5700)
+- [ ] [<code>dbeaver/dbeaver#20383 Unquote objects names on persist (#20538)</code>](https://github.com/dbeaver/dbeaver/commit/d0b4134a691098fe3b99f9b97759e8ecaae94f87)
+- [ ] [<code>#18094 Show labels on the map (#20527)</code>](https://github.com/dbeaver/dbeaver/commit/d4375162b1ee6961f2ae86faef251754c3d42c35)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19018 Copy viewport/selection bounds (#20551)</code>](https://github.com/dbeaver/dbeaver/commit/f51a2f6536ab1130caa8863859ff1ee98e02dc4a)
+- [ ] [<code>Materialize driver (#20553)</code>](https://github.com/dbeaver/dbeaver/commit/3832b865543b546be1fe12e0638b1b024d9e65cd)
+- [ ] [<code>Dbeaver/pro#1440 truststore manager (#20505)</code>](https://github.com/dbeaver/dbeaver/commit/dcb870670d2efd88f32ba53a75414ff560a28312)
+- [ ] [<code>dbeaver/dbeaver#20146 use mouse double click and traverse listener instead of selection listener (#20555)</code>](https://github.com/dbeaver/dbeaver/commit/ce63e8cbe518e5105da715d8c56875e5c4d7e61c)
+- [ ] [<code>dbeaver/pro#1735 Update tips (#20531)</code>](https://github.com/dbeaver/dbeaver/commit/02c08ee51ef66a9dd5c5da3da8141feae528570f)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>#19962 Use container from active pipe rather than saved settings (#20561)</code>](https://github.com/dbeaver/dbeaver/commit/aa0aab5f3c68868acdae8e708016e6f981cba199)
+- [ ] [<code>#11745 add DDL table tests for generic (#20576)</code>](https://github.com/dbeaver/dbeaver/commit/4cebea5b729b5728ce153c60c41e4fdd4161c18e)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Add CrateDB variant of PostgreServer to improve compatibility (#20549)</code>](https://github.com/dbeaver/dbeaver/commit/b9e72e7f01f152fef6fd93a859662739390b27c0)
+- [ ] [<code>dbeaver#18312 Complete some Simplified Chinese localization work (#20470)</code>](https://github.com/dbeaver/dbeaver/commit/b350f540d8c65807c17229a949e0dfff58df04aa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1645 Allow importing multiple sheets into different table (#20571)</code>](https://github.com/dbeaver/dbeaver/commit/6838de6f4ce6cbbf730e847896ea948bf7963991)
+- [ ] [<code>dbeaver/pro#1777 SSH configurator model</code>](https://github.com/dbeaver/dbeaver/commit/5169918eabe7aa66c557cd83abcc28c23346f17d)
+- [ ] [<code>#19608 Linearize curved geometry (#20564)</code>](https://github.com/dbeaver/dbeaver/commit/64ed67f1b58f7491a6a847dee3c3a7b55c58697a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20428 Handle NPE on getting local project's path (#20532)</code>](https://github.com/dbeaver/dbeaver/commit/a60a69582f61eaca87ff16601f63f0dc5c5cb0f9)
+- [ ] [<code>23.1.3 config</code>](https://github.com/dbeaver/dbeaver/commit/b425206ea660562d9f0e1484418d09753e2f1b82)
+- [ ] [<code>dbeaver/pro#1526 ability to create execution plan for Vertica added; … (#20588)</code>](https://github.com/dbeaver/dbeaver/commit/29581885ab2f1d3a839ceb48fbea5ef77fe1386d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Extra Java opens</code>](https://github.com/dbeaver/dbeaver/commit/9cd3196091a118d44137375ab34473796cc2c0ae)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/ab2786f102759a70156dab5646f5e0d6bd6b4dbf)
+- [ ] [<code>#20467 Fix displaying images in browser on Wayland (#20568)</code>](https://github.com/dbeaver/dbeaver/commit/3c096e19795ba894c8a38f6c48d39d28e016ab1c)
+- [ ] [<code>CB-3670 delete user credentials api (#20575)</code>](https://github.com/dbeaver/dbeaver/commit/ef8c0b51ff18063706694586bf7c6e4ca6cfccf4)
+- [ ] [<code>#19377 Bookmark creation fix (#20585)</code>](https://github.com/dbeaver/dbeaver/commit/2716dbc209b46ed1aad8417cc0a29cc89b45ed39)
+- [ ] [<code>#17692 Reconnect to the last chosen database on demand (#20590)</code>](https://github.com/dbeaver/dbeaver/commit/3bc6c403fbd62885fccc5c0896c30464391655ce)
+- [ ] [<code>Update timescale branding (#20315)</code>](https://github.com/dbeaver/dbeaver/commit/c531d4473bb7e532a003d183a563132e836e51b3)
+- [ ] [<code>#20574 avoid procedures duplication - remove columns objects from the… (#20589)</code>](https://github.com/dbeaver/dbeaver/commit/6f5fa996a99f0cf96a1bcdf62e8c41faf4933803)
+- [ ] [<code>Refactoring non-internationalized strings. Refs: #18312 (#20464)</code>](https://github.com/dbeaver/dbeaver/commit/04b21efe5985e507be0c5293366dfbecb7479884)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#548 aws neptune support (#20593)</code>](https://github.com/dbeaver/dbeaver/commit/0d6aadb521c8a7acb94fc123691a6fbec7677a04)
+- [ ] [<code>dbeaver/pro#1765 Notifications enhancements (#20601)</code>](https://github.com/dbeaver/dbeaver/commit/512b329e42111d273d84312546ba83fd57a8b4e7)
+- [ ] [<code>dbeaver/dbeaver#20364 fix maven artifact corruption (#20604)</code>](https://github.com/dbeaver/dbeaver/commit/4c6d5b2b4f498aabdaa4845cf7ae42fba6d52354)
+- [ ] [<code>CB-3612 provisioning api (#20486)</code>](https://github.com/dbeaver/dbeaver/commit/00829b116658bc632595531c28d047f528b604ab)
+- [ ] [<code>Dbeaver/pro#1669 dpi model (#20305)</code>](https://github.com/dbeaver/dbeaver/commit/05df7f89f973a00d9bd804303791ba8a92014e82)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#20619 Generate SQL dialog localization</code>](https://github.com/dbeaver/dbeaver/commit/a66e69a30cf5dec82c9fec488e7991cb6f15aca9)
+- [ ] [<code>Minimize legacy drivers config</code>](https://github.com/dbeaver/dbeaver/commit/c4964e1d9d8403d34bdfe4ce2d6d60159be4cc68)
+- [ ] [<code>Driver manager UI minor fix (tooltips)</code>](https://github.com/dbeaver/dbeaver/commit/ac73e32aaea8fcf984193c5ed46656fb4f1ff5da)
+- [ ] [<code>Saved credentials detect fix in TE</code>](https://github.com/dbeaver/dbeaver/commit/7343dce63d2c9cc07efd472942f57f8042d63f4c)
+- [ ] [<code>Default new connection wizard sizes and default driver type change</code>](https://github.com/dbeaver/dbeaver/commit/ed44e7a34cb91628353aa9885115583b82aaac33)
+- [ ] [<code>SSH advanced settings UI fix</code>](https://github.com/dbeaver/dbeaver/commit/b2f943135e50baf5a9cac466286323b2729f05ed)
+- [ ] [<code>dbeaver/dbeaver#20646 Dashboards reload fix (keep predefined)</code>](https://github.com/dbeaver/dbeaver/commit/a87ef1bd0809d5d703db217bc1397e88f31c8336)
+- [ ] [<code>23.1.3 release notes</code>](https://github.com/dbeaver/dbeaver/commit/b6835b9c634132142f431010536cddf2931bd9c7)
+- [ ] [<code>GEF backward compatibility</code>](https://github.com/dbeaver/dbeaver/commit/ae90892dfb35e4c218fbce25aebb425fc5802595)
+- [ ] [<code>Dummy log removed</code>](https://github.com/dbeaver/dbeaver/commit/9a3f1541a3cb2afc062e72ecb4c342fab3358d1b)
+- [ ] [<code>Avoid plugin activation for drivers which do not support migration</code>](https://github.com/dbeaver/dbeaver/commit/70712926f26d86bdb48daeb3af3b732c314ad54f)
+- [ ] [<code>Cb 1768 ssl support (#20606)</code>](https://github.com/dbeaver/dbeaver/commit/4936f70a3f3b636740fb8e97b690a402e660a495)
+- [ ] [<code>dbeaver/pro#1798 Remove AI dependencies from core modules (#20661)</code>](https://github.com/dbeaver/dbeaver/commit/763a4b15b6a63b6b874269862ded28c158f06fc1)
+- [ ] [<code>dbeaver/pro#1797 eliminate redundant i18n files (#20681)</code>](https://github.com/dbeaver/dbeaver/commit/078d60c01935675a3e81ff5da33c57bf3d74b875)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>dbeaver/#20624  added Redshift Keywords. (#20625)</code>](https://github.com/dbeaver/dbeaver/commit/1e5d8eccd151c1201db9cc1d7ac57932a81306ff)
+- [ ] [<code>#20658 Hide empty labels (#20666)</code>](https://github.com/dbeaver/dbeaver/commit/39d21e5e38a6d9ae1c2a7c46dfeacbbccb70300e)
+- [ ] [<code>#20507 check connection types first during the auto-commit recover (#20622)</code>](https://github.com/dbeaver/dbeaver/commit/451e41c502c722df941560623482f802197be7b1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#17434 return lost symbol (#20639)</code>](https://github.com/dbeaver/dbeaver/commit/8c8e910c5dfab7622864db7f4b07e7b0890971b3)
+- [ ] [<code>dbeaver/pro Rename label for save password (#20663)</code>](https://github.com/dbeaver/dbeaver/commit/51421a4f39b0929b8aee3666e7d313bd301d738b)
+- [ ] [<code>dbeaver/pro#1694 Spelling in SQL console (#20684)</code>](https://github.com/dbeaver/dbeaver/commit/655ce7719202e7381556c643262ea178f7544e51)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20656 Handle incomplete list of tables in from clause to show completion proposals (#20665)</code>](https://github.com/dbeaver/dbeaver/commit/be5bc0dafad2e74f6f5c925ff08ac363098a6932)
+- [ ] [<code>#7031 Include grant into FULL DDL (#20691)</code>](https://github.com/dbeaver/dbeaver/commit/e4a22268692e50df140c347b91886d9c1978d7f5)
+- [ ] [<code>#20284 Parse active query only once while compute autocompletions (#20680)</code>](https://github.com/dbeaver/dbeaver/commit/4ca482fe9aa453b8f8b0a45068e7a9b168e51ae2)
+- [ ] [<code>#20369 fix duplicates search in the grouping panel for Derby (#20664)</code>](https://github.com/dbeaver/dbeaver/commit/09b1a85d344d2dd11f8ddcf148122681041aa2e5)
+- [ ] [<code>dbeaver/dbeaver#20620 Auth and network profiles config UI layout fix (#20705)</code>](https://github.com/dbeaver/dbeaver/commit/3ab9afbd86545e0ee0b65a9550d240a6e2848d2f)
+- [ ] [<code>dbeaver/pro#1750 Refactor checking if task type supported for scheduling (#20660)</code>](https://github.com/dbeaver/dbeaver/commit/d97d89c43b52f33e0c8409183837ab6acca450c0)
+- [ ] [<code>#20652 Respect blank line as a statement delimiter in completion (#20695)</code>](https://github.com/dbeaver/dbeaver/commit/ea2dcf2945b2f15cac3f84c8c89323a1c5342d25)
+- [ ] [<code>#20654 Don't insert space after table reference completion (#20696)</code>](https://github.com/dbeaver/dbeaver/commit/4ec2b9f07ecb70f22115c7111813b67142ff45a2)
+- [ ] [<code>Oracle DDL gen warnings fix</code>](https://github.com/dbeaver/dbeaver/commit/8d81b9104c051815a346489240dc2603353776d4)
+- [ ] [<code>CB-3268 feat: admin users pagination (#20572)</code>](https://github.com/dbeaver/dbeaver/commit/b30d1eabd9a0842e6ceb55f63dec15a871be7306)
+- [ ] [<code>dbeaver/pro#1781 Tips shortcuts (#20710)</code>](https://github.com/dbeaver/dbeaver/commit/fb0aaff31a4eee632927c12e49de3200a3c7dc84)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-3686 remove rm resource path from events (#20595)</code>](https://github.com/dbeaver/dbeaver/commit/7b5088a4919a02a730694f717ecb7e8ef7f27f85)
+- [ ] [<code>dbeaver/pro#1807 Task view loading fix (#20714)</code>](https://github.com/dbeaver/dbeaver/commit/8a1fa36ae30a422c8fc24ffcc317950ceeeb402f)
+- [ ] [<code>dbeaver/pro#1811 Windows truststore config on Mac and Linux (#20713)</code>](https://github.com/dbeaver/dbeaver/commit/86b37aa82d36683c71eb056a4a65bdfd3f090247)
+- [ ] [<code>#20721 enhance DuckDb data types data kind resolution (#20722)</code>](https://github.com/dbeaver/dbeaver/commit/9f3d19827e3ab1ed229a56bb36ba93337ec59765)
+- [ ] [<code>CB-3738 do not update token for child sessions (#20709)</code>](https://github.com/dbeaver/dbeaver/commit/df486b522f77ff01be229c446cdd5e2d6bfb6f45)
+- [ ] [<code>CB-3697 fix drivers (#20687)</code>](https://github.com/dbeaver/dbeaver/commit/8576e02534b8473190b157e36c454f6dd751b577)
+- [ ] [<code>#20703 Import into selected container fix (#20715)</code>](https://github.com/dbeaver/dbeaver/commit/7e20c68cdc862a31bec0f0140f499c255292da6e)
+- [ ] [<code>#20732 Generate SQL dialog fix (#20735)</code>](https://github.com/dbeaver/dbeaver/commit/d422c8ae753938ad2e6d808b80393f5754535ae1)
+- [ ] [<code>#20523 Mute redundant SSHJ warnings (#20719)</code>](https://github.com/dbeaver/dbeaver/commit/1a0ff83ce0397fe8fa7b7bce578ad2619b8650c3)
+- [ ] [<code>CB-3385 add first/lastname to rp auth (#20717)</code>](https://github.com/dbeaver/dbeaver/commit/a3c80a3839a617f0a1885b841c588a50951e5fa0)
+- [ ] [<code>dbeaver/dbeaver#19949 reset all settings (#20743)</code>](https://github.com/dbeaver/dbeaver/commit/e188d8bb11f26ce413e5b73956d440069dc5a3e5)
+- [ ] [<code>#20429 Fix filter layout on macOS (#20749)</code>](https://github.com/dbeaver/dbeaver/commit/fb3e1187531d38c351893cba95814ec3dc625b47)
+- [ ] [<code>#20618 move dependency sequence objects reading from tables to columns (#20641)</code>](https://github.com/dbeaver/dbeaver/commit/55de05e756a124bc2f3beed659aecba0a54ef083)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CB-3667 Navigator filters model (#20757)</code>](https://github.com/dbeaver/dbeaver/commit/73e70816f6aae86b49b7cb5a78c5ab237a0f6387)
+- [ ] [<code>#20460 Fix picker to save files instead of opening them (#20747)</code>](https://github.com/dbeaver/dbeaver/commit/b9a4ab32ac75c5051279d338b7afc7e72b470a74)
+- [ ] [<code>#20724 use text execution plan for YellowBrick (#20742)</code>](https://github.com/dbeaver/dbeaver/commit/c71d21f46af75ff629f93e6db62b6200f59ea568)
+- [ ] [<code>CB-3770 support blob types in translator (#20731)</code>](https://github.com/dbeaver/dbeaver/commit/3598de7f565d86fc47a7bd7c3a7e9c6deb24918d)
+- [ ] [<code>CB-3448 anonymous user get query history from session id (#20683)</code>](https://github.com/dbeaver/dbeaver/commit/42aac8534bb8d883053b37eb519cbaa544086355)
+- [ ] [<code>#20202 return partitions folder for tables; change partitioned flag reading (#20754)</code>](https://github.com/dbeaver/dbeaver/commit/22b2a99f65a8d797d845dd87c200b6b85f8a3f40)
+- [ ] [<code>#20638 Fix drop target retrieving wrong data flavor on Linux (#20750)</code>](https://github.com/dbeaver/dbeaver/commit/65387a5c599a2ae3a74467d2b350f67b929e6376)
+- [ ] [<code>#20733 Add setting for closing after script execution the console opened for included script (#20751)</code>](https://github.com/dbeaver/dbeaver/commit/6ed62b5b3ab1537afae856c5096a39f4064e1e54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-3539 script task fix for TM (#20708)</code>](https://github.com/dbeaver/dbeaver/commit/da5f63dc5240c56c56e94eac5ce41e75eb471725)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1711 Redesign dictionary value viewer (#20716)</code>](https://github.com/dbeaver/dbeaver/commit/2b84907e87f767876fd2e51378496e26b64e7f32)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#18786 Athena: support multi catalogs (#20746)</code>](https://github.com/dbeaver/dbeaver/commit/99e77444d1acf8e0bade88281000f4686957710f)
+- [ ] [<code>23.1.4 config</code>](https://github.com/dbeaver/dbeaver/commit/6fef74f62ecab080f1a7720fd4ad38cafaac6304)
+- [ ] [<code>Revert "dbeaver/pro#1711 Redesign dictionary value viewer (#20716)"</code>](https://github.com/dbeaver/dbeaver/commit/b4e697547c41dc40e8210dee790758ecfa68768f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20777 Sync "Show virtual model editor" with active navigator view mode (#20791)</code>](https://github.com/dbeaver/dbeaver/commit/130ae3fd90e555a27eaf6ebf2b10829589b045a6)
+- [ ] [<code>dbeaver/pro#1724 salesforce jdbc driver (#20799)</code>](https://github.com/dbeaver/dbeaver/commit/9434e6e86a0c42fb1456c1e7078dbe1a333878f7)
+- [ ] [<code>dbeaver/pro#1600 Database transfer even processor support (#20737)</code>](https://github.com/dbeaver/dbeaver/commit/79802d26d1388c8ef7865472af955ed4ed2cc7e0)
+- [ ] [<code>#19866 Find node with missing nodes in-between (#20772)</code>](https://github.com/dbeaver/dbeaver/commit/57ebf342c3428fb03920876ac6e43bc5d6b4c2eb)
+- [ ] [<code>#20765 use <undefined> name for nullable data types (#20766)</code>](https://github.com/dbeaver/dbeaver/commit/2efe2f0c70c2a753c8c426bfcaaad693c90f4dab)
+- [ ] [<code>#20725 support YellowBrick procedures recognition (#20764)</code>](https://github.com/dbeaver/dbeaver/commit/6186caff55e35d033233eae941acef9b8d8b9814)
+- [ ] [<code>#20616 added USING clause for Greenplum tables DDL; partitions reading and DDL creating enhance (#20786)</code>](https://github.com/dbeaver/dbeaver/commit/6cf8a86891e881fc0f5068f40c8f555dc20e907a)
+- [ ] [<code>#20438 Fix created with cmd folders disappearing on navigator refresh (#20770)</code>](https://github.com/dbeaver/dbeaver/commit/1392dff520ac5bde41c268915903633aed519f89)
+- [ ] [<code>#20489 use JSON handler for JSON types for OpenGauss DB (#20785)</code>](https://github.com/dbeaver/dbeaver/commit/6579f237a3fda069d8aec21197cd8a3bad688551)
+- [ ] [<code>#19866 Handle empty path (#20819)</code>](https://github.com/dbeaver/dbeaver/commit/38307fbe12c8efa712fa8bae04f9a480a0691150)
+- [ ] [<code>#20347 Redesign network handlers (#20736)</code>](https://github.com/dbeaver/dbeaver/commit/2a9042c45a70ffdc088dbedd22ed5ae37d8cec5c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20781 Fix NLS missing message warnings (#20782)</code>](https://github.com/dbeaver/dbeaver/commit/d96a4db68b3b4fcdbf818dc3ffd2fad70a27b2db)
+- [ ] [<code>#19866 Revert node resolution changes (#20831)</code>](https://github.com/dbeaver/dbeaver/commit/17be245f2156b47cc2877024bf41f2aa46e27d5b)
+- [ ] [<code>CB-3635 update firebird driver (#20760)</code>](https://github.com/dbeaver/dbeaver/commit/bfe05a5a2bc5dc6def3ef728347792a9f74ba586)
+- [ ] [<code>#18312 Complete some Simplified Chinese localization work (#20671)</code>](https://github.com/dbeaver/dbeaver/commit/fafeb8a6e1adbe77f79a4573b75ac7cc0c2abf44)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Virtual model init fix</code>](https://github.com/dbeaver/dbeaver/commit/a0df77d743beb8db2909e3ecc23f200fe8da7a31)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/6979599b73e00fd9bcebb8d6a01eda0c311e118b)
+- [ ] [<code>Blinking fix in connection dialog</code>](https://github.com/dbeaver/dbeaver/commit/570b8733536b8eac53d1ce29a56ee6307c6c781d)
+- [ ] [<code>dbeaver/pro#1830 Event processor enablement fix (#20820)</code>](https://github.com/dbeaver/dbeaver/commit/e161a7770e07921f3b1973ef6e16af77be3f0179)
+- [ ] [<code>dbeaver/pro#1792 Make class and label attributes to be not required in driver tag (#20838)</code>](https://github.com/dbeaver/dbeaver/commit/f6802d8e8267f68ce1b53645ea5cd90ba4e481e0)
+- [ ] [<code>dbeaver/dbeaver#20834 Fix editor input read-only status detection (#20836)</code>](https://github.com/dbeaver/dbeaver/commit/27af0c48606f7eb4d80b1026ea13bfdcc9789018)
+- [ ] [<code>dbeaver/pro#1793 Nullable values comparison fix (#20841)</code>](https://github.com/dbeaver/dbeaver/commit/4605949e3afc3a3364be16e6155b59e793103d88)
+- [ ] [<code>dbeaver/pro#1739 Open external file using preferred application (#20462)</code>](https://github.com/dbeaver/dbeaver/commit/9c9e0c91b896db231819719023dbf59763d104a5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20774 Geometry transformation fix (#20821)</code>](https://github.com/dbeaver/dbeaver/commit/d546f1787095fa9c50cb7fe38687a0b7162b5424)
+- [ ] [<code>#17919 Add shortcut for creating new objects (#20804)</code>](https://github.com/dbeaver/dbeaver/commit/4f38704b7cfd5163ff253d24daeaddd9f5f60562)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1801 Vertica procedure parameters read + execute keyword fix (#20830)</code>](https://github.com/dbeaver/dbeaver/commit/697a6b2c971efc6cbc941e35bd6a0064dd286a43)
+- [ ] [<code>#19210 Allow to reset sorting on third click on the column header in column viewer (#20839)</code>](https://github.com/dbeaver/dbeaver/commit/8ae12aaa81f66caefbb4194ffe37af1031054620)
+- [ ] [<code>#20797 Support `Array(T)`, `Map(K, V)`, and `Tuple(T...)` types (#20842)</code>](https://github.com/dbeaver/dbeaver/commit/05050826244e2c55c72d03be9f13dd0a59716ff9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#20600 Fix completion appearing at the end of single line comment line (#20843)</code>](https://github.com/dbeaver/dbeaver/commit/b97a63368e1d1a4023289c2dda9425bac977bb00)
+- [ ] [<code>dbeaver/dbeaver#20817 Execution plan load fix (was broken in dbeaver/… (#20826)</code>](https://github.com/dbeaver/dbeaver/commit/306c263dcfe89303ba23ff9636d445ad3709b094)
+- [ ] [<code>#20818 Close previous console created by the same include command on repeated execution (#20844)</code>](https://github.com/dbeaver/dbeaver/commit/614163cad0cd07a658b5881a219f19520907a20e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-3742 connect with key file in bigquery (#20768)</code>](https://github.com/dbeaver/dbeaver/commit/14805e2d949698b6fb4a1a6b653396d6b1231940)
+- [ ] [<code>Do not create empty property by default</code>](https://github.com/dbeaver/dbeaver/commit/8d00f2fcb801280fab37a58dac22504b7bee67af)
+- [ ] [<code>Fix compile on older Eclipse verisons</code>](https://github.com/dbeaver/dbeaver/commit/c8ae86420eeb4a71a2ba9ca5fad0346b4c16ffe7)
+- [ ] [<code>DPI proxy: containers cache</code>](https://github.com/dbeaver/dbeaver/commit/2942b1e53c16efdd168d0423e125b1b75742a487)
+- [ ] [<code>dbeaver/pro#1827 salesforce driver finalization (#20850)</code>](https://github.com/dbeaver/dbeaver/commit/1ad21c12ab285733bdf877024ebb4d6d071617b1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#1775 Vertical tab name read. Spreadsheet cell value read fix. (#20862)</code>](https://github.com/dbeaver/dbeaver/commit/0f7496b2d9418dd54afa425afa1e128410e5e33d)
+- [ ] [<code>dbeaver/dbeaver#18168 update postgre native client (#20837)</code>](https://github.com/dbeaver/dbeaver/commit/d804287151f731bbe31150c42e8292027b3440e7)
+- [ ] [<code>dbeaver/dbeaver#20812 insertt generate fix (#20888)</code>](https://github.com/dbeaver/dbeaver/commit/6727f1473f2c4ed00470d8a6783a5b79f9c0a207)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/1581163fbb2b54d72518522998c61337b405e3a5)
+- [ ] [<code>CB-3783 get project from context (#20849)</code>](https://github.com/dbeaver/dbeaver/commit/b88b09c87eaf27357998927b78dad495456f62cb)
+- [ ] [<code>CB-3382 default grouping check fix (#20847)</code>](https://github.com/dbeaver/dbeaver/commit/3c839c522e2ae0982bd93b0c16647084d8e914cd)
+- [ ] [<code>#20543 Page layout fix (#20885)</code>](https://github.com/dbeaver/dbeaver/commit/89c11421d703988263f5d400b1d94af98d64809c)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/7a1c5124437d3e65f2c887e8b8d2b68e0fd6fdd0)
+- [ ] [<code>dbeaver/dbeaver#20529 add username to enter passphrase dialog (#20881)</code>](https://github.com/dbeaver/dbeaver/commit/75c110ad5b482801804c1feac0fdd9278a12e16a)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/de396c47df9501f31047ae87fdd85b89a1ebc221)
+- [ ] [<code>dbeaver/dbeaver#20890 rsv refresh fix (#20893)</code>](https://github.com/dbeaver/dbeaver/commit/b140003565a68f31536bf7073022ecaf5bc9311d)
+- [ ] [<code>#20096 SELECT with WITH clause (#20779)</code>](https://github.com/dbeaver/dbeaver/commit/e5a0f8957d91f325c879ac7e3b77ddb593a6d8fd)
+- [ ] [<code>dbeaver/pro#1711 Dictionary enhancements (#20840)</code>](https://github.com/dbeaver/dbeaver/commit/abb3fd39e6bb74c50b0fca6c386c9e7cb19a18f2)
+- [ ] [<code>dbeaver/dbeaver#20759 mark .dbeaver as hidden (#20846)</code>](https://github.com/dbeaver/dbeaver/commit/05e86db2cf48bdbd572f44a9571bfd56ba3d3881)
+- [ ] [<code>23.1.5 version bump</code>](https://github.com/dbeaver/dbeaver/commit/1e3d5c115db9fdc7962f05b341ddced42dff595c)
+- [ ] [<code>dbeaver/dbeaver#20898 Grid line color fix (#20899)</code>](https://github.com/dbeaver/dbeaver/commit/49cfb072965350af9dfb9eb1c7dc7a3a5f4158b0)
+- [ ] [<code>dbeaver/dbeaver#15242 kubernetes proxy (#20880)</code>](https://github.com/dbeaver/dbeaver/commit/0079802a5c3965740d9c740bcc751bee4d5650d7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1822 Add more keywords to non-reserved list (#20882)</code>](https://github.com/dbeaver/dbeaver/commit/711f3a0b7d91bc7cd43054d01d2d504ca3796375)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/b574fd6c3ac491cc8ad46d686a3e455fb482b0cb)
+- [ ] [<code>CB-3741 automatically refresh token for websocket connection (#20871)</code>](https://github.com/dbeaver/dbeaver/commit/bc6c41092a320320a30e9f5b5fad8228191d8692)
+- [ ] [<code>CB-3769-user-role-change-event (#20829)</code>](https://github.com/dbeaver/dbeaver/commit/6fea540a9da9ad1c87f6aa9a0faa77d85d89a65c)
+- [ ] [<code>dbeaver/pro#1857 Return back configuration button only for ERD (#20907)</code>](https://github.com/dbeaver/dbeaver/commit/d3be33ec5715d96322745a64c60226ca0f79b73a)
+- [ ] [<code>dbeaver/pro#1856 Set jna settings earlier (for tasks execution) (#20904)</code>](https://github.com/dbeaver/dbeaver/commit/15d2ad160ebfa9de57ba4630d5e94c2d2cd6e224)
+- [ ] [<code>#20902 Fix isValid check for User Interface preference page (#20908)</code>](https://github.com/dbeaver/dbeaver/commit/962c9b86123332e302dc1359abca7714120310f3)
+- [ ] [<code>dbeaver/pro#1768 High-contrast theme (#20874)</code>](https://github.com/dbeaver/dbeaver/commit/377f589b63131bb3225514f526dd52c071f46f9a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use single endpoint for browser</code>](https://github.com/dbeaver/dbeaver/commit/41a84a89be264757fe808d9566d6edbd881a6b5e)
+- [ ] [<code>dbeaver/dbeaver#546 Notification settings (#20868)</code>](https://github.com/dbeaver/dbeaver/commit/d59be4256f4542991ab4f027f30f01760737242f)
+- [ ] [<code>CB-3836 ntlm auth provider (#20903)</code>](https://github.com/dbeaver/dbeaver/commit/eb6e0b01237a0172c8d02b3f8782ed155a8787a1)
+- [ ] [<code>Cb 3814 add ssl tab for all databases that support it (#20884)</code>](https://github.com/dbeaver/dbeaver/commit/97102d3fc736532d1404b2f0e3527ce56be3a25e)
+- [ ] [<code>Copy handlers fix (enablement)</code>](https://github.com/dbeaver/dbeaver/commit/92e395233a8c3f0b613063ddcf2e7513c6041ced)
+- [ ] [<code>CB-3787 add additional parameters for database configuration (#20787)</code>](https://github.com/dbeaver/dbeaver/commit/1305c87597dcabdb19ad6de79a5b415fa699e7bb)
+- [ ] [<code>dbeaver/dbeaver#546 Handle missing notifications (#20927)</code>](https://github.com/dbeaver/dbeaver/commit/0c1e999a3820d275201cc645350c133f03d4ad44)
+- [ ] [<code>JSON formatting errors logging</code>](https://github.com/dbeaver/dbeaver/commit/76645143977925efb1fc2724bd1e7fc4f76fdc27)
+- [ ] [<code>dbeaver/pro#1823 Custom secure storage (#20911)</code>](https://github.com/dbeaver/dbeaver/commit/f4af01a7886a12cde91df5e23726d77cc6bb1812)
+- [ ] [<code>Toolbar getter</code>](https://github.com/dbeaver/dbeaver/commit/aee6b80589ff8df27d18ddb40fd5413f8ef21439)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/0f572a3cd2688a69c53c2fa34a07b94ce5ac480a)
+- [ ] [<code>AI pref page move</code>](https://github.com/dbeaver/dbeaver/commit/071ce2bd8a343a22f613974f173e1a0264daaceb)
+- [ ] [<code>#20946 JSON formatting fix</code>](https://github.com/dbeaver/dbeaver/commit/dda49f68207c65f506b3cd64dace848830ef567a)
+- [ ] [<code>#20931 Handle NPE on theme engine is null (#20933)</code>](https://github.com/dbeaver/dbeaver/commit/b5ff147e871a170d1fb3e7b75df5de58f4cac99f)
+- [ ] [<code>#20921 Fix disappearing controls presence on the map while taking a screenshot (#20922)</code>](https://github.com/dbeaver/dbeaver/commit/474e91afa257d7bc03e302eff5e916a7ef73b8d0)
+- [ ] [<code>dbeaver/dbeaver#20442 return deleted binding (#20934)</code>](https://github.com/dbeaver/dbeaver/commit/c316e098a8f7814dfa663c629f6db20db2722946)
+- [ ] [<code>#20924 set property name for a plan node (#20940)</code>](https://github.com/dbeaver/dbeaver/commit/f805d3089fde59a5d5d1b93a93ccd7fe8e0be847)
+- [ ] [<code>dbeaver/pro#1835 fix editor refreshing and opening if needed; avoid NPE (#20949)</code>](https://github.com/dbeaver/dbeaver/commit/dd8d06a429f00cf5663d273d5e7afff5badfe9bf)
+- [ ] [<code>CB-3865 change order of properties (#20954)</code>](https://github.com/dbeaver/dbeaver/commit/365c8de483c6ae7ee0701dd90b4a016e53295260)
+- [ ] [<code>CB-3890 send secret event if value was changed (#20939)</code>](https://github.com/dbeaver/dbeaver/commit/cb523a25564f21789157649dda1b74eb93f5f05f)
+- [ ] [<code>CB-3756 add datasource permission updated event (#20915)</code>](https://github.com/dbeaver/dbeaver/commit/490d05bf3274bf923cf5a821995d028eb14207ef)
+- [ ] [<code>#5230 Fix port receiving in local debugging (#20942)</code>](https://github.com/dbeaver/dbeaver/commit/5eeac27064eeb72da7428192f138328345849465)
+- [ ] [<code>Dbeaver/pro#1875 use newest functions reading (#20953)</code>](https://github.com/dbeaver/dbeaver/commit/743a930dd840f6f944f65d5cdc835d5872904d9b)
+- [ ] [<code>#17360 Recreate properties on object persistence flag change (#20966)</code>](https://github.com/dbeaver/dbeaver/commit/ab2ffbea84f51b792ecf1b245f3ae401a501e3b0)
+- [ ] [<code>dbeaver/pro#1874 External configuration save/load fix (#20955)</code>](https://github.com/dbeaver/dbeaver/commit/3765351c0d39b1fab6bb5db7986f2446614253dc)
+- [ ] [<code>dbeaver/pro#1853 Driver list accessibility support added (#20974)</code>](https://github.com/dbeaver/dbeaver/commit/12a302c0585bc95f217c4c7ab1fdb8331db13015)
+- [ ] [<code>dbeaver/pro#1780 read DDLs for procedures/tables/views in BigQuery (#20968)</code>](https://github.com/dbeaver/dbeaver/commit/04fdfdf030cc1dab566cfa66b35288164146e59a)
+- [ ] [<code>dbeaver/pro#1859 Hide shared ssh keys in ui (#20948)</code>](https://github.com/dbeaver/dbeaver/commit/ce99b6f03966ffda81aec0050241b7c815556f96)
+- [ ] [<code>#20935 use data source provider created URL in case of the old URL pattern; do BigQuery sampleURL easier (#20959)</code>](https://github.com/dbeaver/dbeaver/commit/c87f2cc6e5bd615118d7832f95e5a03d1d83498d)
+- [ ] [<code>dbeaver/dbeaver#20957 Contiguous replacement characters rendering fix (#20978)</code>](https://github.com/dbeaver/dbeaver/commit/d6746076bae78ea511e80efbd7465442480e6b01)
+- [ ] [<code>dbeaver/pro#1489 don't write bytes for printStreamProgressMonitor (#20943)</code>](https://github.com/dbeaver/dbeaver/commit/c6cd2c24f0d1f309ab3c8c304d6d10865f2dd3bb)
+- [ ] [<code>dbeaver/dbeaver#20773 Fix CRS transform (#20977)</code>](https://github.com/dbeaver/dbeaver/commit/34a7040de2c4ec581fb807b526ee55f4a3cda712)
+- [ ] [<code>CB-3223 qm get event time static func (#20956)</code>](https://github.com/dbeaver/dbeaver/commit/23c7066d13daefd83ba576f31af9254b1875eef7)
+- [ ] [<code>CB-3449. Fixed formatting sql script at macOs/linux. (#20929)</code>](https://github.com/dbeaver/dbeaver/commit/3e6b381db3cdcc531fa528d52c3347b0c5618a8d)
+- [ ] [<code>#20672 Stop DDL queries processing on interrupt (#20987)</code>](https://github.com/dbeaver/dbeaver/commit/04c76cf96cc5e0bafa0e20b4541158393015c70c)
+- [ ] [<code>#20981 set default image for editor if base image is empty (#20986)</code>](https://github.com/dbeaver/dbeaver/commit/34ea9247df2e1df81e65a58bb39f9b07a21a6c07)
+- [ ] [<code>dbeaver/pro#1838 change grouping icon (#20985)</code>](https://github.com/dbeaver/dbeaver/commit/c6a0909834936e3e756d423f7138eda56af182c9)
+- [ ] [<code>dbeaver/pro#1861 Remove ${password} variable due to security reasons (#20945)</code>](https://github.com/dbeaver/dbeaver/commit/1a55aa014b623960deaf6ab2d8ff51208b7d4ced)
+- [ ] [<code>23.2.0 version bump</code>](https://github.com/dbeaver/dbeaver/commit/32c5d02309121eae7ff8fc70fd9aa3c09476ec77)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/95bb4087c14209e557cf7a51e2299fd20269c316)
+- [ ] [<code>#20800 Allow choosing new data source if can't be found (#20962)</code>](https://github.com/dbeaver/dbeaver/commit/e55e8aea3cb5ed6bebbfd38000ee3277e8428d3e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#19664 Add max height for parameters table (#20997)</code>](https://github.com/dbeaver/dbeaver/commit/a77b87b89a6498e45da21df922c9e6e008ff9273)
+- [ ] [<code>dbeaver/cloudbeaver#1951 Handle parsing errors (#20993)</code>](https://github.com/dbeaver/dbeaver/commit/d3ab3b46095b58cc8c8b47d03a94d6506ccd1e50)
+- [ ] [<code>dbeaver/pro#1635 SQL templates search fix (#20990)</code>](https://github.com/dbeaver/dbeaver/commit/6ce7beca40d07baabe5db802b8a9e8070d18da19)
+- [ ] [<code>dbeaver/pro#1885 NTLM + TE authentication UI enhancements + IDP icons fix (#21005)</code>](https://github.com/dbeaver/dbeaver/commit/d4dba8e14b64573a994a3e9627d2d12cdc39ecf2)
+- [ ] [<code>dbeaver/pro#1606 hide External table in Greenplum only we can not read info from pg_exttable (#20989)</code>](https://github.com/dbeaver/dbeaver/commit/f4d3ee5d263790ce68180abb011042875afe367f)
+- [ ] [<code>#18892 Use select if the function is not a procedure for debugging (#21008)</code>](https://github.com/dbeaver/dbeaver/commit/98025aa98a4ca1c2bbdcbd0f89473d39b0ebf4ba)
+- [ ] [<code>dbeaver/dbeaver#18188 allow multiple certs (#20971)</code>](https://github.com/dbeaver/dbeaver/commit/17ce8df0020da41366c1ca3fa7337236d1fd9ba6)
+- [ ] [<code>dbeaver/pro#1871 fix generic logos (#20970)</code>](https://github.com/dbeaver/dbeaver/commit/861242d5d5ccd59f9e2ebbf7b2fae108efcf6f6c)
+- [ ] [<code>#20730 hide the "target" column in case of no target specified tables to avoid "?" text (#21015)</code>](https://github.com/dbeaver/dbeaver/commit/8869a5ca8a0c36815d6a88f0be6036111af0db00)
+- [ ] [<code>#21021 Fix NPE on TabbedFolderPageForm refresh (#21022)</code>](https://github.com/dbeaver/dbeaver/commit/34fd70d28a9f4653063f5cf2223a944414372c01)
+- [ ] [<code>dbeaver/pro#1878 add setting for $$ quotes recognition for Vertica (#20999)</code>](https://github.com/dbeaver/dbeaver/commit/9b4b416826edd98272dfc627a9aa46a990a44c1d)
+- [ ] [<code>dbeaver/pro#1889 Add support for CTE to the grammar, function calls in group by, fix bug with `FORMAT (col,'C','en-us') AS col` handling (#21024)</code>](https://github.com/dbeaver/dbeaver/commit/f0daf3cc69b407f6867ce7ff54ffb5e24231cc09)
+- [ ] [<code>#21027 Fix NPE on starting DBeaver when SQL Script for broken connection is opened (#21028)</code>](https://github.com/dbeaver/dbeaver/commit/a0fb1d32b04219a0402819af8587ee39c4d33c77)
+- [ ] [<code>dbeaver/pro#1640 update error message (#21006)</code>](https://github.com/dbeaver/dbeaver/commit/a9ef25d6d40ec99b13e3a53433f96b2c6e324c7c)
+- [ ] [<code>CB-3905 add force flag for deleting team (#21009)</code>](https://github.com/dbeaver/dbeaver/commit/045b38987cc023c68fcaa36cb71d373c07265f3d)
+- [ ] [<code>dbeaver/pro#1888 Remove password template replacing for jdbc url (#21029)</code>](https://github.com/dbeaver/dbeaver/commit/4df90347c00b9d1919076291ed388ddb7a2cf20a)
+- [ ] [<code>CB-3874 reset password on connections reload (#21034)</code>](https://github.com/dbeaver/dbeaver/commit/cfe3c6e553cf383f01ae324c3c23700c68c00ea9)
+- [ ] [<code>#21044 NPE fix (#21046)</code>](https://github.com/dbeaver/dbeaver/commit/ffb88cc875ce6b1b51a01e58d740532620a3e931)
+- [ ] [<code>dbeaver/dbeaver#21040 fix npe (#21041)</code>](https://github.com/dbeaver/dbeaver/commit/c54de6c20bec9c079fccb1afb11474c7a1fae183)
+- [ ] [<code>#20935 do not use old URL pattern (#21043)</code>](https://github.com/dbeaver/dbeaver/commit/84b0b768b18851bdcc2cbc9be2d2597e2c8dd6de)
+- [ ] [<code>dbeaver/pro#1879 disable ddl transactions (#21064)</code>](https://github.com/dbeaver/dbeaver/commit/aa3e215f59a995066d4e8146a26b911d757e1c1c)
+- [ ] [<code>dbeaver/pro#1879 disable ddl transactions (#21069)</code>](https://github.com/dbeaver/dbeaver/commit/ef1b698e62135bc22c0c4d1772798c8bec203648)
+- [ ] [<code>#20916 Add commandId to the widget data of the progress page control's toolbar item (#20980)</code>](https://github.com/dbeaver/dbeaver/commit/f4ad598e77345891cb86e655048855ae866bf249)
+- [ ] [<code>dbeaver/dbeaver#21099 fix crash for users with space in username (#21103)</code>](https://github.com/dbeaver/dbeaver/commit/211cccd42ad2ff065859d9d4b6c2fb9fc4b88e0d)
+- [ ] [<code>dbeaver/dbeaver#21109 fix migrateFromEclipseStorage (#21110)</code>](https://github.com/dbeaver/dbeaver/commit/7047af2a13366ced42cde89b943bff3464a3b07d)
+- [ ] [<code>dbeaver/pro#1872 Delete redundant config files</code>](https://github.com/dbeaver/dbeaver/commit/c0f4b57ba8670e38206adfc3b82d375d374bec37)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1872 Delete redundant config files</code>](https://github.com/dbeaver/dbeaver/commit/10912e3c788d2cc4113876d1def245abfdec3fcf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1912 Snowflake driver upgrade to 3.13.25 (#21105)</code>](https://github.com/dbeaver/dbeaver/commit/a8baa4099498525cb906034c2fcfd475f40569f5)
+- [ ] [<code>#21114 Handle cases with null key value (#21118)</code>](https://github.com/dbeaver/dbeaver/commit/8a2302e97d5618a80b5751e2cf39452b81652463)
+- [ ] [<code>dbeaver/pro#1776 Pronounce editor tab names (#21075)</code>](https://github.com/dbeaver/dbeaver/commit/f0af141a5d23407af5e2743aec1a8e7f396ba454)
+- [ ] [<code>dbeaver/pro#1939 Datasource serializer for TE: exclude external configuration</code>](https://github.com/dbeaver/dbeaver/commit/ca93e3efac8d666c9f41be86a59435d6d183b4d3)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/fce35e420e8369b4f3a7595b791294396f354aee)
+- [ ] [<code>dbeaver/dbeaver#17622 support materialized views in Snowflake (#21127)</code>](https://github.com/dbeaver/dbeaver/commit/4d7687a6c89e98edf4a9f370ca0f321140b2d0a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#20869 Limit maximum size of the text widget (#21031)</code>](https://github.com/dbeaver/dbeaver/commit/ecfe35f188a0e6f2f5702839533ad5964da1d4fa)
+- [ ] [<code>#21086 avoid NPE in the SQL Editor (#21087)</code>](https://github.com/dbeaver/dbeaver/commit/617c7656728db0fcd9d237852e1f0bda34ec5cd1)
+- [ ] [<code>#21038 refactor Oceanbase model code - remove extra code, read routin… (#21116)</code>](https://github.com/dbeaver/dbeaver/commit/1a1791b50e3c940d898458a628565e1cc43f48da)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#20994 Reset document provider on input change (#21148)</code>](https://github.com/dbeaver/dbeaver/commit/0943b08cbf9baab2cfcd0ca04c9b82bb08c13338)
+- [ ] [<code>dbeaver/pro#1906 Turn on `Enable experimental features` autocompletion preference (#21079)</code>](https://github.com/dbeaver/dbeaver/commit/24e86dc6177b57ce1b8b4f461af3fbb3a6bc6dad)
+- [ ] [<code>#20399 Decimal rounding error (#21137)</code>](https://github.com/dbeaver/dbeaver/commit/27398439468910e40703c55be21defdc9d87429a)
+- [ ] [<code>#20923 hide Restore/Backup buttons in the Navigator tree for providers that not support them (#21170)</code>](https://github.com/dbeaver/dbeaver/commit/8cb67335c4c4b437e4f64bd615dbf048a6e62fd0)
+- [ ] [<code>dbeaver/pro#1948 Fix TE developer permissions check (#21178)</code>](https://github.com/dbeaver/dbeaver/commit/dbf90e7da25522f5786596fb597b233756e57899)
+- [ ] [<code>dbeaver/dbeaver#20276 Show query in grouping panel (#21141)</code>](https://github.com/dbeaver/dbeaver/commit/dee0655ca32b8e5d0b4801e35bd2467a679ab0c6)
+- [ ] [<code>dbeaver/dbeaver#20808 show all properties (#20969)</code>](https://github.com/dbeaver/dbeaver/commit/b7d3f737f68b9c9408d57be835add0dd9f2c840f)
+- [ ] [<code>dbeaver/dbeaver#20592 keyboard shortcut set row color (#21154)</code>](https://github.com/dbeaver/dbeaver/commit/16c9f4665924f0f468df889773f91ba89b6bcd20)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#20917 add support for view ddl (#20918)</code>](https://github.com/dbeaver/dbeaver/commit/979457cb860a6fdf4eb4986956c5b8c3eb55177c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19849 correctly read IPv4 data for modern Clickhouse driver (#21161)</code>](https://github.com/dbeaver/dbeaver/commit/eee0411e3c0ef3d2084e749f9e56066d9764b24c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#19475 Hide column fix (use focus column) (#21140)</code>](https://github.com/dbeaver/dbeaver/commit/2844f22b22ec749c181c78c68580ad49166ba6fb)
+- [ ] [<code>Update README.md (#21182)</code>](https://github.com/dbeaver/dbeaver/commit/a60c29476f684c994b92edba33d4ee9f52228d08)
+- [ ] [<code>Update README.md</code>](https://github.com/dbeaver/dbeaver/commit/1190c15b13d4c127f58f94617f594455d0dc7c3a)
+- [ ] [<code>dbeaver/dbeaver#21053 Display errors in the result tab  (#21162)</code>](https://github.com/dbeaver/dbeaver/commit/8b915cca029cb533903f7db5eb0b8897d6e1d030)
+- [ ] [<code>#20855 add more JSON functions keywords (#21073)</code>](https://github.com/dbeaver/dbeaver/commit/456ec779ac7d13b0aede719bb6f4ca12957f47cf)
+- [ ] [<code>#21050 Change switch panel command key (#21119)</code>](https://github.com/dbeaver/dbeaver/commit/2a7b33fa7eb8a6e357421d22564eaad6cbe67099)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#1840 improve driver dialog ui (#21146)</code>](https://github.com/dbeaver/dbeaver/commit/7a3d0af89ec0cf3b98123c7d0ab3875116b212a8)
+- [ ] [<code>dbeaver/dbeaver#20513 Fix uuid value manager for panel (#21067)</code>](https://github.com/dbeaver/dbeaver/commit/7c16eb0cd683532f396f912a2ec8c4341d10ff0b)
+- [ ] [<code>#17913 Fix json formatting in a separate editor (#21176)</code>](https://github.com/dbeaver/dbeaver/commit/1d355ff58e7a5ffa64e3469caa5d8e2b72a87910)
+- [ ] [<code>dbeaver/dbeaver#20528 Initial commit for my case insensitive feature. (#20614)</code>](https://github.com/dbeaver/dbeaver/commit/d8d49afabca55c5307f4f3fb0b16e5822c58ea58)
+- [ ] [<code>#21185 catch unsupported support engine type anf use default one instead (#21194)</code>](https://github.com/dbeaver/dbeaver/commit/bdff83bb5d379da3e55a1e9152e0f38ab77d7a8a)
+- [ ] [<code>Update CompareReportRenderer.java (#20761)</code>](https://github.com/dbeaver/dbeaver/commit/446512568b3d17e49a0b92ff50188087dc3cfcac)
+- [ ] [<code>Add jdbcx driver (#20811)</code>](https://github.com/dbeaver/dbeaver/commit/2e46ced4f275c9bf3c5b9861ada884ffecf9a13f)
+- [ ] [<code>CB-3934 save all auth-properties in credentials configuration (#21124)</code>](https://github.com/dbeaver/dbeaver/commit/372d2cdf34a99f02c4a5763970cebad5e2135b1d)
+- [ ] [<code>dbeaver/dbeaver#21088 Warn overwrite while exporting project (#21165)</code>](https://github.com/dbeaver/dbeaver/commit/031fc2f351217f8886e963c9ba69d2348c35a7bd)
+- [ ] [<code>Dbeaver/dbeaver#20975 validate parameter values (#21130)</code>](https://github.com/dbeaver/dbeaver/commit/91d0798e8adee22d75094928acc6e18bb5a26e90)
+- [ ] [<code>#21077 Grammar improvements and fixes (#21078)</code>](https://github.com/dbeaver/dbeaver/commit/359a137b918c29ab5953493e772ced451c97749b)
+- [ ] [<code>#20920 Hide old Oracle SIGNED BINARY INTEGER data type from the list … (#21213)</code>](https://github.com/dbeaver/dbeaver/commit/4363861fb63b238ed24e4da54b5de8a66342e15d)
+- [ ] [<code>dbeaver/pro#1951 Fix broken quotes (#21215)</code>](https://github.com/dbeaver/dbeaver/commit/76898252cb2384dc059d65a9d12380863f3a99c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#20289 Add scrolling to MultiPageWizardDialog (#21181)</code>](https://github.com/dbeaver/dbeaver/commit/941bf35517c822a72878ab05a9a61aee8de15e72)
+- [ ] [<code>#19676 Save console as a script (#21142)</code>](https://github.com/dbeaver/dbeaver/commit/653cab6228bd90f4c664bcf959e561f1f0f5d831)
+- [ ] [<code>Cb 1036 server output log sql editor (#21198)</code>](https://github.com/dbeaver/dbeaver/commit/b6567a3316369232542d0a4cd216c3365f7d18d1)
+- [ ] [<code>#20988 move foreign table to separate folder in the navigator tree (#21246)</code>](https://github.com/dbeaver/dbeaver/commit/3c8823e3a1337c460e2729704a9739f0e6d24d84)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/pro#1954 clear superInheritance for partitions (#21247)</code>](https://github.com/dbeaver/dbeaver/commit/54a8eaa5b35dd75a01d9e73c961a9b029398031a)
+- [ ] [<code>dbeaver/dbeaver#20522 Remove `Entries per page` setting for QM (#21131)</code>](https://github.com/dbeaver/dbeaver/commit/9f0b24a88eea958e11867bae80d3e883e60af8aa)
+- [ ] [<code>#17675 read enum values as database cache; fix data types renaming (#21205)</code>](https://github.com/dbeaver/dbeaver/commit/c87edab6c46fea0be4921dec73bdf3c6bad79811)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1844 Get rid of IUserInterfaceTool (#21156)</code>](https://github.com/dbeaver/dbeaver/commit/e31bfd3b8644e415f5c1acd20ba98c3c5d95e41a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#1017 Add different ERD diagram types (#21183)</code>](https://github.com/dbeaver/dbeaver/commit/6faf7f5768e15c18447877ba2283361be89268c3)
+- [ ] [<code>dbeaver/pro#1862 Redirect awt browse requests to swt browser (#21136)</code>](https://github.com/dbeaver/dbeaver/commit/c0ea55aca57539ce5ae4c5a0799bb295eb7ff9fb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Version 23.2.1 bump</code>](https://github.com/dbeaver/dbeaver/commit/4480953201c805d4888c45207a894cbb38f121b4)
+- [ ] [<code>Version 23.2.1 bump</code>](https://github.com/dbeaver/dbeaver/commit/e6610bf202253273f7c9ef8a54678c5593f4973e)
+- [ ] [<code>Revert "dbeaver/dbeaver#20522 Remove `Entries per page` setting for QM (#21131)" (#21264)</code>](https://github.com/dbeaver/dbeaver/commit/e7989f5547716d31d1ec8d10247b9079173c730e)
+- [ ] [<code>AWT peer inject error handle</code>](https://github.com/dbeaver/dbeaver/commit/b48c6ec89d68fddf97944a44d03cbb973a92db43)
+- [ ] [<code>#21293 read enum values for databases that supported it (#21305)</code>](https://github.com/dbeaver/dbeaver/commit/892be26a46659e9c783754d080c11f79f383c488)
+- [ ] [<code>#21302 Fix tool task wizard finish (#21308)</code>](https://github.com/dbeaver/dbeaver/commit/74c6cc72fd3aa92e37378bcf343587fa5d6ebc3c)
+- [ ] [<code>dbeaver/pro#1959 configure browser earlier (#21285)</code>](https://github.com/dbeaver/dbeaver/commit/a9f71807a23fecce98d5bc66c4f42f4d30560744)
+- [ ] [<code>#21313 Acquire display in the UI thread (#21318)</code>](https://github.com/dbeaver/dbeaver/commit/81bc9b166359cd2565c2d79dc72c807c644e85ae)
+- [ ] [<code>dbeaver/pro#1962 Eclipse 2023-09 migration (#21317)</code>](https://github.com/dbeaver/dbeaver/commit/ffa362ac78d0fc57505d312052b8130a26bf58a7)
+- [ ] [<code>dbeaver/dbeaver#21299 handle not supported desktop and avoid initialisation if disabled (#21304)</code>](https://github.com/dbeaver/dbeaver/commit/dd3a35c4acc69aa05e38fb58bf14df972767639c)
+- [ ] [<code>Revert "dbeaver/pro#1962 Eclipse 2023-09 migration (#21317)"</code>](https://github.com/dbeaver/dbeaver/commit/b55eb2e6e4c4859eff2796cb55d5f22c8d04a868)
+- [ ] [<code>dbeaver/pro#1788 Network profiles refactoring (#21129)</code>](https://github.com/dbeaver/dbeaver/commit/7fb65c64f74985f153a89f79db91a76be70ec14a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#15951 UI unresponsive while loading a larger JSONB (#21134)</code>](https://github.com/dbeaver/dbeaver/commit/63d4f120ac1d82729c4dd951ef8f214a71143df8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#21273 fix consumer group creating for Exasol (#21320)</code>](https://github.com/dbeaver/dbeaver/commit/e22be16191092ff694bf94e1158dd95f3dedcabe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#935 add ability to map new data transfer objects names (#20756)</code>](https://github.com/dbeaver/dbeaver/commit/57f307e738818c1176616a9726a0d02a9a749cb2)
+- [ ] [<code>Include slf4j in product plugins</code>](https://github.com/dbeaver/dbeaver/commit/48f5889c7cf3c3c1d1f94a2fde79e88ef08a26a6)
+- [ ] [<code>#21286 supports Spanner FKs reading for schema with empty name (#21315)</code>](https://github.com/dbeaver/dbeaver/commit/6844863f25a645d833955c4485e8ea8306895d43)
+- [ ] [<code>CB-3930 redesign resource management api (#21197)</code>](https://github.com/dbeaver/dbeaver/commit/fc17bbcdcddb5959dc2a95d74a945c3bcf883c21)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/dbeaver#21342 Fix numeric formatting (#21343)</code>](https://github.com/dbeaver/dbeaver/commit/86aa7f7f7a43b0ec614e2a6290ddc0ac4bd4c51a)
+- [ ] [<code>dbeaver/dbeaver#19915 read values as double (#21261)</code>](https://github.com/dbeaver/dbeaver/commit/523f84b9467591ce16ab758bbeb88c66cfc2802d)
+- [ ] [<code>dbeaver/dbeaver#21237 Eclipse 2023-09 API support (#21352)</code>](https://github.com/dbeaver/dbeaver/commit/d7b53b98cd942dc8dac9590c733ac879b3b51011)
+- [ ] [<code>dbeaver/pro#1897 nio2 (#21340)</code>](https://github.com/dbeaver/dbeaver/commit/31196e92335b60d39519c52d766bd0535102dc5f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19676 Read data in SQL console (#21346)</code>](https://github.com/dbeaver/dbeaver/commit/e7cd7df90d0c016620d5ef559fa429cb9a5d93fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#20824 Materialize driver filter mz schemas (#20802)</code>](https://github.com/dbeaver/dbeaver/commit/afaf4403bd377966a449582b2bc6f94b2a039dc7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#21281 Don't apply mysql execute script task to any DBSDataManipulator (#21333)</code>](https://github.com/dbeaver/dbeaver/commit/56cf5b53c586e8185343bed592d22d5b9bcd9645)
+- [ ] [<code>dbeaver/dbeaver#21371 Objects delete fix (#21372)</code>](https://github.com/dbeaver/dbeaver/commit/9d6446ba9c5df6343962e49f975ff3e09e588365)
+- [ ] [<code>Allow auth model change for externally configured connections</code>](https://github.com/dbeaver/dbeaver/commit/4a47f6c789cf596e02a113495509b6282e958f51)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/26298fa5ed4430a20143b86e9c76dfa0d6275e6e)
+- [ ] [<code>dbeaver/pro#1961 ERD notations. Crowsfoot implementation support. (#21334)</code>](https://github.com/dbeaver/dbeaver/commit/e45910a37b506e749ee6f9876987ce1e2ee4da5c)
+- [ ] [<code>dbeaver/dbeaver#20522 Rename `Entries per page` setting (#21364)</code>](https://github.com/dbeaver/dbeaver/commit/8a0cc01ff757fad6b1841bff1ede911efc022738)
+- [ ] [<code>#16693 Reset settings on startup (#21017)</code>](https://github.com/dbeaver/dbeaver/commit/047ab574f4b7e86a684439b7e3fa77ee271e1162)
+- [ ] [<code>dbeaver/pro#1916 Disable project settings save/load for distributed projects</code>](https://github.com/dbeaver/dbeaver/commit/60bb7373a082ece632b9a5b215a24bec506b354a)
+- [ ] [<code>dbeaver/dbeaver#21358 fix NPE in the Calculation Panel (#21366)</code>](https://github.com/dbeaver/dbeaver/commit/24f4d71e580f24af19756d4df13d1df83366c110)
+- [ ] [<code>23.2.2 version bump</code>](https://github.com/dbeaver/dbeaver/commit/78dc8a3cd84f7054d40cc10844dc6233fdb16454)
+- [ ] [<code>#21283 Fix tool tasks wizard, fix restore on PostgreSQL schema (#21359)</code>](https://github.com/dbeaver/dbeaver/commit/3a0aac367ad1f8fb1270abffc9e83808f12d069e)
+- [ ] [<code>dbeaver/dbeaver#21250 do not create triggers without tables (#21367)</code>](https://github.com/dbeaver/dbeaver/commit/e4d3a5ced187c66040271867ebaa0e5a278f6c33)
+- [ ] [<code>dbeaver/pro#1907 Turn off experimental autocompletion by default (#21403)</code>](https://github.com/dbeaver/dbeaver/commit/751611ecc223da46f7b0a77dbdb827fcb6bb4a5b)
+- [ ] [<code>dbeaver/pro#1605 add custom endpoint configuration & UI refactoring (#20069)</code>](https://github.com/dbeaver/dbeaver/commit/4d5c7c75d9b7cff13af6c1fe6b0875f114e12ab8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-3839. Added async error events messages for te (#21236)</code>](https://github.com/dbeaver/dbeaver/commit/26e900a867f9327d635ff186f780616d7d5262e1)
+- [ ] [<code>dbeaver/dbeaver#21312 Set row color for result set (#21351)</code>](https://github.com/dbeaver/dbeaver/commit/576c20afb3a59592aea549be61ded2c693d3c46a)
+- [ ] [<code>#20958 Clickhouse array map (#21376)</code>](https://github.com/dbeaver/dbeaver/commit/dec29a07754d9bb366dcbb5369e68f26a7279615)
+- [ ] [<code>dbeaver/pro#1604 create correct Redshift provider/driver copies (#21370)</code>](https://github.com/dbeaver/dbeaver/commit/aa61e2097a900889413147365665a0e98e1a7693)
+- [ ] [<code>#19866 Find node with missing nodes in-between (#21330)</code>](https://github.com/dbeaver/dbeaver/commit/e69345d750e4d3f5c50b7372706d6435a07ddce6)
+- [ ] [<code>CB-3917-support-other-ways-of-iam-auth-without-access-secret-keys (#21379)</code>](https://github.com/dbeaver/dbeaver/commit/7536d21c45e93c149f981a9da67617cbe29b2ce0)
+- [ ] [<code>CB-3930 fs gql api (#21368)</code>](https://github.com/dbeaver/dbeaver/commit/117f9dca76e5b2f381894c3c92a6646057b43538)
+- [ ] [<code>Add support driver for Dameng (#21186)</code>](https://github.com/dbeaver/dbeaver/commit/10a88d80ef186dd6a11826e4d5bd62ea2d9b8bd0)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1605 AI config hint</code>](https://github.com/dbeaver/dbeaver/commit/390fede650b1b63accdff9971331caef89ee2dac)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/1a56ecd7697ed83ebc49ff5f3a9b4576379dc287)
+- [ ] [<code>dbeaver/dbeaver#21362 added Firebird Keywords. (#21365)</code>](https://github.com/dbeaver/dbeaver/commit/47403dbaa862cee97380ed751430f8826e80da4c)
+- [ ] [<code>#6861 Introduce multiple results per tab mode (#21280)</code>](https://github.com/dbeaver/dbeaver/commit/048aa1845e7613c8a9b8ee1870f28fd54f0400e4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#18965 use old timezone during connect (#21090)</code>](https://github.com/dbeaver/dbeaver/commit/99c175b5b08ec5e1f863bce6c382090a17fb402a)
+- [ ] [<code>dbeaver/dbeaver#19928 support correct Default Preferences for Prefere… (#21255)</code>](https://github.com/dbeaver/dbeaver/commit/b4bb846f829318b80d2cd7d9e6f592e4758adb62)
+- [ ] [<code>CB-3943 support bigtable and spanner (#21065)</code>](https://github.com/dbeaver/dbeaver/commit/40d3b15edd47bce35e048f9d999607bf172b15d6)
+- [ ] [<code>#3052 Add `go to column` command, add search for metadata panel (#21422)</code>](https://github.com/dbeaver/dbeaver/commit/a778614111f325f85a5ef9ad4741a63cbd6251db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#21355 change max data type length for import in a new… (#21406)</code>](https://github.com/dbeaver/dbeaver/commit/362d12a7ceaac96b5b2b4ea1197471bc947f95e0)
+- [ ] [<code>CB-3545 te try to get embedded driver files from rm home directory (#21386)</code>](https://github.com/dbeaver/dbeaver/commit/c51ca6503b89627107a5316d6057f94cbf96b6fe)
+- [ ] [<code>#19054 use global store for native tasks; do not fix file names patterns after loading (#21420)</code>](https://github.com/dbeaver/dbeaver/commit/596418488133e09fb9d167cb0093d0f53f09c68a)
+- [ ] [<code>dbeaver/dbeaver#21426 fix foreign table UI label (#21427)</code>](https://github.com/dbeaver/dbeaver/commit/569a21b4ae5ceaea1fc7bd2450e13687ed6c4c7e)
+- [ ] [<code>dbeaver/dbeaver#21399 relation btw close entities (#21402)</code>](https://github.com/dbeaver/dbeaver/commit/3aa77894dd028c37b04d48ba110721379a112449)
+- [ ] [<code>Dbeaver/dbeaver#20655 autocomplete multicolumn (#21357)</code>](https://github.com/dbeaver/dbeaver/commit/10ca9509d608e4028cf2697da6ec9e92cabfe57f)
+- [ ] [<code>Update popular databases</code>](https://github.com/dbeaver/dbeaver/commit/6f6571ed983e01066be0bb3fe46280912efa80db)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/3c057b0abbed6fb77a72ca5226e2daa3229d530d)
+- [ ] [<code>dbeaver/pro#1986 don't show deleteContentsCheck in distributed app (#21429)</code>](https://github.com/dbeaver/dbeaver/commit/8956f6acc894c6f54265533584b2ccbfa1e71444)
+- [ ] [<code>ERD editor revert</code>](https://github.com/dbeaver/dbeaver/commit/ee50bdb0f9d57077e2f74ddd7bcab6bb61f74511)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/97587e9e67359f10a38ef9403eda7f5eaff717be)
+- [ ] [<code>#21431 fix default value for QM Pref page and for dictionaries page (#21434)</code>](https://github.com/dbeaver/dbeaver/commit/a2abb71344750de8da58ead50e0e52ccc4d6c0d2)
+- [ ] [<code>CB-4085 dispose project after task finished (#21455)</code>](https://github.com/dbeaver/dbeaver/commit/910be9604fac46dc183dca121c817f90ddc78083)
+- [ ] [<code>23.2.2 version bump</code>](https://github.com/dbeaver/dbeaver/commit/498ea44ebbbc8e6251a0451d012e648c3ddb2ae3)
+- [ ] [<code>dbeaver/pro#1962 Eclipse 2023-09 migration part 2 (#21331)</code>](https://github.com/dbeaver/dbeaver/commit/8bbfba1d197956c7dfad21b77b441c47ff31c400)
+- [ ] [<code>dbeaver/pro#1841 auto fit columns during export (#21382)</code>](https://github.com/dbeaver/dbeaver/commit/3801e316424fc1fff91de9e697d3de96970d525e)
+- [ ] [<code>#21458 Copy from row above/below fix (#21459)</code>](https://github.com/dbeaver/dbeaver/commit/da4705b9f759b7997eccd3023cf3418118bef189)
+- [ ] [<code>#21435 Fix close all tabs action in special case (#21474)</code>](https://github.com/dbeaver/dbeaver/commit/224394c6a9ecbcb21b0a8bcc475d7129e281d806)
+- [ ] [<code>dbeaver/pro#1988 Fix variable lookup (#21454)</code>](https://github.com/dbeaver/dbeaver/commit/63340fc72945585d770c13e65b167e7cceff6a4a)
+- [ ] [<code>CB-4028 delete/add api for permissions (#21328)</code>](https://github.com/dbeaver/dbeaver/commit/d7eddc89b2c7dcd04d96933eed1c529adbd0d044)
+- [ ] [<code>#21488 fix incorrect keywords order for generated SQL for foreign keys (#21490)</code>](https://github.com/dbeaver/dbeaver/commit/82af8201f9a3a88a5b76d517e77952f56fbdee9c)
+- [ ] [<code>dbeaver/pro#2000 Java 17 (#21497)</code>](https://github.com/dbeaver/dbeaver/commit/6e7646d2a91a56645a4a0987f5a5161bb3b7523d)
+- [ ] [<code>#21310 Remove web browser settings page (#21472)</code>](https://github.com/dbeaver/dbeaver/commit/a054cfd3a1fd22c6908b96abbf98198cf3b3a1ff)
+- [ ] [<code>23.2.3 version bump</code>](https://github.com/dbeaver/dbeaver/commit/0bb977815cc6aedf15c8e1f48f47205ea26b1d06)
+- [ ] [<code>dbeaver/pro#1900 tasks virtual fs (#21361)</code>](https://github.com/dbeaver/dbeaver/commit/b9630046b7d803e1dd32b60a53af3f14868be982)
+  - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1993 hide single catalog by default for OpenEdge to avoid incorrect path creating for tasks (#21486)</code>](https://github.com/dbeaver/dbeaver/commit/cf9cde5d45f10d0977c24612d845c711aa579682)
+- [ ] [<code>dbeaver/pro#1438 fix quoted schemas/tables DDL reading (#21484)</code>](https://github.com/dbeaver/dbeaver/commit/b2cf7800b1eeae28f2abd6be1431fdcda247be16)
+- [ ] [<code>dbeaver/pro#2003 Fix output folder path (#21512)</code>](https://github.com/dbeaver/dbeaver/commit/cb0d3688d6f7f16022ed8909066ab7b34d9aaf6a)
+- [ ] [<code>DS label is optional</code>](https://github.com/dbeaver/dbeaver/commit/e4ca2d7682ffa4a0f51cba44f53e36762645f2ef)
+- [ ] [<code>#21520 Database import task fix (#21521)</code>](https://github.com/dbeaver/dbeaver/commit/9964e1bf60e2ec8a6016c240b75a1e8e80771fd4)
+- [ ] [<code>Java 17 language level</code>](https://github.com/dbeaver/dbeaver/commit/08c93c110d22d2aa31b3e96445ccb7dcd30a74ce)
+- [ ] [<code>CB-3454 ai settings (#21360)</code>](https://github.com/dbeaver/dbeaver/commit/50dfa63e08ec22bab20f1380d1add5bf3f4043fe)
+- [ ] [<code>Fixing mistakes in the translation in the bundle_pt_BR.properties (#21498)</code>](https://github.com/dbeaver/dbeaver/commit/86c98c9e1e7d6fb2b2fbf6315ef9d80c01e1fd0b)
+- [ ] [<code>Delete object dialog layout fix</code>](https://github.com/dbeaver/dbeaver/commit/16cbaa5adf988c2a82bf6f8c99c1a12d759f7b41)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/553070eedfc42a7906ab1374535eba11d68aa74b)
+- [ ] [<code>#20416 statistics tab (#21500)</code>](https://github.com/dbeaver/dbeaver/commit/b0cd0b7356ab2bcc6ad844de26bb38d5e8e4a973)
+- [ ] [<code>dbeaver/pro#2009 Change shortcut for `Go to column` command (#21526)</code>](https://github.com/dbeaver/dbeaver/commit/bb2afc32f58678f6dc3e629554dec7ac690ee5fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Cb 3877 add ssl tab for all databases that support it (#21444)</code>](https://github.com/dbeaver/dbeaver/commit/bfab245c4020db2e5b10fcf9d6ec0ea27cb764b8)
+- [ ] [<code>Feat/cb 3704/data editor blob uploading (#21477)</code>](https://github.com/dbeaver/dbeaver/commit/8b28b1dee07a9a67cd581b76676b33e66d6a3ea2)
+- [ ] [<code>dbeaver/pro#1905 UTF-8 is the default file encoding (#21513)</code>](https://github.com/dbeaver/dbeaver/commit/a1c5ca988544a58c1ab0b62b6d87ff5d0a280b5b)
+- [ ] [<code>dbeaver/pro#1721 remove patches from erd (#21515)</code>](https://github.com/dbeaver/dbeaver/commit/a9e9c2c4915b04d70397884e1668595912d498d9)
+- [ ] [<code>dbeaver/pro#1976 use dialect comments for ai comments & fix comments in mongo selects (#21511)</code>](https://github.com/dbeaver/dbeaver/commit/c956ed70ca5ee7f42ac60b8f2a2cb504af05c52d)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/32421f4425be23f2848f30c5a101cbcfe42f7808)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/41c0ae6360ab981bf2312f18bbf6ecd908e52dfe)
+- [ ] [<code>dbeaver/pro#1902 Disable data export and copying data (#21480)</code>](https://github.com/dbeaver/dbeaver/commit/f351b9383643a64063627242cfe340360f3648f0)
+- [ ] [<code>#21536 Remove duplicated controls on QM pref page (#21539)</code>](https://github.com/dbeaver/dbeaver/commit/a3931b739a29dc3150577c2f97d6d670f3868315)
+- [ ] [<code>dbeaver/pro#1971 skip parameter numbers used instead names in old PG versions (#21525)</code>](https://github.com/dbeaver/dbeaver/commit/1c26da754b5e00f95b5c38f44614d1c01d3403c0)
+- [ ] [<code>Revert "dbeaver/pro#1902 Disable data export and copying data (#21480)"</code>](https://github.com/dbeaver/dbeaver/commit/f20c0bd18947e2a7847637a07aa7ba4dabc46a23)
+- [ ] [<code>dbeaver/dbeaver#21398 One-to-one relationship shown as one-to-many (#21548)</code>](https://github.com/dbeaver/dbeaver/commit/4587c81557fa654fe70e23ec0fd51b5957c2055e)
+- [ ] [<code>#21532 Turn off `Open auth links in the embeddedbrowser` by default (#21537)</code>](https://github.com/dbeaver/dbeaver/commit/56124230aa5fc7edfdb317a22baf773e5e8514b9)
+- [ ] [<code>dbeaver/pro#1902 Disable data export operation (#21555)</code>](https://github.com/dbeaver/dbeaver/commit/26d80d5416a07164a77c64093b1d1f5684f485bd)
+- [ ] [<code>#19234 add ability to see performance info in the Session Manager (#21538)</code>](https://github.com/dbeaver/dbeaver/commit/cb1cbf881eaf00ca5f51563eacdcf8716ae363ce)
+- [ ] [<code>dbeaver/dbeaver#21467 fix no datasource update (#21541)</code>](https://github.com/dbeaver/dbeaver/commit/9fac642bf024dfdce631d87d84bac062a3e150c2)
+- [ ] [<code>#18312 Complete some Simplified Chinese localization work (#21381)</code>](https://github.com/dbeaver/dbeaver/commit/2c24ae32beb3af1984d541a1be6b97f3f86729fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#21554 AI default processing fix</code>](https://github.com/dbeaver/dbeaver/commit/f04b3370a55667fb74f046ef36b5ab256d402e51)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/0f3d718634e58c946879294c4e836c1fc38beee9)
+- [ ] [<code>dbeaver/pro#20388 show as map (#21542)</code>](https://github.com/dbeaver/dbeaver/commit/fb068b24d6f6bd2ee2f01cdae6690a97ce67987e)
+- [ ] [<code>CB-4046 add events (#21535)</code>](https://github.com/dbeaver/dbeaver/commit/2d4d3ea1f87f7055d03f21a5e7557a55213322f5)
+- [ ] [<code>dbeaver/dbeaver#21554 fix legacy settings for getModelName (#21568)</code>](https://github.com/dbeaver/dbeaver/commit/c3660e409937e577f690827789323bcef9f548e6)
+- [ ] [<code>dbeaver/pro#1966 open in external browser (#21489)</code>](https://github.com/dbeaver/dbeaver/commit/628daa4c508b86e4ad88eba61d2bf6319b894652)
+- [ ] [<code>#20952 load setting before objects and set selection to data source i… (#21496)</code>](https://github.com/dbeaver/dbeaver/commit/b7b100c0b723a67757d3b2bf8a2a3a9bdd28b7b9)
+- [ ] [<code>dbeaver/pro#1893 Support data import from remote FS (#21528)</code>](https://github.com/dbeaver/dbeaver/commit/f8bb72efd30eeb89c3c6e5e9f70f47656fcf5565)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1949 Disable install update operation (#21569)</code>](https://github.com/dbeaver/dbeaver/commit/8b7c212688376d5f84975ee07b345388f03433f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-4132 load der from pem for cb (#21571)</code>](https://github.com/dbeaver/dbeaver/commit/13cb0fc71f2cbdac54aad21c4458d21adc6c56eb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/#21573 Adjust preference page layout for Diagram Editor Page (#21575)</code>](https://github.com/dbeaver/dbeaver/commit/eeb42d67122e5a4e488c2cab2feb1315eb52ec80)
+- [ ] [<code>CB-3930 use rm provider for rm fs (#21414)</code>](https://github.com/dbeaver/dbeaver/commit/eee0ada2665bf0613ef48fc6a757d9710d06bcf2)
+- [ ] [<code>Button enablement function</code>](https://github.com/dbeaver/dbeaver/commit/c3e91a62c0889179de1ac9c638302e0ee03d022e)
+- [ ] [<code>JSON utils update</code>](https://github.com/dbeaver/dbeaver/commit/cfc88ca888b8ab1df5e2264eedf071017d243a46)
+- [ ] [<code>#21608 Make combo box with settings about statistics tab to be readonly (#21609)</code>](https://github.com/dbeaver/dbeaver/commit/cdfa1095bffc27e614e0a9fb44df4f13546f34af)
+- [ ] [<code>CB-3959 ui-file-system-navigator-view (#21570)</code>](https://github.com/dbeaver/dbeaver/commit/2f06384b894aed02f7dc3312fb3a3cb6615c9766)
+- [ ] [<code>MySQL export fix (config dup)</code>](https://github.com/dbeaver/dbeaver/commit/304d9b8a092cf844a745451bca9985a6ee74bba8)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/9b3e30945c08488b368ad1d33f9ea1ea295fcbfd)
+- [ ] [<code>dbeaver/dbeaver#21611 NIO path resolve fix (#21612)</code>](https://github.com/dbeaver/dbeaver/commit/41150073139170525dbd665167675dd3ae2c3153)
+- [ ] [<code>dbeaver/pro#2017 Service accounts configuration</code>](https://github.com/dbeaver/dbeaver/commit/fab23bb873c9ebd9a2e46598f502e4dd6b7405ab)
+- [ ] [<code>dbeaver/pro#2025 Don't load variables if they don't exist (#21606)</code>](https://github.com/dbeaver/dbeaver/commit/a23c978bcb98dda3202d3f33ad7b9b99d45be3ab)
+- [ ] [<code>dbeaver/pro#2024 Remote folders create fix (#21597)</code>](https://github.com/dbeaver/dbeaver/commit/513cd6d687cb2599f0d4c88491e8b141fc405ccf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/c483a5e3ff3f8e4801b31dc925e2d9a63532bbce)
+- [ ] [<code>CB-4099. Create logic for save comfig and user for CB TE. (#21577)</code>](https://github.com/dbeaver/dbeaver/commit/aedd60663670206556ab3aed97979d38198b9b2f)
+- [ ] [<code>dbeaver/pro#2019 Missing icons fix (#21578)</code>](https://github.com/dbeaver/dbeaver/commit/78886b5de7b337ad250c6cff00838b6e693dc7d5)
+- [ ] [<code>#20984 Add Refresh button for Generate DDL dialog (#21625)</code>](https://github.com/dbeaver/dbeaver/commit/b28432a2442ac4906e8f174f0b93c12198e0288b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-4143 event datasource folders fix (#21627)</code>](https://github.com/dbeaver/dbeaver/commit/fb989655a38111fb1a6a8275cf4a0e69f4fdc50f)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/99b4710f3b0713cd47a92aeb65383cb3e7977c1d)
+- [ ] [<code>#21519 search Oracle package bodies as packages (#21605)</code>](https://github.com/dbeaver/dbeaver/commit/a754ff4b968f760977d7dc2cbfe096fb57a198b0)
+- [ ] [<code>dbeaver#20446 added UUID Postgre keyword (#21461)</code>](https://github.com/dbeaver/dbeaver/commit/cbc4ccf32ca0dd217dceb3877c7e69f128996fd4)
+- [ ] [<code>dbeaver/pro#1907 Grammar improvements (#21482)</code>](https://github.com/dbeaver/dbeaver/commit/20c03fdbe245dad8085113297d3cca4e2a50baca)
+- [ ] [<code>#20769 Sort resources alphanumerically (#21635)</code>](https://github.com/dbeaver/dbeaver/commit/72f3c9abd01af16ddb3266304041c683a0bafff5)
+- [ ] [<code>dbeaver/pro#2023 Remove `Delete empty script` option from distributed applications (#21632)</code>](https://github.com/dbeaver/dbeaver/commit/775c3aedd52870ada3a91f78e9f3de7c2874d81a)
+- [ ] [<code>dbeaver/pro#2010 Add timeout for the instance controller's `ping` method (#21636)</code>](https://github.com/dbeaver/dbeaver/commit/9e183f9449489b2c0ff4c2dca4365661216bbc85)
+- [ ] [<code>Revert "dbeaver/pro#2017 Service accounts configuration"</code>](https://github.com/dbeaver/dbeaver/commit/733e552eb2e4765b363b49af147a0c6bcb4beaa9)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/c763869f48534c7fa160ca8cd093703a3a861401)
+- [ ] [<code>dbeaver/pro#1886 AI chat (#21493)</code>](https://github.com/dbeaver/dbeaver/commit/a598012b1e9c39b0f61ba00288e9e22d103b07df)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1978 SSO sign out (#21401)</code>](https://github.com/dbeaver/dbeaver/commit/6dbf7590c4346eac97bcb1fe1e65aae1b4981f62)
+- [ ] [<code>dbeaver/dbeaver#14804 show default privileges for PG and forks; abili… (#21553)</code>](https://github.com/dbeaver/dbeaver/commit/11e4910a71915045b482b3836a4a9ba09749cdce)
+- [ ] [<code>#21618 fix new required columns creating SQL; add base table DDL and dialect tests for SQLite (#21624)</code>](https://github.com/dbeaver/dbeaver/commit/9856375b76fde137d80ef7d3861051cf3c216e6c)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/fb7869639ffed17080eb99fe105dd2b4c5dbd9c2)
+- [ ] [<code>Multitab command in menu</code>](https://github.com/dbeaver/dbeaver/commit/dd04e27bbb1388ee8b0ecfdd48e044ecc872b43f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Multitab command in menu</code>](https://github.com/dbeaver/dbeaver/commit/c5c5eafdee3a155e561a3b0c3c201cece8eb8a37)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#21604 Prevent application hanging when saving changed in binary editor (#21657)</code>](https://github.com/dbeaver/dbeaver/commit/47d86c6b0c1a4756bba0d8266c0db6e0327e43cd)
+- [ ] [<code>Cb 4112 open scripts datasets from virtual file systems (#21660)</code>](https://github.com/dbeaver/dbeaver/commit/8d3a4f859fcc37888abac584bce2c8480aa653bc)
+- [ ] [<code>CB-4125 change fs root node type (#21673)</code>](https://github.com/dbeaver/dbeaver/commit/0591dedbbffc138208198442954f5b20e5256031)
+- [ ] [<code>dbeaver/pro#1918 Check if scheduler supports opening external settings (#21634)</code>](https://github.com/dbeaver/dbeaver/commit/aa22f5c14283694f3ca939d1b0f1702c1765ed57)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/a733d069c959435d7df48527412f3800d1d737a4)
+- [ ] [<code>Remove outdated docs/build.txt (#21642)</code>](https://github.com/dbeaver/dbeaver/commit/4c8f655d24f88dca41960e021ab1cde9dda1dca6)
+- [ ] [<code>#21501 Resource name decoding fix (#21668)</code>](https://github.com/dbeaver/dbeaver/commit/3a7143abd91d4412406c13bf5e5cb22db9f603f5)
+- [ ] [<code>File system icons + props cache</code>](https://github.com/dbeaver/dbeaver/commit/892e381ead1c32a476d8be859a12ca4bd36b27a7)
+- [ ] [<code>dbeaver/pro#2014 fix sequences permissions reading for quoted roles (#21626)</code>](https://github.com/dbeaver/dbeaver/commit/9588a441f8dd81e64f174c383215e4fb40c39b1b)
+- [ ] [<code>#21442 #21443 Fix create schema with the existing schema's name. (#21468)</code>](https://github.com/dbeaver/dbeaver/commit/b3e9f4f80d994b9a8575d177d19eace8fe9597de)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2001 Fix ".exsd" files (#21696)</code>](https://github.com/dbeaver/dbeaver/commit/3f256c1ade867d0c56f8b3c94e0bfa5dbef791b4)
+- [ ] [<code>#21373 Add completion for update statements (#21662)</code>](https://github.com/dbeaver/dbeaver/commit/f86237a8e33fe78ae8915458fcda8d305ccd4492)
+- [ ] [<code>dbeaver/dbeaver#21589 Autocomplete on columns in where clause not (#21692)</code>](https://github.com/dbeaver/dbeaver/commit/15bc03388206c5b0520718e5ab8ed3c30c94cff2)
+- [ ] [<code>dbeaver/pro#2017 cloud service credentials (#21656)</code>](https://github.com/dbeaver/dbeaver/commit/25a5f080de8631d3c3f733c30659b842879648be)
+- [ ] [<code>CB-3778-bug-use-oracle-as-internal-db (#20910)</code>](https://github.com/dbeaver/dbeaver/commit/98ee89d211a8af936cb051b88c8bb66389173d7a)
+- [ ] [<code>CB-4131. Check if parameter in data-source.json nullable. (#21682)</code>](https://github.com/dbeaver/dbeaver/commit/56fd6a2afdfe5cd4455bdea9d8a3d3c8b0171529)
+- [ ] [<code>CB-4180 fix node name (#21707)</code>](https://github.com/dbeaver/dbeaver/commit/ef69f439563493e87a7451f33c7a1428065d7a4a)
+- [ ] [<code>dbeaver/dbeaver#21278 add left align to title and add spaces to title (#21693)</code>](https://github.com/dbeaver/dbeaver/commit/f7e6d16b715afe6516c76033845e60c5ab911deb)
+- [ ] [<code>DND files fix</code>](https://github.com/dbeaver/dbeaver/commit/dc7b8cceb0105b2482371cdebee3ca83ca35da3e)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/8cf4b86ccd69a870421984c7fedc91d2ce50c498)
+- [ ] [<code>dbeaver/pro#1815 Validate ssh jump server host is not empty (#21679)</code>](https://github.com/dbeaver/dbeaver/commit/af9b1501deec6e3a8da30a3a2a905ff560b5300a)
+- [ ] [<code>CB-4112 change fs node type (#21706)</code>](https://github.com/dbeaver/dbeaver/commit/ccf336fa64859f5f232df5cda20bdab653cf2181)
+- [ ] [<code>dbeaver/pro#1899 GCP FS (#21686)</code>](https://github.com/dbeaver/dbeaver/commit/570a7ae9379ac12596eb5a96878fee1251568673)
+- [ ] [<code>#21151 do not update attribute names for quoted attributes (#21714)</code>](https://github.com/dbeaver/dbeaver/commit/4973079c4bd20e3d45b6b9ecf316b2857c364184)
+- [ ] [<code>dbeaver/dbeaver#21522 Message bar content improved, added logic to hide/show panel. (#21704)</code>](https://github.com/dbeaver/dbeaver/commit/a6715f40a2ee7f552bbf6b608ae1ba993dc4f04d)
+- [ ] [<code>Simultaneous job execute enhancement (thread limit)</code>](https://github.com/dbeaver/dbeaver/commit/99e8185ec22fa0f3b416515267e387e9cf1113be)
+- [ ] [<code>NIO nodes DnD fix</code>](https://github.com/dbeaver/dbeaver/commit/245942aa98f8ae601c904627aecf80cba869bf27)
+- [ ] [<code>CB-4127 ssl show certificates (#21685)</code>](https://github.com/dbeaver/dbeaver/commit/8b8baee3558315098d4997a5b06b07dbda06f405)
+- [ ] [<code>Eclipse repo reference fix</code>](https://github.com/dbeaver/dbeaver/commit/a12b296c32f4f3662791957e38abd0a7bfc6d614)
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/b6aee36510b1974ea2ac51f6c574d07cf1856d87)
+- [ ] [<code>dbeaver/pro#2008 jdbc class loader (#21678)</code>](https://github.com/dbeaver/dbeaver/commit/901d7890045249e17fedbc0ec2c6e1b4bf3e230b)
+- [ ] [<code>#21125 remove accessibility binding (#21722)</code>](https://github.com/dbeaver/dbeaver/commit/7213c85643fdfb6cb3ef4035411fc861b8ad8ea2)
+- [ ] [<code>#21711 Show a special note pointing that items are filtered (#21715)</code>](https://github.com/dbeaver/dbeaver/commit/4107cdf8ab59a1942ac70db21d25ba78bc10c515)
+- [ ] [<code>dbeaver/dbeaver#16703 Improve path readability for ER diagrams with (#21675)</code>](https://github.com/dbeaver/dbeaver/commit/64ee60f7febda2a09e250c0505361e2bc43c904f)
+- [ ] [<code>CB-3844 tm use qm (#21699)</code>](https://github.com/dbeaver/dbeaver/commit/46a0ccdc9d0ef2cd16ad06b2fdf2f04830a5e577)
+- [ ] [<code>dbeaver/pro#2026 AI chat improvements (#21683)</code>](https://github.com/dbeaver/dbeaver/commit/d2f2ef3191450d17e368d8923988c11240742a83)
+- [ ] [<code>23.2.4 version bump</code>](https://github.com/dbeaver/dbeaver/commit/d5d7f755fbe9407564112bf9cf22d73b68fa29df)
+  - <sub>Tags: <code>23.2.4</code></sub>
+- [ ] [<code>Java 17 code style + formatting</code>](https://github.com/dbeaver/dbeaver/commit/f11f8666536840495ca69b5191e70f4f81883fe7)
+- [ ] [<code>Path dnd fix</code>](https://github.com/dbeaver/dbeaver/commit/809a0ca8201990ae2ce7036e1069c9b2fb44c630)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/4263c9223bbb84a129f2e08e0d8cc643c7dc8b64)
+- [ ] [<code>dbeaver/pro#2063 NIO FS events propogation fix (#21752)</code>](https://github.com/dbeaver/dbeaver/commit/d916c7b3a22ffd362511add336f4eb67eeb41920)
+- [ ] [<code>#21720 add the drop statement part for routines definition (#21729)</code>](https://github.com/dbeaver/dbeaver/commit/6df42d0eac0b61ac8d1e3b4e1eb234d82b374db3)
+- [ ] [<code>#21757 support conditional NULL/NOT NULL modifiers (#21758)</code>](https://github.com/dbeaver/dbeaver/commit/778588465017202f6fac66b0e0f076fee44bad64)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-3971 add main auth flag (#21751)</code>](https://github.com/dbeaver/dbeaver/commit/de40b4eae8002cc4404eeb53d22d8bc8a953fce6)
+- [ ] [<code>l10n(zh_TW): Update a wrong translation of bundle_tw.properties (#21781)</code>](https://github.com/dbeaver/dbeaver/commit/53c450fa81ab6d4e33e45275735002607b81e558)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#21773 fix quoted columns search for correct mapping (#21778)</code>](https://github.com/dbeaver/dbeaver/commit/e2bd844c8329022e8fa057553f3b2eac58e480de)
+- [ ] [<code>FS sort fix</code>](https://github.com/dbeaver/dbeaver/commit/206b78853d5b63dd33b52fe1e4ca8f8234f799e8)
+- [ ] [<code>Cleanup es localizations</code>](https://github.com/dbeaver/dbeaver/commit/c66bd4b7b7189a92d76049baeb92827600535300)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/19c74e4b7cde62958d341627aed565c6dddfdee2)
+- [ ] [<code>dbeaver/pro#2073 Save URIs in tasks (#21775)</code>](https://github.com/dbeaver/dbeaver/commit/fc2df2a0678f8d3bd01b226bba0dff1d462026e8)
+- [ ] [<code>dbeaver/dbeaver#21779 Hana dialect enhancement with tests (#21792)</code>](https://github.com/dbeaver/dbeaver/commit/c4fb8c81d693c07acc653fdb57a4204b00214057)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#4478 add indexes for materialized views with ability to create/drop them (#21731)</code>](https://github.com/dbeaver/dbeaver/commit/24c3864c5d33dcf8223e6816f6ab4f8c99fa9f13)
+- [ ] [<code>dbeaver/pro#2030 update major poi version (#21790)</code>](https://github.com/dbeaver/dbeaver/commit/ace8d91a0e39e4ba9b56d937e48b89194fb05df8)
+- [ ] [<code>dbeaver/dbeaver#16517 add ability to add/delete/modify partitions/sub… (#21725)</code>](https://github.com/dbeaver/dbeaver/commit/db2056777e889174a9165130bb7c41cd1e1227f4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#19188 Strip comments before JSQL parser parsing, add # comments to our lexer (#21800)</code>](https://github.com/dbeaver/dbeaver/commit/1777935056ba7d9269b4bdb392282b47176e2608)
+- [ ] [<code>dbeaver/pro#1776 Extended JAWS support (#21405)</code>](https://github.com/dbeaver/dbeaver/commit/4bf6b33b24f20300f9f96161ff6548ce361c19a2)
+- [ ] [<code>dbeaver/pro#1990 update rename table statement, index creation and ca… (#21791)</code>](https://github.com/dbeaver/dbeaver/commit/90611888bca6de5cd0748ce40a68689050cc2e2e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#20272 Make keep alive setting clearer (#21767)</code>](https://github.com/dbeaver/dbeaver/commit/7be7d29bb9a985b7305ed312e0c1d619e9d196bd)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/6a590ea4ea7d4b7c512ca821255b81ce4558f0f7)
+- [ ] [<code>dbeaver/dbeaver-devops#838 added commented p2 dep repos (#21795)</code>](https://github.com/dbeaver/dbeaver/commit/eaea19ca94c44c71ba3543f5715aa6ba5adb2792)
+- [ ] [<code>Adding SQL Server No Lock keyword (#21787)</code>](https://github.com/dbeaver/dbeaver/commit/42d2a4613a157766240f04b1ce41c0dd7f3436c1)
+- [ ] [<code>CB-4154 rp add te role header and auth log (#21807)</code>](https://github.com/dbeaver/dbeaver/commit/e9d70f564f2ae90dc7e589b7c35dad9c2f4a84c6)
+- [ ] [<code>CB-4056 option to use other db for qm in cb (#21782)</code>](https://github.com/dbeaver/dbeaver/commit/051eb57360c00d290fd2a2e3b9c854f3df579479)
+- [ ] [<code>dbeaver/pro#2055 AI chat improvements (again) (#21737)</code>](https://github.com/dbeaver/dbeaver/commit/ecbeb1b73294083a29a4b6bcd617c10a0f82077f)
+- [ ] [<code>23.2.5 version bump</code>](https://github.com/dbeaver/dbeaver/commit/2d3fe8ff5f4ee24c144ae3664df8bdad6b65528f)
+- [ ] [<code>CB-4198 apply changes in navigator node fix (#21803)</code>](https://github.com/dbeaver/dbeaver/commit/85fe57b4cffc10de0832336844bc4deab3de2043)
+- [ ] [<code>#10831 Color column and table names separately (#21788)</code>](https://github.com/dbeaver/dbeaver/commit/adc84a385d74e8cd6e3935f1f326bea28f345569)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#21676 datasource navigator  select null when mouse click on an empty space (#21771)</code>](https://github.com/dbeaver/dbeaver/commit/1e55203d46f3118c67f77e205bceff92c4495cf3)
+- [ ] [<code>#21796 use full data types names for user-defined types and keep modifiers for standard types (#21815)</code>](https://github.com/dbeaver/dbeaver/commit/c70bfd314043bb2a1f285f3f0108e3232cc6bf6f)
+- [ ] [<code>CB-4015 extract common class for row data receiver (#21819)</code>](https://github.com/dbeaver/dbeaver/commit/c6a988545c8f0ff19c11e52bda6a6c2c0aed0ecc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2091 Small UI improvements (#21836)</code>](https://github.com/dbeaver/dbeaver/commit/58b4142e049b1a013d6f6820ffc65766cad62e1a)
+- [ ] [<code>dbeaver/pro#2075 Don't ask to close if emergency close is in progress (#21838)</code>](https://github.com/dbeaver/dbeaver/commit/5ce5894ca1d81093dbad6214a0c561756be49902)
+- [ ] [<code>dbeaver/pro#2049 Notation switch doesn't work in a custom ER Diagram (#21844)</code>](https://github.com/dbeaver/dbeaver/commit/f26730ce5aa2e0691eaad565429507935209025c)
+- [ ] [<code>(fix) misspelled words in Pt-BR translation (#21811)</code>](https://github.com/dbeaver/dbeaver/commit/0de8ff2fc2a6aa9bf72ed62f9caa6038dd725f41)
+- [ ] [<code>dbeaver/pro#1895 azure storage (#21799)</code>](https://github.com/dbeaver/dbeaver/commit/79c774826cc712b74be3724db9bb158aa70a11a3)
+- [ ] [<code>dbeaver/pro#2096 Use product feature to check multi FS mode (#21837)</code>](https://github.com/dbeaver/dbeaver/commit/fa2069e28e1504dfdfbac0ed04feb1b48afc5166)
+- [ ] [<code>#7760 Handle commit and rollback statements execution in manual commit mode (#21801)</code>](https://github.com/dbeaver/dbeaver/commit/e0efdb011e3dc2454d109695a6b262b1a50a3940)
+- [ ] [<code>#16188 add setting to avoid extra actions comments for auto-generated DDLs (#21802)</code>](https://github.com/dbeaver/dbeaver/commit/cfcd5d8c80bea85fc74eaf229ee9aea08fa176d8)
+- [ ] [<code>dbeaver/pro#2090 add jackson (#21853)</code>](https://github.com/dbeaver/dbeaver/commit/37b38451b0ff483e14c07e01406dc2f91ecf3741)
+- [ ] [<code>dbeaver/pro#2090 add jackson (#21852)</code>](https://github.com/dbeaver/dbeaver/commit/558a43eb50d817a3d8fdbfe73b484796004e1271)
+- [ ] [<code>CB-3777 api for table row count (#21700)</code>](https://github.com/dbeaver/dbeaver/commit/9b4c2a67b0715baa07a232e29dea60e96c8cb4d7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2101 MySQL driver upgrade + mysql5 driver deprecated (#21851)</code>](https://github.com/dbeaver/dbeaver/commit/7601654aedbb10343802e4cf98920b169a310902)
+- [ ] [<code>#21123 Show a countdown before rollback/disconnect (#21835)</code>](https://github.com/dbeaver/dbeaver/commit/addaf044cd2732cd6608560df12bb36db0d88f93)
+- [ ] [<code>dbeaver/dbeaver#21855 [Mac]NPE When keeping editor alive (#21856)</code>](https://github.com/dbeaver/dbeaver/commit/c71baf9e416ae0afa732bce352a7b38c3edc0a64)
+- [ ] [<code>dbeaver/pro#2103 Fix errors appeared during highlighting (#21845)</code>](https://github.com/dbeaver/dbeaver/commit/44949d19a9641872d22605a6452c8c60312c0f8a)
+- [ ] [<code>dbeaver/pro#2100 Improve toolbar layout on the settings page (#21840)</code>](https://github.com/dbeaver/dbeaver/commit/9e42453d7862f8f45d4fac840a7a4beea32259dd)
+- [ ] [<code>#21697 Auto adjust result's grid size to the row's count (#21814)</code>](https://github.com/dbeaver/dbeaver/commit/726e99dea65da00c888ef73acc3915f2788804c7)
+- [ ] [<code>dbeaver/pro#2108 Upgrade driver to 2.1.0.22 + extra deps (#21858)</code>](https://github.com/dbeaver/dbeaver/commit/5289b38f6d1571d9c78cd3d1bfed8b855dc2c748)
+- [ ] [<code>DT error handle fix</code>](https://github.com/dbeaver/dbeaver/commit/c17fdc98932105d0b3dd1be48099248eeec13b8a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Merge branch 'devel' of https://github.com/dbeaver/dbeaver into devel</code>](https://github.com/dbeaver/dbeaver/commit/8751fe4c1b086312612aedef061dbbf2acd36952)
+- [ ] [<code>Dbeaver/pro#2071 erd splitup connections (#21866)</code>](https://github.com/dbeaver/dbeaver/commit/1dd9c3db0dd2711be81f4c0fa7dac62b861cfbdf)
+- [ ] [<code>#21666 Single tab mode improvements (#21859)</code>](https://github.com/dbeaver/dbeaver/commit/cc9ee4b2d96caa41636019d68809be1cb3f0d616)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#17458 add dependencies and privileges tabs to materialized views (#21862)</code>](https://github.com/dbeaver/dbeaver/commit/c29c6e8a6b6fbae80e5837d744b3acdb888e7674)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Dbeaver/pro#2070 router popup menu (#21857)</code>](https://github.com/dbeaver/dbeaver/commit/9bf6a7d0e0ae2c448f211798a1a2d24bb9a546fe)
+- [ ] [<code>#19255 add support for materialized views, tablespaces and partitions for YugabyteDB; fix PG tablespace management (#21763)</code>](https://github.com/dbeaver/dbeaver/commit/4ac10ae65e3653806b697c010bb1d2ac907084bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2113 Data transfer multiple export - IO error fix. Task runs refresh fix (#21868)</code>](https://github.com/dbeaver/dbeaver/commit/af5eeafe67ea8de902f1f86f355427addfd0d7f9)
+- [ ] [<code>CB-4174 configurable iam provider (#21839)</code>](https://github.com/dbeaver/dbeaver/commit/b8d33205ac49300f3daba11e91fa5f7a0f7485bc)
+- [ ] [<code>dbeaver/pro#2086 Granular re-parsing and re-highlighting (#21861)</code>](https://github.com/dbeaver/dbeaver/commit/8adc9e069e31bb93a7715692703c30668ddd7289)
+- [ ] [<code>CB-4197 add events for deleting user (#21867)</code>](https://github.com/dbeaver/dbeaver/commit/8feafedd685a283a72c55f924bbf7c5b60657adf)
+- [ ] [<code>Pref page layout fix</code>](https://github.com/dbeaver/dbeaver/commit/9cba74da569e22159ce5a85da3956355887a14a7)
+- [ ] [<code>Redundant stacktraces removed from log</code>](https://github.com/dbeaver/dbeaver/commit/93728e6c86a1362fdbddd2a445e9499ffa3c89d5)
+- [ ] [<code>dbeaver/pro#2129 Fix product feature check (#21889)</code>](https://github.com/dbeaver/dbeaver/commit/87f577890bbe68e05c5c3e16321491c3c25181fd)
+- [ ] [<code>Local p2 repos versioning (#21878)</code>](https://github.com/dbeaver/dbeaver/commit/aed38865eefb4d7c911e430d43d43f37abf154b1)
+- [ ] [<code>dbeaver/pro#2018 Security method prompt (#21869)</code>](https://github.com/dbeaver/dbeaver/commit/ef5e32ee6115fc7bd42d4e7603f9016426e422cd)
+- [ ] [<code>dbeaver/pro#2094 Add eclipse's button label usage for Apply and Close button (#21908)</code>](https://github.com/dbeaver/dbeaver/commit/7bb61833782545e374ae8dfa326208e81d6bab4b)
+- [ ] [<code>#21805 Special number formatting fix (#21910)</code>](https://github.com/dbeaver/dbeaver/commit/90a884e0bd4555c4d7aa81dec186dcf53d1520f0)
+- [ ] [<code>#21875 add comments for new created columns (#21881)</code>](https://github.com/dbeaver/dbeaver/commit/a5e6d625acd6810bb62caee0b5db756f27b6477e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>#21770 Use `<code>` blocks instead of `&nbsp`s (#21914)</code>](https://github.com/dbeaver/dbeaver/commit/ef6a96af5f6ef15298ba9aaab1b1f11686c536c5)
+- [ ] [<code>#21898 Don't separate selected region into several queries (#21917)</code>](https://github.com/dbeaver/dbeaver/commit/d5467dbfc5754466f669e718031f76d696c69920)
+- [ ] [<code>dbeaver/dbeaver#21906 Return 5.x driver (#21925)</code>](https://github.com/dbeaver/dbeaver/commit/ba7919d13eb2042c80a96cd7ee82935a4a71f5da)
+- [ ] [<code>#21896 recognize precision for bigint attributes (#21903)</code>](https://github.com/dbeaver/dbeaver/commit/a4880964919c0972f833cd585ad2a5530c6e7306)
+- [ ] [<code>dbeaver/pro#2690 Distributed file configuration UI fix (#21927)</code>](https://github.com/dbeaver/dbeaver/commit/112cbb44819c1905530360af815f7195798cc09f)
+- [ ] [<code>dbeaver/pro#2080 Use case-insensitive compare (#21912)</code>](https://github.com/dbeaver/dbeaver/commit/97dc343a71a5045e6ea3979ffc32fa2a9fe0e2e2)
+- [ ] [<code>dbeaver/dbeaver#21879-[Greenplum] NPE when add foreign key and both table are empty. (#21882)</code>](https://github.com/dbeaver/dbeaver/commit/14f788df73753de7ffe23d234b6c9879883e406b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-4217 fix drivers deps (#21909)</code>](https://github.com/dbeaver/dbeaver/commit/07581981fc73f90f31af0d8f04d7c01027025105)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#21915 Add missing line break to dump writer (#21937)</code>](https://github.com/dbeaver/dbeaver/commit/988a96fb35b34b762f7e3d1167b155f2d52c02fc)
+- [ ] [<code>dbeaver/pro#2016 Remove ${file} variable (#21935)</code>](https://github.com/dbeaver/dbeaver/commit/c96a1b5ebd83c36ed98b43da16b014190e97dbc7)
+- [ ] [<code>dbeaver/pro#2146 use dbname for restore operations (#21943)</code>](https://github.com/dbeaver/dbeaver/commit/83bd0d5089c7eeaadc22a843c55abe0f8a0d8de3)
+- [ ] [<code>CB-4158 rename project name criteria to projectId (#21876)</code>](https://github.com/dbeaver/dbeaver/commit/faaf1f7fb9c312ce6eb572f78ab2ee3cdfaf847f)
+- [ ] [<code>#21902 show output panel for statistics tab (#21949)</code>](https://github.com/dbeaver/dbeaver/commit/7fbce1ca1869fbc5a8a2c10eec3a88deab858eb2)
+- [ ] [<code>dbeaver/pro#2144 VQB checkbox layout fixed (#21930)</code>](https://github.com/dbeaver/dbeaver/commit/e52692c719cf50364943304c1ba0537d55c1cd30)
+- [ ] [<code>#21615 Don't show results when extracting data (#21953)</code>](https://github.com/dbeaver/dbeaver/commit/b30bc0d6c7da749dfdc48beb479461cd82003b4e)
+> Dropped duckscript - no appropriate URL found
+
+#### [firmware-updater](https://github.com/canonical/firmware-updater): [855999da8d3d0c9930e06f2d296d82b55aeff79e → HEAD](https://github.com/canonical/firmware-updater/compare/855999da8d3d0c9930e06f2d296d82b55aeff79e...HEAD)
+
+- [ ] [<code>fix flutter version in snapcraft.yaml</code>](https://github.com/canonical/firmware-updater/commit/0e4a37a29da12a90aac4b0f0b887c36286158e04)
+- [ ] [<code>feat(ci): simplify CI and fix flutter version (#201)</code>](https://github.com/canonical/firmware-updater/commit/f310314ae8bca65cd530953a1e7a26e9518f66c4)
+  - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>feat(ci): simplify build snap flutter step</code>](https://github.com/canonical/firmware-updater/commit/307c13115286901cb5f139130932d89a2e726878)
+- [ ] [<code>fox: missing dock icon (#202)</code>](https://github.com/canonical/firmware-updater/commit/e8771beecff79974a88d6a237b98c27a706119bc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: regenerate mocks</code>](https://github.com/canonical/firmware-updater/commit/2961bda4e4157d4cd4bf66b9eaf9c5c0f6cbedf7)
+- [ ] [<code>Merge pull request #205 from d-loose/mocks</code>](https://github.com/canonical/firmware-updater/commit/11d05eed7c563b81b052f3e2dc9da47801d69a40)
+- [ ] [<code>feat: reboot via systemd</code>](https://github.com/canonical/firmware-updater/commit/097cc35295e991b07e4767b7b0e536ac9348689f)
+- [ ] [<code>feat(snap): add shutdown interface</code>](https://github.com/canonical/firmware-updater/commit/56d72085f0a864f850f9caf05a834a5c58b5727f)
+- [ ] [<code>Merge pull request #206 from d-loose/systemd-reboot</code>](https://github.com/canonical/firmware-updater/commit/773f947ba8a716859adb169606213810566dcc3c)
+- [ ] [<code>fix: show correct version in confirmation dialog</code>](https://github.com/canonical/firmware-updater/commit/72c5359450decae10871604a478d45a94641847a)
+- [ ] [<code>Merge pull request #217 from d-loose/fix-update-to-latest-dialog</code>](https://github.com/canonical/firmware-updater/commit/a0286c39d2501797249adeb896103c6b054e243d)
+- [ ] [<code>refactor: confirmation_dialog.dart -> dialogs.dart</code>](https://github.com/canonical/firmware-updater/commit/0b4ca3bb89f551c553f86114d268f22fdf7cabc7)
+- [ ] [<code>feat: improve reboot dialog message</code>](https://github.com/canonical/firmware-updater/commit/5e1e0c55d6b9a52cd81c1110f81b4ee82bc3bf18)
+- [ ] [<code>Merge pull request #208 from d-loose/reboot-dialog</code>](https://github.com/canonical/firmware-updater/commit/d3e2dfa9d7c86544854765445da3c2914bcea482)
+- [ ] [<code>chore: bump yaru and flutter versions</code>](https://github.com/canonical/firmware-updater/commit/636ec0ffe78d2108d9f9d4d78811c73e3980aee2)
+- [ ] [<code>chore(notifier): move mockito to dev deps, bump version</code>](https://github.com/canonical/firmware-updater/commit/a5f76ade31d1a4c685811d404422922d0667c82c)
+- [ ] [<code>chore(snap): bump flutter version</code>](https://github.com/canonical/firmware-updater/commit/7b700a5b32434abbb60dcdf1008afabd1cd5f764)
+- [ ] [<code>feat(ci): use asdf to manage flutter version</code>](https://github.com/canonical/firmware-updater/commit/62e036d4ba0bc29aa0ae1bac743d61e9b57bae29)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: regenerate mocks</code>](https://github.com/canonical/firmware-updater/commit/e80a3c2dcf7be4b9207d5ba14ed4c78f7ba824f5)
+- [ ] [<code>feat(snap): read flutter version from .tool-versions</code>](https://github.com/canonical/firmware-updater/commit/cf9e3103a5e79b23399f3ae8f2ec829342c542f9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>feat: fix flutter version in pubspec</code>](https://github.com/canonical/firmware-updater/commit/c283a33771919e5bd5d0eb0e95d74c17923e4eac)
+- [ ] [<code>Merge pull request #218 from d-loose/bump-versions</code>](https://github.com/canonical/firmware-updater/commit/70dc638615ebfb7f88c689c3bdbcecd19e2f6961)
+- [ ] [<code>chore: bump dependencies</code>](https://github.com/canonical/firmware-updater/commit/19d190cf5508e60293da8ac4fc775774c58b1ade)
+- [ ] [<code>chore: regen Dio mock</code>](https://github.com/canonical/firmware-updater/commit/c5fa00cb738d528ac9265af451e90323bd287062)
+- [ ] [<code>refactor: update deprecated DioError to DioExeption</code>](https://github.com/canonical/firmware-updater/commit/67292b9a97e385ca2f42d923f1898c306ba03745)
+- [ ] [<code>refactor: unnecessary use of 'toList' in a spread</code>](https://github.com/canonical/firmware-updater/commit/c02faa9102778cafadef3825074defb0ebd7f6d5)
+- [ ] [<code>refactor: format</code>](https://github.com/canonical/firmware-updater/commit/f3ea49306706064208bc80c9453e9b6f42b06bfb)
+- [ ] [<code>refactor: fixing analyzer isssues</code>](https://github.com/canonical/firmware-updater/commit/81ebe44afe31cdc053903c4ded4d6085209345d8)
+- [ ] [<code>refactor: adding readability to switch expressions</code>](https://github.com/canonical/firmware-updater/commit/e9c7cdcd119800825a5d4103763a90e74ca2f9c4)
+- [ ] [<code>refactor: fixing analyzer issues.</code>](https://github.com/canonical/firmware-updater/commit/ef4db53a9e12cb1500cd2099283e91edbf10c7f8)
+- [ ] [<code>Merge pull request #224 from BLKKKBVSIK/chore/bump-dependencies</code>](https://github.com/canonical/firmware-updater/commit/806771bb3ac7d0aca1fe551b7013e656830bae40)
+- [ ] [<code>feat: add jira sync action</code>](https://github.com/canonical/firmware-updater/commit/f399f757f2775910c75fd5fc0181b565126a7b2a)
+- [ ] [<code>Merge pull request #229 from d-loose/sync-jira-action</code>](https://github.com/canonical/firmware-updater/commit/183f6235d87378e0e1866cd208b35560912e50a9)
+
+#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
+
+
+#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.14.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.14.1...HEAD)
+
+- [ ] [<code>use locally hosted canvaskit instead of calling google</code>](https://github.com/krille-chan/fluffychat/commit/ece9ad4c47a371cf01e0ac2e75b03741cc1a1b9f)
+- [ ] [<code>ci: Set fastlane max upload retries</code>](https://github.com/krille-chan/fluffychat/commit/40f6fe17bebc9f7afe82332a5c763d07b772ce3e)
+- [ ] [<code>fix: Applock screen completely broken</code>](https://github.com/krille-chan/fluffychat/commit/100548b265d811fb535e5737b2f62e45bb28e822)
+- [ ] [<code>build: Bump version to 1.14.2</code>](https://github.com/krille-chan/fluffychat/commit/1c863fe769cdd180b98c14c847276c0890392038)
+- [ ] [<code>feat: New simplified lockscreen design</code>](https://github.com/krille-chan/fluffychat/commit/90789d9feb706a3b6622a03753684c800f88a6e1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Remove flutter_app_lock package and use own AppLock implementation</code>](https://github.com/krille-chan/fluffychat/commit/9a808abdc6a23e282116173a2c1cab3867a7acdb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up custom applock</code>](https://github.com/krille-chan/fluffychat/commit/48a278b0eafc20462a485586031fe5db128b9096)
+- [ ] [<code>chore: Follow up app lock</code>](https://github.com/krille-chan/fluffychat/commit/c7ea797f34045c36618dadd40c805a5fcd1eb2d0)
+  - <sub>Tags: <code>v1.14.2</code></sub>
+- [ ] [<code>fix: Do not ask for reason to delete not sent messages</code>](https://github.com/krille-chan/fluffychat/commit/c273ff64a1f330c571a8e00ec76d253ff15d6768)
+- [ ] [<code>fix: Disable app lock if user is logged out</code>](https://github.com/krille-chan/fluffychat/commit/f5cf1b4d701a35ca2f324620d6188a3ff749249e)
+- [ ] [<code>fix: Set readmarker sometimes not working</code>](https://github.com/krille-chan/fluffychat/commit/bb96a0a4a3a767fd232ffa6e93ced71d38144c57)
+- [ ] [<code>Merge pull request #591 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dea843d4f2a4e7fba62dba9d7414727cbeb53891)
+- [ ] [<code>build: Update to Flutter 3.13.6</code>](https://github.com/krille-chan/fluffychat/commit/98bbd302bab359c06e46dc878449387b1a9260fe)
+- [ ] [<code>build: Bump version to 1.14.3</code>](https://github.com/krille-chan/fluffychat/commit/f0fb4153168c324dc7532f89d5b2ad976dedb531)
+- [ ] [<code>build: Add changelog to iOS fastfile</code>](https://github.com/krille-chan/fluffychat/commit/5213b189c11ccda21c18cc36a431f7710c563d3c)
+- [ ] [<code>chore: Follow up fix app lock</code>](https://github.com/krille-chan/fluffychat/commit/73d1b7e190c63e6835d64675df11b617f76c4042)
+  - <sub>Tags: <code>v1.14.3</code></sub>
+- [ ] [<code>fix: open story from push notification</code>](https://github.com/krille-chan/fluffychat/commit/7c94acdb92aed1472cad01d6cabe7de7ede0f7f8)
+- [ ] [<code>Merge pull request #596 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/8ea64a952263b85e929288ea89a4b0fe56f64f4f)
+- [ ] [<code>refactor: Only preload client for GUI start</code>](https://github.com/krille-chan/fluffychat/commit/d569a00df772c4ee03aa43ee260f20fcb8c80071)
+- [ ] [<code>design: Hide Navigationbar labels</code>](https://github.com/krille-chan/fluffychat/commit/823810ec19b457d09ca2d0cc9c1aa649fa3edaec)
+- [ ] [<code>fix: Flutter warnings because of applock animation</code>](https://github.com/krille-chan/fluffychat/commit/ea75e98c377bcb8778e2db750113a4069b84962d)
+- [ ] [<code>design: New notification sound</code>](https://github.com/krille-chan/fluffychat/commit/52457a33202c0d5aadd802376fd36c26e6a61192)
+- [ ] [<code>fix: UIA requests with navigator</code>](https://github.com/krille-chan/fluffychat/commit/6538d9177948486f259a81ec412c1ddc6e239ed9)
+- [ ] [<code>build: Add custom iOS notification sound</code>](https://github.com/krille-chan/fluffychat/commit/cb42b5900beb2136e99dd1323fd198978cf411ea)
+- [ ] [<code>build: Bump version to 1.14.4</code>](https://github.com/krille-chan/fluffychat/commit/bed7e34a362b51319fc45aef16b53706a126f97d)
+  - <sub>Tags: <code>rc1.14.4-1</code></sub>
+- [ ] [<code>fix: Unable to use file picker with applock</code>](https://github.com/krille-chan/fluffychat/commit/9c1c5a4aecd537f89135f5a37f8f18edd9c16c97)
+- [ ] [<code>fix: Avoid collisions when save file on android</code>](https://github.com/krille-chan/fluffychat/commit/759d96f4061212308967363d2ed301008cf0eec5)
+  - <sub>Tags: <code>rc1.14.4-2</code></sub>
+- [ ] [<code>- build: Set minimum iOS version to 12</code>](https://github.com/krille-chan/fluffychat/commit/628dda6b17c1f083aa0a3147aafec9e7e62a7381)
+- [ ] [<code>build: Fix iOS build by change build phases order</code>](https://github.com/krille-chan/fluffychat/commit/4420696dbfb641e242d2792032e4139761cdd943)
+  - <sub>Tags: <code>v1.14.4</code></sub>
+- [ ] [<code>Merge pull request #600 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/7a1ee371d4f75f15ae8ce101fa445d0b91cca0c5)
+- [ ] [<code>fix: Disable applock</code>](https://github.com/krille-chan/fluffychat/commit/aee54a63f01ca35fd4bfdc60ec0dcd5a57e6e249)
+- [ ] [<code>fix: SystemOverlayStyle not applied on AppStart on Android</code>](https://github.com/krille-chan/fluffychat/commit/69cd2d790d1ffebe55eb687a9331fb624920184e)
+  - <sub>Tags: <code>rc1.14.5-1</code> <code>v1.14.5</code></sub>
+- [ ] [<code>Merge pull request #605 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/6be8375a06d7a12a8c9ef91c8354040a3db10ca8)
+- [ ] [<code>Merge pull request #608 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/8b9b3537b76b04ea4e8a5d52d55de2215ac0bcdc)
+- [ ] [<code>design: Make own chat bubble primary color for better contrast</code>](https://github.com/krille-chan/fluffychat/commit/89493f364adaff204b73f22f3f9aa0c997eb253b)
+- [ ] [<code>feat: better scroll to last read message handling</code>](https://github.com/krille-chan/fluffychat/commit/9b21c0d951fb500afe4efa3cbaccf5a2a6958e71)
+- [ ] [<code>build: Update to Flutter 3.13.7</code>](https://github.com/krille-chan/fluffychat/commit/a83b76ddd2cb535bc717c2a631c6b1bf6f6ef9f2)
+- [ ] [<code>Merge pull request #613 from krille-chan/krille/flutter-3-13-7</code>](https://github.com/krille-chan/fluffychat/commit/5fda61aa7fcc1ca067bdd669ebb48aa7c9310a6c)
+- [ ] [<code>fix: Use correct localization for redactedBy</code>](https://github.com/krille-chan/fluffychat/commit/bcbe82523c949487f1ed49e14cd308b7d4e6d4cc)
+- [ ] [<code>fix: Remove uncompatible dependencies connectivity_plus and wakelock</code>](https://github.com/krille-chan/fluffychat/commit/35367389f0ca8b349c27b6094750c6ce4534aaa1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/18851e2a039d7a38a876e0c50f96572bc7f4aadc)
+- [ ] [<code>ci: Autoapprove dependabot and weblate</code>](https://github.com/krille-chan/fluffychat/commit/18e91f694f9d589facd2e2a497664b90d441f601)
+- [ ] [<code>Merge pull request #611 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/b40a3b6064b07a54ca8aad8d083ec88cf9ef1f03)
+- [ ] [<code>ci: Auto merge</code>](https://github.com/krille-chan/fluffychat/commit/af6cb608362ce9dd8113044b261103381fa80871)
+- [ ] [<code>chore: Minor design fixes</code>](https://github.com/krille-chan/fluffychat/commit/9b523b00a637fb632eb067a88b4c67012d71f0fb)
+- [ ] [<code>chore: Change way how to seek in audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/0490195f445e6a61fa4c3b6e2f486147f8d6023d)
+- [ ] [<code>ci: Change libolm download URL</code>](https://github.com/krille-chan/fluffychat/commit/8ef9448703101d82592731526a8ffc8797849591)
+- [ ] [<code>ci: Install jq</code>](https://github.com/krille-chan/fluffychat/commit/cd124ff8bddd43af60a6ccf0511003d548180b39)
+- [ ] [<code>ci: Install jq correctly</code>](https://github.com/krille-chan/fluffychat/commit/dbdfa2a1f3cb2cf619eb05b6f4467fa44bf348dd)
+- [ ] [<code>ci: Different setup jq action</code>](https://github.com/krille-chan/fluffychat/commit/e629bd8bd5e1ea8469031eb9343cc10495c41beb)
+- [ ] [<code>chore: Remove setup jq</code>](https://github.com/krille-chan/fluffychat/commit/3ad872dfa3f383cef4d7358321020f722adce4b7)
+- [ ] [<code>refactor: Preload notification sound on web</code>](https://github.com/krille-chan/fluffychat/commit/f3798f3ee8f770bd513e9bebf632a21aa8fb4501)
+- [ ] [<code>refactor: Change audio codec to opus where supported to have better compatibility with Element</code>](https://github.com/krille-chan/fluffychat/commit/3fb4ad0a83283e44f8d04efba5dd0c308ecad8dd)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/59b357681edd734bac0ddc1cd865111041734138)
+- [ ] [<code>Merge pull request #625 from krille-chan:krille/update-matrix-dart-sdk</code>](https://github.com/krille-chan/fluffychat/commit/c29f9bd44a3e7ec5f2fcb4ce6310f375f697fde7)
+- [ ] [<code>fix: Create chat dialog crashes sometimes and power level textfield does not validate input</code>](https://github.com/krille-chan/fluffychat/commit/5665cac15cb1d6cecc0b0f4f771b65f5e862c65f)
+- [ ] [<code>design: Make key verification an adaptive dialog</code>](https://github.com/krille-chan/fluffychat/commit/5dfa4c132dc8514df735d9ea4fc4f654b30343d5)
+- [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/991bba253509cf3427f1cd6892e161311768c2ba)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>design: Make incoming messages color more light</code>](https://github.com/krille-chan/fluffychat/commit/969dbef09ad6f2026aa272225652caf9e5670b4d)
+- [ ] [<code>chore: Add descriptions in the areYouSure dialogs for better UX</code>](https://github.com/krille-chan/fluffychat/commit/67a4bc71ab5bef8043437f001066b3d2301eec10)
+- [ ] [<code>refactor: Remove unused config params</code>](https://github.com/krille-chan/fluffychat/commit/20f9a19397387a56a8d88a55950501d5e64010c1)
+- [ ] [<code>fix: noFCM warning dialog</code>](https://github.com/krille-chan/fluffychat/commit/deda870e99074dd7b68fc9847ec6f1984d1c5b33)
+- [ ] [<code>refactor: Remove unused config</code>](https://github.com/krille-chan/fluffychat/commit/94fc250751df774d8dc91331cd7ba17c3665e8c6)
+- [ ] [<code>chore: Limit image file and video picker until we have a background service</code>](https://github.com/krille-chan/fluffychat/commit/a327e8b0e9d990f0ce4fe84c5a6c8707bb99b4f0)
+- [ ] [<code>chore: Revert color changes</code>](https://github.com/krille-chan/fluffychat/commit/bf1f091f15ae3f8ca8392b75fb5b865fafa42408)
+- [ ] [<code>chore: Folllow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/69f7429b71d0a768b03de13a7f89e2cbaaf2d6f3)
+- [ ] [<code>build: Add appid suffix to android debug builds</code>](https://github.com/krille-chan/fluffychat/commit/e2eebe15abe16abf77d8aff0d0e000f80cddc4fa)
+- [ ] [<code>chore: Adjust bitrate for smaller voice messages</code>](https://github.com/krille-chan/fluffychat/commit/4605a92d17c3fb6318b4d9e82e2f894b7a87ec68)
+- [ ] [<code>build: Update packages and flutter super.key refactoring</code>](https://github.com/krille-chan/fluffychat/commit/eca4825c704e4725ee0944b0bea604b95807e57f)
+- [ ] [<code>build: Update google services patch</code>](https://github.com/krille-chan/fluffychat/commit/072c4db616f1c585aa4bbc63485a237f8700c79e)
+- [ ] [<code>refactor: Update FutureLoadingDialog</code>](https://github.com/krille-chan/fluffychat/commit/f028b12185adcc8d9a17d08989bb7a7f88d74e7e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Add experimental todo list for rooms</code>](https://github.com/krille-chan/fluffychat/commit/b2d3b32ba80aae3bfd3d9831cd243bed3a4de837)
+- [ ] [<code>build: Update android compileSdkVersion to 34</code>](https://github.com/krille-chan/fluffychat/commit/d0dbaa5e7251a755956d03e84d0313253e77c7ea)
+- [ ] [<code>chore: Follow up todo list feature</code>](https://github.com/krille-chan/fluffychat/commit/5d387145c8f95607bccf9050ebdd889258725c35)
+- [ ] [<code>build: Update automerge</code>](https://github.com/krille-chan/fluffychat/commit/72a2dcbb220bc3d8361ff726d921dd33fbf90618)
+- [ ] [<code>Merge pull request #626 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/1f102dfda969d87a20dd479fd302dfc5ca89af18)
+- [ ] [<code>build: Update automerge script</code>](https://github.com/krille-chan/fluffychat/commit/10d9409be5e40dce1c24c835d98cfb58ddca576b)
+- [ ] [<code>build: Remove automerge script</code>](https://github.com/krille-chan/fluffychat/commit/702e120e83178678b23216a81022673bfa8cd8b1)
+- [ ] [<code>Merge pull request #635 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/b8a998c0293a0dfd67fa9a56b12459ba92f474a9)
+- [ ] [<code>chore: Follow up reorder handle for todos</code>](https://github.com/krille-chan/fluffychat/commit/946b6530b97ded6048df3402ae7626854e830262)
+- [ ] [<code>Merge pull request #584 from Craeckie/main</code>](https://github.com/krille-chan/fluffychat/commit/b990ade2afa305174f80dfa5ee94254fe1f21e5b)
+- [ ] [<code>build: Update flutter</code>](https://github.com/krille-chan/fluffychat/commit/85ccf9ed42c50ad6310d26ee5a37d6ca7d4ff4de)
+- [ ] [<code>build: Download canvaskit on build for flutter web</code>](https://github.com/krille-chan/fluffychat/commit/a5b5b1ae1215f533f8beb0edf255811df6370d24)
+- [ ] [<code>fix: render tg-forward as blockquote style</code>](https://github.com/krille-chan/fluffychat/commit/3ef9854c1d455bd31094b57dff5cc77af2566d07)
+- [ ] [<code>refactor: Make file dialog adaptive and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/d1ce1e3ba721a3d66949d8765a1134dbfc85f771)
+- [ ] [<code>chore: File dialog follow up</code>](https://github.com/krille-chan/fluffychat/commit/e7104916798142cc1498200c8ffa29b1bfe17dc3)
+- [ ] [<code>build: Add changelog for v1.15.0</code>](https://github.com/krille-chan/fluffychat/commit/9d29f9dcd272f1b7841d9d27e2242868748267b1)
+  - <sub>Tags: <code>rc1.15.0-1</code></sub>
+- [ ] [<code>fix: Archive does not update its state</code>](https://github.com/krille-chan/fluffychat/commit/b42a565a9a4ba93b7d915ddabed8f1452fe22aa6)
+- [ ] [<code>docs: Advertise ntfy in nofcm dialog</code>](https://github.com/krille-chan/fluffychat/commit/e904f303f6c4c9ddd12ebef377b3f93a510432ec)
+- [ ] [<code>build: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/d24776704281cb2faf0876cb5dcd91b968ffae2c)
+  - <sub>Tags: <code>rc1.15.0-2</code></sub>
+- [ ] [<code>chore: Revert using opus codec in audiorecorder as iOS seems not to be able to play it</code>](https://github.com/krille-chan/fluffychat/commit/0dbaf09cc7168b18a4554a6eea8abce638e19da7)
+  - <sub>Tags: <code>rc1.15.0-3</code></sub>
+- [ ] [<code>chore: Downgrade record</code>](https://github.com/krille-chan/fluffychat/commit/fd22b4330efc3bf7ed73c3ca353f77a4ead8e256)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up todos</code>](https://github.com/krille-chan/fluffychat/commit/cf574d0b68f5d05344a7632557909081af4622da)
+  - <sub>Tags: <code>rc1.15.0-4</code></sub>
+- [ ] [<code>chore: More revert recorder</code>](https://github.com/krille-chan/fluffychat/commit/bedd4e9ade4e84f7d6ae699bb6d47c89e0179c50)
+- [ ] [<code>chore: Use correct audiorecorder file extension</code>](https://github.com/krille-chan/fluffychat/commit/3a9c6e877306cda0d3a47595f509deb7e534c3cc)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Audiomessages on iOS</code>](https://github.com/krille-chan/fluffychat/commit/b96bc4565d1f97609b21036ec752f9b7a7a1de6f)
+  - <sub>Tags: <code>rc1.15.0-6</code></sub>
+- [ ] [<code>chore: Disable opus on android</code>](https://github.com/krille-chan/fluffychat/commit/6718104731dd745ea56ed84576c9d592176c3950)
+  - <sub>Tags: <code>rc1.15.0-7</code></sub>
+- [ ] [<code>chore: Remove custom bitrate</code>](https://github.com/krille-chan/fluffychat/commit/a9eb76983b2bd776880470df02007089a35fb981)
+- [ ] [<code>chore: Downgrade record back to 4.4.4</code>](https://github.com/krille-chan/fluffychat/commit/0919d75b04055930a2e698917a0b64cd211ae950)
+  - <sub>Tags: <code>rc1.15.0-8</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: Add template for test protocol</code>](https://github.com/krille-chan/fluffychat/commit/6b374506c7ada528981bc63f287d99518a99d297)
+- [ ] [<code>docs: Add emojis to issue titles</code>](https://github.com/krille-chan/fluffychat/commit/be099c814dee8d2d50ae9c77926c76c33e5a8b6a)
+- [ ] [<code>docs: Deduplicate report security vulnerability</code>](https://github.com/krille-chan/fluffychat/commit/c7a020a71bd9546461633da76232b593dce0540e)
+- [ ] [<code>fix: Scan qr code breaks app</code>](https://github.com/krille-chan/fluffychat/commit/31f844da4ddb4991e3df7c06d0d7cb0310dc142f)
+- [ ] [<code>Merge pull request #638 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/c8a3166503a85ab2210e8ac5c79a2fc61594d24e)
+  - <sub>Tags: <code>rc1.15.0-9</code></sub>
+- [ ] [<code>chore: Follow up sendfiledialog fixes</code>](https://github.com/krille-chan/fluffychat/commit/dd758e16cf92d60d1cb84ca4aab41a70dc616840)
+  - <sub>Tags: <code>rc1.15.0-10</code></sub>
+- [ ] [<code>docs: Update test report template</code>](https://github.com/krille-chan/fluffychat/commit/0156e3ff4f94cbc8bca5890ba0cbd1e5f73de25f)
+- [ ] [<code>chore: Add better error widget</code>](https://github.com/krille-chan/fluffychat/commit/81943f062c8d95a29c2f7963b92c1789316f59e0)
+  - <sub>Tags: <code>v1.15.0</code></sub>
+- [ ] [<code>fix: Emojipicker flickering because noRecent</code>](https://github.com/krille-chan/fluffychat/commit/c10fe9163674716f6aa95aee5ea3fb6298b4f3f9)
+- [ ] [<code>fix: Properly capitalize Linux window title</code>](https://github.com/krille-chan/fluffychat/commit/e1881a2691a6a66566336f85bb8b89b0b181b7a6)
+- [ ] [<code>chore: added android audio sharing intent</code>](https://github.com/krille-chan/fluffychat/commit/b5a571de9e3437ca6a270ed4b1f609ea80448eba)
+- [ ] [<code>refactor: Store and fix missing persistence of some values</code>](https://github.com/krille-chan/fluffychat/commit/c9c2620ad4386db59a33674e31c7327250a17e39)
+- [ ] [<code>Merge pull request #643 from kra-mo/patch-1</code>](https://github.com/krille-chan/fluffychat/commit/de902925632634a73f199b8f116e6fae3678eef6)
+- [ ] [<code>Merge pull request #646 from aryanA101a/androidAudioShareIntent</code>](https://github.com/krille-chan/fluffychat/commit/da467483c9c80a309f6f6e3f01f263f3c2d5de63)
+- [ ] [<code>Merge pull request #641 from krille-chan/krille/refactor-store</code>](https://github.com/krille-chan/fluffychat/commit/d31a1957b4b112c324f35eb44f584c82c1967926)
+- [ ] [<code>fix: More stable scroll up to event</code>](https://github.com/krille-chan/fluffychat/commit/c0ee1bbdfc51c35ea821f719d05eeb5b3dc84667)
+- [ ] [<code>fix: SSO with no identity providers</code>](https://github.com/krille-chan/fluffychat/commit/1e4147e31c46f61198772d5f11d5879655b7d1a0)
+- [ ] [<code>refactor: Do not init client in background mode on Android</code>](https://github.com/krille-chan/fluffychat/commit/3cea32e1c8022506759320feb7fd5c347ed85ab7)
+- [ ] [<code>fix: LoadProfileBottomSheet accessing disposed outerContext</code>](https://github.com/krille-chan/fluffychat/commit/3946838f337288acb89ccd6c3c0da193656b38cb)
+- [ ] [<code>Revert "refactor: Do not init client in background mode on Android"</code>](https://github.com/krille-chan/fluffychat/commit/17892119aeb2a007520192f2e56f24f33c94a053)
+- [ ] [<code>Merge pull request #645 from aryanA101a/main</code>](https://github.com/krille-chan/fluffychat/commit/ab12ada92b3f99697724662f96775e6f554d557a)
+- [ ] [<code>Merge pull request #648 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/ae67bcf70839e6fbd9e558df3f857b228c01c29b)
+- [ ] [<code>docs: Fix auto labels for issue templates</code>](https://github.com/krille-chan/fluffychat/commit/c9d0279405b865781c2ccf115d30de3c996f2391)
+- [ ] [<code>docs: Add test label</code>](https://github.com/krille-chan/fluffychat/commit/0dffdc03275ccfcd211ccf1e59111df616f82b66)
+- [ ] [<code>docs: Stale and close issues and PRs automatically</code>](https://github.com/krille-chan/fluffychat/commit/bc8eb748127f9229d73e658e7a0f99897e773ec5)
+- [ ] [<code>docs: Update inactive issue workflow</code>](https://github.com/krille-chan/fluffychat/commit/e70ff68c48e6cffe90eb7c8b3a19ba1bad75c16f)
+- [ ] [<code>fix: Remove failed to sent events</code>](https://github.com/krille-chan/fluffychat/commit/9f0bcd5523eb8ceb5813c1d9347601f6e5e5b548)
+- [ ] [<code>fix: Routing glitch when using SSO on desktop</code>](https://github.com/krille-chan/fluffychat/commit/2d7301ea50cd8b107f4eef177c356b720bedb4a9)
+- [ ] [<code>chore: Follow up delete failed to send events</code>](https://github.com/krille-chan/fluffychat/commit/7d7e23414214311a83b58258aeccee65af3e04c4)
+- [ ] [<code>feat: Make all text in chat selectable on desktop</code>](https://github.com/krille-chan/fluffychat/commit/809ee213b68bb025dd12a5d37f837b8d2f95a282)
+- [ ] [<code>chore: Follow up select event handling</code>](https://github.com/krille-chan/fluffychat/commit/c313b03f71318f696a333c28a9de6021d590eeba)
+- [ ] [<code>ci: Fix stale issue workflow</code>](https://github.com/krille-chan/fluffychat/commit/c1f0ac1c91a62ca06724aa025a107705cd44bc82)
+- [ ] [<code>chore: Follow up fix select text</code>](https://github.com/krille-chan/fluffychat/commit/1759043ee806e6def645c84b6ee1369b25f92568)
+- [ ] [<code>fix: Cannot pin messages of other users</code>](https://github.com/krille-chan/fluffychat/commit/60bcc6b89fd665fcc99a0a070e2468f2f0a41a05)
+- [ ] [<code>chore: Follow up selectable text</code>](https://github.com/krille-chan/fluffychat/commit/814899951211372a507f5fc532848942dd24e93a)
+- [ ] [<code>Fix Dockerfile: install jq in the builder image</code>](https://github.com/krille-chan/fluffychat/commit/f3a929f9fe87ff336faeb60db19da519c5ec7e4c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>chore: Follow up select event</code>](https://github.com/krille-chan/fluffychat/commit/c7bdd9269a5d28d017dab4a5286abbb9a5893603)
+- [ ] [<code>chore: Follow up select text</code>](https://github.com/krille-chan/fluffychat/commit/9d45f38400b84e02920b43ccf561a7e323f17a77)
+- [ ] [<code>Change dead link in README</code>](https://github.com/krille-chan/fluffychat/commit/eda43437e6462a7984da6e750b73d4a3bd69098c)
+- [ ] [<code>Merge pull request #657 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/85c7cba6e492db0d0fcf25015144624c7be8356b)
+- [ ] [<code>Merge pull request #651 from douardda/patch-1</code>](https://github.com/krille-chan/fluffychat/commit/db240e23bc7fd1d2a67472aeb41d544c7a32a94d)
+- [ ] [<code>Merge pull request #659 from RasmusRendal/patch-1</code>](https://github.com/krille-chan/fluffychat/commit/dc2204d8b6843cb6489c3423490874e05e3df56d)
+- [ ] [<code>chore: Follow up select event</code>](https://github.com/krille-chan/fluffychat/commit/41ae97fb8a252ab4bd7630883991c743b101d118)
+- [ ] [<code>chore: Add border to images in timeline</code>](https://github.com/krille-chan/fluffychat/commit/0aaee82ec7eb1b04c4d45f957a9c74822ecedff9)
+- [ ] [<code>chore: Follow up imagebubble borderradius</code>](https://github.com/krille-chan/fluffychat/commit/cdc844a4c0bcd75e77cdec12c52165b503396523)
+- [ ] [<code>build: Release v1.15.1</code>](https://github.com/krille-chan/fluffychat/commit/f39851f9da9500ab66c3f5433276bec2138348bc)
+- [ ] [<code>ci: Add release creation workflow</code>](https://github.com/krille-chan/fluffychat/commit/4a0ed8c2bbea7cd81127b557d3c83502b93b630a)
+  - <sub>Tags: <code>rc1.15.1-1</code></sub>
+- [ ] [<code>chore: Revert process tag workflow</code>](https://github.com/krille-chan/fluffychat/commit/8296fea36a92f45d30c306d5ed051368a0281c93)
+- [ ] [<code>docs: Update test report template labels</code>](https://github.com/krille-chan/fluffychat/commit/b70d1e0b1b41943ee50d4cd46f38a0d5ec2129c1)
+- [ ] [<code>ci: Readd process tags workflow</code>](https://github.com/krille-chan/fluffychat/commit/a3db754b854bdbf286e4d0504d1db9c55d9cfa02)
+  - <sub>Tags: <code>v1.15.1</code></sub>
+- [ ] [<code>feat: Display presences in the app</code>](https://github.com/krille-chan/fluffychat/commit/7930150cb478056a8dbfd839af7dbf4f6ea91f3d)
+- [ ] [<code>Merge pull request #671 from krille-chan/krille/add-presence-feature</code>](https://github.com/krille-chan/fluffychat/commit/d6e5a07db6547c440c664cae264575e6aa4b14c0)
+- [ ] [<code>chore: Follow up send presences in background fetch mode</code>](https://github.com/krille-chan/fluffychat/commit/a41dd4c60fae5835b76e861b8564b7861ea401ca)
+- [ ] [<code>chore: Follow up presences</code>](https://github.com/krille-chan/fluffychat/commit/bee90019bba6767c1ee0fcd2bf0b30c7606d3e15)
+- [ ] [<code>chore: Follow up presences</code>](https://github.com/krille-chan/fluffychat/commit/59de9d299def65d4e94ae9fee53255c6358a02ac)
+- [ ] [<code>refactor: Remove copy dialog before opening links</code>](https://github.com/krille-chan/fluffychat/commit/e6e3589f1fa7db9a99e6f5e49d9d2607364311a3)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/b149283ec61a947a016bb01c8dc086f24974aaf8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Merge pull request #672 from krille-chan/krille/update-dependencies</code>](https://github.com/krille-chan/fluffychat/commit/6324754726bcb993fdd0c8daeabe03915b438072)
+- [ ] [<code>chore: Follow up url check</code>](https://github.com/krille-chan/fluffychat/commit/6eb8261f21efc685f3de1c74f11635d8577b73af)
+- [ ] [<code>build: Workaround for broken flutter secure storage on linux</code>](https://github.com/krille-chan/fluffychat/commit/fbaeb1807fc00497279d3e67bacd4a81f6966de2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: emoji import from ZIP file</code>](https://github.com/krille-chan/fluffychat/commit/fd35f31cb2dcd54b2dc8a594b92c0444106abf7b)
+- [ ] [<code>docs: Fix links to GitHub</code>](https://github.com/krille-chan/fluffychat/commit/4c51299d9676199a7cc172a5c3970f868c7e0650)
+- [ ] [<code>Merge pull request #673 from TheOneWithTheBraid/braid/fix-emoji-zip-import</code>](https://github.com/krille-chan/fluffychat/commit/c3660af445f933fbc7ff4ed7289705b63b72d388)
+- [ ] [<code>Merge pull request #676 from Arkanosis/fix_links</code>](https://github.com/krille-chan/fluffychat/commit/5e0d4dab58ade97f10d45a35e629cfba147bc461)
+- [ ] [<code>chore: Follow up presences</code>](https://github.com/krille-chan/fluffychat/commit/a98a9040435d865311c51268c5cb4371b76df2df)
+- [ ] [<code>chore: Follow up set presences</code>](https://github.com/krille-chan/fluffychat/commit/c1495035412658f094ac5873b6f5fd2315227783)
+- [ ] [<code>Merge pull request #677 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e76781a24beb00797c33d218ce27511dd1f34995)
+- [ ] [<code>chore: upgrade flutter to 3.16.0</code>](https://github.com/krille-chan/fluffychat/commit/58fe80de0f8e7e796d229f02686dd1e3b699e94d)
+- [ ] [<code>refactor: Migrate for Flutter 3.16.0</code>](https://github.com/krille-chan/fluffychat/commit/f4d3e6f92810027cb2d8c965fe374eeb2ffdc696)
+- [ ] [<code>fix: whatever happens with android native libraries since flutter 3.16</code>](https://github.com/krille-chan/fluffychat/commit/56426eb4f0164739d47800f7e0cbc4d2c3d7e832)
+- [ ] [<code>fix: fcm patch</code>](https://github.com/krille-chan/fluffychat/commit/2d29bd3fb8e84e061ab8ad6db18947e1de9bd02e)
+- [ ] [<code>fix: Blurhash crashes on height 0</code>](https://github.com/krille-chan/fluffychat/commit/5f94ecf1a0667ad51b828cbfa7adb940dde860bd)
+- [ ] [<code>fix: Glitch in event info dialog</code>](https://github.com/krille-chan/fluffychat/commit/4588d82dad389694aef5e2ed4c01fc0a5360b4ab)
+- [ ] [<code>feat: Improved UX design for new chat page</code>](https://github.com/krille-chan/fluffychat/commit/f58b9b814a8c2d718f554a437664bbfaa7388872)
+- [ ] [<code>feat: New UX design for create group chat</code>](https://github.com/krille-chan/fluffychat/commit/7223581b97ab0eec191b32fe2df6fe1f05af652d)
+- [ ] [<code>chore: Do not ship unused emoji font for android and iOS</code>](https://github.com/krille-chan/fluffychat/commit/358e66e61201176c1c422bd4283976b4b1c282ba)
+- [ ] [<code>chore: Follow up create group</code>](https://github.com/krille-chan/fluffychat/commit/9c6db3de42a38bdfd95aa1d52b48aacc29760658)
+- [ ] [<code>fix: navigating back from full screen video</code>](https://github.com/krille-chan/fluffychat/commit/0214256eda163f63e11b8457744b9d6d71ccd9ea)
+- [ ] [<code>Merge pull request #679 from selfisekai/flutter-3.16</code>](https://github.com/krille-chan/fluffychat/commit/83ce07c5740d5f4e314bfe93ad3bb0784615bfb3)
+- [ ] [<code>chore: Follow up new chat: Add mxid if not found</code>](https://github.com/krille-chan/fluffychat/commit/e4e399b69bc00e4e387b55408ae577c69320d34d)
+- [ ] [<code>Merge pull request #691 from aryanA101a/videoFullscreenNavigateBackFix</code>](https://github.com/krille-chan/fluffychat/commit/4848af76554808edc11096bfde2c92d455adbfa2)
+- [ ] [<code>fix: Encryption dialog crashes in column mode</code>](https://github.com/krille-chan/fluffychat/commit/7a292655c8e07daa48f7cb7f30b819dfa63ca66f)
+- [ ] [<code>fix: Do not scroll up on enter chat</code>](https://github.com/krille-chan/fluffychat/commit/9c55800aebfad6857b77e3b73debbe66b7eecf1a)
+
+#### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
+
+
+#### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
+
+- [ ] [<code>Update Dockerfile (#448)</code>](https://github.com/toptal/haste-server/commit/ded18b0c2e1ad05eaba6ab5bb938ae6b54cb5147)
+
+#### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
+
+
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.1...HEAD)
+
+- [ ] [<code>Add experimental support for reading and writing gain maps. (#1501)</code>](https://github.com/AOMediaCodec/libavif/commit/50a541469c98009016af8dcc9f83a1be79f3a7d9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update the version to 1.0.1 (devel flag on)</code>](https://github.com/AOMediaCodec/libavif/commit/022b5be7561c13813e74856df3d08fbb58fc2db6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix arg name hint in avifgainmaptest.cc</code>](https://github.com/AOMediaCodec/libavif/commit/877e4d8ddc092fabeb2a443e6c52c7995a64d8ad)
+- [ ] [<code>Ext: Update to SVT-AV1 v1.7.0, zlibpng to 1.3 and libpng to 1.6.40 (#1531)</code>](https://github.com/AOMediaCodec/libavif/commit/c59d561127a9f4c3341e482aaaa7c22435b9994f)
+- [ ] [<code>Hash-pin GitHub workflows, set up dependabot to keep them up-to-date</code>](https://github.com/AOMediaCodec/libavif/commit/2130c4ccb17f46e0c2d8718e71d0673c3c819237)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump actions/checkout from 3.1.0 to 3.6.0</code>](https://github.com/AOMediaCodec/libavif/commit/7122ac85101490bde670231923d6c5ea98189cb9)
+- [ ] [<code>workflows: enable build of the AVIF gdk-pixbuf loader</code>](https://github.com/AOMediaCodec/libavif/commit/5de4a0053975d3a05239d9f1386bc46b33d1ff8d)
+- [ ] [<code>Bump ossf/scorecard-action from 2.1.2 to 2.2.0</code>](https://github.com/AOMediaCodec/libavif/commit/04227c65f954e833341d871979f87a41891ca593)
+- [ ] [<code>Bump actions/upload-artifact from 3.1.0 to 3.1.2</code>](https://github.com/AOMediaCodec/libavif/commit/e427dd3a7acf7c57e46f4b67cdb548c9782dec46)
+- [ ] [<code>Bump nttld/setup-ndk from 1.2.0 to 1.3.1</code>](https://github.com/AOMediaCodec/libavif/commit/df37d73d881a3a8c0864fc72cc629b64648838d5)
+- [ ] [<code>Bump github/codeql-action from 2.2.4 to 2.21.5</code>](https://github.com/AOMediaCodec/libavif/commit/7eff38369b395e0d07da1b72d181471e26c846a9)
+- [ ] [<code>Add tests/oss-fuzz/repro_fuzz.cc</code>](https://github.com/AOMediaCodec/libavif/commit/16f6a7dda71a27a80fd699e1991f26278d5f0a4f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Apply cmake-format 0.6.13</code>](https://github.com/AOMediaCodec/libavif/commit/b50eb969b4c3d32a5333eaa5affae55b6c559b1e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix 'tmap' items not getting filtered out. (#1545)</code>](https://github.com/AOMediaCodec/libavif/commit/0d9ef992ff4c80e27fa52ad71ed713a53f7e8cd7)
+- [ ] [<code>Add gain maps to CHANGELOG.md (#1536)</code>](https://github.com/AOMediaCodec/libavif/commit/262e11d9f4018ee89aacd153141f444b6db025a2)
+- [ ] [<code>Experimental reduced HEIF header</code>](https://github.com/AOMediaCodec/libavif/commit/73510a1ebaa008b72f8ba3cd086c2b1d72f707bd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ext: Checkout libaom v3.7.0</code>](https://github.com/AOMediaCodec/libavif/commit/974ed44470ac86bdabc44b9fc7544f07f643f4c5)
+- [ ] [<code>Rename avifreprofuzz to repro_avif_decode_fuzzer</code>](https://github.com/AOMediaCodec/libavif/commit/034af20e65741cb1d922122d4f979cd8821f3d13)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Put more code behind AVIF_ENABLE_EXPERIMENTAL_GAIN_MAP. (#1547)</code>](https://github.com/AOMediaCodec/libavif/commit/6ec0938306bdf77b502fd20fd03cae65c32f7789)
+- [ ] [<code>Remove define guard from gain map test. (#1552)</code>](https://github.com/AOMediaCodec/libavif/commit/4cfb7bfe875584d7c6b746ce1eaae4b7a275723b)
+- [ ] [<code>Give meaningful names to CI workflows. (#1553)</code>](https://github.com/AOMediaCodec/libavif/commit/69ed1a98ae52b708ba22ddd53de75ec898d4b88e)
+- [ ] [<code>Set CMAKE_POSITION_INDEPENDENT_CODE to ON for static builds. (#1556)</code>](https://github.com/AOMediaCodec/libavif/commit/8e48f19180e360bfb4ee1265809abb6a197c3142)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Ignore gain maps by default. (#1555)</code>](https://github.com/AOMediaCodec/libavif/commit/d80be869c15e18402a33f6ee0375f35009c41161)
+- [ ] [<code>Add flag :update support to avifenc</code>](https://github.com/AOMediaCodec/libavif/commit/4efa6589a0b8463c4121c7cab6d1a36b3c521d3f)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Add a function to convert gain map metadata double values to fractions. (#1546)</code>](https://github.com/AOMediaCodec/libavif/commit/bc6c2c52984addcef7368af7a9c0036b3b6bf828)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove unused includes in tilingtest,utilstest</code>](https://github.com/AOMediaCodec/libavif/commit/3dee4829c7935484ea196b138d47d44ad85d692d)
+- [ ] [<code>Removed unused include float.h</code>](https://github.com/AOMediaCodec/libavif/commit/14bc20d70a752f27be7d46d45306b22b7b047eb8)
+- [ ] [<code>avifenc: Update the default yuv format for grayscale PNG</code>](https://github.com/AOMediaCodec/libavif/commit/e63c43c80c15f90f60b2f06b5252893a8a87bbd5)
+- [ ] [<code>Add missing AVIF_CHECKRES() in write.c</code>](https://github.com/AOMediaCodec/libavif/commit/fac3bae8f5d4fddaf5cf23378598ffe8c3f5a738)
+- [ ] [<code>Add golden tests for the written AVIF metadata structure. (#1554)</code>](https://github.com/AOMediaCodec/libavif/commit/a120c6facdaccfda28efd4ae81a64bb361df01eb)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Use local copies of ScalePlane* functions when libyuv is not found</code>](https://github.com/AOMediaCodec/libavif/commit/808bf58d11745dcc66c59c171f64ddcd020c37fa)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Apply clang-format-12</code>](https://github.com/AOMediaCodec/libavif/commit/1ebdbe9bae625ce7ea46901022843f89c39b9c19)
+- [ ] [<code>Bump jwlawson/actions-setup-cmake from 1.13 to 1.14</code>](https://github.com/AOMediaCodec/libavif/commit/8954b03d5a70c9b7babe7cfb256d192f0bf92e88)
+- [ ] [<code>Add support for reading jpeg gain maps and converting them to AVIF. (#1565)</code>](https://github.com/AOMediaCodec/libavif/commit/c90b0948886072bdd5adf23950871d9185dc8cf2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>find_package</code></sub>
+- [ ] [<code>Add unit tests for XMP parsing. (#1573)</code>](https://github.com/AOMediaCodec/libavif/commit/078aa804e44fbfd1331b5caa2822055c31291c1d)
+- [ ] [<code>Remove unused avifDecoderData::codecGainMap</code>](https://github.com/AOMediaCodec/libavif/commit/8ec6f42a58b9fa8fd268741ab0d59d8854ee6a3e)
+- [ ] [<code>Add gain map entries in avifResultToString()</code>](https://github.com/AOMediaCodec/libavif/commit/590f7924d0d0782eeb868d2da0d5a52020c0d751)
+- [ ] [<code>Move third_party/libyuv/LICENSE to top-level</code>](https://github.com/AOMediaCodec/libavif/commit/222f74d8345ff3dff6bc4340cb38d421f334fada)
+- [ ] [<code>Add golden tests for gain maps. (#1578)</code>](https://github.com/AOMediaCodec/libavif/commit/0d07abb10ea9da6904311580cbd5ddbfb243f817)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Treat SYSTEM include directories as such</code>](https://github.com/AOMediaCodec/libavif/commit/ad3f374d4b4c6cdceea4b144775f13acb1f6bbf8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update a stale comment for avifItemCategory</code>](https://github.com/AOMediaCodec/libavif/commit/6e49d119b041422ae8a2c8c64b4021ca2f793d04)
+- [ ] [<code>Add gain map err in avifGetErrorForItemCategory()</code>](https://github.com/AOMediaCodec/libavif/commit/677d26f4986e68c52d973c9acb619d9e3e2db9c4)
+- [ ] [<code>Only ignore reproducible gain map errors</code>](https://github.com/AOMediaCodec/libavif/commit/a88dd058713927c8bb918e0d8f22d195a971d3eb)
+- [ ] [<code>Fix third_party libyuv path in LICENSE</code>](https://github.com/AOMediaCodec/libavif/commit/3549fa105883dbe3a361cc413fabc40254a34f9e)
+- [ ] [<code>Add avifalphanoispetest for coverage</code>](https://github.com/AOMediaCodec/libavif/commit/c5f5e2f4a711651417b4e2744616ea30a2ffb376)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix comments in avifDecoderData</code>](https://github.com/AOMediaCodec/libavif/commit/18f3bb0c50c56f32c861df001ce579fd26f122ae)
+- [ ] [<code>Merge progressiveState code in avifDecoderReset()</code>](https://github.com/AOMediaCodec/libavif/commit/7e5f89cfe48d133c514e3bc10b7d6383f3d6be8f)
+- [ ] [<code>Add --layered flag to avifenc</code>](https://github.com/AOMediaCodec/libavif/commit/08298956237ebbe869561ba2f735bb8c54a901f0)
+- [ ] [<code>Allow reading the gain map metadata without reading the gain map itself. (#1587)</code>](https://github.com/AOMediaCodec/libavif/commit/6410978ccbbd0d915a1e90982927054ee749ffe3)
+- [ ] [<code>Set tests/test_cmd_progressive.sh as executable</code>](https://github.com/AOMediaCodec/libavif/commit/274c76e790bc8d93b82f33eea03579219fefc4db)
+- [ ] [<code>Treat SYSTEM include directories as such (#1580)</code>](https://github.com/AOMediaCodec/libavif/commit/573a48f088c00153a86a22ac3b17432ec1da1a68)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Lower threshold to skip YUV-RGB conversion tests again (#1590)</code>](https://github.com/AOMediaCodec/libavif/commit/3b1a15bfb6eb430a0f3df5b689f70fb9f3c34c40)
+- [ ] [<code>Bump github/codeql-action from 2.21.5 to 2.21.7</code>](https://github.com/AOMediaCodec/libavif/commit/a4e4168b6e1cda169438c73e62fa840850d75266)
+- [ ] [<code>Allow providing a custom decoder to testutil::DecodeIncrementally. (#1592)</code>](https://github.com/AOMediaCodec/libavif/commit/c1312cf735da65ddb5eefc3f705fbb38c8b2f914)
+- [ ] [<code>Add test for animated image decoding</code>](https://github.com/AOMediaCodec/libavif/commit/80977381fac2c69d38cf9699b7018982f73e1de8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add FuzzTest targets through AVIF_ENABLE_FUZZTEST</code>](https://github.com/AOMediaCodec/libavif/commit/d1a36fcbddc18a2b65268c90d56a4e6bacda5d5e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Compare box size and chunks sizes in 'coni' box</code>](https://github.com/AOMediaCodec/libavif/commit/40988c29d6bce91e762dc8b58bbac27a2a164eb2)
+- [ ] [<code>Fuzztest: switch raw ptr to unique_ptr now that fuzztest supports it. (#1597)</code>](https://github.com/AOMediaCodec/libavif/commit/1e0205a7db51b699ac31910622ff9b83cde4964d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Print gain map info in avifenc/avifdec. (#1598)</code>](https://github.com/AOMediaCodec/libavif/commit/3669d47e1f9f3ea5ab0e3a923b15fad185ac2209)
+- [ ] [<code>Expose animation track presence in avifDecoder</code>](https://github.com/AOMediaCodec/libavif/commit/5410b23f76aab8b699a722c37e0801bbac10e9b7)
+- [ ] [<code>Add avifBreakOnError() to internal.h</code>](https://github.com/AOMediaCodec/libavif/commit/28bdf64e0d0880f30d546a267209db07dba50a32)
+- [ ] [<code>Take the gain map into account in avifDecoderDecodedRowCount(). (#1599)</code>](https://github.com/AOMediaCodec/libavif/commit/0bdf12405afdc5fcf120f7e87e252cce8161cc4a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Rename avifToUnsignedFraction to avifDoubleToUnsignedFraction. (#1602)</code>](https://github.com/AOMediaCodec/libavif/commit/f2e16fd67fac9e2da414d4a23a712080715026c6)
+- [ ] [<code>android_jni: Include libyuv in version string only when available</code>](https://github.com/AOMediaCodec/libavif/commit/63a8165740a751daf0d57e0a2401381f9ec99060)
+- [ ] [<code>ext: Add libyuv_android.sh</code>](https://github.com/AOMediaCodec/libavif/commit/e5b042a631ebf2458e7721fd778aede9cc06796b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge gainmap.h with avif.h (#1603)</code>](https://github.com/AOMediaCodec/libavif/commit/ddc7823584c5e92e2732292b5e7a4ddd9bb8061e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add fuzzer test for encoding/decoding of a grid with gain maps. (#1601)</code>](https://github.com/AOMediaCodec/libavif/commit/df7a543f2f9c750b11e4a3ea3cee0c6f1303b5bb)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add CI for installed CMake (#1600)</code>](https://github.com/AOMediaCodec/libavif/commit/8e7ab4fdec2c7d3dff5b3c0fe5470e670d728b5c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Apply cmake-format 0.6.13</code>](https://github.com/AOMediaCodec/libavif/commit/977fca5c5ed536a6635b7b4f7c369154aa52d9e1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix arg name comment in fuzz_enc_dec_incr_exp</code>](https://github.com/AOMediaCodec/libavif/commit/a280e737484ac96c81a10fc7a17c2d4ed47be8b0)
+- [ ] [<code>Define macros for gtests and fuzztests. (#1609)</code>](https://github.com/AOMediaCodec/libavif/commit/b4fa94bc109afc6b9036cc5f3439891ef04f7bf0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add AVIF_ENABLE_COMPLIANCE_WARDEN</code>](https://github.com/AOMediaCodec/libavif/commit/ef6da2a7811e8d790dad0806f381a876ad63d434)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use dav1d by default for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/b231410e2490ae253f9e6fa541a00120e1309a47)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>android_jni: Use %u for unsigned int</code>](https://github.com/AOMediaCodec/libavif/commit/0d4747af5b3f7b150c3838e6148c49a0bf0e0064)
+- [ ] [<code>Cancel previous CI workflows when pushing new changes, except on main. (#1615)</code>](https://github.com/AOMediaCodec/libavif/commit/f5a13034454935c8c1a9660938abc84c5ce71bfa)
+- [ ] [<code>Introduce avifDecoderData::tileInfos</code>](https://github.com/AOMediaCodec/libavif/commit/146ed9551297303e5397a59d4ea45beca6d26791)
+- [ ] [<code>Add more gain map decoding tests. (#1617)</code>](https://github.com/AOMediaCodec/libavif/commit/4efad304a84855cc749630b0a8181b7f70d8e195)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump github/codeql-action from 2.21.7 to 2.21.8 (#1618)</code>](https://github.com/AOMediaCodec/libavif/commit/9795b908c1335d6e21d47560693107984166a303)
+- [ ] [<code>Bump actions/setup-java from 3.12.0 to 3.13.0 (#1619)</code>](https://github.com/AOMediaCodec/libavif/commit/5cf83bbdaa6cac193a60f58acde094c5ce01267c)
+- [ ] [<code>Fix nits in compliance.cc and CMakeLists.txt</code>](https://github.com/AOMediaCodec/libavif/commit/47e58af146896e6160050ffcc1c05e41cccfbe79)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix add_avif_fuzztest macro. (#1621)</code>](https://github.com/AOMediaCodec/libavif/commit/98902f8475f623464024121da0d4e6ce7e14bceb)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump actions/checkout from 3 to 4</code>](https://github.com/AOMediaCodec/libavif/commit/9e4e6b38cbda197dcdae7a6c0ed888dcab4c2e0f)
+- [ ] [<code>Split avifReformatState into an RGB part and a YUV part. (#1622)</code>](https://github.com/AOMediaCodec/libavif/commit/ca79f337300b0a5250c51d0ae2bf99995de4f97c)
+- [ ] [<code>Don't add ldflags to aom library (#1581)</code>](https://github.com/AOMediaCodec/libavif/commit/28ba2afba7e969cc40fff70fe32316422b7c96ed)
+- [ ] [<code>Rename avifRGBSpaceInfo to avifRGBColorSpaceInfo. (#1623)</code>](https://github.com/AOMediaCodec/libavif/commit/f6661aca6b5c443e95ffb57613351bb12ff9eae4)
+- [ ] [<code>Fix 'paris_exif_xmp_gainmap_bigendian.jpg' which had bad MPF metadata. (#1624)</code>](https://github.com/AOMediaCodec/libavif/commit/3622638eb95e22a0e9ed7286dcb90a168368c7a5)
+- [ ] [<code>Bump android-actions/setup-android from 2.0.10 to 3.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/97757d66f7b814ba470119042bea37bf4a43e319)
+- [ ] [<code>Update .github/workflows/ci-android-jni.yml</code>](https://github.com/AOMediaCodec/libavif/commit/fc592f01f88acdf44bc7019cc78c850485120f38)
+- [ ] [<code>Fix comment. (#1626)</code>](https://github.com/AOMediaCodec/libavif/commit/033f5742a8e01712daf6475590734fc27262d8bb)
+- [ ] [<code>Add fuzzing for avifReadImage. (#1627)</code>](https://github.com/AOMediaCodec/libavif/commit/e57cc5e20d4ca84a13e8e807d4134cd2c016c701)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove gtest_discover_tests() from CMakeLists.txt (#1629)</code>](https://github.com/AOMediaCodec/libavif/commit/fc00f1b1a2bde50d80d35e1d26a0293bd67e21e6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add a simple fuzzer that decodes (non incrementally) a bitstream. (#1630)</code>](https://github.com/AOMediaCodec/libavif/commit/cfbee48b02018dcae01f53e1f5dae882d546a131)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Move the building script from oss-fuzz to libavif. (#1632)</code>](https://github.com/AOMediaCodec/libavif/commit/ce026241b3ba8240d615019e17469d6aa4f455de)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: unused parameter error in third_party libyuv with release build  (#1634)</code>](https://github.com/AOMediaCodec/libavif/commit/17d7cbb9c432901f83a5e5df9361e374fdfb092b)
+- [ ] [<code>Bump github/codeql-action from 2.21.8 to 2.21.9 (#1636)</code>](https://github.com/AOMediaCodec/libavif/commit/1c553799a3c2ed4d7d4698a9240419d95cc72468)
+- [ ] [<code>Bump actions/checkout from 4.0.0 to 4.1.0</code>](https://github.com/AOMediaCodec/libavif/commit/b55deaa5c17ab84d3e83a0693379482d73a46bf3)
+- [ ] [<code>Add a missing version number in ci-linux-golden-tests.yml (#1637)</code>](https://github.com/AOMediaCodec/libavif/commit/4225aabca1872af145ba00a103e4528372dae536)
+- [ ] [<code>build: static compile local dependencies; combine library archives when building static libavif (#1579)</code>](https://github.com/AOMediaCodec/libavif/commit/12e066686892df1c8201cfb0d8d6c68ad248c872)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>find_package</code></sub>
+- [ ] [<code>Bump ext/ComplianceWarden to e269736</code>](https://github.com/AOMediaCodec/libavif/commit/541c9f003e8be3e6ee84625e1c328a3c14b946df)
+- [ ] [<code>Validate some sizes avifParseCondensedImageBox</code>](https://github.com/AOMediaCodec/libavif/commit/622336e419de70bc1cf32d08fade6ef0fa58a547)
+- [ ] [<code>Add fuzzing for animation encoding then decoding. (#1641)</code>](https://github.com/AOMediaCodec/libavif/commit/2c6b64bf306e9f8aa8d86c7677214e451e59036c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fuzz experimental decoder options. (#1631)</code>](https://github.com/AOMediaCodec/libavif/commit/2752d8f7b9215cc70b3608bbc8995c66b8cb9824)
+- [ ] [<code>Use seed files in avif_fuzztest_dec_incr and refactor. (#1638)</code>](https://github.com/AOMediaCodec/libavif/commit/8189e1643f149cc197e3a79db002508b4f9d3431)
+- [ ] [<code>Use specialized InRange() in fuzz_enc_dec_anim</code>](https://github.com/AOMediaCodec/libavif/commit/635f2afe1d4dba7a631319c050cd4a3bcc1fc36f)
+- [ ] [<code>Always use AUTO, AOM and DAV1D as codec choices in fuzzers. (#1644)</code>](https://github.com/AOMediaCodec/libavif/commit/8647f6e76e116a7f02934c64fae4465d9a2c0b7d)
+- [ ] [<code>Bump third_party/libyuv to a3b9c36 (#1646)</code>](https://github.com/AOMediaCodec/libavif/commit/d5ebb427f6f0afb7b945ffcaa3085c53e7db9a93)
+- [ ] [<code>Fix ArbitraryAvifDecoder() without EXP_GAIN_MAP</code>](https://github.com/AOMediaCodec/libavif/commit/f9625fc16e29535a0c822108841d30f1b41ce562)
+- [ ] [<code>Skip 'stss' box if all samples are sync</code>](https://github.com/AOMediaCodec/libavif/commit/0d09ac5d60e26189820a1c3e54fb641d3432808e)
+- [ ] [<code>Remove legacy_stdio_definitions.lib, advapi32.lib and msvcrt.lib deps with mingw (#1649)</code>](https://github.com/AOMediaCodec/libavif/commit/575ed4fea379ea0afc29d70d01fa7c7ef97becca)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>gitignore ext/libxml2</code>](https://github.com/AOMediaCodec/libavif/commit/04bde5f331064112e230a4de2b0bcb7ebf82bb0c)
+- [ ] [<code>Add some missing return value checks. (#1652)</code>](https://github.com/AOMediaCodec/libavif/commit/bba8fe6b5bb1877729a20d38d7bb7630ebbce454)
+- [ ] [<code>Change Dependabot schedule.interval to monthly</code>](https://github.com/AOMediaCodec/libavif/commit/5f1432360b20727f57651685b77f0255d86ea74f)
+- [ ] [<code>Handle out-of-memory failures in avifCodecCreate()</code>](https://github.com/AOMediaCodec/libavif/commit/0a4fab1bc8a9aa2aca1f22ce4d33e81dc40b6044)
+- [ ] [<code>avio brand when at least one keyframe-only seq</code>](https://github.com/AOMediaCodec/libavif/commit/6130ff50a8328d40e00eb03d862008bbf789afb9)
+- [ ] [<code>avifFillAlpha and avifReformatAlpha do not need a return value. (#1656)</code>](https://github.com/AOMediaCodec/libavif/commit/b4ddd6390ac2df623ee4dc9e38b8cc71561f5418)
+- [ ] [<code>Create a Dependabot group for all GitHub actions</code>](https://github.com/AOMediaCodec/libavif/commit/cb6fdc3fc50cf81815a3b8f412836648a1ec210b)
+- [ ] [<code>Make avifImageScale function public</code>](https://github.com/AOMediaCodec/libavif/commit/55aab4ac0607ab651055d354d64c4615cf3d8000)
+- [ ] [<code>Check avifAlloc() success in aomCodecEncodeImage()</code>](https://github.com/AOMediaCodec/libavif/commit/1a6342e4b5a18cbf7e2222efe66b624236476fe2)
+- [ ] [<code>Free dedup in case of error to avoid memory leaks. (#1659)</code>](https://github.com/AOMediaCodec/libavif/commit/e2610c7d20af8dc3f5276f61401eb614f9d6be71)
+- [ ] [<code>Check avifAlloc() in avifIOCreateMemoryReader()</code>](https://github.com/AOMediaCodec/libavif/commit/ee29bec775ab8e6d555f602775301c14302b96e7)
+- [ ] [<code>reformat_libyuv: Fix compile with libyuv < 1780</code>](https://github.com/AOMediaCodec/libavif/commit/663e45b92d162a03799b04e8f06bde9272d7cfbe)
+- [ ] [<code>Correct the name of the 'infe' box</code>](https://github.com/AOMediaCodec/libavif/commit/5c96ab48530f724ded693010d6336ce44ef8c363)
+- [ ] [<code>Make sure the fuzz tests don't crash when listing tests. (#1669)</code>](https://github.com/AOMediaCodec/libavif/commit/d95e85c792c70ad63c14ebc6d911b23fb39499d6)
+- [ ] [<code>Check avifAlloc() in avifSampleTableCreate() (#1662)</code>](https://github.com/AOMediaCodec/libavif/commit/18f7588b790573c006b6c8e8e16521faade6703e)
+- [ ] [<code>Replace non-ascii character. (#1670)</code>](https://github.com/AOMediaCodec/libavif/commit/2817a4723a25987b8956c824e04952e7658a2416)
+- [ ] [<code>Check avifAlloc() success in avifDecoderCreate() (#1663)</code>](https://github.com/AOMediaCodec/libavif/commit/72843a5ffcd5152e30bd3792719dd9d16345aa7e)
+- [ ] [<code>Parse the gain map image's depth and yuv info during the parsing phase. (#1672)</code>](https://github.com/AOMediaCodec/libavif/commit/58c690e41387849764d65042592ef0b753ebb129)
+- [ ] [<code>read.c: Remove diagnostic message</code>](https://github.com/AOMediaCodec/libavif/commit/7c639addff3328ac8d02f0cf1d6aa8b8ce988086)
+- [ ] [<code>Rename avifStatus to avifResult in comment. (#1673)</code>](https://github.com/AOMediaCodec/libavif/commit/066daebb499dd546fa997346bec72712875c74c6)
+- [ ] [<code>Add function to convert avifGainMapMetadata to Double version. (#1676)</code>](https://github.com/AOMediaCodec/libavif/commit/a9cd4d2ea9f25b2c918b7d574d8d081ed9da9792)
+- [ ] [<code>Implement tranfer functions for gamma<->linear conversion. (#1674)</code>](https://github.com/AOMediaCodec/libavif/commit/ce3612b82b749884b239e36eadf287f414c91543)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add utilities to get/set RGBA values for any RGB format. (#1677)</code>](https://github.com/AOMediaCodec/libavif/commit/163ee01cc4abb3be07507634bdd92fc4a75db32d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add avifGetRGBAPixel() -> avifSetRGBAPixel() test</code>](https://github.com/AOMediaCodec/libavif/commit/7a07e7206bd7012de8c26249f8e49b7880897ad3)
+- [ ] [<code>Set video range when encoding with SVT-AV1</code>](https://github.com/AOMediaCodec/libavif/commit/66fb47cca8984f6c59a78aa8603d274845f10790)
+- [ ] [<code>Add a --qgain-map flag. (#1686)</code>](https://github.com/AOMediaCodec/libavif/commit/46c8286e58f4cb4a8896c7917f2bf21027d49a95)
+- [ ] [<code>Remove yuvRange assertion in avifImageCopySamples</code>](https://github.com/AOMediaCodec/libavif/commit/e7b725ef6c10cd1cd39a65fed5703660343c9226)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>aom.cmd: Use version on libaom 3.7 release branch</code>](https://github.com/AOMediaCodec/libavif/commit/236d23d175e7192142a993bef39e2823baa0d06b)
+- [ ] [<code>Check avifAlloc() in avifCodecEncodeOutputCreate()</code>](https://github.com/AOMediaCodec/libavif/commit/730b89a24d5c07c2b791ea00c1953a824e68c612)
+- [ ] [<code>Check avifAlloc() success in avmCodecEncodeImage()</code>](https://github.com/AOMediaCodec/libavif/commit/927dd0dc6a4cbcd8ff28fd0f9534562e9655e2d9)
+- [ ] [<code>Run cmake-format. (#1692)</code>](https://github.com/AOMediaCodec/libavif/commit/75dfe99affb8035e2afaa57220732c4f4c6ec045)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump ext/avm.cmd to research-v5.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/a5e63209fcf1c43c74b1d4218d4c6dd7fce8e8f2)
+- [ ] [<code>Check avifAlloc() result in avifArrayPush*()</code>](https://github.com/AOMediaCodec/libavif/commit/1fbea62c9ba6dd08b341485d1764c20fa624db09)
+- [ ] [<code>Add CONFIG_BLOCK_256 av2C parsing path for avm</code>](https://github.com/AOMediaCodec/libavif/commit/21f620f6ac34d77b9a2c79626150338d3bc225a4)
+- [ ] [<code>Speed test_cmd_avm up</code>](https://github.com/AOMediaCodec/libavif/commit/8a97da4a181471fc87f10c1bcdf0e0db136de063)
+- [ ] [<code>Check avifAlloc() in avifItemPropertyDedupCreate()</code>](https://github.com/AOMediaCodec/libavif/commit/da787ba0c4d59e0dedb4dd43cb86f42969be8298)
+- [ ] [<code>Add libyuv to tests/oss-fuzz/avif_decode_fuzzer</code>](https://github.com/AOMediaCodec/libavif/commit/60bbef7c47a8d564189df603ec12d4a9b67a71a5)
+- [ ] [<code>Simplify returnCode setting. (#1699)</code>](https://github.com/AOMediaCodec/libavif/commit/9b35de474219adfc6227901c09f8a7bce8f96c0d)
+- [ ] [<code>Allow UTF8 on windows using setlocale. (#1693)</code>](https://github.com/AOMediaCodec/libavif/commit/edf3dab0111ef749e84b344dac55c2f5ab4731a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Handle memory allocation failures in apps</code>](https://github.com/AOMediaCodec/libavif/commit/e4fee4c64061528585e43bfa4e2f4973e7783507)
+- [ ] [<code>Remove abort() on avifAlloc() failure</code>](https://github.com/AOMediaCodec/libavif/commit/1d51a11389910fd04e1e358738a05f263377797f)
+- [ ] [<code>Don't call avifAlloc,avifFree in apps and examples</code>](https://github.com/AOMediaCodec/libavif/commit/fd7373769d4212b086f5796b8bbb3c547aefe9af)
+- [ ] [<code>Speed up some builds. (#1703)</code>](https://github.com/AOMediaCodec/libavif/commit/f0155f5529b97c159b3a9bf4bdb9d07b94ec6c66)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Patch alpha_video.avif to fix the iref box</code>](https://github.com/AOMediaCodec/libavif/commit/3b62f55e76c491baf7f1c9e1d3c06d8a943e65cf)
+- [ ] [<code>android_jni: Support scaling (#1675)</code>](https://github.com/AOMediaCodec/libavif/commit/45f9fba3938ad24c5ad3bd3d70cc1b9e00141356)
+- [ ] [<code>Do not build fuzztest in ext (#1705)</code>](https://github.com/AOMediaCodec/libavif/commit/6d0134f1bba2656dde48c870ad6f666c3654f0a6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Use camelCase in AvifDecoderTest.java</code>](https://github.com/AOMediaCodec/libavif/commit/93cce1e7cc5f7ddb40ae13dc63990b4665bdf123)
+- [ ] [<code>Use fuzztest targets for oss-fuzz. (#1633)</code>](https://github.com/AOMediaCodec/libavif/commit/a12e0dc6c8a72959603797875163bcb509f98d23)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add an option to set [[nodiscard]] (#1655)</code>](https://github.com/AOMediaCodec/libavif/commit/679621149f9bb710ed90f9c3abcdfbc97a92d94e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix succesful typo in avif_example_decode_streaming.c (#1707)</code>](https://github.com/AOMediaCodec/libavif/commit/f1150316b3bb4d8710043ab1656435d7964b859a)
+- [ ] [<code>Refactor FuzztestStackLimitEnvironment()</code>](https://github.com/AOMediaCodec/libavif/commit/1f65d4820bc0e0b14dd418a73f0236e74390271e)
+- [ ] [<code>Disable all executables for the libwebp CMake (#1710)</code>](https://github.com/AOMediaCodec/libavif/commit/70b7c7b4e47a721969ff6e0ad27e61d0c723e3f3)
+- [ ] [<code>Rename key to name in fuzztest SetEnv()</code>](https://github.com/AOMediaCodec/libavif/commit/3ee69873e3d074e20b0243570dce1eafd14cc90e)
+- [ ] [<code>Make the Environment class's data members private</code>](https://github.com/AOMediaCodec/libavif/commit/32d90f8b0d4b002e77edc0b295e3576935dc931f)
+- [ ] [<code>Add an avifApplyGainMap function. (#1682)</code>](https://github.com/AOMediaCodec/libavif/commit/f9dd31fea43f748ce1a6e49be4cd9e68b916ebe6)
+- [ ] [<code>Revert "Use fuzztest targets for oss-fuzz. (#1633)"</code>](https://github.com/AOMediaCodec/libavif/commit/01279413c7eb087f610ada98b6f7293170c163c8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump the github-actions group with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/40d5d01885fb824bd7d2ee148c3426de5ab15887)
+- [ ] [<code>tests/oss-fuzz/build.sh: Minor cleanup</code>](https://github.com/AOMediaCodec/libavif/commit/7aa84aec97688effa4dca0b91926dafcbac0b0d3)
+- [ ] [<code>avifenc: set a default gain map quality (#1714)</code>](https://github.com/AOMediaCodec/libavif/commit/6261b6eb152dcc941fae3228d48dbe0fb9becca2)
+- [ ] [<code>Update gain map metadata syntax and semantics based on latest draft. (#1715)</code>](https://github.com/AOMediaCodec/libavif/commit/bdf8349429f46cdb0db9d8647cbc22965e26c4a2)
+- [ ] [<code>Add a cmd line gain map test. (#1723)</code>](https://github.com/AOMediaCodec/libavif/commit/f647313b92f5399203379194d73525aa56247aad)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Add an avifComputeGainMap function. (#1724)</code>](https://github.com/AOMediaCodec/libavif/commit/9d4ac50afc8417e6d5d0b13a1417bc6a4253f30a)
+- [ ] [<code>Expand CLLI documentation. (#1729)</code>](https://github.com/AOMediaCodec/libavif/commit/9157c74ddfd3ba009cb216b830947bd01d241106)
+- [ ] [<code>Add the 'popl' flag parsing library to third_party/ (#1731)</code>](https://github.com/AOMediaCodec/libavif/commit/67d8c8cbfb42a62e6b9da486f90d3dc008405d02)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Move third_party/popl/LICENSE to LICENSE section</code>](https://github.com/AOMediaCodec/libavif/commit/655dc1bb406d0e0eeceffc99c6875a21abb6f8bf)
+- [ ] [<code>Add missing 'useBaseColorSpace' field to avifGainMapMetadataDouble. (#1735)</code>](https://github.com/AOMediaCodec/libavif/commit/d13b00ff5913d00439b1321652cb7f8622377240)
+- [ ] [<code>Revert the addition of popl (#1738)</code>](https://github.com/AOMediaCodec/libavif/commit/fdac0fdabf4aa547275819ecc5b8a2d8b6749612)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Only call enable_language and set CMAKE_CXX_STANDARD once. (#1737)</code>](https://github.com/AOMediaCodec/libavif/commit/ef39c72f7f86b48af6686c3ed2c9a70f55146fa8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add a public C++ header. (#1733)</code>](https://github.com/AOMediaCodec/libavif/commit/ad1a70634194dee1d93de225422fb071a9131373)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Sync third_party/libyuv and propagate errors (#1739)</code>](https://github.com/AOMediaCodec/libavif/commit/eafb4d76adc86266b6bb917cd4f6f1b609091e6a)
+- [ ] [<code>Add a basic version of avifgainmaputil. (#1734)</code>](https://github.com/AOMediaCodec/libavif/commit/f33b62429ea7b07356e92ee182679bbdf7f36280)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/AOMediaCodec/libavif/commit/89af49d168cfc8c2cf975040adf4ebd8858b13cc)
+- [ ] [<code>Fix "compresion" typo</code>](https://github.com/AOMediaCodec/libavif/commit/e939360a09ad68e0b2f268b0b561e6425b813eea)
+- [ ] [<code>avifenc: Change default value of --jobs to "all"</code>](https://github.com/AOMediaCodec/libavif/commit/4dd98efaf830331fff470601030b4ee2b613a186)
+- [ ] [<code>Don't require crop width,height be even for 4:2:0</code>](https://github.com/AOMediaCodec/libavif/commit/9342e58b49569faa3ec8b7e30e060a5ce8564ab0)
+- [ ] [<code>Move iccjpeg to third_party/ (#1746)</code>](https://github.com/AOMediaCodec/libavif/commit/026096bebdbe8bfe33d5037598bbb916558021d9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Return DECODE_FAILED on tile/choice codec mismatch (#1753)</code>](https://github.com/AOMediaCodec/libavif/commit/415928322278f0e74bb8ec9a6eec98218ffdd85f)
+- [ ] [<code>Add 'combine' command to avifgainmaputil. (#1747)</code>](https://github.com/AOMediaCodec/libavif/commit/deafdcb34705777a60a82c393d516fcf26962130)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: Fix a typo in the ci-unix-static-av2 workflow so AV1+AV2 tests run (#1748)</code>](https://github.com/AOMediaCodec/libavif/commit/809dbdc6a57ab05ac286c108fe658300e478da31)
+- [ ] [<code>fix: avif_android jni build.gradle config ndkVersion and target (#1751)</code>](https://github.com/AOMediaCodec/libavif/commit/216ad2d0ca304aba9d58188d6439a8af7206ad6c)
+- [ ] [<code>Format avifgainmaputil. (#1759)</code>](https://github.com/AOMediaCodec/libavif/commit/b293d7e988ac863ee2b45b9119281909d2aaaae0)
+- [ ] [<code>Do not store item pointers until all items are created</code>](https://github.com/AOMediaCodec/libavif/commit/2041109967c1746178c736e0a1504d9c97b51a5c)
+- [ ] [<code>Remove potential out of bound access to alphaItemIndices</code>](https://github.com/AOMediaCodec/libavif/commit/6d62963f74aa76dbe05ac8c84bed94dece9ddde5)
+- [ ] [<code>Add a 'tonemap' command to avifgainmaputil. (#1760)</code>](https://github.com/AOMediaCodec/libavif/commit/8430f45af6fc9b4ad4c41d6d65a4552328671ba0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add a 'swapbase' command to avifgainmaputil. (#1761)</code>](https://github.com/AOMediaCodec/libavif/commit/b70106643236e3e59cb4cad73469336885e309ab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix bug in avifgainmaputil's printmetadata command. (#1767)</code>](https://github.com/AOMediaCodec/libavif/commit/bdcd20ee459d56f671f1f7ec0739fea57c02f7f4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Check for NULL input in avifIOMemoryReaderRead() (#1768)</code>](https://github.com/AOMediaCodec/libavif/commit/db6fbed5c510b375118f014e4f9620ee86956583)
+- [ ] [<code>Improve printing of gain map info. (#1781)</code>](https://github.com/AOMediaCodec/libavif/commit/f2176ec2ca38a3cc6e5fcbfb2b526ebdec11a74e)
+- [ ] [<code>Add flags to override cicp in 'combine' command of avifgainmaputil. (#1780)</code>](https://github.com/AOMediaCodec/libavif/commit/612a47984422c275e024451d690719eacab1c666)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Return OK in IOMemRead() if rodata.data is NULL (#1779)</code>](https://github.com/AOMediaCodec/libavif/commit/14feabbc17be0f0b221142aca68af1b487527ce5)
+- [ ] [<code>Add comment about Exif offset in avifImage (#1766)</code>](https://github.com/AOMediaCodec/libavif/commit/a4c9b0dcccbb96dc7f590c328814fded4a11ff62)
+- [ ] [<code>fix: libavif_jni -Wunused-param</code>](https://github.com/AOMediaCodec/libavif/commit/61afd97eb6b2ab6222303bafb26d621cf382a759)
+- [ ] [<code>s/IGNORE_UNUSED_JNIPARAMETER/IGNORE_UNUSED_JNI_PARAMETER/g</code>](https://github.com/AOMediaCodec/libavif/commit/484984aa0365b71d211a7f6612f30787a1c88230)
+- [ ] [<code>svt.sh: Pass disable-native to build.sh</code>](https://github.com/AOMediaCodec/libavif/commit/0f525f5374628c955666bb342169cd258a5a7dd2)
+- [ ] [<code>Add ext/svt.sh to the keys of relevant cache files</code>](https://github.com/AOMediaCodec/libavif/commit/9049f8ab4d37f32c5f7a3861074372f5e8ddc09a)
+- [ ] [<code>fix: build cargo-c with --locked to work around rust-lang/cargo#13002 (#1785)</code>](https://github.com/AOMediaCodec/libavif/commit/5ba0e1412921aa90fc9e26a4818aa0b0c67c0c7a)
+- [ ] [<code>avifdec: Change default value of --jobs to "all"</code>](https://github.com/AOMediaCodec/libavif/commit/24c8ec60d980a2681e00ee1aeaa25f0c0374d72c)
+- [ ] [<code>Add a decoder test that parses empty data</code>](https://github.com/AOMediaCodec/libavif/commit/ec933f5969fa7319edd3ea30a14587cea412ced8)
+- [ ] [<code>Update the version to 1.0.2 (devel flag on)</code>](https://github.com/AOMediaCodec/libavif/commit/de67801bf4f9073a3478badcb044334319b18f81)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ext: Checkout libaom v3.7.1</code>](https://github.com/AOMediaCodec/libavif/commit/2d4da4478424801b63ff34212e4e197cf4d5e1ff)
+- [ ] [<code>Set some dependency options to be multi-choice. (#1758)</code>](https://github.com/AOMediaCodec/libavif/commit/f7ce882698307cad524603b9d528ce70c0d0d299)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Misc workflow fixes (#1788)</code>](https://github.com/AOMediaCodec/libavif/commit/9de0ee88e5a592b32adfa4c5f9a54d5a2e9d8ab6)
+- [ ] [<code>Use default yuv format and depth for the gain map when converting jpegs. (#1789)</code>](https://github.com/AOMediaCodec/libavif/commit/9dae38279b7da440aa443df6c09a2e2079b39c64)
+- [ ] [<code>Rename compute gain map functions for consistency. (#1792)</code>](https://github.com/AOMediaCodec/libavif/commit/8250cb9d468f30345162d66697179b171c9ff4c0)
+- [ ] [<code>Fix avifgainmaputil trying to create images with pixel format 0. (#1793)</code>](https://github.com/AOMediaCodec/libavif/commit/98d31ade6ff1d6e2941f7b66c5886f05f17b9338)
+- [ ] [<code>Build libargparse in ci-unix-static.yml (#1794)</code>](https://github.com/AOMediaCodec/libavif/commit/d284e65ea6476d8f1e4735b3164c72168af85b57)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve instructions and output for golden tests. (#1790)</code>](https://github.com/AOMediaCodec/libavif/commit/edc91c4586b7e8163ec8a12b8e2e1060e78e389f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove mention to AVIF_LOCAL for codecs. (#1795)</code>](https://github.com/AOMediaCodec/libavif/commit/49c4205e2acc7cd000616a419e08c6dd8f779811)
+- [ ] [<code>Fix an two typo</code>](https://github.com/AOMediaCodec/libavif/commit/babcfca04c6164008055cfcb54941fdcb46213c3)
+- [ ] [<code>Add 'convert' command to avifgainmaputil. (#1798)</code>](https://github.com/AOMediaCodec/libavif/commit/a09b17c6e07f1e1590662fe628fc0273a528a7b5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Make the gainMap member of avifImage a pointer. (#1801)</code>](https://github.com/AOMediaCodec/libavif/commit/f4948db213b7cd0ff7488b1ac5567f29cdd01539)
+- [ ] [<code>Fix asserts and gain map allocation in fuzz tests. (#1803)</code>](https://github.com/AOMediaCodec/libavif/commit/f55cdaa902bf1ab6b07c877704c6b1326100671e)
+> Dropped libnl-tiny - no appropriate URL found
+
+#### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
+
+- [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
+> Dropped mslink - no appropriate URL found
+
+#### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
+
+- [ ] [<code>Makefile: drop legacy build, add meson wrapper</code>](https://github.com/canonical/netplan/commit/5065ff5588906f901cd4e8a8e7deb27947f237cf)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>CI: CodeQL: add pytest build-deps</code>](https://github.com/canonical/netplan/commit/71f9de0ee4af65cbf9eb0b6806cc9a81407a6294)
+- [ ] [<code>CI: CodeQL: add cmocka build-deps</code>](https://github.com/canonical/netplan/commit/82072bfcb035a222d466a660da3e961f99c39139)
+- [ ] [<code>docs: Add a short netplan-everywhere howto (#325)</code>](https://github.com/canonical/netplan/commit/4c98fb213bcf1679b1aa37b8662d1642209d908d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>meson: Enable finding pycoverage on RPM based distributions</code>](https://github.com/canonical/netplan/commit/bbbba80c7d114490dd0c99acc962b81ed2d12fe0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Account for UsrMerged systemd paths</code>](https://github.com/canonical/netplan/commit/c16d90b5e10ce6776c4e1e1c75b44b4fb8c6cad1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>rpm: Refresh packaging for 0.106 and sync from Fedora</code>](https://github.com/canonical/netplan/commit/8f9c91444bc3058025cc5612a063b80178b3e0b2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Revert "meson: Account for UsrMerged systemd paths"</code>](https://github.com/canonical/netplan/commit/9c4c955c656f5f9cae736554d975b7d4e42030bd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: use absolute link target for generator symlink</code>](https://github.com/canonical/netplan/commit/2ecbc0576590d0cafdf4ba013ff2272873aa07c5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ATTN: parser: validate lacp-rate properly (LP: #1745648) (#324)</code>](https://github.com/canonical/netplan/commit/748d8777eb2b369e0e686f957d07d0542dc1e901)
+- [ ] [<code>Revert "meson: use absolute link target for generator symlink"</code>](https://github.com/canonical/netplan/commit/ea5530c9664c69f7c25d09cc10c63f5ed7a89990)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add all the commands to the bash completion file (LP: #1749869) (#326)</code>](https://github.com/canonical/netplan/commit/1d86585589429de784082c623c864d3f18369739)
+- [ ] [<code>meson: use meson_make_symlink.sh helper script instead of install_symlink()</code>](https://github.com/canonical/netplan/commit/2cded2f2673ce90f1585c9f6f9bb16ca7d81e7a6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>meson: cli:utils: drop legacy generator path, use libexec instead</code>](https://github.com/canonical/netplan/commit/0e2a8ffc787e4649f21618939607b1649a1279de)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>netplan: cli: fix typo from 'unkown' to 'unknown'</code>](https://github.com/canonical/netplan/commit/6f02aea43e0a57676b0509dd6e2449ce401dad62)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>parser: handle duplicated routing rules</code>](https://github.com/canonical/netplan/commit/8f4236743dc5b59de94ef0a44cd72619c2c43993)
+- [ ] [<code>parser: Don't add DNS entries duplicates</code>](https://github.com/canonical/netplan/commit/e2bbf113f602c838a2aa3d65b8344db9e452e83f)
+- [ ] [<code>tests: Don't use duplicated DNS entries</code>](https://github.com/canonical/netplan/commit/67ba6353dcbcbfe8bff825bb63d3496916474b4a)
+- [ ] [<code>tests: Add tests for the new C functions</code>](https://github.com/canonical/netplan/commit/8abf732993b93f72364fe95e9b188b0a40ea770b)
+- [ ] [<code>parser: Don't duplicate OVS configuration</code>](https://github.com/canonical/netplan/commit/ef296047d3f7b14337b372b8b3af8db801587d0c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>parse:ovs: Ignore deprecated OpenFlow1.6 protocol (LP: #1963735)</code>](https://github.com/canonical/netplan/commit/41eac17c6a8ab63b97472f74389ffd39937f465a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>dbus: Build the copy path correctly</code>](https://github.com/canonical/netplan/commit/2ff1daa9fcdb5779bfb88631a0af1104a0722f1e)
+- [ ] [<code>dbus: Use the error set by _copy_yaml_state()</code>](https://github.com/canonical/netplan/commit/a76739110da77920f73d467e4102df2eb0d1af2c)
+- [ ] [<code>tests: Add some integration tests for DBus</code>](https://github.com/canonical/netplan/commit/4e89bbf0240d37e662666bec83019cbe3d18edf6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Netplan docs rework (#333)</code>](https://github.com/canonical/netplan/commit/51fee38a3e83eabd0c9701921983b3ce8031f488)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>tests: add new spread based snapd integration test</code>](https://github.com/canonical/netplan/commit/173fd9a32390d1b55b9eb18f96a24acc2acdd40c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>spread.yaml: restore /etc/netplan for each test</code>](https://github.com/canonical/netplan/commit/e18009c32f040479aaee9f4ee45b396eabea7aa7)
+- [ ] [<code>meson: fix installation of legacy /lib/netplan/generate symlink</code>](https://github.com/canonical/netplan/commit/678de93a50b59364c70e0628051c6f7190eca0aa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Netplan docs rework (Part 2) (#337)</code>](https://github.com/canonical/netplan/commit/6231cf3a5c2ee9027944afc648ba7a6cc50bfa89)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Use controlled execution environment, to avoid failure if PATH is unset (LP: #1959570) (#336)</code>](https://github.com/canonical/netplan/commit/fc128721a91a8966f199f0d3e19871f95378fdc0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>cli:apply: use shutil.rmtree instead of 'rm -rf'</code>](https://github.com/canonical/netplan/commit/c3ee56cc2ef6d40c0acd597b0e845b817a0a0406)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Makefile: fully cleanup coverage data</code>](https://github.com/canonical/netplan/commit/2f0afa5f626fba6d6e792a2af5653af9ecded6c9)
+- [ ] [<code>cli:test: use 'text' alias instead of 'universal_newlines'</code>](https://github.com/canonical/netplan/commit/3567670394a87480eb0b8946ebb27e9b3391cf16)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cli:status: improve networkctl parameter passing</code>](https://github.com/canonical/netplan/commit/87aea1d4bfb70d8afa34bbbb7ffaace7876c27e3)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>netplan: adjust the maximum buffer size to 1MB</code>](https://github.com/canonical/netplan/commit/fe18135199033c10a5fb44f15ebdf235ce3d7661)
+- [ ] [<code>parse: use "--" with systemd-escape</code>](https://github.com/canonical/netplan/commit/e2dcc6ec7cf28908e21816dd18d91cc09b06b173)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: fix bridge parameters types and add examples (#346)</code>](https://github.com/canonical/netplan/commit/744e39c7da2d93bcbc6d16bb9f10df39627f7bb0)
+- [ ] [<code>vrfs: skip policies parsing if list is NULL (LP: #2016427) (#341)</code>](https://github.com/canonical/netplan/commit/b062ead88a063024ffc260b44aacea87aedccda9)
+- [ ] [<code>networkd: plug a memory leak</code>](https://github.com/canonical/netplan/commit/14de061f5bb7829e50d7c7378b31cb223a90037e)
+- [ ] [<code>libnetplan: don't try to read from a NULL file</code>](https://github.com/canonical/netplan/commit/a1a0bd6c4523d84a36e08fbd4bfb147e241a9bac)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nm: return if write_routes() fails</code>](https://github.com/canonical/netplan/commit/810a0efae371530017c7c96bbbbaa39e13b5af87)
+- [ ] [<code>parse: plug a memory leak (#348)</code>](https://github.com/canonical/netplan/commit/479c0396e3c5c8f9b3707535e612bf7f6b3011f0)
+- [ ] [<code>parse: set the backend on nm-devices to NM by default (#349)</code>](https://github.com/canonical/netplan/commit/550c7e5c6d306c73e3caaa8013abaaf90f331eb2)
+- [ ] [<code>parse: don't point to the wrong node on validation</code>](https://github.com/canonical/netplan/commit/b310ef727216e40be719ddd0905f3cbbb90c618c)
+- [ ] [<code>validate: drop the YAML node parameter</code>](https://github.com/canonical/netplan/commit/c2bb6ca086e3e4efbb0376f7e4a3dcc483d4a3a0)
+- [ ] [<code>API: add a binding for netplan_parser_load_keyfile</code>](https://github.com/canonical/netplan/commit/db8ddbc4063623bb134a331d4b20ce582c196a0f)
+- [ ] [<code>API: make dump_yaml() accept a StringIO</code>](https://github.com/canonical/netplan/commit/0a8a4eb71fa1a0aacca4e7f2d874f63f8f7c5479)
+- [ ] [<code>tests: add a test for the new load_keyfile method</code>](https://github.com/canonical/netplan/commit/5ce456c3613b9ccd26e2a550f35260aefcb2ec1e)
+- [ ] [<code>wireguard: plug a memory leak</code>](https://github.com/canonical/netplan/commit/0f558567478fc4e323c132d240210faabfbf7408)
+- [ ] [<code>wireguard: improve an error message</code>](https://github.com/canonical/netplan/commit/19f4adc172bac30b032d29320afeb0e36c337c31)
+- [ ] [<code>nm: check the passthrough config format</code>](https://github.com/canonical/netplan/commit/8d275d11232bc567058c4da1a70d29461aa3c241)
+- [ ] [<code>parse: validate NM backend settings usage</code>](https://github.com/canonical/netplan/commit/47dc59ece5cc24121a22be81a11e5d16da1548db)
+- [ ] [<code>ABI: convert NetplanBackendSettings to struct</code>](https://github.com/canonical/netplan/commit/1f84665253dc334e2ed4c3a6bc501a1811e683dc)
+- [ ] [<code>ovs: don't allow peers with the same name</code>](https://github.com/canonical/netplan/commit/4f1a2936664e851b612b88d6e2d44eaa09c3be8d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ovs: replace openvswitch instances by Open vSwitch</code>](https://github.com/canonical/netplan/commit/bb2d08831d0428fd620d4b9110d2a4b30cf72188)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>doc: make us of sphinx copybutton plugin</code>](https://github.com/canonical/netplan/commit/8a01c57a34e316083439902e2da7dfcfb9b5267e)
+- [ ] [<code>doc: Add Ubuntu Code of Conduct 2.0</code>](https://github.com/canonical/netplan/commit/e0b31435a6d6a96fe4808bec8143349098b564d1)
+- [ ] [<code>CI: make use of the canonical/setup-lxd action</code>](https://github.com/canonical/netplan/commit/fac678f0844ba2a91c03980b6c332ca9d538e66f)
+- [ ] [<code>rtd: set the OS and Python versions explicitly</code>](https://github.com/canonical/netplan/commit/29b7a2463c733eb1ab37add8cce0f8721efe8679)
+- [ ] [<code>tools: add a tool to convert keyfiles to YAML</code>](https://github.com/canonical/netplan/commit/59aabf9077057f89d40737c5c06e09cdd5badfd1)
+- [ ] [<code>parse-nm: fix eap_method handling</code>](https://github.com/canonical/netplan/commit/d1fdebf63fed22f34046f5b0dad9e1e19ae36f44)
+- [ ] [<code>CI: update canonical/setup-lxd to v0.1.1 (#359)</code>](https://github.com/canonical/netplan/commit/f630bacb839ef0f18af2da6bb220094b6945df73)
+- [ ] [<code>meson: Increase test timeout for slow architectures</code>](https://github.com/canonical/netplan/commit/3279c57e8b1745be0d19119b4ad1a061c327593e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>parse_nm: add support for Wireguard</code>](https://github.com/canonical/netplan/commit/db9466bc390fe1152f5eff35d137a486431f020b)
+- [ ] [<code>parse-nm: relax validation for wireguard</code>](https://github.com/canonical/netplan/commit/ec6189d00cc73dab4b4a874979a6338e188446b2)
+- [ ] [<code>nm-parse: add support for all tunnel modes</code>](https://github.com/canonical/netplan/commit/46723c8b69f67d53a3bcae4ffbb1df5b8ca36b82)
+- [ ] [<code>tests: adjust tests after last changes</code>](https://github.com/canonical/netplan/commit/0efbc3086a7903366972182be375c5565b6a5276)
+- [ ] [<code>parse-nm: rename some helper functions</code>](https://github.com/canonical/netplan/commit/107af5bb6c345aac3eecae1fd1bfc8719da8900c)
+- [ ] [<code>tests: add some ctests for the keyfiles parser</code>](https://github.com/canonical/netplan/commit/5773a1ed1f813e592878d9e11e175b2a15042d0d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nm-parse: fix an invalid memory access</code>](https://github.com/canonical/netplan/commit/4439768c811ac536ce9fa96166667407df566e75)
+- [ ] [<code>parse-nm: plug a memory leak</code>](https://github.com/canonical/netplan/commit/8c6f8773fc5f7e89619e009a8fd8e8873ebaa14a)
+- [ ] [<code>docs: gretap and ip6gretap also works for NM now</code>](https://github.com/canonical/netplan/commit/e5713dbf9911b8f2490e0d4d7ad3f419d5e04e88)
+- [ ] [<code>CI: fix dch after adding the new 0.106.1 tag (#364)</code>](https://github.com/canonical/netplan/commit/24ab13cc0b54bb39d1a1d3427db7f5348611ae31)
+- [ ] [<code>netplan: introduce some classes of errors</code>](https://github.com/canonical/netplan/commit/8a6ebbbfb44faedde976519f42bb2cf90c3ce2a9)
+- [ ] [<code>netplan: replace glib errors with the new ones</code>](https://github.com/canonical/netplan/commit/d06c73d09f6081419bd423526b3d4516f14f523a)
+- [ ] [<code>netplan: create exceptions for each error code</code>](https://github.com/canonical/netplan/commit/5ce67e63c65b29923bef8bcbdaaf68d8f64ddcad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: adjust the tests for the new error handling</code>](https://github.com/canonical/netplan/commit/bf013fd44ddb0b227e33382e403c69fa4d179e17)
+- [ ] [<code>errors: adopt NetplanError in favor of GError</code>](https://github.com/canonical/netplan/commit/1e5c69921d980e85e5dfa945fa080299852970e5)
+- [ ] [<code>provide frequency to wpa_supplicant when in adhoc mode.</code>](https://github.com/canonical/netplan/commit/428a96b200006fdbf40a058a20fe75ae97f11cc7)
+- [ ] [<code>added unit test checking generated wpa_supplicant.conf in adhoc mode.</code>](https://github.com/canonical/netplan/commit/6997bcd73064e5bf92261753bfab3ec5603eeb29)
+- [ ] [<code>added examples for wireless adhoc mode.</code>](https://github.com/canonical/netplan/commit/3d15c59dfbdd51dea68fa2d747f19950887f952d)
+- [ ] [<code>parse: plug a memory leak</code>](https://github.com/canonical/netplan/commit/e8346fb4bf799391d64e75b21f8f2ddfd52337a4)
+- [ ] [<code>parse: plug a memory leak</code>](https://github.com/canonical/netplan/commit/68d4c43657ac7ba76e6373625c95bb04b3dac1ce)
+- [ ] [<code>tools: add a C keyfile loader tool</code>](https://github.com/canonical/netplan/commit/c8d46f5ab901d7eb9a3660d709131b683bafb24b)
+- [ ] [<code>tools/run_asan.sh: call the keyfile loader on NM files</code>](https://github.com/canonical/netplan/commit/f25df3f7377bc62cc8428cc209573fe4dccf8981)
+- [ ] [<code>tests: add a new parameter to generate_from_keyfile</code>](https://github.com/canonical/netplan/commit/6619656c03491120ddcfcf710ab6cc60b21d0ab7)
+- [ ] [<code>parse-nm:wg: auto append the prefix to allowed IPs</code>](https://github.com/canonical/netplan/commit/b75c6faeadd5d2b0f4873a233c4857dbd66e28ca)
+- [ ] [<code>parser: add support for WPA3-Personal</code>](https://github.com/canonical/netplan/commit/8e6918149fe15dd95be3b3bf1fdb0009e86e6f55)
+- [ ] [<code>examples: add an example for WPA3</code>](https://github.com/canonical/netplan/commit/bba31ef1d7cff75eb90636d82e029fd728e777b8)
+- [ ] [<code>docs: add SAE (WPA3) to the key-management list</code>](https://github.com/canonical/netplan/commit/3f46acb9dffcf71f1b7f9a222392ba92ded20031)
+- [ ] [<code>tests: fix run_asan.sh for new types of interfaces</code>](https://github.com/canonical/netplan/commit/012ce6a9fda89d7f4cded8d8195bab9b3fcca6e2)
+- [ ] [<code>routes: fix metric rendering</code>](https://github.com/canonical/netplan/commit/8f733b2b15edf3ead5de12489f23538382b9f07b)
+- [ ] [<code>tests: add metric rendering tests for lp2023681</code>](https://github.com/canonical/netplan/commit/bd00d3731a472551142941c43a54d6ca454a2351)
+- [ ] [<code>parser: add support for Dummy interfaces</code>](https://github.com/canonical/netplan/commit/aad0e451283a156778123e5a22a079235d8812b5)
+- [ ] [<code>docs: add documentation for dummy interfaces</code>](https://github.com/canonical/netplan/commit/7680c5d61bdf2a9fac9a155db8f4f93b406e4e7f)
+- [ ] [<code>tests: add unit and integration tests for dummies</code>](https://github.com/canonical/netplan/commit/783b5c48928ca8d29e9ac7577d632d0afde698c9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>abi: suppress error due to new NetplanDefType type</code>](https://github.com/canonical/netplan/commit/1125fa3359b6ca8db79258a616e1457cc9b230a0)
+- [ ] [<code>docs: improve wording in netplan-yaml.md</code>](https://github.com/canonical/netplan/commit/7cfcccec2ff108fcbd60cc618b88fc2a75d679e9)
+- [ ] [<code>examples: add an example file for dummy interfaces</code>](https://github.com/canonical/netplan/commit/75acd64fc48dda0ca8da8482f8f1600f51434752)
+- [ ] [<code>CI: add DebCI integrationt test</code>](https://github.com/canonical/netplan/commit/e19b38539a22c06d8348468c16074746dd64dd26)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>CI: autopkgtest: build proper package version for dch</code>](https://github.com/canonical/netplan/commit/ebe0db2c01691d6c11f938e09407052efcd146e3)
+- [ ] [<code>CI: new RPM build tests</code>](https://github.com/canonical/netplan/commit/ec27ce966b54006e559411f7fdb86b3d01f6ea96)
+- [ ] [<code>meson: Increase test timeouts further avoiding mips64el/riscv64 buildd FTBFS</code>](https://github.com/canonical/netplan/commit/ee165d8a497ee9c74963040fe73e35b65b680b3e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>parse-nm:wg: add support for reading the listen-port property</code>](https://github.com/canonical/netplan/commit/0ee1fa2b1bfcc2a9978b780d481b2e7d7792eeb0)
+- [ ] [<code>parser: introduce the "placeholder" interface type</code>](https://github.com/canonical/netplan/commit/d5dc8746f022bb3f6ad82670b0214e537888037d)
+- [ ] [<code>parse-nm: add support for VLANs</code>](https://github.com/canonical/netplan/commit/8cc39d7f9dd6a979611f53f8c803a54de1dac987)
+- [ ] [<code>tests: fix keyfile parser existing tests</code>](https://github.com/canonical/netplan/commit/fd1fd44168c8f1add62c5192415af12efd493e8b)
+- [ ] [<code>parse: handle redefinition of a place holder netdef</code>](https://github.com/canonical/netplan/commit/b4d5627ee06c395f8a02ab51e294d37b6fbb464b)
+- [ ] [<code>CI: initial NetworkManager autopkgtests</code>](https://github.com/canonical/netplan/commit/6dedb274885458c4a0d3722aead8553a9ed9ba7f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>parse-nm: handle cloned-mac-address special cases</code>](https://github.com/canonical/netplan/commit/0c7a0ea622e0a5a88668ee043d981a2ac39cab4e)
+- [ ] [<code>CI: RPMbuild: disable fedora:rawhide, due to package conflicts</code>](https://github.com/canonical/netplan/commit/3bc43d963dab0bdf838c36fd2dd53fbb6c228bf8)
+- [ ] [<code>doc: Explanation about 00-network-manager-all.yaml</code>](https://github.com/canonical/netplan/commit/74d292e2e9993da0762ac70a921918d454f9d388)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>tests:base: Fix NetworkManager interaction with systemd v253</code>](https://github.com/canonical/netplan/commit/3d04202a3a1a39888cc97e2d9a3fd01625aa910c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:base: introduce iface_json() helper</code>](https://github.com/canonical/netplan/commit/34f9720ee6bd315c2a7c06d72b526d6a90c4e06b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:tunnels: make use of iface_json()</code>](https://github.com/canonical/netplan/commit/10051e72e0f67bb4202f55a70f169466b83a3b18)
+- [ ] [<code>tests:regressions: simplify assertions to avoid buffering races</code>](https://github.com/canonical/netplan/commit/38bf4598d3762220bafa2a266b11e99509a725d1)
+- [ ] [<code>Readme: Drop (internal) documentation-objectives link</code>](https://github.com/canonical/netplan/commit/2a02fd0436ce42e5c2e72a5ed49982bd3839880c)
+- [ ] [<code> netplan: prevent some signed vs unsigned comparisons</code>](https://github.com/canonical/netplan/commit/aceb5942a8e2a8631a903dce2f209f758608bd57)
+- [ ] [<code>abi: convert the protocol family from uint to int</code>](https://github.com/canonical/netplan/commit/4b7517bc222412003e7e57390f3dd5055fb9dc89)
+- [ ] [<code>names.c: don't return -1 on netplan_*_from_name()</code>](https://github.com/canonical/netplan/commit/eed1e2e850f87fd2d9dff7698ed02b97f9190c6d)
+- [ ] [<code>abi: convert wowlan to int</code>](https://github.com/canonical/netplan/commit/75ea0358fefb68c3f2c3dfa55f297c0cd9b30d40)
+- [ ] [<code>types: remove duplicated code</code>](https://github.com/canonical/netplan/commit/29419d34b28d34adcd0e1919bb0cfe81b7affd39)
+- [ ] [<code>validation: convert members of _defroute_entry to guint</code>](https://github.com/canonical/netplan/commit/e310dfc97b411a23337f2c3d920ab7965fb54ad2)
+- [ ] [<code>names: convert index i to size_t</code>](https://github.com/canonical/netplan/commit/1e3503e2fdd824e05dfc9e2be2a8089c30a34f1d)
+- [ ] [<code>util: store the pointer arithmetic result in a size_t variable</code>](https://github.com/canonical/netplan/commit/392782ea2a03e6d17acab8854d35fb88f1e5c810)
+- [ ] [<code>nm/parse-nm: drop 'const' from the return type of some functions</code>](https://github.com/canonical/netplan/commit/44ac213b4e9abec7b1a7f3848afbf37de9d3cd77)
+- [ ] [<code>generate/parse: fix missing member initializer</code>](https://github.com/canonical/netplan/commit/3b4047af77f43d9b0c3d66f88b89e6732366f911)
+- [ ] [<code>netplan: annotate all the unused parameters with __unused</code>](https://github.com/canonical/netplan/commit/a5eef68110e39307bb9470da80e1204dd80f4f2b)
+- [ ] [<code>meson: increase warning_level to 2</code>](https://github.com/canonical/netplan/commit/806e7642767137efc5d103a37a315c88f3dd98a8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tests:integration: Adopt for systemd v254</code>](https://github.com/canonical/netplan/commit/5851195ad2e2fbe670cd98cb3b3f22fce02f1d83)
+- [ ] [<code>parse: Downgrade NM passthrough warning to debug</code>](https://github.com/canonical/netplan/commit/22b8bfb90804d600cfbdd24b0bf6fe2489fa392e)
+- [ ] [<code>netplan.c: Don't drop files with just global values on 'set' (LP: #2027584)</code>](https://github.com/canonical/netplan/commit/16bad068915dd894099fa70c1d87dfc61c5d00cf)
+- [ ] [<code>abi: add the new netdef field "tunnel_private_key_flags"</code>](https://github.com/canonical/netplan/commit/32fdb755369426d81fc5f14e96fd1d54b547a3d5)
+- [ ] [<code>parsers: add support for the key "private-key-flags"</code>](https://github.com/canonical/netplan/commit/6741e26d05591d4f8054806f0234e2e896122668)
+- [ ] [<code>validation: use the new field to validate WG connections</code>](https://github.com/canonical/netplan/commit/ca25819abf8931fb50d973cd6082297ddc3b8827)
+- [ ] [<code>tests: add tests for the new wireguard property</code>](https://github.com/canonical/netplan/commit/df9da3d82e867c8261256a5e5edde001d1d4b61e)
+- [ ] [<code>docs: add the new private-key-flags key to the documentation</code>](https://github.com/canonical/netplan/commit/6ade72aac513ef710c534c0f4f43e6395c63e8ec)
+- [ ] [<code>libnetplan: enable dump_yaml_subtree to use StringIO as input/output</code>](https://github.com/canonical/netplan/commit/24d1d9761d3e810eda9bfdf9d6dca0ed8a1c4943)
+- [ ] [<code>netplan:cli:state: new module to collect network configuration</code>](https://github.com/canonical/netplan/commit/a3746080bd04efea7bf55315cfe4d02412c4e854)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>commands:get/status: remove the code moved to state.py</code>](https://github.com/canonical/netplan/commit/9328d0084db324101bcb36c1853add3bbc81a839)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests: refactor some tests after the inclusion of state.py</code>](https://github.com/canonical/netplan/commit/497f541db01954973bb992f7ea52f04c38a8e154)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>status: add vlan to list of interface types</code>](https://github.com/canonical/netplan/commit/2c21826a4771ebf7f5f9d6c02458b5e941ac69d1)
+- [ ] [<code>netplan: export an IP addresses iterator API</code>](https://github.com/canonical/netplan/commit/a0b0fc3840efac4b557ca74d21c6cfe08cdf4ad2)
+- [ ] [<code>parse: don't check if a guint variable is > G_MAXUINT</code>](https://github.com/canonical/netplan/commit/6ca651af21fae7847d797310506eb1a6f5543a86)
+- [ ] [<code>parse: reset wireguard_peer to NULL after error</code>](https://github.com/canonical/netplan/commit/5f57179db84d0827ab1ffb2b8475bab7f175ecbb)
+- [ ] [<code>abi_compat: check if open() succeeded</code>](https://github.com/canonical/netplan/commit/fd67738e0938774172ba9df941bac1918aaf04f8)
+- [ ] [<code>parse: cast void* to char* when passing it to yaml_error()</code>](https://github.com/canonical/netplan/commit/1ce1acfd6a9398e0e70ba26d4f3da49cc0baf896)
+- [ ] [<code>util: make sure parser is initialized when we get to err_path</code>](https://github.com/canonical/netplan/commit/8c2b48adcf65fa51979286430a3cc9b72d133e72)
+- [ ] [<code>nm: drop const qualifier from function return type</code>](https://github.com/canonical/netplan/commit/997a7455d440e363d8ed67a2999429854823b641)
+- [ ] [<code>nm: plug memory leak</code>](https://github.com/canonical/netplan/commit/e389ae7f66f31a8527c57270423814c048eb93e6)
+- [ ] [<code>ctests: add a new cmocka test file for the NM backend</code>](https://github.com/canonical/netplan/commit/ea7dbeadcaebfab8648c10dade9fbe62adec8881)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>openvswitch: plug a memory leak</code>](https://github.com/canonical/netplan/commit/cfb7e55c2eb83ba4e3085b0504f0b724c41906aa)
+- [ ] [<code>ctests: add a new cmocka openvswitch test file</code>](https://github.com/canonical/netplan/commit/4724a05176f69d20333634ea6beb057b55ac2110)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>abi_compat: plug a memory leak</code>](https://github.com/canonical/netplan/commit/084a522ff65d4bb14dc425af54e4b8a81ab29031)
+- [ ] [<code>validation: plug a memory leak</code>](https://github.com/canonical/netplan/commit/c4e82fc7c4e5826adc50528f5f695e2648b94c85)
+- [ ] [<code>parse: plug a memory leak</code>](https://github.com/canonical/netplan/commit/6e7cecc2d48b762a290f1d48684f19fc48fd1c2b)
+- [ ] [<code>util: plug a file descriptor leak</code>](https://github.com/canonical/netplan/commit/26d8e54494ad1ddc1a241b86406692a819682e2c)
+- [ ] [<code>networkd: plug a memory leak</code>](https://github.com/canonical/netplan/commit/4588db0928a24094ee3d0f151b14c77b6f1731ce)
+- [ ] [<code>parse-nm: plug a memory leak</code>](https://github.com/canonical/netplan/commit/88dae6bc9e264ba816fa4a86c5ca0a2295c8669f)
+- [ ] [<code>netplan: set umask before calling mkstemp</code>](https://github.com/canonical/netplan/commit/23d2fe9e736ceb732eaa13e6f1368e3bc64540a6)
+- [ ] [<code>netplan: prevent calling close() twice against the same fd</code>](https://github.com/canonical/netplan/commit/c188d56f01aae6e34533518ef302b1cd9fbdb773)
+- [ ] [<code>CLI: Refactoring to avoid namespace clash with public bindings</code>](https://github.com/canonical/netplan/commit/a51b55bd9c950520cf63b9b15d500bb2e967ad32)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests: adopt to refactored netplan_cli module</code>](https://github.com/canonical/netplan/commit/2d237072fcc9966625447a18ae1fe3114d5442c9)
+- [ ] [<code>tests: fix test coverage report with newer python-coverage</code>](https://github.com/canonical/netplan/commit/a6e6c94e60fcec09044c499621dff4c0d5fc2b86)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>types: avoid exporting private symbol: free_address_options</code>](https://github.com/canonical/netplan/commit/abc923086236753d8f2fab485a53ce6679ed757d)
+- [ ] [<code>state: refactor the routes parsing in the Interface class</code>](https://github.com/canonical/netplan/commit/08fa21f93aeb31c8d8c4c54d9930cac7f54ac246)
+- [ ] [<code>commands/status: query routes from all the tables</code>](https://github.com/canonical/netplan/commit/e94486acf34d488d1f392cf212fefdb98443128b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>meson: Don't fail codestyle, due to meson scripts</code>](https://github.com/canonical/netplan/commit/3e168ab2ff4c5f71ab3e798454a9978a08934ff5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github: add a scheduled action to run Coverity</code>](https://github.com/canonical/netplan/commit/9a32d177bacbdbb0f0f409f9b02f4d3dfb7c64d6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>parser: add support for virtual-ethernet interfaces</code>](https://github.com/canonical/netplan/commit/c91466034d1085bc3e477c0d3c56feb33f5e51eb)
+- [ ] [<code>virtual-ethernet: add validation rules for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/2469aefd36735728d243c0591c34c823465f4979)
+- [ ] [<code>networkd: generate configuration for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/97139ca5f951959a27122d9dbd7efde341dd2c12)
+- [ ] [<code>virtual-ethernet: add support for virtual-ethernets to the YAML emitter</code>](https://github.com/canonical/netplan/commit/52ff6db9f49e7ee6926972fbc644a02105178c81)
+- [ ] [<code>examples: add a virtual-ethernets example file</code>](https://github.com/canonical/netplan/commit/726320d918fc3f7c7da762a178243f14ef914184)
+- [ ] [<code>nm: add support for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/f30abdbfadd6500ae26ebd79c6d2556d04190657)
+- [ ] [<code>parse-nm: add support for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/2bea2b4a651405f9cd03cb5e8b56a9e835c9ea3e)
+- [ ] [<code>tests: new generator tests for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/fad89a870d18bcdbe5d60d0d0e039364ed9175fa)
+- [ ] [<code>docs: update the documentation with the new virtual-ethernets devices</code>](https://github.com/canonical/netplan/commit/963c0a99f4557efe942212fdfead3d5ec3ffe0bb)
+- [ ] [<code>tests: add integration tests for virtual-ethernets</code>](https://github.com/canonical/netplan/commit/78ab30f035f8ca55b712309d65e67e35c67fa925)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>github: only run the coverity workflow on our repository</code>](https://github.com/canonical/netplan/commit/397288fc3c8be6d5dc6b31f7270d0754ce028100)
+- [ ] [<code>util: prevent calling close() on negative descriptor</code>](https://github.com/canonical/netplan/commit/244504b80b0214a30dce458a5d91e6768acc9ab6)
+- [ ] [<code>parse: restore npp->current.route to NULL</code>](https://github.com/canonical/netplan/commit/715fefb3e3e389282c238d2c8bb1d4be64cf32ab)
+- [ ] [<code>cli:status: Make rich pretty printing optional (#388)</code>](https://github.com/canonical/netplan/commit/2a3f12a47a690b34630f6f0c50b491a3040cce3f)
+- [ ] [<code>parse-nm: improve some error passing</code>](https://github.com/canonical/netplan/commit/4d21d42894d90cf55b9af243c3ca7d09c35c476a)
+- [ ] [<code>CI: Add python3-cffi build-dependency</code>](https://github.com/canonical/netplan/commit/93115baeb12a52fc06b62218c4f4938a3a03c782)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>include: Extend public API functions</code>](https://github.com/canonical/netplan/commit/aca03a1af9c907daea6acf78eae56fafc438e830)
+- [ ] [<code>src: make internal API functions/structures available</code>](https://github.com/canonical/netplan/commit/50ca06784f0188848d7d7cf7135259dfde3ac707)
+- [ ] [<code>bindings: python-cffi build skeleton</code>](https://github.com/canonical/netplan/commit/a2afa0d42f6e9e421b5b6cd2bb95c9580461b3f3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>bindings: Initial implementation of CFFI Python bindings</code>](https://github.com/canonical/netplan/commit/be4047cdb99dace3d8c93912dd5709722e8f5e3b)
+- [ ] [<code>cli:tools:test: Make use of new cffi python bindings</code>](https://github.com/canonical/netplan/commit/cb6061d2109bedfa4394525f63b33f5c53ca29ec)
+- [ ] [<code>cli: drop legacy/internal ctypes bindings, now unused</code>](https://github.com/canonical/netplan/commit/3c32da1fe73551b761aa280ef3bb77a6feeed184)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>examples: Add an example of how to use Netplan's CFFI bindings</code>](https://github.com/canonical/netplan/commit/7c5f2dc344b75d8aa7ea4f344a2d9c5f4f68351d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>libnetplan: expose dhcp4 and dhcp6 properties</code>](https://github.com/canonical/netplan/commit/329f63de0892ef7036855ea9ec3cec5f29a76153)
+- [ ] [<code>libnetplan: expose the macaddress property in the netdef</code>](https://github.com/canonical/netplan/commit/3ba3275bd690e7b53fa943ed450be711b96506b8)
+- [ ] [<code>libnetplan: refactor address_iter according to our naming standard</code>](https://github.com/canonical/netplan/commit/b0f60d365479f03a42c7941de16747255b2dddbf)
+- [ ] [<code>libnetplan: expose DNS configuration from netdefs</code>](https://github.com/canonical/netplan/commit/70bff518ab3740d9ec7c209c10b67f487219fdf4)
+- [ ] [<code>libnetplan: expose the routes list in the netdef</code>](https://github.com/canonical/netplan/commit/f96a184ad006391c9d8aeda29936b2f77a4fb4a9)
+- [ ] [<code>parse-nm: add support for VRF devices</code>](https://github.com/canonical/netplan/commit/7e90ce51f60788805ed2a34233ea444afb86d132)
+- [ ] [<code>libnetplan: refactor NetplanRoute</code>](https://github.com/canonical/netplan/commit/37433e4acc5f0ad4ef21e7098996f5d35e1110fa)
+- [ ] [<code>state: refactor the device types translation table</code>](https://github.com/canonical/netplan/commit/682a69c24c83646eac5ebf06d3f2543777ce12bf)
+- [ ] [<code>state: include the family in the route entries</code>](https://github.com/canonical/netplan/commit/b2148033a6faba984c5bf747e4836de91cade4db)
+- [ ] [<code>tests: add the IP family to the route data</code>](https://github.com/canonical/netplan/commit/31c0c0d38b875a992b933e0be23ca05b0a2ebe1e)
+- [ ] [<code>abi-compat: bump for 0.107</code>](https://github.com/canonical/netplan/commit/a1003c76cfe8b4ec3c74da57898a0145c782557f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc: Mark dummy and veth devices, available as of 0.107</code>](https://github.com/canonical/netplan/commit/d86173a931ce86c9deb452c47c73652b0880853c)
+- [ ] [<code>Bump version to 0.107</code>](https://github.com/canonical/netplan/commit/faa3770de9fedc46c0c4cbcfff74d20f04f12ad2)
+  - <sub>Tags: <code>0.107</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>test:ovs: Avoid NetworkManager taking contol, breaking a test</code>](https://github.com/canonical/netplan/commit/c33175cbb16dd154f87b51f5ea1cb2c936564a19)
+- [ ] [<code>parse: allow COMMON_LINK_HANDLERS for VRFs (LP: #2031421, Closes: #1049432)</code>](https://github.com/canonical/netplan/commit/3e6783f225fb59492334193e2a448749b18e181d)
+- [ ] [<code>netplan: add support for WPA3-Enterprise</code>](https://github.com/canonical/netplan/commit/ca230fcc4ef753dd8e864bae47f3dae318f94010)
+- [ ] [<code>CI/Coverity: fetch tags before trying to use them</code>](https://github.com/canonical/netplan/commit/21d7e4868b4dbb10b326b0160819f236fc4de8be)
+- [ ] [<code>CI/Autopkgtests: temporally use a patched version of network-manager</code>](https://github.com/canonical/netplan/commit/a4f9754e46bebef99a091f403e71cd5771d606b8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>wifi: support WPA2 and WPA3 Personal simultaneously</code>](https://github.com/canonical/netplan/commit/5f1192c07542c156b3d8f66f6e6d335308fb8b63)
+- [ ] [<code>util: don't return a placeholder netdef in the iterator</code>](https://github.com/canonical/netplan/commit/e60822b3572d900b9fbf19c970b2c0035039ecd5)
+- [ ] [<code>tunnels/validation: do not error out if "local" is not defined</code>](https://github.com/canonical/netplan/commit/ed3aed35bb72107a78388eccfbb32f83e4295a6a)
+- [ ] [<code>tests: add some integration tests without the local address</code>](https://github.com/canonical/netplan/commit/a7e4be03918c986020650743cb6cf0934696ef0c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>added mii-monitor-interval (#411)</code>](https://github.com/canonical/netplan/commit/398a948c2fed28f7fd4642f3fc76864f32fb0b70)
+- [ ] [<code>wireguard: ignore empty endpoints</code>](https://github.com/canonical/netplan/commit/1758948e6cb064b9b00ba3b42ce36ea9546d4773)
+- [ ] [<code>docs: Add "Contribute Documentation" how-to</code>](https://github.com/canonical/netplan/commit/a87736eab3c30c49c275cf7102784a40fff5f61c)
+- [ ] [<code>auth: add support for LEAP and EAP-PWD</code>](https://github.com/canonical/netplan/commit/4a5a9ed735688c3c19cd86d6638ec4ff5bdf17e4)
+- [ ] [<code>parse: improve the parsing of access-points (LP: #1809994)</code>](https://github.com/canonical/netplan/commit/cb6893c5c8d73e8ae190e54e9c434cab3a98e511)
+- [ ] [<code>wifi: replace the previously defined AP with the new one</code>](https://github.com/canonical/netplan/commit/b6020cb212664e40099f9030d3a536108796b0bd)
+- [ ] [<code>doc: spelling check improvements</code>](https://github.com/canonical/netplan/commit/102fa672f90692bc20cf29c8732fae0dacfa6c18)
+- [ ] [<code>CI: add spelling checker step</code>](https://github.com/canonical/netplan/commit/1aa0974814373b044c631bb26d72d11cd3859379)
+- [ ] [<code>tests: Add autopkgtest for LP#1959570</code>](https://github.com/canonical/netplan/commit/3fa7e4d76182a38a54af4237eafce7c2677f4b8f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Fix permissions on folder '/run/NetworkManager/'</code>](https://github.com/canonical/netplan/commit/e2783542686529625de45f57f3bb189900a9bd29)
+- [ ] [<code>cli:try: avoid linting error for type hints</code>](https://github.com/canonical/netplan/commit/2ae3b9eeb6d787bfc83fcacd1c2f73fac4b456a7)
+> Dropped odoo - no appropriate URL found
+> Dropped odoo15 - no appropriate URL found
+
+#### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
+
+- [ ] [<code>Rename BUILDING to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/51d78c279f8997dbc83a756cfde496e284f11fae)
+- [ ] [<code>Add more Markdown formatting to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/074dd7c3ad63b70a21e86a1917a3afa21aaaed55)
+- [ ] [<code>Add yet more Markdown formatting to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/d242e0989c9150ff32dcbc8661ff53f95c581d22)
+- [ ] [<code>Add netaddr constants for MAC48 prefixes for IPv4/6 multicast</code>](https://github.com/OLSR/OONF/commit/50e4e1b86f4fc87d7d7f38110ce934f4bad52db7)
+- [ ] [<code>Fix DLEP handling of mandatory TLVs</code>](https://github.com/OLSR/OONF/commit/a38b6847428e7bd54ef6c088581db749b04c484f)
+- [ ] [<code>Fix variable used in layer2 generator loop</code>](https://github.com/OLSR/OONF/commit/5e2a7b48431006c08f077b6e9a66bd80f3b39671)
+- [ ] [<code>Fixes for doxygen comments</code>](https://github.com/OLSR/OONF/commit/bdc2c2e6696d2f1dc85e00e791b7737ef7ef70d5)
+- [ ] [<code>Add function to calculate IPv6 address from MAC</code>](https://github.com/OLSR/OONF/commit/d4d6487539dfe7ca8fce3cec600be93bdf4fe287)
+- [ ] [<code>Fix issues with DLEP udp_mode none and reconnect</code>](https://github.com/OLSR/OONF/commit/3b89103e0b6a03880adc5ec3fbcdaf04a2c181b7)
+- [ ] [<code>Add better debugging output to packet socket code</code>](https://github.com/OLSR/OONF/commit/1d1e887633aac1f587192a0090d31b4563e0fcd5)
+- [ ] [<code>Improve error handling for failed outgoing TCP connections</code>](https://github.com/OLSR/OONF/commit/2bfbcff3986c5580f265470e923ae3ccd5a7637a)
+- [ ] [<code>Remove (done) TODO mark for outgoing TCP connection error handling</code>](https://github.com/OLSR/OONF/commit/28adaf5af364eb01c3520f718370b93dbc05de07)
+- [ ] [<code>Add support for Link-ID to layer2 database</code>](https://github.com/OLSR/OONF/commit/1e3fb28849601534edb9f15fdc8b2a97f2221005)
+- [ ] [<code>Add a few example configurations to the repository</code>](https://github.com/OLSR/OONF/commit/8cc2d03edc37e536626bad1db88750a5ef96bc9b)
+- [ ] [<code>Add basic link-id capability to DLEP</code>](https://github.com/OLSR/OONF/commit/b12ef6ea0bc48753fb28a97fff9feeedf5eb0094)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Implement lid_length mechanism into DLEP</code>](https://github.com/OLSR/OONF/commit/bc24cba0ef806a7cf0af60a18cf11b38c9c00b83)
+- [ ] [<code>Add doxygen comments for link-id code</code>](https://github.com/OLSR/OONF/commit/2b7b3ef821ed96265162b4f0e3cab49442c8f636)
+- [ ] [<code>Fix handling of lid-length TLV in DLEP session ACK</code>](https://github.com/OLSR/OONF/commit/b2e18c9170fb418631dddd1f31df01f9c134aa10)
+- [ ] [<code>Fix return values of DLEP signal processing callbacks</code>](https://github.com/OLSR/OONF/commit/3a2dd24e58f12cb7d0e45733135903c6a0cd16b8)
+- [ ] [<code>Remove static modifier from olsrv2/nhdp logging sources.</code>](https://github.com/OLSR/OONF/commit/8cb398634c4c9c357e0c523eeeb239f9cfac25ba)
+- [ ] [<code>Restructure ffdat plugin as preparation for external metric calculation</code>](https://github.com/OLSR/OONF/commit/2dac53d9773807a9dfa0026e71c0454d9882d98e)
+- [ ] [<code>Add more linklayer data options and a better query function</code>](https://github.com/OLSR/OONF/commit/2e5803bdf124e8a621c46ff877d1f8b6fec45fc7)
+- [ ] [<code>Cleanup build system for tests and add generic 'build_tests' target.</code>](https://github.com/OLSR/OONF/commit/88efd166304af2ac3667233492c33a258a77f439)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add missing build target for test creation</code>](https://github.com/OLSR/OONF/commit/e7e5b685984fc2de6c05e9dc3e1ddb0037c76ffe)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Hotfix for closing UDP socket behavior mentioned in Github Issue 14</code>](https://github.com/OLSR/OONF/commit/f6b884b1c9755a531208cefd2da01e6925852649)
+- [ ] [<code>Remove debugging code accidently left in for LID preparation</code>](https://github.com/OLSR/OONF/commit/32bf829c7b932ff864b1139e768e76fed069eebf)
+- [ ] [<code>Restructure import of FIB entries to go through the layer2 db</code>](https://github.com/OLSR/OONF/commit/f1a30ade98b9f2e51297f89af7041ae888174e57)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Cleanup and simplify OONF directory strucure</code>](https://github.com/OLSR/OONF/commit/11be46967696107595f2486c50ea4f78bbc7a621)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Allow wrapped build directory around OONF directory</code>](https://github.com/OLSR/OONF/commit/356d3b9be4b19491fb8adddaac6533518e089a94)
+- [ ] [<code>Fix GCC 8 warning about small buffer</code>](https://github.com/OLSR/OONF/commit/6fa0450577c5fe88c69b53fe1ffd151a44be972d)
+- [ ] [<code>Fix possible Null reference in colored logging (Coverity #188445)</code>](https://github.com/OLSR/OONF/commit/195837044f4fd31de78ac4e5a3f4b04e656154f2)
+- [ ] [<code>Prevent theoretical buffer overlow to make Coverity more happy (Coverity #181104)</code>](https://github.com/OLSR/OONF/commit/48c2cdcbb048385e0bda0576ab78952c7467cea2)
+- [ ] [<code>Add "config query" command to remotecontrol plugin to query a configuration value including default</code>](https://github.com/OLSR/OONF/commit/2e3578ba9a2dbe118ecec35b541cadc3516265d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Rename "subsystems" directory to "base"</code>](https://github.com/OLSR/OONF/commit/4043202f6aed722d23a5316d610a8df9155bbb8c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Move test include to include directory</code>](https://github.com/OLSR/OONF/commit/fc1fbbed3288aa0a7029ef60042a95755c78c6d1)
+- [ ] [<code>Cleanup build installation directories</code>](https://github.com/OLSR/OONF/commit/2a072733f6870d05b18706c7a1a28ffd3f4e058d)
+- [ ] [<code>Move included cmake files into CMakeListsGlobal to allow inclusion in wrapper projects</code>](https://github.com/OLSR/OONF/commit/988aac6ec52e9577b560933d7c27cefb3763b529)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Use relative path for calling archive builder</code>](https://github.com/OLSR/OONF/commit/6dd188ed2bc335f50e281a8a826c9b6bffcca3ce)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix tarball generator</code>](https://github.com/OLSR/OONF/commit/5274ce6a589ea2ceab53f2190f8232498695a90f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge branch 'develop' into staging</code>](https://github.com/OLSR/OONF/commit/d7d69064311b081b5a501e0849240736935ac943)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Allow imported routed to be combined by l2import into the same l2 network.</code>](https://github.com/OLSR/OONF/commit/83b19c549e5fbc7ff15e8dddf7598fd131d9452b)
+- [ ] [<code>Don't filter for protocol for routes being removed (linux does not report protocol in this case)</code>](https://github.com/OLSR/OONF/commit/5f835533fef4fc4fedacfd817e798c3b953f8b2e)
+- [ ] [<code>Add avl_for_each_elements_with_key_safe() macro and do some basic tests</code>](https://github.com/OLSR/OONF/commit/c255ead567f65b7ce18a62b0eeb853468733696f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix the handling of neighbor IPs in dlep radio.</code>](https://github.com/OLSR/OONF/commit/c7a68650e65d225cc14e7722d35626b3a68a6958)
+- [ ] [<code>Add missing comment for subsystem shutdown initiation, remove empty files</code>](https://github.com/OLSR/OONF/commit/1a709b5c9df7a8c179356aafd9bb929c4ff1bf3c)
+- [ ] [<code>Merge branch 'feature/MOTOR-47-route-redistribution-for-dlep' of ssh://team.fkie.fraunhofer.de:7999/fkiea/oonf-os into feature/MOTOR-47-route-redistribution-for-dlep</code>](https://github.com/OLSR/OONF/commit/becd33bde1de8289b283002dcd8e6a666fad189b)
+- [ ] [<code>Add more doxygen comments for layer2 import</code>](https://github.com/OLSR/OONF/commit/38edcced298b8de930e72c18bf25b2e354bdbdcc)
+- [ ] [<code>Fix no-debug/no-info compilation</code>](https://github.com/OLSR/OONF/commit/0482db427a8672f54dc6782d45115553ca10a3db)
+- [ ] [<code>Move 'enable test' to CMakeListsGlobal.cmake</code>](https://github.com/OLSR/OONF/commit/271ff0977247ef2b89498265f7f97cc792644c30)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Simplify test case creation</code>](https://github.com/OLSR/OONF/commit/e8f04530a8c5a17a938986e712f5e52a39b66c8c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Replace VIF name pointer with array</code>](https://github.com/OLSR/OONF/commit/a2ea9186bf61cc315c5556f377e7b84804c91b4f)
+- [ ] [<code>Set path prefix length in CMakeListsGlobal</code>](https://github.com/OLSR/OONF/commit/29a2a385d64cb3116a6a0788fa0e7a816f87d4ab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix bad 'is in list' test in stream socket processing</code>](https://github.com/OLSR/OONF/commit/f9ebcf8ec6acea34af85bba85d55e1c5365d9de7)
+- [ ] [<code>Add SNR to layer2 neighbor data</code>](https://github.com/OLSR/OONF/commit/7fc0f50bc49207965cebe2640ecd09978180e84a)
+- [ ] [<code>Improve hello interval overwriting</code>](https://github.com/OLSR/OONF/commit/234e9109ae52f77c670c67c42d2f686d63b60e92)
+- [ ] [<code>Merge pull request #1 in FKIEA/oonf-os from develop to master</code>](https://github.com/OLSR/OONF/commit/6aebcf99cbce18b2ab55f4bfc7afd08d386c7fb3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix router_id for Netjson domain output</code>](https://github.com/OLSR/OONF/commit/603e48e86c9a181a9ff614845d589c2bcefea031)
+- [ ] [<code>Track scaling factors of layer2 data elements.</code>](https://github.com/OLSR/OONF/commit/f9ccd26b3d058b3f4017c5bf1615592af3985d11)
+- [ ] [<code>Fix fixed integer arithmetics handling</code>](https://github.com/OLSR/OONF/commit/9addfba41d0fd9baf1309828b2d0511b06d68eb5)
+- [ ] [<code>Improve DAT-Metric by shifting hysteresis to the loss side and consider other layer2 parameters</code>](https://github.com/OLSR/OONF/commit/ad72038e8e050131f777975b5a406d1b894d7b75)
+- [ ] [<code>Fix token validation</code>](https://github.com/OLSR/OONF/commit/c8ec83012bb83faab029430513843e6ff35d51fd)
+- [ ] [<code>Allow ffdat metric to consider rx_throughput field</code>](https://github.com/OLSR/OONF/commit/a1c3ea66b788e4b89fdaf22901b50b132e04fb74)
+- [ ] [<code>Improve combination of DAT speed and L2 throughput values</code>](https://github.com/OLSR/OONF/commit/bdee26bae289f05b1b94c75459317eb46cb04e9c)
+- [ ] [<code>Cleanup ffdat metric to be able to import rx_throughput.</code>](https://github.com/OLSR/OONF/commit/3765eb01f4e1f198ecefac9814d1f52b053306ef)
+- [ ] [<code>Merge pull request #2 in FKIEA/oonf-os from feature/MOTOR-48-tracking-von-metadaten-in-layer2-database to develop</code>](https://github.com/OLSR/OONF/commit/52c6b569d0b0c3e75879fbbbb75a06241d8bfef2)
+- [ ] [<code>Fix compilation issue with "no-debug" logging</code>](https://github.com/OLSR/OONF/commit/3c1984f8dac472322cb9883413b0e5564ac54592)
+- [ ] [<code>Merge pull request #3 in FKIEA/oonf-os from feature/MOTOR-48-tracking-von-metadaten-in-layer2-database to develop</code>](https://github.com/OLSR/OONF/commit/e489f97acb1922e5500317374a22c839acd0786c)
+- [ ] [<code>Merge pull request #4 in FKIEA/oonf-os from develop to master</code>](https://github.com/OLSR/OONF/commit/d592fbf75110b8aa635dca6daa92d46fe37c3478)
+- [ ] [<code>Automatic merge from master -> develop</code>](https://github.com/OLSR/OONF/commit/3a7e5e8e849a66b80e0238946030420b61953659)
+- [ ] [<code>Reorder libraries for testcase creation to prevent Ubuntu 16.04 Bug (MOTOR-50)</code>](https://github.com/OLSR/OONF/commit/6334565469083f88644571dddabe564e27f6ef7a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #5 in FKIEA/oonf-os from bugfix/MOTOR-50-olsr-compilation-fails-on-ubuntu-16.04 to develop</code>](https://github.com/OLSR/OONF/commit/7416ba8d607779a9deba1e1bf365f74e8333d243)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #6 in FKIEA/oonf-os from develop to master</code>](https://github.com/OLSR/OONF/commit/d05cc410680b71cb38709ae602467d2c5fc422ec)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Automatic merge from master -> develop</code>](https://github.com/OLSR/OONF/commit/9455e50f6229c2b133e6cdce2fe27e5a8914f7f1)
+- [ ] [<code>Make VIF sockets non-blocking</code>](https://github.com/OLSR/OONF/commit/05682c0c3176c7d281d7ad5736ad884605ab5c30)
+- [ ] [<code>Merge pull request #7 in FKIEA/oonf-os from bugfix/MOTOR-51-vif-socket-is-blocking to develop</code>](https://github.com/OLSR/OONF/commit/9996fe65250ad90459dd01ca9cced275dd4befa3)
+- [ ] [<code>Do not accept configuration with unknown sections/values if 'global.failfast' is true.</code>](https://github.com/OLSR/OONF/commit/bad48ebc3161e829394a2963f5bb6bb069d40e29)
+- [ ] [<code>Merge pull request #8 in FKIEA/oonf-os from feature/MOTOR-52-ablehnen-von-konfigurationen-mit-unbekannten-werten to develop</code>](https://github.com/OLSR/OONF/commit/c154c31bbf7b2ea69dff1b68488570e3c169835f)
+- [ ] [<code>Automatic merge from master -> develop</code>](https://github.com/OLSR/OONF/commit/1551b86d02869ca4cea4f10893928ac51ed92ace)
+- [ ] [<code>Merge pull request #9 in FKIEA/oonf-os from develop to master</code>](https://github.com/OLSR/OONF/commit/312d09d43a5c9abd3ad18c6d9d2e5ae2626a7da6)
+- [ ] [<code>Add LID capability to oonf_layer2 and l2config subsystem</code>](https://github.com/OLSR/OONF/commit/c33d680ed56e3cecfd2fd85e3869448acb773bb8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #10 in FKIEA/oonf-os from feature/MOTOR-54-add-telnet-command-to-manipulate-layer2-data to develop</code>](https://github.com/OLSR/OONF/commit/1db358dc2e7229da2d9bf0f651c529620ddc37f0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Partly working telnet code for l2config</code>](https://github.com/OLSR/OONF/commit/40f24ab9bd44af346308023bbe31957e60f2371d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Allow setting l2config via telnet</code>](https://github.com/OLSR/OONF/commit/243e17e35b30ce1a44fd94ae7cef6d97c2c5564c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #11 in FKIEA/oonf-os from feature/MOTOR-54-add-telnet-command-to-manipulate-layer2-data to develop</code>](https://github.com/OLSR/OONF/commit/710b353b650ae84b0457127f3c2a729b603bcdf1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Allow "non-unicast" routes to be imported</code>](https://github.com/OLSR/OONF/commit/965c2f7310dd353c3361ae4c33093ac7b90c2a67)
+- [ ] [<code>Merge pull request #12 in FKIEA/oonf-os from feature/MOTOR-57-allow-import-of-non-unicast-routes to develop</code>](https://github.com/OLSR/OONF/commit/0e24b09ff630e9496a16e66c4f79f872e06dc215)
+- [ ] [<code>Add missing telnet dependency to layer2-config</code>](https://github.com/OLSR/OONF/commit/eecc333345b8e19615ed71bb793312abd40024af)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Merge pull request #13 in FKIEA/oonf-os from bugfix/MOTOR-54-add-telnet-command-to-manipulate-layer2-data to develop</code>](https://github.com/OLSR/OONF/commit/26557e54ae997b635d9a868d351b77b8b59768c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix NHDP link status for interfaces without MAC addresses</code>](https://github.com/OLSR/OONF/commit/8d424b24174f9541152fe13395a2d62d6a9209b2)
+- [ ] [<code>Merge pull request #14 in FKIEA/oonf-os from bugfix/MOTOR-59-fix-nhdp-status-for-ip-level-interfaces to develop</code>](https://github.com/OLSR/OONF/commit/eb59d28755c4620b170fbaaa96f7ee1bd3e00956)
+- [ ] [<code>Prevent division by zero through (malformed) RLQ value</code>](https://github.com/OLSR/OONF/commit/2f615dab842a64ce23edbc330198a4764a1f891c)
+- [ ] [<code>Merge pull request #15 in FKIEA/oonf-os from bugfix/MOTOR-60-prevent-division-by-zero-in-dat-metric to develop</code>](https://github.com/OLSR/OONF/commit/65dc25e89d70dbf3dbfcd2416a8e61f2b2020a11)
+- [ ] [<code>use scaling factor when dealing with fixed integer conversion calls</code>](https://github.com/OLSR/OONF/commit/e9b08759067f1637bb5c27f1ec54917f53ba98f0)
+- [ ] [<code>Merge pull request #16 in FKIEA/oonf-os from bugfix/MOTOR-61-fix-clock-conversion-to-from-string to develop</code>](https://github.com/OLSR/OONF/commit/3fcd8fc579dd7546fe71896698efb9d0d9b595a8)
+- [ ] [<code>Do avl_for_each_elements_with_key_safe() by hand until we had a closer look at the macro</code>](https://github.com/OLSR/OONF/commit/95fbcb35fa53054b35884c17cc3f5b8dfede6f3b)
+- [ ] [<code>Merge pull request #17 in FKIEA/oonf-os from bugfix/MOTOR-62-fix-segfault-in-layer2_import to develop</code>](https://github.com/OLSR/OONF/commit/8f2408f7b3c2cff6124aed6881ef551fc7773d51)
+- [ ] [<code>include unistd.h in oonf.h to keep modern GCC (e.g. in LEDE) from complaining about ssize_t</code>](https://github.com/OLSR/OONF/commit/f40be2382e609da97faed6ef91d89a81dcd6ed02)
+- [ ] [<code>Merge pull request #18 in FKIEA/oonf-os from bugfix/MOTOR-65-oonf-does-not-compile-cleanly-on-current-lede to develop</code>](https://github.com/OLSR/OONF/commit/1d227500eab309dbb4efbf00fbf311999a6f56a7)
+- [ ] [<code>Merge pull request #19 in FKIEA/oonf-os from develop to master</code>](https://github.com/OLSR/OONF/commit/8397c64ee044ed87cb116b8cc213615aa085c177)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>test_config_delta: fix the build on GCC 9</code>](https://github.com/OLSR/OONF/commit/c6dd02a168e95a9abcd6ef72b020f8c8334210c7)
+- [ ] [<code>Fix schema name for logging in README</code>](https://github.com/OLSR/OONF/commit/ced3ace091ac0517dbcd3860e78a0c7c0a83a064)
+- [ ] [<code>Merge pull request #26 from sumpfralle/patch-1</code>](https://github.com/OLSR/OONF/commit/9dc467263d30763a5cab5d983bee4911e2e19960)
+- [ ] [<code>Merge pull request #7 from aaaaalbert/rename-to-BUILDING.md-#4</code>](https://github.com/OLSR/OONF/commit/02f69178fffc4909af643443b40809772153ba30)
+- [ ] [<code>fix build for gcc-10 (-fno-common default)</code>](https://github.com/OLSR/OONF/commit/5ea168ce959cbabc0afa71fafc6231c514db72df)
+- [ ] [<code>Merge pull request #40 from trofi/fix-gcc-10-build</code>](https://github.com/OLSR/OONF/commit/a0750337805f90e2cb54a4e267f9af5e79144236)
+- [ ] [<code>add missing extern to global symbol</code>](https://github.com/OLSR/OONF/commit/1a5fa2a7ffa710ec8e8d7005bc8ace6eea48748f)
+- [ ] [<code>Merge pull request #42 from jpo-github-work/master</code>](https://github.com/OLSR/OONF/commit/1bd73550a42686d47f487a9c5d5602304a8712c7)
+- [ ] [<code>the package dh-systemd is not longer present in recent Ubuntu versions</code>](https://github.com/OLSR/OONF/commit/bbbd4f3da82b062ccf233af45b162eb7ddbceb54)
+- [ ] [<code>Fix inverted test</code>](https://github.com/OLSR/OONF/commit/07f2d65bd8b68d78761c6e4c556c8763c785f0da)
+- [ ] [<code>build lan_import</code>](https://github.com/OLSR/OONF/commit/c7d404f8e9682f008fe6f11d7912ccfc8fb4aad3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #48 from jpo-github-work/fix_lan_import</code>](https://github.com/OLSR/OONF/commit/8cc65a10651d12b0ee5187c6ce397e34ad157d8b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #43 from jpo-github-work/no-dh-systemd</code>](https://github.com/OLSR/OONF/commit/a8e81e9941e3e3fd83aa295cb830ebe9f5355651)
+- [ ] [<code>Merge pull request #23 from fhuberts/master</code>](https://github.com/OLSR/OONF/commit/fb15d54d6a7a087cb0c5ec37c49804f6ce432396)
+- [ ] [<code>Set cmake project name</code>](https://github.com/OLSR/OONF/commit/87820df462c6b821032b284f4d6e9db9d661d07c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #67 from mwarning/cmake</code>](https://github.com/OLSR/OONF/commit/48fcd6caba628e3ab225d28d2d8880c6cee77781)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #45 from jpo-github-work/fix-layer2_generator</code>](https://github.com/OLSR/OONF/commit/65b75cae810e43141017bd6fadf866f43f1389d1)
+
+#### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
+
+> Dropped python310Packages.confight - no appropriate URL found
+> Dropped python310Packages.ebaysdk - no appropriate URL found
+
+#### [python310Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
+
+- [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
+  - <sub>Keywords: <code>bin</code></sub>
+
+#### [python310Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
+
+> Dropped python310Packages.yt-dlp - no appropriate URL found
+
+#### [qlog](https://github.com/foldynl/QLog): [v0.29.2 → HEAD](https://github.com/foldynl/QLog/compare/v0.29.2...HEAD)
+
+> Dropped qpaeq - no appropriate URL found
+
+#### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
+
+> Dropped soundwireserver - no appropriate URL found
+> Dropped ssh-import-id - no appropriate URL found
+
+#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.8.7 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.8.7...HEAD)
+
+- [ ] [<code>Bump ra-language-french from 4.2.0 to 4.9.3 (#359)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d502696c1f795bed36dae309e4885f4d07ac8d32)
+- [ ] [<code>Bump eslint-config-prettier from 8.3.0 to 8.8.0 (#353)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/46fa936f20fce1e5f80d9c7b89ec0e3469c3e006)
+- [ ] [<code>Bump webpack from 5.74.0 to 5.76.1 (#349)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/bdf29afda06ba85062af097623df94144769b05a)
+- [ ] [<code>Bump @emotion/styled from 11.6.0 to 11.10.6 (#342)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/bbd63f48383404ac21bd3248b830db19a54bb9be)
+- [ ] [<code>Bump react-admin from 3.19.7 to 3.19.12 (#339)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8b00f7d5ac2403c1cc6f34dcdc489401ab037a45)
+- [ ] [<code>Bump semver from 6.3.0 to 6.3.1 (#375)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ffce8bd64cf6ce260a0a434ad2edbf1460a4ee85)
+- [ ] [<code>Migrate material-ui icons to v5 (#329)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/67500a6023a8c9882968d4b948137c2273af4844)
+- [ ] [<code>Bump word-wrap from 1.2.3 to 1.2.5 (#376)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d592234d4edbfc24c1fc89cccd2a64ab83a1f19b)
+- [ ] [<code>Bump @adobe/css-tools from 4.0.2 to 4.3.1 (#377)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/39643bd8abf36fedb7c3de854af4ed231a5f6b18)
+- [ ] [<code>Bump tough-cookie from 4.0.0 to 4.1.3 (#378)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/15528e3e9b09b058f785e0a8c497a8bae39aedfe)
+- [ ] [<code>Bump @testing-library/react from 11.2.7 to 12.1.5 (#327)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3fec64021a8bee2ff2e0fcff90b32e9d733a448b)
+- [ ] [<code>Bump docker/build-push-action from 3 to 4 (#328)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8fa78356a036a91de53e54971998f4446966350d)
+- [ ] [<code>Italian translations (#374)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0c5c7622242f2c386cff447aed8a31c91be42f4a)
+- [ ] [<code>Add italian language option to login page (#379)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c750f6b8e9093f2d44fd176ae24f321e2819bede)
+- [ ] [<code>Bump actions/checkout from 3 to 4 (#380)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/35e3bbeb88a9dd1c9dfca4876abc752a317050e2)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.4.1 to 4.4.3 (#381)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d747e24a9616c5281cbf7acab11539beec916f0a)
+- [ ] [<code>Bump eslint from 8.32.0 to 8.48.0 (#383)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/05a4f94d2f16bf59eeacc999b1e6ebfe2505db20)
+- [ ] [<code>Bump @mui/icons-material from 5.3.1 to 5.14.7 (#386)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e253fcb5167043f5741b4000f03329dc04cb71a6)
+- [ ] [<code>Bump ra-test from 3.19.4 to 3.19.12 (#384)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8bdeddd8f6cf825ce8355d8539cdeaa3477e1a57)
+- [ ] [<code>Bump @emotion/react from 11.7.1 to 11.11.1 (#385)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ec2e7b2ccb9b8f579cc20bab18d34d1a87a4a648)
+- [ ] [<code>Fix SSO-login for base urls with explicit port (#337)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ad9a1c502be804622707a17e15a236b663ca6f19)
+- [ ] [<code>Add raw sender uid in reports page (#334)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8097fa4da46fc56dc6024b10d8ab53cb626c3d5b)
+- [ ] [<code>Bump ra-language-french from 4.13.2 to 4.13.3 (#382)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0e2563339899745504f3e4541288ffdfbb9a0a9f)
+- [ ] [<code>Bump @mui/icons-material from 5.14.7 to 5.14.8 (#392)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e1c7f44fec77c936c587a8ba034b62a499a2d124)
+- [ ] [<code>Bump eslint-config-prettier from 8.10.0 to 9.0.0 (#389)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/bcf7dec10c391f37925ff92f0580b7dfb4542383)
+- [ ] [<code>Bump @mui/material from 5.4.0 to 5.14.8 (#391)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/499d15e667871b5c76e6c5ef9266ca6dccd17586)
+- [ ] [<code>Bump prop-types from 15.7.2 to 15.8.1 (#390)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5bbb2fc77b4c27addc6496e2725bcc98e4c0fb68)
+- [ ] [<code>Bump papaparse from 5.3.1 to 5.4.1 (#388)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/12c22a170bfc9739684a84be7260cce77cf71b85)
+- [ ] [<code>Bump NodeJS to v18 (#407)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/50af6499b069a9fa7e4e2ee97a1b5dc5ebaeaad1)
+
+#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.4.221 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.4.221...HEAD)
+
+- [ ] [<code>Fix load DB failure, #498</code>](https://github.com/axcore/tartube/commit/5487f438bf0888616a4911fcf8eadae3f1cf6f25)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix download video count, fix classic mode audio direct download</code>](https://github.com/axcore/tartube/commit/32d97b4d7974ccf8dbeb35bfcef1cc9f7c00321c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update issue templates</code>](https://github.com/axcore/tartube/commit/0e0c0883da310b0efba064332da41f6e75068e5d)
+- [ ] [<code>Improve tutorial, various fixes/features</code>](https://github.com/axcore/tartube/commit/431ac281fee6ade1fb580d4d8c7908767878e755)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update to v2.4.255</code>](https://github.com/axcore/tartube/commit/bbd20e341861ef008e73e1a0a94da55d6337a5a5)
+  - <sub>Tags: <code>v2.4.255</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update to v2.4.260</code>](https://github.com/axcore/tartube/commit/bad3c9937ff0063d878bfa60dbe497ffc274f3a9)
+  - <sub>Tags: <code>v2.4.260</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix typo</code>](https://github.com/axcore/tartube/commit/1a74cac9b321c494f0bc72b62e9f2e088281cb39)
+- [ ] [<code>Merge pull request #513 from ceonelson/fix-typo</code>](https://github.com/axcore/tartube/commit/246968c144b89f087990acad195aaafd1a7d6d2e)
+- [ ] [<code>Better URL checking, improved drag-drop functionality, yt-dl logging</code>](https://github.com/axcore/tartube/commit/e8a46cbe2f20743b78b95b15c1e34a0c89eb78e3)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix python error when downloading clips using FFmpeg</code>](https://github.com/axcore/tartube/commit/4510daf558a11630a0d28e797ad1d9ae7a851caf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update issue templates for the zillionth time</code>](https://github.com/axcore/tartube/commit/bafe4bd69034652080332f5c0ecfc57acf4fa4a8)
+- [ ] [<code>Update issue templates</code>](https://github.com/axcore/tartube/commit/ced0a1175f62313f5a5948d34920c6263f3e7b92)
+- [ ] [<code>Possible fix for locale issue #518</code>](https://github.com/axcore/tartube/commit/87a0ea214ffba9a67cc88bd1130fcbeacfb437cf)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>add chinese locale</code>](https://github.com/axcore/tartube/commit/e52dc812e21720add138d12fa569f01746f563a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add some shortcut descriptions</code>](https://github.com/axcore/tartube/commit/999aa6a33037ba32080604a19d6e345a1ae6be85)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #524 from allblue/add-chinese-locale</code>](https://github.com/axcore/tartube/commit/4a2182fea35fd3d103e2697936eff0d40cccbcfb)
+- [ ] [<code>Fix errors on mutliple video delete #521, add new playlist to existing folder #522, bad entries in Video Index registry #523</code>](https://github.com/axcore/tartube/commit/c5745b8bf6a6c2d8f9a78f4fb6c404a3df915777)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add improved video clip/slice functionality</code>](https://github.com/axcore/tartube/commit/18e2765c706669291f66159457d63096c5c9d2a9)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Fix livestream actions #536, sound failure #529, re-insert URLs in classic mode #532, override video names #520</code>](https://github.com/axcore/tartube/commit/d9644485142276ad50345b72ec5374f11c7c976b)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update to v2.4.370</code>](https://github.com/axcore/tartube/commit/860330672d7fe6ee60b189cbaa6c1716334faecd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Update to v2.4.370</code>](https://github.com/axcore/tartube/commit/ac738687337478015093a1550b0f994178538a06)
+  - <sub>Tags: <code>v2.4.370</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>Allow ignoring \'twitch not live\' error of yt-dlp</code>](https://github.com/axcore/tartube/commit/d4833aa03c7cd1b7f398dd3436348c91efc2f9de)
+- [ ] [<code>Now setting also gets saved to config file</code>](https://github.com/axcore/tartube/commit/bea6f933a676f98cba39c3fd97cb0dc3b0710bbf)
+- [ ] [<code>Minor fixes/updates</code>](https://github.com/axcore/tartube/commit/62a42754dbefcb23195820e146f5308c9b928a9b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge branch 'master' into ignore-twitch-not-live</code>](https://github.com/axcore/tartube/commit/e4bc2ae2077ade4104d282403efc714535ed320d)
+- [ ] [<code>Merge pull request #541 from Lux-Hue/ignore-twitch-not-live</code>](https://github.com/axcore/tartube/commit/6cef93aba8fdd824eb7967c8379cf39cc1bdd159)
+- [ ] [<code>Update to v2.4.386</code>](https://github.com/axcore/tartube/commit/613badcd0fb4c064f50058d0401e09c31e45bb9f)
+  - <sub>Tags: <code>v2.4.386</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix error log #557, fix markers #558, add copy button #559</code>](https://github.com/axcore/tartube/commit/6c3b8d72613d968266f8d88c386ef55046dbafd4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Local scheduled d/l stop settings #563, various minor fixes</code>](https://github.com/axcore/tartube/commit/c404717a7855bb60d7bf373b776eef0b4dcea55b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update README.rst: typo</code>](https://github.com/axcore/tartube/commit/a268c29637b523cf6d736fd3e734454e536b9697)
+- [ ] [<code>Merge pull request #567 from fqd511/patch-1</code>](https://github.com/axcore/tartube/commit/05f9fddb6478067171a7a01ea7331b25b75f485d)
+- [ ] [<code>Fix one-click download #566, fix can't display comments #565</code>](https://github.com/axcore/tartube/commit/e7f041f172e67a4b9915c1ec0ff4638de19eed35)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add MacOS troubleshooting to README</code>](https://github.com/axcore/tartube/commit/325578f6c1e35a320fece65b5d5c278a69ba178a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update to v2.4.412</code>](https://github.com/axcore/tartube/commit/8bf5a5a9c1e90a9a0c882dc49dfd050aeda84271)
+  - <sub>Tags: <code>v2.4.412</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Re-enable FFmpeg path on MSWini</code>](https://github.com/axcore/tartube/commit/7741f4c865bf3331d060532e06b0d3611a8f6017)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update to v2.4.429</code>](https://github.com/axcore/tartube/commit/873da36ef2f3f710e709fe43c0b2283bb70c3680)
+  - <sub>Tags: <code>v2.4.429</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Custom FFmpeg commands #600, cairo crash experiment #577</code>](https://github.com/axcore/tartube/commit/ec0dd6ac7290764ae56fb4db674c24f5699707bf)
+  - <sub>Keywords: <code>bin</code></sub>
+> Dropped timezonemap - no appropriate URL found
+
+#### [twinkle](https://github.com/LubosD/twinkle): [2301b66a3f54b266675415d261985488d86e9e4c → HEAD](https://github.com/LubosD/twinkle/compare/2301b66a3f54b266675415d261985488d86e9e4c...HEAD)
+
+- [ ] [<code>changed references to http(s)://twinklephone.com to https://mfnboer.home.xs4all.nl/twinkle/</code>](https://github.com/LubosD/twinkle/commit/165c43d8a1574946e7704c639c56cea3d5264606)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>scripts receive SIP_FROM/TO_DISPLAY</code>](https://github.com/LubosD/twinkle/commit/17fa8e449cbee77451a373ddd563e0848d0793f1)
+- [ ] [<code>Merge pull request #241 from johannesk/SIP__DISPLAY</code>](https://github.com/LubosD/twinkle/commit/1ec8dbb0f25222c38ea6ccd2980d9387990b923a)
+- [ ] [<code>allow_sdp_change=true by default</code>](https://github.com/LubosD/twinkle/commit/3515ab9d1d7f85b69b2f39e17864f007c4f572a5)
+- [ ] [<code>Merge pull request #243 from johannesk/allow_sdp_change</code>](https://github.com/LubosD/twinkle/commit/9e3dadb4b1a3383777564659120e1797f0105bd4)
+- [ ] [<code>Fix bcg729 URL in README.md</code>](https://github.com/LubosD/twinkle/commit/8509e79c8292b688d85423cd8a5315975b390735)
+- [ ] [<code>CI: Update bcg729 Git repo URL</code>](https://github.com/LubosD/twinkle/commit/b9195e8be7e09fce2a3f7406484a470df900b425)
+- [ ] [<code>CI: Migrate from Travis CI to GitHub Actions</code>](https://github.com/LubosD/twinkle/commit/82f8988407fdac698ab163b0f805c994eaeece17)
+- [ ] [<code>CI: Use setup-gcc/setup-clang actions to install GCC/Clang versions</code>](https://github.com/LubosD/twinkle/commit/d8f1145b3dcd1ce52b5d84cf82e8262fbd965dbe)
+- [ ] [<code>CI: Test compiler versions on different Ubuntu releases</code>](https://github.com/LubosD/twinkle/commit/96149316ad95594d25a2af3fb38ecfb249c1a50f)
+- [ ] [<code>CI: Trim down the list of compiler versions we test</code>](https://github.com/LubosD/twinkle/commit/4803d161378bd0343317be988a977d2c42ec65b2)
+- [ ] [<code>CI: Also test the current default version for each compiler</code>](https://github.com/LubosD/twinkle/commit/4dcae5ebc94aa70ae65ce9be737c795283f72ea3)
+- [ ] [<code>CI: Give a more proper name to jobs</code>](https://github.com/LubosD/twinkle/commit/ff812313044340cc47371ebf1ddaf4cfa9e66675)
+- [ ] [<code>CI: Unfold the bcg729 download/build one-liner</code>](https://github.com/LubosD/twinkle/commit/87e992854b1e2914612f1e1ba006da2b2d6c28f9)
+- [ ] [<code>CI: Standardize matrix keys to lowercase to avoid confusion with envvars</code>](https://github.com/LubosD/twinkle/commit/e553276acee37820fff4710002f8f3f5111e93e9)
+- [ ] [<code>CI: Standardize on single quotes for YAML strings</code>](https://github.com/LubosD/twinkle/commit/ced011ac88f907a2c8ab4489b78a9a9e8ae7ff22)
+- [ ] [<code>CI: Create $PACKAGES_REQUIRED to regroup both package lists together</code>](https://github.com/LubosD/twinkle/commit/cb93ccaa9e41ac4328ec6951250bcceb2c9d7bee)
+- [ ] [<code>CI: Don't bother manually installing git and ca-certificates packages</code>](https://github.com/LubosD/twinkle/commit/032ce7e4bf0b5a08a0becf160947967e33b3e7ac)
+- [ ] [<code>CI: Unfold all strings made of space-separated items</code>](https://github.com/LubosD/twinkle/commit/9bf0bb4d24cf8d7ce9b2d14f0d4c615e2be4ca08)
+- [ ] [<code>CI: Drop qttools5-dev-tools from the list of required packages</code>](https://github.com/LubosD/twinkle/commit/b31a821467364821bd3967870885ad9e259b2662)
+- [ ] [<code>CI: Add a build status badge to README.md</code>](https://github.com/LubosD/twinkle/commit/8111b13aa23bf395aad9fd9a590f41af024d9931)
+- [ ] [<code>Merge pull request #245 from LubosD/github-actions</code>](https://github.com/LubosD/twinkle/commit/b07b01051d63cd3b92e26830e6ef610614caae7a)
+- [ ] [<code>CI: Switch bcg729 repo from linphone.org to GitHub mirror</code>](https://github.com/LubosD/twinkle/commit/b6ef719c13ffb08d0cb65034587210b99af44834)
+- [ ] [<code>Bump up MAX_LEN_LOG_STRING to 4096 bytes</code>](https://github.com/LubosD/twinkle/commit/0ce57f8eb812c20c129a36b86f527ffb2a6393df)
+- [ ] [<code>Set TWINKLE_* environment variables the same way as SIP_* variables</code>](https://github.com/LubosD/twinkle/commit/00fabb7441d9936c4b38dffbb6be0c734915bb10)
+- [ ] [<code>Add new TWINKLE_* service-based environment variables</code>](https://github.com/LubosD/twinkle/commit/133430343d1c5f34018a38c117786222b1f699df)
+- [ ] [<code>Add a `-o` flag to the `line` CLI to toggle to the "other" line</code>](https://github.com/LubosD/twinkle/commit/5229d22e9f3f281af706c3df1e4ec280b8d50302)
+- [ ] [<code>Add a `-t` flag to the `hold` CLI command to toggle call on-hold status</code>](https://github.com/LubosD/twinkle/commit/0dc6d817bdce8473158245cd21ea466140860af8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add compile-time check for C++11 regular expressions (Closes #112)</code>](https://github.com/LubosD/twinkle/commit/3146679afc7405ab100610ddcc0a8a781fe3048d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add "Main Toolbar" entry to the View menu</code>](https://github.com/LubosD/twinkle/commit/f680a79f29209eee2bac8973f97fdeae0fb6a446)
+- [ ] [<code>Rename `MD5*` variables to `H_*` in t_request::authorize_md5()</code>](https://github.com/LubosD/twinkle/commit/5645e2539add0daa7c65b41961f7e2831b895b84)
+- [ ] [<code>Move all instances of `"md5"` into a single `algo` variable</code>](https://github.com/LubosD/twinkle/commit/d5a1ccf59ebb80a38d61155f1949ca10c19a353e)
+- [ ] [<code>Spawn t_request::authorize_generic() from authorize_md5()</code>](https://github.com/LubosD/twinkle/commit/f57e633cd595c5b8d85a810ab777518892c04cb4)
+- [ ] [<code>Add support for the `SHA-256` hash algorithm for authentication</code>](https://github.com/LubosD/twinkle/commit/2b3025668225e8a4c7ac2bdce0dacc8613bd51c4)
+- [ ] [<code>Merge pull request #240 from matchuek/master</code>](https://github.com/LubosD/twinkle/commit/22453f7f652b4b03c53c91b058ccadfdd357b576)
+- [ ] [<code>Pass any current username/password to cb_ask_credentials()</code>](https://github.com/LubosD/twinkle/commit/719ddda7ad8a8ed0ae0a52b68de07acc742fee99)
+- [ ] [<code>Merge pull request #256 from fbriere/issue/255-prefill-auth-form</code>](https://github.com/LubosD/twinkle/commit/a8705f34837283a7a08dd8b6a27bcd9fd9b5ee6a)
+- [ ] [<code>changed references to http(s)://twinklephone.com to https://mfnboer.home.xs4all.nl/twinkle/</code>](https://github.com/LubosD/twinkle/commit/da274607aa835a2735dcf9b9a7ba550910f9d03e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Twinkle 1.10.3</code>](https://github.com/LubosD/twinkle/commit/fccfb208933cd01fcda58f66a22ef0592275d69b)
+  - <sub>Tags: <code>v1.10.3</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge tag 'v1.10.3'</code>](https://github.com/LubosD/twinkle/commit/f1a75ef4816f1c9d2c59d8de6997160690c2c464)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add `MimeType` to the desktop entry (along with a "URI handler" script)</code>](https://github.com/LubosD/twinkle/commit/19044673c566144847c47090e497d4e88a85bd24)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Add support for SIP session timers (RFC 4028)</code>](https://github.com/LubosD/twinkle/commit/24e5c7c27ecb16cda5c9462ea409b8bfebb65c5d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #262 from fbriere/feature/session-timers</code>](https://github.com/LubosD/twinkle/commit/fa79489089ed1ec20665d56b447b733a711bd7f0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add missing `$$` initializations in `sdp_parser.yxx`</code>](https://github.com/LubosD/twinkle/commit/dd6370aadb85d8f15597b04ecc6d8e9abe91d73e)
+- [ ] [<code>Solve (almost) all shift/reduce conflicts in `parser.yxx`</code>](https://github.com/LubosD/twinkle/commit/e9c4fc574990c01a2957acc07a632519dbe7d16f)
+- [ ] [<code>uic: Remove the name of all `<spacer>` and `<layout>` elements</code>](https://github.com/LubosD/twinkle/commit/04f0cf1bcc3aad0531fc4a769355d8a059110411)
+- [ ] [<code>uic: Remove unused `tab` name from `<widget>` elements</code>](https://github.com/LubosD/twinkle/commit/c0d341b141a9d5695c59e61e293f473da012fdc0)
+- [ ] [<code>uic: Remove unused element names with a number suffix</code>](https://github.com/LubosD/twinkle/commit/65260f476d410d82e3eb9d10eb02eb372a336322)
+- [ ] [<code>uic: Rename all remaining elements with a number-suffix name</code>](https://github.com/LubosD/twinkle/commit/b00abd11bb5d001ddffff303dcc8ffa2b0ebad2c)
+- [ ] [<code>uic: Upgrade size policy of `conversationBrowser` widget to Qt 5</code>](https://github.com/LubosD/twinkle/commit/c7c803f33364fd14e7e73c6a33b4e1daf54a38c2)
+- [ ] [<code>uic: Remove obsolete `<images>` element from `messageform.ui`</code>](https://github.com/LubosD/twinkle/commit/92395eb604ef9e1417334cba6b1a74781b4ae54a)
+- [ ] [<code>Add `cmake_minimum_required()` `policy_max` argument to silence warnings</code>](https://github.com/LubosD/twinkle/commit/880fc61f2b85d921c856449a832ad860ab57a1c7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #264 from fbriere/fix/yacc-shift-reduce-conflict</code>](https://github.com/LubosD/twinkle/commit/193799cca03c687ab2583944563834d9ef382b03)
+- [ ] [<code>Merge pull request #266 from fbriere/misc/cmake-version</code>](https://github.com/LubosD/twinkle/commit/aa2acc3cb4c461daa10ae664ac71428c13294441)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #265 from fbriere/misc/uic-warnings</code>](https://github.com/LubosD/twinkle/commit/27a50f9677da74018522aacca7a255335b3477b8)
+- [ ] [<code>Merge pull request #259 from fbriere/feature/desktop-entry</code>](https://github.com/LubosD/twinkle/commit/6f94b4ce17898078ba2e2bf4ee8ae99c097f2426)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #263 from fbriere/fix/yacc-missing-init</code>](https://github.com/LubosD/twinkle/commit/7b1829591e1d2049ae97fbc66e0b0a9a7c72b461)
+- [ ] [<code>Merge pull request #253 from fbriere/issue/233-sha256-authentication</code>](https://github.com/LubosD/twinkle/commit/b20d9a126de991c7f7b03d361f00b5d17337e11e)
+- [ ] [<code>Merge pull request #252 from fbriere/issue/220-view-toolbar-menu-entry</code>](https://github.com/LubosD/twinkle/commit/e2e9b84480621b0b74ab7177c43450aa5ee60cc5)
+- [ ] [<code>Merge pull request #250 from fbriere/misc/log-message-limit</code>](https://github.com/LubosD/twinkle/commit/596ace7e34e321ffe32695e88218b2ce572794e9)
+- [ ] [<code>Merge pull request #249 from fbriere/feature/service-vars</code>](https://github.com/LubosD/twinkle/commit/3f14426d97dc859fc4d61af96adb32f986519457)
+- [ ] [<code>Merge pull request #246 from fbriere/feature/toggle-other-line</code>](https://github.com/LubosD/twinkle/commit/00e1a41c5306cbceea051cff7e7ce39854f18fc3)
+- [ ] [<code>Merge pull request #247 from fbriere/feature/toggle-hold</code>](https://github.com/LubosD/twinkle/commit/8840d4892436b2bc9c7743106ae5b6ce79606c45)
+- [ ] [<code>Remove duplicate "Activate line" Call menu entry</code>](https://github.com/LubosD/twinkle/commit/46b90a68c56f12c1957eaa3850120c67c26de279)
+- [ ] [<code>Fix typo in 1.10.2 release date</code>](https://github.com/LubosD/twinkle/commit/a3d62538b41b04a1cfb48e029b6d93f0bed8b825)
+- [ ] [<code>Merge pull request #248 from fbriere/fix/duplicate-activate-line</code>](https://github.com/LubosD/twinkle/commit/4d19a1e2eb04b9ab5451e449000d20a46d369b6d)
+- [ ] [<code>Merge pull request #254 from fbriere/misc/wrong-release-date-year</code>](https://github.com/LubosD/twinkle/commit/15ece115c4bfef3e47f3f9f4bd316d573fae18aa)
+- [ ] [<code>Match all SIP headers case-insensitively</code>](https://github.com/LubosD/twinkle/commit/008a478441012a0fa88d1c0aa5850a321bf5207a)
+- [ ] [<code>Add a missing `idxRtpG726` in `userprofileform.cpp`</code>](https://github.com/LubosD/twinkle/commit/14d831902034f393e45c08d5becfe1045c183743)
+- [ ] [<code>Properly handle `TYPE_UI_CB_DISPLAY_MSG` events</code>](https://github.com/LubosD/twinkle/commit/6c5e744144b6c9afe9052ef8a89ecdd2931f3473)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Re-enable Diamondcard profile dialog</code>](https://github.com/LubosD/twinkle/commit/d36a4cd2ff085c770a1b30392fc87380cad79a77)
+- [ ] [<code>Replace quotation marks with &quot; in diamondcardprofileform strings</code>](https://github.com/LubosD/twinkle/commit/08b5ac80475cdb6524632750eab88b710f3b777e)
+- [ ] [<code>Run diamondcardprofileform.ui through Qt Designer</code>](https://github.com/LubosD/twinkle/commit/f21bfe82a8fdcaef5128a95c4ba2638a01126cdc)
+- [ ] [<code>Make WITH_DIAMONDCARD build option dependent on WITH_QT5</code>](https://github.com/LubosD/twinkle/commit/82e13ae1e4a58cf529e440ae7ee9756e4f1a2afe)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Correct the Diamondcard voicemail number to `80#`</code>](https://github.com/LubosD/twinkle/commit/f557c6c48dbd527e5e40e42098dc45054fa2a283)
+- [ ] [<code>Enable WITH_DIAMONDCARD by default</code>](https://github.com/LubosD/twinkle/commit/07f7afd80c07a03955b9c4d068484da93137eed6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add default argument values to AddressTableModel method overrides</code>](https://github.com/LubosD/twinkle/commit/d952eb1e73a494f42cc8ba959e49598ab6326f4d)
+- [ ] [<code>Add support for Akonadi, replacing KAddressBook</code>](https://github.com/LubosD/twinkle/commit/27fbe77a0c0fcbc64689d3a3982cd229870e585e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Bring most of GetAddressForm::loadAddresses() into KContactsTableModel</code>](https://github.com/LubosD/twinkle/commit/eff1a96d0754cfde3ec762189bbdcc0b001f8655)
+- [ ] [<code>Ditch addrBook/ABOOK and call AkonadiAddressBook::self() directly</code>](https://github.com/LubosD/twinkle/commit/305243083cb806978cbf7a010ec17e8ac27855db)
+- [ ] [<code>Adjust location of Akonadi header files following upstream move</code>](https://github.com/LubosD/twinkle/commit/66fafcf3c0e488dbc9189df186a746b0d6d74f1f)
+- [ ] [<code>Rip out the whole "synchronize Akonadi collections" thing</code>](https://github.com/LubosD/twinkle/commit/48a8058751a47d3344d346353d247b0257354f2f)
+- [ ] [<code>Call `widgetNeedsAkonadi()` on the address book's Akonadi tab</code>](https://github.com/LubosD/twinkle/commit/85d979ece779fe785814fd4cfb4b6706ebfefc6d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Properly manage session timers if an early session was established</code>](https://github.com/LubosD/twinkle/commit/6c1cf9df15f0555776f20e99c56cf4fbc127e59b)
+- [ ] [<code>Merge pull request #278 from fbriere/issue/277-early-session-timer</code>](https://github.com/LubosD/twinkle/commit/da1fd04db09d5488ddb8ede1b5bf98b140b72dde)
+- [ ] [<code>Use `typedef`s instead of `unsigned long` for 32-bit IPv4 addresses</code>](https://github.com/LubosD/twinkle/commit/53f9cc19393159b012ea312b30cd3446297d7bf1)
+- [ ] [<code>Replace obsolete gnutelephony.org URLs</code>](https://github.com/LubosD/twinkle/commit/08c6918e7f7eeb3d74112885369e1e65effd88b1)
+- [ ] [<code>Merge pull request #283 from fbriere/misc/gnutelephony-urls</code>](https://github.com/LubosD/twinkle/commit/081cb6b8d8f6e224c30748bec2bb1dc63c5635e0)
+- [ ] [<code>Merge pull request #282 from fbriere/misc/ipaddr</code>](https://github.com/LubosD/twinkle/commit/e548649492a776b8965e9412113368b16d337bfe)
+- [ ] [<code>Merge pull request #270 from LubosD/akonadi</code>](https://github.com/LubosD/twinkle/commit/59b0a13b5277ca04729037cef84a737631d95861)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge branch 'master' into diamondcard</code>](https://github.com/LubosD/twinkle/commit/846c8131c043e3762cb9787c349571b464dd8191)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #268 from fbriere/fix/cb-display-msg-event</code>](https://github.com/LubosD/twinkle/commit/86555299e58c60b837d8253cc8be8b77c1b1226f)
+- [ ] [<code>Merge pull request #267 from fbriere/fix/rtp-tabs-missing-idx</code>](https://github.com/LubosD/twinkle/commit/ae147cf56ef60d8a6fa157e5d9c82f737af07ea4)
+- [ ] [<code>Merge pull request #117 from fbriere/feature/c++11-regex-check</code>](https://github.com/LubosD/twinkle/commit/1bc1dc82f676ad4618b6c6b905649d64e604f2e3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #225 from dleonard0/fix-case</code>](https://github.com/LubosD/twinkle/commit/112368ac7e5de930394e8c6a244c7f17b7f46223)
+- [ ] [<code>Merge pull request #269 from LubosD/diamondcard</code>](https://github.com/LubosD/twinkle/commit/8ada53423e380ffc1fb85de8077e1c492b78b352)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>warnings: Add limit on hour count in timer2str() [-Wformat-truncation]</code>](https://github.com/LubosD/twinkle/commit/126e850336ff0eeebaae5b69aaf404487923d195)
+- [ ] [<code>Display any provided Reason header when receiving a BYE or CANCEL</code>](https://github.com/LubosD/twinkle/commit/8affefab86ecc5000d13fa8f3c58300ef6c0e643)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Skip C++11 regular expressions check when cross-compiling</code>](https://github.com/LubosD/twinkle/commit/e2efb60eae8cb09786e09bbdd306b7d1a6c62d24)
+- [ ] [<code>Merge pull request #289 from fbriere/fix/cross-compile-regex-check</code>](https://github.com/LubosD/twinkle/commit/991f631fe7fbe801bd99487fc5f0490fae8b0a61)
+- [ ] [<code>Stop using Ubuntu 18.04 with GitHub Actions</code>](https://github.com/LubosD/twinkle/commit/b5643dca068189aa5f2ab910c3160674e2c40947)
+- [ ] [<code>Avoid segfaulting if `QQuickView::setSource()` fails to load a component</code>](https://github.com/LubosD/twinkle/commit/76f3642a485b4fcbf4e3e8a149163be8308234cb)
+- [ ] [<code>Fix `t_gui::cb_message_request()` using a `QTimer` on a non-Qt thread</code>](https://github.com/LubosD/twinkle/commit/df76f92f81a33b6a1360c6278c75d009db1592dc)
+- [ ] [<code>Properly set up URL of a message attachment</code>](https://github.com/LubosD/twinkle/commit/41d42fa9fe96052efdc06a3520b5217196b9045e)
+- [ ] [<code>Merge pull request #296 from fbriere/fix/message-attachment-url</code>](https://github.com/LubosD/twinkle/commit/69439effbadb344d3dae7d239a97db371ae78e0e)
+- [ ] [<code>Merge pull request #285 from fbriere/feature/reason-header</code>](https://github.com/LubosD/twinkle/commit/ca59c972c3f04d7a959cee31cabee53f20a3f2bf)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #294 from fbriere/fix/qml-failure-segfaults</code>](https://github.com/LubosD/twinkle/commit/d76352d4c75e7416ce7122d33f4dd8c15e3c2196)
+- [ ] [<code>Merge pull request #284 from fbriere/misc/warning-format-truncation</code>](https://github.com/LubosD/twinkle/commit/c6caefcef451f46c762682c50f67967cfdcdaf4f)
+- [ ] [<code>Merge pull request #295 from fbriere/fix/message-qtimer-thread</code>](https://github.com/LubosD/twinkle/commit/d36d40a28d11ff42bc0875defd882a14d515e219)
+- [ ] [<code>qt5+: Stop using `QString::null`</code>](https://github.com/LubosD/twinkle/commit/4982b8d5a4994a9545d4442cf76c233232eeb895)
+- [ ] [<code>qt5+: Stop using `QComboBox::autoCompletion`</code>](https://github.com/LubosD/twinkle/commit/8f024bd81e8c88cb50a510e81776e8911f6640e8)
+- [ ] [<code>qt5+: Stop using `QLayout::setMargin()`</code>](https://github.com/LubosD/twinkle/commit/79a6603d9ee4bcca9439493bdf8d32ed2e6f170a)
+- [ ] [<code>Merge pull request #298 from fbriere/misc/qt-obsolete</code>](https://github.com/LubosD/twinkle/commit/ef18b591d87504947d1dc876e7979c5f032c5c88)
+- [ ] [<code>qt5+: Replace `qSort()` with `std::sort()`</code>](https://github.com/LubosD/twinkle/commit/13a3168fe05211dfdffe1107a75958070b21c965)
+- [ ] [<code>qt5+: Drop custom `TextBrowserNoAutoLink` class and use `openLinks`</code>](https://github.com/LubosD/twinkle/commit/865df614f9d6e9a4370bf36fddf8b2077eba2d9e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>qt5+: Switch from `QRegExp` to `QRegularExpression`</code>](https://github.com/LubosD/twinkle/commit/583c928be9ea03d1324849d4591f216da65493a4)
+- [ ] [<code>Make sure to call `include_directories()` for all CMake packages</code>](https://github.com/LubosD/twinkle/commit/3caab36315dd115ec3d98be5fe1da1229b54b79e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Explicitly declare the `environ` variable</code>](https://github.com/LubosD/twinkle/commit/6c42096b268067a989c4330f38d887e04296972b)
+- [ ] [<code>Replace `uint` and `ulong` with standard types</code>](https://github.com/LubosD/twinkle/commit/e0f33f4de39130ed905d7cc1179b2e30f08b5009)
+- [ ] [<code>Replace old `PTHREAD_MUTEX_RECURSIVE_NP` with `PTHREAD_MUTEX_RECURSIVE`</code>](https://github.com/LubosD/twinkle/commit/961eafeca62f514e4341dcbee4e2cf7f4fd27703)
+- [ ] [<code>Merge pull request #307 from fbriere/fix/uint-ulong</code>](https://github.com/LubosD/twinkle/commit/fb75c7b15536a48272c289307b945e0f8f4e5771)
+- [ ] [<code>Merge pull request #308 from fbriere/misc/pthread-old-name</code>](https://github.com/LubosD/twinkle/commit/1909367867a2a2e8e9892a95a9a7dd655bf726ba)
+- [ ] [<code>Merge pull request #306 from fbriere/fix/environ-declaration</code>](https://github.com/LubosD/twinkle/commit/1d9d4d8da7c1786a4781022eeef99f2f3679e862)
+- [ ] [<code>Merge pull request #300 from fbriere/misc/qt-deprecated-qsort</code>](https://github.com/LubosD/twinkle/commit/0d4aa354ae01dc304634ec5f2c6019105e3e3b73)
+- [ ] [<code>Merge pull request #301 from fbriere/misc/qt-regexp</code>](https://github.com/LubosD/twinkle/commit/c8ae1b70e0a8faecef69249807ed131e2b085713)
+- [ ] [<code>Merge pull request #299 from fbriere/misc/qt-textbrowser-openlinks</code>](https://github.com/LubosD/twinkle/commit/947c4a1953106cbc6da32731d0c323b79348da84)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Do not link against `libatomic`/`libresolv` if they are not available</code>](https://github.com/LubosD/twinkle/commit/957f9e083442d3b8d32a7a3434b2da47089016ef)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #309 from fbriere/fix/libs-resolv-atomic</code>](https://github.com/LubosD/twinkle/commit/25a1c852086491beeac050ad777cb92cfb02cb8a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge pull request #305 from fbriere/fix/missing-include-directories</code>](https://github.com/LubosD/twinkle/commit/78313b43dd0de6f124ca4d5aad33fd2248a52dab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CI: Test building with GCC 12 and Clang 15 on Ubuntu 22.04</code>](https://github.com/LubosD/twinkle/commit/b89dca28aa9cec6de35889ec03cd3711cb6d610a)
+- [ ] [<code>CI: Switch to `actions/checkout@v3`</code>](https://github.com/LubosD/twinkle/commit/355813d5640ad58c84dc063826069384470ce310)
+> Dropped uclient - no appropriate URL found
+
+#### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [66b9b6b74ec77b9fec69b2a58296635321d4f5f1 → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/66b9b6b74ec77b9fec69b2a58296635321d4f5f1...HEAD)
+
+- [ ] [<code>Added note about Alpine</code>](https://github.com/FlyveHest/wg-friendly-peer-names/commit/b0c3e1a95c843dc9c6432895105b839ef9b362fc)
+> Dropped x2goclient - no appropriate URL found
+> Dropped x2goserver - no appropriate URL found
+
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
+
