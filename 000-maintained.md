@@ -2020,6 +2020,8 @@
 - [ ] [<code>#21902 show output panel for statistics tab (#21949)</code>](https://github.com/dbeaver/dbeaver/commit/7fbce1ca1869fbc5a8a2c10eec3a88deab858eb2)
 - [ ] [<code>dbeaver/pro#2144 VQB checkbox layout fixed (#21930)</code>](https://github.com/dbeaver/dbeaver/commit/e52692c719cf50364943304c1ba0537d55c1cd30)
 - [ ] [<code>#21615 Don't show results when extracting data (#21953)</code>](https://github.com/dbeaver/dbeaver/commit/b30bc0d6c7da749dfdc48beb479461cd82003b4e)
+- [ ] [<code>CB-3794 add fields (#21934)</code>](https://github.com/dbeaver/dbeaver/commit/979327cd36a3aeec3954468e80c32ca878b0af5c)
+- [ ] [<code>23.3.0 version bump</code>](https://github.com/dbeaver/dbeaver/commit/51b42f32f93709cdcd178e644fde23efbbedd21e)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2574,6 +2576,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Make the gainMap member of avifImage a pointer. (#1801)</code>](https://github.com/AOMediaCodec/libavif/commit/f4948db213b7cd0ff7488b1ac5567f29cdd01539)
 - [ ] [<code>Fix asserts and gain map allocation in fuzz tests. (#1803)</code>](https://github.com/AOMediaCodec/libavif/commit/f55cdaa902bf1ab6b07c877704c6b1326100671e)
+- [ ] [<code>README.md: Change "AOM" (libaom) to "AV1"</code>](https://github.com/AOMediaCodec/libavif/commit/99f4dbbf337c643654e74805d62795f6fb54e29d)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
