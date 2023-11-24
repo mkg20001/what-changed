@@ -6,7 +6,7 @@ import json
 import re
 
 
-debug = os.environ['WC_DEBUG']
+debug = 'WC_DEBUG' in os.environ
 
 
 def find_word(w):
