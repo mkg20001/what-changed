@@ -79,6 +79,8 @@
 - [ ] [<code>Require soup 3.0.</code>](https://github.com/linuxmint/cinnamon/commit/5eda3d4d8a65517062b48354fb17966a39ceaeca)
 - [ ] [<code>Ensure settings window expands to fit toolbar</code>](https://github.com/linuxmint/cinnamon/commit/7f79812e83301d8948a14c7217c49de64d72525a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Adds a shift-middle click action to the sound applet.</code>](https://github.com/linuxmint/cinnamon/commit/dce7bbdeb02515ded0b39739569b68a6d9b464b1)
+  - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Adds option to always show the input switch in the sound applet. (Closes #11232)</code>](https://github.com/linuxmint/cinnamon/commit/e5fc002e1ff591fb06859204ba65f105aeac29c5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>wayland: Add session files</code>](https://github.com/linuxmint/cinnamon/commit/40e74ec3f5376b9668044b2114ea8bee5f1cd62a)
@@ -142,6 +144,7 @@
 - [ ] [<code>Spices.py: Fix desklet reload after update when there are multiple instances (#11920)</code>](https://github.com/linuxmint/cinnamon/commit/75f7b5688e6a55fe54c00def1ef0c59062f0b3b2)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>gesturesManager.js: Fix a couple small issues</code>](https://github.com/linuxmint/cinnamon/commit/6461e1cbe873bbdb1b0c8494e3398f96a32017fc)
+- [ ] [<code>Merge pull request #11913 from sphh/sound-shift-middleclick</code>](https://github.com/linuxmint/cinnamon/commit/d242cb2f9c5a7ba9715dd6218e886bdd1a5e0a3d)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
