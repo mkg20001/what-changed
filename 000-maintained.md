@@ -2029,6 +2029,9 @@
 - [ ] [<code>Revert "#21615 Don't show results when extracting data (#21953)" (#21983)</code>](https://github.com/dbeaver/dbeaver/commit/35fe80ee03448fe102aae9def35faca33e44a2b8)
 - [ ] [<code>dbeaver/pro#2062 Force enable save password check (#21960)</code>](https://github.com/dbeaver/dbeaver/commit/5d5c692fda8cb1a8f4e021ffb67fa3583231281a)
 - [ ] [<code>#21955 Increase delay before rollback countdown is shown (#21976)</code>](https://github.com/dbeaver/dbeaver/commit/f545a179c09fa3db9408173a488d3c8f4e7df593)
+- [ ] [<code>dbeaver/pro#2047 fs dnd (#21970)</code>](https://github.com/dbeaver/dbeaver/commit/c6cc3e6607694fa34896bc4d7c9df87367cc17a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2095 [Cloud Explorer] Fixed message in case of exception (#21980)</code>](https://github.com/dbeaver/dbeaver/commit/98099dea9aaa97a8e3a2dd9e81ad1916b2924bd3)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
