@@ -2260,6 +2260,8 @@
 - [ ] [<code>fix: Do not scroll up on enter chat</code>](https://github.com/krille-chan/fluffychat/commit/9c55800aebfad6857b77e3b73debbe66b7eecf1a)
 - [ ] [<code>chore: Add error report for incorrect recovery key</code>](https://github.com/krille-chan/fluffychat/commit/d8cc1bdf25116776bef0e5added6cfd1c868fc13)
 - [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/0d9cb4915d8d9221dfa58078be58773bcc3d5899)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/3f46b90fd8c162e4ff7a577c96719f7827996d55)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
