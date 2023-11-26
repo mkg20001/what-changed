@@ -2262,6 +2262,8 @@
 - [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/0d9cb4915d8d9221dfa58078be58773bcc3d5899)
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/3f46b90fd8c162e4ff7a577c96719f7827996d55)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Always show notification popup on android</code>](https://github.com/krille-chan/fluffychat/commit/2f1720a7705fc609f2d73ba9306d12c492a8e99f)
+- [ ] [<code>fix: Only load first pinned event</code>](https://github.com/krille-chan/fluffychat/commit/3d06006ca450f9e03ed6425405fda3718e75c389)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3143,117 +3145,8 @@
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 
-#### [twinkle](https://github.com/LubosD/twinkle): [2301b66a3f54b266675415d261985488d86e9e4c → HEAD](https://github.com/LubosD/twinkle/compare/2301b66a3f54b266675415d261985488d86e9e4c...HEAD)
+#### [twinkle](https://github.com/LubosD/twinkle): [355813d5640ad58c84dc063826069384470ce310 → HEAD](https://github.com/LubosD/twinkle/compare/355813d5640ad58c84dc063826069384470ce310...HEAD)
 
-- [ ] [<code>changed references to http(s)://twinklephone.com to https://mfnboer.home.xs4all.nl/twinkle/</code>](https://github.com/LubosD/twinkle/commit/165c43d8a1574946e7704c639c56cea3d5264606)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>scripts receive SIP_FROM/TO_DISPLAY</code>](https://github.com/LubosD/twinkle/commit/17fa8e449cbee77451a373ddd563e0848d0793f1)
-- [ ] [<code>allow_sdp_change=true by default</code>](https://github.com/LubosD/twinkle/commit/3515ab9d1d7f85b69b2f39e17864f007c4f572a5)
-- [ ] [<code>Fix bcg729 URL in README.md</code>](https://github.com/LubosD/twinkle/commit/8509e79c8292b688d85423cd8a5315975b390735)
-- [ ] [<code>CI: Update bcg729 Git repo URL</code>](https://github.com/LubosD/twinkle/commit/b9195e8be7e09fce2a3f7406484a470df900b425)
-- [ ] [<code>CI: Migrate from Travis CI to GitHub Actions</code>](https://github.com/LubosD/twinkle/commit/82f8988407fdac698ab163b0f805c994eaeece17)
-- [ ] [<code>CI: Use setup-gcc/setup-clang actions to install GCC/Clang versions</code>](https://github.com/LubosD/twinkle/commit/d8f1145b3dcd1ce52b5d84cf82e8262fbd965dbe)
-- [ ] [<code>CI: Test compiler versions on different Ubuntu releases</code>](https://github.com/LubosD/twinkle/commit/96149316ad95594d25a2af3fb38ecfb249c1a50f)
-- [ ] [<code>CI: Trim down the list of compiler versions we test</code>](https://github.com/LubosD/twinkle/commit/4803d161378bd0343317be988a977d2c42ec65b2)
-- [ ] [<code>CI: Also test the current default version for each compiler</code>](https://github.com/LubosD/twinkle/commit/4dcae5ebc94aa70ae65ce9be737c795283f72ea3)
-- [ ] [<code>CI: Give a more proper name to jobs</code>](https://github.com/LubosD/twinkle/commit/ff812313044340cc47371ebf1ddaf4cfa9e66675)
-- [ ] [<code>CI: Unfold the bcg729 download/build one-liner</code>](https://github.com/LubosD/twinkle/commit/87e992854b1e2914612f1e1ba006da2b2d6c28f9)
-- [ ] [<code>CI: Standardize matrix keys to lowercase to avoid confusion with envvars</code>](https://github.com/LubosD/twinkle/commit/e553276acee37820fff4710002f8f3f5111e93e9)
-- [ ] [<code>CI: Standardize on single quotes for YAML strings</code>](https://github.com/LubosD/twinkle/commit/ced011ac88f907a2c8ab4489b78a9a9e8ae7ff22)
-- [ ] [<code>CI: Create $PACKAGES_REQUIRED to regroup both package lists together</code>](https://github.com/LubosD/twinkle/commit/cb93ccaa9e41ac4328ec6951250bcceb2c9d7bee)
-- [ ] [<code>CI: Don't bother manually installing git and ca-certificates packages</code>](https://github.com/LubosD/twinkle/commit/032ce7e4bf0b5a08a0becf160947967e33b3e7ac)
-- [ ] [<code>CI: Unfold all strings made of space-separated items</code>](https://github.com/LubosD/twinkle/commit/9bf0bb4d24cf8d7ce9b2d14f0d4c615e2be4ca08)
-- [ ] [<code>CI: Drop qttools5-dev-tools from the list of required packages</code>](https://github.com/LubosD/twinkle/commit/b31a821467364821bd3967870885ad9e259b2662)
-- [ ] [<code>CI: Add a build status badge to README.md</code>](https://github.com/LubosD/twinkle/commit/8111b13aa23bf395aad9fd9a590f41af024d9931)
-- [ ] [<code>CI: Switch bcg729 repo from linphone.org to GitHub mirror</code>](https://github.com/LubosD/twinkle/commit/b6ef719c13ffb08d0cb65034587210b99af44834)
-- [ ] [<code>Bump up MAX_LEN_LOG_STRING to 4096 bytes</code>](https://github.com/LubosD/twinkle/commit/0ce57f8eb812c20c129a36b86f527ffb2a6393df)
-- [ ] [<code>Set TWINKLE_* environment variables the same way as SIP_* variables</code>](https://github.com/LubosD/twinkle/commit/00fabb7441d9936c4b38dffbb6be0c734915bb10)
-- [ ] [<code>Add new TWINKLE_* service-based environment variables</code>](https://github.com/LubosD/twinkle/commit/133430343d1c5f34018a38c117786222b1f699df)
-- [ ] [<code>Add a `-o` flag to the `line` CLI to toggle to the "other" line</code>](https://github.com/LubosD/twinkle/commit/5229d22e9f3f281af706c3df1e4ec280b8d50302)
-- [ ] [<code>Add a `-t` flag to the `hold` CLI command to toggle call on-hold status</code>](https://github.com/LubosD/twinkle/commit/0dc6d817bdce8473158245cd21ea466140860af8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add compile-time check for C++11 regular expressions (Closes #112)</code>](https://github.com/LubosD/twinkle/commit/3146679afc7405ab100610ddcc0a8a781fe3048d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add "Main Toolbar" entry to the View menu</code>](https://github.com/LubosD/twinkle/commit/f680a79f29209eee2bac8973f97fdeae0fb6a446)
-- [ ] [<code>Rename `MD5*` variables to `H_*` in t_request::authorize_md5()</code>](https://github.com/LubosD/twinkle/commit/5645e2539add0daa7c65b41961f7e2831b895b84)
-- [ ] [<code>Move all instances of `"md5"` into a single `algo` variable</code>](https://github.com/LubosD/twinkle/commit/d5a1ccf59ebb80a38d61155f1949ca10c19a353e)
-- [ ] [<code>Spawn t_request::authorize_generic() from authorize_md5()</code>](https://github.com/LubosD/twinkle/commit/f57e633cd595c5b8d85a810ab777518892c04cb4)
-- [ ] [<code>Add support for the `SHA-256` hash algorithm for authentication</code>](https://github.com/LubosD/twinkle/commit/2b3025668225e8a4c7ac2bdce0dacc8613bd51c4)
-- [ ] [<code>Pass any current username/password to cb_ask_credentials()</code>](https://github.com/LubosD/twinkle/commit/719ddda7ad8a8ed0ae0a52b68de07acc742fee99)
-- [ ] [<code>changed references to http(s)://twinklephone.com to https://mfnboer.home.xs4all.nl/twinkle/</code>](https://github.com/LubosD/twinkle/commit/da274607aa835a2735dcf9b9a7ba550910f9d03e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Twinkle 1.10.3</code>](https://github.com/LubosD/twinkle/commit/fccfb208933cd01fcda58f66a22ef0592275d69b)
-  - <sub>Tags: <code>v1.10.3</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Merge tag 'v1.10.3'</code>](https://github.com/LubosD/twinkle/commit/f1a75ef4816f1c9d2c59d8de6997160690c2c464)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add `MimeType` to the desktop entry (along with a "URI handler" script)</code>](https://github.com/LubosD/twinkle/commit/19044673c566144847c47090e497d4e88a85bd24)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Add support for SIP session timers (RFC 4028)</code>](https://github.com/LubosD/twinkle/commit/24e5c7c27ecb16cda5c9462ea409b8bfebb65c5d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add missing `$$` initializations in `sdp_parser.yxx`</code>](https://github.com/LubosD/twinkle/commit/dd6370aadb85d8f15597b04ecc6d8e9abe91d73e)
-- [ ] [<code>Solve (almost) all shift/reduce conflicts in `parser.yxx`</code>](https://github.com/LubosD/twinkle/commit/e9c4fc574990c01a2957acc07a632519dbe7d16f)
-- [ ] [<code>uic: Remove the name of all `<spacer>` and `<layout>` elements</code>](https://github.com/LubosD/twinkle/commit/04f0cf1bcc3aad0531fc4a769355d8a059110411)
-- [ ] [<code>uic: Remove unused `tab` name from `<widget>` elements</code>](https://github.com/LubosD/twinkle/commit/c0d341b141a9d5695c59e61e293f473da012fdc0)
-- [ ] [<code>uic: Remove unused element names with a number suffix</code>](https://github.com/LubosD/twinkle/commit/65260f476d410d82e3eb9d10eb02eb372a336322)
-- [ ] [<code>uic: Rename all remaining elements with a number-suffix name</code>](https://github.com/LubosD/twinkle/commit/b00abd11bb5d001ddffff303dcc8ffa2b0ebad2c)
-- [ ] [<code>uic: Upgrade size policy of `conversationBrowser` widget to Qt 5</code>](https://github.com/LubosD/twinkle/commit/c7c803f33364fd14e7e73c6a33b4e1daf54a38c2)
-- [ ] [<code>uic: Remove obsolete `<images>` element from `messageform.ui`</code>](https://github.com/LubosD/twinkle/commit/92395eb604ef9e1417334cba6b1a74781b4ae54a)
-- [ ] [<code>Add `cmake_minimum_required()` `policy_max` argument to silence warnings</code>](https://github.com/LubosD/twinkle/commit/880fc61f2b85d921c856449a832ad860ab57a1c7)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Remove duplicate "Activate line" Call menu entry</code>](https://github.com/LubosD/twinkle/commit/46b90a68c56f12c1957eaa3850120c67c26de279)
-- [ ] [<code>Fix typo in 1.10.2 release date</code>](https://github.com/LubosD/twinkle/commit/a3d62538b41b04a1cfb48e029b6d93f0bed8b825)
-- [ ] [<code>Match all SIP headers case-insensitively</code>](https://github.com/LubosD/twinkle/commit/008a478441012a0fa88d1c0aa5850a321bf5207a)
-- [ ] [<code>Add a missing `idxRtpG726` in `userprofileform.cpp`</code>](https://github.com/LubosD/twinkle/commit/14d831902034f393e45c08d5becfe1045c183743)
-- [ ] [<code>Properly handle `TYPE_UI_CB_DISPLAY_MSG` events</code>](https://github.com/LubosD/twinkle/commit/6c5e744144b6c9afe9052ef8a89ecdd2931f3473)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Re-enable Diamondcard profile dialog</code>](https://github.com/LubosD/twinkle/commit/d36a4cd2ff085c770a1b30392fc87380cad79a77)
-- [ ] [<code>Replace quotation marks with &quot; in diamondcardprofileform strings</code>](https://github.com/LubosD/twinkle/commit/08b5ac80475cdb6524632750eab88b710f3b777e)
-- [ ] [<code>Run diamondcardprofileform.ui through Qt Designer</code>](https://github.com/LubosD/twinkle/commit/f21bfe82a8fdcaef5128a95c4ba2638a01126cdc)
-- [ ] [<code>Make WITH_DIAMONDCARD build option dependent on WITH_QT5</code>](https://github.com/LubosD/twinkle/commit/82e13ae1e4a58cf529e440ae7ee9756e4f1a2afe)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Correct the Diamondcard voicemail number to `80#`</code>](https://github.com/LubosD/twinkle/commit/f557c6c48dbd527e5e40e42098dc45054fa2a283)
-- [ ] [<code>Enable WITH_DIAMONDCARD by default</code>](https://github.com/LubosD/twinkle/commit/07f7afd80c07a03955b9c4d068484da93137eed6)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add default argument values to AddressTableModel method overrides</code>](https://github.com/LubosD/twinkle/commit/d952eb1e73a494f42cc8ba959e49598ab6326f4d)
-- [ ] [<code>Add support for Akonadi, replacing KAddressBook</code>](https://github.com/LubosD/twinkle/commit/27fbe77a0c0fcbc64689d3a3982cd229870e585e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>Bring most of GetAddressForm::loadAddresses() into KContactsTableModel</code>](https://github.com/LubosD/twinkle/commit/eff1a96d0754cfde3ec762189bbdcc0b001f8655)
-- [ ] [<code>Ditch addrBook/ABOOK and call AkonadiAddressBook::self() directly</code>](https://github.com/LubosD/twinkle/commit/305243083cb806978cbf7a010ec17e8ac27855db)
-- [ ] [<code>Adjust location of Akonadi header files following upstream move</code>](https://github.com/LubosD/twinkle/commit/66fafcf3c0e488dbc9189df186a746b0d6d74f1f)
-- [ ] [<code>Rip out the whole "synchronize Akonadi collections" thing</code>](https://github.com/LubosD/twinkle/commit/48a8058751a47d3344d346353d247b0257354f2f)
-- [ ] [<code>Call `widgetNeedsAkonadi()` on the address book's Akonadi tab</code>](https://github.com/LubosD/twinkle/commit/85d979ece779fe785814fd4cfb4b6706ebfefc6d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Properly manage session timers if an early session was established</code>](https://github.com/LubosD/twinkle/commit/6c1cf9df15f0555776f20e99c56cf4fbc127e59b)
-- [ ] [<code>Use `typedef`s instead of `unsigned long` for 32-bit IPv4 addresses</code>](https://github.com/LubosD/twinkle/commit/53f9cc19393159b012ea312b30cd3446297d7bf1)
-- [ ] [<code>Replace obsolete gnutelephony.org URLs</code>](https://github.com/LubosD/twinkle/commit/08c6918e7f7eeb3d74112885369e1e65effd88b1)
-- [ ] [<code>warnings: Add limit on hour count in timer2str() [-Wformat-truncation]</code>](https://github.com/LubosD/twinkle/commit/126e850336ff0eeebaae5b69aaf404487923d195)
-- [ ] [<code>Display any provided Reason header when receiving a BYE or CANCEL</code>](https://github.com/LubosD/twinkle/commit/8affefab86ecc5000d13fa8f3c58300ef6c0e643)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Skip C++11 regular expressions check when cross-compiling</code>](https://github.com/LubosD/twinkle/commit/e2efb60eae8cb09786e09bbdd306b7d1a6c62d24)
-- [ ] [<code>Stop using Ubuntu 18.04 with GitHub Actions</code>](https://github.com/LubosD/twinkle/commit/b5643dca068189aa5f2ab910c3160674e2c40947)
-- [ ] [<code>Avoid segfaulting if `QQuickView::setSource()` fails to load a component</code>](https://github.com/LubosD/twinkle/commit/76f3642a485b4fcbf4e3e8a149163be8308234cb)
-- [ ] [<code>Fix `t_gui::cb_message_request()` using a `QTimer` on a non-Qt thread</code>](https://github.com/LubosD/twinkle/commit/df76f92f81a33b6a1360c6278c75d009db1592dc)
-- [ ] [<code>Properly set up URL of a message attachment</code>](https://github.com/LubosD/twinkle/commit/41d42fa9fe96052efdc06a3520b5217196b9045e)
-- [ ] [<code>qt5+: Stop using `QString::null`</code>](https://github.com/LubosD/twinkle/commit/4982b8d5a4994a9545d4442cf76c233232eeb895)
-- [ ] [<code>qt5+: Stop using `QComboBox::autoCompletion`</code>](https://github.com/LubosD/twinkle/commit/8f024bd81e8c88cb50a510e81776e8911f6640e8)
-- [ ] [<code>qt5+: Stop using `QLayout::setMargin()`</code>](https://github.com/LubosD/twinkle/commit/79a6603d9ee4bcca9439493bdf8d32ed2e6f170a)
-- [ ] [<code>qt5+: Replace `qSort()` with `std::sort()`</code>](https://github.com/LubosD/twinkle/commit/13a3168fe05211dfdffe1107a75958070b21c965)
-- [ ] [<code>qt5+: Drop custom `TextBrowserNoAutoLink` class and use `openLinks`</code>](https://github.com/LubosD/twinkle/commit/865df614f9d6e9a4370bf36fddf8b2077eba2d9e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>qt5+: Switch from `QRegExp` to `QRegularExpression`</code>](https://github.com/LubosD/twinkle/commit/583c928be9ea03d1324849d4591f216da65493a4)
-- [ ] [<code>Make sure to call `include_directories()` for all CMake packages</code>](https://github.com/LubosD/twinkle/commit/3caab36315dd115ec3d98be5fe1da1229b54b79e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>Explicitly declare the `environ` variable</code>](https://github.com/LubosD/twinkle/commit/6c42096b268067a989c4330f38d887e04296972b)
-- [ ] [<code>Replace `uint` and `ulong` with standard types</code>](https://github.com/LubosD/twinkle/commit/e0f33f4de39130ed905d7cc1179b2e30f08b5009)
-- [ ] [<code>Replace old `PTHREAD_MUTEX_RECURSIVE_NP` with `PTHREAD_MUTEX_RECURSIVE`</code>](https://github.com/LubosD/twinkle/commit/961eafeca62f514e4341dcbee4e2cf7f4fd27703)
-- [ ] [<code>Do not link against `libatomic`/`libresolv` if they are not available</code>](https://github.com/LubosD/twinkle/commit/957f9e083442d3b8d32a7a3434b2da47089016ef)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>CI: Test building with GCC 12 and Clang 15 on Ubuntu 22.04</code>](https://github.com/LubosD/twinkle/commit/b89dca28aa9cec6de35889ec03cd3711cb6d610a)
-- [ ] [<code>CI: Switch to `actions/checkout@v3`</code>](https://github.com/LubosD/twinkle/commit/355813d5640ad58c84dc063826069384470ce310)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
