@@ -186,3 +186,6 @@
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [498f6e268d4d2b0ad33b430f4ba1abe397d31496 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/498f6e268d4d2b0ad33b430f4ba1abe397d31496...HEAD)
 
+- [ ] [<code>ustream-mbedtls: Add compatibility with Mbed TLS 3.0.0</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/91666a38b7bd4bd353394986d8343a33ba61d8e2)
+- [ ] [<code>cmake: Fail if undefined symbols are used</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/263b9a97cf7e1e2467319c23832b705fc01190b5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
