@@ -2032,6 +2032,10 @@
 - [ ] [<code>dbeaver/pro#2047 fs dnd (#21970)</code>](https://github.com/dbeaver/dbeaver/commit/c6cc3e6607694fa34896bc4d7c9df87367cc17a9)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>dbeaver/pro#2095 [Cloud Explorer] Fixed message in case of exception (#21980)</code>](https://github.com/dbeaver/dbeaver/commit/98099dea9aaa97a8e3a2dd9e81ad1916b2924bd3)
+- [ ] [<code>dbeaver/pro#2045 Improve gcp fs folders support (#21978)</code>](https://github.com/dbeaver/dbeaver/commit/f015435ca0aeb1a58530ac73a3bfc753b90ed4fd)
+- [ ] [<code>dbeaver/dbeaver#2159 Navigator items cache fix (#21994)</code>](https://github.com/dbeaver/dbeaver/commit/518ed1a5b1c2d0806f38f3c11bd779331f09257f)
+- [ ] [<code>#21650 Identifier escape fix (#21987)</code>](https://github.com/dbeaver/dbeaver/commit/bdaaeb3ad35cacc201d562e0f8035057f31f551b)
+- [ ] [<code>#21999 use value from the store for the setting (#22002)</code>](https://github.com/dbeaver/dbeaver/commit/14970b6c80e3048e7679fb72cdfbec0e4b6bcbd5)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2895,6 +2899,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Fix permissions on folder '/run/NetworkManager/'</code>](https://github.com/canonical/netplan/commit/e2783542686529625de45f57f3bb189900a9bd29)
 - [ ] [<code>cli:try: avoid linting error for type hints</code>](https://github.com/canonical/netplan/commit/2ae3b9eeb6d787bfc83fcacd1c2f73fac4b456a7)
+- [ ] [<code>wifi: make it possible to have a psk and an eap password simultaneously</code>](https://github.com/canonical/netplan/commit/bfb611921d4f58488d7fa5799c20057eecb09148)
+- [ ] [<code>nm-parse: always read the PSK into the new psk variable</code>](https://github.com/canonical/netplan/commit/76dec54a77bad308229c09d022755002c124a4e5)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
