@@ -2036,6 +2036,16 @@
 - [ ] [<code>dbeaver/dbeaver#2159 Navigator items cache fix (#21994)</code>](https://github.com/dbeaver/dbeaver/commit/518ed1a5b1c2d0806f38f3c11bd779331f09257f)
 - [ ] [<code>#21650 Identifier escape fix (#21987)</code>](https://github.com/dbeaver/dbeaver/commit/bdaaeb3ad35cacc201d562e0f8035057f31f551b)
 - [ ] [<code>#21999 use value from the store for the setting (#22002)</code>](https://github.com/dbeaver/dbeaver/commit/14970b6c80e3048e7679fb72cdfbec0e4b6bcbd5)
+- [ ] [<code>CB-4293 select endpoint by version (#21988)</code>](https://github.com/dbeaver/dbeaver/commit/2c88a51810598c1abf974ac6049420a79dbc388a)
+- [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/3b4163c73f05c7e6505f28b18387d5e67227928b)
+- [ ] [<code>#21681 correct constraints renaming (#21929)</code>](https://github.com/dbeaver/dbeaver/commit/1512cfdd8a4313bdba62d040902f822abc0c91ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2134 Rendering improvements (#21972)</code>](https://github.com/dbeaver/dbeaver/commit/ef69cc4adf45360c8661e917f06792933b3e113e)
+- [ ] [<code>dbeaver/pro#2076 Ignore case when looking for the `ApplicationName` prop (#21931)</code>](https://github.com/dbeaver/dbeaver/commit/17164ddcd3c5eda50f5f23cd7ef1295ff6c909fd)
+- [ ] [<code>dbeaver/pro#2032 use unique indexes as well as PK to update imported data (#21966)</code>](https://github.com/dbeaver/dbeaver/commit/59b70926eac89cb3ba09f9de6d02767519001c93)
+- [ ] [<code>dbeaver/dbeaver#21202 Filter by value - search fix (#21986)</code>](https://github.com/dbeaver/dbeaver/commit/26e0c8ffd49bef3b214bde612da240b64e994624)
+- [ ] [<code>dbeaver/pro#2104 Obtain topmost shell (#21956)</code>](https://github.com/dbeaver/dbeaver/commit/c1e7832fd437484f1d6207b8f12559a5fa782cf4)
+- [ ] [<code>dbeaver/pro#2161 Load resources fix (#22004)</code>](https://github.com/dbeaver/dbeaver/commit/84d746726c3f50ca11a301df523a6af0d9beddf0)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2268,6 +2278,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Always show notification popup on android</code>](https://github.com/krille-chan/fluffychat/commit/2f1720a7705fc609f2d73ba9306d12c492a8e99f)
 - [ ] [<code>fix: Only load first pinned event</code>](https://github.com/krille-chan/fluffychat/commit/3d06006ca450f9e03ed6425405fda3718e75c389)
+- [ ] [<code>build: Update matrix dart sdk to 0.23.0</code>](https://github.com/krille-chan/fluffychat/commit/61ade15fa9870dda9f8df5c04db077aad5f5c3d8)
+- [ ] [<code>chore: Fetch cached presence</code>](https://github.com/krille-chan/fluffychat/commit/ee599c1f52af1b5ce99369ee023b7a0af1550f85)
+- [ ] [<code>fix: Do not hide push if app romm in foreground but is in background</code>](https://github.com/krille-chan/fluffychat/commit/085bb19da5bcf4f17650fa01aa24330f49a9d2a9)
+- [ ] [<code>refactor: Check if app is in foreground on pushhelper</code>](https://github.com/krille-chan/fluffychat/commit/c6007a3c3d5dc17e11b88f8f700a0358ad9952d1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Userbottomsheet crash on some edge cases</code>](https://github.com/krille-chan/fluffychat/commit/efb26622acb5bdec26091bac79ca69e2406b8315)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
