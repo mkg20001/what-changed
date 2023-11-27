@@ -4,6 +4,10 @@
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [f7d1569113110ea8df071d2ea64fd17aaf5b42c9 → HEAD](https://git.openwrt.org/project/libubox.git/compare/f7d1569113110ea8df071d2ea64fd17aaf5b42c9...HEAD)
 
+- [ ] [<code>uloop: fix typo in signal handling rework</code>](https://git.openwrt.org/project/libubox.git/commit/8a5a4319a85cdfe54998c8f15bb29cd81b2b2c01)
+- [ ] [<code>uloop: reset flags after __uloop_fd_delete call</code>](https://git.openwrt.org/project/libubox.git/commit/b3fa3d92e3ebae9b224a0111427d6bdd8b869399)
+- [ ] [<code>udebug: add udebug library code</code>](https://git.openwrt.org/project/libubox.git/commit/d4c3066e7c5efa5f395c21db77609516d386cbf8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
@@ -153,6 +157,7 @@
 - [ ] [<code>replace DPRINTF calls with D(...)</code>](https://git.openwrt.org/project/netifd.git/commit/525fa911e8ab354dafe1e23fa98fac4700555be9)
 - [ ] [<code>system-linux: fix bogus debug error messages on adding bridge members</code>](https://git.openwrt.org/project/netifd.git/commit/7642eaba383869cab997d2e7ffdb1b58fd536e29)
 - [ ] [<code>wireless: add bridge_isolate option</code>](https://git.openwrt.org/project/netifd.git/commit/f3e06e81b347bbdec1c6c71603328b6e442728d4)
+- [ ] [<code>udebug: use helper code for ubus config handling</code>](https://git.openwrt.org/project/netifd.git/commit/02bc2e14d1d37500e888c0c53ac41398a56b5579)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619 → HEAD](https://git.openwrt.org/project/ubus.git/compare/b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619...HEAD)
 
