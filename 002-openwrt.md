@@ -8,6 +8,7 @@
 - [ ] [<code>uloop: reset flags after __uloop_fd_delete call</code>](https://git.openwrt.org/project/libubox.git/commit/b3fa3d92e3ebae9b224a0111427d6bdd8b869399)
 - [ ] [<code>udebug: add udebug library code</code>](https://git.openwrt.org/project/libubox.git/commit/d4c3066e7c5efa5f395c21db77609516d386cbf8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>uloop: fix build using C++ compilers</code>](https://git.openwrt.org/project/libubox.git/commit/b77f2a4ce9034d4341668bb61ca55fc177ee7729)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
