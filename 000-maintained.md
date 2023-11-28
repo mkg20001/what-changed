@@ -217,6 +217,8 @@
 - [ ] [<code>Release is official!</code>](https://github.com/cjdelisle/cjdns/commit/ca53b3b40fc7fb5eebccc2d494f51e20b0f40577)
 - [ ] [<code>Merge master</code>](https://github.com/cjdelisle/cjdns/commit/f3449831541a98f085c1e34ad941c10d9104dd47)
   - <sub>Tags: <code>cjdns-v22</code></sub>
+- [ ] [<code>Adds splice's implementation in PHP contrib folder</code>](https://github.com/cjdelisle/cjdns/commit/7bbdda2f52461865b6c129bbad0935006b51f626)
+- [ ] [<code>Reset output to match node's implementation</code>](https://github.com/cjdelisle/cjdns/commit/c53b5bc161400d053de312201b473245eab80c80)
 - [ ] [<code>Crash bug when excepting ALL addresses RouteGen_addException('0.0.0.0/0')</code>](https://github.com/cjdelisle/cjdns/commit/6271719f48861fb6da6028cb1967313514191318)
 > Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
@@ -2918,6 +2920,13 @@
 - [ ] [<code>cli:try: avoid linting error for type hints</code>](https://github.com/canonical/netplan/commit/2ae3b9eeb6d787bfc83fcacd1c2f73fac4b456a7)
 - [ ] [<code>wifi: make it possible to have a psk and an eap password simultaneously</code>](https://github.com/canonical/netplan/commit/bfb611921d4f58488d7fa5799c20057eecb09148)
 - [ ] [<code>nm-parse: always read the PSK into the new psk variable</code>](https://github.com/canonical/netplan/commit/76dec54a77bad308229c09d022755002c124a4e5)
+- [ ] [<code>doc: Set-up some basic Doxygen project</code>](https://github.com/canonical/netplan/commit/c24e4473f22c15c53ee3c3c581c9b1adeade8846)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>doc: Make Sphinx to handle autodoxygen project, using breathe</code>](https://github.com/canonical/netplan/commit/68f5d5917e8e6ecaa65839fce68cc2a4f349f8c3)
+- [ ] [<code>doc: create libnetplan apidoc structure</code>](https://github.com/canonical/netplan/commit/54ddf36d3e554387ef9e689fd77fd780f2c0c58e)
+- [ ] [<code>inc: Start documenting public API</code>](https://github.com/canonical/netplan/commit/62b693e26dd936baaba2ef1f9d169d3bcd3a7778)
+- [ ] [<code>doc: Update 'Netplan everywhere' for 23.10</code>](https://github.com/canonical/netplan/commit/ca0328582e2d2e1bafb3f0abf9e5a51cdbafc4c9)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
