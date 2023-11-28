@@ -2615,6 +2615,7 @@
 - [ ] [<code>README.md: Change "AOM" (libaom) to "AV1"</code>](https://github.com/AOMediaCodec/libavif/commit/99f4dbbf337c643654e74805d62795f6fb54e29d)
 - [ ] [<code>Fix backward compatibility of AVIF_LOCAL_RAV1E (#1807)</code>](https://github.com/AOMediaCodec/libavif/commit/959109da65bb976d8a342a48647e1abe1f517d95)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Allocate the threadData array directly</code>](https://github.com/AOMediaCodec/libavif/commit/c74189f9123bc01139ed316970f673394a57e814)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
