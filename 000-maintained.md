@@ -2048,6 +2048,19 @@
 - [ ] [<code>dbeaver/dbeaver#21202 Filter by value - search fix (#21986)</code>](https://github.com/dbeaver/dbeaver/commit/26e0c8ffd49bef3b214bde612da240b64e994624)
 - [ ] [<code>dbeaver/pro#2104 Obtain topmost shell (#21956)</code>](https://github.com/dbeaver/dbeaver/commit/c1e7832fd437484f1d6207b8f12559a5fa782cf4)
 - [ ] [<code>dbeaver/pro#2161 Load resources fix (#22004)</code>](https://github.com/dbeaver/dbeaver/commit/84d746726c3f50ca11a301df523a6af0d9beddf0)
+- [ ] [<code>dbeaver/pro#2127 Upgrade BigQuery driver (#21939)</code>](https://github.com/dbeaver/dbeaver/commit/a43c4ffc4ee3e7e09e5325a4a43143c73dd07281)
+- [ ] [<code>#21991 show default procedure parameters (#22012)</code>](https://github.com/dbeaver/dbeaver/commit/a8af08dd22fc03071b60442f99b4aa55b464df7a)
+- [ ] [<code>dbeaver/pro#2157 Fix local host resolve (#21989)</code>](https://github.com/dbeaver/dbeaver/commit/f0d0bfd566e3757178819d227bdbd4fc214e48b8)
+- [ ] [<code>dbeaver/pro#2084 change GCP icons and labels (#21962)</code>](https://github.com/dbeaver/dbeaver/commit/57783f38b505b3d685a449190c29329a59d28682)
+- [ ] [<code>CB-4281 network handlers load from secret fix (#21938)</code>](https://github.com/dbeaver/dbeaver/commit/e550a9a1c2a415f0ba3f9371f077b36a09111850)
+- [ ] [<code>Update MySQL (Old) jdbc driver (#21886)</code>](https://github.com/dbeaver/dbeaver/commit/b605158f8034ba9de375382c2cb219cbb4f566f7)
+- [ ] [<code>#15092 change "native" to "local" for clients; add more links about configuration (#21981)</code>](https://github.com/dbeaver/dbeaver/commit/3bffbe2c0e1989a177468d1bdefe6def22995c2d)
+- [ ] [<code>dbeaver/pro#2117 add more tips of the day (#22014)</code>](https://github.com/dbeaver/dbeaver/commit/2d58889494e49c2501a2cd49f4e6a5d762844646)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#15092 Local client panel layout</code>](https://github.com/dbeaver/dbeaver/commit/d16e060e48d5352da731fcfae06d0b8ffeb3eb1f)
+- [ ] [<code>dbeaver/pro#2174 Cloud configuration save error dialog (#22011)</code>](https://github.com/dbeaver/dbeaver/commit/ef8f08896fe6bbb2a72d02bc61126211d4292f50)
+- [ ] [<code>Icon fix</code>](https://github.com/dbeaver/dbeaver/commit/0bfb349b45eaf449e7f01767f7a0d1c3a42c15f8)
+- [ ] [<code>dbeaver/dbeaver#22001 Columns creation from ERD is lead to the broken (#22019)</code>](https://github.com/dbeaver/dbeaver/commit/8721a235e38e49e09eb7ac9e4fa2095793255f52)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2618,6 +2631,8 @@
 - [ ] [<code>Fix backward compatibility of AVIF_LOCAL_RAV1E (#1807)</code>](https://github.com/AOMediaCodec/libavif/commit/959109da65bb976d8a342a48647e1abe1f517d95)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Allocate the threadData array directly</code>](https://github.com/AOMediaCodec/libavif/commit/c74189f9123bc01139ed316970f673394a57e814)
+- [ ] [<code>Add metadata about the alternate image to the gainMap struct. (#1812)</code>](https://github.com/AOMediaCodec/libavif/commit/af93d6670e923ac8acac739b23ac1ec179418701)
+- [ ] [<code>Do not store colorproperties until alpha item is found</code>](https://github.com/AOMediaCodec/libavif/commit/7845153645cfe245de5add94fb07c227c2d16402)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
