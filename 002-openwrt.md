@@ -9,6 +9,7 @@
 - [ ] [<code>udebug: add udebug library code</code>](https://git.openwrt.org/project/libubox.git/commit/d4c3066e7c5efa5f395c21db77609516d386cbf8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>uloop: fix build using C++ compilers</code>](https://git.openwrt.org/project/libubox.git/commit/b77f2a4ce9034d4341668bb61ca55fc177ee7729)
+- [ ] [<code>udebug: add ulog support</code>](https://git.openwrt.org/project/libubox.git/commit/260ad5bd1566ce08753df743292680afa74bd06f)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
@@ -162,6 +163,8 @@
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619 → HEAD](https://git.openwrt.org/project/ubus.git/compare/b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619...HEAD)
 
+- [ ] [<code>libubus: fix reconnect with auto subscribe</code>](https://git.openwrt.org/project/ubus.git/commit/2b39a27d8bcc98859a67a9a925c77ecde6b1e698)
+- [ ] [<code>libubus: fix initial subscribe with autosubscribe</code>](https://git.openwrt.org/project/ubus.git/commit/f84eb5998c6ea2d34989ca2d3254e56c66139313)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
