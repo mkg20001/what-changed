@@ -157,7 +157,15 @@
 - [ ] [<code>menu applet: Add some safety to the right-click properties item.</code>](https://github.com/linuxmint/cinnamon/commit/c5844411f3a84c5489867dd97c93cb0ca7d10ead)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>screenshot service: Add color picker support.</code>](https://github.com/linuxmint/cinnamon/commit/e42ddf563e81f2587f0dadf8d80a18b9c75c19cb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>add xdg-portal conf (#11863)</code>](https://github.com/linuxmint/cinnamon/commit/5dfcbd4666ed6d053055e409ef1b1b347622c4dc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/51de1980664ad3b522266e1db5736926f34705e5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>6.0.0</code>](https://github.com/linuxmint/cinnamon/commit/448a1fc6753079916b8bf036aeb40b049652b72e)
+  - <sub>Tags: <code>6.0.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [5.8.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/5.8.2...HEAD)
 
