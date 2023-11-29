@@ -10,6 +10,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>uloop: fix build using C++ compilers</code>](https://git.openwrt.org/project/libubox.git/commit/b77f2a4ce9034d4341668bb61ca55fc177ee7729)
 - [ ] [<code>udebug: add ulog support</code>](https://git.openwrt.org/project/libubox.git/commit/260ad5bd1566ce08753df743292680afa74bd06f)
+- [ ] [<code>link librt if needed for shm_open</code>](https://git.openwrt.org/project/libubox.git/commit/e80dc00ee90c29ef56ae28f414b0e5bb361206e7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
