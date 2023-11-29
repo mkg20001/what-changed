@@ -2279,6 +2279,15 @@
 - [ ] [<code>refactor: Check if app is in foreground on pushhelper</code>](https://github.com/krille-chan/fluffychat/commit/c6007a3c3d5dc17e11b88f8f700a0358ad9952d1)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Userbottomsheet crash on some edge cases</code>](https://github.com/krille-chan/fluffychat/commit/efb26622acb5bdec26091bac79ca69e2406b8315)
+- [ ] [<code>build: Update Matrix Dart SDK to 0.24.0</code>](https://github.com/krille-chan/fluffychat/commit/1a83d33cf54204be51b73403d638bf754a580596)
+- [ ] [<code>chore: Follow up update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/685ddf1324d5fa0cbb85e4f69ab6b70dbd92d712)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/dfb09f443bfa08f7bba1e4e18d16c0dd9b7548e5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Error widget spamming with dialogs</code>](https://github.com/krille-chan/fluffychat/commit/e8a8f8921dbb6c6fdbc688c2da6b3ad09abd2de8)
+- [ ] [<code>build: Update openssl crypto</code>](https://github.com/krille-chan/fluffychat/commit/6d011dbb3eaf6eb1376bbacd55ec64090ac23a1d)
+- [ ] [<code>chore: Update pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/92c38ea598d47f711d5b0360a9e4422fef26a916)
+- [ ] [<code>build: Update flutter_olm</code>](https://github.com/krille-chan/fluffychat/commit/bac4dd22ad4ac8d42ed8ed97bea5130370932864)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2923,6 +2932,23 @@
 - [ ] [<code>inc: Start documenting public API</code>](https://github.com/canonical/netplan/commit/62b693e26dd936baaba2ef1f9d169d3bcd3a7778)
 - [ ] [<code>doc: Update 'Netplan everywhere' for 23.10</code>](https://github.com/canonical/netplan/commit/ca0328582e2d2e1bafb3f0abf9e5a51cdbafc4c9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>netdef: simplify NetplanRoute __eq__ and __hash__</code>](https://github.com/canonical/netplan/commit/d7178adf675bf02ecb7f7d03494a07f5849630f2)
+- [ ] [<code>state_diff: add the new state_diff submodule</code>](https://github.com/canonical/netplan/commit/d6bcf79d8713d11855d96a868c9452b1e32fb952)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>state_diff: add the get_diff() method</code>](https://github.com/canonical/netplan/commit/9eb4388b8717b7a9eae0cda77410bf9bb0cce531)
+- [ ] [<code>state_diff: add support for IP addresses analysis</code>](https://github.com/canonical/netplan/commit/404f50d59b8cb0e72ccd0c709217ad1be6a6bf3d)
+- [ ] [<code>state_diff: add support for nameservers analysis</code>](https://github.com/canonical/netplan/commit/c236850c45ed6174bb165a31ab82c224428a6b62)
+- [ ] [<code>state_diff: add support for search domains analysis</code>](https://github.com/canonical/netplan/commit/09e769e84b3f792ac9db85ac09d48ed50a096ca1)
+- [ ] [<code>state_diff: add support for MAC addresses analysis</code>](https://github.com/canonical/netplan/commit/5c7b2577d6e21ae795902ee55cb82883ecdde287)
+- [ ] [<code>state_diff: add support for routes analysis</code>](https://github.com/canonical/netplan/commit/9d69eebb7ad7c9e12565067b76ebf563044c066a)
+- [ ] [<code>state_diff: add a JSON encoder for NetplanRoutes</code>](https://github.com/canonical/netplan/commit/2531d16cc94055b7465725a47e66a0a69cd6ffb0)
+- [ ] [<code>state_diff: add more information to the missing_interfaces result</code>](https://github.com/canonical/netplan/commit/5f74208b6bed6d9cb7deac798fd72e7f1775d817)
+- [ ] [<code>state_diff/get_diff(): return the interfaces sorted by their indices</code>](https://github.com/canonical/netplan/commit/2e82f34231121e195814a09219531936e1ace797)
+- [ ] [<code>tools/diff.py: add a temporary tool to test netplan diff</code>](https://github.com/canonical/netplan/commit/a3b9cffeebfa274a6d8f1df59d0e46f09fbd9b42)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>networkd: fix formatting</code>](https://github.com/canonical/netplan/commit/ba06ef54c859426186c49b9c38424ce8e9f6fa51)
+- [ ] [<code>networkd: replace deprecated CriticalConnection= by KeepConfiguration=</code>](https://github.com/canonical/netplan/commit/c97c4765d3c411c436bd0f8aea1dfefedf33194c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3181,3 +3207,6 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
 
+- [ ] [<code>Implement color picking (#12)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2aef41a46b466a1edfa838fef0c11000ce71ec7e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
