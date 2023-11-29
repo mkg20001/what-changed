@@ -5,28 +5,8 @@
 - [ ] [<code>ui: Add 64bit conversion entries in ConversionTable</code>](https://github.com/afrantzis/bless/commit/2c8dfa976d486f78c4a13aba5ca376a9ea6ee568)
 - [ ] [<code>plugins: Add 64bit support to ConversionTable</code>](https://github.com/afrantzis/bless/commit/103fbd6f4e449666e72fe21d3151a94adef5b880)
 
-#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.2.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.2.0...HEAD)
+#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
-- [ ] [<code>Version 1.2.0 changelog</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/cb1822e44d9fd8ce1a8d99b8624085d12d8d36ec)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Removed SELinux warning because 1.2.0 fixed issue</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/224b2f2560707fd8ab6c20e2772bc1da2ac4a429)
-- [ ] [<code>Added Secure Boot warning</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/f3137d5d402bd8263bf0e0c4de596950def98332)
-- [ ] [<code>Fixed README linking old releases package page</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/fb723db0222bc06a417bc3bafdb7a6ad1d3ed84b)
-- [ ] [<code>Use POSIX shell instead of bash</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/54d3cf2c7dd10084adc1a1a5c4d04264adf773d6)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix file rename</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/b5119167186b0a5f48a362064dfbf7b4d2533e7d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Lowered CMake required version</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/3eb191788f60aa28ff7099f87c02389d229d5efa)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Added github actions CI</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/bd41cce675cca00fdd97e1d46a913b5f774dc35e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>change task rebalancing threshold as well (#8)</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/ed3b5a50f7cbf8d8d3f81b40b591123578268e66)
-- [ ] [<code>Print number of tasks to iterate in a balance run</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/3289bf3486c273d2666544a090d19909617945a4)
-- [ ] [<code>Add support for EEVDF scheduler</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/75cb8c20d0d9fbaaada31068ba6c2b7856135c77)
-- [ ] [<code>Version 1.3.0</code>](https://github.com/igo95862/cfs-zen-tweaks/commit/a5d1533f9029a6a4437b175a6bf799956d44e0d3)
-  - <sub>Tags: <code>1.3.0</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [cjdns-tools](https://github.com/cjdelisle/cjdns): [cjdns-v21.4 → HEAD](https://github.com/cjdelisle/cjdns/compare/cjdns-v21.4...HEAD)
 
@@ -2633,6 +2613,7 @@
 - [ ] [<code>Allocate the threadData array directly</code>](https://github.com/AOMediaCodec/libavif/commit/c74189f9123bc01139ed316970f673394a57e814)
 - [ ] [<code>Add metadata about the alternate image to the gainMap struct. (#1812)</code>](https://github.com/AOMediaCodec/libavif/commit/af93d6670e923ac8acac739b23ac1ec179418701)
 - [ ] [<code>Do not store colorproperties until alpha item is found</code>](https://github.com/AOMediaCodec/libavif/commit/7845153645cfe245de5add94fb07c227c2d16402)
+- [ ] [<code>reformat_libyuv.c: Suppress -fsanitize=function</code>](https://github.com/AOMediaCodec/libavif/commit/286f1b9a66e7f05ac5a32510e4c08ecd03f0ba0f)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
