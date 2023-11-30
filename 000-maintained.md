@@ -2623,6 +2623,8 @@
 - [ ] [<code>Add metadata about the alternate image to the gainMap struct. (#1812)</code>](https://github.com/AOMediaCodec/libavif/commit/af93d6670e923ac8acac739b23ac1ec179418701)
 - [ ] [<code>Do not store colorproperties until alpha item is found</code>](https://github.com/AOMediaCodec/libavif/commit/7845153645cfe245de5add94fb07c227c2d16402)
 - [ ] [<code>reformat_libyuv.c: Suppress -fsanitize=function</code>](https://github.com/AOMediaCodec/libavif/commit/286f1b9a66e7f05ac5a32510e4c08ecd03f0ba0f)
+- [ ] [<code>Convert avifDecoderItemArray into an array of pointers</code>](https://github.com/AOMediaCodec/libavif/commit/06799082864459d6bb31ae3612dc753035c61ce1)
+- [ ] [<code>read.c: Minor clang-format missed.</code>](https://github.com/AOMediaCodec/libavif/commit/380fb999169ecaa280853e86901303fb35e79f13)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
