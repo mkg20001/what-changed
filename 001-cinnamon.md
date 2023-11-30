@@ -520,6 +520,10 @@
 - [ ] [<code>Update deb build, readme, dependencies, .gitignore.</code>](https://github.com/linuxmint/warpinator/commit/10eb1e5a9238336578d4c07fd8138db41934d88e)
   - <sub>Tags: <code>master.lmde5</code></sub>
 - [ ] [<code>Update note in generate-protobuf.</code>](https://github.com/linuxmint/warpinator/commit/75feeec8941ab5938921dc20573bdb5f51130e1a)
+- [ ] [<code>Manual connection (#182)</code>](https://github.com/linuxmint/warpinator/commit/0df4896fcc6e14b855886520b92652aa2e1befb5)
+- [ ] [<code>Tweak layout of manual connect dialog, and simplify translations.</code>](https://github.com/linuxmint/warpinator/commit/216bf340592e4cab40a28db47ce366c78eff38d9)
+- [ ] [<code>warpinator.py: Fix dbus method failing when the network is down.</code>](https://github.com/linuxmint/warpinator/commit/b0bd5a42bac618fe5ae232a809792c98726b72fd)
+- [ ] [<code>warpinator.py: Disable manual connection when there is no server.</code>](https://github.com/linuxmint/warpinator/commit/aeaf4a75f5bf0ab80bbb2d6bc4883de29d6543b3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.6.1 → HEAD](https://github.com/linuxmint/xapp/compare/2.6.1...HEAD)
