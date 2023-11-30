@@ -12,6 +12,9 @@
 - [ ] [<code>udebug: add ulog support</code>](https://git.openwrt.org/project/libubox.git/commit/260ad5bd1566ce08753df743292680afa74bd06f)
 - [ ] [<code>link librt if needed for shm_open</code>](https://git.openwrt.org/project/libubox.git/commit/e80dc00ee90c29ef56ae28f414b0e5bb361206e7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>udebug: add functions for manipulating entry length</code>](https://git.openwrt.org/project/libubox.git/commit/325fea5c57cf7917ff5e633dd28715af84018993)
+- [ ] [<code>udebug: add inline helper function to test if a buffer is allocated</code>](https://git.openwrt.org/project/libubox.git/commit/e84c000c4756ae3d0aa80b2c66ec43cf7fc416c4)
+- [ ] [<code>udebug: wait for response after buffer add/remove</code>](https://git.openwrt.org/project/libubox.git/commit/40acbe34632b8e4e860fe41bb14ab5d7d5c9cfe9)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
