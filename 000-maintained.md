@@ -2041,6 +2041,7 @@
 - [ ] [<code>dbeaver/pro#2174 Cloud configuration save error dialog (#22011)</code>](https://github.com/dbeaver/dbeaver/commit/ef8f08896fe6bbb2a72d02bc61126211d4292f50)
 - [ ] [<code>Icon fix</code>](https://github.com/dbeaver/dbeaver/commit/0bfb349b45eaf449e7f01767f7a0d1c3a42c15f8)
 - [ ] [<code>dbeaver/dbeaver#22001 Columns creation from ERD is lead to the broken (#22019)</code>](https://github.com/dbeaver/dbeaver/commit/8721a235e38e49e09eb7ac9e4fa2095793255f52)
+- [ ] [<code>dbeaver/pro#2098 disable ability to store file on custom place for scheduled tasks (#22046)</code>](https://github.com/dbeaver/dbeaver/commit/16c406be402b64c847b1bb3a63015950ee2ca202)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3210,5 +3211,7 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
 
 - [ ] [<code>Implement color picking (#12)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2aef41a46b466a1edfa838fef0c11000ce71ec7e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>1.0.4</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6121c2b5eed2a970f9f9607f36b08b2f5a033dc7)
+  - <sub>Tags: <code>1.0.4</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
