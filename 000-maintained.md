@@ -200,7 +200,7 @@
 - [ ] [<code>Adds splice's implementation in PHP contrib folder</code>](https://github.com/cjdelisle/cjdns/commit/7bbdda2f52461865b6c129bbad0935006b51f626)
 - [ ] [<code>Reset output to match node's implementation</code>](https://github.com/cjdelisle/cjdns/commit/c53b5bc161400d053de312201b473245eab80c80)
 - [ ] [<code>Crash bug when excepting ALL addresses RouteGen_addException('0.0.0.0/0')</code>](https://github.com/cjdelisle/cjdns/commit/6271719f48861fb6da6028cb1967313514191318)
-> Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_11.1.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
@@ -2042,6 +2042,8 @@
 - [ ] [<code>Icon fix</code>](https://github.com/dbeaver/dbeaver/commit/0bfb349b45eaf449e7f01767f7a0d1c3a42c15f8)
 - [ ] [<code>dbeaver/dbeaver#22001 Columns creation from ERD is lead to the broken (#22019)</code>](https://github.com/dbeaver/dbeaver/commit/8721a235e38e49e09eb7ac9e4fa2095793255f52)
 - [ ] [<code>dbeaver/pro#2098 disable ability to store file on custom place for scheduled tasks (#22046)</code>](https://github.com/dbeaver/dbeaver/commit/16c406be402b64c847b1bb3a63015950ee2ca202)
+- [ ] [<code>dbeaver/pro#2191 DS resolve in virtual model (#22049)</code>](https://github.com/dbeaver/dbeaver/commit/78158c7e4577133382ebd5fbee2a528746c128d2)
+- [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/c5798715d28d3a8984271cdb348cec28cee11831)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2077,6 +2079,14 @@
 - [ ] [<code>refactor: adding readability to switch expressions</code>](https://github.com/canonical/firmware-updater/commit/e9c7cdcd119800825a5d4103763a90e74ca2f9c4)
 - [ ] [<code>refactor: fixing analyzer issues.</code>](https://github.com/canonical/firmware-updater/commit/ef4db53a9e12cb1500cd2099283e91edbf10c7f8)
 - [ ] [<code>feat: add jira sync action</code>](https://github.com/canonical/firmware-updater/commit/f399f757f2775910c75fd5fc0181b565126a7b2a)
+- [ ] [<code>Making the device name bold in the confirmation dialog</code>](https://github.com/canonical/firmware-updater/commit/24513ad158acd6c35cb2a2a6d332652a22340827)
+- [ ] [<code>Update the icon displayed on the confirmation dialog</code>](https://github.com/canonical/firmware-updater/commit/4fa2649adedda105ad664b69533738ed0c662c82)
+- [ ] [<code>Overriding the Yaru theme to look like the Figma file</code>](https://github.com/canonical/firmware-updater/commit/acafa438fad1b8f98e4c7c184cbb7d625f349069)
+- [ ] [<code>Align the checksum button with the rest of the content.</code>](https://github.com/canonical/firmware-updater/commit/16aa65d7abf201413deff50ba9e7e9265373e766)
+- [ ] [<code>Fixing alignment of "update to latest" button</code>](https://github.com/canonical/firmware-updater/commit/b89e602ad722660fa08a93663675fcc6c23802c6)
+- [ ] [<code>Fixing a test since we use html</code>](https://github.com/canonical/firmware-updater/commit/321b7d76dde0e50b6a58cf9434cd85e70f0701a5)
+- [ ] [<code>Fix dark mode chip colors</code>](https://github.com/canonical/firmware-updater/commit/eea05f4c082ba039f68e10183023d48a4d6a283f)
+- [ ] [<code>Fix content alignment</code>](https://github.com/canonical/firmware-updater/commit/d652f7bcbe01e3ad39afd236647cbf54e96a4c71)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -2289,6 +2299,11 @@
 - [ ] [<code>build: Update openssl crypto</code>](https://github.com/krille-chan/fluffychat/commit/6d011dbb3eaf6eb1376bbacd55ec64090ac23a1d)
 - [ ] [<code>chore: Update pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/92c38ea598d47f711d5b0360a9e4422fef26a916)
 - [ ] [<code>build: Update flutter_olm</code>](https://github.com/krille-chan/fluffychat/commit/bac4dd22ad4ac8d42ed8ed97bea5130370932864)
+- [ ] [<code>fix: message bubble position on desktop devices</code>](https://github.com/krille-chan/fluffychat/commit/ed16bdb1ff9b728d7330df541abff52dca1e8f0a)
+- [ ] [<code>build: Update to flutter 3.16.2</code>](https://github.com/krille-chan/fluffychat/commit/43e8e0f0d4c3ee450c2347a6d30cca6ec876c72f)
+- [ ] [<code>fix: Block users</code>](https://github.com/krille-chan/fluffychat/commit/f1b2040edbd133b120470cede03d660fe760a80e)
+- [ ] [<code>build: Set olm to 1.3.2 to fix android build</code>](https://github.com/krille-chan/fluffychat/commit/615e712e14c83de39157bef9e9838d00705c5ea7)
+- [ ] [<code>refactor: Event list</code>](https://github.com/krille-chan/fluffychat/commit/e6fa8445193264adbe7b40da7b992d7e8847ade0)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2628,6 +2643,16 @@
 - [ ] [<code>read.c: Minor clang-format missed.</code>](https://github.com/AOMediaCodec/libavif/commit/380fb999169ecaa280853e86901303fb35e79f13)
 - [ ] [<code>Revert pointer storage workarounds</code>](https://github.com/AOMediaCodec/libavif/commit/f03ee46619497b6c3e3b46db35d03a436bfc9f9f)
 - [ ] [<code>Bump the github-actions group with 5 updates (#1826)</code>](https://github.com/AOMediaCodec/libavif/commit/9b56d95edaa55e4418bd1dc7fa0964fd8f833f62)
+- [ ] [<code>Replace atoi() by y4mReadUnsignedInt() in y4m.c (#1829)</code>](https://github.com/AOMediaCodec/libavif/commit/192e004d864b3204a5e458a0050b9d9384734d1d)
+- [ ] [<code>Add comment about BT.2100 in avif.h (#1827)</code>](https://github.com/AOMediaCodec/libavif/commit/b1e92f1a854987e57fb7f20d7807f399643fa7ff)
+- [ ] [<code>Reduce imageSizeLimit in avif_decode_fuzzer.cc (#1828)</code>](https://github.com/AOMediaCodec/libavif/commit/534a72d486c2f24bbd608454feb43cb73ecb8ece)
+- [ ] [<code>Allow for several directories in TEST_DATA_DIR (#1830)</code>](https://github.com/AOMediaCodec/libavif/commit/197a6ce799267fa83a401cc32798d2d764e54dcd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add CICP enum aliases (#1831)</code>](https://github.com/AOMediaCodec/libavif/commit/4d7c70bd3eed14a5e5dde0ea248f68b67e4ed97f)
+- [ ] [<code>Display a warning for the old way of setting AVIF_CODEC* and AVIF_LOCAL* (#1832)</code>](https://github.com/AOMediaCodec/libavif/commit/5270f7c7525a287a5fd138d514f48b7b8ff9f319)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add more files to the clang format CI. (#1833)</code>](https://github.com/AOMediaCodec/libavif/commit/2da57bc6354cf980bb4ed04eea1cd159750d7a13)
+- [ ] [<code>Fix y4mReadUnsignedInt() when no digit char (#1834)</code>](https://github.com/AOMediaCodec/libavif/commit/edd132f0e6f49891a23b9318b6802eced559e7cb)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3095,6 +3120,48 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.29.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.29.2...HEAD)
 
+- [ ] [<code>Fixed #258 - Removed QSOID from Export dialog column setting</code>](https://github.com/foldynl/QLog.git/commit/4a0a856c3346755daf3544a8b4f6249447829dcf)
+- [ ] [<code>Fixed #256 - Date editor does not support NULL value in Logbook Direct Editor</code>](https://github.com/foldynl/QLog.git/commit/271aaf9dee3492855248d53ce45937a67b67dd82)
+- [ ] [<code>Fixed #260 - Fixed duplicate entry in Windows Add or Remove</code>](https://github.com/foldynl/QLog.git/commit/fa517f49dde99e0f3b296b3ceef4fb8718bf2431)
+- [ ] [<code>Fixed #261 - RST fields revert to 59 after changing them</code>](https://github.com/foldynl/QLog.git/commit/b1225fc56d50466735cf7b102bbc7be8df88d566)
+- [ ] [<code>Add AppStream metainfo file</code>](https://github.com/foldynl/QLog.git/commit/209dfd83bc2643475dbf827361bb60fbbe502b9c)
+- [ ] [<code>Fixed #263 - Added WPX Prefix</code>](https://github.com/foldynl/QLog.git/commit/96fefb77b8d05cd0fac3a23588fa14088dd67519)
+- [ ] [<code>Fixed import issue</code>](https://github.com/foldynl/QLog.git/commit/f7a2486d9a9c1141b372e103c80beb4b4a0b6028)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/311239efb2617f670e3e736a98011cfa4028f0dd)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/cbea6481e239cae61f7404c022687b6676e15a47)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/6d4cec5581c542baed5d1394299b1bfb41d08927)
+- [ ] [<code>Added the Platform Name to About dialog</code>](https://github.com/foldynl/QLog.git/commit/746c491c1afab7728ecde159d7abb160df046736)
+- [ ] [<code>Added WPX Award stats</code>](https://github.com/foldynl/QLog.git/commit/4c28671a1463fc2f242ed401fba4bb24345fa9df)
+- [ ] [<code>Added PTHREAD variables for LIB and INCLUDE to pro-file.</code>](https://github.com/foldynl/QLog.git/commit/b30d7bf67b017da8a555bfab3178bd37293d9c52)
+- [ ] [<code>Added THIS to connect for lambda functions</code>](https://github.com/foldynl/QLog.git/commit/e27aed3209206a259bb8dd7f654ffb5230f0f1f4)
+- [ ] [<code>Add installation to PREFIX on mac when set</code>](https://github.com/foldynl/QLog.git/commit/2b0ed30806b34315962da382cb41edf5f19b231e)
+- [ ] [<code>Reordered Mac Prefix code in pro-file</code>](https://github.com/foldynl/QLog.git/commit/5751f987c294e71c9ec2172843a737813654144c)
+- [ ] [<code>New QSL Images are stored to database</code>](https://github.com/foldynl/QLog.git/commit/dddf5450d50c1e829c3642e891b1b9905416fe68)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/981175ec9132acb9a01a8f38db984acaa1680414)
+- [ ] [<code>Fixed #271 - Cannot change TQSL Path in Settings</code>](https://github.com/foldynl/QLog.git/commit/cae9366c10217db92111bbef26394b841faa263f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/52255c755011373f5f88c4787cdfdab5d3950860)
+- [ ] [<code>Fixed compilation issue under QT5.12</code>](https://github.com/foldynl/QLog.git/commit/563d92835ad9cfaa3cc3523fe08965a72297a93f)
+- [ ] [<code>MainLayoutEditor: Removed Up/Down buttons for QT 5.12</code>](https://github.com/foldynl/QLog.git/commit/27bd1fdb27e715a49e8688529f943a275b96637c)
+- [ ] [<code>Updated README - added flatpak</code>](https://github.com/foldynl/QLog.git/commit/e105cd708b75a970e4012363f6f3ab68051fa35f)
+- [ ] [<code>Updated AUTHORS</code>](https://github.com/foldynl/QLog.git/commit/71f77dae3c1203f6f1b3c6d8b8f032f9e2a17339)
+- [ ] [<code>QDesktopServices::openUrl has to be called with QUrl::fromLocalFile for file</code>](https://github.com/foldynl/QLog.git/commit/520d75b59d8bca7ba34b0f2e8d1c8e41ec568ca7)
+- [ ] [<code>Flatpak Temporary file workaround</code>](https://github.com/foldynl/QLog.git/commit/a10dc9fd15a4d9ba53b89d455e6706ecec3327cd)
+- [ ] [<code>Flatpak: Fixed issue with (None) in getOpenFileName</code>](https://github.com/foldynl/QLog.git/commit/d3512a1ff25d21c9bb4e0fc9e91d14780ced994a)
+- [ ] [<code>PaperQSLDialog: Rewording</code>](https://github.com/foldynl/QLog.git/commit/1194be1bcf9ef65e922eb059d86d1f12d9ab4593)
+- [ ] [<code>Fixed minor typo</code>](https://github.com/foldynl/QLog.git/commit/2b3e79f3317c424b06b1752ca698249dacde7a3d)
+- [ ] [<code>Updated German & Czech Translations</code>](https://github.com/foldynl/QLog.git/commit/73def178a5183677db341a7e168bf8c3467c1c83)
+- [ ] [<code>Fixed #275 - Added dynamic load i18n file support</code>](https://github.com/foldynl/QLog.git/commit/c2f38c6a50f107417bbf88d489725c38aad69af4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fixed #275 - Minor rewording</code>](https://github.com/foldynl/QLog.git/commit/17d797772421e511d3bf397c0090ea1af2aa5b03)
+- [ ] [<code>Updated README file</code>](https://github.com/foldynl/QLog.git/commit/c7d2b8cb09e6d70c23115bb2bfa5cff4b036dae2)
+- [ ] [<code>Fixed uninitilized variable in CWKeyProfile</code>](https://github.com/foldynl/QLog.git/commit/08772ea264dc07e349b562533f47b0b73d8612b2)
+- [ ] [<code>Updated Czech & German translation</code>](https://github.com/foldynl/QLog.git/commit/e413308497005f158a0885803d415c73e7056426)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/0eae5b7fea3ec852da3b785b80b47d5815535662)
+- [ ] [<code>Fixed compilation issue under QT5.12</code>](https://github.com/foldynl/QLog.git/commit/b54a9931c028799d8506fa47d88376e23d5bdf59)
+- [ ] [<code>Preparation for release 0.30.0</code>](https://github.com/foldynl/QLog.git/commit/efd019fe6ce853f9669a669056e9be66146a2a74)
+  - <sub>Tags: <code>v0.30.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
