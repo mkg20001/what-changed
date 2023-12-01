@@ -2626,6 +2626,7 @@
 - [ ] [<code>reformat_libyuv.c: Suppress -fsanitize=function</code>](https://github.com/AOMediaCodec/libavif/commit/286f1b9a66e7f05ac5a32510e4c08ecd03f0ba0f)
 - [ ] [<code>Convert avifDecoderItemArray into an array of pointers</code>](https://github.com/AOMediaCodec/libavif/commit/06799082864459d6bb31ae3612dc753035c61ce1)
 - [ ] [<code>read.c: Minor clang-format missed.</code>](https://github.com/AOMediaCodec/libavif/commit/380fb999169ecaa280853e86901303fb35e79f13)
+- [ ] [<code>Revert pointer storage workarounds</code>](https://github.com/AOMediaCodec/libavif/commit/f03ee46619497b6c3e3b46db35d03a436bfc9f9f)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
