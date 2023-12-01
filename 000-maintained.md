@@ -2627,6 +2627,7 @@
 - [ ] [<code>Convert avifDecoderItemArray into an array of pointers</code>](https://github.com/AOMediaCodec/libavif/commit/06799082864459d6bb31ae3612dc753035c61ce1)
 - [ ] [<code>read.c: Minor clang-format missed.</code>](https://github.com/AOMediaCodec/libavif/commit/380fb999169ecaa280853e86901303fb35e79f13)
 - [ ] [<code>Revert pointer storage workarounds</code>](https://github.com/AOMediaCodec/libavif/commit/f03ee46619497b6c3e3b46db35d03a436bfc9f9f)
+- [ ] [<code>Bump the github-actions group with 5 updates (#1826)</code>](https://github.com/AOMediaCodec/libavif/commit/9b56d95edaa55e4418bd1dc7fa0964fd8f833f62)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
