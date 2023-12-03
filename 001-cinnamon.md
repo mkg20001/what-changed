@@ -1,6 +1,12 @@
 
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.0 → HEAD](https://github.com/linuxmint/bulky/compare/3.0...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/53626f2732f456cb0fb399787ffbea41c3acb0f6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/d78672bac77f76f53190d3c70ef961c95ac2f83d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>3.1</code>](https://github.com/linuxmint/bulky/commit/21319c987ae8638dd1dcbf5d18aedc34273abd66)
+  - <sub>Tags: <code>3.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.0...HEAD)
 
@@ -27,12 +33,18 @@
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.0...HEAD)
 
+- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/aac3e570d526580e471151baf83fa81d71281123)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/be12f4f4cc22ad873a30e48346e2154f52c6e796)
+  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [b735ed90b798eda541885735368930d045430e6e → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/b735ed90b798eda541885735368930d045430e6e...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/2109778012b69749ae2316cb28dc6c776642b83c)
+- [ ] [<code>1.6.0</code>](https://github.com/linuxmint/folder-color-switcher/commit/826df0b71c7c3b686421437eac86883945dc5956)
 
 #### [cinnamon.iso-flags-png-320x420](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -76,6 +88,11 @@
 
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.0 → HEAD](https://github.com/linuxmint/pix/compare/3.2.0...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/096ea6ef51341f7710bd8bc0aefb0ebd54b21ffc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>3.2.1</code>](https://github.com/linuxmint/pix/commit/f13bdd2467aee6b84d438d5d38b61e08b98967c2)
+  - <sub>Tags: <code>3.2.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.6.4 → HEAD](https://github.com/linuxmint/warpinator/compare/1.6.4...HEAD)
 
@@ -118,16 +135,32 @@
 - [ ] [<code>manual connect: Fix qr code rendering for different ui scales.</code>](https://github.com/linuxmint/warpinator/commit/8dbca83d5311c4b9fcb6f9610cdf9de22944c659)
 - [ ] [<code>warpinator.py: Remove invalid line.</code>](https://github.com/linuxmint/warpinator/commit/cf135c008325c95c3b5438b411e6c655d2c6d9b9)
 - [ ] [<code>1.8.0</code>](https://github.com/linuxmint/warpinator/commit/c3da064c94886d54cb67f36b6caacad62425fa43)
-  - <sub>Tags: <code>1.8.0</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>1.8.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/bdeb79c845457f2cfecbd4e96a536025522f7d46)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/warpinator/commit/ce45bbdea71e204219a83da7e335bc290011a474)
+  - <sub>Tags: <code>1.8.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.0 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.0...HEAD)
 
 - [ ] [<code>Update docs</code>](https://github.com/linuxmint/xapp/commit/a9ba7d237c97e1aeeef0401f1a6ddb6c64d4b2a4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/c95bb1e45a4ca9f62100a978c0f9823a5926661e)
+- [ ] [<code>2.8.1</code>](https://github.com/linuxmint/xapp/commit/73019a8e13e909952333065c11ba34f5abf1f950)
+  - <sub>Tags: <code>2.8.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [3.8.3 → HEAD](https://github.com/linuxmint/xreader/compare/3.8.3...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/36711cae95e57d4ca057f6411746c0955477f292)
+- [ ] [<code>3.8.4</code>](https://github.com/linuxmint/xreader/commit/eebd9519d187ad04964dcdec16072e7aa6e37ac1)
+  - <sub>Tags: <code>3.8.4</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.2 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.2...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/6bbf2b54abca99f9ba5d69ae66d8448db9812ab0)
+- [ ] [<code>3.4.3</code>](https://github.com/linuxmint/xviewer/commit/2c2ae3a5d6e9666368aca20720b16ebfcbea36c2)
+  - <sub>Tags: <code>3.4.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
