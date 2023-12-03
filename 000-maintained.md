@@ -2654,6 +2654,7 @@
 - [ ] [<code>Add more files to the clang format CI. (#1833)</code>](https://github.com/AOMediaCodec/libavif/commit/2da57bc6354cf980bb4ed04eea1cd159750d7a13)
 - [ ] [<code>Fix y4mReadUnsignedInt() when no digit char (#1834)</code>](https://github.com/AOMediaCodec/libavif/commit/edd132f0e6f49891a23b9318b6802eced559e7cb)
 - [ ] [<code>Merge if stmt and while loop in y4mReadUnsignedInt</code>](https://github.com/AOMediaCodec/libavif/commit/a1d57c7e41567eb7c4fbe6b4a911724509b9b270)
+- [ ] [<code>Fix leaks on error in avifMetaFindOrCreateItem()</code>](https://github.com/AOMediaCodec/libavif/commit/887ab8cf6282f5bae284e2872c681f7be0c96765)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
