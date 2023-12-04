@@ -2656,6 +2656,16 @@
 - [ ] [<code>Fix y4mReadUnsignedInt() when no digit char (#1834)</code>](https://github.com/AOMediaCodec/libavif/commit/edd132f0e6f49891a23b9318b6802eced559e7cb)
 - [ ] [<code>Merge if stmt and while loop in y4mReadUnsignedInt</code>](https://github.com/AOMediaCodec/libavif/commit/a1d57c7e41567eb7c4fbe6b4a911724509b9b270)
 - [ ] [<code>Fix leaks on error in avifMetaFindOrCreateItem()</code>](https://github.com/AOMediaCodec/libavif/commit/887ab8cf6282f5bae284e2872c681f7be0c96765)
+- [ ] [<code>ci: use target properties instead of variables for flags, dirs, sources, and link libraries (#1778)</code>](https://github.com/AOMediaCodec/libavif/commit/bccbcc032ab6b6978deab794bb6ca2fa9c18ca78)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>fix(svt): Don't clamp enc_mode to [0,8] (#1824)</code>](https://github.com/AOMediaCodec/libavif/commit/c44a43ba943c1cf60a200a7bea2c1dd774ae547c)
+- [ ] [<code>AVIF_ZLIBPNG and AVIF_JPEG instead of AVIF_LOCAL_* (#1846)</code>](https://github.com/AOMediaCodec/libavif/commit/0c947b3ce74220d5740964138cea7a06d4ad2a26)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Only build zlib/example when building tests (#1848)</code>](https://github.com/AOMediaCodec/libavif/commit/198ee06ab9a5ce39d361d326508cd1ff006feac3)
+- [ ] [<code>Fix failing assert if there are several 'dimg' boxes for the same item. (#1847)</code>](https://github.com/AOMediaCodec/libavif/commit/c2fb27ef8f0ab06a8d562f08dba035c25662a2d7)
+- [ ] [<code>Correctly set alt image metadata in various places. (#1820)</code>](https://github.com/AOMediaCodec/libavif/commit/3bcc7821113d74615dd1c84a8fb430084f9a4551)
+- [ ] [<code>Cosmetic changes in avifMetaFindOrCreateItem()</code>](https://github.com/AOMediaCodec/libavif/commit/773012977e6da34aaa3491340c9bfe4d649cb7bb)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3280,10 +3290,5 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.3...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
 
-- [ ] [<code>Implement color picking (#12)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2aef41a46b466a1edfa838fef0c11000ce71ec7e)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>1.0.4</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6121c2b5eed2a970f9f9607f36b08b2f5a033dc7)
-  - <sub>Tags: <code>1.0.4</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
