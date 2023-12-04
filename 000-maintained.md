@@ -2304,6 +2304,7 @@
 - [ ] [<code>fix: Block users</code>](https://github.com/krille-chan/fluffychat/commit/f1b2040edbd133b120470cede03d660fe760a80e)
 - [ ] [<code>build: Set olm to 1.3.2 to fix android build</code>](https://github.com/krille-chan/fluffychat/commit/615e712e14c83de39157bef9e9838d00705c5ea7)
 - [ ] [<code>refactor: Event list</code>](https://github.com/krille-chan/fluffychat/commit/e6fa8445193264adbe7b40da7b992d7e8847ade0)
+- [ ] [<code>feat: Enable experimental suport for dehydrated devices</code>](https://github.com/krille-chan/fluffychat/commit/bdb15625e331312b4c9b4c43cc100c5f3d3663c1)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
