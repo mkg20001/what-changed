@@ -15,6 +15,9 @@
 - [ ] [<code>udebug: add functions for manipulating entry length</code>](https://git.openwrt.org/project/libubox.git/commit/325fea5c57cf7917ff5e633dd28715af84018993)
 - [ ] [<code>udebug: add inline helper function to test if a buffer is allocated</code>](https://git.openwrt.org/project/libubox.git/commit/e84c000c4756ae3d0aa80b2c66ec43cf7fc416c4)
 - [ ] [<code>udebug: wait for response after buffer add/remove</code>](https://git.openwrt.org/project/libubox.git/commit/40acbe34632b8e4e860fe41bb14ab5d7d5c9cfe9)
+- [ ] [<code>udebug: add more checks for uninitialized buffers</code>](https://git.openwrt.org/project/libubox.git/commit/d27acfe416d67f9425d40b5e758949cd7ff9acfa)
+- [ ] [<code>udebug: add mips specific quirk</code>](https://git.openwrt.org/project/libubox.git/commit/df5b7147f47ae3bca23bde18f3d432f5ce26a2ff)
+- [ ] [<code>udebug: fix file descriptor initialization for __udebug_buf_map</code>](https://git.openwrt.org/project/libubox.git/commit/ca3f6d0cdb1e588283c42d039779ceab303ceef2)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
