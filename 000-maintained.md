@@ -2045,6 +2045,7 @@
 - [ ] [<code>dbeaver/pro#2191 DS resolve in virtual model (#22049)</code>](https://github.com/dbeaver/dbeaver/commit/78158c7e4577133382ebd5fbee2a528746c128d2)
 - [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/c5798715d28d3a8984271cdb348cec28cee11831)
 - [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/4ef94fbfa1b051e7034a51ef274ca20daec32230)
+- [ ] [<code>dbeaver/dbeaver#22093 Limit REST to loopback address (#22094)</code>](https://github.com/dbeaver/dbeaver/commit/7922caa3a5c57a2833c866a3c2c8b10ba6a9422e)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2672,6 +2673,11 @@
 - [ ] [<code>Update the version to 1.0.3 (devel flag on)</code>](https://github.com/AOMediaCodec/libavif/commit/98f0c35455bf8773c0642aaa2dacb42f6c460a9f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix merge_static_libs to work with generator expressions. (#1851)</code>](https://github.com/AOMediaCodec/libavif/commit/ea70a4d2fba0413cf443be4201838b536610a8b9)
+- [ ] [<code>Have DecodeIncrementally return an avifResult instead of asserting (#1852)</code>](https://github.com/AOMediaCodec/libavif/commit/dc8de5145b25b65f5a565db5cc2b3a3ab8d7ad34)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix checking for write failure. (#1853)</code>](https://github.com/AOMediaCodec/libavif/commit/bb3e9f50a472ad0d1bc778d800178cc2fbd2378b)
+- [ ] [<code> Hash-pin new steps (#1754)</code>](https://github.com/AOMediaCodec/libavif/commit/a2bfa0911f2e59e3c3267bdd515312d82f3f3c07)
+- [ ] [<code>Fix avifImageCopySamples() comment about yuvRange (#1854)</code>](https://github.com/AOMediaCodec/libavif/commit/f93e348c929edefce4de8e6f077cab4aea8ac907)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2998,6 +3004,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>networkd: fix formatting</code>](https://github.com/canonical/netplan/commit/ba06ef54c859426186c49b9c38424ce8e9f6fa51)
 - [ ] [<code>networkd: replace deprecated CriticalConnection= by KeepConfiguration=</code>](https://github.com/canonical/netplan/commit/c97c4765d3c411c436bd0f8aea1dfefedf33194c)
+- [ ] [<code>networkd: move KeepConfiguration= into [Network] section</code>](https://github.com/canonical/netplan/commit/76e896aa2dabc6ff934afe33691cbc69807c8e2e)
+- [ ] [<code>apply: bring "lo" back up if it's managed by NM</code>](https://github.com/canonical/netplan/commit/f9272ad737bbf251dcfb76eaa1c5fb6e889f8d42)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>apply: don't assume the NM loopback connection is called "lo"</code>](https://github.com/canonical/netplan/commit/8c7103ad497161af420122ccf994caade0d0eeac)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
