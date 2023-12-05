@@ -2666,6 +2666,10 @@
 - [ ] [<code>Fix failing assert if there are several 'dimg' boxes for the same item. (#1847)</code>](https://github.com/AOMediaCodec/libavif/commit/c2fb27ef8f0ab06a8d562f08dba035c25662a2d7)
 - [ ] [<code>Correctly set alt image metadata in various places. (#1820)</code>](https://github.com/AOMediaCodec/libavif/commit/3bcc7821113d74615dd1c84a8fb430084f9a4551)
 - [ ] [<code>Cosmetic changes in avifMetaFindOrCreateItem()</code>](https://github.com/AOMediaCodec/libavif/commit/773012977e6da34aaa3491340c9bfe4d649cb7bb)
+- [ ] [<code>Declare item of avifDecoderItemIsAlphaAux as const</code>](https://github.com/AOMediaCodec/libavif/commit/a2ada7d8dc2e4c839f926d5c44a7bf235ccc1fd0)
+- [ ] [<code>Declare prop var in avifPropertyArrayFind as const</code>](https://github.com/AOMediaCodec/libavif/commit/600685fddb5fb952d967823a468e3383d01f9933)
+- [ ] [<code>Update the version to 1.0.3 (devel flag on)</code>](https://github.com/AOMediaCodec/libavif/commit/98f0c35455bf8773c0642aaa2dacb42f6c460a9f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
