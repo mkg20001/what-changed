@@ -2044,6 +2044,7 @@
 - [ ] [<code>dbeaver/pro#2098 disable ability to store file on custom place for scheduled tasks (#22046)</code>](https://github.com/dbeaver/dbeaver/commit/16c406be402b64c847b1bb3a63015950ee2ca202)
 - [ ] [<code>dbeaver/pro#2191 DS resolve in virtual model (#22049)</code>](https://github.com/dbeaver/dbeaver/commit/78158c7e4577133382ebd5fbee2a528746c128d2)
 - [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/c5798715d28d3a8984271cdb348cec28cee11831)
+- [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/4ef94fbfa1b051e7034a51ef274ca20daec32230)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2670,6 +2671,7 @@
 - [ ] [<code>Declare prop var in avifPropertyArrayFind as const</code>](https://github.com/AOMediaCodec/libavif/commit/600685fddb5fb952d967823a468e3383d01f9933)
 - [ ] [<code>Update the version to 1.0.3 (devel flag on)</code>](https://github.com/AOMediaCodec/libavif/commit/98f0c35455bf8773c0642aaa2dacb42f6c460a9f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix merge_static_libs to work with generator expressions. (#1851)</code>](https://github.com/AOMediaCodec/libavif/commit/ea70a4d2fba0413cf443be4201838b536610a8b9)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
