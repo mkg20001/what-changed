@@ -2,6 +2,8 @@
 #### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [bc92a280186f9becc53c0f17e4e43cfbdeec7e7b → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/bc92a280186f9becc53c0f17e4e43cfbdeec7e7b...HEAD)
 
 - [ ] [<code>socket: add debug callbacks for rx/tx</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/af57bb123f933e8c11a58613d382ae15823206c6)
+- [ ] [<code>socket: call rx debug callback once per packet instead of per batch</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/785e11aee7ddf1ce302e7c91d6207ec777ea13c6)
+- [ ] [<code>socket: change debug callbacks to pass struct nl_msg</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/965c4bf49658342ced0bd6e7cb069571b4a1ddff)
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [f7d1569113110ea8df071d2ea64fd17aaf5b42c9 → HEAD](https://git.openwrt.org/project/libubox.git/compare/f7d1569113110ea8df071d2ea64fd17aaf5b42c9...HEAD)
 
@@ -169,6 +171,11 @@
 - [ ] [<code>system-linux: fix bogus debug error messages on adding bridge members</code>](https://git.openwrt.org/project/netifd.git/commit/7642eaba383869cab997d2e7ffdb1b58fd536e29)
 - [ ] [<code>wireless: add bridge_isolate option</code>](https://git.openwrt.org/project/netifd.git/commit/f3e06e81b347bbdec1c6c71603328b6e442728d4)
 - [ ] [<code>udebug: use helper code for ubus config handling</code>](https://git.openwrt.org/project/netifd.git/commit/02bc2e14d1d37500e888c0c53ac41398a56b5579)
+- [ ] [<code>netifd: add netlink udebug ring</code>](https://git.openwrt.org/project/netifd.git/commit/1b967334189baa138699f637ac07bcbf0289fbf4)
+- [ ] [<code>debug: remove newline from debug messages</code>](https://git.openwrt.org/project/netifd.git/commit/061e308f9f7d30b0bc490d93e113ee763ecb06a1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>bridge: fix reload on bridge vlan changes</code>](https://git.openwrt.org/project/netifd.git/commit/f1763852dfbabf60486bd721ec7a6a1bc8dd88c0)
+- [ ] [<code>bridge: rework config change pvid handling</code>](https://git.openwrt.org/project/netifd.git/commit/cc9e928f0a12f04c82356c02dd9a84ac6b383fb9)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619 → HEAD](https://git.openwrt.org/project/ubus.git/compare/b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619...HEAD)
 
