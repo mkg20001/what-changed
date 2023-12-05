@@ -1,6 +1,7 @@
 
 #### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [bc92a280186f9becc53c0f17e4e43cfbdeec7e7b → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/bc92a280186f9becc53c0f17e4e43cfbdeec7e7b...HEAD)
 
+- [ ] [<code>socket: add debug callbacks for rx/tx</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/af57bb123f933e8c11a58613d382ae15823206c6)
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [f7d1569113110ea8df071d2ea64fd17aaf5b42c9 → HEAD](https://git.openwrt.org/project/libubox.git/compare/f7d1569113110ea8df071d2ea64fd17aaf5b42c9...HEAD)
 
