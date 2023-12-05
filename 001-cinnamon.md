@@ -11,6 +11,7 @@
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.0...HEAD)
 
 - [ ] [<code>main.js: Don't initialize monitorLabeler in an x11 session.</code>](https://github.com/linuxmint/cinnamon/commit/f83fe2b4e3aa2545f06b1bd480bcff163001a35d)
+- [ ] [<code>Update bug report template with Wayland issue tracker</code>](https://github.com/linuxmint/cinnamon/commit/b7f7ef9e33cce5385a686fc232b2b6e07435dba6)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
