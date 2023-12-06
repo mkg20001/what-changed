@@ -203,6 +203,14 @@
 > Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
+#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.4 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.4...HEAD)
+
+- [ ] [<code>leader: Fix double-free in case the apply callback is fired by hand</code>](https://github.com/cowsql/cowsql/commit/fb362fe5a1f1a48f0a8188f00477ce9b33ab3ebf)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>leader: Fix double-free in case the apply callback is fired by hand (#14)</code>](https://github.com/cowsql/cowsql/commit/6c91a1bf9628ec659f286e24bd7b23f445b064ee)
+- [ ] [<code>Added chinese translation of fork annoucement</code>](https://github.com/cowsql/cowsql/commit/2f9f2d49804b8848e5cb6a814747748d12d50e68)
+- [ ] [<code>Added chinese translation of fork annoucement (#15)</code>](https://github.com/cowsql/cowsql/commit/9196630552208daa07c3b2f13dff74fb4952a138)
+
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
 - [ ] [<code>#17834 Avoid NPE on empty editor close (#17836)</code>](https://github.com/dbeaver/dbeaver/commit/e895111757da8088a17d940abd1d52a8016711c1)
@@ -2046,6 +2054,24 @@
 - [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/c5798715d28d3a8984271cdb348cec28cee11831)
 - [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/4ef94fbfa1b051e7034a51ef274ca20daec32230)
 - [ ] [<code>dbeaver/dbeaver#22093 Limit REST to loopback address (#22094)</code>](https://github.com/dbeaver/dbeaver/commit/7922caa3a5c57a2833c866a3c2c8b10ba6a9422e)
+- [ ] [<code>dbeaver/pro#1646 Always show DBeaver toolbars and menus for standalone products</code>](https://github.com/dbeaver/dbeaver/commit/edabda0be3cd4a92dcbdc14055eb7567f51a7a14)
+- [ ] [<code>Revert "dbeaver/pro#1646 Always show DBeaver toolbars and menus for standalone products"</code>](https://github.com/dbeaver/dbeaver/commit/e0aabaa36988e7089df816a2b3eeeb5fab35c045)
+- [ ] [<code>dbeaver/pro#1646 Always show DBeaver toolbars and menus for standalone products (#22113)</code>](https://github.com/dbeaver/dbeaver/commit/50a33fd6ffbdc3b03e6ae52b1dbc3461ec7ba205)
+
+#### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
+
+- [ ] [<code>gomod: Bump to Go 1.20 minimum</code>](https://github.com/lxc/distrobuilder/commit/52d562b1a8f32c303352660d2cf527b5931fdedb)
+- [ ] [<code>Fix small logging issues</code>](https://github.com/lxc/distrobuilder/commit/1ee669bf0bb5b8d5ed5ecace8971b9ba618f2b5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>image: Use per-test temp dirs</code>](https://github.com/lxc/distrobuilder/commit/d3b423306c837282cef012867ff97aad44f7ef1f)
+- [ ] [<code>README: Add note about minimum Go version</code>](https://github.com/lxc/distrobuilder/commit/fa2407d7b4a12ec3e2db4156b7b49cbf85746b45)
+
+#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
+
+- [ ] [<code>Only publish to the PPA from master</code>](https://github.com/canonical/dqlite/commit/02f71b407ca5ba9cbf17852d35a12198fcf85c05)
+- [ ] [<code>Initial log format rework</code>](https://github.com/canonical/dqlite/commit/4c7743bc4c11d66c08feac3afcfb66a7bd773b25)
+- [ ] [<code>test_membership: Wait for leader barrier before waiting for tx.</code>](https://github.com/canonical/dqlite/commit/b44b96189bbfba3100d3b1622d6f60036e798d4f)
+- [ ] [<code>server: Replace monitor_cb by state_cb.</code>](https://github.com/canonical/dqlite/commit/9b3ac556e56a7b3f7b99cbec5a8afada818df54c)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2098,6 +2124,27 @@
 - [ ] [<code>refactor: Fixing flutter analyze issues</code>](https://github.com/canonical/firmware-updater/commit/ad9c2cc168d02c0506606a7721f0ff22e1196132)
 - [ ] [<code>tests: Adding a tmp yaml file for testing simulate mode.</code>](https://github.com/canonical/firmware-updater/commit/b1fc404325f5290eae8228c5b7c7d1a0fee6e83e)
 - [ ] [<code>refactor: Removing unused imports.</code>](https://github.com/canonical/firmware-updater/commit/391ec6fd01807c3fde67f8dd41ef9de6b9487f2f)
+- [ ] [<code>refactor: Consistency with other repositories</code>](https://github.com/canonical/firmware-updater/commit/1ba2db1cd7943a08522e4daf0209a55ce2ceceaf)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>ci: Remove snapcraft typo</code>](https://github.com/canonical/firmware-updater/commit/95ad7ccbcdf4b0cd1f159aa5564c65b59ee34950)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix: Rename bin -> integration_test</code>](https://github.com/canonical/firmware-updater/commit/adf22f4edd4c90135f12e99d63b4f1bf14470360)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: Point to integration_test</code>](https://github.com/canonical/firmware-updater/commit/ec95ca25b0fbca0711465aa0ad486c30be3e8120)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: Fix launch-firmware-updater.sh directory</code>](https://github.com/canonical/firmware-updater/commit/4044838bcc6522272abb70b3a882d2d6ab0d413b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: Fix integration test run</code>](https://github.com/canonical/firmware-updater/commit/1998b1b992493e5a7e4c5462948cdbc5b8c23870)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>maint: Fix types</code>](https://github.com/canonical/firmware-updater/commit/76aeef92fbc5569931fbac6021d6cdd4b12f50b2)
+- [ ] [<code>ci: Make code coverage and renovate consistent</code>](https://github.com/canonical/firmware-updater/commit/473ee876900b785f3a86a9e62bebc899a8fcef6e)
+- [ ] [<code>chore(deps): update dependency ubuntu_service to ^0.3.0</code>](https://github.com/canonical/firmware-updater/commit/04d790d9420c5308e1a3094c5c1a6d774c4fac50)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update actions/checkout action to v4</code>](https://github.com/canonical/firmware-updater/commit/cf271de2284b064c587398018c68eaaa4f740183)
+- [ ] [<code>chore(deps): update asdf-vm/actions action to v3</code>](https://github.com/canonical/firmware-updater/commit/aaea23c6c086ca423a6d5fed10a6439a3c2e046d)
+- [ ] [<code>chore(deps): update dependency ubuntu to v22</code>](https://github.com/canonical/firmware-updater/commit/232352a453a0cf0758feea599cbbc37e02063b5a)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -2316,6 +2363,8 @@
 - [ ] [<code>build: Set olm to 1.3.2 to fix android build</code>](https://github.com/krille-chan/fluffychat/commit/615e712e14c83de39157bef9e9838d00705c5ea7)
 - [ ] [<code>refactor: Event list</code>](https://github.com/krille-chan/fluffychat/commit/e6fa8445193264adbe7b40da7b992d7e8847ade0)
 - [ ] [<code>feat: Enable experimental suport for dehydrated devices</code>](https://github.com/krille-chan/fluffychat/commit/bdb15625e331312b4c9b4c43cc100c5f3d3663c1)
+- [ ] [<code>build: Changelog for 1.16.0</code>](https://github.com/krille-chan/fluffychat/commit/f79143cffb4ed1051d1fcccc17c67cece9e06b07)
+  - <sub>Tags: <code>rc1.16.0-1</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2323,6 +2372,8 @@
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
 - [ ] [<code>Update Dockerfile (#448)</code>](https://github.com/toptal/haste-server/commit/ded18b0c2e1ad05eaba6ab5bb938ae6b54cb5147)
+> Dropped incus - no appropriate URL found OrderedDict([('attr_path', 'incus'), ('home_url', 'https://linuxcontainers.org/incus'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2687,10 +2738,491 @@
 - [ ] [<code>Fix checking for write failure. (#1853)</code>](https://github.com/AOMediaCodec/libavif/commit/bb3e9f50a472ad0d1bc778d800178cc2fbd2378b)
 - [ ] [<code> Hash-pin new steps (#1754)</code>](https://github.com/AOMediaCodec/libavif/commit/a2bfa0911f2e59e3c3267bdd515312d82f3f3c07)
 - [ ] [<code>Fix avifImageCopySamples() comment about yuvRange (#1854)</code>](https://github.com/AOMediaCodec/libavif/commit/f93e348c929edefce4de8e6f077cab4aea8ac907)
+- [ ] [<code>Move YUV-RGB conversion from avif_decode_fuzzer (#1856)</code>](https://github.com/AOMediaCodec/libavif/commit/83e99d2060de823448011d7279c090d45bf4b2fa)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>clang-format tests/oss-fuzz/ as C++ (#1857)</code>](https://github.com/AOMediaCodec/libavif/commit/6f93fdb39fc278a1a3a005778bcbb99d2b0d2492)
+> Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+
+#### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-4.0.12 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-4.0.12...HEAD)
+
+- [ ] [<code>proc_cpuview: add minimal support for unified cgroup layout</code>](https://github.com/lxc/lxcfs/commit/9844eea7390fe24fdca9c315e1cb6cb69ad1a798)
+- [ ] [<code>proc_fuse: fix meminfo with unified cgroup layout</code>](https://github.com/lxc/lxcfs/commit/a2632da98db1b2250a4d19ec1fcc75550b60a33f)
+- [ ] [<code>configure: add -Wvla and -std=gnu11</code>](https://github.com/lxc/lxcfs/commit/f8326179ec733062cf358e78661fd5ff3b7eec8d)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>tree-wide: add missing O_CLOEXEC</code>](https://github.com/lxc/lxcfs/commit/3326c17e2686df9d543f0b4b47665e8dd991e170)
+- [ ] [<code>bindings: handle current working directory on upgrade</code>](https://github.com/lxc/lxcfs/commit/de69569b541fb7cb2f9bde65b88b444543dec0b8)
+- [ ] [<code>tree-wide: mark lxcfs fuse ops</code>](https://github.com/lxc/lxcfs/commit/2d7bcab7df5c3733cecf9fd76f024edc95922dc6)
+- [ ] [<code>bindings: make constructor failures non-fatal</code>](https://github.com/lxc/lxcfs/commit/c2357135cbe49be18d2d52a6d5beabe7bcf31d81)
+- [ ] [<code>liblxcfs: handle broken upgrade gracefully</code>](https://github.com/lxc/lxcfs/commit/cbfc55fd6c2ac4d2f17e5eacb737baf74b641bd6)
+- [ ] [<code>usage: Fix cfs help</code>](https://github.com/lxc/lxcfs/commit/23ffaadd58917949f8ec690506217cd73ed6bcdb)
+- [ ] [<code>usage: Fix lxcfs description</code>](https://github.com/lxc/lxcfs/commit/077d9d2fdeea9e15531e4fdbe60172b2fff60394)
+- [ ] [<code>proc_fuse: port to uint64_t</code>](https://github.com/lxc/lxcfs/commit/e97129333b2d4e68ba94fb6a14ff3f3552462003)
+- [ ] [<code>tree-wide: use {u}int64_t types</code>](https://github.com/lxc/lxcfs/commit/1ba088aeb1c229da69076eb15b58b7c7b8217436)
+- [ ] [<code>bindings: allow users to switch between virtualization and non-virtualization mode</code>](https://github.com/lxc/lxcfs/commit/b9b6bdc92874d044e6f0e3592b79a9446b0317ce)
+- [ ] [<code>test_proc: add SIGUSR2 virtualization switch tests</code>](https://github.com/lxc/lxcfs/commit/906f4458343f2ba362831b2079a88d294ff620bc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>proc_fuse: remove unused variable</code>](https://github.com/lxc/lxcfs/commit/63f35cc0191fffdb846e57f05ad9d1d3e69b10bf)
+- [ ] [<code>test_sigusr2: improve tests</code>](https://github.com/lxc/lxcfs/commit/ce26ced780fdc0323c729ce1fbc839d258b8312c)
+- [ ] [<code>bindings: introduce set_signal_handler</code>](https://github.com/lxc/lxcfs/commit/dee8600652472e61b9c661d080fe1ee1f18ce47e)
+- [ ] [<code>cgroup_fuse: fix cgroupfs virtualization needed on non-cgns systems</code>](https://github.com/lxc/lxcfs/commit/8a03c08b07ea62da790825e1643e73a0e7011db8)
+- [ ] [<code>tree-wide: memory utils improvements</code>](https://github.com/lxc/lxcfs/commit/05b7a16d12d149323932f6cd889b123a32f73dac)
+- [ ] [<code>tree-wide: fix dot_or_empty()</code>](https://github.com/lxc/lxcfs/commit/e7f9baee1dc6fe318b7ad5159dff90c0759ea7ab)
+- [ ] [<code>cgroups: remove unused function</code>](https://github.com/lxc/lxcfs/commit/78047e47c3dc324f4a7cb0a1ee6d521ed2ac1489)
+- [ ] [<code>utils: shut up compiler</code>](https://github.com/lxc/lxcfs/commit/9ea4e12ee86fdbd314a43cdcdab81dd5c6f1a4ed)
+- [ ] [<code>proc_loadvg: fixes</code>](https://github.com/lxc/lxcfs/commit/3fe133df31a2bf504cdb8117029101c8e41bc607)
+- [ ] [<code>proc_cpuview: fix compiler warning</code>](https://github.com/lxc/lxcfs/commit/8220dfcd45a83e4ba0eb323f8a5dba8c15d29dc4)
+- [ ] [<code>tree-wide: add and use must_make_path_relative()</code>](https://github.com/lxc/lxcfs/commit/925d5849986f5a3d5a819eecdbaa066c94a2d1bb)
+- [ ] [<code>tree-wide: remove is_relative() and use must_make_path_relative()</code>](https://github.com/lxc/lxcfs/commit/2a5d697d25393c01a86550095a272b98a6d024fa)
+- [ ] [<code>cgroup_fuse: rework is_child_cgroup()</code>](https://github.com/lxc/lxcfs/commit/3c5e82301c70f1fb2feaa26058a34cbbe7299dab)
+- [ ] [<code>cgroup_fuse: rework cgfs_get_key()</code>](https://github.com/lxc/lxcfs/commit/1281cd2874657a5475dddede2b53064f27242018)
+- [ ] [<code>cgroup_fuse: rework cgfs_create()</code>](https://github.com/lxc/lxcfs/commit/7c554745fdf60f168b50c9a95d04170a4f3a4884)
+- [ ] [<code>cgroup_fuse: rework cgfs_remove()</code>](https://github.com/lxc/lxcfs/commit/bb33f9741cd9b6df79c5deee05a887d728c9fafb)
+- [ ] [<code>cgroup_fuse: rework cgfs_chmod_file()</code>](https://github.com/lxc/lxcfs/commit/7dc3d74cf3cef88adee191e4a9f08f30945853c0)
+- [ ] [<code>cgroup_fuse: rework cgfs_chown_file()</code>](https://github.com/lxc/lxcfs/commit/df6371551970e03d6ea50e5637ffe86f9f061b65)
+- [ ] [<code>cgroup_fuse: rework open_pids_file()</code>](https://github.com/lxc/lxcfs/commit/ee3a127b2f28bd382bf1c6cb14b89100418660eb)
+- [ ] [<code>cgroup_fuse: rework cgfs_set_value()</code>](https://github.com/lxc/lxcfs/commit/2f5433784193f1c17add3c7f8cffc0592ce70fc0)
+- [ ] [<code>cgroup_fuse: rework cgfs_iterate_cgroup()</code>](https://github.com/lxc/lxcfs/commit/35511b7289789bc51991e4c1c518b9c375e66d6f)
+- [ ] [<code>cgroup_utils: remove dot_or_empty()</code>](https://github.com/lxc/lxcfs/commit/7eba77fd90ddcddad5ce2598a1ed847ec8595218)
+- [ ] [<code>tests: Silence build output</code>](https://github.com/lxc/lxcfs/commit/8b1fee8153008248497203e1a23495b9e0f67585)
+- [ ] [<code>cgroup_fuse: actually make asz check mean something</code>](https://github.com/lxc/lxcfs/commit/7981fe3d289edca84e8445074fd2970f8b89c715)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>proc_fuse: improve /proc/meminfo</code>](https://github.com/lxc/lxcfs/commit/b0f336468e08204e4b64c7e71fb3079726bbe99b)
+- [ ] [<code>proc_fuse: memory virtualization improvements</code>](https://github.com/lxc/lxcfs/commit/c83158f21cdec10ab6b3787b4b9d351a59e2e027)
+- [ ] [<code>proc_fuse: improve /proc/uptime virtualization</code>](https://github.com/lxc/lxcfs/commit/c9c9374996259a0c9fe82a7d499d8d5b3f9a757b)
+- [ ] [<code>tree-wide: add and use syscall_numbers.h</code>](https://github.com/lxc/lxcfs/commit/8364a99c31a7e73173e6c99debc7c63bcc44b0f6)
+- [ ] [<code>proc_fuse: fix swap calculations</code>](https://github.com/lxc/lxcfs/commit/157231ab2af99bfd94d345d1e6955e9b8de48d8e)
+- [ ] [<code>tests: Handle different lib paths</code>](https://github.com/lxc/lxcfs/commit/77e23d3b1394c1fbfcd2e4595e74bfcc8332b76f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix #387. Include `:` in matching of lines in /proc/meminfo</code>](https://github.com/lxc/lxcfs/commit/659b02783f86b9b96ee3a7d5fc22d674576adde0)
+- [ ] [<code>relax init pid store locking a bit</code>](https://github.com/lxc/lxcfs/commit/fcdedd16a5b6e769c9172b1fe8e1268ce04a1ddf)
+- [ ] [<code>travis: enable coverity integration</code>](https://github.com/lxc/lxcfs/commit/6686dbc3ed7feda72e5892c5a907bf16637e8cda)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>memory_utils: make it easier for Coverity</code>](https://github.com/lxc/lxcfs/commit/e230c3d89aa855395283563764da6ab5c5369ad6)
+- [ ] [<code>.travis: fix coverity</code>](https://github.com/lxc/lxcfs/commit/33a143cc13ee30e48412b647f4515ec93ed3b0fd)
+- [ ] [<code>cgroup_fuse: do not double-close</code>](https://github.com/lxc/lxcfs/commit/f58d0c0d7958d5c595cf9e57fee46994c278f906)
+- [ ] [<code>lxcfs: remove fl.* prefix</code>](https://github.com/lxc/lxcfs/commit/b4bc238c3f1cd94f259d7c9915998b8143344314)
+- [ ] [<code>cgroup_fuse: s/clone/lxcfs_clone/g</code>](https://github.com/lxc/lxcfs/commit/6abff4553d1dffc141ab169ad2373db4a586e37d)
+- [ ] [<code>bindings: do not falsely return</code>](https://github.com/lxc/lxcfs/commit/0eb3756b189cdebd748045d0befc67ba7d396a80)
+- [ ] [<code>cgroup_fuse: be cautios when dereferencing d->controller</code>](https://github.com/lxc/lxcfs/commit/988c21e3f80d90d9811250e56cb7820ad35e1dce)
+- [ ] [<code>lxcfs: don't cause a uaf</code>](https://github.com/lxc/lxcfs/commit/ef1ae5a7521133dd8311b97cc4cc6046bfc80a41)
+- [ ] [<code>utils: fix recv_creds()</code>](https://github.com/lxc/lxcfs/commit/dac3dc93bb88f51bff3084679255bf1dc7214bf2)
+- [ ] [<code>bindings: use zalloc()</code>](https://github.com/lxc/lxcfs/commit/5ec289bfd2a9469e45d07c251762c6b1c3bb3f41)
+- [ ] [<code>cgroups: more cgroup2 fun</code>](https://github.com/lxc/lxcfs/commit/114eb8b83b51e4ab1d9f9a48441a5efd1c897eef)
+- [ ] [<code>tests: correctly skip readdir test</code>](https://github.com/lxc/lxcfs/commit/bee1df25ef43ac36a8335d26ad6ce2ec90c06daa)
+- [ ] [<code>cgroups: please Coverity</code>](https://github.com/lxc/lxcfs/commit/90031675632fc553c02dbef2f7cad3515693dbfc)
+- [ ] [<code>cgroups: simplify cgroup_walkup_to_root()</code>](https://github.com/lxc/lxcfs/commit/8b9161144acdffdc07197d3e90e128e22d20673d)
+- [ ] [<code>proc_fuse: improve swap calculation</code>](https://github.com/lxc/lxcfs/commit/89662777a34fc3b275713d89f5ce3d5e2641ea73)
+- [ ] [<code>proc_fuse: silence error when we find no memlimit</code>](https://github.com/lxc/lxcfs/commit/ee1a885f724747f40fe77c58ed36d8e752521692)
+- [ ] [<code>sysfs: cpuinfo: show cgroup cpuset value</code>](https://github.com/lxc/lxcfs/commit/b3c85f5d1af413ffef992b272beb676f95becf19)
+- [ ] [<code>sysfs_fuse: remove logically dead code</code>](https://github.com/lxc/lxcfs/commit/133cba4786ab9f7ae68cda0251baa7a0af77116a)
+- [ ] [<code>Fix https://github.com/lxc/lxcfs/issues/404</code>](https://github.com/lxc/lxcfs/commit/247d8f7de683b9711c881c145143ceb5a86fae9b)
+- [ ] [<code>coverity: Use build custom build script</code>](https://github.com/lxc/lxcfs/commit/9494c921b174259c7fce64f1a64cc07e5db598c0)
+- [ ] [<code>bindings: fix init pid hashing</code>](https://github.com/lxc/lxcfs/commit/97017213a17f96631de1542ea087af15a37c3838)
+- [ ] [<code>bindings: make opts pointer const</code>](https://github.com/lxc/lxcfs/commit/536620fd7446fc52d556cc15ebe58f51155881c9)
+- [ ] [<code>bindings: use brackets to make logic clearer</code>](https://github.com/lxc/lxcfs/commit/b18d6121b1dd67177a7f30650bf2603d1d4e81af)
+- [ ] [<code>bindings: cleanup cache locking</code>](https://github.com/lxc/lxcfs/commit/4e1e4115a5b87f294df4288f207f60a40ac852ff)
+- [ ] [<code>bindings: cleanup init pid verification</code>](https://github.com/lxc/lxcfs/commit/cfda2e8a3765fc0a54e3342f8668bc9cc93af5c8)
+- [ ] [<code>cpuview: fix /proc/stat virtualization</code>](https://github.com/lxc/lxcfs/commit/1494771eb4f0391bd49a26f91f9918e0ba37ac82)
+- [ ] [<code>bindings: s/get_init_pid_for_task()/scm_init_pid()/g</code>](https://github.com/lxc/lxcfs/commit/8a07696e042fa5a3aa258bdce4ffb9f7cff66d9a)
+- [ ] [<code>proc_loadavg: don't leak getline() memory in calc_pid()</code>](https://github.com/lxc/lxcfs/commit/61ef3c5ce5675a43b2a982797025647bdcf02d94)
+- [ ] [<code>proc_loadavg: ensure pointer is NULL when passing to calc_pid()</code>](https://github.com/lxc/lxcfs/commit/bef38939a63eb60fca311a9dddc5159edde15ac1)
+- [ ] [<code>proc_loadavg: don't leak getline() memory</code>](https://github.com/lxc/lxcfs/commit/c0e081ce68aca219346a7933bba137ad9e4cbee2)
+- [ ] [<code>proc_loadavg: replace malloc() with asprintf() in calc_pid()</code>](https://github.com/lxc/lxcfs/commit/12cf83f46e89337d7425a8a30876d8c81334e1d6)
+- [ ] [<code>macro: use ISO C compatible __typeof__</code>](https://github.com/lxc/lxcfs/commit/0d64d47406ca4ff5aa01d54708d9a4523676ff75)
+- [ ] [<code>proc_loadavg(): use strdup() in calc_pid()</code>](https://github.com/lxc/lxcfs/commit/1f342679fcde66ef9fd7355660bd5655c02244b4)
+- [ ] [<code>proc_loadavg: simplify calc_pid()</code>](https://github.com/lxc/lxcfs/commit/e771a80bb39141466dad33fd01247ef7efe63c60)
+- [ ] [<code>bindings: wipe initpid cache on library reload</code>](https://github.com/lxc/lxcfs/commit/c8f77ce49be97e3535d3ade55a05feedd7bbad4e)
+- [ ] [<code>bindings: avoid dynamic stack allocations in clone()</code>](https://github.com/lxc/lxcfs/commit/35acc24740ee0434936fb34cd72ec2fd5754d6b2)
+- [ ] [<code>lxcfs: free opts on lxcfs binary exit</code>](https://github.com/lxc/lxcfs/commit/b58c203bc7c9c10b0460a6431f71de4ac35bd693)
+- [ ] [<code>proc_fuse: use zalloc()</code>](https://github.com/lxc/lxcfs/commit/f1a33645c587c68f84ca20e67645ce5bb08ad398)
+- [ ] [<code>proc_loadavg: use must_* alloc helpers</code>](https://github.com/lxc/lxcfs/commit/cb4bf06be21ad38588d81d7ef24203cb61fd7225)
+- [ ] [<code>proc_loadavg: remove dummy variable</code>](https://github.com/lxc/lxcfs/commit/cde2554cc26cd69e973a3a91a3ef13b0f5aaa160)
+- [ ] [<code>proc_loadavg: avoid needless memory allocation</code>](https://github.com/lxc/lxcfs/commit/70f7563e44ffd06427f364a3b4d1008308883858)
+- [ ] [<code>proc_fuse: move get_reaper_busy() down</code>](https://github.com/lxc/lxcfs/commit/ea725aba233d3cabb0e778dc0bff99f23dcadf97)
+- [ ] [<code>proc_fuse: cleanup proc_uptime_read() a little</code>](https://github.com/lxc/lxcfs/commit/d77180028e0cbed67a3e45ea69e6ca3888357586)
+- [ ] [<code>utils: don't leak fds in in_same_namespace()</code>](https://github.com/lxc/lxcfs/commit/802b0d2039b566feeadf50c16088185e7dc52128)
+- [ ] [<code>proc_fuse: improve swap calculation a little</code>](https://github.com/lxc/lxcfs/commit/2f2080c17dbde6c7dc77c16fab70e4f1d26f2ce2)
+- [ ] [<code>proc_fuse: don't cause invalid swap values</code>](https://github.com/lxc/lxcfs/commit/07c90197078b6ddc5d2bb0e5e49e298e5a7ec146)
+- [ ] [<code>proc_fuse: cap swap to global values</code>](https://github.com/lxc/lxcfs/commit/6bfe1016029d091d2f00ab5bc19f4c8148575bf1)
+- [ ] [<code>proc_cpuview: tweak cpuacct.percpu_usage fallback</code>](https://github.com/lxc/lxcfs/commit/8b6987a28b25514af1c2f3e6d498346eaa078d5f)
+- [ ] [<code>proc_fuse: more swap tweaks</code>](https://github.com/lxc/lxcfs/commit/b7b018d017977208555d2fd87b88a9dd9353329a)
+- [ ] [<code>proc_cpuview: cleanup new_proc_stat_node()</code>](https://github.com/lxc/lxcfs/commit/6a4dceb11b54d8d99a2489911baa8558fbb78e18)
+- [ ] [<code>proc_cpuview: use more descriptive labels in add_proc_stat_node()</code>](https://github.com/lxc/lxcfs/commit/164acda74caf904092ec8cc258952a30a09725c6)
+- [ ] [<code>proc_cpuview: reduce variable scope in cpuview_free_head()</code>](https://github.com/lxc/lxcfs/commit/905769cd18db23355602f2d33209560bbde77945)
+- [ ] [<code>proc_cpuview: cleanup add_proc_stat_node()</code>](https://github.com/lxc/lxcfs/commit/0d129671b9b4ec04eb4aa9d4f23ba17fb30f4a7e)
+- [ ] [<code>proc_cpuview: use correct comment style</code>](https://github.com/lxc/lxcfs/commit/ce617d73c3a8bfb7f65eda9eb6e93dc85a7b0a84)
+- [ ] [<code>proc_cpuview: clean up expand_proc_stat_node()</code>](https://github.com/lxc/lxcfs/commit/82d74a959246162d628ffad5c5fe7cdb30a81dc9)
+- [ ] [<code>proc_cpuview: clean up prune_proc_stat_list()</code>](https://github.com/lxc/lxcfs/commit/2d00d04c9e923814336002bd13edce7c3ff8a8ea)
+- [ ] [<code>proc_cpuview: clean up find_or_create_proc_stat_node()</code>](https://github.com/lxc/lxcfs/commit/ce089f1057d891652b0595fcbed37781700b94ef)
+- [ ] [<code>proc_cpuview: cleanup add_cpu_usage()</code>](https://github.com/lxc/lxcfs/commit/8206874af4ae4df7b507d3a9afa37d98a7f884e3)
+- [ ] [<code>proc_cpuview: cleanup read_cpu_cfs_param()</code>](https://github.com/lxc/lxcfs/commit/48f6862e8ce930f6059ba03c71addac5fb2dd4ee)
+- [ ] [<code>proc_cpuview: fix exact_cpu_count()</code>](https://github.com/lxc/lxcfs/commit/c602a0d0c3c96784fc23e374f678ba5d3b5e17d7)
+- [ ] [<code>proc_cpuview: fix max_cpu_count()</code>](https://github.com/lxc/lxcfs/commit/921bdfdbe23e731c9b4db2279c2185ad28152ae5)
+- [ ] [<code>proc_cpuview: cleanup cpuview_proc_stat()</code>](https://github.com/lxc/lxcfs/commit/b457272231bd5452d7a46a930835253cb4994a65)
+- [ ] [<code>proc_cpuview: cleanup cpuview_init_head()</code>](https://github.com/lxc/lxcfs/commit/9d7fc1a317a362d1276d7bba907a3846bf182ebd)
+- [ ] [<code>proc_fuse: provide host values when kernel does not support swap accounting</code>](https://github.com/lxc/lxcfs/commit/c68050167a14b3ed5cc0c681f5526f10b624fbcf)
+- [ ] [<code>bindings: update terminology</code>](https://github.com/lxc/lxcfs/commit/4210ee1d723ca5d6090e0b0c7a349d3fba4e4507)
+- [ ] [<code>cgroups: update terminology</code>](https://github.com/lxc/lxcfs/commit/fcbfa4771ac141885623feef3b287c0590848a99)
+- [ ] [<code>cgroups: replace leftover reference to legacy terms</code>](https://github.com/lxc/lxcfs/commit/5f60475b76ccee79c6293351d69f32a0360a29ce)
+- [ ] [<code>bindings: provide lxcfs_clone() as wrapper around lxcfs_raw_clone()</code>](https://github.com/lxc/lxcfs/commit/1bdeec69b9a1c3b890019c09ce4016b665e3bb78)
+- [ ] [<code>.travis: use RTLD_NOW for tests</code>](https://github.com/lxc/lxcfs/commit/c7894bc76ec329d3f52a154c696cb180050d7397)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>proc_fuse: remove unused variable</code>](https://github.com/lxc/lxcfs/commit/671febde86af391d151acdc05c8ba282f5dae780)
+- [ ] [<code>fix type mismatch</code>](https://github.com/lxc/lxcfs/commit/85bd3f8e2fa9b20718689eb1e1f6181e8fc3922a)
+- [ ] [<code>fix epoll create socket error message</code>](https://github.com/lxc/lxcfs/commit/e4bd0d4d18b53c74f190c3f54093a04946a28f2d)
+- [ ] [<code>Add support for fuse3</code>](https://github.com/lxc/lxcfs/commit/f834b6bfb9a541b872817347a3a156f7cb051311)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix `get_min_memlimit()` on non-glibc</code>](https://github.com/lxc/lxcfs/commit/6f88ab0ccc788b7956136260ec573e2584e21527)
+- [ ] [<code>Update options passed to fuse_main</code>](https://github.com/lxc/lxcfs/commit/51c38c8be054b87b95f24dcdcec19901385f8285)
+- [ ] [<code>rename fuse_compat.h to avoid conflict with system header</code>](https://github.com/lxc/lxcfs/commit/ec2043edd988440f3adf5268529623a76e92497a)
+- [ ] [<code>Set the file size to 4k</code>](https://github.com/lxc/lxcfs/commit/25982f5d7e008e6ad13df28af3006ab8286f4c97)
+- [ ] [<code>diskstats: support new fields in 4.18+ kernels</code>](https://github.com/lxc/lxcfs/commit/998cdfc94eeddb91c814410f653a0b5741fd88f2)
+- [ ] [<code>meminfo: show host swap values when no limit or equal limits are set</code>](https://github.com/lxc/lxcfs/commit/6da2a084789ed0122cacde5ee950cb9689daf7c4)
+- [ ] [<code>README: clarify SWAP</code>](https://github.com/lxc/lxcfs/commit/6279c0f4f26f76ad7d8909e4ee41914a6f6ef186)
+- [ ] [<code>cgroups: Add get_memory_swappiness</code>](https://github.com/lxc/lxcfs/commit/4032b735ba06488dd8703acd505cac07cf807b2e)
+- [ ] [<code>swap: Fix usage reporting</code>](https://github.com/lxc/lxcfs/commit/7cbfbc7406ae97b5ac5908cf550ddc7c81f27023)
+- [ ] [<code>swap: Only report usage when swappiness is 0</code>](https://github.com/lxc/lxcfs/commit/362d1193f6cb8038b2c8a89c69d0a3ef465caa9c)
+- [ ] [<code>swap: Tweak meminfo logic</code>](https://github.com/lxc/lxcfs/commit/33aa929ea96a9a4d6229e486a948999f55894d24)
+- [ ] [<code>swap: Make /proc/swaps match /proc/meminfo</code>](https://github.com/lxc/lxcfs/commit/3ce66074ff2fe79993d779df3bb7533dae017ef5)
+- [ ] [<code>swap: Remove now unused variable</code>](https://github.com/lxc/lxcfs/commit/79af0cd194210970a086d543d86deab71f996c15)
+- [ ] [<code>proc_fuse: add /proc/slabinfo with slab accounting memcg</code>](https://github.com/lxc/lxcfs/commit/6cc153e698cc2f8e7cd356d0e6da1f89e8fa984e)
+- [ ] [<code>docs: fix simple typo, throuh -> through</code>](https://github.com/lxc/lxcfs/commit/9226484187fa3d013aaa98c0a7cbf3b43a2af1cc)
+- [ ] [<code>proc_cpuview: release lock before returning</code>](https://github.com/lxc/lxcfs/commit/692f48eb5b35a80100d0e10beec0091fe9d9aad8)
+- [ ] [<code>Determine the file size from the current system file size</code>](https://github.com/lxc/lxcfs/commit/ce554964ff34b635b037293e62a0f12c654f0953)
+- [ ] [<code>Switch to Github Actions</code>](https://github.com/lxc/lxcfs/commit/87b7d15f71368da8edd0a95aa0492c13204bf848)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>lxcfs: rework argument parsing</code>](https://github.com/lxc/lxcfs/commit/64a7d94de293215c77a79ef819f2bd5a88209f19)
+- [ ] [<code>sys: virtualize /sys/devices/system/cpu/cpu*</code>](https://github.com/lxc/lxcfs/commit/26b717d0849ba9f315f5e3ba5000c8e99bc282b5)
+- [ ] [<code>sys: rework get_st_mode()</code>](https://github.com/lxc/lxcfs/commit/d9c820eeae8874f34026dee50c54793627701a35)
+- [ ] [<code>lxc.mount.hook: adapt to new /sys/devices/system/cpu virtualization</code>](https://github.com/lxc/lxcfs/commit/791adfe130cb3b7d1bb7f27818ac2b4207f105d1)
+- [ ] [<code>lxcfs: remove obsolete logging</code>](https://github.com/lxc/lxcfs/commit/0f67f54bd7983b2a7ff5d5573040ad813603954d)
+- [ ] [<code>bindings: introduce lxcfs_has_opt() helper</code>](https://github.com/lxc/lxcfs/commit/84e184b15ab75bc0325a8f70b1d6a4e8ad69b05e)
+- [ ] [<code>sysfs_fuse: create proper directories</code>](https://github.com/lxc/lxcfs/commit/76a883b0d4e48d3d93c4b0105884d29007b3b662)
+- [ ] [<code>cpuset_parse: drop unneeded dependencies</code>](https://github.com/lxc/lxcfs/commit/4e73670cbc0f3dddfb8d22a46d801fe61f40284a)
+- [ ] [<code>bindings: fix  struct lxcfs_opts by making it versioned</code>](https://github.com/lxc/lxcfs/commit/285aea407acd58811b3ecf53033497d0a25b83f9)
+- [ ] [<code>sysfs_fuse: account for liblxcfs reload with identical lxcfs binary</code>](https://github.com/lxc/lxcfs/commit/0d5383b73c6e03c677b92471bb3b33afe9e952b2)
+- [ ] [<code>proc_fuse: don't spam log needlessly</code>](https://github.com/lxc/lxcfs/commit/1e3aa115f88f23e6d6bdcc91c427034360cef8a2)
+- [ ] [<code>lxc.mount.hook: make shellcheck clean</code>](https://github.com/lxc/lxcfs/commit/50c32b5e21bbf3a1cde437d0564f03dd18695b91)
+- [ ] [<code>lxc.mount.hook: reduce calls to basename</code>](https://github.com/lxc/lxcfs/commit/427caeddd86ad8f222deb4c624d91d24eff2d4a5)
+- [ ] [<code>cgroup_fuse: replace potentially problematic terminology</code>](https://github.com/lxc/lxcfs/commit/86521450bf192ff2cebfd250f344a1804c8b169f)
+- [ ] [<code>proc_cpuview: unlock mutex in all error paths</code>](https://github.com/lxc/lxcfs/commit/08d61303c94938ae25400990bb2efdbb0b392e85)
+- [ ] [<code>src: rely on config.h for fuse version</code>](https://github.com/lxc/lxcfs/commit/2c6e12b7ede8437e802b81d7f3cbaa5404c6107a)
+- [ ] [<code>tree-wide: include own header file first</code>](https://github.com/lxc/lxcfs/commit/e01afbb75a314c800fdb781dd8f11c82fd93c497)
+- [ ] [<code>tree-wide: fix fuse header inclusion</code>](https://github.com/lxc/lxcfs/commit/0a5da718ea9bb2a6a80739d064a1ea5712bb1a26)
+- [ ] [<code>tree-wide: fix prototypes</code>](https://github.com/lxc/lxcfs/commit/9b96e96ecb22ee012d10749eccd37af5ebd01b26)
+- [ ] [<code>tree-wide: fix type comparisons</code>](https://github.com/lxc/lxcfs/commit/3cf1e562fe5c2c8176a3eb627ba3a68ae27e5970)
+- [ ] [<code>tree-wide: fix some ifdef checks</code>](https://github.com/lxc/lxcfs/commit/b1ef0dde24476510652a822cba99a3816a2b35bf)
+- [ ] [<code>macro: fix bracket warnings in non-debug mode</code>](https://github.com/lxc/lxcfs/commit/081d7647093b241dba4b9ced9d1771e032a84ce2)
+- [ ] [<code>proc_cpuview: fix unused variable warning</code>](https://github.com/lxc/lxcfs/commit/d5e343138279e564ef31b257b73f4a2384af0c95)
+- [ ] [<code>tests: rely on config.h only for fuse versioning</code>](https://github.com/lxc/lxcfs/commit/625e698a71ead8cabe97d1591ccb54ee2ee297b5)
+- [ ] [<code>tests: fix build warnings</code>](https://github.com/lxc/lxcfs/commit/51816c7b8e49879e0558dfb4136981ee170656fb)
+- [ ] [<code>build: add meson</code>](https://github.com/lxc/lxcfs/commit/1fbf55911c2cf2ed24fd115500577993f500b939)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>github: fix workflows for meson</code>](https://github.com/lxc/lxcfs/commit/693ef6c676a6f1195a16da89cfdb9df947523244)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: remove autotools</code>](https://github.com/lxc/lxcfs/commit/a5681e523f06261e2534523f958ed2bef34197db)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>build: move some options to default_options</code>](https://github.com/lxc/lxcfs/commit/ff6b89e2ddfad56fc1a1db1a74006b9e4e8a503c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: fix data directories</code>](https://github.com/lxc/lxcfs/commit/0d2038cd9ef3d278860086742dddb48b21528fff)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: remove -std=gnu11</code>](https://github.com/lxc/lxcfs/commit/26bc4c3f146f7b9b980a0f8234d9dabefcfe1963)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: use dependency() for fuse detection</code>](https://github.com/lxc/lxcfs/commit/5f275367aa6933a8d47fcd9ac5a841543d47744e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: remove -shared</code>](https://github.com/lxc/lxcfs/commit/941928ef56bc8c10dc5a1c5dd5b47ce9f2a1aa88)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: introduce common dependency variable</code>](https://github.com/lxc/lxcfs/commit/1314b3b8e83cd39c30ebcaee466d1d7f34ca29bd)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: use correct minimal meson version requirement</code>](https://github.com/lxc/lxcfs/commit/148ed806aa2529890ba5d205c01289f5bd071ed2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: require fuse >= 2.6</code>](https://github.com/lxc/lxcfs/commit/d89591230374490a52b6b70efa3bad64844decae)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: remove pointless prefixdir validation</code>](https://github.com/lxc/lxcfs/commit/fb66efaf32f925b9c6ed541c01a04cf9552699d6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: Fix package name</code>](https://github.com/lxc/lxcfs/commit/f03198f6a6716be5e7104242abb9928942cef66d)
+- [ ] [<code>README: update build instructions</code>](https://github.com/lxc/lxcfs/commit/d18b5eb5742ad01a4d15d05bef5a51e9e5b21308)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>lxcfs: fix lxcfs CLI -v and no arg output</code>](https://github.com/lxc/lxcfs/commit/10deeaaf71179f82532d79835375d0f796d7574a)
+- [ ] [<code>lxcfs: fix version and usage handling</code>](https://github.com/lxc/lxcfs/commit/c021765e2420848fc0e429f534de826afbb3c0a8)
+- [ ] [<code>build: generate lxcfs.spec file</code>](https://github.com/lxc/lxcfs/commit/1c376fe7c488011be093b73b2bc66f02f38b1a6f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix padding for Slab entry in /proc/meminfo</code>](https://github.com/lxc/lxcfs/commit/6ddc3c0039f58300413cae363a5e9b922ef254cc)
+- [ ] [<code>cpuview: log non-fatal error in verbose mode only</code>](https://github.com/lxc/lxcfs/commit/cc49667aa57a6159070818e2aef158af786e4573)
+- [ ] [<code>tree-wide: fix HAVE_FUSE3 checks</code>](https://github.com/lxc/lxcfs/commit/cb61c9e14569e6a94a8de4c97ff6ac1a04e363ec)
+- [ ] [<code>tree-wide: set _GNU_SOURCE in meson.build</code>](https://github.com/lxc/lxcfs/commit/d511b24d84823df428e85e6ccd79982486cd966a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tree-wide: use a single fuse header</code>](https://github.com/lxc/lxcfs/commit/bb4e3c8f772855ed0937b8ba84986e97d6d6f005)
+- [ ] [<code>build: add __STDC_FORMAT_MACROS</code>](https://github.com/lxc/lxcfs/commit/71c055b848a24ba59de50b831fd9c04e053b0b6d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github: Drop 16.04</code>](https://github.com/lxc/lxcfs/commit/e41cc62788b5cd1993ae26e4a128c26054152758)
+- [ ] [<code>doc: guide for reload share libary file</code>](https://github.com/lxc/lxcfs/commit/e5c2d189d6e697dfe173d5f32c00316af3322ca4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: use shared_module()</code>](https://github.com/lxc/lxcfs/commit/a962e7a168c2e941806a72178248dfb779c2f4f9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>macro: cast to correct integer types</code>](https://github.com/lxc/lxcfs/commit/fc743888e0c289116714df49e57fe8776572e039)
+- [ ] [<code>sysfs: fix cpumasks</code>](https://github.com/lxc/lxcfs/commit/a3c8d33cd7a110b711528717ad9cfd0cd7f62749)
+- [ ] [<code>build: remove newline</code>](https://github.com/lxc/lxcfs/commit/18cde097e635b66f9fd4cfb5b5882f3c9ae3f7c2)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: add share/ directory</code>](https://github.com/lxc/lxcfs/commit/d90ab57e62f43b42410e67a83506232c70939f1f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github/workflows: meson compile -C build everywhere</code>](https://github.com/lxc/lxcfs/commit/4d7f58e18a36b79a48bd5c3873948aaad0aceb1c)
+- [ ] [<code>meson: Include lxcfs_fuse.h into source files</code>](https://github.com/lxc/lxcfs/commit/c96acf9eb6dab687ab1f6ca3acdadf9ab2326030)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: add LXCFSTARGETDIR to configuration data</code>](https://github.com/lxc/lxcfs/commit/f1c461893ec319f495463c02077b923b0cd08670)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: use jinja2 templating</code>](https://github.com/lxc/lxcfs/commit/e5af758b3693057e4a9eee1893aa6d2982d92ffb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Skip cpu revise when cfs quota is disable</code>](https://github.com/lxc/lxcfs/commit/abc4d399c4a6de08e4b5227fa420c97f57bd6950)
+- [ ] [<code>empty cgroup dir if set unified_cgroup_hierarchy=1</code>](https://github.com/lxc/lxcfs/commit/bcde492f254a9a4a22d8f5a2620477b51b08f26b)
+- [ ] [<code>make meminfo and swaps cgroupv2 aware</code>](https://github.com/lxc/lxcfs/commit/50f7faeec2029f141836d91a6403ef9273b1a0cd)
+- [ ] [<code>build: move global options further up</code>](https://github.com/lxc/lxcfs/commit/915700c3f4fcda33d987f500b87d0ca5e0e8e511)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>proc_fuse: use correct type for swap variables</code>](https://github.com/lxc/lxcfs/commit/cd255e04c9a610457adf66f756bc55d41e34deb5)
+- [ ] [<code>proc_cpuview: use PRIu64 to print uint64_t</code>](https://github.com/lxc/lxcfs/commit/1ea6aaf207889efeeeed7046ffe44d4389f35e49)
+- [ ] [<code>proc_fuse: use PRIu64 to print uint64_t</code>](https://github.com/lxc/lxcfs/commit/94cef7a2b2117e10ec0edafbeb12d052c76f8ac8)
+- [ ] [<code>proc_loadavg: use PRIu64 to print uint64_t</code>](https://github.com/lxc/lxcfs/commit/da8546f4aadf5e37fb26d57b0cafae3a466943ed)
+- [ ] [<code>fix and reformat format strings</code>](https://github.com/lxc/lxcfs/commit/2c559f0b21b8ef6429f51501119fed63078851dc)
+- [ ] [<code>Preseve cpu sum in /proc/stat when cpuset changes</code>](https://github.com/lxc/lxcfs/commit/2b37a10e1fdf633fd6ab0cb20a68691c17b545c2)
+- [ ] [<code>proc_fuse: improve error message</code>](https://github.com/lxc/lxcfs/commit/1992babfb45066de7f374c4ba83c7fe0aabfddef)
+- [ ] [<code>meson: Cleanup build files</code>](https://github.com/lxc/lxcfs/commit/3c34a19818accdf4bd0285f8ae25afc4b7083d4a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>meson: Set check argument on run_command</code>](https://github.com/lxc/lxcfs/commit/776b85949c69355ce6da8d9c5dc4294fee6c644c)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Makefile: Tweak for meson (add dist target)</code>](https://github.com/lxc/lxcfs/commit/37a89aa067fd4659ee6b161d5b4452ab31519f1e)
+- [ ] [<code>Makefile: Fix ordering and add PHONY</code>](https://github.com/lxc/lxcfs/commit/f922074722e4cabec02b60e9870260cde13f1bed)
+- [ ] [<code>Release LXCFS 5.0.0</code>](https://github.com/lxc/lxcfs/commit/64045b1ce2add39d7f3fea99b522171f71bfaca5)
+  - <sub>Tags: <code>lxcfs-5.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>lxcfs_fuse: ensure lxcfs_fuse_compat.h is included after including fuse header</code>](https://github.com/lxc/lxcfs/commit/e532b47ab892107693145d3ac30ce6a6dc1de9d6)
+- [ ] [<code>tree-wide: remove struct stat argument from DIR_FILLER and make it static inline</code>](https://github.com/lxc/lxcfs/commit/5aff2eb2c54372fbee20a9a9c2b2730fb40625f5)
+- [ ] [<code>tree-wide: ensure that file information is set even with legacy fuse</code>](https://github.com/lxc/lxcfs/commit/02fa563b9fc2fceca1a9db1d4b316f7ddd59ce0e)
+- [ ] [<code>tests: add test for issue #522</code>](https://github.com/lxc/lxcfs/commit/e1f2baff28b0355d3f6b77304ae564e36bc14132)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>meson: Include documentation</code>](https://github.com/lxc/lxcfs/commit/83d9dee735625f8d2db4e1cef483cbf5a8d8ee80)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>workflows: disable documentation generation</code>](https://github.com/lxc/lxcfs/commit/9ec9ae9849e6cbafa99611fe4103c940038f2322)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sysfs: Don't incorrectly filter entries</code>](https://github.com/lxc/lxcfs/commit/ece0d2bbbc39d2408d21c28b3c1b411f7f19fd62)
+- [ ] [<code>tests: Fix sysfs test</code>](https://github.com/lxc/lxcfs/commit/9df73913600210b8e897cf4878a98f78ca08cf5d)
+- [ ] [<code>utils: add and use opathdir()</code>](https://github.com/lxc/lxcfs/commit/a6fd03eb096d2f6f7359cfeb935744589628c962)
+- [ ] [<code>sysfs_fuse: fix indendation</code>](https://github.com/lxc/lxcfs/commit/a21c424194548ae78c22e0e5f4d8741449a542e9)
+- [ ] [<code>sysfs_fuse: generate file info for cpu<nr> entries as well</code>](https://github.com/lxc/lxcfs/commit/9ad7d6593ef970467a402ef66354e9e39299d1c7)
+- [ ] [<code>meson: bump fuse version</code>](https://github.com/lxc/lxcfs/commit/b1d547f4573786a63ca945d2559a36801b4114ee)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github: add fuse3 tests</code>](https://github.com/lxc/lxcfs/commit/6dc6057662ce0561a0d88e2f954045d291c7b6b0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: handle fuse versions with buggy dt_type handling</code>](https://github.com/lxc/lxcfs/commit/888ab80a818b132cf812dfb04b926946c4c384a3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>init/meson: Use libdir instead of hardcoded /lib path</code>](https://github.com/lxc/lxcfs/commit/28a1c1a88919cc4e69ea64e79097668a909d48a6)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Query systemd system unit dir.</code>](https://github.com/lxc/lxcfs/commit/6301082a2b2c267a001fd7ce2ec02288892b92d4)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>support explicit fuse version choice</code>](https://github.com/lxc/lxcfs/commit/a3a42a5df00b06f23b5ae9bd588ea62794a1bdde)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>github: Re-organize Github Actions</code>](https://github.com/lxc/lxcfs/commit/db98a412500a2be135075dfaf680a177c93cfef8)
+- [ ] [<code>tests: Skip sysfs test on older FUSE versions</code>](https://github.com/lxc/lxcfs/commit/cc527851526ba8133e807d3c91230a9b26f1d17f)
+- [ ] [<code>init: Fix install paths for sysvinit and openrc</code>](https://github.com/lxc/lxcfs/commit/72ca394f5ea0c0987216a9b897790928fefd65fc)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Support multiple init systems</code>](https://github.com/lxc/lxcfs/commit/40e23aff83ac266a8f8c2a7d872fab34f37f9676)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>meson: Syntax nit</code>](https://github.com/lxc/lxcfs/commit/bc6251be32756fe9f2008dc8d6332770c41a5768)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>proc_fuse: extra space in /proc/stat</code>](https://github.com/lxc/lxcfs/commit/2be17a4bdbc6a00beea5141998dcf72f10859057)
+- [ ] [<code>util: remove doubled comment</code>](https://github.com/lxc/lxcfs/commit/4dfc5ede8fe397136e809de7d8521d67978161a8)
+- [ ] [<code>sysfs: correct file size of /sys/devices/system/cpu/online.</code>](https://github.com/lxc/lxcfs/commit/07e79d35869b36e53c9dbd692104deee74c0220f)
+- [ ] [<code>sysfs: cleanup sys_devices_system_cpu_online_getsize</code>](https://github.com/lxc/lxcfs/commit/d0aeaf061dc52a9aa2effa7b11b20b3983d0fa2d)
+- [ ] [<code>cgroup v2: return cpuset cpu count when no quota is set</code>](https://github.com/lxc/lxcfs/commit/177d6ecf61134f7d79b19d447af6da2209a436a2)
+- [ ] [<code>re-initialize library after reload</code>](https://github.com/lxc/lxcfs/commit/cb784d698bb8681f7f870961ce5aa7f1314a9291)
+- [ ] [<code>replace opathdir with opendir_flags</code>](https://github.com/lxc/lxcfs/commit/f5227e5c01c42cf110bb851e30ffdfa13d4ab225)
+- [ ] [<code>github: Restrict permissions</code>](https://github.com/lxc/lxcfs/commit/a4d9801ff94869ef506e10e8bf70a7b1e9feb6bc)
+- [ ] [<code>github: Validate target branch</code>](https://github.com/lxc/lxcfs/commit/4175587f2a48032ff09271aa7650f1119c1dcc45)
+- [ ] [<code>fix reinitialization with fuse3</code>](https://github.com/lxc/lxcfs/commit/5976d0349c1900e2649b7d2904d98ba6a7278e6b)
+- [ ] [<code>set oom_score_adj of lxcfs process to -1000</code>](https://github.com/lxc/lxcfs/commit/fc8c93f506f6313a634d9d9ef49e3bb13d7b65d5)
+- [ ] [<code>init: respect --prefix when installing systemd unit files</code>](https://github.com/lxc/lxcfs/commit/9bfc897a0c6b010464dc490e955dbc1d1a66e4c3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix build on ia64</code>](https://github.com/lxc/lxcfs/commit/df8d36904e0617bad52f4ae9028a9ce9c94eaf49)
+- [ ] [<code>doc: guide for mount /sys/devices/system/cpu in docker demo</code>](https://github.com/lxc/lxcfs/commit/808b7db2d7f9eaca513cd55134d4d2e92514082d)
+- [ ] [<code>utils: add safe_uint32() helper</code>](https://github.com/lxc/lxcfs/commit/649e9ccc8e79565c00ce82c6bce5b5409ed09cac)
+- [ ] [<code>macro.h: add strnprintf macro</code>](https://github.com/lxc/lxcfs/commit/1ebba49abb3d8b6eaf7b2e35d1819178bb4924d9)
+- [ ] [<code>utils: add get_task_personality helper</code>](https://github.com/lxc/lxcfs/commit/474491c40b8e61a3352daa217ec2231eb3b84112)
+- [ ] [<code>cpuview: paththrough personality when reading cpuinfo</code>](https://github.com/lxc/lxcfs/commit/096972f7a9a2a2347f1ce6b701872eac7b35371f)
+- [ ] [<code>cpuview: fix possible use-after-free in find_proc_stat_node</code>](https://github.com/lxc/lxcfs/commit/54db3e71b80fb8a25c9d6bd8ae9be0f0b4b41f26)
+- [ ] [<code>github: make coverity workflow work with meson</code>](https://github.com/lxc/lxcfs/commit/070e0a68e25b970a71fbd08be38d0e57b6f98e9f)
+- [ ] [<code>README: how to build with sanitizers</code>](https://github.com/lxc/lxcfs/commit/ef53a2871948fde73e18c468a9454fc0a4b0f108)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cpuset_parse: check input string in cpuset_nexttok</code>](https://github.com/lxc/lxcfs/commit/57fdeb523e4e0560e2dd4f1f4d24487f50314525)
+- [ ] [<code>github: enable ASAN and UBSAN during PR tests</code>](https://github.com/lxc/lxcfs/commit/b27a6fb69060ea580726d08139a84c36cf87ec8f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>lxcfs: explicitly enable direct_IO for libfuse3</code>](https://github.com/lxc/lxcfs/commit/c2b4b508c39c1070ec49805f1de47dcf3214c220)
+- [ ] [<code>lxcfs: fix copypaste typo in error message</code>](https://github.com/lxc/lxcfs/commit/1affba53834282d60712c04d14d92fbd0ab783e6)
+- [ ] [<code>/proc/stat: render physical cpu number in non-view mode</code>](https://github.com/lxc/lxcfs/commit/4eed66b3026495095c08c2b4b9b2f779ed8f6d06)
+- [ ] [<code>sysfs: don't mask cpus in /sys/devices/system/cpu</code>](https://github.com/lxc/lxcfs/commit/0a0948b62d9d00729fee8fb17d628b5adab11b09)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>lxcfs: handle NULL path in lxcfs_releasedir/lxcfs_release</code>](https://github.com/lxc/lxcfs/commit/cf02ccbe36391a04435633a7e3e8d10811971ca9)
+- [ ] [<code>cpuview: fix ABBA deadlock in find_proc_stat_node</code>](https://github.com/lxc/lxcfs/commit/1e8d209fa2abc151b0e858caef4d396156d38366)
+- [ ] [<code>build: tools: keep trailing newline in jinja2 renderer</code>](https://github.com/lxc/lxcfs/commit/8a3a41cd13cd2a7ebd92b315d38822be41698e1d)
+- [ ] [<code>Revert "init: respect --prefix when installing systemd unit files"</code>](https://github.com/lxc/lxcfs/commit/4ab95514ad1042b124cbcd039a691fb3156ae840)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>proc: fix /proc/diskstats output format</code>](https://github.com/lxc/lxcfs/commit/723f4cc4928bf01c3ea48891a34d4ea9b1c62bf4)
+- [ ] [<code>github: start using ubuntu-22.04 image</code>](https://github.com/lxc/lxcfs/commit/207b7d3d16aac4a7e1ec34eed799fbc071e5aa0e)
+- [ ] [<code>github: remove ubuntu-18.04</code>](https://github.com/lxc/lxcfs/commit/08c3d259834a097ec7e20c6b7e959bcb27991fa6)
+- [ ] [<code>tests: adapt for cgroup2</code>](https://github.com/lxc/lxcfs/commit/9a65231c261d6ddf764fd4cde272bfaece974fba)
+- [ ] [<code>cpuview: resolve cpu cgroup path separately from cpuset</code>](https://github.com/lxc/lxcfs/commit/aad7798411691cacef09cdd00d3a05e1c1c4d1ec)
+- [ ] [<code>lxcfs: preparation for FUSE_INTERRUPT support</code>](https://github.com/lxc/lxcfs/commit/3ea25890c18014af29f29022af58cae61ef860eb)
+- [ ] [<code>lxcfs: add fuse interruptible locks</code>](https://github.com/lxc/lxcfs/commit/913c12e333bc3e6c24be6c5f13fe153bb7b3f958)
+- [ ] [<code>cpuview: start to use interruptible lock primitives</code>](https://github.com/lxc/lxcfs/commit/ecb10408a925af74efdc1e480fd1b184f8dbaf69)
+- [ ] [<code>github: Update for main branch</code>](https://github.com/lxc/lxcfs/commit/d822113a50ef43649abd21400538eeeb1c2b8cdf)
+- [ ] [<code>proc_loadavg: fix ABBA deadlock between read/refresh</code>](https://github.com/lxc/lxcfs/commit/362a5d52bf67ff58e07f970abd0e642b3bf8279b)
+- [ ] [<code>proc: Fix /proc/cpuinfo not respecting personality</code>](https://github.com/lxc/lxcfs/commit/fc8f593bda9eb4692daa07512ef6ba60dc39aded)
+- [ ] [<code>proc_loadavg.c: Fix incompatible integer to pointer conversion</code>](https://github.com/lxc/lxcfs/commit/1ce7d26de2f97acf4b979d7993d83ddfe53cc8ee)
+- [ ] [<code>cgroups: cleanup and remove unused cgroup2_devices code</code>](https://github.com/lxc/lxcfs/commit/823d5e30c409f0e7542e12d3db299f62c36d0255)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>loadavg: make cleanup of start_loadavg</code>](https://github.com/lxc/lxcfs/commit/e0533550b2c26c6d3dc86394f4eac99082587c9c)
+- [ ] [<code>cpuview: pass a correct argument to lxcfs_debug</code>](https://github.com/lxc/lxcfs/commit/a019277c7f325dd20678d23b8210156ef4bd2318)
+- [ ] [<code>lxcfs: Add startup message</code>](https://github.com/lxc/lxcfs/commit/926a698f730adce94190311675f724c2d5c9db62)
+- [ ] [<code>proc: fix MemAvailable in /proc/meminfo to exclude tmpfs files</code>](https://github.com/lxc/lxcfs/commit/5340b27fc543a1160dd6b763efe6c2e003b1c21d)
+- [ ] [<code>systemd: mkdir -p the target mount dir</code>](https://github.com/lxc/lxcfs/commit/50f7b5f7499c4a968c1be0eebe4f55b30190b49b)
+  - <sub>Keywords: <code>bin</code></sub>
+> Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
+
+#### [lxd-to-incus](https://github.com/lxc/incus): [refs/tags/v0.3.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v0.3.0...HEAD)
+
+- [ ] [<code>lxd-to-incus: Allow bypassing version check</code>](https://github.com/lxc/incus/commit/da0a88a2e22beb84d50988158455717838dbc6c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Record PID in backup and log</code>](https://github.com/lxc/incus/commit/0f2e8204921bdb22ae8852b92b02f1251039dd3c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[lxd-import] lxd/instance/drivers: Add comments for lxd-agent udev rules, systemd unit, and serial devices</code>](https://github.com/lxc/incus/commit/ead5fb6b07770b9271beb1d3042df6aa9cb0a7d0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu: consistently rely on $PATH to find binaries</code>](https://github.com/lxc/incus/commit/16569ff546d72a11c5b7137404ca0d7d854f0316)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu: mount the config drive as readonly</code>](https://github.com/lxc/incus/commit/f6527719fb0b094ebfad063b28ea80d22d92e53e)
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu: reduce the size of /run/incus_agent tmpfs and set nodev,nosuid,noatime</code>](https://github.com/lxc/incus/commit/4674f9ce70ab613062b116973d6f61bb4aaa3bd0)
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu: do not preserve the ownership during the cp to avoid chown</code>](https://github.com/lxc/incus/commit/d94b13340d21a71a52547ce9ad80610aca07c41b)
+- [ ] [<code>[lxd-import] lxd/instance/drivers: Cleanup old incus-agent symlink in install script</code>](https://github.com/lxc/incus/commit/196f5ac4075603688782fd0dcb1930e71041fd89)
+- [ ] [<code>[lxd-import] lxc/move: Prevent pool migration to block project migration</code>](https://github.com/lxc/incus/commit/30c3f68bc735c9ec8b68fdef2752d5620165b6c5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[lxd-import] lxd/instance_post: Determine root device from profiles in target project</code>](https://github.com/lxc/incus/commit/8036b58c883d169a8b357a6d60524510c9f6fbba)
+- [ ] [<code>[lxd-import] lxc/move: Throw an error when unsupported move flags are used</code>](https://github.com/lxc/incus/commit/f3573c278bf344ef4cbb9ef5813b46a3cb75238c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/43e567ce4a6566b667a7c638864017d793d0cb62)
+- [ ] [<code>incusd/auth/openfga: Use chunking</code>](https://github.com/lxc/incus/commit/28123a2efb7810e14f9acd6e3317a487a7c6f9a0)
+- [ ] [<code>docs: update iso import in instances_create</code>](https://github.com/lxc/incus/commit/3c9862ce0fbb2080bb14ff5bca8b3b25190c187a)
+- [ ] [<code>lxd-to-incus: Unmount any leftover mounts</code>](https://github.com/lxc/incus/commit/a581702173122e6636b5d7e5bb75db8af37443cf)
+- [ ] [<code>lxd-to-incus: Support LXD COPR</code>](https://github.com/lxc/incus/commit/12451b250aae5a7558574fec4bcbab53c77282c3)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Add new cephfs create keys</code>](https://github.com/lxc/incus/commit/32b653dfcfc99675ded1cc653d111484d6ef50ca)
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Update cephfs entity helpers</code>](https://github.com/lxc/incus/commit/d5a6f47ab2290aeb4b4289c40a44e71bead97aa7)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Add DefaultVMBlockFilesystemSize to driver Info struct</code>](https://github.com/lxc/incus/commit/98a2bfcc119143f3ba77e5ef27397c61785384e3)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/btrfs: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/83dfbab43803ba80c27499caa701869339fd8d67)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/ceph: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/2724271ce6f53c010abfa57656dfa3e88da64f02)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/cephfs: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/98ae1c7a1887d2327672b97d7b60075767bd3ebf)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/dir: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/d6171692e0201072fb1daab7a1d5eee2d4f97ebe)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/lvm: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/15f24a7f8c8befda4776c900e00513e787f0fb61)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/mock: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/0399c6cb6cd707f6fc8fd53f460625fb5597935e)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/zfs: Set drivers DefaultVMBlockFilesystemSize</code>](https://github.com/lxc/incus/commit/b974d3592674c9bfdd7769af91739778b3ccaada)
+- [ ] [<code>[lxd-import] lxd/storage/backend: Use drivers default VM block volume size for config filesystem</code>](https://github.com/lxc/incus/commit/b9f7cd9614e5d675e1e1627b6b3c6184c477acfb)
+- [ ] [<code>[lxd-import] lxd/storage/drivers/volume: Use drivers default VM block size for filesystem volume</code>](https://github.com/lxc/incus/commit/2a9f73751e95ea4cc6d62311b1c7f535b6a98394)
+- [ ] [<code>[lxd-import] lxd/project: Fix typo in comment</code>](https://github.com/lxc/incus/commit/cdbaa565f8339fdecdc7ed5e1803827e15646968)
+- [ ] [<code>[lxd-import] lxd/instance/drivers: Use the pools default VM block filesystem size</code>](https://github.com/lxc/incus/commit/4bf263ac54e2811641f4b59ddc0ac2c30d3c3e53)
+- [ ] [<code>[lxd-import] lxd/storage: Use the pools default VM block filesystem size</code>](https://github.com/lxc/incus/commit/e812f56864f9def617635e9ef64e9746a99b8634)
+- [ ] [<code>[lxd-import] lxd/project: Add TODO for instance limits accounting</code>](https://github.com/lxc/incus/commit/46ccb6467cb7a6e75535ed8a8d5f4448a3039d21)
+- [ ] [<code>[lxd-import] lxd/instance: Use stable random generator for temporary instance name</code>](https://github.com/lxc/incus/commit/077eb1c98ff518e9ae6a6429013fe0c04937ed2a)
+- [ ] [<code>[lxd-import] lxd/instance: Improve error message</code>](https://github.com/lxc/incus/commit/70d92cf6cf2f4aef720db62153d5dc7f7977c057)
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu: Run specific remote config only for Ceph backends</code>](https://github.com/lxc/incus/commit/a05a497fc3bb1a2945f6fae38cdfc8ed9d956d23)
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Create cephfs entities if keys specified</code>](https://github.com/lxc/incus/commit/ff81ace9a1f0786ee243cc84de36b8bcd16f9c26)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Revert osd/fs creation</code>](https://github.com/lxc/incus/commit/b516a1a8d1f14cabfcb08c5761ecb35df6bcd2b7)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>[lxd-import] doc/reference: Add doc reference for new config keys</code>](https://github.com/lxc/incus/commit/20a568762e01ed0f291a6d15507d53127bc124ca)
+- [ ] [<code>[lxd-import] shared/version: Add storage_cephfs_create_missing extension</code>](https://github.com/lxc/incus/commit/221826ee049292ad4506661aee98be50ea3a10d3)
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Collect subvolumes via filepath traversal if in nested container.</code>](https://github.com/lxc/incus/commit/3b0352cd7545c947e4324c0e128104656ba2303d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>[lxd-import] doc/howto: Make pool name consistent in iso tutorial.</code>](https://github.com/lxc/incus/commit/6d346ca88118c4c4cb3989dab4de9091883555dd)
+- [ ] [<code>[lxd-import] test/suites: Add cephfs create_missing test</code>](https://github.com/lxc/incus/commit/d416550c1bfbc808ff733376caea5e61f6015cb0)
+- [ ] [<code>incusd/auth/openfga: Bump timeouts to 10s</code>](https://github.com/lxc/incus/commit/27fb627d964fda23d482dce3108ea94ad1f0b5ef)
+- [ ] [<code>incusd/auth/openfga: Return correct error</code>](https://github.com/lxc/incus/commit/89894918cae1c6ed73c7fbd353d672a2ad6e6e00)
+- [ ] [<code>doc/userns-idmap.md: add a target/label for this file</code>](https://github.com/lxc/incus/commit/e27d7d7d8e25fe6aa423c05e6f0625c46923e3dc)
+- [ ] [<code>internal/server/db: Remove function `doDbScan`</code>](https://github.com/lxc/incus/commit/b2f214116cf82d1b8c7c067ba6307badca289af3)
+- [ ] [<code>internal/server: Use `Retry` function</code>](https://github.com/lxc/incus/commit/6b5d14e2d723487f31ebad41a290ff48099692c9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>internal/server/db: Unwrap dbQueryRowScan function</code>](https://github.com/lxc/incus/commit/7ed5f3a1aefab5e262cbe89b5740f32133d22227)
+- [ ] [<code>internal/server/db: Unwrap queryScan function</code>](https://github.com/lxc/incus/commit/bbcee43531a3e6302e04c0bf2ee725e67bdc7897)
+- [ ] [<code>internal/server/db: Remove exec function</code>](https://github.com/lxc/incus/commit/539eb221257e89c0b9f4ae44a6314752bb4241fb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/installing.md: add installation steps for Gentoo</code>](https://github.com/lxc/incus/commit/e8d98fc01f34c9842e509ead791d170e5842787b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add build instruction on AlpineLinux</code>](https://github.com/lxc/incus/commit/906c95ef44910fc04ff4ae83ffe2efa9b39bd943)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incusd/apparmor/rsync: Fix in nested containers</code>](https://github.com/lxc/incus/commit/f308453aab4e22b5eac1d0a8b3f3894c514e9401)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>doc/installing: Use tabs for package instructions</code>](https://github.com/lxc/incus/commit/46e16df6edf1fffbdff61cd85e270e5ce8e6ac77)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>doc/installing: Fix typo</code>](https://github.com/lxc/incus/commit/b134e32b4b316ea2d4e114f7be6d156f2d3b9379)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc/installing: Move source instructions to tab layout</code>](https://github.com/lxc/incus/commit/1d8d86770dc42629ab2753ec87ca568dded9906d)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incusd/metrics: Remove maps from internal API</code>](https://github.com/lxc/incus/commit/126e0bdac91cf81b2e22f030b5d31d67e50dd553)
+- [ ] [<code>internal/server/instance: Update for new internal metrics API</code>](https://github.com/lxc/incus/commit/ad47767dfa4b6be793c959bfc0c1301e46cc235d)
+- [ ] [<code>lxd-agent: Update to new internal metrics API</code>](https://github.com/lxc/incus/commit/5e54bdd2748d748ca4c4a88e77e75fc161326314)
+- [ ] [<code>doc/authentication: Update reference to command to match split of `config trust add` and `config trust add-certificate`</code>](https://github.com/lxc/incus/commit/e7258622e97c90bde6fea736b6c3279d7a294458)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/state: Add new ServerClustered field</code>](https://github.com/lxc/incus/commit/c9aded59842dbcd39da1f33fa45adb0567dc4107)
+- [ ] [<code>incusd: Use ServerClustered</code>](https://github.com/lxc/incus/commit/8161cb57ceadb3380f87e0c56c0c0786613dd65a)
+- [ ] [<code>incusd/auth/openfga: Only sync resources on the leader</code>](https://github.com/lxc/incus/commit/f5bc088d3d9517f5b3d5a4dfa08ba2eecf39054e)
+- [ ] [<code>incusd/auth: Make volumes location specific</code>](https://github.com/lxc/incus/commit/3583162af58e90889c7ef7fa52f1625a47f694bb)
+- [ ] [<code>incusd/auth: Make buckets location specific</code>](https://github.com/lxc/incus/commit/6ff77e47b4c6d47906deddce3a6553717a251626)
+- [ ] [<code>incusd/auth: Allow variable identifiers</code>](https://github.com/lxc/incus/commit/12478158ff084f755fc3de2dc9334dcd3082c3af)
+- [ ] [<code>incusd/db/cluster: Add location support to URLToEntityType</code>](https://github.com/lxc/incus/commit/0e0b89676e3265f443048a91d898ccb31f0cc218)
+- [ ] [<code>incusd/project: Pass location data</code>](https://github.com/lxc/incus/commit/72415f771cb39bdaefe888e1b2c74903e06417a2)
+- [ ] [<code>incusd/storage: Pass location data</code>](https://github.com/lxc/incus/commit/f94fa8b3aba850824e9a7cac5e2631763a6ae394)
+- [ ] [<code>incusd: Update for URLToEntityType</code>](https://github.com/lxc/incus/commit/5dc389b3df45f5e8690c473b613a961f6daf4f0c)
+- [ ] [<code>incusd: Remove duplicate permission check on bucket delete</code>](https://github.com/lxc/incus/commit/7c70d236625e9e23cb70242ed97af999d59f8f1a)
+- [ ] [<code>incusd: Update OpenFGA resources for location</code>](https://github.com/lxc/incus/commit/f3bf714cbc3623a7d4a048ba2a10cf7aa70ebd5a)
+- [ ] [<code>incusd: Update permission checks for buckets</code>](https://github.com/lxc/incus/commit/e97811d568acbeb7e1f2339c06507eddff602aad)
+- [ ] [<code>incusd: Update permission checks for volumes</code>](https://github.com/lxc/incus/commit/8260b53c71be5d289976763face5b508e6c5af50)
+- [ ] [<code>incusd/auth: Add location support in ObjectFromRequest</code>](https://github.com/lxc/incus/commit/12cddd458e935e03538d9674f9540ce895a805ac)
+- [ ] [<code>doc/lxd-to-incus: Add mention of group changes</code>](https://github.com/lxc/incus/commit/67dabbf25de9b54a5d50ec434531fd3cf6ec4fde)
+- [ ] [<code>build(deps): bump actions/labeler from 4 to 5</code>](https://github.com/lxc/incus/commit/88066edb205dd731a85f9f4fb2677cf26e762a7a)
+- [ ] [<code>doc: Add NixOS to wordlist</code>](https://github.com/lxc/incus/commit/9cc16f6161d2b0864ccc6ee8ff02c2b1c2026320)
+- [ ] [<code>doc/installing: init NixOS instructions</code>](https://github.com/lxc/incus/commit/f43cb4ad6512c27bfc70ac0a59c8db02bc3971a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Pin OpenFGA to v1.3.7</code>](https://github.com/lxc/incus/commit/c0e460f97c8f898a6b042de7497a7a5428314253)
+- [ ] [<code>github: Update for new labeler</code>](https://github.com/lxc/incus/commit/bf1af85bc8129ff5bc4a54ebec22866df0cd647e)
+- [ ] [<code>incusd/project: Add ImageProjectFromRecord</code>](https://github.com/lxc/incus/commit/f422872f0be501d793d68ae2d2d43d5849e72121)
+- [ ] [<code>incusd/auth/openfga: Fix diff logic to compare the correct objects</code>](https://github.com/lxc/incus/commit/abe80a2f3677029fd5e969e855ccc0ce5ebd24f2)
+- [ ] [<code>incusd/images: Perform access control after fingerprint expansion</code>](https://github.com/lxc/incus/commit/504471e673714100768c93771e9e78c67b6f8804)
+- [ ] [<code>incusd: Add expansion of image and certificate fingerprints</code>](https://github.com/lxc/incus/commit/c4c246deb83dbbfde5ad0876eaa360ad7edb74b9)
+- [ ] [<code>incusd: Add expansion of project names for inheritance</code>](https://github.com/lxc/incus/commit/0a45f7791342d1d06be3b6b05838dc4a8968784e)
+- [ ] [<code>incusd/images: Record downloaded images with authorizer</code>](https://github.com/lxc/incus/commit/94505aa720e13f389414c779adf2c7e5cd9abc20)
+- [ ] [<code>incusd/images: Don't use request context in authorizer for background operations</code>](https://github.com/lxc/incus/commit/2ba8cf5126046c12898d53f98225e4dd71af51a7)
+- [ ] [<code>incusd/projects: Don't use request context in authorizer for background operations</code>](https://github.com/lxc/incus/commit/deab6407b80e086a10dda17a803ecf9a8a116a23)
+- [ ] [<code>incusd/storage/drivers: Add singular helper for volume types</code>](https://github.com/lxc/incus/commit/e4964ef73f6d3b94502c41899020ebe48164a3ab)
+- [ ] [<code>incusd/storage: Update authorizer for all operations</code>](https://github.com/lxc/incus/commit/a7431c6973da17a25b190d1038b71b5aa920c4a9)
+- [ ] [<code>incusd/auth/openfga: Handle offline servers</code>](https://github.com/lxc/incus/commit/8697f4f8ec95a4bc996dc5ef2df4c05da48b611d)
+- [ ] [<code>incusd/auth/openfga: Allow for later resources refresh</code>](https://github.com/lxc/incus/commit/fca5c563d0a3071a9091c98007c55a11aaaa6524)
+- [ ] [<code>incusd/auth/openfga: Re-sync resources hourly</code>](https://github.com/lxc/incus/commit/8c0effd5851f4b9b44dbe4c9219a0597fea9d8c3)
+- [ ] [<code>incusd/auth/openfga: Fix handling of cluster members</code>](https://github.com/lxc/incus/commit/ed6a5032e2051762fc25e21ae61fbec8ee2af8fb)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3204,6 +3736,33 @@
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
+
+#### [raft-canonical](https://github.com/canonical/raft): [refs/tags/v0.18.0 → HEAD](https://github.com/canonical/raft/compare/refs/tags/v0.18.0...HEAD)
+
+- [ ] [<code>Only publish to the PPA from master</code>](https://github.com/canonical/raft/commit/e34a42f28ac7063f23669ab6c8ffe636eec45b21)
+- [ ] [<code>uv_fs: EAGAIN is no hard error when probing Async IO.</code>](https://github.com/canonical/raft/commit/0fea629129862383100adc2c90811a08e65ffdb1)
+- [ ] [<code>test_uv_writer: btrfs workaround no longer needed.</code>](https://github.com/canonical/raft/commit/6c73c8160e7535c92f64e4db8bbcfc7b176a98ab)
+- [ ] [<code>replication: Try to reinstate entries that have been truncated away</code>](https://github.com/canonical/raft/commit/8be539d1850784683f9c87341e561728f4ac62cb)
+- [ ] [<code>log: Fix some docstrings</code>](https://github.com/canonical/raft/commit/67cff3146b5a29b9eab89a94c0c86b94975d5b07)
+- [ ] [<code>test: More fine-grained faults</code>](https://github.com/canonical/raft/commit/ccab7cd25a7cf312c23fc021e3bb74f2ac2b4044)
+- [ ] [<code>test: Support send latency</code>](https://github.com/canonical/raft/commit/c14a609bbeea228e7cc0c47106cb59e5ee2d8c07)
+- [ ] [<code>test: Fix randomness</code>](https://github.com/canonical/raft/commit/71ceacdbaca0274a99d0daaf39ae42a47a6cb515)
+- [ ] [<code>Add a test for logReinstate</code>](https://github.com/canonical/raft/commit/0cd0265e7f313a2f788799a8d5c1c9751d036350)
+- [ ] [<code>Initial log format rework</code>](https://github.com/canonical/raft/commit/9bdce2911ac100f54410afa593b619e261ea4d34)
+- [ ] [<code>raft: Add user-supplied state_cb</code>](https://github.com/canonical/raft/commit/65351619b03844b5d7f8fe6cbb12ebb70cfa8d9a)
+
+#### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.18.2 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.18.2...HEAD)
+
+- [ ] [<code>replication: Delay firing successfully completed requests</code>](https://github.com/cowsql/raft/commit/f66ae5716606031ab16f931c9ef697030dfedfa1)
+- [ ] [<code>legacy: Don't allocate unnecessary struct raft_message object</code>](https://github.com/cowsql/raft/commit/57b9a455f2cc61de439514b70a3ee967f68f0017)
+- [ ] [<code>uv: Trace truncation only when it is actually triggered</code>](https://github.com/cowsql/raft/commit/25fc6946a66f92020658eb49db3eb898a86f8906)
+- [ ] [<code>v1: Trigger callbacks with prepare/check uv handles</code>](https://github.com/cowsql/raft/commit/99cd85d4b3547154a9b29f64a5fdf79e44f9b8c5)
+- [ ] [<code>v1: Trigger unsuccessful client callbacks outside of raft_step()</code>](https://github.com/cowsql/raft/commit/9b188c347d3fbe9fb3bdeca2a0f433cb4b1f22d6)
+- [ ] [<code>v1: Trigger leadership transfer callbacks after raft_step()</code>](https://github.com/cowsql/raft/commit/886e7e2520c6a547ec0535b4c6fa7ef352ac5bd3)
+- [ ] [<code>v1: Trigger timeout promote callbacks after raft_step()</code>](https://github.com/cowsql/raft/commit/98adea7eb1807c5a00d2aafddb9f84b9880e833d)
+- [ ] [<code>legacy: Use metadata object instead of snapshot in takeSnapshotCb</code>](https://github.com/cowsql/raft/commit/f66ece0795a4dd7943ed16c7b14e31f659979285)
+- [ ] [<code>legacy: Delay calling step_cb() if a request failed with NOSPACE</code>](https://github.com/cowsql/raft/commit/b92c209d5ebc0d8447e26fa842239d21f45136ce)
+- [ ] [<code>v1: Trigger client callbacks after `raft_step()` (#103)</code>](https://github.com/cowsql/raft/commit/055a0b2bfb259367a53f72d9a9731244f9131984)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
