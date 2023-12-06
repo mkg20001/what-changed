@@ -2089,6 +2089,15 @@
 - [ ] [<code>Fixing a test since we use html</code>](https://github.com/canonical/firmware-updater/commit/321b7d76dde0e50b6a58cf9434cd85e70f0701a5)
 - [ ] [<code>Fix dark mode chip colors</code>](https://github.com/canonical/firmware-updater/commit/eea05f4c082ba039f68e10183023d48a4d6a283f)
 - [ ] [<code>Fix content alignment</code>](https://github.com/canonical/firmware-updater/commit/d652f7bcbe01e3ad39afd236647cbf54e96a4c71)
+- [ ] [<code>feat:  dry run</code>](https://github.com/canonical/firmware-updater/commit/14b5a19c6625ae7658ffd213d3c84377c7632e40)
+- [ ] [<code>refactor: refactoring the dry-run mode to not interfere with the fwupd service</code>](https://github.com/canonical/firmware-updater/commit/04e00d3f63e90422f20ece3b569425b3d14c5587)
+- [ ] [<code>feat: Renaming classes and using args instead of env variable</code>](https://github.com/canonical/firmware-updater/commit/e2bc710badd2e0db63e4cb35054eb77bd318747d)
+- [ ] [<code>refactor: Renaming the OperationHandler to FwupdService</code>](https://github.com/canonical/firmware-updater/commit/0f2344981ad39b718fb33a64dc429ce04481058e)
+- [ ] [<code>refactor: Organizing imports.</code>](https://github.com/canonical/firmware-updater/commit/6033e5ac03966400b18d4e805d67a8a84fcfe02d)
+- [ ] [<code>tests: Making codecov happy</code>](https://github.com/canonical/firmware-updater/commit/8af7b7fbb4409c57d9d790aa23af0500e40d87d1)
+- [ ] [<code>refactor: Fixing flutter analyze issues</code>](https://github.com/canonical/firmware-updater/commit/ad9c2cc168d02c0506606a7721f0ff22e1196132)
+- [ ] [<code>tests: Adding a tmp yaml file for testing simulate mode.</code>](https://github.com/canonical/firmware-updater/commit/b1fc404325f5290eae8228c5b7c7d1a0fee6e83e)
+- [ ] [<code>refactor: Removing unused imports.</code>](https://github.com/canonical/firmware-updater/commit/391ec6fd01807c3fde67f8dd41ef9de6b9487f2f)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
