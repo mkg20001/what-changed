@@ -2061,6 +2061,9 @@
 - [ ] [<code>Logging and code style</code>](https://github.com/dbeaver/dbeaver/commit/7bc60dffabdb518a0bdfcbd84ae57db55e7aca13)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/01c4a1c875ff823fad6d51c262e51bda3bc3dcd7)
 - [ ] [<code>Private project icon update</code>](https://github.com/dbeaver/dbeaver/commit/6916c6472d0089686a19f03921c3a86c6877b6a4)
+- [ ] [<code>dbeaver/pro#2209 New document create + empty collection attributes show (#22121)</code>](https://github.com/dbeaver/dbeaver/commit/1b1f1ae266dc3b9be491b4e6cb8722cd9aacd7b9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2209 New cell value create + empty collection attributes show</code>](https://github.com/dbeaver/dbeaver/commit/94b2b4e852e821c5cf780ea405ec2dbcde3e83ec)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2371,6 +2374,9 @@
 - [ ] [<code>feat: Enable experimental suport for dehydrated devices</code>](https://github.com/krille-chan/fluffychat/commit/bdb15625e331312b4c9b4c43cc100c5f3d3663c1)
 - [ ] [<code>build: Changelog for 1.16.0</code>](https://github.com/krille-chan/fluffychat/commit/f79143cffb4ed1051d1fcccc17c67cece9e06b07)
   - <sub>Tags: <code>rc1.16.0-1</code></sub>
+- [ ] [<code>docs: Allow blank issues</code>](https://github.com/krille-chan/fluffychat/commit/76ab8c6d1a297262b6bbe5e36ddde85c8e385aea)
+- [ ] [<code>fix: Workaround for flutter cannot wait on navigator push</code>](https://github.com/krille-chan/fluffychat/commit/73038ad5d1dbaef139aec1f8e785326a22885741)
+  - <sub>Tags: <code>rc1.16.0-2</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3264,6 +3270,13 @@
 - [ ] [<code>doc: Fix url to documentation</code>](https://github.com/lxc/incus/commit/e56559bbd0dccab8cf3d28f6dbcd58a7a160cf92)
 - [ ] [<code>doc/cloud-init: Fix spellcheck error</code>](https://github.com/lxc/incus/commit/d883bf8adfac3e017d7e85567ba000df02e6a2a1)
 - [ ] [<code>shared: remove shiftfs</code>](https://github.com/lxc/incus/commit/a5b6339852f57e2e6b1529c88c47635a8d9b9437)
+- [ ] [<code>api: ovn_ssl_config</code>](https://github.com/lxc/incus/commit/bfd668054d545e24fe65dc31249f1f4ced1c5080)
+- [ ] [<code>incusd/cluster/config: Add OVN SSL config keys</code>](https://github.com/lxc/incus/commit/ac71aa79ee0306fbc8236cdea93d38b02605ca8b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/a36b5e50bf91c4c912e252f765f8ce5deb3639fc)
+- [ ] [<code>incusd/network/openvswitch: Support OVN SSL config keys</code>](https://github.com/lxc/incus/commit/6db6715ed43c765eab62b6b643d1279f8bd948b2)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>internal/linux: Implement CreateMemfd</code>](https://github.com/lxc/incus/commit/d636126d8b5d555bb8f6e75544b122edd928c510)
+- [ ] [<code>incusd/network/openvswitch: Port to memfd</code>](https://github.com/lxc/incus/commit/70e59be805c4cf7477199b6be1c40e16e24975a5)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
