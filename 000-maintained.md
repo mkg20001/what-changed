@@ -2057,6 +2057,10 @@
 - [ ] [<code>dbeaver/pro#1646 Always show DBeaver toolbars and menus for standalone products</code>](https://github.com/dbeaver/dbeaver/commit/edabda0be3cd4a92dcbdc14055eb7567f51a7a14)
 - [ ] [<code>Revert "dbeaver/pro#1646 Always show DBeaver toolbars and menus for standalone products"</code>](https://github.com/dbeaver/dbeaver/commit/e0aabaa36988e7089df816a2b3eeeb5fab35c045)
 - [ ] [<code>dbeaver/pro#1646 Always show DBeaver toolbars and menus for standalone products (#22113)</code>](https://github.com/dbeaver/dbeaver/commit/50a33fd6ffbdc3b03e6ae52b1dbc3461ec7ba205)
+- [ ] [<code>dbeaver/dbeaver#21733 revert to default engine on non existing configuration (#22003)</code>](https://github.com/dbeaver/dbeaver/commit/6541a308aa5468bdb919cdf819d67fe116f1b6c8)
+- [ ] [<code>Logging and code style</code>](https://github.com/dbeaver/dbeaver/commit/7bc60dffabdb518a0bdfcbd84ae57db55e7aca13)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/01c4a1c875ff823fad6d51c262e51bda3bc3dcd7)
+- [ ] [<code>Private project icon update</code>](https://github.com/dbeaver/dbeaver/commit/6916c6472d0089686a19f03921c3a86c6877b6a4)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2145,6 +2149,8 @@
 - [ ] [<code>chore(deps): update asdf-vm/actions action to v3</code>](https://github.com/canonical/firmware-updater/commit/aaea23c6c086ca423a6d5fed10a6439a3c2e046d)
 - [ ] [<code>chore(deps): update dependency ubuntu to v22</code>](https://github.com/canonical/firmware-updater/commit/232352a453a0cf0758feea599cbbc37e02063b5a)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Revert "fix: Fix launch-firmware-updater.sh directory"</code>](https://github.com/canonical/firmware-updater/commit/e60e3a98f2d52f047627e0752648abbd47c24bc8)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -3227,6 +3233,37 @@
 - [ ] [<code>incusd/auth/openfga: Fix handling of cluster members</code>](https://github.com/lxc/incus/commit/ed6a5032e2051762fc25e21ae61fbec8ee2af8fb)
 - [ ] [<code>incusd: Use expanded cert fingerprint in authorizer check</code>](https://github.com/lxc/incus/commit/48325541674a6e7b0cecb5609c87ca45815f2550)
 - [ ] [<code>Revert "github: Pin OpenFGA to v1.3.7"</code>](https://github.com/lxc/incus/commit/2377431fbfaa6cb9cbf8ed550a34c25299e10a1b)
+- [ ] [<code>[lxd-import] doc/instances: change pool name to be consistent</code>](https://github.com/lxc/incus/commit/4a7548ff20e74825a3e18f7a5a3359cdc8418d01)
+- [ ] [<code>[lxd-import] lxd/instance_post: Retain root disk device if not explicitly changed</code>](https://github.com/lxc/incus/commit/f4068a152c0663837242b6da5baa12411ccdfc13)
+- [ ] [<code>[lxd-import] test: Add tests for server-side instance move</code>](https://github.com/lxc/incus/commit/3dd255cea8c365a9a26cec965c182bc2da376727)
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu_cmd: Return clean EOF error</code>](https://github.com/lxc/incus/commit/13e21a26099cf8be6656647340d7e972b24def13)
+- [ ] [<code>[lxd-import] github: have curl fail instead of feeding bogus data on download error</code>](https://github.com/lxc/incus/commit/cb6264f1fdf7e4a298bfb3f1edb04673e700313a)
+- [ ] [<code>[lxd-import] api: Add API extension for improved server-side move</code>](https://github.com/lxc/incus/commit/9f1e5086b8e8a9d6443d5185a42905c9f438934d)
+- [ ] [<code>[lxd-import] .github/workflows: remove shiftfs</code>](https://github.com/lxc/incus/commit/b389b8981e80a64d3887266166064bcfb8fe0c21)
+- [ ] [<code>[lxd-import] lxd/metadata: remove shiftfs</code>](https://github.com/lxc/incus/commit/bf86673ee6140a12d9e1462e7fefdbc29b197526)
+- [ ] [<code>[lxd-import] lxd/instance/drivers: Set correct RBD content type for qemu drives</code>](https://github.com/lxc/incus/commit/84378d05bff07008e9ccb6f0b10737d2cf9bd477)
+- [ ] [<code>[lxd-import] lxd/db/instances: Fix instance names from project not retrieved</code>](https://github.com/lxc/incus/commit/0c22685b3e190fc3a85f652a3f172ca8d349e4df)
+- [ ] [<code>[lxd-import] lxd/cluster/config: Add missing description default values</code>](https://github.com/lxc/incus/commit/20f4574b317121791b57b356fdecd5d3e3a9333b)
+- [ ] [<code>[lxd-import] lxd/node: Add missing description default values</code>](https://github.com/lxc/incus/commit/47f41812c94f65c3be4eebab04bbd06737ea86fd)
+- [ ] [<code>[lxd-import] Update metadata</code>](https://github.com/lxc/incus/commit/5bd7dfc733dab2ba040492065a059c644fa21055)
+- [ ] [<code>[lxd-import] doc: remove shiftfs</code>](https://github.com/lxc/incus/commit/59e396a98427b14906213157bc7360809428417e)
+- [ ] [<code>tests: Re-introduce storage shifting test</code>](https://github.com/lxc/incus/commit/d39415ebce0f659c79997190be93693e92d61f2e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>[lxd-import] shared/api/instance: Expand InstancePost structure</code>](https://github.com/lxc/incus/commit/178c2ebd154286d89c6abf7f7362032a11fd7337)
+- [ ] [<code>[lxd-import] lxc/move: Respect all flags on server-side move</code>](https://github.com/lxc/incus/commit/a0f6c5e6a876f65127351b5458f03ea2c70ab890)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[lxd-import] lxd/instance_post: Respect provided config, device and profile overwrites on move</code>](https://github.com/lxc/incus/commit/00535c7d0ca04fad6d54d272943332db1b74fa74)
+- [ ] [<code>[lxd-import] tests: Add server-side move tests</code>](https://github.com/lxc/incus/commit/e0e2793b4639222cdcaa9dceaecf14cd7553e15b)
+- [ ] [<code>[lxd-import] doc: Update API</code>](https://github.com/lxc/incus/commit/c3585c423e2c5d3fadfcd61998c4ac1de55e41bc)
+- [ ] [<code>[lxd-import] i18n: Update translations</code>](https://github.com/lxc/incus/commit/0bcc96b0b037df1e7f0bf67eedbb8eb89dfe5a4d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>[lxd-import] lxc/move: Overwrite profiles only if explicitly provided by the user</code>](https://github.com/lxc/incus/commit/55b79fc18ca262a3b0faecbb2bca11dbf8ecdf42)
+- [ ] [<code>[lxd-import] lxd/instance_post: Retain previous profiles on instance move</code>](https://github.com/lxc/incus/commit/20a8d9e94e80a9dec07e95f185933f8d4707cdf8)
+- [ ] [<code>[lxd-import] tests: Improve tests for instance move</code>](https://github.com/lxc/incus/commit/3d7f2dee8d5b0942d95f23afda3ee018fd85a8b0)
+- [ ] [<code>[lxd-import] lxd/cluster: Retry cluster join if cluster is busy</code>](https://github.com/lxc/incus/commit/b8f6c08e72a934fc4396d7f4151393833792f0ce)
+- [ ] [<code>doc: Fix url to documentation</code>](https://github.com/lxc/incus/commit/e56559bbd0dccab8cf3d28f6dbcd58a7a160cf92)
+- [ ] [<code>doc/cloud-init: Fix spellcheck error</code>](https://github.com/lxc/incus/commit/d883bf8adfac3e017d7e85567ba000df02e6a2a1)
+- [ ] [<code>shared: remove shiftfs</code>](https://github.com/lxc/incus/commit/a5b6339852f57e2e6b1529c88c47635a8d9b9437)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
