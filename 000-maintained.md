@@ -2741,6 +2741,8 @@
 - [ ] [<code>Move YUV-RGB conversion from avif_decode_fuzzer (#1856)</code>](https://github.com/AOMediaCodec/libavif/commit/83e99d2060de823448011d7279c090d45bf4b2fa)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>clang-format tests/oss-fuzz/ as C++ (#1857)</code>](https://github.com/AOMediaCodec/libavif/commit/6f93fdb39fc278a1a3a005778bcbb99d2b0d2492)
+- [ ] [<code>ext: Checkout libaom v3.8.0</code>](https://github.com/AOMediaCodec/libavif/commit/a5e2e2124822de711478444a2e62d89545e5d25c)
+- [ ] [<code>read.c: Update a couple of incorrect comments</code>](https://github.com/AOMediaCodec/libavif/commit/15fa36c4c1b1beb409ec7ef44e41fadf8a38b944)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3223,6 +3225,8 @@
 - [ ] [<code>incusd/auth/openfga: Allow for later resources refresh</code>](https://github.com/lxc/incus/commit/fca5c563d0a3071a9091c98007c55a11aaaa6524)
 - [ ] [<code>incusd/auth/openfga: Re-sync resources hourly</code>](https://github.com/lxc/incus/commit/8c0effd5851f4b9b44dbe4c9219a0597fea9d8c3)
 - [ ] [<code>incusd/auth/openfga: Fix handling of cluster members</code>](https://github.com/lxc/incus/commit/ed6a5032e2051762fc25e21ae61fbec8ee2af8fb)
+- [ ] [<code>incusd: Use expanded cert fingerprint in authorizer check</code>](https://github.com/lxc/incus/commit/48325541674a6e7b0cecb5609c87ca45815f2550)
+- [ ] [<code>Revert "github: Pin OpenFGA to v1.3.7"</code>](https://github.com/lxc/incus/commit/2377431fbfaa6cb9cbf8ed550a34c25299e10a1b)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
