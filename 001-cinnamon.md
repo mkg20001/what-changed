@@ -7,7 +7,13 @@
 - [ ] [<code>main.js: Don't initialize monitorLabeler in an x11 session.</code>](https://github.com/linuxmint/cinnamon/commit/f83fe2b4e3aa2545f06b1bd480bcff163001a35d)
 - [ ] [<code>Update bug report template with Wayland issue tracker</code>](https://github.com/linuxmint/cinnamon/commit/b7f7ef9e33cce5385a686fc232b2b6e07435dba6)
 - [ ] [<code>cinnamon-global/clipboard: use the MetaDisplay's selection object.</code>](https://github.com/linuxmint/cinnamon/commit/ba15e7eea3670d5053452b6630385d65c6e3217d)
+- [ ] [<code>fix: install actions from the correct folder (#11965)</code>](https://github.com/linuxmint/cinnamon/commit/9eeeece432599f743c19c1fef940b0d43463d3b6)
+- [ ] [<code>improve xlet download and autostart run icons (#11918)</code>](https://github.com/linuxmint/cinnamon/commit/545de4519c092035073c84a5005c2b288c6a30d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix Main.activateWindow() for windows with normal transient children (#11966)</code>](https://github.com/linuxmint/cinnamon/commit/eff19d29f88d1a24368b3f1a3bc948a58217ba2d)
+- [ ] [<code>actions: Ignore miscellaneous files in the install folder.</code>](https://github.com/linuxmint/cinnamon/commit/21b8c3f2fc57e558757f710929d15ec8774807c3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
