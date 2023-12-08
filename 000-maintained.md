@@ -2064,6 +2064,7 @@
 - [ ] [<code>dbeaver/pro#2209 New document create + empty collection attributes show (#22121)</code>](https://github.com/dbeaver/dbeaver/commit/1b1f1ae266dc3b9be491b4e6cb8722cd9aacd7b9)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2209 New cell value create + empty collection attributes show</code>](https://github.com/dbeaver/dbeaver/commit/94b2b4e852e821c5cf780ea405ec2dbcde3e83ec)
+- [ ] [<code>Project ordering fix</code>](https://github.com/dbeaver/dbeaver/commit/57dd446701282f25071aec4df9b86a387d74e772)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2376,7 +2377,12 @@
   - <sub>Tags: <code>rc1.16.0-1</code></sub>
 - [ ] [<code>docs: Allow blank issues</code>](https://github.com/krille-chan/fluffychat/commit/76ab8c6d1a297262b6bbe5e36ddde85c8e385aea)
 - [ ] [<code>fix: Workaround for flutter cannot wait on navigator push</code>](https://github.com/krille-chan/fluffychat/commit/73038ad5d1dbaef139aec1f8e785326a22885741)
-  - <sub>Tags: <code>rc1.16.0-2</code></sub>
+  - <sub>Tags: <code>rc1.16.0-2</code> <code>v1.16.0</code></sub>
+- [ ] [<code>fix: Web SSO</code>](https://github.com/krille-chan/fluffychat/commit/f903d54d525fac94512b96275ee9480b39b2d391)
+- [ ] [<code>ci: Only release web on releases and add nightly builds</code>](https://github.com/krille-chan/fluffychat/commit/07c9b832cb07258391cb86a1a53ef6d54c8010a6)
+- [ ] [<code>feat: Try out FluffyBox 2 database</code>](https://github.com/krille-chan/fluffychat/commit/129c1ab697f0af03e39f54680487da29fdd7a3c1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Display migration notification</code>](https://github.com/krille-chan/fluffychat/commit/a190f7de088ce2ef315714d954763a4c01408b29)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
