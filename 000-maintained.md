@@ -3277,6 +3277,8 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>internal/linux: Implement CreateMemfd</code>](https://github.com/lxc/incus/commit/d636126d8b5d555bb8f6e75544b122edd928c510)
 - [ ] [<code>incusd/network/openvswitch: Port to memfd</code>](https://github.com/lxc/incus/commit/70e59be805c4cf7477199b6be1c40e16e24975a5)
+- [ ] [<code>internal/server/response: Don't re-send headers when streaming</code>](https://github.com/lxc/incus/commit/3515a799214894318f06159369dcfa2eb1ff5215)
+- [ ] [<code>incusd/operations: Use ManualResponse to send headers early</code>](https://github.com/lxc/incus/commit/e5a0594c5f4c5995e7a52bdba70976caf5743201)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
