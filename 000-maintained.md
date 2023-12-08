@@ -2761,6 +2761,10 @@
 - [ ] [<code>clang-format tests/oss-fuzz/ as C++ (#1857)</code>](https://github.com/AOMediaCodec/libavif/commit/6f93fdb39fc278a1a3a005778bcbb99d2b0d2492)
 - [ ] [<code>ext: Checkout libaom v3.8.0</code>](https://github.com/AOMediaCodec/libavif/commit/a5e2e2124822de711478444a2e62d89545e5d25c)
 - [ ] [<code>read.c: Update a couple of incorrect comments</code>](https://github.com/AOMediaCodec/libavif/commit/15fa36c4c1b1beb409ec7ef44e41fadf8a38b944)
+- [ ] [<code>Fix reading alt image metadata when enableDecodingGainMap is off. (#1862)</code>](https://github.com/AOMediaCodec/libavif/commit/017dd2cefeb9c85d6d8c7466e2ebe1e4d4f7b754)
+- [ ] [<code>Print useBaseColorSpace. (#1863)</code>](https://github.com/AOMediaCodec/libavif/commit/775915a442b9005b5221fd9938f53b4d9b01393d)
+- [ ] [<code>Import third_party/libyuv def473f (#1860)</code>](https://github.com/AOMediaCodec/libavif/commit/225a77215eb80af4d8b9c67d15b1e112e17b8e8a)
+- [ ] [<code>No use-of-uninitialized-value in fuzztest_yuvrgb (#1864)</code>](https://github.com/AOMediaCodec/libavif/commit/4803d5ae970f13416498fac03b4c24af63722431)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3740,11 +3744,15 @@
 
 > Dropped python310Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
+> Dropped python310Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [python310Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
+> Dropped python310Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [python310Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
 
@@ -3929,6 +3937,8 @@
 - [ ] [<code>Custom FFmpeg commands #600, cairo crash experiment #577</code>](https://github.com/axcore/tartube/commit/ec0dd6ac7290764ae56fb4db674c24f5699707bf)
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
+
+> Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [twinkle](https://github.com/LubosD/twinkle): [355813d5640ad58c84dc063826069384470ce310 → HEAD](https://github.com/LubosD/twinkle/compare/355813d5640ad58c84dc063826069384470ce310...HEAD)
