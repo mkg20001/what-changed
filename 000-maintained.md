@@ -2065,6 +2065,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2209 New cell value create + empty collection attributes show</code>](https://github.com/dbeaver/dbeaver/commit/94b2b4e852e821c5cf780ea405ec2dbcde3e83ec)
 - [ ] [<code>Project ordering fix</code>](https://github.com/dbeaver/dbeaver/commit/57dd446701282f25071aec4df9b86a387d74e772)
+- [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/2996fefa6559af8d0c3761ac1b403bcb94fd5659)
+- [ ] [<code>Redundant localization removed</code>](https://github.com/dbeaver/dbeaver/commit/a7cb8c186de115ff18d65b3c5b125b2397427748)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
