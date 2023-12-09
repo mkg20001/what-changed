@@ -3291,6 +3291,26 @@
 - [ ] [<code>incusd/network/openvswitch: Port to memfd</code>](https://github.com/lxc/incus/commit/70e59be805c4cf7477199b6be1c40e16e24975a5)
 - [ ] [<code>internal/server/response: Don't re-send headers when streaming</code>](https://github.com/lxc/incus/commit/3515a799214894318f06159369dcfa2eb1ff5215)
 - [ ] [<code>incusd/operations: Use ManualResponse to send headers early</code>](https://github.com/lxc/incus/commit/e5a0594c5f4c5995e7a52bdba70976caf5743201)
+- [ ] [<code>incus: Fix typo in comment</code>](https://github.com/lxc/incus/commit/a8333ab2495efd3aacf87e2b8b37f702dc21a84f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[lxd-import] lxd/storage/s3/miniod: Discover port using IPv4 address family</code>](https://github.com/lxc/incus/commit/8f9cc76a07f8bc50aac067c507e00b7d6c404df0)
+- [ ] [<code>[lxd-import] lxd-agent: Prevent panic when dev-incus server is stopped</code>](https://github.com/lxc/incus/commit/a89a9e9b0f4f8a312c019b5379fbbfa374bac349)
+- [ ] [<code>[lxd-import] lxd/storage/drivers: Always copy Ceph VMs filesystem volume</code>](https://github.com/lxc/incus/commit/e76fe5e8c5765f07a57a8d7f7002de1cbfccd866)
+- [ ] [<code>[lxd-import] doc/cloud-init: overwrite link text to make spell checker happy</code>](https://github.com/lxc/incus/commit/a4f4de27b7fb92208fe2b8001cb81923d0bc5621)
+- [ ] [<code>incusd/storage: Use Shutdown context for import from backup</code>](https://github.com/lxc/incus/commit/6cb220fd46b8dbb61cabd4aa03e535d74b3ce3ea)
+- [ ] [<code>incusd/storage: Fix size check for ISO volumes</code>](https://github.com/lxc/incus/commit/4feeb19fe3a2507e7b4198ab97d47cbae8ca1937)
+- [ ] [<code>[lxd-import] client: Always use event listener for operations.</code>](https://github.com/lxc/incus/commit/2a072579c23ad348a87d3f46f959c8d58b3fdd33)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>[lxd-import] lxd/instance/drivers/qemu: Load storage pool before accessing it</code>](https://github.com/lxc/incus/commit/48071b1efc27a2c5d46173b871e135654907d316)
+- [ ] [<code>lxd-to-incus: Add security.devlxd to deprecated keys</code>](https://github.com/lxc/incus/commit/9d57c66ce3a4aecac829ae1f41285bcba17df08e)
+- [ ] [<code>lxd-to-incus: Delete old OVN bridges</code>](https://github.com/lxc/incus/commit/9089a80d8bb9f5ec4b44b09a98242e136fe757d3)
+- [ ] [<code>lxd-to-incus: Mangle project and profile descriptions</code>](https://github.com/lxc/incus/commit/b38e618f7a62b7103cbbffbf1860441e20f798c1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "[lxd-import] client: Always use event listener for operations."</code>](https://github.com/lxc/incus/commit/9bfec57926ac460f6676f8a441d3e6d84a65124a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>lxd-to-incus: Don't spam the output with command failures</code>](https://github.com/lxc/incus/commit/3e4ec308d9340c9f091ffc9013db5df2a3849875)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Properly set cdrom type</code>](https://github.com/lxc/incus/commit/0a865e0c280efa7e6eed741a1e4979750216477e)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
