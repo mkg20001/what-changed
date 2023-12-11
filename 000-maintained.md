@@ -2388,6 +2388,7 @@
 - [ ] [<code>feat: Try out FluffyBox 2 database</code>](https://github.com/krille-chan/fluffychat/commit/129c1ab697f0af03e39f54680487da29fdd7a3c1)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: Display migration notification</code>](https://github.com/krille-chan/fluffychat/commit/a190f7de088ce2ef315714d954763a4c01408b29)
+- [ ] [<code>build: Update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/655193e569d374565e89b1ae0b31e48ceec10166)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2770,6 +2771,9 @@
 - [ ] [<code>Print useBaseColorSpace. (#1863)</code>](https://github.com/AOMediaCodec/libavif/commit/775915a442b9005b5221fd9938f53b4d9b01393d)
 - [ ] [<code>Import third_party/libyuv def473f (#1860)</code>](https://github.com/AOMediaCodec/libavif/commit/225a77215eb80af4d8b9c67d15b1e112e17b8e8a)
 - [ ] [<code>No use-of-uninitialized-value in fuzztest_yuvrgb (#1864)</code>](https://github.com/AOMediaCodec/libavif/commit/4803d5ae970f13416498fac03b4c24af63722431)
+- [ ] [<code>Fix avifImageYUVToRGB() job count (#1865)</code>](https://github.com/AOMediaCodec/libavif/commit/633cbfdd7803b65e4e80a64047070001f9abe4ba)
+- [ ] [<code>Add color conversion utilities. (#1861)</code>](https://github.com/AOMediaCodec/libavif/commit/5c9bb26bd5a02f3d6b5902528616b71cf15b5cb4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
