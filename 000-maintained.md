@@ -2068,6 +2068,14 @@
 - [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/2996fefa6559af8d0c3761ac1b403bcb94fd5659)
 - [ ] [<code>Redundant localization removed</code>](https://github.com/dbeaver/dbeaver/commit/a7cb8c186de115ff18d65b3c5b125b2397427748)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#2186 update certificate error message (#22061)</code>](https://github.com/dbeaver/dbeaver/commit/1cbb57651a4ec693dbe8f9f48b4beccf2a63f5b4)
+- [ ] [<code>#21907 text editor limit improvements (#22037)</code>](https://github.com/dbeaver/dbeaver/commit/2cdba3fc5d2d174365f345a07012dcc7a57f5e50)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2198 Improve value selector panel (#22062)</code>](https://github.com/dbeaver/dbeaver/commit/e7f533f8016c2a0813998e55a65c0698dc11d63b)
+- [ ] [<code>dbeaver/pro#2204 code cleanup (#22088)</code>](https://github.com/dbeaver/dbeaver/commit/c08496dc488b5fa81df00c856565432c1c42cc03)
+- [ ] [<code>#22027 Fix special symbol quoting in HTML SQL converter (#22029)</code>](https://github.com/dbeaver/dbeaver/commit/716cfe06f0fd539c3e67ae3f7132634d55d625fb)
+- [ ] [<code>dbeaver/pro#2175 Error message fix</code>](https://github.com/dbeaver/dbeaver/commit/e21657c1474539150af52fdcb7ce61164a6263f7)
+- [ ] [<code>#21669 support schemas + some tables from schemas dump process (#21698)</code>](https://github.com/dbeaver/dbeaver/commit/cfd833d479c45de6cda1557e07b7eb01a811ccd2)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2389,6 +2397,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: Display migration notification</code>](https://github.com/krille-chan/fluffychat/commit/a190f7de088ce2ef315714d954763a4c01408b29)
 - [ ] [<code>build: Update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/655193e569d374565e89b1ae0b31e48ceec10166)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/96ca7f41cd8ec4e55946b09c1e190052c2c5e30e)
+- [ ] [<code>ci: Fix nightly builds for web</code>](https://github.com/krille-chan/fluffychat/commit/3f7df35a1366fb0bebed6977a1671a60b341f753)
+- [ ] [<code>ci: Set base href for nightly web</code>](https://github.com/krille-chan/fluffychat/commit/25d8c82e52dff9d4f7115d6a6ef631cbfe223909)
+- [ ] [<code>build: Disable cache for deploy web</code>](https://github.com/krille-chan/fluffychat/commit/80f6351aaf3fa25cfd240ba1ab46cc8536df0588)
+- [ ] [<code>fix: Remove web background</code>](https://github.com/krille-chan/fluffychat/commit/f1db2b9781eb6e85ecb2e90ed2a18439918ca57b)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2402,7 +2415,7 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.1...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.2 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.2...HEAD)
 
 - [ ] [<code>Add experimental support for reading and writing gain maps. (#1501)</code>](https://github.com/AOMediaCodec/libavif/commit/50a541469c98009016af8dcc9f83a1be79f3a7d9)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
@@ -2774,6 +2787,11 @@
 - [ ] [<code>Fix avifImageYUVToRGB() job count (#1865)</code>](https://github.com/AOMediaCodec/libavif/commit/633cbfdd7803b65e4e80a64047070001f9abe4ba)
 - [ ] [<code>Add color conversion utilities. (#1861)</code>](https://github.com/AOMediaCodec/libavif/commit/5c9bb26bd5a02f3d6b5902528616b71cf15b5cb4)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Expand comments in avifGainMap. (#1866)</code>](https://github.com/AOMediaCodec/libavif/commit/7f8daa57427fcb0eb01998d2341344fba09cd746)
+- [ ] [<code>Do not depend on both avif and avif_internal (#1819)</code>](https://github.com/AOMediaCodec/libavif/commit/7b9a07243834dfc3d7b6518008e3426ee9a12ed3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove unnecessary rounding. (#1867)</code>](https://github.com/AOMediaCodec/libavif/commit/d894acfc37d8e4f052f170faa6a7b34f31c3c01f)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3318,6 +3336,16 @@
 - [ ] [<code>lxd-to-incus: Don't spam the output with command failures</code>](https://github.com/lxc/incus/commit/3e4ec308d9340c9f091ffc9013db5df2a3849875)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly set cdrom type</code>](https://github.com/lxc/incus/commit/0a865e0c280efa7e6eed741a1e4979750216477e)
+- [ ] [<code>incus/remote: Add remote proxy command</code>](https://github.com/lxc/incus/commit/0c8b176f53397dc545231021b6b0e32bc8146c36)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translations template</code>](https://github.com/lxc/incus/commit/e805e3896ed2cafca70cbdbf59cc2a05c8359dd4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/cliconfig: Add keepalive config field</code>](https://github.com/lxc/incus/commit/608c17541b1a8459e232b659fea60de61c9070d1)
+- [ ] [<code>incus/remote: Clear Keepalive field for proxied connections</code>](https://github.com/lxc/incus/commit/822ce1ceaaac66506a6927cd4b3ab2234d1228f7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cliconfig: Add keepalive proxy support</code>](https://github.com/lxc/incus/commit/d8248986bc96aa2f4fae8adb7ed0f50e40922cba)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/endpoints: Also hide read errors from proxies</code>](https://github.com/lxc/incus/commit/6223cbf9a5e11f075c8dec36d6710216ec2a33d3)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3965,6 +3993,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Custom FFmpeg commands #600, cairo crash experiment #577</code>](https://github.com/axcore/tartube/commit/ec0dd6ac7290764ae56fb4db674c24f5699707bf)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix #580 again</code>](https://github.com/axcore/tartube/commit/652ab3f85f40bd1063b9d5bdab01bba48840009d)
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
