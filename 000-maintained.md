@@ -2076,6 +2076,18 @@
 - [ ] [<code>#22027 Fix special symbol quoting in HTML SQL converter (#22029)</code>](https://github.com/dbeaver/dbeaver/commit/716cfe06f0fd539c3e67ae3f7132634d55d625fb)
 - [ ] [<code>dbeaver/pro#2175 Error message fix</code>](https://github.com/dbeaver/dbeaver/commit/e21657c1474539150af52fdcb7ce61164a6263f7)
 - [ ] [<code>#21669 support schemas + some tables from schemas dump process (#21698)</code>](https://github.com/dbeaver/dbeaver/commit/cfd833d479c45de6cda1557e07b7eb01a811ccd2)
+- [ ] [<code>dbeaver/pro#2221 Remote file selector fix (support root folders) (#22133)</code>](https://github.com/dbeaver/dbeaver/commit/a76046aec971a101c6737de3934ab4fab84d698b)
+- [ ] [<code>dbeaver/pro#1818 Allow changing task output format (#21325)</code>](https://github.com/dbeaver/dbeaver/commit/887acfd4522d186deb24740276e3b0fa1f861aa2)
+- [ ] [<code>dbeaver/dbeaver#21995 New foreign key name generator fix (#21996)</code>](https://github.com/dbeaver/dbeaver/commit/83f77df011042730a608afdf9ff70ada8b0551f8)
+- [ ] [<code>Define maxZoom as maxNativeZoom (#21884)</code>](https://github.com/dbeaver/dbeaver/commit/c900f3139bbc4cca54355f8a1e3d7bfb9dd0e849)
+- [ ] [<code>#21216 update DB2 statistics reading query (#22110)</code>](https://github.com/dbeaver/dbeaver/commit/0fa29e265ee027f375d8b2f42586e2f857809dda)
+- [ ] [<code>dbeaver/pro#1771 add gpt4 (#22085)</code>](https://github.com/dbeaver/dbeaver/commit/0efddbd4b45128f1417bd57b53527b84fa9711e8)
+- [ ] [<code>dbeaver/pro#2254 Info links fix (#22155)</code>](https://github.com/dbeaver/dbeaver/commit/b53cea7847ec5b2fe141f82ab8cc3a3e5465dc7f)
+- [ ] [<code>dbeaver/pro#2078 Tycho 4.0.4 (#22025)</code>](https://github.com/dbeaver/dbeaver/commit/5532251726a451e2bf77e02dead44f2e722dd40e)
+- [ ] [<code>dbeaver/pro#1506 DPI dynamic properties and methods (#21030)</code>](https://github.com/dbeaver/dbeaver/commit/4dc4682e60504a7552d75143ccf9b3260864b556)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2109 Metadata read error handle</code>](https://github.com/dbeaver/dbeaver/commit/323cbb991dd5c09975827ab7753ddd11f77e5cac)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2093,6 +2105,7 @@
 - [ ] [<code>Initial log format rework</code>](https://github.com/canonical/dqlite/commit/4c7743bc4c11d66c08feac3afcfb66a7bd773b25)
 - [ ] [<code>test_membership: Wait for leader barrier before waiting for tx.</code>](https://github.com/canonical/dqlite/commit/b44b96189bbfba3100d3b1622d6f60036e798d4f)
 - [ ] [<code>server: Replace monitor_cb by state_cb.</code>](https://github.com/canonical/dqlite/commit/9b3ac556e56a7b3f7b99cbec5a8afada818df54c)
+- [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/dqlite/commit/c281844359be6f0fb872d1ce38336a2c8b9e0ad9)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2168,6 +2181,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Revert "fix: Fix launch-firmware-updater.sh directory"</code>](https://github.com/canonical/firmware-updater/commit/e60e3a98f2d52f047627e0752648abbd47c24bc8)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Update to ubuntu_lints v0.3.0</code>](https://github.com/canonical/firmware-updater/commit/7ff75328d40c38ccfab30ffa7716c6ded506ed8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: Melos format</code>](https://github.com/canonical/firmware-updater/commit/c25c7fbeef6c7e50d0fb761c6b6cef50032cd7b6)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -2792,6 +2808,11 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove unnecessary rounding. (#1867)</code>](https://github.com/AOMediaCodec/libavif/commit/d894acfc37d8e4f052f170faa6a7b34f31c3c01f)
+- [ ] [<code>Gainmap computation: fix handling of extreme values. (#1868)</code>](https://github.com/AOMediaCodec/libavif/commit/a1eb55d556d044163729b9cdb4bfeb7375dbbbf1)
+- [ ] [<code>Add missing result check and fix build warning. (#1871)</code>](https://github.com/AOMediaCodec/libavif/commit/59ce269421fb9a0f0ef4a197cb6a61038cc6af89)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>In avifDecoder, list the experimental fields last</code>](https://github.com/AOMediaCodec/libavif/commit/cd6bad819f672201f7a09dccdb75be3323c93ec0)
+- [ ] [<code>List AVIF_COLOR_PRIMARIES_SRGB after BT709</code>](https://github.com/AOMediaCodec/libavif/commit/55e948a7f1c74f336b523d6770966bddd9de498b)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3823,50 +3844,8 @@
 > Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.29.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.29.2...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.30.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.30.0...HEAD)
 
-- [ ] [<code>Fixed #258 - Removed QSOID from Export dialog column setting</code>](https://github.com/foldynl/QLog.git/commit/4a0a856c3346755daf3544a8b4f6249447829dcf)
-- [ ] [<code>Fixed #256 - Date editor does not support NULL value in Logbook Direct Editor</code>](https://github.com/foldynl/QLog.git/commit/271aaf9dee3492855248d53ce45937a67b67dd82)
-- [ ] [<code>Fixed #260 - Fixed duplicate entry in Windows Add or Remove</code>](https://github.com/foldynl/QLog.git/commit/fa517f49dde99e0f3b296b3ceef4fb8718bf2431)
-- [ ] [<code>Fixed #261 - RST fields revert to 59 after changing them</code>](https://github.com/foldynl/QLog.git/commit/b1225fc56d50466735cf7b102bbc7be8df88d566)
-- [ ] [<code>Add AppStream metainfo file</code>](https://github.com/foldynl/QLog.git/commit/209dfd83bc2643475dbf827361bb60fbbe502b9c)
-- [ ] [<code>Fixed #263 - Added WPX Prefix</code>](https://github.com/foldynl/QLog.git/commit/96fefb77b8d05cd0fac3a23588fa14088dd67519)
-- [ ] [<code>Fixed import issue</code>](https://github.com/foldynl/QLog.git/commit/f7a2486d9a9c1141b372e103c80beb4b4a0b6028)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/311239efb2617f670e3e736a98011cfa4028f0dd)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/cbea6481e239cae61f7404c022687b6676e15a47)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/6d4cec5581c542baed5d1394299b1bfb41d08927)
-- [ ] [<code>Added the Platform Name to About dialog</code>](https://github.com/foldynl/QLog.git/commit/746c491c1afab7728ecde159d7abb160df046736)
-- [ ] [<code>Added WPX Award stats</code>](https://github.com/foldynl/QLog.git/commit/4c28671a1463fc2f242ed401fba4bb24345fa9df)
-- [ ] [<code>Added PTHREAD variables for LIB and INCLUDE to pro-file.</code>](https://github.com/foldynl/QLog.git/commit/b30d7bf67b017da8a555bfab3178bd37293d9c52)
-- [ ] [<code>Added THIS to connect for lambda functions</code>](https://github.com/foldynl/QLog.git/commit/e27aed3209206a259bb8dd7f654ffb5230f0f1f4)
-- [ ] [<code>Add installation to PREFIX on mac when set</code>](https://github.com/foldynl/QLog.git/commit/2b0ed30806b34315962da382cb41edf5f19b231e)
-- [ ] [<code>Reordered Mac Prefix code in pro-file</code>](https://github.com/foldynl/QLog.git/commit/5751f987c294e71c9ec2172843a737813654144c)
-- [ ] [<code>New QSL Images are stored to database</code>](https://github.com/foldynl/QLog.git/commit/dddf5450d50c1e829c3642e891b1b9905416fe68)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/981175ec9132acb9a01a8f38db984acaa1680414)
-- [ ] [<code>Fixed #271 - Cannot change TQSL Path in Settings</code>](https://github.com/foldynl/QLog.git/commit/cae9366c10217db92111bbef26394b841faa263f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/52255c755011373f5f88c4787cdfdab5d3950860)
-- [ ] [<code>Fixed compilation issue under QT5.12</code>](https://github.com/foldynl/QLog.git/commit/563d92835ad9cfaa3cc3523fe08965a72297a93f)
-- [ ] [<code>MainLayoutEditor: Removed Up/Down buttons for QT 5.12</code>](https://github.com/foldynl/QLog.git/commit/27bd1fdb27e715a49e8688529f943a275b96637c)
-- [ ] [<code>Updated README - added flatpak</code>](https://github.com/foldynl/QLog.git/commit/e105cd708b75a970e4012363f6f3ab68051fa35f)
-- [ ] [<code>Updated AUTHORS</code>](https://github.com/foldynl/QLog.git/commit/71f77dae3c1203f6f1b3c6d8b8f032f9e2a17339)
-- [ ] [<code>QDesktopServices::openUrl has to be called with QUrl::fromLocalFile for file</code>](https://github.com/foldynl/QLog.git/commit/520d75b59d8bca7ba34b0f2e8d1c8e41ec568ca7)
-- [ ] [<code>Flatpak Temporary file workaround</code>](https://github.com/foldynl/QLog.git/commit/a10dc9fd15a4d9ba53b89d455e6706ecec3327cd)
-- [ ] [<code>Flatpak: Fixed issue with (None) in getOpenFileName</code>](https://github.com/foldynl/QLog.git/commit/d3512a1ff25d21c9bb4e0fc9e91d14780ced994a)
-- [ ] [<code>PaperQSLDialog: Rewording</code>](https://github.com/foldynl/QLog.git/commit/1194be1bcf9ef65e922eb059d86d1f12d9ab4593)
-- [ ] [<code>Fixed minor typo</code>](https://github.com/foldynl/QLog.git/commit/2b3e79f3317c424b06b1752ca698249dacde7a3d)
-- [ ] [<code>Updated German & Czech Translations</code>](https://github.com/foldynl/QLog.git/commit/73def178a5183677db341a7e168bf8c3467c1c83)
-- [ ] [<code>Fixed #275 - Added dynamic load i18n file support</code>](https://github.com/foldynl/QLog.git/commit/c2f38c6a50f107417bbf88d489725c38aad69af4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fixed #275 - Minor rewording</code>](https://github.com/foldynl/QLog.git/commit/17d797772421e511d3bf397c0090ea1af2aa5b03)
-- [ ] [<code>Updated README file</code>](https://github.com/foldynl/QLog.git/commit/c7d2b8cb09e6d70c23115bb2bfa5cff4b036dae2)
-- [ ] [<code>Fixed uninitilized variable in CWKeyProfile</code>](https://github.com/foldynl/QLog.git/commit/08772ea264dc07e349b562533f47b0b73d8612b2)
-- [ ] [<code>Updated Czech & German translation</code>](https://github.com/foldynl/QLog.git/commit/e413308497005f158a0885803d415c73e7056426)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/0eae5b7fea3ec852da3b785b80b47d5815535662)
-- [ ] [<code>Fixed compilation issue under QT5.12</code>](https://github.com/foldynl/QLog.git/commit/b54a9931c028799d8506fa47d88376e23d5bdf59)
-- [ ] [<code>Preparation for release 0.30.0</code>](https://github.com/foldynl/QLog.git/commit/efd019fe6ce853f9669a669056e9be66146a2a74)
-  - <sub>Tags: <code>v0.30.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -3885,6 +3864,7 @@
 - [ ] [<code>Initial log format rework</code>](https://github.com/canonical/raft/commit/9bdce2911ac100f54410afa593b619e261ea4d34)
 - [ ] [<code>raft: Add user-supplied state_cb</code>](https://github.com/canonical/raft/commit/65351619b03844b5d7f8fe6cbb12ebb70cfa8d9a)
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/raft/commit/33f1e90de9698d2b52f9863070a3b5eb6386582a)
+- [ ] [<code>test_uv_os: Silence compiler on mantic ppc64le.</code>](https://github.com/canonical/raft/commit/12a4731241727ca8e4ef5b6a4a8fb0c2c7fbfc69)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.18.2 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.18.2...HEAD)
 
