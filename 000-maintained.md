@@ -3884,6 +3884,7 @@
 - [ ] [<code>Add a test for logReinstate</code>](https://github.com/canonical/raft/commit/0cd0265e7f313a2f788799a8d5c1c9751d036350)
 - [ ] [<code>Initial log format rework</code>](https://github.com/canonical/raft/commit/9bdce2911ac100f54410afa593b619e261ea4d34)
 - [ ] [<code>raft: Add user-supplied state_cb</code>](https://github.com/canonical/raft/commit/65351619b03844b5d7f8fe6cbb12ebb70cfa8d9a)
+- [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/raft/commit/33f1e90de9698d2b52f9863070a3b5eb6386582a)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.18.2 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.18.2...HEAD)
 
