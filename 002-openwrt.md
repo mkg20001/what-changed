@@ -176,6 +176,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>bridge: fix reload on bridge vlan changes</code>](https://git.openwrt.org/project/netifd.git/commit/f1763852dfbabf60486bd721ec7a6a1bc8dd88c0)
 - [ ] [<code>bridge: rework config change pvid handling</code>](https://git.openwrt.org/project/netifd.git/commit/cc9e928f0a12f04c82356c02dd9a84ac6b383fb9)
+- [ ] [<code>system-linux: set master early on apply settings</code>](https://git.openwrt.org/project/netifd.git/commit/8f2806a37fe16de6c24ad133107eeb6cb7a090dc)
+- [ ] [<code>system-linux: skip refreshing MAC on master change if custom MAC</code>](https://git.openwrt.org/project/netifd.git/commit/e3fc2b0026a5ca45de76f3e2a950dca85a361bd3)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619 → HEAD](https://git.openwrt.org/project/ubus.git/compare/b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619...HEAD)
 
