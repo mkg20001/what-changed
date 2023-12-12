@@ -3346,6 +3346,13 @@
 - [ ] [<code>shared/cliconfig: Add keepalive proxy support</code>](https://github.com/lxc/incus/commit/d8248986bc96aa2f4fae8adb7ed0f50e40922cba)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/endpoints: Also hide read errors from proxies</code>](https://github.com/lxc/incus/commit/6223cbf9a5e11f075c8dec36d6710216ec2a33d3)
+- [ ] [<code>build(deps): bump actions/setup-go from 4 to 5</code>](https://github.com/lxc/incus/commit/e8c3232c771bd2fd9e21f43f195de20e0052de55)
+- [ ] [<code>internal/server/db: Add description field to certificate</code>](https://github.com/lxc/incus/commit/6a864ac63856ac6a3b7e4f7ca8478c2766e9af62)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/certificates: Add support for description field</code>](https://github.com/lxc/incus/commit/9fe7eb571ba30af4f5d7c66ea555f30944744baa)
+- [ ] [<code>shared/api/certificate: Add description field</code>](https://github.com/lxc/incus/commit/66b12b780da630e0c2c576a104f42e0761729a70)
+- [ ] [<code>api: certificate_description</code>](https://github.com/lxc/incus/commit/209269309eb7955a4db71256f26cfe6d4e37bc65)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ab98775d0c73a56fb0cb8024ef43d6f3da316b27)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
