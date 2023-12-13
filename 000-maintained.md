@@ -2090,6 +2090,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/45c894df431c2024c404eca212065cef37fb02a6)
 - [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/a0048c4b7ac59eb8bd1ad9e27f72f743289cbd5f)
+- [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/8c101cd56f46eccb5c8d93db549a18b78a23b726)
+- [ ] [<code>Add svg bundle</code>](https://github.com/dbeaver/dbeaver/commit/902ca04420932491adc6556506263356592ef98b)
+- [ ] [<code>icu.base deps fix</code>](https://github.com/dbeaver/dbeaver/commit/bf4828b007ca86bd863ccc25e692355f20164967)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2186,6 +2189,7 @@
 - [ ] [<code>chore: Update to ubuntu_lints v0.3.0</code>](https://github.com/canonical/firmware-updater/commit/7ff75328d40c38ccfab30ffa7716c6ded506ed8d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Melos format</code>](https://github.com/canonical/firmware-updater/commit/c25c7fbeef6c7e50d0fb761c6b6cef50032cd7b6)
+- [ ] [<code>feat: switching to the right icon when updating firmware</code>](https://github.com/canonical/firmware-updater/commit/54eb00066901ddc52c7d5385c88bc98f05c1376d)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -3376,6 +3380,13 @@
 - [ ] [<code>shared/api/certificate: Add description field</code>](https://github.com/lxc/incus/commit/66b12b780da630e0c2c576a104f42e0761729a70)
 - [ ] [<code>api: certificate_description</code>](https://github.com/lxc/incus/commit/209269309eb7955a4db71256f26cfe6d4e37bc65)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ab98775d0c73a56fb0cb8024ef43d6f3da316b27)
+- [ ] [<code>incus: Variable certificate store columns</code>](https://github.com/lxc/incus/commit/19095a85469a7b8638186a864a7bcb35e6e60f35)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/429578b24bc5dd49b2f0dff47deea87505dd1427)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Update for incus config trust list changes</code>](https://github.com/lxc/incus/commit/7fdd5dfbaffee928771d0ebd9d3be334bde2cdae)
+- [ ] [<code>Makefile: Make sure we never import the AGPL version of LXD</code>](https://github.com/lxc/incus/commit/1f5d7799852c067dbbadc9a62ceaf8526620586f)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/96a247b6f8cef7746fb299391fd30d4e1891ec45)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
