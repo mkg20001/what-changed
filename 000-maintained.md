@@ -2088,6 +2088,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2109 Metadata read error handle</code>](https://github.com/dbeaver/dbeaver/commit/323cbb991dd5c09975827ab7753ddd11f77e5cac)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/45c894df431c2024c404eca212065cef37fb02a6)
+- [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/a0048c4b7ac59eb8bd1ad9e27f72f743289cbd5f)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
