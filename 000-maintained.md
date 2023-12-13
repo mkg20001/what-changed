@@ -2093,6 +2093,17 @@
 - [ ] [<code>Logging fix</code>](https://github.com/dbeaver/dbeaver/commit/8c101cd56f46eccb5c8d93db549a18b78a23b726)
 - [ ] [<code>Add svg bundle</code>](https://github.com/dbeaver/dbeaver/commit/902ca04420932491adc6556506263356592ef98b)
 - [ ] [<code>icu.base deps fix</code>](https://github.com/dbeaver/dbeaver/commit/bf4828b007ca86bd863ccc25e692355f20164967)
+- [ ] [<code>Tycho 4.0.4</code>](https://github.com/dbeaver/dbeaver/commit/e09bb2fdaa0739f938c79fd0509ca0011bb3bd16)
+- [ ] [<code>JDBC model fixes</code>](https://github.com/dbeaver/dbeaver/commit/e7c606d1ab8fc623d23a6fd5bf5ba05dc35adb03)
+- [ ] [<code>2229 upgrade to eclipse 2023 12 (#22150)</code>](https://github.com/dbeaver/dbeaver/commit/01b5f4c79148a22501e56b35a216bbd2979f79f5)
+- [ ] [<code>dbeaver/pro#2229 Migrate to E 2023-12</code>](https://github.com/dbeaver/dbeaver/commit/bc265dfb85cef2781fe2a5c343065da0d95cde6a)
+- [ ] [<code>CB-4080. Add dameng database in cloudbeaver (#22060)</code>](https://github.com/dbeaver/dbeaver/commit/e3a2f4540005dab9f74f21bc438a3badc285a83e)
+- [ ] [<code>#21495 set query limits flag for MySQL/MariaDB (#22112)</code>](https://github.com/dbeaver/dbeaver/commit/a131dd71c02707a8c2d512f35f08b6de6dab0139)
+- [ ] [<code>dbeaver/pro#2152 advanced paste improvements (#22092)</code>](https://github.com/dbeaver/dbeaver/commit/ecbded6f92cb7b2c559f5b354ff0ce7362c40b5f)
+- [ ] [<code>#22158 Fix table-to-table transfer not working (#22166)</code>](https://github.com/dbeaver/dbeaver/commit/c6b0e133c49ab6e73b3b8aa40d22aaf871dd14d2)
+- [ ] [<code>#21944 Fix Oracle timestamp display error (#21979)</code>](https://github.com/dbeaver/dbeaver/commit/c2788939f10e4a47fcdafcdce07fe025979d7ec1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>revert to root p2 url</code>](https://github.com/dbeaver/dbeaver/commit/a87b3d620dc34e2d14b225a115c0cbe55428c5fe)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2819,6 +2830,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>In avifDecoder, list the experimental fields last</code>](https://github.com/AOMediaCodec/libavif/commit/cd6bad819f672201f7a09dccdb75be3323c93ec0)
 - [ ] [<code>List AVIF_COLOR_PRIMARIES_SRGB after BT709</code>](https://github.com/AOMediaCodec/libavif/commit/55e948a7f1c74f336b523d6770966bddd9de498b)
+- [ ] [<code>Explicitly handle gainmaps where the base and alt headrooms are equal. (#1876)</code>](https://github.com/AOMediaCodec/libavif/commit/b7e923769a12d8aff7bc626c483b90a791e421ec)
+- [ ] [<code>Add support for creating gain maps for image with different primaries. (#1873)</code>](https://github.com/AOMediaCodec/libavif/commit/e0778af38864bba88f2c6ff2cd30fc7abf007500)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3387,6 +3400,21 @@
 - [ ] [<code>tests: Update for incus config trust list changes</code>](https://github.com/lxc/incus/commit/7fdd5dfbaffee928771d0ebd9d3be334bde2cdae)
 - [ ] [<code>Makefile: Make sure we never import the AGPL version of LXD</code>](https://github.com/lxc/incus/commit/1f5d7799852c067dbbadc9a62ceaf8526620586f)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/96a247b6f8cef7746fb299391fd30d4e1891ec45)
+- [ ] [<code>[lxd-import] golangci: Updates the metalinter configuration.</code>](https://github.com/lxc/incus/commit/7da1b1b1c4f3b9dc4748b96cbeb684960f859197)
+- [ ] [<code>[lxd-import] lxd/firewall/drivers: Removes unnecessary break statements from switch.</code>](https://github.com/lxc/incus/commit/eb7e9de104e29bd31d80b9d8549f76f93879a3f1)
+- [ ] [<code>[lxd-import] test/lint: Add script to invoke golangci-lint with '--new'.</code>](https://github.com/lxc/incus/commit/96edaf85457224a5eac768d14c8a16112d91470f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>[lxd-import] Makefile: Remove invocation of golangci-lint from Makefile.</code>](https://github.com/lxc/incus/commit/14a31d2b69ef29e8bd4c359eb307720a38cf11d5)
+- [ ] [<code>[lxd-import] client/lxd/instances: Treat nil args as empty InstanceExecArgs in ExecInstance</code>](https://github.com/lxc/incus/commit/90568bf5757a084c8121a717d7e1b20b09eb2cb0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>[lxd-import] client/lxd/instances: Always consume pings from control socket if established in ExecInstance</code>](https://github.com/lxc/incus/commit/57a21309e648c4c3cf133198fc5d4aa1dc85d3c7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>[lxd-import] client/lxd/instances: Discard non-interactive stdout/stderr output if writer(s) not supplied in ExecInstance</code>](https://github.com/lxc/incus/commit/efb6ebf29d4938a1447e4d3851fb56af2ff43349)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>[lxd-import] client/lxd/instances: Remove unnecessary args nil check</code>](https://github.com/lxc/incus/commit/e6a4733d48dc4ab5c2c710843063aa27ba3cc69e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>[lxd-import] doc/storage/cephfs: specify that you can automatically create pools</code>](https://github.com/lxc/incus/commit/641441ae87641cfbd66198145a2409b13ce5eb3e)
+- [ ] [<code>lxd-to-incus: Update for LXD 5.20</code>](https://github.com/lxc/incus/commit/8bd2b3b3f889787de515eaea532ff728527a8788)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
