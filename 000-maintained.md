@@ -2105,6 +2105,14 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>revert to root p2 url</code>](https://github.com/dbeaver/dbeaver/commit/a87b3d620dc34e2d14b225a115c0cbe55428c5fe)
 - [ ] [<code>dbeaver/pro#2181 reduce module dependencies (#22086)</code>](https://github.com/dbeaver/dbeaver/commit/fea67812c0db45901d0a0030b491cce0c4a070ed)
+- [ ] [<code>dbeaver/pro#2176 Localhost IP resolve (#22018)</code>](https://github.com/dbeaver/dbeaver/commit/54c49ceb1f8369ba4034a8416007aa79c37e2ff1)
+- [ ] [<code>CB-4376. Upgrade logback (#22182)</code>](https://github.com/dbeaver/dbeaver/commit/11b82277625a14e0bfcc54b355f6f0333734aa5f)
+- [ ] [<code>#22149 return indexes and constraints to partition DDL (#22151)</code>](https://github.com/dbeaver/dbeaver/commit/6e997f4ad1f5bd754b210066eca37581fed5f288)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-4336 update derby driver (#22144)</code>](https://github.com/dbeaver/dbeaver/commit/0fb765283741b08f5f148b4e527aa10e220e8b1d)
+- [ ] [<code>#21615 Fix statistics tab appearing prematurely (#22021)</code>](https://github.com/dbeaver/dbeaver/commit/42d22758f38b13b192ecebe11e48457883d08c3c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>UI init warning remove</code>](https://github.com/dbeaver/dbeaver/commit/9805f621f835f19cc9492661fba77c0d3303508c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2123,7 +2131,7 @@
 - [ ] [<code>test_membership: Wait for leader barrier before waiting for tx.</code>](https://github.com/canonical/dqlite/commit/b44b96189bbfba3100d3b1622d6f60036e798d4f)
 - [ ] [<code>server: Replace monitor_cb by state_cb.</code>](https://github.com/canonical/dqlite/commit/9b3ac556e56a7b3f7b99cbec5a8afada818df54c)
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/dqlite/commit/c281844359be6f0fb872d1ce38336a2c8b9e0ad9)
-> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.2/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.2/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [855999da8d3d0c9930e06f2d296d82b55aeff79e → HEAD](https://github.com/canonical/firmware-updater/compare/855999da8d3d0c9930e06f2d296d82b55aeff79e...HEAD)
@@ -2836,6 +2844,14 @@
 - [ ] [<code>Explicitly handle gainmaps where the base and alt headrooms are equal. (#1876)</code>](https://github.com/AOMediaCodec/libavif/commit/b7e923769a12d8aff7bc626c483b90a791e421ec)
 - [ ] [<code>Add support for creating gain maps for image with different primaries. (#1873)</code>](https://github.com/AOMediaCodec/libavif/commit/e0778af38864bba88f2c6ff2cd30fc7abf007500)
 - [ ] [<code>Change some AVIF_COLOR_PRIMARIES_SRGB to BT709</code>](https://github.com/AOMediaCodec/libavif/commit/34b60fc51c5928b24c060d23ebb0f16fd802551a)
+- [ ] [<code>Set image->gainMap->altTransferCharacteristics if value is 2. (#1875)</code>](https://github.com/AOMediaCodec/libavif/commit/25aeea902ca1ad32abc712409505cf470a22a715)
+- [ ] [<code>When converting a jpeg-r file with ICC, copy it to altICC as well. (#1878)</code>](https://github.com/AOMediaCodec/libavif/commit/4efc6e29c5e1dfcda18fc8e40ba65aaa19bffc0e)
+- [ ] [<code>Refuse to tone map images with altICC set. (#1879)</code>](https://github.com/AOMediaCodec/libavif/commit/0ac6a8d7ca37296406963655eade6506575121fc)
+- [ ] [<code>Add avifencodetest (#1880)</code>](https://github.com/AOMediaCodec/libavif/commit/e107e095f1ada7c9de872ccdbbf556816e2e37a5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>BLD: Find rav1e shared library on Windows (#1550)</code>](https://github.com/AOMediaCodec/libavif/commit/626657a1f3d0786b3ee2c8f3c9f40fa743eed8f6)
+- [ ] [<code>Fix avifRGBImageComputeGainMap() colorspaceinfo (#1882)</code>](https://github.com/AOMediaCodec/libavif/commit/dccecf258b24d98f5b05d4ddf72347e527774ff1)
+- [ ] [<code>Fix gain map memory leak and null ptr dereference (#1883)</code>](https://github.com/AOMediaCodec/libavif/commit/58f0d7355b01d578ddfc1d0942cccade19774c05)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3193,6 +3209,7 @@
 - [ ] [<code>proc: fix MemAvailable in /proc/meminfo to exclude tmpfs files</code>](https://github.com/lxc/lxcfs/commit/5340b27fc543a1160dd6b763efe6c2e003b1c21d)
 - [ ] [<code>systemd: mkdir -p the target mount dir</code>](https://github.com/lxc/lxcfs/commit/50f7b5f7499c4a968c1be0eebe4f55b30190b49b)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>typofix: fix incorrect printing in lxcfs help interface</code>](https://github.com/lxc/lxcfs/commit/c27c750ba028a65a3d136999e85939dbb9601b06)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3419,6 +3436,10 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>[lxd-import] doc/storage/cephfs: specify that you can automatically create pools</code>](https://github.com/lxc/incus/commit/641441ae87641cfbd66198145a2409b13ce5eb3e)
 - [ ] [<code>lxd-to-incus: Update for LXD 5.20</code>](https://github.com/lxc/incus/commit/8bd2b3b3f889787de515eaea532ff728527a8788)
+- [ ] [<code>incusd/instance: Properly revert OpenFGA on failure</code>](https://github.com/lxc/incus/commit/775b8c95b677c34c249ee211d510b54a2a59d3a1)
+- [ ] [<code>incus/move: Only use server-side move when dealing with a single server</code>](https://github.com/lxc/incus/commit/94a91741a68b51ac70b7ea99264f5793109343bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/instance/qemu: Remove legacy udev rule</code>](https://github.com/lxc/incus/commit/70a6a83819d479a6347030c290e6fefe41f9efa6)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3910,6 +3931,7 @@
 - [ ] [<code>raft: Add user-supplied state_cb</code>](https://github.com/canonical/raft/commit/65351619b03844b5d7f8fe6cbb12ebb70cfa8d9a)
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/raft/commit/33f1e90de9698d2b52f9863070a3b5eb6386582a)
 - [ ] [<code>test_uv_os: Silence compiler on mantic ppc64le.</code>](https://github.com/canonical/raft/commit/12a4731241727ca8e4ef5b6a4a8fb0c2c7fbfc69)
+- [ ] [<code>tracing: Align raft log message with dqlite log message.</code>](https://github.com/canonical/raft/commit/68b4db77aa6386e64f15e0efc026af4217f9e398)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.18.2 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.18.2...HEAD)
 
@@ -3923,6 +3945,13 @@
 - [ ] [<code>legacy: Use metadata object instead of snapshot in takeSnapshotCb</code>](https://github.com/cowsql/raft/commit/f66ece0795a4dd7943ed16c7b14e31f659979285)
 - [ ] [<code>legacy: Delay calling step_cb() if a request failed with NOSPACE</code>](https://github.com/cowsql/raft/commit/b92c209d5ebc0d8447e26fa842239d21f45136ce)
 - [ ] [<code>v1: Trigger client callbacks after `raft_step()` (#103)</code>](https://github.com/cowsql/raft/commit/055a0b2bfb259367a53f72d9a9731244f9131984)
+- [ ] [<code>docs: Use the 'styles' keyword instead of the deprecated 'style'</code>](https://github.com/cowsql/raft/commit/c96c89be06fc917d5d4978f4895304b50fe0726e)
+- [ ] [<code>docs: Use the 'styles' keyword instead of the deprecated 'style' (#105)</code>](https://github.com/cowsql/raft/commit/72bb8602555cf214123a3acba9c8d771e794b7a8)
+- [ ] [<code>Release v0.18.3</code>](https://github.com/cowsql/raft/commit/bf4c34942f9aba851f3bbe0c5440ee9ef39d1fe6)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v0.18.3 (#106)</code>](https://github.com/cowsql/raft/commit/806e912f3ea6ca0c79cb4c1847a8a505a5441f0e)
+  - <sub>Tags: <code>v0.18.3</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
