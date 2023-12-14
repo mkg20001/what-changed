@@ -2104,6 +2104,7 @@
 - [ ] [<code>#21944 Fix Oracle timestamp display error (#21979)</code>](https://github.com/dbeaver/dbeaver/commit/c2788939f10e4a47fcdafcdce07fe025979d7ec1)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>revert to root p2 url</code>](https://github.com/dbeaver/dbeaver/commit/a87b3d620dc34e2d14b225a115c0cbe55428c5fe)
+- [ ] [<code>dbeaver/pro#2181 reduce module dependencies (#22086)</code>](https://github.com/dbeaver/dbeaver/commit/fea67812c0db45901d0a0030b491cce0c4a070ed)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2435,6 +2436,8 @@
 - [ ] [<code>ci: Set base href for nightly web</code>](https://github.com/krille-chan/fluffychat/commit/25d8c82e52dff9d4f7115d6a6ef631cbfe223909)
 - [ ] [<code>build: Disable cache for deploy web</code>](https://github.com/krille-chan/fluffychat/commit/80f6351aaf3fa25cfd240ba1ab46cc8536df0588)
 - [ ] [<code>fix: Remove web background</code>](https://github.com/krille-chan/fluffychat/commit/f1db2b9781eb6e85ecb2e90ed2a18439918ca57b)
+- [ ] [<code>fix: Audiomessage break app</code>](https://github.com/krille-chan/fluffychat/commit/e1a819d17bd9f4ba12959e067929cce64a3042c0)
+- [ ] [<code>build: Update to flutter 3.16.4</code>](https://github.com/krille-chan/fluffychat/commit/2a92bced6c6499afcf4b19a4081761439be77149)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
