@@ -2832,6 +2832,7 @@
 - [ ] [<code>List AVIF_COLOR_PRIMARIES_SRGB after BT709</code>](https://github.com/AOMediaCodec/libavif/commit/55e948a7f1c74f336b523d6770966bddd9de498b)
 - [ ] [<code>Explicitly handle gainmaps where the base and alt headrooms are equal. (#1876)</code>](https://github.com/AOMediaCodec/libavif/commit/b7e923769a12d8aff7bc626c483b90a791e421ec)
 - [ ] [<code>Add support for creating gain maps for image with different primaries. (#1873)</code>](https://github.com/AOMediaCodec/libavif/commit/e0778af38864bba88f2c6ff2cd30fc7abf007500)
+- [ ] [<code>Change some AVIF_COLOR_PRIMARIES_SRGB to BT709</code>](https://github.com/AOMediaCodec/libavif/commit/34b60fc51c5928b24c060d23ebb0f16fd802551a)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
