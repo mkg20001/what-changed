@@ -2124,6 +2124,7 @@
 - [ ] [<code>main: Fix VM builds when using `build-lxd` command</code>](https://github.com/lxc/distrobuilder/commit/e461155612e2db56f31df59d342c71b2adcfd1e2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>sources: Fix openeuler tests</code>](https://github.com/lxc/distrobuilder/commit/80ef457dfee351ddff64273d376d0060b371f617)
+- [ ] [<code>nixos-http: support versioned releases</code>](https://github.com/lxc/distrobuilder/commit/7f14626ab0eac1d585999c59071a2984e4b6acae)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -2853,6 +2854,7 @@
 - [ ] [<code>BLD: Find rav1e shared library on Windows (#1550)</code>](https://github.com/AOMediaCodec/libavif/commit/626657a1f3d0786b3ee2c8f3c9f40fa743eed8f6)
 - [ ] [<code>Fix avifRGBImageComputeGainMap() colorspaceinfo (#1882)</code>](https://github.com/AOMediaCodec/libavif/commit/dccecf258b24d98f5b05d4ddf72347e527774ff1)
 - [ ] [<code>Fix gain map memory leak and null ptr dereference (#1883)</code>](https://github.com/AOMediaCodec/libavif/commit/58f0d7355b01d578ddfc1d0942cccade19774c05)
+- [ ] [<code>Fix avifDiagnosticsPrintf doc (#1881)</code>](https://github.com/AOMediaCodec/libavif/commit/3471f3019751d3724ad1d09a9f1bd45933c29fe5)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3441,6 +3443,11 @@
 - [ ] [<code>incus/move: Only use server-side move when dealing with a single server</code>](https://github.com/lxc/incus/commit/94a91741a68b51ac70b7ea99264f5793109343bb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/instance/qemu: Remove legacy udev rule</code>](https://github.com/lxc/incus/commit/70a6a83819d479a6347030c290e6fefe41f9efa6)
+- [ ] [<code>internal/cgo: Move to shared/cgo</code>](https://github.com/lxc/incus/commit/ea0efa173bce93c49745e48b803b67aa78f099e5)
+- [ ] [<code>global: Update for shared/cgo</code>](https://github.com/lxc/incus/commit/086974c7ad90eb72361eeb86a0d87a33a256187a)
+- [ ] [<code>internal/idmap: Move to shared/idmap</code>](https://github.com/lxc/incus/commit/9cfa5b3bcab7a0058e01b574f025d425a9e6d010)
+- [ ] [<code>global: Update for shared/idmap</code>](https://github.com/lxc/incus/commit/bd946d955cb7d1101504b0ed649569eb81accb77)
+- [ ] [<code>shared/idmap: Don't depend on internal packages</code>](https://github.com/lxc/incus/commit/3f94117ae0d56a20bda70d350f2bd89285921f13)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
