@@ -2113,6 +2113,9 @@
 - [ ] [<code>#21615 Fix statistics tab appearing prematurely (#22021)</code>](https://github.com/dbeaver/dbeaver/commit/42d22758f38b13b192ecebe11e48457883d08c3c)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>UI init warning remove</code>](https://github.com/dbeaver/dbeaver/commit/9805f621f835f19cc9492661fba77c0d3303508c)
+- [ ] [<code>dbeaver/pro#2175 cloud configuration load (#22050)</code>](https://github.com/dbeaver/dbeaver/commit/441f993efe2e8955e92c09e508e1dd7f7c3e5d52)
+- [ ] [<code>dbeaver/pro#2268 Switching to default workspace fix (#22188)</code>](https://github.com/dbeaver/dbeaver/commit/bb96cd17b2d02262ede16c0a4d6bdc05a8aafa16)
+- [ ] [<code>dbeaver/pro#2173 disable navigator actions for vqb (#22045)</code>](https://github.com/dbeaver/dbeaver/commit/5dcccc5efa6e589e39ff0b422089c9ec1ff54e6c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3448,6 +3451,11 @@
 - [ ] [<code>internal/idmap: Move to shared/idmap</code>](https://github.com/lxc/incus/commit/9cfa5b3bcab7a0058e01b574f025d425a9e6d010)
 - [ ] [<code>global: Update for shared/idmap</code>](https://github.com/lxc/incus/commit/bd946d955cb7d1101504b0ed649569eb81accb77)
 - [ ] [<code>shared/idmap: Don't depend on internal packages</code>](https://github.com/lxc/incus/commit/3f94117ae0d56a20bda70d350f2bd89285921f13)
+- [ ] [<code>test/lint/golangci: Add missing trailing new line</code>](https://github.com/lxc/incus/commit/d9ab3c43fc9918217f4c0c728017dfd227fa6740)
+- [ ] [<code>test/golangci: Handle some common upstream branch names</code>](https://github.com/lxc/incus/commit/e085bae1296c883b7b12a06fd73d9bf349eb2829)
+- [ ] [<code>test/README: Fix bad binary names</code>](https://github.com/lxc/incus/commit/517dd964aefc6bfacd9fa796003f459e930d4be4)
+- [ ] [<code>github/ISSUE_TEMPLATE: Fix bad binary names</code>](https://github.com/lxc/incus/commit/0120136ed010e73b27170fa374118590092faac0)
+- [ ] [<code>test/golangci: Better handle Github refs</code>](https://github.com/lxc/incus/commit/ab5bee11885cfbf150eafdf02768501c8390979e)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
