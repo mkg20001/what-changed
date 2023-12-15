@@ -2123,6 +2123,7 @@
 - [ ] [<code>README: Add note about minimum Go version</code>](https://github.com/lxc/distrobuilder/commit/fa2407d7b4a12ec3e2db4156b7b49cbf85746b45)
 - [ ] [<code>main: Fix VM builds when using `build-lxd` command</code>](https://github.com/lxc/distrobuilder/commit/e461155612e2db56f31df59d342c71b2adcfd1e2)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>sources: Fix openeuler tests</code>](https://github.com/lxc/distrobuilder/commit/80ef457dfee351ddff64273d376d0060b371f617)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
