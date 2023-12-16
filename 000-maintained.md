@@ -2116,6 +2116,7 @@
 - [ ] [<code>dbeaver/pro#2175 cloud configuration load (#22050)</code>](https://github.com/dbeaver/dbeaver/commit/441f993efe2e8955e92c09e508e1dd7f7c3e5d52)
 - [ ] [<code>dbeaver/pro#2268 Switching to default workspace fix (#22188)</code>](https://github.com/dbeaver/dbeaver/commit/bb96cd17b2d02262ede16c0a4d6bdc05a8aafa16)
 - [ ] [<code>dbeaver/pro#2173 disable navigator actions for vqb (#22045)</code>](https://github.com/dbeaver/dbeaver/commit/5dcccc5efa6e589e39ff0b422089c9ec1ff54e6c)
+- [ ] [<code>#19982 Read monospace font from theme manager instead of reading directly from JFaceResources (#22187)</code>](https://github.com/dbeaver/dbeaver/commit/6a2dabe6528c6ca51b319f6d5f5c9f4ba191eeb3)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
