@@ -3456,6 +3456,12 @@
 - [ ] [<code>test/README: Fix bad binary names</code>](https://github.com/lxc/incus/commit/517dd964aefc6bfacd9fa796003f459e930d4be4)
 - [ ] [<code>github/ISSUE_TEMPLATE: Fix bad binary names</code>](https://github.com/lxc/incus/commit/0120136ed010e73b27170fa374118590092faac0)
 - [ ] [<code>test/golangci: Better handle Github refs</code>](https://github.com/lxc/incus/commit/ab5bee11885cfbf150eafdf02768501c8390979e)
+- [ ] [<code>test/golangci: Fetch GITHUB_BEFORE reference</code>](https://github.com/lxc/incus/commit/42eb4de35817be4221634b082275a8b6301f0ec1)
+- [ ] [<code>doc: Fixed typos</code>](https://github.com/lxc/incus/commit/9b02037f09ce7607d286c7d382aa915fbca55290)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Add shiftfs check</code>](https://github.com/lxc/incus/commit/e2eda9ab032e54325d9b6213485a1b692680ddb7)
+- [ ] [<code>incusd/firewall/iptables: Make sure to always use locking</code>](https://github.com/lxc/incus/commit/7b0d2216df53c1f248c3fa9a6c5cd7102bd186ae)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
