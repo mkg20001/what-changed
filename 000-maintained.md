@@ -3975,6 +3975,7 @@
 - [ ] [<code>Release v0.18.3 (#106)</code>](https://github.com/cowsql/raft/commit/806e912f3ea6ca0c79cb4c1847a8a505a5441f0e)
   - <sub>Tags: <code>v0.18.3</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>docs: Remove redundant link to CSS stylesheet file</code>](https://github.com/cowsql/raft/commit/e4f1c410df6eddb70d2fc676732ed9f08d13bcf4)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
