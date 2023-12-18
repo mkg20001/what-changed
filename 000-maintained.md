@@ -2117,6 +2117,7 @@
 - [ ] [<code>dbeaver/pro#2268 Switching to default workspace fix (#22188)</code>](https://github.com/dbeaver/dbeaver/commit/bb96cd17b2d02262ede16c0a4d6bdc05a8aafa16)
 - [ ] [<code>dbeaver/pro#2173 disable navigator actions for vqb (#22045)</code>](https://github.com/dbeaver/dbeaver/commit/5dcccc5efa6e589e39ff0b422089c9ec1ff54e6c)
 - [ ] [<code>#19982 Read monospace font from theme manager instead of reading directly from JFaceResources (#22187)</code>](https://github.com/dbeaver/dbeaver/commit/6a2dabe6528c6ca51b319f6d5f5c9f4ba191eeb3)
+- [ ] [<code>23.3.1 version bump</code>](https://github.com/dbeaver/dbeaver/commit/f26b550d698991fb86b52f073e18cafc1c168ec8)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2859,6 +2860,11 @@
 - [ ] [<code>Fix avifRGBImageComputeGainMap() colorspaceinfo (#1882)</code>](https://github.com/AOMediaCodec/libavif/commit/dccecf258b24d98f5b05d4ddf72347e527774ff1)
 - [ ] [<code>Fix gain map memory leak and null ptr dereference (#1883)</code>](https://github.com/AOMediaCodec/libavif/commit/58f0d7355b01d578ddfc1d0942cccade19774c05)
 - [ ] [<code>Fix avifDiagnosticsPrintf doc (#1881)</code>](https://github.com/AOMediaCodec/libavif/commit/3471f3019751d3724ad1d09a9f1bd45933c29fe5)
+- [ ] [<code>Get coverage to cover all test files. (#1885)</code>](https://github.com/AOMediaCodec/libavif/commit/1d3825f1cbd7311b537767f0125c0aa68a3023a7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add -municode for MINGW (#1802)</code>](https://github.com/AOMediaCodec/libavif/commit/1fb7a8abf89af446804e4fa9f674f3f2b0e19556)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
