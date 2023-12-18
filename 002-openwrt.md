@@ -21,6 +21,8 @@
 - [ ] [<code>udebug: add more checks for uninitialized buffers</code>](https://git.openwrt.org/project/libubox.git/commit/d27acfe416d67f9425d40b5e758949cd7ff9acfa)
 - [ ] [<code>udebug: add mips specific quirk</code>](https://git.openwrt.org/project/libubox.git/commit/df5b7147f47ae3bca23bde18f3d432f5ce26a2ff)
 - [ ] [<code>udebug: fix file descriptor initialization for __udebug_buf_map</code>](https://git.openwrt.org/project/libubox.git/commit/ca3f6d0cdb1e588283c42d039779ceab303ceef2)
+- [ ] [<code>CMakeLists.txt: bump minimum cmake version</code>](https://git.openwrt.org/project/libubox.git/commit/6339204c212b2c3506554a8842030df5ec6fe9c6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [327da9895327bc56b23413ee91a6e6b6e0e4329d → HEAD](https://git.openwrt.org/project/netifd.git/compare/327da9895327bc56b23413ee91a6e6b6e0e4329d...HEAD)
 
@@ -179,11 +181,15 @@
 - [ ] [<code>system-linux: set master early on apply settings</code>](https://git.openwrt.org/project/netifd.git/commit/8f2806a37fe16de6c24ad133107eeb6cb7a090dc)
 - [ ] [<code>system-linux: skip refreshing MAC on master change if custom MAC</code>](https://git.openwrt.org/project/netifd.git/commit/e3fc2b0026a5ca45de76f3e2a950dca85a361bd3)
 - [ ] [<code>system-linux: set pending to 0 on ifindex found or error for if_get_master</code>](https://git.openwrt.org/project/netifd.git/commit/66a7652176a7580b55076a0975b77c2bfb5bf7ce)
+- [ ] [<code>netifd: fix undefined va_list value which can cause crashes</code>](https://git.openwrt.org/project/netifd.git/commit/730b4656e6b1349506316dab2a8d90399eab39d8)
+- [ ] [<code>device: Log error message if device initialization failed</code>](https://git.openwrt.org/project/netifd.git/commit/c59457f697095631559d7e268ea575e7568d8866)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619 → HEAD](https://git.openwrt.org/project/ubus.git/compare/b3e8c4ef07ebb6f0f34a5c1f0dc1539068363619...HEAD)
 
 - [ ] [<code>libubus: fix reconnect with auto subscribe</code>](https://git.openwrt.org/project/ubus.git/commit/2b39a27d8bcc98859a67a9a925c77ecde6b1e698)
 - [ ] [<code>libubus: fix initial subscribe with autosubscribe</code>](https://git.openwrt.org/project/ubus.git/commit/f84eb5998c6ea2d34989ca2d3254e56c66139313)
+- [ ] [<code>CMakeLists.txt: bump minimum cmake version</code>](https://git.openwrt.org/project/ubus.git/commit/65bb027054def3b94a977229fd6ad62ddd32345b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
