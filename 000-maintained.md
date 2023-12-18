@@ -2118,6 +2118,14 @@
 - [ ] [<code>dbeaver/pro#2173 disable navigator actions for vqb (#22045)</code>](https://github.com/dbeaver/dbeaver/commit/5dcccc5efa6e589e39ff0b422089c9ec1ff54e6c)
 - [ ] [<code>#19982 Read monospace font from theme manager instead of reading directly from JFaceResources (#22187)</code>](https://github.com/dbeaver/dbeaver/commit/6a2dabe6528c6ca51b319f6d5f5c9f4ba191eeb3)
 - [ ] [<code>23.3.1 version bump</code>](https://github.com/dbeaver/dbeaver/commit/f26b550d698991fb86b52f073e18cafc1c168ec8)
+- [ ] [<code>dbeaver/dbeaver#20704 SVG icon rendering (#22063)</code>](https://github.com/dbeaver/dbeaver/commit/ad464a08588035f73a3bbad55cac32b99b84a57d)
+- [ ] [<code>dbeaver/pro#2135 Optimize rules scanner (#22143)</code>](https://github.com/dbeaver/dbeaver/commit/36a3539f60cc4f25ce56ca97fbf952baf1381fdd)
+- [ ] [<code>dbeaver/pro#2246 Language search fix (#22138)</code>](https://github.com/dbeaver/dbeaver/commit/a428aa41571344aba113e3c6cf3a92e05224ea8a)
+- [ ] [<code>CB-4304 remove legacy databricks driver (#22147)</code>](https://github.com/dbeaver/dbeaver/commit/cac5581a6c07edbd0939eab899474d03e5613f00)
+- [ ] [<code>#22165 add row level security policies support for Greenplum 7 (#22173)</code>](https://github.com/dbeaver/dbeaver/commit/f34b90930d99c7dc840c887527416be1926a3e38)
+- [ ] [<code>#22109 fix routines parameters data types identifiers (#22135)</code>](https://github.com/dbeaver/dbeaver/commit/13f4dc2bef06480525535175e567144693974971)
+- [ ] [<code>CB-3833. Use AWS secrets to store TE secrets (#22033)</code>](https://github.com/dbeaver/dbeaver/commit/a92666a137fdebbc999794034eff0428ff70a5b3)
+- [ ] [<code>Fix build in Eclipse (#22203)</code>](https://github.com/dbeaver/dbeaver/commit/fe63c40dfbca72063b7b9639686d6160a6f64565)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2865,6 +2873,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add -municode for MINGW (#1802)</code>](https://github.com/AOMediaCodec/libavif/commit/1fb7a8abf89af446804e4fa9f674f3f2b0e19556)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump gcc to 13 for the CI. (#1886)</code>](https://github.com/AOMediaCodec/libavif/commit/4865c1ce145f919838f416469223eca142d24b58)
+- [ ] [<code>Add MinGW32 CI. (#1887)</code>](https://github.com/AOMediaCodec/libavif/commit/29b0d2e1b3a2b41961a680aaf5d6b30c31919821)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3469,6 +3479,9 @@
 - [ ] [<code>lxd-to-incus: Add shiftfs check</code>](https://github.com/lxc/incus/commit/e2eda9ab032e54325d9b6213485a1b692680ddb7)
 - [ ] [<code>incusd/firewall/iptables: Make sure to always use locking</code>](https://github.com/lxc/incus/commit/7b0d2216df53c1f248c3fa9a6c5cd7102bd186ae)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc/installing: Remove redundant instructions</code>](https://github.com/lxc/incus/commit/ab1f632c20c3f0d809f9b846eb11ad52bd8b16fb)
+- [ ] [<code>README: Tweak section about Incus creation</code>](https://github.com/lxc/incus/commit/88646fb75f284bdbf7810475e070808c32cee682)
+- [ ] [<code>doc/migrate: Add link to installing page</code>](https://github.com/lxc/incus/commit/93830e3a9b0e9e2c03068427e04603c224f0943d)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3920,7 +3933,7 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
-> Dropped python310Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-1.3.1.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-1.3.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python310Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped python310Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
