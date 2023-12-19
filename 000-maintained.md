@@ -3482,6 +3482,7 @@
 - [ ] [<code>doc/installing: Remove redundant instructions</code>](https://github.com/lxc/incus/commit/ab1f632c20c3f0d809f9b846eb11ad52bd8b16fb)
 - [ ] [<code>README: Tweak section about Incus creation</code>](https://github.com/lxc/incus/commit/88646fb75f284bdbf7810475e070808c32cee682)
 - [ ] [<code>doc/migrate: Add link to installing page</code>](https://github.com/lxc/incus/commit/93830e3a9b0e9e2c03068427e04603c224f0943d)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/incus/commit/026689074c30c6c8818ea79abd235b33d34fb5a6)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
