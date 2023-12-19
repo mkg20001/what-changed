@@ -2126,6 +2126,9 @@
 - [ ] [<code>#22109 fix routines parameters data types identifiers (#22135)</code>](https://github.com/dbeaver/dbeaver/commit/13f4dc2bef06480525535175e567144693974971)
 - [ ] [<code>CB-3833. Use AWS secrets to store TE secrets (#22033)</code>](https://github.com/dbeaver/dbeaver/commit/a92666a137fdebbc999794034eff0428ff70a5b3)
 - [ ] [<code>Fix build in Eclipse (#22203)</code>](https://github.com/dbeaver/dbeaver/commit/fe63c40dfbca72063b7b9639686d6160a6f64565)
+- [ ] [<code>dbeaver/pro#2276 migrate to jakarta api (#22197)</code>](https://github.com/dbeaver/dbeaver/commit/0e13a920ba86f47c5160b8cc60a223356abcbc04)
+- [ ] [<code>dbeaver/pro#2068 ERD Layout enhancement. (#22154)</code>](https://github.com/dbeaver/dbeaver/commit/ab11594aa25f44c12febd6fbe801f00632bfb465)
+- [ ] [<code>dbeaver/pro#2082 context variables (#22200)</code>](https://github.com/dbeaver/dbeaver/commit/ee0ccbf7dcd01d0fcc71fd39d53c33b7c71c84af)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
