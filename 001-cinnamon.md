@@ -2,17 +2,8 @@
 #### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.1 → HEAD](https://github.com/linuxmint/bulky/compare/3.1...HEAD)
 
 
-#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.1...HEAD)
+#### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.0.2...HEAD)
 
-- [ ] [<code>menu: Don't resize if the OSK is visible</code>](https://github.com/linuxmint/cinnamon/commit/129dca2abda8c89a298d399e4763e37ffafe7ad7)
-- [ ] [<code>Check for a workarea collision during actor.show() and shrink or</code>](https://github.com/linuxmint/cinnamon/commit/0d9a16f83e2f82793f34ebf156c04bf621c5ae17)
-- [ ] [<code>cs-info: increase inxi verbosity (#11984)</code>](https://github.com/linuxmint/cinnamon/commit/e66684bf17fa6db283a6238eb3e60a025961d961)
-  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>README.Debian: fix typo (#11976)</code>](https://github.com/linuxmint/cinnamon/commit/e9294fe37ce5821ec98fa9d2a0f2637095ddc6da)
-- [ ] [<code>Update .git-blame-ignore-revs (#11928)</code>](https://github.com/linuxmint/cinnamon/commit/97d9623c0aa2d2ec5307142bd2b17ecc3f29d483)
-- [ ] [<code>6.0.2</code>](https://github.com/linuxmint/cinnamon/commit/8f72c9006b16447fb728dee33632deec484d2d95)
-  - <sub>Tags: <code>6.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix for applet tooltips clipping outside the screen when they're too close to the bottom. (#11980)</code>](https://github.com/linuxmint/cinnamon/commit/d5d1b4394f9dcc60ef4558f2e4dbc49bf883eff2)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
@@ -83,15 +74,8 @@
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
 
-#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.0 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.0...HEAD)
+#### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.1 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.1...HEAD)
 
-- [ ] [<code>Remove nemo-convert-metadata tool (#3335)</code>](https://github.com/linuxmint/nemo/commit/10181e961fb0cdb8dc701bccff0be0acdbc8accf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>nemo-icon-canvas-item.c: Fix the state check to see if a surface</code>](https://github.com/linuxmint/nemo/commit/bdb8b08ec77e253892d0bcb2e0ce3d73fe8688b8)
-- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/nemo/commit/871e988b4a285bca22796dc2b64dd29843945d4d)
-  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
