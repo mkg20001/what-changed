@@ -2133,6 +2133,15 @@
 - [ ] [<code>dbeaver/pro#2154 firestore data & cloud explorer & subcollections panel (#22120)</code>](https://github.com/dbeaver/dbeaver/commit/42a6298c8003ee7dd8ae59c56ed2895f9f40d919)
 - [ ] [<code>Datasource connect status reflection fix</code>](https://github.com/dbeaver/dbeaver/commit/c327c61b2608945d4f89bc0307755535ba8fd3d6)
 - [ ] [<code>Datasource connect status reflection fix</code>](https://github.com/dbeaver/dbeaver/commit/5fb158ac03a3ad1cf64ef45712310c75cc21956a)
+- [ ] [<code>dbeaver/pro#2288 Variable resolved fix</code>](https://github.com/dbeaver/dbeaver/commit/3ea2c7519d8330e25a9106c52abeada605e62f56)
+- [ ] [<code>dbeaver/pro#2065 Master password policy (#22119)</code>](https://github.com/dbeaver/dbeaver/commit/f0bb91297f783ef61ef7a53893568d75029dadff)
+- [ ] [<code>dbeaver/pro#2273 hide non-schemas objects for EnterpriseDB (#22207)</code>](https://github.com/dbeaver/dbeaver/commit/acf61219fb02a1c38fd667a07e59ca24b29634a7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#1974 update azure UI & detect azure model (#22163)</code>](https://github.com/dbeaver/dbeaver/commit/da7d1e1adffdc91c2f052862ecc91a9d10028800)
+- [ ] [<code>#19299 update Oracle driver version to 23.2.0.0 (#22124)</code>](https://github.com/dbeaver/dbeaver/commit/9ea613a6e429eeec74c9550974234bc5d3cac7e2)
+- [ ] [<code>Revert "dbeaver/pro#2065 Master password policy (#22119)"</code>](https://github.com/dbeaver/dbeaver/commit/3fe2a982f145946444cce7413955a5fcad9a5d1a)
+- [ ] [<code>dbeaver/pro#2205 Turn on experimental highlighting features by default (#22214)</code>](https://github.com/dbeaver/dbeaver/commit/990633066e9d54318221d790a7f3dcf4b5c90c76)
+- [ ] [<code>dbeaver/pro#2292 Connection collapse fix (#22224)</code>](https://github.com/dbeaver/dbeaver/commit/6dfbf8113918e60b0ce2398af1aa84cf0df6082c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2882,6 +2891,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Bump gcc to 13 for the CI. (#1886)</code>](https://github.com/AOMediaCodec/libavif/commit/4865c1ce145f919838f416469223eca142d24b58)
 - [ ] [<code>Add MinGW32 CI. (#1887)</code>](https://github.com/AOMediaCodec/libavif/commit/29b0d2e1b3a2b41961a680aaf5d6b30c31919821)
+- [ ] [<code>Add missing f for floats. (#1888)</code>](https://github.com/AOMediaCodec/libavif/commit/995f89fc2074e7fa6a8633cc5305d9017362b847)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3490,6 +3500,13 @@
 - [ ] [<code>README: Tweak section about Incus creation</code>](https://github.com/lxc/incus/commit/88646fb75f284bdbf7810475e070808c32cee682)
 - [ ] [<code>doc/migrate: Add link to installing page</code>](https://github.com/lxc/incus/commit/93830e3a9b0e9e2c03068427e04603c224f0943d)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/incus/commit/026689074c30c6c8818ea79abd235b33d34fb5a6)
+- [ ] [<code>Makefile: Bump to OpenFGA 0.3.1-go1.20</code>](https://github.com/lxc/incus/commit/bb2b698d9842c2886247779fbea29c364cc42424)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/f614d0d686b3834344da0b3e686f53c90c562ab8)
+- [ ] [<code>incusd/auth/openfga: Update for OpenFGA 0.3.1</code>](https://github.com/lxc/incus/commit/361e500806125d80ff1307b010e765a3d5f62254)
+- [ ] [<code>mini-oidc: Implement user store</code>](https://github.com/lxc/incus/commit/d202fba41fc1d9001dddc3de690623ade4b21adc)
+- [ ] [<code>incusd/auth/openfga: Handle small model differences</code>](https://github.com/lxc/incus/commit/eb7b476b1cc247d93df7b15b62de786c56cccf12)
+- [ ] [<code>shared: Fix comments typo</code>](https://github.com/lxc/incus/commit/3c07aba40787601cb844037ed784471e008a541b)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
