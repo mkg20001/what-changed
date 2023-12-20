@@ -2129,6 +2129,10 @@
 - [ ] [<code>dbeaver/pro#2276 migrate to jakarta api (#22197)</code>](https://github.com/dbeaver/dbeaver/commit/0e13a920ba86f47c5160b8cc60a223356abcbc04)
 - [ ] [<code>dbeaver/pro#2068 ERD Layout enhancement. (#22154)</code>](https://github.com/dbeaver/dbeaver/commit/ab11594aa25f44c12febd6fbe801f00632bfb465)
 - [ ] [<code>dbeaver/pro#2082 context variables (#22200)</code>](https://github.com/dbeaver/dbeaver/commit/ee0ccbf7dcd01d0fcc71fd39d53c33b7c71c84af)
+- [ ] [<code>dbeaver/pro#2082 App initialization sequence fix</code>](https://github.com/dbeaver/dbeaver/commit/c535c5144cc30c73e11415c2e6ff6487a021fda0)
+- [ ] [<code>dbeaver/pro#2154 firestore data & cloud explorer & subcollections panel (#22120)</code>](https://github.com/dbeaver/dbeaver/commit/42a6298c8003ee7dd8ae59c56ed2895f9f40d919)
+- [ ] [<code>Datasource connect status reflection fix</code>](https://github.com/dbeaver/dbeaver/commit/c327c61b2608945d4f89bc0307755535ba8fd3d6)
+- [ ] [<code>Datasource connect status reflection fix</code>](https://github.com/dbeaver/dbeaver/commit/5fb158ac03a3ad1cf64ef45712310c75cc21956a)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
