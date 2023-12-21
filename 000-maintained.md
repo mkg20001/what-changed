@@ -2142,6 +2142,7 @@
 - [ ] [<code>Revert "dbeaver/pro#2065 Master password policy (#22119)"</code>](https://github.com/dbeaver/dbeaver/commit/3fe2a982f145946444cce7413955a5fcad9a5d1a)
 - [ ] [<code>dbeaver/pro#2205 Turn on experimental highlighting features by default (#22214)</code>](https://github.com/dbeaver/dbeaver/commit/990633066e9d54318221d790a7f3dcf4b5c90c76)
 - [ ] [<code>dbeaver/pro#2292 Connection collapse fix (#22224)</code>](https://github.com/dbeaver/dbeaver/commit/6dfbf8113918e60b0ce2398af1aa84cf0df6082c)
+- [ ] [<code>CB-2383 change node path format (#22117)</code>](https://github.com/dbeaver/dbeaver/commit/2dcdd74b807a349fe1a2bcb9a1d984cdc00dd711)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2479,6 +2480,8 @@
 - [ ] [<code>build: Update to flutter 3.16.4</code>](https://github.com/krille-chan/fluffychat/commit/2a92bced6c6499afcf4b19a4081761439be77149)
 - [ ] [<code>build: Update to matrix sdk 0.25.0</code>](https://github.com/krille-chan/fluffychat/commit/14781201a2b36dbfa972d075eb04e77253598765)
 - [ ] [<code>build: Update flutter to 3.16.5</code>](https://github.com/krille-chan/fluffychat/commit/5794bb70ac07efa9d08af2b35481f1d9a901dd44)
+- [ ] [<code>build: Add sqlite3 to snap</code>](https://github.com/krille-chan/fluffychat/commit/45cff982adecbf7c5e8d06512eb6e3bb0418da07)
+- [ ] [<code>chore: Follow up database path</code>](https://github.com/krille-chan/fluffychat/commit/ea790f43ac9cefee4b9a7a33e8428178d625eaf9)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2894,6 +2897,13 @@
 - [ ] [<code>Bump gcc to 13 for the CI. (#1886)</code>](https://github.com/AOMediaCodec/libavif/commit/4865c1ce145f919838f416469223eca142d24b58)
 - [ ] [<code>Add MinGW32 CI. (#1887)</code>](https://github.com/AOMediaCodec/libavif/commit/29b0d2e1b3a2b41961a680aaf5d6b30c31919821)
 - [ ] [<code>Add missing f for floats. (#1888)</code>](https://github.com/AOMediaCodec/libavif/commit/995f89fc2074e7fa6a8633cc5305d9017362b847)
+- [ ] [<code>Get fuzztest tests to build with shared libs. (#1890)</code>](https://github.com/AOMediaCodec/libavif/commit/b54e05f89efb825b4ffd01b92b520da4129ef22b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump gav1 to v0.19.0 (#1891)</code>](https://github.com/AOMediaCodec/libavif/commit/2b0c430ea2cea3db6d79944c1774dbc9dc72853d)
+- [ ] [<code>Create a bigger seed corpus for avif_decode_fuzzer (#1892)</code>](https://github.com/AOMediaCodec/libavif/commit/993b610e1c262207aa17654aad7cfbfd30f2aaa9)
+- [ ] [<code>Bump gav1 in tests/docker/build.sh too (#1893)</code>](https://github.com/AOMediaCodec/libavif/commit/f7a769fc4007e4e6f45453c06a9e2b1b3ab3323f)
+- [ ] [<code>Get fuzztest tests to build for oss-fuzz (#1894)</code>](https://github.com/AOMediaCodec/libavif/commit/98c8c28be48c464a9303e7d53d1972608a722c17)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4076,6 +4086,21 @@
   - <sub>Tags: <code>v0.18.3</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>docs: Remove redundant link to CSS stylesheet file</code>](https://github.com/cowsql/raft/commit/e4f1c410df6eddb70d2fc676732ed9f08d13bcf4)
+- [ ] [<code>legacy: Fix ambiguous RAFT_TRANSFER definition</code>](https://github.com/cowsql/raft/commit/01a9ee4d3b58929b2a923d507c44cad04843fa20)
+- [ ] [<code>lifecycle: Drop unnecessary request tracking</code>](https://github.com/cowsql/raft/commit/c9ce9f6c19173f2245a2f9392b03ba190a7d5094)
+- [ ] [<code>convert: Don't call raft_barrier() directly when becoming to leader</code>](https://github.com/cowsql/raft/commit/7cdefcf93dde661bc10747557bd5daa5784af24a)
+- [ ] [<code>tick: Export Tick() function</code>](https://github.com/cowsql/raft/commit/3c5c2b1799003b87b7dc50ac22b73f2e40e68e6c)
+- [ ] [<code>raft.h: Add raft_event.submit sub-struct</code>](https://github.com/cowsql/raft/commit/a9c5916ccec8fbee90ab60faa5547abd53dc3f6b)
+- [ ] [<code>v1: Trigger Tick() via raft_step() instead of tickCb</code>](https://github.com/cowsql/raft/commit/358ab468e5c8d5be2713e7b78c0b1125b0f55524)
+- [ ] [<code>client: Change raft_apply() to support at most 1 entry</code>](https://github.com/cowsql/raft/commit/1c0beec42a66d709b6e366a932cd9167ddd3c72e)
+- [ ] [<code>client: Use a RAFT_SUBMIT event to add new entries via raft_step()</code>](https://github.com/cowsql/raft/commit/ec0c4a2d0e0e8ff4630a06c07500a9a305f49814)
+- [ ] [<code>client: Use a RAFT_SUBMIT event to add a new barrier via raft_step()</code>](https://github.com/cowsql/raft/commit/386ba45197cccde0b78d965bc3dd7d6d8aa6ade5)
+- [ ] [<code>convert: Use the low-level ClientSubmit() instead of clientBarrier()</code>](https://github.com/cowsql/raft/commit/116f51377c3e2b525635d3d91d47b67b73d77e50)
+- [ ] [<code>client: Drop unused clientBarrier helper</code>](https://github.com/cowsql/raft/commit/7e8975647b56886d7f65c49d0b7f2f95f5be91f2)
+- [ ] [<code>client Use a RAFT_SUBMIT event to change configuration via raft_step</code>](https://github.com/cowsql/raft/commit/0fba53e6d498a00fcbaa17585998ed81e6c69542)
+- [ ] [<code>client: Use a RAFT_CATCH_UP event to start catching-up a server</code>](https://github.com/cowsql/raft/commit/b9c1902c2816d1acf84ae5d3286576f719a23d47)
+- [ ] [<code>client: Use a RAFT_TRANSFER event to transfer leadership</code>](https://github.com/cowsql/raft/commit/011c8448e9badfb495628ed89316db77b6a81726)
+- [ ] [<code>Fire `raft_event` events for handling requests via `raft_step()` (#108)</code>](https://github.com/cowsql/raft/commit/0e0211b45adb813535fe2046abedccf0d1f7659a)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
