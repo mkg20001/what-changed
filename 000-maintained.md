@@ -3507,6 +3507,53 @@
 - [ ] [<code>incusd/auth/openfga: Handle small model differences</code>](https://github.com/lxc/incus/commit/eb7b476b1cc247d93df7b15b62de786c56cccf12)
 - [ ] [<code>shared: Fix comments typo</code>](https://github.com/lxc/incus/commit/3c07aba40787601cb844037ed784471e008a541b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Makefile: Add update-ovsdb</code>](https://github.com/lxc/incus/commit/94d4d2687722ecb6602874ac761f3de892b9965a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>gomod: Add libovsdb</code>](https://github.com/lxc/incus/commit/cdef3c32765c677866c404da057c836a7445266b)
+- [ ] [<code>incusd/network/openvswitch: Add OVS and OVN schemas</code>](https://github.com/lxc/incus/commit/c951403519b49dd1f61e32d312080bf2b27b1993)
+- [ ] [<code>incusd/network/openvswitch: Remove unused functions</code>](https://github.com/lxc/incus/commit/afc32c52ec6291f61ff1b880756d580010bd2c3b)
+- [ ] [<code>incusd/network/openvswitch: Remove useless code</code>](https://github.com/lxc/incus/commit/d2bfba75565faaed5e43f95152d8ab8da8725a8d)
+- [ ] [<code>incusd/network/openvswitch: Split OVN logic</code>](https://github.com/lxc/incus/commit/fd03aea006ba1c8141a58d215168b473e4090ea7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/openvswitch: Add OVN database types</code>](https://github.com/lxc/incus/commit/d87d46523c7453932578b1cab42c874f724c34c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/openvswitch: Add native ovsdb client</code>](https://github.com/lxc/incus/commit/6e6f25a6687fb62d03e206cf40d7ac08995b1fbf)
+- [ ] [<code>incusd/network/openvswitch: Simplify logic</code>](https://github.com/lxc/incus/commit/fd82c99ebf8b86cdb4ee8a19686a3bacd81b3db1)
+- [ ] [<code>golangci: Don't complain about unused receivers</code>](https://github.com/lxc/incus/commit/22515153deb5e568dcb118f966b4005cbca44192)
+- [ ] [<code>incusd/network/openvswitch: Use pointer receiver for LogicalRouterDelete</code>](https://github.com/lxc/incus/commit/757148099e1cf904bb96b1748184cd55e4092d1b)
+- [ ] [<code>incusd/network/openvswitch: Port ChassisGroupChassisAdd to ovsdb</code>](https://github.com/lxc/incus/commit/e67cddf68fc9b3ee6bb574ae126a5ae0abc69ca8)
+- [ ] [<code>incusd/server/network: Move ovn to separate package</code>](https://github.com/lxc/incus/commit/ee3f282ecbef082d779bcafa846c577193629ae4)
+- [ ] [<code>Makefile: Update for new OVN package</code>](https://github.com/lxc/incus/commit/0b9a4cda51353f64ef5628f3cc63462fa47098f4)
+- [ ] [<code>incusd/network/openvswitch: Update for separate ovn package</code>](https://github.com/lxc/incus/commit/d3f58844f6231e60416de833b9f8d51261290336)
+- [ ] [<code>incusd/network/openvswitch: Move TCP flags to ovn package</code>](https://github.com/lxc/incus/commit/e761dfbe24adb2a66c3cd2da0e315d2bb002ce32)
+- [ ] [<code>incusd: Update for network/ovn</code>](https://github.com/lxc/incus/commit/a863460224f8f116262648ad9980ca820a8a4fc0)
+- [ ] [<code>incusd/network/openvswitch: Rename to ovs</code>](https://github.com/lxc/incus/commit/710ce0e8c34bc49ff171644e492aceadef9e21b7)
+- [ ] [<code>Makefile: Update for OVS package</code>](https://github.com/lxc/incus/commit/74c470fbb1540f5f6f49fdd1716111e362d01c6c)
+- [ ] [<code>incusd: Update for OVS package rename</code>](https://github.com/lxc/incus/commit/a6bd7745cdaddc6af822b4a6e7085fa25b451390)
+- [ ] [<code>incusd: Fix import shadowing</code>](https://github.com/lxc/incus/commit/c0ed89095b36be462e25d9392f3bf8cd9cf287f3)
+- [ ] [<code>tests: Skip lint on OVSDB schemas</code>](https://github.com/lxc/incus/commit/a8fda93de880a2f5615ee170c9da7f747c03e4c7)
+- [ ] [<code>incusd/network/ovs: Re-organize the package</code>](https://github.com/lxc/incus/commit/3efcba5cbbb7d7148b524db197fcd16c60e06085)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Rename OVS struct to VSwitch</code>](https://github.com/lxc/incus/commit/dd2f1f4b845b18c8757c10ad39e2d40cd5b372eb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for NewVSwitch</code>](https://github.com/lxc/incus/commit/4f03fc150b1582dfb894bb98f171983eaa12fa13)
+- [ ] [<code>incusd/network/ovn: Re-organize the package</code>](https://github.com/lxc/incus/commit/d4c618633dd81af82b526cef217e8c9ad9b21a95)
+- [ ] [<code>incusd/network/ovn: Add new Southbound client</code>](https://github.com/lxc/incus/commit/c2aa6f2839506720acc8dc5e0d13f602c7f15766)
+- [ ] [<code>incusd/network/ovn: Move GetLogicalRouterPortActiveChassisHostname to SB</code>](https://github.com/lxc/incus/commit/c75283b882bf7294bec012abc6d48dcc581716e2)
+- [ ] [<code>incusd/network: Update for GetLogicalRouterPortActiveChassisHostname</code>](https://github.com/lxc/incus/commit/3b917ecfc544f6dba1df9c3d35e4ef0531f5569d)
+- [ ] [<code>incusd/network/ovn: Replace OVN struct with NB</code>](https://github.com/lxc/incus/commit/fb633b225f2e5c7c5749ecb13ce7e838c9d39add)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd: Update for OVN NB struct</code>](https://github.com/lxc/incus/commit/dca81f07bf12fceedd6cf3358d73e6abf12d4d0c)
+- [ ] [<code>incusd/network/ovn: Port PortGroupInfo to OVSDB</code>](https://github.com/lxc/incus/commit/30ffa557d8bd36f94813598dc8f6d4816b3bd7c2)
+- [ ] [<code>incusd/network/ovn: Port LogicalSwitchPortDynamicIPs to OVSDB</code>](https://github.com/lxc/incus/commit/46400e8926e201f3df7d645638150b5c41d0d4a2)
+- [ ] [<code>incusd/network/ovs: Add OVSDB client</code>](https://github.com/lxc/incus/commit/b2633938159721b0bb8a767c640beb2be57795cf)
+- [ ] [<code>incusd: Update for NewVSwitch changes</code>](https://github.com/lxc/incus/commit/4e38102dbc6f80f46e0713a84143fac9550a375f)
+- [ ] [<code>incusd/network/ovs: Port BridgeExists to OVSDB</code>](https://github.com/lxc/incus/commit/4657e645fdbcfd1e5d7eb0c742f97d1522d27c67)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port ChassisID to OVSDB</code>](https://github.com/lxc/incus/commit/200d947c91767ae1d98daf0ba77c010430e44814)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port OVNBridgeMappings to OVSDB</code>](https://github.com/lxc/incus/commit/72c2cf3dab79439f2ba89d8d1576b1486d93743a)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
