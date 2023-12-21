@@ -2477,6 +2477,8 @@
 - [ ] [<code>fix: Remove web background</code>](https://github.com/krille-chan/fluffychat/commit/f1db2b9781eb6e85ecb2e90ed2a18439918ca57b)
 - [ ] [<code>fix: Audiomessage break app</code>](https://github.com/krille-chan/fluffychat/commit/e1a819d17bd9f4ba12959e067929cce64a3042c0)
 - [ ] [<code>build: Update to flutter 3.16.4</code>](https://github.com/krille-chan/fluffychat/commit/2a92bced6c6499afcf4b19a4081761439be77149)
+- [ ] [<code>build: Update to matrix sdk 0.25.0</code>](https://github.com/krille-chan/fluffychat/commit/14781201a2b36dbfa972d075eb04e77253598765)
+- [ ] [<code>build: Update flutter to 3.16.5</code>](https://github.com/krille-chan/fluffychat/commit/5794bb70ac07efa9d08af2b35481f1d9a901dd44)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3554,6 +3556,13 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>incusd/network/ovs: Port OVNBridgeMappings to OVSDB</code>](https://github.com/lxc/incus/commit/72c2cf3dab79439f2ba89d8d1576b1486d93743a)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Makefile: Set min OVN version to 22.03.0</code>](https://github.com/lxc/incus/commit/230cbbc3855cd8f2c60fe9160d85165fdc14aac1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/network/ovn: Update schemas</code>](https://github.com/lxc/incus/commit/2bb147f4aa776094f40df45676636c58a5125a0f)
+- [ ] [<code>incusd/network/ovs: Fix empty OVNBridgeMappings</code>](https://github.com/lxc/incus/commit/3e1f886fddffcb94dc708f87efe08ccfa1e367fd)
+- [ ] [<code>incusd/network/ovn: Wait for port to appear</code>](https://github.com/lxc/incus/commit/93676ddd7872c5ba7f4b059b43a64468fc9a3da8)
+- [ ] [<code>Release Incus 0.4</code>](https://github.com/lxc/incus/commit/37943297af24ee7930223fb5e5fdc26079953a08)
+  - <sub>Tags: <code>v0.4.0</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
