@@ -73,6 +73,8 @@
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.0...HEAD)
 
+- [ ] [<code>meta-compositor-x11.c: Don't disable fractional scaling when</code>](https://github.com/linuxmint/muffin/commit/bf234250143d2b4c7bad9f1ef3bccafbb6e6c21b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.1 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.1...HEAD)
 
