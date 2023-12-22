@@ -2143,6 +2143,9 @@
 - [ ] [<code>dbeaver/pro#2205 Turn on experimental highlighting features by default (#22214)</code>](https://github.com/dbeaver/dbeaver/commit/990633066e9d54318221d790a7f3dcf4b5c90c76)
 - [ ] [<code>dbeaver/pro#2292 Connection collapse fix (#22224)</code>](https://github.com/dbeaver/dbeaver/commit/6dfbf8113918e60b0ce2398af1aa84cf0df6082c)
 - [ ] [<code>CB-2383 change node path format (#22117)</code>](https://github.com/dbeaver/dbeaver/commit/2dcdd74b807a349fe1a2bcb9a1d984cdc00dd711)
+- [ ] [<code>CB-4326 detached connections connect and read metadata (#22212)</code>](https://github.com/dbeaver/dbeaver/commit/2af04321898216da505793334cedfcfe66b6630e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#2293 Add missing colors descriptions, fix NPE, distinct colors for aliases from alias sources (#22226)</code>](https://github.com/dbeaver/dbeaver/commit/3ad6a4226996349c337865f81f9830e06aefb326)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2482,6 +2485,9 @@
 - [ ] [<code>build: Update flutter to 3.16.5</code>](https://github.com/krille-chan/fluffychat/commit/5794bb70ac07efa9d08af2b35481f1d9a901dd44)
 - [ ] [<code>build: Add sqlite3 to snap</code>](https://github.com/krille-chan/fluffychat/commit/45cff982adecbf7c5e8d06512eb6e3bb0418da07)
 - [ ] [<code>chore: Follow up database path</code>](https://github.com/krille-chan/fluffychat/commit/ea790f43ac9cefee4b9a7a33e8428178d625eaf9)
+- [ ] [<code>chore: Follow up migration notification</code>](https://github.com/krille-chan/fluffychat/commit/dea0bfd723630c897764cbc06377bda4dbccfb05)
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/46d9879a4578dfeff922f13394e596b82170482a)
+  - <sub>Tags: <code>rc1.16.1-1</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3575,6 +3581,7 @@
 - [ ] [<code>Release Incus 0.4</code>](https://github.com/lxc/incus/commit/37943297af24ee7930223fb5e5fdc26079953a08)
   - <sub>Tags: <code>v0.4.0</code></sub>
 - [ ] [<code>incusd/instances/qemu: Don't fail event sending on missing agent</code>](https://github.com/lxc/incus/commit/2fbdbe9518f8739d5e4adcca0e9e963e96f41053)
+- [ ] [<code>incusd/network/ovsdb: Properly close the connections</code>](https://github.com/lxc/incus/commit/697cafa5c7d10e1241787ee42a828f9b87507f55)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
