@@ -2146,6 +2146,13 @@
 - [ ] [<code>CB-4326 detached connections connect and read metadata (#22212)</code>](https://github.com/dbeaver/dbeaver/commit/2af04321898216da505793334cedfcfe66b6630e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>dbeaver/pro#2293 Add missing colors descriptions, fix NPE, distinct colors for aliases from alias sources (#22226)</code>](https://github.com/dbeaver/dbeaver/commit/3ad6a4226996349c337865f81f9830e06aefb326)
+- [ ] [<code>Remove JNA rules</code>](https://github.com/dbeaver/dbeaver/commit/cfe8f5f6238a1badc606a2770a3b97278e9a6ade)
+- [ ] [<code>dbeaver/pro#2302 Use MAven artifacts in product build. License dependencies fix</code>](https://github.com/dbeaver/dbeaver/commit/17565c79190cdb7727465f6b463c8b1c3ab5725e)
+- [ ] [<code>CB-4431 fix vqb (#22240)</code>](https://github.com/dbeaver/dbeaver/commit/e683eb30f6b729b2013561f642968790bb05a427)
+- [ ] [<code>#16473 Add Ukrainian language (#21768)</code>](https://github.com/dbeaver/dbeaver/commit/d925d23127ff387cb3729ef2ae945105de7ab0c1)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>SQL editor resource refresh fix (for remote workspace)</code>](https://github.com/dbeaver/dbeaver/commit/6b490ae02253299851e0a6edf71e231861d1502d)
+- [ ] [<code>Logging and NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/73d55a338ab434db4febdf3410008f4cbe4a562f)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2488,6 +2495,16 @@
 - [ ] [<code>chore: Follow up migration notification</code>](https://github.com/krille-chan/fluffychat/commit/dea0bfd723630c897764cbc06377bda4dbccfb05)
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/46d9879a4578dfeff922f13394e596b82170482a)
   - <sub>Tags: <code>rc1.16.1-1</code></sub>
+- [ ] [<code>fix: Update manual endpoints</code>](https://github.com/krille-chan/fluffychat/commit/e2a251b3fe6b3775694aedfe8615756bb5c280df)
+- [ ] [<code>refactor: Reinvite other part instead of reopen dm</code>](https://github.com/krille-chan/fluffychat/commit/26c637135a932bc02e0f419d5f9c873218898a92)
+- [ ] [<code>chore: Load hero users for rooms</code>](https://github.com/krille-chan/fluffychat/commit/d0e4aec4d678a20a222b2772139e1c82008ee9de)
+- [ ] [<code>design: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9c24547b7f61a96df746e3f0f52790dabe65a55b)
+- [ ] [<code>refactor: Replace stories feature with presence status msg</code>](https://github.com/krille-chan/fluffychat/commit/895de76e70466616d1baa45f21fa0a3fdeb30ec7)
+- [ ] [<code>chore: Follow up status feature</code>](https://github.com/krille-chan/fluffychat/commit/fa543e93b887e943a270d2bc439e0298005963ff)
+- [ ] [<code>chore: Follow up status feature</code>](https://github.com/krille-chan/fluffychat/commit/28c3efae232c9560fe8f34142acc972122e8741e)
+- [ ] [<code>chore: Follow up status feature</code>](https://github.com/krille-chan/fluffychat/commit/107374cf6055595f75fb460e965197414221bc1a)
+- [ ] [<code>refactor: Remove todo list feature</code>](https://github.com/krille-chan/fluffychat/commit/e1474c48d8d45672400a72b1de5ff17405c854da)
+- [ ] [<code>design: Adjust login page design</code>](https://github.com/krille-chan/fluffychat/commit/98573fba4ad01284c5e099d8c060b6d1e02b8403)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2911,6 +2928,8 @@
 - [ ] [<code>Get fuzztest tests to build for oss-fuzz (#1894)</code>](https://github.com/AOMediaCodec/libavif/commit/98c8c28be48c464a9303e7d53d1972608a722c17)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump googletest (#1895)</code>](https://github.com/AOMediaCodec/libavif/commit/cd9e38bfa9940e481d915e6c6725678ca658c186)
+- [ ] [<code>Bump dav1d to 1.3.0 (#1897)</code>](https://github.com/AOMediaCodec/libavif/commit/633f5d2617a54d822c6f3028daa576057f4d539a)
+- [ ] [<code>Enable libaom decode for fuzzing. (#1898)</code>](https://github.com/AOMediaCodec/libavif/commit/d6d224a19e7e0ffec91faa64c433a94dbe46a8fb)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3582,6 +3601,16 @@
   - <sub>Tags: <code>v0.4.0</code></sub>
 - [ ] [<code>incusd/instances/qemu: Don't fail event sending on missing agent</code>](https://github.com/lxc/incus/commit/2fbdbe9518f8739d5e4adcca0e9e963e96f41053)
 - [ ] [<code>incusd/network/ovsdb: Properly close the connections</code>](https://github.com/lxc/incus/commit/697cafa5c7d10e1241787ee42a828f9b87507f55)
+- [ ] [<code>doc: Add Fedora installation instructions</code>](https://github.com/lxc/incus/commit/657cba03327c9d83069f6538e1442babf6cbd705)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Use Mutate instead of Update</code>](https://github.com/lxc/incus/commit/246c5b89bfc2942e756ff815c79b3cc2053e2d53)
+- [ ] [<code>incusd/network/ovs: Port BridgeDelete to OVSDB</code>](https://github.com/lxc/incus/commit/c19b9f50258532515c96ea971562bdb8d53da813)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port BridgeAdd to OVSDB</code>](https://github.com/lxc/incus/commit/9a4e2c6df284ef3e2efcaa42c189d50bcc1d0812)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port BridgePortAdd to OVSDB</code>](https://github.com/lxc/incus/commit/77f1b61d2e8ba14736c66ea263dfa04217cac420)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovn: Port LogicalSwitchPortIPs to OVSDB</code>](https://github.com/lxc/incus/commit/607dc9d56a4b4ab96bcb32fded3fa0796ed28f80)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4110,6 +4139,40 @@
 - [ ] [<code>client: Use a RAFT_CATCH_UP event to start catching-up a server</code>](https://github.com/cowsql/raft/commit/b9c1902c2816d1acf84ae5d3286576f719a23d47)
 - [ ] [<code>client: Use a RAFT_TRANSFER event to transfer leadership</code>](https://github.com/cowsql/raft/commit/011c8448e9badfb495628ed89316db77b6a81726)
 - [ ] [<code>Fire `raft_event` events for handling requests via `raft_step()` (#108)</code>](https://github.com/cowsql/raft/commit/0e0211b45adb813535fe2046abedccf0d1f7659a)
+- [ ] [<code>raft.h: Add struct raft_update</code>](https://github.com/cowsql/raft/commit/aadb75187d430be6dfff5c778659f578266f25d5)
+- [ ] [<code>raft.h: Add struct raft_update parameter to raft_step()</code>](https://github.com/cowsql/raft/commit/ca3550b7b2162af28de52e46ceeba4b2620f6163)
+- [ ] [<code>raft.h: Add update field to struct raft</code>](https://github.com/cowsql/raft/commit/cc85fbda6ca3cb0571bf1218c4177b679f4cba10)
+- [ ] [<code>v1: Lifecycle of the updates field of struct raft</code>](https://github.com/cowsql/raft/commit/db32c1dbf37074e080574f8ccc5a0807dd615df6)
+- [ ] [<code>raft.h: Add update flags for current term and vote</code>](https://github.com/cowsql/raft/commit/8e10f4ab90c3a1b90f40bbe9f25d82738374fe12)
+- [ ] [<code>v1: Add raft_current_term() and raft_voted_for()</code>](https://github.com/cowsql/raft/commit/6c87ffc31c6642ea041bb521e356cab948065e7f)
+- [ ] [<code>update: Set appropriate flags when updating current term or vote</code>](https://github.com/cowsql/raft/commit/eda9f894bf7665d4d0969b5fafd1632866b917d5)
+- [ ] [<code>legacy: Persist current term and vote if they changed</code>](https://github.com/cowsql/raft/commit/455eab44be26b62a40b03dc0342e8efc5677f3fd)
+- [ ] [<code>legacy: Make RAFT_PERSIST_TERM_AND_VOTE task a no-op</code>](https://github.com/cowsql/raft/commit/e5cb269efa2c2cbffdbcb76ca920f29ce7dcbfa8)
+- [ ] [<code>task: Drop unnecessary TaskPersistTermAndVote</code>](https://github.com/cowsql/raft/commit/eb1cec5ed467d69805248ec478ad2d67d570fe6f)
+- [ ] [<code>election: Don't return an error value in electionStart()</code>](https://github.com/cowsql/raft/commit/a95828b278ceb40d274d4719b109a983438d3dc9)
+- [ ] [<code>task: Drop RAFT_PERSIST_TERM_AND_VOTE task</code>](https://github.com/cowsql/raft/commit/33376358c0a98a4bc7f636468b9767a3f8cb5224)
+- [ ] [<code>task: Store sender ID and anddress in struct raft_message</code>](https://github.com/cowsql/raft/commit/76e7661a5dc85740f3b43b8606375c6ab86a2e36)
+- [ ] [<code>v1: Use the struct raft_update message queue when sending messages</code>](https://github.com/cowsql/raft/commit/996b894a54f59cb886db97e4c559e14bf4175473)
+- [ ] [<code>v1: Add RAFT_SENT event to notify about completion of a send message</code>](https://github.com/cowsql/raft/commit/231987b319c2f849d04c1cafee492fb8efc17cf2)
+- [ ] [<code>v1: Drop unused RAFT_SEND_MESSAGE task</code>](https://github.com/cowsql/raft/commit/0456776d937d4c99f942834d9b5ea7839912142b)
+- [ ] [<code>raft.h: Add entries queue to struct raft</code>](https://github.com/cowsql/raft/commit/7c24ed3b309bc62298e3ba406520ef4badd40f75)
+- [ ] [<code>v1: Use the struct raft_update entries queue when persisting entries</code>](https://github.com/cowsql/raft/commit/d9131134f3c127049fa64c8bb1ce4021e944ce95)
+- [ ] [<code>v1: Use RAFT_PERSISTED_ENTRIES event instead of RAFT_DONE</code>](https://github.com/cowsql/raft/commit/8128c51fceef1ae5e03c5ff41e4eccd06f88de6c)
+- [ ] [<code>task: Drop struct raft_persist_entries</code>](https://github.com/cowsql/raft/commit/de5e483a07f62efafe8f9143874657f7fda6d609)
+- [ ] [<code>legacy: Invoke raft_step() just once</code>](https://github.com/cowsql/raft/commit/dcd47dd163aaaa80ace3180f2d8a10ac4d054a95)
+- [ ] [<code>v1: Add RAFT_UPDATE_XXX flags for entries, snapshot and messages</code>](https://github.com/cowsql/raft/commit/1236c2abf0822d4655b494029b037ca1e397dcf4)
+- [ ] [<code>v1: Use raft_update structure instead of a RAFT_SNAPSHOT task</code>](https://github.com/cowsql/raft/commit/9541c180eb7b646cb7103d0b9a089708145574c2)
+- [ ] [<code>v1: Add a RAFT_PERSISTED_SNAPSHOT event instead of using RAFT_DONE</code>](https://github.com/cowsql/raft/commit/adaba01e1c015aade0609818c6bf4ac9e71b119b)
+- [ ] [<code>v1: Require user code to load snapshot when sending InstallSnapshot</code>](https://github.com/cowsql/raft/commit/d60ea802fda069dad16a71d2b3d03bfda6248ca1)
+- [ ] [<code>v1: Drop RAFT_LOAD_SNAPSHOT task and associated logic</code>](https://github.com/cowsql/raft/commit/01fbf64e052d9f3a383d46b7bf68e44166907352)
+- [ ] [<code>v1: Drop struct raft_task</code>](https://github.com/cowsql/raft/commit/fad0429cd5a0fcde83fc1a6254762751a5c0b7d9)
+- [ ] [<code>progress: Drop unused raft_progress.snapshot.loading field</code>](https://github.com/cowsql/raft/commit/b7a64422ee430346b2a5cec9077bd3058d61e40d)
+- [ ] [<code>v1: Drop timeout and commit_index arguments from raft_step()</code>](https://github.com/cowsql/raft/commit/4fc3e21cba0189aa0666e1de759c891a7b4524d2)
+- [ ] [<code>v1: Move TaskPersistEntries() helper to replication.c</code>](https://github.com/cowsql/raft/commit/23db9bd32306930fd7f6e86aae84022ac8847d96)
+- [ ] [<code>v1: Drop TaskPersistSnashot helper.</code>](https://github.com/cowsql/raft/commit/bd8769a3e5ba018ce97b6fab14881f78e1bc6504)
+- [ ] [<code>v1: Rename TaskSendMessage() helper to MessageEnqueue()</code>](https://github.com/cowsql/raft/commit/830139d8dac2c9bc60548f0f124e8252e94443cb)
+- [ ] [<code>v1: Save the struct raft_update object passed to raft_step()</code>](https://github.com/cowsql/raft/commit/de71a8498b52e2adda04a8513bc69f6ebbe81cc6)
+- [ ] [<code>v1: Modify `raft_step()` to take a `struct raft_update` output parameter (#107)</code>](https://github.com/cowsql/raft/commit/adb349ebbf7fb59b8b3bf822300bb035376e3e70)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
