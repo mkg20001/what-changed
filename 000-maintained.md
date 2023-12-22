@@ -2904,6 +2904,7 @@
 - [ ] [<code>Bump gav1 in tests/docker/build.sh too (#1893)</code>](https://github.com/AOMediaCodec/libavif/commit/f7a769fc4007e4e6f45453c06a9e2b1b3ab3323f)
 - [ ] [<code>Get fuzztest tests to build for oss-fuzz (#1894)</code>](https://github.com/AOMediaCodec/libavif/commit/98c8c28be48c464a9303e7d53d1972608a722c17)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump googletest (#1895)</code>](https://github.com/AOMediaCodec/libavif/commit/cd9e38bfa9940e481d915e6c6725678ca658c186)
 > Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3573,6 +3574,7 @@
 - [ ] [<code>incusd/network/ovn: Wait for port to appear</code>](https://github.com/lxc/incus/commit/93676ddd7872c5ba7f4b059b43a64468fc9a3da8)
 - [ ] [<code>Release Incus 0.4</code>](https://github.com/lxc/incus/commit/37943297af24ee7930223fb5e5fdc26079953a08)
   - <sub>Tags: <code>v0.4.0</code></sub>
+- [ ] [<code>incusd/instances/qemu: Don't fail event sending on missing agent</code>](https://github.com/lxc/incus/commit/2fbdbe9518f8739d5e4adcca0e9e963e96f41053)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
