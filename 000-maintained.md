@@ -2507,6 +2507,21 @@
 - [ ] [<code>design: Adjust login page design</code>](https://github.com/krille-chan/fluffychat/commit/98573fba4ad01284c5e099d8c060b6d1e02b8403)
 - [ ] [<code>feat: Hovermenu for messages for mouse</code>](https://github.com/krille-chan/fluffychat/commit/069d313bd599aa1456ccfcbbe2b808da9d3c5bfd)
 - [ ] [<code>chore: Add missing translation</code>](https://github.com/krille-chan/fluffychat/commit/a6f9b6cfe6b63e27d6af8e8efa869cc101051880)
+- [ ] [<code>design: Adjust reply design</code>](https://github.com/krille-chan/fluffychat/commit/a615de889ef733484d624ee72cae781312459b40)
+- [ ] [<code>refactor: Remove unnecessary setState in ChatPage for better performance</code>](https://github.com/krille-chan/fluffychat/commit/63d7bef515bf68cff11dee56c9fdde49cc4acc70)
+- [ ] [<code>fix: New json url for homeserver list</code>](https://github.com/krille-chan/fluffychat/commit/33839c4df80951951885caca4fd548f37470828e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: Remove automatically stale issues and PR</code>](https://github.com/krille-chan/fluffychat/commit/04a96237fd5465d92e8d4b09c9f9c2ca47fa5d10)
+- [ ] [<code>feat: Add registration buttons for servers with public registration url</code>](https://github.com/krille-chan/fluffychat/commit/4a6a77336c807d3401e6c418e09ab1349d988972)
+- [ ] [<code>refactor: Remove unused code</code>](https://github.com/krille-chan/fluffychat/commit/1f7ce96623e2350cf613306a232f201dfa13d2d3)
+- [ ] [<code>refactor: Remove unused localization strings and add ci check</code>](https://github.com/krille-chan/fluffychat/commit/4ba38a4744413d517232523127e6309d72779d2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: Set code owner</code>](https://github.com/krille-chan/fluffychat/commit/b3d388d172f8cb0e2b9b807a4bcbed333188659a)
+- [ ] [<code>fix: Cannot change send on enter on desktop</code>](https://github.com/krille-chan/fluffychat/commit/3d622b8918e3b754ec9c1a4f210a58e907712858)
+- [ ] [<code>feat: New change password page with server capabilities check</code>](https://github.com/krille-chan/fluffychat/commit/5847fe0546cf21d3338c2daf356fea90d7f57c4d)
+- [ ] [<code>fix: Join public rooms</code>](https://github.com/krille-chan/fluffychat/commit/0651b5c1f19af7efc40807aecd77be6080504adf)
+- [ ] [<code>fix: Make user admin</code>](https://github.com/krille-chan/fluffychat/commit/66b766cee8dcee8c51e6ee734a4c421f2f3ae3db)
+- [ ] [<code>ci: Rewrite automatically staling issues</code>](https://github.com/krille-chan/fluffychat/commit/ac3bbca1fc1e9b12224ea9dab6a445417cac7ffb)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
