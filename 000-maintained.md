@@ -2505,6 +2505,8 @@
 - [ ] [<code>chore: Follow up status feature</code>](https://github.com/krille-chan/fluffychat/commit/107374cf6055595f75fb460e965197414221bc1a)
 - [ ] [<code>refactor: Remove todo list feature</code>](https://github.com/krille-chan/fluffychat/commit/e1474c48d8d45672400a72b1de5ff17405c854da)
 - [ ] [<code>design: Adjust login page design</code>](https://github.com/krille-chan/fluffychat/commit/98573fba4ad01284c5e099d8c060b6d1e02b8403)
+- [ ] [<code>feat: Hovermenu for messages for mouse</code>](https://github.com/krille-chan/fluffychat/commit/069d313bd599aa1456ccfcbbe2b808da9d3c5bfd)
+- [ ] [<code>chore: Add missing translation</code>](https://github.com/krille-chan/fluffychat/commit/a6f9b6cfe6b63e27d6af8e8efa869cc101051880)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4173,6 +4175,10 @@
 - [ ] [<code>v1: Rename TaskSendMessage() helper to MessageEnqueue()</code>](https://github.com/cowsql/raft/commit/830139d8dac2c9bc60548f0f124e8252e94443cb)
 - [ ] [<code>v1: Save the struct raft_update object passed to raft_step()</code>](https://github.com/cowsql/raft/commit/de71a8498b52e2adda04a8513bc69f6ebbe81cc6)
 - [ ] [<code>v1: Modify `raft_step()` to take a `struct raft_update` output parameter (#107)</code>](https://github.com/cowsql/raft/commit/adb349ebbf7fb59b8b3bf822300bb035376e3e70)
+- [ ] [<code>v1: Move r->io->start() call late in raft_start()</code>](https://github.com/cowsql/raft/commit/fa6872d8da63154d02b3494c6104056a35ecb96c)
+- [ ] [<code>raft.h: Add RAFT_START event</code>](https://github.com/cowsql/raft/commit/a728b3ea60911455b334a331dddb64e5b9801795)
+- [ ] [<code>v1: Handle RAFT_START event in raft_step()</code>](https://github.com/cowsql/raft/commit/e0ccec8880760aceb7edb2a5d29210ffada3980a)
+- [ ] [<code>Add new RAFT_START event to start the engine (#94)</code>](https://github.com/cowsql/raft/commit/a6e0924ba3dc37c4a5fb2b2aa4ef25e5fb2d0cac)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
