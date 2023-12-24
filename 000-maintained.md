@@ -4222,6 +4222,14 @@
 - [ ] [<code>test: Add CLUSTER_ADD_ENTRY macro and functions</code>](https://github.com/cowsql/raft/commit/f14126e12c05896d169334bce04c49fc95c4197e)
 - [ ] [<code>test: Add CLUSTER_RAFT macro and functions</code>](https://github.com/cowsql/raft/commit/9e55f20727fa928a0a2ea75702608182cdbe6152)
 - [ ] [<code>test: Start a server with persisted state  (#112)</code>](https://github.com/cowsql/raft/commit/03d7d23fe6655c50c82f47c6a315ea889169eb66)
+- [ ] [<code>v1: Add raft_random() for generating a random number within a range</code>](https://github.com/cowsql/raft/commit/90e6290295c6d216d485946c41f42bbdfb911bb1)
+- [ ] [<code>test: Seed servers PRNG appropriately</code>](https://github.com/cowsql/raft/commit/40c276afb77667c7d8865bcd961c3079469efa0e)
+- [ ] [<code>v1: Add raft_state_name() and raft_role_name() utilities</code>](https://github.com/cowsql/raft/commit/150b36d66a0e4c2e3aa768645bed9b7ef3eaaf67)
+- [ ] [<code>tick: Add INFO message when not converting to candidate</code>](https://github.com/cowsql/raft/commit/753fbf90241828809bd1ba89c079cd1a085b7330)
+- [ ] [<code>tick: Improve control flow clarity</code>](https://github.com/cowsql/raft/commit/20960b51d429e2a35937841af166f62948c77aba)
+- [ ] [<code>v1: Set RAFT_UPDATE_TIMEOUT flag when the timeout changes</code>](https://github.com/cowsql/raft/commit/d7c1044722e6459fc88fd1f9a71bdc2d54d0bf7e)
+- [ ] [<code>test: Add test_cluster_step() helper</code>](https://github.com/cowsql/raft/commit/7f374ae155bbeafe12887726691dd5187d6eb72b)
+- [ ] [<code>test: Add `test_cluster_step()` helper (#113)</code>](https://github.com/cowsql/raft/commit/5692a57aae88e5735e0cfb1c6ee447d6cccccd65)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
