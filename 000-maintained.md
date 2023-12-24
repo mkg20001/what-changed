@@ -2153,6 +2153,8 @@
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>SQL editor resource refresh fix (for remote workspace)</code>](https://github.com/dbeaver/dbeaver/commit/6b490ae02253299851e0a6edf71e231861d1502d)
 - [ ] [<code>Logging and NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/73d55a338ab434db4febdf3410008f4cbe4a562f)
+- [ ] [<code>Features xml cleanup</code>](https://github.com/dbeaver/dbeaver/commit/9b46f444248ac80780ee1f672cc6fc0c2c4051d7)
+- [ ] [<code>remove forRemoval (#22233)</code>](https://github.com/dbeaver/dbeaver/commit/e4f5b23d4de9095bf78b0b3997dfe7f6e01c8b2a)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2530,6 +2532,7 @@
 - [ ] [<code>chore: Add missing safearea to spaceview</code>](https://github.com/krille-chan/fluffychat/commit/5bf87eae24742a0ae47d5bc2633ce16781cf9e30)
   - <sub>Tags: <code>rc1.16.1-1</code></sub>
 - [ ] [<code>ci: do not build snapcraft in ci</code>](https://github.com/krille-chan/fluffychat/commit/29dbf6f9f583cf76ceb0f1a012126c23968cdc92)
+- [ ] [<code>design: New design for login page</code>](https://github.com/krille-chan/fluffychat/commit/4a008d0c2d1b789ba235d446cab4856c3657ac01)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4235,6 +4238,12 @@
 - [ ] [<code>v1: Set RAFT_UPDATE_TIMEOUT flag when the timeout changes</code>](https://github.com/cowsql/raft/commit/d7c1044722e6459fc88fd1f9a71bdc2d54d0bf7e)
 - [ ] [<code>test: Add test_cluster_step() helper</code>](https://github.com/cowsql/raft/commit/7f374ae155bbeafe12887726691dd5187d6eb72b)
 - [ ] [<code>test: Add `test_cluster_step()` helper (#113)</code>](https://github.com/cowsql/raft/commit/5692a57aae88e5735e0cfb1c6ee447d6cccccd65)
+- [ ] [<code>progress: Add progressStateName() returning the state name</code>](https://github.com/cowsql/raft/commit/8e8f3e4e7ce7b07a59056b508b2c397e44dedc29)
+- [ ] [<code>trace: Convert a few messages from level 5 (trace) to level 3 (info)</code>](https://github.com/cowsql/raft/commit/d73533eb5f5cf8785bccc1c63b16299ab5f0ead3)
+- [ ] [<code>replication: Don't call ErrMsgTransfer if raft_io is NULL</code>](https://github.com/cowsql/raft/commit/a8667055397b03c44115ccf92d07423286c18e6a)
+- [ ] [<code>test: Support sending messages and persisting entries in test server</code>](https://github.com/cowsql/raft/commit/84a6c9def9bc0aa51bef2ac45f1ec311181b5396)
+- [ ] [<code>test: Convert a few tests to v1</code>](https://github.com/cowsql/raft/commit/06719218bdf9ce8584c67f3d4268b741650edcba)
+- [ ] [<code>test: Convert some test cases to the v1 API (#114)</code>](https://github.com/cowsql/raft/commit/ffa03f4ed82ab1faa75c2e8c6f635e3ed8e2184f)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
