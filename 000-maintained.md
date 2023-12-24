@@ -2494,7 +2494,6 @@
 - [ ] [<code>chore: Follow up database path</code>](https://github.com/krille-chan/fluffychat/commit/ea790f43ac9cefee4b9a7a33e8428178d625eaf9)
 - [ ] [<code>chore: Follow up migration notification</code>](https://github.com/krille-chan/fluffychat/commit/dea0bfd723630c897764cbc06377bda4dbccfb05)
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/46d9879a4578dfeff922f13394e596b82170482a)
-  - <sub>Tags: <code>rc1.16.1-1</code></sub>
 - [ ] [<code>fix: Update manual endpoints</code>](https://github.com/krille-chan/fluffychat/commit/e2a251b3fe6b3775694aedfe8615756bb5c280df)
 - [ ] [<code>refactor: Reinvite other part instead of reopen dm</code>](https://github.com/krille-chan/fluffychat/commit/26c637135a932bc02e0f419d5f9c873218898a92)
 - [ ] [<code>chore: Load hero users for rooms</code>](https://github.com/krille-chan/fluffychat/commit/d0e4aec4d678a20a222b2772139e1c82008ee9de)
@@ -2525,6 +2524,12 @@
 - [ ] [<code>feat: Search for public spaces</code>](https://github.com/krille-chan/fluffychat/commit/715e615e3a6945b58b8bb43387c59ef1a227bdf3)
 - [ ] [<code>refactor: Spaces UX improvements</code>](https://github.com/krille-chan/fluffychat/commit/d64b532afec8c894f468bb67c2f5a79a14004f8b)
 - [ ] [<code>chore: Follow up add chat subspace button</code>](https://github.com/krille-chan/fluffychat/commit/4b69b8e5e9884e82517c8cb030368f84ef5bdb47)
+- [ ] [<code>chore: Follow up design fixes</code>](https://github.com/krille-chan/fluffychat/commit/050d2a2faeae2bbf0b744c68e050a5af426ff343)
+- [ ] [<code>ci: Promote snapcraft from CI</code>](https://github.com/krille-chan/fluffychat/commit/9e93a4f4e1c916008cf1a70d6428c942d0b7f285)
+- [ ] [<code>chore: Follow up fetch presences from server</code>](https://github.com/krille-chan/fluffychat/commit/4214785b003dc8185c2f9e15c92eaad420fb8b7d)
+- [ ] [<code>chore: Add missing safearea to spaceview</code>](https://github.com/krille-chan/fluffychat/commit/5bf87eae24742a0ae47d5bc2633ce16781cf9e30)
+  - <sub>Tags: <code>rc1.16.1-1</code></sub>
+- [ ] [<code>ci: do not build snapcraft in ci</code>](https://github.com/krille-chan/fluffychat/commit/29dbf6f9f583cf76ceb0f1a012126c23968cdc92)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
