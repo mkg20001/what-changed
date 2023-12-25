@@ -2155,6 +2155,7 @@
 - [ ] [<code>Logging and NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/73d55a338ab434db4febdf3410008f4cbe4a562f)
 - [ ] [<code>Features xml cleanup</code>](https://github.com/dbeaver/dbeaver/commit/9b46f444248ac80780ee1f672cc6fc0c2c4051d7)
 - [ ] [<code>remove forRemoval (#22233)</code>](https://github.com/dbeaver/dbeaver/commit/e4f5b23d4de9095bf78b0b3997dfe7f6e01c8b2a)
+- [ ] [<code>Add jsvg to runtime/ide feature</code>](https://github.com/dbeaver/dbeaver/commit/c34effe24d3ccc2dd6bc12d188cdd340f15e74f1)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
