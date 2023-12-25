@@ -2167,6 +2167,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>sources: Fix openeuler tests</code>](https://github.com/lxc/distrobuilder/commit/80ef457dfee351ddff64273d376d0060b371f617)
 - [ ] [<code>nixos-http: support versioned releases</code>](https://github.com/lxc/distrobuilder/commit/7f14626ab0eac1d585999c59071a2984e4b6acae)
+- [ ] [<code>managers: Rebranding Macaroni OS Package Manager</code>](https://github.com/lxc/distrobuilder/commit/1489007c7c7ea2581f2facf03eca0a8251125b8e)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
