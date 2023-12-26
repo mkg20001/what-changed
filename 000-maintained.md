@@ -2158,6 +2158,7 @@
 - [ ] [<code>Add jsvg to runtime/ide feature</code>](https://github.com/dbeaver/dbeaver/commit/c34effe24d3ccc2dd6bc12d188cdd340f15e74f1)
 - [ ] [<code>Application discovery fix (eclipse plugin activation)</code>](https://github.com/dbeaver/dbeaver/commit/e7de9366d35caa121e207d0164d2ea626664cf97)
 - [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/664fcebf56bf7eb4cc4be01c1215e428a40a9c22)
+- [ ] [<code>Transaction isolation determine fix</code>](https://github.com/dbeaver/dbeaver/commit/bf748d65d02d5ad7d0b9cb1474e837a699e66fd8)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
