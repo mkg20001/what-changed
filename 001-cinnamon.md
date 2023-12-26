@@ -20,6 +20,8 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.1...HEAD)
 
+- [ ] [<code>backup locker: Restore stack management when not activated.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/6b917facf2753552164e669892af929e54dc7834)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.1...HEAD)
 
