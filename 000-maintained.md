@@ -2159,6 +2159,12 @@
 - [ ] [<code>Application discovery fix (eclipse plugin activation)</code>](https://github.com/dbeaver/dbeaver/commit/e7de9366d35caa121e207d0164d2ea626664cf97)
 - [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/664fcebf56bf7eb4cc4be01c1215e428a40a9c22)
 - [ ] [<code>Transaction isolation determine fix</code>](https://github.com/dbeaver/dbeaver/commit/bf748d65d02d5ad7d0b9cb1474e837a699e66fd8)
+- [ ] [<code>dbeaver/pro#2188 add support of Ukrainian language (#22108)</code>](https://github.com/dbeaver/dbeaver/commit/93b491375bee5996407e5fa412b04562730f365b)
+- [ ] [<code>fix: #10232 Improved italian translations (#22023)</code>](https://github.com/dbeaver/dbeaver/commit/3df0cd654e0000584200b4cd7640996c5a417ff1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2145 update mssql driver version (#22185)</code>](https://github.com/dbeaver/dbeaver/commit/f2db8904310315d3c20b8d7bb637e079155ad8ba)
+- [ ] [<code>CB-4420 saved credentials param fix (#22235)</code>](https://github.com/dbeaver/dbeaver/commit/1198efeb45c85ddcf434b2c69184206e846cccc0)
+- [ ] [<code>dbeaver/dbeaver#20704 Revert SVG icons (#22257)</code>](https://github.com/dbeaver/dbeaver/commit/621781741974e74b25074e05161d7d271d2c59de)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2541,6 +2547,20 @@
 - [ ] [<code>chore: Follow up chat view logic</code>](https://github.com/krille-chan/fluffychat/commit/696b284265c8bdaa5a0364e2bf8e40fec8a069af)
 - [ ] [<code>chore: Follow up new login page</code>](https://github.com/krille-chan/fluffychat/commit/b5a6c5e73b0fea9d564857a21229cd816c4b92b2)
 - [ ] [<code>chore: Dark mode improvements</code>](https://github.com/krille-chan/fluffychat/commit/cfc161b2523ef34ff0bcdff87b1ab23bb698f1fc)
+- [ ] [<code>chore: Better applifecycle logs</code>](https://github.com/krille-chan/fluffychat/commit/a5a1c9b580423f1c6a253d9b5bc5ab95aeb54307)
+- [ ] [<code>fix: Darktheme contrast fixes with primary color</code>](https://github.com/krille-chan/fluffychat/commit/89540ec7ef16a85063c85337af2f192165ae024c)
+- [ ] [<code>chore: Add more exception type</code>](https://github.com/krille-chan/fluffychat/commit/eb879936a67795e49f0224e768422ad54c452133)
+- [ ] [<code>fix: Add 3pid email for password reset</code>](https://github.com/krille-chan/fluffychat/commit/1f3d88d09ccc55338266e11db58f1caa82a87910)
+- [ ] [<code>chore: Follow up reply design</code>](https://github.com/krille-chan/fluffychat/commit/b251a6a4048ce33d7d74e0a9db845de42963cb27)
+- [ ] [<code>chore: Follow up stickers</code>](https://github.com/krille-chan/fluffychat/commit/b71023954d6ae5f184cfc79ff96b8aa9aba26826)
+- [ ] [<code>feat: Block users who sent invites</code>](https://github.com/krille-chan/fluffychat/commit/991277d5f5d9a53320f9bf05eaea2a92c6f0b18e)
+- [ ] [<code>chore: Follow up styling</code>](https://github.com/krille-chan/fluffychat/commit/357c2ea6b2d1dc14d7fcb142af00ff67d8964ba0)
+- [ ] [<code>ci: increase issue pr management operations</code>](https://github.com/krille-chan/fluffychat/commit/1da3a1b250012893505a0905bbfdc7f07e75aae1)
+- [ ] [<code>change: Remove wallpaper feature</code>](https://github.com/krille-chan/fluffychat/commit/5d20185140266293f1fbc39c80ff55b044de383b)
+- [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/038cd9cb735930ff751c645817a1fb5c11053444)
+- [ ] [<code>refactor: More stable scroll to event</code>](https://github.com/krille-chan/fluffychat/commit/7d112b1e1809be32501ab5af196eb679e6495b69)
+- [ ] [<code>chore: Follow up bug report dialog</code>](https://github.com/krille-chan/fluffychat/commit/8f3f5cdb8b57c7055e2aaef7a81fba2493b6a650)
+- [ ] [<code>feat: Animate in new events in timeline</code>](https://github.com/krille-chan/fluffychat/commit/f07aba448dcd38b9559523c00bdf8f3a6378ce5c)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3092,6 +3112,7 @@
 - [ ] [<code>incusd/network/ovn: Port LogicalSwitchPortIPs to OVSDB</code>](https://github.com/lxc/incus/commit/607dc9d56a4b4ab96bcb32fded3fa0796ed28f80)
 - [ ] [<code>incus-doc: Don't try to guess types</code>](https://github.com/lxc/incus/commit/fc5689af87524db5c30596281d9852b166996d01)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fcb3bba3485093db79a4b7a3ee2c01ee3c8ede3f)
+- [ ] [<code>doc/installing: Add Arch instructions</code>](https://github.com/lxc/incus/commit/4cfbe0f54373c13d30e54fe1e408b071c2377d88)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
