@@ -2165,6 +2165,9 @@
 - [ ] [<code>dbeaver/pro#2145 update mssql driver version (#22185)</code>](https://github.com/dbeaver/dbeaver/commit/f2db8904310315d3c20b8d7bb637e079155ad8ba)
 - [ ] [<code>CB-4420 saved credentials param fix (#22235)</code>](https://github.com/dbeaver/dbeaver/commit/1198efeb45c85ddcf434b2c69184206e846cccc0)
 - [ ] [<code>dbeaver/dbeaver#20704 Revert SVG icons (#22257)</code>](https://github.com/dbeaver/dbeaver/commit/621781741974e74b25074e05161d7d271d2c59de)
+- [ ] [<code>#3087 Format execution time (#22256)</code>](https://github.com/dbeaver/dbeaver/commit/b44f878672b8647e37df02d812b1fbff42e2419d)
+- [ ] [<code>dbeaver/pro#1506 Remove debug code (#22267)</code>](https://github.com/dbeaver/dbeaver/commit/380e5345b94c94492ed9aa4f9f0eb1a70595f50f)
+- [ ] [<code>#3087 Fix locale-dependent test (#22272)</code>](https://github.com/dbeaver/dbeaver/commit/c100a76675c91e9c7033a6167af424fb76514726)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2562,6 +2565,17 @@
 - [ ] [<code>chore: Follow up bug report dialog</code>](https://github.com/krille-chan/fluffychat/commit/8f3f5cdb8b57c7055e2aaef7a81fba2493b6a650)
 - [ ] [<code>feat: Animate in new events in timeline</code>](https://github.com/krille-chan/fluffychat/commit/f07aba448dcd38b9559523c00bdf8f3a6378ce5c)
 - [ ] [<code>chore: Follow up animate in</code>](https://github.com/krille-chan/fluffychat/commit/627f7b88d43c09f578e3c0a132d2df94cf10ad3b)
+- [ ] [<code>build: Update matrix dart sdk to 0.25.1</code>](https://github.com/krille-chan/fluffychat/commit/f11e9ec6d219f327b35bef8ebfbe525becec1a74)
+- [ ] [<code>chore: Follow up background sync</code>](https://github.com/krille-chan/fluffychat/commit/6a75d07dea4c3e83aab6990eb7b77929e2a09418)
+- [ ] [<code>fix: Some links not clickable in messages</code>](https://github.com/krille-chan/fluffychat/commit/6b53d27c4cc13818b200df73b222635e8c4b97dc)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up select events</code>](https://github.com/krille-chan/fluffychat/commit/e60bc1c34048468cb482d9a10986628385a4519c)
+- [ ] [<code>chore: Follow up sendOnEnter fix</code>](https://github.com/krille-chan/fluffychat/commit/1a3d7f5b1c3c85b312b528ffd92fb8eed5d6bba3)
+- [ ] [<code>chore: Follow up select events</code>](https://github.com/krille-chan/fluffychat/commit/7e4775d8df709e484974e676d9c3b9418a919acb)
+- [ ] [<code>build: Update matrix dart sdk to 0.25.2</code>](https://github.com/krille-chan/fluffychat/commit/e70ecfcf040be3523beeab27eeae4a932ed6fd92)
+- [ ] [<code>fix: Open notification for invite crashes app</code>](https://github.com/krille-chan/fluffychat/commit/8f66cad58b6cbfccf2c4aff559fc3f1925e3c3de)
+- [ ] [<code>chore: Follow up mark messages</code>](https://github.com/krille-chan/fluffychat/commit/bfb3fa0f304717f6be681b541f69e5ca89e3877c)
+- [ ] [<code>chore: Follow up message context action</code>](https://github.com/krille-chan/fluffychat/commit/43f304b1a88404193ff75c9ac3c7f61a6a15aba9)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
