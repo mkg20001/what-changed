@@ -2561,6 +2561,7 @@
 - [ ] [<code>refactor: More stable scroll to event</code>](https://github.com/krille-chan/fluffychat/commit/7d112b1e1809be32501ab5af196eb679e6495b69)
 - [ ] [<code>chore: Follow up bug report dialog</code>](https://github.com/krille-chan/fluffychat/commit/8f3f5cdb8b57c7055e2aaef7a81fba2493b6a650)
 - [ ] [<code>feat: Animate in new events in timeline</code>](https://github.com/krille-chan/fluffychat/commit/f07aba448dcd38b9559523c00bdf8f3a6378ce5c)
+- [ ] [<code>chore: Follow up animate in</code>](https://github.com/krille-chan/fluffychat/commit/627f7b88d43c09f578e3c0a132d2df94cf10ad3b)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
