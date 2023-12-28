@@ -2576,6 +2576,7 @@
 - [ ] [<code>fix: Open notification for invite crashes app</code>](https://github.com/krille-chan/fluffychat/commit/8f66cad58b6cbfccf2c4aff559fc3f1925e3c3de)
 - [ ] [<code>chore: Follow up mark messages</code>](https://github.com/krille-chan/fluffychat/commit/bfb3fa0f304717f6be681b541f69e5ca89e3877c)
 - [ ] [<code>chore: Follow up message context action</code>](https://github.com/krille-chan/fluffychat/commit/43f304b1a88404193ff75c9ac3c7f61a6a15aba9)
+- [ ] [<code>chore: Follow up better error dialog</code>](https://github.com/krille-chan/fluffychat/commit/1d44e8b5d08e373e4814ddc838dd0fa26a7be571)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3128,6 +3129,7 @@
 - [ ] [<code>incus-doc: Don't try to guess types</code>](https://github.com/lxc/incus/commit/fc5689af87524db5c30596281d9852b166996d01)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fcb3bba3485093db79a4b7a3ee2c01ee3c8ede3f)
 - [ ] [<code>doc/installing: Add Arch instructions</code>](https://github.com/lxc/incus/commit/4cfbe0f54373c13d30e54fe1e408b071c2377d88)
+- [ ] [<code>lxd-to-incus: Clarify error messages</code>](https://github.com/lxc/incus/commit/11e501a2720fa44dcc31b9a689130e7a984cba3f)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3748,6 +3750,8 @@
 - [ ] [<code>test: Convert more tests to use the v1 API</code>](https://github.com/cowsql/raft/commit/168c626b99163b3bd34e192216621e034091e890)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test: Convert election tests to the v1 API (#115)</code>](https://github.com/cowsql/raft/commit/0b23c13844474c5c2f3fe130c7017ceddbdab903)
+- [ ] [<code>replication: Don't delay replication after a failed probe</code>](https://github.com/cowsql/raft/commit/c1866c1d2d82ec97043a465d649cb27b4b6746f6)
+- [ ] [<code>replication: Don't delay replication after a failed probe (#117)</code>](https://github.com/cowsql/raft/commit/a03b9940da5fc9549a09c38523160a6f28387035)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
