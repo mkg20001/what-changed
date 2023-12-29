@@ -2588,6 +2588,8 @@
 - [ ] [<code>chore: Follow up select icon</code>](https://github.com/krille-chan/fluffychat/commit/fb98e3cf223dccdcb353ada94e4f34ed93df3303)
 - [ ] [<code>Revert "chore: Follow up chat appbar actions"</code>](https://github.com/krille-chan/fluffychat/commit/2fadb64bc0aa1d19fe4c30502451e13edabc3577)
 - [ ] [<code>chore: Follow up mark messages</code>](https://github.com/krille-chan/fluffychat/commit/f8d4b1f3aea6d49a655100e7941f728645ae760b)
+- [ ] [<code>chore: Minor design adjustments</code>](https://github.com/krille-chan/fluffychat/commit/a349a0804a59a2ddc5019a5aaf90492e1f4d7209)
+- [ ] [<code>chore: Follow up set read marker</code>](https://github.com/krille-chan/fluffychat/commit/fe00db3281a014d8d44194827e52eebbd43ec605)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3809,6 +3811,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>make: Fix coverage target when using lcov 2.0 (#119)</code>](https://github.com/cowsql/raft/commit/fd63a6914115ddc3174451e71ac8a9770616f0bc)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>recv: Check remote term early on when handling RequestVote responses</code>](https://github.com/cowsql/raft/commit/df9cd4765db15ab20bac5aae7c7e8ffc7432cd08)
+- [ ] [<code>recv: Check remote term early on when handling RequestVote responses (#121)</code>](https://github.com/cowsql/raft/commit/bd9534ada9bbd4ec5ca0f512f66d1cd22de0f53b)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
