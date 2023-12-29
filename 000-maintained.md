@@ -2174,6 +2174,7 @@
 - [ ] [<code>dbeaver/pro#2136 Quoted identifiers highlighting (#22201)</code>](https://github.com/dbeaver/dbeaver/commit/75a514ea36236394e9770b34a3799bca534718f5)
 - [ ] [<code>dbeaver/pro#2151 Most of the items in context menu of file explorer are (#22221)</code>](https://github.com/dbeaver/dbeaver/commit/c2e11c1ecb263af71a56fdfe0115495dbdc72f75)
 - [ ] [<code>dbeaver/pro#2149 Revert winter splash (#22258)</code>](https://github.com/dbeaver/dbeaver/commit/f2e08611d0304e1127a6acc24403ee6a4e73ce2a)
+- [ ] [<code>dbeaver/pro#2077 hide local client for GCP cloud databases (#22268)</code>](https://github.com/dbeaver/dbeaver/commit/6f7530ffb5853c27468cc65248c74fe8d2a7ab46)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2590,6 +2591,10 @@
 - [ ] [<code>chore: Follow up mark messages</code>](https://github.com/krille-chan/fluffychat/commit/f8d4b1f3aea6d49a655100e7941f728645ae760b)
 - [ ] [<code>chore: Minor design adjustments</code>](https://github.com/krille-chan/fluffychat/commit/a349a0804a59a2ddc5019a5aaf90492e1f4d7209)
 - [ ] [<code>chore: Follow up set read marker</code>](https://github.com/krille-chan/fluffychat/commit/fe00db3281a014d8d44194827e52eebbd43ec605)
+- [ ] [<code>chore: Follow up desktop message popupmenu</code>](https://github.com/krille-chan/fluffychat/commit/504fccc98f716fd7ced4b6ee9ce22678f98ff045)
+- [ ] [<code>chore: Follow up select events</code>](https://github.com/krille-chan/fluffychat/commit/7c8d40f18675ce2e08086598bf4fa0fb52d57925)
+- [ ] [<code>chore: Follow up select events</code>](https://github.com/krille-chan/fluffychat/commit/5d639663fe183bee04e1498e61c90e0952bb888a)
+- [ ] [<code>chore: Follow up database migration notification on linux</code>](https://github.com/krille-chan/fluffychat/commit/84fd65f55e5f5f4719efa2968569e58e8ce12e53)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3022,8 +3027,199 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>pkgconf: Add yuv library in Libs.private for static linking (#1906)</code>](https://github.com/AOMediaCodec/libavif/commit/0dcdbe659083357caee241b43cdaa485a72bf429)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
-> Dropped lxc - no appropriate URL found OrderedDict([('attr_path', 'lxc'), ('home_url', 'https://linuxcontainers.org/'), ('src_url', 'https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz'), ('urls', ['https://linuxcontainers.org/downloads/lxc/lxc-4.0.12.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
+#### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
+
+- [ ] [<code>Read list until process exits</code>](https://github.com/lxc/lxc/commit/b576a47d59adc89757459d785ee98a2635542eb0)
+- [ ] [<code>meson: Generate compile commands by iterating over an array</code>](https://github.com/lxc/lxc/commit/289d6413ebac8b34394a9f5dbffdb6a70e7f145f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tools: Provide multicall lxc binary</code>](https://github.com/lxc/lxc/commit/f4d02217ee2baf7275175d2c6610de4908a9addf)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/e73520adf4fd6a7548872ac4097adb67b7cd1314)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix uninitialized read in parse_cap when libcap is not used</code>](https://github.com/lxc/lxc/commit/b203e1a141a26c933ef0ca38c4eccc3e8c6637fd)
+- [ ] [<code>use systemd dbus StartTransientUnit for unpriv cgroup2</code>](https://github.com/lxc/lxc/commit/c55353f84a8c171d0ccb911e1d34a5ed5577def1)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix for issue 4026: set broadcast to 0.0.0.0 for /31 and /32</code>](https://github.com/lxc/lxc/commit/26de6cbc8d8c765877c8e55cf2d84b0ceec5fad1)
+- [ ] [<code>conf: log file descriptors on error during idmapped mount setup</code>](https://github.com/lxc/lxc/commit/fc133a9f37a62f4f35d66ee309d28d4953920b4a)
+- [ ] [<code>start: don't overwrite file descriptors during namespace preservation</code>](https://github.com/lxc/lxc/commit/7317d2a8a7d81a6208c64446b47f09748d406ecc)
+- [ ] [<code>start: record inherited namespaces earlier to make it available for idmapped rootfs setup</code>](https://github.com/lxc/lxc/commit/6c50e09f2cd59d60aa3d60d87c8e6442ad062c48)
+- [ ] [<code>conf: fix append_ttyname()</code>](https://github.com/lxc/lxc/commit/eae44ce1993160508dc7155318f6cc9c18bfaf3f)
+- [ ] [<code>start: fix namespace sharing</code>](https://github.com/lxc/lxc/commit/07a00b78f0142ee2098a30b792c80eb578765d39)
+- [ ] [<code>add check for statvfs</code>](https://github.com/lxc/lxc/commit/8ee615c27d4e646b13a767ffc59823262b38427d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix off-by-one error constructing mount options</code>](https://github.com/lxc/lxc/commit/df3301046fc5f31881a2d4736cc5c381342ecc3d)
+- [ ] [<code>Store mount options in correct variable</code>](https://github.com/lxc/lxc/commit/3d360cf9dbf556e5ff90b562fa3baac73821a342)
+- [ ] [<code>meson: add remaining still-in-use config checks</code>](https://github.com/lxc/lxc/commit/353f0f99267e28a5049d01a28895aa2305119c0d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>src/lxc/log.h: fix STRERROR_R_CHAR_P</code>](https://github.com/lxc/lxc/commit/8ee8879083f40d2d0b9cef46d6a6907c1b5a814b)
+- [ ] [<code>meson.build: fix build with -Dcapabilities=false</code>](https://github.com/lxc/lxc/commit/7d72354898feac15bc4082130bcbe638bae02450)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: fix build without stack-protector</code>](https://github.com/lxc/lxc/commit/5e704fe389ef56d89d14caf52ec45fb045670ece)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: update security mails</code>](https://github.com/lxc/lxc/commit/7f664307113e582e2c7bd4f39f433bb7af597560)
+- [ ] [<code>lxc-usernsexec: allow to select which {g,u}id to switch to</code>](https://github.com/lxc/lxc/commit/32a07151939c6c251def2a1e5e04973e4c64103a)
+- [ ] [<code>gitignore: Simplify</code>](https://github.com/lxc/lxc/commit/e452c8945788e8b81854f74296d89fe6d1a60529)
+- [ ] [<code>build: detect where struct mount_attr is declared</code>](https://github.com/lxc/lxc/commit/c1115e1503bf955c97f4cf3b925a6a9f619764c3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: detect sys/pidfd.h availability</code>](https://github.com/lxc/lxc/commit/ef1e0607b82e27350c2d677d649c6a0a9693fd40)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: check for FS_CONFIG_* header symbol in sys/mount.h</code>](https://github.com/lxc/lxc/commit/cbabe8abf11e7e7fb49c123bae31efdd9bc8f1e8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: allow explicit distrosysconfdir</code>](https://github.com/lxc/lxc/commit/16ebb29dccb35bf74e8a19e8c45d2513f927476f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>tree-wide: wipe direct or indirect linux/mount.h inclusion</code>](https://github.com/lxc/lxc/commit/4771699fd97b1e9ee7dc4f7cfe01c8ddd698f682)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tree-wide: use struct clone_args directly</code>](https://github.com/lxc/lxc/commit/63468abd3287ebd5cc4ed9205334217031049fb4)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tree-wide: use struct open_how directly</code>](https://github.com/lxc/lxc/commit/133aa416ca2a5996090ec0e697e253646364d274)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: fix docbook2x detection</code>](https://github.com/lxc/lxc/commit/06f99c2599db8140bd839532caa8f6ee0d1c3ff6)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>tree-wide: minimize liburing.h inclusion</code>](https://github.com/lxc/lxc/commit/68cf564890a36a1a094aa08af5cd34fab24e59d3)
+- [ ] [<code>mount: move mount utilities from syscall_wrappers.h into mount_utils.h</code>](https://github.com/lxc/lxc/commit/74c2f58e1fe8be16b0cee0e15f3152bccf74ad81)
+- [ ] [<code>mount_utils: remove conf.h include</code>](https://github.com/lxc/lxc/commit/da8c298534b0854aab9be51b5deba72649dc34e2)
+- [ ] [<code>build: prevent the inclusion of linux/mount.h with a hack</code>](https://github.com/lxc/lxc/commit/7b1836bce13d32343df9cc1bdb6e0205ef6f195d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tree-wide: split open helpers into open_utils.h</code>](https://github.com/lxc/lxc/commit/589a930f15ec7b43ddf20b30cf615701c0a6d9b9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>use sd_bus_call_method_async to replace the asyncv one</code>](https://github.com/lxc/lxc/commit/b0abedf60b40adf0f2fb3cf9dfee4bc601f7b39f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix error message when use tools with -? option</code>](https://github.com/lxc/lxc/commit/20cc784560124961e7dd173a690d70b6b6f0735e)
+- [ ] [<code>Update cifuzz.yml</code>](https://github.com/lxc/lxc/commit/2b802090f5c20139d6170530df9838bdf0c40c41)
+- [ ] [<code>build(deps): bump actions/checkout from 2 to 3</code>](https://github.com/lxc/lxc/commit/dc4f1220fe37cc04a080de97bcab505a839a7a43)
+- [ ] [<code>conf: allow cross-device links</code>](https://github.com/lxc/lxc/commit/4a66dabf86ed1a0f210a23371126f27df6929eb7)
+- [ ] [<code>Update README.md</code>](https://github.com/lxc/lxc/commit/09233897b54d86e5c397b921edf32a90c8c7a237)
+- [ ] [<code>lxc-attach: Fix lost return codes of spawned processes that are killed</code>](https://github.com/lxc/lxc/commit/4ebca5a005afbc19c08f663e24d3e76518d12fa8)
+- [ ] [<code>lxc/attach: Detect EACCES from execvp and convert to 126 exit status</code>](https://github.com/lxc/lxc/commit/f7cadaa346a0233c00bbd60412c5f6148288d217)
+- [ ] [<code>build: add libsystemd to oss fuzz dependencies</code>](https://github.com/lxc/lxc/commit/3cac3fce4b3a7259b5726a0d4ecdfa936cbf15eb)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tools: lxc-destroy: update help message for --force</code>](https://github.com/lxc/lxc/commit/8480c56a4502df3cb13c5a66fb50adfca88ebd21)
+- [ ] [<code>tests: lxc-test-checkpoint-restore: use trap to do cleanup</code>](https://github.com/lxc/lxc/commit/73fd9bf5580d8b7d1f61b2e90dfd352355028f4a)
+- [ ] [<code>Unroll IN_SET since the max usage is 2 elements check</code>](https://github.com/lxc/lxc/commit/4deaa28c04c6c475ec554eec7572e6a99e637394)
+- [ ] [<code>cgroups: fix -Waddress warning</code>](https://github.com/lxc/lxc/commit/bc318926d701befde030b77948c343bb337b0713)
+- [ ] [<code>build: fix handling of dependancies to fix build on openSUSE</code>](https://github.com/lxc/lxc/commit/c1f87c8113a896fc0fd27f3f941bc7f3fa2754e5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: only build init.lxc.static if libcap is statically linkable</code>](https://github.com/lxc/lxc/commit/5aff4ea371352a230ab2c5ad8edd2e0dd736ee39)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: use cc.get_define to detect FS_CONFIG_* symbols</code>](https://github.com/lxc/lxc/commit/f321cd610ad8bfc65fbae7a869db12933fb71b46)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: drop build-time systemd dependency</code>](https://github.com/lxc/lxc/commit/c6c705bfa30a4a3388c29f51025092c090f725b8)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>src/lxc/meson.build: fix the static library path</code>](https://github.com/lxc/lxc/commit/64eb31d02d4933ad414239130df3dff45a0f6f91)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tests: lxc-test-reboot: Fix build on ia64</code>](https://github.com/lxc/lxc/commit/16c6ff22693a7c5419e4f36b4b8158d5dccbceec)
+- [ ] [<code>meson.build: strip newlines from git output</code>](https://github.com/lxc/lxc/commit/8aac588663614d73ca833bea61f95623258476d5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: strip newline for variable assignments</code>](https://github.com/lxc/lxc/commit/dcf85308cb90125a5fc393abc7c3f02190ecb969)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>README: remove lgtm</code>](https://github.com/lxc/lxc/commit/1029c2a06e9307ac7d738efd76513ef6b87737b8)
+- [ ] [<code>cgroups: use userns_exec_full() during cgroup removal</code>](https://github.com/lxc/lxc/commit/27f69d45bf82abadcbfe7faf3c6ba9b98d901097)
+- [ ] [<code>cgroups: only allocate user namespace if we have to</code>](https://github.com/lxc/lxc/commit/68020412c2000f568a17a43575a3568086ba0e98)
+- [ ] [<code>conf: create separate peer group for container's root</code>](https://github.com/lxc/lxc/commit/81d94a4eec65fecc244e2d2def457e1b510d8777)
+- [ ] [<code>apparmor: allow shared mounts in start-container.in</code>](https://github.com/lxc/lxc/commit/01ae6d4713f1dc0659999adcfa6aa75a243d18fd)
+- [ ] [<code>conf: ensure mount tunnel is a dependent mount</code>](https://github.com/lxc/lxc/commit/7e73934130c2be62192773327f3271b45bc5c47f)
+- [ ] [<code>github: fix coverity build</code>](https://github.com/lxc/lxc/commit/a8dcf88d0563d94995295f4009aa55c6c5693288)
+- [ ] [<code>github: fix coverity (add libpam-dev)</code>](https://github.com/lxc/lxc/commit/b37cce95b6cbe0ce5c4d60779ac068a2d5d9526d)
+- [ ] [<code>apparmor: properly check lxc_strmmap ret value</code>](https://github.com/lxc/lxc/commit/6ea4a6c06b1c61ffa495adac6fa92bfb5b96c52e)
+- [ ] [<code>network: always initialize struct nl_handler</code>](https://github.com/lxc/lxc/commit/f8aa61f97ff4e9c7a4e995981ef386a602ac20a7)
+- [ ] [<code>cgroups: fix buffer out-of-bounds access in enable_controllers_delegation</code>](https://github.com/lxc/lxc/commit/93d545e37808631af08aa4d6b0325d3352cf89b5)
+- [ ] [<code>cgroups: check snprintf retval in unpriv_systemd_create_scope</code>](https://github.com/lxc/lxc/commit/62b94d3ec35d00c08b3fef579dec43155e02f15a)
+- [ ] [<code>state: additional check in lxc_wait to prevent OOB</code>](https://github.com/lxc/lxc/commit/0072919ddcf37e7277f0bc24e80a44195459cdd9)
+- [ ] [<code>cgroups: fix cgroup layout detection in __initialize_cgroups</code>](https://github.com/lxc/lxc/commit/42b22da6d1b9dda468580e01c466e1c0e91c7925)
+- [ ] [<code>src/lxc/meson.build: fix build without apparmor</code>](https://github.com/lxc/lxc/commit/70b176b0d119e0aa6e2910cc8e00a38fbc8f18af)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>checkconfig: Fix mixed tabs/spaces</code>](https://github.com/lxc/lxc/commit/914fec51b04e9207a6563a507169bcd112ca480a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>checkconfig: Hide version if no lxc-start</code>](https://github.com/lxc/lxc/commit/e027ca7119d198ff9d956494a134e92059ef0636)
+- [ ] [<code>checkconfig: Tweak layout</code>](https://github.com/lxc/lxc/commit/3ab04999d807b92abefc0187fa814e41c586a143)
+- [ ] [<code>checkconfig: Tweak cgroup handling</code>](https://github.com/lxc/lxc/commit/3f361da618a4f8b5f2ab5848348661dea3a7f4ff)
+- [ ] [<code>checkconfig: Fix filesystem capability check</code>](https://github.com/lxc/lxc/commit/c27ea96f7f21edcefae21ce00e11c92edfd51932)
+- [ ] [<code>build: force linking against liblxc</code>](https://github.com/lxc/lxc/commit/a8e1070c61043b61f2e7436ec2ff67768ce638d3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Patching an incoming CVE (CVE-2022-47952)</code>](https://github.com/lxc/lxc/commit/1b0469530d7a38b8f8990e114b52530d1bf7f3b8)
+- [ ] [<code>lxc_user_nic: fix get_mtu() error handling</code>](https://github.com/lxc/lxc/commit/4fa83282b56e98ca7021f31c62928fc51acf18a2)
+- [ ] [<code>lxc-default-cgns apparmor profile: allow overlay mounts</code>](https://github.com/lxc/lxc/commit/43ad7816d8498eeb22d39c1afe6fff438893b54c)
+- [ ] [<code>Fix build error on sparc64 caused by using the gold linker</code>](https://github.com/lxc/lxc/commit/849d808779862847c2c36054e8612dc8f0e79f7f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>drop broken lxc-test-fuzzers</code>](https://github.com/lxc/lxc/commit/7914c259f2590fe75f6cea791df563bd1773116d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix typo: bev_type -> bdev_type</code>](https://github.com/lxc/lxc/commit/588b53b19890fc5f5609d436de96f0aa8f59bddc)
+- [ ] [<code>Fix strlcat's return value checks</code>](https://github.com/lxc/lxc/commit/311bb8c53eb2df925fa742193534d41157660e93)
+- [ ] [<code>lxc-net.in: fix nftables syntax for IPv6 NAT</code>](https://github.com/lxc/lxc/commit/4de047f51365cc06a626ee9de49fec5f76556c66)
+- [ ] [<code>initutils: use PRIu64 for uint64_t in setproctitle</code>](https://github.com/lxc/lxc/commit/304bf58fa142c7189178f2d78dd39e7dcd3ea814)
+- [ ] [<code>apparmor: don't try to mmap empty files</code>](https://github.com/lxc/lxc/commit/db3cbfa75c5e54c540e13654f43723462f7d7912)
+- [ ] [<code>Add support for squashfs images in oci via atomfs</code>](https://github.com/lxc/lxc/commit/1a2da75b6e8431f3530ebd3f75442d3bd5eec5e2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Allow fuse mounts in apparmor start-container.</code>](https://github.com/lxc/lxc/commit/4ea0b361f1d0c7ce67523a59a7a834eb12f7b555)
+- [ ] [<code>tree-wide: convert fcntl(FD_CLOEXEC) to SOCK_CLOEXEC</code>](https://github.com/lxc/lxc/commit/3c1453a38d07b8c92b1a7e6b204b454224c1c924)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>switch from libsystemd's dbus to dbus-1</code>](https://github.com/lxc/lxc/commit/820d2a2b3a886ebfe46cd256ba8c320e50fcc5cd)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>console-log test: make sure container is stopped before restarting</code>](https://github.com/lxc/lxc/commit/5894cf31014d15af1f352d15fc2633eec1d99237)
+- [ ] [<code>lsm: apparmor: allow to change mount propagation</code>](https://github.com/lxc/lxc/commit/890de075941a8d6e8d0294480e82c72e6de51fc1)
+- [ ] [<code>make setproctitle()'s /proc/pid/stat parsing safe</code>](https://github.com/lxc/lxc/commit/f7f15b20a301d280403675ace11cdb53e42a909d)
+- [ ] [<code>setproctitle(): Handle potential NULL return from strrchr()</code>](https://github.com/lxc/lxc/commit/ebea2b5a993f180b3f8810b0a62143b69db0abca)
+- [ ] [<code>file_utils: rename fd_make_nonblocking to fd_make_blocking</code>](https://github.com/lxc/lxc/commit/747c4df31a511fd2ba5554418e9cdedecefa19a7)
+- [ ] [<code>file_utils: add fd_make_nonblocking helper</code>](https://github.com/lxc/lxc/commit/7eff16cc4c3b3c0e3d3d67d0dd8e4e0d8e0ae67e)
+- [ ] [<code>terminal: make a terminal FDs non-blocking</code>](https://github.com/lxc/lxc/commit/715fb4effaa7f35e642056d2a10d5b8c393bfac0)
+- [ ] [<code>mainloop: io_uring: disable IORING_POLL_ADD_MULTI</code>](https://github.com/lxc/lxc/commit/7fd671dbce98d139e52e8c4266f1050ef49ea8af)
+- [ ] [<code>lxccontainer: extend lxccontainer API with set_timeout</code>](https://github.com/lxc/lxc/commit/0fed82b2679139babb14579ab3a4acda150f093b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>commands: support timeout in LXC_CMD_GET_STATE</code>](https://github.com/lxc/lxc/commit/b670f0e759b1e8c10d564aca568b44028eb34783)
+- [ ] [<code>rename functions which clash with libsystemd's</code>](https://github.com/lxc/lxc/commit/539c397725bbe948ab39524ea71bd4ab7cbd4bd7)
+- [ ] [<code>src/tests: Fix container creation errors</code>](https://github.com/lxc/lxc/commit/ca25f3bf64fbb9814318b00b73b45d9f4044c291)
+- [ ] [<code>tests: fix parse_config_file seccomp test</code>](https://github.com/lxc/lxc/commit/8575ffeb7fc04b96e1d7bc736afb46670c5f7631)
+- [ ] [<code>explicitly convert *mainloop_handler to __u64</code>](https://github.com/lxc/lxc/commit/cf2b2020932e0956786ba973615fc47cea771f44)
+- [ ] [<code>github: Add DCO/target tests</code>](https://github.com/lxc/lxc/commit/213e2f68d90ed63e6338329daf566a79b64dee76)
+- [ ] [<code>Add libarchive tar support for lxc download</code>](https://github.com/lxc/lxc/commit/64167f90647b4c107f58ff9144710cf2363e8e4c)
+- [ ] [<code>get_hierarchy: dont WARN about no usable controller</code>](https://github.com/lxc/lxc/commit/84cfe977246989d58a4bdfd7942c764e592af039)
+- [ ] [<code>CONTRIBUTING: add a note on AI generated code</code>](https://github.com/lxc/lxc/commit/69e51b919ecab593a95f8b7c1e3d6ae3eefc6609)
+- [ ] [<code>github: Update for main branch</code>](https://github.com/lxc/lxc/commit/fbc31691ee6dc49db1050c310ad66ee18d65481f)
+- [ ] [<code>Fix start api call to split quoted strings in execute or init command.</code>](https://github.com/lxc/lxc/commit/3f45443fd03e7ea82a98691888802cdf1d011bd1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update console perms to 0600</code>](https://github.com/lxc/lxc/commit/7cec54455ac0f2cb02bf532c2acfabe682c10c2c)
+- [ ] [<code>Remove references to LXD</code>](https://github.com/lxc/lxc/commit/e2696df93b8926bd42c759da49843209336dcfc2)
+- [ ] [<code>lxccontainer.h: Move new fields to the end</code>](https://github.com/lxc/lxc/commit/84169158f40cab05a9fea2cad25f8d33c71ade4f)
+- [ ] [<code>build(deps): bump actions/checkout from 3 to 4</code>](https://github.com/lxc/lxc/commit/aca53bcf70db30d4d9df372f44852b2f725d07cb)
+- [ ] [<code>lxc/lxccontainer: fix do_lxcapi_set_timeout retval</code>](https://github.com/lxc/lxc/commit/adadfa372ed1b4b4ef224311b72f41cf20994f87)
+- [ ] [<code>lxc/checkconfig: replace `cat | grep` with `grep`</code>](https://github.com/lxc/lxc/commit/003efe6db9f2bc96cd5e2242acc3dd19f64da947)
+- [ ] [<code>lxc/checkconfig: replace `type` by `command`</code>](https://github.com/lxc/lxc/commit/cb2574319b344cc61d1106862530a079f9680165)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc/checkconfig: remove some unneeded `echo -n`</code>](https://github.com/lxc/lxc/commit/8a611c0b282d5af3c0fac72cd17dc0b7dc53e34b)
+- [ ] [<code>lxc/checkconfig: add missing quotes to please shellcheck</code>](https://github.com/lxc/lxc/commit/a4684eb11babedc7a59e5975ab8b33539db43b88)
+- [ ] [<code>lxc/checkconfig: replace `! -z` by `-n` (SC2236)</code>](https://github.com/lxc/lxc/commit/5cc69e440313465c7b24b01f0054798d94cad51d)
+- [ ] [<code>lxc/checkconfig: check exit code directly (SC2181)</code>](https://github.com/lxc/lxc/commit/74b9faa64921c568bc4479c54b5f7b6ba0efd43c)
+- [ ] [<code>lxc/checkconfig: remove superfluous (..) around test command (SC2234)</code>](https://github.com/lxc/lxc/commit/f84f03d1d04719c9a54b91ac6bca4371da7ca987)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc/checkconfig: avoid subshell (SC2235)</code>](https://github.com/lxc/lxc/commit/d52c345c826be82f071eb9e9a4ea2c5cc23ea15c)
+- [ ] [<code>lxc/checkconfig: minor cosmetic change</code>](https://github.com/lxc/lxc/commit/ba4f810bca96f775a4dbd62a9fce3c172062a88f)
+- [ ] [<code>lxc/checkconfig: replace `echo -n` by printf</code>](https://github.com/lxc/lxc/commit/f3e01fa80c78920422b01066e092d06ccca516e5)
+- [ ] [<code>lxc/checkconfig: use multiline `echo`</code>](https://github.com/lxc/lxc/commit/a87d6fcc927ff5f910cc5e72e66caa08e4c1765b)
+- [ ] [<code>reset root_nsuid_map and root_nsgid_map when idmaps is cleared</code>](https://github.com/lxc/lxc/commit/cc6819c69db7ed6282367479a9a5513a6d992712)
+- [ ] [<code>meson: Remove support for upstart</code>](https://github.com/lxc/lxc/commit/fb73c18d2dd3d55b4aa2c2803ce4603c7dad4b53)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>hooks/ubuntu-cloud-prep: remove upstart handling</code>](https://github.com/lxc/lxc/commit/7bf1695d0d70b83c6fc19e59e1aec2a9a0c037fc)
+- [ ] [<code>doc: remove the warning mentionning upstart</code>](https://github.com/lxc/lxc/commit/79a4a3cf8edc39ee3fad3cf01f2da91492007eae)
+- [ ] [<code>config/init: Drop upstart files</code>](https://github.com/lxc/lxc/commit/abffab441ea26c365e2d84bd8677c3ab0a5e8799)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>conf: fix ephemeral copies</code>](https://github.com/lxc/lxc/commit/0e932812ae2ac4dec58e413c0d95d581385b9756)
+- [ ] [<code>don't try to delete vlan 0 from veth</code>](https://github.com/lxc/lxc/commit/8cff8fa1aeafad89a4b10936f145911000e86816)
+- [ ] [<code>Disable IPv6 link-local addresses for bridged veth</code>](https://github.com/lxc/lxc/commit/d65fe1b27d46faccff7b97760e6b34442aad32df)
+- [ ] [<code>lxc-local: Change LXC_CONFIG to LXC_METADATA to match args and be more clear</code>](https://github.com/lxc/lxc/commit/faa38a19792c0b2e377e8a0a262d4d58b94aa19b)
+- [ ] [<code>lxc-local: Improve usage info</code>](https://github.com/lxc/lxc/commit/7c025072edf5857cf75e025bfd97c5eba2f5ac20)
+- [ ] [<code>lxc-local: Re-organize code to use more functions</code>](https://github.com/lxc/lxc/commit/f885a3c56047a05436ec4466833465b25e406474)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-local: Add --no-dev option to exclude /dev from the fstree</code>](https://github.com/lxc/lxc/commit/86f5c12264a5bb8c80c13b22416566b2443b852c)
+- [ ] [<code>config: try to create workdir if not exist</code>](https://github.com/lxc/lxc/commit/789457f1ae076552a3fbd6b7dd579ed74c4c5a39)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/lxc/commit/112d5615e143e237a62f77c1b915fb6bcdefecf3)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -3148,6 +3344,15 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fcb3bba3485093db79a4b7a3ee2c01ee3c8ede3f)
 - [ ] [<code>doc/installing: Add Arch instructions</code>](https://github.com/lxc/incus/commit/4cfbe0f54373c13d30e54fe1e408b071c2377d88)
 - [ ] [<code>lxd-to-incus: Clarify error messages</code>](https://github.com/lxc/incus/commit/11e501a2720fa44dcc31b9a689130e7a984cba3f)
+- [ ] [<code>doc/installing: Fix chocolatey link</code>](https://github.com/lxc/incus/commit/0e2d3b77c5976415a269d628002a6fffdbbca82b)
+- [ ] [<code>doc: Remove MicroCloud references</code>](https://github.com/lxc/incus/commit/87f767a6027562f79068908c7f4b260304770236)
+- [ ] [<code>incusd/network/ovn: Properly check transactions</code>](https://github.com/lxc/incus/commit/35fc926028536b79c8a269b5a3d8ea103b44a5b9)
+- [ ] [<code>incusd/network/ovs: Properly check transactions</code>](https://github.com/lxc/incus/commit/8583a88ba5d1de260b22975caca4756443b8b637)
+- [ ] [<code>incusd/network/ovn: Fix ChassisGroupChassisAdd</code>](https://github.com/lxc/incus/commit/fd4d3a8fad4e319940e8c1db8b2de8a1242a9ca9)
+- [ ] [<code>incusd/network/ovn: Fix BridgeAdd</code>](https://github.com/lxc/incus/commit/e0e12ad9666c3b7f81c45e71ace187e99600be5e)
+- [ ] [<code>incusd/network/ovn: Properly handle uplink with disabled DHCP/DHCPv6</code>](https://github.com/lxc/incus/commit/d9b147fbbc5c4202259107c0332526a4237a68ce)
+- [ ] [<code>incus: Create config paths when no local daemons</code>](https://github.com/lxc/incus/commit/2446a58621876c03e252806f5e70d71a76609dd1)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3813,6 +4018,10 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>recv: Check remote term early on when handling RequestVote responses</code>](https://github.com/cowsql/raft/commit/df9cd4765db15ab20bac5aae7c7e8ffc7432cd08)
 - [ ] [<code>recv: Check remote term early on when handling RequestVote responses (#121)</code>](https://github.com/cowsql/raft/commit/bd9534ada9bbd4ec5ca0f512f66d1cd22de0f53b)
+- [ ] [<code>test: Skip uv tests that use internal symbols</code>](https://github.com/cowsql/raft/commit/9dfc9e6a4b9f83f68a7b9a8ce8d0878264c54497)
+- [ ] [<code>test: Link test/integration/uv to libraft, instead of embedding it</code>](https://github.com/cowsql/raft/commit/860ab10e1b26337ddb76b963caa2646ee9db4f8a)
+- [ ] [<code>make: Pass branch_coverage to lcov</code>](https://github.com/cowsql/raft/commit/7c265503d8279fe183c3075b0aa0bdc39d64130a)
+- [ ] [<code>test: Fix lcov branch coverage (#122)</code>](https://github.com/cowsql/raft/commit/4a99845c015db795e529e57efafc0d10a2379e69)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3917,6 +4126,8 @@
 - [ ] [<code>Custom FFmpeg commands #600, cairo crash experiment #577</code>](https://github.com/axcore/tartube/commit/ec0dd6ac7290764ae56fb4db674c24f5699707bf)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix #580 again</code>](https://github.com/axcore/tartube/commit/652ab3f85f40bd1063b9d5bdab01bba48840009d)
+- [ ] [<code>Possible fix for PyCairo crashes, reinstate debug messages</code>](https://github.com/axcore/tartube/commit/7f88b6b6b7bbe56e6fea05f4d50da881f433fa24)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
