@@ -2599,6 +2599,10 @@
 - [ ] [<code>chore: Follow up select events</code>](https://github.com/krille-chan/fluffychat/commit/2872448584a7a794b60cd7154de5e92986332c86)
 - [ ] [<code>chore: Follow up select chats</code>](https://github.com/krille-chan/fluffychat/commit/2a7744e4c732d53822f3ab4429cdba0601b612db)
 - [ ] [<code>chore: Follow up select rooms</code>](https://github.com/krille-chan/fluffychat/commit/5740247c5093baced1f3735b0c3d5c1f26df1af1)
+- [ ] [<code>chore: Follow up select chats</code>](https://github.com/krille-chan/fluffychat/commit/2ec5139a0ae46dd529e845bd0d1bbf0ca88b6184)
+- [ ] [<code>chore: Follow up sending messages</code>](https://github.com/krille-chan/fluffychat/commit/ab3dccf45b0ac65f1bc558c0c10a312c4ab283bc)
+- [ ] [<code>build: Add changelog v1.17.0</code>](https://github.com/krille-chan/fluffychat/commit/b491ca209e292738dc8e111c759d27ff3e3e7e7a)
+- [ ] [<code>chore: Follow up sending messages</code>](https://github.com/krille-chan/fluffychat/commit/be6165f4228d897abd8e475c3a95f09b2e8d2924)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3357,6 +3361,13 @@
 - [ ] [<code>incusd/network/ovn: Properly handle uplink with disabled DHCP/DHCPv6</code>](https://github.com/lxc/incus/commit/d9b147fbbc5c4202259107c0332526a4237a68ce)
 - [ ] [<code>incus: Create config paths when no local daemons</code>](https://github.com/lxc/incus/commit/2446a58621876c03e252806f5e70d71a76609dd1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Support alternative snap path</code>](https://github.com/lxc/incus/commit/c4287702ecb12eafbddfaaa0fa97f2fb248588eb)
+- [ ] [<code>incusd/device/pci: Detect USB bus</code>](https://github.com/lxc/incus/commit/c239189ef9a583c4e14bb7dcaef22babc6054612)
+- [ ] [<code>incusd/device/nic: Support USB parents for physical NICs in VMs</code>](https://github.com/lxc/incus/commit/1e2843d53bccb8f4516e01c93fa584d841a12b21)
+- [ ] [<code>internal/instance: Add new volatile keys</code>](https://github.com/lxc/incus/commit/f9c119dccd6804f134dd10269a87bb911b12a21b)
+- [ ] [<code>incusd/instance/qemu: Fix typo</code>](https://github.com/lxc/incus/commit/1252d03118bb7d8e72034593625a64f08210926f)
+- [ ] [<code>incusd/instance/qemu: Handle USB NIC hotremove</code>](https://github.com/lxc/incus/commit/280e5c473ebc80d1dc5a8e25ff781b66fc7e4bae)
+- [ ] [<code>incusd/networks: Don't Fill network configs when joining</code>](https://github.com/lxc/incus/commit/4c2fed943ca63f237d764fc0ebd00b6124e783a8)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
