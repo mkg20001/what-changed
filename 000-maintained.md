@@ -2603,6 +2603,11 @@
 - [ ] [<code>chore: Follow up sending messages</code>](https://github.com/krille-chan/fluffychat/commit/ab3dccf45b0ac65f1bc558c0c10a312c4ab283bc)
 - [ ] [<code>build: Add changelog v1.17.0</code>](https://github.com/krille-chan/fluffychat/commit/b491ca209e292738dc8e111c759d27ff3e3e7e7a)
 - [ ] [<code>chore: Follow up sending messages</code>](https://github.com/krille-chan/fluffychat/commit/be6165f4228d897abd8e475c3a95f09b2e8d2924)
+- [ ] [<code>chore: Use legacy database if database build fails</code>](https://github.com/krille-chan/fluffychat/commit/ac5bd56c03cbd7debfb6629a6926040462ca3648)
+- [ ] [<code>chore: Delete database after failed to create</code>](https://github.com/krille-chan/fluffychat/commit/4d7d5bf181a85a831eceb1a4ae19416b5d23d2b3)
+  - <sub>Tags: <code>rc1.17.0-1</code></sub>
+- [ ] [<code>feat: Backup session and restore on database error</code>](https://github.com/krille-chan/fluffychat/commit/2a5c9d0a62bad103220f196670dd5aa46a323831)
+- [ ] [<code>ci: Fix snap promote to correct channel</code>](https://github.com/krille-chan/fluffychat/commit/ce1159692ff89c2d3bc0febd20e200d283a7bcc1)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3835,7 +3840,7 @@
 
 #### [python310Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
 
-> Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.11.16.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.30.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.30.0...HEAD)
