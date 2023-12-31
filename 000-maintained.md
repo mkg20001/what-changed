@@ -2175,6 +2175,7 @@
 - [ ] [<code>dbeaver/pro#2151 Most of the items in context menu of file explorer are (#22221)</code>](https://github.com/dbeaver/dbeaver/commit/c2e11c1ecb263af71a56fdfe0115495dbdc72f75)
 - [ ] [<code>dbeaver/pro#2149 Revert winter splash (#22258)</code>](https://github.com/dbeaver/dbeaver/commit/f2e08611d0304e1127a6acc24403ee6a4e73ce2a)
 - [ ] [<code>dbeaver/pro#2077 hide local client for GCP cloud databases (#22268)</code>](https://github.com/dbeaver/dbeaver/commit/6f7530ffb5853c27468cc65248c74fe8d2a7ab46)
+- [ ] [<code>CB-4424 Restrict access to system variables in DPI processes for Clou… (#22254)</code>](https://github.com/dbeaver/dbeaver/commit/50612aae3d65aaebb0154543f42ef35394f30d9e)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2608,6 +2609,8 @@
   - <sub>Tags: <code>rc1.17.0-1</code></sub>
 - [ ] [<code>feat: Backup session and restore on database error</code>](https://github.com/krille-chan/fluffychat/commit/2a5c9d0a62bad103220f196670dd5aa46a323831)
 - [ ] [<code>ci: Fix snap promote to correct channel</code>](https://github.com/krille-chan/fluffychat/commit/ce1159692ff89c2d3bc0febd20e200d283a7bcc1)
+- [ ] [<code>Merge pull request #759 from krille-chan/krille/restore-session</code>](https://github.com/krille-chan/fluffychat/commit/dad8576a230124f8dd9e515f656c5eff4cdcdcec)
+  - <sub>Tags: <code>rc1.17.0-2</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
