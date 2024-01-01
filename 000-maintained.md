@@ -2611,6 +2611,7 @@
 - [ ] [<code>ci: Fix snap promote to correct channel</code>](https://github.com/krille-chan/fluffychat/commit/ce1159692ff89c2d3bc0febd20e200d283a7bcc1)
 - [ ] [<code>Merge pull request #759 from krille-chan/krille/restore-session</code>](https://github.com/krille-chan/fluffychat/commit/dad8576a230124f8dd9e515f656c5eff4cdcdcec)
   - <sub>Tags: <code>rc1.17.0-2</code></sub>
+- [ ] [<code>ci: Fix web release job</code>](https://github.com/krille-chan/fluffychat/commit/ff245e3eba741454ea614ef9fe17085f6fa8cce4)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3376,6 +3377,12 @@
 - [ ] [<code>incusd/instance/qemu: Fix typo</code>](https://github.com/lxc/incus/commit/1252d03118bb7d8e72034593625a64f08210926f)
 - [ ] [<code>incusd/instance/qemu: Handle USB NIC hotremove</code>](https://github.com/lxc/incus/commit/280e5c473ebc80d1dc5a8e25ff781b66fc7e4bae)
 - [ ] [<code>incusd/networks: Don't Fill network configs when joining</code>](https://github.com/lxc/incus/commit/4c2fed943ca63f237d764fc0ebd00b6124e783a8)
+- [ ] [<code>incus/create: Set Target after network/storage lookup</code>](https://github.com/lxc/incus/commit/a13184bf72f0d5ad69aa12b7e392bc2c2ff2ec93)
+- [ ] [<code>doc/architectures: Add missing entries</code>](https://github.com/lxc/incus/commit/f801ce295b93ba9e1b0f13575f9f06f1ceb62a9c)
+- [ ] [<code>doc/architectures: Re-phrase headers</code>](https://github.com/lxc/incus/commit/5bf8467f60483fc26043174606210f1cbc1f4c4e)
+- [ ] [<code>doc/architectures: Fix typo</code>](https://github.com/lxc/incus/commit/c01be783042396400669576527f1d1136f0a9f16)
+- [ ] [<code>doc/architectures: Add note about VM architectures</code>](https://github.com/lxc/incus/commit/455038265de17e9488c0b9f8a914bd8e38191775)
+- [ ] [<code>doc/wordlist: Add Loongarch</code>](https://github.com/lxc/incus/commit/ddeba958aa644fa575a7ebfba5ff3f927ecc0b66)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
