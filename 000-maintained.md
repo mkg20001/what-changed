@@ -4045,6 +4045,14 @@
 - [ ] [<code>test: Link test/integration/uv to libraft, instead of embedding it</code>](https://github.com/cowsql/raft/commit/860ab10e1b26337ddb76b963caa2646ee9db4f8a)
 - [ ] [<code>make: Pass branch_coverage to lcov</code>](https://github.com/cowsql/raft/commit/7c265503d8279fe183c3075b0aa0bdc39d64130a)
 - [ ] [<code>test: Fix lcov branch coverage (#122)</code>](https://github.com/cowsql/raft/commit/4a99845c015db795e529e57efafc0d10a2379e69)
+- [ ] [<code>byte: Use uint8_t* instead of void* to meet aliasing rules</code>](https://github.com/cowsql/raft/commit/988199802c3f95de8b6dd5f8ef9a0848f04413db)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Add --disable-hardening configuration flag</code>](https://github.com/cowsql/raft/commit/17fee311b88ca60286d6066663ec43a12b99b43b)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>byte: Use `uint8_t*` instead of `void*` to meet aliasing rules (#127)</code>](https://github.com/cowsql/raft/commit/d7592cde838d58f96530a7e3e659eac1de5cc974)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>test: Fix flaky finalizeSegment assertion</code>](https://github.com/cowsql/raft/commit/364e5c945abb207aa1dea84584ea5617e20df6c8)
+- [ ] [<code>test: Fix flaky finalizeSegment assertion (#128)</code>](https://github.com/cowsql/raft/commit/2c78d049c8171b4e78db9b05b9d327c6f6c0ff1d)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
