@@ -3044,6 +3044,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>pkgconf: Add yuv library in Libs.private for static linking (#1906)</code>](https://github.com/AOMediaCodec/libavif/commit/0dcdbe659083357caee241b43cdaa485a72bf429)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump the github-actions group with 7 updates (#1908)</code>](https://github.com/AOMediaCodec/libavif/commit/03a12f8aa325c55ea5bd228afa591f67632b018f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
