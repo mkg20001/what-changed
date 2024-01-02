@@ -2176,6 +2176,9 @@
 - [ ] [<code>dbeaver/pro#2149 Revert winter splash (#22258)</code>](https://github.com/dbeaver/dbeaver/commit/f2e08611d0304e1127a6acc24403ee6a4e73ce2a)
 - [ ] [<code>dbeaver/pro#2077 hide local client for GCP cloud databases (#22268)</code>](https://github.com/dbeaver/dbeaver/commit/6f7530ffb5853c27468cc65248c74fe8d2a7ab46)
 - [ ] [<code>CB-4424 Restrict access to system variables in DPI processes for Clou… (#22254)</code>](https://github.com/dbeaver/dbeaver/commit/50612aae3d65aaebb0154543f42ef35394f30d9e)
+- [ ] [<code>#22169 Add multiline comment rule to lexer (#22281)</code>](https://github.com/dbeaver/dbeaver/commit/a71da572d00570a9731778c036bcf31c2808193b)
+- [ ] [<code>dbeaver/pro#2324 fix portuguese localization (#22289)</code>](https://github.com/dbeaver/dbeaver/commit/558ff9c664914b8743d82b94019d45580b04ae3c)
+- [ ] [<code>dbeaver/pro#2311 Teradata search process enhancement (#22250)</code>](https://github.com/dbeaver/dbeaver/commit/7f5e4d49729d5e00997ecf6b960dea40e6d404ac)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
