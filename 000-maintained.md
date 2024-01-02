@@ -2612,6 +2612,8 @@
 - [ ] [<code>Merge pull request #759 from krille-chan/krille/restore-session</code>](https://github.com/krille-chan/fluffychat/commit/dad8576a230124f8dd9e515f656c5eff4cdcdcec)
   - <sub>Tags: <code>rc1.17.0-2</code></sub>
 - [ ] [<code>ci: Fix web release job</code>](https://github.com/krille-chan/fluffychat/commit/ff245e3eba741454ea614ef9fe17085f6fa8cce4)
+- [ ] [<code>build: Update to matrix dart sdk 0.25.3</code>](https://github.com/krille-chan/fluffychat/commit/9dea9fa50ace54450187689f7a65a9d4719689de)
+  - <sub>Tags: <code>rc1.17.0-3</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
