@@ -2192,6 +2192,11 @@
 - [ ] [<code>sources: Fix openeuler tests</code>](https://github.com/lxc/distrobuilder/commit/80ef457dfee351ddff64273d376d0060b371f617)
 - [ ] [<code>nixos-http: support versioned releases</code>](https://github.com/lxc/distrobuilder/commit/7f14626ab0eac1d585999c59071a2984e4b6acae)
 - [ ] [<code>managers: Rebranding Macaroni OS Package Manager</code>](https://github.com/lxc/distrobuilder/commit/1489007c7c7ea2581f2facf03eca0a8251125b8e)
+- [ ] [<code>Bump golang.org/x/crypto from v0.15.0 to v0.17.0</code>](https://github.com/lxc/distrobuilder/commit/030e44ccf1293c33f538933c4dd1a8d649b10920)
+- [ ] [<code>Bump github.com/containerd/containerd from v1.7.8 to v1.7.11</code>](https://github.com/lxc/distrobuilder/commit/cb5b475ee4bafe8949f266cd665daa8c4341cfd5)
+- [ ] [<code>sources: Fix openEuler tests</code>](https://github.com/lxc/distrobuilder/commit/05830fe592e7ca91c1d6ec527a3c5d204e6efacb)
+- [ ] [<code>main: Add missing `--sources-dir` to `build-incus` command</code>](https://github.com/lxc/distrobuilder/commit/2bb3002d2d8933d7e7c9cb959df38e680df02e3d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -3389,6 +3394,8 @@
 - [ ] [<code>doc/architectures: Fix typo</code>](https://github.com/lxc/incus/commit/c01be783042396400669576527f1d1136f0a9f16)
 - [ ] [<code>doc/architectures: Add note about VM architectures</code>](https://github.com/lxc/incus/commit/455038265de17e9488c0b9f8a914bd8e38191775)
 - [ ] [<code>doc/wordlist: Add Loongarch</code>](https://github.com/lxc/incus/commit/ddeba958aa644fa575a7ebfba5ff3f927ecc0b66)
+- [ ] [<code>doc/migrate_lxd: Add mention of CLI configuration</code>](https://github.com/lxc/incus/commit/d989133880542965d1aaf6356189bc96ae025d5f)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
