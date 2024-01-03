@@ -3396,6 +3396,11 @@
 - [ ] [<code>doc/wordlist: Add Loongarch</code>](https://github.com/lxc/incus/commit/ddeba958aa644fa575a7ebfba5ff3f927ecc0b66)
 - [ ] [<code>doc/migrate_lxd: Add mention of CLI configuration</code>](https://github.com/lxc/incus/commit/d989133880542965d1aaf6356189bc96ae025d5f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/snapshot: Fix format handling in list</code>](https://github.com/lxc/incus/commit/ed0d0ab66bd21d7a246fe115b58f28edc0481e92)
+- [ ] [<code>incus/snapshot: Add show sub-command</code>](https://github.com/lxc/incus/commit/74d0b4be6efd11a389b46d59cac90880c0468f11)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bc94a8536f001def7d533a56b1ae70473ed34d8c)
+  - <sub>Keywords: <code>exec</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4073,6 +4078,12 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>test: Fix flaky finalizeSegment assertion</code>](https://github.com/cowsql/raft/commit/364e5c945abb207aa1dea84584ea5617e20df6c8)
 - [ ] [<code>test: Fix flaky finalizeSegment assertion (#128)</code>](https://github.com/cowsql/raft/commit/2c78d049c8171b4e78db9b05b9d327c6f6c0ff1d)
+- [ ] [<code>build: Remove --mcet option, as it has long been removed from gcc</code>](https://github.com/cowsql/raft/commit/3c662c0d9bc0a92dd7c9760b8d78bfbf197564b5)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Separate regular and desired gcc options from hardening ones</code>](https://github.com/cowsql/raft/commit/e14eacf11b01569fa84c4cbd2e3368b68ae185e3)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Separate regular and desired gcc options from hardening ones (#129)</code>](https://github.com/cowsql/raft/commit/418d6d3d25c2d7895e39ddda8d93a5553226eb97)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4179,6 +4190,9 @@
 - [ ] [<code>Fix #580 again</code>](https://github.com/axcore/tartube/commit/652ab3f85f40bd1063b9d5bdab01bba48840009d)
 - [ ] [<code>Possible fix for PyCairo crashes, reinstate debug messages</code>](https://github.com/axcore/tartube/commit/7f88b6b6b7bbe56e6fea05f4d50da881f433fa24)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update to v2.5.0</code>](https://github.com/axcore/tartube/commit/8fba4203ac5c5d9487d95fc288f894fb38e4f0ef)
+  - <sub>Tags: <code>v2.5.0</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
