@@ -210,6 +210,8 @@
 - [ ] [<code>leader: Fix double-free in case the apply callback is fired by hand (#14)</code>](https://github.com/cowsql/cowsql/commit/6c91a1bf9628ec659f286e24bd7b23f445b064ee)
 - [ ] [<code>Added chinese translation of fork annoucement</code>](https://github.com/cowsql/cowsql/commit/2f9f2d49804b8848e5cb6a814747748d12d50e68)
 - [ ] [<code>Added chinese translation of fork annoucement (#15)</code>](https://github.com/cowsql/cowsql/commit/9196630552208daa07c3b2f13dff74fb4952a138)
+- [ ] [<code>build: Update minimum raft version</code>](https://github.com/cowsql/cowsql/commit/fe7ea848326802db17e836e99e3a683c6de9b4bd)
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2179,6 +2181,34 @@
 - [ ] [<code>#22169 Add multiline comment rule to lexer (#22281)</code>](https://github.com/dbeaver/dbeaver/commit/a71da572d00570a9731778c036bcf31c2808193b)
 - [ ] [<code>dbeaver/pro#2324 fix portuguese localization (#22289)</code>](https://github.com/dbeaver/dbeaver/commit/558ff9c664914b8743d82b94019d45580b04ae3c)
 - [ ] [<code>dbeaver/pro#2311 Teradata search process enhancement (#22250)</code>](https://github.com/dbeaver/dbeaver/commit/7f5e4d49729d5e00997ecf6b960dea40e6d404ac)
+- [ ] [<code>dbeaver/pro#2291 fix incorrect links and one description (#22222)</code>](https://github.com/dbeaver/dbeaver/commit/1fb98711f2a8a85ad12a509f824df1f90362ff93)
+- [ ] [<code>dbeaver/pro#2308 Use AbstractJob instead of TimeTask in SQLBackgroundParsingJob (#22283)</code>](https://github.com/dbeaver/dbeaver/commit/5bfa33280ca76d6ff384c28d26c24a81a62c5ebc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2305 [ERD] Diagram is not shown due to connection closed … (#22255)</code>](https://github.com/dbeaver/dbeaver/commit/e3cd5d61bd0d94059a5fee11c3d97f4175a142ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2303 Turn off validation for nosql databases (#22291)</code>](https://github.com/dbeaver/dbeaver/commit/bf78e856a41287f72e374c4bfd304395000f631b)
+- [ ] [<code>dbeaver/dbeaver#21332 add TLSv1.3 to possible connections (#22288)</code>](https://github.com/dbeaver/dbeaver/commit/ea0f89bdd63ae904e1961cea3fbf7870b2aef4d8)
+- [ ] [<code>dbeaver/dbeaver#14620 auto-find 'local clients' on Linux and macOS on AArch64 (#22077)</code>](https://github.com/dbeaver/dbeaver/commit/7f9f2bf23aaa237f5d9c741026bcf8bb3dc920dd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>dbeaver/pro#2256 Disable splash screen on MacOS (#22308)</code>](https://github.com/dbeaver/dbeaver/commit/901535614fa524a0b2c33014a2a577bfd6c3a80b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#2203 add gpt-turbo-instruct & replace deprecated models (#22274)</code>](https://github.com/dbeaver/dbeaver/commit/940900573bd7037e914e14c8a68f7271b4deabda)
+- [ ] [<code>#22241 load legacy clickhouse driver with dependencies (#22247)</code>](https://github.com/dbeaver/dbeaver/commit/2ae6222114747e9e976adb1ed05a1fd5647a1f6b)
+- [ ] [<code>dbeaver/pro#1463 read notifications jaws (#22271)</code>](https://github.com/dbeaver/dbeaver/commit/a4abde78c88b44a2cfe422bc08926646aab27620)
+- [ ] [<code>dbeaver/pro#2202 Incorrect remote file open fix (#22098)</code>](https://github.com/dbeaver/dbeaver/commit/259a0112f78d9b266dac1e1da6148d3aff68b567)
+- [ ] [<code>Show copy only for DBPNamedObject (#21872)</code>](https://github.com/dbeaver/dbeaver/commit/7e3dc03261a39fd5426e6b63b3f1d085b362ef61)
+- [ ] [<code>dbeaver/pro#2296 SQL Editor Outline (#22266)</code>](https://github.com/dbeaver/dbeaver/commit/36d600fb427ff8766f0fc5a33f41f7dd666de63a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2192 Add new column as primary/unique key (#22202)</code>](https://github.com/dbeaver/dbeaver/commit/2ef68f7bd233c15472ea63cd03f239231c512f89)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Revert "dbeaver/pro#2296 SQL Editor Outline (#22266)"</code>](https://github.com/dbeaver/dbeaver/commit/41a94f04cefea6cdfc4d5d1f47163f75cfbb531b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-3952 unify validation for connection folders and rm resources (#22279)</code>](https://github.com/dbeaver/dbeaver/commit/c4578c7a230ef1002d08b4c5faf8c54c092eb9ea)
+- [ ] [<code>dbeaver/pro#2296 Outline for SQL Editor (#22317)</code>](https://github.com/dbeaver/dbeaver/commit/4cd3393236dc13e0bfcc717918d5aa2e535fcdf9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Added support for Dameng tablespace (#21973)</code>](https://github.com/dbeaver/dbeaver/commit/533094cc66483ec3724d35d3a7e10ea0bee17046)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>23.3.2 version bump</code>](https://github.com/dbeaver/dbeaver/commit/5d4433c243eb068ebcb5fe172d424c4172fd97de)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3401,6 +3431,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bc94a8536f001def7d533a56b1ae70473ed34d8c)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Enable cobra's completion support</code>](https://github.com/lxc/incus/commit/c0200b455a1468685d762649120ce7e2bb25adc9)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4083,6 +4115,41 @@
 - [ ] [<code>build: Separate regular and desired gcc options from hardening ones</code>](https://github.com/cowsql/raft/commit/e14eacf11b01569fa84c4cbd2e3368b68ae185e3)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build: Separate regular and desired gcc options from hardening ones (#129)</code>](https://github.com/cowsql/raft/commit/418d6d3d25c2d7895e39ddda8d93a5553226eb97)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>raft: Emit info message when handling persisted snapshot</code>](https://github.com/cowsql/raft/commit/2b02fa65cd6bae554fc6434a1a85c779977dfbba)
+- [ ] [<code>replication: Improve logging when sending and restoring snapshots</code>](https://github.com/cowsql/raft/commit/00d27a4014ece04bfdd8c0bbf1bdd3049e218616)
+- [ ] [<code>test: Handle RAFT_SNAPSHOT raft_update flag in test cluster</code>](https://github.com/cowsql/raft/commit/4becc4da77aa626cf6ad9f72fef79812669783b9)
+- [ ] [<code>election: Emit more detailed message when comparing log lengths</code>](https://github.com/cowsql/raft/commit/500693a707d69437272608850a7c29736575b06a)
+- [ ] [<code>test: Remove unnecessary traces and assertions in election tests</code>](https://github.com/cowsql/raft/commit/5c6a38f3d292b8259125ca48ac7bd28ce473c02e)
+- [ ] [<code>test: Remove legacy tests that were being skipped</code>](https://github.com/cowsql/raft/commit/a0b8cbe44845245ead9b7da6c2a55686fb5bc4b9)
+- [ ] [<code>convert: Add assertion when auto-committing entries as single voter</code>](https://github.com/cowsql/raft/commit/e2c58df2cfc6c30564570b4bfbd415e7794529c7)
+- [ ] [<code>replication: Tolerate RAFT_CONFIGURATION events with wrong index</code>](https://github.com/cowsql/raft/commit/409b90576076b3da84fa8ea11e4972d80d6e5aba)
+- [ ] [<code>test: Add CLUSTER_SET_VOTE macro and associated functions</code>](https://github.com/cowsql/raft/commit/3dd1e6661df1cbe2f4a8088c23861566204d1122)
+- [ ] [<code>test: Add CLUSTER_STOP macro and associated functions</code>](https://github.com/cowsql/raft/commit/a5ddd789dd670586c9e4b11f47418427d827d8dd)
+- [ ] [<code>test: Fire RAFT_CONFIGURATION events after conf change are committed</code>](https://github.com/cowsql/raft/commit/8e7b180e9fe93f2fcea15e335764640f58a8149a)
+- [ ] [<code>client: Include entry type when logging info about new entries</code>](https://github.com/cowsql/raft/commit/03ccd3abbde8fa90ca30f0eec4cdb30b1425c01b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>election: More consistent info message (remote vs local)</code>](https://github.com/cowsql/raft/commit/e14d2e4ee303ba03885060c7e501f137f84e2547)
+- [ ] [<code>v1: Improve leader timeout logic</code>](https://github.com/cowsql/raft/commit/f16dea4cf90fcd5c8a8cac022bc08dd838a6e13d)
+- [ ] [<code>replication: Only transition to probe mode if not in probe mode</code>](https://github.com/cowsql/raft/commit/253892df45656f4a797e0bdc9da890b11c3bace4)
+- [ ] [<code>replication: Improve logging when sending AppendEntries</code>](https://github.com/cowsql/raft/commit/c879f18cddd574d48b1aea11336bf668ea6373e3)
+- [ ] [<code>replication: Fix status check after persisting entries</code>](https://github.com/cowsql/raft/commit/2c8bc38691c0832b62f80ca54ca5f3d5bf3a61d5)
+- [ ] [<code>replication: Fix log message for the next uncommitted entry</code>](https://github.com/cowsql/raft/commit/2baeafa30012db182d47da6b00abccf1e62484ac)
+- [ ] [<code>convert: Only submit a barrier if commit index is behind last index</code>](https://github.com/cowsql/raft/commit/109d237931a7b69709f87f3edff697714146d9a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Ignore gcov errors</code>](https://github.com/cowsql/raft/commit/41a81821e38cdc7d60f7ee8f4272891d43bd2fee)
+- [ ] [<code>convert: Make initial blank no-op entry optional (#124)</code>](https://github.com/cowsql/raft/commit/db2ef170ecb896f185092a401d1fda0ba0c10c8d)
+- [ ] [<code>Release v0.19.0</code>](https://github.com/cowsql/raft/commit/5be8bf37ab0bc909cbceba516423d376a2338090)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v0.19.0 (#130)</code>](https://github.com/cowsql/raft/commit/d16f26e2ebb939f14fde3d27ba2f2e8732cef6b8)
+  - <sub>Tags: <code>v0.19.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>v1: Re-add and re-order fields to preserve backward ABI compat</code>](https://github.com/cowsql/raft/commit/cefdedc2199b79abb173b03ebf89402d11c7cec7)
+- [ ] [<code>v1: Re-add and re-order fields to preserve backward ABI compat (#132)</code>](https://github.com/cowsql/raft/commit/05454754f1e4be52cc0bc4a8abf82f885a45fd54)
+- [ ] [<code>Release v0.19.1</code>](https://github.com/cowsql/raft/commit/85e6557bfeb01ca81bb1f6198f93d52e56c900e2)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v0.19.1 (#133)</code>](https://github.com/cowsql/raft/commit/26c138e64714607916793da04334a1ee9a37249f)
+  - <sub>Tags: <code>v0.19.1</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
