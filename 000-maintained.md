@@ -2209,6 +2209,9 @@
 - [ ] [<code>Added support for Dameng tablespace (#21973)</code>](https://github.com/dbeaver/dbeaver/commit/533094cc66483ec3724d35d3a7e10ea0bee17046)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>23.3.2 version bump</code>](https://github.com/dbeaver/dbeaver/commit/5d4433c243eb068ebcb5fe172d424c4172fd97de)
+- [ ] [<code>#22322 Fix column header clickability in grid (#22327)</code>](https://github.com/dbeaver/dbeaver/commit/5a146f78fe55883ac03bb9f57435abf9cca66b33)
+- [ ] [<code>dbeaver/dbeaver#22330 Duplicate create action fix (#22331)</code>](https://github.com/dbeaver/dbeaver/commit/17bd89a97baa3d9eda180ae12b55ba78caf4bacc)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2655,6 +2658,7 @@
 - [ ] [<code>ci: Fix web release job</code>](https://github.com/krille-chan/fluffychat/commit/ff245e3eba741454ea614ef9fe17085f6fa8cce4)
 - [ ] [<code>build: Update to matrix dart sdk 0.25.3</code>](https://github.com/krille-chan/fluffychat/commit/9dea9fa50ace54450187689f7a65a9d4719689de)
   - <sub>Tags: <code>rc1.17.0-3</code></sub>
+- [ ] [<code>refactor: Put forwarded text into inputfield instead of sending directly</code>](https://github.com/krille-chan/fluffychat/commit/fec39eb602645b7acc8afb7f41612818c9a01312)
 - [ ] [<code>fix: not in range error</code>](https://github.com/krille-chan/fluffychat/commit/af18da57e6c799c6e8491b92c8fd803732342f95)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
@@ -3089,6 +3093,8 @@
 - [ ] [<code>pkgconf: Add yuv library in Libs.private for static linking (#1906)</code>](https://github.com/AOMediaCodec/libavif/commit/0dcdbe659083357caee241b43cdaa485a72bf429)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Bump the github-actions group with 7 updates (#1908)</code>](https://github.com/AOMediaCodec/libavif/commit/03a12f8aa325c55ea5bd228afa591f67632b018f)
+- [ ] [<code>gdk-pixbuf: add .clang-format</code>](https://github.com/AOMediaCodec/libavif/commit/c641380c24aba5f6b363088af3e4f01e511b0148)
+- [ ] [<code>gdk-pixbuf: new quality settings</code>](https://github.com/AOMediaCodec/libavif/commit/1410133fa0cdd6b9ed5d129e3c9884369baf3208)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3445,6 +3451,9 @@
 - [ ] [<code>incusd/instance/qemu: Add ErrExecDisconnected</code>](https://github.com/lxc/incus/commit/602d93bdcd9bf68cb81f632d1420b3c1de93ee81)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Make VM shutdown/reboot exit cleanly</code>](https://github.com/lxc/incus/commit/578f58c92be0c309b0af75c10201207768fef90a)
+- [ ] [<code>lxd-to-incus: Fix incorrect directory name</code>](https://github.com/lxc/incus/commit/09dedf8ea875cba5c5e9b227487117bfcf50463b)
+- [ ] [<code>lxd-to-incus: Detect source daemon using symlink path</code>](https://github.com/lxc/incus/commit/36ebcd2186cc82695096db9e6b1818169e3935b5)
+- [ ] [<code>lxd-to-incus: Remove trailing slashes from paths</code>](https://github.com/lxc/incus/commit/6cee27cddbc6297e3a62864c27b44b36d267e089)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3772,6 +3781,8 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>apply: don't assume the NM loopback connection is called "lo"</code>](https://github.com/canonical/netplan/commit/8c7103ad497161af420122ccf994caade0d0eeac)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>parse-nm/wg: append the correct prefix to IPv6 addresses (#428), LP: #2046158</code>](https://github.com/canonical/netplan/commit/1d6171021bcd07a5c50de91b919b6f127be35a33)
+- [ ] [<code>cli:try: use state of the art type hint</code>](https://github.com/canonical/netplan/commit/6f4fbc06b586359f1861907d6bfcf81a40d1b7b4)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
