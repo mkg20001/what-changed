@@ -2227,6 +2227,9 @@
 - [ ] [<code>sources: Fix openEuler tests</code>](https://github.com/lxc/distrobuilder/commit/05830fe592e7ca91c1d6ec527a3c5d204e6efacb)
 - [ ] [<code>main: Add missing `--sources-dir` to `build-incus` command</code>](https://github.com/lxc/distrobuilder/commit/2bb3002d2d8933d7e7c9cb959df38e680df02e3d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update README.md Install Instructions</code>](https://github.com/lxc/distrobuilder/commit/0d0cc38c695d66d1fea92224719d90160440569f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/c04d6b04e3ee28e733507684acf759caec0266d3)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -2652,6 +2655,7 @@
 - [ ] [<code>ci: Fix web release job</code>](https://github.com/krille-chan/fluffychat/commit/ff245e3eba741454ea614ef9fe17085f6fa8cce4)
 - [ ] [<code>build: Update to matrix dart sdk 0.25.3</code>](https://github.com/krille-chan/fluffychat/commit/9dea9fa50ace54450187689f7a65a9d4719689de)
   - <sub>Tags: <code>rc1.17.0-3</code></sub>
+- [ ] [<code>fix: not in range error</code>](https://github.com/krille-chan/fluffychat/commit/af18da57e6c799c6e8491b92c8fd803732342f95)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3433,6 +3437,14 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus: Enable cobra's completion support</code>](https://github.com/lxc/incus/commit/c0200b455a1468685d762649120ce7e2bb25adc9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Handle local OVN</code>](https://github.com/lxc/incus/commit/6bd76db8a55966e0f0c0556766d27406bf2e3252)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage_pools: Don't crash on nil pool</code>](https://github.com/lxc/incus/commit/86fb1858aa4b0babacda814d1fd8408f30b008ee)
+- [ ] [<code>incusd/instance/lxc: Re-generate lxc.conf during Exec</code>](https://github.com/lxc/incus/commit/36b995ef876e04ec4f54e1a8f82e178980276392)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Add ErrExecDisconnected</code>](https://github.com/lxc/incus/commit/602d93bdcd9bf68cb81f632d1420b3c1de93ee81)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Make VM shutdown/reboot exit cleanly</code>](https://github.com/lxc/incus/commit/578f58c92be0c309b0af75c10201207768fef90a)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
