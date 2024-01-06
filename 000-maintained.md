@@ -2212,6 +2212,7 @@
 - [ ] [<code>#22322 Fix column header clickability in grid (#22327)</code>](https://github.com/dbeaver/dbeaver/commit/5a146f78fe55883ac03bb9f57435abf9cca66b33)
 - [ ] [<code>dbeaver/dbeaver#22330 Duplicate create action fix (#22331)</code>](https://github.com/dbeaver/dbeaver/commit/17bd89a97baa3d9eda180ae12b55ba78caf4bacc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#22347 "Team" disappeared from context menu in 23.3.2 (#22349)</code>](https://github.com/dbeaver/dbeaver/commit/911f9bd88d3cbaca221d96141b20b325c29b4e84)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2662,6 +2663,8 @@
 - [ ] [<code>fix: not in range error</code>](https://github.com/krille-chan/fluffychat/commit/af18da57e6c799c6e8491b92c8fd803732342f95)
 - [ ] [<code>build: Update matrix dart sdk to 0.25.4</code>](https://github.com/krille-chan/fluffychat/commit/d8414e8d15b3ce63304382154e99bc53adc26f69)
   - <sub>Tags: <code>rc1.17.0-4</code> <code>v1.17.0</code></sub>
+- [ ] [<code>fix: URL too long when reporting bug</code>](https://github.com/krille-chan/fluffychat/commit/faf4ecd088937f6da24836c7268e26383a79cd4e)
+- [ ] [<code>build: Update macOS build files</code>](https://github.com/krille-chan/fluffychat/commit/ab9ca586b430c101d1d4f224b9e819620e33b902)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3292,6 +3295,7 @@
 - [ ] [<code>lxc-local: Add --no-dev option to exclude /dev from the fstree</code>](https://github.com/lxc/lxc/commit/86f5c12264a5bb8c80c13b22416566b2443b852c)
 - [ ] [<code>config: try to create workdir if not exist</code>](https://github.com/lxc/lxc/commit/789457f1ae076552a3fbd6b7dd579ed74c4c5a39)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/lxc/commit/112d5615e143e237a62f77c1b915fb6bcdefecf3)
+- [ ] [<code>Align columns in lxc-download.in template</code>](https://github.com/lxc/lxc/commit/84cc3155af502db586f644f1092831155e45ccca)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -3931,88 +3935,8 @@
 > Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.30.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.30.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.31.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.31.0...HEAD)
 
-- [ ] [<code>Updated README file</code>](https://github.com/foldynl/QLog.git/commit/250bbfd933848d1cc82a2165ba398bca76397399)
-- [ ] [<code>Add Simplified Chinese translation</code>](https://github.com/foldynl/QLog.git/commit/cf337b86336f4bfb7b703470096a6c04290c2cc2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixed #274 - DXC: Added Password Support</code>](https://github.com/foldynl/QLog.git/commit/6862237f7d5a6c46e028dd1a4046f68b1dd1ad0a)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>DXC: Added Keep QSOs option</code>](https://github.com/foldynl/QLog.git/commit/5618c421a85a6e8563046846435935747b228fd7)
-- [ ] [<code>Fixed #288 - DXC: Added support for processing SH/DX command</code>](https://github.com/foldynl/QLog.git/commit/89395ea2fe10dd2d6fd814ebea1d16d3b7f855fe)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>DXC: Fixed UTF-8 chars issue</code>](https://github.com/foldynl/QLog.git/commit/81f3055cdbbdc77aee1f66239c8adb9092200265)
-- [ ] [<code>DXC: Added QStringLiteral where it brings additional performance</code>](https://github.com/foldynl/QLog.git/commit/6ad07d494c96b140fba7598fa9e1263808af06c2)
-- [ ] [<code>DXC: Added Clear table context menu</code>](https://github.com/foldynl/QLog.git/commit/1646f7ec48a2187516603e72c625db801e80ae2b)
-- [ ] [<code>DXC: Added menu, removed selected context menu items</code>](https://github.com/foldynl/QLog.git/commit/9eadf0ea307414c75c7bdb85601f4c32e2890fc4)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Fixed #273 - Added Country to DXC Widget</code>](https://github.com/foldynl/QLog.git/commit/c957dee4d1e29702f878eb12310ef4f797f67ae7)
-- [ ] [<code>DXC: Menu unifications (added ... where dialog follows)</code>](https://github.com/foldynl/QLog.git/commit/debeb5e7b5735860d019756bd2a1b1a57b2c1808)
-- [ ] [<code>Fixed #282 - Show current station profile name</code>](https://github.com/foldynl/QLog.git/commit/9f5d4c92d09679a5f01c9d5e639f6f26fa9216af)
-- [ ] [<code>Added Bandplan class</code>](https://github.com/foldynl/QLog.git/commit/612c84f5734c191cddabf4d05bca32abc4cf686f)
-- [ ] [<code>Fixed #217 - DXC: Rig Mode is switched based on the spot</code>](https://github.com/foldynl/QLog.git/commit/ab671b66d171ebefb21243bb947918ad90909487)
-- [ ] [<code>Fixed issue when Group Mode and DXCC Group Mode were compared</code>](https://github.com/foldynl/QLog.git/commit/2358a4a3170c852ca923d320496b64469a81ee7e)
-- [ ] [<code>Added rules for recognizing Spot Mode from the comment</code>](https://github.com/foldynl/QLog.git/commit/dbcff2df84e20b3209b5880eaeb2d74c2ef56d0a)
-- [ ] [<code>Online Map: Click on IPB Station switches mode to CW</code>](https://github.com/foldynl/QLog.git/commit/91d27889a7b440623bd177b7e59cb75415f6fc8f)
-- [ ] [<code>BandPlan: freq2Band move from Data to Bandplan; optimalizations</code>](https://github.com/foldynl/QLog.git/commit/f3e47de179aecc7ca9a59c951a03d7ed46122806)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>BandPlan: modeToDXCCModeGroup and bandsList moved from Data to Bandplan; optimalizations</code>](https://github.com/foldynl/QLog.git/commit/40d600492713d1c7a867188453a091fc00c24510)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Fixed Callsign issues with parsing unusual strings</code>](https://github.com/foldynl/QLog.git/commit/ab8acbe22836fabf9b84d5e5b31485221bd08f02)
-- [ ] [<code>Bandplan: Fixed incompleted definitions for 630m and 60m</code>](https://github.com/foldynl/QLog.git/commit/a8d086ff39f9d288f10a99f7720cca4dfa8b2c3e)
-- [ ] [<code>Gridsquare: Improved initialization and locator parsing - 2chars</code>](https://github.com/foldynl/QLog.git/commit/438dc804320ad97f4bdd4ea820697e80cece8a33)
-- [ ] [<code>DXC: DXServerString moved to a separate class, better for testing</code>](https://github.com/foldynl/QLog.git/commit/c049eee016fc0be8226bcf59e9a2668c557b1271)
-- [ ] [<code>Updated Czech translation, partially German</code>](https://github.com/foldynl/QLog.git/commit/629c707302c2ff9f5c6adc9d089cc1762ca0d438)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/1f6d26afb31eb140ca57db2dc9774ca48d6b3604)
-- [ ] [<code>Added Chinese translation to the profile files</code>](https://github.com/foldynl/QLog.git/commit/5ee17d258f3759f511560b7b8c511f153988fbf3)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/d900673fe263748dd27640efbd3145f6130937fd)
-- [ ] [<code>Rig Widget: last seen freq removed from destructor</code>](https://github.com/foldynl/QLog.git/commit/cb93bf70448d0543aa5765094c883797f2e4fa77)
-- [ ] [<code>Fixed #284 - Import generates an import report upon user request</code>](https://github.com/foldynl/QLog.git/commit/c03a06db4dca9da95a4a3ebe6bd2dccf19556115)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/55136bf2717ea08b014e51d36743938d90e05912)
-- [ ] [<code>Export: Speed Optimalization based on Hash Mapping</code>](https://github.com/foldynl/QLog.git/commit/5129da11eaed2f32d872ad98b2342724722a3413)
-- [ ] [<code>Fixed #270 - Import: Speed Optimalization based on direct access to QSQLRecord field and direct SQL</code>](https://github.com/foldynl/QLog.git/commit/00acce8f1665d7654d15f98f73ceb929e9357b21)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Removed unwanted debug information</code>](https://github.com/foldynl/QLog.git/commit/ed7a3714a3396d6e89f605e6ae65147f43f1307b)
-- [ ] [<code>Fixed #291 - Added missing SX Sat mode</code>](https://github.com/foldynl/QLog.git/commit/041a44ffb49665a21f236c577bd92fba0b057f88)
-- [ ] [<code>QSO Detail: Fixed issue when Sat-Name was always disabled</code>](https://github.com/foldynl/QLog.git/commit/5c3310be3bab64cabedf6701e103795dc7decde1)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/54cc9754f67bd238c122141866a596571dae26d6)
-- [ ] [<code>Reviewed usage of QVariant isNull</code>](https://github.com/foldynl/QLog.git/commit/5128ce75b52cfe24b04c910736af9b309a3c036c)
-- [ ] [<code>Rig Widget: RIT/XIT are displayed with user-friendly units</code>](https://github.com/foldynl/QLog.git/commit/78a2415f62bc741e9afd4cb95f7edcf56d76d8aa)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/ca54e6843e1fc0fb1f5d8b7ce74e5030bcb9960e)
-- [ ] [<code>DX Widget: Added more Mode Recognition Patterns</code>](https://github.com/foldynl/QLog.git/commit/a2d251474771208cddaecde2952ae9dd49ca4c27)
-- [ ] [<code>Main Window: Added Alert Button tooltip</code>](https://github.com/foldynl/QLog.git/commit/533a3348bf2872a25e7789457b1e2845c51f43f8)
-- [ ] [<code>New Contact: Fixed incorrect tab order when Combobox was present on the row</code>](https://github.com/foldynl/QLog.git/commit/f0e14b3a9f755dd71e48e82646cf3323e637ba55)
-- [ ] [<code>Fixing #293 - Pressing Enter saves QSO</code>](https://github.com/foldynl/QLog.git/commit/1dd1a0e4c231c6de56e147b6c8bb4f015866ed5a)
-- [ ] [<code>RPM Build: Fixed issue with installed (but unpackaged) metainfo file</code>](https://github.com/foldynl/QLog.git/commit/837cb3bf3fda5d4238e6cbb617768de030d20223)
-- [ ] [<code>Metainfo: Added release section</code>](https://github.com/foldynl/QLog.git/commit/0fdee316fa493489aec57507a0e27812b79730b6)
-- [ ] [<code>Changelog - fixed typo</code>](https://github.com/foldynl/QLog.git/commit/17c4aaf73c250053cffe7fd9bd34929208ab6f3c)
-- [ ] [<code>Github Actions - fixed typos</code>](https://github.com/foldynl/QLog.git/commit/02a75d35f80aaa3dbcf45186d307b052c33a865b)
-- [ ] [<code>Added script to finalize a release</code>](https://github.com/foldynl/QLog.git/commit/5ffd5dbf09265e28fc9c334c2683eac2cb967327)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Added testing ADIF files</code>](https://github.com/foldynl/QLog.git/commit/ad3862a0f43b3dca98b2c6363577edc29c51c593)
-- [ ] [<code>DXC: Commands Combobox changed to QToolButton, a command is sent if the button is pressed</code>](https://github.com/foldynl/QLog.git/commit/111bcad109e99bdbbb0861681914dbfee45923be)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>DXC: Spot is prepared via the command line; removed the special dialog for remarks</code>](https://github.com/foldynl/QLog.git/commit/fd30267f05024fdfd25c0decbcd0c12beb0175c7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/783ae9ada1ea1cdb5a1815f6f0cd11c601706663)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixing #293 - New Contact - Callsign Enter event saves QSO</code>](https://github.com/foldynl/QLog.git/commit/c0d3aeda3bd9a9e9ba2eab7b66dcfcd33d49212e)
-- [ ] [<code>BandPlan: Digital is tunned as SSB/USB</code>](https://github.com/foldynl/QLog.git/commit/c5f639e72109ec4778f990742b579cf2566143d8)
-- [ ] [<code>Updated Czech Translation; regenerated the rest of translations</code>](https://github.com/foldynl/QLog.git/commit/80d34a5242ba828c653371e29d74841415e545e8)
-- [ ] [<code>Copyright update - year</code>](https://github.com/foldynl/QLog.git/commit/bb98e462cd7c6c49d5bf85ef6c986be543ccccfb)
-- [ ] [<code>Updated Translation</code>](https://github.com/foldynl/QLog.git/commit/f9467c52596e76d2c09e852441555718b2815fbb)
-- [ ] [<code>Updated Readme - added Flatpak image link</code>](https://github.com/foldynl/QLog.git/commit/c38ceefa79d0462be62cf4d06acce8fca40508eb)
-- [ ] [<code>Fixed #297 - QSO over midnight UTC not accepted</code>](https://github.com/foldynl/QLog.git/commit/605d977665b55995494a4c8677fcca5fd10ad5fe)
-- [ ] [<code>Fixed typo in Import Dialog</code>](https://github.com/foldynl/QLog.git/commit/915ed52ad416905a4aee1362d26edd0cd322d5c3)
-- [ ] [<code>NewContact - Green/Red Search Globe shows whether Callbook Search is Active/Inactive</code>](https://github.com/foldynl/QLog.git/commit/c05555401493498fbe62d05f771ae16f444b7757)
-- [ ] [<code>Updated Translations</code>](https://github.com/foldynl/QLog.git/commit/bf02d48de89e7e5df40d01880a0da78b9ddff212)
-- [ ] [<code>Updated German translation</code>](https://github.com/foldynl/QLog.git/commit/93eca4220422e16dd24456387079010bdff9b580)
-- [ ] [<code>LOV Download: Shortened download period for SAT LOV from 30 to 7 days</code>](https://github.com/foldynl/QLog.git/commit/279ca7e4b922e0317d84fadadfe67ccd1ec783f3)
-- [ ] [<code>Updated Timezone definition - DB version 2023d</code>](https://github.com/foldynl/QLog.git/commit/aaa30b0bd2c4eb236e7b2fdc19047a05c265bad6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Preparation for release 0.31.0</code>](https://github.com/foldynl/QLog.git/commit/e5c38db8734e85dde2ea19fa0c1b99f6395fbc6e)
-  - <sub>Tags: <code>v0.31.0</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
