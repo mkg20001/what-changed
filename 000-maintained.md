@@ -2661,7 +2661,7 @@
 - [ ] [<code>refactor: Put forwarded text into inputfield instead of sending directly</code>](https://github.com/krille-chan/fluffychat/commit/fec39eb602645b7acc8afb7f41612818c9a01312)
 - [ ] [<code>fix: not in range error</code>](https://github.com/krille-chan/fluffychat/commit/af18da57e6c799c6e8491b92c8fd803732342f95)
 - [ ] [<code>build: Update matrix dart sdk to 0.25.4</code>](https://github.com/krille-chan/fluffychat/commit/d8414e8d15b3ce63304382154e99bc53adc26f69)
-  - <sub>Tags: <code>rc1.17.0-4</code></sub>
+  - <sub>Tags: <code>rc1.17.0-4</code> <code>v1.17.0</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
