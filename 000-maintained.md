@@ -4061,6 +4061,12 @@
 - [ ] [<code>test: Convert more snapshot tests</code>](https://github.com/cowsql/raft/commit/bebba3469910b443fc2cffb3d34ff07836491e94)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test: Convert start tests to the v1 API (#131)</code>](https://github.com/cowsql/raft/commit/ef73ca6c761d7fe81141c4645e639a6f9c92fd52)
+- [ ] [<code>v1: Add const qualifier to read-only APIs</code>](https://github.com/cowsql/raft/commit/870f037f192b4bf7a14dafa2cf538db3a88b2307)
+- [ ] [<code>v1: Add raft_transfereed() returning the ID of a leadership transfer</code>](https://github.com/cowsql/raft/commit/58f34ea3829321209cccd1b188b4a8aefe53c0d8)
+- [ ] [<code>v1: Add a new leader_state.transferee field</code>](https://github.com/cowsql/raft/commit/4f8b149daa63aeec77db319224d19133a675bfd5)
+- [ ] [<code>v1: Rename unused field in leader_state sub-struct</code>](https://github.com/cowsql/raft/commit/bf6155aad50b7974d452e64ea8eadff6f5452875)
+- [ ] [<code>v1: Don't involve struct raft_transfer in leadership transfers</code>](https://github.com/cowsql/raft/commit/3d1b72e8765bb3cc8cb8d8b6539a7250b8b79157)
+- [ ] [<code>v1: Add `raft_transferee()` API and associated internal logic changes (#134)</code>](https://github.com/cowsql/raft/commit/5fb2b91e097c78e9e9c8227528a7f65c1d82dc7e)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
