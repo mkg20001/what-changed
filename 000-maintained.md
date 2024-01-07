@@ -2665,6 +2665,14 @@
   - <sub>Tags: <code>rc1.17.0-4</code> <code>v1.17.0</code></sub>
 - [ ] [<code>fix: URL too long when reporting bug</code>](https://github.com/krille-chan/fluffychat/commit/faf4ecd088937f6da24836c7268e26383a79cd4e)
 - [ ] [<code>build: Update macOS build files</code>](https://github.com/krille-chan/fluffychat/commit/ab9ca586b430c101d1d4f224b9e819620e33b902)
+- [ ] [<code>Fix dependency. missing yq when invoking setup-web. also ensure updated config.json copied in</code>](https://github.com/krille-chan/fluffychat/commit/ab0cbabc9933bcc268be5d72f18fb5ad0db87314)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>build: make dependabot also monitor github-actions</code>](https://github.com/krille-chan/fluffychat/commit/9cf66d6cab2d839c4b7faf01db015715dd90fb1b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump actions/checkout from 2 to 4</code>](https://github.com/krille-chan/fluffychat/commit/e11585ec175c713da244833e3a806a4b72ac0071)
+- [ ] [<code>build: (deps): bump actions/upload-artifact from 2 to 4</code>](https://github.com/krille-chan/fluffychat/commit/d8ff4e7990bb811f2ca6c3e685a8578493416cdb)
+- [ ] [<code>build: (deps): bump actions/stale from 5 to 9</code>](https://github.com/krille-chan/fluffychat/commit/5bb8167b4a1b516ba966e822250dd3de0a7f26e3)
+- [ ] [<code>design: Better paddings in tablet mode</code>](https://github.com/krille-chan/fluffychat/commit/7332e533d0c072e90ce3f9330129e921c286d282)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
