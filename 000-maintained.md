@@ -3110,6 +3110,7 @@
 - [ ] [<code>gdk-pixbuf: new quality settings</code>](https://github.com/AOMediaCodec/libavif/commit/1410133fa0cdd6b9ed5d129e3c9884369baf3208)
 - [ ] [<code>Restrict fuzztest tests to libfuzzer (#1909)</code>](https://github.com/AOMediaCodec/libavif/commit/73b0b2d5d10a4c55000616e582e80074a78bfeea)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Use full path for fuzztest tests (#1910)</code>](https://github.com/AOMediaCodec/libavif/commit/4a69fdee9facf18442c0c14a7264e6a10dd0e349)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
