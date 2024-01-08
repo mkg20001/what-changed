@@ -3111,6 +3111,14 @@
 - [ ] [<code>Restrict fuzztest tests to libfuzzer (#1909)</code>](https://github.com/AOMediaCodec/libavif/commit/73b0b2d5d10a4c55000616e582e80074a78bfeea)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Use full path for fuzztest tests (#1910)</code>](https://github.com/AOMediaCodec/libavif/commit/4a69fdee9facf18442c0c14a7264e6a10dd0e349)
+- [ ] [<code>Bump rav1e to 0.7.0 (#1911)</code>](https://github.com/AOMediaCodec/libavif/commit/c616a2f1bfbd08a205a461b58b73f0673279f175)
+- [ ] [<code>Remove MINGW32 support (#1913)</code>](https://github.com/AOMediaCodec/libavif/commit/2f865774afc773a7ef8e0b07f965fd384e635d32)
+- [ ] [<code>Force repro_avif_decode_fuzzer to be C++ (#1914)</code>](https://github.com/AOMediaCodec/libavif/commit/2660e05ccf052857a8d9f8054e021ffdf35092a5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Disable fuzztest flags for coverage. (#1915)</code>](https://github.com/AOMediaCodec/libavif/commit/30f93ccde4e4dc02087c1854804cfc2ef7e9adf0)
+- [ ] [<code>Windows: add a manifest to use UTF-8 code pages</code>](https://github.com/AOMediaCodec/libavif/commit/3ec01cefd1ddd266a622d5e114a0888581b68f4a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3472,6 +3480,12 @@
 - [ ] [<code>lxd-to-incus: Detect source daemon using symlink path</code>](https://github.com/lxc/incus/commit/36ebcd2186cc82695096db9e6b1818169e3935b5)
 - [ ] [<code>lxd-to-incus: Remove trailing slashes from paths</code>](https://github.com/lxc/incus/commit/6cee27cddbc6297e3a62864c27b44b36d267e089)
 - [ ] [<code>lxd-to-incus: touch completion file after migration</code>](https://github.com/lxc/incus/commit/edc5fd2a9baccfb7b6814a440e2947cbb580afcf)
+- [ ] [<code>incusd: Refresh the state on cluster put/join</code>](https://github.com/lxc/incus/commit/37736893c50422050f678348fa3c5bc1f8246595)
+- [ ] [<code>shared/cliconfig: Improve error handling</code>](https://github.com/lxc/incus/commit/f440df3629b33b64838332b2721ac8ae304a86de)
+- [ ] [<code>incusd/instance/qemu: Don't hardcode UEFI firmware in checkFeatures</code>](https://github.com/lxc/incus/commit/a4266dcf284dc1bf5e21d49838d91b55983a5a0d)
+- [ ] [<code>incusd/firewall/xtables: Fix iptablesClear on nft shim</code>](https://github.com/lxc/incus/commit/3c6a60d844a7fccfb207f53e01fbb111958d42be)
+- [ ] [<code>incus/network: add dynamic completions</code>](https://github.com/lxc/incus/commit/7bda5e845c3629e012446b2a091ce19b4d18b252)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3803,6 +3817,11 @@
 - [ ] [<code>cli:try: use state of the art type hint</code>](https://github.com/canonical/netplan/commit/6f4fbc06b586359f1861907d6bfcf81a40d1b7b4)
 - [ ] [<code>ovs: disable StartLimitBurst in the ovs-cleanup service</code>](https://github.com/canonical/netplan/commit/068b2960b1323a584c54f94a0cdf7d49c271748d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Exclude changes in 'doc/' dir from code CI checks.</code>](https://github.com/canonical/netplan/commit/ddc2e9900ad23e8b923a77aee3b6b9fa511e5465)
+- [ ] [<code>Adopt Docs Starter Pack:</code>](https://github.com/canonical/netplan/commit/eb5d9c2e70626a238566189148bf32007738ae87)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix Doxygen config. & remove Doxyfile.</code>](https://github.com/canonical/netplan/commit/d3a408c0e72c275cb52d6aec14ca41ebaa774d16)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4002,6 +4021,30 @@
 - [ ] [<code>v1: Rename unused field in leader_state sub-struct</code>](https://github.com/cowsql/raft/commit/bf6155aad50b7974d452e64ea8eadff6f5452875)
 - [ ] [<code>v1: Don't involve struct raft_transfer in leadership transfers</code>](https://github.com/cowsql/raft/commit/3d1b72e8765bb3cc8cb8d8b6539a7250b8b79157)
 - [ ] [<code>v1: Add `raft_transferee()` API and associated internal logic changes (#134)</code>](https://github.com/cowsql/raft/commit/5fb2b91e097c78e9e9c8227528a7f65c1d82dc7e)
+- [ ] [<code>test: Add test_cluster_transfer to start a leadership transfer</code>](https://github.com/cowsql/raft/commit/2dff8b9d41df50ecbe8d5d9d1c4fdabe9bffac3e)
+- [ ] [<code>test: Convert snapshot/ReceiveAppendEntriesWhileInstalling to v1 API</code>](https://github.com/cowsql/raft/commit/f83323b047c58decb5299babe83fb4ef13e2c95f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Turn off optimization to not interfer with test coverage</code>](https://github.com/cowsql/raft/commit/cda50e01ff820507c44bd2065b41057ddc5de49d)
+- [ ] [<code>test: Drop installOneDisconnectedDuringOperationReconnects</code>](https://github.com/cowsql/raft/commit/589e049304be33d2eed0eef48f8eb99dd02797fb)
+- [ ] [<code>test: Drop noSnapshotInstallToKilled</code>](https://github.com/cowsql/raft/commit/f583bdf015eb2e7724db0768436aae875b2195ee)
+- [ ] [<code>test: Drop installOneTimeOutAppendAfter</code>](https://github.com/cowsql/raft/commit/2b576d1155a62279dc5c098a7b88cfec2c23fd08)
+- [ ] [<code>test: Drop installMultipleTimeOut</code>](https://github.com/cowsql/raft/commit/7ff33b8c2519625741f10fa343729f185b142dd1)
+- [ ] [<code>test: Replace installMultipleTimeOutAppendAfter</code>](https://github.com/cowsql/raft/commit/5de84a142d40f054eb6d886e7427b043eb66b346)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Drop installSnapshotHeartBeats</code>](https://github.com/cowsql/raft/commit/2bdfd2f2baf31d79267515c4d94fa27e40fe5eb5)
+- [ ] [<code>test: Drop takeSnapshotAppendEntries</code>](https://github.com/cowsql/raft/commit/d7fc65fd5ca6761b8e0dce8a3bf9ec8a4ecc35a7)
+- [ ] [<code>test: Move legacy snapshot tests to test_legacy</code>](https://github.com/cowsql/raft/commit/4b0b238d690aace5ccf7138796f70d7503efa0e5)
+- [ ] [<code>progress: Take into account snapshot last send in heartbeat timeout</code>](https://github.com/cowsql/raft/commit/9dbb68f565fdbf38668085e2beabff7070b40f65)
+- [ ] [<code>test: Convert installSnapshotDuringEntriesWrite to v1</code>](https://github.com/cowsql/raft/commit/0fa9f9c7abd5db4a03a589e1923f95fbdc1b67e1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Drop snapshot/takeSnapshotFail</code>](https://github.com/cowsql/raft/commit/7dd16346b46d9ed81eac5c76a93da23e223c72ae)
+- [ ] [<code>test: Move snapshotBlocksCandidate to test_legacy.c</code>](https://github.com/cowsql/raft/commit/939278ba46298a9656cfc1b00e1eed08ecfff249)
+- [ ] [<code>test: Skip fuzzy tests when SKIP_FUZZY_TESTS is set</code>](https://github.com/cowsql/raft/commit/d0a66b7dca30e3ae48356b6e783ada57998314ab)
+- [ ] [<code>test: Drop unavailableDiscardsSnapshot</code>](https://github.com/cowsql/raft/commit/5a48a3b601e006f46ecb38ca74162eb9ea579201)
+- [ ] [<code>test: Convert NewTermWhileInstalling to v1</code>](https://github.com/cowsql/raft/commit/c6c96c10ddb216f159d39b4b201eaa376508bcad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Convert membership tests</code>](https://github.com/cowsql/raft/commit/3a0766f32d14e31449a54e55bd460f8ef08bf1a5)
+- [ ] [<code>test: Convert membership tests to the v1 API (#135)</code>](https://github.com/cowsql/raft/commit/57b2d9794a5797b7a7a9a2c6ad61028d6c3bb609)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
