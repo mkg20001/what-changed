@@ -3801,6 +3801,8 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>parse-nm/wg: append the correct prefix to IPv6 addresses (#428), LP: #2046158</code>](https://github.com/canonical/netplan/commit/1d6171021bcd07a5c50de91b919b6f127be35a33)
 - [ ] [<code>cli:try: use state of the art type hint</code>](https://github.com/canonical/netplan/commit/6f4fbc06b586359f1861907d6bfcf81a40d1b7b4)
+- [ ] [<code>ovs: disable StartLimitBurst in the ovs-cleanup service</code>](https://github.com/canonical/netplan/commit/068b2960b1323a584c54f94a0cdf7d49c271748d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4109,6 +4111,8 @@
 - [ ] [<code>Update to v2.5.0</code>](https://github.com/axcore/tartube/commit/8fba4203ac5c5d9487d95fc288f894fb38e4f0ef)
   - <sub>Tags: <code>v2.5.0</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Video sort ignores punctuation #611</code>](https://github.com/axcore/tartube/commit/43d074b1f1111522ff16d7aff07d5256d4ba2e6b)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.13.0/Tribler-7.13.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
