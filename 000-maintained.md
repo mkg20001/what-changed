@@ -2213,6 +2213,15 @@
 - [ ] [<code>dbeaver/dbeaver#22330 Duplicate create action fix (#22331)</code>](https://github.com/dbeaver/dbeaver/commit/17bd89a97baa3d9eda180ae12b55ba78caf4bacc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>dbeaver/dbeaver#22347 "Team" disappeared from context menu in 23.3.2 (#22349)</code>](https://github.com/dbeaver/dbeaver/commit/911f9bd88d3cbaca221d96141b20b325c29b4e84)
+- [ ] [<code>dbeaver/dbeaver-devops#838 enabled p2 versioning (#22387)</code>](https://github.com/dbeaver/dbeaver/commit/fe577d59303ee7ded7b0bf1061433495ad87909b)
+- [ ] [<code>dbeaver/pro#2249 Association between entities on diagram by complex foreign key should be drawn correctly. (#22343)</code>](https://github.com/dbeaver/dbeaver/commit/fce9dcbc53a4f96f39a581b5b0404a3f95c3586e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#22355 look for clients in /usr/lib on Linux & display real paths (#22357)</code>](https://github.com/dbeaver/dbeaver/commit/084cc2d4f09024841ce2914d68589c64f23c3279)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>23.3.3 version bump</code>](https://github.com/dbeaver/dbeaver/commit/073526b2b941c842b146e4478ce4722b0fa8e0e9)
+- [ ] [<code>dbeaver/dbeaver#22383 Virtual entity edit dialog fix (#22384)</code>](https://github.com/dbeaver/dbeaver/commit/c093811a80877bd99b1c3d036e510a633ddd1d41)
+- [ ] [<code>#22369 Change confirmation message for clean option of restore wizard for PostgreSQL (#22375)</code>](https://github.com/dbeaver/dbeaver/commit/c181333b77702f52f26c228199b5c9661fedfd60)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -4100,6 +4109,29 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test: Convert membership tests</code>](https://github.com/cowsql/raft/commit/3a0766f32d14e31449a54e55bd460f8ef08bf1a5)
 - [ ] [<code>test: Convert membership tests to the v1 API (#135)</code>](https://github.com/cowsql/raft/commit/57b2d9794a5797b7a7a9a2c6ad61028d6c3bb609)
+- [ ] [<code>test: Drop unnecessary raft_apply/first</code>](https://github.com/cowsql/raft/commit/24eb158be3c87ece42cb806a14c1e5b843a65117)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Drop unnecessary raft_apply/two</code>](https://github.com/cowsql/raft/commit/ecf3d1fde473862e34af8a9432480af0e1cfd52b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Drop unnecessary raft_apply/notLeader</code>](https://github.com/cowsql/raft/commit/57436b28fc8d87787fb9037914e0e2b428bfccec)
+- [ ] [<code>test: Drop unnecessary raft_apply/leadershipLost</code>](https://github.com/cowsql/raft/commit/4717bb76c56f279042640c621bb3c3691a9f2304)
+- [ ] [<code>test: Drop unnecessary raft_assign/promoteUpToDate</code>](https://github.com/cowsql/raft/commit/43c4e229b4004d63088f543ff14cf286f5e11f1e)
+- [ ] [<code>test: Drop unnecessary raft_assign/promoteCatchUp</code>](https://github.com/cowsql/raft/commit/266d036fdbb612649fa4817f3742abb7b1add988)
+- [ ] [<code>test: Drop unnecessary raft_assign/promoteNewRound</code>](https://github.com/cowsql/raft/commit/b21245fa8acceff1b7d123f25a1890a3480ba44a)
+- [ ] [<code>test: Drop unnecessary raft_assign/changeIsImmediate</code>](https://github.com/cowsql/raft/commit/0143c6a177abd9ff13dc05b3b45721a62b3a2da6)
+- [ ] [<code>test: Drop unnecessary raft_assign/promoteToStandBy</code>](https://github.com/cowsql/raft/commit/074cdb45154b90818c245bc3e56294c06de7b464)
+- [ ] [<code>test: Convert raft_assign/notLeader to v1 API</code>](https://github.com/cowsql/raft/commit/ee7ab163fba300ba5276db37e89ec5a5efd084f5)
+- [ ] [<code>client: Move legacy v0 APIs to legacy.c</code>](https://github.com/cowsql/raft/commit/c5bfa1769db19383ecb333f7d1242fcd81ec92ee)
+- [ ] [<code>raft: Move legacy v0 APIs to legacy.c</code>](https://github.com/cowsql/raft/commit/bd9b1fd295e12226debca9e0a49bc0d6373b41e2)
+- [ ] [<code>legacy: Move tickCb and recvCb into legacy.c, where they are used</code>](https://github.com/cowsql/raft/commit/c0ba0f1d732ea012583b7e176f1ab63db08ff3b9)
+- [ ] [<code>test: Cluster simplify struct operation by leveraging struct event</code>](https://github.com/cowsql/raft/commit/f631c9076723fdcf52a0bf0b628b847a0345ee46)
+- [ ] [<code>test: Move legacy raft_assign tests to test_legacy.c</code>](https://github.com/cowsql/raft/commit/4d966a47058156ca130bf7e4339f160a62e21fe8)
+- [ ] [<code>test: Drop unnecessary raft_assign/leadershipLost</code>](https://github.com/cowsql/raft/commit/38d8037b68dd1a470f5e8a4db020eff015b8b01a)
+- [ ] [<code>test: Add test_cluster_catch_up() helper to fire RAFT_CATCH_UP</code>](https://github.com/cowsql/raft/commit/f96345494762bc0fe90e5ef0ca55c059a3c8e25e)
+- [ ] [<code>test: Convert raft_assign/promoteUnresponsive to v1</code>](https://github.com/cowsql/raft/commit/854c0a33ddfabbc32303e8ce47b84a0171da395e)
+- [ ] [<code>test: Drop unnecessary raft_assign/demoteToStandBy</code>](https://github.com/cowsql/raft/commit/67176e5504255a95a0a073474353bc4128489c31)
+- [ ] [<code>test: Rename test_assign.c to test_catch_up.c</code>](https://github.com/cowsql/raft/commit/1456b53eacce5bf2b3c322d51fde00b97cfba619)
+- [ ] [<code>test: Convert assign tests to the v1 API (#136)</code>](https://github.com/cowsql/raft/commit/bfb42ec534835a570402343181aed14843ec7411)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
