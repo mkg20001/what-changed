@@ -2673,6 +2673,8 @@
 - [ ] [<code>build: (deps): bump actions/upload-artifact from 2 to 4</code>](https://github.com/krille-chan/fluffychat/commit/d8ff4e7990bb811f2ca6c3e685a8578493416cdb)
 - [ ] [<code>build: (deps): bump actions/stale from 5 to 9</code>](https://github.com/krille-chan/fluffychat/commit/5bb8167b4a1b516ba966e822250dd3de0a7f26e3)
 - [ ] [<code>design: Better paddings in tablet mode</code>](https://github.com/krille-chan/fluffychat/commit/7332e533d0c072e90ce3f9330129e921c286d282)
+- [ ] [<code>docs: Fix typo in readme</code>](https://github.com/krille-chan/fluffychat/commit/01b723bd05499874258399d6879627a278304994)
+- [ ] [<code>chore: Remove vibration on iOS for long press</code>](https://github.com/krille-chan/fluffychat/commit/e0ecdee5d5d4a8a0482122efe2a794a7dde429e0)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
