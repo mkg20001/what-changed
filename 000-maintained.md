@@ -2222,6 +2222,9 @@
 - [ ] [<code>dbeaver/dbeaver#22383 Virtual entity edit dialog fix (#22384)</code>](https://github.com/dbeaver/dbeaver/commit/c093811a80877bd99b1c3d036e510a633ddd1d41)
 - [ ] [<code>#22369 Change confirmation message for clean option of restore wizard for PostgreSQL (#22375)</code>](https://github.com/dbeaver/dbeaver/commit/c181333b77702f52f26c228199b5c9661fedfd60)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2341 Copyright update</code>](https://github.com/dbeaver/dbeaver/commit/3e1d560c324a679b77bb8610183d9191f1344b7d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/d073c9b67106feea4c2db489335320f9fbfd518b)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2684,6 +2687,7 @@
 - [ ] [<code>design: Better paddings in tablet mode</code>](https://github.com/krille-chan/fluffychat/commit/7332e533d0c072e90ce3f9330129e921c286d282)
 - [ ] [<code>docs: Fix typo in readme</code>](https://github.com/krille-chan/fluffychat/commit/01b723bd05499874258399d6879627a278304994)
 - [ ] [<code>chore: Remove vibration on iOS for long press</code>](https://github.com/krille-chan/fluffychat/commit/e0ecdee5d5d4a8a0482122efe2a794a7dde429e0)
+- [ ] [<code>build: Update macOS build files</code>](https://github.com/krille-chan/fluffychat/commit/b6ab60146a82df926a43f39b659d8b5712fcc1c9)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
