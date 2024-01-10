@@ -2225,6 +2225,8 @@
 - [ ] [<code>dbeaver/pro#2341 Copyright update</code>](https://github.com/dbeaver/dbeaver/commit/3e1d560c324a679b77bb8610183d9191f1344b7d)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/d073c9b67106feea4c2db489335320f9fbfd518b)
+- [ ] [<code>#22328 Fix Procedures are hidden in navigator if any function exist in a schema (#22363)</code>](https://github.com/dbeaver/dbeaver/commit/5d46862d9e9f452d024d529d8cbeb0ac1b0d18fa)
+- [ ] [<code>dbeaver/pro#2338 Enhance unassociated entity location for ortho layout (#22346)</code>](https://github.com/dbeaver/dbeaver/commit/d33308b4f164b3da1ad358817452f4df61572aef)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3134,6 +3136,9 @@
 - [ ] [<code>Windows: add a manifest to use UTF-8 code pages</code>](https://github.com/AOMediaCodec/libavif/commit/3ec01cefd1ddd266a622d5e114a0888581b68f4a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Better ID choice for new item. (#1922)</code>](https://github.com/AOMediaCodec/libavif/commit/59f1c9af777d517a781e2bec933dd492d72b9976)
+- [ ] [<code>Add ci-windows-artifacts (#1923)</code>](https://github.com/AOMediaCodec/libavif/commit/8aa8a60ff6dd1bb57e219269c9fc021e908e154b)
+- [ ] [<code>appveyor.yml:  set 'skip_non_tags: true' (#1921)</code>](https://github.com/AOMediaCodec/libavif/commit/d058c7acfe3e224fed8e744a80c4c3c98e7c6989)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3892,6 +3897,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Fix Doxygen config. & remove Doxyfile.</code>](https://github.com/canonical/netplan/commit/d3a408c0e72c275cb52d6aec14ca41ebaa774d16)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Improve how-to docs:</code>](https://github.com/canonical/netplan/commit/b44de5204b5d40df0cfa033a29b91747e807356b)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4138,6 +4145,11 @@
 - [ ] [<code>test: Drop unnecessary raft_assign/demoteToStandBy</code>](https://github.com/cowsql/raft/commit/67176e5504255a95a0a073474353bc4128489c31)
 - [ ] [<code>test: Rename test_assign.c to test_catch_up.c</code>](https://github.com/cowsql/raft/commit/1456b53eacce5bf2b3c322d51fde00b97cfba619)
 - [ ] [<code>test: Convert assign tests to the v1 API (#136)</code>](https://github.com/cowsql/raft/commit/bfb42ec534835a570402343181aed14843ec7411)
+- [ ] [<code>test: Drop unnecessary test_barrier.c</code>](https://github.com/cowsql/raft/commit/2eb29146adaf7a8ecd68fffd044c217da74ae28e)
+- [ ] [<code>test: Move raft_bootstrap() tests to test_legacy.c</code>](https://github.com/cowsql/raft/commit/2e93be902732a3a224f41d793f53bcba1647447a)
+- [ ] [<code>test: Move raft_recover() tests to test_legacy.c</code>](https://github.com/cowsql/raft/commit/19fcd9f71c13eff027503f381a6c0b6369df48c2)
+- [ ] [<code>test: Convert transfer tests to the v1 API</code>](https://github.com/cowsql/raft/commit/416553f31cffcdd766b27b5254128563786c433c)
+- [ ] [<code>test: Convert transfer tests to the v1 API (#137)</code>](https://github.com/cowsql/raft/commit/4b75615af61cd1e39a5fced65a951609bc8d7d46)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
