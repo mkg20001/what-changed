@@ -3550,6 +3550,8 @@
 - [ ] [<code>incus/network: add dynamic completions</code>](https://github.com/lxc/incus/commit/7bda5e845c3629e012446b2a091ce19b4d18b252)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared/idmap: Fix typo in comments</code>](https://github.com/lxc/incus/commit/22b1b067144933fb9031189645a6da16fb0895f9)
+- [ ] [<code>incus/project: Get current project from connection info</code>](https://github.com/lxc/incus/commit/3f9dd3bfe21d5a31eb810d21f47aafdde4ed61f0)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
