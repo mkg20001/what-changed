@@ -2227,6 +2227,16 @@
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/d073c9b67106feea4c2db489335320f9fbfd518b)
 - [ ] [<code>#22328 Fix Procedures are hidden in navigator if any function exist in a schema (#22363)</code>](https://github.com/dbeaver/dbeaver/commit/5d46862d9e9f452d024d529d8cbeb0ac1b0d18fa)
 - [ ] [<code>dbeaver/pro#2338 Enhance unassociated entity location for ortho layout (#22346)</code>](https://github.com/dbeaver/dbeaver/commit/d33308b4f164b3da1ad358817452f4df61572aef)
+- [ ] [<code>dbeaver/pro#2199 Handle responses with code blocks (#22285)</code>](https://github.com/dbeaver/dbeaver/commit/4f5bbc26c818eb85e65adaee48168804ae463120)
+- [ ] [<code>#22425 Fix task execution time measurement (#22426)</code>](https://github.com/dbeaver/dbeaver/commit/441b1ec49290ea577ac240234a1c32337da01987)
+- [ ] [<code>#22335 Don't allow dot character in the parameter name (#22376)</code>](https://github.com/dbeaver/dbeaver/commit/f54e11cf1ae3d81f1ead3bbae2e6a0f49140c622)
+- [ ] [<code>dbeaver/pro#2257 Fix task view column names (#22404)</code>](https://github.com/dbeaver/dbeaver/commit/bdc0e83e1b191a29d33f5648c35496ae3b125f95)
+- [ ] [<code>update dameng driver version,add categories (#22362)</code>](https://github.com/dbeaver/dbeaver/commit/f702a6a4adfca4d5242c7c47799120d6faee3114)
+- [ ] [<code>dbeaver/dbeaver#20126 feat-altibase-plugin PR (#20813)</code>](https://github.com/dbeaver/dbeaver/commit/a93b0059e4f4a34f3c3a2828650b5653ed7721f0)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#22341 Don't add statistics to export (#22373)</code>](https://github.com/dbeaver/dbeaver/commit/ef3879215ef40a7af256338043bf592608dc0c38)
+- [ ] [<code>CB-4301 qm autoreconnect (#22401)</code>](https://github.com/dbeaver/dbeaver/commit/58b5dd2c78ab0209be1ddbdcc6339406780ec096)
+- [ ] [<code>#21789 Do not rely on whether the truncate feature is supported or not (#22389)</code>](https://github.com/dbeaver/dbeaver/commit/f494e6dcd36098a915f5587bbdd656916e7d56af)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2690,6 +2700,7 @@
 - [ ] [<code>docs: Fix typo in readme</code>](https://github.com/krille-chan/fluffychat/commit/01b723bd05499874258399d6879627a278304994)
 - [ ] [<code>chore: Remove vibration on iOS for long press</code>](https://github.com/krille-chan/fluffychat/commit/e0ecdee5d5d4a8a0482122efe2a794a7dde429e0)
 - [ ] [<code>build: Update macOS build files</code>](https://github.com/krille-chan/fluffychat/commit/b6ab60146a82df926a43f39b659d8b5712fcc1c9)
+- [ ] [<code>build: Update to flutter 3.16.6</code>](https://github.com/krille-chan/fluffychat/commit/c147330e05217f98efbcf441235c5f99396bf51d)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3140,6 +3151,11 @@
 - [ ] [<code>Add ci-windows-artifacts (#1923)</code>](https://github.com/AOMediaCodec/libavif/commit/8aa8a60ff6dd1bb57e219269c9fc021e908e154b)
 - [ ] [<code>appveyor.yml:  set 'skip_non_tags: true' (#1921)</code>](https://github.com/AOMediaCodec/libavif/commit/d058c7acfe3e224fed8e744a80c4c3c98e7c6989)
 - [ ] [<code>Changing AVM codec description (#1726)</code>](https://github.com/AOMediaCodec/libavif/commit/2a82d94736d2ae8dbbc419348d9ce142ae6f1412)
+- [ ] [<code>Bump AVM to research-v6.0.0 (#1927)</code>](https://github.com/AOMediaCodec/libavif/commit/03dceb6c206130e5b0f0275f2e4dc0262cf61cdf)
+- [ ] [<code>Remove dependency on AVM internal headers. (#1928)</code>](https://github.com/AOMediaCodec/libavif/commit/c105111bd17b051b1181e3cfeaeb9ae04ad36d70)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix GitHub workflow cache key conflict (#1929)</code>](https://github.com/AOMediaCodec/libavif/commit/169ee3610cca59e4985899c395d4855f7b9604f7)
+- [ ] [<code>Fix AVM header parsing (#1931)</code>](https://github.com/AOMediaCodec/libavif/commit/b65394b644e76fc17abf001c15ad51f8a713b910)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
