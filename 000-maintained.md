@@ -3139,6 +3139,7 @@
 - [ ] [<code>Better ID choice for new item. (#1922)</code>](https://github.com/AOMediaCodec/libavif/commit/59f1c9af777d517a781e2bec933dd492d72b9976)
 - [ ] [<code>Add ci-windows-artifacts (#1923)</code>](https://github.com/AOMediaCodec/libavif/commit/8aa8a60ff6dd1bb57e219269c9fc021e908e154b)
 - [ ] [<code>appveyor.yml:  set 'skip_non_tags: true' (#1921)</code>](https://github.com/AOMediaCodec/libavif/commit/d058c7acfe3e224fed8e744a80c4c3c98e7c6989)
+- [ ] [<code>Changing AVM codec description (#1726)</code>](https://github.com/AOMediaCodec/libavif/commit/2a82d94736d2ae8dbbc419348d9ce142ae6f1412)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3562,6 +3563,9 @@
 - [ ] [<code>incus/project: Get current project from connection info</code>](https://github.com/lxc/incus/commit/3f9dd3bfe21d5a31eb810d21f47aafdde4ed61f0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/cluster: Ensure the cluster member config is always sorted</code>](https://github.com/lxc/incus/commit/0da9df830c5b0474450ffdc98e733eeb1c078206)
+- [ ] [<code>shared/idmap: Don't change the json format</code>](https://github.com/lxc/incus/commit/c0448c11abbf1deb2bd85afe4ab43e25a39055ce)
+- [ ] [<code>shared/idmap: Document AddSafe and fix double records</code>](https://github.com/lxc/incus/commit/64afc16c2ca74f8713246e34cbf5891f88f779d8)
+- [ ] [<code>incusd: Update instance_test for shared/idmap fix</code>](https://github.com/lxc/incus/commit/fe01631b29094a6690a5656d1b8895467ca433b7)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
