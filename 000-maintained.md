@@ -2237,6 +2237,11 @@
 - [ ] [<code>#22341 Don't add statistics to export (#22373)</code>](https://github.com/dbeaver/dbeaver/commit/ef3879215ef40a7af256338043bf592608dc0c38)
 - [ ] [<code>CB-4301 qm autoreconnect (#22401)</code>](https://github.com/dbeaver/dbeaver/commit/58b5dd2c78ab0209be1ddbdcc6339406780ec096)
 - [ ] [<code>#21789 Do not rely on whether the truncate feature is supported or not (#22389)</code>](https://github.com/dbeaver/dbeaver/commit/f494e6dcd36098a915f5587bbdd656916e7d56af)
+- [ ] [<code>#18774 Allow marking all columns as skipped/exported (#22409)</code>](https://github.com/dbeaver/dbeaver/commit/b4a98596e7e76fc5601511815cf1271077a6866b)
+- [ ] [<code>#22367 Fix grid column description rendering (#22428)</code>](https://github.com/dbeaver/dbeaver/commit/cd23204cd731107f1c2d5318bb0d6999c2c3a3c7)
+- [ ] [<code>dbeaver/pro#2145 disable encrypt if ssl is not active (#22278)</code>](https://github.com/dbeaver/dbeaver/commit/f634d8a7144db775fe67d1b009b8948d9f9b60b5)
+- [ ] [<code>CB-4464. Fixed duplicate child node errors (#22333)</code>](https://github.com/dbeaver/dbeaver/commit/090725cbe93c99f47eece974af4b87c07c899d52)
+- [ ] [<code>CB-4508 Do not save external configs for multiuser mode (#22445)</code>](https://github.com/dbeaver/dbeaver/commit/64d46df0639360440211e58851ba0999c06e6387)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2701,6 +2706,8 @@
 - [ ] [<code>chore: Remove vibration on iOS for long press</code>](https://github.com/krille-chan/fluffychat/commit/e0ecdee5d5d4a8a0482122efe2a794a7dde429e0)
 - [ ] [<code>build: Update macOS build files</code>](https://github.com/krille-chan/fluffychat/commit/b6ab60146a82df926a43f39b659d8b5712fcc1c9)
 - [ ] [<code>build: Update to flutter 3.16.6</code>](https://github.com/krille-chan/fluffychat/commit/c147330e05217f98efbcf441235c5f99396bf51d)
+- [ ] [<code>fix: text nodes with multiple links crash the timeline</code>](https://github.com/krille-chan/fluffychat/commit/23fe757599f5c1c9091c291e6dad7cc2a0ad857b)
+- [ ] [<code>fix: Wait for user device keys before start verification</code>](https://github.com/krille-chan/fluffychat/commit/e6bbb8f980dc461806239c268c73259639eb0638)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2714,7 +2721,7 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.2 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.2...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.3 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.3...HEAD)
 
 - [ ] [<code>Add experimental support for reading and writing gain maps. (#1501)</code>](https://github.com/AOMediaCodec/libavif/commit/50a541469c98009016af8dcc9f83a1be79f3a7d9)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
@@ -3156,6 +3163,14 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix GitHub workflow cache key conflict (#1929)</code>](https://github.com/AOMediaCodec/libavif/commit/169ee3610cca59e4985899c395d4855f7b9604f7)
 - [ ] [<code>Fix AVM header parsing (#1931)</code>](https://github.com/AOMediaCodec/libavif/commit/b65394b644e76fc17abf001c15ad51f8a713b910)
+- [ ] [<code>Use clang-cl to build libyuv (#1930)</code>](https://github.com/AOMediaCodec/libavif/commit/7161d28eae59c595386620f5536beb43053f322a)
+- [ ] [<code>Switch ci-windows-artifacts to release trigger (#1926)</code>](https://github.com/AOMediaCodec/libavif/commit/acaab91c2ad9d41adee9d03c900fabb74a032dee)
+- [ ] [<code>Add build command lines to README.md (#1924)</code>](https://github.com/AOMediaCodec/libavif/commit/feb542deb11ec209079cfb7996d76a93bff8270d)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix AVM header parsing for good (#1934)</code>](https://github.com/AOMediaCodec/libavif/commit/36b925eb9d63991ab4d6cb3316566636c605c054)
+- [ ] [<code>Do not use local gtest with fuzztest (#1935)</code>](https://github.com/AOMediaCodec/libavif/commit/7e1dfc37a9325681b19c7246c0983869c86725cf)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Remove execution permission on raw fuzztest fuzzer (#1936)</code>](https://github.com/AOMediaCodec/libavif/commit/14dc506bc7aa241cd104d834c63da8ca4a9d4e42)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4052,23 +4067,23 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
-> Dropped python310Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python310Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python310Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python310Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
+#### [python311Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped python310Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python310Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
+#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
 
-> Dropped python310Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python310Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.31.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.31.0...HEAD)
@@ -4308,6 +4323,19 @@
 
 #### [twinkle](https://github.com/LubosD/twinkle): [355813d5640ad58c84dc063826069384470ce310 → HEAD](https://github.com/LubosD/twinkle/compare/355813d5640ad58c84dc063826069384470ce310...HEAD)
 
+
+#### [ucode](https://github.com/jow-/ucode): [v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20231102...HEAD)
+
+- [ ] [<code>uloop: support new interval and signal APIs</code>](https://github.com/jow-/ucode/commit/0352a33a0287f4ab464fbfee9907d68eb52aa70a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>syntax: don't treat `as` and `from` as reserved keywords</code>](https://github.com/jow-/ucode/commit/1468cc406bf9b46ae7942791eaa78f74a185062e)
+- [ ] [<code>ubus: make ubus_context first in uc_ubus_connection_t</code>](https://github.com/jow-/ucode/commit/96f74b5be829ea1849e1ab27e7af933727dbd304)
+- [ ] [<code>nl80211: fix datatype of NL80211_BAND_IFTYPE_ATTR_HE_CAP_{MAC,PHY} attrs</code>](https://github.com/jow-/ucode/commit/7e5830edfb38dcbb1834b0e44604636ad48d13c5)
+- [ ] [<code>nl80211: fix parsing of NL80211_BAND_ATTR_VHT_MCS_SET attribute</code>](https://github.com/jow-/ucode/commit/5c8fd34bac42edc5d85e532d7babea7112c98471)
+- [ ] [<code>nl80211: fix decoding of NL80211_BAND_IFTYPE_ATTR_HE_CAP_MCS_SET attribute</code>](https://github.com/jow-/ucode/commit/e8d4e4fe967d6b4f77e5820dafbe84676eb20b25)
+- [ ] [<code>rtnl: store callback in listener registry only on success</code>](https://github.com/jow-/ucode/commit/30a3f7ad0433be059f744c974917bc589b928682)
+- [ ] [<code>rtnl: optimize reception of rtnl events</code>](https://github.com/jow-/ucode/commit/9cbe8294909f76f69cf654d8df4ddc2f609848e0)
+- [ ] [<code>rtnl: increase event socket rx buffer size limit to 1 MiB</code>](https://github.com/jow-/ucode/commit/534417132e1876cc1a2e38d2a35f5937883be282)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
