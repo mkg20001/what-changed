@@ -3584,6 +3584,12 @@
 - [ ] [<code>shared/idmap: Don't change the json format</code>](https://github.com/lxc/incus/commit/c0448c11abbf1deb2bd85afe4ab43e25a39055ce)
 - [ ] [<code>shared/idmap: Document AddSafe and fix double records</code>](https://github.com/lxc/incus/commit/64afc16c2ca74f8713246e34cbf5891f88f779d8)
 - [ ] [<code>incusd: Update instance_test for shared/idmap fix</code>](https://github.com/lxc/incus/commit/fe01631b29094a6690a5656d1b8895467ca433b7)
+- [ ] [<code>incusd/instance/file: Add type and size to HEAD</code>](https://github.com/lxc/incus/commit/e6a9eaefd41c3768b07468453c8c2e1bdc5f130b)
+- [ ] [<code>shared/idmap: Fix typo in comment</code>](https://github.com/lxc/incus/commit/0fdf2f58f0c03c73ab7d7286318ae1a7250f04e2)
+- [ ] [<code>api: disk_io_bus_virtio_blk</code>](https://github.com/lxc/incus/commit/61b718d77c2a188279e617fde44608b27eaa454b)
+- [ ] [<code>doc: Add virtio-blk as option to io.bus</code>](https://github.com/lxc/incus/commit/4f20012533a10e66e1c1c3c151e96d7d8975b113)
+- [ ] [<code>incusd/device/disk: Add virtio-blk</code>](https://github.com/lxc/incus/commit/6938b423a41847016bb448d88a4af85858b0d12c)
+- [ ] [<code>incusd/instance/qemu: Add virtio-blk support</code>](https://github.com/lxc/incus/commit/f127b7aa631e7fe6304ea139ccc44f2dec71e895)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
