@@ -3350,6 +3350,8 @@
 - [ ] [<code>config: try to create workdir if not exist</code>](https://github.com/lxc/lxc/commit/789457f1ae076552a3fbd6b7dd579ed74c4c5a39)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/lxc/commit/112d5615e143e237a62f77c1b915fb6bcdefecf3)
 - [ ] [<code>Align columns in lxc-download.in template</code>](https://github.com/lxc/lxc/commit/84cc3155af502db586f644f1092831155e45ccca)
+- [ ] [<code>Add verbose output in download template.</code>](https://github.com/lxc/lxc/commit/c8189ee2a328aeb8785e8ff208c1e74c7159e0a7)
+- [ ] [<code>Fix error message.</code>](https://github.com/lxc/lxc/commit/6b40e66c1179b821f928d25965eb4d62034265f7)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -4171,6 +4173,17 @@
 - [ ] [<code>test: Move raft_recover() tests to test_legacy.c</code>](https://github.com/cowsql/raft/commit/19fcd9f71c13eff027503f381a6c0b6369df48c2)
 - [ ] [<code>test: Convert transfer tests to the v1 API</code>](https://github.com/cowsql/raft/commit/416553f31cffcdd766b27b5254128563786c433c)
 - [ ] [<code>test: Convert transfer tests to the v1 API (#137)</code>](https://github.com/cowsql/raft/commit/4b75615af61cd1e39a5fced65a951609bc8d7d46)
+- [ ] [<code>raft.h: Drop unnecessary stdarg.h include</code>](https://github.com/cowsql/raft/commit/ba34c49743f8593af4b49da0b9f7f11dca73a2b5)
+- [ ] [<code>raft.h: Move struct raft_tracer definition towards the top</code>](https://github.com/cowsql/raft/commit/e880b3917aa88d49f0bb894ea56acf15b65f1155)
+- [ ] [<code>raft.h: Drop compatibility with the legacy struct raft_tracer</code>](https://github.com/cowsql/raft/commit/ede21d936fd22cb7ad7ca9cf4532d687bf9c3d20)
+- [ ] [<code>raft.h: Use unsigned for feature flags</code>](https://github.com/cowsql/raft/commit/9b4f1989cabf58ab9eade02f6ccbb49d543ab4b1)
+- [ ] [<code>raft.h: Move legacy v0 definitions at the end of the file</code>](https://github.com/cowsql/raft/commit/7a61b840838bbad054b7855a3318e5eec71be5f0)
+- [ ] [<code>legacy: Drop unnecessary includes</code>](https://github.com/cowsql/raft/commit/92be0c8a653b08a6bc0da539358d259c10e4823a)
+- [ ] [<code>build: Support compiling without the legacy v0 compatibility code</code>](https://github.com/cowsql/raft/commit/c44a45b7c6c6bc7b37701eb4a37b2fdf8c6bfaee)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Make v0 compatibility code optional (#138)</code>](https://github.com/cowsql/raft/commit/7c2739196e6022fba3e13b0da681715775163507)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
