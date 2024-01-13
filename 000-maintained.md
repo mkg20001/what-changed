@@ -2242,6 +2242,7 @@
 - [ ] [<code>dbeaver/pro#2145 disable encrypt if ssl is not active (#22278)</code>](https://github.com/dbeaver/dbeaver/commit/f634d8a7144db775fe67d1b009b8948d9f9b60b5)
 - [ ] [<code>CB-4464. Fixed duplicate child node errors (#22333)</code>](https://github.com/dbeaver/dbeaver/commit/090725cbe93c99f47eece974af4b87c07c899d52)
 - [ ] [<code>CB-4508 Do not save external configs for multiuser mode (#22445)</code>](https://github.com/dbeaver/dbeaver/commit/64d46df0639360440211e58851ba0999c06e6387)
+- [ ] [<code>CB-4309 add keep alive interval for data source (#22316)</code>](https://github.com/dbeaver/dbeaver/commit/2b26c584aa16a03e772b912dd09448718e8c2f2d)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
