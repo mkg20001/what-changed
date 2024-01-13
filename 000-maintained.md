@@ -2709,6 +2709,12 @@
 - [ ] [<code>build: Update to flutter 3.16.6</code>](https://github.com/krille-chan/fluffychat/commit/c147330e05217f98efbcf441235c5f99396bf51d)
 - [ ] [<code>fix: text nodes with multiple links crash the timeline</code>](https://github.com/krille-chan/fluffychat/commit/23fe757599f5c1c9091c291e6dad7cc2a0ad857b)
 - [ ] [<code>fix: Wait for user device keys before start verification</code>](https://github.com/krille-chan/fluffychat/commit/e6bbb8f980dc461806239c268c73259639eb0638)
+- [ ] [<code>build: Update to flutter 3.16.7</code>](https://github.com/krille-chan/fluffychat/commit/50913b7947a18ecaf76af456c58a79cbf58c380b)
+- [ ] [<code>build: Update matrix sdk 0.25.5</code>](https://github.com/krille-chan/fluffychat/commit/77007d86e5ef6ff2d877caf15b0079da9cf74850)
+- [ ] [<code>build: Bump version to 1.17.1</code>](https://github.com/krille-chan/fluffychat/commit/9981826f7ba8f4d130766f175bf69ceb01298d64)
+  - <sub>Tags: <code>v1.17.1</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci: Fix get tag name for snapcraft promote</code>](https://github.com/krille-chan/fluffychat/commit/a538056f98d34dcbc08f0dc04b22a09db7c0c0b3)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
