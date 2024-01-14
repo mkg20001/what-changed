@@ -2715,6 +2715,9 @@
   - <sub>Tags: <code>v1.17.1</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>ci: Fix get tag name for snapcraft promote</code>](https://github.com/krille-chan/fluffychat/commit/a538056f98d34dcbc08f0dc04b22a09db7c0c0b3)
+- [ ] [<code>refactor: Use popupmenudivider instead of workaround</code>](https://github.com/krille-chan/fluffychat/commit/e95ed6125762a8af46720e0abeecefe74920cbdf)
+- [ ] [<code>fix: Forward arbitrary message content</code>](https://github.com/krille-chan/fluffychat/commit/c67df2e14f693b3cdd30552d4fde0d456a8726d8)
+- [ ] [<code>ci: Add manual trigger for main deploy</code>](https://github.com/krille-chan/fluffychat/commit/913cedf507fc021032f2bf7bb4af4c8a54abc855)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3612,6 +3615,35 @@
 - [ ] [<code>doc: Add virtio-blk as option to io.bus</code>](https://github.com/lxc/incus/commit/4f20012533a10e66e1c1c3c151e96d7d8975b113)
 - [ ] [<code>incusd/device/disk: Add virtio-blk</code>](https://github.com/lxc/incus/commit/6938b423a41847016bb448d88a4af85858b0d12c)
 - [ ] [<code>incusd/instance/qemu: Add virtio-blk support</code>](https://github.com/lxc/incus/commit/f127b7aa631e7fe6304ea139ccc44f2dec71e895)
+- [ ] [<code>Move db backup functions to ClusterTx</code>](https://github.com/lxc/incus/commit/4bd84350f52f99f8ceb129414c77bf6bd35c4576)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db image functions to ClusterTx</code>](https://github.com/lxc/incus/commit/ddc05ba9efd58d7a6c88f749bfa2f0a43bc174bb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db instance functions to ClusterTx</code>](https://github.com/lxc/incus/commit/c10f891554b86a326c25c6151e0d54eab6713d0d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db network ACL functions to ClusterTx</code>](https://github.com/lxc/incus/commit/6fec670b8129f6d002d85141fbe8ddd4a2476121)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db network forward functions to ClusterTx</code>](https://github.com/lxc/incus/commit/458889b423dbb7f6c6411cb0ac76c0a05ee16282)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db network load balancer functions to ClusterTx</code>](https://github.com/lxc/incus/commit/e2a26912083593b18b65246cfdfdfd7a20b222af)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db network peer functions to ClusterTx</code>](https://github.com/lxc/incus/commit/1be88bedd56c580bc55c97717af3c8a6fa090efc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db profile functions to ClusterTx</code>](https://github.com/lxc/incus/commit/f182c47f2ab1eb76909af257c536ff13dca71617)
+- [ ] [<code>Move db network zone functions to ClusterTx</code>](https://github.com/lxc/incus/commit/db6202873a8efe47a7f6f2f46a62309b0ca0a2f8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db network functions to ClusterTx</code>](https://github.com/lxc/incus/commit/6b689bb160d4079c54de44dc330c10583e76f76f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db snapshot functions to ClusterTx</code>](https://github.com/lxc/incus/commit/019e6c20dc6d21369e678b7a4f6f8710a274b468)
+- [ ] [<code>Move db storage bucket functions to ClusterTx</code>](https://github.com/lxc/incus/commit/37afe6d790dd112b80b0815b8766c837d7230422)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db storage pool functions to ClusterTx</code>](https://github.com/lxc/incus/commit/cf5c42d2b6127d2c7da4706a009ce05d223cc268)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db volume snapshot functions to ClusterTx</code>](https://github.com/lxc/incus/commit/45d76977e5ddff0c894a174c532aaaf8878981ea)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db storage volume functions to ClusterTx</code>](https://github.com/lxc/incus/commit/66adc717447664555cfe30b11a8e3e8fa63c21a8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Move db warning functions to ClusterTx</code>](https://github.com/lxc/incus/commit/e48ba1e35cb5a675212b351538e28fb14b49fc8f)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
