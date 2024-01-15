@@ -2243,6 +2243,8 @@
 - [ ] [<code>CB-4464. Fixed duplicate child node errors (#22333)</code>](https://github.com/dbeaver/dbeaver/commit/090725cbe93c99f47eece974af4b87c07c899d52)
 - [ ] [<code>CB-4508 Do not save external configs for multiuser mode (#22445)</code>](https://github.com/dbeaver/dbeaver/commit/64d46df0639360440211e58851ba0999c06e6387)
 - [ ] [<code>CB-4309 add keep alive interval for data source (#22316)</code>](https://github.com/dbeaver/dbeaver/commit/2b26c584aa16a03e772b912dd09448718e8c2f2d)
+- [ ] [<code>dbeaver/dbeaver#22325 add opens sun.nio.fs to handle symlinks (#22422)</code>](https://github.com/dbeaver/dbeaver/commit/b560aa027425cbe897d185d8afdef5d4233192f6)
+- [ ] [<code>dbeaver/pro#2309 Column alias visibility (#22403)</code>](https://github.com/dbeaver/dbeaver/commit/3210025619fa711963165c9d7bd87915bac618da)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2718,6 +2720,8 @@
 - [ ] [<code>refactor: Use popupmenudivider instead of workaround</code>](https://github.com/krille-chan/fluffychat/commit/e95ed6125762a8af46720e0abeecefe74920cbdf)
 - [ ] [<code>fix: Forward arbitrary message content</code>](https://github.com/krille-chan/fluffychat/commit/c67df2e14f693b3cdd30552d4fde0d456a8726d8)
 - [ ] [<code>ci: Add manual trigger for main deploy</code>](https://github.com/krille-chan/fluffychat/commit/913cedf507fc021032f2bf7bb4af4c8a54abc855)
+- [ ] [<code>fix: Encode component for links correctly</code>](https://github.com/krille-chan/fluffychat/commit/e39f046b1e19b0eca03dc8e61c70e276984dfdfb)
+- [ ] [<code>chore: Follow up linkify code</code>](https://github.com/krille-chan/fluffychat/commit/708629accaefc3b46bb190b4f5c0b18bc8c9cbc0)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3478,6 +3482,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>typofix: fix incorrect printing in lxcfs help interface</code>](https://github.com/lxc/lxcfs/commit/c27c750ba028a65a3d136999e85939dbb9601b06)
 - [ ] [<code>Add macro pivot&bpf for loongarch64</code>](https://github.com/lxc/lxcfs/commit/10f17f5dded80187f32d3c0ce5c03c110b04faa0)
+- [ ] [<code>lxc.mount.hook: Skip cpu sysfs logic if missing target</code>](https://github.com/lxc/lxcfs/commit/746b9f430396520c650add33993b7139d86c5c36)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3656,6 +3661,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/loki: Replace complex backoff with simple loop</code>](https://github.com/lxc/incus/commit/f5e6022803a71d0dbce8213e4489c1366d812886)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/700a71bbd80b830233921c5237f60aca7bafba9b)
+- [ ] [<code>incus-agent: Handle built-in vsock module</code>](https://github.com/lxc/incus/commit/c3172b748e0eba8cfd4e959a14bc609a14fa5ac7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d941635791d1e1471b0e4ca09d58486d98aaf926)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
