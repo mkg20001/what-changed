@@ -3374,6 +3374,7 @@
 - [ ] [<code>lxc-local: Add --no-dev option to exclude /dev from the fstree</code>](https://github.com/lxc/lxc/commit/86f5c12264a5bb8c80c13b22416566b2443b852c)
 - [ ] [<code>config: try to create workdir if not exist</code>](https://github.com/lxc/lxc/commit/789457f1ae076552a3fbd6b7dd579ed74c4c5a39)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/lxc/commit/112d5615e143e237a62f77c1b915fb6bcdefecf3)
+- [ ] [<code>Add loongarch64 support</code>](https://github.com/lxc/lxc/commit/df17ac417e7baa686e54e391ed4ef049cd7fb63c)
 - [ ] [<code>Align columns in lxc-download.in template</code>](https://github.com/lxc/lxc/commit/84cc3155af502db586f644f1092831155e45ccca)
 - [ ] [<code>Add verbose output in download template.</code>](https://github.com/lxc/lxc/commit/c8189ee2a328aeb8785e8ff208c1e74c7159e0a7)
 - [ ] [<code>Fix error message.</code>](https://github.com/lxc/lxc/commit/6b40e66c1179b821f928d25965eb4d62034265f7)
@@ -3476,6 +3477,7 @@
 - [ ] [<code>systemd: mkdir -p the target mount dir</code>](https://github.com/lxc/lxcfs/commit/50f7b5f7499c4a968c1be0eebe4f55b30190b49b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>typofix: fix incorrect printing in lxcfs help interface</code>](https://github.com/lxc/lxcfs/commit/c27c750ba028a65a3d136999e85939dbb9601b06)
+- [ ] [<code>Add macro pivot&bpf for loongarch64</code>](https://github.com/lxc/lxcfs/commit/10f17f5dded80187f32d3c0ce5c03c110b04faa0)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3606,6 +3608,9 @@
 - [ ] [<code>incus/project: Get current project from connection info</code>](https://github.com/lxc/incus/commit/3f9dd3bfe21d5a31eb810d21f47aafdde4ed61f0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/cluster: Ensure the cluster member config is always sorted</code>](https://github.com/lxc/incus/commit/0da9df830c5b0474450ffdc98e733eeb1c078206)
+- [ ] [<code>Update madmin-go to support loong64</code>](https://github.com/lxc/incus/commit/93e40bf6f4638b7554bb69aa5d597a6e7ad29844)
+- [ ] [<code>server/seccomp: Add loongarch64</code>](https://github.com/lxc/incus/commit/387f397a2537adfab3db260a70fe9b600a13c165)
+- [ ] [<code>shared/cgo: Add loongarch64</code>](https://github.com/lxc/incus/commit/ed32f61d9dd659966b175ad65da844bf492d28bd)
 - [ ] [<code>shared/idmap: Don't change the json format</code>](https://github.com/lxc/incus/commit/c0448c11abbf1deb2bd85afe4ab43e25a39055ce)
 - [ ] [<code>shared/idmap: Document AddSafe and fix double records</code>](https://github.com/lxc/incus/commit/64afc16c2ca74f8713246e34cbf5891f88f779d8)
 - [ ] [<code>incusd: Update instance_test for shared/idmap fix</code>](https://github.com/lxc/incus/commit/fe01631b29094a6690a5656d1b8895467ca433b7)
@@ -3644,6 +3649,13 @@
 - [ ] [<code>Move db storage volume functions to ClusterTx</code>](https://github.com/lxc/incus/commit/66adc717447664555cfe30b11a8e3e8fa63c21a8)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Move db warning functions to ClusterTx</code>](https://github.com/lxc/incus/commit/e48ba1e35cb5a675212b351538e28fb14b49fc8f)
+- [ ] [<code>cmd/incusd: Fix bulk unfreezing</code>](https://github.com/lxc/incus/commit/7b2b874081c5fd75d3c96d210b412ffdf9497172)
+- [ ] [<code>cmd/incus: Add `resume` command</code>](https://github.com/lxc/incus/commit/63bbb3b6b724eca6dac25705507c527f8b859d1d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translations</code>](https://github.com/lxc/incus/commit/48670540176057d0f98d33ce2bf33d8402b6339e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/loki: Replace complex backoff with simple loop</code>](https://github.com/lxc/incus/commit/f5e6022803a71d0dbce8213e4489c1366d812886)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/700a71bbd80b830233921c5237f60aca7bafba9b)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
