@@ -2245,6 +2245,12 @@
 - [ ] [<code>CB-4309 add keep alive interval for data source (#22316)</code>](https://github.com/dbeaver/dbeaver/commit/2b26c584aa16a03e772b912dd09448718e8c2f2d)
 - [ ] [<code>dbeaver/dbeaver#22325 add opens sun.nio.fs to handle symlinks (#22422)</code>](https://github.com/dbeaver/dbeaver/commit/b560aa027425cbe897d185d8afdef5d4233192f6)
 - [ ] [<code>dbeaver/pro#2309 Column alias visibility (#22403)</code>](https://github.com/dbeaver/dbeaver/commit/3210025619fa711963165c9d7bd87915bac618da)
+- [ ] [<code>dbeaver/dbeaver#22406 incorrect path for mysql client for windows (#22441)</code>](https://github.com/dbeaver/dbeaver/commit/e7e8be0fe0bee7253bd6da78907cf9ffef419039)
+- [ ] [<code>dbeaver/pro#2355 fix npe in VQB (#22458)</code>](https://github.com/dbeaver/dbeaver/commit/bc03e6b35fbeddfcdfd5f64693f300aec8f72efc)
+- [ ] [<code>dbeaver/dbeaver#19982 Editor font not remembered. Initialize font for (#22390)</code>](https://github.com/dbeaver/dbeaver/commit/9a9099ce38e5dd7ca90774581c96eac7464b66ca)
+- [ ] [<code>#22370 Fix error on no data to export (#22372)</code>](https://github.com/dbeaver/dbeaver/commit/bbb1aabb3a219aa2a9d1bc7bb44d0024a63c6c39)
+- [ ] [<code>dbeaver/pro#2304 remove check constraints from the edit page; return … (#22392)</code>](https://github.com/dbeaver/dbeaver/commit/e6e572712103334b4fa1fd6c8e8b5eac9dad8a45)
+- [ ] [<code>dbeaver/dbeaver#19821 exclude all suggestions with dots (#22421)</code>](https://github.com/dbeaver/dbeaver/commit/f4493d20b852495f9c55e2c4e64b24a16585e017)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3185,6 +3191,9 @@
 - [ ] [<code>Do not use local gtest with fuzztest (#1935)</code>](https://github.com/AOMediaCodec/libavif/commit/7e1dfc37a9325681b19c7246c0983869c86725cf)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove execution permission on raw fuzztest fuzzer (#1936)</code>](https://github.com/AOMediaCodec/libavif/commit/14dc506bc7aa241cd104d834c63da8ca4a9d4e42)
+- [ ] [<code>Add imageSizeLimit to avif_fuzztest_dec_incr (#1938)</code>](https://github.com/AOMediaCodec/libavif/commit/bda767077c0a625306d45d2be471602ec0c628a6)
+- [ ] [<code>chmod +x ext/libargparse.cmd (#1939)</code>](https://github.com/AOMediaCodec/libavif/commit/fb3dc687f0a76d445a425bbd6a816876f9570006)
+- [ ] [<code>Fix avif_fuzztest_enc_dec_anim for AVIF_ADD_IMAGE_FLAG_SINGLE (#1940)</code>](https://github.com/AOMediaCodec/libavif/commit/57408733672485966cc37a07217d7ea2f52a14d7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
