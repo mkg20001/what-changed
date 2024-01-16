@@ -2251,6 +2251,13 @@
 - [ ] [<code>#22370 Fix error on no data to export (#22372)</code>](https://github.com/dbeaver/dbeaver/commit/bbb1aabb3a219aa2a9d1bc7bb44d0024a63c6c39)
 - [ ] [<code>dbeaver/pro#2304 remove check constraints from the edit page; return … (#22392)</code>](https://github.com/dbeaver/dbeaver/commit/e6e572712103334b4fa1fd6c8e8b5eac9dad8a45)
 - [ ] [<code>dbeaver/dbeaver#19821 exclude all suggestions with dots (#22421)</code>](https://github.com/dbeaver/dbeaver/commit/f4493d20b852495f9c55e2c4e64b24a16585e017)
+- [ ] [<code>dbeaver/dbeaver#16544 BigQuery structs and arrays support (#22408)</code>](https://github.com/dbeaver/dbeaver/commit/530048d803774757990a1e19d4a796581267327c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Added support for Dameng user and role (#22391)</code>](https://github.com/dbeaver/dbeaver/commit/81d0c089d73113b98c141a56ed57c8968e3a90f9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CB-4514-delete-retry-interceptors (#22453)</code>](https://github.com/dbeaver/dbeaver/commit/2e1b31ec37e1ed55567e62650726112be399e3ed)
+- [ ] [<code>dbeaver/dbeaver#21677 One to one relationship shown as one to many in ERD after adding primary key in both tables (#22407)</code>](https://github.com/dbeaver/dbeaver/commit/808e9a9b4fffd362e35fcbb6963bd988009c9204)
+- [ ] [<code>dbeaver/pro#2331 add ability to create unique keys only for databases supported this; add uk for Teradata (#22393)</code>](https://github.com/dbeaver/dbeaver/commit/3a7d97f003d6d72b2f8d5d6bab6e65c24c00cf4f)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3675,6 +3682,8 @@
 - [ ] [<code>incus-agent: Handle built-in vsock module</code>](https://github.com/lxc/incus/commit/c3172b748e0eba8cfd4e959a14bc609a14fa5ac7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d941635791d1e1471b0e4ca09d58486d98aaf926)
+- [ ] [<code>README: Re-introduce weblate</code>](https://github.com/lxc/incus/commit/f6f3894d38816a98b365fa03c9692b4794418bd7)
+- [ ] [<code>incusd/network/acl: Avoid nested DB transactions</code>](https://github.com/lxc/incus/commit/adac412e922053b0e24c2cf67face86293b9d023)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4013,6 +4022,30 @@
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Improve how-to docs:</code>](https://github.com/canonical/netplan/commit/b44de5204b5d40df0cfa033a29b91747e807356b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: skip some cases if OVS is not installed</code>](https://github.com/canonical/netplan/commit/89ba9f21c1e49b97deb9c46122e4c76f4e82faac)
+- [ ] [<code>meson: Drop legacy generator symlink</code>](https://github.com/canonical/netplan/commit/32f5e7064ee095c5da44fb6494d72fffa40782c1)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: cleanup</code>](https://github.com/canonical/netplan/commit/a87f784c89f564774a64059cd230d2375dd578f1)
+- [ ] [<code>CI: fix DebCI, with multiple versions in 'unstable'</code>](https://github.com/canonical/netplan/commit/dfd3c9623bd63338d4077a58c09c2808ab0f6a42)
+- [ ] [<code>CI: adopt for usrmerge paths</code>](https://github.com/canonical/netplan/commit/9a7b07e4917a84570a66ccd7b2af71d8c7e6d96a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>tools:run_asan.sh use local Netplan python code</code>](https://github.com/canonical/netplan/commit/97fc705fdc14a0ba1cb7bf7bb743a81305cda87d)
+- [ ] [<code>Makefile: update for tools/run_asan.sh artifacts</code>](https://github.com/canonical/netplan/commit/30ff233f6102b07dc2fb29939dcff9cb432a77cb)
+- [ ] [<code>tests:regressions: Drop dbus tests, which got integrated in tests/integration/dbus.py</code>](https://github.com/canonical/netplan/commit/1f9ff2d13e81b739864032159f29666acd0d9b5c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test:generator:base: Refactor to use new API</code>](https://github.com/canonical/netplan/commit/4678462a433b96397f58df7e8eb95e72e1bd0a28)
+- [ ] [<code>test:libnetplan: Refactor to avoid deprecated API, add new ctests</code>](https://github.com/canonical/netplan/commit/a9d81c012bdc18659dff540edcaa3e12093bb886)
+- [ ] [<code>tests:parser:keyfile: Port to new API/bindings</code>](https://github.com/canonical/netplan/commit/568a78f6b8bae5264e5447fa976eb7c9e59a4d91)
+- [ ] [<code>inc: Drop deprecated legacy API</code>](https://github.com/canonical/netplan/commit/7d25098154c90b0a3505b17247ca5d5831801d78)
+- [ ] [<code>Drop legacy ABI compat functions</code>](https://github.com/canonical/netplan/commit/eb0e13eba1e1841802559d5a370b2c19bcd62c23)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>src: Drop ABI compat exports</code>](https://github.com/canonical/netplan/commit/44ce96df7480072769912faca613d88bfbb84914)
+- [ ] [<code>abi: drop global state & parser</code>](https://github.com/canonical/netplan/commit/a77acf514431e0936d68aac819be2e8e50729344)
+- [ ] [<code>Clean up 'TODO' file</code>](https://github.com/canonical/netplan/commit/2e91206f8b3f4ccbbc78a4190cb4069b12f57f28)
+- [ ] [<code>ABI: regenerate compat check for dropped symbols</code>](https://github.com/canonical/netplan/commit/780e8c73df8e3bd373aeaa7a91a21b5caa93ea09)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ctests: stop including C files in the test files</code>](https://github.com/canonical/netplan/commit/517d0f86de2793316716f4f3d4a399a82bf0de07)
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
