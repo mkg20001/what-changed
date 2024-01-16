@@ -2728,6 +2728,7 @@
 - [ ] [<code>ci: Add manual trigger for main deploy</code>](https://github.com/krille-chan/fluffychat/commit/913cedf507fc021032f2bf7bb4af4c8a54abc855)
 - [ ] [<code>fix: Encode component for links correctly</code>](https://github.com/krille-chan/fluffychat/commit/e39f046b1e19b0eca03dc8e61c70e276984dfdfb)
 - [ ] [<code>chore: Follow up linkify code</code>](https://github.com/krille-chan/fluffychat/commit/708629accaefc3b46bb190b4f5c0b18bc8c9cbc0)
+- [ ] [<code>fix: Add cancel button to key request dialog</code>](https://github.com/krille-chan/fluffychat/commit/40003628b927202e927e89987a5dbfdeef6907d9)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3194,6 +3195,7 @@
 - [ ] [<code>Add imageSizeLimit to avif_fuzztest_dec_incr (#1938)</code>](https://github.com/AOMediaCodec/libavif/commit/bda767077c0a625306d45d2be471602ec0c628a6)
 - [ ] [<code>chmod +x ext/libargparse.cmd (#1939)</code>](https://github.com/AOMediaCodec/libavif/commit/fb3dc687f0a76d445a425bbd6a816876f9570006)
 - [ ] [<code>Fix avif_fuzztest_enc_dec_anim for AVIF_ADD_IMAGE_FLAG_SINGLE (#1940)</code>](https://github.com/AOMediaCodec/libavif/commit/57408733672485966cc37a07217d7ea2f52a14d7)
+- [ ] [<code>Add imageSizeLimit arg to avifutil avifReadImage() (#1941)</code>](https://github.com/AOMediaCodec/libavif/commit/21c1c2ca1d07a92812990367e5606cf424426da0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4272,6 +4274,34 @@
   - <sub>Files: <code>configure.ac</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Make v0 compatibility code optional (#138)</code>](https://github.com/cowsql/raft/commit/7c2739196e6022fba3e13b0da681715775163507)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Pass test coverage options to test/unit/core</code>](https://github.com/cowsql/raft/commit/0cab4db120ab31d9e237937f1232cd555f7682a7)
+- [ ] [<code>build: Drop unnecessary REQUIRES subst variable</code>](https://github.com/cowsql/raft/commit/8169b00acc8bbe22c3943f2ebba474ce66f71bf9)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Generate raft.h from raft.h.in</code>](https://github.com/cowsql/raft/commit/e6b0dcfac492d381768f0dafd12ec1632a64d976)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build: Exclude unnecessary fields when using --disable-v0</code>](https://github.com/cowsql/raft/commit/b682682f3c796f54e605aa83b3cbc47e6e26e5be)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>raft.h: Drop unnecessary id and address field in RAFT_RECEIVE event</code>](https://github.com/cowsql/raft/commit/16c8d56e095e4ef6e5fb0473ed805ca9c7275902)
+- [ ] [<code>raft.h: Add struct raft_trail for keeping track of indexes and terms</code>](https://github.com/cowsql/raft/commit/36fd136dd0ecf9104eb05d371171c7f8744234f3)
+- [ ] [<code>trail: Add basic functions for tracking indexes and terms</code>](https://github.com/cowsql/raft/commit/0b831c63abc2d6130d9b83f334faaef49363e189)
+- [ ] [<code>trail: Use r->trail to get information for emitting start messages</code>](https://github.com/cowsql/raft/commit/24b77a204b5bbe5e6188efc50eeec5db099993f5)
+- [ ] [<code>trail: Add TrailRestore() to be called when installing a snapshot</code>](https://github.com/cowsql/raft/commit/a9855d419f038d01272eb0cbc4f6277cb9613bf2)
+- [ ] [<code>trail: Match modifications to r->log</code>](https://github.com/cowsql/raft/commit/99a7563a23470f3f0da71edb005b8c7dc1382ebd)
+- [ ] [<code>github: Enable backtrace in downstream job</code>](https://github.com/cowsql/raft/commit/a011482bee53e3e887cd6ab24a185fab823aa2e0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>uv: Use a proper term when creating a recovery configuration entry</code>](https://github.com/cowsql/raft/commit/c62180d0bc55a0b63666ee49f23f80d06e6e1945)
+- [ ] [<code>convert: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/167d1b1458db8968d8c88943eb64beb40ce13e5d)
+- [ ] [<code>election: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/54407f447f8bf232278d5d4a9621f8e2810ce4a8)
+- [ ] [<code>progress: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/888071e8b1a6276253d5e654307b6b6f0dc0cd1b)
+- [ ] [<code>test: Load snapshot configuration from disk for InstallSnapshot</code>](https://github.com/cowsql/raft/commit/ceab7f3dc85266e569b961179533c5588a1225de)
+- [ ] [<code>legacy: Load snapshot configuration from disk for InstallSnapshot</code>](https://github.com/cowsql/raft/commit/daef985b2a1b3ea6e7f97ff32196e66dbe146019)
+- [ ] [<code>replication: Don't copy last snapshot conf in InstallSnapshot</code>](https://github.com/cowsql/raft/commit/f3ca0d4232e3c366a790438c7268126a4c9d71ec)
+- [ ] [<code>raft.h: Add raft_configuration_decode() for decoding configurations</code>](https://github.com/cowsql/raft/commit/b7b248e286bd117a8ff1ee8c1df8a46abe300ffe)
+- [ ] [<code>v1: Save last committed configuration in r->configuration_committed</code>](https://github.com/cowsql/raft/commit/573e0447207235ef345bf16780c34411038d7548)
+- [ ] [<code>membership: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/83ed8de5f2d3b91e7acfb5ce4c4423fa4cc4572c)
+- [ ] [<code>recv: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/e01b9b4242932aad38116b9da6cce0cdefe13b8a)
+- [ ] [<code>v1: Track the term of each entry in the log (#139)</code>](https://github.com/cowsql/raft/commit/71e74f4fdf55c609d03f847126c7e4d8dc4c5c4c)
   - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
