@@ -2258,6 +2258,21 @@
 - [ ] [<code>CB-4514-delete-retry-interceptors (#22453)</code>](https://github.com/dbeaver/dbeaver/commit/2e1b31ec37e1ed55567e62650726112be399e3ed)
 - [ ] [<code>dbeaver/dbeaver#21677 One to one relationship shown as one to many in ERD after adding primary key in both tables (#22407)</code>](https://github.com/dbeaver/dbeaver/commit/808e9a9b4fffd362e35fcbb6963bd988009c9204)
 - [ ] [<code>dbeaver/pro#2331 add ability to create unique keys only for databases supported this; add uk for Teradata (#22393)</code>](https://github.com/dbeaver/dbeaver/commit/3a7d97f003d6d72b2f8d5d6bab6e65c24c00cf4f)
+- [ ] [<code>dbeaver/dbeaver#22467 Use form editor in object edit page + null valu… (#22469)</code>](https://github.com/dbeaver/dbeaver/commit/84f6916b3315d61cbd3531d2e7655d504d230dd2)
+- [ ] [<code>Fix:  SQL Server: Source tab is empty in the index properties #13529 (#22298)</code>](https://github.com/dbeaver/dbeaver/commit/33bf43e80d476d4690db277c813258c5afaa8ece)
+- [ ] [<code>dbeaver/pro#2274 improve VQB accessibility (#22481)</code>](https://github.com/dbeaver/dbeaver/commit/2178a8cc99c4bd124da443c55873be20b9be0d38)
+- [ ] [<code>#22368 Fix identifiers case sensivity in semantical validation (#22443)</code>](https://github.com/dbeaver/dbeaver/commit/2b661437d903d01a632286cdb07a732df2079ca1)
+- [ ] [<code>#22471 fix schemas permissions query reading for newest PostgreSQL versions (#22484)</code>](https://github.com/dbeaver/dbeaver/commit/edd40cf857fa22cc39256fd7941e970aae96e665)
+- [ ] [<code>CB-4446 more clear way to provide database credentials (#22468)</code>](https://github.com/dbeaver/dbeaver/commit/d7b357f97138c189d2a21415be6971a06c50b276)
+- [ ] [<code>CB-4320 auth properties save fix (#22432)</code>](https://github.com/dbeaver/dbeaver/commit/ac724a5a3ca8a3e4a948aa182ed8ba7c30ad7f8a)
+- [ ] [<code>dbeaver/dbeaver#22164 improve insert statement parsing (#22457)</code>](https://github.com/dbeaver/dbeaver/commit/19765e7c28c5fe80fc6d1901e02c534d2d5f7885)
+- [ ] [<code>dbeaver/pro#2247 Close idle connections #2247 (#22431)</code>](https://github.com/dbeaver/dbeaver/commit/d77a54b98d597a393bd049165d053bfcf393c5ae)
+- [ ] [<code>dbeaver/pro#2247 Disconnect notification</code>](https://github.com/dbeaver/dbeaver/commit/6bf9fcf93fcf5499ab0e0c634d2c5ae1a32daf4a)
+- [ ] [<code>dbeaver/pro#2247 Fix typos and revert use of transactions instead connections</code>](https://github.com/dbeaver/dbeaver/commit/1b98b9c289aff9048b17e8696c8763f0dd0e8051)
+- [ ] [<code>CB-4039 build logout redirect link on backend side (#22447)</code>](https://github.com/dbeaver/dbeaver/commit/e00c61c6db80affaea4056a67a497bd76beb98fb)
+- [ ] [<code>#22244 read columns and constraints cache during tables loading if sp… (#22482)</code>](https://github.com/dbeaver/dbeaver/commit/6ec02c6a3e3efbc1c61f78c5f4a4326d921100b1)
+- [ ] [<code>Corrected Translation of 'QuoteChar' in Japanese Localization (#22480)</code>](https://github.com/dbeaver/dbeaver/commit/5563a01ea510cf83b8c74fce201c283d33202807)
+- [ ] [<code>dbeaver/pro#2297 Disable node refresh after error (#22486)</code>](https://github.com/dbeaver/dbeaver/commit/08c276146b7b17abf3697e36108890c74c606c15)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3203,6 +3218,9 @@
 - [ ] [<code>chmod +x ext/libargparse.cmd (#1939)</code>](https://github.com/AOMediaCodec/libavif/commit/fb3dc687f0a76d445a425bbd6a816876f9570006)
 - [ ] [<code>Fix avif_fuzztest_enc_dec_anim for AVIF_ADD_IMAGE_FLAG_SINGLE (#1940)</code>](https://github.com/AOMediaCodec/libavif/commit/57408733672485966cc37a07217d7ea2f52a14d7)
 - [ ] [<code>Add imageSizeLimit arg to avifutil avifReadImage() (#1941)</code>](https://github.com/AOMediaCodec/libavif/commit/21c1c2ca1d07a92812990367e5606cf424426da0)
+- [ ] [<code>Use AVIF_CHECKERR() in avifImageCreate() (#1944)</code>](https://github.com/AOMediaCodec/libavif/commit/1c3de07e440623dd2bd0b38fd3c76b6e69b8cbdc)
+- [ ] [<code>Use AVIF_CHECK() in avifGetYUVColorSpaceInfo() (#1945)</code>](https://github.com/AOMediaCodec/libavif/commit/8ca862da585c5cac95d0803f4670b2dab4627823)
+- [ ] [<code>Remove const in const double** (#1946)</code>](https://github.com/AOMediaCodec/libavif/commit/ed521af73a05753c75c06246709a9b1260b84407)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4056,6 +4074,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ctests: stop including C files in the test files</code>](https://github.com/canonical/netplan/commit/517d0f86de2793316716f4f3d4a399a82bf0de07)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>docs: add a topic about security</code>](https://github.com/canonical/netplan/commit/aa9c4277ce3e8f2f55ff5ee4bc46e4fe13360a9c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
