@@ -3684,6 +3684,16 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d941635791d1e1471b0e4ca09d58486d98aaf926)
 - [ ] [<code>README: Re-introduce weblate</code>](https://github.com/lxc/incus/commit/f6f3894d38816a98b365fa03c9692b4794418bd7)
 - [ ] [<code>incusd/network/acl: Avoid nested DB transactions</code>](https://github.com/lxc/incus/commit/adac412e922053b0e24c2cf67face86293b9d023)
+- [ ] [<code>incusd/instance/qemu: Start using seabios as CSM firmware</code>](https://github.com/lxc/incus/commit/1fcae668f6f000c2f44c9a9d76a6f8e80897d418)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/forknet: Handle wifi detach</code>](https://github.com/lxc/incus/commit/61a7f3237527ac8736ed3267c8e237da4174ed34)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>doc/CONTRIBUTING: Fix incorrect comamnd paths</code>](https://github.com/lxc/incus/commit/3dcb89ec54de85cae2b4b2e2b9db8c4473c70a96)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Manual update to french translation</code>](https://github.com/lxc/incus/commit/3446ab5fab8bd4d6268cffc4211cf5923235fac3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f030ba2c91ea7194ee71485f7135cde5b85757b8)
+  - <sub>Keywords: <code>exec</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
