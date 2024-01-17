@@ -57,6 +57,8 @@
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [eea292401c388a4eb59c0caf5d00aa046c6059f4 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/eea292401c388a4eb59c0caf5d00aa046c6059f4...HEAD)
 
+- [ ] [<code>uqmi: improve response detection</code>](https://git.openwrt.org/project/uqmi.git/commit/dfa612e421cbe4c940e08aa467718fae81fd53db)
+- [ ] [<code>uqmi: cancel all requests on SYNC indication reception</code>](https://git.openwrt.org/project/uqmi.git/commit/c3488b831ce6285c8107704156b9b8ed7d59deb3)
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [263b9a97cf7e1e2467319c23832b705fc01190b5 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/263b9a97cf7e1e2467319c23832b705fc01190b5...HEAD)
 
