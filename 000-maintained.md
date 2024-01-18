@@ -3712,6 +3712,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f030ba2c91ea7194ee71485f7135cde5b85757b8)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add license check</code>](https://github.com/lxc/incus/commit/5b360a85abe27f590aea1719cee4f32868ab9f99)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Revert "Update madmin-go to support loong64"</code>](https://github.com/lxc/incus/commit/348bdfea312922e2afb0a191aae54c7dd7099fa9)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ee1db8cac8ba0a2a9b7f2fa4f11bd13ce03b00d3)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
