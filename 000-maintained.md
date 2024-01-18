@@ -3223,6 +3223,11 @@
 - [ ] [<code>Use AVIF_CHECK() in avifGetYUVColorSpaceInfo() (#1945)</code>](https://github.com/AOMediaCodec/libavif/commit/8ca862da585c5cac95d0803f4670b2dab4627823)
 - [ ] [<code>Remove const in const double** (#1946)</code>](https://github.com/AOMediaCodec/libavif/commit/ed521af73a05753c75c06246709a9b1260b84407)
 - [ ] [<code>Fix arg name hint in WriteImage() (#1950)</code>](https://github.com/AOMediaCodec/libavif/commit/4984c7f296a7f7717d6ef97f69529bdd96a9e1de)
+- [ ] [<code>Only define no_discard for clang >= 3.9.0 (#1951)</code>](https://github.com/AOMediaCodec/libavif/commit/e146a008b53e68e5dd570fe0e4508d894fb947a8)
+- [ ] [<code>Do not free alpha plane in grid allocation when only yuvFormat changes (#1942)</code>](https://github.com/AOMediaCodec/libavif/commit/0803a0ce5ac85ce46563d85fa9a2b93e44e9dbae)
+- [ ] [<code>Set a proper imageSizeLimit in fuzz tests (#1953)</code>](https://github.com/AOMediaCodec/libavif/commit/22e95f15b5040ac7f03e44f57d65e9f998b7d79a)
+- [ ] [<code>Change avifROStreamReadVarInt() pattern (#1948)</code>](https://github.com/AOMediaCodec/libavif/commit/ba38ce8fe20bc30eb54d5347f4cc54650ba4bcb2)
+- [ ] [<code>Update reduced header experiment syntax (#1952)</code>](https://github.com/AOMediaCodec/libavif/commit/72ed871e2570b85b1026212379f48c7b8e3ceea4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4373,6 +4378,23 @@
 - [ ] [<code>recv: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/e01b9b4242932aad38116b9da6cce0cdefe13b8a)
 - [ ] [<code>v1: Track the term of each entry in the log (#139)</code>](https://github.com/cowsql/raft/commit/71e74f4fdf55c609d03f847126c7e4d8dc4c5c4c)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>replication: Use r->trail instead of r->log</code>](https://github.com/cowsql/raft/commit/15332a7c5102d767e40685e3417c88e16b6fc29a)
+- [ ] [<code>raft.h: Add raft_log object to the legacy fields</code>](https://github.com/cowsql/raft/commit/85a7fcf313ee8ffc8a8598de9693ca6776307139)
+- [ ] [<code>legacy: Maintain a copy of the in-memory log</code>](https://github.com/cowsql/raft/commit/53f1573d882a8793ebab3f3911267b9deaafcf34)
+- [ ] [<code>test: Remove diskPersistEntry, since it duplicates diskAddEntry</code>](https://github.com/cowsql/raft/commit/5fa5c76479dc72445943acb6bbe1a1ae142f9aaf)
+- [ ] [<code>test: Add an in-memory cache of log entries in struct test_server</code>](https://github.com/cowsql/raft/commit/92bd79e2a7e654190eac07523b418d93d15aa22a)
+- [ ] [<code>test: Use in-memory log when persisting entries</code>](https://github.com/cowsql/raft/commit/819b28d5fffbe9d83cdb2c8b60aa48cb79a96a5a)
+- [ ] [<code>test: Fill AppendEntries messages using the in-memory log cache</code>](https://github.com/cowsql/raft/commit/ba602fad30a2811d178071f53d448e18c81d221d)
+- [ ] [<code>test: Move InstallSnapshot logic into serverFillInstallSnapshot</code>](https://github.com/cowsql/raft/commit/6d593ad06f11d04026d5c631a6f8125b5289d99a)
+- [ ] [<code>trail: Add TrailHasEntry() to check if the log has an entry</code>](https://github.com/cowsql/raft/commit/0b2465885cf70bdaf2a5ca4711e0902e61f0f0fa)
+- [ ] [<code>legacy: Fill AppendEntries message using the legacy in-memory log</code>](https://github.com/cowsql/raft/commit/101b6f0702f42891607660e3bbda1cf7ee4a1331)
+- [ ] [<code>v1: Don't use in-memory log to fill RAFT_UPDATE_ENTRIES</code>](https://github.com/cowsql/raft/commit/0de3aa290f5bd65a8a7844d12cff0ffcf343e2d9)
+- [ ] [<code>recv: recvEnsureMatchingTerms() can't return an error code</code>](https://github.com/cowsql/raft/commit/1879596a2d159d191aaf3d367d59a5b268e10d48)
+- [ ] [<code>test: Ownership of raft_update->entries goes to consumer</code>](https://github.com/cowsql/raft/commit/7d136f4e6ee756f6670a33bcd4d5d4e92c617ab6)
+- [ ] [<code>v1: Don't copy entries in persistEntries()</code>](https://github.com/cowsql/raft/commit/6b6e4586e6b0a608e38f27fda478539f86b44c0d)
+- [ ] [<code>raft: Require batch attribute to be set when firing RAFT_SUBMIT</code>](https://github.com/cowsql/raft/commit/669cc923b00be3bce624333829a6e9b6fa44d9cb)
+- [ ] [<code>legacy: Ownership of raft_update->entries goes to consumer</code>](https://github.com/cowsql/raft/commit/76047f39d03d5ccb3572968e229f4b7ce44ca928)
+- [ ] [<code>v1: Manage log entries externally (#140)</code>](https://github.com/cowsql/raft/commit/956f23f4b8878399b1668a4da08d5bdefc8365f7)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
