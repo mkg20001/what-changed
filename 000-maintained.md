@@ -2273,6 +2273,7 @@
 - [ ] [<code>#22244 read columns and constraints cache during tables loading if sp… (#22482)</code>](https://github.com/dbeaver/dbeaver/commit/6ec02c6a3e3efbc1c61f78c5f4a4326d921100b1)
 - [ ] [<code>Corrected Translation of 'QuoteChar' in Japanese Localization (#22480)</code>](https://github.com/dbeaver/dbeaver/commit/5563a01ea510cf83b8c74fce201c283d33202807)
 - [ ] [<code>dbeaver/pro#2297 Disable node refresh after error (#22486)</code>](https://github.com/dbeaver/dbeaver/commit/08c276146b7b17abf3697e36108890c74c606c15)
+- [ ] [<code>dbeaver/pro#2247 Fix idle set</code>](https://github.com/dbeaver/dbeaver/commit/6d73d84ddbd1b195d65f27603c4694a0fae325c9)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3221,6 +3222,7 @@
 - [ ] [<code>Use AVIF_CHECKERR() in avifImageCreate() (#1944)</code>](https://github.com/AOMediaCodec/libavif/commit/1c3de07e440623dd2bd0b38fd3c76b6e69b8cbdc)
 - [ ] [<code>Use AVIF_CHECK() in avifGetYUVColorSpaceInfo() (#1945)</code>](https://github.com/AOMediaCodec/libavif/commit/8ca862da585c5cac95d0803f4670b2dab4627823)
 - [ ] [<code>Remove const in const double** (#1946)</code>](https://github.com/AOMediaCodec/libavif/commit/ed521af73a05753c75c06246709a9b1260b84407)
+- [ ] [<code>Fix arg name hint in WriteImage() (#1950)</code>](https://github.com/AOMediaCodec/libavif/commit/4984c7f296a7f7717d6ef97f69529bdd96a9e1de)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3716,6 +3718,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Revert "Update madmin-go to support loong64"</code>](https://github.com/lxc/incus/commit/348bdfea312922e2afb0a191aae54c7dd7099fa9)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ee1db8cac8ba0a2a9b7f2fa4f11bd13ce03b00d3)
+- [ ] [<code>incusd: Correctly update event location</code>](https://github.com/lxc/incus/commit/1112c2d11e50c046bfeffc052a4b45620fb20d1b)
+- [ ] [<code>incusd/events: Upgrade to websocket as late as possible</code>](https://github.com/lxc/incus/commit/e03daf03d5b53d0988df418da6aab6dfa08c3d46)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
