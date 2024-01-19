@@ -3729,6 +3729,13 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ee1db8cac8ba0a2a9b7f2fa4f11bd13ce03b00d3)
 - [ ] [<code>incusd: Correctly update event location</code>](https://github.com/lxc/incus/commit/1112c2d11e50c046bfeffc052a4b45620fb20d1b)
 - [ ] [<code>incusd/events: Upgrade to websocket as late as possible</code>](https://github.com/lxc/incus/commit/e03daf03d5b53d0988df418da6aab6dfa08c3d46)
+- [ ] [<code>api: loki_config_instance</code>](https://github.com/lxc/incus/commit/12122de1171fad61ac57e3c845d6ab8c5f01dc6b)
+- [ ] [<code>incusd/config: Add loki.instance</code>](https://github.com/lxc/incus/commit/709579863dca24b53eef990ae0309abbb6630c4d)
+- [ ] [<code>incusd/loki: Add support for overriding instance name</code>](https://github.com/lxc/incus/commit/291882e0de6ca7bb760009ce6c5caedda3c4d538)
+- [ ] [<code>incusd: Add support for loki.instance</code>](https://github.com/lxc/incus/commit/71b7717334a5338ba5553d9cc8e2281e98db5da8)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/dff47f51e98249cd56350f372ae36dcfc95481e4)
+- [ ] [<code>grafana: Add instance filters for Loki</code>](https://github.com/lxc/incus/commit/e6e92e7df13f82ff3405d1a7f17538420b25986a)
+- [ ] [<code>incusd/loki: Fix variable shadowing</code>](https://github.com/lxc/incus/commit/410085c65965afd7a1cc8d64d79be80356b9b1ff)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
