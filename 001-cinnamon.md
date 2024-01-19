@@ -11,6 +11,8 @@
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
+- [ ] [<code>network: Fix warning about missing cast to GtkWidget* (#324)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0361ff2974eb4741f3cd8b6db00dbe1ab56c8a59)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -82,12 +84,15 @@
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
+- [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
 
 #### [cinnamon.nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
+- [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
+- [ ] [<code>cover-art: fix compilation error (#512)</code>](https://github.com/linuxmint/nemo-extensions/commit/536abab57beb1462e122fbdf84018d35d136de98)
 > Dropped cinnamon.nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
