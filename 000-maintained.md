@@ -3228,6 +3228,10 @@
 - [ ] [<code>Set a proper imageSizeLimit in fuzz tests (#1953)</code>](https://github.com/AOMediaCodec/libavif/commit/22e95f15b5040ac7f03e44f57d65e9f998b7d79a)
 - [ ] [<code>Change avifROStreamReadVarInt() pattern (#1948)</code>](https://github.com/AOMediaCodec/libavif/commit/ba38ce8fe20bc30eb54d5347f4cc54650ba4bcb2)
 - [ ] [<code>Update reduced header experiment syntax (#1952)</code>](https://github.com/AOMediaCodec/libavif/commit/72ed871e2570b85b1026212379f48c7b8e3ceea4)
+- [ ] [<code>Add comment for no_discard and clang 3.9 (#1954)</code>](https://github.com/AOMediaCodec/libavif/commit/5d6e8c9e2b65a64e57dd9ce3a051ca18ecaeee62)
+- [ ] [<code>Set AVIF_ENABLE_WERROR to OFF by default, keep it to ON for the CI (#1955)</code>](https://github.com/AOMediaCodec/libavif/commit/9f6e55058322cb299f7e2028ac8298bbe781a35e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
