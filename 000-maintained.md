@@ -2274,6 +2274,7 @@
 - [ ] [<code>Corrected Translation of 'QuoteChar' in Japanese Localization (#22480)</code>](https://github.com/dbeaver/dbeaver/commit/5563a01ea510cf83b8c74fce201c283d33202807)
 - [ ] [<code>dbeaver/pro#2297 Disable node refresh after error (#22486)</code>](https://github.com/dbeaver/dbeaver/commit/08c276146b7b17abf3697e36108890c74c606c15)
 - [ ] [<code>dbeaver/pro#2247 Fix idle set</code>](https://github.com/dbeaver/dbeaver/commit/6d73d84ddbd1b195d65f27603c4694a0fae325c9)
+- [ ] [<code>CB-4403. Implement logic for mapping AD roles if they are specified, … (#22388)</code>](https://github.com/dbeaver/dbeaver/commit/2ed07ff4d524463e9b04700951b6a76fe1ebaeb1)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3232,6 +3233,9 @@
 - [ ] [<code>Set AVIF_ENABLE_WERROR to OFF by default, keep it to ON for the CI (#1955)</code>](https://github.com/AOMediaCodec/libavif/commit/9f6e55058322cb299f7e2028ac8298bbe781a35e)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Rename 'coni' box to 'mini' in EXPERIMENTAL_AVIR (#1959)</code>](https://github.com/AOMediaCodec/libavif/commit/3fab232f82d703b3e2a95c75cb8e6549f386c3e1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Avoid avif_fuzztest_read_image timeout in sharpyuv (#1957)</code>](https://github.com/AOMediaCodec/libavif/commit/8116ba4eaa36664e53aadf09a4901fa86bde1863)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
