@@ -2275,6 +2275,8 @@
 - [ ] [<code>dbeaver/pro#2297 Disable node refresh after error (#22486)</code>](https://github.com/dbeaver/dbeaver/commit/08c276146b7b17abf3697e36108890c74c606c15)
 - [ ] [<code>dbeaver/pro#2247 Fix idle set</code>](https://github.com/dbeaver/dbeaver/commit/6d73d84ddbd1b195d65f27603c4694a0fae325c9)
 - [ ] [<code>CB-4403. Implement logic for mapping AD roles if they are specified, … (#22388)</code>](https://github.com/dbeaver/dbeaver/commit/2ed07ff4d524463e9b04700951b6a76fe1ebaeb1)
+- [ ] [<code>Schema migration logging fix</code>](https://github.com/dbeaver/dbeaver/commit/330162d21c08615b80b1dd865f56b0f30c2a7109)
+- [ ] [<code>Schema migration logging fix</code>](https://github.com/dbeaver/dbeaver/commit/23f089e69094fce76a290add61fcfa9a683a206d)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2760,6 +2762,9 @@
 - [ ] [<code>build: (deps): bump maxim-lobanov/setup-xcode from 1.5.1 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/6cc245c4c574e3acc0b8bdaf7521c8ea9d3f3837)
 - [ ] [<code>build: (deps): bump actions/setup-java from 1 to 4</code>](https://github.com/krille-chan/fluffychat/commit/75b4683569c9cb529f1e4d71b59c0055320b80e3)
 - [ ] [<code>feat: Implement private read receipts</code>](https://github.com/krille-chan/fluffychat/commit/8ec3497b5445337bdcb012c35b6184b21f75c99d)
+- [ ] [<code>build: Do not load emojis at initial start on web</code>](https://github.com/krille-chan/fluffychat/commit/a7a8285a55795b3632429e510524d986026fac0a)
+- [ ] [<code>chore: Resort settings and add more description text</code>](https://github.com/krille-chan/fluffychat/commit/f7c89ddf9efafacb899078364c90c358f468bf9c)
+- [ ] [<code>chore: Add more explaining text for key verification</code>](https://github.com/krille-chan/fluffychat/commit/20c678553aa35a270568677df2501beb1d720dda)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.14.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.14.1...HEAD)
 
@@ -3134,6 +3139,9 @@
 - [ ] [<code>build: (deps): bump maxim-lobanov/setup-xcode from 1.5.1 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/6cc245c4c574e3acc0b8bdaf7521c8ea9d3f3837)
 - [ ] [<code>build: (deps): bump actions/setup-java from 1 to 4</code>](https://github.com/krille-chan/fluffychat/commit/75b4683569c9cb529f1e4d71b59c0055320b80e3)
 - [ ] [<code>feat: Implement private read receipts</code>](https://github.com/krille-chan/fluffychat/commit/8ec3497b5445337bdcb012c35b6184b21f75c99d)
+- [ ] [<code>build: Do not load emojis at initial start on web</code>](https://github.com/krille-chan/fluffychat/commit/a7a8285a55795b3632429e510524d986026fac0a)
+- [ ] [<code>chore: Resort settings and add more description text</code>](https://github.com/krille-chan/fluffychat/commit/f7c89ddf9efafacb899078364c90c358f468bf9c)
+- [ ] [<code>chore: Add more explaining text for key verification</code>](https://github.com/krille-chan/fluffychat/commit/20c678553aa35a270568677df2501beb1d720dda)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4126,6 +4134,13 @@
 - [ ] [<code>cmd/incusd/api_cluster: Join cluster transactions</code>](https://github.com/lxc/incus/commit/f1ce3bada57299363e4377630b7089cf83f4fd4d)
 - [ ] [<code>i18n: Remove empty translations</code>](https://github.com/lxc/incus/commit/a2a0e73d84eb13e185ec7933a6fc36d954b31fd3)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>api: instance_create_start</code>](https://github.com/lxc/incus/commit/a00b1aa4a713c7eb1460701ac6127c151fe72548)
+- [ ] [<code>shared/api: Add Start to InstnacesPost</code>](https://github.com/lxc/incus/commit/d85d6843ed5631660ca2375e797597174715c83f)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/b8c293da5a3399b8b16dcd2b5875dc5b4dd5323f)
+- [ ] [<code>incusd/instance: Add support for Start property</code>](https://github.com/lxc/incus/commit/2405063803f5cc79198910014c48f4497b2ac091)
+- [ ] [<code>incus/launch: Use the Start property</code>](https://github.com/lxc/incus/commit/aa15dd4d73dd3fee6d7abf19df307051d4ebfee7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c9626e9cacc7e415a7a64b830b1b47a452128e61)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
