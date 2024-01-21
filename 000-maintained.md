@@ -2277,6 +2277,7 @@
 - [ ] [<code>CB-4403. Implement logic for mapping AD roles if they are specified, … (#22388)</code>](https://github.com/dbeaver/dbeaver/commit/2ed07ff4d524463e9b04700951b6a76fe1ebaeb1)
 - [ ] [<code>Schema migration logging fix</code>](https://github.com/dbeaver/dbeaver/commit/330162d21c08615b80b1dd865f56b0f30c2a7109)
 - [ ] [<code>Schema migration logging fix</code>](https://github.com/dbeaver/dbeaver/commit/23f089e69094fce76a290add61fcfa9a683a206d)
+- [ ] [<code>dbeaver/dbeaver#12430 SSH tunnels code style and cleanup</code>](https://github.com/dbeaver/dbeaver/commit/c51a8ef253d2de8abc30060133b3ff87db06e2a9)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2765,6 +2766,8 @@
 - [ ] [<code>build: Do not load emojis at initial start on web</code>](https://github.com/krille-chan/fluffychat/commit/a7a8285a55795b3632429e510524d986026fac0a)
 - [ ] [<code>chore: Resort settings and add more description text</code>](https://github.com/krille-chan/fluffychat/commit/f7c89ddf9efafacb899078364c90c358f468bf9c)
 - [ ] [<code>chore: Add more explaining text for key verification</code>](https://github.com/krille-chan/fluffychat/commit/20c678553aa35a270568677df2501beb1d720dda)
+- [ ] [<code>docs: New website</code>](https://github.com/krille-chan/fluffychat/commit/0cfaab5e3dcaee234eda2a5a93bd3313871a63ac)
+- [ ] [<code>docs: Add noto animated emojis link</code>](https://github.com/krille-chan/fluffychat/commit/27e215a4ff5a2f859b9a2d22ef3ac980c7622789)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.14.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.14.1...HEAD)
 
@@ -3142,6 +3145,8 @@
 - [ ] [<code>build: Do not load emojis at initial start on web</code>](https://github.com/krille-chan/fluffychat/commit/a7a8285a55795b3632429e510524d986026fac0a)
 - [ ] [<code>chore: Resort settings and add more description text</code>](https://github.com/krille-chan/fluffychat/commit/f7c89ddf9efafacb899078364c90c358f468bf9c)
 - [ ] [<code>chore: Add more explaining text for key verification</code>](https://github.com/krille-chan/fluffychat/commit/20c678553aa35a270568677df2501beb1d720dda)
+- [ ] [<code>docs: New website</code>](https://github.com/krille-chan/fluffychat/commit/0cfaab5e3dcaee234eda2a5a93bd3313871a63ac)
+- [ ] [<code>docs: Add noto animated emojis link</code>](https://github.com/krille-chan/fluffychat/commit/27e215a4ff5a2f859b9a2d22ef3ac980c7622789)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4831,6 +4836,35 @@
 - [ ] [<code>test: Don't use intermediate RAFT_SENT events</code>](https://github.com/cowsql/raft/commit/7bbd7154708f370db88a9abfe74e5e859c935f18)
 - [ ] [<code>raft.h: Drop unused RAFT_SENT event</code>](https://github.com/cowsql/raft/commit/0c62dc6659cbdfda49b7b5cdfe956ab110d1efba)
 - [ ] [<code>v1: Drop RAFT_SENT event (#141)</code>](https://github.com/cowsql/raft/commit/7c19d5cdda1e79d01210850528a2c1d0dd65685f)
+- [ ] [<code>test: Improve naming of pipeline-related test cases</code>](https://github.com/cowsql/raft/commit/8b03fb40a8b06ab1aeb0a21f32794dc08aaed335)
+- [ ] [<code>test: Fix parameter names of CLUSTER_ADD_ENTRY</code>](https://github.com/cowsql/raft/commit/9b7e4030ed1435bd44392747e7de34e93d8ab5df)
+- [ ] [<code>test: Drop unnecessary TEST_V1 macro</code>](https://github.com/cowsql/raft/commit/c8b82fd86a6635e449b787f64a09070b41ff5335)
+- [ ] [<code>test: Cleanup cluster.h macro declarations</code>](https://github.com/cowsql/raft/commit/2fda6a118b0f9ef5eccd3bce41f32787844530af)
+- [ ] [<code>test: Don't use CLUSTER_ADD_ENTRY_RAW() directly</code>](https://github.com/cowsql/raft/commit/80d0a9d138c1febc8997d86eada699a02a9ee481)
+- [ ] [<code>test: Add and wire CLUSTER_SUBMIT() helper</code>](https://github.com/cowsql/raft/commit/52f3ddd876d24ad842dd098c925f5e70960c64da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Add `CLUSTER_SUBMIT()` helper macro (#144)</code>](https://github.com/cowsql/raft/commit/5d308b055ad03d97da7c02b78559e5aab04db58d)
+- [ ] [<code>replication: Drop unnecessary check on prev_index being the last</code>](https://github.com/cowsql/raft/commit/3359bd4f56f8320540a7a778e3bdc9ce1b50eb8f)
+- [ ] [<code>replication: Drop unnecessary check on `prev_index` being the last (#145)</code>](https://github.com/cowsql/raft/commit/55fb99cbc8c444a73883107a6adc4dd6f469aaf8)
+- [ ] [<code>progress: Add progressIsOnline() helper and wire it</code>](https://github.com/cowsql/raft/commit/f5fd8992ee75e52d95048f7c7da7058bbefcbc6f)
+- [ ] [<code>progress: Add progressHasContactedRecently() and wire it</code>](https://github.com/cowsql/raft/commit/17ee862ac43660aa9e979ef4f20717f08b9aefa8)
+- [ ] [<code>progress: Remove unused progressGetLastRecv()</code>](https://github.com/cowsql/raft/commit/52db579bbe703edd56fea0052fb2a10ce866bfa5)
+- [ ] [<code>progress: Add helpers for check online/recency status (#146)</code>](https://github.com/cowsql/raft/commit/24e779dfed846e97e44fbb0f60a817975a79ab31)
+- [ ] [<code>replication: Turn max parameter of sendAppendEntries() into a bool</code>](https://github.com/cowsql/raft/commit/fd02850ec11adea3eb56b645301b18ea96779b72)
+- [ ] [<code>replication: Turn max parameter of sendAppendEntries() into a bool (#147)</code>](https://github.com/cowsql/raft/commit/a994cb14d10a8a1edc31850aed20ce5eda0c5248)
+- [ ] [<code>tracer: Fix version in default tracer</code>](https://github.com/cowsql/raft/commit/06431fa9f32672f42c413dbad10b9b765030487c)
+- [ ] [<code>progress: Drop unnecessary tweak to next index</code>](https://github.com/cowsql/raft/commit/cbf195b9bd5b7068295df64e7826723bb7ea7729)
+- [ ] [<code>recv: Fix last_log_index value in case of rejection due to conflict</code>](https://github.com/cowsql/raft/commit/caa393a45248afa97b5f03363522aa666d7587a5)
+- [ ] [<code>test: Drop unnecessary macros in replication tests</code>](https://github.com/cowsql/raft/commit/cb7ba4fa2615b0734cf39a6091124605adc1466f)
+- [ ] [<code>recv: Add tracef macros to recv_append_entries_result</code>](https://github.com/cowsql/raft/commit/b398893759d205f600d4d4d234b5c9a19ab474e4)
+- [ ] [<code>recv: Don't last_log_index to an index that hasn't been checked</code>](https://github.com/cowsql/raft/commit/66ed6afdd7be626ab9bb948f316ae5109bfd1490)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>replication: Fix the value of the last log index in AppendEntries results (#148)</code>](https://github.com/cowsql/raft/commit/c266e9e58ff6b404eafe0a2c592383c6e282c0dc)
+- [ ] [<code>raft.h: Exclude raft->last_stored in v1</code>](https://github.com/cowsql/raft/commit/cc6904cdcfb57a1752d62a68055505ea93c5a211)
+- [ ] [<code>v1: Add raft_set_max_inflight_entries()</code>](https://github.com/cowsql/raft/commit/9b9ea0ff5af28ab929b43e6475dad22c188cfd3a)
+- [ ] [<code>replication: Enforce the r->max_inflight_entries limit</code>](https://github.com/cowsql/raft/commit/73249dc039d5a337bf2b72e001264a76d3742693)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>replication: Limit maximum the number of total entries in-flight (#149)</code>](https://github.com/cowsql/raft/commit/e57e29c316b7418db83cbcd11472216d52323423)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
