@@ -4141,6 +4141,9 @@
 - [ ] [<code>incus/launch: Use the Start property</code>](https://github.com/lxc/incus/commit/aa15dd4d73dd3fee6d7abf19df307051d4ebfee7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c9626e9cacc7e415a7a64b830b1b47a452128e61)
+- [ ] [<code>doc: Updates Windows install with Winget instructions</code>](https://github.com/lxc/incus/commit/23e8e2f57db1a4379a16abf15cef1533b18bdde7)
+- [ ] [<code>doc: Add Winget to wordlist</code>](https://github.com/lxc/incus/commit/7e84e9a90983988c1c2d02784af2a194d4838aae)
+- [ ] [<code>incusd/migration: Properly forward errors</code>](https://github.com/lxc/incus/commit/256400872793e89fa9b499c1e5284b68582e8806)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
