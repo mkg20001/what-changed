@@ -4865,6 +4865,11 @@
 - [ ] [<code>replication: Enforce the r->max_inflight_entries limit</code>](https://github.com/cowsql/raft/commit/73249dc039d5a337bf2b72e001264a76d3742693)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>replication: Limit maximum the number of total entries in-flight (#149)</code>](https://github.com/cowsql/raft/commit/e57e29c316b7418db83cbcd11472216d52323423)
+- [ ] [<code>raft.h: Add new flags field to AppendEntries result</code>](https://github.com/cowsql/raft/commit/7e5d540e7afbb9039437f1fe810f8f8932666ef4)
+- [ ] [<code>replication: Set status flags in AppendEntries responses</code>](https://github.com/cowsql/raft/commit/604c139b6d40982b4ae16cdee01b8611c30fc7dc)
+- [ ] [<code>replication: Set a saturated status flag when entries are lagging</code>](https://github.com/cowsql/raft/commit/4c3ff2bf14d9c6c1e0c952ae7f0564e0a4a73698)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>replication: Set a saturated status flag when entries are lagging (#151)</code>](https://github.com/cowsql/raft/commit/951baa2119055f8e1ddddb39ba79428cbe781b2b)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
