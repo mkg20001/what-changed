@@ -2278,6 +2278,7 @@
 - [ ] [<code>Schema migration logging fix</code>](https://github.com/dbeaver/dbeaver/commit/330162d21c08615b80b1dd865f56b0f30c2a7109)
 - [ ] [<code>Schema migration logging fix</code>](https://github.com/dbeaver/dbeaver/commit/23f089e69094fce76a290add61fcfa9a683a206d)
 - [ ] [<code>dbeaver/dbeaver#12430 SSH tunnels code style and cleanup</code>](https://github.com/dbeaver/dbeaver/commit/c51a8ef253d2de8abc30060133b3ff87db06e2a9)
+- [ ] [<code>CB-4289 serialize dbp image (#22503)</code>](https://github.com/dbeaver/dbeaver/commit/492d18bf7db689cbf05f1be9b263ccde5003ff60)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2768,6 +2769,9 @@
 - [ ] [<code>chore: Add more explaining text for key verification</code>](https://github.com/krille-chan/fluffychat/commit/20c678553aa35a270568677df2501beb1d720dda)
 - [ ] [<code>docs: New website</code>](https://github.com/krille-chan/fluffychat/commit/0cfaab5e3dcaee234eda2a5a93bd3313871a63ac)
 - [ ] [<code>docs: Add noto animated emojis link</code>](https://github.com/krille-chan/fluffychat/commit/27e215a4ff5a2f859b9a2d22ef3ac980c7622789)
+- [ ] [<code>build: Update sdk to 0.25.6</code>](https://github.com/krille-chan/fluffychat/commit/9c74604838e466e3822d1b6e04eda965062f7366)
+- [ ] [<code>build: Bump version and add changelog</code>](https://github.com/krille-chan/fluffychat/commit/7fe8d196fb7b89421823639f37e2f1f8b1ca7776)
+  - <sub>Tags: <code>rc1.17.2-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.14.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.14.1...HEAD)
 
@@ -3147,6 +3151,9 @@
 - [ ] [<code>chore: Add more explaining text for key verification</code>](https://github.com/krille-chan/fluffychat/commit/20c678553aa35a270568677df2501beb1d720dda)
 - [ ] [<code>docs: New website</code>](https://github.com/krille-chan/fluffychat/commit/0cfaab5e3dcaee234eda2a5a93bd3313871a63ac)
 - [ ] [<code>docs: Add noto animated emojis link</code>](https://github.com/krille-chan/fluffychat/commit/27e215a4ff5a2f859b9a2d22ef3ac980c7622789)
+- [ ] [<code>build: Update sdk to 0.25.6</code>](https://github.com/krille-chan/fluffychat/commit/9c74604838e466e3822d1b6e04eda965062f7366)
+- [ ] [<code>build: Bump version and add changelog</code>](https://github.com/krille-chan/fluffychat/commit/7fe8d196fb7b89421823639f37e2f1f8b1ca7776)
+  - <sub>Tags: <code>rc1.17.2-1</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3632,6 +3639,10 @@
 - [ ] [<code>Avoid avif_fuzztest_read_image timeout in sharpyuv (#1957)</code>](https://github.com/AOMediaCodec/libavif/commit/8116ba4eaa36664e53aadf09a4901fa86bde1863)
 - [ ] [<code>Improve commands for Build everything from scratch</code>](https://github.com/AOMediaCodec/libavif/commit/6e45bc71976b64a78e0a135b67ba082bdd933f10)
 - [ ] [<code>ext: Checkout libaom v3.8.1</code>](https://github.com/AOMediaCodec/libavif/commit/fc8746e84dab75d2d1d89a0e8ad1ed64a879f1ad)
+- [ ] [<code>Add asan as a dependency by default for fuzztest tests. (#1960)</code>](https://github.com/AOMediaCodec/libavif/commit/091c1e2222238b59b2f127c4625854099475c664)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Actually use a local fuzztest repo and bump its version. (#1964)</code>](https://github.com/AOMediaCodec/libavif/commit/7f98367a336de35358352f5d13fca19f414ab28e)
+- [ ] [<code>Revert "Fix avif_fuzztest_enc_dec_anim for AVIF_ADD_IMAGE_FLAG_SINGLE (#1940)" (#1965)</code>](https://github.com/AOMediaCodec/libavif/commit/e170c9366090cdc389d5f47ee3c2d7db71d263bc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4157,6 +4168,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3391bf608e082190f4f29217e863f5c9682dac6d)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add note about scrape_interval and update examples</code>](https://github.com/lxc/incus/commit/4134c2925f9982d90663b7b6656bb5110058f16e)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4520,6 +4532,15 @@
 - [ ] [<code>ctests: stop including C files in the test files</code>](https://github.com/canonical/netplan/commit/517d0f86de2793316716f4f3d4a399a82bf0de07)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>docs: add a topic about security</code>](https://github.com/canonical/netplan/commit/aa9c4277ce3e8f2f55ff5ee4bc46e4fe13360a9c)
+- [ ] [<code>CI: adopt for 0.107.1-2 on Jammy runners</code>](https://github.com/canonical/netplan/commit/c5d7dbfa0cbeffcc910a3fcefeb1394d3cfeb39f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: bump version and SOVER to 1.0</code>](https://github.com/canonical/netplan/commit/b5c6e850e0b36d97a00d9b09ce51ade8150be667)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>CI: upgrade network-manager test to Ubuntu Noble</code>](https://github.com/canonical/netplan/commit/e5619615176b0c7e140a169774904d47ef2cc57f)
+- [ ] [<code>src: drop legacy 'global_' data structures</code>](https://github.com/canonical/netplan/commit/eb7bfb56c8e1d9dd886ec523bbfc320ff75e25c4)
+- [ ] [<code>util-internal: Do not export private symbols</code>](https://github.com/canonical/netplan/commit/31af70b7f56c34ed426d9b2f5ca062cb62048295)
+- [ ] [<code>src: Clearly mark internal API, using a '_netplan' prefix</code>](https://github.com/canonical/netplan/commit/0187f10969be7c350992fe7eedfad8c4c01ccfb7)
+- [ ] [<code>abi-compat: move to 1.0</code>](https://github.com/canonical/netplan/commit/60721426fbf39757c5edfb68dfc773e3e25d54fa)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4878,6 +4899,9 @@
 - [ ] [<code>replication: Set a saturated status flag when entries are lagging</code>](https://github.com/cowsql/raft/commit/4c3ff2bf14d9c6c1e0c952ae7f0564e0a4a73698)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>replication: Set a saturated status flag when entries are lagging (#151)</code>](https://github.com/cowsql/raft/commit/951baa2119055f8e1ddddb39ba79428cbe781b2b)
+- [ ] [<code>Revert PR #151</code>](https://github.com/cowsql/raft/commit/a3d66720f8f6b0377f5e1460bdae6beea2295c83)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert PR #151 (#152)</code>](https://github.com/cowsql/raft/commit/1c9b4760ada68e3119f6385c03a6506288516786)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
