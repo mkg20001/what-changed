@@ -2307,7 +2307,7 @@
 - [ ] [<code>test_membership: Wait for leader barrier before waiting for tx.</code>](https://github.com/canonical/dqlite/commit/b44b96189bbfba3100d3b1622d6f60036e798d4f)
 - [ ] [<code>server: Replace monitor_cb by state_cb.</code>](https://github.com/canonical/dqlite/commit/9b3ac556e56a7b3f7b99cbec5a8afada818df54c)
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/dqlite/commit/c281844359be6f0fb872d1ce38336a2c8b9e0ad9)
-> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.2/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.2/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [855999da8d3d0c9930e06f2d296d82b55aeff79e → HEAD](https://github.com/canonical/firmware-updater/compare/855999da8d3d0c9930e06f2d296d82b55aeff79e...HEAD)
@@ -4149,6 +4149,14 @@
 - [ ] [<code>doc: Updates Windows install with Winget instructions</code>](https://github.com/lxc/incus/commit/23e8e2f57db1a4379a16abf15cef1533b18bdde7)
 - [ ] [<code>doc: Add Winget to wordlist</code>](https://github.com/lxc/incus/commit/7e84e9a90983988c1c2d02784af2a194d4838aae)
 - [ ] [<code>incusd/migration: Properly forward errors</code>](https://github.com/lxc/incus/commit/256400872793e89fa9b499c1e5284b68582e8806)
+- [ ] [<code>cmd/incus: Get owner mode only if `--gid` or `--uid` is unset</code>](https://github.com/lxc/incus/commit/7e5ccf22033aad6ef3715ad9686ff167f603ac15)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus: Add `incus file create` subcommand</code>](https://github.com/lxc/incus/commit/2f52e021ab61a8a371740910705020bf8760f803)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Add tests for `incus file create`</code>](https://github.com/lxc/incus/commit/2325e194a47041e7a161482a4473e411c1f64a8d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3391bf608e082190f4f29217e863f5c9682dac6d)
+  - <sub>Keywords: <code>exec</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
