@@ -3643,6 +3643,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Actually use a local fuzztest repo and bump its version. (#1964)</code>](https://github.com/AOMediaCodec/libavif/commit/7f98367a336de35358352f5d13fca19f414ab28e)
 - [ ] [<code>Revert "Fix avif_fuzztest_enc_dec_anim for AVIF_ADD_IMAGE_FLAG_SINGLE (#1940)" (#1965)</code>](https://github.com/AOMediaCodec/libavif/commit/e170c9366090cdc389d5f47ee3c2d7db71d263bc)
+- [ ] [<code>Bump clang-format check to clang-format-16 (#1963)</code>](https://github.com/AOMediaCodec/libavif/commit/5905d52d63c43fe1145cb5cb91ba9fa821ac3bf7)
+- [ ] [<code>Properly check if an identical chunk has been written before. (#1956)</code>](https://github.com/AOMediaCodec/libavif/commit/b01a8af573c752f1e0103262531ee08a90b5af08)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4169,6 +4171,9 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3391bf608e082190f4f29217e863f5c9682dac6d)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Add note about scrape_interval and update examples</code>](https://github.com/lxc/incus/commit/4134c2925f9982d90663b7b6656bb5110058f16e)
+- [ ] [<code>cmd/incus: Remove unused `flagContent` variable in `incus file create`</code>](https://github.com/lxc/incus/commit/d9bafd843c05dd2926c6a101b633c1c686d3108b)
+- [ ] [<code>build(deps): bump actions/dependency-review-action from 3 to 4</code>](https://github.com/lxc/incus/commit/107ff5d2cd8e5d89a07d0cfc967166104e00b669)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
