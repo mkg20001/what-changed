@@ -4174,6 +4174,16 @@
 - [ ] [<code>cmd/incus: Remove unused `flagContent` variable in `incus file create`</code>](https://github.com/lxc/incus/commit/d9bafd843c05dd2926c6a101b633c1c686d3108b)
 - [ ] [<code>build(deps): bump actions/dependency-review-action from 3 to 4</code>](https://github.com/lxc/incus/commit/107ff5d2cd8e5d89a07d0cfc967166104e00b669)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>incusd/storage_volumes: Properly target refreshes</code>](https://github.com/lxc/incus/commit/d6da61880728af5020695abd9c0201a662f12fc7)
+- [ ] [<code>incusd/storage_volumes: Use a single POST handler</code>](https://github.com/lxc/incus/commit/febdb496263a720348dd083fe4057dfb6fe59e59)
+- [ ] [<code>lxd-to-incus: Use Incus API client for LXD</code>](https://github.com/lxc/incus/commit/87a4df7ed70a916718b867b0f15e1e5aaa91d885)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Handle non-string LXD configs</code>](https://github.com/lxc/incus/commit/8424701060ec6a6894a85c90d88079b3f33b7c51)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Remove separate go package</code>](https://github.com/lxc/incus/commit/28e84bedcab43fed6b0db49be5f1a85370e0dbd3)
+- [ ] [<code>lxd-to-incus: Fix various issues</code>](https://github.com/lxc/incus/commit/40d51ac18e7c3d3ba84750338ee04e22f83ac892)
+- [ ] [<code>Makefile: Update for lxd-to-incus</code>](https://github.com/lxc/incus/commit/0f70b68660c7cf55ce9915cb8abe75c193f7fff7)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/aec187b864eabc220e040ecbdc9a89c3fc876211)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4546,6 +4556,7 @@
 - [ ] [<code>util-internal: Do not export private symbols</code>](https://github.com/canonical/netplan/commit/31af70b7f56c34ed426d9b2f5ca062cb62048295)
 - [ ] [<code>src: Clearly mark internal API, using a '_netplan' prefix</code>](https://github.com/canonical/netplan/commit/0187f10969be7c350992fe7eedfad8c4c01ccfb7)
 - [ ] [<code>abi-compat: move to 1.0</code>](https://github.com/canonical/netplan/commit/60721426fbf39757c5edfb68dfc773e3e25d54fa)
+- [ ] [<code>workflow/coverity: install missing dependencies</code>](https://github.com/canonical/netplan/commit/aac0b1f8a2c74061412f2b7e9c7283c95185ad32)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
