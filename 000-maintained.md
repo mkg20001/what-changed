@@ -2094,6 +2094,7 @@
 - [ ] [<code>#22533 fix Altibase select statement (#22560)</code>](https://github.com/dbeaver/dbeaver/commit/5683431b0f6aad9e0e3ddcde02d770725c9ef00b)
 - [ ] [<code>#22351 check the "grant" option only if grant permission exist; fix session manager query using (#22499)</code>](https://github.com/dbeaver/dbeaver/commit/d2acf9f5465842574b628ef91edf520000522521)
 - [ ] [<code>added ScyllaDB to the list of supported datasources (#22536)</code>](https://github.com/dbeaver/dbeaver/commit/0eef3f7d6ce24679b7afe3506f25cf9860d7e1cc)
+- [ ] [<code>#2363 Fix NPE in DDL view (#22570)</code>](https://github.com/dbeaver/dbeaver/commit/4584687584ef1e8379100afa028fec87852fd415)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2230,6 +2231,8 @@
 - [ ] [<code>build: Update sdk to 0.25.6</code>](https://github.com/krille-chan/fluffychat/commit/9c74604838e466e3822d1b6e04eda965062f7366)
 - [ ] [<code>build: Bump version and add changelog</code>](https://github.com/krille-chan/fluffychat/commit/7fe8d196fb7b89421823639f37e2f1f8b1ca7776)
   - <sub>Tags: <code>rc1.17.2-1</code></sub>
+- [ ] [<code>fix: Keyboard disappears in lockscreen</code>](https://github.com/krille-chan/fluffychat/commit/1a0b240d5df104cb8e23a344e462723fd6690a43)
+  - <sub>Tags: <code>rc1.17.2-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2255,6 +2258,8 @@
 - [ ] [<code>build: Update sdk to 0.25.6</code>](https://github.com/krille-chan/fluffychat/commit/9c74604838e466e3822d1b6e04eda965062f7366)
 - [ ] [<code>build: Bump version and add changelog</code>](https://github.com/krille-chan/fluffychat/commit/7fe8d196fb7b89421823639f37e2f1f8b1ca7776)
   - <sub>Tags: <code>rc1.17.2-1</code></sub>
+- [ ] [<code>fix: Keyboard disappears in lockscreen</code>](https://github.com/krille-chan/fluffychat/commit/1a0b240d5df104cb8e23a344e462723fd6690a43)
+  - <sub>Tags: <code>rc1.17.2-2</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3308,6 +3313,37 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>lxd-to-incus: Simplify presence checks</code>](https://github.com/lxc/incus/commit/568547c7edd342f29aad9a4d7c94b9db6697a33f)
 - [ ] [<code>lxd-to-incus: Use field names in DottedVersion</code>](https://github.com/lxc/incus/commit/37f81b1d874e3ce9c68fdccd6ff0ce40bf6cb7ee)
+- [ ] [<code>internal/util: Re-order path functions</code>](https://github.com/lxc/incus/commit/b60953583358da8a3ec0443d4c276508f3e83b29)
+- [ ] [<code>internal/util: Add RunPath</code>](https://github.com/lxc/incus/commit/b3b6770a25e9f3d39fdb14b390ebd7a4eaa48ebd)
+- [ ] [<code>incusd/sys: Add runtime directory</code>](https://github.com/lxc/incus/commit/83dae792867c8a47edf537e4564ce1a8c670ec61)
+- [ ] [<code>incusd/seccomp: Move seccomp.socket to /run</code>](https://github.com/lxc/incus/commit/4328b52427bea3342c3e52969d396b407bfbe9fd)
+- [ ] [<code>incusd/instance_logs: Drop conf files</code>](https://github.com/lxc/incus/commit/df64cc171084e5c0cab0deecd72b5d8be289f128)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/bb304da317be6451712b050c001247a2c65b275f)
+- [ ] [<code>incusd/instance/common: Add RunPath</code>](https://github.com/lxc/incus/commit/aa4008611eeed52cb93d72d34c49a2e7cdd05725)
+- [ ] [<code>incusd/instance/lxc: Move lxc.conf</code>](https://github.com/lxc/incus/commit/6686c96dd329e72c36769935d8aaa729c3bf24d6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Move qemu.conf</code>](https://github.com/lxc/incus/commit/3dc11ec5b9d203301105ce553ab10aaa38a7d07a)
+- [ ] [<code>doc: Update qemu.conf path</code>](https://github.com/lxc/incus/commit/1d3c2f86709f6e283f9083f1c1bcfd04332a7210)
+- [ ] [<code>incusd/apparmor: Add runtime directory</code>](https://github.com/lxc/incus/commit/a154030f04b87ee86142a6e99a2a3e998346750f)
+- [ ] [<code>incusd/instance/utils: Cleanup runtime path</code>](https://github.com/lxc/incus/commit/70f999bea429251d9eaeaca92e74e80770644e07)
+- [ ] [<code>incusd/instance/lxc: Move files to runtime path</code>](https://github.com/lxc/incus/commit/9e4d05675a7964ef91f0bf31f30c3c725782ad6f)
+- [ ] [<code>incusd/instance/qemu: Move files to runtime path</code>](https://github.com/lxc/incus/commit/e51f2ef9341e996fa731340ccfd7d67d8008ba8f)
+- [ ] [<code>incusd/patches: Move files to runtime directory</code>](https://github.com/lxc/incus/commit/e766a6059a89def82b49293d805e14bb896ef7d1)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Move agent loader to separate files</code>](https://github.com/lxc/incus/commit/a989086991a3e4d0b3d7e33726ee030f8197298e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/apparmor/qemu: Remove mention of userns</code>](https://github.com/lxc/incus/commit/5234509358b7c53cbe4e6c1f954029c239b28cf0)
+- [ ] [<code>incusd/instance/qemu: Make config drive name configurable</code>](https://github.com/lxc/incus/commit/9b1fda50ea3e4d34624b5b1b2fc721079623803a)
+- [ ] [<code>incusd/instance/qemu: Add new agent share</code>](https://github.com/lxc/incus/commit/9cbf532e4626cbc1c14f7a3a9745fe4aec8696ca)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>incusd/apparmor/qemu: Allow access to agent path</code>](https://github.com/lxc/incus/commit/7d0e3c8b7f2b6d80665663582b2039c67ad777b7)
+- [ ] [<code>doc: Add INCUS_AGENT_PATH</code>](https://github.com/lxc/incus/commit/39d307be138da79cda05c0ec69bb3f97e757ebe1)
+- [ ] [<code>incusd/instance/qemu: Only expose config/agent drives over 9p</code>](https://github.com/lxc/incus/commit/967505f3d33f2f2cf29295d46c89b3de91b358e5)
+- [ ] [<code>incusd/instance/qemu/agent-loader: Remove virtiofs</code>](https://github.com/lxc/incus/commit/994a72e531aa4c4207c74c05a02a16a8f66ed206)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/getting_started: Point users to installing guide</code>](https://github.com/lxc/incus/commit/d05ce80941157dd0498a91768d46691901712421)
+- [ ] [<code>doc/installing: Cleanup distro instructions</code>](https://github.com/lxc/incus/commit/0f4fa65c3f9edcf7f36400d82c0c651f13401309)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
