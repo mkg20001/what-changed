@@ -2095,6 +2095,17 @@
 - [ ] [<code>#22351 check the "grant" option only if grant permission exist; fix session manager query using (#22499)</code>](https://github.com/dbeaver/dbeaver/commit/d2acf9f5465842574b628ef91edf520000522521)
 - [ ] [<code>added ScyllaDB to the list of supported datasources (#22536)</code>](https://github.com/dbeaver/dbeaver/commit/0eef3f7d6ce24679b7afe3506f25cf9860d7e1cc)
 - [ ] [<code>#2363 Fix NPE in DDL view (#22570)</code>](https://github.com/dbeaver/dbeaver/commit/4584687584ef1e8379100afa028fec87852fd415)
+- [ ] [<code>dbeaver/pro#2027 add ability to choose delimiter between values for t… (#22516)</code>](https://github.com/dbeaver/dbeaver/commit/40a7f1271c1c7ee4485d33f55d58fd5336f679f7)
+- [ ] [<code>dbeaver/dbeaver#22540 fix altibase constraints creation; move check constraints logic to generic (#22549)</code>](https://github.com/dbeaver/dbeaver/commit/242017e153e14ae3ccd4cd499a49750d53002097)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#22168 Add OVER clause and some sggregate functions handling (#22497)</code>](https://github.com/dbeaver/dbeaver/commit/c755649d7e4cffaa981a680c818515989d56a222)
+- [ ] [<code>dbeaver/pro#2375 add tool support info-warning (#22568)</code>](https://github.com/dbeaver/dbeaver/commit/fd0939f3012ec43d08a0a930d4faa1df58fb6b82)
+- [ ] [<code>dbeaver/dbeaver#22167 update consumer container (#22537)</code>](https://github.com/dbeaver/dbeaver/commit/9f425bfaa3e7cdcc15be8c0c6e5663ebdb7ea50a)
+- [ ] [<code>dbeaver/dbeaver#22479 Remove JNA deps from MySQL, PostgreSQL an Oracl… (#22505)</code>](https://github.com/dbeaver/dbeaver/commit/26aaf0e123e408906aae82f14990253bc32be7c0)
+- [ ] [<code>dbeaver/pro#2368 Use monitor from recognition context for query validation (#22562)</code>](https://github.com/dbeaver/dbeaver/commit/7df8e9e7ab060feb53fea4a788d669effe5972c3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2247 Close idle connections (#22493)</code>](https://github.com/dbeaver/dbeaver/commit/f6f7792d7fe6d342d3d53eeb0c21fcbcd281c68a)
+- [ ] [<code>dbeaver/pro#2378 update SQLite version to 3.44.1 (#22558)</code>](https://github.com/dbeaver/dbeaver/commit/a05abbab68b27595f90e03b62b8c5bdf21564aa5)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2233,6 +2244,8 @@
   - <sub>Tags: <code>rc1.17.2-1</code></sub>
 - [ ] [<code>fix: Keyboard disappears in lockscreen</code>](https://github.com/krille-chan/fluffychat/commit/1a0b240d5df104cb8e23a344e462723fd6690a43)
   - <sub>Tags: <code>rc1.17.2-2</code></sub>
+- [ ] [<code>chore: Revert applock fix and downgrade flutter instead</code>](https://github.com/krille-chan/fluffychat/commit/0d465b6deb259653f377db47a524999bf6e9d5d1)
+  - <sub>Tags: <code>rc1.17.2-3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2260,6 +2273,8 @@
   - <sub>Tags: <code>rc1.17.2-1</code></sub>
 - [ ] [<code>fix: Keyboard disappears in lockscreen</code>](https://github.com/krille-chan/fluffychat/commit/1a0b240d5df104cb8e23a344e462723fd6690a43)
   - <sub>Tags: <code>rc1.17.2-2</code></sub>
+- [ ] [<code>chore: Revert applock fix and downgrade flutter instead</code>](https://github.com/krille-chan/fluffychat/commit/0d465b6deb259653f377db47a524999bf6e9d5d1)
+  - <sub>Tags: <code>rc1.17.2-3</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3717,6 +3732,7 @@
 - [ ] [<code>src: Clearly mark internal API, using a '_netplan' prefix</code>](https://github.com/canonical/netplan/commit/0187f10969be7c350992fe7eedfad8c4c01ccfb7)
 - [ ] [<code>abi-compat: move to 1.0</code>](https://github.com/canonical/netplan/commit/60721426fbf39757c5edfb68dfc773e3e25d54fa)
 - [ ] [<code>workflow/coverity: install missing dependencies</code>](https://github.com/canonical/netplan/commit/aac0b1f8a2c74061412f2b7e9c7283c95185ad32)
+- [ ] [<code>CI: introduce a Netplan-CI PPA, to ship NetworkManager and systemd quirks</code>](https://github.com/canonical/netplan/commit/d2aa0129b552cd850226043a5718004e94c78bcb)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
