@@ -2748,6 +2748,7 @@
 - [ ] [<code>Properly check if an identical chunk has been written before. (#1956)</code>](https://github.com/AOMediaCodec/libavif/commit/b01a8af573c752f1e0103262531ee08a90b5af08)
 - [ ] [<code>Do not use fuzzer flags on deps. (#1968)</code>](https://github.com/AOMediaCodec/libavif/commit/a98fa4f760eacc26aa33ed396640253e29786cce)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix off-by-one error in a comment</code>](https://github.com/AOMediaCodec/libavif/commit/c7023c6b32e646020bb29c1eebac6c88f572ed9a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3294,6 +3295,19 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus: Handle non-existent home directory</code>](https://github.com/lxc/incus/commit/36443d5cf0728c5e18a72cf517136d6bca779703)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Don't export internal functions</code>](https://github.com/lxc/incus/commit/708c1d769480ce2f30b4cbbf146acd2df7bad8e3)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>lxd-to-incus: Fix error checking</code>](https://github.com/lxc/incus/commit/4efdd12762df89d4b0800310339771ffbaa32f65)
+- [ ] [<code>lxd-to-incus: Check that casting succeeded</code>](https://github.com/lxc/incus/commit/b93d9d5fa1ddd50535488859876655902ed66943)
+- [ ] [<code>lxd-to-incus: Fix typo</code>](https://github.com/lxc/incus/commit/890a5be71d74143eeead6acc065ac4c41c09b26f)
+- [ ] [<code>lxd-to-incus: Fix variable shadowing</code>](https://github.com/lxc/incus/commit/5e0876ae7bea6ca6e41a16413fd92aed8fd1a640)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Remove spurious printf</code>](https://github.com/lxc/incus/commit/29d390daa60cde3dff78ae3b60ae2b7002225665)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Add required comments</code>](https://github.com/lxc/incus/commit/e3be2c36fe1741677c2caf0481f38335461cb4a6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Simplify presence checks</code>](https://github.com/lxc/incus/commit/568547c7edd342f29aad9a4d7c94b9db6697a33f)
+- [ ] [<code>lxd-to-incus: Use field names in DottedVersion</code>](https://github.com/lxc/incus/commit/37f81b1d874e3ce9c68fdccd6ff0ce40bf6cb7ee)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
