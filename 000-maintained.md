@@ -3359,6 +3359,17 @@
 - [ ] [<code>doc/getting_started: Point users to installing guide</code>](https://github.com/lxc/incus/commit/d05ce80941157dd0498a91768d46691901712421)
 - [ ] [<code>doc/installing: Cleanup distro instructions</code>](https://github.com/lxc/incus/commit/0f4fa65c3f9edcf7f36400d82c0c651f13401309)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api_cluster: Optimize db transactions</code>](https://github.com/lxc/incus/commit/0b41041615c29aa8b8026ec615ba2124949bc94b)
+- [ ] [<code>daemon_images: Optimize db transactions</code>](https://github.com/lxc/incus/commit/086030ead7eaaa5f2dd1a9df6b4caf513604f449)
+- [ ] [<code>daemon_storage: Optimize db transactions</code>](https://github.com/lxc/incus/commit/d74fe2d81dcfe9b256bdc9c1886ab0fffc79ee1c)
+- [ ] [<code>images: Optimize db transactions</code>](https://github.com/lxc/incus/commit/c5dae224f205847e14286755b1fbe3fbb576a615)
+- [ ] [<code>storage_volumes_snapshot: Optimize db transactions</code>](https://github.com/lxc/incus/commit/b7d9fc5650aeb8a18b7567eba3b71fc07688ddbf)
+- [ ] [<code>instance/drivers: Optimize db transactions</code>](https://github.com/lxc/incus/commit/1a1a635adbcba5b446048dbf2dfdb1b42d5b7964)
+- [ ] [<code>driver_ovn: Optimize db transactions</code>](https://github.com/lxc/incus/commit/82ca5860d886fdf44d0c62e89682bd05b037bc40)
+- [ ] [<code>network/acl: Optimize db transactions</code>](https://github.com/lxc/incus/commit/275cbf5994409c018269a6cacf21596308d65d21)
+- [ ] [<code>network/zone: Optimize db transactions</code>](https://github.com/lxc/incus/commit/b0bc76f87e2cacd6a10a9b93a16fe2bbf8fb1efc)
+- [ ] [<code>storage_volumes: Optimize db transactions</code>](https://github.com/lxc/incus/commit/78faceb4e65fd55c6eba1382fd1d89a1ce6fd83f)
+- [ ] [<code>api_internal: Remove unreachable code</code>](https://github.com/lxc/incus/commit/b4670f7eb20e22d4200af4efa6f4a4c225eb4a4e)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
