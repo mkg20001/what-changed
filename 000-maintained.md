@@ -2106,6 +2106,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2247 Close idle connections (#22493)</code>](https://github.com/dbeaver/dbeaver/commit/f6f7792d7fe6d342d3d53eeb0c21fcbcd281c68a)
 - [ ] [<code>dbeaver/pro#2378 update SQLite version to 3.44.1 (#22558)</code>](https://github.com/dbeaver/dbeaver/commit/a05abbab68b27595f90e03b62b8c5bdf21564aa5)
+- [ ] [<code>dbeaver/pro#2247 Typo fix</code>](https://github.com/dbeaver/dbeaver/commit/be7bcdb3b6c8e4e67edbe0c025c0e3a024c1a85c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2246,6 +2247,10 @@
   - <sub>Tags: <code>rc1.17.2-2</code></sub>
 - [ ] [<code>chore: Revert applock fix and downgrade flutter instead</code>](https://github.com/krille-chan/fluffychat/commit/0d465b6deb259653f377db47a524999bf6e9d5d1)
   - <sub>Tags: <code>rc1.17.2-3</code></sub>
+- [ ] [<code>build: Revert flutter downgrade</code>](https://github.com/krille-chan/fluffychat/commit/81c354e652bd602ba3edb7aa66bf6040274949e0)
+- [ ] [<code>Revert "refactor: Dialog BuildContext"</code>](https://github.com/krille-chan/fluffychat/commit/3fa9c65a2b6ad27dc1068cdffa9c0c27b1797e7c)
+  - <sub>Tags: <code>rc1.17.2-4</code> <code>v1.17.2</code></sub>
+- [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2275,6 +2280,10 @@
   - <sub>Tags: <code>rc1.17.2-2</code></sub>
 - [ ] [<code>chore: Revert applock fix and downgrade flutter instead</code>](https://github.com/krille-chan/fluffychat/commit/0d465b6deb259653f377db47a524999bf6e9d5d1)
   - <sub>Tags: <code>rc1.17.2-3</code></sub>
+- [ ] [<code>build: Revert flutter downgrade</code>](https://github.com/krille-chan/fluffychat/commit/81c354e652bd602ba3edb7aa66bf6040274949e0)
+- [ ] [<code>Revert "refactor: Dialog BuildContext"</code>](https://github.com/krille-chan/fluffychat/commit/3fa9c65a2b6ad27dc1068cdffa9c0c27b1797e7c)
+  - <sub>Tags: <code>rc1.17.2-4</code> <code>v1.17.2</code></sub>
+- [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
