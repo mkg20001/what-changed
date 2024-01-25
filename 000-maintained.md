@@ -2107,6 +2107,12 @@
 - [ ] [<code>dbeaver/pro#2247 Close idle connections (#22493)</code>](https://github.com/dbeaver/dbeaver/commit/f6f7792d7fe6d342d3d53eeb0c21fcbcd281c68a)
 - [ ] [<code>dbeaver/pro#2378 update SQLite version to 3.44.1 (#22558)</code>](https://github.com/dbeaver/dbeaver/commit/a05abbab68b27595f90e03b62b8c5bdf21564aa5)
 - [ ] [<code>dbeaver/pro#2247 Typo fix</code>](https://github.com/dbeaver/dbeaver/commit/be7bcdb3b6c8e4e67edbe0c025c0e3a024c1a85c)
+- [ ] [<code>dbeaver/dbeaver#22530 Do not read lazy props for new objects (#22534)</code>](https://github.com/dbeaver/dbeaver/commit/9a467514bc088210ecf335a96fb0e3f64282ca76)
+- [ ] [<code>dbeaver/pro#2256 [Mac] Flipped splash screen on mac #2256 (#22506)</code>](https://github.com/dbeaver/dbeaver/commit/509faa65017edd184cce47e66d5f712209dafacb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#2301 support Oracle new table partitioning (#22463)</code>](https://github.com/dbeaver/dbeaver/commit/8c8725f15d05ab6b90de7294ab4a114d8a36e5cb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2236 add an ability to send all messages to AI (#22556)</code>](https://github.com/dbeaver/dbeaver/commit/892fe8802e3bf2d7a1964a3291594ffbe9911454)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2251,6 +2257,7 @@
 - [ ] [<code>Revert "refactor: Dialog BuildContext"</code>](https://github.com/krille-chan/fluffychat/commit/3fa9c65a2b6ad27dc1068cdffa9c0c27b1797e7c)
   - <sub>Tags: <code>rc1.17.2-4</code> <code>v1.17.2</code></sub>
 - [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
+- [ ] [<code>docs: Add alt text to images</code>](https://github.com/krille-chan/fluffychat/commit/2dacc608b41a33abdef7b518fcf801627cfaf5d1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2284,6 +2291,7 @@
 - [ ] [<code>Revert "refactor: Dialog BuildContext"</code>](https://github.com/krille-chan/fluffychat/commit/3fa9c65a2b6ad27dc1068cdffa9c0c27b1797e7c)
   - <sub>Tags: <code>rc1.17.2-4</code> <code>v1.17.2</code></sub>
 - [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
+- [ ] [<code>docs: Add alt text to images</code>](https://github.com/krille-chan/fluffychat/commit/2dacc608b41a33abdef7b518fcf801627cfaf5d1)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2778,6 +2786,7 @@
 - [ ] [<code>Do not use fuzzer flags on deps. (#1968)</code>](https://github.com/AOMediaCodec/libavif/commit/a98fa4f760eacc26aa33ed396640253e29786cce)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix off-by-one error in a comment</code>](https://github.com/AOMediaCodec/libavif/commit/c7023c6b32e646020bb29c1eebac6c88f572ed9a)
+- [ ] [<code>Avoid timeout in avif_decode_fuzzer (#1972)</code>](https://github.com/AOMediaCodec/libavif/commit/561ada6299653f65f4924bc0d8b9eb04391727a2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3378,7 +3387,25 @@
 - [ ] [<code>network/acl: Optimize db transactions</code>](https://github.com/lxc/incus/commit/275cbf5994409c018269a6cacf21596308d65d21)
 - [ ] [<code>network/zone: Optimize db transactions</code>](https://github.com/lxc/incus/commit/b0bc76f87e2cacd6a10a9b93a16fe2bbf8fb1efc)
 - [ ] [<code>storage_volumes: Optimize db transactions</code>](https://github.com/lxc/incus/commit/78faceb4e65fd55c6eba1382fd1d89a1ce6fd83f)
+- [ ] [<code>incusd/instance/qemu: Add some ArchLinux EDK2 filenames</code>](https://github.com/lxc/incus/commit/d8b9a16a9cd5f797aa9cb6b2844bcb3fc7c7d9f1)
 - [ ] [<code>api_internal: Remove unreachable code</code>](https://github.com/lxc/incus/commit/b4670f7eb20e22d4200af4efa6f4a4c225eb4a4e)
+- [ ] [<code>doc/installing: Add Void Linux</code>](https://github.com/lxc/incus/commit/39b49f4c16f66f50153352b1d53c42315a977800)
+- [ ] [<code>internal/instance: Don't use the node terminology</code>](https://github.com/lxc/incus/commit/d740db9fe4b30ee67173997b614003047bbeb227)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/7ae0cdcdab4200b59d68f6cc60f3abaf6ee094ca)
+- [ ] [<code>api: clustering_evacuation_stop_options</code>](https://github.com/lxc/incus/commit/47938943458ddca45309f8cbf18bd3bf8530bbf9)
+- [ ] [<code>internal/instance: Extend cluster.evacuate</code>](https://github.com/lxc/incus/commit/a7b5477ca4ac1e003554b3f13d09cc03e58dd5a3)
+- [ ] [<code>incusd/cluster: Add evacuation mode validation</code>](https://github.com/lxc/incus/commit/d7f01f1a5aa7ccb5c026a2127d4ccc1c14f65ff5)
+- [ ] [<code>incusd/instance: Use a string for CanMigrate</code>](https://github.com/lxc/incus/commit/75815ac4b58a0d6e9276b56565498370fefd1d27)
+- [ ] [<code>incusd/cluster: Update for CanMigrate</code>](https://github.com/lxc/incus/commit/e46c8089e3aa3b4c322352d1037b4df6aa5fdd09)
+- [ ] [<code>incusd/cluster: Add stateful-stop and force-stop</code>](https://github.com/lxc/incus/commit/d8494319892f1e928ceeecbb6a6c1109387f1f10)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/79cb8cdea516c42df47845bd3cd7f4e02ba44ca7)
+- [ ] [<code>api: boot_host_shutdown_action</code>](https://github.com/lxc/incus/commit/040ead1389163c86a2a448d19779ecc98f18d629)
+- [ ] [<code>internal/instance: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/8fe56fbb6c76d8b8efa66e73bda48c7d757a1e16)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/b72b5830d30d236b4253e6b5833f01aadd560914)
+- [ ] [<code>scripts/bash: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/210ac67a0b1343f79fa0e16cdc7344bf498da72c)
+- [ ] [<code>incusd/project: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/50aad2c40e7febe5292dba78be51c73e6fc8e524)
+- [ ] [<code>incusd/instances: Add support for boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/ac2555e02fe8cfbcccdd9d5cffb3e284e877d71d)
+- [ ] [<code>incusd/instance: Fallback to stateless start when no state available</code>](https://github.com/lxc/incus/commit/bebcc75634d1807bc221f02eec59495bdfdd0229)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3753,6 +3780,12 @@
 - [ ] [<code>abi-compat: move to 1.0</code>](https://github.com/canonical/netplan/commit/60721426fbf39757c5edfb68dfc773e3e25d54fa)
 - [ ] [<code>workflow/coverity: install missing dependencies</code>](https://github.com/canonical/netplan/commit/aac0b1f8a2c74061412f2b7e9c7283c95185ad32)
 - [ ] [<code>CI: introduce a Netplan-CI PPA, to ship NetworkManager and systemd quirks</code>](https://github.com/canonical/netplan/commit/d2aa0129b552cd850226043a5718004e94c78bcb)
+- [ ] [<code>state_diff: fix filtering of host scoped routes</code>](https://github.com/canonical/netplan/commit/ebb7480ac11790a0b73b77a20e1c34388fdc43e9)
+- [ ] [<code>cli/sriov: remove unused code</code>](https://github.com/canonical/netplan/commit/f26865f855da18b208695a27cb99be754777aa4e)
+- [ ] [<code>tests: assert generated .service files in assert_sriov</code>](https://github.com/canonical/netplan/commit/ba31e6f66d7fab919650178ce7393872ecd4112b)
+- [ ] [<code>tests/sriov: test if the generated netplan-rebind service is correct</code>](https://github.com/canonical/netplan/commit/093796fa7c54a3bd9baf91eaed0d5f08654f59d2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sriov: don't generate duplicate entries in the rebind.service file</code>](https://github.com/canonical/netplan/commit/d55ae65657d7d0a9611c1be0f6417bff19290fe4)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
