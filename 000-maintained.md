@@ -3406,6 +3406,10 @@
 - [ ] [<code>incusd/project: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/50aad2c40e7febe5292dba78be51c73e6fc8e524)
 - [ ] [<code>incusd/instances: Add support for boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/ac2555e02fe8cfbcccdd9d5cffb3e284e877d71d)
 - [ ] [<code>incusd/instance: Fallback to stateless start when no state available</code>](https://github.com/lxc/incus/commit/bebcc75634d1807bc221f02eec59495bdfdd0229)
+- [ ] [<code>internal/archive: Fix squashfs error handling</code>](https://github.com/lxc/incus/commit/bd9ec23d6903bb3eac992a15a23f5faac5e8fc9f)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/b72d58442637043adc455c4bb66ba421c4249d1b)
+- [ ] [<code>Release Incus 0.5</code>](https://github.com/lxc/incus/commit/62afb568bb7c3fb4b6c835a94fa590c48215b97f)
+  - <sub>Tags: <code>v0.5.0</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
