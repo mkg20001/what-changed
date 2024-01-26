@@ -4,6 +4,7 @@
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [6339204c212b2c3506554a8842030df5ec6fe9c6 → HEAD](https://git.openwrt.org/project/libubox.git/compare/6339204c212b2c3506554a8842030df5ec6fe9c6...HEAD)
 
+- [ ] [<code>udebug: fix crash in udebug_entry_vprintf with longer strings</code>](https://git.openwrt.org/project/libubox.git/commit/c1be505732e6d254464973bdeacb955214c76c46)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
