@@ -2113,6 +2113,12 @@
 - [ ] [<code>dbeaver/pro#2301 support Oracle new table partitioning (#22463)</code>](https://github.com/dbeaver/dbeaver/commit/8c8725f15d05ab6b90de7294ab4a114d8a36e5cb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>dbeaver/pro#2236 add an ability to send all messages to AI (#22556)</code>](https://github.com/dbeaver/dbeaver/commit/892fe8802e3bf2d7a1964a3291594ffbe9911454)
+- [ ] [<code>23.3.4 version bump</code>](https://github.com/dbeaver/dbeaver/commit/b5276c60f2121f2e32500c4f4b2ef94a8000696e)
+- [ ] [<code>dbeaver/pro#2377 App becomes unresponsive when switching router on a certain schema (#22559)</code>](https://github.com/dbeaver/dbeaver/commit/f265f6234ccab1f81719aa53b4a37c96e3a5694d)
+- [ ] [<code>#22302 Fix columns visibility for select query validation (#22572)</code>](https://github.com/dbeaver/dbeaver/commit/cf04c6caa572d3677c6b94e450f55b76686c5943)
+- [ ] [<code>Extra exceptions util</code>](https://github.com/dbeaver/dbeaver/commit/040cb9dcf723db0f58eee6b5cd04b94fead26017)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/cb3f2886d11451cd12d81c7adf29708acb278b3b)
+- [ ] [<code>dbeaver/pro#2193 Allow ignoring quotes when using advanced paste (#22564)</code>](https://github.com/dbeaver/dbeaver/commit/bfd498caaeb540dfdca0282cf184e345f16e8a31)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2984,6 +2990,8 @@
 - [ ] [<code>Align columns in lxc-download.in template</code>](https://github.com/lxc/lxc/commit/84cc3155af502db586f644f1092831155e45ccca)
 - [ ] [<code>Add verbose output in download template.</code>](https://github.com/lxc/lxc/commit/c8189ee2a328aeb8785e8ff208c1e74c7159e0a7)
 - [ ] [<code>Fix error message.</code>](https://github.com/lxc/lxc/commit/6b40e66c1179b821f928d25965eb4d62034265f7)
+- [ ] [<code>tree-wide: use container_uses_namespace() helper</code>](https://github.com/lxc/lxc/commit/64341ce7b7b6b1eadbe65731d6074b8ac321f6c3)
+- [ ] [<code>tree-wide: use container_uses_namespace() in less trivial cases</code>](https://github.com/lxc/lxc/commit/9ac7c4895e3f8344c2f789706aca489b32039907)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -3410,6 +3418,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/b72d58442637043adc455c4bb66ba421c4249d1b)
 - [ ] [<code>Release Incus 0.5</code>](https://github.com/lxc/incus/commit/62afb568bb7c3fb4b6c835a94fa590c48215b97f)
   - <sub>Tags: <code>v0.5.0</code></sub>
+- [ ] [<code>incus/action: Fix resume</code>](https://github.com/lxc/incus/commit/94cb8c3a4a45e86e1ff660dc5c03f160c9d7d0ac)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3790,6 +3799,12 @@
 - [ ] [<code>tests/sriov: test if the generated netplan-rebind service is correct</code>](https://github.com/canonical/netplan/commit/093796fa7c54a3bd9baf91eaed0d5f08654f59d2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sriov: don't generate duplicate entries in the rebind.service file</code>](https://github.com/canonical/netplan/commit/d55ae65657d7d0a9611c1be0f6417bff19290fe4)
+- [ ] [<code>state/status: add support for identifying bridge/bond members</code>](https://github.com/canonical/netplan/commit/3d691a9359fa57dc804511b2e321f032c78864ed)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>state/status: add support for VRF members and interface kind</code>](https://github.com/canonical/netplan/commit/5399f4f1ded6f5a8cb7b4ac457b112ac8992a211)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>state/status: Rename Members to Interfaces</code>](https://github.com/canonical/netplan/commit/9e50b9f5516e07c8c241c46cdfd60aa89a26d05e)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
