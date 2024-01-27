@@ -3421,6 +3421,15 @@
 - [ ] [<code>Release Incus 0.5</code>](https://github.com/lxc/incus/commit/62afb568bb7c3fb4b6c835a94fa590c48215b97f)
   - <sub>Tags: <code>v0.5.0</code></sub>
 - [ ] [<code>incus/action: Fix resume</code>](https://github.com/lxc/incus/commit/94cb8c3a4a45e86e1ff660dc5c03f160c9d7d0ac)
+- [ ] [<code>doc: Remove net_prio</code>](https://github.com/lxc/incus/commit/ab45066c0eeec8c690774f0dd286769cba77398f)
+- [ ] [<code>incusd/cgroup: Fully remove net_prio</code>](https://github.com/lxc/incus/commit/21e042cc2990f98af2f9c2820d8cf6499c48848a)
+- [ ] [<code>incusd/warningtype: Remove net_prio</code>](https://github.com/lxc/incus/commit/28e2bfff284733990a9105b75a71c9815db27b06)
+- [ ] [<code>incusd/cgroup: Look for full cgroup controllers list at the root</code>](https://github.com/lxc/incus/commit/08bf969f99efdaa3695e4163ad886a540af3a85e)
+- [ ] [<code>incusd/dns: Serialize DNS queries</code>](https://github.com/lxc/incus/commit/94cd06812fe37be908ab3e49389a335ed457f88f)
+- [ ] [<code>incusd/network: Optimize UsedByInstanceDevices</code>](https://github.com/lxc/incus/commit/8d7b2f720542567eaab45356265ec65e13814b6c)
+- [ ] [<code>incusd/backups: Simplify missing backup errors</code>](https://github.com/lxc/incus/commit/d86b5c974faa12b08d80312a39a52602464b75ba)
+- [ ] [<code>tests: Update for current backup errors</code>](https://github.com/lxc/incus/commit/b6aa86b5267990c61d7166fedc42ea58f8b45753)
+- [ ] [<code>incusd/cluster: Optimize ConnectIfInstanceIsRemote</code>](https://github.com/lxc/incus/commit/de094b24bbde7731771b0f56dc2bdee138a0c565)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
