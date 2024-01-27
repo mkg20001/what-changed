@@ -2793,6 +2793,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix off-by-one error in a comment</code>](https://github.com/AOMediaCodec/libavif/commit/c7023c6b32e646020bb29c1eebac6c88f572ed9a)
 - [ ] [<code>Avoid timeout in avif_decode_fuzzer (#1972)</code>](https://github.com/AOMediaCodec/libavif/commit/561ada6299653f65f4924bc0d8b9eb04391727a2)
+- [ ] [<code>Get ubsan fuzztest test to build. (#1973)</code>](https://github.com/AOMediaCodec/libavif/commit/ac3db6001523e179f9e63f974887b19cb29df855)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
