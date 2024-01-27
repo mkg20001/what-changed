@@ -2264,6 +2264,7 @@
   - <sub>Tags: <code>rc1.17.2-4</code> <code>v1.17.2</code></sub>
 - [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
 - [ ] [<code>docs: Add alt text to images</code>](https://github.com/krille-chan/fluffychat/commit/2dacc608b41a33abdef7b518fcf801627cfaf5d1)
+- [ ] [<code>chore: Adjust status msg design</code>](https://github.com/krille-chan/fluffychat/commit/d0090ad8d3ef92b5d5a6b7a459ade822a49128bf)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2298,6 +2299,7 @@
   - <sub>Tags: <code>rc1.17.2-4</code> <code>v1.17.2</code></sub>
 - [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
 - [ ] [<code>docs: Add alt text to images</code>](https://github.com/krille-chan/fluffychat/commit/2dacc608b41a33abdef7b518fcf801627cfaf5d1)
+- [ ] [<code>chore: Adjust status msg design</code>](https://github.com/krille-chan/fluffychat/commit/d0090ad8d3ef92b5d5a6b7a459ade822a49128bf)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3430,6 +3432,7 @@
 - [ ] [<code>incusd/backups: Simplify missing backup errors</code>](https://github.com/lxc/incus/commit/d86b5c974faa12b08d80312a39a52602464b75ba)
 - [ ] [<code>tests: Update for current backup errors</code>](https://github.com/lxc/incus/commit/b6aa86b5267990c61d7166fedc42ea58f8b45753)
 - [ ] [<code>incusd/cluster: Optimize ConnectIfInstanceIsRemote</code>](https://github.com/lxc/incus/commit/de094b24bbde7731771b0f56dc2bdee138a0c565)
+- [ ] [<code>doc/installing.md: add a gentoo-wiki link under Gentoo section</code>](https://github.com/lxc/incus/commit/164caf652ca0e13ea68cf4b25f6e836b016bf37c)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4177,6 +4180,23 @@
 - [ ] [<code>Revert PR #151</code>](https://github.com/cowsql/raft/commit/a3d66720f8f6b0377f5e1460bdae6beea2295c83)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Revert PR #151 (#152)</code>](https://github.com/cowsql/raft/commit/1c9b4760ada68e3119f6385c03a6506288516786)
+- [ ] [<code>uv: Encode RequestVote result flags using 1 byte instead of 8</code>](https://github.com/cowsql/raft/commit/0a4504d827ebecf91163faf10e30c5ebd3c5d2f7)
+- [ ] [<code>byte: Add functions to encode/decode 16-bit numbers</code>](https://github.com/cowsql/raft/commit/753f6ae1f8efd1b505bece35f5b6941e41d2d3f8)
+- [ ] [<code>raft.h: Add `capacity` field to struct raft</code>](https://github.com/cowsql/raft/commit/2b3c9fb406894f51e1dab540e16e0ee108612310)
+- [ ] [<code>raft.h: Add `capacity` field to struct raft_request_vote_result</code>](https://github.com/cowsql/raft/commit/16f65aba553f3cc770b4dab0f7fce601d7ebf221)
+- [ ] [<code>raft.h: Add `capacity` field to struct raft_append_entries_result</code>](https://github.com/cowsql/raft/commit/189389e0651a159e3f2253de97dde227440385d2)
+- [ ] [<code>raft.h: Add `features` field to struct raft_request_vote_result</code>](https://github.com/cowsql/raft/commit/9bd32b0beb8ea7e70591343a8349c19e82349f2a)
+- [ ] [<code>uv: Use only 2 bytes of the message preamble to encode the type</code>](https://github.com/cowsql/raft/commit/ec2e083defeca935500ab58d7c2445b95649ccdd)
+- [ ] [<code>uv: Use the 3rd byte of the preamble to encode the message version</code>](https://github.com/cowsql/raft/commit/50adc61f55cb2afe2e10fa5b8d746f3d8a8de498)
+- [ ] [<code>uv: Decode RequestVote using the encoded version if available</code>](https://github.com/cowsql/raft/commit/2987fd6452e165a5034b6a18f5b6843ecfa0c35e)
+- [ ] [<code>uv: Decode RequestVote result using the encoded version if available</code>](https://github.com/cowsql/raft/commit/2e415baff5c80668ea865a9ac550ac7ec9f2fc6c)
+- [ ] [<code>uv: Bump AppendEntries result version to 2, including capacity</code>](https://github.com/cowsql/raft/commit/d3a809ac1f32c9d7fb71909f3b8dc4bffc862a23)
+- [ ] [<code>v1: Report server disk capacity (#153)</code>](https://github.com/cowsql/raft/commit/f5d4f8ee5a89bac05f6c864d1d34ce10529a1017)
+- [ ] [<code>Release v0.20.0</code>](https://github.com/cowsql/raft/commit/9f4555139ef5bc4793a02eaa7146b4d1591f5a5c)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v0.20.0 (#154)</code>](https://github.com/cowsql/raft/commit/596166114a0178516de9267ebb28cd9b5e73f0c4)
+  - <sub>Tags: <code>v0.20.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
