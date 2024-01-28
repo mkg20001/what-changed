@@ -2140,6 +2140,8 @@
 - [ ] [<code>Update README.md Install Instructions</code>](https://github.com/lxc/distrobuilder/commit/0d0cc38c695d66d1fea92224719d90160440569f)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/c04d6b04e3ee28e733507684acf759caec0266d3)
+- [ ] [<code>incus-agent: Refresh files</code>](https://github.com/lxc/distrobuilder/commit/c39490a33cf0cdb3c5eb0df5aabe0f94cdbd8022)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -3434,6 +3436,23 @@
 - [ ] [<code>incusd/cluster: Optimize ConnectIfInstanceIsRemote</code>](https://github.com/lxc/incus/commit/de094b24bbde7731771b0f56dc2bdee138a0c565)
 - [ ] [<code>incusd/instance/qemu/agent-loader: Fix to work with busybox</code>](https://github.com/lxc/incus/commit/3573e532cdf6de3e1b3f62b7f12564a59ae3a6b7)
 - [ ] [<code>doc/installing.md: add a gentoo-wiki link under Gentoo section</code>](https://github.com/lxc/incus/commit/164caf652ca0e13ea68cf4b25f6e836b016bf37c)
+- [ ] [<code>incusd/device/disk: Better cleanup cloud-init ISO</code>](https://github.com/lxc/incus/commit/9ac91a48e541ef0834b0d9a92461f432b07fc050)
+- [ ] [<code>incusd/instance/qemu/qmp: Add Eject command</code>](https://github.com/lxc/incus/commit/0e9fc6126ef3b3eb2280c09c08b8b5588a51a9f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu/qmp: Handle eject requests</code>](https://github.com/lxc/incus/commit/e831708d00f913730c864f9faf901c35d40026a4)
+- [ ] [<code>api: agent_config_drive</code>](https://github.com/lxc/incus/commit/d56c0f987ff3e89301dc5d0254ba0130f1be04e2)
+- [ ] [<code>doc/devices/disk: Add agent:config drive</code>](https://github.com/lxc/incus/commit/a61e9b47c501f19bb87e047c4253c680547fdace)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Add agent config drive</code>](https://github.com/lxc/incus/commit/23317d0cf04b15a4078eea7ad2d648559e3b5c74)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/project: Add support for agent config drive</code>](https://github.com/lxc/incus/commit/afbb56ceebef6976c7f28ad1d54d9b6923e02278)
+- [ ] [<code>incusd/instance/qemu/agent-loader: Handle agent drive</code>](https://github.com/lxc/incus/commit/70dc7246def791bf775919bfcb8f21c434183b68)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/db/warningtype: gofmt</code>](https://github.com/lxc/incus/commit/5152523ade68334fe9fc0805e4cfb22f4b28e837)
+- [ ] [<code>incusd/loki: Sort lifecycle context keys</code>](https://github.com/lxc/incus/commit/243ee1939c959bd7f3f615b4b8273b9ed1307b57)
+- [ ] [<code>incusd/instance/qemu/agent-loader: Don't hardcode paths</code>](https://github.com/lxc/incus/commit/16da77bf9674f06fcefaab6dad64f0a780bda61b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/cluster: Fix evacuation of stopped instances</code>](https://github.com/lxc/incus/commit/48920a1c8cd0958459130d76b9afbd0dab5a6506)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
