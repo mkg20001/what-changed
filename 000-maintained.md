@@ -3432,6 +3432,7 @@
 - [ ] [<code>incusd/backups: Simplify missing backup errors</code>](https://github.com/lxc/incus/commit/d86b5c974faa12b08d80312a39a52602464b75ba)
 - [ ] [<code>tests: Update for current backup errors</code>](https://github.com/lxc/incus/commit/b6aa86b5267990c61d7166fedc42ea58f8b45753)
 - [ ] [<code>incusd/cluster: Optimize ConnectIfInstanceIsRemote</code>](https://github.com/lxc/incus/commit/de094b24bbde7731771b0f56dc2bdee138a0c565)
+- [ ] [<code>incusd/instance/qemu/agent-loader: Fix to work with busybox</code>](https://github.com/lxc/incus/commit/3573e532cdf6de3e1b3f62b7f12564a59ae3a6b7)
 - [ ] [<code>doc/installing.md: add a gentoo-wiki link under Gentoo section</code>](https://github.com/lxc/incus/commit/164caf652ca0e13ea68cf4b25f6e836b016bf37c)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
