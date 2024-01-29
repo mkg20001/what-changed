@@ -2998,6 +2998,7 @@
 - [ ] [<code>Fix error message.</code>](https://github.com/lxc/lxc/commit/6b40e66c1179b821f928d25965eb4d62034265f7)
 - [ ] [<code>tree-wide: use container_uses_namespace() helper</code>](https://github.com/lxc/lxc/commit/64341ce7b7b6b1eadbe65731d6074b8ac321f6c3)
 - [ ] [<code>tree-wide: use container_uses_namespace() in less trivial cases</code>](https://github.com/lxc/lxc/commit/9ac7c4895e3f8344c2f789706aca489b32039907)
+- [ ] [<code>lxc-download, lxc-local: preserve xattrs on unpack</code>](https://github.com/lxc/lxc/commit/07e3a516e4fe605541d8836a73c7e2a3163e2f11)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
