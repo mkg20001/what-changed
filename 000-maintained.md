@@ -19,6 +19,8 @@
 - [ ] [<code>Added chinese translation of fork annoucement (#15)</code>](https://github.com/cowsql/cowsql/commit/9196630552208daa07c3b2f13dff74fb4952a138)
 - [ ] [<code>build: Update minimum raft version</code>](https://github.com/cowsql/cowsql/commit/fe7ea848326802db17e836e99e3a683c6de9b4bd)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>README: Fix PPA name</code>](https://github.com/cowsql/cowsql/commit/0fb0f69d7855d05f6dcc08806c5bf943c03c631f)
+- [ ] [<code>README: Fix PPA name (#18)</code>](https://github.com/cowsql/cowsql/commit/a2c52450a52d85ec2b9e0182d574ffe28998bbb1)
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2119,6 +2121,14 @@
 - [ ] [<code>Extra exceptions util</code>](https://github.com/dbeaver/dbeaver/commit/040cb9dcf723db0f58eee6b5cd04b94fead26017)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/cb3f2886d11451cd12d81c7adf29708acb278b3b)
 - [ ] [<code>dbeaver/pro#2193 Allow ignoring quotes when using advanced paste (#22564)</code>](https://github.com/dbeaver/dbeaver/commit/bfd498caaeb540dfdca0282cf184e345f16e8a31)
+- [ ] [<code>#18550 supports RisingWave database (#22577)</code>](https://github.com/dbeaver/dbeaver/commit/be9015cf97e23db44dcd3850fe0fdc10db6437c6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#ERD self connection rendering (#22596)</code>](https://github.com/dbeaver/dbeaver/commit/956c9aca99e5791315694072e434b8120d6fe7fe)
+- [ ] [<code>dbeaver/dbeaver#22305 Added Functions support for Snowflake SQL Editor (#22513)</code>](https://github.com/dbeaver/dbeaver/commit/800320aa6b265c27bf555a7a5ab6fa6cabe811a4)
+- [ ] [<code>INF-10 Move utils to dbeaver-common. Refactor WMI (#22607)</code>](https://github.com/dbeaver/dbeaver/commit/ea15ae0baf5d2f4a87e05605d426208e0f0da90e)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>INF-10 Create aggregate project</code>](https://github.com/dbeaver/dbeaver/commit/ab99d31890a75d8acf573e1734e3831fbc1281c3)
+- [ ] [<code>#22595 Fix tokens coloring update on settings change (#22599)</code>](https://github.com/dbeaver/dbeaver/commit/96cddac3e8a85dd43577b2969314699e7ec54ddc)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2799,6 +2809,7 @@
 - [ ] [<code>Avoid timeout in avif_decode_fuzzer (#1972)</code>](https://github.com/AOMediaCodec/libavif/commit/561ada6299653f65f4924bc0d8b9eb04391727a2)
 - [ ] [<code>Get ubsan fuzztest test to build. (#1973)</code>](https://github.com/AOMediaCodec/libavif/commit/ac3db6001523e179f9e63f974887b19cb29df855)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Simpler itemID finding for alpha. (#1967)</code>](https://github.com/AOMediaCodec/libavif/commit/4378794207f7a244bc36730c63dcc2bc188b6b3c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3843,6 +3854,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>state/status: Rename Members to Interfaces</code>](https://github.com/canonical/netplan/commit/9e50b9f5516e07c8c241c46cdfd60aa89a26d05e)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc: Document public API symbols</code>](https://github.com/canonical/netplan/commit/f3c062a503cb7b4dd3b0677fd1960c6f289d211b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>API: drop netplan_generate</code>](https://github.com/canonical/netplan/commit/8a05bd56098c651460e722e04f8e398eac689613)
+- [ ] [<code>API: restructure headers, sorting symbols by object they relate to</code>](https://github.com/canonical/netplan/commit/a5644337813b08fa321ee872f88f0610570dbf95)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>abi-compat: Update for dropped 'netplan_generate' symbol</code>](https://github.com/canonical/netplan/commit/24deed524a94c9684902fdfa53be30ea0d7a9084)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4008,6 +4026,7 @@
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/raft/commit/33f1e90de9698d2b52f9863070a3b5eb6386582a)
 - [ ] [<code>test_uv_os: Silence compiler on mantic ppc64le.</code>](https://github.com/canonical/raft/commit/12a4731241727ca8e4ef5b6a4a8fb0c2c7fbfc69)
 - [ ] [<code>tracing: Align raft log message with dqlite log message.</code>](https://github.com/canonical/raft/commit/68b4db77aa6386e64f15e0efc026af4217f9e398)
+- [ ] [<code>Add raft_voter_contact()</code>](https://github.com/canonical/raft/commit/2e103cb21e36a58039a490d5e51b49122aa013a3)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.19.1 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.19.1...HEAD)
 
