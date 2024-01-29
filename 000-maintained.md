@@ -3456,6 +3456,7 @@
 - [ ] [<code>incusd/cluster: Fix evacuation of stopped instances</code>](https://github.com/lxc/incus/commit/48920a1c8cd0958459130d76b9afbd0dab5a6506)
 - [ ] [<code>Release Incus 0.5.1</code>](https://github.com/lxc/incus/commit/017e426e9e388974489441873560465748904fe6)
   - <sub>Tags: <code>v0.5.1</code></sub>
+- [ ] [<code>incusd/instance/qemu/qmp: Don't risk blocking QMP on eject</code>](https://github.com/lxc/incus/commit/add57027531b82a14db51917828692460c9ebf91)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
