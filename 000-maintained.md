@@ -2133,6 +2133,17 @@
 - [ ] [<code>INF-10 Create aggregate project</code>](https://github.com/dbeaver/dbeaver/commit/ab99d31890a75d8acf573e1734e3831fbc1281c3)
 - [ ] [<code>#22595 Fix tokens coloring update on settings change (#22599)</code>](https://github.com/dbeaver/dbeaver/commit/96cddac3e8a85dd43577b2969314699e7ec54ddc)
 - [ ] [<code>INF-13 dbeaver-common reference fix</code>](https://github.com/dbeaver/dbeaver/commit/e8c48ae25ced36744f67fd9e3aacc152e0bd3898)
+- [ ] [<code>Build script (Windows)</code>](https://github.com/dbeaver/dbeaver/commit/68f2e07431f1f7b0a3d6cf1fd7a82b464fb2fe3e)
+- [ ] [<code>Build script (nix)</code>](https://github.com/dbeaver/dbeaver/commit/cefcf35fc6068850c7f5200b209e8fe59e2a4c7a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Move AWS injector sources to core plugin</code>](https://github.com/dbeaver/dbeaver/commit/68041e36c78d3fb1b5c4d776fd5fc04a5f220740)
+- [ ] [<code>dbeaver/pro#2242 Task scheduler API refactor (#22547)</code>](https://github.com/dbeaver/dbeaver/commit/805178b8089072dd1232e05ea9a37779ead3af8e)
+- [ ] [<code>#22161 specify TDengine quoted/unquoted case to lower; specify quotes (#22589)</code>](https://github.com/dbeaver/dbeaver/commit/07a2f61c0b048e53ffb31df061dea4f40e2d9b0c)
+- [ ] [<code>#22478 Introduce CTE validation and outline support (#22598)</code>](https://github.com/dbeaver/dbeaver/commit/3433246d40c442d610873bb83c3888a484666b96)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/pro#2197 Handle encrypted project opening failure (#22237)</code>](https://github.com/dbeaver/dbeaver/commit/057fb365c51f07de46dfc0d6f24c23d70aefbf32)
+- [ ] [<code>dbeaver/dbeaver#21832 Add Cubrid Plugin Features (#22106)</code>](https://github.com/dbeaver/dbeaver/commit/c51994451d7945095bbab2686476e1fa606d4088)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2815,6 +2826,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Simpler itemID finding for alpha. (#1967)</code>](https://github.com/AOMediaCodec/libavif/commit/4378794207f7a244bc36730c63dcc2bc188b6b3c)
 - [ ] [<code>Build libyuv without sanitizer flags. (#1975)</code>](https://github.com/AOMediaCodec/libavif/commit/678784db54b8b60693399c1700162f049189a1ba)
+- [ ] [<code>Replace some assertions by AVIF_ASSERT_OR_RETURN() (#1958)</code>](https://github.com/AOMediaCodec/libavif/commit/b4e5d986c39d6f85f1598e1da2128d6842e60b81)
+- [ ] [<code>Forward port some nits from v1.0.x (#1976)</code>](https://github.com/AOMediaCodec/libavif/commit/6cd507ae8c65cd69a151ceeac6140064076d3146)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3479,6 +3492,9 @@
 - [ ] [<code>github: Use stable MicroCeph</code>](https://github.com/lxc/incus/commit/85d8a0f722cc224625f7c443315179076588e2d3)
 - [ ] [<code>incusd/db: Fix error handling in CreateNetworkPeer</code>](https://github.com/lxc/incus/commit/bfdd69289eaae5e0562830116d1e67b5d173eaa9)
 - [ ] [<code>incusd/apparmor: Allow more mounts in unprivileged containers</code>](https://github.com/lxc/incus/commit/02bd1a7490becf3e774c1cbe92cc5fd2b7c466f8)
+- [ ] [<code>incusd/instance/qemu/agent-loader: Handle legacy lxd-agent-loader</code>](https://github.com/lxc/incus/commit/aebcd59a3400f255aa9da97d271ec4c2b9ba4eb2)
+- [ ] [<code>incusd/device/disk: Use genisoimage when mkisofs can't be found</code>](https://github.com/lxc/incus/commit/8060e1e70aeb8771e0998f78ca5e6a4c817590d1)
+  - <sub>Keywords: <code>exec</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
