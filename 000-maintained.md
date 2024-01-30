@@ -21,6 +21,9 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>README: Fix PPA name</code>](https://github.com/cowsql/cowsql/commit/0fb0f69d7855d05f6dcc08806c5bf943c03c631f)
 - [ ] [<code>README: Fix PPA name (#18)</code>](https://github.com/cowsql/cowsql/commit/a2c52450a52d85ec2b9e0182d574ffe28998bbb1)
+- [ ] [<code>Fix build failure on x32</code>](https://github.com/cowsql/cowsql/commit/7cfd262def0b725308f83d97242636ac14fbcd35)
+- [ ] [<code>Fix build failure on x32 (#19)</code>](https://github.com/cowsql/cowsql/commit/b011e4c545baa35a5633b9cde4a820b3fcc72e34)
+- [ ] [<code>Run clang-format on src/client/protocol.c</code>](https://github.com/cowsql/cowsql/commit/12109c1814e80ec98223a1203af9b3280fb52d58)
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2129,6 +2132,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>INF-10 Create aggregate project</code>](https://github.com/dbeaver/dbeaver/commit/ab99d31890a75d8acf573e1734e3831fbc1281c3)
 - [ ] [<code>#22595 Fix tokens coloring update on settings change (#22599)</code>](https://github.com/dbeaver/dbeaver/commit/96cddac3e8a85dd43577b2969314699e7ec54ddc)
+- [ ] [<code>INF-13 dbeaver-common reference fix</code>](https://github.com/dbeaver/dbeaver/commit/e8c48ae25ced36744f67fd9e3aacc152e0bd3898)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2810,6 +2814,7 @@
 - [ ] [<code>Get ubsan fuzztest test to build. (#1973)</code>](https://github.com/AOMediaCodec/libavif/commit/ac3db6001523e179f9e63f974887b19cb29df855)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Simpler itemID finding for alpha. (#1967)</code>](https://github.com/AOMediaCodec/libavif/commit/4378794207f7a244bc36730c63dcc2bc188b6b3c)
+- [ ] [<code>Build libyuv without sanitizer flags. (#1975)</code>](https://github.com/AOMediaCodec/libavif/commit/678784db54b8b60693399c1700162f049189a1ba)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3010,6 +3015,7 @@
 - [ ] [<code>tree-wide: use container_uses_namespace() helper</code>](https://github.com/lxc/lxc/commit/64341ce7b7b6b1eadbe65731d6074b8ac321f6c3)
 - [ ] [<code>tree-wide: use container_uses_namespace() in less trivial cases</code>](https://github.com/lxc/lxc/commit/9ac7c4895e3f8344c2f789706aca489b32039907)
 - [ ] [<code>lxc-download, lxc-local: preserve xattrs on unpack</code>](https://github.com/lxc/lxc/commit/07e3a516e4fe605541d8836a73c7e2a3163e2f11)
+- [ ] [<code>Add x32 to the list of recognized architectures</code>](https://github.com/lxc/lxc/commit/44e845b3ce27c8243a0652ff3a0f07e59e8637e9)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -3472,6 +3478,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: Use stable MicroCeph</code>](https://github.com/lxc/incus/commit/85d8a0f722cc224625f7c443315179076588e2d3)
 - [ ] [<code>incusd/db: Fix error handling in CreateNetworkPeer</code>](https://github.com/lxc/incus/commit/bfdd69289eaae5e0562830116d1e67b5d173eaa9)
+- [ ] [<code>incusd/apparmor: Allow more mounts in unprivileged containers</code>](https://github.com/lxc/incus/commit/02bd1a7490becf3e774c1cbe92cc5fd2b7c466f8)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
