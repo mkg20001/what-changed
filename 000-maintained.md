@@ -3468,6 +3468,10 @@
 - [ ] [<code>Release Incus 0.5.1</code>](https://github.com/lxc/incus/commit/017e426e9e388974489441873560465748904fe6)
   - <sub>Tags: <code>v0.5.1</code></sub>
 - [ ] [<code>incusd/instance/qemu/qmp: Don't risk blocking QMP on eject</code>](https://github.com/lxc/incus/commit/add57027531b82a14db51917828692460c9ebf91)
+- [ ] [<code>github: Switch to minio deb and pin working version</code>](https://github.com/lxc/incus/commit/ff596f2c02a855f9bdb836b0f15fa8f11a8d904e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: Use stable MicroCeph</code>](https://github.com/lxc/incus/commit/85d8a0f722cc224625f7c443315179076588e2d3)
+- [ ] [<code>incusd/db: Fix error handling in CreateNetworkPeer</code>](https://github.com/lxc/incus/commit/bfdd69289eaae5e0562830116d1e67b5d173eaa9)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
