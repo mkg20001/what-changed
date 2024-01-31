@@ -2144,6 +2144,24 @@
 - [ ] [<code>dbeaver/pro#2197 Handle encrypted project opening failure (#22237)</code>](https://github.com/dbeaver/dbeaver/commit/057fb365c51f07de46dfc0d6f24c23d70aefbf32)
 - [ ] [<code>dbeaver/dbeaver#21832 Add Cubrid Plugin Features (#22106)</code>](https://github.com/dbeaver/dbeaver/commit/c51994451d7945095bbab2686476e1fa606d4088)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2408 UI freeze during project initialization fix (#22629)</code>](https://github.com/dbeaver/dbeaver/commit/1c80dca6fe9b5d512b2b0e062ee7c105cf292058)
+- [ ] [<code>#22175 decrease the stored procedure availability flag for Redshift (#22627)</code>](https://github.com/dbeaver/dbeaver/commit/c62efd840264de124d363011afb8084a24a9b332)
+- [ ] [<code>#22181 move the "Show all databases" option to the main connection page (#22621)</code>](https://github.com/dbeaver/dbeaver/commit/cecb96aaf32c8553afc16e9c3205cc0e22b025ad)
+- [ ] [<code>Vendor name fix</code>](https://github.com/dbeaver/dbeaver/commit/425c7d7f87401afba162eca11d8cdb670ce0add1)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/5888b771e2f5048814e06275f738e8aab5d33b96)
+- [ ] [<code>CB-3834 secret controller redesign v2 (#22639)</code>](https://github.com/dbeaver/dbeaver/commit/6f49000e23ddd7aa060c65aafe3da4f401f036a8)
+- [ ] [<code>dbeaver/pro#2253 add info about commercial version (#22640)</code>](https://github.com/dbeaver/dbeaver/commit/ad281cdcf55429cae9f0086be5c6033bd1136387)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2419 Fix multiple creation of parsing jobs (#22649)</code>](https://github.com/dbeaver/dbeaver/commit/e783f89d07df32fc6c2da3eab6ca184055a408ae)
+- [ ] [<code>dbeaver/pro#2351 Query inspection enhancements  (#22648)</code>](https://github.com/dbeaver/dbeaver/commit/8bb22a10ea311d85833ce8c9296c560f47674abe)
+- [ ] [<code>dbeaver/pro#2283 gemini (#22591)</code>](https://github.com/dbeaver/dbeaver/commit/67be1ee1f56149dca2a590c950670c008f86f8e2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2285 Fix parallel execution and end of transfer notification (#22623)</code>](https://github.com/dbeaver/dbeaver/commit/04a43768f37ca612e97d4b163605d28966bb32f3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#22619 fix custom name in the FK create dialog; add custom name field… (#22635)</code>](https://github.com/dbeaver/dbeaver/commit/1269e9d4697bf34e30fe05042371848edbd5a138)
+- [ ] [<code>dbeaver/pro#2404 Revert legacy Clickhouse driver (#22605)</code>](https://github.com/dbeaver/dbeaver/commit/ed3c3f8be3af787c725da0b83e82d5f06688839d)
+- [ ] [<code>dbeaver/pro#2364 Error in Outline when saving Console (#22630)</code>](https://github.com/dbeaver/dbeaver/commit/56ba62555a1a71c1de4084c6ab978f997b91054d)
+- [ ] [<code>dbeaver/pro#2400 Non-session completion fix (#22651)</code>](https://github.com/dbeaver/dbeaver/commit/788265c2e39ef70f4a28cf866a0c17e1ad4a55b0)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2175,6 +2193,8 @@
 - [ ] [<code>test_membership: Wait for leader barrier before waiting for tx.</code>](https://github.com/canonical/dqlite/commit/b44b96189bbfba3100d3b1622d6f60036e798d4f)
 - [ ] [<code>server: Replace monitor_cb by state_cb.</code>](https://github.com/canonical/dqlite/commit/9b3ac556e56a7b3f7b99cbec5a8afada818df54c)
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/dqlite/commit/c281844359be6f0fb872d1ce38336a2c8b9e0ad9)
+- [ ] [<code>Include more debug info in debug builds</code>](https://github.com/canonical/dqlite/commit/b7ca1ce430de3e84ff8c7555b87a1ab17837dd2d)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2301,6 +2321,8 @@
 - [ ] [<code>fix: Render tg-forward html tags</code>](https://github.com/krille-chan/fluffychat/commit/172cd651fc5172d71343fdf22dd6914f210e5722)
 - [ ] [<code>build: Update matrix dart sdk to 0.25.7</code>](https://github.com/krille-chan/fluffychat/commit/d5e77f7276b5c420a9a135e417f4fa6e7befdb01)
 - [ ] [<code>build: Update flutter to 3.16.9</code>](https://github.com/krille-chan/fluffychat/commit/cab8a72e5e7cb4767400b4e58129a5599eaf0037)
+- [ ] [<code>chore: Follow up wallpaper thumbnail width</code>](https://github.com/krille-chan/fluffychat/commit/e96090051dd3c7d5a3300df16e9a62e27be7bcc7)
+- [ ] [<code>chore: Make stickers smaller</code>](https://github.com/krille-chan/fluffychat/commit/1a2a25d39447902d08f00f89445d7b68ce7e463b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2345,6 +2367,8 @@
 - [ ] [<code>fix: Render tg-forward html tags</code>](https://github.com/krille-chan/fluffychat/commit/172cd651fc5172d71343fdf22dd6914f210e5722)
 - [ ] [<code>build: Update matrix dart sdk to 0.25.7</code>](https://github.com/krille-chan/fluffychat/commit/d5e77f7276b5c420a9a135e417f4fa6e7befdb01)
 - [ ] [<code>build: Update flutter to 3.16.9</code>](https://github.com/krille-chan/fluffychat/commit/cab8a72e5e7cb4767400b4e58129a5599eaf0037)
+- [ ] [<code>chore: Follow up wallpaper thumbnail width</code>](https://github.com/krille-chan/fluffychat/commit/e96090051dd3c7d5a3300df16e9a62e27be7bcc7)
+- [ ] [<code>chore: Make stickers smaller</code>](https://github.com/krille-chan/fluffychat/commit/1a2a25d39447902d08f00f89445d7b68ce7e463b)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2846,6 +2870,7 @@
 - [ ] [<code>Build libyuv without sanitizer flags. (#1975)</code>](https://github.com/AOMediaCodec/libavif/commit/678784db54b8b60693399c1700162f049189a1ba)
 - [ ] [<code>Replace some assertions by AVIF_ASSERT_OR_RETURN() (#1958)</code>](https://github.com/AOMediaCodec/libavif/commit/b4e5d986c39d6f85f1598e1da2128d6842e60b81)
 - [ ] [<code>Forward port some nits from v1.0.x (#1976)</code>](https://github.com/AOMediaCodec/libavif/commit/6cd507ae8c65cd69a151ceeac6140064076d3146)
+- [ ] [<code>Add missing CHANGELOG.md entries (#1977)</code>](https://github.com/AOMediaCodec/libavif/commit/dcc0a15879d16f7834dd37ef2f8eb677ffc67029)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3916,6 +3941,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>abi-compat: Update for dropped 'netplan_generate' symbol</code>](https://github.com/canonical/netplan/commit/24deed524a94c9684902fdfa53be30ea0d7a9084)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cli:utils: introduce systemctl_is_installed helper</code>](https://github.com/canonical/netplan/commit/c37a223b6ad95fd3ef80e67691c91e9e552a8dba)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Update ovs.py to check if ovsdb-server.service is installed before throwing an error</code>](https://github.com/canonical/netplan/commit/05937c4adb0161b8302a0a2479aba05265098fbf)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4082,6 +4110,8 @@
 - [ ] [<code>test_uv_os: Silence compiler on mantic ppc64le.</code>](https://github.com/canonical/raft/commit/12a4731241727ca8e4ef5b6a4a8fb0c2c7fbfc69)
 - [ ] [<code>tracing: Align raft log message with dqlite log message.</code>](https://github.com/canonical/raft/commit/68b4db77aa6386e64f15e0efc026af4217f9e398)
 - [ ] [<code>Add raft_voter_contact()</code>](https://github.com/canonical/raft/commit/2e103cb21e36a58039a490d5e51b49122aa013a3)
+- [ ] [<code>test/lib/heap: remove homebrew leak check.</code>](https://github.com/canonical/raft/commit/4f98e3229c87438b98ee937ba0020095249033e1)
+- [ ] [<code>test/lib/heap: fix munit comparison type.</code>](https://github.com/canonical/raft/commit/be6b3266957fc02aa7c64c2d33012922c46988a9)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.19.1 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.19.1...HEAD)
 
@@ -4332,6 +4362,7 @@
 - [ ] [<code>Bump prop-types from 15.7.2 to 15.8.1 (#390)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5bbb2fc77b4c27addc6496e2725bcc98e4c0fb68)
 - [ ] [<code>Bump papaparse from 5.3.1 to 5.4.1 (#388)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/12c22a170bfc9739684a84be7260cce77cf71b85)
 - [ ] [<code>Bump NodeJS to v18 (#407)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/50af6499b069a9fa7e4e2ee97a1b5dc5ebaeaad1)
+- [ ] [<code>Disallow crawling in robots.txt (#448)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/323ad9f9e29801251d18653d15c23772dc77cf63)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
