@@ -21,7 +21,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-desktop/commit/83f4f7744b44bed997803aa0775b38258a7a1b0e)
 - [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a9d71d12e3ceb4c93d3da830a8d9e46183d79b26)
+- [ ] [<code>Remove a misspelled (and redundant) build option from the README.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/96ae2a514a1ff0effe1181db47ff26b5e1267ad7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
@@ -31,12 +33,13 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.3...HEAD)
 
 
-#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.2...HEAD)
+#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.3...HEAD)
 
-- [ ] [<code>csm-manager.c: Use the /tmp dir for the dialog server's socket file</code>](https://github.com/linuxmint/cinnamon-session/commit/964205d26af82c571e302d768430a14cff26ee10)
-- [ ] [<code>6.0.3</code>](https://github.com/linuxmint/cinnamon-session/commit/0199cfcae2b6689a002f40f60c3fbb9bc1e4edfb)
-  - <sub>Tags: <code>6.0.3</code> <code>master.lmde6</code> <code>master.mint21</code></sub>
+- [ ] [<code>cinnamon-session: make sure wayland sessions get a login shell (#161)</code>](https://github.com/linuxmint/cinnamon-session/commit/60fd654e186fbf6427d82c478961ac6a4331c634)
   - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Remove orphaned include (#164)</code>](https://github.com/linuxmint/cinnamon-session/commit/37dbe7c1a302ad22c24651bdd0787f1a8374c582)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
@@ -86,6 +89,8 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/nemo/commit/5e2b088d7d32221978ddb658302d4604e266a8a6)
+- [ ] [<code>nemo-action-manager.c: Fix order of actions</code>](https://github.com/linuxmint/nemo/commit/f866998b39cc170077b75fe0067357fdb4b3c66c)
+- [ ] [<code>nemo-action-manager.c: Do not reinvent strcmp</code>](https://github.com/linuxmint/nemo/commit/3afe9d8890585bc7d0049fa11e24c929ed76a531)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -107,6 +112,8 @@
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
+- [ ] [<code>Adapt to upstream packaging changes (#201)</code>](https://github.com/linuxmint/warpinator/commit/414ac65acf8f6ea6fa4e8945863333dba984176d)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
@@ -117,6 +124,8 @@
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
+- [ ] [<code>epub: Fix an incorrect sizeof call detected by AddressSanitizer (#635)</code>](https://github.com/linuxmint/xreader/commit/1cde19228e6f46a9c0994566a941d9b63df9b68b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
 
