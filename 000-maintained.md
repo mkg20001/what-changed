@@ -2292,6 +2292,15 @@
 - [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
 - [ ] [<code>docs: Add alt text to images</code>](https://github.com/krille-chan/fluffychat/commit/2dacc608b41a33abdef7b518fcf801627cfaf5d1)
 - [ ] [<code>chore: Adjust status msg design</code>](https://github.com/krille-chan/fluffychat/commit/d0090ad8d3ef92b5d5a6b7a459ade822a49128bf)
+- [ ] [<code>added docker deploy step to release</code>](https://github.com/krille-chan/fluffychat/commit/3e83a723c67ae5ad7f5f91772e9b94cf94b7e07e)
+- [ ] [<code>fix: onDragDone crashes when no files found</code>](https://github.com/krille-chan/fluffychat/commit/03728ccb4254fe1c326a5988b4d2681bff435143)
+- [ ] [<code>fix: Use HapticFeedback.selectionClick() for long press on message</code>](https://github.com/krille-chan/fluffychat/commit/1a655d6f72b26d51d1d6a1916981101a545d93ec)
+- [ ] [<code>fix: Missing null check in public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/85a868522e518f5b98f5f087aafbc2a0a39aeb30)
+- [ ] [<code>ci: Remove check for unused translations</code>](https://github.com/krille-chan/fluffychat/commit/26f4e990064a472343009746dd885357d2b4806d)
+- [ ] [<code>feat: New account data wallpaper feature</code>](https://github.com/krille-chan/fluffychat/commit/3b9245c8c7ddff005e1678fcf0326f1187554875)
+- [ ] [<code>fix: Render tg-forward html tags</code>](https://github.com/krille-chan/fluffychat/commit/172cd651fc5172d71343fdf22dd6914f210e5722)
+- [ ] [<code>build: Update matrix dart sdk to 0.25.7</code>](https://github.com/krille-chan/fluffychat/commit/d5e77f7276b5c420a9a135e417f4fa6e7befdb01)
+- [ ] [<code>build: Update flutter to 3.16.9</code>](https://github.com/krille-chan/fluffychat/commit/cab8a72e5e7cb4767400b4e58129a5599eaf0037)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2327,6 +2336,15 @@
 - [ ] [<code>docs: Make website less huge to load</code>](https://github.com/krille-chan/fluffychat/commit/38dd9e9668bbc2499fbfd8a54e08016e86a39bc6)
 - [ ] [<code>docs: Add alt text to images</code>](https://github.com/krille-chan/fluffychat/commit/2dacc608b41a33abdef7b518fcf801627cfaf5d1)
 - [ ] [<code>chore: Adjust status msg design</code>](https://github.com/krille-chan/fluffychat/commit/d0090ad8d3ef92b5d5a6b7a459ade822a49128bf)
+- [ ] [<code>added docker deploy step to release</code>](https://github.com/krille-chan/fluffychat/commit/3e83a723c67ae5ad7f5f91772e9b94cf94b7e07e)
+- [ ] [<code>fix: onDragDone crashes when no files found</code>](https://github.com/krille-chan/fluffychat/commit/03728ccb4254fe1c326a5988b4d2681bff435143)
+- [ ] [<code>fix: Use HapticFeedback.selectionClick() for long press on message</code>](https://github.com/krille-chan/fluffychat/commit/1a655d6f72b26d51d1d6a1916981101a545d93ec)
+- [ ] [<code>fix: Missing null check in public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/85a868522e518f5b98f5f087aafbc2a0a39aeb30)
+- [ ] [<code>ci: Remove check for unused translations</code>](https://github.com/krille-chan/fluffychat/commit/26f4e990064a472343009746dd885357d2b4806d)
+- [ ] [<code>feat: New account data wallpaper feature</code>](https://github.com/krille-chan/fluffychat/commit/3b9245c8c7ddff005e1678fcf0326f1187554875)
+- [ ] [<code>fix: Render tg-forward html tags</code>](https://github.com/krille-chan/fluffychat/commit/172cd651fc5172d71343fdf22dd6914f210e5722)
+- [ ] [<code>build: Update matrix dart sdk to 0.25.7</code>](https://github.com/krille-chan/fluffychat/commit/d5e77f7276b5c420a9a135e417f4fa6e7befdb01)
+- [ ] [<code>build: Update flutter to 3.16.9</code>](https://github.com/krille-chan/fluffychat/commit/cab8a72e5e7cb4767400b4e58129a5599eaf0037)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3495,6 +3513,16 @@
 - [ ] [<code>incusd/instance/qemu/agent-loader: Handle legacy lxd-agent-loader</code>](https://github.com/lxc/incus/commit/aebcd59a3400f255aa9da97d271ec4c2b9ba4eb2)
 - [ ] [<code>incusd/device/disk: Use genisoimage when mkisofs can't be found</code>](https://github.com/lxc/incus/commit/8060e1e70aeb8771e0998f78ca5e6a4c817590d1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/api: Add example of Chassis in NetworkStateOVN</code>](https://github.com/lxc/incus/commit/81d6b59973c4de4f6276419e3823c7217a90725a)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d76b24db33a9824fbf1cc34853e2eebbe0a59ca5)
+- [ ] [<code>api: network_state_ovn_lr</code>](https://github.com/lxc/incus/commit/157e59f06ede741fadcde0b658628603dc82fac7)
+- [ ] [<code>shared/api: Add LogicalRouter field to NetworkStateOVN</code>](https://github.com/lxc/incus/commit/70a243eb7657424152afc6c876ab7782bf2ea178)
+- [ ] [<code>incusd/network/ovn: Expose LogicalRouter name</code>](https://github.com/lxc/incus/commit/ff05054a7e4aaf71dd757b5b3d8fbaed3220903c)
+- [ ] [<code>incus: Add OVN logical router name</code>](https://github.com/lxc/incus/commit/717f1e298dd7036e1fa1e90f8e6f2ac15f184f9b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ac928135fed5ed877c2c2f9af12b46881e1c20a5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ea39f32964cfa74a3fd1ccb3fc9bf295d16b0d76)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
