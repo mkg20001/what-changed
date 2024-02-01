@@ -2162,6 +2162,7 @@
 - [ ] [<code>dbeaver/pro#2404 Revert legacy Clickhouse driver (#22605)</code>](https://github.com/dbeaver/dbeaver/commit/ed3c3f8be3af787c725da0b83e82d5f06688839d)
 - [ ] [<code>dbeaver/pro#2364 Error in Outline when saving Console (#22630)</code>](https://github.com/dbeaver/dbeaver/commit/56ba62555a1a71c1de4084c6ab978f997b91054d)
 - [ ] [<code>dbeaver/pro#2400 Non-session completion fix (#22651)</code>](https://github.com/dbeaver/dbeaver/commit/788265c2e39ef70f4a28cf866a0c17e1ad4a55b0)
+- [ ] [<code>Revert "dbeaver/pro#2197 Handle encrypted project opening failure (#22237)"</code>](https://github.com/dbeaver/dbeaver/commit/d83e5838dc4a5f6a50b891eaf730d0acd8923a56)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2185,6 +2186,7 @@
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/c04d6b04e3ee28e733507684acf759caec0266d3)
 - [ ] [<code>incus-agent: Refresh files</code>](https://github.com/lxc/distrobuilder/commit/c39490a33cf0cdb3c5eb0df5aabe0f94cdbd8022)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(deps): bump github.com/opencontainers/runc from 1.1.10 to 1.1.12</code>](https://github.com/lxc/distrobuilder/commit/480707e4c7a6c94c7eeedf7dedf255589aa26d1b)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -2195,6 +2197,7 @@
 - [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/dqlite/commit/c281844359be6f0fb872d1ce38336a2c8b9e0ad9)
 - [ ] [<code>Include more debug info in debug builds</code>](https://github.com/canonical/dqlite/commit/b7ca1ce430de3e84ff8c7555b87a1ab17837dd2d)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/dqlite/commit/4cb0ed65ffeb444d144c0df9793f08c01c66f0a5)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2274,6 +2277,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Melos format</code>](https://github.com/canonical/firmware-updater/commit/c25c7fbeef6c7e50d0fb761c6b6cef50032cd7b6)
 - [ ] [<code>feat: switching to the right icon when updating firmware</code>](https://github.com/canonical/firmware-updater/commit/54eb00066901ddc52c7d5385c88bc98f05c1376d)
+- [ ] [<code>docs: adding contributing.md for future contributors.</code>](https://github.com/canonical/firmware-updater/commit/d41248f5d422098ce680eadb08285c002c7b991b)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -2896,6 +2900,9 @@
 - [ ] [<code>Forward port some nits from v1.0.x (#1976)</code>](https://github.com/AOMediaCodec/libavif/commit/6cd507ae8c65cd69a151ceeac6140064076d3146)
 - [ ] [<code>Add missing CHANGELOG.md entries (#1977)</code>](https://github.com/AOMediaCodec/libavif/commit/dcc0a15879d16f7834dd37ef2f8eb677ffc67029)
 - [ ] [<code>Bump the github-actions group with 4 updates (#1982)</code>](https://github.com/AOMediaCodec/libavif/commit/2e033e5747180ea6c8bb3d7f95f84db6eb8b9978)
+- [ ] [<code>Add bug numbers in CHANGELOG.md (#1984)</code>](https://github.com/AOMediaCodec/libavif/commit/a7263adf4a4b373aefb72c0a8f2ec36e1888d9bc)
+- [ ] [<code>Remove forced address sanitizer flags. (#1986)</code>](https://github.com/AOMediaCodec/libavif/commit/73cdc27ea54e6de8ead71ccf33f8e47e68290f5c)
+- [ ] [<code>Bump fuzztest library. (#1988)</code>](https://github.com/AOMediaCodec/libavif/commit/6cc154be9d0d0b50b12cfab0d65049de1ef8407e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4137,6 +4144,7 @@
 - [ ] [<code>Add raft_voter_contact()</code>](https://github.com/canonical/raft/commit/2e103cb21e36a58039a490d5e51b49122aa013a3)
 - [ ] [<code>test/lib/heap: remove homebrew leak check.</code>](https://github.com/canonical/raft/commit/4f98e3229c87438b98ee937ba0020095249033e1)
 - [ ] [<code>test/lib/heap: fix munit comparison type.</code>](https://github.com/canonical/raft/commit/be6b3266957fc02aa7c64c2d33012922c46988a9)
+- [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/raft/commit/0e3396bdac975e20d554718dcd8bb5d808d45447)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.19.1 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.19.1...HEAD)
 
