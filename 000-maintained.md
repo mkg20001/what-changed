@@ -2323,6 +2323,18 @@
 - [ ] [<code>build: Update flutter to 3.16.9</code>](https://github.com/krille-chan/fluffychat/commit/cab8a72e5e7cb4767400b4e58129a5599eaf0037)
 - [ ] [<code>chore: Follow up wallpaper thumbnail width</code>](https://github.com/krille-chan/fluffychat/commit/e96090051dd3c7d5a3300df16e9a62e27be7bcc7)
 - [ ] [<code>chore: Make stickers smaller</code>](https://github.com/krille-chan/fluffychat/commit/1a2a25d39447902d08f00f89445d7b68ce7e463b)
+- [ ] [<code>chore: Follow up wallpaper size</code>](https://github.com/krille-chan/fluffychat/commit/bfcfcc9a8380057efb4ccd4f10ca2b2bf0c380de)
+- [ ] [<code>docs: Update website colors</code>](https://github.com/krille-chan/fluffychat/commit/f55588a8c7e6ba2b3d3176b056dc29038051f9b4)
+- [ ] [<code>chore: Follow up status bubble color</code>](https://github.com/krille-chan/fluffychat/commit/bad0579eb50cefb2ee4dc99bb3b0e6ea2e08c8f8)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/ccda4514c1062fac1f151685d6223bcd21bc9b43)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update minor versions</code>](https://github.com/krille-chan/fluffychat/commit/7c954c2e3a76b74b150aa3259d69f61523a716b5)
+- [ ] [<code>Revert "build: Update minor versions"</code>](https://github.com/krille-chan/fluffychat/commit/135b61e6b5e82b2bbb1ac7114ed3b91b9494180d)
+- [ ] [<code>build: Follow up update errors</code>](https://github.com/krille-chan/fluffychat/commit/74b1553662d9ef5f06a1c4bedf82b8e18145721b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Improved error handling for recovery key</code>](https://github.com/krille-chan/fluffychat/commit/2af86915362ab929ebe97e3fd966e3c7d8f8cd30)
+- [ ] [<code>chore: Wait for device keys before ask bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/dce3c0ae52e55e56aeeb11e03e9c123ff836c4fb)
+- [ ] [<code>chore: Follow up update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/fb57ed7a5ab771460c045583bcf9a6062d87b609)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2369,6 +2381,18 @@
 - [ ] [<code>build: Update flutter to 3.16.9</code>](https://github.com/krille-chan/fluffychat/commit/cab8a72e5e7cb4767400b4e58129a5599eaf0037)
 - [ ] [<code>chore: Follow up wallpaper thumbnail width</code>](https://github.com/krille-chan/fluffychat/commit/e96090051dd3c7d5a3300df16e9a62e27be7bcc7)
 - [ ] [<code>chore: Make stickers smaller</code>](https://github.com/krille-chan/fluffychat/commit/1a2a25d39447902d08f00f89445d7b68ce7e463b)
+- [ ] [<code>chore: Follow up wallpaper size</code>](https://github.com/krille-chan/fluffychat/commit/bfcfcc9a8380057efb4ccd4f10ca2b2bf0c380de)
+- [ ] [<code>docs: Update website colors</code>](https://github.com/krille-chan/fluffychat/commit/f55588a8c7e6ba2b3d3176b056dc29038051f9b4)
+- [ ] [<code>chore: Follow up status bubble color</code>](https://github.com/krille-chan/fluffychat/commit/bad0579eb50cefb2ee4dc99bb3b0e6ea2e08c8f8)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/ccda4514c1062fac1f151685d6223bcd21bc9b43)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update minor versions</code>](https://github.com/krille-chan/fluffychat/commit/7c954c2e3a76b74b150aa3259d69f61523a716b5)
+- [ ] [<code>Revert "build: Update minor versions"</code>](https://github.com/krille-chan/fluffychat/commit/135b61e6b5e82b2bbb1ac7114ed3b91b9494180d)
+- [ ] [<code>build: Follow up update errors</code>](https://github.com/krille-chan/fluffychat/commit/74b1553662d9ef5f06a1c4bedf82b8e18145721b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Improved error handling for recovery key</code>](https://github.com/krille-chan/fluffychat/commit/2af86915362ab929ebe97e3fd966e3c7d8f8cd30)
+- [ ] [<code>chore: Wait for device keys before ask bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/dce3c0ae52e55e56aeeb11e03e9c123ff836c4fb)
+- [ ] [<code>chore: Follow up update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/fb57ed7a5ab771460c045583bcf9a6062d87b609)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2871,6 +2895,7 @@
 - [ ] [<code>Replace some assertions by AVIF_ASSERT_OR_RETURN() (#1958)</code>](https://github.com/AOMediaCodec/libavif/commit/b4e5d986c39d6f85f1598e1da2128d6842e60b81)
 - [ ] [<code>Forward port some nits from v1.0.x (#1976)</code>](https://github.com/AOMediaCodec/libavif/commit/6cd507ae8c65cd69a151ceeac6140064076d3146)
 - [ ] [<code>Add missing CHANGELOG.md entries (#1977)</code>](https://github.com/AOMediaCodec/libavif/commit/dcc0a15879d16f7834dd37ef2f8eb677ffc67029)
+- [ ] [<code>Bump the github-actions group with 4 updates (#1982)</code>](https://github.com/AOMediaCodec/libavif/commit/2e033e5747180ea6c8bb3d7f95f84db6eb8b9978)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
