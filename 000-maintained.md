@@ -24,6 +24,9 @@
 - [ ] [<code>Fix build failure on x32</code>](https://github.com/cowsql/cowsql/commit/7cfd262def0b725308f83d97242636ac14fbcd35)
 - [ ] [<code>Fix build failure on x32 (#19)</code>](https://github.com/cowsql/cowsql/commit/b011e4c545baa35a5633b9cde4a820b3fcc72e34)
 - [ ] [<code>Run clang-format on src/client/protocol.c</code>](https://github.com/cowsql/cowsql/commit/12109c1814e80ec98223a1203af9b3280fb52d58)
+- [ ] [<code>leader: Translate RAFT_NOSPACE into SQLITE_IOERR_WRITE</code>](https://github.com/cowsql/cowsql/commit/42b4877542301916db6dec4467b09bcc57622a71)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>leader: Translate RAFT_NOSPACE into SQLITE_IOERR_WRITE (#20)</code>](https://github.com/cowsql/cowsql/commit/863ed907f30a912f91fbc988369189402ada10c0)
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2188,6 +2191,7 @@
 - [ ] [<code>incus-agent: Refresh files</code>](https://github.com/lxc/distrobuilder/commit/c39490a33cf0cdb3c5eb0df5aabe0f94cdbd8022)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build(deps): bump github.com/opencontainers/runc from 1.1.10 to 1.1.12</code>](https://github.com/lxc/distrobuilder/commit/480707e4c7a6c94c7eeedf7dedf255589aa26d1b)
+- [ ] [<code>incus-agent: Fix systemd unit name under LXD</code>](https://github.com/lxc/distrobuilder/commit/fc0cbefc44b1002c23d703445ade31b09d8ca795)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -2199,6 +2203,7 @@
 - [ ] [<code>Include more debug info in debug builds</code>](https://github.com/canonical/dqlite/commit/b7ca1ce430de3e84ff8c7555b87a1ab17837dd2d)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/dqlite/commit/4cb0ed65ffeb444d144c0df9793f08c01c66f0a5)
+- [ ] [<code>github: Add downstream check.</code>](https://github.com/canonical/dqlite/commit/eb529bdb6a9515324cf5bc8f2f9311e0223300ae)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2904,6 +2909,9 @@
 - [ ] [<code>Add bug numbers in CHANGELOG.md (#1984)</code>](https://github.com/AOMediaCodec/libavif/commit/a7263adf4a4b373aefb72c0a8f2ec36e1888d9bc)
 - [ ] [<code>Remove forced address sanitizer flags. (#1986)</code>](https://github.com/AOMediaCodec/libavif/commit/73cdc27ea54e6de8ead71ccf33f8e47e68290f5c)
 - [ ] [<code>Bump fuzztest library. (#1988)</code>](https://github.com/AOMediaCodec/libavif/commit/6cc154be9d0d0b50b12cfab0d65049de1ef8407e)
+- [ ] [<code>Add link to wiki in README.md (#1985)</code>](https://github.com/AOMediaCodec/libavif/commit/850d4982c4a9f43e8189f17b3a0f790ea93fa7cc)
+- [ ] [<code>Reduce imageSizeLimit for SharpYUV in fuzzreadimg (#1989)</code>](https://github.com/AOMediaCodec/libavif/commit/a14909ab00a47b5a7867db42ed146136566797ad)
+- [ ] [<code>Remove duplicate bug in CHANGELOG.md (#1990)</code>](https://github.com/AOMediaCodec/libavif/commit/3ead1f3e99112871af0c52d4dc57a144d662b8cd)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3582,6 +3590,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ea39f32964cfa74a3fd1ccb3fc9bf295d16b0d76)
 - [ ] [<code>scripts/bash: Don't follow aliases</code>](https://github.com/lxc/incus/commit/f25226d385a4ada9b75359abeb371c6a7566762f)
+- [ ] [<code>test: Adapt test_database_no_disk_space() to newer libraft versions</code>](https://github.com/lxc/incus/commit/6c5b52aa3607ca8c37004ebfaeb8ba1b219d462a)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4404,6 +4413,17 @@
 - [ ] [<code>configuration: Add configurationActualIndexOfVoter helper</code>](https://github.com/cowsql/raft/commit/cdb3d85b1ebd40234aefb2034fd710facb33d2cd)
 - [ ] [<code>convert: Copy features and capacity info when converting to leader</code>](https://github.com/cowsql/raft/commit/734cc7e8f1effdb02dad9705903645976f21950b)
 - [ ] [<code>replication: Honor capacity threshold (#155)</code>](https://github.com/cowsql/raft/commit/85b734817ef7202b5893a25e6ec9f0e2cd6861f6)
+- [ ] [<code>uv: Calculate capacity with reserved size instead of written bytes</code>](https://github.com/cowsql/raft/commit/27434ca9949d638cf8f6be873e47304fa42f0543)
+- [ ] [<code>uv: Add append_retry timer to retry failed append writes</code>](https://github.com/cowsql/raft/commit/8b7bf0a232cb92a4a68e75b2cb2c768961d03eed)
+- [ ] [<code>uv: Rename raft_uv_set_segment_retry to raft_uv_set_disk_retry</code>](https://github.com/cowsql/raft/commit/d6c6b7249d1067e4c27dfd91e3bf58c724454e74)
+- [ ] [<code>uv: Retry failed disk writes when appending entries</code>](https://github.com/cowsql/raft/commit/65e30c500595d6697ef530ac78294e590b362677)
+- [ ] [<code>legacy: Cancel promotion requests when transferring leadership</code>](https://github.com/cowsql/raft/commit/f37c2030a802160748311de96a1c2e04db6f1043)
+- [ ] [<code>uv: Retry failed segment writes (#156)</code>](https://github.com/cowsql/raft/commit/0db12c15e679fd08db76807d043ce6c9106b8d52)
+- [ ] [<code>Release v0.21.0</code>](https://github.com/cowsql/raft/commit/8045c4f2414877a0d2b2bb4c2f80e1d064bfa19e)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v0.21.0 (#157)</code>](https://github.com/cowsql/raft/commit/597014eb09f96c7408216511a51fc21674fcb587)
+  - <sub>Tags: <code>v0.21.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4442,6 +4462,19 @@
 - [ ] [<code>Bump papaparse from 5.3.1 to 5.4.1 (#388)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/12c22a170bfc9739684a84be7260cce77cf71b85)
 - [ ] [<code>Bump NodeJS to v18 (#407)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/50af6499b069a9fa7e4e2ee97a1b5dc5ebaeaad1)
 - [ ] [<code>Disallow crawling in robots.txt (#448)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/323ad9f9e29801251d18653d15c23772dc77cf63)
+- [ ] [<code>Bump eslint from 8.48.0 to 8.55.0 (#441)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6e395e3b0f5086c4286e1dd112f7ec2625edbc6c)
+- [ ] [<code>Bump @mui/icons-material from 5.14.8 to 5.14.19 (#440)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4bae32b57ce322d323815fc7efd4a5598eeba8ff)
+- [ ] [<code>Bump ra-language-french from 4.13.3 to 4.16.2 (#439)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/56bc4a56b9ce54aa9fc53d3f23463cf3d45d4c4d)
+- [ ] [<code>Bump @adobe/css-tools from 4.3.1 to 4.3.2 (#438)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e2ce934f2a3ed33b5da7d7f3afcc642c30724196)
+- [ ] [<code>Bump actions/setup-node from 3 to 4 (#421)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7579873d87325f2b863ff053865d46c570a69fe9)
+- [ ] [<code>Bump @babel/traverse from 7.16.5 to 7.23.2 (#418)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4ab5ae25854c0dd2add610b54fd85f33bc77d932)
+- [ ] [<code>Bump docker/build-push-action from 4 to 5 (#397)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8b99695e600488e069efef9d6a2d4dccb2e92fc8)
+- [ ] [<code>Bump docker/setup-qemu-action from 2 to 3 (#396)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e757876c35a211332dea1683bb2a3663cb602d6c)
+- [ ] [<code>Bump docker/login-action from 2 to 3 (#394)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/13fbc419c2fcbac5255dc6f82b30b4dfa3cc7140)
+- [ ] [<code>Bump docker/setup-buildx-action from 2 to 3 (#395)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/17379a7325a0f61a4bfc8f04f67960015c0a5a64)
+- [ ] [<code>Migrate `makeStyles` to MUI v5 (#330)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/58e02d6dff9f1e893b9fe0cfd0b1febfaa747224)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update deprecated resource definitions (#331)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d8d393cdf648475a4d5791f919ff60382e31b5f0)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
