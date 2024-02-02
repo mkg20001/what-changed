@@ -2163,6 +2163,7 @@
 - [ ] [<code>dbeaver/pro#2364 Error in Outline when saving Console (#22630)</code>](https://github.com/dbeaver/dbeaver/commit/56ba62555a1a71c1de4084c6ab978f997b91054d)
 - [ ] [<code>dbeaver/pro#2400 Non-session completion fix (#22651)</code>](https://github.com/dbeaver/dbeaver/commit/788265c2e39ef70f4a28cf866a0c17e1ad4a55b0)
 - [ ] [<code>Revert "dbeaver/pro#2197 Handle encrypted project opening failure (#22237)"</code>](https://github.com/dbeaver/dbeaver/commit/d83e5838dc4a5f6a50b891eaf730d0acd8923a56)
+- [ ] [<code>dbeaver/pro#2424 NPE fix in virtual model read (#22681)</code>](https://github.com/dbeaver/dbeaver/commit/6c6a337976a666b6fe6423ee6fac7c8951a32f45)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3580,6 +3581,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ac928135fed5ed877c2c2f9af12b46881e1c20a5)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ea39f32964cfa74a3fd1ccb3fc9bf295d16b0d76)
+- [ ] [<code>scripts/bash: Don't follow aliases</code>](https://github.com/lxc/incus/commit/f25226d385a4ada9b75359abeb371c6a7566762f)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
