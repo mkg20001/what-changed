@@ -2204,6 +2204,8 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/dqlite/commit/4cb0ed65ffeb444d144c0df9793f08c01c66f0a5)
 - [ ] [<code>github: Add downstream check.</code>](https://github.com/canonical/dqlite/commit/eb529bdb6a9515324cf5bc8f2f9311e0223300ae)
+- [ ] [<code>downstream: Fix repo references.</code>](https://github.com/canonical/dqlite/commit/b825034e25a4e5aed0c3650d4da7ebf3c830e0dd)
+- [ ] [<code>downstream: Fix another ref.</code>](https://github.com/canonical/dqlite/commit/c68da3e9eadd97d356a682c1902099c312a6f2ad)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3594,6 +3596,8 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ea39f32964cfa74a3fd1ccb3fc9bf295d16b0d76)
 - [ ] [<code>scripts/bash: Don't follow aliases</code>](https://github.com/lxc/incus/commit/f25226d385a4ada9b75359abeb371c6a7566762f)
 - [ ] [<code>test: Adapt test_database_no_disk_space() to newer libraft versions</code>](https://github.com/lxc/incus/commit/6c5b52aa3607ca8c37004ebfaeb8ba1b219d462a)
+- [ ] [<code>incus/launch: Fix --console</code>](https://github.com/lxc/incus/commit/30d5708262080e29b6d8d065cc55b2e4450ed54e)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4431,6 +4435,31 @@
 - [ ] [<code>legacy: Drop unnecessary legacyPersistedEntriesFailure</code>](https://github.com/cowsql/raft/commit/ba02c06a0a59c11b97dc8956136f2eb9ea014b1a)
 - [ ] [<code>v1: Drop status field from RAFT_PERSISTED_ENTRIES event</code>](https://github.com/cowsql/raft/commit/bf9451814b947466c496375f284a6cf2a49f37fc)
 - [ ] [<code>v1: Drop status field from RAFT_PERSISTED_ENTRIES event (#158)</code>](https://github.com/cowsql/raft/commit/ba7d6477fbe4cb16d40dd66421c3fe4f8d461489)
+- [ ] [<code>legacy: Assert that no snapshot is being installed when taking one</code>](https://github.com/cowsql/raft/commit/40b54687267b2cfa85d8c50b36ee6116eb49e91f)
+- [ ] [<code>legacy: Remove unnecessary set of snapshot.persisting</code>](https://github.com/cowsql/raft/commit/83c3ddfe3170efda518d50065392458b13e07df5)
+- [ ] [<code>legacy: Remove unnecessary check of last snapshot entry</code>](https://github.com/cowsql/raft/commit/2f95ffb7cd907fda7b28a0d342db1b4a983803c1)
+- [ ] [<code>legacy: Move r->snapshot.taking field to r->legacy.snapshot_taking</code>](https://github.com/cowsql/raft/commit/ebca666d6d0c4a06ed1ca5f0d38fa7cf6f776ce7)
+- [ ] [<code>legacy: No need for LegacyLeadershipTransferInit to be public</code>](https://github.com/cowsql/raft/commit/a3b5b53788072f055fc7653fdaaf4854f26e3350)
+- [ ] [<code>legacy: Initialize transfer request after raft_step() is called</code>](https://github.com/cowsql/raft/commit/3cbdaa17d4a70d80ecd613f1990f17aab215a0fd)
+- [ ] [<code>legacy: Remove duplicated logic in raft_step() and raft_transfer()</code>](https://github.com/cowsql/raft/commit/0e17764fbaf5f42489b5e248b2212b1ac407e354)
+- [ ] [<code>client: Make clientSelectTransferee private</code>](https://github.com/cowsql/raft/commit/cc98f9faee69b183f29f7491e2b4846b707ae243)
+- [ ] [<code>legacy: Remove duplicated logic in raft_step() and raft_add()</code>](https://github.com/cowsql/raft/commit/5fd6b58d50198fcf032e101ae66e7be00d45bddd)
+- [ ] [<code>legacy: Don't set r->now directly</code>](https://github.com/cowsql/raft/commit/cf86c7dbc86d3dd3cedc7e792ac3099f6d2e472b)
+- [ ] [<code>raft.h: Add raft_match_index() returning the match index of a server</code>](https://github.com/cowsql/raft/commit/109564976b68026c80c6f48de5a004d8f5a89a44)
+- [ ] [<code>legacy: Use raft_match_index() instead of internal functions</code>](https://github.com/cowsql/raft/commit/7129763a8130f12bc001ffdf756e564a7d117464)
+- [ ] [<code>legacy: Remove redundant logic already contained in raft_step() (#160)</code>](https://github.com/cowsql/raft/commit/6cd2c848694c7d3b122651f4b05471ec3feafaa2)
+- [ ] [<code>uv: Skip snapshots with invalid metadata or data files</code>](https://github.com/cowsql/raft/commit/83c023492d455da9986b8aaca392fde7700c67d3)
+- [ ] [<code>uv: Skip snapshots with invalid metadata or data files (#161)</code>](https://github.com/cowsql/raft/commit/7ad7db47f5aee55259d1a3cb301cffd06bfd2778)
+- [ ] [<code>test: Test O_TMPFILE across the supported file systems</code>](https://github.com/cowsql/raft/commit/9dfcc11331d332c73de0266cb0698cd3d9a371b6)
+- [ ] [<code>raft: Add missing #undef infof</code>](https://github.com/cowsql/raft/commit/bd8c7ff7445299e70c7a3ac14af7dd5131a1395c)
+- [ ] [<code>uv: Add new work function for allocating metadata and snapshot files</code>](https://github.com/cowsql/raft/commit/917a34e82da42f8d86ffdf9d36e98fc80f406d76)
+- [ ] [<code>uv: Allocate temporary files for metadata and snapshot files</code>](https://github.com/cowsql/raft/commit/30b0bb304b02289cb9d7623c66172cb35aa95a34)
+- [ ] [<code>uv: Add UvFsAllocateTempFile() helper</code>](https://github.com/cowsql/raft/commit/4d7dc21362fb3f84dd11dd1bb95e55b6b710737f)
+- [ ] [<code>uv: Add UvOsLinkat() wrapper</code>](https://github.com/cowsql/raft/commit/2c06d1a2bc6173cb159e28320e4cc66fcdc820c6)
+- [ ] [<code>uv: Add UvFsFinalizeTempFile() helper to write an allocated tempfile</code>](https://github.com/cowsql/raft/commit/af653bbeb017ab992a1eb8a067b85de3f02bb9b7)
+- [ ] [<code>uv: Use pre-allocated invisible tempfiles to write snapshots</code>](https://github.com/cowsql/raft/commit/a16d1d24bb9ea1c1559df8a64ef9dc6985292f78)
+- [ ] [<code>uv: Immediately write data into snapshot tempfiles</code>](https://github.com/cowsql/raft/commit/4b35f135515db238705234ddb6d53605057b8032)
+- [ ] [<code>uv: Allocate snapshot files before writing them (#162)</code>](https://github.com/cowsql/raft/commit/a35efd0f54769f7d0082e8fe46eaa70c9c34b69f)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
