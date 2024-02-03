@@ -3113,6 +3113,9 @@
 - [ ] [<code>tree-wide: use container_uses_namespace() in less trivial cases</code>](https://github.com/lxc/lxc/commit/9ac7c4895e3f8344c2f789706aca489b32039907)
 - [ ] [<code>lxc-download, lxc-local: preserve xattrs on unpack</code>](https://github.com/lxc/lxc/commit/07e3a516e4fe605541d8836a73c7e2a3163e2f11)
 - [ ] [<code>Add x32 to the list of recognized architectures</code>](https://github.com/lxc/lxc/commit/44e845b3ce27c8243a0652ff3a0f07e59e8637e9)
+- [ ] [<code>test-usernic: don't use ifconfig</code>](https://github.com/lxc/lxc/commit/27ec0b0f64de326e4705d6b7245babc22dbb2708)
+- [ ] [<code>lxc-test-usernic: drop cgroup handling</code>](https://github.com/lxc/lxc/commit/ec85e5ca4953292c4341497704ce738669a79b64)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -4424,6 +4427,10 @@
 - [ ] [<code>Release v0.21.0 (#157)</code>](https://github.com/cowsql/raft/commit/597014eb09f96c7408216511a51fc21674fcb587)
   - <sub>Tags: <code>v0.21.0</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>legacy: io->append() now can fail only if canceled</code>](https://github.com/cowsql/raft/commit/d6a2c30501bca56c35615528e196769ad0402803)
+- [ ] [<code>legacy: Drop unnecessary legacyPersistedEntriesFailure</code>](https://github.com/cowsql/raft/commit/ba02c06a0a59c11b97dc8956136f2eb9ea014b1a)
+- [ ] [<code>v1: Drop status field from RAFT_PERSISTED_ENTRIES event</code>](https://github.com/cowsql/raft/commit/bf9451814b947466c496375f284a6cf2a49f37fc)
+- [ ] [<code>v1: Drop status field from RAFT_PERSISTED_ENTRIES event (#158)</code>](https://github.com/cowsql/raft/commit/ba7d6477fbe4cb16d40dd66421c3fe4f8d461489)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
