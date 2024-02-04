@@ -4486,6 +4486,17 @@
 - [ ] [<code>v1: Drop status field from RAFT_PERSISTED_SNAPSHOT (#159)</code>](https://github.com/cowsql/raft/commit/f742c0861dd2dd4c6e79a9dcd6c969789362b156)
 - [ ] [<code>legacy: Hold persist snapshot until take snapshot completes</code>](https://github.com/cowsql/raft/commit/6d24ea93f6db39af2d12eafe2f6ff08bdece8c48)
 - [ ] [<code>legacy: Hold persist snapshot until take snapshot completes (#164)</code>](https://github.com/cowsql/raft/commit/0162e44ee1744ca81d7823cb49b763c9af6f814d)
+- [ ] [<code>replication: Emit message in case of conflicting committed entries</code>](https://github.com/cowsql/raft/commit/1389e165b0fbf98b9ab3aec0bcc1251fe2c4bc91)
+- [ ] [<code>timeout: Rename tick.c to timeout.c</code>](https://github.com/cowsql/raft/commit/a14a5cb98896a0fbf38792e91c59b08d8b4ca3eb)
+- [ ] [<code>raft.h: Rename r->snapshot.persisting to r->snapshot.installing</code>](https://github.com/cowsql/raft/commit/5d2ee0772d57a4f343c0b62c85584463baacbb01)
+- [ ] [<code>replication: Drop unnecessary replicationInstallSnapshotBusy helper</code>](https://github.com/cowsql/raft/commit/5686816903043e78db81f400c6f7bd697bf7279c)
+- [ ] [<code>timeout: Don't convert to candidate if there are unpersisted entries</code>](https://github.com/cowsql/raft/commit/4d9a9fc3e94e61c484261f603a3adeefce9bc451)
+- [ ] [<code>convert: Wait for writes to complete before turning candidate (#165)</code>](https://github.com/cowsql/raft/commit/85ec6a0e825d85cb39592477cedf71d8416deb61)
+- [ ] [<code>raft.h: Fix static assert macro when compiling with C++</code>](https://github.com/cowsql/raft/commit/3d50a9a073cfd1ba0c78aeabbd898ae969f5a2cb)
+- [ ] [<code>raft.h: Fix static assert macro when compiling with C++ (#166)</code>](https://github.com/cowsql/raft/commit/eebbb107cb8d4e100600a04c6bd469101e0ddb89)
+- [ ] [<code>replication: Apply configuration changes eagerly upon receiving them</code>](https://github.com/cowsql/raft/commit/328796c8577bc2e5fb2a6c2dbf79fe776fbd7d1d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>replication: Apply configuration changes eagerly upon receiving them (#167)</code>](https://github.com/cowsql/raft/commit/0d0f5092327d43a08c1c252e68051ee7222c44d2)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
