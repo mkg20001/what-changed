@@ -2347,6 +2347,14 @@
 - [ ] [<code>chore: Improved error handling for recovery key</code>](https://github.com/krille-chan/fluffychat/commit/2af86915362ab929ebe97e3fd966e3c7d8f8cd30)
 - [ ] [<code>chore: Wait for device keys before ask bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/dce3c0ae52e55e56aeeb11e03e9c123ff836c4fb)
 - [ ] [<code>chore: Follow up update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/fb57ed7a5ab771460c045583bcf9a6062d87b609)
+- [ ] [<code>fix: whitespaces sometimes encoded in html message</code>](https://github.com/krille-chan/fluffychat/commit/6fde2fbeaa901d96d53bae27ccf4081e887f3e68)
+- [ ] [<code>chore: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/e68306c8b3df7c6bc7446d5be4fa475a4d31f675)
+- [ ] [<code>fix: Share invite link of rooms</code>](https://github.com/krille-chan/fluffychat/commit/46a12d522580b215423c0efeffddfb859d73d8b6)
+  - <sub>Tags: <code>rc1.17.3-1</code></sub>
+- [ ] [<code>ci: Remove process tags workflow</code>](https://github.com/krille-chan/fluffychat/commit/e187f7cc628533deaaed87fd760e0a313c587a01)
+- [ ] [<code>fix: Wrong language in translation</code>](https://github.com/krille-chan/fluffychat/commit/e23129dfd2e97a461c2622b859184442b686cbb3)
+- [ ] [<code>fix: Request notification permission on android</code>](https://github.com/krille-chan/fluffychat/commit/6cc2c6a578cb7adf3a1555c50bf7b4208fd1f30a)
+  - <sub>Tags: <code>rc1.17.3-2</code> <code>v1.17.3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2405,6 +2413,14 @@
 - [ ] [<code>chore: Improved error handling for recovery key</code>](https://github.com/krille-chan/fluffychat/commit/2af86915362ab929ebe97e3fd966e3c7d8f8cd30)
 - [ ] [<code>chore: Wait for device keys before ask bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/dce3c0ae52e55e56aeeb11e03e9c123ff836c4fb)
 - [ ] [<code>chore: Follow up update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/fb57ed7a5ab771460c045583bcf9a6062d87b609)
+- [ ] [<code>fix: whitespaces sometimes encoded in html message</code>](https://github.com/krille-chan/fluffychat/commit/6fde2fbeaa901d96d53bae27ccf4081e887f3e68)
+- [ ] [<code>chore: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/e68306c8b3df7c6bc7446d5be4fa475a4d31f675)
+- [ ] [<code>fix: Share invite link of rooms</code>](https://github.com/krille-chan/fluffychat/commit/46a12d522580b215423c0efeffddfb859d73d8b6)
+  - <sub>Tags: <code>rc1.17.3-1</code></sub>
+- [ ] [<code>ci: Remove process tags workflow</code>](https://github.com/krille-chan/fluffychat/commit/e187f7cc628533deaaed87fd760e0a313c587a01)
+- [ ] [<code>fix: Wrong language in translation</code>](https://github.com/krille-chan/fluffychat/commit/e23129dfd2e97a461c2622b859184442b686cbb3)
+- [ ] [<code>fix: Request notification permission on android</code>](https://github.com/krille-chan/fluffychat/commit/6cc2c6a578cb7adf3a1555c50bf7b4208fd1f30a)
+  - <sub>Tags: <code>rc1.17.3-2</code> <code>v1.17.3</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
