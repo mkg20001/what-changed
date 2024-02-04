@@ -4460,6 +4460,16 @@
 - [ ] [<code>uv: Use pre-allocated invisible tempfiles to write snapshots</code>](https://github.com/cowsql/raft/commit/a16d1d24bb9ea1c1559df8a64ef9dc6985292f78)
 - [ ] [<code>uv: Immediately write data into snapshot tempfiles</code>](https://github.com/cowsql/raft/commit/4b35f135515db238705234ddb6d53605057b8032)
 - [ ] [<code>uv: Allocate snapshot files before writing them (#162)</code>](https://github.com/cowsql/raft/commit/a35efd0f54769f7d0082e8fe46eaa70c9c34b69f)
+- [ ] [<code>uv: Add retry timer for snapshot writes</code>](https://github.com/cowsql/raft/commit/001f62db3bcb9f3afd62073cec9a6e2ad96eed56)
+- [ ] [<code>uv: Retry failed snapshot writes</code>](https://github.com/cowsql/raft/commit/eee1fac9ec8ac5a63401610084df6b58cb2d5e2d)
+- [ ] [<code>legacy: Assert that persisting snapshots fail only if canceled</code>](https://github.com/cowsql/raft/commit/65b43cfff4d803c4fcb128c2063f43335cc9dfb4)
+- [ ] [<code>uv: Retry failed snapshot writes (#163)</code>](https://github.com/cowsql/raft/commit/b9ea8c52df7fa0572c5e03cc146cefb944ac8b57)
+- [ ] [<code>legacy: Don't fire RAFT_PERSIST_SNAPSHOT for cancelled snapshots</code>](https://github.com/cowsql/raft/commit/344980d36ab39ad3612fd9a1fcb110c5ef6cb7b2)
+- [ ] [<code>raft.h: Add snapshot_pending to track install pending snapshots</code>](https://github.com/cowsql/raft/commit/0cbb6475a13e26aa2acb92b29449cdc2f9657012)
+- [ ] [<code>v1: Drop status field from RAFT_PERSISTED_SNAPSHOT event</code>](https://github.com/cowsql/raft/commit/a49ceb3a1795c7a9dbf9edec3c78caaa930ca7a4)
+- [ ] [<code>v1: Drop status field from RAFT_PERSISTED_SNAPSHOT (#159)</code>](https://github.com/cowsql/raft/commit/f742c0861dd2dd4c6e79a9dcd6c969789362b156)
+- [ ] [<code>legacy: Hold persist snapshot until take snapshot completes</code>](https://github.com/cowsql/raft/commit/6d24ea93f6db39af2d12eafe2f6ff08bdece8c48)
+- [ ] [<code>legacy: Hold persist snapshot until take snapshot completes (#164)</code>](https://github.com/cowsql/raft/commit/0162e44ee1744ca81d7823cb49b763c9af6f814d)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
