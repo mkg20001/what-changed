@@ -2167,6 +2167,9 @@
 - [ ] [<code>dbeaver/pro#2400 Non-session completion fix (#22651)</code>](https://github.com/dbeaver/dbeaver/commit/788265c2e39ef70f4a28cf866a0c17e1ad4a55b0)
 - [ ] [<code>Revert "dbeaver/pro#2197 Handle encrypted project opening failure (#22237)"</code>](https://github.com/dbeaver/dbeaver/commit/d83e5838dc4a5f6a50b891eaf730d0acd8923a56)
 - [ ] [<code>dbeaver/pro#2424 NPE fix in virtual model read (#22681)</code>](https://github.com/dbeaver/dbeaver/commit/6c6a337976a666b6fe6423ee6fac7c8951a32f45)
+- [ ] [<code>dbeaver/pro#2283 fix incorrect prompt conditions & save settings (#22690)</code>](https://github.com/dbeaver/dbeaver/commit/e050239876ff4568285f35dfb7279c2011fbc09e)
+- [ ] [<code>Rename MySQL 5 into MySQL Legacy</code>](https://github.com/dbeaver/dbeaver/commit/93ac11ce033530d1016f82b367e7f3f4209d6511)
+- [ ] [<code>#22705 Wait for jobs to finish in the dialog's runnable context (#22712)</code>](https://github.com/dbeaver/dbeaver/commit/c796fb12b4cc7c28503c4e1ff5fdff297997f2d1)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2206,6 +2209,13 @@
 - [ ] [<code>github: Add downstream check.</code>](https://github.com/canonical/dqlite/commit/eb529bdb6a9515324cf5bc8f2f9311e0223300ae)
 - [ ] [<code>downstream: Fix repo references.</code>](https://github.com/canonical/dqlite/commit/b825034e25a4e5aed0c3650d4da7ebf3c830e0dd)
 - [ ] [<code>downstream: Fix another ref.</code>](https://github.com/canonical/dqlite/commit/c68da3e9eadd97d356a682c1902099c312a6f2ad)
+- [ ] [<code>build(deps): bump actions/setup-go from 4 to 5</code>](https://github.com/canonical/dqlite/commit/d36c6b47c61659a71c48c2827c86cd8796a3e3f4)
+- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 4</code>](https://github.com/canonical/dqlite/commit/1e177120c59a1ad3f8a76a108555e440b7d9c124)
+- [ ] [<code>build(deps): bump actions/checkout from 3 to 4</code>](https://github.com/canonical/dqlite/commit/f15b8a6282133111a583fa6253f038357f672302)
+- [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ</code>](https://github.com/canonical/dqlite/commit/ba246cc8539921f2efff37954b0544375f2d11be)
+- [ ] [<code>Revert "build(deps): bump codecov/codecov-action from 3 to 4"</code>](https://github.com/canonical/dqlite/commit/a4a446c2481172421ffd29377d01ffaef19c9904)
+- [ ] [<code>Release v1.16.1</code>](https://github.com/canonical/dqlite/commit/71562ee9897634606ac5a21921dc368aac97cb91)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2355,6 +2365,10 @@
 - [ ] [<code>fix: Wrong language in translation</code>](https://github.com/krille-chan/fluffychat/commit/e23129dfd2e97a461c2622b859184442b686cbb3)
 - [ ] [<code>fix: Request notification permission on android</code>](https://github.com/krille-chan/fluffychat/commit/6cc2c6a578cb7adf3a1555c50bf7b4208fd1f30a)
   - <sub>Tags: <code>rc1.17.3-2</code> <code>v1.17.3</code></sub>
+- [ ] [<code>fix: Open room after join</code>](https://github.com/krille-chan/fluffychat/commit/f5c536878a29815a7b7efdc470897d04aa1af49c)
+- [ ] [<code>fix: Remove status msg not changeable from old cache</code>](https://github.com/krille-chan/fluffychat/commit/2e67695645e719d0ad0e76f79910c04cde483cd5)
+- [ ] [<code>fix: Open room links with event id</code>](https://github.com/krille-chan/fluffychat/commit/ecaac9eec2cd65059d1b3ce60eea64d569de9328)
+- [ ] [<code>chore: Add more information to Person object in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/aa68e8fe3b8f5791196e19af9adb7573632823ec)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2421,6 +2435,10 @@
 - [ ] [<code>fix: Wrong language in translation</code>](https://github.com/krille-chan/fluffychat/commit/e23129dfd2e97a461c2622b859184442b686cbb3)
 - [ ] [<code>fix: Request notification permission on android</code>](https://github.com/krille-chan/fluffychat/commit/6cc2c6a578cb7adf3a1555c50bf7b4208fd1f30a)
   - <sub>Tags: <code>rc1.17.3-2</code> <code>v1.17.3</code></sub>
+- [ ] [<code>fix: Open room after join</code>](https://github.com/krille-chan/fluffychat/commit/f5c536878a29815a7b7efdc470897d04aa1af49c)
+- [ ] [<code>fix: Remove status msg not changeable from old cache</code>](https://github.com/krille-chan/fluffychat/commit/2e67695645e719d0ad0e76f79910c04cde483cd5)
+- [ ] [<code>fix: Open room links with event id</code>](https://github.com/krille-chan/fluffychat/commit/ecaac9eec2cd65059d1b3ce60eea64d569de9328)
+- [ ] [<code>chore: Add more information to Person object in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/aa68e8fe3b8f5791196e19af9adb7573632823ec)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3241,379 +3259,6 @@
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
-
-#### [lxd-to-incus](https://github.com/lxc/incus): [refs/tags/v0.4.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v0.4.0...HEAD)
-
-- [ ] [<code>incusd/instances/qemu: Don't fail event sending on missing agent</code>](https://github.com/lxc/incus/commit/2fbdbe9518f8739d5e4adcca0e9e963e96f41053)
-- [ ] [<code>incusd/network/ovsdb: Properly close the connections</code>](https://github.com/lxc/incus/commit/697cafa5c7d10e1241787ee42a828f9b87507f55)
-- [ ] [<code>doc: Add Fedora installation instructions</code>](https://github.com/lxc/incus/commit/657cba03327c9d83069f6538e1442babf6cbd705)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Use Mutate instead of Update</code>](https://github.com/lxc/incus/commit/246c5b89bfc2942e756ff815c79b3cc2053e2d53)
-- [ ] [<code>incusd/network/ovs: Port BridgeDelete to OVSDB</code>](https://github.com/lxc/incus/commit/c19b9f50258532515c96ea971562bdb8d53da813)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/network/ovs: Port BridgeAdd to OVSDB</code>](https://github.com/lxc/incus/commit/9a4e2c6df284ef3e2efcaa42c189d50bcc1d0812)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/network/ovs: Port BridgePortAdd to OVSDB</code>](https://github.com/lxc/incus/commit/77f1b61d2e8ba14736c66ea263dfa04217cac420)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/network/ovn: Port LogicalSwitchPortIPs to OVSDB</code>](https://github.com/lxc/incus/commit/607dc9d56a4b4ab96bcb32fded3fa0796ed28f80)
-- [ ] [<code>incus-doc: Don't try to guess types</code>](https://github.com/lxc/incus/commit/fc5689af87524db5c30596281d9852b166996d01)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fcb3bba3485093db79a4b7a3ee2c01ee3c8ede3f)
-- [ ] [<code>doc/installing: Add Arch instructions</code>](https://github.com/lxc/incus/commit/4cfbe0f54373c13d30e54fe1e408b071c2377d88)
-- [ ] [<code>lxd-to-incus: Clarify error messages</code>](https://github.com/lxc/incus/commit/11e501a2720fa44dcc31b9a689130e7a984cba3f)
-- [ ] [<code>doc/installing: Fix chocolatey link</code>](https://github.com/lxc/incus/commit/0e2d3b77c5976415a269d628002a6fffdbbca82b)
-- [ ] [<code>doc: Remove MicroCloud references</code>](https://github.com/lxc/incus/commit/87f767a6027562f79068908c7f4b260304770236)
-- [ ] [<code>incusd/network/ovn: Properly check transactions</code>](https://github.com/lxc/incus/commit/35fc926028536b79c8a269b5a3d8ea103b44a5b9)
-- [ ] [<code>incusd/network/ovs: Properly check transactions</code>](https://github.com/lxc/incus/commit/8583a88ba5d1de260b22975caca4756443b8b637)
-- [ ] [<code>incusd/network/ovn: Fix ChassisGroupChassisAdd</code>](https://github.com/lxc/incus/commit/fd4d3a8fad4e319940e8c1db8b2de8a1242a9ca9)
-- [ ] [<code>incusd/network/ovn: Fix BridgeAdd</code>](https://github.com/lxc/incus/commit/e0e12ad9666c3b7f81c45e71ace187e99600be5e)
-- [ ] [<code>incusd/network/ovn: Properly handle uplink with disabled DHCP/DHCPv6</code>](https://github.com/lxc/incus/commit/d9b147fbbc5c4202259107c0332526a4237a68ce)
-- [ ] [<code>incus: Create config paths when no local daemons</code>](https://github.com/lxc/incus/commit/2446a58621876c03e252806f5e70d71a76609dd1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Support alternative snap path</code>](https://github.com/lxc/incus/commit/c4287702ecb12eafbddfaaa0fa97f2fb248588eb)
-- [ ] [<code>incusd/device/pci: Detect USB bus</code>](https://github.com/lxc/incus/commit/c239189ef9a583c4e14bb7dcaef22babc6054612)
-- [ ] [<code>incusd/device/nic: Support USB parents for physical NICs in VMs</code>](https://github.com/lxc/incus/commit/1e2843d53bccb8f4516e01c93fa584d841a12b21)
-- [ ] [<code>internal/instance: Add new volatile keys</code>](https://github.com/lxc/incus/commit/f9c119dccd6804f134dd10269a87bb911b12a21b)
-- [ ] [<code>incusd/instance/qemu: Fix typo</code>](https://github.com/lxc/incus/commit/1252d03118bb7d8e72034593625a64f08210926f)
-- [ ] [<code>incusd/instance/qemu: Handle USB NIC hotremove</code>](https://github.com/lxc/incus/commit/280e5c473ebc80d1dc5a8e25ff781b66fc7e4bae)
-- [ ] [<code>incusd/networks: Don't Fill network configs when joining</code>](https://github.com/lxc/incus/commit/4c2fed943ca63f237d764fc0ebd00b6124e783a8)
-- [ ] [<code>incus/create: Set Target after network/storage lookup</code>](https://github.com/lxc/incus/commit/a13184bf72f0d5ad69aa12b7e392bc2c2ff2ec93)
-- [ ] [<code>doc/architectures: Add missing entries</code>](https://github.com/lxc/incus/commit/f801ce295b93ba9e1b0f13575f9f06f1ceb62a9c)
-- [ ] [<code>doc/architectures: Re-phrase headers</code>](https://github.com/lxc/incus/commit/5bf8467f60483fc26043174606210f1cbc1f4c4e)
-- [ ] [<code>doc/architectures: Fix typo</code>](https://github.com/lxc/incus/commit/c01be783042396400669576527f1d1136f0a9f16)
-- [ ] [<code>doc/architectures: Add note about VM architectures</code>](https://github.com/lxc/incus/commit/455038265de17e9488c0b9f8a914bd8e38191775)
-- [ ] [<code>doc/wordlist: Add Loongarch</code>](https://github.com/lxc/incus/commit/ddeba958aa644fa575a7ebfba5ff3f927ecc0b66)
-- [ ] [<code>doc/migrate_lxd: Add mention of CLI configuration</code>](https://github.com/lxc/incus/commit/d989133880542965d1aaf6356189bc96ae025d5f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/snapshot: Fix format handling in list</code>](https://github.com/lxc/incus/commit/ed0d0ab66bd21d7a246fe115b58f28edc0481e92)
-- [ ] [<code>incus/snapshot: Add show sub-command</code>](https://github.com/lxc/incus/commit/74d0b4be6efd11a389b46d59cac90880c0468f11)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bc94a8536f001def7d533a56b1ae70473ed34d8c)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incus: Enable cobra's completion support</code>](https://github.com/lxc/incus/commit/c0200b455a1468685d762649120ce7e2bb25adc9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Handle local OVN</code>](https://github.com/lxc/incus/commit/6bd76db8a55966e0f0c0556766d27406bf2e3252)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/storage_pools: Don't crash on nil pool</code>](https://github.com/lxc/incus/commit/86fb1858aa4b0babacda814d1fd8408f30b008ee)
-- [ ] [<code>incusd/instance/lxc: Re-generate lxc.conf during Exec</code>](https://github.com/lxc/incus/commit/36b995ef876e04ec4f54e1a8f82e178980276392)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd/instance/qemu: Add ErrExecDisconnected</code>](https://github.com/lxc/incus/commit/602d93bdcd9bf68cb81f632d1420b3c1de93ee81)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd: Make VM shutdown/reboot exit cleanly</code>](https://github.com/lxc/incus/commit/578f58c92be0c309b0af75c10201207768fef90a)
-- [ ] [<code>lxd-to-incus: Fix incorrect directory name</code>](https://github.com/lxc/incus/commit/09dedf8ea875cba5c5e9b227487117bfcf50463b)
-- [ ] [<code>lxd-to-incus: Detect source daemon using symlink path</code>](https://github.com/lxc/incus/commit/36ebcd2186cc82695096db9e6b1818169e3935b5)
-- [ ] [<code>lxd-to-incus: Remove trailing slashes from paths</code>](https://github.com/lxc/incus/commit/6cee27cddbc6297e3a62864c27b44b36d267e089)
-- [ ] [<code>lxd-to-incus: touch completion file after migration</code>](https://github.com/lxc/incus/commit/edc5fd2a9baccfb7b6814a440e2947cbb580afcf)
-- [ ] [<code>incusd: Refresh the state on cluster put/join</code>](https://github.com/lxc/incus/commit/37736893c50422050f678348fa3c5bc1f8246595)
-- [ ] [<code>Makefile: Don't complain about shellcheck version</code>](https://github.com/lxc/incus/commit/73bc004f2fb36fbb64cec7bd5594131b724e061f)
-- [ ] [<code>golangci: Disable confusing-results</code>](https://github.com/lxc/incus/commit/7f3d01075ef76884d91165b7273d5f8dbe19bf31)
-- [ ] [<code>shared/idmap: Remove Extend</code>](https://github.com/lxc/incus/commit/9ffd28fce12afaf01e0f8fff7d7f17d06edb074a)
-- [ ] [<code>shared/idmap: Return all idmaps in DefaultIdmapSet</code>](https://github.com/lxc/incus/commit/09034def7967e5032fd4796770ac7b1507118ba0)
-- [ ] [<code>shared/idmap: Split idrange</code>](https://github.com/lxc/incus/commit/2d93ce782722b3ae01788bf858d78052636b8481)
-- [ ] [<code>shared/idmap: Split idmapset</code>](https://github.com/lxc/incus/commit/366831632de53225ee2bc1291f76b3d6f7f45d0b)
-- [ ] [<code>shared/idmap: Split idmap</code>](https://github.com/lxc/incus/commit/f1cf0a1c271de3e1e3510194beb9a3cbb3f9737e)
-- [ ] [<code>shared/idmap: Split ByHostid</code>](https://github.com/lxc/incus/commit/c7155bcff09e7a8d45fdd3c61bc6127c6c7e5167)
-- [ ] [<code>shared/idmap: Export non-Linux specific logic</code>](https://github.com/lxc/incus/commit/fdb6e0c16dd7623edb28835a31084dda4a80461e)
-- [ ] [<code>shared/idmap: Cleanup IdmapSet</code>](https://github.com/lxc/incus/commit/483cbce4bb92420d8c40684b14d058cf9b5ca311)
-- [ ] [<code>shared/idmap: Rename IdRange to IDRange</code>](https://github.com/lxc/incus/commit/f32c4d1f661ffad6746e1ea87ebca9946de01697)
-- [ ] [<code>shared/idmap: Cleanup IdmapEntry</code>](https://github.com/lxc/incus/commit/ada2133309016259fe62153e391cc1fd67692661)
-- [ ] [<code>shared/idmap: Rename is_between to isBetween</code>](https://github.com/lxc/incus/commit/22f739a146a7e399b1ee248e4a19a3cabb8cf10f)
-- [ ] [<code>shared/idmap: Rename ByHostID and make it use IdmapSet</code>](https://github.com/lxc/incus/commit/22b853be7d185555f496fbb45dcd7918481164bb)
-- [ ] [<code>shared/idmap: Update idmapset for modern standard</code>](https://github.com/lxc/incus/commit/4f4b58726814c7efdf1a65c60b04e378b5610e18)
-- [ ] [<code>shared/idmap: Rename the files</code>](https://github.com/lxc/incus/commit/a789aab5e91e3ee695c5e88ecaf033109982ddf6)
-- [ ] [<code>shared/idmap: Move ByHostID back into set</code>](https://github.com/lxc/incus/commit/7de61f69965dede40a2ca57793d8e1422b3576c7)
-- [ ] [<code>shared/idmap: Rename IdmapEntry to Entry</code>](https://github.com/lxc/incus/commit/2c63b5da10e3a902230f53f09c9f7f0be0df4cb2)
-- [ ] [<code>shared/idmap: Rename IDRange to Range</code>](https://github.com/lxc/incus/commit/dca913f5087fda845e3237f7deaee05c155a34c6)
-- [ ] [<code>shared/idmap: Rename IdmapSet to Set</code>](https://github.com/lxc/incus/commit/3a31d3c0e208f9a208f7eeb03df4d27cf9a859ee)
-- [ ] [<code>shared/idmap: Fix import shadowing</code>](https://github.com/lxc/incus/commit/7474e995d949d7f775cbaa8ced8853036e27692b)
-- [ ] [<code>shared/idmap: Rename VFS3Fscaps to VFS3FSCaps</code>](https://github.com/lxc/incus/commit/37440ad31a396bf28f3cca7114d4684e50af69bc)
-- [ ] [<code>shared/idmap: Add/tweak export function descriptions</code>](https://github.com/lxc/incus/commit/980c52a2b523e9d67d06e1dc38307e0bc89f5cbf)
-- [ ] [<code>shared/idmap: Properly capitalize</code>](https://github.com/lxc/incus/commit/ea60fcf4a0efe86da3a41d832de29981469efeb6)
-- [ ] [<code>shared/idmap: Rename UIDShift to Shift</code>](https://github.com/lxc/incus/commit/3abf0fc4f5549936d8bf123187cdff4e683989f0)
-- [ ] [<code>shared/idmap: Update kernelDefaultMap to return multiple maps</code>](https://github.com/lxc/incus/commit/87466d5360aed2475bdea82ec210ce17bf9a8bde)
-- [ ] [<code>shared/idmap: Update comments</code>](https://github.com/lxc/incus/commit/a32463e2318b2acb0831dd60e38cb4b900a70898)
-- [ ] [<code>shared/idmap: Add FilterPOSIX</code>](https://github.com/lxc/incus/commit/9d8c244acd9fe7439ef71c5eef2fb11036ea7d30)
-- [ ] [<code>shared/idmap: Introduce NewSetFromIncusIDMap</code>](https://github.com/lxc/incus/commit/dc1b2ef5986124c7c8c4bf96285aed4b67cb64bd)
-- [ ] [<code>shared/idmap: Introduce NewSetFromJSON</code>](https://github.com/lxc/incus/commit/9f2a7dc696fab51f1412c8c5978fab35e5c28bd6)
-- [ ] [<code>shared/idmap: Replace JSONMarshal with ToJSON</code>](https://github.com/lxc/incus/commit/588c00faa48c268558eab010ca82a1e961227a19)
-- [ ] [<code>shared/idmap: Introduce set_sort</code>](https://github.com/lxc/incus/commit/8634fe3f086376fe904552eb7fd9bc35d5d32ff0)
-- [ ] [<code>shared/idmap: Always use pointer receiver</code>](https://github.com/lxc/incus/commit/6fbded01d1384ee216b315ae385756081ac8394e)
-- [ ] [<code>shared/idmap: Move remaining loaders to set_load</code>](https://github.com/lxc/incus/commit/5771941d8e8cf06dc0cea3e2ad4c6e3cc4236588)
-- [ ] [<code>shared/idmap: Run tests on all platforms</code>](https://github.com/lxc/incus/commit/854fcdd997cf245dda457ef50360a69714afcd6b)
-- [ ] [<code>shared/idmap: Introduce DefaultFullKernelSet</code>](https://github.com/lxc/incus/commit/ad6c420a78b0df7a6e8ae879754c8cf7e4ac7d0a)
-- [ ] [<code>shared/idmap: Introduce NewSetFromCurrentProcess</code>](https://github.com/lxc/incus/commit/b400fee2b886de00877cd04d6814ff9e56ef7779)
-- [ ] [<code>shared/idmap: Remove GetSet</code>](https://github.com/lxc/incus/commit/99bf5f16daa9e2f82bd883b13c016c225dab05a4)
-- [ ] [<code>shared/idmap: Introduce NewSetFromSystem</code>](https://github.com/lxc/incus/commit/add6ebf2e4c16fc0e2b077035f1afd17aa077b6d)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>shared/idmap: Remove kernelDefaultMap</code>](https://github.com/lxc/incus/commit/0196e219665845ae1087316406ae2aa124891603)
-- [ ] [<code>shared/idmap: Add Clone to Entry</code>](https://github.com/lxc/incus/commit/8a50a080ba20448c18394a39e41ab98fef991e75)
-- [ ] [<code>shared/idmap: Add Split to Set</code>](https://github.com/lxc/incus/commit/c83b43341213a646cf9a498d1b6995337eadf2d1)
-- [ ] [<code>shared/idmap: Replace Shift functions with ShiftPath/UnshiftPath</code>](https://github.com/lxc/incus/commit/eb11fdc5b1c173d44c7d7e322002db3463085cbd)
-- [ ] [<code>fuidshift: Update for idmap changes</code>](https://github.com/lxc/incus/commit/5bd1ece5c5fbe2794f0cf6bc61a419dd587c67dd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd: Update for idmap changes</code>](https://github.com/lxc/incus/commit/89b62318ba1c4294398b2ac4d82ecd30de80a622)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus-user: Don't set raw.idmap when uid/gid aren't in system map</code>](https://github.com/lxc/incus/commit/5a5e37879f115179ba1794f335dca041140424b2)
-- [ ] [<code>shared/idmap: Add Includes to Set</code>](https://github.com/lxc/incus/commit/b9fb4847b22f60342eddfa5862a18927305f3073)
-- [ ] [<code>incusd: Simplify idmap serialization</code>](https://github.com/lxc/incus/commit/93888644e86251566df889da343733c2c53cefa7)
-- [ ] [<code>incusd/instance/lxc: Detect bad idmap and find new one</code>](https://github.com/lxc/incus/commit/596f4fe8edd1fd630df73774f3bf5a62b908209d)
-- [ ] [<code>shared/cliconfig: Improve error handling</code>](https://github.com/lxc/incus/commit/f440df3629b33b64838332b2721ac8ae304a86de)
-- [ ] [<code>incusd/instance/qemu: Don't hardcode UEFI firmware in checkFeatures</code>](https://github.com/lxc/incus/commit/a4266dcf284dc1bf5e21d49838d91b55983a5a0d)
-- [ ] [<code>incusd/firewall/xtables: Fix iptablesClear on nft shim</code>](https://github.com/lxc/incus/commit/3c6a60d844a7fccfb207f53e01fbb111958d42be)
-- [ ] [<code>incus/network: add dynamic completions</code>](https://github.com/lxc/incus/commit/7bda5e845c3629e012446b2a091ce19b4d18b252)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>shared/idmap: Fix typo in comments</code>](https://github.com/lxc/incus/commit/22b1b067144933fb9031189645a6da16fb0895f9)
-- [ ] [<code>incus/project: Get current project from connection info</code>](https://github.com/lxc/incus/commit/3f9dd3bfe21d5a31eb810d21f47aafdde4ed61f0)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/cluster: Ensure the cluster member config is always sorted</code>](https://github.com/lxc/incus/commit/0da9df830c5b0474450ffdc98e733eeb1c078206)
-- [ ] [<code>Update madmin-go to support loong64</code>](https://github.com/lxc/incus/commit/93e40bf6f4638b7554bb69aa5d597a6e7ad29844)
-- [ ] [<code>server/seccomp: Add loongarch64</code>](https://github.com/lxc/incus/commit/387f397a2537adfab3db260a70fe9b600a13c165)
-- [ ] [<code>shared/cgo: Add loongarch64</code>](https://github.com/lxc/incus/commit/ed32f61d9dd659966b175ad65da844bf492d28bd)
-- [ ] [<code>shared/idmap: Don't change the json format</code>](https://github.com/lxc/incus/commit/c0448c11abbf1deb2bd85afe4ab43e25a39055ce)
-- [ ] [<code>shared/idmap: Document AddSafe and fix double records</code>](https://github.com/lxc/incus/commit/64afc16c2ca74f8713246e34cbf5891f88f779d8)
-- [ ] [<code>incusd: Update instance_test for shared/idmap fix</code>](https://github.com/lxc/incus/commit/fe01631b29094a6690a5656d1b8895467ca433b7)
-- [ ] [<code>incusd/instance/file: Add type and size to HEAD</code>](https://github.com/lxc/incus/commit/e6a9eaefd41c3768b07468453c8c2e1bdc5f130b)
-- [ ] [<code>shared/idmap: Fix typo in comment</code>](https://github.com/lxc/incus/commit/0fdf2f58f0c03c73ab7d7286318ae1a7250f04e2)
-- [ ] [<code>api: disk_io_bus_virtio_blk</code>](https://github.com/lxc/incus/commit/61b718d77c2a188279e617fde44608b27eaa454b)
-- [ ] [<code>doc: Add virtio-blk as option to io.bus</code>](https://github.com/lxc/incus/commit/4f20012533a10e66e1c1c3c151e96d7d8975b113)
-- [ ] [<code>incusd/device/disk: Add virtio-blk</code>](https://github.com/lxc/incus/commit/6938b423a41847016bb448d88a4af85858b0d12c)
-- [ ] [<code>incusd/instance/qemu: Add virtio-blk support</code>](https://github.com/lxc/incus/commit/f127b7aa631e7fe6304ea139ccc44f2dec71e895)
-- [ ] [<code>Move db backup functions to ClusterTx</code>](https://github.com/lxc/incus/commit/4bd84350f52f99f8ceb129414c77bf6bd35c4576)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db image functions to ClusterTx</code>](https://github.com/lxc/incus/commit/ddc05ba9efd58d7a6c88f749bfa2f0a43bc174bb)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db instance functions to ClusterTx</code>](https://github.com/lxc/incus/commit/c10f891554b86a326c25c6151e0d54eab6713d0d)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db network ACL functions to ClusterTx</code>](https://github.com/lxc/incus/commit/6fec670b8129f6d002d85141fbe8ddd4a2476121)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db network forward functions to ClusterTx</code>](https://github.com/lxc/incus/commit/458889b423dbb7f6c6411cb0ac76c0a05ee16282)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db network load balancer functions to ClusterTx</code>](https://github.com/lxc/incus/commit/e2a26912083593b18b65246cfdfdfd7a20b222af)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db network peer functions to ClusterTx</code>](https://github.com/lxc/incus/commit/1be88bedd56c580bc55c97717af3c8a6fa090efc)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db profile functions to ClusterTx</code>](https://github.com/lxc/incus/commit/f182c47f2ab1eb76909af257c536ff13dca71617)
-- [ ] [<code>Move db network zone functions to ClusterTx</code>](https://github.com/lxc/incus/commit/db6202873a8efe47a7f6f2f46a62309b0ca0a2f8)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db network functions to ClusterTx</code>](https://github.com/lxc/incus/commit/6b689bb160d4079c54de44dc330c10583e76f76f)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db snapshot functions to ClusterTx</code>](https://github.com/lxc/incus/commit/019e6c20dc6d21369e678b7a4f6f8710a274b468)
-- [ ] [<code>Move db storage bucket functions to ClusterTx</code>](https://github.com/lxc/incus/commit/37afe6d790dd112b80b0815b8766c837d7230422)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db storage pool functions to ClusterTx</code>](https://github.com/lxc/incus/commit/cf5c42d2b6127d2c7da4706a009ce05d223cc268)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db volume snapshot functions to ClusterTx</code>](https://github.com/lxc/incus/commit/45d76977e5ddff0c894a174c532aaaf8878981ea)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db storage volume functions to ClusterTx</code>](https://github.com/lxc/incus/commit/66adc717447664555cfe30b11a8e3e8fa63c21a8)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Move db warning functions to ClusterTx</code>](https://github.com/lxc/incus/commit/e48ba1e35cb5a675212b351538e28fb14b49fc8f)
-- [ ] [<code>cmd/incusd: Fix bulk unfreezing</code>](https://github.com/lxc/incus/commit/7b2b874081c5fd75d3c96d210b412ffdf9497172)
-- [ ] [<code>cmd/incus: Add `resume` command</code>](https://github.com/lxc/incus/commit/63bbb3b6b724eca6dac25705507c527f8b859d1d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translations</code>](https://github.com/lxc/incus/commit/48670540176057d0f98d33ce2bf33d8402b6339e)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd/loki: Replace complex backoff with simple loop</code>](https://github.com/lxc/incus/commit/f5e6022803a71d0dbce8213e4489c1366d812886)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/700a71bbd80b830233921c5237f60aca7bafba9b)
-- [ ] [<code>incus-agent: Handle built-in vsock module</code>](https://github.com/lxc/incus/commit/c3172b748e0eba8cfd4e959a14bc609a14fa5ac7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d941635791d1e1471b0e4ca09d58486d98aaf926)
-- [ ] [<code>README: Re-introduce weblate</code>](https://github.com/lxc/incus/commit/f6f3894d38816a98b365fa03c9692b4794418bd7)
-- [ ] [<code>incusd/network/acl: Avoid nested DB transactions</code>](https://github.com/lxc/incus/commit/adac412e922053b0e24c2cf67face86293b9d023)
-- [ ] [<code>incusd/instance/qemu: Start using seabios as CSM firmware</code>](https://github.com/lxc/incus/commit/1fcae668f6f000c2f44c9a9d76a6f8e80897d418)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>incusd/forknet: Handle wifi detach</code>](https://github.com/lxc/incus/commit/61a7f3237527ac8736ed3267c8e237da4174ed34)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>doc/CONTRIBUTING: Fix incorrect comamnd paths</code>](https://github.com/lxc/incus/commit/3dcb89ec54de85cae2b4b2e2b9db8c4473c70a96)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Manual update to french translation</code>](https://github.com/lxc/incus/commit/3446ab5fab8bd4d6268cffc4211cf5923235fac3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f030ba2c91ea7194ee71485f7135cde5b85757b8)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>tests: Add license check</code>](https://github.com/lxc/incus/commit/5b360a85abe27f590aea1719cee4f32868ab9f99)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Revert "Update madmin-go to support loong64"</code>](https://github.com/lxc/incus/commit/348bdfea312922e2afb0a191aae54c7dd7099fa9)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ee1db8cac8ba0a2a9b7f2fa4f11bd13ce03b00d3)
-- [ ] [<code>incusd: Correctly update event location</code>](https://github.com/lxc/incus/commit/1112c2d11e50c046bfeffc052a4b45620fb20d1b)
-- [ ] [<code>incusd/events: Upgrade to websocket as late as possible</code>](https://github.com/lxc/incus/commit/e03daf03d5b53d0988df418da6aab6dfa08c3d46)
-- [ ] [<code>api: loki_config_instance</code>](https://github.com/lxc/incus/commit/12122de1171fad61ac57e3c845d6ab8c5f01dc6b)
-- [ ] [<code>incusd/config: Add loki.instance</code>](https://github.com/lxc/incus/commit/709579863dca24b53eef990ae0309abbb6630c4d)
-- [ ] [<code>incusd/loki: Add support for overriding instance name</code>](https://github.com/lxc/incus/commit/291882e0de6ca7bb760009ce6c5caedda3c4d538)
-- [ ] [<code>incusd: Add support for loki.instance</code>](https://github.com/lxc/incus/commit/71b7717334a5338ba5553d9cc8e2281e98db5da8)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/dff47f51e98249cd56350f372ae36dcfc95481e4)
-- [ ] [<code>grafana: Add instance filters for Loki</code>](https://github.com/lxc/incus/commit/e6e92e7df13f82ff3405d1a7f17538420b25986a)
-- [ ] [<code>incusd/loki: Fix variable shadowing</code>](https://github.com/lxc/incus/commit/410085c65965afd7a1cc8d64d79be80356b9b1ff)
-- [ ] [<code>cmd/incusd/api_cluster: Join cluster transactions</code>](https://github.com/lxc/incus/commit/f1ce3bada57299363e4377630b7089cf83f4fd4d)
-- [ ] [<code>i18n: Remove empty translations</code>](https://github.com/lxc/incus/commit/a2a0e73d84eb13e185ec7933a6fc36d954b31fd3)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>api: instance_create_start</code>](https://github.com/lxc/incus/commit/a00b1aa4a713c7eb1460701ac6127c151fe72548)
-- [ ] [<code>shared/api: Add Start to InstnacesPost</code>](https://github.com/lxc/incus/commit/d85d6843ed5631660ca2375e797597174715c83f)
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/b8c293da5a3399b8b16dcd2b5875dc5b4dd5323f)
-- [ ] [<code>incusd/instance: Add support for Start property</code>](https://github.com/lxc/incus/commit/2405063803f5cc79198910014c48f4497b2ac091)
-- [ ] [<code>incus/launch: Use the Start property</code>](https://github.com/lxc/incus/commit/aa15dd4d73dd3fee6d7abf19df307051d4ebfee7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c9626e9cacc7e415a7a64b830b1b47a452128e61)
-- [ ] [<code>doc: Updates Windows install with Winget instructions</code>](https://github.com/lxc/incus/commit/23e8e2f57db1a4379a16abf15cef1533b18bdde7)
-- [ ] [<code>doc: Add Winget to wordlist</code>](https://github.com/lxc/incus/commit/7e84e9a90983988c1c2d02784af2a194d4838aae)
-- [ ] [<code>incusd/migration: Properly forward errors</code>](https://github.com/lxc/incus/commit/256400872793e89fa9b499c1e5284b68582e8806)
-- [ ] [<code>cmd/incus: Get owner mode only if `--gid` or `--uid` is unset</code>](https://github.com/lxc/incus/commit/7e5ccf22033aad6ef3715ad9686ff167f603ac15)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>cmd/incus: Add `incus file create` subcommand</code>](https://github.com/lxc/incus/commit/2f52e021ab61a8a371740910705020bf8760f803)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>test: Add tests for `incus file create`</code>](https://github.com/lxc/incus/commit/2325e194a47041e7a161482a4473e411c1f64a8d)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3391bf608e082190f4f29217e863f5c9682dac6d)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Add note about scrape_interval and update examples</code>](https://github.com/lxc/incus/commit/4134c2925f9982d90663b7b6656bb5110058f16e)
-- [ ] [<code>cmd/incus: Remove unused `flagContent` variable in `incus file create`</code>](https://github.com/lxc/incus/commit/d9bafd843c05dd2926c6a101b633c1c686d3108b)
-- [ ] [<code>build(deps): bump actions/dependency-review-action from 3 to 4</code>](https://github.com/lxc/incus/commit/107ff5d2cd8e5d89a07d0cfc967166104e00b669)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>incusd/storage_volumes: Properly target refreshes</code>](https://github.com/lxc/incus/commit/d6da61880728af5020695abd9c0201a662f12fc7)
-- [ ] [<code>incusd/storage_volumes: Use a single POST handler</code>](https://github.com/lxc/incus/commit/febdb496263a720348dd083fe4057dfb6fe59e59)
-- [ ] [<code>lxd-to-incus: Use Incus API client for LXD</code>](https://github.com/lxc/incus/commit/87a4df7ed70a916718b867b0f15e1e5aaa91d885)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Handle non-string LXD configs</code>](https://github.com/lxc/incus/commit/8424701060ec6a6894a85c90d88079b3f33b7c51)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Remove separate go package</code>](https://github.com/lxc/incus/commit/28e84bedcab43fed6b0db49be5f1a85370e0dbd3)
-- [ ] [<code>lxd-to-incus: Fix various issues</code>](https://github.com/lxc/incus/commit/40d51ac18e7c3d3ba84750338ee04e22f83ac892)
-- [ ] [<code>Makefile: Update for lxd-to-incus</code>](https://github.com/lxc/incus/commit/0f70b68660c7cf55ce9915cb8abe75c193f7fff7)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/aec187b864eabc220e040ecbdc9a89c3fc876211)
-- [ ] [<code>incus/alias: Make default aliases visible</code>](https://github.com/lxc/incus/commit/7beefdfdb17ad268c158e38c3a97077f848fd164)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus: Mention aliases in help message</code>](https://github.com/lxc/incus/commit/2b667e93168e2b42f8b7f781dbddc7fe615a93de)
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f4ea7c152b2181801667d8c32dfaafe62f15f74b)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>incus: Handle non-existent home directory</code>](https://github.com/lxc/incus/commit/36443d5cf0728c5e18a72cf517136d6bca779703)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Don't export internal functions</code>](https://github.com/lxc/incus/commit/708c1d769480ce2f30b4cbbf146acd2df7bad8e3)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>lxd-to-incus: Fix error checking</code>](https://github.com/lxc/incus/commit/4efdd12762df89d4b0800310339771ffbaa32f65)
-- [ ] [<code>lxd-to-incus: Check that casting succeeded</code>](https://github.com/lxc/incus/commit/b93d9d5fa1ddd50535488859876655902ed66943)
-- [ ] [<code>lxd-to-incus: Fix typo</code>](https://github.com/lxc/incus/commit/890a5be71d74143eeead6acc065ac4c41c09b26f)
-- [ ] [<code>lxd-to-incus: Fix variable shadowing</code>](https://github.com/lxc/incus/commit/5e0876ae7bea6ca6e41a16413fd92aed8fd1a640)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Remove spurious printf</code>](https://github.com/lxc/incus/commit/29d390daa60cde3dff78ae3b60ae2b7002225665)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Add required comments</code>](https://github.com/lxc/incus/commit/e3be2c36fe1741677c2caf0481f38335461cb4a6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>lxd-to-incus: Simplify presence checks</code>](https://github.com/lxc/incus/commit/568547c7edd342f29aad9a4d7c94b9db6697a33f)
-- [ ] [<code>lxd-to-incus: Use field names in DottedVersion</code>](https://github.com/lxc/incus/commit/37f81b1d874e3ce9c68fdccd6ff0ce40bf6cb7ee)
-- [ ] [<code>internal/util: Re-order path functions</code>](https://github.com/lxc/incus/commit/b60953583358da8a3ec0443d4c276508f3e83b29)
-- [ ] [<code>internal/util: Add RunPath</code>](https://github.com/lxc/incus/commit/b3b6770a25e9f3d39fdb14b390ebd7a4eaa48ebd)
-- [ ] [<code>incusd/sys: Add runtime directory</code>](https://github.com/lxc/incus/commit/83dae792867c8a47edf537e4564ce1a8c670ec61)
-- [ ] [<code>incusd/seccomp: Move seccomp.socket to /run</code>](https://github.com/lxc/incus/commit/4328b52427bea3342c3e52969d396b407bfbe9fd)
-- [ ] [<code>incusd/instance_logs: Drop conf files</code>](https://github.com/lxc/incus/commit/df64cc171084e5c0cab0deecd72b5d8be289f128)
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/bb304da317be6451712b050c001247a2c65b275f)
-- [ ] [<code>incusd/instance/common: Add RunPath</code>](https://github.com/lxc/incus/commit/aa4008611eeed52cb93d72d34c49a2e7cdd05725)
-- [ ] [<code>incusd/instance/lxc: Move lxc.conf</code>](https://github.com/lxc/incus/commit/6686c96dd329e72c36769935d8aaa729c3bf24d6)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd/instance/qemu: Move qemu.conf</code>](https://github.com/lxc/incus/commit/3dc11ec5b9d203301105ce553ab10aaa38a7d07a)
-- [ ] [<code>doc: Update qemu.conf path</code>](https://github.com/lxc/incus/commit/1d3c2f86709f6e283f9083f1c1bcfd04332a7210)
-- [ ] [<code>incusd/apparmor: Add runtime directory</code>](https://github.com/lxc/incus/commit/a154030f04b87ee86142a6e99a2a3e998346750f)
-- [ ] [<code>incusd/instance/utils: Cleanup runtime path</code>](https://github.com/lxc/incus/commit/70f999bea429251d9eaeaca92e74e80770644e07)
-- [ ] [<code>incusd/instance/lxc: Move files to runtime path</code>](https://github.com/lxc/incus/commit/9e4d05675a7964ef91f0bf31f30c3c725782ad6f)
-- [ ] [<code>incusd/instance/qemu: Move files to runtime path</code>](https://github.com/lxc/incus/commit/e51f2ef9341e996fa731340ccfd7d67d8008ba8f)
-- [ ] [<code>incusd/patches: Move files to runtime directory</code>](https://github.com/lxc/incus/commit/e766a6059a89def82b49293d805e14bb896ef7d1)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/instance/qemu: Move agent loader to separate files</code>](https://github.com/lxc/incus/commit/a989086991a3e4d0b3d7e33726ee030f8197298e)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>incusd/apparmor/qemu: Remove mention of userns</code>](https://github.com/lxc/incus/commit/5234509358b7c53cbe4e6c1f954029c239b28cf0)
-- [ ] [<code>incusd/instance/qemu: Make config drive name configurable</code>](https://github.com/lxc/incus/commit/9b1fda50ea3e4d34624b5b1b2fc721079623803a)
-- [ ] [<code>incusd/instance/qemu: Add new agent share</code>](https://github.com/lxc/incus/commit/9cbf532e4626cbc1c14f7a3a9745fe4aec8696ca)
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>incusd/apparmor/qemu: Allow access to agent path</code>](https://github.com/lxc/incus/commit/7d0e3c8b7f2b6d80665663582b2039c67ad777b7)
-- [ ] [<code>doc: Add INCUS_AGENT_PATH</code>](https://github.com/lxc/incus/commit/39d307be138da79cda05c0ec69bb3f97e757ebe1)
-- [ ] [<code>incusd/instance/qemu: Only expose config/agent drives over 9p</code>](https://github.com/lxc/incus/commit/967505f3d33f2f2cf29295d46c89b3de91b358e5)
-- [ ] [<code>incusd/instance/qemu/agent-loader: Remove virtiofs</code>](https://github.com/lxc/incus/commit/994a72e531aa4c4207c74c05a02a16a8f66ed206)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>doc/getting_started: Point users to installing guide</code>](https://github.com/lxc/incus/commit/d05ce80941157dd0498a91768d46691901712421)
-- [ ] [<code>doc/installing: Cleanup distro instructions</code>](https://github.com/lxc/incus/commit/0f4fa65c3f9edcf7f36400d82c0c651f13401309)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>api_cluster: Optimize db transactions</code>](https://github.com/lxc/incus/commit/0b41041615c29aa8b8026ec615ba2124949bc94b)
-- [ ] [<code>daemon_images: Optimize db transactions</code>](https://github.com/lxc/incus/commit/086030ead7eaaa5f2dd1a9df6b4caf513604f449)
-- [ ] [<code>daemon_storage: Optimize db transactions</code>](https://github.com/lxc/incus/commit/d74fe2d81dcfe9b256bdc9c1886ab0fffc79ee1c)
-- [ ] [<code>images: Optimize db transactions</code>](https://github.com/lxc/incus/commit/c5dae224f205847e14286755b1fbe3fbb576a615)
-- [ ] [<code>storage_volumes_snapshot: Optimize db transactions</code>](https://github.com/lxc/incus/commit/b7d9fc5650aeb8a18b7567eba3b71fc07688ddbf)
-- [ ] [<code>instance/drivers: Optimize db transactions</code>](https://github.com/lxc/incus/commit/1a1a635adbcba5b446048dbf2dfdb1b42d5b7964)
-- [ ] [<code>driver_ovn: Optimize db transactions</code>](https://github.com/lxc/incus/commit/82ca5860d886fdf44d0c62e89682bd05b037bc40)
-- [ ] [<code>network/acl: Optimize db transactions</code>](https://github.com/lxc/incus/commit/275cbf5994409c018269a6cacf21596308d65d21)
-- [ ] [<code>network/zone: Optimize db transactions</code>](https://github.com/lxc/incus/commit/b0bc76f87e2cacd6a10a9b93a16fe2bbf8fb1efc)
-- [ ] [<code>storage_volumes: Optimize db transactions</code>](https://github.com/lxc/incus/commit/78faceb4e65fd55c6eba1382fd1d89a1ce6fd83f)
-- [ ] [<code>incusd/instance/qemu: Add some ArchLinux EDK2 filenames</code>](https://github.com/lxc/incus/commit/d8b9a16a9cd5f797aa9cb6b2844bcb3fc7c7d9f1)
-- [ ] [<code>api_internal: Remove unreachable code</code>](https://github.com/lxc/incus/commit/b4670f7eb20e22d4200af4efa6f4a4c225eb4a4e)
-- [ ] [<code>doc/installing: Add Void Linux</code>](https://github.com/lxc/incus/commit/39b49f4c16f66f50153352b1d53c42315a977800)
-- [ ] [<code>internal/instance: Don't use the node terminology</code>](https://github.com/lxc/incus/commit/d740db9fe4b30ee67173997b614003047bbeb227)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/7ae0cdcdab4200b59d68f6cc60f3abaf6ee094ca)
-- [ ] [<code>api: clustering_evacuation_stop_options</code>](https://github.com/lxc/incus/commit/47938943458ddca45309f8cbf18bd3bf8530bbf9)
-- [ ] [<code>internal/instance: Extend cluster.evacuate</code>](https://github.com/lxc/incus/commit/a7b5477ca4ac1e003554b3f13d09cc03e58dd5a3)
-- [ ] [<code>incusd/cluster: Add evacuation mode validation</code>](https://github.com/lxc/incus/commit/d7f01f1a5aa7ccb5c026a2127d4ccc1c14f65ff5)
-- [ ] [<code>incusd/instance: Use a string for CanMigrate</code>](https://github.com/lxc/incus/commit/75815ac4b58a0d6e9276b56565498370fefd1d27)
-- [ ] [<code>incusd/cluster: Update for CanMigrate</code>](https://github.com/lxc/incus/commit/e46c8089e3aa3b4c322352d1037b4df6aa5fdd09)
-- [ ] [<code>incusd/cluster: Add stateful-stop and force-stop</code>](https://github.com/lxc/incus/commit/d8494319892f1e928ceeecbb6a6c1109387f1f10)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/79cb8cdea516c42df47845bd3cd7f4e02ba44ca7)
-- [ ] [<code>api: boot_host_shutdown_action</code>](https://github.com/lxc/incus/commit/040ead1389163c86a2a448d19779ecc98f18d629)
-- [ ] [<code>internal/instance: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/8fe56fbb6c76d8b8efa66e73bda48c7d757a1e16)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/b72b5830d30d236b4253e6b5833f01aadd560914)
-- [ ] [<code>scripts/bash: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/210ac67a0b1343f79fa0e16cdc7344bf498da72c)
-- [ ] [<code>incusd/project: Add boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/50aad2c40e7febe5292dba78be51c73e6fc8e524)
-- [ ] [<code>incusd/instances: Add support for boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/ac2555e02fe8cfbcccdd9d5cffb3e284e877d71d)
-- [ ] [<code>incusd/instance: Fallback to stateless start when no state available</code>](https://github.com/lxc/incus/commit/bebcc75634d1807bc221f02eec59495bdfdd0229)
-- [ ] [<code>internal/archive: Fix squashfs error handling</code>](https://github.com/lxc/incus/commit/bd9ec23d6903bb3eac992a15a23f5faac5e8fc9f)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/b72d58442637043adc455c4bb66ba421c4249d1b)
-- [ ] [<code>Release Incus 0.5</code>](https://github.com/lxc/incus/commit/62afb568bb7c3fb4b6c835a94fa590c48215b97f)
-  - <sub>Tags: <code>v0.5.0</code></sub>
-- [ ] [<code>incus/action: Fix resume</code>](https://github.com/lxc/incus/commit/94cb8c3a4a45e86e1ff660dc5c03f160c9d7d0ac)
-- [ ] [<code>doc: Remove net_prio</code>](https://github.com/lxc/incus/commit/ab45066c0eeec8c690774f0dd286769cba77398f)
-- [ ] [<code>incusd/cgroup: Fully remove net_prio</code>](https://github.com/lxc/incus/commit/21e042cc2990f98af2f9c2820d8cf6499c48848a)
-- [ ] [<code>incusd/warningtype: Remove net_prio</code>](https://github.com/lxc/incus/commit/28e2bfff284733990a9105b75a71c9815db27b06)
-- [ ] [<code>incusd/cgroup: Look for full cgroup controllers list at the root</code>](https://github.com/lxc/incus/commit/08bf969f99efdaa3695e4163ad886a540af3a85e)
-- [ ] [<code>incusd/dns: Serialize DNS queries</code>](https://github.com/lxc/incus/commit/94cd06812fe37be908ab3e49389a335ed457f88f)
-- [ ] [<code>incusd/network: Optimize UsedByInstanceDevices</code>](https://github.com/lxc/incus/commit/8d7b2f720542567eaab45356265ec65e13814b6c)
-- [ ] [<code>incusd/backups: Simplify missing backup errors</code>](https://github.com/lxc/incus/commit/d86b5c974faa12b08d80312a39a52602464b75ba)
-- [ ] [<code>tests: Update for current backup errors</code>](https://github.com/lxc/incus/commit/b6aa86b5267990c61d7166fedc42ea58f8b45753)
-- [ ] [<code>incusd/cluster: Optimize ConnectIfInstanceIsRemote</code>](https://github.com/lxc/incus/commit/de094b24bbde7731771b0f56dc2bdee138a0c565)
-- [ ] [<code>incusd/instance/qemu/agent-loader: Fix to work with busybox</code>](https://github.com/lxc/incus/commit/3573e532cdf6de3e1b3f62b7f12564a59ae3a6b7)
-- [ ] [<code>doc/installing.md: add a gentoo-wiki link under Gentoo section</code>](https://github.com/lxc/incus/commit/164caf652ca0e13ea68cf4b25f6e836b016bf37c)
-- [ ] [<code>incusd/device/disk: Better cleanup cloud-init ISO</code>](https://github.com/lxc/incus/commit/9ac91a48e541ef0834b0d9a92461f432b07fc050)
-- [ ] [<code>incusd/instance/qemu/qmp: Add Eject command</code>](https://github.com/lxc/incus/commit/0e9fc6126ef3b3eb2280c09c08b8b5588a51a9f6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/instance/qemu/qmp: Handle eject requests</code>](https://github.com/lxc/incus/commit/e831708d00f913730c864f9faf901c35d40026a4)
-- [ ] [<code>api: agent_config_drive</code>](https://github.com/lxc/incus/commit/d56c0f987ff3e89301dc5d0254ba0130f1be04e2)
-- [ ] [<code>doc/devices/disk: Add agent:config drive</code>](https://github.com/lxc/incus/commit/a61e9b47c501f19bb87e047c4253c680547fdace)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/device/disk: Add agent config drive</code>](https://github.com/lxc/incus/commit/23317d0cf04b15a4078eea7ad2d648559e3b5c74)
-  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>incusd/project: Add support for agent config drive</code>](https://github.com/lxc/incus/commit/afbb56ceebef6976c7f28ad1d54d9b6923e02278)
-- [ ] [<code>incusd/instance/qemu/agent-loader: Handle agent drive</code>](https://github.com/lxc/incus/commit/70dc7246def791bf775919bfcb8f21c434183b68)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>incusd/db/warningtype: gofmt</code>](https://github.com/lxc/incus/commit/5152523ade68334fe9fc0805e4cfb22f4b28e837)
-- [ ] [<code>incusd/loki: Sort lifecycle context keys</code>](https://github.com/lxc/incus/commit/243ee1939c959bd7f3f615b4b8273b9ed1307b57)
-- [ ] [<code>incusd/instance/qemu/agent-loader: Don't hardcode paths</code>](https://github.com/lxc/incus/commit/16da77bf9674f06fcefaab6dad64f0a780bda61b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>incusd/cluster: Fix evacuation of stopped instances</code>](https://github.com/lxc/incus/commit/48920a1c8cd0958459130d76b9afbd0dab5a6506)
-- [ ] [<code>Release Incus 0.5.1</code>](https://github.com/lxc/incus/commit/017e426e9e388974489441873560465748904fe6)
-  - <sub>Tags: <code>v0.5.1</code></sub>
-- [ ] [<code>incusd/instance/qemu/qmp: Don't risk blocking QMP on eject</code>](https://github.com/lxc/incus/commit/add57027531b82a14db51917828692460c9ebf91)
-- [ ] [<code>github: Switch to minio deb and pin working version</code>](https://github.com/lxc/incus/commit/ff596f2c02a855f9bdb836b0f15fa8f11a8d904e)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: Use stable MicroCeph</code>](https://github.com/lxc/incus/commit/85d8a0f722cc224625f7c443315179076588e2d3)
-- [ ] [<code>incusd/db: Fix error handling in CreateNetworkPeer</code>](https://github.com/lxc/incus/commit/bfdd69289eaae5e0562830116d1e67b5d173eaa9)
-- [ ] [<code>incusd/apparmor: Allow more mounts in unprivileged containers</code>](https://github.com/lxc/incus/commit/02bd1a7490becf3e774c1cbe92cc5fd2b7c466f8)
-- [ ] [<code>incusd/instance/qemu/agent-loader: Handle legacy lxd-agent-loader</code>](https://github.com/lxc/incus/commit/aebcd59a3400f255aa9da97d271ec4c2b9ba4eb2)
-- [ ] [<code>incusd/device/disk: Use genisoimage when mkisofs can't be found</code>](https://github.com/lxc/incus/commit/8060e1e70aeb8771e0998f78ca5e6a4c817590d1)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>shared/api: Add example of Chassis in NetworkStateOVN</code>](https://github.com/lxc/incus/commit/81d6b59973c4de4f6276419e3823c7217a90725a)
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d76b24db33a9824fbf1cc34853e2eebbe0a59ca5)
-- [ ] [<code>api: network_state_ovn_lr</code>](https://github.com/lxc/incus/commit/157e59f06ede741fadcde0b658628603dc82fac7)
-- [ ] [<code>shared/api: Add LogicalRouter field to NetworkStateOVN</code>](https://github.com/lxc/incus/commit/70a243eb7657424152afc6c876ab7782bf2ea178)
-- [ ] [<code>incusd/network/ovn: Expose LogicalRouter name</code>](https://github.com/lxc/incus/commit/ff05054a7e4aaf71dd757b5b3d8fbaed3220903c)
-- [ ] [<code>incus: Add OVN logical router name</code>](https://github.com/lxc/incus/commit/717f1e298dd7036e1fa1e90f8e6f2ac15f184f9b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ac928135fed5ed877c2c2f9af12b46881e1c20a5)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ea39f32964cfa74a3fd1ccb3fc9bf295d16b0d76)
-- [ ] [<code>scripts/bash: Don't follow aliases</code>](https://github.com/lxc/incus/commit/f25226d385a4ada9b75359abeb371c6a7566762f)
-- [ ] [<code>test: Adapt test_database_no_disk_space() to newer libraft versions</code>](https://github.com/lxc/incus/commit/6c5b52aa3607ca8c37004ebfaeb8ba1b219d462a)
-- [ ] [<code>incus/launch: Fix --console</code>](https://github.com/lxc/incus/commit/30d5708262080e29b6d8d065cc55b2e4450ed54e)
-  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4548,6 +4193,10 @@
 - [ ] [<code>Migrate `makeStyles` to MUI v5 (#330)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/58e02d6dff9f1e893b9fe0cfd0b1febfaa747224)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update deprecated resource definitions (#331)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d8d393cdf648475a4d5791f919ff60382e31b5f0)
+- [ ] [<code>Remove unused Menu.js</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9f03ec9b0f62afa1b3ef9a0eb551d43e6672147f)
+- [ ] [<code>Upgrade to React-Admin 4 (#332)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b70ee7c55d7f35cc04e9bff147f12e0985d84316)
+- [ ] [<code>Bump version to 0.9.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ba4345be1e887daaba2049bcd3a3f0b908f237d7)
+  - <sub>Tags: <code>0.9.0</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
