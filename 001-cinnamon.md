@@ -16,6 +16,7 @@
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
 - [ ] [<code>network: Fix warning about missing cast to GtkWidget* (#324)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0361ff2974eb4741f3cd8b6db00dbe1ab56c8a59)
+- [ ] [<code>cc-display-arrangement.c: Fix monitor numbering in the layout view.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/47c94e4376242c4f6b40e57afcc2de394daf8b4a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
@@ -107,9 +108,12 @@
 - [ ] [<code>nemo-action.c: Add Locations and Files fields.</code>](https://github.com/linuxmint/nemo/commit/7be3fbfcd6857c595868090aca9bce0dba9df1a8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Make wayland dependency optional (#3347)</code>](https://github.com/linuxmint/nemo/commit/3fc6c6ed9267c7b44765a7950ffa6729ad751cc7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-action.c: Allow absolute path pattern matching for File and</code>](https://github.com/linuxmint/nemo/commit/2e392a0c886235fc80e8b5acfde68d4f05651318)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>all: Stop using g_slice, fix a leak and remove an obsolete</code>](https://github.com/linuxmint/nemo/commit/981c9ed2f155da2c8803da510ad81a2a8911e4e4)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
