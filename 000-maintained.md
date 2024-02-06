@@ -2170,6 +2170,8 @@
 - [ ] [<code>dbeaver/pro#2283 fix incorrect prompt conditions & save settings (#22690)</code>](https://github.com/dbeaver/dbeaver/commit/e050239876ff4568285f35dfb7279c2011fbc09e)
 - [ ] [<code>Rename MySQL 5 into MySQL Legacy</code>](https://github.com/dbeaver/dbeaver/commit/93ac11ce033530d1016f82b367e7f3f4209d6511)
 - [ ] [<code>#22705 Wait for jobs to finish in the dialog's runnable context (#22712)</code>](https://github.com/dbeaver/dbeaver/commit/c796fb12b4cc7c28503c4e1ff5fdff297997f2d1)
+- [ ] [<code>Oracle dialect fix</code>](https://github.com/dbeaver/dbeaver/commit/3ac7fa0c5b0f4978d73b0728c2453b32bd3f6610)
+- [ ] [<code>Window title customnization</code>](https://github.com/dbeaver/dbeaver/commit/ec9495d8d21ccab277cd15fde70d13ae6b0c29f5)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3825,6 +3827,7 @@
 - [ ] [<code>test/lib/heap: remove homebrew leak check.</code>](https://github.com/canonical/raft/commit/4f98e3229c87438b98ee937ba0020095249033e1)
 - [ ] [<code>test/lib/heap: fix munit comparison type.</code>](https://github.com/canonical/raft/commit/be6b3266957fc02aa7c64c2d33012922c46988a9)
 - [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/raft/commit/0e3396bdac975e20d554718dcd8bb5d808d45447)
+- [ ] [<code>github: Update package name</code>](https://github.com/canonical/raft/commit/9aec00c272760117aab86a67b4d0ce1a5a0a75c7)
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.19.1 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.19.1...HEAD)
 
@@ -4143,6 +4146,29 @@
 - [ ] [<code>replication: Apply configuration changes eagerly upon receiving them</code>](https://github.com/cowsql/raft/commit/328796c8577bc2e5fb2a6c2dbf79fe776fbd7d1d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>replication: Apply configuration changes eagerly upon receiving them (#167)</code>](https://github.com/cowsql/raft/commit/0d0f5092327d43a08c1c252e68051ee7222c44d2)
+- [ ] [<code>recv: Use return value instead of pointer in recvEnsureMatchingTerms</code>](https://github.com/cowsql/raft/commit/f0644491a6abd910f2f4a4b235df56561862e387)
+- [ ] [<code>recv: Use return value instead of pointer in recvCheckMatchingTerms</code>](https://github.com/cowsql/raft/commit/af4b5cb5f7866f882c32c09875a2f0c257058815)
+- [ ] [<code>recv: recvUpdateLeader can only fail with RAFT_NOMEM</code>](https://github.com/cowsql/raft/commit/edcfa6521f35077db436b77e28b0216cb79e61c2)
+- [ ] [<code>recv: Unnecessary assign of last_log_index of AppendEntries result</code>](https://github.com/cowsql/raft/commit/f5db668ec511e0a508873a5787123db28a6943bb)
+- [ ] [<code>recv: Replace unnecessary *reject assignment with assertion</code>](https://github.com/cowsql/raft/commit/b346b73334b97c9f39b331dda9812b91dadb812e)
+- [ ] [<code>replication: Assert prevLogTerm is not zero if prevLogIndex is set</code>](https://github.com/cowsql/raft/commit/655a3a5d427b0ba17fcc9cd73f4b15dfd8d7904f)
+- [ ] [<code>replication: Add assertions for error values of replicationAppend()</code>](https://github.com/cowsql/raft/commit/78da1cdcba4fa02c6ae036171684b6e766217649)
+- [ ] [<code>replication: Return truncation point in deleteConflictingEntries()</code>](https://github.com/cowsql/raft/commit/5f6659a4a1b12e25b4378e9dd5df1592de409976)
+- [ ] [<code>replication: Extract checking logic from deleteConflictingEntries</code>](https://github.com/cowsql/raft/commit/e0fd7f303cba164e216c47eb3486958a5508cfbf)
+- [ ] [<code>replication: Don't ack entries that did not pass log matching check</code>](https://github.com/cowsql/raft/commit/446f8d2123d1b93483f75630d3b72851a2fffdb4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>legacy: Drop unnecessary check of cancelled persist entries index</code>](https://github.com/cowsql/raft/commit/6323a6358528222c6ff810b4ae744907429363d6)
+- [ ] [<code>legacy: Don't fire RAFT_PERSISTED_ENTRIES for truncated entries</code>](https://github.com/cowsql/raft/commit/525aba2c4aef760d012075ac507500b297ebff81)
+- [ ] [<code>replication: Assert only valid entries are notified in persist evt</code>](https://github.com/cowsql/raft/commit/9ade6fac923ee41fccdcf90a747260532a54da7b)
+- [ ] [<code>replication: Drop unnecessary checking for persisted entries</code>](https://github.com/cowsql/raft/commit/255bedf514ba9c325dae2c15079a4ed74481b4c2)
+- [ ] [<code>replication: Remove redundant check of r->snapshot.installing</code>](https://github.com/cowsql/raft/commit/b33ae33599945cac90ac6285a62820425d1e4f39)
+- [ ] [<code>replication: Assert that persist events always have entries > 0</code>](https://github.com/cowsql/raft/commit/5eac6540b89593e7dcb581b827cda389b7e5ed06)
+- [ ] [<code>replication: Drop entries argument from persist handlers</code>](https://github.com/cowsql/raft/commit/7dd3f0848c39101da4432e348ecf15ceac86987e)
+- [ ] [<code>replication: Assert that persisted entries are still in the log</code>](https://github.com/cowsql/raft/commit/35d96b3f8124e2eae8c51d690913a5014e4b48e1)
+- [ ] [<code>raft: Use local trail instead of entries data for persist messages</code>](https://github.com/cowsql/raft/commit/ab72eb16e641c0e19990329c68227bb083cf814d)
+- [ ] [<code>v1: Drop batch field from RAFT_PERSISTED_ENTRIES event</code>](https://github.com/cowsql/raft/commit/7076263f125a119aff9443409a029a8362125b3d)
+- [ ] [<code>v1: Drop n field from RAFT_PERSISTED_ENTRIES</code>](https://github.com/cowsql/raft/commit/61d6e09bac6114be02e32970c62e39f1ec73843e)
+- [ ] [<code>v1: Drop entries from persisted entries event (#168)</code>](https://github.com/cowsql/raft/commit/fbd91732e560d70c9bd1c26d281b7c35355185df)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4198,6 +4224,12 @@
 - [ ] [<code>Upgrade to React-Admin 4 (#332)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b70ee7c55d7f35cc04e9bff147f12e0985d84316)
 - [ ] [<code>Bump version to 0.9.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ba4345be1e887daaba2049bcd3a3f0b908f237d7)
   - <sub>Tags: <code>0.9.0</code></sub>
+- [ ] [<code>Use icon as loading spinner in login page</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6363e3d32ef1275315e80d634764a82759718b90)
+- [ ] [<code>Replace `Fragment` with short form</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/51def5775dc8ffc97686f590438671ec4d946069)
+- [ ] [<code>Update dataProvider hooks</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a222af273fbd3b33176437646de5b0069197b4ea)
+- [ ] [<code>Simplify filters</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/78d1d34a843fd2dd6c974b7646a8c0bdc5b136e8)
+- [ ] [<code>Remove/mark unused parameters</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/af453eea71edccd6cd1905d8f06d6cccadd1a465)
+- [ ] [<code>Export resources as objects</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d520c6d61852171b0aea2a39fc306a8f6cb9763e)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
