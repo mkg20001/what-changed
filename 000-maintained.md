@@ -2948,6 +2948,7 @@
 - [ ] [<code>Add link to wiki in README.md (#1985)</code>](https://github.com/AOMediaCodec/libavif/commit/850d4982c4a9f43e8189f17b3a0f790ea93fa7cc)
 - [ ] [<code>Reduce imageSizeLimit for SharpYUV in fuzzreadimg (#1989)</code>](https://github.com/AOMediaCodec/libavif/commit/a14909ab00a47b5a7867db42ed146136566797ad)
 - [ ] [<code>Remove duplicate bug in CHANGELOG.md (#1990)</code>](https://github.com/AOMediaCodec/libavif/commit/3ead1f3e99112871af0c52d4dc57a144d662b8cd)
+- [ ] [<code>Revert "Simpler itemID finding for alpha. (#1967)" (#1993)</code>](https://github.com/AOMediaCodec/libavif/commit/2790a811a2c5a688f633f4e1431d02507425e355)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
