@@ -2172,6 +2172,17 @@
 - [ ] [<code>#22705 Wait for jobs to finish in the dialog's runnable context (#22712)</code>](https://github.com/dbeaver/dbeaver/commit/c796fb12b4cc7c28503c4e1ff5fdff297997f2d1)
 - [ ] [<code>Oracle dialect fix</code>](https://github.com/dbeaver/dbeaver/commit/3ac7fa0c5b0f4978d73b0728c2453b32bd3f6610)
 - [ ] [<code>Window title customnization</code>](https://github.com/dbeaver/dbeaver/commit/ec9495d8d21ccab277cd15fde70d13ae6b0c29f5)
+- [ ] [<code>Dbeaver/pro#2403 gs auth model (#22682)</code>](https://github.com/dbeaver/dbeaver/commit/8dcaf89a82aeac9bb1a0a7ac9c37ef14dcab88b9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#22641 Fix keywords highlighting and schema name in conditions highlighting (#22661)</code>](https://github.com/dbeaver/dbeaver/commit/088118686e7a7467617259ba3c44854cb2f67f14)
+- [ ] [<code>dbeaver/pro#2420 update mariaDB version to 3.3.2 (#22689)</code>](https://github.com/dbeaver/dbeaver/commit/7ae18c0c588aa9f932981ff711d51eb38652ef13)
+- [ ] [<code>#22686 check replace/insert methods existing before data transfer (#22711)</code>](https://github.com/dbeaver/dbeaver/commit/12ebe64ad8db1e297f8d6e7d4f566500f50adee5)
+- [ ] [<code>#22552 Show query segment instead of question marks in the outline view (#22719)</code>](https://github.com/dbeaver/dbeaver/commit/27b9f6a3c66e66d6a143ff189bbfa2895c9b0d6f)
+- [ ] [<code>Improve and french translations (#22646)</code>](https://github.com/dbeaver/dbeaver/commit/f6a4c3d3d4659a97ae1c500060400659e433f268)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#22721 Idle connection config + UI (#22725)</code>](https://github.com/dbeaver/dbeaver/commit/84ada10850b418b2ee1b8d3914ddb59985c4f9d3)
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/0deb56f8a0b16f7e9d8c73d0fb62120a5b3d186b)
+- [ ] [<code>dbeaver/dbeaver#22553 Fix All dashboards are closed, but the background task of dashboard update is still working (#22590)</code>](https://github.com/dbeaver/dbeaver/commit/60ded612dd6431ce6b60c3622a4ffffcd1066572)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2218,6 +2229,12 @@
 - [ ] [<code>Revert "build(deps): bump codecov/codecov-action from 3 to 4"</code>](https://github.com/canonical/dqlite/commit/a4a446c2481172421ffd29377d01ffaef19c9904)
 - [ ] [<code>Release v1.16.1</code>](https://github.com/canonical/dqlite/commit/71562ee9897634606ac5a21921dc368aac97cb91)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>conn: Fix interrupt requests.</code>](https://github.com/canonical/dqlite/commit/4991bfe0d3efab3f1ecd626a7f4d4a455971a88e)
+- [ ] [<code>test_client: Add interrupt tests.</code>](https://github.com/canonical/dqlite/commit/9d889093ff4f193cf719d3d0083394c9b2b72a1e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>transport: Allow multiple pending writes on a transport.</code>](https://github.com/canonical/dqlite/commit/9e146af7fd4eda38575a68c27c9aa9b28d957602)
+- [ ] [<code>gateway: Don't crash a server due to misbehaving client.</code>](https://github.com/canonical/dqlite/commit/155dd9e3a7b4c675e773ba8e0eea3299ba3b4a0f)
+- [ ] [<code>conn: Abort conn_write_cb when connection is closing.</code>](https://github.com/canonical/dqlite/commit/0976158c30aa6c75aae79604c5fbaadccf3f98c6)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3658,6 +3675,7 @@
 - [ ] [<code>cli:utils: introduce systemctl_is_installed helper</code>](https://github.com/canonical/netplan/commit/c37a223b6ad95fd3ef80e67691c91e9e552a8dba)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Update ovs.py to check if ovsdb-server.service is installed before throwing an error</code>](https://github.com/canonical/netplan/commit/05937c4adb0161b8302a0a2479aba05265098fbf)
+- [ ] [<code>Lang. & formatting fixes in API docs.</code>](https://github.com/canonical/netplan/commit/c2b5ec03cb4348aa5c9c1cf94e8d7fb15b3e724d)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4169,6 +4187,16 @@
 - [ ] [<code>v1: Drop batch field from RAFT_PERSISTED_ENTRIES event</code>](https://github.com/cowsql/raft/commit/7076263f125a119aff9443409a029a8362125b3d)
 - [ ] [<code>v1: Drop n field from RAFT_PERSISTED_ENTRIES</code>](https://github.com/cowsql/raft/commit/61d6e09bac6114be02e32970c62e39f1ec73843e)
 - [ ] [<code>v1: Drop entries from persisted entries event (#168)</code>](https://github.com/cowsql/raft/commit/fbd91732e560d70c9bd1c26d281b7c35355185df)
+- [ ] [<code>v1: Drop chunk field from RAFT_PERSISTED_SNAPSHOT</code>](https://github.com/cowsql/raft/commit/0a7c8efcf4298d3841b6c34528980603d378da23)
+- [ ] [<code>replication: State is follower or leader upon RAFT_PERSISTED_ENTRIES</code>](https://github.com/cowsql/raft/commit/0ccba8b2ee3188485482c371f6def43cef83cfe3)
+- [ ] [<code>replication: Don't ignore snapshot if local term is higher</code>](https://github.com/cowsql/raft/commit/af243f8172389497312906ebc291c8b1c2805233)
+- [ ] [<code>replication: Don't return an error if installing a snapshot</code>](https://github.com/cowsql/raft/commit/cfaff7f449eec076d5e5f2fa46457fd60a69378a)
+- [ ] [<code>client: Check match index not next index for leadership transfer</code>](https://github.com/cowsql/raft/commit/458be3d2931cc3c4f4c329b3672294c0e0ebcf4e)
+- [ ] [<code>recv: Reject TimeoutNow if persisting entries or snapshot</code>](https://github.com/cowsql/raft/commit/be9065fae50fb0be17ab5160ab82ba07cc07d487)
+- [ ] [<code>recv: Don't reply to InstallSnapshot wiht unpersisted indexes</code>](https://github.com/cowsql/raft/commit/e514f78fc9daea464e3ee31e6772c3ba7516128e)
+- [ ] [<code>legacy: Add snapshot_install to track inflight snapshot installs</code>](https://github.com/cowsql/raft/commit/76c6257634cd53ab7582810391838313f49dd245)
+- [ ] [<code>v1: Don't fire RAFT_PERSISTED_ENTRIES when installing a snapshot.</code>](https://github.com/cowsql/raft/commit/8ce8c1d72b86743b67c3f055eb0eaedc10e9fcee)
+- [ ] [<code>replication: Wait for snapshot before truncation (#169)</code>](https://github.com/cowsql/raft/commit/cc30f15e1c6b0f31d2d1b7fc2cd426f02a271052)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4242,6 +4270,22 @@
 - [ ] [<code>Refactor RoomDirectory</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/00ecb29d6bdc11972a8df548cb5c1365784d2637)
 - [ ] [<code>Refactor media</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/76ef017244e397dfc96d5bbe6a57dfdb51d9abc8)
 - [ ] [<code>Use new API of dataProvider</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3adc6b4663ec741176389f6ecb70112bc7d058e3)
+- [ ] [<code>Update links to Synapse in README.md (#458)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3cd0aa4446dc8a937ccfe4c010db73a1de601788)
+- [ ] [<code>Set "requireAuth" for all pages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3fe0e9506917ed287e9c0c89542cf3b95bd0dc24)
+- [ ] [<code>Fix AvatarField</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5b8882bd805e5558a72b46abe17d77600f1ad8b0)
+- [ ] [<code>Extract helper functions from LoginPage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/64a89f6552007e308732458d3c819af4e8e0650b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Upgrade react to v18</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/82155c23a1e15d13a0207db2ad483bb82420e289)
+- [ ] [<code>Upgrade packages to latest version</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ac843b324401fd2ad069127b8b2d5d7e346c36fa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Rename all JSX files to have proper file extension</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2afc7aeca45f121c5feccf7be94f0480799858eb)
+- [ ] [<code>Bump follow-redirects from 1.14.8 to 1.15.5 (#450)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/df874321575244558d42ec226678cdae41191aa8)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.4.3 to 4.5.0 (#457)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/384bc6553cd5eed7c3a3e63696c5c9e0413c0378)
+- [ ] [<code>Bump @mui/styles from 5.15.7 to 5.15.8 (#463)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3a34c0350906b5923f8ec1df2dc9af6fb2887e6a)
+- [ ] [<code>Show topic in room basic view</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3116b4e07aa7ba81ce3c545b3bbb4664c295412d)
+- [ ] [<code>Allow deletion of event reports (#462)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9d26a1ce3a2d45818f899401b86f4fefa4719fd1)
+- [ ] [<code>Simplify DeviceRemoveButton</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/abc677dc16a0e5fb96100e0bbdacf91bd4a48aa0)
+- [ ] [<code>Fix update in dataProvider</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8688ab7d0e190f4de6d581ada200f35b0975024f)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
