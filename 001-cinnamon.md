@@ -17,7 +17,7 @@
 
 - [ ] [<code>network: Fix warning about missing cast to GtkWidget* (#324)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0361ff2974eb4741f3cd8b6db00dbe1ab56c8a59)
 - [ ] [<code>cc-display-arrangement.c: Fix monitor numbering in the layout view.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/47c94e4376242c4f6b40e57afcc2de394daf8b4a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -32,7 +32,7 @@
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-menus/commit/5f899c375f77f5c41f98a18937dc5adb9d5a241a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.3...HEAD)
 
