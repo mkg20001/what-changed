@@ -4230,6 +4230,18 @@
 - [ ] [<code>Simplify filters</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/78d1d34a843fd2dd6c974b7646a8c0bdc5b136e8)
 - [ ] [<code>Remove/mark unused parameters</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/af453eea71edccd6cd1905d8f06d6cccadd1a465)
 - [ ] [<code>Export resources as objects</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d520c6d61852171b0aea2a39fc306a8f6cb9763e)
+- [ ] [<code>Fix translation of device_id in EventReport</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/691969e1a1378da502a8eedabc93c13ed0a2a90a)
+- [ ] [<code>Replace "onFailure" with "onError"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1eb787fd9b17b17f5fc0716efbb56251b2297d3b)
+- [ ] [<code>Rename currentSort to sort</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/155e73b9c6782a8522055c038312201c689a1e71)
+- [ ] [<code>Update pagination</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/005abfb4a23ec0cd76c7c3ef095e21d8cb365ebf)
+- [ ] [<code>Change unselectAll syntax</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/82578c657013d80ebdfe8e638f51e1926afb116e)
+- [ ] [<code>Move Toolbar's alwaysEnableSaveButton into SaveButton</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2c769c309e4eef29337f271c6eef356c319e6992)
+- [ ] [<code>Move redirect from SimpleForm to Create</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b8a0b4bef547603b4368d213567cb7b1686d2ee5)
+- [ ] [<code>Rename save to onSubmit in SimpleForm</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6430aca02b07b7d1dfe39277626acbd680975b4e)
+- [ ] [<code>Refactor ServerNotices</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4204eb902fa4ba41f11e042366e4116e98e35531)
+- [ ] [<code>Refactor RoomDirectory</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/00ecb29d6bdc11972a8df548cb5c1365784d2637)
+- [ ] [<code>Refactor media</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/76ef017244e397dfc96d5bbe6a57dfdb51d9abc8)
+- [ ] [<code>Use new API of dataProvider</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3adc6b4663ec741176389f6ecb70112bc7d058e3)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
