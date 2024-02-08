@@ -11,7 +11,7 @@
 - [ ] [<code>window lists: don't attention flash focused window (#12006)</code>](https://github.com/linuxmint/cinnamon/commit/a14bfc9d0e55567e2d22e2adc295128829743965)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove dynamic text direction for table (#12012)</code>](https://github.com/linuxmint/cinnamon/commit/00510760fccc5b354fa13c80d9d111fda5c07405)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
