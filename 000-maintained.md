@@ -2184,6 +2184,14 @@
 - [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/0deb56f8a0b16f7e9d8c73d0fb62120a5b3d186b)
 - [ ] [<code>dbeaver/dbeaver#22553 Fix All dashboards are closed, but the background task of dashboard update is still working (#22590)</code>](https://github.com/dbeaver/dbeaver/commit/60ded612dd6431ce6b60c3622a4ffffcd1066572)
 - [ ] [<code>dbeaver/pro#2428 Change label of checkbox to save ssh credentials (#22684)</code>](https://github.com/dbeaver/dbeaver/commit/466f2dec757126bc71689246068336642f9cd252)
+- [ ] [<code>dbeaver/pro#2190 sybase create procedure (#22740)</code>](https://github.com/dbeaver/dbeaver/commit/9e038da7af00d15afbb106312c2bd7c07f1a6633)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#22594 Remove keyword VIEWS from Snowflake (#22713)</code>](https://github.com/dbeaver/dbeaver/commit/c6380bd94c8bd0a2d253698a3c351ddc314523ce)
+- [ ] [<code>#22685 do not search objects by ID with nullable monitor (#22710)</code>](https://github.com/dbeaver/dbeaver/commit/d87b09f26c37ad9139cd43254aae1b79d2281cd3)
+- [ ] [<code>#22744 fix table types (complex attribute) searching (#22745)</code>](https://github.com/dbeaver/dbeaver/commit/dcc4004d581ba61f5fa83864f789634cd5155ddb)
+- [ ] [<code>CB-4515 fix fetching result set qm (#22756)</code>](https://github.com/dbeaver/dbeaver/commit/9ce8ea33fef5a3686600e4fdb8c653bd1bbff6d9)
+- [ ] [<code>Secret double save fix</code>](https://github.com/dbeaver/dbeaver/commit/1c7fe9f910e34994387778ce36fc48d67531ffc9)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/2cdb099c0c875c861ba5850a925aee472ac30e6c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2973,6 +2981,12 @@
 - [ ] [<code>Do not include stdint.h if inttypes.h is included</code>](https://github.com/AOMediaCodec/libavif/commit/4781419a7b7c59c095e5ce0ec8d8f47233c38f7f)
 - [ ] [<code>Pass avifStrictFlags type to BitFlagCombinationOf</code>](https://github.com/AOMediaCodec/libavif/commit/0bcc007d296f9765de25cccb30a0222cfd453ded)
 - [ ] [<code>Same size limit in read_image fuzzer as dec_incr (#1995)</code>](https://github.com/AOMediaCodec/libavif/commit/063a46195485a17e9b5136d6c6d91ea773ed48f5)
+- [ ] [<code>Update the version to 1.0.4 (devel flag on) (#1981)</code>](https://github.com/AOMediaCodec/libavif/commit/abf42ffdf4ef4c009dcb8541547965b37c0d9745)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Use libjpeg-turbo in ext/libjpeg.cmd (#1994)</code>](https://github.com/AOMediaCodec/libavif/commit/1862235aca439b753c2537f567eec8b92c239d1e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove duplicate bug in CHANGELOG.md</code>](https://github.com/AOMediaCodec/libavif/commit/8edba16953f70f82cdafd2b7fa4ff23fcc0aae1c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4304,6 +4318,9 @@
 - [ ] [<code>Simplify DeviceRemoveButton</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/abc677dc16a0e5fb96100e0bbdacf91bd4a48aa0)
 - [ ] [<code>Fix update in dataProvider</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8688ab7d0e190f4de6d581ada200f35b0975024f)
 - [ ] [<code>Disable bulkActionButtons for not needed room and user tabs (#466)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0852b54a8e464967e13b8d72a1895f7204f10b4e)
+- [ ] [<code>Bump version to 0.9.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f240318525a38634f884d76c7554519eb20a98ab)
+  - <sub>Tags: <code>0.9.1</code></sub>
+- [ ] [<code>Update RegistrationTokens.jsx: Fix resource name (#469)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/40542493594534a8df6d587018785e54fb4e07a4)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
