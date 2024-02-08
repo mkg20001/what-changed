@@ -2968,6 +2968,9 @@
 - [ ] [<code>Reduce imageSizeLimit for SharpYUV in fuzzreadimg (#1989)</code>](https://github.com/AOMediaCodec/libavif/commit/a14909ab00a47b5a7867db42ed146136566797ad)
 - [ ] [<code>Remove duplicate bug in CHANGELOG.md (#1990)</code>](https://github.com/AOMediaCodec/libavif/commit/3ead1f3e99112871af0c52d4dc57a144d662b8cd)
 - [ ] [<code>Revert "Simpler itemID finding for alpha. (#1967)" (#1993)</code>](https://github.com/AOMediaCodec/libavif/commit/2790a811a2c5a688f633f4e1431d02507425e355)
+- [ ] [<code>Update the citation of 'ipma' box requirements</code>](https://github.com/AOMediaCodec/libavif/commit/e3eaabb14f2446d84610717a0eec42a3568706d3)
+- [ ] [<code>Do not include stdint.h if inttypes.h is included</code>](https://github.com/AOMediaCodec/libavif/commit/4781419a7b7c59c095e5ce0ec8d8f47233c38f7f)
+- [ ] [<code>Pass avifStrictFlags type to BitFlagCombinationOf</code>](https://github.com/AOMediaCodec/libavif/commit/0bcc007d296f9765de25cccb30a0222cfd453ded)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4197,6 +4200,18 @@
 - [ ] [<code>legacy: Add snapshot_install to track inflight snapshot installs</code>](https://github.com/cowsql/raft/commit/76c6257634cd53ab7582810391838313f49dd245)
 - [ ] [<code>v1: Don't fire RAFT_PERSISTED_ENTRIES when installing a snapshot.</code>](https://github.com/cowsql/raft/commit/8ce8c1d72b86743b67c3f055eb0eaedc10e9fcee)
 - [ ] [<code>replication: Wait for snapshot before truncation (#169)</code>](https://github.com/cowsql/raft/commit/cc30f15e1c6b0f31d2d1b7fc2cd426f02a271052)
+- [ ] [<code>v1: Drop the "io" prefix from message type names</code>](https://github.com/cowsql/raft/commit/12a485ec474cc204cbae73b4b5376786b94ed968)
+- [ ] [<code>v1: Drop raft_log field if v0 compatibility is disabled</code>](https://github.com/cowsql/raft/commit/fc5cf3eda382bf019cd95ead3da13fa0af747a80)
+- [ ] [<code>client: Emit submit message in a standalone function</code>](https://github.com/cowsql/raft/commit/02c32049c52eb68bcd63ab2dff5a8107903ccf88)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>membership: Assert error code in membershipCanChangeConfiguration</code>](https://github.com/cowsql/raft/commit/77137a437fe1dc88a3226fd9896f5271f4490339)
+- [ ] [<code>client: The ClientSubmit function can also return RAFT_CANTCHANGE</code>](https://github.com/cowsql/raft/commit/fa58430fbf66d4ee4c98bdfae7fc12ac64ed4622)
+- [ ] [<code>client: Improve helper function names and declaration order</code>](https://github.com/cowsql/raft/commit/d244248c9d78bf6fe1896b88123452b2668abcd6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client: Check match index when looking for suitable transferees</code>](https://github.com/cowsql/raft/commit/d1f44f0ff63e97d3622086cfd2acfe47c39a51fa)
+- [ ] [<code>membership: Document errors of membershipLeadershipTransferStart</code>](https://github.com/cowsql/raft/commit/95c33a1ad07b88bc5ddeb54ca077e1cda5191c0c)
+- [ ] [<code>client: Document errors of ClientTransfer</code>](https://github.com/cowsql/raft/commit/7ae2126492433a5889ca8d2c010d19680f748beb)
+- [ ] [<code>v1: Drop the "io" prefix from message type names (#170)</code>](https://github.com/cowsql/raft/commit/1eee7ac1438d53f869460bd558d0c468d0c1bf06)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
