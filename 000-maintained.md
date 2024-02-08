@@ -2183,6 +2183,7 @@
 - [ ] [<code>dbeaver/dbeaver#22721 Idle connection config + UI (#22725)</code>](https://github.com/dbeaver/dbeaver/commit/84ada10850b418b2ee1b8d3914ddb59985c4f9d3)
 - [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/0deb56f8a0b16f7e9d8c73d0fb62120a5b3d186b)
 - [ ] [<code>dbeaver/dbeaver#22553 Fix All dashboards are closed, but the background task of dashboard update is still working (#22590)</code>](https://github.com/dbeaver/dbeaver/commit/60ded612dd6431ce6b60c3622a4ffffcd1066572)
+- [ ] [<code>dbeaver/pro#2428 Change label of checkbox to save ssh credentials (#22684)</code>](https://github.com/dbeaver/dbeaver/commit/466f2dec757126bc71689246068336642f9cd252)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2971,6 +2972,7 @@
 - [ ] [<code>Update the citation of 'ipma' box requirements</code>](https://github.com/AOMediaCodec/libavif/commit/e3eaabb14f2446d84610717a0eec42a3568706d3)
 - [ ] [<code>Do not include stdint.h if inttypes.h is included</code>](https://github.com/AOMediaCodec/libavif/commit/4781419a7b7c59c095e5ce0ec8d8f47233c38f7f)
 - [ ] [<code>Pass avifStrictFlags type to BitFlagCombinationOf</code>](https://github.com/AOMediaCodec/libavif/commit/0bcc007d296f9765de25cccb30a0222cfd453ded)
+- [ ] [<code>Same size limit in read_image fuzzer as dec_incr (#1995)</code>](https://github.com/AOMediaCodec/libavif/commit/063a46195485a17e9b5136d6c6d91ea773ed48f5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4301,6 +4303,7 @@
 - [ ] [<code>Allow deletion of event reports (#462)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9d26a1ce3a2d45818f899401b86f4fefa4719fd1)
 - [ ] [<code>Simplify DeviceRemoveButton</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/abc677dc16a0e5fb96100e0bbdacf91bd4a48aa0)
 - [ ] [<code>Fix update in dataProvider</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8688ab7d0e190f4de6d581ada200f35b0975024f)
+- [ ] [<code>Disable bulkActionButtons for not needed room and user tabs (#466)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0852b54a8e464967e13b8d72a1895f7204f10b4e)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
