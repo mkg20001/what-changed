@@ -11,13 +11,17 @@
 - [ ] [<code>window lists: don't attention flash focused window (#12006)</code>](https://github.com/linuxmint/cinnamon/commit/a14bfc9d0e55567e2d22e2adc295128829743965)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove dynamic text direction for table (#12012)</code>](https://github.com/linuxmint/cinnamon/commit/00510760fccc5b354fa13c80d9d111fda5c07405)
+- [ ] [<code>cinnamon-xlet-makepot: Don't assume xgettext calls actually</code>](https://github.com/linuxmint/cinnamon/commit/f627573ff3a2cef051bb1fb6f8206f8be43ee100)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
 - [ ] [<code>network: Fix warning about missing cast to GtkWidget* (#324)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0361ff2974eb4741f3cd8b6db00dbe1ab56c8a59)
 - [ ] [<code>cc-display-arrangement.c: Fix monitor numbering in the layout view.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/47c94e4376242c4f6b40e57afcc2de394daf8b4a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b6f5917eb595a658e7104683cde663c24e049d82)
+  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -44,6 +48,10 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>Remove orphaned include (#164)</code>](https://github.com/linuxmint/cinnamon-session/commit/37dbe7c1a302ad22c24651bdd0787f1a8374c582)
 - [ ] [<code>cinnamon-session-quit.py: Set logout window to keep-above and all-</code>](https://github.com/linuxmint/cinnamon-session/commit/bab87485cb7a4d67c1ce8bbae51efc5195c9d6d2)
+- [ ] [<code>cs-presence.c: Fix CsmPresence idle handling.</code>](https://github.com/linuxmint/cinnamon-session/commit/55e9291629cc028793e22b738214ecababe65c4b)
+- [ ] [<code>csm-manager.c: Stop the user dbus-daemon at the end of the session.</code>](https://github.com/linuxmint/cinnamon-session/commit/9961f98e63e7bb0b6d595a8064d50171f7e20695)
+- [ ] [<code>main.c: Reset the activation environment at the end of the</code>](https://github.com/linuxmint/cinnamon-session/commit/59acfe12959ab5739cff1d3a1bb9b733a62cca4c)
+- [ ] [<code>csm-manager.c: Unset WAYLAND_DISPLAY during shutdown in a wayland</code>](https://github.com/linuxmint/cinnamon-session/commit/128fe7f4be184942b16be2f1dae4cc2dee3f20fc)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
@@ -141,6 +149,8 @@
 - [ ] [<code>warpinator-launch.py: Fix hardcoded paths.</code>](https://github.com/linuxmint/warpinator/commit/1aeae3a4789ea9726cb70bdeaa93647980183abd)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>warpinator-launch.py: (bwrap) Deal with systems that use /tmp for</code>](https://github.com/linuxmint/warpinator/commit/fa0631874fe68f71d68180af76caac5ccf6717ab)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/2ba6e7c4748a90525defc391ec6cb461751a5a1c)
+- [ ] [<code>Remove restrictions on having a save directory in /run/*</code>](https://github.com/linuxmint/warpinator/commit/5c22583f5e3f24823d421691ae474bd8e2f18a25)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
