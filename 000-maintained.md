@@ -2192,6 +2192,10 @@
 - [ ] [<code>CB-4515 fix fetching result set qm (#22756)</code>](https://github.com/dbeaver/dbeaver/commit/9ce8ea33fef5a3686600e4fdb8c653bd1bbff6d9)
 - [ ] [<code>Secret double save fix</code>](https://github.com/dbeaver/dbeaver/commit/1c7fe9f910e34994387778ce36fc48d67531ffc9)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/2cdb099c0c875c861ba5850a925aee472ac30e6c)
+- [ ] [<code>CB-4498 te secrets cleanup (#22688)</code>](https://github.com/dbeaver/dbeaver/commit/9a16c5f7bcbc1ca2da15b88b807d841c0d542f94)
+- [ ] [<code>dbeaver/pro#2197 Handle encrypted project opening failure (#22665)</code>](https://github.com/dbeaver/dbeaver/commit/9e97bef4c2bcfffc3d27ae7658d1c415c3522f8d)
+- [ ] [<code>#22662 Fix syntax highlighting loss on reparse (#22727)</code>](https://github.com/dbeaver/dbeaver/commit/ec76b9a9b8648961068e54df5706ebaad24d16f9)
+- [ ] [<code>CB-4565. Added validation for hsqldb file connection (#22729)</code>](https://github.com/dbeaver/dbeaver/commit/04797151620db28de91cc096188e8e432a740479)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2244,6 +2248,8 @@
 - [ ] [<code>transport: Allow multiple pending writes on a transport.</code>](https://github.com/canonical/dqlite/commit/9e146af7fd4eda38575a68c27c9aa9b28d957602)
 - [ ] [<code>gateway: Don't crash a server due to misbehaving client.</code>](https://github.com/canonical/dqlite/commit/155dd9e3a7b4c675e773ba8e0eea3299ba3b4a0f)
 - [ ] [<code>conn: Abort conn_write_cb when connection is closing.</code>](https://github.com/canonical/dqlite/commit/0976158c30aa6c75aae79604c5fbaadccf3f98c6)
+- [ ] [<code>Revert "Merge pull request #560 from MathieuBordere/interrupt"</code>](https://github.com/canonical/dqlite/commit/ef7741e6d9872aa5d080c3e14c7a29c20633ec58)
+  - <sub>Keywords: <code>exec</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4228,6 +4234,23 @@
 - [ ] [<code>membership: Document errors of membershipLeadershipTransferStart</code>](https://github.com/cowsql/raft/commit/95c33a1ad07b88bc5ddeb54ca077e1cda5191c0c)
 - [ ] [<code>client: Document errors of ClientTransfer</code>](https://github.com/cowsql/raft/commit/7ae2126492433a5889ca8d2c010d19680f748beb)
 - [ ] [<code>v1: Drop the "io" prefix from message type names (#170)</code>](https://github.com/cowsql/raft/commit/1eee7ac1438d53f869460bd558d0c468d0c1bf06)
+- [ ] [<code>replication: Update commit index eagerly on followers</code>](https://github.com/cowsql/raft/commit/d85836b35bdebd1406087441e276afbcd1329c19)
+- [ ] [<code>membership: Assert errors in membershipUncommittedChange()</code>](https://github.com/cowsql/raft/commit/05ea1b6787b9cf4b1262f1ba2c67119d7ea50a21)
+- [ ] [<code>client: Use membershipUncommittedChange() to remove duplicate logic</code>](https://github.com/cowsql/raft/commit/002ad9c695b3ceb33f25d0116ce6546f7978effd)
+- [ ] [<code>replication: Update commit index eagerly on followers (#171)</code>](https://github.com/cowsql/raft/commit/6a458cf1143685eff84f3997e577e571b6d0f90d)
+- [ ] [<code>Release v0.22.0</code>](https://github.com/cowsql/raft/commit/801bb5ee9ef4e8c34b7d6e3fdb3b8474a57f5ec7)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v0.22.0 (#172)</code>](https://github.com/cowsql/raft/commit/1e6406f745fe5b3984dbac990974533324175a28)
+  - <sub>Tags: <code>v0.22.0</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>election: Remove electionTimerExpired() since it brings little value</code>](https://github.com/cowsql/raft/commit/82a6e03a20df43efd88ae9bc923fa278b3ba0409)
+- [ ] [<code>membership: Remove membershipFetchLastCommittedConfiguration</code>](https://github.com/cowsql/raft/commit/652dc5e454275780f218d8c181666149317d73bb)
+- [ ] [<code>test: Move snapshot_installing field to snapshot.installing subfield</code>](https://github.com/cowsql/raft/commit/d1b65be31704d2349a6d7885304ff9c8e6cef713)
+- [ ] [<code>test: Add threshold and trailing to test server snapshot sub-struct</code>](https://github.com/cowsql/raft/commit/ece66055d633e226cd0af7fcd724688e4f03a0cd)
+- [ ] [<code>test: Add setters for snapshot threshold and trailing</code>](https://github.com/cowsql/raft/commit/d2f1c5254fea5614779d73e18f31973293c36ede)
+- [ ] [<code>test: Use test server snapshot threshold and trailing values</code>](https://github.com/cowsql/raft/commit/489771714ec81836547dafd42ed06b11abeb87f5)
+- [ ] [<code>v1: Move snapshot threshold and trailing configs to legacy layer</code>](https://github.com/cowsql/raft/commit/754530f21f305c189e68e247fa6458d7a6cb6488)
+- [ ] [<code>v1: Move snapshot threshold and trailing configs to legacy layer (#173)</code>](https://github.com/cowsql/raft/commit/1dd2622793b3d715c78e88157f8ed4b1bf38fb53)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
