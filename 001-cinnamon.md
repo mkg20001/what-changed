@@ -12,8 +12,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Remove dynamic text direction for table (#12012)</code>](https://github.com/linuxmint/cinnamon/commit/00510760fccc5b354fa13c80d9d111fda5c07405)
 - [ ] [<code>cinnamon-xlet-makepot: Don't assume xgettext calls actually</code>](https://github.com/linuxmint/cinnamon/commit/f627573ff3a2cef051bb1fb6f8206f8be43ee100)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Restore polkit agent.</code>](https://github.com/linuxmint/cinnamon/commit/529d1412f116a5e382d6fa424d3aec3fd13a9299)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix lmde6 build.</code>](https://github.com/linuxmint/cinnamon/commit/c4e161470d4338cd6b99f4035f4c6bd35aa00fdd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>polkit-dialog: Clean up the styling a bit</code>](https://github.com/linuxmint/cinnamon/commit/cbb5f9c12fc3d2fb7f9bded82287872fce50eef5)
+- [ ] [<code>debian/control: Don't remove policykit-1-gnome yet.</code>](https://github.com/linuxmint/cinnamon/commit/2d4feb11d264cb1b992fb965abb0b6777e2bdea7)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
 
@@ -41,7 +47,7 @@
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.3...HEAD)
 
 
-#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.3...HEAD)
+#### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.4...HEAD)
 
 - [ ] [<code>cinnamon-session: make sure wayland sessions get a login shell (#161)</code>](https://github.com/linuxmint/cinnamon-session/commit/60fd654e186fbf6427d82c478961ac6a4331c634)
   - <sub>Files: <code>meson.build</code></sub>
@@ -153,7 +159,11 @@
 - [ ] [<code>Remove restrictions on having a save directory in /run/*</code>](https://github.com/linuxmint/warpinator/commit/5c22583f5e3f24823d421691ae474bd8e2f18a25)
 - [ ] [<code>warpinator.py: Don't inhibit the session until the transfer starts.</code>](https://github.com/linuxmint/warpinator/commit/f0cbc3b0cad3d3fb9f774eb51260c8f1a794186f)
 - [ ] [<code>remote.py: Fix a debugging line.</code>](https://github.com/linuxmint/warpinator/commit/3eb3ff994fc33a7891c79a4ce4e5090997db2677)
+- [ ] [<code>Update appdata screenshots.</code>](https://github.com/linuxmint/warpinator/commit/3db5f37a1ce279fb6b32a33ab360b82ce529773a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+- [ ] [<code>Fix test/demo mode.</code>](https://github.com/linuxmint/warpinator/commit/4f6984c2363668806d512577cd63cf5a5267a7ba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>appdata: Update to follow the latest Flathub guidelines.</code>](https://github.com/linuxmint/warpinator/commit/03b1a9497cbc58f841d7065fddfa91526c137679)
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
