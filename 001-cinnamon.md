@@ -151,6 +151,8 @@
 - [ ] [<code>warpinator-launch.py: (bwrap) Deal with systems that use /tmp for</code>](https://github.com/linuxmint/warpinator/commit/fa0631874fe68f71d68180af76caac5ccf6717ab)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/2ba6e7c4748a90525defc391ec6cb461751a5a1c)
 - [ ] [<code>Remove restrictions on having a save directory in /run/*</code>](https://github.com/linuxmint/warpinator/commit/5c22583f5e3f24823d421691ae474bd8e2f18a25)
+- [ ] [<code>warpinator.py: Don't inhibit the session until the transfer starts.</code>](https://github.com/linuxmint/warpinator/commit/f0cbc3b0cad3d3fb9f774eb51260c8f1a794186f)
+- [ ] [<code>remote.py: Fix a debugging line.</code>](https://github.com/linuxmint/warpinator/commit/3eb3ff994fc33a7891c79a4ce4e5090997db2677)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
