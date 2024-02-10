@@ -127,6 +127,7 @@
 - [ ] [<code>nemo-action.c: Allow absolute path pattern matching for File and</code>](https://github.com/linuxmint/nemo/commit/2e392a0c886235fc80e8b5acfde68d4f05651318)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>all: Stop using g_slice, fix a leak and remove an obsolete</code>](https://github.com/linuxmint/nemo/commit/981c9ed2f155da2c8803da510ad81a2a8911e4e4)
+- [ ] [<code>actions: Fix build for non-debug builds, remove a stray debug line.</code>](https://github.com/linuxmint/nemo/commit/1e41f4b5fc6eeb37472b8e52e5d5b3d2ed027da8)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
