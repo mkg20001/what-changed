@@ -160,10 +160,10 @@
 - [ ] [<code>warpinator.py: Don't inhibit the session until the transfer starts.</code>](https://github.com/linuxmint/warpinator/commit/f0cbc3b0cad3d3fb9f774eb51260c8f1a794186f)
 - [ ] [<code>remote.py: Fix a debugging line.</code>](https://github.com/linuxmint/warpinator/commit/3eb3ff994fc33a7891c79a4ce4e5090997db2677)
 - [ ] [<code>Update appdata screenshots.</code>](https://github.com/linuxmint/warpinator/commit/3db5f37a1ce279fb6b32a33ab360b82ce529773a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 - [ ] [<code>Fix test/demo mode.</code>](https://github.com/linuxmint/warpinator/commit/4f6984c2363668806d512577cd63cf5a5267a7ba)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>appdata: Update to follow the latest Flathub guidelines.</code>](https://github.com/linuxmint/warpinator/commit/03b1a9497cbc58f841d7065fddfa91526c137679)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
 
