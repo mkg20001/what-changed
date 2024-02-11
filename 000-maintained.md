@@ -4315,6 +4315,8 @@
 - [ ] [<code>readthedocs: Drop broken furo install directive</code>](https://github.com/cowsql/raft/commit/423dd70ee52800cd9e123f8e78dac54eb30a61fa)
 - [ ] [<code>readthedocs: Install furo via requirements.txt</code>](https://github.com/cowsql/raft/commit/0cf2891cf358de9c945066913b2cdbcb320b92ea)
 - [ ] [<code>docs: Hide adds in furo theme</code>](https://github.com/cowsql/raft/commit/b3bb9e558cfa83f934017445e9da52a5ec2af510)
+- [ ] [<code>docs: Basic documentation about struct raft v1</code>](https://github.com/cowsql/raft/commit/72b8f78eb8c46aa6b9d97803c98efadff4877226)
+- [ ] [<code>docs: Basic documentation about struct raft v1 (#175)</code>](https://github.com/cowsql/raft/commit/38855ccd5a71fe649a6ab8fc25df0e782f7aae32)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
