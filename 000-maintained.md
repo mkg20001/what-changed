@@ -3844,59 +3844,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.31.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.31.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.32.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.32.0...HEAD)
 
-- [ ] [<code>QRZ: Added URL where QRZ's API is defined</code>](https://github.com/foldynl/QLog.git/commit/07850df1f481056b6e09c3c958b15c7423d35ac1)
-- [ ] [<code>Clublog Batch Upload: Added Clear and Reupload Flag</code>](https://github.com/foldynl/QLog.git/commit/fe637d0d42f668015cbc88f3e118c740fcd91f3f)
-- [ ] [<code>Clublog Batch Upload: Clublog Log Callsign is derived from the selected My Callsign</code>](https://github.com/foldynl/QLog.git/commit/6f27e60df99a2e401d7290c58d3df3e415630dbc)
-- [ ] [<code>Clublog RT: Added support to upload QSO via RT Interface</code>](https://github.com/foldynl/QLog.git/commit/b40239dafa6e274c87030dc938d71469e5f61759)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>DB: Added trigger to control Upload Status to external services</code>](https://github.com/foldynl/QLog.git/commit/4f6f982259b613388db034ebd066c886fe8e771a)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Online Services: Upload dialog has Callsign/Grid from the current Station profile</code>](https://github.com/foldynl/QLog.git/commit/c74f40b3626da283364bd897c3e0b377654a7eda)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/20a1229c7893704346968704dd36cd0c8a2652a1)
-- [ ] [<code>Fixed #301 - clang linker failed</code>](https://github.com/foldynl/QLog.git/commit/a2ae1ff80f2c970bf8ab352003c8de5b43f98c08)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3f60c680a79a08251763647496393e28100673e3)
-- [ ] [<code>Rig: Redesigned to support multiple backends</code>](https://github.com/foldynl/QLog.git/commit/750f4430aac14802ccf53e9f97643b43759fb877)
-- [ ] [<code>Header Inlcude Guards contain a full path</code>](https://github.com/foldynl/QLog.git/commit/60fb6b81e44979dbdf0c870852c8918343efcc42)
-- [ ] [<code>HamlibDrv: Code Optimalizations</code>](https://github.com/foldynl/QLog.git/commit/cea20166450fef775a9910cb226962ec57c18c37)
-- [ ] [<code>Update sat_modes.json</code>](https://github.com/foldynl/QLog.git/commit/40864934955d36584c011c717bb9b0ed7b666408)
-- [ ] [<code>Added VV and UU satmodes</code>](https://github.com/foldynl/QLog.git/commit/7cdbcce5c126e8d1fd060a9ea965f7de1a82d17e)
-- [ ] [<code>Update sat_modes.json</code>](https://github.com/foldynl/QLog.git/commit/154b4a3e33c8cd40b3bcb448744ba85b41c9799b)
-- [ ] [<code>OmnirigDrv: Added Initial Support for Omnirig v1 (Windows Only)</code>](https://github.com/foldynl/QLog.git/commit/95ef1adf97aef688d27444d0dd48c2a73d4cd279)
-- [ ] [<code>Fixed #308: Merge branch 'bugfix-308' into testing_0.32</code>](https://github.com/foldynl/QLog.git/commit/5fc43cf25da0d4641914ae6ad4e16b5fd92f4a38)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/250ba6b1105a6a4277633b2f3887d4f23a577ca2)
-- [ ] [<code>Fixing #310 - Logbook: Moved Context Export under Search in the context menu</code>](https://github.com/foldynl/QLog.git/commit/2482d8590ff5969faa7689091beb3ecc39fcbecc)
-- [ ] [<code>Fixing #310 - Logbook: Fixed identification of protected columns</code>](https://github.com/foldynl/QLog.git/commit/5bdfa23933f94b1d67baeb9bdc938c516894620f)
-- [ ] [<code>Fixed #310 - Logbook: Added question before editing of multiple rows</code>](https://github.com/foldynl/QLog.git/commit/4aaa2233270588717f8794beadef21ca8a5ec38a)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/8ef549fe9e39c943f719e237a4047c703278e7e6)
-- [ ] [<code>Updated Authors</code>](https://github.com/foldynl/QLog.git/commit/483ac73a512b8f97cd997dae3cc58b75baf8b8c5)
-- [ ] [<code>Fixed #313 - Callbook query cache is not properly cleared when Callbook settings change</code>](https://github.com/foldynl/QLog.git/commit/788133f7933ccdc1587f027554d35d7e13903bf9)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e221cf99896dde16f819c75f7b296532bdacbaea)
-- [ ] [<code>Fixed compilation issue under MacOS</code>](https://github.com/foldynl/QLog.git/commit/add011d842d84d2f93166418c8c20c5ce656aba1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>GitHub Actions: Migration from node.js 16 to 20 - checkout v3 to v4</code>](https://github.com/foldynl/QLog.git/commit/f182089a27eff44bcc29834c14353d90585f4649)
-- [ ] [<code>OmnirigDrvV2: Added Initial Support for Omnirig v2 (Windows Only)</code>](https://github.com/foldynl/QLog.git/commit/2909ed3200a6f835542d283dc000601ff2c07960)
-- [ ] [<code>refreshUploadStatusTrigger is called only after Migration</code>](https://github.com/foldynl/QLog.git/commit/f18a7ee72f0906235658f535409ea8677297b8b1)
-- [ ] [<code>Clublog RT: Only Uploaded QSOs are Updated/Deleted</code>](https://github.com/foldynl/QLog.git/commit/2bdac4bdfc10ca9b143e699474b7c864ae633fca)
-- [ ] [<code>Clublog RT: RT Update is divided into the stages Delete and Insert</code>](https://github.com/foldynl/QLog.git/commit/6703d18f2d55100eba9c3820b1fe78ae61998b47)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Clublog: Reworded option for clearing Clublog log</code>](https://github.com/foldynl/QLog.git/commit/1d34ed1c8a02c8e816891d246d6c18bcb98cf553)
-- [ ] [<code>Setting: Omnirigs have always PTT On</code>](https://github.com/foldynl/QLog.git/commit/427e52063ee7d61e5532e25f524c9c393cebc59c)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/2e2b15e44ce4d5e33f85ad225d4467aa4df92228)
-- [ ] [<code>Update README</code>](https://github.com/foldynl/QLog.git/commit/c65f229a900f44a44eb378686d61b29a7042bf81)
-- [ ] [<code>Updated Czech/German Translations</code>](https://github.com/foldynl/QLog.git/commit/9a65070a10f7c71a772e258d21cd9a954c215f13)
-- [ ] [<code>Fixes after sanity checks</code>](https://github.com/foldynl/QLog.git/commit/43e1a85cd9b5f38e79fabb1935c709745c18f4aa)
-- [ ] [<code>Fixed typo in README</code>](https://github.com/foldynl/QLog.git/commit/2ccaed5a5de71a453fa6d0b447e29a9b8b0c38d4)
-- [ ] [<code>Logbook: fixed typo</code>](https://github.com/foldynl/QLog.git/commit/21a75fe5011cb6fc2f764892e8382c812de5df88)
-- [ ] [<code>Minor translation changes</code>](https://github.com/foldynl/QLog.git/commit/b5b155702991a7ee8df1b2e30886a0b65d1fb6a0)
-- [ ] [<code>Include optimalization</code>](https://github.com/foldynl/QLog.git/commit/bcf4c8735de07b254ffb15836cc1294f57a72197)
-- [ ] [<code>Clublog Upload: Added tooltip for Clear and reupload</code>](https://github.com/foldynl/QLog.git/commit/d74460433fec31f8959ee7f7ee62ad5ff23e1e71)
-- [ ] [<code>Settings: Fixed issue when Omnirig special port was present several times</code>](https://github.com/foldynl/QLog.git/commit/437f48e65cbd61f27c6226f793d9e74e7e68a21e)
-- [ ] [<code>Remove unused function from RigModel class</code>](https://github.com/foldynl/QLog.git/commit/21a288efe7bd8eb80edae37b5b6fe0769fd9e70f)
-- [ ] [<code>Removed all hamlib get caps from code - hopefully</code>](https://github.com/foldynl/QLog.git/commit/8ecbd9048909e1e6eaa7a503d13e4fe6b5351284)
-- [ ] [<code>Preparation for release 0.32.0</code>](https://github.com/foldynl/QLog.git/commit/4c1699bb7251c96ad5d73fd6c681f3c23f4d794e)
-  - <sub>Tags: <code>v0.32.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -4317,6 +4266,16 @@
 - [ ] [<code>docs: Hide adds in furo theme</code>](https://github.com/cowsql/raft/commit/b3bb9e558cfa83f934017445e9da52a5ec2af510)
 - [ ] [<code>docs: Basic documentation about struct raft v1</code>](https://github.com/cowsql/raft/commit/72b8f78eb8c46aa6b9d97803c98efadff4877226)
 - [ ] [<code>docs: Basic documentation about struct raft v1 (#175)</code>](https://github.com/cowsql/raft/commit/38855ccd5a71fe649a6ab8fc25df0e782f7aae32)
+- [ ] [<code>docs: Improve introduction to struct raft</code>](https://github.com/cowsql/raft/commit/b04ccbf430a3c6dfac980d5dc4585637f469bd18)
+- [ ] [<code>v1: Give a name to event enum type</code>](https://github.com/cowsql/raft/commit/133d57dcd6372ebfac7a03dbb2f5585dc3b2e46d)
+- [ ] [<code>v1: Give a name to message type enum</code>](https://github.com/cowsql/raft/commit/8e1248cd77a1c55370930f18a605bf3605f69f4d)
+- [ ] [<code>v1: Use unsigned short for message versions</code>](https://github.com/cowsql/raft/commit/c23c30c5ea61e9811871a8ae962fff44f080877d)
+- [ ] [<code>v1: Assign name to entry type enums</code>](https://github.com/cowsql/raft/commit/6748e593c4fc1eacd01ac7bc4c94c690b5a1bf3b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: Document event and message types</code>](https://github.com/cowsql/raft/commit/4da5fd916243a48ef0171c02d102c8f8187e85c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: Fallback to classic theme if furo is not available</code>](https://github.com/cowsql/raft/commit/02fd566b504fce5d43824b267ff758d2706e745e)
+- [ ] [<code>docs: Document struct raft_event and struct raft_message (#176)</code>](https://github.com/cowsql/raft/commit/8128c3d6936e4bb16295a675165d4470c5ec4aa7)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
