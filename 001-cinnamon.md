@@ -21,13 +21,8 @@
 - [ ] [<code>debian/control: Don't remove policykit-1-gnome yet.</code>](https://github.com/linuxmint/cinnamon/commit/2d4feb11d264cb1b992fb965abb0b6777e2bdea7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
-#### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.0...HEAD)
+#### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
-- [ ] [<code>network: Fix warning about missing cast to GtkWidget* (#324)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/0361ff2974eb4741f3cd8b6db00dbe1ab56c8a59)
-- [ ] [<code>cc-display-arrangement.c: Fix monitor numbering in the layout view.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/47c94e4376242c4f6b40e57afcc2de394daf8b4a)
-- [ ] [<code>6.0.1</code>](https://github.com/linuxmint/cinnamon-control-center/commit/b6f5917eb595a658e7104683cde663c24e049d82)
-  - <sub>Tags: <code>6.0.1</code> <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
