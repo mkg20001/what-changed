@@ -2196,6 +2196,22 @@
 - [ ] [<code>dbeaver/pro#2197 Handle encrypted project opening failure (#22665)</code>](https://github.com/dbeaver/dbeaver/commit/9e97bef4c2bcfffc3d27ae7658d1c415c3522f8d)
 - [ ] [<code>#22662 Fix syntax highlighting loss on reparse (#22727)</code>](https://github.com/dbeaver/dbeaver/commit/ec76b9a9b8648961068e54df5706ebaad24d16f9)
 - [ ] [<code>CB-4565. Added validation for hsqldb file connection (#22729)</code>](https://github.com/dbeaver/dbeaver/commit/04797151620db28de91cc096188e8e432a740479)
+- [ ] [<code>dbeaver/dbeaver#21574 eclipse configuration directory in your profile (#22089)</code>](https://github.com/dbeaver/dbeaver/commit/4c60625758ac12b25dd8954ede2bb5f4d044ea39)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2451 Remove unnecessary default table model from CTE handling common for different SQL statements (not only select, but delete, update, insert) (#22747)</code>](https://github.com/dbeaver/dbeaver/commit/cf8600ceff89d1e9b3f9b2d084f0cc566a168829)
+- [ ] [<code>dbeaver/dbeaver#22126 replace load next page binding (#22768)</code>](https://github.com/dbeaver/dbeaver/commit/f9116f84d4be109c1a974ec99518923823c95fc0)
+- [ ] [<code>#22766 Fix user credentials dialog not having a title (#22771)</code>](https://github.com/dbeaver/dbeaver/commit/c325db34970d16ebec2188b7a1f3c7359e5387b5)
+- [ ] [<code>dbeaver/pro#2459 Fix outline update on preference change and editor datasource connection change (#22765)</code>](https://github.com/dbeaver/dbeaver/commit/84dce48e6d1f8cc8f5cc427b72e0ebf52b530c45)
+- [ ] [<code>#22731 update varchar max length syntax for non-sql server databases (#22753)</code>](https://github.com/dbeaver/dbeaver/commit/dd33b1cf259bde6abe3dca1b6c371f5b17ac78f8)
+- [ ] [<code>#19401 avoid functions duplication (#22743)</code>](https://github.com/dbeaver/dbeaver/commit/25b4fd6fd5c59088522a9e5f7d3e813aaa6a8d29)
+- [ ] [<code>#22733 add the "on conflict expression" even for the INSERT keyword (#22741)</code>](https://github.com/dbeaver/dbeaver/commit/dde3c7695b87db94f0f0287dbcd17efac79a14ef)
+- [ ] [<code>register Cubrid dialect (#22792)</code>](https://github.com/dbeaver/dbeaver/commit/acec3956b1cf36d557e3103274c1d787d1d5da2b)
+- [ ] [<code>Revert "dbeaver/dbeaver#21574 eclipse configuration directory in your profile (#22089)"</code>](https://github.com/dbeaver/dbeaver/commit/2a68e726e4e0d52f88b8bdf8fee3a1053b0cf967)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>#21583 support StarRocks database connector (#22754)</code>](https://github.com/dbeaver/dbeaver/commit/2215585aab3103b5ce6c4b181997a3464e2747f1)
+- [ ] [<code>dbeaver/pro#2472 set subpartition type by default to the RANGE (#22786)</code>](https://github.com/dbeaver/dbeaver/commit/8e265952236735b40cb78df89bd36f43c9557a4d)
+- [ ] [<code>23.3.5 version bump</code>](https://github.com/dbeaver/dbeaver/commit/94a5445e86bbbc2a2b4e55670674a04d1f9f8973)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/8c53d3a8987de2aa43abd6235fe9bcd103747894)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2221,6 +2237,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build(deps): bump github.com/opencontainers/runc from 1.1.10 to 1.1.12</code>](https://github.com/lxc/distrobuilder/commit/480707e4c7a6c94c7eeedf7dedf255589aa26d1b)
 - [ ] [<code>incus-agent: Fix systemd unit name under LXD</code>](https://github.com/lxc/distrobuilder/commit/fc0cbefc44b1002c23d703445ade31b09d8ca795)
+- [ ] [<code>Makefile: Bump minimum Go version to 1.21</code>](https://github.com/lxc/distrobuilder/commit/08c5c1722daa46565e7f1c0e04c7a8ed2ea35087)
+- [ ] [<code>README: Bump minimum Go version to 1.21</code>](https://github.com/lxc/distrobuilder/commit/8a272b3a014cd31056bddffc6ba9310aac1eb70f)
+- [ ] [<code>github: Replace Go 1.20 with 1.22 in tests</code>](https://github.com/lxc/distrobuilder/commit/babc0b9bf0aeae1277851efdad57581ee4cf3e91)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/ac9c0253e7a8dd673b24620f83b424f7051b5d78)
+- [ ] [<code>Makefile: Bump golangci-lint to 1.56.0</code>](https://github.com/lxc/distrobuilder/commit/69353225f3081ec8824df7f160eb85f99ca8b35b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -2242,6 +2264,7 @@
 - [ ] [<code>Revert "build(deps): bump codecov/codecov-action from 3 to 4"</code>](https://github.com/canonical/dqlite/commit/a4a446c2481172421ffd29377d01ffaef19c9904)
 - [ ] [<code>Release v1.16.1</code>](https://github.com/canonical/dqlite/commit/71562ee9897634606ac5a21921dc368aac97cb91)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Expose option to disable/enable raft snapshot compression.</code>](https://github.com/canonical/dqlite/commit/b2bcb106dacf89598b7659f2297cc89ff034cd0e)
 - [ ] [<code>conn: Fix interrupt requests.</code>](https://github.com/canonical/dqlite/commit/4991bfe0d3efab3f1ecd626a7f4d4a455971a88e)
 - [ ] [<code>test_client: Add interrupt tests.</code>](https://github.com/canonical/dqlite/commit/9d889093ff4f193cf719d3d0083394c9b2b72a1e)
   - <sub>Keywords: <code>exec</code></sub>
@@ -2993,6 +3016,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove duplicate bug in CHANGELOG.md</code>](https://github.com/AOMediaCodec/libavif/commit/8edba16953f70f82cdafd2b7fa4ff23fcc0aae1c)
+- [ ] [<code>Encode alpha as 4:2:0 with SVT (#2004)</code>](https://github.com/AOMediaCodec/libavif/commit/b10d2697e9ed2fb09cb722335ff4342c353612b8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3701,9 +3725,13 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Update ovs.py to check if ovsdb-server.service is installed before throwing an error</code>](https://github.com/canonical/netplan/commit/05937c4adb0161b8302a0a2479aba05265098fbf)
 - [ ] [<code>Lang. & formatting fixes in API docs.</code>](https://github.com/canonical/netplan/commit/c2b5ec03cb4348aa5c9c1cf94e8d7fb15b3e724d)
+- [ ] [<code>examples: update libvirt path (#442)</code>](https://github.com/canonical/netplan/commit/11175561b5ba476543dd9bea868301cf103ba69a)
+- [ ] [<code>cli:ovs: Improve OvsDbServerNotInstalled debug message</code>](https://github.com/canonical/netplan/commit/95e4d51435c2e9c9a6b7382e39c0306200ee1b9b)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.20.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.20.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -4276,6 +4304,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: Fallback to classic theme if furo is not available</code>](https://github.com/cowsql/raft/commit/02fd566b504fce5d43824b267ff758d2706e745e)
 - [ ] [<code>docs: Document struct raft_event and struct raft_message (#176)</code>](https://github.com/cowsql/raft/commit/8128c3d6936e4bb16295a675165d4470c5ec4aa7)
+- [ ] [<code>v1: Give a name to the states enum</code>](https://github.com/cowsql/raft/commit/c35a6cf6d70c569ab94d487693a0b97b6815a3fd)
+- [ ] [<code>docs: Document struct raft_update</code>](https://github.com/cowsql/raft/commit/8eb061a6128cf8e3a8d668b2678a756eade7b882)
+- [ ] [<code>docs: Rename core.rst to algorithm.rst</code>](https://github.com/cowsql/raft/commit/0bc7a62871e57a41db81c93665c583a0398d6009)
+- [ ] [<code>docs: Add section about struct raft update (#177)</code>](https://github.com/cowsql/raft/commit/c5ce8b3ec1aa60bd414af13b860d978c38c33d26)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
