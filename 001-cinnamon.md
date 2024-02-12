@@ -19,10 +19,17 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>polkit-dialog: Clean up the styling a bit</code>](https://github.com/linuxmint/cinnamon/commit/cbb5f9c12fc3d2fb7f9bded82287872fce50eef5)
 - [ ] [<code>debian/control: Don't remove policykit-1-gnome yet.</code>](https://github.com/linuxmint/cinnamon/commit/2d4feb11d264cb1b992fb965abb0b6777e2bdea7)
+- [ ] [<code>Add greeter badges for Cinnamon sessions</code>](https://github.com/linuxmint/cinnamon/commit/5d3a79bfcc0dc3cf04ee0b6a5f1a728ccd92a26a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Show search bar by default in AppChooserDialog (#12013)</code>](https://github.com/linuxmint/cinnamon/commit/2ad67fdd9d64d0a102f9c0c37b6f72a24b225801)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
+- [ ] [<code>Fix optional wayland handling in cc-display-panel (#323)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a4619acb4682e587537961f33f121045e47ef284)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
@@ -58,6 +65,7 @@
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.0.0...HEAD)
 
 - [ ] [<code>Fix compile issue (#386)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/48da3c4763bea93ea3e1d2ba2e2dfdb7f41d8afc)
+- [ ] [<code>test-input-helper.c: Fix printf formatting so codespell doesn't trip.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6fdaa4886ba20d16085ec4c4497ae90058e4508f)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
@@ -101,7 +109,10 @@
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/muffin/commit/1f00c33a06ba5fe847ef0c7a5bfd1f5586be7640)
 - [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/muffin/commit/595d0733e7bda3bab483a2e86929204c262dc10f)
 - [ ] [<code>Fix compile issue (#683)</code>](https://github.com/linuxmint/muffin/commit/38919a88b2b8381f5b24b69742d1b9db32029c61)
+- [ ] [<code>build: Use Xwayland pkg-config if available (#682)</code>](https://github.com/linuxmint/muffin/commit/80b48e95382fb7c877f7c76017150b5e991949a4)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
 
