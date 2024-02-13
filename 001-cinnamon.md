@@ -22,6 +22,8 @@
 - [ ] [<code>Add greeter badges for Cinnamon sessions</code>](https://github.com/linuxmint/cinnamon/commit/5d3a79bfcc0dc3cf04ee0b6a5f1a728ccd92a26a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Show search bar by default in AppChooserDialog (#12013)</code>](https://github.com/linuxmint/cinnamon/commit/2ad67fdd9d64d0a102f9c0c37b6f72a24b225801)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_panel.py: Set the step amount to 1 for panel heights.</code>](https://github.com/linuxmint/cinnamon/commit/365f23f23e79c562a401b3bb8f3972c343f256e5)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -134,7 +136,13 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>all: Stop using g_slice, fix a leak and remove an obsolete</code>](https://github.com/linuxmint/nemo/commit/981c9ed2f155da2c8803da510ad81a2a8911e4e4)
 - [ ] [<code>actions: Fix build for non-debug builds, remove a stray debug line.</code>](https://github.com/linuxmint/nemo/commit/1e41f4b5fc6eeb37472b8e52e5d5b3d2ed027da8)
+- [ ] [<code>Support drawing the desktop on wayland using gtk-layer-shell. (#3349)</code>](https://github.com/linuxmint/nemo/commit/be84592f197e74fc6ea2099096eb244f0253ccaa)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>meson.build: Build even if gtk-layer-shell's version is too low.</code>](https://github.com/linuxmint/nemo/commit/4494b3ff4f575855b5f5465aac7d54b46601f3c7)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
