@@ -2243,6 +2243,14 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/ac9c0253e7a8dd673b24620f83b424f7051b5d78)
 - [ ] [<code>Makefile: Bump golangci-lint to 1.56.0</code>](https://github.com/lxc/distrobuilder/commit/69353225f3081ec8824df7f160eb85f99ca8b35b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>A comment to describe the 4294967295 constant</code>](https://github.com/lxc/distrobuilder/commit/1464b41a3a4ac2888a4260a5f65a64e5b84dbf38)
+- [ ] [<code>Use indented heredoc syntax</code>](https://github.com/lxc/distrobuilder/commit/8e1571dc2f93b6bc8423e7d6e5dc3e66e430858c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Inject a comment into generated files</code>](https://github.com/lxc/distrobuilder/commit/62ef720ade7b71687cb60bba85f7046b295056d4)
+- [ ] [<code>Expand grep -a to --text for readability</code>](https://github.com/lxc/distrobuilder/commit/320a22ed4b0ab7f721760401dabf8527cec43b04)
+- [ ] [<code>Make lxc.generator shellcheck clean</code>](https://github.com/lxc/distrobuilder/commit/d4937ff715e0dcbeb48f5c9c71f2cb504086a73b)
+- [ ] [<code>Break between systemd unit sections</code>](https://github.com/lxc/distrobuilder/commit/c7e3d8f09669fad131fcf3e178502360e936c191)
+- [ ] [<code>incus-agent: Fix SELinux</code>](https://github.com/lxc/distrobuilder/commit/31407f24afc423dde985de381930bdb0213d4daf)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
