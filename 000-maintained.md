@@ -2212,6 +2212,9 @@
 - [ ] [<code>dbeaver/pro#2472 set subpartition type by default to the RANGE (#22786)</code>](https://github.com/dbeaver/dbeaver/commit/8e265952236735b40cb78df89bd36f43c9557a4d)
 - [ ] [<code>23.3.5 version bump</code>](https://github.com/dbeaver/dbeaver/commit/94a5445e86bbbc2a2b4e55670674a04d1f9f8973)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/8c53d3a8987de2aa43abd6235fe9bcd103747894)
+- [ ] [<code>dbeaver/dbeaver#22709 Fix transaction end + check last statement execution end time (#22793)</code>](https://github.com/dbeaver/dbeaver/commit/ceeed8a8b6378a5158d1fe5a9673d4dc69e9a329)
+- [ ] [<code>#22778 Fix outline update issue on script scrolling (#22779)</code>](https://github.com/dbeaver/dbeaver/commit/ee4635baaca9e51ae2eaa686c5f8d1847d0ce624)
+- [ ] [<code>#22356 Fix scrolling in single tab result sets mode (#22781)</code>](https://github.com/dbeaver/dbeaver/commit/cceddd5c385ea83355f97bc61238c45d1837d5c9)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2281,6 +2284,7 @@
 - [ ] [<code>conn: Abort conn_write_cb when connection is closing.</code>](https://github.com/canonical/dqlite/commit/0976158c30aa6c75aae79604c5fbaadccf3f98c6)
 - [ ] [<code>Revert "Merge pull request #560 from MathieuBordere/interrupt"</code>](https://github.com/canonical/dqlite/commit/ef7741e6d9872aa5d080c3e14c7a29c20633ec58)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 4</code>](https://github.com/canonical/dqlite/commit/7c5b24fdadeb39ea552358369b5d53e916ea2ee0)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
