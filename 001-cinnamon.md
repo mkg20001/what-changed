@@ -24,6 +24,8 @@
 - [ ] [<code>Show search bar by default in AppChooserDialog (#12013)</code>](https://github.com/linuxmint/cinnamon/commit/2ad67fdd9d64d0a102f9c0c37b6f72a24b225801)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_panel.py: Set the step amount to 1 for panel heights.</code>](https://github.com/linuxmint/cinnamon/commit/365f23f23e79c562a401b3bb8f3972c343f256e5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power applet: Fix reported battery status (#12053)</code>](https://github.com/linuxmint/cinnamon/commit/08262e524c703ba38db2cbe3aa035b75ac8bbdfd)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -140,9 +142,14 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>meson.build: Build even if gtk-layer-shell's version is too low.</code>](https://github.com/linuxmint/nemo/commit/4494b3ff4f575855b5f5465aac7d54b46601f3c7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix builds with gtk_layer_shell=false or omitted.</code>](https://github.com/linuxmint/nemo/commit/7d1fe12607f4f0fcd897b712c9fae60617c715bd)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: Show gtk-layer-shell status in the build summary.</code>](https://github.com/linuxmint/nemo/commit/f3dce0856d00d7b7bbf7239b87e277261e8e8b26)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-dnd: Have the drag and drop text data not be uris but plain paths. (#3356)</code>](https://github.com/linuxmint/nemo/commit/184204ad4871420e19e2dc0a51d81780f06eed0f)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
