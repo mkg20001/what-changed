@@ -2235,6 +2235,8 @@
 - [ ] [<code>CB-3563 cloudbeaver preference store (#22758)</code>](https://github.com/dbeaver/dbeaver/commit/6b7c751dccc8f42b55bc1a570a434f62be840600)
 - [ ] [<code>Cb 2590 add ip to qm (#22804)</code>](https://github.com/dbeaver/dbeaver/commit/50dadc8e495eb64a1a302e90f1d09f5b31b78efa)
 - [ ] [<code>dbeaver/pro#2373 [ERD] Overlapping entity by connections (#22811)</code>](https://github.com/dbeaver/dbeaver/commit/76aa420b9abcc21e0d3f11c5782556ab913f241a)
+- [ ] [<code>Elastic code cleanup</code>](https://github.com/dbeaver/dbeaver/commit/35c78609d55773c6f934120ff5d81a475251dd07)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
