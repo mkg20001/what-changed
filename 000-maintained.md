@@ -2237,6 +2237,7 @@
 - [ ] [<code>dbeaver/pro#2373 [ERD] Overlapping entity by connections (#22811)</code>](https://github.com/dbeaver/dbeaver/commit/76aa420b9abcc21e0d3f11c5782556ab913f241a)
 - [ ] [<code>Elastic code cleanup</code>](https://github.com/dbeaver/dbeaver/commit/35c78609d55773c6f934120ff5d81a475251dd07)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dbeaver/pro#2485 Fix check for fully qualified name is not classified (#22816)</code>](https://github.com/dbeaver/dbeaver/commit/4415ac003d19c1211aa9647d420a30ce63c8b726)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3915,31 +3916,8 @@
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
 
-#### [raft-canonical](https://github.com/canonical/raft): [refs/tags/v0.18.0 → HEAD](https://github.com/canonical/raft/compare/refs/tags/v0.18.0...HEAD)
+#### [raft-canonical](https://github.com/canonical/raft): [refs/tags/v0.18.1 → HEAD](https://github.com/canonical/raft/compare/refs/tags/v0.18.1...HEAD)
 
-- [ ] [<code>Only publish to the PPA from master</code>](https://github.com/canonical/raft/commit/e34a42f28ac7063f23669ab6c8ffe636eec45b21)
-- [ ] [<code>uv_fs: EAGAIN is no hard error when probing Async IO.</code>](https://github.com/canonical/raft/commit/0fea629129862383100adc2c90811a08e65ffdb1)
-- [ ] [<code>test_uv_writer: btrfs workaround no longer needed.</code>](https://github.com/canonical/raft/commit/6c73c8160e7535c92f64e4db8bbcfc7b176a98ab)
-- [ ] [<code>replication: Try to reinstate entries that have been truncated away</code>](https://github.com/canonical/raft/commit/8be539d1850784683f9c87341e561728f4ac62cb)
-- [ ] [<code>log: Fix some docstrings</code>](https://github.com/canonical/raft/commit/67cff3146b5a29b9eab89a94c0c86b94975d5b07)
-- [ ] [<code>test: More fine-grained faults</code>](https://github.com/canonical/raft/commit/ccab7cd25a7cf312c23fc021e3bb74f2ac2b4044)
-- [ ] [<code>test: Support send latency</code>](https://github.com/canonical/raft/commit/c14a609bbeea228e7cc0c47106cb59e5ee2d8c07)
-- [ ] [<code>test: Fix randomness</code>](https://github.com/canonical/raft/commit/71ceacdbaca0274a99d0daaf39ae42a47a6cb515)
-- [ ] [<code>Add a test for logReinstate</code>](https://github.com/canonical/raft/commit/0cd0265e7f313a2f788799a8d5c1c9751d036350)
-- [ ] [<code>Initial log format rework</code>](https://github.com/canonical/raft/commit/9bdce2911ac100f54410afa593b619e261ea4d34)
-- [ ] [<code>raft: Add user-supplied state_cb</code>](https://github.com/canonical/raft/commit/65351619b03844b5d7f8fe6cbb12ebb70cfa8d9a)
-- [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/raft/commit/33f1e90de9698d2b52f9863070a3b5eb6386582a)
-- [ ] [<code>test_uv_os: Silence compiler on mantic ppc64le.</code>](https://github.com/canonical/raft/commit/12a4731241727ca8e4ef5b6a4a8fb0c2c7fbfc69)
-- [ ] [<code>tracing: Align raft log message with dqlite log message.</code>](https://github.com/canonical/raft/commit/68b4db77aa6386e64f15e0efc026af4217f9e398)
-- [ ] [<code>Add raft_voter_contact()</code>](https://github.com/canonical/raft/commit/2e103cb21e36a58039a490d5e51b49122aa013a3)
-- [ ] [<code>test/lib/heap: remove homebrew leak check.</code>](https://github.com/canonical/raft/commit/4f98e3229c87438b98ee937ba0020095249033e1)
-- [ ] [<code>test/lib/heap: fix munit comparison type.</code>](https://github.com/canonical/raft/commit/be6b3266957fc02aa7c64c2d33012922c46988a9)
-- [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/raft/commit/0e3396bdac975e20d554718dcd8bb5d808d45447)
-- [ ] [<code>github: Update package name</code>](https://github.com/canonical/raft/commit/9aec00c272760117aab86a67b4d0ce1a5a0a75c7)
-- [ ] [<code>resolve LICENSE link 404</code>](https://github.com/canonical/raft/commit/ac29d44e94457911b151633195bd2084dcbc7939)
-- [ ] [<code>Release 0.18.1</code>](https://github.com/canonical/raft/commit/68ebcd78c1644914a2a4e4811b4ea88eb510c95d)
-  - <sub>Tags: <code>v0.18.1</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.22.0 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.22.0...HEAD)
 
