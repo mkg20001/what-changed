@@ -2299,6 +2299,7 @@
 - [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ</code>](https://github.com/canonical/dqlite/commit/ba246cc8539921f2efff37954b0544375f2d11be)
 - [ ] [<code>Revert "build(deps): bump codecov/codecov-action from 3 to 4"</code>](https://github.com/canonical/dqlite/commit/a4a446c2481172421ffd29377d01ffaef19c9904)
 - [ ] [<code>Release v1.16.1</code>](https://github.com/canonical/dqlite/commit/71562ee9897634606ac5a21921dc368aac97cb91)
+  - <sub>Tags: <code>v1.16.1</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Expose option to disable/enable raft snapshot compression.</code>](https://github.com/canonical/dqlite/commit/b2bcb106dacf89598b7659f2297cc89ff034cd0e)
 - [ ] [<code>conn: Fix interrupt requests.</code>](https://github.com/canonical/dqlite/commit/4991bfe0d3efab3f1ecd626a7f4d4a455971a88e)
@@ -2310,6 +2311,9 @@
 - [ ] [<code>Revert "Merge pull request #560 from MathieuBordere/interrupt"</code>](https://github.com/canonical/dqlite/commit/ef7741e6d9872aa5d080c3e14c7a29c20633ec58)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 4</code>](https://github.com/canonical/dqlite/commit/7c5b24fdadeb39ea552358369b5d53e916ea2ee0)
+- [ ] [<code>Release v1.16.2</code>](https://github.com/canonical/dqlite/commit/8835be10949bb1b7d8ab66384bbf89aac70fa810)
+  - <sub>Tags: <code>v1.16.2</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2463,6 +2467,8 @@
 - [ ] [<code>fix: Remove status msg not changeable from old cache</code>](https://github.com/krille-chan/fluffychat/commit/2e67695645e719d0ad0e76f79910c04cde483cd5)
 - [ ] [<code>fix: Open room links with event id</code>](https://github.com/krille-chan/fluffychat/commit/ecaac9eec2cd65059d1b3ce60eea64d569de9328)
 - [ ] [<code>chore: Add more information to Person object in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/aa68e8fe3b8f5791196e19af9adb7573632823ec)
+- [ ] [<code>feat: Add notification shortcuts to android</code>](https://github.com/krille-chan/fluffychat/commit/dee9323d4749b7b5778ada8ab1fcbf07f8f51936)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2533,6 +2539,8 @@
 - [ ] [<code>fix: Remove status msg not changeable from old cache</code>](https://github.com/krille-chan/fluffychat/commit/2e67695645e719d0ad0e76f79910c04cde483cd5)
 - [ ] [<code>fix: Open room links with event id</code>](https://github.com/krille-chan/fluffychat/commit/ecaac9eec2cd65059d1b3ce60eea64d569de9328)
 - [ ] [<code>chore: Add more information to Person object in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/aa68e8fe3b8f5791196e19af9adb7573632823ec)
+- [ ] [<code>feat: Add notification shortcuts to android</code>](https://github.com/krille-chan/fluffychat/commit/dee9323d4749b7b5778ada8ab1fcbf07f8f51936)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3057,6 +3065,11 @@
 - [ ] [<code>Add a loop to drain buffered frames in the decoder</code>](https://github.com/AOMediaCodec/libavif/commit/75d4870747a9886b024a3a86d70e6b6f275950ae)
 - [ ] [<code>Print unprintable item->type in diagnostic message</code>](https://github.com/AOMediaCodec/libavif/commit/695c2d16affc51d70cb47586f450f72338b930bf)
 - [ ] [<code>Ext: Update to dav1d 1.4.0</code>](https://github.com/AOMediaCodec/libavif/commit/76a0ee252c9f2bb652e79acabe6b6e66ae84785c)
+- [ ] [<code>Speed rgbtoyuvtest up (#2009)</code>](https://github.com/AOMediaCodec/libavif/commit/132a747dd541f304cf86e88cf0cfde9b0f33d6b4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix std::min() conflicting types in fuzz_dec_incr (#2013)</code>](https://github.com/AOMediaCodec/libavif/commit/4131305939bfc06dead383aca76e2aa8534c1b35)
+- [ ] [<code>Use _putenv_s() on Windows in fuzztest_helpers (#2014)</code>](https://github.com/AOMediaCodec/libavif/commit/57e32e25c204664502965244ab52baf24bf7e8d1)
+- [ ] [<code>Import working ci-windows-artifacts from v1.0.x (#2015)</code>](https://github.com/AOMediaCodec/libavif/commit/04cfa7cc2d08e6f55c1442e755ad2674f4b2ba3b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3260,6 +3273,12 @@
 - [ ] [<code>Add x32 to the list of recognized architectures</code>](https://github.com/lxc/lxc/commit/44e845b3ce27c8243a0652ff3a0f07e59e8637e9)
 - [ ] [<code>test-usernic: don't use ifconfig</code>](https://github.com/lxc/lxc/commit/27ec0b0f64de326e4705d6b7245babc22dbb2708)
 - [ ] [<code>lxc-test-usernic: drop cgroup handling</code>](https://github.com/lxc/lxc/commit/ec85e5ca4953292c4341497704ce738669a79b64)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: lxc-test-usernic: use iproute tool instead of brctl</code>](https://github.com/lxc/lxc/commit/627bb9460c08b272acb4b90d16cb236c10cc2634)
+- [ ] [<code>config: apparmor: add AppArmor profile for lxc-copy</code>](https://github.com/lxc/lxc/commit/d51ea224e89f937131342ea71b8010c1c810dcd3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>tests: remove old and broken cgroup handling code from tests</code>](https://github.com/lxc/lxc/commit/8f9733d756361ff8f8d8d589f286c0e064b1195d)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
