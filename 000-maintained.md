@@ -2278,6 +2278,7 @@
 - [ ] [<code>Break between systemd unit sections</code>](https://github.com/lxc/distrobuilder/commit/c7e3d8f09669fad131fcf3e178502360e936c191)
 - [ ] [<code>incus-agent: Fix SELinux</code>](https://github.com/lxc/distrobuilder/commit/31407f24afc423dde985de381930bdb0213d4daf)
 - [ ] [<code>Bump pongo2 to v4</code>](https://github.com/lxc/distrobuilder/commit/1da40b24ac3a092f62d09909b280d5095ba2427a)
+- [ ] [<code>Remove race in tests</code>](https://github.com/lxc/distrobuilder/commit/703b66d9cfee5198e59ae388119001d88e362d24)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
 
@@ -3055,6 +3056,7 @@
 - [ ] [<code>Encode alpha as 4:2:0 with SVT (#2004)</code>](https://github.com/AOMediaCodec/libavif/commit/b10d2697e9ed2fb09cb722335ff4342c353612b8)
 - [ ] [<code>Add a loop to drain buffered frames in the decoder</code>](https://github.com/AOMediaCodec/libavif/commit/75d4870747a9886b024a3a86d70e6b6f275950ae)
 - [ ] [<code>Print unprintable item->type in diagnostic message</code>](https://github.com/AOMediaCodec/libavif/commit/695c2d16affc51d70cb47586f450f72338b930bf)
+- [ ] [<code>Ext: Update to dav1d 1.4.0</code>](https://github.com/AOMediaCodec/libavif/commit/76a0ee252c9f2bb652e79acabe6b6e66ae84785c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
