@@ -26,8 +26,12 @@
 - [ ] [<code>cs_panel.py: Set the step amount to 1 for panel heights.</code>](https://github.com/linuxmint/cinnamon/commit/365f23f23e79c562a401b3bb8f3972c343f256e5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>power applet: Fix reported battery status (#12053)</code>](https://github.com/linuxmint/cinnamon/commit/08262e524c703ba38db2cbe3aa035b75ac8bbdfd)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel.js: Don't re-declare x_mon when converting panel defs.</code>](https://github.com/linuxmint/cinnamon/commit/46b39c8a2d9bc97aded879f5b74487a824927f8d)
+- [ ] [<code>cs_panel.py: Fix behavior when there are overlapping definitions.</code>](https://github.com/linuxmint/cinnamon/commit/da30af3d0f2f55f8662eaa3c3f18ceb2c6020074)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel.js: Improve handling of invalid/duplicate panel definitions.</code>](https://github.com/linuxmint/cinnamon/commit/ca8df1fc82b8d068d72bc2b974cc1168952e4122)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
