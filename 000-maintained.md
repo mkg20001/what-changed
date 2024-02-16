@@ -2467,8 +2467,15 @@
 - [ ] [<code>fix: Remove status msg not changeable from old cache</code>](https://github.com/krille-chan/fluffychat/commit/2e67695645e719d0ad0e76f79910c04cde483cd5)
 - [ ] [<code>fix: Open room links with event id</code>](https://github.com/krille-chan/fluffychat/commit/ecaac9eec2cd65059d1b3ce60eea64d569de9328)
 - [ ] [<code>chore: Add more information to Person object in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/aa68e8fe3b8f5791196e19af9adb7573632823ec)
+- [ ] [<code>fix: use correct icons for mark read/unread action</code>](https://github.com/krille-chan/fluffychat/commit/3e4bbc4b2f68bc4277c4d4c9c23f049aefb0c434)
+- [ ] [<code>fix: use correct icons for chat pin/unpin</code>](https://github.com/krille-chan/fluffychat/commit/bc68a4faaa9e85b21692256ebfb8c31702ce4009)
+- [ ] [<code>fix: properly initialize hideUnimportantStateEvents setting</code>](https://github.com/krille-chan/fluffychat/commit/c6a79f7ad0640d2128f335aebba76cbd408fc58a)
+- [ ] [<code>feat: make showing user presence info optional</code>](https://github.com/krille-chan/fluffychat/commit/ccfa3fa8f6305299b79af70c030ce70343fdd85d)
+- [ ] [<code>feat: add dialog to hide presence list with long-press</code>](https://github.com/krille-chan/fluffychat/commit/f8f73b7661cb883811770cc57cdd5740aca2d867)
 - [ ] [<code>feat: Add notification shortcuts to android</code>](https://github.com/krille-chan/fluffychat/commit/dee9323d4749b7b5778ada8ab1fcbf07f8f51936)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up shortcuts on android</code>](https://github.com/krille-chan/fluffychat/commit/91f4cdc7e33a72862884b4d51ff469af782098b0)
+- [ ] [<code>chore: Follow up android haptic feedback</code>](https://github.com/krille-chan/fluffychat/commit/cc277c14318f676e4bdb7b93f4b0fd8187f84f3a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2539,8 +2546,15 @@
 - [ ] [<code>fix: Remove status msg not changeable from old cache</code>](https://github.com/krille-chan/fluffychat/commit/2e67695645e719d0ad0e76f79910c04cde483cd5)
 - [ ] [<code>fix: Open room links with event id</code>](https://github.com/krille-chan/fluffychat/commit/ecaac9eec2cd65059d1b3ce60eea64d569de9328)
 - [ ] [<code>chore: Add more information to Person object in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/aa68e8fe3b8f5791196e19af9adb7573632823ec)
+- [ ] [<code>fix: use correct icons for mark read/unread action</code>](https://github.com/krille-chan/fluffychat/commit/3e4bbc4b2f68bc4277c4d4c9c23f049aefb0c434)
+- [ ] [<code>fix: use correct icons for chat pin/unpin</code>](https://github.com/krille-chan/fluffychat/commit/bc68a4faaa9e85b21692256ebfb8c31702ce4009)
+- [ ] [<code>fix: properly initialize hideUnimportantStateEvents setting</code>](https://github.com/krille-chan/fluffychat/commit/c6a79f7ad0640d2128f335aebba76cbd408fc58a)
+- [ ] [<code>feat: make showing user presence info optional</code>](https://github.com/krille-chan/fluffychat/commit/ccfa3fa8f6305299b79af70c030ce70343fdd85d)
+- [ ] [<code>feat: add dialog to hide presence list with long-press</code>](https://github.com/krille-chan/fluffychat/commit/f8f73b7661cb883811770cc57cdd5740aca2d867)
 - [ ] [<code>feat: Add notification shortcuts to android</code>](https://github.com/krille-chan/fluffychat/commit/dee9323d4749b7b5778ada8ab1fcbf07f8f51936)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up shortcuts on android</code>](https://github.com/krille-chan/fluffychat/commit/91f4cdc7e33a72862884b4d51ff469af782098b0)
+- [ ] [<code>chore: Follow up android haptic feedback</code>](https://github.com/krille-chan/fluffychat/commit/cc277c14318f676e4bdb7b93f4b0fd8187f84f3a)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3070,6 +3084,7 @@
 - [ ] [<code>Fix std::min() conflicting types in fuzz_dec_incr (#2013)</code>](https://github.com/AOMediaCodec/libavif/commit/4131305939bfc06dead383aca76e2aa8534c1b35)
 - [ ] [<code>Use _putenv_s() on Windows in fuzztest_helpers (#2014)</code>](https://github.com/AOMediaCodec/libavif/commit/57e32e25c204664502965244ab52baf24bf7e8d1)
 - [ ] [<code>Import working ci-windows-artifacts from v1.0.x (#2015)</code>](https://github.com/AOMediaCodec/libavif/commit/04cfa7cc2d08e6f55c1442e755ad2674f4b2ba3b)
+- [ ] [<code>Test the predefined macro _WIN32 instead of WIN32</code>](https://github.com/AOMediaCodec/libavif/commit/e88a7535f890c710768cea89b68a1c092da32506)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3274,6 +3289,7 @@
 - [ ] [<code>test-usernic: don't use ifconfig</code>](https://github.com/lxc/lxc/commit/27ec0b0f64de326e4705d6b7245babc22dbb2708)
 - [ ] [<code>lxc-test-usernic: drop cgroup handling</code>](https://github.com/lxc/lxc/commit/ec85e5ca4953292c4341497704ce738669a79b64)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>oci: resolve cross-filesystem blob caching failure</code>](https://github.com/lxc/lxc/commit/df0665b6def8ca0758980042e06f7d59b821938a)
 - [ ] [<code>tests: lxc-test-usernic: use iproute tool instead of brctl</code>](https://github.com/lxc/lxc/commit/627bb9460c08b272acb4b90d16cb236c10cc2634)
 - [ ] [<code>config: apparmor: add AppArmor profile for lxc-copy</code>](https://github.com/lxc/lxc/commit/d51ea224e89f937131342ea71b8010c1c810dcd3)
   - <sub>Files: <code>meson.build</code></sub>
