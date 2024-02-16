@@ -2280,40 +2280,8 @@
 - [ ] [<code>Bump pongo2 to v4</code>](https://github.com/lxc/distrobuilder/commit/1da40b24ac3a092f62d09909b280d5095ba2427a)
 - [ ] [<code>Remove race in tests</code>](https://github.com/lxc/distrobuilder/commit/703b66d9cfee5198e59ae388119001d88e362d24)
 
-#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.0 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.0...HEAD)
+#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.2 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.2...HEAD)
 
-- [ ] [<code>Only publish to the PPA from master</code>](https://github.com/canonical/dqlite/commit/02f71b407ca5ba9cbf17852d35a12198fcf85c05)
-- [ ] [<code>Initial log format rework</code>](https://github.com/canonical/dqlite/commit/4c7743bc4c11d66c08feac3afcfb66a7bd773b25)
-- [ ] [<code>test_membership: Wait for leader barrier before waiting for tx.</code>](https://github.com/canonical/dqlite/commit/b44b96189bbfba3100d3b1622d6f60036e798d4f)
-- [ ] [<code>server: Replace monitor_cb by state_cb.</code>](https://github.com/canonical/dqlite/commit/9b3ac556e56a7b3f7b99cbec5a8afada818df54c)
-- [ ] [<code>packages: Add mantic.</code>](https://github.com/canonical/dqlite/commit/c281844359be6f0fb872d1ce38336a2c8b9e0ad9)
-- [ ] [<code>Include more debug info in debug builds</code>](https://github.com/canonical/dqlite/commit/b7ca1ce430de3e84ff8c7555b87a1ab17837dd2d)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Remove lunar, add noble</code>](https://github.com/canonical/dqlite/commit/4cb0ed65ffeb444d144c0df9793f08c01c66f0a5)
-- [ ] [<code>github: Add downstream check.</code>](https://github.com/canonical/dqlite/commit/eb529bdb6a9515324cf5bc8f2f9311e0223300ae)
-- [ ] [<code>downstream: Fix repo references.</code>](https://github.com/canonical/dqlite/commit/b825034e25a4e5aed0c3650d4da7ebf3c830e0dd)
-- [ ] [<code>downstream: Fix another ref.</code>](https://github.com/canonical/dqlite/commit/c68da3e9eadd97d356a682c1902099c312a6f2ad)
-- [ ] [<code>build(deps): bump actions/setup-go from 4 to 5</code>](https://github.com/canonical/dqlite/commit/d36c6b47c61659a71c48c2827c86cd8796a3e3f4)
-- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 4</code>](https://github.com/canonical/dqlite/commit/1e177120c59a1ad3f8a76a108555e440b7d9c124)
-- [ ] [<code>build(deps): bump actions/checkout from 3 to 4</code>](https://github.com/canonical/dqlite/commit/f15b8a6282133111a583fa6253f038357f672302)
-- [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ</code>](https://github.com/canonical/dqlite/commit/ba246cc8539921f2efff37954b0544375f2d11be)
-- [ ] [<code>Revert "build(deps): bump codecov/codecov-action from 3 to 4"</code>](https://github.com/canonical/dqlite/commit/a4a446c2481172421ffd29377d01ffaef19c9904)
-- [ ] [<code>Release v1.16.1</code>](https://github.com/canonical/dqlite/commit/71562ee9897634606ac5a21921dc368aac97cb91)
-  - <sub>Tags: <code>v1.16.1</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Expose option to disable/enable raft snapshot compression.</code>](https://github.com/canonical/dqlite/commit/b2bcb106dacf89598b7659f2297cc89ff034cd0e)
-- [ ] [<code>conn: Fix interrupt requests.</code>](https://github.com/canonical/dqlite/commit/4991bfe0d3efab3f1ecd626a7f4d4a455971a88e)
-- [ ] [<code>test_client: Add interrupt tests.</code>](https://github.com/canonical/dqlite/commit/9d889093ff4f193cf719d3d0083394c9b2b72a1e)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>transport: Allow multiple pending writes on a transport.</code>](https://github.com/canonical/dqlite/commit/9e146af7fd4eda38575a68c27c9aa9b28d957602)
-- [ ] [<code>gateway: Don't crash a server due to misbehaving client.</code>](https://github.com/canonical/dqlite/commit/155dd9e3a7b4c675e773ba8e0eea3299ba3b4a0f)
-- [ ] [<code>conn: Abort conn_write_cb when connection is closing.</code>](https://github.com/canonical/dqlite/commit/0976158c30aa6c75aae79604c5fbaadccf3f98c6)
-- [ ] [<code>Revert "Merge pull request #560 from MathieuBordere/interrupt"</code>](https://github.com/canonical/dqlite/commit/ef7741e6d9872aa5d080c3e14c7a29c20633ec58)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 4</code>](https://github.com/canonical/dqlite/commit/7c5b24fdadeb39ea552358369b5d53e916ea2ee0)
-- [ ] [<code>Release v1.16.2</code>](https://github.com/canonical/dqlite/commit/8835be10949bb1b7d8ab66384bbf89aac70fa810)
-  - <sub>Tags: <code>v1.16.2</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2476,6 +2444,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up shortcuts on android</code>](https://github.com/krille-chan/fluffychat/commit/91f4cdc7e33a72862884b4d51ff469af782098b0)
 - [ ] [<code>chore: Follow up android haptic feedback</code>](https://github.com/krille-chan/fluffychat/commit/cc277c14318f676e4bdb7b93f4b0fd8187f84f3a)
+- [ ] [<code>chore: Follow up shortcut icon android</code>](https://github.com/krille-chan/fluffychat/commit/e45101325f81bad3b294200ad23ae57536d8693c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2555,6 +2524,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up shortcuts on android</code>](https://github.com/krille-chan/fluffychat/commit/91f4cdc7e33a72862884b4d51ff469af782098b0)
 - [ ] [<code>chore: Follow up android haptic feedback</code>](https://github.com/krille-chan/fluffychat/commit/cc277c14318f676e4bdb7b93f4b0fd8187f84f3a)
+- [ ] [<code>chore: Follow up shortcut icon android</code>](https://github.com/krille-chan/fluffychat/commit/e45101325f81bad3b294200ad23ae57536d8693c)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3085,6 +3055,7 @@
 - [ ] [<code>Use _putenv_s() on Windows in fuzztest_helpers (#2014)</code>](https://github.com/AOMediaCodec/libavif/commit/57e32e25c204664502965244ab52baf24bf7e8d1)
 - [ ] [<code>Import working ci-windows-artifacts from v1.0.x (#2015)</code>](https://github.com/AOMediaCodec/libavif/commit/04cfa7cc2d08e6f55c1442e755ad2674f4b2ba3b)
 - [ ] [<code>Test the predefined macro _WIN32 instead of WIN32</code>](https://github.com/AOMediaCodec/libavif/commit/e88a7535f890c710768cea89b68a1c092da32506)
+- [ ] [<code>Add baseline tag in CHANGELOG.md (#2017)</code>](https://github.com/AOMediaCodec/libavif/commit/71ea5ced85adce3cf0fa18606eda8d6331b0d5ca)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
