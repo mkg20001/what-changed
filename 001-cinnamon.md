@@ -46,8 +46,9 @@
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cinnamon-desktop/commit/83f4f7744b44bed997803aa0775b38258a7a1b0e)
 - [ ] [<code>packaging: Update symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a9d71d12e3ceb4c93d3da830a8d9e46183d79b26)
 - [ ] [<code>Remove a misspelled (and redundant) build option from the README.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/96ae2a514a1ff0effe1181db47ff26b5e1267ad7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix some typo spotted with codespell (#237)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/94b0b125a31cb26adcf66bc1d2b58e8b31577015)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
@@ -197,9 +198,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/xapp/commit/e00c2188dcae09d88d3c83ccd84d7d47d7072ee1)
 - [ ] [<code>Distro packaging updates (#176)</code>](https://github.com/linuxmint/xapp/commit/f30b9d162dae0055e662dc2ae3fa51a47650ae0c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Update build.yml for codespell, fix some spelling.</code>](https://github.com/linuxmint/xapp/commit/b5894870cd47ee1dd3f53e86562a7ecf2ce90475)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
