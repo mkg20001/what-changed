@@ -36,8 +36,9 @@
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
 - [ ] [<code>Fix optional wayland handling in cc-display-panel (#323)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a4619acb4682e587537961f33f121045e47ef284)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cc-display-panel.c: Use correct type for dbus label colors.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a99f1d4dbbae23f452bd0d7f632850ed35fc70c5)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.0.0...HEAD)
 
