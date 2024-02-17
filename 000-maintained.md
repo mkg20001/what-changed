@@ -2444,7 +2444,13 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up shortcuts on android</code>](https://github.com/krille-chan/fluffychat/commit/91f4cdc7e33a72862884b4d51ff469af782098b0)
 - [ ] [<code>chore: Follow up android haptic feedback</code>](https://github.com/krille-chan/fluffychat/commit/cc277c14318f676e4bdb7b93f4b0fd8187f84f3a)
+- [ ] [<code>chore: upgrade to flutter 3.19.0</code>](https://github.com/krille-chan/fluffychat/commit/fed9999f38071c44a763f5827ddae5b3d82a9c19)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix web</code>](https://github.com/krille-chan/fluffychat/commit/be2c1146473990859cc27b3eaae798c766151da2)
 - [ ] [<code>chore: Follow up shortcut icon android</code>](https://github.com/krille-chan/fluffychat/commit/e45101325f81bad3b294200ad23ae57536d8693c)
+- [ ] [<code>chore: Follow up notification avatar</code>](https://github.com/krille-chan/fluffychat/commit/20154e3f24e9a5ca4f3fb39c589874ed914aca77)
+- [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
+- [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2524,7 +2530,13 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up shortcuts on android</code>](https://github.com/krille-chan/fluffychat/commit/91f4cdc7e33a72862884b4d51ff469af782098b0)
 - [ ] [<code>chore: Follow up android haptic feedback</code>](https://github.com/krille-chan/fluffychat/commit/cc277c14318f676e4bdb7b93f4b0fd8187f84f3a)
+- [ ] [<code>chore: upgrade to flutter 3.19.0</code>](https://github.com/krille-chan/fluffychat/commit/fed9999f38071c44a763f5827ddae5b3d82a9c19)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix web</code>](https://github.com/krille-chan/fluffychat/commit/be2c1146473990859cc27b3eaae798c766151da2)
 - [ ] [<code>chore: Follow up shortcut icon android</code>](https://github.com/krille-chan/fluffychat/commit/e45101325f81bad3b294200ad23ae57536d8693c)
+- [ ] [<code>chore: Follow up notification avatar</code>](https://github.com/krille-chan/fluffychat/commit/20154e3f24e9a5ca4f3fb39c589874ed914aca77)
+- [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
+- [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
