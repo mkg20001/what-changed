@@ -2238,6 +2238,11 @@
 - [ ] [<code>Elastic code cleanup</code>](https://github.com/dbeaver/dbeaver/commit/35c78609d55773c6f934120ff5d81a475251dd07)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>dbeaver/pro#2485 Fix check for fully qualified name is not classified (#22816)</code>](https://github.com/dbeaver/dbeaver/commit/4415ac003d19c1211aa9647d420a30ce63c8b726)
+- [ ] [<code>dbeaver/pro#2452 AWS auth configuration. Password based auth type</code>](https://github.com/dbeaver/dbeaver/commit/aef579dcac846d4fc9b4def33f3c8ade4c04c52b)
+- [ ] [<code>dbeaver/pro#2466 Project resources read sync fix (#22817)</code>](https://github.com/dbeaver/dbeaver/commit/8f6fa672907c531a036b97992ece4c3c84d54667)
+- [ ] [<code>2495 elasticsearch refactoring (#22857)</code>](https://github.com/dbeaver/dbeaver/commit/590c8ec900d2acb19a41388bcbec78712781846e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Dbeaver/pro#2452 aws multi account secrets (#22855)</code>](https://github.com/dbeaver/dbeaver/commit/d87bd2c1d452546d8cfca1edad16e5ef944c8353)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2451,6 +2456,7 @@
 - [ ] [<code>chore: Follow up notification avatar</code>](https://github.com/krille-chan/fluffychat/commit/20154e3f24e9a5ca4f3fb39c589874ed914aca77)
 - [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
 - [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
+- [ ] [<code>chore: Thumbnail follow up for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d6e797b04b9b45a5c518cdf66f372a18c36c6733)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2537,6 +2543,7 @@
 - [ ] [<code>chore: Follow up notification avatar</code>](https://github.com/krille-chan/fluffychat/commit/20154e3f24e9a5ca4f3fb39c589874ed914aca77)
 - [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
 - [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
+- [ ] [<code>chore: Thumbnail follow up for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d6e797b04b9b45a5c518cdf66f372a18c36c6733)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3068,6 +3075,8 @@
 - [ ] [<code>Import working ci-windows-artifacts from v1.0.x (#2015)</code>](https://github.com/AOMediaCodec/libavif/commit/04cfa7cc2d08e6f55c1442e755ad2674f4b2ba3b)
 - [ ] [<code>Test the predefined macro _WIN32 instead of WIN32</code>](https://github.com/AOMediaCodec/libavif/commit/e88a7535f890c710768cea89b68a1c092da32506)
 - [ ] [<code>Add baseline tag in CHANGELOG.md (#2017)</code>](https://github.com/AOMediaCodec/libavif/commit/71ea5ced85adce3cf0fa18606eda8d6331b0d5ca)
+- [ ] [<code>Build AOM and dav1d differently for msan. (#2018)</code>](https://github.com/AOMediaCodec/libavif/commit/9756207487d766522343ce2c19828454d3f4d109)
+- [ ] [<code>Fix EncoderPtr to DecoderPtr in fuzztest_helpers (#2019)</code>](https://github.com/AOMediaCodec/libavif/commit/22a33531817c11355034f9e457bf5ce184045999)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3293,6 +3302,9 @@
 - [ ] [<code>storage_utils: move get_fssize to utils</code>](https://github.com/lxc/lxc/commit/9eee450d253650699a6f871695bfed1901679931)
 - [ ] [<code>network: use IN_LIBLXC</code>](https://github.com/lxc/lxc/commit/b90fecfda1474edbbe68abeb0b392ebeabd7f8d7)
 - [ ] [<code>meson: link with liblxc dynamically everywhere if possible</code>](https://github.com/lxc/lxc/commit/86799f55422f31a0536c95639fe4b78fa7aa780f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github: master -> main</code>](https://github.com/lxc/lxc/commit/d18f993b39fc62947cbe554feccc6d970ac3cd6a)
+- [ ] [<code>tests/meson: attempt to fix ossfuzz builds</code>](https://github.com/lxc/lxc/commit/d78ca00bc63eedf927bf2d4720c6ee0819f0b7bf)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
@@ -3800,6 +3812,17 @@
 - [ ] [<code>Lang. & formatting fixes in API docs.</code>](https://github.com/canonical/netplan/commit/c2b5ec03cb4348aa5c9c1cf94e8d7fb15b3e724d)
 - [ ] [<code>examples: update libvirt path (#442)</code>](https://github.com/canonical/netplan/commit/11175561b5ba476543dd9bea868301cf103ba69a)
 - [ ] [<code>cli:ovs: Improve OvsDbServerNotInstalled debug message</code>](https://github.com/canonical/netplan/commit/95e4d51435c2e9c9a6b7382e39c0306200ee1b9b)
+- [ ] [<code>libnetplan: add a get_vrf_link() function</code>](https://github.com/canonical/netplan/commit/84853f99573df363836bd78db6ef5575928e7ccb)
+- [ ] [<code>state_diff: add support for bond/bridge/vrf</code>](https://github.com/canonical/netplan/commit/74e6e5add328b220d7584cd01ed6f15907cf3977)
+- [ ] [<code>state_diff: sort the list of IPs in the diff</code>](https://github.com/canonical/netplan/commit/21e4becf90eac68cc3f6f56788d79df2d61b0405)
+- [ ] [<code>state_diff: sort routes by destination address</code>](https://github.com/canonical/netplan/commit/fcbd0b7e1b5bed165201bbd35dab32925d612852)
+- [ ] [<code>state_diff: do not process interfaces removed from netplan</code>](https://github.com/canonical/netplan/commit/2018665fb44acd4ddfeeff985892dc52796bc03b)
+- [ ] [<code>state_diff: filter out loopback host scoped route</code>](https://github.com/canonical/netplan/commit/c98226df954fa06cd5c9ed20369df04affdb015e)
+- [ ] [<code>cli/utils: add a function to create a lookup table from iproute2/rt_tables</code>](https://github.com/canonical/netplan/commit/633b1deb740d0aeca7c4c75f8dd3241e1cae234f)
+- [ ] [<code>cli:state: Recognize additional tunnel types</code>](https://github.com/canonical/netplan/commit/6c4fa902d78da6d7a553d5d2c46c9c7c693e3e28)
+- [ ] [<code>cli:state_diff: Display unknown interface type as 'other'</code>](https://github.com/canonical/netplan/commit/e6a7677918432593af3d5bb59fcb2a2b1c1e8d83)
+- [ ] [<code>cli/status: add netplan status --diff</code>](https://github.com/canonical/netplan/commit/19917d7fcdd30a090f7d63a863b207e125ba694a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4086,6 +4109,10 @@
 - [ ] [<code>Bump version to 0.9.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f240318525a38634f884d76c7554519eb20a98ab)
   - <sub>Tags: <code>0.9.1</code></sub>
 - [ ] [<code>Update RegistrationTokens.jsx: Fix resource name (#469)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/40542493594534a8df6d587018785e54fb4e07a4)
+- [ ] [<code>Fix example.csv</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d1e9f38b1447c7d40189144b7481612cf32b1a6e)
+- [ ] [<code>Use --immutable flag whenever "yarn install" is called by a tool</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ae7f6e18e58b78386efc11ea3771137f3fdfb16a)
+- [ ] [<code>Bump @mui/* from 5.15.7 to 5.15.10</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dfee94af961d2ad1441507ee8d75f4fe292b5bba)
+- [ ] [<code>Bump react-admin from 4.16.9 to 4.16.11</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7d4d765ab45cf0f5c5b07cd6ea3c6b1a7e5a5628)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
