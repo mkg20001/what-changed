@@ -3279,6 +3279,21 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>tests: remove old and broken cgroup handling code from tests</code>](https://github.com/lxc/lxc/commit/8f9733d756361ff8f8d8d589f286c0e064b1195d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>confile: move lxc_fill_elevated_privileges() to tools/lxc_attach</code>](https://github.com/lxc/lxc/commit/672b2172de2277e950e05d2abe0b1115fa6c3f53)
+- [ ] [<code>meson: introduce IN_LIBLXC preprocessor macro</code>](https://github.com/lxc/lxc/commit/f14656ebf62ab0dbb836431e2781cfd363f4e4aa)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>confile: unhide lxc_config_define*() helpers</code>](https://github.com/lxc/lxc/commit/b7591ad49d6051047371824bae6f19e37ba86dea)
+- [ ] [<code>conf: reorganize/split code to idmap_utils.c</code>](https://github.com/lxc/lxc/commit/863c59dc3aca086a892ad44eb2dfa53438544944)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>conf: reorganize/split code to utils.c</code>](https://github.com/lxc/lxc/commit/9bb31888168eaa2ceb1302439aa638c7850a6841)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>confile: unhide lxc_config_parse_arch() helper</code>](https://github.com/lxc/lxc/commit/42eeffcb05c468fd7b3a90eeda4a3abe9f26844b)
+- [ ] [<code>storage_utils: unhide and rename is_valid_storage_type to lxc_is_valid_storage_type</code>](https://github.com/lxc/lxc/commit/6eb0a73e22027ff84b0768da0c2aec4029b7d143)
+- [ ] [<code>storage_utils: move get_fssize to utils</code>](https://github.com/lxc/lxc/commit/9eee450d253650699a6f871695bfed1901679931)
+- [ ] [<code>network: use IN_LIBLXC</code>](https://github.com/lxc/lxc/commit/b90fecfda1474edbbe68abeb0b392ebeabd7f8d7)
+- [ ] [<code>meson: link with liblxc dynamically everywhere if possible</code>](https://github.com/lxc/lxc/commit/86799f55422f31a0536c95639fe4b78fa7aa780f)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
