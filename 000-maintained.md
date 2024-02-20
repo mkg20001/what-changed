@@ -2243,6 +2243,15 @@
 - [ ] [<code>2495 elasticsearch refactoring (#22857)</code>](https://github.com/dbeaver/dbeaver/commit/590c8ec900d2acb19a41388bcbec78712781846e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Dbeaver/pro#2452 aws multi account secrets (#22855)</code>](https://github.com/dbeaver/dbeaver/commit/d87bd2c1d452546d8cfca1edad16e5ef944c8353)
+- [ ] [<code>#22413 Fix SRID not changing to "simple" (#22827)</code>](https://github.com/dbeaver/dbeaver/commit/f35fba6cf79b0bd55cf5a5feed0433cd460d88c9)
+- [ ] [<code>fix RisingWave driver description (#22875)</code>](https://github.com/dbeaver/dbeaver/commit/2405e730d40232b67f2936eb46a88875bee7fcb8)
+- [ ] [<code>dbeaver/pro#2503 Fix connection properties set (#22873)</code>](https://github.com/dbeaver/dbeaver/commit/dc21a1ee47f5bb6d4e3d4ee7d9baf4b8756dd50e)
+- [ ] [<code>#17293 Open filtered-out pages in a separate dialog (#22866)</code>](https://github.com/dbeaver/dbeaver/commit/c1eb06fdd035cee3877a5f67ed2bcb17309147b0)
+- [ ] [<code>CB-4561 load credentials from secret in initConnection (#22806)</code>](https://github.com/dbeaver/dbeaver/commit/41fd07824da61314c11cd192893d876ab6958ae5)
+- [ ] [<code>#19714 Handle FQN names in oracle object sources (#22862)</code>](https://github.com/dbeaver/dbeaver/commit/753e9ad9521d6f902e425676fa1a300c6e1cc094)
+- [ ] [<code>dbeaver/pro#2491 Improve support of CASE statements (#22842)</code>](https://github.com/dbeaver/dbeaver/commit/2eb042ce0a323835c8166a93159d48088025e627)
+- [ ] [<code>dbeaver/pro#2452 Session auth info model</code>](https://github.com/dbeaver/dbeaver/commit/bc772e99be405f6cffdcba5e0bf396faf02f1de5)
+- [ ] [<code>unique secret id (#22886)</code>](https://github.com/dbeaver/dbeaver/commit/ed4b7e44ff364bcc397f5514f00e763e1a432294)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2287,6 +2296,31 @@
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.2 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.2...HEAD)
 
+- [ ] [<code>Fix many cases of arithmetic on void pointers</code>](https://github.com/canonical/dqlite/commit/c57eeff4d1c467033554ea650c963e6a30f01b7e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update unit tests</code>](https://github.com/canonical/dqlite/commit/82540df3f0a1c28b5924df6b277b272deb752392)
+- [ ] [<code>Fix alignment warnings</code>](https://github.com/canonical/dqlite/commit/4201b7377a879ae3f12e8e6ee7ae2bfdfad9249f)
+- [ ] [<code>Replace deprecated AC_PROG_CC_STDC</code>](https://github.com/canonical/dqlite/commit/36691a0f733332f8014be1897b91d35023dbfde6)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fresh copy of ax_pthread.m4 to silence warning</code>](https://github.com/canonical/dqlite/commit/37658a243024802326bf45c4aa3b00f1c4470162)
+- [ ] [<code>Import raft sources; get dqlite tests passing</code>](https://github.com/canonical/dqlite/commit/869d94ba7e1f5b60fb9ba281f9f64d0e458e3607)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Delete useless checks from configure.ac</code>](https://github.com/canonical/dqlite/commit/cacae092bc3d8a451d72264e70082fb324371704)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Try setting up clang-tidy</code>](https://github.com/canonical/dqlite/commit/0031cdef520bb32096cf98ea2d8de4ac11bfd497)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>clang-format the raft sources</code>](https://github.com/canonical/dqlite/commit/a7e3daec2d2c29b2f4d2caa37a81047bc3293cdc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Import raft tests and get them passing</code>](https://github.com/canonical/dqlite/commit/a76c30fcbc0ae06cad4dcdf9ad74ffb160e77def)
+  - <sub>Files: <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Test both raft configurations</code>](https://github.com/canonical/dqlite/commit/a61bfdde073487713fbf2d98eac3cb8cf849ff0c)
+- [ ] [<code>Hide raft symbols when building libdqlite</code>](https://github.com/canonical/dqlite/commit/7fbf5c4361d5d5c2f2330180bf211c0d0f256c44)
+- [ ] [<code>Grandfather in raft allocation functions</code>](https://github.com/canonical/dqlite/commit/b1487ce61849d735c6567dc9053663313c2d6689)
+- [ ] [<code>Update downstream workflow</code>](https://github.com/canonical/dqlite/commit/c8299b2ee230c2c1ab0d9981335483da6c461d58)
+- [ ] [<code>Update the English README</code>](https://github.com/canonical/dqlite/commit/f99d25422be3dc381b03dd934887b9cb47a7a3f2)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2457,6 +2491,8 @@
 - [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
 - [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
 - [ ] [<code>chore: Thumbnail follow up for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d6e797b04b9b45a5c518cdf66f372a18c36c6733)
+- [ ] [<code>refactor: Use hashcode instead of string to id workaround for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d2a58422b43daf57d1c98ac2d9d5878fffe44be5)
+- [ ] [<code>chore: Follow up android shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/859701e158c47a9dffff196b20b3b20d3f228a32)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2544,6 +2580,8 @@
 - [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
 - [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
 - [ ] [<code>chore: Thumbnail follow up for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d6e797b04b9b45a5c518cdf66f372a18c36c6733)
+- [ ] [<code>refactor: Use hashcode instead of string to id workaround for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d2a58422b43daf57d1c98ac2d9d5878fffe44be5)
+- [ ] [<code>chore: Follow up android shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/859701e158c47a9dffff196b20b3b20d3f228a32)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
