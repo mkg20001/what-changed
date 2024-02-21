@@ -2253,6 +2253,15 @@
 - [ ] [<code>dbeaver/pro#2452 Session auth info model</code>](https://github.com/dbeaver/dbeaver/commit/bc772e99be405f6cffdcba5e0bf396faf02f1de5)
 - [ ] [<code>unique secret id (#22886)</code>](https://github.com/dbeaver/dbeaver/commit/ed4b7e44ff364bcc397f5514f00e763e1a432294)
 - [ ] [<code>Dbeaver/dbeaver#18941 data transfer stack overflow (#22861)</code>](https://github.com/dbeaver/dbeaver/commit/dac812913e759aaf46f109d980ae5bf7c680aca5)
+- [ ] [<code>dbeaver/dbeaver#22776 Idle connections: increase timeouts and disable for embedded drivers (#22865)</code>](https://github.com/dbeaver/dbeaver/commit/28249eaf6313e526f9c9dd3c4c3f9f8e766ce7b9)
+- [ ] [<code>#19414 add more table/view properties; fix tw localizations (#22825)</code>](https://github.com/dbeaver/dbeaver/commit/930da4024133e07b7e6d12aaf2be1f67ce25cec6)
+- [ ] [<code>#22845 JSON data fetch fix (#22864)</code>](https://github.com/dbeaver/dbeaver/commit/606a030e1cc94709af92adbd855a342f7618d7c0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2505 DBeaver Edition mismatch (#22883)</code>](https://github.com/dbeaver/dbeaver/commit/1dfabd86e40d516957eedd21dba25ab759378f98)
+- [ ] [<code>dbeaver/pro#2372 Remove Mikami-Tabuchi router type (#22878)</code>](https://github.com/dbeaver/dbeaver/commit/af184a426558ce6e37209197d8dced81a399d133)
+- [ ] [<code>CB-4527. Set Region for login postgres mandatory parameter (#22870)</code>](https://github.com/dbeaver/dbeaver/commit/31a9e050b48b10489559fe95005a1ae67c43e66f)
+- [ ] [<code>#22655 Don't skip full folder path when making node id (#22876)</code>](https://github.com/dbeaver/dbeaver/commit/4a851ec28e50f8143e3962ab1868f1ce7c121bc9)
+- [ ] [<code>dbeaver/pro#2455 improve ai instructions (#22874)</code>](https://github.com/dbeaver/dbeaver/commit/3ddac08bdec7e736f9b684aee54afb39b6a56f2d)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2322,6 +2331,9 @@
 - [ ] [<code>Update downstream workflow</code>](https://github.com/canonical/dqlite/commit/c8299b2ee230c2c1ab0d9981335483da6c461d58)
 - [ ] [<code>Update the English README</code>](https://github.com/canonical/dqlite/commit/f99d25422be3dc381b03dd934887b9cb47a7a3f2)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Add a state machine library</code>](https://github.com/canonical/dqlite/commit/6134a79a7b9002488ef5f9b2d17f1b56563dfbf3)
+- [ ] [<code>Release v1.16.3</code>](https://github.com/canonical/dqlite/commit/62ffea19d36805c5f3ea533a4a7100be3c834a36)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3119,6 +3131,11 @@
 - [ ] [<code>Fix EncoderPtr to DecoderPtr in fuzztest_helpers</code>](https://github.com/AOMediaCodec/libavif/commit/dea769dc73c37aa2e4b081932e2a9bd6f2f7492c)
 - [ ] [<code>Build libyuv with fuzzer flags (#2024)</code>](https://github.com/AOMediaCodec/libavif/commit/3709f6c76beecce79bbca8c7ac7b7f4e2bc84c3e)
 - [ ] [<code>Bump libyuv (#2025)</code>](https://github.com/AOMediaCodec/libavif/commit/da359e715eb9ef660779de1bc3a8fa53531d144a)
+- [ ] [<code>Require libyuv by default. (#2020)</code>](https://github.com/AOMediaCodec/libavif/commit/e82375f55af1d9af18b416c9b4b9063c84bfcd65)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ext/libjpeg-turbo -DWITH_SIMD=0 when msan (#2026)</code>](https://github.com/AOMediaCodec/libavif/commit/da70b0177613ae94b18a8467ca70b03d2276f099)
+- [ ] [<code>Compare the item contentType string using strcmp()</code>](https://github.com/AOMediaCodec/libavif/commit/a25db2526f5b31bedadc904dd59d8c7f96134b03)
+- [ ] [<code>In sed scripts, match a dot "." with "\."</code>](https://github.com/AOMediaCodec/libavif/commit/0580334466d57fedb889d5ed7ae9574d6f66e00c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4183,6 +4200,9 @@
 - [ ] [<code>rtnl: optimize reception of rtnl events</code>](https://github.com/jow-/ucode/commit/9cbe8294909f76f69cf654d8df4ddc2f609848e0)
 - [ ] [<code>rtnl: increase event socket rx buffer size limit to 1 MiB</code>](https://github.com/jow-/ucode/commit/534417132e1876cc1a2e38d2a35f5937883be282)
 - [ ] [<code>compiler: close upvalues on loop control statements</code>](https://github.com/jow-/ucode/commit/3f9811d2f7b730f1f1d030872ae1def7e8349be6)
+- [ ] [<code>vm: rework object iteration</code>](https://github.com/jow-/ucode/commit/ee4af9b55cb4591e63c596af592abc33a8a8f315)
+- [ ] [<code>uci: refactor uci.changes() to match documentation</code>](https://github.com/jow-/ucode/commit/a275399dd8e2d221dee1998bc040f2f75e330f7a)
+- [ ] [<code>lib: fix documentation typo for `pop()` function</code>](https://github.com/jow-/ucode/commit/ba3855ae3775197f3594fc2615cac539075bd2fb)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
