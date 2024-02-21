@@ -3115,6 +3115,7 @@
 - [ ] [<code>Add baseline tag in CHANGELOG.md (#2017)</code>](https://github.com/AOMediaCodec/libavif/commit/71ea5ced85adce3cf0fa18606eda8d6331b0d5ca)
 - [ ] [<code>Build AOM and dav1d differently for msan. (#2018)</code>](https://github.com/AOMediaCodec/libavif/commit/9756207487d766522343ce2c19828454d3f4d109)
 - [ ] [<code>Fix EncoderPtr to DecoderPtr in fuzztest_helpers (#2019)</code>](https://github.com/AOMediaCodec/libavif/commit/22a33531817c11355034f9e457bf5ce184045999)
+- [ ] [<code>Fix EncoderPtr to DecoderPtr in fuzztest_helpers</code>](https://github.com/AOMediaCodec/libavif/commit/dea769dc73c37aa2e4b081932e2a9bd6f2f7492c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
