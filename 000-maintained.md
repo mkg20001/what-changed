@@ -2262,6 +2262,14 @@
 - [ ] [<code>CB-4527. Set Region for login postgres mandatory parameter (#22870)</code>](https://github.com/dbeaver/dbeaver/commit/31a9e050b48b10489559fe95005a1ae67c43e66f)
 - [ ] [<code>#22655 Don't skip full folder path when making node id (#22876)</code>](https://github.com/dbeaver/dbeaver/commit/4a851ec28e50f8143e3962ab1868f1ce7c121bc9)
 - [ ] [<code>dbeaver/pro#2455 improve ai instructions (#22874)</code>](https://github.com/dbeaver/dbeaver/commit/3ddac08bdec7e736f9b684aee54afb39b6a56f2d)
+- [ ] [<code>#22879 Improve progress reporting in the data transfer wizard (#22902)</code>](https://github.com/dbeaver/dbeaver/commit/24434f035384e1bddfc2dcc5e39fcfc6dab1c4d6)
+- [ ] [<code>dbeaver/dbeaver#22229 return to autocommit if just switched to manual mode (#22896)</code>](https://github.com/dbeaver/dbeaver/commit/528dd21d4f5fcedaf4ee7f9854d728b5f82e6215)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#22832 Fix metadata edit permission check (#22888)</code>](https://github.com/dbeaver/dbeaver/commit/9f56d7dcccdd8a482bc4a703e188b12b6a12eb97)
+- [ ] [<code>dbeaver/pro#2494 Improve support for type casts (#22872)</code>](https://github.com/dbeaver/dbeaver/commit/3651d5811d748a935dcc0ae53b5763298118df70)
+- [ ] [<code>dbeaver/pro#2423 update Yellowbrick info (#22899)</code>](https://github.com/dbeaver/dbeaver/commit/7d5dc02ab1b3e2e177f03046f06106b7dbed61b1)
+- [ ] [<code>Datasource registry load fix</code>](https://github.com/dbeaver/dbeaver/commit/186ebc2098af30ffa7815b317cf4244e9775ec06)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/20787ef22068411cd106f5e1e04f227df91c5396)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2332,9 +2340,11 @@
 - [ ] [<code>Update the English README</code>](https://github.com/canonical/dqlite/commit/f99d25422be3dc381b03dd934887b9cb47a7a3f2)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Add a state machine library</code>](https://github.com/canonical/dqlite/commit/6134a79a7b9002488ef5f9b2d17f1b56563dfbf3)
+- [ ] [<code>Added thread-pool library</code>](https://github.com/canonical/dqlite/commit/fc573b08988969257d8774c9dba707737f4879ec)
 - [ ] [<code>Release v1.16.3</code>](https://github.com/canonical/dqlite/commit/62ffea19d36805c5f3ea533a4a7100be3c834a36)
   - <sub>Tags: <code>v1.16.3</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Thread pool's code reformatted</code>](https://github.com/canonical/dqlite/commit/616e1a35ea7cb12b924ea0107e8de624592a08c6)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2504,9 +2514,20 @@
 - [ ] [<code>chore: Follow up notification avatar</code>](https://github.com/krille-chan/fluffychat/commit/20154e3f24e9a5ca4f3fb39c589874ed914aca77)
 - [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
 - [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
+- [ ] [<code>enhanced send video functionality by adding toggle send original</code>](https://github.com/krille-chan/fluffychat/commit/49caebcaa8eab753ea8e0e3315e84cd47fc500ed)
 - [ ] [<code>chore: Thumbnail follow up for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d6e797b04b9b45a5c518cdf66f372a18c36c6733)
 - [ ] [<code>refactor: Use hashcode instead of string to id workaround for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d2a58422b43daf57d1c98ac2d9d5878fffe44be5)
 - [ ] [<code>chore: Follow up android shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/859701e158c47a9dffff196b20b3b20d3f228a32)
+- [ ] [<code>build: Update to Flutter 3.19.1</code>](https://github.com/krille-chan/fluffychat/commit/d3790f299510d1a454b410281880214c66c95744)
+- [ ] [<code>build: Update Linux build files</code>](https://github.com/krille-chan/fluffychat/commit/e0291c8e6ef376056302d89b839a79229b322613)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: Follow up fix textfield design for flutter 3.19.0</code>](https://github.com/krille-chan/fluffychat/commit/ffeb8bb08e197537bcb2316d842d597d257d8f85)
+- [ ] [<code>feat: Open chat on shortcut click on android</code>](https://github.com/krille-chan/fluffychat/commit/477a8b858b6ee2be532544fe61bb0eecc46909b3)
+- [ ] [<code>chore: Follow up input content padding</code>](https://github.com/krille-chan/fluffychat/commit/6f0d880ad8d7f6589856fdb12bb6f2a7b82b710a)
+- [ ] [<code>refactor: Better download UX with file picker for android and iOS</code>](https://github.com/krille-chan/fluffychat/commit/826cce6573a76f09d10487420fcbe3f3e7c59c90)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Export session</code>](https://github.com/krille-chan/fluffychat/commit/7ae9eb82e0795215834e296f6c31b554f02599d9)
+- [ ] [<code>fix: Notifications open sometimes automatically on android</code>](https://github.com/krille-chan/fluffychat/commit/f12bf5a9bd6089b8a86b0733018545a13628e6e7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2593,9 +2614,20 @@
 - [ ] [<code>chore: Follow up notification avatar</code>](https://github.com/krille-chan/fluffychat/commit/20154e3f24e9a5ca4f3fb39c589874ed914aca77)
 - [ ] [<code>fix:  BuildContext crash when joining room</code>](https://github.com/krille-chan/fluffychat/commit/88f1fc172082bddc78065d6a4ee33d3ca5103b95)
 - [ ] [<code>fix: Open room by notification happened multiple times</code>](https://github.com/krille-chan/fluffychat/commit/a6b5acb451d2f3352d4e89eb8fdd9204604c9d52)
+- [ ] [<code>enhanced send video functionality by adding toggle send original</code>](https://github.com/krille-chan/fluffychat/commit/49caebcaa8eab753ea8e0e3315e84cd47fc500ed)
 - [ ] [<code>chore: Thumbnail follow up for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d6e797b04b9b45a5c518cdf66f372a18c36c6733)
 - [ ] [<code>refactor: Use hashcode instead of string to id workaround for notifications</code>](https://github.com/krille-chan/fluffychat/commit/d2a58422b43daf57d1c98ac2d9d5878fffe44be5)
 - [ ] [<code>chore: Follow up android shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/859701e158c47a9dffff196b20b3b20d3f228a32)
+- [ ] [<code>build: Update to Flutter 3.19.1</code>](https://github.com/krille-chan/fluffychat/commit/d3790f299510d1a454b410281880214c66c95744)
+- [ ] [<code>build: Update Linux build files</code>](https://github.com/krille-chan/fluffychat/commit/e0291c8e6ef376056302d89b839a79229b322613)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: Follow up fix textfield design for flutter 3.19.0</code>](https://github.com/krille-chan/fluffychat/commit/ffeb8bb08e197537bcb2316d842d597d257d8f85)
+- [ ] [<code>feat: Open chat on shortcut click on android</code>](https://github.com/krille-chan/fluffychat/commit/477a8b858b6ee2be532544fe61bb0eecc46909b3)
+- [ ] [<code>chore: Follow up input content padding</code>](https://github.com/krille-chan/fluffychat/commit/6f0d880ad8d7f6589856fdb12bb6f2a7b82b710a)
+- [ ] [<code>refactor: Better download UX with file picker for android and iOS</code>](https://github.com/krille-chan/fluffychat/commit/826cce6573a76f09d10487420fcbe3f3e7c59c90)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Export session</code>](https://github.com/krille-chan/fluffychat/commit/7ae9eb82e0795215834e296f6c31b554f02599d9)
+- [ ] [<code>fix: Notifications open sometimes automatically on android</code>](https://github.com/krille-chan/fluffychat/commit/f12bf5a9bd6089b8a86b0733018545a13628e6e7)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3137,6 +3169,11 @@
 - [ ] [<code>ext/libjpeg-turbo -DWITH_SIMD=0 when msan (#2026)</code>](https://github.com/AOMediaCodec/libavif/commit/da70b0177613ae94b18a8467ca70b03d2276f099)
 - [ ] [<code>Compare the item contentType string using strcmp()</code>](https://github.com/AOMediaCodec/libavif/commit/a25db2526f5b31bedadc904dd59d8c7f96134b03)
 - [ ] [<code>In sed scripts, match a dot "." with "\."</code>](https://github.com/AOMediaCodec/libavif/commit/0580334466d57fedb889d5ed7ae9574d6f66e00c)
+- [ ] [<code>Get fuzz tests to build in coverage and introspector mode. (#2030)</code>](https://github.com/AOMediaCodec/libavif/commit/7c518a48fd4143b47560ca2f4752fc312342b6a3)
+- [ ] [<code>Do not set CMAKE_C_COMPILER and CMAKE_CXX_COMPILER</code>](https://github.com/AOMediaCodec/libavif/commit/bebf72adb45a11c385a7a39c2b191881e8767ff5)
+- [ ] [<code>Check imageSizeLimit earlier in avifjpeg.c (#2031)</code>](https://github.com/AOMediaCodec/libavif/commit/22713e3a3712e9c28c70587163c39421aae7c23c)
+- [ ] [<code>Add `\n` at the end of a warning message</code>](https://github.com/AOMediaCodec/libavif/commit/832dc600063c4d3ac191ca472d498058528787cd)
+- [ ] [<code>Bump fuzztest (#2032)</code>](https://github.com/AOMediaCodec/libavif/commit/267aa80ec787b204b2290174bfb3635f510e3767)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
