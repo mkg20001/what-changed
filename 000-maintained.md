@@ -2333,6 +2333,7 @@
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Add a state machine library</code>](https://github.com/canonical/dqlite/commit/6134a79a7b9002488ef5f9b2d17f1b56563dfbf3)
 - [ ] [<code>Release v1.16.3</code>](https://github.com/canonical/dqlite/commit/62ffea19d36805c5f3ea533a4a7100be3c834a36)
+  - <sub>Tags: <code>v1.16.3</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
