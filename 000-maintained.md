@@ -2273,6 +2273,13 @@
 - [ ] [<code>dbeaver/pro#2508 Shared credentials UI redesign (#22897)</code>](https://github.com/dbeaver/dbeaver/commit/c3da80010be7e0d561230de2a052d0eab3a59d4e)
 - [ ] [<code>dbeaver/pro#2518 Fix version update dialog layout (#22923)</code>](https://github.com/dbeaver/dbeaver/commit/3ae8c38d1d6da870e07a3c36de34c1b76049f32d)
 - [ ] [<code>24.0.0 version bump</code>](https://github.com/dbeaver/dbeaver/commit/d7a34165ebccc058148b28875bf3737935f32524)
+- [ ] [<code>CB-4566 force remove prohibited driver properties (#22915)</code>](https://github.com/dbeaver/dbeaver/commit/aa16529b6fa385ec950bbcd904b7aa71e422e2e1)
+- [ ] [<code>dbeaver/pro#2359 Remove 'experimental' from SQL editor settings and (#22910)</code>](https://github.com/dbeaver/dbeaver/commit/e9b20c0702c3c9c1ee1cedad39e04315d91079e3)
+- [ ] [<code>dbeaver/dbeaver#22882 DB2 FK metadata load fix (#22913)</code>](https://github.com/dbeaver/dbeaver/commit/daee3f5f1b4c02bb674021b11fc50b7986bc2267)
+- [ ] [<code>#18426 Fix script offset calculation on right-clicking when script has collapsed regions (#22922)</code>](https://github.com/dbeaver/dbeaver/commit/f477aa13c86a2259308d47bf420212f63c285c96)
+- [ ] [<code>dbeaver/pro#2235 Add hints for tasks with local files scheduled remotely (#22903)</code>](https://github.com/dbeaver/dbeaver/commit/5b402edcf5f5a31bfeb0afd9d7e123e678744358)
+- [ ] [<code>CB-4677. Refactor after review (#22844)</code>](https://github.com/dbeaver/dbeaver/commit/302062bc999f5ec1099f9e9bf3ecd497de2a6622)
+- [ ] [<code>dbeaver/dbeaver#22259 avoid using snapshot url for non snapshot versions (#22895)</code>](https://github.com/dbeaver/dbeaver/commit/f534025434cc319612ecbe1701e186d2acb1fab0)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2348,6 +2355,13 @@
   - <sub>Tags: <code>v1.16.3</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Thread pool's code reformatted</code>](https://github.com/canonical/dqlite/commit/616e1a35ea7cb12b924ea0107e8de624592a08c6)
+- [ ] [<code>Don't check for lz4 unless building raft</code>](https://github.com/canonical/dqlite/commit/74d2e4d53980419ea41b6be0f27dd25c0058a6ce)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Fix use-after-free in threadpool code</code>](https://github.com/canonical/dqlite/commit/6a24f188372a2c35cde5894a30b1b64d627d7cd5)
+- [ ] [<code>Fix --enable-build-sqlite</code>](https://github.com/canonical/dqlite/commit/61fc84c738aef1ded2c7be30f81ef2fce28be05d)
+- [ ] [<code>Release v1.16.4</code>](https://github.com/canonical/dqlite/commit/498d62766fb2c7aff18d9506b5023e12e4f393b1)
+  - <sub>Tags: <code>v1.16.4</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3182,6 +3196,8 @@
 - [ ] [<code>Add `\n` at the end of a warning message</code>](https://github.com/AOMediaCodec/libavif/commit/832dc600063c4d3ac191ca472d498058528787cd)
 - [ ] [<code>Bump fuzztest (#2032)</code>](https://github.com/AOMediaCodec/libavif/commit/267aa80ec787b204b2290174bfb3635f510e3767)
 - [ ] [<code>Compile libaom and libyuv with clang-cl</code>](https://github.com/AOMediaCodec/libavif/commit/877a2742671849dd393f9b54cd39328c63c6ee4e)
+- [ ] [<code>Revert to an older fuzztest version (#2036)</code>](https://github.com/AOMediaCodec/libavif/commit/d75df2622e899dee302fe8fccc606d2dfdbadab9)
+- [ ] [<code>ext/dav1d.cmd: Add -Db_lundef=false to comments</code>](https://github.com/AOMediaCodec/libavif/commit/55bfa734e40922c72b6c8f3294a4ebc78390e9a9)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
