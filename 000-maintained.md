@@ -3174,6 +3174,7 @@
 - [ ] [<code>Check imageSizeLimit earlier in avifjpeg.c (#2031)</code>](https://github.com/AOMediaCodec/libavif/commit/22713e3a3712e9c28c70587163c39421aae7c23c)
 - [ ] [<code>Add `\n` at the end of a warning message</code>](https://github.com/AOMediaCodec/libavif/commit/832dc600063c4d3ac191ca472d498058528787cd)
 - [ ] [<code>Bump fuzztest (#2032)</code>](https://github.com/AOMediaCodec/libavif/commit/267aa80ec787b204b2290174bfb3635f510e3767)
+- [ ] [<code>Compile libaom and libyuv with clang-cl</code>](https://github.com/AOMediaCodec/libavif/commit/877a2742671849dd393f9b54cd39328c63c6ee4e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
