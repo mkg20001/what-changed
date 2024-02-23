@@ -2270,6 +2270,9 @@
 - [ ] [<code>dbeaver/pro#2423 update Yellowbrick info (#22899)</code>](https://github.com/dbeaver/dbeaver/commit/7d5dc02ab1b3e2e177f03046f06106b7dbed61b1)
 - [ ] [<code>Datasource registry load fix</code>](https://github.com/dbeaver/dbeaver/commit/186ebc2098af30ffa7815b317cf4244e9775ec06)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/20787ef22068411cd106f5e1e04f227df91c5396)
+- [ ] [<code>dbeaver/pro#2508 Shared credentials UI redesign (#22897)</code>](https://github.com/dbeaver/dbeaver/commit/c3da80010be7e0d561230de2a052d0eab3a59d4e)
+- [ ] [<code>dbeaver/pro#2518 Fix version update dialog layout (#22923)</code>](https://github.com/dbeaver/dbeaver/commit/3ae8c38d1d6da870e07a3c36de34c1b76049f32d)
+- [ ] [<code>24.0.0 version bump</code>](https://github.com/dbeaver/dbeaver/commit/d7a34165ebccc058148b28875bf3737935f32524)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2528,6 +2531,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Export session</code>](https://github.com/krille-chan/fluffychat/commit/7ae9eb82e0795215834e296f6c31b554f02599d9)
 - [ ] [<code>fix: Notifications open sometimes automatically on android</code>](https://github.com/krille-chan/fluffychat/commit/f12bf5a9bd6089b8a86b0733018545a13628e6e7)
+- [ ] [<code>build: Add changelog for 1.18.0</code>](https://github.com/krille-chan/fluffychat/commit/278c3d165b2fd1ee1a7b9db279079648945ceb96)
+  - <sub>Tags: <code>rc1.18.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2628,6 +2633,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Export session</code>](https://github.com/krille-chan/fluffychat/commit/7ae9eb82e0795215834e296f6c31b554f02599d9)
 - [ ] [<code>fix: Notifications open sometimes automatically on android</code>](https://github.com/krille-chan/fluffychat/commit/f12bf5a9bd6089b8a86b0733018545a13628e6e7)
+- [ ] [<code>build: Add changelog for 1.18.0</code>](https://github.com/krille-chan/fluffychat/commit/278c3d165b2fd1ee1a7b9db279079648945ceb96)
+  - <sub>Tags: <code>rc1.18.0-1</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
