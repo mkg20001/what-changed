@@ -3198,6 +3198,10 @@
 - [ ] [<code>Compile libaom and libyuv with clang-cl</code>](https://github.com/AOMediaCodec/libavif/commit/877a2742671849dd393f9b54cd39328c63c6ee4e)
 - [ ] [<code>Revert to an older fuzztest version (#2036)</code>](https://github.com/AOMediaCodec/libavif/commit/d75df2622e899dee302fe8fccc606d2dfdbadab9)
 - [ ] [<code>ext/dav1d.cmd: Add -Db_lundef=false to comments</code>](https://github.com/AOMediaCodec/libavif/commit/55bfa734e40922c72b6c8f3294a4ebc78390e9a9)
+- [ ] [<code>oss-fuzz/build.sh: move flags to 'set' from #! (#2037)</code>](https://github.com/AOMediaCodec/libavif/commit/a44270e713aacaf8cea5a7820dbaaf9128908941)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Link aviftest/avifyuv with C++ compiler if libyuv</code>](https://github.com/AOMediaCodec/libavif/commit/51b6adff90218b3d2568d8ec20e3afc434c0f4e9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3427,6 +3431,7 @@
 - [ ] [<code>github: master -> main</code>](https://github.com/lxc/lxc/commit/d18f993b39fc62947cbe554feccc6d970ac3cd6a)
 - [ ] [<code>tests/meson: attempt to fix ossfuzz builds</code>](https://github.com/lxc/lxc/commit/d78ca00bc63eedf927bf2d4720c6ee0819f0b7bf)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>lxc-net: Enable IPv6 by default</code>](https://github.com/lxc/lxc/commit/e88883445a6b412605433a69c27ffe674d4649d8)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
