@@ -2547,6 +2547,8 @@
 - [ ] [<code>fix: Notifications open sometimes automatically on android</code>](https://github.com/krille-chan/fluffychat/commit/f12bf5a9bd6089b8a86b0733018545a13628e6e7)
 - [ ] [<code>build: Add changelog for 1.18.0</code>](https://github.com/krille-chan/fluffychat/commit/278c3d165b2fd1ee1a7b9db279079648945ceb96)
   - <sub>Tags: <code>rc1.18.0-1</code></sub>
+- [ ] [<code>feat: Add speed button for audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/bf1f8ebaf5a85092eda296d056125f9410391f98)
+- [ ] [<code>chore: Follow up set speed in voice messages</code>](https://github.com/krille-chan/fluffychat/commit/1c19c9a2a99158770f990dc99e7811b73febc740)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2649,6 +2651,8 @@
 - [ ] [<code>fix: Notifications open sometimes automatically on android</code>](https://github.com/krille-chan/fluffychat/commit/f12bf5a9bd6089b8a86b0733018545a13628e6e7)
 - [ ] [<code>build: Add changelog for 1.18.0</code>](https://github.com/krille-chan/fluffychat/commit/278c3d165b2fd1ee1a7b9db279079648945ceb96)
   - <sub>Tags: <code>rc1.18.0-1</code></sub>
+- [ ] [<code>feat: Add speed button for audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/bf1f8ebaf5a85092eda296d056125f9410391f98)
+- [ ] [<code>chore: Follow up set speed in voice messages</code>](https://github.com/krille-chan/fluffychat/commit/1c19c9a2a99158770f990dc99e7811b73febc740)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
