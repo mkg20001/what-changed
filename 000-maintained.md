@@ -2666,7 +2666,7 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.3 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.3...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.0.4 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.0.4...HEAD)
 
 - [ ] [<code>Add experimental support for reading and writing gain maps. (#1501)</code>](https://github.com/AOMediaCodec/libavif/commit/50a541469c98009016af8dcc9f83a1be79f3a7d9)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
