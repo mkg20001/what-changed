@@ -2552,6 +2552,16 @@
 - [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/05a099e60f003d7e5d23d312e5a935b67e29bc8d)
   - <sub>Tags: <code>rc1.18.0-2</code> <code>v1.18.0</code></sub>
 - [ ] [<code>refactor: Remove old aliases workaround</code>](https://github.com/krille-chan/fluffychat/commit/1324ce517dd56eb4a561498d20ba818a7a175a0e)
+- [ ] [<code>feat: Add insert content via gboard</code>](https://github.com/krille-chan/fluffychat/commit/6435e703e4be2515d811f52f3380e9eb778c2ff2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update adaptive_dialog</code>](https://github.com/krille-chan/fluffychat/commit/549291ab40d7609160e1b9653bea01854a9673ad)
+- [ ] [<code>ci: add a license compliance check</code>](https://github.com/krille-chan/fluffychat/commit/cd6294b421069d7fdcc1a0af252d48ccbb62aaec)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up send filename for keyboard input</code>](https://github.com/krille-chan/fluffychat/commit/6c5133abfee066f0f699b5085bac4cc3dfa7ae31)
+- [ ] [<code>design: New sticker picker next to emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/5a6016931b4c5e870471dfb377a2e3b33b48bba8)
+- [ ] [<code>chore: Follow up stickers</code>](https://github.com/krille-chan/fluffychat/commit/db8e4c29166f8e4f69434ac37ac972ca9b6bc850)
+- [ ] [<code>design: Nicer QR Code design</code>](https://github.com/krille-chan/fluffychat/commit/0e8363221b916e8186de32fe9bfa3b9c0fc419f9)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2659,6 +2669,16 @@
 - [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/05a099e60f003d7e5d23d312e5a935b67e29bc8d)
   - <sub>Tags: <code>rc1.18.0-2</code> <code>v1.18.0</code></sub>
 - [ ] [<code>refactor: Remove old aliases workaround</code>](https://github.com/krille-chan/fluffychat/commit/1324ce517dd56eb4a561498d20ba818a7a175a0e)
+- [ ] [<code>feat: Add insert content via gboard</code>](https://github.com/krille-chan/fluffychat/commit/6435e703e4be2515d811f52f3380e9eb778c2ff2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update adaptive_dialog</code>](https://github.com/krille-chan/fluffychat/commit/549291ab40d7609160e1b9653bea01854a9673ad)
+- [ ] [<code>ci: add a license compliance check</code>](https://github.com/krille-chan/fluffychat/commit/cd6294b421069d7fdcc1a0af252d48ccbb62aaec)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up send filename for keyboard input</code>](https://github.com/krille-chan/fluffychat/commit/6c5133abfee066f0f699b5085bac4cc3dfa7ae31)
+- [ ] [<code>design: New sticker picker next to emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/5a6016931b4c5e870471dfb377a2e3b33b48bba8)
+- [ ] [<code>chore: Follow up stickers</code>](https://github.com/krille-chan/fluffychat/commit/db8e4c29166f8e4f69434ac37ac972ca9b6bc850)
+- [ ] [<code>design: Nicer QR Code design</code>](https://github.com/krille-chan/fluffychat/commit/0e8363221b916e8186de32fe9bfa3b9c0fc419f9)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
