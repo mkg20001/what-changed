@@ -2549,6 +2549,9 @@
   - <sub>Tags: <code>rc1.18.0-1</code></sub>
 - [ ] [<code>feat: Add speed button for audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/bf1f8ebaf5a85092eda296d056125f9410391f98)
 - [ ] [<code>chore: Follow up set speed in voice messages</code>](https://github.com/krille-chan/fluffychat/commit/1c19c9a2a99158770f990dc99e7811b73febc740)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/05a099e60f003d7e5d23d312e5a935b67e29bc8d)
+  - <sub>Tags: <code>rc1.18.0-2</code> <code>v1.18.0</code></sub>
+- [ ] [<code>refactor: Remove old aliases workaround</code>](https://github.com/krille-chan/fluffychat/commit/1324ce517dd56eb4a561498d20ba818a7a175a0e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2653,6 +2656,9 @@
   - <sub>Tags: <code>rc1.18.0-1</code></sub>
 - [ ] [<code>feat: Add speed button for audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/bf1f8ebaf5a85092eda296d056125f9410391f98)
 - [ ] [<code>chore: Follow up set speed in voice messages</code>](https://github.com/krille-chan/fluffychat/commit/1c19c9a2a99158770f990dc99e7811b73febc740)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/05a099e60f003d7e5d23d312e5a935b67e29bc8d)
+  - <sub>Tags: <code>rc1.18.0-2</code> <code>v1.18.0</code></sub>
+- [ ] [<code>refactor: Remove old aliases workaround</code>](https://github.com/krille-chan/fluffychat/commit/1324ce517dd56eb4a561498d20ba818a7a175a0e)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
