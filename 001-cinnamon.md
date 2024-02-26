@@ -58,6 +58,9 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.0.3 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.0.3...HEAD)
 
+- [ ] [<code>debian: Don't install CScreensaver-1.0.gir.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/97fcf5d163f45de89159db110462d340dc736acf)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.0.4 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.0.4...HEAD)
 
