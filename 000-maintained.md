@@ -2280,6 +2280,16 @@
 - [ ] [<code>dbeaver/pro#2235 Add hints for tasks with local files scheduled remotely (#22903)</code>](https://github.com/dbeaver/dbeaver/commit/5b402edcf5f5a31bfeb0afd9d7e123e678744358)
 - [ ] [<code>CB-4677. Refactor after review (#22844)</code>](https://github.com/dbeaver/dbeaver/commit/302062bc999f5ec1099f9e9bf3ecd497de2a6622)
 - [ ] [<code>dbeaver/dbeaver#22259 avoid using snapshot url for non snapshot versions (#22895)</code>](https://github.com/dbeaver/dbeaver/commit/f534025434cc319612ecbe1701e186d2acb1fab0)
+- [ ] [<code>#17640 Override exposeModelRange to not always expand all collapsed nodes (#22925)</code>](https://github.com/dbeaver/dbeaver/commit/7fc3f3031a49be6ee4c653447557f7fe3d1da9c6)
+- [ ] [<code>#21248 add sase-insensitive metadata search for MySQL/MariaDB (#22901)</code>](https://github.com/dbeaver/dbeaver/commit/ccd3f63618a567852f647490ad10851b973a8c9b)
+- [ ] [<code>#22912 add catalog cache case sensitivity flag (#22938)</code>](https://github.com/dbeaver/dbeaver/commit/99190c972c7a4bf97ba40823c8b90c3c3977002d)
+- [ ] [<code>dbeaver/pro#2517 add the STRICT keyword for functions definitions (#22935)</code>](https://github.com/dbeaver/dbeaver/commit/39a5f08b7fe634f88672fcd5766a62ee6b0e6c8c)
+- [ ] [<code>#22934 fix task id in config (#22944)</code>](https://github.com/dbeaver/dbeaver/commit/9e747de794a8810cedaeb8ed66fba90bfd8c86e6)
+- [ ] [<code>dbeaver/dbeaver#22858 Launcher fix (#22943)</code>](https://github.com/dbeaver/dbeaver/commit/e33b1ca8662d6664b8ac38b45fef3cc0f2531a99)
+- [ ] [<code>dbeaver/pro#2370 Add support for script variables to query model and outline (#22941)</code>](https://github.com/dbeaver/dbeaver/commit/db0e4f737a96e7282250778a46fea46bc8a83dbc)
+- [ ] [<code>dbeaver/pro#2379 adjust manager permissions (#22932)</code>](https://github.com/dbeaver/dbeaver/commit/3777ea1fe3862928b93b5a9d6b20261c734cd9ca)
+- [ ] [<code>dbeaver/pro#2448 Usage statistics: check the box to not send the statistics (#22919)</code>](https://github.com/dbeaver/dbeaver/commit/4019434db83d8e7b0d55607d25e8dc4fbea6ed09)
+- [ ] [<code>dbeaver/pro#2510 upgrade PG driver to 42.7.2 (#22906)</code>](https://github.com/dbeaver/dbeaver/commit/958a9b0aac73b44d17017c36c7e7abb02f6222d1)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3196,6 +3206,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Link aviftest/avifyuv with C++ compiler if libyuv</code>](https://github.com/AOMediaCodec/libavif/commit/51b6adff90218b3d2568d8ec20e3afc434c0f4e9)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Export EXTRA_CMAKE_FLAGS to remove the "unbound variable" error (#2041)</code>](https://github.com/AOMediaCodec/libavif/commit/e7ab3d45b7020ec5eb301566d70c612cf37aa9f5)
+- [ ] [<code>Add --icc flag to avifdec (#2042)</code>](https://github.com/AOMediaCodec/libavif/commit/cdb1c3df9f3e02b2bbe2686474440a081ebb9b6a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3943,6 +3955,11 @@
 - [ ] [<code>cli:state_diff: Display unknown interface type as 'other'</code>](https://github.com/canonical/netplan/commit/e6a7677918432593af3d5bb59fcb2a2b1c1e8d83)
 - [ ] [<code>cli/status: add netplan status --diff</code>](https://github.com/canonical/netplan/commit/19917d7fcdd30a090f7d63a863b207e125ba694a)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>parser: accept special options for MAC address</code>](https://github.com/canonical/netplan/commit/f675f76fb380464ed2922588dffeb04d2f0cf2be)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: fix NetworkManager autopkgtest not using deb822</code>](https://github.com/canonical/netplan/commit/22741764e88171a8e0d9f3729fce2d7a0cbb4f41)
+- [ ] [<code>Add additional bridge port settings (#410)</code>](https://github.com/canonical/netplan/commit/c44f6e7304cc7b9f2861d33ff2d168678a2e69ca)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4066,6 +4083,22 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Set cmake project name</code>](https://github.com/OLSR/OONF/commit/87820df462c6b821032b284f4d6e9db9d661d07c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.10.6 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.10.6...HEAD)
+
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4ca4b492eadeaab48ef459892763cbc71e441014)
+- [ ] [<code>feat(android): add custom button action settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dec93885c49d98a4a3a94bc8ac1354bda9ed82e8)
+- [ ] [<code>build(android): update gradle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0227446e3886dc8a2285945101dec18d9e7245df)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: replace deprecated gradle-build-action with setup-gradle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66e63583a3926a2d74ff65b26dbeae0184cdcb50)
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5dd3569ad18ae4b0ada3773df1bbc05a5b8ddc0d)
+- [ ] [<code>test(android): fix broken Float == comparison</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c4caeadb422e19aecbaec1fdfe2ac927adbecd77)
+- [ ] [<code>feat(android): allow for more than 5 nav items</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0bdd47460f928808d3f7f54698c8ed90c9582fe4)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2d6287af822ca987042592bea9a992d607f565ae)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: mark Life P3 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/45f7ad6b2406e00d4064fab03b3a9654ae9dd7b7)
+- [ ] [<code>build(gui): update gtk-rs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f72dca376d2c62a5137740c9f6a5216871b6dfb)
+- [ ] [<code>refactor(android): fix deprecations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d2e31e6e4e3869b3b678cc68dd0a4f08344f3f0c)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
