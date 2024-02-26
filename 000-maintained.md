@@ -2321,47 +2321,11 @@
 - [ ] [<code>incus-agent: Fix SELinux</code>](https://github.com/lxc/distrobuilder/commit/31407f24afc423dde985de381930bdb0213d4daf)
 - [ ] [<code>Bump pongo2 to v4</code>](https://github.com/lxc/distrobuilder/commit/1da40b24ac3a092f62d09909b280d5095ba2427a)
 - [ ] [<code>Remove race in tests</code>](https://github.com/lxc/distrobuilder/commit/703b66d9cfee5198e59ae388119001d88e362d24)
+- [ ] [<code>debootstrap: Pass --no-merged-usr on noble</code>](https://github.com/lxc/distrobuilder/commit/d1029f2bd33e5da3742b075889a85c2a68eace1b)
+  - <sub>Keywords: <code>usr</code></sub>
 
-#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.2 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.2...HEAD)
+#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
-- [ ] [<code>Fix many cases of arithmetic on void pointers</code>](https://github.com/canonical/dqlite/commit/c57eeff4d1c467033554ea650c963e6a30f01b7e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update unit tests</code>](https://github.com/canonical/dqlite/commit/82540df3f0a1c28b5924df6b277b272deb752392)
-- [ ] [<code>Fix alignment warnings</code>](https://github.com/canonical/dqlite/commit/4201b7377a879ae3f12e8e6ee7ae2bfdfad9249f)
-- [ ] [<code>Replace deprecated AC_PROG_CC_STDC</code>](https://github.com/canonical/dqlite/commit/36691a0f733332f8014be1897b91d35023dbfde6)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Fresh copy of ax_pthread.m4 to silence warning</code>](https://github.com/canonical/dqlite/commit/37658a243024802326bf45c4aa3b00f1c4470162)
-- [ ] [<code>Import raft sources; get dqlite tests passing</code>](https://github.com/canonical/dqlite/commit/869d94ba7e1f5b60fb9ba281f9f64d0e458e3607)
-  - <sub>Files: <code>configure.ac</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Delete useless checks from configure.ac</code>](https://github.com/canonical/dqlite/commit/cacae092bc3d8a451d72264e70082fb324371704)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Try setting up clang-tidy</code>](https://github.com/canonical/dqlite/commit/0031cdef520bb32096cf98ea2d8de4ac11bfd497)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>clang-format the raft sources</code>](https://github.com/canonical/dqlite/commit/a7e3daec2d2c29b2f4d2caa37a81047bc3293cdc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Import raft tests and get them passing</code>](https://github.com/canonical/dqlite/commit/a76c30fcbc0ae06cad4dcdf9ad74ffb160e77def)
-  - <sub>Files: <code>configure.ac</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Test both raft configurations</code>](https://github.com/canonical/dqlite/commit/a61bfdde073487713fbf2d98eac3cb8cf849ff0c)
-- [ ] [<code>Hide raft symbols when building libdqlite</code>](https://github.com/canonical/dqlite/commit/7fbf5c4361d5d5c2f2330180bf211c0d0f256c44)
-- [ ] [<code>Grandfather in raft allocation functions</code>](https://github.com/canonical/dqlite/commit/b1487ce61849d735c6567dc9053663313c2d6689)
-- [ ] [<code>Update downstream workflow</code>](https://github.com/canonical/dqlite/commit/c8299b2ee230c2c1ab0d9981335483da6c461d58)
-- [ ] [<code>Update the English README</code>](https://github.com/canonical/dqlite/commit/f99d25422be3dc381b03dd934887b9cb47a7a3f2)
-  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
-- [ ] [<code>Add a state machine library</code>](https://github.com/canonical/dqlite/commit/6134a79a7b9002488ef5f9b2d17f1b56563dfbf3)
-- [ ] [<code>Added thread-pool library</code>](https://github.com/canonical/dqlite/commit/fc573b08988969257d8774c9dba707737f4879ec)
-- [ ] [<code>Release v1.16.3</code>](https://github.com/canonical/dqlite/commit/62ffea19d36805c5f3ea533a4a7100be3c834a36)
-  - <sub>Tags: <code>v1.16.3</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Thread pool's code reformatted</code>](https://github.com/canonical/dqlite/commit/616e1a35ea7cb12b924ea0107e8de624592a08c6)
-- [ ] [<code>Don't check for lz4 unless building raft</code>](https://github.com/canonical/dqlite/commit/74d2e4d53980419ea41b6be0f27dd25c0058a6ce)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Fix use-after-free in threadpool code</code>](https://github.com/canonical/dqlite/commit/6a24f188372a2c35cde5894a30b1b64d627d7cd5)
-- [ ] [<code>Fix --enable-build-sqlite</code>](https://github.com/canonical/dqlite/commit/61fc84c738aef1ded2c7be30f81ef2fce28be05d)
-- [ ] [<code>Release v1.16.4</code>](https://github.com/canonical/dqlite/commit/498d62766fb2c7aff18d9506b5023e12e4f393b1)
-  - <sub>Tags: <code>v1.16.4</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
