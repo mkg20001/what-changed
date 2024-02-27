@@ -2292,6 +2292,15 @@
 - [ ] [<code>dbeaver/pro#2510 upgrade PG driver to 42.7.2 (#22906)</code>](https://github.com/dbeaver/dbeaver/commit/958a9b0aac73b44d17017c36c7e7abb02f6222d1)
 - [ ] [<code>dbeaver/pro#2507 new splashscreens (#22954)</code>](https://github.com/dbeaver/dbeaver/commit/536a21c40b301b533ea4bafc01ab664d669c5f56)
 - [ ] [<code>dbeaver/dbeaver#21920 handle unique key type changing in the dialog window (#22957)</code>](https://github.com/dbeaver/dbeaver/commit/2384cc3adfa893a68c038e5253906fe869534ca0)
+- [ ] [<code>dbeaver/pro#2524 Fix memory leak in the outline script node image (#22937)</code>](https://github.com/dbeaver/dbeaver/commit/24f9af0effbd8c76527669bee19b026718cd573b)
+- [ ] [<code>CB-4746. Update openAi model list (#22952)</code>](https://github.com/dbeaver/dbeaver/commit/7cbbde0950f7aa72b99c33afa3a129f800da811c)
+- [ ] [<code>CB-4635. Fixed opened new qm session when refresh page (#22960)</code>](https://github.com/dbeaver/dbeaver/commit/dea4918aa6f61902d1c63a324ecce395595e6151)
+- [ ] [<code>dbeaver/pro#2264 Don't stop proposing after dot character (#22969)</code>](https://github.com/dbeaver/dbeaver/commit/11c483b98bdf9e2c076cd78f58307882f1bcd87f)
+- [ ] [<code>dbeaver/pro# 2502 Impossible to delete project pass without entering password   (#22911)</code>](https://github.com/dbeaver/dbeaver/commit/cbd44ad5a6302d3aeb52ea5ea46f69866a50628d)
+- [ ] [<code>dbeaver/pro#2539 fix connection page NPE (#22968)</code>](https://github.com/dbeaver/dbeaver/commit/91ce603dd288ebd7a0c3f065b7b7418b77d1ad22)
+- [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/699fb7f6b7bc31298100a920bd4964e01189b17a)
+- [ ] [<code>#17640 Fix line deletion (#22967)</code>](https://github.com/dbeaver/dbeaver/commit/296c58cea95534e4cd610cc0d55280d5a2077933)
+- [ ] [<code>CB-4763 fix translating alter queries (#22973)</code>](https://github.com/dbeaver/dbeaver/commit/eac9f70b5d382db114b527ff398571b20d279462)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3962,6 +3971,7 @@
 - [ ] [<code>CI: fix NetworkManager autopkgtest not using deb822</code>](https://github.com/canonical/netplan/commit/22741764e88171a8e0d9f3729fce2d7a0cbb4f41)
 - [ ] [<code>Add additional bridge port settings (#410)</code>](https://github.com/canonical/netplan/commit/c44f6e7304cc7b9f2861d33ff2d168678a2e69ca)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test:cli:units: skip _permission_denied test if run as root</code>](https://github.com/canonical/netplan/commit/9bff87d1ef37894d3140ec38d424ff89565b06ef)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
