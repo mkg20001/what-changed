@@ -2290,6 +2290,8 @@
 - [ ] [<code>dbeaver/pro#2379 adjust manager permissions (#22932)</code>](https://github.com/dbeaver/dbeaver/commit/3777ea1fe3862928b93b5a9d6b20261c734cd9ca)
 - [ ] [<code>dbeaver/pro#2448 Usage statistics: check the box to not send the statistics (#22919)</code>](https://github.com/dbeaver/dbeaver/commit/4019434db83d8e7b0d55607d25e8dc4fbea6ed09)
 - [ ] [<code>dbeaver/pro#2510 upgrade PG driver to 42.7.2 (#22906)</code>](https://github.com/dbeaver/dbeaver/commit/958a9b0aac73b44d17017c36c7e7abb02f6222d1)
+- [ ] [<code>dbeaver/pro#2507 new splashscreens (#22954)</code>](https://github.com/dbeaver/dbeaver/commit/536a21c40b301b533ea4bafc01ab664d669c5f56)
+- [ ] [<code>dbeaver/dbeaver#21920 handle unique key type changing in the dialog window (#22957)</code>](https://github.com/dbeaver/dbeaver/commit/2384cc3adfa893a68c038e5253906fe869534ca0)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
