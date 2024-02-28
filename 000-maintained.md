@@ -2303,6 +2303,7 @@
 - [ ] [<code>CB-4763 fix translating alter queries (#22973)</code>](https://github.com/dbeaver/dbeaver/commit/eac9f70b5d382db114b527ff398571b20d279462)
 - [ ] [<code>dbeaver/pro#2541 fix splashscreens on macOS (#22972)</code>](https://github.com/dbeaver/dbeaver/commit/3c96024609facb782e20020d18697e04ffee7602)
 - [ ] [<code>dbeaver/pro#2171 clear preferences before adding new custom parameters (#22970)</code>](https://github.com/dbeaver/dbeaver/commit/3c0e579ec23a69b1ffe326f459aace114c4042df)
+- [ ] [<code>dbeaver/pro#2544 check for workspace permission (#22984)</code>](https://github.com/dbeaver/dbeaver/commit/1bdd6e35c9b5cc260bbfa0fbbeeebe5cc9302df5)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2349,6 +2350,7 @@
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
+- [ ] [<code>raft: Close fd used for fallocate probing</code>](https://github.com/canonical/dqlite/commit/593f0b7738e0c0d30972c5bf36164c09e5dcb53b)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3974,6 +3976,17 @@
 - [ ] [<code>Add additional bridge port settings (#410)</code>](https://github.com/canonical/netplan/commit/c44f6e7304cc7b9f2861d33ff2d168678a2e69ca)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>test:cli:units: skip _permission_denied test if run as root</code>](https://github.com/canonical/netplan/commit/9bff87d1ef37894d3140ec38d424ff89565b06ef)
+- [ ] [<code>libnetplan: add a getter for bond mode</code>](https://github.com/canonical/netplan/commit/9c2f861acad6491f30a600b5410671955b32c602)
+- [ ] [<code>sriov: move the udev logic to a service unit</code>](https://github.com/canonical/netplan/commit/69fe6a3c805842ccbd23aa384a90cc339f0efa8b)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>sriov: check the eswitch mode before trying to change it</code>](https://github.com/canonical/netplan/commit/7d51ce450c04ab4c938c5213de69c59425feab84)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>sriov_rebind: cooperate with VF LAG activation</code>](https://github.com/canonical/netplan/commit/739ce1d6c9dff0d2750bb893b33ac4af748f84f3)
+- [ ] [<code>sriov_rebind: netplan rebind --debug setup</code>](https://github.com/canonical/netplan/commit/c80efe4bef31d28b6c9df6b0aa34c0c0caf98b7f)
+- [ ] [<code>tests/sriov: adapt tests to the last sr-iov related changes</code>](https://github.com/canonical/netplan/commit/348be2e1e81b4c0362de6dc2d1b573b8f94cb3ef)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>sriov_apply: execute apply --sriov-only before network-pre.target</code>](https://github.com/canonical/netplan/commit/32b19b8fc7af0ef206d43db7a25e17762cd003c8)
+- [ ] [<code>tests:integration: Be less strict about systemctl daemon-reload (LP: #2048388)</code>](https://github.com/canonical/netplan/commit/f187f66f63210c9249d6f8e014d1bcac429d2167)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
