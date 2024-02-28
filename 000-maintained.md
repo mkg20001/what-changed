@@ -2301,6 +2301,8 @@
 - [ ] [<code>Code style</code>](https://github.com/dbeaver/dbeaver/commit/699fb7f6b7bc31298100a920bd4964e01189b17a)
 - [ ] [<code>#17640 Fix line deletion (#22967)</code>](https://github.com/dbeaver/dbeaver/commit/296c58cea95534e4cd610cc0d55280d5a2077933)
 - [ ] [<code>CB-4763 fix translating alter queries (#22973)</code>](https://github.com/dbeaver/dbeaver/commit/eac9f70b5d382db114b527ff398571b20d279462)
+- [ ] [<code>dbeaver/pro#2541 fix splashscreens on macOS (#22972)</code>](https://github.com/dbeaver/dbeaver/commit/3c96024609facb782e20020d18697e04ffee7602)
+- [ ] [<code>dbeaver/pro#2171 clear preferences before adding new custom parameters (#22970)</code>](https://github.com/dbeaver/dbeaver/commit/3c0e579ec23a69b1ffe326f459aace114c4042df)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
