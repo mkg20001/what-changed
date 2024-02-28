@@ -158,6 +158,7 @@
 - [ ] [<code>meson.build: Show gtk-layer-shell status in the build summary.</code>](https://github.com/linuxmint/nemo/commit/f3dce0856d00d7b7bbf7239b87e277261e8e8b26)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-dnd: Have the drag and drop text data not be uris but plain paths. (#3356)</code>](https://github.com/linuxmint/nemo/commit/184204ad4871420e19e2dc0a51d81780f06eed0f)
+- [ ] [<code>org.nemo.root.policy.in: Allow escalation for remote users.</code>](https://github.com/linuxmint/nemo/commit/990cdd01a9eec437278c389de2c64ef5c830583c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -177,7 +178,9 @@
 #### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
 
 - [ ] [<code>apply jxl patch from gthumb, adds support for jxl-0.9.0 (#205)</code>](https://github.com/linuxmint/pix/commit/0de1387da0d1fce51e5c2db04a9a88e64f7c4336)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>debian/control: Add libjxl-dev for build.</code>](https://github.com/linuxmint/pix/commit/09cd8ad9a856276d4a72de4f3e6968e1cafb212e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
