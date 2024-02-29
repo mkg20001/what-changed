@@ -2304,6 +2304,8 @@
 - [ ] [<code>dbeaver/pro#2541 fix splashscreens on macOS (#22972)</code>](https://github.com/dbeaver/dbeaver/commit/3c96024609facb782e20020d18697e04ffee7602)
 - [ ] [<code>dbeaver/pro#2171 clear preferences before adding new custom parameters (#22970)</code>](https://github.com/dbeaver/dbeaver/commit/3c0e579ec23a69b1ffe326f459aace114c4042df)
 - [ ] [<code>dbeaver/pro#2544 check for workspace permission (#22984)</code>](https://github.com/dbeaver/dbeaver/commit/1bdd6e35c9b5cc260bbfa0fbbeeebe5cc9302df5)
+- [ ] [<code>#23004 Session idle fix (#23005)</code>](https://github.com/dbeaver/dbeaver/commit/aa5dc934fc5daf9bb2cfd894c6322d379f8be6ed)
+- [ ] [<code>dbeaver/pro#2489 Project password: add link to Preferences to the project password change dialog (#22863)</code>](https://github.com/dbeaver/dbeaver/commit/9249738873b94907e75aa58263896ce700cc90bc)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2551,6 +2553,8 @@
 - [ ] [<code>chore: Follow up stickers</code>](https://github.com/krille-chan/fluffychat/commit/db8e4c29166f8e4f69434ac37ac972ca9b6bc850)
 - [ ] [<code>design: Nicer QR Code design</code>](https://github.com/krille-chan/fluffychat/commit/0e8363221b916e8186de32fe9bfa3b9c0fc419f9)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update Matrix Dart SDK 0.25.11</code>](https://github.com/krille-chan/fluffychat/commit/03511a1e8dbc7e8d64ea82fc4969a9b4a16f9c23)
+- [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2668,6 +2672,8 @@
 - [ ] [<code>chore: Follow up stickers</code>](https://github.com/krille-chan/fluffychat/commit/db8e4c29166f8e4f69434ac37ac972ca9b6bc850)
 - [ ] [<code>design: Nicer QR Code design</code>](https://github.com/krille-chan/fluffychat/commit/0e8363221b916e8186de32fe9bfa3b9c0fc419f9)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update Matrix Dart SDK 0.25.11</code>](https://github.com/krille-chan/fluffychat/commit/03511a1e8dbc7e8d64ea82fc4969a9b4a16f9c23)
+- [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3223,6 +3229,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Export EXTRA_CMAKE_FLAGS to remove the "unbound variable" error (#2041)</code>](https://github.com/AOMediaCodec/libavif/commit/e7ab3d45b7020ec5eb301566d70c612cf37aa9f5)
 - [ ] [<code>Add --icc flag to avifdec (#2042)</code>](https://github.com/AOMediaCodec/libavif/commit/cdb1c3df9f3e02b2bbe2686474440a081ebb9b6a)
+- [ ] [<code>Do not export env variables, just assign to them. (#2044)</code>](https://github.com/AOMediaCodec/libavif/commit/69aba547d1e1bdcbcee6291bd2d5389c8f7bd96e)
+- [ ] [<code>Constrain XMP,Exif size in avifJPEGReadInternal() (#2045)</code>](https://github.com/AOMediaCodec/libavif/commit/8db5d51b86a82dd735b8d1b33991e52bea493aa9)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
