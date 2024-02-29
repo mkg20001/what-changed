@@ -3987,6 +3987,18 @@
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>sriov_apply: execute apply --sriov-only before network-pre.target</code>](https://github.com/canonical/netplan/commit/32b19b8fc7af0ef206d43db7a25e17762cd003c8)
 - [ ] [<code>tests:integration: Be less strict about systemctl daemon-reload (LP: #2048388)</code>](https://github.com/canonical/netplan/commit/f187f66f63210c9249d6f8e014d1bcac429d2167)
+- [ ] [<code>utils/state_diff: refactor route table lookup methods</code>](https://github.com/canonical/netplan/commit/b6a577e04f7d9beff6e9772af31695734fc49e01)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>state_diff: adopt MAC address options</code>](https://github.com/canonical/netplan/commit/cf0cc62b275fe46be141a52af73eb115bf474522)
+- [ ] [<code>libnetplan: expose the link-local setting</code>](https://github.com/canonical/netplan/commit/a7f75a027d92cc1ab766815006b11493fcc06425)
+- [ ] [<code>state_diff: handle link local IPs and routes</code>](https://github.com/canonical/netplan/commit/6fce292efc8a0d48809e003708ddf4c15eb5d27e)
+- [ ] [<code>tools/diff.py: drop old diff script</code>](https://github.com/canonical/netplan/commit/6d3f0e9c6fe4ddafe4c490f122d0fa8f857a3415)
+- [ ] [<code>tests: fix the status --diff integration tests</code>](https://github.com/canonical/netplan/commit/0787625c5e8c139c292c5e6be468f9adfe52b3a1)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>docs: add status --diff to the docs</code>](https://github.com/canonical/netplan/commit/5fb1a81a4312b7e9692452f28bccea052493f5da)
+- [ ] [<code>abi-compat: 1.0 ABI</code>](https://github.com/canonical/netplan/commit/45f7cd1569896d9e316c130bf5c60b7ccfc8211d)
+  - <sub>Tags: <code>1.0</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
