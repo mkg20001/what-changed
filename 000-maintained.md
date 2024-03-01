@@ -2307,6 +2307,9 @@
 - [ ] [<code>#23004 Session idle fix (#23005)</code>](https://github.com/dbeaver/dbeaver/commit/aa5dc934fc5daf9bb2cfd894c6322d379f8be6ed)
 - [ ] [<code>dbeaver/pro#2489 Project password: add link to Preferences to the project password change dialog (#22863)</code>](https://github.com/dbeaver/dbeaver/commit/9249738873b94907e75aa58263896ce700cc90bc)
 - [ ] [<code>#23002 fix reltype column absent for RisingWave (#23008)</code>](https://github.com/dbeaver/dbeaver/commit/207b29236460bb02cd1731a88da65b8c9bcd7292)
+- [ ] [<code>CB-4748. Added api for read accessible teams (#22971)</code>](https://github.com/dbeaver/dbeaver/commit/2b7dda0ffceafbb66e16cc47f0bdc7c14919d360)
+- [ ] [<code>dbeaver/pro#2556 Standardize element layout on splash screens (#23015)</code>](https://github.com/dbeaver/dbeaver/commit/b0f00ecdec09ac84f137297394c8cb0d0e539c06)
+- [ ] [<code>dbeaver/pro#2551 update RisingWave and SAP ASE icons and logos (#23027)</code>](https://github.com/dbeaver/dbeaver/commit/efcd2b46c0932eb9c91bfab649d9e3215d49e1f5)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2356,6 +2359,9 @@
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
 - [ ] [<code>raft: Close fd used for fallocate probing</code>](https://github.com/canonical/dqlite/commit/593f0b7738e0c0d30972c5bf36164c09e5dcb53b)
+- [ ] [<code>Use --enable-build-raft for Coverity</code>](https://github.com/canonical/dqlite/commit/a176d1de198712a2270b1d125b03071ef1ca1dc8)
+- [ ] [<code>Replaced macro-based QUEUE__* interfaces by function-based</code>](https://github.com/canonical/dqlite/commit/4643bf304421e09f76d00f3acdcafa80f6c753ed)
+- [ ] [<code>Replaced macro-based QUEUE__* interfaces by function-based in raft</code>](https://github.com/canonical/dqlite/commit/27e78352cf736105fec664c3b7d7b1068201546f)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2559,6 +2565,7 @@
 - [ ] [<code>build: Update Matrix Dart SDK 0.25.11</code>](https://github.com/krille-chan/fluffychat/commit/03511a1e8dbc7e8d64ea82fc4969a9b4a16f9c23)
 - [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
 - [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
+- [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2679,6 +2686,7 @@
 - [ ] [<code>build: Update Matrix Dart SDK 0.25.11</code>](https://github.com/krille-chan/fluffychat/commit/03511a1e8dbc7e8d64ea82fc4969a9b4a16f9c23)
 - [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
 - [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
+- [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
