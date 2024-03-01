@@ -2306,6 +2306,7 @@
 - [ ] [<code>dbeaver/pro#2544 check for workspace permission (#22984)</code>](https://github.com/dbeaver/dbeaver/commit/1bdd6e35c9b5cc260bbfa0fbbeeebe5cc9302df5)
 - [ ] [<code>#23004 Session idle fix (#23005)</code>](https://github.com/dbeaver/dbeaver/commit/aa5dc934fc5daf9bb2cfd894c6322d379f8be6ed)
 - [ ] [<code>dbeaver/pro#2489 Project password: add link to Preferences to the project password change dialog (#22863)</code>](https://github.com/dbeaver/dbeaver/commit/9249738873b94907e75aa58263896ce700cc90bc)
+- [ ] [<code>#23002 fix reltype column absent for RisingWave (#23008)</code>](https://github.com/dbeaver/dbeaver/commit/207b29236460bb02cd1731a88da65b8c9bcd7292)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2348,6 +2349,8 @@
 - [ ] [<code>Bump pongo2 to v4</code>](https://github.com/lxc/distrobuilder/commit/1da40b24ac3a092f62d09909b280d5095ba2427a)
 - [ ] [<code>Remove race in tests</code>](https://github.com/lxc/distrobuilder/commit/703b66d9cfee5198e59ae388119001d88e362d24)
 - [ ] [<code>debootstrap: Pass --no-merged-usr on noble</code>](https://github.com/lxc/distrobuilder/commit/d1029f2bd33e5da3742b075889a85c2a68eace1b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Debian sid no-merged-usr</code>](https://github.com/lxc/distrobuilder/commit/ac904db4db1d329cce1232f9ed98bd473769060e)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
@@ -2555,6 +2558,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update Matrix Dart SDK 0.25.11</code>](https://github.com/krille-chan/fluffychat/commit/03511a1e8dbc7e8d64ea82fc4969a9b4a16f9c23)
 - [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
+- [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2674,6 +2678,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update Matrix Dart SDK 0.25.11</code>](https://github.com/krille-chan/fluffychat/commit/03511a1e8dbc7e8d64ea82fc4969a9b4a16f9c23)
 - [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
+- [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3231,6 +3236,7 @@
 - [ ] [<code>Add --icc flag to avifdec (#2042)</code>](https://github.com/AOMediaCodec/libavif/commit/cdb1c3df9f3e02b2bbe2686474440a081ebb9b6a)
 - [ ] [<code>Do not export env variables, just assign to them. (#2044)</code>](https://github.com/AOMediaCodec/libavif/commit/69aba547d1e1bdcbcee6291bd2d5389c8f7bd96e)
 - [ ] [<code>Constrain XMP,Exif size in avifJPEGReadInternal() (#2045)</code>](https://github.com/AOMediaCodec/libavif/commit/8db5d51b86a82dd735b8d1b33991e52bea493aa9)
+- [ ] [<code>Bump the github-actions group with 5 updates (#2046)</code>](https://github.com/AOMediaCodec/libavif/commit/78cb03eb1a55c9340c0d0dc58faf9267ca370e7a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4216,6 +4222,7 @@
 - [ ] [<code>docs: Document struct raft_update</code>](https://github.com/cowsql/raft/commit/8eb061a6128cf8e3a8d668b2678a756eade7b882)
 - [ ] [<code>docs: Rename core.rst to algorithm.rst</code>](https://github.com/cowsql/raft/commit/0bc7a62871e57a41db81c93665c583a0398d6009)
 - [ ] [<code>docs: Add section about struct raft update (#177)</code>](https://github.com/cowsql/raft/commit/c5ce8b3ec1aa60bd414af13b860d978c38c33d26)
+- [ ] [<code>github: Don't run BMC job every day</code>](https://github.com/cowsql/raft/commit/4a84e279e50026f55db63b2374740f9406275b9d)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
