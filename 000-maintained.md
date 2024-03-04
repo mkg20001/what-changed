@@ -2359,9 +2359,16 @@
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
 - [ ] [<code>raft: Close fd used for fallocate probing</code>](https://github.com/canonical/dqlite/commit/593f0b7738e0c0d30972c5bf36164c09e5dcb53b)
+- [ ] [<code>client/protocol: Ensure 64 bits for nanosecond calculations</code>](https://github.com/canonical/dqlite/commit/0d74f3be70225740002466edc72118cfc2c4064f)
 - [ ] [<code>Use --enable-build-raft for Coverity</code>](https://github.com/canonical/dqlite/commit/a176d1de198712a2270b1d125b03071ef1ca1dc8)
 - [ ] [<code>Replaced macro-based QUEUE__* interfaces by function-based</code>](https://github.com/canonical/dqlite/commit/4643bf304421e09f76d00f3acdcafa80f6c753ed)
 - [ ] [<code>Replaced macro-based QUEUE__* interfaces by function-based in raft</code>](https://github.com/canonical/dqlite/commit/27e78352cf736105fec664c3b7d7b1068201546f)
+- [ ] [<code>raft/uv: Drop AI_V4MAPPED | AI_ADDRCONFIG from getaddrinfo</code>](https://github.com/canonical/dqlite/commit/bea9e6f72c6a6aff628a3362cdc8dc6fabbb11c0)
+- [ ] [<code>Bump libuv version requirement to 1.34</code>](https://github.com/canonical/dqlite/commit/7540e5884863ce83d4a21f66765e5f6808015478)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>test_conn: Fix changed alignment requirements.</code>](https://github.com/canonical/dqlite/commit/c98dff306e1c7d20d59cdf570f6b72a04a1ecb69)
+- [ ] [<code>.gitignore: ignore raft test binaries.</code>](https://github.com/canonical/dqlite/commit/197d98bf085a75d051d39cad589dd40175101673)
+- [ ] [<code>Try raising aio-max-nr on GHA</code>](https://github.com/canonical/dqlite/commit/e814a1c2eb5342fde8a089b6c5388e86acd07ca4)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2566,6 +2573,7 @@
 - [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
 - [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
 - [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
+- [ ] [<code>Point to correct path for auth.html so completing sso login flow no longer 404s</code>](https://github.com/krille-chan/fluffychat/commit/a0f82a2abae6987af4ce834f980cbbf7e4ba93bb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2687,6 +2695,7 @@
 - [ ] [<code>refactor: Enhance logic when to mark room as read</code>](https://github.com/krille-chan/fluffychat/commit/0cf6a1d74a08bbdfb2e862e838d5dcfd54d8d2f3)
 - [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
 - [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
+- [ ] [<code>Point to correct path for auth.html so completing sso login flow no longer 404s</code>](https://github.com/krille-chan/fluffychat/commit/a0f82a2abae6987af4ce834f980cbbf7e4ba93bb)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3245,6 +3254,8 @@
 - [ ] [<code>Do not export env variables, just assign to them. (#2044)</code>](https://github.com/AOMediaCodec/libavif/commit/69aba547d1e1bdcbcee6291bd2d5389c8f7bd96e)
 - [ ] [<code>Constrain XMP,Exif size in avifJPEGReadInternal() (#2045)</code>](https://github.com/AOMediaCodec/libavif/commit/8db5d51b86a82dd735b8d1b33991e52bea493aa9)
 - [ ] [<code>Bump the github-actions group with 5 updates (#2046)</code>](https://github.com/AOMediaCodec/libavif/commit/78cb03eb1a55c9340c0d0dc58faf9267ca370e7a)
+- [ ] [<code>Rename imageSizeLimit to sizeLimit in avifJPEGRead (#2047)</code>](https://github.com/AOMediaCodec/libavif/commit/3175a6173f2fd29d1397cd00ac562dee6c921e03)
+- [ ] [<code>Fix metadata error message in avifJPEGRead() (#2048)</code>](https://github.com/AOMediaCodec/libavif/commit/de32f53d28cc8915acba6bedc8ee738e7f7445f5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4190,6 +4201,8 @@
 
 #### [raft-canonical](https://github.com/canonical/raft): [refs/tags/v0.18.1 → HEAD](https://github.com/canonical/raft/compare/refs/tags/v0.18.1...HEAD)
 
+- [ ] [<code>Mothball the project</code>](https://github.com/canonical/raft/commit/c4ac63f4bf4ab4e4ef843068ad7d8af03f49af75)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.22.0 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.22.0...HEAD)
 
