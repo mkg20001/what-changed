@@ -31,7 +31,12 @@
 - [ ] [<code>cs_panel.py: Fix behavior when there are overlapping definitions.</code>](https://github.com/linuxmint/cinnamon/commit/da30af3d0f2f55f8662eaa3c3f18ceb2c6020074)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>panel.js: Improve handling of invalid/duplicate panel definitions.</code>](https://github.com/linuxmint/cinnamon/commit/ca8df1fc82b8d068d72bc2b974cc1168952e4122)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>notifications@cinnamon.org: Append the locale's date format to notifications (#11933)</code>](https://github.com/linuxmint/cinnamon/commit/324482e292bcc16cdd760edf897e77af7a30504a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_screensaver.py: Add screen lock delay options for 5 and 10 seconds (#12101)</code>](https://github.com/linuxmint/cinnamon/commit/91574d8981165dd82a8da92c6190e2cbd907a992)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -49,7 +54,10 @@
 - [ ] [<code>Remove a misspelled (and redundant) build option from the README.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/96ae2a514a1ff0effe1181db47ff26b5e1267ad7)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>fix some typo spotted with codespell (#237)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/94b0b125a31cb26adcf66bc1d2b58e8b31577015)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Add a makepot script.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/b554c49ba646b53548d3d43d4e7e6aeb5db87bc6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon.cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.0.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.0.0...HEAD)
 
