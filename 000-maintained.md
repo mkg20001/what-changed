@@ -2310,6 +2310,7 @@
 - [ ] [<code>CB-4748. Added api for read accessible teams (#22971)</code>](https://github.com/dbeaver/dbeaver/commit/2b7dda0ffceafbb66e16cc47f0bdc7c14919d360)
 - [ ] [<code>dbeaver/pro#2556 Standardize element layout on splash screens (#23015)</code>](https://github.com/dbeaver/dbeaver/commit/b0f00ecdec09ac84f137297394c8cb0d0e539c06)
 - [ ] [<code>dbeaver/pro#2551 update RisingWave and SAP ASE icons and logos (#23027)</code>](https://github.com/dbeaver/dbeaver/commit/efcd2b46c0932eb9c91bfab649d9e3215d49e1f5)
+- [ ] [<code>CB-4674 fix shared ssh configs loading (#23043)</code>](https://github.com/dbeaver/dbeaver/commit/144888985853accec15ab123ec1b3eacd7c31101)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2574,6 +2575,7 @@
 - [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
 - [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
 - [ ] [<code>Point to correct path for auth.html so completing sso login flow no longer 404s</code>](https://github.com/krille-chan/fluffychat/commit/a0f82a2abae6987af4ce834f980cbbf7e4ba93bb)
+- [ ] [<code>fix: Set read marker on web</code>](https://github.com/krille-chan/fluffychat/commit/fdc77fb6d9427e3f02431db9dfce5bc7efd349f6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2696,6 +2698,7 @@
 - [ ] [<code>build: Update to flutter 3.19.2</code>](https://github.com/krille-chan/fluffychat/commit/1e6a16f3b84fe3a9b2f7cf8c8b06ad626bd49208)
 - [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
 - [ ] [<code>Point to correct path for auth.html so completing sso login flow no longer 404s</code>](https://github.com/krille-chan/fluffychat/commit/a0f82a2abae6987af4ce834f980cbbf7e4ba93bb)
+- [ ] [<code>fix: Set read marker on web</code>](https://github.com/krille-chan/fluffychat/commit/fdc77fb6d9427e3f02431db9dfce5bc7efd349f6)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
