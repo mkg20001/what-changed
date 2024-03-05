@@ -2311,6 +2311,9 @@
 - [ ] [<code>dbeaver/pro#2556 Standardize element layout on splash screens (#23015)</code>](https://github.com/dbeaver/dbeaver/commit/b0f00ecdec09ac84f137297394c8cb0d0e539c06)
 - [ ] [<code>dbeaver/pro#2551 update RisingWave and SAP ASE icons and logos (#23027)</code>](https://github.com/dbeaver/dbeaver/commit/efcd2b46c0932eb9c91bfab649d9e3215d49e1f5)
 - [ ] [<code>CB-4674 fix shared ssh configs loading (#23043)</code>](https://github.com/dbeaver/dbeaver/commit/144888985853accec15ab123ec1b3eacd7c31101)
+- [ ] [<code>Dbeaver/pro#2523 annotations (#23057)</code>](https://github.com/dbeaver/dbeaver/commit/c8595acc3085bd3ab9a09c06c2c81b08fe721ac5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2575 SQLite EE must be embedded (#23058)</code>](https://github.com/dbeaver/dbeaver/commit/046491a0923df2a5a01b6f0f2f3866d162cdaa23)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
