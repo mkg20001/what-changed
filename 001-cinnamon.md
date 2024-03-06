@@ -35,6 +35,12 @@
 - [ ] [<code>notifications@cinnamon.org: Append the locale's date format to notifications (#11933)</code>](https://github.com/linuxmint/cinnamon/commit/324482e292bcc16cdd760edf897e77af7a30504a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_screensaver.py: Add screen lock delay options for 5 and 10 seconds (#12101)</code>](https://github.com/linuxmint/cinnamon/commit/91574d8981165dd82a8da92c6190e2cbd907a992)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_keyboard.py, cinnamon-desktop-editor.py: Fix some python 3.12-</code>](https://github.com/linuxmint/cinnamon/commit/166bccf27e5328e7ec1ec817067d02329f48feba)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>cs_keyboard.py: Update the custom list visually as well as</code>](https://github.com/linuxmint/cinnamon/commit/24753bb6b70250a574349b9341072b163c3d1517)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>calendar@cinnamon.org: Fix garbage collection of stale events.</code>](https://github.com/linuxmint/cinnamon/commit/da7e219e9df9d489f09e538009122b1560ea63b4)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
