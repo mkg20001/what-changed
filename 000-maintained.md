@@ -2314,6 +2314,7 @@
 - [ ] [<code>Dbeaver/pro#2523 annotations (#23057)</code>](https://github.com/dbeaver/dbeaver/commit/c8595acc3085bd3ab9a09c06c2c81b08fe721ac5)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2575 SQLite EE must be embedded (#23058)</code>](https://github.com/dbeaver/dbeaver/commit/046491a0923df2a5a01b6f0f2f3866d162cdaa23)
+- [ ] [<code>dbeaver/pro#2579 Force BC bundles (#23067)</code>](https://github.com/dbeaver/dbeaver/commit/ece4d3802a8cdb909aa0cbd94b7b2577a5ea929c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2579,6 +2580,10 @@
 - [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
 - [ ] [<code>Point to correct path for auth.html so completing sso login flow no longer 404s</code>](https://github.com/krille-chan/fluffychat/commit/a0f82a2abae6987af4ce834f980cbbf7e4ba93bb)
 - [ ] [<code>fix: Set read marker on web</code>](https://github.com/krille-chan/fluffychat/commit/fdc77fb6d9427e3f02431db9dfce5bc7efd349f6)
+- [ ] [<code>fix: Set readmarker on focus on web</code>](https://github.com/krille-chan/fluffychat/commit/c0ba68dff56d392cb26f7e7d5927f713a1a9cbdc)
+- [ ] [<code>refactor: Better logic for removing outdated notifications</code>](https://github.com/krille-chan/fluffychat/commit/6d973db6fcdb27c6b145e17cb6bcf7f9deaaa3ca)
+- [ ] [<code>chore: Follow up notification logging</code>](https://github.com/krille-chan/fluffychat/commit/0eaa7aa73e407f817b04c87b1933cfd2e4c54e9b)
+- [ ] [<code>chore: Follow up dismiss notifications logic</code>](https://github.com/krille-chan/fluffychat/commit/bb3865757b853dedbb4d865827f046f13482fe86)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2702,6 +2707,10 @@
 - [ ] [<code>feat: Reply with one button in desktop</code>](https://github.com/krille-chan/fluffychat/commit/f56758e1c421ffa55bb3987321b6451ca28de816)
 - [ ] [<code>Point to correct path for auth.html so completing sso login flow no longer 404s</code>](https://github.com/krille-chan/fluffychat/commit/a0f82a2abae6987af4ce834f980cbbf7e4ba93bb)
 - [ ] [<code>fix: Set read marker on web</code>](https://github.com/krille-chan/fluffychat/commit/fdc77fb6d9427e3f02431db9dfce5bc7efd349f6)
+- [ ] [<code>fix: Set readmarker on focus on web</code>](https://github.com/krille-chan/fluffychat/commit/c0ba68dff56d392cb26f7e7d5927f713a1a9cbdc)
+- [ ] [<code>refactor: Better logic for removing outdated notifications</code>](https://github.com/krille-chan/fluffychat/commit/6d973db6fcdb27c6b145e17cb6bcf7f9deaaa3ca)
+- [ ] [<code>chore: Follow up notification logging</code>](https://github.com/krille-chan/fluffychat/commit/0eaa7aa73e407f817b04c87b1933cfd2e4c54e9b)
+- [ ] [<code>chore: Follow up dismiss notifications logic</code>](https://github.com/krille-chan/fluffychat/commit/bb3865757b853dedbb4d865827f046f13482fe86)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4353,6 +4362,8 @@
 - [ ] [<code>Video sort ignores punctuation #611</code>](https://github.com/axcore/tartube/commit/43d074b1f1111522ff16d7aff07d5256d4ba2e6b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix video re-download and broken filter button</code>](https://github.com/axcore/tartube/commit/9f8863a1444b329eed6f7b9c8f2eac2e4491dd4a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Misc fixes and new features</code>](https://github.com/axcore/tartube/commit/94a70d5e921a63bf884f0716d17a40ddd6b0a7f0)
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
