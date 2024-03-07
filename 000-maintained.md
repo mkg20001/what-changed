@@ -4200,7 +4200,7 @@
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.12.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
