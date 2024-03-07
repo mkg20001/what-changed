@@ -93,7 +93,9 @@
 
 - [ ] [<code>Fix compile issue (#386)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/48da3c4763bea93ea3e1d2ba2e2dfdb7f41d8afc)
 - [ ] [<code>test-input-helper.c: Fix printf formatting so codespell doesn't trip.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6fdaa4886ba20d16085ec4c4497ae90058e4508f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>fix some typo spotted with codespell (#385)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fce611d2a37954b4823ae342878ad88e9f67a213)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
@@ -173,7 +175,13 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-dnd: Have the drag and drop text data not be uris but plain paths. (#3356)</code>](https://github.com/linuxmint/nemo/commit/184204ad4871420e19e2dc0a51d81780f06eed0f)
 - [ ] [<code>org.nemo.root.policy.in: Allow escalation for remote users.</code>](https://github.com/linuxmint/nemo/commit/990cdd01a9eec437278c389de2c64ef5c830583c)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>nemo-desktop: use app_id as .desktop file name (#3340)</code>](https://github.com/linuxmint/nemo/commit/4aa7a7b725fb9934c4c7187431b7200d11253c45)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Rename initial desktop file to match final name, clean up some</code>](https://github.com/linuxmint/nemo/commit/ae1a5756015efc2bc3ded25525c84b0113239cfc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
