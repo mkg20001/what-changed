@@ -2315,6 +2315,9 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2575 SQLite EE must be embedded (#23058)</code>](https://github.com/dbeaver/dbeaver/commit/046491a0923df2a5a01b6f0f2f3866d162cdaa23)
 - [ ] [<code>dbeaver/pro#2579 Force BC bundles (#23067)</code>](https://github.com/dbeaver/dbeaver/commit/ece4d3802a8cdb909aa0cbd94b7b2577a5ea929c)
+- [ ] [<code>dbeaver/dbeaver#23087 The statistics dialog should be skipped (#23088)</code>](https://github.com/dbeaver/dbeaver/commit/efc39de6fb9e746154bba53519646203fd1c8a01)
+- [ ] [<code>#23081 Don't stop analysis if meet already classified alias (#23082)</code>](https://github.com/dbeaver/dbeaver/commit/8f7eeb9fbabc82a4be64611bec09326b1b4f54ee)
+- [ ] [<code>dbeaver/pro#2595 Disable query analysis on Mac by default (#23092)</code>](https://github.com/dbeaver/dbeaver/commit/69eef4faa5735071be386281c2d752eba88dcf82)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2584,6 +2587,7 @@
 - [ ] [<code>refactor: Better logic for removing outdated notifications</code>](https://github.com/krille-chan/fluffychat/commit/6d973db6fcdb27c6b145e17cb6bcf7f9deaaa3ca)
 - [ ] [<code>chore: Follow up notification logging</code>](https://github.com/krille-chan/fluffychat/commit/0eaa7aa73e407f817b04c87b1933cfd2e4c54e9b)
 - [ ] [<code>chore: Follow up dismiss notifications logic</code>](https://github.com/krille-chan/fluffychat/commit/bb3865757b853dedbb4d865827f046f13482fe86)
+- [ ] [<code>feat: Support refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/1712d30c2fd080ec5266be8decf817bb5c7af487)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2711,6 +2715,7 @@
 - [ ] [<code>refactor: Better logic for removing outdated notifications</code>](https://github.com/krille-chan/fluffychat/commit/6d973db6fcdb27c6b145e17cb6bcf7f9deaaa3ca)
 - [ ] [<code>chore: Follow up notification logging</code>](https://github.com/krille-chan/fluffychat/commit/0eaa7aa73e407f817b04c87b1933cfd2e4c54e9b)
 - [ ] [<code>chore: Follow up dismiss notifications logic</code>](https://github.com/krille-chan/fluffychat/commit/bb3865757b853dedbb4d865827f046f13482fe86)
+- [ ] [<code>feat: Support refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/1712d30c2fd080ec5266be8decf817bb5c7af487)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4210,6 +4215,56 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.32.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.32.0...HEAD)
 
+- [ ] [<code>TCIDrv: Added Initial Support for TCI</code>](https://github.com/foldynl/QLog.git/commit/9c55af3e27868f15dbe314de39b7405c8cb9f9bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>TCIDrv: PWR-emit is called in case of DRIVE command - not TUNE_DRIVE</code>](https://github.com/foldynl/QLog.git/commit/f95cdeb4bd0209f33a701df7b8ebbf5595b723f8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>TCIDrv: Added RIT/XIT Enable command</code>](https://github.com/foldynl/QLog.git/commit/373123e670b143b37431e68bdfb08e475b1542e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Added TCI Simulator Client/Server</code>](https://github.com/foldynl/QLog.git/commit/ce8f1a2a1a05892b30f8da743ae3f1618a5c5d01)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>TCIDrv: Added feature to send DX Spot to Rig</code>](https://github.com/foldynl/QLog.git/commit/0205488360869ba5b6dbcdf28c69c60c057f6911)
+- [ ] [<code>TCIDrv: Suppressing the double call of SET when the value does not change</code>](https://github.com/foldynl/QLog.git/commit/6615b9a3d4325759ed536b6bd0692b3226b9bce3)
+- [ ] [<code>TCIDrv: SendState is needed to implement due to Exit from Manual Mode</code>](https://github.com/foldynl/QLog.git/commit/aaea5f157ed13fa36de47925ad8bdcd440d5bb03)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/25ea6671aa1d0ea7c5f39ea1d48d2adc4fbabce6)
+- [ ] [<code>Updated Changelog and README file</code>](https://github.com/foldynl/QLog.git/commit/1f81ac2e616455019cc89264a78a3ae27b85d8fc)
+- [ ] [<code>TuneDX: Added Mode for better mode tunning</code>](https://github.com/foldynl/QLog.git/commit/28756b8abf97dc34a815d36df3ebe019efcf2b13)
+- [ ] [<code>update Chinese translation to v0.32.0</code>](https://github.com/foldynl/QLog.git/commit/f23a2d294ec610ba133fbafb6f0b922feb63225a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/33c54ab6e7c9c4293693f04e14142aba176767c2)
+- [ ] [<code>TCIDrv: Added QT websockets to CI GitHub Actions</code>](https://github.com/foldynl/QLog.git/commit/2ac1dd490c96c60f3f0ba4a7fad17f0c42632b5f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Updated documents and build files - websocket package is requested for linux</code>](https://github.com/foldynl/QLog.git/commit/ec155a76a57d961b9f1a1792724cbfc3336eb495)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fixed #318 - LoTW and eQSL downloads are only QSLs downloads - download button label changed</code>](https://github.com/foldynl/QLog.git/commit/4dc1cb3a4f0d31e17b51ed25e70777f6d2311560)
+- [ ] [<code>Update Changelog</code>](https://github.com/foldynl/QLog.git/commit/ccd5ceb0524714fa725c4a224b813bf47661f434)
+- [ ] [<code>Fixed #315 - modal dialog blinks under window - clock as QGraphicsView</code>](https://github.com/foldynl/QLog.git/commit/253f6558c61d6abdc7034e4a4f84355fe5b56a36)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/084aaa0409452a24309b49fc570572d220ac53d3)
+- [ ] [<code>Fixed #315 - Changed Font size from 25 to 20</code>](https://github.com/foldynl/QLog.git/commit/2bdbaa91b868bf60a51ad4243a9f61301b2473e5)
+- [ ] [<code>Fixed #322 - i18n: Database Country Name is translated</code>](https://github.com/foldynl/QLog.git/commit/df6d08b2f54c0abc010f4b84c48d305d2327d601)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>i18n: Prop-modes are translated</code>](https://github.com/foldynl/QLog.git/commit/e5530534f25f8d06d75cf7161ae9016fffb340cc)
+- [ ] [<code>Data: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/ffbf7ea17e4ccf65b22ec5fae35303dc4057dc07)
+- [ ] [<code>MacOS Build: Upgrade icu4c</code>](https://github.com/foldynl/QLog.git/commit/1dd16203ef9813b09fa7f8d9efa5afcc7d5d15b0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/5fe19ecbb328d8aa604bc204084062e2c128e36e)
+- [ ] [<code>MacOS Build: upgrade actions/upload-artifact to v4</code>](https://github.com/foldynl/QLog.git/commit/0b01ae65edb9c820b561c6a5575e85872761be53)
+- [ ] [<code>Updated translations</code>](https://github.com/foldynl/QLog.git/commit/741802e392485217266675b6b0743d72ef5956fa)
+- [ ] [<code>Clock: Fixed Clock text color did not change based on Theme</code>](https://github.com/foldynl/QLog.git/commit/72d39a82d53811bef6f05418258844434dfb462a)
+- [ ] [<code>Database: Fixed issue when SQL functions were not available after Migration</code>](https://github.com/foldynl/QLog.git/commit/8db80eb58b3551f102781957329436a8c4512f24)
+- [ ] [<code>Updated Chinese translation</code>](https://github.com/foldynl/QLog.git/commit/bcdd3d2da53e719c94cc448c55da1988db05eb14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updated Chinese translation (2)</code>](https://github.com/foldynl/QLog.git/commit/7180e5f30817f27ddd20a820bb605b76a64aef06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>NewContact: Callbook search can be temporarily paused</code>](https://github.com/foldynl/QLog.git/commit/a289fe3442f4e565852372a549915baa9d1bcf13)
+- [ ] [<code>Minor Changelog change</code>](https://github.com/foldynl/QLog.git/commit/83e11e844f43c3eb67985496b5437139225410d1)
+- [ ] [<code>Updated README - added Fedora Libs</code>](https://github.com/foldynl/QLog.git/commit/bc43d6c082e814d94f86dfed03ebb72f6e360d7a)
+- [ ] [<code>Updated .pro file for compiling under Windows - sqlite files</code>](https://github.com/foldynl/QLog.git/commit/767880de8c8f588b93442e62f05abe17089f0599)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Updated translation files</code>](https://github.com/foldynl/QLog.git/commit/dbc99de367a397f4cf35b3c5a3ac164354c96afb)
+- [ ] [<code>Preparation for release 0.33.0</code>](https://github.com/foldynl/QLog.git/commit/863a00653a654a5f353a1e483e95655cabbc6f6b)
+  - <sub>Tags: <code>v0.33.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
