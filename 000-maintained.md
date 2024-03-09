@@ -2589,6 +2589,9 @@
 - [ ] [<code>chore: Follow up notification logging</code>](https://github.com/krille-chan/fluffychat/commit/0eaa7aa73e407f817b04c87b1933cfd2e4c54e9b)
 - [ ] [<code>chore: Follow up dismiss notifications logic</code>](https://github.com/krille-chan/fluffychat/commit/bb3865757b853dedbb4d865827f046f13482fe86)
 - [ ] [<code>feat: Support refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/1712d30c2fd080ec5266be8decf817bb5c7af487)
+- [ ] [<code>fix: Remove pantalaimon message with normal error message</code>](https://github.com/krille-chan/fluffychat/commit/a31dce0a21d9a0dceaee306cda52fe187990ecce)
+- [ ] [<code>build: Update Flutter to 3.19.3</code>](https://github.com/krille-chan/fluffychat/commit/f3012ce3a239c471a5b17d1feeef2e469fd275f1)
+- [ ] [<code>build: Remove debug app suffix</code>](https://github.com/krille-chan/fluffychat/commit/3ca8bf60280f5e8dda78b57be4ea7d447986e912)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2717,6 +2720,9 @@
 - [ ] [<code>chore: Follow up notification logging</code>](https://github.com/krille-chan/fluffychat/commit/0eaa7aa73e407f817b04c87b1933cfd2e4c54e9b)
 - [ ] [<code>chore: Follow up dismiss notifications logic</code>](https://github.com/krille-chan/fluffychat/commit/bb3865757b853dedbb4d865827f046f13482fe86)
 - [ ] [<code>feat: Support refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/1712d30c2fd080ec5266be8decf817bb5c7af487)
+- [ ] [<code>fix: Remove pantalaimon message with normal error message</code>](https://github.com/krille-chan/fluffychat/commit/a31dce0a21d9a0dceaee306cda52fe187990ecce)
+- [ ] [<code>build: Update Flutter to 3.19.3</code>](https://github.com/krille-chan/fluffychat/commit/f3012ce3a239c471a5b17d1feeef2e469fd275f1)
+- [ ] [<code>build: Remove debug app suffix</code>](https://github.com/krille-chan/fluffychat/commit/3ca8bf60280f5e8dda78b57be4ea7d447986e912)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
