@@ -2377,6 +2377,7 @@
 - [ ] [<code>test_conn: Fix changed alignment requirements.</code>](https://github.com/canonical/dqlite/commit/c98dff306e1c7d20d59cdf570f6b72a04a1ecb69)
 - [ ] [<code>.gitignore: ignore raft test binaries.</code>](https://github.com/canonical/dqlite/commit/197d98bf085a75d051d39cad589dd40175101673)
 - [ ] [<code>Try raising aio-max-nr on GHA</code>](https://github.com/canonical/dqlite/commit/e814a1c2eb5342fde8a089b6c5388e86acd07ca4)
+- [ ] [<code>Build concurrently, test serially</code>](https://github.com/canonical/dqlite/commit/2b3d6cfa233db0aeca590f823e5a9d7ae3c4b699)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
