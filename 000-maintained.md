@@ -4272,6 +4272,14 @@
 - [ ] [<code>Updated translation files</code>](https://github.com/foldynl/QLog.git/commit/dbc99de367a397f4cf35b3c5a3ac164354c96afb)
 - [ ] [<code>Preparation for release 0.33.0</code>](https://github.com/foldynl/QLog.git/commit/863a00653a654a5f353a1e483e95655cabbc6f6b)
   - <sub>Tags: <code>v0.33.0</code></sub>
+- [ ] [<code>Fixed #324 - Rotator offline map is incorrectly centered</code>](https://github.com/foldynl/QLog.git/commit/221054428e6bbe509ad80bde0549c8217477ec17)
+- [ ] [<code>Fixed #325 - Hamlib integration not working</code>](https://github.com/foldynl/QLog.git/commit/87ed130570d23625b2cfcbc3e9747f60921b0e2d)
+- [ ] [<code>Fixed issue when Hamlib reopen rig caused Initialization Error</code>](https://github.com/foldynl/QLog.git/commit/1e0a7e5bafbb4cb547c30c3e22a0c04b7168ca72)
+- [ ] [<code>Fixed issue when Omnirig Drv did not emit rigIsReady signal</code>](https://github.com/foldynl/QLog.git/commit/62283f8cb804f2eee482ad5dc931ff0b1434b84d)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/51ec316405c9dddad16cc2606337646bf12941aa)
+- [ ] [<code>Started a hotfix release</code>](https://github.com/foldynl/QLog.git/commit/f70891ccadd264767daab0939e51c676c7a928d7)
+- [ ] [<code>Preparation for release 0.33.1</code>](https://github.com/foldynl/QLog.git/commit/9ea84713f485d6f96ea303f79440f0f36d98bc9f)
+  - <sub>Tags: <code>v0.33.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
