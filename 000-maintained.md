@@ -2592,6 +2592,11 @@
 - [ ] [<code>fix: Remove pantalaimon message with normal error message</code>](https://github.com/krille-chan/fluffychat/commit/a31dce0a21d9a0dceaee306cda52fe187990ecce)
 - [ ] [<code>build: Update Flutter to 3.19.3</code>](https://github.com/krille-chan/fluffychat/commit/f3012ce3a239c471a5b17d1feeef2e469fd275f1)
 - [ ] [<code>build: Remove debug app suffix</code>](https://github.com/krille-chan/fluffychat/commit/3ca8bf60280f5e8dda78b57be4ea7d447986e912)
+- [ ] [<code>chore: Disable broken soft logout</code>](https://github.com/krille-chan/fluffychat/commit/ca79beeddbb16e959d7c3e7dc4ec699d6a81f9d3)
+- [ ] [<code>design: Connect bubbles from same sender</code>](https://github.com/krille-chan/fluffychat/commit/292e6c8834b60e5a642517b574bb202458dfb355)
+- [ ] [<code>chore: Follow up message bubble design</code>](https://github.com/krille-chan/fluffychat/commit/0387b955ed8673cb7c36e0b471a473203a722e03)
+- [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/c842e3454bb1513bd3305f29ce90b3f51a685979)
+- [ ] [<code>fix: Search in spaces view</code>](https://github.com/krille-chan/fluffychat/commit/6073b46cfcb8da99c27d2fa72eafcbb107633a0d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.17.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.17.1...HEAD)
 
@@ -2723,6 +2728,11 @@
 - [ ] [<code>fix: Remove pantalaimon message with normal error message</code>](https://github.com/krille-chan/fluffychat/commit/a31dce0a21d9a0dceaee306cda52fe187990ecce)
 - [ ] [<code>build: Update Flutter to 3.19.3</code>](https://github.com/krille-chan/fluffychat/commit/f3012ce3a239c471a5b17d1feeef2e469fd275f1)
 - [ ] [<code>build: Remove debug app suffix</code>](https://github.com/krille-chan/fluffychat/commit/3ca8bf60280f5e8dda78b57be4ea7d447986e912)
+- [ ] [<code>chore: Disable broken soft logout</code>](https://github.com/krille-chan/fluffychat/commit/ca79beeddbb16e959d7c3e7dc4ec699d6a81f9d3)
+- [ ] [<code>design: Connect bubbles from same sender</code>](https://github.com/krille-chan/fluffychat/commit/292e6c8834b60e5a642517b574bb202458dfb355)
+- [ ] [<code>chore: Follow up message bubble design</code>](https://github.com/krille-chan/fluffychat/commit/0387b955ed8673cb7c36e0b471a473203a722e03)
+- [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/c842e3454bb1513bd3305f29ce90b3f51a685979)
+- [ ] [<code>fix: Search in spaces view</code>](https://github.com/krille-chan/fluffychat/commit/6073b46cfcb8da99c27d2fa72eafcbb107633a0d)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
