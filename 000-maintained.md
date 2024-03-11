@@ -2318,6 +2318,7 @@
 - [ ] [<code>dbeaver/dbeaver#23087 The statistics dialog should be skipped (#23088)</code>](https://github.com/dbeaver/dbeaver/commit/efc39de6fb9e746154bba53519646203fd1c8a01)
 - [ ] [<code>#23081 Don't stop analysis if meet already classified alias (#23082)</code>](https://github.com/dbeaver/dbeaver/commit/8f7eeb9fbabc82a4be64611bec09326b1b4f54ee)
 - [ ] [<code>dbeaver/pro#2595 Disable query analysis on Mac by default (#23092)</code>](https://github.com/dbeaver/dbeaver/commit/69eef4faa5735071be386281c2d752eba88dcf82)
+- [ ] [<code>Avoid NPEs during text controls checking (#23074)</code>](https://github.com/dbeaver/dbeaver/commit/4e4c99ebad7ee4aad7352fd9edbc774665147041)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
