@@ -2319,6 +2319,11 @@
 - [ ] [<code>#23081 Don't stop analysis if meet already classified alias (#23082)</code>](https://github.com/dbeaver/dbeaver/commit/8f7eeb9fbabc82a4be64611bec09326b1b4f54ee)
 - [ ] [<code>dbeaver/pro#2595 Disable query analysis on Mac by default (#23092)</code>](https://github.com/dbeaver/dbeaver/commit/69eef4faa5735071be386281c2d752eba88dcf82)
 - [ ] [<code>Avoid NPEs during text controls checking (#23074)</code>](https://github.com/dbeaver/dbeaver/commit/4e4c99ebad7ee4aad7352fd9edbc774665147041)
+- [ ] [<code>dbeaver/pro#2565 Update syntax on metadata context change (#23052)</code>](https://github.com/dbeaver/dbeaver/commit/1905f879b77013352689d0e649c1898a3a1b4434)
+- [ ] [<code>#22989 Fix StringIndexOutOfBoundsException on the formatting preference page (#23019)</code>](https://github.com/dbeaver/dbeaver/commit/6fe705a98021241096c8e20a895206e81b27bffe)
+- [ ] [<code>dbeaver/pro#2549 Theming fix (#23012)</code>](https://github.com/dbeaver/dbeaver/commit/5a0b1a3435e4c1b31eb8e375b74f326f1ba6b7bc)
+- [ ] [<code>#23030 fix Calc panel NPE (#23031)</code>](https://github.com/dbeaver/dbeaver/commit/82f9532bd43be08347cf231156ef9f1099f83d5e)
+- [ ] [<code>Revert "dbeaver/pro#2565 Update syntax on metadata context change (#23052)"</code>](https://github.com/dbeaver/dbeaver/commit/3b21f575ac33beb0587cd4d880736783cd82b364)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3524,6 +3529,7 @@
 - [ ] [<code>tests/meson: attempt to fix ossfuzz builds</code>](https://github.com/lxc/lxc/commit/d78ca00bc63eedf927bf2d4720c6ee0819f0b7bf)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxc-net: Enable IPv6 by default</code>](https://github.com/lxc/lxc/commit/e88883445a6b412605433a69c27ffe674d4649d8)
+- [ ] [<code>lxc-unshare: fix an buffer overflow issue in lxc_unshare</code>](https://github.com/lxc/lxc/commit/7452ee8aba5da0addc4dd614d17a4a7c3a462aa9)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -4228,7 +4234,7 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz'), ('urls', ['mirror://pypi/y/yt-dlp/yt-dlp-2023.12.30.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.32.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.32.0...HEAD)
