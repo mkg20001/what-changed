@@ -2324,6 +2324,7 @@
 - [ ] [<code>dbeaver/pro#2549 Theming fix (#23012)</code>](https://github.com/dbeaver/dbeaver/commit/5a0b1a3435e4c1b31eb8e375b74f326f1ba6b7bc)
 - [ ] [<code>#23030 fix Calc panel NPE (#23031)</code>](https://github.com/dbeaver/dbeaver/commit/82f9532bd43be08347cf231156ef9f1099f83d5e)
 - [ ] [<code>Revert "dbeaver/pro#2565 Update syntax on metadata context change (#23052)"</code>](https://github.com/dbeaver/dbeaver/commit/3b21f575ac33beb0587cd4d880736783cd82b364)
+- [ ] [<code>dbeaver/pro#2535 [TE] connection isn't established for opened ERD (#23094)</code>](https://github.com/dbeaver/dbeaver/commit/e24cba4427d9675b865b6b7f4beec03bb7433bcd)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
