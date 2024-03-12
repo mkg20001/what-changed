@@ -3530,6 +3530,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxc-net: Enable IPv6 by default</code>](https://github.com/lxc/lxc/commit/e88883445a6b412605433a69c27ffe674d4649d8)
 - [ ] [<code>lxc-unshare: fix an buffer overflow issue in lxc_unshare</code>](https://github.com/lxc/lxc/commit/7452ee8aba5da0addc4dd614d17a4a7c3a462aa9)
+- [ ] [<code>unshare: simplify lookup_name</code>](https://github.com/lxc/lxc/commit/046b63cd20347f4b573df12475ca13be2ce62386)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
