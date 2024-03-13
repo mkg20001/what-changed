@@ -41,8 +41,9 @@
 - [ ] [<code>cs_keyboard.py: Update the custom list visually as well as</code>](https://github.com/linuxmint/cinnamon/commit/24753bb6b70250a574349b9341072b163c3d1517)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>calendar@cinnamon.org: Fix garbage collection of stale events.</code>](https://github.com/linuxmint/cinnamon/commit/da7e219e9df9d489f09e538009122b1560ea63b4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix mapping flatpak windows to flatpak app</code>](https://github.com/linuxmint/cinnamon/commit/cbb5f30cac8b4f31e712809ffa25ab5d905a3c59)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
