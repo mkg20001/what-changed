@@ -2332,6 +2332,9 @@
 - [ ] [<code>dbeaver/pro#2522 DBeaver launcher (#23023)</code>](https://github.com/dbeaver/dbeaver/commit/0a4b28354d370012e99d956b6b8295f51dde74f4)
 - [ ] [<code>dbeaver/pro#2522 Use custom launcher for all products</code>](https://github.com/dbeaver/dbeaver/commit/cd1bdf02cd925b1553cabfc371f1515ffc04e98f)
 - [ ] [<code>fix typo (#23112)</code>](https://github.com/dbeaver/dbeaver/commit/0242492a34dc69565c7aa34af75d98d05e77f932)
+- [ ] [<code>Dbeaver/dbeaver#21997 fk column create (#23075)</code>](https://github.com/dbeaver/dbeaver/commit/4d11cb5037f8d9df901b5fe7f0e5d139010f573a)
+- [ ] [<code>dbeaver/pro#2624 Launcher JNI link fix (splash fix) (#23121)</code>](https://github.com/dbeaver/dbeaver/commit/d62230f03619e2d30e37e1c03429dcf355925779)
+- [ ] [<code>24.0.1 version bump</code>](https://github.com/dbeaver/dbeaver/commit/6d6a5c606787a95c9d0ff0f648a4c678dea1d289)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2510,6 +2513,7 @@
 - [ ] [<code>fix: Search in spaces view</code>](https://github.com/krille-chan/fluffychat/commit/6073b46cfcb8da99c27d2fa72eafcbb107633a0d)
 - [ ] [<code>chore: Follow up message bubble design</code>](https://github.com/krille-chan/fluffychat/commit/e0e1b65f77c80c6246aaa5b77248fee84c39d348)
 - [ ] [<code>chore: Follow up set room read marker</code>](https://github.com/krille-chan/fluffychat/commit/8dd8edae447e8fdd291d872241e868ec81b6b12d)
+- [ ] [<code>design: Nicer reactions design with size animations</code>](https://github.com/krille-chan/fluffychat/commit/c028c69b2d58ea77602059310ca0cb3e1fa83157)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2545,6 +2549,7 @@
 - [ ] [<code>fix: Search in spaces view</code>](https://github.com/krille-chan/fluffychat/commit/6073b46cfcb8da99c27d2fa72eafcbb107633a0d)
 - [ ] [<code>chore: Follow up message bubble design</code>](https://github.com/krille-chan/fluffychat/commit/e0e1b65f77c80c6246aaa5b77248fee84c39d348)
 - [ ] [<code>chore: Follow up set room read marker</code>](https://github.com/krille-chan/fluffychat/commit/8dd8edae447e8fdd291d872241e868ec81b6b12d)
+- [ ] [<code>design: Nicer reactions design with size animations</code>](https://github.com/krille-chan/fluffychat/commit/c028c69b2d58ea77602059310ca0cb3e1fa83157)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3882,6 +3887,10 @@
 - [ ] [<code>docs: add status --diff to the docs</code>](https://github.com/canonical/netplan/commit/5fb1a81a4312b7e9692452f28bccea052493f5da)
 - [ ] [<code>abi-compat: 1.0 ABI</code>](https://github.com/canonical/netplan/commit/45f7cd1569896d9e316c130bf5c60b7ccfc8211d)
   - <sub>Tags: <code>1.0</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix logging setup when python-rich is not present</code>](https://github.com/canonical/netplan/commit/368eff35e1374156906a1a3b904f9306551e661e)
+- [ ] [<code>CI: fix DebCI case for no-change rebuilds</code>](https://github.com/canonical/netplan/commit/6680f0fd6619a28bfbef82ed035851f5afad7017)
+- [ ] [<code>CI: adopt autopkgtest for 1.0-1 on 22.04</code>](https://github.com/canonical/netplan/commit/c7399879bbb84dba82d6800c48f86ab0247febdb)
   - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
