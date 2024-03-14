@@ -2335,6 +2335,12 @@
 - [ ] [<code>Dbeaver/dbeaver#21997 fk column create (#23075)</code>](https://github.com/dbeaver/dbeaver/commit/4d11cb5037f8d9df901b5fe7f0e5d139010f573a)
 - [ ] [<code>dbeaver/pro#2624 Launcher JNI link fix (splash fix) (#23121)</code>](https://github.com/dbeaver/dbeaver/commit/d62230f03619e2d30e37e1c03429dcf355925779)
 - [ ] [<code>24.0.1 version bump</code>](https://github.com/dbeaver/dbeaver/commit/6d6a5c606787a95c9d0ff0f648a4c678dea1d289)
+- [ ] [<code>Copyrights and release date updates</code>](https://github.com/dbeaver/dbeaver/commit/0b54e64fccca216d31fccdbe8640fb3a892ff814)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2629 fix copyright year to 2024 (#23124)</code>](https://github.com/dbeaver/dbeaver/commit/18b6e875ff53e6f2c4c5f8383fd321a544061986)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/52bfecdc3bcdb9ef6042ae04401ebb9749f093d2)
+- [ ] [<code>Resource bundle load error logging</code>](https://github.com/dbeaver/dbeaver/commit/93bea96820c7f3cdc421e296ef6dba95574fbbfc)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3110,6 +3116,9 @@
 - [ ] [<code>Bump the github-actions group with 5 updates (#2046)</code>](https://github.com/AOMediaCodec/libavif/commit/78cb03eb1a55c9340c0d0dc58faf9267ca370e7a)
 - [ ] [<code>Rename imageSizeLimit to sizeLimit in avifJPEGRead (#2047)</code>](https://github.com/AOMediaCodec/libavif/commit/3175a6173f2fd29d1397cd00ac562dee6c921e03)
 - [ ] [<code>Fix metadata error message in avifJPEGRead() (#2048)</code>](https://github.com/AOMediaCodec/libavif/commit/de32f53d28cc8915acba6bedc8ee738e7f7445f5)
+- [ ] [<code>ext: Checkout libaom v3.8.2</code>](https://github.com/AOMediaCodec/libavif/commit/2db296be2cefe5ccb66ca9ebc1f03cc75a83edad)
+- [ ] [<code>Add tests/test_all_configurations.sh (#2010)</code>](https://github.com/AOMediaCodec/libavif/commit/cf1afe2f99df12371af1a4c1401489e224f962da)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3892,6 +3901,7 @@
 - [ ] [<code>CI: fix DebCI case for no-change rebuilds</code>](https://github.com/canonical/netplan/commit/6680f0fd6619a28bfbef82ed035851f5afad7017)
 - [ ] [<code>CI: adopt autopkgtest for 1.0-1 on 22.04</code>](https://github.com/canonical/netplan/commit/c7399879bbb84dba82d6800c48f86ab0247febdb)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update README, move CODE_OF_CONDUCT</code>](https://github.com/canonical/netplan/commit/0f79931ebe1c8d54e4d97e107bb9d713112cde7d)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
