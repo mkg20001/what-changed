@@ -4292,7 +4292,11 @@
 - [ ] [<code>compiler: close upvalues on loop control statements</code>](https://github.com/jow-/ucode/commit/3f9811d2f7b730f1f1d030872ae1def7e8349be6)
 - [ ] [<code>vm: rework object iteration</code>](https://github.com/jow-/ucode/commit/ee4af9b55cb4591e63c596af592abc33a8a8f315)
 - [ ] [<code>uci: refactor uci.changes() to match documentation</code>](https://github.com/jow-/ucode/commit/a275399dd8e2d221dee1998bc040f2f75e330f7a)
+- [ ] [<code>ubus: automatically clear error information</code>](https://github.com/jow-/ucode/commit/1220992631d5884d4e0a7efd8fb303fe2703b534)
+- [ ] [<code>uci: automatically clear error information</code>](https://github.com/jow-/ucode/commit/d6fd94014eea4fbb7fc91766d7104b58b62bd927)
+- [ ] [<code>uloop: automatically clear error information</code>](https://github.com/jow-/ucode/commit/99837f280b61de646d1635248e70827754553bef)
 - [ ] [<code>lib: fix documentation typo for `pop()` function</code>](https://github.com/jow-/ucode/commit/ba3855ae3775197f3594fc2615cac539075bd2fb)
+- [ ] [<code>vm: rework `in` operator semantics</code>](https://github.com/jow-/ucode/commit/be767ae197babd656d4f5d9c2d5013e39ddbe656)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
