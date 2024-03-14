@@ -2341,6 +2341,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/52bfecdc3bcdb9ef6042ae04401ebb9749f093d2)
 - [ ] [<code>Resource bundle load error logging</code>](https://github.com/dbeaver/dbeaver/commit/93bea96820c7f3cdc421e296ef6dba95574fbbfc)
+- [ ] [<code>CB-4751 pass project from task to a native client task (#22975)</code>](https://github.com/dbeaver/dbeaver/commit/ad498d3314c0ceefcd6625a335313bbcca46d6e5)
+- [ ] [<code>dbeaver/pro#2112 show only models with priority (#22955)</code>](https://github.com/dbeaver/dbeaver/commit/0bdbecaa7715d69313a5d73e88fb9532d5309a70)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2520,6 +2522,7 @@
 - [ ] [<code>chore: Follow up message bubble design</code>](https://github.com/krille-chan/fluffychat/commit/e0e1b65f77c80c6246aaa5b77248fee84c39d348)
 - [ ] [<code>chore: Follow up set room read marker</code>](https://github.com/krille-chan/fluffychat/commit/8dd8edae447e8fdd291d872241e868ec81b6b12d)
 - [ ] [<code>design: Nicer reactions design with size animations</code>](https://github.com/krille-chan/fluffychat/commit/c028c69b2d58ea77602059310ca0cb3e1fa83157)
+- [ ] [<code>fix: Do not sync in background mode</code>](https://github.com/krille-chan/fluffychat/commit/f6eafd576e5400ca650cf291a9ae9b6cc2facf34)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2556,6 +2559,7 @@
 - [ ] [<code>chore: Follow up message bubble design</code>](https://github.com/krille-chan/fluffychat/commit/e0e1b65f77c80c6246aaa5b77248fee84c39d348)
 - [ ] [<code>chore: Follow up set room read marker</code>](https://github.com/krille-chan/fluffychat/commit/8dd8edae447e8fdd291d872241e868ec81b6b12d)
 - [ ] [<code>design: Nicer reactions design with size animations</code>](https://github.com/krille-chan/fluffychat/commit/c028c69b2d58ea77602059310ca0cb3e1fa83157)
+- [ ] [<code>fix: Do not sync in background mode</code>](https://github.com/krille-chan/fluffychat/commit/f6eafd576e5400ca650cf291a9ae9b6cc2facf34)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3119,6 +3123,8 @@
 - [ ] [<code>ext: Checkout libaom v3.8.2</code>](https://github.com/AOMediaCodec/libavif/commit/2db296be2cefe5ccb66ca9ebc1f03cc75a83edad)
 - [ ] [<code>Add tests/test_all_configurations.sh (#2010)</code>](https://github.com/AOMediaCodec/libavif/commit/cf1afe2f99df12371af1a4c1401489e224f962da)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci-unix-static-sanitized (#2054)</code>](https://github.com/AOMediaCodec/libavif/commit/c78365198366867b00395187290916feda4af06e)
+  - <sub>Keywords: <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3902,6 +3908,7 @@
 - [ ] [<code>CI: adopt autopkgtest for 1.0-1 on 22.04</code>](https://github.com/canonical/netplan/commit/c7399879bbb84dba82d6800c48f86ab0247febdb)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update README, move CODE_OF_CONDUCT</code>](https://github.com/canonical/netplan/commit/0f79931ebe1c8d54e4d97e107bb9d713112cde7d)
+- [ ] [<code>doc: fix en_GB spelling</code>](https://github.com/canonical/netplan/commit/2d3f9044ac63223e7b485b5d0a426c0602b335ce)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
