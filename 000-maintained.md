@@ -3125,6 +3125,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>ci-unix-static-sanitized (#2054)</code>](https://github.com/AOMediaCodec/libavif/commit/c78365198366867b00395187290916feda4af06e)
   - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Check that >0 pixi planes have the same depth (#2058)</code>](https://github.com/AOMediaCodec/libavif/commit/6094ac0a1c99c7ebf39e7f8fac06642cfaebbfcf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4048,6 +4049,12 @@
 - [ ] [<code>docs: mark Life P3 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/45f7ad6b2406e00d4064fab03b3a9654ae9dd7b7)
 - [ ] [<code>build(gui): update gtk-rs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f72dca376d2c62a5137740c9f6a5216871b6dfb)
 - [ ] [<code>refactor(android): fix deprecations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d2e31e6e4e3869b3b678cc68dd0a4f08344f3f0c)
+- [ ] [<code>style(android): run ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8e7f0f69f5c801c870fed6a58d7cc7fa97724483)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9dea5f2f68c8a64126e1882d42ce7e15d640b833)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(web): split up DeviceSettings component</code>](https://github.com/Oppzippy/OpenSCQ30/commit/783d07323360a056f332b2ae93280ea624b5efe1)
+- [ ] [<code>feat(web): add custom button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3cfe92abdefb216e3a05582eeddbe24ebfd2c3c7)
+- [ ] [<code>feat(web): improve layout on larger screens</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8995523a3876e0cf4c24cea0f400ed539c689d59)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
