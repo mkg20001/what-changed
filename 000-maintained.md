@@ -4076,6 +4076,20 @@
 - [ ] [<code>refactor(web): split up DeviceSettings component</code>](https://github.com/Oppzippy/OpenSCQ30/commit/783d07323360a056f332b2ae93280ea624b5efe1)
 - [ ] [<code>feat(web): add custom button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3cfe92abdefb216e3a05582eeddbe24ebfd2c3c7)
 - [ ] [<code>feat(web): improve layout on larger screens</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8995523a3876e0cf4c24cea0f400ed539c689d59)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/436a94178adcc5f58fe8ad357789a2bab8e4402a)
+- [ ] [<code>refactor(gui): replace uses of once_cell's OnceCell with std</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1732dbfb340ef8553457eefe354fcf6b071f9b2c)
+- [ ] [<code>feat(web): add option to disable button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d957348bddb9054edc1dd9d0fe004d75068810c0)
+- [ ] [<code>test(web): add tests for custom button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/326147dfc89951835c9005f552045b49ce54d3e7)
+- [ ] [<code>fix(web): center text on home page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c8fa81451490854f6fc5dc856e6d84fe3f4969f5)
+- [ ] [<code>fix(web): add note about browsers with Web Bluetooth disabled by default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9740903cd8ad2b71ec737a1c9fd9e39599830d5f)
+- [ ] [<code>style(web): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5526563fc4685daaa2ba44d225326a43f7cb9f9)
+- [ ] [<code>docs: reorganize build instructions into separate files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fb7f1e47b454405e6ac8e1e6f731f12239139fcd)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>docs(build): remove obsolete info about git submodules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b8e83580ec9485785c082590249a65e32d30fc61)
+- [ ] [<code>docs(build): update windows build instructions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31066a76cdc67dbde17aba8e84239b6a12d2ebeb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(architecture): add early WIP overview of project</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6911cb3b79e5034bbf310bd28499c47401df8d5c)
+- [ ] [<code>docs(architecture): add openscq30_lib to android diagram</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66d5b36c00194b842cbe8c5a99f6aaeaf72251d0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
