@@ -2343,6 +2343,20 @@
 - [ ] [<code>Resource bundle load error logging</code>](https://github.com/dbeaver/dbeaver/commit/93bea96820c7f3cdc421e296ef6dba95574fbbfc)
 - [ ] [<code>CB-4751 pass project from task to a native client task (#22975)</code>](https://github.com/dbeaver/dbeaver/commit/ad498d3314c0ceefcd6625a335313bbcca46d6e5)
 - [ ] [<code>dbeaver/pro#2112 show only models with priority (#22955)</code>](https://github.com/dbeaver/dbeaver/commit/0bdbecaa7715d69313a5d73e88fb9532d5309a70)
+- [ ] [<code>#22986 implement sequences, table and view definitions reading (#22988)</code>](https://github.com/dbeaver/dbeaver/commit/736d0d8c15c8bb957e0684bdf8e60635d066b9ea)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2493 Change query to read Sybase procedures (#23096)</code>](https://github.com/dbeaver/dbeaver/commit/2e2e5fafdb46ce10954d70df8a37473d1e0c21bc)
+- [ ] [<code>dbeaver/pro#2334 Highlighting, validation, outline for INSERT, UPDATE, DELETE (#22987)</code>](https://github.com/dbeaver/dbeaver/commit/535eeb8d97407c8f7f3fc4f254e2227458772264)
+- [ ] [<code>dbeaver/pro#2569 [ERD] Rearrange of connections for diagram should be consistent. (#23048)</code>](https://github.com/dbeaver/dbeaver/commit/4db55c1e4413ca071e0d04662811544498159d56)
+- [ ] [<code>added QUALIFY as a keyword (#23104)</code>](https://github.com/dbeaver/dbeaver/commit/c356fb1ab596f8baa4d1682ee88506877fa86e2a)
+- [ ] [<code>dbeaver/pro#2540 Task execution and scheduling improvement (#22977)</code>](https://github.com/dbeaver/dbeaver/commit/17aef01ffa85d05e4302e264a050244ac401d73e)
+- [ ] [<code>#21748 MySQL geometry data srid fix (#23010)</code>](https://github.com/dbeaver/dbeaver/commit/cbee45bcf0a39a4c8c2e982e0f4ca2bdb51119d7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix MySQL Connector J properties URL (#23117)</code>](https://github.com/dbeaver/dbeaver/commit/5ef3576a52cbf7147e1fb9441f93ec354e399747)
+- [ ] [<code>Corrected autocomplete cursor position in data filter tab (#22631)</code>](https://github.com/dbeaver/dbeaver/commit/5357b397c69dcbbd6bdbb2c9987e893c3d620aa0)
+- [ ] [<code>Add new french translations (#22847)</code>](https://github.com/dbeaver/dbeaver/commit/3528ff6e29576dbca2b939cd0093d3b9ff8d2852)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>CB-4528 Snowflake SSO auth (#23130)</code>](https://github.com/dbeaver/dbeaver/commit/485fa49c94034c6e9e519d62a79e540eb6c2af56)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2523,6 +2537,8 @@
 - [ ] [<code>chore: Follow up set room read marker</code>](https://github.com/krille-chan/fluffychat/commit/8dd8edae447e8fdd291d872241e868ec81b6b12d)
 - [ ] [<code>design: Nicer reactions design with size animations</code>](https://github.com/krille-chan/fluffychat/commit/c028c69b2d58ea77602059310ca0cb3e1fa83157)
 - [ ] [<code>fix: Do not sync in background mode</code>](https://github.com/krille-chan/fluffychat/commit/f6eafd576e5400ca650cf291a9ae9b6cc2facf34)
+- [ ] [<code>chore: Adjust design of typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/508a7e78c7c300117643efab6b78216aeb01a48e)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/19dab63858e61d461379d10111f8936ba89eb024)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2560,6 +2576,8 @@
 - [ ] [<code>chore: Follow up set room read marker</code>](https://github.com/krille-chan/fluffychat/commit/8dd8edae447e8fdd291d872241e868ec81b6b12d)
 - [ ] [<code>design: Nicer reactions design with size animations</code>](https://github.com/krille-chan/fluffychat/commit/c028c69b2d58ea77602059310ca0cb3e1fa83157)
 - [ ] [<code>fix: Do not sync in background mode</code>](https://github.com/krille-chan/fluffychat/commit/f6eafd576e5400ca650cf291a9ae9b6cc2facf34)
+- [ ] [<code>chore: Adjust design of typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/508a7e78c7c300117643efab6b78216aeb01a48e)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/19dab63858e61d461379d10111f8936ba89eb024)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3126,6 +3144,9 @@
 - [ ] [<code>ci-unix-static-sanitized (#2054)</code>](https://github.com/AOMediaCodec/libavif/commit/c78365198366867b00395187290916feda4af06e)
   - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>Check that >0 pixi planes have the same depth (#2058)</code>](https://github.com/AOMediaCodec/libavif/commit/6094ac0a1c99c7ebf39e7f8fac06642cfaebbfcf)
+- [ ] [<code>Use env vars in ci-unix-static-sanitized.yml (#2060)</code>](https://github.com/AOMediaCodec/libavif/commit/23825a86b08e18b703f6fa5cec72cb72bc44363c)
+- [ ] [<code>Fix env indent in ci-unix-static-sanitized (#2062)</code>](https://github.com/AOMediaCodec/libavif/commit/1191d105e28aad8733a351b3c6f8eea17b141c68)
+- [ ] [<code>Fixed error: empty expression statement has no effect</code>](https://github.com/AOMediaCodec/libavif/commit/4e1af424b1d6f4c88ee8472e82cca434488b6807)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3914,7 +3935,7 @@
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.20.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.20.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped oils-for-unix - no appropriate URL found OrderedDict([('attr_path', 'oils-for-unix'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.21.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.21.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -4077,66 +4098,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.32.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.32.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.33.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.33.1...HEAD)
 
-- [ ] [<code>TCIDrv: Added Initial Support for TCI</code>](https://github.com/foldynl/QLog.git/commit/9c55af3e27868f15dbe314de39b7405c8cb9f9bc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>TCIDrv: PWR-emit is called in case of DRIVE command - not TUNE_DRIVE</code>](https://github.com/foldynl/QLog.git/commit/f95cdeb4bd0209f33a701df7b8ebbf5595b723f8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>TCIDrv: Added RIT/XIT Enable command</code>](https://github.com/foldynl/QLog.git/commit/373123e670b143b37431e68bdfb08e475b1542e6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Added TCI Simulator Client/Server</code>](https://github.com/foldynl/QLog.git/commit/ce8f1a2a1a05892b30f8da743ae3f1618a5c5d01)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>TCIDrv: Added feature to send DX Spot to Rig</code>](https://github.com/foldynl/QLog.git/commit/0205488360869ba5b6dbcdf28c69c60c057f6911)
-- [ ] [<code>TCIDrv: Suppressing the double call of SET when the value does not change</code>](https://github.com/foldynl/QLog.git/commit/6615b9a3d4325759ed536b6bd0692b3226b9bce3)
-- [ ] [<code>TCIDrv: SendState is needed to implement due to Exit from Manual Mode</code>](https://github.com/foldynl/QLog.git/commit/aaea5f157ed13fa36de47925ad8bdcd440d5bb03)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/25ea6671aa1d0ea7c5f39ea1d48d2adc4fbabce6)
-- [ ] [<code>Updated Changelog and README file</code>](https://github.com/foldynl/QLog.git/commit/1f81ac2e616455019cc89264a78a3ae27b85d8fc)
-- [ ] [<code>TuneDX: Added Mode for better mode tunning</code>](https://github.com/foldynl/QLog.git/commit/28756b8abf97dc34a815d36df3ebe019efcf2b13)
-- [ ] [<code>update Chinese translation to v0.32.0</code>](https://github.com/foldynl/QLog.git/commit/f23a2d294ec610ba133fbafb6f0b922feb63225a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/33c54ab6e7c9c4293693f04e14142aba176767c2)
-- [ ] [<code>TCIDrv: Added QT websockets to CI GitHub Actions</code>](https://github.com/foldynl/QLog.git/commit/2ac1dd490c96c60f3f0ba4a7fad17f0c42632b5f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Updated documents and build files - websocket package is requested for linux</code>](https://github.com/foldynl/QLog.git/commit/ec155a76a57d961b9f1a1792724cbfc3336eb495)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fixed #318 - LoTW and eQSL downloads are only QSLs downloads - download button label changed</code>](https://github.com/foldynl/QLog.git/commit/4dc1cb3a4f0d31e17b51ed25e70777f6d2311560)
-- [ ] [<code>Update Changelog</code>](https://github.com/foldynl/QLog.git/commit/ccd5ceb0524714fa725c4a224b813bf47661f434)
-- [ ] [<code>Fixed #315 - modal dialog blinks under window - clock as QGraphicsView</code>](https://github.com/foldynl/QLog.git/commit/253f6558c61d6abdc7034e4a4f84355fe5b56a36)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/084aaa0409452a24309b49fc570572d220ac53d3)
-- [ ] [<code>Fixed #315 - Changed Font size from 25 to 20</code>](https://github.com/foldynl/QLog.git/commit/2bdbaa91b868bf60a51ad4243a9f61301b2473e5)
-- [ ] [<code>Fixed #322 - i18n: Database Country Name is translated</code>](https://github.com/foldynl/QLog.git/commit/df6d08b2f54c0abc010f4b84c48d305d2327d601)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>i18n: Prop-modes are translated</code>](https://github.com/foldynl/QLog.git/commit/e5530534f25f8d06d75cf7161ae9016fffb340cc)
-- [ ] [<code>Data: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/ffbf7ea17e4ccf65b22ec5fae35303dc4057dc07)
-- [ ] [<code>MacOS Build: Upgrade icu4c</code>](https://github.com/foldynl/QLog.git/commit/1dd16203ef9813b09fa7f8d9efa5afcc7d5d15b0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/5fe19ecbb328d8aa604bc204084062e2c128e36e)
-- [ ] [<code>MacOS Build: upgrade actions/upload-artifact to v4</code>](https://github.com/foldynl/QLog.git/commit/0b01ae65edb9c820b561c6a5575e85872761be53)
-- [ ] [<code>Updated translations</code>](https://github.com/foldynl/QLog.git/commit/741802e392485217266675b6b0743d72ef5956fa)
-- [ ] [<code>Clock: Fixed Clock text color did not change based on Theme</code>](https://github.com/foldynl/QLog.git/commit/72d39a82d53811bef6f05418258844434dfb462a)
-- [ ] [<code>Database: Fixed issue when SQL functions were not available after Migration</code>](https://github.com/foldynl/QLog.git/commit/8db80eb58b3551f102781957329436a8c4512f24)
-- [ ] [<code>Updated Chinese translation</code>](https://github.com/foldynl/QLog.git/commit/bcdd3d2da53e719c94cc448c55da1988db05eb14)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updated Chinese translation (2)</code>](https://github.com/foldynl/QLog.git/commit/7180e5f30817f27ddd20a820bb605b76a64aef06)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>NewContact: Callbook search can be temporarily paused</code>](https://github.com/foldynl/QLog.git/commit/a289fe3442f4e565852372a549915baa9d1bcf13)
-- [ ] [<code>Minor Changelog change</code>](https://github.com/foldynl/QLog.git/commit/83e11e844f43c3eb67985496b5437139225410d1)
-- [ ] [<code>Updated README - added Fedora Libs</code>](https://github.com/foldynl/QLog.git/commit/bc43d6c082e814d94f86dfed03ebb72f6e360d7a)
-- [ ] [<code>Updated .pro file for compiling under Windows - sqlite files</code>](https://github.com/foldynl/QLog.git/commit/767880de8c8f588b93442e62f05abe17089f0599)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Updated translation files</code>](https://github.com/foldynl/QLog.git/commit/dbc99de367a397f4cf35b3c5a3ac164354c96afb)
-- [ ] [<code>Preparation for release 0.33.0</code>](https://github.com/foldynl/QLog.git/commit/863a00653a654a5f353a1e483e95655cabbc6f6b)
-  - <sub>Tags: <code>v0.33.0</code></sub>
-- [ ] [<code>Fixed #324 - Rotator offline map is incorrectly centered</code>](https://github.com/foldynl/QLog.git/commit/221054428e6bbe509ad80bde0549c8217477ec17)
-- [ ] [<code>Fixed #325 - Hamlib integration not working</code>](https://github.com/foldynl/QLog.git/commit/87ed130570d23625b2cfcbc3e9747f60921b0e2d)
-- [ ] [<code>Fixed issue when Hamlib reopen rig caused Initialization Error</code>](https://github.com/foldynl/QLog.git/commit/1e0a7e5bafbb4cb547c30c3e22a0c04b7168ca72)
-- [ ] [<code>Fixed issue when Omnirig Drv did not emit rigIsReady signal</code>](https://github.com/foldynl/QLog.git/commit/62283f8cb804f2eee482ad5dc931ff0b1434b84d)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/51ec316405c9dddad16cc2606337646bf12941aa)
-- [ ] [<code>Started a hotfix release</code>](https://github.com/foldynl/QLog.git/commit/f70891ccadd264767daab0939e51c676c7a928d7)
-- [ ] [<code>Preparation for release 0.33.1</code>](https://github.com/foldynl/QLog.git/commit/9ea84713f485d6f96ea303f79440f0f36d98bc9f)
-  - <sub>Tags: <code>v0.33.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
