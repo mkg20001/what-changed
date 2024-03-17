@@ -4090,6 +4090,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>docs(architecture): add early WIP overview of project</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6911cb3b79e5034bbf310bd28499c47401df8d5c)
 - [ ] [<code>docs(architecture): add openscq30_lib to android diagram</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66d5b36c00194b842cbe8c5a99f6aaeaf72251d0)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/838d7f43e33912569a3e1ffb660c0f758d8e4155)
+- [ ] [<code>build: v1.11.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/19307bae8e04b4b97bafda273b7c923786485ec0)
+  - <sub>Tags: <code>v1.11.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
