@@ -2357,6 +2357,8 @@
 - [ ] [<code>Add new french translations (#22847)</code>](https://github.com/dbeaver/dbeaver/commit/3528ff6e29576dbca2b939cd0093d3b9ff8d2852)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>CB-4528 Snowflake SSO auth (#23130)</code>](https://github.com/dbeaver/dbeaver/commit/485fa49c94034c6e9e519d62a79e540eb6c2af56)
+- [ ] [<code>CB-4568 drop unused internal tables (#23122)</code>](https://github.com/dbeaver/dbeaver/commit/2b3126812913cf1bd4e7a803aaad107b487baa5b)
+- [ ] [<code>dbeaver/pro#2395 [TE] Fix or remove Profile auth method (#22974)</code>](https://github.com/dbeaver/dbeaver/commit/f4082611668952db56041afad0144c8db17b076c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2539,6 +2541,9 @@
 - [ ] [<code>fix: Do not sync in background mode</code>](https://github.com/krille-chan/fluffychat/commit/f6eafd576e5400ca650cf291a9ae9b6cc2facf34)
 - [ ] [<code>chore: Adjust design of typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/508a7e78c7c300117643efab6b78216aeb01a48e)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/19dab63858e61d461379d10111f8936ba89eb024)
+- [ ] [<code>design: Display images in correct ratio in timeline</code>](https://github.com/krille-chan/fluffychat/commit/2104793ecd59a7877996d7cac606bcd3a5579486)
+- [ ] [<code>chore: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/db747afb7bdbed672f994fe1d72c7cc873a13cab)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2578,6 +2583,9 @@
 - [ ] [<code>fix: Do not sync in background mode</code>](https://github.com/krille-chan/fluffychat/commit/f6eafd576e5400ca650cf291a9ae9b6cc2facf34)
 - [ ] [<code>chore: Adjust design of typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/508a7e78c7c300117643efab6b78216aeb01a48e)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/19dab63858e61d461379d10111f8936ba89eb024)
+- [ ] [<code>design: Display images in correct ratio in timeline</code>](https://github.com/krille-chan/fluffychat/commit/2104793ecd59a7877996d7cac606bcd3a5579486)
+- [ ] [<code>chore: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/db747afb7bdbed672f994fe1d72c7cc873a13cab)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4055,44 +4063,8 @@
 - [ ] [<code>Set cmake project name</code>](https://github.com/OLSR/OONF/commit/87820df462c6b821032b284f4d6e9db9d661d07c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.10.6 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.10.6...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.11.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.11.0...HEAD)
 
-- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4ca4b492eadeaab48ef459892763cbc71e441014)
-- [ ] [<code>feat(android): add custom button action settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dec93885c49d98a4a3a94bc8ac1354bda9ed82e8)
-- [ ] [<code>build(android): update gradle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0227446e3886dc8a2285945101dec18d9e7245df)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>ci: replace deprecated gradle-build-action with setup-gradle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66e63583a3926a2d74ff65b26dbeae0184cdcb50)
-- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5dd3569ad18ae4b0ada3773df1bbc05a5b8ddc0d)
-- [ ] [<code>test(android): fix broken Float == comparison</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c4caeadb422e19aecbaec1fdfe2ac927adbecd77)
-- [ ] [<code>feat(android): allow for more than 5 nav items</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0bdd47460f928808d3f7f54698c8ed90c9582fe4)
-- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2d6287af822ca987042592bea9a992d607f565ae)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>docs: mark Life P3 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/45f7ad6b2406e00d4064fab03b3a9654ae9dd7b7)
-- [ ] [<code>build(gui): update gtk-rs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f72dca376d2c62a5137740c9f6a5216871b6dfb)
-- [ ] [<code>refactor(android): fix deprecations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d2e31e6e4e3869b3b678cc68dd0a4f08344f3f0c)
-- [ ] [<code>style(android): run ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8e7f0f69f5c801c870fed6a58d7cc7fa97724483)
-- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9dea5f2f68c8a64126e1882d42ce7e15d640b833)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>refactor(web): split up DeviceSettings component</code>](https://github.com/Oppzippy/OpenSCQ30/commit/783d07323360a056f332b2ae93280ea624b5efe1)
-- [ ] [<code>feat(web): add custom button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3cfe92abdefb216e3a05582eeddbe24ebfd2c3c7)
-- [ ] [<code>feat(web): improve layout on larger screens</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8995523a3876e0cf4c24cea0f400ed539c689d59)
-- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/436a94178adcc5f58fe8ad357789a2bab8e4402a)
-- [ ] [<code>refactor(gui): replace uses of once_cell's OnceCell with std</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1732dbfb340ef8553457eefe354fcf6b071f9b2c)
-- [ ] [<code>feat(web): add option to disable button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d957348bddb9054edc1dd9d0fe004d75068810c0)
-- [ ] [<code>test(web): add tests for custom button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/326147dfc89951835c9005f552045b49ce54d3e7)
-- [ ] [<code>fix(web): center text on home page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c8fa81451490854f6fc5dc856e6d84fe3f4969f5)
-- [ ] [<code>fix(web): add note about browsers with Web Bluetooth disabled by default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9740903cd8ad2b71ec737a1c9fd9e39599830d5f)
-- [ ] [<code>style(web): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5526563fc4685daaa2ba44d225326a43f7cb9f9)
-- [ ] [<code>docs: reorganize build instructions into separate files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fb7f1e47b454405e6ac8e1e6f731f12239139fcd)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>docs(build): remove obsolete info about git submodules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b8e83580ec9485785c082590249a65e32d30fc61)
-- [ ] [<code>docs(build): update windows build instructions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31066a76cdc67dbde17aba8e84239b6a12d2ebeb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>docs(architecture): add early WIP overview of project</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6911cb3b79e5034bbf310bd28499c47401df8d5c)
-- [ ] [<code>docs(architecture): add openscq30_lib to android diagram</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66d5b36c00194b842cbe8c5a99f6aaeaf72251d0)
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/838d7f43e33912569a3e1ffb660c0f758d8e4155)
-- [ ] [<code>build: v1.11.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/19307bae8e04b4b97bafda273b7c923786485ec0)
-  - <sub>Tags: <code>v1.11.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
