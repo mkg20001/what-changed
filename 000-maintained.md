@@ -2359,6 +2359,11 @@
 - [ ] [<code>CB-4528 Snowflake SSO auth (#23130)</code>](https://github.com/dbeaver/dbeaver/commit/485fa49c94034c6e9e519d62a79e540eb6c2af56)
 - [ ] [<code>CB-4568 drop unused internal tables (#23122)</code>](https://github.com/dbeaver/dbeaver/commit/2b3126812913cf1bd4e7a803aaad107b487baa5b)
 - [ ] [<code>dbeaver/pro#2395 [TE] Fix or remove Profile auth method (#22974)</code>](https://github.com/dbeaver/dbeaver/commit/f4082611668952db56041afad0144c8db17b076c)
+- [ ] [<code>dbeaver/pro#2552 [TE] deleted profiles appear again after app launch (#23003)</code>](https://github.com/dbeaver/dbeaver/commit/4a32e3d0db7405fb00a5c6e7c527bc5d583a22fc)
+- [ ] [<code>dbeaver/pro#2352 Disable project creation in distributed mode (#23143)</code>](https://github.com/dbeaver/dbeaver/commit/a85cde6c8d254d3d4ea7cf10f90ed53181e65145)
+- [ ] [<code>#22586 Add Romanian language (#22696)</code>](https://github.com/dbeaver/dbeaver/commit/a51855e9001985a3bfc1aadecc73b89a9fef4fde)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>dbeaver/pro#2625 read procedures and functions DDLs for Teradata (#23134)</code>](https://github.com/dbeaver/dbeaver/commit/63c57b6ca444cf578db0e2b91dab9a454d9dad27)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3491,6 +3496,10 @@
 - [ ] [<code>typofix: fix incorrect printing in lxcfs help interface</code>](https://github.com/lxc/lxcfs/commit/c27c750ba028a65a3d136999e85939dbb9601b06)
 - [ ] [<code>Add macro pivot&bpf for loongarch64</code>](https://github.com/lxc/lxcfs/commit/10f17f5dded80187f32d3c0ce5c03c110b04faa0)
 - [ ] [<code>lxc.mount.hook: Skip cpu sysfs logic if missing target</code>](https://github.com/lxc/lxcfs/commit/746b9f430396520c650add33993b7139d86c5c36)
+- [ ] [<code>sysfs: forbid write()</code>](https://github.com/lxc/lxcfs/commit/ce8e6e973c1b4fb1261b29ec02dad069bff61c6c)
+- [ ] [<code>lxcfs: introduce new option --enable-cgroup</code>](https://github.com/lxc/lxcfs/commit/000b539f1b358d4f9536247cccd34da6c48b6e77)
+- [ ] [<code>tests: use --enable-cgroup for tests</code>](https://github.com/lxc/lxcfs/commit/6239e4b8cb2ec585e3c6a276e4a7f8a6f73c306b)
+- [ ] [<code>github: workaround CI issue with ASAN</code>](https://github.com/lxc/lxcfs/commit/351775512350bfb45c6486f39a7aa7cc76f690c7)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
