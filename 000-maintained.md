@@ -3155,6 +3155,8 @@
 - [ ] [<code>Use env vars in ci-unix-static-sanitized.yml (#2060)</code>](https://github.com/AOMediaCodec/libavif/commit/23825a86b08e18b703f6fa5cec72cb72bc44363c)
 - [ ] [<code>Fix env indent in ci-unix-static-sanitized (#2062)</code>](https://github.com/AOMediaCodec/libavif/commit/1191d105e28aad8733a351b3c6f8eea17b141c68)
 - [ ] [<code>Fixed error: empty expression statement has no effect</code>](https://github.com/AOMediaCodec/libavif/commit/4e1af424b1d6f4c88ee8472e82cca434488b6807)
+- [ ] [<code>Add avifIsAlpha() to internal.h (#2057)</code>](https://github.com/AOMediaCodec/libavif/commit/091db5eb72a1ee2fea06691bcf6124591eea3d39)
+- [ ] [<code>ci-unix-static-sanitized.yml for macos (#2061)</code>](https://github.com/AOMediaCodec/libavif/commit/43ec9ace31c6ca11efddddb61b94b744450d46e2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3387,6 +3389,7 @@
 - [ ] [<code>lxc-net: Enable IPv6 by default</code>](https://github.com/lxc/lxc/commit/e88883445a6b412605433a69c27ffe674d4649d8)
 - [ ] [<code>lxc-unshare: fix an buffer overflow issue in lxc_unshare</code>](https://github.com/lxc/lxc/commit/7452ee8aba5da0addc4dd614d17a4a7c3a462aa9)
 - [ ] [<code>unshare: simplify lookup_name</code>](https://github.com/lxc/lxc/commit/046b63cd20347f4b573df12475ca13be2ce62386)
+- [ ] [<code>README: Correct 'armvl7' to 'armv7l'</code>](https://github.com/lxc/lxc/commit/f9978b179012af6769d32ebf0755a84fa652ed41)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
