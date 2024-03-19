@@ -2364,6 +2364,9 @@
 - [ ] [<code>#22586 Add Romanian language (#22696)</code>](https://github.com/dbeaver/dbeaver/commit/a51855e9001985a3bfc1aadecc73b89a9fef4fde)
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>dbeaver/pro#2625 read procedures and functions DDLs for Teradata (#23134)</code>](https://github.com/dbeaver/dbeaver/commit/63c57b6ca444cf578db0e2b91dab9a454d9dad27)
+- [ ] [<code>#12430 Shared SSH sessions (#22671)</code>](https://github.com/dbeaver/dbeaver/commit/0e633b14fbc59e66c49a85a71154d32166303f4c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#23167 Add missing native bundles</code>](https://github.com/dbeaver/dbeaver/commit/406cd275de48daa0a2f734c642b4edde2a16e4bb)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
