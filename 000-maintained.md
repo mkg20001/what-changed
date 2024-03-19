@@ -2367,6 +2367,24 @@
 - [ ] [<code>#12430 Shared SSH sessions (#22671)</code>](https://github.com/dbeaver/dbeaver/commit/0e633b14fbc59e66c49a85a71154d32166303f4c)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>dbeaver/dbeaver#23167 Add missing native bundles</code>](https://github.com/dbeaver/dbeaver/commit/406cd275de48daa0a2f734c642b4edde2a16e4bb)
+- [ ] [<code>fix Classes Hierarchy (#23170)</code>](https://github.com/dbeaver/dbeaver/commit/471648d9da39745cfe253a54e65b9b1dc976dad1)
+- [ ] [<code>#23126 hide aggregate functions for RisingWave (#23154)</code>](https://github.com/dbeaver/dbeaver/commit/66c6f832cf7b11d2659bdd6d00bb150583d07acd)
+- [ ] [<code>dbeaver/pro#2570 support Romanian language by installation (#23169)</code>](https://github.com/dbeaver/dbeaver/commit/2391c2930e2b35699d74d66a96236308f30e5df4)
+- [ ] [<code>CB-4867 remote preference store (#23156)</code>](https://github.com/dbeaver/dbeaver/commit/3077f303f15ceac9b81927c7425010e323fcf1b7)
+- [ ] [<code>dbeaver/pro#2641 2403 compatibility</code>](https://github.com/dbeaver/dbeaver/commit/fdb352419c002333e43d0e2cb960ab3bdd77d6b2)
+- [ ] [<code>#22826 hide info objects (collations and settings) and hide error about pgagent jobs (#23168)</code>](https://github.com/dbeaver/dbeaver/commit/032423b4b5ee4d86721201573c3a0475b0b93bf0)
+- [ ] [<code>Remove launcher dependency</code>](https://github.com/dbeaver/dbeaver/commit/577d6ed5b5f18e4c1ee8d508fa6da6f4b783e53c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/pro#2336 Move MSSQL Kerberos to PRO (#23147)</code>](https://github.com/dbeaver/dbeaver/commit/3a0946a84adb91aaea0cafd40ca00ab6713b028f)
+- [ ] [<code>Dbeaver/pro#2367 dashboards redesign (#23095)</code>](https://github.com/dbeaver/dbeaver/commit/7cc575a95041bcf602fc884f4e4f264bbf2b1b12)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2484 Google BQ: show the bytes processed or bytes billed (#23131)</code>](https://github.com/dbeaver/dbeaver/commit/ed2493e76e6ba5dcf5b102697883e1f5f3df085b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#23173 eclipse plugin fix (#23176)</code>](https://github.com/dbeaver/dbeaver/commit/b65ebef8db83a61b536c3ef74c4dd224be327ad6)
+- [ ] [<code>dbeaver/pro#2316 SVG icons support (#23142)</code>](https://github.com/dbeaver/dbeaver/commit/8003326da72f7e059c40d77b65c4a4544f71d084)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>logging fix</code>](https://github.com/dbeaver/dbeaver/commit/e72757e02044f32b3ec8445f4528502518472c72)
+- [ ] [<code>#23113 Target object search fix (#23177)</code>](https://github.com/dbeaver/dbeaver/commit/2961a0da14388d41dc458b8eaec40313a1616767)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3165,6 +3183,9 @@
 - [ ] [<code>Fixed error: empty expression statement has no effect</code>](https://github.com/AOMediaCodec/libavif/commit/4e1af424b1d6f4c88ee8472e82cca434488b6807)
 - [ ] [<code>Add avifIsAlpha() to internal.h (#2057)</code>](https://github.com/AOMediaCodec/libavif/commit/091db5eb72a1ee2fea06691bcf6124591eea3d39)
 - [ ] [<code>ci-unix-static-sanitized.yml for macos (#2061)</code>](https://github.com/AOMediaCodec/libavif/commit/43ec9ace31c6ca11efddddb61b94b744450d46e2)
+- [ ] [<code>Add note about buffer copy in avifDecoderRead() (#2056)</code>](https://github.com/AOMediaCodec/libavif/commit/1c92dbbbb7967afce469c5d27e16fba015d635a9)
+- [ ] [<code>check meta pointer before calling avifMetaDestroy (#2065)</code>](https://github.com/AOMediaCodec/libavif/commit/70503d7812eea90467a1dceb81627acecbe3fe31)
+- [ ] [<code>Delete unneeded spaces and break a long line</code>](https://github.com/AOMediaCodec/libavif/commit/e7f7afd8c6bd2baf0a714c78dac912e4487c689c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
