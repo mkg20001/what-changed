@@ -2390,6 +2390,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>logging fix</code>](https://github.com/dbeaver/dbeaver/commit/e72757e02044f32b3ec8445f4528502518472c72)
 - [ ] [<code>#23113 Target object search fix (#23177)</code>](https://github.com/dbeaver/dbeaver/commit/2961a0da14388d41dc458b8eaec40313a1616767)
+- [ ] [<code>Remove redundant dependency</code>](https://github.com/dbeaver/dbeaver/commit/b89f554ec97d0be1f95609cfd3c40c50a1cec20b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>dbeaver/dbeaver#23187 Transactions errors during datasource init fix (#23188)</code>](https://github.com/dbeaver/dbeaver/commit/3f35fbde69bfdc1db277e09284e96ed845eccbcd)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2575,6 +2579,8 @@
 - [ ] [<code>design: Display images in correct ratio in timeline</code>](https://github.com/krille-chan/fluffychat/commit/2104793ecd59a7877996d7cac606bcd3a5579486)
 - [ ] [<code>chore: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/db747afb7bdbed672f994fe1d72c7cc873a13cab)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: Follow up image size</code>](https://github.com/krille-chan/fluffychat/commit/ba05050c2bf052d71d1a23c377828cf71f9c59d3)
+- [ ] [<code>chore: Follow up imagebubble</code>](https://github.com/krille-chan/fluffychat/commit/1271441eb0babe422fa71c7944102e42ee941a66)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2617,6 +2623,8 @@
 - [ ] [<code>design: Display images in correct ratio in timeline</code>](https://github.com/krille-chan/fluffychat/commit/2104793ecd59a7877996d7cac606bcd3a5579486)
 - [ ] [<code>chore: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/db747afb7bdbed672f994fe1d72c7cc873a13cab)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: Follow up image size</code>](https://github.com/krille-chan/fluffychat/commit/ba05050c2bf052d71d1a23c377828cf71f9c59d3)
+- [ ] [<code>chore: Follow up imagebubble</code>](https://github.com/krille-chan/fluffychat/commit/1271441eb0babe422fa71c7944102e42ee941a66)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3193,6 +3201,8 @@
 - [ ] [<code>Delete unneeded spaces and break a long line</code>](https://github.com/AOMediaCodec/libavif/commit/e7f7afd8c6bd2baf0a714c78dac912e4487c689c)
 - [ ] [<code>Ext: Update to SVT-AV1 v2.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/2a4b6b110f33a998781877f11528f53dfbf10ed1)
 - [ ] [<code>Ext: Update to dav1d 1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/f8ad918b155ae324f7b43eb74cf7fe4127ccfce7)
+- [ ] [<code>Pass -f to rm in cleanup handlers</code>](https://github.com/AOMediaCodec/libavif/commit/4c644d50d05bb0ab251855d87547f23e990b4fed)
+- [ ] [<code>Pass the -DSANITIZE=<type> cmake option to libaom</code>](https://github.com/AOMediaCodec/libavif/commit/edd02ee7fbf0fcb2faabc2db264f5ead2897344c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
