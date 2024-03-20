@@ -3186,6 +3186,8 @@
 - [ ] [<code>Add note about buffer copy in avifDecoderRead() (#2056)</code>](https://github.com/AOMediaCodec/libavif/commit/1c92dbbbb7967afce469c5d27e16fba015d635a9)
 - [ ] [<code>check meta pointer before calling avifMetaDestroy (#2065)</code>](https://github.com/AOMediaCodec/libavif/commit/70503d7812eea90467a1dceb81627acecbe3fe31)
 - [ ] [<code>Delete unneeded spaces and break a long line</code>](https://github.com/AOMediaCodec/libavif/commit/e7f7afd8c6bd2baf0a714c78dac912e4487c689c)
+- [ ] [<code>Ext: Update to SVT-AV1 v2.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/2a4b6b110f33a998781877f11528f53dfbf10ed1)
+- [ ] [<code>Ext: Update to dav1d 1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/f8ad918b155ae324f7b43eb74cf7fe4127ccfce7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
