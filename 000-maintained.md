@@ -5,6 +5,11 @@
 - [ ] [<code>ui: Add 64bit conversion entries in ConversionTable</code>](https://github.com/afrantzis/bless/commit/2c8dfa976d486f78c4a13aba5ca376a9ea6ee568)
 - [ ] [<code>plugins: Add 64bit support to ConversionTable</code>](https://github.com/afrantzis/bless/commit/103fbd6f4e449666e72fe21d3151a94adef5b880)
 
+#### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.0 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.0...HEAD)
+
+- [ ] [<code>Update README.md</code>](https://github.com/mgit-at/cert-viewer/commit/c0d99dc1167b7dd9b9e6152650bbcee4557cb77e)
+- [ ] [<code>Add nix files</code>](https://github.com/mgit-at/cert-viewer/commit/d2038900cc343a77b876893845ed8417b684d371)
+
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
 > Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
