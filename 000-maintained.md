@@ -4191,6 +4191,8 @@
 - [ ] [<code>docs: Rename core.rst to algorithm.rst</code>](https://github.com/cowsql/raft/commit/0bc7a62871e57a41db81c93665c583a0398d6009)
 - [ ] [<code>docs: Add section about struct raft update (#177)</code>](https://github.com/cowsql/raft/commit/c5ce8b3ec1aa60bd414af13b860d978c38c33d26)
 - [ ] [<code>github: Don't run BMC job every day</code>](https://github.com/cowsql/raft/commit/4a84e279e50026f55db63b2374740f9406275b9d)
+- [ ] [<code>recv: Fix double-free of entries batch</code>](https://github.com/cowsql/raft/commit/0f46098acc34af826f07db1364bbaaaf6d88a307)
+- [ ] [<code>recv: Fix double-free of entries batch (#179)</code>](https://github.com/cowsql/raft/commit/bee6c36e6167a1b11061159fc1606d0e6465d382)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
