@@ -2581,6 +2581,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Follow up image size</code>](https://github.com/krille-chan/fluffychat/commit/ba05050c2bf052d71d1a23c377828cf71f9c59d3)
 - [ ] [<code>chore: Follow up imagebubble</code>](https://github.com/krille-chan/fluffychat/commit/1271441eb0babe422fa71c7944102e42ee941a66)
+- [ ] [<code>refactor: Use dart blurhash</code>](https://github.com/krille-chan/fluffychat/commit/25ec229ace0a2d55f9e9a8f7fa1c81cff7a4d556)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Disable image transition for better performance</code>](https://github.com/krille-chan/fluffychat/commit/5573c7fcbc6402e150aef02b1ab2df8c50aec9ac)
+- [ ] [<code>chore: Follow up image bubble performance</code>](https://github.com/krille-chan/fluffychat/commit/bac2dceae4978f94093f9a90a619dadd4fdf63da)
+- [ ] [<code>chore: New performant fade in for images</code>](https://github.com/krille-chan/fluffychat/commit/a518f8a0192824d834bd3d27857dffffa90652b6)
+- [ ] [<code>chore: Calc blurhash in other thread</code>](https://github.com/krille-chan/fluffychat/commit/989c6146ce12c471a6edc500e13d4daaa569bb1e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2625,6 +2631,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Follow up image size</code>](https://github.com/krille-chan/fluffychat/commit/ba05050c2bf052d71d1a23c377828cf71f9c59d3)
 - [ ] [<code>chore: Follow up imagebubble</code>](https://github.com/krille-chan/fluffychat/commit/1271441eb0babe422fa71c7944102e42ee941a66)
+- [ ] [<code>refactor: Use dart blurhash</code>](https://github.com/krille-chan/fluffychat/commit/25ec229ace0a2d55f9e9a8f7fa1c81cff7a4d556)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Disable image transition for better performance</code>](https://github.com/krille-chan/fluffychat/commit/5573c7fcbc6402e150aef02b1ab2df8c50aec9ac)
+- [ ] [<code>chore: Follow up image bubble performance</code>](https://github.com/krille-chan/fluffychat/commit/bac2dceae4978f94093f9a90a619dadd4fdf63da)
+- [ ] [<code>chore: New performant fade in for images</code>](https://github.com/krille-chan/fluffychat/commit/a518f8a0192824d834bd3d27857dffffa90652b6)
+- [ ] [<code>chore: Calc blurhash in other thread</code>](https://github.com/krille-chan/fluffychat/commit/989c6146ce12c471a6edc500e13d4daaa569bb1e)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3203,6 +3215,7 @@
 - [ ] [<code>Ext: Update to dav1d 1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/f8ad918b155ae324f7b43eb74cf7fe4127ccfce7)
 - [ ] [<code>Pass -f to rm in cleanup handlers</code>](https://github.com/AOMediaCodec/libavif/commit/4c644d50d05bb0ab251855d87547f23e990b4fed)
 - [ ] [<code>Pass the -DSANITIZE=<type> cmake option to libaom</code>](https://github.com/AOMediaCodec/libavif/commit/edd02ee7fbf0fcb2faabc2db264f5ead2897344c)
+- [ ] [<code>Don't force version 2.15.05 with setup-nasm</code>](https://github.com/AOMediaCodec/libavif/commit/652eb5023f4803ebcf9571e3435ea9833857f8b7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4135,7 +4148,7 @@
 > Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint21 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint21...HEAD)
+#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint22 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint22...HEAD)
 
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
