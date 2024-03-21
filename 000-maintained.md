@@ -2394,6 +2394,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>dbeaver/dbeaver#23187 Transactions errors during datasource init fix (#23188)</code>](https://github.com/dbeaver/dbeaver/commit/3f35fbde69bfdc1db277e09284e96ed845eccbcd)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Launcher code cleanup</code>](https://github.com/dbeaver/dbeaver/commit/0fb18e9499affe9e4a44b09e84b1cd80bd3942aa)
+- [ ] [<code>Preference pages + AI label fix</code>](https://github.com/dbeaver/dbeaver/commit/f6aa8cbe5f66990c2e20c1b972130b780af0ad0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "Launcher code cleanup"</code>](https://github.com/dbeaver/dbeaver/commit/ff30f52f79292c7853ab0a3673cd2e0d00a8e461)
+- [ ] [<code>dbeaver/pro#2654 CB-4883 Port forwarder race condition fix (#23192)</code>](https://github.com/dbeaver/dbeaver/commit/05341995c16461abb0ff4b9f06ad9b978cc39728)
+- [ ] [<code>dbeaver/pro#2652 remove ModelPreferences.getPreferences usages (#23189)</code>](https://github.com/dbeaver/dbeaver/commit/132417e56b7b8ef25fa49117d89e6f408f2aa177)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2587,6 +2593,8 @@
 - [ ] [<code>chore: Follow up image bubble performance</code>](https://github.com/krille-chan/fluffychat/commit/bac2dceae4978f94093f9a90a619dadd4fdf63da)
 - [ ] [<code>chore: New performant fade in for images</code>](https://github.com/krille-chan/fluffychat/commit/a518f8a0192824d834bd3d27857dffffa90652b6)
 - [ ] [<code>chore: Calc blurhash in other thread</code>](https://github.com/krille-chan/fluffychat/commit/989c6146ce12c471a6edc500e13d4daaa569bb1e)
+- [ ] [<code>refactor: Sticker widget code</code>](https://github.com/krille-chan/fluffychat/commit/935e7215e47bf82835133a2d6a452e41b3489d2d)
+- [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2637,6 +2645,8 @@
 - [ ] [<code>chore: Follow up image bubble performance</code>](https://github.com/krille-chan/fluffychat/commit/bac2dceae4978f94093f9a90a619dadd4fdf63da)
 - [ ] [<code>chore: New performant fade in for images</code>](https://github.com/krille-chan/fluffychat/commit/a518f8a0192824d834bd3d27857dffffa90652b6)
 - [ ] [<code>chore: Calc blurhash in other thread</code>](https://github.com/krille-chan/fluffychat/commit/989c6146ce12c471a6edc500e13d4daaa569bb1e)
+- [ ] [<code>refactor: Sticker widget code</code>](https://github.com/krille-chan/fluffychat/commit/935e7215e47bf82835133a2d6a452e41b3489d2d)
+- [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3216,6 +3226,9 @@
 - [ ] [<code>Pass -f to rm in cleanup handlers</code>](https://github.com/AOMediaCodec/libavif/commit/4c644d50d05bb0ab251855d87547f23e990b4fed)
 - [ ] [<code>Pass the -DSANITIZE=<type> cmake option to libaom</code>](https://github.com/AOMediaCodec/libavif/commit/edd02ee7fbf0fcb2faabc2db264f5ead2897344c)
 - [ ] [<code>Don't force version 2.15.05 with setup-nasm</code>](https://github.com/AOMediaCodec/libavif/commit/652eb5023f4803ebcf9571e3435ea9833857f8b7)
+- [ ] [<code>Use double quotes "" to allow substitution</code>](https://github.com/AOMediaCodec/libavif/commit/9c39e172b656670f1300ce37d9c2ecde666e1048)
+- [ ] [<code>Remove a workaround in avm.cmd</code>](https://github.com/AOMediaCodec/libavif/commit/e746b2337abf553c8c374e6f368ff72459ae014a)
+- [ ] [<code>Add AddressSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/d159843a6e47d4a8175ce7e76cf202b54e99c2f2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
