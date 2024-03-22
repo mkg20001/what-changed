@@ -2400,6 +2400,8 @@
 - [ ] [<code>Revert "Launcher code cleanup"</code>](https://github.com/dbeaver/dbeaver/commit/ff30f52f79292c7853ab0a3673cd2e0d00a8e461)
 - [ ] [<code>dbeaver/pro#2654 CB-4883 Port forwarder race condition fix (#23192)</code>](https://github.com/dbeaver/dbeaver/commit/05341995c16461abb0ff4b9f06ad9b978cc39728)
 - [ ] [<code>dbeaver/pro#2652 remove ModelPreferences.getPreferences usages (#23189)</code>](https://github.com/dbeaver/dbeaver/commit/132417e56b7b8ef25fa49117d89e6f408f2aa177)
+- [ ] [<code>dbeaver/pro#2663 Refactor SSH configuration model (#23208)</code>](https://github.com/dbeaver/dbeaver/commit/533cd31734c958a4dad52c2dc1130b126b7ed460)
+- [ ] [<code>Mockito version + deps</code>](https://github.com/dbeaver/dbeaver/commit/4808e70bb57e16ea02005f1bc86a0bdafa8576b4)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2595,6 +2597,7 @@
 - [ ] [<code>chore: Calc blurhash in other thread</code>](https://github.com/krille-chan/fluffychat/commit/989c6146ce12c471a6edc500e13d4daaa569bb1e)
 - [ ] [<code>refactor: Sticker widget code</code>](https://github.com/krille-chan/fluffychat/commit/935e7215e47bf82835133a2d6a452e41b3489d2d)
 - [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
+- [ ] [<code>fix: FluffyChat should assume m.change_password capabilitiy is supported if not present per spec</code>](https://github.com/krille-chan/fluffychat/commit/449357b501d0a9fa1e866022d1a25dccfadc922f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2647,6 +2650,7 @@
 - [ ] [<code>chore: Calc blurhash in other thread</code>](https://github.com/krille-chan/fluffychat/commit/989c6146ce12c471a6edc500e13d4daaa569bb1e)
 - [ ] [<code>refactor: Sticker widget code</code>](https://github.com/krille-chan/fluffychat/commit/935e7215e47bf82835133a2d6a452e41b3489d2d)
 - [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
+- [ ] [<code>fix: FluffyChat should assume m.change_password capabilitiy is supported if not present per spec</code>](https://github.com/krille-chan/fluffychat/commit/449357b501d0a9fa1e866022d1a25dccfadc922f)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
