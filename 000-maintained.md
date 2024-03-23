@@ -9,6 +9,7 @@
 
 - [ ] [<code>Update README.md</code>](https://github.com/mgit-at/cert-viewer/commit/c0d99dc1167b7dd9b9e6152650bbcee4557cb77e)
 - [ ] [<code>Add nix files</code>](https://github.com/mgit-at/cert-viewer/commit/d2038900cc343a77b876893845ed8417b684d371)
+- [ ] [<code>Sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/1694081d444d21b6a028ba87322d1e15089a5379)
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -4229,6 +4230,9 @@
 - [ ] [<code>[atlesn] Replace callocs() with explicit initialization of unused fields or areas</code>](https://github.com/cowsql/raft/commit/515b97b02f8dee6a37d87904ed24e239cf23583f)
 - [ ] [<code>[atlesn] Fix usage of uninitialized memory during snapshoting</code>](https://github.com/cowsql/raft/commit/e99dde7882d0f77406da160e133bee983163dde8)
 - [ ] [<code>[atlesn] Fix misc. usage of uninitialized memory (#180)</code>](https://github.com/cowsql/raft/commit/421cffccbf17bdc38d5ddaa6d450fb9d997f1cee)
+- [ ] [<code>lint: Fix formatting</code>](https://github.com/cowsql/raft/commit/faa6f6313b325a0ff0c1bcfbead6b473bd45b0c0)
+- [ ] [<code>uv: Improve comment in sizeofRequestV1</code>](https://github.com/cowsql/raft/commit/61880bdb0b15dee18e60299c2a3058086b57ebb1)
+- [ ] [<code>lint: Fix formatting in encoding code (#181)</code>](https://github.com/cowsql/raft/commit/dd383c50c7037f08eef1d40853b7c4c533be99ce)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
