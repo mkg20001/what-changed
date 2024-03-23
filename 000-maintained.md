@@ -3466,6 +3466,7 @@
 - [ ] [<code>lxc-unshare: fix an buffer overflow issue in lxc_unshare</code>](https://github.com/lxc/lxc/commit/7452ee8aba5da0addc4dd614d17a4a7c3a462aa9)
 - [ ] [<code>unshare: simplify lookup_name</code>](https://github.com/lxc/lxc/commit/046b63cd20347f4b573df12475ca13be2ce62386)
 - [ ] [<code>README: Correct 'armvl7' to 'armv7l'</code>](https://github.com/lxc/lxc/commit/f9978b179012af6769d32ebf0755a84fa652ed41)
+- [ ] [<code>rexec: Avoid invalid free in rexec failure path</code>](https://github.com/lxc/lxc/commit/590a95d836324257cff63b8a3d275f772b9f9fc4)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
@@ -4148,6 +4149,7 @@
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.11.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.11.0...HEAD)
 
+- [ ] [<code>fix(gui): appstream metainfo warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dec0ad3f2659205ff6efdb8d12ec333ba9f3a0b4)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -4223,6 +4225,10 @@
 - [ ] [<code>github: Don't run BMC job every day</code>](https://github.com/cowsql/raft/commit/4a84e279e50026f55db63b2374740f9406275b9d)
 - [ ] [<code>recv: Fix double-free of entries batch</code>](https://github.com/cowsql/raft/commit/0f46098acc34af826f07db1364bbaaaf6d88a307)
 - [ ] [<code>recv: Fix double-free of entries batch (#179)</code>](https://github.com/cowsql/raft/commit/bee6c36e6167a1b11061159fc1606d0e6465d382)
+- [ ] [<code>[atlesn] Fix misc. usage of uninitialized memory</code>](https://github.com/cowsql/raft/commit/07b5f3e315c179f7de41c3b519aaacb1563c2f87)
+- [ ] [<code>[atlesn] Replace callocs() with explicit initialization of unused fields or areas</code>](https://github.com/cowsql/raft/commit/515b97b02f8dee6a37d87904ed24e239cf23583f)
+- [ ] [<code>[atlesn] Fix usage of uninitialized memory during snapshoting</code>](https://github.com/cowsql/raft/commit/e99dde7882d0f77406da160e133bee983163dde8)
+- [ ] [<code>[atlesn] Fix misc. usage of uninitialized memory (#180)</code>](https://github.com/cowsql/raft/commit/421cffccbf17bdc38d5ddaa6d450fb9d997f1cee)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
