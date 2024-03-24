@@ -2599,6 +2599,7 @@
 - [ ] [<code>refactor: Sticker widget code</code>](https://github.com/krille-chan/fluffychat/commit/935e7215e47bf82835133a2d6a452e41b3489d2d)
 - [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
 - [ ] [<code>fix: FluffyChat should assume m.change_password capabilitiy is supported if not present per spec</code>](https://github.com/krille-chan/fluffychat/commit/449357b501d0a9fa1e866022d1a25dccfadc922f)
+- [ ] [<code>chore: Follow up image rendering</code>](https://github.com/krille-chan/fluffychat/commit/45e11226481cea3f67be27208679bf60a1ae0106)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2652,6 +2653,7 @@
 - [ ] [<code>refactor: Sticker widget code</code>](https://github.com/krille-chan/fluffychat/commit/935e7215e47bf82835133a2d6a452e41b3489d2d)
 - [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
 - [ ] [<code>fix: FluffyChat should assume m.change_password capabilitiy is supported if not present per spec</code>](https://github.com/krille-chan/fluffychat/commit/449357b501d0a9fa1e866022d1a25dccfadc922f)
+- [ ] [<code>chore: Follow up image rendering</code>](https://github.com/krille-chan/fluffychat/commit/45e11226481cea3f67be27208679bf60a1ae0106)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
