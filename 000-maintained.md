@@ -2600,6 +2600,10 @@
 - [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
 - [ ] [<code>fix: FluffyChat should assume m.change_password capabilitiy is supported if not present per spec</code>](https://github.com/krille-chan/fluffychat/commit/449357b501d0a9fa1e866022d1a25dccfadc922f)
 - [ ] [<code>chore: Follow up image rendering</code>](https://github.com/krille-chan/fluffychat/commit/45e11226481cea3f67be27208679bf60a1ae0106)
+- [ ] [<code>chore: Mark muted unread rooms with bold text</code>](https://github.com/krille-chan/fluffychat/commit/73c08c3fdd6df0763b1d5886f0a024414d869f1c)
+- [ ] [<code>chore: Follow up audomessage speed button design</code>](https://github.com/krille-chan/fluffychat/commit/9b82614fbab878a87bd34d739ce7bb4a5f9a897c)
+- [ ] [<code>chore: Follow up audioplayer height</code>](https://github.com/krille-chan/fluffychat/commit/5687aab290a1d441b92b86fc9dc9130abfa69d6f)
+- [ ] [<code>design: Make appbar in material you design for mobile mode</code>](https://github.com/krille-chan/fluffychat/commit/22b467de2175378dbf761c254b0431e8a8b574c8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2654,6 +2658,10 @@
 - [ ] [<code>chore: Calc much smaller blurhash</code>](https://github.com/krille-chan/fluffychat/commit/f653664b39c1defa0eaea45ea8359c02d693633f)
 - [ ] [<code>fix: FluffyChat should assume m.change_password capabilitiy is supported if not present per spec</code>](https://github.com/krille-chan/fluffychat/commit/449357b501d0a9fa1e866022d1a25dccfadc922f)
 - [ ] [<code>chore: Follow up image rendering</code>](https://github.com/krille-chan/fluffychat/commit/45e11226481cea3f67be27208679bf60a1ae0106)
+- [ ] [<code>chore: Mark muted unread rooms with bold text</code>](https://github.com/krille-chan/fluffychat/commit/73c08c3fdd6df0763b1d5886f0a024414d869f1c)
+- [ ] [<code>chore: Follow up audomessage speed button design</code>](https://github.com/krille-chan/fluffychat/commit/9b82614fbab878a87bd34d739ce7bb4a5f9a897c)
+- [ ] [<code>chore: Follow up audioplayer height</code>](https://github.com/krille-chan/fluffychat/commit/5687aab290a1d441b92b86fc9dc9130abfa69d6f)
+- [ ] [<code>design: Make appbar in material you design for mobile mode</code>](https://github.com/krille-chan/fluffychat/commit/22b467de2175378dbf761c254b0431e8a8b574c8)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3236,6 +3244,7 @@
 - [ ] [<code>Use double quotes "" to allow substitution</code>](https://github.com/AOMediaCodec/libavif/commit/9c39e172b656670f1300ce37d9c2ecde666e1048)
 - [ ] [<code>Remove a workaround in avm.cmd</code>](https://github.com/AOMediaCodec/libavif/commit/e746b2337abf553c8c374e6f368ff72459ae014a)
 - [ ] [<code>Add AddressSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/d159843a6e47d4a8175ce7e76cf202b54e99c2f2)
+- [ ] [<code>Refactor AllocateGridImagePlanes() for non-grid (#2059)</code>](https://github.com/AOMediaCodec/libavif/commit/58566eec5b0f6641ffbba9ec67117703f1dfe00e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
