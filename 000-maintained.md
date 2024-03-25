@@ -2403,6 +2403,9 @@
 - [ ] [<code>dbeaver/pro#2652 remove ModelPreferences.getPreferences usages (#23189)</code>](https://github.com/dbeaver/dbeaver/commit/132417e56b7b8ef25fa49117d89e6f408f2aa177)
 - [ ] [<code>dbeaver/pro#2663 Refactor SSH configuration model (#23208)</code>](https://github.com/dbeaver/dbeaver/commit/533cd31734c958a4dad52c2dc1130b126b7ed460)
 - [ ] [<code>Mockito version + deps</code>](https://github.com/dbeaver/dbeaver/commit/4808e70bb57e16ea02005f1bc86a0bdafa8576b4)
+- [ ] [<code>Remove Orbit dependency</code>](https://github.com/dbeaver/dbeaver/commit/e4919f4d7ba3c38ab0a2b1ed8dd4f0df973d8705)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CB-4863 fix mat view folder id (#23200)</code>](https://github.com/dbeaver/dbeaver/commit/25b169cd2e7000d626ec27eff0170c076c343332)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2604,6 +2607,10 @@
 - [ ] [<code>chore: Follow up audomessage speed button design</code>](https://github.com/krille-chan/fluffychat/commit/9b82614fbab878a87bd34d739ce7bb4a5f9a897c)
 - [ ] [<code>chore: Follow up audioplayer height</code>](https://github.com/krille-chan/fluffychat/commit/5687aab290a1d441b92b86fc9dc9130abfa69d6f)
 - [ ] [<code>design: Make appbar in material you design for mobile mode</code>](https://github.com/krille-chan/fluffychat/commit/22b467de2175378dbf761c254b0431e8a8b574c8)
+- [ ] [<code>design: Background color follow up for input bar</code>](https://github.com/krille-chan/fluffychat/commit/150da0f0aabba1be817baf1296418834367a15fc)
+- [ ] [<code>chore: Try out CupertinoPage instead of custom transition in router</code>](https://github.com/krille-chan/fluffychat/commit/2e46ea7fd60317922887488893120cb706688890)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/6d4ee4ad6fd4deeeaac3bde475739508d410721d)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/7e0dcc305890fbd4db223ed8d3b036adcc84720c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2662,6 +2669,10 @@
 - [ ] [<code>chore: Follow up audomessage speed button design</code>](https://github.com/krille-chan/fluffychat/commit/9b82614fbab878a87bd34d739ce7bb4a5f9a897c)
 - [ ] [<code>chore: Follow up audioplayer height</code>](https://github.com/krille-chan/fluffychat/commit/5687aab290a1d441b92b86fc9dc9130abfa69d6f)
 - [ ] [<code>design: Make appbar in material you design for mobile mode</code>](https://github.com/krille-chan/fluffychat/commit/22b467de2175378dbf761c254b0431e8a8b574c8)
+- [ ] [<code>design: Background color follow up for input bar</code>](https://github.com/krille-chan/fluffychat/commit/150da0f0aabba1be817baf1296418834367a15fc)
+- [ ] [<code>chore: Try out CupertinoPage instead of custom transition in router</code>](https://github.com/krille-chan/fluffychat/commit/2e46ea7fd60317922887488893120cb706688890)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/6d4ee4ad6fd4deeeaac3bde475739508d410721d)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/7e0dcc305890fbd4db223ed8d3b036adcc84720c)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
