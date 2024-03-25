@@ -2406,6 +2406,7 @@
 - [ ] [<code>Remove Orbit dependency</code>](https://github.com/dbeaver/dbeaver/commit/e4919f4d7ba3c38ab0a2b1ed8dd4f0df973d8705)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CB-4863 fix mat view folder id (#23200)</code>](https://github.com/dbeaver/dbeaver/commit/25b169cd2e7000d626ec27eff0170c076c343332)
+- [ ] [<code>dbeaver/dbeaver#22666 Global configuration (#23164)</code>](https://github.com/dbeaver/dbeaver/commit/5fd4f27d2ba1be6b8a81d3e58e35fe849da134a7)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2611,6 +2612,11 @@
 - [ ] [<code>chore: Try out CupertinoPage instead of custom transition in router</code>](https://github.com/krille-chan/fluffychat/commit/2e46ea7fd60317922887488893120cb706688890)
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/6d4ee4ad6fd4deeeaac3bde475739508d410721d)
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/7e0dcc305890fbd4db223ed8d3b036adcc84720c)
+- [ ] [<code>chore: More minimal matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/f0b66fda0a5d54f49463a34b83af578ab0fbda17)
+- [ ] [<code>chore: Follow up new page transition</code>](https://github.com/krille-chan/fluffychat/commit/f3b3a82f0da325e374aae9135ea1b8b77720d834)
+- [ ] [<code>chore: Follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/0b9d258e56bab2874aa910b7bb77a5c6603010fb)
+- [ ] [<code>chore: Follow up matrix pills</code>](https://github.com/krille-chan/fluffychat/commit/d83c26a3c930c032f806c14dc2e3d4b1c4470146)
+- [ ] [<code>chore: follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/49c1de8610c92f180771ed96a367cc5b3df31db0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2673,6 +2679,11 @@
 - [ ] [<code>chore: Try out CupertinoPage instead of custom transition in router</code>](https://github.com/krille-chan/fluffychat/commit/2e46ea7fd60317922887488893120cb706688890)
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/6d4ee4ad6fd4deeeaac3bde475739508d410721d)
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/7e0dcc305890fbd4db223ed8d3b036adcc84720c)
+- [ ] [<code>chore: More minimal matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/f0b66fda0a5d54f49463a34b83af578ab0fbda17)
+- [ ] [<code>chore: Follow up new page transition</code>](https://github.com/krille-chan/fluffychat/commit/f3b3a82f0da325e374aae9135ea1b8b77720d834)
+- [ ] [<code>chore: Follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/0b9d258e56bab2874aa910b7bb77a5c6603010fb)
+- [ ] [<code>chore: Follow up matrix pills</code>](https://github.com/krille-chan/fluffychat/commit/d83c26a3c930c032f806c14dc2e3d4b1c4470146)
+- [ ] [<code>chore: follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/49c1de8610c92f180771ed96a367cc5b3df31db0)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3256,6 +3267,7 @@
 - [ ] [<code>Remove a workaround in avm.cmd</code>](https://github.com/AOMediaCodec/libavif/commit/e746b2337abf553c8c374e6f368ff72459ae014a)
 - [ ] [<code>Add AddressSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/d159843a6e47d4a8175ce7e76cf202b54e99c2f2)
 - [ ] [<code>Refactor AllocateGridImagePlanes() for non-grid (#2059)</code>](https://github.com/AOMediaCodec/libavif/commit/58566eec5b0f6641ffbba9ec67117703f1dfe00e)
+- [ ] [<code>Do not use env:NUMBER_OF_PROCESSORS for MinGW (#2076)</code>](https://github.com/AOMediaCodec/libavif/commit/3cc07724fc87ed6b80d62a45d8e4bd44c25b9f5d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4195,7 +4207,7 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.33.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.33.1...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.34.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.34.0...HEAD)
 
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
