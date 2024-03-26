@@ -2407,6 +2407,14 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CB-4863 fix mat view folder id (#23200)</code>](https://github.com/dbeaver/dbeaver/commit/25b169cd2e7000d626ec27eff0170c076c343332)
 - [ ] [<code>dbeaver/dbeaver#22666 Global configuration (#23164)</code>](https://github.com/dbeaver/dbeaver/commit/5fd4f27d2ba1be6b8a81d3e58e35fe849da134a7)
+- [ ] [<code>dbeaver/pro#2648 1. Notify QM about txn end. (#23175)</code>](https://github.com/dbeaver/dbeaver/commit/eafb9794c12d925c085eb23372515862c6eab0f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2565 syntax highlighting is not update immediately after schema change (#23225)</code>](https://github.com/dbeaver/dbeaver/commit/5944420d6a7466764d2cf2d971bc527cc653d308)
+- [ ] [<code>#23021 Add unique quantifier for select statements (#23236)</code>](https://github.com/dbeaver/dbeaver/commit/4e22829a6f5bc76fbc0ab36bc5405b36cc8018f6)
+- [ ] [<code>#22916 [CUBRID] Add Query Plan Feature for the CUBRID plugin (#22982)</code>](https://github.com/dbeaver/dbeaver/commit/86ded67eb80fb558f56435f8531be818b235336d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Dbeaver/pro#2545 [Project password] Unnecessarily asking for a password after clearing the password (#23065)</code>](https://github.com/dbeaver/dbeaver/commit/dc371f471f69129ae81a506c77a8037bd312e5c1)
+- [ ] [<code>#23079 Add support for WHERE TRUE, add simple types to outline (#23234)</code>](https://github.com/dbeaver/dbeaver/commit/0753b7876e61453d7e56fee282a0c0310daf0b98)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3037,6 +3045,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>scripts/bash: delete in favor of cobra completions</code>](https://github.com/lxc/incus/commit/8ce2a3c7c09e7ae67e180c1fbe6a879bc21a5f9a)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network_integrations: Filter config keys</code>](https://github.com/lxc/incus/commit/c5f14a37946a7abcaf00b19bb117e6b5f05986b8)
+- [ ] [<code>tests: Wait for initial connection to OpenFGA</code>](https://github.com/lxc/incus/commit/68946b5803203442b40e70e2ccc34ac017742a64)
+- [ ] [<code>incusd: Reload OIDC on claim changes</code>](https://github.com/lxc/incus/commit/9d0d9bcec0f077178f6e2809ea6bc83e4ae2776e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3612,6 +3623,7 @@
 - [ ] [<code>Add AddressSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/d159843a6e47d4a8175ce7e76cf202b54e99c2f2)
 - [ ] [<code>Refactor AllocateGridImagePlanes() for non-grid (#2059)</code>](https://github.com/AOMediaCodec/libavif/commit/58566eec5b0f6641ffbba9ec67117703f1dfe00e)
 - [ ] [<code>Do not use env:NUMBER_OF_PROCESSORS for MinGW (#2076)</code>](https://github.com/AOMediaCodec/libavif/commit/3cc07724fc87ed6b80d62a45d8e4bd44c25b9f5d)
+- [ ] [<code>Add ThreadSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/374e622d64dd92222f393188fbe2ee560449a1cc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3773,6 +3785,7 @@
 - [ ] [<code>Remove references to LXD</code>](https://github.com/lxc/lxc/commit/e2696df93b8926bd42c759da49843209336dcfc2)
 - [ ] [<code>lxccontainer.h: Move new fields to the end</code>](https://github.com/lxc/lxc/commit/84169158f40cab05a9fea2cad25f8d33c71ade4f)
 - [ ] [<code>build(deps): bump actions/checkout from 3 to 4</code>](https://github.com/lxc/lxc/commit/aca53bcf70db30d4d9df372f44852b2f725d07cb)
+- [ ] [<code>containers in the FREEZING state also need to be unfreeze</code>](https://github.com/lxc/lxc/commit/c02367e59c389e69f7d4eb3cd4c0f5274c064a7d)
 - [ ] [<code>lxc/lxccontainer: fix do_lxcapi_set_timeout retval</code>](https://github.com/lxc/lxc/commit/adadfa372ed1b4b4ef224311b72f41cf20994f87)
 - [ ] [<code>lxc/checkconfig: replace `cat | grep` with `grep`</code>](https://github.com/lxc/lxc/commit/003efe6db9f2bc96cd5e2242acc3dd19f64da947)
 - [ ] [<code>lxc/checkconfig: replace `type` by `command`</code>](https://github.com/lxc/lxc/commit/cb2574319b344cc61d1106862530a079f9680165)
@@ -3951,6 +3964,7 @@
 - [ ] [<code>lxcfs: introduce new option --enable-cgroup</code>](https://github.com/lxc/lxcfs/commit/000b539f1b358d4f9536247cccd34da6c48b6e77)
 - [ ] [<code>tests: use --enable-cgroup for tests</code>](https://github.com/lxc/lxcfs/commit/6239e4b8cb2ec585e3c6a276e4a7f8a6f73c306b)
 - [ ] [<code>github: workaround CI issue with ASAN</code>](https://github.com/lxc/lxcfs/commit/351775512350bfb45c6486f39a7aa7cc76f690c7)
+- [ ] [<code>Revert "github: workaround CI issue with ASAN"</code>](https://github.com/lxc/lxcfs/commit/0c08f0db973e6a2773ec67078bb700c0df2494b8)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
