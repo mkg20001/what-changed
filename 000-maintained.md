@@ -2617,6 +2617,10 @@
 - [ ] [<code>chore: Follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/0b9d258e56bab2874aa910b7bb77a5c6603010fb)
 - [ ] [<code>chore: Follow up matrix pills</code>](https://github.com/krille-chan/fluffychat/commit/d83c26a3c930c032f806c14dc2e3d4b1c4470146)
 - [ ] [<code>chore: follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/49c1de8610c92f180771ed96a367cc5b3df31db0)
+- [ ] [<code>chore: Follow up inputbar design</code>](https://github.com/krille-chan/fluffychat/commit/93f0ace3cf900b91458d0a17b35260686539d3be)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/ed2a1af46ca7eb7bc0f711b93cb35e7d8cc1dfbe)
+- [ ] [<code>chore: Follow up inputbar design</code>](https://github.com/krille-chan/fluffychat/commit/d3930cf4afb4cbc97e46317c415cc12e4e665560)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/cce5fc8fa5ac83a455cc9d8846cd41357e2c18c3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2684,6 +2688,10 @@
 - [ ] [<code>chore: Follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/0b9d258e56bab2874aa910b7bb77a5c6603010fb)
 - [ ] [<code>chore: Follow up matrix pills</code>](https://github.com/krille-chan/fluffychat/commit/d83c26a3c930c032f806c14dc2e3d4b1c4470146)
 - [ ] [<code>chore: follow up matrix pill</code>](https://github.com/krille-chan/fluffychat/commit/49c1de8610c92f180771ed96a367cc5b3df31db0)
+- [ ] [<code>chore: Follow up inputbar design</code>](https://github.com/krille-chan/fluffychat/commit/93f0ace3cf900b91458d0a17b35260686539d3be)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/ed2a1af46ca7eb7bc0f711b93cb35e7d8cc1dfbe)
+- [ ] [<code>chore: Follow up inputbar design</code>](https://github.com/krille-chan/fluffychat/commit/d3930cf4afb4cbc97e46317c415cc12e4e665560)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/cce5fc8fa5ac83a455cc9d8846cd41357e2c18c3)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3020,6 +3028,15 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4587f85eac175665ebe0914526da56be80ad6238)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/886e616419abd7e6b00e394abf448da2f952bffc)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/514e76fc8994c235aef238fac1faa8f90f5071d6)
+- [ ] [<code>Release Incus 0.7</code>](https://github.com/lxc/incus/commit/4e7e5b43d03847d3548b6cf950c95042cb10873a)
+  - <sub>Tags: <code>v0.7.0</code></sub>
+- [ ] [<code>incus: add completions for network peers</code>](https://github.com/lxc/incus/commit/459e9e315373517e0b26fd0ee7bbb91306aabe59)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: add completions for network zones</code>](https://github.com/lxc/incus/commit/7b359e934edc6f3b170176f44f71e54ba2f638f7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>scripts/bash: delete in favor of cobra completions</code>](https://github.com/lxc/incus/commit/8ce2a3c7c09e7ae67e180c1fbe6a879bc21a5f9a)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
