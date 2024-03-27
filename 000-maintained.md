@@ -2460,6 +2460,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Debian sid no-merged-usr</code>](https://github.com/lxc/distrobuilder/commit/ac904db4db1d329cce1232f9ed98bd473769060e)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Replace util.ValueInSlice with slices.Contains</code>](https://github.com/lxc/distrobuilder/commit/eba1eb2207b1893dc02f8119b5fc572462872e27)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
