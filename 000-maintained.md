@@ -2422,6 +2422,17 @@
 - [ ] [<code>#23251 Fix `enabled` field initialization in DBPEvent constructor (#23263)</code>](https://github.com/dbeaver/dbeaver/commit/5e037c1118f881086448ba86636f298879d12692)
 - [ ] [<code>#22956 Fix node search in nested folders (#23241)</code>](https://github.com/dbeaver/dbeaver/commit/59ffdbcc70670ee045048a030c2054fe63803624)
 - [ ] [<code>Fix typos in Russian localization (#23265)</code>](https://github.com/dbeaver/dbeaver/commit/91aa33a54cbae33c320e4d1eb0d27ae06282fdaf)
+- [ ] [<code>CB-4808 new settings api (#23174)</code>](https://github.com/dbeaver/dbeaver/commit/65e6248a4614f35267b726059aea84d16edf3471)
+- [ ] [<code>CB-4918 Disable osgi install location create (#23257)</code>](https://github.com/dbeaver/dbeaver/commit/d4c4c6f80691c69a0b24d26f83db1650adb6b4b4)
+- [ ] [<code>dbeaver/pro#2660 Disable session sharing per SSH tunnel (#23232)</code>](https://github.com/dbeaver/dbeaver/commit/5a358ef2bf7af52e26918128f2daa2ba31ee1121)
+- [ ] [<code>dbeaver/pro#2390 Allow specifying case for column names in the header (#23242)</code>](https://github.com/dbeaver/dbeaver/commit/caf16e62a9090fda5030823f1981507a77c4dc38)
+- [ ] [<code>#23072 SQLite column drop fix (#23245)</code>](https://github.com/dbeaver/dbeaver/commit/57cda10c32ecbec5dc6ec38988cebb2d91da1da4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/dbeaver#23254 Async secured project load fix (#23270)</code>](https://github.com/dbeaver/dbeaver/commit/ce0dc2d29cb46d8aa7e21b4f1a3a31de7bc9f8ca)
+- [ ] [<code>dbeaver/pro#2555 Get driver lists for different DBeaver Editions (#23191)</code>](https://github.com/dbeaver/dbeaver/commit/f59b3640367937690b68b3ddfbd8ccd771d0b85d)
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>ISSUE: #23215 - TaskNativeUIMessages.properties, LINE 24 changed text override -> overwrite (#23221)</code>](https://github.com/dbeaver/dbeaver/commit/389c57be5927ed22f415b002b91e5e9196817554)
+- [ ] [<code>Cb 4569 support altibase driver (#23267)</code>](https://github.com/dbeaver/dbeaver/commit/108978a1cade5ab5b83da9a0c2a9afd74988e6e5)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2648,6 +2659,9 @@
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/cba1a9bd5e746ed5059c24fcf439b43dfb24aceb)
 - [ ] [<code>chore: Follow up text selection color</code>](https://github.com/krille-chan/fluffychat/commit/6e13c17682efcf9e245fff38628f0be8f3c87b5a)
 - [ ] [<code>chore: Adjust ticker of notifications for Android</code>](https://github.com/krille-chan/fluffychat/commit/0436c5c517a9b86d1d71bfc49a1388dad3f16844)
+- [ ] [<code>chore: Follow up input bar padding</code>](https://github.com/krille-chan/fluffychat/commit/68aa2250f2e816eba7c96d2ebbe3edd9bba6bdfc)
+- [ ] [<code>chore: Follow up paddings</code>](https://github.com/krille-chan/fluffychat/commit/1be21e6c12b244e7581702f97f2ce783032f8b03)
+- [ ] [<code>chore: Follow up padding</code>](https://github.com/krille-chan/fluffychat/commit/654a423e41c4382a1305c8243afd63bf66ac78bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2729,6 +2743,9 @@
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/cba1a9bd5e746ed5059c24fcf439b43dfb24aceb)
 - [ ] [<code>chore: Follow up text selection color</code>](https://github.com/krille-chan/fluffychat/commit/6e13c17682efcf9e245fff38628f0be8f3c87b5a)
 - [ ] [<code>chore: Adjust ticker of notifications for Android</code>](https://github.com/krille-chan/fluffychat/commit/0436c5c517a9b86d1d71bfc49a1388dad3f16844)
+- [ ] [<code>chore: Follow up input bar padding</code>](https://github.com/krille-chan/fluffychat/commit/68aa2250f2e816eba7c96d2ebbe3edd9bba6bdfc)
+- [ ] [<code>chore: Follow up paddings</code>](https://github.com/krille-chan/fluffychat/commit/1be21e6c12b244e7581702f97f2ce783032f8b03)
+- [ ] [<code>chore: Follow up padding</code>](https://github.com/krille-chan/fluffychat/commit/654a423e41c4382a1305c8243afd63bf66ac78bd)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2781,6 +2798,8 @@
 - [ ] [<code>incusd/storage/lvmcluster: Handle custom volumes</code>](https://github.com/lxc/incus/commit/5c8e099216a96b4b5a08e70f932731091032f0a9)
 - [ ] [<code>incusd/instance/qemu: Support live-migration of instances with extra disks</code>](https://github.com/lxc/incus/commit/67777f96337938374fbc208d9fa9beed5e227346)
 - [ ] [<code>doc/storage: Clarify remote storage</code>](https://github.com/lxc/incus/commit/d0c4c535d44b5413fb64f23ca5bc503f5120a9c2)
+- [ ] [<code>incusd/network/ovn: Reconnect on timeout</code>](https://github.com/lxc/incus/commit/9322fd3103f1e80ed5bdac211835c503c65477f3)
+- [ ] [<code>incusd/network/ovs: Reconnect on timeout</code>](https://github.com/lxc/incus/commit/d9559fd8c47e0b6a274a4e82704f339c17bdf9dc)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4159,6 +4178,7 @@
 - [ ] [<code>CI: adopt snapd.patch for autopkgtest SRU (LP: #2051939)</code>](https://github.com/canonical/netplan/commit/957f4e832f5a2dc36c9ee94defb2a55ab8d85ea7)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>parse-nm: add a workaround for the DoT DNS option</code>](https://github.com/canonical/netplan/commit/2c9f3da63e042d24b8bcc070666eac6eaeea9f84)
+- [ ] [<code>CI: Install netplan-ci PPA</code>](https://github.com/canonical/netplan/commit/2e4e42e7f2d667f83efc746babf01e87a3fb69c2)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4509,3 +4529,8 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
 
+- [ ] [<code>Updates org.freedesktop.impl.portal.Settings backend to v2.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/06eaccfd3dbbcd234c687c8cda2111b05c6e88ac)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Fix typos.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/aff1a0d9a4d0907be1e07b3aab7c94be53a85f46)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
