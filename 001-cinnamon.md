@@ -246,7 +246,9 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Update build.yml for codespell, fix some spelling.</code>](https://github.com/linuxmint/xapp/commit/b5894870cd47ee1dd3f53e86562a7ecf2ce90475)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint21</code></sub>
+- [ ] [<code>Add new gsettings keys for xdg Settings portal v2.</code>](https://github.com/linuxmint/xapp/commit/a7d8a1c833970ecc203837568506087b950d65da)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
