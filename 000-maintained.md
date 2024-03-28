@@ -2647,6 +2647,7 @@
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/f3141f955dd4d2beb9a7fc210bf1cb9faf4e0b75)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/cba1a9bd5e746ed5059c24fcf439b43dfb24aceb)
 - [ ] [<code>chore: Follow up text selection color</code>](https://github.com/krille-chan/fluffychat/commit/6e13c17682efcf9e245fff38628f0be8f3c87b5a)
+- [ ] [<code>chore: Adjust ticker of notifications for Android</code>](https://github.com/krille-chan/fluffychat/commit/0436c5c517a9b86d1d71bfc49a1388dad3f16844)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2727,6 +2728,7 @@
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/f3141f955dd4d2beb9a7fc210bf1cb9faf4e0b75)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/cba1a9bd5e746ed5059c24fcf439b43dfb24aceb)
 - [ ] [<code>chore: Follow up text selection color</code>](https://github.com/krille-chan/fluffychat/commit/6e13c17682efcf9e245fff38628f0be8f3c87b5a)
+- [ ] [<code>chore: Adjust ticker of notifications for Android</code>](https://github.com/krille-chan/fluffychat/commit/0436c5c517a9b86d1d71bfc49a1388dad3f16844)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2769,6 +2771,16 @@
 - [ ] [<code>shared/ioprogress: Support simple readers</code>](https://github.com/lxc/incus/commit/37b42288f867d77ae2770a9eb69e0b3a9c35df4a)
 - [ ] [<code>incusd/storage/btrfs: Report migration progress from receiver</code>](https://github.com/lxc/incus/commit/00ab5275b8e363b405553ea5d327c6999e6e88ae)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc/cloud-init: Mention VM disk</code>](https://github.com/lxc/incus/commit/8f1a70c0b8b09c2e772388a9e0a2a23bcca5e7d7)
+- [ ] [<code>incusd/instance/qemu: Set auto-converge on all migrations</code>](https://github.com/lxc/incus/commit/26ea414cf2fcc70101d929cb42b180a77825de31)
+- [ ] [<code>incusd/device/disk: Allow hotplug of disks on live-migratable VMs</code>](https://github.com/lxc/incus/commit/e134d99072870259ea7727e1eb8b2b70cafdfed4)
+- [ ] [<code>incusd/device/disk: Remove bad comment</code>](https://github.com/lxc/incus/commit/19e428ced76907c21fd2eb19f8e34a848b09fa7e)
+- [ ] [<code>incusd/device/disk: Check for VM live-migration</code>](https://github.com/lxc/incus/commit/356c6842d99b31a4da6083287ae579fe3b73bc64)
+- [ ] [<code>incusd/instance: Add ID to ConfigReader</code>](https://github.com/lxc/incus/commit/72a06a4f33a0a693533f4a5799b4e1c1029501ab)
+- [ ] [<code>incusd/device/disk: Allow external disk live-migration</code>](https://github.com/lxc/incus/commit/6499313e75f4539123be2a9b8cead15022ea6140)
+- [ ] [<code>incusd/storage/lvmcluster: Handle custom volumes</code>](https://github.com/lxc/incus/commit/5c8e099216a96b4b5a08e70f932731091032f0a9)
+- [ ] [<code>incusd/instance/qemu: Support live-migration of instances with extra disks</code>](https://github.com/lxc/incus/commit/67777f96337938374fbc208d9fa9beed5e227346)
+- [ ] [<code>doc/storage: Clarify remote storage</code>](https://github.com/lxc/incus/commit/d0c4c535d44b5413fb64f23ca5bc503f5120a9c2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3690,6 +3702,9 @@
 - [ ] [<code>proc: Fix swap handling for cgroups v2 (can_use_swap)</code>](https://github.com/lxc/lxcfs/commit/f496e62cdbeb01215af34fed266fc5a98d25feeb)
 - [ ] [<code>proc: Fix swap handling for cgroups v2 (zero limits)</code>](https://github.com/lxc/lxcfs/commit/a6c309be27e266b310851ca101a1b08644b1d9d5)
 - [ ] [<code>cgroup_utils: explicitly check for cgroup2 FDs in cgroup_walkup_to_root</code>](https://github.com/lxc/lxcfs/commit/86d93a312b094de93a00d022f746d4c435c3548c)
+- [ ] [<code>Release LXCFS 6.0.0</code>](https://github.com/lxc/lxcfs/commit/d837e798fca50629992d38ed3f935116740d3401)
+  - <sub>Tags: <code>v6.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
