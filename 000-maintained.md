@@ -35,6 +35,13 @@
 - [ ] [<code>leader: Translate RAFT_NOSPACE into SQLITE_IOERR_WRITE (#20)</code>](https://github.com/cowsql/cowsql/commit/863ed907f30a912f91fbc988369189402ada10c0)
 - [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ</code>](https://github.com/cowsql/cowsql/commit/d61ff0299d7842ec95dc1cab4c4ec3452d4fa2c8)
 - [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ (#22)</code>](https://github.com/cowsql/cowsql/commit/3fec37ff325a31153e049587bb0cfe7de2e75614)
+- [ ] [<code>test: Run role_management/promote only on GitHub</code>](https://github.com/cowsql/cowsql/commit/7c92724f7fbbbb7fa42f5f581796ef6cb23ce5e2)
+- [ ] [<code>test: Run role_management/promote only on GitHub (#23)</code>](https://github.com/cowsql/cowsql/commit/fe2f426acb8c51645096e993f00aa2f4bee852cb)
+- [ ] [<code>Release 1.15.5</code>](https://github.com/cowsql/cowsql/commit/bf325cacb023402e10c94b72c934e411ad166f28)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release 1.15.5 (#24)</code>](https://github.com/cowsql/cowsql/commit/8e405bfb51461b00b8f5cdce0737f618c2db641f)
+  - <sub>Tags: <code>v1.15.5</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2658,10 +2665,15 @@
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/f3141f955dd4d2beb9a7fc210bf1cb9faf4e0b75)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/cba1a9bd5e746ed5059c24fcf439b43dfb24aceb)
 - [ ] [<code>chore: Follow up text selection color</code>](https://github.com/krille-chan/fluffychat/commit/6e13c17682efcf9e245fff38628f0be8f3c87b5a)
+- [ ] [<code>fix: never use root navigator for bottom sheets</code>](https://github.com/krille-chan/fluffychat/commit/5257d89b534b14c74d705cd51d53fa4d1c3c975b)
 - [ ] [<code>chore: Adjust ticker of notifications for Android</code>](https://github.com/krille-chan/fluffychat/commit/0436c5c517a9b86d1d71bfc49a1388dad3f16844)
 - [ ] [<code>chore: Follow up input bar padding</code>](https://github.com/krille-chan/fluffychat/commit/68aa2250f2e816eba7c96d2ebbe3edd9bba6bdfc)
 - [ ] [<code>chore: Follow up paddings</code>](https://github.com/krille-chan/fluffychat/commit/1be21e6c12b244e7581702f97f2ce783032f8b03)
 - [ ] [<code>chore: Follow up padding</code>](https://github.com/krille-chan/fluffychat/commit/654a423e41c4382a1305c8243afd63bf66ac78bd)
+- [ ] [<code>build: Update to flutter 3.19.5</code>](https://github.com/krille-chan/fluffychat/commit/579b697c64b8ff8a564720af6a092dffbd735d85)
+- [ ] [<code>build: Bump version to v1.19.0</code>](https://github.com/krille-chan/fluffychat/commit/97f606799e4d016301fbe09d00473f1304cff72e)
+  - <sub>Tags: <code>rc1.19.0-1</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2742,10 +2754,15 @@
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/f3141f955dd4d2beb9a7fc210bf1cb9faf4e0b75)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/cba1a9bd5e746ed5059c24fcf439b43dfb24aceb)
 - [ ] [<code>chore: Follow up text selection color</code>](https://github.com/krille-chan/fluffychat/commit/6e13c17682efcf9e245fff38628f0be8f3c87b5a)
+- [ ] [<code>fix: never use root navigator for bottom sheets</code>](https://github.com/krille-chan/fluffychat/commit/5257d89b534b14c74d705cd51d53fa4d1c3c975b)
 - [ ] [<code>chore: Adjust ticker of notifications for Android</code>](https://github.com/krille-chan/fluffychat/commit/0436c5c517a9b86d1d71bfc49a1388dad3f16844)
 - [ ] [<code>chore: Follow up input bar padding</code>](https://github.com/krille-chan/fluffychat/commit/68aa2250f2e816eba7c96d2ebbe3edd9bba6bdfc)
 - [ ] [<code>chore: Follow up paddings</code>](https://github.com/krille-chan/fluffychat/commit/1be21e6c12b244e7581702f97f2ce783032f8b03)
 - [ ] [<code>chore: Follow up padding</code>](https://github.com/krille-chan/fluffychat/commit/654a423e41c4382a1305c8243afd63bf66ac78bd)
+- [ ] [<code>build: Update to flutter 3.19.5</code>](https://github.com/krille-chan/fluffychat/commit/579b697c64b8ff8a564720af6a092dffbd735d85)
+- [ ] [<code>build: Bump version to v1.19.0</code>](https://github.com/krille-chan/fluffychat/commit/97f606799e4d016301fbe09d00473f1304cff72e)
+  - <sub>Tags: <code>rc1.19.0-1</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2823,6 +2840,21 @@
 - [ ] [<code>incusd/util/http: Code style for JWT decoder</code>](https://github.com/lxc/incus/commit/02e34205b843cc0a7c91767827a633c778750682)
 - [ ] [<code>tests/tls2jwt: Simplify and add EC support</code>](https://github.com/lxc/incus/commit/252d7251cd6d8c95ec97ca2cfdc1c6f2b7d55726)
 - [ ] [<code>tests/tls2jwt: Update argument ordering</code>](https://github.com/lxc/incus/commit/287213bab2d619656115146ccc5db6d18d561bd6)
+- [ ] [<code>internal/instance: Add volatile.cluster.group</code>](https://github.com/lxc/incus/commit/eb4a18b65235805a7e7f71f77b00109b880e3e8a)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/aeb45bc749aa9bd79a1fa961c9fba50df481331a)
+- [ ] [<code>incusd/instances_post: Use cluster notifications</code>](https://github.com/lxc/incus/commit/d503795c64e50d1e6b3c5821e56c9a6df150d578)
+- [ ] [<code>incusd/instances_post: Record cluster group</code>](https://github.com/lxc/incus/commit/4555204c90189062b2b5909caffaf3291bc36b7e)
+- [ ] [<code>incusd/cluster/evacuate: Refactor target selection</code>](https://github.com/lxc/incus/commit/779f49a84ff0b4b51f1cd63afa4458e7f1582d77)
+- [ ] [<code>incusd/cluster/evacuate: Respect cluster groups</code>](https://github.com/lxc/incus/commit/7fbb7bc18adb35bc1a34a226aa9af92efb195a5e)
+- [ ] [<code>doc/api-extensions: Lint</code>](https://github.com/lxc/incus/commit/9c3e3079d8c4d3469c93697923fc4c584e015cf2)
+- [ ] [<code>incusd/db/networks: Remove unused GetNetworkWithInterface function</code>](https://github.com/lxc/incus/commit/c03edbed99f58c90bf46f49620c538f1465b584a)
+- [ ] [<code>api: network_bridge_external_create</code>](https://github.com/lxc/incus/commit/33429bb6389209696b46b12cead2b51b41542d74)
+- [ ] [<code>incusd/ip: Add LinkInfo</code>](https://github.com/lxc/incus/commit/4c915ae6d0df09d02b3e6a066bcd06f022bee64c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/network/bridge: Add support for creating external interfaces</code>](https://github.com/lxc/incus/commit/526687968aa20d3766d88bda6d9c773d51f24d5d)
+- [ ] [<code>incusd/db/network: Make test validate new external interface syntax</code>](https://github.com/lxc/incus/commit/ce2b7e7a1289a6448feab38d2c7291f751bf25a7)
+- [ ] [<code>doc: Add note for external interfaces extended format</code>](https://github.com/lxc/incus/commit/67da98ce7d0d0cc135ebc71bda56b78c5537ab17)
+- [ ] [<code>tests: Add external interfaces extended format test</code>](https://github.com/lxc/incus/commit/59dd273308bf2c82b1d4d898c3e6372622dc60e0)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4411,6 +4443,11 @@
 - [ ] [<code>lint: Fix formatting</code>](https://github.com/cowsql/raft/commit/faa6f6313b325a0ff0c1bcfbead6b473bd45b0c0)
 - [ ] [<code>uv: Improve comment in sizeofRequestV1</code>](https://github.com/cowsql/raft/commit/61880bdb0b15dee18e60299c2a3058086b57ebb1)
 - [ ] [<code>lint: Fix formatting in encoding code (#181)</code>](https://github.com/cowsql/raft/commit/dd383c50c7037f08eef1d40853b7c4c533be99ce)
+- [ ] [<code>Release 0.22.1</code>](https://github.com/cowsql/raft/commit/5b1c9203dcaec02888c7f6596021aeac3f0e5d93)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release 0.22.1 (#182)</code>](https://github.com/cowsql/raft/commit/9edb176a7924ce2b943cb56552366dc4b5a1a6b7)
+  - <sub>Tags: <code>v0.22.1</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
