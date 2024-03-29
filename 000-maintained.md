@@ -42,6 +42,13 @@
 - [ ] [<code>Release 1.15.5 (#24)</code>](https://github.com/cowsql/cowsql/commit/8e405bfb51461b00b8f5cdce0737f618c2db641f)
   - <sub>Tags: <code>v1.15.5</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>test: Only switch on role-management when running on GitHub</code>](https://github.com/cowsql/cowsql/commit/9f4fafcd6cee08f1b6bb7de4450afcb35e1df3a7)
+- [ ] [<code>test: Only switch on role-management when running on GitHub (#25)</code>](https://github.com/cowsql/cowsql/commit/6ea8b4196e8cd2de64a7c9f822b824439b94ec8c)
+- [ ] [<code>Release 1.15.6</code>](https://github.com/cowsql/cowsql/commit/b178a411ee1ada4081c87cecbcdde4f422f9fd82)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release 1.15.6 (#26)</code>](https://github.com/cowsql/cowsql/commit/8c7d8cf13d37a1e8d2ec6fa2ee575b07575248df)
+  - <sub>Tags: <code>v1.15.6</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2488,6 +2495,31 @@
 - [ ] [<code>Replace util.ValueInSlice with slices.Contains</code>](https://github.com/lxc/distrobuilder/commit/eba1eb2207b1893dc02f8119b5fc572462872e27)
   - <sub>Keywords: <code>command</code></sub>
 
+#### [docuum](https://github.com/stepchowfun/docuum): [v0.23.1 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.23.1...HEAD)
+
+- [ ] [<code>Install v0.23.1 by default</code>](https://github.com/stepchowfun/docuum/commit/294d2bf02d892cc299324a074db03092e4d3e27f)
+- [ ] [<code>Remove an unnecessary check from the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/6e68cec29ea4665200bae89e551fa21086a9bf59)
+- [ ] [<code>Use `gh` instead of `hub`</code>](https://github.com/stepchowfun/docuum/commit/7c0fad9960680c30e93c78ce45afcc2258b9df1f)
+- [ ] [<code>Update Rust to v1.73.0</code>](https://github.com/stepchowfun/docuum/commit/676c2819334fe42a2e0a7b99fac0a76d3d2d532e)
+- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/dcf2c62a625e0791e36ef0b2de0159141786a33b)
+- [ ] [<code>Update Rust to v1.74.0</code>](https://github.com/stepchowfun/docuum/commit/b3e99a9e765f0585553679dc07ecbb5330c05e87)
+- [ ] [<code>Update the way lints are configured to use Rust's new `manifest-lint` feature</code>](https://github.com/stepchowfun/docuum/commit/2bf74c1c7ee053736546f84ac463541ef7da8676)
+- [ ] [<code>Fix a Homebrew URL</code>](https://github.com/stepchowfun/docuum/commit/12cb528a210072213dad4012a8c476c64fc8f7aa)
+- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/64d5954e1f8eb9a7170e917063f9f4931c2ed905)
+- [ ] [<code>Fix a typo in the README</code>](https://github.com/stepchowfun/docuum/commit/98b8fe4f9ea37d3d395dfe6d5e04585b4c3d3ea9)
+- [ ] [<code>Update the CI workflow to not run twice on every internal pull request</code>](https://github.com/stepchowfun/docuum/commit/d104b6d4f7d9190939dfc7e38f6eb73aa99549b6)
+- [ ] [<code>Fix some indentation in the CI configuration</code>](https://github.com/stepchowfun/docuum/commit/60207449c14b261e9a4ab824d5d0fc2c549d4582)
+- [ ] [<code>Forbid the default numeric fallback</code>](https://github.com/stepchowfun/docuum/commit/15df47ab0c08e2c7450d0712cc01ea38c3afc8c7)
+- [ ] [<code>Enable reading from the remote Toast cache for pull requests</code>](https://github.com/stepchowfun/docuum/commit/a1638a591cb52195f8ece96191cd00f25bdb032e)
+- [ ] [<code>Fix a typo in `MAINTAINERS.md`</code>](https://github.com/stepchowfun/docuum/commit/05abe6cebd170e242e1be2b750f7f6916044eab8)
+- [ ] [<code>Leverage Tagref's new file references feature</code>](https://github.com/stepchowfun/docuum/commit/092f983f54d83ae4d701426ae17a2b118c001934)
+- [ ] [<code>Use Tagref file references where applicable</code>](https://github.com/stepchowfun/docuum/commit/39afadf2432ce2413f15338c5c6a564a1f25e3b5)
+- [ ] [<code>Update the Ubuntu version in the CI configuration to 22.04 LTS</code>](https://github.com/stepchowfun/docuum/commit/b2b631b2041e3bb3f78002836a9d4472a4103180)
+- [ ] [<code>Update Rust to v1.76.0</code>](https://github.com/stepchowfun/docuum/commit/3e4286f55078cf1135011c0ee4a57f23d043a44d)
+- [ ] [<code>Add a note to the README about BuildKit's garbage collector</code>](https://github.com/stepchowfun/docuum/commit/28d8ca73b8c590872d25e4882e421962c529d0be)
+- [ ] [<code>Use `set -x` for shell scripts</code>](https://github.com/stepchowfun/docuum/commit/0567c00e17cd1b445e3f24d79ed105565ecdda30)
+- [ ] [<code>Update Rust to v1.77.0</code>](https://github.com/stepchowfun/docuum/commit/c4b9c795eda48f4c958b6819980842361a99549d)
+
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
 - [ ] [<code>raft: Close fd used for fallocate probing</code>](https://github.com/canonical/dqlite/commit/593f0b7738e0c0d30972c5bf36164c09e5dcb53b)
@@ -2674,6 +2706,12 @@
 - [ ] [<code>build: Bump version to v1.19.0</code>](https://github.com/krille-chan/fluffychat/commit/97f606799e4d016301fbe09d00473f1304cff72e)
   - <sub>Tags: <code>rc1.19.0-1</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: better logs on client init failed</code>](https://github.com/krille-chan/fluffychat/commit/9c1bf05c0d490922ddec3b3d3f51097594e34aa7)
+- [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/eb9cf18d30040275a74ed69a1a3cc7dd9bb2f0b1)
+- [ ] [<code>chore: Follow up database broken handling</code>](https://github.com/krille-chan/fluffychat/commit/8a9715cac266c03f4372bb051b3f7b3780fd6aba)
+- [ ] [<code>chore: Remove print</code>](https://github.com/krille-chan/fluffychat/commit/3e9ff75efe2694234cd11118797d5019e0122f6c)
+- [ ] [<code>chore: unify desktop and mobile databases (#764)</code>](https://github.com/krille-chan/fluffychat/commit/3c532f90ba15a6901f75f8ffd506cb863108b408)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2763,6 +2801,12 @@
 - [ ] [<code>build: Bump version to v1.19.0</code>](https://github.com/krille-chan/fluffychat/commit/97f606799e4d016301fbe09d00473f1304cff72e)
   - <sub>Tags: <code>rc1.19.0-1</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: better logs on client init failed</code>](https://github.com/krille-chan/fluffychat/commit/9c1bf05c0d490922ddec3b3d3f51097594e34aa7)
+- [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/eb9cf18d30040275a74ed69a1a3cc7dd9bb2f0b1)
+- [ ] [<code>chore: Follow up database broken handling</code>](https://github.com/krille-chan/fluffychat/commit/8a9715cac266c03f4372bb051b3f7b3780fd6aba)
+- [ ] [<code>chore: Remove print</code>](https://github.com/krille-chan/fluffychat/commit/3e9ff75efe2694234cd11118797d5019e0122f6c)
+- [ ] [<code>chore: unify desktop and mobile databases (#764)</code>](https://github.com/krille-chan/fluffychat/commit/3c532f90ba15a6901f75f8ffd506cb863108b408)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2855,6 +2899,8 @@
 - [ ] [<code>incusd/db/network: Make test validate new external interface syntax</code>](https://github.com/lxc/incus/commit/ce2b7e7a1289a6448feab38d2c7291f751bf25a7)
 - [ ] [<code>doc: Add note for external interfaces extended format</code>](https://github.com/lxc/incus/commit/67da98ce7d0d0cc135ebc71bda56b78c5537ab17)
 - [ ] [<code>tests: Add external interfaces extended format test</code>](https://github.com/lxc/incus/commit/59dd273308bf2c82b1d4d898c3e6372622dc60e0)
+- [ ] [<code>incusd/instance/qemu: Make rootfs.img be 0600</code>](https://github.com/lxc/incus/commit/f4734b1809d28781bf7868f6951fed22232d503b)
+- [ ] [<code>incusd/storage/utils: Attempt to create sparse files</code>](https://github.com/lxc/incus/commit/60ce91039599ab3a28fa3034b1bb2f7bddbe2a03)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
