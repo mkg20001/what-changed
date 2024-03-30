@@ -2711,7 +2711,10 @@
 - [ ] [<code>chore: Follow up database broken handling</code>](https://github.com/krille-chan/fluffychat/commit/8a9715cac266c03f4372bb051b3f7b3780fd6aba)
 - [ ] [<code>chore: Remove print</code>](https://github.com/krille-chan/fluffychat/commit/3e9ff75efe2694234cd11118797d5019e0122f6c)
 - [ ] [<code>chore: unify desktop and mobile databases (#764)</code>](https://github.com/krille-chan/fluffychat/commit/3c532f90ba15a6901f75f8ffd506cb863108b408)
+  - <sub>Tags: <code>rc1.19.0-2</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up sticker design</code>](https://github.com/krille-chan/fluffychat/commit/c51fc600a213d17394caf2cd685e1f79505ba7c7)
+- [ ] [<code>chore: Follow up hovermenu</code>](https://github.com/krille-chan/fluffychat/commit/f4196f38c31b81b805dc9d56a68fdc84b5bba6cd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2806,7 +2809,10 @@
 - [ ] [<code>chore: Follow up database broken handling</code>](https://github.com/krille-chan/fluffychat/commit/8a9715cac266c03f4372bb051b3f7b3780fd6aba)
 - [ ] [<code>chore: Remove print</code>](https://github.com/krille-chan/fluffychat/commit/3e9ff75efe2694234cd11118797d5019e0122f6c)
 - [ ] [<code>chore: unify desktop and mobile databases (#764)</code>](https://github.com/krille-chan/fluffychat/commit/3c532f90ba15a6901f75f8ffd506cb863108b408)
+  - <sub>Tags: <code>rc1.19.0-2</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up sticker design</code>](https://github.com/krille-chan/fluffychat/commit/c51fc600a213d17394caf2cd685e1f79505ba7c7)
+- [ ] [<code>chore: Follow up hovermenu</code>](https://github.com/krille-chan/fluffychat/commit/f4196f38c31b81b805dc9d56a68fdc84b5bba6cd)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2901,6 +2907,10 @@
 - [ ] [<code>tests: Add external interfaces extended format test</code>](https://github.com/lxc/incus/commit/59dd273308bf2c82b1d4d898c3e6372622dc60e0)
 - [ ] [<code>incusd/instance/qemu: Make rootfs.img be 0600</code>](https://github.com/lxc/incus/commit/f4734b1809d28781bf7868f6951fed22232d503b)
 - [ ] [<code>incusd/storage/utils: Attempt to create sparse files</code>](https://github.com/lxc/incus/commit/60ce91039599ab3a28fa3034b1bb2f7bddbe2a03)
+- [ ] [<code>incusd/instance/lxc: Don't set a soft limit when no hard limit</code>](https://github.com/lxc/incus/commit/6e464104aa4bfb80fefce131a07f9d1d87c70a58)
+- [ ] [<code>incusd/util/http: Fix crash on missing JWT timestamps</code>](https://github.com/lxc/incus/commit/5d74da63e0bf823f0fa59e729767bce0a03f8e03)
+- [ ] [<code>incusd/util/http: Perform early check on JWT issuer</code>](https://github.com/lxc/incus/commit/cb3ad27ef966242df580bda719357b4f29516fcb)
+- [ ] [<code>incusd/project: Allow managed volumes under "allow"</code>](https://github.com/lxc/incus/commit/54bb8dd4e1ac6a49dfff66edacbd54948ea219b6)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3477,6 +3487,7 @@
 - [ ] [<code>Refactor AllocateGridImagePlanes() for non-grid (#2059)</code>](https://github.com/AOMediaCodec/libavif/commit/58566eec5b0f6641ffbba9ec67117703f1dfe00e)
 - [ ] [<code>Do not use env:NUMBER_OF_PROCESSORS for MinGW (#2076)</code>](https://github.com/AOMediaCodec/libavif/commit/3cc07724fc87ed6b80d62a45d8e4bd44c25b9f5d)
 - [ ] [<code>Add ThreadSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/374e622d64dd92222f393188fbe2ee560449a1cc)
+- [ ] [<code>Fix avifParseItemLocationBox() itemReferenceIndex (#2080)</code>](https://github.com/AOMediaCodec/libavif/commit/9c6a37a4037e9a1186f5edca0793447f4bfc41d2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
