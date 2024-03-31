@@ -2715,6 +2715,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up sticker design</code>](https://github.com/krille-chan/fluffychat/commit/c51fc600a213d17394caf2cd685e1f79505ba7c7)
 - [ ] [<code>chore: Follow up hovermenu</code>](https://github.com/krille-chan/fluffychat/commit/f4196f38c31b81b805dc9d56a68fdc84b5bba6cd)
+  - <sub>Tags: <code>rc1.19.0-3</code></sub>
+- [ ] [<code>fix: Always send info object for stickers</code>](https://github.com/krille-chan/fluffychat/commit/4fca106a51f9ea8a3ca30e1b58ac02e5be8c1cec)
+  - <sub>Tags: <code>rc1.19.0-4</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2813,6 +2816,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up sticker design</code>](https://github.com/krille-chan/fluffychat/commit/c51fc600a213d17394caf2cd685e1f79505ba7c7)
 - [ ] [<code>chore: Follow up hovermenu</code>](https://github.com/krille-chan/fluffychat/commit/f4196f38c31b81b805dc9d56a68fdc84b5bba6cd)
+  - <sub>Tags: <code>rc1.19.0-3</code></sub>
+- [ ] [<code>fix: Always send info object for stickers</code>](https://github.com/krille-chan/fluffychat/commit/4fca106a51f9ea8a3ca30e1b58ac02e5be8c1cec)
+  - <sub>Tags: <code>rc1.19.0-4</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
