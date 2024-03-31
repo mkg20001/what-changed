@@ -3723,6 +3723,7 @@
 - [ ] [<code>unshare: simplify lookup_name</code>](https://github.com/lxc/lxc/commit/046b63cd20347f4b573df12475ca13be2ce62386)
 - [ ] [<code>README: Correct 'armvl7' to 'armv7l'</code>](https://github.com/lxc/lxc/commit/f9978b179012af6769d32ebf0755a84fa652ed41)
 - [ ] [<code>rexec: Avoid invalid free in rexec failure path</code>](https://github.com/lxc/lxc/commit/590a95d836324257cff63b8a3d275f772b9f9fc4)
+- [ ] [<code>src/lxc/syscall_numbers.h: drop define -1</code>](https://github.com/lxc/lxc/commit/82fe01821cd5cb8548598d7d93b07d6ef3f6b604)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
 
