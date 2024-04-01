@@ -16,39 +16,8 @@
 > Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.4 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.4...HEAD)
+#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-- [ ] [<code>leader: Fix double-free in case the apply callback is fired by hand</code>](https://github.com/cowsql/cowsql/commit/fb362fe5a1f1a48f0a8188f00477ce9b33ab3ebf)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>leader: Fix double-free in case the apply callback is fired by hand (#14)</code>](https://github.com/cowsql/cowsql/commit/6c91a1bf9628ec659f286e24bd7b23f445b064ee)
-- [ ] [<code>Added chinese translation of fork annoucement</code>](https://github.com/cowsql/cowsql/commit/2f9f2d49804b8848e5cb6a814747748d12d50e68)
-- [ ] [<code>Added chinese translation of fork annoucement (#15)</code>](https://github.com/cowsql/cowsql/commit/9196630552208daa07c3b2f13dff74fb4952a138)
-- [ ] [<code>build: Update minimum raft version</code>](https://github.com/cowsql/cowsql/commit/fe7ea848326802db17e836e99e3a683c6de9b4bd)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>README: Fix PPA name</code>](https://github.com/cowsql/cowsql/commit/0fb0f69d7855d05f6dcc08806c5bf943c03c631f)
-- [ ] [<code>README: Fix PPA name (#18)</code>](https://github.com/cowsql/cowsql/commit/a2c52450a52d85ec2b9e0182d574ffe28998bbb1)
-- [ ] [<code>Fix build failure on x32</code>](https://github.com/cowsql/cowsql/commit/7cfd262def0b725308f83d97242636ac14fbcd35)
-- [ ] [<code>Fix build failure on x32 (#19)</code>](https://github.com/cowsql/cowsql/commit/b011e4c545baa35a5633b9cde4a820b3fcc72e34)
-- [ ] [<code>Run clang-format on src/client/protocol.c</code>](https://github.com/cowsql/cowsql/commit/12109c1814e80ec98223a1203af9b3280fb52d58)
-- [ ] [<code>leader: Translate RAFT_NOSPACE into SQLITE_IOERR_WRITE</code>](https://github.com/cowsql/cowsql/commit/42b4877542301916db6dec4467b09bcc57622a71)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>leader: Translate RAFT_NOSPACE into SQLITE_IOERR_WRITE (#20)</code>](https://github.com/cowsql/cowsql/commit/863ed907f30a912f91fbc988369189402ada10c0)
-- [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ</code>](https://github.com/cowsql/cowsql/commit/d61ff0299d7842ec95dc1cab4c4ec3452d4fa2c8)
-- [ ] [<code>vfs: Weaken assertion to accomodate SQLITE_DIRECT_OVERFLOW_READ (#22)</code>](https://github.com/cowsql/cowsql/commit/3fec37ff325a31153e049587bb0cfe7de2e75614)
-- [ ] [<code>test: Run role_management/promote only on GitHub</code>](https://github.com/cowsql/cowsql/commit/7c92724f7fbbbb7fa42f5f581796ef6cb23ce5e2)
-- [ ] [<code>test: Run role_management/promote only on GitHub (#23)</code>](https://github.com/cowsql/cowsql/commit/fe2f426acb8c51645096e993f00aa2f4bee852cb)
-- [ ] [<code>Release 1.15.5</code>](https://github.com/cowsql/cowsql/commit/bf325cacb023402e10c94b72c934e411ad166f28)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Release 1.15.5 (#24)</code>](https://github.com/cowsql/cowsql/commit/8e405bfb51461b00b8f5cdce0737f618c2db641f)
-  - <sub>Tags: <code>v1.15.5</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>test: Only switch on role-management when running on GitHub</code>](https://github.com/cowsql/cowsql/commit/9f4fafcd6cee08f1b6bb7de4450afcb35e1df3a7)
-- [ ] [<code>test: Only switch on role-management when running on GitHub (#25)</code>](https://github.com/cowsql/cowsql/commit/6ea8b4196e8cd2de64a7c9f822b824439b94ec8c)
-- [ ] [<code>Release 1.15.6</code>](https://github.com/cowsql/cowsql/commit/b178a411ee1ada4081c87cecbcdde4f422f9fd82)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Release 1.15.6 (#26)</code>](https://github.com/cowsql/cowsql/commit/8c7d8cf13d37a1e8d2ec6fa2ee575b07575248df)
-  - <sub>Tags: <code>v1.15.6</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 
 #### [dbeaver](https://github.com/dbeaver/dbeaver): [22.2.2 → HEAD](https://github.com/dbeaver/dbeaver/compare/22.2.2...HEAD)
 
@@ -2451,6 +2420,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/dbeaver#17003 add collect diagnostic info command (#23102)</code>](https://github.com/dbeaver/dbeaver/commit/ec5c605d807468670c7493e9426c88a669739a03)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CB-4643 add cubrid driver (#23261)</code>](https://github.com/dbeaver/dbeaver/commit/04735b30605c2e498eb347d4d283f2f43d8eb1a7)
+- [ ] [<code>dbeaver/dbeaver#23240 Aut-commit in prod databases fix (#23291)</code>](https://github.com/dbeaver/dbeaver/commit/fa62223439806d827b5cf2947b6f7ab12dfdf954)
+- [ ] [<code>#23280 fix tables comment erasing (#23281)</code>](https://github.com/dbeaver/dbeaver/commit/f0577ee81301dbec22e9359cdbec704e45d9b41c)
+- [ ] [<code>CB-4725 always reread secrets (#23274)</code>](https://github.com/dbeaver/dbeaver/commit/50996c88eaa79c11ef10333aeddda2fd677cc1ca)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2724,6 +2697,7 @@
   - <sub>Tags: <code>rc1.19.0-4</code> <code>v1.19.0</code></sub>
 - [ ] [<code>refactor: new flutter only typing animation</code>](https://github.com/krille-chan/fluffychat/commit/a8606f18b655536a9baa86aa0fd71bb5bcc1a48d)
 - [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
+- [ ] [<code>refactor: Move room headers into appbar bottom field</code>](https://github.com/krille-chan/fluffychat/commit/e81a366a5b91661c5f5f6e5a05b5733040164ade)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2827,6 +2801,7 @@
   - <sub>Tags: <code>rc1.19.0-4</code> <code>v1.19.0</code></sub>
 - [ ] [<code>refactor: new flutter only typing animation</code>](https://github.com/krille-chan/fluffychat/commit/a8606f18b655536a9baa86aa0fd71bb5bcc1a48d)
 - [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
+- [ ] [<code>refactor: Move room headers into appbar bottom field</code>](https://github.com/krille-chan/fluffychat/commit/e81a366a5b91661c5f5f6e5a05b5733040164ade)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3509,6 +3484,8 @@
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
 - [ ] [<code>Read list until process exits</code>](https://github.com/lxc/lxc/commit/b576a47d59adc89757459d785ee98a2635542eb0)
+- [ ] [<code>lxccontainer: improve mod_rdep()</code>](https://github.com/lxc/lxc/commit/f357cb290f0a7287ebfbfdd93591a637cfef6fa9)
+- [ ] [<code>lxccontainer: rework copy_file()</code>](https://github.com/lxc/lxc/commit/132ff8e28293b3764983cda431efdb511c5d687a)
 - [ ] [<code>meson: Generate compile commands by iterating over an array</code>](https://github.com/lxc/lxc/commit/289d6413ebac8b34394a9f5dbffdb6a70e7f145f)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>tools: Provide multicall lxc binary</code>](https://github.com/lxc/lxc/commit/f4d02217ee2baf7275175d2c6610de4908a9addf)
@@ -4359,60 +4336,12 @@
 - [ ] [<code>Mothball the project</code>](https://github.com/canonical/raft/commit/c4ac63f4bf4ab4e4ef843068ad7d8af03f49af75)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
-#### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.22.0 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.22.0...HEAD)
+#### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.22.1 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.22.1...HEAD)
 
-- [ ] [<code>election: Remove electionTimerExpired() since it brings little value</code>](https://github.com/cowsql/raft/commit/82a6e03a20df43efd88ae9bc923fa278b3ba0409)
-- [ ] [<code>membership: Remove membershipFetchLastCommittedConfiguration</code>](https://github.com/cowsql/raft/commit/652dc5e454275780f218d8c181666149317d73bb)
-- [ ] [<code>test: Move snapshot_installing field to snapshot.installing subfield</code>](https://github.com/cowsql/raft/commit/d1b65be31704d2349a6d7885304ff9c8e6cef713)
-- [ ] [<code>test: Add threshold and trailing to test server snapshot sub-struct</code>](https://github.com/cowsql/raft/commit/ece66055d633e226cd0af7fcd724688e4f03a0cd)
-- [ ] [<code>test: Add setters for snapshot threshold and trailing</code>](https://github.com/cowsql/raft/commit/d2f1c5254fea5614779d73e18f31973293c36ede)
-- [ ] [<code>test: Use test server snapshot threshold and trailing values</code>](https://github.com/cowsql/raft/commit/489771714ec81836547dafd42ed06b11abeb87f5)
-- [ ] [<code>v1: Move snapshot threshold and trailing configs to legacy layer</code>](https://github.com/cowsql/raft/commit/754530f21f305c189e68e247fa6458d7a6cb6488)
-- [ ] [<code>v1: Move snapshot threshold and trailing configs to legacy layer (#173)</code>](https://github.com/cowsql/raft/commit/1dd2622793b3d715c78e88157f8ed4b1bf38fb53)
-- [ ] [<code>docs: Make fonts slightly larger</code>](https://github.com/cowsql/raft/commit/ebd89de83029cd94fba7fec9cde0c351c9912936)
-- [ ] [<code>docs: Simplify building instruction in README</code>](https://github.com/cowsql/raft/commit/aab26ccc20aedf667caa5fbb1e6f1b47b37c74b4)
-- [ ] [<code>docs: Improve README headline</code>](https://github.com/cowsql/raft/commit/d5c91424173f5424c7df8cca055cde5f5a58ec8c)
-- [ ] [<code>docs: Update quickstart code</code>](https://github.com/cowsql/raft/commit/b51ef845933aa188b552c35c5788b88b4f806cb7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: Add quick start guide</code>](https://github.com/cowsql/raft/commit/2596fc62057ed7e995f488ffb2c8101e89130202)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: Rename server.rst to core.rst</code>](https://github.com/cowsql/raft/commit/1cddfab0ee665efca89f4ac59540d0e00bdebd01)
-- [ ] [<code>docs: Switch to furo theme</code>](https://github.com/cowsql/raft/commit/712193f508a4ce4918ca36296f6f31ebb7d38036)
-- [ ] [<code>docs: Switch to furo theme (#174)</code>](https://github.com/cowsql/raft/commit/1a6b9302eca3d0c4cef97b6e7b1aba42420031e0)
-- [ ] [<code>readthedocs: Drop broken furo install directive</code>](https://github.com/cowsql/raft/commit/423dd70ee52800cd9e123f8e78dac54eb30a61fa)
-- [ ] [<code>readthedocs: Install furo via requirements.txt</code>](https://github.com/cowsql/raft/commit/0cf2891cf358de9c945066913b2cdbcb320b92ea)
-- [ ] [<code>docs: Hide adds in furo theme</code>](https://github.com/cowsql/raft/commit/b3bb9e558cfa83f934017445e9da52a5ec2af510)
-- [ ] [<code>docs: Basic documentation about struct raft v1</code>](https://github.com/cowsql/raft/commit/72b8f78eb8c46aa6b9d97803c98efadff4877226)
-- [ ] [<code>docs: Basic documentation about struct raft v1 (#175)</code>](https://github.com/cowsql/raft/commit/38855ccd5a71fe649a6ab8fc25df0e782f7aae32)
-- [ ] [<code>docs: Improve introduction to struct raft</code>](https://github.com/cowsql/raft/commit/b04ccbf430a3c6dfac980d5dc4585637f469bd18)
-- [ ] [<code>v1: Give a name to event enum type</code>](https://github.com/cowsql/raft/commit/133d57dcd6372ebfac7a03dbb2f5585dc3b2e46d)
-- [ ] [<code>v1: Give a name to message type enum</code>](https://github.com/cowsql/raft/commit/8e1248cd77a1c55370930f18a605bf3605f69f4d)
-- [ ] [<code>v1: Use unsigned short for message versions</code>](https://github.com/cowsql/raft/commit/c23c30c5ea61e9811871a8ae962fff44f080877d)
-- [ ] [<code>v1: Assign name to entry type enums</code>](https://github.com/cowsql/raft/commit/6748e593c4fc1eacd01ac7bc4c94c690b5a1bf3b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: Document event and message types</code>](https://github.com/cowsql/raft/commit/4da5fd916243a48ef0171c02d102c8f8187e85c8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: Fallback to classic theme if furo is not available</code>](https://github.com/cowsql/raft/commit/02fd566b504fce5d43824b267ff758d2706e745e)
-- [ ] [<code>docs: Document struct raft_event and struct raft_message (#176)</code>](https://github.com/cowsql/raft/commit/8128c3d6936e4bb16295a675165d4470c5ec4aa7)
-- [ ] [<code>v1: Give a name to the states enum</code>](https://github.com/cowsql/raft/commit/c35a6cf6d70c569ab94d487693a0b97b6815a3fd)
-- [ ] [<code>docs: Document struct raft_update</code>](https://github.com/cowsql/raft/commit/8eb061a6128cf8e3a8d668b2678a756eade7b882)
-- [ ] [<code>docs: Rename core.rst to algorithm.rst</code>](https://github.com/cowsql/raft/commit/0bc7a62871e57a41db81c93665c583a0398d6009)
-- [ ] [<code>docs: Add section about struct raft update (#177)</code>](https://github.com/cowsql/raft/commit/c5ce8b3ec1aa60bd414af13b860d978c38c33d26)
-- [ ] [<code>github: Don't run BMC job every day</code>](https://github.com/cowsql/raft/commit/4a84e279e50026f55db63b2374740f9406275b9d)
-- [ ] [<code>recv: Fix double-free of entries batch</code>](https://github.com/cowsql/raft/commit/0f46098acc34af826f07db1364bbaaaf6d88a307)
-- [ ] [<code>recv: Fix double-free of entries batch (#179)</code>](https://github.com/cowsql/raft/commit/bee6c36e6167a1b11061159fc1606d0e6465d382)
-- [ ] [<code>[atlesn] Fix misc. usage of uninitialized memory</code>](https://github.com/cowsql/raft/commit/07b5f3e315c179f7de41c3b519aaacb1563c2f87)
-- [ ] [<code>[atlesn] Replace callocs() with explicit initialization of unused fields or areas</code>](https://github.com/cowsql/raft/commit/515b97b02f8dee6a37d87904ed24e239cf23583f)
-- [ ] [<code>[atlesn] Fix usage of uninitialized memory during snapshoting</code>](https://github.com/cowsql/raft/commit/e99dde7882d0f77406da160e133bee983163dde8)
-- [ ] [<code>[atlesn] Fix misc. usage of uninitialized memory (#180)</code>](https://github.com/cowsql/raft/commit/421cffccbf17bdc38d5ddaa6d450fb9d997f1cee)
-- [ ] [<code>lint: Fix formatting</code>](https://github.com/cowsql/raft/commit/faa6f6313b325a0ff0c1bcfbead6b473bd45b0c0)
-- [ ] [<code>uv: Improve comment in sizeofRequestV1</code>](https://github.com/cowsql/raft/commit/61880bdb0b15dee18e60299c2a3058086b57ebb1)
-- [ ] [<code>lint: Fix formatting in encoding code (#181)</code>](https://github.com/cowsql/raft/commit/dd383c50c7037f08eef1d40853b7c4c533be99ce)
-- [ ] [<code>Release 0.22.1</code>](https://github.com/cowsql/raft/commit/5b1c9203dcaec02888c7f6596021aeac3f0e5d93)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Release 0.22.1 (#182)</code>](https://github.com/cowsql/raft/commit/9edb176a7924ce2b943cb56552366dc4b5a1a6b7)
-  - <sub>Tags: <code>v0.22.1</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>[atlesn] Fix use of uninitialized memory in outgoing message of type 'append entries result'</code>](https://github.com/cowsql/raft/commit/c80dedfda36a551d5474c998b1f210856ce966ac)
+- [ ] [<code>[atlesn] Fix use of uninitialized memory in outgoing message of type 'append entries result'</code>](https://github.com/cowsql/raft/commit/9d911c1df65df4244a6c6a009de9b243fad0009c)
+- [ ] [<code>[atlesn] Don't default-initialize last_log_index, only set when it would otherwise not be set.</code>](https://github.com/cowsql/raft/commit/09448e28711458934cbfad38edb440c6e6d9f323)
+- [ ] [<code>Use of uninitialized memory in outgoing append entries result frames (#183)</code>](https://github.com/cowsql/raft/commit/e0928710bcc62806cc7074f010e462547decf4b7)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
