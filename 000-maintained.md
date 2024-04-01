@@ -2447,6 +2447,10 @@
   - <sub>Keywords: <code>commandline</code></sub>
 - [ ] [<code>ISSUE: #23215 - TaskNativeUIMessages.properties, LINE 24 changed text override -> overwrite (#23221)</code>](https://github.com/dbeaver/dbeaver/commit/389c57be5927ed22f415b002b91e5e9196817554)
 - [ ] [<code>Cb 4569 support altibase driver (#23267)</code>](https://github.com/dbeaver/dbeaver/commit/108978a1cade5ab5b83da9a0c2a9afd74988e6e5)
+- [ ] [<code>dbeaver/dbeaver#23135 Enhance the 'Can't create driver instance' error (#23262)</code>](https://github.com/dbeaver/dbeaver/commit/a50a5f6fc2e38a1a6b31ee38c1c333bfde763f9b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#17003 add collect diagnostic info command (#23102)</code>](https://github.com/dbeaver/dbeaver/commit/ec5c605d807468670c7493e9426c88a669739a03)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2717,7 +2721,9 @@
 - [ ] [<code>chore: Follow up hovermenu</code>](https://github.com/krille-chan/fluffychat/commit/f4196f38c31b81b805dc9d56a68fdc84b5bba6cd)
   - <sub>Tags: <code>rc1.19.0-3</code></sub>
 - [ ] [<code>fix: Always send info object for stickers</code>](https://github.com/krille-chan/fluffychat/commit/4fca106a51f9ea8a3ca30e1b58ac02e5be8c1cec)
-  - <sub>Tags: <code>rc1.19.0-4</code></sub>
+  - <sub>Tags: <code>rc1.19.0-4</code> <code>v1.19.0</code></sub>
+- [ ] [<code>refactor: new flutter only typing animation</code>](https://github.com/krille-chan/fluffychat/commit/a8606f18b655536a9baa86aa0fd71bb5bcc1a48d)
+- [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2818,7 +2824,9 @@
 - [ ] [<code>chore: Follow up hovermenu</code>](https://github.com/krille-chan/fluffychat/commit/f4196f38c31b81b805dc9d56a68fdc84b5bba6cd)
   - <sub>Tags: <code>rc1.19.0-3</code></sub>
 - [ ] [<code>fix: Always send info object for stickers</code>](https://github.com/krille-chan/fluffychat/commit/4fca106a51f9ea8a3ca30e1b58ac02e5be8c1cec)
-  - <sub>Tags: <code>rc1.19.0-4</code></sub>
+  - <sub>Tags: <code>rc1.19.0-4</code> <code>v1.19.0</code></sub>
+- [ ] [<code>refactor: new flutter only typing animation</code>](https://github.com/krille-chan/fluffychat/commit/a8606f18b655536a9baa86aa0fd71bb5bcc1a48d)
+- [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2917,6 +2925,9 @@
 - [ ] [<code>incusd/util/http: Fix crash on missing JWT timestamps</code>](https://github.com/lxc/incus/commit/5d74da63e0bf823f0fa59e729767bce0a03f8e03)
 - [ ] [<code>incusd/util/http: Perform early check on JWT issuer</code>](https://github.com/lxc/incus/commit/cb3ad27ef966242df580bda719357b4f29516fcb)
 - [ ] [<code>incusd/project: Allow managed volumes under "allow"</code>](https://github.com/lxc/incus/commit/54bb8dd4e1ac6a49dfff66edacbd54948ea219b6)
+- [ ] [<code>lxc/info: Add system resources to --resources</code>](https://github.com/lxc/incus/commit/260e65abedab41b1fc770d35d24766a5c664f39e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d369b273625e00d29a438fe859b0a987f7501ab3)
+- [ ] [<code>incusd/network/ovn: Handle chassis group having been deleted</code>](https://github.com/lxc/incus/commit/2926e5aa9b1a7074f6e0749d540a788c485c0697)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3731,118 +3742,8 @@
 - [ ] [<code>rexec: Avoid invalid free in rexec failure path</code>](https://github.com/lxc/lxc/commit/590a95d836324257cff63b8a3d275f772b9f9fc4)
 - [ ] [<code>src/lxc/syscall_numbers.h: drop define -1</code>](https://github.com/lxc/lxc/commit/82fe01821cd5cb8548598d7d93b07d6ef3f6b604)
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [lxcfs-5.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/lxcfs-5.0.4...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
-- [ ] [<code>lxcfs_fuse: ensure lxcfs_fuse_compat.h is included after including fuse header</code>](https://github.com/lxc/lxcfs/commit/e532b47ab892107693145d3ac30ce6a6dc1de9d6)
-- [ ] [<code>tree-wide: remove struct stat argument from DIR_FILLER and make it static inline</code>](https://github.com/lxc/lxcfs/commit/5aff2eb2c54372fbee20a9a9c2b2730fb40625f5)
-- [ ] [<code>tree-wide: ensure that file information is set even with legacy fuse</code>](https://github.com/lxc/lxcfs/commit/02fa563b9fc2fceca1a9db1d4b316f7ddd59ce0e)
-- [ ] [<code>tests: add test for issue #522</code>](https://github.com/lxc/lxcfs/commit/e1f2baff28b0355d3f6b77304ae564e36bc14132)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>meson: Include documentation</code>](https://github.com/lxc/lxcfs/commit/83d9dee735625f8d2db4e1cef483cbf5a8d8ee80)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>workflows: disable documentation generation</code>](https://github.com/lxc/lxcfs/commit/9ec9ae9849e6cbafa99611fe4103c940038f2322)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>sysfs: Don't incorrectly filter entries</code>](https://github.com/lxc/lxcfs/commit/ece0d2bbbc39d2408d21c28b3c1b411f7f19fd62)
-- [ ] [<code>tests: Fix sysfs test</code>](https://github.com/lxc/lxcfs/commit/9df73913600210b8e897cf4878a98f78ca08cf5d)
-- [ ] [<code>utils: add and use opathdir()</code>](https://github.com/lxc/lxcfs/commit/a6fd03eb096d2f6f7359cfeb935744589628c962)
-- [ ] [<code>sysfs_fuse: fix indendation</code>](https://github.com/lxc/lxcfs/commit/a21c424194548ae78c22e0e5f4d8741449a542e9)
-- [ ] [<code>sysfs_fuse: generate file info for cpu<nr> entries as well</code>](https://github.com/lxc/lxcfs/commit/9ad7d6593ef970467a402ef66354e9e39299d1c7)
-- [ ] [<code>meson: bump fuse version</code>](https://github.com/lxc/lxcfs/commit/b1d547f4573786a63ca945d2559a36801b4114ee)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>github: add fuse3 tests</code>](https://github.com/lxc/lxcfs/commit/6dc6057662ce0561a0d88e2f954045d291c7b6b0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>meson: handle fuse versions with buggy dt_type handling</code>](https://github.com/lxc/lxcfs/commit/888ab80a818b132cf812dfb04b926946c4c384a3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>init/meson: Use libdir instead of hardcoded /lib path</code>](https://github.com/lxc/lxcfs/commit/28a1c1a88919cc4e69ea64e79097668a909d48a6)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Query systemd system unit dir.</code>](https://github.com/lxc/lxcfs/commit/6301082a2b2c267a001fd7ce2ec02288892b92d4)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>support explicit fuse version choice</code>](https://github.com/lxc/lxcfs/commit/a3a42a5df00b06f23b5ae9bd588ea62794a1bdde)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>github: Re-organize Github Actions</code>](https://github.com/lxc/lxcfs/commit/db98a412500a2be135075dfaf680a177c93cfef8)
-- [ ] [<code>tests: Skip sysfs test on older FUSE versions</code>](https://github.com/lxc/lxcfs/commit/cc527851526ba8133e807d3c91230a9b26f1d17f)
-- [ ] [<code>init: Fix install paths for sysvinit and openrc</code>](https://github.com/lxc/lxcfs/commit/72ca394f5ea0c0987216a9b897790928fefd65fc)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>meson: Support multiple init systems</code>](https://github.com/lxc/lxcfs/commit/40e23aff83ac266a8f8c2a7d872fab34f37f9676)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>meson: Syntax nit</code>](https://github.com/lxc/lxcfs/commit/bc6251be32756fe9f2008dc8d6332770c41a5768)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>proc_fuse: extra space in /proc/stat</code>](https://github.com/lxc/lxcfs/commit/2be17a4bdbc6a00beea5141998dcf72f10859057)
-- [ ] [<code>util: remove doubled comment</code>](https://github.com/lxc/lxcfs/commit/4dfc5ede8fe397136e809de7d8521d67978161a8)
-- [ ] [<code>sysfs: correct file size of /sys/devices/system/cpu/online.</code>](https://github.com/lxc/lxcfs/commit/07e79d35869b36e53c9dbd692104deee74c0220f)
-- [ ] [<code>sysfs: cleanup sys_devices_system_cpu_online_getsize</code>](https://github.com/lxc/lxcfs/commit/d0aeaf061dc52a9aa2effa7b11b20b3983d0fa2d)
-- [ ] [<code>cgroup v2: return cpuset cpu count when no quota is set</code>](https://github.com/lxc/lxcfs/commit/177d6ecf61134f7d79b19d447af6da2209a436a2)
-- [ ] [<code>re-initialize library after reload</code>](https://github.com/lxc/lxcfs/commit/cb784d698bb8681f7f870961ce5aa7f1314a9291)
-- [ ] [<code>replace opathdir with opendir_flags</code>](https://github.com/lxc/lxcfs/commit/f5227e5c01c42cf110bb851e30ffdfa13d4ab225)
-- [ ] [<code>github: Restrict permissions</code>](https://github.com/lxc/lxcfs/commit/a4d9801ff94869ef506e10e8bf70a7b1e9feb6bc)
-- [ ] [<code>github: Validate target branch</code>](https://github.com/lxc/lxcfs/commit/4175587f2a48032ff09271aa7650f1119c1dcc45)
-- [ ] [<code>fix reinitialization with fuse3</code>](https://github.com/lxc/lxcfs/commit/5976d0349c1900e2649b7d2904d98ba6a7278e6b)
-- [ ] [<code>set oom_score_adj of lxcfs process to -1000</code>](https://github.com/lxc/lxcfs/commit/fc8c93f506f6313a634d9d9ef49e3bb13d7b65d5)
-- [ ] [<code>init: respect --prefix when installing systemd unit files</code>](https://github.com/lxc/lxcfs/commit/9bfc897a0c6b010464dc490e955dbc1d1a66e4c3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Fix build on ia64</code>](https://github.com/lxc/lxcfs/commit/df8d36904e0617bad52f4ae9028a9ce9c94eaf49)
-- [ ] [<code>doc: guide for mount /sys/devices/system/cpu in docker demo</code>](https://github.com/lxc/lxcfs/commit/808b7db2d7f9eaca513cd55134d4d2e92514082d)
-- [ ] [<code>utils: add safe_uint32() helper</code>](https://github.com/lxc/lxcfs/commit/649e9ccc8e79565c00ce82c6bce5b5409ed09cac)
-- [ ] [<code>macro.h: add strnprintf macro</code>](https://github.com/lxc/lxcfs/commit/1ebba49abb3d8b6eaf7b2e35d1819178bb4924d9)
-- [ ] [<code>utils: add get_task_personality helper</code>](https://github.com/lxc/lxcfs/commit/474491c40b8e61a3352daa217ec2231eb3b84112)
-- [ ] [<code>cpuview: paththrough personality when reading cpuinfo</code>](https://github.com/lxc/lxcfs/commit/096972f7a9a2a2347f1ce6b701872eac7b35371f)
-- [ ] [<code>cpuview: fix possible use-after-free in find_proc_stat_node</code>](https://github.com/lxc/lxcfs/commit/54db3e71b80fb8a25c9d6bd8ae9be0f0b4b41f26)
-- [ ] [<code>github: make coverity workflow work with meson</code>](https://github.com/lxc/lxcfs/commit/070e0a68e25b970a71fbd08be38d0e57b6f98e9f)
-- [ ] [<code>README: how to build with sanitizers</code>](https://github.com/lxc/lxcfs/commit/ef53a2871948fde73e18c468a9454fc0a4b0f108)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cpuset_parse: check input string in cpuset_nexttok</code>](https://github.com/lxc/lxcfs/commit/57fdeb523e4e0560e2dd4f1f4d24487f50314525)
-- [ ] [<code>github: enable ASAN and UBSAN during PR tests</code>](https://github.com/lxc/lxcfs/commit/b27a6fb69060ea580726d08139a84c36cf87ec8f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>lxcfs: explicitly enable direct_IO for libfuse3</code>](https://github.com/lxc/lxcfs/commit/c2b4b508c39c1070ec49805f1de47dcf3214c220)
-- [ ] [<code>lxcfs: fix copypaste typo in error message</code>](https://github.com/lxc/lxcfs/commit/1affba53834282d60712c04d14d92fbd0ab783e6)
-- [ ] [<code>/proc/stat: render physical cpu number in non-view mode</code>](https://github.com/lxc/lxcfs/commit/4eed66b3026495095c08c2b4b9b2f779ed8f6d06)
-- [ ] [<code>sysfs: don't mask cpus in /sys/devices/system/cpu</code>](https://github.com/lxc/lxcfs/commit/0a0948b62d9d00729fee8fb17d628b5adab11b09)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>lxcfs: handle NULL path in lxcfs_releasedir/lxcfs_release</code>](https://github.com/lxc/lxcfs/commit/cf02ccbe36391a04435633a7e3e8d10811971ca9)
-- [ ] [<code>cpuview: fix ABBA deadlock in find_proc_stat_node</code>](https://github.com/lxc/lxcfs/commit/1e8d209fa2abc151b0e858caef4d396156d38366)
-- [ ] [<code>build: tools: keep trailing newline in jinja2 renderer</code>](https://github.com/lxc/lxcfs/commit/8a3a41cd13cd2a7ebd92b315d38822be41698e1d)
-- [ ] [<code>Revert "init: respect --prefix when installing systemd unit files"</code>](https://github.com/lxc/lxcfs/commit/4ab95514ad1042b124cbcd039a691fb3156ae840)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>proc: fix /proc/diskstats output format</code>](https://github.com/lxc/lxcfs/commit/723f4cc4928bf01c3ea48891a34d4ea9b1c62bf4)
-- [ ] [<code>github: start using ubuntu-22.04 image</code>](https://github.com/lxc/lxcfs/commit/207b7d3d16aac4a7e1ec34eed799fbc071e5aa0e)
-- [ ] [<code>github: remove ubuntu-18.04</code>](https://github.com/lxc/lxcfs/commit/08c3d259834a097ec7e20c6b7e959bcb27991fa6)
-- [ ] [<code>tests: adapt for cgroup2</code>](https://github.com/lxc/lxcfs/commit/9a65231c261d6ddf764fd4cde272bfaece974fba)
-- [ ] [<code>cpuview: resolve cpu cgroup path separately from cpuset</code>](https://github.com/lxc/lxcfs/commit/aad7798411691cacef09cdd00d3a05e1c1c4d1ec)
-- [ ] [<code>lxcfs: preparation for FUSE_INTERRUPT support</code>](https://github.com/lxc/lxcfs/commit/3ea25890c18014af29f29022af58cae61ef860eb)
-- [ ] [<code>lxcfs: add fuse interruptible locks</code>](https://github.com/lxc/lxcfs/commit/913c12e333bc3e6c24be6c5f13fe153bb7b3f958)
-- [ ] [<code>cpuview: start to use interruptible lock primitives</code>](https://github.com/lxc/lxcfs/commit/ecb10408a925af74efdc1e480fd1b184f8dbaf69)
-- [ ] [<code>github: Update for main branch</code>](https://github.com/lxc/lxcfs/commit/d822113a50ef43649abd21400538eeeb1c2b8cdf)
-- [ ] [<code>proc_loadavg: fix ABBA deadlock between read/refresh</code>](https://github.com/lxc/lxcfs/commit/362a5d52bf67ff58e07f970abd0e642b3bf8279b)
-- [ ] [<code>proc: Fix /proc/cpuinfo not respecting personality</code>](https://github.com/lxc/lxcfs/commit/fc8f593bda9eb4692daa07512ef6ba60dc39aded)
-- [ ] [<code>proc_loadavg.c: Fix incompatible integer to pointer conversion</code>](https://github.com/lxc/lxcfs/commit/1ce7d26de2f97acf4b979d7993d83ddfe53cc8ee)
-- [ ] [<code>cgroups: cleanup and remove unused cgroup2_devices code</code>](https://github.com/lxc/lxcfs/commit/823d5e30c409f0e7542e12d3db299f62c36d0255)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>loadavg: make cleanup of start_loadavg</code>](https://github.com/lxc/lxcfs/commit/e0533550b2c26c6d3dc86394f4eac99082587c9c)
-- [ ] [<code>cpuview: pass a correct argument to lxcfs_debug</code>](https://github.com/lxc/lxcfs/commit/a019277c7f325dd20678d23b8210156ef4bd2318)
-- [ ] [<code>lxcfs: Add startup message</code>](https://github.com/lxc/lxcfs/commit/926a698f730adce94190311675f724c2d5c9db62)
-- [ ] [<code>proc: fix MemAvailable in /proc/meminfo to exclude tmpfs files</code>](https://github.com/lxc/lxcfs/commit/5340b27fc543a1160dd6b763efe6c2e003b1c21d)
-- [ ] [<code>systemd: mkdir -p the target mount dir</code>](https://github.com/lxc/lxcfs/commit/50f7b5f7499c4a968c1be0eebe4f55b30190b49b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>typofix: fix incorrect printing in lxcfs help interface</code>](https://github.com/lxc/lxcfs/commit/c27c750ba028a65a3d136999e85939dbb9601b06)
-- [ ] [<code>Add macro pivot&bpf for loongarch64</code>](https://github.com/lxc/lxcfs/commit/10f17f5dded80187f32d3c0ce5c03c110b04faa0)
-- [ ] [<code>lxc.mount.hook: Skip cpu sysfs logic if missing target</code>](https://github.com/lxc/lxcfs/commit/746b9f430396520c650add33993b7139d86c5c36)
-- [ ] [<code>sysfs: forbid write()</code>](https://github.com/lxc/lxcfs/commit/ce8e6e973c1b4fb1261b29ec02dad069bff61c6c)
-- [ ] [<code>lxcfs: introduce new option --enable-cgroup</code>](https://github.com/lxc/lxcfs/commit/000b539f1b358d4f9536247cccd34da6c48b6e77)
-- [ ] [<code>tests: use --enable-cgroup for tests</code>](https://github.com/lxc/lxcfs/commit/6239e4b8cb2ec585e3c6a276e4a7f8a6f73c306b)
-- [ ] [<code>github: workaround CI issue with ASAN</code>](https://github.com/lxc/lxcfs/commit/351775512350bfb45c6486f39a7aa7cc76f690c7)
-- [ ] [<code>Revert "github: workaround CI issue with ASAN"</code>](https://github.com/lxc/lxcfs/commit/0c08f0db973e6a2773ec67078bb700c0df2494b8)
-- [ ] [<code>proc_fuse: Fix get_swap_info typo swtotal == 0 -> *swtotal == 0</code>](https://github.com/lxc/lxcfs/commit/b50a9a3d676bf20e62c8b0b23c2c1e7aa69d84b0)
-- [ ] [<code>proc: Fix swap handling for cgroups v2 (can_use_swap)</code>](https://github.com/lxc/lxcfs/commit/f496e62cdbeb01215af34fed266fc5a98d25feeb)
-- [ ] [<code>proc: Fix swap handling for cgroups v2 (zero limits)</code>](https://github.com/lxc/lxcfs/commit/a6c309be27e266b310851ca101a1b08644b1d9d5)
-- [ ] [<code>cgroup_utils: explicitly check for cgroup2 FDs in cgroup_walkup_to_root</code>](https://github.com/lxc/lxcfs/commit/86d93a312b094de93a00d022f746d4c435c3548c)
-- [ ] [<code>Release LXCFS 6.0.0</code>](https://github.com/lxc/lxcfs/commit/d837e798fca50629992d38ed3f935116740d3401)
-  - <sub>Tags: <code>v6.0.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
