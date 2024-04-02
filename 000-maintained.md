@@ -2424,6 +2424,9 @@
 - [ ] [<code>dbeaver/dbeaver#23240 Aut-commit in prod databases fix (#23291)</code>](https://github.com/dbeaver/dbeaver/commit/fa62223439806d827b5cf2947b6f7ab12dfdf954)
 - [ ] [<code>#23280 fix tables comment erasing (#23281)</code>](https://github.com/dbeaver/dbeaver/commit/f0577ee81301dbec22e9359cdbec704e45d9b41c)
 - [ ] [<code>CB-4725 always reread secrets (#23274)</code>](https://github.com/dbeaver/dbeaver/commit/50996c88eaa79c11ef10333aeddda2fd677cc1ca)
+- [ ] [<code>Revert "dbeaver/dbeaver#23135 Enhance the 'Can't create driver instance' error (#23262)"</code>](https://github.com/dbeaver/dbeaver/commit/22b4b7b8eccb33dc7662a3e13fa889435e8309cb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2573 SSL context declaration fix</code>](https://github.com/dbeaver/dbeaver/commit/f2a5be035c0d567e152a22582556539cb4dcac54)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2903,6 +2906,8 @@
 - [ ] [<code>lxc/info: Add system resources to --resources</code>](https://github.com/lxc/incus/commit/260e65abedab41b1fc770d35d24766a5c664f39e)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d369b273625e00d29a438fe859b0a987f7501ab3)
 - [ ] [<code>incusd/network/ovn: Handle chassis group having been deleted</code>](https://github.com/lxc/incus/commit/2926e5aa9b1a7074f6e0749d540a788c485c0697)
+- [ ] [<code>incus/info: Add USB info to --resources</code>](https://github.com/lxc/incus/commit/c37479817cf3cd635bbc225467dfb32eb42155c1)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bbd91e85f27655dbfcbc1c53022262883f45b44d)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
