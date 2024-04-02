@@ -2427,6 +2427,17 @@
 - [ ] [<code>Revert "dbeaver/dbeaver#23135 Enhance the 'Can't create driver instance' error (#23262)"</code>](https://github.com/dbeaver/dbeaver/commit/22b4b7b8eccb33dc7662a3e13fa889435e8309cb)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/pro#2573 SSL context declaration fix</code>](https://github.com/dbeaver/dbeaver/commit/f2a5be035c0d567e152a22582556539cb4dcac54)
+- [ ] [<code>Dbeaver/pro#2638 custom dashboards (#23243)</code>](https://github.com/dbeaver/dbeaver/commit/e00b312cf6ba8653c45cb5c36757b0975e71450c)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2585 add markdown handling to presentation (#23295)</code>](https://github.com/dbeaver/dbeaver/commit/3d984044c221f777d7fa2a307cb81368485b6ca6)
+- [ ] [<code>feat: automatic row count (#22829)</code>](https://github.com/dbeaver/dbeaver/commit/b7795d8fccef2d4728171ed5bf7ad155a922cbd9)
+- [ ] [<code>CB-4829 find connection info with project id fix (#23293)</code>](https://github.com/dbeaver/dbeaver/commit/5282aef5cdb56fffcae4eb48c78f7e5cde3ef395)
+- [ ] [<code>Cb 3330 data import (#23276)</code>](https://github.com/dbeaver/dbeaver/commit/e3e0b4c2dd98022ac0ae660fb5d12661ab978f7a)
+- [ ] [<code>24.0.2 version bump</code>](https://github.com/dbeaver/dbeaver/commit/277ce1c09e87c8f3ea3a052860a4a9f485fb56b1)
+- [ ] [<code>dbeaver/pro#2689 Don't rollback/disconnect during query execution (#23302)</code>](https://github.com/dbeaver/dbeaver/commit/c67fea71d8117221bbbf82610e0b4a1278896e40)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>#23298 hide administration folders for PG; do not read jobs (#23303)</code>](https://github.com/dbeaver/dbeaver/commit/1a2d99bcf2bb54c623e1dcd6516955b985175fae)
+- [ ] [<code>#17976 Support multiple SSH jump servers (#23279)</code>](https://github.com/dbeaver/dbeaver/commit/c4ef7b166ae7e7262c38d4e11f74d1bc341f676d)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3486,6 +3497,7 @@
 - [ ] [<code>Add ThreadSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/374e622d64dd92222f393188fbe2ee560449a1cc)
 - [ ] [<code>Fix avifParseItemLocationBox() itemReferenceIndex (#2080)</code>](https://github.com/AOMediaCodec/libavif/commit/9c6a37a4037e9a1186f5edca0793447f4bfc41d2)
 - [ ] [<code>Bump the github-actions group with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/fa5e70fabbf5a5e00106103c87a567e683aaac0f)
+- [ ] [<code>Run cifuzz for changes in ext/ (#2086)</code>](https://github.com/AOMediaCodec/libavif/commit/d2e7fc1d82e3e7888e360805fbe6876b04e70bcb)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3683,6 +3695,9 @@
 - [ ] [<code>config: try to create workdir if not exist</code>](https://github.com/lxc/lxc/commit/789457f1ae076552a3fbd6b7dd579ed74c4c5a39)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 3 to 4</code>](https://github.com/lxc/lxc/commit/112d5615e143e237a62f77c1b915fb6bcdefecf3)
 - [ ] [<code>Add loongarch64 support</code>](https://github.com/lxc/lxc/commit/df17ac417e7baa686e54e391ed4ef049cd7fb63c)
+- [ ] [<code>build: add more options for customizing install</code>](https://github.com/lxc/lxc/commit/872db54243634929fb32666915165012381b5bdb)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Align columns in lxc-download.in template</code>](https://github.com/lxc/lxc/commit/84cc3155af502db586f644f1092831155e45ccca)
 - [ ] [<code>Add verbose output in download template.</code>](https://github.com/lxc/lxc/commit/c8189ee2a328aeb8785e8ff208c1e74c7159e0a7)
 - [ ] [<code>Fix error message.</code>](https://github.com/lxc/lxc/commit/6b40e66c1179b821f928d25965eb4d62034265f7)
@@ -3727,6 +3742,17 @@
 - [ ] [<code>Revert "lxccontainer: fixes"</code>](https://github.com/lxc/lxc/commit/81c1bbf45521c5a237fe6734808c82fb8eb41d27)
 - [ ] [<code>lxccontainer: improve mod_rdep()</code>](https://github.com/lxc/lxc/commit/9d1aa932df732967316462aeb83243e6ba47a5ca)
 - [ ] [<code>lxccontainer: rework copy_file()</code>](https://github.com/lxc/lxc/commit/4464cee19399d2d33c56cbc58847f59470631f60)
+- [ ] [<code>tree-wide: replace multiply_overflow with check_mul_overflow</code>](https://github.com/lxc/lxc/commit/ad8f554458d1e93bd5dbde7ed650cb24a5401ce3)
+- [ ] [<code>tests/parse_config_file: add tests for lxc.time.offset.*</code>](https://github.com/lxc/lxc/commit/6fea674291b985baac026dc60e2e10f219587d00)
+- [ ] [<code>tests/parse_config_file: fix some typos</code>](https://github.com/lxc/lxc/commit/dcc4fb929434b741992cc166a7cb89540ca71abe)
+- [ ] [<code>lxc/confile: do not print newline symbol in getter for lxc.time.offset.*</code>](https://github.com/lxc/lxc/commit/796f2ccb74d8e951d549ce39b139d47abfefb87e)
+- [ ] [<code>lxc/confile: do not print excess space before scale suffix for time.offset.boot</code>](https://github.com/lxc/lxc/commit/630b46ed281fbfd068657b7e4bbed1675d28b2e5)
+- [ ] [<code>lxc/lxccontainer: specify file mode in open() call inside mod_rdep</code>](https://github.com/lxc/lxc/commit/dc4df233595daa1b6eaa5a18d495b0a995660f7f)
+- [ ] [<code>tools/lxc_autostart: don't fail when there are no containers</code>](https://github.com/lxc/lxc/commit/989ea3969c937a1404718860d3f80c061266fb36)
+- [ ] [<code>lxc/tools: set default log_priority to ERROR</code>](https://github.com/lxc/lxc/commit/816b8973d9dda1853606a5dd1e55c91b5992160f)
+- [ ] [<code>lxc-ls: list names with whitespaces in `--active`.</code>](https://github.com/lxc/lxc/commit/f71b8e3f8e601a2de6c908abe4a91f7bde1bb95f)
+- [ ] [<code>lxc-checkconfig: Show namespace limits</code>](https://github.com/lxc/lxc/commit/0f18db54328f9e5a54d303937f84aad017d16cdf)
+- [ ] [<code>lxc-checkconfig: Fix shellcheck</code>](https://github.com/lxc/lxc/commit/08bf8b9e2fc94b4998981abf4e263c38a46b88ec)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
