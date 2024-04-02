@@ -3480,6 +3480,7 @@
 - [ ] [<code>Do not use env:NUMBER_OF_PROCESSORS for MinGW (#2076)</code>](https://github.com/AOMediaCodec/libavif/commit/3cc07724fc87ed6b80d62a45d8e4bd44c25b9f5d)
 - [ ] [<code>Add ThreadSanitizer</code>](https://github.com/AOMediaCodec/libavif/commit/374e622d64dd92222f393188fbe2ee560449a1cc)
 - [ ] [<code>Fix avifParseItemLocationBox() itemReferenceIndex (#2080)</code>](https://github.com/AOMediaCodec/libavif/commit/9c6a37a4037e9a1186f5edca0793447f4bfc41d2)
+- [ ] [<code>Bump the github-actions group with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/fa5e70fabbf5a5e00106103c87a567e683aaac0f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3718,6 +3719,9 @@
 - [ ] [<code>README: Correct 'armvl7' to 'armv7l'</code>](https://github.com/lxc/lxc/commit/f9978b179012af6769d32ebf0755a84fa652ed41)
 - [ ] [<code>rexec: Avoid invalid free in rexec failure path</code>](https://github.com/lxc/lxc/commit/590a95d836324257cff63b8a3d275f772b9f9fc4)
 - [ ] [<code>src/lxc/syscall_numbers.h: drop define -1</code>](https://github.com/lxc/lxc/commit/82fe01821cd5cb8548598d7d93b07d6ef3f6b604)
+- [ ] [<code>Revert "lxccontainer: fixes"</code>](https://github.com/lxc/lxc/commit/81c1bbf45521c5a237fe6734808c82fb8eb41d27)
+- [ ] [<code>lxccontainer: improve mod_rdep()</code>](https://github.com/lxc/lxc/commit/9d1aa932df732967316462aeb83243e6ba47a5ca)
+- [ ] [<code>lxccontainer: rework copy_file()</code>](https://github.com/lxc/lxc/commit/4464cee19399d2d33c56cbc58847f59470631f60)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
