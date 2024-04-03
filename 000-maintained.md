@@ -2712,6 +2712,7 @@
 - [ ] [<code>refactor: new flutter only typing animation</code>](https://github.com/krille-chan/fluffychat/commit/a8606f18b655536a9baa86aa0fd71bb5bcc1a48d)
 - [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
 - [ ] [<code>refactor: Move room headers into appbar bottom field</code>](https://github.com/krille-chan/fluffychat/commit/e81a366a5b91661c5f5f6e5a05b5733040164ade)
+- [ ] [<code>docs: Add flathub verification code</code>](https://github.com/krille-chan/fluffychat/commit/9a8f604fc16edcf4f2a92ce3ca7d33e01c2e768c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2816,6 +2817,7 @@
 - [ ] [<code>refactor: new flutter only typing animation</code>](https://github.com/krille-chan/fluffychat/commit/a8606f18b655536a9baa86aa0fd71bb5bcc1a48d)
 - [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
 - [ ] [<code>refactor: Move room headers into appbar bottom field</code>](https://github.com/krille-chan/fluffychat/commit/e81a366a5b91661c5f5f6e5a05b5733040164ade)
+- [ ] [<code>docs: Add flathub verification code</code>](https://github.com/krille-chan/fluffychat/commit/9a8f604fc16edcf4f2a92ce3ca7d33e01c2e768c)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -2919,6 +2921,7 @@
 - [ ] [<code>incusd/network/ovn: Handle chassis group having been deleted</code>](https://github.com/lxc/incus/commit/2926e5aa9b1a7074f6e0749d540a788c485c0697)
 - [ ] [<code>incus/info: Add USB info to --resources</code>](https://github.com/lxc/incus/commit/c37479817cf3cd635bbc225467dfb32eb42155c1)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bbd91e85f27655dbfcbc1c53022262883f45b44d)
+- [ ] [<code>client: Support target flag for storage volume export</code>](https://github.com/lxc/incus/commit/5afc0a44738b7d14afd50b30fe581a6c7e19fbff)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3498,6 +3501,8 @@
 - [ ] [<code>Fix avifParseItemLocationBox() itemReferenceIndex (#2080)</code>](https://github.com/AOMediaCodec/libavif/commit/9c6a37a4037e9a1186f5edca0793447f4bfc41d2)
 - [ ] [<code>Bump the github-actions group with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/fa5e70fabbf5a5e00106103c87a567e683aaac0f)
 - [ ] [<code>Run cifuzz for changes in ext/ (#2086)</code>](https://github.com/AOMediaCodec/libavif/commit/d2e7fc1d82e3e7888e360805fbe6876b04e70bcb)
+- [ ] [<code>android_jni: Allow loading dav1d as a separate shared object</code>](https://github.com/AOMediaCodec/libavif/commit/cdddec07209243c8398717ba3e701ac79ad6d6f4)
+- [ ] [<code>Add installation instructions (#2085)</code>](https://github.com/AOMediaCodec/libavif/commit/3e0b4e0f9dc1815be2c6bc83d44737e625c1286a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3753,6 +3758,28 @@
 - [ ] [<code>lxc-ls: list names with whitespaces in `--active`.</code>](https://github.com/lxc/lxc/commit/f71b8e3f8e601a2de6c908abe4a91f7bde1bb95f)
 - [ ] [<code>lxc-checkconfig: Show namespace limits</code>](https://github.com/lxc/lxc/commit/0f18db54328f9e5a54d303937f84aad017d16cdf)
 - [ ] [<code>lxc-checkconfig: Fix shellcheck</code>](https://github.com/lxc/lxc/commit/08bf8b9e2fc94b4998981abf4e263c38a46b88ec)
+- [ ] [<code>MAINTAINERS: Remove Dwight from the maintainer list</code>](https://github.com/lxc/lxc/commit/5227212166e9c1d552661313e7a01233c0cdcd38)
+- [ ] [<code>COPYING: Remove whitespace</code>](https://github.com/lxc/lxc/commit/7ed43e5e98811ea5bc4cfe5c8906613a9fda7174)
+- [ ] [<code>config/yum: Use SPDX header</code>](https://github.com/lxc/lxc/commit/a074b3d27c0de46ef07d3f9a71fc7cf80c65ef9e)
+- [ ] [<code>template: Use SPDX</code>](https://github.com/lxc/lxc/commit/85abd4026f00a04bfdae0d42766404e57ccab6f9)
+- [ ] [<code>lxc.spec: Use SPDX</code>](https://github.com/lxc/lxc/commit/202d649d1f7e173bc48e19e7b741474a94f17018)
+- [ ] [<code>lxc.spec: Clear default changelog</code>](https://github.com/lxc/lxc/commit/1e9e66be32ea9b5b9259177d1ddb254d5f4e163e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>hooks: Add SPDX headers</code>](https://github.com/lxc/lxc/commit/007642c891c8364d8fea4b3f1d63833cbf96d30d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>src/tests: Add SPDX headers</code>](https://github.com/lxc/lxc/commit/7bc33ef6ee3300be8141d243ee56458b177d58f4)
+- [ ] [<code>src/include: Add SPDX headers</code>](https://github.com/lxc/lxc/commit/cb94edf538babeaf37665950bbd5c2e8d0ba390b)
+- [ ] [<code>doc: Add SPDX headers and remove Author field</code>](https://github.com/lxc/lxc/commit/8e67eb07c8e240f39e38ddefc64a4c874a10e8e6)
+- [ ] [<code>COPYING: Clarify licensing of files without SPDX</code>](https://github.com/lxc/lxc/commit/d4cd3741d5863f1993b580c62ad478c9aef08377)
+- [ ] [<code>meson: Align SPDX license id</code>](https://github.com/lxc/lxc/commit/97f93be72ebf380f3966259410b70b1c966b0ff0)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Makefile: Align SPDX license id</code>](https://github.com/lxc/lxc/commit/5fe2de84c1cbef445e450fd0c0b91dc7459061b6)
+- [ ] [<code>lxc.spec: Align SPDX license id</code>](https://github.com/lxc/lxc/commit/17ac6f691f4ad7c6926e38a7de2e73982d040bbb)
+- [ ] [<code>Release LXC 6.0.0</code>](https://github.com/lxc/lxc/commit/3dee5fb88c6f77496dbcab46f31bcd891c9ee4e0)
+  - <sub>Tags: <code>v6.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/05416319327e7bbd76c904d00d9c25027f63be5b)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
