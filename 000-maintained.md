@@ -4238,6 +4238,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>parse-nm: add a workaround for the DoT DNS option</code>](https://github.com/canonical/netplan/commit/2c9f3da63e042d24b8bcc070666eac6eaeea9f84)
 - [ ] [<code>CI: Install netplan-ci PPA</code>](https://github.com/canonical/netplan/commit/2e4e42e7f2d667f83efc746babf01e87a3fb69c2)
+- [ ] [<code>parse: don't remove datalist items during iteration</code>](https://github.com/canonical/netplan/commit/7afe56f30e29befbc387305397a8cc2f6745fd07)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
