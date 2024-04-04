@@ -54,3 +54,4 @@
 
 - [ ] [<code>mbedtls: fix build on non-linux systems</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/7621339d7694abef5da5e5353ac440f2d39dcecb)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ustream-mbedtls: add missing psa_crypto_init call</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/268050964b088a6000cca750e92dc6b5f54bbe7f)
