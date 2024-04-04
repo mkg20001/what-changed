@@ -3844,6 +3844,9 @@
 - [ ] [<code>feat(images) add lxd images server</code>](https://github.com/canonical/lxd-ui/commit/e39d6b1cd21e8c400aa0693a2c7c5f1cbbd2056a)
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.2</code>](https://github.com/canonical/lxd-ui/commit/8cfaae6a02e95be9d1003b4ad5c084544d9edb95)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(instance) create instance from custom image needs fingerprint in payload.source</code>](https://github.com/canonical/lxd-ui/commit/a067da1dc3cdd46bb5148336f5c62dfee2e550b3)
+- [ ] [<code>feat(volumes) use fetch all volumes endpoint</code>](https://github.com/canonical/lxd-ui/commit/67ea93bcb726d1fd8b35264a9085e312437d84a9)
+- [ ] [<code>chore(version) rollback to vite v4</code>](https://github.com/canonical/lxd-ui/commit/d09c13e66b9d3b1b5b734f4d0eea9643a3a8f587)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4557,6 +4560,11 @@
 - [ ] [<code>Use --immutable flag whenever "yarn install" is called by a tool</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ae7f6e18e58b78386efc11ea3771137f3fdfb16a)
 - [ ] [<code>Bump @mui/* from 5.15.7 to 5.15.10</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dfee94af961d2ad1441507ee8d75f4fe292b5bba)
 - [ ] [<code>Bump react-admin from 4.16.9 to 4.16.11</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7d4d765ab45cf0f5c5b07cd6ea3c6b1a7e5a5628)
+- [ ] [<code>Bump eslint from 8.56.0 to 8.57.0 (#479)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ebba0f66f73513a8ff9b83ede1eb6084a61828e5)
+- [ ] [<code>Bump ra-language-french from 4.16.11 to 4.16.12 (#481)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0c4ca1459fc57f491c5782fd09483289388eec59)
+- [ ] [<code>Bump @mui/material from 5.15.10 to 5.15.14 (#492)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ee859a29269c68bcd50d193e57611cce872070ea)
+- [ ] [<code>Bump @mui/styles from 5.15.10 to 5.15.15 (#498)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8d6852ca8cc3664b2981da49e0be2d7760df74f2)
+- [ ] [<code>Bump @mui/icons-material from 5.15.10 to 5.15.15 (#499)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e326599da2833b8361d80b5fb21b514d3879ca7b)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
