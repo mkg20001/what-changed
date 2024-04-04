@@ -2605,6 +2605,8 @@
 - [ ] [<code>chore: Melos format</code>](https://github.com/canonical/firmware-updater/commit/c25c7fbeef6c7e50d0fb761c6b6cef50032cd7b6)
 - [ ] [<code>feat: switching to the right icon when updating firmware</code>](https://github.com/canonical/firmware-updater/commit/54eb00066901ddc52c7d5385c88bc98f05c1376d)
 - [ ] [<code>docs: adding contributing.md for future contributors.</code>](https://github.com/canonical/firmware-updater/commit/d41248f5d422098ce680eadb08285c002c7b991b)
+- [ ] [<code>fix: cleanup l10n placeholder types</code>](https://github.com/canonical/firmware-updater/commit/0f50ba2e290c557f67e264a6d48e8442a4fc0d71)
+- [ ] [<code>feat: add arb stubs</code>](https://github.com/canonical/firmware-updater/commit/1e928f13c38fb6a977e24ad050f2ff6873d2f842)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -2922,6 +2924,19 @@
 - [ ] [<code>incus/info: Add USB info to --resources</code>](https://github.com/lxc/incus/commit/c37479817cf3cd635bbc225467dfb32eb42155c1)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bbd91e85f27655dbfcbc1c53022262883f45b44d)
 - [ ] [<code>client: Support target flag for storage volume export</code>](https://github.com/lxc/incus/commit/5afc0a44738b7d14afd50b30fe581a6c7e19fbff)
+- [ ] [<code>incusd/sys: Move GetUnixSocket</code>](https://github.com/lxc/incus/commit/66a73874c94eaa0e5af290f47c6a35dd5cae93d5)
+- [ ] [<code>incusd/instances: Rework server-side instance move</code>](https://github.com/lxc/incus/commit/a758527f35ceca53ecc4825971c7922d727835b0)
+- [ ] [<code>incusd/cluster: Update evacuation logic for migration changes</code>](https://github.com/lxc/incus/commit/28103390d3b0084e493936f360b951b73e29619e)
+- [ ] [<code>cmd/incus: Rework server-side move handling</code>](https://github.com/lxc/incus/commit/0bf40e8e5e559cd82693dd242c23fb5f4f61c690)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3b54b508b80d7c74956d69f8f65ea83cfbe319ad)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>lxd-to-incus: Support all LXD 5.21.x releases</code>](https://github.com/lxc/incus/commit/26df7ea8c045a697e19a5d22dd399c3aaf7f350a)
+- [ ] [<code>lxd-to-incus: Handle unrestricted metrics certificates</code>](https://github.com/lxc/incus/commit/d04cef88fd08a1bd8d870efc93efc3a294ee8b8a)
+- [ ] [<code>doc: Bump baseline requirements</code>](https://github.com/lxc/incus/commit/c507cdb2c5196e4459aed3079ec8de735389cbf9)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d68f7a8218c050e6cb18100a8b9318073e101e3a)
+- [ ] [<code>Release Incus 6.0.0</code>](https://github.com/lxc/incus/commit/714bcc5e42b189f54025b8567df1f3408a1cae2c)
+  - <sub>Tags: <code>v6.0.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3503,6 +3518,7 @@
 - [ ] [<code>Run cifuzz for changes in ext/ (#2086)</code>](https://github.com/AOMediaCodec/libavif/commit/d2e7fc1d82e3e7888e360805fbe6876b04e70bcb)
 - [ ] [<code>android_jni: Allow loading dav1d as a separate shared object</code>](https://github.com/AOMediaCodec/libavif/commit/cdddec07209243c8398717ba3e701ac79ad6d6f4)
 - [ ] [<code>Add installation instructions (#2085)</code>](https://github.com/AOMediaCodec/libavif/commit/3e0b4e0f9dc1815be2c6bc83d44737e625c1286a)
+- [ ] [<code>Remove spaces at the end of lines</code>](https://github.com/AOMediaCodec/libavif/commit/e2a37cb92948d7257d4b8d2694b858ceec12ef44)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3789,6 +3805,35 @@
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
+
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.7 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.7...HEAD)
+
+- [ ] [<code>feat: multi-select rows with shift key</code>](https://github.com/canonical/lxd-ui/commit/a7743e0b0abe39a46b9dd0b3e62dc507d762bd53)
+- [ ] [<code>fix: create instance from custom iso</code>](https://github.com/canonical/lxd-ui/commit/fbac3d3d59263f8a503aeb74ac840557d8862384)
+- [ ] [<code>feat(network) use config api for network form help texts and defaults, unify network form key handling WD-7391</code>](https://github.com/canonical/lxd-ui/commit/c2cc226b67a70be48fcb6a213f10ac9de7a47d91)
+- [ ] [<code>chore(test) add warning page test WD-9460</code>](https://github.com/canonical/lxd-ui/commit/8eae6f22a547306ce09bbcafb662e147a39b3746)
+- [ ] [<code>feat: refactor side panels and enabled overlay panels</code>](https://github.com/canonical/lxd-ui/commit/8240ade6655fa0c4f587223c8e70be7c981d8ed5)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.9.0</code>](https://github.com/canonical/lxd-ui/commit/a3f60d944f66d5bdc2860e57117d7cf88bf1518a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(code) verious code style fixes</code>](https://github.com/canonical/lxd-ui/commit/80dbb3bd6930ef56909afbcc87dfef6210c4a74f)
+- [ ] [<code>chore(tics) ensure deps are installed before running the tics report</code>](https://github.com/canonical/lxd-ui/commit/706847ef611b81da7e377de38d2cfcebf8d3599c)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.50.6</code>](https://github.com/canonical/lxd-ui/commit/2a4e9f79e4f597322a373307dcb75bfecd0eaf81)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.0</code>](https://github.com/canonical/lxd-ui/commit/29959d923932da63d00f11f82a0931ff98b305df)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(terminal) forward scroll event from vm to parent container. fixes #700</code>](https://github.com/canonical/lxd-ui/commit/5af14ce88752b560cb5640550749de30b7843a42)
+- [ ] [<code>feat: limit functionalities for storage pool with driver that's not fully supported in the UI</code>](https://github.com/canonical/lxd-ui/commit/f598accd458a9dc53a2646ba944a9b9f9d206852)
+- [ ] [<code>fix(yaml) include yaml editor code in build. Avoid to rely on external domain cdn.jsdelivr.net to load editor code WD-9954</code>](https://github.com/canonical/lxd-ui/commit/d66aac0642f8b0392f55bdc10524f3a8ddaf89ce)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.1</code>](https://github.com/canonical/lxd-ui/commit/524a4a965f2f911c4fb4fb11100b56abe631020d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(coverage) fix workflow: stop dotrun before uploading coverage report to avoid active symlinks</code>](https://github.com/canonical/lxd-ui/commit/a677194ac59337cc1e68f40bb1b781111bb169a7)
+- [ ] [<code>fix(login) ensure login button is not broken into two rows on medium sized screens WD-9657</code>](https://github.com/canonical/lxd-ui/commit/caaa0ae489bcb932d41adc48dcad794e6d354e6e)
+- [ ] [<code>feat(test) add tests for custom fields on instances, profiles, projects, networks, storage pools and storage volumes WD-9656</code>](https://github.com/canonical/lxd-ui/commit/47c1f066726caf4d93f6b447332303f82672fc06)
+- [ ] [<code>fix(image) avoid null pointer exception on custom images, that have no properties set. fixes #716</code>](https://github.com/canonical/lxd-ui/commit/bc383c9db1e3006c100a38385dd287a00de8a1f1)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.9.1</code>](https://github.com/canonical/lxd-ui/commit/c908da4a43ee7fd6f06a8df9093af114d19f266b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: revert info icon style fix from #655 due to upstream vanilla update</code>](https://github.com/canonical/lxd-ui/commit/5f4f919f630c10d5ede009dc38281b56854091f3)
+- [ ] [<code>chore(deps) update to vite 5, update rollup to unblock s390x build WD-8319</code>](https://github.com/canonical/lxd-ui/commit/8788a34248edbe47e4d8561fe5b7c29bc6b32d15)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
