@@ -2438,6 +2438,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>#23298 hide administration folders for PG; do not read jobs (#23303)</code>](https://github.com/dbeaver/dbeaver/commit/1a2d99bcf2bb54c623e1dcd6516955b985175fae)
 - [ ] [<code>#17976 Support multiple SSH jump servers (#23279)</code>](https://github.com/dbeaver/dbeaver/commit/c4ef7b166ae7e7262c38d4e11f74d1bc341f676d)
+- [ ] [<code>#23292 Fix errors in log on some query (#23306)</code>](https://github.com/dbeaver/dbeaver/commit/f942205bdaffa286aa7cf06b7253d1d2ce4e1f70)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2510,6 +2511,7 @@
 - [ ] [<code>Add a note to the README about BuildKit's garbage collector</code>](https://github.com/stepchowfun/docuum/commit/28d8ca73b8c590872d25e4882e421962c529d0be)
 - [ ] [<code>Use `set -x` for shell scripts</code>](https://github.com/stepchowfun/docuum/commit/0567c00e17cd1b445e3f24d79ed105565ecdda30)
 - [ ] [<code>Update Rust to v1.77.0</code>](https://github.com/stepchowfun/docuum/commit/c4b9c795eda48f4c958b6819980842361a99549d)
+- [ ] [<code>Remove an unnecessary call to `number_of_values`</code>](https://github.com/stepchowfun/docuum/commit/531e65754b6bb179d44cc4fa16da3aad95efbb2d)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -2937,6 +2939,9 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d68f7a8218c050e6cb18100a8b9318073e101e3a)
 - [ ] [<code>Release Incus 6.0.0</code>](https://github.com/lxc/incus/commit/714bcc5e42b189f54025b8567df1f3408a1cae2c)
   - <sub>Tags: <code>v6.0.0</code></sub>
+- [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
+- [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
+- [ ] [<code>doc/network/bridge: Update extended external_interfaces documentation</code>](https://github.com/lxc/incus/commit/de81e4c4d133ac6c9450880b6b51be5d5031f271)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3519,6 +3524,7 @@
 - [ ] [<code>android_jni: Allow loading dav1d as a separate shared object</code>](https://github.com/AOMediaCodec/libavif/commit/cdddec07209243c8398717ba3e701ac79ad6d6f4)
 - [ ] [<code>Add installation instructions (#2085)</code>](https://github.com/AOMediaCodec/libavif/commit/3e0b4e0f9dc1815be2c6bc83d44737e625c1286a)
 - [ ] [<code>Remove spaces at the end of lines</code>](https://github.com/AOMediaCodec/libavif/commit/e2a37cb92948d7257d4b8d2694b858ceec12ef44)
+- [ ] [<code>Add .vscode to .gitignore (#2089)</code>](https://github.com/AOMediaCodec/libavif/commit/356984b58e6e9f9daa2cd4018a024516ad16e6cc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3834,6 +3840,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: revert info icon style fix from #655 due to upstream vanilla update</code>](https://github.com/canonical/lxd-ui/commit/5f4f919f630c10d5ede009dc38281b56854091f3)
 - [ ] [<code>chore(deps) update to vite 5, update rollup to unblock s390x build WD-8319</code>](https://github.com/canonical/lxd-ui/commit/8788a34248edbe47e4d8561fe5b7c29bc6b32d15)
+- [ ] [<code>chore(deps) update to rollup 4.13.2 for ppc64 support</code>](https://github.com/canonical/lxd-ui/commit/2932f8d9b623b52ca8b0395c106e6ba32cd191eb)
+- [ ] [<code>feat(images) add lxd images server</code>](https://github.com/canonical/lxd-ui/commit/e39d6b1cd21e8c400aa0693a2c7c5f1cbbd2056a)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.2</code>](https://github.com/canonical/lxd-ui/commit/8cfaae6a02e95be9d1003b4ad5c084544d9edb95)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
