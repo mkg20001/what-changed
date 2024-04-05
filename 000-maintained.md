@@ -2439,6 +2439,8 @@
 - [ ] [<code>#23298 hide administration folders for PG; do not read jobs (#23303)</code>](https://github.com/dbeaver/dbeaver/commit/1a2d99bcf2bb54c623e1dcd6516955b985175fae)
 - [ ] [<code>#17976 Support multiple SSH jump servers (#23279)</code>](https://github.com/dbeaver/dbeaver/commit/c4ef7b166ae7e7262c38d4e11f74d1bc341f676d)
 - [ ] [<code>#23292 Fix errors in log on some query (#23306)</code>](https://github.com/dbeaver/dbeaver/commit/f942205bdaffa286aa7cf06b7253d1d2ce4e1f70)
+- [ ] [<code>Hive tree injections fix</code>](https://github.com/dbeaver/dbeaver/commit/be9d455d41d372103e3545495a6d9f6d116a096b)
+- [ ] [<code>Dashboard opening fix</code>](https://github.com/dbeaver/dbeaver/commit/1ecb7878a9ed790936d5a98d8b36389fb5099ff0)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2487,34 +2489,9 @@
 - [ ] [<code>Replace util.ValueInSlice with slices.Contains</code>](https://github.com/lxc/distrobuilder/commit/eba1eb2207b1893dc02f8119b5fc572462872e27)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [docuum](https://github.com/stepchowfun/docuum): [v0.23.1 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.23.1...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
-- [ ] [<code>Install v0.23.1 by default</code>](https://github.com/stepchowfun/docuum/commit/294d2bf02d892cc299324a074db03092e4d3e27f)
-- [ ] [<code>Remove an unnecessary check from the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/6e68cec29ea4665200bae89e551fa21086a9bf59)
-- [ ] [<code>Use `gh` instead of `hub`</code>](https://github.com/stepchowfun/docuum/commit/7c0fad9960680c30e93c78ce45afcc2258b9df1f)
-- [ ] [<code>Update Rust to v1.73.0</code>](https://github.com/stepchowfun/docuum/commit/676c2819334fe42a2e0a7b99fac0a76d3d2d532e)
-- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/dcf2c62a625e0791e36ef0b2de0159141786a33b)
-- [ ] [<code>Update Rust to v1.74.0</code>](https://github.com/stepchowfun/docuum/commit/b3e99a9e765f0585553679dc07ecbb5330c05e87)
-- [ ] [<code>Update the way lints are configured to use Rust's new `manifest-lint` feature</code>](https://github.com/stepchowfun/docuum/commit/2bf74c1c7ee053736546f84ac463541ef7da8676)
-- [ ] [<code>Fix a Homebrew URL</code>](https://github.com/stepchowfun/docuum/commit/12cb528a210072213dad4012a8c476c64fc8f7aa)
-- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/64d5954e1f8eb9a7170e917063f9f4931c2ed905)
-- [ ] [<code>Fix a typo in the README</code>](https://github.com/stepchowfun/docuum/commit/98b8fe4f9ea37d3d395dfe6d5e04585b4c3d3ea9)
-- [ ] [<code>Update the CI workflow to not run twice on every internal pull request</code>](https://github.com/stepchowfun/docuum/commit/d104b6d4f7d9190939dfc7e38f6eb73aa99549b6)
-- [ ] [<code>Fix some indentation in the CI configuration</code>](https://github.com/stepchowfun/docuum/commit/60207449c14b261e9a4ab824d5d0fc2c549d4582)
-- [ ] [<code>Forbid the default numeric fallback</code>](https://github.com/stepchowfun/docuum/commit/15df47ab0c08e2c7450d0712cc01ea38c3afc8c7)
-- [ ] [<code>Enable reading from the remote Toast cache for pull requests</code>](https://github.com/stepchowfun/docuum/commit/a1638a591cb52195f8ece96191cd00f25bdb032e)
-- [ ] [<code>Fix a typo in `MAINTAINERS.md`</code>](https://github.com/stepchowfun/docuum/commit/05abe6cebd170e242e1be2b750f7f6916044eab8)
-- [ ] [<code>Leverage Tagref's new file references feature</code>](https://github.com/stepchowfun/docuum/commit/092f983f54d83ae4d701426ae17a2b118c001934)
-- [ ] [<code>Use Tagref file references where applicable</code>](https://github.com/stepchowfun/docuum/commit/39afadf2432ce2413f15338c5c6a564a1f25e3b5)
-- [ ] [<code>Update the Ubuntu version in the CI configuration to 22.04 LTS</code>](https://github.com/stepchowfun/docuum/commit/b2b631b2041e3bb3f78002836a9d4472a4103180)
-- [ ] [<code>Update Rust to v1.76.0</code>](https://github.com/stepchowfun/docuum/commit/3e4286f55078cf1135011c0ee4a57f23d043a44d)
-- [ ] [<code>Add a note to the README about BuildKit's garbage collector</code>](https://github.com/stepchowfun/docuum/commit/28d8ca73b8c590872d25e4882e421962c529d0be)
-- [ ] [<code>Use `set -x` for shell scripts</code>](https://github.com/stepchowfun/docuum/commit/0567c00e17cd1b445e3f24d79ed105565ecdda30)
-- [ ] [<code>Update Rust to v1.77.0</code>](https://github.com/stepchowfun/docuum/commit/c4b9c795eda48f4c958b6819980842361a99549d)
-- [ ] [<code>Remove an unnecessary call to `number_of_values`</code>](https://github.com/stepchowfun/docuum/commit/531e65754b6bb179d44cc4fa16da3aad95efbb2d)
-- [ ] [<code>Handle signals and clean up subprocesses</code>](https://github.com/stepchowfun/docuum/commit/8b05977ae0d56ea51bd5d2470ec3805f7d701fb7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix a bug in the release script</code>](https://github.com/stepchowfun/docuum/commit/fa7c6549f767ef3d2523da3d007c624da39f3b68)
+- [ ] [<code>Install v0.24.0 by default</code>](https://github.com/stepchowfun/docuum/commit/fdb2865a022401c293bb50cd8befb4879f0fb181)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -2720,6 +2697,8 @@
 - [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
 - [ ] [<code>refactor: Move room headers into appbar bottom field</code>](https://github.com/krille-chan/fluffychat/commit/e81a366a5b91661c5f5f6e5a05b5733040164ade)
 - [ ] [<code>docs: Add flathub verification code</code>](https://github.com/krille-chan/fluffychat/commit/9a8f604fc16edcf4f2a92ce3ca7d33e01c2e768c)
+- [ ] [<code>chore: do not use static openssl</code>](https://github.com/krille-chan/fluffychat/commit/54cff3cd32b7ededa71224e2c37b19cc59e838db)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2825,6 +2804,8 @@
 - [ ] [<code>design: Adjust some colors in inputbar</code>](https://github.com/krille-chan/fluffychat/commit/f42509f710bb8503f13e353665a0e9e2d19cb224)
 - [ ] [<code>refactor: Move room headers into appbar bottom field</code>](https://github.com/krille-chan/fluffychat/commit/e81a366a5b91661c5f5f6e5a05b5733040164ade)
 - [ ] [<code>docs: Add flathub verification code</code>](https://github.com/krille-chan/fluffychat/commit/9a8f604fc16edcf4f2a92ce3ca7d33e01c2e768c)
+- [ ] [<code>chore: do not use static openssl</code>](https://github.com/krille-chan/fluffychat/commit/54cff3cd32b7ededa71224e2c37b19cc59e838db)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3532,6 +3513,7 @@
 - [ ] [<code>Add .vscode to .gitignore (#2089)</code>](https://github.com/AOMediaCodec/libavif/commit/356984b58e6e9f9daa2cd4018a024516ad16e6cc)
 - [ ] [<code>Handle size 0 in avifROStreamReadBoxHeaderPartial (#2079)</code>](https://github.com/AOMediaCodec/libavif/commit/56f11fb945ea9a5f4533266f043986aadc58cc6c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix path order in cifuzz.yml (#2092)</code>](https://github.com/AOMediaCodec/libavif/commit/b28ebee691d1738eddcd8427d7a264131967ca9c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
