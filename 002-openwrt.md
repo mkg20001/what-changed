@@ -43,6 +43,8 @@
 - [ ] [<code>add ucode binding</code>](https://git.openwrt.org/project/uclient.git/commit/e611e6d0ff0ba31070abacdb53037d3e9a4115a6)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>uclient: add function for getting the amount of pending read/write data</code>](https://git.openwrt.org/project/uclient.git/commit/ddb18d2657578bb39ffad4795cedee215f9b36b0)
+- [ ] [<code>ucode: fix a few ucode binding issues</code>](https://git.openwrt.org/project/uclient.git/commit/980220ad17622456be141fb66a00e2b776a58749)
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
 
