@@ -2512,6 +2512,9 @@
 - [ ] [<code>Use `set -x` for shell scripts</code>](https://github.com/stepchowfun/docuum/commit/0567c00e17cd1b445e3f24d79ed105565ecdda30)
 - [ ] [<code>Update Rust to v1.77.0</code>](https://github.com/stepchowfun/docuum/commit/c4b9c795eda48f4c958b6819980842361a99549d)
 - [ ] [<code>Remove an unnecessary call to `number_of_values`</code>](https://github.com/stepchowfun/docuum/commit/531e65754b6bb179d44cc4fa16da3aad95efbb2d)
+- [ ] [<code>Handle signals and clean up subprocesses</code>](https://github.com/stepchowfun/docuum/commit/8b05977ae0d56ea51bd5d2470ec3805f7d701fb7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix a bug in the release script</code>](https://github.com/stepchowfun/docuum/commit/fa7c6549f767ef3d2523da3d007c624da39f3b68)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -2942,6 +2945,8 @@
 - [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
 - [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
 - [ ] [<code>doc/network/bridge: Update extended external_interfaces documentation</code>](https://github.com/lxc/incus/commit/de81e4c4d133ac6c9450880b6b51be5d5031f271)
+- [ ] [<code>incusd/storage/drivers/zfs: Simplify dataset receive and fix progress handling</code>](https://github.com/lxc/incus/commit/a9099027dcaf30011d498ab2c0cf26215b864fbb)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3525,6 +3530,8 @@
 - [ ] [<code>Add installation instructions (#2085)</code>](https://github.com/AOMediaCodec/libavif/commit/3e0b4e0f9dc1815be2c6bc83d44737e625c1286a)
 - [ ] [<code>Remove spaces at the end of lines</code>](https://github.com/AOMediaCodec/libavif/commit/e2a37cb92948d7257d4b8d2694b858ceec12ef44)
 - [ ] [<code>Add .vscode to .gitignore (#2089)</code>](https://github.com/AOMediaCodec/libavif/commit/356984b58e6e9f9daa2cd4018a024516ad16e6cc)
+- [ ] [<code>Handle size 0 in avifROStreamReadBoxHeaderPartial (#2079)</code>](https://github.com/AOMediaCodec/libavif/commit/56f11fb945ea9a5f4533266f043986aadc58cc6c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4298,6 +4305,7 @@
 - [ ] [<code>parse-nm: add a workaround for the DoT DNS option</code>](https://github.com/canonical/netplan/commit/2c9f3da63e042d24b8bcc070666eac6eaeea9f84)
 - [ ] [<code>CI: Install netplan-ci PPA</code>](https://github.com/canonical/netplan/commit/2e4e42e7f2d667f83efc746babf01e87a3fb69c2)
 - [ ] [<code>parse: don't remove datalist items during iteration</code>](https://github.com/canonical/netplan/commit/7afe56f30e29befbc387305397a8cc2f6745fd07)
+- [ ] [<code>tools/keyfile_to_yaml: display the generated YAML</code>](https://github.com/canonical/netplan/commit/d77302eda5392770af1d96984db963dc0cd0d771)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
