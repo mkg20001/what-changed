@@ -3847,6 +3847,7 @@
 - [ ] [<code>fix(instance) create instance from custom image needs fingerprint in payload.source</code>](https://github.com/canonical/lxd-ui/commit/a067da1dc3cdd46bb5148336f5c62dfee2e550b3)
 - [ ] [<code>feat(volumes) use fetch all volumes endpoint</code>](https://github.com/canonical/lxd-ui/commit/67ea93bcb726d1fd8b35264a9085e312437d84a9)
 - [ ] [<code>chore(version) rollback to vite v4</code>](https://github.com/canonical/lxd-ui/commit/d09c13e66b9d3b1b5b734f4d0eea9643a3a8f587)
+- [ ] [<code>ci: fix coverage report artifact upload</code>](https://github.com/canonical/lxd-ui/commit/02a886def28eff4e7d926e7b9e1416d8727ae03a)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
