@@ -2488,6 +2488,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Replace util.ValueInSlice with slices.Contains</code>](https://github.com/lxc/distrobuilder/commit/eba1eb2207b1893dc02f8119b5fc572462872e27)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed hardcoded root partition device name sda2</code>](https://github.com/lxc/distrobuilder/commit/f7bb5233dde7188ebbbe81c86c1d36bc7fb1d23f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updated ubuntu example to use ROOTFS_DEVICE_UUID</code>](https://github.com/lxc/distrobuilder/commit/6f0a96b3326258079c4319026a3d9fcc69a8a5e1)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -2699,6 +2702,8 @@
 - [ ] [<code>docs: Add flathub verification code</code>](https://github.com/krille-chan/fluffychat/commit/9a8f604fc16edcf4f2a92ce3ca7d33e01c2e768c)
 - [ ] [<code>chore: do not use static openssl</code>](https://github.com/krille-chan/fluffychat/commit/54cff3cd32b7ededa71224e2c37b19cc59e838db)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: Show/hide third column in chat view</code>](https://github.com/krille-chan/fluffychat/commit/02ceddf9e8fdfd70553198df0f508c900ede62de)
+- [ ] [<code>fix: Make chat permission settings null and type safe</code>](https://github.com/krille-chan/fluffychat/commit/f6c6898fb6f89f912ef57e6515c348a6c012c1c8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2806,6 +2811,8 @@
 - [ ] [<code>docs: Add flathub verification code</code>](https://github.com/krille-chan/fluffychat/commit/9a8f604fc16edcf4f2a92ce3ca7d33e01c2e768c)
 - [ ] [<code>chore: do not use static openssl</code>](https://github.com/krille-chan/fluffychat/commit/54cff3cd32b7ededa71224e2c37b19cc59e838db)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat: Show/hide third column in chat view</code>](https://github.com/krille-chan/fluffychat/commit/02ceddf9e8fdfd70553198df0f508c900ede62de)
+- [ ] [<code>fix: Make chat permission settings null and type safe</code>](https://github.com/krille-chan/fluffychat/commit/f6c6898fb6f89f912ef57e6515c348a6c012c1c8)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4610,6 +4617,7 @@
 - [ ] [<code>uloop: automatically clear error information</code>](https://github.com/jow-/ucode/commit/99837f280b61de646d1635248e70827754553bef)
 - [ ] [<code>lib: fix documentation typo for `pop()` function</code>](https://github.com/jow-/ucode/commit/ba3855ae3775197f3594fc2615cac539075bd2fb)
 - [ ] [<code>vm: rework `in` operator semantics</code>](https://github.com/jow-/ucode/commit/be767ae197babd656d4f5d9c2d5013e39ddbe656)
+- [ ] [<code>ubus: add explicit support for deferring incoming requests</code>](https://github.com/jow-/ucode/commit/4ade84e8fb819eb296856452bd4258461d746ef8)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
