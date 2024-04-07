@@ -2491,6 +2491,9 @@
 - [ ] [<code>Fixed hardcoded root partition device name sda2</code>](https://github.com/lxc/distrobuilder/commit/f7bb5233dde7188ebbbe81c86c1d36bc7fb1d23f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Updated ubuntu example to use ROOTFS_DEVICE_UUID</code>](https://github.com/lxc/distrobuilder/commit/6f0a96b3326258079c4319026a3d9fcc69a8a5e1)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/fbf8250900eb0e1d382e68b1f0e7b85bd959634c)
+- [ ] [<code>incus: Bump to 6.0</code>](https://github.com/lxc/distrobuilder/commit/24067ed0901f40827770db80cc29937905fb3ac6)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -2704,6 +2707,16 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>feat: Show/hide third column in chat view</code>](https://github.com/krille-chan/fluffychat/commit/02ceddf9e8fdfd70553198df0f508c900ede62de)
 - [ ] [<code>fix: Make chat permission settings null and type safe</code>](https://github.com/krille-chan/fluffychat/commit/f6c6898fb6f89f912ef57e6515c348a6c012c1c8)
+- [ ] [<code>build: Use libhandy for linux desktop again</code>](https://github.com/krille-chan/fluffychat/commit/6349afae2beebabf696ec9815f9bc8bfb954e8d9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Revert "build: Use libhandy for linux desktop again"</code>](https://github.com/krille-chan/fluffychat/commit/6998c87b628ef9d87b2228676ecc4b40040236f3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Login with SSO on web</code>](https://github.com/krille-chan/fluffychat/commit/6f9da100a0b7f8e6fada51e03855d7ef6ee5812c)
+- [ ] [<code>build: Bump version to 1.19.1</code>](https://github.com/krille-chan/fluffychat/commit/da25c139c872e8f591f0f78a370a924bd9abb2ce)
+  - <sub>Tags: <code>rc1.19.1-1</code></sub>
+- [ ] [<code>ci: Update ruby</code>](https://github.com/krille-chan/fluffychat/commit/01eb992b455f6801491dbd5889e4908f3f262ddf)
+- [ ] [<code>ci: Update ruby version</code>](https://github.com/krille-chan/fluffychat/commit/d731c61b872e09b305fc45df4d7c5df96514e073)
+  - <sub>Tags: <code>rc1.19.1-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2813,6 +2826,16 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>feat: Show/hide third column in chat view</code>](https://github.com/krille-chan/fluffychat/commit/02ceddf9e8fdfd70553198df0f508c900ede62de)
 - [ ] [<code>fix: Make chat permission settings null and type safe</code>](https://github.com/krille-chan/fluffychat/commit/f6c6898fb6f89f912ef57e6515c348a6c012c1c8)
+- [ ] [<code>build: Use libhandy for linux desktop again</code>](https://github.com/krille-chan/fluffychat/commit/6349afae2beebabf696ec9815f9bc8bfb954e8d9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Revert "build: Use libhandy for linux desktop again"</code>](https://github.com/krille-chan/fluffychat/commit/6998c87b628ef9d87b2228676ecc4b40040236f3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Login with SSO on web</code>](https://github.com/krille-chan/fluffychat/commit/6f9da100a0b7f8e6fada51e03855d7ef6ee5812c)
+- [ ] [<code>build: Bump version to 1.19.1</code>](https://github.com/krille-chan/fluffychat/commit/da25c139c872e8f591f0f78a370a924bd9abb2ce)
+  - <sub>Tags: <code>rc1.19.1-1</code></sub>
+- [ ] [<code>ci: Update ruby</code>](https://github.com/krille-chan/fluffychat/commit/01eb992b455f6801491dbd5889e4908f3f262ddf)
+- [ ] [<code>ci: Update ruby version</code>](https://github.com/krille-chan/fluffychat/commit/d731c61b872e09b305fc45df4d7c5df96514e073)
+  - <sub>Tags: <code>rc1.19.1-2</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
