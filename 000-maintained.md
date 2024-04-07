@@ -2928,6 +2928,19 @@
 - [ ] [<code>doc/network/bridge: Update extended external_interfaces documentation</code>](https://github.com/lxc/incus/commit/de81e4c4d133ac6c9450880b6b51be5d5031f271)
 - [ ] [<code>incusd/storage/drivers/zfs: Simplify dataset receive and fix progress handling</code>](https://github.com/lxc/incus/commit/a9099027dcaf30011d498ab2c0cf26215b864fbb)
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/3286709bf262fccfd2edb55b031a6586b58c4032)
+- [ ] [<code>mini-oidc: Merge into main gomod</code>](https://github.com/lxc/incus/commit/bcd1cb44f32386fca73eb0465540eed51632788e)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5a0a7153a83bdd1a8e2c5d269336eedf8abe60f2)
+- [ ] [<code>go.mod: Bump package major version</code>](https://github.com/lxc/incus/commit/bf519f9ab21adfc0e8778d9e03f1543767655582)
+- [ ] [<code>global: Update Go package to v6</code>](https://github.com/lxc/incus/commit/09dc3e60bce383602775724ace19744a32bd2293)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>test: Update godeps.list</code>](https://github.com/lxc/incus/commit/a927a34228d79e8dc2e7e3accb5bb3cfe0ea1510)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>README: Update for godoc URLs</code>](https://github.com/lxc/incus/commit/cddd1ce2c4636f848ec886fbb1aa12548f02b415)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/2a11892453451e99cee0f46565369b309e220678)
+- [ ] [<code>cmd/incus: Fix import ordering</code>](https://github.com/lxc/incus/commit/ab77b68ad0aadb66c4695e687e427e853858445a)
+- [ ] [<code>incusd: Remove unneeded import renames</code>](https://github.com/lxc/incus/commit/cabc48dd31b2f2983095b1549259481fbefb5677)
+- [ ] [<code>incusd/instance: Fix duplicate import</code>](https://github.com/lxc/incus/commit/3549527380763fe97eb06ed6b4f8c278bf8b4077)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3791,6 +3804,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/05416319327e7bbd76c904d00d9c25027f63be5b)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: fix build on NixOS</code>](https://github.com/lxc/lxc/commit/4be1c12c1197b19fe79743f0713cc01334c14d5e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github: test the lxc multicall binary builds too</code>](https://github.com/lxc/lxc/commit/cca0f876728cd951ac59a3be6f53bb591dcb691b)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
