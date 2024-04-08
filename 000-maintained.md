@@ -3557,6 +3557,10 @@
 - [ ] [<code>Handle size 0 in avifROStreamReadBoxHeaderPartial (#2079)</code>](https://github.com/AOMediaCodec/libavif/commit/56f11fb945ea9a5f4533266f043986aadc58cc6c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix path order in cifuzz.yml (#2092)</code>](https://github.com/AOMediaCodec/libavif/commit/b28ebee691d1738eddcd8427d7a264131967ca9c)
+- [ ] [<code>iloc parsing layout closer to spec (#2091)</code>](https://github.com/AOMediaCodec/libavif/commit/8dea068dd7a88a9d62243aa452ccbdb1eb91b239)
+- [ ] [<code>Stricter infe parsing (#2090)</code>](https://github.com/AOMediaCodec/libavif/commit/c2fb85ed66c33d18755ab7387e9155785c97e1ce)
+- [ ] [<code>Revert "android_jni: Allow loading dav1d as a separate shared object"</code>](https://github.com/AOMediaCodec/libavif/commit/dea6ccf27f8b737c92eeae0bcca63a417d160832)
+- [ ] [<code>Document avifROStreamReadUX8 behavior for factor=0</code>](https://github.com/AOMediaCodec/libavif/commit/d074bae4b0b1d7423d102f6d9d5e0c5303971a51)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3837,6 +3841,8 @@
 - [ ] [<code>meson: fix build on NixOS</code>](https://github.com/lxc/lxc/commit/4be1c12c1197b19fe79743f0713cc01334c14d5e)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>github: test the lxc multicall binary builds too</code>](https://github.com/lxc/lxc/commit/cca0f876728cd951ac59a3be6f53bb591dcb691b)
+- [ ] [<code>lxc/network: handle non-existing sysctl <ifname>/disable_ipv6</code>](https://github.com/lxc/lxc/commit/dd663dcb39447653222f20a5c6c5f910d0cba107)
+- [ ] [<code>network: netdev_configure_server_veth: reduce scope of disable_ipv6_fd/path vars</code>](https://github.com/lxc/lxc/commit/ee8063bcfb83c6d9af3b0971b2421130b21a5a90)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -3887,6 +3893,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.3</code>](https://github.com/canonical/lxd-ui/commit/d402b45a34a04d7a85f98de119be470fd7695d24)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.4</code>](https://github.com/canonical/lxd-ui/commit/9f2f69d49acf01eec68c09afd94a2e0735f7e90f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(images) list minimal images after standard images in image selection modal</code>](https://github.com/canonical/lxd-ui/commit/c4230843103b2f789ba2c26512583ce2bce4fe21)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
