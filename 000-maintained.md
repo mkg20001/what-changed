@@ -2971,6 +2971,16 @@
 - [ ] [<code>cmd/incus: Fix import ordering</code>](https://github.com/lxc/incus/commit/ab77b68ad0aadb66c4695e687e427e853858445a)
 - [ ] [<code>incusd: Remove unneeded import renames</code>](https://github.com/lxc/incus/commit/cabc48dd31b2f2983095b1549259481fbefb5677)
 - [ ] [<code>incusd/instance: Fix duplicate import</code>](https://github.com/lxc/incus/commit/3549527380763fe97eb06ed6b4f8c278bf8b4077)
+- [ ] [<code>doc/projects: Tweak examples</code>](https://github.com/lxc/incus/commit/2122c2212e96443c15d6a7b2074bbcf7ea494ac7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Remove container resources (deprecated)</code>](https://github.com/lxc/incus/commit/8f87dfde001ffc3d93de680c3f886a3bb13cd7fc)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ad32b9aaedbb26e329a812707c5ee7d82625e48)
+- [ ] [<code>incus/create: Remove dead code</code>](https://github.com/lxc/incus/commit/5287fb55799b479fc0100a8a0687d7b4172458c8)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/23aad8b7e3ebeeb05070512b890746db71f36e9c)
+- [ ] [<code>incusd/daemon: Remove old migration logic</code>](https://github.com/lxc/incus/commit/b321562aea69f3daaee52ff9664ea3220a802b03)
+- [ ] [<code>incusd: Stop mentioning containers in resources</code>](https://github.com/lxc/incus/commit/859030aa96e7c4a0a765c7e97fd2b636542aa529)
+- [ ] [<code>doc/rest-api: Use instances API in example</code>](https://github.com/lxc/incus/commit/ea723b7f05e6659c36fc560c3147b3a9d248ff24)
+- [ ] [<code>incusd/db/cluster: containers URLs aren't valid in Incus</code>](https://github.com/lxc/incus/commit/0e0b85e42861f61dcf8bbedbbdd69f676db69cda)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
