@@ -2442,6 +2442,10 @@
 - [ ] [<code>Hive tree injections fix</code>](https://github.com/dbeaver/dbeaver/commit/be9d455d41d372103e3545495a6d9f6d116a096b)
 - [ ] [<code>Dashboard opening fix</code>](https://github.com/dbeaver/dbeaver/commit/1ecb7878a9ed790936d5a98d8b36389fb5099ff0)
 - [ ] [<code>dbeaver/pro#2683 Fix dialog message propagation (#23355)</code>](https://github.com/dbeaver/dbeaver/commit/e1fb82d93ba4627e61d3a4e311a900eb35e29625)
+- [ ] [<code>dbeaver/pro#2701 Fix columns validation with no connection in insert (#23307)</code>](https://github.com/dbeaver/dbeaver/commit/4aeb2d2d9f787594085240097753ed9f5612f908)
+- [ ] [<code>dbeaver/dbeaver#21452 Tasks mapping change error handle (#23364)</code>](https://github.com/dbeaver/dbeaver/commit/6a7a33cdc572bb1fed4057b84f2c42a6518da225)
+- [ ] [<code>dbeaver/dbeaver#23335 Custom dashboards migration fix (#23341)</code>](https://github.com/dbeaver/dbeaver/commit/631b81fb42c3a6379eff6dad2146fc139a542e07)
+- [ ] [<code>24.0.3 version bump</code>](https://github.com/dbeaver/dbeaver/commit/a6f14206bd2ccce240ddc8fc684c83fe3aac3a4c)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2498,6 +2502,8 @@
 - [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/distrobuilder/commit/b7240053d8f4db44c94e455f895302524ccb5411)
 - [ ] [<code>Set repack-windows drivers default value</code>](https://github.com/lxc/distrobuilder/commit/f86cad1afeb501f8294e6ed8a3bec058e60b5c4a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Clean up iso mount gen warnings</code>](https://github.com/lxc/distrobuilder/commit/5851fd9a1e1ea4070c30f466e5859b45503fc256)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -2600,6 +2606,8 @@
 - [ ] [<code>fix: cleanup l10n placeholder types</code>](https://github.com/canonical/firmware-updater/commit/0f50ba2e290c557f67e264a6d48e8442a4fc0d71)
 - [ ] [<code>feat: add arb stubs</code>](https://github.com/canonical/firmware-updater/commit/1e928f13c38fb6a977e24ad050f2ff6873d2f842)
 - [ ] [<code>docs: update readme, add weblate links</code>](https://github.com/canonical/firmware-updater/commit/e52180074c0221d5b065729012a121f072cf2e8f)
+- [ ] [<code>feat: enable arm64 builds</code>](https://github.com/canonical/firmware-updater/commit/5fa0fa3b696ec9f4346b78607f6f77c8ea365225)
+- [ ] [<code>fix: handle errors when fwupd detects no devices</code>](https://github.com/canonical/firmware-updater/commit/3f3f6d8abd3cbc30a4a0b376e20aa35af4d40073)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
@@ -3502,6 +3510,8 @@
 - [ ] [<code>Stricter infe parsing (#2090)</code>](https://github.com/AOMediaCodec/libavif/commit/c2fb85ed66c33d18755ab7387e9155785c97e1ce)
 - [ ] [<code>Revert "android_jni: Allow loading dav1d as a separate shared object"</code>](https://github.com/AOMediaCodec/libavif/commit/dea6ccf27f8b737c92eeae0bcca63a417d160832)
 - [ ] [<code>Document avifROStreamReadUX8 behavior for factor=0</code>](https://github.com/AOMediaCodec/libavif/commit/d074bae4b0b1d7423d102f6d9d5e0c5303971a51)
+- [ ] [<code>Bump fuzztest. (#2087)</code>](https://github.com/AOMediaCodec/libavif/commit/30adc11f446cec8c259c78a8ac118fa1890e0379)
+- [ ] [<code>Add references to fuzztest bugs. (#2096)</code>](https://github.com/AOMediaCodec/libavif/commit/7bc40b189a64a0cabb453684da3e4cbe66acc1d8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
