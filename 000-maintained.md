@@ -2446,6 +2446,8 @@
 - [ ] [<code>dbeaver/dbeaver#21452 Tasks mapping change error handle (#23364)</code>](https://github.com/dbeaver/dbeaver/commit/6a7a33cdc572bb1fed4057b84f2c42a6518da225)
 - [ ] [<code>dbeaver/dbeaver#23335 Custom dashboards migration fix (#23341)</code>](https://github.com/dbeaver/dbeaver/commit/631b81fb42c3a6379eff6dad2146fc139a542e07)
 - [ ] [<code>24.0.3 version bump</code>](https://github.com/dbeaver/dbeaver/commit/a6f14206bd2ccce240ddc8fc684c83fe3aac3a4c)
+- [ ] [<code>dbeaver/pro#2434 Scheduler info API and view (#23312)</code>](https://github.com/dbeaver/dbeaver/commit/ef23ba8b8b9c6a7f86613b9a870eac5d2669ba5d)
+- [ ] [<code>dbeaver/pro#2729 SSH page settings load fix (#23358)</code>](https://github.com/dbeaver/dbeaver/commit/732ffa8654a6ae79534ba2efed109e227503fe36)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2725,11 +2727,18 @@
 - [ ] [<code>Revert "build: Use libhandy for linux desktop again"</code>](https://github.com/krille-chan/fluffychat/commit/6998c87b628ef9d87b2228676ecc4b40040236f3)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Login with SSO on web</code>](https://github.com/krille-chan/fluffychat/commit/6f9da100a0b7f8e6fada51e03855d7ef6ee5812c)
+- [ ] [<code>build: Update emoji picker package</code>](https://github.com/krille-chan/fluffychat/commit/97292c1e3afd25b54bf61993ce28465eb4e88efd)
+- [ ] [<code>build: Update flutter_map package</code>](https://github.com/krille-chan/fluffychat/commit/7627f7b8ed12869306613a6d89de179968a7a9c7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update all dependencies and remove vibrator package</code>](https://github.com/krille-chan/fluffychat/commit/58c873c5a79de6a9f4bc162dab9c30e5202196fa)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Bump version to 1.19.1</code>](https://github.com/krille-chan/fluffychat/commit/da25c139c872e8f591f0f78a370a924bd9abb2ce)
   - <sub>Tags: <code>rc1.19.1-1</code></sub>
 - [ ] [<code>ci: Update ruby</code>](https://github.com/krille-chan/fluffychat/commit/01eb992b455f6801491dbd5889e4908f3f262ddf)
 - [ ] [<code>ci: Update ruby version</code>](https://github.com/krille-chan/fluffychat/commit/d731c61b872e09b305fc45df4d7c5df96514e073)
-  - <sub>Tags: <code>rc1.19.1-2</code></sub>
+  - <sub>Tags: <code>rc1.19.1-2</code> <code>v1.19.1</code></sub>
+- [ ] [<code>build: (deps): bump peaceiris/actions-gh-pages from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/b0fb2bb80d4560cd857378bf3d7f5776c8516325)
+- [ ] [<code>fix: Localizations from weblate confused by unknownEvent locale</code>](https://github.com/krille-chan/fluffychat/commit/be0df9e19bf79f43f33ac6fa1301013a6e9db072)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2844,11 +2853,18 @@
 - [ ] [<code>Revert "build: Use libhandy for linux desktop again"</code>](https://github.com/krille-chan/fluffychat/commit/6998c87b628ef9d87b2228676ecc4b40040236f3)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Login with SSO on web</code>](https://github.com/krille-chan/fluffychat/commit/6f9da100a0b7f8e6fada51e03855d7ef6ee5812c)
+- [ ] [<code>build: Update emoji picker package</code>](https://github.com/krille-chan/fluffychat/commit/97292c1e3afd25b54bf61993ce28465eb4e88efd)
+- [ ] [<code>build: Update flutter_map package</code>](https://github.com/krille-chan/fluffychat/commit/7627f7b8ed12869306613a6d89de179968a7a9c7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update all dependencies and remove vibrator package</code>](https://github.com/krille-chan/fluffychat/commit/58c873c5a79de6a9f4bc162dab9c30e5202196fa)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Bump version to 1.19.1</code>](https://github.com/krille-chan/fluffychat/commit/da25c139c872e8f591f0f78a370a924bd9abb2ce)
   - <sub>Tags: <code>rc1.19.1-1</code></sub>
 - [ ] [<code>ci: Update ruby</code>](https://github.com/krille-chan/fluffychat/commit/01eb992b455f6801491dbd5889e4908f3f262ddf)
 - [ ] [<code>ci: Update ruby version</code>](https://github.com/krille-chan/fluffychat/commit/d731c61b872e09b305fc45df4d7c5df96514e073)
-  - <sub>Tags: <code>rc1.19.1-2</code></sub>
+  - <sub>Tags: <code>rc1.19.1-2</code> <code>v1.19.1</code></sub>
+- [ ] [<code>build: (deps): bump peaceiris/actions-gh-pages from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/b0fb2bb80d4560cd857378bf3d7f5776c8516325)
+- [ ] [<code>fix: Localizations from weblate confused by unknownEvent locale</code>](https://github.com/krille-chan/fluffychat/commit/be0df9e19bf79f43f33ac6fa1301013a6e9db072)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3849,6 +3865,12 @@
 - [ ] [<code>fix(images) list minimal images after standard images in image selection modal</code>](https://github.com/canonical/lxd-ui/commit/c4230843103b2f789ba2c26512583ce2bce4fe21)
 - [ ] [<code>chore(version) bump version to 0.8</code>](https://github.com/canonical/lxd-ui/commit/0646fa2a3a556388ed578caef1647fd535e6f2f2)
   - <sub>Tags: <code>0.8</code></sub>
+- [ ] [<code>fix(test) ensure network forward test is stable WD-10196</code>](https://github.com/canonical/lxd-ui/commit/8f83970c926b97d66099c1fd78e703693dbc00bb)
+- [ ] [<code>chore(test) add custom image test WD-10108</code>](https://github.com/canonical/lxd-ui/commit/e3f50573f9a31a5e14128afbdf11fb294449c3ca)
+- [ ] [<code>chore(tests) use alpine cloud image for faster tests</code>](https://github.com/canonical/lxd-ui/commit/74f03eafc88323dcf0391ac036c3867cd8e531fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(coverage) use lxc delete correctly</code>](https://github.com/canonical/lxd-ui/commit/595a1679eb654d0d7c013f73093f4f9953a912a9)
+- [ ] [<code>feat: update aside panels to use react portal</code>](https://github.com/canonical/lxd-ui/commit/6e07531e101d8149b3eef6c1b55c2c745c8c17f3)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4427,6 +4449,19 @@
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.11.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.11.0...HEAD)
 
 - [ ] [<code>fix(gui): appstream metainfo warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dec0ad3f2659205ff6efdb8d12ec333ba9f3a0b4)
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7259c6c6938c5b62876f8b21f255f5535616d8b5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(android): auto connect when device connects via bluetooth</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b4b1105e09784f815357db7eb4f9aea92592cda9)
+- [ ] [<code>fix(android): coroutines started more than once</code>](https://github.com/Oppzippy/OpenSCQ30/commit/81282d36056857f2952f7a6a574c4cd8d012c3e8)
+- [ ] [<code>feat(android): add setting to toggle for auto connect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/720b2d90566858ee19c541a2c7b37f73d33dd2e5)
+- [ ] [<code>feat(android): improve pairing/unpairing ux</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43ea515d25ec5e60db41d3fd6d28fd66e92e4b1c)
+- [ ] [<code>fix(android): autoconnect not respecting settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f90d0ded56a30571f7a68c97051096307de58eb)
+- [ ] [<code>fix(android): only autoconnect to paired devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/81f97bcdb48f4974b90d6e20b1d7a9942472713f)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5914ad6e33b982ed467fc9216a553f18fa4be8dd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(cli): add shell completions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0ef8f07c83c90e2939bddc9f98f91d83b76be385)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: bump actions/configure-pages from 4 to 5 (#129)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b34cdaef74ece6a54d4b9770ea11b08f468dd555)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -4446,7 +4481,7 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint22 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint22...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.3.10.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.34.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.34.0...HEAD)
