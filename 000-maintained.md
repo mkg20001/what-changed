@@ -10,6 +10,11 @@
 - [ ] [<code>Update README.md</code>](https://github.com/mgit-at/cert-viewer/commit/c0d99dc1167b7dd9b9e6152650bbcee4557cb77e)
 - [ ] [<code>Add nix files</code>](https://github.com/mgit-at/cert-viewer/commit/d2038900cc343a77b876893845ed8417b684d371)
 - [ ] [<code>Sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/1694081d444d21b6a028ba87322d1e15089a5379)
+- [ ] [<code>cert-viewer: update dependencies, go version, bazel version</code>](https://github.com/mgit-at/cert-viewer/commit/e1d844444d56051743863c8e6b1afc256405c245)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cert-viewer: update bazel deps</code>](https://github.com/mgit-at/cert-viewer/commit/45e99e4a22d1e39943896e38b0098586d7f04d33)
+- [ ] [<code>bazel: add lock file</code>](https://github.com/mgit-at/cert-viewer/commit/bc60625055304b929fd4980505aff6f8b0f6be7c)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -2448,6 +2453,12 @@
 - [ ] [<code>24.0.3 version bump</code>](https://github.com/dbeaver/dbeaver/commit/a6f14206bd2ccce240ddc8fc684c83fe3aac3a4c)
 - [ ] [<code>dbeaver/pro#2434 Scheduler info API and view (#23312)</code>](https://github.com/dbeaver/dbeaver/commit/ef23ba8b8b9c6a7f86613b9a870eac5d2669ba5d)
 - [ ] [<code>dbeaver/pro#2729 SSH page settings load fix (#23358)</code>](https://github.com/dbeaver/dbeaver/commit/732ffa8654a6ae79534ba2efed109e227503fe36)
+- [ ] [<code>dbeaver/pro#2636 Driver provider properties reuse (#23320)</code>](https://github.com/dbeaver/dbeaver/commit/2a456951a411104fa725694cde114b02d4d376dc)
+- [ ] [<code>#21654 subquery autocompletion (#23273)</code>](https://github.com/dbeaver/dbeaver/commit/ccec25579faad3fedfefe550afc2bdbcc256dfe9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Dbeaver/pro#2450 informix data types (#23322)</code>](https://github.com/dbeaver/dbeaver/commit/5ad3a4aecead08531250e7e1635b9d4326a1fb5c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#23352 PostgreSQL connection fix. Legacy UA timezone support update fixed (#23380)</code>](https://github.com/dbeaver/dbeaver/commit/cc42f7902936096dcd3916e65573aa27f7d65024)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2506,6 +2517,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Clean up iso mount gen warnings</code>](https://github.com/lxc/distrobuilder/commit/5851fd9a1e1ea4070c30f466e5859b45503fc256)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Refactory find boot.wim and install.wim logic</code>](https://github.com/lxc/distrobuilder/commit/1c98c9207061dea202706807860a460678a4e2b8)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -2739,6 +2752,7 @@
   - <sub>Tags: <code>rc1.19.1-2</code> <code>v1.19.1</code></sub>
 - [ ] [<code>build: (deps): bump peaceiris/actions-gh-pages from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/b0fb2bb80d4560cd857378bf3d7f5776c8516325)
 - [ ] [<code>fix: Localizations from weblate confused by unknownEvent locale</code>](https://github.com/krille-chan/fluffychat/commit/be0df9e19bf79f43f33ac6fa1301013a6e9db072)
+- [ ] [<code>fix: Background color of images with transparency</code>](https://github.com/krille-chan/fluffychat/commit/71afa178066f39eed0e1555f7471e7c9eb76cbcd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2865,6 +2879,7 @@
   - <sub>Tags: <code>rc1.19.1-2</code> <code>v1.19.1</code></sub>
 - [ ] [<code>build: (deps): bump peaceiris/actions-gh-pages from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/b0fb2bb80d4560cd857378bf3d7f5776c8516325)
 - [ ] [<code>fix: Localizations from weblate confused by unknownEvent locale</code>](https://github.com/krille-chan/fluffychat/commit/be0df9e19bf79f43f33ac6fa1301013a6e9db072)
+- [ ] [<code>fix: Background color of images with transparency</code>](https://github.com/krille-chan/fluffychat/commit/71afa178066f39eed0e1555f7471e7c9eb76cbcd)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3871,6 +3886,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(coverage) use lxc delete correctly</code>](https://github.com/canonical/lxd-ui/commit/595a1679eb654d0d7c013f73093f4f9953a912a9)
 - [ ] [<code>feat: update aside panels to use react portal</code>](https://github.com/canonical/lxd-ui/commit/6e07531e101d8149b3eef6c1b55c2c745c8c17f3)
+- [ ] [<code>fix(test) ensure PS1 is visible in instance terminal test before typing a command</code>](https://github.com/canonical/lxd-ui/commit/1f8135d7711aadb03dc17dc1c4a24109519de627)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
