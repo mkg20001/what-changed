@@ -2463,6 +2463,9 @@
 - [ ] [<code>dbeaver/dbeaver#23352 PostgreSQL connection fix. Legacy UA timezone support update fixed (#23380)</code>](https://github.com/dbeaver/dbeaver/commit/cc42f7902936096dcd3916e65573aa27f7d65024)
 - [ ] [<code>dbeaver/dbeaver#23354 Fix IAE</code>](https://github.com/dbeaver/dbeaver/commit/7f001094e97c4bfebd70fe127a9e34d77bbd357b)
 - [ ] [<code>dbeaver/pro#2460 Fix outline update on parser disable/enable (#23379)</code>](https://github.com/dbeaver/dbeaver/commit/3b5c475f9205940fc69f1b22b2bdbbe1dd62608f)
+- [ ] [<code>dbeaver/dbeaver#20577 Trim user credentials (#23366)</code>](https://github.com/dbeaver/dbeaver/commit/e5134ffc63e87fbee1e636e7c1ed01fe09295b87)
+- [ ] [<code>#22489 Add smart mode for blank line is a statement delimiter setting (#23294)</code>](https://github.com/dbeaver/dbeaver/commit/fc1dda4ccae2e235894eab2274d92599accc0725)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3554,6 +3557,10 @@
 - [ ] [<code>feat(cmake): Use FetchContent and ExternalProject for local deps (#1744)</code>](https://github.com/AOMediaCodec/libavif/commit/f1b936d7394da74cddb505f4dcd61e492b5c2233)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>find_package</code></sub>
+- [ ] [<code>Do not use AVIF_LOCAL for libxml2 and gtest. (#2097)</code>](https://github.com/AOMediaCodec/libavif/commit/c92d9ecd79324110ad7ff0962e5cd5746031fb0d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
+- [ ] [<code>Fix zlib build when using ext/zlibpng.cmd (#2098)</code>](https://github.com/AOMediaCodec/libavif/commit/98ce107ee731a80894e389b26f972e48e82a259d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4638,3 +4645,6 @@
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Fix typos.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/aff1a0d9a4d0907be1e07b3aab7c94be53a85f46)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Implement org.freedesktop.impl.portal.Background. (#15)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4be1618e39f8afe32a1419e0ad9b5588594bf500)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
