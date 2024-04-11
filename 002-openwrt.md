@@ -52,6 +52,28 @@
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
+- [ ] [<code>CMakeLists: update cmake minimum version to 3.5</code>](https://git.openwrt.org/project/uqmi.git/commit/0f64b69923338efbca21904e1a42949d2a34c746)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CMakeLists: improve generated files</code>](https://git.openwrt.org/project/uqmi.git/commit/c47125dc3e7cc1ba40b7a9ef699af71a659dedd8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CMakeLists: set no-dangling-pointer</code>](https://git.openwrt.org/project/uqmi.git/commit/ebfe8b47b366092457df7a7f631c8f746e8455fd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CMakeLists: refactor SOURCES variable to allow later adding uqmid</code>](https://git.openwrt.org/project/uqmi.git/commit/a043a7407bf602cac66c9e7bb2b81aa2e50a6993)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>dev.c: add comment to qmi_request_wait()</code>](https://git.openwrt.org/project/uqmi.git/commit/8ff632a048bf72be64046dfdcb533f7745a1d237)
+- [ ] [<code>commands-nas: fix gcc warning</code>](https://git.openwrt.org/project/uqmi.git/commit/a4fbdcc6b7dca4e04b50e0c62beb03e29ab32c62)
+- [ ] [<code>commands: make `struct blob_buf status` public</code>](https://git.openwrt.org/project/uqmi.git/commit/9ffd0e2f8c06e23b8363145c2d7b792f0951550b)
+- [ ] [<code>commands-nas: add missing includes</code>](https://git.openwrt.org/project/uqmi.git/commit/bae945f47bba0218fa3f4a8d3ba9392f54a5002b)
+- [ ] [<code>dev.c: add missing import strings.h</code>](https://git.openwrt.org/project/uqmi.git/commit/1503bc7e8332222bcdb8b8b6c2c37d0404dc0b79)
+- [ ] [<code>move qmi_get_error_str to into utils.c</code>](https://git.openwrt.org/project/uqmi.git/commit/5320c1d656ed30b467b6555472721b25fd3f0c58)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>qmi-struct.h: add missing includes</code>](https://git.openwrt.org/project/uqmi.git/commit/ddbf864afa46ef7af9f3f853738e4f18d80fb157)
+- [ ] [<code>data/code-gen: add support for indications</code>](https://git.openwrt.org/project/uqmi.git/commit/7c77e7742e486b4acd68f3f6c86207a2f79c6843)
+- [ ] [<code>uqmi: commands-uim: fix uninitialized use of card_application_state</code>](https://git.openwrt.org/project/uqmi.git/commit/2b57ee1acc5929025b9124496a8c51ea58005451)
+- [ ] [<code>.gitignore build/ directories</code>](https://git.openwrt.org/project/uqmi.git/commit/4591f0ae8c1b54780172fec419b01a0b4d7fa819)
+- [ ] [<code>reorganize source code in common and uqmi specific parts</code>](https://git.openwrt.org/project/uqmi.git/commit/02e42c0c299531882ef35b2d4ed5a851a32aaeb2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [263b9a97cf7e1e2467319c23832b705fc01190b5 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/263b9a97cf7e1e2467319c23832b705fc01190b5...HEAD)
 
