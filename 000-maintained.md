@@ -15,6 +15,8 @@
 - [ ] [<code>cert-viewer: update bazel deps</code>](https://github.com/mgit-at/cert-viewer/commit/45e99e4a22d1e39943896e38b0098586d7f04d33)
 - [ ] [<code>bazel: add lock file</code>](https://github.com/mgit-at/cert-viewer/commit/bc60625055304b929fd4980505aff6f8b0f6be7c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>cert-viewer: update nix dependencies</code>](https://github.com/mgit-at/cert-viewer/commit/3172d1a8e6a916bfea70a08df048710dc9172f06)
+  - <sub>Tags: <code>v0.9.1</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -2459,6 +2461,8 @@
 - [ ] [<code>Dbeaver/pro#2450 informix data types (#23322)</code>](https://github.com/dbeaver/dbeaver/commit/5ad3a4aecead08531250e7e1635b9d4326a1fb5c)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>dbeaver/dbeaver#23352 PostgreSQL connection fix. Legacy UA timezone support update fixed (#23380)</code>](https://github.com/dbeaver/dbeaver/commit/cc42f7902936096dcd3916e65573aa27f7d65024)
+- [ ] [<code>dbeaver/dbeaver#23354 Fix IAE</code>](https://github.com/dbeaver/dbeaver/commit/7f001094e97c4bfebd70fe127a9e34d77bbd357b)
+- [ ] [<code>dbeaver/pro#2460 Fix outline update on parser disable/enable (#23379)</code>](https://github.com/dbeaver/dbeaver/commit/3b5c475f9205940fc69f1b22b2bdbbe1dd62608f)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2753,6 +2757,8 @@
 - [ ] [<code>build: (deps): bump peaceiris/actions-gh-pages from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/b0fb2bb80d4560cd857378bf3d7f5776c8516325)
 - [ ] [<code>fix: Localizations from weblate confused by unknownEvent locale</code>](https://github.com/krille-chan/fluffychat/commit/be0df9e19bf79f43f33ac6fa1301013a6e9db072)
 - [ ] [<code>fix: Background color of images with transparency</code>](https://github.com/krille-chan/fluffychat/commit/71afa178066f39eed0e1555f7471e7c9eb76cbcd)
+- [ ] [<code>docs: Fix typo in android app description</code>](https://github.com/krille-chan/fluffychat/commit/1b9eb6c61f7c261725bb118bd9c96d44f98148a1)
+- [ ] [<code>fix: More logs when database fails to init and trycatch sendInitNotification</code>](https://github.com/krille-chan/fluffychat/commit/5128785c66f1762f274655edffbeb3d0bb5de8c1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2880,6 +2886,8 @@
 - [ ] [<code>build: (deps): bump peaceiris/actions-gh-pages from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/b0fb2bb80d4560cd857378bf3d7f5776c8516325)
 - [ ] [<code>fix: Localizations from weblate confused by unknownEvent locale</code>](https://github.com/krille-chan/fluffychat/commit/be0df9e19bf79f43f33ac6fa1301013a6e9db072)
 - [ ] [<code>fix: Background color of images with transparency</code>](https://github.com/krille-chan/fluffychat/commit/71afa178066f39eed0e1555f7471e7c9eb76cbcd)
+- [ ] [<code>docs: Fix typo in android app description</code>](https://github.com/krille-chan/fluffychat/commit/1b9eb6c61f7c261725bb118bd9c96d44f98148a1)
+- [ ] [<code>fix: More logs when database fails to init and trycatch sendInitNotification</code>](https://github.com/krille-chan/fluffychat/commit/5128785c66f1762f274655edffbeb3d0bb5de8c1)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3543,6 +3551,9 @@
 - [ ] [<code>Document avifROStreamReadUX8 behavior for factor=0</code>](https://github.com/AOMediaCodec/libavif/commit/d074bae4b0b1d7423d102f6d9d5e0c5303971a51)
 - [ ] [<code>Bump fuzztest. (#2087)</code>](https://github.com/AOMediaCodec/libavif/commit/30adc11f446cec8c259c78a8ac118fa1890e0379)
 - [ ] [<code>Add references to fuzztest bugs. (#2096)</code>](https://github.com/AOMediaCodec/libavif/commit/7bc40b189a64a0cabb453684da3e4cbe66acc1d8)
+- [ ] [<code>feat(cmake): Use FetchContent and ExternalProject for local deps (#1744)</code>](https://github.com/AOMediaCodec/libavif/commit/f1b936d7394da74cddb505f4dcd61e492b5c2233)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3835,51 +3846,8 @@
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.7 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.7...HEAD)
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.8 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.8...HEAD)
 
-- [ ] [<code>feat: multi-select rows with shift key</code>](https://github.com/canonical/lxd-ui/commit/a7743e0b0abe39a46b9dd0b3e62dc507d762bd53)
-- [ ] [<code>fix: create instance from custom iso</code>](https://github.com/canonical/lxd-ui/commit/fbac3d3d59263f8a503aeb74ac840557d8862384)
-- [ ] [<code>feat(network) use config api for network form help texts and defaults, unify network form key handling WD-7391</code>](https://github.com/canonical/lxd-ui/commit/c2cc226b67a70be48fcb6a213f10ac9de7a47d91)
-- [ ] [<code>chore(test) add warning page test WD-9460</code>](https://github.com/canonical/lxd-ui/commit/8eae6f22a547306ce09bbcafb662e147a39b3746)
-- [ ] [<code>feat: refactor side panels and enabled overlay panels</code>](https://github.com/canonical/lxd-ui/commit/8240ade6655fa0c4f587223c8e70be7c981d8ed5)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.9.0</code>](https://github.com/canonical/lxd-ui/commit/a3f60d944f66d5bdc2860e57117d7cf88bf1518a)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(code) verious code style fixes</code>](https://github.com/canonical/lxd-ui/commit/80dbb3bd6930ef56909afbcc87dfef6210c4a74f)
-- [ ] [<code>chore(tics) ensure deps are installed before running the tics report</code>](https://github.com/canonical/lxd-ui/commit/706847ef611b81da7e377de38d2cfcebf8d3599c)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.50.6</code>](https://github.com/canonical/lxd-ui/commit/2a4e9f79e4f597322a373307dcb75bfecd0eaf81)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.0</code>](https://github.com/canonical/lxd-ui/commit/29959d923932da63d00f11f82a0931ff98b305df)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(terminal) forward scroll event from vm to parent container. fixes #700</code>](https://github.com/canonical/lxd-ui/commit/5af14ce88752b560cb5640550749de30b7843a42)
-- [ ] [<code>feat: limit functionalities for storage pool with driver that's not fully supported in the UI</code>](https://github.com/canonical/lxd-ui/commit/f598accd458a9dc53a2646ba944a9b9f9d206852)
-- [ ] [<code>fix(yaml) include yaml editor code in build. Avoid to rely on external domain cdn.jsdelivr.net to load editor code WD-9954</code>](https://github.com/canonical/lxd-ui/commit/d66aac0642f8b0392f55bdc10524f3a8ddaf89ce)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.1</code>](https://github.com/canonical/lxd-ui/commit/524a4a965f2f911c4fb4fb11100b56abe631020d)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(coverage) fix workflow: stop dotrun before uploading coverage report to avoid active symlinks</code>](https://github.com/canonical/lxd-ui/commit/a677194ac59337cc1e68f40bb1b781111bb169a7)
-- [ ] [<code>fix(login) ensure login button is not broken into two rows on medium sized screens WD-9657</code>](https://github.com/canonical/lxd-ui/commit/caaa0ae489bcb932d41adc48dcad794e6d354e6e)
-- [ ] [<code>feat(test) add tests for custom fields on instances, profiles, projects, networks, storage pools and storage volumes WD-9656</code>](https://github.com/canonical/lxd-ui/commit/47c1f066726caf4d93f6b447332303f82672fc06)
-- [ ] [<code>fix(image) avoid null pointer exception on custom images, that have no properties set. fixes #716</code>](https://github.com/canonical/lxd-ui/commit/bc383c9db1e3006c100a38385dd287a00de8a1f1)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.9.1</code>](https://github.com/canonical/lxd-ui/commit/c908da4a43ee7fd6f06a8df9093af114d19f266b)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore: revert info icon style fix from #655 due to upstream vanilla update</code>](https://github.com/canonical/lxd-ui/commit/5f4f919f630c10d5ede009dc38281b56854091f3)
-- [ ] [<code>chore(deps) update to vite 5, update rollup to unblock s390x build WD-8319</code>](https://github.com/canonical/lxd-ui/commit/8788a34248edbe47e4d8561fe5b7c29bc6b32d15)
-- [ ] [<code>chore(deps) update to rollup 4.13.2 for ppc64 support</code>](https://github.com/canonical/lxd-ui/commit/2932f8d9b623b52ca8b0395c106e6ba32cd191eb)
-- [ ] [<code>feat(images) add lxd images server</code>](https://github.com/canonical/lxd-ui/commit/e39d6b1cd21e8c400aa0693a2c7c5f1cbbd2056a)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.2</code>](https://github.com/canonical/lxd-ui/commit/8cfaae6a02e95be9d1003b4ad5c084544d9edb95)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(instance) create instance from custom image needs fingerprint in payload.source</code>](https://github.com/canonical/lxd-ui/commit/a067da1dc3cdd46bb5148336f5c62dfee2e550b3)
-- [ ] [<code>feat(volumes) use fetch all volumes endpoint</code>](https://github.com/canonical/lxd-ui/commit/67ea93bcb726d1fd8b35264a9085e312437d84a9)
-- [ ] [<code>chore(version) rollback to vite v4</code>](https://github.com/canonical/lxd-ui/commit/d09c13e66b9d3b1b5b734f4d0eea9643a3a8f587)
-- [ ] [<code>ci: fix coverage report artifact upload</code>](https://github.com/canonical/lxd-ui/commit/02a886def28eff4e7d926e7b9e1416d8727ae03a)
-- [ ] [<code>ci: remove all monaco-editor directories when uploading coverage report bundle</code>](https://github.com/canonical/lxd-ui/commit/3783e81522391a987873c74c3ee18177cc276631)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.3</code>](https://github.com/canonical/lxd-ui/commit/d402b45a34a04d7a85f98de119be470fd7695d24)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.4</code>](https://github.com/canonical/lxd-ui/commit/9f2f69d49acf01eec68c09afd94a2e0735f7e90f)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(images) list minimal images after standard images in image selection modal</code>](https://github.com/canonical/lxd-ui/commit/c4230843103b2f789ba2c26512583ce2bce4fe21)
-- [ ] [<code>chore(version) bump version to 0.8</code>](https://github.com/canonical/lxd-ui/commit/0646fa2a3a556388ed578caef1647fd535e6f2f2)
-  - <sub>Tags: <code>0.8</code></sub>
 - [ ] [<code>fix(test) ensure network forward test is stable WD-10196</code>](https://github.com/canonical/lxd-ui/commit/8f83970c926b97d66099c1fd78e703693dbc00bb)
 - [ ] [<code>chore(test) add custom image test WD-10108</code>](https://github.com/canonical/lxd-ui/commit/e3f50573f9a31a5e14128afbdf11fb294449c3ca)
 - [ ] [<code>chore(tests) use alpine cloud image for faster tests</code>](https://github.com/canonical/lxd-ui/commit/74f03eafc88323dcf0391ac036c3867cd8e531fb)
