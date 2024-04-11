@@ -46,7 +46,6 @@
 - [ ] [<code>Switch to GNOME Online Accounts GTK</code>](https://github.com/linuxmint/cinnamon/commit/d22f889c376734f0ca5d904885c2772e790fbadc)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/fa9911d71dcedecc7e42eed8b1b8e56f01e57f26)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_info: Add 'about' as a keyword for System Info (#12136)</code>](https://github.com/linuxmint/cinnamon/commit/b43cb79d6a2f3ecc0c81070938c18a26d0070bdc)
   - <sub>Keywords: <code>usr</code></sub>
@@ -70,8 +69,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>modalDialog.js: Port to Clutter animations (#12072)</code>](https://github.com/linuxmint/cinnamon/commit/dc6f626521d86ce28b5155475f6a3b28ac04354d)
-  - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>desklet.js: Port to Clutter animations (#12073)</code>](https://github.com/linuxmint/cinnamon/commit/7fa70d0e83b352e7eaf245ea21afbb6d0548330d)
+- [ ] [<code>Add interface for xdg portal requests.</code>](https://github.com/linuxmint/cinnamon/commit/73015fd7272c773923cefbd7b53ec594600000b0)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
