@@ -5,18 +5,8 @@
 - [ ] [<code>ui: Add 64bit conversion entries in ConversionTable</code>](https://github.com/afrantzis/bless/commit/2c8dfa976d486f78c4a13aba5ca376a9ea6ee568)
 - [ ] [<code>plugins: Add 64bit support to ConversionTable</code>](https://github.com/afrantzis/bless/commit/103fbd6f4e449666e72fe21d3151a94adef5b880)
 
-#### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.0 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.0...HEAD)
+#### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
-- [ ] [<code>Update README.md</code>](https://github.com/mgit-at/cert-viewer/commit/c0d99dc1167b7dd9b9e6152650bbcee4557cb77e)
-- [ ] [<code>Add nix files</code>](https://github.com/mgit-at/cert-viewer/commit/d2038900cc343a77b876893845ed8417b684d371)
-- [ ] [<code>Sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/1694081d444d21b6a028ba87322d1e15089a5379)
-- [ ] [<code>cert-viewer: update dependencies, go version, bazel version</code>](https://github.com/mgit-at/cert-viewer/commit/e1d844444d56051743863c8e6b1afc256405c245)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>cert-viewer: update bazel deps</code>](https://github.com/mgit-at/cert-viewer/commit/45e99e4a22d1e39943896e38b0098586d7f04d33)
-- [ ] [<code>bazel: add lock file</code>](https://github.com/mgit-at/cert-viewer/commit/bc60625055304b929fd4980505aff6f8b0f6be7c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>cert-viewer: update nix dependencies</code>](https://github.com/mgit-at/cert-viewer/commit/3172d1a8e6a916bfea70a08df048710dc9172f06)
-  - <sub>Tags: <code>v0.9.1</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -2466,6 +2456,11 @@
 - [ ] [<code>dbeaver/dbeaver#20577 Trim user credentials (#23366)</code>](https://github.com/dbeaver/dbeaver/commit/e5134ffc63e87fbee1e636e7c1ed01fe09295b87)
 - [ ] [<code>#22489 Add smart mode for blank line is a statement delimiter setting (#23294)</code>](https://github.com/dbeaver/dbeaver/commit/fc1dda4ccae2e235894eab2274d92599accc0725)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Dbeaver/pro#2640 browser auth fix (#23357)</code>](https://github.com/dbeaver/dbeaver/commit/0467002285878705426d554e3930f9dafed590cc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>#22299 Text hidden in sql editor by a strange diagonal white rectangle (#23408)</code>](https://github.com/dbeaver/dbeaver/commit/a79a4d5d845fd0f6817eeee404801feafc7b9875)
+- [ ] [<code>dbeaver/dbeaver#23332 warn users about possibility of having sensitive info in diagnostic archives (#23333)</code>](https://github.com/dbeaver/dbeaver/commit/c2f3371cca86ba05821244c686d6794d02f31354)
+- [ ] [<code>Cb 4703 hide private key (#23384)</code>](https://github.com/dbeaver/dbeaver/commit/3d0c897dbc3788d9c80616845c792e81100e0919)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3567,6 +3562,12 @@
 - [ ] [<code>Fix zlib build when using ext/zlibpng.cmd (#2098)</code>](https://github.com/AOMediaCodec/libavif/commit/98ce107ee731a80894e389b26f972e48e82a259d)
 - [ ] [<code>Experimental AVIF Sample Transform (#2050)</code>](https://github.com/AOMediaCodec/libavif/commit/834019c06c820949d98b90772a09d01cb138a4ac)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Disable test_cmd_avifgainmaputil if no libxml (#2100)</code>](https://github.com/AOMediaCodec/libavif/commit/d0d16c42dfdee1c90e57315769d9f4555c2771e3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Rename avifSampleTransformExpressionIsValid() arg (#2101)</code>](https://github.com/AOMediaCodec/libavif/commit/f9f8696180a59b5860f5366c288e018571d788c2)
+- [ ] [<code>Fix leak in avifsampletransformtest (#2102)</code>](https://github.com/AOMediaCodec/libavif/commit/9cd4b535dac87122eb3be2b414d19e6f0ff61926)
+- [ ] [<code>Enable CI cache in build/_deps (#2103)</code>](https://github.com/AOMediaCodec/libavif/commit/0aa28a0ba7a1350ba9a21f11862d5e8aafc54a79)
+- [ ] [<code>Fix SampleTransformTest.NotEquivalent (#2104)</code>](https://github.com/AOMediaCodec/libavif/commit/dc4b212140cecfe41359d1c5470d5896b4c84889)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3869,6 +3870,8 @@
 - [ ] [<code>feat: update aside panels to use react portal</code>](https://github.com/canonical/lxd-ui/commit/6e07531e101d8149b3eef6c1b55c2c745c8c17f3)
 - [ ] [<code>fix(test) ensure PS1 is visible in instance terminal test before typing a command</code>](https://github.com/canonical/lxd-ui/commit/1f8135d7711aadb03dc17dc1c4a24109519de627)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.10.0</code>](https://github.com/canonical/lxd-ui/commit/6e9fb76eb3ee2c89ce0a327866e2e7098f400870)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
