@@ -2526,6 +2526,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Refactory find boot.wim and install.wim logic</code>](https://github.com/lxc/distrobuilder/commit/1c98c9207061dea202706807860a460678a4e2b8)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Refactor WIM info parsing</code>](https://github.com/lxc/distrobuilder/commit/571596cc456c5bc829860152fe398b86d9ef6ff9)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
