@@ -2528,6 +2528,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Refactor WIM info parsing</code>](https://github.com/lxc/distrobuilder/commit/571596cc456c5bc829860152fe398b86d9ef6ff9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Support x86 architecture and refactor the detecting logic</code>](https://github.com/lxc/distrobuilder/commit/b237c6c69d607373365531d06e6a44d842529a39)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -3563,6 +3565,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
 - [ ] [<code>Fix zlib build when using ext/zlibpng.cmd (#2098)</code>](https://github.com/AOMediaCodec/libavif/commit/98ce107ee731a80894e389b26f972e48e82a259d)
+- [ ] [<code>Experimental AVIF Sample Transform (#2050)</code>](https://github.com/AOMediaCodec/libavif/commit/834019c06c820949d98b90772a09d01cb138a4ac)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4316,6 +4320,8 @@
 - [ ] [<code>CI: Install netplan-ci PPA</code>](https://github.com/canonical/netplan/commit/2e4e42e7f2d667f83efc746babf01e87a3fb69c2)
 - [ ] [<code>parse: don't remove datalist items during iteration</code>](https://github.com/canonical/netplan/commit/7afe56f30e29befbc387305397a8cc2f6745fd07)
 - [ ] [<code>tools/keyfile_to_yaml: display the generated YAML</code>](https://github.com/canonical/netplan/commit/d77302eda5392770af1d96984db963dc0cd0d771)
+- [ ] [<code>tests: import the config fuzzing tests</code>](https://github.com/canonical/netplan/commit/dca72275e0241897732858119b2b5dc3c5ef77a5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
