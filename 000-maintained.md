@@ -3568,6 +3568,7 @@
 - [ ] [<code>Fix leak in avifsampletransformtest (#2102)</code>](https://github.com/AOMediaCodec/libavif/commit/9cd4b535dac87122eb3be2b414d19e6f0ff61926)
 - [ ] [<code>Enable CI cache in build/_deps (#2103)</code>](https://github.com/AOMediaCodec/libavif/commit/0aa28a0ba7a1350ba9a21f11862d5e8aafc54a79)
 - [ ] [<code>Fix SampleTransformTest.NotEquivalent (#2104)</code>](https://github.com/AOMediaCodec/libavif/commit/dc4b212140cecfe41359d1c5470d5896b4c84889)
+- [ ] [<code>Bump fuzztest to fix OOM on oss-fuzz.</code>](https://github.com/AOMediaCodec/libavif/commit/8eb2fcabeb2a4818ce8e521d83d450a0f23e9461)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
