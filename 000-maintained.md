@@ -2761,6 +2761,11 @@
 - [ ] [<code>fix: Background color of images with transparency</code>](https://github.com/krille-chan/fluffychat/commit/71afa178066f39eed0e1555f7471e7c9eb76cbcd)
 - [ ] [<code>docs: Fix typo in android app description</code>](https://github.com/krille-chan/fluffychat/commit/1b9eb6c61f7c261725bb118bd9c96d44f98148a1)
 - [ ] [<code>fix: More logs when database fails to init and trycatch sendInitNotification</code>](https://github.com/krille-chan/fluffychat/commit/5128785c66f1762f274655edffbeb3d0bb5de8c1)
+- [ ] [<code>fix: Allow unencrypted database if gnome keyring not present or platform does not support it</code>](https://github.com/krille-chan/fluffychat/commit/d14276f5a94bea89ac8f7e011d99c89e2edb9487)
+- [ ] [<code>build: Bump version to 1.19.2</code>](https://github.com/krille-chan/fluffychat/commit/e72a5af5b3da29cad5c41fe2338e0b81bb3b9f0f)
+  - <sub>Tags: <code>rc1.19.2-1</code></sub>
+- [ ] [<code>chore: Do not send video msc object yet</code>](https://github.com/krille-chan/fluffychat/commit/86b0d04041d44f7c701948e28b9b216eddc85536)
+- [ ] [<code>Revert "chore: Do not send video msc object yet"</code>](https://github.com/krille-chan/fluffychat/commit/23f4c64e503f78602db7bb74d7bffcaf3002d511)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2890,6 +2895,11 @@
 - [ ] [<code>fix: Background color of images with transparency</code>](https://github.com/krille-chan/fluffychat/commit/71afa178066f39eed0e1555f7471e7c9eb76cbcd)
 - [ ] [<code>docs: Fix typo in android app description</code>](https://github.com/krille-chan/fluffychat/commit/1b9eb6c61f7c261725bb118bd9c96d44f98148a1)
 - [ ] [<code>fix: More logs when database fails to init and trycatch sendInitNotification</code>](https://github.com/krille-chan/fluffychat/commit/5128785c66f1762f274655edffbeb3d0bb5de8c1)
+- [ ] [<code>fix: Allow unencrypted database if gnome keyring not present or platform does not support it</code>](https://github.com/krille-chan/fluffychat/commit/d14276f5a94bea89ac8f7e011d99c89e2edb9487)
+- [ ] [<code>build: Bump version to 1.19.2</code>](https://github.com/krille-chan/fluffychat/commit/e72a5af5b3da29cad5c41fe2338e0b81bb3b9f0f)
+  - <sub>Tags: <code>rc1.19.2-1</code></sub>
+- [ ] [<code>chore: Do not send video msc object yet</code>](https://github.com/krille-chan/fluffychat/commit/86b0d04041d44f7c701948e28b9b216eddc85536)
+- [ ] [<code>Revert "chore: Do not send video msc object yet"</code>](https://github.com/krille-chan/fluffychat/commit/23f4c64e503f78602db7bb74d7bffcaf3002d511)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
