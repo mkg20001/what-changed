@@ -2461,6 +2461,7 @@
 - [ ] [<code>#22299 Text hidden in sql editor by a strange diagonal white rectangle (#23408)</code>](https://github.com/dbeaver/dbeaver/commit/a79a4d5d845fd0f6817eeee404801feafc7b9875)
 - [ ] [<code>dbeaver/dbeaver#23332 warn users about possibility of having sensitive info in diagnostic archives (#23333)</code>](https://github.com/dbeaver/dbeaver/commit/c2f3371cca86ba05821244c686d6794d02f31354)
 - [ ] [<code>Cb 4703 hide private key (#23384)</code>](https://github.com/dbeaver/dbeaver/commit/3d0c897dbc3788d9c80616845c792e81100e0919)
+- [ ] [<code>dbeaver/pro#2690 App init sequence fix (#23415)</code>](https://github.com/dbeaver/dbeaver/commit/de0e1d8779b6f6d1d4e6bee928f8486b744e010a)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2766,6 +2767,10 @@
   - <sub>Tags: <code>rc1.19.2-1</code></sub>
 - [ ] [<code>chore: Do not send video msc object yet</code>](https://github.com/krille-chan/fluffychat/commit/86b0d04041d44f7c701948e28b9b216eddc85536)
 - [ ] [<code>Revert "chore: Do not send video msc object yet"</code>](https://github.com/krille-chan/fluffychat/commit/23f4c64e503f78602db7bb74d7bffcaf3002d511)
+  - <sub>Tags: <code>v1.19.2</code></sub>
+- [ ] [<code>design: Adjust settings design</code>](https://github.com/krille-chan/fluffychat/commit/e11195f4fc4839d227914cbf178c85923c5b084d)
+- [ ] [<code>design: Adjust chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/e43a4ad65f1d4eadd5196e8fde4eb332b0010d64)
+- [ ] [<code>design: Follow up chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/13661138235825bae88fc14fb4558862f3fc5761)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2900,6 +2905,10 @@
   - <sub>Tags: <code>rc1.19.2-1</code></sub>
 - [ ] [<code>chore: Do not send video msc object yet</code>](https://github.com/krille-chan/fluffychat/commit/86b0d04041d44f7c701948e28b9b216eddc85536)
 - [ ] [<code>Revert "chore: Do not send video msc object yet"</code>](https://github.com/krille-chan/fluffychat/commit/23f4c64e503f78602db7bb74d7bffcaf3002d511)
+  - <sub>Tags: <code>v1.19.2</code></sub>
+- [ ] [<code>design: Adjust settings design</code>](https://github.com/krille-chan/fluffychat/commit/e11195f4fc4839d227914cbf178c85923c5b084d)
+- [ ] [<code>design: Adjust chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/e43a4ad65f1d4eadd5196e8fde4eb332b0010d64)
+- [ ] [<code>design: Follow up chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/13661138235825bae88fc14fb4558862f3fc5761)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
