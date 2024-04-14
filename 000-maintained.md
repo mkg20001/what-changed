@@ -2771,6 +2771,13 @@
 - [ ] [<code>design: Adjust settings design</code>](https://github.com/krille-chan/fluffychat/commit/e11195f4fc4839d227914cbf178c85923c5b084d)
 - [ ] [<code>design: Adjust chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/e43a4ad65f1d4eadd5196e8fde4eb332b0010d64)
 - [ ] [<code>design: Follow up chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/13661138235825bae88fc14fb4558862f3fc5761)
+- [ ] [<code>design: Follow up settings design</code>](https://github.com/krille-chan/fluffychat/commit/cbdea137725e4f887788fcdb0808bda3e2a9147c)
+- [ ] [<code>design: New chat access settings</code>](https://github.com/krille-chan/fluffychat/commit/c300220773e09596c692b5e29e156b505e0ec330)
+- [ ] [<code>chore: follow up accept decline kick</code>](https://github.com/krille-chan/fluffychat/commit/45e72428e29e923340a1b223eca89ab313d92453)
+- [ ] [<code>chore: Follow up knock room</code>](https://github.com/krille-chan/fluffychat/commit/4353c8ddd13f9ae80da5ad84ecbc0c6eeee773bd)
+- [ ] [<code>chore: Follow up localize join rules</code>](https://github.com/krille-chan/fluffychat/commit/2d5f496d3c91adc1d0005100fa57e6475d82690c)
+- [ ] [<code>chore: Update user has knocked localization with emoji</code>](https://github.com/krille-chan/fluffychat/commit/d691f4641901365f216d4a359005793ddba7f0ca)
+- [ ] [<code>chore: Follow up share alias</code>](https://github.com/krille-chan/fluffychat/commit/2095e3ebad29f37e9e30c39d00e15a1605e0a19f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2909,8 +2916,15 @@
 - [ ] [<code>design: Adjust settings design</code>](https://github.com/krille-chan/fluffychat/commit/e11195f4fc4839d227914cbf178c85923c5b084d)
 - [ ] [<code>design: Adjust chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/e43a4ad65f1d4eadd5196e8fde4eb332b0010d64)
 - [ ] [<code>design: Follow up chat settings design</code>](https://github.com/krille-chan/fluffychat/commit/13661138235825bae88fc14fb4558862f3fc5761)
+- [ ] [<code>design: Follow up settings design</code>](https://github.com/krille-chan/fluffychat/commit/cbdea137725e4f887788fcdb0808bda3e2a9147c)
+- [ ] [<code>design: New chat access settings</code>](https://github.com/krille-chan/fluffychat/commit/c300220773e09596c692b5e29e156b505e0ec330)
+- [ ] [<code>chore: follow up accept decline kick</code>](https://github.com/krille-chan/fluffychat/commit/45e72428e29e923340a1b223eca89ab313d92453)
+- [ ] [<code>chore: Follow up knock room</code>](https://github.com/krille-chan/fluffychat/commit/4353c8ddd13f9ae80da5ad84ecbc0c6eeee773bd)
+- [ ] [<code>chore: Follow up localize join rules</code>](https://github.com/krille-chan/fluffychat/commit/2d5f496d3c91adc1d0005100fa57e6475d82690c)
+- [ ] [<code>chore: Update user has knocked localization with emoji</code>](https://github.com/krille-chan/fluffychat/commit/d691f4641901365f216d4a359005793ddba7f0ca)
+- [ ] [<code>chore: Follow up share alias</code>](https://github.com/krille-chan/fluffychat/commit/2095e3ebad29f37e9e30c39d00e15a1605e0a19f)
 
-#### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
+#### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
 
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
