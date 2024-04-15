@@ -2462,6 +2462,13 @@
 - [ ] [<code>dbeaver/dbeaver#23332 warn users about possibility of having sensitive info in diagnostic archives (#23333)</code>](https://github.com/dbeaver/dbeaver/commit/c2f3371cca86ba05821244c686d6794d02f31354)
 - [ ] [<code>Cb 4703 hide private key (#23384)</code>](https://github.com/dbeaver/dbeaver/commit/3d0c897dbc3788d9c80616845c792e81100e0919)
 - [ ] [<code>dbeaver/pro#2690 App init sequence fix (#23415)</code>](https://github.com/dbeaver/dbeaver/commit/de0e1d8779b6f6d1d4e6bee928f8486b744e010a)
+- [ ] [<code>dbeaver/pro#2716 [ERD] Ortho layout should be reorganized (#23406)</code>](https://github.com/dbeaver/dbeaver/commit/f00627da9ad93e9ddfafc693214769205deef9ef)
+- [ ] [<code>Dbeaver/dbeaver#23354 ai truncate messages (#23405)</code>](https://github.com/dbeaver/dbeaver/commit/635778617c8a46f62ed7723b820109f0f7f10c05)
+- [ ] [<code>dbeaver/pro#2705 Disable credentials save (by policy) (#23319)</code>](https://github.com/dbeaver/dbeaver/commit/d16c5760e9493dc0fdc1e1456ff0ce21ea5404b1)
+- [ ] [<code>Cb 4502 dpi sql execute support (#23385)</code>](https://github.com/dbeaver/dbeaver/commit/9243d6a56d5928b4fdc8172cbecca400f7144467)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>dbeaver/dbeaver#23362 erd composite fk representation (#23388)</code>](https://github.com/dbeaver/dbeaver/commit/8e628f3f5288f7da3391f21f83a05e52a572b9c3)
+- [ ] [<code>dbeaver/dbeaver#22433 Specify global monitor for Entity Diagram association processing (#22512)</code>](https://github.com/dbeaver/dbeaver/commit/ba410d72e3c636de01c2f786a7ab4d549c0b3701)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3617,6 +3624,13 @@
 - [ ] [<code>Fix SampleTransformTest.NotEquivalent (#2104)</code>](https://github.com/AOMediaCodec/libavif/commit/dc4b212140cecfe41359d1c5470d5896b4c84889)
 - [ ] [<code>Bump fuzztest to fix OOM on oss-fuzz.</code>](https://github.com/AOMediaCodec/libavif/commit/8eb2fcabeb2a4818ce8e521d83d450a0f23e9461)
 - [ ] [<code>Add missing library deps to rav1e::rav1e on Windows. (#2106)</code>](https://github.com/AOMediaCodec/libavif/commit/5280f6294eacf53da4080fc5a3a93c8e5190a312)
+- [ ] [<code>Update reduced header experiment (#2111)</code>](https://github.com/AOMediaCodec/libavif/commit/d5fe6e4d349d431282d243082733de8a99fd2c8e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add missing IMPORTED_IMPLIB for dav1d which creates a CMake warning. (#2112)</code>](https://github.com/AOMediaCodec/libavif/commit/d5048f4de749f9343edf5b6bdb13ca2651de2a7e)
+- [ ] [<code>Add Windows CI with installed packages. (#2110)</code>](https://github.com/AOMediaCodec/libavif/commit/f0a9e6c66c72410a1ed29a83db6091a055c15d73)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove deprecated FOUND_VAR (#2113)</code>](https://github.com/AOMediaCodec/libavif/commit/6c2ad21799e235e41047999b7f0a92e01fe961c5)
+- [ ] [<code>Update MinimizedItemBox experimental prototype (#2114)</code>](https://github.com/AOMediaCodec/libavif/commit/7cb941b96b2c105c8b9bf54c903c69925dcb1a75)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3924,6 +3938,7 @@
 - [ ] [<code>chore(code) avoid react imports and add return types</code>](https://github.com/canonical/lxd-ui/commit/df5111f354de5c17ac4039d730919f01d5e98222)
 - [ ] [<code>fix(test) avoid flaky instance terminal test</code>](https://github.com/canonical/lxd-ui/commit/2403f1781cb17d7bb4652c31ce91c4b1ccac866d)
 - [ ] [<code>feat: add link to iso volumes from image list</code>](https://github.com/canonical/lxd-ui/commit/2d9a11c2abc3af52fb9c8494e7e1f6564bbbd32d)
+- [ ] [<code>feat(operations) auto refresh ops on visiting the ops list and add a refresh button</code>](https://github.com/canonical/lxd-ui/commit/2942dca4ce67ad97bc73b33d54c58e58c4b22222)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4377,6 +4392,7 @@
 - [ ] [<code>tools/keyfile_to_yaml: display the generated YAML</code>](https://github.com/canonical/netplan/commit/d77302eda5392770af1d96984db963dc0cd0d771)
 - [ ] [<code>tests: import the config fuzzing tests</code>](https://github.com/canonical/netplan/commit/dca72275e0241897732858119b2b5dc3c5ef77a5)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ATTN: parse/bonds: handle same primary in multiple bonds (#451)</code>](https://github.com/canonical/netplan/commit/7e22e6f9cf909720b7e065ff521ff13d5f32be73)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4697,6 +4713,7 @@
 - [ ] [<code>lib: fix documentation typo for `pop()` function</code>](https://github.com/jow-/ucode/commit/ba3855ae3775197f3594fc2615cac539075bd2fb)
 - [ ] [<code>vm: rework `in` operator semantics</code>](https://github.com/jow-/ucode/commit/be767ae197babd656d4f5d9c2d5013e39ddbe656)
 - [ ] [<code>ubus: add explicit support for deferring incoming requests</code>](https://github.com/jow-/ucode/commit/4ade84e8fb819eb296856452bd4258461d746ef8)
+- [ ] [<code>uci: remove incorrectly documentated reorder() parameter</code>](https://github.com/jow-/ucode/commit/cfe137be068a7ba1895d3c9bcb7b38d21e5a95dd)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
