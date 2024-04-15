@@ -2778,6 +2778,13 @@
 - [ ] [<code>chore: Follow up localize join rules</code>](https://github.com/krille-chan/fluffychat/commit/2d5f496d3c91adc1d0005100fa57e6475d82690c)
 - [ ] [<code>chore: Update user has knocked localization with emoji</code>](https://github.com/krille-chan/fluffychat/commit/d691f4641901365f216d4a359005793ddba7f0ca)
 - [ ] [<code>chore: Follow up share alias</code>](https://github.com/krille-chan/fluffychat/commit/2095e3ebad29f37e9e30c39d00e15a1605e0a19f)
+- [ ] [<code>chore: Follow up share room alias</code>](https://github.com/krille-chan/fluffychat/commit/9720dcf8eef694c803e534ef010f5ab56549cb17)
+- [ ] [<code>chore: Follow up join rules</code>](https://github.com/krille-chan/fluffychat/commit/0684bb63acf626bcca9b55a056607b5efc148495)
+- [ ] [<code>chore: Follow up manage room aliases</code>](https://github.com/krille-chan/fluffychat/commit/4dbe85b27827873a24f0c46def980b58b0cd79f8)
+- [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/de68f62aefb1d53a144ac5849126aa0e70410ddb)
+- [ ] [<code>design: Redesign permissions settings with dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/ac7e424b7ba9b8df2bbf36170f4ff937241f795b)
+- [ ] [<code>design: Improve user permission settings</code>](https://github.com/krille-chan/fluffychat/commit/216d3bd40313879fcf844672d1ca1da2cb0b0557)
+- [ ] [<code>chore: Follow up nicer dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/2a4fd6927ce382b487658e49a4e3a1334f043f3d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2923,6 +2930,13 @@
 - [ ] [<code>chore: Follow up localize join rules</code>](https://github.com/krille-chan/fluffychat/commit/2d5f496d3c91adc1d0005100fa57e6475d82690c)
 - [ ] [<code>chore: Update user has knocked localization with emoji</code>](https://github.com/krille-chan/fluffychat/commit/d691f4641901365f216d4a359005793ddba7f0ca)
 - [ ] [<code>chore: Follow up share alias</code>](https://github.com/krille-chan/fluffychat/commit/2095e3ebad29f37e9e30c39d00e15a1605e0a19f)
+- [ ] [<code>chore: Follow up share room alias</code>](https://github.com/krille-chan/fluffychat/commit/9720dcf8eef694c803e534ef010f5ab56549cb17)
+- [ ] [<code>chore: Follow up join rules</code>](https://github.com/krille-chan/fluffychat/commit/0684bb63acf626bcca9b55a056607b5efc148495)
+- [ ] [<code>chore: Follow up manage room aliases</code>](https://github.com/krille-chan/fluffychat/commit/4dbe85b27827873a24f0c46def980b58b0cd79f8)
+- [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/de68f62aefb1d53a144ac5849126aa0e70410ddb)
+- [ ] [<code>design: Redesign permissions settings with dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/ac7e424b7ba9b8df2bbf36170f4ff937241f795b)
+- [ ] [<code>design: Improve user permission settings</code>](https://github.com/krille-chan/fluffychat/commit/216d3bd40313879fcf844672d1ca1da2cb0b0557)
+- [ ] [<code>chore: Follow up nicer dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/2a4fd6927ce382b487658e49a4e3a1334f043f3d)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
 
@@ -3602,6 +3616,7 @@
 - [ ] [<code>Enable CI cache in build/_deps (#2103)</code>](https://github.com/AOMediaCodec/libavif/commit/0aa28a0ba7a1350ba9a21f11862d5e8aafc54a79)
 - [ ] [<code>Fix SampleTransformTest.NotEquivalent (#2104)</code>](https://github.com/AOMediaCodec/libavif/commit/dc4b212140cecfe41359d1c5470d5896b4c84889)
 - [ ] [<code>Bump fuzztest to fix OOM on oss-fuzz.</code>](https://github.com/AOMediaCodec/libavif/commit/8eb2fcabeb2a4818ce8e521d83d450a0f23e9461)
+- [ ] [<code>Add missing library deps to rav1e::rav1e on Windows. (#2106)</code>](https://github.com/AOMediaCodec/libavif/commit/5280f6294eacf53da4080fc5a3a93c8e5190a312)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -3906,6 +3921,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(deps): update dependency vanilla-framework to v4.10.0</code>](https://github.com/canonical/lxd-ui/commit/6e9fb76eb3ee2c89ce0a327866e2e7098f400870)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(code) avoid react imports and add return types</code>](https://github.com/canonical/lxd-ui/commit/df5111f354de5c17ac4039d730919f01d5e98222)
+- [ ] [<code>fix(test) avoid flaky instance terminal test</code>](https://github.com/canonical/lxd-ui/commit/2403f1781cb17d7bb4652c31ce91c4b1ccac866d)
+- [ ] [<code>feat: add link to iso volumes from image list</code>](https://github.com/canonical/lxd-ui/commit/2d9a11c2abc3af52fb9c8494e7e1f6564bbbd32d)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
