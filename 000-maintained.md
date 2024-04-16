@@ -2983,6 +2983,11 @@
 - [ ] [<code>doc/rest-api: Use instances API in example</code>](https://github.com/lxc/incus/commit/ea723b7f05e6659c36fc560c3147b3a9d248ff24)
 - [ ] [<code>incusd/db/cluster: containers URLs aren't valid in Incus</code>](https://github.com/lxc/incus/commit/0e0b85e42861f61dcf8bbedbbdd69f676db69cda)
 - [ ] [<code>incusd/instances: Don't start instances when evacuated</code>](https://github.com/lxc/incus/commit/6b3a2bf770de3db734d172cc4e827a4f1c009f34)
+- [ ] [<code>doc/installing: Sort source-build distro instructions</code>](https://github.com/lxc/incus/commit/a7c76c251cb3416009d7ba4b6eda389130d5f995)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc/installing: Add OpenSUSE source instructions</code>](https://github.com/lxc/incus/commit/219643a9477fcb48aa39203fab808393e68e5bed)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>doc/installing: Add Alpine instructions</code>](https://github.com/lxc/incus/commit/195fbf27ce5f1f2d91906e973e79d4522a3193e0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3015,6 +3020,11 @@
 - [ ] [<code>doc/rest-api: Use instances API in example</code>](https://github.com/lxc/incus/commit/ea723b7f05e6659c36fc560c3147b3a9d248ff24)
 - [ ] [<code>incusd/db/cluster: containers URLs aren't valid in Incus</code>](https://github.com/lxc/incus/commit/0e0b85e42861f61dcf8bbedbbdd69f676db69cda)
 - [ ] [<code>incusd/instances: Don't start instances when evacuated</code>](https://github.com/lxc/incus/commit/6b3a2bf770de3db734d172cc4e827a4f1c009f34)
+- [ ] [<code>doc/installing: Sort source-build distro instructions</code>](https://github.com/lxc/incus/commit/a7c76c251cb3416009d7ba4b6eda389130d5f995)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc/installing: Add OpenSUSE source instructions</code>](https://github.com/lxc/incus/commit/219643a9477fcb48aa39203fab808393e68e5bed)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>doc/installing: Add Alpine instructions</code>](https://github.com/lxc/incus/commit/195fbf27ce5f1f2d91906e973e79d4522a3193e0)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
