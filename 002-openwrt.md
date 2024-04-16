@@ -74,6 +74,12 @@
 - [ ] [<code>.gitignore build/ directories</code>](https://git.openwrt.org/project/uqmi.git/commit/4591f0ae8c1b54780172fec419b01a0b4d7fa819)
 - [ ] [<code>reorganize source code in common and uqmi specific parts</code>](https://git.openwrt.org/project/uqmi.git/commit/02e42c0c299531882ef35b2d4ed5a851a32aaeb2)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>uqmi: support C reserved keywords in upstream JSON files</code>](https://git.openwrt.org/project/uqmi.git/commit/368d46c1099652aaed540968a5f458c4bb9c0922)
+- [ ] [<code>uqmi: sync data from libqmi project</code>](https://git.openwrt.org/project/uqmi.git/commit/3e782be3b4883f56d2c59c1c76359a1391fe377a)
+- [ ] [<code>uqmi: Add basic 5G NR support</code>](https://git.openwrt.org/project/uqmi.git/commit/e25d0420bdd3cca4318539cae39ee5b8230f8ed6)
+- [ ] [<code>uqmi: create function to print radio interface string</code>](https://git.openwrt.org/project/uqmi.git/commit/6ef41d64c50d16d5d28c9694a5e65b0850b4e37f)
+- [ ] [<code>uqmi: print radio interfaces in serving system command</code>](https://git.openwrt.org/project/uqmi.git/commit/e7207bec95f02f2f7a98254d642186a082af838d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [263b9a97cf7e1e2467319c23832b705fc01190b5 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/263b9a97cf7e1e2467319c23832b705fc01190b5...HEAD)
 
