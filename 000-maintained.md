@@ -2474,6 +2474,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>CB-4825 fix ai sync (#23414)</code>](https://github.com/dbeaver/dbeaver/commit/e081d28ae38196f7ab81015fa330bb834932cc7b)
 - [ ] [<code>dbeaver/pro#2513 TOAD config import (#23374)</code>](https://github.com/dbeaver/dbeaver/commit/fcd23b3c5ba6b79465969012bb57b6d6fffbd0c0)
+- [ ] [<code>dbeaver/dbeaver#23135 Driver init exception handle fix (#23304)</code>](https://github.com/dbeaver/dbeaver/commit/3882355b53a2a65e7cd037dbcfe0ac203f2c0734)
+- [ ] [<code>CB-4964 add clob query part to database dialect (#23370)</code>](https://github.com/dbeaver/dbeaver/commit/938de9dea71360819c5cab8660677909fef7b7c0)
+- [ ] [<code>dbeaver/pro#2300-vqb-aliases-remane Fix progress control (#23435)</code>](https://github.com/dbeaver/dbeaver/commit/82f0085761dd0d47a7bf7f96db18a9b62db3aed9)
+- [ ] [<code>CB-4629 user preference store (#23403)</code>](https://github.com/dbeaver/dbeaver/commit/67ba00775f0ac698ad090083e0909587b4fa6953)
+- [ ] [<code>Cb 4767 generate domains using deployment manager (#23437)</code>](https://github.com/dbeaver/dbeaver/commit/8e69cfa69a24d26acc4cadc8950e17c1283a431c)
+- [ ] [<code>Cb 4631 backup database (#23325)</code>](https://github.com/dbeaver/dbeaver/commit/39172d1743cc47ed901e6f57ee4315e556ac7ec6)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2993,6 +2999,7 @@
 - [ ] [<code>doc/installing: Add OpenSUSE source instructions</code>](https://github.com/lxc/incus/commit/219643a9477fcb48aa39203fab808393e68e5bed)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>doc/installing: Add Alpine instructions</code>](https://github.com/lxc/incus/commit/195fbf27ce5f1f2d91906e973e79d4522a3193e0)
+- [ ] [<code>incus/aliases: fix completion regression</code>](https://github.com/lxc/incus/commit/06949bf3468105e8500fabfc839662a9d29059dd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3030,6 +3037,7 @@
 - [ ] [<code>doc/installing: Add OpenSUSE source instructions</code>](https://github.com/lxc/incus/commit/219643a9477fcb48aa39203fab808393e68e5bed)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>doc/installing: Add Alpine instructions</code>](https://github.com/lxc/incus/commit/195fbf27ce5f1f2d91906e973e79d4522a3193e0)
+- [ ] [<code>incus/aliases: fix completion regression</code>](https://github.com/lxc/incus/commit/06949bf3468105e8500fabfc839662a9d29059dd)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3646,6 +3654,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Remove deprecated FOUND_VAR (#2113)</code>](https://github.com/AOMediaCodec/libavif/commit/6c2ad21799e235e41047999b7f0a92e01fe961c5)
 - [ ] [<code>Update MinimizedItemBox experimental prototype (#2114)</code>](https://github.com/AOMediaCodec/libavif/commit/7cb941b96b2c105c8b9bf54c903c69925dcb1a75)
+- [ ] [<code>Add colors-animated-8bpc-alpha-exif-xmp.avif test (#2116)</code>](https://github.com/AOMediaCodec/libavif/commit/6a5ec63e67afddbf1bae2e008d66fe92964bc7b9)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4697,6 +4706,7 @@
 - [ ] [<code>Bump @testing-library/react from 14.2.1 to 15.0.2 (#505)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/baa8e4ad9543ecd0f62fc1a719e06884f3d3cd20)
 - [ ] [<code>Bump the npm_and_yarn group with 3 updates (#496)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b6546b89add5757cd330c58ecf674fd65c2d15f1)
 - [ ] [<code>Bump ra-language-french from 4.16.12 to 4.16.15 (#503)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa1f86491fc90bd1646b75c9c76dc38d80d0370b)
+- [ ] [<code>Add farsi translations (#504)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f6e193c51c47e9cb3f0dd29731a9d8bcb026a44b)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
