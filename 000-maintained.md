@@ -2469,6 +2469,11 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>dbeaver/dbeaver#23362 erd composite fk representation (#23388)</code>](https://github.com/dbeaver/dbeaver/commit/8e628f3f5288f7da3391f21f83a05e52a572b9c3)
 - [ ] [<code>dbeaver/dbeaver#22433 Specify global monitor for Entity Diagram association processing (#22512)</code>](https://github.com/dbeaver/dbeaver/commit/ba410d72e3c636de01c2f786a7ab4d549c0b3701)
+- [ ] [<code>dbeaver/pro#2666 Mask sensitive information in the log (#23356)</code>](https://github.com/dbeaver/dbeaver/commit/83b11de44379c656c92bd0ec588db5273b1a28bb)
+- [ ] [<code>dbeaver/dbeaver-unused-dependency (#23433)</code>](https://github.com/dbeaver/dbeaver/commit/3bb7a71d5cedd10ce957842ed2d05f3e4d2ee3e7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CB-4825 fix ai sync (#23414)</code>](https://github.com/dbeaver/dbeaver/commit/e081d28ae38196f7ab81015fa330bb834932cc7b)
+- [ ] [<code>dbeaver/pro#2513 TOAD config import (#23374)</code>](https://github.com/dbeaver/dbeaver/commit/fcd23b3c5ba6b79465969012bb57b6d6fffbd0c0)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3949,6 +3954,8 @@
 - [ ] [<code>fix(test) avoid flaky instance terminal test</code>](https://github.com/canonical/lxd-ui/commit/2403f1781cb17d7bb4652c31ce91c4b1ccac866d)
 - [ ] [<code>feat: add link to iso volumes from image list</code>](https://github.com/canonical/lxd-ui/commit/2d9a11c2abc3af52fb9c8494e7e1f6564bbbd32d)
 - [ ] [<code>feat(operations) auto refresh ops on visiting the ops list and add a refresh button</code>](https://github.com/canonical/lxd-ui/commit/2942dca4ce67ad97bc73b33d54c58e58c4b22222)
+- [ ] [<code>feat(instances) add image creation from instance snapshot</code>](https://github.com/canonical/lxd-ui/commit/446063697de2bb7ff1ae12fde4abf4ac53dd8de2)
+- [ ] [<code>chore(vite) update to v5 WD-10136</code>](https://github.com/canonical/lxd-ui/commit/55db9547cc5e7cb5dc47a386b14b4e677181f843)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4684,6 +4691,12 @@
 - [ ] [<code>Bump @mui/material from 5.15.10 to 5.15.14 (#492)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ee859a29269c68bcd50d193e57611cce872070ea)
 - [ ] [<code>Bump @mui/styles from 5.15.10 to 5.15.15 (#498)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8d6852ca8cc3664b2981da49e0be2d7760df74f2)
 - [ ] [<code>Bump @mui/icons-material from 5.15.10 to 5.15.15 (#499)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e326599da2833b8361d80b5fb21b514d3879ca7b)
+- [ ] [<code>Bump softprops/action-gh-release from 1 to 2 (#482)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f68a5de64a1f62c69007ace7214e9d066faf57c7)
+- [ ] [<code>Bump @mui/material from 5.15.14 to 5.15.15 (#501)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/32c5867e2a84667b2ea28a7873e9f255d744c2ea)
+- [ ] [<code>Bump react-admin from 4.16.11 to 4.16.15 (#502)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/bd6d5847e1671a9a55086bfbcdaf80191bb69ad3)
+- [ ] [<code>Bump @testing-library/react from 14.2.1 to 15.0.2 (#505)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/baa8e4ad9543ecd0f62fc1a719e06884f3d3cd20)
+- [ ] [<code>Bump the npm_and_yarn group with 3 updates (#496)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b6546b89add5757cd330c58ecf674fd65c2d15f1)
+- [ ] [<code>Bump ra-language-french from 4.16.12 to 4.16.15 (#503)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa1f86491fc90bd1646b75c9c76dc38d80d0370b)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
