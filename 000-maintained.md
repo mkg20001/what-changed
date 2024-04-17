@@ -2480,6 +2480,7 @@
 - [ ] [<code>CB-4629 user preference store (#23403)</code>](https://github.com/dbeaver/dbeaver/commit/67ba00775f0ac698ad090083e0909587b4fa6953)
 - [ ] [<code>Cb 4767 generate domains using deployment manager (#23437)</code>](https://github.com/dbeaver/dbeaver/commit/8e69cfa69a24d26acc4cadc8950e17c1283a431c)
 - [ ] [<code>Cb 4631 backup database (#23325)</code>](https://github.com/dbeaver/dbeaver/commit/39172d1743cc47ed901e6f57ee4315e556ac7ec6)
+- [ ] [<code>#23359 JSCH session creation fix (#23441)</code>](https://github.com/dbeaver/dbeaver/commit/aaef19b651f8f099353e0d0d52ca9b673126e2ea)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2642,7 +2643,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Melos format</code>](https://github.com/canonical/firmware-updater/commit/c25c7fbeef6c7e50d0fb761c6b6cef50032cd7b6)
 - [ ] [<code>feat: switching to the right icon when updating firmware</code>](https://github.com/canonical/firmware-updater/commit/54eb00066901ddc52c7d5385c88bc98f05c1376d)
+- [ ] [<code>chore(deps): update bluefireteam/melos-action action to v3</code>](https://github.com/canonical/firmware-updater/commit/93b819bf0041f4dde6d8c6b4311d6928feb6cb81)
 - [ ] [<code>docs: adding contributing.md for future contributors.</code>](https://github.com/canonical/firmware-updater/commit/d41248f5d422098ce680eadb08285c002c7b991b)
+- [ ] [<code>chore(deps): update codecov/codecov-action action to v4</code>](https://github.com/canonical/firmware-updater/commit/55674dc608524a06170f1816b740571cc2f98e8e)
+- [ ] [<code>chore(deps): update peter-evans/create-pull-request action to v6</code>](https://github.com/canonical/firmware-updater/commit/59209c370d4d24474b719bead36c8f9e4bacf587)
+- [ ] [<code>chore(deps): update actions/upload-artifact action to v4</code>](https://github.com/canonical/firmware-updater/commit/a110d6050b21a9664df2f6f4f2e90ff2754e05bb)
+- [ ] [<code>chore(deps): update dependency melos to v5</code>](https://github.com/canonical/firmware-updater/commit/fc2c07f2390a491a4b6bb37a7e34a3c0a7984467)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: cleanup l10n placeholder types</code>](https://github.com/canonical/firmware-updater/commit/0f50ba2e290c557f67e264a6d48e8442a4fc0d71)
 - [ ] [<code>feat: add arb stubs</code>](https://github.com/canonical/firmware-updater/commit/1e928f13c38fb6a977e24ad050f2ff6873d2f842)
 - [ ] [<code>docs: update readme, add weblate links</code>](https://github.com/canonical/firmware-updater/commit/e52180074c0221d5b065729012a121f072cf2e8f)
@@ -2807,6 +2814,7 @@
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/d2f12452fcc79a950a260ae747ab123243ebb582)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>design: Remake UX of selecting messages and chats</code>](https://github.com/krille-chan/fluffychat/commit/384e57fbd2771ea6bb8aa20cf66ffad5690e89a6)
+- [ ] [<code>chore: Follow up select messages</code>](https://github.com/krille-chan/fluffychat/commit/2a590c6175430d5b6b078f182ee4a74571da3466)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2963,6 +2971,7 @@
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/d2f12452fcc79a950a260ae747ab123243ebb582)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>design: Remake UX of selecting messages and chats</code>](https://github.com/krille-chan/fluffychat/commit/384e57fbd2771ea6bb8aa20cf66ffad5690e89a6)
+- [ ] [<code>chore: Follow up select messages</code>](https://github.com/krille-chan/fluffychat/commit/2a590c6175430d5b6b078f182ee4a74571da3466)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
 
@@ -3017,6 +3026,10 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d09c2e915297d8670aa26c3ed871e2603478278b)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/lxc: Only apply soft cgroup limits on cgroup1</code>](https://github.com/lxc/incus/commit/a2faa8c6e51032c8f29b8728999e9f4274fa06ff)
+- [ ] [<code>incus/projct: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/4f921e6eee029ba22b948d330c5217e3c67c83a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/263a62a76790b0f92a57c6a53e0f7aecfee84b0b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3064,6 +3077,10 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d09c2e915297d8670aa26c3ed871e2603478278b)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/lxc: Only apply soft cgroup limits on cgroup1</code>](https://github.com/lxc/incus/commit/a2faa8c6e51032c8f29b8728999e9f4274fa06ff)
+- [ ] [<code>incus/projct: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/4f921e6eee029ba22b948d330c5217e3c67c83a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/263a62a76790b0f92a57c6a53e0f7aecfee84b0b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4739,6 +4756,11 @@
 - [ ] [<code>Bump the npm_and_yarn group with 3 updates (#496)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b6546b89add5757cd330c58ecf674fd65c2d15f1)
 - [ ] [<code>Bump ra-language-french from 4.16.12 to 4.16.15 (#503)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa1f86491fc90bd1646b75c9c76dc38d80d0370b)
 - [ ] [<code>Add farsi translations (#504)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f6e193c51c47e9cb3f0dd29731a9d8bcb026a44b)
+- [ ] [<code>Fix App test</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/37e1fcc96df3faa4f7be99e80ada8f926763dea8)
+- [ ] [<code>Remove obsolete .travis.yml</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8185d7f0b023bc39bf5ef82d278d34b75c924494)
+- [ ] [<code>Bump version to 0.9.2</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7deb9bcf7e54cd4c4e634910c5d14f90ab85f405)
+  - <sub>Tags: <code>0.9.2</code></sub>
+- [ ] [<code>Add source urls to docker so tools can find sourcecode (#506)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a2e47cb79361b3db8411bd821958e3969a79e94c)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
@@ -4789,7 +4811,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
 - [ ] [<code>Fix typos.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/aff1a0d9a4d0907be1e07b3aab7c94be53a85f46)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>Implement org.freedesktop.impl.portal.Background. (#15)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4be1618e39f8afe32a1419e0ad9b5588594bf500)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>Fix some missing includes.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d45743c6dc16411430825c0a164376b3e825ee6a)
+- [ ] [<code>settings: Remove accent-color, and cleanup other unused code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/75aa9c996c7ecc9eb72190b361aa1d6542f3b4ca)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>debian/rules: Fix build type.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/48546472b6932c0d68092567ddd307feeb2ac84a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
