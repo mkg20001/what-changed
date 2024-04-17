@@ -3000,6 +3000,15 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>doc/installing: Add Alpine instructions</code>](https://github.com/lxc/incus/commit/195fbf27ce5f1f2d91906e973e79d4522a3193e0)
 - [ ] [<code>incus/aliases: fix completion regression</code>](https://github.com/lxc/incus/commit/06949bf3468105e8500fabfc839662a9d29059dd)
+- [ ] [<code>incus/snapshot: Fix deletion of snapshots containing colons</code>](https://github.com/lxc/incus/commit/c46306c7dabc5f6e278205efdce6f60f73c4d8ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Have SR-IOV get stable MACs</code>](https://github.com/lxc/incus/commit/7772a02e74ac941b99bb61b6fb2392672d0e4575)
+- [ ] [<code>incusd/device/nic_sriov: Use stable MAC</code>](https://github.com/lxc/incus/commit/0ca4fb9ac9c1bb5a277f4afe3185507d54799275)
+- [ ] [<code>incus/profile: Add support for creating from YAML</code>](https://github.com/lxc/incus/commit/7c84b4b60b864f722ac373db9f1ad3280edb9bd2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d09c2e915297d8670aa26c3ed871e2603478278b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/lxc: Only apply soft cgroup limits on cgroup1</code>](https://github.com/lxc/incus/commit/a2faa8c6e51032c8f29b8728999e9f4274fa06ff)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3038,6 +3047,15 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>doc/installing: Add Alpine instructions</code>](https://github.com/lxc/incus/commit/195fbf27ce5f1f2d91906e973e79d4522a3193e0)
 - [ ] [<code>incus/aliases: fix completion regression</code>](https://github.com/lxc/incus/commit/06949bf3468105e8500fabfc839662a9d29059dd)
+- [ ] [<code>incus/snapshot: Fix deletion of snapshots containing colons</code>](https://github.com/lxc/incus/commit/c46306c7dabc5f6e278205efdce6f60f73c4d8ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Have SR-IOV get stable MACs</code>](https://github.com/lxc/incus/commit/7772a02e74ac941b99bb61b6fb2392672d0e4575)
+- [ ] [<code>incusd/device/nic_sriov: Use stable MAC</code>](https://github.com/lxc/incus/commit/0ca4fb9ac9c1bb5a277f4afe3185507d54799275)
+- [ ] [<code>incus/profile: Add support for creating from YAML</code>](https://github.com/lxc/incus/commit/7c84b4b60b864f722ac373db9f1ad3280edb9bd2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d09c2e915297d8670aa26c3ed871e2603478278b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/lxc: Only apply soft cgroup limits on cgroup1</code>](https://github.com/lxc/incus/commit/a2faa8c6e51032c8f29b8728999e9f4274fa06ff)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3965,6 +3983,8 @@
 - [ ] [<code>feat(operations) auto refresh ops on visiting the ops list and add a refresh button</code>](https://github.com/canonical/lxd-ui/commit/2942dca4ce67ad97bc73b33d54c58e58c4b22222)
 - [ ] [<code>feat(instances) add image creation from instance snapshot</code>](https://github.com/canonical/lxd-ui/commit/446063697de2bb7ff1ae12fde4abf4ac53dd8de2)
 - [ ] [<code>chore(vite) update to v5 WD-10136</code>](https://github.com/canonical/lxd-ui/commit/55db9547cc5e7cb5dc47a386b14b4e677181f843)
+- [ ] [<code>fix(demo) loose deleted files on demo branch WD-10413</code>](https://github.com/canonical/lxd-ui/commit/91deac3d4b2da73d9fe465673d4e3f69d40f51c2)
+- [ ] [<code>fix(instance) ensure instance type is derived from image type also for custom images created from an instance snapshot. Kepp supporting iso volume quick links to the instance creation flow</code>](https://github.com/canonical/lxd-ui/commit/cfb9f91309372036181962745903b2be02b66318)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
