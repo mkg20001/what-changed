@@ -2803,6 +2803,10 @@
 - [ ] [<code>design: Redesign permissions settings with dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/ac7e424b7ba9b8df2bbf36170f4ff937241f795b)
 - [ ] [<code>design: Improve user permission settings</code>](https://github.com/krille-chan/fluffychat/commit/216d3bd40313879fcf844672d1ca1da2cb0b0557)
 - [ ] [<code>chore: Follow up nicer dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/2a4fd6927ce382b487658e49a4e3a1334f043f3d)
+- [ ] [<code>chore: Follow up change own power level</code>](https://github.com/krille-chan/fluffychat/commit/1f12b722714e406eb4ec684b3156e7d6ecea2586)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/d2f12452fcc79a950a260ae747ab123243ebb582)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>design: Remake UX of selecting messages and chats</code>](https://github.com/krille-chan/fluffychat/commit/384e57fbd2771ea6bb8aa20cf66ffad5690e89a6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2955,6 +2959,10 @@
 - [ ] [<code>design: Redesign permissions settings with dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/ac7e424b7ba9b8df2bbf36170f4ff937241f795b)
 - [ ] [<code>design: Improve user permission settings</code>](https://github.com/krille-chan/fluffychat/commit/216d3bd40313879fcf844672d1ca1da2cb0b0557)
 - [ ] [<code>chore: Follow up nicer dropdownbuttons</code>](https://github.com/krille-chan/fluffychat/commit/2a4fd6927ce382b487658e49a4e3a1334f043f3d)
+- [ ] [<code>chore: Follow up change own power level</code>](https://github.com/krille-chan/fluffychat/commit/1f12b722714e406eb4ec684b3156e7d6ecea2586)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/d2f12452fcc79a950a260ae747ab123243ebb582)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>design: Remake UX of selecting messages and chats</code>](https://github.com/krille-chan/fluffychat/commit/384e57fbd2771ea6bb8aa20cf66ffad5690e89a6)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
 
@@ -3673,6 +3681,8 @@
 - [ ] [<code>Remove deprecated FOUND_VAR (#2113)</code>](https://github.com/AOMediaCodec/libavif/commit/6c2ad21799e235e41047999b7f0a92e01fe961c5)
 - [ ] [<code>Update MinimizedItemBox experimental prototype (#2114)</code>](https://github.com/AOMediaCodec/libavif/commit/7cb941b96b2c105c8b9bf54c903c69925dcb1a75)
 - [ ] [<code>Add colors-animated-8bpc-alpha-exif-xmp.avif test (#2116)</code>](https://github.com/AOMediaCodec/libavif/commit/6a5ec63e67afddbf1bae2e008d66fe92964bc7b9)
+- [ ] [<code>Limit the CI jobs running on pull_request. (#2115)</code>](https://github.com/AOMediaCodec/libavif/commit/f14809b5523c8d856d860c354adf67a41a6ef782)
+- [ ] [<code>Bump rav1e to 0.7.1 (#2117)</code>](https://github.com/AOMediaCodec/libavif/commit/d9398970c37d0da56482efa1af8df0c44ea9e509)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4579,6 +4589,8 @@
 - [ ] [<code>feat(cli): add shell completions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0ef8f07c83c90e2939bddc9f98f91d83b76be385)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>ci: bump actions/configure-pages from 4 to 5 (#129)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b34cdaef74ece6a54d4b9770ea11b08f468dd555)
+- [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43efec1a59a5ee9736eeee1c05f81805c8e89fea)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9e8b9dcc54ea4004179cd68383336d920b9c4f4)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
