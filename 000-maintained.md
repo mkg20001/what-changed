@@ -3026,6 +3026,15 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d09c2e915297d8670aa26c3ed871e2603478278b)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/lxc: Only apply soft cgroup limits on cgroup1</code>](https://github.com/lxc/incus/commit/a2faa8c6e51032c8f29b8728999e9f4274fa06ff)
+- [ ] [<code>incus/admin: Don't hide the sql command</code>](https://github.com/lxc/incus/commit/b4ab3143ce24a32c6f5c4594006de33b0b7a091b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>grafana: Refresh dashboard</code>](https://github.com/lxc/incus/commit/d159ee67b046b94da046370ae982981468d4d9d3)
+- [ ] [<code>doc/metrics: Mention Loki in Grafana setup</code>](https://github.com/lxc/incus/commit/e80628d69d596047b4904b62fe52f8c620b12cf4)
+- [ ] [<code>grafana: Better filter Loki events by project</code>](https://github.com/lxc/incus/commit/9d31814a93669e38d6b6a2a8215175f546f582d1)
+- [ ] [<code>incusd/loki: Use hostname as default instance property on standalone systems</code>](https://github.com/lxc/incus/commit/f7acfd818d3538c9908438bb92e64ec669dbd165)
+- [ ] [<code>incusd/loki: Re-order config fields</code>](https://github.com/lxc/incus/commit/08267a0eabf5492b607277165e75f786eb5233d0)
+- [ ] [<code>incusd/loki: Allow overriding the location field</code>](https://github.com/lxc/incus/commit/7a77f39b2e62b21151da614e18df16e4e82ffcae)
+- [ ] [<code>incusd/loki: Set location field to local hostname on standalone systems</code>](https://github.com/lxc/incus/commit/b2f1f91b09e3c3d4b46673880a2044f8ff2e6e87)
 - [ ] [<code>incus/projct: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/4f921e6eee029ba22b948d330c5217e3c67c83a1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/263a62a76790b0f92a57c6a53e0f7aecfee84b0b)
@@ -3077,6 +3086,15 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d09c2e915297d8670aa26c3ed871e2603478278b)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/lxc: Only apply soft cgroup limits on cgroup1</code>](https://github.com/lxc/incus/commit/a2faa8c6e51032c8f29b8728999e9f4274fa06ff)
+- [ ] [<code>incus/admin: Don't hide the sql command</code>](https://github.com/lxc/incus/commit/b4ab3143ce24a32c6f5c4594006de33b0b7a091b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>grafana: Refresh dashboard</code>](https://github.com/lxc/incus/commit/d159ee67b046b94da046370ae982981468d4d9d3)
+- [ ] [<code>doc/metrics: Mention Loki in Grafana setup</code>](https://github.com/lxc/incus/commit/e80628d69d596047b4904b62fe52f8c620b12cf4)
+- [ ] [<code>grafana: Better filter Loki events by project</code>](https://github.com/lxc/incus/commit/9d31814a93669e38d6b6a2a8215175f546f582d1)
+- [ ] [<code>incusd/loki: Use hostname as default instance property on standalone systems</code>](https://github.com/lxc/incus/commit/f7acfd818d3538c9908438bb92e64ec669dbd165)
+- [ ] [<code>incusd/loki: Re-order config fields</code>](https://github.com/lxc/incus/commit/08267a0eabf5492b607277165e75f786eb5233d0)
+- [ ] [<code>incusd/loki: Allow overriding the location field</code>](https://github.com/lxc/incus/commit/7a77f39b2e62b21151da614e18df16e4e82ffcae)
+- [ ] [<code>incusd/loki: Set location field to local hostname on standalone systems</code>](https://github.com/lxc/incus/commit/b2f1f91b09e3c3d4b46673880a2044f8ff2e6e87)
 - [ ] [<code>incus/projct: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/4f921e6eee029ba22b948d330c5217e3c67c83a1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/263a62a76790b0f92a57c6a53e0f7aecfee84b0b)
