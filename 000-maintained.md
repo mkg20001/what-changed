@@ -2481,6 +2481,10 @@
 - [ ] [<code>Cb 4767 generate domains using deployment manager (#23437)</code>](https://github.com/dbeaver/dbeaver/commit/8e69cfa69a24d26acc4cadc8950e17c1283a431c)
 - [ ] [<code>Cb 4631 backup database (#23325)</code>](https://github.com/dbeaver/dbeaver/commit/39172d1743cc47ed901e6f57ee4315e556ac7ec6)
 - [ ] [<code>#23359 JSCH session creation fix (#23441)</code>](https://github.com/dbeaver/dbeaver/commit/aaef19b651f8f099353e0d0d52ca9b673126e2ea)
+- [ ] [<code>Workspace ID persistence fix</code>](https://github.com/dbeaver/dbeaver/commit/eb84bca32e8516e8de93974d61802c217816e01d)
+- [ ] [<code>#23462 Fix case when next element is equals to last element in the smart blocks recognition logic (#23464)</code>](https://github.com/dbeaver/dbeaver/commit/20c49e9b7821984239e8398603e01c926f0800df)
+- [ ] [<code>Dbeaver/pro#2529 Clean up code after initial semantics-based completion implementation (#23438)</code>](https://github.com/dbeaver/dbeaver/commit/e48e6491b3bfafb06aea0ca9b20664460ad06ea8)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3047,6 +3051,29 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/263a62a76790b0f92a57c6a53e0f7aecfee84b0b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovs: Port GetOVNEncapIP to libovsdb</code>](https://github.com/lxc/incus/commit/4231b77a42d436954e3672f882c623925a391827)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Add some comments to GetOVNBridgeMappings</code>](https://github.com/lxc/incus/commit/daa9af451e2d792adca7d5067c061dbb71a3fe4d)
+- [ ] [<code>incusd/network/ovs: Port AddOVNBridgeMapping to libovsdb</code>](https://github.com/lxc/incus/commit/c7b74f4061af0641b28edc692eed98a72abd9b87)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port RemoveOVNBridgeMapping to libovsdb</code>](https://github.com/lxc/incus/commit/312e87c97815fdb878215b17a9b3468b7f9b0f25)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port GetHardwareOffload to libovsdb</code>](https://github.com/lxc/incus/commit/ff32b65c9788c146afc76a156442f29c14f33f3c)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port GetBridgePorts to libovsdb</code>](https://github.com/lxc/incus/commit/a7dac799f57fe0bf845679567e6b0830c3226d9c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port UpdateBridgePortVLANs to libovsdb</code>](https://github.com/lxc/incus/commit/b6dba295437617c497fe3cced8d882b8718e5678)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port AssociateInterfaceOVNSwitchPort to libovsdb</code>](https://github.com/lxc/incus/commit/9c99417fcaf01686b05778e2f6b46f094efca18a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Switch Installed to checking for unix socket</code>](https://github.com/lxc/incus/commit/a064d237b9074ed3caf2e23805e023cc0ecd5479)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/730a0ef6f557fec5401d33911a71ac0419e5ba0a)
+- [ ] [<code>Add missing SecureBoot firmware names</code>](https://github.com/lxc/incus/commit/2e5f8a6ba359f641e71b6ea819db76a99052af9d)
+- [ ] [<code>incus/snapshot: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/cc96a063f3f01544a2710e8cb015a3ad6e637f36)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c8cffe12c94c020a2ce15b45d3f644f669e6a9e2)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3106,6 +3133,29 @@
 - [ ] [<code>incus/projct: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/4f921e6eee029ba22b948d330c5217e3c67c83a1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/263a62a76790b0f92a57c6a53e0f7aecfee84b0b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovs: Port GetOVNEncapIP to libovsdb</code>](https://github.com/lxc/incus/commit/4231b77a42d436954e3672f882c623925a391827)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Add some comments to GetOVNBridgeMappings</code>](https://github.com/lxc/incus/commit/daa9af451e2d792adca7d5067c061dbb71a3fe4d)
+- [ ] [<code>incusd/network/ovs: Port AddOVNBridgeMapping to libovsdb</code>](https://github.com/lxc/incus/commit/c7b74f4061af0641b28edc692eed98a72abd9b87)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port RemoveOVNBridgeMapping to libovsdb</code>](https://github.com/lxc/incus/commit/312e87c97815fdb878215b17a9b3468b7f9b0f25)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port GetHardwareOffload to libovsdb</code>](https://github.com/lxc/incus/commit/ff32b65c9788c146afc76a156442f29c14f33f3c)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port GetBridgePorts to libovsdb</code>](https://github.com/lxc/incus/commit/a7dac799f57fe0bf845679567e6b0830c3226d9c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port UpdateBridgePortVLANs to libovsdb</code>](https://github.com/lxc/incus/commit/b6dba295437617c497fe3cced8d882b8718e5678)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Port AssociateInterfaceOVNSwitchPort to libovsdb</code>](https://github.com/lxc/incus/commit/9c99417fcaf01686b05778e2f6b46f094efca18a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/network/ovs: Switch Installed to checking for unix socket</code>](https://github.com/lxc/incus/commit/a064d237b9074ed3caf2e23805e023cc0ecd5479)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/730a0ef6f557fec5401d33911a71ac0419e5ba0a)
+- [ ] [<code>Add missing SecureBoot firmware names</code>](https://github.com/lxc/incus/commit/2e5f8a6ba359f641e71b6ea819db76a99052af9d)
+- [ ] [<code>incus/snapshot: Add support for creating project from yaml</code>](https://github.com/lxc/incus/commit/cc96a063f3f01544a2710e8cb015a3ad6e637f36)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c8cffe12c94c020a2ce15b45d3f644f669e6a9e2)
   - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
@@ -3727,6 +3777,7 @@
 - [ ] [<code>Limit the CI jobs running on pull_request. (#2115)</code>](https://github.com/AOMediaCodec/libavif/commit/f14809b5523c8d856d860c354adf67a41a6ef782)
 - [ ] [<code>Bump rav1e to 0.7.1 (#2117)</code>](https://github.com/AOMediaCodec/libavif/commit/d9398970c37d0da56482efa1af8df0c44ea9e509)
 - [ ] [<code>Bump libxml2 (#2118)</code>](https://github.com/AOMediaCodec/libavif/commit/89f9b3a1b08ea0a82600af0d615c5b242323bc0b)
+- [ ] [<code>Check that the header size fits in the stream. (#2123)</code>](https://github.com/AOMediaCodec/libavif/commit/961e4fe8db159779a210fcb8e15e522a8ff203a2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4039,6 +4090,9 @@
 - [ ] [<code>chore(vite) update to v5 WD-10136</code>](https://github.com/canonical/lxd-ui/commit/55db9547cc5e7cb5dc47a386b14b4e677181f843)
 - [ ] [<code>fix(demo) loose deleted files on demo branch WD-10413</code>](https://github.com/canonical/lxd-ui/commit/91deac3d4b2da73d9fe465673d4e3f69d40f51c2)
 - [ ] [<code>fix(instance) ensure instance type is derived from image type also for custom images created from an instance snapshot. Kepp supporting iso volume quick links to the instance creation flow</code>](https://github.com/canonical/lxd-ui/commit/cfb9f91309372036181962745903b2be02b66318)
+- [ ] [<code>fix(instance): add name length check for instance name (creation/edit)</code>](https://github.com/canonical/lxd-ui/commit/eb3881ee6bb2133807f3d06787fa3c3dd61a35a8)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.6</code>](https://github.com/canonical/lxd-ui/commit/a583fa676c01035b2c7196c358bf70fb29b27f08)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4493,6 +4547,12 @@
 - [ ] [<code>tests: import the config fuzzing tests</code>](https://github.com/canonical/netplan/commit/dca72275e0241897732858119b2b5dc3c5ef77a5)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>ATTN: parse/bonds: handle same primary in multiple bonds (#451)</code>](https://github.com/canonical/netplan/commit/7e22e6f9cf909720b7e065ff521ff13d5f32be73)
+- [ ] [<code>sriov: accept setting the eswitch mode without VFs</code>](https://github.com/canonical/netplan/commit/b8246b950ccd3edfc9739f9cf19cda2db8ac4f6b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cli/sriov: refactoring</code>](https://github.com/canonical/netplan/commit/12a7182029a0303103d1fd9391616a6b13031368)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cli/sriov: set eswitch regardless of pcidev.vfs</code>](https://github.com/canonical/netplan/commit/07be7752149217be815c47a83a455f648f9c9e28)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4788,6 +4848,13 @@
 - [ ] [<code>Bump version to 0.9.2</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7deb9bcf7e54cd4c4e634910c5d14f90ab85f405)
   - <sub>Tags: <code>0.9.2</code></sub>
 - [ ] [<code>Add source urls to docker so tools can find sourcecode (#506)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a2e47cb79361b3db8411bd821958e3969a79e94c)
+- [ ] [<code>Add authProvider test</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/33d29e01b1c90990039fb39781455d5a4c63b5ae)
+- [ ] [<code>Make login and logout in authProvider async</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0b4f3a60c0bc386e5dbf88faa61062e216d0700b)
+- [ ] [<code>Make functions in dataProvider async</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1acffdb6182b3f6f3456dd7a6f863cc70804d928)
+- [ ] [<code>Remove unused function "renderInput"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/25020c2d5bda1881b14019fcda421f28fc773854)
+- [ ] [<code>Show Matrix specs supported by the homeserver</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9cb9aa9e0e38077dd8f8e06e17f6169847f741b)
+- [ ] [<code>Push docker images also to ghcr.io</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/08dc5f627141aac8bca3528b26185f1af4cdac56)
+- [ ] [<code>Fetch tags in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9364f631b537cebe55a66b5ed4dba5739d70663)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
