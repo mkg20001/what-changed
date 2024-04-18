@@ -2815,6 +2815,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>design: Remake UX of selecting messages and chats</code>](https://github.com/krille-chan/fluffychat/commit/384e57fbd2771ea6bb8aa20cf66ffad5690e89a6)
 - [ ] [<code>chore: Follow up select messages</code>](https://github.com/krille-chan/fluffychat/commit/2a590c6175430d5b6b078f182ee4a74571da3466)
+- [ ] [<code>design: Fix color of invite button</code>](https://github.com/krille-chan/fluffychat/commit/3b71705d2e229e289f9c5bcf72159d1122bdef63)
+- [ ] [<code>build: Update to Flutter 3.19.6</code>](https://github.com/krille-chan/fluffychat/commit/e42591e8105afbdbc0125ce9491b0578bea24626)
+- [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/0210f791a07584c57a0b6d7d516981304ca3b902)
+- [ ] [<code>chore: More nicer event source display</code>](https://github.com/krille-chan/fluffychat/commit/ac1ed4dfd02a242314c1f8981b1d386b31ba8102)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2972,6 +2976,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>design: Remake UX of selecting messages and chats</code>](https://github.com/krille-chan/fluffychat/commit/384e57fbd2771ea6bb8aa20cf66ffad5690e89a6)
 - [ ] [<code>chore: Follow up select messages</code>](https://github.com/krille-chan/fluffychat/commit/2a590c6175430d5b6b078f182ee4a74571da3466)
+- [ ] [<code>design: Fix color of invite button</code>](https://github.com/krille-chan/fluffychat/commit/3b71705d2e229e289f9c5bcf72159d1122bdef63)
+- [ ] [<code>build: Update to Flutter 3.19.6</code>](https://github.com/krille-chan/fluffychat/commit/e42591e8105afbdbc0125ce9491b0578bea24626)
+- [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/0210f791a07584c57a0b6d7d516981304ca3b902)
+- [ ] [<code>chore: More nicer event source display</code>](https://github.com/krille-chan/fluffychat/commit/ac1ed4dfd02a242314c1f8981b1d386b31ba8102)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
 
@@ -3718,6 +3726,7 @@
 - [ ] [<code>Add colors-animated-8bpc-alpha-exif-xmp.avif test (#2116)</code>](https://github.com/AOMediaCodec/libavif/commit/6a5ec63e67afddbf1bae2e008d66fe92964bc7b9)
 - [ ] [<code>Limit the CI jobs running on pull_request. (#2115)</code>](https://github.com/AOMediaCodec/libavif/commit/f14809b5523c8d856d860c354adf67a41a6ef782)
 - [ ] [<code>Bump rav1e to 0.7.1 (#2117)</code>](https://github.com/AOMediaCodec/libavif/commit/d9398970c37d0da56482efa1af8df0c44ea9e509)
+- [ ] [<code>Bump libxml2 (#2118)</code>](https://github.com/AOMediaCodec/libavif/commit/89f9b3a1b08ea0a82600af0d615c5b242323bc0b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
