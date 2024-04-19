@@ -2568,6 +2568,8 @@
 - [ ] [<code>.gitignore: ignore raft test binaries.</code>](https://github.com/canonical/dqlite/commit/197d98bf085a75d051d39cad589dd40175101673)
 - [ ] [<code>Try raising aio-max-nr on GHA</code>](https://github.com/canonical/dqlite/commit/e814a1c2eb5342fde8a089b6c5388e86acd07ca4)
 - [ ] [<code>Build concurrently, test serially</code>](https://github.com/canonical/dqlite/commit/2b3d6cfa233db0aeca590f823e5a9d7ae3c4b699)
+- [ ] [<code>Add CONTRIBUTING.md</code>](https://github.com/canonical/dqlite/commit/e5801378487622761ae04c40144bd2964fd2905b)
+- [ ] [<code>Link contribution guidelines from README</code>](https://github.com/canonical/dqlite/commit/8d99f50a168a4dc7f38321a78601bf7ecb9e5bb8)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3084,6 +3086,11 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7129a01924005b96e56c0850402042285478c51c)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>tests: Add all-projects network zone test</code>](https://github.com/lxc/incus/commit/f7dc5896def59a6adc8964af0bf10b15e76d9804)
+- [ ] [<code>incusd/network/ovn: Port LogicalRouterAdd to libovsdb</code>](https://github.com/lxc/incus/commit/f9cb6d6aeea14abb6f0d39d22087586659682239)
+- [ ] [<code>incusd/network/ovn: Remove LogicalRouterAdd</code>](https://github.com/lxc/incus/commit/a0afa7ebbe67a7384d37c2977b53c70f38ef8961)
+- [ ] [<code>incusd/network: Replace LogicalRouterAdd usage with CreateLogicalRouter</code>](https://github.com/lxc/incus/commit/ec288a6e324ef9f48dbd3ff70b9e840e668338e2)
+- [ ] [<code>incusd/network/ovn: gofmt</code>](https://github.com/lxc/incus/commit/5a0252c6cbc17ea01d42b821cabc942f495a32e5)
+- [ ] [<code>incusd/cluster: Disable networks during evacuation</code>](https://github.com/lxc/incus/commit/7c9e3b00cdf3da04e8dc54dd2b77a982e7b3e613)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3177,6 +3184,11 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7129a01924005b96e56c0850402042285478c51c)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>tests: Add all-projects network zone test</code>](https://github.com/lxc/incus/commit/f7dc5896def59a6adc8964af0bf10b15e76d9804)
+- [ ] [<code>incusd/network/ovn: Port LogicalRouterAdd to libovsdb</code>](https://github.com/lxc/incus/commit/f9cb6d6aeea14abb6f0d39d22087586659682239)
+- [ ] [<code>incusd/network/ovn: Remove LogicalRouterAdd</code>](https://github.com/lxc/incus/commit/a0afa7ebbe67a7384d37c2977b53c70f38ef8961)
+- [ ] [<code>incusd/network: Replace LogicalRouterAdd usage with CreateLogicalRouter</code>](https://github.com/lxc/incus/commit/ec288a6e324ef9f48dbd3ff70b9e840e668338e2)
+- [ ] [<code>incusd/network/ovn: gofmt</code>](https://github.com/lxc/incus/commit/5a0252c6cbc17ea01d42b821cabc942f495a32e5)
+- [ ] [<code>incusd/cluster: Disable networks during evacuation</code>](https://github.com/lxc/incus/commit/7c9e3b00cdf3da04e8dc54dd2b77a982e7b3e613)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4573,6 +4585,8 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cli/sriov: set eswitch regardless of pcidev.vfs</code>](https://github.com/canonical/netplan/commit/07be7752149217be815c47a83a455f648f9c9e28)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Fix wrong bonds.parameters.mode syntax in example (#459)</code>](https://github.com/canonical/netplan/commit/cf65bcd26c87777d74c5277e9254df6f76fe4cf8)
+- [ ] [<code>tests: use proper 0o600 file permissions in more places</code>](https://github.com/canonical/netplan/commit/3ab206a4a9b890034e809464eac49f6458507b3f)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4874,8 +4888,8 @@
 - [ ] [<code>Make functions in dataProvider async</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1acffdb6182b3f6f3456dd7a6f863cc70804d928)
 - [ ] [<code>Remove unused function "renderInput"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/25020c2d5bda1881b14019fcda421f28fc773854)
 - [ ] [<code>Show Matrix specs supported by the homeserver</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9cb9aa9e0e38077dd8f8e06e17f6169847f741b)
-- [ ] [<code>Push docker images also to ghcr.io</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/08dc5f627141aac8bca3528b26185f1af4cdac56)
-- [ ] [<code>Fetch tags in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9364f631b537cebe55a66b5ed4dba5739d70663)
+- [ ] [<code>Push docker images also to ghcr.io</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/03c4955ef70435500eb0e2b82b9feb0b88c55573)
+- [ ] [<code>Fetch tags in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/881760c8d893dade0e91f33f8f8cbc08a0fed065)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
