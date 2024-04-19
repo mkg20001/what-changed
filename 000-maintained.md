@@ -3074,6 +3074,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c8cffe12c94c020a2ce15b45d3f644f669e6a9e2)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: network_zones_all_projects</code>](https://github.com/lxc/incus/commit/41842f2517cbba7e47445520dce5e89102d6b0d1)
+- [ ] [<code>shared/api: Add Project field to NetworkZone</code>](https://github.com/lxc/incus/commit/308834b2d127ca2a42adfee8dc5fc9f18980a036)
+- [ ] [<code>incusd/network_zones: Add support for all-projects</code>](https://github.com/lxc/incus/commit/f2864c23250e80d2f057c3e0a70743244005721a)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fa59872b238390ed6e795e681817234d8268570c)
+- [ ] [<code>client: Add GetNetworkZonesAllProjects</code>](https://github.com/lxc/incus/commit/48f3de4b84402faef1741e595292d6d284fd830b)
+- [ ] [<code>incus/network_zone: Add --all-projects flag to list</code>](https://github.com/lxc/incus/commit/3faef152f823f2321dbba18886403195b7ab18d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7129a01924005b96e56c0850402042285478c51c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add all-projects network zone test</code>](https://github.com/lxc/incus/commit/f7dc5896def59a6adc8964af0bf10b15e76d9804)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3157,6 +3167,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c8cffe12c94c020a2ce15b45d3f644f669e6a9e2)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: network_zones_all_projects</code>](https://github.com/lxc/incus/commit/41842f2517cbba7e47445520dce5e89102d6b0d1)
+- [ ] [<code>shared/api: Add Project field to NetworkZone</code>](https://github.com/lxc/incus/commit/308834b2d127ca2a42adfee8dc5fc9f18980a036)
+- [ ] [<code>incusd/network_zones: Add support for all-projects</code>](https://github.com/lxc/incus/commit/f2864c23250e80d2f057c3e0a70743244005721a)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fa59872b238390ed6e795e681817234d8268570c)
+- [ ] [<code>client: Add GetNetworkZonesAllProjects</code>](https://github.com/lxc/incus/commit/48f3de4b84402faef1741e595292d6d284fd830b)
+- [ ] [<code>incus/network_zone: Add --all-projects flag to list</code>](https://github.com/lxc/incus/commit/3faef152f823f2321dbba18886403195b7ab18d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7129a01924005b96e56c0850402042285478c51c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add all-projects network zone test</code>](https://github.com/lxc/incus/commit/f7dc5896def59a6adc8964af0bf10b15e76d9804)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4695,6 +4715,7 @@
 - [ ] [<code>ci: bump actions/configure-pages from 4 to 5 (#129)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b34cdaef74ece6a54d4b9770ea11b08f468dd555)
 - [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43efec1a59a5ee9736eeee1c05f81805c8e89fea)
 - [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9e8b9dcc54ea4004179cd68383336d920b9c4f4)
+- [ ] [<code>perf(android): stop autoconnect service when unused</code>](https://github.com/Oppzippy/OpenSCQ30/commit/54dc310e5e6a1ad2f0b0982febcf7fb1abe92242)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
