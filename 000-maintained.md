@@ -4587,6 +4587,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Fix wrong bonds.parameters.mode syntax in example (#459)</code>](https://github.com/canonical/netplan/commit/cf65bcd26c87777d74c5277e9254df6f76fe4cf8)
 - [ ] [<code>tests: use proper 0o600 file permissions in more places</code>](https://github.com/canonical/netplan/commit/3ab206a4a9b890034e809464eac49f6458507b3f)
+- [ ] [<code>parse: fix redefinition of gateway(4|6)</code>](https://github.com/canonical/netplan/commit/a670781c0f00171d2fb7dd83dbd2de723432a11d)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
