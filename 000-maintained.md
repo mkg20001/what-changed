@@ -2485,6 +2485,7 @@
 - [ ] [<code>#23462 Fix case when next element is equals to last element in the smart blocks recognition logic (#23464)</code>](https://github.com/dbeaver/dbeaver/commit/20c49e9b7821984239e8398603e01c926f0800df)
 - [ ] [<code>Dbeaver/pro#2529 Clean up code after initial semantics-based completion implementation (#23438)</code>](https://github.com/dbeaver/dbeaver/commit/e48e6491b3bfafb06aea0ca9b20664460ad06ea8)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/7bf16e7e033cfe8da077ce38dbdccfde279f99e3)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2825,6 +2826,7 @@
 - [ ] [<code>build: Update to Flutter 3.19.6</code>](https://github.com/krille-chan/fluffychat/commit/e42591e8105afbdbc0125ce9491b0578bea24626)
 - [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/0210f791a07584c57a0b6d7d516981304ca3b902)
 - [ ] [<code>chore: More nicer event source display</code>](https://github.com/krille-chan/fluffychat/commit/ac1ed4dfd02a242314c1f8981b1d386b31ba8102)
+- [ ] [<code>chore: Let error reporter fill out bug report</code>](https://github.com/krille-chan/fluffychat/commit/86df13d6d82af7414746908e3cc8b13f356566bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2986,6 +2988,7 @@
 - [ ] [<code>build: Update to Flutter 3.19.6</code>](https://github.com/krille-chan/fluffychat/commit/e42591e8105afbdbc0125ce9491b0578bea24626)
 - [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/0210f791a07584c57a0b6d7d516981304ca3b902)
 - [ ] [<code>chore: More nicer event source display</code>](https://github.com/krille-chan/fluffychat/commit/ac1ed4dfd02a242314c1f8981b1d386b31ba8102)
+- [ ] [<code>chore: Let error reporter fill out bug report</code>](https://github.com/krille-chan/fluffychat/commit/86df13d6d82af7414746908e3cc8b13f356566bd)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
 
@@ -3091,6 +3094,7 @@
 - [ ] [<code>incusd/network: Replace LogicalRouterAdd usage with CreateLogicalRouter</code>](https://github.com/lxc/incus/commit/ec288a6e324ef9f48dbd3ff70b9e840e668338e2)
 - [ ] [<code>incusd/network/ovn: gofmt</code>](https://github.com/lxc/incus/commit/5a0252c6cbc17ea01d42b821cabc942f495a32e5)
 - [ ] [<code>incusd/cluster: Disable networks during evacuation</code>](https://github.com/lxc/incus/commit/7c9e3b00cdf3da04e8dc54dd2b77a982e7b3e613)
+- [ ] [<code>incusd/cgroup: Set hugepages reserved limits</code>](https://github.com/lxc/incus/commit/e8afad812799a819473e80e1169909a6f9f75e12)
 - [ ] [<code>incusd/storage/drivers: Introduce SparseFileWrapper</code>](https://github.com/lxc/incus/commit/d4948b045d1f90daac3e8f48db492402c6ee0740)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on backup import</code>](https://github.com/lxc/incus/commit/b7025b3e9e1ee5e47228e57a4b11ca519743f892)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on volume migration</code>](https://github.com/lxc/incus/commit/5353b87c51129f521f504ec10d9117c99f944be6)
@@ -3192,6 +3196,7 @@
 - [ ] [<code>incusd/network: Replace LogicalRouterAdd usage with CreateLogicalRouter</code>](https://github.com/lxc/incus/commit/ec288a6e324ef9f48dbd3ff70b9e840e668338e2)
 - [ ] [<code>incusd/network/ovn: gofmt</code>](https://github.com/lxc/incus/commit/5a0252c6cbc17ea01d42b821cabc942f495a32e5)
 - [ ] [<code>incusd/cluster: Disable networks during evacuation</code>](https://github.com/lxc/incus/commit/7c9e3b00cdf3da04e8dc54dd2b77a982e7b3e613)
+- [ ] [<code>incusd/cgroup: Set hugepages reserved limits</code>](https://github.com/lxc/incus/commit/e8afad812799a819473e80e1169909a6f9f75e12)
 - [ ] [<code>incusd/storage/drivers: Introduce SparseFileWrapper</code>](https://github.com/lxc/incus/commit/d4948b045d1f90daac3e8f48db492402c6ee0740)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on backup import</code>](https://github.com/lxc/incus/commit/b7025b3e9e1ee5e47228e57a4b11ca519743f892)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on volume migration</code>](https://github.com/lxc/incus/commit/5353b87c51129f521f504ec10d9117c99f944be6)
