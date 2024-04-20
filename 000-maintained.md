@@ -3091,6 +3091,9 @@
 - [ ] [<code>incusd/network: Replace LogicalRouterAdd usage with CreateLogicalRouter</code>](https://github.com/lxc/incus/commit/ec288a6e324ef9f48dbd3ff70b9e840e668338e2)
 - [ ] [<code>incusd/network/ovn: gofmt</code>](https://github.com/lxc/incus/commit/5a0252c6cbc17ea01d42b821cabc942f495a32e5)
 - [ ] [<code>incusd/cluster: Disable networks during evacuation</code>](https://github.com/lxc/incus/commit/7c9e3b00cdf3da04e8dc54dd2b77a982e7b3e613)
+- [ ] [<code>incusd/storage/drivers: Introduce SparseFileWrapper</code>](https://github.com/lxc/incus/commit/d4948b045d1f90daac3e8f48db492402c6ee0740)
+- [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on backup import</code>](https://github.com/lxc/incus/commit/b7025b3e9e1ee5e47228e57a4b11ca519743f892)
+- [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on volume migration</code>](https://github.com/lxc/incus/commit/5353b87c51129f521f504ec10d9117c99f944be6)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3189,6 +3192,9 @@
 - [ ] [<code>incusd/network: Replace LogicalRouterAdd usage with CreateLogicalRouter</code>](https://github.com/lxc/incus/commit/ec288a6e324ef9f48dbd3ff70b9e840e668338e2)
 - [ ] [<code>incusd/network/ovn: gofmt</code>](https://github.com/lxc/incus/commit/5a0252c6cbc17ea01d42b821cabc942f495a32e5)
 - [ ] [<code>incusd/cluster: Disable networks during evacuation</code>](https://github.com/lxc/incus/commit/7c9e3b00cdf3da04e8dc54dd2b77a982e7b3e613)
+- [ ] [<code>incusd/storage/drivers: Introduce SparseFileWrapper</code>](https://github.com/lxc/incus/commit/d4948b045d1f90daac3e8f48db492402c6ee0740)
+- [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on backup import</code>](https://github.com/lxc/incus/commit/b7025b3e9e1ee5e47228e57a4b11ca519743f892)
+- [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on volume migration</code>](https://github.com/lxc/incus/commit/5353b87c51129f521f504ec10d9117c99f944be6)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
