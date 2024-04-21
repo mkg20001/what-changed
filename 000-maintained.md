@@ -3106,6 +3106,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/328081a6867496fed8408bb4e92c333f76486d1f)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/info: Show CPU architecture as separate line</code>](https://github.com/lxc/incus/commit/b37aa6df7437b27273f8fa6dd443e1d821b881e6)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3568d5721f5aa122f7bf5efd6f0cbac25a77b24e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3212,6 +3214,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/328081a6867496fed8408bb4e92c333f76486d1f)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/info: Show CPU architecture as separate line</code>](https://github.com/lxc/incus/commit/b37aa6df7437b27273f8fa6dd443e1d821b881e6)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3568d5721f5aa122f7bf5efd6f0cbac25a77b24e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4735,29 +4739,8 @@
 - [ ] [<code>Set cmake project name</code>](https://github.com/OLSR/OONF/commit/87820df462c6b821032b284f4d6e9db9d661d07c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.11.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.11.0...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
 
-- [ ] [<code>fix(gui): appstream metainfo warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dec0ad3f2659205ff6efdb8d12ec333ba9f3a0b4)
-- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7259c6c6938c5b62876f8b21f255f5535616d8b5)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat(android): auto connect when device connects via bluetooth</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b4b1105e09784f815357db7eb4f9aea92592cda9)
-- [ ] [<code>fix(android): coroutines started more than once</code>](https://github.com/Oppzippy/OpenSCQ30/commit/81282d36056857f2952f7a6a574c4cd8d012c3e8)
-- [ ] [<code>feat(android): add setting to toggle for auto connect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/720b2d90566858ee19c541a2c7b37f73d33dd2e5)
-- [ ] [<code>feat(android): improve pairing/unpairing ux</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43ea515d25ec5e60db41d3fd6d28fd66e92e4b1c)
-- [ ] [<code>fix(android): autoconnect not respecting settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f90d0ded56a30571f7a68c97051096307de58eb)
-- [ ] [<code>fix(android): only autoconnect to paired devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/81f97bcdb48f4974b90d6e20b1d7a9942472713f)
-- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5914ad6e33b982ed467fc9216a553f18fa4be8dd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>feat(cli): add shell completions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0ef8f07c83c90e2939bddc9f98f91d83b76be385)
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>ci: bump actions/configure-pages from 4 to 5 (#129)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b34cdaef74ece6a54d4b9770ea11b08f468dd555)
-- [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43efec1a59a5ee9736eeee1c05f81805c8e89fea)
-- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9e8b9dcc54ea4004179cd68383336d920b9c4f4)
-- [ ] [<code>perf(android): stop autoconnect service when unused</code>](https://github.com/Oppzippy/OpenSCQ30/commit/54dc310e5e6a1ad2f0b0982febcf7fb1abe92242)
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c0932dcfa8aeab8110ad67dab29dd7b231962090)
-- [ ] [<code>build: v1.12.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3b638e45cb57d2281252f760e2f4e4b7fffa9b60)
-- [ ] [<code>build(android): update ndk</code>](https://github.com/Oppzippy/OpenSCQ30/commit/55669382dc1fb7a57824118fa2625e247a89d572)
-  - <sub>Tags: <code>v1.12.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
