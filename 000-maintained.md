@@ -2827,6 +2827,8 @@
 - [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/0210f791a07584c57a0b6d7d516981304ca3b902)
 - [ ] [<code>chore: More nicer event source display</code>](https://github.com/krille-chan/fluffychat/commit/ac1ed4dfd02a242314c1f8981b1d386b31ba8102)
 - [ ] [<code>chore: Let error reporter fill out bug report</code>](https://github.com/krille-chan/fluffychat/commit/86df13d6d82af7414746908e3cc8b13f356566bd)
+- [ ] [<code>refactor: Download on android and iOS with file_picker</code>](https://github.com/krille-chan/fluffychat/commit/a705a5b39966107c44b0e5a383982f13bf69264c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -2989,8 +2991,10 @@
 - [ ] [<code>chore: Follow up manage aliases</code>](https://github.com/krille-chan/fluffychat/commit/0210f791a07584c57a0b6d7d516981304ca3b902)
 - [ ] [<code>chore: More nicer event source display</code>](https://github.com/krille-chan/fluffychat/commit/ac1ed4dfd02a242314c1f8981b1d386b31ba8102)
 - [ ] [<code>chore: Let error reporter fill out bug report</code>](https://github.com/krille-chan/fluffychat/commit/86df13d6d82af7414746908e3cc8b13f356566bd)
+- [ ] [<code>refactor: Download on android and iOS with file_picker</code>](https://github.com/krille-chan/fluffychat/commit/a705a5b39966107c44b0e5a383982f13bf69264c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
-#### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/3ebe7b8b713b2ebfe2ce92d48fd8d044276b2879...HEAD)
+#### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
@@ -4750,6 +4754,10 @@
 - [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43efec1a59a5ee9736eeee1c05f81805c8e89fea)
 - [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9e8b9dcc54ea4004179cd68383336d920b9c4f4)
 - [ ] [<code>perf(android): stop autoconnect service when unused</code>](https://github.com/Oppzippy/OpenSCQ30/commit/54dc310e5e6a1ad2f0b0982febcf7fb1abe92242)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c0932dcfa8aeab8110ad67dab29dd7b231962090)
+- [ ] [<code>build: v1.12.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3b638e45cb57d2281252f760e2f4e4b7fffa9b60)
+- [ ] [<code>build(android): update ndk</code>](https://github.com/Oppzippy/OpenSCQ30/commit/55669382dc1fb7a57824118fa2625e247a89d572)
+  - <sub>Tags: <code>v1.12.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
