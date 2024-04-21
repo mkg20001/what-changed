@@ -3098,6 +3098,10 @@
 - [ ] [<code>incusd/storage/drivers: Introduce SparseFileWrapper</code>](https://github.com/lxc/incus/commit/d4948b045d1f90daac3e8f48db492402c6ee0740)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on backup import</code>](https://github.com/lxc/incus/commit/b7025b3e9e1ee5e47228e57a4b11ca519743f892)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on volume migration</code>](https://github.com/lxc/incus/commit/5353b87c51129f521f504ec10d9117c99f944be6)
+- [ ] [<code>incus/storage: Support creating storage pool from yaml</code>](https://github.com/lxc/incus/commit/0864637abefc63a55f516f598a4c2f1581f52a87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/328081a6867496fed8408bb4e92c333f76486d1f)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3200,6 +3204,10 @@
 - [ ] [<code>incusd/storage/drivers: Introduce SparseFileWrapper</code>](https://github.com/lxc/incus/commit/d4948b045d1f90daac3e8f48db492402c6ee0740)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on backup import</code>](https://github.com/lxc/incus/commit/b7025b3e9e1ee5e47228e57a4b11ca519743f892)
 - [ ] [<code>incusd/storage/drivers/vfs: Use SparseFileWrapper on volume migration</code>](https://github.com/lxc/incus/commit/5353b87c51129f521f504ec10d9117c99f944be6)
+- [ ] [<code>incus/storage: Support creating storage pool from yaml</code>](https://github.com/lxc/incus/commit/0864637abefc63a55f516f598a4c2f1581f52a87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/328081a6867496fed8408bb4e92c333f76486d1f)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
