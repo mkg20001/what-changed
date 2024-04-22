@@ -2486,6 +2486,8 @@
 - [ ] [<code>Dbeaver/pro#2529 Clean up code after initial semantics-based completion implementation (#23438)</code>](https://github.com/dbeaver/dbeaver/commit/e48e6491b3bfafb06aea0ca9b20664460ad06ea8)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/7bf16e7e033cfe8da077ce38dbdccfde279f99e3)
+- [ ] [<code>#24129 Fix NPE in completion processor (#24134)</code>](https://github.com/dbeaver/dbeaver/commit/bccf86dcd74adf07426516900bda685dda095240)
+- [ ] [<code>CB-4757 fix qm queries for mysql (#23427)</code>](https://github.com/dbeaver/dbeaver/commit/49342d9172535832c694c834dcde812f836811e0)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3108,6 +3110,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/info: Show CPU architecture as separate line</code>](https://github.com/lxc/incus/commit/b37aa6df7437b27273f8fa6dd443e1d821b881e6)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3568d5721f5aa122f7bf5efd6f0cbac25a77b24e)
+- [ ] [<code>incus/cluster_group: Add yaml support for cluster group create</code>](https://github.com/lxc/incus/commit/c64a3f39f2556a86a2b58f95eeaba0c1b57ea5ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d2274b4b786f322db2698c80bd4549401457022b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3216,6 +3222,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/info: Show CPU architecture as separate line</code>](https://github.com/lxc/incus/commit/b37aa6df7437b27273f8fa6dd443e1d821b881e6)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3568d5721f5aa122f7bf5efd6f0cbac25a77b24e)
+- [ ] [<code>incus/cluster_group: Add yaml support for cluster group create</code>](https://github.com/lxc/incus/commit/c64a3f39f2556a86a2b58f95eeaba0c1b57ea5ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d2274b4b786f322db2698c80bd4549401457022b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3837,6 +3847,8 @@
 - [ ] [<code>Bump rav1e to 0.7.1 (#2117)</code>](https://github.com/AOMediaCodec/libavif/commit/d9398970c37d0da56482efa1af8df0c44ea9e509)
 - [ ] [<code>Bump libxml2 (#2118)</code>](https://github.com/AOMediaCodec/libavif/commit/89f9b3a1b08ea0a82600af0d615c5b242323bc0b)
 - [ ] [<code>Check that the header size fits in the stream. (#2123)</code>](https://github.com/AOMediaCodec/libavif/commit/961e4fe8db159779a210fcb8e15e522a8ff203a2)
+- [ ] [<code>Remove CHANGES comment. (#2127)</code>](https://github.com/AOMediaCodec/libavif/commit/4acbd23033d424248d5778581141ed21eaf670fd)
+- [ ] [<code>Add option parsing for rav1e and SVT-AV1. (#2126)</code>](https://github.com/AOMediaCodec/libavif/commit/ca071c4dbc403a66aa6ea8f942c913b9d81b4a60)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4152,6 +4164,17 @@
 - [ ] [<code>fix(instance): add name length check for instance name (creation/edit)</code>](https://github.com/canonical/lxd-ui/commit/eb3881ee6bb2133807f3d06787fa3c3dd61a35a8)
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.6</code>](https://github.com/canonical/lxd-ui/commit/a583fa676c01035b2c7196c358bf70fb29b27f08)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.52.0</code>](https://github.com/canonical/lxd-ui/commit/74693e7e92322844c7ce970a08286d6fe8997625)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>github: test LXD 5.21/edge in PR job</code>](https://github.com/canonical/lxd-ui/commit/0cc99c54eb62389c582f4f0361d7ec4450401dc2)
+- [ ] [<code>github: replace LXD 5.0/stable by 5.0/edge in PR job</code>](https://github.com/canonical/lxd-ui/commit/1583bb21e250d97a918e17613f4e1583037a3aac)
+- [ ] [<code>tests: replace 5.0-stable by 5.0-edge</code>](https://github.com/canonical/lxd-ui/commit/2adc9c3dc09c5786fe6bcd4c86707b3860d01bb4)
+- [ ] [<code>package.json: s/5.0-stable/5.0-edge/ and add 5.21-edge</code>](https://github.com/canonical/lxd-ui/commit/7c6f69e5e9c4973491f1fdf23a6672e384a92f35)
+- [ ] [<code>ARCHITECTURE: update for changes to CI on PRs</code>](https://github.com/canonical/lxd-ui/commit/931189e56c5e6b99bda38dc2819762e5eff0c759)
+- [ ] [<code>HACKING: update test-e2e names and add 5.21-edge</code>](https://github.com/canonical/lxd-ui/commit/adba742676aff915b0eabd190ebcf340e6be8116)
+- [ ] [<code>src/util/architectures.tsx: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/0e41cce801eb10bdc9dbbe85a73fff55261f22a4)
+- [ ] [<code>src/pages/operations/OperationInstanceName: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/52e3184db395b480be21b36e8641c73228690fb1)
+- [ ] [<code>src/pages/operations/OperationInstanceName: re-enable linkable description for snapshots</code>](https://github.com/canonical/lxd-ui/commit/8b0ee16347e553e0097d1fe11a3ca990b43bae98)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
