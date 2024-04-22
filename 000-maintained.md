@@ -4901,6 +4901,13 @@
 - [ ] [<code>Show Matrix specs supported by the homeserver</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9cb9aa9e0e38077dd8f8e06e17f6169847f741b)
 - [ ] [<code>Push docker images also to ghcr.io</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/03c4955ef70435500eb0e2b82b9feb0b88c55573)
 - [ ] [<code>Fetch tags in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/881760c8d893dade0e91f33f8f8cbc08a0fed065)
+- [ ] [<code>Use node 20 in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6bdeadcc3edb03224d3870663e40e12ab1cbedd0)
+- [ ] [<code>Use nginx:stable-alpine as base image for docker container</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/df1fbbc16bd2b15c290cbe2df9e5e0f943be8588)
+- [ ] [<code>Bump version to 0.9.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6d9abe85b032d61158c03e33d562cab6823691c7)
+  - <sub>Tags: <code>0.9.3</code></sub>
+- [ ] [<code>Fix fetching tags in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/400e9aa41679421db9a93ad2d8fa6e3e060b0a93)
+- [ ] [<code>Bump version to 0.9.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/028babc8858a85c6a3abc1e36483d41b5d8402ea)
+  - <sub>Tags: <code>0.9.4</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
