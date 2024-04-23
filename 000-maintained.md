@@ -3114,6 +3114,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d2274b4b786f322db2698c80bd4549401457022b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>gitignore: Add JetBrains</code>](https://github.com/lxc/incus/commit/7a2c2646fb0deb4d0c21a0826b182e78d76b738d)
+- [ ] [<code>api: storage_zfs_vdev</code>](https://github.com/lxc/incus/commit/583d6e54f8cb111b84f4d61dc565f5659e2b989c)
+- [ ] [<code>doc: Update ZFS support for multiple block devices and vdev types in doc/reference/storage_zfs.md</code>](https://github.com/lxc/incus/commit/7fd44acf097b795305c5c4fcee0ac076fa8128c5)
+- [ ] [<code>incusd/storage/zfs: Add support for vdev type and multiple block devices</code>](https://github.com/lxc/incus/commit/e375d8b70129321388577902e7f296f5f7bdd098)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/info: Sorting network interfaces</code>](https://github.com/lxc/incus/commit/d4ad3f1601b4d38553568ed631d950524232cc47)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3226,6 +3232,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d2274b4b786f322db2698c80bd4549401457022b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>gitignore: Add JetBrains</code>](https://github.com/lxc/incus/commit/7a2c2646fb0deb4d0c21a0826b182e78d76b738d)
+- [ ] [<code>api: storage_zfs_vdev</code>](https://github.com/lxc/incus/commit/583d6e54f8cb111b84f4d61dc565f5659e2b989c)
+- [ ] [<code>doc: Update ZFS support for multiple block devices and vdev types in doc/reference/storage_zfs.md</code>](https://github.com/lxc/incus/commit/7fd44acf097b795305c5c4fcee0ac076fa8128c5)
+- [ ] [<code>incusd/storage/zfs: Add support for vdev type and multiple block devices</code>](https://github.com/lxc/incus/commit/e375d8b70129321388577902e7f296f5f7bdd098)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/info: Sorting network interfaces</code>](https://github.com/lxc/incus/commit/d4ad3f1601b4d38553568ed631d950524232cc47)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3849,6 +3861,7 @@
 - [ ] [<code>Check that the header size fits in the stream. (#2123)</code>](https://github.com/AOMediaCodec/libavif/commit/961e4fe8db159779a210fcb8e15e522a8ff203a2)
 - [ ] [<code>Remove CHANGES comment. (#2127)</code>](https://github.com/AOMediaCodec/libavif/commit/4acbd23033d424248d5778581141ed21eaf670fd)
 - [ ] [<code>Add option parsing for rav1e and SVT-AV1. (#2126)</code>](https://github.com/AOMediaCodec/libavif/commit/ca071c4dbc403a66aa6ea8f942c913b9d81b4a60)
+- [ ] [<code>README.md: remove deprecated option in example</code>](https://github.com/AOMediaCodec/libavif/commit/b2ecd8e45af92cbd121e8efd13ae63ec9c96c749)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
