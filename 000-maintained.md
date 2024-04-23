@@ -7,6 +7,8 @@
 
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
+- [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/ad9d51bb114a4d54f5d9df4bbdf65bf25777e8d2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -2488,6 +2490,15 @@
 - [ ] [<code>NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/7bf16e7e033cfe8da077ce38dbdccfde279f99e3)
 - [ ] [<code>#24129 Fix NPE in completion processor (#24134)</code>](https://github.com/dbeaver/dbeaver/commit/bccf86dcd74adf07426516900bda685dda095240)
 - [ ] [<code>CB-4757 fix qm queries for mysql (#23427)</code>](https://github.com/dbeaver/dbeaver/commit/49342d9172535832c694c834dcde812f836811e0)
+- [ ] [<code>#23442 SSH page layout fix (#25746)</code>](https://github.com/dbeaver/dbeaver/commit/7b9c3dc3e5535137c9b3efaa85916fa1c1d67b84)
+- [ ] [<code>dbeaver/dbeaver#23445 NPE when uncheck keep layout (#23449)</code>](https://github.com/dbeaver/dbeaver/commit/63b1e40690672e8a0176daecfe31d54b8efc05cb)
+- [ ] [<code>bash fix</code>](https://github.com/dbeaver/dbeaver/commit/976aa827308ad0f0a7f21ab3e604b2a56c6c6362)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/3f3a73bae505470fe9398f5e9960010389067957)
+- [ ] [<code>bash fix</code>](https://github.com/dbeaver/dbeaver/commit/8a92567260341cc29fa09594efcd2b9ca2c1b81e)
+- [ ] [<code>dbeaver/pro#2250 Check transactions support before save (#26420)</code>](https://github.com/dbeaver/dbeaver/commit/eab1181cd1e789d7a7641c03cb14f7ad8bc43735)
+- [ ] [<code>#22650 fix trigger deletion without default catalog (#23469)</code>](https://github.com/dbeaver/dbeaver/commit/f2c5c60a6a7ed56cf08f6ca862b7642c76e67d4c)
+- [ ] [<code>#26434 Disable SVG tests for now (#26443)</code>](https://github.com/dbeaver/dbeaver/commit/ba8085440084479d28e0035acea86a9f0a7dbfb8)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3120,6 +3131,10 @@
 - [ ] [<code>incusd/storage/zfs: Add support for vdev type and multiple block devices</code>](https://github.com/lxc/incus/commit/e375d8b70129321388577902e7f296f5f7bdd098)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incus/info: Sorting network interfaces</code>](https://github.com/lxc/incus/commit/d4ad3f1601b4d38553568ed631d950524232cc47)
+- [ ] [<code>incus/network_acl: Add cmd.Example for network acl create</code>](https://github.com/lxc/incus/commit/e728bf77ff7f58cdd14bcb78acb519056ab6f5ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f1322e7400e31b35e0a5bab9eb977c377a0ca1a)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3238,6 +3253,10 @@
 - [ ] [<code>incusd/storage/zfs: Add support for vdev type and multiple block devices</code>](https://github.com/lxc/incus/commit/e375d8b70129321388577902e7f296f5f7bdd098)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incus/info: Sorting network interfaces</code>](https://github.com/lxc/incus/commit/d4ad3f1601b4d38553568ed631d950524232cc47)
+- [ ] [<code>incus/network_acl: Add cmd.Example for network acl create</code>](https://github.com/lxc/incus/commit/e728bf77ff7f58cdd14bcb78acb519056ab6f5ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f1322e7400e31b35e0a5bab9eb977c377a0ca1a)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4957,6 +4976,13 @@
 - [ ] [<code>Use vite-plugin-version-mark to read project version</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f4ea63c8f4cf087b6b5c1f2f5c0a7c41fbf47fb8)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Set package type to "module"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/77be88402fd418b2f0dbe43ba4c0570dd15943f6)
+- [ ] [<code>Fix build output path</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1837733e07e1069e2b3ceb53d6cd64a27dd17293)
+- [ ] [<code>Set base path for github pages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/264e0b5ec6253b24057ebc96fbfa840bce32ec9d)
+- [ ] [<code>Bump version to 0.10.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/630e809e7824a83076a68369e74fc9162dcfc485)
+  - <sub>Tags: <code>0.10.0</code></sub>
+- [ ] [<code>Migrate to yarn v4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5d1e43611ce52be160e1e3e6129ad39c7659616e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e09404738821992dd560ca9331e604b9b74afe31)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
