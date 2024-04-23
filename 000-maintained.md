@@ -4944,6 +4944,19 @@
 - [ ] [<code>Fix fetching tags in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/400e9aa41679421db9a93ad2d8fa6e3e060b0a93)
 - [ ] [<code>Bump version to 0.9.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/028babc8858a85c6a3abc1e36483d41b5d8402ea)
   - <sub>Tags: <code>0.9.4</code></sub>
+- [ ] [<code>Get available translations from context in LoginPage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/441f7749a286b2c6b06381c97870802b18824ad2)
+- [ ] [<code>Fallback to english if no translation in the current language is available</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e666c9c7bd4e661bb21ad3a45f9fe93ee2c84811)
+- [ ] [<code>Remove obsolete react-admin translations for german</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5f1dfc95c7e3990de1b230246b6cff78d1c75d1d)
+- [ ] [<code>Use officially recommended language packages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0986d95de24e68b037af024a3f4fceea353837de)
+- [ ] [<code>Fix translations for registration tokens</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/531d8f2d7f29789392bc2e4b05356eb8378afb9d)
+- [ ] [<code>Show links to media content from local users and reports (#508)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c6f9dbec183b898332f73d8edea70b8bb06ed0dc)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.5.0 to 4.6.0 (#509)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/428cb56fdf73723d3a6bf2b384050f00711876b4)
+- [ ] [<code>Bump softprops/action-gh-release from 2.0.3 to 2.0.4 (#510)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ef3836313c69957b32713c68d96b808bd62dd4f9)
+- [ ] [<code>Rework configuration process</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4b1277f653ae983f8428f2241700bfbdace2032a)
+- [ ] [<code>Use vitejs instead of react-scripts</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2e2085cdfeb4a4ded1c01470ac21f46558ebbec7)
+- [ ] [<code>Use vite-plugin-version-mark to read project version</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f4ea63c8f4cf087b6b5c1f2f5c0a7c41fbf47fb8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Set package type to "module"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/77be88402fd418b2f0dbe43ba4c0570dd15943f6)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
