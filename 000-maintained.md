@@ -9,6 +9,8 @@
 
 - [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/ad9d51bb114a4d54f5d9df4bbdf65bf25777e8d2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/fe76fb7c3672a27bccb32f89609148c09fde8568)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -2501,6 +2503,20 @@
 - [ ] [<code>#26434 Disable SVG tests for now (#26443)</code>](https://github.com/dbeaver/dbeaver/commit/ba8085440084479d28e0035acea86a9f0a7dbfb8)
 - [ ] [<code>Add new french translations (#23329)</code>](https://github.com/dbeaver/dbeaver/commit/4d90b7cfc745cd4e95626f2a459b224db9f76981)
   - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>use nio</code>](https://github.com/dbeaver/dbeaver/commit/13db47b4657f419ebbecb2969f09c9dd76702c2d)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/64d426642d37f5c667249671d38407e6d0ec560a)
+- [ ] [<code>dbeaver/pro#2641 OSGI config fix</code>](https://github.com/dbeaver/dbeaver/commit/e74b17cc31020f00fbef208c397c85fa18b995dc)
+- [ ] [<code>dbeaver/pro#2641 Migrate to Eclipse 2024-03 (#23158)</code>](https://github.com/dbeaver/dbeaver/commit/0acf99dde472ae60f17840966f129b265885be3f)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>dbeaver/pro#2641 Remove legacy component annotations</code>](https://github.com/dbeaver/dbeaver/commit/9a2bd0df6cdb8a51788aec02c5ba997f4131acc1)
+- [ ] [<code>#23105 Ensure stream column names are unique (#26274)</code>](https://github.com/dbeaver/dbeaver/commit/fcf4cdfc1f034ce3415cd0fd37c412f95f45ea46)
+- [ ] [<code>dbeaver/pro#2755 Specify file extension depending on the exporter (#26391)</code>](https://github.com/dbeaver/dbeaver/commit/a9bae737141c51cd5ebb37f3080bbc02b5a7e16a)
+- [ ] [<code>24.0.4 version bump</code>](https://github.com/dbeaver/dbeaver/commit/478801576a07f17df8a7bae7aff86bb5eb7e5503)
+- [ ] [<code>Fix exported packages (remove redundant) (#26610)</code>](https://github.com/dbeaver/dbeaver/commit/119cfccfafd73f74a83ee741a05d36368995a0dd)
+- [ ] [<code>dbeaver/pro#2773 Job cancel fix (#26422)</code>](https://github.com/dbeaver/dbeaver/commit/c0d2527a51096ab5291c963d2723cc2012ad0da3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2759 Cleanup viewer toolbar (#26379)</code>](https://github.com/dbeaver/dbeaver/commit/ceeddd54c8033591a5673d2914d09ba7b39852ca)
+- [ ] [<code>dbeaver/pro#2744 Fix parallel transfer job cancellation (#26450)</code>](https://github.com/dbeaver/dbeaver/commit/88d9c941b78b6e7b1d52936cb070999f79ef054b)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3138,6 +3154,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f1322e7400e31b35e0a5bab9eb977c377a0ca1a)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_forward: Add yaml example for create</code>](https://github.com/lxc/incus/commit/07395fa051955611579148c76cd5ab4aed13e041)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b4c9e31647370d9276d2218a70487b6fa70eee96)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/config_template: Add file support for create</code>](https://github.com/lxc/incus/commit/7ef63aecea27363f1f55f0f4a29f9094427a4248)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/101ec89c0c19c8232b9d3249d2446c69209889a2)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3259,6 +3283,14 @@
 - [ ] [<code>incus/network_acl: Add cmd.Example for network acl create</code>](https://github.com/lxc/incus/commit/e728bf77ff7f58cdd14bcb78acb519056ab6f5ad)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f1322e7400e31b35e0a5bab9eb977c377a0ca1a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_forward: Add yaml example for create</code>](https://github.com/lxc/incus/commit/07395fa051955611579148c76cd5ab4aed13e041)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b4c9e31647370d9276d2218a70487b6fa70eee96)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/config_template: Add file support for create</code>](https://github.com/lxc/incus/commit/7ef63aecea27363f1f55f0f4a29f9094427a4248)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/101ec89c0c19c8232b9d3249d2446c69209889a2)
   - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
@@ -4673,6 +4705,12 @@
 - [ ] [<code>Fix wrong bonds.parameters.mode syntax in example (#459)</code>](https://github.com/canonical/netplan/commit/cf65bcd26c87777d74c5277e9254df6f76fe4cf8)
 - [ ] [<code>tests: use proper 0o600 file permissions in more places</code>](https://github.com/canonical/netplan/commit/3ab206a4a9b890034e809464eac49f6458507b3f)
 - [ ] [<code>parse: fix redefinition of gateway(4|6)</code>](https://github.com/canonical/netplan/commit/a670781c0f00171d2fb7dd83dbd2de723432a11d)
+- [ ] [<code>Adding missing 'watchfiles' dependency for Sphinx.</code>](https://github.com/canonical/netplan/commit/8ba2071a2cc11352a549f4dfffc18ebef9c14310)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Minor fixes in lang. and mark-up in YAML reference.</code>](https://github.com/canonical/netplan/commit/cc0b494128cb55fead68aeb4a9063cc2eab27776)
+- [ ] [<code>Tutorial reorg & lang. + formatting improvements.</code>](https://github.com/canonical/netplan/commit/841f38b807880df4aa98f666d0b1ad5f625392d0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc:tutorial: fix whitespace formatting</code>](https://github.com/canonical/netplan/commit/ab2e2f9941ba5f25986223cbf985faae5eae158b)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4986,6 +5024,10 @@
 - [ ] [<code>Migrate to yarn v4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5d1e43611ce52be160e1e3e6129ad39c7659616e)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e09404738821992dd560ca9331e604b9b74afe31)
+- [ ] [<code>Add BUILDKIT_CONTEXT_KEEP_GIT_DIR=1 to README and docker-compose.yml</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a490b7bc8561f5c9357521a8c7635e25637f9af8)
+- [ ] [<code>Add BASE_PATH argument to Dockerfile</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ac3b40b188027c2968ac188c99f9c6a3c3b4cc0d)
+- [ ] [<code>Bump version to 0.10.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b112689b8c796686872cb573ad2a582dcaacf3b5)
+  - <sub>Tags: <code>0.10.1</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
@@ -5026,6 +5068,13 @@
 - [ ] [<code>vm: rework `in` operator semantics</code>](https://github.com/jow-/ucode/commit/be767ae197babd656d4f5d9c2d5013e39ddbe656)
 - [ ] [<code>ubus: add explicit support for deferring incoming requests</code>](https://github.com/jow-/ucode/commit/4ade84e8fb819eb296856452bd4258461d746ef8)
 - [ ] [<code>uci: remove incorrectly documentated reorder() parameter</code>](https://github.com/jow-/ucode/commit/cfe137be068a7ba1895d3c9bcb7b38d21e5a95dd)
+- [ ] [<code>lib: introduce socket library</code>](https://github.com/jow-/ucode/commit/e8d78a26da0c6a3144b2b08bee989564a516b951)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build: fix symbol and library detection</code>](https://github.com/jow-/ucode/commit/a0ad1d127ae6ff14cd54849c72347762a52e200a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>jsdoc: disable default module titles</code>](https://github.com/jow-/ucode/commit/674f65ee551dc10894d7c86e4ac17a7c00cfacf2)
+- [ ] [<code>socket: rework error handling</code>](https://github.com/jow-/ucode/commit/a33d16a8649306a08fe21f3f693c55ad7cf97d1d)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
