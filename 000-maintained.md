@@ -2499,6 +2499,8 @@
 - [ ] [<code>dbeaver/pro#2250 Check transactions support before save (#26420)</code>](https://github.com/dbeaver/dbeaver/commit/eab1181cd1e789d7a7641c03cb14f7ad8bc43735)
 - [ ] [<code>#22650 fix trigger deletion without default catalog (#23469)</code>](https://github.com/dbeaver/dbeaver/commit/f2c5c60a6a7ed56cf08f6ca862b7642c76e67d4c)
 - [ ] [<code>#26434 Disable SVG tests for now (#26443)</code>](https://github.com/dbeaver/dbeaver/commit/ba8085440084479d28e0035acea86a9f0a7dbfb8)
+- [ ] [<code>Add new french translations (#23329)</code>](https://github.com/dbeaver/dbeaver/commit/4d90b7cfc745cd4e95626f2a459b224db9f76981)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2584,6 +2586,7 @@
 - [ ] [<code>Build concurrently, test serially</code>](https://github.com/canonical/dqlite/commit/2b3d6cfa233db0aeca590f823e5a9d7ae3c4b699)
 - [ ] [<code>Add CONTRIBUTING.md</code>](https://github.com/canonical/dqlite/commit/e5801378487622761ae04c40144bd2964fd2905b)
 - [ ] [<code>Link contribution guidelines from README</code>](https://github.com/canonical/dqlite/commit/8d99f50a168a4dc7f38321a78601bf7ecb9e5bb8)
+- [ ] [<code>Revert tolerance for EAGAIN when probing async I/O</code>](https://github.com/canonical/dqlite/commit/14bc162cb99a42ed3417c0356962d04e56015365)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
