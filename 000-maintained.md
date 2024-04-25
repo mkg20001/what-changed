@@ -2517,6 +2517,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>dbeaver/pro#2759 Cleanup viewer toolbar (#26379)</code>](https://github.com/dbeaver/dbeaver/commit/ceeddd54c8033591a5673d2914d09ba7b39852ca)
 - [ ] [<code>dbeaver/pro#2744 Fix parallel transfer job cancellation (#26450)</code>](https://github.com/dbeaver/dbeaver/commit/88d9c941b78b6e7b1d52936cb070999f79ef054b)
+- [ ] [<code>CB-5055 trim lines in key data (#26614)</code>](https://github.com/dbeaver/dbeaver/commit/113a904f930e2c05ae5739ce7b937452f739e138)
+- [ ] [<code>dbeaver/pro#2771 Vertical button alignment fix (#23476)</code>](https://github.com/dbeaver/dbeaver/commit/4c5181e289aa646fb3d2289090fd4cc3497a3d6d)
+- [ ] [<code>dbeaver/pro#2761 vqb reset layout (#23453)</code>](https://github.com/dbeaver/dbeaver/commit/dbef8b93da3d2f787f96b71d0d3842f5360f05d4)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2602,6 +2605,7 @@
 - [ ] [<code>Build concurrently, test serially</code>](https://github.com/canonical/dqlite/commit/2b3d6cfa233db0aeca590f823e5a9d7ae3c4b699)
 - [ ] [<code>Add CONTRIBUTING.md</code>](https://github.com/canonical/dqlite/commit/e5801378487622761ae04c40144bd2964fd2905b)
 - [ ] [<code>Link contribution guidelines from README</code>](https://github.com/canonical/dqlite/commit/8d99f50a168a4dc7f38321a78601bf7ecb9e5bb8)
+- [ ] [<code>Three portability fixes around integer width</code>](https://github.com/canonical/dqlite/commit/822519192bbccc04b261434c0952bc646381254d)
 - [ ] [<code>Revert tolerance for EAGAIN when probing async I/O</code>](https://github.com/canonical/dqlite/commit/14bc162cb99a42ed3417c0356962d04e56015365)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
@@ -3162,6 +3166,31 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/101ec89c0c19c8232b9d3249d2446c69209889a2)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_integrations: Add yaml support for create</code>](https://github.com/lxc/incus/commit/37b6279f41d2ec958c77a0775439de68a459e351)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e0dcefa35d37cefb1296d58d47e6fb90eb8881e7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/s3: Use 'mc' client</code>](https://github.com/lxc/incus/commit/1b75e3bc7887abeecaf87282a15ed719d665ac40)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Switch to use minio's 'mc' client</code>](https://github.com/lxc/incus/commit/c062d357bf66b13035ac580722b9bc9675abd1eb)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/4d415869a8965bbfe9327c6516fba6eefa88fefa)
+- [ ] [<code>github: Download MinIO client</code>](https://github.com/lxc/incus/commit/11c6a488e23575a1db9d5ad63a720c8b0175bf82)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>doc: Avoid MyST 3.0.0</code>](https://github.com/lxc/incus/commit/11efc004503eae03aed35f33e7834bb58f7bd805)
+- [ ] [<code>incus/doc/installing.md: Add Docker information</code>](https://github.com/lxc/incus/commit/101ebd45b0c999af0917a1781128a846fc47f650)
+- [ ] [<code>doc: Add Podman to wordlist</code>](https://github.com/lxc/incus/commit/a1ae972410ab6358d86a5dbb73b43e2a9bb8fe46)
+- [ ] [<code>incus/cluster: Add columns to list</code>](https://github.com/lxc/incus/commit/b6b73ab302950a600fecae31ad4c21d60724e696)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e9b15d2735bd966bf4a0d35b28adfb30a23e8e8e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/project: Add customazible columns to list</code>](https://github.com/lxc/incus/commit/fad6b681fab54d962ad69718362c5e41d8e4254d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7bd4adeb89c7cd3fae309024179fcebb2eee6034)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: container_migration_stateful</code>](https://github.com/lxc/incus/commit/3727be0c917f07d92b3c6ac4ee968f353eda77b2)
+- [ ] [<code>internal/instance: Add migration.stateful to containers</code>](https://github.com/lxc/incus/commit/3eb54d2fd6b21d08bfb0078d46666d0b87710188)
+- [ ] [<code>incusd/instance/lxc: Add checks for migration.stateful</code>](https://github.com/lxc/incus/commit/370a098d66ef1f369e3ac27b1375af8277031d05)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fa22e8c29513a10cb0ab1ea685acca0c4cfe88da)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3292,6 +3321,31 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/101ec89c0c19c8232b9d3249d2446c69209889a2)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_integrations: Add yaml support for create</code>](https://github.com/lxc/incus/commit/37b6279f41d2ec958c77a0775439de68a459e351)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e0dcefa35d37cefb1296d58d47e6fb90eb8881e7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/s3: Use 'mc' client</code>](https://github.com/lxc/incus/commit/1b75e3bc7887abeecaf87282a15ed719d665ac40)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Switch to use minio's 'mc' client</code>](https://github.com/lxc/incus/commit/c062d357bf66b13035ac580722b9bc9675abd1eb)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/4d415869a8965bbfe9327c6516fba6eefa88fefa)
+- [ ] [<code>github: Download MinIO client</code>](https://github.com/lxc/incus/commit/11c6a488e23575a1db9d5ad63a720c8b0175bf82)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>doc: Avoid MyST 3.0.0</code>](https://github.com/lxc/incus/commit/11efc004503eae03aed35f33e7834bb58f7bd805)
+- [ ] [<code>incus/doc/installing.md: Add Docker information</code>](https://github.com/lxc/incus/commit/101ebd45b0c999af0917a1781128a846fc47f650)
+- [ ] [<code>doc: Add Podman to wordlist</code>](https://github.com/lxc/incus/commit/a1ae972410ab6358d86a5dbb73b43e2a9bb8fe46)
+- [ ] [<code>incus/cluster: Add columns to list</code>](https://github.com/lxc/incus/commit/b6b73ab302950a600fecae31ad4c21d60724e696)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e9b15d2735bd966bf4a0d35b28adfb30a23e8e8e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/project: Add customazible columns to list</code>](https://github.com/lxc/incus/commit/fad6b681fab54d962ad69718362c5e41d8e4254d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7bd4adeb89c7cd3fae309024179fcebb2eee6034)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: container_migration_stateful</code>](https://github.com/lxc/incus/commit/3727be0c917f07d92b3c6ac4ee968f353eda77b2)
+- [ ] [<code>internal/instance: Add migration.stateful to containers</code>](https://github.com/lxc/incus/commit/3eb54d2fd6b21d08bfb0078d46666d0b87710188)
+- [ ] [<code>incusd/instance/lxc: Add checks for migration.stateful</code>](https://github.com/lxc/incus/commit/370a098d66ef1f369e3ac27b1375af8277031d05)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fa22e8c29513a10cb0ab1ea685acca0c4cfe88da)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3916,6 +3970,8 @@
 - [ ] [<code>Remove CHANGES comment. (#2127)</code>](https://github.com/AOMediaCodec/libavif/commit/4acbd23033d424248d5778581141ed21eaf670fd)
 - [ ] [<code>Add option parsing for rav1e and SVT-AV1. (#2126)</code>](https://github.com/AOMediaCodec/libavif/commit/ca071c4dbc403a66aa6ea8f942c913b9d81b4a60)
 - [ ] [<code>README.md: remove deprecated option in example</code>](https://github.com/AOMediaCodec/libavif/commit/b2ecd8e45af92cbd121e8efd13ae63ec9c96c749)
+- [ ] [<code>FIx CI for macOS (#2132)</code>](https://github.com/AOMediaCodec/libavif/commit/c3809cce7333810f66b79f5319b799422463897e)
+- [ ] [<code>ext: update to  libaom v3.9.0</code>](https://github.com/AOMediaCodec/libavif/commit/575f8c002e9c2c893145403eb6bb8fd767215094)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
@@ -4711,6 +4767,21 @@
 - [ ] [<code>Tutorial reorg & lang. + formatting improvements.</code>](https://github.com/canonical/netplan/commit/841f38b807880df4aa98f666d0b1ad5f625392d0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc:tutorial: fix whitespace formatting</code>](https://github.com/canonical/netplan/commit/ab2e2f9941ba5f25986223cbf985faae5eae158b)
+- [ ] [<code>util: fix potential NULL pointer assert</code>](https://github.com/canonical/netplan/commit/487653d36d089395c03dc6efbdee76f590720be9)
+- [ ] [<code>networkd: add wait-online enumeration utils</code>](https://github.com/canonical/netplan/commit/c69812f771caa63cb148bb61627eceea0c1f967d)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>generate: enable systemd-networkd-wait-online for non-optional interfaces only</code>](https://github.com/canonical/netplan/commit/7a6bc460f97f2c775434df8e4a263c361cede299)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CLI:utils: Do not ask for daemon-reload password interactively</code>](https://github.com/canonical/netplan/commit/223e3d3dd10c44149e2c9b9741900d11ebec6f97)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CLI:generate: call daemon-reload after (re-)generating services</code>](https://github.com/canonical/netplan/commit/1892487a44f06d3af9620a0ca54ed6e32d1ae963)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>wait-online: Do not block on loopback interface</code>](https://github.com/canonical/netplan/commit/af3aef437af67962834edf4142878373ec81f8fd)
+- [ ] [<code>generate: Do not touch wait-online, if we don't have any networkd NetDefs</code>](https://github.com/canonical/netplan/commit/ccb049572740a49ea3a06103dda45437f9b06412)
+- [ ] [<code>wait-online: wait for existing interfaces only and downgrade operational state for interfaces without IP configuration</code>](https://github.com/canonical/netplan/commit/3f8af461a0720186c45521a1e65fb9cde4bc7460)
+- [ ] [<code>wait-online: account for DHCPv4/v6 addresses</code>](https://github.com/canonical/netplan/commit/cf53e8c756b5e710f4788939c72ce1d49a5b876a)
+- [ ] [<code>wait-online: do not require virtual devices to be created already</code>](https://github.com/canonical/netplan/commit/ec99b8ca35f755f4f0345e7b0f5441ec5446f63e)
+- [ ] [<code>wait-online: recognize that bridge/bond members will never gain link-local addresses</code>](https://github.com/canonical/netplan/commit/eff665f76fe78ef3da5f24c801e763c27a32579c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -5075,6 +5146,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>jsdoc: disable default module titles</code>](https://github.com/jow-/ucode/commit/674f65ee551dc10894d7c86e4ac17a7c00cfacf2)
 - [ ] [<code>socket: rework error handling</code>](https://github.com/jow-/ucode/commit/a33d16a8649306a08fe21f3f693c55ad7cf97d1d)
+- [ ] [<code>uloop: add documentation</code>](https://github.com/jow-/ucode/commit/e2b81d869222cc29e41aa7caedaf9c8c842a68e7)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>socket: make socket.send() accept non-string data</code>](https://github.com/jow-/ucode/commit/953f36c96e8aad6627132d2ecb29e865162bfce5)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
