@@ -3017,6 +3017,9 @@
 - [ ] [<code>refactor: Download on android and iOS with file_picker</code>](https://github.com/krille-chan/fluffychat/commit/a705a5b39966107c44b0e5a383982f13bf69264c)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/2b774a678ff19fa3faf0b20a7965777eac194ce9)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/a14b69623dfee50b3f79699b037e6ee9ba4e0f80)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Bump version to 1.20.0</code>](https://github.com/krille-chan/fluffychat/commit/4affd97db47020e3b435ef55d2168cc69eb17c10)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -3182,6 +3185,9 @@
 - [ ] [<code>refactor: Download on android and iOS with file_picker</code>](https://github.com/krille-chan/fluffychat/commit/a705a5b39966107c44b0e5a383982f13bf69264c)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/2b774a678ff19fa3faf0b20a7965777eac194ce9)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/a14b69623dfee50b3f79699b037e6ee9ba4e0f80)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Bump version to 1.20.0</code>](https://github.com/krille-chan/fluffychat/commit/4affd97db47020e3b435ef55d2168cc69eb17c10)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
