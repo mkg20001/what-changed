@@ -4127,6 +4127,8 @@
 - [ ] [<code>ext: update to  libaom v3.9.0</code>](https://github.com/AOMediaCodec/libavif/commit/575f8c002e9c2c893145403eb6bb8fd767215094)
 - [ ] [<code>Force macOS to 13 (#2134)</code>](https://github.com/AOMediaCodec/libavif/commit/4d788d6063f24c1c2d9217d9955eece1375e1cdf)
 - [ ] [<code>Bump libwebp to v1.4.0 (#2133)</code>](https://github.com/AOMediaCodec/libavif/commit/f56a1f1805c98fe9f34fc7b213ac939801bd2808)
+- [ ] [<code>Handle unknown top level boxes with size == 0</code>](https://github.com/AOMediaCodec/libavif/commit/23ead7a5b1bad3875e44bfb0d24dde7a14f5b358)
+- [ ] [<code>read.c: Fix typo</code>](https://github.com/AOMediaCodec/libavif/commit/f24238637661c7302386840b9d58fb8b90cfd663)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/lxc-5.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/lxc-5.0.3...HEAD)
 
