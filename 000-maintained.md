@@ -2522,6 +2522,9 @@
 - [ ] [<code>dbeaver/pro#2761 vqb reset layout (#23453)</code>](https://github.com/dbeaver/dbeaver/commit/dbef8b93da3d2f787f96b71d0d3842f5360f05d4)
 - [ ] [<code>dbeaver/pro#2784 Acquire the onboarding container in the "eclipse" way (#26616)</code>](https://github.com/dbeaver/dbeaver/commit/543b13909ad67edd6137549ec8b60b0a57b8c8eb)
 - [ ] [<code>Cb 4268 force logout (#23425)</code>](https://github.com/dbeaver/dbeaver/commit/1ada07e5305bef993141b904f7b2fbafe433f5f7)
+- [ ] [<code>#26416 Stop appending statements to the query on token delimiter in Smart mode (#26421)</code>](https://github.com/dbeaver/dbeaver/commit/0021ff647d425a39f24da1ba3c30b84c7283c449)
+- [ ] [<code>dbeaver/dbeaver#23259 SAP IQ procedure definition query has changed and all original indentation is lost (#26445)</code>](https://github.com/dbeaver/dbeaver/commit/96311f266a5b212ef997381ed30545c99374fb9c)
+- [ ] [<code>dbeaver/pro#2706 Usage Statistics dialogue appears after double Workspace reset (#26423)</code>](https://github.com/dbeaver/dbeaver/commit/c4a2d4b52c8861f5a4d0bc2d94969737a2a5c116)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2758,6 +2761,7 @@
 - [ ] [<code>Makefile.am: unindent</code>](https://github.com/canonical/dqlite/commit/a1f7396432ecd471cb808cce7c82fcc81e98e97c)
 - [ ] [<code>configure.ac: dqlite-next depends on build-raft</code>](https://github.com/canonical/dqlite/commit/ec33e4f8e0d307a578ed6658a90604e369836f4c)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Remove two tracing lines from vfs2 test</code>](https://github.com/canonical/dqlite/commit/cb65db7df768bbfc3ba80a6071114fd2193feff0)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3350,6 +3354,15 @@
 - [ ] [<code>internal/instance: Add migration.stateful to containers</code>](https://github.com/lxc/incus/commit/3eb54d2fd6b21d08bfb0078d46666d0b87710188)
 - [ ] [<code>incusd/instance/lxc: Add checks for migration.stateful</code>](https://github.com/lxc/incus/commit/370a098d66ef1f369e3ac27b1375af8277031d05)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fa22e8c29513a10cb0ab1ea685acca0c4cfe88da)
+- [ ] [<code>incus/network_load_balancer: add Example to create</code>](https://github.com/lxc/incus/commit/8d9746cdd5c63e071c911caa9fcb49ff96f49277)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/1c2316ab2d87037a551a11f6879eca2165810ff5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_zone: Add example for create command</code>](https://github.com/lxc/incus/commit/7455f5aee63045fcd3a28f73aaf7ea5f5561ec14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/94f8399ba469a03413494d53d248ce08bdf99bf0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Fix bad sphinx requirements</code>](https://github.com/lxc/incus/commit/ef9a763f00b668ec28899fd37d581e9d5bf45ab6)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3505,6 +3518,15 @@
 - [ ] [<code>internal/instance: Add migration.stateful to containers</code>](https://github.com/lxc/incus/commit/3eb54d2fd6b21d08bfb0078d46666d0b87710188)
 - [ ] [<code>incusd/instance/lxc: Add checks for migration.stateful</code>](https://github.com/lxc/incus/commit/370a098d66ef1f369e3ac27b1375af8277031d05)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/fa22e8c29513a10cb0ab1ea685acca0c4cfe88da)
+- [ ] [<code>incus/network_load_balancer: add Example to create</code>](https://github.com/lxc/incus/commit/8d9746cdd5c63e071c911caa9fcb49ff96f49277)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/1c2316ab2d87037a551a11f6879eca2165810ff5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_zone: Add example for create command</code>](https://github.com/lxc/incus/commit/7455f5aee63045fcd3a28f73aaf7ea5f5561ec14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/94f8399ba469a03413494d53d248ce08bdf99bf0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Fix bad sphinx requirements</code>](https://github.com/lxc/incus/commit/ef9a763f00b668ec28899fd37d581e9d5bf45ab6)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
