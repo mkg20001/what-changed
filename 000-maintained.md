@@ -3363,6 +3363,9 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/94f8399ba469a03413494d53d248ce08bdf99bf0)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Fix bad sphinx requirements</code>](https://github.com/lxc/incus/commit/ef9a763f00b668ec28899fd37d581e9d5bf45ab6)
+- [ ] [<code>incusd/instances/qemu: Tweak secureboot firmware list</code>](https://github.com/lxc/incus/commit/0e9942147c62a275d80c4eb1cee60dbaeaa574bb)
+- [ ] [<code>cmd/incus/admin_cluster: Add libexec path for incusd</code>](https://github.com/lxc/incus/commit/2a84aa00ddab35647636eeedbcf2dbd6c27577cc)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3527,6 +3530,9 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/94f8399ba469a03413494d53d248ce08bdf99bf0)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Fix bad sphinx requirements</code>](https://github.com/lxc/incus/commit/ef9a763f00b668ec28899fd37d581e9d5bf45ab6)
+- [ ] [<code>incusd/instances/qemu: Tweak secureboot firmware list</code>](https://github.com/lxc/incus/commit/0e9942147c62a275d80c4eb1cee60dbaeaa574bb)
+- [ ] [<code>cmd/incus/admin_cluster: Add libexec path for incusd</code>](https://github.com/lxc/incus/commit/2a84aa00ddab35647636eeedbcf2dbd6c27577cc)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
