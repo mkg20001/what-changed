@@ -3026,6 +3026,8 @@
 - [ ] [<code>build: Bump version to 1.20.0</code>](https://github.com/krille-chan/fluffychat/commit/4affd97db47020e3b435ef55d2168cc69eb17c10)
 - [ ] [<code>Merge pull request #1066 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/f4b66e1964bbed7def8435a61ca2ee8c8bbebb8a)
   - <sub>Tags: <code>rc1.20.0-1</code></sub>
+- [ ] [<code>chore: Follow up sso button border</code>](https://github.com/krille-chan/fluffychat/commit/0d13a99fbd32a69ec430ae746911bf24fd0d8ea6)
+  - <sub>Tags: <code>rc1.20.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -3196,6 +3198,8 @@
 - [ ] [<code>build: Bump version to 1.20.0</code>](https://github.com/krille-chan/fluffychat/commit/4affd97db47020e3b435ef55d2168cc69eb17c10)
 - [ ] [<code>Merge pull request #1066 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/f4b66e1964bbed7def8435a61ca2ee8c8bbebb8a)
   - <sub>Tags: <code>rc1.20.0-1</code></sub>
+- [ ] [<code>chore: Follow up sso button border</code>](https://github.com/krille-chan/fluffychat/commit/0d13a99fbd32a69ec430ae746911bf24fd0d8ea6)
+  - <sub>Tags: <code>rc1.20.0-2</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
