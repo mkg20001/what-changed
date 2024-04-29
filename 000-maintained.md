@@ -2525,6 +2525,9 @@
 - [ ] [<code>#26416 Stop appending statements to the query on token delimiter in Smart mode (#26421)</code>](https://github.com/dbeaver/dbeaver/commit/0021ff647d425a39f24da1ba3c30b84c7283c449)
 - [ ] [<code>dbeaver/dbeaver#23259 SAP IQ procedure definition query has changed and all original indentation is lost (#26445)</code>](https://github.com/dbeaver/dbeaver/commit/96311f266a5b212ef997381ed30545c99374fb9c)
 - [ ] [<code>dbeaver/pro#2706 Usage Statistics dialogue appears after double Workspace reset (#26423)</code>](https://github.com/dbeaver/dbeaver/commit/c4a2d4b52c8861f5a4d0bc2d94969737a2a5c116)
+- [ ] [<code>Spam bots attention</code>](https://github.com/dbeaver/dbeaver/commit/a4a44fc775b93f5e495da305234cf57b557ca3c6)
+- [ ] [<code>Dbeaver/pro#2704 write tests for parser and model mapping (#26419)</code>](https://github.com/dbeaver/dbeaver/commit/79d6f81db0c41394e2fc2bd084589d56642cb8d5)
+- [ ] [<code>Cb 4513 execute task event (#26771)</code>](https://github.com/dbeaver/dbeaver/commit/c0e106d9b338d0f55c3acbe3361054a162a71385)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2746,6 +2749,7 @@
 - [ ] [<code>Link contribution guidelines from README</code>](https://github.com/canonical/dqlite/commit/8d99f50a168a4dc7f38321a78601bf7ecb9e5bb8)
 - [ ] [<code>Three portability fixes around integer width</code>](https://github.com/canonical/dqlite/commit/822519192bbccc04b261434c0952bc646381254d)
 - [ ] [<code>Revert tolerance for EAGAIN when probing async I/O</code>](https://github.com/canonical/dqlite/commit/14bc162cb99a42ed3417c0356962d04e56015365)
+- [ ] [<code>Add a link to the Ubuntu Code of Conduct</code>](https://github.com/canonical/dqlite/commit/dfcbe19dd2783b5bb009f4b24829166d64b0d9bd)
 - [ ] [<code>Use system raft headers when not building raft</code>](https://github.com/canonical/dqlite/commit/85d23ed97afe50a4143da44d2be5d198600d6b08)
 - [ ] [<code>Integrate leader</code>](https://github.com/canonical/dqlite/commit/fe6f4c3607c99e995c82a1ce4f3137169136baee)
   - <sub>Keywords: <code>exec</code></sub>
@@ -3027,7 +3031,7 @@
 - [ ] [<code>Merge pull request #1066 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/f4b66e1964bbed7def8435a61ca2ee8c8bbebb8a)
   - <sub>Tags: <code>rc1.20.0-1</code></sub>
 - [ ] [<code>chore: Follow up sso button border</code>](https://github.com/krille-chan/fluffychat/commit/0d13a99fbd32a69ec430ae746911bf24fd0d8ea6)
-  - <sub>Tags: <code>rc1.20.0-2</code></sub>
+  - <sub>Tags: <code>rc1.20.0-2</code> <code>v1.20.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.18.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.18.0...HEAD)
 
@@ -3199,7 +3203,7 @@
 - [ ] [<code>Merge pull request #1066 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/f4b66e1964bbed7def8435a61ca2ee8c8bbebb8a)
   - <sub>Tags: <code>rc1.20.0-1</code></sub>
 - [ ] [<code>chore: Follow up sso button border</code>](https://github.com/krille-chan/fluffychat/commit/0d13a99fbd32a69ec430ae746911bf24fd0d8ea6)
-  - <sub>Tags: <code>rc1.20.0-2</code></sub>
+  - <sub>Tags: <code>rc1.20.0-2</code> <code>v1.20.0</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3374,6 +3378,14 @@
 - [ ] [<code>incusd/instances/qemu: Tweak secureboot firmware list</code>](https://github.com/lxc/incus/commit/0e9942147c62a275d80c4eb1cee60dbaeaa574bb)
 - [ ] [<code>cmd/incus/admin_cluster: Add libexec path for incusd</code>](https://github.com/lxc/incus/commit/2a84aa00ddab35647636eeedbcf2dbd6c27577cc)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incus/storage: Show usage when no driver passed</code>](https://github.com/lxc/incus/commit/61b5dafa8dcf74ffd5b601594b646c62a0209c40)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/drivers/dir: Tweak path validation</code>](https://github.com/lxc/incus/commit/864f14f600511942452c122d28c5c5d6f35b721f)
+- [ ] [<code>incusd/backup: Show profile list on lookup error</code>](https://github.com/lxc/incus/commit/d634c75638513f39a048691b4745961e35cc0624)
+- [ ] [<code>incusd/apparmor/lxc: Allow access to binfmt_misc</code>](https://github.com/lxc/incus/commit/8092e2741cdec6a4853544cbe0ca3a6fecbf171f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/apparmor/lxc: Refresh generated rules</code>](https://github.com/lxc/incus/commit/ff1290c627dca42f4c0538453ef60b610be0ee6e)
+- [ ] [<code>incusd/storage: Handle instance volume size on import</code>](https://github.com/lxc/incus/commit/c50747f6173048d36d4311f99ede7fde0cf21d53)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3541,6 +3553,14 @@
 - [ ] [<code>incusd/instances/qemu: Tweak secureboot firmware list</code>](https://github.com/lxc/incus/commit/0e9942147c62a275d80c4eb1cee60dbaeaa574bb)
 - [ ] [<code>cmd/incus/admin_cluster: Add libexec path for incusd</code>](https://github.com/lxc/incus/commit/2a84aa00ddab35647636eeedbcf2dbd6c27577cc)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incus/storage: Show usage when no driver passed</code>](https://github.com/lxc/incus/commit/61b5dafa8dcf74ffd5b601594b646c62a0209c40)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/drivers/dir: Tweak path validation</code>](https://github.com/lxc/incus/commit/864f14f600511942452c122d28c5c5d6f35b721f)
+- [ ] [<code>incusd/backup: Show profile list on lookup error</code>](https://github.com/lxc/incus/commit/d634c75638513f39a048691b4745961e35cc0624)
+- [ ] [<code>incusd/apparmor/lxc: Allow access to binfmt_misc</code>](https://github.com/lxc/incus/commit/8092e2741cdec6a4853544cbe0ca3a6fecbf171f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/apparmor/lxc: Refresh generated rules</code>](https://github.com/lxc/incus/commit/ff1290c627dca42f4c0538453ef60b610be0ee6e)
+- [ ] [<code>incusd/storage: Handle instance volume size on import</code>](https://github.com/lxc/incus/commit/c50747f6173048d36d4311f99ede7fde0cf21d53)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4226,6 +4246,7 @@
 - [ ] [<code>src/util/architectures.tsx: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/0e41cce801eb10bdc9dbbe85a73fff55261f22a4)
 - [ ] [<code>src/pages/operations/OperationInstanceName: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/52e3184db395b480be21b36e8641c73228690fb1)
 - [ ] [<code>src/pages/operations/OperationInstanceName: re-enable linkable description for snapshots</code>](https://github.com/canonical/lxd-ui/commit/8b0ee16347e553e0097d1fe11a3ca990b43bae98)
+- [ ] [<code>fix(memory) use bibyte everywhere and avoid the MB or GB reportings</code>](https://github.com/canonical/lxd-ui/commit/df2a65a88e527f7deff5f27d5928cc9b70b07d67)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
