@@ -2528,6 +2528,20 @@
 - [ ] [<code>Spam bots attention</code>](https://github.com/dbeaver/dbeaver/commit/a4a44fc775b93f5e495da305234cf57b557ca3c6)
 - [ ] [<code>Dbeaver/pro#2704 write tests for parser and model mapping (#26419)</code>](https://github.com/dbeaver/dbeaver/commit/79d6f81db0c41394e2fc2bd084589d56642cb8d5)
 - [ ] [<code>Cb 4513 execute task event (#26771)</code>](https://github.com/dbeaver/dbeaver/commit/c0e106d9b338d0f55c3acbe3361054a162a71385)
+- [ ] [<code>dbeaver/pro#2747 Revert SVG icons (#26783)</code>](https://github.com/dbeaver/dbeaver/commit/e753a0f34cdc53a04a7be524154fb2bddd314ccc)
+- [ ] [<code>dbeaver/pro#2447 ui improvements (#23429)</code>](https://github.com/dbeaver/dbeaver/commit/048b3bb0df37a5e61308e92cea902cbd783511b9)
+- [ ] [<code>#23180 fix privileges recognition - add Server privileges to the admins list (#26453)</code>](https://github.com/dbeaver/dbeaver/commit/e7b1d2052fba91d0a118018316c5a0ce9646904a)
+- [ ] [<code>dbeaver/pro#2794 Fix acquisition of the active display (#29265)</code>](https://github.com/dbeaver/dbeaver/commit/d56e8cf216fdea2d8095d8618da472d0149c07af)
+- [ ] [<code>#23259 Sap procedure definition datasource (#26871)</code>](https://github.com/dbeaver/dbeaver/commit/ab69a8a720f0f828429d23dd1feea06d213598d5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>dbeaver/pro#2762 fix single with grant permission case (#26884)</code>](https://github.com/dbeaver/dbeaver/commit/a322059cda88ac86972b623d38a3a28b80725a6c)
+- [ ] [<code>dbeaver/pro#2639 Dashboards UX improvements (#23363)</code>](https://github.com/dbeaver/dbeaver/commit/6870a50ab50ab41af4219ec2e099a18ebe66ff82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2431 Add more PRO databases to select database dialog in CE (#29036)</code>](https://github.com/dbeaver/dbeaver/commit/05ddb400ef5caa2f0c6a5d4c781cb6a2ed101ce0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>dbeaver/pro#2730 Connection wizard page validation fix (#26893)</code>](https://github.com/dbeaver/dbeaver/commit/3f31c91b018ce5d7d7fdc66c79292251bdc0fd02)
+- [ ] [<code>dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check checkbox in Preferences (#26441)</code>](https://github.com/dbeaver/dbeaver/commit/32ab76bd3b1dc6b65ae376708c5c3c84865a8bc1)
+- [ ] [<code>Build for *nix</code>](https://github.com/dbeaver/dbeaver/commit/c287154ee7a5992cf49756212a25b97d9deaeda9)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2592,6 +2606,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Support x86 architecture and refactor the detecting logic</code>](https://github.com/lxc/distrobuilder/commit/b237c6c69d607373365531d06e6a44d842529a39)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/f9d48da8316abca9f603904b484b6d4bff4f800f)
+- [ ] [<code>sphinx: Avoid myst-parser >=3.0.0</code>](https://github.com/lxc/distrobuilder/commit/f5a91e971d74424f198290833bce0f147c58f05c)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -3386,6 +3402,23 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/apparmor/lxc: Refresh generated rules</code>](https://github.com/lxc/incus/commit/ff1290c627dca42f4c0538453ef60b610be0ee6e)
 - [ ] [<code>incusd/storage: Handle instance volume size on import</code>](https://github.com/lxc/incus/commit/c50747f6173048d36d4311f99ede7fde0cf21d53)
+- [ ] [<code>incus/profile: Add customizable columns to list</code>](https://github.com/lxc/incus/commit/8570c62df9e6e67de89465e61ae57ae610b150e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/dbd31afbd3c16bcb3a7b4e2f8dd3b95d34046615)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/project: Fix help message for list</code>](https://github.com/lxc/incus/commit/45a1f0be7c4b965740eb4b6803df751fab4902a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/1d07c68a11149e2ba4b8ec17396bb50a03920b9a)
+- [ ] [<code>api: profiles_all_projects</code>](https://github.com/lxc/incus/commit/81ad5dbc75dcb7c438c576c2dc109e63b6b0b712)
+- [ ] [<code>shared/api: Add Project field to Profile</code>](https://github.com/lxc/incus/commit/cadd0eaca367b865cf368410069e1ac29f0e64a0)
+- [ ] [<code>client: Add GetProfilesAllProjects</code>](https://github.com/lxc/incus/commit/c3f612785fdc2421c55007414b07d7c69dd1f210)
+- [ ] [<code>incus/profile: Add all-projects to list</code>](https://github.com/lxc/incus/commit/602d4c83fd203430ec3b65c1f311388b6a1d7117)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db/cluster: Add Project field to Profile</code>](https://github.com/lxc/incus/commit/10c24cb423e2b7a7f889641759413249a9d422bd)
+- [ ] [<code>incusd/profile: Add all-projects support</code>](https://github.com/lxc/incus/commit/97e0430a292aff3c3649e6fe5b0c016dc9923e1b)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/195c3bf002dba4f4f4920a0cd026f9eeab402671)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/44601877f4df27cd8c25752a7d81250ed4f44860)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3561,6 +3594,23 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/apparmor/lxc: Refresh generated rules</code>](https://github.com/lxc/incus/commit/ff1290c627dca42f4c0538453ef60b610be0ee6e)
 - [ ] [<code>incusd/storage: Handle instance volume size on import</code>](https://github.com/lxc/incus/commit/c50747f6173048d36d4311f99ede7fde0cf21d53)
+- [ ] [<code>incus/profile: Add customizable columns to list</code>](https://github.com/lxc/incus/commit/8570c62df9e6e67de89465e61ae57ae610b150e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/dbd31afbd3c16bcb3a7b4e2f8dd3b95d34046615)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/project: Fix help message for list</code>](https://github.com/lxc/incus/commit/45a1f0be7c4b965740eb4b6803df751fab4902a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/1d07c68a11149e2ba4b8ec17396bb50a03920b9a)
+- [ ] [<code>api: profiles_all_projects</code>](https://github.com/lxc/incus/commit/81ad5dbc75dcb7c438c576c2dc109e63b6b0b712)
+- [ ] [<code>shared/api: Add Project field to Profile</code>](https://github.com/lxc/incus/commit/cadd0eaca367b865cf368410069e1ac29f0e64a0)
+- [ ] [<code>client: Add GetProfilesAllProjects</code>](https://github.com/lxc/incus/commit/c3f612785fdc2421c55007414b07d7c69dd1f210)
+- [ ] [<code>incus/profile: Add all-projects to list</code>](https://github.com/lxc/incus/commit/602d4c83fd203430ec3b65c1f311388b6a1d7117)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db/cluster: Add Project field to Profile</code>](https://github.com/lxc/incus/commit/10c24cb423e2b7a7f889641759413249a9d422bd)
+- [ ] [<code>incusd/profile: Add all-projects support</code>](https://github.com/lxc/incus/commit/97e0430a292aff3c3649e6fe5b0c016dc9923e1b)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/195c3bf002dba4f4f4920a0cd026f9eeab402671)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/44601877f4df27cd8c25752a7d81250ed4f44860)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4247,6 +4297,9 @@
 - [ ] [<code>src/pages/operations/OperationInstanceName: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/52e3184db395b480be21b36e8641c73228690fb1)
 - [ ] [<code>src/pages/operations/OperationInstanceName: re-enable linkable description for snapshots</code>](https://github.com/canonical/lxd-ui/commit/8b0ee16347e553e0097d1fe11a3ca990b43bae98)
 - [ ] [<code>fix(memory) use bibyte everywhere and avoid the MB or GB reportings</code>](https://github.com/canonical/lxd-ui/commit/df2a65a88e527f7deff5f27d5928cc9b70b07d67)
+- [ ] [<code>fix(storage) remove storage volume detail page and snapshots for custom isos WD-10867</code>](https://github.com/canonical/lxd-ui/commit/22ad583b9e895117335c915dfa6d52fa740bf316)
+- [ ] [<code>fix(reporting) extend data for error reports to include version and a text asking for context</code>](https://github.com/canonical/lxd-ui/commit/abd176cec3e58fc43b9b788bf83df63376ae786f)
+- [ ] [<code>fix(images) architecture filtering on image selection needs to deal with non-aliased architectures, adding test for this</code>](https://github.com/canonical/lxd-ui/commit/77f27b3be7be9d8b1285fc5e7228d7bcabe36bbd)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
