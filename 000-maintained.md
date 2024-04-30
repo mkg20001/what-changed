@@ -3419,6 +3419,9 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/195c3bf002dba4f4f4920a0cd026f9eeab402671)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/44601877f4df27cd8c25752a7d81250ed4f44860)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage_volume: Clarify volume errors</code>](https://github.com/lxc/incus/commit/97491d745e7122d1b440def126ff72d6ae38fbe1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/apparmor/lxc: Fix access to kernel/security/apparmor</code>](https://github.com/lxc/incus/commit/9c10d67f22154e6335b00c278dc305cd1f566d7a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3611,6 +3614,9 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/195c3bf002dba4f4f4920a0cd026f9eeab402671)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/44601877f4df27cd8c25752a7d81250ed4f44860)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage_volume: Clarify volume errors</code>](https://github.com/lxc/incus/commit/97491d745e7122d1b440def126ff72d6ae38fbe1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/apparmor/lxc: Fix access to kernel/security/apparmor</code>](https://github.com/lxc/incus/commit/9c10d67f22154e6335b00c278dc305cd1f566d7a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
