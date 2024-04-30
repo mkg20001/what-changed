@@ -2542,6 +2542,8 @@
 - [ ] [<code>dbeaver/pro#2730 Connection wizard page validation fix (#26893)</code>](https://github.com/dbeaver/dbeaver/commit/3f31c91b018ce5d7d7fdc66c79292251bdc0fd02)
 - [ ] [<code>dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check checkbox in Preferences (#26441)</code>](https://github.com/dbeaver/dbeaver/commit/32ab76bd3b1dc6b65ae376708c5c3c84865a8bc1)
 - [ ] [<code>Build for *nix</code>](https://github.com/dbeaver/dbeaver/commit/c287154ee7a5992cf49756212a25b97d9deaeda9)
+- [ ] [<code>Statistics collect logging fix</code>](https://github.com/dbeaver/dbeaver/commit/73daad3f5a11b4e3a02908d440d33ab4f2122433)
+- [ ] [<code>dbeaver/pro#2798 [ERd] Notation crow's Foot is not working (#29276)</code>](https://github.com/dbeaver/dbeaver/commit/bab68e819640ec9b3556abb64ed479f24d7fdccb)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -4248,6 +4250,8 @@
 - [ ] [<code>Handle unknown top level boxes with size == 0</code>](https://github.com/AOMediaCodec/libavif/commit/23ead7a5b1bad3875e44bfb0d24dde7a14f5b358)
 - [ ] [<code>read.c: Fix typo</code>](https://github.com/AOMediaCodec/libavif/commit/f24238637661c7302386840b9d58fb8b90cfd663)
 - [ ] [<code>read.c: Clamp CICP enum values to valid range</code>](https://github.com/AOMediaCodec/libavif/commit/2f45ea494894a59c7dc93aff314251b308d88223)
+- [ ] [<code>read.c: Return BMFF_PARSE_FAILED on unknown top level size 0 box</code>](https://github.com/AOMediaCodec/libavif/commit/4ed029340a00b90965243bed1a1cc0a25314893a)
+- [ ] [<code>Validate CICP in all code paths</code>](https://github.com/AOMediaCodec/libavif/commit/ab86c0c1b7015e568dd8eff5ce5fcfda439895c3)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
