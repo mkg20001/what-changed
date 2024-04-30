@@ -2544,6 +2544,11 @@
 - [ ] [<code>Build for *nix</code>](https://github.com/dbeaver/dbeaver/commit/c287154ee7a5992cf49756212a25b97d9deaeda9)
 - [ ] [<code>Statistics collect logging fix</code>](https://github.com/dbeaver/dbeaver/commit/73daad3f5a11b4e3a02908d440d33ab4f2122433)
 - [ ] [<code>dbeaver/pro#2798 [ERd] Notation crow's Foot is not working (#29276)</code>](https://github.com/dbeaver/dbeaver/commit/bab68e819640ec9b3556abb64ed479f24d7fdccb)
+- [ ] [<code>CB-5029 close all sessions with event (#26776)</code>](https://github.com/dbeaver/dbeaver/commit/03985b0a4648919967c675e51d11913a05ac639b)
+- [ ] [<code>Fix for disconnected datasources</code>](https://github.com/dbeaver/dbeaver/commit/6600d2dbca4ec48bdd522922ff60620d22464932)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Revert "dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check checkbox in Preferences (#26441)"</code>](https://github.com/dbeaver/dbeaver/commit/c9ef0c635d5e17afd92f45aaf1537498d2165cab)
+- [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/2625dfaaea4aa0d65643c3f294cc300b5568254a)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2610,6 +2615,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/f9d48da8316abca9f603904b484b6d4bff4f800f)
 - [ ] [<code>sphinx: Avoid myst-parser >=3.0.0</code>](https://github.com/lxc/distrobuilder/commit/f5a91e971d74424f198290833bce0f147c58f05c)
+- [ ] [<code>sources/funtoo: Use symlinks</code>](https://github.com/lxc/distrobuilder/commit/9a10fde741193462179c793929548b8ef572f7bb)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -4310,6 +4316,8 @@
 - [ ] [<code>fix(storage) remove storage volume detail page and snapshots for custom isos WD-10867</code>](https://github.com/canonical/lxd-ui/commit/22ad583b9e895117335c915dfa6d52fa740bf316)
 - [ ] [<code>fix(reporting) extend data for error reports to include version and a text asking for context</code>](https://github.com/canonical/lxd-ui/commit/abd176cec3e58fc43b9b788bf83df63376ae786f)
 - [ ] [<code>fix(images) architecture filtering on image selection needs to deal with non-aliased architectures, adding test for this</code>](https://github.com/canonical/lxd-ui/commit/77f27b3be7be9d8b1285fc5e7228d7bcabe36bbd)
+- [ ] [<code>fix(instance) ensure yaml form updates after saving changed yaml and resets on cancelling changes in the yaml editor</code>](https://github.com/canonical/lxd-ui/commit/c9d3cc6c5c5784373d607d6c14b55e05f7e327ca)
+- [ ] [<code>fix(network) avoid crash when manually trying to access network config for non-managed networks, show notification instead, fixes #757</code>](https://github.com/canonical/lxd-ui/commit/1647a00df3b305d9910d103fee7e232c5ede501b)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4795,6 +4803,14 @@
 - [ ] [<code>wait-online: do not require virtual devices to be created already</code>](https://github.com/canonical/netplan/commit/ec99b8ca35f755f4f0345e7b0f5441ec5446f63e)
 - [ ] [<code>wait-online: recognize that bridge/bond members will never gain link-local addresses</code>](https://github.com/canonical/netplan/commit/eff665f76fe78ef3da5f24c801e763c27a32579c)
 - [ ] [<code>python: elements of __all__ must be strings</code>](https://github.com/canonical/netplan/commit/39c8c264a8caadaf7cf7855451752807f3fb1032)
+- [ ] [<code>parse: introduce parser flags</code>](https://github.com/canonical/netplan/commit/baace0f898133c488a08c619667284e20418621e)
+- [ ] [<code>parse: implement the IGNORE_ERRORS flag</code>](https://github.com/canonical/netplan/commit/34a295747a25f40fbda92a8926fd6973c904aa0a)
+- [ ] [<code>generate: add support for ignoring errors</code>](https://github.com/canonical/netplan/commit/355c57af90a14bf35f12930f45c8d5216012d791)
+- [ ] [<code>python/api: add flags getter/setter to Parser</code>](https://github.com/canonical/netplan/commit/261a50547c7c07b195d103197ad918fe605f44f8)
+- [ ] [<code>tests: improve coverage with ignore_errors</code>](https://github.com/canonical/netplan/commit/2f848acbe6453f42c85f29668fc3b32068030d8b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>docs: add a new section about the generator</code>](https://github.com/canonical/netplan/commit/11fe6f2747f8dd275f7d6dc5eb37af32bcd9edce)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
