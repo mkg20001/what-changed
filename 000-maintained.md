@@ -3006,6 +3006,18 @@
 - [ ] [<code>incus/storage_volume: Clarify volume errors</code>](https://github.com/lxc/incus/commit/97491d745e7122d1b440def126ff72d6ae38fbe1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/apparmor/lxc: Fix access to kernel/security/apparmor</code>](https://github.com/lxc/incus/commit/9c10d67f22154e6335b00c278dc305cd1f566d7a)
+- [ ] [<code>api: instances_scriptlet_get_instances</code>](https://github.com/lxc/incus/commit/6fcf7a59d539ba39584b1fdb9a2347833da043ac)
+- [ ] [<code>doc/instances/scriptlet: Add get_instances</code>](https://github.com/lxc/incus/commit/b09755b0c47ad0f6206b9f54087939de824571c3)
+- [ ] [<code>incusd/scriptlet: Add get_instances</code>](https://github.com/lxc/incus/commit/81b8a81083ddd1bc130951772db7d34bc43b69b1)
+- [ ] [<code>api: instances_scriptlet_get_cluster_members</code>](https://github.com/lxc/incus/commit/d23827aefe98e3f2963e3b31e8629c007337ed23)
+- [ ] [<code>doc/instances/scriptlet: Add get_cluster_members</code>](https://github.com/lxc/incus/commit/e9618202bb41894c4945314d814ba323837edf4a)
+- [ ] [<code>incusd/scriptlet: Add get_cluster_members</code>](https://github.com/lxc/incus/commit/bb07267ca33fcf24e73a1823b70b2cfa6922411e)
+- [ ] [<code>api: Add network_acl_stateless</code>](https://github.com/lxc/incus/commit/455c8056c70a870ba79e0c362639736c7217dd15)
+- [ ] [<code>doc/network_acl: Add allow-stateless action</code>](https://github.com/lxc/incus/commit/80d219ea2e46a5929fcd65e5e9c5734c8eab286d)
+- [ ] [<code>incusd/network/acl: Add allow-stateless action</code>](https://github.com/lxc/incus/commit/6d59afb1147674505df98dd3e6d19623d54e7c25)
+- [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouter to libovsdb</code>](https://github.com/lxc/incus/commit/a323e98e7eee01abfc2d0d6a5c78e2bf521ae035)
+- [ ] [<code>incusd/network/ovn/nb: Port CreateLogicalRouterSNAT to libovsdb</code>](https://github.com/lxc/incus/commit/60e7a3f39a26595669920f78122aebe29a3e6e5e)
+- [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/8f0f388a222c87c81619a2e15856cb5ace91278f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3201,6 +3213,18 @@
 - [ ] [<code>incus/storage_volume: Clarify volume errors</code>](https://github.com/lxc/incus/commit/97491d745e7122d1b440def126ff72d6ae38fbe1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/apparmor/lxc: Fix access to kernel/security/apparmor</code>](https://github.com/lxc/incus/commit/9c10d67f22154e6335b00c278dc305cd1f566d7a)
+- [ ] [<code>api: instances_scriptlet_get_instances</code>](https://github.com/lxc/incus/commit/6fcf7a59d539ba39584b1fdb9a2347833da043ac)
+- [ ] [<code>doc/instances/scriptlet: Add get_instances</code>](https://github.com/lxc/incus/commit/b09755b0c47ad0f6206b9f54087939de824571c3)
+- [ ] [<code>incusd/scriptlet: Add get_instances</code>](https://github.com/lxc/incus/commit/81b8a81083ddd1bc130951772db7d34bc43b69b1)
+- [ ] [<code>api: instances_scriptlet_get_cluster_members</code>](https://github.com/lxc/incus/commit/d23827aefe98e3f2963e3b31e8629c007337ed23)
+- [ ] [<code>doc/instances/scriptlet: Add get_cluster_members</code>](https://github.com/lxc/incus/commit/e9618202bb41894c4945314d814ba323837edf4a)
+- [ ] [<code>incusd/scriptlet: Add get_cluster_members</code>](https://github.com/lxc/incus/commit/bb07267ca33fcf24e73a1823b70b2cfa6922411e)
+- [ ] [<code>api: Add network_acl_stateless</code>](https://github.com/lxc/incus/commit/455c8056c70a870ba79e0c362639736c7217dd15)
+- [ ] [<code>doc/network_acl: Add allow-stateless action</code>](https://github.com/lxc/incus/commit/80d219ea2e46a5929fcd65e5e9c5734c8eab286d)
+- [ ] [<code>incusd/network/acl: Add allow-stateless action</code>](https://github.com/lxc/incus/commit/6d59afb1147674505df98dd3e6d19623d54e7c25)
+- [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouter to libovsdb</code>](https://github.com/lxc/incus/commit/a323e98e7eee01abfc2d0d6a5c78e2bf521ae035)
+- [ ] [<code>incusd/network/ovn/nb: Port CreateLogicalRouterSNAT to libovsdb</code>](https://github.com/lxc/incus/commit/60e7a3f39a26595669920f78122aebe29a3e6e5e)
+- [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/8f0f388a222c87c81619a2e15856cb5ace91278f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
