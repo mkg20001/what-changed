@@ -2801,9 +2801,13 @@
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
+- [ ] [<code>fix: voip code breaking from 0.28</code>](https://github.com/krille-chan/fluffychat/commit/409556041257ca095f9b1008dc207f85d62c39f9)
+- [ ] [<code>fix: FakeMatrixApi check</code>](https://github.com/krille-chan/fluffychat/commit/d7d7268828e9fadad7d06ac31255353d0810588c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
+- [ ] [<code>fix: voip code breaking from 0.28</code>](https://github.com/krille-chan/fluffychat/commit/409556041257ca095f9b1008dc207f85d62c39f9)
+- [ ] [<code>fix: FakeMatrixApi check</code>](https://github.com/krille-chan/fluffychat/commit/d7d7268828e9fadad7d06ac31255353d0810588c)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3919,6 +3923,7 @@
 - [ ] [<code>fix(images) architecture filtering on image selection needs to deal with non-aliased architectures, adding test for this</code>](https://github.com/canonical/lxd-ui/commit/77f27b3be7be9d8b1285fc5e7228d7bcabe36bbd)
 - [ ] [<code>fix(instance) ensure yaml form updates after saving changed yaml and resets on cancelling changes in the yaml editor</code>](https://github.com/canonical/lxd-ui/commit/c9d3cc6c5c5784373d607d6c14b55e05f7e327ca)
 - [ ] [<code>fix(network) avoid crash when manually trying to access network config for non-managed networks, show notification instead, fixes #757</code>](https://github.com/canonical/lxd-ui/commit/1647a00df3b305d9910d103fee7e232c5ede501b)
+- [ ] [<code>fix(vm) ensure scrolling a vm graphic console is propagated to the parent element, so the console content is scrolling on screens with low height. fixes #700</code>](https://github.com/canonical/lxd-ui/commit/21c466c7026cd4f0f24a9762cce4e6d69ffae43d)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
