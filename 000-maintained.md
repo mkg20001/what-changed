@@ -2790,6 +2790,8 @@
 - [ ] [<code>configure.ac: dqlite-next depends on build-raft</code>](https://github.com/canonical/dqlite/commit/ec33e4f8e0d307a578ed6658a90604e369836f4c)
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>Remove two tracing lines from vfs2 test</code>](https://github.com/canonical/dqlite/commit/cb65db7df768bbfc3ba80a6071114fd2193feff0)
+- [ ] [<code>configure: Disable default CFLAGS from AC_PROG_CC</code>](https://github.com/canonical/dqlite/commit/334e23e7edb0c6534a247a37e36407d25803892b)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3022,6 +3024,8 @@
 - [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouter to libovsdb</code>](https://github.com/lxc/incus/commit/a323e98e7eee01abfc2d0d6a5c78e2bf521ae035)
 - [ ] [<code>incusd/network/ovn/nb: Port CreateLogicalRouterSNAT to libovsdb</code>](https://github.com/lxc/incus/commit/60e7a3f39a26595669920f78122aebe29a3e6e5e)
 - [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/8f0f388a222c87c81619a2e15856cb5ace91278f)
+- [ ] [<code>incusd/network/acl: Properly run instance counting outside of ACL loop</code>](https://github.com/lxc/incus/commit/0f798e908e140c0b1c8e5971c9b8b1b4fe43f8d2)
+- [ ] [<code>incusd/network/ovn: Wait up to 1s for dynamic IPs</code>](https://github.com/lxc/incus/commit/233514a7c5e220aa89048940a1d50fbf961ea65f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3229,6 +3233,8 @@
 - [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouter to libovsdb</code>](https://github.com/lxc/incus/commit/a323e98e7eee01abfc2d0d6a5c78e2bf521ae035)
 - [ ] [<code>incusd/network/ovn/nb: Port CreateLogicalRouterSNAT to libovsdb</code>](https://github.com/lxc/incus/commit/60e7a3f39a26595669920f78122aebe29a3e6e5e)
 - [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/8f0f388a222c87c81619a2e15856cb5ace91278f)
+- [ ] [<code>incusd/network/acl: Properly run instance counting outside of ACL loop</code>](https://github.com/lxc/incus/commit/0f798e908e140c0b1c8e5971c9b8b1b4fe43f8d2)
+- [ ] [<code>incusd/network/ovn: Wait up to 1s for dynamic IPs</code>](https://github.com/lxc/incus/commit/233514a7c5e220aa89048940a1d50fbf961ea65f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3864,6 +3870,7 @@
 - [ ] [<code>Validate CICP in all code paths</code>](https://github.com/AOMediaCodec/libavif/commit/ab86c0c1b7015e568dd8eff5ce5fcfda439895c3)
 - [ ] [<code>read.c: Use header size when parsing VisualSampleEntry</code>](https://github.com/AOMediaCodec/libavif/commit/2be0ec98b735047d5b7dd285814e17fd61aff7a5)
 - [ ] [<code>obu: Do not parse more than obu_size bytes</code>](https://github.com/AOMediaCodec/libavif/commit/4c7f0f40c3c3c1c362cef47379220041d61fd2af)
+- [ ] [<code>Further cleanup in avifParseSampleDescriptionBox()</code>](https://github.com/AOMediaCodec/libavif/commit/7be0c356b0b367918f35edb7aff1cb53c015acee)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3877,6 +3884,7 @@
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
+- [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
