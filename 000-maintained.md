@@ -3863,6 +3863,7 @@
 - [ ] [<code>read.c: Return BMFF_PARSE_FAILED on unknown top level size 0 box</code>](https://github.com/AOMediaCodec/libavif/commit/4ed029340a00b90965243bed1a1cc0a25314893a)
 - [ ] [<code>Validate CICP in all code paths</code>](https://github.com/AOMediaCodec/libavif/commit/ab86c0c1b7015e568dd8eff5ce5fcfda439895c3)
 - [ ] [<code>read.c: Use header size when parsing VisualSampleEntry</code>](https://github.com/AOMediaCodec/libavif/commit/2be0ec98b735047d5b7dd285814e17fd61aff7a5)
+- [ ] [<code>obu: Do not parse more than obu_size bytes</code>](https://github.com/AOMediaCodec/libavif/commit/4c7f0f40c3c3c1c362cef47379220041d61fd2af)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
