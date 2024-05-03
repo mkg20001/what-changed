@@ -2549,6 +2549,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Revert "dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check checkbox in Preferences (#26441)"</code>](https://github.com/dbeaver/dbeaver/commit/c9ef0c635d5e17afd92f45aaf1537498d2165cab)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/2625dfaaea4aa0d65643c3f294cc300b5568254a)
+- [ ] [<code>dbeaver/dbeaver#29271 Json escaping fix revert. It breaks parser in specific cases. (#29287)</code>](https://github.com/dbeaver/dbeaver/commit/5784a13642221bed4827f8649e32d0e8d525f3e1)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2620,6 +2621,28 @@
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
 - [ ] [<code>Install v0.24.0 by default</code>](https://github.com/stepchowfun/docuum/commit/fdb2865a022401c293bb50cd8befb4879f0fb181)
+- [ ] [<code>Adding older-than flag</code>](https://github.com/stepchowfun/docuum/commit/cfceb6ca466f3362ac74d0e0d25497018e4ef813)
+- [ ] [<code>Updating README.md</code>](https://github.com/stepchowfun/docuum/commit/abc76014532f23b6f688ef1192fe59c25f93859e)
+- [ ] [<code>Adding missing Regex to use in main.rs and add missing older_than to settings</code>](https://github.com/stepchowfun/docuum/commit/3f62fbaa7d9086836e77e5cf3516f6cd72ba9be4)
+- [ ] [<code>Bumping version, adding parse_duration crate, updating changelog, renaming flag</code>](https://github.com/stepchowfun/docuum/commit/3230de3af9f85cd98b113dfc8cd3a1580c2a3bf1)
+- [ ] [<code>Change Fixed to Added changelog</code>](https://github.com/stepchowfun/docuum/commit/ff513c0c417def67fcb6590f13d3d621132a55f8)
+- [ ] [<code>Correcting short name and comment mentioning --older-than</code>](https://github.com/stepchowfun/docuum/commit/57e7b6f30eccaf09165b438b5fbbd96a429d8199)
+- [ ] [<code>Implementing comment suggestion, error handling on parse error and removing regex</code>](https://github.com/stepchowfun/docuum/commit/a74373bb9416f1ff81d555edb053dbfc51231eff)
+- [ ] [<code>Fixing imports formatting</code>](https://github.com/stepchowfun/docuum/commit/d5b3ee43560135b671d6606e3584fd607010908b)
+- [ ] [<code>Fix linting errors</code>](https://github.com/stepchowfun/docuum/commit/1b62823df3f48c1f12215c07abf2f179e9729868)
+- [ ] [<code>Moving commas to make linter happy</code>](https://github.com/stepchowfun/docuum/commit/d89fa773dda0ec8b04bf1f9b79af285bfd1fe6d8)
+- [ ] [<code>Removing trailing space in imports</code>](https://github.com/stepchowfun/docuum/commit/d9538f1cea903c854df340ed5d544f2c1f4f026e)
+- [ ] [<code>Fixing linting</code>](https://github.com/stepchowfun/docuum/commit/14409a40a96afbe654c69f6a0e227dbc177c2b15)
+- [ ] [<code>Changing Duration to all caps in README.md for consistency</code>](https://github.com/stepchowfun/docuum/commit/abfd36ded1101b20ef954c40d1fa8002cfe4bb48)
+- [ ] [<code>Adding debug logging to retain</code>](https://github.com/stepchowfun/docuum/commit/29ef0938c80f8f1c58c4d0ed0f1ea9ffbed0d807)
+- [ ] [<code>Adding image_id to debug log</code>](https://github.com/stepchowfun/docuum/commit/1e0a5fc06a95dc996d6ce7b981d17e1a0b494531)
+- [ ] [<code>Adding code_str() to image_id</code>](https://github.com/stepchowfun/docuum/commit/4d89f540d89ef1c3b97713abd4728e58c38d99a5)
+- [ ] [<code>Matching value name and help from readme</code>](https://github.com/stepchowfun/docuum/commit/9304bbb7f90210376b8cd795ebd32a172be48145)
+- [ ] [<code>Updating readme and argument</code>](https://github.com/stepchowfun/docuum/commit/b6c71fcda63d0e5aa7fdf469479f6d5cda86a98c)
+- [ ] [<code>Moving the --min-age argument above threshold in the readme to match --help output</code>](https://github.com/stepchowfun/docuum/commit/359a2452829eb767be01f18150c465d0b59d0b3c)
+- [ ] [<code>Merge pull request #303 from Glubiz/main</code>](https://github.com/stepchowfun/docuum/commit/943f787d4c12a8f40d29f4da05f63a3d8155cf5b)
+  - <sub>Tags: <code>v0.25.0</code></sub>
+- [ ] [<code>Install v0.25.0 by default</code>](https://github.com/stepchowfun/docuum/commit/1f9bf5ea4490e4d085453b914a17d5c2a82cc43e)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -3026,6 +3049,8 @@
 - [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/8f0f388a222c87c81619a2e15856cb5ace91278f)
 - [ ] [<code>incusd/network/acl: Properly run instance counting outside of ACL loop</code>](https://github.com/lxc/incus/commit/0f798e908e140c0b1c8e5971c9b8b1b4fe43f8d2)
 - [ ] [<code>incusd/network/ovn: Wait up to 1s for dynamic IPs</code>](https://github.com/lxc/incus/commit/233514a7c5e220aa89048940a1d50fbf961ea65f)
+- [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouterNAT to libovsdb</code>](https://github.com/lxc/incus/commit/fb8c12d0515ee39a2123611ee9e60438c5ce696c)
+- [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/9b2ea135322b1f11a4f9c3ac59f7d7323080cf66)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3235,6 +3260,8 @@
 - [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/8f0f388a222c87c81619a2e15856cb5ace91278f)
 - [ ] [<code>incusd/network/acl: Properly run instance counting outside of ACL loop</code>](https://github.com/lxc/incus/commit/0f798e908e140c0b1c8e5971c9b8b1b4fe43f8d2)
 - [ ] [<code>incusd/network/ovn: Wait up to 1s for dynamic IPs</code>](https://github.com/lxc/incus/commit/233514a7c5e220aa89048940a1d50fbf961ea65f)
+- [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouterNAT to libovsdb</code>](https://github.com/lxc/incus/commit/fb8c12d0515ee39a2123611ee9e60438c5ce696c)
+- [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/9b2ea135322b1f11a4f9c3ac59f7d7323080cf66)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
