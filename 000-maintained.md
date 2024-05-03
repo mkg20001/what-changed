@@ -2550,6 +2550,7 @@
 - [ ] [<code>Revert "dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check checkbox in Preferences (#26441)"</code>](https://github.com/dbeaver/dbeaver/commit/c9ef0c635d5e17afd92f45aaf1537498d2165cab)
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/2625dfaaea4aa0d65643c3f294cc300b5568254a)
 - [ ] [<code>dbeaver/dbeaver#29271 Json escaping fix revert. It breaks parser in specific cases. (#29287)</code>](https://github.com/dbeaver/dbeaver/commit/5784a13642221bed4827f8649e32d0e8d525f3e1)
+- [ ] [<code>#29291 Improve page validation marks in multi-page wizards (#29292)</code>](https://github.com/dbeaver/dbeaver/commit/9d72ef1dcc9d2182420c945fe21bd3ad56f435ca)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2617,6 +2618,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/f9d48da8316abca9f603904b484b6d4bff4f800f)
 - [ ] [<code>sphinx: Avoid myst-parser >=3.0.0</code>](https://github.com/lxc/distrobuilder/commit/f5a91e971d74424f198290833bce0f147c58f05c)
 - [ ] [<code>sources/funtoo: Use symlinks</code>](https://github.com/lxc/distrobuilder/commit/9a10fde741193462179c793929548b8ef572f7bb)
+- [ ] [<code>archlinux: Move to zst</code>](https://github.com/lxc/distrobuilder/commit/b8bfb111643727dbdbc8ca3a5638bca17272238c)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -2828,14 +2830,37 @@
 
 - [ ] [<code>fix: voip code breaking from 0.28</code>](https://github.com/krille-chan/fluffychat/commit/409556041257ca095f9b1008dc207f85d62c39f9)
 - [ ] [<code>fix: FakeMatrixApi check</code>](https://github.com/krille-chan/fluffychat/commit/d7d7268828e9fadad7d06ac31255353d0810588c)
+- [ ] [<code>refactor: Display better command hints</code>](https://github.com/krille-chan/fluffychat/commit/ee6ba0de84861c91f6078233eee1bcead5ebf7f9)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
 - [ ] [<code>fix: voip code breaking from 0.28</code>](https://github.com/krille-chan/fluffychat/commit/409556041257ca095f9b1008dc207f85d62c39f9)
 - [ ] [<code>fix: FakeMatrixApi check</code>](https://github.com/krille-chan/fluffychat/commit/d7d7268828e9fadad7d06ac31255353d0810588c)
+- [ ] [<code>refactor: Display better command hints</code>](https://github.com/krille-chan/fluffychat/commit/ee6ba0de84861c91f6078233eee1bcead5ebf7f9)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
+
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.1 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.1...HEAD)
+
+- [ ] [<code>Update gnome-online-accounts-gtk.desktop - Add Categories (#1)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/f984fe0dffaeb715f399a8d0a1887a7e037d24b9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update gnome-online-accounts-gtk.desktop - Remove path (#2)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/febc445ef3e947d1ede4cb631df4718bcd6e0463)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add depends gnome-online-accounts (#6)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/27eddaacb9484b152496bae9904a3c504eed97e7)
+- [ ] [<code>readme: fix typo (#9)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/f40e136edce2ddfe09e5142f5af4c6cbdeb62266)
+- [ ] [<code>Call adw_init() for libgoa's provider dialog.</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/2f60bcf366336bd80245bf0f7b2012ef6bc4f282)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>debian/rules: Fix build type, remove an unnecessary build option.</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/0f65fa1b15c6d9d903a5387a901e222999e25794)
+- [ ] [<code>Delegate ownership/maintenance to the XApp Project</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/53944cdc2f81eb3959744d10eb4a43b04c7fdf0f)
+- [ ] [<code>libAdwaita: Switch to an SDD titlebar</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/fc027d5f205739423dc133b24a87dce96a992e19)
+- [ ] [<code>Remove unused code</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/15f39437cb55a0f16f6738c51c38cdb10b682239)
+- [ ] [<code>3.50.2</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/9980803cd488ae6082bf18ba43d75900b777412d)
+  - <sub>Tags: <code>3.50.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -3901,6 +3926,7 @@
 - [ ] [<code>obu: Validate obu_forbidden_bit in sequence header</code>](https://github.com/AOMediaCodec/libavif/commit/db8815a0d9c8327613703176f301b67b16ac4035)
 - [ ] [<code>obu: Handle size == 0 in avifBitsInit</code>](https://github.com/AOMediaCodec/libavif/commit/90efc1ec8c9f3cab7f43427513f23f6aadbccf88)
 - [ ] [<code>obu: Use uint32_t for obu_forbidden_bits</code>](https://github.com/AOMediaCodec/libavif/commit/5d5d708de735bb52d70849a6a901a7cbebead6c4)
+- [ ] [<code>Add AVIF_CHROMA_SAMPLE_POSITION_RESERVED</code>](https://github.com/AOMediaCodec/libavif/commit/0d2984d9e2239d6dc39b0f18fdd920abca281204)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3963,6 +3989,8 @@
 - [ ] [<code>fix(instance) ensure yaml form updates after saving changed yaml and resets on cancelling changes in the yaml editor</code>](https://github.com/canonical/lxd-ui/commit/c9d3cc6c5c5784373d607d6c14b55e05f7e327ca)
 - [ ] [<code>fix(network) avoid crash when manually trying to access network config for non-managed networks, show notification instead, fixes #757</code>](https://github.com/canonical/lxd-ui/commit/1647a00df3b305d9910d103fee7e232c5ede501b)
 - [ ] [<code>fix(vm) ensure scrolling a vm graphic console is propagated to the parent element, so the console content is scrolling on screens with low height. fixes #700</code>](https://github.com/canonical/lxd-ui/commit/21c466c7026cd4f0f24a9762cce4e6d69ffae43d)
+- [ ] [<code>feature: lxd permissions management</code>](https://github.com/canonical/lxd-ui/commit/1c39400179e2b25806e360c848625bcf61e690b8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4606,6 +4634,72 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.34.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.34.0...HEAD)
 
+- [ ] [<code>Rotator: Move Rotator to the own directory; the same as was done with Rig</code>](https://github.com/foldynl/QLog.git/commit/1f36eba2a0964b1c50db3de815beed98e4b9647f)
+- [ ] [<code>Rig: Renamed GenericDrv to GenericRigDrv</code>](https://github.com/foldynl/QLog.git/commit/014cf3cfa888fb9c19a7b86482647bd52a99de0c)
+- [ ] [<code>Rotator: Redesigned to support multiple backends</code>](https://github.com/foldynl/QLog.git/commit/9fcf5b6bd2568638f480ce07bef381f77300a6b3)
+- [ ] [<code>Rotator: Added PSTRotator support</code>](https://github.com/foldynl/QLog.git/commit/8920063dfce44066ee9b0766667d1af16c1c9d9d)
+- [ ] [<code>CWKey: Moved CWKey to the own directory; the same as was done with Rotator</code>](https://github.com/foldynl/QLog.git/commit/f9b10af6a0cfb4fe194d6af4c32dc1711d89bc3c)
+- [ ] [<code>Fixed typo in MainWindow.ui</code>](https://github.com/foldynl/QLog.git/commit/9d45843cd3fa5d283ea3c7c19fb97b80669a5a1f)
+- [ ] [<code>Settings: Set default port for PSTRotator</code>](https://github.com/foldynl/QLog.git/commit/64ed10383769a8243813fd77b1b7345dbe27985e)
+- [ ] [<code>Compilation fixes under Window</code>](https://github.com/foldynl/QLog.git/commit/067a99f36c6589181d61c6a228e05210fbacba02)
+- [ ] [<code>Fixed #206 - Network notifications: IP Addresses are not resolved</code>](https://github.com/foldynl/QLog.git/commit/60cbfecd9e8f17a05260d7b27bed3104dc22699f)
+- [ ] [<code>NewContact: Space Key is used as a focus changer for fields where space is not allowed</code>](https://github.com/foldynl/QLog.git/commit/c63e33d45c4698c2ccf3faea7606719210671e6b)
+- [ ] [<code>NewContact: Changed focus behaviour for EditLine widget - deselection; focus goes to the end of string</code>](https://github.com/foldynl/QLog.git/commit/7b0b62d807cfecea421985eeff948ef42304a2e5)
+- [ ] [<code>New Release started</code>](https://github.com/foldynl/QLog.git/commit/14be223f7b8d0b662a94a0b9d128c99166f27c4f)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/8f80e280b4bf1517306fe8bbbad93777dfeb9251)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e9b0df9ca15a39e45b6d5e8629aa770bcb2c3719)
+- [ ] [<code>Fixed crash when an unknown field is present</code>](https://github.com/foldynl/QLog.git/commit/eeacd326be80f96bcbe64edd8a9f3bcf039d538d)
+- [ ] [<code>LoTW Dialog: Initial download date is 1.1.1900; code optimalization</code>](https://github.com/foldynl/QLog.git/commit/806f429a4f568af7c816ffbf5f0c7828f018a598)
+- [ ] [<code>Fixed #341 - eQSL Dialog: Added QSO/QSL Since</code>](https://github.com/foldynl/QLog.git/commit/824763f6514fd05ac89c6ea955c67734930d5912)
+- [ ] [<code>Removed unwanted debug message</code>](https://github.com/foldynl/QLog.git/commit/6ade97f0a3ea1c6b85d5545ba55a7b1ca68a419f)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/188e489354014d6a2227abb1847661e094ac1bb3)
+- [ ] [<code>Fixed #342 - Fixed incorrect ADIF date format for clublog_qso_upload_date</code>](https://github.com/foldynl/QLog.git/commit/88d51f5f6e529f4f91ad602d04fde3806dcafd31)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/897e91a3d504f08c6eb7eed0221e9c6de7a38df7)
+- [ ] [<code>BandMap: Selected mode coloring</code>](https://github.com/foldynl/QLog.git/commit/ac45f5fa93b82e35df01580a48dbcc2467afe9f2)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/5449aa3e71eaf44c813d4060422f4c87e8e0dfc9)
+- [ ] [<code>Fixed #346 - Callbook Name field unification</code>](https://github.com/foldynl/QLog.git/commit/c2356214f34cb16b9779ca98ae7ca68fe4e46b55)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/6770950924e42a0d5b332c03ec30004cbb664db7)
+- [ ] [<code>FlDigi CW Key - renaming variable</code>](https://github.com/foldynl/QLog.git/commit/542b5ed65fbe1b943eddedfd18ae7a6e4df9b363)
+- [ ] [<code>CWConsole: Fixed enable/disable flag for Clear Button</code>](https://github.com/foldynl/QLog.git/commit/f4247f415c5c471081531bcac2a8d748bf88f80e)
+- [ ] [<code>CWConsole: Added Word/Whole mode</code>](https://github.com/foldynl/QLog.git/commit/08504ca0b92398c0a1a88cc78b31e7277d5527c3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/b5cd79061c48d80f4f6a4dab6d910fd0d19f56d1)
+- [ ] [<code>Fixed BandPlan issue with the beginning of the 80m band</code>](https://github.com/foldynl/QLog.git/commit/e97a4305cb6e038230eac4a15b56a99e18508e2b)
+- [ ] [<code>Updated Czech/German translations</code>](https://github.com/foldynl/QLog.git/commit/2dcdd29b3538f9d0c927850f6515f53d27ecc92d)
+- [ ] [<code>Improved a removing timezone from LongFormat</code>](https://github.com/foldynl/QLog.git/commit/77db239de0ef85cc485fb00e4f1a6f46e5034a42)
+- [ ] [<code>Updated README file</code>](https://github.com/foldynl/QLog.git/commit/293fdefa307cb655dde5ce4adc513e7683193b14)
+- [ ] [<code>PSTRotator Drv: Only IPv4 addresses are used from DNS query</code>](https://github.com/foldynl/QLog.git/commit/8dbbe645da26839fa387b82bd0c1c8ef3ba83877)
+- [ ] [<code>Removed unused class CWKeyWebServiceInterface</code>](https://github.com/foldynl/QLog.git/commit/a61e778ec5a23d602eeeb21e2f55220754e50b37)
+- [ ] [<code>Updated translation Czech/German</code>](https://github.com/foldynl/QLog.git/commit/16ca73753544d2a358199118ff6bc4eff9c267a2)
+- [ ] [<code>Fixed #332 - Profile Image: Added a new widget to display Callbook profile image</code>](https://github.com/foldynl/QLog.git/commit/b570409a97ebb2805ce8c1f3d09c74dbd4014c3f)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/bf8aee118f3dbbedbdc0750a8c01d16f91720608)
+- [ ] [<code>Updated translation Czech/German</code>](https://github.com/foldynl/QLog.git/commit/4cca26e60adb00ddbdbc6416c2d17aaa68e93475)
+- [ ] [<code>Fixed compilation issue under Ubuntu 20.04</code>](https://github.com/foldynl/QLog.git/commit/df0c18522831f4f36a7d043d9e073ab91751547e)
+- [ ] [<code>bandPlanMode2ExpectedMode - added inidialization of submode variable</code>](https://github.com/foldynl/QLog.git/commit/577938eaa4e542f7e898c5df277b76511c1371e0)
+- [ ] [<code>Fixed #350 - removeAccents: New algorithm that uses the Perl library Text-Unidecode/iconv approach</code>](https://github.com/foldynl/QLog.git/commit/65fc34bbe7a1c8b803ff06683cc4d357d77e57fd)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/5426e84a9c4da3b7f51f9f49f9e7b4b59ad468f4)
+- [ ] [<code>Station Profile: Added CQ/ITU Zones and Country</code>](https://github.com/foldynl/QLog.git/commit/7dd702ecdfc2dc1801dc5661e327a815e891863e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>NewContact, QSO Detail: ITU/CQ Zones from callbook - if present in the response</code>](https://github.com/foldynl/QLog.git/commit/d9cd59a98e8f63d04229446d43b879b67667f409)
+- [ ] [<code>Profile Image: Reworked Network Response Slot</code>](https://github.com/foldynl/QLog.git/commit/5d95bc53ca4549bb14bfa43dee5a4773725ce390)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/b1754f908d18aa418e47941136ecc559f59ffcb1)
+- [ ] [<code>Removed unwanted debug message</code>](https://github.com/foldynl/QLog.git/commit/8f01196ca7019fb02176d076ec40eb74a7b6b2ea)
+- [ ] [<code>Setting Dialog: Reorder ITU/CQ Zone; Fixed tab order</code>](https://github.com/foldynl/QLog.git/commit/296e03057a7f6b284b5b5997b40d1f8872b99124)
+- [ ] [<code>QSO Detail: Reorder My ITU/CQ Zones</code>](https://github.com/foldynl/QLog.git/commit/5c7fcf3e29c747b7b3f2d242c504ef438421dd77)
+- [ ] [<code>Force XCB under Linux Wayland</code>](https://github.com/foldynl/QLog.git/commit/cf44ef8f6358002dcc90ac94f338471c6f4a7004)
+- [ ] [<code>eQSL: Added updatedComplete if no log entries</code>](https://github.com/foldynl/QLog.git/commit/940e749f2fcad089056d55e5986c644980765bd3)
+- [ ] [<code>Fixed typo</code>](https://github.com/foldynl/QLog.git/commit/bb12bdec8ca9b5b0cb2daeb615a237aec75691b4)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7c9af6565f46467c3e11ceaa5c3eed39c1deb0bc)
+- [ ] [<code>Updated Czech/German Translation</code>](https://github.com/foldynl/QLog.git/commit/8f95bd99c3a1424947fb95012dbfd3c88b0646cc)
+- [ ] [<code>Fixed - no data from callbook for prefixed callsign</code>](https://github.com/foldynl/QLog.git/commit/e8ea6480fd3f00ab38bb8abadfd2b55b23dd8141)
+- [ ] [<code>Fixed #355 - Bandmap: Added Callsign/Freq/Mode to Tooltip</code>](https://github.com/foldynl/QLog.git/commit/65f3e8bb47b24ce18a3eecbd258a13c1b6b7d308)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/048af5423e033f1295f03d60d877723ecf2c2602)
+- [ ] [<code>Profile Image: Fixed Unexpected null receiver warning</code>](https://github.com/foldynl/QLog.git/commit/1beaf5141c858f8d1860595847e67d6087a28b4f)
+- [ ] [<code>Fixed Typo</code>](https://github.com/foldynl/QLog.git/commit/41c5c4a114b9c6c5ad6dcfd92c9d231c2cc1df9b)
+- [ ] [<code>Added translit generator script</code>](https://github.com/foldynl/QLog.git/commit/fbaf7315f9afaa6fc73a359a844eb807bf5593b0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Preparation for release 0.35.0</code>](https://github.com/foldynl/QLog.git/commit/712671bbe92003aadf0558746e3ada68983622f4)
+  - <sub>Tags: <code>v0.35.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
