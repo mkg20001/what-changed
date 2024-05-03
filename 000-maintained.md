@@ -3871,6 +3871,9 @@
 - [ ] [<code>read.c: Use header size when parsing VisualSampleEntry</code>](https://github.com/AOMediaCodec/libavif/commit/2be0ec98b735047d5b7dd285814e17fd61aff7a5)
 - [ ] [<code>obu: Do not parse more than obu_size bytes</code>](https://github.com/AOMediaCodec/libavif/commit/4c7f0f40c3c3c1c362cef47379220041d61fd2af)
 - [ ] [<code>Further cleanup in avifParseSampleDescriptionBox()</code>](https://github.com/AOMediaCodec/libavif/commit/7be0c356b0b367918f35edb7aff1cb53c015acee)
+- [ ] [<code>obu: Validate obu_forbidden_bit in sequence header</code>](https://github.com/AOMediaCodec/libavif/commit/db8815a0d9c8327613703176f301b67b16ac4035)
+- [ ] [<code>obu: Handle size == 0 in avifBitsInit</code>](https://github.com/AOMediaCodec/libavif/commit/90efc1ec8c9f3cab7f43427513f23f6aadbccf88)
+- [ ] [<code>obu: Use uint32_t for obu_forbidden_bits</code>](https://github.com/AOMediaCodec/libavif/commit/5d5d708de735bb52d70849a6a901a7cbebead6c4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
