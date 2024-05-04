@@ -3076,6 +3076,15 @@
 - [ ] [<code>incusd/network/ovn: Wait up to 1s for dynamic IPs</code>](https://github.com/lxc/incus/commit/233514a7c5e220aa89048940a1d50fbf961ea65f)
 - [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouterNAT to libovsdb</code>](https://github.com/lxc/incus/commit/fb8c12d0515ee39a2123611ee9e60438c5ce696c)
 - [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/9b2ea135322b1f11a4f9c3ac59f7d7323080cf66)
+- [ ] [<code>shared/archive: Fix typo</code>](https://github.com/lxc/incus/commit/8b3818cc3d0a4236d01743e77a117acc6388cc4c)
+- [ ] [<code>incusd/cluster: Re-organize joining logic</code>](https://github.com/lxc/incus/commit/2f1847220480055bf9bae103bca5c40e60fe7b1c)
+- [ ] [<code>incusd/cluster: Ignore OVN networks during joining</code>](https://github.com/lxc/incus/commit/88e463a8c341e502e15149c473d50334f2a95691)
+- [ ] [<code>shared/archive: Properly anchor exclude rules</code>](https://github.com/lxc/incus/commit/11887d924b3bd933fa1f32c7fd6b0502cc202873)
+- [ ] [<code>incusd/project: Rework low-level permission checks</code>](https://github.com/lxc/incus/commit/a64b420971ba37fa10e3e1414e87bf3b77004808)
+- [ ] [<code>incus/storage_bucket: Add example for storage bucket create</code>](https://github.com/lxc/incus/commit/930f00892116ef9baec537884d45abbed0f09c49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a8d9cee4d79e637e048a585a47df2bbb682d63b2)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3287,6 +3296,15 @@
 - [ ] [<code>incusd/network/ovn: Wait up to 1s for dynamic IPs</code>](https://github.com/lxc/incus/commit/233514a7c5e220aa89048940a1d50fbf961ea65f)
 - [ ] [<code>incusd/network/ovn/nb: Port DeleteLogicalRouterNAT to libovsdb</code>](https://github.com/lxc/incus/commit/fb8c12d0515ee39a2123611ee9e60438c5ce696c)
 - [ ] [<code>incusd/network: Update for OVS function changes</code>](https://github.com/lxc/incus/commit/9b2ea135322b1f11a4f9c3ac59f7d7323080cf66)
+- [ ] [<code>shared/archive: Fix typo</code>](https://github.com/lxc/incus/commit/8b3818cc3d0a4236d01743e77a117acc6388cc4c)
+- [ ] [<code>incusd/cluster: Re-organize joining logic</code>](https://github.com/lxc/incus/commit/2f1847220480055bf9bae103bca5c40e60fe7b1c)
+- [ ] [<code>incusd/cluster: Ignore OVN networks during joining</code>](https://github.com/lxc/incus/commit/88e463a8c341e502e15149c473d50334f2a95691)
+- [ ] [<code>shared/archive: Properly anchor exclude rules</code>](https://github.com/lxc/incus/commit/11887d924b3bd933fa1f32c7fd6b0502cc202873)
+- [ ] [<code>incusd/project: Rework low-level permission checks</code>](https://github.com/lxc/incus/commit/a64b420971ba37fa10e3e1414e87bf3b77004808)
+- [ ] [<code>incus/storage_bucket: Add example for storage bucket create</code>](https://github.com/lxc/incus/commit/930f00892116ef9baec537884d45abbed0f09c49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a8d9cee4d79e637e048a585a47df2bbb682d63b2)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3927,6 +3945,8 @@
 - [ ] [<code>obu: Handle size == 0 in avifBitsInit</code>](https://github.com/AOMediaCodec/libavif/commit/90efc1ec8c9f3cab7f43427513f23f6aadbccf88)
 - [ ] [<code>obu: Use uint32_t for obu_forbidden_bits</code>](https://github.com/AOMediaCodec/libavif/commit/5d5d708de735bb52d70849a6a901a7cbebead6c4)
 - [ ] [<code>Add AVIF_CHROMA_SAMPLE_POSITION_RESERVED</code>](https://github.com/AOMediaCodec/libavif/commit/0d2984d9e2239d6dc39b0f18fdd920abca281204)
+- [ ] [<code>Run ci-windows-installed.yml on every pull request</code>](https://github.com/AOMediaCodec/libavif/commit/4db10a833f0cab4c8b965f60f27175f8a662d126)
+- [ ] [<code>avifutil: Use simpler check for printing repeat count</code>](https://github.com/AOMediaCodec/libavif/commit/0a7a58a3f363311e284ad7bd25e259525fe07b71)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
