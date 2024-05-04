@@ -2645,6 +2645,9 @@
 - [ ] [<code>Merge pull request #303 from Glubiz/main</code>](https://github.com/stepchowfun/docuum/commit/943f787d4c12a8f40d29f4da05f63a3d8155cf5b)
   - <sub>Tags: <code>v0.25.0</code></sub>
 - [ ] [<code>Install v0.25.0 by default</code>](https://github.com/stepchowfun/docuum/commit/1f9bf5ea4490e4d085453b914a17d5c2a82cc43e)
+- [ ] [<code>Update Rust to v1.78.0</code>](https://github.com/stepchowfun/docuum/commit/5646d3dc95ef0a6bc32318e04c3f96abe92a1d3d)
+- [ ] [<code>Update the Ubuntu version in the toastfile to 22.04 LTS</code>](https://github.com/stepchowfun/docuum/commit/27312e8307cadcb0cb81901ea80301491719f70f)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -2832,6 +2835,8 @@
 - [ ] [<code>fix: FakeMatrixApi check</code>](https://github.com/krille-chan/fluffychat/commit/d7d7268828e9fadad7d06ac31255353d0810588c)
 - [ ] [<code>refactor: Display better command hints</code>](https://github.com/krille-chan/fluffychat/commit/ee6ba0de84861c91f6078233eee1bcead5ebf7f9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Broken localization with empty strings in it</code>](https://github.com/krille-chan/fluffychat/commit/f71e3ad8e81d0d9b9b72174b01aeccd8a58ad0d2)
+- [ ] [<code>feat: Enable download images on iOS, not only share images</code>](https://github.com/krille-chan/fluffychat/commit/b280f8d8d9f73897183db704acdea2b05aeee0d0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2839,28 +2844,14 @@
 - [ ] [<code>fix: FakeMatrixApi check</code>](https://github.com/krille-chan/fluffychat/commit/d7d7268828e9fadad7d06ac31255353d0810588c)
 - [ ] [<code>refactor: Display better command hints</code>](https://github.com/krille-chan/fluffychat/commit/ee6ba0de84861c91f6078233eee1bcead5ebf7f9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Broken localization with empty strings in it</code>](https://github.com/krille-chan/fluffychat/commit/f71e3ad8e81d0d9b9b72174b01aeccd8a58ad0d2)
+- [ ] [<code>feat: Enable download images on iOS, not only share images</code>](https://github.com/krille-chan/fluffychat/commit/b280f8d8d9f73897183db704acdea2b05aeee0d0)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.1 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.1...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.2 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.2...HEAD)
 
-- [ ] [<code>Update gnome-online-accounts-gtk.desktop - Add Categories (#1)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/f984fe0dffaeb715f399a8d0a1887a7e037d24b9)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Update gnome-online-accounts-gtk.desktop - Remove path (#2)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/febc445ef3e947d1ede4cb631df4718bcd6e0463)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Add depends gnome-online-accounts (#6)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/27eddaacb9484b152496bae9904a3c504eed97e7)
-- [ ] [<code>readme: fix typo (#9)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/f40e136edce2ddfe09e5142f5af4c6cbdeb62266)
-- [ ] [<code>Call adw_init() for libgoa's provider dialog.</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/2f60bcf366336bd80245bf0f7b2012ef6bc4f282)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>debian/rules: Fix build type, remove an unnecessary build option.</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/0f65fa1b15c6d9d903a5387a901e222999e25794)
-- [ ] [<code>Delegate ownership/maintenance to the XApp Project</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/53944cdc2f81eb3959744d10eb4a43b04c7fdf0f)
-- [ ] [<code>libAdwaita: Switch to an SDD titlebar</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/fc027d5f205739423dc133b24a87dce96a992e19)
-- [ ] [<code>Remove unused code</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/15f39437cb55a0f16f6738c51c38cdb10b682239)
-- [ ] [<code>3.50.2</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/9980803cd488ae6082bf18ba43d75900b777412d)
-  - <sub>Tags: <code>3.50.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -3085,6 +3076,23 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a8d9cee4d79e637e048a585a47df2bbb682d63b2)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_peer: Add example for create command</code>](https://github.com/lxc/incus/commit/7117a1ea46a1d31cd08cb5856e83413c99136238)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update trasnlation templates</code>](https://github.com/lxc/incus/commit/1d11c67c7e53e3404c3cc70449c379abc4d6006d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: instance_state_started_at</code>](https://github.com/lxc/incus/commit/e88009a0f46519ddb41f8b0849cc2c61efb0a287)
+- [ ] [<code>shared/api: Add StartedAt to InstanceState</code>](https://github.com/lxc/incus/commit/6010c0ffa7bffdf59a644b43f02bedca0c55e8e1)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/1d7d224888b3d5143ade43852f477c7f23895386)
+- [ ] [<code>incusd/instance: Add StartedAt to InstanceState</code>](https://github.com/lxc/incus/commit/eec8c78e0f0db80f3d1b37b9d8196ceda6a7a3a1)
+- [ ] [<code>incus/info: Add Started field</code>](https://github.com/lxc/incus/commit/cdfdfea9d04877a40583df66fa102c77883dfa4f)
+- [ ] [<code>incus/list: Add started at column</code>](https://github.com/lxc/incus/commit/7b4c2c51e538dd4dbc7632bfb7f4d85e1c09b5d6)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/5042c343c76fd100c867580ddb423e2f1679affd)
+- [ ] [<code>Makefile: Cleanup gomod update</code>](https://github.com/lxc/incus/commit/2953ae25118e4d00cbdfbb54c8ab7122c5b787c1)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/47ad8ebeda12200624bf54a4d6ae64fef801b67b)
+- [ ] [<code>tests/mini-oidc: Bump to go-jose/v4</code>](https://github.com/lxc/incus/commit/fe31fd56a242ac473dce42db7a1cffd9ef0d0825)
+- [ ] [<code>client/connection: Add support for the socket existing in /run/incus</code>](https://github.com/lxc/incus/commit/d8b78d5007c01d07b8e7fba78aceb917fbfcf879)
+- [ ] [<code>Release Incus 6.1</code>](https://github.com/lxc/incus/commit/38d0bc57d4ae8926b0adfad475f2d4ca70a1c734)
+  - <sub>Tags: <code>v6.1.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3305,6 +3313,23 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a8d9cee4d79e637e048a585a47df2bbb682d63b2)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network_peer: Add example for create command</code>](https://github.com/lxc/incus/commit/7117a1ea46a1d31cd08cb5856e83413c99136238)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update trasnlation templates</code>](https://github.com/lxc/incus/commit/1d11c67c7e53e3404c3cc70449c379abc4d6006d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: instance_state_started_at</code>](https://github.com/lxc/incus/commit/e88009a0f46519ddb41f8b0849cc2c61efb0a287)
+- [ ] [<code>shared/api: Add StartedAt to InstanceState</code>](https://github.com/lxc/incus/commit/6010c0ffa7bffdf59a644b43f02bedca0c55e8e1)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/1d7d224888b3d5143ade43852f477c7f23895386)
+- [ ] [<code>incusd/instance: Add StartedAt to InstanceState</code>](https://github.com/lxc/incus/commit/eec8c78e0f0db80f3d1b37b9d8196ceda6a7a3a1)
+- [ ] [<code>incus/info: Add Started field</code>](https://github.com/lxc/incus/commit/cdfdfea9d04877a40583df66fa102c77883dfa4f)
+- [ ] [<code>incus/list: Add started at column</code>](https://github.com/lxc/incus/commit/7b4c2c51e538dd4dbc7632bfb7f4d85e1c09b5d6)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/5042c343c76fd100c867580ddb423e2f1679affd)
+- [ ] [<code>Makefile: Cleanup gomod update</code>](https://github.com/lxc/incus/commit/2953ae25118e4d00cbdfbb54c8ab7122c5b787c1)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/47ad8ebeda12200624bf54a4d6ae64fef801b67b)
+- [ ] [<code>tests/mini-oidc: Bump to go-jose/v4</code>](https://github.com/lxc/incus/commit/fe31fd56a242ac473dce42db7a1cffd9ef0d0825)
+- [ ] [<code>client/connection: Add support for the socket existing in /run/incus</code>](https://github.com/lxc/incus/commit/d8b78d5007c01d07b8e7fba78aceb917fbfcf879)
+- [ ] [<code>Release Incus 6.1</code>](https://github.com/lxc/incus/commit/38d0bc57d4ae8926b0adfad475f2d4ca70a1c734)
+  - <sub>Tags: <code>v6.1.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
