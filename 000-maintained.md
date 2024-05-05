@@ -2837,6 +2837,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: Broken localization with empty strings in it</code>](https://github.com/krille-chan/fluffychat/commit/f71e3ad8e81d0d9b9b72174b01aeccd8a58ad0d2)
 - [ ] [<code>feat: Enable download images on iOS, not only share images</code>](https://github.com/krille-chan/fluffychat/commit/b280f8d8d9f73897183db704acdea2b05aeee0d0)
+- [ ] [<code>refactor: Make reaction key not nullable</code>](https://github.com/krille-chan/fluffychat/commit/e9d04b7217128c27b41bfa693e4558bc9db1720f)
+- [ ] [<code>fix: mxc reactions not rendered correctly</code>](https://github.com/krille-chan/fluffychat/commit/8260480d900585ecea23831ad16f5880dbd7fde8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2846,6 +2848,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: Broken localization with empty strings in it</code>](https://github.com/krille-chan/fluffychat/commit/f71e3ad8e81d0d9b9b72174b01aeccd8a58ad0d2)
 - [ ] [<code>feat: Enable download images on iOS, not only share images</code>](https://github.com/krille-chan/fluffychat/commit/b280f8d8d9f73897183db704acdea2b05aeee0d0)
+- [ ] [<code>refactor: Make reaction key not nullable</code>](https://github.com/krille-chan/fluffychat/commit/e9d04b7217128c27b41bfa693e4558bc9db1720f)
+- [ ] [<code>fix: mxc reactions not rendered correctly</code>](https://github.com/krille-chan/fluffychat/commit/8260480d900585ecea23831ad16f5880dbd7fde8)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3093,6 +3097,10 @@
 - [ ] [<code>client/connection: Add support for the socket existing in /run/incus</code>](https://github.com/lxc/incus/commit/d8b78d5007c01d07b8e7fba78aceb917fbfcf879)
 - [ ] [<code>Release Incus 6.1</code>](https://github.com/lxc/incus/commit/38d0bc57d4ae8926b0adfad475f2d4ca70a1c734)
   - <sub>Tags: <code>v6.1.0</code></sub>
+- [ ] [<code>incusd/instance/lxc: Add gendoc comments for image restrictions</code>](https://github.com/lxc/incus/commit/7be20c43c4b405ea3a0d092d5236ea661e388476)
+- [ ] [<code>incusd/instance/qemu: Add gendoc comments for image restrictions</code>](https://github.com/lxc/incus/commit/ba3a2a157aaa58e59a50b4b5297008c0daa70743)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/def8c758e3d7dd7df28bfe9929ce197598d20410)
+- [ ] [<code>doc/image-handling: Use gendoc data</code>](https://github.com/lxc/incus/commit/663591ac27fc8beea2c2b147aa1d70135313ba66)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3330,6 +3338,10 @@
 - [ ] [<code>client/connection: Add support for the socket existing in /run/incus</code>](https://github.com/lxc/incus/commit/d8b78d5007c01d07b8e7fba78aceb917fbfcf879)
 - [ ] [<code>Release Incus 6.1</code>](https://github.com/lxc/incus/commit/38d0bc57d4ae8926b0adfad475f2d4ca70a1c734)
   - <sub>Tags: <code>v6.1.0</code></sub>
+- [ ] [<code>incusd/instance/lxc: Add gendoc comments for image restrictions</code>](https://github.com/lxc/incus/commit/7be20c43c4b405ea3a0d092d5236ea661e388476)
+- [ ] [<code>incusd/instance/qemu: Add gendoc comments for image restrictions</code>](https://github.com/lxc/incus/commit/ba3a2a157aaa58e59a50b4b5297008c0daa70743)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/def8c758e3d7dd7df28bfe9929ce197598d20410)
+- [ ] [<code>doc/image-handling: Use gendoc data</code>](https://github.com/lxc/incus/commit/663591ac27fc8beea2c2b147aa1d70135313ba66)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
