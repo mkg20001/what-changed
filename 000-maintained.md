@@ -2839,6 +2839,12 @@
 - [ ] [<code>feat: Enable download images on iOS, not only share images</code>](https://github.com/krille-chan/fluffychat/commit/b280f8d8d9f73897183db704acdea2b05aeee0d0)
 - [ ] [<code>refactor: Make reaction key not nullable</code>](https://github.com/krille-chan/fluffychat/commit/e9d04b7217128c27b41bfa693e4558bc9db1720f)
 - [ ] [<code>fix: mxc reactions not rendered correctly</code>](https://github.com/krille-chan/fluffychat/commit/8260480d900585ecea23831ad16f5880dbd7fde8)
+- [ ] [<code>feat: Search feature</code>](https://github.com/krille-chan/fluffychat/commit/6ea4d0c26363fb64531c46f0f0c24ba8ebd47016)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/d8191288819f67c5d647a4561688c2e0ac545eed)
+- [ ] [<code>chore: Follow up search feature</code>](https://github.com/krille-chan/fluffychat/commit/9d4145b49d4dc93df2738a4e460cbfd80beb6d59)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/e40e24e97dca02a3c9b938aa6a65ada8493b453d)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2850,6 +2856,12 @@
 - [ ] [<code>feat: Enable download images on iOS, not only share images</code>](https://github.com/krille-chan/fluffychat/commit/b280f8d8d9f73897183db704acdea2b05aeee0d0)
 - [ ] [<code>refactor: Make reaction key not nullable</code>](https://github.com/krille-chan/fluffychat/commit/e9d04b7217128c27b41bfa693e4558bc9db1720f)
 - [ ] [<code>fix: mxc reactions not rendered correctly</code>](https://github.com/krille-chan/fluffychat/commit/8260480d900585ecea23831ad16f5880dbd7fde8)
+- [ ] [<code>feat: Search feature</code>](https://github.com/krille-chan/fluffychat/commit/6ea4d0c26363fb64531c46f0f0c24ba8ebd47016)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/d8191288819f67c5d647a4561688c2e0ac545eed)
+- [ ] [<code>chore: Follow up search feature</code>](https://github.com/krille-chan/fluffychat/commit/9d4145b49d4dc93df2738a4e460cbfd80beb6d59)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/e40e24e97dca02a3c9b938aa6a65ada8493b453d)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
+- [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
