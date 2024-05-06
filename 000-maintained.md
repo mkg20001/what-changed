@@ -3114,6 +3114,58 @@
 - [ ] [<code>incusd/instance/qemu: Add gendoc comments for image restrictions</code>](https://github.com/lxc/incus/commit/ba3a2a157aaa58e59a50b4b5297008c0daa70743)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/def8c758e3d7dd7df28bfe9929ce197598d20410)
 - [ ] [<code>doc/image-handling: Use gendoc data</code>](https://github.com/lxc/incus/commit/663591ac27fc8beea2c2b147aa1d70135313ba66)
+- [ ] [<code>incus/storage_bucket: Add yaml support for key create</code>](https://github.com/lxc/incus/commit/9919c795c4967c8122c7ae1798986442d1be1b2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c6d9a02e08513c74add86695f8e5fe519558c928)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Fix StartedAt handling</code>](https://github.com/lxc/incus/commit/2fe62a272e3819d0e31ef2a5f8ed5566d607814a)
+- [ ] [<code>incus/storage: Customizable columns in list</code>](https://github.com/lxc/incus/commit/6333e3b864b989e72c1571a144bee4144303c09c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b679e8a300c5d2302d61dcb950e3044ee968beaa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovn: Port LogicalRouterSNATAdd and LogicalRouterDNATSNATAdd to libovsdb</code>](https://github.com/lxc/incus/commit/c19f0979badcf19e0561f64c71be3dea0cba1f5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/361b0f78a570b231be328c7ccc1d7b91ec559320)
+- [ ] [<code>api: instances_scriptlet_get_project</code>](https://github.com/lxc/incus/commit/08edef3b9897b63268b2f02ac17788f564142eb2)
+- [ ] [<code>doc/instances/scriptlet: Add get_project</code>](https://github.com/lxc/incus/commit/7a82233562322fa94df8497b85085e3bfb055463)
+- [ ] [<code>incusd/scriptlet: Add get_project</code>](https://github.com/lxc/incus/commit/cef77b6d0a02d3aaecc42b410bb8b41c1604ae23)
+- [ ] [<code>api: networks_all_projects</code>](https://github.com/lxc/incus/commit/cbd77ca49f3c2740eb57e7a0205cdab5a1c3a5df)
+- [ ] [<code>shared/api: Add Project field to Network</code>](https://github.com/lxc/incus/commit/7867553b24a00c5cdb2e3a4b3a47b379761dcd2e)
+- [ ] [<code>client: Add GetNetworksAllProjects</code>](https://github.com/lxc/incus/commit/3dea068459b0cd7565d067b949a512412f947c34)
+- [ ] [<code>incus/network: Add all-projects</code>](https://github.com/lxc/incus/commit/b7f568147fac9db9b3ee261067c116b41de57ea1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Add GetNetworksAllProjects</code>](https://github.com/lxc/incus/commit/bfb7dca078bf23ca769ce04b6435b640d895b2eb)
+- [ ] [<code>incusd/networks: Add all-projects</code>](https://github.com/lxc/incus/commit/55a36aa89154ff200f0ca4e7b0098b775ec935b7)
+- [ ] [<code>internal/instance: Add gendoc for limits.kernel</code>](https://github.com/lxc/incus/commit/d9922593aae6b0aef5d8fc7f3238d2fd8f806c3a)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/21955b49cbe948b45cc2d4d281e0339db3feac5d)
+- [ ] [<code>doc: Use gendoc for limits.kernel</code>](https://github.com/lxc/incus/commit/3a834cf3e3e992c4348d7845520de33dca582d06)
+- [ ] [<code>api: network_acls_all_projects</code>](https://github.com/lxc/incus/commit/43e96747063ab22b7192f8fd358069efa6a5158b)
+- [ ] [<code>shared/api: Add Project field to NetworkACL</code>](https://github.com/lxc/incus/commit/a46bc654efba0ea661dd6c6f64edd72841f7593a)
+- [ ] [<code>client: Add GetNetworkACLsAllProjects</code>](https://github.com/lxc/incus/commit/b6df3b4498d3fb74988bfceb61ca6174cac97136)
+- [ ] [<code>incus/network/acl: Add all-projects</code>](https://github.com/lxc/incus/commit/ef41416724288013e34e24a3e2e47b2bf61fdb6d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Add GetNetworkACLsAllProjects</code>](https://github.com/lxc/incus/commit/b1b1fa40e41b576a5a913544de5fbfcf2b73d19e)
+- [ ] [<code>incusd/network/acl: Set Project field</code>](https://github.com/lxc/incus/commit/18a49643e909495f6355ff09f163b4f0c9af8a7f)
+- [ ] [<code>incusd/network_acls: Add all-projects</code>](https://github.com/lxc/incus/commit/988cce7cc188d71d9deb4f50e761dca988df22b7)
+- [ ] [<code>api: storage_buckets_all_projects</code>](https://github.com/lxc/incus/commit/0a48523bfc8d8df3f0a59e68872ee6b45fabb092)
+- [ ] [<code>shared/api: Add Project field to StorageBucket</code>](https://github.com/lxc/incus/commit/68feadb3c171973e6d11dbfcd326f89cac259377)
+- [ ] [<code>client: Add GetStoragePoolBucketsAllProjects</code>](https://github.com/lxc/incus/commit/b4e4ccec3c8e1c60ef79822039a9c69fce53a674)
+- [ ] [<code>incus/storage/bucket: Add all-projects</code>](https://github.com/lxc/incus/commit/58dce75a7f752f075369051bbafba97e3e9dcac6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db/storage_buckets: Fill Project field</code>](https://github.com/lxc/incus/commit/39c0d531ab4e90fb61bd5ff6a5d59d595e7dbfd8)
+- [ ] [<code>incusd/storage_buckets: Add all-projects</code>](https://github.com/lxc/incus/commit/68e5713aaa65c5a2a05c1d636daee409d957c4dc)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf0ccc0360ff27eeab570c19936a7ad5bae5a58f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/networks: Fix import shadowing</code>](https://github.com/lxc/incus/commit/aec6a43fd1ad72850708a475d76ed37a2a60f965)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d5661d1d58f643f354a7bce0372abae027bf3990)
+- [ ] [<code>client: Align GetProfilesAllProjects with GetProfiles</code>](https://github.com/lxc/incus/commit/1737e6406cd397f9f1837cc069b1102067bad907)
+- [ ] [<code>client: Align GetNetworkZonesAllProjects with GetNetworkZones</code>](https://github.com/lxc/incus/commit/f2e9a0990fe9ce34c07ca6e52715d9b8e3f4f493)
+- [ ] [<code>client: Standardize the GetNetworkAllocation functions</code>](https://github.com/lxc/incus/commit/4010094aef54e275f588dedb20cc8d679f4d2511)
+- [ ] [<code>incus/network_allocations: Update for client changes</code>](https://github.com/lxc/incus/commit/4725f774d98a9074fd7d6c6c01e2a4c6bf85e613)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/usb: Add gendoc for the USB device</code>](https://github.com/lxc/incus/commit/1de3a0d77f26cb8c3dad81295f2415cb750869dc)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ac05f6a2a42019096aa88b4a86b076544208d542)
+- [ ] [<code>doc: Use gendoc for USB devices</code>](https://github.com/lxc/incus/commit/fa5a1d6ae955f31745c1744753e5f8789388e397)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3355,6 +3407,58 @@
 - [ ] [<code>incusd/instance/qemu: Add gendoc comments for image restrictions</code>](https://github.com/lxc/incus/commit/ba3a2a157aaa58e59a50b4b5297008c0daa70743)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/def8c758e3d7dd7df28bfe9929ce197598d20410)
 - [ ] [<code>doc/image-handling: Use gendoc data</code>](https://github.com/lxc/incus/commit/663591ac27fc8beea2c2b147aa1d70135313ba66)
+- [ ] [<code>incus/storage_bucket: Add yaml support for key create</code>](https://github.com/lxc/incus/commit/9919c795c4967c8122c7ae1798986442d1be1b2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c6d9a02e08513c74add86695f8e5fe519558c928)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Fix StartedAt handling</code>](https://github.com/lxc/incus/commit/2fe62a272e3819d0e31ef2a5f8ed5566d607814a)
+- [ ] [<code>incus/storage: Customizable columns in list</code>](https://github.com/lxc/incus/commit/6333e3b864b989e72c1571a144bee4144303c09c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b679e8a300c5d2302d61dcb950e3044ee968beaa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovn: Port LogicalRouterSNATAdd and LogicalRouterDNATSNATAdd to libovsdb</code>](https://github.com/lxc/incus/commit/c19f0979badcf19e0561f64c71be3dea0cba1f5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/361b0f78a570b231be328c7ccc1d7b91ec559320)
+- [ ] [<code>api: instances_scriptlet_get_project</code>](https://github.com/lxc/incus/commit/08edef3b9897b63268b2f02ac17788f564142eb2)
+- [ ] [<code>doc/instances/scriptlet: Add get_project</code>](https://github.com/lxc/incus/commit/7a82233562322fa94df8497b85085e3bfb055463)
+- [ ] [<code>incusd/scriptlet: Add get_project</code>](https://github.com/lxc/incus/commit/cef77b6d0a02d3aaecc42b410bb8b41c1604ae23)
+- [ ] [<code>api: networks_all_projects</code>](https://github.com/lxc/incus/commit/cbd77ca49f3c2740eb57e7a0205cdab5a1c3a5df)
+- [ ] [<code>shared/api: Add Project field to Network</code>](https://github.com/lxc/incus/commit/7867553b24a00c5cdb2e3a4b3a47b379761dcd2e)
+- [ ] [<code>client: Add GetNetworksAllProjects</code>](https://github.com/lxc/incus/commit/3dea068459b0cd7565d067b949a512412f947c34)
+- [ ] [<code>incus/network: Add all-projects</code>](https://github.com/lxc/incus/commit/b7f568147fac9db9b3ee261067c116b41de57ea1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Add GetNetworksAllProjects</code>](https://github.com/lxc/incus/commit/bfb7dca078bf23ca769ce04b6435b640d895b2eb)
+- [ ] [<code>incusd/networks: Add all-projects</code>](https://github.com/lxc/incus/commit/55a36aa89154ff200f0ca4e7b0098b775ec935b7)
+- [ ] [<code>internal/instance: Add gendoc for limits.kernel</code>](https://github.com/lxc/incus/commit/d9922593aae6b0aef5d8fc7f3238d2fd8f806c3a)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/21955b49cbe948b45cc2d4d281e0339db3feac5d)
+- [ ] [<code>doc: Use gendoc for limits.kernel</code>](https://github.com/lxc/incus/commit/3a834cf3e3e992c4348d7845520de33dca582d06)
+- [ ] [<code>api: network_acls_all_projects</code>](https://github.com/lxc/incus/commit/43e96747063ab22b7192f8fd358069efa6a5158b)
+- [ ] [<code>shared/api: Add Project field to NetworkACL</code>](https://github.com/lxc/incus/commit/a46bc654efba0ea661dd6c6f64edd72841f7593a)
+- [ ] [<code>client: Add GetNetworkACLsAllProjects</code>](https://github.com/lxc/incus/commit/b6df3b4498d3fb74988bfceb61ca6174cac97136)
+- [ ] [<code>incus/network/acl: Add all-projects</code>](https://github.com/lxc/incus/commit/ef41416724288013e34e24a3e2e47b2bf61fdb6d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Add GetNetworkACLsAllProjects</code>](https://github.com/lxc/incus/commit/b1b1fa40e41b576a5a913544de5fbfcf2b73d19e)
+- [ ] [<code>incusd/network/acl: Set Project field</code>](https://github.com/lxc/incus/commit/18a49643e909495f6355ff09f163b4f0c9af8a7f)
+- [ ] [<code>incusd/network_acls: Add all-projects</code>](https://github.com/lxc/incus/commit/988cce7cc188d71d9deb4f50e761dca988df22b7)
+- [ ] [<code>api: storage_buckets_all_projects</code>](https://github.com/lxc/incus/commit/0a48523bfc8d8df3f0a59e68872ee6b45fabb092)
+- [ ] [<code>shared/api: Add Project field to StorageBucket</code>](https://github.com/lxc/incus/commit/68feadb3c171973e6d11dbfcd326f89cac259377)
+- [ ] [<code>client: Add GetStoragePoolBucketsAllProjects</code>](https://github.com/lxc/incus/commit/b4e4ccec3c8e1c60ef79822039a9c69fce53a674)
+- [ ] [<code>incus/storage/bucket: Add all-projects</code>](https://github.com/lxc/incus/commit/58dce75a7f752f075369051bbafba97e3e9dcac6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db/storage_buckets: Fill Project field</code>](https://github.com/lxc/incus/commit/39c0d531ab4e90fb61bd5ff6a5d59d595e7dbfd8)
+- [ ] [<code>incusd/storage_buckets: Add all-projects</code>](https://github.com/lxc/incus/commit/68e5713aaa65c5a2a05c1d636daee409d957c4dc)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf0ccc0360ff27eeab570c19936a7ad5bae5a58f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/networks: Fix import shadowing</code>](https://github.com/lxc/incus/commit/aec6a43fd1ad72850708a475d76ed37a2a60f965)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d5661d1d58f643f354a7bce0372abae027bf3990)
+- [ ] [<code>client: Align GetProfilesAllProjects with GetProfiles</code>](https://github.com/lxc/incus/commit/1737e6406cd397f9f1837cc069b1102067bad907)
+- [ ] [<code>client: Align GetNetworkZonesAllProjects with GetNetworkZones</code>](https://github.com/lxc/incus/commit/f2e9a0990fe9ce34c07ca6e52715d9b8e3f4f493)
+- [ ] [<code>client: Standardize the GetNetworkAllocation functions</code>](https://github.com/lxc/incus/commit/4010094aef54e275f588dedb20cc8d679f4d2511)
+- [ ] [<code>incus/network_allocations: Update for client changes</code>](https://github.com/lxc/incus/commit/4725f774d98a9074fd7d6c6c01e2a4c6bf85e613)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/usb: Add gendoc for the USB device</code>](https://github.com/lxc/incus/commit/1de3a0d77f26cb8c3dad81295f2415cb750869dc)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ac05f6a2a42019096aa88b4a86b076544208d542)
+- [ ] [<code>doc: Use gendoc for USB devices</code>](https://github.com/lxc/incus/commit/fa5a1d6ae955f31745c1744753e5f8789388e397)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3998,6 +4102,11 @@
 - [ ] [<code>Run ci-windows-installed.yml on every pull request</code>](https://github.com/AOMediaCodec/libavif/commit/4db10a833f0cab4c8b965f60f27175f8a662d126)
 - [ ] [<code>avifutil: Use simpler check for printing repeat count</code>](https://github.com/AOMediaCodec/libavif/commit/0a7a58a3f363311e284ad7bd25e259525fe07b71)
 - [ ] [<code>Bump the github-actions group with 5 updates (#2141)</code>](https://github.com/AOMediaCodec/libavif/commit/dd33986b4511d16c5086106d399fac09727085e2)
+- [ ] [<code>Revert CICP enum clamping</code>](https://github.com/AOMediaCodec/libavif/commit/f7dc78cf2c5b20e8a4f2b810dc34af0d19598724)
+- [ ] [<code>read.c: Validate that there is at least one trak box</code>](https://github.com/AOMediaCodec/libavif/commit/caf027a58e89289dc815814f0749c2bf7ffc2513)
+- [ ] [<code>Fix size 0 handling in avifParse() (#2152)</code>](https://github.com/AOMediaCodec/libavif/commit/d7154257cd599d346231d573ca82065f5f0874c7)
+- [ ] [<code>Add iloc extents test (#2095)</code>](https://github.com/AOMediaCodec/libavif/commit/c4d97673d0545d1912859560ed84507ed5884585)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -4771,6 +4880,14 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Preparation for release 0.35.0</code>](https://github.com/foldynl/QLog.git/commit/712671bbe92003aadf0558746e3ada68983622f4)
   - <sub>Tags: <code>v0.35.0</code></sub>
+- [ ] [<code>Fixed #363 - Free QRZ callbook - Name is not populating</code>](https://github.com/foldynl/QLog.git/commit/6ca9db1a3e90adceba61781eb3f76f6c62c10cb6)
+- [ ] [<code>Fixed #365 - Incorrect CW Segment freqs</code>](https://github.com/foldynl/QLog.git/commit/a7e5acca253e79080a014c640d53508ed16fe6c5)
+- [ ] [<code>Fixed #365 - Incorrect CW Segment freqs; Added 2m MS Freq as DIGI</code>](https://github.com/foldynl/QLog.git/commit/cd59e3642d7b12428d186c107bc1313c0b8c4fb9)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/89a844516b7deafb5ca27914908e45538cc6cdb4)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/d4f60725bcba5e90ebbed039431698582407ed9d)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/dccf74921b628f1ca1522afa0fbc4e341fda9acb)
+- [ ] [<code>Preparation for release 0.35.1</code>](https://github.com/foldynl/QLog.git/commit/ee5d16de2ae4e6a49c1cd365d2dd7cf6e4fd9846)
+  - <sub>Tags: <code>v0.35.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -4801,6 +4918,17 @@
 - [ ] [<code>Add BASE_PATH argument to Dockerfile</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ac3b40b188027c2968ac188c99f9c6a3c3b4cc0d)
 - [ ] [<code>Bump version to 0.10.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b112689b8c796686872cb573ad2a582dcaacf3b5)
   - <sub>Tags: <code>0.10.1</code></sub>
+- [ ] [<code>Fix warnings in LoginPage test</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/03fcd8126a107b38fc942456538f2689a8a9cc57)
+- [ ] [<code>Transform code base to typescript</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2466af69360493e8268be096a7dcfa43cc43992c)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Extract date formatting into separate file</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/39dd6617dec72fff2a023b9558151544b12c8760)
+- [ ] [<code>Refactor random MXID and password generator</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/72f5ab937e93597af13fc89b284b081dce9ffdfa)
+- [ ] [<code>Update eslint for typescript</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4761ea36bceff01255a1f34e544bec32013bba52)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump react-is from 18.2.0 to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/04243eefa94e8a75aceb4c844976d64ffd76948c)
+- [ ] [<code>Bump react-test-renderer from 18.2.0 to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6fe8ab3115b6fa382996a93c072c2fcf6030fae9)
+- [ ] [<code>Bump ra-language-english from 4.16.15 to 4.16.16</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7061c5cbff4e55b3d5d6aa9a3bfb4b466eb869c6)
+- [ ] [<code>Bump ra-language-french from 4.16.15 to 4.16.16</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3ae4dcffab1366d57f2490be294bf2eadb98b41b)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
