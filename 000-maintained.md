@@ -2551,6 +2551,7 @@
 - [ ] [<code>Merge remote-tracking branch 'origin/devel' into devel</code>](https://github.com/dbeaver/dbeaver/commit/2625dfaaea4aa0d65643c3f294cc300b5568254a)
 - [ ] [<code>dbeaver/dbeaver#29271 Json escaping fix revert. It breaks parser in specific cases. (#29287)</code>](https://github.com/dbeaver/dbeaver/commit/5784a13642221bed4827f8649e32d0e8d525f3e1)
 - [ ] [<code>#29291 Improve page validation marks in multi-page wizards (#29292)</code>](https://github.com/dbeaver/dbeaver/commit/9d72ef1dcc9d2182420c945fe21bd3ad56f435ca)
+- [ ] [<code>E 2024-03 support</code>](https://github.com/dbeaver/dbeaver/commit/9ce8e5b48bc80b19d658ef72cb0092956c87d205)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3996,6 +3997,7 @@
 - [ ] [<code>Add AVIF_CHROMA_SAMPLE_POSITION_RESERVED</code>](https://github.com/AOMediaCodec/libavif/commit/0d2984d9e2239d6dc39b0f18fdd920abca281204)
 - [ ] [<code>Run ci-windows-installed.yml on every pull request</code>](https://github.com/AOMediaCodec/libavif/commit/4db10a833f0cab4c8b965f60f27175f8a662d126)
 - [ ] [<code>avifutil: Use simpler check for printing repeat count</code>](https://github.com/AOMediaCodec/libavif/commit/0a7a58a3f363311e284ad7bd25e259525fe07b71)
+- [ ] [<code>Bump the github-actions group with 5 updates (#2141)</code>](https://github.com/AOMediaCodec/libavif/commit/dd33986b4511d16c5086106d399fac09727085e2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
