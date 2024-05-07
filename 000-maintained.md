@@ -2552,6 +2552,14 @@
 - [ ] [<code>dbeaver/dbeaver#29271 Json escaping fix revert. It breaks parser in specific cases. (#29287)</code>](https://github.com/dbeaver/dbeaver/commit/5784a13642221bed4827f8649e32d0e8d525f3e1)
 - [ ] [<code>#29291 Improve page validation marks in multi-page wizards (#29292)</code>](https://github.com/dbeaver/dbeaver/commit/9d72ef1dcc9d2182420c945fe21bd3ad56f435ca)
 - [ ] [<code>E 2024-03 support</code>](https://github.com/dbeaver/dbeaver/commit/9ce8e5b48bc80b19d658ef72cb0092956c87d205)
+- [ ] [<code>MySQL dialect fix revert</code>](https://github.com/dbeaver/dbeaver/commit/1c6260fa5e21b03bb399a04d676dd3fe58c137c6)
+- [ ] [<code>New draw2d api fix</code>](https://github.com/dbeaver/dbeaver/commit/28ecc6e2f484ee8c8038c0fd736d2c80d98b92cb)
+- [ ] [<code>#29885 NPE fix</code>](https://github.com/dbeaver/dbeaver/commit/012893117f6dbbe33330e0197f5d3e3fd998ddd5)
+- [ ] [<code>#29279 Get keywords from blockBoundStrings for statement start detection for `Smart` mode of `Blank line is a statement delimiter` setting (#29284)</code>](https://github.com/dbeaver/dbeaver/commit/915220acd6a833ce8a3776e60552326ddf770eda)
+- [ ] [<code>dbeaver/pro#2803 Fix colors in navigator and ItemListControl (#29830)</code>](https://github.com/dbeaver/dbeaver/commit/d0c557d1bcf313e9a6713082d0023cb2e0a81568)
+- [ ] [<code>dbeaver/pro#2718 Fix cursor position and not showing proposals (#29315)</code>](https://github.com/dbeaver/dbeaver/commit/94c254bb57c0c1bb69389526a295dc65ea0f493f)
+- [ ] [<code>UI addition</code>](https://github.com/dbeaver/dbeaver/commit/cd65c00ff187984df918e90d11d8946989b909a6)
+- [ ] [<code>Help prefix fix</code>](https://github.com/dbeaver/dbeaver/commit/601a474e207801fe4662121675eaa6f9365fc1d2)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2846,6 +2854,7 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/e40e24e97dca02a3c9b938aa6a65ada8493b453d)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
+- [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2863,6 +2872,7 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/e40e24e97dca02a3c9b938aa6a65ada8493b453d)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
+- [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -4993,6 +5003,8 @@
 - [ ] [<code>Bump eslint-plugin-unused-imports from 3.1.0 to 3.2.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/107d60704b2061a366a53bf3aae984279ed3d5c7)
 - [ ] [<code>Bump @typescript-eslint/parser from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5c492a2ecfed7487c135bda14ce2d71855590ac6)
 - [ ] [<code>Bump typescript-eslint from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9f5360779685e31d2ecff7211d89f94347f5b6b)
+- [ ] [<code>Add erasure status to users (#294)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fac09cb9bbc9b0a5fb594628eca9c72b1309862b)
+- [ ] [<code>Add locked status to users (#413)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b5ca951b323b4eeb3d6b901980264aca86c0050e)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
