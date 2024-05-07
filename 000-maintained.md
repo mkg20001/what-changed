@@ -3166,6 +3166,24 @@
 - [ ] [<code>incusd/device/usb: Add gendoc for the USB device</code>](https://github.com/lxc/incus/commit/1de3a0d77f26cb8c3dad81295f2415cb750869dc)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ac05f6a2a42019096aa88b4a86b076544208d542)
 - [ ] [<code>doc: Use gendoc for USB devices</code>](https://github.com/lxc/incus/commit/fa5a1d6ae955f31745c1744753e5f8789388e397)
+- [ ] [<code>api: resources_load</code>](https://github.com/lxc/incus/commit/43e0f6734153157c63a820bf5dc2511984737d45)
+- [ ] [<code>shared/api: Add Load to resources API</code>](https://github.com/lxc/incus/commit/555a9d3004aa49eaa06b0247b7209137014be33c)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ad8c6e265be2b5845b1b595095ca390fb8a19b4a)
+- [ ] [<code>incusd/resources: Add load information</code>](https://github.com/lxc/incus/commit/266c8f6e7aae227eadd5e71a09210806a2f55bfe)
+- [ ] [<code>incus/info: Add load information</code>](https://github.com/lxc/incus/commit/8aede1b260902409472fd80baf8ee79d785ca78e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/85744375f84d446bafe6798c2fc109757d4340ca)
+- [ ] [<code>incusd/device/unix: Add gendoc comments</code>](https://github.com/lxc/incus/commit/b9ebd4fd2bc939fb5843d2bb57bec1e7988d7a40)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8181f59f6c69ddd24043a84f7d17853d36e574d3)
+- [ ] [<code>doc/devices_unix_block.md: Use gendoc data</code>](https://github.com/lxc/incus/commit/26f15a165c27dd00c1ef4c02836485899a44a9a9)
+- [ ] [<code>doc/devices_unix_char.md: Use gendoc data</code>](https://github.com/lxc/incus/commit/eaba788237ca4e0f7d143b126559ac631191183a)
+- [ ] [<code>doc/devices_unix_hotplug.md: Use gendoc data</code>](https://github.com/lxc/incus/commit/a053b52462502e4a89b8b769ee2eaa7daa9b17ad)
+- [ ] [<code>incus/top: Add new command</code>](https://github.com/lxc/incus/commit/35ad3713c61679812845488d5a01b9dcde553f43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2ad671c4b53547fc631b3f646bad4bdf73285b84)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/zone: add gendoc for network zone</code>](https://github.com/lxc/incus/commit/cb40017de4fb7afeaacceafd9e85a3a38a2ab713)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/135176c12d7074ca3a26f563c3edb2de361a6c9d)
+- [ ] [<code>doc: Use gen doc for network zones</code>](https://github.com/lxc/incus/commit/8307649b66dd1574c0e3f3ebf38a2779bbcee109)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3459,6 +3477,24 @@
 - [ ] [<code>incusd/device/usb: Add gendoc for the USB device</code>](https://github.com/lxc/incus/commit/1de3a0d77f26cb8c3dad81295f2415cb750869dc)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ac05f6a2a42019096aa88b4a86b076544208d542)
 - [ ] [<code>doc: Use gendoc for USB devices</code>](https://github.com/lxc/incus/commit/fa5a1d6ae955f31745c1744753e5f8789388e397)
+- [ ] [<code>api: resources_load</code>](https://github.com/lxc/incus/commit/43e0f6734153157c63a820bf5dc2511984737d45)
+- [ ] [<code>shared/api: Add Load to resources API</code>](https://github.com/lxc/incus/commit/555a9d3004aa49eaa06b0247b7209137014be33c)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ad8c6e265be2b5845b1b595095ca390fb8a19b4a)
+- [ ] [<code>incusd/resources: Add load information</code>](https://github.com/lxc/incus/commit/266c8f6e7aae227eadd5e71a09210806a2f55bfe)
+- [ ] [<code>incus/info: Add load information</code>](https://github.com/lxc/incus/commit/8aede1b260902409472fd80baf8ee79d785ca78e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/85744375f84d446bafe6798c2fc109757d4340ca)
+- [ ] [<code>incusd/device/unix: Add gendoc comments</code>](https://github.com/lxc/incus/commit/b9ebd4fd2bc939fb5843d2bb57bec1e7988d7a40)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8181f59f6c69ddd24043a84f7d17853d36e574d3)
+- [ ] [<code>doc/devices_unix_block.md: Use gendoc data</code>](https://github.com/lxc/incus/commit/26f15a165c27dd00c1ef4c02836485899a44a9a9)
+- [ ] [<code>doc/devices_unix_char.md: Use gendoc data</code>](https://github.com/lxc/incus/commit/eaba788237ca4e0f7d143b126559ac631191183a)
+- [ ] [<code>doc/devices_unix_hotplug.md: Use gendoc data</code>](https://github.com/lxc/incus/commit/a053b52462502e4a89b8b769ee2eaa7daa9b17ad)
+- [ ] [<code>incus/top: Add new command</code>](https://github.com/lxc/incus/commit/35ad3713c61679812845488d5a01b9dcde553f43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2ad671c4b53547fc631b3f646bad4bdf73285b84)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/zone: add gendoc for network zone</code>](https://github.com/lxc/incus/commit/cb40017de4fb7afeaacceafd9e85a3a38a2ab713)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/135176c12d7074ca3a26f563c3edb2de361a6c9d)
+- [ ] [<code>doc: Use gen doc for network zones</code>](https://github.com/lxc/incus/commit/8307649b66dd1574c0e3f3ebf38a2779bbcee109)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
