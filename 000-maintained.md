@@ -3184,6 +3184,16 @@
 - [ ] [<code>incusd/network/zone: add gendoc for network zone</code>](https://github.com/lxc/incus/commit/cb40017de4fb7afeaacceafd9e85a3a38a2ab713)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/135176c12d7074ca3a26f563c3edb2de361a6c9d)
 - [ ] [<code>doc: Use gen doc for network zones</code>](https://github.com/lxc/incus/commit/8307649b66dd1574c0e3f3ebf38a2779bbcee109)
+- [ ] [<code>incusd/device/unix: Run gofmt</code>](https://github.com/lxc/incus/commit/8d751e3cfd92cab5bca0ef42bc3ac3ac44bba06c)
+- [ ] [<code>incus/info: Add PCI devices to --resources</code>](https://github.com/lxc/incus/commit/533a64709b004fd6a6c8ec8c0ef6a78d70c74a47)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/af995363684ad221772bc0fc70cd1e80c61eef32)
+- [ ] [<code>incusd/device/disk: Add gendoc comments</code>](https://github.com/lxc/incus/commit/970d81af4aa823428c61ceaf0c1b604580811c13)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/1bef1b9a8dc945761c429459bc0e5ea5fa755d50)
+- [ ] [<code>doc/devices/disk: Use gendoc</code>](https://github.com/lxc/incus/commit/94b6c0c103271cf0949ca0694cd751633872a93c)
+- [ ] [<code>incus/network: Customizable columns in list</code>](https://github.com/lxc/incus/commit/c7b6e6240f081543ea7e467e7d99de97851b5a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b8ae043ffab80db451502fe0554ffaa668715514)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3495,6 +3505,16 @@
 - [ ] [<code>incusd/network/zone: add gendoc for network zone</code>](https://github.com/lxc/incus/commit/cb40017de4fb7afeaacceafd9e85a3a38a2ab713)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/135176c12d7074ca3a26f563c3edb2de361a6c9d)
 - [ ] [<code>doc: Use gen doc for network zones</code>](https://github.com/lxc/incus/commit/8307649b66dd1574c0e3f3ebf38a2779bbcee109)
+- [ ] [<code>incusd/device/unix: Run gofmt</code>](https://github.com/lxc/incus/commit/8d751e3cfd92cab5bca0ef42bc3ac3ac44bba06c)
+- [ ] [<code>incus/info: Add PCI devices to --resources</code>](https://github.com/lxc/incus/commit/533a64709b004fd6a6c8ec8c0ef6a78d70c74a47)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/af995363684ad221772bc0fc70cd1e80c61eef32)
+- [ ] [<code>incusd/device/disk: Add gendoc comments</code>](https://github.com/lxc/incus/commit/970d81af4aa823428c61ceaf0c1b604580811c13)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/1bef1b9a8dc945761c429459bc0e5ea5fa755d50)
+- [ ] [<code>doc/devices/disk: Use gendoc</code>](https://github.com/lxc/incus/commit/94b6c0c103271cf0949ca0694cd751633872a93c)
+- [ ] [<code>incus/network: Customizable columns in list</code>](https://github.com/lxc/incus/commit/c7b6e6240f081543ea7e467e7d99de97851b5a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b8ae043ffab80db451502fe0554ffaa668715514)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4965,6 +4985,14 @@
 - [ ] [<code>Bump react-test-renderer from 18.2.0 to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6fe8ab3115b6fa382996a93c072c2fcf6030fae9)
 - [ ] [<code>Bump ra-language-english from 4.16.15 to 4.16.16</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7061c5cbff4e55b3d5d6aa9a3bfb4b466eb869c6)
 - [ ] [<code>Bump ra-language-french from 4.16.15 to 4.16.16</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3ae4dcffab1366d57f2490be294bf2eadb98b41b)
+- [ ] [<code>Bump react and react-dom to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/211e6e6915150530da36121243a92ff0f25ebde0)
+- [ ] [<code>Bump react-router and react-router-dom to 6.23.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ce1d806818b8f647cfab0c4c10161ed8ae59186d)
+- [ ] [<code>Bump react-admin to 4.16.17</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/91af5068c058dfac9c9ec015ca8611538fb3bfb6)
+- [ ] [<code>Dedupe yarn.lock</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9da953e78ae574f5b632c10748d824f9a00f2319)
+- [ ] [<code>Fix interface SynapseTranslationMessages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5b50838fb7ff5280e7ef72ef3ffdf0cd2be21dd4)
+- [ ] [<code>Bump eslint-plugin-unused-imports from 3.1.0 to 3.2.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/107d60704b2061a366a53bf3aae984279ed3d5c7)
+- [ ] [<code>Bump @typescript-eslint/parser from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5c492a2ecfed7487c135bda14ce2d71855590ac6)
+- [ ] [<code>Bump typescript-eslint from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9f5360779685e31d2ecff7211d89f94347f5b6b)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
