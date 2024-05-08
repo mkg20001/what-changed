@@ -4173,6 +4173,7 @@
 - [ ] [<code>Fix size 0 handling in avifParse() (#2152)</code>](https://github.com/AOMediaCodec/libavif/commit/d7154257cd599d346231d573ca82065f5f0874c7)
 - [ ] [<code>Add iloc extents test (#2095)</code>](https://github.com/AOMediaCodec/libavif/commit/c4d97673d0545d1912859560ed84507ed5884585)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>read.c: Early return on unsupported iref version</code>](https://github.com/AOMediaCodec/libavif/commit/98dd0e8e7fa423c885aad9e5896e27884c834184)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
