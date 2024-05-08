@@ -2560,6 +2560,10 @@
 - [ ] [<code>dbeaver/pro#2718 Fix cursor position and not showing proposals (#29315)</code>](https://github.com/dbeaver/dbeaver/commit/94c254bb57c0c1bb69389526a295dc65ea0f493f)
 - [ ] [<code>UI addition</code>](https://github.com/dbeaver/dbeaver/commit/cd65c00ff187984df918e90d11d8946989b909a6)
 - [ ] [<code>Help prefix fix</code>](https://github.com/dbeaver/dbeaver/commit/601a474e207801fe4662121675eaa6f9365fc1d2)
+- [ ] [<code>#29318 Fix NPE on schema selector creation due to null project (#29324)</code>](https://github.com/dbeaver/dbeaver/commit/802fd30bff0d029c6f91d8de8bf8c8673debf733)
+- [ ] [<code>dbeaver/pro#2813 Fix IndexOutOfBounds in model recognizer while analysing cte subqueries (#29929)</code>](https://github.com/dbeaver/dbeaver/commit/1cfbeeaafb1c4aa6f90b1d05a966d8acd9ed2f29)
+- [ ] [<code>dbeaver/dbeaver#12537 Oracle M view refresh fix (#29936)</code>](https://github.com/dbeaver/dbeaver/commit/50dd40757a340cf9b9079e722c7c0db22df0974b)
+- [ ] [<code>dbeaver/pro#1809 ERD Neo4j database support (#29932)</code>](https://github.com/dbeaver/dbeaver/commit/04c1b435088c7291de4d6bd5d3004ff64e8c5e56)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2855,6 +2859,7 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2873,6 +2878,7 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3204,6 +3210,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b8ae043ffab80db451502fe0554ffaa668715514)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network_zones: Fix listing of zones within a project</code>](https://github.com/lxc/incus/commit/5e65146d517d20d1c036acf3eb1e70ff7656a71d)
+- [ ] [<code>incusd/instance/lxc: Fix handling of migration.stateful</code>](https://github.com/lxc/incus/commit/f68e6bd9e6294315a686eaa59c386e704bfc87a6)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/9fad0cf44c79f4b78dd0b6c118b3dd9142d89acd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3525,6 +3534,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b8ae043ffab80db451502fe0554ffaa668715514)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network_zones: Fix listing of zones within a project</code>](https://github.com/lxc/incus/commit/5e65146d517d20d1c036acf3eb1e70ff7656a71d)
+- [ ] [<code>incusd/instance/lxc: Fix handling of migration.stateful</code>](https://github.com/lxc/incus/commit/f68e6bd9e6294315a686eaa59c386e704bfc87a6)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/9fad0cf44c79f4b78dd0b6c118b3dd9142d89acd)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4174,6 +4186,8 @@
 - [ ] [<code>Add iloc extents test (#2095)</code>](https://github.com/AOMediaCodec/libavif/commit/c4d97673d0545d1912859560ed84507ed5884585)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>read.c: Early return on unsupported iref version</code>](https://github.com/AOMediaCodec/libavif/commit/98dd0e8e7fa423c885aad9e5896e27884c834184)
+- [ ] [<code>read.c: Fix hdlr duplicate detection</code>](https://github.com/AOMediaCodec/libavif/commit/77a831f49b6062194bd5c40cbdb2a642bc39d988)
+- [ ] [<code>read.c: Validate trak contains exactly one tkhd</code>](https://github.com/AOMediaCodec/libavif/commit/5d97130f0820dbc97738f5480e2dd00865a35744)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -4240,6 +4254,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>chore(deps): update dependency vanilla-framework to v4.11.0</code>](https://github.com/canonical/lxd-ui/commit/b0dc87e02c52836330f49a9627b23eb236adfb67)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(image) case insensitive search in image list on instance launch</code>](https://github.com/canonical/lxd-ui/commit/fa2bd86cc4dd32beb6819e47eceaafd29e179c4c)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -5061,6 +5076,8 @@
 - [ ] [<code>socket: make socket.send() accept non-string data</code>](https://github.com/jow-/ucode/commit/953f36c96e8aad6627132d2ecb29e865162bfce5)
 - [ ] [<code>ubus: fix uc_ubus_have_uloop for eloop+uloop combination</code>](https://github.com/jow-/ucode/commit/f211d5ac666fbde1fb2bbf3de7065344f5108bad)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>socket: add AF_PACKET socket type support</code>](https://github.com/jow-/ucode/commit/0662de64bd1f61c2bba8792438fee8da0c706889)
+- [ ] [<code>socket: remove leftover debug code</code>](https://github.com/jow-/ucode/commit/b594ff8a2841975c36b69bf5eba4abbc2fffcc35)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
