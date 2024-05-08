@@ -4238,6 +4238,8 @@
 - [ ] [<code>fix(vm) ensure scrolling a vm graphic console is propagated to the parent element, so the console content is scrolling on screens with low height. fixes #700</code>](https://github.com/canonical/lxd-ui/commit/21c466c7026cd4f0f24a9762cce4e6d69ffae43d)
 - [ ] [<code>feature: lxd permissions management</code>](https://github.com/canonical/lxd-ui/commit/1c39400179e2b25806e360c848625bcf61e690b8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.11.0</code>](https://github.com/canonical/lxd-ui/commit/b0dc87e02c52836330f49a9627b23eb236adfb67)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4731,6 +4733,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>docs: add a new section about the generator</code>](https://github.com/canonical/netplan/commit/11fe6f2747f8dd275f7d6dc5eb37af32bcd9edce)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CI: Fix DebCI check, using newer 'meson' from unstable</code>](https://github.com/canonical/netplan/commit/62b527be03a555b33805abd84277e6214ac2863c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
