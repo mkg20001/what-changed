@@ -5078,6 +5078,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>socket: add AF_PACKET socket type support</code>](https://github.com/jow-/ucode/commit/0662de64bd1f61c2bba8792438fee8da0c706889)
 - [ ] [<code>socket: remove leftover debug code</code>](https://github.com/jow-/ucode/commit/b594ff8a2841975c36b69bf5eba4abbc2fffcc35)
+- [ ] [<code>socket: fix addrinfo() with omitted service argument</code>](https://github.com/jow-/ucode/commit/0d823e702bfe5f2bb5be694030a98afedf34aa6b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
