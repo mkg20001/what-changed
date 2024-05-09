@@ -3216,6 +3216,8 @@
 - [ ] [<code>incusd/instance/lxc: Fix handling of migration.stateful</code>](https://github.com/lxc/incus/commit/f68e6bd9e6294315a686eaa59c386e704bfc87a6)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/9fad0cf44c79f4b78dd0b6c118b3dd9142d89acd)
 - [ ] [<code>incusd/network/ovs: Fix bad VLANMode value</code>](https://github.com/lxc/incus/commit/62e6cc691a6c9a2b7ecfe8dce75ba6084edd4c29)
+- [ ] [<code>fix: close resources</code>](https://github.com/lxc/incus/commit/0ffc6c151496689ff97bedb28da4e99b416e8497)
+- [ ] [<code>incusd/instance: Fix building on 32bit architectures</code>](https://github.com/lxc/incus/commit/9c733bccf04e717b6497534d616e83f5e947304a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3541,6 +3543,8 @@
 - [ ] [<code>incusd/instance/lxc: Fix handling of migration.stateful</code>](https://github.com/lxc/incus/commit/f68e6bd9e6294315a686eaa59c386e704bfc87a6)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/9fad0cf44c79f4b78dd0b6c118b3dd9142d89acd)
 - [ ] [<code>incusd/network/ovs: Fix bad VLANMode value</code>](https://github.com/lxc/incus/commit/62e6cc691a6c9a2b7ecfe8dce75ba6084edd4c29)
+- [ ] [<code>fix: close resources</code>](https://github.com/lxc/incus/commit/0ffc6c151496689ff97bedb28da4e99b416e8497)
+- [ ] [<code>incusd/instance: Fix building on 32bit architectures</code>](https://github.com/lxc/incus/commit/9c733bccf04e717b6497534d616e83f5e947304a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4260,6 +4264,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix(image) case insensitive search in image list on instance launch</code>](https://github.com/canonical/lxd-ui/commit/fa2bd86cc4dd32beb6819e47eceaafd29e179c4c)
 - [ ] [<code>chore: add tests for permissions</code>](https://github.com/canonical/lxd-ui/commit/6e2b8c9b1153e22ccb2afc593cc8d580d06a48bc)
+- [ ] [<code>chore(readme) update steps to setup ui</code>](https://github.com/canonical/lxd-ui/commit/8102f9deed67286a929c6d52298949fef0cf76e2)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
