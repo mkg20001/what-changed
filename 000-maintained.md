@@ -2860,6 +2860,7 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
+- [ ] [<code>refactor: Precache theme and directchatmatrixid to improve performance in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/6a220ffb4bfc06b24c4851d5435e88b445bae0dd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2879,6 +2880,7 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
+- [ ] [<code>refactor: Precache theme and directchatmatrixid to improve performance in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/6a220ffb4bfc06b24c4851d5435e88b445bae0dd)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
@@ -3213,6 +3215,7 @@
 - [ ] [<code>incusd/network_zones: Fix listing of zones within a project</code>](https://github.com/lxc/incus/commit/5e65146d517d20d1c036acf3eb1e70ff7656a71d)
 - [ ] [<code>incusd/instance/lxc: Fix handling of migration.stateful</code>](https://github.com/lxc/incus/commit/f68e6bd9e6294315a686eaa59c386e704bfc87a6)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/9fad0cf44c79f4b78dd0b6c118b3dd9142d89acd)
+- [ ] [<code>incusd/network/ovs: Fix bad VLANMode value</code>](https://github.com/lxc/incus/commit/62e6cc691a6c9a2b7ecfe8dce75ba6084edd4c29)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3537,6 +3540,7 @@
 - [ ] [<code>incusd/network_zones: Fix listing of zones within a project</code>](https://github.com/lxc/incus/commit/5e65146d517d20d1c036acf3eb1e70ff7656a71d)
 - [ ] [<code>incusd/instance/lxc: Fix handling of migration.stateful</code>](https://github.com/lxc/incus/commit/f68e6bd9e6294315a686eaa59c386e704bfc87a6)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/9fad0cf44c79f4b78dd0b6c118b3dd9142d89acd)
+- [ ] [<code>incusd/network/ovs: Fix bad VLANMode value</code>](https://github.com/lxc/incus/commit/62e6cc691a6c9a2b7ecfe8dce75ba6084edd4c29)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4255,6 +4259,7 @@
 - [ ] [<code>chore(deps): update dependency vanilla-framework to v4.11.0</code>](https://github.com/canonical/lxd-ui/commit/b0dc87e02c52836330f49a9627b23eb236adfb67)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix(image) case insensitive search in image list on instance launch</code>](https://github.com/canonical/lxd-ui/commit/fa2bd86cc4dd32beb6819e47eceaafd29e179c4c)
+- [ ] [<code>chore: add tests for permissions</code>](https://github.com/canonical/lxd-ui/commit/6e2b8c9b1153e22ccb2afc593cc8d580d06a48bc)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
