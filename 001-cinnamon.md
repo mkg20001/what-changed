@@ -81,13 +81,13 @@
 - [ ] [<code>cs_themes: Blacklist adwaita-dark</code>](https://github.com/linuxmint/cinnamon/commit/b6661f62a42958b80425c63b34ad789bfa7eb3f2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>user applet: Allow to display the profile picture on the panel (#12149)</code>](https://github.com/linuxmint/cinnamon/commit/f07ec245f6c7759ea381ecfa4da2791a74a1d6f5)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>userWidget.js: Fix AccountsService icon changes.</code>](https://github.com/linuxmint/cinnamon/commit/2ad1af435eb0d85530da02afb5e9318b8b80468f)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>user@cinnamon.org: Use UserWidget.Avatar for the panel user icon.</code>](https://github.com/linuxmint/cinnamon/commit/a240864496b1c65fa7061ce313615d446d906a89)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_user.py: Use XApp.IconChooserDialog for "Browse for more...".</code>](https://github.com/linuxmint/cinnamon/commit/f1f02b6a3b02601bd9b1723d15e27da93b6002fd)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
