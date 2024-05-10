@@ -2861,6 +2861,10 @@
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
 - [ ] [<code>refactor: Precache theme and directchatmatrixid to improve performance in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/6a220ffb4bfc06b24c4851d5435e88b445bae0dd)
+- [ ] [<code>chore: Follow up audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/d4fb0ce1a721651d0f3059fa4848a48582756237)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/ce8513d2b50ea7ec2657619a301813a0196d29be)
+- [ ] [<code>chore: Revert audioplayer changes</code>](https://github.com/krille-chan/fluffychat/commit/4dee111c73981cf2afdb21e0f790d7f00737d6bb)
+- [ ] [<code>chore: Follow up audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/53c26019452bb1190fbfddafff7937e783e39916)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2881,6 +2885,10 @@
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
 - [ ] [<code>refactor: Precache theme and directchatmatrixid to improve performance in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/6a220ffb4bfc06b24c4851d5435e88b445bae0dd)
+- [ ] [<code>chore: Follow up audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/d4fb0ce1a721651d0f3059fa4848a48582756237)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/ce8513d2b50ea7ec2657619a301813a0196d29be)
+- [ ] [<code>chore: Revert audioplayer changes</code>](https://github.com/krille-chan/fluffychat/commit/4dee111c73981cf2afdb21e0f790d7f00737d6bb)
+- [ ] [<code>chore: Follow up audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/53c26019452bb1190fbfddafff7937e783e39916)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
