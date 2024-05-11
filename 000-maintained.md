@@ -3013,6 +3013,10 @@
 - [ ] [<code>incusd/network/ovs: Fix bad VLANMode value</code>](https://github.com/lxc/incus/commit/62e6cc691a6c9a2b7ecfe8dce75ba6084edd4c29)
 - [ ] [<code>fix: close resources</code>](https://github.com/lxc/incus/commit/0ffc6c151496689ff97bedb28da4e99b416e8497)
 - [ ] [<code>incusd/instance: Fix building on 32bit architectures</code>](https://github.com/lxc/incus/commit/9c733bccf04e717b6497534d616e83f5e947304a)
+- [ ] [<code>incus/network_zone: Add example for network zone record create</code>](https://github.com/lxc/incus/commit/58dc074fbad8d7049f4a52c7c3c0685fd72f856f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation template</code>](https://github.com/lxc/incus/commit/289b865a2f283134ce9cf90ab6b53449add4c933)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3340,6 +3344,10 @@
 - [ ] [<code>incusd/network/ovs: Fix bad VLANMode value</code>](https://github.com/lxc/incus/commit/62e6cc691a6c9a2b7ecfe8dce75ba6084edd4c29)
 - [ ] [<code>fix: close resources</code>](https://github.com/lxc/incus/commit/0ffc6c151496689ff97bedb28da4e99b416e8497)
 - [ ] [<code>incusd/instance: Fix building on 32bit architectures</code>](https://github.com/lxc/incus/commit/9c733bccf04e717b6497534d616e83f5e947304a)
+- [ ] [<code>incus/network_zone: Add example for network zone record create</code>](https://github.com/lxc/incus/commit/58dc074fbad8d7049f4a52c7c3c0685fd72f856f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation template</code>](https://github.com/lxc/incus/commit/289b865a2f283134ce9cf90ab6b53449add4c933)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4680,6 +4688,8 @@
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
 
+- [ ] [<code>build(appimage): fix outdated libadwaita</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a40ededfeea635c9baee2190eb0da14071e851fb)
+- [ ] [<code>ci(build): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9021e1912841a1ae337b5c066f0d7871cddef515)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
