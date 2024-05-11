@@ -2571,6 +2571,7 @@
 - [ ] [<code>dbeaver/pro#2800 Connection handlers refactoring (#30088)</code>](https://github.com/dbeaver/dbeaver/commit/553727e3c6b8fdf5d42d8111a228bafbe6c19fa6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>dbeaver/pro#2720 Improve link preference (dynamic parameters binding) (#30200)</code>](https://github.com/dbeaver/dbeaver/commit/226cd4452ab22dfec55fa1ac012c88ca19653f36)
+- [ ] [<code>dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check (#29333)</code>](https://github.com/dbeaver/dbeaver/commit/1798e60df3e5f43ede412877e34c55e026755a77)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2639,6 +2640,8 @@
 - [ ] [<code>sphinx: Avoid myst-parser >=3.0.0</code>](https://github.com/lxc/distrobuilder/commit/f5a91e971d74424f198290833bce0f147c58f05c)
 - [ ] [<code>sources/funtoo: Use symlinks</code>](https://github.com/lxc/distrobuilder/commit/9a10fde741193462179c793929548b8ef572f7bb)
 - [ ] [<code>archlinux: Move to zst</code>](https://github.com/lxc/distrobuilder/commit/b8bfb111643727dbdbc8ca3a5638bca17272238c)
+- [ ] [<code>Repack windows bios boot support</code>](https://github.com/lxc/distrobuilder/commit/f6722e3de6b25deb494b6bf62eaf91c61cb755aa)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -2866,6 +2869,8 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
+- [ ] [<code>fastlane: improve full_description.txt</code>](https://github.com/krille-chan/fluffychat/commit/5a3bc23a72f88de89759344f3bbc8f9a7d5c2080)
+- [ ] [<code>fastlane: i18n ru</code>](https://github.com/krille-chan/fluffychat/commit/f0276302c719197c18a0e3967392311ee0af3663)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
 - [ ] [<code>refactor: Precache theme and directchatmatrixid to improve performance in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/6a220ffb4bfc06b24c4851d5435e88b445bae0dd)
 - [ ] [<code>chore: Follow up audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/d4fb0ce1a721651d0f3059fa4848a48582756237)
@@ -2897,6 +2902,8 @@
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/b20b599ce4c3a049579801f9ec199bbe4e8ae8bd)
 - [ ] [<code>chore: Follow up search</code>](https://github.com/krille-chan/fluffychat/commit/18054aaa6644a557ff4f154ae1e23c4cbfa3ac5e)
 - [ ] [<code>design: Improve design of Voice Messages and add 1.25 as speed</code>](https://github.com/krille-chan/fluffychat/commit/4291396f987158612eff69ade384257f0a9f5e93)
+- [ ] [<code>fastlane: improve full_description.txt</code>](https://github.com/krille-chan/fluffychat/commit/5a3bc23a72f88de89759344f3bbc8f9a7d5c2080)
+- [ ] [<code>fastlane: i18n ru</code>](https://github.com/krille-chan/fluffychat/commit/f0276302c719197c18a0e3967392311ee0af3663)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/fb54548e5c53a7fcbcbee0a382f1d6b6d810f161)
 - [ ] [<code>refactor: Precache theme and directchatmatrixid to improve performance in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/6a220ffb4bfc06b24c4851d5435e88b445bae0dd)
 - [ ] [<code>chore: Follow up audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/d4fb0ce1a721651d0f3059fa4848a48582756237)
