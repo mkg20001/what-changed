@@ -4690,6 +4690,8 @@
 
 - [ ] [<code>build(appimage): fix outdated libadwaita</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a40ededfeea635c9baee2190eb0da14071e851fb)
 - [ ] [<code>ci(build): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9021e1912841a1ae337b5c066f0d7871cddef515)
+- [ ] [<code>ci(build): install gpg (required for building appimage)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b7ed7f7a545f9a395f0b18a1f14e2e803f4c29a4)
+- [ ] [<code>ci(test): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/05fc9ce2f78088b30da56903b45efc6dcc890d00)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
