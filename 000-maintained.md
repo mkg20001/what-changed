@@ -2573,6 +2573,13 @@
 - [ ] [<code>dbeaver/pro#2720 Improve link preference (dynamic parameters binding) (#30200)</code>](https://github.com/dbeaver/dbeaver/commit/226cd4452ab22dfec55fa1ac012c88ca19653f36)
 - [ ] [<code>dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check (#29333)</code>](https://github.com/dbeaver/dbeaver/commit/1798e60df3e5f43ede412877e34c55e026755a77)
 - [ ] [<code>dbeaver/pro#2719 Turn off `Smart` mode for `Blank line is statement delimiter` setting (#30201)</code>](https://github.com/dbeaver/dbeaver/commit/a695a07b62b29c7a23de50b11b3abd0fe33d7ed2)
+- [ ] [<code>dbeaver/pro#2829 Copy/paste shortcuts fix (#32346)</code>](https://github.com/dbeaver/dbeaver/commit/9127baab98fbc1967dededb8ee19b9c76f4567b1)
+- [ ] [<code>dbeaver/pro#2795 Editors for objects under a path with special symbols don't get restored (#29993)</code>](https://github.com/dbeaver/dbeaver/commit/1457abed490c5c0b0f6eb96ae930f363963d5cf9)
+- [ ] [<code>dbeaver/dbeaver#28259 Portable DBeaver product distribution (#29935)</code>](https://github.com/dbeaver/dbeaver/commit/177dc0eb1990180b3df149cc92ee588009c6b5be)
+- [ ] [<code>dbeaver/pro#9107 SSM tunnels and CLI utils (#30000)</code>](https://github.com/dbeaver/dbeaver/commit/c5dd39e9da5181615f5369c1fc428d9c9b8acde9)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Closes #23656 (#30833)</code>](https://github.com/dbeaver/dbeaver/commit/cb9d5e853c5b6c36e2df6faa6ca83d23159ee55a)
+- [ ] [<code>dbeaver/dbeaver#32356 fix licensing from proprietary to apache 2 (#32358)</code>](https://github.com/dbeaver/dbeaver/commit/87e584274903e905c36eb07ec144d1a75198aace)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2643,6 +2650,7 @@
 - [ ] [<code>archlinux: Move to zst</code>](https://github.com/lxc/distrobuilder/commit/b8bfb111643727dbdbc8ca3a5638bca17272238c)
 - [ ] [<code>Repack windows bios boot support</code>](https://github.com/lxc/distrobuilder/commit/f6722e3de6b25deb494b6bf62eaf91c61cb755aa)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Refactor copy driver files</code>](https://github.com/lxc/distrobuilder/commit/14721a319c7b04b89335624a039cc08458fc061f)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -3034,6 +3042,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation template</code>](https://github.com/lxc/incus/commit/289b865a2f283134ce9cf90ab6b53449add4c933)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage_volume: Add yaml support for create</code>](https://github.com/lxc/incus/commit/d42cd0136dca95c1e9cb78d5a0438e215efe3ece)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/356b2290dc0aab0a92bd9d7d63a2cc1d2fd9f27a)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3364,6 +3376,10 @@
 - [ ] [<code>incus/network_zone: Add example for network zone record create</code>](https://github.com/lxc/incus/commit/58dc074fbad8d7049f4a52c7c3c0685fd72f856f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation template</code>](https://github.com/lxc/incus/commit/289b865a2f283134ce9cf90ab6b53449add4c933)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage_volume: Add yaml support for create</code>](https://github.com/lxc/incus/commit/d42cd0136dca95c1e9cb78d5a0438e215efe3ece)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/356b2290dc0aab0a92bd9d7d63a2cc1d2fd9f27a)
   - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
@@ -4017,6 +4033,7 @@
 - [ ] [<code>read.c: Fix hdlr duplicate detection</code>](https://github.com/AOMediaCodec/libavif/commit/77a831f49b6062194bd5c40cbdb2a642bc39d988)
 - [ ] [<code>read.c: Validate trak contains exactly one tkhd</code>](https://github.com/AOMediaCodec/libavif/commit/5d97130f0820dbc97738f5480e2dd00865a35744)
 - [ ] [<code>Add tests for Chromium bugs 334281983, 334682511 (#2159)</code>](https://github.com/AOMediaCodec/libavif/commit/67230c5cd49c894ff38e82be0a849ac727b678ae)
+- [ ] [<code>Do not test incr line count on fuzzed grids (#2160)</code>](https://github.com/AOMediaCodec/libavif/commit/8d1c71906320c9a161d661f84a7028bd2348cc6d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
