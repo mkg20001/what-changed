@@ -2572,6 +2572,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>dbeaver/pro#2720 Improve link preference (dynamic parameters binding) (#30200)</code>](https://github.com/dbeaver/dbeaver/commit/226cd4452ab22dfec55fa1ac012c88ca19653f36)
 - [ ] [<code>dbeaver/pro#2752 Add a new setting to Disable (grey out) the Automatic updates check (#29333)</code>](https://github.com/dbeaver/dbeaver/commit/1798e60df3e5f43ede412877e34c55e026755a77)
+- [ ] [<code>dbeaver/pro#2719 Turn off `Smart` mode for `Blank line is statement delimiter` setting (#30201)</code>](https://github.com/dbeaver/dbeaver/commit/a695a07b62b29c7a23de50b11b3abd0fe33d7ed2)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2671,6 +2672,9 @@
 - [ ] [<code>Update Rust to v1.78.0</code>](https://github.com/stepchowfun/docuum/commit/5646d3dc95ef0a6bc32318e04c3f96abe92a1d3d)
 - [ ] [<code>Update the Ubuntu version in the toastfile to 22.04 LTS</code>](https://github.com/stepchowfun/docuum/commit/27312e8307cadcb0cb81901ea80301491719f70f)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add a Tagref reference to the code of conduct file</code>](https://github.com/stepchowfun/docuum/commit/b61ac93ecf13af8ea0f9a7c046e381ccf72ea7e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update the link to the Rustup self-updating issue on Windows</code>](https://github.com/stepchowfun/docuum/commit/cb75cba514bd2cb39e96e1ae5c23fffdc9096917)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -4012,6 +4016,7 @@
 - [ ] [<code>read.c: Early return on unsupported iref version</code>](https://github.com/AOMediaCodec/libavif/commit/98dd0e8e7fa423c885aad9e5896e27884c834184)
 - [ ] [<code>read.c: Fix hdlr duplicate detection</code>](https://github.com/AOMediaCodec/libavif/commit/77a831f49b6062194bd5c40cbdb2a642bc39d988)
 - [ ] [<code>read.c: Validate trak contains exactly one tkhd</code>](https://github.com/AOMediaCodec/libavif/commit/5d97130f0820dbc97738f5480e2dd00865a35744)
+- [ ] [<code>Add tests for Chromium bugs 334281983, 334682511 (#2159)</code>](https://github.com/AOMediaCodec/libavif/commit/67230c5cd49c894ff38e82be0a849ac727b678ae)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -4022,6 +4027,10 @@
 - [ ] [<code>github: test the lxc multicall binary builds too</code>](https://github.com/lxc/lxc/commit/cca0f876728cd951ac59a3be6f53bb591dcb691b)
 - [ ] [<code>lxc/network: handle non-existing sysctl <ifname>/disable_ipv6</code>](https://github.com/lxc/lxc/commit/dd663dcb39447653222f20a5c6c5f910d0cba107)
 - [ ] [<code>network: netdev_configure_server_veth: reduce scope of disable_ipv6_fd/path vars</code>](https://github.com/lxc/lxc/commit/ee8063bcfb83c6d9af3b0971b2421130b21a5a90)
+- [ ] [<code>Update lxc-attach.sgml.in</code>](https://github.com/lxc/lxc/commit/52bf34d8abf070884bc2119dfc5486c840e53b13)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update lxc-execute.sgml.in</code>](https://github.com/lxc/lxc/commit/a7aa2974d2b994f0182f9f0db2ab24bc11749417)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -4575,6 +4584,7 @@
 - [ ] [<code>docs: add a new section about the generator</code>](https://github.com/canonical/netplan/commit/11fe6f2747f8dd275f7d6dc5eb37af32bcd9edce)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>CI: Fix DebCI check, using newer 'meson' from unstable</code>](https://github.com/canonical/netplan/commit/62b527be03a555b33805abd84277e6214ac2863c)
+- [ ] [<code>Revert "CI: Fix DebCI check, using newer 'meson' from unstable"</code>](https://github.com/canonical/netplan/commit/5902d009f287b313046a2436ab932c012e35ee5b)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
