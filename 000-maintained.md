@@ -2580,6 +2580,8 @@
   - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Closes #23656 (#30833)</code>](https://github.com/dbeaver/dbeaver/commit/cb9d5e853c5b6c36e2df6faa6ca83d23159ee55a)
 - [ ] [<code>dbeaver/dbeaver#32356 fix licensing from proprietary to apache 2 (#32358)</code>](https://github.com/dbeaver/dbeaver/commit/87e584274903e905c36eb07ec144d1a75198aace)
+- [ ] [<code>dbeaver/pro#2824 Custom scope performance fix (#29994)</code>](https://github.com/dbeaver/dbeaver/commit/7c9b390975942200d09dda0952c910eacf379b59)
+- [ ] [<code>dbeaver/pro#2797 Allow creating INTERVAL partitioning (#32344)</code>](https://github.com/dbeaver/dbeaver/commit/e89955ddcf02aea873c1f9edf38c1c543fd915a3)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -3046,6 +3048,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/356b2290dc0aab0a92bd9d7d63a2cc1d2fd9f27a)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -3381,6 +3384,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/356b2290dc0aab0a92bd9d7d63a2cc1d2fd9f27a)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -4870,6 +4874,8 @@
 - [ ] [<code>socket: add AF_PACKET socket type support</code>](https://github.com/jow-/ucode/commit/0662de64bd1f61c2bba8792438fee8da0c706889)
 - [ ] [<code>socket: remove leftover debug code</code>](https://github.com/jow-/ucode/commit/b594ff8a2841975c36b69bf5eba4abbc2fffcc35)
 - [ ] [<code>socket: fix addrinfo() with omitted service argument</code>](https://github.com/jow-/ucode/commit/0d823e702bfe5f2bb5be694030a98afedf34aa6b)
+- [ ] [<code>socket: fix potential memory leak in connect()</code>](https://github.com/jow-/ucode/commit/8cf816d615fd063ba1463f64b6428e59a91e9651)
+- [ ] [<code>socket: optimize poll() argument handling</code>](https://github.com/jow-/ucode/commit/8f5f231d66cd20f22c7a1089ea848b7f1e2b61f1)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
