@@ -85,10 +85,8 @@
 - [ ] [<code>uqmi: print radio interfaces in serving system command</code>](https://git.openwrt.org/project/uqmi.git/commit/e7207bec95f02f2f7a98254d642186a082af838d)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [263b9a97cf7e1e2467319c23832b705fc01190b5 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/263b9a97cf7e1e2467319c23832b705fc01190b5...HEAD)
+#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
 
-- [ ] [<code>mbedtls: fix build on non-linux systems</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/7621339d7694abef5da5e5353ac440f2d39dcecb)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>ustream-mbedtls: add missing psa_crypto_init call</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/268050964b088a6000cca750e92dc6b5f54bbe7f)
 - [ ] [<code>add callbacks for debug messages</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/956fba242ac0a4bcfe3db103d4d1f41545c924fb)
 - [ ] [<code>mbedtls: add TLS 1.3 ciphers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/9fdf3fb87af55bd295bccd109a36b4b936033126)
