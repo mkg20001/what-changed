@@ -2582,6 +2582,13 @@
 - [ ] [<code>dbeaver/dbeaver#32356 fix licensing from proprietary to apache 2 (#32358)</code>](https://github.com/dbeaver/dbeaver/commit/87e584274903e905c36eb07ec144d1a75198aace)
 - [ ] [<code>dbeaver/pro#2824 Custom scope performance fix (#29994)</code>](https://github.com/dbeaver/dbeaver/commit/7c9b390975942200d09dda0952c910eacf379b59)
 - [ ] [<code>dbeaver/pro#2797 Allow creating INTERVAL partitioning (#32344)</code>](https://github.com/dbeaver/dbeaver/commit/e89955ddcf02aea873c1f9edf38c1c543fd915a3)
+- [ ] [<code>Cleanup QM session after close</code>](https://github.com/dbeaver/dbeaver/commit/8d7e67861cf7adcf90b57c70651208867ff7dc8f)
+- [ ] [<code>dbeaver/dbeaver#23049 Add support map for geometry Duckdb (#32351)</code>](https://github.com/dbeaver/dbeaver/commit/ae6e24a522a8693b9be0fbfaa14a515bdc5da94f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>24.0.5 version bump</code>](https://github.com/dbeaver/dbeaver/commit/9e8cd0652cd9263f3a5a6a1fcf1c18c033dfde89)
+- [ ] [<code>CB-4889. Fixed deleted newly firestore column (#30356)</code>](https://github.com/dbeaver/dbeaver/commit/887249d7fc779362cbb2d72a560185455b5fae5f)
+- [ ] [<code>CB-5127 web application instance id fix (#30310)</code>](https://github.com/dbeaver/dbeaver/commit/94ace59fef4485ec168a59ec37fe3cc19ba4527c)
+- [ ] [<code>Cb 4460 shared query history for the team (#29997)</code>](https://github.com/dbeaver/dbeaver/commit/d69b47659dfa7f974c6d9ec312b158fa141c075b)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2901,6 +2908,7 @@
 - [ ] [<code>chore: Disable db cache test</code>](https://github.com/krille-chan/fluffychat/commit/286acbc11a73a548eb62207b271743a4a745ef83)
 - [ ] [<code>Revert "fastlane: i18n ru"</code>](https://github.com/krille-chan/fluffychat/commit/3285c644a85d97ac9d39958211c7461f784f393b)
 - [ ] [<code>Revert "chore: Disable db cache test"</code>](https://github.com/krille-chan/fluffychat/commit/81b254f82cc7a5d23a8884c881ec4d9d3a680cca)
+- [ ] [<code>build: Update matrix dart sdk to 0.29.2</code>](https://github.com/krille-chan/fluffychat/commit/c447e15949c01bd1e201e5b258cd8115b20a8e52)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2937,6 +2945,7 @@
 - [ ] [<code>chore: Disable db cache test</code>](https://github.com/krille-chan/fluffychat/commit/286acbc11a73a548eb62207b271743a4a745ef83)
 - [ ] [<code>Revert "fastlane: i18n ru"</code>](https://github.com/krille-chan/fluffychat/commit/3285c644a85d97ac9d39958211c7461f784f393b)
 - [ ] [<code>Revert "chore: Disable db cache test"</code>](https://github.com/krille-chan/fluffychat/commit/81b254f82cc7a5d23a8884c881ec4d9d3a680cca)
+- [ ] [<code>build: Update matrix dart sdk to 0.29.2</code>](https://github.com/krille-chan/fluffychat/commit/c447e15949c01bd1e201e5b258cd8115b20a8e52)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
