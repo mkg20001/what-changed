@@ -2591,6 +2591,7 @@
 - [ ] [<code>Cb 4460 shared query history for the team (#29997)</code>](https://github.com/dbeaver/dbeaver/commit/d69b47659dfa7f974c6d9ec312b158fa141c075b)
 - [ ] [<code>dbeaver/pro#2748 Completion instructions fix (#29998)</code>](https://github.com/dbeaver/dbeaver/commit/e97d1de13fe15fc85e7daa144cfb7e67f1d16ded)
 - [ ] [<code>dbeaver/dbeaver#32924 Fix DuckDB mapping (#32925)</code>](https://github.com/dbeaver/dbeaver/commit/ed5d141e4ebe24eab7d9dfb5f125252b48a41c8d)
+- [ ] [<code>dbeaver/dbeaver#32927 Fix duckdb data in data grid (#32985)</code>](https://github.com/dbeaver/dbeaver/commit/739ddca64808b9bf3e9557583145c5329df7f0da)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -4751,6 +4752,13 @@
 - [ ] [<code>ci(build): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9021e1912841a1ae337b5c066f0d7871cddef515)
 - [ ] [<code>ci(build): install gpg (required for building appimage)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b7ed7f7a545f9a395f0b18a1f14e2e803f4c29a4)
 - [ ] [<code>ci(test): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/05fc9ce2f78088b30da56903b45efc6dcc890d00)
+- [ ] [<code>build: replace cargo-make with Just</code>](https://github.com/Oppzippy/OpenSCQ30/commit/027ae42e9c334a0294682a6a1c9ba4f3d2203177)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build: fix shellcheck errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0af70c07fb5aa845944634744fcfbfef590b5942)
+- [ ] [<code>ci: run shellcheck</code>](https://github.com/Oppzippy/OpenSCQ30/commit/87aa9d5216e5a295a3661b933482c672f0edef56)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>build(gui): remove build-locale output dir arg</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4193cc0723a44868b367a7dadd290c4dc218cfea)
+- [ ] [<code>build(gui): fix locale installation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2015ff3da4a51d9ec6d1adb02b1b6aa132b58b0d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
