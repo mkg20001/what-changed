@@ -2589,6 +2589,8 @@
 - [ ] [<code>CB-4889. Fixed deleted newly firestore column (#30356)</code>](https://github.com/dbeaver/dbeaver/commit/887249d7fc779362cbb2d72a560185455b5fae5f)
 - [ ] [<code>CB-5127 web application instance id fix (#30310)</code>](https://github.com/dbeaver/dbeaver/commit/94ace59fef4485ec168a59ec37fe3cc19ba4527c)
 - [ ] [<code>Cb 4460 shared query history for the team (#29997)</code>](https://github.com/dbeaver/dbeaver/commit/d69b47659dfa7f974c6d9ec312b158fa141c075b)
+- [ ] [<code>dbeaver/pro#2748 Completion instructions fix (#29998)</code>](https://github.com/dbeaver/dbeaver/commit/e97d1de13fe15fc85e7daa144cfb7e67f1d16ded)
+- [ ] [<code>dbeaver/dbeaver#32924 Fix DuckDB mapping (#32925)</code>](https://github.com/dbeaver/dbeaver/commit/ed5d141e4ebe24eab7d9dfb5f125252b48a41c8d)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -2909,6 +2911,8 @@
 - [ ] [<code>Revert "fastlane: i18n ru"</code>](https://github.com/krille-chan/fluffychat/commit/3285c644a85d97ac9d39958211c7461f784f393b)
 - [ ] [<code>Revert "chore: Disable db cache test"</code>](https://github.com/krille-chan/fluffychat/commit/81b254f82cc7a5d23a8884c881ec4d9d3a680cca)
 - [ ] [<code>build: Update matrix dart sdk to 0.29.2</code>](https://github.com/krille-chan/fluffychat/commit/c447e15949c01bd1e201e5b258cd8115b20a8e52)
+- [ ] [<code>refactor: Remove unnecessary FutureBuilder</code>](https://github.com/krille-chan/fluffychat/commit/8a64bdd82dedf1a2ea885524223d1b31673f07eb)
+- [ ] [<code>chore: Set a maxsize for textfields</code>](https://github.com/krille-chan/fluffychat/commit/62fcea5b0b762e9647e2877bb462e0da38892625)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2946,6 +2950,8 @@
 - [ ] [<code>Revert "fastlane: i18n ru"</code>](https://github.com/krille-chan/fluffychat/commit/3285c644a85d97ac9d39958211c7461f784f393b)
 - [ ] [<code>Revert "chore: Disable db cache test"</code>](https://github.com/krille-chan/fluffychat/commit/81b254f82cc7a5d23a8884c881ec4d9d3a680cca)
 - [ ] [<code>build: Update matrix dart sdk to 0.29.2</code>](https://github.com/krille-chan/fluffychat/commit/c447e15949c01bd1e201e5b258cd8115b20a8e52)
+- [ ] [<code>refactor: Remove unnecessary FutureBuilder</code>](https://github.com/krille-chan/fluffychat/commit/8a64bdd82dedf1a2ea885524223d1b31673f07eb)
+- [ ] [<code>chore: Set a maxsize for textfields</code>](https://github.com/krille-chan/fluffychat/commit/62fcea5b0b762e9647e2877bb462e0da38892625)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
