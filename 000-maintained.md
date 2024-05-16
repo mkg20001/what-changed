@@ -2592,6 +2592,9 @@
 - [ ] [<code>dbeaver/pro#2748 Completion instructions fix (#29998)</code>](https://github.com/dbeaver/dbeaver/commit/e97d1de13fe15fc85e7daa144cfb7e67f1d16ded)
 - [ ] [<code>dbeaver/dbeaver#32924 Fix DuckDB mapping (#32925)</code>](https://github.com/dbeaver/dbeaver/commit/ed5d141e4ebe24eab7d9dfb5f125252b48a41c8d)
 - [ ] [<code>dbeaver/dbeaver#32927 Fix duckdb data in data grid (#32985)</code>](https://github.com/dbeaver/dbeaver/commit/739ddca64808b9bf3e9557583145c5329df7f0da)
+- [ ] [<code>#32966 Fix invalid thread access on column creation (#33005)</code>](https://github.com/dbeaver/dbeaver/commit/649fdb4d3df6323154a2fb21f72c254c444719e8)
+- [ ] [<code>dbeaver/pro#2478 Revert tree refresh on database task execution event (#33150)</code>](https://github.com/dbeaver/dbeaver/commit/2fbcf20316ada2fe3ff2f97b5079646bd3aa07df)
+- [ ] [<code>dbeaver/dbeaver-infra#3 support generation for transient dependencies (#32359)</code>](https://github.com/dbeaver/dbeaver/commit/7495dbd36388664d743d4e706d71e2fe984eb291)
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
@@ -4765,6 +4768,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>build(gui): remove build-locale output dir arg</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4193cc0723a44868b367a7dadd290c4dc218cfea)
 - [ ] [<code>build(gui): fix locale installation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2015ff3da4a51d9ec6d1adb02b1b6aa132b58b0d)
+- [ ] [<code>build(cli): fix install script unassigned variable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a13ad9299da8d68bbc8db210fa38f7a65bab8ba)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: fix relative install/uninstall paths</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ffaccbded56d05d777bc14a96f290d3ac9ecd91e)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -4787,16 +4794,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.35.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.35.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.1...HEAD)
 
-- [ ] [<code>Fixed #363 - Free QRZ callbook - Name is not populating</code>](https://github.com/foldynl/QLog.git/commit/6ca9db1a3e90adceba61781eb3f76f6c62c10cb6)
-- [ ] [<code>Fixed #365 - Incorrect CW Segment freqs</code>](https://github.com/foldynl/QLog.git/commit/a7e5acca253e79080a014c640d53508ed16fe6c5)
-- [ ] [<code>Fixed #365 - Incorrect CW Segment freqs; Added 2m MS Freq as DIGI</code>](https://github.com/foldynl/QLog.git/commit/cd59e3642d7b12428d186c107bc1313c0b8c4fb9)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/89a844516b7deafb5ca27914908e45538cc6cdb4)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/d4f60725bcba5e90ebbed039431698582407ed9d)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/dccf74921b628f1ca1522afa0fbc4e341fda9acb)
-- [ ] [<code>Preparation for release 0.35.1</code>](https://github.com/foldynl/QLog.git/commit/ee5d16de2ae4e6a49c1cd365d2dd7cf6e4fd9846)
-  - <sub>Tags: <code>v0.35.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
