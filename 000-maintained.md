@@ -4127,6 +4127,8 @@
 - [ ] [<code>fix(image) case insensitive search in image list on instance launch</code>](https://github.com/canonical/lxd-ui/commit/fa2bd86cc4dd32beb6819e47eceaafd29e179c4c)
 - [ ] [<code>chore: add tests for permissions</code>](https://github.com/canonical/lxd-ui/commit/6e2b8c9b1153e22ccb2afc593cc8d580d06a48bc)
 - [ ] [<code>chore(readme) update steps to setup ui</code>](https://github.com/canonical/lxd-ui/commit/8102f9deed67286a929c6d52298949fef0cf76e2)
+- [ ] [<code>fix demo server</code>](https://github.com/canonical/lxd-ui/commit/11fb35ea4292c887b653be17ebdd8ccc2d6841e7)
+- [ ] [<code>fix(storage) ensure landing urls for storage pool creation and deletion is correct after refactoring of storage urls. fixes #770</code>](https://github.com/canonical/lxd-ui/commit/7dcb4595d22a868e7063acb7820f923a27791f71)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4622,6 +4624,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>CI: Fix DebCI check, using newer 'meson' from unstable</code>](https://github.com/canonical/netplan/commit/62b527be03a555b33805abd84277e6214ac2863c)
 - [ ] [<code>Revert "CI: Fix DebCI check, using newer 'meson' from unstable"</code>](https://github.com/canonical/netplan/commit/5902d009f287b313046a2436ab932c012e35ee5b)
+- [ ] [<code>tests: fix diff test with iproute2 6.8</code>](https://github.com/canonical/netplan/commit/a22b35066e2576ec53643bc63c04494b29fadb25)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cli/generate: skip daemon_reload with --mapping</code>](https://github.com/canonical/netplan/commit/ea60510cf741afe73b59470af9f812a36140dae0)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
