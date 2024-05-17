@@ -2595,6 +2595,8 @@
 - [ ] [<code>#32966 Fix invalid thread access on column creation (#33005)</code>](https://github.com/dbeaver/dbeaver/commit/649fdb4d3df6323154a2fb21f72c254c444719e8)
 - [ ] [<code>dbeaver/pro#2478 Revert tree refresh on database task execution event (#33150)</code>](https://github.com/dbeaver/dbeaver/commit/2fbcf20316ada2fe3ff2f97b5079646bd3aa07df)
 - [ ] [<code>dbeaver/dbeaver-infra#3 support generation for transient dependencies (#32359)</code>](https://github.com/dbeaver/dbeaver/commit/7495dbd36388664d743d4e706d71e2fe984eb291)
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
 
