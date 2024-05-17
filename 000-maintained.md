@@ -2596,6 +2596,7 @@
 - [ ] [<code>dbeaver/pro#2478 Revert tree refresh on database task execution event (#33150)</code>](https://github.com/dbeaver/dbeaver/commit/2fbcf20316ada2fe3ff2f97b5079646bd3aa07df)
 - [ ] [<code>dbeaver/dbeaver-infra#3 support generation for transient dependencies (#32359)</code>](https://github.com/dbeaver/dbeaver/commit/7495dbd36388664d743d4e706d71e2fe984eb291)
 - [ ] [<code>dbeaver/pro#2787 Salesforce CDP rebranding and driver version update (#30244)</code>](https://github.com/dbeaver/dbeaver/commit/b50ce82c4f78ba821682d45b055447656944462a)
+- [ ] [<code>revert field renaming (#33189)</code>](https://github.com/dbeaver/dbeaver/commit/9f78e4aa443d42ddcf4a2c1d7df279950a402a2c)
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2921,6 +2922,8 @@
 - [ ] [<code>refactor: Remove unnecessary FutureBuilder</code>](https://github.com/krille-chan/fluffychat/commit/8a64bdd82dedf1a2ea885524223d1b31673f07eb)
 - [ ] [<code>chore: Set a maxsize for textfields</code>](https://github.com/krille-chan/fluffychat/commit/62fcea5b0b762e9647e2877bb462e0da38892625)
 - [ ] [<code>build(deps): bump rexml from 3.2.5 to 3.2.8 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/bf9f4764e6d15bd2bbf9e186a96dabc741655090)
+- [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
+- [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2961,6 +2964,8 @@
 - [ ] [<code>refactor: Remove unnecessary FutureBuilder</code>](https://github.com/krille-chan/fluffychat/commit/8a64bdd82dedf1a2ea885524223d1b31673f07eb)
 - [ ] [<code>chore: Set a maxsize for textfields</code>](https://github.com/krille-chan/fluffychat/commit/62fcea5b0b762e9647e2877bb462e0da38892625)
 - [ ] [<code>build(deps): bump rexml from 3.2.5 to 3.2.8 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/bf9f4764e6d15bd2bbf9e186a96dabc741655090)
+- [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
+- [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
 
 #### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
 
