@@ -2597,6 +2597,7 @@
 - [ ] [<code>dbeaver/dbeaver-infra#3 support generation for transient dependencies (#32359)</code>](https://github.com/dbeaver/dbeaver/commit/7495dbd36388664d743d4e706d71e2fe984eb291)
 - [ ] [<code>dbeaver/pro#2787 Salesforce CDP rebranding and driver version update (#30244)</code>](https://github.com/dbeaver/dbeaver/commit/b50ce82c4f78ba821682d45b055447656944462a)
 - [ ] [<code>revert field renaming (#33189)</code>](https://github.com/dbeaver/dbeaver/commit/9f78e4aa443d42ddcf4a2c1d7df279950a402a2c)
+- [ ] [<code>dbeaver/pro#2787 SalesForce CDP driver ID change</code>](https://github.com/dbeaver/dbeaver/commit/dd74ba794e3bdbdf1130345725a4055ef368820e)
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
