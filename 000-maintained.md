@@ -2967,8 +2967,9 @@
 - [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
 - [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
 
-#### [fw-ectool](https://github.com/DHowett/fw-ectool): [54c140399bbc3e6a3dce6c9f842727c4128367be → HEAD](https://github.com/DHowett/fw-ectool/compare/54c140399bbc3e6a3dce6c9f842727c4128367be...HEAD)
+#### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
+- [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.2 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.2...HEAD)
 
