@@ -2916,6 +2916,8 @@
 - [ ] [<code>refactor: Remove no longer necessary mx-reply workaround</code>](https://github.com/krille-chan/fluffychat/commit/3d362df80a1dd84e41441e94eef752dba63a83aa)
 - [ ] [<code>refactor: Improve performance of chat list</code>](https://github.com/krille-chan/fluffychat/commit/3c85786c1061e8c758b9598b97a595eab6ae6956)
 - [ ] [<code>chore: Make bottomnavbar labels always visible</code>](https://github.com/krille-chan/fluffychat/commit/9da309be62b949a0da96a81fbc4652a7a6717555)
+- [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/3d4ddeaa4080e669b223c4832cac31ae86e5a223)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Disable db cache test</code>](https://github.com/krille-chan/fluffychat/commit/286acbc11a73a548eb62207b271743a4a745ef83)
 - [ ] [<code>Revert "fastlane: i18n ru"</code>](https://github.com/krille-chan/fluffychat/commit/3285c644a85d97ac9d39958211c7461f784f393b)
 - [ ] [<code>Revert "chore: Disable db cache test"</code>](https://github.com/krille-chan/fluffychat/commit/81b254f82cc7a5d23a8884c881ec4d9d3a680cca)
@@ -2959,6 +2961,8 @@
 - [ ] [<code>refactor: Remove no longer necessary mx-reply workaround</code>](https://github.com/krille-chan/fluffychat/commit/3d362df80a1dd84e41441e94eef752dba63a83aa)
 - [ ] [<code>refactor: Improve performance of chat list</code>](https://github.com/krille-chan/fluffychat/commit/3c85786c1061e8c758b9598b97a595eab6ae6956)
 - [ ] [<code>chore: Make bottomnavbar labels always visible</code>](https://github.com/krille-chan/fluffychat/commit/9da309be62b949a0da96a81fbc4652a7a6717555)
+- [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/3d4ddeaa4080e669b223c4832cac31ae86e5a223)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Disable db cache test</code>](https://github.com/krille-chan/fluffychat/commit/286acbc11a73a548eb62207b271743a4a745ef83)
 - [ ] [<code>Revert "fastlane: i18n ru"</code>](https://github.com/krille-chan/fluffychat/commit/3285c644a85d97ac9d39958211c7461f784f393b)
 - [ ] [<code>Revert "chore: Disable db cache test"</code>](https://github.com/krille-chan/fluffychat/commit/81b254f82cc7a5d23a8884c881ec4d9d3a680cca)
@@ -2969,6 +2973,14 @@
 - [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
 - [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
 - [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
+> Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped flutter316 - no appropriate URL found OrderedDict([('attr_path', 'flutter316'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
