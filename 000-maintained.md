@@ -2925,6 +2925,7 @@
 - [ ] [<code>build(deps): bump rexml from 3.2.5 to 3.2.8 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/bf9f4764e6d15bd2bbf9e186a96dabc741655090)
 - [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
 - [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
+- [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -2967,6 +2968,7 @@
 - [ ] [<code>build(deps): bump rexml from 3.2.5 to 3.2.8 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/bf9f4764e6d15bd2bbf9e186a96dabc741655090)
 - [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
 - [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
+- [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
