@@ -19,7 +19,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.0.4/dbeaver-ce-24.0.4-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.0.5/dbeaver-ce-24.0.5-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.0.5/dbeaver-ce-24.0.5-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
@@ -351,6 +351,9 @@
 - [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
 - [ ] [<code>build: Update dependencies to flutter 3.22 but not flutter version yet</code>](https://github.com/krille-chan/fluffychat/commit/421bd245ae96f2820382b05c356f5f37862c0b9a)
 - [ ] [<code>build: Try out store inbound group sessions performance fix</code>](https://github.com/krille-chan/fluffychat/commit/6bd9997fe5dd9fcdc5a654eab68615ef172255e8)
+- [ ] [<code>build: Use matrix sdk main branch</code>](https://github.com/krille-chan/fluffychat/commit/b954362104ae749407942236bd68033b01399c45)
+- [ ] [<code>chore: Nicer message animation</code>](https://github.com/krille-chan/fluffychat/commit/3d7dbf7ddf799d4848133a930b9c8701b8067563)
+- [ ] [<code>chore: Follow up new message animation</code>](https://github.com/krille-chan/fluffychat/commit/6599d28676b8a69e38992bab19a8f94ed3a2d158)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -398,6 +401,9 @@
 - [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
 - [ ] [<code>build: Update dependencies to flutter 3.22 but not flutter version yet</code>](https://github.com/krille-chan/fluffychat/commit/421bd245ae96f2820382b05c356f5f37862c0b9a)
 - [ ] [<code>build: Try out store inbound group sessions performance fix</code>](https://github.com/krille-chan/fluffychat/commit/6bd9997fe5dd9fcdc5a654eab68615ef172255e8)
+- [ ] [<code>build: Use matrix sdk main branch</code>](https://github.com/krille-chan/fluffychat/commit/b954362104ae749407942236bd68033b01399c45)
+- [ ] [<code>chore: Nicer message animation</code>](https://github.com/krille-chan/fluffychat/commit/3d7dbf7ddf799d4848133a930b9c8701b8067563)
+- [ ] [<code>chore: Follow up new message animation</code>](https://github.com/krille-chan/fluffychat/commit/6599d28676b8a69e38992bab19a8f94ed3a2d158)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
