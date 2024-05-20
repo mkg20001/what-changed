@@ -349,6 +349,8 @@
 - [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
 - [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
 - [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
+- [ ] [<code>build: Update dependencies to flutter 3.22 but not flutter version yet</code>](https://github.com/krille-chan/fluffychat/commit/421bd245ae96f2820382b05c356f5f37862c0b9a)
+- [ ] [<code>build: Try out store inbound group sessions performance fix</code>](https://github.com/krille-chan/fluffychat/commit/6bd9997fe5dd9fcdc5a654eab68615ef172255e8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -394,6 +396,8 @@
 - [ ] [<code>build: Use core24 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/fb1059b1a3cb881a3d07089fef0319815a1fda84)
 - [ ] [<code>Revert "build: Use core24 for snapcraft"</code>](https://github.com/krille-chan/fluffychat/commit/06b2e6c14fafb707ccd1f75b26504e74a7c65026)
 - [ ] [<code>refactor: Use onRoomState stream instead of room.onUpdate to not update on messages but state changes only</code>](https://github.com/krille-chan/fluffychat/commit/ff54610e5b471f50f8e40ee2e9658460de19652f)
+- [ ] [<code>build: Update dependencies to flutter 3.22 but not flutter version yet</code>](https://github.com/krille-chan/fluffychat/commit/421bd245ae96f2820382b05c356f5f37862c0b9a)
+- [ ] [<code>build: Try out store inbound group sessions performance fix</code>](https://github.com/krille-chan/fluffychat/commit/6bd9997fe5dd9fcdc5a654eab68615ef172255e8)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
