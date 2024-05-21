@@ -116,8 +116,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>util.js: remove unused utility function latinise() (#12201)</code>](https://github.com/linuxmint/cinnamon/commit/0d6437999842c9b853dcb66f2d3566bdefd8deb9)
 - [ ] [<code>userWidget: Back to using the theme to load the face image.</code>](https://github.com/linuxmint/cinnamon/commit/f4fd0244c13793ed48228698d7ed2576c39798a9)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>user applet: handle the symbolic panel icon correctly.</code>](https://github.com/linuxmint/cinnamon/commit/a4ddc1722cf3a4fcd593923c5ed63a268996698a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
