@@ -317,6 +317,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Openspades icon (#414)</code>](https://github.com/linuxmint/mint-y-icons/commit/5d2f82f298d82d1c84cf3e4bb4604db523f388ac)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add missing flatpak icons + sorted symbolic-apps-list (#408)</code>](https://github.com/linuxmint/mint-y-icons/commit/4f979176012633462935013e845bd7f8ebd8f466)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4 icons Tidal Deezer Vimeo and Gog (#421)</code>](https://github.com/linuxmint/mint-y-icons/commit/508275d2d78a63216307e17a84193e54807ddc63)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.0.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.0.1...HEAD)
 
@@ -331,6 +335,7 @@
 - [ ] [<code>Fix segfault during Alt-Tab when window focus mode is either 'Sloppy' or 'Mouse' (gdb backtrace attached) (#680)</code>](https://github.com/linuxmint/muffin/commit/b15de53d7bc43dbcd0136cd7f845eb7ec9d89e6a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-crtc-xrandr.c: use nearest neighbor filter for integer randr scales (#692)</code>](https://github.com/linuxmint/muffin/commit/c1a29cba4de6c1b89076e9f08757c614d9565e4f)
+- [ ] [<code>meta-monitor-manager-xrandr.c: DeleteMonitor before SetMonitor (#693)</code>](https://github.com/linuxmint/muffin/commit/199284c71b0982f9f4bb506d78bf30eeb8141572)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.0.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.0.2...HEAD)
@@ -387,6 +392,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-file.c: Update default date-time formats to adapt to GDateTime</code>](https://github.com/linuxmint/nemo/commit/a362848a3c3e8ae6631c1bd545d9cc1df8138e5c)
 - [ ] [<code>application: Guard a new GLib log function with a version check.</code>](https://github.com/linuxmint/nemo/commit/d1d6bd6b492470143c4f7eac390cd81f3cb84310)
+- [ ] [<code>nemo-thumbnails.c: Always respect the thumbnail thread count if</code>](https://github.com/linuxmint/nemo/commit/8d3669d6b5bd70c4b55f69533786c8626066531b)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
