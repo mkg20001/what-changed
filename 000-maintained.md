@@ -354,6 +354,13 @@
 - [ ] [<code>build: Use matrix sdk main branch</code>](https://github.com/krille-chan/fluffychat/commit/b954362104ae749407942236bd68033b01399c45)
 - [ ] [<code>chore: Nicer message animation</code>](https://github.com/krille-chan/fluffychat/commit/3d7dbf7ddf799d4848133a930b9c8701b8067563)
 - [ ] [<code>chore: Follow up new message animation</code>](https://github.com/krille-chan/fluffychat/commit/6599d28676b8a69e38992bab19a8f94ed3a2d158)
+- [ ] [<code>build: Update to matrix 0.29.3</code>](https://github.com/krille-chan/fluffychat/commit/f46288aead75319d96b5a84018f8846c403191d4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Increase default network request timeout</code>](https://github.com/krille-chan/fluffychat/commit/78a3ef102c778f03b4ad870f32aa508ff8d357be)
+- [ ] [<code>chore: Hotfix create missing objectbox</code>](https://github.com/krille-chan/fluffychat/commit/efd2bcb00ad779b90435eece370d6d0448d524ed)
+- [ ] [<code>chore: Re-add native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/bd6b180b7ca5435be254c11555e5e827412696c7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Go back to pub.dev matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/8a738ad25ff31b5e2aa0a34e4c31e7f3e5fa26ee)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -404,6 +411,13 @@
 - [ ] [<code>build: Use matrix sdk main branch</code>](https://github.com/krille-chan/fluffychat/commit/b954362104ae749407942236bd68033b01399c45)
 - [ ] [<code>chore: Nicer message animation</code>](https://github.com/krille-chan/fluffychat/commit/3d7dbf7ddf799d4848133a930b9c8701b8067563)
 - [ ] [<code>chore: Follow up new message animation</code>](https://github.com/krille-chan/fluffychat/commit/6599d28676b8a69e38992bab19a8f94ed3a2d158)
+- [ ] [<code>build: Update to matrix 0.29.3</code>](https://github.com/krille-chan/fluffychat/commit/f46288aead75319d96b5a84018f8846c403191d4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Increase default network request timeout</code>](https://github.com/krille-chan/fluffychat/commit/78a3ef102c778f03b4ad870f32aa508ff8d357be)
+- [ ] [<code>chore: Hotfix create missing objectbox</code>](https://github.com/krille-chan/fluffychat/commit/efd2bcb00ad779b90435eece370d6d0448d524ed)
+- [ ] [<code>chore: Re-add native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/bd6b180b7ca5435be254c11555e5e827412696c7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Go back to pub.dev matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/8a738ad25ff31b5e2aa0a34e4c31e7f3e5fa26ee)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2094,6 +2108,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cli/generate: skip daemon_reload with --mapping</code>](https://github.com/canonical/netplan/commit/ea60510cf741afe73b59470af9f812a36140dae0)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test: cleanup after wait_online test to fix DebCI</code>](https://github.com/canonical/netplan/commit/4ecc7a13002b5e67b1e1c2bff8c85f624d44e303)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: fork spread to get #179 fixes</code>](https://github.com/canonical/netplan/commit/41d2319a570c7ddf157031cb5197556a8eb3b55d)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2259,6 +2276,20 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.35.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.1...HEAD)
 
+- [ ] [<code>Fixed #368 - Compilation issue under 4.6</code>](https://github.com/foldynl/QLog.git/commit/ec218906b2f0839a27a29e48aefcc86095c41d14)
+- [ ] [<code>Fixed #366 - Password with plus is incorrectly sent to online services</code>](https://github.com/foldynl/QLog.git/commit/c5490a68e8e70fa7606375a23da742507e003fb1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed #351 - Logbook: Improved delete performance; added delete progress bar</code>](https://github.com/foldynl/QLog.git/commit/53dc5ec018e2c5b18232b8ce4714a75decaa86ed)
+- [ ] [<code>Logbook: Fetching all rows</code>](https://github.com/foldynl/QLog.git/commit/313f3eadc07555088731f749ada87fb7e327ab39)
+- [ ] [<code>Code optimalization - const reference</code>](https://github.com/foldynl/QLog.git/commit/a056ec41e0576b12c0374aefb66de87439a49fac)
+- [ ] [<code>Fixed #370 - Fixed Network Rig configuration is not saved</code>](https://github.com/foldynl/QLog.git/commit/3a05273c26e3971471ce3033c914898dd61ee6a2)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/7addba832fe2d7769ccae092122b0743e4a1a643)
+- [ ] [<code>Updated Changedlog</code>](https://github.com/foldynl/QLog.git/commit/fc5ecf21b78cc9b805099a8563bb895a2b946d4e)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7dd7a95471d150963b18e3faa9dc57519c3233d6)
+- [ ] [<code>Update translations Czech/German</code>](https://github.com/foldynl/QLog.git/commit/4281dbc8e547f4f2b9260e1ba3c894f236eaa513)
+- [ ] [<code>Fixed #368 - Improved qmake hamlib version parser - removed nondigi chars</code>](https://github.com/foldynl/QLog.git/commit/559c1af4fec0ec4baea2cf6dcd77362611915bc0)
+- [ ] [<code>Preparation for release 0.35.2</code>](https://github.com/foldynl/QLog.git/commit/ac7295d8f30ffd8c437b92075db0f5b5082b9695)
+  - <sub>Tags: <code>v0.35.2</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
