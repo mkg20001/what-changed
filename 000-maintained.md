@@ -1530,6 +1530,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update lxc-execute.sgml.in</code>](https://github.com/lxc/lxc/commit/a7aa2974d2b994f0182f9f0db2ab24bc11749417)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update lxc-{attach,execute}.sgml.in</code>](https://github.com/lxc/lxc/commit/3bef71d7e518065c9dda1080552f58613ec3ce68)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update lxc-execute.sgml.in</code>](https://github.com/lxc/lxc/commit/9a6448af4a8e73b0da9fe930c4d2c5e11868b560)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -2363,6 +2367,15 @@
 - [ ] [<code>socket: fix addrinfo() with omitted service argument</code>](https://github.com/jow-/ucode/commit/0d823e702bfe5f2bb5be694030a98afedf34aa6b)
 - [ ] [<code>socket: fix potential memory leak in connect()</code>](https://github.com/jow-/ucode/commit/8cf816d615fd063ba1463f64b6428e59a91e9651)
 - [ ] [<code>socket: optimize poll() argument handling</code>](https://github.com/jow-/ucode/commit/8f5f231d66cd20f22c7a1089ea848b7f1e2b61f1)
+- [ ] [<code>socket: remove wrong documentation fragment</code>](https://github.com/jow-/ucode/commit/36f106056069d545b63041533ba22c391b05e119)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>socket: uv_to_sockaddr(): fix length calculation for AF_UNIX addresses</code>](https://github.com/jow-/ucode/commit/525fca2240123d65f8bc13b1ef7e36988e62128f)
+- [ ] [<code>socket: support IPv6 addresses in struct conversion routines</code>](https://github.com/jow-/ucode/commit/3938645ad9e3a9fe1e6de6eaa64c071e59d3ff22)
+- [ ] [<code>socket: improve uc_socket_connect() behavior</code>](https://github.com/jow-/ucode/commit/3a586dc7ddbeeb14c25da5439a6c4e989b856f6e)
+- [ ] [<code>socket: improve uc_socket_listen() behavior</code>](https://github.com/jow-/ucode/commit/7b269f1cd3d2b8fb84f1711e1db9f9f59306f95f)
+- [ ] [<code>socket: handle further socket option value types</code>](https://github.com/jow-/ucode/commit/fc6f2b89febf4c2bf398d71cba51e2d085ea9875)
+- [ ] [<code>socket: add IPv6 socket options</code>](https://github.com/jow-/ucode/commit/d6f25797dad180b6a2145b59e897df9ac0d42dfd)
+- [ ] [<code>socket: implement recvmsg(), sendmsg() and cmsg support</code>](https://github.com/jow-/ucode/commit/7611487b9a051f17e1cf9d21cc10b78071695b93)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
