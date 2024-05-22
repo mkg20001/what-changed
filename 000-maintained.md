@@ -539,6 +539,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/356b2290dc0aab0a92bd9d7d63a2cc1d2fd9f27a)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
+- [ ] [<code>incusd/instance/qemu: Allow setting protection.delete when running</code>](https://github.com/lxc/incus/commit/d07606879728f8030b01365f34b9f860dd2231bb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -875,6 +876,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/356b2290dc0aab0a92bd9d7d63a2cc1d2fd9f27a)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
+- [ ] [<code>incusd/instance/qemu: Allow setting protection.delete when running</code>](https://github.com/lxc/incus/commit/d07606879728f8030b01365f34b9f860dd2231bb)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1531,6 +1533,9 @@
 - [ ] [<code>Switch from gcc 13 to gcc 12 in ubuntu-latest</code>](https://github.com/AOMediaCodec/libavif/commit/c6eb2e430daeed62ecf4b47ad651f4dec4565856)
 - [ ] [<code>Ext: Update to SVT-AV1 v2.1.0</code>](https://github.com/AOMediaCodec/libavif/commit/99c288afff51fcb991b05f0da021336ad5e55b33)
 - [ ] [<code>GetSeedDataDirs: allow TEST_DATA_DIRS to be -D defined (#2162)</code>](https://github.com/AOMediaCodec/libavif/commit/d369ffb6a21646395df9c57ae7c0545bf6846101)
+- [ ] [<code>Add avifkeyframetest (#2119)</code>](https://github.com/AOMediaCodec/libavif/commit/3408ce685293d8c1fed9656a460cef78f105b92d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Encode an anim instead of the same frame X times (#1916)</code>](https://github.com/AOMediaCodec/libavif/commit/b3d1219fca59cbf50faa0a2116de282fe53b7b24)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2112,6 +2117,7 @@
 - [ ] [<code>test: cleanup after wait_online test to fix DebCI</code>](https://github.com/canonical/netplan/commit/4ecc7a13002b5e67b1e1c2bff8c85f624d44e303)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>CI: fork spread to get #179 fixes</code>](https://github.com/canonical/netplan/commit/41d2319a570c7ddf157031cb5197556a8eb3b55d)
+- [ ] [<code>networkd:apply: Drop handling of legacy wpa@ instance units</code>](https://github.com/canonical/netplan/commit/26d2591d771cb4343c06dbb1e0eb1f3587ec910d)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
