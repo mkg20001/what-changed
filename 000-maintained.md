@@ -1530,6 +1530,7 @@
 - [ ] [<code>Do not test incr line count on fuzzed grids (#2160)</code>](https://github.com/AOMediaCodec/libavif/commit/8d1c71906320c9a161d661f84a7028bd2348cc6d)
 - [ ] [<code>Switch from gcc 13 to gcc 12 in ubuntu-latest</code>](https://github.com/AOMediaCodec/libavif/commit/c6eb2e430daeed62ecf4b47ad651f4dec4565856)
 - [ ] [<code>Ext: Update to SVT-AV1 v2.1.0</code>](https://github.com/AOMediaCodec/libavif/commit/99c288afff51fcb991b05f0da021336ad5e55b33)
+- [ ] [<code>GetSeedDataDirs: allow TEST_DATA_DIRS to be -D defined (#2162)</code>](https://github.com/AOMediaCodec/libavif/commit/d369ffb6a21646395df9c57ae7c0545bf6846101)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
