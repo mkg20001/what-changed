@@ -296,6 +296,11 @@
 - [ ] [<code>Remove two tracing lines from vfs2 test</code>](https://github.com/canonical/dqlite/commit/cb65db7df768bbfc3ba80a6071114fd2193feff0)
 - [ ] [<code>configure: Disable default CFLAGS from AC_PROG_CC</code>](https://github.com/canonical/dqlite/commit/334e23e7edb0c6534a247a37e36407d25803892b)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>github: Test on Ubuntu Noble</code>](https://github.com/canonical/dqlite/commit/2224a7ca2acbbf63b1f3aeef125f8723e74409e3)
+- [ ] [<code>Make --enable-build-sqlite work more smoothly</code>](https://github.com/canonical/dqlite/commit/246a56a5d021c002a5b90afe9fe8281d50297c36)
+- [ ] [<code>Add CI job for building against latest SQLite, libuv</code>](https://github.com/canonical/dqlite/commit/78ea7ac60de0b0ea9229b30315fbcc046407a906)
+- [ ] [<code>Test latest liblz4 too</code>](https://github.com/canonical/dqlite/commit/07b586f89ec39df4d2a8ccdb85a45bfc700f4de6)
+- [ ] [<code>github: Only capture coverage on Jammy</code>](https://github.com/canonical/dqlite/commit/2b2982d2a4b07f663de746ad0569188a8f121d2f)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -1554,6 +1559,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update lxc-execute.sgml.in</code>](https://github.com/lxc/lxc/commit/9a6448af4a8e73b0da9fe930c4d2c5e11868b560)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-local: fix use of `LXC_PATH` before init</code>](https://github.com/lxc/lxc/commit/d7f2a52fd37f28259642c75c29de652d83c881de)
+- [ ] [<code>lxc-local: fix incorrect path to `templates` file</code>](https://github.com/lxc/lxc/commit/d740a3423888606bb655aac3ceccba5cb26a3a9e)
+- [ ] [<code>lxc-local: remove check for template existence before extraction</code>](https://github.com/lxc/lxc/commit/63168bcf424ebd12b063968445ddadd8bbd6b87a)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -1615,6 +1623,7 @@
 - [ ] [<code>chore(readme) update steps to setup ui</code>](https://github.com/canonical/lxd-ui/commit/8102f9deed67286a929c6d52298949fef0cf76e2)
 - [ ] [<code>fix demo server</code>](https://github.com/canonical/lxd-ui/commit/11fb35ea4292c887b653be17ebdd8ccc2d6841e7)
 - [ ] [<code>fix(storage) ensure landing urls for storage pool creation and deletion is correct after refactoring of storage urls. fixes #770</code>](https://github.com/canonical/lxd-ui/commit/7dcb4595d22a868e7063acb7820f923a27791f71)
+- [ ] [<code>fix(ci) enforce older version of requests when installing dotrun to work around a recently introduced bug in it</code>](https://github.com/canonical/lxd-ui/commit/487ba59852dfec8c15601102df4ac8e41d7c04e9)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
