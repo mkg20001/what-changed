@@ -92,6 +92,11 @@
 - [ ] [<code>Repack windows bios boot support</code>](https://github.com/lxc/distrobuilder/commit/f6722e3de6b25deb494b6bf62eaf91c61cb755aa)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Refactor copy driver files</code>](https://github.com/lxc/distrobuilder/commit/14721a319c7b04b89335624a039cc08458fc061f)
+- [ ] [<code>Refactor parse inf driver class guid</code>](https://github.com/lxc/distrobuilder/commit/b632188dcc95207431cdbf369e602eb669fb16fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update actions.md</code>](https://github.com/lxc/distrobuilder/commit/64bbbe5bb955950354da8346b1a9acd94ae8f43f)
+- [ ] [<code>lxc.generator: Handle pre-release systemd</code>](https://github.com/lxc/distrobuilder/commit/b197db8b6d9b9194615648ccc4488c9b4f3a1e80)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -371,6 +376,7 @@
 - [ ] [<code>chore: Go back to pub.dev matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/8a738ad25ff31b5e2aa0a34e4c31e7f3e5fa26ee)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/71ff94b622207f62287235faeee283b67003af58)
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/8ea9e26bac4fee38a1b420c3c0cfe3812bc49847)
+- [ ] [<code>fix: Stickers from gboard have black background</code>](https://github.com/krille-chan/fluffychat/commit/8da714b0d27ec00f44ffe612fd3411a32794d787)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -430,6 +436,7 @@
 - [ ] [<code>chore: Go back to pub.dev matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/8a738ad25ff31b5e2aa0a34e4c31e7f3e5fa26ee)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/71ff94b622207f62287235faeee283b67003af58)
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/8ea9e26bac4fee38a1b420c3c0cfe3812bc49847)
+- [ ] [<code>fix: Stickers from gboard have black background</code>](https://github.com/krille-chan/fluffychat/commit/8da714b0d27ec00f44ffe612fd3411a32794d787)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1596,6 +1603,12 @@
 - [ ] [<code>Add avifkeyframetest (#2119)</code>](https://github.com/AOMediaCodec/libavif/commit/3408ce685293d8c1fed9656a460cef78f105b92d)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Encode an anim instead of the same frame X times (#1916)</code>](https://github.com/AOMediaCodec/libavif/commit/b3d1219fca59cbf50faa0a2116de282fe53b7b24)
+- [ ] [<code>Rely on CMake to build the build folder. (#2169)</code>](https://github.com/AOMediaCodec/libavif/commit/3124f6b92329a92f9f7fcfd5a2424e7451d9a0ae)
+- [ ] [<code>Bump Ubuntu to 24.04 (#2165)</code>](https://github.com/AOMediaCodec/libavif/commit/c21943e1e07ced29a22d1a59b0c4748e00b84c67)
+- [ ] [<code>Properly name some jobs (#2171)</code>](https://github.com/AOMediaCodec/libavif/commit/9f1f7078a68f946f66b8b5aaa4704282c46895bf)
+- [ ] [<code>Do not download cargo (#2173)</code>](https://github.com/AOMediaCodec/libavif/commit/3af708aced4630282763d07885fdd0ccfead027a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Change AVIF_LOCAL_SVT_GIT_TAG to "v2.1.0"</code>](https://github.com/AOMediaCodec/libavif/commit/4e6a975432afd1a3666ac7b7c7514b23d6b165b8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
