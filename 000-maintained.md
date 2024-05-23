@@ -301,6 +301,9 @@
 - [ ] [<code>Add CI job for building against latest SQLite, libuv</code>](https://github.com/canonical/dqlite/commit/78ea7ac60de0b0ea9229b30315fbcc046407a906)
 - [ ] [<code>Test latest liblz4 too</code>](https://github.com/canonical/dqlite/commit/07b586f89ec39df4d2a8ccdb85a45bfc700f4de6)
 - [ ] [<code>github: Only capture coverage on Jammy</code>](https://github.com/canonical/dqlite/commit/2b2982d2a4b07f663de746ad0569188a8f121d2f)
+- [ ] [<code>raft: Add local_data and is_local to raft_entry</code>](https://github.com/canonical/dqlite/commit/b07cfe1f0718d752975bf32b2ca3960f56251093)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>raft: Add a note about ABI</code>](https://github.com/canonical/dqlite/commit/960b9e21a1e161494d79024440dead1b6c0689de)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -366,6 +369,8 @@
 - [ ] [<code>chore: Re-add native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/bd6b180b7ca5435be254c11555e5e827412696c7)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Go back to pub.dev matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/8a738ad25ff31b5e2aa0a34e4c31e7f3e5fa26ee)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/71ff94b622207f62287235faeee283b67003af58)
+- [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/8ea9e26bac4fee38a1b420c3c0cfe3812bc49847)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -423,6 +428,8 @@
 - [ ] [<code>chore: Re-add native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/bd6b180b7ca5435be254c11555e5e827412696c7)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Go back to pub.dev matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/8a738ad25ff31b5e2aa0a34e4c31e7f3e5fa26ee)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/71ff94b622207f62287235faeee283b67003af58)
+- [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/8ea9e26bac4fee38a1b420c3c0cfe3812bc49847)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -545,6 +552,28 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
 - [ ] [<code>incusd/instance/qemu: Allow setting protection.delete when running</code>](https://github.com/lxc/incus/commit/d07606879728f8030b01365f34b9f860dd2231bb)
+- [ ] [<code>doc/api-extension: Fix typo</code>](https://github.com/lxc/incus/commit/76d2f1c88e130579fe2e3b40c85a86229090d8cb)
+- [ ] [<code>shared/api: Introduce Access structs</code>](https://github.com/lxc/incus/commit/830b522a17bc62ff346473de434cc30e2033a88d)
+- [ ] [<code>api: instance_access</code>](https://github.com/lxc/incus/commit/4c6b471f5075bb105a1fb8fe9adede3b03604a52)
+- [ ] [<code>incusd/auth: Introduce GetInstanceAccess</code>](https://github.com/lxc/incus/commit/e31ab802a03178406bd3174e08015eb31f8f9d40)
+- [ ] [<code>incusd/instance: Add access endpoint</code>](https://github.com/lxc/incus/commit/e4beb1ac7f231128a00ec59cefd205de3e41cd77)
+- [ ] [<code>api: project_access</code>](https://github.com/lxc/incus/commit/cef7370eb6e21ea3db2593983f0970ec032d8c19)
+- [ ] [<code>incusd/auth: Introduce GetProjectAccess</code>](https://github.com/lxc/incus/commit/b74e7c8d2116e2e5c331e55b0630aa7dd60c7c94)
+- [ ] [<code>incusd/project: Add access endpoint</code>](https://github.com/lxc/incus/commit/d2adacef4db25dc4cb449f62c3e4cae34406a636)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6a30e82ece4ece77411dd5099ae7aca125e3a2b1)
+- [ ] [<code>client: Add GetInstanceAccess</code>](https://github.com/lxc/incus/commit/105f0884d2e0bb5e8585e5b71bb1b8e49ad9e545)
+- [ ] [<code>client: Add GetProjectAccess</code>](https://github.com/lxc/incus/commit/930418770a6f84831644c89b26b7102ffb974913)
+- [ ] [<code>incus/info: Fix description of --show-log</code>](https://github.com/lxc/incus/commit/4808c9a2b4d4c7d75c07caa9f878cafbd83620f0)
+- [ ] [<code>incus/info: Add --show-access</code>](https://github.com/lxc/incus/commit/88b7af5fcd3d7d1ac0eef26889dd88b0972d6c2e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/project: Add --show-access to info</code>](https://github.com/lxc/incus/commit/684349c362a29f7b3fafb128b5af8da1de2f387b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a4ce77ecbe0cca72d950cbf88b0e3a675b139db6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/auth/fga: Rename manager by admin in model</code>](https://github.com/lxc/incus/commit/4faf52ae75092ad182a59c92937090b10a9c9b16)
+- [ ] [<code>incusd/auth/fga: Rework permission model</code>](https://github.com/lxc/incus/commit/cef0238e303560cd8cd34606a2e99e6fbaa92cd0)
+- [ ] [<code>incusd/auth/fga: Rebuild model</code>](https://github.com/lxc/incus/commit/c113511fee729fad52bdf49256c9a78e94c0ec6b)
+- [ ] [<code>tests: Fix for permission changes</code>](https://github.com/lxc/incus/commit/54989eb6e09977d084eb5a597ae78ce8889c140f)
 - [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -884,6 +913,28 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
 - [ ] [<code>incusd/instance/qemu: Allow setting protection.delete when running</code>](https://github.com/lxc/incus/commit/d07606879728f8030b01365f34b9f860dd2231bb)
+- [ ] [<code>doc/api-extension: Fix typo</code>](https://github.com/lxc/incus/commit/76d2f1c88e130579fe2e3b40c85a86229090d8cb)
+- [ ] [<code>shared/api: Introduce Access structs</code>](https://github.com/lxc/incus/commit/830b522a17bc62ff346473de434cc30e2033a88d)
+- [ ] [<code>api: instance_access</code>](https://github.com/lxc/incus/commit/4c6b471f5075bb105a1fb8fe9adede3b03604a52)
+- [ ] [<code>incusd/auth: Introduce GetInstanceAccess</code>](https://github.com/lxc/incus/commit/e31ab802a03178406bd3174e08015eb31f8f9d40)
+- [ ] [<code>incusd/instance: Add access endpoint</code>](https://github.com/lxc/incus/commit/e4beb1ac7f231128a00ec59cefd205de3e41cd77)
+- [ ] [<code>api: project_access</code>](https://github.com/lxc/incus/commit/cef7370eb6e21ea3db2593983f0970ec032d8c19)
+- [ ] [<code>incusd/auth: Introduce GetProjectAccess</code>](https://github.com/lxc/incus/commit/b74e7c8d2116e2e5c331e55b0630aa7dd60c7c94)
+- [ ] [<code>incusd/project: Add access endpoint</code>](https://github.com/lxc/incus/commit/d2adacef4db25dc4cb449f62c3e4cae34406a636)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6a30e82ece4ece77411dd5099ae7aca125e3a2b1)
+- [ ] [<code>client: Add GetInstanceAccess</code>](https://github.com/lxc/incus/commit/105f0884d2e0bb5e8585e5b71bb1b8e49ad9e545)
+- [ ] [<code>client: Add GetProjectAccess</code>](https://github.com/lxc/incus/commit/930418770a6f84831644c89b26b7102ffb974913)
+- [ ] [<code>incus/info: Fix description of --show-log</code>](https://github.com/lxc/incus/commit/4808c9a2b4d4c7d75c07caa9f878cafbd83620f0)
+- [ ] [<code>incus/info: Add --show-access</code>](https://github.com/lxc/incus/commit/88b7af5fcd3d7d1ac0eef26889dd88b0972d6c2e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/project: Add --show-access to info</code>](https://github.com/lxc/incus/commit/684349c362a29f7b3fafb128b5af8da1de2f387b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a4ce77ecbe0cca72d950cbf88b0e3a675b139db6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/auth/fga: Rename manager by admin in model</code>](https://github.com/lxc/incus/commit/4faf52ae75092ad182a59c92937090b10a9c9b16)
+- [ ] [<code>incusd/auth/fga: Rework permission model</code>](https://github.com/lxc/incus/commit/cef0238e303560cd8cd34606a2e99e6fbaa92cd0)
+- [ ] [<code>incusd/auth/fga: Rebuild model</code>](https://github.com/lxc/incus/commit/c113511fee729fad52bdf49256c9a78e94c0ec6b)
+- [ ] [<code>tests: Fix for permission changes</code>](https://github.com/lxc/incus/commit/54989eb6e09977d084eb5a597ae78ce8889c140f)
 - [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -1628,6 +1679,7 @@
 - [ ] [<code>fix demo server</code>](https://github.com/canonical/lxd-ui/commit/11fb35ea4292c887b653be17ebdd8ccc2d6841e7)
 - [ ] [<code>fix(storage) ensure landing urls for storage pool creation and deletion is correct after refactoring of storage urls. fixes #770</code>](https://github.com/canonical/lxd-ui/commit/7dcb4595d22a868e7063acb7820f923a27791f71)
 - [ ] [<code>fix(ci) enforce older version of requests when installing dotrun to work around a recently introduced bug in it</code>](https://github.com/canonical/lxd-ui/commit/487ba59852dfec8c15601102df4ac8e41d7c04e9)
+- [ ] [<code>fix(instance) filter volume snapshots on selecting custom volume to add to an instance or profile. only show the custom volumes to select from. fixes #777</code>](https://github.com/canonical/lxd-ui/commit/130bb42c85ee4d35e57a1f0f28f63a48326df6a7)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2294,22 +2346,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.35.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.1...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.35.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.2...HEAD)
 
-- [ ] [<code>Fixed #368 - Compilation issue under 4.6</code>](https://github.com/foldynl/QLog.git/commit/ec218906b2f0839a27a29e48aefcc86095c41d14)
-- [ ] [<code>Fixed #366 - Password with plus is incorrectly sent to online services</code>](https://github.com/foldynl/QLog.git/commit/c5490a68e8e70fa7606375a23da742507e003fb1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixed #351 - Logbook: Improved delete performance; added delete progress bar</code>](https://github.com/foldynl/QLog.git/commit/53dc5ec018e2c5b18232b8ce4714a75decaa86ed)
-- [ ] [<code>Logbook: Fetching all rows</code>](https://github.com/foldynl/QLog.git/commit/313f3eadc07555088731f749ada87fb7e327ab39)
-- [ ] [<code>Code optimalization - const reference</code>](https://github.com/foldynl/QLog.git/commit/a056ec41e0576b12c0374aefb66de87439a49fac)
-- [ ] [<code>Fixed #370 - Fixed Network Rig configuration is not saved</code>](https://github.com/foldynl/QLog.git/commit/3a05273c26e3971471ce3033c914898dd61ee6a2)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/7addba832fe2d7769ccae092122b0743e4a1a643)
-- [ ] [<code>Updated Changedlog</code>](https://github.com/foldynl/QLog.git/commit/fc5ecf21b78cc9b805099a8563bb895a2b946d4e)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7dd7a95471d150963b18e3faa9dc57519c3233d6)
-- [ ] [<code>Update translations Czech/German</code>](https://github.com/foldynl/QLog.git/commit/4281dbc8e547f4f2b9260e1ba3c894f236eaa513)
-- [ ] [<code>Fixed #368 - Improved qmake hamlib version parser - removed nondigi chars</code>](https://github.com/foldynl/QLog.git/commit/559c1af4fec0ec4baea2cf6dcd77362611915bc0)
-- [ ] [<code>Preparation for release 0.35.2</code>](https://github.com/foldynl/QLog.git/commit/ac7295d8f30ffd8c437b92075db0f5b5082b9695)
-  - <sub>Tags: <code>v0.35.2</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
