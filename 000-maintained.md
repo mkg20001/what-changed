@@ -545,6 +545,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
 - [ ] [<code>incusd/instance/qemu: Allow setting protection.delete when running</code>](https://github.com/lxc/incus/commit/d07606879728f8030b01365f34b9f860dd2231bb)
+- [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -882,6 +884,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus/info: Fix runtime error when chassis, motherboard and firwmare information is not available</code>](https://github.com/lxc/incus/commit/97f28d6e58971a50a69f8e31de640eccae88ac2a)
 - [ ] [<code>incusd/instance/qemu: Allow setting protection.delete when running</code>](https://github.com/lxc/incus/commit/d07606879728f8030b01365f34b9f860dd2231bb)
+- [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
