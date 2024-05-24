@@ -97,6 +97,7 @@
 - [ ] [<code>Update actions.md</code>](https://github.com/lxc/distrobuilder/commit/64bbbe5bb955950354da8346b1a9acd94ae8f43f)
 - [ ] [<code>lxc.generator: Handle pre-release systemd</code>](https://github.com/lxc/distrobuilder/commit/b197db8b6d9b9194615648ccc4488c9b4f3a1e80)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>systemd v256 seems to require overriding ImportCredential= for all containers</code>](https://github.com/lxc/distrobuilder/commit/f6b2e14fa0ff8da33763c7527655f3f007a6493d)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -1639,6 +1640,9 @@
 - [ ] [<code>Do not download cargo (#2173)</code>](https://github.com/AOMediaCodec/libavif/commit/3af708aced4630282763d07885fdd0ccfead027a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Change AVIF_LOCAL_SVT_GIT_TAG to "v2.1.0"</code>](https://github.com/AOMediaCodec/libavif/commit/4e6a975432afd1a3666ac7b7c7514b23d6b165b8)
+- [ ] [<code>Use common code for caching (#2174)</code>](https://github.com/AOMediaCodec/libavif/commit/cff15fac1647fa2a9fd8937579357cd82d4d3bfd)
+- [ ] [<code>Properly check for cache hits. (#2172)</code>](https://github.com/AOMediaCodec/libavif/commit/73936ddd12e1f10ad1f5be47d920f528368573c9)
+- [ ] [<code>Actually cache all of ~/.cargo (#2175)</code>](https://github.com/AOMediaCodec/libavif/commit/25cedb2dfeb8f22d654d5887991de76d9de12f92)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1725,6 +1729,7 @@
 - [ ] [<code>fix(instance) filter volume snapshots on selecting custom volume to add to an instance or profile. only show the custom volumes to select from. fixes #777</code>](https://github.com/canonical/lxd-ui/commit/130bb42c85ee4d35e57a1f0f28f63a48326df6a7)
 - [ ] [<code>chore(deps) update react components, use new empty state layout</code>](https://github.com/canonical/lxd-ui/commit/52be253a8a39207016202b059da3b90d63f4a093)
 - [ ] [<code>feat(docs) automate screenshotting for the readme WD-11363</code>](https://github.com/canonical/lxd-ui/commit/bcad8b18b3e5afee4045207f8e71f97678c58d3d)
+- [ ] [<code>- Fixes inability to delete single profiles</code>](https://github.com/canonical/lxd-ui/commit/74d01699bca8691411a70004dc5a57a591a63a0e)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2228,6 +2233,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>CI: fork spread to get #179 fixes</code>](https://github.com/canonical/netplan/commit/41d2319a570c7ddf157031cb5197556a8eb3b55d)
 - [ ] [<code>networkd:apply: Drop handling of legacy wpa@ instance units</code>](https://github.com/canonical/netplan/commit/26d2591d771cb4343c06dbb1e0eb1f3587ec910d)
+- [ ] [<code>ctests: fix a memory leak in a unit test</code>](https://github.com/canonical/netplan/commit/9576774c1964bf66f09e1166909e3d5d1d3a1304)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
