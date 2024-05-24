@@ -584,6 +584,8 @@
 - [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>incusd/apparmor/lxc: Fix rule syntax</code>](https://github.com/lxc/incus/commit/d2c13e3f6312f08750981a80a510530e881c4ec7)
+- [ ] [<code>incus-simplestreams add:  added flags: --no-default-alias, --alias.  #875</code>](https://github.com/lxc/incus/commit/96700eef2769a22b99f23b207249a205a29c4716)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/storage_volume/snapshot: Support YAML for creation</code>](https://github.com/lxc/incus/commit/6f4cf45d86648243267ae586d254e2822b84f22d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b2f8b44d28d558fb67eacc9970702afd6b035175)
@@ -958,6 +960,8 @@
 - [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>incusd/apparmor/lxc: Fix rule syntax</code>](https://github.com/lxc/incus/commit/d2c13e3f6312f08750981a80a510530e881c4ec7)
+- [ ] [<code>incus-simplestreams add:  added flags: --no-default-alias, --alias.  #875</code>](https://github.com/lxc/incus/commit/96700eef2769a22b99f23b207249a205a29c4716)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/storage_volume/snapshot: Support YAML for creation</code>](https://github.com/lxc/incus/commit/6f4cf45d86648243267ae586d254e2822b84f22d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b2f8b44d28d558fb67eacc9970702afd6b035175)
@@ -1667,7 +1671,7 @@
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.8 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.8...HEAD)
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.8.1 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.8.1...HEAD)
 
 - [ ] [<code>fix(test) ensure network forward test is stable WD-10196</code>](https://github.com/canonical/lxd-ui/commit/8f83970c926b97d66099c1fd78e703693dbc00bb)
 - [ ] [<code>chore(test) add custom image test WD-10108</code>](https://github.com/canonical/lxd-ui/commit/e3f50573f9a31a5e14128afbdf11fb294449c3ca)
@@ -1719,6 +1723,8 @@
 - [ ] [<code>fix(storage) ensure landing urls for storage pool creation and deletion is correct after refactoring of storage urls. fixes #770</code>](https://github.com/canonical/lxd-ui/commit/7dcb4595d22a868e7063acb7820f923a27791f71)
 - [ ] [<code>fix(ci) enforce older version of requests when installing dotrun to work around a recently introduced bug in it</code>](https://github.com/canonical/lxd-ui/commit/487ba59852dfec8c15601102df4ac8e41d7c04e9)
 - [ ] [<code>fix(instance) filter volume snapshots on selecting custom volume to add to an instance or profile. only show the custom volumes to select from. fixes #777</code>](https://github.com/canonical/lxd-ui/commit/130bb42c85ee4d35e57a1f0f28f63a48326df6a7)
+- [ ] [<code>chore(deps) update react components, use new empty state layout</code>](https://github.com/canonical/lxd-ui/commit/52be253a8a39207016202b059da3b90d63f4a093)
+- [ ] [<code>feat(docs) automate screenshotting for the readme WD-11363</code>](https://github.com/canonical/lxd-ui/commit/bcad8b18b3e5afee4045207f8e71f97678c58d3d)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
