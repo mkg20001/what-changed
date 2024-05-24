@@ -583,6 +583,19 @@
 - [ ] [<code>tests: Fix for permission changes</code>](https://github.com/lxc/incus/commit/54989eb6e09977d084eb5a597ae78ce8889c140f)
 - [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incusd/apparmor/lxc: Fix rule syntax</code>](https://github.com/lxc/incus/commit/d2c13e3f6312f08750981a80a510530e881c4ec7)
+- [ ] [<code>incus/storage_volume/snapshot: Support YAML for creation</code>](https://github.com/lxc/incus/commit/6f4cf45d86648243267ae586d254e2822b84f22d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b2f8b44d28d558fb67eacc9970702afd6b035175)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/idmap: Make get_userns_fd configure the userns</code>](https://github.com/lxc/incus/commit/ec223f75e7056f271fb84be56980243cd68e67b3)
+- [ ] [<code>incus-migrate: Handle valid CA certificates</code>](https://github.com/lxc/incus/commit/6b918e21e4f61959a909860ffaf05b956bcccd21)
+- [ ] [<code>incusd/instances_post: Fix migrating into remote cluster</code>](https://github.com/lxc/incus/commit/d70dfab9b9e4617dfbaf128debad923c32d19853)
+- [ ] [<code>incusd/apparmor: Detect nosymfollow support</code>](https://github.com/lxc/incus/commit/6fb4e5ad19a62dbb1bca4ca7516dce6b00f46e6e)
+- [ ] [<code>incusd: Set SELinux label on socket</code>](https://github.com/lxc/incus/commit/412a33ac9808a73ad9c5acfd648f510d5519c2de)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -944,6 +957,19 @@
 - [ ] [<code>tests: Fix for permission changes</code>](https://github.com/lxc/incus/commit/54989eb6e09977d084eb5a597ae78ce8889c140f)
 - [ ] [<code>incusd/instance/agent-loader: Support installing to /etc</code>](https://github.com/lxc/incus/commit/cb07cb6d4d3ca7b350ba9853fc8b6c2c4c58f2db)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incusd/apparmor/lxc: Fix rule syntax</code>](https://github.com/lxc/incus/commit/d2c13e3f6312f08750981a80a510530e881c4ec7)
+- [ ] [<code>incus/storage_volume/snapshot: Support YAML for creation</code>](https://github.com/lxc/incus/commit/6f4cf45d86648243267ae586d254e2822b84f22d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b2f8b44d28d558fb67eacc9970702afd6b035175)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/idmap: Make get_userns_fd configure the userns</code>](https://github.com/lxc/incus/commit/ec223f75e7056f271fb84be56980243cd68e67b3)
+- [ ] [<code>incus-migrate: Handle valid CA certificates</code>](https://github.com/lxc/incus/commit/6b918e21e4f61959a909860ffaf05b956bcccd21)
+- [ ] [<code>incusd/instances_post: Fix migrating into remote cluster</code>](https://github.com/lxc/incus/commit/d70dfab9b9e4617dfbaf128debad923c32d19853)
+- [ ] [<code>incusd/apparmor: Detect nosymfollow support</code>](https://github.com/lxc/incus/commit/6fb4e5ad19a62dbb1bca4ca7516dce6b00f46e6e)
+- [ ] [<code>incusd: Set SELinux label on socket</code>](https://github.com/lxc/incus/commit/412a33ac9808a73ad9c5acfd648f510d5519c2de)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
