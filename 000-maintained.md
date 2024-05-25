@@ -599,6 +599,7 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>create_detached_idmapped_mount: avoid double close</code>](https://github.com/lxc/incus/commit/1b7da9480e2ec1d564e54ee4be8628204fcb9f7f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -975,6 +976,7 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>create_detached_idmapped_mount: avoid double close</code>](https://github.com/lxc/incus/commit/1b7da9480e2ec1d564e54ee4be8628204fcb9f7f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
