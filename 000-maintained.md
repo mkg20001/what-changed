@@ -98,6 +98,8 @@
 - [ ] [<code>lxc.generator: Handle pre-release systemd</code>](https://github.com/lxc/distrobuilder/commit/b197db8b6d9b9194615648ccc4488c9b4f3a1e80)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>systemd v256 seems to require overriding ImportCredential= for all containers</code>](https://github.com/lxc/distrobuilder/commit/f6b2e14fa0ff8da33763c7527655f3f007a6493d)
+- [ ] [<code>Fixed duplicated umount action</code>](https://github.com/lxc/distrobuilder/commit/56a88f8969a870dccde432f0bff3036d4d3d1224)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
