@@ -100,6 +100,7 @@
 - [ ] [<code>systemd v256 seems to require overriding ImportCredential= for all containers</code>](https://github.com/lxc/distrobuilder/commit/f6b2e14fa0ff8da33763c7527655f3f007a6493d)
 - [ ] [<code>Fixed duplicated umount action</code>](https://github.com/lxc/distrobuilder/commit/56a88f8969a870dccde432f0bff3036d4d3d1224)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Support http-proxy keyserver options for gpg recv-keys</code>](https://github.com/lxc/distrobuilder/commit/092eab7aa192fd2a3366004b8fe7a911aa11e2f0)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -626,6 +627,8 @@
 - [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>create_detached_idmapped_mount: avoid double close</code>](https://github.com/lxc/incus/commit/1b7da9480e2ec1d564e54ee4be8628204fcb9f7f)
+- [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1003,6 +1006,8 @@
 - [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>create_detached_idmapped_mount: avoid double close</code>](https://github.com/lxc/incus/commit/1b7da9480e2ec1d564e54ee4be8628204fcb9f7f)
+- [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1671,6 +1676,9 @@
 - [ ] [<code>Use common code for caching (#2174)</code>](https://github.com/AOMediaCodec/libavif/commit/cff15fac1647fa2a9fd8937579357cd82d4d3bfd)
 - [ ] [<code>Properly check for cache hits. (#2172)</code>](https://github.com/AOMediaCodec/libavif/commit/73936ddd12e1f10ad1f5be47d920f528368573c9)
 - [ ] [<code>Actually cache all of ~/.cargo (#2175)</code>](https://github.com/AOMediaCodec/libavif/commit/25cedb2dfeb8f22d654d5887991de76d9de12f92)
+- [ ] [<code>Replace ./ by . in CMake instruction. (#2176)</code>](https://github.com/AOMediaCodec/libavif/commit/9c5ae9392b2da1e3a03e049a5f22b76c276ec11c)
+- [ ] [<code>Properly check for cargo cache hit.</code>](https://github.com/AOMediaCodec/libavif/commit/3b631e220b2110db14c687dd8c8000fb363d6860)
+- [ ] [<code>Finer grain cache.</code>](https://github.com/AOMediaCodec/libavif/commit/24295c40da25ae012e9bab77430c6fa93ca1e799)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1758,6 +1766,7 @@
 - [ ] [<code>chore(deps) update react components, use new empty state layout</code>](https://github.com/canonical/lxd-ui/commit/52be253a8a39207016202b059da3b90d63f4a093)
 - [ ] [<code>feat(docs) automate screenshotting for the readme WD-11363</code>](https://github.com/canonical/lxd-ui/commit/bcad8b18b3e5afee4045207f8e71f97678c58d3d)
 - [ ] [<code>- Fixes inability to delete single profiles</code>](https://github.com/canonical/lxd-ui/commit/74d01699bca8691411a70004dc5a57a591a63a0e)
+- [ ] [<code>fix: fix readme-screenshots.spec.ts to properly skip tests in CI environment</code>](https://github.com/canonical/lxd-ui/commit/ebae265561513a0dd1a42802cc0d3807e5c635be)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
