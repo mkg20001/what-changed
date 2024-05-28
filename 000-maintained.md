@@ -101,6 +101,8 @@
 - [ ] [<code>Fixed duplicated umount action</code>](https://github.com/lxc/distrobuilder/commit/56a88f8969a870dccde432f0bff3036d4d3d1224)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Support http-proxy keyserver options for gpg recv-keys</code>](https://github.com/lxc/distrobuilder/commit/092eab7aa192fd2a3366004b8fe7a911aa11e2f0)
+- [ ] [<code>Refactor import gpg public keys</code>](https://github.com/lxc/distrobuilder/commit/907806e43cb2ce8799a63360277279fcec4841be)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -396,6 +398,9 @@
 - [ ] [<code>chore: Follow up open event from search</code>](https://github.com/krille-chan/fluffychat/commit/fe4e2b94181f55a62b45bf3b2de8dff75eab6423)
 - [ ] [<code>chore: Follow up deduplicate events</code>](https://github.com/krille-chan/fluffychat/commit/9358ef2f40bd7e2ef191760a675652d56dbb7c8f)
 - [ ] [<code>chore: Follow up deduplicate gallery and file search</code>](https://github.com/krille-chan/fluffychat/commit/2084615df19e3687764ab236ce05710eaebc925c)
+- [ ] [<code>chore: Follow up missing null check</code>](https://github.com/krille-chan/fluffychat/commit/5829446afa580793ad54dc3055776c6ba5052649)
+- [ ] [<code>chore: Only load last event sender if necessary</code>](https://github.com/krille-chan/fluffychat/commit/147a741aefd773cf359d4603c110a53cc8884746)
+- [ ] [<code>chore: Follow up last event</code>](https://github.com/krille-chan/fluffychat/commit/b9b2d1799090b44075dc85749bb7d55e9a236a57)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -471,6 +476,9 @@
 - [ ] [<code>chore: Follow up open event from search</code>](https://github.com/krille-chan/fluffychat/commit/fe4e2b94181f55a62b45bf3b2de8dff75eab6423)
 - [ ] [<code>chore: Follow up deduplicate events</code>](https://github.com/krille-chan/fluffychat/commit/9358ef2f40bd7e2ef191760a675652d56dbb7c8f)
 - [ ] [<code>chore: Follow up deduplicate gallery and file search</code>](https://github.com/krille-chan/fluffychat/commit/2084615df19e3687764ab236ce05710eaebc925c)
+- [ ] [<code>chore: Follow up missing null check</code>](https://github.com/krille-chan/fluffychat/commit/5829446afa580793ad54dc3055776c6ba5052649)
+- [ ] [<code>chore: Only load last event sender if necessary</code>](https://github.com/krille-chan/fluffychat/commit/147a741aefd773cf359d4603c110a53cc8884746)
+- [ ] [<code>chore: Follow up last event</code>](https://github.com/krille-chan/fluffychat/commit/b9b2d1799090b44075dc85749bb7d55e9a236a57)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1782,6 +1790,8 @@
 - [ ] [<code>feat(docs) automate screenshotting for the readme WD-11363</code>](https://github.com/canonical/lxd-ui/commit/bcad8b18b3e5afee4045207f8e71f97678c58d3d)
 - [ ] [<code>- Fixes inability to delete single profiles</code>](https://github.com/canonical/lxd-ui/commit/74d01699bca8691411a70004dc5a57a591a63a0e)
 - [ ] [<code>fix: fix readme-screenshots.spec.ts to properly skip tests in CI environment</code>](https://github.com/canonical/lxd-ui/commit/ebae265561513a0dd1a42802cc0d3807e5c635be)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.54.0</code>](https://github.com/canonical/lxd-ui/commit/0e4de773a518fe4ae6bc4104f9b2d71e099caa94)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2466,6 +2476,8 @@
 - [ ] [<code>[atlesn] Fix use of uninitialized memory in outgoing message of type 'append entries result'</code>](https://github.com/cowsql/raft/commit/9d911c1df65df4244a6c6a009de9b243fad0009c)
 - [ ] [<code>[atlesn] Don't default-initialize last_log_index, only set when it would otherwise not be set.</code>](https://github.com/cowsql/raft/commit/09448e28711458934cbfad38edb440c6e6d9f323)
 - [ ] [<code>Use of uninitialized memory in outgoing append entries result frames (#183)</code>](https://github.com/cowsql/raft/commit/e0928710bcc62806cc7074f010e462547decf4b7)
+- [ ] [<code>C++ compiler reject sizeof of anonymous structs</code>](https://github.com/cowsql/raft/commit/7aec814b0e1fca6cbdc3ec678a82f7978879dc75)
+- [ ] [<code>C++ compiler reject sizeof of anonymous structs (#186)</code>](https://github.com/cowsql/raft/commit/e1045698c0e6fa436158bed8442ac1cecbc7e011)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
