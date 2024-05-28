@@ -393,6 +393,9 @@
 - [ ] [<code>chore: Change default timeout to 30 min</code>](https://github.com/krille-chan/fluffychat/commit/d82211b7af89a41cb65fdfb30d6da000dddc2b66)
 - [ ] [<code>build: Use flutter 3.19 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/2fbeaf0b66f6a8cf2bc411b51e110aff6ad14423)
 - [ ] [<code>build: remove not working workaround for snapcraft build</code>](https://github.com/krille-chan/fluffychat/commit/d2661375923eacabad118ce878136d26f7714af0)
+- [ ] [<code>chore: Follow up open event from search</code>](https://github.com/krille-chan/fluffychat/commit/fe4e2b94181f55a62b45bf3b2de8dff75eab6423)
+- [ ] [<code>chore: Follow up deduplicate events</code>](https://github.com/krille-chan/fluffychat/commit/9358ef2f40bd7e2ef191760a675652d56dbb7c8f)
+- [ ] [<code>chore: Follow up deduplicate gallery and file search</code>](https://github.com/krille-chan/fluffychat/commit/2084615df19e3687764ab236ce05710eaebc925c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -465,6 +468,9 @@
 - [ ] [<code>chore: Change default timeout to 30 min</code>](https://github.com/krille-chan/fluffychat/commit/d82211b7af89a41cb65fdfb30d6da000dddc2b66)
 - [ ] [<code>build: Use flutter 3.19 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/2fbeaf0b66f6a8cf2bc411b51e110aff6ad14423)
 - [ ] [<code>build: remove not working workaround for snapcraft build</code>](https://github.com/krille-chan/fluffychat/commit/d2661375923eacabad118ce878136d26f7714af0)
+- [ ] [<code>chore: Follow up open event from search</code>](https://github.com/krille-chan/fluffychat/commit/fe4e2b94181f55a62b45bf3b2de8dff75eab6423)
+- [ ] [<code>chore: Follow up deduplicate events</code>](https://github.com/krille-chan/fluffychat/commit/9358ef2f40bd7e2ef191760a675652d56dbb7c8f)
+- [ ] [<code>chore: Follow up deduplicate gallery and file search</code>](https://github.com/krille-chan/fluffychat/commit/2084615df19e3687764ab236ce05710eaebc925c)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -632,6 +638,7 @@
 - [ ] [<code>doc/installing: Mention extra packages for VMs</code>](https://github.com/lxc/incus/commit/91fd3245c098953fabd2aca5db524655254bbb93)
 - [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/seccomp/sysinfo: Handle 32bit on 64bit</code>](https://github.com/lxc/incus/commit/dea0b4c0fed9b4c4541acaddfa2bc3869cc55d19)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1014,6 +1021,7 @@
 - [ ] [<code>doc/installing: Mention extra packages for VMs</code>](https://github.com/lxc/incus/commit/91fd3245c098953fabd2aca5db524655254bbb93)
 - [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/seccomp/sysinfo: Handle 32bit on 64bit</code>](https://github.com/lxc/incus/commit/dea0b4c0fed9b4c4541acaddfa2bc3869cc55d19)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
