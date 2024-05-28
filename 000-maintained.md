@@ -627,6 +627,9 @@
 - [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>create_detached_idmapped_mount: avoid double close</code>](https://github.com/lxc/incus/commit/1b7da9480e2ec1d564e54ee4be8628204fcb9f7f)
+- [ ] [<code>incusd/instance/qemu: Extend missing QEMU error</code>](https://github.com/lxc/incus/commit/041a4ada55642e91ae5cbb4b86d868abc3a32306)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/installing: Mention extra packages for VMs</code>](https://github.com/lxc/incus/commit/91fd3245c098953fabd2aca5db524655254bbb93)
 - [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
   - <sub>Keywords: <code>subprocess</code></sub>
 
@@ -1006,6 +1009,9 @@
 - [ ] [<code>incus/network: Align attach-profile with attach</code>](https://github.com/lxc/incus/commit/197edb14159b2b62cd48b1ee07ab80109d2aa2f3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>create_detached_idmapped_mount: avoid double close</code>](https://github.com/lxc/incus/commit/1b7da9480e2ec1d564e54ee4be8628204fcb9f7f)
+- [ ] [<code>incusd/instance/qemu: Extend missing QEMU error</code>](https://github.com/lxc/incus/commit/041a4ada55642e91ae5cbb4b86d868abc3a32306)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/installing: Mention extra packages for VMs</code>](https://github.com/lxc/incus/commit/91fd3245c098953fabd2aca5db524655254bbb93)
 - [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
   - <sub>Keywords: <code>subprocess</code></sub>
 
@@ -1679,6 +1685,7 @@
 - [ ] [<code>Replace ./ by . in CMake instruction. (#2176)</code>](https://github.com/AOMediaCodec/libavif/commit/9c5ae9392b2da1e3a03e049a5f22b76c276ec11c)
 - [ ] [<code>Properly check for cargo cache hit.</code>](https://github.com/AOMediaCodec/libavif/commit/3b631e220b2110db14c687dd8c8000fb363d6860)
 - [ ] [<code>Finer grain cache.</code>](https://github.com/AOMediaCodec/libavif/commit/24295c40da25ae012e9bab77430c6fa93ca1e799)
+- [ ] [<code>Update dav1d to 1.4.2</code>](https://github.com/AOMediaCodec/libavif/commit/96bf9e579239082d2d7e3f714a0ec799d101f9bf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
