@@ -404,6 +404,14 @@
 - [ ] [<code>chore: Follow up update last event</code>](https://github.com/krille-chan/fluffychat/commit/bfd8d7f99c173ef1569921b210d67742b140124f)
 - [ ] [<code>refactor: Update to Matrix Dart SDK 0.29.9</code>](https://github.com/krille-chan/fluffychat/commit/3d35a6adcf2df9d96e2f9a8ab9e0d7d7ea766c73)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Use correct pubspec.yaml format for hosted dependency</code>](https://github.com/krille-chan/fluffychat/commit/5f40393dd9052eff5585863efd3fe65fc44493ad)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Use Flutter 3.19.6 for Linux</code>](https://github.com/krille-chan/fluffychat/commit/d4da2dd431510d939890a374d9d8c057012f2431)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>build: Bump version to v1.21.0</code>](https://github.com/krille-chan/fluffychat/commit/6d906ad637bedb922258e48578cb18aed91119f8)
+  - <sub>Tags: <code>rc1.21.0-1</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up design typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/3bc66f87e00e3127af1ab2b0302801453c910a19)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -485,6 +493,14 @@
 - [ ] [<code>chore: Follow up update last event</code>](https://github.com/krille-chan/fluffychat/commit/bfd8d7f99c173ef1569921b210d67742b140124f)
 - [ ] [<code>refactor: Update to Matrix Dart SDK 0.29.9</code>](https://github.com/krille-chan/fluffychat/commit/3d35a6adcf2df9d96e2f9a8ab9e0d7d7ea766c73)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Use correct pubspec.yaml format for hosted dependency</code>](https://github.com/krille-chan/fluffychat/commit/5f40393dd9052eff5585863efd3fe65fc44493ad)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Use Flutter 3.19.6 for Linux</code>](https://github.com/krille-chan/fluffychat/commit/d4da2dd431510d939890a374d9d8c057012f2431)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>build: Bump version to v1.21.0</code>](https://github.com/krille-chan/fluffychat/commit/6d906ad637bedb922258e48578cb18aed91119f8)
+  - <sub>Tags: <code>rc1.21.0-1</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up design typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/3bc66f87e00e3127af1ab2b0302801453c910a19)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2303,6 +2319,7 @@
 - [ ] [<code>CI: fork spread to get #179 fixes</code>](https://github.com/canonical/netplan/commit/41d2319a570c7ddf157031cb5197556a8eb3b55d)
 - [ ] [<code>networkd:apply: Drop handling of legacy wpa@ instance units</code>](https://github.com/canonical/netplan/commit/26d2591d771cb4343c06dbb1e0eb1f3587ec910d)
 - [ ] [<code>ctests: fix a memory leak in a unit test</code>](https://github.com/canonical/netplan/commit/9576774c1964bf66f09e1166909e3d5d1d3a1304)
+- [ ] [<code>nm/nd: fix a couple of crashes</code>](https://github.com/canonical/netplan/commit/49d1ad709ebce514a134dc12274e7dd1bde2c578)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
