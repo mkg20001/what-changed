@@ -401,6 +401,9 @@
 - [ ] [<code>chore: Follow up missing null check</code>](https://github.com/krille-chan/fluffychat/commit/5829446afa580793ad54dc3055776c6ba5052649)
 - [ ] [<code>chore: Only load last event sender if necessary</code>](https://github.com/krille-chan/fluffychat/commit/147a741aefd773cf359d4603c110a53cc8884746)
 - [ ] [<code>chore: Follow up last event</code>](https://github.com/krille-chan/fluffychat/commit/b9b2d1799090b44075dc85749bb7d55e9a236a57)
+- [ ] [<code>chore: Follow up update last event</code>](https://github.com/krille-chan/fluffychat/commit/bfd8d7f99c173ef1569921b210d67742b140124f)
+- [ ] [<code>refactor: Update to Matrix Dart SDK 0.29.9</code>](https://github.com/krille-chan/fluffychat/commit/3d35a6adcf2df9d96e2f9a8ab9e0d7d7ea766c73)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -479,6 +482,9 @@
 - [ ] [<code>chore: Follow up missing null check</code>](https://github.com/krille-chan/fluffychat/commit/5829446afa580793ad54dc3055776c6ba5052649)
 - [ ] [<code>chore: Only load last event sender if necessary</code>](https://github.com/krille-chan/fluffychat/commit/147a741aefd773cf359d4603c110a53cc8884746)
 - [ ] [<code>chore: Follow up last event</code>](https://github.com/krille-chan/fluffychat/commit/b9b2d1799090b44075dc85749bb7d55e9a236a57)
+- [ ] [<code>chore: Follow up update last event</code>](https://github.com/krille-chan/fluffychat/commit/bfd8d7f99c173ef1569921b210d67742b140124f)
+- [ ] [<code>refactor: Update to Matrix Dart SDK 0.29.9</code>](https://github.com/krille-chan/fluffychat/commit/3d35a6adcf2df9d96e2f9a8ab9e0d7d7ea766c73)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2457,7 +2463,7 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint22 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint22...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.4.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.35.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.2...HEAD)
