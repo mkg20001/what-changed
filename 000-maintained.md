@@ -1702,6 +1702,7 @@
 - [ ] [<code>Properly check for cargo cache hit.</code>](https://github.com/AOMediaCodec/libavif/commit/3b631e220b2110db14c687dd8c8000fb363d6860)
 - [ ] [<code>Finer grain cache.</code>](https://github.com/AOMediaCodec/libavif/commit/24295c40da25ae012e9bab77430c6fa93ca1e799)
 - [ ] [<code>Update dav1d to 1.4.2</code>](https://github.com/AOMediaCodec/libavif/commit/96bf9e579239082d2d7e3f714a0ec799d101f9bf)
+- [ ] [<code>Update AVM to research-v7.0.1</code>](https://github.com/AOMediaCodec/libavif/commit/646a1a891f5e58750a198b7ce182a86f27988d6e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
