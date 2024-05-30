@@ -415,6 +415,8 @@
 - [ ] [<code>chore: Follow up design typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/3bc66f87e00e3127af1ab2b0302801453c910a19)
 - [ ] [<code>chore: Disable page transition in column mode</code>](https://github.com/krille-chan/fluffychat/commit/f01d507e194845fad689edf05ce5193cd6af51b3)
 - [ ] [<code>chore: Add weblate as codeowner for l10n</code>](https://github.com/krille-chan/fluffychat/commit/e27b9208134ad69af2d4dbc96a078052e6f4cd99)
+- [ ] [<code>chore: Follow up chat design</code>](https://github.com/krille-chan/fluffychat/commit/f2d42936ad40cebde2329d72c39c60bf45845a93)
+- [ ] [<code>refactor: Calc avatar font size by avatar size</code>](https://github.com/krille-chan/fluffychat/commit/bd5dc8405d930110be826cb1b9eaa4c427332052)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -506,6 +508,8 @@
 - [ ] [<code>chore: Follow up design typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/3bc66f87e00e3127af1ab2b0302801453c910a19)
 - [ ] [<code>chore: Disable page transition in column mode</code>](https://github.com/krille-chan/fluffychat/commit/f01d507e194845fad689edf05ce5193cd6af51b3)
 - [ ] [<code>chore: Add weblate as codeowner for l10n</code>](https://github.com/krille-chan/fluffychat/commit/e27b9208134ad69af2d4dbc96a078052e6f4cd99)
+- [ ] [<code>chore: Follow up chat design</code>](https://github.com/krille-chan/fluffychat/commit/f2d42936ad40cebde2329d72c39c60bf45845a93)
+- [ ] [<code>refactor: Calc avatar font size by avatar size</code>](https://github.com/krille-chan/fluffychat/commit/bd5dc8405d930110be826cb1b9eaa4c427332052)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -674,6 +678,25 @@
 - [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/seccomp/sysinfo: Handle 32bit on 64bit</code>](https://github.com/lxc/incus/commit/dea0b4c0fed9b4c4541acaddfa2bc3869cc55d19)
+- [ ] [<code>api: projects_force_delete</code>](https://github.com/lxc/incus/commit/c6ba40a405897c1ca75ced9f0e8ac8698d0d913f)
+- [ ] [<code>incusd/api_project: Add force delete endpoint</code>](https://github.com/lxc/incus/commit/d8a55e590d71f0634cc3e1dfb5dcaac9d7af2532)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ac67c4fe8996ce48f0785f605d40e7638bbe4b40)
+- [ ] [<code>client: Introduce DeleteProjectForce</code>](https://github.com/lxc/incus/commit/1ba852209935b360a9a13bb606fc0765898d5952)
+- [ ] [<code>cmd/incus/project: Add --force to delete</code>](https://github.com/lxc/incus/commit/eaed1d4fc35c4deab260ae4388fbdde8d2fdb95f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b256c48b9b1c8ffbebcc505cd421e3699bfa1ab0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/project: Simplify projectIsEmpty</code>](https://github.com/lxc/incus/commit/59e53d5206cd3e53b9c57ce18c1758b9f716a5d7)
+- [ ] [<code>incusd/db: Introduce GetNetworkZoneURIs</code>](https://github.com/lxc/incus/commit/5d5a9c751d07b88eef8ac4f4df6b5f9bb088bbb2)
+- [ ] [<code>incusd/db: Introduce GetStorageBucketURIs</code>](https://github.com/lxc/incus/commit/385ee4beefb330a4a03979e3d4e326e646f2903f)
+- [ ] [<code>incusd/api_project: Fix UsedBy</code>](https://github.com/lxc/incus/commit/c188aab101e26c46c9cc85c4437f940f565d12ca)
+- [ ] [<code>incusd/api_project: Add force deletion logic</code>](https://github.com/lxc/incus/commit/057428d8f73b42e3c5989b289f842ceff71fff83)
+- [ ] [<code>incus/completion: Reduce API calls</code>](https://github.com/lxc/incus/commit/915a9737e9b447843c256a5b2919bc838209b328)
+- [ ] [<code>incus/publish: Complete snapshot names</code>](https://github.com/lxc/incus/commit/6786970433f10fcd8687d8a3e50315444ef95965)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/completion: Fix import shadowing</code>](https://github.com/lxc/incus/commit/542adcc613331abc7604672d32bbf8d4d2ac6f7f)
+- [ ] [<code>Makefile: Pin go-acme/lego for Go 1.21</code>](https://github.com/lxc/incus/commit/de607887f48912aff58c95ba91f6efc8036eaf69)
+- [ ] [<code>Update dependencies</code>](https://github.com/lxc/incus/commit/ce46bfa3122fb2374f73db1b380ba389fb590a59)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1057,6 +1080,25 @@
 - [ ] [<code>incusd/storage/btrfs: Fix btrfs argument order</code>](https://github.com/lxc/incus/commit/b6a9da9265615e97c9d375b9be33943465992fcb)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/seccomp/sysinfo: Handle 32bit on 64bit</code>](https://github.com/lxc/incus/commit/dea0b4c0fed9b4c4541acaddfa2bc3869cc55d19)
+- [ ] [<code>api: projects_force_delete</code>](https://github.com/lxc/incus/commit/c6ba40a405897c1ca75ced9f0e8ac8698d0d913f)
+- [ ] [<code>incusd/api_project: Add force delete endpoint</code>](https://github.com/lxc/incus/commit/d8a55e590d71f0634cc3e1dfb5dcaac9d7af2532)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ac67c4fe8996ce48f0785f605d40e7638bbe4b40)
+- [ ] [<code>client: Introduce DeleteProjectForce</code>](https://github.com/lxc/incus/commit/1ba852209935b360a9a13bb606fc0765898d5952)
+- [ ] [<code>cmd/incus/project: Add --force to delete</code>](https://github.com/lxc/incus/commit/eaed1d4fc35c4deab260ae4388fbdde8d2fdb95f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b256c48b9b1c8ffbebcc505cd421e3699bfa1ab0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/project: Simplify projectIsEmpty</code>](https://github.com/lxc/incus/commit/59e53d5206cd3e53b9c57ce18c1758b9f716a5d7)
+- [ ] [<code>incusd/db: Introduce GetNetworkZoneURIs</code>](https://github.com/lxc/incus/commit/5d5a9c751d07b88eef8ac4f4df6b5f9bb088bbb2)
+- [ ] [<code>incusd/db: Introduce GetStorageBucketURIs</code>](https://github.com/lxc/incus/commit/385ee4beefb330a4a03979e3d4e326e646f2903f)
+- [ ] [<code>incusd/api_project: Fix UsedBy</code>](https://github.com/lxc/incus/commit/c188aab101e26c46c9cc85c4437f940f565d12ca)
+- [ ] [<code>incusd/api_project: Add force deletion logic</code>](https://github.com/lxc/incus/commit/057428d8f73b42e3c5989b289f842ceff71fff83)
+- [ ] [<code>incus/completion: Reduce API calls</code>](https://github.com/lxc/incus/commit/915a9737e9b447843c256a5b2919bc838209b328)
+- [ ] [<code>incus/publish: Complete snapshot names</code>](https://github.com/lxc/incus/commit/6786970433f10fcd8687d8a3e50315444ef95965)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/completion: Fix import shadowing</code>](https://github.com/lxc/incus/commit/542adcc613331abc7604672d32bbf8d4d2ac6f7f)
+- [ ] [<code>Makefile: Pin go-acme/lego for Go 1.21</code>](https://github.com/lxc/incus/commit/de607887f48912aff58c95ba91f6efc8036eaf69)
+- [ ] [<code>Update dependencies</code>](https://github.com/lxc/incus/commit/ce46bfa3122fb2374f73db1b380ba389fb590a59)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
