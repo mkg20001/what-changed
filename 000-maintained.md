@@ -135,6 +135,7 @@
 - [ ] [<code>Add a Tagref reference to the code of conduct file</code>](https://github.com/stepchowfun/docuum/commit/b61ac93ecf13af8ea0f9a7c046e381ccf72ea7e9)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update the link to the Rustup self-updating issue on Windows</code>](https://github.com/stepchowfun/docuum/commit/cb75cba514bd2cb39e96e1ae5c23fffdc9096917)
+- [ ] [<code>deps: bump libc from 0.2.147 to 0.2.155</code>](https://github.com/stepchowfun/docuum/commit/d85361ebe79068535923f4c0ad2a36827129ec6a)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -412,6 +413,8 @@
   - <sub>Tags: <code>rc1.21.0-1</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up design typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/3bc66f87e00e3127af1ab2b0302801453c910a19)
+- [ ] [<code>chore: Disable page transition in column mode</code>](https://github.com/krille-chan/fluffychat/commit/f01d507e194845fad689edf05ce5193cd6af51b3)
+- [ ] [<code>chore: Add weblate as codeowner for l10n</code>](https://github.com/krille-chan/fluffychat/commit/e27b9208134ad69af2d4dbc96a078052e6f4cd99)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -501,6 +504,8 @@
   - <sub>Tags: <code>rc1.21.0-1</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up design typing indicator</code>](https://github.com/krille-chan/fluffychat/commit/3bc66f87e00e3127af1ab2b0302801453c910a19)
+- [ ] [<code>chore: Disable page transition in column mode</code>](https://github.com/krille-chan/fluffychat/commit/f01d507e194845fad689edf05ce5193cd6af51b3)
+- [ ] [<code>chore: Add weblate as codeowner for l10n</code>](https://github.com/krille-chan/fluffychat/commit/e27b9208134ad69af2d4dbc96a078052e6f4cd99)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
