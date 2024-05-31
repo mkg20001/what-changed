@@ -697,6 +697,13 @@
 - [ ] [<code>incus/completion: Fix import shadowing</code>](https://github.com/lxc/incus/commit/542adcc613331abc7604672d32bbf8d4d2ac6f7f)
 - [ ] [<code>Makefile: Pin go-acme/lego for Go 1.21</code>](https://github.com/lxc/incus/commit/de607887f48912aff58c95ba91f6efc8036eaf69)
 - [ ] [<code>Update dependencies</code>](https://github.com/lxc/incus/commit/ce46bfa3122fb2374f73db1b380ba389fb590a59)
+- [ ] [<code>cmd/incus/console: Cleanup --show-log</code>](https://github.com/lxc/incus/commit/01dcaaa73d548a66ee644870586db6bffe8343ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance_console: Remove old check</code>](https://github.com/lxc/incus/commit/e77024b2c19c685f54febd5208136c569f4104e8)
+- [ ] [<code>incusd/instance_console: Handle missing log file</code>](https://github.com/lxc/incus/commit/bef8925526045d07c85a9230af71ba585e70eedd)
+- [ ] [<code>incusd/instance_console: Don't fail on empty logs</code>](https://github.com/lxc/incus/commit/afb2ce0b20f385b7aea06ee80ad49a724e6ec4b6)
+- [ ] [<code>incusd/instance_console: Cleanup error message</code>](https://github.com/lxc/incus/commit/c250aa58ed18cb3aa305d38154e16fd178674bcc)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/70fc5ef018b908d633c1d11dcbaa90734a78f083)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1099,6 +1106,13 @@
 - [ ] [<code>incus/completion: Fix import shadowing</code>](https://github.com/lxc/incus/commit/542adcc613331abc7604672d32bbf8d4d2ac6f7f)
 - [ ] [<code>Makefile: Pin go-acme/lego for Go 1.21</code>](https://github.com/lxc/incus/commit/de607887f48912aff58c95ba91f6efc8036eaf69)
 - [ ] [<code>Update dependencies</code>](https://github.com/lxc/incus/commit/ce46bfa3122fb2374f73db1b380ba389fb590a59)
+- [ ] [<code>cmd/incus/console: Cleanup --show-log</code>](https://github.com/lxc/incus/commit/01dcaaa73d548a66ee644870586db6bffe8343ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance_console: Remove old check</code>](https://github.com/lxc/incus/commit/e77024b2c19c685f54febd5208136c569f4104e8)
+- [ ] [<code>incusd/instance_console: Handle missing log file</code>](https://github.com/lxc/incus/commit/bef8925526045d07c85a9230af71ba585e70eedd)
+- [ ] [<code>incusd/instance_console: Don't fail on empty logs</code>](https://github.com/lxc/incus/commit/afb2ce0b20f385b7aea06ee80ad49a724e6ec4b6)
+- [ ] [<code>incusd/instance_console: Cleanup error message</code>](https://github.com/lxc/incus/commit/c250aa58ed18cb3aa305d38154e16fd178674bcc)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/70fc5ef018b908d633c1d11dcbaa90734a78f083)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1772,6 +1786,7 @@
 - [ ] [<code>Finer grain cache.</code>](https://github.com/AOMediaCodec/libavif/commit/24295c40da25ae012e9bab77430c6fa93ca1e799)
 - [ ] [<code>Update dav1d to 1.4.2</code>](https://github.com/AOMediaCodec/libavif/commit/96bf9e579239082d2d7e3f714a0ec799d101f9bf)
 - [ ] [<code>Update AVM to research-v7.0.1</code>](https://github.com/AOMediaCodec/libavif/commit/646a1a891f5e58750a198b7ce182a86f27988d6e)
+- [ ] [<code>read.c: Treat version 1 as version 0 for stsd box</code>](https://github.com/AOMediaCodec/libavif/commit/7886afe82ee6eb1992968003eff4cf6ca48b5e82)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
