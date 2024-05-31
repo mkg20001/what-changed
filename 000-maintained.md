@@ -1800,6 +1800,7 @@
 - [ ] [<code>Update AVM to research-v7.0.1</code>](https://github.com/AOMediaCodec/libavif/commit/646a1a891f5e58750a198b7ce182a86f27988d6e)
 - [ ] [<code>read.c: Treat version 1 as version 0 for stsd box</code>](https://github.com/AOMediaCodec/libavif/commit/7886afe82ee6eb1992968003eff4cf6ca48b5e82)
 - [ ] [<code>Use composite actions (#2166)</code>](https://github.com/AOMediaCodec/libavif/commit/3689cfbf23668bc400783e105bd1e15b458d73da)
+- [ ] [<code>Remove duplicate $. (#2184)</code>](https://github.com/AOMediaCodec/libavif/commit/85b1d2fc34b275d8c219e85c14d940e97a967f62)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
