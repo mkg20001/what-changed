@@ -103,6 +103,8 @@
 - [ ] [<code>Support http-proxy keyserver options for gpg recv-keys</code>](https://github.com/lxc/distrobuilder/commit/092eab7aa192fd2a3366004b8fe7a911aa11e2f0)
 - [ ] [<code>Refactor import gpg public keys</code>](https://github.com/lxc/distrobuilder/commit/907806e43cb2ce8799a63360277279fcec4841be)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>distrobuilder: Remove LXD support</code>](https://github.com/lxc/distrobuilder/commit/40ea40fe2e1c1358183ad830023f6b9ac5dc330c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -417,6 +419,8 @@
 - [ ] [<code>chore: Add weblate as codeowner for l10n</code>](https://github.com/krille-chan/fluffychat/commit/e27b9208134ad69af2d4dbc96a078052e6f4cd99)
 - [ ] [<code>chore: Follow up chat design</code>](https://github.com/krille-chan/fluffychat/commit/f2d42936ad40cebde2329d72c39c60bf45845a93)
 - [ ] [<code>refactor: Calc avatar font size by avatar size</code>](https://github.com/krille-chan/fluffychat/commit/bd5dc8405d930110be826cb1b9eaa4c427332052)
+- [ ] [<code>Merge pull request #1147 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/ddce338b3a706d1e00fc755e914b76caa8511928)
+  - <sub>Tags: <code>rc1.21.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -510,6 +514,8 @@
 - [ ] [<code>chore: Add weblate as codeowner for l10n</code>](https://github.com/krille-chan/fluffychat/commit/e27b9208134ad69af2d4dbc96a078052e6f4cd99)
 - [ ] [<code>chore: Follow up chat design</code>](https://github.com/krille-chan/fluffychat/commit/f2d42936ad40cebde2329d72c39c60bf45845a93)
 - [ ] [<code>refactor: Calc avatar font size by avatar size</code>](https://github.com/krille-chan/fluffychat/commit/bd5dc8405d930110be826cb1b9eaa4c427332052)
+- [ ] [<code>Merge pull request #1147 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/ddce338b3a706d1e00fc755e914b76caa8511928)
+  - <sub>Tags: <code>rc1.21.0-2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -704,6 +710,9 @@
 - [ ] [<code>incusd/instance_console: Don't fail on empty logs</code>](https://github.com/lxc/incus/commit/afb2ce0b20f385b7aea06ee80ad49a724e6ec4b6)
 - [ ] [<code>incusd/instance_console: Cleanup error message</code>](https://github.com/lxc/incus/commit/c250aa58ed18cb3aa305d38154e16fd178674bcc)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/70fc5ef018b908d633c1d11dcbaa90734a78f083)
+- [ ] [<code>incusd/device/sriov: Line up code with comment</code>](https://github.com/lxc/incus/commit/3bfa9940983b1122698cd71af33439ee731a848b)
+- [ ] [<code>Release Incus 6.2</code>](https://github.com/lxc/incus/commit/ad7d8b847ed646edf0bf8014d3bc49a5f11cecf9)
+  - <sub>Tags: <code>v6.2.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1113,6 +1122,9 @@
 - [ ] [<code>incusd/instance_console: Don't fail on empty logs</code>](https://github.com/lxc/incus/commit/afb2ce0b20f385b7aea06ee80ad49a724e6ec4b6)
 - [ ] [<code>incusd/instance_console: Cleanup error message</code>](https://github.com/lxc/incus/commit/c250aa58ed18cb3aa305d38154e16fd178674bcc)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/70fc5ef018b908d633c1d11dcbaa90734a78f083)
+- [ ] [<code>incusd/device/sriov: Line up code with comment</code>](https://github.com/lxc/incus/commit/3bfa9940983b1122698cd71af33439ee731a848b)
+- [ ] [<code>Release Incus 6.2</code>](https://github.com/lxc/incus/commit/ad7d8b847ed646edf0bf8014d3bc49a5f11cecf9)
+  - <sub>Tags: <code>v6.2.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1787,6 +1799,7 @@
 - [ ] [<code>Update dav1d to 1.4.2</code>](https://github.com/AOMediaCodec/libavif/commit/96bf9e579239082d2d7e3f714a0ec799d101f9bf)
 - [ ] [<code>Update AVM to research-v7.0.1</code>](https://github.com/AOMediaCodec/libavif/commit/646a1a891f5e58750a198b7ce182a86f27988d6e)
 - [ ] [<code>read.c: Treat version 1 as version 0 for stsd box</code>](https://github.com/AOMediaCodec/libavif/commit/7886afe82ee6eb1992968003eff4cf6ca48b5e82)
+- [ ] [<code>Use composite actions (#2166)</code>](https://github.com/AOMediaCodec/libavif/commit/3689cfbf23668bc400783e105bd1e15b458d73da)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
