@@ -422,6 +422,8 @@
 - [ ] [<code>refactor: Calc avatar font size by avatar size</code>](https://github.com/krille-chan/fluffychat/commit/bd5dc8405d930110be826cb1b9eaa4c427332052)
 - [ ] [<code>Merge pull request #1147 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/ddce338b3a706d1e00fc755e914b76caa8511928)
   - <sub>Tags: <code>rc1.21.0-2</code></sub>
+- [ ] [<code>Merge pull request #1150 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/fd084d9ed3d6206881a94197efc7c2957676ce8f)
+  - <sub>Tags: <code>v1.21.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -517,6 +519,8 @@
 - [ ] [<code>refactor: Calc avatar font size by avatar size</code>](https://github.com/krille-chan/fluffychat/commit/bd5dc8405d930110be826cb1b9eaa4c427332052)
 - [ ] [<code>Merge pull request #1147 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/ddce338b3a706d1e00fc755e914b76caa8511928)
   - <sub>Tags: <code>rc1.21.0-2</code></sub>
+- [ ] [<code>Merge pull request #1150 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/fd084d9ed3d6206881a94197efc7c2957676ce8f)
+  - <sub>Tags: <code>v1.21.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
