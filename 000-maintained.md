@@ -1801,6 +1801,7 @@
 - [ ] [<code>read.c: Treat version 1 as version 0 for stsd box</code>](https://github.com/AOMediaCodec/libavif/commit/7886afe82ee6eb1992968003eff4cf6ca48b5e82)
 - [ ] [<code>Use composite actions (#2166)</code>](https://github.com/AOMediaCodec/libavif/commit/3689cfbf23668bc400783e105bd1e15b458d73da)
 - [ ] [<code>Remove duplicate $. (#2184)</code>](https://github.com/AOMediaCodec/libavif/commit/85b1d2fc34b275d8c219e85c14d940e97a967f62)
+- [ ] [<code>Add missing extra cache key for Linux sanitized.</code>](https://github.com/AOMediaCodec/libavif/commit/59c1d751f27414703537b9a1bb64e9ee7a1e84ad)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
