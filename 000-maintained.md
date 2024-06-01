@@ -138,6 +138,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update the link to the Rustup self-updating issue on Windows</code>](https://github.com/stepchowfun/docuum/commit/cb75cba514bd2cb39e96e1ae5c23fffdc9096917)
 - [ ] [<code>deps: bump libc from 0.2.147 to 0.2.155</code>](https://github.com/stepchowfun/docuum/commit/d85361ebe79068535923f4c0ad2a36827129ec6a)
+- [ ] [<code>Update GitHub Actions to use non-deprecated versions</code>](https://github.com/stepchowfun/docuum/commit/5231621e10af8728fa9f60154bf2f71bfcc98b37)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -713,6 +714,8 @@
 - [ ] [<code>incusd/device/sriov: Line up code with comment</code>](https://github.com/lxc/incus/commit/3bfa9940983b1122698cd71af33439ee731a848b)
 - [ ] [<code>Release Incus 6.2</code>](https://github.com/lxc/incus/commit/ad7d8b847ed646edf0bf8014d3bc49a5f11cecf9)
   - <sub>Tags: <code>v6.2.0</code></sub>
+- [ ] [<code>incus/project: Fix bad --show-access output</code>](https://github.com/lxc/incus/commit/a6b2fd32eae45ccb4ee4cc002ff66d6c30aeacab)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1125,6 +1128,8 @@
 - [ ] [<code>incusd/device/sriov: Line up code with comment</code>](https://github.com/lxc/incus/commit/3bfa9940983b1122698cd71af33439ee731a848b)
 - [ ] [<code>Release Incus 6.2</code>](https://github.com/lxc/incus/commit/ad7d8b847ed646edf0bf8014d3bc49a5f11cecf9)
   - <sub>Tags: <code>v6.2.0</code></sub>
+- [ ] [<code>incus/project: Fix bad --show-access output</code>](https://github.com/lxc/incus/commit/a6b2fd32eae45ccb4ee4cc002ff66d6c30aeacab)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1802,6 +1807,7 @@
 - [ ] [<code>Use composite actions (#2166)</code>](https://github.com/AOMediaCodec/libavif/commit/3689cfbf23668bc400783e105bd1e15b458d73da)
 - [ ] [<code>Remove duplicate $. (#2184)</code>](https://github.com/AOMediaCodec/libavif/commit/85b1d2fc34b275d8c219e85c14d940e97a967f62)
 - [ ] [<code>Add missing extra cache key for Linux sanitized.</code>](https://github.com/AOMediaCodec/libavif/commit/59c1d751f27414703537b9a1bb64e9ee7a1e84ad)
+- [ ] [<code>Bump the github-actions group with 5 updates (#2187)</code>](https://github.com/AOMediaCodec/libavif/commit/f95d7f474d8d84bb12a5a10b3876c7ac2b99f69a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
