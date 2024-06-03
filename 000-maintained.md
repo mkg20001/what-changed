@@ -1674,6 +1674,10 @@
 - [ ] [<code>Add missing extra cache key for Linux sanitized.</code>](https://github.com/AOMediaCodec/libavif/commit/59c1d751f27414703537b9a1bb64e9ee7a1e84ad)
 - [ ] [<code>Bump the github-actions group with 5 updates (#2187)</code>](https://github.com/AOMediaCodec/libavif/commit/f95d7f474d8d84bb12a5a10b3876c7ac2b99f69a)
 - [ ] [<code>Add a comment for libpng upgrade (#2183)</code>](https://github.com/AOMediaCodec/libavif/commit/06d01a349f1726755c81b0ff05e3c8ebf0747a18)
+- [ ] [<code>Bump libxml2, mp4box (#2182)</code>](https://github.com/AOMediaCodec/libavif/commit/98a232fa400f0c6241768b6231b3754db209df69)
+- [ ] [<code>Save the cargo cache every time. (#2188)</code>](https://github.com/AOMediaCodec/libavif/commit/d2b8f0b2a262c0a39b9ec0c6ae110fdb075c30a2)
+- [ ] [<code>Removed useless codec-rav1e argument. (#2189)</code>](https://github.com/AOMediaCodec/libavif/commit/1481683a4438abfbf96e6ce9d4368bdb988e3ec3)
+- [ ] [<code>read.c: Return avifResult from avifParseSampleTableBox</code>](https://github.com/AOMediaCodec/libavif/commit/e0e1916ddb9c65a2e13710f7bd9cb9c522453d73)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1765,6 +1769,7 @@
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.54.0</code>](https://github.com/canonical/lxd-ui/commit/0e4de773a518fe4ae6bc4104f9b2d71e099caa94)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat(permission) more detailed error message when user has no access to a project or the project is not found. fixes #783</code>](https://github.com/canonical/lxd-ui/commit/d1d2c30bafe3c0d1acbd80f885ca9ab7a45f1839)
+- [ ] [<code>fix(instance) optimize wire handling in graphic console from upstream</code>](https://github.com/canonical/lxd-ui/commit/302c08f0a29f355b93d305fda385febb67a16dca)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
