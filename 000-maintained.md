@@ -546,6 +546,23 @@
 - [ ] [<code>incus/project: Fix bad --show-access output</code>](https://github.com/lxc/incus/commit/a6b2fd32eae45ccb4ee4cc002ff66d6c30aeacab)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cmd/incus-user: Avoid double user-user- in network description</code>](https://github.com/lxc/incus/commit/2e9085648dacfdf2b368694c79bf883171e25d2d)
+- [ ] [<code>incus/admin_sql: Fix description</code>](https://github.com/lxc/incus/commit/2b8dceb35cfd425370eba4967af2161975848b16)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Fix string quoting</code>](https://github.com/lxc/incus/commit/b36a74444095d9560043685e9c6376dfd3dbf590)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/profile: Fix examples</code>](https://github.com/lxc/incus/commit/8b5c6418ac367dc1095bb50ede2638d97a0b29da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/project: Fix examples</code>](https://github.com/lxc/incus/commit/f4d12a555e577e1f73e148bb1d0f8694f3001874)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/snapshot: Improve restore example</code>](https://github.com/lxc/incus/commit/2904c6530605ac6f280d2207eee91a2c5365c1a8)
+- [ ] [<code>incus/storage_bucket: Fix typoes in examples</code>](https://github.com/lxc/incus/commit/6085c1f937f910e1bbaf70b840b8449fa84cabfd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Fix export example</code>](https://github.com/lxc/incus/commit/6529c9cc5032e96e39c16560358e7c54b2efec7b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/exec: Add some examples</code>](https://github.com/lxc/incus/commit/76bf6a180479594a34184aeb00fb32c3fea98314)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -961,6 +978,23 @@
 - [ ] [<code>incus/project: Fix bad --show-access output</code>](https://github.com/lxc/incus/commit/a6b2fd32eae45ccb4ee4cc002ff66d6c30aeacab)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cmd/incus-user: Avoid double user-user- in network description</code>](https://github.com/lxc/incus/commit/2e9085648dacfdf2b368694c79bf883171e25d2d)
+- [ ] [<code>incus/admin_sql: Fix description</code>](https://github.com/lxc/incus/commit/2b8dceb35cfd425370eba4967af2161975848b16)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Fix string quoting</code>](https://github.com/lxc/incus/commit/b36a74444095d9560043685e9c6376dfd3dbf590)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/profile: Fix examples</code>](https://github.com/lxc/incus/commit/8b5c6418ac367dc1095bb50ede2638d97a0b29da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/project: Fix examples</code>](https://github.com/lxc/incus/commit/f4d12a555e577e1f73e148bb1d0f8694f3001874)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/snapshot: Improve restore example</code>](https://github.com/lxc/incus/commit/2904c6530605ac6f280d2207eee91a2c5365c1a8)
+- [ ] [<code>incus/storage_bucket: Fix typoes in examples</code>](https://github.com/lxc/incus/commit/6085c1f937f910e1bbaf70b840b8449fa84cabfd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Fix export example</code>](https://github.com/lxc/incus/commit/6529c9cc5032e96e39c16560358e7c54b2efec7b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/exec: Add some examples</code>](https://github.com/lxc/incus/commit/76bf6a180479594a34184aeb00fb32c3fea98314)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1639,6 +1673,7 @@
 - [ ] [<code>Remove duplicate $. (#2184)</code>](https://github.com/AOMediaCodec/libavif/commit/85b1d2fc34b275d8c219e85c14d940e97a967f62)
 - [ ] [<code>Add missing extra cache key for Linux sanitized.</code>](https://github.com/AOMediaCodec/libavif/commit/59c1d751f27414703537b9a1bb64e9ee7a1e84ad)
 - [ ] [<code>Bump the github-actions group with 5 updates (#2187)</code>](https://github.com/AOMediaCodec/libavif/commit/f95d7f474d8d84bb12a5a10b3876c7ac2b99f69a)
+- [ ] [<code>Add a comment for libpng upgrade (#2183)</code>](https://github.com/AOMediaCodec/libavif/commit/06d01a349f1726755c81b0ff05e3c8ebf0747a18)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1729,6 +1764,7 @@
 - [ ] [<code>fix: fix readme-screenshots.spec.ts to properly skip tests in CI environment</code>](https://github.com/canonical/lxd-ui/commit/ebae265561513a0dd1a42802cc0d3807e5c635be)
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.54.0</code>](https://github.com/canonical/lxd-ui/commit/0e4de773a518fe4ae6bc4104f9b2d71e099caa94)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(permission) more detailed error message when user has no access to a project or the project is not found. fixes #783</code>](https://github.com/canonical/lxd-ui/commit/d1d2c30bafe3c0d1acbd80f885ca9ab7a45f1839)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2234,6 +2270,7 @@
 - [ ] [<code>networkd:apply: Drop handling of legacy wpa@ instance units</code>](https://github.com/canonical/netplan/commit/26d2591d771cb4343c06dbb1e0eb1f3587ec910d)
 - [ ] [<code>ctests: fix a memory leak in a unit test</code>](https://github.com/canonical/netplan/commit/9576774c1964bf66f09e1166909e3d5d1d3a1304)
 - [ ] [<code>nm/nd: fix a couple of crashes</code>](https://github.com/canonical/netplan/commit/49d1ad709ebce514a134dc12274e7dd1bde2c578)
+- [ ] [<code>migrate: support aliases</code>](https://github.com/canonical/netplan/commit/ebf38ec0571ac3fe128ff1cbc5c65133435d6aa1)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
