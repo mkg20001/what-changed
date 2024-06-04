@@ -127,8 +127,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sound@cinnamon.org: Prevent Muffin from creating sound streams in volume mixer in sound applet</code>](https://github.com/linuxmint/cinnamon/commit/6420262e28f78823c97d480f7595c7240808a9d4)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Merge pull request #12218 from rlatosky/sound-applet-muffin-scroll-wheel-fix</code>](https://github.com/linuxmint/cinnamon/commit/7b56fbca42085d1ec385599ebe63d7a502cf58c8)
+- [ ] [<code>cinnamon-app-system.c: Don't remove an app from running_apps until</code>](https://github.com/linuxmint/cinnamon/commit/647261feebdea7eb61c26512001e4609fef15e41)
+- [ ] [<code>userWidget: Simplify a bit (#12221)</code>](https://github.com/linuxmint/cinnamon/commit/0d2a1ed4e23303db01dd35a93345a5e219f8f7b1)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -208,6 +210,9 @@
 
 - [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/cjs/commit/3ca108511ec6b6e436592180fcb167a39b6031d6)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint21</code> <code>master.mint22</code></sub>
+- [ ] [<code>Port to mozjs115 (#122)</code>](https://github.com/linuxmint/cjs/commit/f99dbea9cd7be98b70446d65315774e2ff0bd483)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [18102c72ba072cd83ccee69e9051e87e93cab01a → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/18102c72ba072cd83ccee69e9051e87e93cab01a...HEAD)
 
@@ -237,6 +242,7 @@
 
 #### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
 
+- [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly</code>](https://github.com/linuxmint/mint-l-theme/commit/f5cdf4c4c5b2fb514e5604f5021893ba0e20aa64)
 
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.6...HEAD)
 
@@ -410,6 +416,12 @@
 - [ ] [<code>nemo-view.c & nemo-window-menus.c: Add support for terminals with whitespace in the exec (#3379)</code>](https://github.com/linuxmint/nemo/commit/37571e9ec74ffd45a1092d5561fc6b70ab4784fa)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fix confusing NEMO_LIST_ICON_SIZE_ definitions (#3407)</code>](https://github.com/linuxmint/nemo/commit/4e7196b4f5e0cec9a6dcf34b3b4645da9fae2386)
+- [ ] [<code>nemo-view.c: Use an actual timeout duration when updating the</code>](https://github.com/linuxmint/nemo/commit/958472edb4fa6b144a729a941b5937938ef40477)
+- [ ] [<code>nemo-desktop-main.c: Add missing include.</code>](https://github.com/linuxmint/nemo/commit/5a275f13457cc7839adf35f948531463dcad336c)
+- [ ] [<code>eel-gnome-extensions.c: Support whitespace in execution commands (#3413)</code>](https://github.com/linuxmint/nemo/commit/88ec5d267eb32bbb98adeffe06f26ebeca721c4c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Update makepot, fix some strings in the layout editor.</code>](https://github.com/linuxmint/nemo/commit/1e0e286033810171cdaaf10a49d28ddf958f5b91)
+- [ ] [<code>nemo-config-base-widget.c: Accommodate wider enable/disable</code>](https://github.com/linuxmint/nemo/commit/c0e93a401154664895e2c43d668b8a63b0776a99)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -438,11 +450,13 @@
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>debian/control: Add libjxl-dev for build.</code>](https://github.com/linuxmint/pix/commit/09cd8ad9a856276d4a72de4f3e6968e1cafb212e)
 - [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/pix/commit/bb7c281443621ad2aec970548615a68ac96e6ff3)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Switch to libwebkit2gtk-4.1</code>](https://github.com/linuxmint/pix/commit/14682f6249b3b0be351b6b06474512c80bd39dba)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/pix/commit/fd8be7490af2218c0f0709abd0277cd27cc726f9)
+  - <sub>Tags: <code>3.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
@@ -487,7 +501,9 @@
 - [ ] [<code>gsettings: Fix a default value.</code>](https://github.com/linuxmint/xapp/commit/95c24d900f795a37614b893107a490dff2007c19)
 - [ ] [<code>Remove accent-rgb setting</code>](https://github.com/linuxmint/xapp/commit/6b6e78de8d57f86bd81e29be995d677415b23938)
 - [ ] [<code>xapp-icon-chooser-dialog.c: Fix mimetype test for browsed images.</code>](https://github.com/linuxmint/xapp/commit/85310bff461d260fe89586f001d01d3eabb720e2)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.8.3</code>](https://github.com/linuxmint/xapp/commit/9dc36283ae556d30a70ae6c646b446a83d63c7a7)
+  - <sub>Tags: <code>2.8.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
 
