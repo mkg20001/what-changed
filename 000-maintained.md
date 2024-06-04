@@ -570,6 +570,11 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus/top: Handle clusters</code>](https://github.com/lxc/incus/commit/00f207e084c767862f412b8ec3176458b449698f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Avoid endianness issues with vsockIDInt</code>](https://github.com/lxc/incus/commit/753f1b202231086ec3f1f391af41277bc79bdcad)
+- [ ] [<code>internal/linux: Define some IOCTLs</code>](https://github.com/lxc/incus/commit/4220910b7fbabbdf836fa10f3a300d6959217806)
+- [ ] [<code>incusd/instance/qemu: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/f3f18d80e8f037754f2eb3658b6394aec013bda9)
+- [ ] [<code>incusd/storage/btrfs: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/58d21750f64965415af8ceb526f9b2b0e5cce04e)
+- [ ] [<code>incusd/devices: Simplify ioctl logic</code>](https://github.com/lxc/incus/commit/870014c4f2d7bc4748fc1adf1defa1cc61c4e310)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1009,6 +1014,11 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus/top: Handle clusters</code>](https://github.com/lxc/incus/commit/00f207e084c767862f412b8ec3176458b449698f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Avoid endianness issues with vsockIDInt</code>](https://github.com/lxc/incus/commit/753f1b202231086ec3f1f391af41277bc79bdcad)
+- [ ] [<code>internal/linux: Define some IOCTLs</code>](https://github.com/lxc/incus/commit/4220910b7fbabbdf836fa10f3a300d6959217806)
+- [ ] [<code>incusd/instance/qemu: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/f3f18d80e8f037754f2eb3658b6394aec013bda9)
+- [ ] [<code>incusd/storage/btrfs: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/58d21750f64965415af8ceb526f9b2b0e5cce04e)
+- [ ] [<code>incusd/devices: Simplify ioctl logic</code>](https://github.com/lxc/incus/commit/870014c4f2d7bc4748fc1adf1defa1cc61c4e310)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1694,6 +1704,7 @@
 - [ ] [<code>read.c: Return avifResult from avifParseSampleTableBox</code>](https://github.com/AOMediaCodec/libavif/commit/e0e1916ddb9c65a2e13710f7bd9cb9c522453d73)
 - [ ] [<code>Add avifRange ranges in avif.h (#2120)</code>](https://github.com/AOMediaCodec/libavif/commit/7b80b01d4cb00bd6d7a4322155ad75447d8fe30d)
 - [ ] [<code>Bump zlib to 1.3.1 (#2192)</code>](https://github.com/AOMediaCodec/libavif/commit/221cba190c5a1b8f47795501891aad0db862add1)
+- [ ] [<code>Revert "Update dav1d to 1.4.2"</code>](https://github.com/AOMediaCodec/libavif/commit/112a121805bba64e93ef819922c6039da3d04bb1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1715,6 +1726,8 @@
 - [ ] [<code>lxc-local: fix use of `LXC_PATH` before init</code>](https://github.com/lxc/lxc/commit/d7f2a52fd37f28259642c75c29de652d83c881de)
 - [ ] [<code>lxc-local: fix incorrect path to `templates` file</code>](https://github.com/lxc/lxc/commit/d740a3423888606bb655aac3ceccba5cb26a3a9e)
 - [ ] [<code>lxc-local: remove check for template existence before extraction</code>](https://github.com/lxc/lxc/commit/63168bcf424ebd12b063968445ddadd8bbd6b87a)
+- [ ] [<code>apparmor: fix rule path pattern specification syntax</code>](https://github.com/lxc/lxc/commit/9c492b079434786a9204e1941a2c9d57a9c37613)
+- [ ] [<code>apparmor: regenerate rules</code>](https://github.com/lxc/lxc/commit/083678be2ba07ffcf42a9a59d08b2124d5f07dcf)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -1786,6 +1799,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat(permission) more detailed error message when user has no access to a project or the project is not found. fixes #783</code>](https://github.com/canonical/lxd-ui/commit/d1d2c30bafe3c0d1acbd80f885ca9ab7a45f1839)
 - [ ] [<code>fix(instance) optimize wire handling in graphic console from upstream</code>](https://github.com/canonical/lxd-ui/commit/302c08f0a29f355b93d305fda385febb67a16dca)
+- [ ] [<code>Indicate logged-in-user-email in Navigation bar.</code>](https://github.com/canonical/lxd-ui/commit/51980290b403a7f3e1a683ae58a6d3367c6593b5)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2524,6 +2538,8 @@
 - [ ] [<code>Misc fixes and new features</code>](https://github.com/axcore/tartube/commit/94a70d5e921a63bf884f0716d17a40ddd6b0a7f0)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix broken spinbutton in Custom DL edit window</code>](https://github.com/axcore/tartube/commit/5d2ccfe6a72146c4c64c56616ff534bb32528ca7)
+- [ ] [<code>Fix can't set ytdl path in strict mode, #633</code>](https://github.com/axcore/tartube/commit/adaed3fe4758d85bd489f3f7d2bab14317df1b06)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2597,4 +2613,6 @@
 - [ ] [<code>settings: Remove accent-color, and cleanup other unused code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/75aa9c996c7ecc9eb72190b361aa1d6542f3b4ca)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>debian/rules: Fix build type.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/48546472b6932c0d68092567ddd307feeb2ac84a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.0.5</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/1b0b380aa7044bd68061fde38640ab533c9d2c4f)
+  - <sub>Tags: <code>1.0.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
