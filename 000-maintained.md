@@ -563,6 +563,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-user: Don't needlessly update the default profile</code>](https://github.com/lxc/incus/commit/d6efc8c729aa8b0a9bc7bc67d7b4c335ae105638)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -995,6 +996,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-user: Don't needlessly update the default profile</code>](https://github.com/lxc/incus/commit/d6efc8c729aa8b0a9bc7bc67d7b4c335ae105638)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
