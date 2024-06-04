@@ -564,6 +564,12 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus-user: Don't needlessly update the default profile</code>](https://github.com/lxc/incus/commit/d6efc8c729aa8b0a9bc7bc67d7b4c335ae105638)
+- [ ] [<code>incus/top: Support remote servers</code>](https://github.com/lxc/incus/commit/c99882c9ca4416d854fa1e608c1b150657bb20dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/top: Properly handle projects</code>](https://github.com/lxc/incus/commit/d9c2ea713c6a7bde0688fad7cd56a28cd25d2fde)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/top: Handle clusters</code>](https://github.com/lxc/incus/commit/00f207e084c767862f412b8ec3176458b449698f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -997,6 +1003,12 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus-user: Don't needlessly update the default profile</code>](https://github.com/lxc/incus/commit/d6efc8c729aa8b0a9bc7bc67d7b4c335ae105638)
+- [ ] [<code>incus/top: Support remote servers</code>](https://github.com/lxc/incus/commit/c99882c9ca4416d854fa1e608c1b150657bb20dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/top: Properly handle projects</code>](https://github.com/lxc/incus/commit/d9c2ea713c6a7bde0688fad7cd56a28cd25d2fde)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/top: Handle clusters</code>](https://github.com/lxc/incus/commit/00f207e084c767862f412b8ec3176458b449698f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1680,6 +1692,8 @@
 - [ ] [<code>Save the cargo cache every time. (#2188)</code>](https://github.com/AOMediaCodec/libavif/commit/d2b8f0b2a262c0a39b9ec0c6ae110fdb075c30a2)
 - [ ] [<code>Removed useless codec-rav1e argument. (#2189)</code>](https://github.com/AOMediaCodec/libavif/commit/1481683a4438abfbf96e6ce9d4368bdb988e3ec3)
 - [ ] [<code>read.c: Return avifResult from avifParseSampleTableBox</code>](https://github.com/AOMediaCodec/libavif/commit/e0e1916ddb9c65a2e13710f7bd9cb9c522453d73)
+- [ ] [<code>Add avifRange ranges in avif.h (#2120)</code>](https://github.com/AOMediaCodec/libavif/commit/7b80b01d4cb00bd6d7a4322155ad75447d8fe30d)
+- [ ] [<code>Bump zlib to 1.3.1 (#2192)</code>](https://github.com/AOMediaCodec/libavif/commit/221cba190c5a1b8f47795501891aad0db862add1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2496,6 +2510,10 @@
 - [ ] [<code>Bump typescript-eslint from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9f5360779685e31d2ecff7211d89f94347f5b6b)
 - [ ] [<code>Add erasure status to users (#294)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fac09cb9bbc9b0a5fb594628eca9c72b1309862b)
 - [ ] [<code>Add locked status to users (#413)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b5ca951b323b4eeb3d6b901980264aca86c0050e)
+- [ ] [<code>Set relative base path in vite.config.ts (#536)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/002b63acadc1a6f3bfbf188d9a2f1f86a91f7ffa)
+- [ ] [<code>Bump vite from 5.2.9 to 5.2.12 (#545)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/882fe264b2fbc34ed9258f400c23d5b39bfb4042)
+- [ ] [<code>Bump softprops/action-gh-release from 2.0.4 to 2.0.5 (#530)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/38057de5c8a73ffb065497f2a3a6c52bfadcf262)
+- [ ] [<code>Bump @types/node from 20.12.7 to 20.14.0 (#547)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e21e44362c879ac41f47c580b04210842b6ff3d7)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
