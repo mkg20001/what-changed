@@ -422,6 +422,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Update makepot, fix some strings in the layout editor.</code>](https://github.com/linuxmint/nemo/commit/1e0e286033810171cdaaf10a49d28ddf958f5b91)
 - [ ] [<code>nemo-config-base-widget.c: Accommodate wider enable/disable</code>](https://github.com/linuxmint/nemo/commit/c0e93a401154664895e2c43d668b8a63b0776a99)
+- [ ] [<code>Update README.md with details about history and features. (#3390)</code>](https://github.com/linuxmint/nemo/commit/f0c0d4818b98d781e0e2da31de68301dc81ca76a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
