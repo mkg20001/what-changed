@@ -129,8 +129,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-app-system.c: Don't remove an app from running_apps until</code>](https://github.com/linuxmint/cinnamon/commit/647261feebdea7eb61c26512001e4609fef15e41)
 - [ ] [<code>userWidget: Simplify a bit (#12221)</code>](https://github.com/linuxmint/cinnamon/commit/0d2a1ed4e23303db01dd35a93345a5e219f8f7b1)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Embed nemo's layout editor into cinnamon-settings' Actions module.</code>](https://github.com/linuxmint/cinnamon/commit/fee5a3258493ebf286a6cf3177e9628de736f6a0)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
@@ -423,6 +425,10 @@
 - [ ] [<code>Update makepot, fix some strings in the layout editor.</code>](https://github.com/linuxmint/nemo/commit/1e0e286033810171cdaaf10a49d28ddf958f5b91)
 - [ ] [<code>nemo-config-base-widget.c: Accommodate wider enable/disable</code>](https://github.com/linuxmint/nemo/commit/c0e93a401154664895e2c43d668b8a63b0776a99)
 - [ ] [<code>Update README.md with details about history and features. (#3390)</code>](https://github.com/linuxmint/nemo/commit/f0c0d4818b98d781e0e2da31de68301dc81ca76a)
+- [ ] [<code>nemo-action-layout-editor: Refactor to allow importing the editor</code>](https://github.com/linuxmint/nemo/commit/33a6a3a0b72f42542a6fb0352ae264b703d08ee8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/nemo/commit/1da17bacf66b7385389416b99199b97198b2f994)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -511,7 +517,9 @@
 - [ ] [<code>epub: Fix an incorrect sizeof call detected by AddressSanitizer (#635)</code>](https://github.com/linuxmint/xreader/commit/1cde19228e6f46a9c0994566a941d9b63df9b68b)
   - <sub>Tags: <code>master.mint21</code></sub>
 - [ ] [<code>pdf backend: Ignore FullScreen PageMode catalog entry (#633)</code>](https://github.com/linuxmint/xreader/commit/5407f93d9328de7545537fbb9aa6a2d459e0b990)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>4.2.0</code>](https://github.com/linuxmint/xreader/commit/ce89025fa3012090317d65caa0f7d3cfa03f3049)
+  - <sub>Tags: <code>4.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
 
