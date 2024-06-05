@@ -1705,6 +1705,7 @@
 - [ ] [<code>Add avifRange ranges in avif.h (#2120)</code>](https://github.com/AOMediaCodec/libavif/commit/7b80b01d4cb00bd6d7a4322155ad75447d8fe30d)
 - [ ] [<code>Bump zlib to 1.3.1 (#2192)</code>](https://github.com/AOMediaCodec/libavif/commit/221cba190c5a1b8f47795501891aad0db862add1)
 - [ ] [<code>Revert "Update dav1d to 1.4.2"</code>](https://github.com/AOMediaCodec/libavif/commit/112a121805bba64e93ef819922c6039da3d04bb1)
+- [ ] [<code>bash style changes (#2193)</code>](https://github.com/AOMediaCodec/libavif/commit/7fbc20cbfd8d92149bd33b7f03a8646fce48f999)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1728,6 +1729,8 @@
 - [ ] [<code>lxc-local: remove check for template existence before extraction</code>](https://github.com/lxc/lxc/commit/63168bcf424ebd12b063968445ddadd8bbd6b87a)
 - [ ] [<code>apparmor: fix rule path pattern specification syntax</code>](https://github.com/lxc/lxc/commit/9c492b079434786a9204e1941a2c9d57a9c37613)
 - [ ] [<code>apparmor: regenerate rules</code>](https://github.com/lxc/lxc/commit/083678be2ba07ffcf42a9a59d08b2124d5f07dcf)
+- [ ] [<code>apparmor: use /{,**} instead of /**</code>](https://github.com/lxc/lxc/commit/32f88c8fecaa1f909d0aeb5ff3132932138fe692)
+- [ ] [<code>apparmor: regenerate rules</code>](https://github.com/lxc/lxc/commit/d29f72e377568204d9849d38d67a19e4476b3f0e)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -1800,6 +1803,8 @@
 - [ ] [<code>feat(permission) more detailed error message when user has no access to a project or the project is not found. fixes #783</code>](https://github.com/canonical/lxd-ui/commit/d1d2c30bafe3c0d1acbd80f885ca9ab7a45f1839)
 - [ ] [<code>fix(instance) optimize wire handling in graphic console from upstream</code>](https://github.com/canonical/lxd-ui/commit/302c08f0a29f355b93d305fda385febb67a16dca)
 - [ ] [<code>Indicate logged-in-user-email in Navigation bar.</code>](https://github.com/canonical/lxd-ui/commit/51980290b403a7f3e1a683ae58a6d3367c6593b5)
+- [ ] [<code>Implementation of LXD PWA with a dynamic start_url"</code>](https://github.com/canonical/lxd-ui/commit/0e5e9347c4fa6672249d05e5882374601e922b43)
+- [ ] [<code>fix(docs) use doc link titles as link text in case they are available from the object.inv.txt content</code>](https://github.com/canonical/lxd-ui/commit/29c9a3ec9b56f82e7bf3973309973dc500106ebd)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2464,8 +2469,23 @@
 > Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [refs/tags/master.mint22 → HEAD](https://github.com/linuxmint/python-xapp/compare/refs/tags/master.mint22...HEAD)
+#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.1...HEAD)
 
+- [ ] [<code>os.py: Add function to read the VERSION_CODENAME in /etc/os-release.</code>](https://github.com/linuxmint/python-xapp/commit/1f94a501c779e01203461462eb562ec0d99ac515)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>os.py: rename get_os_release_codename() to get_os_release_info()</code>](https://github.com/linuxmint/python-xapp/commit/6d9d0e13a0b8f851e9cfd61b04617bb06e5b0949)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "os.py: rename get_os_release_codename() to get_os_release_info()"</code>](https://github.com/linuxmint/python-xapp/commit/3a35853c173a6b2dbef150d5c06f4470d0ce927e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "os.py: Add function to read the VERSION_CODENAME in /etc/os-release."</code>](https://github.com/linuxmint/python-xapp/commit/c2e254963009ecd7e33408ad7feb10b9f0cc4302)
+  - <sub>Tags: <code>master.lmde5</code></sub>
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Make python installation configurable for distro packaging. (#23)</code>](https://github.com/linuxmint/python-xapp/commit/edbe9206f19b0f6bd37286173ebd93424360c05b)
+  - <sub>Tags: <code>master.mint21</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>2.4.2</code>](https://github.com/linuxmint/python-xapp/commit/e97e119d483b849bd833d7900f76c4ee20af2838)
+  - <sub>Tags: <code>2.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
