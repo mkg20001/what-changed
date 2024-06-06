@@ -105,6 +105,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>distrobuilder: Remove LXD support</code>](https://github.com/lxc/distrobuilder/commit/40ea40fe2e1c1358183ad830023f6b9ac5dc330c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/602d9d08afbe4d0072fb54f2b0c386aac944f82a)
+- [ ] [<code>gomod: Remove excludes</code>](https://github.com/lxc/distrobuilder/commit/7af632cd32879685a3143d994ea123ec6bb19c13)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
 
@@ -1762,6 +1764,9 @@
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
+- [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>lxcfs/bindings: add a flag for overriding the runtime dir</code>](https://github.com/lxc/lxcfs/commit/5c42da9c19f1cde165b47cb7df5e58c588db47b6)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -1832,6 +1837,9 @@
 - [ ] [<code>Indicate logged-in-user-email in Navigation bar.</code>](https://github.com/canonical/lxd-ui/commit/51980290b403a7f3e1a683ae58a6d3367c6593b5)
 - [ ] [<code>Implementation of LXD PWA with a dynamic start_url"</code>](https://github.com/canonical/lxd-ui/commit/0e5e9347c4fa6672249d05e5882374601e922b43)
 - [ ] [<code>fix(docs) use doc link titles as link text in case they are available from the object.inv.txt content</code>](https://github.com/canonical/lxd-ui/commit/29c9a3ec9b56f82e7bf3973309973dc500106ebd)
+- [ ] [<code>chore(deps): update internal dependencies</code>](https://github.com/canonical/lxd-ui/commit/660cea8620867cfd8ca39d6f91c6ba82ccb0f27b)
+- [ ] [<code>feat: Added 2 storage e2e test to increase coverage.</code>](https://github.com/canonical/lxd-ui/commit/8216054b97b38e94ba7ebcecea1c97ab8ddb2f79)
+- [ ] [<code>Feat: Improving tests by using text assertion</code>](https://github.com/canonical/lxd-ui/commit/129c7a1416a5e2208995ef7d76d8c9fc57136f3d)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2340,6 +2348,8 @@
 - [ ] [<code>migrate: support aliases</code>](https://github.com/canonical/netplan/commit/ebf38ec0571ac3fe128ff1cbc5c65133435d6aa1)
 - [ ] [<code>added guide for contributing to the netplan documentation (#457)</code>](https://github.com/canonical/netplan/commit/1e1d80c6873f39e10bd647fc3b87a71d39fa1ddc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(networkd): add ipv6 ra overrides (LP: #1973222) (#461)</code>](https://github.com/canonical/netplan/commit/44b2a5c21da49d89abb42c25c275ba255b5f36df)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
