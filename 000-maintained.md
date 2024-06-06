@@ -575,6 +575,18 @@
 - [ ] [<code>incusd/instance/qemu: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/f3f18d80e8f037754f2eb3658b6394aec013bda9)
 - [ ] [<code>incusd/storage/btrfs: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/58d21750f64965415af8ceb526f9b2b0e5cce04e)
 - [ ] [<code>incusd/devices: Simplify ioctl logic</code>](https://github.com/lxc/incus/commit/870014c4f2d7bc4748fc1adf1defa1cc61c4e310)
+- [ ] [<code>shared/cliconfig: Remove old migration logic</code>](https://github.com/lxc/incus/commit/00089be93c011e07ee6a896dcae8190c2b959f37)
+- [ ] [<code>shared/cliconfig: Generalize logic</code>](https://github.com/lxc/incus/commit/6518c164a668c50bffe7222fdde1afe28deb976e)
+- [ ] [<code>incusd/seccomp: Fix sysinfo logic on 32bit platforms</code>](https://github.com/lxc/incus/commit/f11c0b04f2e90a19e900ca077e21edf02c589db2)
+- [ ] [<code>shared/cliconfig: Always fill in the protocol</code>](https://github.com/lxc/incus/commit/d4fa1b228ebfb534c484d586b7df0abf4306705f)
+- [ ] [<code>incus: Generalize image server logic</code>](https://github.com/lxc/incus/commit/507c0c9a30d1a62c2e43a701974390932787429e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/console: Re-shuffle logic a bit</code>](https://github.com/lxc/incus/commit/b53278935572393fad887191a765ef4a7df7d8b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Handle stopped containers in --console</code>](https://github.com/lxc/incus/commit/2c78a5e29654280d6bf5bd128ef034d2407821cd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1019,6 +1031,18 @@
 - [ ] [<code>incusd/instance/qemu: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/f3f18d80e8f037754f2eb3658b6394aec013bda9)
 - [ ] [<code>incusd/storage/btrfs: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/58d21750f64965415af8ceb526f9b2b0e5cce04e)
 - [ ] [<code>incusd/devices: Simplify ioctl logic</code>](https://github.com/lxc/incus/commit/870014c4f2d7bc4748fc1adf1defa1cc61c4e310)
+- [ ] [<code>shared/cliconfig: Remove old migration logic</code>](https://github.com/lxc/incus/commit/00089be93c011e07ee6a896dcae8190c2b959f37)
+- [ ] [<code>shared/cliconfig: Generalize logic</code>](https://github.com/lxc/incus/commit/6518c164a668c50bffe7222fdde1afe28deb976e)
+- [ ] [<code>incusd/seccomp: Fix sysinfo logic on 32bit platforms</code>](https://github.com/lxc/incus/commit/f11c0b04f2e90a19e900ca077e21edf02c589db2)
+- [ ] [<code>shared/cliconfig: Always fill in the protocol</code>](https://github.com/lxc/incus/commit/d4fa1b228ebfb534c484d586b7df0abf4306705f)
+- [ ] [<code>incus: Generalize image server logic</code>](https://github.com/lxc/incus/commit/507c0c9a30d1a62c2e43a701974390932787429e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/console: Re-shuffle logic a bit</code>](https://github.com/lxc/incus/commit/b53278935572393fad887191a765ef4a7df7d8b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Handle stopped containers in --console</code>](https://github.com/lxc/incus/commit/2c78a5e29654280d6bf5bd128ef034d2407821cd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
