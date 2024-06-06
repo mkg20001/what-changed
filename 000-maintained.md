@@ -316,9 +316,12 @@
 - [ ] [<code>Add CI job for building against latest SQLite, libuv</code>](https://github.com/canonical/dqlite/commit/78ea7ac60de0b0ea9229b30315fbcc046407a906)
 - [ ] [<code>Test latest liblz4 too</code>](https://github.com/canonical/dqlite/commit/07b586f89ec39df4d2a8ccdb85a45bfc700f4de6)
 - [ ] [<code>github: Only capture coverage on Jammy</code>](https://github.com/canonical/dqlite/commit/2b2982d2a4b07f663de746ad0569188a8f121d2f)
+- [ ] [<code>Snapshot installation DLD added, WIP</code>](https://github.com/canonical/dqlite/commit/a1ca247ab1193f42d61d608f530bb8d02117d8c1)
 - [ ] [<code>raft: Add local_data and is_local to raft_entry</code>](https://github.com/canonical/dqlite/commit/b07cfe1f0718d752975bf32b2ca3960f56251093)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>raft: Add a note about ABI</code>](https://github.com/canonical/dqlite/commit/960b9e21a1e161494d79024440dead1b6c0689de)
+- [ ] [<code>update DLD to latest design</code>](https://github.com/canonical/dqlite/commit/786b9b06d05b2dcc3bc8cfe1407f0065b17bdaa9)
+- [ ] [<code>address Anatoliy's comments</code>](https://github.com/canonical/dqlite/commit/6633bd83a2cf2c99805d1acbcbf9224d6485dd5d)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2335,6 +2338,8 @@
 - [ ] [<code>ctests: fix a memory leak in a unit test</code>](https://github.com/canonical/netplan/commit/9576774c1964bf66f09e1166909e3d5d1d3a1304)
 - [ ] [<code>nm/nd: fix a couple of crashes</code>](https://github.com/canonical/netplan/commit/49d1ad709ebce514a134dc12274e7dd1bde2c578)
 - [ ] [<code>migrate: support aliases</code>](https://github.com/canonical/netplan/commit/ebf38ec0571ac3fe128ff1cbc5c65133435d6aa1)
+- [ ] [<code>added guide for contributing to the netplan documentation (#457)</code>](https://github.com/canonical/netplan/commit/1e1d80c6873f39e10bd647fc3b87a71d39fa1ddc)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
