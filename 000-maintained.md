@@ -429,6 +429,8 @@
   - <sub>Tags: <code>rc1.21.0-2</code></sub>
 - [ ] [<code>Merge pull request #1150 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/fd084d9ed3d6206881a94197efc7c2957676ce8f)
   - <sub>Tags: <code>v1.21.0</code></sub>
+- [ ] [<code>fix: Auto unlock lock screen</code>](https://github.com/krille-chan/fluffychat/commit/cdf2b14f30d4eb65f510aa11947a1ae4fe98e37c)
+- [ ] [<code>build: Update to Flutter 3.22.2</code>](https://github.com/krille-chan/fluffychat/commit/70ee24fa59ad6af41c151bdb6676d88e6b60ab33)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -526,6 +528,8 @@
   - <sub>Tags: <code>rc1.21.0-2</code></sub>
 - [ ] [<code>Merge pull request #1150 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/fd084d9ed3d6206881a94197efc7c2957676ce8f)
   - <sub>Tags: <code>v1.21.0</code></sub>
+- [ ] [<code>fix: Auto unlock lock screen</code>](https://github.com/krille-chan/fluffychat/commit/cdf2b14f30d4eb65f510aa11947a1ae4fe98e37c)
+- [ ] [<code>build: Update to Flutter 3.22.2</code>](https://github.com/krille-chan/fluffychat/commit/70ee24fa59ad6af41c151bdb6676d88e6b60ab33)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -592,6 +596,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: update documentation for forming cluster with existing server</code>](https://github.com/lxc/incus/commit/928018633c68df20999becbac87c6faa07c8de54)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1048,6 +1053,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: update documentation for forming cluster with existing server</code>](https://github.com/lxc/incus/commit/928018633c68df20999becbac87c6faa07c8de54)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1735,6 +1741,7 @@
 - [ ] [<code>Bump zlib to 1.3.1 (#2192)</code>](https://github.com/AOMediaCodec/libavif/commit/221cba190c5a1b8f47795501891aad0db862add1)
 - [ ] [<code>Revert "Update dav1d to 1.4.2"</code>](https://github.com/AOMediaCodec/libavif/commit/112a121805bba64e93ef819922c6039da3d04bb1)
 - [ ] [<code>bash style changes (#2193)</code>](https://github.com/AOMediaCodec/libavif/commit/7fbc20cbfd8d92149bd33b7f03a8646fce48f999)
+- [ ] [<code>Revert "GetSeedDataDirs: allow TEST_DATA_DIRS to be -D defined (#2162)" (#2196)</code>](https://github.com/AOMediaCodec/libavif/commit/e19debf01d4c13003452c402fb0faffe8b59fcf7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1767,6 +1774,10 @@
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxcfs/bindings: add a flag for overriding the runtime dir</code>](https://github.com/lxc/lxcfs/commit/5c42da9c19f1cde165b47cb7df5e58c588db47b6)
+- [ ] [<code>github: add lxcfs live upgrade compatibility test</code>](https://github.com/lxc/lxcfs/commit/e5a5c8c7a5953dbccce5aab3e860f9b13339869a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>github: update coverity test to use Ubuntu 22.04</code>](https://github.com/lxc/lxcfs/commit/fd35d40aef3546a19c60911cc7ad568971132e44)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2491,6 +2502,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: fix relative install/uninstall paths</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ffaccbded56d05d777bc14a96f290d3ac9ecd91e)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(web): masonry layout splits column mid-section</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe8a2d372b208cddefcf700f06950e98b9e8b576)
+- [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9c6474618c749185b207a6fdd4b851833dded7f0)
+- [ ] [<code>feat(web): export custom eq profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/304f311291ad9fa449993159272fffa2190931c4)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -2508,28 +2522,50 @@
 > Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.1...HEAD)
+#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-- [ ] [<code>os.py: Add function to read the VERSION_CODENAME in /etc/os-release.</code>](https://github.com/linuxmint/python-xapp/commit/1f94a501c779e01203461462eb562ec0d99ac515)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>os.py: rename get_os_release_codename() to get_os_release_info()</code>](https://github.com/linuxmint/python-xapp/commit/6d9d0e13a0b8f851e9cfd61b04617bb06e5b0949)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Revert "os.py: rename get_os_release_codename() to get_os_release_info()"</code>](https://github.com/linuxmint/python-xapp/commit/3a35853c173a6b2dbef150d5c06f4470d0ce927e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Revert "os.py: Add function to read the VERSION_CODENAME in /etc/os-release."</code>](https://github.com/linuxmint/python-xapp/commit/c2e254963009ecd7e33408ad7feb10b9f0cc4302)
-  - <sub>Tags: <code>master.lmde5</code></sub>
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>Make python installation configurable for distro packaging. (#23)</code>](https://github.com/linuxmint/python-xapp/commit/edbe9206f19b0f6bd37286173ebd93424360c05b)
-  - <sub>Tags: <code>master.mint21</code></sub>
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>2.4.2</code>](https://github.com/linuxmint/python-xapp/commit/e97e119d483b849bd833d7900f76c4ee20af2838)
-  - <sub>Tags: <code>2.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.35.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.2...HEAD)
 
+- [ ] [<code>Bugfix #360 - all Frequency Spinboxes: Added PgUp/Dn or CTRL + wheel Up/Down changes bands</code>](https://github.com/foldynl/QLog.git/commit/777b29da57f84b73253175f8c018edbd693d0804)
+- [ ] [<code>Bugfix #360 - Added shortcut to switch Bands - CTRL + PgUp/Dn</code>](https://github.com/foldynl/QLog.git/commit/10773ffce77b900f274c8dd73f208f49f192dc9d)
+- [ ] [<code>New Release started</code>](https://github.com/foldynl/QLog.git/commit/6ffb5094a5f450d36e7828d875caab911147f507)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/46172ac07fc19239132505f0f1074daeea30b7db)
+- [ ] [<code>WSJTX: Added support to received ADIF QSO Log record</code>](https://github.com/foldynl/QLog.git/commit/12ef0b084c005ccfc40de9c71bcf953bc9d0060a)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/fa5d8cbbe72786b494e6bad7a322677560075562)
+- [ ] [<code>Timezones: Updated database - 2024a</code>](https://github.com/foldynl/QLog.git/commit/8938ac9382d5857f6884a0c17b80c54152f9bacb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fixed #377 - Callbook query does not work</code>](https://github.com/foldynl/QLog.git/commit/d7bc821433445b1e43050f2d4b185e5f1abe1339)
+- [ ] [<code>WSJTX: Removed qsl_sent lotw_qsl_sent eqsl_qsl_sent from ADIF message</code>](https://github.com/foldynl/QLog.git/commit/5da54bb6ed0c2afbd58083537f32024335c086e1)
+- [ ] [<code>Fixed #374 - Added number of filtered QSOs</code>](https://github.com/foldynl/QLog.git/commit/940525271f0795bc6c080b303205d0316546846f)
+- [ ] [<code>Logbook: Changing the color of the filter combo when it is active</code>](https://github.com/foldynl/QLog.git/commit/b2c45da747fc91304f40227086fed9957ebe71f0)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/adc7a044de304bfef358103d64fdf7ef65bd9f2a)
+- [ ] [<code>Fixed #383 - Logbook columns are reordered after Delete</code>](https://github.com/foldynl/QLog.git/commit/2807d3efeee2b3c3a12faed672e9c650596aa982)
+- [ ] [<code>MacOS CI/CD: Added MacOS13</code>](https://github.com/foldynl/QLog.git/commit/a4d091051a9defe8e9561b79a25e5ed51180c626)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>NewContact: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/46451390f4f7fb6b87c77912d52f0f642629d11c)
+- [ ] [<code>NewContact: the last Prop Mode and Sat Name is saved for later usage</code>](https://github.com/foldynl/QLog.git/commit/0fcd3413b4e88efc87b80536da310cff04fb08f3)
+- [ ] [<code>NewContact: Sat mode is derived from RX/TX Freq</code>](https://github.com/foldynl/QLog.git/commit/71bd414c043179e505ca38327fa2b2e21bbde4b6)
+- [ ] [<code>Fixed #384 - Missing Republic of Kosovo flag</code>](https://github.com/foldynl/QLog.git/commit/1c3ef328f0ab7ebe0579bf30b9036c71f4bbe379)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e40c3c934b3fa08d3c40ab68232e6ee52b017274)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e1f4071d9ecc9af596dee7d606d24b1c27bc1042)
+- [ ] [<code>ADIF: Callsign import always upper</code>](https://github.com/foldynl/QLog.git/commit/eed4a4d173492ee160f46eec67b44f8252b9500a)
+- [ ] [<code>MacOS: Official supported ended - only for developers</code>](https://github.com/foldynl/QLog.git/commit/5ce6486854607dc5aff5d6bd3e1003869f0e1147)
+- [ ] [<code>QSODetail: Sat mode is verified against RX/TX Freq; Added Sat Name validation</code>](https://github.com/foldynl/QLog.git/commit/5520770e66287c74f8fb82c76efd02ad851c5646)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/59a7999d4a5ec7f0c8ad05591b228d00925c6666)
+- [ ] [<code>QSODetail: Improved a validation condition for SAT mode</code>](https://github.com/foldynl/QLog.git/commit/8e31600af103527a1fe3a17699dbcb54a65c8ca2)
+- [ ] [<code>NewContact: Addl SAT fields are present only if PROP_MODE is SAT; Added extended condition for SAT_MODE</code>](https://github.com/foldynl/QLog.git/commit/01926512d0c02feae2ae5ef56202f8421b1a8ee2)
+- [ ] [<code>NewContact: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/e72a6d1c9cdd6aff9bd3433218b4bf99d832745b)
+- [ ] [<code>NewContact: QSO Start Time is updated when the QSO is saving and the QSO Timer is inactive</code>](https://github.com/foldynl/QLog.git/commit/ae0667219a662d706692a7940645dbf57fb0614b)
+- [ ] [<code>Updated Czech/German translation</code>](https://github.com/foldynl/QLog.git/commit/14a87678856634c0aa6a087ea6926e5e09559851)
+- [ ] [<code>Updated Czech/German translation (2)</code>](https://github.com/foldynl/QLog.git/commit/be46468329a24bd3d6db117df21e46aee5a787f8)
+- [ ] [<code>NewContact: Start Time is reset when the Callsign becomes empty</code>](https://github.com/foldynl/QLog.git/commit/779da715af5f536507497ab31bc3b4242f6715d7)
+- [ ] [<code>Moved Band Up/Down to the global shortcut scope</code>](https://github.com/foldynl/QLog.git/commit/bdd240158e6c3e395b988e1df42bf986b6897d8d)
+- [ ] [<code>NewContact: QSO Duration field without AM/PM</code>](https://github.com/foldynl/QLog.git/commit/79311e61ef2a586320cc64c20b8024c3fce96acb)
+- [ ] [<code>Preparation for release 0.36.0</code>](https://github.com/foldynl/QLog.git/commit/9dc6db6b69fa79e6fc3ebd8ada60843b5c83829e)
+  - <sub>Tags: <code>v0.36.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -2659,19 +2695,7 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.4 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.4...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.5 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.5...HEAD)
 
-- [ ] [<code>Updates org.freedesktop.impl.portal.Settings backend to v2.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/06eaccfd3dbbcd234c687c8cda2111b05c6e88ac)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Fix typos.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/aff1a0d9a4d0907be1e07b3aab7c94be53a85f46)
-- [ ] [<code>Implement org.freedesktop.impl.portal.Background. (#15)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/4be1618e39f8afe32a1419e0ad9b5588594bf500)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
-- [ ] [<code>Fix some missing includes.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/d45743c6dc16411430825c0a164376b3e825ee6a)
-- [ ] [<code>settings: Remove accent-color, and cleanup other unused code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/75aa9c996c7ecc9eb72190b361aa1d6542f3b4ca)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>debian/rules: Fix build type.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/48546472b6932c0d68092567ddd307feeb2ac84a)
-- [ ] [<code>1.0.5</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/1b0b380aa7044bd68061fde38640ab533c9d2c4f)
-  - <sub>Tags: <code>1.0.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>settings: Don't unref GSettingsSchemaSource.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f7ebe8faae00bc739941491f6e7b2223ce521843)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
