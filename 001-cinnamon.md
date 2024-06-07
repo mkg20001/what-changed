@@ -452,19 +452,8 @@
 > Dropped cinnamon.nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.2.2 → HEAD](https://github.com/linuxmint/pix/compare/3.2.2...HEAD)
+#### [cinnamon.pix](https://github.com/linuxmint/pix): [3.4.0 → HEAD](https://github.com/linuxmint/pix/compare/3.4.0...HEAD)
 
-- [ ] [<code>apply jxl patch from gthumb, adds support for jxl-0.9.0 (#205)</code>](https://github.com/linuxmint/pix/commit/0de1387da0d1fce51e5c2db04a9a88e64f7c4336)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>debian/control: Add libjxl-dev for build.</code>](https://github.com/linuxmint/pix/commit/09cd8ad9a856276d4a72de4f3e6968e1cafb212e)
-- [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/pix/commit/bb7c281443621ad2aec970548615a68ac96e6ff3)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Switch to libwebkit2gtk-4.1</code>](https://github.com/linuxmint/pix/commit/14682f6249b3b0be351b6b06474512c80bd39dba)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>3.4.0</code>](https://github.com/linuxmint/pix/commit/fd8be7490af2218c0f0709abd0277cd27cc726f9)
-  - <sub>Tags: <code>3.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.warpinator](https://github.com/linuxmint/warpinator): [1.8.3 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.3...HEAD)
 
@@ -495,32 +484,11 @@
 - [ ] [<code>appstream: Only provide screenshots at 1x scale.</code>](https://github.com/linuxmint/warpinator/commit/3bc341259475c7b75d7b999fd0d0ab770f1e5a88)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.2 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.2...HEAD)
+#### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
 
-- [ ] [<code>xapp-gpu-offload: Fix argument handling for the offload target.</code>](https://github.com/linuxmint/xapp/commit/7ab8d1b93ea56b211e2a100a5b92cc1c843c10cc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>packaging: Forbid compilation if the symbols file is outdated</code>](https://github.com/linuxmint/xapp/commit/e00c2188dcae09d88d3c83ccd84d7d47d7072ee1)
-- [ ] [<code>Distro packaging updates (#176)</code>](https://github.com/linuxmint/xapp/commit/f30b9d162dae0055e662dc2ae3fa51a47650ae0c)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
-- [ ] [<code>Update build.yml for codespell, fix some spelling.</code>](https://github.com/linuxmint/xapp/commit/b5894870cd47ee1dd3f53e86562a7ecf2ce90475)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>Add new gsettings keys for xdg Settings portal v2.</code>](https://github.com/linuxmint/xapp/commit/a7d8a1c833970ecc203837568506087b950d65da)
-- [ ] [<code>gsettings: Fix a default value.</code>](https://github.com/linuxmint/xapp/commit/95c24d900f795a37614b893107a490dff2007c19)
-- [ ] [<code>Remove accent-rgb setting</code>](https://github.com/linuxmint/xapp/commit/6b6e78de8d57f86bd81e29be995d677415b23938)
-- [ ] [<code>xapp-icon-chooser-dialog.c: Fix mimetype test for browsed images.</code>](https://github.com/linuxmint/xapp/commit/85310bff461d260fe89586f001d01d3eabb720e2)
-- [ ] [<code>2.8.3</code>](https://github.com/linuxmint/xapp/commit/9dc36283ae556d30a70ae6c646b446a83d63c7a7)
-  - <sub>Tags: <code>2.8.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.0.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.0.2...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.0...HEAD)
 
-- [ ] [<code>epub: Fix an incorrect sizeof call detected by AddressSanitizer (#635)</code>](https://github.com/linuxmint/xreader/commit/1cde19228e6f46a9c0994566a941d9b63df9b68b)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>pdf backend: Ignore FullScreen PageMode catalog entry (#633)</code>](https://github.com/linuxmint/xreader/commit/5407f93d9328de7545537fbb9aa6a2d459e0b990)
-- [ ] [<code>4.2.0</code>](https://github.com/linuxmint/xreader/commit/ce89025fa3012090317d65caa0f7d3cfa03f3049)
-  - <sub>Tags: <code>4.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.4 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.4...HEAD)
 
