@@ -429,6 +429,7 @@
   - <sub>Tags: <code>rc1.21.0-2</code></sub>
 - [ ] [<code>Merge pull request #1150 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/fd084d9ed3d6206881a94197efc7c2957676ce8f)
   - <sub>Tags: <code>v1.21.0</code></sub>
+- [ ] [<code>feat: add option to configure reply swipe direction</code>](https://github.com/krille-chan/fluffychat/commit/3f81dc518777302eedbd4cbfff529f178287db20)
 - [ ] [<code>fix: Auto unlock lock screen</code>](https://github.com/krille-chan/fluffychat/commit/cdf2b14f30d4eb65f510aa11947a1ae4fe98e37c)
 - [ ] [<code>build: Update to Flutter 3.22.2</code>](https://github.com/krille-chan/fluffychat/commit/70ee24fa59ad6af41c151bdb6676d88e6b60ab33)
 
@@ -528,6 +529,7 @@
   - <sub>Tags: <code>rc1.21.0-2</code></sub>
 - [ ] [<code>Merge pull request #1150 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/fd084d9ed3d6206881a94197efc7c2957676ce8f)
   - <sub>Tags: <code>v1.21.0</code></sub>
+- [ ] [<code>feat: add option to configure reply swipe direction</code>](https://github.com/krille-chan/fluffychat/commit/3f81dc518777302eedbd4cbfff529f178287db20)
 - [ ] [<code>fix: Auto unlock lock screen</code>](https://github.com/krille-chan/fluffychat/commit/cdf2b14f30d4eb65f510aa11947a1ae4fe98e37c)
 - [ ] [<code>build: Update to Flutter 3.22.2</code>](https://github.com/krille-chan/fluffychat/commit/70ee24fa59ad6af41c151bdb6676d88e6b60ab33)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -597,6 +599,17 @@
 - [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: update documentation for forming cluster with existing server</code>](https://github.com/lxc/incus/commit/928018633c68df20999becbac87c6faa07c8de54)
+- [ ] [<code>github: Cleanup workflow file</code>](https://github.com/lxc/incus/commit/8d82dc0885865bca3ba001f1414313a6f5b7cac7)
+- [ ] [<code>github: Build go tip</code>](https://github.com/lxc/incus/commit/03fe4ab50308f29bf3eb105e9169b92b90d26d6d)
+- [ ] [<code>github: Change Go releases in tests</code>](https://github.com/lxc/incus/commit/24af5cbb365cdee1855c11bc1ae6c6f7b37470c8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test/lint/golangci: Properly pull the parent ref</code>](https://github.com/lxc/incus/commit/bba0b8fe1a1336a64729646ab2f4ac54aea3446d)
+- [ ] [<code>cmd/incusd: Fix typo in forknet</code>](https://github.com/lxc/incus/commit/2a4739bb28c4d51aaf6e33d6f063eaee9d3ab3c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: resources_cpu_flags</code>](https://github.com/lxc/incus/commit/6799c405a32e132bf43cf475cfddb8ef0a352b81)
+- [ ] [<code>shared/api: Add Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/f240048ec931554ca6440c03a9d58436fc5b57ed)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ae137db4677f1fce5a05d05e76c20af8ac868ac0)
+- [ ] [<code>incusd/resources: Add CPU Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/7399e88f837cbaa0f8e4d31ad740512765efe30e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1054,6 +1067,17 @@
 - [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: update documentation for forming cluster with existing server</code>](https://github.com/lxc/incus/commit/928018633c68df20999becbac87c6faa07c8de54)
+- [ ] [<code>github: Cleanup workflow file</code>](https://github.com/lxc/incus/commit/8d82dc0885865bca3ba001f1414313a6f5b7cac7)
+- [ ] [<code>github: Build go tip</code>](https://github.com/lxc/incus/commit/03fe4ab50308f29bf3eb105e9169b92b90d26d6d)
+- [ ] [<code>github: Change Go releases in tests</code>](https://github.com/lxc/incus/commit/24af5cbb365cdee1855c11bc1ae6c6f7b37470c8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test/lint/golangci: Properly pull the parent ref</code>](https://github.com/lxc/incus/commit/bba0b8fe1a1336a64729646ab2f4ac54aea3446d)
+- [ ] [<code>cmd/incusd: Fix typo in forknet</code>](https://github.com/lxc/incus/commit/2a4739bb28c4d51aaf6e33d6f063eaee9d3ab3c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: resources_cpu_flags</code>](https://github.com/lxc/incus/commit/6799c405a32e132bf43cf475cfddb8ef0a352b81)
+- [ ] [<code>shared/api: Add Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/f240048ec931554ca6440c03a9d58436fc5b57ed)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ae137db4677f1fce5a05d05e76c20af8ac868ac0)
+- [ ] [<code>incusd/resources: Add CPU Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/7399e88f837cbaa0f8e4d31ad740512765efe30e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
