@@ -610,6 +610,12 @@
 - [ ] [<code>shared/api: Add Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/f240048ec931554ca6440c03a9d58436fc5b57ed)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ae137db4677f1fce5a05d05e76c20af8ac868ac0)
 - [ ] [<code>incusd/resources: Add CPU Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/7399e88f837cbaa0f8e4d31ad740512765efe30e)
+- [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterRoute to libovsdb</code>](https://github.com/lxc/incus/commit/9193240a29d92c04306403fdb8b6bd987ac2c8cb)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterRoute to libovsdb</code>](https://github.com/lxc/incus/commit/072a63c1ee7527159ab41d90a131a16939836bef)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/e59b6f1257f7de7cdc2c316ab017e3ac2aae33cd)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPort to libovsdb</code>](https://github.com/lxc/incus/commit/24ea11470de3fb7692c4736dafc636ef13c9a60f)
+- [ ] [<code>incusd/network/ovn: Remove LogicalRouterPortDeleteIPv6Advertisements</code>](https://github.com/lxc/incus/commit/7d7e0f8a9ff2641c59500bf3e44da785a32c3602)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f8926883cf3b8f0bb2b8403916fd648ba7680043)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1078,6 +1084,12 @@
 - [ ] [<code>shared/api: Add Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/f240048ec931554ca6440c03a9d58436fc5b57ed)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ae137db4677f1fce5a05d05e76c20af8ac868ac0)
 - [ ] [<code>incusd/resources: Add CPU Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/7399e88f837cbaa0f8e4d31ad740512765efe30e)
+- [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterRoute to libovsdb</code>](https://github.com/lxc/incus/commit/9193240a29d92c04306403fdb8b6bd987ac2c8cb)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterRoute to libovsdb</code>](https://github.com/lxc/incus/commit/072a63c1ee7527159ab41d90a131a16939836bef)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/e59b6f1257f7de7cdc2c316ab017e3ac2aae33cd)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPort to libovsdb</code>](https://github.com/lxc/incus/commit/24ea11470de3fb7692c4736dafc636ef13c9a60f)
+- [ ] [<code>incusd/network/ovn: Remove LogicalRouterPortDeleteIPv6Advertisements</code>](https://github.com/lxc/incus/commit/7d7e0f8a9ff2641c59500bf3e44da785a32c3602)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f8926883cf3b8f0bb2b8403916fd648ba7680043)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
