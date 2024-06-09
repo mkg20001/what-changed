@@ -131,8 +131,11 @@
 - [ ] [<code>userWidget: Simplify a bit (#12221)</code>](https://github.com/linuxmint/cinnamon/commit/0d2a1ed4e23303db01dd35a93345a5e219f8f7b1)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Embed nemo's layout editor into cinnamon-settings' Actions module.</code>](https://github.com/linuxmint/cinnamon/commit/fee5a3258493ebf286a6cf3177e9628de736f6a0)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Prevents Cvc.MixerControl from being loaded more than once</code>](https://github.com/linuxmint/cinnamon/commit/158bd30656c51bb7cecacd39f39c33ada9d5cfb7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12226 from claudiux/sound_prevents-multiple-CvcMixercontrol</code>](https://github.com/linuxmint/cinnamon/commit/25f8e1cc341a68164767839ff1914280a49a23cc)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
 
