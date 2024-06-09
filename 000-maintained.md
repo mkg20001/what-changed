@@ -616,6 +616,9 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPort to libovsdb</code>](https://github.com/lxc/incus/commit/24ea11470de3fb7692c4736dafc636ef13c9a60f)
 - [ ] [<code>incusd/network/ovn: Remove LogicalRouterPortDeleteIPv6Advertisements</code>](https://github.com/lxc/incus/commit/7d7e0f8a9ff2641c59500bf3e44da785a32c3602)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f8926883cf3b8f0bb2b8403916fd648ba7680043)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitch to libovsdb</code>](https://github.com/lxc/incus/commit/611669aedc544896a6ee11fdd64364e0912cbfae)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
+- [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1090,6 +1093,9 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPort to libovsdb</code>](https://github.com/lxc/incus/commit/24ea11470de3fb7692c4736dafc636ef13c9a60f)
 - [ ] [<code>incusd/network/ovn: Remove LogicalRouterPortDeleteIPv6Advertisements</code>](https://github.com/lxc/incus/commit/7d7e0f8a9ff2641c59500bf3e44da785a32c3602)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f8926883cf3b8f0bb2b8403916fd648ba7680043)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitch to libovsdb</code>](https://github.com/lxc/incus/commit/611669aedc544896a6ee11fdd64364e0912cbfae)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
+- [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
