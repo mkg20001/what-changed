@@ -1820,6 +1820,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>github: update coverity test to use Ubuntu 22.04</code>](https://github.com/lxc/lxcfs/commit/fd35d40aef3546a19c60911cc7ad568971132e44)
+- [ ] [<code>README.md: add info about how to collect a core dump</code>](https://github.com/lxc/lxcfs/commit/bf571ae4412198e568a31887fc4a8d0f95393993)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>github: add ISSUE_TEMPLATE.md</code>](https://github.com/lxc/lxcfs/commit/8c88d4e171dc696a773223f8db5cb846314e702a)
+- [ ] [<code>github: add live upgrade test between stable-{5,6} branches</code>](https://github.com/lxc/lxcfs/commit/15f614c50ca11812db19696fc3c7a9f637a31dc1)
 > Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -1893,6 +1897,7 @@
 - [ ] [<code>chore(deps): update internal dependencies</code>](https://github.com/canonical/lxd-ui/commit/660cea8620867cfd8ca39d6f91c6ba82ccb0f27b)
 - [ ] [<code>feat: Added 2 storage e2e test to increase coverage.</code>](https://github.com/canonical/lxd-ui/commit/8216054b97b38e94ba7ebcecea1c97ab8ddb2f79)
 - [ ] [<code>Feat: Improving tests by using text assertion</code>](https://github.com/canonical/lxd-ui/commit/129c7a1416a5e2208995ef7d76d8c9fc57136f3d)
+- [ ] [<code>feat(network) allow creation and editing of physical managed networks WD-11519</code>](https://github.com/canonical/lxd-ui/commit/a42ff46e8b710bfe72eeede3ae18570933a4bcff)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
