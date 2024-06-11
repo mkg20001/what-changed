@@ -1815,6 +1815,8 @@
 - [ ] [<code>bash style changes (#2193)</code>](https://github.com/AOMediaCodec/libavif/commit/7fbc20cbfd8d92149bd33b7f03a8646fce48f999)
 - [ ] [<code>Revert "GetSeedDataDirs: allow TEST_DATA_DIRS to be -D defined (#2162)" (#2196)</code>](https://github.com/AOMediaCodec/libavif/commit/e19debf01d4c13003452c402fb0faffe8b59fcf7)
 - [ ] [<code>Fix grid item progressive propagation logic</code>](https://github.com/AOMediaCodec/libavif/commit/37733fb9f6a96f8c33af0c3dcf4deec5101caaf1)
+- [ ] [<code>Use avifDecoderItemShouldBeSkipped when harvesting ispe</code>](https://github.com/AOMediaCodec/libavif/commit/58621324090055b33290e0354847b922d8c482f2)
+- [ ] [<code>read.c: Fail if gainmap properties have more than one nclx</code>](https://github.com/AOMediaCodec/libavif/commit/9d24f8acd685cd42856f0004179457590c31284d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2777,4 +2779,6 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.5 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.5...HEAD)
 
 - [ ] [<code>settings: Don't unref GSettingsSchemaSource.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f7ebe8faae00bc739941491f6e7b2223ce521843)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.0.6</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/15da6ed71d1da30b83e6c5b700bd74c7898304f5)
+  - <sub>Tags: <code>1.0.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
