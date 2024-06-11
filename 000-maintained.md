@@ -619,6 +619,7 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitch to libovsdb</code>](https://github.com/lxc/incus/commit/611669aedc544896a6ee11fdd64364e0912cbfae)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
 - [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
+- [ ] [<code>doc/instances_console: Tweak wording on SPICE clients</code>](https://github.com/lxc/incus/commit/9b018f45cc2ca9b9a0e06e9678fb12642dd19142)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1096,6 +1097,7 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitch to libovsdb</code>](https://github.com/lxc/incus/commit/611669aedc544896a6ee11fdd64364e0912cbfae)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
 - [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
+- [ ] [<code>doc/instances_console: Tweak wording on SPICE clients</code>](https://github.com/lxc/incus/commit/9b018f45cc2ca9b9a0e06e9678fb12642dd19142)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1784,6 +1786,7 @@
 - [ ] [<code>Revert "Update dav1d to 1.4.2"</code>](https://github.com/AOMediaCodec/libavif/commit/112a121805bba64e93ef819922c6039da3d04bb1)
 - [ ] [<code>bash style changes (#2193)</code>](https://github.com/AOMediaCodec/libavif/commit/7fbc20cbfd8d92149bd33b7f03a8646fce48f999)
 - [ ] [<code>Revert "GetSeedDataDirs: allow TEST_DATA_DIRS to be -D defined (#2162)" (#2196)</code>](https://github.com/AOMediaCodec/libavif/commit/e19debf01d4c13003452c402fb0faffe8b59fcf7)
+- [ ] [<code>Fix grid item progressive propagation logic</code>](https://github.com/AOMediaCodec/libavif/commit/37733fb9f6a96f8c33af0c3dcf4deec5101caaf1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1898,6 +1901,7 @@
 - [ ] [<code>feat: Added 2 storage e2e test to increase coverage.</code>](https://github.com/canonical/lxd-ui/commit/8216054b97b38e94ba7ebcecea1c97ab8ddb2f79)
 - [ ] [<code>Feat: Improving tests by using text assertion</code>](https://github.com/canonical/lxd-ui/commit/129c7a1416a5e2208995ef7d76d8c9fc57136f3d)
 - [ ] [<code>feat(network) allow creation and editing of physical managed networks WD-11519</code>](https://github.com/canonical/lxd-ui/commit/a42ff46e8b710bfe72eeede3ae18570933a4bcff)
+- [ ] [<code>LXD-UI e2e test for operations</code>](https://github.com/canonical/lxd-ui/commit/ce8d2e62bdd897617b0fccf84742c1dd0a585f0d)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
