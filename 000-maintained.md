@@ -620,6 +620,20 @@
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
 - [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
 - [ ] [<code>doc/instances_console: Tweak wording on SPICE clients</code>](https://github.com/lxc/incus/commit/9b018f45cc2ca9b9a0e06e9678fb12642dd19142)
+- [ ] [<code>incusd/network/ovn: Special handling for Load Balancer table</code>](https://github.com/lxc/incus/commit/1ed8593d8b5def822b6b3a4a266bdeef183a2485)
+- [ ] [<code>incusd/network/ovn: Align functions context handling</code>](https://github.com/lxc/incus/commit/9c90f26e5a9f049cb349c19e1cfdaf35fdecd0c0)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitchDHCPOption to libovsdb</code>](https://github.com/lxc/incus/commit/830aff0e846caa69aa8733949dabe726b01e7721)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortLocation to libovsdb</code>](https://github.com/lxc/incus/commit/115b361b62db57d311de4807566137613b36a20f)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortUUID to libovsdb</code>](https://github.com/lxc/incus/commit/3c4b0b6f172a45a7d57423640c34b53019b088e6)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalRouterPortHardwareAddress to libovsdb</code>](https://github.com/lxc/incus/commit/8eace00d28d426380741bac7630aa28c2f6b9263)
+- [ ] [<code>incusd/network/ovn: Add GetLogicalRouter</code>](https://github.com/lxc/incus/commit/e83a4986d50c7fd67202d635b4dd2e1df865ecca)
+- [ ] [<code>incusd/network/ovn: Port DeleteLoadBalancer to libovsdb</code>](https://github.com/lxc/incus/commit/d3e2aba05276f4d2cac3bcca8ccd74c6a1cd51a0)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/532e46b9876cb6b7369fead65392f5463a709a47)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/a38f3c3f8a80adad12a15c254ed20284f3d85f89)
+- [ ] [<code>incusd/network: Simplify OVN network deletion logic</code>](https://github.com/lxc/incus/commit/db9a9ea0660e996403f7a0dda5678c857e134baa)
+- [ ] [<code>incus/network_load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/e99041b56970fe82c1baffc10ee5b743bb203f98)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9b1e06e187f3957ccd9be5331bf46f317774833b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1098,6 +1112,20 @@
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
 - [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
 - [ ] [<code>doc/instances_console: Tweak wording on SPICE clients</code>](https://github.com/lxc/incus/commit/9b018f45cc2ca9b9a0e06e9678fb12642dd19142)
+- [ ] [<code>incusd/network/ovn: Special handling for Load Balancer table</code>](https://github.com/lxc/incus/commit/1ed8593d8b5def822b6b3a4a266bdeef183a2485)
+- [ ] [<code>incusd/network/ovn: Align functions context handling</code>](https://github.com/lxc/incus/commit/9c90f26e5a9f049cb349c19e1cfdaf35fdecd0c0)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitchDHCPOption to libovsdb</code>](https://github.com/lxc/incus/commit/830aff0e846caa69aa8733949dabe726b01e7721)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortLocation to libovsdb</code>](https://github.com/lxc/incus/commit/115b361b62db57d311de4807566137613b36a20f)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortUUID to libovsdb</code>](https://github.com/lxc/incus/commit/3c4b0b6f172a45a7d57423640c34b53019b088e6)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalRouterPortHardwareAddress to libovsdb</code>](https://github.com/lxc/incus/commit/8eace00d28d426380741bac7630aa28c2f6b9263)
+- [ ] [<code>incusd/network/ovn: Add GetLogicalRouter</code>](https://github.com/lxc/incus/commit/e83a4986d50c7fd67202d635b4dd2e1df865ecca)
+- [ ] [<code>incusd/network/ovn: Port DeleteLoadBalancer to libovsdb</code>](https://github.com/lxc/incus/commit/d3e2aba05276f4d2cac3bcca8ccd74c6a1cd51a0)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/532e46b9876cb6b7369fead65392f5463a709a47)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/a38f3c3f8a80adad12a15c254ed20284f3d85f89)
+- [ ] [<code>incusd/network: Simplify OVN network deletion logic</code>](https://github.com/lxc/incus/commit/db9a9ea0660e996403f7a0dda5678c857e134baa)
+- [ ] [<code>incus/network_load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/e99041b56970fe82c1baffc10ee5b743bb203f98)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9b1e06e187f3957ccd9be5331bf46f317774833b)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
