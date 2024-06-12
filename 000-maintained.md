@@ -1841,6 +1841,8 @@
 - [ ] [<code>read.c: Fail if gainmap properties have more than one nclx</code>](https://github.com/AOMediaCodec/libavif/commit/9d24f8acd685cd42856f0004179457590c31284d)
 - [ ] [<code>Work around a bug in the windows-latest os image</code>](https://github.com/AOMediaCodec/libavif/commit/3cbf4856d6e71ecd1de707f89747668c946c7510)
 - [ ] [<code>Fix a comment delimiter error in ext/libgav1.cmd</code>](https://github.com/AOMediaCodec/libavif/commit/4634f44c2643699952fcc38ccd9df898a674f02a)
+- [ ] [<code>Do not compile libaom with clang-cl on Windows</code>](https://github.com/AOMediaCodec/libavif/commit/02816a353713fd1a5bbebf4d5818d33822bb42ae)
+- [ ] [<code>ext: Checkout libaom v3.9.1</code>](https://github.com/AOMediaCodec/libavif/commit/6ec8bfd8c4237a72e5364c23594b337021428381)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
