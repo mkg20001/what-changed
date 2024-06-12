@@ -230,6 +230,8 @@
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
+- [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/8e6fa393c2b6019455f10e0457fcd22fb01494f5)
+  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
@@ -461,6 +463,11 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>Update README.md</code>](https://github.com/linuxmint/nemo/commit/1da17bacf66b7385389416b99199b97198b2f994)
 - [ ] [<code>layout-editor: Add a label to explain the editor.</code>](https://github.com/linuxmint/nemo/commit/41e97e64781a3a37578db1525d71ad09a43153bd)
+- [ ] [<code>layout-editor: Simplify UI/labels, center dialog</code>](https://github.com/linuxmint/nemo/commit/640a3ff9a7a465ffe7c84c3f8d16c524ddbeda3c)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/8ec78b110d62bc0cdf44f9946c5aaa61b55b7e17)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove Edit->Plugins.</code>](https://github.com/linuxmint/nemo/commit/27289d88404d97c5a533d10a60b7ae9671f1b8db)
+- [ ] [<code>nemo-action-layout-editor: Add up/down arrows as an alternative</code>](https://github.com/linuxmint/nemo/commit/80d28b57024515ef6b6ea110722c2e60392c1895)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
@@ -515,7 +522,10 @@
 - [ ] [<code>Some more appstream spec updates.</code>](https://github.com/linuxmint/warpinator/commit/6e22eb625722a39cbbda886a6ef8db826faf7096)
 - [ ] [<code>prefs: Fix escape code SyntaxWarning during bytecompile.</code>](https://github.com/linuxmint/warpinator/commit/86db98b7872b61fa3a11cf556cd5176a9b40e3e7)
 - [ ] [<code>appstream: Only provide screenshots at 1x scale.</code>](https://github.com/linuxmint/warpinator/commit/3bc341259475c7b75d7b999fd0d0ab770f1e5a88)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/ccbbafbe34f58f9672648bd6e17c656efaeb1d43)
+- [ ] [<code>1.8.4</code>](https://github.com/linuxmint/warpinator/commit/d450699a6b462127911bfec6bbd90a6ce6e6c633)
+  - <sub>Tags: <code>1.8.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.3 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.3...HEAD)
 
