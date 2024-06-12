@@ -634,6 +634,17 @@
 - [ ] [<code>incus/network_load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/e99041b56970fe82c1baffc10ee5b743bb203f98)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9b1e06e187f3957ccd9be5331bf46f317774833b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchIPAllocation to libovsdb</code>](https://github.com/lxc/incus/commit/4f7cec0f72add72818119abe1cc8c025934d435a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv4Revervations to libovsdb</code>](https://github.com/lxc/incus/commit/3157e015b80b62b8afe9458437845ebbdaebf66b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchDHCPv4Revervations to libovsdb</code>](https://github.com/lxc/incus/commit/71a7566b8933d680c18c3d483045f9e0356fb462)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchDHCPOptions to libovsdb</code>](https://github.com/lxc/incus/commit/3ad04f0bbb8a31d570338e686fd67f125e8c0cec)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv4Options to libovsdb</code>](https://github.com/lxc/incus/commit/f01fe018a842a4cc04b3e6e7581ed831109e850f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv6Options to libovsdb</code>](https://github.com/lxc/incus/commit/68e89a993c4820871b5ef46b9691e24c644848b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/b8147c67fadb955b91ad63644abacbe8faadd0a2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1126,6 +1137,17 @@
 - [ ] [<code>incus/network_load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/e99041b56970fe82c1baffc10ee5b743bb203f98)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9b1e06e187f3957ccd9be5331bf46f317774833b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchIPAllocation to libovsdb</code>](https://github.com/lxc/incus/commit/4f7cec0f72add72818119abe1cc8c025934d435a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv4Revervations to libovsdb</code>](https://github.com/lxc/incus/commit/3157e015b80b62b8afe9458437845ebbdaebf66b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchDHCPv4Revervations to libovsdb</code>](https://github.com/lxc/incus/commit/71a7566b8933d680c18c3d483045f9e0356fb462)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchDHCPOptions to libovsdb</code>](https://github.com/lxc/incus/commit/3ad04f0bbb8a31d570338e686fd67f125e8c0cec)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv4Options to libovsdb</code>](https://github.com/lxc/incus/commit/f01fe018a842a4cc04b3e6e7581ed831109e850f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv6Options to libovsdb</code>](https://github.com/lxc/incus/commit/68e89a993c4820871b5ef46b9691e24c644848b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/b8147c67fadb955b91ad63644abacbe8faadd0a2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1817,6 +1839,8 @@
 - [ ] [<code>Fix grid item progressive propagation logic</code>](https://github.com/AOMediaCodec/libavif/commit/37733fb9f6a96f8c33af0c3dcf4deec5101caaf1)
 - [ ] [<code>Use avifDecoderItemShouldBeSkipped when harvesting ispe</code>](https://github.com/AOMediaCodec/libavif/commit/58621324090055b33290e0354847b922d8c482f2)
 - [ ] [<code>read.c: Fail if gainmap properties have more than one nclx</code>](https://github.com/AOMediaCodec/libavif/commit/9d24f8acd685cd42856f0004179457590c31284d)
+- [ ] [<code>Work around a bug in the windows-latest os image</code>](https://github.com/AOMediaCodec/libavif/commit/3cbf4856d6e71ecd1de707f89747668c946c7510)
+- [ ] [<code>Fix a comment delimiter error in ext/libgav1.cmd</code>](https://github.com/AOMediaCodec/libavif/commit/4634f44c2643699952fcc38ccd9df898a674f02a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
