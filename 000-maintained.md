@@ -645,6 +645,20 @@
 - [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv6Options to libovsdb</code>](https://github.com/lxc/incus/commit/68e89a993c4820871b5ef46b9691e24c644848b6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/b8147c67fadb955b91ad63644abacbe8faadd0a2)
+- [ ] [<code>incusd/networks: Properly finalize OVN networks</code>](https://github.com/lxc/incus/commit/ad48ae8201a8344852801c496ab6d858b7c116a1)
+- [ ] [<code>incusd/networks: Properly record description</code>](https://github.com/lxc/incus/commit/3e54ea483139130bf82c557d5293f17bfcc400c7)
+- [ ] [<code>incusd/response: Add Code function</code>](https://github.com/lxc/incus/commit/d04a23a2e3b4fda7d7002abbf0717901d5bb3a90)
+- [ ] [<code>incusd/operations: Implement Code function</code>](https://github.com/lxc/incus/commit/6ceb2b9858297ed787c93d4e1ae4cfcd5742d649)
+- [ ] [<code>incusd: Implement Code function</code>](https://github.com/lxc/incus/commit/359600b5c6bcfe21f0861471b6552f19e1f351d4)
+- [ ] [<code>incus-agent: Implement Code function</code>](https://github.com/lxc/incus/commit/fd6b88c4b80717c8accce9910ff6350cdd842ef8)
+- [ ] [<code>client: Fix OIDC re-authentication on POST</code>](https://github.com/lxc/incus/commit/47aa4068f876425a6611c9d947d77ab10f9217b0)
+- [ ] [<code>client: Fix OIDC re-authentication on websocket</code>](https://github.com/lxc/incus/commit/50728bdff3575e97470a2252d3596dc71ccdc1c4)
+- [ ] [<code>incus/network: Add missing stdin handling</code>](https://github.com/lxc/incus/commit/dd9a9e06239a8de41f389249c094e9362d373389)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8f34adf4de250cfb82029cf6ab08ccb7c7553b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1148,6 +1162,20 @@
 - [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv6Options to libovsdb</code>](https://github.com/lxc/incus/commit/68e89a993c4820871b5ef46b9691e24c644848b6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/b8147c67fadb955b91ad63644abacbe8faadd0a2)
+- [ ] [<code>incusd/networks: Properly finalize OVN networks</code>](https://github.com/lxc/incus/commit/ad48ae8201a8344852801c496ab6d858b7c116a1)
+- [ ] [<code>incusd/networks: Properly record description</code>](https://github.com/lxc/incus/commit/3e54ea483139130bf82c557d5293f17bfcc400c7)
+- [ ] [<code>incusd/response: Add Code function</code>](https://github.com/lxc/incus/commit/d04a23a2e3b4fda7d7002abbf0717901d5bb3a90)
+- [ ] [<code>incusd/operations: Implement Code function</code>](https://github.com/lxc/incus/commit/6ceb2b9858297ed787c93d4e1ae4cfcd5742d649)
+- [ ] [<code>incusd: Implement Code function</code>](https://github.com/lxc/incus/commit/359600b5c6bcfe21f0861471b6552f19e1f351d4)
+- [ ] [<code>incus-agent: Implement Code function</code>](https://github.com/lxc/incus/commit/fd6b88c4b80717c8accce9910ff6350cdd842ef8)
+- [ ] [<code>client: Fix OIDC re-authentication on POST</code>](https://github.com/lxc/incus/commit/47aa4068f876425a6611c9d947d77ab10f9217b0)
+- [ ] [<code>client: Fix OIDC re-authentication on websocket</code>](https://github.com/lxc/incus/commit/50728bdff3575e97470a2252d3596dc71ccdc1c4)
+- [ ] [<code>incus/network: Add missing stdin handling</code>](https://github.com/lxc/incus/commit/dd9a9e06239a8de41f389249c094e9362d373389)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8f34adf4de250cfb82029cf6ab08ccb7c7553b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1843,6 +1871,9 @@
 - [ ] [<code>Fix a comment delimiter error in ext/libgav1.cmd</code>](https://github.com/AOMediaCodec/libavif/commit/4634f44c2643699952fcc38ccd9df898a674f02a)
 - [ ] [<code>Do not compile libaom with clang-cl on Windows</code>](https://github.com/AOMediaCodec/libavif/commit/02816a353713fd1a5bbebf4d5818d33822bb42ae)
 - [ ] [<code>ext: Checkout libaom v3.9.1</code>](https://github.com/AOMediaCodec/libavif/commit/6ec8bfd8c4237a72e5364c23594b337021428381)
+- [ ] [<code>Update dav1d to 1.4.3</code>](https://github.com/AOMediaCodec/libavif/commit/6d64a8c0ef88a740264f07f8e303d54f75cd9739)
+- [ ] [<code>Revert workaround for bug in windows-latest image</code>](https://github.com/AOMediaCodec/libavif/commit/728223b91cae52c45789e96e987f135823d7b021)
+- [ ] [<code>Update libjpeg.cmd to 3.0.3 (#2194)</code>](https://github.com/AOMediaCodec/libavif/commit/76951037943244d0fce987c9872a2623ffdcb9a3)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1958,6 +1989,7 @@
 - [ ] [<code>Feat: Improving tests by using text assertion</code>](https://github.com/canonical/lxd-ui/commit/129c7a1416a5e2208995ef7d76d8c9fc57136f3d)
 - [ ] [<code>feat(network) allow creation and editing of physical managed networks WD-11519</code>](https://github.com/canonical/lxd-ui/commit/a42ff46e8b710bfe72eeede3ae18570933a4bcff)
 - [ ] [<code>LXD-UI e2e test for operations</code>](https://github.com/canonical/lxd-ui/commit/ce8d2e62bdd897617b0fccf84742c1dd0a585f0d)
+- [ ] [<code>chore(tests): added e2e testing for doc links</code>](https://github.com/canonical/lxd-ui/commit/be487949b439605fc83c6a87fa10038de7a3f367)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2468,6 +2500,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(networkd): add ipv6 ra overrides (LP: #1973222) (#461)</code>](https://github.com/canonical/netplan/commit/44b2a5c21da49d89abb42c25c275ba255b5f36df)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add initial SECURITY.md policy</code>](https://github.com/canonical/netplan/commit/56bcb5db583e788265966977cafba3958dd65052)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
