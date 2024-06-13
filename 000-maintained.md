@@ -659,6 +659,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1176,6 +1177,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1874,6 +1876,7 @@
 - [ ] [<code>Update dav1d to 1.4.3</code>](https://github.com/AOMediaCodec/libavif/commit/6d64a8c0ef88a740264f07f8e303d54f75cd9739)
 - [ ] [<code>Revert workaround for bug in windows-latest image</code>](https://github.com/AOMediaCodec/libavif/commit/728223b91cae52c45789e96e987f135823d7b021)
 - [ ] [<code>Update libjpeg.cmd to 3.0.3 (#2194)</code>](https://github.com/AOMediaCodec/libavif/commit/76951037943244d0fce987c9872a2623ffdcb9a3)
+- [ ] [<code>Invoke ninja with -C option</code>](https://github.com/AOMediaCodec/libavif/commit/329dc9987e63e1e201f55cad5b5c42a6f750a29e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
