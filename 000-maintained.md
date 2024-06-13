@@ -141,6 +141,7 @@
 - [ ] [<code>Update the link to the Rustup self-updating issue on Windows</code>](https://github.com/stepchowfun/docuum/commit/cb75cba514bd2cb39e96e1ae5c23fffdc9096917)
 - [ ] [<code>deps: bump libc from 0.2.147 to 0.2.155</code>](https://github.com/stepchowfun/docuum/commit/d85361ebe79068535923f4c0ad2a36827129ec6a)
 - [ ] [<code>Update GitHub Actions to use non-deprecated versions</code>](https://github.com/stepchowfun/docuum/commit/5231621e10af8728fa9f60154bf2f71bfcc98b37)
+- [ ] [<code>Update the toastfile</code>](https://github.com/stepchowfun/docuum/commit/0196bd25563bce8556aa31931d0142dcd1aefec2)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -2838,9 +2839,5 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.5 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.5...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.6 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.6...HEAD)
 
-- [ ] [<code>settings: Don't unref GSettingsSchemaSource.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f7ebe8faae00bc739941491f6e7b2223ce521843)
-- [ ] [<code>1.0.6</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/15da6ed71d1da30b83e6c5b700bd74c7898304f5)
-  - <sub>Tags: <code>1.0.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
