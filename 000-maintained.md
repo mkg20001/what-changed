@@ -661,6 +661,7 @@
 - [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
+- [ ] [<code>doc/instance_units: Clarify usage</code>](https://github.com/lxc/incus/commit/5f7774f8423e4118b308d44708494072ad83cadf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1179,6 +1180,7 @@
 - [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
+- [ ] [<code>doc/instance_units: Clarify usage</code>](https://github.com/lxc/incus/commit/5f7774f8423e4118b308d44708494072ad83cadf)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
