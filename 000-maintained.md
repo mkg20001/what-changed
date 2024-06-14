@@ -142,6 +142,7 @@
 - [ ] [<code>deps: bump libc from 0.2.147 to 0.2.155</code>](https://github.com/stepchowfun/docuum/commit/d85361ebe79068535923f4c0ad2a36827129ec6a)
 - [ ] [<code>Update GitHub Actions to use non-deprecated versions</code>](https://github.com/stepchowfun/docuum/commit/5231621e10af8728fa9f60154bf2f71bfcc98b37)
 - [ ] [<code>Update the toastfile</code>](https://github.com/stepchowfun/docuum/commit/0196bd25563bce8556aa31931d0142dcd1aefec2)
+- [ ] [<code>Update Rust to v1.79.0</code>](https://github.com/stepchowfun/docuum/commit/2b7b6833d2db03bac5629e29186db30968f8bf41)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.4 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.4...HEAD)
 
@@ -2843,3 +2844,5 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.6 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.6...HEAD)
 
+- [ ] [<code>background: Allow enabling background apps for partial support in</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/024ec3ec9947787aed8796827c93b24fdff892a1)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
