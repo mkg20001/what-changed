@@ -665,6 +665,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
 - [ ] [<code>doc/instance_units: Clarify usage</code>](https://github.com/lxc/incus/commit/5f7774f8423e4118b308d44708494072ad83cadf)
+- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/c1ef530b44f641dbdc6a24fc2b6bf5753e1bd595)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPorts to libovsdb</code>](https://github.com/lxc/incus/commit/fab089013a66a814679d09483036e031c50e3302)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortOptions to libovsdb</code>](https://github.com/lxc/incus/commit/5c01a75c6bb5e11955cfd8d76bb8f103785a479c)
+- [ ] [<code>incusd/network/ovn: Port CreatePortGroup to libovsdb</code>](https://github.com/lxc/incus/commit/ec32439d601ad4d85dff19872a80179ee66beeae)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/bfe42317a72f29114df250e54b528895edfbf1d7)
+- [ ] [<code>incusd/device/nic: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/4b68189c6f1e84e14c96d5e6380ce5300663715a)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/9cd6ddbee00a029918ff0b39e97e702f676a6b05)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1184,6 +1191,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
 - [ ] [<code>doc/instance_units: Clarify usage</code>](https://github.com/lxc/incus/commit/5f7774f8423e4118b308d44708494072ad83cadf)
+- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/c1ef530b44f641dbdc6a24fc2b6bf5753e1bd595)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPorts to libovsdb</code>](https://github.com/lxc/incus/commit/fab089013a66a814679d09483036e031c50e3302)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortOptions to libovsdb</code>](https://github.com/lxc/incus/commit/5c01a75c6bb5e11955cfd8d76bb8f103785a479c)
+- [ ] [<code>incusd/network/ovn: Port CreatePortGroup to libovsdb</code>](https://github.com/lxc/incus/commit/ec32439d601ad4d85dff19872a80179ee66beeae)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/bfe42317a72f29114df250e54b528895edfbf1d7)
+- [ ] [<code>incusd/device/nic: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/4b68189c6f1e84e14c96d5e6380ce5300663715a)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/9cd6ddbee00a029918ff0b39e97e702f676a6b05)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
