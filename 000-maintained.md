@@ -672,6 +672,14 @@
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/bfe42317a72f29114df250e54b528895edfbf1d7)
 - [ ] [<code>incusd/device/nic: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/4b68189c6f1e84e14c96d5e6380ce5300663715a)
 - [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/9cd6ddbee00a029918ff0b39e97e702f676a6b05)
+- [ ] [<code>incusd/network/ovn: Port GetPortGroupsByProject to libovsdb</code>](https://github.com/lxc/incus/commit/dfb213f4e3cb276869f05ee5cc4c16a15e939ca6)
+- [ ] [<code>incusd/network/ovn: Port CreateAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/39a3536cb66193b1745b8250aeab866bc36fc547)
+- [ ] [<code>incusd/network/ovn: Port UpdateAddressSetAdd to libovsdb</code>](https://github.com/lxc/incus/commit/76388ab2e662aa69e58be4c7ac141569e17e6ad6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateAddressSetRemove to libovsdb</code>](https://github.com/lxc/incus/commit/4ee60c511d5e2f74b07e7a65f2fa9606bb4d2454)
+- [ ] [<code>incusd/network/ovn: Port DeleteAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/95ea5c8a2e017ef092690fe07ccfde45f5d56bf8)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/27b774bd53c784efbfe88f1c17c62c3149f69964)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/016b8a836f59d018550b373e7373e025d0323043)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1198,6 +1206,14 @@
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/bfe42317a72f29114df250e54b528895edfbf1d7)
 - [ ] [<code>incusd/device/nic: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/4b68189c6f1e84e14c96d5e6380ce5300663715a)
 - [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/9cd6ddbee00a029918ff0b39e97e702f676a6b05)
+- [ ] [<code>incusd/network/ovn: Port GetPortGroupsByProject to libovsdb</code>](https://github.com/lxc/incus/commit/dfb213f4e3cb276869f05ee5cc4c16a15e939ca6)
+- [ ] [<code>incusd/network/ovn: Port CreateAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/39a3536cb66193b1745b8250aeab866bc36fc547)
+- [ ] [<code>incusd/network/ovn: Port UpdateAddressSetAdd to libovsdb</code>](https://github.com/lxc/incus/commit/76388ab2e662aa69e58be4c7ac141569e17e6ad6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port UpdateAddressSetRemove to libovsdb</code>](https://github.com/lxc/incus/commit/4ee60c511d5e2f74b07e7a65f2fa9606bb4d2454)
+- [ ] [<code>incusd/network/ovn: Port DeleteAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/95ea5c8a2e017ef092690fe07ccfde45f5d56bf8)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/27b774bd53c784efbfe88f1c17c62c3149f69964)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/016b8a836f59d018550b373e7373e025d0323043)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
