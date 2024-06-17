@@ -434,6 +434,10 @@
 - [ ] [<code>feat: add option to configure reply swipe direction</code>](https://github.com/krille-chan/fluffychat/commit/3f81dc518777302eedbd4cbfff529f178287db20)
 - [ ] [<code>fix: Auto unlock lock screen</code>](https://github.com/krille-chan/fluffychat/commit/cdf2b14f30d4eb65f510aa11947a1ae4fe98e37c)
 - [ ] [<code>build: Update to Flutter 3.22.2</code>](https://github.com/krille-chan/fluffychat/commit/70ee24fa59ad6af41c151bdb6676d88e6b60ab33)
+- [ ] [<code>build: Update Matrix Dart SDK</code>](https://github.com/krille-chan/fluffychat/commit/13ecf583296d6b7f2694fea40027ad8573989d7c)
+- [ ] [<code>fix: Add missing unlock button to lockscreen textfield</code>](https://github.com/krille-chan/fluffychat/commit/5998c9e29ea9c93d077f90e4219e7edea215d331)
+- [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
+  - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -534,6 +538,10 @@
 - [ ] [<code>feat: add option to configure reply swipe direction</code>](https://github.com/krille-chan/fluffychat/commit/3f81dc518777302eedbd4cbfff529f178287db20)
 - [ ] [<code>fix: Auto unlock lock screen</code>](https://github.com/krille-chan/fluffychat/commit/cdf2b14f30d4eb65f510aa11947a1ae4fe98e37c)
 - [ ] [<code>build: Update to Flutter 3.22.2</code>](https://github.com/krille-chan/fluffychat/commit/70ee24fa59ad6af41c151bdb6676d88e6b60ab33)
+- [ ] [<code>build: Update Matrix Dart SDK</code>](https://github.com/krille-chan/fluffychat/commit/13ecf583296d6b7f2694fea40027ad8573989d7c)
+- [ ] [<code>fix: Add missing unlock button to lockscreen textfield</code>](https://github.com/krille-chan/fluffychat/commit/5998c9e29ea9c93d077f90e4219e7edea215d331)
+- [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
+  - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
