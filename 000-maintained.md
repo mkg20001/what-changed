@@ -438,6 +438,7 @@
 - [ ] [<code>fix: Add missing unlock button to lockscreen textfield</code>](https://github.com/krille-chan/fluffychat/commit/5998c9e29ea9c93d077f90e4219e7edea215d331)
 - [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -542,6 +543,7 @@
 - [ ] [<code>fix: Add missing unlock button to lockscreen textfield</code>](https://github.com/krille-chan/fluffychat/commit/5998c9e29ea9c93d077f90e4219e7edea215d331)
 - [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -563,6 +565,7 @@
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
 - [ ] [<code>Update Dockerfile (#448)</code>](https://github.com/toptal/haste-server/commit/ded18b0c2e1ad05eaba6ab5bb938ae6b54cb5147)
+- [ ] [<code>Bump braces from 3.0.2 to 3.0.3 (#454)</code>](https://github.com/toptal/haste-server/commit/87a6a88449db1e1e048bf58223038b8df83846c8)
 
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.2.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.2.0...HEAD)
 
