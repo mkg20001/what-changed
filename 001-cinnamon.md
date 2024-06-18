@@ -411,9 +411,12 @@
 - [ ] [<code>nemo-action-layout-editor: Add up/down arrows as an alternative</code>](https://github.com/linuxmint/nemo/commit/80d28b57024515ef6b6ea110722c2e60392c1895)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/37e111035a503dd1dd08d9a5a02a26f219ebf1c3)
 - [ ] [<code>6.2.0</code>](https://github.com/linuxmint/nemo/commit/f67bfd318c7c2ddb436fd00e0adc04f255b4994a)
-  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>layout editor: Don't allow duplicate uuids when saving the layout.</code>](https://github.com/linuxmint/nemo/commit/9deb1508a04c80d0c39d9e1f69b11c7e43366911)
+- [ ] [<code>eel-gnome-extensions.c: Set GNOME Terminal to FALSE (#3421)</code>](https://github.com/linuxmint/nemo/commit/cd33b6f02f8288f4131f75de59527acd8c67eec8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.0.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.0.1...HEAD)
 
