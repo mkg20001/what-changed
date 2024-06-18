@@ -561,6 +561,10 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.2 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.2...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/c45e965a4618eb409be4bcbf4c0c7b3b1712efe4)
+- [ ] [<code>3.50.3</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/0b78481497a3c17ff008d82686255b5d6e89a85f)
+  - <sub>Tags: <code>3.50.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -691,6 +695,11 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/95ea5c8a2e017ef092690fe07ccfde45f5d56bf8)
 - [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/27b774bd53c784efbfe88f1c17c62c3149f69964)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/016b8a836f59d018550b373e7373e025d0323043)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortLinkRouter to libovsdb</code>](https://github.com/lxc/incus/commit/85e28d52d00d2388f98fc324d409496d1d1f62f4)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortLinkProviderNetwork to libovsdb</code>](https://github.com/lxc/incus/commit/9c7210d2fb1828f00e82c9a93879a1384d001349)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchIPs to libovsdb</code>](https://github.com/lxc/incus/commit/6f740f3631006d2993799c5c03df058b51a2dd99)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/12b39d2c161dffc5103335823bd5cc1271e2371b)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f826ad6a6d55f1422a8def4d59941d3630b0f4d1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1225,6 +1234,11 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/95ea5c8a2e017ef092690fe07ccfde45f5d56bf8)
 - [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/27b774bd53c784efbfe88f1c17c62c3149f69964)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/016b8a836f59d018550b373e7373e025d0323043)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortLinkRouter to libovsdb</code>](https://github.com/lxc/incus/commit/85e28d52d00d2388f98fc324d409496d1d1f62f4)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortLinkProviderNetwork to libovsdb</code>](https://github.com/lxc/incus/commit/9c7210d2fb1828f00e82c9a93879a1384d001349)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchIPs to libovsdb</code>](https://github.com/lxc/incus/commit/6f740f3631006d2993799c5c03df058b51a2dd99)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/12b39d2c161dffc5103335823bd5cc1271e2371b)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f826ad6a6d55f1422a8def4d59941d3630b0f4d1)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2886,6 +2900,12 @@
 - [ ] [<code>socket: handle further socket option value types</code>](https://github.com/jow-/ucode/commit/fc6f2b89febf4c2bf398d71cba51e2d085ea9875)
 - [ ] [<code>socket: add IPv6 socket options</code>](https://github.com/jow-/ucode/commit/d6f25797dad180b6a2145b59e897df9ac0d42dfd)
 - [ ] [<code>socket: implement recvmsg(), sendmsg() and cmsg support</code>](https://github.com/jow-/ucode/commit/7611487b9a051f17e1cf9d21cc10b78071695b93)
+- [ ] [<code>core-lib: improved documentation</code>](https://github.com/jow-/ucode/commit/d2e44bfa8b54ad16b84a29ff963f12e577a62da9)
+- [ ] [<code>fs: add truncate() file method</code>](https://github.com/jow-/ucode/commit/e0bab40c85780f765bed78bd2e67f376b6883594)
+- [ ] [<code>fs: add lock() file method</code>](https://github.com/jow-/ucode/commit/5d305cfb2ab7b997dc1314cb6d4483683275680c)
+- [ ] [<code>lib: introduce zlib library</code>](https://github.com/jow-/ucode/commit/8b0318f7fabe06736c4437579054f6040466f6d3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
