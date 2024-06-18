@@ -2040,6 +2040,11 @@
 - [ ] [<code>feat(network) allow creation and editing of physical managed networks WD-11519</code>](https://github.com/canonical/lxd-ui/commit/a42ff46e8b710bfe72eeede3ae18570933a4bcff)
 - [ ] [<code>LXD-UI e2e test for operations</code>](https://github.com/canonical/lxd-ui/commit/ce8d2e62bdd897617b0fccf84742c1dd0a585f0d)
 - [ ] [<code>chore(tests): added e2e testing for doc links</code>](https://github.com/canonical/lxd-ui/commit/be487949b439605fc83c6a87fa10038de7a3f367)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.13.0</code>](https://github.com/canonical/lxd-ui/commit/e1a8173c06eb8060eea5f58c2a534bd3fe1b4f82)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates</code>](https://github.com/canonical/lxd-ui/commit/fc277d7a8887605e9b4e974c113e2e95d1739e32)
+- [ ] [<code>chore(docs) add roadmap and extend readme with changelog. rename hacking to contributions guidelines WD-11364</code>](https://github.com/canonical/lxd-ui/commit/4e6a3be5cb8cd6561862c686f2d53a8f68c22ef4)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
