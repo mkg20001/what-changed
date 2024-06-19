@@ -2570,6 +2570,8 @@
 - [ ] [<code>feat(networkd): add ipv6 ra overrides (LP: #1973222) (#461)</code>](https://github.com/canonical/netplan/commit/44b2a5c21da49d89abb42c25c275ba255b5f36df)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add initial SECURITY.md policy</code>](https://github.com/canonical/netplan/commit/56bcb5db583e788265966977cafba3958dd65052)
+- [ ] [<code>doc: Create single-nic-vm-host.md (#475)</code>](https://github.com/canonical/netplan/commit/e5f4edd329e8a4837f1a201001f4f5fc0adebe93)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
