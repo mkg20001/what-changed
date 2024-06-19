@@ -108,30 +108,8 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/602d9d08afbe4d0072fb54f2b0c386aac944f82a)
 - [ ] [<code>gomod: Remove excludes</code>](https://github.com/lxc/distrobuilder/commit/7af632cd32879685a3143d994ea123ec6bb19c13)
 
-#### [docuum](https://github.com/stepchowfun/docuum): [v0.24.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.24.0...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
-- [ ] [<code>Install v0.24.0 by default</code>](https://github.com/stepchowfun/docuum/commit/fdb2865a022401c293bb50cd8befb4879f0fb181)
-- [ ] [<code>Adding older-than flag</code>](https://github.com/stepchowfun/docuum/commit/cfceb6ca466f3362ac74d0e0d25497018e4ef813)
-- [ ] [<code>Updating README.md</code>](https://github.com/stepchowfun/docuum/commit/abc76014532f23b6f688ef1192fe59c25f93859e)
-- [ ] [<code>Adding missing Regex to use in main.rs and add missing older_than to settings</code>](https://github.com/stepchowfun/docuum/commit/3f62fbaa7d9086836e77e5cf3516f6cd72ba9be4)
-- [ ] [<code>Bumping version, adding parse_duration crate, updating changelog, renaming flag</code>](https://github.com/stepchowfun/docuum/commit/3230de3af9f85cd98b113dfc8cd3a1580c2a3bf1)
-- [ ] [<code>Change Fixed to Added changelog</code>](https://github.com/stepchowfun/docuum/commit/ff513c0c417def67fcb6590f13d3d621132a55f8)
-- [ ] [<code>Correcting short name and comment mentioning --older-than</code>](https://github.com/stepchowfun/docuum/commit/57e7b6f30eccaf09165b438b5fbbd96a429d8199)
-- [ ] [<code>Implementing comment suggestion, error handling on parse error and removing regex</code>](https://github.com/stepchowfun/docuum/commit/a74373bb9416f1ff81d555edb053dbfc51231eff)
-- [ ] [<code>Fixing imports formatting</code>](https://github.com/stepchowfun/docuum/commit/d5b3ee43560135b671d6606e3584fd607010908b)
-- [ ] [<code>Fix linting errors</code>](https://github.com/stepchowfun/docuum/commit/1b62823df3f48c1f12215c07abf2f179e9729868)
-- [ ] [<code>Moving commas to make linter happy</code>](https://github.com/stepchowfun/docuum/commit/d89fa773dda0ec8b04bf1f9b79af285bfd1fe6d8)
-- [ ] [<code>Removing trailing space in imports</code>](https://github.com/stepchowfun/docuum/commit/d9538f1cea903c854df340ed5d544f2c1f4f026e)
-- [ ] [<code>Fixing linting</code>](https://github.com/stepchowfun/docuum/commit/14409a40a96afbe654c69f6a0e227dbc177c2b15)
-- [ ] [<code>Changing Duration to all caps in README.md for consistency</code>](https://github.com/stepchowfun/docuum/commit/abfd36ded1101b20ef954c40d1fa8002cfe4bb48)
-- [ ] [<code>Adding debug logging to retain</code>](https://github.com/stepchowfun/docuum/commit/29ef0938c80f8f1c58c4d0ed0f1ea9ffbed0d807)
-- [ ] [<code>Adding image_id to debug log</code>](https://github.com/stepchowfun/docuum/commit/1e0a5fc06a95dc996d6ce7b981d17e1a0b494531)
-- [ ] [<code>Adding code_str() to image_id</code>](https://github.com/stepchowfun/docuum/commit/4d89f540d89ef1c3b97713abd4728e58c38d99a5)
-- [ ] [<code>Matching value name and help from readme</code>](https://github.com/stepchowfun/docuum/commit/9304bbb7f90210376b8cd795ebd32a172be48145)
-- [ ] [<code>Updating readme and argument</code>](https://github.com/stepchowfun/docuum/commit/b6c71fcda63d0e5aa7fdf469479f6d5cda86a98c)
-- [ ] [<code>Moving the --min-age argument above threshold in the readme to match --help output</code>](https://github.com/stepchowfun/docuum/commit/359a2452829eb767be01f18150c465d0b59d0b3c)
-- [ ] [<code>Merge pull request #303 from Glubiz/main</code>](https://github.com/stepchowfun/docuum/commit/943f787d4c12a8f40d29f4da05f63a3d8155cf5b)
-  - <sub>Tags: <code>v0.25.0</code></sub>
 - [ ] [<code>Install v0.25.0 by default</code>](https://github.com/stepchowfun/docuum/commit/1f9bf5ea4490e4d085453b914a17d5c2a82cc43e)
 - [ ] [<code>Update Rust to v1.78.0</code>](https://github.com/stepchowfun/docuum/commit/5646d3dc95ef0a6bc32318e04c3f96abe92a1d3d)
 - [ ] [<code>Update the Ubuntu version in the toastfile to 22.04 LTS</code>](https://github.com/stepchowfun/docuum/commit/27312e8307cadcb0cb81901ea80301491719f70f)
@@ -559,12 +537,8 @@
 
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.2 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.2...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.3 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.3...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/c45e965a4618eb409be4bcbf4c0c7b3b1712efe4)
-- [ ] [<code>3.50.3</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/0b78481497a3c17ff008d82686255b5d6e89a85f)
-  - <sub>Tags: <code>3.50.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -1938,6 +1912,10 @@
 - [ ] [<code>Revert workaround for bug in windows-latest image</code>](https://github.com/AOMediaCodec/libavif/commit/728223b91cae52c45789e96e987f135823d7b021)
 - [ ] [<code>Update libjpeg.cmd to 3.0.3 (#2194)</code>](https://github.com/AOMediaCodec/libavif/commit/76951037943244d0fce987c9872a2623ffdcb9a3)
 - [ ] [<code>Invoke ninja with -C option</code>](https://github.com/AOMediaCodec/libavif/commit/329dc9987e63e1e201f55cad5b5c42a6f750a29e)
+- [ ] [<code>Fix avifEncoderWriteExtendedColorProperties comment</code>](https://github.com/AOMediaCodec/libavif/commit/8bfb416fe71ac7dd1a81874aad15210bef79f4b7)
+- [ ] [<code>Bump fuzztest (#2209)</code>](https://github.com/AOMediaCodec/libavif/commit/3dee1bb26136a1327966fcf40034d53053b2d3b0)
+- [ ] [<code>Fix array initialCapacity of sato expression (#2211)</code>](https://github.com/AOMediaCodec/libavif/commit/3bb1883f99781904b0817a359f7ace12844132fd)
+- [ ] [<code>Use AVIF_CHECK in SampleTransformExpressionIsValid (#2210)</code>](https://github.com/AOMediaCodec/libavif/commit/68bc2be1ef87763da64ce66df6bb86c6132d2eee)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2572,9 +2550,15 @@
 - [ ] [<code>Add initial SECURITY.md policy</code>](https://github.com/canonical/netplan/commit/56bcb5db583e788265966977cafba3958dd65052)
 - [ ] [<code>doc: Create single-nic-vm-host.md (#475)</code>](https://github.com/canonical/netplan/commit/e5f4edd329e8a4837f1a201001f4f5fc0adebe93)
   - <sub>Keywords: <code>command</code></sub>
-> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+- [ ] [<code>doc: Create single-nic-vm-host-with-vlans.md (#476)</code>](https://github.com/canonical/netplan/commit/330e5a80325034af1ef9c9724a00809f86b61925)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Create multi-nic-vm-host-with-bonds-and-vlans.md (#477)</code>](https://github.com/canonical/netplan/commit/1749862e4ea81fafa6c61678c414433962e849bc)
+  - <sub>Keywords: <code>command</code></sub>
+> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped odoo16 - no appropriate URL found OrderedDict([('attr_path', 'odoo16'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped oils-for-unix - no appropriate URL found OrderedDict([('attr_path', 'oils-for-unix'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.21.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.21.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
@@ -2738,45 +2722,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.35.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.35.2...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.36.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.36.0...HEAD)
 
-- [ ] [<code>Bugfix #360 - all Frequency Spinboxes: Added PgUp/Dn or CTRL + wheel Up/Down changes bands</code>](https://github.com/foldynl/QLog.git/commit/777b29da57f84b73253175f8c018edbd693d0804)
-- [ ] [<code>Bugfix #360 - Added shortcut to switch Bands - CTRL + PgUp/Dn</code>](https://github.com/foldynl/QLog.git/commit/10773ffce77b900f274c8dd73f208f49f192dc9d)
-- [ ] [<code>New Release started</code>](https://github.com/foldynl/QLog.git/commit/6ffb5094a5f450d36e7828d875caab911147f507)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/46172ac07fc19239132505f0f1074daeea30b7db)
-- [ ] [<code>WSJTX: Added support to received ADIF QSO Log record</code>](https://github.com/foldynl/QLog.git/commit/12ef0b084c005ccfc40de9c71bcf953bc9d0060a)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/fa5d8cbbe72786b494e6bad7a322677560075562)
-- [ ] [<code>Timezones: Updated database - 2024a</code>](https://github.com/foldynl/QLog.git/commit/8938ac9382d5857f6884a0c17b80c54152f9bacb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fixed #377 - Callbook query does not work</code>](https://github.com/foldynl/QLog.git/commit/d7bc821433445b1e43050f2d4b185e5f1abe1339)
-- [ ] [<code>WSJTX: Removed qsl_sent lotw_qsl_sent eqsl_qsl_sent from ADIF message</code>](https://github.com/foldynl/QLog.git/commit/5da54bb6ed0c2afbd58083537f32024335c086e1)
-- [ ] [<code>Fixed #374 - Added number of filtered QSOs</code>](https://github.com/foldynl/QLog.git/commit/940525271f0795bc6c080b303205d0316546846f)
-- [ ] [<code>Logbook: Changing the color of the filter combo when it is active</code>](https://github.com/foldynl/QLog.git/commit/b2c45da747fc91304f40227086fed9957ebe71f0)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/adc7a044de304bfef358103d64fdf7ef65bd9f2a)
-- [ ] [<code>Fixed #383 - Logbook columns are reordered after Delete</code>](https://github.com/foldynl/QLog.git/commit/2807d3efeee2b3c3a12faed672e9c650596aa982)
-- [ ] [<code>MacOS CI/CD: Added MacOS13</code>](https://github.com/foldynl/QLog.git/commit/a4d091051a9defe8e9561b79a25e5ed51180c626)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>NewContact: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/46451390f4f7fb6b87c77912d52f0f642629d11c)
-- [ ] [<code>NewContact: the last Prop Mode and Sat Name is saved for later usage</code>](https://github.com/foldynl/QLog.git/commit/0fcd3413b4e88efc87b80536da310cff04fb08f3)
-- [ ] [<code>NewContact: Sat mode is derived from RX/TX Freq</code>](https://github.com/foldynl/QLog.git/commit/71bd414c043179e505ca38327fa2b2e21bbde4b6)
-- [ ] [<code>Fixed #384 - Missing Republic of Kosovo flag</code>](https://github.com/foldynl/QLog.git/commit/1c3ef328f0ab7ebe0579bf30b9036c71f4bbe379)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e40c3c934b3fa08d3c40ab68232e6ee52b017274)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e1f4071d9ecc9af596dee7d606d24b1c27bc1042)
-- [ ] [<code>ADIF: Callsign import always upper</code>](https://github.com/foldynl/QLog.git/commit/eed4a4d173492ee160f46eec67b44f8252b9500a)
-- [ ] [<code>MacOS: Official supported ended - only for developers</code>](https://github.com/foldynl/QLog.git/commit/5ce6486854607dc5aff5d6bd3e1003869f0e1147)
-- [ ] [<code>QSODetail: Sat mode is verified against RX/TX Freq; Added Sat Name validation</code>](https://github.com/foldynl/QLog.git/commit/5520770e66287c74f8fb82c76efd02ad851c5646)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/59a7999d4a5ec7f0c8ad05591b228d00925c6666)
-- [ ] [<code>QSODetail: Improved a validation condition for SAT mode</code>](https://github.com/foldynl/QLog.git/commit/8e31600af103527a1fe3a17699dbcb54a65c8ca2)
-- [ ] [<code>NewContact: Addl SAT fields are present only if PROP_MODE is SAT; Added extended condition for SAT_MODE</code>](https://github.com/foldynl/QLog.git/commit/01926512d0c02feae2ae5ef56202f8421b1a8ee2)
-- [ ] [<code>NewContact: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/e72a6d1c9cdd6aff9bd3433218b4bf99d832745b)
-- [ ] [<code>NewContact: QSO Start Time is updated when the QSO is saving and the QSO Timer is inactive</code>](https://github.com/foldynl/QLog.git/commit/ae0667219a662d706692a7940645dbf57fb0614b)
-- [ ] [<code>Updated Czech/German translation</code>](https://github.com/foldynl/QLog.git/commit/14a87678856634c0aa6a087ea6926e5e09559851)
-- [ ] [<code>Updated Czech/German translation (2)</code>](https://github.com/foldynl/QLog.git/commit/be46468329a24bd3d6db117df21e46aee5a787f8)
-- [ ] [<code>NewContact: Start Time is reset when the Callsign becomes empty</code>](https://github.com/foldynl/QLog.git/commit/779da715af5f536507497ab31bc3b4242f6715d7)
-- [ ] [<code>Moved Band Up/Down to the global shortcut scope</code>](https://github.com/foldynl/QLog.git/commit/bdd240158e6c3e395b988e1df42bf986b6897d8d)
-- [ ] [<code>NewContact: QSO Duration field without AM/PM</code>](https://github.com/foldynl/QLog.git/commit/79311e61ef2a586320cc64c20b8024c3fce96acb)
-- [ ] [<code>Preparation for release 0.36.0</code>](https://github.com/foldynl/QLog.git/commit/9dc6db6b69fa79e6fc3ebd8ada60843b5c83829e)
-  - <sub>Tags: <code>v0.36.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
