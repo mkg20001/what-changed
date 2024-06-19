@@ -255,7 +255,11 @@
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.0.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.0.2...HEAD)
 
 - [ ] [<code>6.2.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/8e6fa393c2b6019455f10e0457fcd22fb01494f5)
-  - <sub>Tags: <code>6.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.0</code></sub>
+- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/2f3c5946c9f4f68be1adc9059b6d5e62a79705be)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>6.2.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/5baacc05d5bb370f88c1166bf2740792d19426c1)
+  - <sub>Tags: <code>6.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.0.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.0.0...HEAD)
 
