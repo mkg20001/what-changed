@@ -1916,6 +1916,8 @@
 - [ ] [<code>Bump fuzztest (#2209)</code>](https://github.com/AOMediaCodec/libavif/commit/3dee1bb26136a1327966fcf40034d53053b2d3b0)
 - [ ] [<code>Fix array initialCapacity of sato expression (#2211)</code>](https://github.com/AOMediaCodec/libavif/commit/3bb1883f99781904b0817a359f7ace12844132fd)
 - [ ] [<code>Use AVIF_CHECK in SampleTransformExpressionIsValid (#2210)</code>](https://github.com/AOMediaCodec/libavif/commit/68bc2be1ef87763da64ce66df6bb86c6132d2eee)
+- [ ] [<code>Fix Python conflict with homebrew (#2212)</code>](https://github.com/AOMediaCodec/libavif/commit/ce3c587fc068afd7e2617fbba793b03d3385e596)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
