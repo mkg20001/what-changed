@@ -293,6 +293,7 @@
 - [ ] [<code>Remove two tracing lines from vfs2 test</code>](https://github.com/canonical/dqlite/commit/cb65db7df768bbfc3ba80a6071114fd2193feff0)
 - [ ] [<code>configure: Disable default CFLAGS from AC_PROG_CC</code>](https://github.com/canonical/dqlite/commit/334e23e7edb0c6534a247a37e36407d25803892b)
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>uv_writer: Don't skip later KAIO events when one is EAGAIN</code>](https://github.com/canonical/dqlite/commit/071024289f2a345fe9504072adeb1371b12cf795)
 - [ ] [<code>github: Test on Ubuntu Noble</code>](https://github.com/canonical/dqlite/commit/2224a7ca2acbbf63b1f3aeef125f8723e74409e3)
 - [ ] [<code>Make --enable-build-sqlite work more smoothly</code>](https://github.com/canonical/dqlite/commit/246a56a5d021c002a5b90afe9fe8281d50297c36)
 - [ ] [<code>Add CI job for building against latest SQLite, libuv</code>](https://github.com/canonical/dqlite/commit/78ea7ac60de0b0ea9229b30315fbcc046407a906)
@@ -674,6 +675,10 @@
 - [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchIPs to libovsdb</code>](https://github.com/lxc/incus/commit/6f740f3631006d2993799c5c03df058b51a2dd99)
 - [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/12b39d2c161dffc5103335823bd5cc1271e2371b)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f826ad6a6d55f1422a8def4d59941d3630b0f4d1)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/8d5fefdaf0baedea79c6441ba6c9ecd40a45ea43)
+- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupMembers to libovsdb</code>](https://github.com/lxc/incus/commit/84f905ed58c648293620bb7544adb4ac9d69ecb5)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalRouterPolicy to libovsdb</code>](https://github.com/lxc/incus/commit/afb594e42d43eb5b110e8e6a930343042fb492a8)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/41358082836db19f09f77325a84cbaf73765513a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1213,6 +1218,10 @@
 - [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchIPs to libovsdb</code>](https://github.com/lxc/incus/commit/6f740f3631006d2993799c5c03df058b51a2dd99)
 - [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/12b39d2c161dffc5103335823bd5cc1271e2371b)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f826ad6a6d55f1422a8def4d59941d3630b0f4d1)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/8d5fefdaf0baedea79c6441ba6c9ecd40a45ea43)
+- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupMembers to libovsdb</code>](https://github.com/lxc/incus/commit/84f905ed58c648293620bb7544adb4ac9d69ecb5)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalRouterPolicy to libovsdb</code>](https://github.com/lxc/incus/commit/afb594e42d43eb5b110e8e6a930343042fb492a8)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/41358082836db19f09f77325a84cbaf73765513a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1919,6 +1928,8 @@
 - [ ] [<code>Fix Python conflict with homebrew (#2212)</code>](https://github.com/AOMediaCodec/libavif/commit/ce3c587fc068afd7e2617fbba793b03d3385e596)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Refactor Sample Transforms in write.c (#2214)</code>](https://github.com/AOMediaCodec/libavif/commit/e36e8a3a263a4d657ba9da1d8e920f67d07cecd1)
+- [ ] [<code>Add token,ghbincache,cachekey to vcpkg action (#2216)</code>](https://github.com/AOMediaCodec/libavif/commit/99b036bf631baa672e203a0763ed8c58a4d8f47a)
+- [ ] [<code>Use pip to install meson on windows, not vcpkg (#2217)</code>](https://github.com/AOMediaCodec/libavif/commit/e3d67ee6a6dc271a90cd6a26f66dfab4c701ef08)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2040,6 +2051,10 @@
 - [ ] [<code>chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates</code>](https://github.com/canonical/lxd-ui/commit/fc277d7a8887605e9b4e974c113e2e95d1739e32)
 - [ ] [<code>chore(docs) add roadmap and extend readme with changelog. rename hacking to contributions guidelines WD-11364</code>](https://github.com/canonical/lxd-ui/commit/4e6a3be5cb8cd6561862c686f2d53a8f68c22ef4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(version) update to 0.9</code>](https://github.com/canonical/lxd-ui/commit/360aa158268c660fbe420d9776bb1a8fe094837f)
+  - <sub>Tags: <code>0.9</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.56.0</code>](https://github.com/canonical/lxd-ui/commit/3d03cabf75c1a38b6ed1f7ac7ec220b89057f3c7)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2557,6 +2572,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Create multi-nic-vm-host-with-bonds-and-vlans.md (#477)</code>](https://github.com/canonical/netplan/commit/1749862e4ea81fafa6c61678c414433962e849bc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test:integration: avoid verbose NM warnings</code>](https://github.com/canonical/netplan/commit/b9730281029ce7ebd2415af736bf02e6763725d9)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
