@@ -1930,6 +1930,7 @@
 - [ ] [<code>Refactor Sample Transforms in write.c (#2214)</code>](https://github.com/AOMediaCodec/libavif/commit/e36e8a3a263a4d657ba9da1d8e920f67d07cecd1)
 - [ ] [<code>Add token,ghbincache,cachekey to vcpkg action (#2216)</code>](https://github.com/AOMediaCodec/libavif/commit/99b036bf631baa672e203a0763ed8c58a4d8f47a)
 - [ ] [<code>Use pip to install meson on windows, not vcpkg (#2217)</code>](https://github.com/AOMediaCodec/libavif/commit/e3d67ee6a6dc271a90cd6a26f66dfab4c701ef08)
+- [ ] [<code>Windows: change leading / to - in RAV1E_LIBRARIES</code>](https://github.com/AOMediaCodec/libavif/commit/1842807e7ec4576f20284fe37780dd135af07945)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1977,82 +1978,8 @@
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.8.1 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.8.1...HEAD)
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.9 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.9...HEAD)
 
-- [ ] [<code>fix(test) ensure network forward test is stable WD-10196</code>](https://github.com/canonical/lxd-ui/commit/8f83970c926b97d66099c1fd78e703693dbc00bb)
-- [ ] [<code>chore(test) add custom image test WD-10108</code>](https://github.com/canonical/lxd-ui/commit/e3f50573f9a31a5e14128afbdf11fb294449c3ca)
-- [ ] [<code>chore(tests) use alpine cloud image for faster tests</code>](https://github.com/canonical/lxd-ui/commit/74f03eafc88323dcf0391ac036c3867cd8e531fb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(coverage) use lxc delete correctly</code>](https://github.com/canonical/lxd-ui/commit/595a1679eb654d0d7c013f73093f4f9953a912a9)
-- [ ] [<code>feat: update aside panels to use react portal</code>](https://github.com/canonical/lxd-ui/commit/6e07531e101d8149b3eef6c1b55c2c745c8c17f3)
-- [ ] [<code>fix(test) ensure PS1 is visible in instance terminal test before typing a command</code>](https://github.com/canonical/lxd-ui/commit/1f8135d7711aadb03dc17dc1c4a24109519de627)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.10.0</code>](https://github.com/canonical/lxd-ui/commit/6e9fb76eb3ee2c89ce0a327866e2e7098f400870)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(code) avoid react imports and add return types</code>](https://github.com/canonical/lxd-ui/commit/df5111f354de5c17ac4039d730919f01d5e98222)
-- [ ] [<code>fix(test) avoid flaky instance terminal test</code>](https://github.com/canonical/lxd-ui/commit/2403f1781cb17d7bb4652c31ce91c4b1ccac866d)
-- [ ] [<code>feat: add link to iso volumes from image list</code>](https://github.com/canonical/lxd-ui/commit/2d9a11c2abc3af52fb9c8494e7e1f6564bbbd32d)
-- [ ] [<code>feat(operations) auto refresh ops on visiting the ops list and add a refresh button</code>](https://github.com/canonical/lxd-ui/commit/2942dca4ce67ad97bc73b33d54c58e58c4b22222)
-- [ ] [<code>feat(instances) add image creation from instance snapshot</code>](https://github.com/canonical/lxd-ui/commit/446063697de2bb7ff1ae12fde4abf4ac53dd8de2)
-- [ ] [<code>chore(vite) update to v5 WD-10136</code>](https://github.com/canonical/lxd-ui/commit/55db9547cc5e7cb5dc47a386b14b4e677181f843)
-- [ ] [<code>fix(demo) loose deleted files on demo branch WD-10413</code>](https://github.com/canonical/lxd-ui/commit/91deac3d4b2da73d9fe465673d4e3f69d40f51c2)
-- [ ] [<code>fix(instance) ensure instance type is derived from image type also for custom images created from an instance snapshot. Kepp supporting iso volume quick links to the instance creation flow</code>](https://github.com/canonical/lxd-ui/commit/cfb9f91309372036181962745903b2be02b66318)
-- [ ] [<code>fix(instance): add name length check for instance name (creation/edit)</code>](https://github.com/canonical/lxd-ui/commit/eb3881ee6bb2133807f3d06787fa3c3dd61a35a8)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.51.6</code>](https://github.com/canonical/lxd-ui/commit/a583fa676c01035b2c7196c358bf70fb29b27f08)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.52.0</code>](https://github.com/canonical/lxd-ui/commit/74693e7e92322844c7ce970a08286d6fe8997625)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>github: test LXD 5.21/edge in PR job</code>](https://github.com/canonical/lxd-ui/commit/0cc99c54eb62389c582f4f0361d7ec4450401dc2)
-- [ ] [<code>github: replace LXD 5.0/stable by 5.0/edge in PR job</code>](https://github.com/canonical/lxd-ui/commit/1583bb21e250d97a918e17613f4e1583037a3aac)
-- [ ] [<code>tests: replace 5.0-stable by 5.0-edge</code>](https://github.com/canonical/lxd-ui/commit/2adc9c3dc09c5786fe6bcd4c86707b3860d01bb4)
-- [ ] [<code>package.json: s/5.0-stable/5.0-edge/ and add 5.21-edge</code>](https://github.com/canonical/lxd-ui/commit/7c6f69e5e9c4973491f1fdf23a6672e384a92f35)
-- [ ] [<code>ARCHITECTURE: update for changes to CI on PRs</code>](https://github.com/canonical/lxd-ui/commit/931189e56c5e6b99bda38dc2819762e5eff0c759)
-- [ ] [<code>HACKING: update test-e2e names and add 5.21-edge</code>](https://github.com/canonical/lxd-ui/commit/adba742676aff915b0eabd190ebcf340e6be8116)
-- [ ] [<code>src/util/architectures.tsx: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/0e41cce801eb10bdc9dbbe85a73fff55261f22a4)
-- [ ] [<code>src/pages/operations/OperationInstanceName: update link to LXD repo</code>](https://github.com/canonical/lxd-ui/commit/52e3184db395b480be21b36e8641c73228690fb1)
-- [ ] [<code>src/pages/operations/OperationInstanceName: re-enable linkable description for snapshots</code>](https://github.com/canonical/lxd-ui/commit/8b0ee16347e553e0097d1fe11a3ca990b43bae98)
-- [ ] [<code>fix(memory) use bibyte everywhere and avoid the MB or GB reportings</code>](https://github.com/canonical/lxd-ui/commit/df2a65a88e527f7deff5f27d5928cc9b70b07d67)
-- [ ] [<code>fix(storage) remove storage volume detail page and snapshots for custom isos WD-10867</code>](https://github.com/canonical/lxd-ui/commit/22ad583b9e895117335c915dfa6d52fa740bf316)
-- [ ] [<code>fix(reporting) extend data for error reports to include version and a text asking for context</code>](https://github.com/canonical/lxd-ui/commit/abd176cec3e58fc43b9b788bf83df63376ae786f)
-- [ ] [<code>fix(images) architecture filtering on image selection needs to deal with non-aliased architectures, adding test for this</code>](https://github.com/canonical/lxd-ui/commit/77f27b3be7be9d8b1285fc5e7228d7bcabe36bbd)
-- [ ] [<code>fix(instance) ensure yaml form updates after saving changed yaml and resets on cancelling changes in the yaml editor</code>](https://github.com/canonical/lxd-ui/commit/c9d3cc6c5c5784373d607d6c14b55e05f7e327ca)
-- [ ] [<code>fix(network) avoid crash when manually trying to access network config for non-managed networks, show notification instead, fixes #757</code>](https://github.com/canonical/lxd-ui/commit/1647a00df3b305d9910d103fee7e232c5ede501b)
-- [ ] [<code>fix(vm) ensure scrolling a vm graphic console is propagated to the parent element, so the console content is scrolling on screens with low height. fixes #700</code>](https://github.com/canonical/lxd-ui/commit/21c466c7026cd4f0f24a9762cce4e6d69ffae43d)
-- [ ] [<code>feature: lxd permissions management</code>](https://github.com/canonical/lxd-ui/commit/1c39400179e2b25806e360c848625bcf61e690b8)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.11.0</code>](https://github.com/canonical/lxd-ui/commit/b0dc87e02c52836330f49a9627b23eb236adfb67)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(image) case insensitive search in image list on instance launch</code>](https://github.com/canonical/lxd-ui/commit/fa2bd86cc4dd32beb6819e47eceaafd29e179c4c)
-- [ ] [<code>chore: add tests for permissions</code>](https://github.com/canonical/lxd-ui/commit/6e2b8c9b1153e22ccb2afc593cc8d580d06a48bc)
-- [ ] [<code>chore(readme) update steps to setup ui</code>](https://github.com/canonical/lxd-ui/commit/8102f9deed67286a929c6d52298949fef0cf76e2)
-- [ ] [<code>fix demo server</code>](https://github.com/canonical/lxd-ui/commit/11fb35ea4292c887b653be17ebdd8ccc2d6841e7)
-- [ ] [<code>fix(storage) ensure landing urls for storage pool creation and deletion is correct after refactoring of storage urls. fixes #770</code>](https://github.com/canonical/lxd-ui/commit/7dcb4595d22a868e7063acb7820f923a27791f71)
-- [ ] [<code>fix(ci) enforce older version of requests when installing dotrun to work around a recently introduced bug in it</code>](https://github.com/canonical/lxd-ui/commit/487ba59852dfec8c15601102df4ac8e41d7c04e9)
-- [ ] [<code>fix(instance) filter volume snapshots on selecting custom volume to add to an instance or profile. only show the custom volumes to select from. fixes #777</code>](https://github.com/canonical/lxd-ui/commit/130bb42c85ee4d35e57a1f0f28f63a48326df6a7)
-- [ ] [<code>chore(deps) update react components, use new empty state layout</code>](https://github.com/canonical/lxd-ui/commit/52be253a8a39207016202b059da3b90d63f4a093)
-- [ ] [<code>feat(docs) automate screenshotting for the readme WD-11363</code>](https://github.com/canonical/lxd-ui/commit/bcad8b18b3e5afee4045207f8e71f97678c58d3d)
-- [ ] [<code>- Fixes inability to delete single profiles</code>](https://github.com/canonical/lxd-ui/commit/74d01699bca8691411a70004dc5a57a591a63a0e)
-- [ ] [<code>fix: fix readme-screenshots.spec.ts to properly skip tests in CI environment</code>](https://github.com/canonical/lxd-ui/commit/ebae265561513a0dd1a42802cc0d3807e5c635be)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.54.0</code>](https://github.com/canonical/lxd-ui/commit/0e4de773a518fe4ae6bc4104f9b2d71e099caa94)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>feat(permission) more detailed error message when user has no access to a project or the project is not found. fixes #783</code>](https://github.com/canonical/lxd-ui/commit/d1d2c30bafe3c0d1acbd80f885ca9ab7a45f1839)
-- [ ] [<code>fix(instance) optimize wire handling in graphic console from upstream</code>](https://github.com/canonical/lxd-ui/commit/302c08f0a29f355b93d305fda385febb67a16dca)
-- [ ] [<code>Indicate logged-in-user-email in Navigation bar.</code>](https://github.com/canonical/lxd-ui/commit/51980290b403a7f3e1a683ae58a6d3367c6593b5)
-- [ ] [<code>Implementation of LXD PWA with a dynamic start_url"</code>](https://github.com/canonical/lxd-ui/commit/0e5e9347c4fa6672249d05e5882374601e922b43)
-- [ ] [<code>fix(docs) use doc link titles as link text in case they are available from the object.inv.txt content</code>](https://github.com/canonical/lxd-ui/commit/29c9a3ec9b56f82e7bf3973309973dc500106ebd)
-- [ ] [<code>chore(deps): update internal dependencies</code>](https://github.com/canonical/lxd-ui/commit/660cea8620867cfd8ca39d6f91c6ba82ccb0f27b)
-- [ ] [<code>feat: Added 2 storage e2e test to increase coverage.</code>](https://github.com/canonical/lxd-ui/commit/8216054b97b38e94ba7ebcecea1c97ab8ddb2f79)
-- [ ] [<code>Feat: Improving tests by using text assertion</code>](https://github.com/canonical/lxd-ui/commit/129c7a1416a5e2208995ef7d76d8c9fc57136f3d)
-- [ ] [<code>feat(network) allow creation and editing of physical managed networks WD-11519</code>](https://github.com/canonical/lxd-ui/commit/a42ff46e8b710bfe72eeede3ae18570933a4bcff)
-- [ ] [<code>LXD-UI e2e test for operations</code>](https://github.com/canonical/lxd-ui/commit/ce8d2e62bdd897617b0fccf84742c1dd0a585f0d)
-- [ ] [<code>chore(tests): added e2e testing for doc links</code>](https://github.com/canonical/lxd-ui/commit/be487949b439605fc83c6a87fa10038de7a3f367)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.13.0</code>](https://github.com/canonical/lxd-ui/commit/e1a8173c06eb8060eea5f58c2a534bd3fe1b4f82)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): bump the npm_and_yarn group across 1 directory with 2 updates</code>](https://github.com/canonical/lxd-ui/commit/fc277d7a8887605e9b4e974c113e2e95d1739e32)
-- [ ] [<code>chore(docs) add roadmap and extend readme with changelog. rename hacking to contributions guidelines WD-11364</code>](https://github.com/canonical/lxd-ui/commit/4e6a3be5cb8cd6561862c686f2d53a8f68c22ef4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore(version) update to 0.9</code>](https://github.com/canonical/lxd-ui/commit/360aa158268c660fbe420d9776bb1a8fe094837f)
-  - <sub>Tags: <code>0.9</code></sub>
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.56.0</code>](https://github.com/canonical/lxd-ui/commit/3d03cabf75c1a38b6ed1f7ac7ec220b89057f3c7)
   - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
