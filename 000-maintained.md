@@ -107,6 +107,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/602d9d08afbe4d0072fb54f2b0c386aac944f82a)
 - [ ] [<code>gomod: Remove excludes</code>](https://github.com/lxc/distrobuilder/commit/7af632cd32879685a3143d994ea123ec6bb19c13)
+- [ ] [<code>Fixed multiple sys files not copied issue</code>](https://github.com/lxc/distrobuilder/commit/44f0a4f35072aeada023fa5bd3a0094d51fce055)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -679,6 +680,11 @@
 - [ ] [<code>incusd/network/ovn: Port UpdatePortGroupMembers to libovsdb</code>](https://github.com/lxc/incus/commit/84f905ed58c648293620bb7544adb4ac9d69ecb5)
 - [ ] [<code>incusd/network/ovn: Port UpdateLogicalRouterPolicy to libovsdb</code>](https://github.com/lxc/incus/commit/afb594e42d43eb5b110e8e6a930343042fb492a8)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/41358082836db19f09f77325a84cbaf73765513a)
+- [ ] [<code>incusd/network/ovn: Port CreateLoadBalancer to libovsdb</code>](https://github.com/lxc/incus/commit/3e199a111c11c1d785178764ecdd15582b57e7a6)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalRouterRoutes to libovsdb</code>](https://github.com/lxc/incus/commit/2f99b1987922503434060c68c185ec3552f3ef98)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/c09bd27e3d502fce0578d21cdaa8bac27a89d5da)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ea5e08b2070d7a35ce2c6601199a639a2a4bb34e)
+- [ ] [<code>incusd/apparmor: Update for current QEMU</code>](https://github.com/lxc/incus/commit/d06441c0fd92ce88be56d4b2c409e7e063e5cbeb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1222,6 +1228,11 @@
 - [ ] [<code>incusd/network/ovn: Port UpdatePortGroupMembers to libovsdb</code>](https://github.com/lxc/incus/commit/84f905ed58c648293620bb7544adb4ac9d69ecb5)
 - [ ] [<code>incusd/network/ovn: Port UpdateLogicalRouterPolicy to libovsdb</code>](https://github.com/lxc/incus/commit/afb594e42d43eb5b110e8e6a930343042fb492a8)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/41358082836db19f09f77325a84cbaf73765513a)
+- [ ] [<code>incusd/network/ovn: Port CreateLoadBalancer to libovsdb</code>](https://github.com/lxc/incus/commit/3e199a111c11c1d785178764ecdd15582b57e7a6)
+- [ ] [<code>incusd/network/ovn: Port GetLogicalRouterRoutes to libovsdb</code>](https://github.com/lxc/incus/commit/2f99b1987922503434060c68c185ec3552f3ef98)
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/c09bd27e3d502fce0578d21cdaa8bac27a89d5da)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ea5e08b2070d7a35ce2c6601199a639a2a4bb34e)
+- [ ] [<code>incusd/apparmor: Update for current QEMU</code>](https://github.com/lxc/incus/commit/d06441c0fd92ce88be56d4b2c409e7e063e5cbeb)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1931,6 +1942,8 @@
 - [ ] [<code>Add token,ghbincache,cachekey to vcpkg action (#2216)</code>](https://github.com/AOMediaCodec/libavif/commit/99b036bf631baa672e203a0763ed8c58a4d8f47a)
 - [ ] [<code>Use pip to install meson on windows, not vcpkg (#2217)</code>](https://github.com/AOMediaCodec/libavif/commit/e3d67ee6a6dc271a90cd6a26f66dfab4c701ef08)
 - [ ] [<code>Windows: change leading / to - in RAV1E_LIBRARIES</code>](https://github.com/AOMediaCodec/libavif/commit/1842807e7ec4576f20284fe37780dd135af07945)
+- [ ] [<code>Bump fuzztest (#2221)</code>](https://github.com/AOMediaCodec/libavif/commit/8f69e16217128d5c1d787415128d062b658e7aad)
+- [ ] [<code>Upgrade to Corrosion v0.4.10</code>](https://github.com/AOMediaCodec/libavif/commit/8130965538ab5a76079472218091b5592bc8e334)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2809,4 +2822,6 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.6 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.6...HEAD)
 
 - [ ] [<code>background: Allow enabling background apps for partial support in</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/024ec3ec9947787aed8796827c93b24fdff892a1)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.0.7</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/8a9fae6202d79a2fc3c7c13a01c72ff88523948f)
+  - <sub>Tags: <code>1.0.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
