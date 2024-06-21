@@ -152,7 +152,13 @@
 - [ ] [<code>Fix extensions automatically enabling on download (#12239)</code>](https://github.com/linuxmint/cinnamon/commit/fbd7191983c7fc3f299e335fc352e08bd7b441fb)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>6.2.1</code>](https://github.com/linuxmint/cinnamon/commit/a542dbaffe5413c77272b020450315c1de790468)
-  - <sub>Tags: <code>6.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "xdg-desktop-portal: Don't ship the x-cinnamon-portals.conf file."</code>](https://github.com/linuxmint/cinnamon/commit/d06334b7034738ef3c0be0c7373377f90bff1074)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.2.2</code>](https://github.com/linuxmint/cinnamon/commit/a120e9568a609301ccfc8787075babbef186f9c8)
+  - <sub>Tags: <code>6.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.0.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.0.1...HEAD)
@@ -471,13 +477,8 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.4 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.4...HEAD)
 
 
-#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.0...HEAD)
+#### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.1 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.1...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/3cee9853016edecbe8524d9ba320b356321a2b96)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>4.2.1</code>](https://github.com/linuxmint/xreader/commit/76169aa00a172523f19df2e071505ea9cac18fa3)
-  - <sub>Tags: <code>4.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.xviewer](https://github.com/linuxmint/xviewer): [3.4.5 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.5...HEAD)
 
