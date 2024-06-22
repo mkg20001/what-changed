@@ -1944,6 +1944,7 @@
 - [ ] [<code>Windows: change leading / to - in RAV1E_LIBRARIES</code>](https://github.com/AOMediaCodec/libavif/commit/1842807e7ec4576f20284fe37780dd135af07945)
 - [ ] [<code>Bump fuzztest (#2221)</code>](https://github.com/AOMediaCodec/libavif/commit/8f69e16217128d5c1d787415128d062b658e7aad)
 - [ ] [<code>Upgrade to Corrosion v0.4.10</code>](https://github.com/AOMediaCodec/libavif/commit/8130965538ab5a76079472218091b5592bc8e334)
+- [ ] [<code>Upgrade to Corrosion v0.5.0</code>](https://github.com/AOMediaCodec/libavif/commit/ed00ebde374357c50a2c6df4c4627c5d078b4fad)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
