@@ -108,6 +108,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/602d9d08afbe4d0072fb54f2b0c386aac944f82a)
 - [ ] [<code>gomod: Remove excludes</code>](https://github.com/lxc/distrobuilder/commit/7af632cd32879685a3143d994ea123ec6bb19c13)
 - [ ] [<code>Fixed multiple sys files not copied issue</code>](https://github.com/lxc/distrobuilder/commit/44f0a4f35072aeada023fa5bd3a0094d51fce055)
+- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/787b55d64cfa7bb189867234daa1855bdea766c4)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
