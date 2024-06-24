@@ -420,6 +420,7 @@
 - [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -525,6 +526,7 @@
 - [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -687,6 +689,10 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/c09bd27e3d502fce0578d21cdaa8bac27a89d5da)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ea5e08b2070d7a35ce2c6601199a639a2a4bb34e)
 - [ ] [<code>incusd/apparmor: Update for current QEMU</code>](https://github.com/lxc/incus/commit/d06441c0fd92ce88be56d4b2c409e7e063e5cbeb)
+- [ ] [<code>incusd/apparmor: Allow /dev/shm in forkproxy</code>](https://github.com/lxc/incus/commit/7ed84242529fba61e4f5dfd3fdec5b6330fbee5a)
+- [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/8094f1c8919a0ca1eb2bbc4638cd828a3ecae677)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ee0397d333b7ee8dfa09a203170bd46e8dd35e99)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1235,6 +1241,10 @@
 - [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/c09bd27e3d502fce0578d21cdaa8bac27a89d5da)
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ea5e08b2070d7a35ce2c6601199a639a2a4bb34e)
 - [ ] [<code>incusd/apparmor: Update for current QEMU</code>](https://github.com/lxc/incus/commit/d06441c0fd92ce88be56d4b2c409e7e063e5cbeb)
+- [ ] [<code>incusd/apparmor: Allow /dev/shm in forkproxy</code>](https://github.com/lxc/incus/commit/7ed84242529fba61e4f5dfd3fdec5b6330fbee5a)
+- [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/8094f1c8919a0ca1eb2bbc4638cd828a3ecae677)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ee0397d333b7ee8dfa09a203170bd46e8dd35e99)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1948,6 +1958,7 @@
 - [ ] [<code>Upgrade to Corrosion v0.4.10</code>](https://github.com/AOMediaCodec/libavif/commit/8130965538ab5a76079472218091b5592bc8e334)
 - [ ] [<code>Upgrade to Corrosion v0.5.0</code>](https://github.com/AOMediaCodec/libavif/commit/ed00ebde374357c50a2c6df4c4627c5d078b4fad)
 - [ ] [<code>Signal gain map transformative properties (#2197)</code>](https://github.com/AOMediaCodec/libavif/commit/f774c600a07ed3e1b1fd35ca04236e3271025ee7)
+- [ ] [<code>Use permalink for meson reference. (#2224)</code>](https://github.com/AOMediaCodec/libavif/commit/767f88ece6ac51e796c24a44881739c947435ac6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2705,6 +2716,9 @@
 - [ ] [<code>Use of uninitialized memory in outgoing append entries result frames (#183)</code>](https://github.com/cowsql/raft/commit/e0928710bcc62806cc7074f010e462547decf4b7)
 - [ ] [<code>C++ compiler reject sizeof of anonymous structs</code>](https://github.com/cowsql/raft/commit/7aec814b0e1fca6cbdc3ec678a82f7978879dc75)
 - [ ] [<code>C++ compiler reject sizeof of anonymous structs (#186)</code>](https://github.com/cowsql/raft/commit/e1045698c0e6fa436158bed8442ac1cecbc7e011)
+- [ ] [<code>github: Update downstream incus test by adding MinIO client</code>](https://github.com/cowsql/raft/commit/3fe2dc99dd4928c84fc384eb5b2d4613a4efa1fc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: Update downstream incus test by adding MinIO client (#189)</code>](https://github.com/cowsql/raft/commit/5032ee9ad4b71f6b73e0c62643cd4c4405d85da8)
 > Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
