@@ -1947,6 +1947,7 @@
 - [ ] [<code>Bump fuzztest (#2221)</code>](https://github.com/AOMediaCodec/libavif/commit/8f69e16217128d5c1d787415128d062b658e7aad)
 - [ ] [<code>Upgrade to Corrosion v0.4.10</code>](https://github.com/AOMediaCodec/libavif/commit/8130965538ab5a76079472218091b5592bc8e334)
 - [ ] [<code>Upgrade to Corrosion v0.5.0</code>](https://github.com/AOMediaCodec/libavif/commit/ed00ebde374357c50a2c6df4c4627c5d078b4fad)
+- [ ] [<code>Signal gain map transformative properties (#2197)</code>](https://github.com/AOMediaCodec/libavif/commit/f774c600a07ed3e1b1fd35ca04236e3271025ee7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
