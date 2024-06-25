@@ -275,10 +275,8 @@
   - <sub>Tags: <code>6.2.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [18102c72ba072cd83ccee69e9051e87e93cab01a → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/18102c72ba072cd83ccee69e9051e87e93cab01a...HEAD)
+#### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [35aa5b9839935fc3415ba6b7c77171459e7325fa → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/35aa5b9839935fc3415ba6b7c77171459e7325fa...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/aa4391ed71ac33084d14743a8442b115a42e4da9)
-- [ ] [<code>1.6.3</code>](https://github.com/linuxmint/folder-color-switcher/commit/35aa5b9839935fc3415ba6b7c77171459e7325fa)
 
 #### [cinnamon.iso-flags-png-320x420](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -288,38 +286,14 @@
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/1.7.0...HEAD)
+#### [cinnamon.mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f5edf5683c7e7e51da2c0e66a9a288d5342edc63 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f5edf5683c7e7e51da2c0e66a9a288d5342edc63...HEAD)
 
-- [ ] [<code>Remove geary</code>](https://github.com/linuxmint/mint-l-icons/commit/47e1223415618e250a3999dcffa13a5c33d7da28)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove lollypop</code>](https://github.com/linuxmint/mint-l-icons/commit/4f3c44b6cee99ebc4c51391928fadbb626047cca)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove pitivi</code>](https://github.com/linuxmint/mint-l-icons/commit/59584c19c4a33ca4304ef987fee38e661366b74a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Remove uberwriter</code>](https://github.com/linuxmint/mint-l-icons/commit/0fba57c23477a3a0c9052b9f050780317e082daa)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add missing Flatpak app icon links</code>](https://github.com/linuxmint/mint-l-icons/commit/aede2522b3b212fc17ee935bdfa258234d1d268e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Kotlin mimetype (#9)</code>](https://github.com/linuxmint/mint-l-icons/commit/7a3eca86a9cb21e3ce4f7750c0f265bc2c09da65)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-l-icons/commit/f5edf5683c7e7e51da2c0e66a9a288d5342edc63)
 
-#### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1444bacf3ff470db05b663b9c5c3a3419decba60 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1444bacf3ff470db05b663b9c5c3a3419decba60...HEAD)
+#### [cinnamon.mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.7...HEAD)
 
-- [ ] [<code>Remove height from sound-player-overlay so that text can wrap cleanly</code>](https://github.com/linuxmint/mint-l-theme/commit/f5cdf4c4c5b2fb514e5604f5021893ba0e20aa64)
-- [ ] [<code>1.9.7</code>](https://github.com/linuxmint/mint-l-theme/commit/edc0d8c2f252ed80af0b24f831f3f35ab206896d)
-  - <sub>Tags: <code>1.9.7</code></sub>
 
-#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.6...HEAD)
+#### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.7 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.7...HEAD)
 
-- [ ] [<code>Switch to pysassc</code>](https://github.com/linuxmint/mint-themes/commit/b1dfbc54992cdcc8cb0c64e9bf5ac44d69ef9709)
-  - <sub>Tags: <code>master.mint21</code></sub>
-- [ ] [<code>Cinnamon: Add support for the new polkit dialog (#468)</code>](https://github.com/linuxmint/mint-themes/commit/b36a70d1f848d901ca2c6348306411681d675e23)
-- [ ] [<code>Linux Mint theme fix expo-workspaces-name-entry (#473)</code>](https://github.com/linuxmint/mint-themes/commit/de8cb8ed1967b9da8f41218e84f1c0e2b16fadd6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cinnamon: Add support for the new rounded userWidget</code>](https://github.com/linuxmint/mint-themes/commit/654ec9d2c77886e3998a596d9cc13426aba420f3)
-- [ ] [<code>2.1.7</code>](https://github.com/linuxmint/mint-themes/commit/64383f37c8cc890bb68cbd3777e4ca33e63fbf44)
-  - <sub>Tags: <code>2.1.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.6.9 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.6.9...HEAD)
 
