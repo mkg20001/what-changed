@@ -109,6 +109,7 @@
 - [ ] [<code>gomod: Remove excludes</code>](https://github.com/lxc/distrobuilder/commit/7af632cd32879685a3143d994ea123ec6bb19c13)
 - [ ] [<code>Fixed multiple sys files not copied issue</code>](https://github.com/lxc/distrobuilder/commit/44f0a4f35072aeada023fa5bd3a0094d51fce055)
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/787b55d64cfa7bb189867234daa1855bdea766c4)
+- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/da72b310b33eccdacea0a89b3aa5a6b73df399f4)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -1959,6 +1960,7 @@
 - [ ] [<code>Upgrade to Corrosion v0.5.0</code>](https://github.com/AOMediaCodec/libavif/commit/ed00ebde374357c50a2c6df4c4627c5d078b4fad)
 - [ ] [<code>Signal gain map transformative properties (#2197)</code>](https://github.com/AOMediaCodec/libavif/commit/f774c600a07ed3e1b1fd35ca04236e3271025ee7)
 - [ ] [<code>Use permalink for meson reference. (#2224)</code>](https://github.com/AOMediaCodec/libavif/commit/767f88ece6ac51e796c24a44881739c947435ac6)
+- [ ] [<code>Add reference to github runner bug. (#2225)</code>](https://github.com/AOMediaCodec/libavif/commit/41e1decbde43878b911e62ed145df57f3e26eb22)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2010,6 +2012,10 @@
 
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.56.0</code>](https://github.com/canonical/lxd-ui/commit/3d03cabf75c1a38b6ed1f7ac7ec220b89057f3c7)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Adjusted detail page titles for better ux consistency</code>](https://github.com/canonical/lxd-ui/commit/6cf0ebef96e22aec9f20b2b047a94f6713091a15)
+- [ ] [<code>chore: minor UI change for vertical navigation resizing.</code>](https://github.com/canonical/lxd-ui/commit/9f9f47d055cc74672aa89de2076399746b46d06b)
+- [ ] [<code>fix(instance) ensure instance name is unique and ot matched against previous name on renaming</code>](https://github.com/canonical/lxd-ui/commit/1693d000d610145ca7f73b3048ae9356d56a9e60)
+- [ ] [<code>fix(rename) reset internal form value on cancel of rename form</code>](https://github.com/canonical/lxd-ui/commit/616fa5d45f71b8b9cee02a05efb43a1b252b696b)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2529,13 +2535,15 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test:integration: avoid verbose NM warnings</code>](https://github.com/canonical/netplan/commit/b9730281029ce7ebd2415af736bf02e6763725d9)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test:integration: Try to improve test flakyness (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/a8705b5471a9062ac50096f433163111750e1ad9)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo16 - no appropriate URL found OrderedDict([('attr_path', 'odoo16'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped oils-for-unix - no appropriate URL found OrderedDict([('attr_path', 'oils-for-unix'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.21.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.21.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped oils-for-unix - no appropriate URL found OrderedDict([('attr_path', 'oils-for-unix'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.22.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.22.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
