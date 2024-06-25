@@ -110,6 +110,7 @@
 - [ ] [<code>Fixed multiple sys files not copied issue</code>](https://github.com/lxc/distrobuilder/commit/44f0a4f35072aeada023fa5bd3a0094d51fce055)
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/787b55d64cfa7bb189867234daa1855bdea766c4)
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/da72b310b33eccdacea0a89b3aa5a6b73df399f4)
+- [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/33b0cb28edb6083723f97dabbb929bdb73176bcc)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -308,6 +309,12 @@
 - [ ] [<code>raft: Add a note about ABI</code>](https://github.com/canonical/dqlite/commit/960b9e21a1e161494d79024440dead1b6c0689de)
 - [ ] [<code>update DLD to latest design</code>](https://github.com/canonical/dqlite/commit/786b9b06d05b2dcc3bc8cfe1407f0065b17bdaa9)
 - [ ] [<code>address Anatoliy's comments</code>](https://github.com/canonical/dqlite/commit/6633bd83a2cf2c99805d1acbcbf9224d6485dd5d)
+- [ ] [<code>config: Save the raft directory passed to dqlite_node_create</code>](https://github.com/canonical/dqlite/commit/6b5587d74cf157b4b9ba6fd7a0e5b6c39bfb6905)
+- [ ] [<code>server: Ensure exclusive use of the raft dir with a lock file</code>](https://github.com/canonical/dqlite/commit/27ea93280163d7bf51bd1c28c3b09f1f91017eb3)
+- [ ] [<code>Test that the lock file blocks concurrent nodes</code>](https://github.com/canonical/dqlite/commit/294464b95c1d88c6f78fc1eb43bdc7cf70c5d8d8)
+- [ ] [<code>Release v1.16.5</code>](https://github.com/canonical/dqlite/commit/769a5ae21156ea7b1f01a937f80a3da60eb6a1bb)
+  - <sub>Tags: <code>v1.16.5</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -1961,6 +1968,7 @@
 - [ ] [<code>Signal gain map transformative properties (#2197)</code>](https://github.com/AOMediaCodec/libavif/commit/f774c600a07ed3e1b1fd35ca04236e3271025ee7)
 - [ ] [<code>Use permalink for meson reference. (#2224)</code>](https://github.com/AOMediaCodec/libavif/commit/767f88ece6ac51e796c24a44881739c947435ac6)
 - [ ] [<code>Add reference to github runner bug. (#2225)</code>](https://github.com/AOMediaCodec/libavif/commit/41e1decbde43878b911e62ed145df57f3e26eb22)
+- [ ] [<code>Upgrade to cargo-c v0.9.32</code>](https://github.com/AOMediaCodec/libavif/commit/07614c44abe9176c5f72a905744d630d5cd48f8f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2845,9 +2853,5 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.6 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.6...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
 
-- [ ] [<code>background: Allow enabling background apps for partial support in</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/024ec3ec9947787aed8796827c93b24fdff892a1)
-- [ ] [<code>1.0.7</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/8a9fae6202d79a2fc3c7c13a01c72ff88523948f)
-  - <sub>Tags: <code>1.0.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
