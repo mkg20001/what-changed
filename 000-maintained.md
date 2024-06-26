@@ -115,6 +115,7 @@
 - [ ] [<code>Revert "vm: Fix lsblk parsing logic"</code>](https://github.com/lxc/distrobuilder/commit/be1bb812c4ca0206c2f552f9fa180ac400b6c0c6)
 - [ ] [<code>Revert "Fixed device major minor parse failure"</code>](https://github.com/lxc/distrobuilder/commit/5525dc7143fac71aa72e2fca2d3c640e00aee0fd)
 - [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/1a69b8548917cad6f5720752075239cca6227fc4)
+- [ ] [<code>Run unit tests via sudo</code>](https://github.com/lxc/distrobuilder/commit/4b3a2596298a7e973c40bbdfb54c129264a712bf)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -433,6 +434,7 @@
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
+- [ ] [<code>chore: Update last event after decryption</code>](https://github.com/krille-chan/fluffychat/commit/cdd32e7002926cd59f4980c33d56eee4274af8bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -539,6 +541,7 @@
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
+- [ ] [<code>chore: Update last event after decryption</code>](https://github.com/krille-chan/fluffychat/commit/cdd32e7002926cd59f4980c33d56eee4274af8bd)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -705,6 +708,22 @@
 - [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/8094f1c8919a0ca1eb2bbc4638cd828a3ecae677)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ee0397d333b7ee8dfa09a203170bd46e8dd35e99)
+- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortDeleteDNSOperations to libovsdb</code>](https://github.com/lxc/incus/commit/b89495895fdbcfa781409788f6ff1ca796317aa7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/3b14844bfcda895b5323d8acdb56183b5d2a0de3)
+- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortDeleteOperations to libovsdb</code>](https://github.com/lxc/incus/commit/598e8ea21ff818033b98f04b96799294a20ab213)
+- [ ] [<code>incusd/network/ovn: Port CleanupLogicalSwitchPort to libovsdb</code>](https://github.com/lxc/incus/commit/a94b26d71f2c1ba9c031e9f86846e2fab896dd42)
+- [ ] [<code>incusd/network/ovn: Port aclRuleDeleteOperations to libovsdb</code>](https://github.com/lxc/incus/commit/1bcbbb2c438a9ed1914788d5076989ee33a7d40b)
+- [ ] [<code>incusd/network/ovn: Port aclRuleAddOperations to libovsdb</code>](https://github.com/lxc/incus/commit/1e23f3f0814301cc3760f093146ace3109b16182)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port ClearPortGroupPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/b3619ab20bda4327fff3b7d251b6cce10971ce19)
+- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/e234381f1fed8624b11801c7a9478cbc33527c5b)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/3cb964125ec7d06d63ba884792e59e63f49c65b0)
+- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/2f2a7720c57c5a0b26031607a63f426cba11b54a)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/caaaaa764b6c6f32fd0250748a9aa9596c203b29)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/36db63da79a02d8e6b66990fba1693d3988cc917)
+- [ ] [<code>incusd/network/ovn: Remove nbctl</code>](https://github.com/lxc/incus/commit/a9aacbde7c43a7d79ac3de44e21274863d211bcc)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1257,6 +1276,22 @@
 - [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/8094f1c8919a0ca1eb2bbc4638cd828a3ecae677)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ee0397d333b7ee8dfa09a203170bd46e8dd35e99)
+- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortDeleteDNSOperations to libovsdb</code>](https://github.com/lxc/incus/commit/b89495895fdbcfa781409788f6ff1ca796317aa7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/3b14844bfcda895b5323d8acdb56183b5d2a0de3)
+- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortDeleteOperations to libovsdb</code>](https://github.com/lxc/incus/commit/598e8ea21ff818033b98f04b96799294a20ab213)
+- [ ] [<code>incusd/network/ovn: Port CleanupLogicalSwitchPort to libovsdb</code>](https://github.com/lxc/incus/commit/a94b26d71f2c1ba9c031e9f86846e2fab896dd42)
+- [ ] [<code>incusd/network/ovn: Port aclRuleDeleteOperations to libovsdb</code>](https://github.com/lxc/incus/commit/1bcbbb2c438a9ed1914788d5076989ee33a7d40b)
+- [ ] [<code>incusd/network/ovn: Port aclRuleAddOperations to libovsdb</code>](https://github.com/lxc/incus/commit/1e23f3f0814301cc3760f093146ace3109b16182)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Port ClearPortGroupPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/b3619ab20bda4327fff3b7d251b6cce10971ce19)
+- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/e234381f1fed8624b11801c7a9478cbc33527c5b)
+- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/3cb964125ec7d06d63ba884792e59e63f49c65b0)
+- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/2f2a7720c57c5a0b26031607a63f426cba11b54a)
+- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/caaaaa764b6c6f32fd0250748a9aa9596c203b29)
+- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/36db63da79a02d8e6b66990fba1693d3988cc917)
+- [ ] [<code>incusd/network/ovn: Remove nbctl</code>](https://github.com/lxc/incus/commit/a9aacbde7c43a7d79ac3de44e21274863d211bcc)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1999,6 +2034,12 @@
 - [ ] [<code>apparmor: regenerate rules</code>](https://github.com/lxc/lxc/commit/083678be2ba07ffcf42a9a59d08b2124d5f07dcf)
 - [ ] [<code>apparmor: use /{,**} instead of /**</code>](https://github.com/lxc/lxc/commit/32f88c8fecaa1f909d0aeb5ff3132932138fe692)
 - [ ] [<code>apparmor: regenerate rules</code>](https://github.com/lxc/lxc/commit/d29f72e377568204d9849d38d67a19e4476b3f0e)
+- [ ] [<code>github: start using ubuntu-24.04</code>](https://github.com/lxc/lxc/commit/bdba5efee68f20322984471173057c107e6db530)
+- [ ] [<code>github: properly check apparmor profile changes</code>](https://github.com/lxc/lxc/commit/8a297c3ad9c71a81d87a118103219dfac1d76b9b)
+- [ ] [<code>lxc/storage/zfs: ignore false-positive use-after-free warning</code>](https://github.com/lxc/lxc/commit/20a14562d29dd81ad30f389cea829f60a0508961)
+- [ ] [<code>github: exclude clang & ubuntu-24.04 combination</code>](https://github.com/lxc/lxc/commit/4892749ef4367752403a5e7fd5fd870eab191e43)
+- [ ] [<code>meson: fix build with -Dtools-multicall=true on NixOS</code>](https://github.com/lxc/lxc/commit/01ae1fe55ec2620abee3aa9a7e89456237aa363c)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
 
@@ -2551,6 +2592,23 @@
 - [ ] [<code>test:integration: Try to improve test flakyness (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/a8705b5471a9062ac50096f433163111750e1ad9)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>autopkgtest: More fixes for flaky 'ethernets' test (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/2d2e3d3986e19f8dccccc736ab253bd03be0f70c)
+- [ ] [<code>netplan: add getters for gateway4 and gateway6</code>](https://github.com/canonical/netplan/commit/563e4686db6da12da473eb2344b2cdf78481e0db)
+- [ ] [<code>state_diff: add gateway(4|6) to the routes list</code>](https://github.com/canonical/netplan/commit/6ae9e5be436433b337ef68fdb5c06a481e80e072)
+- [ ] [<code>state: use the 'dynamic' field from addr_info</code>](https://github.com/canonical/netplan/commit/991aabb21a2da99e2b34e50d7c6401c29abb2db0)
+- [ ] [<code>state: add the 'ra' flag to IPv6 addresses</code>](https://github.com/canonical/netplan/commit/459fd4b378f13113e66af905fcea4aea414c4d52)
+- [ ] [<code>api: add a getter for accept-ra</code>](https://github.com/canonical/netplan/commit/41aa877418c6fc6b9a18034b90b326ef8cee982e)
+- [ ] [<code>state_diff: improve analysis of RA/LL addresses</code>](https://github.com/canonical/netplan/commit/87c1f0922fd07066f501c7f3d40357f7eff20f7a)
+- [ ] [<code>cli/status: fix plain print with --diff</code>](https://github.com/canonical/netplan/commit/9f27f6b0280ac426fb754800449b8768e43d5d41)
+- [ ] [<code>cli: use AF_INET(6) instead of hardcoded values</code>](https://github.com/canonical/netplan/commit/7021c13f42cf3047c3ebd54900480bb658df80f2)
+- [ ] [<code>state: make use of networkd ConfigSource</code>](https://github.com/canonical/netplan/commit/540b6699273ce5bcf7f1e7224acbdf56895429ef)
+- [ ] [<code>include:netdef.h: cleanup whitespace</code>](https://github.com/canonical/netplan/commit/17812f9c456785c10e82ecc846c57d80a93d028b)
+- [ ] [<code>apply: restart networkd instead of reload/reconfigure</code>](https://github.com/canonical/netplan/commit/a530acfd8daf75219577d4426553e02b7a39d5d7)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>apply: compare full configuration to decide to restart networkd</code>](https://github.com/canonical/netplan/commit/a9c1433cbf39c90eccdfb8e355c6bb93f662f135)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Revert "apply: restart networkd instead of reload/reconfigure"</code>](https://github.com/canonical/netplan/commit/9ecdf5354eee110cf2d3310650700ec0e7ac069c)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>cli:apply: improve networkd restart logic for non-existent networkd config</code>](https://github.com/canonical/netplan/commit/a527c51fad3427423c86eaee493e78253e6075b0)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
