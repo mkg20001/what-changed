@@ -114,6 +114,7 @@
 - [ ] [<code>vm: Fix lsblk parsing logic</code>](https://github.com/lxc/distrobuilder/commit/3b538d0125d35fc7757e16266b0413626e3818ee)
 - [ ] [<code>Revert "vm: Fix lsblk parsing logic"</code>](https://github.com/lxc/distrobuilder/commit/be1bb812c4ca0206c2f552f9fa180ac400b6c0c6)
 - [ ] [<code>Revert "Fixed device major minor parse failure"</code>](https://github.com/lxc/distrobuilder/commit/5525dc7143fac71aa72e2fca2d3c640e00aee0fd)
+- [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/1a69b8548917cad6f5720752075239cca6227fc4)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -2549,6 +2550,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>test:integration: Try to improve test flakyness (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/a8705b5471a9062ac50096f433163111750e1ad9)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>autopkgtest: More fixes for flaky 'ethernets' test (Closes: #1069871)</code>](https://github.com/canonical/netplan/commit/2d2e3d3986e19f8dccccc736ab253bd03be0f70c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
