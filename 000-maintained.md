@@ -111,6 +111,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/787b55d64cfa7bb189867234daa1855bdea766c4)
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/da72b310b33eccdacea0a89b3aa5a6b73df399f4)
 - [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/33b0cb28edb6083723f97dabbb929bdb73176bcc)
+- [ ] [<code>vm: Fix lsblk parsing logic</code>](https://github.com/lxc/distrobuilder/commit/3b538d0125d35fc7757e16266b0413626e3818ee)
+- [ ] [<code>Revert "vm: Fix lsblk parsing logic"</code>](https://github.com/lxc/distrobuilder/commit/be1bb812c4ca0206c2f552f9fa180ac400b6c0c6)
+- [ ] [<code>Revert "Fixed device major minor parse failure"</code>](https://github.com/lxc/distrobuilder/commit/5525dc7143fac71aa72e2fca2d3c640e00aee0fd)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -1969,6 +1972,7 @@
 - [ ] [<code>Use permalink for meson reference. (#2224)</code>](https://github.com/AOMediaCodec/libavif/commit/767f88ece6ac51e796c24a44881739c947435ac6)
 - [ ] [<code>Add reference to github runner bug. (#2225)</code>](https://github.com/AOMediaCodec/libavif/commit/41e1decbde43878b911e62ed145df57f3e26eb22)
 - [ ] [<code>Upgrade to cargo-c v0.9.32</code>](https://github.com/AOMediaCodec/libavif/commit/07614c44abe9176c5f72a905744d630d5cd48f8f)
+- [ ] [<code>Update to SVT-AV1 v2.1.1</code>](https://github.com/AOMediaCodec/libavif/commit/6fc21bd2f97d8053797a1f000ff12d4dceddd2cb)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
