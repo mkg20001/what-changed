@@ -116,6 +116,8 @@
 - [ ] [<code>Revert "Fixed device major minor parse failure"</code>](https://github.com/lxc/distrobuilder/commit/5525dc7143fac71aa72e2fca2d3c640e00aee0fd)
 - [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/1a69b8548917cad6f5720752075239cca6227fc4)
 - [ ] [<code>Run unit tests via sudo</code>](https://github.com/lxc/distrobuilder/commit/4b3a2596298a7e973c40bbdfb54c129264a712bf)
+- [ ] [<code>debootstrap: Remove no-merged-usr/merged-usr logic</code>](https://github.com/lxc/distrobuilder/commit/ab6c95f0278b79435acfb886303d6fa4932ec7d4)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -724,6 +726,23 @@
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/36db63da79a02d8e6b66990fba1693d3988cc917)
 - [ ] [<code>incusd/network/ovn: Remove nbctl</code>](https://github.com/lxc/incus/commit/a9aacbde7c43a7d79ac3de44e21274863d211bcc)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>api: disk_io_bus_cache_filesystem</code>](https://github.com/lxc/incus/commit/651e5e7fcb3462b47c2b6192151f30fb06dd1b37)
+- [ ] [<code>incusd/device/disk: Extend io.bus option</code>](https://github.com/lxc/incus/commit/417d94bb7f9e5aff3773dff9becfea20bb0ed940)
+- [ ] [<code>incusd/device/disk: Extend io.cache option</code>](https://github.com/lxc/incus/commit/4e891330626967dd2548219f61df9b12b76f53d8)
+- [ ] [<code>incusd/device/disk: Add support for io.cache on virtiofs</code>](https://github.com/lxc/incus/commit/b4e888c920bc40226094c003ed0ea8efcfc29b01)
+- [ ] [<code>incusd/device/disk: Add support for io.bus on filesystems</code>](https://github.com/lxc/incus/commit/911e5a3c4532dbc4e5d0647c1dd5f4b2f9194016)
+- [ ] [<code>incusd/instance/driver_qemu: Handle 9p being disabled</code>](https://github.com/lxc/incus/commit/b378d59ebe5fcf68fa5f3e0609d6fe59480d1542)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/0dab18af7cfc1dfdf2b11ecd2328b86832504a5b)
+- [ ] [<code>doc/installing: Update Debian/Ubuntu build instructions</code>](https://github.com/lxc/incus/commit/b1b0990cc8b4cd4c5ad01bb60f8764d859742beb)
+- [ ] [<code>doc/installing: Mention installing Go from upstream</code>](https://github.com/lxc/incus/commit/32db7e648be224313a322f59945bcd24d66838e4)
+- [ ] [<code>incusd/instance/edk2: Add new package to track EDK2 firmwares</code>](https://github.com/lxc/incus/commit/6d04eb437b0f35ba0faca3e25b846cdbccf5d8ce)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/instance/qemu: Update to the new edk2 package</code>](https://github.com/lxc/incus/commit/2546c56300c08aabb68278a483a0dfa696f99f61)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/apparmor: Update to the new edk2 package</code>](https://github.com/lxc/incus/commit/14fd13a0af61e99d5c3e1cf733cd4ceb8d61b3de)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc: Cleanup OVMF/EDK2 handling to cover aarch64</code>](https://github.com/lxc/incus/commit/73afd842b6e5a696517963cb432837a77bb6348d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1292,6 +1311,23 @@
 - [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/36db63da79a02d8e6b66990fba1693d3988cc917)
 - [ ] [<code>incusd/network/ovn: Remove nbctl</code>](https://github.com/lxc/incus/commit/a9aacbde7c43a7d79ac3de44e21274863d211bcc)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>api: disk_io_bus_cache_filesystem</code>](https://github.com/lxc/incus/commit/651e5e7fcb3462b47c2b6192151f30fb06dd1b37)
+- [ ] [<code>incusd/device/disk: Extend io.bus option</code>](https://github.com/lxc/incus/commit/417d94bb7f9e5aff3773dff9becfea20bb0ed940)
+- [ ] [<code>incusd/device/disk: Extend io.cache option</code>](https://github.com/lxc/incus/commit/4e891330626967dd2548219f61df9b12b76f53d8)
+- [ ] [<code>incusd/device/disk: Add support for io.cache on virtiofs</code>](https://github.com/lxc/incus/commit/b4e888c920bc40226094c003ed0ea8efcfc29b01)
+- [ ] [<code>incusd/device/disk: Add support for io.bus on filesystems</code>](https://github.com/lxc/incus/commit/911e5a3c4532dbc4e5d0647c1dd5f4b2f9194016)
+- [ ] [<code>incusd/instance/driver_qemu: Handle 9p being disabled</code>](https://github.com/lxc/incus/commit/b378d59ebe5fcf68fa5f3e0609d6fe59480d1542)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/0dab18af7cfc1dfdf2b11ecd2328b86832504a5b)
+- [ ] [<code>doc/installing: Update Debian/Ubuntu build instructions</code>](https://github.com/lxc/incus/commit/b1b0990cc8b4cd4c5ad01bb60f8764d859742beb)
+- [ ] [<code>doc/installing: Mention installing Go from upstream</code>](https://github.com/lxc/incus/commit/32db7e648be224313a322f59945bcd24d66838e4)
+- [ ] [<code>incusd/instance/edk2: Add new package to track EDK2 firmwares</code>](https://github.com/lxc/incus/commit/6d04eb437b0f35ba0faca3e25b846cdbccf5d8ce)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/instance/qemu: Update to the new edk2 package</code>](https://github.com/lxc/incus/commit/2546c56300c08aabb68278a483a0dfa696f99f61)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/apparmor: Update to the new edk2 package</code>](https://github.com/lxc/incus/commit/14fd13a0af61e99d5c3e1cf733cd4ceb8d61b3de)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc: Cleanup OVMF/EDK2 handling to cover aarch64</code>](https://github.com/lxc/incus/commit/73afd842b6e5a696517963cb432837a77bb6348d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2010,6 +2046,7 @@
 - [ ] [<code>Upgrade to cargo-c v0.9.32</code>](https://github.com/AOMediaCodec/libavif/commit/07614c44abe9176c5f72a905744d630d5cd48f8f)
 - [ ] [<code>Update to SVT-AV1 v2.1.1</code>](https://github.com/AOMediaCodec/libavif/commit/6fc21bd2f97d8053797a1f000ff12d4dceddd2cb)
 - [ ] [<code>Upgrade to cargo-c v0.10.0 + fix for cargo-c#383</code>](https://github.com/AOMediaCodec/libavif/commit/0f14f7b262283ae85e42c54a836365829679d6f7)
+- [ ] [<code>Do not use GIT_SHALLOW ON with a hash GIT_TAG</code>](https://github.com/AOMediaCodec/libavif/commit/22e47a381aa4f0559d123054940892e1ab83628c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -2610,6 +2647,13 @@
 - [ ] [<code>Revert "apply: restart networkd instead of reload/reconfigure"</code>](https://github.com/canonical/netplan/commit/9ecdf5354eee110cf2d3310650700ec0e7ac069c)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>cli:apply: improve networkd restart logic for non-existent networkd config</code>](https://github.com/canonical/netplan/commit/a527c51fad3427423c86eaee493e78253e6075b0)
+- [ ] [<code>libnetplan: use more restrictive file permissions</code>](https://github.com/canonical/netplan/commit/4c39b75b5c6ae7d976bda6da68da60d9a7f085ee)
+- [ ] [<code>libnetplan: escape control characters</code>](https://github.com/canonical/netplan/commit/20aace6e4b6bcd6e21f998c8299b3446734301ff)
+- [ ] [<code>backends: escape file paths</code>](https://github.com/canonical/netplan/commit/6fb0f7ff6ab4c25d5c4f9800d0a3486f8621b0f6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>backends: escape semicolons in service units</code>](https://github.com/canonical/netplan/commit/316b9b72f4c2cc42c557c26c8df6c46e517b0bf1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>doc: Fix netplan-generate.md formatting (#483)</code>](https://github.com/canonical/netplan/commit/1879133b01b8182ce8474eb30bbd26484d294c34)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
