@@ -2009,6 +2009,7 @@
 - [ ] [<code>Add reference to github runner bug. (#2225)</code>](https://github.com/AOMediaCodec/libavif/commit/41e1decbde43878b911e62ed145df57f3e26eb22)
 - [ ] [<code>Upgrade to cargo-c v0.9.32</code>](https://github.com/AOMediaCodec/libavif/commit/07614c44abe9176c5f72a905744d630d5cd48f8f)
 - [ ] [<code>Update to SVT-AV1 v2.1.1</code>](https://github.com/AOMediaCodec/libavif/commit/6fc21bd2f97d8053797a1f000ff12d4dceddd2cb)
+- [ ] [<code>Upgrade to cargo-c v0.10.0 + fix for cargo-c#383</code>](https://github.com/AOMediaCodec/libavif/commit/0f14f7b262283ae85e42c54a836365829679d6f7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
