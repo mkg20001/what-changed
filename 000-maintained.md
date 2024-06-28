@@ -1868,6 +1868,7 @@
 - [ ] [<code>Do not use GIT_SHALLOW ON with a hash GIT_TAG</code>](https://github.com/AOMediaCodec/libavif/commit/22e47a381aa4f0559d123054940892e1ab83628c)
 - [ ] [<code>Remove backwardDirection from avifGainMapMetadata</code>](https://github.com/AOMediaCodec/libavif/commit/4654e63067219d6018caf9f0cbaf6075a0d06052)
 - [ ] [<code>Run clang-format-16</code>](https://github.com/AOMediaCodec/libavif/commit/4a67281b41ad8dde868673a0120b61ac98881cc4)
+- [ ] [<code>Run clang-format-check.yml on pull_request</code>](https://github.com/AOMediaCodec/libavif/commit/6c837240c538005fb60fe18a4b0a8c99f0dc900b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1929,6 +1930,8 @@
 - [ ] [<code>chore: minor UI change for vertical navigation resizing.</code>](https://github.com/canonical/lxd-ui/commit/9f9f47d055cc74672aa89de2076399746b46d06b)
 - [ ] [<code>fix(instance) ensure instance name is unique and ot matched against previous name on renaming</code>](https://github.com/canonical/lxd-ui/commit/1693d000d610145ca7f73b3048ae9356d56a9e60)
 - [ ] [<code>fix(rename) reset internal form value on cancel of rename form</code>](https://github.com/canonical/lxd-ui/commit/616fa5d45f71b8b9cee02a05efb43a1b252b696b)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.58.0</code>](https://github.com/canonical/lxd-ui/commit/860bbcb51b64d5a316681b482986172d3e0f02f4)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
