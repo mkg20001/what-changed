@@ -118,6 +118,8 @@
 - [ ] [<code>Run unit tests via sudo</code>](https://github.com/lxc/distrobuilder/commit/4b3a2596298a7e973c40bbdfb54c129264a712bf)
 - [ ] [<code>debootstrap: Remove no-merged-usr/merged-usr logic</code>](https://github.com/lxc/distrobuilder/commit/ab6c95f0278b79435acfb886303d6fa4932ec7d4)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>debootstrap: Add workaround for devuan</code>](https://github.com/lxc/distrobuilder/commit/bea11060198847f836568b6de13d685407d6f66f)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -2619,6 +2621,15 @@
 - [ ] [<code>fix(web): masonry layout splits column mid-section</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe8a2d372b208cddefcf700f06950e98b9e8b576)
 - [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9c6474618c749185b207a6fdd4b851833dded7f0)
 - [ ] [<code>feat(web): export custom eq profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/304f311291ad9fa449993159272fffa2190931c4)
+- [ ] [<code>refactor(web): rename customProfiles dir in prep for import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/deb5946d23ffc11b54f8d424544766e02a0d4ec2)
+- [ ] [<code>feat(web): import custom equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66ef531fec7e3974cc16ee44a2cf2798db9268ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(web): add import custom profile tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c809bf0f9cf3b9ab74f2f775d38a8af120fb2d7e)
+- [ ] [<code>fix(web): accessibility issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/236c67aaef3e9a0e2c22372cfe94de4c251089bb)
+- [ ] [<code>fix(web): components missing unique key</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9fee3458566c0c8ae62c0f3a24c29e6350fe7e33)
+- [ ] [<code>test(web): add TODO about stderr messages</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b76348ab6b03285c7763ff4bdc3c17a69466108b)
+- [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/28f0af5e84e71777d0818e1d8964aa1ef8b3d433)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
