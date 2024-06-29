@@ -289,7 +289,7 @@
 
 #### [cinnamon.iso-flags-png-320x420](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
-> Dropped cinnamon.mint-artwork - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.mint-artwork'), ('home_url', 'https://github.com/linuxmint/mint-artwork'), ('src_url', ''), ('urls', ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.2.tar.xz', 'https://web.archive.org/web/20240505123538/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.2.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped cinnamon.mint-artwork - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.mint-artwork'), ('home_url', 'https://github.com/linuxmint/mint-artwork'), ('src_url', ''), ('urls', ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.3.tar.xz', 'https://web.archive.org/web/20240629131305/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.3.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [cinnamon.mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
