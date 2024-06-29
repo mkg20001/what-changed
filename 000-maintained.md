@@ -561,6 +561,7 @@
 - [ ] [<code>doc: Cleanup OVMF/EDK2 handling to cover aarch64</code>](https://github.com/lxc/incus/commit/73afd842b6e5a696517963cb432837a77bb6348d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc/installing: Use Incus 6.0.0 as example</code>](https://github.com/lxc/incus/commit/83de5e1ec96e663581b2078e287af4e0008c9007)
+- [ ] [<code>incusd/instance/qemu: Fix handling of virtiofs-only disks</code>](https://github.com/lxc/incus/commit/193b371417487e3d9325e524fb9f527d2252ed9e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
 
@@ -1147,6 +1148,7 @@
 - [ ] [<code>doc: Cleanup OVMF/EDK2 handling to cover aarch64</code>](https://github.com/lxc/incus/commit/73afd842b6e5a696517963cb432837a77bb6348d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc/installing: Use Incus 6.0.0 as example</code>](https://github.com/lxc/incus/commit/83de5e1ec96e663581b2078e287af4e0008c9007)
+- [ ] [<code>incusd/instance/qemu: Fix handling of virtiofs-only disks</code>](https://github.com/lxc/incus/commit/193b371417487e3d9325e524fb9f527d2252ed9e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
