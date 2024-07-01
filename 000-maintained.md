@@ -1871,6 +1871,7 @@
 - [ ] [<code>Remove backwardDirection from avifGainMapMetadata</code>](https://github.com/AOMediaCodec/libavif/commit/4654e63067219d6018caf9f0cbaf6075a0d06052)
 - [ ] [<code>Run clang-format-16</code>](https://github.com/AOMediaCodec/libavif/commit/4a67281b41ad8dde868673a0120b61ac98881cc4)
 - [ ] [<code>Run clang-format-check.yml on pull_request</code>](https://github.com/AOMediaCodec/libavif/commit/6c837240c538005fb60fe18a4b0a8c99f0dc900b)
+- [ ] [<code>Bump the github-actions group with 2 updates (#2238)</code>](https://github.com/AOMediaCodec/libavif/commit/5d024d79d8af7b72b6c8f602e2e134c753d4348d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
