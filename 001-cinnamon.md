@@ -4,6 +4,8 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.3...HEAD)
 
+- [ ] [<code>windowMenu.js: Fix warning flood when moving a window to another</code>](https://github.com/linuxmint/cinnamon/commit/1800d4bbb5f4be179da2619aa1dc3f70030ac3af)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
