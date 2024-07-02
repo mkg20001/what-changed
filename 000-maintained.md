@@ -138,6 +138,7 @@
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.5 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.5...HEAD)
 
+- [ ] [<code>feat: first version of snapshot state machine</code>](https://github.com/canonical/dqlite/commit/ee0759693123be86b241cdbf6a760c9c2a6b67b6)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -564,7 +565,7 @@
 - [ ] [<code>doc/installing: Use Incus 6.0.0 as example</code>](https://github.com/lxc/incus/commit/83de5e1ec96e663581b2078e287af4e0008c9007)
 - [ ] [<code>incusd/instance/qemu: Fix handling of virtiofs-only disks</code>](https://github.com/lxc/incus/commit/193b371417487e3d9325e524fb9f527d2252ed9e)
 
-#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.0...HEAD)
+#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
 - [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
 - [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
@@ -1878,7 +1879,7 @@
 - [ ] [<code>Upgrade to cargo-c v0.10.2</code>](https://github.com/AOMediaCodec/libavif/commit/f1b49231c7238740ec02ce1ea000877b1a43a5a4)
 - [ ] [<code>avifRWStreamWriteBits: Check `v` for valid range</code>](https://github.com/AOMediaCodec/libavif/commit/e10e6d98e6d1dbcdd409859a924d1b607a1e06dc)
 
-#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
+#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
 - [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/05416319327e7bbd76c904d00d9c25027f63be5b)
   - <sub>Files: <code>meson.build</code></sub>
@@ -2641,6 +2642,7 @@
 - [ ] [<code>test(web): add TODO about stderr messages</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b76348ab6b03285c7763ff4bdc3c17a69466108b)
 - [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/28f0af5e84e71777d0818e1d8964aa1ef8b3d433)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b3d1dc07a50c076d26b22d070dd1ae41a57e5e2)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
