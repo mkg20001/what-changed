@@ -1874,6 +1874,8 @@
 - [ ] [<code>Bump the github-actions group with 2 updates (#2238)</code>](https://github.com/AOMediaCodec/libavif/commit/5d024d79d8af7b72b6c8f602e2e134c753d4348d)
 - [ ] [<code>Remove a redundant AVIF_NODISCARD for avifResult</code>](https://github.com/AOMediaCodec/libavif/commit/c5693f7481f08ebfa951311875cd8d5b1fae69ef)
 - [ ] [<code>Print boxFourcc & configPropName using %.4s format</code>](https://github.com/AOMediaCodec/libavif/commit/9ece9c7fdf4e8790f8d03b33f675f63ee8d08184)
+- [ ] [<code>Upgrade to cargo-c v0.10.2</code>](https://github.com/AOMediaCodec/libavif/commit/f1b49231c7238740ec02ce1ea000877b1a43a5a4)
+- [ ] [<code>avifRWStreamWriteBits: Check `v` for valid range</code>](https://github.com/AOMediaCodec/libavif/commit/e10e6d98e6d1dbcdd409859a924d1b607a1e06dc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.0 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.0...HEAD)
 
