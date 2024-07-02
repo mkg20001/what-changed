@@ -134,6 +134,7 @@
 - [ ] [<code>Update GitHub Actions to use non-deprecated versions</code>](https://github.com/stepchowfun/docuum/commit/5231621e10af8728fa9f60154bf2f71bfcc98b37)
 - [ ] [<code>Update the toastfile</code>](https://github.com/stepchowfun/docuum/commit/0196bd25563bce8556aa31931d0142dcd1aefec2)
 - [ ] [<code>Update Rust to v1.79.0</code>](https://github.com/stepchowfun/docuum/commit/2b7b6833d2db03bac5629e29186db30968f8bf41)
+- [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.5 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.5...HEAD)
 
@@ -1908,7 +1909,7 @@
 - [ ] [<code>meson: fix build with -Dtools-multicall=true on NixOS</code>](https://github.com/lxc/lxc/commit/01ae1fe55ec2620abee3aa9a7e89456237aa363c)
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.0 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.0...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.1 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.1...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
@@ -2659,7 +2660,7 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.5.27.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.1.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.36.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.36.0...HEAD)
