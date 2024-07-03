@@ -1941,6 +1941,7 @@
 - [ ] [<code>fix(rename) reset internal form value on cancel of rename form</code>](https://github.com/canonical/lxd-ui/commit/616fa5d45f71b8b9cee02a05efb43a1b252b696b)
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.58.0</code>](https://github.com/canonical/lxd-ui/commit/860bbcb51b64d5a316681b482986172d3e0f02f4)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update internal dependencies</code>](https://github.com/canonical/lxd-ui/commit/c67187fd6597e71a4003fb3b88d7375737849017)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2487,6 +2488,10 @@
 - [ ] [<code>backends: escape semicolons in service units</code>](https://github.com/canonical/netplan/commit/316b9b72f4c2cc42c557c26c8df6c46e517b0bf1)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>doc: Fix netplan-generate.md formatting (#483)</code>](https://github.com/canonical/netplan/commit/1879133b01b8182ce8474eb30bbd26484d294c34)
+- [ ] [<code>emitter: allow unicode characters in the emitter</code>](https://github.com/canonical/netplan/commit/2945ea39053616b394978b532b63ca2000d4c45d)
+- [ ] [<code>parse: do not escape all non-ascii bytes</code>](https://github.com/canonical/netplan/commit/9e76feb9ea32212ddb8bfa2d2d58dcdb68ed73a9)
+- [ ] [<code> Increase some test timeouts to account for slow (riscv64) buildds</code>](https://github.com/canonical/netplan/commit/e057a889136345d484ccf66477bc7c9ff5b787c0)
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2791,6 +2796,10 @@
 - [ ] [<code>Bump vite from 5.2.9 to 5.2.12 (#545)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/882fe264b2fbc34ed9258f400c23d5b39bfb4042)
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.4 to 2.0.5 (#530)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/38057de5c8a73ffb065497f2a3a6c52bfadcf262)
 - [ ] [<code>Bump @types/node from 20.12.7 to 20.14.0 (#547)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e21e44362c879ac41f47c580b04210842b6ff3d7)
+- [ ] [<code>Bump the npm_and_yarn group with 2 updates (#560)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbc7d328ccd56b0358b1aef813026e4cb3a07acc)
+- [ ] [<code>Support darkTheme (#459)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8cadfbd3afee7ae0a60a329694a4deff0a1b543c)
+- [ ] [<code>Bump @eslint/js from 9.1.1 to 9.6.0 (#563)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cbfdc1d6f66f6bbedb3770e5e8a0734abf255674)
+- [ ] [<code>Bump @typescript-eslint/parser from 7.8.0 to 7.15.0 (#565)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f8ac0403a98b023a98b3c69f0ae70eda89f0a65a)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
