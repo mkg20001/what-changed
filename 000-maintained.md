@@ -255,6 +255,8 @@
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
 - [ ] [<code>chore: Update last event after decryption</code>](https://github.com/krille-chan/fluffychat/commit/cdd32e7002926cd59f4980c33d56eee4274af8bd)
 - [ ] [<code>fix: Correctly localize time of date</code>](https://github.com/krille-chan/fluffychat/commit/2b630aca4d1a2d67b3796c50cc8ce0067eb9eef8)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/bc52c9f677cea96cad1627008311e8dfa92fc71d)
+- [ ] [<code>fix: Follow up matrix sdk update</code>](https://github.com/krille-chan/fluffychat/commit/873362428c2ad8bf2db122c2c8c7dd49a44174af)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -363,6 +365,8 @@
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
 - [ ] [<code>chore: Update last event after decryption</code>](https://github.com/krille-chan/fluffychat/commit/cdd32e7002926cd59f4980c33d56eee4274af8bd)
 - [ ] [<code>fix: Correctly localize time of date</code>](https://github.com/krille-chan/fluffychat/commit/2b630aca4d1a2d67b3796c50cc8ce0067eb9eef8)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/bc52c9f677cea96cad1627008311e8dfa92fc71d)
+- [ ] [<code>fix: Follow up matrix sdk update</code>](https://github.com/krille-chan/fluffychat/commit/873362428c2ad8bf2db122c2c8c7dd49a44174af)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1878,6 +1882,8 @@
 - [ ] [<code>Print boxFourcc & configPropName using %.4s format</code>](https://github.com/AOMediaCodec/libavif/commit/9ece9c7fdf4e8790f8d03b33f675f63ee8d08184)
 - [ ] [<code>Upgrade to cargo-c v0.10.2</code>](https://github.com/AOMediaCodec/libavif/commit/f1b49231c7238740ec02ce1ea000877b1a43a5a4)
 - [ ] [<code>avifRWStreamWriteBits: Check `v` for valid range</code>](https://github.com/AOMediaCodec/libavif/commit/e10e6d98e6d1dbcdd409859a924d1b607a1e06dc)
+- [ ] [<code>Update low-overhead image format prototype (#2229)</code>](https://github.com/AOMediaCodec/libavif/commit/b1b0c54a3413b0029cc2f879943cc60a99ff1371)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2667,7 +2673,7 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.1.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.2.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.2.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.36.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.36.0...HEAD)
