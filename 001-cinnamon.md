@@ -69,6 +69,7 @@
 - [ ] [<code>Fix handling of actions that are not part of the layout.</code>](https://github.com/linuxmint/nemo/commit/393d979a25c491d8e9b63a5b35727077bfb0a4c4)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>nemo-icon-container.c: Don't tie the interactive search box</code>](https://github.com/linuxmint/nemo/commit/055b47af0e1a830e556989372f3689bbd36b639d)
+- [ ] [<code>nemo-action-layout-editor.glade: Set a translation domain.</code>](https://github.com/linuxmint/nemo/commit/544732a790762e50c744f09e49b7762a916bf332)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
