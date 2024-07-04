@@ -257,6 +257,7 @@
 - [ ] [<code>fix: Correctly localize time of date</code>](https://github.com/krille-chan/fluffychat/commit/2b630aca4d1a2d67b3796c50cc8ce0067eb9eef8)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/bc52c9f677cea96cad1627008311e8dfa92fc71d)
 - [ ] [<code>fix: Follow up matrix sdk update</code>](https://github.com/krille-chan/fluffychat/commit/873362428c2ad8bf2db122c2c8c7dd49a44174af)
+- [ ] [<code>chore: Follow up time of day format</code>](https://github.com/krille-chan/fluffychat/commit/fc867b33a14db0dbe16d81eed098a7f296ca701a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -367,6 +368,7 @@
 - [ ] [<code>fix: Correctly localize time of date</code>](https://github.com/krille-chan/fluffychat/commit/2b630aca4d1a2d67b3796c50cc8ce0067eb9eef8)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/bc52c9f677cea96cad1627008311e8dfa92fc71d)
 - [ ] [<code>fix: Follow up matrix sdk update</code>](https://github.com/krille-chan/fluffychat/commit/873362428c2ad8bf2db122c2c8c7dd49a44174af)
+- [ ] [<code>chore: Follow up time of day format</code>](https://github.com/krille-chan/fluffychat/commit/fc867b33a14db0dbe16d81eed098a7f296ca701a)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2498,6 +2500,17 @@
 - [ ] [<code>parse: do not escape all non-ascii bytes</code>](https://github.com/canonical/netplan/commit/9e76feb9ea32212ddb8bfa2d2d58dcdb68ed73a9)
 - [ ] [<code> Increase some test timeouts to account for slow (riscv64) buildds</code>](https://github.com/canonical/netplan/commit/e057a889136345d484ccf66477bc7c9ff5b787c0)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wait-online: wait for 'routable' state, if corresponding IPs are defined</code>](https://github.com/canonical/netplan/commit/b1f752d01bca8c5eb7bce7d68a65dd98250a8968)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wait-online: new tests for routable waiting</code>](https://github.com/canonical/netplan/commit/39241c20149b5d17907b57b8983f429da0ee3b12)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>wait-online: don't ignore 'routable' intefaces in 'linklocal' waiting stage</code>](https://github.com/canonical/netplan/commit/b4f54951f2b207567ec2188d09dd3b543f359ded)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wait-online: issue a log message about optional bond-members</code>](https://github.com/canonical/netplan/commit/1cf0a403d64674b2bf9ac9499ae7bfcd3334b927)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:generator: refactor test_args.py check_output, using text=True</code>](https://github.com/canonical/netplan/commit/d788c97d803a8199dea247de2f7e8ed0bd85bdb4)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>networkd:wait-online: make logging message more informative</code>](https://github.com/canonical/netplan/commit/039ea1f8713ba714e33361558f11fc055c7fd86b)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
