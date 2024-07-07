@@ -395,6 +395,7 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.3 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.3...HEAD)
 
+- [ ] [<code>Fix compile issue with gtk-4.15.0 (#14)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/5e274118f32c7239e9c883ce1e1cc35af3d27a98)
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -2697,72 +2698,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.2.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.2.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.36.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.36.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.37.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.0...HEAD)
 
-- [ ] [<code>Fixed #389 - QRZ auth over POST with form data</code>](https://github.com/foldynl/QLog.git/commit/ec4c0384ce456c0fd4b4f3a1ec6e2b7c6d341cc5)
-- [ ] [<code>Fixed #390 - Spot Last QSO contains TX freq, should contain RX freq</code>](https://github.com/foldynl/QLog.git/commit/835fb9b306a2e85599e35ddcc3dcdd009b89db46)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>DXWidget: Code cleanup</code>](https://github.com/foldynl/QLog.git/commit/6b06166306ca38ddf35b28b1f066e407677599b7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixed #391 - Spot Last QSO must contain Freq in kHz</code>](https://github.com/foldynl/QLog.git/commit/a3476f6824554fb6d292f8ee34d7c66d48ffac90)
-- [ ] [<code>DXWidget: Code cleanup & optimalization</code>](https://github.com/foldynl/QLog.git/commit/e2b52fe1973a49f2b45d0e8e2147ac6e1d098a15)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>BandPlan: Added QSO100 3cm banplan</code>](https://github.com/foldynl/QLog.git/commit/4fac16851bcf7e1d8217986d98c573ffb05a5c3c)
-- [ ] [<code>DXWidget: Improved the SH/DX spot detection in case of SHF</code>](https://github.com/foldynl/QLog.git/commit/777539e24c8bad990240f2386975533b4555c96d)
-- [ ] [<code>DXC: Filters are reloaded in case of the Global Setting change</code>](https://github.com/foldynl/QLog.git/commit/58b3caf79a1a748b58619eec4a90a8dad008bf08)
-- [ ] [<code>LOVDownloader: Reworked CTY file parsing</code>](https://github.com/foldynl/QLog.git/commit/441eead7f9878c9a70f8fdec2c4ea49f49e21781)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>LOVDownloader: Changed to Big CTY file</code>](https://github.com/foldynl/QLog.git/commit/250b4a5cb104c610fd7a5a4b3c38d6a71081456f)
-- [ ] [<code>Fixed #372 - Guantanamo KG4 prefix issue</code>](https://github.com/foldynl/QLog.git/commit/fe04224bd83b9528a65fc85edd543610f9bf2a3e)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>NewContact: if Callbook and current DXCC IDs are different then Callbook DXCC ID is used</code>](https://github.com/foldynl/QLog.git/commit/ae2cb2e7cb22468188f50cce292827dab312c2d3)
-- [ ] [<code>Logbook: Set Search Callsign cleanup</code>](https://github.com/foldynl/QLog.git/commit/50cb8fc16cadf6548a553247bca83e2d5f43d3c5)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/8faf4490601f9d039e06fa9987256d8b8eace65d)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/5467750fc617aa00b86970a99fe1fd09496539e5)
-- [ ] [<code>Updated changelog</code>](https://github.com/foldynl/QLog.git/commit/384e83c9b4a1d61ab9277634e9474aba944e9a2a)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/8b5e194e938c71529abf0374bb615dcdc43fde2f)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/79a13ff50ad19dd7de436a7f6e16522e0e4f629d)
-- [ ] [<code>Shortcuts: All global shortcuts are registered as an action in the MainWindow</code>](https://github.com/foldynl/QLog.git/commit/10e9193f78db3851dc8ea03479b47f10533a550c)
-- [ ] [<code>Fixed #293 - Added Shortcut Editor</code>](https://github.com/foldynl/QLog.git/commit/99cb116e3f4ea9c5e139791be8c859c87a2e953b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>ColumnSetting: It is used LocaleAware sorting</code>](https://github.com/foldynl/QLog.git/commit/da1c187f5e4ffcb5ea53afcc593a7444b809fd82)
-- [ ] [<code>Fixed #293 - QActions with changeable shortcuts are identified using the property changeableshortcut</code>](https://github.com/foldynl/QLog.git/commit/aea005815c67e00508339bb336e5a6aa0a56afb2)
-- [ ] [<code>Fixed #388 - QRZ Lookup Not Including Full Name - History Full Name</code>](https://github.com/foldynl/QLog.git/commit/25146c06eb4fa5c24dfa8f5fa4507d387b43da11)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/1515032bc9e0410ca1b971659b2050170008d243)
-- [ ] [<code>DXC: Removed shortcut - Delete DXC Server</code>](https://github.com/foldynl/QLog.git/commit/e7b3ea5c161d3971d40e73cce7a709d199120fa4)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3a13ec28a2a2eb20c70f1a95552555ee7efb4291)
-- [ ] [<code>Fixed #388 - QRZ Lookup Not Including Full Name - History Full Name (2)</code>](https://github.com/foldynl/QLog.git/commit/2858583808836a3356f513ebeabb4ff2c03f128c)
-- [ ] [<code>Added Spanish Translation</code>](https://github.com/foldynl/QLog.git/commit/4abb082af29abbcaa0c2e510798e3ca50fac7805)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixed Typo</code>](https://github.com/foldynl/QLog.git/commit/7a823329007fc5f1ccd7eb3fecb02cea617203d5)
-- [ ] [<code>Settings: Added Clear button to the Shortcuts editor</code>](https://github.com/foldynl/QLog.git/commit/f243acc43adf023c86348b28328b39769486aac7)
-- [ ] [<code>Settings: Suppressed warning with the same shortcut for the same action</code>](https://github.com/foldynl/QLog.git/commit/f20ecaf34bb61452bcb2c3fea532933b75794f8f)
-- [ ] [<code>Online Map: Added WSJTX CQ Spots</code>](https://github.com/foldynl/QLog.git/commit/28eb25c5370469789f612fde9fc953275318436f)
-- [ ] [<code>WSJTX: Added Sorting</code>](https://github.com/foldynl/QLog.git/commit/b7c349e8c4409c53500b5edbcb48ddb6177625b5)
-- [ ] [<code>Alert: Tune WSJTX spots</code>](https://github.com/foldynl/QLog.git/commit/cf71d6aa15e8ac7866ef58bee387126b00e581b6)
-- [ ] [<code>Alert: Sortable view</code>](https://github.com/foldynl/QLog.git/commit/e7db6eed652d20ef625e7feb3b4dbb42100e2646)
-- [ ] [<code>Online Map: Code cleanup</code>](https://github.com/foldynl/QLog.git/commit/41216ce2ce91a571b97303e399a44c021bc2d459)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/1d6bd50da7b4c23c522518b043b34bc614a89a7b)
-- [ ] [<code>Online Map: Renamed WSJTX to WSJTX - CQ</code>](https://github.com/foldynl/QLog.git/commit/437b839774363888d0fe98c3ed74c1168b65138e)
-- [ ] [<code>NewContact: Code optimalization</code>](https://github.com/foldynl/QLog.git/commit/4ff45f646b21d5388ed6a22c8555fb27973ea7f7)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Reworded some actions; Updated Czech/German translations</code>](https://github.com/foldynl/QLog.git/commit/32ec30ce2229e8796287b7cde8b7643e79e7ad93)
-- [ ] [<code>Added patch to gitignore file</code>](https://github.com/foldynl/QLog.git/commit/dfc0f3dfa3f661e28074e40fad23d7df2ae3226f)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/32cebf6ce557fa796fe546745ce1d1a70748b09f)
-- [ ] [<code>Migration: Removed WSJTX View state from config</code>](https://github.com/foldynl/QLog.git/commit/1cd6b65a9ab4fc50215ebe1d79256b66089c5be9)
-- [ ] [<code>Updated Spanish translation</code>](https://github.com/foldynl/QLog.git/commit/d64dcf042d9b21447ede91798354afc08620e59b)
-- [ ] [<code>Fixed #396 - Added Search Callsign Clear Button</code>](https://github.com/foldynl/QLog.git/commit/76adfcc19fc48b05bfd15212954fa6c27b896bf5)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e2c2fab8a409d5e4f7922e716d0b662c3b6b6829)
-- [ ] [<code>WSJTX: Temporary removed autoselection of callsign - unreliable</code>](https://github.com/foldynl/QLog.git/commit/c1ea45084d88128e422e12b0c6c3248ea1858658)
-- [ ] [<code>NewContact: NearestCallsign updates Time to prevent displaying the wrong QSO duration</code>](https://github.com/foldynl/QLog.git/commit/cf746ea17dde43f80860710237fc55b98f76e8b9)
-- [ ] [<code>Fixed #394 - Bandmap select previous selected callsign issue</code>](https://github.com/foldynl/QLog.git/commit/1b5cd185a9293d797f9d5d35f00cd6836fcdcf0a)
-- [ ] [<code>Bandmap: code optimalization</code>](https://github.com/foldynl/QLog.git/commit/29b3c319ac8658a18d4531ea68536b484f3d19c4)
-- [ ] [<code>Online Map: Change color of default WSJTX CQ Spot from transparent to white</code>](https://github.com/foldynl/QLog.git/commit/156268c9a8880935b5fd3141617d9682e0934f8f)
-- [ ] [<code>WSJTX: Fixed issue with DXCC Status and FT4 mode</code>](https://github.com/foldynl/QLog.git/commit/bbd576cc9a9719b8fbb03c92310b9d1590a09848)
-- [ ] [<code>WSJTX: Code tunning - removed unused parts of code</code>](https://github.com/foldynl/QLog.git/commit/7d0f59d85a7afb4c776a7cf6498e91862894f44e)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/bee11fcd9bab6b5848d50832d5572158bcaf984d)
-- [ ] [<code>Preparation for release 0.37.0</code>](https://github.com/foldynl/QLog.git/commit/80e7b4901c725ea453dacb3748af73fa2023b798)
-  - <sub>Tags: <code>v0.37.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -2901,6 +2838,8 @@
 - [ ] [<code>lib: introduce zlib library</code>](https://github.com/jow-/ucode/commit/8b0318f7fabe06736c4437579054f6040466f6d3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>nl80211: move access to tb array out of uc_nl_convert_attr and below</code>](https://github.com/jow-/ucode/commit/73644a036f5a67dc850ad73f4c713763db7c579c)
+- [ ] [<code>nl80211: add support for multi-attribute arrays</code>](https://github.com/jow-/ucode/commit/6e3cf83a77a7363d05c2b4c604187004d6eb17ef)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
