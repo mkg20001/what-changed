@@ -260,6 +260,8 @@
 - [ ] [<code>chore: Follow up time of day format</code>](https://github.com/krille-chan/fluffychat/commit/fc867b33a14db0dbe16d81eed098a7f296ca701a)
 - [ ] [<code>chore: Follow up use 24 hour format</code>](https://github.com/krille-chan/fluffychat/commit/e88afdd357ff1af52287644bc2157b42a5fbfc1b)
 - [ ] [<code>refactor: Omit local types</code>](https://github.com/krille-chan/fluffychat/commit/ef5ea57c5832966c946e24973274b5e975597875)
+- [ ] [<code>build: Bump version to v1.21.2</code>](https://github.com/krille-chan/fluffychat/commit/3018a5213fecf6cdab1a3f7b7a2c4b08d7859f70)
+  - <sub>Tags: <code>rc1.21.2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -373,6 +375,8 @@
 - [ ] [<code>chore: Follow up time of day format</code>](https://github.com/krille-chan/fluffychat/commit/fc867b33a14db0dbe16d81eed098a7f296ca701a)
 - [ ] [<code>chore: Follow up use 24 hour format</code>](https://github.com/krille-chan/fluffychat/commit/e88afdd357ff1af52287644bc2157b42a5fbfc1b)
 - [ ] [<code>refactor: Omit local types</code>](https://github.com/krille-chan/fluffychat/commit/ef5ea57c5832966c946e24973274b5e975597875)
+- [ ] [<code>build: Bump version to v1.21.2</code>](https://github.com/krille-chan/fluffychat/commit/3018a5213fecf6cdab1a3f7b7a2c4b08d7859f70)
+  - <sub>Tags: <code>rc1.21.2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
