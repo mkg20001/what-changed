@@ -139,6 +139,8 @@
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.5 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.5...HEAD)
 
 - [ ] [<code>feat: first version of snapshot state machine</code>](https://github.com/canonical/dqlite/commit/ee0759693123be86b241cdbf6a760c9c2a6b67b6)
+- [ ] [<code>feat: integrate anatoliy o11y prototype</code>](https://github.com/canonical/dqlite/commit/2f5ecfffa6236bd15ca0569e1ab0fd6af166b0db)
+- [ ] [<code>sm: Fix format specifiers for armhf</code>](https://github.com/canonical/dqlite/commit/f00f0caafeacec7294192cbbaa3a5b6975d3f7cd)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -1895,6 +1897,8 @@
 - [ ] [<code>avifRWStreamWriteBits: Check `v` for valid range</code>](https://github.com/AOMediaCodec/libavif/commit/e10e6d98e6d1dbcdd409859a924d1b607a1e06dc)
 - [ ] [<code>Update low-overhead image format prototype (#2229)</code>](https://github.com/AOMediaCodec/libavif/commit/b1b0c54a3413b0029cc2f879943cc60a99ff1371)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Test chromaSubsampling == 0 to match a later test</code>](https://github.com/AOMediaCodec/libavif/commit/9d77b155a9ee2f65b532035e3d38fcb1df664a55)
+- [ ] [<code>Add "Version 1.1.0 ends here" comments</code>](https://github.com/AOMediaCodec/libavif/commit/b0eb897c44c27a06e91f1326eba7cb1f0eb2c8a5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1959,6 +1963,11 @@
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.58.0</code>](https://github.com/canonical/lxd-ui/commit/860bbcb51b64d5a316681b482986172d3e0f02f4)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(deps): update internal dependencies</code>](https://github.com/canonical/lxd-ui/commit/c67187fd6597e71a4003fb3b88d7375737849017)
+- [ ] [<code>fix(login) use trust_token as a field name in the payload when reusing a certificate in case the explicit_trust_token api extension is present</code>](https://github.com/canonical/lxd-ui/commit/88668487d4834123ec42e350da5d7af52eaf3104)
+- [ ] [<code>chore(version) update to 0.10</code>](https://github.com/canonical/lxd-ui/commit/5101707706cf3c40631fe05ef6ead0f4ea66341e)
+- [ ] [<code>fix(features) ensure the version detection is compatible with version > 5</code>](https://github.com/canonical/lxd-ui/commit/c867ac414fd23616b25a32fddd02e3211a862c1d)
+- [ ] [<code>fix(nav) ensure nav is correctly layed out on initial landing in case the nav is higher than the current screen</code>](https://github.com/canonical/lxd-ui/commit/9704aea2dca26c40bde1c19301150d55c6fc6a50)
+  - <sub>Tags: <code>0.10</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
