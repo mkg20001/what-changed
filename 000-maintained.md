@@ -587,11 +587,15 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/storage_volume: Fix lint</code>](https://github.com/lxc/incus/commit/569674df3be30592339b4b862c77f0a639805b7e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/installing: Mention incus-tools package</code>](https://github.com/lxc/incus/commit/f61cd7bf6427d44ef97e882c7e4b27e4d573ec50)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus-simplestreams: Add support for unified images</code>](https://github.com/lxc/incus/commit/a65344ec3ebeea5b496ccbf2be13dfcdc01c9e74)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus-simplestreams: Tweak help message</code>](https://github.com/lxc/incus/commit/cfb1421a8f0674d53ad0da59625ec4970f569091)
 - [ ] [<code>incus-simplestreams: Refactor unified logic</code>](https://github.com/lxc/incus/commit/a3da639efd9e41f75a74773bee9208f9c583150c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/927dd9102a3b42f459d01a23e9ea78e02496ed1d)
+- [ ] [<code>incusd/apparmor: Allow devpts mounts</code>](https://github.com/lxc/incus/commit/32112704e5194c26ba8733d288b65711e2f939d2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1185,11 +1189,15 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/storage_volume: Fix lint</code>](https://github.com/lxc/incus/commit/569674df3be30592339b4b862c77f0a639805b7e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/installing: Mention incus-tools package</code>](https://github.com/lxc/incus/commit/f61cd7bf6427d44ef97e882c7e4b27e4d573ec50)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus-simplestreams: Add support for unified images</code>](https://github.com/lxc/incus/commit/a65344ec3ebeea5b496ccbf2be13dfcdc01c9e74)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus-simplestreams: Tweak help message</code>](https://github.com/lxc/incus/commit/cfb1421a8f0674d53ad0da59625ec4970f569091)
 - [ ] [<code>incus-simplestreams: Refactor unified logic</code>](https://github.com/lxc/incus/commit/a3da639efd9e41f75a74773bee9208f9c583150c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/927dd9102a3b42f459d01a23e9ea78e02496ed1d)
+- [ ] [<code>incusd/apparmor: Allow devpts mounts</code>](https://github.com/lxc/incus/commit/32112704e5194c26ba8733d288b65711e2f939d2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1921,6 +1929,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Test chromaSubsampling == 0 to match a later test</code>](https://github.com/AOMediaCodec/libavif/commit/9d77b155a9ee2f65b532035e3d38fcb1df664a55)
 - [ ] [<code>Add "Version 1.1.0 ends here" comments</code>](https://github.com/AOMediaCodec/libavif/commit/b0eb897c44c27a06e91f1326eba7cb1f0eb2c8a5)
+- [ ] [<code>Remove old "Add any new members after this line."</code>](https://github.com/AOMediaCodec/libavif/commit/fd5d5a899eaf63f5dbd86d72df14d4c6c2a9ff3b)
+- [ ] [<code>Use proper API for figuring out configPropName</code>](https://github.com/AOMediaCodec/libavif/commit/3b2a5efb03aecf6381e0ac5837be80cc3d0b1296)
+- [ ] [<code>Fix __cplusplus version (#2246)</code>](https://github.com/AOMediaCodec/libavif/commit/d2a20874e8ecc115d09d8e5bee36839556d95654)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1974,22 +1985,8 @@
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.9 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.9...HEAD)
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.10 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.10...HEAD)
 
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.56.0</code>](https://github.com/canonical/lxd-ui/commit/3d03cabf75c1a38b6ed1f7ac7ec220b89057f3c7)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore: Adjusted detail page titles for better ux consistency</code>](https://github.com/canonical/lxd-ui/commit/6cf0ebef96e22aec9f20b2b047a94f6713091a15)
-- [ ] [<code>chore: minor UI change for vertical navigation resizing.</code>](https://github.com/canonical/lxd-ui/commit/9f9f47d055cc74672aa89de2076399746b46d06b)
-- [ ] [<code>fix(instance) ensure instance name is unique and ot matched against previous name on renaming</code>](https://github.com/canonical/lxd-ui/commit/1693d000d610145ca7f73b3048ae9356d56a9e60)
-- [ ] [<code>fix(rename) reset internal form value on cancel of rename form</code>](https://github.com/canonical/lxd-ui/commit/616fa5d45f71b8b9cee02a05efb43a1b252b696b)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.58.0</code>](https://github.com/canonical/lxd-ui/commit/860bbcb51b64d5a316681b482986172d3e0f02f4)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update internal dependencies</code>](https://github.com/canonical/lxd-ui/commit/c67187fd6597e71a4003fb3b88d7375737849017)
-- [ ] [<code>fix(login) use trust_token as a field name in the payload when reusing a certificate in case the explicit_trust_token api extension is present</code>](https://github.com/canonical/lxd-ui/commit/88668487d4834123ec42e350da5d7af52eaf3104)
-- [ ] [<code>chore(version) update to 0.10</code>](https://github.com/canonical/lxd-ui/commit/5101707706cf3c40631fe05ef6ead0f4ea66341e)
-- [ ] [<code>fix(features) ensure the version detection is compatible with version > 5</code>](https://github.com/canonical/lxd-ui/commit/c867ac414fd23616b25a32fddd02e3211a862c1d)
-- [ ] [<code>fix(nav) ensure nav is correctly layed out on initial landing in case the nav is higher than the current screen</code>](https://github.com/canonical/lxd-ui/commit/9704aea2dca26c40bde1c19301150d55c6fc6a50)
-  - <sub>Tags: <code>0.10</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
