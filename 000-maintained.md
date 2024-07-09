@@ -581,6 +581,17 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc/installing: Use Incus 6.0.0 as example</code>](https://github.com/lxc/incus/commit/83de5e1ec96e663581b2078e287af4e0008c9007)
 - [ ] [<code>incusd/instance/qemu: Fix handling of virtiofs-only disks</code>](https://github.com/lxc/incus/commit/193b371417487e3d9325e524fb9f527d2252ed9e)
+- [ ] [<code>incus/storage_volume: Tweak help messages</code>](https://github.com/lxc/incus/commit/d116427d275fe4b3ffb88ad207b0c5c6ed1d4bee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3598339e4c3b05b4fc79c2cbdf106c07ef577dbf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage_volume: Fix lint</code>](https://github.com/lxc/incus/commit/569674df3be30592339b4b862c77f0a639805b7e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Add support for unified images</code>](https://github.com/lxc/incus/commit/a65344ec3ebeea5b496ccbf2be13dfcdc01c9e74)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Tweak help message</code>](https://github.com/lxc/incus/commit/cfb1421a8f0674d53ad0da59625ec4970f569091)
+- [ ] [<code>incus-simplestreams: Refactor unified logic</code>](https://github.com/lxc/incus/commit/a3da639efd9e41f75a74773bee9208f9c583150c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1168,6 +1179,17 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc/installing: Use Incus 6.0.0 as example</code>](https://github.com/lxc/incus/commit/83de5e1ec96e663581b2078e287af4e0008c9007)
 - [ ] [<code>incusd/instance/qemu: Fix handling of virtiofs-only disks</code>](https://github.com/lxc/incus/commit/193b371417487e3d9325e524fb9f527d2252ed9e)
+- [ ] [<code>incus/storage_volume: Tweak help messages</code>](https://github.com/lxc/incus/commit/d116427d275fe4b3ffb88ad207b0c5c6ed1d4bee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3598339e4c3b05b4fc79c2cbdf106c07ef577dbf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage_volume: Fix lint</code>](https://github.com/lxc/incus/commit/569674df3be30592339b4b862c77f0a639805b7e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Add support for unified images</code>](https://github.com/lxc/incus/commit/a65344ec3ebeea5b496ccbf2be13dfcdc01c9e74)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Tweak help message</code>](https://github.com/lxc/incus/commit/cfb1421a8f0674d53ad0da59625ec4970f569091)
+- [ ] [<code>incus-simplestreams: Refactor unified logic</code>](https://github.com/lxc/incus/commit/a3da639efd9e41f75a74773bee9208f9c583150c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2766,6 +2788,7 @@
 - [ ] [<code>Add erasure status to users (#294)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fac09cb9bbc9b0a5fb594628eca9c72b1309862b)
 - [ ] [<code>Add locked status to users (#413)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b5ca951b323b4eeb3d6b901980264aca86c0050e)
 - [ ] [<code>Set relative base path in vite.config.ts (#536)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/002b63acadc1a6f3bfbf188d9a2f1f86a91f7ffa)
+  - <sub>Tags: <code>0.10.2</code></sub>
 - [ ] [<code>Bump vite from 5.2.9 to 5.2.12 (#545)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/882fe264b2fbc34ed9258f400c23d5b39bfb4042)
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.4 to 2.0.5 (#530)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/38057de5c8a73ffb065497f2a3a6c52bfadcf262)
 - [ ] [<code>Bump @types/node from 20.12.7 to 20.14.0 (#547)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e21e44362c879ac41f47c580b04210842b6ff3d7)
@@ -2773,6 +2796,14 @@
 - [ ] [<code>Support darkTheme (#459)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8cadfbd3afee7ae0a60a329694a4deff0a1b543c)
 - [ ] [<code>Bump @eslint/js from 9.1.1 to 9.6.0 (#563)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cbfdc1d6f66f6bbedb3770e5e8a0734abf255674)
 - [ ] [<code>Bump @typescript-eslint/parser from 7.8.0 to 7.15.0 (#565)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f8ac0403a98b023a98b3c69f0ae70eda89f0a65a)
+- [ ] [<code>Bump docker/build-push-action from 5 to 6 (#554)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/048a43f40442b7dcd5b7c3be04daac1978fa0f5f)
+- [ ] [<code>Bump softprops/action-gh-release from 2.0.5 to 2.0.6 (#561)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9c5e755f3f26e85696535b9ab5f21df951c81a59)
+- [ ] [<code>Bump eslint-plugin-jsx-a11y from 6.8.0 to 6.9.0 (#567)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c7f3fa9212ebd436650d38a25dc4ae7e807c5c9e)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.0 to 4.6.3 (#572)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c07ec04b4e74351888c375b33bf9fb7b35d2bc9e)
+- [ ] [<code>Bump react-hook-form from 7.51.3 to 7.52.1 (#569)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cc51b3edbe877c2659a4b321a67fe3e97c6aa7a6)
+- [ ] [<code>Bump ts-jest from 29.1.2 to 29.2.0 (#570)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/659730ce2e0128a5339f651cf9ce9195dcb34914)
+- [ ] [<code>Bump @types/node from 20.14.0 to 20.14.10 (#568)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a5714386f40dcfcf1b3a36be2c1b4b87b23ef439)
+- [ ] [<code>Bump @mui/material from 5.15.16 to 5.16.0 (#571)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c48f560fb045d39334c7286b5752baaebe457911)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
