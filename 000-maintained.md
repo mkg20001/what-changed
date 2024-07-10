@@ -19,7 +19,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.1/dbeaver-ce-24.1.1-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.1/dbeaver-ce-24.1.1-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.2/dbeaver-ce-24.1.2-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.2/dbeaver-ce-24.1.2-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
@@ -141,6 +141,8 @@
 - [ ] [<code>feat: first version of snapshot state machine</code>](https://github.com/canonical/dqlite/commit/ee0759693123be86b241cdbf6a760c9c2a6b67b6)
 - [ ] [<code>feat: integrate anatoliy o11y prototype</code>](https://github.com/canonical/dqlite/commit/2f5ecfffa6236bd15ca0569e1ab0fd6af166b0db)
 - [ ] [<code>sm: Fix format specifiers for armhf</code>](https://github.com/canonical/dqlite/commit/f00f0caafeacec7294192cbbaa3a5b6975d3f7cd)
+- [ ] [<code>Fix a possible UAF</code>](https://github.com/canonical/dqlite/commit/00db6f07383417f1ddd55119ed3bc0e6f084dbde)
+- [ ] [<code>free *snapshots if rv != 0</code>](https://github.com/canonical/dqlite/commit/f98027e81a78a5edbee836d5184e37d62dec8c6d)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
