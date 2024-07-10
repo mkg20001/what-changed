@@ -598,6 +598,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/927dd9102a3b42f459d01a23e9ea78e02496ed1d)
 - [ ] [<code>incusd/apparmor: Allow devpts mounts</code>](https://github.com/lxc/incus/commit/32112704e5194c26ba8733d288b65711e2f939d2)
+- [ ] [<code>incusd: Improve profile rename errors</code>](https://github.com/lxc/incus/commit/7de1849632279e42b6da3a3f05fed530c540908c)
+- [ ] [<code>incusd/sys: Add cluster resources cache path</code>](https://github.com/lxc/incus/commit/d0b9b9931bbd0d0991d6068c4ef3e2d18657ff1f)
+- [ ] [<code>incusd/daemon: Locally cache other server resources</code>](https://github.com/lxc/incus/commit/edd7a4cbf9437e1aeb9e444f1beff4540c88ba63)
+- [ ] [<code>incusd/instance/drivers/qmp: Add QueryCPUModel</code>](https://github.com/lxc/incus/commit/b2be9b9d88fb2b6cf67fb24211740d1fd9bbc7cc)
+- [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
+- [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1200,6 +1206,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/927dd9102a3b42f459d01a23e9ea78e02496ed1d)
 - [ ] [<code>incusd/apparmor: Allow devpts mounts</code>](https://github.com/lxc/incus/commit/32112704e5194c26ba8733d288b65711e2f939d2)
+- [ ] [<code>incusd: Improve profile rename errors</code>](https://github.com/lxc/incus/commit/7de1849632279e42b6da3a3f05fed530c540908c)
+- [ ] [<code>incusd/sys: Add cluster resources cache path</code>](https://github.com/lxc/incus/commit/d0b9b9931bbd0d0991d6068c4ef3e2d18657ff1f)
+- [ ] [<code>incusd/daemon: Locally cache other server resources</code>](https://github.com/lxc/incus/commit/edd7a4cbf9437e1aeb9e444f1beff4540c88ba63)
+- [ ] [<code>incusd/instance/drivers/qmp: Add QueryCPUModel</code>](https://github.com/lxc/incus/commit/b2be9b9d88fb2b6cf67fb24211740d1fd9bbc7cc)
+- [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
+- [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2551,6 +2563,9 @@
 - [ ] [<code>tests:generator: refactor test_args.py check_output, using text=True</code>](https://github.com/canonical/netplan/commit/d788c97d803a8199dea247de2f7e8ed0bd85bdb4)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>networkd:wait-online: make logging message more informative</code>](https://github.com/canonical/netplan/commit/039ea1f8713ba714e33361558f11fc055c7fd86b)
+- [ ] [<code>Fix FTBFS on Debian unstable (probably /tmp on tmpfs?)</code>](https://github.com/canonical/netplan/commit/090a5b77cab2bef27c9ea5757da72c8ccdf42880)
+- [ ] [<code>CLI:apply: call udevadm trigger, using --action=move (Closes: #1071220) (LP: #2066344, LP: #2071363)</code>](https://github.com/canonical/netplan/commit/8b5a2a872f9d95f33d81969561dd71b606774dca)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2726,11 +2741,25 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.7.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.7.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.37.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.0...HEAD)
 
+- [ ] [<code>Fixed #401 - QSO-Table - Callsign filter is not filled in properly</code>](https://github.com/foldynl/QLog.git/commit/dfb75b5a5dfd09e0adb43544ffdcebf67042d52d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fixed #404 - DXC: Fixed zero frequency for last QSO in case of FT8 QSOs</code>](https://github.com/foldynl/QLog.git/commit/076bf339f34b7b2a6ee02453c209013ae414c586)
+- [ ] [<code>DXC: The Command line is cleared when Disconnect DXC is pressed</code>](https://github.com/foldynl/QLog.git/commit/1784ef3744a4baa6f165122dbd2ee81cd4475a12)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed #409: Callsign Context Menu does not work</code>](https://github.com/foldynl/QLog.git/commit/bd74829c791eb4d453c06590b751b97826a09cbd)
+- [ ] [<code>Fixed #410 - QSO Details: The Save and Edit buttons are not translated</code>](https://github.com/foldynl/QLog.git/commit/35a7f3983250512ce5b2d2d011c7b8ef35475f35)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/913dfed0ef036f9d10eece1900f67b45347026b6)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/0b263ac9d66dbacfe010884ed99257688c3cf618)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/13fb62e00bad6ae28bc877fbb4cc9d7ca4e7c6ae)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/4d8b30f22ceff76702407d9e0168e95ce6da988f)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3ea03dcb7231698d3923c3561e4d0066346fbfc3)
+- [ ] [<code>Preparation for release 0.37.1</code>](https://github.com/foldynl/QLog.git/commit/643a1643186fcafee6f43daac88768100a9a9404)
+  - <sub>Tags: <code>v0.37.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
