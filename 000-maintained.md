@@ -1934,6 +1934,7 @@
 - [ ] [<code>Remove old "Add any new members after this line."</code>](https://github.com/AOMediaCodec/libavif/commit/fd5d5a899eaf63f5dbd86d72df14d4c6c2a9ff3b)
 - [ ] [<code>Use proper API for figuring out configPropName</code>](https://github.com/AOMediaCodec/libavif/commit/3b2a5efb03aecf6381e0ac5837be80cc3d0b1296)
 - [ ] [<code>Fix __cplusplus version (#2246)</code>](https://github.com/AOMediaCodec/libavif/commit/d2a20874e8ecc115d09d8e5bee36839556d95654)
+- [ ] [<code>Do not test #if AVIF_CODEC_AVM_ENABLED in C code (#2247)</code>](https://github.com/AOMediaCodec/libavif/commit/471326f276ed2fe741c1c80d9b115ba853cb5065)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2803,6 +2804,10 @@
 - [ ] [<code>Bump ts-jest from 29.1.2 to 29.2.0 (#570)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/659730ce2e0128a5339f651cf9ce9195dcb34914)
 - [ ] [<code>Bump @types/node from 20.14.0 to 20.14.10 (#568)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a5714386f40dcfcf1b3a36be2c1b4b87b23ef439)
 - [ ] [<code>Bump @mui/material from 5.15.16 to 5.16.0 (#571)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c48f560fb045d39334c7286b5752baaebe457911)
+- [ ] [<code>Dedupe yarn.lock</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f55e02730eb1825dd2dab1289d2a45000ad04d21)
+- [ ] [<code>Use custom data provider method for "delete_media"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ec0fc14b6836ab7eb510b02d6463f33133935066)
+- [ ] [<code>Regroup source code</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fce6e03fc5a90e6feb9ce766a9cb41153e28a346)
+- [ ] [<code>Fix getWellKnownUrl()</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4adf2c2bca0c5850eebffbb551866b23ecc14084)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
