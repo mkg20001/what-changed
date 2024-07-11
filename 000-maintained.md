@@ -607,6 +607,31 @@
 - [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
 - [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
 - [ ] [<code>incusd/device/network: Fix Tap interface MTU when in OVN</code>](https://github.com/lxc/incus/commit/601bbc51a89cfc0d35ee71edecac9ae62f86cf94)
+- [ ] [<code>incusd/isntance: Don't expose all internal flags in INFO message</code>](https://github.com/lxc/incus/commit/a49e8c83e542da265df33b7097ad4b2d384f324b)
+- [ ] [<code>incusd/instance/lxc: Allow calling Update from a Create operation</code>](https://github.com/lxc/incus/commit/e55063a30a471d8365579e08c44ddd770b264a82)
+- [ ] [<code>cmd/incusd: Add forknet dhcp</code>](https://github.com/lxc/incus/commit/0de2bf9f2720dff3193d10e539522de9f8400c9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/subprocess: Allow building on Windows</code>](https://github.com/lxc/incus/commit/6fb4b533772269c34ec3c17a6280a3740808714b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>api: instance_oci</code>](https://github.com/lxc/incus/commit/640f813a529c0443349158c319435bb9142a13a9)
+- [ ] [<code>client: Add basic OCI registry client</code>](https://github.com/lxc/incus/commit/b5280ed6361a663b8d675d58db1d88bad685fcd4)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus: Add OCI remote support</code>](https://github.com/lxc/incus/commit/b2cdc45ea41b57ddbbc84ca6b544e351ebc7e581)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cliconfig: Add OCI remote support</code>](https://github.com/lxc/incus/commit/0a9899b1ca7d0f40ffb02cef729fcc110c7c85ce)
+- [ ] [<code>incusd: Add OCI registry support</code>](https://github.com/lxc/incus/commit/438a1f08b337d1e24da125d645be6a01e1fd34cb)
+- [ ] [<code>incusd/instance/lxc: Basic OCI support</code>](https://github.com/lxc/incus/commit/16e9ccf592f8c244fe0d436756d39f3090620f58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Add volatile.container.oci</code>](https://github.com/lxc/incus/commit/115ad4c7fc153a089d6c446f3f7f18759929d901)
+- [ ] [<code>incusd/instance/lxc: Add volatile.container.oci</code>](https://github.com/lxc/incus/commit/fd5f178935e53e3ea6a302189b97703b56888ade)
+- [ ] [<code>incus: Add support for volatile.container.oci</code>](https://github.com/lxc/incus/commit/6a1c33dd7b50ad442193909b8552da3c7d685aef)
+- [ ] [<code>incusd/instance: Handle OCI config on create from image</code>](https://github.com/lxc/incus/commit/8526d15a2f472a2de0ef653de1f45070ff0768a1)
+- [ ] [<code>tests: Add basic OCI test</code>](https://github.com/lxc/incus/commit/352150b9534cac4a91acaa9c05852de94e8a4eff)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/aadb3660fff1335427d022cdf426fc221d79f863)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3a1684548cf40ebb0a16c87b525504ff8ea70b83)
+- [ ] [<code>doc: Add OCI to wordlist</code>](https://github.com/lxc/incus/commit/0713d5471b232627620cd318497e73f3f746ccb2)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/507c95d6450307f87731d9725d292af98fe61094)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1216,6 +1241,31 @@
 - [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
 - [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
 - [ ] [<code>incusd/device/network: Fix Tap interface MTU when in OVN</code>](https://github.com/lxc/incus/commit/601bbc51a89cfc0d35ee71edecac9ae62f86cf94)
+- [ ] [<code>incusd/isntance: Don't expose all internal flags in INFO message</code>](https://github.com/lxc/incus/commit/a49e8c83e542da265df33b7097ad4b2d384f324b)
+- [ ] [<code>incusd/instance/lxc: Allow calling Update from a Create operation</code>](https://github.com/lxc/incus/commit/e55063a30a471d8365579e08c44ddd770b264a82)
+- [ ] [<code>cmd/incusd: Add forknet dhcp</code>](https://github.com/lxc/incus/commit/0de2bf9f2720dff3193d10e539522de9f8400c9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/subprocess: Allow building on Windows</code>](https://github.com/lxc/incus/commit/6fb4b533772269c34ec3c17a6280a3740808714b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>api: instance_oci</code>](https://github.com/lxc/incus/commit/640f813a529c0443349158c319435bb9142a13a9)
+- [ ] [<code>client: Add basic OCI registry client</code>](https://github.com/lxc/incus/commit/b5280ed6361a663b8d675d58db1d88bad685fcd4)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus: Add OCI remote support</code>](https://github.com/lxc/incus/commit/b2cdc45ea41b57ddbbc84ca6b544e351ebc7e581)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cliconfig: Add OCI remote support</code>](https://github.com/lxc/incus/commit/0a9899b1ca7d0f40ffb02cef729fcc110c7c85ce)
+- [ ] [<code>incusd: Add OCI registry support</code>](https://github.com/lxc/incus/commit/438a1f08b337d1e24da125d645be6a01e1fd34cb)
+- [ ] [<code>incusd/instance/lxc: Basic OCI support</code>](https://github.com/lxc/incus/commit/16e9ccf592f8c244fe0d436756d39f3090620f58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Add volatile.container.oci</code>](https://github.com/lxc/incus/commit/115ad4c7fc153a089d6c446f3f7f18759929d901)
+- [ ] [<code>incusd/instance/lxc: Add volatile.container.oci</code>](https://github.com/lxc/incus/commit/fd5f178935e53e3ea6a302189b97703b56888ade)
+- [ ] [<code>incus: Add support for volatile.container.oci</code>](https://github.com/lxc/incus/commit/6a1c33dd7b50ad442193909b8552da3c7d685aef)
+- [ ] [<code>incusd/instance: Handle OCI config on create from image</code>](https://github.com/lxc/incus/commit/8526d15a2f472a2de0ef653de1f45070ff0768a1)
+- [ ] [<code>tests: Add basic OCI test</code>](https://github.com/lxc/incus/commit/352150b9534cac4a91acaa9c05852de94e8a4eff)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/aadb3660fff1335427d022cdf426fc221d79f863)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3a1684548cf40ebb0a16c87b525504ff8ea70b83)
+- [ ] [<code>doc: Add OCI to wordlist</code>](https://github.com/lxc/incus/commit/0713d5471b232627620cd318497e73f3f746ccb2)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/507c95d6450307f87731d9725d292af98fe61094)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1955,6 +2005,14 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix errors when lib built as C++ (#2248)</code>](https://github.com/AOMediaCodec/libavif/commit/084eac1aaf30000c30bd733caf1046a652102620)
 - [ ] [<code>Remove unneeded uint32_t casts</code>](https://github.com/AOMediaCodec/libavif/commit/c02cae89e542f4ee18f7de9f66ff867a493644cf)
+- [ ] [<code>Fix default qualityAlpha calculation bug</code>](https://github.com/AOMediaCodec/libavif/commit/ef51c70607806bf8d5fc429ed68aefec346626c4)
+- [ ] [<code>Add the meson version in the cache keys (#2252)</code>](https://github.com/AOMediaCodec/libavif/commit/2ea07bc01516e363b81a007d34f9086d4689db3b)
+- [ ] [<code>Put AVIF_NODISCARD after AVIF_API</code>](https://github.com/AOMediaCodec/libavif/commit/508f00f7904d1c21ebb21ca5acbc9f7461e47951)
+- [ ] [<code>v1.1.0</code>](https://github.com/AOMediaCodec/libavif/commit/183485b155ff8e56501753d0f73b6c58bb170a24)
+  - <sub>Tags: <code>v1.1.0</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Re-enable AVIF_VERSION_DEVEL (#2255)</code>](https://github.com/AOMediaCodec/libavif/commit/ffae925a8b0a0e9c84c322893c88a79bfb1b2680)
+- [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/53fe96de1b7707fe830d213828cfaebd71793a8a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2921,9 +2979,18 @@
   - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>nl80211: move access to tb array out of uc_nl_convert_attr and below</code>](https://github.com/jow-/ucode/commit/73644a036f5a67dc850ad73f4c713763db7c579c)
 - [ ] [<code>nl80211: add support for multi-attribute arrays</code>](https://github.com/jow-/ucode/commit/6e3cf83a77a7363d05c2b4c604187004d6eb17ef)
+- [ ] [<code>nl80211: update nl80211.h to latest wireless-next</code>](https://github.com/jow-/ucode/commit/6ff24d5488a9aca426e5cb5a48de19b8fb6b433a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nl80211: add wiphy multi-radio support</code>](https://github.com/jow-/ucode/commit/abc2aef2864132bbf07dd2607f41c189f81b1c21)
+- [ ] [<code>nl80211: gracefully handle illegal netlink error code</code>](https://github.com/jow-/ucode/commit/115a84fa3c13eb9524089b48d4fa794222de4bfc)
+- [ ] [<code>nl80211: support conversion from/to struct array attributes</code>](https://github.com/jow-/ucode/commit/f6ea6fc8f0269d48e01429158153126fc213b0e4)
+- [ ] [<code>nl80211: drop unused structure members from connection context</code>](https://github.com/jow-/ucode/commit/f5b5a583596580df46c361b6333703a228e3da11)
+- [ ] [<code>nl80211: support the MAC80211_HWSIM netlink protocol family</code>](https://github.com/jow-/ucode/commit/bc13278eae5e49ce8bcf8cd964c97f05660e81b3)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
 
+- [ ] [<code>screenshot.c: Use the filename provided by the portal request.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c73f5c5e15f3f10e4f226e2a79fe9fdde049baed)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
