@@ -1947,6 +1947,10 @@
 - [ ] [<code>Use proper API for figuring out configPropName</code>](https://github.com/AOMediaCodec/libavif/commit/3b2a5efb03aecf6381e0ac5837be80cc3d0b1296)
 - [ ] [<code>Fix __cplusplus version (#2246)</code>](https://github.com/AOMediaCodec/libavif/commit/d2a20874e8ecc115d09d8e5bee36839556d95654)
 - [ ] [<code>Do not test #if AVIF_CODEC_AVM_ENABLED in C code (#2247)</code>](https://github.com/AOMediaCodec/libavif/commit/471326f276ed2fe741c1c80d9b115ba853cb5065)
+- [ ] [<code>Rename the AVIF_ENABLE_WUNUSED_RESULT cmake option</code>](https://github.com/AOMediaCodec/libavif/commit/da12cbadadb67bda3e73d4adb4caf89111dc0dba)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix errors when lib built as C++ (#2248)</code>](https://github.com/AOMediaCodec/libavif/commit/084eac1aaf30000c30bd733caf1046a652102620)
+- [ ] [<code>Remove unneeded uint32_t casts</code>](https://github.com/AOMediaCodec/libavif/commit/c02cae89e542f4ee18f7de9f66ff867a493644cf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
