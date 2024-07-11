@@ -266,6 +266,7 @@
 - [ ] [<code>refactor: Omit local types</code>](https://github.com/krille-chan/fluffychat/commit/ef5ea57c5832966c946e24973274b5e975597875)
 - [ ] [<code>build: Bump version to v1.21.2</code>](https://github.com/krille-chan/fluffychat/commit/3018a5213fecf6cdab1a3f7b7a2c4b08d7859f70)
   - <sub>Tags: <code>rc1.21.2</code></sub>
+- [ ] [<code>chore: Update mastodon link</code>](https://github.com/krille-chan/fluffychat/commit/6665e74bdcd0549a4e808173c8b7cf4c5aa07b20)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -381,6 +382,7 @@
 - [ ] [<code>refactor: Omit local types</code>](https://github.com/krille-chan/fluffychat/commit/ef5ea57c5832966c946e24973274b5e975597875)
 - [ ] [<code>build: Bump version to v1.21.2</code>](https://github.com/krille-chan/fluffychat/commit/3018a5213fecf6cdab1a3f7b7a2c4b08d7859f70)
   - <sub>Tags: <code>rc1.21.2</code></sub>
+- [ ] [<code>chore: Update mastodon link</code>](https://github.com/krille-chan/fluffychat/commit/6665e74bdcd0549a4e808173c8b7cf4c5aa07b20)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -604,6 +606,7 @@
 - [ ] [<code>incusd/instance/drivers/qmp: Add QueryCPUModel</code>](https://github.com/lxc/incus/commit/b2be9b9d88fb2b6cf67fb24211740d1fd9bbc7cc)
 - [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
 - [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
+- [ ] [<code>incusd/device/network: Fix Tap interface MTU when in OVN</code>](https://github.com/lxc/incus/commit/601bbc51a89cfc0d35ee71edecac9ae62f86cf94)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1212,6 +1215,7 @@
 - [ ] [<code>incusd/instance/drivers/qmp: Add QueryCPUModel</code>](https://github.com/lxc/incus/commit/b2be9b9d88fb2b6cf67fb24211740d1fd9bbc7cc)
 - [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
 - [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
+- [ ] [<code>incusd/device/network: Fix Tap interface MTU when in OVN</code>](https://github.com/lxc/incus/commit/601bbc51a89cfc0d35ee71edecac9ae62f86cf94)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
