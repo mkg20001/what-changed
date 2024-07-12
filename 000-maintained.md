@@ -649,6 +649,8 @@
 - [ ] [<code>incus/top: Hide zero values</code>](https://github.com/lxc/incus/commit/db36e5a98d3a246bebb7ae8f0cd51c7dc015a5d1)
 - [ ] [<code>incusd/device/disk: Mark virtual disks as always migratable</code>](https://github.com/lxc/incus/commit/fe24692d6dccd37000912457854c889c5dcd158e)
 - [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
+- [ ] [<code>Release Incus 6.3</code>](https://github.com/lxc/incus/commit/180e9b0fcc7601e9ca29800bf9078fc714c48da2)
+  - <sub>Tags: <code>v6.3.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1300,6 +1302,8 @@
 - [ ] [<code>incus/top: Hide zero values</code>](https://github.com/lxc/incus/commit/db36e5a98d3a246bebb7ae8f0cd51c7dc015a5d1)
 - [ ] [<code>incusd/device/disk: Mark virtual disks as always migratable</code>](https://github.com/lxc/incus/commit/fe24692d6dccd37000912457854c889c5dcd158e)
 - [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
+- [ ] [<code>Release Incus 6.3</code>](https://github.com/lxc/incus/commit/180e9b0fcc7601e9ca29800bf9078fc714c48da2)
+  - <sub>Tags: <code>v6.3.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
