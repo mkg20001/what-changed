@@ -143,6 +143,7 @@
 - [ ] [<code>sm: Fix format specifiers for armhf</code>](https://github.com/canonical/dqlite/commit/f00f0caafeacec7294192cbbaa3a5b6975d3f7cd)
 - [ ] [<code>Fix a possible UAF</code>](https://github.com/canonical/dqlite/commit/00db6f07383417f1ddd55119ed3bc0e6f084dbde)
 - [ ] [<code>free *snapshots if rv != 0</code>](https://github.com/canonical/dqlite/commit/f98027e81a78a5edbee836d5184e37d62dec8c6d)
+- [ ] [<code>bugfix: reading segment, correctly stop on error</code>](https://github.com/canonical/dqlite/commit/a653857330e42dee96013a77613f64606c7637ee)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -651,6 +652,7 @@
 - [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
 - [ ] [<code>Release Incus 6.3</code>](https://github.com/lxc/incus/commit/180e9b0fcc7601e9ca29800bf9078fc714c48da2)
   - <sub>Tags: <code>v6.3.0</code></sub>
+- [ ] [<code>incus-simplestreams: Fix split images</code>](https://github.com/lxc/incus/commit/6eb6f74b57f77d321c332f25f97d72ea29c71ebe)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1304,6 +1306,7 @@
 - [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
 - [ ] [<code>Release Incus 6.3</code>](https://github.com/lxc/incus/commit/180e9b0fcc7601e9ca29800bf9078fc714c48da2)
   - <sub>Tags: <code>v6.3.0</code></sub>
+- [ ] [<code>incus-simplestreams: Fix split images</code>](https://github.com/lxc/incus/commit/6eb6f74b57f77d321c332f25f97d72ea29c71ebe)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2052,6 +2055,10 @@
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL (#2255)</code>](https://github.com/AOMediaCodec/libavif/commit/ffae925a8b0a0e9c84c322893c88a79bfb1b2680)
 - [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/53fe96de1b7707fe830d213828cfaebd71793a8a)
 - [ ] [<code>Add the "AVIF_API AVIF_NODISCARD" fix to changelog</code>](https://github.com/AOMediaCodec/libavif/commit/8cb9cb78caa143bb06ed0a4220c75c2d49e8eef4)
+- [ ] [<code>Remove the docker-based test (#2262)</code>](https://github.com/AOMediaCodec/libavif/commit/ace694e6a000cbfcbf4879b8908afcda21993bbd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Rename Googletest to GTest (#2263)</code>](https://github.com/AOMediaCodec/libavif/commit/7adf4073f86e8454f2e9ef6733b0cbe8c98a70f1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2107,6 +2114,10 @@
 
 #### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.10 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.10...HEAD)
 
+- [ ] [<code>chore(readme) suggest the default channel when installing lxd</code>](https://github.com/canonical/lxd-ui/commit/c514d672852649eee1a37a2e93a5542703987614)
+- [ ] [<code>fix(network) allow disabling of dhcp in ipv4/ipv6 network configuration i.e. on bridge networks. Avoid crash reported in #814</code>](https://github.com/canonical/lxd-ui/commit/53efd52d6e22ec04f83361d7e351fff7cffc2e82)
+- [ ] [<code>chore(version) update to 0.11</code>](https://github.com/canonical/lxd-ui/commit/4fca29a49ad01af516f441d17c701305b40db1da)
+  - <sub>Tags: <code>0.11</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
