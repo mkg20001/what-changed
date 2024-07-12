@@ -632,6 +632,23 @@
 - [ ] [<code>doc: Add OCI to wordlist</code>](https://github.com/lxc/incus/commit/0713d5471b232627620cd318497e73f3f746ccb2)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/507c95d6450307f87731d9725d292af98fe61094)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/subprocess: Fix gofmt</code>](https://github.com/lxc/incus/commit/170bef15d03455a34c56a9ccdefdc40bcb501f64)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvmcluster: Don't allow buckets</code>](https://github.com/lxc/incus/commit/c8a0ee2e1aabc19ab19a0e4c804fcc7cc26f80ce)
+- [ ] [<code>incusd/storage/lvmcluster: Don't exclusively lock ISO volumes</code>](https://github.com/lxc/incus/commit/c030b43b168351311285c1dc4e80361f181236f2)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/device/disk: Allow attaching the same ISO to multiple instances</code>](https://github.com/lxc/incus/commit/53763cde513b8a6ec5fded7aa5693848721fb56f)
+- [ ] [<code>incusd/device/disk: Allow live-migration with agent/cloud-init disks</code>](https://github.com/lxc/incus/commit/8a19fbfc0d523777d45190092e8d9f15ae45caba)
+- [ ] [<code>incusd/instance/qemu: Fix live-migration with agent/cloud-init disks</code>](https://github.com/lxc/incus/commit/83ef318604bab72c0ff95c543df315d682626783)
+- [ ] [<code>incusd/device/disk: Don't crash on uninitialized pool</code>](https://github.com/lxc/incus/commit/a066c807df27e7e75d39d17f3418d5d9376d6503)
+- [ ] [<code>incusd/storage/lvmcluster: Always use shared access</code>](https://github.com/lxc/incus/commit/46c51945f3134d6260b8e020712ee6cbed01d62b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/lxc: Don't report filesystem metrics when no per-instance value</code>](https://github.com/lxc/incus/commit/832b02c60a87e4ed3f05bdadd055bffcdc757059)
+- [ ] [<code>incus/top: Set interval to 10s (minimum server-side is 8)</code>](https://github.com/lxc/incus/commit/ffb15fb0a95d841f52b7d3fb12fe48e90877193b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/top: Hide zero values</code>](https://github.com/lxc/incus/commit/db36e5a98d3a246bebb7ae8f0cd51c7dc015a5d1)
+- [ ] [<code>incusd/device/disk: Mark virtual disks as always migratable</code>](https://github.com/lxc/incus/commit/fe24692d6dccd37000912457854c889c5dcd158e)
+- [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1266,6 +1283,23 @@
 - [ ] [<code>doc: Add OCI to wordlist</code>](https://github.com/lxc/incus/commit/0713d5471b232627620cd318497e73f3f746ccb2)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/507c95d6450307f87731d9725d292af98fe61094)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/subprocess: Fix gofmt</code>](https://github.com/lxc/incus/commit/170bef15d03455a34c56a9ccdefdc40bcb501f64)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvmcluster: Don't allow buckets</code>](https://github.com/lxc/incus/commit/c8a0ee2e1aabc19ab19a0e4c804fcc7cc26f80ce)
+- [ ] [<code>incusd/storage/lvmcluster: Don't exclusively lock ISO volumes</code>](https://github.com/lxc/incus/commit/c030b43b168351311285c1dc4e80361f181236f2)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/device/disk: Allow attaching the same ISO to multiple instances</code>](https://github.com/lxc/incus/commit/53763cde513b8a6ec5fded7aa5693848721fb56f)
+- [ ] [<code>incusd/device/disk: Allow live-migration with agent/cloud-init disks</code>](https://github.com/lxc/incus/commit/8a19fbfc0d523777d45190092e8d9f15ae45caba)
+- [ ] [<code>incusd/instance/qemu: Fix live-migration with agent/cloud-init disks</code>](https://github.com/lxc/incus/commit/83ef318604bab72c0ff95c543df315d682626783)
+- [ ] [<code>incusd/device/disk: Don't crash on uninitialized pool</code>](https://github.com/lxc/incus/commit/a066c807df27e7e75d39d17f3418d5d9376d6503)
+- [ ] [<code>incusd/storage/lvmcluster: Always use shared access</code>](https://github.com/lxc/incus/commit/46c51945f3134d6260b8e020712ee6cbed01d62b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/lxc: Don't report filesystem metrics when no per-instance value</code>](https://github.com/lxc/incus/commit/832b02c60a87e4ed3f05bdadd055bffcdc757059)
+- [ ] [<code>incus/top: Set interval to 10s (minimum server-side is 8)</code>](https://github.com/lxc/incus/commit/ffb15fb0a95d841f52b7d3fb12fe48e90877193b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/top: Hide zero values</code>](https://github.com/lxc/incus/commit/db36e5a98d3a246bebb7ae8f0cd51c7dc015a5d1)
+- [ ] [<code>incusd/device/disk: Mark virtual disks as always migratable</code>](https://github.com/lxc/incus/commit/fe24692d6dccd37000912457854c889c5dcd158e)
+- [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2013,6 +2047,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL (#2255)</code>](https://github.com/AOMediaCodec/libavif/commit/ffae925a8b0a0e9c84c322893c88a79bfb1b2680)
 - [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/53fe96de1b7707fe830d213828cfaebd71793a8a)
+- [ ] [<code>Add the "AVIF_API AVIF_NODISCARD" fix to changelog</code>](https://github.com/AOMediaCodec/libavif/commit/8cb9cb78caa143bb06ed0a4220c75c2d49e8eef4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
