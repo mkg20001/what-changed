@@ -257,6 +257,7 @@
 - [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
+- [ ] [<code>build: (deps): bump docker/build-push-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/642881b3d0a3c0131b5b85ef2f03327fabb4695d)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
 - [ ] [<code>chore: Update last event after decryption</code>](https://github.com/krille-chan/fluffychat/commit/cdd32e7002926cd59f4980c33d56eee4274af8bd)
 - [ ] [<code>fix: Correctly localize time of date</code>](https://github.com/krille-chan/fluffychat/commit/2b630aca4d1a2d67b3796c50cc8ce0067eb9eef8)
@@ -268,6 +269,10 @@
 - [ ] [<code>build: Bump version to v1.21.2</code>](https://github.com/krille-chan/fluffychat/commit/3018a5213fecf6cdab1a3f7b7a2c4b08d7859f70)
   - <sub>Tags: <code>rc1.21.2</code></sub>
 - [ ] [<code>chore: Update mastodon link</code>](https://github.com/krille-chan/fluffychat/commit/6665e74bdcd0549a4e808173c8b7cf4c5aa07b20)
+  - <sub>Tags: <code>v1.21.2</code></sub>
+- [ ] [<code>chore: Move default PR template to correct dir</code>](https://github.com/krille-chan/fluffychat/commit/e7f446813331d6a73aa63e8cff7818753e474eec)
+- [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -373,6 +378,7 @@
 - [ ] [<code>build: Release v1.21.1</code>](https://github.com/krille-chan/fluffychat/commit/7e7ad46f98ef090bf32bae515e7d1c706629eb44)
   - <sub>Tags: <code>rc1.21.1-1</code> <code>v1.21.1</code></sub>
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/79ecfd96fafbe43aded159f11552df44d97492bd)
+- [ ] [<code>build: (deps): bump docker/build-push-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/642881b3d0a3c0131b5b85ef2f03327fabb4695d)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/520d854e689ed8670b286745aec55bd24e9e2c6b)
 - [ ] [<code>chore: Update last event after decryption</code>](https://github.com/krille-chan/fluffychat/commit/cdd32e7002926cd59f4980c33d56eee4274af8bd)
 - [ ] [<code>fix: Correctly localize time of date</code>](https://github.com/krille-chan/fluffychat/commit/2b630aca4d1a2d67b3796c50cc8ce0067eb9eef8)
@@ -384,6 +390,10 @@
 - [ ] [<code>build: Bump version to v1.21.2</code>](https://github.com/krille-chan/fluffychat/commit/3018a5213fecf6cdab1a3f7b7a2c4b08d7859f70)
   - <sub>Tags: <code>rc1.21.2</code></sub>
 - [ ] [<code>chore: Update mastodon link</code>](https://github.com/krille-chan/fluffychat/commit/6665e74bdcd0549a4e808173c8b7cf4c5aa07b20)
+  - <sub>Tags: <code>v1.21.2</code></sub>
+- [ ] [<code>chore: Move default PR template to correct dir</code>](https://github.com/krille-chan/fluffychat/commit/e7f446813331d6a73aa63e8cff7818753e474eec)
+- [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3038,22 +3048,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.37.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.37.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.1...HEAD)
 
-- [ ] [<code>Fixed #401 - QSO-Table - Callsign filter is not filled in properly</code>](https://github.com/foldynl/QLog.git/commit/dfb75b5a5dfd09e0adb43544ffdcebf67042d52d)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Fixed #404 - DXC: Fixed zero frequency for last QSO in case of FT8 QSOs</code>](https://github.com/foldynl/QLog.git/commit/076bf339f34b7b2a6ee02453c209013ae414c586)
-- [ ] [<code>DXC: The Command line is cleared when Disconnect DXC is pressed</code>](https://github.com/foldynl/QLog.git/commit/1784ef3744a4baa6f165122dbd2ee81cd4475a12)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixed #409: Callsign Context Menu does not work</code>](https://github.com/foldynl/QLog.git/commit/bd74829c791eb4d453c06590b751b97826a09cbd)
-- [ ] [<code>Fixed #410 - QSO Details: The Save and Edit buttons are not translated</code>](https://github.com/foldynl/QLog.git/commit/35a7f3983250512ce5b2d2d011c7b8ef35475f35)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/913dfed0ef036f9d10eece1900f67b45347026b6)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/0b263ac9d66dbacfe010884ed99257688c3cf618)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/13fb62e00bad6ae28bc877fbb4cc9d7ca4e7c6ae)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/4d8b30f22ceff76702407d9e0168e95ce6da988f)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3ea03dcb7231698d3923c3561e4d0066346fbfc3)
-- [ ] [<code>Preparation for release 0.37.1</code>](https://github.com/foldynl/QLog.git/commit/643a1643186fcafee6f43daac88768100a9a9404)
-  - <sub>Tags: <code>v0.37.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
