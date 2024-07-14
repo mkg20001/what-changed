@@ -750,6 +750,8 @@
 - [ ] [<code>incusd/storage/zfs: Fix import shadowing</code>](https://github.com/lxc/incus/commit/166cf3fa587b51443c3e5c320cd4721d34c0faf2)
 - [ ] [<code>doc/storage_backup: Fix command example</code>](https://github.com/lxc/incus/commit/71b0e89911de53d1f01ecb78f3a25b1ae088c426)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/requirements: Add OCI requirements</code>](https://github.com/lxc/incus/commit/7f275105ec71abc2cd141b43e8cf8aecb2429a86)
+- [ ] [<code>doc/images: Mention OCI images</code>](https://github.com/lxc/incus/commit/49c899b52ac48f0618e09a2d64f8a0872a648968)
 - [ ] [<code>incusd/instance/edk2: Support OVMF filenames on arm64</code>](https://github.com/lxc/incus/commit/cc33d436d193f12a38818482c050fafd1ecae04c)
 - [ ] [<code>incusd/instance/drivers/qemu: Limit CPU flag calculation to x86_64</code>](https://github.com/lxc/incus/commit/ee24c49a275268f08f9dd060fba1256699fee65e)
 
@@ -1493,6 +1495,8 @@
 - [ ] [<code>incusd/storage/zfs: Fix import shadowing</code>](https://github.com/lxc/incus/commit/166cf3fa587b51443c3e5c320cd4721d34c0faf2)
 - [ ] [<code>doc/storage_backup: Fix command example</code>](https://github.com/lxc/incus/commit/71b0e89911de53d1f01ecb78f3a25b1ae088c426)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/requirements: Add OCI requirements</code>](https://github.com/lxc/incus/commit/7f275105ec71abc2cd141b43e8cf8aecb2429a86)
+- [ ] [<code>doc/images: Mention OCI images</code>](https://github.com/lxc/incus/commit/49c899b52ac48f0618e09a2d64f8a0872a648968)
 - [ ] [<code>incusd/instance/edk2: Support OVMF filenames on arm64</code>](https://github.com/lxc/incus/commit/cc33d436d193f12a38818482c050fafd1ecae04c)
 - [ ] [<code>incusd/instance/drivers/qemu: Limit CPU flag calculation to x86_64</code>](https://github.com/lxc/incus/commit/ee24c49a275268f08f9dd060fba1256699fee65e)
 
@@ -2300,12 +2304,8 @@
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.10 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.10...HEAD)
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.11 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.11...HEAD)
 
-- [ ] [<code>chore(readme) suggest the default channel when installing lxd</code>](https://github.com/canonical/lxd-ui/commit/c514d672852649eee1a37a2e93a5542703987614)
-- [ ] [<code>fix(network) allow disabling of dhcp in ipv4/ipv6 network configuration i.e. on bridge networks. Avoid crash reported in #814</code>](https://github.com/canonical/lxd-ui/commit/53efd52d6e22ec04f83361d7e351fff7cffc2e82)
-- [ ] [<code>chore(version) update to 0.11</code>](https://github.com/canonical/lxd-ui/commit/4fca29a49ad01af516f441d17c701305b40db1da)
-  - <sub>Tags: <code>0.11</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
