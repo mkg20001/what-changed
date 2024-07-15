@@ -273,6 +273,7 @@
 - [ ] [<code>chore: Move default PR template to correct dir</code>](https://github.com/krille-chan/fluffychat/commit/e7f446813331d6a73aa63e8cff7818753e474eec)
 - [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: New spaces and chat list design</code>](https://github.com/krille-chan/fluffychat/commit/5c23453e665ed8804b445b5f792dc6efc3e14f08)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -394,6 +395,7 @@
 - [ ] [<code>chore: Move default PR template to correct dir</code>](https://github.com/krille-chan/fluffychat/commit/e7f446813331d6a73aa63e8cff7818753e474eec)
 - [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: New spaces and chat list design</code>](https://github.com/krille-chan/fluffychat/commit/5c23453e665ed8804b445b5f792dc6efc3e14f08)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2306,6 +2308,7 @@
 
 #### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.11 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.11...HEAD)
 
+- [ ] [<code>chore(ci) remove tics report upload to prevent a security issue</code>](https://github.com/canonical/lxd-ui/commit/dd5e43ea556cd06636fa3de07ddf33b0ec99a9e7)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
