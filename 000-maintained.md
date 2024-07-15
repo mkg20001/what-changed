@@ -274,6 +274,18 @@
 - [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: New spaces and chat list design</code>](https://github.com/krille-chan/fluffychat/commit/5c23453e665ed8804b445b5f792dc6efc3e14f08)
+- [ ] [<code>chore: Follow up new spaces design</code>](https://github.com/krille-chan/fluffychat/commit/254f21ce00251be883c7aae1fdfc1aafa868252b)
+- [ ] [<code>chore: Follow up join space invites</code>](https://github.com/krille-chan/fluffychat/commit/64c56f889b870e7ef27f0d51204a004da7d72804)
+- [ ] [<code>chore: Follow up select chats</code>](https://github.com/krille-chan/fluffychat/commit/7b0e0404c06faa5f78dfae6e65a36c1dd3deed39)
+- [ ] [<code>chore: Follow up spaces ui</code>](https://github.com/krille-chan/fluffychat/commit/8a5cd9bf160299eb28df346e2e137e4ad5ca3fdc)
+- [ ] [<code>chore: Follow up spaces design</code>](https://github.com/krille-chan/fluffychat/commit/942970e04970fac768e351722f97e514603ef870)
+- [ ] [<code>chore: Follow up spaces ui</code>](https://github.com/krille-chan/fluffychat/commit/3bd7257249ec035d5b8f12746ebba329b3848014)
+- [ ] [<code>chore: Follow up spaces ui</code>](https://github.com/krille-chan/fluffychat/commit/650f87b1d29fb7e85592aba08291390faf6a47cd)
+- [ ] [<code>chore: Follow up chat list context menu</code>](https://github.com/krille-chan/fluffychat/commit/47d1165b45801ab9af612fb3a73bbcfe7e3a81ed)
+- [ ] [<code>chore: Follow up spaces design</code>](https://github.com/krille-chan/fluffychat/commit/1b95694a5848c8b1503f963550dced896cc358a6)
+- [ ] [<code>chore: Follow up listtilehover</code>](https://github.com/krille-chan/fluffychat/commit/54ba4544af791e3ab4dbb603277e3dfffe4978c1)
+- [ ] [<code>chore: Follow up listtilehovered</code>](https://github.com/krille-chan/fluffychat/commit/282188f574e419fe6837a3fa6d96999b76534522)
+- [ ] [<code>chore: Bring back navrail</code>](https://github.com/krille-chan/fluffychat/commit/b05eb891a66816fb71277b94304d594389997a2d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -396,6 +408,18 @@
 - [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: New spaces and chat list design</code>](https://github.com/krille-chan/fluffychat/commit/5c23453e665ed8804b445b5f792dc6efc3e14f08)
+- [ ] [<code>chore: Follow up new spaces design</code>](https://github.com/krille-chan/fluffychat/commit/254f21ce00251be883c7aae1fdfc1aafa868252b)
+- [ ] [<code>chore: Follow up join space invites</code>](https://github.com/krille-chan/fluffychat/commit/64c56f889b870e7ef27f0d51204a004da7d72804)
+- [ ] [<code>chore: Follow up select chats</code>](https://github.com/krille-chan/fluffychat/commit/7b0e0404c06faa5f78dfae6e65a36c1dd3deed39)
+- [ ] [<code>chore: Follow up spaces ui</code>](https://github.com/krille-chan/fluffychat/commit/8a5cd9bf160299eb28df346e2e137e4ad5ca3fdc)
+- [ ] [<code>chore: Follow up spaces design</code>](https://github.com/krille-chan/fluffychat/commit/942970e04970fac768e351722f97e514603ef870)
+- [ ] [<code>chore: Follow up spaces ui</code>](https://github.com/krille-chan/fluffychat/commit/3bd7257249ec035d5b8f12746ebba329b3848014)
+- [ ] [<code>chore: Follow up spaces ui</code>](https://github.com/krille-chan/fluffychat/commit/650f87b1d29fb7e85592aba08291390faf6a47cd)
+- [ ] [<code>chore: Follow up chat list context menu</code>](https://github.com/krille-chan/fluffychat/commit/47d1165b45801ab9af612fb3a73bbcfe7e3a81ed)
+- [ ] [<code>chore: Follow up spaces design</code>](https://github.com/krille-chan/fluffychat/commit/1b95694a5848c8b1503f963550dced896cc358a6)
+- [ ] [<code>chore: Follow up listtilehover</code>](https://github.com/krille-chan/fluffychat/commit/54ba4544af791e3ab4dbb603277e3dfffe4978c1)
+- [ ] [<code>chore: Follow up listtilehovered</code>](https://github.com/krille-chan/fluffychat/commit/282188f574e419fe6837a3fa6d96999b76534522)
+- [ ] [<code>chore: Bring back navrail</code>](https://github.com/krille-chan/fluffychat/commit/b05eb891a66816fb71277b94304d594389997a2d)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -421,249 +445,8 @@
 - [ ] [<code>Update Dockerfile (#448)</code>](https://github.com/toptal/haste-server/commit/ded18b0c2e1ad05eaba6ab5bb938ae6b54cb5147)
 - [ ] [<code>Bump braces from 3.0.2 to 3.0.3 (#454)</code>](https://github.com/toptal/haste-server/commit/87a6a88449db1e1e048bf58223038b8df83846c8)
 
-#### [incus](https://github.com/lxc/incus): [refs/tags/v6.2.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.2.0...HEAD)
+#### [incus](https://github.com/lxc/incus): [refs/tags/v6.3.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.3.0...HEAD)
 
-- [ ] [<code>incus/project: Fix bad --show-access output</code>](https://github.com/lxc/incus/commit/a6b2fd32eae45ccb4ee4cc002ff66d6c30aeacab)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>cmd/incus-user: Avoid double user-user- in network description</code>](https://github.com/lxc/incus/commit/2e9085648dacfdf2b368694c79bf883171e25d2d)
-- [ ] [<code>incus/admin_sql: Fix description</code>](https://github.com/lxc/incus/commit/2b8dceb35cfd425370eba4967af2161975848b16)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/storage_bucket: Fix string quoting</code>](https://github.com/lxc/incus/commit/b36a74444095d9560043685e9c6376dfd3dbf590)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/profile: Fix examples</code>](https://github.com/lxc/incus/commit/8b5c6418ac367dc1095bb50ede2638d97a0b29da)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/project: Fix examples</code>](https://github.com/lxc/incus/commit/f4d12a555e577e1f73e148bb1d0f8694f3001874)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/snapshot: Improve restore example</code>](https://github.com/lxc/incus/commit/2904c6530605ac6f280d2207eee91a2c5365c1a8)
-- [ ] [<code>incus/storage_bucket: Fix typoes in examples</code>](https://github.com/lxc/incus/commit/6085c1f937f910e1bbaf70b840b8449fa84cabfd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/storage_bucket: Fix export example</code>](https://github.com/lxc/incus/commit/6529c9cc5032e96e39c16560358e7c54b2efec7b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/exec: Add some examples</code>](https://github.com/lxc/incus/commit/76bf6a180479594a34184aeb00fb32c3fea98314)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6b987b148d0107779e4c03dc6fa6f7dd03e0f4f0)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>incus-user: Don't needlessly update the default profile</code>](https://github.com/lxc/incus/commit/d6efc8c729aa8b0a9bc7bc67d7b4c335ae105638)
-- [ ] [<code>incus/top: Support remote servers</code>](https://github.com/lxc/incus/commit/c99882c9ca4416d854fa1e608c1b150657bb20dc)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/top: Properly handle projects</code>](https://github.com/lxc/incus/commit/d9c2ea713c6a7bde0688fad7cd56a28cd25d2fde)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>incus/top: Handle clusters</code>](https://github.com/lxc/incus/commit/00f207e084c767862f412b8ec3176458b449698f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/instance/qemu: Avoid endianness issues with vsockIDInt</code>](https://github.com/lxc/incus/commit/753f1b202231086ec3f1f391af41277bc79bdcad)
-- [ ] [<code>internal/linux: Define some IOCTLs</code>](https://github.com/lxc/incus/commit/4220910b7fbabbdf836fa10f3a300d6959217806)
-- [ ] [<code>incusd/instance/qemu: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/f3f18d80e8f037754f2eb3658b6394aec013bda9)
-- [ ] [<code>incusd/storage/btrfs: Don't use hardcoded ioctl</code>](https://github.com/lxc/incus/commit/58d21750f64965415af8ceb526f9b2b0e5cce04e)
-- [ ] [<code>incusd/devices: Simplify ioctl logic</code>](https://github.com/lxc/incus/commit/870014c4f2d7bc4748fc1adf1defa1cc61c4e310)
-- [ ] [<code>shared/cliconfig: Remove old migration logic</code>](https://github.com/lxc/incus/commit/00089be93c011e07ee6a896dcae8190c2b959f37)
-- [ ] [<code>shared/cliconfig: Generalize logic</code>](https://github.com/lxc/incus/commit/6518c164a668c50bffe7222fdde1afe28deb976e)
-- [ ] [<code>incusd/seccomp: Fix sysinfo logic on 32bit platforms</code>](https://github.com/lxc/incus/commit/f11c0b04f2e90a19e900ca077e21edf02c589db2)
-- [ ] [<code>shared/cliconfig: Always fill in the protocol</code>](https://github.com/lxc/incus/commit/d4fa1b228ebfb534c484d586b7df0abf4306705f)
-- [ ] [<code>incus: Generalize image server logic</code>](https://github.com/lxc/incus/commit/507c0c9a30d1a62c2e43a701974390932787429e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/console: Re-shuffle logic a bit</code>](https://github.com/lxc/incus/commit/b53278935572393fad887191a765ef4a7df7d8b4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus: Handle stopped containers in --console</code>](https://github.com/lxc/incus/commit/2c78a5e29654280d6bf5bd128ef034d2407821cd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/console: Don't export an internal function</code>](https://github.com/lxc/incus/commit/539e10d511fbc0da4f56e84000508c54d09d5006)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>doc: update documentation for forming cluster with existing server</code>](https://github.com/lxc/incus/commit/928018633c68df20999becbac87c6faa07c8de54)
-- [ ] [<code>github: Cleanup workflow file</code>](https://github.com/lxc/incus/commit/8d82dc0885865bca3ba001f1414313a6f5b7cac7)
-- [ ] [<code>github: Build go tip</code>](https://github.com/lxc/incus/commit/03fe4ab50308f29bf3eb105e9169b92b90d26d6d)
-- [ ] [<code>github: Change Go releases in tests</code>](https://github.com/lxc/incus/commit/24af5cbb365cdee1855c11bc1ae6c6f7b37470c8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>test/lint/golangci: Properly pull the parent ref</code>](https://github.com/lxc/incus/commit/bba0b8fe1a1336a64729646ab2f4ac54aea3446d)
-- [ ] [<code>cmd/incusd: Fix typo in forknet</code>](https://github.com/lxc/incus/commit/2a4739bb28c4d51aaf6e33d6f063eaee9d3ab3c7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>api: resources_cpu_flags</code>](https://github.com/lxc/incus/commit/6799c405a32e132bf43cf475cfddb8ef0a352b81)
-- [ ] [<code>shared/api: Add Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/f240048ec931554ca6440c03a9d58436fc5b57ed)
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/ae137db4677f1fce5a05d05e76c20af8ac868ac0)
-- [ ] [<code>incusd/resources: Add CPU Flags to ResourceCPUCore</code>](https://github.com/lxc/incus/commit/7399e88f837cbaa0f8e4d31ad740512765efe30e)
-- [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterRoute to libovsdb</code>](https://github.com/lxc/incus/commit/9193240a29d92c04306403fdb8b6bd987ac2c8cb)
-- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterRoute to libovsdb</code>](https://github.com/lxc/incus/commit/072a63c1ee7527159ab41d90a131a16939836bef)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/e59b6f1257f7de7cdc2c316ab017e3ac2aae33cd)
-- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPort to libovsdb</code>](https://github.com/lxc/incus/commit/24ea11470de3fb7692c4736dafc636ef13c9a60f)
-- [ ] [<code>incusd/network/ovn: Remove LogicalRouterPortDeleteIPv6Advertisements</code>](https://github.com/lxc/incus/commit/7d7e0f8a9ff2641c59500bf3e44da785a32c3602)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f8926883cf3b8f0bb2b8403916fd648ba7680043)
-- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitch to libovsdb</code>](https://github.com/lxc/incus/commit/611669aedc544896a6ee11fdd64364e0912cbfae)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/94b2a4341f122fc9e129477e5e6bdb0e8ab99cbd)
-- [ ] [<code>incusd/network/ovn: Remove logicalSwitchFindAssociatedPortGroups</code>](https://github.com/lxc/incus/commit/ce43b765f1fadff08b35e797db6727b14dc13c3c)
-- [ ] [<code>doc/instances_console: Tweak wording on SPICE clients</code>](https://github.com/lxc/incus/commit/9b018f45cc2ca9b9a0e06e9678fb12642dd19142)
-- [ ] [<code>incusd/network/ovn: Special handling for Load Balancer table</code>](https://github.com/lxc/incus/commit/1ed8593d8b5def822b6b3a4a266bdeef183a2485)
-- [ ] [<code>incusd/network/ovn: Align functions context handling</code>](https://github.com/lxc/incus/commit/9c90f26e5a9f049cb349c19e1cfdaf35fdecd0c0)
-- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitchDHCPOption to libovsdb</code>](https://github.com/lxc/incus/commit/830aff0e846caa69aa8733949dabe726b01e7721)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortLocation to libovsdb</code>](https://github.com/lxc/incus/commit/115b361b62db57d311de4807566137613b36a20f)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortUUID to libovsdb</code>](https://github.com/lxc/incus/commit/3c4b0b6f172a45a7d57423640c34b53019b088e6)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalRouterPortHardwareAddress to libovsdb</code>](https://github.com/lxc/incus/commit/8eace00d28d426380741bac7630aa28c2f6b9263)
-- [ ] [<code>incusd/network/ovn: Add GetLogicalRouter</code>](https://github.com/lxc/incus/commit/e83a4986d50c7fd67202d635b4dd2e1df865ecca)
-- [ ] [<code>incusd/network/ovn: Port DeleteLoadBalancer to libovsdb</code>](https://github.com/lxc/incus/commit/d3e2aba05276f4d2cac3bcca8ccd74c6a1cd51a0)
-- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/532e46b9876cb6b7369fead65392f5463a709a47)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/a38f3c3f8a80adad12a15c254ed20284f3d85f89)
-- [ ] [<code>incusd/network: Simplify OVN network deletion logic</code>](https://github.com/lxc/incus/commit/db9a9ea0660e996403f7a0dda5678c857e134baa)
-- [ ] [<code>incus/network_load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/e99041b56970fe82c1baffc10ee5b743bb203f98)
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9b1e06e187f3957ccd9be5331bf46f317774833b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchIPAllocation to libovsdb</code>](https://github.com/lxc/incus/commit/4f7cec0f72add72818119abe1cc8c025934d435a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv4Revervations to libovsdb</code>](https://github.com/lxc/incus/commit/3157e015b80b62b8afe9458437845ebbdaebf66b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchDHCPv4Revervations to libovsdb</code>](https://github.com/lxc/incus/commit/71a7566b8933d680c18c3d483045f9e0356fb462)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchDHCPOptions to libovsdb</code>](https://github.com/lxc/incus/commit/3ad04f0bbb8a31d570338e686fd67f125e8c0cec)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv4Options to libovsdb</code>](https://github.com/lxc/incus/commit/f01fe018a842a4cc04b3e6e7581ed831109e850f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchDHCPv6Options to libovsdb</code>](https://github.com/lxc/incus/commit/68e89a993c4820871b5ef46b9691e24c644848b6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/b8147c67fadb955b91ad63644abacbe8faadd0a2)
-- [ ] [<code>incusd/networks: Properly finalize OVN networks</code>](https://github.com/lxc/incus/commit/ad48ae8201a8344852801c496ab6d858b7c116a1)
-- [ ] [<code>incusd/networks: Properly record description</code>](https://github.com/lxc/incus/commit/3e54ea483139130bf82c557d5293f17bfcc400c7)
-- [ ] [<code>incusd/response: Add Code function</code>](https://github.com/lxc/incus/commit/d04a23a2e3b4fda7d7002abbf0717901d5bb3a90)
-- [ ] [<code>incusd/operations: Implement Code function</code>](https://github.com/lxc/incus/commit/6ceb2b9858297ed787c93d4e1ae4cfcd5742d649)
-- [ ] [<code>incusd: Implement Code function</code>](https://github.com/lxc/incus/commit/359600b5c6bcfe21f0861471b6552f19e1f351d4)
-- [ ] [<code>incus-agent: Implement Code function</code>](https://github.com/lxc/incus/commit/fd6b88c4b80717c8accce9910ff6350cdd842ef8)
-- [ ] [<code>client: Fix OIDC re-authentication on POST</code>](https://github.com/lxc/incus/commit/47aa4068f876425a6611c9d947d77ab10f9217b0)
-- [ ] [<code>client: Fix OIDC re-authentication on websocket</code>](https://github.com/lxc/incus/commit/50728bdff3575e97470a2252d3596dc71ccdc1c4)
-- [ ] [<code>incus/network: Add missing stdin handling</code>](https://github.com/lxc/incus/commit/dd9a9e06239a8de41f389249c094e9362d373389)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8f34adf4de250cfb82029cf6ab08ccb7c7553b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>lxd-to-incus: Handle volume config keys</code>](https://github.com/lxc/incus/commit/9d4d83dd286b336e63af99a1a541af8f4dc6f62b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/project: Don't fail creation on authorizer</code>](https://github.com/lxc/incus/commit/50e623c0b29f40b6ca02cfc2bef98884f5a1b408)
-- [ ] [<code>doc/instance_units: Clarify usage</code>](https://github.com/lxc/incus/commit/5f7774f8423e4118b308d44708494072ad83cadf)
-- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/c1ef530b44f641dbdc6a24fc2b6bf5753e1bd595)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPorts to libovsdb</code>](https://github.com/lxc/incus/commit/fab089013a66a814679d09483036e031c50e3302)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortOptions to libovsdb</code>](https://github.com/lxc/incus/commit/5c01a75c6bb5e11955cfd8d76bb8f103785a479c)
-- [ ] [<code>incusd/network/ovn: Port CreatePortGroup to libovsdb</code>](https://github.com/lxc/incus/commit/ec32439d601ad4d85dff19872a80179ee66beeae)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/bfe42317a72f29114df250e54b528895edfbf1d7)
-- [ ] [<code>incusd/device/nic: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/4b68189c6f1e84e14c96d5e6380ce5300663715a)
-- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/9cd6ddbee00a029918ff0b39e97e702f676a6b05)
-- [ ] [<code>incusd/network/ovn: Port GetPortGroupsByProject to libovsdb</code>](https://github.com/lxc/incus/commit/dfb213f4e3cb276869f05ee5cc4c16a15e939ca6)
-- [ ] [<code>incusd/network/ovn: Port CreateAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/39a3536cb66193b1745b8250aeab866bc36fc547)
-- [ ] [<code>incusd/network/ovn: Port UpdateAddressSetAdd to libovsdb</code>](https://github.com/lxc/incus/commit/76388ab2e662aa69e58be4c7ac141569e17e6ad6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Port UpdateAddressSetRemove to libovsdb</code>](https://github.com/lxc/incus/commit/4ee60c511d5e2f74b07e7a65f2fa9606bb4d2454)
-- [ ] [<code>incusd/network/ovn: Port DeleteAddressSet to libovsdb</code>](https://github.com/lxc/incus/commit/95ea5c8a2e017ef092690fe07ccfde45f5d56bf8)
-- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/27b774bd53c784efbfe88f1c17c62c3149f69964)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/016b8a836f59d018550b373e7373e025d0323043)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortLinkRouter to libovsdb</code>](https://github.com/lxc/incus/commit/85e28d52d00d2388f98fc324d409496d1d1f62f4)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortLinkProviderNetwork to libovsdb</code>](https://github.com/lxc/incus/commit/9c7210d2fb1828f00e82c9a93879a1384d001349)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchIPs to libovsdb</code>](https://github.com/lxc/incus/commit/6f740f3631006d2993799c5c03df058b51a2dd99)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/12b39d2c161dffc5103335823bd5cc1271e2371b)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/f826ad6a6d55f1422a8def4d59941d3630b0f4d1)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/8d5fefdaf0baedea79c6441ba6c9ecd40a45ea43)
-- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupMembers to libovsdb</code>](https://github.com/lxc/incus/commit/84f905ed58c648293620bb7544adb4ac9d69ecb5)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalRouterPolicy to libovsdb</code>](https://github.com/lxc/incus/commit/afb594e42d43eb5b110e8e6a930343042fb492a8)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/41358082836db19f09f77325a84cbaf73765513a)
-- [ ] [<code>incusd/network/ovn: Port CreateLoadBalancer to libovsdb</code>](https://github.com/lxc/incus/commit/3e199a111c11c1d785178764ecdd15582b57e7a6)
-- [ ] [<code>incusd/network/ovn: Port GetLogicalRouterRoutes to libovsdb</code>](https://github.com/lxc/incus/commit/2f99b1987922503434060c68c185ec3552f3ef98)
-- [ ] [<code>incusd/network/ovn: Port DeleteLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/c09bd27e3d502fce0578d21cdaa8bac27a89d5da)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ea5e08b2070d7a35ce2c6601199a639a2a4bb34e)
-- [ ] [<code>incusd/apparmor: Update for current QEMU</code>](https://github.com/lxc/incus/commit/d06441c0fd92ce88be56d4b2c409e7e063e5cbeb)
-- [ ] [<code>incusd/apparmor: Allow /dev/shm in forkproxy</code>](https://github.com/lxc/incus/commit/7ed84242529fba61e4f5dfd3fdec5b6330fbee5a)
-- [ ] [<code>incusd/network/ovn: Port CreateLogicalRouterPeering to libovsdb</code>](https://github.com/lxc/incus/commit/8094f1c8919a0ca1eb2bbc4638cd828a3ecae677)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/ee0397d333b7ee8dfa09a203170bd46e8dd35e99)
-- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortDeleteDNSOperations to libovsdb</code>](https://github.com/lxc/incus/commit/b89495895fdbcfa781409788f6ff1ca796317aa7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Port DeleteLogicalSwitchPortDNS to libovsdb</code>](https://github.com/lxc/incus/commit/3b14844bfcda895b5323d8acdb56183b5d2a0de3)
-- [ ] [<code>incusd/network/ovn: Port logicalSwitchPortDeleteOperations to libovsdb</code>](https://github.com/lxc/incus/commit/598e8ea21ff818033b98f04b96799294a20ab213)
-- [ ] [<code>incusd/network/ovn: Port CleanupLogicalSwitchPort to libovsdb</code>](https://github.com/lxc/incus/commit/a94b26d71f2c1ba9c031e9f86846e2fab896dd42)
-- [ ] [<code>incusd/network/ovn: Port aclRuleDeleteOperations to libovsdb</code>](https://github.com/lxc/incus/commit/1bcbbb2c438a9ed1914788d5076989ee33a7d40b)
-- [ ] [<code>incusd/network/ovn: Port aclRuleAddOperations to libovsdb</code>](https://github.com/lxc/incus/commit/1e23f3f0814301cc3760f093146ace3109b16182)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/network/ovn: Port ClearPortGroupPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/b3619ab20bda4327fff3b7d251b6cce10971ce19)
-- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupPortACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/e234381f1fed8624b11801c7a9478cbc33527c5b)
-- [ ] [<code>incusd/network/ovn: Port UpdateLogicalSwitchACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/3cb964125ec7d06d63ba884792e59e63f49c65b0)
-- [ ] [<code>incusd/network/ovn: Port UpdatePortGroupACLRules to libovsdb</code>](https://github.com/lxc/incus/commit/2f2a7720c57c5a0b26031607a63f426cba11b54a)
-- [ ] [<code>incusd/network/acl: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/caaaaa764b6c6f32fd0250748a9aa9596c203b29)
-- [ ] [<code>incusd/network: Update for OVN function changes</code>](https://github.com/lxc/incus/commit/36db63da79a02d8e6b66990fba1693d3988cc917)
-- [ ] [<code>incusd/network/ovn: Remove nbctl</code>](https://github.com/lxc/incus/commit/a9aacbde7c43a7d79ac3de44e21274863d211bcc)
-  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>api: disk_io_bus_cache_filesystem</code>](https://github.com/lxc/incus/commit/651e5e7fcb3462b47c2b6192151f30fb06dd1b37)
-- [ ] [<code>incusd/device/disk: Extend io.bus option</code>](https://github.com/lxc/incus/commit/417d94bb7f9e5aff3773dff9becfea20bb0ed940)
-- [ ] [<code>incusd/device/disk: Extend io.cache option</code>](https://github.com/lxc/incus/commit/4e891330626967dd2548219f61df9b12b76f53d8)
-- [ ] [<code>incusd/device/disk: Add support for io.cache on virtiofs</code>](https://github.com/lxc/incus/commit/b4e888c920bc40226094c003ed0ea8efcfc29b01)
-- [ ] [<code>incusd/device/disk: Add support for io.bus on filesystems</code>](https://github.com/lxc/incus/commit/911e5a3c4532dbc4e5d0647c1dd5f4b2f9194016)
-- [ ] [<code>incusd/instance/driver_qemu: Handle 9p being disabled</code>](https://github.com/lxc/incus/commit/b378d59ebe5fcf68fa5f3e0609d6fe59480d1542)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/0dab18af7cfc1dfdf2b11ecd2328b86832504a5b)
-- [ ] [<code>doc/installing: Update Debian/Ubuntu build instructions</code>](https://github.com/lxc/incus/commit/b1b0990cc8b4cd4c5ad01bb60f8764d859742beb)
-- [ ] [<code>doc/installing: Mention installing Go from upstream</code>](https://github.com/lxc/incus/commit/32db7e648be224313a322f59945bcd24d66838e4)
-- [ ] [<code>incusd/instance/edk2: Add new package to track EDK2 firmwares</code>](https://github.com/lxc/incus/commit/6d04eb437b0f35ba0faca3e25b846cdbccf5d8ce)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>incusd/instance/qemu: Update to the new edk2 package</code>](https://github.com/lxc/incus/commit/2546c56300c08aabb68278a483a0dfa696f99f61)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>incusd/apparmor: Update to the new edk2 package</code>](https://github.com/lxc/incus/commit/14fd13a0af61e99d5c3e1cf733cd4ceb8d61b3de)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>doc: Cleanup OVMF/EDK2 handling to cover aarch64</code>](https://github.com/lxc/incus/commit/73afd842b6e5a696517963cb432837a77bb6348d)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>doc/installing: Use Incus 6.0.0 as example</code>](https://github.com/lxc/incus/commit/83de5e1ec96e663581b2078e287af4e0008c9007)
-- [ ] [<code>incusd/instance/qemu: Fix handling of virtiofs-only disks</code>](https://github.com/lxc/incus/commit/193b371417487e3d9325e524fb9f527d2252ed9e)
-- [ ] [<code>incus/storage_volume: Tweak help messages</code>](https://github.com/lxc/incus/commit/d116427d275fe4b3ffb88ad207b0c5c6ed1d4bee)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/3598339e4c3b05b4fc79c2cbdf106c07ef577dbf)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incus/storage_volume: Fix lint</code>](https://github.com/lxc/incus/commit/569674df3be30592339b4b862c77f0a639805b7e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>doc/installing: Mention incus-tools package</code>](https://github.com/lxc/incus/commit/f61cd7bf6427d44ef97e882c7e4b27e4d573ec50)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus-simplestreams: Add support for unified images</code>](https://github.com/lxc/incus/commit/a65344ec3ebeea5b496ccbf2be13dfcdc01c9e74)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus-simplestreams: Tweak help message</code>](https://github.com/lxc/incus/commit/cfb1421a8f0674d53ad0da59625ec4970f569091)
-- [ ] [<code>incus-simplestreams: Refactor unified logic</code>](https://github.com/lxc/incus/commit/a3da639efd9e41f75a74773bee9208f9c583150c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/927dd9102a3b42f459d01a23e9ea78e02496ed1d)
-- [ ] [<code>incusd/apparmor: Allow devpts mounts</code>](https://github.com/lxc/incus/commit/32112704e5194c26ba8733d288b65711e2f939d2)
-- [ ] [<code>incusd: Improve profile rename errors</code>](https://github.com/lxc/incus/commit/7de1849632279e42b6da3a3f05fed530c540908c)
-- [ ] [<code>incusd/sys: Add cluster resources cache path</code>](https://github.com/lxc/incus/commit/d0b9b9931bbd0d0991d6068c4ef3e2d18657ff1f)
-- [ ] [<code>incusd/daemon: Locally cache other server resources</code>](https://github.com/lxc/incus/commit/edd7a4cbf9437e1aeb9e444f1beff4540c88ba63)
-- [ ] [<code>incusd/instance/drivers/qmp: Add QueryCPUModel</code>](https://github.com/lxc/incus/commit/b2be9b9d88fb2b6cf67fb24211740d1fd9bbc7cc)
-- [ ] [<code>incusd/instance/qemu: Use cluster CPU flags for migration.stateful</code>](https://github.com/lxc/incus/commit/4d43430e13e6f5b0c0c665bde317f8243709c4d3)
-- [ ] [<code>incus-user: Use shorter interrface name for long UIDs</code>](https://github.com/lxc/incus/commit/177e1601c5d79258a2e3c2023d74a81448a90729)
-- [ ] [<code>incusd/device/network: Fix Tap interface MTU when in OVN</code>](https://github.com/lxc/incus/commit/601bbc51a89cfc0d35ee71edecac9ae62f86cf94)
-- [ ] [<code>incusd/isntance: Don't expose all internal flags in INFO message</code>](https://github.com/lxc/incus/commit/a49e8c83e542da265df33b7097ad4b2d384f324b)
-- [ ] [<code>incusd/instance/lxc: Allow calling Update from a Create operation</code>](https://github.com/lxc/incus/commit/e55063a30a471d8365579e08c44ddd770b264a82)
-- [ ] [<code>cmd/incusd: Add forknet dhcp</code>](https://github.com/lxc/incus/commit/0de2bf9f2720dff3193d10e539522de9f8400c9a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>shared/subprocess: Allow building on Windows</code>](https://github.com/lxc/incus/commit/6fb4b533772269c34ec3c17a6280a3740808714b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>api: instance_oci</code>](https://github.com/lxc/incus/commit/640f813a529c0443349158c319435bb9142a13a9)
-- [ ] [<code>client: Add basic OCI registry client</code>](https://github.com/lxc/incus/commit/b5280ed6361a663b8d675d58db1d88bad685fcd4)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incus: Add OCI remote support</code>](https://github.com/lxc/incus/commit/b2cdc45ea41b57ddbbc84ca6b544e351ebc7e581)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>shared/cliconfig: Add OCI remote support</code>](https://github.com/lxc/incus/commit/0a9899b1ca7d0f40ffb02cef729fcc110c7c85ce)
-- [ ] [<code>incusd: Add OCI registry support</code>](https://github.com/lxc/incus/commit/438a1f08b337d1e24da125d645be6a01e1fd34cb)
-- [ ] [<code>incusd/instance/lxc: Basic OCI support</code>](https://github.com/lxc/incus/commit/16e9ccf592f8c244fe0d436756d39f3090620f58)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>internal/instance: Add volatile.container.oci</code>](https://github.com/lxc/incus/commit/115ad4c7fc153a089d6c446f3f7f18759929d901)
-- [ ] [<code>incusd/instance/lxc: Add volatile.container.oci</code>](https://github.com/lxc/incus/commit/fd5f178935e53e3ea6a302189b97703b56888ade)
-- [ ] [<code>incus: Add support for volatile.container.oci</code>](https://github.com/lxc/incus/commit/6a1c33dd7b50ad442193909b8552da3c7d685aef)
-- [ ] [<code>incusd/instance: Handle OCI config on create from image</code>](https://github.com/lxc/incus/commit/8526d15a2f472a2de0ef653de1f45070ff0768a1)
-- [ ] [<code>tests: Add basic OCI test</code>](https://github.com/lxc/incus/commit/352150b9534cac4a91acaa9c05852de94e8a4eff)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/aadb3660fff1335427d022cdf426fc221d79f863)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3a1684548cf40ebb0a16c87b525504ff8ea70b83)
-- [ ] [<code>doc: Add OCI to wordlist</code>](https://github.com/lxc/incus/commit/0713d5471b232627620cd318497e73f3f746ccb2)
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/507c95d6450307f87731d9725d292af98fe61094)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>shared/subprocess: Fix gofmt</code>](https://github.com/lxc/incus/commit/170bef15d03455a34c56a9ccdefdc40bcb501f64)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/storage/lvmcluster: Don't allow buckets</code>](https://github.com/lxc/incus/commit/c8a0ee2e1aabc19ab19a0e4c804fcc7cc26f80ce)
-- [ ] [<code>incusd/storage/lvmcluster: Don't exclusively lock ISO volumes</code>](https://github.com/lxc/incus/commit/c030b43b168351311285c1dc4e80361f181236f2)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/device/disk: Allow attaching the same ISO to multiple instances</code>](https://github.com/lxc/incus/commit/53763cde513b8a6ec5fded7aa5693848721fb56f)
-- [ ] [<code>incusd/device/disk: Allow live-migration with agent/cloud-init disks</code>](https://github.com/lxc/incus/commit/8a19fbfc0d523777d45190092e8d9f15ae45caba)
-- [ ] [<code>incusd/instance/qemu: Fix live-migration with agent/cloud-init disks</code>](https://github.com/lxc/incus/commit/83ef318604bab72c0ff95c543df315d682626783)
-- [ ] [<code>incusd/device/disk: Don't crash on uninitialized pool</code>](https://github.com/lxc/incus/commit/a066c807df27e7e75d39d17f3418d5d9376d6503)
-- [ ] [<code>incusd/storage/lvmcluster: Always use shared access</code>](https://github.com/lxc/incus/commit/46c51945f3134d6260b8e020712ee6cbed01d62b)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/instance/lxc: Don't report filesystem metrics when no per-instance value</code>](https://github.com/lxc/incus/commit/832b02c60a87e4ed3f05bdadd055bffcdc757059)
-- [ ] [<code>incus/top: Set interval to 10s (minimum server-side is 8)</code>](https://github.com/lxc/incus/commit/ffb15fb0a95d841f52b7d3fb12fe48e90877193b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/top: Hide zero values</code>](https://github.com/lxc/incus/commit/db36e5a98d3a246bebb7ae8f0cd51c7dc015a5d1)
-- [ ] [<code>incusd/device/disk: Mark virtual disks as always migratable</code>](https://github.com/lxc/incus/commit/fe24692d6dccd37000912457854c889c5dcd158e)
-- [ ] [<code>tests: Update metrics test for recent change</code>](https://github.com/lxc/incus/commit/8a75509492bdcbb428e0752d5532587d1d20f729)
-- [ ] [<code>Release Incus 6.3</code>](https://github.com/lxc/incus/commit/180e9b0fcc7601e9ca29800bf9078fc714c48da2)
-  - <sub>Tags: <code>v6.3.0</code></sub>
 - [ ] [<code>incus-simplestreams: Fix split images</code>](https://github.com/lxc/incus/commit/6eb6f74b57f77d321c332f25f97d72ea29c71ebe)
 - [ ] [<code>[lxd-import] github: stop purging core20</code>](https://github.com/lxc/incus/commit/4802dfeb2b9f8652f8cf5ad81a1d443b2e552dd3)
 - [ ] [<code>[lxd-import] github: purge disabled/superseded snaps</code>](https://github.com/lxc/incus/commit/ff1139c2add4bc1df4eafd2bc35e08c9d4111eb5)
@@ -756,6 +539,13 @@
 - [ ] [<code>doc/images: Mention OCI images</code>](https://github.com/lxc/incus/commit/49c899b52ac48f0618e09a2d64f8a0872a648968)
 - [ ] [<code>incusd/instance/edk2: Support OVMF filenames on arm64</code>](https://github.com/lxc/incus/commit/cc33d436d193f12a38818482c050fafd1ecae04c)
 - [ ] [<code>incusd/instance/drivers/qemu: Limit CPU flag calculation to x86_64</code>](https://github.com/lxc/incus/commit/ee24c49a275268f08f9dd060fba1256699fee65e)
+- [ ] [<code>incus/s3: Fix mcli minio client executable name check</code>](https://github.com/lxc/incus/commit/cb2c5aa11c5ff19c7d28cb29133fca97bdd604e2)
+- [ ] [<code>incusd/instance/qemu: Fix architecture check being backward</code>](https://github.com/lxc/incus/commit/a68ebef36cdada61bd5ece7e15c82ee449214e9f)
+- [ ] [<code>incusd/instance: Fix initial configuration handling for OCI</code>](https://github.com/lxc/incus/commit/091a87835262b512c42283dc9afa3f4c5b0413e3)
+- [ ] [<code>client/oci: Add errors for missing skopeo</code>](https://github.com/lxc/incus/commit/987bd27c20b4c8dd9575aa2254c865847fd73026)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>client/oci: Add errors for missing umoci</code>](https://github.com/lxc/incus/commit/5c01e21a85fa67fcf91ea0b9f5f0125a4ef177c9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1501,6 +1291,13 @@
 - [ ] [<code>doc/images: Mention OCI images</code>](https://github.com/lxc/incus/commit/49c899b52ac48f0618e09a2d64f8a0872a648968)
 - [ ] [<code>incusd/instance/edk2: Support OVMF filenames on arm64</code>](https://github.com/lxc/incus/commit/cc33d436d193f12a38818482c050fafd1ecae04c)
 - [ ] [<code>incusd/instance/drivers/qemu: Limit CPU flag calculation to x86_64</code>](https://github.com/lxc/incus/commit/ee24c49a275268f08f9dd060fba1256699fee65e)
+- [ ] [<code>incus/s3: Fix mcli minio client executable name check</code>](https://github.com/lxc/incus/commit/cb2c5aa11c5ff19c7d28cb29133fca97bdd604e2)
+- [ ] [<code>incusd/instance/qemu: Fix architecture check being backward</code>](https://github.com/lxc/incus/commit/a68ebef36cdada61bd5ece7e15c82ee449214e9f)
+- [ ] [<code>incusd/instance: Fix initial configuration handling for OCI</code>](https://github.com/lxc/incus/commit/091a87835262b512c42283dc9afa3f4c5b0413e3)
+- [ ] [<code>client/oci: Add errors for missing skopeo</code>](https://github.com/lxc/incus/commit/987bd27c20b4c8dd9575aa2254c865847fd73026)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>client/oci: Add errors for missing umoci</code>](https://github.com/lxc/incus/commit/5c01e21a85fa67fcf91ea0b9f5f0125a4ef177c9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2253,6 +2050,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Rename Googletest to GTest (#2263)</code>](https://github.com/AOMediaCodec/libavif/commit/7adf4073f86e8454f2e9ef6733b0cbe8c98a70f1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Read byte-unaligned infe in meta v1 (#2268)</code>](https://github.com/AOMediaCodec/libavif/commit/63f10971186e3dd270b90676da46211367dc8498)
+- [ ] [<code>Reapply "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/da268fb447f3b9998ee00af7121f740d8c890fe7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
