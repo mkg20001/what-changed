@@ -2052,6 +2052,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Read byte-unaligned infe in meta v1 (#2268)</code>](https://github.com/AOMediaCodec/libavif/commit/63f10971186e3dd270b90676da46211367dc8498)
 - [ ] [<code>Reapply "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/da268fb447f3b9998ee00af7121f740d8c890fe7)
+- [ ] [<code>fix: do not disable CONFIG_RUNTIME_CPU_DETECT in cross-arch aom builds</code>](https://github.com/AOMediaCodec/libavif/commit/e54b5c2908e74b5d7d090df53919f7ba52cd856f)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
