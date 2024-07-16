@@ -286,6 +286,8 @@
 - [ ] [<code>chore: Follow up listtilehover</code>](https://github.com/krille-chan/fluffychat/commit/54ba4544af791e3ab4dbb603277e3dfffe4978c1)
 - [ ] [<code>chore: Follow up listtilehovered</code>](https://github.com/krille-chan/fluffychat/commit/282188f574e419fe6837a3fa6d96999b76534522)
 - [ ] [<code>chore: Bring back navrail</code>](https://github.com/krille-chan/fluffychat/commit/b05eb891a66816fb71277b94304d594389997a2d)
+- [ ] [<code>chore: Follow up chat context menu</code>](https://github.com/krille-chan/fluffychat/commit/467d103c2f540ece1ed13c7d912cd5e73a9ac490)
+- [ ] [<code>build: Update android target sdk to 34</code>](https://github.com/krille-chan/fluffychat/commit/0bf387da14c562eae21b36897a53a300ea5b6717)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -420,6 +422,8 @@
 - [ ] [<code>chore: Follow up listtilehover</code>](https://github.com/krille-chan/fluffychat/commit/54ba4544af791e3ab4dbb603277e3dfffe4978c1)
 - [ ] [<code>chore: Follow up listtilehovered</code>](https://github.com/krille-chan/fluffychat/commit/282188f574e419fe6837a3fa6d96999b76534522)
 - [ ] [<code>chore: Bring back navrail</code>](https://github.com/krille-chan/fluffychat/commit/b05eb891a66816fb71277b94304d594389997a2d)
+- [ ] [<code>chore: Follow up chat context menu</code>](https://github.com/krille-chan/fluffychat/commit/467d103c2f540ece1ed13c7d912cd5e73a9ac490)
+- [ ] [<code>build: Update android target sdk to 34</code>](https://github.com/krille-chan/fluffychat/commit/0bf387da14c562eae21b36897a53a300ea5b6717)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2674,6 +2678,8 @@
 - [ ] [<code>Fix FTBFS on Debian unstable (probably /tmp on tmpfs?)</code>](https://github.com/canonical/netplan/commit/090a5b77cab2bef27c9ea5757da72c8ccdf42880)
 - [ ] [<code>CLI:apply: call udevadm trigger, using --action=move (Closes: #1071220) (LP: #2066344, LP: #2071363)</code>](https://github.com/canonical/netplan/commit/8b5a2a872f9d95f33d81969561dd71b606774dca)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>parse: downgrade warning about nm-device renderer to 'debug', as it's just informational</code>](https://github.com/canonical/netplan/commit/cabf3d834bb9d5187102cc315a48facf7b1f4983)
+- [ ] [<code>Fix manpage title.</code>](https://github.com/canonical/netplan/commit/980af5578e760dd27bcc8484ae1f520b5e5547bf)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
