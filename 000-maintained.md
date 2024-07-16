@@ -143,7 +143,10 @@
 - [ ] [<code>sm: Fix format specifiers for armhf</code>](https://github.com/canonical/dqlite/commit/f00f0caafeacec7294192cbbaa3a5b6975d3f7cd)
 - [ ] [<code>Fix a possible UAF</code>](https://github.com/canonical/dqlite/commit/00db6f07383417f1ddd55119ed3bc0e6f084dbde)
 - [ ] [<code>free *snapshots if rv != 0</code>](https://github.com/canonical/dqlite/commit/f98027e81a78a5edbee836d5184e37d62dec8c6d)
+- [ ] [<code>feat: proper timeout handling for snapshots</code>](https://github.com/canonical/dqlite/commit/8d5014ec355fffe2ee1ac99ae3f16aead09a4461)
+- [ ] [<code>address review comments</code>](https://github.com/canonical/dqlite/commit/27e5f6fa467ffdb176f2f70f08067772c3e4dd5d)
 - [ ] [<code>bugfix: reading segment, correctly stop on error</code>](https://github.com/canonical/dqlite/commit/a653857330e42dee96013a77613f64606c7637ee)
+- [ ] [<code>address review comments</code>](https://github.com/canonical/dqlite/commit/054b51165d78c2d78a7003cbbe697060a2439ef0)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2058,6 +2061,9 @@
 - [ ] [<code>Reapply "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/da268fb447f3b9998ee00af7121f740d8c890fe7)
 - [ ] [<code>fix: do not disable CONFIG_RUNTIME_CPU_DETECT in cross-arch aom builds</code>](https://github.com/AOMediaCodec/libavif/commit/e54b5c2908e74b5d7d090df53919f7ba52cd856f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Only INSTALL_INTERFACE for static. (#2269)</code>](https://github.com/AOMediaCodec/libavif/commit/1a1c778f8e0b7ecdf3af9e59a6f33eb4d7d3900e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2089,6 +2095,10 @@
 - [ ] [<code>github: exclude clang & ubuntu-24.04 combination</code>](https://github.com/lxc/lxc/commit/4892749ef4367752403a5e7fd5fd870eab191e43)
 - [ ] [<code>meson: fix build with -Dtools-multicall=true on NixOS</code>](https://github.com/lxc/lxc/commit/01ae1fe55ec2620abee3aa9a7e89456237aa363c)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove unused function</code>](https://github.com/lxc/lxc/commit/5603534a984718ae45981e9d16d5f19bf44ebe06)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>idmap: Lower logging level of newXidmap tools to INFO</code>](https://github.com/lxc/lxc/commit/5db3d7299f1c0c9f1d51cddcc60bc88d92bec9d3)
+- [ ] [<code>Exit 0 when there's no error</code>](https://github.com/lxc/lxc/commit/b24d2d45b3875b013131b480e61c93b6fb8ea70c)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.1 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.1...HEAD)
 
@@ -2680,6 +2690,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>parse: downgrade warning about nm-device renderer to 'debug', as it's just informational</code>](https://github.com/canonical/netplan/commit/cabf3d834bb9d5187102cc315a48facf7b1f4983)
 - [ ] [<code>Fix manpage title.</code>](https://github.com/canonical/netplan/commit/980af5578e760dd27bcc8484ae1f520b5e5547bf)
+- [ ] [<code>doc:examples: Add reference for NM default config</code>](https://github.com/canonical/netplan/commit/309e9058cc1710c6ada73de3fa2119acb2eef2f7)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
