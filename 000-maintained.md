@@ -2064,6 +2064,8 @@
 - [ ] [<code>Only INSTALL_INTERFACE for static. (#2269)</code>](https://github.com/AOMediaCodec/libavif/commit/1a1c778f8e0b7ecdf3af9e59a6f33eb4d7d3900e)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Support compiling with clang-cl</code>](https://github.com/AOMediaCodec/libavif/commit/d122de6d0ffae1518615145b5e77f396904b081d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
