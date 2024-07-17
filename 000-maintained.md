@@ -291,6 +291,9 @@
 - [ ] [<code>chore: Bring back navrail</code>](https://github.com/krille-chan/fluffychat/commit/b05eb891a66816fb71277b94304d594389997a2d)
 - [ ] [<code>chore: Follow up chat context menu</code>](https://github.com/krille-chan/fluffychat/commit/467d103c2f540ece1ed13c7d912cd5e73a9ac490)
 - [ ] [<code>build: Update android target sdk to 34</code>](https://github.com/krille-chan/fluffychat/commit/0bf387da14c562eae21b36897a53a300ea5b6717)
+- [ ] [<code>chore: Follow up list item click behavior</code>](https://github.com/krille-chan/fluffychat/commit/87d3d0feed614c69e63856de6d0c4aef05a7b8b2)
+- [ ] [<code>refactor: Use cached network image for mxc image uris</code>](https://github.com/krille-chan/fluffychat/commit/86b1314c61f12f0ce102d98df7941d927de2653d)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -427,6 +430,9 @@
 - [ ] [<code>chore: Bring back navrail</code>](https://github.com/krille-chan/fluffychat/commit/b05eb891a66816fb71277b94304d594389997a2d)
 - [ ] [<code>chore: Follow up chat context menu</code>](https://github.com/krille-chan/fluffychat/commit/467d103c2f540ece1ed13c7d912cd5e73a9ac490)
 - [ ] [<code>build: Update android target sdk to 34</code>](https://github.com/krille-chan/fluffychat/commit/0bf387da14c562eae21b36897a53a300ea5b6717)
+- [ ] [<code>chore: Follow up list item click behavior</code>](https://github.com/krille-chan/fluffychat/commit/87d3d0feed614c69e63856de6d0c4aef05a7b8b2)
+- [ ] [<code>refactor: Use cached network image for mxc image uris</code>](https://github.com/krille-chan/fluffychat/commit/86b1314c61f12f0ce102d98df7941d927de2653d)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -553,6 +559,12 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>client/oci: Add errors for missing umoci</code>](https://github.com/lxc/incus/commit/5c01e21a85fa67fcf91ea0b9f5f0125a4ef177c9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Change RunDir file mode to 0711</code>](https://github.com/lxc/incus/commit/d69c680903eff251e987d90af729992d2e141f9c)
+- [ ] [<code>incusd/instance/lxc: Handle OCI containers using real PID1</code>](https://github.com/lxc/incus/commit/5d8b9c88a61719855b3901781ac9ef8ac8901d42)
+- [ ] [<code>incusd/apparmor/qemu: Relax apparmor rules a bit</code>](https://github.com/lxc/incus/commit/56e6c1a40c7941f5069edccd050e4c137a4fef51)
+- [ ] [<code>incus-simplestreams: Handle removal of combined images</code>](https://github.com/lxc/incus/commit/3381b08187a9e54b23fff20bdd4be2901cff46cb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1305,6 +1317,12 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>client/oci: Add errors for missing umoci</code>](https://github.com/lxc/incus/commit/5c01e21a85fa67fcf91ea0b9f5f0125a4ef177c9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Change RunDir file mode to 0711</code>](https://github.com/lxc/incus/commit/d69c680903eff251e987d90af729992d2e141f9c)
+- [ ] [<code>incusd/instance/lxc: Handle OCI containers using real PID1</code>](https://github.com/lxc/incus/commit/5d8b9c88a61719855b3901781ac9ef8ac8901d42)
+- [ ] [<code>incusd/apparmor/qemu: Relax apparmor rules a bit</code>](https://github.com/lxc/incus/commit/56e6c1a40c7941f5069edccd050e4c137a4fef51)
+- [ ] [<code>incus-simplestreams: Handle removal of combined images</code>](https://github.com/lxc/incus/commit/3381b08187a9e54b23fff20bdd4be2901cff46cb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2693,6 +2711,8 @@
 - [ ] [<code>parse: downgrade warning about nm-device renderer to 'debug', as it's just informational</code>](https://github.com/canonical/netplan/commit/cabf3d834bb9d5187102cc315a48facf7b1f4983)
 - [ ] [<code>Fix manpage title.</code>](https://github.com/canonical/netplan/commit/980af5578e760dd27bcc8484ae1f520b5e5547bf)
 - [ ] [<code>doc:examples: Add reference for NM default config</code>](https://github.com/canonical/netplan/commit/309e9058cc1710c6ada73de3fa2119acb2eef2f7)
+- [ ] [<code>networkd: Implement ipv6-address-generation: stable-privacy</code>](https://github.com/canonical/netplan/commit/b8792134924c753209ac4a815e07fe6d8b651102)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
