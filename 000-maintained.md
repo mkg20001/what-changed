@@ -294,6 +294,7 @@
 - [ ] [<code>chore: Follow up list item click behavior</code>](https://github.com/krille-chan/fluffychat/commit/87d3d0feed614c69e63856de6d0c4aef05a7b8b2)
 - [ ] [<code>refactor: Use cached network image for mxc image uris</code>](https://github.com/krille-chan/fluffychat/commit/86b1314c61f12f0ce102d98df7941d927de2653d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Try out flutter 3.22.2 in</code>](https://github.com/krille-chan/fluffychat/commit/998868dd566b3b479566963417748c6c2db1a332)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -433,6 +434,7 @@
 - [ ] [<code>chore: Follow up list item click behavior</code>](https://github.com/krille-chan/fluffychat/commit/87d3d0feed614c69e63856de6d0c4aef05a7b8b2)
 - [ ] [<code>refactor: Use cached network image for mxc image uris</code>](https://github.com/krille-chan/fluffychat/commit/86b1314c61f12f0ce102d98df7941d927de2653d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Try out flutter 3.22.2 in</code>](https://github.com/krille-chan/fluffychat/commit/998868dd566b3b479566963417748c6c2db1a332)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -565,6 +567,7 @@
 - [ ] [<code>incus-simplestreams: Handle removal of combined images</code>](https://github.com/lxc/incus/commit/3381b08187a9e54b23fff20bdd4be2901cff46cb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
+- [ ] [<code>incusd/apparmor/qemu: Fix typo in rule</code>](https://github.com/lxc/incus/commit/ce178160f281aaef0c75125ff02a4dd66cdb128b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1323,6 +1326,7 @@
 - [ ] [<code>incus-simplestreams: Handle removal of combined images</code>](https://github.com/lxc/incus/commit/3381b08187a9e54b23fff20bdd4be2901cff46cb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
+- [ ] [<code>incusd/apparmor/qemu: Fix typo in rule</code>](https://github.com/lxc/incus/commit/ce178160f281aaef0c75125ff02a4dd66cdb128b)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2084,6 +2088,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Support compiling with clang-cl</code>](https://github.com/AOMediaCodec/libavif/commit/d122de6d0ffae1518615145b5e77f396904b081d)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add clang-cl CI (#2270)</code>](https://github.com/AOMediaCodec/libavif/commit/894e75bc294c995dab42b489c87d546af91e51ad)
+- [ ] [<code>Change AVIF_ENABLE_EXPERIMENTAL_AVIR to ..._METAV1</code>](https://github.com/AOMediaCodec/libavif/commit/4c5ed14a51e181f2624430768b76ad1b644d9848)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -3060,4 +3066,6 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
 
 - [ ] [<code>screenshot.c: Use the filename provided by the portal request.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c73f5c5e15f3f10e4f226e2a79fe9fdde049baed)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.0.8</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f1c24244f90571209c56b7f45802b70e80da4922)
+  - <sub>Tags: <code>1.0.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
