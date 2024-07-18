@@ -87,12 +87,21 @@
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
+- [ ] [<code>nemo-emblems: Fix l10n for plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/5cd9643868ab6f19578270563f31e31e13f7ecbb)
+- [ ] [<code>nemo-emblems 6.2.1</code>](https://github.com/linuxmint/nemo-extensions/commit/710884d40df5d93453e58849a216c2c145a0e537)
+  - <sub>Tags: <code>nemo-emblems-6.2.1</code></sub>
 
 #### [cinnamon.nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
+- [ ] [<code>nemo-emblems: Fix l10n for plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/5cd9643868ab6f19578270563f31e31e13f7ecbb)
+- [ ] [<code>nemo-emblems 6.2.1</code>](https://github.com/linuxmint/nemo-extensions/commit/710884d40df5d93453e58849a216c2c145a0e537)
+  - <sub>Tags: <code>nemo-emblems-6.2.1</code></sub>
 
 #### [cinnamon.nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
+- [ ] [<code>nemo-emblems: Fix l10n for plugin description</code>](https://github.com/linuxmint/nemo-extensions/commit/5cd9643868ab6f19578270563f31e31e13f7ecbb)
+- [ ] [<code>nemo-emblems 6.2.1</code>](https://github.com/linuxmint/nemo-extensions/commit/710884d40df5d93453e58849a216c2c145a0e537)
+  - <sub>Tags: <code>nemo-emblems-6.2.1</code></sub>
 > Dropped cinnamon.nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'cinnamon.nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
