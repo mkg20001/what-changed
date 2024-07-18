@@ -297,6 +297,11 @@
 - [ ] [<code>build: Try out flutter 3.22.2 in</code>](https://github.com/krille-chan/fluffychat/commit/998868dd566b3b479566963417748c6c2db1a332)
 - [ ] [<code>build: Fix build snap</code>](https://github.com/krille-chan/fluffychat/commit/69fcb01988a58f030a1e5df5ded3c5f7fe93cab2)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Remove permissions for screensharing until it is fixed</code>](https://github.com/krille-chan/fluffychat/commit/659174b828fa5e2729456466e8b1b4e50f310075)
+- [ ] [<code>chore: Follow up navrail</code>](https://github.com/krille-chan/fluffychat/commit/956a2e6523eb17fa34eb3bad1abe522ca3bdfc3d)
+- [ ] [<code>chore: Follow up pop space view</code>](https://github.com/krille-chan/fluffychat/commit/754870e3fd0d60e2cfbac3e9546ceea74a29fb7d)
+- [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/b8345e2ca6d9ceef2136cb6ccaf4f8384801936b)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -438,6 +443,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Try out flutter 3.22.2 in</code>](https://github.com/krille-chan/fluffychat/commit/998868dd566b3b479566963417748c6c2db1a332)
 - [ ] [<code>build: Fix build snap</code>](https://github.com/krille-chan/fluffychat/commit/69fcb01988a58f030a1e5df5ded3c5f7fe93cab2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Remove permissions for screensharing until it is fixed</code>](https://github.com/krille-chan/fluffychat/commit/659174b828fa5e2729456466e8b1b4e50f310075)
+- [ ] [<code>chore: Follow up navrail</code>](https://github.com/krille-chan/fluffychat/commit/956a2e6523eb17fa34eb3bad1abe522ca3bdfc3d)
+- [ ] [<code>chore: Follow up pop space view</code>](https://github.com/krille-chan/fluffychat/commit/754870e3fd0d60e2cfbac3e9546ceea74a29fb7d)
+- [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/b8345e2ca6d9ceef2136cb6ccaf4f8384801936b)
   - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
@@ -2098,6 +2108,19 @@
 - [ ] [<code>Change AVIF_ENABLE_EXPERIMENTAL_AVIR to ..._METAV1</code>](https://github.com/AOMediaCodec/libavif/commit/4c5ed14a51e181f2624430768b76ad1b644d9848)
 - [ ] [<code>setup-linux: Use -y with apt commands (#2280)</code>](https://github.com/AOMediaCodec/libavif/commit/722f96c6b120dbe94811b2333cd28d255ad8d8e4)
 - [ ] [<code>android ci: Run on ubuntu-latest (#2283)</code>](https://github.com/AOMediaCodec/libavif/commit/81aa1ceaede520f38069f15e59c0171c72e3b71a)
+- [ ] [<code>Update gainmap metadata to current ISO 21496-1 draft</code>](https://github.com/AOMediaCodec/libavif/commit/669bea7e5bdc089e864ab8da94760270a80875cd)
+- [ ] [<code>avifpng.c: Print avif->width, avif->height with %u</code>](https://github.com/AOMediaCodec/libavif/commit/031784ad50f3371056716b339bbc21f8e580fbd0)
+- [ ] [<code>Remove the MSVC /wd4996 option</code>](https://github.com/AOMediaCodec/libavif/commit/5b207c0c337c121e7742bcf82938e948780e72c2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Move the project() call earlier</code>](https://github.com/AOMediaCodec/libavif/commit/00157e157c1bf359d3652d7bb3e87cee6c8d283a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Set Policy CMP0169 to OLD</code>](https://github.com/AOMediaCodec/libavif/commit/a64d557f256b863680f3832b9af52e6ed95db79f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Set C++ version to 17 when using [[no_discard]] (#2291)</code>](https://github.com/AOMediaCodec/libavif/commit/920f70f428529efc1fb1f098af32f83fb3f6e1d1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>cmake: Only search for ASM_NASM language on x86_64 platforms</code>](https://github.com/AOMediaCodec/libavif/commit/c4910aa1604ed5a655a6afd184c72ca549277018)
+- [ ] [<code>Change egor-tensin/vs-shell to ilammy/msvc-dev-cmd</code>](https://github.com/AOMediaCodec/libavif/commit/132b02c5b1b45948fe4ac4a3ca943658eee55d41)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2157,7 +2180,13 @@
 
 #### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.11 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.11...HEAD)
 
+- [ ] [<code>fix(cert) ensure cert name is generated with only valid characters. fixes #809 WD-13031</code>](https://github.com/canonical/lxd-ui/commit/af9c1c49d078a0830f857da559d695cde43107e1)
 - [ ] [<code>chore(ci) remove tics report upload to prevent a security issue</code>](https://github.com/canonical/lxd-ui/commit/dd5e43ea556cd06636fa3de07ddf33b0ec99a9e7)
+- [ ] [<code>fix(cert) ensure cert name is generated with only valid characters. (#816)</code>](https://github.com/canonical/lxd-ui/commit/b6ef2eafc8facbf1d4c628767958df96c9af5b4d)
+- [ ] [<code>fix: prevent settings form input from submitting multiple requests</code>](https://github.com/canonical/lxd-ui/commit/a18bdd9113e7eaf89679b7629bc8ac48bd9bf4c0)
+- [ ] [<code>fix: prevent settings form input from submitting multiple requests (#818)</code>](https://github.com/canonical/lxd-ui/commit/a05c93f25a6535bb41026eb5b5c7b6f71d09b73d)
+- [ ] [<code>feat(instance) add configuration of migration options and nesting on instances and profiles</code>](https://github.com/canonical/lxd-ui/commit/c1e65769396422616525a51b5501ca5b02452352)
+- [ ] [<code>Add configuration of migration options and nesting on instances and profiles (#819)</code>](https://github.com/canonical/lxd-ui/commit/9136bcad3a475941c46f11ec86b1ba2277fa5ae6)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2984,6 +3013,10 @@
 - [ ] [<code>Use custom data provider method for "delete_media"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ec0fc14b6836ab7eb510b02d6463f33133935066)
 - [ ] [<code>Regroup source code</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fce6e03fc5a90e6feb9ce766a9cb41153e28a346)
 - [ ] [<code>Fix getWellKnownUrl()</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4adf2c2bca0c5850eebffbb551866b23ecc14084)
+- [ ] [<code>Bump version to 0.10.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ce5d6587c1326d914684f856e16bc3d6461ed447)
+  - <sub>Tags: <code>0.10.3</code></sub>
+- [ ] [<code>Add Russian language support (#581)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/eb626a7e9e365a69d2994fe0bed9f17be63af9b6)
+- [ ] [<code>Fix a few undefined records (#580)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/77cc93671077c7bd1eccd4d3a903f73c2a0403cb)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
