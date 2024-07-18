@@ -295,6 +295,8 @@
 - [ ] [<code>refactor: Use cached network image for mxc image uris</code>](https://github.com/krille-chan/fluffychat/commit/86b1314c61f12f0ce102d98df7941d927de2653d)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Try out flutter 3.22.2 in</code>](https://github.com/krille-chan/fluffychat/commit/998868dd566b3b479566963417748c6c2db1a332)
+- [ ] [<code>build: Fix build snap</code>](https://github.com/krille-chan/fluffychat/commit/69fcb01988a58f030a1e5df5ded3c5f7fe93cab2)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -435,6 +437,8 @@
 - [ ] [<code>refactor: Use cached network image for mxc image uris</code>](https://github.com/krille-chan/fluffychat/commit/86b1314c61f12f0ce102d98df7941d927de2653d)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Try out flutter 3.22.2 in</code>](https://github.com/krille-chan/fluffychat/commit/998868dd566b3b479566963417748c6c2db1a332)
+- [ ] [<code>build: Fix build snap</code>](https://github.com/krille-chan/fluffychat/commit/69fcb01988a58f030a1e5df5ded3c5f7fe93cab2)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -568,6 +572,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
 - [ ] [<code>incusd/apparmor/qemu: Fix typo in rule</code>](https://github.com/lxc/incus/commit/ce178160f281aaef0c75125ff02a4dd66cdb128b)
+- [ ] [<code>incusd/apparmor/dnsmasq: Relax rules a bit</code>](https://github.com/lxc/incus/commit/ea20d3052fd956135a21a55dc7e7075d6870edef)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1327,6 +1332,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
 - [ ] [<code>incusd/apparmor/qemu: Fix typo in rule</code>](https://github.com/lxc/incus/commit/ce178160f281aaef0c75125ff02a4dd66cdb128b)
+- [ ] [<code>incusd/apparmor/dnsmasq: Relax rules a bit</code>](https://github.com/lxc/incus/commit/ea20d3052fd956135a21a55dc7e7075d6870edef)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2090,6 +2096,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add clang-cl CI (#2270)</code>](https://github.com/AOMediaCodec/libavif/commit/894e75bc294c995dab42b489c87d546af91e51ad)
 - [ ] [<code>Change AVIF_ENABLE_EXPERIMENTAL_AVIR to ..._METAV1</code>](https://github.com/AOMediaCodec/libavif/commit/4c5ed14a51e181f2624430768b76ad1b644d9848)
+- [ ] [<code>setup-linux: Use -y with apt commands (#2280)</code>](https://github.com/AOMediaCodec/libavif/commit/722f96c6b120dbe94811b2333cd28d255ad8d8e4)
+- [ ] [<code>android ci: Run on ubuntu-latest (#2283)</code>](https://github.com/AOMediaCodec/libavif/commit/81aa1ceaede520f38069f15e59c0171c72e3b71a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
