@@ -302,6 +302,9 @@
 - [ ] [<code>chore: Follow up pop space view</code>](https://github.com/krille-chan/fluffychat/commit/754870e3fd0d60e2cfbac3e9546ceea74a29fb7d)
 - [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/b8345e2ca6d9ceef2136cb6ccaf4f8384801936b)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up avatar default image</code>](https://github.com/krille-chan/fluffychat/commit/cf59a43511ee7e7f8fa0a704ee5beccffaae108b)
+- [ ] [<code>chore: Improved create group and space design</code>](https://github.com/krille-chan/fluffychat/commit/152fcc0d95bcba4acc8c3920fba358016cd547ee)
+- [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/7fef3a69d80f0bd27ad32d5434bdb44bcbf1e10d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -449,6 +452,9 @@
 - [ ] [<code>chore: Follow up pop space view</code>](https://github.com/krille-chan/fluffychat/commit/754870e3fd0d60e2cfbac3e9546ceea74a29fb7d)
 - [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/b8345e2ca6d9ceef2136cb6ccaf4f8384801936b)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up avatar default image</code>](https://github.com/krille-chan/fluffychat/commit/cf59a43511ee7e7f8fa0a704ee5beccffaae108b)
+- [ ] [<code>chore: Improved create group and space design</code>](https://github.com/krille-chan/fluffychat/commit/152fcc0d95bcba4acc8c3920fba358016cd547ee)
+- [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/7fef3a69d80f0bd27ad32d5434bdb44bcbf1e10d)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -583,6 +589,18 @@
 - [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
 - [ ] [<code>incusd/apparmor/qemu: Fix typo in rule</code>](https://github.com/lxc/incus/commit/ce178160f281aaef0c75125ff02a4dd66cdb128b)
 - [ ] [<code>incusd/apparmor/dnsmasq: Relax rules a bit</code>](https://github.com/lxc/incus/commit/ea20d3052fd956135a21a55dc7e7075d6870edef)
+- [ ] [<code>incusd/db/node: Fix version check in GetAPI</code>](https://github.com/lxc/incus/commit/6333ed9d68c74202710a7f5c32a620a3e5048682)
+- [ ] [<code>incusd/db: Allow cluster startup with differing API extensions</code>](https://github.com/lxc/incus/commit/1bbcc630558a52c4bdef1b0bfe99ae1abea03713)
+- [ ] [<code>incusd: Extend heartbeat data for minimum API extension count</code>](https://github.com/lxc/incus/commit/14a9f807de6b0759d2c4c282beddacf09f93f66b)
+- [ ] [<code>incusd/storage: Use writeback mode for qemu-img convert</code>](https://github.com/lxc/incus/commit/bbc1ea8cd0cb01b4830fd960007f4c5b6d05edf2)
+- [ ] [<code>incusd/storage: Improve unpacking message</code>](https://github.com/lxc/incus/commit/f57c3e41beb406da488888493ddae953aa71f9f3)
+- [ ] [<code>incusd/operations: Handle percentage only updates</code>](https://github.com/lxc/incus/commit/ee80a6aeb907bfa3c790a115d785121f077e7f26)
+- [ ] [<code>incusd/storage: Pass through tracker to qemu-img</code>](https://github.com/lxc/incus/commit/0a9f272ee097f4c6a697fd5fa62c0f783b263dbc)
+- [ ] [<code>incusd/db/cluster: Update tests for relaxed API extensions checks</code>](https://github.com/lxc/incus/commit/897049ee8a0f76f50fe87b6507bc3fa310426ea2)
+- [ ] [<code>incusd/apparmor: Implement progress tracker for qemu-img</code>](https://github.com/lxc/incus/commit/e02d9621f14f33d155674ffde823ae8b3322190b)
+- [ ] [<code>incusd/cgroup: Handle unknown devices in io.stat</code>](https://github.com/lxc/incus/commit/804f33f9e8b2170565b81a03ff4901e23d5a494e)
+- [ ] [<code>incusd/instance_post: Always set the target project</code>](https://github.com/lxc/incus/commit/c84cd644a7ea9e9e17aff9577a884634ec4ab310)
+- [ ] [<code>incusd/storage/drivers: Consistently set VolumeMultiNode</code>](https://github.com/lxc/incus/commit/9564e5ed1f9571169d7953fa12891655a6236f2e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1343,6 +1361,18 @@
 - [ ] [<code>incusd/instance/lxc: Add basic Mounts handling for OCI</code>](https://github.com/lxc/incus/commit/acb84c6fb1621c6dc2d16b13f2d86898b787d475)
 - [ ] [<code>incusd/apparmor/qemu: Fix typo in rule</code>](https://github.com/lxc/incus/commit/ce178160f281aaef0c75125ff02a4dd66cdb128b)
 - [ ] [<code>incusd/apparmor/dnsmasq: Relax rules a bit</code>](https://github.com/lxc/incus/commit/ea20d3052fd956135a21a55dc7e7075d6870edef)
+- [ ] [<code>incusd/db/node: Fix version check in GetAPI</code>](https://github.com/lxc/incus/commit/6333ed9d68c74202710a7f5c32a620a3e5048682)
+- [ ] [<code>incusd/db: Allow cluster startup with differing API extensions</code>](https://github.com/lxc/incus/commit/1bbcc630558a52c4bdef1b0bfe99ae1abea03713)
+- [ ] [<code>incusd: Extend heartbeat data for minimum API extension count</code>](https://github.com/lxc/incus/commit/14a9f807de6b0759d2c4c282beddacf09f93f66b)
+- [ ] [<code>incusd/storage: Use writeback mode for qemu-img convert</code>](https://github.com/lxc/incus/commit/bbc1ea8cd0cb01b4830fd960007f4c5b6d05edf2)
+- [ ] [<code>incusd/storage: Improve unpacking message</code>](https://github.com/lxc/incus/commit/f57c3e41beb406da488888493ddae953aa71f9f3)
+- [ ] [<code>incusd/operations: Handle percentage only updates</code>](https://github.com/lxc/incus/commit/ee80a6aeb907bfa3c790a115d785121f077e7f26)
+- [ ] [<code>incusd/storage: Pass through tracker to qemu-img</code>](https://github.com/lxc/incus/commit/0a9f272ee097f4c6a697fd5fa62c0f783b263dbc)
+- [ ] [<code>incusd/db/cluster: Update tests for relaxed API extensions checks</code>](https://github.com/lxc/incus/commit/897049ee8a0f76f50fe87b6507bc3fa310426ea2)
+- [ ] [<code>incusd/apparmor: Implement progress tracker for qemu-img</code>](https://github.com/lxc/incus/commit/e02d9621f14f33d155674ffde823ae8b3322190b)
+- [ ] [<code>incusd/cgroup: Handle unknown devices in io.stat</code>](https://github.com/lxc/incus/commit/804f33f9e8b2170565b81a03ff4901e23d5a494e)
+- [ ] [<code>incusd/instance_post: Always set the target project</code>](https://github.com/lxc/incus/commit/c84cd644a7ea9e9e17aff9577a884634ec4ab310)
+- [ ] [<code>incusd/storage/drivers: Consistently set VolumeMultiNode</code>](https://github.com/lxc/incus/commit/9564e5ed1f9571169d7953fa12891655a6236f2e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2123,6 +2153,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Run cmake-format on CMakeLists.txt</code>](https://github.com/AOMediaCodec/libavif/commit/7d9522d3925cdfff7852f025ee97f07f44651c24)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>avifstreamtest.cc: Remove three unused variables</code>](https://github.com/AOMediaCodec/libavif/commit/fb6e03eec4ee72f4cda46fe2bb89d9cd0dfda9f7)
+- [ ] [<code>avifjpeggainmaptest.cc: Remove an unused parameter</code>](https://github.com/AOMediaCodec/libavif/commit/ee674c89dc8d03b829aec0838c6205ea9fcc5daf)
+- [ ] [<code>avifgainmaputil: Fix MSVC type conversion warnings</code>](https://github.com/AOMediaCodec/libavif/commit/1d4b04d2172928b20c8fc1fe4113c5d64c691d37)
+- [ ] [<code>Use /std:clatest with MSVC, remove -Wunused-result</code>](https://github.com/AOMediaCodec/libavif/commit/52368631aa095b2b5e5667396922b31f4fc06b9f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2193,6 +2228,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.59.1 (#820)</code>](https://github.com/canonical/lxd-ui/commit/5a28b8f70b96b7fb0f05dae48e0fff3cee04cab9)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(version) update to 0.12</code>](https://github.com/canonical/lxd-ui/commit/4ab1839a557f8458a531c243ec14b245d64fe7c8)
+  - <sub>Tags: <code>0.12</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2918,6 +2955,9 @@
 - [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/28f0af5e84e71777d0818e1d8964aa1ef8b3d433)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b3d1dc07a50c076d26b22d070dd1ae41a57e5e2)
+- [ ] [<code>fix(android): custom equalizer profile duplicate detection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f32cfa54cf77bb32e1585709c9ce8dc27fdf8c88)
+- [ ] [<code>feat(android): add equalizer profile import/export</code>](https://github.com/Oppzippy/OpenSCQ30/commit/56e0d2e8ecc140cfa9883ec48cf0eacad403e43e)
+- [ ] [<code>chore: remove unnecessary file execute permissions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a073b237806660b19201917da2810e37879d0fd)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
