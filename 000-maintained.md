@@ -2121,6 +2121,8 @@
 - [ ] [<code>cmake: Only search for ASM_NASM language on x86_64 platforms</code>](https://github.com/AOMediaCodec/libavif/commit/c4910aa1604ed5a655a6afd184c72ca549277018)
 - [ ] [<code>Change egor-tensin/vs-shell to ilammy/msvc-dev-cmd</code>](https://github.com/AOMediaCodec/libavif/commit/132b02c5b1b45948fe4ac4a3ca943658eee55d41)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Run cmake-format on CMakeLists.txt</code>](https://github.com/AOMediaCodec/libavif/commit/7d9522d3925cdfff7852f025ee97f07f44651c24)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2187,6 +2189,10 @@
 - [ ] [<code>fix: prevent settings form input from submitting multiple requests (#818)</code>](https://github.com/canonical/lxd-ui/commit/a05c93f25a6535bb41026eb5b5c7b6f71d09b73d)
 - [ ] [<code>feat(instance) add configuration of migration options and nesting on instances and profiles</code>](https://github.com/canonical/lxd-ui/commit/c1e65769396422616525a51b5501ca5b02452352)
 - [ ] [<code>Add configuration of migration options and nesting on instances and profiles (#819)</code>](https://github.com/canonical/lxd-ui/commit/9136bcad3a475941c46f11ec86b1ba2277fa5ae6)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.59.1</code>](https://github.com/canonical/lxd-ui/commit/6675a9f112db6a729e7de7853c1709a307792c5d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.59.1 (#820)</code>](https://github.com/canonical/lxd-ui/commit/5a28b8f70b96b7fb0f05dae48e0fff3cee04cab9)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2931,7 +2937,7 @@
 
 #### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.9.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.9.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.16.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.16.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.37.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.1...HEAD)
