@@ -59,19 +59,11 @@
 #### [cinnamon.mint-themes](https://github.com/linuxmint/mint-themes): [2.1.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.8...HEAD)
 
 
-#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.0 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.0...HEAD)
+#### [cinnamon.mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
 
-- [ ] [<code>Add view-compact-symbolic.svg.</code>](https://github.com/linuxmint/mint-x-icons/commit/8c0366d5712d1ddf0d363005354b9c7bd1de8758)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/mint-x-icons/commit/f14c9d9a96b17dada94c3fa7001d1ec1cb8db752)
-  - <sub>Tags: <code>1.7.1</code></sub>
 
-#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.6 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.6...HEAD)
+#### [cinnamon.mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.7...HEAD)
 
-- [ ] [<code>Add view-compact-symbolic.svg.</code>](https://github.com/linuxmint/mint-y-icons/commit/6f249bd29eeb832158a21bec54bff72a97361220)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.7</code>](https://github.com/linuxmint/mint-y-icons/commit/eee6c211378e4c0c7bf95fa1a3213a55ab286afd)
-  - <sub>Tags: <code>1.7.7</code></sub>
 
 #### [cinnamon.muffin](https://github.com/linuxmint/muffin): [6.2.0 → HEAD](https://github.com/linuxmint/muffin/compare/6.2.0...HEAD)
 
