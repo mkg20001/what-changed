@@ -9,8 +9,11 @@
 - [ ] [<code>Revert "cs_themes: Restrain picture button heights."</code>](https://github.com/linuxmint/cinnamon/commit/86c071cde5ec8325f278ae4341810c969d4eb88e)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>6.2.5</code>](https://github.com/linuxmint/cinnamon/commit/5061b9c776deac607ed1e25fccf696b9b34ed014)
-  - <sub>Tags: <code>6.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.2.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cinnamon-settings-users: Don't use w -hs</code>](https://github.com/linuxmint/cinnamon/commit/0ad4d3fa2ef70992521faae3fe2900ecfb6a6ad8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
