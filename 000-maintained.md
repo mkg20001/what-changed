@@ -305,6 +305,7 @@
 - [ ] [<code>chore: Follow up avatar default image</code>](https://github.com/krille-chan/fluffychat/commit/cf59a43511ee7e7f8fa0a704ee5beccffaae108b)
 - [ ] [<code>chore: Improved create group and space design</code>](https://github.com/krille-chan/fluffychat/commit/152fcc0d95bcba4acc8c3920fba358016cd547ee)
 - [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/7fef3a69d80f0bd27ad32d5434bdb44bcbf1e10d)
+- [ ] [<code>chore: Follow up avatar background</code>](https://github.com/krille-chan/fluffychat/commit/e178ab44166b7ef17ffa1728c39dc49fe565b02d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -455,6 +456,7 @@
 - [ ] [<code>chore: Follow up avatar default image</code>](https://github.com/krille-chan/fluffychat/commit/cf59a43511ee7e7f8fa0a704ee5beccffaae108b)
 - [ ] [<code>chore: Improved create group and space design</code>](https://github.com/krille-chan/fluffychat/commit/152fcc0d95bcba4acc8c3920fba358016cd547ee)
 - [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/7fef3a69d80f0bd27ad32d5434bdb44bcbf1e10d)
+- [ ] [<code>chore: Follow up avatar background</code>](https://github.com/krille-chan/fluffychat/commit/e178ab44166b7ef17ffa1728c39dc49fe565b02d)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -604,6 +606,11 @@
 - [ ] [<code>incusd/storage/lvm: Require an exclusive lock during snapshot</code>](https://github.com/lxc/incus/commit/c85b10fabed3f156ebccb81bd9193f09dc8c629a)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/lvm: Properly handle activation during resize</code>](https://github.com/lxc/incus/commit/64966418de3372ac2c563c58fe56852987b5ad75)
+- [ ] [<code>client: Always set GetBody</code>](https://github.com/lxc/incus/commit/8b63fe55dff8f842d95d9ed96676c95a9ed67967)
+- [ ] [<code>client: Report OIDC refresh failure</code>](https://github.com/lxc/incus/commit/0e8d559e027eebe35d2af2def7f2f3e4d58a81f1)
+- [ ] [<code>incus/remote: Forward OIDC auth failures</code>](https://github.com/lxc/incus/commit/7cd606c765868378cfdf8ce6015cc7e4265ec4bd)
+- [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/incus/commit/ded6725e9a7ec8794cc0372300486c1dbfe72d80)
+- [ ] [<code>client: Retry when told to by the proxy</code>](https://github.com/lxc/incus/commit/173e64c1edb6d09572ef128f63bd0e9e36d241e7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1379,6 +1386,11 @@
 - [ ] [<code>incusd/storage/lvm: Require an exclusive lock during snapshot</code>](https://github.com/lxc/incus/commit/c85b10fabed3f156ebccb81bd9193f09dc8c629a)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/lvm: Properly handle activation during resize</code>](https://github.com/lxc/incus/commit/64966418de3372ac2c563c58fe56852987b5ad75)
+- [ ] [<code>client: Always set GetBody</code>](https://github.com/lxc/incus/commit/8b63fe55dff8f842d95d9ed96676c95a9ed67967)
+- [ ] [<code>client: Report OIDC refresh failure</code>](https://github.com/lxc/incus/commit/0e8d559e027eebe35d2af2def7f2f3e4d58a81f1)
+- [ ] [<code>incus/remote: Forward OIDC auth failures</code>](https://github.com/lxc/incus/commit/7cd606c765868378cfdf8ce6015cc7e4265ec4bd)
+- [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/incus/commit/ded6725e9a7ec8794cc0372300486c1dbfe72d80)
+- [ ] [<code>client: Retry when told to by the proxy</code>](https://github.com/lxc/incus/commit/173e64c1edb6d09572ef128f63bd0e9e36d241e7)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
