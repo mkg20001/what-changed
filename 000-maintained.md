@@ -601,6 +601,9 @@
 - [ ] [<code>incusd/cgroup: Handle unknown devices in io.stat</code>](https://github.com/lxc/incus/commit/804f33f9e8b2170565b81a03ff4901e23d5a494e)
 - [ ] [<code>incusd/instance_post: Always set the target project</code>](https://github.com/lxc/incus/commit/c84cd644a7ea9e9e17aff9577a884634ec4ab310)
 - [ ] [<code>incusd/storage/drivers: Consistently set VolumeMultiNode</code>](https://github.com/lxc/incus/commit/9564e5ed1f9571169d7953fa12891655a6236f2e)
+- [ ] [<code>incusd/storage/lvm: Require an exclusive lock during snapshot</code>](https://github.com/lxc/incus/commit/c85b10fabed3f156ebccb81bd9193f09dc8c629a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvm: Properly handle activation during resize</code>](https://github.com/lxc/incus/commit/64966418de3372ac2c563c58fe56852987b5ad75)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1373,6 +1376,9 @@
 - [ ] [<code>incusd/cgroup: Handle unknown devices in io.stat</code>](https://github.com/lxc/incus/commit/804f33f9e8b2170565b81a03ff4901e23d5a494e)
 - [ ] [<code>incusd/instance_post: Always set the target project</code>](https://github.com/lxc/incus/commit/c84cd644a7ea9e9e17aff9577a884634ec4ab310)
 - [ ] [<code>incusd/storage/drivers: Consistently set VolumeMultiNode</code>](https://github.com/lxc/incus/commit/9564e5ed1f9571169d7953fa12891655a6236f2e)
+- [ ] [<code>incusd/storage/lvm: Require an exclusive lock during snapshot</code>](https://github.com/lxc/incus/commit/c85b10fabed3f156ebccb81bd9193f09dc8c629a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvm: Properly handle activation during resize</code>](https://github.com/lxc/incus/commit/64966418de3372ac2c563c58fe56852987b5ad75)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
