@@ -606,11 +606,16 @@
 - [ ] [<code>incusd/storage/lvm: Require an exclusive lock during snapshot</code>](https://github.com/lxc/incus/commit/c85b10fabed3f156ebccb81bd9193f09dc8c629a)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/lvm: Properly handle activation during resize</code>](https://github.com/lxc/incus/commit/64966418de3372ac2c563c58fe56852987b5ad75)
+- [ ] [<code>incusd/storage: Properly detect filesystem on remote block</code>](https://github.com/lxc/incus/commit/6ee3e2313bfb6140e88cbcbd392524617c33cdae)
+- [ ] [<code>incusd/cluster: Always attempt to forward custom volume requests</code>](https://github.com/lxc/incus/commit/24b9b29b8a96f59da45b6af24d60ef2c2d4eeee4)
 - [ ] [<code>client: Always set GetBody</code>](https://github.com/lxc/incus/commit/8b63fe55dff8f842d95d9ed96676c95a9ed67967)
 - [ ] [<code>client: Report OIDC refresh failure</code>](https://github.com/lxc/incus/commit/0e8d559e027eebe35d2af2def7f2f3e4d58a81f1)
 - [ ] [<code>incus/remote: Forward OIDC auth failures</code>](https://github.com/lxc/incus/commit/7cd606c765868378cfdf8ce6015cc7e4265ec4bd)
 - [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/incus/commit/ded6725e9a7ec8794cc0372300486c1dbfe72d80)
 - [ ] [<code>client: Retry when told to by the proxy</code>](https://github.com/lxc/incus/commit/173e64c1edb6d09572ef128f63bd0e9e36d241e7)
+- [ ] [<code>incusd/cluster: Add flagFormat</code>](https://github.com/lxc/incus/commit/45285bbb8ff056389514936f3750486f9bca1ff1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/cmd: Add support for format options</code>](https://github.com/lxc/incus/commit/61a68c24e533980a4da5fee3775dd853fa595698)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1386,11 +1391,16 @@
 - [ ] [<code>incusd/storage/lvm: Require an exclusive lock during snapshot</code>](https://github.com/lxc/incus/commit/c85b10fabed3f156ebccb81bd9193f09dc8c629a)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/lvm: Properly handle activation during resize</code>](https://github.com/lxc/incus/commit/64966418de3372ac2c563c58fe56852987b5ad75)
+- [ ] [<code>incusd/storage: Properly detect filesystem on remote block</code>](https://github.com/lxc/incus/commit/6ee3e2313bfb6140e88cbcbd392524617c33cdae)
+- [ ] [<code>incusd/cluster: Always attempt to forward custom volume requests</code>](https://github.com/lxc/incus/commit/24b9b29b8a96f59da45b6af24d60ef2c2d4eeee4)
 - [ ] [<code>client: Always set GetBody</code>](https://github.com/lxc/incus/commit/8b63fe55dff8f842d95d9ed96676c95a9ed67967)
 - [ ] [<code>client: Report OIDC refresh failure</code>](https://github.com/lxc/incus/commit/0e8d559e027eebe35d2af2def7f2f3e4d58a81f1)
 - [ ] [<code>incus/remote: Forward OIDC auth failures</code>](https://github.com/lxc/incus/commit/7cd606c765868378cfdf8ce6015cc7e4265ec4bd)
 - [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/incus/commit/ded6725e9a7ec8794cc0372300486c1dbfe72d80)
 - [ ] [<code>client: Retry when told to by the proxy</code>](https://github.com/lxc/incus/commit/173e64c1edb6d09572ef128f63bd0e9e36d241e7)
+- [ ] [<code>incusd/cluster: Add flagFormat</code>](https://github.com/lxc/incus/commit/45285bbb8ff056389514936f3750486f9bca1ff1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/cmd: Add support for format options</code>](https://github.com/lxc/incus/commit/61a68c24e533980a4da5fee3775dd853fa595698)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3168,9 +3178,5 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.7 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.7...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
 
-- [ ] [<code>screenshot.c: Use the filename provided by the portal request.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/c73f5c5e15f3f10e4f226e2a79fe9fdde049baed)
-- [ ] [<code>1.0.8</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/f1c24244f90571209c56b7f45802b70e80da4922)
-  - <sub>Tags: <code>1.0.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
