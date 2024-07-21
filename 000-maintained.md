@@ -476,6 +476,10 @@
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.3 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.3...HEAD)
 
 - [ ] [<code>Fix compile issue with gtk-4.15.0 (#14)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/5e274118f32c7239e9c883ce1e1cc35af3d27a98)
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/7988e7481509289d0b744c975b068ae31c0efd79)
+- [ ] [<code>3.50.4</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/a923ff268c33e8254116a1b3dc8dd6ecc33194f2)
+  - <sub>Tags: <code>3.50.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -613,6 +617,8 @@
 - [ ] [<code>incus/remote: Forward OIDC auth failures</code>](https://github.com/lxc/incus/commit/7cd606c765868378cfdf8ce6015cc7e4265ec4bd)
 - [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/incus/commit/ded6725e9a7ec8794cc0372300486c1dbfe72d80)
 - [ ] [<code>client: Retry when told to by the proxy</code>](https://github.com/lxc/incus/commit/173e64c1edb6d09572ef128f63bd0e9e36d241e7)
+- [ ] [<code>Use qemu-img convert output to update progress</code>](https://github.com/lxc/incus/commit/71b1cc9959eca502604dccf2b974becdbc2b0364)
+  - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/cluster: Add flagFormat</code>](https://github.com/lxc/incus/commit/45285bbb8ff056389514936f3750486f9bca1ff1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/cmd: Add support for format options</code>](https://github.com/lxc/incus/commit/61a68c24e533980a4da5fee3775dd853fa595698)
@@ -1398,6 +1404,8 @@
 - [ ] [<code>incus/remote: Forward OIDC auth failures</code>](https://github.com/lxc/incus/commit/7cd606c765868378cfdf8ce6015cc7e4265ec4bd)
 - [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/incus/commit/ded6725e9a7ec8794cc0372300486c1dbfe72d80)
 - [ ] [<code>client: Retry when told to by the proxy</code>](https://github.com/lxc/incus/commit/173e64c1edb6d09572ef128f63bd0e9e36d241e7)
+- [ ] [<code>Use qemu-img convert output to update progress</code>](https://github.com/lxc/incus/commit/71b1cc9959eca502604dccf2b974becdbc2b0364)
+  - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/cluster: Add flagFormat</code>](https://github.com/lxc/incus/commit/45285bbb8ff056389514936f3750486f9bca1ff1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/cmd: Add support for format options</code>](https://github.com/lxc/incus/commit/61a68c24e533980a4da5fee3775dd853fa595698)
