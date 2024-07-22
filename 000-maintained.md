@@ -473,13 +473,8 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.3 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.3...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.4 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.4...HEAD)
 
-- [ ] [<code>Fix compile issue with gtk-4.15.0 (#14)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/5e274118f32c7239e9c883ce1e1cc35af3d27a98)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/7988e7481509289d0b744c975b068ae31c0efd79)
-- [ ] [<code>3.50.4</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/a923ff268c33e8254116a1b3dc8dd6ecc33194f2)
-  - <sub>Tags: <code>3.50.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -3110,6 +3105,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix broken spinbutton in Custom DL edit window</code>](https://github.com/axcore/tartube/commit/5d2ccfe6a72146c4c64c56616ff534bb32528ca7)
 - [ ] [<code>Fix can't set ytdl path in strict mode, #633</code>](https://github.com/axcore/tartube/commit/adaed3fe4758d85bd489f3f7d2bab14317df1b06)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix 'is a livestream' button in Classic Mode, #643</code>](https://github.com/axcore/tartube/commit/d5d8a052184cdc55e77a9689a6c84fb881b2ecc7)
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
