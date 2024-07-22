@@ -1,7 +1,4 @@
 
-#### [cinnamon.bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
-
-
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.4 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.4...HEAD)
 
 - [ ] [<code>ExtensionCore.py - Adds update subject</code>](https://github.com/linuxmint/cinnamon/commit/baf54fb87c37c821a3e9d6b2c3269a0fc37e3ff9)
