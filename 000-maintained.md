@@ -5,6 +5,9 @@
 - [ ] [<code>ui: Add 64bit conversion entries in ConversionTable</code>](https://github.com/afrantzis/bless/commit/2c8dfa976d486f78c4a13aba5ca376a9ea6ee568)
 - [ ] [<code>plugins: Add 64bit support to ConversionTable</code>](https://github.com/afrantzis/bless/commit/103fbd6f4e449666e72fe21d3151a94adef5b880)
 
+#### [bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
+
+
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
 - [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/ad9d51bb114a4d54f5d9df4bbdf65bf25777e8d2)
@@ -19,7 +22,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.2/dbeaver-ce-24.1.2-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.2/dbeaver-ce-24.1.2-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.3/dbeaver-ce-24.1.3-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.3/dbeaver-ce-24.1.3-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
@@ -306,6 +309,9 @@
 - [ ] [<code>chore: Improved create group and space design</code>](https://github.com/krille-chan/fluffychat/commit/152fcc0d95bcba4acc8c3920fba358016cd547ee)
 - [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/7fef3a69d80f0bd27ad32d5434bdb44bcbf1e10d)
 - [ ] [<code>chore: Follow up avatar background</code>](https://github.com/krille-chan/fluffychat/commit/e178ab44166b7ef17ffa1728c39dc49fe565b02d)
+- [ ] [<code>chore: Bring back separate chat types</code>](https://github.com/krille-chan/fluffychat/commit/0760acaa40a4e30d85f8c0eed35c6df7a7e7e660)
+- [ ] [<code>chore: Follow up add chat or subspace UX</code>](https://github.com/krille-chan/fluffychat/commit/a500a91b6bba6ec5ae411de473b76c75829baa2a)
+- [ ] [<code>chore: Follow up active filter</code>](https://github.com/krille-chan/fluffychat/commit/9e737276b629fc16455ad4807508d29f36b26a89)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -457,6 +463,9 @@
 - [ ] [<code>chore: Improved create group and space design</code>](https://github.com/krille-chan/fluffychat/commit/152fcc0d95bcba4acc8c3920fba358016cd547ee)
 - [ ] [<code>chore: Follow up avatars</code>](https://github.com/krille-chan/fluffychat/commit/7fef3a69d80f0bd27ad32d5434bdb44bcbf1e10d)
 - [ ] [<code>chore: Follow up avatar background</code>](https://github.com/krille-chan/fluffychat/commit/e178ab44166b7ef17ffa1728c39dc49fe565b02d)
+- [ ] [<code>chore: Bring back separate chat types</code>](https://github.com/krille-chan/fluffychat/commit/0760acaa40a4e30d85f8c0eed35c6df7a7e7e660)
+- [ ] [<code>chore: Follow up add chat or subspace UX</code>](https://github.com/krille-chan/fluffychat/commit/a500a91b6bba6ec5ae411de473b76c75829baa2a)
+- [ ] [<code>chore: Follow up active filter</code>](https://github.com/krille-chan/fluffychat/commit/9e737276b629fc16455ad4807508d29f36b26a89)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -617,6 +626,11 @@
 - [ ] [<code>incusd/cluster: Add flagFormat</code>](https://github.com/lxc/incus/commit/45285bbb8ff056389514936f3750486f9bca1ff1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/cmd: Add support for format options</code>](https://github.com/lxc/incus/commit/61a68c24e533980a4da5fee3775dd853fa595698)
+- [ ] [<code>incusd/isntance/edk2: Move seabios to /usr/share/qemu</code>](https://github.com/lxc/incus/commit/5b093d06795e2c65cf5b4682b341237c1acd31d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/isntance/edk2: Add ArchLinux x86_64 paths</code>](https://github.com/lxc/incus/commit/9072c73f9269113cc5ff46fd3014f6a291c59e54)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>tests: Use future values in property test</code>](https://github.com/lxc/incus/commit/09cb825c91ad9b40174a834451c34bcb4e1eb9f2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1404,6 +1418,11 @@
 - [ ] [<code>incusd/cluster: Add flagFormat</code>](https://github.com/lxc/incus/commit/45285bbb8ff056389514936f3750486f9bca1ff1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/cmd: Add support for format options</code>](https://github.com/lxc/incus/commit/61a68c24e533980a4da5fee3775dd853fa595698)
+- [ ] [<code>incusd/isntance/edk2: Move seabios to /usr/share/qemu</code>](https://github.com/lxc/incus/commit/5b093d06795e2c65cf5b4682b341237c1acd31d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/isntance/edk2: Add ArchLinux x86_64 paths</code>](https://github.com/lxc/incus/commit/9072c73f9269113cc5ff46fd3014f6a291c59e54)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>tests: Use future values in property test</code>](https://github.com/lxc/incus/commit/09cb825c91ad9b40174a834451c34bcb4e1eb9f2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2189,6 +2208,9 @@
 - [ ] [<code>avifgainmaputil: Fix MSVC type conversion warnings</code>](https://github.com/AOMediaCodec/libavif/commit/1d4b04d2172928b20c8fc1fe4113c5d64c691d37)
 - [ ] [<code>Use /std:clatest with MSVC, remove -Wunused-result</code>](https://github.com/AOMediaCodec/libavif/commit/52368631aa095b2b5e5667396922b31f4fc06b9f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix some clang-cl warnings. (#2275)</code>](https://github.com/AOMediaCodec/libavif/commit/6d5341d9be6b6cac67dd90742c520b35ed0848c8)
+- [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API" again (#2298)</code>](https://github.com/AOMediaCodec/libavif/commit/03acd65314fe29e6627cf4eab752819f6ee15d74)
+- [ ] [<code>Move gainmap function definitions to gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/4a4ff640088063fdf0d33164f6aa380777492f5a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -3006,7 +3028,7 @@
 > Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python311Packages.xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
+#### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.16.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.16.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
