@@ -41,12 +41,8 @@
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
 
-#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.1...HEAD)
+#### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/dc2bc9d9d8c3c25e2b0f3f543a17a654c1b24018)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>6.2.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/16f1c9cd96b9cde8fb8ad14e472019b10ff4f4a3)
-  - <sub>Tags: <code>6.2.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cjs](https://github.com/linuxmint/cjs): [6.2.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.2.0...HEAD)
 
