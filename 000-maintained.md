@@ -653,6 +653,12 @@
 - [ ] [<code>tests: Add cluster group config test</code>](https://github.com/lxc/incus/commit/a5700b4c7d6bb99a02834b6b88f81ebc61e4359f)
 - [ ] [<code>incusd/resources: Add sortedMapKeys</code>](https://github.com/lxc/incus/commit/0f97bb49d521f2ecbc7eab560506f53dc3cb706b)
 - [ ] [<code>incusd/resources/cpu: Sort sockets, cores and threads</code>](https://github.com/lxc/incus/commit/79fd5a397286d514e0fadeadd25941e46a4c5026)
+- [ ] [<code>incusd/auth: Fill missing local volume location</code>](https://github.com/lxc/incus/commit/8b4eafc9713d15816fd933b6da588cb844e72ff7)
+- [ ] [<code>incusd/cluster: Correctly record volatile.cluster.group on move</code>](https://github.com/lxc/incus/commit/5177dadbd35216c1a7ff46adfef1fd6911f0ad2c)
+- [ ] [<code>incusd/migration: Show source errors first</code>](https://github.com/lxc/incus/commit/3098dbc59ce56f6a5b9352ffc7865523e8db9ea0)
+- [ ] [<code>incusd/instance/qemu: Clarify live migration error</code>](https://github.com/lxc/incus/commit/48be8b589fdc12457d859aefd2673e414c0e4b19)
+- [ ] [<code>incusd/cluster: Attempt to ping the server prior to healing</code>](https://github.com/lxc/incus/commit/73dcf30beadb97ec947afdcf9603d2d2ce911d0d)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1467,6 +1473,12 @@
 - [ ] [<code>tests: Add cluster group config test</code>](https://github.com/lxc/incus/commit/a5700b4c7d6bb99a02834b6b88f81ebc61e4359f)
 - [ ] [<code>incusd/resources: Add sortedMapKeys</code>](https://github.com/lxc/incus/commit/0f97bb49d521f2ecbc7eab560506f53dc3cb706b)
 - [ ] [<code>incusd/resources/cpu: Sort sockets, cores and threads</code>](https://github.com/lxc/incus/commit/79fd5a397286d514e0fadeadd25941e46a4c5026)
+- [ ] [<code>incusd/auth: Fill missing local volume location</code>](https://github.com/lxc/incus/commit/8b4eafc9713d15816fd933b6da588cb844e72ff7)
+- [ ] [<code>incusd/cluster: Correctly record volatile.cluster.group on move</code>](https://github.com/lxc/incus/commit/5177dadbd35216c1a7ff46adfef1fd6911f0ad2c)
+- [ ] [<code>incusd/migration: Show source errors first</code>](https://github.com/lxc/incus/commit/3098dbc59ce56f6a5b9352ffc7865523e8db9ea0)
+- [ ] [<code>incusd/instance/qemu: Clarify live migration error</code>](https://github.com/lxc/incus/commit/48be8b589fdc12457d859aefd2673e414c0e4b19)
+- [ ] [<code>incusd/cluster: Attempt to ping the server prior to healing</code>](https://github.com/lxc/incus/commit/73dcf30beadb97ec947afdcf9603d2d2ce911d0d)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2258,6 +2270,10 @@
 - [ ] [<code>Link Sample Transform tests with avif_internal lib</code>](https://github.com/AOMediaCodec/libavif/commit/d8f09df4d34067b4d841612167e5910bfb3f92b3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Revert "Move gainmap function definitions to gainmap.c"</code>](https://github.com/AOMediaCodec/libavif/commit/25b0f65f51f9142b3373fa7f668a4d96df0947e1)
+- [ ] [<code>ci-unix-shared-local: Enable experimental features</code>](https://github.com/AOMediaCodec/libavif/commit/4e51a7b2780d161720b4222311ab366fe4f0f0bb)
+- [ ] [<code>Replace direct use of aom with ${AOM_PACKAGE_NAME}</code>](https://github.com/AOMediaCodec/libavif/commit/4ebc04420121fc91002ef958f032b6e129afd7ba)
+- [ ] [<code>Don't add avif_obj's object files to avif_apps_obj</code>](https://github.com/AOMediaCodec/libavif/commit/676a6cb82c0261cf5474c086f8e94f0f65ad4645)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2315,21 +2331,8 @@
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.11 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.11...HEAD)
+#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.12 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.12...HEAD)
 
-- [ ] [<code>fix(cert) ensure cert name is generated with only valid characters. fixes #809 WD-13031</code>](https://github.com/canonical/lxd-ui/commit/af9c1c49d078a0830f857da559d695cde43107e1)
-- [ ] [<code>chore(ci) remove tics report upload to prevent a security issue</code>](https://github.com/canonical/lxd-ui/commit/dd5e43ea556cd06636fa3de07ddf33b0ec99a9e7)
-- [ ] [<code>fix(cert) ensure cert name is generated with only valid characters. (#816)</code>](https://github.com/canonical/lxd-ui/commit/b6ef2eafc8facbf1d4c628767958df96c9af5b4d)
-- [ ] [<code>fix: prevent settings form input from submitting multiple requests</code>](https://github.com/canonical/lxd-ui/commit/a18bdd9113e7eaf89679b7629bc8ac48bd9bf4c0)
-- [ ] [<code>fix: prevent settings form input from submitting multiple requests (#818)</code>](https://github.com/canonical/lxd-ui/commit/a05c93f25a6535bb41026eb5b5c7b6f71d09b73d)
-- [ ] [<code>feat(instance) add configuration of migration options and nesting on instances and profiles</code>](https://github.com/canonical/lxd-ui/commit/c1e65769396422616525a51b5501ca5b02452352)
-- [ ] [<code>Add configuration of migration options and nesting on instances and profiles (#819)</code>](https://github.com/canonical/lxd-ui/commit/9136bcad3a475941c46f11ec86b1ba2277fa5ae6)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.59.1</code>](https://github.com/canonical/lxd-ui/commit/6675a9f112db6a729e7de7853c1709a307792c5d)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.59.1 (#820)</code>](https://github.com/canonical/lxd-ui/commit/5a28b8f70b96b7fb0f05dae48e0fff3cee04cab9)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(version) update to 0.12</code>](https://github.com/canonical/lxd-ui/commit/4ab1839a557f8458a531c243ec14b245d64fe7c8)
-  - <sub>Tags: <code>0.12</code></sub>
 - [ ] [<code>fix(cert): add link to the authentication setup FAQ from the certificate generation and reuse pages WD-13244 #542</code>](https://github.com/canonical/lxd-ui/commit/c235f83c0c6dc540c209c2ea3959db5f7ff2588f)
 - [ ] [<code>Add link to the authentication setup FAQ from the certificate generation and reuse pages (#821)</code>](https://github.com/canonical/lxd-ui/commit/eca632241e69c56d5988d6945ebd9931823d7838)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3060,6 +3063,9 @@
 - [ ] [<code>fix(android): custom equalizer profile duplicate detection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f32cfa54cf77bb32e1585709c9ce8dc27fdf8c88)
 - [ ] [<code>feat(android): add equalizer profile import/export</code>](https://github.com/Oppzippy/OpenSCQ30/commit/56e0d2e8ecc140cfa9883ec48cf0eacad403e43e)
 - [ ] [<code>chore: remove unnecessary file execute permissions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a073b237806660b19201917da2810e37879d0fd)
+- [ ] [<code>refactor(android): use type safe compose navigation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/933bc9528c5b35c73e3b6d13ad500c0a60aad428)
+- [ ] [<code>fix(android): inconsistent transitions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/220701f427756c35ea86cdc580e18a5e003d5792)
+- [ ] [<code>feat(android): import/export navigation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c703cc45c51c3afb16ddb3627ae1d3b360739d40)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
