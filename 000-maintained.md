@@ -651,6 +651,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Add cluster group config</code>](https://github.com/lxc/incus/commit/c9f3f85c6c4ec16c216200dd2fa71c0ec2a01973)
 - [ ] [<code>tests: Add cluster group config test</code>](https://github.com/lxc/incus/commit/a5700b4c7d6bb99a02834b6b88f81ebc61e4359f)
+- [ ] [<code>incusd/resources: Add sortedMapKeys</code>](https://github.com/lxc/incus/commit/0f97bb49d521f2ecbc7eab560506f53dc3cb706b)
+- [ ] [<code>incusd/resources/cpu: Sort sockets, cores and threads</code>](https://github.com/lxc/incus/commit/79fd5a397286d514e0fadeadd25941e46a4c5026)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1463,6 +1465,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Add cluster group config</code>](https://github.com/lxc/incus/commit/c9f3f85c6c4ec16c216200dd2fa71c0ec2a01973)
 - [ ] [<code>tests: Add cluster group config test</code>](https://github.com/lxc/incus/commit/a5700b4c7d6bb99a02834b6b88f81ebc61e4359f)
+- [ ] [<code>incusd/resources: Add sortedMapKeys</code>](https://github.com/lxc/incus/commit/0f97bb49d521f2ecbc7eab560506f53dc3cb706b)
+- [ ] [<code>incusd/resources/cpu: Sort sockets, cores and threads</code>](https://github.com/lxc/incus/commit/79fd5a397286d514e0fadeadd25941e46a4c5026)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2253,6 +2257,7 @@
 - [ ] [<code>Move gainmap function definitions to gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/4a4ff640088063fdf0d33164f6aa380777492f5a)
 - [ ] [<code>Link Sample Transform tests with avif_internal lib</code>](https://github.com/AOMediaCodec/libavif/commit/d8f09df4d34067b4d841612167e5910bfb3f92b3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Revert "Move gainmap function definitions to gainmap.c"</code>](https://github.com/AOMediaCodec/libavif/commit/25b0f65f51f9142b3373fa7f668a4d96df0947e1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2325,6 +2330,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(version) update to 0.12</code>](https://github.com/canonical/lxd-ui/commit/4ab1839a557f8458a531c243ec14b245d64fe7c8)
   - <sub>Tags: <code>0.12</code></sub>
+- [ ] [<code>fix(cert): add link to the authentication setup FAQ from the certificate generation and reuse pages WD-13244 #542</code>](https://github.com/canonical/lxd-ui/commit/c235f83c0c6dc540c209c2ea3959db5f7ff2588f)
+- [ ] [<code>Add link to the authentication setup FAQ from the certificate generation and reuse pages (#821)</code>](https://github.com/canonical/lxd-ui/commit/eca632241e69c56d5988d6945ebd9931823d7838)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
