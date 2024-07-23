@@ -631,6 +631,26 @@
 - [ ] [<code>incusd/isntance/edk2: Add ArchLinux x86_64 paths</code>](https://github.com/lxc/incus/commit/9072c73f9269113cc5ff46fd3014f6a291c59e54)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>tests: Use future values in property test</code>](https://github.com/lxc/incus/commit/09cb825c91ad9b40174a834451c34bcb4e1eb9f2)
+- [ ] [<code>incusd/db/cluster: Cleanup indentation</code>](https://github.com/lxc/incus/commit/f6b559a13ffae6f355a07f56100505566693597b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db/cluster: Update schema</code>](https://github.com/lxc/incus/commit/54255d4cfa11f96bca00ad8845cc3af86177b205)
+- [ ] [<code>incusd/db/generate: Add exception for cluster tables</code>](https://github.com/lxc/incus/commit/2c34504be104a919f7c1918e8f41630c0c9c228c)
+- [ ] [<code>api: clustering_groups_config</code>](https://github.com/lxc/incus/commit/03c1f4f2abfa3ac0305b079cf2a0a8d87db288f5)
+- [ ] [<code>incusd/db/cluster: Add cluster_groups_config</code>](https://github.com/lxc/incus/commit/f7bde1357e9f1c52226768477a367a8df7c5aa98)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db/cluster: Update schema</code>](https://github.com/lxc/incus/commit/f9805dcfc5084b8d2282ebc13a61102b1e1fca2e)
+- [ ] [<code>shared/api: Add Config to ClusterGroupPut</code>](https://github.com/lxc/incus/commit/52875a41f2d455ff9206b28a9f39139ff585a9b6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/171fc1dfe116a9b48f5b339a194e1720a9c8ab82)
+- [ ] [<code>incusd/db/cluster: Update functions for new cluster group config table</code>](https://github.com/lxc/incus/commit/35d6b41afc8198a616227a9ac6ede05ab9b711d4)
+- [ ] [<code>incusd/cluster: Add cluster group config logic</code>](https://github.com/lxc/incus/commit/3c845bc375f6f27340910b90fae2118f2f9eca0b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ba3e08b09c8552e81e7ec6ab59f1b80c299a9bee)
+- [ ] [<code>incus/completion: Add cmpClusterGroupConfigs</code>](https://github.com/lxc/incus/commit/450cd1550d69720020e09ac5ac937720264a3417)
+- [ ] [<code>incus/cluster/group: Add get/set/unset</code>](https://github.com/lxc/incus/commit/7fe95d5f2755f16e9da77df6d957d99b8eb4f68f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/61f24a63e51b81024fa230df8f90a5dbd26017f1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Add cluster group config</code>](https://github.com/lxc/incus/commit/c9f3f85c6c4ec16c216200dd2fa71c0ec2a01973)
+- [ ] [<code>tests: Add cluster group config test</code>](https://github.com/lxc/incus/commit/a5700b4c7d6bb99a02834b6b88f81ebc61e4359f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1423,6 +1443,26 @@
 - [ ] [<code>incusd/isntance/edk2: Add ArchLinux x86_64 paths</code>](https://github.com/lxc/incus/commit/9072c73f9269113cc5ff46fd3014f6a291c59e54)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>tests: Use future values in property test</code>](https://github.com/lxc/incus/commit/09cb825c91ad9b40174a834451c34bcb4e1eb9f2)
+- [ ] [<code>incusd/db/cluster: Cleanup indentation</code>](https://github.com/lxc/incus/commit/f6b559a13ffae6f355a07f56100505566693597b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db/cluster: Update schema</code>](https://github.com/lxc/incus/commit/54255d4cfa11f96bca00ad8845cc3af86177b205)
+- [ ] [<code>incusd/db/generate: Add exception for cluster tables</code>](https://github.com/lxc/incus/commit/2c34504be104a919f7c1918e8f41630c0c9c228c)
+- [ ] [<code>api: clustering_groups_config</code>](https://github.com/lxc/incus/commit/03c1f4f2abfa3ac0305b079cf2a0a8d87db288f5)
+- [ ] [<code>incusd/db/cluster: Add cluster_groups_config</code>](https://github.com/lxc/incus/commit/f7bde1357e9f1c52226768477a367a8df7c5aa98)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db/cluster: Update schema</code>](https://github.com/lxc/incus/commit/f9805dcfc5084b8d2282ebc13a61102b1e1fca2e)
+- [ ] [<code>shared/api: Add Config to ClusterGroupPut</code>](https://github.com/lxc/incus/commit/52875a41f2d455ff9206b28a9f39139ff585a9b6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/171fc1dfe116a9b48f5b339a194e1720a9c8ab82)
+- [ ] [<code>incusd/db/cluster: Update functions for new cluster group config table</code>](https://github.com/lxc/incus/commit/35d6b41afc8198a616227a9ac6ede05ab9b711d4)
+- [ ] [<code>incusd/cluster: Add cluster group config logic</code>](https://github.com/lxc/incus/commit/3c845bc375f6f27340910b90fae2118f2f9eca0b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ba3e08b09c8552e81e7ec6ab59f1b80c299a9bee)
+- [ ] [<code>incus/completion: Add cmpClusterGroupConfigs</code>](https://github.com/lxc/incus/commit/450cd1550d69720020e09ac5ac937720264a3417)
+- [ ] [<code>incus/cluster/group: Add get/set/unset</code>](https://github.com/lxc/incus/commit/7fe95d5f2755f16e9da77df6d957d99b8eb4f68f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/61f24a63e51b81024fa230df8f90a5dbd26017f1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Add cluster group config</code>](https://github.com/lxc/incus/commit/c9f3f85c6c4ec16c216200dd2fa71c0ec2a01973)
+- [ ] [<code>tests: Add cluster group config test</code>](https://github.com/lxc/incus/commit/a5700b4c7d6bb99a02834b6b88f81ebc61e4359f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2211,6 +2251,8 @@
 - [ ] [<code>Fix some clang-cl warnings. (#2275)</code>](https://github.com/AOMediaCodec/libavif/commit/6d5341d9be6b6cac67dd90742c520b35ed0848c8)
 - [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API" again (#2298)</code>](https://github.com/AOMediaCodec/libavif/commit/03acd65314fe29e6627cf4eab752819f6ee15d74)
 - [ ] [<code>Move gainmap function definitions to gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/4a4ff640088063fdf0d33164f6aa380777492f5a)
+- [ ] [<code>Link Sample Transform tests with avif_internal lib</code>](https://github.com/AOMediaCodec/libavif/commit/d8f09df4d34067b4d841612167e5910bfb3f92b3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
