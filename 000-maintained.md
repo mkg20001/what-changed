@@ -665,6 +665,17 @@
 - [ ] [<code>incusd/instance/qemu: Clarify live migration error</code>](https://github.com/lxc/incus/commit/48be8b589fdc12457d859aefd2673e414c0e4b19)
 - [ ] [<code>incusd/cluster: Attempt to ping the server prior to healing</code>](https://github.com/lxc/incus/commit/73dcf30beadb97ec947afdcf9603d2d2ce911d0d)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Fix bad timeout errors</code>](https://github.com/lxc/incus/commit/5d70a4de7a7382d2815b376e4bd2e2c738e1b354)
+- [ ] [<code>api: instances_lxcfs_per_instance</code>](https://github.com/lxc/incus/commit/61e17ca24596de8f395700fef2190c46b14b6f7c)
+- [ ] [<code>incusd/instance/qemu: Send two ACPI events on shutdown</code>](https://github.com/lxc/incus/commit/5c9f4dcaebada4648251c39176821d4238c5c1fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Add progress tracking to export</code>](https://github.com/lxc/incus/commit/c3da462fd282abb91d9496378393692595a9c03e)
+- [ ] [<code>incusd/server/config: Add instances.lxcfs.per_instance</code>](https://github.com/lxc/incus/commit/56d3a0cc9d5f4a78ccfe24107d22482638749697)
+- [ ] [<code>incusd/instance/lxc: Add support for per-instance LXCFS</code>](https://github.com/lxc/incus/commit/727712fc1da5ba6ccd2851387ea7d7bc1927cbdc)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/269961ddcb3296980cd3deb7b6aa6582cc754fe7)
+- [ ] [<code>client: Remove GetBody when can't seek back</code>](https://github.com/lxc/incus/commit/143503f098e994ba21b6b7414a968d69e34563b4)
+- [ ] [<code>client: Add Seek call to GetBody</code>](https://github.com/lxc/incus/commit/ef415f779ae6ea02492a15a426b5cf5dd4e6c03a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1485,6 +1496,17 @@
 - [ ] [<code>incusd/instance/qemu: Clarify live migration error</code>](https://github.com/lxc/incus/commit/48be8b589fdc12457d859aefd2673e414c0e4b19)
 - [ ] [<code>incusd/cluster: Attempt to ping the server prior to healing</code>](https://github.com/lxc/incus/commit/73dcf30beadb97ec947afdcf9603d2d2ce911d0d)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Fix bad timeout errors</code>](https://github.com/lxc/incus/commit/5d70a4de7a7382d2815b376e4bd2e2c738e1b354)
+- [ ] [<code>api: instances_lxcfs_per_instance</code>](https://github.com/lxc/incus/commit/61e17ca24596de8f395700fef2190c46b14b6f7c)
+- [ ] [<code>incusd/instance/qemu: Send two ACPI events on shutdown</code>](https://github.com/lxc/incus/commit/5c9f4dcaebada4648251c39176821d4238c5c1fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Add progress tracking to export</code>](https://github.com/lxc/incus/commit/c3da462fd282abb91d9496378393692595a9c03e)
+- [ ] [<code>incusd/server/config: Add instances.lxcfs.per_instance</code>](https://github.com/lxc/incus/commit/56d3a0cc9d5f4a78ccfe24107d22482638749697)
+- [ ] [<code>incusd/instance/lxc: Add support for per-instance LXCFS</code>](https://github.com/lxc/incus/commit/727712fc1da5ba6ccd2851387ea7d7bc1927cbdc)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/269961ddcb3296980cd3deb7b6aa6582cc754fe7)
+- [ ] [<code>client: Remove GetBody when can't seek back</code>](https://github.com/lxc/incus/commit/143503f098e994ba21b6b7414a968d69e34563b4)
+- [ ] [<code>client: Add Seek call to GetBody</code>](https://github.com/lxc/incus/commit/ef415f779ae6ea02492a15a426b5cf5dd4e6c03a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2280,6 +2302,12 @@
 - [ ] [<code>Replace direct use of aom with ${AOM_PACKAGE_NAME}</code>](https://github.com/AOMediaCodec/libavif/commit/4ebc04420121fc91002ef958f032b6e129afd7ba)
 - [ ] [<code>Don't add avif_obj's object files to avif_apps_obj</code>](https://github.com/AOMediaCodec/libavif/commit/676a6cb82c0261cf5474c086f8e94f0f65ad4645)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Clarify the definition of AVIF_USE_CXX. (#2290)</code>](https://github.com/AOMediaCodec/libavif/commit/3640a3ae3dd0082301c43b3d4d182714a06662d8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update grid gainmap test files. (#2316)</code>](https://github.com/AOMediaCodec/libavif/commit/c1cb0d79d6f8b5952c3c14fac232eec4742eb960)
+- [ ] [<code>Use CMake macro for avifincrtest (#2317)</code>](https://github.com/AOMediaCodec/libavif/commit/ddd98cf6cd4779d93679f568867d85cb980e5b46)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2341,6 +2369,8 @@
 
 - [ ] [<code>fix(cert): add link to the authentication setup FAQ from the certificate generation and reuse pages WD-13244 #542</code>](https://github.com/canonical/lxd-ui/commit/c235f83c0c6dc540c209c2ea3959db5f7ff2588f)
 - [ ] [<code>Add link to the authentication setup FAQ from the certificate generation and reuse pages (#821)</code>](https://github.com/canonical/lxd-ui/commit/eca632241e69c56d5988d6945ebd9931823d7838)
+- [ ] [<code>[WD-13254] test: network forms</code>](https://github.com/canonical/lxd-ui/commit/25094246f4ad0b758f79f1d187f0b4844627891b)
+- [ ] [<code>[WD-13254] test: network forms (#822)</code>](https://github.com/canonical/lxd-ui/commit/4d1421df4b81610ee229195f1afc713270195a30)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2910,6 +2940,16 @@
 - [ ] [<code>doc:examples: Add reference for NM default config</code>](https://github.com/canonical/netplan/commit/309e9058cc1710c6ada73de3fa2119acb2eef2f7)
 - [ ] [<code>networkd: Implement ipv6-address-generation: stable-privacy</code>](https://github.com/canonical/netplan/commit/b8792134924c753209ac4a815e07fe6d8b651102)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test:routing: skip VRF test if kernel module is not available</code>](https://github.com/canonical/netplan/commit/586694b6beb32e36be868dff0c88cc116bf2ed8b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test:tunnels: skip WireGuard test if kernel module is not available</code>](https://github.com/canonical/netplan/commit/0d95dea027c153c9d86e549ad2f42755c109eed5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Implementation ip route advmss options for Systemd networkd and Network manager.</code>](https://github.com/canonical/netplan/commit/dac8b1a11b8db2921d03adc415014ee51e2e8ecd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: autopkgtest: add test dependency for python3-packaging</code>](https://github.com/canonical/netplan/commit/438fce369c248a2320aed27991272431a034b6a7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test:routing: Skip advmss test on NetworkManager < 1.39.8</code>](https://github.com/canonical/netplan/commit/b13b5182d8592ec21be0bf8895d8a474e71b3dea)
+- [ ] [<code>CI: fix CodeQL permissions</code>](https://github.com/canonical/netplan/commit/b13d36b18555bf5e63a174a7fd51f671b526c615)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3177,6 +3217,14 @@
   - <sub>Tags: <code>0.10.3</code></sub>
 - [ ] [<code>Add Russian language support (#581)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/eb626a7e9e365a69d2994fe0bed9f17be63af9b6)
 - [ ] [<code>Fix a few undefined records (#580)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/77cc93671077c7bd1eccd4d3a903f73c2a0403cb)
+- [ ] [<code>Upgrade eslint plugins</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f88eacee2a8ee309e47589677cd31dd697f29d0b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Upgrade vite, react and jest</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a38bc442cb7a227383b80bbfb55800e96ceafaae)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Upgrade react-admin</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d3e623e578df29a6e321695d0420cd5dc3b00a11)
+- [ ] [<code>Upgrade dependencies</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/31fe23d688a7e77aea5d11444ac212797d55a8f1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
