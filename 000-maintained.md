@@ -312,6 +312,9 @@
 - [ ] [<code>chore: Bring back separate chat types</code>](https://github.com/krille-chan/fluffychat/commit/0760acaa40a4e30d85f8c0eed35c6df7a7e7e660)
 - [ ] [<code>chore: Follow up add chat or subspace UX</code>](https://github.com/krille-chan/fluffychat/commit/a500a91b6bba6ec5ae411de473b76c75829baa2a)
 - [ ] [<code>chore: Follow up active filter</code>](https://github.com/krille-chan/fluffychat/commit/9e737276b629fc16455ad4807508d29f36b26a89)
+- [ ] [<code>chore: Sligthly improve chat permissions page design</code>](https://github.com/krille-chan/fluffychat/commit/020b6768ebe0d65e0d228e2f133d6293c6faf364)
+- [ ] [<code>fix: Display only available join rules</code>](https://github.com/krille-chan/fluffychat/commit/fcd3227ef568ddf5a6d97838cb39c4576c548356)
+- [ ] [<code>chore: Do not hide error on file sending</code>](https://github.com/krille-chan/fluffychat/commit/9d0cefce1837b9b5c69d15a828440dd535d36510)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -466,6 +469,9 @@
 - [ ] [<code>chore: Bring back separate chat types</code>](https://github.com/krille-chan/fluffychat/commit/0760acaa40a4e30d85f8c0eed35c6df7a7e7e660)
 - [ ] [<code>chore: Follow up add chat or subspace UX</code>](https://github.com/krille-chan/fluffychat/commit/a500a91b6bba6ec5ae411de473b76c75829baa2a)
 - [ ] [<code>chore: Follow up active filter</code>](https://github.com/krille-chan/fluffychat/commit/9e737276b629fc16455ad4807508d29f36b26a89)
+- [ ] [<code>chore: Sligthly improve chat permissions page design</code>](https://github.com/krille-chan/fluffychat/commit/020b6768ebe0d65e0d228e2f133d6293c6faf364)
+- [ ] [<code>fix: Display only available join rules</code>](https://github.com/krille-chan/fluffychat/commit/fcd3227ef568ddf5a6d97838cb39c4576c548356)
+- [ ] [<code>chore: Do not hide error on file sending</code>](https://github.com/krille-chan/fluffychat/commit/9d0cefce1837b9b5c69d15a828440dd535d36510)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
