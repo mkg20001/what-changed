@@ -13,6 +13,11 @@
 
 #### [cinnamon.cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.2.0...HEAD)
 
+- [ ] [<code>build: Use debugoptimized, remove some obsolete meson bits.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/60ad855404d76dcfe0b8a45cc2412227c0f21f07)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cs-backup-locker.c: Exit gracefully if incorrect arguments are</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/44aaa483c84cac4402216302e123b90a9d789088)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.2.1...HEAD)
 
@@ -57,6 +62,9 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.6 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.6...HEAD)
 
+- [ ] [<code>actions: Add better documentation, fix misleading warning message.</code>](https://github.com/linuxmint/nemo/commit/90a33a9c3f8d2bc21af45e9f4e696003d63fc740)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
