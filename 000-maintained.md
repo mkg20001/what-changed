@@ -676,6 +676,19 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/269961ddcb3296980cd3deb7b6aa6582cc754fe7)
 - [ ] [<code>client: Remove GetBody when can't seek back</code>](https://github.com/lxc/incus/commit/143503f098e994ba21b6b7414a968d69e34563b4)
 - [ ] [<code>client: Add Seek call to GetBody</code>](https://github.com/lxc/incus/commit/ef415f779ae6ea02492a15a426b5cf5dd4e6c03a)
+- [ ] [<code>incusd: Simplify image replication</code>](https://github.com/lxc/incus/commit/72fce0bbd13e41a62c7d919b0868e13b68cc09c1)
+- [ ] [<code>incusd/images: Only remove from authorizer once</code>](https://github.com/lxc/incus/commit/b96e0506f03bb49b0415bb79def5d19373d58ee4)
+- [ ] [<code>incusd/images: Correctly record new aliases</code>](https://github.com/lxc/incus/commit/dbb1cfa48a29bd58c0427512af146676301ea4f8)
+- [ ] [<code>incusd/images: Correctly remove aliases</code>](https://github.com/lxc/incus/commit/7870d1cdebaa4ac953111f2aeefb06dd15d6eaf0)
+- [ ] [<code>incusd/images: Set authorizer entries at the correct time</code>](https://github.com/lxc/incus/commit/7c2e30c66820eb3635a9fe98d7fc2e1ba09a160a)
+- [ ] [<code>incusd/images: Don't alter image info on cluster copy</code>](https://github.com/lxc/incus/commit/a0b00ec0db4b543f2b080a92486eb2b0b09e14f6)
+- [ ] [<code>incusd/storage_pools: Set authorizer for pending pools</code>](https://github.com/lxc/incus/commit/c265e6197a7c31a9bec171f3b11f64833655992a)
+- [ ] [<code>incusd/networks: Set authorizer for pending networks</code>](https://github.com/lxc/incus/commit/5fe3a8091e9a4be4f2982ebd47ba84dbf51c6295)
+- [ ] [<code>incusd/network: Handle long interface names</code>](https://github.com/lxc/incus/commit/5368ed58f8169c8561029f68672ff40ee09ce6d9)
+- [ ] [<code>incus/cluster: Cleanup certificate update message</code>](https://github.com/lxc/incus/commit/9eef6f98fc71fc9acfedc33efb1eaa5ec2187a47)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a03293ca6150ef7f626f68da618506699d0f09f)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1507,6 +1520,19 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/269961ddcb3296980cd3deb7b6aa6582cc754fe7)
 - [ ] [<code>client: Remove GetBody when can't seek back</code>](https://github.com/lxc/incus/commit/143503f098e994ba21b6b7414a968d69e34563b4)
 - [ ] [<code>client: Add Seek call to GetBody</code>](https://github.com/lxc/incus/commit/ef415f779ae6ea02492a15a426b5cf5dd4e6c03a)
+- [ ] [<code>incusd: Simplify image replication</code>](https://github.com/lxc/incus/commit/72fce0bbd13e41a62c7d919b0868e13b68cc09c1)
+- [ ] [<code>incusd/images: Only remove from authorizer once</code>](https://github.com/lxc/incus/commit/b96e0506f03bb49b0415bb79def5d19373d58ee4)
+- [ ] [<code>incusd/images: Correctly record new aliases</code>](https://github.com/lxc/incus/commit/dbb1cfa48a29bd58c0427512af146676301ea4f8)
+- [ ] [<code>incusd/images: Correctly remove aliases</code>](https://github.com/lxc/incus/commit/7870d1cdebaa4ac953111f2aeefb06dd15d6eaf0)
+- [ ] [<code>incusd/images: Set authorizer entries at the correct time</code>](https://github.com/lxc/incus/commit/7c2e30c66820eb3635a9fe98d7fc2e1ba09a160a)
+- [ ] [<code>incusd/images: Don't alter image info on cluster copy</code>](https://github.com/lxc/incus/commit/a0b00ec0db4b543f2b080a92486eb2b0b09e14f6)
+- [ ] [<code>incusd/storage_pools: Set authorizer for pending pools</code>](https://github.com/lxc/incus/commit/c265e6197a7c31a9bec171f3b11f64833655992a)
+- [ ] [<code>incusd/networks: Set authorizer for pending networks</code>](https://github.com/lxc/incus/commit/5fe3a8091e9a4be4f2982ebd47ba84dbf51c6295)
+- [ ] [<code>incusd/network: Handle long interface names</code>](https://github.com/lxc/incus/commit/5368ed58f8169c8561029f68672ff40ee09ce6d9)
+- [ ] [<code>incus/cluster: Cleanup certificate update message</code>](https://github.com/lxc/incus/commit/9eef6f98fc71fc9acfedc33efb1eaa5ec2187a47)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a03293ca6150ef7f626f68da618506699d0f09f)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2308,6 +2334,13 @@
 - [ ] [<code>Use CMake macro for avifincrtest (#2317)</code>](https://github.com/AOMediaCodec/libavif/commit/ddd98cf6cd4779d93679f568867d85cb980e5b46)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Run cmake-format</code>](https://github.com/AOMediaCodec/libavif/commit/1b9cced4bf884eebcd4efea727e7eeabe6b364fe)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update the cmake-format command line</code>](https://github.com/AOMediaCodec/libavif/commit/656b5e2a4c2d5126005b038e967bff96dc453f70)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code> Fix "No known features for CXX compiler" CMake error (#2302)</code>](https://github.com/AOMediaCodec/libavif/commit/9f8d3ccb1d0502dd3e17ccca1fbfceedc02290e1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
