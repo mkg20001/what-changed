@@ -138,6 +138,7 @@
 - [ ] [<code>Update the toastfile</code>](https://github.com/stepchowfun/docuum/commit/0196bd25563bce8556aa31931d0142dcd1aefec2)
 - [ ] [<code>Update Rust to v1.79.0</code>](https://github.com/stepchowfun/docuum/commit/2b7b6833d2db03bac5629e29186db30968f8bf41)
 - [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
+- [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.5 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.5...HEAD)
 
@@ -689,6 +690,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a03293ca6150ef7f626f68da618506699d0f09f)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/top: Properly filter disk usage</code>](https://github.com/lxc/incus/commit/cbda6113e02074d491b551007e729683145dcf0e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1533,6 +1535,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a03293ca6150ef7f626f68da618506699d0f09f)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/top: Properly filter disk usage</code>](https://github.com/lxc/incus/commit/cbda6113e02074d491b551007e729683145dcf0e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2343,6 +2346,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>fix: link against transitive libaom library dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/f086d9857f689144affb7625be8acb9788cfea65)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>avifgainmaputil: Fix MSVC warnings C4244 on enum</code>](https://github.com/AOMediaCodec/libavif/commit/e76e1d6aba89bab1fef5976af2c3fd25ff3bad82)
+- [ ] [<code>Fix AddOperator() in sato test (#2329)</code>](https://github.com/AOMediaCodec/libavif/commit/71af92f575362de8f4f2e0bf94207baa55791f0d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
