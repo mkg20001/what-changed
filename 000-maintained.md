@@ -151,6 +151,11 @@
 - [ ] [<code>address review comments</code>](https://github.com/canonical/dqlite/commit/27e5f6fa467ffdb176f2f70f08067772c3e4dd5d)
 - [ ] [<code>bugfix: reading segment, correctly stop on error</code>](https://github.com/canonical/dqlite/commit/a653857330e42dee96013a77613f64606c7637ee)
 - [ ] [<code>address review comments</code>](https://github.com/canonical/dqlite/commit/054b51165d78c2d78a7003cbbe697060a2439ef0)
+- [ ] [<code>Cleanup prepared statement during node close</code>](https://github.com/canonical/dqlite/commit/b390914bca283068d2b61f34fb0e51a92ea75d66)
+- [ ] [<code>Add testing</code>](https://github.com/canonical/dqlite/commit/e6ac700c2191de7741bf3642e1e6a53a0005aae7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Merge pull request #675 from marco6/fix-prepared-cleanup</code>](https://github.com/canonical/dqlite/commit/39ffc97599ad539903fd224158495d261ad25e19)
+  - <sub>Tags: <code>v1.16.6</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -316,6 +321,17 @@
 - [ ] [<code>chore: Sligthly improve chat permissions page design</code>](https://github.com/krille-chan/fluffychat/commit/020b6768ebe0d65e0d228e2f133d6293c6faf364)
 - [ ] [<code>fix: Display only available join rules</code>](https://github.com/krille-chan/fluffychat/commit/fcd3227ef568ddf5a6d97838cb39c4576c548356)
 - [ ] [<code>chore: Do not hide error on file sending</code>](https://github.com/krille-chan/fluffychat/commit/9d0cefce1837b9b5c69d15a828440dd535d36510)
+- [ ] [<code>refactor: Design polishment and better user viewer</code>](https://github.com/krille-chan/fluffychat/commit/16cf4e5e6c85381974f24359a037cee5a4871746)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/39a66f678676acb67b1abf79a73fabd64b6c9d83)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/22cfdd7689c27aeb1f326aadef52571d2a4bbf5b)
+- [ ] [<code>chore: nicer bottom sheets</code>](https://github.com/krille-chan/fluffychat/commit/d71d633ccef6e86b215a011dddb7f826b2ce34a8)
+- [ ] [<code>chore: Follow up nicer max width pages</code>](https://github.com/krille-chan/fluffychat/commit/b20cee34d4275e97ba680d30b52b95d6e6e6c2f6)
+- [ ] [<code>chore: Follow up pinned events</code>](https://github.com/krille-chan/fluffychat/commit/8128c960dc5523a99049c84d58f1b45e7a3848d5)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/3d965bf6ac7c06d01531e04041086114bd40a17e)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/b1a9c6e92db32b69be43cf847ef60b71b97c9a2b)
+- [ ] [<code>refactor: Clean up some widths</code>](https://github.com/krille-chan/fluffychat/commit/3434741bc5f8b7d82e0e4c6cfb7f6d0c7472d05c)
+- [ ] [<code>chore: Nicer background for sate message and time in chat</code>](https://github.com/krille-chan/fluffychat/commit/30e3a4f2ff8bd840f23fc115efd1176cea66dc59)
+- [ ] [<code>chore: Chat permissions page follow up</code>](https://github.com/krille-chan/fluffychat/commit/5b648624dae097755bd69ea0563a8e52e4b3c188)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -473,6 +489,17 @@
 - [ ] [<code>chore: Sligthly improve chat permissions page design</code>](https://github.com/krille-chan/fluffychat/commit/020b6768ebe0d65e0d228e2f133d6293c6faf364)
 - [ ] [<code>fix: Display only available join rules</code>](https://github.com/krille-chan/fluffychat/commit/fcd3227ef568ddf5a6d97838cb39c4576c548356)
 - [ ] [<code>chore: Do not hide error on file sending</code>](https://github.com/krille-chan/fluffychat/commit/9d0cefce1837b9b5c69d15a828440dd535d36510)
+- [ ] [<code>refactor: Design polishment and better user viewer</code>](https://github.com/krille-chan/fluffychat/commit/16cf4e5e6c85381974f24359a037cee5a4871746)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/39a66f678676acb67b1abf79a73fabd64b6c9d83)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/22cfdd7689c27aeb1f326aadef52571d2a4bbf5b)
+- [ ] [<code>chore: nicer bottom sheets</code>](https://github.com/krille-chan/fluffychat/commit/d71d633ccef6e86b215a011dddb7f826b2ce34a8)
+- [ ] [<code>chore: Follow up nicer max width pages</code>](https://github.com/krille-chan/fluffychat/commit/b20cee34d4275e97ba680d30b52b95d6e6e6c2f6)
+- [ ] [<code>chore: Follow up pinned events</code>](https://github.com/krille-chan/fluffychat/commit/8128c960dc5523a99049c84d58f1b45e7a3848d5)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/3d965bf6ac7c06d01531e04041086114bd40a17e)
+- [ ] [<code>chore: Follow up user bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/b1a9c6e92db32b69be43cf847ef60b71b97c9a2b)
+- [ ] [<code>refactor: Clean up some widths</code>](https://github.com/krille-chan/fluffychat/commit/3434741bc5f8b7d82e0e4c6cfb7f6d0c7472d05c)
+- [ ] [<code>chore: Nicer background for sate message and time in chat</code>](https://github.com/krille-chan/fluffychat/commit/30e3a4f2ff8bd840f23fc115efd1176cea66dc59)
+- [ ] [<code>chore: Chat permissions page follow up</code>](https://github.com/krille-chan/fluffychat/commit/5b648624dae097755bd69ea0563a8e52e4b3c188)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -496,6 +523,7 @@
 
 - [ ] [<code>Update Dockerfile (#448)</code>](https://github.com/toptal/haste-server/commit/ded18b0c2e1ad05eaba6ab5bb938ae6b54cb5147)
 - [ ] [<code>Bump braces from 3.0.2 to 3.0.3 (#454)</code>](https://github.com/toptal/haste-server/commit/87a6a88449db1e1e048bf58223038b8df83846c8)
+- [ ] [<code>Update CODEOWNERS</code>](https://github.com/toptal/haste-server/commit/a56763258b9a4a8fd589484351f027599a4f3515)
 
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.3.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.3.0...HEAD)
 
@@ -691,6 +719,32 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a03293ca6150ef7f626f68da618506699d0f09f)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/top: Properly filter disk usage</code>](https://github.com/lxc/incus/commit/cbda6113e02074d491b551007e729683145dcf0e)
+- [ ] [<code>incusd/state: Add Cluster gateway</code>](https://github.com/lxc/incus/commit/4101066fce229b0a7bdb7e125e406d2780504387)
+- [ ] [<code>incusd/daemon: Sort state fields</code>](https://github.com/lxc/incus/commit/29c3910cfb3accd12fbe9c66ca0bb62a07f88639)
+- [ ] [<code>incusd/daemon: Add cluster gateway to state</code>](https://github.com/lxc/incus/commit/6a60937eac51c4d872f2c2a61d657d54cdaf8171)
+- [ ] [<code>incusd/acme: Update for state change</code>](https://github.com/lxc/incus/commit/20fa754df4833dd0b6a5ac9b9f4fee1334e0b3df)
+- [ ] [<code>incusd/images: Update for state change</code>](https://github.com/lxc/incus/commit/b126f4342d2500ae235b8398a2f1ca7847369d8c)
+- [ ] [<code>incusd/operations: Update for state change</code>](https://github.com/lxc/incus/commit/9f212e54571aa531ba9adb1ec11a30e3ccab34d7)
+- [ ] [<code>incusd/instances: Update for state change</code>](https://github.com/lxc/incus/commit/b3c22277b73c9ad664aaf0c1e67c9b786ad2b66b)
+- [ ] [<code>incusd/patches: Update for state change</code>](https://github.com/lxc/incus/commit/7a52e46842162703e1bbe768cfa239c09049f0b6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster: Update for state change</code>](https://github.com/lxc/incus/commit/00a0668f887c3dd71e62537d70b194c3f8875181)
+- [ ] [<code>incusd/instances: Use targetGroupPrefix</code>](https://github.com/lxc/incus/commit/52d74d943fedfad17678f32c3af84be510f55ccb)
+- [ ] [<code>incusd/cluster: Split files</code>](https://github.com/lxc/incus/commit/4c0ebfdb6dc69bae5aa1efa813dc617f221ef9ba)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/cluster: Fix import shadowing</code>](https://github.com/lxc/incus/commit/e0b6b613c809a198e121aff0ac6648111d7fc73e)
+- [ ] [<code>incusd/cluster: Re-factor healing logic</code>](https://github.com/lxc/incus/commit/ea8a49596c4a8b210fcd7ecbbfdf01efab911ccf)
+- [ ] [<code>incusd/cluster: Improve logging</code>](https://github.com/lxc/incus/commit/3c277d954dafcac3b54a0b3c88430869b21c7485)
+- [ ] [<code>incusd/cluster: Reduce dqlite logging</code>](https://github.com/lxc/incus/commit/e57adb2c19ffa8fca3fb57304d099ecd73eb3dd1)
+- [ ] [<code>incusd/cluster: Extend HasConnectivity to do API checking</code>](https://github.com/lxc/incus/commit/bcc5bdc5dbfca92d59d1ae635c8e9c1903298222)
+- [ ] [<code>incusd/cluster: Add HasConnectivity check to event handling</code>](https://github.com/lxc/incus/commit/51b803629a028eadf647fbb1c60c799e3fd5bf04)
+- [ ] [<code>incusd: Don't block on startup for cluster queries</code>](https://github.com/lxc/incus/commit/e67060ccee7aeeaaba3facc4406c2b4b6b30134b)
+- [ ] [<code>incusd/cluster: Rework offline server detection</code>](https://github.com/lxc/incus/commit/7b9add459b9d65766724478f1d03ba601955f367)
+- [ ] [<code>incusd/cluster/evacuation: Add separate healing mode</code>](https://github.com/lxc/incus/commit/14af225a45c73489318f30e4c0329c0b1e727264)
+- [ ] [<code>incusd/cluster/healing: Try up to 5 times</code>](https://github.com/lxc/incus/commit/719eecbb101b42e4499fa3b8b413b97bc7e230fe)
+- [ ] [<code>incusd/cluster/healing: Add logging</code>](https://github.com/lxc/incus/commit/fce07c03f356ec8d8d564b70fafe257ae9faea46)
+- [ ] [<code>incusd/device/disk: Fix bad CanMigrate logic</code>](https://github.com/lxc/incus/commit/e9a5a521ed1fb65da077c87ae72cd1f41d8614e7)
+- [ ] [<code>incusd/storage/lvm: Properly activate/deactivate ISOs</code>](https://github.com/lxc/incus/commit/a3720add113fe92d2fd91ccd309749e4f648a03a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1536,6 +1590,32 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a03293ca6150ef7f626f68da618506699d0f09f)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/top: Properly filter disk usage</code>](https://github.com/lxc/incus/commit/cbda6113e02074d491b551007e729683145dcf0e)
+- [ ] [<code>incusd/state: Add Cluster gateway</code>](https://github.com/lxc/incus/commit/4101066fce229b0a7bdb7e125e406d2780504387)
+- [ ] [<code>incusd/daemon: Sort state fields</code>](https://github.com/lxc/incus/commit/29c3910cfb3accd12fbe9c66ca0bb62a07f88639)
+- [ ] [<code>incusd/daemon: Add cluster gateway to state</code>](https://github.com/lxc/incus/commit/6a60937eac51c4d872f2c2a61d657d54cdaf8171)
+- [ ] [<code>incusd/acme: Update for state change</code>](https://github.com/lxc/incus/commit/20fa754df4833dd0b6a5ac9b9f4fee1334e0b3df)
+- [ ] [<code>incusd/images: Update for state change</code>](https://github.com/lxc/incus/commit/b126f4342d2500ae235b8398a2f1ca7847369d8c)
+- [ ] [<code>incusd/operations: Update for state change</code>](https://github.com/lxc/incus/commit/9f212e54571aa531ba9adb1ec11a30e3ccab34d7)
+- [ ] [<code>incusd/instances: Update for state change</code>](https://github.com/lxc/incus/commit/b3c22277b73c9ad664aaf0c1e67c9b786ad2b66b)
+- [ ] [<code>incusd/patches: Update for state change</code>](https://github.com/lxc/incus/commit/7a52e46842162703e1bbe768cfa239c09049f0b6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster: Update for state change</code>](https://github.com/lxc/incus/commit/00a0668f887c3dd71e62537d70b194c3f8875181)
+- [ ] [<code>incusd/instances: Use targetGroupPrefix</code>](https://github.com/lxc/incus/commit/52d74d943fedfad17678f32c3af84be510f55ccb)
+- [ ] [<code>incusd/cluster: Split files</code>](https://github.com/lxc/incus/commit/4c0ebfdb6dc69bae5aa1efa813dc617f221ef9ba)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/cluster: Fix import shadowing</code>](https://github.com/lxc/incus/commit/e0b6b613c809a198e121aff0ac6648111d7fc73e)
+- [ ] [<code>incusd/cluster: Re-factor healing logic</code>](https://github.com/lxc/incus/commit/ea8a49596c4a8b210fcd7ecbbfdf01efab911ccf)
+- [ ] [<code>incusd/cluster: Improve logging</code>](https://github.com/lxc/incus/commit/3c277d954dafcac3b54a0b3c88430869b21c7485)
+- [ ] [<code>incusd/cluster: Reduce dqlite logging</code>](https://github.com/lxc/incus/commit/e57adb2c19ffa8fca3fb57304d099ecd73eb3dd1)
+- [ ] [<code>incusd/cluster: Extend HasConnectivity to do API checking</code>](https://github.com/lxc/incus/commit/bcc5bdc5dbfca92d59d1ae635c8e9c1903298222)
+- [ ] [<code>incusd/cluster: Add HasConnectivity check to event handling</code>](https://github.com/lxc/incus/commit/51b803629a028eadf647fbb1c60c799e3fd5bf04)
+- [ ] [<code>incusd: Don't block on startup for cluster queries</code>](https://github.com/lxc/incus/commit/e67060ccee7aeeaaba3facc4406c2b4b6b30134b)
+- [ ] [<code>incusd/cluster: Rework offline server detection</code>](https://github.com/lxc/incus/commit/7b9add459b9d65766724478f1d03ba601955f367)
+- [ ] [<code>incusd/cluster/evacuation: Add separate healing mode</code>](https://github.com/lxc/incus/commit/14af225a45c73489318f30e4c0329c0b1e727264)
+- [ ] [<code>incusd/cluster/healing: Try up to 5 times</code>](https://github.com/lxc/incus/commit/719eecbb101b42e4499fa3b8b413b97bc7e230fe)
+- [ ] [<code>incusd/cluster/healing: Add logging</code>](https://github.com/lxc/incus/commit/fce07c03f356ec8d8d564b70fafe257ae9faea46)
+- [ ] [<code>incusd/device/disk: Fix bad CanMigrate logic</code>](https://github.com/lxc/incus/commit/e9a5a521ed1fb65da077c87ae72cd1f41d8614e7)
+- [ ] [<code>incusd/storage/lvm: Properly activate/deactivate ISOs</code>](https://github.com/lxc/incus/commit/a3720add113fe92d2fd91ccd309749e4f648a03a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2348,6 +2428,18 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>avifgainmaputil: Fix MSVC warnings C4244 on enum</code>](https://github.com/AOMediaCodec/libavif/commit/e76e1d6aba89bab1fef5976af2c3fd25ff3bad82)
 - [ ] [<code>Fix AddOperator() in sato test (#2329)</code>](https://github.com/AOMediaCodec/libavif/commit/71af92f575362de8f4f2e0bf94207baa55791f0d)
+- [ ] [<code>Do not set output args on MetaFindAlphaItem() err (#2330)</code>](https://github.com/AOMediaCodec/libavif/commit/91bf89579eec7673ab66b55ce067e5ce022297a9)
+- [ ] [<code>Copy avif.dll to tests binary directory on Windows</code>](https://github.com/AOMediaCodec/libavif/commit/65a37e61dbad8326ad624541142e12ee11492421)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Provide both avifincrtest_helpers{_internal}</code>](https://github.com/AOMediaCodec/libavif/commit/f4c99fb5854d957edee9135615fe95be318d9660)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix out-of-order dimg grid associations (#2312)</code>](https://github.com/AOMediaCodec/libavif/commit/40b5589b003ca11a63572a470ac8744404fec2f9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Detect iref repetition before ItemReadAndParse() (#2315)</code>](https://github.com/AOMediaCodec/libavif/commit/d591bb295be9d6f5274b2ac5d87794caa032980c)
+- [ ] [<code>Cast op to uint8_t in avifsampletransformtest.cc (#2331)</code>](https://github.com/AOMediaCodec/libavif/commit/d1f5e66cd870ff32b80d57a8b8d6389f93c35637)
+- [ ] [<code>avifpng.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/227293d51f5b9de39975f9add2c5fe01c5835448)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2990,6 +3082,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test:routing: Skip advmss test on NetworkManager < 1.39.8</code>](https://github.com/canonical/netplan/commit/b13b5182d8592ec21be0bf8895d8a474e71b3dea)
 - [ ] [<code>CI: fix CodeQL permissions</code>](https://github.com/canonical/netplan/commit/b13d36b18555bf5e63a174a7fd51f671b526c615)
+- [ ] [<code>generate: avoid calling 'udevadm control --reload' (LP: #1999178)</code>](https://github.com/canonical/netplan/commit/05fcc806ad2a4ae9af493f863596a606fbf7da25)
+  - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
+- [ ] [<code>rpm: require udev for tests</code>](https://github.com/canonical/netplan/commit/666b2da06b2c2156e7f8803898595220021907e5)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3155,8 +3250,26 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
+> Dropped python311Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.37.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.1...HEAD)
+> Dropped python311Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped python311Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+
+#### [python311Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
+
+- [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
+  - <sub>Keywords: <code>bin</code></sub>
+> Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+
+#### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
+
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.37.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.2...HEAD)
 
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
@@ -3337,6 +3450,4 @@
 
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
-
-> Dropped yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
