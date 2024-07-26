@@ -2341,6 +2341,8 @@
 - [ ] [<code> Fix "No known features for CXX compiler" CMake error (#2302)</code>](https://github.com/AOMediaCodec/libavif/commit/9f8d3ccb1d0502dd3e17ccca1fbfceedc02290e1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: link against transitive libaom library dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/f086d9857f689144affb7625be8acb9788cfea65)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -3148,24 +3150,6 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
-> Dropped python311Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
-> Dropped python311Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
-> Dropped python311Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
-
-#### [python311Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
-
-- [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
-  - <sub>Keywords: <code>bin</code></sub>
-> Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
-
-#### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
-
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.37.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.1...HEAD)
 
@@ -3348,4 +3332,6 @@
 
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
+
+> Dropped yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
