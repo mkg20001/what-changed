@@ -332,6 +332,8 @@
 - [ ] [<code>refactor: Clean up some widths</code>](https://github.com/krille-chan/fluffychat/commit/3434741bc5f8b7d82e0e4c6cfb7f6d0c7472d05c)
 - [ ] [<code>chore: Nicer background for sate message and time in chat</code>](https://github.com/krille-chan/fluffychat/commit/30e3a4f2ff8bd840f23fc115efd1176cea66dc59)
 - [ ] [<code>chore: Chat permissions page follow up</code>](https://github.com/krille-chan/fluffychat/commit/5b648624dae097755bd69ea0563a8e52e4b3c188)
+- [ ] [<code>chore: Polish public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/c7b9acfcdf828a029cdbda5c3876cded45324c84)
+- [ ] [<code>chore: Follow up join space children</code>](https://github.com/krille-chan/fluffychat/commit/76b7fbf36f7446037b131b148643e5fc6c21203f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -500,6 +502,8 @@
 - [ ] [<code>refactor: Clean up some widths</code>](https://github.com/krille-chan/fluffychat/commit/3434741bc5f8b7d82e0e4c6cfb7f6d0c7472d05c)
 - [ ] [<code>chore: Nicer background for sate message and time in chat</code>](https://github.com/krille-chan/fluffychat/commit/30e3a4f2ff8bd840f23fc115efd1176cea66dc59)
 - [ ] [<code>chore: Chat permissions page follow up</code>](https://github.com/krille-chan/fluffychat/commit/5b648624dae097755bd69ea0563a8e52e4b3c188)
+- [ ] [<code>chore: Polish public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/c7b9acfcdf828a029cdbda5c3876cded45324c84)
+- [ ] [<code>chore: Follow up join space children</code>](https://github.com/krille-chan/fluffychat/commit/76b7fbf36f7446037b131b148643e5fc6c21203f)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -745,6 +749,10 @@
 - [ ] [<code>incusd/cluster/healing: Add logging</code>](https://github.com/lxc/incus/commit/fce07c03f356ec8d8d564b70fafe257ae9faea46)
 - [ ] [<code>incusd/device/disk: Fix bad CanMigrate logic</code>](https://github.com/lxc/incus/commit/e9a5a521ed1fb65da077c87ae72cd1f41d8614e7)
 - [ ] [<code>incusd/storage/lvm: Properly activate/deactivate ISOs</code>](https://github.com/lxc/incus/commit/a3720add113fe92d2fd91ccd309749e4f648a03a)
+- [ ] [<code>incusd/images: Expose image type as header</code>](https://github.com/lxc/incus/commit/5e84182f249a1f9f90c09e36bc78f4fc722f2845)
+- [ ] [<code>client: Skip image hash if OCI</code>](https://github.com/lxc/incus/commit/951fd0c6b429b50685c33cf95429ef7fe3dc038c)
+- [ ] [<code>incusd/instance/lxc: Add /init to OCI init paths</code>](https://github.com/lxc/incus/commit/fed8d50f18c653c2fbe22c4c5f62060e7d0fc0e6)
+- [ ] [<code>incusd/device: Don't fail on LXCFS device entry</code>](https://github.com/lxc/incus/commit/e93f6d31b9f802af9b2f02e5633d3668fa854d93)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1616,6 +1624,10 @@
 - [ ] [<code>incusd/cluster/healing: Add logging</code>](https://github.com/lxc/incus/commit/fce07c03f356ec8d8d564b70fafe257ae9faea46)
 - [ ] [<code>incusd/device/disk: Fix bad CanMigrate logic</code>](https://github.com/lxc/incus/commit/e9a5a521ed1fb65da077c87ae72cd1f41d8614e7)
 - [ ] [<code>incusd/storage/lvm: Properly activate/deactivate ISOs</code>](https://github.com/lxc/incus/commit/a3720add113fe92d2fd91ccd309749e4f648a03a)
+- [ ] [<code>incusd/images: Expose image type as header</code>](https://github.com/lxc/incus/commit/5e84182f249a1f9f90c09e36bc78f4fc722f2845)
+- [ ] [<code>client: Skip image hash if OCI</code>](https://github.com/lxc/incus/commit/951fd0c6b429b50685c33cf95429ef7fe3dc038c)
+- [ ] [<code>incusd/instance/lxc: Add /init to OCI init paths</code>](https://github.com/lxc/incus/commit/fed8d50f18c653c2fbe22c4c5f62060e7d0fc0e6)
+- [ ] [<code>incusd/device: Don't fail on LXCFS device entry</code>](https://github.com/lxc/incus/commit/e93f6d31b9f802af9b2f02e5633d3668fa854d93)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3247,6 +3259,17 @@
 - [ ] [<code>refactor(android): use type safe compose navigation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/933bc9528c5b35c73e3b6d13ad500c0a60aad428)
 - [ ] [<code>fix(android): inconsistent transitions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/220701f427756c35ea86cdc580e18a5e003d5792)
 - [ ] [<code>feat(android): import/export navigation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c703cc45c51c3afb16ddb3627ae1d3b360739d40)
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/425af0630458b599ac8e204e588f178c9cc7dc24)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(android): fix build warning</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e48366e7e81d7a003b0942a9fc75cc19f0375ba4)
+- [ ] [<code>feat(android): improve import profiles ui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb2c69584e5aa4cb747f5061f54fdebfeaa2bcd2)
+- [ ] [<code>fix(android): back animation should play when index decreases</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a9502fc79527f84bfd87c30c57898539be9b2d0)
+- [ ] [<code>feat(android): improve export profiles ui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8d40d3842caeb1548a095e3f21b294c525bac089)
+- [ ] [<code>refactor(gui): replace once_cell with std LazyLock</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe33b8a144088afc89adf3c53e75db4c0e90f99f)
+- [ ] [<code>build: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/338202567daa232aa0782ac9f91a644ee1cd4318)
+- [ ] [<code>refactor(gui): fix gtk-rs-core deprecations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6150a9ba798cbabc62bd781a8cffa02b891dc71)
+- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/190a198ed8a3a1dad9699c3b914b2bcdd233622b)
+- [ ] [<code>refactor(gui): fix gtk-rs-core deprecations in tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/25483f520104a2fb2e5d39379dd74a4d6f8c5f23)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
