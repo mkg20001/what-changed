@@ -123,6 +123,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>debootstrap: Add workaround for devuan</code>](https://github.com/lxc/distrobuilder/commit/bea11060198847f836568b6de13d685407d6f66f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sources: Fix openEuler tests</code>](https://github.com/lxc/distrobuilder/commit/6247ec9ac0c60daba7e069b4638419370db4d060)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -140,22 +141,8 @@
 - [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
 
-#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.5 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.5...HEAD)
+#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.6 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.6...HEAD)
 
-- [ ] [<code>feat: first version of snapshot state machine</code>](https://github.com/canonical/dqlite/commit/ee0759693123be86b241cdbf6a760c9c2a6b67b6)
-- [ ] [<code>feat: integrate anatoliy o11y prototype</code>](https://github.com/canonical/dqlite/commit/2f5ecfffa6236bd15ca0569e1ab0fd6af166b0db)
-- [ ] [<code>sm: Fix format specifiers for armhf</code>](https://github.com/canonical/dqlite/commit/f00f0caafeacec7294192cbbaa3a5b6975d3f7cd)
-- [ ] [<code>Fix a possible UAF</code>](https://github.com/canonical/dqlite/commit/00db6f07383417f1ddd55119ed3bc0e6f084dbde)
-- [ ] [<code>free *snapshots if rv != 0</code>](https://github.com/canonical/dqlite/commit/f98027e81a78a5edbee836d5184e37d62dec8c6d)
-- [ ] [<code>feat: proper timeout handling for snapshots</code>](https://github.com/canonical/dqlite/commit/8d5014ec355fffe2ee1ac99ae3f16aead09a4461)
-- [ ] [<code>address review comments</code>](https://github.com/canonical/dqlite/commit/27e5f6fa467ffdb176f2f70f08067772c3e4dd5d)
-- [ ] [<code>bugfix: reading segment, correctly stop on error</code>](https://github.com/canonical/dqlite/commit/a653857330e42dee96013a77613f64606c7637ee)
-- [ ] [<code>address review comments</code>](https://github.com/canonical/dqlite/commit/054b51165d78c2d78a7003cbbe697060a2439ef0)
-- [ ] [<code>Cleanup prepared statement during node close</code>](https://github.com/canonical/dqlite/commit/b390914bca283068d2b61f34fb0e51a92ea75d66)
-- [ ] [<code>Add testing</code>](https://github.com/canonical/dqlite/commit/e6ac700c2191de7741bf3642e1e6a53a0005aae7)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Merge pull request #675 from marco6/fix-prepared-cleanup</code>](https://github.com/canonical/dqlite/commit/39ffc97599ad539903fd224158495d261ad25e19)
-  - <sub>Tags: <code>v1.16.6</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -334,6 +321,7 @@
 - [ ] [<code>chore: Chat permissions page follow up</code>](https://github.com/krille-chan/fluffychat/commit/5b648624dae097755bd69ea0563a8e52e4b3c188)
 - [ ] [<code>chore: Polish public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/c7b9acfcdf828a029cdbda5c3876cded45324c84)
 - [ ] [<code>chore: Follow up join space children</code>](https://github.com/krille-chan/fluffychat/commit/76b7fbf36f7446037b131b148643e5fc6c21203f)
+- [ ] [<code>build: Update to Flutter 3.22.3</code>](https://github.com/krille-chan/fluffychat/commit/8dd43d8a7fb6d69abd5bdb454476dfc2ab0bb79c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -504,6 +492,7 @@
 - [ ] [<code>chore: Chat permissions page follow up</code>](https://github.com/krille-chan/fluffychat/commit/5b648624dae097755bd69ea0563a8e52e4b3c188)
 - [ ] [<code>chore: Polish public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/c7b9acfcdf828a029cdbda5c3876cded45324c84)
 - [ ] [<code>chore: Follow up join space children</code>](https://github.com/krille-chan/fluffychat/commit/76b7fbf36f7446037b131b148643e5fc6c21203f)
+- [ ] [<code>build: Update to Flutter 3.22.3</code>](https://github.com/krille-chan/fluffychat/commit/8dd43d8a7fb6d69abd5bdb454476dfc2ab0bb79c)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -753,6 +742,26 @@
 - [ ] [<code>client: Skip image hash if OCI</code>](https://github.com/lxc/incus/commit/951fd0c6b429b50685c33cf95429ef7fe3dc038c)
 - [ ] [<code>incusd/instance/lxc: Add /init to OCI init paths</code>](https://github.com/lxc/incus/commit/fed8d50f18c653c2fbe22c4c5f62060e7d0fc0e6)
 - [ ] [<code>incusd/device: Don't fail on LXCFS device entry</code>](https://github.com/lxc/incus/commit/e93f6d31b9f802af9b2f02e5633d3668fa854d93)
+- [ ] [<code>client: Report source errors too on copy</code>](https://github.com/lxc/incus/commit/47310d37446077f9606705a6736952fae1ae5869)
+- [ ] [<code>incusd/storage: Have roundVolumeBlockSizeBytes return an error</code>](https://github.com/lxc/incus/commit/c4c79c817503e0291c12e569fbcf47ae459197e3)
+- [ ] [<code>incusd/instance_post: Fix cross-server live-migration</code>](https://github.com/lxc/incus/commit/51a07ac38ef1bf0625fd1b14907c92ac05da7f24)
+- [ ] [<code>incus/image: Correct image copy logic</code>](https://github.com/lxc/incus/commit/751ce3cc03055e78974847b662b653fca8f0872d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/lvm: Hardden common functions</code>](https://github.com/lxc/incus/commit/98416d26ceca10044e9827bb7b7892f5c4ccb885)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/api: Don't panic on missing config</code>](https://github.com/lxc/incus/commit/36de828657f1d0c499354d825e78ae452ee53682)
+- [ ] [<code>incusd/storage: Add Deactivate flag</code>](https://github.com/lxc/incus/commit/b712fa05a3a9739863fb9ac3ce5c80e1b3a8f533)
+- [ ] [<code>incusd/storage/lvm: Add deactivation step for clusters</code>](https://github.com/lxc/incus/commit/9b5b57c0e368182e2bc4caef556e6566ff00b688)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/cluster: Return clear status for servers currently starting up</code>](https://github.com/lxc/incus/commit/44d426939044a81f405db6dc5c15b75cc6398b2a)
+- [ ] [<code>incusd/instance/lxc: Reduce logging level</code>](https://github.com/lxc/incus/commit/a80e104673ed3ecd746f1ee7fd1f74d0707695aa)
+- [ ] [<code>incusd/instance/qemu: Reduce logging level</code>](https://github.com/lxc/incus/commit/f533c369077ee8b49bd9c9ea5916cd60ba4cfd36)
+- [ ] [<code>incusd/migrate: Reduce logging</code>](https://github.com/lxc/incus/commit/3f02a65cc1cefb73acdda418dd3f37421cf64d2b)
+- [ ] [<code>incusd/storage: Reduce logging</code>](https://github.com/lxc/incus/commit/bf993ca57aa389958239391aa9c511e9dfc394f4)
+- [ ] [<code>incusd/instance/qemu: Remove double lifecycle event</code>](https://github.com/lxc/incus/commit/ef22ae3cd5fd7a291ae6a2075f565031eab3a3ad)
+- [ ] [<code>tests/clustering: Use correct target project argument</code>](https://github.com/lxc/incus/commit/8366dfbe8026f75d4c23cb757b90b12f686614fc)
+- [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1628,6 +1637,26 @@
 - [ ] [<code>client: Skip image hash if OCI</code>](https://github.com/lxc/incus/commit/951fd0c6b429b50685c33cf95429ef7fe3dc038c)
 - [ ] [<code>incusd/instance/lxc: Add /init to OCI init paths</code>](https://github.com/lxc/incus/commit/fed8d50f18c653c2fbe22c4c5f62060e7d0fc0e6)
 - [ ] [<code>incusd/device: Don't fail on LXCFS device entry</code>](https://github.com/lxc/incus/commit/e93f6d31b9f802af9b2f02e5633d3668fa854d93)
+- [ ] [<code>client: Report source errors too on copy</code>](https://github.com/lxc/incus/commit/47310d37446077f9606705a6736952fae1ae5869)
+- [ ] [<code>incusd/storage: Have roundVolumeBlockSizeBytes return an error</code>](https://github.com/lxc/incus/commit/c4c79c817503e0291c12e569fbcf47ae459197e3)
+- [ ] [<code>incusd/instance_post: Fix cross-server live-migration</code>](https://github.com/lxc/incus/commit/51a07ac38ef1bf0625fd1b14907c92ac05da7f24)
+- [ ] [<code>incus/image: Correct image copy logic</code>](https://github.com/lxc/incus/commit/751ce3cc03055e78974847b662b653fca8f0872d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/lvm: Hardden common functions</code>](https://github.com/lxc/incus/commit/98416d26ceca10044e9827bb7b7892f5c4ccb885)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/api: Don't panic on missing config</code>](https://github.com/lxc/incus/commit/36de828657f1d0c499354d825e78ae452ee53682)
+- [ ] [<code>incusd/storage: Add Deactivate flag</code>](https://github.com/lxc/incus/commit/b712fa05a3a9739863fb9ac3ce5c80e1b3a8f533)
+- [ ] [<code>incusd/storage/lvm: Add deactivation step for clusters</code>](https://github.com/lxc/incus/commit/9b5b57c0e368182e2bc4caef556e6566ff00b688)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/cluster: Return clear status for servers currently starting up</code>](https://github.com/lxc/incus/commit/44d426939044a81f405db6dc5c15b75cc6398b2a)
+- [ ] [<code>incusd/instance/lxc: Reduce logging level</code>](https://github.com/lxc/incus/commit/a80e104673ed3ecd746f1ee7fd1f74d0707695aa)
+- [ ] [<code>incusd/instance/qemu: Reduce logging level</code>](https://github.com/lxc/incus/commit/f533c369077ee8b49bd9c9ea5916cd60ba4cfd36)
+- [ ] [<code>incusd/migrate: Reduce logging</code>](https://github.com/lxc/incus/commit/3f02a65cc1cefb73acdda418dd3f37421cf64d2b)
+- [ ] [<code>incusd/storage: Reduce logging</code>](https://github.com/lxc/incus/commit/bf993ca57aa389958239391aa9c511e9dfc394f4)
+- [ ] [<code>incusd/instance/qemu: Remove double lifecycle event</code>](https://github.com/lxc/incus/commit/ef22ae3cd5fd7a291ae6a2075f565031eab3a3ad)
+- [ ] [<code>tests/clustering: Use correct target project argument</code>](https://github.com/lxc/incus/commit/8366dfbe8026f75d4c23cb757b90b12f686614fc)
+- [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
