@@ -103,3 +103,4 @@
 - [ ] [<code>ustream-ssl: poll connection on incomplete reads</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/f9a28a9ce86473d934693fe59dcbe344ffbc695e)
 - [ ] [<code>ustream-ssl: increase number of read buffers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/3c49e70c462249c174062e8181d191c859c5e41b)
 - [ ] [<code>ustream-ssl: add support for using a fd instead of ustream as backing</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/524a76e5af78fa577c46e0d24bdedd4254e07cd4)
+- [ ] [<code>ustream-openssl: fix compilation with OPENSSL_NO_DEPRECATED</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99bd3d2b167ccdffb6de072d02c380cb37b23e33)
