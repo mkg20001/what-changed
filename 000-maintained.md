@@ -322,6 +322,8 @@
 - [ ] [<code>chore: Polish public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/c7b9acfcdf828a029cdbda5c3876cded45324c84)
 - [ ] [<code>chore: Follow up join space children</code>](https://github.com/krille-chan/fluffychat/commit/76b7fbf36f7446037b131b148643e5fc6c21203f)
 - [ ] [<code>build: Update to Flutter 3.22.3</code>](https://github.com/krille-chan/fluffychat/commit/8dd43d8a7fb6d69abd5bdb454476dfc2ab0bb79c)
+- [ ] [<code>fix: Scroll to event missing the position</code>](https://github.com/krille-chan/fluffychat/commit/8ae8dbe45e6b58f68c8c5b3ef690bce3ba013954)
+- [ ] [<code>chore: Follow up highlight event on room open</code>](https://github.com/krille-chan/fluffychat/commit/5f9aa943390c9c587b2e6cf86f5ee56dee91ccff)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -493,6 +495,8 @@
 - [ ] [<code>chore: Polish public room bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/c7b9acfcdf828a029cdbda5c3876cded45324c84)
 - [ ] [<code>chore: Follow up join space children</code>](https://github.com/krille-chan/fluffychat/commit/76b7fbf36f7446037b131b148643e5fc6c21203f)
 - [ ] [<code>build: Update to Flutter 3.22.3</code>](https://github.com/krille-chan/fluffychat/commit/8dd43d8a7fb6d69abd5bdb454476dfc2ab0bb79c)
+- [ ] [<code>fix: Scroll to event missing the position</code>](https://github.com/krille-chan/fluffychat/commit/8ae8dbe45e6b58f68c8c5b3ef690bce3ba013954)
+- [ ] [<code>chore: Follow up highlight event on room open</code>](https://github.com/krille-chan/fluffychat/commit/5f9aa943390c9c587b2e6cf86f5ee56dee91ccff)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
