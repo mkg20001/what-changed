@@ -325,6 +325,7 @@
 - [ ] [<code>fix: Scroll to event missing the position</code>](https://github.com/krille-chan/fluffychat/commit/8ae8dbe45e6b58f68c8c5b3ef690bce3ba013954)
 - [ ] [<code>chore: Follow up highlight event on room open</code>](https://github.com/krille-chan/fluffychat/commit/5f9aa943390c9c587b2e6cf86f5ee56dee91ccff)
 - [ ] [<code>fix: Path correct userId to ignore list</code>](https://github.com/krille-chan/fluffychat/commit/83490de6fd967ba8545d5960c0a6cebd410e0580)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/21e7c3f8cb3898306ba47788a962fba4ef24673d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -499,6 +500,7 @@
 - [ ] [<code>fix: Scroll to event missing the position</code>](https://github.com/krille-chan/fluffychat/commit/8ae8dbe45e6b58f68c8c5b3ef690bce3ba013954)
 - [ ] [<code>chore: Follow up highlight event on room open</code>](https://github.com/krille-chan/fluffychat/commit/5f9aa943390c9c587b2e6cf86f5ee56dee91ccff)
 - [ ] [<code>fix: Path correct userId to ignore list</code>](https://github.com/krille-chan/fluffychat/commit/83490de6fd967ba8545d5960c0a6cebd410e0580)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/21e7c3f8cb3898306ba47788a962fba4ef24673d)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
