@@ -143,6 +143,9 @@
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.6 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.6...HEAD)
 
+- [ ] [<code>Release v1.16.7</code>](https://github.com/canonical/dqlite/commit/eb777c2c083a18d4657d4ee4ef49ca1d547b2172)
+  - <sub>Tags: <code>v1.16.7</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -1750,6 +1753,8 @@
 - [ ] [<code>Detect iref repetition before ItemReadAndParse() (#2315)</code>](https://github.com/AOMediaCodec/libavif/commit/d591bb295be9d6f5274b2ac5d87794caa032980c)
 - [ ] [<code>Cast op to uint8_t in avifsampletransformtest.cc (#2331)</code>](https://github.com/AOMediaCodec/libavif/commit/d1f5e66cd870ff32b80d57a8b8d6389f93c35637)
 - [ ] [<code>avifpng.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/227293d51f5b9de39975f9add2c5fe01c5835448)
+- [ ] [<code>read.c: Declare alphaCategory as avifItemCategory</code>](https://github.com/AOMediaCodec/libavif/commit/ead9392000a438fe89f8b77b04ec32e6ce77a3f0)
+- [ ] [<code>Work around the bug that aom.pc always has -lm</code>](https://github.com/AOMediaCodec/libavif/commit/5125ca214f0ce6e49c58d22b5c6d400bab376f18)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2766,6 +2771,10 @@
 - [ ] [<code>nl80211: support conversion from/to struct array attributes</code>](https://github.com/jow-/ucode/commit/f6ea6fc8f0269d48e01429158153126fc213b0e4)
 - [ ] [<code>nl80211: drop unused structure members from connection context</code>](https://github.com/jow-/ucode/commit/f5b5a583596580df46c361b6333703a228e3da11)
 - [ ] [<code>nl80211: support the MAC80211_HWSIM netlink protocol family</code>](https://github.com/jow-/ucode/commit/bc13278eae5e49ce8bcf8cd964c97f05660e81b3)
+- [ ] [<code>main: prevent invalid memory access when executing empty stdin</code>](https://github.com/jow-/ucode/commit/e391ef5631cdc2a9f7f69504cd1e57d7ca510969)
+- [ ] [<code>tests: replace test runner shell script with ucode implementation</code>](https://github.com/jow-/ucode/commit/fbabec42349880407c4308211129c07ff51c484a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
