@@ -1755,6 +1755,8 @@
 - [ ] [<code>avifpng.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/227293d51f5b9de39975f9add2c5fe01c5835448)
 - [ ] [<code>read.c: Declare alphaCategory as avifItemCategory</code>](https://github.com/AOMediaCodec/libavif/commit/ead9392000a438fe89f8b77b04ec32e6ce77a3f0)
 - [ ] [<code>Work around the bug that aom.pc always has -lm</code>](https://github.com/AOMediaCodec/libavif/commit/5125ca214f0ce6e49c58d22b5c6d400bab376f18)
+- [ ] [<code>Remove the unused macro SUBSAMPLE</code>](https://github.com/AOMediaCodec/libavif/commit/d486dadc21ba4ce45460da0787d081bb24ddb70c)
+- [ ] [<code>Fix Clang's -Wformat warnings</code>](https://github.com/AOMediaCodec/libavif/commit/2eb35fc3d68511bf705c52d9c7f9c36c465181f3)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
