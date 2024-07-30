@@ -154,6 +154,28 @@
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
 
+- [ ] [<code>Libadwaita: add missing color variables</code>](https://github.com/daniruiz/flat-remix-gtk/commit/ae61cb1ea7c0594cea630a7604538b39eca33e06)
+- [ ] [<code>Libadwaita: move themes inside GTK folder</code>](https://github.com/daniruiz/flat-remix-gtk/commit/9e24507ceffab871834c163a5265b7df2dbab231)
+- [ ] [<code>Libadwaita: regenerate all theme variants</code>](https://github.com/daniruiz/flat-remix-gtk/commit/42e1eba202f14cc138f9705cefbbac386b71135f)
+- [ ] [<code>GTK4: Use libadwaita theme code instead of upstream gtk4</code>](https://github.com/daniruiz/flat-remix-gtk/commit/af3f8b4201dfe3c4ff29ee94e468400dc2e9526d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>GTK4: generate all theme variants</code>](https://github.com/daniruiz/flat-remix-gtk/commit/161991711f0da1ba9e68a7f70127c4e27d418bf6)
+- [ ] [<code>GTK4: use libadwaita assets</code>](https://github.com/daniruiz/flat-remix-gtk/commit/33589d1a16a38205a7b135880e1fc14cf3d50aed)
+- [ ] [<code>Remove old themes</code>](https://github.com/daniruiz/flat-remix-gtk/commit/c75962623d9647018b07c50b825660d18bd54271)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Libadwaita: make title buttons visible in colored headerbars</code>](https://github.com/daniruiz/flat-remix-gtk/commit/19dabe5c6247132ba1d3e94803fc6fe5129f96ce)
+- [ ] [<code>GTK4: add missing assets symlinks</code>](https://github.com/daniruiz/flat-remix-gtk/commit/c238c8f16e1c2ff4f778468feb30fde306a9d530)
+- [ ] [<code>Add theme install script</code>](https://github.com/daniruiz/flat-remix-gtk/commit/418bd8c888625188b8cbaef7dee05299fde25844)
+  - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Add executable permissions to install and uninstall scripts</code>](https://github.com/daniruiz/flat-remix-gtk/commit/1dbb7568be328f321373f1367fad70249659c5c6)
+- [ ] [<code>Fix install script</code>](https://github.com/daniruiz/flat-remix-gtk/commit/19e4b241f51a8b66201f3ebab8f2e333ce4a4551)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>Remove uninstall.sh too during theme files removal</code>](https://github.com/daniruiz/flat-remix-gtk/commit/d3333e9922026a04c9c9f54f2e5dd85cdcf95a8f)
+- [ ] [<code>Generate changelog in reverse order</code>](https://github.com/daniruiz/flat-remix-gtk/commit/35f98b1bb679201fda9e9e919b023c348ce29e79)
+- [ ] [<code>Update CHANGELOG version 20240730</code>](https://github.com/daniruiz/flat-remix-gtk/commit/717ac1a946e3b690f8e00050dde3e8c559de5d3d)
+- [ ] [<code>Update aur version 20240730</code>](https://github.com/daniruiz/flat-remix-gtk/commit/6d9238a260aa030139d208d7e6f41cb27c5ad17a)
+- [ ] [<code>Update flat-remix-gtk.spec version 20240730</code>](https://github.com/daniruiz/flat-remix-gtk/commit/919494f4f4ede88e2efb45cd48b98db7cc23f6ee)
+  - <sub>Tags: <code>20240730</code></sub>
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -1757,6 +1779,13 @@
 - [ ] [<code>Work around the bug that aom.pc always has -lm</code>](https://github.com/AOMediaCodec/libavif/commit/5125ca214f0ce6e49c58d22b5c6d400bab376f18)
 - [ ] [<code>Remove the unused macro SUBSAMPLE</code>](https://github.com/AOMediaCodec/libavif/commit/d486dadc21ba4ce45460da0787d081bb24ddb70c)
 - [ ] [<code>Fix Clang's -Wformat warnings</code>](https://github.com/AOMediaCodec/libavif/commit/2eb35fc3d68511bf705c52d9c7f9c36c465181f3)
+- [ ] [<code>Declare ScalePlane_16() in libyuv/scale.h</code>](https://github.com/AOMediaCodec/libavif/commit/076a4556a450559b98c28acc4e3f96a5a34675f9)
+- [ ] [<code>Fix warnings about avifSampleTableGetImageDelta()</code>](https://github.com/AOMediaCodec/libavif/commit/3ce89ffec7a6d64e6d6a9b82bb3a60d58260797b)
+- [ ] [<code>v1.1.1</code>](https://github.com/AOMediaCodec/libavif/commit/bb24db03cd99befe09c87b602e36f24d75a980d1)
+  - <sub>Tags: <code>v1.1.1</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/175626239f501902b7eb6fccc81f971a58ae6fca)
+- [ ] [<code>Add ci-windows-shared-local.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3bd4c0f2647a0bedad773c039391c9840ca51cfc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1820,6 +1849,8 @@
 - [ ] [<code>Add link to the authentication setup FAQ from the certificate generation and reuse pages (#821)</code>](https://github.com/canonical/lxd-ui/commit/eca632241e69c56d5988d6945ebd9931823d7838)
 - [ ] [<code>[WD-13254] test: network forms</code>](https://github.com/canonical/lxd-ui/commit/25094246f4ad0b758f79f1d187f0b4844627891b)
 - [ ] [<code>[WD-13254] test: network forms (#822)</code>](https://github.com/canonical/lxd-ui/commit/4d1421df4b81610ee229195f1afc713270195a30)
+- [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update WD-13755</code>](https://github.com/canonical/lxd-ui/commit/aea24ad11ec85fea8fc69d0cf1dcb3c40f48a01f)
+- [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update (#823)</code>](https://github.com/canonical/lxd-ui/commit/ae29e8ec8c4ac43dec5ff4605e1e2a10fd57b7ae)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2402,6 +2433,10 @@
 - [ ] [<code>generate: avoid calling 'udevadm control --reload' (LP: #1999178)</code>](https://github.com/canonical/netplan/commit/05fcc806ad2a4ae9af493f863596a606fbf7da25)
   - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
 - [ ] [<code>rpm: require udev for tests</code>](https://github.com/canonical/netplan/commit/666b2da06b2c2156e7f8803898595220021907e5)
+- [ ] [<code>meson: Add 'testing' option</code>](https://github.com/canonical/netplan/commit/108de85e21b5068bc5d9449bfe32e0aa3084f87c)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>CI: Update DebCI to ubuntu-22.04 runners</code>](https://github.com/canonical/netplan/commit/427a709e0f71b9622e7ad4aa132bbef2a959c7da)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2783,3 +2818,5 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
 
+- [ ] [<code>Add fallback support for the Secret portal.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6b199b19e7d9a2fd4f52d2cfe82d29a8553620f1)
+  - <sub>Files: <code>meson.build</code></sub>
