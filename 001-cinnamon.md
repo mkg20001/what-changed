@@ -1,6 +1,8 @@
 
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.7...HEAD)
 
+- [ ] [<code>x-cinnamon-portals.conf: Add gnome-keyring as the Secret provider.</code>](https://github.com/linuxmint/cinnamon/commit/4629a29f8303cc3976040f6f91961b85daac0b8a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
