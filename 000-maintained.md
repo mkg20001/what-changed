@@ -143,9 +143,13 @@
 
 #### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.6 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.6...HEAD)
 
+- [ ] [<code>feat(snapshot): integrate pool, first version</code>](https://github.com/canonical/dqlite/commit/cd353414274e736dbf971ee56e70294e6fb494ba)
+- [ ] [<code>bugfix(snapshot): add missing state to follower sm</code>](https://github.com/canonical/dqlite/commit/834489e98a1100472eef813aef342a264f8741d2)
 - [ ] [<code>Release v1.16.7</code>](https://github.com/canonical/dqlite/commit/eb777c2c083a18d4657d4ee4ef49ca1d547b2172)
   - <sub>Tags: <code>v1.16.7</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>feat(snapshot): rpc fill and rpc trigger, first version</code>](https://github.com/canonical/dqlite/commit/7de953b70a80e5a80506e05aac3183f9e4b11616)
+- [ ] [<code>feat: pool thread identification</code>](https://github.com/canonical/dqlite/commit/defc3f3f5aa4aed4565ca16633f02ef466668c5a)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -351,6 +355,7 @@
 - [ ] [<code>chore: Follow up highlight event on room open</code>](https://github.com/krille-chan/fluffychat/commit/5f9aa943390c9c587b2e6cf86f5ee56dee91ccff)
 - [ ] [<code>fix: Path correct userId to ignore list</code>](https://github.com/krille-chan/fluffychat/commit/83490de6fd967ba8545d5960c0a6cebd410e0580)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/21e7c3f8cb3898306ba47788a962fba4ef24673d)
+- [ ] [<code>design: Add snackbar with link to changelog on new version</code>](https://github.com/krille-chan/fluffychat/commit/e5bbb755d99c54ec051d66c9cdbf37b2f8568e18)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -526,6 +531,7 @@
 - [ ] [<code>chore: Follow up highlight event on room open</code>](https://github.com/krille-chan/fluffychat/commit/5f9aa943390c9c587b2e6cf86f5ee56dee91ccff)
 - [ ] [<code>fix: Path correct userId to ignore list</code>](https://github.com/krille-chan/fluffychat/commit/83490de6fd967ba8545d5960c0a6cebd410e0580)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/21e7c3f8cb3898306ba47788a962fba4ef24673d)
+- [ ] [<code>design: Add snackbar with link to changelog on new version</code>](https://github.com/krille-chan/fluffychat/commit/e5bbb755d99c54ec051d66c9cdbf37b2f8568e18)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -795,6 +801,7 @@
 - [ ] [<code>tests/clustering: Use correct target project argument</code>](https://github.com/lxc/incus/commit/8366dfbe8026f75d4c23cb757b90b12f686614fc)
 - [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/storage/zfs: Always call tryGetVolumeDiskPathFromDataset</code>](https://github.com/lxc/incus/commit/ecbe1e1f6cc029b4f4f2c479c81a49b8f4a8cadd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1690,6 +1697,7 @@
 - [ ] [<code>tests/clustering: Use correct target project argument</code>](https://github.com/lxc/incus/commit/8366dfbe8026f75d4c23cb757b90b12f686614fc)
 - [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/storage/zfs: Always call tryGetVolumeDiskPathFromDataset</code>](https://github.com/lxc/incus/commit/ecbe1e1f6cc029b4f4f2c479c81a49b8f4a8cadd)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1795,6 +1803,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Enable warnings in tests</code>](https://github.com/AOMediaCodec/libavif/commit/cb39817f8024abd559ca17ccc0bc14ea17ffd499)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ci-windows-shared-local.yml: enable gain maps</code>](https://github.com/AOMediaCodec/libavif/commit/1c05ae14a6da07c6eede912704cd9b2f6b79676d)
+- [ ] [<code>Use CMake macro for avifincrtest again</code>](https://github.com/AOMediaCodec/libavif/commit/a0041de6143b01189a01f094a247566dff4b5c76)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Adjust scopes of avifincrtest_helpers dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/1f86eb63b18d7bef9b91008b1b373f7628571608)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1860,6 +1874,8 @@
 - [ ] [<code>[WD-13254] test: network forms (#822)</code>](https://github.com/canonical/lxd-ui/commit/4d1421df4b81610ee229195f1afc713270195a30)
 - [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update WD-13755</code>](https://github.com/canonical/lxd-ui/commit/aea24ad11ec85fea8fc69d0cf1dcb3c40f48a01f)
 - [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update (#823)</code>](https://github.com/canonical/lxd-ui/commit/ae29e8ec8c4ac43dec5ff4605e1e2a10fd57b7ae)
+- [ ] [<code>fix: publish image from snapshot created in a project that is not the default project</code>](https://github.com/canonical/lxd-ui/commit/9dca5140621c2e44af776d42f7fb05dddf2a34ff)
+- [ ] [<code>fix: publish image from snapshot created in a project that is not the default project (#825)</code>](https://github.com/canonical/lxd-ui/commit/a54c5da743a0482fcb864c31530939b262f42a06)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2829,3 +2845,6 @@
 
 - [ ] [<code>Add fallback support for the Secret portal.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6b199b19e7d9a2fd4f52d2cfe82d29a8553620f1)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian: Install the new portal file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d008d26de5c001a0465c8868ba8eb99d9ac16a9)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
