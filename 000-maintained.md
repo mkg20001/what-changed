@@ -1790,6 +1790,11 @@
 - [ ] [<code>avifenc: Allow large images to be encoded</code>](https://github.com/AOMediaCodec/libavif/commit/a701174862ce9fcc634af4e1cf33ccc7d12b9b38)
 - [ ] [<code>Add the avif_enable_warnings INTERFACE library</code>](https://github.com/AOMediaCodec/libavif/commit/df33ccbe34a8369fc7ca7087d44c0ec76795ec91)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Compile avif_apps_internal without -DAVIF_DLL</code>](https://github.com/AOMediaCodec/libavif/commit/cde6fcd208692b6c8ccf3c5a3966b2372bf9e5e2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Enable warnings in tests</code>](https://github.com/AOMediaCodec/libavif/commit/cb39817f8024abd559ca17ccc0bc14ea17ffd499)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
