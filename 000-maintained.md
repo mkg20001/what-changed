@@ -1786,6 +1786,10 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/175626239f501902b7eb6fccc81f971a58ae6fca)
 - [ ] [<code>Add ci-windows-shared-local.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3bd4c0f2647a0bedad773c039391c9840ca51cfc)
+- [ ] [<code>libjpeg: Pass -DWITH_CRT_DLL=ON to cmake</code>](https://github.com/AOMediaCodec/libavif/commit/ecf700f6fed742b6abc231242ca055ffed6bea37)
+- [ ] [<code>avifenc: Allow large images to be encoded</code>](https://github.com/AOMediaCodec/libavif/commit/a701174862ce9fcc634af4e1cf33ccc7d12b9b38)
+- [ ] [<code>Add the avif_enable_warnings INTERFACE library</code>](https://github.com/AOMediaCodec/libavif/commit/df33ccbe34a8369fc7ca7087d44c0ec76795ec91)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
