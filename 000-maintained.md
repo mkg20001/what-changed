@@ -150,6 +150,7 @@
   - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>feat(snapshot): rpc fill and rpc trigger, first version</code>](https://github.com/canonical/dqlite/commit/7de953b70a80e5a80506e05aac3183f9e4b11616)
 - [ ] [<code>feat: pool thread identification</code>](https://github.com/canonical/dqlite/commit/defc3f3f5aa4aed4565ca16633f02ef466668c5a)
+- [ ] [<code>pool: Use uintptr_t for pool thread magic number</code>](https://github.com/canonical/dqlite/commit/92e93837fcac062e3c7474b16f45137803d904d9)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -806,6 +807,7 @@
 - [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/storage/zfs: Always call tryGetVolumeDiskPathFromDataset</code>](https://github.com/lxc/incus/commit/ecbe1e1f6cc029b4f4f2c479c81a49b8f4a8cadd)
+- [ ] [<code>incusd/network/ovn: Require functional uplink</code>](https://github.com/lxc/incus/commit/42b5f401583b5a0fba06de5b603a2fdb8e9c760e)
 - [ ] [<code>doc: add colima instructions</code>](https://github.com/lxc/incus/commit/2d566ca757c87efdfe4dfbd7704effb9b5593fb9)
 - [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/1adeb4ca758562c8161ff1139dc565676f0b22fd)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
@@ -1705,6 +1707,7 @@
 - [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/storage/zfs: Always call tryGetVolumeDiskPathFromDataset</code>](https://github.com/lxc/incus/commit/ecbe1e1f6cc029b4f4f2c479c81a49b8f4a8cadd)
+- [ ] [<code>incusd/network/ovn: Require functional uplink</code>](https://github.com/lxc/incus/commit/42b5f401583b5a0fba06de5b603a2fdb8e9c760e)
 - [ ] [<code>doc: add colima instructions</code>](https://github.com/lxc/incus/commit/2d566ca757c87efdfe4dfbd7704effb9b5593fb9)
 - [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/1adeb4ca758562c8161ff1139dc565676f0b22fd)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
@@ -1820,6 +1823,13 @@
 - [ ] [<code>Adjust scopes of avifincrtest_helpers dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/1f86eb63b18d7bef9b91008b1b373f7628571608)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Bump the github-actions group with 4 updates</code>](https://github.com/AOMediaCodec/libavif/commit/f0aba5364d2543d54d09f77629c4dfe58f65bdbf)
+- [ ] [<code>Delete AVIF_ENABLE_WERROR=OFF in oss-fuzz/build.sh</code>](https://github.com/AOMediaCodec/libavif/commit/e251cdbff31ed02b67691161a822e6a2833eb0bc)
+- [ ] [<code>Fix Clang's -Wmissing-field-initializers warnings</code>](https://github.com/AOMediaCodec/libavif/commit/313e2958994f862b6725d98cb457a91dc11bfac5)
+- [ ] [<code>Run cifuzz.yml on pull requests for CMakeLists.txt</code>](https://github.com/AOMediaCodec/libavif/commit/9caff7a58a747df9f13ebe83849f1fc6cc4f2ae2)
+- [ ] [<code>Fix overflows in avifRGBImageAllocatePixels()</code>](https://github.com/AOMediaCodec/libavif/commit/6b0a47b53604d8cdd8f44dcf7bc4bc69fb5fa6f5)
+- [ ] [<code>In setup-common action, bump recent-cmake to 3.21</code>](https://github.com/AOMediaCodec/libavif/commit/f3c8441425256c4b257395d87ddb5b3586118ea4)
+- [ ] [<code>Enable compiler warnings in fuzztest targets</code>](https://github.com/AOMediaCodec/libavif/commit/622ec93758d1d2f966b84cd785dbe66295658847)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
