@@ -356,6 +356,8 @@
 - [ ] [<code>fix: Path correct userId to ignore list</code>](https://github.com/krille-chan/fluffychat/commit/83490de6fd967ba8545d5960c0a6cebd410e0580)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/21e7c3f8cb3898306ba47788a962fba4ef24673d)
 - [ ] [<code>design: Add snackbar with link to changelog on new version</code>](https://github.com/krille-chan/fluffychat/commit/e5bbb755d99c54ec051d66c9cdbf37b2f8568e18)
+- [ ] [<code>refactor: Only initialize FlutterLocalNotificationsPlugin once</code>](https://github.com/krille-chan/fluffychat/commit/d3a13705bde9195d0c86825382d787493607a2d2)
+- [ ] [<code>Revert "refactor: Only initialize FlutterLocalNotificationsPlugin once"</code>](https://github.com/krille-chan/fluffychat/commit/a928ecec1e0272417fa35ef97112032e6de184f0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -532,6 +534,8 @@
 - [ ] [<code>fix: Path correct userId to ignore list</code>](https://github.com/krille-chan/fluffychat/commit/83490de6fd967ba8545d5960c0a6cebd410e0580)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/21e7c3f8cb3898306ba47788a962fba4ef24673d)
 - [ ] [<code>design: Add snackbar with link to changelog on new version</code>](https://github.com/krille-chan/fluffychat/commit/e5bbb755d99c54ec051d66c9cdbf37b2f8568e18)
+- [ ] [<code>refactor: Only initialize FlutterLocalNotificationsPlugin once</code>](https://github.com/krille-chan/fluffychat/commit/d3a13705bde9195d0c86825382d787493607a2d2)
+- [ ] [<code>Revert "refactor: Only initialize FlutterLocalNotificationsPlugin once"</code>](https://github.com/krille-chan/fluffychat/commit/a928ecec1e0272417fa35ef97112032e6de184f0)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -802,6 +806,9 @@
 - [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/storage/zfs: Always call tryGetVolumeDiskPathFromDataset</code>](https://github.com/lxc/incus/commit/ecbe1e1f6cc029b4f4f2c479c81a49b8f4a8cadd)
+- [ ] [<code>doc: add colima instructions</code>](https://github.com/lxc/incus/commit/2d566ca757c87efdfe4dfbd7704effb9b5593fb9)
+- [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/1adeb4ca758562c8161ff1139dc565676f0b22fd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1698,6 +1705,9 @@
 - [ ] [<code>incusd/isntance/edk2: Fix CSM handling</code>](https://github.com/lxc/incus/commit/8e33c788fa48ffceaf5a4f91eeb9835141dd7862)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/storage/zfs: Always call tryGetVolumeDiskPathFromDataset</code>](https://github.com/lxc/incus/commit/ecbe1e1f6cc029b4f4f2c479c81a49b8f4a8cadd)
+- [ ] [<code>doc: add colima instructions</code>](https://github.com/lxc/incus/commit/2d566ca757c87efdfe4dfbd7704effb9b5593fb9)
+- [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/1adeb4ca758562c8161ff1139dc565676f0b22fd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1809,6 +1819,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Adjust scopes of avifincrtest_helpers dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/1f86eb63b18d7bef9b91008b1b373f7628571608)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump the github-actions group with 4 updates</code>](https://github.com/AOMediaCodec/libavif/commit/f0aba5364d2543d54d09f77629c4dfe58f65bdbf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
