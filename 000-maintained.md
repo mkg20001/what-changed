@@ -815,6 +815,8 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f56c961444d35b380090644c3a86db237a0894b3)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/network/ovn: Fix crash on uninitialized external IDs</code>](https://github.com/lxc/incus/commit/667168c75de63a765c563b70f3606a6cf8e8a10b)
+- [ ] [<code>doc/instances: Add VM agent install instructions</code>](https://github.com/lxc/incus/commit/f92d3d83ce67a25e6ee0aacfa804bd7167e75e52)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1719,6 +1721,8 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f56c961444d35b380090644c3a86db237a0894b3)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/network/ovn: Fix crash on uninitialized external IDs</code>](https://github.com/lxc/incus/commit/667168c75de63a765c563b70f3606a6cf8e8a10b)
+- [ ] [<code>doc/instances: Add VM agent install instructions</code>](https://github.com/lxc/incus/commit/f92d3d83ce67a25e6ee0aacfa804bd7167e75e52)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1839,6 +1843,8 @@
 - [ ] [<code>Enable compiler warnings in fuzztest targets</code>](https://github.com/AOMediaCodec/libavif/commit/622ec93758d1d2f966b84cd785dbe66295658847)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>alpha.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/39cf485d8958002693508edbc232eebbfdfce07c)
+- [ ] [<code>Do not define AVIF_ENABLE_NODISCARD for avif.h</code>](https://github.com/AOMediaCodec/libavif/commit/93b4ad40a4b07ddfa0f855ee8731d6b3287d55b0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2684,7 +2690,7 @@
 
 #### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.7.25.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.8.1.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.8.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.37.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.2...HEAD)
