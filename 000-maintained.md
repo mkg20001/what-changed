@@ -811,6 +811,10 @@
 - [ ] [<code>doc: add colima instructions</code>](https://github.com/lxc/incus/commit/2d566ca757c87efdfe4dfbd7704effb9b5593fb9)
 - [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/1adeb4ca758562c8161ff1139dc565676f0b22fd)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/network/load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/ef998f634d4704a7ea04f236a16e053cd2edb2e4)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f56c961444d35b380090644c3a86db237a0894b3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovn: Fix crash on uninitialized external IDs</code>](https://github.com/lxc/incus/commit/667168c75de63a765c563b70f3606a6cf8e8a10b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1711,6 +1715,10 @@
 - [ ] [<code>doc: add colima instructions</code>](https://github.com/lxc/incus/commit/2d566ca757c87efdfe4dfbd7704effb9b5593fb9)
 - [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/1adeb4ca758562c8161ff1139dc565676f0b22fd)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/network/load_balancer: Fix example</code>](https://github.com/lxc/incus/commit/ef998f634d4704a7ea04f236a16e053cd2edb2e4)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/f56c961444d35b380090644c3a86db237a0894b3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/ovn: Fix crash on uninitialized external IDs</code>](https://github.com/lxc/incus/commit/667168c75de63a765c563b70f3606a6cf8e8a10b)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1830,6 +1838,7 @@
 - [ ] [<code>In setup-common action, bump recent-cmake to 3.21</code>](https://github.com/AOMediaCodec/libavif/commit/f3c8441425256c4b257395d87ddb5b3586118ea4)
 - [ ] [<code>Enable compiler warnings in fuzztest targets</code>](https://github.com/AOMediaCodec/libavif/commit/622ec93758d1d2f966b84cd785dbe66295658847)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>alpha.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/39cf485d8958002693508edbc232eebbfdfce07c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
