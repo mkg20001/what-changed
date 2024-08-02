@@ -1912,6 +1912,12 @@
 - [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update (#823)</code>](https://github.com/canonical/lxd-ui/commit/ae29e8ec8c4ac43dec5ff4605e1e2a10fd57b7ae)
 - [ ] [<code>fix: publish image from snapshot created in a project that is not the default project</code>](https://github.com/canonical/lxd-ui/commit/9dca5140621c2e44af776d42f7fb05dddf2a34ff)
 - [ ] [<code>fix: publish image from snapshot created in a project that is not the default project (#825)</code>](https://github.com/canonical/lxd-ui/commit/a54c5da743a0482fcb864c31530939b262f42a06)
+- [ ] [<code>update: add support for instance_create_start api extension</code>](https://github.com/canonical/lxd-ui/commit/5c5ac36d78cdee78df413c3449ae705f8f8d7475)
+- [ ] [<code>update: add support for instance_create_start api extension [WD-13645] (#826)</code>](https://github.com/canonical/lxd-ui/commit/e6f32aecafb3e446353f48f30308e9bffe15cfd3)
+- [ ] [<code>fix: add type checks in linting script</code>](https://github.com/canonical/lxd-ui/commit/9275d3523aeecd53fcd7652a0853a0dd9c70eb12)
+- [ ] [<code>fix: add type checks in linting script [WD-13573] (#827)</code>](https://github.com/canonical/lxd-ui/commit/506ca8529aa655e749e262b5b4f1f015f67ef777)
+- [ ] [<code>fix: invalidate query cache when creating custom storage volume</code>](https://github.com/canonical/lxd-ui/commit/deffa910e4f2df2f9925e76cf9e69428233246f0)
+- [ ] [<code>fix: invalidate query cache when creating custom storage volume [WD-13879] (#829)</code>](https://github.com/canonical/lxd-ui/commit/3381df92c2008b4edda6371db1ac47bab2c850a8)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2882,5 +2888,8 @@
 - [ ] [<code>Add fallback support for the Secret portal.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6b199b19e7d9a2fd4f52d2cfe82d29a8553620f1)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian: Install the new portal file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d008d26de5c001a0465c8868ba8eb99d9ac16a9)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Don't try to initialize gtk, use GMainLoop instead.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/54fca8b5b6a2b5443a84f9b2106ebc49463dec44)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
