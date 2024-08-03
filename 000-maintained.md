@@ -1845,6 +1845,8 @@
 - [ ] [<code>alpha.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/39cf485d8958002693508edbc232eebbfdfce07c)
 - [ ] [<code>Do not define AVIF_ENABLE_NODISCARD for avif.h</code>](https://github.com/AOMediaCodec/libavif/commit/93b4ad40a4b07ddfa0f855ee8731d6b3287d55b0)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>LocalGTest.cmake: set BUILD_GMOCK option to OFF</code>](https://github.com/AOMediaCodec/libavif/commit/a16183b884cb418e4745ac0d40d1713ce8d832a0)
+- [ ] [<code>Require allocation size be <= PTRDIFF_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/9ea9a940e5df297ded04542c24b757b335dee319)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
