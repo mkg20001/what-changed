@@ -817,6 +817,13 @@
 - [ ] [<code>incusd/network/ovn: Fix crash on uninitialized external IDs</code>](https://github.com/lxc/incus/commit/667168c75de63a765c563b70f3606a6cf8e8a10b)
 - [ ] [<code>doc/instances: Add VM agent install instructions</code>](https://github.com/lxc/incus/commit/f92d3d83ce67a25e6ee0aacfa804bd7167e75e52)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/api: Add Config to ServerUntrusted</code>](https://github.com/lxc/incus/commit/58bad8bf0db1ff09b1adef96c4d46633deb0a246)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/7608531d9b5f62f584fca04f87593deffe6783c6)
+- [ ] [<code>incusd/api_1.0: Expose user.ui config keys to all clients</code>](https://github.com/lxc/incus/commit/c2c87cac5c1d063fdef5443a735ddac9fbec59da)
+- [ ] [<code>doc/server: Mention user.ui config keys</code>](https://github.com/lxc/incus/commit/5a60d4443fd66c81d31fbf0a2f9f8980c9b9817d)
+- [ ] [<code>incusd/auth/oidc: Better handle logout</code>](https://github.com/lxc/incus/commit/e0d57b889f290fcc936aaf1159f5a8961e60407c)
+- [ ] [<code>incusd/networks: Emit lifecycle event and authz entries for OVN networks</code>](https://github.com/lxc/incus/commit/95ede113e5c51a4958a9384d0615ad5a58f72060)
+- [ ] [<code>incusd/network/ovn: Fix indent</code>](https://github.com/lxc/incus/commit/f8f6d3fc1a790df8a526c7e2a885ba25d9364e47)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1723,6 +1730,13 @@
 - [ ] [<code>incusd/network/ovn: Fix crash on uninitialized external IDs</code>](https://github.com/lxc/incus/commit/667168c75de63a765c563b70f3606a6cf8e8a10b)
 - [ ] [<code>doc/instances: Add VM agent install instructions</code>](https://github.com/lxc/incus/commit/f92d3d83ce67a25e6ee0aacfa804bd7167e75e52)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/api: Add Config to ServerUntrusted</code>](https://github.com/lxc/incus/commit/58bad8bf0db1ff09b1adef96c4d46633deb0a246)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/7608531d9b5f62f584fca04f87593deffe6783c6)
+- [ ] [<code>incusd/api_1.0: Expose user.ui config keys to all clients</code>](https://github.com/lxc/incus/commit/c2c87cac5c1d063fdef5443a735ddac9fbec59da)
+- [ ] [<code>doc/server: Mention user.ui config keys</code>](https://github.com/lxc/incus/commit/5a60d4443fd66c81d31fbf0a2f9f8980c9b9817d)
+- [ ] [<code>incusd/auth/oidc: Better handle logout</code>](https://github.com/lxc/incus/commit/e0d57b889f290fcc936aaf1159f5a8961e60407c)
+- [ ] [<code>incusd/networks: Emit lifecycle event and authz entries for OVN networks</code>](https://github.com/lxc/incus/commit/95ede113e5c51a4958a9384d0615ad5a58f72060)
+- [ ] [<code>incusd/network/ovn: Fix indent</code>](https://github.com/lxc/incus/commit/f8f6d3fc1a790df8a526c7e2a885ba25d9364e47)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2679,6 +2693,9 @@
 - [ ] [<code>refactor(gui): fix gtk-rs-core deprecations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6150a9ba798cbabc62bd781a8cffa02b891dc71)
 - [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/190a198ed8a3a1dad9699c3b914b2bcdd233622b)
 - [ ] [<code>refactor(gui): fix gtk-rs-core deprecations in tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/25483f520104a2fb2e5d39379dd74a4d6f8c5f23)
+- [ ] [<code>feat(android): show title of current route in top header bar</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49e27c4feff7eea8953b2b81eb30ab018dced88a)
+- [ ] [<code>fix(android): show notice when no profiles exist during import/export</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c1f53177f5bae9da6fb606191752ff85095d1a32)
+- [ ] [<code>fix(android): export text field should fill screen's width</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9d12404ee9724d6b0a4feddf2f422b5135437084)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
