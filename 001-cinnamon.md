@@ -2,7 +2,9 @@
 #### [cinnamon.cinnamon-common](https://github.com/linuxmint/cinnamon): [6.2.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.2.7...HEAD)
 
 - [ ] [<code>x-cinnamon-portals.conf: Add gnome-keyring as the Secret provider.</code>](https://github.com/linuxmint/cinnamon/commit/4629a29f8303cc3976040f6f91961b85daac0b8a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.2.8</code>](https://github.com/linuxmint/cinnamon/commit/ae679ce02dd5b67f5016dc98795abd1a42db68e6)
+  - <sub>Tags: <code>6.2.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -67,8 +69,10 @@
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.6 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.6...HEAD)
 
 - [ ] [<code>actions: Add better documentation, fix misleading warning message.</code>](https://github.com/linuxmint/nemo/commit/90a33a9c3f8d2bc21af45e9f4e696003d63fc740)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>6.2.7</code>](https://github.com/linuxmint/nemo/commit/a339fd3365884cb2ee8b8db5b3e7109822e18eda)
+  - <sub>Tags: <code>6.2.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
