@@ -359,6 +359,11 @@
 - [ ] [<code>design: Add snackbar with link to changelog on new version</code>](https://github.com/krille-chan/fluffychat/commit/e5bbb755d99c54ec051d66c9cdbf37b2f8568e18)
 - [ ] [<code>refactor: Only initialize FlutterLocalNotificationsPlugin once</code>](https://github.com/krille-chan/fluffychat/commit/d3a13705bde9195d0c86825382d787493607a2d2)
 - [ ] [<code>Revert "refactor: Only initialize FlutterLocalNotificationsPlugin once"</code>](https://github.com/krille-chan/fluffychat/commit/a928ecec1e0272417fa35ef97112032e6de184f0)
+- [ ] [<code>refactor: Migrate android gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/3f02c5010b62c3a51ee8f43d6aa8a6a9e3722abb)
+- [ ] [<code>feat: Convert opus to aac on iOS before playing</code>](https://github.com/krille-chan/fluffychat/commit/0bd61ced3fbb0cfd970a2fb23eef7fbd6676872c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Record voice message with opus/ogg if supported</code>](https://github.com/krille-chan/fluffychat/commit/a7473af40f8d118741204ad86d2a786400da6a1d)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -537,6 +542,11 @@
 - [ ] [<code>design: Add snackbar with link to changelog on new version</code>](https://github.com/krille-chan/fluffychat/commit/e5bbb755d99c54ec051d66c9cdbf37b2f8568e18)
 - [ ] [<code>refactor: Only initialize FlutterLocalNotificationsPlugin once</code>](https://github.com/krille-chan/fluffychat/commit/d3a13705bde9195d0c86825382d787493607a2d2)
 - [ ] [<code>Revert "refactor: Only initialize FlutterLocalNotificationsPlugin once"</code>](https://github.com/krille-chan/fluffychat/commit/a928ecec1e0272417fa35ef97112032e6de184f0)
+- [ ] [<code>refactor: Migrate android gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/3f02c5010b62c3a51ee8f43d6aa8a6a9e3722abb)
+- [ ] [<code>feat: Convert opus to aac on iOS before playing</code>](https://github.com/krille-chan/fluffychat/commit/0bd61ced3fbb0cfd970a2fb23eef7fbd6676872c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Record voice message with opus/ogg if supported</code>](https://github.com/krille-chan/fluffychat/commit/a7473af40f8d118741204ad86d2a786400da6a1d)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -824,6 +834,8 @@
 - [ ] [<code>incusd/auth/oidc: Better handle logout</code>](https://github.com/lxc/incus/commit/e0d57b889f290fcc936aaf1159f5a8961e60407c)
 - [ ] [<code>incusd/networks: Emit lifecycle event and authz entries for OVN networks</code>](https://github.com/lxc/incus/commit/95ede113e5c51a4958a9384d0615ad5a58f72060)
 - [ ] [<code>incusd/network/ovn: Fix indent</code>](https://github.com/lxc/incus/commit/f8f6d3fc1a790df8a526c7e2a885ba25d9364e47)
+- [ ] [<code>doc/storage_volume: Fix snapshot command</code>](https://github.com/lxc/incus/commit/4d97b05d174868e62ef65b548409288088315e07)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1737,6 +1749,8 @@
 - [ ] [<code>incusd/auth/oidc: Better handle logout</code>](https://github.com/lxc/incus/commit/e0d57b889f290fcc936aaf1159f5a8961e60407c)
 - [ ] [<code>incusd/networks: Emit lifecycle event and authz entries for OVN networks</code>](https://github.com/lxc/incus/commit/95ede113e5c51a4958a9384d0615ad5a58f72060)
 - [ ] [<code>incusd/network/ovn: Fix indent</code>](https://github.com/lxc/incus/commit/f8f6d3fc1a790df8a526c7e2a885ba25d9364e47)
+- [ ] [<code>doc/storage_volume: Fix snapshot command</code>](https://github.com/lxc/incus/commit/4d97b05d174868e62ef65b548409288088315e07)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2909,6 +2923,8 @@
 - [ ] [<code>debian: Install the new portal file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d008d26de5c001a0465c8868ba8eb99d9ac16a9)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Don't try to initialize gtk, use GMainLoop instead.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/54fca8b5b6a2b5443a84f9b2106ebc49463dec44)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>1.0.9</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/853cff4bf4c95bd6146f13d046a449f5a51c48c5)
+  - <sub>Tags: <code>1.0.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
