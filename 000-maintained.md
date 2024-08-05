@@ -848,6 +848,16 @@
 - [ ] [<code>incusd/lifecycle: Add lifecycle events for cluster evacuation and healing</code>](https://github.com/lxc/incus/commit/a636b6ea6ec65b431adb41ae4d7effcd352f8d41)
 - [ ] [<code>incusd/cluster: Add lifecycle events for evacuation</code>](https://github.com/lxc/incus/commit/6326d9be173b858c5f97bb81be23cc6ff5a71e5a)
 - [ ] [<code>incusd/request: Strip port from event address</code>](https://github.com/lxc/incus/commit/58a0f1a73db736c7b8c463836c938e325e4ed0b0)
+- [ ] [<code>incusd/instance: Properly link instance and operation</code>](https://github.com/lxc/incus/commit/72d2bca7d0805ec506898a5c20f2acbc3a6f80d1)
+- [ ] [<code>incusd/operations: Add CopyRequestor for nested operations</code>](https://github.com/lxc/incus/commit/be12a2318c8a18a0d822bf5b017b16173442e780)
+- [ ] [<code>incusd/instance: Track operation during exec/console</code>](https://github.com/lxc/incus/commit/3a0c790965f3fcfc4d56888ce55be55b602995ce)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/clustering: Better document healing</code>](https://github.com/lxc/incus/commit/fc1d7d0191d46ff0fb1efd0130a8b717aa09b011)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Track operation during creation</code>](https://github.com/lxc/incus/commit/b714fbc76eee1a69e17e751d4ea525445d356a09)
+- [ ] [<code>incusd/instance: Track operation during deletion</code>](https://github.com/lxc/incus/commit/70c54be31bd8a2729c1b75bad11d94339bc98a40)
+- [ ] [<code>incusd/instance: Keep track of API operations</code>](https://github.com/lxc/incus/commit/011c8714cae0a429bdd479fe5c54e42546e70e9b)
+- [ ] [<code>incusd/instance: Set operations on snapshot</code>](https://github.com/lxc/incus/commit/4f5c453b6e6e5dd02b8f050133fb54a71d29ea55)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1775,6 +1785,16 @@
 - [ ] [<code>incusd/lifecycle: Add lifecycle events for cluster evacuation and healing</code>](https://github.com/lxc/incus/commit/a636b6ea6ec65b431adb41ae4d7effcd352f8d41)
 - [ ] [<code>incusd/cluster: Add lifecycle events for evacuation</code>](https://github.com/lxc/incus/commit/6326d9be173b858c5f97bb81be23cc6ff5a71e5a)
 - [ ] [<code>incusd/request: Strip port from event address</code>](https://github.com/lxc/incus/commit/58a0f1a73db736c7b8c463836c938e325e4ed0b0)
+- [ ] [<code>incusd/instance: Properly link instance and operation</code>](https://github.com/lxc/incus/commit/72d2bca7d0805ec506898a5c20f2acbc3a6f80d1)
+- [ ] [<code>incusd/operations: Add CopyRequestor for nested operations</code>](https://github.com/lxc/incus/commit/be12a2318c8a18a0d822bf5b017b16173442e780)
+- [ ] [<code>incusd/instance: Track operation during exec/console</code>](https://github.com/lxc/incus/commit/3a0c790965f3fcfc4d56888ce55be55b602995ce)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/clustering: Better document healing</code>](https://github.com/lxc/incus/commit/fc1d7d0191d46ff0fb1efd0130a8b717aa09b011)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Track operation during creation</code>](https://github.com/lxc/incus/commit/b714fbc76eee1a69e17e751d4ea525445d356a09)
+- [ ] [<code>incusd/instance: Track operation during deletion</code>](https://github.com/lxc/incus/commit/70c54be31bd8a2729c1b75bad11d94339bc98a40)
+- [ ] [<code>incusd/instance: Keep track of API operations</code>](https://github.com/lxc/incus/commit/011c8714cae0a429bdd479fe5c54e42546e70e9b)
+- [ ] [<code>incusd/instance: Set operations on snapshot</code>](https://github.com/lxc/incus/commit/4f5c453b6e6e5dd02b8f050133fb54a71d29ea55)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1899,6 +1919,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>LocalGTest.cmake: set BUILD_GMOCK option to OFF</code>](https://github.com/AOMediaCodec/libavif/commit/a16183b884cb418e4745ac0d40d1713ce8d832a0)
 - [ ] [<code>Require allocation size be <= PTRDIFF_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/9ea9a940e5df297ded04542c24b757b335dee319)
+- [ ] [<code>Add sato BIT_DEPTH_EXTENSION_12B_8B_OVERLAP_4B (#2215)</code>](https://github.com/AOMediaCodec/libavif/commit/c898b5eb98738d5e133cb8643a13c237b3bb47d0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
