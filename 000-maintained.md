@@ -836,6 +836,18 @@
 - [ ] [<code>incusd/network/ovn: Fix indent</code>](https://github.com/lxc/incus/commit/f8f6d3fc1a790df8a526c7e2a885ba25d9364e47)
 - [ ] [<code>doc/storage_volume: Fix snapshot command</code>](https://github.com/lxc/incus/commit/4d97b05d174868e62ef65b548409288088315e07)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Add EventLifecycleInstanceMigrated</code>](https://github.com/lxc/incus/commit/477d89a470eeafcc406abd1cdcf49a7e9b012b28)
+- [ ] [<code>shared/api: Sort lifecycle events</code>](https://github.com/lxc/incus/commit/0d892c70dafdb470247d6e88022e8c1da9efeb3b)
+- [ ] [<code>incusd/lifecycle: Add InstanceMigrated</code>](https://github.com/lxc/incus/commit/2f602eb42a5dab419dbdf1627093a7d451035bdd)
+- [ ] [<code>incusd/lifecycle: Sort lifecycle events</code>](https://github.com/lxc/incus/commit/a6eb5bf071a17330fdbc8269b7a26f88b21f7749)
+- [ ] [<code>incusd/isntance/operationlock: Add ActionMigrate</code>](https://github.com/lxc/incus/commit/77f25c79db044ffe82d4b11fa336e97cc6db3420)
+- [ ] [<code>incusd/instance/common: Add support for migration operation</code>](https://github.com/lxc/incus/commit/59534923ef4b35692e10aa4821be6ff69b77b470)
+- [ ] [<code>incusd/instance/qemu: Add support for migration operation and lifecycle</code>](https://github.com/lxc/incus/commit/445e453fc8ac8f878d6aae8aca5563c1058f236c)
+- [ ] [<code>incusd/instance/lxc: Add support for migration operation and lifecycle</code>](https://github.com/lxc/incus/commit/49932b1806ad6109b91435206ef2e80071060d3a)
+- [ ] [<code>shared/api: Add lifecycle events for cluster evacuation and healing</code>](https://github.com/lxc/incus/commit/27548c58618596bec278d5188824d5612b7db863)
+- [ ] [<code>incusd/lifecycle: Add lifecycle events for cluster evacuation and healing</code>](https://github.com/lxc/incus/commit/a636b6ea6ec65b431adb41ae4d7effcd352f8d41)
+- [ ] [<code>incusd/cluster: Add lifecycle events for evacuation</code>](https://github.com/lxc/incus/commit/6326d9be173b858c5f97bb81be23cc6ff5a71e5a)
+- [ ] [<code>incusd/request: Strip port from event address</code>](https://github.com/lxc/incus/commit/58a0f1a73db736c7b8c463836c938e325e4ed0b0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1751,6 +1763,18 @@
 - [ ] [<code>incusd/network/ovn: Fix indent</code>](https://github.com/lxc/incus/commit/f8f6d3fc1a790df8a526c7e2a885ba25d9364e47)
 - [ ] [<code>doc/storage_volume: Fix snapshot command</code>](https://github.com/lxc/incus/commit/4d97b05d174868e62ef65b548409288088315e07)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Add EventLifecycleInstanceMigrated</code>](https://github.com/lxc/incus/commit/477d89a470eeafcc406abd1cdcf49a7e9b012b28)
+- [ ] [<code>shared/api: Sort lifecycle events</code>](https://github.com/lxc/incus/commit/0d892c70dafdb470247d6e88022e8c1da9efeb3b)
+- [ ] [<code>incusd/lifecycle: Add InstanceMigrated</code>](https://github.com/lxc/incus/commit/2f602eb42a5dab419dbdf1627093a7d451035bdd)
+- [ ] [<code>incusd/lifecycle: Sort lifecycle events</code>](https://github.com/lxc/incus/commit/a6eb5bf071a17330fdbc8269b7a26f88b21f7749)
+- [ ] [<code>incusd/isntance/operationlock: Add ActionMigrate</code>](https://github.com/lxc/incus/commit/77f25c79db044ffe82d4b11fa336e97cc6db3420)
+- [ ] [<code>incusd/instance/common: Add support for migration operation</code>](https://github.com/lxc/incus/commit/59534923ef4b35692e10aa4821be6ff69b77b470)
+- [ ] [<code>incusd/instance/qemu: Add support for migration operation and lifecycle</code>](https://github.com/lxc/incus/commit/445e453fc8ac8f878d6aae8aca5563c1058f236c)
+- [ ] [<code>incusd/instance/lxc: Add support for migration operation and lifecycle</code>](https://github.com/lxc/incus/commit/49932b1806ad6109b91435206ef2e80071060d3a)
+- [ ] [<code>shared/api: Add lifecycle events for cluster evacuation and healing</code>](https://github.com/lxc/incus/commit/27548c58618596bec278d5188824d5612b7db863)
+- [ ] [<code>incusd/lifecycle: Add lifecycle events for cluster evacuation and healing</code>](https://github.com/lxc/incus/commit/a636b6ea6ec65b431adb41ae4d7effcd352f8d41)
+- [ ] [<code>incusd/cluster: Add lifecycle events for evacuation</code>](https://github.com/lxc/incus/commit/6326d9be173b858c5f97bb81be23cc6ff5a71e5a)
+- [ ] [<code>incusd/request: Strip port from event address</code>](https://github.com/lxc/incus/commit/58a0f1a73db736c7b8c463836c938e325e4ed0b0)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1948,6 +1972,8 @@
 - [ ] [<code>fix: add type checks in linting script [WD-13573] (#827)</code>](https://github.com/canonical/lxd-ui/commit/506ca8529aa655e749e262b5b4f1f015f67ef777)
 - [ ] [<code>fix: invalidate query cache when creating custom storage volume</code>](https://github.com/canonical/lxd-ui/commit/deffa910e4f2df2f9925e76cf9e69428233246f0)
 - [ ] [<code>fix: invalidate query cache when creating custom storage volume [WD-13879] (#829)</code>](https://github.com/canonical/lxd-ui/commit/3381df92c2008b4edda6371db1ac47bab2c850a8)
+- [ ] [<code>fix: adjust copy for project form</code>](https://github.com/canonical/lxd-ui/commit/0ebee2488d6c4ac458208a91ee1f614981727bc8)
+- [ ] [<code>fix: adjust copy for project form (#830)</code>](https://github.com/canonical/lxd-ui/commit/089dd6b9180e8d68d7d130f593890ee0a32c8b99)
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
