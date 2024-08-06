@@ -865,6 +865,8 @@
 - [ ] [<code>incus-migrate: Properly handle projects</code>](https://github.com/lxc/incus/commit/e47c65e1719f13d2111814731c5f8d8acf4bef8f)
 - [ ] [<code>incusd/apparmor: Allow mounting zfs when delegation is supported</code>](https://github.com/lxc/incus/commit/4f36af5ab95e6cf54d55e0234124c6a0bf95d323)
 - [ ] [<code>doc/clustering: Add howto on cluster access</code>](https://github.com/lxc/incus/commit/16a1d578b5fde52b88e8672ac439dfb9bb176ab3)
+- [ ] [<code>cmd/incusd: Set keep-alive timeout</code>](https://github.com/lxc/incus/commit/60850ac2fc49119605b6107d6a62d77ac51673ee)
+- [ ] [<code>incusd/auth/oidc: Handle cases where we can't set cookies</code>](https://github.com/lxc/incus/commit/6ece9286fbfa8986dfb617f7dc623d1f707d4628)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1805,6 +1807,8 @@
 - [ ] [<code>incus-migrate: Properly handle projects</code>](https://github.com/lxc/incus/commit/e47c65e1719f13d2111814731c5f8d8acf4bef8f)
 - [ ] [<code>incusd/apparmor: Allow mounting zfs when delegation is supported</code>](https://github.com/lxc/incus/commit/4f36af5ab95e6cf54d55e0234124c6a0bf95d323)
 - [ ] [<code>doc/clustering: Add howto on cluster access</code>](https://github.com/lxc/incus/commit/16a1d578b5fde52b88e8672ac439dfb9bb176ab3)
+- [ ] [<code>cmd/incusd: Set keep-alive timeout</code>](https://github.com/lxc/incus/commit/60850ac2fc49119605b6107d6a62d77ac51673ee)
+- [ ] [<code>incusd/auth/oidc: Handle cases where we can't set cookies</code>](https://github.com/lxc/incus/commit/6ece9286fbfa8986dfb617f7dc623d1f707d4628)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2787,7 +2791,7 @@
 
 #### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.8.1.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.8.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.8.6.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.8.6.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.37.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.2...HEAD)
@@ -2895,6 +2899,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix 'is a livestream' button in Classic Mode, #643</code>](https://github.com/axcore/tartube/commit/d5d8a052184cdc55e77a9689a6c84fb881b2ecc7)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix Python 3.12 syntax errors; add pipx compatibility</code>](https://github.com/axcore/tartube/commit/3f130610e454112e3d8c62321d0cf3e3ed888ec2)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2974,15 +2980,5 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.8 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.8...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
 
-- [ ] [<code>Add fallback support for the Secret portal.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/6b199b19e7d9a2fd4f52d2cfe82d29a8553620f1)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>debian: Install the new portal file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2d008d26de5c001a0465c8868ba8eb99d9ac16a9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Don't try to initialize gtk, use GMainLoop instead.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/54fca8b5b6a2b5443a84f9b2106ebc49463dec44)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>1.0.9</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/853cff4bf4c95bd6146f13d046a449f5a51c48c5)
-  - <sub>Tags: <code>1.0.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
