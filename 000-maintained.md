@@ -364,6 +364,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: Record voice message with opus/ogg if supported</code>](https://github.com/krille-chan/fluffychat/commit/a7473af40f8d118741204ad86d2a786400da6a1d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Recording dialog</code>](https://github.com/krille-chan/fluffychat/commit/3286b1938732b76d0825ae3e7841474ad37e14c7)
+- [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -547,6 +549,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: Record voice message with opus/ogg if supported</code>](https://github.com/krille-chan/fluffychat/commit/a7473af40f8d118741204ad86d2a786400da6a1d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Recording dialog</code>](https://github.com/krille-chan/fluffychat/commit/3286b1938732b76d0825ae3e7841474ad37e14c7)
+- [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -858,6 +862,9 @@
 - [ ] [<code>incusd/instance: Track operation during deletion</code>](https://github.com/lxc/incus/commit/70c54be31bd8a2729c1b75bad11d94339bc98a40)
 - [ ] [<code>incusd/instance: Keep track of API operations</code>](https://github.com/lxc/incus/commit/011c8714cae0a429bdd479fe5c54e42546e70e9b)
 - [ ] [<code>incusd/instance: Set operations on snapshot</code>](https://github.com/lxc/incus/commit/4f5c453b6e6e5dd02b8f050133fb54a71d29ea55)
+- [ ] [<code>incus-migrate: Properly handle projects</code>](https://github.com/lxc/incus/commit/e47c65e1719f13d2111814731c5f8d8acf4bef8f)
+- [ ] [<code>incusd/apparmor: Allow mounting zfs when delegation is supported</code>](https://github.com/lxc/incus/commit/4f36af5ab95e6cf54d55e0234124c6a0bf95d323)
+- [ ] [<code>doc/clustering: Add howto on cluster access</code>](https://github.com/lxc/incus/commit/16a1d578b5fde52b88e8672ac439dfb9bb176ab3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1795,6 +1802,9 @@
 - [ ] [<code>incusd/instance: Track operation during deletion</code>](https://github.com/lxc/incus/commit/70c54be31bd8a2729c1b75bad11d94339bc98a40)
 - [ ] [<code>incusd/instance: Keep track of API operations</code>](https://github.com/lxc/incus/commit/011c8714cae0a429bdd479fe5c54e42546e70e9b)
 - [ ] [<code>incusd/instance: Set operations on snapshot</code>](https://github.com/lxc/incus/commit/4f5c453b6e6e5dd02b8f050133fb54a71d29ea55)
+- [ ] [<code>incus-migrate: Properly handle projects</code>](https://github.com/lxc/incus/commit/e47c65e1719f13d2111814731c5f8d8acf4bef8f)
+- [ ] [<code>incusd/apparmor: Allow mounting zfs when delegation is supported</code>](https://github.com/lxc/incus/commit/4f36af5ab95e6cf54d55e0234124c6a0bf95d323)
+- [ ] [<code>doc/clustering: Add howto on cluster access</code>](https://github.com/lxc/incus/commit/16a1d578b5fde52b88e8672ac439dfb9bb176ab3)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1920,6 +1930,7 @@
 - [ ] [<code>LocalGTest.cmake: set BUILD_GMOCK option to OFF</code>](https://github.com/AOMediaCodec/libavif/commit/a16183b884cb418e4745ac0d40d1713ce8d832a0)
 - [ ] [<code>Require allocation size be <= PTRDIFF_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/9ea9a940e5df297ded04542c24b757b335dee319)
 - [ ] [<code>Add sato BIT_DEPTH_EXTENSION_12B_8B_OVERLAP_4B (#2215)</code>](https://github.com/AOMediaCodec/libavif/commit/c898b5eb98738d5e133cb8643a13c237b3bb47d0)
+- [ ] [<code>Fix empty CMAKE_CXX_FLAGS_RELEASE if libaom local</code>](https://github.com/AOMediaCodec/libavif/commit/47f154ae4cdefbdb7f9d86c0017acfe118db260e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
