@@ -867,6 +867,8 @@
 - [ ] [<code>doc/clustering: Add howto on cluster access</code>](https://github.com/lxc/incus/commit/16a1d578b5fde52b88e8672ac439dfb9bb176ab3)
 - [ ] [<code>cmd/incusd: Set keep-alive timeout</code>](https://github.com/lxc/incus/commit/60850ac2fc49119605b6107d6a62d77ac51673ee)
 - [ ] [<code>incusd/auth/oidc: Handle cases where we can't set cookies</code>](https://github.com/lxc/incus/commit/6ece9286fbfa8986dfb617f7dc623d1f707d4628)
+- [ ] [<code>incusd/instance/qemu: Deref ceph config path</code>](https://github.com/lxc/incus/commit/da1c5ec4e391074346c184cefe6893beab854236)
+- [ ] [<code>incusd/apparmor/qemu: Guess ceph config paths</code>](https://github.com/lxc/incus/commit/21c8ed16edd33cdb3af4900992ee924cd2f5d9d7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1809,6 +1811,8 @@
 - [ ] [<code>doc/clustering: Add howto on cluster access</code>](https://github.com/lxc/incus/commit/16a1d578b5fde52b88e8672ac439dfb9bb176ab3)
 - [ ] [<code>cmd/incusd: Set keep-alive timeout</code>](https://github.com/lxc/incus/commit/60850ac2fc49119605b6107d6a62d77ac51673ee)
 - [ ] [<code>incusd/auth/oidc: Handle cases where we can't set cookies</code>](https://github.com/lxc/incus/commit/6ece9286fbfa8986dfb617f7dc623d1f707d4628)
+- [ ] [<code>incusd/instance/qemu: Deref ceph config path</code>](https://github.com/lxc/incus/commit/da1c5ec4e391074346c184cefe6893beab854236)
+- [ ] [<code>incusd/apparmor/qemu: Guess ceph config paths</code>](https://github.com/lxc/incus/commit/21c8ed16edd33cdb3af4900992ee924cd2f5d9d7)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
