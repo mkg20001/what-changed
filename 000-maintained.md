@@ -22,7 +22,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.3/dbeaver-ce-24.1.3-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.3/dbeaver-ce-24.1.3-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.4/dbeaver-ce-24.1.4-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.4/dbeaver-ce-24.1.4-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
@@ -869,6 +869,8 @@
 - [ ] [<code>incusd/auth/oidc: Handle cases where we can't set cookies</code>](https://github.com/lxc/incus/commit/6ece9286fbfa8986dfb617f7dc623d1f707d4628)
 - [ ] [<code>incusd/instance/qemu: Deref ceph config path</code>](https://github.com/lxc/incus/commit/da1c5ec4e391074346c184cefe6893beab854236)
 - [ ] [<code>incusd/apparmor/qemu: Guess ceph config paths</code>](https://github.com/lxc/incus/commit/21c8ed16edd33cdb3af4900992ee924cd2f5d9d7)
+- [ ] [<code>incusd/instance/lxc: Respect LXCFS_OPTS</code>](https://github.com/lxc/incus/commit/94aefb098f4761db57915a12690d1b8b2f796d5c)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1813,6 +1815,8 @@
 - [ ] [<code>incusd/auth/oidc: Handle cases where we can't set cookies</code>](https://github.com/lxc/incus/commit/6ece9286fbfa8986dfb617f7dc623d1f707d4628)
 - [ ] [<code>incusd/instance/qemu: Deref ceph config path</code>](https://github.com/lxc/incus/commit/da1c5ec4e391074346c184cefe6893beab854236)
 - [ ] [<code>incusd/apparmor/qemu: Guess ceph config paths</code>](https://github.com/lxc/incus/commit/21c8ed16edd33cdb3af4900992ee924cd2f5d9d7)
+- [ ] [<code>incusd/instance/lxc: Respect LXCFS_OPTS</code>](https://github.com/lxc/incus/commit/94aefb098f4761db57915a12690d1b8b2f796d5c)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1939,6 +1943,8 @@
 - [ ] [<code>Require allocation size be <= PTRDIFF_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/9ea9a940e5df297ded04542c24b757b335dee319)
 - [ ] [<code>Add sato BIT_DEPTH_EXTENSION_12B_8B_OVERLAP_4B (#2215)</code>](https://github.com/AOMediaCodec/libavif/commit/c898b5eb98738d5e133cb8643a13c237b3bb47d0)
 - [ ] [<code>Fix empty CMAKE_CXX_FLAGS_RELEASE if libaom local</code>](https://github.com/AOMediaCodec/libavif/commit/47f154ae4cdefbdb7f9d86c0017acfe118db260e)
+- [ ] [<code>Remove decoder param of avifCodecGetNextImageFunc</code>](https://github.com/AOMediaCodec/libavif/commit/fd754d4c82a5488cd2e33af09c82238da6e793df)
+- [ ] [<code>Fix a #endif comment</code>](https://github.com/AOMediaCodec/libavif/commit/df5325a736d97e469edeb871a777410791f4f5ef)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
