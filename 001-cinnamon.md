@@ -64,6 +64,9 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.7 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.7...HEAD)
 
+- [ ] [<code>Remove .nemo_action language files from files/usr, they're already</code>](https://github.com/linuxmint/nemo/commit/cbce62f20a8a491799bd38842a830deca0d573df)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
