@@ -363,6 +363,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor: Recording dialog</code>](https://github.com/krille-chan/fluffychat/commit/3286b1938732b76d0825ae3e7841474ad37e14c7)
 - [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
+- [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
+- [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -548,6 +550,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor: Recording dialog</code>](https://github.com/krille-chan/fluffychat/commit/3286b1938732b76d0825ae3e7841474ad37e14c7)
 - [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
+- [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
+- [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -878,6 +882,18 @@
 - [ ] [<code>incusd/network: Port to new OVN state function</code>](https://github.com/lxc/incus/commit/8e73f1b91ea5e2248fa08031ae51defd50afdeb6)
 - [ ] [<code>incus: Add support for environment file (.env)</code>](https://github.com/lxc/incus/commit/64b069484049fffb26b48096d805b7d1836f1f9e)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/23ce0d17ca13c65e6e73268ba4c608ec6bbd6f7d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/lvm: Re-try activation/deactivation</code>](https://github.com/lxc/incus/commit/9ca59bf4bfdfddef188a55e415f0631a7bf068f5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvm: Don't activate volumes during cold migration</code>](https://github.com/lxc/incus/commit/becbeca9c2ba3cb7dd3726b5678b57ca58ea7d84)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/cliconfig: Add CacheDir</code>](https://github.com/lxc/incus/commit/1f2de2fee0337478d92aed97344f1e3d6b16ab1f)
+- [ ] [<code>incus: Configure a cache directory</code>](https://github.com/lxc/incus/commit/4a3a1adaac3a883d7d6d9d78edf65d8beee1be0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: disk_volume_subpath</code>](https://github.com/lxc/incus/commit/9159e59854ad320a9cfe61d293026aeb2f26ed99)
+- [ ] [<code>incusd/device/disk: Allow relative paths within custom volumes</code>](https://github.com/lxc/incus/commit/a6303d7d63665d269c448e9db85cd0fa0282fe7b)
+- [ ] [<code>doc/devices_disk: Mention sub-paths</code>](https://github.com/lxc/incus/commit/662de88994fc8acce81cca8c23b9c1da51cfa276)
+- [ ] [<code>tests: Test volume subpaths</code>](https://github.com/lxc/incus/commit/9e19e19835283d0e44b8c4842bb22685315a4de5)
   - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
@@ -1836,6 +1852,18 @@
 - [ ] [<code>incus: Add support for environment file (.env)</code>](https://github.com/lxc/incus/commit/64b069484049fffb26b48096d805b7d1836f1f9e)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/23ce0d17ca13c65e6e73268ba4c608ec6bbd6f7d)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/lvm: Re-try activation/deactivation</code>](https://github.com/lxc/incus/commit/9ca59bf4bfdfddef188a55e415f0631a7bf068f5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvm: Don't activate volumes during cold migration</code>](https://github.com/lxc/incus/commit/becbeca9c2ba3cb7dd3726b5678b57ca58ea7d84)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/cliconfig: Add CacheDir</code>](https://github.com/lxc/incus/commit/1f2de2fee0337478d92aed97344f1e3d6b16ab1f)
+- [ ] [<code>incus: Configure a cache directory</code>](https://github.com/lxc/incus/commit/4a3a1adaac3a883d7d6d9d78edf65d8beee1be0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: disk_volume_subpath</code>](https://github.com/lxc/incus/commit/9159e59854ad320a9cfe61d293026aeb2f26ed99)
+- [ ] [<code>incusd/device/disk: Allow relative paths within custom volumes</code>](https://github.com/lxc/incus/commit/a6303d7d63665d269c448e9db85cd0fa0282fe7b)
+- [ ] [<code>doc/devices_disk: Mention sub-paths</code>](https://github.com/lxc/incus/commit/662de88994fc8acce81cca8c23b9c1da51cfa276)
+- [ ] [<code>tests: Test volume subpaths</code>](https://github.com/lxc/incus/commit/9e19e19835283d0e44b8c4842bb22685315a4de5)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1965,6 +1993,8 @@
 - [ ] [<code>Remove decoder param of avifCodecGetNextImageFunc</code>](https://github.com/AOMediaCodec/libavif/commit/fd754d4c82a5488cd2e33af09c82238da6e793df)
 - [ ] [<code>Fix a #endif comment</code>](https://github.com/AOMediaCodec/libavif/commit/df5325a736d97e469edeb871a777410791f4f5ef)
 - [ ] [<code>Add comment about stride params of HalfFloatPlane</code>](https://github.com/AOMediaCodec/libavif/commit/9cd0993eb68f026b5e4931833098e3f521d3458f)
+- [ ] [<code>Add local variables to avifImageRGBToYUV()</code>](https://github.com/AOMediaCodec/libavif/commit/1b4ce5ca24a33b5878b7f766de6eaa05c49f08e6)
+- [ ] [<code>Check if it is safe to call libyuv or libsharpyuv</code>](https://github.com/AOMediaCodec/libavif/commit/5b593456d8ae48ffb954a76a8dcb25246804c676)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
