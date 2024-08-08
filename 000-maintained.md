@@ -141,13 +141,10 @@
 - [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
 
-#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.6 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.6...HEAD)
+#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.7 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.7...HEAD)
 
 - [ ] [<code>feat(snapshot): integrate pool, first version</code>](https://github.com/canonical/dqlite/commit/cd353414274e736dbf971ee56e70294e6fb494ba)
 - [ ] [<code>bugfix(snapshot): add missing state to follower sm</code>](https://github.com/canonical/dqlite/commit/834489e98a1100472eef813aef342a264f8741d2)
-- [ ] [<code>Release v1.16.7</code>](https://github.com/canonical/dqlite/commit/eb777c2c083a18d4657d4ee4ef49ca1d547b2172)
-  - <sub>Tags: <code>v1.16.7</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>feat(snapshot): rpc fill and rpc trigger, first version</code>](https://github.com/canonical/dqlite/commit/7de953b70a80e5a80506e05aac3183f9e4b11616)
 - [ ] [<code>feat: pool thread identification</code>](https://github.com/canonical/dqlite/commit/defc3f3f5aa4aed4565ca16633f02ef466668c5a)
 - [ ] [<code>pool: Use uintptr_t for pool thread magic number</code>](https://github.com/canonical/dqlite/commit/92e93837fcac062e3c7474b16f45137803d904d9)
@@ -871,6 +868,17 @@
 - [ ] [<code>incusd/apparmor/qemu: Guess ceph config paths</code>](https://github.com/lxc/incus/commit/21c8ed16edd33cdb3af4900992ee924cd2f5d9d7)
 - [ ] [<code>incusd/instance/lxc: Respect LXCFS_OPTS</code>](https://github.com/lxc/incus/commit/94aefb098f4761db57915a12690d1b8b2f796d5c)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>api: clustering_groups_vm_cpu_definition</code>](https://github.com/lxc/incus/commit/f20815abcc67243a5fdcbe8a0683c3dff0ee0607)
+- [ ] [<code>incusd/cluster_groups: Add CPU definition keys</code>](https://github.com/lxc/incus/commit/21f7ebb158720ac08351c91562a46d5435eb3228)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/21d98edfe4421f38f9114a4d9ef010291c614a9b)
+- [ ] [<code>incusd/instance/qemu: Use cluster group config</code>](https://github.com/lxc/incus/commit/435be1be4d57bff20027f9c9dfc6bfd8a19de63f)
+- [ ] [<code>incusd/instance/drivers: Extract GetClusterCPUFlags</code>](https://github.com/lxc/incus/commit/df38d907ef9f028cc5b0ef920920844f820499b6)
+- [ ] [<code>incusd/cluster/group: Support for auto CPU flags</code>](https://github.com/lxc/incus/commit/fc41f6a150ba425a09a55a62c5099aa8bcf12cac)
+- [ ] [<code>incusd: Switch OVN to a getter function</code>](https://github.com/lxc/incus/commit/79bb269219ddc9589b170dd9e89c391e81a4fbb4)
+- [ ] [<code>incusd/network: Port to new OVN state function</code>](https://github.com/lxc/incus/commit/8e73f1b91ea5e2248fa08031ae51defd50afdeb6)
+- [ ] [<code>incus: Add support for environment file (.env)</code>](https://github.com/lxc/incus/commit/64b069484049fffb26b48096d805b7d1836f1f9e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/23ce0d17ca13c65e6e73268ba4c608ec6bbd6f7d)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1817,6 +1825,17 @@
 - [ ] [<code>incusd/apparmor/qemu: Guess ceph config paths</code>](https://github.com/lxc/incus/commit/21c8ed16edd33cdb3af4900992ee924cd2f5d9d7)
 - [ ] [<code>incusd/instance/lxc: Respect LXCFS_OPTS</code>](https://github.com/lxc/incus/commit/94aefb098f4761db57915a12690d1b8b2f796d5c)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>api: clustering_groups_vm_cpu_definition</code>](https://github.com/lxc/incus/commit/f20815abcc67243a5fdcbe8a0683c3dff0ee0607)
+- [ ] [<code>incusd/cluster_groups: Add CPU definition keys</code>](https://github.com/lxc/incus/commit/21f7ebb158720ac08351c91562a46d5435eb3228)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/21d98edfe4421f38f9114a4d9ef010291c614a9b)
+- [ ] [<code>incusd/instance/qemu: Use cluster group config</code>](https://github.com/lxc/incus/commit/435be1be4d57bff20027f9c9dfc6bfd8a19de63f)
+- [ ] [<code>incusd/instance/drivers: Extract GetClusterCPUFlags</code>](https://github.com/lxc/incus/commit/df38d907ef9f028cc5b0ef920920844f820499b6)
+- [ ] [<code>incusd/cluster/group: Support for auto CPU flags</code>](https://github.com/lxc/incus/commit/fc41f6a150ba425a09a55a62c5099aa8bcf12cac)
+- [ ] [<code>incusd: Switch OVN to a getter function</code>](https://github.com/lxc/incus/commit/79bb269219ddc9589b170dd9e89c391e81a4fbb4)
+- [ ] [<code>incusd/network: Port to new OVN state function</code>](https://github.com/lxc/incus/commit/8e73f1b91ea5e2248fa08031ae51defd50afdeb6)
+- [ ] [<code>incus: Add support for environment file (.env)</code>](https://github.com/lxc/incus/commit/64b069484049fffb26b48096d805b7d1836f1f9e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/23ce0d17ca13c65e6e73268ba4c608ec6bbd6f7d)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1945,6 +1964,7 @@
 - [ ] [<code>Fix empty CMAKE_CXX_FLAGS_RELEASE if libaom local</code>](https://github.com/AOMediaCodec/libavif/commit/47f154ae4cdefbdb7f9d86c0017acfe118db260e)
 - [ ] [<code>Remove decoder param of avifCodecGetNextImageFunc</code>](https://github.com/AOMediaCodec/libavif/commit/fd754d4c82a5488cd2e33af09c82238da6e793df)
 - [ ] [<code>Fix a #endif comment</code>](https://github.com/AOMediaCodec/libavif/commit/df5325a736d97e469edeb871a777410791f4f5ef)
+- [ ] [<code>Add comment about stride params of HalfFloatPlane</code>](https://github.com/AOMediaCodec/libavif/commit/9cd0993eb68f026b5e4931833098e3f521d3458f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1980,6 +2000,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>idmap: Lower logging level of newXidmap tools to INFO</code>](https://github.com/lxc/lxc/commit/5db3d7299f1c0c9f1d51cddcc60bc88d92bec9d3)
 - [ ] [<code>Exit 0 when there's no error</code>](https://github.com/lxc/lxc/commit/b24d2d45b3875b013131b480e61c93b6fb8ea70c)
+- [ ] [<code>doc: Fix definitions of get_config_path and set_config_path</code>](https://github.com/lxc/lxc/commit/7be0433107b41525da164f79fd0a410a38f812c7)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.1 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.1...HEAD)
 
@@ -2782,6 +2803,8 @@
 - [ ] [<code>feat(android): show title of current route in top header bar</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49e27c4feff7eea8953b2b81eb30ab018dced88a)
 - [ ] [<code>fix(android): show notice when no profiles exist during import/export</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c1f53177f5bae9da6fb606191752ff85095d1a32)
 - [ ] [<code>fix(android): export text field should fill screen's width</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9d12404ee9724d6b0a4feddf2f422b5135437084)
+- [ ] [<code>feat(gui): export custom equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/138e01cc27b67e90b6f19e746b72cc5466e7e80f)
+- [ ] [<code>build(deps): bump gradle/actions from 3 to 4 (#135)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0058c0d01a06044125c236bc6f6039538221a546)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
