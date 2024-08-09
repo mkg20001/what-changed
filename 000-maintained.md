@@ -361,8 +361,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: Record voice message with opus/ogg if supported</code>](https://github.com/krille-chan/fluffychat/commit/a7473af40f8d118741204ad86d2a786400da6a1d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(deps): bump rexml from 3.2.8 to 3.3.3 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/dd3e4449f6677197e6c1fa9c3b8ebb73c79c790b)
 - [ ] [<code>refactor: Recording dialog</code>](https://github.com/krille-chan/fluffychat/commit/3286b1938732b76d0825ae3e7841474ad37e14c7)
 - [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
+- [ ] [<code>Refactor: Reduce .of(context) calls theme</code>](https://github.com/krille-chan/fluffychat/commit/5d2aaef3cadd6d0841780d2e37c31c3c632ef34f)
 - [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
@@ -549,8 +551,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>feat: Record voice message with opus/ogg if supported</code>](https://github.com/krille-chan/fluffychat/commit/a7473af40f8d118741204ad86d2a786400da6a1d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(deps): bump rexml from 3.2.8 to 3.3.3 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/dd3e4449f6677197e6c1fa9c3b8ebb73c79c790b)
 - [ ] [<code>refactor: Recording dialog</code>](https://github.com/krille-chan/fluffychat/commit/3286b1938732b76d0825ae3e7841474ad37e14c7)
 - [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
+- [ ] [<code>Refactor: Reduce .of(context) calls theme</code>](https://github.com/krille-chan/fluffychat/commit/5d2aaef3cadd6d0841780d2e37c31c3c632ef34f)
 - [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
@@ -2047,6 +2051,8 @@
 - [ ] [<code>Check if it is safe to call libyuv or libsharpyuv</code>](https://github.com/AOMediaCodec/libavif/commit/5b593456d8ae48ffb954a76a8dcb25246804c676)
 - [ ] [<code>AVIF_ENABLE_EXPERIMENTAL_MINI instead of METAV1 (#2376)</code>](https://github.com/AOMediaCodec/libavif/commit/0c3333848534a31803645f831027b3d340aa3471)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix sizeof call in memset (#2379)</code>](https://github.com/AOMediaCodec/libavif/commit/58acc880b4d2c2db000ac733cc566390ccc498df)
+- [ ] [<code>Ignore gain maps with unsupported version (#2380)</code>](https://github.com/AOMediaCodec/libavif/commit/d142df6ca38e242239dbc2d972875bb6f92f41c5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
