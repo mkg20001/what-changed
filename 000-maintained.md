@@ -365,6 +365,7 @@
 - [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
 - [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
+- [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -552,6 +553,7 @@
 - [ ] [<code>feat: Send voice messages from web</code>](https://github.com/krille-chan/fluffychat/commit/47481eb6769134b405c649e238d5db7472d7cf09)
 - [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
+- [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -895,6 +897,30 @@
 - [ ] [<code>doc/devices_disk: Mention sub-paths</code>](https://github.com/lxc/incus/commit/662de88994fc8acce81cca8c23b9c1da51cfa276)
 - [ ] [<code>tests: Test volume subpaths</code>](https://github.com/lxc/incus/commit/9e19e19835283d0e44b8c4842bb22685315a4de5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: projects_limits_disk_pool</code>](https://github.com/lxc/incus/commit/adf17104edf5c87bb760a00fa97112f316f899a0)
+- [ ] [<code>incusd/projects: Add new limits.disk.pool config key</code>](https://github.com/lxc/incus/commit/3c5bf91e1bad1e2e5606c696656ee25cf5fcdcb0)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/0ef36a6e786ad1dcf368135291db3cbad003c84a)
+- [ ] [<code>incus/project: Handle pool disk limits</code>](https://github.com/lxc/incus/commit/6a099288b3502c4456a682e4dc8e7d7c03e07fe1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Add per-pool disk limits</code>](https://github.com/lxc/incus/commit/febce0851933037db19ebc7a26bf9982a1be4c84)
+- [ ] [<code>incusd/project: Add HiddenStoragePools</code>](https://github.com/lxc/incus/commit/e2df60ba28b599d4d6d1df5dfe88a5c0d6c5652b)
+- [ ] [<code>incusd/storage: Hide pools with a zero limit</code>](https://github.com/lxc/incus/commit/80f0ceacf42c8b61b28d6f5f304dd4059927a801)
+- [ ] [<code>tests: Add test for per pool limits</code>](https://github.com/lxc/incus/commit/8d846de3beef3c78161b417cc78a304522ff0b75)
+- [ ] [<code>incus/image/alias: Add support for column selection</code>](https://github.com/lxc/incus/commit/bef054e13a495b75b518c84d819066399c86fb24)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/17326a334e0a10cea851584e32fbce8b78135f5a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/main_forknet: Make it so our DHCP client never fails</code>](https://github.com/lxc/incus/commit/414c9a2ddd53e03364dbb87c548b8d99b9fc1eb7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: network_ovn_isolated</code>](https://github.com/lxc/incus/commit/b02669a9da266673e270d6d200c8abe805cf58b2)
+- [ ] [<code>incusd/network/ovn: Harden deletion logic</code>](https://github.com/lxc/incus/commit/19fbf7ebab2abaca77e16b142f836090119b7765)
+- [ ] [<code>doc/network/ovn: Cover isolated networks</code>](https://github.com/lxc/incus/commit/5c3e9f3f2eedd52b8ab4fe040af02c328fd88192)
+- [ ] [<code>incusd/networks: Reserve "none" for uplinks</code>](https://github.com/lxc/incus/commit/b87618687a6ebb6e076a3516518626f35f2476d2)
+- [ ] [<code>incusd/network/ovn: Allow creating isolated OVN networks (no uplink)</code>](https://github.com/lxc/incus/commit/0ecdf829f958b1eeeab1900c5f1e842f76bcc97c)
+- [ ] [<code>incusd/device/nic_ovn: Handle networks without uplinks</code>](https://github.com/lxc/incus/commit/86b4da1ebbdd7f8c1c3b342fc429a640b505c1d4)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5e8e50ce8d114c9750ce69d8005d564c6b768e78)
+- [ ] [<code>Release Incus 6.4</code>](https://github.com/lxc/incus/commit/a81966358bb7d3d469b261375f7f197699cc376a)
+  - <sub>Tags: <code>v6.4.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1864,6 +1890,30 @@
 - [ ] [<code>doc/devices_disk: Mention sub-paths</code>](https://github.com/lxc/incus/commit/662de88994fc8acce81cca8c23b9c1da51cfa276)
 - [ ] [<code>tests: Test volume subpaths</code>](https://github.com/lxc/incus/commit/9e19e19835283d0e44b8c4842bb22685315a4de5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: projects_limits_disk_pool</code>](https://github.com/lxc/incus/commit/adf17104edf5c87bb760a00fa97112f316f899a0)
+- [ ] [<code>incusd/projects: Add new limits.disk.pool config key</code>](https://github.com/lxc/incus/commit/3c5bf91e1bad1e2e5606c696656ee25cf5fcdcb0)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/0ef36a6e786ad1dcf368135291db3cbad003c84a)
+- [ ] [<code>incus/project: Handle pool disk limits</code>](https://github.com/lxc/incus/commit/6a099288b3502c4456a682e4dc8e7d7c03e07fe1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Add per-pool disk limits</code>](https://github.com/lxc/incus/commit/febce0851933037db19ebc7a26bf9982a1be4c84)
+- [ ] [<code>incusd/project: Add HiddenStoragePools</code>](https://github.com/lxc/incus/commit/e2df60ba28b599d4d6d1df5dfe88a5c0d6c5652b)
+- [ ] [<code>incusd/storage: Hide pools with a zero limit</code>](https://github.com/lxc/incus/commit/80f0ceacf42c8b61b28d6f5f304dd4059927a801)
+- [ ] [<code>tests: Add test for per pool limits</code>](https://github.com/lxc/incus/commit/8d846de3beef3c78161b417cc78a304522ff0b75)
+- [ ] [<code>incus/image/alias: Add support for column selection</code>](https://github.com/lxc/incus/commit/bef054e13a495b75b518c84d819066399c86fb24)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/17326a334e0a10cea851584e32fbce8b78135f5a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/main_forknet: Make it so our DHCP client never fails</code>](https://github.com/lxc/incus/commit/414c9a2ddd53e03364dbb87c548b8d99b9fc1eb7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: network_ovn_isolated</code>](https://github.com/lxc/incus/commit/b02669a9da266673e270d6d200c8abe805cf58b2)
+- [ ] [<code>incusd/network/ovn: Harden deletion logic</code>](https://github.com/lxc/incus/commit/19fbf7ebab2abaca77e16b142f836090119b7765)
+- [ ] [<code>doc/network/ovn: Cover isolated networks</code>](https://github.com/lxc/incus/commit/5c3e9f3f2eedd52b8ab4fe040af02c328fd88192)
+- [ ] [<code>incusd/networks: Reserve "none" for uplinks</code>](https://github.com/lxc/incus/commit/b87618687a6ebb6e076a3516518626f35f2476d2)
+- [ ] [<code>incusd/network/ovn: Allow creating isolated OVN networks (no uplink)</code>](https://github.com/lxc/incus/commit/0ecdf829f958b1eeeab1900c5f1e842f76bcc97c)
+- [ ] [<code>incusd/device/nic_ovn: Handle networks without uplinks</code>](https://github.com/lxc/incus/commit/86b4da1ebbdd7f8c1c3b342fc429a640b505c1d4)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5e8e50ce8d114c9750ce69d8005d564c6b768e78)
+- [ ] [<code>Release Incus 6.4</code>](https://github.com/lxc/incus/commit/a81966358bb7d3d469b261375f7f197699cc376a)
+  - <sub>Tags: <code>v6.4.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1995,6 +2045,8 @@
 - [ ] [<code>Add comment about stride params of HalfFloatPlane</code>](https://github.com/AOMediaCodec/libavif/commit/9cd0993eb68f026b5e4931833098e3f521d3458f)
 - [ ] [<code>Add local variables to avifImageRGBToYUV()</code>](https://github.com/AOMediaCodec/libavif/commit/1b4ce5ca24a33b5878b7f766de6eaa05c49f08e6)
 - [ ] [<code>Check if it is safe to call libyuv or libsharpyuv</code>](https://github.com/AOMediaCodec/libavif/commit/5b593456d8ae48ffb954a76a8dcb25246804c676)
+- [ ] [<code>AVIF_ENABLE_EXPERIMENTAL_MINI instead of METAV1 (#2376)</code>](https://github.com/AOMediaCodec/libavif/commit/0c3333848534a31803645f831027b3d340aa3471)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2835,6 +2887,10 @@
 - [ ] [<code>fix(android): export text field should fill screen's width</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9d12404ee9724d6b0a4feddf2f422b5135437084)
 - [ ] [<code>feat(gui): export custom equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/138e01cc27b67e90b6f19e746b72cc5466e7e80f)
 - [ ] [<code>build(deps): bump gradle/actions from 3 to 4 (#135)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0058c0d01a06044125c236bc6f6039538221a546)
+- [ ] [<code>fix(gui): case insensitive eq profile sorting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/206c943b4b713a4eeee07d14c318b6dd926595a2)
+- [ ] [<code>fix(gui): no profile selected after creating custom profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2719425c3a7cbf12016160ca5a1d07e208d39ec)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5217b1563b2e02ac0b36e8c1a8eb63666b68ca45)
+- [ ] [<code>fix(android): failure case for migration 8 to 9</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f594572af44f1790223801206080166b7eb8a186)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
