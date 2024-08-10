@@ -368,6 +368,7 @@
 - [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
+- [ ] [<code>chore: Follow up chatlist design</code>](https://github.com/krille-chan/fluffychat/commit/89309ca15ee6364b013e03ba72230fb7206d0c08)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -558,6 +559,7 @@
 - [ ] [<code>chore: Follow up scroll to event id fix</code>](https://github.com/krille-chan/fluffychat/commit/641343d5fe3c6485df987462d825ca76b532c65a)
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
+- [ ] [<code>chore: Follow up chatlist design</code>](https://github.com/krille-chan/fluffychat/commit/89309ca15ee6364b013e03ba72230fb7206d0c08)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -585,6 +587,14 @@
 
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.4.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.4.0...HEAD)
 
+- [ ] [<code>incus/remote/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/a2069c07223eb3a4425f4e0bae9976dc1d4ee46d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e20d2dfa7519493ceffa342b3f25a7e30c6832aa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/cluster/group/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/088d0483907dc98870af4750d4d35b3bc6e57954)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/8d3526a0ca84a23e9ae199badd695d598ab09560)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1578,6 +1588,14 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5e8e50ce8d114c9750ce69d8005d564c6b768e78)
 - [ ] [<code>Release Incus 6.4</code>](https://github.com/lxc/incus/commit/a81966358bb7d3d469b261375f7f197699cc376a)
   - <sub>Tags: <code>v6.4.0</code></sub>
+- [ ] [<code>incus/remote/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/a2069c07223eb3a4425f4e0bae9976dc1d4ee46d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e20d2dfa7519493ceffa342b3f25a7e30c6832aa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/cluster/group/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/088d0483907dc98870af4750d4d35b3bc6e57954)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/8d3526a0ca84a23e9ae199badd695d598ab09560)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
