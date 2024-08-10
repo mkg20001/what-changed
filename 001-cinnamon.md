@@ -108,6 +108,8 @@
 
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.5 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.5...HEAD)
 
+- [ ] [<code>mate-xapp-status-applet: Fix application theme provider due to</code>](https://github.com/linuxmint/xapp/commit/17955c925c4b90f12af538a67bc417c62eb1c6d3)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.2...HEAD)
 
