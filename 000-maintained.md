@@ -369,6 +369,7 @@
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
 - [ ] [<code>chore: Follow up chatlist design</code>](https://github.com/krille-chan/fluffychat/commit/89309ca15ee6364b013e03ba72230fb7206d0c08)
+- [ ] [<code>chore: Follow up linter fix</code>](https://github.com/krille-chan/fluffychat/commit/d0e1e0229c2d6b8c00e3278d71651003614e38d2)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -560,6 +561,7 @@
 - [ ] [<code>chore: Bring back add to space feature</code>](https://github.com/krille-chan/fluffychat/commit/84075133fa09d5892f25cc98a691de9fe7024a29)
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
 - [ ] [<code>chore: Follow up chatlist design</code>](https://github.com/krille-chan/fluffychat/commit/89309ca15ee6364b013e03ba72230fb7206d0c08)
+- [ ] [<code>chore: Follow up linter fix</code>](https://github.com/krille-chan/fluffychat/commit/d0e1e0229c2d6b8c00e3278d71651003614e38d2)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2785,3 +2787,7 @@
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
 
+- [ ] [<code>Remove Gdk references and meson dependency.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b364687b8a696c78f2d3c46e0c45c2dc28e79a33)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
