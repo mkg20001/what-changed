@@ -370,6 +370,10 @@
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
 - [ ] [<code>chore: Follow up chatlist design</code>](https://github.com/krille-chan/fluffychat/commit/89309ca15ee6364b013e03ba72230fb7206d0c08)
 - [ ] [<code>chore: Follow up linter fix</code>](https://github.com/krille-chan/fluffychat/commit/d0e1e0229c2d6b8c00e3278d71651003614e38d2)
+- [ ] [<code>chore: Follow up display read marker in timeline</code>](https://github.com/krille-chan/fluffychat/commit/d3298f0b09ec6a2258a841e66df473e3060a28f9)
+- [ ] [<code>chore: Make VOIP plugin less noisy in logs</code>](https://github.com/krille-chan/fluffychat/commit/1c6d8a05793846a809aa83c534a2320e65420b8b)
+- [ ] [<code>chore: Nicer empty chat list placeholder</code>](https://github.com/krille-chan/fluffychat/commit/664548d937367a4e8d4f4dd8bb8c90ba3833bd2d)
+- [ ] [<code>chore: Follow up no more chats found label</code>](https://github.com/krille-chan/fluffychat/commit/612711d60213c9152acea6567bfc9c3559ad89da)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -562,6 +566,10 @@
 - [ ] [<code>build: Update to Matrix SDK 0.32.0</code>](https://github.com/krille-chan/fluffychat/commit/02430a952da3ef513943f898fe8f066daf005079)
 - [ ] [<code>chore: Follow up chatlist design</code>](https://github.com/krille-chan/fluffychat/commit/89309ca15ee6364b013e03ba72230fb7206d0c08)
 - [ ] [<code>chore: Follow up linter fix</code>](https://github.com/krille-chan/fluffychat/commit/d0e1e0229c2d6b8c00e3278d71651003614e38d2)
+- [ ] [<code>chore: Follow up display read marker in timeline</code>](https://github.com/krille-chan/fluffychat/commit/d3298f0b09ec6a2258a841e66df473e3060a28f9)
+- [ ] [<code>chore: Make VOIP plugin less noisy in logs</code>](https://github.com/krille-chan/fluffychat/commit/1c6d8a05793846a809aa83c534a2320e65420b8b)
+- [ ] [<code>chore: Nicer empty chat list placeholder</code>](https://github.com/krille-chan/fluffychat/commit/664548d937367a4e8d4f4dd8bb8c90ba3833bd2d)
+- [ ] [<code>chore: Follow up no more chats found label</code>](https://github.com/krille-chan/fluffychat/commit/612711d60213c9152acea6567bfc9c3559ad89da)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
