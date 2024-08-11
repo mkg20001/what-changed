@@ -299,6 +299,7 @@
 - [ ] [<code>chore: Move default PR template to correct dir</code>](https://github.com/krille-chan/fluffychat/commit/e7f446813331d6a73aa63e8cff7818753e474eec)
 - [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix web base url and privacy url configuration processing</code>](https://github.com/krille-chan/fluffychat/commit/13a39498a39f0bb21f035d2ca71831e04487677e)
 - [ ] [<code>feat: New spaces and chat list design</code>](https://github.com/krille-chan/fluffychat/commit/5c23453e665ed8804b445b5f792dc6efc3e14f08)
 - [ ] [<code>chore: Follow up new spaces design</code>](https://github.com/krille-chan/fluffychat/commit/254f21ce00251be883c7aae1fdfc1aafa868252b)
 - [ ] [<code>chore: Follow up join space invites</code>](https://github.com/krille-chan/fluffychat/commit/64c56f889b870e7ef27f0d51204a004da7d72804)
@@ -374,6 +375,9 @@
 - [ ] [<code>chore: Make VOIP plugin less noisy in logs</code>](https://github.com/krille-chan/fluffychat/commit/1c6d8a05793846a809aa83c534a2320e65420b8b)
 - [ ] [<code>chore: Nicer empty chat list placeholder</code>](https://github.com/krille-chan/fluffychat/commit/664548d937367a4e8d4f4dd8bb8c90ba3833bd2d)
 - [ ] [<code>chore: Follow up no more chats found label</code>](https://github.com/krille-chan/fluffychat/commit/612711d60213c9152acea6567bfc9c3559ad89da)
+- [ ] [<code>chore: Show short forms of months and week days in UI</code>](https://github.com/krille-chan/fluffychat/commit/ebd8b700b10ee9693ad194382d2b3faeef3de892)
+- [ ] [<code>docs: Update privacy policy</code>](https://github.com/krille-chan/fluffychat/commit/6cc8f6aa9b7f3051aaf906c3ee242b24a297dbac)
+- [ ] [<code>build: Bump version to v1.22.0</code>](https://github.com/krille-chan/fluffychat/commit/28473cda605b3e0f5ed362b786817bb8012ab2e9)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -495,6 +499,7 @@
 - [ ] [<code>chore: Move default PR template to correct dir</code>](https://github.com/krille-chan/fluffychat/commit/e7f446813331d6a73aa63e8cff7818753e474eec)
 - [ ] [<code>build: Update dependencies after release</code>](https://github.com/krille-chan/fluffychat/commit/82a7f5de51e4692bdcab79d091a6ebc7096001e8)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix web base url and privacy url configuration processing</code>](https://github.com/krille-chan/fluffychat/commit/13a39498a39f0bb21f035d2ca71831e04487677e)
 - [ ] [<code>feat: New spaces and chat list design</code>](https://github.com/krille-chan/fluffychat/commit/5c23453e665ed8804b445b5f792dc6efc3e14f08)
 - [ ] [<code>chore: Follow up new spaces design</code>](https://github.com/krille-chan/fluffychat/commit/254f21ce00251be883c7aae1fdfc1aafa868252b)
 - [ ] [<code>chore: Follow up join space invites</code>](https://github.com/krille-chan/fluffychat/commit/64c56f889b870e7ef27f0d51204a004da7d72804)
@@ -570,6 +575,9 @@
 - [ ] [<code>chore: Make VOIP plugin less noisy in logs</code>](https://github.com/krille-chan/fluffychat/commit/1c6d8a05793846a809aa83c534a2320e65420b8b)
 - [ ] [<code>chore: Nicer empty chat list placeholder</code>](https://github.com/krille-chan/fluffychat/commit/664548d937367a4e8d4f4dd8bb8c90ba3833bd2d)
 - [ ] [<code>chore: Follow up no more chats found label</code>](https://github.com/krille-chan/fluffychat/commit/612711d60213c9152acea6567bfc9c3559ad89da)
+- [ ] [<code>chore: Show short forms of months and week days in UI</code>](https://github.com/krille-chan/fluffychat/commit/ebd8b700b10ee9693ad194382d2b3faeef3de892)
+- [ ] [<code>docs: Update privacy policy</code>](https://github.com/krille-chan/fluffychat/commit/6cc8f6aa9b7f3051aaf906c3ee242b24a297dbac)
+- [ ] [<code>build: Bump version to v1.22.0</code>](https://github.com/krille-chan/fluffychat/commit/28473cda605b3e0f5ed362b786817bb8012ab2e9)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
