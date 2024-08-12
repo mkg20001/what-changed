@@ -378,6 +378,7 @@
 - [ ] [<code>chore: Show short forms of months and week days in UI</code>](https://github.com/krille-chan/fluffychat/commit/ebd8b700b10ee9693ad194382d2b3faeef3de892)
 - [ ] [<code>docs: Update privacy policy</code>](https://github.com/krille-chan/fluffychat/commit/6cc8f6aa9b7f3051aaf906c3ee242b24a297dbac)
 - [ ] [<code>build: Bump version to v1.22.0</code>](https://github.com/krille-chan/fluffychat/commit/28473cda605b3e0f5ed362b786817bb8012ab2e9)
+- [ ] [<code>chore: Disable record on web</code>](https://github.com/krille-chan/fluffychat/commit/8784acc7e6202d2a5d629fbec0014794c30a204e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -578,6 +579,7 @@
 - [ ] [<code>chore: Show short forms of months and week days in UI</code>](https://github.com/krille-chan/fluffychat/commit/ebd8b700b10ee9693ad194382d2b3faeef3de892)
 - [ ] [<code>docs: Update privacy policy</code>](https://github.com/krille-chan/fluffychat/commit/6cc8f6aa9b7f3051aaf906c3ee242b24a297dbac)
 - [ ] [<code>build: Bump version to v1.22.0</code>](https://github.com/krille-chan/fluffychat/commit/28473cda605b3e0f5ed362b786817bb8012ab2e9)
+- [ ] [<code>chore: Disable record on web</code>](https://github.com/krille-chan/fluffychat/commit/8784acc7e6202d2a5d629fbec0014794c30a204e)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -616,6 +618,8 @@
 - [ ] [<code>client: import examples for docs</code>](https://github.com/lxc/incus/commit/bbdf419ac2a939f4e07a97fdd8aafe545d1978e7)
 - [ ] [<code>client: name var for docs</code>](https://github.com/lxc/incus/commit/4b10d39ecd4d3cc374bce3ed72c7de987379ac85)
 - [ ] [<code>client: alias & server/procotol default for docs</code>](https://github.com/lxc/incus/commit/631357cef9837a201d87bdb9cce3c8b6eeecc80f)
+- [ ] [<code>incusd/storage: Fix UsedBy values for sub-directory volumes</code>](https://github.com/lxc/incus/commit/1b6d5d95b7e30d6327a331338666787cf9a27822)
+- [ ] [<code>client: fix typo in example</code>](https://github.com/lxc/incus/commit/bf08cc27729dd07fe5a51a35742995180926ecd5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1620,6 +1624,8 @@
 - [ ] [<code>client: import examples for docs</code>](https://github.com/lxc/incus/commit/bbdf419ac2a939f4e07a97fdd8aafe545d1978e7)
 - [ ] [<code>client: name var for docs</code>](https://github.com/lxc/incus/commit/4b10d39ecd4d3cc374bce3ed72c7de987379ac85)
 - [ ] [<code>client: alias & server/procotol default for docs</code>](https://github.com/lxc/incus/commit/631357cef9837a201d87bdb9cce3c8b6eeecc80f)
+- [ ] [<code>incusd/storage: Fix UsedBy values for sub-directory volumes</code>](https://github.com/lxc/incus/commit/1b6d5d95b7e30d6327a331338666787cf9a27822)
+- [ ] [<code>client: fix typo in example</code>](https://github.com/lxc/incus/commit/bf08cc27729dd07fe5a51a35742995180926ecd5)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
