@@ -379,6 +379,9 @@
 - [ ] [<code>docs: Update privacy policy</code>](https://github.com/krille-chan/fluffychat/commit/6cc8f6aa9b7f3051aaf906c3ee242b24a297dbac)
 - [ ] [<code>build: Bump version to v1.22.0</code>](https://github.com/krille-chan/fluffychat/commit/28473cda605b3e0f5ed362b786817bb8012ab2e9)
 - [ ] [<code>chore: Disable record on web</code>](https://github.com/krille-chan/fluffychat/commit/8784acc7e6202d2a5d629fbec0014794c30a204e)
+- [ ] [<code>chore: Remove emoji proposals feature</code>](https://github.com/krille-chan/fluffychat/commit/2615632881f80b7aea3b3c02f9573b80be1bf670)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/156f38cf4656e5b98a28f78fbe4496e35591f276)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -580,6 +583,9 @@
 - [ ] [<code>docs: Update privacy policy</code>](https://github.com/krille-chan/fluffychat/commit/6cc8f6aa9b7f3051aaf906c3ee242b24a297dbac)
 - [ ] [<code>build: Bump version to v1.22.0</code>](https://github.com/krille-chan/fluffychat/commit/28473cda605b3e0f5ed362b786817bb8012ab2e9)
 - [ ] [<code>chore: Disable record on web</code>](https://github.com/krille-chan/fluffychat/commit/8784acc7e6202d2a5d629fbec0014794c30a204e)
+- [ ] [<code>chore: Remove emoji proposals feature</code>](https://github.com/krille-chan/fluffychat/commit/2615632881f80b7aea3b3c02f9573b80be1bf670)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/156f38cf4656e5b98a28f78fbe4496e35591f276)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -619,7 +625,18 @@
 - [ ] [<code>client: name var for docs</code>](https://github.com/lxc/incus/commit/4b10d39ecd4d3cc374bce3ed72c7de987379ac85)
 - [ ] [<code>client: alias & server/procotol default for docs</code>](https://github.com/lxc/incus/commit/631357cef9837a201d87bdb9cce3c8b6eeecc80f)
 - [ ] [<code>incusd/storage: Fix UsedBy values for sub-directory volumes</code>](https://github.com/lxc/incus/commit/1b6d5d95b7e30d6327a331338666787cf9a27822)
+- [ ] [<code>incusd/instance: Fix backup file locking issue</code>](https://github.com/lxc/incus/commit/7c92234f5feb4b42d838491689946cb3ed60d929)
+- [ ] [<code>incusd/projects: Don't fail project creation on missing pools</code>](https://github.com/lxc/incus/commit/b03f050ec964d3264d53b5a4a4e2e592c15f7f6e)
+- [ ] [<code>incusd/device/pci: Allow hotplug</code>](https://github.com/lxc/incus/commit/e3a564c6eab05691b631587adaf6e5f7a1098dc9)
+- [ ] [<code>incusd/instance/qmp: Add CheckPCIDevice</code>](https://github.com/lxc/incus/commit/bed8715809342875bde90c891f3b65cb85302ec1)
+- [ ] [<code>incusd/instance/qemu: Use monitor.CheckPCIDevice</code>](https://github.com/lxc/incus/commit/55173b2f7ef92aa92036e5d4b98c2499d02b0c5e)
+- [ ] [<code>incusd/instance/qemu: Tweak comments on deviceStart</code>](https://github.com/lxc/incus/commit/fbc727afa4d8dace8639aafdb444d9f1d0c6ed9d)
+- [ ] [<code>incusd/instance/qemu: Add hotplug support for generic PCI</code>](https://github.com/lxc/incus/commit/67daa5290277c6f4981e3b9d2b4ad9e2dc190534)
 - [ ] [<code>client: fix typo in example</code>](https://github.com/lxc/incus/commit/bf08cc27729dd07fe5a51a35742995180926ecd5)
+- [ ] [<code>incus/operation/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/0bc307d0d9bbd8571ffe57ad1c16e4e7685bc782)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9800e1db6c34dd348a34fc9a5823acf13509fec9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1625,7 +1642,18 @@
 - [ ] [<code>client: name var for docs</code>](https://github.com/lxc/incus/commit/4b10d39ecd4d3cc374bce3ed72c7de987379ac85)
 - [ ] [<code>client: alias & server/procotol default for docs</code>](https://github.com/lxc/incus/commit/631357cef9837a201d87bdb9cce3c8b6eeecc80f)
 - [ ] [<code>incusd/storage: Fix UsedBy values for sub-directory volumes</code>](https://github.com/lxc/incus/commit/1b6d5d95b7e30d6327a331338666787cf9a27822)
+- [ ] [<code>incusd/instance: Fix backup file locking issue</code>](https://github.com/lxc/incus/commit/7c92234f5feb4b42d838491689946cb3ed60d929)
+- [ ] [<code>incusd/projects: Don't fail project creation on missing pools</code>](https://github.com/lxc/incus/commit/b03f050ec964d3264d53b5a4a4e2e592c15f7f6e)
+- [ ] [<code>incusd/device/pci: Allow hotplug</code>](https://github.com/lxc/incus/commit/e3a564c6eab05691b631587adaf6e5f7a1098dc9)
+- [ ] [<code>incusd/instance/qmp: Add CheckPCIDevice</code>](https://github.com/lxc/incus/commit/bed8715809342875bde90c891f3b65cb85302ec1)
+- [ ] [<code>incusd/instance/qemu: Use monitor.CheckPCIDevice</code>](https://github.com/lxc/incus/commit/55173b2f7ef92aa92036e5d4b98c2499d02b0c5e)
+- [ ] [<code>incusd/instance/qemu: Tweak comments on deviceStart</code>](https://github.com/lxc/incus/commit/fbc727afa4d8dace8639aafdb444d9f1d0c6ed9d)
+- [ ] [<code>incusd/instance/qemu: Add hotplug support for generic PCI</code>](https://github.com/lxc/incus/commit/67daa5290277c6f4981e3b9d2b4ad9e2dc190534)
 - [ ] [<code>client: fix typo in example</code>](https://github.com/lxc/incus/commit/bf08cc27729dd07fe5a51a35742995180926ecd5)
+- [ ] [<code>incus/operation/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/0bc307d0d9bbd8571ffe57ad1c16e4e7685bc782)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9800e1db6c34dd348a34fc9a5823acf13509fec9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1761,6 +1789,10 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix sizeof call in memset (#2379)</code>](https://github.com/AOMediaCodec/libavif/commit/58acc880b4d2c2db000ac733cc566390ccc498df)
 - [ ] [<code>Ignore gain maps with unsupported version (#2380)</code>](https://github.com/AOMediaCodec/libavif/commit/d142df6ca38e242239dbc2d972875bb6f92f41c5)
+- [ ] [<code>Add 'tmap' brand to files with gainmaps. Issue #2385 (#2386)</code>](https://github.com/AOMediaCodec/libavif/commit/10b72326ad20e8e60ee742262f19bc49f87bdbbd)
+- [ ] [<code>Update CHANGELOG.md entry for #2380</code>](https://github.com/AOMediaCodec/libavif/commit/daade0eb9646e21c6dd3e011e73f0a6ab70b6baf)
+- [ ] [<code>Update AVIF_MATRIX_COEFFICIENTS_YCGCO_RE and _RO (#2384)</code>](https://github.com/AOMediaCodec/libavif/commit/b75cf3c762b85c1ebd717ade15e44c8f6b68c99b)
+- [ ] [<code>Fix fields typo in avifgainmaptest (#2387)</code>](https://github.com/AOMediaCodec/libavif/commit/0d3e5e215dffbbd6afbf917ce00c84de599ba410)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2423,6 +2455,14 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>CI: Update DebCI to ubuntu-22.04 runners</code>](https://github.com/canonical/netplan/commit/427a709e0f71b9622e7ad4aa132bbef2a959c7da)
+- [ ] [<code>docs: Add 'netplan try' to tutorial (#494)</code>](https://github.com/canonical/netplan/commit/a955b0d2bc35670eb3f55451928a8d3b5e30a7ed)
+- [ ] [<code>Update the docs checks runner to ubuntu-latest.</code>](https://github.com/canonical/netplan/commit/6bbcc5f53733fad684d4ff593f58b55338226bc8)
+- [ ] [<code>doc: Add spelling exceptions (#499)</code>](https://github.com/canonical/netplan/commit/b4bc0ab2c1bf458924a535512ab55595e0a075e0)
+- [ ] [<code>meson: emit the coverage result to XML</code>](https://github.com/canonical/netplan/commit/ee0ca07ec9665b186b87a2ea5febf19f7b34db51)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ci: add a workflow for TIOBE</code>](https://github.com/canonical/netplan/commit/7c9d49d515c0990eab2c0d512939cfd9bb554701)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
