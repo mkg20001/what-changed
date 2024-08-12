@@ -613,6 +613,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/8d3526a0ca84a23e9ae199badd695d598ab09560)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>client: import examples for docs</code>](https://github.com/lxc/incus/commit/bbdf419ac2a939f4e07a97fdd8aafe545d1978e7)
+- [ ] [<code>client: name var for docs</code>](https://github.com/lxc/incus/commit/4b10d39ecd4d3cc374bce3ed72c7de987379ac85)
+- [ ] [<code>client: alias & server/procotol default for docs</code>](https://github.com/lxc/incus/commit/631357cef9837a201d87bdb9cce3c8b6eeecc80f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1614,6 +1617,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/8d3526a0ca84a23e9ae199badd695d598ab09560)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>client: import examples for docs</code>](https://github.com/lxc/incus/commit/bbdf419ac2a939f4e07a97fdd8aafe545d1978e7)
+- [ ] [<code>client: name var for docs</code>](https://github.com/lxc/incus/commit/4b10d39ecd4d3cc374bce3ed72c7de987379ac85)
+- [ ] [<code>client: alias & server/procotol default for docs</code>](https://github.com/lxc/incus/commit/631357cef9837a201d87bdb9cce3c8b6eeecc80f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
