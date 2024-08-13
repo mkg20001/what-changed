@@ -140,14 +140,6 @@
 - [ ] [<code>Update Rust to v1.79.0</code>](https://github.com/stepchowfun/docuum/commit/2b7b6833d2db03bac5629e29186db30968f8bf41)
 - [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
-
-#### [dqlite](https://github.com/canonical/dqlite): [refs/tags/v1.16.7 → HEAD](https://github.com/canonical/dqlite/compare/refs/tags/v1.16.7...HEAD)
-
-- [ ] [<code>feat(snapshot): integrate pool, first version</code>](https://github.com/canonical/dqlite/commit/cd353414274e736dbf971ee56e70294e6fb494ba)
-- [ ] [<code>bugfix(snapshot): add missing state to follower sm</code>](https://github.com/canonical/dqlite/commit/834489e98a1100472eef813aef342a264f8741d2)
-- [ ] [<code>feat(snapshot): rpc fill and rpc trigger, first version</code>](https://github.com/canonical/dqlite/commit/7de953b70a80e5a80506e05aac3183f9e4b11616)
-- [ ] [<code>feat: pool thread identification</code>](https://github.com/canonical/dqlite/commit/defc3f3f5aa4aed4565ca16633f02ef466668c5a)
-- [ ] [<code>pool: Use uintptr_t for pool thread magic number</code>](https://github.com/canonical/dqlite/commit/92e93837fcac062e3c7474b16f45137803d904d9)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -642,6 +634,10 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9800e1db6c34dd348a34fc9a5823acf13509fec9)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc/firewalld: Update Docker link</code>](https://github.com/lxc/incus/commit/9e8a12aebe53bc07803a3af7488728f7e640e746)
+- [ ] [<code>incus/network/zone/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/9bdeb59150c8b07f479f138860bfd6d8b93b7e67)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e900aa48fc29843be57674eb5c57aec49aca17f0)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1660,6 +1656,10 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9800e1db6c34dd348a34fc9a5823acf13509fec9)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc/firewalld: Update Docker link</code>](https://github.com/lxc/incus/commit/9e8a12aebe53bc07803a3af7488728f7e640e746)
+- [ ] [<code>incus/network/zone/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/9bdeb59150c8b07f479f138860bfd6d8b93b7e67)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e900aa48fc29843be57674eb5c57aec49aca17f0)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1850,39 +1850,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>github: add ISSUE_TEMPLATE.md</code>](https://github.com/lxc/lxcfs/commit/8c88d4e171dc696a773223f8db5cb846314e702a)
 - [ ] [<code>github: add live upgrade test between stable-{5,6} branches</code>](https://github.com/lxc/lxcfs/commit/15f614c50ca11812db19696fc3c7a9f637a31dc1)
-> Dropped lxd - no appropriate URL found OrderedDict([('attr_path', 'lxd'), ('home_url', 'https://ubuntu.com/lxd'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
-
-#### [lxd-ui](https://github.com/canonical/lxd-ui): [refs/tags/0.12 → HEAD](https://github.com/canonical/lxd-ui/compare/refs/tags/0.12...HEAD)
-
-- [ ] [<code>fix(cert): add link to the authentication setup FAQ from the certificate generation and reuse pages WD-13244 #542</code>](https://github.com/canonical/lxd-ui/commit/c235f83c0c6dc540c209c2ea3959db5f7ff2588f)
-- [ ] [<code>Add link to the authentication setup FAQ from the certificate generation and reuse pages (#821)</code>](https://github.com/canonical/lxd-ui/commit/eca632241e69c56d5988d6945ebd9931823d7838)
-- [ ] [<code>[WD-13254] test: network forms</code>](https://github.com/canonical/lxd-ui/commit/25094246f4ad0b758f79f1d187f0b4844627891b)
-- [ ] [<code>[WD-13254] test: network forms (#822)</code>](https://github.com/canonical/lxd-ui/commit/4d1421df4b81610ee229195f1afc713270195a30)
-- [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update WD-13755</code>](https://github.com/canonical/lxd-ui/commit/aea24ad11ec85fea8fc69d0cf1dcb3c40f48a01f)
-- [ ] [<code>fix(disk) preserve devices.root.size.state key on instance configuration update (#823)</code>](https://github.com/canonical/lxd-ui/commit/ae29e8ec8c4ac43dec5ff4605e1e2a10fd57b7ae)
-- [ ] [<code>fix: publish image from snapshot created in a project that is not the default project</code>](https://github.com/canonical/lxd-ui/commit/9dca5140621c2e44af776d42f7fb05dddf2a34ff)
-- [ ] [<code>fix: publish image from snapshot created in a project that is not the default project (#825)</code>](https://github.com/canonical/lxd-ui/commit/a54c5da743a0482fcb864c31530939b262f42a06)
-- [ ] [<code>update: add support for instance_create_start api extension</code>](https://github.com/canonical/lxd-ui/commit/5c5ac36d78cdee78df413c3449ae705f8f8d7475)
-- [ ] [<code>update: add support for instance_create_start api extension [WD-13645] (#826)</code>](https://github.com/canonical/lxd-ui/commit/e6f32aecafb3e446353f48f30308e9bffe15cfd3)
-- [ ] [<code>fix: add type checks in linting script</code>](https://github.com/canonical/lxd-ui/commit/9275d3523aeecd53fcd7652a0853a0dd9c70eb12)
-- [ ] [<code>fix: add type checks in linting script [WD-13573] (#827)</code>](https://github.com/canonical/lxd-ui/commit/506ca8529aa655e749e262b5b4f1f015f67ef777)
-- [ ] [<code>fix: invalidate query cache when creating custom storage volume</code>](https://github.com/canonical/lxd-ui/commit/deffa910e4f2df2f9925e76cf9e69428233246f0)
-- [ ] [<code>fix: invalidate query cache when creating custom storage volume [WD-13879] (#829)</code>](https://github.com/canonical/lxd-ui/commit/3381df92c2008b4edda6371db1ac47bab2c850a8)
-- [ ] [<code>fix: adjust copy for project form</code>](https://github.com/canonical/lxd-ui/commit/0ebee2488d6c4ac458208a91ee1f614981727bc8)
-- [ ] [<code>fix: adjust copy for project form (#830)</code>](https://github.com/canonical/lxd-ui/commit/089dd6b9180e8d68d7d130f593890ee0a32c8b99)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.15.0</code>](https://github.com/canonical/lxd-ui/commit/618d966bf230787524718648fb0da0f3396c6602)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.15.0 (#835)</code>](https://github.com/canonical/lxd-ui/commit/50b2161391f62be742a81913b2c263c70e654fd6)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.60.0</code>](https://github.com/canonical/lxd-ui/commit/d779f6eec3392670305e9d7608c07d9f994b6f6a)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.60.0 (#841)</code>](https://github.com/canonical/lxd-ui/commit/af2654f81ce53b4c4e54b89e3867b4d8817a4635)
-  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2480,6 +2451,8 @@
 - [ ] [<code>ci: run meson tests with unbuffer</code>](https://github.com/canonical/netplan/commit/045a3730425c10c6c06e826cb2c2bf2d674d5ee7)
 - [ ] [<code>ci/tics: install "expect" as a dependency</code>](https://github.com/canonical/netplan/commit/900b5a7e8c85e92638fd9b3ec06636ca0048ad3c)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>netplan ignores NetworkManager ipv4.route-metric</code>](https://github.com/canonical/netplan/commit/6b44b4915076280c60da98f2b8a627514d39247d)
+- [ ] [<code>Change default umask when creating dirctories</code>](https://github.com/canonical/netplan/commit/62bb680b3aa21ea927426300b5240680369d7c6c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2689,11 +2662,6 @@
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
-
-#### [raft-canonical](https://github.com/canonical/raft): [refs/tags/v0.18.1 → HEAD](https://github.com/canonical/raft/compare/refs/tags/v0.18.1...HEAD)
-
-- [ ] [<code>Mothball the project</code>](https://github.com/canonical/raft/commit/c4ac63f4bf4ab4e4ef843068ad7d8af03f49af75)
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [raft-cowsql](https://github.com/cowsql/raft): [refs/tags/v0.22.1 → HEAD](https://github.com/cowsql/raft/compare/refs/tags/v0.22.1...HEAD)
 
