@@ -382,6 +382,8 @@
 - [ ] [<code>chore: Remove emoji proposals feature</code>](https://github.com/krille-chan/fluffychat/commit/2615632881f80b7aea3b3c02f9573b80be1bf670)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/156f38cf4656e5b98a28f78fbe4496e35591f276)
+- [ ] [<code>Merge pull request #1272 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e985a286d30cd1ce799b170975a92166c96e6f0a)
+  - <sub>Tags: <code>rc1.22.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -586,6 +588,8 @@
 - [ ] [<code>chore: Remove emoji proposals feature</code>](https://github.com/krille-chan/fluffychat/commit/2615632881f80b7aea3b3c02f9573b80be1bf670)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/156f38cf4656e5b98a28f78fbe4496e35591f276)
+- [ ] [<code>Merge pull request #1272 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e985a286d30cd1ce799b170975a92166c96e6f0a)
+  - <sub>Tags: <code>rc1.22.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1871,6 +1875,14 @@
 - [ ] [<code>fix: invalidate query cache when creating custom storage volume [WD-13879] (#829)</code>](https://github.com/canonical/lxd-ui/commit/3381df92c2008b4edda6371db1ac47bab2c850a8)
 - [ ] [<code>fix: adjust copy for project form</code>](https://github.com/canonical/lxd-ui/commit/0ebee2488d6c4ac458208a91ee1f614981727bc8)
 - [ ] [<code>fix: adjust copy for project form (#830)</code>](https://github.com/canonical/lxd-ui/commit/089dd6b9180e8d68d7d130f593890ee0a32c8b99)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.15.0</code>](https://github.com/canonical/lxd-ui/commit/618d966bf230787524718648fb0da0f3396c6602)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.15.0 (#835)</code>](https://github.com/canonical/lxd-ui/commit/50b2161391f62be742a81913b2c263c70e654fd6)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.60.0</code>](https://github.com/canonical/lxd-ui/commit/d779f6eec3392670305e9d7608c07d9f994b6f6a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v0.60.0 (#841)</code>](https://github.com/canonical/lxd-ui/commit/af2654f81ce53b4c4e54b89e3867b4d8817a4635)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2465,6 +2477,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ci: add a workflow for TIOBE</code>](https://github.com/canonical/netplan/commit/7c9d49d515c0990eab2c0d512939cfd9bb554701)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ci: run meson tests with unbuffer</code>](https://github.com/canonical/netplan/commit/045a3730425c10c6c06e826cb2c2bf2d674d5ee7)
+- [ ] [<code>ci/tics: install "expect" as a dependency</code>](https://github.com/canonical/netplan/commit/900b5a7e8c85e92638fd9b3ec06636ca0048ad3c)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
