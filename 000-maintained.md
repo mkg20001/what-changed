@@ -637,6 +637,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9800e1db6c34dd348a34fc9a5823acf13509fec9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/firewalld: Update Docker link</code>](https://github.com/lxc/incus/commit/9e8a12aebe53bc07803a3af7488728f7e640e746)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1654,6 +1655,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9800e1db6c34dd348a34fc9a5823acf13509fec9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/firewalld: Update Docker link</code>](https://github.com/lxc/incus/commit/9e8a12aebe53bc07803a3af7488728f7e640e746)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
