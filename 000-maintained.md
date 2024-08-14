@@ -638,6 +638,19 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e900aa48fc29843be57674eb5c57aec49aca17f0)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/drivers/qmp: Export RunJSON</code>](https://github.com/lxc/incus/commit/1e65fcfbbe8c14dac208db8a966f845086f981ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: qemu_raw_qmp</code>](https://github.com/lxc/incus/commit/043359898b05d956531588277c90d5b97b801381)
+- [ ] [<code>incusd/instance: Add raw QMP config options</code>](https://github.com/lxc/incus/commit/ed9284467644ea579b8b4741d6e5af486bf505fa)
+- [ ] [<code>doc: Add QMP to wordlist</code>](https://github.com/lxc/incus/commit/6b697f743e29558274e5aa439e226946dac88f71)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/c83dbb2911042f15ec60cf0c5963e0a6d832e87d)
+- [ ] [<code>incusd/instance/qemu: Add QMP hooks</code>](https://github.com/lxc/incus/commit/eba841813ece9517331454fce2ca625aedd6dbbd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Update low-level properties</code>](https://github.com/lxc/incus/commit/e731940a565bd31ecad8883ea2429dcf269783f9)
+- [ ] [<code>incus/network/forward/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/0d60290be27c5854731dfa5b78df8f60a96ec2ef)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/75d2c608a744f3639db166beb16655158a1faee8)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1659,6 +1672,19 @@
 - [ ] [<code>incus/network/zone/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/9bdeb59150c8b07f479f138860bfd6d8b93b7e67)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e900aa48fc29843be57674eb5c57aec49aca17f0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/drivers/qmp: Export RunJSON</code>](https://github.com/lxc/incus/commit/1e65fcfbbe8c14dac208db8a966f845086f981ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: qemu_raw_qmp</code>](https://github.com/lxc/incus/commit/043359898b05d956531588277c90d5b97b801381)
+- [ ] [<code>incusd/instance: Add raw QMP config options</code>](https://github.com/lxc/incus/commit/ed9284467644ea579b8b4741d6e5af486bf505fa)
+- [ ] [<code>doc: Add QMP to wordlist</code>](https://github.com/lxc/incus/commit/6b697f743e29558274e5aa439e226946dac88f71)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/c83dbb2911042f15ec60cf0c5963e0a6d832e87d)
+- [ ] [<code>incusd/instance/qemu: Add QMP hooks</code>](https://github.com/lxc/incus/commit/eba841813ece9517331454fce2ca625aedd6dbbd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Update low-level properties</code>](https://github.com/lxc/incus/commit/e731940a565bd31ecad8883ea2429dcf269783f9)
+- [ ] [<code>incus/network/forward/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/0d60290be27c5854731dfa5b78df8f60a96ec2ef)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/75d2c608a744f3639db166beb16655158a1faee8)
   - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
