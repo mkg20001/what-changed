@@ -2479,6 +2479,19 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>netplan ignores NetworkManager ipv4.route-metric</code>](https://github.com/canonical/netplan/commit/6b44b4915076280c60da98f2b8a627514d39247d)
 - [ ] [<code>Change default umask when creating dirctories</code>](https://github.com/canonical/netplan/commit/62bb680b3aa21ea927426300b5240680369d7c6c)
+- [ ] [<code>networkd: avoid memory-leak in wait_online</code>](https://github.com/canonical/netplan/commit/aaca1b9e46d486c80b5af33e3c3771cc5d3e2008)
+- [ ] [<code>ci: migrate to Ubuntu 24.04</code>](https://github.com/canonical/netplan/commit/36ba4cc86f2c130b0669e524dd5c12859eef36a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>CI: use autopkgtest 5.37</code>](https://github.com/canonical/netplan/commit/365b0198e7dc356586a3194e0a9192ac95d16fc6)
+- [ ] [<code>CI: update snapd.patch</code>](https://github.com/canonical/netplan/commit/a27c6184f4e36a5a33c25984e1785c75afd188f3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>spread: upgrade to 24.04</code>](https://github.com/canonical/netplan/commit/3dbdba358ac588f4471b19575736333a18dd9e04)
+- [ ] [<code>doc: Annotate new 1.1 settings</code>](https://github.com/canonical/netplan/commit/ac8f9931085010367c15ac62c01fe87691f388eb)
+- [ ] [<code>abi-compat: re-generate 1.1 ABI on Noble</code>](https://github.com/canonical/netplan/commit/658ae5d3277188d0b1754f99f8f3f695d3762b22)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>meson: Bump version to v1.1</code>](https://github.com/canonical/netplan/commit/d27f32305f7f06de449b32239a89969e6ff2be31)
+  - <sub>Tags: <code>1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
