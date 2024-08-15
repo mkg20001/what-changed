@@ -376,6 +376,7 @@
 - [ ] [<code>chore: Follow up fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/156f38cf4656e5b98a28f78fbe4496e35591f276)
 - [ ] [<code>Merge pull request #1272 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e985a286d30cd1ce799b170975a92166c96e6f0a)
   - <sub>Tags: <code>rc1.22.0-1</code></sub>
+- [ ] [<code>chore: Remove issue pr management workflow</code>](https://github.com/krille-chan/fluffychat/commit/e738fdbbb5fcff4e70cfc376297c506ed21d62c8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -582,6 +583,7 @@
 - [ ] [<code>chore: Follow up fix google services patch</code>](https://github.com/krille-chan/fluffychat/commit/156f38cf4656e5b98a28f78fbe4496e35591f276)
 - [ ] [<code>Merge pull request #1272 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e985a286d30cd1ce799b170975a92166c96e6f0a)
   - <sub>Tags: <code>rc1.22.0-1</code></sub>
+- [ ] [<code>chore: Remove issue pr management workflow</code>](https://github.com/krille-chan/fluffychat/commit/e738fdbbb5fcff4e70cfc376297c506ed21d62c8)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2508,6 +2510,7 @@
 - [ ] [<code>meson: Bump version to v1.1</code>](https://github.com/canonical/netplan/commit/d27f32305f7f06de449b32239a89969e6ff2be31)
   - <sub>Tags: <code>1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ci: enable the TICS workflow scheduled task</code>](https://github.com/canonical/netplan/commit/e5d82f59e9d9b3db0779f8929f84a52d0477073f)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
