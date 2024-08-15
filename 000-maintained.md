@@ -651,6 +651,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/75d2c608a744f3639db166beb16655158a1faee8)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incusd: Add hostname to dhcp request</code>](https://github.com/lxc/incus/commit/3b3bdc6008feb542e048855d89bc64ac0e1bf598)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network/list-leases: Add support for column selection</code>](https://github.com/lxc/incus/commit/d5b4f5856a3ecb25ac572ff24b3a396f2c7539f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/85cd333991e1c6cb4e4268b4ffa985621302a324)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/3518d55d3a9ad8a502388c2b5ffcbbe448b64d23)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1686,6 +1694,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/75d2c608a744f3639db166beb16655158a1faee8)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incusd: Add hostname to dhcp request</code>](https://github.com/lxc/incus/commit/3b3bdc6008feb542e048855d89bc64ac0e1bf598)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network/list-leases: Add support for column selection</code>](https://github.com/lxc/incus/commit/d5b4f5856a3ecb25ac572ff24b3a396f2c7539f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/85cd333991e1c6cb4e4268b4ffa985621302a324)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/3518d55d3a9ad8a502388c2b5ffcbbe448b64d23)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
