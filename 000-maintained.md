@@ -665,6 +665,18 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4179b740dc044304675c0a20c64ece7238d0c655)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: network_load_balancer_health_check</code>](https://github.com/lxc/incus/commit/ab2caedbda6ea604b10812e64a19633dd5812348)
+- [ ] [<code>incusd/network/ovn: Simplify CreateLoadBalancer</code>](https://github.com/lxc/incus/commit/50c81e797125732819274deda5292164927711b7)
+- [ ] [<code>incusd/network: Update for CreateLoadBalancer changes</code>](https://github.com/lxc/incus/commit/0a78b7397e8f030442db4a25d86ff04c84097dde)
+- [ ] [<code>incusd/network/ovn: Add healthcheck support in LoadBalancer</code>](https://github.com/lxc/incus/commit/fe374a8165961de8e77ee46efdbcadd317c95fff)
+- [ ] [<code>incusd/network: Add healthcheck config options</code>](https://github.com/lxc/incus/commit/8a186b795677fbfa9b0f31d5a8df3c6251997f27)
+- [ ] [<code>incusd/network/ovn: Add healthcheck options</code>](https://github.com/lxc/incus/commit/ca7b48912ce087302697e4e4705371e0ab559545)
+- [ ] [<code>incusd/network/ovn: Reserve the last IPv4 address</code>](https://github.com/lxc/incus/commit/457013c3dc13ad564a49332636843922b6ebf1e4)
+- [ ] [<code>doc/network/load_balancer: Add configuration options</code>](https://github.com/lxc/incus/commit/a74c29e33fec6aa518d6744756b1d440a1e6726f)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/29a80b98e3685a679fb6803d0d03b6689791020e)
+- [ ] [<code>incus/admin/init: Prompt for dir storage location</code>](https://github.com/lxc/incus/commit/986860eedd78493002cc186a1e49452d60fff040)
+- [ ] [<code>tests: Update for extra step in init</code>](https://github.com/lxc/incus/commit/65a913d546dd3da017a42e862311415f8b77957a)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0500600c01476e2c41e4b9eaf059ccd707f10742)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1712,6 +1724,18 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4179b740dc044304675c0a20c64ece7238d0c655)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: network_load_balancer_health_check</code>](https://github.com/lxc/incus/commit/ab2caedbda6ea604b10812e64a19633dd5812348)
+- [ ] [<code>incusd/network/ovn: Simplify CreateLoadBalancer</code>](https://github.com/lxc/incus/commit/50c81e797125732819274deda5292164927711b7)
+- [ ] [<code>incusd/network: Update for CreateLoadBalancer changes</code>](https://github.com/lxc/incus/commit/0a78b7397e8f030442db4a25d86ff04c84097dde)
+- [ ] [<code>incusd/network/ovn: Add healthcheck support in LoadBalancer</code>](https://github.com/lxc/incus/commit/fe374a8165961de8e77ee46efdbcadd317c95fff)
+- [ ] [<code>incusd/network: Add healthcheck config options</code>](https://github.com/lxc/incus/commit/8a186b795677fbfa9b0f31d5a8df3c6251997f27)
+- [ ] [<code>incusd/network/ovn: Add healthcheck options</code>](https://github.com/lxc/incus/commit/ca7b48912ce087302697e4e4705371e0ab559545)
+- [ ] [<code>incusd/network/ovn: Reserve the last IPv4 address</code>](https://github.com/lxc/incus/commit/457013c3dc13ad564a49332636843922b6ebf1e4)
+- [ ] [<code>doc/network/load_balancer: Add configuration options</code>](https://github.com/lxc/incus/commit/a74c29e33fec6aa518d6744756b1d440a1e6726f)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/29a80b98e3685a679fb6803d0d03b6689791020e)
+- [ ] [<code>incus/admin/init: Prompt for dir storage location</code>](https://github.com/lxc/incus/commit/986860eedd78493002cc186a1e49452d60fff040)
+- [ ] [<code>tests: Update for extra step in init</code>](https://github.com/lxc/incus/commit/65a913d546dd3da017a42e862311415f8b77957a)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0500600c01476e2c41e4b9eaf059ccd707f10742)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
