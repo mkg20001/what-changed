@@ -661,6 +661,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/3518d55d3a9ad8a502388c2b5ffcbbe448b64d23)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/network/list-allocations: Add support for column selection</code>](https://github.com/lxc/incus/commit/aef9139cc66ababc041d3b323f0cd6dfb9bd362e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4179b740dc044304675c0a20c64ece7238d0c655)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1704,6 +1708,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: Update incus_alias.md</code>](https://github.com/lxc/incus/commit/3518d55d3a9ad8a502388c2b5ffcbbe448b64d23)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/network/list-allocations: Add support for column selection</code>](https://github.com/lxc/incus/commit/aef9139cc66ababc041d3b323f0cd6dfb9bd362e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4179b740dc044304675c0a20c64ece7238d0c655)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2693,6 +2701,10 @@
 - [ ] [<code>fix(gui): no profile selected after creating custom profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2719425c3a7cbf12016160ca5a1d07e208d39ec)
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5217b1563b2e02ac0b36e8c1a8eb63666b68ca45)
 - [ ] [<code>fix(android): failure case for migration 8 to 9</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f594572af44f1790223801206080166b7eb8a186)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e0baecdd6dc7a2a6b6b6730b27ccb1b98f6950da)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(web): update to vitest v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/705f8fc497946a6f8e9eb87b55f9310771f6fa18)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
