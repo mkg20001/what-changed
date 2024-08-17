@@ -2729,6 +2729,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build(web): update to vitest v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/705f8fc497946a6f8e9eb87b55f9310771f6fa18)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(android): revert navigation-compose to 2.8.0-beta06</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c0be207a6507c565d3a16ef833d0d29f52b726ac)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
