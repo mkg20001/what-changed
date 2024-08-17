@@ -677,6 +677,18 @@
 - [ ] [<code>incus/admin/init: Prompt for dir storage location</code>](https://github.com/lxc/incus/commit/986860eedd78493002cc186a1e49452d60fff040)
 - [ ] [<code>tests: Update for extra step in init</code>](https://github.com/lxc/incus/commit/65a913d546dd3da017a42e862311415f8b77957a)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0500600c01476e2c41e4b9eaf059ccd707f10742)
+- [ ] [<code>incus/network/integration/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/5250c2f2ba1ca56270a3ff741b27a929916ca83e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/986046e651105bdfcf2672d6a3b394794122dde4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage/bucket/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/a5e7d346cd2224815bd0e90831a33d4451560736)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7bb973e4fd745ea86fa5f80626b87a6c2966c09d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: oidc_scopes</code>](https://github.com/lxc/incus/commit/132545b6c81822d70ae8e9dd2e0f56c51b81aca4)
+- [ ] [<code>incusd/config: Add oidc.scopes</code>](https://github.com/lxc/incus/commit/aee99a1be1b016b814bf6bbfb40a969c285096a6)
+- [ ] [<code>incusd/oidc: Add custom scopes support</code>](https://github.com/lxc/incus/commit/83d4b675c233e63c260e32773d90438fce12e7f4)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ad58f752a08ba4c473fe25ee0a22c7c860b67285)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1736,6 +1748,18 @@
 - [ ] [<code>incus/admin/init: Prompt for dir storage location</code>](https://github.com/lxc/incus/commit/986860eedd78493002cc186a1e49452d60fff040)
 - [ ] [<code>tests: Update for extra step in init</code>](https://github.com/lxc/incus/commit/65a913d546dd3da017a42e862311415f8b77957a)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0500600c01476e2c41e4b9eaf059ccd707f10742)
+- [ ] [<code>incus/network/integration/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/5250c2f2ba1ca56270a3ff741b27a929916ca83e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/986046e651105bdfcf2672d6a3b394794122dde4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/storage/bucket/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/a5e7d346cd2224815bd0e90831a33d4451560736)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7bb973e4fd745ea86fa5f80626b87a6c2966c09d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: oidc_scopes</code>](https://github.com/lxc/incus/commit/132545b6c81822d70ae8e9dd2e0f56c51b81aca4)
+- [ ] [<code>incusd/config: Add oidc.scopes</code>](https://github.com/lxc/incus/commit/aee99a1be1b016b814bf6bbfb40a969c285096a6)
+- [ ] [<code>incusd/oidc: Add custom scopes support</code>](https://github.com/lxc/incus/commit/83d4b675c233e63c260e32773d90438fce12e7f4)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ad58f752a08ba4c473fe25ee0a22c7c860b67285)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
