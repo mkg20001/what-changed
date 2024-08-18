@@ -140,6 +140,7 @@
 - [ ] [<code>Update Rust to v1.79.0</code>](https://github.com/stepchowfun/docuum/commit/2b7b6833d2db03bac5629e29186db30968f8bf41)
 - [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
+- [ ] [<code>Update Rust to v1.80.1</code>](https://github.com/stepchowfun/docuum/commit/4309709bd352686d0bbb8ba6ab8ebce89be2f89f)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
