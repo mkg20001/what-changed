@@ -690,6 +690,14 @@
 - [ ] [<code>incusd/config: Add oidc.scopes</code>](https://github.com/lxc/incus/commit/aee99a1be1b016b814bf6bbfb40a969c285096a6)
 - [ ] [<code>incusd/oidc: Add custom scopes support</code>](https://github.com/lxc/incus/commit/83d4b675c233e63c260e32773d90438fce12e7f4)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ad58f752a08ba4c473fe25ee0a22c7c860b67285)
+- [ ] [<code>incus/storage/bucket: Add support for column selection in key list</code>](https://github.com/lxc/incus/commit/64f68956ae389ba36665c9e9fab10f3b85477729)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fc87b111518fe883aac380050022a1ec3f11b1f7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/snapshot/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/fa629c57e949e8db6a5bd9510f8c5bdb799c4651)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07beef52dd66b370ed07fe0ef0ac251dd3962251)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1761,6 +1769,14 @@
 - [ ] [<code>incusd/config: Add oidc.scopes</code>](https://github.com/lxc/incus/commit/aee99a1be1b016b814bf6bbfb40a969c285096a6)
 - [ ] [<code>incusd/oidc: Add custom scopes support</code>](https://github.com/lxc/incus/commit/83d4b675c233e63c260e32773d90438fce12e7f4)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/ad58f752a08ba4c473fe25ee0a22c7c860b67285)
+- [ ] [<code>incus/storage/bucket: Add support for column selection in key list</code>](https://github.com/lxc/incus/commit/64f68956ae389ba36665c9e9fab10f3b85477729)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fc87b111518fe883aac380050022a1ec3f11b1f7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/snapshot/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/fa629c57e949e8db6a5bd9510f8c5bdb799c4651)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07beef52dd66b370ed07fe0ef0ac251dd3962251)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
