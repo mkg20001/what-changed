@@ -698,6 +698,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07beef52dd66b370ed07fe0ef0ac251dd3962251)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/lvm: Fix resize logic to conserve LV state</code>](https://github.com/lxc/incus/commit/d8fdc55c664e679eeea94670b02e4d926f6350a3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1777,6 +1778,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07beef52dd66b370ed07fe0ef0ac251dd3962251)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/lvm: Fix resize logic to conserve LV state</code>](https://github.com/lxc/incus/commit/d8fdc55c664e679eeea94670b02e4d926f6350a3)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1916,6 +1918,9 @@
 - [ ] [<code>Update CHANGELOG.md entry for #2380</code>](https://github.com/AOMediaCodec/libavif/commit/daade0eb9646e21c6dd3e011e73f0a6ab70b6baf)
 - [ ] [<code>Update AVIF_MATRIX_COEFFICIENTS_YCGCO_RE and _RO (#2384)</code>](https://github.com/AOMediaCodec/libavif/commit/b75cf3c762b85c1ebd717ade15e44c8f6b68c99b)
 - [ ] [<code>Fix fields typo in avifgainmaptest (#2387)</code>](https://github.com/AOMediaCodec/libavif/commit/0d3e5e215dffbbd6afbf917ce00c84de599ba410)
+- [ ] [<code>Minor comment fixes for the mini box code</code>](https://github.com/AOMediaCodec/libavif/commit/4d0f851a88b8efe69a90e5eb19a7d2278e46da56)
+- [ ] [<code>Fix group id conflicting with item id. #2391 (#2396)</code>](https://github.com/AOMediaCodec/libavif/commit/a0f3ed1776f4ec56f552125a4bcd30b0dca51daf)
+- [ ] [<code>Fix an incorrect file name in tests/data/README.md</code>](https://github.com/AOMediaCodec/libavif/commit/e758440760897cd5116509a7f0027220dc8501b4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
