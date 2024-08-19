@@ -2773,6 +2773,9 @@
 - [ ] [<code>build(android): revert navigation-compose to 2.8.0-beta06</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c0be207a6507c565d3a16ef833d0d29f52b726ac)
 - [ ] [<code>build(android): specify path to uniffi.toml when running bindgen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b43198617ab0238d415236e2641e8327e45bf969)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gui): export eq profile json text wrapping</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a714f7b1ae32e197e91165490cc235d30248425)
+- [ ] [<code>feat(gui): add back button on import/export page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4194ddde4a97cdd3771ee178b35473b734a2d312)
+- [ ] [<code>fix(gui): replace fullcolor icons with symbolic variants</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2b63b80edf25e3349ed44e38abed08556cf161e3)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
