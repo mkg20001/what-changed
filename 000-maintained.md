@@ -700,6 +700,19 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage/lvm: Fix resize logic to conserve LV state</code>](https://github.com/lxc/incus/commit/d8fdc55c664e679eeea94670b02e4d926f6350a3)
 - [ ] [<code>incusd/network/ovn: Set missing send_periodic field</code>](https://github.com/lxc/incus/commit/1a7904d1788793509d32955b86a9c7b111cd9dea)
+- [ ] [<code>incusd/profiles: Improve listing performance</code>](https://github.com/lxc/incus/commit/029a3f1f4ef506280e268d462451b12bae09ea6f)
+- [ ] [<code>incusd/server/db: Increase transaction deadline to 30s</code>](https://github.com/lxc/incus/commit/0fc84c888a1301f7ff3dd8ed956706fefcd0b232)
+- [ ] [<code>incusd/db/profiles: Support device cache in ToAPI</code>](https://github.com/lxc/incus/commit/edcea63a7604786a9fe5396022f8a5b9cd02560f)
+- [ ] [<code>incusd: Pass profile device cache to ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/db2a8cd1d136dc2463775b4066245576b7001fe7)
+- [ ] [<code>incusd/db/instances: Support device cache to ToAPI</code>](https://github.com/lxc/incus/commit/3c886fc6b354f4f07a2b8bba1f798092c7084704)
+- [ ] [<code>incusd: Pass instance device cache to ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/5d46fd8efdaf27bba1033e08ddc52b07dac8f964)
+- [ ] [<code>incusd/db/instances: Allow passing profile devices to instance ToAPI</code>](https://github.com/lxc/incus/commit/38d7c3087c235d59bf194333c766c975b48c6b3c)
+- [ ] [<code>incusd: Pass profile device cache to instance ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/caa997d50cb785d3c0489be59e46dd67b80b3880)
+- [ ] [<code>incusd/instances: Remove old retry logic</code>](https://github.com/lxc/incus/commit/7c60b4a520c7554bb4a8103783419ed144e511e1)
+- [ ] [<code>incus/cluster/list-tokens: Add support for column selection</code>](https://github.com/lxc/incus/commit/bcee7c7ef8d2dc421981517aa7fccc87fce3c4d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/140acb0682db646a586807d23c8f0981c97e4258)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1781,6 +1794,19 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage/lvm: Fix resize logic to conserve LV state</code>](https://github.com/lxc/incus/commit/d8fdc55c664e679eeea94670b02e4d926f6350a3)
 - [ ] [<code>incusd/network/ovn: Set missing send_periodic field</code>](https://github.com/lxc/incus/commit/1a7904d1788793509d32955b86a9c7b111cd9dea)
+- [ ] [<code>incusd/profiles: Improve listing performance</code>](https://github.com/lxc/incus/commit/029a3f1f4ef506280e268d462451b12bae09ea6f)
+- [ ] [<code>incusd/server/db: Increase transaction deadline to 30s</code>](https://github.com/lxc/incus/commit/0fc84c888a1301f7ff3dd8ed956706fefcd0b232)
+- [ ] [<code>incusd/db/profiles: Support device cache in ToAPI</code>](https://github.com/lxc/incus/commit/edcea63a7604786a9fe5396022f8a5b9cd02560f)
+- [ ] [<code>incusd: Pass profile device cache to ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/db2a8cd1d136dc2463775b4066245576b7001fe7)
+- [ ] [<code>incusd/db/instances: Support device cache to ToAPI</code>](https://github.com/lxc/incus/commit/3c886fc6b354f4f07a2b8bba1f798092c7084704)
+- [ ] [<code>incusd: Pass instance device cache to ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/5d46fd8efdaf27bba1033e08ddc52b07dac8f964)
+- [ ] [<code>incusd/db/instances: Allow passing profile devices to instance ToAPI</code>](https://github.com/lxc/incus/commit/38d7c3087c235d59bf194333c766c975b48c6b3c)
+- [ ] [<code>incusd: Pass profile device cache to instance ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/caa997d50cb785d3c0489be59e46dd67b80b3880)
+- [ ] [<code>incusd/instances: Remove old retry logic</code>](https://github.com/lxc/incus/commit/7c60b4a520c7554bb4a8103783419ed144e511e1)
+- [ ] [<code>incus/cluster/list-tokens: Add support for column selection</code>](https://github.com/lxc/incus/commit/bcee7c7ef8d2dc421981517aa7fccc87fce3c4d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/140acb0682db646a586807d23c8f0981c97e4258)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1923,6 +1949,8 @@
 - [ ] [<code>Minor comment fixes for the mini box code</code>](https://github.com/AOMediaCodec/libavif/commit/4d0f851a88b8efe69a90e5eb19a7d2278e46da56)
 - [ ] [<code>Fix group id conflicting with item id. #2391 (#2396)</code>](https://github.com/AOMediaCodec/libavif/commit/a0f3ed1776f4ec56f552125a4bcd30b0dca51daf)
 - [ ] [<code>Fix an incorrect file name in tests/data/README.md</code>](https://github.com/AOMediaCodec/libavif/commit/e758440760897cd5116509a7f0027220dc8501b4)
+- [ ] [<code>Check for ftyp precedence in avifParse() (#2398)</code>](https://github.com/AOMediaCodec/libavif/commit/06e47801b58bf619225db8e12ee05986b1b36081)
+- [ ] [<code>Update gain map test files. (#2402)</code>](https://github.com/AOMediaCodec/libavif/commit/56512ddf50c95ea31ade4bf4b040792d2f92ae1f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2591,6 +2619,8 @@
   - <sub>Tags: <code>1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ci: enable the TICS workflow scheduled task</code>](https://github.com/canonical/netplan/commit/e5d82f59e9d9b3db0779f8929f84a52d0477073f)
+- [ ] [<code>ODA #107: Create snippet files for single-sourcing repetitive instructions (#505)</code>](https://github.com/canonical/netplan/commit/58ff195cf17c6b46f1522beefb2e9e73613dcb06)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
