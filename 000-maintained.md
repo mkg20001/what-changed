@@ -699,6 +699,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07beef52dd66b370ed07fe0ef0ac251dd3962251)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage/lvm: Fix resize logic to conserve LV state</code>](https://github.com/lxc/incus/commit/d8fdc55c664e679eeea94670b02e4d926f6350a3)
+- [ ] [<code>incusd/network/ovn: Set missing send_periodic field</code>](https://github.com/lxc/incus/commit/1a7904d1788793509d32955b86a9c7b111cd9dea)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1779,6 +1780,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07beef52dd66b370ed07fe0ef0ac251dd3962251)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage/lvm: Fix resize logic to conserve LV state</code>](https://github.com/lxc/incus/commit/d8fdc55c664e679eeea94670b02e4d926f6350a3)
+- [ ] [<code>incusd/network/ovn: Set missing send_periodic field</code>](https://github.com/lxc/incus/commit/1a7904d1788793509d32955b86a9c7b111cd9dea)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
