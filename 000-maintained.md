@@ -22,7 +22,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.4/dbeaver-ce-24.1.4-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.4/dbeaver-ce-24.1.4-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.1.5/dbeaver-ce-24.1.5-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.1.5/dbeaver-ce-24.1.5-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
@@ -378,6 +378,7 @@
 - [ ] [<code>Merge pull request #1272 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e985a286d30cd1ce799b170975a92166c96e6f0a)
   - <sub>Tags: <code>rc1.22.0-1</code></sub>
 - [ ] [<code>chore: Remove issue pr management workflow</code>](https://github.com/krille-chan/fluffychat/commit/e738fdbbb5fcff4e70cfc376297c506ed21d62c8)
+- [ ] [<code>build: Update video compress and other dependencies</code>](https://github.com/krille-chan/fluffychat/commit/249c6e0fa27f022976f04b2df255f1832c36613c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -585,6 +586,7 @@
 - [ ] [<code>Merge pull request #1272 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/e985a286d30cd1ce799b170975a92166c96e6f0a)
   - <sub>Tags: <code>rc1.22.0-1</code></sub>
 - [ ] [<code>chore: Remove issue pr management workflow</code>](https://github.com/krille-chan/fluffychat/commit/e738fdbbb5fcff4e70cfc376297c506ed21d62c8)
+- [ ] [<code>build: Update video compress and other dependencies</code>](https://github.com/krille-chan/fluffychat/commit/249c6e0fa27f022976f04b2df255f1832c36613c)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -709,6 +711,15 @@
 - [ ] [<code>incusd/db/instances: Allow passing profile devices to instance ToAPI</code>](https://github.com/lxc/incus/commit/38d7c3087c235d59bf194333c766c975b48c6b3c)
 - [ ] [<code>incusd: Pass profile device cache to instance ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/caa997d50cb785d3c0489be59e46dd67b80b3880)
 - [ ] [<code>incusd/instances: Remove old retry logic</code>](https://github.com/lxc/incus/commit/7c60b4a520c7554bb4a8103783419ed144e511e1)
+- [ ] [<code>incusd/network_integration: Fix typo in doc string</code>](https://github.com/lxc/incus/commit/f09eae90d3fbc10269c4dcd1129fe934d378789d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8680caf10059a496a5cf779796c71538cb593fdb)
+- [ ] [<code>incusd/main_forknet: Tweak DHCP client to apply DNS first</code>](https://github.com/lxc/incus/commit/46639503163e536268b1edf42f05aaec1886e1ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Use stable random for IC gateway chassis priority</code>](https://github.com/lxc/incus/commit/9102e09c1af973c8f2a2f244a43db4a6bd3de31d)
+- [ ] [<code>api: network_integrations_peer_name</code>](https://github.com/lxc/incus/commit/cb8fc36caa75ff6b511b078a4aa7d1e464720206)
+- [ ] [<code>incusd/network_integrations: Add peerName to ovn.transit.pattern</code>](https://github.com/lxc/incus/commit/219372090557c66f6ff358827bf9c7c6b6842964)
+- [ ] [<code>incusd/network/ovn: Expose peerName to ovn.transit.pattern</code>](https://github.com/lxc/incus/commit/5a3f23b5becfeb1cb1c4cce91d2d39ddcaa75de6)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/142624979f0716c9e975ec4b1bdc42c55cd2c60e)
 - [ ] [<code>incus/cluster/list-tokens: Add support for column selection</code>](https://github.com/lxc/incus/commit/bcee7c7ef8d2dc421981517aa7fccc87fce3c4d5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/140acb0682db646a586807d23c8f0981c97e4258)
@@ -1803,6 +1814,15 @@
 - [ ] [<code>incusd/db/instances: Allow passing profile devices to instance ToAPI</code>](https://github.com/lxc/incus/commit/38d7c3087c235d59bf194333c766c975b48c6b3c)
 - [ ] [<code>incusd: Pass profile device cache to instance ToAPI calls when possible</code>](https://github.com/lxc/incus/commit/caa997d50cb785d3c0489be59e46dd67b80b3880)
 - [ ] [<code>incusd/instances: Remove old retry logic</code>](https://github.com/lxc/incus/commit/7c60b4a520c7554bb4a8103783419ed144e511e1)
+- [ ] [<code>incusd/network_integration: Fix typo in doc string</code>](https://github.com/lxc/incus/commit/f09eae90d3fbc10269c4dcd1129fe934d378789d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8680caf10059a496a5cf779796c71538cb593fdb)
+- [ ] [<code>incusd/main_forknet: Tweak DHCP client to apply DNS first</code>](https://github.com/lxc/incus/commit/46639503163e536268b1edf42f05aaec1886e1ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Use stable random for IC gateway chassis priority</code>](https://github.com/lxc/incus/commit/9102e09c1af973c8f2a2f244a43db4a6bd3de31d)
+- [ ] [<code>api: network_integrations_peer_name</code>](https://github.com/lxc/incus/commit/cb8fc36caa75ff6b511b078a4aa7d1e464720206)
+- [ ] [<code>incusd/network_integrations: Add peerName to ovn.transit.pattern</code>](https://github.com/lxc/incus/commit/219372090557c66f6ff358827bf9c7c6b6842964)
+- [ ] [<code>incusd/network/ovn: Expose peerName to ovn.transit.pattern</code>](https://github.com/lxc/incus/commit/5a3f23b5becfeb1cb1c4cce91d2d39ddcaa75de6)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/142624979f0716c9e975ec4b1bdc42c55cd2c60e)
 - [ ] [<code>incus/cluster/list-tokens: Add support for column selection</code>](https://github.com/lxc/incus/commit/bcee7c7ef8d2dc421981517aa7fccc87fce3c4d5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/140acb0682db646a586807d23c8f0981c97e4258)
@@ -1951,6 +1971,7 @@
 - [ ] [<code>Fix an incorrect file name in tests/data/README.md</code>](https://github.com/AOMediaCodec/libavif/commit/e758440760897cd5116509a7f0027220dc8501b4)
 - [ ] [<code>Check for ftyp precedence in avifParse() (#2398)</code>](https://github.com/AOMediaCodec/libavif/commit/06e47801b58bf619225db8e12ee05986b1b36081)
 - [ ] [<code>Update gain map test files. (#2402)</code>](https://github.com/AOMediaCodec/libavif/commit/56512ddf50c95ea31ade4bf4b040792d2f92ae1f)
+- [ ] [<code>Improve 'mini' read and write of float and brand (#2400)</code>](https://github.com/AOMediaCodec/libavif/commit/14d8e3c4b8d74158ec96b4684e663fcea9cf5fb6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2621,6 +2642,7 @@
 - [ ] [<code>ci: enable the TICS workflow scheduled task</code>](https://github.com/canonical/netplan/commit/e5d82f59e9d9b3db0779f8929f84a52d0477073f)
 - [ ] [<code>ODA #107: Create snippet files for single-sourcing repetitive instructions (#505)</code>](https://github.com/canonical/netplan/commit/58ff195cf17c6b46f1522beefb2e9e73613dcb06)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci/tics: set the token before trying to download TICS</code>](https://github.com/canonical/netplan/commit/e5d58dd0488872b937b9556a8787b4ad9dd259e9)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2921,6 +2943,7 @@
 - [ ] [<code>Upgrade dependencies</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/31fe23d688a7e77aea5d11444ac212797d55a8f1)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
+- [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
 
