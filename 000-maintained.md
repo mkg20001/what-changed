@@ -724,6 +724,21 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/140acb0682db646a586807d23c8f0981c97e4258)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage_volumes_state: Handle unsupported response from drivers</code>](https://github.com/lxc/incus/commit/4f5efd6132a263fe56e98ad1262a70159f8f8934)
+- [ ] [<code>incusd/db/cluster: Remove network integration/peer unique index</code>](https://github.com/lxc/incus/commit/18234d30100ecc585fe9664d62e1e15bb95a4496)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db/cluster: Update schema</code>](https://github.com/lxc/incus/commit/5f75d239779edfc0bc37a654e6c583efb8d5565a)
+- [ ] [<code>lxd-to-incus: Handle Incus socket in /run/incus/</code>](https://github.com/lxc/incus/commit/f54ad5cdcd0fa3648010542bba128bcda0eb5e4e)
+- [ ] [<code>incusd/network/ovn: Record transit subnets</code>](https://github.com/lxc/incus/commit/25bae07eaef20eb59978423c738ba73505b6a036)
+- [ ] [<code>incusd/network/ovn: Add transit switch addresss allocation functions</code>](https://github.com/lxc/incus/commit/443db2131f59896e54d1826bdcbd0f7d00b67975)
+- [ ] [<code>incusd/network/ovn: Setup transit switch allocations</code>](https://github.com/lxc/incus/commit/cbb5d3b9ba5ea53a5406d0db9234c3cf270f3d16)
+- [ ] [<code>incusd/auth/openfga: Avoid deprecated ApiSchema and ApiHost</code>](https://github.com/lxc/incus/commit/266d54a224224198a01cd73a581fb51fff1943c8)
+- [ ] [<code>incusd/auth: Re-organize entitlement list</code>](https://github.com/lxc/incus/commit/fffd96ddbc0b48be3a4ce2ea7872494fdc24543f)
+- [ ] [<code>incusd/auth/openfga: Sort entries in openfga model</code>](https://github.com/lxc/incus/commit/123a32c61af1813c2e5a0010a80d1298680c14cd)
+- [ ] [<code>incusd/auth/openfga: Add missing network integration permission</code>](https://github.com/lxc/incus/commit/dc491fc1309e4e8b41a0a9975e49a05dea30050f)
+- [ ] [<code>incusd/auth/openfga: Require admin level to create projects</code>](https://github.com/lxc/incus/commit/916316f730cf65dfe9f6f83f140a56e03cedf081)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/5b67ef034afcc1d212d32993565166ef77aeb76b)
+- [ ] [<code>incusd/auth: Fix network integration object</code>](https://github.com/lxc/incus/commit/aaf076809084dca08aa752ccf378f911ddefbcfa)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1827,6 +1842,21 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/140acb0682db646a586807d23c8f0981c97e4258)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage_volumes_state: Handle unsupported response from drivers</code>](https://github.com/lxc/incus/commit/4f5efd6132a263fe56e98ad1262a70159f8f8934)
+- [ ] [<code>incusd/db/cluster: Remove network integration/peer unique index</code>](https://github.com/lxc/incus/commit/18234d30100ecc585fe9664d62e1e15bb95a4496)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db/cluster: Update schema</code>](https://github.com/lxc/incus/commit/5f75d239779edfc0bc37a654e6c583efb8d5565a)
+- [ ] [<code>lxd-to-incus: Handle Incus socket in /run/incus/</code>](https://github.com/lxc/incus/commit/f54ad5cdcd0fa3648010542bba128bcda0eb5e4e)
+- [ ] [<code>incusd/network/ovn: Record transit subnets</code>](https://github.com/lxc/incus/commit/25bae07eaef20eb59978423c738ba73505b6a036)
+- [ ] [<code>incusd/network/ovn: Add transit switch addresss allocation functions</code>](https://github.com/lxc/incus/commit/443db2131f59896e54d1826bdcbd0f7d00b67975)
+- [ ] [<code>incusd/network/ovn: Setup transit switch allocations</code>](https://github.com/lxc/incus/commit/cbb5d3b9ba5ea53a5406d0db9234c3cf270f3d16)
+- [ ] [<code>incusd/auth/openfga: Avoid deprecated ApiSchema and ApiHost</code>](https://github.com/lxc/incus/commit/266d54a224224198a01cd73a581fb51fff1943c8)
+- [ ] [<code>incusd/auth: Re-organize entitlement list</code>](https://github.com/lxc/incus/commit/fffd96ddbc0b48be3a4ce2ea7872494fdc24543f)
+- [ ] [<code>incusd/auth/openfga: Sort entries in openfga model</code>](https://github.com/lxc/incus/commit/123a32c61af1813c2e5a0010a80d1298680c14cd)
+- [ ] [<code>incusd/auth/openfga: Add missing network integration permission</code>](https://github.com/lxc/incus/commit/dc491fc1309e4e8b41a0a9975e49a05dea30050f)
+- [ ] [<code>incusd/auth/openfga: Require admin level to create projects</code>](https://github.com/lxc/incus/commit/916316f730cf65dfe9f6f83f140a56e03cedf081)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/5b67ef034afcc1d212d32993565166ef77aeb76b)
+- [ ] [<code>incusd/auth: Fix network integration object</code>](https://github.com/lxc/incus/commit/aaf076809084dca08aa752ccf378f911ddefbcfa)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1973,6 +2003,7 @@
 - [ ] [<code>Update gain map test files. (#2402)</code>](https://github.com/AOMediaCodec/libavif/commit/56512ddf50c95ea31ade4bf4b040792d2f92ae1f)
 - [ ] [<code>Improve 'mini' read and write of float and brand (#2400)</code>](https://github.com/AOMediaCodec/libavif/commit/14d8e3c4b8d74158ec96b4684e663fcea9cf5fb6)
 - [ ] [<code>Change gain map parsing API. (#2399)</code>](https://github.com/AOMediaCodec/libavif/commit/3e4b9c88761aab919cbf98377447b7315dd834b3)
+- [ ] [<code>Ignore gain maps in files that don't have the 'tmap' brand. (#2403)</code>](https://github.com/AOMediaCodec/libavif/commit/ab708ca88689210b770005198c88f0c2e4159a6a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
