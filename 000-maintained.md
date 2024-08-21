@@ -1972,6 +1972,7 @@
 - [ ] [<code>Check for ftyp precedence in avifParse() (#2398)</code>](https://github.com/AOMediaCodec/libavif/commit/06e47801b58bf619225db8e12ee05986b1b36081)
 - [ ] [<code>Update gain map test files. (#2402)</code>](https://github.com/AOMediaCodec/libavif/commit/56512ddf50c95ea31ade4bf4b040792d2f92ae1f)
 - [ ] [<code>Improve 'mini' read and write of float and brand (#2400)</code>](https://github.com/AOMediaCodec/libavif/commit/14d8e3c4b8d74158ec96b4684e663fcea9cf5fb6)
+- [ ] [<code>Change gain map parsing API. (#2399)</code>](https://github.com/AOMediaCodec/libavif/commit/3e4b9c88761aab919cbf98377447b7315dd834b3)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2835,6 +2836,7 @@
 - [ ] [<code>fix(gui): export eq profile json text wrapping</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a714f7b1ae32e197e91165490cc235d30248425)
 - [ ] [<code>feat(gui): add back button on import/export page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4194ddde4a97cdd3771ee178b35473b734a2d312)
 - [ ] [<code>fix(gui): replace fullcolor icons with symbolic variants</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2b63b80edf25e3349ed44e38abed08556cf161e3)
+- [ ] [<code>fix(gui): export json output expands window</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f476b30ed76e8f4b96550f9829c9214ca2c8583)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
