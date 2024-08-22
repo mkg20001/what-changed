@@ -739,6 +739,10 @@
 - [ ] [<code>incusd/auth/openfga: Require admin level to create projects</code>](https://github.com/lxc/incus/commit/916316f730cf65dfe9f6f83f140a56e03cedf081)
 - [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/5b67ef034afcc1d212d32993565166ef77aeb76b)
 - [ ] [<code>incusd/auth: Fix network integration object</code>](https://github.com/lxc/incus/commit/aaf076809084dca08aa752ccf378f911ddefbcfa)
+- [ ] [<code>incus/config/trust/list-tokens: Add support for column selection</code>](https://github.com/lxc/incus/commit/616bc77f4527dd4eb61c25a73a51a8a24b3ff5cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2b84dbad766423675a9b59324fbcd8fe95f3e842)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1857,6 +1861,10 @@
 - [ ] [<code>incusd/auth/openfga: Require admin level to create projects</code>](https://github.com/lxc/incus/commit/916316f730cf65dfe9f6f83f140a56e03cedf081)
 - [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/5b67ef034afcc1d212d32993565166ef77aeb76b)
 - [ ] [<code>incusd/auth: Fix network integration object</code>](https://github.com/lxc/incus/commit/aaf076809084dca08aa752ccf378f911ddefbcfa)
+- [ ] [<code>incus/config/trust/list-tokens: Add support for column selection</code>](https://github.com/lxc/incus/commit/616bc77f4527dd4eb61c25a73a51a8a24b3ff5cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2b84dbad766423675a9b59324fbcd8fe95f3e842)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
