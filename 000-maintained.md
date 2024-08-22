@@ -2012,6 +2012,10 @@
 - [ ] [<code>Improve 'mini' read and write of float and brand (#2400)</code>](https://github.com/AOMediaCodec/libavif/commit/14d8e3c4b8d74158ec96b4684e663fcea9cf5fb6)
 - [ ] [<code>Change gain map parsing API. (#2399)</code>](https://github.com/AOMediaCodec/libavif/commit/3e4b9c88761aab919cbf98377447b7315dd834b3)
 - [ ] [<code>Ignore gain maps in files that don't have the 'tmap' brand. (#2403)</code>](https://github.com/AOMediaCodec/libavif/commit/ab708ca88689210b770005198c88f0c2e4159a6a)
+- [ ] [<code>Empty HandlerBox name instead of "libavif" (#2378)</code>](https://github.com/AOMediaCodec/libavif/commit/8dc2a62cf2683a2dbd1e7bbcab97ca2b8d46e5ea)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix fuzzer following gain map API changes (#2405)</code>](https://github.com/AOMediaCodec/libavif/commit/9be2966e6bcd04ca9b801e9fe4f0d202cfb9fbed)
+- [ ] [<code>Also check the type "skip" for a FreeSpaceBox</code>](https://github.com/AOMediaCodec/libavif/commit/7176120d5815eff277f385b2778d6f99093b2de5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
