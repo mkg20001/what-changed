@@ -747,6 +747,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/02e050bcd3aae05630363a063e36caf2d70bad45)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network/load-balancer/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/6e03fad5d147992e95b621b7bcec1d684e03f821)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f6540634757bbbfce0a3138d87e379e69e750a6)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1873,6 +1877,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/02e050bcd3aae05630363a063e36caf2d70bad45)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network/load-balancer/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/6e03fad5d147992e95b621b7bcec1d684e03f821)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f6540634757bbbfce0a3138d87e379e69e750a6)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2025,6 +2033,7 @@
 - [ ] [<code>Fix fuzzer following gain map API changes (#2405)</code>](https://github.com/AOMediaCodec/libavif/commit/9be2966e6bcd04ca9b801e9fe4f0d202cfb9fbed)
 - [ ] [<code>Also check the type "skip" for a FreeSpaceBox</code>](https://github.com/AOMediaCodec/libavif/commit/7176120d5815eff277f385b2778d6f99093b2de5)
 - [ ] [<code>Update to SVT-AV1 v2.2.0</code>](https://github.com/AOMediaCodec/libavif/commit/c2177c3316a49505dcd592ba21073f7abc25cd37)
+- [ ] [<code>avifgainmaputil: ignore the alt image icc when --ignore-profile is set (#2411)</code>](https://github.com/AOMediaCodec/libavif/commit/fbf1cef6d1f190ec0035a73967ec27d8b0471376)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2696,6 +2705,8 @@
 - [ ] [<code>ODA #107: Create snippet files for single-sourcing repetitive instructions (#505)</code>](https://github.com/canonical/netplan/commit/58ff195cf17c6b46f1522beefb2e9e73613dcb06)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci/tics: set the token before trying to download TICS</code>](https://github.com/canonical/netplan/commit/e5d58dd0488872b937b9556a8787b4ad9dd259e9)
+- [ ] [<code>networkd: fix __FUNCTION__ macro and implicit boolean condition</code>](https://github.com/canonical/netplan/commit/366b476351ff24c29ca536e43ffb54b4308c6981)
+- [ ] [<code>tree-wide: refactoring to avoid Conditionals with Omitted Operands and use proper Boolean conditions</code>](https://github.com/canonical/netplan/commit/a21ed4f30ac853846afbb95f60df35c0be077776)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
