@@ -743,6 +743,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2b84dbad766423675a9b59324fbcd8fe95f3e842)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network/peer/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/1e016fb797d9cfeb1c5b9f6d933b7b72e8b4bcdd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/02e050bcd3aae05630363a063e36caf2d70bad45)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1865,6 +1869,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2b84dbad766423675a9b59324fbcd8fe95f3e842)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network/peer/list: Add support for column selection</code>](https://github.com/lxc/incus/commit/1e016fb797d9cfeb1c5b9f6d933b7b72e8b4bcdd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/02e050bcd3aae05630363a063e36caf2d70bad45)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2016,6 +2024,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix fuzzer following gain map API changes (#2405)</code>](https://github.com/AOMediaCodec/libavif/commit/9be2966e6bcd04ca9b801e9fe4f0d202cfb9fbed)
 - [ ] [<code>Also check the type "skip" for a FreeSpaceBox</code>](https://github.com/AOMediaCodec/libavif/commit/7176120d5815eff277f385b2778d6f99093b2de5)
+- [ ] [<code>Update to SVT-AV1 v2.2.0</code>](https://github.com/AOMediaCodec/libavif/commit/c2177c3316a49505dcd592ba21073f7abc25cd37)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
