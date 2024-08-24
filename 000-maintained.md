@@ -2900,6 +2900,10 @@
 - [ ] [<code>feat(gui): add back button on import/export page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4194ddde4a97cdd3771ee178b35473b734a2d312)
 - [ ] [<code>fix(gui): replace fullcolor icons with symbolic variants</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2b63b80edf25e3349ed44e38abed08556cf161e3)
 - [ ] [<code>fix(gui): export json output expands window</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f476b30ed76e8f4b96550f9829c9214ca2c8583)
+- [ ] [<code>fix(gui): export eq profile properties as camelCase</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a175bd0812c90038b4d3308cdc03d8bc5bd49ca1)
+- [ ] [<code>feat(gui): import eq profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/28c198d4490e590cea5f8d67c2b55838f4688458)
+- [ ] [<code>fix(gui): swap order of import/export buttons</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53845f8ef7661936861fb45f48709f013e2012af)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d7319e718f1c4d7275220fe0e04b5d8427836b6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
