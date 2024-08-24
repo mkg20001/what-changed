@@ -379,6 +379,9 @@
   - <sub>Tags: <code>rc1.22.0-1</code></sub>
 - [ ] [<code>chore: Remove issue pr management workflow</code>](https://github.com/krille-chan/fluffychat/commit/e738fdbbb5fcff4e70cfc376297c506ed21d62c8)
 - [ ] [<code>build: Update video compress and other dependencies</code>](https://github.com/krille-chan/fluffychat/commit/249c6e0fa27f022976f04b2df255f1832c36613c)
+- [ ] [<code>build(deps): bump rexml from 3.3.3 to 3.3.6 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/05d595bb155685e919a62384f8bf3807d178ea87)
+- [ ] [<code>build: return `.gitkeep` file after removing assets to prevent Git see the deletion</code>](https://github.com/krille-chan/fluffychat/commit/4d62039dd4bd181789485b31ca00fe6d9e3ef2c0)
+- [ ] [<code>fix: use raw `yq` query result (formatted one may result in `"d.d.d"` string on some systems)</code>](https://github.com/krille-chan/fluffychat/commit/bd41aeb45ec48b94a5950542076820809a7cd419)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -587,6 +590,9 @@
   - <sub>Tags: <code>rc1.22.0-1</code></sub>
 - [ ] [<code>chore: Remove issue pr management workflow</code>](https://github.com/krille-chan/fluffychat/commit/e738fdbbb5fcff4e70cfc376297c506ed21d62c8)
 - [ ] [<code>build: Update video compress and other dependencies</code>](https://github.com/krille-chan/fluffychat/commit/249c6e0fa27f022976f04b2df255f1832c36613c)
+- [ ] [<code>build(deps): bump rexml from 3.3.3 to 3.3.6 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/05d595bb155685e919a62384f8bf3807d178ea87)
+- [ ] [<code>build: return `.gitkeep` file after removing assets to prevent Git see the deletion</code>](https://github.com/krille-chan/fluffychat/commit/4d62039dd4bd181789485b31ca00fe6d9e3ef2c0)
+- [ ] [<code>fix: use raw `yq` query result (formatted one may result in `"d.d.d"` string on some systems)</code>](https://github.com/krille-chan/fluffychat/commit/bd41aeb45ec48b94a5950542076820809a7cd419)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
