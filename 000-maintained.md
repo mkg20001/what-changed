@@ -382,6 +382,8 @@
 - [ ] [<code>build(deps): bump rexml from 3.3.3 to 3.3.6 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/05d595bb155685e919a62384f8bf3807d178ea87)
 - [ ] [<code>build: return `.gitkeep` file after removing assets to prevent Git see the deletion</code>](https://github.com/krille-chan/fluffychat/commit/4d62039dd4bd181789485b31ca00fe6d9e3ef2c0)
 - [ ] [<code>fix: use raw `yq` query result (formatted one may result in `"d.d.d"` string on some systems)</code>](https://github.com/krille-chan/fluffychat/commit/bd41aeb45ec48b94a5950542076820809a7cd419)
+- [ ] [<code>chore: Follow up send file dialog fix</code>](https://github.com/krille-chan/fluffychat/commit/75800ccdd5263707f73d8a2bc37f93b2a8b7ce31)
+- [ ] [<code>chore: Follow up set read marker</code>](https://github.com/krille-chan/fluffychat/commit/f17b09f56c20e2776daaa3cab1b7af9fa7ee240e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -593,6 +595,8 @@
 - [ ] [<code>build(deps): bump rexml from 3.3.3 to 3.3.6 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/05d595bb155685e919a62384f8bf3807d178ea87)
 - [ ] [<code>build: return `.gitkeep` file after removing assets to prevent Git see the deletion</code>](https://github.com/krille-chan/fluffychat/commit/4d62039dd4bd181789485b31ca00fe6d9e3ef2c0)
 - [ ] [<code>fix: use raw `yq` query result (formatted one may result in `"d.d.d"` string on some systems)</code>](https://github.com/krille-chan/fluffychat/commit/bd41aeb45ec48b94a5950542076820809a7cd419)
+- [ ] [<code>chore: Follow up send file dialog fix</code>](https://github.com/krille-chan/fluffychat/commit/75800ccdd5263707f73d8a2bc37f93b2a8b7ce31)
+- [ ] [<code>chore: Follow up set read marker</code>](https://github.com/krille-chan/fluffychat/commit/f17b09f56c20e2776daaa3cab1b7af9fa7ee240e)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
