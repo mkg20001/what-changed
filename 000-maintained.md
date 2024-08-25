@@ -384,6 +384,13 @@
 - [ ] [<code>fix: use raw `yq` query result (formatted one may result in `"d.d.d"` string on some systems)</code>](https://github.com/krille-chan/fluffychat/commit/bd41aeb45ec48b94a5950542076820809a7cd419)
 - [ ] [<code>chore: Follow up send file dialog fix</code>](https://github.com/krille-chan/fluffychat/commit/75800ccdd5263707f73d8a2bc37f93b2a8b7ce31)
 - [ ] [<code>chore: Follow up set read marker</code>](https://github.com/krille-chan/fluffychat/commit/f17b09f56c20e2776daaa3cab1b7af9fa7ee240e)
+- [ ] [<code>refactor: Simplify login UX</code>](https://github.com/krille-chan/fluffychat/commit/dec588d0c0855a8c2a45d132e6f410f449b0a24c)
+- [ ] [<code>feat: Use matrix authenticated media</code>](https://github.com/krille-chan/fluffychat/commit/158a6855c3f6b6aa415241df8659f5d402fe4f39)
+- [ ] [<code>Revert "fix: little issues in `prepare-web` script"</code>](https://github.com/krille-chan/fluffychat/commit/987f84f6b49eca370a2f825106547ace19cb1299)
+- [ ] [<code>chore: Follow up homeserver picker page</code>](https://github.com/krille-chan/fluffychat/commit/e2538816a35382d6b412d1ffee221939d32627dc)
+- [ ] [<code>chore: Better scroll up</code>](https://github.com/krille-chan/fluffychat/commit/0f16cdee88d373d74ed0b8fa88de0e40bbd1113d)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/1227d762c35492663785b4852fcdefa54b0b7e83)
+  - <sub>Tags: <code>rc1.22.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -597,6 +604,13 @@
 - [ ] [<code>fix: use raw `yq` query result (formatted one may result in `"d.d.d"` string on some systems)</code>](https://github.com/krille-chan/fluffychat/commit/bd41aeb45ec48b94a5950542076820809a7cd419)
 - [ ] [<code>chore: Follow up send file dialog fix</code>](https://github.com/krille-chan/fluffychat/commit/75800ccdd5263707f73d8a2bc37f93b2a8b7ce31)
 - [ ] [<code>chore: Follow up set read marker</code>](https://github.com/krille-chan/fluffychat/commit/f17b09f56c20e2776daaa3cab1b7af9fa7ee240e)
+- [ ] [<code>refactor: Simplify login UX</code>](https://github.com/krille-chan/fluffychat/commit/dec588d0c0855a8c2a45d132e6f410f449b0a24c)
+- [ ] [<code>feat: Use matrix authenticated media</code>](https://github.com/krille-chan/fluffychat/commit/158a6855c3f6b6aa415241df8659f5d402fe4f39)
+- [ ] [<code>Revert "fix: little issues in `prepare-web` script"</code>](https://github.com/krille-chan/fluffychat/commit/987f84f6b49eca370a2f825106547ace19cb1299)
+- [ ] [<code>chore: Follow up homeserver picker page</code>](https://github.com/krille-chan/fluffychat/commit/e2538816a35382d6b412d1ffee221939d32627dc)
+- [ ] [<code>chore: Better scroll up</code>](https://github.com/krille-chan/fluffychat/commit/0f16cdee88d373d74ed0b8fa88de0e40bbd1113d)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/1227d762c35492663785b4852fcdefa54b0b7e83)
+  - <sub>Tags: <code>rc1.22.0-2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2080,6 +2094,7 @@
 - [ ] [<code>idmap: Lower logging level of newXidmap tools to INFO</code>](https://github.com/lxc/lxc/commit/5db3d7299f1c0c9f1d51cddcc60bc88d92bec9d3)
 - [ ] [<code>Exit 0 when there's no error</code>](https://github.com/lxc/lxc/commit/b24d2d45b3875b013131b480e61c93b6fb8ea70c)
 - [ ] [<code>doc: Fix definitions of get_config_path and set_config_path</code>](https://github.com/lxc/lxc/commit/7be0433107b41525da164f79fd0a410a38f812c7)
+- [ ] [<code>README: Update security contact</code>](https://github.com/lxc/lxc/commit/b79d2a52565feea07ce887330e4b69ed402f36ad)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.1 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.1...HEAD)
 
