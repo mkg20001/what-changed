@@ -90,6 +90,10 @@
 - [ ] [<code>uqmi: create function to print radio interface string</code>](https://git.openwrt.org/project/uqmi.git/commit/6ef41d64c50d16d5d28c9694a5e65b0850b4e37f)
 - [ ] [<code>uqmi: print radio interfaces in serving system command</code>](https://git.openwrt.org/project/uqmi.git/commit/e7207bec95f02f2f7a98254d642186a082af838d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>data: add support for ICC channel</code>](https://git.openwrt.org/project/uqmi.git/commit/d381f80de6aceb9858415521a241cbb25006c81c)
+- [ ] [<code>qmi: fix dynamic array macro</code>](https://git.openwrt.org/project/uqmi.git/commit/f582e0009c730403a3b2a0592619bb87b5a54898)
+- [ ] [<code>uim: add support for ICC communication channel</code>](https://git.openwrt.org/project/uqmi.git/commit/28b48a10dbcd1177095b73c6d8086d10114f49b8)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
 
