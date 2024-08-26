@@ -775,6 +775,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f6540634757bbbfce0a3138d87e379e69e750a6)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Change Cloud Init "user" to "users"</code>](https://github.com/lxc/incus/commit/80830b539466d23d29167449e9b66fcd26fe37bd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1905,6 +1906,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f6540634757bbbfce0a3138d87e379e69e750a6)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Change Cloud Init "user" to "users"</code>](https://github.com/lxc/incus/commit/80830b539466d23d29167449e9b66fcd26fe37bd)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2929,6 +2931,11 @@
 - [ ] [<code>feat(gui): import eq profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/28c198d4490e590cea5f8d67c2b55838f4688458)
 - [ ] [<code>fix(gui): swap order of import/export buttons</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53845f8ef7661936861fb45f48709f013e2012af)
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d7319e718f1c4d7275220fe0e04b5d8427836b6)
+- [ ] [<code>feat(android): new color scheme generated from logo colors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2bc0a0f5dc024badf40d2325cdbcdd1e9761ef42)
+- [ ] [<code>refactor(android): remove material 2 dependency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d719685e1fc968f1a61cabbf2f2f76676812a35d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>style(android): upgrade ktlint to 1.3.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/37c2b9b2d8de7aca59c529048f32c22b479f21a4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
