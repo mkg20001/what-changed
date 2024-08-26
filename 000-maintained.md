@@ -776,6 +776,14 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f6540634757bbbfce0a3138d87e379e69e750a6)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Change Cloud Init "user" to "users"</code>](https://github.com/lxc/incus/commit/80830b539466d23d29167449e9b66fcd26fe37bd)
+- [ ] [<code>shared/api: Fix incorrect struct naming for volume backups</code>](https://github.com/lxc/incus/commit/52b6b031a54dbd909c63471515f70e39d6075942)
+- [ ] [<code>client: Update for fixed volume backup structs</code>](https://github.com/lxc/incus/commit/9eb5f8404a835798d28e679f1c36fc93384c6140)
+- [ ] [<code>incus: Update for fixed volume backup structs</code>](https://github.com/lxc/incus/commit/6b54848bd6932ae93e5ecd77a7060104c7e3425e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for fixed volume backup structs</code>](https://github.com/lxc/incus/commit/52058f28dced02902b6eb01a4816d5345167e13c)
+- [ ] [<code>incusd/storage_volume_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/118a281e87f1b618a9c25d8586fdec4c36ad0d78)
+- [ ] [<code>incusd/storage_bucket_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/edd03c4551acab3ee66780e43634091ef8f424af)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/55079abe2b290a8c9d9c6c90e9840b99c7c5f9e3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1907,6 +1915,14 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9f6540634757bbbfce0a3138d87e379e69e750a6)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Change Cloud Init "user" to "users"</code>](https://github.com/lxc/incus/commit/80830b539466d23d29167449e9b66fcd26fe37bd)
+- [ ] [<code>shared/api: Fix incorrect struct naming for volume backups</code>](https://github.com/lxc/incus/commit/52b6b031a54dbd909c63471515f70e39d6075942)
+- [ ] [<code>client: Update for fixed volume backup structs</code>](https://github.com/lxc/incus/commit/9eb5f8404a835798d28e679f1c36fc93384c6140)
+- [ ] [<code>incus: Update for fixed volume backup structs</code>](https://github.com/lxc/incus/commit/6b54848bd6932ae93e5ecd77a7060104c7e3425e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for fixed volume backup structs</code>](https://github.com/lxc/incus/commit/52058f28dced02902b6eb01a4816d5345167e13c)
+- [ ] [<code>incusd/storage_volume_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/118a281e87f1b618a9c25d8586fdec4c36ad0d78)
+- [ ] [<code>incusd/storage_bucket_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/edd03c4551acab3ee66780e43634091ef8f424af)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/55079abe2b290a8c9d9c6c90e9840b99c7c5f9e3)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
