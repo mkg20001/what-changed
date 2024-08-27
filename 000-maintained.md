@@ -391,6 +391,7 @@
 - [ ] [<code>chore: Better scroll up</code>](https://github.com/krille-chan/fluffychat/commit/0f16cdee88d373d74ed0b8fa88de0e40bbd1113d)
 - [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/1227d762c35492663785b4852fcdefa54b0b7e83)
   - <sub>Tags: <code>rc1.22.0-2</code></sub>
+- [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -611,6 +612,7 @@
 - [ ] [<code>chore: Better scroll up</code>](https://github.com/krille-chan/fluffychat/commit/0f16cdee88d373d74ed0b8fa88de0e40bbd1113d)
 - [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/1227d762c35492663785b4852fcdefa54b0b7e83)
   - <sub>Tags: <code>rc1.22.0-2</code></sub>
+- [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -784,6 +786,7 @@
 - [ ] [<code>incusd/storage_volume_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/118a281e87f1b618a9c25d8586fdec4c36ad0d78)
 - [ ] [<code>incusd/storage_bucket_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/edd03c4551acab3ee66780e43634091ef8f424af)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/55079abe2b290a8c9d9c6c90e9840b99c7c5f9e3)
+- [ ] [<code>incusd/device/nic: Make burst rate dynamic for ingress traffic</code>](https://github.com/lxc/incus/commit/948a25b65af472f17389d3958d63c7210131c8aa)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1923,6 +1926,7 @@
 - [ ] [<code>incusd/storage_volume_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/118a281e87f1b618a9c25d8586fdec4c36ad0d78)
 - [ ] [<code>incusd/storage_bucket_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/edd03c4551acab3ee66780e43634091ef8f424af)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/55079abe2b290a8c9d9c6c90e9840b99c7c5f9e3)
+- [ ] [<code>incusd/device/nic: Make burst rate dynamic for ingress traffic</code>](https://github.com/lxc/incus/commit/948a25b65af472f17389d3958d63c7210131c8aa)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
