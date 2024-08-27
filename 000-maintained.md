@@ -392,6 +392,7 @@
 - [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/1227d762c35492663785b4852fcdefa54b0b7e83)
   - <sub>Tags: <code>rc1.22.0-2</code></sub>
 - [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
+- [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/eae7db7d71c16935fab50e512f2c594cbfc96dd0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -613,6 +614,7 @@
 - [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/1227d762c35492663785b4852fcdefa54b0b7e83)
   - <sub>Tags: <code>rc1.22.0-2</code></sub>
 - [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
+- [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/eae7db7d71c16935fab50e512f2c594cbfc96dd0)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -787,6 +789,23 @@
 - [ ] [<code>incusd/storage_bucket_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/edd03c4551acab3ee66780e43634091ef8f424af)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/55079abe2b290a8c9d9c6c90e9840b99c7c5f9e3)
 - [ ] [<code>incusd/device/nic: Make burst rate dynamic for ingress traffic</code>](https://github.com/lxc/incus/commit/948a25b65af472f17389d3958d63c7210131c8aa)
+- [ ] [<code>incusd/storage/lvm: Allow live resize</code>](https://github.com/lxc/incus/commit/d78b0a89e61afbb73790c561653acda1d79d6f9f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/zfs: Allow online resize of ZFS block volumes</code>](https://github.com/lxc/incus/commit/0d8561e95d0f0eac1f4a5c497916f950dc6a6db1)
+- [ ] [<code>incusd/device/disk: Add callback on resize</code>](https://github.com/lxc/incus/commit/c13e9298cc6341bdb522b91ea53bbb91e6865eb1)
+- [ ] [<code>incusd/instance/drivers/qmp: Add resize handling</code>](https://github.com/lxc/incus/commit/17fb18ef07b1369f59bc9181e9657f7c6e1ee3fa)
+- [ ] [<code>incusd/instance/qemu: Add disk resize handling</code>](https://github.com/lxc/incus/commit/de3ea2ec6e7ac112ad0e91c0c08339adbae368b1)
+- [ ] [<code>incusd/node/config: Add network.ovs.connection</code>](https://github.com/lxc/incus/commit/6ecad2dc8be078528a84cf74a614614d67e69476)
+- [ ] [<code>doc: Switch /var/run to just /run</code>](https://github.com/lxc/incus/commit/b5b90d8986e9ae67125cb7a01d93fcc48e962aff)
+- [ ] [<code>incusd/cluster/config: Switch from /var/run to /run</code>](https://github.com/lxc/incus/commit/d57e1aa766ed0ca654f9b7c226f948633db2fffa)
+- [ ] [<code>incusd/instance/agent-loader: Don't hardcode path</code>](https://github.com/lxc/incus/commit/8dafa2a41772b22dd1bbb14bd51785eb5fac10ad)
+- [ ] [<code>incusd/syslog: Update OVS path</code>](https://github.com/lxc/incus/commit/cf765a69d125489f554db0f8904bea49f658a704)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/34150b43dafc8b34da2ca9199fcb5101ad1c3d9d)
+- [ ] [<code>incusd/network/ovs: Make OVS database configurable</code>](https://github.com/lxc/incus/commit/fdd0951bcc1cb2760eaa0545cbc81fd121846969)
+- [ ] [<code>incusd/state: Add OVS function</code>](https://github.com/lxc/incus/commit/34828840becb184f7f1658c7c28e02f61125ca5e)
+- [ ] [<code>incusd: Set OVS function on State</code>](https://github.com/lxc/incus/commit/8041891bc9a6c1f91726d533c313b3ba8de26553)
+- [ ] [<code>incusd: Port to state.OVS</code>](https://github.com/lxc/incus/commit/ab44781257c29ab35c51a629f113f8e4ac0df66f)
+- [ ] [<code>incusd: Reset OVS as needed</code>](https://github.com/lxc/incus/commit/3ddbdcc36ef62bcffb92b5e106031dc1c15ba2b2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1927,6 +1946,23 @@
 - [ ] [<code>incusd/storage_bucket_backup: Fix swagger references</code>](https://github.com/lxc/incus/commit/edd03c4551acab3ee66780e43634091ef8f424af)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/55079abe2b290a8c9d9c6c90e9840b99c7c5f9e3)
 - [ ] [<code>incusd/device/nic: Make burst rate dynamic for ingress traffic</code>](https://github.com/lxc/incus/commit/948a25b65af472f17389d3958d63c7210131c8aa)
+- [ ] [<code>incusd/storage/lvm: Allow live resize</code>](https://github.com/lxc/incus/commit/d78b0a89e61afbb73790c561653acda1d79d6f9f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/zfs: Allow online resize of ZFS block volumes</code>](https://github.com/lxc/incus/commit/0d8561e95d0f0eac1f4a5c497916f950dc6a6db1)
+- [ ] [<code>incusd/device/disk: Add callback on resize</code>](https://github.com/lxc/incus/commit/c13e9298cc6341bdb522b91ea53bbb91e6865eb1)
+- [ ] [<code>incusd/instance/drivers/qmp: Add resize handling</code>](https://github.com/lxc/incus/commit/17fb18ef07b1369f59bc9181e9657f7c6e1ee3fa)
+- [ ] [<code>incusd/instance/qemu: Add disk resize handling</code>](https://github.com/lxc/incus/commit/de3ea2ec6e7ac112ad0e91c0c08339adbae368b1)
+- [ ] [<code>incusd/node/config: Add network.ovs.connection</code>](https://github.com/lxc/incus/commit/6ecad2dc8be078528a84cf74a614614d67e69476)
+- [ ] [<code>doc: Switch /var/run to just /run</code>](https://github.com/lxc/incus/commit/b5b90d8986e9ae67125cb7a01d93fcc48e962aff)
+- [ ] [<code>incusd/cluster/config: Switch from /var/run to /run</code>](https://github.com/lxc/incus/commit/d57e1aa766ed0ca654f9b7c226f948633db2fffa)
+- [ ] [<code>incusd/instance/agent-loader: Don't hardcode path</code>](https://github.com/lxc/incus/commit/8dafa2a41772b22dd1bbb14bd51785eb5fac10ad)
+- [ ] [<code>incusd/syslog: Update OVS path</code>](https://github.com/lxc/incus/commit/cf765a69d125489f554db0f8904bea49f658a704)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/34150b43dafc8b34da2ca9199fcb5101ad1c3d9d)
+- [ ] [<code>incusd/network/ovs: Make OVS database configurable</code>](https://github.com/lxc/incus/commit/fdd0951bcc1cb2760eaa0545cbc81fd121846969)
+- [ ] [<code>incusd/state: Add OVS function</code>](https://github.com/lxc/incus/commit/34828840becb184f7f1658c7c28e02f61125ca5e)
+- [ ] [<code>incusd: Set OVS function on State</code>](https://github.com/lxc/incus/commit/8041891bc9a6c1f91726d533c313b3ba8de26553)
+- [ ] [<code>incusd: Port to state.OVS</code>](https://github.com/lxc/incus/commit/ab44781257c29ab35c51a629f113f8e4ac0df66f)
+- [ ] [<code>incusd: Reset OVS as needed</code>](https://github.com/lxc/incus/commit/3ddbdcc36ef62bcffb92b5e106031dc1c15ba2b2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2080,6 +2116,8 @@
 - [ ] [<code>Also check the type "skip" for a FreeSpaceBox</code>](https://github.com/AOMediaCodec/libavif/commit/7176120d5815eff277f385b2778d6f99093b2de5)
 - [ ] [<code>Update to SVT-AV1 v2.2.0</code>](https://github.com/AOMediaCodec/libavif/commit/c2177c3316a49505dcd592ba21073f7abc25cd37)
 - [ ] [<code>avifgainmaputil: ignore the alt image icc when --ignore-profile is set (#2411)</code>](https://github.com/AOMediaCodec/libavif/commit/fbf1cef6d1f190ec0035a73967ec27d8b0471376)
+- [ ] [<code>Add a presubmit workflow that runs fuzztest tests (#2410)</code>](https://github.com/AOMediaCodec/libavif/commit/a3647dcd85ce9c63344451d63aafd09f72507950)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
