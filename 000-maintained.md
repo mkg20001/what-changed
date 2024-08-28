@@ -806,6 +806,9 @@
 - [ ] [<code>incusd: Set OVS function on State</code>](https://github.com/lxc/incus/commit/8041891bc9a6c1f91726d533c313b3ba8de26553)
 - [ ] [<code>incusd: Port to state.OVS</code>](https://github.com/lxc/incus/commit/ab44781257c29ab35c51a629f113f8e4ac0df66f)
 - [ ] [<code>incusd: Reset OVS as needed</code>](https://github.com/lxc/incus/commit/3ddbdcc36ef62bcffb92b5e106031dc1c15ba2b2)
+- [ ] [<code>incusd/network/ovn: Limit MAC_Binding explosion</code>](https://github.com/lxc/incus/commit/f7dc973ce30f24e6cc396e8dddf3552df0d898f2)
+- [ ] [<code>incusd/network/ovn: Add ARP limits to updated routers</code>](https://github.com/lxc/incus/commit/624021f748e49172acdfdb0c0f86f6deed10061c)
+- [ ] [<code>incusd/network/ovn: Wait a bit longer for northd to allocate addresses</code>](https://github.com/lxc/incus/commit/490bf1fc9c99a8b915c4c71e965d32461598c5d3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1963,6 +1966,9 @@
 - [ ] [<code>incusd: Set OVS function on State</code>](https://github.com/lxc/incus/commit/8041891bc9a6c1f91726d533c313b3ba8de26553)
 - [ ] [<code>incusd: Port to state.OVS</code>](https://github.com/lxc/incus/commit/ab44781257c29ab35c51a629f113f8e4ac0df66f)
 - [ ] [<code>incusd: Reset OVS as needed</code>](https://github.com/lxc/incus/commit/3ddbdcc36ef62bcffb92b5e106031dc1c15ba2b2)
+- [ ] [<code>incusd/network/ovn: Limit MAC_Binding explosion</code>](https://github.com/lxc/incus/commit/f7dc973ce30f24e6cc396e8dddf3552df0d898f2)
+- [ ] [<code>incusd/network/ovn: Add ARP limits to updated routers</code>](https://github.com/lxc/incus/commit/624021f748e49172acdfdb0c0f86f6deed10061c)
+- [ ] [<code>incusd/network/ovn: Wait a bit longer for northd to allocate addresses</code>](https://github.com/lxc/incus/commit/490bf1fc9c99a8b915c4c71e965d32461598c5d3)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
