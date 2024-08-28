@@ -84,6 +84,8 @@
 
 #### [cinnamon.nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
+- [ ] [<code>Fix blocking when listing or entering a network location with an</code>](https://github.com/linuxmint/nemo/commit/fb47200334ffbea949da76697fee09539ef9dfc8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
