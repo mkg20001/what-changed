@@ -44,6 +44,8 @@
 
 #### [cinnamon.cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.2.0...HEAD)
 
+- [ ] [<code>csd-settings-remap-manager.c: Only report on missing schemas and</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d97f9230cfa633b7c319bc9305a4461977654574)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
