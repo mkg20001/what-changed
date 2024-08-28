@@ -393,6 +393,7 @@
   - <sub>Tags: <code>rc1.22.0-2</code></sub>
 - [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
 - [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/eae7db7d71c16935fab50e512f2c594cbfc96dd0)
+- [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/3cb88f3d49086282b57bc725b8463dcfd52f8124)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -615,6 +616,7 @@
   - <sub>Tags: <code>rc1.22.0-2</code></sub>
 - [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
 - [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/eae7db7d71c16935fab50e512f2c594cbfc96dd0)
+- [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/3cb88f3d49086282b57bc725b8463dcfd52f8124)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -622,6 +624,8 @@
 > Dropped flutter316 - no appropriate URL found OrderedDict([('attr_path', 'flutter316'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped flutter322 - no appropriate URL found OrderedDict([('attr_path', 'flutter322'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter323 - no appropriate URL found OrderedDict([('attr_path', 'flutter323'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
@@ -2124,6 +2128,7 @@
 - [ ] [<code>avifgainmaputil: ignore the alt image icc when --ignore-profile is set (#2411)</code>](https://github.com/AOMediaCodec/libavif/commit/fbf1cef6d1f190ec0035a73967ec27d8b0471376)
 - [ ] [<code>Add a presubmit workflow that runs fuzztest tests (#2410)</code>](https://github.com/AOMediaCodec/libavif/commit/a3647dcd85ce9c63344451d63aafd09f72507950)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Replace recent-cmake action variable with oldest-cmake (#2413)</code>](https://github.com/AOMediaCodec/libavif/commit/9c81aa60b49a6a0b3709f522059655e0458d6cd0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
