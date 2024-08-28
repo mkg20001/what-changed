@@ -2129,6 +2129,8 @@
 - [ ] [<code>Add a presubmit workflow that runs fuzztest tests (#2410)</code>](https://github.com/AOMediaCodec/libavif/commit/a3647dcd85ce9c63344451d63aafd09f72507950)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Replace recent-cmake action variable with oldest-cmake (#2413)</code>](https://github.com/AOMediaCodec/libavif/commit/9c81aa60b49a6a0b3709f522059655e0458d6cd0)
+- [ ] [<code>Add details on some gain map test images. (#2414)</code>](https://github.com/AOMediaCodec/libavif/commit/4c56ac1c0bfa017d485ab01c3e5cebcd93c8fb55)
+- [ ] [<code>Do not create files in TESTDATA_DIR in sh tests (#2415)</code>](https://github.com/AOMediaCodec/libavif/commit/338b35b0acbdbd692cf358e6c46003745b1ebf92)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2803,6 +2805,17 @@
 - [ ] [<code>ci/tics: set the token before trying to download TICS</code>](https://github.com/canonical/netplan/commit/e5d58dd0488872b937b9556a8787b4ad9dd259e9)
 - [ ] [<code>networkd: fix __FUNCTION__ macro and implicit boolean condition</code>](https://github.com/canonical/netplan/commit/366b476351ff24c29ca536e43ffb54b4308c6981)
 - [ ] [<code>tree-wide: refactoring to avoid Conditionals with Omitted Operands and use proper Boolean conditions</code>](https://github.com/canonical/netplan/commit/a21ed4f30ac853846afbb95f60df35c0be077776)
+- [ ] [<code>CI: fix 'lxd-ubuntu-lts' naming (after moving it to 24.04/Noble)</code>](https://github.com/canonical/netplan/commit/d27f8ec08250e192c6fd382ae620de815bbbb43c)
+- [ ] [<code>tests: ethernets: Add ipv6-address-generation integration tests</code>](https://github.com/canonical/netplan/commit/615ff26824c561bf2f1c8aecafc10cf10cd3ae7b)
+- [ ] [<code>tests:integration:base: fix imports, using isort</code>](https://github.com/canonical/netplan/commit/30f05de10df961e89c171053c223498a464213e5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:ethernets: Add comments about MAC->EUI64 transformation and move method to base.py</code>](https://github.com/canonical/netplan/commit/c5a3e124f1825c6e84c669bfb00dc6b312861c3b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cli: drop python-netifaces</code>](https://github.com/canonical/netplan/commit/ed5105034ffb2e018b8515bb60296facc5a425f0)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>apply: don't skip members of bonds on renaming</code>](https://github.com/canonical/netplan/commit/80edb5cd45a74511f33ae7493507fb039b7e9e50)
+- [ ] [<code>ci: add ethtool as a netplan.io dependency</code>](https://github.com/canonical/netplan/commit/150090ad28f1d673a7f07b070777fe56493614b5)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
