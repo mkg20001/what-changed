@@ -394,6 +394,9 @@
 - [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
 - [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/eae7db7d71c16935fab50e512f2c594cbfc96dd0)
 - [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/3cb88f3d49086282b57bc725b8463dcfd52f8124)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/e38ccbebbe7ea6fb7c3fbc17c5375c22c40786ce)
+  - <sub>Tags: <code>rc1.22.0-3</code></sub>
+- [ ] [<code>chore: Follow up add web notification icons with auth media</code>](https://github.com/krille-chan/fluffychat/commit/e6948ee0b4155750ee1f0af22c17a17c91aa3ea8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -617,6 +620,9 @@
 - [ ] [<code>chore: Follow up design textfields</code>](https://github.com/krille-chan/fluffychat/commit/aa3de2816be5a7b6953b9bac3c7e17765d846752)
 - [ ] [<code>chore: Follow up set read marker logic</code>](https://github.com/krille-chan/fluffychat/commit/eae7db7d71c16935fab50e512f2c594cbfc96dd0)
 - [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/3cb88f3d49086282b57bc725b8463dcfd52f8124)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/e38ccbebbe7ea6fb7c3fbc17c5375c22c40786ce)
+  - <sub>Tags: <code>rc1.22.0-3</code></sub>
+- [ ] [<code>chore: Follow up add web notification icons with auth media</code>](https://github.com/krille-chan/fluffychat/commit/e6948ee0b4155750ee1f0af22c17a17c91aa3ea8)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -813,6 +819,8 @@
 - [ ] [<code>incusd/network/ovn: Limit MAC_Binding explosion</code>](https://github.com/lxc/incus/commit/f7dc973ce30f24e6cc396e8dddf3552df0d898f2)
 - [ ] [<code>incusd/network/ovn: Add ARP limits to updated routers</code>](https://github.com/lxc/incus/commit/624021f748e49172acdfdb0c0f86f6deed10061c)
 - [ ] [<code>incusd/network/ovn: Wait a bit longer for northd to allocate addresses</code>](https://github.com/lxc/incus/commit/490bf1fc9c99a8b915c4c71e965d32461598c5d3)
+- [ ] [<code>incusd/apparmor: Don't constantly query the version and cache</code>](https://github.com/lxc/incus/commit/2a1f209968c73628c8ea253a4944fb5a80719496)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1973,6 +1981,8 @@
 - [ ] [<code>incusd/network/ovn: Limit MAC_Binding explosion</code>](https://github.com/lxc/incus/commit/f7dc973ce30f24e6cc396e8dddf3552df0d898f2)
 - [ ] [<code>incusd/network/ovn: Add ARP limits to updated routers</code>](https://github.com/lxc/incus/commit/624021f748e49172acdfdb0c0f86f6deed10061c)
 - [ ] [<code>incusd/network/ovn: Wait a bit longer for northd to allocate addresses</code>](https://github.com/lxc/incus/commit/490bf1fc9c99a8b915c4c71e965d32461598c5d3)
+- [ ] [<code>incusd/apparmor: Don't constantly query the version and cache</code>](https://github.com/lxc/incus/commit/2a1f209968c73628c8ea253a4944fb5a80719496)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2131,6 +2141,7 @@
 - [ ] [<code>Replace recent-cmake action variable with oldest-cmake (#2413)</code>](https://github.com/AOMediaCodec/libavif/commit/9c81aa60b49a6a0b3709f522059655e0458d6cd0)
 - [ ] [<code>Add details on some gain map test images. (#2414)</code>](https://github.com/AOMediaCodec/libavif/commit/4c56ac1c0bfa017d485ab01c3e5cebcd93c8fb55)
 - [ ] [<code>Do not create files in TESTDATA_DIR in sh tests (#2415)</code>](https://github.com/AOMediaCodec/libavif/commit/338b35b0acbdbd692cf358e6c46003745b1ebf92)
+- [ ] [<code>Bump SVT to 2.2.1 (#2416)</code>](https://github.com/AOMediaCodec/libavif/commit/3dc10e20447fa696bf1698cd095df4d22e1afc64)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -3018,6 +3029,12 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>style(android): upgrade ktlint to 1.3.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/37c2b9b2d8de7aca59c529048f32c22b479f21a4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(gui): write config to temp file first to ensure no data loss</code>](https://github.com/Oppzippy/OpenSCQ30/commit/340bf4c210fe51572847023bd28d7cfde26d06af)
+- [ ] [<code>fix(gui): don't rewrite config file on startup</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5639aa875c22b4996f6130f59442d83e3ab6579)
+- [ ] [<code>build(web): upgrade dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fae793060cb4ceba9961135f4e7a9bf27986a2be)
+- [ ] [<code>refactor(web): use new mui colorSchemes for light/dark mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f99ad0cda67ca2f251fabe113f3dee3845c5d9dc)
+- [ ] [<code>feat(web): add color scheme selection menu</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f16942a2d2d180982270899169321a48d12f022)
+- [ ] [<code>build(web): don't enter watch mode when using `just test`</code>](https://github.com/Oppzippy/OpenSCQ30/commit/186f1c4fecb93553a7a4690316fe0b2afbd67866)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3042,6 +3059,82 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.37.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.37.2...HEAD)
 
+- [ ] [<code>Fixed #399 - Alert Widget is a Dock Widget</code>](https://github.com/foldynl/QLog.git/commit/203ca1ef9a964221af2a9150df587c01fc712ef1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>DXC: Prepare QSO Spot as a public slot</code>](https://github.com/foldynl/QLog.git/commit/c37e47ecaf758a548cc2f16cdeef68609a073704)
+- [ ] [<code>Logbook: Added Send DX Spot to the QSO Context Menu</code>](https://github.com/foldynl/QLog.git/commit/2dd1bca876af3023507ac1623e80115bf5057522)
+- [ ] [<code>Logbook: Code tuning exportContact</code>](https://github.com/foldynl/QLog.git/commit/85f1fb6160336a00563bf2e45a106edb687a1c8b)
+- [ ] [<code>Logbook: Code tuning</code>](https://github.com/foldynl/QLog.git/commit/3ade9bb8b70ce31c29c1b6ed7cb849e5a7f75a23)
+- [ ] [<code>QRZ: Code tuning</code>](https://github.com/foldynl/QLog.git/commit/5d76d1c3a2719639ad8a432046cf4b9aee299784)
+- [ ] [<code>DX Filter</code>](https://github.com/foldynl/QLog.git/commit/c1a3f9220c6da00cd4ddbe327f262e0e95b68764)
+- [ ] [<code>Fix for MacOS Layout Geometry Restore</code>](https://github.com/foldynl/QLog.git/commit/3446edb384f91961b93c326437bd9a70ba5d2d0d)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/d2b7270e68e6484a4ed3b3b98442cb8a7003b2b5)
+- [ ] [<code>TQSL: TQSL call does not block the GUI thread</code>](https://github.com/foldynl/QLog.git/commit/26313061894689247f02e140483b165a4c1f5aa5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>DX Filter: Spot Dedup setting - using default macros and units for TIME and FREQ</code>](https://github.com/foldynl/QLog.git/commit/a378b1bc605bd27eee6e96e7251e3ee51f5700bf)
+- [ ] [<code>DX Filter: Improved Time and Freq Settings</code>](https://github.com/foldynl/QLog.git/commit/42d09939ef0399532356c2691cfb24b8de1f9150)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/35aafa03b3e2bf6d97d3f670fe1e04baf0aec887)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/b41865fc66d5aa555d18b2322e118ff9f40fd39b)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/54033b43515e72f3e537bda6f6561a1227a93697)
+- [ ] [<code>DXC: Prepare QSO Spot only in case when DXC is connected</code>](https://github.com/foldynl/QLog.git/commit/bd3d2736ac20ad14470eba21861e735f11b928a2)
+- [ ] [<code>Update Authors</code>](https://github.com/foldynl/QLog.git/commit/d537926fd97409c5d1838748637c9daa5a669b71)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/634557f6a2557b84ff624d8cd7b211096411a7fd)
+- [ ] [<code>Fixed #427 - File Open dialog filter is case-sensitive under Linux</code>](https://github.com/foldynl/QLog.git/commit/331f22c463b316afe8717362e8315cd5d7aaab4a)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/9f45a8c353c3d6ab51b56dfef5b9166f4f7bccb9)
+- [ ] [<code>NewContact: Added a dynamic SIG Completer</code>](https://github.com/foldynl/QLog.git/commit/e89224ed98a59b0881552c283a64facdf7444aa8)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/eadaebcd560b474656068a78439a43c8e4db9e14)
+- [ ] [<code>Fixed #415 - Bandmap scroll position is saved for each band</code>](https://github.com/foldynl/QLog.git/commit/4ee57e07fe2d03d18ed6d3428ece7cf4d755f937)
+- [ ] [<code>Bandmap: Fixed issue TX is not displayed at the widget start when XIT is enabled</code>](https://github.com/foldynl/QLog.git/commit/9a5a80c3df46640f46b9c908d82540cae7a6998a)
+- [ ] [<code>Updated Italian translation</code>](https://github.com/foldynl/QLog.git/commit/08b9d74987d2a48f4a5e21f5b33a647528865c0d)
+- [ ] [<code>Logbook: Improved Flag display code</code>](https://github.com/foldynl/QLog.git/commit/e2a9831a3d78a1217b202228a0ee516bc70e6aca)
+- [ ] [<code>Update translations; it is not a final translation commit</code>](https://github.com/foldynl/QLog.git/commit/bf6ef97a64caca98990637aef75bf298a72e5079)
+- [ ] [<code>QSO Detail: Added a dynamic SIG Completer</code>](https://github.com/foldynl/QLog.git/commit/5d8ea4d5cb14f350b5b4e8c069f89f87eb8edac8)
+- [ ] [<code>Settings: Added a dynamic SIG Completer</code>](https://github.com/foldynl/QLog.git/commit/d9392fa51be3aa423cb978b34f5476ac3e41c254)
+- [ ] [<code>Added SIG StringList to Data</code>](https://github.com/foldynl/QLog.git/commit/7b8fa6db531552eeb33e8680f4f14c013d422ed4)
+- [ ] [<code>Profiles: Current profile setting moved from the config to database</code>](https://github.com/foldynl/QLog.git/commit/7ec66be089311b05e6d4a272a71758acf774bf1b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>LOVs: Last Update to DB</code>](https://github.com/foldynl/QLog.git/commit/5973bca5980920e4866f594f00671b9b2852d1a8)
+- [ ] [<code>Awards</code>](https://github.com/foldynl/QLog.git/commit/cb8eae33f369fa4a74dcbfcb36c2deb14873996b)
+- [ ] [<code>Awards: SOTA/POTA/WWFF modifications</code>](https://github.com/foldynl/QLog.git/commit/95403994657ced4253cab9fe3d81db9c6b473e83)
+- [ ] [<code>Awards: Reworked Dynamic SQL statement; POTA supports list of POTAs and @-notification</code>](https://github.com/foldynl/QLog.git/commit/3dfd687eef5ca5446b23b1005139c1a1c8145cd5)
+- [ ] [<code>Awards: Added indexes on contacts xOTA/SIG_int columns</code>](https://github.com/foldynl/QLog.git/commit/e68995255feb6b0b588fac0f209b45804b67cc40)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/625f6dcab5c84460372854309939506070ea25ef)
+- [ ] [<code>Renamed Contacts indexes - index start with table name</code>](https://github.com/foldynl/QLog.git/commit/910fc8f3637ca6c64550f10ed3430b326d5de1f3)
+- [ ] [<code>TQSL: Fixed issue when TQSL binary was not executed correctly</code>](https://github.com/foldynl/QLog.git/commit/d41459117f6fd0c7ec7e9c388511b31787cf0f77)
+- [ ] [<code>Updated Changedlog</code>](https://github.com/foldynl/QLog.git/commit/4dc8c372ad8d80a98d5b0a4d252dff573f1e7591)
+- [ ] [<code>Fixed #353 - Added RTS/DTR PTT Type support</code>](https://github.com/foldynl/QLog.git/commit/5d732969319121439479dca896bf88603267de38)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/6d701eae36773d40d52f725b1e561e4956fe34cb)
+- [ ] [<code>Fixed First-Run issue of LogParams - SQL positioning error</code>](https://github.com/foldynl/QLog.git/commit/79012aba07aeb3df78770e90ed3603a56a4ac1ba)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/5ab844c435d24815ee0f82b54de3566ad9604f5f)
+- [ ] [<code>UpdateMacDeploymentAction</code>](https://github.com/foldynl/QLog.git/commit/9870b95311b84e56a3dc318c466d46808ddab054)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/cca71dfaedf30fbe5ee29031968df2f58dcc5797)
+- [ ] [<code>Awards: Added Not-Worked Filter</code>](https://github.com/foldynl/QLog.git/commit/092c534bfad8b4a8a3e5983be8a1baa91d55bbdf)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/ca24fa72366db315ccf3005e0a30edf3d774d184)
+- [ ] [<code>New Contact: Added LP Azimuth Info</code>](https://github.com/foldynl/QLog.git/commit/da16aa7b03432b8b2b66cf1e45879319336fc3f5)
+- [ ] [<code>Settings: Removed DXCC Start Date</code>](https://github.com/foldynl/QLog.git/commit/0f15659b3c7f98910b1872c8a6e48f0f7862b15e)
+- [ ] [<code>Settings: Fixed Rig fields tab order</code>](https://github.com/foldynl/QLog.git/commit/92b8fb93e45c88ca58849a26f7a15394d12151c8)
+- [ ] [<code>Fixed - Added missing MY_DXCC column in DXCC status function; tweaking</code>](https://github.com/foldynl/QLog.git/commit/4b4a294bd18ea3de72574c9069dd5f545d65d2b3)
+- [ ] [<code>POTA Fields allow a comma-delimited list of one or more POTA Refs</code>](https://github.com/foldynl/QLog.git/commit/16c2a5ffad9af14146dda2b59fa9c696f95b09ea)
+- [ ] [<code>Removed UPPER from SOTA/POTA/WWFF queries</code>](https://github.com/foldynl/QLog.git/commit/c62e102631fc10c692c5618a1219baf56ba0bcd6)
+- [ ] [<code>Awards: Added TRIM to CSV Split</code>](https://github.com/foldynl/QLog.git/commit/f73737c9d578df5f43ed4060340a5b0f2996bca1)
+- [ ] [<code>Awards: entity combo hiding; narrower padding in the option menu</code>](https://github.com/foldynl/QLog.git/commit/b4c9d18318fee0dc52ec7246c1de4b60903fdf2c)
+- [ ] [<code>WJSTX: WSJTX emits freq/mode change signals</code>](https://github.com/foldynl/QLog.git/commit/d56c9850fb1907fc72368c8a0e7ffefb6d55f7f3)
+- [ ] [<code>MembershipQE: Added debug info</code>](https://github.com/foldynl/QLog.git/commit/8b6d17d3c37790ebd0e5ac5d2ee53f2ee8513fdc)
+- [ ] [<code>Statistics: Narrow layout</code>](https://github.com/foldynl/QLog.git/commit/b93218fb7360902787244944a3b45699943c6ad9)
+- [ ] [<code>Fixed #403 #405 - Added more information from callbook for WSJTX QSOs</code>](https://github.com/foldynl/QLog.git/commit/efbceecc1d378d64f861ff4a63071ab77fc648ac)
+- [ ] [<code>Updated Czech/German translation</code>](https://github.com/foldynl/QLog.git/commit/0163346468184c3224f0ef2e0009d6ee416cc651)
+- [ ] [<code>Fixed compilation issue under QT 6.x</code>](https://github.com/foldynl/QLog.git/commit/6892eb2fe8fc59e9734f954089fe7f2c7398282e)
+- [ ] [<code>Fixed compilation issues under QT 5.12</code>](https://github.com/foldynl/QLog.git/commit/ee5e36bdf4559523dc16650b2babe38717d06ec1)
+- [ ] [<code>Awards: Fixed missing table header</code>](https://github.com/foldynl/QLog.git/commit/2b2ea38ffdf7686454fbbc2deb54dcb51ecfb2ff)
+- [ ] [<code>Refreshed translations - only lines</code>](https://github.com/foldynl/QLog.git/commit/25c12e51fcaf5b3d201ca33405fd93a6308efa01)
+- [ ] [<code>Updated Spanish Translation</code>](https://github.com/foldynl/QLog.git/commit/13ca3fa14ea68c8d40ed6cc3aac09f7f006b70d9)
+- [ ] [<code>AlertSetting, Settings Dialogs: Adjust row heights</code>](https://github.com/foldynl/QLog.git/commit/0d658988d1b0b90c2c632fae46ae51e8be2470d7)
+- [ ] [<code>Updated Italian Translation</code>](https://github.com/foldynl/QLog.git/commit/56150c40fba24585c3a8c0ca35c40e5f01f6626d)
+- [ ] [<code>Profiles: Stop reporting the empty profile</code>](https://github.com/foldynl/QLog.git/commit/c00db03331798b4b6bc06522f9ce0c1887f3f2fa)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/41ee6baa0d6e85d22a071f7672f50b84997b35cd)
+- [ ] [<code>DX Cluster - Loging Callsign is always the base Callsign</code>](https://github.com/foldynl/QLog.git/commit/3361e9372fa51273642ef2e3ba74a8c3eb82b3be)
+- [ ] [<code>Preparation for release 0.38.0</code>](https://github.com/foldynl/QLog.git/commit/c48a12a634305850a7924a5dd32c740c2946f02e)
+  - <sub>Tags: <code>v0.38.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
