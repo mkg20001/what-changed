@@ -821,6 +821,21 @@
 - [ ] [<code>incusd/network/ovn: Wait a bit longer for northd to allocate addresses</code>](https://github.com/lxc/incus/commit/490bf1fc9c99a8b915c4c71e965d32461598c5d3)
 - [ ] [<code>incusd/apparmor: Don't constantly query the version and cache</code>](https://github.com/lxc/incus/commit/2a1f209968c73628c8ea253a4944fb5a80719496)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/driver/dir: Don't needlessly re-apply project id on quota changes</code>](https://github.com/lxc/incus/commit/4d4f97804721014a78fefb16d10126ae5556d436)
+- [ ] [<code>incusd/storage/quota: Don't fail on missing paths</code>](https://github.com/lxc/incus/commit/60864074ca34c23debb861ba7601fcd83795b4db)
+- [ ] [<code>incusd/storage/lvm: Retry setactivation skip for busy environments</code>](https://github.com/lxc/incus/commit/52cd776cb10e92207dd97d761284f897814f400b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>api: qemu_scriptlet</code>](https://github.com/lxc/incus/commit/8f6f214e9f965454db1a330e31e390b7f6cbb346)
+- [ ] [<code>incusd/instance: Add qemu scriptlet config options</code>](https://github.com/lxc/incus/commit/ed991e9e343e0811aadec5def784e609af33ee9f)
+- [ ] [<code>incusd: Move QEMU default values to a subpackage</code>](https://github.com/lxc/incus/commit/8051430ca2fe84c422db03f3bf7365f01e140fe5)
+- [ ] [<code>incusd/scriptlet: Move the logger definition</code>](https://github.com/lxc/incus/commit/fd222c2997d0fb2ea473b9bc21a0da19ff54fcd1)
+- [ ] [<code>incusd/scriptlet: Add helper functions</code>](https://github.com/lxc/incus/commit/46a57b0044cef3c9aafba1d97d3877b939140a81)
+- [ ] [<code>incusd/scriptlet: Add Unmarshal function</code>](https://github.com/lxc/incus/commit/810b5194f17fde9d6894909852f136397a93872a)
+- [ ] [<code>incusd/scriptlet: Add qemu scriptlet</code>](https://github.com/lxc/incus/commit/4ce3340f0f7241dd8ccc525144a875308d427566)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Update low-level properties</code>](https://github.com/lxc/incus/commit/26786f5a883ebb503715d938e917ba8a5f5d6e55)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b4c745b074dea9e3639439cbd1c7b91096cbf5e4)
+- [ ] [<code>incusd/scriptlet: Remove deprecated starlark.SourceProgram</code>](https://github.com/lxc/incus/commit/cd55ac5cb8894cfd854b387c7479f34847daca46)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1983,6 +1998,21 @@
 - [ ] [<code>incusd/network/ovn: Wait a bit longer for northd to allocate addresses</code>](https://github.com/lxc/incus/commit/490bf1fc9c99a8b915c4c71e965d32461598c5d3)
 - [ ] [<code>incusd/apparmor: Don't constantly query the version and cache</code>](https://github.com/lxc/incus/commit/2a1f209968c73628c8ea253a4944fb5a80719496)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/driver/dir: Don't needlessly re-apply project id on quota changes</code>](https://github.com/lxc/incus/commit/4d4f97804721014a78fefb16d10126ae5556d436)
+- [ ] [<code>incusd/storage/quota: Don't fail on missing paths</code>](https://github.com/lxc/incus/commit/60864074ca34c23debb861ba7601fcd83795b4db)
+- [ ] [<code>incusd/storage/lvm: Retry setactivation skip for busy environments</code>](https://github.com/lxc/incus/commit/52cd776cb10e92207dd97d761284f897814f400b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>api: qemu_scriptlet</code>](https://github.com/lxc/incus/commit/8f6f214e9f965454db1a330e31e390b7f6cbb346)
+- [ ] [<code>incusd/instance: Add qemu scriptlet config options</code>](https://github.com/lxc/incus/commit/ed991e9e343e0811aadec5def784e609af33ee9f)
+- [ ] [<code>incusd: Move QEMU default values to a subpackage</code>](https://github.com/lxc/incus/commit/8051430ca2fe84c422db03f3bf7365f01e140fe5)
+- [ ] [<code>incusd/scriptlet: Move the logger definition</code>](https://github.com/lxc/incus/commit/fd222c2997d0fb2ea473b9bc21a0da19ff54fcd1)
+- [ ] [<code>incusd/scriptlet: Add helper functions</code>](https://github.com/lxc/incus/commit/46a57b0044cef3c9aafba1d97d3877b939140a81)
+- [ ] [<code>incusd/scriptlet: Add Unmarshal function</code>](https://github.com/lxc/incus/commit/810b5194f17fde9d6894909852f136397a93872a)
+- [ ] [<code>incusd/scriptlet: Add qemu scriptlet</code>](https://github.com/lxc/incus/commit/4ce3340f0f7241dd8ccc525144a875308d427566)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/project: Update low-level properties</code>](https://github.com/lxc/incus/commit/26786f5a883ebb503715d938e917ba8a5f5d6e55)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b4c745b074dea9e3639439cbd1c7b91096cbf5e4)
+- [ ] [<code>incusd/scriptlet: Remove deprecated starlark.SourceProgram</code>](https://github.com/lxc/incus/commit/cd55ac5cb8894cfd854b387c7479f34847daca46)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2142,6 +2172,7 @@
 - [ ] [<code>Add details on some gain map test images. (#2414)</code>](https://github.com/AOMediaCodec/libavif/commit/4c56ac1c0bfa017d485ab01c3e5cebcd93c8fb55)
 - [ ] [<code>Do not create files in TESTDATA_DIR in sh tests (#2415)</code>](https://github.com/AOMediaCodec/libavif/commit/338b35b0acbdbd692cf358e6c46003745b1ebf92)
 - [ ] [<code>Bump SVT to 2.2.1 (#2416)</code>](https://github.com/AOMediaCodec/libavif/commit/3dc10e20447fa696bf1698cd095df4d22e1afc64)
+- [ ] [<code>Update the H273 URL to something that exists. (#2419)</code>](https://github.com/AOMediaCodec/libavif/commit/573793aceb2ec3541ae85b33eaaa54ad0cc6f5c2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
