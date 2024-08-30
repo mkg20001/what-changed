@@ -836,6 +836,9 @@
 - [ ] [<code>incusd/project: Update low-level properties</code>](https://github.com/lxc/incus/commit/26786f5a883ebb503715d938e917ba8a5f5d6e55)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b4c745b074dea9e3639439cbd1c7b91096cbf5e4)
 - [ ] [<code>incusd/scriptlet: Remove deprecated starlark.SourceProgram</code>](https://github.com/lxc/incus/commit/cd55ac5cb8894cfd854b387c7479f34847daca46)
+- [ ] [<code>Makefile: Switch minimum Go to 1.22</code>](https://github.com/lxc/incus/commit/7f2b82e6626a528cd75add6ce207f5c8e5b9931c)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/20f5bb7addb0979bc7073e7ec96f9ab9c795df64)
+- [ ] [<code>doc: Update requirements</code>](https://github.com/lxc/incus/commit/05f50ebe1b30e8885ed1f6bcf3457f6982e049cb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2013,6 +2016,9 @@
 - [ ] [<code>incusd/project: Update low-level properties</code>](https://github.com/lxc/incus/commit/26786f5a883ebb503715d938e917ba8a5f5d6e55)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b4c745b074dea9e3639439cbd1c7b91096cbf5e4)
 - [ ] [<code>incusd/scriptlet: Remove deprecated starlark.SourceProgram</code>](https://github.com/lxc/incus/commit/cd55ac5cb8894cfd854b387c7479f34847daca46)
+- [ ] [<code>Makefile: Switch minimum Go to 1.22</code>](https://github.com/lxc/incus/commit/7f2b82e6626a528cd75add6ce207f5c8e5b9931c)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/20f5bb7addb0979bc7073e7ec96f9ab9c795df64)
+- [ ] [<code>doc: Update requirements</code>](https://github.com/lxc/incus/commit/05f50ebe1b30e8885ed1f6bcf3457f6982e049cb)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2173,6 +2179,7 @@
 - [ ] [<code>Do not create files in TESTDATA_DIR in sh tests (#2415)</code>](https://github.com/AOMediaCodec/libavif/commit/338b35b0acbdbd692cf358e6c46003745b1ebf92)
 - [ ] [<code>Bump SVT to 2.2.1 (#2416)</code>](https://github.com/AOMediaCodec/libavif/commit/3dc10e20447fa696bf1698cd095df4d22e1afc64)
 - [ ] [<code>Update the H273 URL to something that exists. (#2419)</code>](https://github.com/AOMediaCodec/libavif/commit/573793aceb2ec3541ae85b33eaaa54ad0cc6f5c2)
+- [ ] [<code>Update to libaom v3.10.0</code>](https://github.com/AOMediaCodec/libavif/commit/984244e152078aed5e15074c9743eff9e703a12c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -3066,6 +3073,9 @@
 - [ ] [<code>refactor(web): use new mui colorSchemes for light/dark mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f99ad0cda67ca2f251fabe113f3dee3845c5d9dc)
 - [ ] [<code>feat(web): add color scheme selection menu</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f16942a2d2d180982270899169321a48d12f022)
 - [ ] [<code>build(web): don't enter watch mode when using `just test`</code>](https://github.com/Oppzippy/OpenSCQ30/commit/186f1c4fecb93553a7a4690316fe0b2afbd67866)
+- [ ] [<code>build(gui): revert windows dependency to 0.57</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cfe446f67e3437ab2d5ac6486ab498fe089a765a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor(lib): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a30845504d16334886b8cf2489eb3ded2620241)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
