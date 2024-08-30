@@ -839,6 +839,11 @@
 - [ ] [<code>Makefile: Switch minimum Go to 1.22</code>](https://github.com/lxc/incus/commit/7f2b82e6626a528cd75add6ce207f5c8e5b9931c)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/20f5bb7addb0979bc7073e7ec96f9ab9c795df64)
 - [ ] [<code>doc: Update requirements</code>](https://github.com/lxc/incus/commit/05f50ebe1b30e8885ed1f6bcf3457f6982e049cb)
+- [ ] [<code>incusd/instance/drivers/qemu: Fix node name overflow logic</code>](https://github.com/lxc/incus/commit/371745bb5831dd000d49ad5633c0b6be4eeb86a7)
+- [ ] [<code>incusd/instance/drivers/qemu: Add missing node name handling</code>](https://github.com/lxc/incus/commit/d08911f6f54342cf092865463f05ddb2d41514e6)
+- [ ] [<code>incusd/api_internal: Add API to notify volume resizes</code>](https://github.com/lxc/incus/commit/9df531e5ee9a5d0267cd74f15312d9ac031315da)
+- [ ] [<code>incusd/cluster: Fix redirect loop with shared volumes across multiple servers</code>](https://github.com/lxc/incus/commit/73a78c2f0cc188c602c88be8cfdc9bfcfb9df0ab)
+- [ ] [<code>incusd/storage/backend: Notify instances following block custom volume resize</code>](https://github.com/lxc/incus/commit/81f9c4b915830322871bb49d6f04f3009f63d01a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2019,6 +2024,11 @@
 - [ ] [<code>Makefile: Switch minimum Go to 1.22</code>](https://github.com/lxc/incus/commit/7f2b82e6626a528cd75add6ce207f5c8e5b9931c)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/20f5bb7addb0979bc7073e7ec96f9ab9c795df64)
 - [ ] [<code>doc: Update requirements</code>](https://github.com/lxc/incus/commit/05f50ebe1b30e8885ed1f6bcf3457f6982e049cb)
+- [ ] [<code>incusd/instance/drivers/qemu: Fix node name overflow logic</code>](https://github.com/lxc/incus/commit/371745bb5831dd000d49ad5633c0b6be4eeb86a7)
+- [ ] [<code>incusd/instance/drivers/qemu: Add missing node name handling</code>](https://github.com/lxc/incus/commit/d08911f6f54342cf092865463f05ddb2d41514e6)
+- [ ] [<code>incusd/api_internal: Add API to notify volume resizes</code>](https://github.com/lxc/incus/commit/9df531e5ee9a5d0267cd74f15312d9ac031315da)
+- [ ] [<code>incusd/cluster: Fix redirect loop with shared volumes across multiple servers</code>](https://github.com/lxc/incus/commit/73a78c2f0cc188c602c88be8cfdc9bfcfb9df0ab)
+- [ ] [<code>incusd/storage/backend: Notify instances following block custom volume resize</code>](https://github.com/lxc/incus/commit/81f9c4b915830322871bb49d6f04f3009f63d01a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2180,6 +2190,9 @@
 - [ ] [<code>Bump SVT to 2.2.1 (#2416)</code>](https://github.com/AOMediaCodec/libavif/commit/3dc10e20447fa696bf1698cd095df4d22e1afc64)
 - [ ] [<code>Update the H273 URL to something that exists. (#2419)</code>](https://github.com/AOMediaCodec/libavif/commit/573793aceb2ec3541ae85b33eaaa54ad0cc6f5c2)
 - [ ] [<code>Update to libaom v3.10.0</code>](https://github.com/AOMediaCodec/libavif/commit/984244e152078aed5e15074c9743eff9e703a12c)
+- [ ] [<code>Compile avif_fuzztest_helpers.cc only once. (#2417)</code>](https://github.com/AOMediaCodec/libavif/commit/23d7790ffb962ffba38e44509072a452355567e1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Clean YCgCo-R a bit. (#2418)</code>](https://github.com/AOMediaCodec/libavif/commit/db72bb1313a637f9c3aeaf56e3bac43f22254d2d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
