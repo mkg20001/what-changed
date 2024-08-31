@@ -844,6 +844,15 @@
 - [ ] [<code>incusd/api_internal: Add API to notify volume resizes</code>](https://github.com/lxc/incus/commit/9df531e5ee9a5d0267cd74f15312d9ac031315da)
 - [ ] [<code>incusd/cluster: Fix redirect loop with shared volumes across multiple servers</code>](https://github.com/lxc/incus/commit/73a78c2f0cc188c602c88be8cfdc9bfcfb9df0ab)
 - [ ] [<code>incusd/storage/backend: Notify instances following block custom volume resize</code>](https://github.com/lxc/incus/commit/81f9c4b915830322871bb49d6f04f3009f63d01a)
+- [ ] [<code>api: instance_auto_restart</code>](https://github.com/lxc/incus/commit/5f46ec93e3d3fcd170255ec236785fb99ee6d05d)
+- [ ] [<code>incusd/instance: Add boot.autorestart</code>](https://github.com/lxc/incus/commit/a97b38c60e1e000f6bce3a04cd0312dffe065ce5)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/770661bdac9ea49cb8b3eb89e3bb12a48663aa21)
+- [ ] [<code>incusd/instance/drivers: Implement shouldAutoRestart</code>](https://github.com/lxc/incus/commit/d4f482a28c890b43d2f075412e1a9ee591aaf936)
+- [ ] [<code>incusd/instance/drivers/lxc: Implement boot.autorestart</code>](https://github.com/lxc/incus/commit/c9a4898135bf71157140cdd29124b19f3528d466)
+- [ ] [<code>incusd/instance/drivers/qemu: Implement boot.autorestart</code>](https://github.com/lxc/incus/commit/6ee6842432af654a324aa7209d77de12d0267705)
+- [ ] [<code>tests: Validate autorestart logic</code>](https://github.com/lxc/incus/commit/40992984122810e6f57d726f8b680c04193f75f8)
+- [ ] [<code>client: Fix error handling in push mode copy</code>](https://github.com/lxc/incus/commit/67dee19f54f118a22d1dd71f1d2761c776a6e1ee)
+- [ ] [<code>incusd/network/ovn: Fix send_periodic syntax</code>](https://github.com/lxc/incus/commit/38523c1c1fb52d80e3b2c1001088066a34bff584)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2029,6 +2038,15 @@
 - [ ] [<code>incusd/api_internal: Add API to notify volume resizes</code>](https://github.com/lxc/incus/commit/9df531e5ee9a5d0267cd74f15312d9ac031315da)
 - [ ] [<code>incusd/cluster: Fix redirect loop with shared volumes across multiple servers</code>](https://github.com/lxc/incus/commit/73a78c2f0cc188c602c88be8cfdc9bfcfb9df0ab)
 - [ ] [<code>incusd/storage/backend: Notify instances following block custom volume resize</code>](https://github.com/lxc/incus/commit/81f9c4b915830322871bb49d6f04f3009f63d01a)
+- [ ] [<code>api: instance_auto_restart</code>](https://github.com/lxc/incus/commit/5f46ec93e3d3fcd170255ec236785fb99ee6d05d)
+- [ ] [<code>incusd/instance: Add boot.autorestart</code>](https://github.com/lxc/incus/commit/a97b38c60e1e000f6bce3a04cd0312dffe065ce5)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/770661bdac9ea49cb8b3eb89e3bb12a48663aa21)
+- [ ] [<code>incusd/instance/drivers: Implement shouldAutoRestart</code>](https://github.com/lxc/incus/commit/d4f482a28c890b43d2f075412e1a9ee591aaf936)
+- [ ] [<code>incusd/instance/drivers/lxc: Implement boot.autorestart</code>](https://github.com/lxc/incus/commit/c9a4898135bf71157140cdd29124b19f3528d466)
+- [ ] [<code>incusd/instance/drivers/qemu: Implement boot.autorestart</code>](https://github.com/lxc/incus/commit/6ee6842432af654a324aa7209d77de12d0267705)
+- [ ] [<code>tests: Validate autorestart logic</code>](https://github.com/lxc/incus/commit/40992984122810e6f57d726f8b680c04193f75f8)
+- [ ] [<code>client: Fix error handling in push mode copy</code>](https://github.com/lxc/incus/commit/67dee19f54f118a22d1dd71f1d2761c776a6e1ee)
+- [ ] [<code>incusd/network/ovn: Fix send_periodic syntax</code>](https://github.com/lxc/incus/commit/38523c1c1fb52d80e3b2c1001088066a34bff584)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3089,6 +3107,16 @@
 - [ ] [<code>build(gui): revert windows dependency to 0.57</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cfe446f67e3437ab2d5ac6486ab498fe089a765a)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor(lib): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a30845504d16334886b8cf2489eb3ded2620241)
+- [ ] [<code>fix(gui): include path in settings file error messages</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c8e81704e25fa609fc81a6359960e5e0f08ab214)
+- [ ] [<code>test(gui): remove unused import on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ec74dbb4cf4ae0239b4b0f6107201d12bb334d98)
+- [ ] [<code>test(gui): don't keep settings file open</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e8d03e666b6a46e4a8e77f5f5f106af1a75981b4)
+- [ ] [<code>build(gui): update locale files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e65ca79cf8acaf75028ecf0ae03c65fec0455471)
+- [ ] [<code>build: v1.13.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5cbb94a70131a72cabe4aebf8c726ce97235f80b)
+  - <sub>Tags: <code>v1.13.0</code></sub>
+- [ ] [<code>fix(gui): gtk binding error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f234851abac1493d6efa4ec04faf027e646b635)
+- [ ] [<code>build: v1.13.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/707c44e239b3f1e1a8d32e649a796307bed412e6)
+- [ ] [<code>test(gui): fix locale dependant tests regression</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e20df0a27827406128b2bbd0372ec3198ef3c52b)
+  - <sub>Tags: <code>v1.13.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
