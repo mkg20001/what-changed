@@ -3264,6 +3264,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix Python 3.12 syntax errors; add pipx compatibility</code>](https://github.com/axcore/tartube/commit/3f130610e454112e3d8c62321d0cf3e3ed888ec2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update to v2.5.040</code>](https://github.com/axcore/tartube/commit/118eb44e18e8e9e7cce897bf3fa2913e32d195fa)
+  - <sub>Tags: <code>v2.5.040</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
