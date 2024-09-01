@@ -406,6 +406,8 @@
 - [ ] [<code>build: Prepare flutter 3.24</code>](https://github.com/krille-chan/fluffychat/commit/ca33a2dbdab8b5c1385c4a82fbbc2c64a72f3f13)
 - [ ] [<code>build: follow up vm service</code>](https://github.com/krille-chan/fluffychat/commit/bff1f8c696e002f400f673a051da3f983c21d6c3)
 - [ ] [<code>chore: Follow up vm service</code>](https://github.com/krille-chan/fluffychat/commit/3e06537d1b6fbdf31e5603d13f3fe7489676f74e)
+- [ ] [<code>build: Build linux with Flutter 3.24.1</code>](https://github.com/krille-chan/fluffychat/commit/d70d8803c27d328d8e600b8991c3fd255ab6245d)
+  - <sub>Tags: <code>v1.22.1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -641,6 +643,8 @@
 - [ ] [<code>build: Prepare flutter 3.24</code>](https://github.com/krille-chan/fluffychat/commit/ca33a2dbdab8b5c1385c4a82fbbc2c64a72f3f13)
 - [ ] [<code>build: follow up vm service</code>](https://github.com/krille-chan/fluffychat/commit/bff1f8c696e002f400f673a051da3f983c21d6c3)
 - [ ] [<code>chore: Follow up vm service</code>](https://github.com/krille-chan/fluffychat/commit/3e06537d1b6fbdf31e5603d13f3fe7489676f74e)
+- [ ] [<code>build: Build linux with Flutter 3.24.1</code>](https://github.com/krille-chan/fluffychat/commit/d70d8803c27d328d8e600b8991c3fd255ab6245d)
+  - <sub>Tags: <code>v1.22.1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
