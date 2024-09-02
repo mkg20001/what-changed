@@ -2248,6 +2248,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Clean YCgCo-R a bit. (#2418)</code>](https://github.com/AOMediaCodec/libavif/commit/db72bb1313a637f9c3aeaf56e3bac43f22254d2d)
 - [ ] [<code>Bump the github-actions group with 3 updates (#2424)</code>](https://github.com/AOMediaCodec/libavif/commit/c799319a016c184d05d4c9a1eeb5cb73832006ba)
+- [ ] [<code>Add IMPORTED_IMPLIB property to each CMake Module (#2425)</code>](https://github.com/AOMediaCodec/libavif/commit/85979a79983573c908958cd27197290cd19ea7b6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
