@@ -55,6 +55,8 @@
 
 #### [cinnamon.folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2...HEAD)
 
+- [ ] [<code>Use GtkSettings to get the icon theme.</code>](https://github.com/linuxmint/folder-color-switcher/commit/5f6a56694a330a99ad2f7fdbb60a5385a1f189da)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.iso-flags-png-320x420](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -113,7 +115,12 @@
 #### [cinnamon.xapp](https://github.com/linuxmint/xapp): [2.8.5 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.5...HEAD)
 
 - [ ] [<code>mate-xapp-status-applet: Fix application theme provider due to</code>](https://github.com/linuxmint/xapp/commit/17955c925c4b90f12af538a67bc417c62eb1c6d3)
+- [ ] [<code>Allow installing gi override to multiple python installations (#183)</code>](https://github.com/linuxmint/xapp/commit/4ffed1b19b19c55d48d84e2137fb2bafcaa9aea9)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Add option to disable building introspection and vala bindings. (#184)</code>](https://github.com/linuxmint/xapp/commit/70bd3a904c9c143f66d0b7d46e16816e01362603)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [cinnamon.xreader](https://github.com/linuxmint/xreader): [4.2.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.2...HEAD)
 
