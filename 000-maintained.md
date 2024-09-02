@@ -875,6 +875,13 @@
 - [ ] [<code>tests: Validate autorestart logic</code>](https://github.com/lxc/incus/commit/40992984122810e6f57d726f8b680c04193f75f8)
 - [ ] [<code>client: Fix error handling in push mode copy</code>](https://github.com/lxc/incus/commit/67dee19f54f118a22d1dd71f1d2761c776a6e1ee)
 - [ ] [<code>incusd/network/ovn: Fix send_periodic syntax</code>](https://github.com/lxc/incus/commit/38523c1c1fb52d80e3b2c1001088066a34bff584)
+- [ ] [<code>incusd/project: Validate group names</code>](https://github.com/lxc/incus/commit/655b36182d60aa930e6cace0452e4ee1946500bf)
+- [ ] [<code>incusd/db: Confirm cluster group validity during placement</code>](https://github.com/lxc/incus/commit/0baa27272f3bbedb3fd43d2113219f58e4926907)
+- [ ] [<code>doc/cluster_group: Mention renaming groups</code>](https://github.com/lxc/incus/commit/e8271a24d42a36b0c22875cde0731dd005433f79)
+- [ ] [<code>api: storage_lvm_metadatasize</code>](https://github.com/lxc/incus/commit/c692a50cb59f3d13dba6dfe144e57655dea01f05)
+- [ ] [<code>doc/storage_lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/915b62077583ee00ed73c2cad6ba5df28e42482a)
+- [ ] [<code>incusd/storage/lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/2bc2f69d140c131208f16fd934c0fe0459ce398f)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2069,6 +2076,13 @@
 - [ ] [<code>tests: Validate autorestart logic</code>](https://github.com/lxc/incus/commit/40992984122810e6f57d726f8b680c04193f75f8)
 - [ ] [<code>client: Fix error handling in push mode copy</code>](https://github.com/lxc/incus/commit/67dee19f54f118a22d1dd71f1d2761c776a6e1ee)
 - [ ] [<code>incusd/network/ovn: Fix send_periodic syntax</code>](https://github.com/lxc/incus/commit/38523c1c1fb52d80e3b2c1001088066a34bff584)
+- [ ] [<code>incusd/project: Validate group names</code>](https://github.com/lxc/incus/commit/655b36182d60aa930e6cace0452e4ee1946500bf)
+- [ ] [<code>incusd/db: Confirm cluster group validity during placement</code>](https://github.com/lxc/incus/commit/0baa27272f3bbedb3fd43d2113219f58e4926907)
+- [ ] [<code>doc/cluster_group: Mention renaming groups</code>](https://github.com/lxc/incus/commit/e8271a24d42a36b0c22875cde0731dd005433f79)
+- [ ] [<code>api: storage_lvm_metadatasize</code>](https://github.com/lxc/incus/commit/c692a50cb59f3d13dba6dfe144e57655dea01f05)
+- [ ] [<code>doc/storage_lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/915b62077583ee00ed73c2cad6ba5df28e42482a)
+- [ ] [<code>incusd/storage/lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/2bc2f69d140c131208f16fd934c0fe0459ce398f)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2233,6 +2247,7 @@
 - [ ] [<code>Compile avif_fuzztest_helpers.cc only once. (#2417)</code>](https://github.com/AOMediaCodec/libavif/commit/23d7790ffb962ffba38e44509072a452355567e1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Clean YCgCo-R a bit. (#2418)</code>](https://github.com/AOMediaCodec/libavif/commit/db72bb1313a637f9c3aeaf56e3bac43f22254d2d)
+- [ ] [<code>Bump the github-actions group with 3 updates (#2424)</code>](https://github.com/AOMediaCodec/libavif/commit/c799319a016c184d05d4c9a1eeb5cb73832006ba)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
