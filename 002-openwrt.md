@@ -30,6 +30,13 @@
 - [ ] [<code>wireless: use blobmsg_parse_attr</code>](https://git.openwrt.org/project/netifd.git/commit/b57e40b8fe355c2145094bf2bf5a45d273b280da)
 - [ ] [<code>wireless: add support for defining wifi interfaces via procd service data</code>](https://git.openwrt.org/project/netifd.git/commit/890929baa8164b4813212fb5e9b8541b7ec61541)
 - [ ] [<code>system-linux: re-apply ethtool on phy attachment</code>](https://git.openwrt.org/project/netifd.git/commit/68c8a4f94cd3cfd654a52cbc8b57c5c9d99640dd)
+- [ ] [<code>interface: add support for disabling renew on topology change</code>](https://git.openwrt.org/project/netifd.git/commit/480551a3adc411cb506e516e9eb4485b0ec741cb)
+- [ ] [<code>device: add more debugging code</code>](https://git.openwrt.org/project/netifd.git/commit/b7b294266781089242e24ee449539f0635e9f7c3)
+- [ ] [<code>device: do not pull device present state from hotplug events</code>](https://git.openwrt.org/project/netifd.git/commit/595094f5c213fa301b0304c1e0732811740b4db6)
+- [ ] [<code>main: add messages to udebug regardless of their log level</code>](https://git.openwrt.org/project/netifd.git/commit/4e11e52e9b98653b005b1371fa9b1a6e70893c11)
+- [ ] [<code>wireless: handle link updates even if devices are present already</code>](https://git.openwrt.org/project/netifd.git/commit/091d063f4a9d31fa05b40b7b9a4fdd2e7ef66d5b)
+- [ ] [<code>interface: improve hotplug handling reliability</code>](https://git.openwrt.org/project/netifd.git/commit/a8e90853c93632996bdba4cd227aa24253a3ef7c)
+- [ ] [<code>device: remove redundant newlines from debug messages</code>](https://git.openwrt.org/project/netifd.git/commit/cdb41673ceea4d2c1cd748580748a8c77dcc5100)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
