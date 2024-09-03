@@ -882,6 +882,7 @@
 - [ ] [<code>doc/storage_lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/915b62077583ee00ed73c2cad6ba5df28e42482a)
 - [ ] [<code>incusd/storage/lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/2bc2f69d140c131208f16fd934c0fe0459ce398f)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/zfs: Only attempt to load the module if the tools exist</code>](https://github.com/lxc/incus/commit/33a178f76825da8f2656deedd1c73b1367091866)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2083,6 +2084,7 @@
 - [ ] [<code>doc/storage_lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/915b62077583ee00ed73c2cad6ba5df28e42482a)
 - [ ] [<code>incusd/storage/lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/2bc2f69d140c131208f16fd934c0fe0459ce398f)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/zfs: Only attempt to load the module if the tools exist</code>](https://github.com/lxc/incus/commit/33a178f76825da8f2656deedd1c73b1367091866)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2934,6 +2936,17 @@
 - [ ] [<code>apply: don't skip members of bonds on renaming</code>](https://github.com/canonical/netplan/commit/80edb5cd45a74511f33ae7493507fb039b7e9e50)
 - [ ] [<code>ci: add ethtool as a netplan.io dependency</code>](https://github.com/canonical/netplan/commit/150090ad28f1d673a7f07b070777fe56493614b5)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>parse-nm: account for veth and dummy when checking for virtual types</code>](https://github.com/canonical/netplan/commit/c274b3bb598b65d394486aa55274f5dd124da61c)
+- [ ] [<code>cli:state: call busctl in favor of dbus-python</code>](https://github.com/canonical/netplan/commit/5e9a921dbfd9d743a80027a80dc9d8277172c6ca)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test:cli:state: adopt for busctl instead of dbus-python</code>](https://github.com/canonical/netplan/commit/c973d9a7f40d7fe4295333f94000791030d97a39)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: cleanup after v1.1 release</code>](https://github.com/canonical/netplan/commit/e87ae1b1a96c570ac105aca07918e751bcf44b16)
+- [ ] [<code>test:routing:tunnels: Improve vrf/wireguard modprobe check inside containers</code>](https://github.com/canonical/netplan/commit/570fecbf4a868e4cc3636cccd6a2c3cd4dba88f5)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:ethernets: avoid flaky test_ip6_eui64 results, when statefull DHCPv6 is quicker than stateless EUI-64 address generation</code>](https://github.com/canonical/netplan/commit/84da4b1f947f4f97510ed960ea99de77ed0d9ad2)
+- [ ] [<code>GH: Update pull-request template</code>](https://github.com/canonical/netplan/commit/3b6fea1fe75669278a219b853b80e7d8e0eb4f90)
+- [ ] [<code>CI:tests: Disable NETPLAN_PARSER_IGNORE_ERRORS by default</code>](https://github.com/canonical/netplan/commit/34a614338e6a1268f9c75bc2cfd091056860f2d5)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
