@@ -893,6 +893,15 @@
 - [ ] [<code>incusd/storage/zfs: Only attempt to load the module if the tools exist</code>](https://github.com/lxc/incus/commit/33a178f76825da8f2656deedd1c73b1367091866)
 - [ ] [<code>incusd/instance/edk2: Add Void Linux x86_64 paths</code>](https://github.com/lxc/incus/commit/cfbbe5d289ac5285b2a9880bd6f6cbb9041f8a4f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incusd/profiles: Empty default profile on forced deletion</code>](https://github.com/lxc/incus/commit/802b7aff267bb9e5b2f21eb6d81351cbc6141294)
+- [ ] [<code>Revert "incusd/instance/agent-loader: Don't hardcode path"</code>](https://github.com/lxc/incus/commit/d7f3beb2aaae1a9b39797fa8e723644bacd7e18a)
+- [ ] [<code>incusd/device: Add new Register function</code>](https://github.com/lxc/incus/commit/4027f40b161de544373c336842cba35c9f62ec78)
+- [ ] [<code>incusd/instance/drivers: Use Register function</code>](https://github.com/lxc/incus/commit/c3842fc13a7e2f5a6bcbb606ebd1a591f5dbb57d)
+- [ ] [<code>incusd/device: Don't make Register depend on validate</code>](https://github.com/lxc/incus/commit/e1b81ca1a7e4eab20fef386cf1ddd77e98002b91)
+- [ ] [<code>incusd/storage/drivers: Add isDeleted flag</code>](https://github.com/lxc/incus/commit/ff90218dfc4403d0f2dc484b7a4f3d8d11ebb7fd)
+- [ ] [<code>incusd/storage/drivers/ceph: Rework parseClone</code>](https://github.com/lxc/incus/commit/a4a7a20eeb413b199d2188bb1831c1daea26261f)
+- [ ] [<code>incusd/storage/drivers/ceph: Rework parseParent</code>](https://github.com/lxc/incus/commit/05963ff11587360b12fbabccef9f8bbc43f2f4ff)
+- [ ] [<code>incusd/storage/drivers/ceph: Make use of isDeleted flag</code>](https://github.com/lxc/incus/commit/6415b3514d7bd350983d8ff0f49be016c2adfdfd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2097,6 +2106,15 @@
 - [ ] [<code>incusd/storage/zfs: Only attempt to load the module if the tools exist</code>](https://github.com/lxc/incus/commit/33a178f76825da8f2656deedd1c73b1367091866)
 - [ ] [<code>incusd/instance/edk2: Add Void Linux x86_64 paths</code>](https://github.com/lxc/incus/commit/cfbbe5d289ac5285b2a9880bd6f6cbb9041f8a4f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incusd/profiles: Empty default profile on forced deletion</code>](https://github.com/lxc/incus/commit/802b7aff267bb9e5b2f21eb6d81351cbc6141294)
+- [ ] [<code>Revert "incusd/instance/agent-loader: Don't hardcode path"</code>](https://github.com/lxc/incus/commit/d7f3beb2aaae1a9b39797fa8e723644bacd7e18a)
+- [ ] [<code>incusd/device: Add new Register function</code>](https://github.com/lxc/incus/commit/4027f40b161de544373c336842cba35c9f62ec78)
+- [ ] [<code>incusd/instance/drivers: Use Register function</code>](https://github.com/lxc/incus/commit/c3842fc13a7e2f5a6bcbb606ebd1a591f5dbb57d)
+- [ ] [<code>incusd/device: Don't make Register depend on validate</code>](https://github.com/lxc/incus/commit/e1b81ca1a7e4eab20fef386cf1ddd77e98002b91)
+- [ ] [<code>incusd/storage/drivers: Add isDeleted flag</code>](https://github.com/lxc/incus/commit/ff90218dfc4403d0f2dc484b7a4f3d8d11ebb7fd)
+- [ ] [<code>incusd/storage/drivers/ceph: Rework parseClone</code>](https://github.com/lxc/incus/commit/a4a7a20eeb413b199d2188bb1831c1daea26261f)
+- [ ] [<code>incusd/storage/drivers/ceph: Rework parseParent</code>](https://github.com/lxc/incus/commit/05963ff11587360b12fbabccef9f8bbc43f2f4ff)
+- [ ] [<code>incusd/storage/drivers/ceph: Make use of isDeleted flag</code>](https://github.com/lxc/incus/commit/6415b3514d7bd350983d8ff0f49be016c2adfdfd)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2959,6 +2977,21 @@
 - [ ] [<code>tests:ethernets: avoid flaky test_ip6_eui64 results, when statefull DHCPv6 is quicker than stateless EUI-64 address generation</code>](https://github.com/canonical/netplan/commit/84da4b1f947f4f97510ed960ea99de77ed0d9ad2)
 - [ ] [<code>GH: Update pull-request template</code>](https://github.com/canonical/netplan/commit/3b6fea1fe75669278a219b853b80e7d8e0eb4f90)
 - [ ] [<code>CI:tests: Disable NETPLAN_PARSER_IGNORE_ERRORS by default</code>](https://github.com/canonical/netplan/commit/34a614338e6a1268f9c75bc2cfd091056860f2d5)
+- [ ] [<code>ovs: quote external-ids and other-config values</code>](https://github.com/canonical/netplan/commit/4d565913fdf08395382f6cda1b2f1799bebe4950)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>meson: enable -Wconversion by default</code>](https://github.com/canonical/netplan/commit/d7d7dc3e7f53574521b3a3037994f32d24eb2ee8)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>error.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/d48aec9f3f1b9759a3a74da25e86a606ceaf9817)
+- [ ] [<code>netplan.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/a6af41a447372faf5c3977b0734b00334a754382)
+- [ ] [<code>util.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/dc64420c2a7cb3d1922163b8b2af0b4668c4ea2c)
+- [ ] [<code>nm.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/bfd0e54103874ece3b33fb118258c69c6198f9d1)
+- [ ] [<code>openvswitch.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/06ee69578de18d365158f347bb1138c345446fb3)
+- [ ] [<code>parse.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/5c38cc840498a689dadac06c3b6ad4434d32a671)
+- [ ] [<code>parse-nm.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/e00338feab6c80231c60c765dfa5a1051a03eb05)
+- [ ] [<code>sriov.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/e91c96f44246149a290636cc36fa56a99b59648d)
+- [ ] [<code>util.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/9e4d7ef0ad7ebf1ad8e4bcb1c563426e1a5ad61e)
+- [ ] [<code>validation.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/9fb7dbecbd662301420374fe1de51f068ddd29b0)
+- [ ] [<code>ctests: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/1156dc77acce89edf2d4f3c2ff78fb8386077b8e)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
