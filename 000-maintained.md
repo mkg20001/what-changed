@@ -124,6 +124,14 @@
 - [ ] [<code>debootstrap: Add workaround for devuan</code>](https://github.com/lxc/distrobuilder/commit/bea11060198847f836568b6de13d685407d6f66f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sources: Fix openEuler tests</code>](https://github.com/lxc/distrobuilder/commit/6247ec9ac0c60daba7e069b4638419370db4d060)
+- [ ] [<code>workflows/tests: drop 1.21, add 1.23</code>](https://github.com/lxc/distrobuilder/commit/51aadcab5784c7c32022d5342967c520a03bf199)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/d71e81f25744ed59a444508d99f087c74bbce586)
+- [ ] [<code>Makefile: Align golangci-lint with Incus</code>](https://github.com/lxc/distrobuilder/commit/6039c5a8bb60797a141980e35af63fcbd9f86d90)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>global: Fix golangci-lint errors</code>](https://github.com/lxc/distrobuilder/commit/59e208148b309310afecc9f64e8bee6abb8e1dd3)
+- [ ] [<code>nixos-http: use incus-specific image for unstable</code>](https://github.com/lxc/distrobuilder/commit/536b37d4dbd166a385af2e8226e2c7d5c60a6da6)
+- [ ] [<code>Add handling of ESD files</code>](https://github.com/lxc/distrobuilder/commit/bd27600036b297fb1dc8ec861e0051ea1e04cf02)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -883,6 +891,8 @@
 - [ ] [<code>incusd/storage/lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/2bc2f69d140c131208f16fd934c0fe0459ce398f)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/zfs: Only attempt to load the module if the tools exist</code>](https://github.com/lxc/incus/commit/33a178f76825da8f2656deedd1c73b1367091866)
+- [ ] [<code>incusd/instance/edk2: Add Void Linux x86_64 paths</code>](https://github.com/lxc/incus/commit/cfbbe5d289ac5285b2a9880bd6f6cbb9041f8a4f)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2085,6 +2095,8 @@
 - [ ] [<code>incusd/storage/lvm: Add lvm.metadata_size</code>](https://github.com/lxc/incus/commit/2bc2f69d140c131208f16fd934c0fe0459ce398f)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/zfs: Only attempt to load the module if the tools exist</code>](https://github.com/lxc/incus/commit/33a178f76825da8f2656deedd1c73b1367091866)
+- [ ] [<code>incusd/instance/edk2: Add Void Linux x86_64 paths</code>](https://github.com/lxc/incus/commit/cfbbe5d289ac5285b2a9880bd6f6cbb9041f8a4f)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
