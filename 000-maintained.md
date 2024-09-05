@@ -902,6 +902,13 @@
 - [ ] [<code>incusd/storage/drivers/ceph: Rework parseClone</code>](https://github.com/lxc/incus/commit/a4a7a20eeb413b199d2188bb1831c1daea26261f)
 - [ ] [<code>incusd/storage/drivers/ceph: Rework parseParent</code>](https://github.com/lxc/incus/commit/05963ff11587360b12fbabccef9f8bbc43f2f4ff)
 - [ ] [<code>incusd/storage/drivers/ceph: Make use of isDeleted flag</code>](https://github.com/lxc/incus/commit/6415b3514d7bd350983d8ff0f49be016c2adfdfd)
+- [ ] [<code>incusd/instance/qemu: Allow setCPUs to re-use QMP</code>](https://github.com/lxc/incus/commit/d173a4baad92b03fcd4d0249526a14b82c8945a3)
+- [ ] [<code>incusd/instance/qmp: Handle QMP occasionally returning multiple responses</code>](https://github.com/lxc/incus/commit/1f359db7859bde45bb1e52a6fb8f07a44bdbd6a8)
+- [ ] [<code>incusd/seccomp: Update syscall numbers</code>](https://github.com/lxc/incus/commit/c3926c93070692e1ee9df68a140bbf186f38edea)
+- [ ] [<code>incusd/instance/drivers/qemu: Double number of hotplug slots</code>](https://github.com/lxc/incus/commit/500f94139fac723bdc5726b660e09f06213a000e)
+- [ ] [<code>incusd/instance/qemu: Rework PCI hotplug</code>](https://github.com/lxc/incus/commit/e9c361c66517ee0434e4cecee6b8be6c6954560e)
+- [ ] [<code>incusd/instance/drivers/edk2: Limit calls to GetenvEdk2Path</code>](https://github.com/lxc/incus/commit/9c8d11df96c678eff4f6a279638e57341e256161)
+- [ ] [<code>incusd/instance/drivers/edk2: Actually check that the files exist</code>](https://github.com/lxc/incus/commit/20e228fa146569b78a36320a4c808da0782e038f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2115,6 +2122,13 @@
 - [ ] [<code>incusd/storage/drivers/ceph: Rework parseClone</code>](https://github.com/lxc/incus/commit/a4a7a20eeb413b199d2188bb1831c1daea26261f)
 - [ ] [<code>incusd/storage/drivers/ceph: Rework parseParent</code>](https://github.com/lxc/incus/commit/05963ff11587360b12fbabccef9f8bbc43f2f4ff)
 - [ ] [<code>incusd/storage/drivers/ceph: Make use of isDeleted flag</code>](https://github.com/lxc/incus/commit/6415b3514d7bd350983d8ff0f49be016c2adfdfd)
+- [ ] [<code>incusd/instance/qemu: Allow setCPUs to re-use QMP</code>](https://github.com/lxc/incus/commit/d173a4baad92b03fcd4d0249526a14b82c8945a3)
+- [ ] [<code>incusd/instance/qmp: Handle QMP occasionally returning multiple responses</code>](https://github.com/lxc/incus/commit/1f359db7859bde45bb1e52a6fb8f07a44bdbd6a8)
+- [ ] [<code>incusd/seccomp: Update syscall numbers</code>](https://github.com/lxc/incus/commit/c3926c93070692e1ee9df68a140bbf186f38edea)
+- [ ] [<code>incusd/instance/drivers/qemu: Double number of hotplug slots</code>](https://github.com/lxc/incus/commit/500f94139fac723bdc5726b660e09f06213a000e)
+- [ ] [<code>incusd/instance/qemu: Rework PCI hotplug</code>](https://github.com/lxc/incus/commit/e9c361c66517ee0434e4cecee6b8be6c6954560e)
+- [ ] [<code>incusd/instance/drivers/edk2: Limit calls to GetenvEdk2Path</code>](https://github.com/lxc/incus/commit/9c8d11df96c678eff4f6a279638e57341e256161)
+- [ ] [<code>incusd/instance/drivers/edk2: Actually check that the files exist</code>](https://github.com/lxc/incus/commit/20e228fa146569b78a36320a4c808da0782e038f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
