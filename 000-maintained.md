@@ -156,30 +156,8 @@
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [e48bb3f693e5d76656a3e7bbc07be0fcbfa19f23 → HEAD](https://github.com/canonical/firmware-updater/compare/e48bb3f693e5d76656a3e7bbc07be0fcbfa19f23...HEAD)
 
 
-#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20220627 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20220627...HEAD)
+#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
-- [ ] [<code>Libadwaita: add missing color variables</code>](https://github.com/daniruiz/flat-remix-gtk/commit/ae61cb1ea7c0594cea630a7604538b39eca33e06)
-- [ ] [<code>Libadwaita: move themes inside GTK folder</code>](https://github.com/daniruiz/flat-remix-gtk/commit/9e24507ceffab871834c163a5265b7df2dbab231)
-- [ ] [<code>Libadwaita: regenerate all theme variants</code>](https://github.com/daniruiz/flat-remix-gtk/commit/42e1eba202f14cc138f9705cefbbac386b71135f)
-- [ ] [<code>GTK4: Use libadwaita theme code instead of upstream gtk4</code>](https://github.com/daniruiz/flat-remix-gtk/commit/af3f8b4201dfe3c4ff29ee94e468400dc2e9526d)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>GTK4: generate all theme variants</code>](https://github.com/daniruiz/flat-remix-gtk/commit/161991711f0da1ba9e68a7f70127c4e27d418bf6)
-- [ ] [<code>GTK4: use libadwaita assets</code>](https://github.com/daniruiz/flat-remix-gtk/commit/33589d1a16a38205a7b135880e1fc14cf3d50aed)
-- [ ] [<code>Remove old themes</code>](https://github.com/daniruiz/flat-remix-gtk/commit/c75962623d9647018b07c50b825660d18bd54271)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
-- [ ] [<code>Libadwaita: make title buttons visible in colored headerbars</code>](https://github.com/daniruiz/flat-remix-gtk/commit/19dabe5c6247132ba1d3e94803fc6fe5129f96ce)
-- [ ] [<code>GTK4: add missing assets symlinks</code>](https://github.com/daniruiz/flat-remix-gtk/commit/c238c8f16e1c2ff4f778468feb30fde306a9d530)
-- [ ] [<code>Add theme install script</code>](https://github.com/daniruiz/flat-remix-gtk/commit/418bd8c888625188b8cbaef7dee05299fde25844)
-  - <sub>Keywords: <code>bin</code> <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Add executable permissions to install and uninstall scripts</code>](https://github.com/daniruiz/flat-remix-gtk/commit/1dbb7568be328f321373f1367fad70249659c5c6)
-- [ ] [<code>Fix install script</code>](https://github.com/daniruiz/flat-remix-gtk/commit/19e4b241f51a8b66201f3ebab8f2e333ce4a4551)
-  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
-- [ ] [<code>Remove uninstall.sh too during theme files removal</code>](https://github.com/daniruiz/flat-remix-gtk/commit/d3333e9922026a04c9c9f54f2e5dd85cdcf95a8f)
-- [ ] [<code>Generate changelog in reverse order</code>](https://github.com/daniruiz/flat-remix-gtk/commit/35f98b1bb679201fda9e9e919b023c348ce29e79)
-- [ ] [<code>Update CHANGELOG version 20240730</code>](https://github.com/daniruiz/flat-remix-gtk/commit/717ac1a946e3b690f8e00050dde3e8c559de5d3d)
-- [ ] [<code>Update aur version 20240730</code>](https://github.com/daniruiz/flat-remix-gtk/commit/6d9238a260aa030139d208d7e6f41cb27c5ad17a)
-- [ ] [<code>Update flat-remix-gtk.spec version 20240730</code>](https://github.com/daniruiz/flat-remix-gtk/commit/919494f4f4ede88e2efb45cd48b98db7cc23f6ee)
-  - <sub>Tags: <code>20240730</code></sub>
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -931,6 +909,13 @@
 - [ ] [<code>incusd/auth: Update for openfga-go-sdk API breakage</code>](https://github.com/lxc/incus/commit/061a5f8032acbe66c6225065cbae7cfe6e4df731)
 - [ ] [<code>Release Incus 6.5</code>](https://github.com/lxc/incus/commit/442b89bc7aa2d5935d069a6859aacb95b12993bc)
   - <sub>Tags: <code>v6.5.0</code></sub>
+- [ ] [<code>incus/network: Fix capitalization in network list</code>](https://github.com/lxc/incus/commit/0b4ebf48ab3de5692168cb056e90a814d52338ce)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/622a1487db2a2902816bbd83dd688b1df0bdadb0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/drivers/lvm: Cache VG extent size</code>](https://github.com/lxc/incus/commit/b6c1dd079a7e558d01f6e19bea2d61134acbeed7)
+- [ ] [<code>incusd/instance/qemu: Always re-generate the nvram symlink</code>](https://github.com/lxc/incus/commit/17cba6ecb8900c8fc462e8ab59a1cd509567a91d)
+- [ ] [<code>incusd/network/ovn: LSP dynamic allocation can't be done per protocol</code>](https://github.com/lxc/incus/commit/86fdc2528a0e3a75b1d3e815e2c119f4e3fdc432)
+- [ ] [<code>incusd/instance/qemu: Set O_DIRECT when passing in FDs</code>](https://github.com/lxc/incus/commit/572afb06f66f83ca95efa1b9386fceeaa1c9e11b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2172,6 +2157,13 @@
 - [ ] [<code>incusd/auth: Update for openfga-go-sdk API breakage</code>](https://github.com/lxc/incus/commit/061a5f8032acbe66c6225065cbae7cfe6e4df731)
 - [ ] [<code>Release Incus 6.5</code>](https://github.com/lxc/incus/commit/442b89bc7aa2d5935d069a6859aacb95b12993bc)
   - <sub>Tags: <code>v6.5.0</code></sub>
+- [ ] [<code>incus/network: Fix capitalization in network list</code>](https://github.com/lxc/incus/commit/0b4ebf48ab3de5692168cb056e90a814d52338ce)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/622a1487db2a2902816bbd83dd688b1df0bdadb0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage/drivers/lvm: Cache VG extent size</code>](https://github.com/lxc/incus/commit/b6c1dd079a7e558d01f6e19bea2d61134acbeed7)
+- [ ] [<code>incusd/instance/qemu: Always re-generate the nvram symlink</code>](https://github.com/lxc/incus/commit/17cba6ecb8900c8fc462e8ab59a1cd509567a91d)
+- [ ] [<code>incusd/network/ovn: LSP dynamic allocation can't be done per protocol</code>](https://github.com/lxc/incus/commit/86fdc2528a0e3a75b1d3e815e2c119f4e3fdc432)
+- [ ] [<code>incusd/instance/qemu: Set O_DIRECT when passing in FDs</code>](https://github.com/lxc/incus/commit/572afb06f66f83ca95efa1b9386fceeaa1c9e11b)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
