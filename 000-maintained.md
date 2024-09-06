@@ -149,6 +149,7 @@
 - [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
 - [ ] [<code>Update Rust to v1.80.1</code>](https://github.com/stepchowfun/docuum/commit/4309709bd352686d0bbb8ba6ab8ebce89be2f89f)
+- [ ] [<code>Update Rust to v1.81.0</code>](https://github.com/stepchowfun/docuum/commit/01c5827c3c51fdf33aea0e6da94c40f822cf2556)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -909,6 +910,27 @@
 - [ ] [<code>incusd/instance/qemu: Rework PCI hotplug</code>](https://github.com/lxc/incus/commit/e9c361c66517ee0434e4cecee6b8be6c6954560e)
 - [ ] [<code>incusd/instance/drivers/edk2: Limit calls to GetenvEdk2Path</code>](https://github.com/lxc/incus/commit/9c8d11df96c678eff4f6a279638e57341e256161)
 - [ ] [<code>incusd/instance/drivers/edk2: Actually check that the files exist</code>](https://github.com/lxc/incus/commit/20e228fa146569b78a36320a4c808da0782e038f)
+- [ ] [<code>incusd/device/config: Fix comment</code>](https://github.com/lxc/incus/commit/f727b612f337603526e9a443f7975ee8d0808bc4)
+- [ ] [<code>api: ovn_nic_promiscuous</code>](https://github.com/lxc/incus/commit/9bfaa175356b1a4c6ba7f99902a7fa76ce98d64e)
+- [ ] [<code>doc/devices/nic_ovn: Add security.promiscuous</code>](https://github.com/lxc/incus/commit/8965e60672a112d1c7b45c427161f56a5568ccac)
+- [ ] [<code>incusd/network/ovn: Only set DHCP options on LSP when not setting up a router interface</code>](https://github.com/lxc/incus/commit/e19b73901ce4a285effe8e681567795cc3299b61)
+- [ ] [<code>incusd/network/ovn: Add support for promiscuous Logical Switch Port</code>](https://github.com/lxc/incus/commit/4476dc00f2ff384c16102b86e594c4ff6695f674)
+- [ ] [<code>incusd/network/ovn: Wire in security.promiscuous</code>](https://github.com/lxc/incus/commit/54e1406ada621e4f4c55865a54636f7769a6bd01)
+- [ ] [<code>incusd/device/nic: Add security.promiscuous</code>](https://github.com/lxc/incus/commit/0858496ad427e302ce57a17780726f7c7bfe7791)
+- [ ] [<code>api: ovn_nic_ip_address_none</code>](https://github.com/lxc/incus/commit/7f562c29bd48345807ff765507a05ad84a0f314f)
+- [ ] [<code>doc/devices/nic_ovn: Add none for ipv4.address/ipv6.address</code>](https://github.com/lxc/incus/commit/e51c91738d7a8ca10a464cc8a4353fd6a484ece1)
+- [ ] [<code>incusd/device/nic_ovn: Allow 'none' as value for ipv4.address/ipv6.address</code>](https://github.com/lxc/incus/commit/53570270660a3964592ab582506876f67334a2b9)
+- [ ] [<code>incusd/network/ovn: Add support for disabling allocation on LSP</code>](https://github.com/lxc/incus/commit/90bb53262835458155f76c80d3baac09e2ac94a1)
+- [ ] [<code>incusd/network/ovn: Wire in support for ipvX.address=none</code>](https://github.com/lxc/incus/commit/0cda4042e9a7be495b9de48e9da15da3fb857479)
+- [ ] [<code>incusd/network/ovn: Fix BGP advertisement of load balancers</code>](https://github.com/lxc/incus/commit/950002b4b0e4a2be8d3f0437bee7b88fd206bde0)
+- [ ] [<code>incus-user: Handle deleted projects</code>](https://github.com/lxc/incus/commit/89ed2bf6c64a20ceb1c53d852cd256bbb01b65b3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Makefile: Set minimum Go to 1.22.0</code>](https://github.com/lxc/incus/commit/a630311ceb4389412a440bd0088d0999fd0d8b3f)
+- [ ] [<code>Makefile: Remove deprecated flag</code>](https://github.com/lxc/incus/commit/2dc8878ed6078b4264234c23866afd3f1e09600b)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d8cc028c9c91c55a8c13f35aa691418399c32b07)
+- [ ] [<code>incusd/auth: Update for openfga-go-sdk API breakage</code>](https://github.com/lxc/incus/commit/061a5f8032acbe66c6225065cbae7cfe6e4df731)
+- [ ] [<code>Release Incus 6.5</code>](https://github.com/lxc/incus/commit/442b89bc7aa2d5935d069a6859aacb95b12993bc)
+  - <sub>Tags: <code>v6.5.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2129,6 +2151,27 @@
 - [ ] [<code>incusd/instance/qemu: Rework PCI hotplug</code>](https://github.com/lxc/incus/commit/e9c361c66517ee0434e4cecee6b8be6c6954560e)
 - [ ] [<code>incusd/instance/drivers/edk2: Limit calls to GetenvEdk2Path</code>](https://github.com/lxc/incus/commit/9c8d11df96c678eff4f6a279638e57341e256161)
 - [ ] [<code>incusd/instance/drivers/edk2: Actually check that the files exist</code>](https://github.com/lxc/incus/commit/20e228fa146569b78a36320a4c808da0782e038f)
+- [ ] [<code>incusd/device/config: Fix comment</code>](https://github.com/lxc/incus/commit/f727b612f337603526e9a443f7975ee8d0808bc4)
+- [ ] [<code>api: ovn_nic_promiscuous</code>](https://github.com/lxc/incus/commit/9bfaa175356b1a4c6ba7f99902a7fa76ce98d64e)
+- [ ] [<code>doc/devices/nic_ovn: Add security.promiscuous</code>](https://github.com/lxc/incus/commit/8965e60672a112d1c7b45c427161f56a5568ccac)
+- [ ] [<code>incusd/network/ovn: Only set DHCP options on LSP when not setting up a router interface</code>](https://github.com/lxc/incus/commit/e19b73901ce4a285effe8e681567795cc3299b61)
+- [ ] [<code>incusd/network/ovn: Add support for promiscuous Logical Switch Port</code>](https://github.com/lxc/incus/commit/4476dc00f2ff384c16102b86e594c4ff6695f674)
+- [ ] [<code>incusd/network/ovn: Wire in security.promiscuous</code>](https://github.com/lxc/incus/commit/54e1406ada621e4f4c55865a54636f7769a6bd01)
+- [ ] [<code>incusd/device/nic: Add security.promiscuous</code>](https://github.com/lxc/incus/commit/0858496ad427e302ce57a17780726f7c7bfe7791)
+- [ ] [<code>api: ovn_nic_ip_address_none</code>](https://github.com/lxc/incus/commit/7f562c29bd48345807ff765507a05ad84a0f314f)
+- [ ] [<code>doc/devices/nic_ovn: Add none for ipv4.address/ipv6.address</code>](https://github.com/lxc/incus/commit/e51c91738d7a8ca10a464cc8a4353fd6a484ece1)
+- [ ] [<code>incusd/device/nic_ovn: Allow 'none' as value for ipv4.address/ipv6.address</code>](https://github.com/lxc/incus/commit/53570270660a3964592ab582506876f67334a2b9)
+- [ ] [<code>incusd/network/ovn: Add support for disabling allocation on LSP</code>](https://github.com/lxc/incus/commit/90bb53262835458155f76c80d3baac09e2ac94a1)
+- [ ] [<code>incusd/network/ovn: Wire in support for ipvX.address=none</code>](https://github.com/lxc/incus/commit/0cda4042e9a7be495b9de48e9da15da3fb857479)
+- [ ] [<code>incusd/network/ovn: Fix BGP advertisement of load balancers</code>](https://github.com/lxc/incus/commit/950002b4b0e4a2be8d3f0437bee7b88fd206bde0)
+- [ ] [<code>incus-user: Handle deleted projects</code>](https://github.com/lxc/incus/commit/89ed2bf6c64a20ceb1c53d852cd256bbb01b65b3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Makefile: Set minimum Go to 1.22.0</code>](https://github.com/lxc/incus/commit/a630311ceb4389412a440bd0088d0999fd0d8b3f)
+- [ ] [<code>Makefile: Remove deprecated flag</code>](https://github.com/lxc/incus/commit/2dc8878ed6078b4264234c23866afd3f1e09600b)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d8cc028c9c91c55a8c13f35aa691418399c32b07)
+- [ ] [<code>incusd/auth: Update for openfga-go-sdk API breakage</code>](https://github.com/lxc/incus/commit/061a5f8032acbe66c6225065cbae7cfe6e4df731)
+- [ ] [<code>Release Incus 6.5</code>](https://github.com/lxc/incus/commit/442b89bc7aa2d5935d069a6859aacb95b12993bc)
+  - <sub>Tags: <code>v6.5.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
