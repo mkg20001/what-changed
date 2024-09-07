@@ -916,6 +916,7 @@
 - [ ] [<code>incusd/instance/qemu: Always re-generate the nvram symlink</code>](https://github.com/lxc/incus/commit/17cba6ecb8900c8fc462e8ab59a1cd509567a91d)
 - [ ] [<code>incusd/network/ovn: LSP dynamic allocation can't be done per protocol</code>](https://github.com/lxc/incus/commit/86fdc2528a0e3a75b1d3e815e2c119f4e3fdc432)
 - [ ] [<code>incusd/instance/qemu: Set O_DIRECT when passing in FDs</code>](https://github.com/lxc/incus/commit/572afb06f66f83ca95efa1b9386fceeaa1c9e11b)
+- [ ] [<code>incusd/apparmor: Only initialize with the daemon</code>](https://github.com/lxc/incus/commit/cf8632cc07ac384b096d62a4e3a82afdb422288d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2164,6 +2165,7 @@
 - [ ] [<code>incusd/instance/qemu: Always re-generate the nvram symlink</code>](https://github.com/lxc/incus/commit/17cba6ecb8900c8fc462e8ab59a1cd509567a91d)
 - [ ] [<code>incusd/network/ovn: LSP dynamic allocation can't be done per protocol</code>](https://github.com/lxc/incus/commit/86fdc2528a0e3a75b1d3e815e2c119f4e3fdc432)
 - [ ] [<code>incusd/instance/qemu: Set O_DIRECT when passing in FDs</code>](https://github.com/lxc/incus/commit/572afb06f66f83ca95efa1b9386fceeaa1c9e11b)
+- [ ] [<code>incusd/apparmor: Only initialize with the daemon</code>](https://github.com/lxc/incus/commit/cf8632cc07ac384b096d62a4e3a82afdb422288d)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
