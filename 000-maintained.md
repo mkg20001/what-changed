@@ -917,6 +917,13 @@
 - [ ] [<code>incusd/network/ovn: LSP dynamic allocation can't be done per protocol</code>](https://github.com/lxc/incus/commit/86fdc2528a0e3a75b1d3e815e2c119f4e3fdc432)
 - [ ] [<code>incusd/instance/qemu: Set O_DIRECT when passing in FDs</code>](https://github.com/lxc/incus/commit/572afb06f66f83ca95efa1b9386fceeaa1c9e11b)
 - [ ] [<code>incusd/apparmor: Only initialize with the daemon</code>](https://github.com/lxc/incus/commit/cf8632cc07ac384b096d62a4e3a82afdb422288d)
+- [ ] [<code>incusd/instance/qemu: Make O_DIRECT conditional on directCache</code>](https://github.com/lxc/incus/commit/0c37b7e3ec65b4d0e166e2127d9f1835320165b8)
+- [ ] [<code>incusd/instance/qemu: Force threads I/O mode for unsafe/writeback</code>](https://github.com/lxc/incus/commit/58eeb4eeee8a9e7f9fa9c62443d00f0ec6797078)
+- [ ] [<code>incusd/instance/qemu: Move away from deprecated fd: syntax</code>](https://github.com/lxc/incus/commit/4acc15c0dcab2fe4c076eb8422bc1215fc5d4d7a)
+- [ ] [<code>doc: Fix network load-balancer typo</code>](https://github.com/lxc/incus/commit/2684f7993ead016a8ae8579751b80e13f81d511a)
+- [ ] [<code>incusd/network/ovn: Fix group of load-balancer config keys</code>](https://github.com/lxc/incus/commit/34d40ab5c7aacf3502979d008a94f270f2de3bb8)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/5f3bb2e9d0d24ca527030cac0d36e384a9d83334)
+- [ ] [<code>incusd/apparmor: Add sys_rawio for QEMU 9.1</code>](https://github.com/lxc/incus/commit/b77c1ee8aca2da814a534ad45ab21223a0f8faf5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2166,6 +2173,13 @@
 - [ ] [<code>incusd/network/ovn: LSP dynamic allocation can't be done per protocol</code>](https://github.com/lxc/incus/commit/86fdc2528a0e3a75b1d3e815e2c119f4e3fdc432)
 - [ ] [<code>incusd/instance/qemu: Set O_DIRECT when passing in FDs</code>](https://github.com/lxc/incus/commit/572afb06f66f83ca95efa1b9386fceeaa1c9e11b)
 - [ ] [<code>incusd/apparmor: Only initialize with the daemon</code>](https://github.com/lxc/incus/commit/cf8632cc07ac384b096d62a4e3a82afdb422288d)
+- [ ] [<code>incusd/instance/qemu: Make O_DIRECT conditional on directCache</code>](https://github.com/lxc/incus/commit/0c37b7e3ec65b4d0e166e2127d9f1835320165b8)
+- [ ] [<code>incusd/instance/qemu: Force threads I/O mode for unsafe/writeback</code>](https://github.com/lxc/incus/commit/58eeb4eeee8a9e7f9fa9c62443d00f0ec6797078)
+- [ ] [<code>incusd/instance/qemu: Move away from deprecated fd: syntax</code>](https://github.com/lxc/incus/commit/4acc15c0dcab2fe4c076eb8422bc1215fc5d4d7a)
+- [ ] [<code>doc: Fix network load-balancer typo</code>](https://github.com/lxc/incus/commit/2684f7993ead016a8ae8579751b80e13f81d511a)
+- [ ] [<code>incusd/network/ovn: Fix group of load-balancer config keys</code>](https://github.com/lxc/incus/commit/34d40ab5c7aacf3502979d008a94f270f2de3bb8)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/5f3bb2e9d0d24ca527030cac0d36e384a9d83334)
+- [ ] [<code>incusd/apparmor: Add sys_rawio for QEMU 9.1</code>](https://github.com/lxc/incus/commit/b77c1ee8aca2da814a534ad45ab21223a0f8faf5)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
