@@ -3030,6 +3030,9 @@
 - [ ] [<code>build: v1.13.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/707c44e239b3f1e1a8d32e649a796307bed412e6)
 - [ ] [<code>test(gui): fix locale dependant tests regression</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e20df0a27827406128b2bbd0372ec3198ef3c52b)
   - <sub>Tags: <code>v1.13.1</code></sub>
+- [ ] [<code>refactor(lib): add extra eq band quirk abstraction</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9b5e1fedf2eb906049b869461940b8891deea000)
+- [ ] [<code>refactor(lib): add extra eq band parser</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3584700ac4901275d2866ba01c8adf5138035d55)
+- [ ] [<code>refactor(lib): add stereo equalizer configuration struct</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f32138749caf427d77930fdc4512e1ea43143643)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
