@@ -676,6 +676,7 @@
 - [ ] [<code>incusd/network/ovn: Fix group of load-balancer config keys</code>](https://github.com/lxc/incus/commit/34d40ab5c7aacf3502979d008a94f270f2de3bb8)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/5f3bb2e9d0d24ca527030cac0d36e384a9d83334)
 - [ ] [<code>incusd/apparmor: Add sys_rawio for QEMU 9.1</code>](https://github.com/lxc/incus/commit/b77c1ee8aca2da814a534ad45ab21223a0f8faf5)
+- [ ] [<code>doc: Fix limits.memory default value unit</code>](https://github.com/lxc/incus/commit/62dee371d6205956ef0ea17ec3ed06482bb8d5f3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1932,6 +1933,7 @@
 - [ ] [<code>incusd/network/ovn: Fix group of load-balancer config keys</code>](https://github.com/lxc/incus/commit/34d40ab5c7aacf3502979d008a94f270f2de3bb8)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/5f3bb2e9d0d24ca527030cac0d36e384a9d83334)
 - [ ] [<code>incusd/apparmor: Add sys_rawio for QEMU 9.1</code>](https://github.com/lxc/incus/commit/b77c1ee8aca2da814a534ad45ab21223a0f8faf5)
+- [ ] [<code>doc: Fix limits.memory default value unit</code>](https://github.com/lxc/incus/commit/62dee371d6205956ef0ea17ec3ed06482bb8d5f3)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
