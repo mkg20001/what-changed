@@ -397,6 +397,7 @@
   - <sub>Tags: <code>v1.22.1</code></sub>
 - [ ] [<code>build: Update flutter to 3.24.2</code>](https://github.com/krille-chan/fluffychat/commit/4efd73c943aa1357c6c592d63f4d635589e82477)
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
+- [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -636,6 +637,7 @@
   - <sub>Tags: <code>v1.22.1</code></sub>
 - [ ] [<code>build: Update flutter to 3.24.2</code>](https://github.com/krille-chan/fluffychat/commit/4efd73c943aa1357c6c592d63f4d635589e82477)
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
+- [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
