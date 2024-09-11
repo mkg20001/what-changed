@@ -3155,24 +3155,8 @@
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
 - [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
 
-#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.0 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.0...HEAD)
+#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.040 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.040...HEAD)
 
-- [ ] [<code>Video sort ignores punctuation #611</code>](https://github.com/axcore/tartube/commit/43d074b1f1111522ff16d7aff07d5256d4ba2e6b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix video re-download and broken filter button</code>](https://github.com/axcore/tartube/commit/9f8863a1444b329eed6f7b9c8f2eac2e4491dd4a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Misc fixes and new features</code>](https://github.com/axcore/tartube/commit/94a70d5e921a63bf884f0716d17a40ddd6b0a7f0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix broken spinbutton in Custom DL edit window</code>](https://github.com/axcore/tartube/commit/5d2ccfe6a72146c4c64c56616ff534bb32528ca7)
-- [ ] [<code>Fix can't set ytdl path in strict mode, #633</code>](https://github.com/axcore/tartube/commit/adaed3fe4758d85bd489f3f7d2bab14317df1b06)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix 'is a livestream' button in Classic Mode, #643</code>](https://github.com/axcore/tartube/commit/d5d8a052184cdc55e77a9689a6c84fb881b2ecc7)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix Python 3.12 syntax errors; add pipx compatibility</code>](https://github.com/axcore/tartube/commit/3f130610e454112e3d8c62321d0cf3e3ed888ec2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update to v2.5.040</code>](https://github.com/axcore/tartube/commit/118eb44e18e8e9e7cce897bf3fa2913e32d195fa)
-  - <sub>Tags: <code>v2.5.040</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
