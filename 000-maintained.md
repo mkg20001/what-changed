@@ -687,6 +687,7 @@
 - [ ] [<code>incusd/apparmor: Don't attempt unloading profiles when apparmor is disabled</code>](https://github.com/lxc/incus/commit/b390684968aa62facf38203a14cb7ecf25c508b9)
 - [ ] [<code>internal/instance: Fix unit for limits.memory</code>](https://github.com/lxc/incus/commit/d69eb911d452f9e3ee9f184f1d3e568a14d75f84)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b92d02eb5077ea1dce01515c2449b319666f13a9)
+- [ ] [<code>doc/installing: Add Rocky Linux 9</code>](https://github.com/lxc/incus/commit/40c533300acb7666feb736c3131f60db52be651b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1948,6 +1949,7 @@
 - [ ] [<code>incusd/apparmor: Don't attempt unloading profiles when apparmor is disabled</code>](https://github.com/lxc/incus/commit/b390684968aa62facf38203a14cb7ecf25c508b9)
 - [ ] [<code>internal/instance: Fix unit for limits.memory</code>](https://github.com/lxc/incus/commit/d69eb911d452f9e3ee9f184f1d3e568a14d75f84)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b92d02eb5077ea1dce01515c2449b319666f13a9)
+- [ ] [<code>doc/installing: Add Rocky Linux 9</code>](https://github.com/lxc/incus/commit/40c533300acb7666feb736c3131f60db52be651b)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2826,6 +2828,9 @@
 - [ ] [<code>util.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/9e4d7ef0ad7ebf1ad8e4bcb1c563426e1a5ad61e)
 - [ ] [<code>validation.c: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/9fb7dbecbd662301420374fe1de51f068ddd29b0)
 - [ ] [<code>ctests: fix implicit conversions</code>](https://github.com/canonical/netplan/commit/1156dc77acce89edf2d4f3c2ff78fb8386077b8e)
+- [ ] [<code>networkd:openvswitch:sriov: Permissive umask for .service units (LP: #2072487)</code>](https://github.com/canonical/netplan/commit/60dab77ea6ed176db77703e1469f5d7f5b51160b)
+- [ ] [<code>tests: Adopt for more permissive umask of .service units</code>](https://github.com/canonical/netplan/commit/c9d82e9629a859f5b38d721d0204a721d0a1a5b7)
+- [ ] [<code>doc: Update thread model regarding .service unit permissions</code>](https://github.com/canonical/netplan/commit/4a82c3b3fa7bf388e591b2b168f8d15f1801521c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
