@@ -2117,6 +2117,7 @@
 - [ ] [<code>Bump the github-actions group with 3 updates (#2424)</code>](https://github.com/AOMediaCodec/libavif/commit/c799319a016c184d05d4c9a1eeb5cb73832006ba)
 - [ ] [<code>Add IMPORTED_IMPLIB property to each CMake Module (#2425)</code>](https://github.com/AOMediaCodec/libavif/commit/85979a79983573c908958cd27197290cd19ea7b6)
 - [ ] [<code>Add/update comments about avifCleanApertureBox</code>](https://github.com/AOMediaCodec/libavif/commit/dfffad3cab94ce216b3168aaef958dc662686d29)
+- [ ] [<code>Add a comment to explain why we don't write lsel (#2430)</code>](https://github.com/AOMediaCodec/libavif/commit/8aab77e354bc1b41764f4aaf86770b9d6d530794)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
