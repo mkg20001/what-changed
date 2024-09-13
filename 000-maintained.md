@@ -688,6 +688,11 @@
 - [ ] [<code>internal/instance: Fix unit for limits.memory</code>](https://github.com/lxc/incus/commit/d69eb911d452f9e3ee9f184f1d3e568a14d75f84)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b92d02eb5077ea1dce01515c2449b319666f13a9)
 - [ ] [<code>doc/installing: Add Rocky Linux 9</code>](https://github.com/lxc/incus/commit/40c533300acb7666feb736c3131f60db52be651b)
+- [ ] [<code>incus/storage_volume: Fix snapshot listing</code>](https://github.com/lxc/incus/commit/39111047246db671f441bed1034d3a1c4837d976)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ec2a946f6621897462801efcc9a54b141ec8c63a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>internal/server/instance/drivers: Disable 9p and vsock for Windows VMs</code>](https://github.com/lxc/incus/commit/ab06c61d1a4a3dc993018a45241b31ecb9082e28)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1950,6 +1955,11 @@
 - [ ] [<code>internal/instance: Fix unit for limits.memory</code>](https://github.com/lxc/incus/commit/d69eb911d452f9e3ee9f184f1d3e568a14d75f84)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b92d02eb5077ea1dce01515c2449b319666f13a9)
 - [ ] [<code>doc/installing: Add Rocky Linux 9</code>](https://github.com/lxc/incus/commit/40c533300acb7666feb736c3131f60db52be651b)
+- [ ] [<code>incus/storage_volume: Fix snapshot listing</code>](https://github.com/lxc/incus/commit/39111047246db671f441bed1034d3a1c4837d976)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ec2a946f6621897462801efcc9a54b141ec8c63a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>internal/server/instance/drivers: Disable 9p and vsock for Windows VMs</code>](https://github.com/lxc/incus/commit/ab06c61d1a4a3dc993018a45241b31ecb9082e28)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
