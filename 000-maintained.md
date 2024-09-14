@@ -687,12 +687,17 @@
 - [ ] [<code>incusd/apparmor: Don't attempt unloading profiles when apparmor is disabled</code>](https://github.com/lxc/incus/commit/b390684968aa62facf38203a14cb7ecf25c508b9)
 - [ ] [<code>internal/instance: Fix unit for limits.memory</code>](https://github.com/lxc/incus/commit/d69eb911d452f9e3ee9f184f1d3e568a14d75f84)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b92d02eb5077ea1dce01515c2449b319666f13a9)
+- [ ] [<code>shared/archive: Add VMDK images to list of supported formats</code>](https://github.com/lxc/incus/commit/2ed4eae1de8f02e97338055309a971cc15c5e4ad)
 - [ ] [<code>doc/installing: Add Rocky Linux 9</code>](https://github.com/lxc/incus/commit/40c533300acb7666feb736c3131f60db52be651b)
+- [ ] [<code>cmd/incus-migrate: Report detected source format when importing VM image</code>](https://github.com/lxc/incus/commit/b02f1fac89c13400f38f47cb02dbec873df6d2a8)
 - [ ] [<code>incus/storage_volume: Fix snapshot listing</code>](https://github.com/lxc/incus/commit/39111047246db671f441bed1034d3a1c4837d976)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ec2a946f6621897462801efcc9a54b141ec8c63a)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>internal/server/instance/drivers: Disable 9p and vsock for Windows VMs</code>](https://github.com/lxc/incus/commit/ab06c61d1a4a3dc993018a45241b31ecb9082e28)
+- [ ] [<code>cmd/incus-migrate: Convert qcow2 and vmdk images to raw format before importing</code>](https://github.com/lxc/incus/commit/6a2f56698f918fa6904829a921f8eb7d98cea112)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1954,12 +1959,17 @@
 - [ ] [<code>incusd/apparmor: Don't attempt unloading profiles when apparmor is disabled</code>](https://github.com/lxc/incus/commit/b390684968aa62facf38203a14cb7ecf25c508b9)
 - [ ] [<code>internal/instance: Fix unit for limits.memory</code>](https://github.com/lxc/incus/commit/d69eb911d452f9e3ee9f184f1d3e568a14d75f84)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/b92d02eb5077ea1dce01515c2449b319666f13a9)
+- [ ] [<code>shared/archive: Add VMDK images to list of supported formats</code>](https://github.com/lxc/incus/commit/2ed4eae1de8f02e97338055309a971cc15c5e4ad)
 - [ ] [<code>doc/installing: Add Rocky Linux 9</code>](https://github.com/lxc/incus/commit/40c533300acb7666feb736c3131f60db52be651b)
+- [ ] [<code>cmd/incus-migrate: Report detected source format when importing VM image</code>](https://github.com/lxc/incus/commit/b02f1fac89c13400f38f47cb02dbec873df6d2a8)
 - [ ] [<code>incus/storage_volume: Fix snapshot listing</code>](https://github.com/lxc/incus/commit/39111047246db671f441bed1034d3a1c4837d976)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ec2a946f6621897462801efcc9a54b141ec8c63a)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>internal/server/instance/drivers: Disable 9p and vsock for Windows VMs</code>](https://github.com/lxc/incus/commit/ab06c61d1a4a3dc993018a45241b31ecb9082e28)
+- [ ] [<code>cmd/incus-migrate: Convert qcow2 and vmdk images to raw format before importing</code>](https://github.com/lxc/incus/commit/6a2f56698f918fa6904829a921f8eb7d98cea112)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
