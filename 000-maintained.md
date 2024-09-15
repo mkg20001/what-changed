@@ -698,6 +698,7 @@
 - [ ] [<code>cmd/incus-migrate: Convert qcow2 and vmdk images to raw format before importing</code>](https://github.com/lxc/incus/commit/6a2f56698f918fa6904829a921f8eb7d98cea112)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
+- [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1970,6 +1971,7 @@
 - [ ] [<code>cmd/incus-migrate: Convert qcow2 and vmdk images to raw format before importing</code>](https://github.com/lxc/incus/commit/6a2f56698f918fa6904829a921f8eb7d98cea112)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
+- [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
