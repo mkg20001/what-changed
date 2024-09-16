@@ -2192,6 +2192,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>github: add ISSUE_TEMPLATE.md</code>](https://github.com/lxc/lxcfs/commit/8c88d4e171dc696a773223f8db5cb846314e702a)
 - [ ] [<code>github: add live upgrade test between stable-{5,6} branches</code>](https://github.com/lxc/lxcfs/commit/15f614c50ca11812db19696fc3c7a9f637a31dc1)
+- [ ] [<code>Add missing linux/limits.h include</code>](https://github.com/lxc/lxcfs/commit/1e4e1841d695a324c32c0724d174ea07f5fd25e5)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
