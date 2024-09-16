@@ -399,6 +399,7 @@
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
+- [ ] [<code>build: Update to Flutter 3.24.3</code>](https://github.com/krille-chan/fluffychat/commit/003c109453401523dd807f35c75871b48ff42b74)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -640,6 +641,7 @@
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
+- [ ] [<code>build: Update to Flutter 3.24.3</code>](https://github.com/krille-chan/fluffychat/commit/003c109453401523dd807f35c75871b48ff42b74)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -701,6 +703,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
 - [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
+- [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1974,6 +1977,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
 - [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
+- [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2181,6 +2185,9 @@
 - [ ] [<code>Exit 0 when there's no error</code>](https://github.com/lxc/lxc/commit/b24d2d45b3875b013131b480e61c93b6fb8ea70c)
 - [ ] [<code>doc: Fix definitions of get_config_path and set_config_path</code>](https://github.com/lxc/lxc/commit/7be0433107b41525da164f79fd0a410a38f812c7)
 - [ ] [<code>README: Update security contact</code>](https://github.com/lxc/lxc/commit/b79d2a52565feea07ce887330e4b69ed402f36ad)
+- [ ] [<code>fix possible clang compile error in AARCH</code>](https://github.com/lxc/lxc/commit/83bb86888375c5bfb894ce4232b26b00959581ac)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.1 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.1...HEAD)
 
