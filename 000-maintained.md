@@ -398,6 +398,7 @@
 - [ ] [<code>build: Update flutter to 3.24.2</code>](https://github.com/krille-chan/fluffychat/commit/4efd73c943aa1357c6c592d63f4d635589e82477)
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
+- [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -638,6 +639,7 @@
 - [ ] [<code>build: Update flutter to 3.24.2</code>](https://github.com/krille-chan/fluffychat/commit/4efd73c943aa1357c6c592d63f4d635589e82477)
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
+- [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2140,6 +2142,8 @@
 - [ ] [<code>Add IMPORTED_IMPLIB property to each CMake Module (#2425)</code>](https://github.com/AOMediaCodec/libavif/commit/85979a79983573c908958cd27197290cd19ea7b6)
 - [ ] [<code>Add/update comments about avifCleanApertureBox</code>](https://github.com/AOMediaCodec/libavif/commit/dfffad3cab94ce216b3168aaef958dc662686d29)
 - [ ] [<code>Add a comment to explain why we don't write lsel (#2430)</code>](https://github.com/AOMediaCodec/libavif/commit/8aab77e354bc1b41764f4aaf86770b9d6d530794)
+- [ ] [<code>Add tests decoding files using 'idat' instead of 'mdat' (#2433)</code>](https://github.com/AOMediaCodec/libavif/commit/981b9a277e2d0c80382ae06a7ad4349ae1ca78bd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
@@ -2855,6 +2859,9 @@
 - [ ] [<code>networkd:openvswitch:sriov: Permissive umask for .service units (LP: #2072487)</code>](https://github.com/canonical/netplan/commit/60dab77ea6ed176db77703e1469f5d7f5b51160b)
 - [ ] [<code>tests: Adopt for more permissive umask of .service units</code>](https://github.com/canonical/netplan/commit/c9d82e9629a859f5b38d721d0204a721d0a1a5b7)
 - [ ] [<code>doc: Update thread model regarding .service unit permissions</code>](https://github.com/canonical/netplan/commit/4a82c3b3fa7bf388e591b2b168f8d15f1801521c)
+- [ ] [<code>validation: fix comment about WireGuard key length</code>](https://github.com/canonical/netplan/commit/b79a0fc3ecaa2b837702c853a341c13d9d4849a1)
+- [ ] [<code>doc: Add initial 'Cryptography' section</code>](https://github.com/canonical/netplan/commit/e0e87118ee954145d783c0341eace613fa6ad37a)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
