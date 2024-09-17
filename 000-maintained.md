@@ -395,6 +395,7 @@
 - [ ] [<code>chore: Follow up vm service</code>](https://github.com/krille-chan/fluffychat/commit/3e06537d1b6fbdf31e5603d13f3fe7489676f74e)
 - [ ] [<code>build: Build linux with Flutter 3.24.1</code>](https://github.com/krille-chan/fluffychat/commit/d70d8803c27d328d8e600b8991c3fd255ab6245d)
   - <sub>Tags: <code>v1.22.1</code></sub>
+- [ ] [<code>fix: Bypass image compression in flutter_file_picker</code>](https://github.com/krille-chan/fluffychat/commit/341a76412c7909ddd2904d9fc70ffa1d0620a1a7)
 - [ ] [<code>build: Update flutter to 3.24.2</code>](https://github.com/krille-chan/fluffychat/commit/4efd73c943aa1357c6c592d63f4d635589e82477)
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
@@ -637,6 +638,7 @@
 - [ ] [<code>chore: Follow up vm service</code>](https://github.com/krille-chan/fluffychat/commit/3e06537d1b6fbdf31e5603d13f3fe7489676f74e)
 - [ ] [<code>build: Build linux with Flutter 3.24.1</code>](https://github.com/krille-chan/fluffychat/commit/d70d8803c27d328d8e600b8991c3fd255ab6245d)
   - <sub>Tags: <code>v1.22.1</code></sub>
+- [ ] [<code>fix: Bypass image compression in flutter_file_picker</code>](https://github.com/krille-chan/fluffychat/commit/341a76412c7909ddd2904d9fc70ffa1d0620a1a7)
 - [ ] [<code>build: Update flutter to 3.24.2</code>](https://github.com/krille-chan/fluffychat/commit/4efd73c943aa1357c6c592d63f4d635589e82477)
 - [ ] [<code>feat: New audio message design with displayed body</code>](https://github.com/krille-chan/fluffychat/commit/a732ea62e29c76af7fa170769c3a8764559d16d4)
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
