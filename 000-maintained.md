@@ -2150,6 +2150,9 @@
 - [ ] [<code>Add a comment to explain why we don't write lsel (#2430)</code>](https://github.com/AOMediaCodec/libavif/commit/8aab77e354bc1b41764f4aaf86770b9d6d530794)
 - [ ] [<code>Add tests decoding files using 'idat' instead of 'mdat' (#2433)</code>](https://github.com/AOMediaCodec/libavif/commit/981b9a277e2d0c80382ae06a7ad4349ae1ca78bd)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Merge avif_decode_fuzzer into avif_fuzztest_dec.cc (#2006)</code>](https://github.com/AOMediaCodec/libavif/commit/3d4c39cd8f6cb32264ad22616c3125942bd70768)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
 
