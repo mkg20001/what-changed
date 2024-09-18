@@ -401,6 +401,7 @@
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
 - [ ] [<code>build: Update to Flutter 3.24.3</code>](https://github.com/krille-chan/fluffychat/commit/003c109453401523dd807f35c75871b48ff42b74)
+- [ ] [<code>chore: Follow up waveform color</code>](https://github.com/krille-chan/fluffychat/commit/75d28e16ea3d0c4ddbc365a79ac0b0b9ed80a5bb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -644,6 +645,7 @@
 - [ ] [<code>chore: Follow up audioplayer design</code>](https://github.com/krille-chan/fluffychat/commit/54306847f8bcb911c5a144726069d9a24247495b)
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
 - [ ] [<code>build: Update to Flutter 3.24.3</code>](https://github.com/krille-chan/fluffychat/commit/003c109453401523dd807f35c75871b48ff42b74)
+- [ ] [<code>chore: Follow up waveform color</code>](https://github.com/krille-chan/fluffychat/commit/75d28e16ea3d0c4ddbc365a79ac0b0b9ed80a5bb)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
