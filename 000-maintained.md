@@ -402,6 +402,9 @@
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
 - [ ] [<code>build: Update to Flutter 3.24.3</code>](https://github.com/krille-chan/fluffychat/commit/003c109453401523dd807f35c75871b48ff42b74)
 - [ ] [<code>chore: Follow up waveform color</code>](https://github.com/krille-chan/fluffychat/commit/75d28e16ea3d0c4ddbc365a79ac0b0b9ed80a5bb)
+- [ ] [<code>build: Update to matrix dart sdk 0.33</code>](https://github.com/krille-chan/fluffychat/commit/c63a53bbcc377f3d2c0e3ffb6dc0922a05206856)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/2cad97fac761432faf1fecc14c1ecd7c4e5bff1e)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -646,6 +649,9 @@
 - [ ] [<code>chore: Fix formatting</code>](https://github.com/krille-chan/fluffychat/commit/3355e66e9a5cb90818eb2a2ee2ccfd22af900908)
 - [ ] [<code>build: Update to Flutter 3.24.3</code>](https://github.com/krille-chan/fluffychat/commit/003c109453401523dd807f35c75871b48ff42b74)
 - [ ] [<code>chore: Follow up waveform color</code>](https://github.com/krille-chan/fluffychat/commit/75d28e16ea3d0c4ddbc365a79ac0b0b9ed80a5bb)
+- [ ] [<code>build: Update to matrix dart sdk 0.33</code>](https://github.com/krille-chan/fluffychat/commit/c63a53bbcc377f3d2c0e3ffb6dc0922a05206856)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/2cad97fac761432faf1fecc14c1ecd7c4e5bff1e)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
