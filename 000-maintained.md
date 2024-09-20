@@ -714,6 +714,7 @@
 - [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
 - [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
 - [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
+- [ ] [<code>doc/installing: Add link to Arch Wiki for Incus</code>](https://github.com/lxc/incus/commit/df4d741352c29baee484e615211e71e4d1fd6dab)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
 
@@ -1988,6 +1989,7 @@
 - [ ] [<code>doc: List image formats supported by incus-migrate</code>](https://github.com/lxc/incus/commit/010e617f3f251b62a43a3ec2f1112f528aebcb3a)
 - [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
 - [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
+- [ ] [<code>doc/installing: Add link to Arch Wiki for Incus</code>](https://github.com/lxc/incus/commit/df4d741352c29baee484e615211e71e4d1fd6dab)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3293,6 +3295,10 @@
 - [ ] [<code>tests: replace test runner shell script with ucode implementation</code>](https://github.com/jow-/ucode/commit/fbabec42349880407c4308211129c07ff51c484a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: bump upload-artifact to v3</code>](https://github.com/jow-/ucode/commit/6ea37c8fa4c4780ff99441ac787a2c9cd38c7bc6)
+- [ ] [<code>lib: use copy of environ pointer in getenv()</code>](https://github.com/jow-/ucode/commit/7af80d986f836396977e25ccf2487414fc080400)
+- [ ] [<code>lib: test if call to getenv() destroys environ</code>](https://github.com/jow-/ucode/commit/86f11211dc77cdd86209049692f83286dad73ad5)
+- [ ] [<code>fs: add ioctl() file method</code>](https://github.com/jow-/ucode/commit/56ebeeca5349773db0ff8104dbf2f99d10d13f16)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
