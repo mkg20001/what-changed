@@ -716,7 +716,7 @@
 - [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
 - [ ] [<code>doc/installing: Add link to Arch Wiki for Incus</code>](https://github.com/lxc/incus/commit/df4d741352c29baee484e615211e71e4d1fd6dab)
 
-#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.1...HEAD)
+#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
 - [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
 - [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
@@ -2163,8 +2163,10 @@
 - [ ] [<code>Merge avif_decode_fuzzer into avif_fuzztest_dec.cc (#2006)</code>](https://github.com/AOMediaCodec/libavif/commit/3d4c39cd8f6cb32264ad22616c3125942bd70768)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Remove unused oss-fuzz/.clang-format (#2435)</code>](https://github.com/AOMediaCodec/libavif/commit/d1c54f12ae6576ee3cfd1e8093f81656984c2c4e)
+- [ ] [<code>Use camelCase for avifEncoderItemIdArray (#2436)</code>](https://github.com/AOMediaCodec/libavif/commit/fa4eaf913603735f3e38c6c2b0beff95585fb1ef)
 
-#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.1 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.1...HEAD)
+#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
 - [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/05416319327e7bbd76c904d00d9c25027f63be5b)
   - <sub>Files: <code>meson.build</code></sub>
@@ -2204,7 +2206,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.1 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.1...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
