@@ -3327,6 +3327,7 @@
 - [ ] [<code>lib: use copy of environ pointer in getenv()</code>](https://github.com/jow-/ucode/commit/7af80d986f836396977e25ccf2487414fc080400)
 - [ ] [<code>lib: test if call to getenv() destroys environ</code>](https://github.com/jow-/ucode/commit/86f11211dc77cdd86209049692f83286dad73ad5)
 - [ ] [<code>fs: add ioctl() file method</code>](https://github.com/jow-/ucode/commit/56ebeeca5349773db0ff8104dbf2f99d10d13f16)
+- [ ] [<code>nl80211: add EHT mac/phy capabilities</code>](https://github.com/jow-/ucode/commit/4e0456ba2f7f9c7727bcd6b004540b9cd7d7f85b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
