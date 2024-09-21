@@ -715,6 +715,19 @@
 - [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
 - [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
 - [ ] [<code>doc/installing: Add link to Arch Wiki for Incus</code>](https://github.com/lxc/incus/commit/df4d741352c29baee484e615211e71e4d1fd6dab)
+- [ ] [<code>internal/server/instance/drivers: Cleanup spice socket when VM stops</code>](https://github.com/lxc/incus/commit/3eb360fe60086daf8573aa19fcde900e2b8fed0e)
+- [ ] [<code>internal/server/instance/drivers: Switch default backend for QEMU console to ringbuf</code>](https://github.com/lxc/incus/commit/0bf881f992d998e31148d1b384acb1244c2e600e)
+- [ ] [<code>incus/console: Add completion</code>](https://github.com/lxc/incus/commit/00aba5d5679f4703f87e19dbe4738db098cceb3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/server/instance/drivers/qmp: Add commands for reading a ringbuf and swaping backends for chardevs</code>](https://github.com/lxc/incus/commit/0177be041f9f245866581743de0b5a1d80c1421e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/server/instance/drivers: Implement ConsoleLog() for qemu driver</code>](https://github.com/lxc/incus/commit/68721410d55d2e4a6ab6dd893956cb5f4e15fb0f)
+- [ ] [<code>internal/server/instance/drivers: Add functions to switch console's backend</code>](https://github.com/lxc/incus/commit/7c93dbe2f9bf052c363114529aa53c42ed5daecf)
+- [ ] [<code>cmd/incusd: Allow VMs to pull console history similar to containers</code>](https://github.com/lxc/incus/commit/ded249a08103673b0eb9a8ffefe002249356fdd8)
+- [ ] [<code>cmd: Properly handle `--project` in error messages</code>](https://github.com/lxc/incus/commit/1b297bd43882eb6d9df919fcd836c06b38c3085a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c1aaf01dd4324d3477d1bbc7e4b958300754bf94)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1990,6 +2003,19 @@
 - [ ] [<code>scripts: fix empty-incus.sh instances delete</code>](https://github.com/lxc/incus/commit/c3f84edbe4b7ebe5e4109e82b4173113504dc10b)
 - [ ] [<code>incusd/network/ovn: Properly handle lack of a protocol on LB checker</code>](https://github.com/lxc/incus/commit/79c0a4ec8c1b7137bfa95b3ae1d749724816186c)
 - [ ] [<code>doc/installing: Add link to Arch Wiki for Incus</code>](https://github.com/lxc/incus/commit/df4d741352c29baee484e615211e71e4d1fd6dab)
+- [ ] [<code>internal/server/instance/drivers: Cleanup spice socket when VM stops</code>](https://github.com/lxc/incus/commit/3eb360fe60086daf8573aa19fcde900e2b8fed0e)
+- [ ] [<code>internal/server/instance/drivers: Switch default backend for QEMU console to ringbuf</code>](https://github.com/lxc/incus/commit/0bf881f992d998e31148d1b384acb1244c2e600e)
+- [ ] [<code>incus/console: Add completion</code>](https://github.com/lxc/incus/commit/00aba5d5679f4703f87e19dbe4738db098cceb3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/server/instance/drivers/qmp: Add commands for reading a ringbuf and swaping backends for chardevs</code>](https://github.com/lxc/incus/commit/0177be041f9f245866581743de0b5a1d80c1421e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/server/instance/drivers: Implement ConsoleLog() for qemu driver</code>](https://github.com/lxc/incus/commit/68721410d55d2e4a6ab6dd893956cb5f4e15fb0f)
+- [ ] [<code>internal/server/instance/drivers: Add functions to switch console's backend</code>](https://github.com/lxc/incus/commit/7c93dbe2f9bf052c363114529aa53c42ed5daecf)
+- [ ] [<code>cmd/incusd: Allow VMs to pull console history similar to containers</code>](https://github.com/lxc/incus/commit/ded249a08103673b0eb9a8ffefe002249356fdd8)
+- [ ] [<code>cmd: Properly handle `--project` in error messages</code>](https://github.com/lxc/incus/commit/1b297bd43882eb6d9df919fcd836c06b38c3085a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c1aaf01dd4324d3477d1bbc7e4b958300754bf94)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
