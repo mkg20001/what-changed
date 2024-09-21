@@ -40,6 +40,7 @@
 - [ ] [<code>device: revert to explicit device_set_present calls</code>](https://git.openwrt.org/project/netifd.git/commit/cd2a7964f2c09994c09388a76e1a9c6aef4297a2)
 - [ ] [<code>device: simplify external device settings handling</code>](https://git.openwrt.org/project/netifd.git/commit/61c606d6e66b132f602135e0f0fda5f532b588e9)
 - [ ] [<code>Revert "system-linux: re-apply ethtool on phy attachment"</code>](https://git.openwrt.org/project/netifd.git/commit/02aa43d82d587d87523231be5a5e0bf956435725)
+- [ ] [<code>interface: fix regression on adding hotplug devices to interfaces</code>](https://git.openwrt.org/project/netifd.git/commit/24f9a93a9559c93cf1e794fdfcd87a38d27a8e0e)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
