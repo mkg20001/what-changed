@@ -405,6 +405,7 @@
 - [ ] [<code>build: Update to matrix dart sdk 0.33</code>](https://github.com/krille-chan/fluffychat/commit/c63a53bbcc377f3d2c0e3ffb6dc0922a05206856)
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/2cad97fac761432faf1fecc14c1ecd7c4e5bff1e)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Make imageviewer full window</code>](https://github.com/krille-chan/fluffychat/commit/838dcb413e2d66ce56966e490bb2d5e612cf9617)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -652,6 +653,7 @@
 - [ ] [<code>build: Update to matrix dart sdk 0.33</code>](https://github.com/krille-chan/fluffychat/commit/c63a53bbcc377f3d2c0e3ffb6dc0922a05206856)
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/2cad97fac761432faf1fecc14c1ecd7c4e5bff1e)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Make imageviewer full window</code>](https://github.com/krille-chan/fluffychat/commit/838dcb413e2d66ce56966e490bb2d5e612cf9617)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
