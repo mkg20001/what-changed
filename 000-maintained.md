@@ -406,6 +406,14 @@
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/2cad97fac761432faf1fecc14c1ecd7c4e5bff1e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Make imageviewer full window</code>](https://github.com/krille-chan/fluffychat/commit/838dcb413e2d66ce56966e490bb2d5e612cf9617)
+- [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/6866a996a37306df115f0fb8d37d0057ed60bfcc)
+- [ ] [<code>refactor: Load bytes from sending files later to not let app crash</code>](https://github.com/krille-chan/fluffychat/commit/5c9880f0b20772bcd916765a6ee1d77c8b0bccbd)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Sending multiple files at once</code>](https://github.com/krille-chan/fluffychat/commit/b83503585fa77c4951a50e46725fb9a0b2620e57)
+- [ ] [<code>chore: Follow up sendfile snackbars</code>](https://github.com/krille-chan/fluffychat/commit/d53d0d80830bdb3de0515f97afcc9ae62cf38899)
+- [ ] [<code>chore: Follow up send file snackbars</code>](https://github.com/krille-chan/fluffychat/commit/dfb2605829f1aeea7fb13485bba6a90b42feddb2)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/8e5474b4e408f1bee247b850ca924416d7fd29c7)
+- [ ] [<code>chore: Follow up google services patch</code>](https://github.com/krille-chan/fluffychat/commit/efad71e53513f09a86661637a4152a6e9532913d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -654,6 +662,14 @@
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/2cad97fac761432faf1fecc14c1ecd7c4e5bff1e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Make imageviewer full window</code>](https://github.com/krille-chan/fluffychat/commit/838dcb413e2d66ce56966e490bb2d5e612cf9617)
+- [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/6866a996a37306df115f0fb8d37d0057ed60bfcc)
+- [ ] [<code>refactor: Load bytes from sending files later to not let app crash</code>](https://github.com/krille-chan/fluffychat/commit/5c9880f0b20772bcd916765a6ee1d77c8b0bccbd)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Sending multiple files at once</code>](https://github.com/krille-chan/fluffychat/commit/b83503585fa77c4951a50e46725fb9a0b2620e57)
+- [ ] [<code>chore: Follow up sendfile snackbars</code>](https://github.com/krille-chan/fluffychat/commit/d53d0d80830bdb3de0515f97afcc9ae62cf38899)
+- [ ] [<code>chore: Follow up send file snackbars</code>](https://github.com/krille-chan/fluffychat/commit/dfb2605829f1aeea7fb13485bba6a90b42feddb2)
+- [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/8e5474b4e408f1bee247b850ca924416d7fd29c7)
+- [ ] [<code>chore: Follow up google services patch</code>](https://github.com/krille-chan/fluffychat/commit/efad71e53513f09a86661637a4152a6e9532913d)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
