@@ -22,7 +22,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.2.0/dbeaver-ce-24.2.0-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.2.0/dbeaver-ce-24.2.0-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.2.1/dbeaver-ce-24.2.1-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.2.1/dbeaver-ce-24.2.1-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
@@ -746,6 +746,19 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c1aaf01dd4324d3477d1bbc7e4b958300754bf94)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/project: Don't fail project deletion on authorizer</code>](https://github.com/lxc/incus/commit/88ad75eaada65874a5851c649f7dd98d7ba99be3)
+- [ ] [<code>incusd/project: Don't fail project rename on authorizer</code>](https://github.com/lxc/incus/commit/d092279529d478962de4eed90b7cd60642fa4b87)
+- [ ] [<code>incus-user: Handle existing network</code>](https://github.com/lxc/incus/commit/fda9ad59c14551a93b51c0928cc3f6ff3fb12a3f)
+- [ ] [<code>incusd/networks: Return HTTP Conflict on existing network</code>](https://github.com/lxc/incus/commit/5f11dc3cac8f79eb3af85249f106eb81b880d7f0)
+- [ ] [<code>incusd/networks: Apply project restrictions to list of network names</code>](https://github.com/lxc/incus/commit/d29c0d61f7d6a4477b313b1e9f11b00946b164ba)
+- [ ] [<code>incusd/auth/tls: Allow access to inherited resources</code>](https://github.com/lxc/incus/commit/c93ff45b825b5ff77fc82b835bc0c8e231d1f331)
+- [ ] [<code>instance/config: Add @startup to documentation</code>](https://github.com/lxc/incus/commit/3998864d7b756e2309e7ee2037728f2dde13794a)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/10f3edbc29f0a85f8cc3cb8a1bb41540813022ec)
+- [ ] [<code>shared/validate: Better validate simple CPU limits</code>](https://github.com/lxc/incus/commit/b6da683926c00ee79f0d52c762b5fa8e7ab9e3e6)
+- [ ] [<code>incusd/operations: Fix operation cancelation</code>](https://github.com/lxc/incus/commit/0ef41bb110036ccef8dcb7ae8758167050209c14)
+- [ ] [<code>incusd/storage_volumes: Handle rename of volumes with sub-paths</code>](https://github.com/lxc/incus/commit/150d68513f3e7526f67f30ae9b7ec28256670e4a)
+- [ ] [<code>incusd/storage/utils: Only show actual errors in growFileSystem</code>](https://github.com/lxc/incus/commit/d09778d8757363cfbab01f8896da5195ea12cb73)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2034,6 +2047,19 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c1aaf01dd4324d3477d1bbc7e4b958300754bf94)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/project: Don't fail project deletion on authorizer</code>](https://github.com/lxc/incus/commit/88ad75eaada65874a5851c649f7dd98d7ba99be3)
+- [ ] [<code>incusd/project: Don't fail project rename on authorizer</code>](https://github.com/lxc/incus/commit/d092279529d478962de4eed90b7cd60642fa4b87)
+- [ ] [<code>incus-user: Handle existing network</code>](https://github.com/lxc/incus/commit/fda9ad59c14551a93b51c0928cc3f6ff3fb12a3f)
+- [ ] [<code>incusd/networks: Return HTTP Conflict on existing network</code>](https://github.com/lxc/incus/commit/5f11dc3cac8f79eb3af85249f106eb81b880d7f0)
+- [ ] [<code>incusd/networks: Apply project restrictions to list of network names</code>](https://github.com/lxc/incus/commit/d29c0d61f7d6a4477b313b1e9f11b00946b164ba)
+- [ ] [<code>incusd/auth/tls: Allow access to inherited resources</code>](https://github.com/lxc/incus/commit/c93ff45b825b5ff77fc82b835bc0c8e231d1f331)
+- [ ] [<code>instance/config: Add @startup to documentation</code>](https://github.com/lxc/incus/commit/3998864d7b756e2309e7ee2037728f2dde13794a)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/10f3edbc29f0a85f8cc3cb8a1bb41540813022ec)
+- [ ] [<code>shared/validate: Better validate simple CPU limits</code>](https://github.com/lxc/incus/commit/b6da683926c00ee79f0d52c762b5fa8e7ab9e3e6)
+- [ ] [<code>incusd/operations: Fix operation cancelation</code>](https://github.com/lxc/incus/commit/0ef41bb110036ccef8dcb7ae8758167050209c14)
+- [ ] [<code>incusd/storage_volumes: Handle rename of volumes with sub-paths</code>](https://github.com/lxc/incus/commit/150d68513f3e7526f67f30ae9b7ec28256670e4a)
+- [ ] [<code>incusd/storage/utils: Only show actual errors in growFileSystem</code>](https://github.com/lxc/incus/commit/d09778d8757363cfbab01f8896da5195ea12cb73)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
