@@ -759,6 +759,10 @@
 - [ ] [<code>incusd/storage_volumes: Handle rename of volumes with sub-paths</code>](https://github.com/lxc/incus/commit/150d68513f3e7526f67f30ae9b7ec28256670e4a)
 - [ ] [<code>incusd/storage/utils: Only show actual errors in growFileSystem</code>](https://github.com/lxc/incus/commit/d09778d8757363cfbab01f8896da5195ea12cb73)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>internal/server/instance/drivers: Don't return an error if console log file doesn't exist</code>](https://github.com/lxc/incus/commit/f3b14f5e362482247ab54265f0e8ca90713ceba9)
+- [ ] [<code>incusd/instance/qemu: Properly plumb I/O limits</code>](https://github.com/lxc/incus/commit/045926b2d9099b18c4d552601bd4ae4fc9b1e8be)
+- [ ] [<code>cleanup: Replace use of os.IsNotExist(err) with errors.Is(err, fs.ErrNotExist)</code>](https://github.com/lxc/incus/commit/ebed9bb00cc3d0b1ce7a191f5f43417a7fb6b7a9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2060,6 +2064,10 @@
 - [ ] [<code>incusd/storage_volumes: Handle rename of volumes with sub-paths</code>](https://github.com/lxc/incus/commit/150d68513f3e7526f67f30ae9b7ec28256670e4a)
 - [ ] [<code>incusd/storage/utils: Only show actual errors in growFileSystem</code>](https://github.com/lxc/incus/commit/d09778d8757363cfbab01f8896da5195ea12cb73)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>internal/server/instance/drivers: Don't return an error if console log file doesn't exist</code>](https://github.com/lxc/incus/commit/f3b14f5e362482247ab54265f0e8ca90713ceba9)
+- [ ] [<code>incusd/instance/qemu: Properly plumb I/O limits</code>](https://github.com/lxc/incus/commit/045926b2d9099b18c4d552601bd4ae4fc9b1e8be)
+- [ ] [<code>cleanup: Replace use of os.IsNotExist(err) with errors.Is(err, fs.ErrNotExist)</code>](https://github.com/lxc/incus/commit/ebed9bb00cc3d0b1ce7a191f5f43417a7fb6b7a9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2956,6 +2964,9 @@
 - [ ] [<code>validation: fix comment about WireGuard key length</code>](https://github.com/canonical/netplan/commit/b79a0fc3ecaa2b837702c853a341c13d9d4849a1)
 - [ ] [<code>doc: Add initial 'Cryptography' section</code>](https://github.com/canonical/netplan/commit/e0e87118ee954145d783c0341eace613fa6ad37a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Revert "cli:apply: improve networkd restart logic for non-existent networkd config"</code>](https://github.com/canonical/netplan/commit/cac4b125ed00e0b1dbcaaff3dd03366f73337e60)
+- [ ] [<code>Revert "apply: compare full configuration to decide to restart networkd"</code>](https://github.com/canonical/netplan/commit/1ab755c9a148407142faf215a02835d1e9e60c37)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3372,6 +3383,8 @@
 - [ ] [<code>lib: test if call to getenv() destroys environ</code>](https://github.com/jow-/ucode/commit/86f11211dc77cdd86209049692f83286dad73ad5)
 - [ ] [<code>fs: add ioctl() file method</code>](https://github.com/jow-/ucode/commit/56ebeeca5349773db0ff8104dbf2f99d10d13f16)
 - [ ] [<code>nl80211: add EHT mac/phy capabilities</code>](https://github.com/jow-/ucode/commit/4e0456ba2f7f9c7727bcd6b004540b9cd7d7f85b)
+- [ ] [<code>fs: fix potential memory leak on i/o errors in .read()</code>](https://github.com/jow-/ucode/commit/67cd1232389fa407575b1e130b6b5668b18b0e7f)
+- [ ] [<code>compiler: properly treat property names after spread expressions</code>](https://github.com/jow-/ucode/commit/94d1211ce0b5ed962de990a4427b9dea0c25522f)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
