@@ -761,8 +761,11 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>internal/server/instance/drivers: Don't return an error if console log file doesn't exist</code>](https://github.com/lxc/incus/commit/f3b14f5e362482247ab54265f0e8ca90713ceba9)
 - [ ] [<code>incusd/instance/qemu: Properly plumb I/O limits</code>](https://github.com/lxc/incus/commit/045926b2d9099b18c4d552601bd4ae4fc9b1e8be)
+- [ ] [<code>incusd/apparmor: Allow all mounts in unprivileged containers</code>](https://github.com/lxc/incus/commit/36e76aaecb1e5d8f39e453b16958fe4c7af05e5d)
 - [ ] [<code>cleanup: Replace use of os.IsNotExist(err) with errors.Is(err, fs.ErrNotExist)</code>](https://github.com/lxc/incus/commit/ebed9bb00cc3d0b1ce7a191f5f43417a7fb6b7a9)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/network: Allow to use `dns.search` when only IPv4 is enabled</code>](https://github.com/lxc/incus/commit/6d2653c5b7e5309a9808b138e4427db6fd506f19)
+- [ ] [<code>incusd/apparmor: Remove nosymfollow check (unused)</code>](https://github.com/lxc/incus/commit/92872043a993610a2fc6375450e0c171318a4fe3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2066,8 +2069,11 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>internal/server/instance/drivers: Don't return an error if console log file doesn't exist</code>](https://github.com/lxc/incus/commit/f3b14f5e362482247ab54265f0e8ca90713ceba9)
 - [ ] [<code>incusd/instance/qemu: Properly plumb I/O limits</code>](https://github.com/lxc/incus/commit/045926b2d9099b18c4d552601bd4ae4fc9b1e8be)
+- [ ] [<code>incusd/apparmor: Allow all mounts in unprivileged containers</code>](https://github.com/lxc/incus/commit/36e76aaecb1e5d8f39e453b16958fe4c7af05e5d)
 - [ ] [<code>cleanup: Replace use of os.IsNotExist(err) with errors.Is(err, fs.ErrNotExist)</code>](https://github.com/lxc/incus/commit/ebed9bb00cc3d0b1ce7a191f5f43417a7fb6b7a9)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/network: Allow to use `dns.search` when only IPv4 is enabled</code>](https://github.com/lxc/incus/commit/6d2653c5b7e5309a9808b138e4427db6fd506f19)
+- [ ] [<code>incusd/apparmor: Remove nosymfollow check (unused)</code>](https://github.com/lxc/incus/commit/92872043a993610a2fc6375450e0c171318a4fe3)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3385,6 +3391,9 @@
 - [ ] [<code>nl80211: add EHT mac/phy capabilities</code>](https://github.com/jow-/ucode/commit/4e0456ba2f7f9c7727bcd6b004540b9cd7d7f85b)
 - [ ] [<code>fs: fix potential memory leak on i/o errors in .read()</code>](https://github.com/jow-/ucode/commit/67cd1232389fa407575b1e130b6b5668b18b0e7f)
 - [ ] [<code>compiler: properly treat property names after spread expressions</code>](https://github.com/jow-/ucode/commit/94d1211ce0b5ed962de990a4427b9dea0c25522f)
+- [ ] [<code>lexer: improve token position reporting</code>](https://github.com/jow-/ucode/commit/328a50ff82c9bf089dcd381d404dece683ef54d2)
+- [ ] [<code>lexer: emit comment and template statement block tokens</code>](https://github.com/jow-/ucode/commit/855854f6c2ae2e667f6bbfd5f67caab32b4ebf86)
+- [ ] [<code>lexer: make api functions public</code>](https://github.com/jow-/ucode/commit/2b2e732b6081afb473a2cc698fd4397260b0960c)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
