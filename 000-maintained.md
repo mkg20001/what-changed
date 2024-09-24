@@ -766,6 +766,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/network: Allow to use `dns.search` when only IPv4 is enabled</code>](https://github.com/lxc/incus/commit/6d2653c5b7e5309a9808b138e4427db6fd506f19)
 - [ ] [<code>incusd/apparmor: Remove nosymfollow check (unused)</code>](https://github.com/lxc/incus/commit/92872043a993610a2fc6375450e0c171318a4fe3)
+- [ ] [<code>doc: add notes for Nvidia gpu usage when installing in OpenSUSE</code>](https://github.com/lxc/incus/commit/cd34789ac42de7bf9c2621df84c3f350037b1126)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2074,6 +2075,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/network: Allow to use `dns.search` when only IPv4 is enabled</code>](https://github.com/lxc/incus/commit/6d2653c5b7e5309a9808b138e4427db6fd506f19)
 - [ ] [<code>incusd/apparmor: Remove nosymfollow check (unused)</code>](https://github.com/lxc/incus/commit/92872043a993610a2fc6375450e0c171318a4fe3)
+- [ ] [<code>doc: add notes for Nvidia gpu usage when installing in OpenSUSE</code>](https://github.com/lxc/incus/commit/cd34789ac42de7bf9c2621df84c3f350037b1126)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
