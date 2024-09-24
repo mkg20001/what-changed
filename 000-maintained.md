@@ -155,6 +155,7 @@
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [e48bb3f693e5d76656a3e7bbc07be0fcbfa19f23 → HEAD](https://github.com/canonical/firmware-updater/compare/e48bb3f693e5d76656a3e7bbc07be0fcbfa19f23...HEAD)
 
+- [ ] [<code>snap: core24 migration</code>](https://github.com/canonical/firmware-updater/commit/b84d8bd413578a92d472b04a7b3309d477423227)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -767,6 +768,14 @@
 - [ ] [<code>incusd/network: Allow to use `dns.search` when only IPv4 is enabled</code>](https://github.com/lxc/incus/commit/6d2653c5b7e5309a9808b138e4427db6fd506f19)
 - [ ] [<code>incusd/apparmor: Remove nosymfollow check (unused)</code>](https://github.com/lxc/incus/commit/92872043a993610a2fc6375450e0c171318a4fe3)
 - [ ] [<code>doc: add notes for Nvidia gpu usage when installing in OpenSUSE</code>](https://github.com/lxc/incus/commit/cd34789ac42de7bf9c2621df84c3f350037b1126)
+- [ ] [<code>api: instances_state_os_info</code>](https://github.com/lxc/incus/commit/145ed6d857d9a5185169d426f96d05f52ec55c23)
+- [ ] [<code>shared/api: Add OSInfo to InstanceState</code>](https://github.com/lxc/incus/commit/8ef3cbc415a11f98316e97bd23f5e5d4ad7fa7aa)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/3cf769cf70454a82a08bb367c042e384f4a0347e)
+- [ ] [<code>cmd/incus-agent: Populate OS information when returning instance state</code>](https://github.com/lxc/incus/commit/f6b5daff872f05bc97828c63cf974e485bdc9bef)
+- [ ] [<code>cmd/incus: Print OS info from state, if available</code>](https://github.com/lxc/incus/commit/4edfc3518515efa85f25619b3a3ff3fc7190afe8)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/977fd74c1c08d2cb3b47dc78e12fe207c1c69714)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Don't over-provision test volume</code>](https://github.com/lxc/incus/commit/a91b193660f4c8c5d298a49e6a889654ed35194a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2076,6 +2085,14 @@
 - [ ] [<code>incusd/network: Allow to use `dns.search` when only IPv4 is enabled</code>](https://github.com/lxc/incus/commit/6d2653c5b7e5309a9808b138e4427db6fd506f19)
 - [ ] [<code>incusd/apparmor: Remove nosymfollow check (unused)</code>](https://github.com/lxc/incus/commit/92872043a993610a2fc6375450e0c171318a4fe3)
 - [ ] [<code>doc: add notes for Nvidia gpu usage when installing in OpenSUSE</code>](https://github.com/lxc/incus/commit/cd34789ac42de7bf9c2621df84c3f350037b1126)
+- [ ] [<code>api: instances_state_os_info</code>](https://github.com/lxc/incus/commit/145ed6d857d9a5185169d426f96d05f52ec55c23)
+- [ ] [<code>shared/api: Add OSInfo to InstanceState</code>](https://github.com/lxc/incus/commit/8ef3cbc415a11f98316e97bd23f5e5d4ad7fa7aa)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/3cf769cf70454a82a08bb367c042e384f4a0347e)
+- [ ] [<code>cmd/incus-agent: Populate OS information when returning instance state</code>](https://github.com/lxc/incus/commit/f6b5daff872f05bc97828c63cf974e485bdc9bef)
+- [ ] [<code>cmd/incus: Print OS info from state, if available</code>](https://github.com/lxc/incus/commit/4edfc3518515efa85f25619b3a3ff3fc7190afe8)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/977fd74c1c08d2cb3b47dc78e12fe207c1c69714)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Don't over-provision test volume</code>](https://github.com/lxc/incus/commit/a91b193660f4c8c5d298a49e6a889654ed35194a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2251,6 +2268,8 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Remove unused oss-fuzz/.clang-format (#2435)</code>](https://github.com/AOMediaCodec/libavif/commit/d1c54f12ae6576ee3cfd1e8093f81656984c2c4e)
 - [ ] [<code>Use camelCase for avifEncoderItemIdArray (#2436)</code>](https://github.com/AOMediaCodec/libavif/commit/fa4eaf913603735f3e38c6c2b0beff95585fb1ef)
+- [ ] [<code>Add avifROStreamSkipBits() (#2438)</code>](https://github.com/AOMediaCodec/libavif/commit/70862dc5d27581606f9d5b97001b8844ac4fb497)
+- [ ] [<code>Fix return type of avifWriteToneMappedImagePayload (#2439)</code>](https://github.com/AOMediaCodec/libavif/commit/ca3e4bef20e1fe5967f23f58a4ef7ba8d72474a0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3318,6 +3337,7 @@
 
 #### [twinkle](https://github.com/LubosD/twinkle): [355813d5640ad58c84dc063826069384470ce310 → HEAD](https://github.com/LubosD/twinkle/compare/355813d5640ad58c84dc063826069384470ce310...HEAD)
 
+- [ ] [<code>Fix french translation mistake</code>](https://github.com/LubosD/twinkle/commit/6389146cf3f3c3f4a424fccc8a365b5f787e90b3)
 
 #### [ucode](https://github.com/jow-/ucode): [v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20231102...HEAD)
 
