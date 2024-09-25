@@ -781,6 +781,19 @@
 - [ ] [<code>incusd/images: Fix image access through secret</code>](https://github.com/lxc/incus/commit/02e32e3d3747304f1ca7d9622898f167b5e21b6b)
 - [ ] [<code>doc: add prerequisites section for building documentation</code>](https://github.com/lxc/incus/commit/14bc97822ee9c122d37ee549b7859921954840a7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: network_load_balancer_state</code>](https://github.com/lxc/incus/commit/5e62bacda11f06b517dc50291f063731b389447a)
+- [ ] [<code>shared/api: Add NetworkLoadBalancerState</code>](https://github.com/lxc/incus/commit/dd68156f27407b862d47a41863abe1c110ea3135)
+- [ ] [<code>incusd/network/ovn/sb: Add GetServiceHealth</code>](https://github.com/lxc/incus/commit/26d09fec9e343dfb9f477505988ef8254f871a79)
+- [ ] [<code>incusd/network: Add LoadBalancerState</code>](https://github.com/lxc/incus/commit/360973aa43942921d528cf1982fbbcc8d696c9b0)
+- [ ] [<code>incusd/network/load-balancer: Add API for state</code>](https://github.com/lxc/incus/commit/1ba8aa7e60e8a6772cad976fe05c0d4a3c1b7c73)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f905c772dd6fc18c2eb97fffa1a08a759c78e726)
+- [ ] [<code>client: Add GetNetworkLoadBalancerState</code>](https://github.com/lxc/incus/commit/ee2cb9a67004e0c702093b61dbcc5e3dca5fb0ca)
+- [ ] [<code>incus/network_load_balancer: Add info command</code>](https://github.com/lxc/incus/commit/b04f9e2bf1fdf264dca7bb55ff9bc7be2498455d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b01cd77d37b2daf03385471bdd4edd983cbed86d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Only emit image-created if an image was actually created</code>](https://github.com/lxc/incus/commit/ba8d566fb6d10544b46c43a80370d1f7a2e6c2dc)
+- [ ] [<code>incusd/instances: Call placement scriptlet when target specified</code>](https://github.com/lxc/incus/commit/c0643ad6946431580af7bf4c6318a76d53a477f2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2103,6 +2116,19 @@
 - [ ] [<code>incusd/images: Fix image access through secret</code>](https://github.com/lxc/incus/commit/02e32e3d3747304f1ca7d9622898f167b5e21b6b)
 - [ ] [<code>doc: add prerequisites section for building documentation</code>](https://github.com/lxc/incus/commit/14bc97822ee9c122d37ee549b7859921954840a7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: network_load_balancer_state</code>](https://github.com/lxc/incus/commit/5e62bacda11f06b517dc50291f063731b389447a)
+- [ ] [<code>shared/api: Add NetworkLoadBalancerState</code>](https://github.com/lxc/incus/commit/dd68156f27407b862d47a41863abe1c110ea3135)
+- [ ] [<code>incusd/network/ovn/sb: Add GetServiceHealth</code>](https://github.com/lxc/incus/commit/26d09fec9e343dfb9f477505988ef8254f871a79)
+- [ ] [<code>incusd/network: Add LoadBalancerState</code>](https://github.com/lxc/incus/commit/360973aa43942921d528cf1982fbbcc8d696c9b0)
+- [ ] [<code>incusd/network/load-balancer: Add API for state</code>](https://github.com/lxc/incus/commit/1ba8aa7e60e8a6772cad976fe05c0d4a3c1b7c73)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f905c772dd6fc18c2eb97fffa1a08a759c78e726)
+- [ ] [<code>client: Add GetNetworkLoadBalancerState</code>](https://github.com/lxc/incus/commit/ee2cb9a67004e0c702093b61dbcc5e3dca5fb0ca)
+- [ ] [<code>incus/network_load_balancer: Add info command</code>](https://github.com/lxc/incus/commit/b04f9e2bf1fdf264dca7bb55ff9bc7be2498455d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b01cd77d37b2daf03385471bdd4edd983cbed86d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Only emit image-created if an image was actually created</code>](https://github.com/lxc/incus/commit/ba8d566fb6d10544b46c43a80370d1f7a2e6c2dc)
+- [ ] [<code>incusd/instances: Call placement scriptlet when target specified</code>](https://github.com/lxc/incus/commit/c0643ad6946431580af7bf4c6318a76d53a477f2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2280,6 +2306,7 @@
 - [ ] [<code>Use camelCase for avifEncoderItemIdArray (#2436)</code>](https://github.com/AOMediaCodec/libavif/commit/fa4eaf913603735f3e38c6c2b0beff95585fb1ef)
 - [ ] [<code>Add avifROStreamSkipBits() (#2438)</code>](https://github.com/AOMediaCodec/libavif/commit/70862dc5d27581606f9d5b97001b8844ac4fb497)
 - [ ] [<code>Fix return type of avifWriteToneMappedImagePayload (#2439)</code>](https://github.com/AOMediaCodec/libavif/commit/ca3e4bef20e1fe5967f23f58a4ef7ba8d72474a0)
+- [ ] [<code>Only generate valid fuzzed avifGainMapMetadata (#2441)</code>](https://github.com/AOMediaCodec/libavif/commit/2fe5b3aaf15f034901bdc2a6c999162e6ab80d05)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3130,6 +3157,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Set cmake project name</code>](https://github.com/OLSR/OONF/commit/87820df462c6b821032b284f4d6e9db9d661d07c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Do not depend on specific networking.service</code>](https://github.com/OLSR/OONF/commit/11442aae30c9a5d31f8f2b5de71adc3b6ef30fbf)
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
 
