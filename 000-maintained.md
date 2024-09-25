@@ -776,6 +776,11 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/977fd74c1c08d2cb3b47dc78e12fe207c1c69714)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>tests: Don't over-provision test volume</code>](https://github.com/lxc/incus/commit/a91b193660f4c8c5d298a49e6a889654ed35194a)
+- [ ] [<code>cmd/incus-migrate: Don't copy converted VM image</code>](https://github.com/lxc/incus/commit/9af36799da4ba7a8e3e10482ba892f8729bd93fe)
+- [ ] [<code>incusd/instance_console: Check result of type assertion</code>](https://github.com/lxc/incus/commit/1250e034949f13fe6eb91f00cca72ee9f56e5633)
+- [ ] [<code>incusd/images: Fix image access through secret</code>](https://github.com/lxc/incus/commit/02e32e3d3747304f1ca7d9622898f167b5e21b6b)
+- [ ] [<code>doc: add prerequisites section for building documentation</code>](https://github.com/lxc/incus/commit/14bc97822ee9c122d37ee549b7859921954840a7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2093,6 +2098,11 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/977fd74c1c08d2cb3b47dc78e12fe207c1c69714)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>tests: Don't over-provision test volume</code>](https://github.com/lxc/incus/commit/a91b193660f4c8c5d298a49e6a889654ed35194a)
+- [ ] [<code>cmd/incus-migrate: Don't copy converted VM image</code>](https://github.com/lxc/incus/commit/9af36799da4ba7a8e3e10482ba892f8729bd93fe)
+- [ ] [<code>incusd/instance_console: Check result of type assertion</code>](https://github.com/lxc/incus/commit/1250e034949f13fe6eb91f00cca72ee9f56e5633)
+- [ ] [<code>incusd/images: Fix image access through secret</code>](https://github.com/lxc/incus/commit/02e32e3d3747304f1ca7d9622898f167b5e21b6b)
+- [ ] [<code>doc: add prerequisites section for building documentation</code>](https://github.com/lxc/incus/commit/14bc97822ee9c122d37ee549b7859921954840a7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2326,6 +2336,7 @@
 - [ ] [<code>github: add ISSUE_TEMPLATE.md</code>](https://github.com/lxc/lxcfs/commit/8c88d4e171dc696a773223f8db5cb846314e702a)
 - [ ] [<code>github: add live upgrade test between stable-{5,6} branches</code>](https://github.com/lxc/lxcfs/commit/15f614c50ca11812db19696fc3c7a9f637a31dc1)
 - [ ] [<code>Add missing linux/limits.h include</code>](https://github.com/lxc/lxcfs/commit/1e4e1841d695a324c32c0724d174ea07f5fd25e5)
+- [ ] [<code>lxcfs_read: Added LXCFS_TYPE macro to all FUSE filesystem calls</code>](https://github.com/lxc/lxcfs/commit/bcb1b0a9308f37115369c5ff8cd7b020df4a1712)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
