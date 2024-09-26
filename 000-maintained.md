@@ -156,6 +156,12 @@
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [e48bb3f693e5d76656a3e7bbc07be0fcbfa19f23 → HEAD](https://github.com/canonical/firmware-updater/compare/e48bb3f693e5d76656a3e7bbc07be0fcbfa19f23...HEAD)
 
 - [ ] [<code>snap: core24 migration</code>](https://github.com/canonical/firmware-updater/commit/b84d8bd413578a92d472b04a7b3309d477423227)
+- [ ] [<code>chore: setup fvm</code>](https://github.com/canonical/firmware-updater/commit/2896f435c5cfbb38baef24b9b8abe26ba21caf48)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat: upgrade to Flutter 3.24 and Yaru 5.x</code>](https://github.com/canonical/firmware-updater/commit/b40d13ebb3d6e8aa068cb1951b49eefc55c1d544)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: regenerate mocks</code>](https://github.com/canonical/firmware-updater/commit/904e12878928352317e8e68441150920a4610426)
+- [ ] [<code>ci: cleanup integration test, preserve PATH</code>](https://github.com/canonical/firmware-updater/commit/1251eaf48effdb2dff3a33620bc8e441081d3c9e)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -799,6 +805,7 @@
 - [ ] [<code>internal/server/instance/drivers: Don't conflict with live migration operation</code>](https://github.com/lxc/incus/commit/324aa028304fe198434204e1d619b83189c64d83)
 - [ ] [<code>incus/alias: Handle quoted values</code>](https://github.com/lxc/incus/commit/b18c9c194ec6584e1359a54a8321654994ee97a8)
 - [ ] [<code>incus/alias: Stable sorting of alias names</code>](https://github.com/lxc/incus/commit/7030add2fe69401d5c9a3a3925c299688b3a1bc7)
+- [ ] [<code>incusd/instance/qemu: Fix issues with old NVRAM</code>](https://github.com/lxc/incus/commit/7882a06e171ccffe4dea2cbdc54915e6be2adad1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2139,6 +2146,7 @@
 - [ ] [<code>internal/server/instance/drivers: Don't conflict with live migration operation</code>](https://github.com/lxc/incus/commit/324aa028304fe198434204e1d619b83189c64d83)
 - [ ] [<code>incus/alias: Handle quoted values</code>](https://github.com/lxc/incus/commit/b18c9c194ec6584e1359a54a8321654994ee97a8)
 - [ ] [<code>incus/alias: Stable sorting of alias names</code>](https://github.com/lxc/incus/commit/7030add2fe69401d5c9a3a3925c299688b3a1bc7)
+- [ ] [<code>incusd/instance/qemu: Fix issues with old NVRAM</code>](https://github.com/lxc/incus/commit/7882a06e171ccffe4dea2cbdc54915e6be2adad1)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2317,6 +2325,9 @@
 - [ ] [<code>Add avifROStreamSkipBits() (#2438)</code>](https://github.com/AOMediaCodec/libavif/commit/70862dc5d27581606f9d5b97001b8844ac4fb497)
 - [ ] [<code>Fix return type of avifWriteToneMappedImagePayload (#2439)</code>](https://github.com/AOMediaCodec/libavif/commit/ca3e4bef20e1fe5967f23f58a4ef7ba8d72474a0)
 - [ ] [<code>Only generate valid fuzzed avifGainMapMetadata (#2441)</code>](https://github.com/AOMediaCodec/libavif/commit/2fe5b3aaf15f034901bdc2a6c999162e6ab80d05)
+- [ ] [<code>Add ci-unix-artifacts.yml (#2445)</code>](https://github.com/AOMediaCodec/libavif/commit/578918077370568624068a0bce82fb88b2ed1bde)
+- [ ] [<code>Format yml files (#2446)</code>](https://github.com/AOMediaCodec/libavif/commit/1b1db68df05c9b626963dd4a68c65eabb0a36a33)
+  - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
