@@ -794,6 +794,11 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Only emit image-created if an image was actually created</code>](https://github.com/lxc/incus/commit/ba8d566fb6d10544b46c43a80370d1f7a2e6c2dc)
 - [ ] [<code>incusd/instances: Call placement scriptlet when target specified</code>](https://github.com/lxc/incus/commit/c0643ad6946431580af7bf4c6318a76d53a477f2)
+- [ ] [<code>internal/server/instance/drivers/qmp: Ensure that the device passed to RingbufRead() is a ring buffer</code>](https://github.com/lxc/incus/commit/7d13f50c5b54b32f255e4862eccbb15cc7e06104)
+- [ ] [<code>internal/server/instance/drivers: Don't return an error if VM's console device isn't a ringbuf</code>](https://github.com/lxc/incus/commit/a356608eb998a57bb9d95e3df77d0c27a5d89968)
+- [ ] [<code>internal/server/instance/drivers: Don't conflict with live migration operation</code>](https://github.com/lxc/incus/commit/324aa028304fe198434204e1d619b83189c64d83)
+- [ ] [<code>incus/alias: Handle quoted values</code>](https://github.com/lxc/incus/commit/b18c9c194ec6584e1359a54a8321654994ee97a8)
+- [ ] [<code>incus/alias: Stable sorting of alias names</code>](https://github.com/lxc/incus/commit/7030add2fe69401d5c9a3a3925c299688b3a1bc7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2129,6 +2134,11 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Only emit image-created if an image was actually created</code>](https://github.com/lxc/incus/commit/ba8d566fb6d10544b46c43a80370d1f7a2e6c2dc)
 - [ ] [<code>incusd/instances: Call placement scriptlet when target specified</code>](https://github.com/lxc/incus/commit/c0643ad6946431580af7bf4c6318a76d53a477f2)
+- [ ] [<code>internal/server/instance/drivers/qmp: Ensure that the device passed to RingbufRead() is a ring buffer</code>](https://github.com/lxc/incus/commit/7d13f50c5b54b32f255e4862eccbb15cc7e06104)
+- [ ] [<code>internal/server/instance/drivers: Don't return an error if VM's console device isn't a ringbuf</code>](https://github.com/lxc/incus/commit/a356608eb998a57bb9d95e3df77d0c27a5d89968)
+- [ ] [<code>internal/server/instance/drivers: Don't conflict with live migration operation</code>](https://github.com/lxc/incus/commit/324aa028304fe198434204e1d619b83189c64d83)
+- [ ] [<code>incus/alias: Handle quoted values</code>](https://github.com/lxc/incus/commit/b18c9c194ec6584e1359a54a8321654994ee97a8)
+- [ ] [<code>incus/alias: Stable sorting of alias names</code>](https://github.com/lxc/incus/commit/7030add2fe69401d5c9a3a3925c299688b3a1bc7)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
