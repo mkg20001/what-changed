@@ -162,6 +162,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: regenerate mocks</code>](https://github.com/canonical/firmware-updater/commit/904e12878928352317e8e68441150920a4610426)
 - [ ] [<code>ci: cleanup integration test, preserve PATH</code>](https://github.com/canonical/firmware-updater/commit/1251eaf48effdb2dff3a33620bc8e441081d3c9e)
+- [ ] [<code>fix: Move logfile to snap-friendly location</code>](https://github.com/canonical/firmware-updater/commit/f71bbe19b670e7dbe7405815f99d2b337108dcd2)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -806,6 +807,9 @@
 - [ ] [<code>incus/alias: Handle quoted values</code>](https://github.com/lxc/incus/commit/b18c9c194ec6584e1359a54a8321654994ee97a8)
 - [ ] [<code>incus/alias: Stable sorting of alias names</code>](https://github.com/lxc/incus/commit/7030add2fe69401d5c9a3a3925c299688b3a1bc7)
 - [ ] [<code>incusd/instance/qemu: Fix issues with old NVRAM</code>](https://github.com/lxc/incus/commit/7882a06e171ccffe4dea2cbdc54915e6be2adad1)
+- [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
+- [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
+- [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2147,6 +2151,9 @@
 - [ ] [<code>incus/alias: Handle quoted values</code>](https://github.com/lxc/incus/commit/b18c9c194ec6584e1359a54a8321654994ee97a8)
 - [ ] [<code>incus/alias: Stable sorting of alias names</code>](https://github.com/lxc/incus/commit/7030add2fe69401d5c9a3a3925c299688b3a1bc7)
 - [ ] [<code>incusd/instance/qemu: Fix issues with old NVRAM</code>](https://github.com/lxc/incus/commit/7882a06e171ccffe4dea2cbdc54915e6be2adad1)
+- [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
+- [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
+- [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2328,6 +2335,8 @@
 - [ ] [<code>Add ci-unix-artifacts.yml (#2445)</code>](https://github.com/AOMediaCodec/libavif/commit/578918077370568624068a0bce82fb88b2ed1bde)
 - [ ] [<code>Format yml files (#2446)</code>](https://github.com/AOMediaCodec/libavif/commit/1b1db68df05c9b626963dd4a68c65eabb0a36a33)
   - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
+- [ ] [<code>List utf8.manifest as normal source file for MSVC</code>](https://github.com/AOMediaCodec/libavif/commit/9100176307d34dd843f76923a03c0a8b7b1769d7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3053,6 +3062,11 @@
 - [ ] [<code>Revert "cli:apply: improve networkd restart logic for non-existent networkd config"</code>](https://github.com/canonical/netplan/commit/cac4b125ed00e0b1dbcaaff3dd03366f73337e60)
 - [ ] [<code>Revert "apply: compare full configuration to decide to restart networkd"</code>](https://github.com/canonical/netplan/commit/1ab755c9a148407142faf215a02835d1e9e60c37)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>status: fix SSID parsing</code>](https://github.com/canonical/netplan/commit/9cab923b0df192079ef26043f4289274cd40a1ab)
+- [ ] [<code>cli: set LC_ALL to C.UTF-8</code>](https://github.com/canonical/netplan/commit/7de9410d0a67abd8d5b7761ffe83c0ddb5cf2af5)
+- [ ] [<code>state/Interface: improve netdef ID handling with NetworkManager</code>](https://github.com/canonical/netplan/commit/ded34bad0e8c30159f91f6e8aa940f719a11284f)
+- [ ] [<code>state/SSID: handle non-ascii SSIDs</code>](https://github.com/canonical/netplan/commit/54d59d17c750f6098a29f9e2e54d8615c46f28fc)
+- [ ] [<code>state: get the SSID from NM if it's the backend</code>](https://github.com/canonical/netplan/commit/ff65879a91ca92b094933b4e3d6399b8125b1abd)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
