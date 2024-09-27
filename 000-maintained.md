@@ -1,10 +1,4 @@
 
-#### [bless](https://github.com/afrantzis/bless): [v0.6.3 → HEAD](https://github.com/afrantzis/bless/compare/v0.6.3...HEAD)
-
-- [ ] [<code>gui: Clear selection on revert</code>](https://github.com/afrantzis/bless/commit/f0f3792f766e187b770c714322e972db75336317)
-- [ ] [<code>ui: Add 64bit conversion entries in ConversionTable</code>](https://github.com/afrantzis/bless/commit/2c8dfa976d486f78c4a13aba5ca376a9ea6ee568)
-- [ ] [<code>plugins: Add 64bit support to ConversionTable</code>](https://github.com/afrantzis/bless/commit/103fbd6f4e449666e72fe21d3151a94adef5b880)
-
 #### [bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
 
 
@@ -422,6 +416,7 @@
 - [ ] [<code>chore: Follow up send file snackbars</code>](https://github.com/krille-chan/fluffychat/commit/dfb2605829f1aeea7fb13485bba6a90b42feddb2)
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/8e5474b4e408f1bee247b850ca924416d7fd29c7)
 - [ ] [<code>chore: Follow up google services patch</code>](https://github.com/krille-chan/fluffychat/commit/efad71e53513f09a86661637a4152a6e9532913d)
+- [ ] [<code>chore: Improve message info dialog</code>](https://github.com/krille-chan/fluffychat/commit/188ce96ef31680cccf34ed25734abc0f10511c68)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -678,6 +673,7 @@
 - [ ] [<code>chore: Follow up send file snackbars</code>](https://github.com/krille-chan/fluffychat/commit/dfb2605829f1aeea7fb13485bba6a90b42feddb2)
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/8e5474b4e408f1bee247b850ca924416d7fd29c7)
 - [ ] [<code>chore: Follow up google services patch</code>](https://github.com/krille-chan/fluffychat/commit/efad71e53513f09a86661637a4152a6e9532913d)
+- [ ] [<code>chore: Improve message info dialog</code>](https://github.com/krille-chan/fluffychat/commit/188ce96ef31680cccf34ed25734abc0f10511c68)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
