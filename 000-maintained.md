@@ -3288,6 +3288,17 @@
 - [ ] [<code>refactor(lib): add extra eq band quirk abstraction</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9b5e1fedf2eb906049b869461940b8891deea000)
 - [ ] [<code>refactor(lib): add extra eq band parser</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3584700ac4901275d2866ba01c8adf5138035d55)
 - [ ] [<code>refactor(lib): add stereo equalizer configuration struct</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f32138749caf427d77930fdc4512e1ea43143643)
+- [ ] [<code>feat(lib): add packet parsing for a3936</code>](https://github.com/Oppzippy/OpenSCQ30/commit/39dba6aa3c58f97ea7f3819423d3ea67b0651755)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add sound modes type two to device state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3acb515b558be2889e02a7eabf9d439553a7a07)
+- [ ] [<code>refactor: remove detectedWindNoise from state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b2d3e69315603666eac455c15d8cfca8f2078140)
+- [ ] [<code>feat: add functionality to set sound modes type two</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f09314d2c245ef95c326da1517fc4322fddf764)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(web): improve types</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15e980a9d2b2cd3e0f4e07aeee2702171744c8c7)
+- [ ] [<code>feat(web): add sound modes type two</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0b0a15ae896c8ed45c99f2824b8041a7643c7e1a)
+- [ ] [<code>fix(lib): a3936 profile should not have sound mode type 1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2c9c00a52ce028ff56c83e78f91e6069dbc7f918)
+- [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/feb1706ff74c54c6182d2d1efa50f8ea27741f73)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
