@@ -417,6 +417,10 @@
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/8e5474b4e408f1bee247b850ca924416d7fd29c7)
 - [ ] [<code>chore: Follow up google services patch</code>](https://github.com/krille-chan/fluffychat/commit/efad71e53513f09a86661637a4152a6e9532913d)
 - [ ] [<code>chore: Improve message info dialog</code>](https://github.com/krille-chan/fluffychat/commit/188ce96ef31680cccf34ed25734abc0f10511c68)
+- [ ] [<code>build: Update emoji picker package</code>](https://github.com/krille-chan/fluffychat/commit/c636bc573a70511422aae555dea2d943103be8cd)
+- [ ] [<code>build: Increase iOS minimum deployment target to 13.0</code>](https://github.com/krille-chan/fluffychat/commit/6f9d58df515d9963b4dd857905b72437be3f50f7)
+- [ ] [<code>build(deps): bump webrick from 1.7.0 to 1.8.2 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/1436269c9e610148a43f2316c097ac27077cc8ed)
+- [ ] [<code>chore: Group notifications on android by first space parent</code>](https://github.com/krille-chan/fluffychat/commit/de7b85819f0355f4c38a14c3fbe1d31c9d4b24c0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -674,6 +678,10 @@
 - [ ] [<code>build: Update dependencies</code>](https://github.com/krille-chan/fluffychat/commit/8e5474b4e408f1bee247b850ca924416d7fd29c7)
 - [ ] [<code>chore: Follow up google services patch</code>](https://github.com/krille-chan/fluffychat/commit/efad71e53513f09a86661637a4152a6e9532913d)
 - [ ] [<code>chore: Improve message info dialog</code>](https://github.com/krille-chan/fluffychat/commit/188ce96ef31680cccf34ed25734abc0f10511c68)
+- [ ] [<code>build: Update emoji picker package</code>](https://github.com/krille-chan/fluffychat/commit/c636bc573a70511422aae555dea2d943103be8cd)
+- [ ] [<code>build: Increase iOS minimum deployment target to 13.0</code>](https://github.com/krille-chan/fluffychat/commit/6f9d58df515d9963b4dd857905b72437be3f50f7)
+- [ ] [<code>build(deps): bump webrick from 1.7.0 to 1.8.2 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/1436269c9e610148a43f2316c097ac27077cc8ed)
+- [ ] [<code>chore: Group notifications on android by first space parent</code>](https://github.com/krille-chan/fluffychat/commit/de7b85819f0355f4c38a14c3fbe1d31c9d4b24c0)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3299,6 +3307,7 @@
 - [ ] [<code>fix(lib): a3936 profile should not have sound mode type 1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2c9c00a52ce028ff56c83e78f91e6069dbc7f918)
 - [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/feb1706ff74c54c6182d2d1efa50f8ea27741f73)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(lib): remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49eb258b17e87ba454380c7229607332fd2d1b41)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
