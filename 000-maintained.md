@@ -2341,6 +2341,9 @@
   - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
 - [ ] [<code>List utf8.manifest as normal source file for MSVC</code>](https://github.com/AOMediaCodec/libavif/commit/9100176307d34dd843f76923a03c0a8b7b1769d7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Refactor gain map API (#2444)</code>](https://github.com/AOMediaCodec/libavif/commit/cdb89c92a1eee34a98f25bacfd02c70c3e375926)
+- [ ] [<code>Disable the MSVC C4232 warning</code>](https://github.com/AOMediaCodec/libavif/commit/cd49a3b59754b3ed33d5b032c060470e9f07fe7a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3309,6 +3312,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>refactor(lib): remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49eb258b17e87ba454380c7229607332fd2d1b41)
 - [ ] [<code>refactor(lib): merge parsing into the same files as structs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1b59350b6f5bafc43e8bce78fb5b341018186e5)
+- [ ] [<code>refactor(lib): reusable two extra eq bands packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dbdf5de9d29628528870ccb8981f2d43be7a3db5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): packet header parser inconsistency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/de49e4602ca6ec1770c59d2c2b521c6bc747313a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
