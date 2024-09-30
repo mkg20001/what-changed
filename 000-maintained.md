@@ -3308,6 +3308,7 @@
 - [ ] [<code>build(web): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/feb1706ff74c54c6182d2d1efa50f8ea27741f73)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>refactor(lib): remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49eb258b17e87ba454380c7229607332fd2d1b41)
+- [ ] [<code>refactor(lib): merge parsing into the same files as structs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1b59350b6f5bafc43e8bce78fb5b341018186e5)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
