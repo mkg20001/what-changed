@@ -2344,6 +2344,7 @@
 - [ ] [<code>Refactor gain map API (#2444)</code>](https://github.com/AOMediaCodec/libavif/commit/cdb89c92a1eee34a98f25bacfd02c70c3e375926)
 - [ ] [<code>Disable the MSVC C4232 warning</code>](https://github.com/AOMediaCodec/libavif/commit/cd49a3b59754b3ed33d5b032c060470e9f07fe7a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Remove all remaining references to AppVeyor (#2451)</code>](https://github.com/AOMediaCodec/libavif/commit/7d357d6a72ea460ec92f7224f8206ebb2a35d65c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
