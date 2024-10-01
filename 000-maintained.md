@@ -2345,6 +2345,12 @@
 - [ ] [<code>Disable the MSVC C4232 warning</code>](https://github.com/AOMediaCodec/libavif/commit/cd49a3b59754b3ed33d5b032c060470e9f07fe7a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove all remaining references to AppVeyor (#2451)</code>](https://github.com/AOMediaCodec/libavif/commit/7d357d6a72ea460ec92f7224f8206ebb2a35d65c)
+- [ ] [<code>Bump the github-actions group with 3 updates (#2450)</code>](https://github.com/AOMediaCodec/libavif/commit/98e9303b8cce42bbb2142a472e8dbcb2ce907211)
+- [ ] [<code>Update README.md (#2454)</code>](https://github.com/AOMediaCodec/libavif/commit/e9db3c3f156cd67d6af3bcb49fc8b80aef77402f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Disable AppVeyor CI (#2455)</code>](https://github.com/AOMediaCodec/libavif/commit/773f5c88ba0e5eeaf5b7ecad928ab74c07a454ab)
+- [ ] [<code>Use runner.os in artifact archive name (#2456)</code>](https://github.com/AOMediaCodec/libavif/commit/ddb59691f70fcf488f9be8e2cd9edf11554af19a)
+- [ ] [<code>Fix order of AVIF_NODISCARD and AVIF_API. (#2458)</code>](https://github.com/AOMediaCodec/libavif/commit/84b886522e1e9713199c7cc48f979377faf3b995)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3335,7 +3341,7 @@
 
 #### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.8.6.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.8.6.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.9.27.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.9.27.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.38.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.38.0...HEAD)
