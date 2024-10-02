@@ -814,8 +814,12 @@
 - [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
 - [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
 - [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
+- [ ] [<code>cmd/incusd: gateway parameter wasn't actually used anywhere</code>](https://github.com/lxc/incus/commit/2bacf2f837a4bfbdf0f161ddb6ef46ee13a49fc4)
+- [ ] [<code>cmd/incusd: Run cluster evacuate and restore in parallel</code>](https://github.com/lxc/incus/commit/608be4c6637c8ad501aa98e570ba923d74e340fa)
+- [ ] [<code>formatting: Move goroutines to their own functions</code>](https://github.com/lxc/incus/commit/e6e7e0a4b4471fc605e70d14da1a89d7b857bde6)
 - [ ] [<code>internal/instance: Allows the VM's limits.memory configuration to be set to a percentage value</code>](https://github.com/lxc/incus/commit/88f5b0dc21bd460fe291d5531a7faa2fee843891)
 - [ ] [<code>incusd/network/ovn: Fix CIDR size check</code>](https://github.com/lxc/incus/commit/9426885a9e2346797e01c0ad7ff06a2fb2ea7548)
+- [ ] [<code>incusd/instance/lxc: Mount /run if the path exists</code>](https://github.com/lxc/incus/commit/3ec83ee481a82a02b66ff3b78e25e9badd683ccf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2160,8 +2164,12 @@
 - [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
 - [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
 - [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
+- [ ] [<code>cmd/incusd: gateway parameter wasn't actually used anywhere</code>](https://github.com/lxc/incus/commit/2bacf2f837a4bfbdf0f161ddb6ef46ee13a49fc4)
+- [ ] [<code>cmd/incusd: Run cluster evacuate and restore in parallel</code>](https://github.com/lxc/incus/commit/608be4c6637c8ad501aa98e570ba923d74e340fa)
+- [ ] [<code>formatting: Move goroutines to their own functions</code>](https://github.com/lxc/incus/commit/e6e7e0a4b4471fc605e70d14da1a89d7b857bde6)
 - [ ] [<code>internal/instance: Allows the VM's limits.memory configuration to be set to a percentage value</code>](https://github.com/lxc/incus/commit/88f5b0dc21bd460fe291d5531a7faa2fee843891)
 - [ ] [<code>incusd/network/ovn: Fix CIDR size check</code>](https://github.com/lxc/incus/commit/9426885a9e2346797e01c0ad7ff06a2fb2ea7548)
+- [ ] [<code>incusd/instance/lxc: Mount /run if the path exists</code>](https://github.com/lxc/incus/commit/3ec83ee481a82a02b66ff3b78e25e9badd683ccf)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2357,6 +2365,8 @@
 - [ ] [<code>Fix order of AVIF_NODISCARD and AVIF_API. (#2458)</code>](https://github.com/AOMediaCodec/libavif/commit/84b886522e1e9713199c7cc48f979377faf3b995)
 - [ ] [<code>Disable JPEG finding in libyuv (#2459)</code>](https://github.com/AOMediaCodec/libavif/commit/fd66e9d7470c92187a48adfe493727b0b4661c06)
   - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Add macOS artifacts to release (#2461)</code>](https://github.com/AOMediaCodec/libavif/commit/5e38bec7e8517852cd66ca620ac5180c70d50e66)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2414,6 +2424,9 @@
 - [ ] [<code>github: add live upgrade test between stable-{5,6} branches</code>](https://github.com/lxc/lxcfs/commit/15f614c50ca11812db19696fc3c7a9f637a31dc1)
 - [ ] [<code>Add missing linux/limits.h include</code>](https://github.com/lxc/lxcfs/commit/1e4e1841d695a324c32c0724d174ea07f5fd25e5)
 - [ ] [<code>lxcfs_read: Added LXCFS_TYPE macro to all FUSE filesystem calls</code>](https://github.com/lxc/lxcfs/commit/bcb1b0a9308f37115369c5ff8cd7b020df4a1712)
+- [ ] [<code>lxcfs: fix readdir for procfs subtree</code>](https://github.com/lxc/lxcfs/commit/56fd97e62eb73d0bfe59838f62799d51a9c9a3bf)
+- [ ] [<code>tests: add proc readdir test</code>](https://github.com/lxc/lxcfs/commit/2594ae8be3822262fe31cab403f16c8bee6fdd8f)
+- [ ] [<code>cgroups/cgfsng: improve swap accounting support detection</code>](https://github.com/lxc/lxcfs/commit/49e862b696a80fbaa51adfc807931a5cb33c37e9)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
