@@ -2355,6 +2355,8 @@
 - [ ] [<code>Disable AppVeyor CI (#2455)</code>](https://github.com/AOMediaCodec/libavif/commit/773f5c88ba0e5eeaf5b7ecad928ab74c07a454ab)
 - [ ] [<code>Use runner.os in artifact archive name (#2456)</code>](https://github.com/AOMediaCodec/libavif/commit/ddb59691f70fcf488f9be8e2cd9edf11554af19a)
 - [ ] [<code>Fix order of AVIF_NODISCARD and AVIF_API. (#2458)</code>](https://github.com/AOMediaCodec/libavif/commit/84b886522e1e9713199c7cc48f979377faf3b995)
+- [ ] [<code>Disable JPEG finding in libyuv (#2459)</code>](https://github.com/AOMediaCodec/libavif/commit/fd66e9d7470c92187a48adfe493727b0b4661c06)
+  - <sub>Keywords: <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
