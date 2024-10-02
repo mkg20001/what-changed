@@ -814,6 +814,8 @@
 - [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
 - [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
 - [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
+- [ ] [<code>internal/instance: Allows the VM's limits.memory configuration to be set to a percentage value</code>](https://github.com/lxc/incus/commit/88f5b0dc21bd460fe291d5531a7faa2fee843891)
+- [ ] [<code>incusd/network/ovn: Fix CIDR size check</code>](https://github.com/lxc/incus/commit/9426885a9e2346797e01c0ad7ff06a2fb2ea7548)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2158,6 +2160,8 @@
 - [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
 - [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
 - [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
+- [ ] [<code>internal/instance: Allows the VM's limits.memory configuration to be set to a percentage value</code>](https://github.com/lxc/incus/commit/88f5b0dc21bd460fe291d5531a7faa2fee843891)
+- [ ] [<code>incusd/network/ovn: Fix CIDR size check</code>](https://github.com/lxc/incus/commit/9426885a9e2346797e01c0ad7ff06a2fb2ea7548)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
