@@ -157,6 +157,7 @@
 - [ ] [<code>chore: regenerate mocks</code>](https://github.com/canonical/firmware-updater/commit/904e12878928352317e8e68441150920a4610426)
 - [ ] [<code>ci: cleanup integration test, preserve PATH</code>](https://github.com/canonical/firmware-updater/commit/1251eaf48effdb2dff3a33620bc8e441081d3c9e)
 - [ ] [<code>fix: Move logfile to snap-friendly location</code>](https://github.com/canonical/firmware-updater/commit/f71bbe19b670e7dbe7405815f99d2b337108dcd2)
+- [ ] [<code>Revert "snap: core24 migration"</code>](https://github.com/canonical/firmware-updater/commit/2ea9c03deae296d13a4e3a646ce8f09c0317124e)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -421,6 +422,15 @@
 - [ ] [<code>build: Increase iOS minimum deployment target to 13.0</code>](https://github.com/krille-chan/fluffychat/commit/6f9d58df515d9963b4dd857905b72437be3f50f7)
 - [ ] [<code>build(deps): bump webrick from 1.7.0 to 1.8.2 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/1436269c9e610148a43f2316c097ac27077cc8ed)
 - [ ] [<code>chore: Group notifications on android by first space parent</code>](https://github.com/krille-chan/fluffychat/commit/de7b85819f0355f4c38a14c3fbe1d31c9d4b24c0)
+- [ ] [<code>fix: Public rooms always publicly visible even when turned off on creation</code>](https://github.com/krille-chan/fluffychat/commit/c1f8b13aca0aed71ea0d16a56032aba5068ee8c0)
+- [ ] [<code>chore: Nicer representation of invited DMs</code>](https://github.com/krille-chan/fluffychat/commit/542b4bf9280c6007a125efe391054002faca6c78)
+- [ ] [<code>build: Add unifiedpush_ui package</code>](https://github.com/krille-chan/fluffychat/commit/96ecc878b4cb807d9a11d71182e9c5792ce0c04e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Reuse flutter local notifications object</code>](https://github.com/krille-chan/fluffychat/commit/86c9354cfd2d2f071e5b630802871da07ce0a26b)
+- [ ] [<code>build: Update flutter local notifications package</code>](https://github.com/krille-chan/fluffychat/commit/5ee30c35c6ef6cc0e9af6ea6ca26bc5d70cd0bcc)
+- [ ] [<code>refactor: Remove duplicated navigator workaround</code>](https://github.com/krille-chan/fluffychat/commit/ae52fcf9ecd5695bca1d3a96e6db156c6ebdc4e4)
+- [ ] [<code>refactor: Use file selector on linux</code>](https://github.com/krille-chan/fluffychat/commit/fc959ce3e521100f95239a28cd981455ebcfe397)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -682,6 +692,15 @@
 - [ ] [<code>build: Increase iOS minimum deployment target to 13.0</code>](https://github.com/krille-chan/fluffychat/commit/6f9d58df515d9963b4dd857905b72437be3f50f7)
 - [ ] [<code>build(deps): bump webrick from 1.7.0 to 1.8.2 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/1436269c9e610148a43f2316c097ac27077cc8ed)
 - [ ] [<code>chore: Group notifications on android by first space parent</code>](https://github.com/krille-chan/fluffychat/commit/de7b85819f0355f4c38a14c3fbe1d31c9d4b24c0)
+- [ ] [<code>fix: Public rooms always publicly visible even when turned off on creation</code>](https://github.com/krille-chan/fluffychat/commit/c1f8b13aca0aed71ea0d16a56032aba5068ee8c0)
+- [ ] [<code>chore: Nicer representation of invited DMs</code>](https://github.com/krille-chan/fluffychat/commit/542b4bf9280c6007a125efe391054002faca6c78)
+- [ ] [<code>build: Add unifiedpush_ui package</code>](https://github.com/krille-chan/fluffychat/commit/96ecc878b4cb807d9a11d71182e9c5792ce0c04e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Reuse flutter local notifications object</code>](https://github.com/krille-chan/fluffychat/commit/86c9354cfd2d2f071e5b630802871da07ce0a26b)
+- [ ] [<code>build: Update flutter local notifications package</code>](https://github.com/krille-chan/fluffychat/commit/5ee30c35c6ef6cc0e9af6ea6ca26bc5d70cd0bcc)
+- [ ] [<code>refactor: Remove duplicated navigator workaround</code>](https://github.com/krille-chan/fluffychat/commit/ae52fcf9ecd5695bca1d3a96e6db156c6ebdc4e4)
+- [ ] [<code>refactor: Use file selector on linux</code>](https://github.com/krille-chan/fluffychat/commit/fc959ce3e521100f95239a28cd981455ebcfe397)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -845,6 +864,16 @@
 - [ ] [<code>doc/network/ovn: Add description for bridge.external_interfaces parameter</code>](https://github.com/lxc/incus/commit/eacb0b6d8a238ebce6adbeac649a62909b639349)
 - [ ] [<code>api: network_ovn_external_interfaces</code>](https://github.com/lxc/incus/commit/29eb2a152714a072bd4ef348a2da99bd44eee6ae)
 - [ ] [<code>incusd/network: De-duplicate external interfaces validation</code>](https://github.com/lxc/incus/commit/270438abd33589146fc7ab21d364ce908e466748)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/f247fa8c63be054673a258ac18388a00a3af5470)
+- [ ] [<code>incusd/instance/qemu: Simplify console switching</code>](https://github.com/lxc/incus/commit/71fb5f47482fbd88cc56b6ff9b9638221506beea)
+- [ ] [<code>incusd/instance/qemu: Handle existing console connections</code>](https://github.com/lxc/incus/commit/f2d2d0f2e7f5df532ca2b0e794b81d797285df10)
+- [ ] [<code>incusd/instance/qemu: Fix shutdown race</code>](https://github.com/lxc/incus/commit/647c13ec1ae7edc27505ce7d1322fa6bd7826986)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/devices/proxy: Fix incorrect bind= example</code>](https://github.com/lxc/incus/commit/f5ffa93c37ff29abbe7449a52350ce6030abeefc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/bridge: Bring up external interfaces</code>](https://github.com/lxc/incus/commit/b8aa460d6e3dd131b0a22761b6af6764d5f18529)
+- [ ] [<code>Release Incus 6.6</code>](https://github.com/lxc/incus/commit/7bf44990b0c7eeab474abb8bba6b18b6bf72bb46)
+  - <sub>Tags: <code>v6.6.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2220,6 +2249,16 @@
 - [ ] [<code>doc/network/ovn: Add description for bridge.external_interfaces parameter</code>](https://github.com/lxc/incus/commit/eacb0b6d8a238ebce6adbeac649a62909b639349)
 - [ ] [<code>api: network_ovn_external_interfaces</code>](https://github.com/lxc/incus/commit/29eb2a152714a072bd4ef348a2da99bd44eee6ae)
 - [ ] [<code>incusd/network: De-duplicate external interfaces validation</code>](https://github.com/lxc/incus/commit/270438abd33589146fc7ab21d364ce908e466748)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/f247fa8c63be054673a258ac18388a00a3af5470)
+- [ ] [<code>incusd/instance/qemu: Simplify console switching</code>](https://github.com/lxc/incus/commit/71fb5f47482fbd88cc56b6ff9b9638221506beea)
+- [ ] [<code>incusd/instance/qemu: Handle existing console connections</code>](https://github.com/lxc/incus/commit/f2d2d0f2e7f5df532ca2b0e794b81d797285df10)
+- [ ] [<code>incusd/instance/qemu: Fix shutdown race</code>](https://github.com/lxc/incus/commit/647c13ec1ae7edc27505ce7d1322fa6bd7826986)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/devices/proxy: Fix incorrect bind= example</code>](https://github.com/lxc/incus/commit/f5ffa93c37ff29abbe7449a52350ce6030abeefc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/bridge: Bring up external interfaces</code>](https://github.com/lxc/incus/commit/b8aa460d6e3dd131b0a22761b6af6764d5f18529)
+- [ ] [<code>Release Incus 6.6</code>](https://github.com/lxc/incus/commit/7bf44990b0c7eeab474abb8bba6b18b6bf72bb46)
+  - <sub>Tags: <code>v6.6.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2419,6 +2458,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Replace assertions by checks in ROStreamReadBitsUX (#2457)</code>](https://github.com/AOMediaCodec/libavif/commit/794a30079182dd9a2d8a38e958770d02c4b434c8)
 - [ ] [<code>Fix README.md Prebuilt Binaries section title (#2462)</code>](https://github.com/AOMediaCodec/libavif/commit/d274e2e7c19efa0b3f0bcd8adc6382f5759f75c2)
+- [ ] [<code>Implement the HDR part of MinimizedImageBox (#2440)</code>](https://github.com/AOMediaCodec/libavif/commit/6bdda98a03d97d987ca343f1211d5ec2fb400102)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
