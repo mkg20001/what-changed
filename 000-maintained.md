@@ -841,6 +841,10 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>doc: Incus can now create a shared VG directly</code>](https://github.com/lxc/incus/commit/d33e224fbd9fb020470b97f6e1228881290d6fbb)
 - [ ] [<code>api: storage_lvm_cluster_create</code>](https://github.com/lxc/incus/commit/debc946cbbfc44cdef572a91c88b4079f9d3ce04)
+- [ ] [<code>incusd/network/ovn: Allow adding external interfaces to an OVN network</code>](https://github.com/lxc/incus/commit/1a5617aba092dbde1701a417255177a9aa2d7d71)
+- [ ] [<code>doc/network/ovn: Add description for bridge.external_interfaces parameter</code>](https://github.com/lxc/incus/commit/eacb0b6d8a238ebce6adbeac649a62909b639349)
+- [ ] [<code>api: network_ovn_external_interfaces</code>](https://github.com/lxc/incus/commit/29eb2a152714a072bd4ef348a2da99bd44eee6ae)
+- [ ] [<code>incusd/network: De-duplicate external interfaces validation</code>](https://github.com/lxc/incus/commit/270438abd33589146fc7ab21d364ce908e466748)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2212,6 +2216,10 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>doc: Incus can now create a shared VG directly</code>](https://github.com/lxc/incus/commit/d33e224fbd9fb020470b97f6e1228881290d6fbb)
 - [ ] [<code>api: storage_lvm_cluster_create</code>](https://github.com/lxc/incus/commit/debc946cbbfc44cdef572a91c88b4079f9d3ce04)
+- [ ] [<code>incusd/network/ovn: Allow adding external interfaces to an OVN network</code>](https://github.com/lxc/incus/commit/1a5617aba092dbde1701a417255177a9aa2d7d71)
+- [ ] [<code>doc/network/ovn: Add description for bridge.external_interfaces parameter</code>](https://github.com/lxc/incus/commit/eacb0b6d8a238ebce6adbeac649a62909b639349)
+- [ ] [<code>api: network_ovn_external_interfaces</code>](https://github.com/lxc/incus/commit/29eb2a152714a072bd4ef348a2da99bd44eee6ae)
+- [ ] [<code>incusd/network: De-duplicate external interfaces validation</code>](https://github.com/lxc/incus/commit/270438abd33589146fc7ab21d364ce908e466748)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2409,6 +2417,8 @@
   - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>Add macOS artifacts to release (#2461)</code>](https://github.com/AOMediaCodec/libavif/commit/5e38bec7e8517852cd66ca620ac5180c70d50e66)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Replace assertions by checks in ROStreamReadBitsUX (#2457)</code>](https://github.com/AOMediaCodec/libavif/commit/794a30079182dd9a2d8a38e958770d02c4b434c8)
+- [ ] [<code>Fix README.md Prebuilt Binaries section title (#2462)</code>](https://github.com/AOMediaCodec/libavif/commit/d274e2e7c19efa0b3f0bcd8adc6382f5759f75c2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
