@@ -814,12 +814,33 @@
 - [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
 - [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
 - [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
+- [ ] [<code>alpine linux enable edge repositories</code>](https://github.com/lxc/incus/commit/764c7ce736b614bb758ad2d530bddafc784a4e57)
 - [ ] [<code>cmd/incusd: gateway parameter wasn't actually used anywhere</code>](https://github.com/lxc/incus/commit/2bacf2f837a4bfbdf0f161ddb6ef46ee13a49fc4)
 - [ ] [<code>cmd/incusd: Run cluster evacuate and restore in parallel</code>](https://github.com/lxc/incus/commit/608be4c6637c8ad501aa98e570ba923d74e340fa)
 - [ ] [<code>formatting: Move goroutines to their own functions</code>](https://github.com/lxc/incus/commit/e6e7e0a4b4471fc605e70d14da1a89d7b857bde6)
 - [ ] [<code>internal/instance: Allows the VM's limits.memory configuration to be set to a percentage value</code>](https://github.com/lxc/incus/commit/88f5b0dc21bd460fe291d5531a7faa2fee843891)
 - [ ] [<code>incusd/network/ovn: Fix CIDR size check</code>](https://github.com/lxc/incus/commit/9426885a9e2346797e01c0ad7ff06a2fb2ea7548)
 - [ ] [<code>incusd/instance/lxc: Mount /run if the path exists</code>](https://github.com/lxc/incus/commit/3ec83ee481a82a02b66ff3b78e25e9badd683ccf)
+- [ ] [<code>doc: Add uncomment to the word list</code>](https://github.com/lxc/incus/commit/dda7172eea004ff333e2b99e5aefa7038b7f0f09)
+- [ ] [<code>incus/file/delete: Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/ef613d6cc6abec26ebc61f272d4b4cc23928d8a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/delete: Add --force flag</code>](https://github.com/lxc/incus/commit/b7a904b64b760bd2c5f87e8be1dda67303c72f9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c9535834224287baec4f78b9a4b21832eac58215)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/network/resolved: Fix systemd unit</code>](https://github.com/lxc/incus/commit/5ef1c28cbaf4ac01829c3bb747b4a187aeb84358)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>internal/instance: Fix doc for boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/7f00f401cec0d0cf6d058e09cbd1e90fe668b2fe)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/d68fd5d2ef585247699c12dffaca70e336a2ebeb)
+- [ ] [<code>client: Capture original OCI image identifier</code>](https://github.com/lxc/incus/commit/cc12cad4b516fb4ae90a6f309cdb986a2c5671e5)
+- [ ] [<code>incus/file/delete: Cache the SFTP client</code>](https://github.com/lxc/incus/commit/bd16f87f25c500d697f03ec4d358cbe41209b0fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/subprocess: Add TryRunCommandAttemptsDuration() which allows the caller to specify the number of attempts and duration between each attempt</code>](https://github.com/lxc/incus/commit/c25c6e5e969523d1f62a59b0e05ded498a1f5405)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>internal/server/storage/drivers: Add support for creating shared VGs</code>](https://github.com/lxc/incus/commit/4c0e200355f00e8fa492a0f34e534c61223c662f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc: Incus can now create a shared VG directly</code>](https://github.com/lxc/incus/commit/d33e224fbd9fb020470b97f6e1228881290d6fbb)
+- [ ] [<code>api: storage_lvm_cluster_create</code>](https://github.com/lxc/incus/commit/debc946cbbfc44cdef572a91c88b4079f9d3ce04)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2164,12 +2185,33 @@
 - [ ] [<code>incusd/device/nic: Add configuration for macvlan mode</code>](https://github.com/lxc/incus/commit/5868c1484d129a864b412fd331ffc7c1b729dcea)
 - [ ] [<code>doc/devices/nic: Add mode for macvlan devices</code>](https://github.com/lxc/incus/commit/a1efbdc103f26f807d91f3f6fed4176371eebbef)
 - [ ] [<code>api: instance_nic_macvlan_mode</code>](https://github.com/lxc/incus/commit/29b4537eb5ef0b370b0ffbbd0255494402e01046)
+- [ ] [<code>alpine linux enable edge repositories</code>](https://github.com/lxc/incus/commit/764c7ce736b614bb758ad2d530bddafc784a4e57)
 - [ ] [<code>cmd/incusd: gateway parameter wasn't actually used anywhere</code>](https://github.com/lxc/incus/commit/2bacf2f837a4bfbdf0f161ddb6ef46ee13a49fc4)
 - [ ] [<code>cmd/incusd: Run cluster evacuate and restore in parallel</code>](https://github.com/lxc/incus/commit/608be4c6637c8ad501aa98e570ba923d74e340fa)
 - [ ] [<code>formatting: Move goroutines to their own functions</code>](https://github.com/lxc/incus/commit/e6e7e0a4b4471fc605e70d14da1a89d7b857bde6)
 - [ ] [<code>internal/instance: Allows the VM's limits.memory configuration to be set to a percentage value</code>](https://github.com/lxc/incus/commit/88f5b0dc21bd460fe291d5531a7faa2fee843891)
 - [ ] [<code>incusd/network/ovn: Fix CIDR size check</code>](https://github.com/lxc/incus/commit/9426885a9e2346797e01c0ad7ff06a2fb2ea7548)
 - [ ] [<code>incusd/instance/lxc: Mount /run if the path exists</code>](https://github.com/lxc/incus/commit/3ec83ee481a82a02b66ff3b78e25e9badd683ccf)
+- [ ] [<code>doc: Add uncomment to the word list</code>](https://github.com/lxc/incus/commit/dda7172eea004ff333e2b99e5aefa7038b7f0f09)
+- [ ] [<code>incus/file/delete: Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/ef613d6cc6abec26ebc61f272d4b4cc23928d8a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/delete: Add --force flag</code>](https://github.com/lxc/incus/commit/b7a904b64b760bd2c5f87e8be1dda67303c72f9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c9535834224287baec4f78b9a4b21832eac58215)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/network/resolved: Fix systemd unit</code>](https://github.com/lxc/incus/commit/5ef1c28cbaf4ac01829c3bb747b4a187aeb84358)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>internal/instance: Fix doc for boot.host_shutdown_action</code>](https://github.com/lxc/incus/commit/7f00f401cec0d0cf6d058e09cbd1e90fe668b2fe)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/d68fd5d2ef585247699c12dffaca70e336a2ebeb)
+- [ ] [<code>client: Capture original OCI image identifier</code>](https://github.com/lxc/incus/commit/cc12cad4b516fb4ae90a6f309cdb986a2c5671e5)
+- [ ] [<code>incus/file/delete: Cache the SFTP client</code>](https://github.com/lxc/incus/commit/bd16f87f25c500d697f03ec4d358cbe41209b0fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/subprocess: Add TryRunCommandAttemptsDuration() which allows the caller to specify the number of attempts and duration between each attempt</code>](https://github.com/lxc/incus/commit/c25c6e5e969523d1f62a59b0e05ded498a1f5405)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>internal/server/storage/drivers: Add support for creating shared VGs</code>](https://github.com/lxc/incus/commit/4c0e200355f00e8fa492a0f34e534c61223c662f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc: Incus can now create a shared VG directly</code>](https://github.com/lxc/incus/commit/d33e224fbd9fb020470b97f6e1228881290d6fbb)
+- [ ] [<code>api: storage_lvm_cluster_create</code>](https://github.com/lxc/incus/commit/debc946cbbfc44cdef572a91c88b4079f9d3ce04)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
