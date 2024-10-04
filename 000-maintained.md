@@ -431,6 +431,7 @@
 - [ ] [<code>refactor: Remove duplicated navigator workaround</code>](https://github.com/krille-chan/fluffychat/commit/ae52fcf9ecd5695bca1d3a96e6db156c6ebdc4e4)
 - [ ] [<code>refactor: Use file selector on linux</code>](https://github.com/krille-chan/fluffychat/commit/fc959ce3e521100f95239a28cd981455ebcfe397)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up pick files with file selector</code>](https://github.com/krille-chan/fluffychat/commit/fe06f2efb3a101a2c5d8a33587c85deb4f3d170c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -701,6 +702,7 @@
 - [ ] [<code>refactor: Remove duplicated navigator workaround</code>](https://github.com/krille-chan/fluffychat/commit/ae52fcf9ecd5695bca1d3a96e6db156c6ebdc4e4)
 - [ ] [<code>refactor: Use file selector on linux</code>](https://github.com/krille-chan/fluffychat/commit/fc959ce3e521100f95239a28cd981455ebcfe397)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up pick files with file selector</code>](https://github.com/krille-chan/fluffychat/commit/fe06f2efb3a101a2c5d8a33587c85deb4f3d170c)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -874,6 +876,8 @@
 - [ ] [<code>incusd/network/bridge: Bring up external interfaces</code>](https://github.com/lxc/incus/commit/b8aa460d6e3dd131b0a22761b6af6764d5f18529)
 - [ ] [<code>Release Incus 6.6</code>](https://github.com/lxc/incus/commit/7bf44990b0c7eeab474abb8bba6b18b6bf72bb46)
   - <sub>Tags: <code>v6.6.0</code></sub>
+- [ ] [<code>fix: fix slice init length</code>](https://github.com/lxc/incus/commit/d9fdfc543dd2e14154fbe4a06f648b050f2657ba)
+- [ ] [<code>internal/instance: fix live update VM's limits.memory configuration when use a percentage value</code>](https://github.com/lxc/incus/commit/7c429b8317e45ad6502683028a45df01e64dcd05)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2259,6 +2263,8 @@
 - [ ] [<code>incusd/network/bridge: Bring up external interfaces</code>](https://github.com/lxc/incus/commit/b8aa460d6e3dd131b0a22761b6af6764d5f18529)
 - [ ] [<code>Release Incus 6.6</code>](https://github.com/lxc/incus/commit/7bf44990b0c7eeab474abb8bba6b18b6bf72bb46)
   - <sub>Tags: <code>v6.6.0</code></sub>
+- [ ] [<code>fix: fix slice init length</code>](https://github.com/lxc/incus/commit/d9fdfc543dd2e14154fbe4a06f648b050f2657ba)
+- [ ] [<code>internal/instance: fix live update VM's limits.memory configuration when use a percentage value</code>](https://github.com/lxc/incus/commit/7c429b8317e45ad6502683028a45df01e64dcd05)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2460,6 +2466,7 @@
 - [ ] [<code>Fix README.md Prebuilt Binaries section title (#2462)</code>](https://github.com/AOMediaCodec/libavif/commit/d274e2e7c19efa0b3f0bcd8adc6382f5759f75c2)
 - [ ] [<code>Implement the HDR part of MinimizedImageBox (#2440)</code>](https://github.com/AOMediaCodec/libavif/commit/6bdda98a03d97d987ca343f1211d5ec2fb400102)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Remove appveyor.yml (#2465)</code>](https://github.com/AOMediaCodec/libavif/commit/4932ace4aadd56c9f98fe2376a089a023822b1e0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
