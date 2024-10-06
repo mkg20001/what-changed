@@ -41,6 +41,7 @@
 - [ ] [<code>device: simplify external device settings handling</code>](https://git.openwrt.org/project/netifd.git/commit/61c606d6e66b132f602135e0f0fda5f532b588e9)
 - [ ] [<code>Revert "system-linux: re-apply ethtool on phy attachment"</code>](https://git.openwrt.org/project/netifd.git/commit/02aa43d82d587d87523231be5a5e0bf956435725)
 - [ ] [<code>interface: fix regression on adding hotplug devices to interfaces</code>](https://git.openwrt.org/project/netifd.git/commit/24f9a93a9559c93cf1e794fdfcd87a38d27a8e0e)
+- [ ] [<code>wireless: reload wireless device if any vif network bridge changes ifindex</code>](https://git.openwrt.org/project/netifd.git/commit/3c6265fdbd02ebd35fa3e7a58d6dfeed081a09d7)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
