@@ -435,6 +435,12 @@
 - [ ] [<code>chore: Follow up file selector</code>](https://github.com/krille-chan/fluffychat/commit/cc928c64bccf807ab7d727ad2b8c80ce3618d511)
 - [ ] [<code>build: migrate from deprecated appdelegate makro</code>](https://github.com/krille-chan/fluffychat/commit/811434e6426e39fa4a5df15ac7759eeaa30f6254)
 - [ ] [<code>chore: Follow up file selector</code>](https://github.com/krille-chan/fluffychat/commit/2c2e6d094115da30341d51e535b282cdf7a93920)
+- [ ] [<code>build: Update go router</code>](https://github.com/krille-chan/fluffychat/commit/8cedd2a45a4676c202b85ad4c471c83539e67989)
+- [ ] [<code>refactor: Use non nullable localizations builder and lazy load on web</code>](https://github.com/krille-chan/fluffychat/commit/0d4b7d67cc53e353868b7711af62d5f80ab06c8c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Update secure storage on linux</code>](https://github.com/krille-chan/fluffychat/commit/1a3774fbcf1b1fd840e18356ba624db0cff23e6b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update dependencies minor versions</code>](https://github.com/krille-chan/fluffychat/commit/1540464c52759cafc8812833d4aded7e1238f543)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.20.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.20.0...HEAD)
 
@@ -709,6 +715,12 @@
 - [ ] [<code>chore: Follow up file selector</code>](https://github.com/krille-chan/fluffychat/commit/cc928c64bccf807ab7d727ad2b8c80ce3618d511)
 - [ ] [<code>build: migrate from deprecated appdelegate makro</code>](https://github.com/krille-chan/fluffychat/commit/811434e6426e39fa4a5df15ac7759eeaa30f6254)
 - [ ] [<code>chore: Follow up file selector</code>](https://github.com/krille-chan/fluffychat/commit/2c2e6d094115da30341d51e535b282cdf7a93920)
+- [ ] [<code>build: Update go router</code>](https://github.com/krille-chan/fluffychat/commit/8cedd2a45a4676c202b85ad4c471c83539e67989)
+- [ ] [<code>refactor: Use non nullable localizations builder and lazy load on web</code>](https://github.com/krille-chan/fluffychat/commit/0d4b7d67cc53e353868b7711af62d5f80ab06c8c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Update secure storage on linux</code>](https://github.com/krille-chan/fluffychat/commit/1a3774fbcf1b1fd840e18356ba624db0cff23e6b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update dependencies minor versions</code>](https://github.com/krille-chan/fluffychat/commit/1540464c52759cafc8812833d4aded7e1238f543)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter313 - no appropriate URL found OrderedDict([('attr_path', 'flutter313'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2375,6 +2387,8 @@
 - [ ] [<code>fix possible clang compile error in AARCH</code>](https://github.com/lxc/lxc/commit/83bb86888375c5bfb894ce4232b26b00959581ac)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add suppport for PuzzleFS images in the oci template</code>](https://github.com/lxc/lxc/commit/3764c19967286a9cb193485fadec3181c62fe241)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
