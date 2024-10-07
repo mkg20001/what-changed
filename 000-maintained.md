@@ -2347,6 +2347,7 @@
 - [ ] [<code>Implement the HDR part of MinimizedImageBox (#2440)</code>](https://github.com/AOMediaCodec/libavif/commit/6bdda98a03d97d987ca343f1211d5ec2fb400102)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove appveyor.yml (#2465)</code>](https://github.com/AOMediaCodec/libavif/commit/4932ace4aadd56c9f98fe2376a089a023822b1e0)
+- [ ] [<code>Fix possible null pointer dereference and unintended integer division (#2469)</code>](https://github.com/AOMediaCodec/libavif/commit/71ba1850486a09297a84d7edcadb265c22e1f29a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
