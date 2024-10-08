@@ -3033,6 +3033,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
 - [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
+- [ ] [<code>Fix for empty user default tab after creation (#628)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9fc005032c5b578fe5f360844ba5db69d870fb78)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.040 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.040...HEAD)
 
