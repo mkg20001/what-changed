@@ -150,6 +150,10 @@
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [ce300838d95c5955423eedcac8b05589b14a8c52 → HEAD](https://github.com/canonical/firmware-updater/compare/ce300838d95c5955423eedcac8b05589b14a8c52...HEAD)
 
 - [ ] [<code>Add instructions on how to report security issues</code>](https://github.com/canonical/firmware-updater/commit/8f6f8f7b944466e78bbd3dadca76590a4a80e61b)
+- [ ] [<code>feat: make user agent string comply with LVFS requirements</code>](https://github.com/canonical/firmware-updater/commit/a80e666daca2fd973a18ae216b8899196da66c7c)
+- [ ] [<code>chore: update mocks</code>](https://github.com/canonical/firmware-updater/commit/8a48788ae1805deac416a5640abc36e0ac801770)
+- [ ] [<code>fix: make _userAgent mutable</code>](https://github.com/canonical/firmware-updater/commit/3b361712a141a54c466287215e31ca7a42f7a5d2)
+- [ ] [<code>fix: remove trailing newlines from uname output</code>](https://github.com/canonical/firmware-updater/commit/d6e3ed5e9891c6d4fd27047eabf533475984b908)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -1873,6 +1877,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove testing::Environment leftover (#2471)</code>](https://github.com/AOMediaCodec/libavif/commit/21824c1b370b7ae8361cc3a1ed945c4cbc8e6629)
 - [ ] [<code>Add missing license metadata in tests/data/README (#2467)</code>](https://github.com/AOMediaCodec/libavif/commit/69e57b6951bbe6dce85311572c20989b90aa8a51)
+- [ ] [<code>Bump AVM to research-8.0.0 (#2437)</code>](https://github.com/AOMediaCodec/libavif/commit/5ae2a41593c0e70db52d5bf792aa374a752042b4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Do not allow libyuv to find_package JPEG (#2473)</code>](https://github.com/AOMediaCodec/libavif/commit/df2f379cdd8e2c438e4af7b50f1f32994f685792)
+  - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>android_jni: Set threads to 2 instead of CPU count</code>](https://github.com/AOMediaCodec/libavif/commit/a12f2037ac1a2555bdff3cef373d26e0e53ad969)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2608,6 +2617,7 @@
 - [ ] [<code>state/Interface: improve netdef ID handling with NetworkManager</code>](https://github.com/canonical/netplan/commit/ded34bad0e8c30159f91f6e8aa940f719a11284f)
 - [ ] [<code>state/SSID: handle non-ascii SSIDs</code>](https://github.com/canonical/netplan/commit/54d59d17c750f6098a29f9e2e54d8615c46f28fc)
 - [ ] [<code>state: get the SSID from NM if it's the backend</code>](https://github.com/canonical/netplan/commit/ff65879a91ca92b094933b4e3d6399b8125b1abd)
+- [ ] [<code>wpa_supplicant: add ExecReload to the service unit</code>](https://github.com/canonical/netplan/commit/88202316a523409ca5f28b41c8c530dd731769b7)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
