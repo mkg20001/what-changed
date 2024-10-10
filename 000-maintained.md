@@ -2622,6 +2622,7 @@
 - [ ] [<code>state/SSID: handle non-ascii SSIDs</code>](https://github.com/canonical/netplan/commit/54d59d17c750f6098a29f9e2e54d8615c46f28fc)
 - [ ] [<code>state: get the SSID from NM if it's the backend</code>](https://github.com/canonical/netplan/commit/ff65879a91ca92b094933b4e3d6399b8125b1abd)
 - [ ] [<code>wpa_supplicant: add ExecReload to the service unit</code>](https://github.com/canonical/netplan/commit/88202316a523409ca5f28b41c8c530dd731769b7)
+- [ ] [<code>include: fix apidoc warnings about undocumented parameters</code>](https://github.com/canonical/netplan/commit/cfac5eb95d67b2db0f5cb2cd72adc0de0960f521)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
