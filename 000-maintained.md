@@ -1882,6 +1882,7 @@
 - [ ] [<code>Do not allow libyuv to find_package JPEG (#2473)</code>](https://github.com/AOMediaCodec/libavif/commit/df2f379cdd8e2c438e4af7b50f1f32994f685792)
   - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>android_jni: Set threads to 2 instead of CPU count</code>](https://github.com/AOMediaCodec/libavif/commit/a12f2037ac1a2555bdff3cef373d26e0e53ad969)
+- [ ] [<code>Update parseAV2SequenceHeader() for AVM CWG-E103</code>](https://github.com/AOMediaCodec/libavif/commit/eb02b2ec52df5c0f50b71fbc51321c5ce435aaca)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
