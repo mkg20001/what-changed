@@ -1922,6 +1922,10 @@
 - [ ] [<code>fix possible clang compile error in AARCH</code>](https://github.com/lxc/lxc/commit/83bb86888375c5bfb894ce4232b26b00959581ac)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>meson.build: add -ffat-lto-objects</code>](https://github.com/lxc/lxc/commit/36497cc90f304d561285bdadf38ab48fa263ce6f)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: drop suggest-attribute=noreturn build option</code>](https://github.com/lxc/lxc/commit/a8ca9f5f31da93636901778c88af5c93ba14406f)
+  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add suppport for PuzzleFS images in the oci template</code>](https://github.com/lxc/lxc/commit/3764c19967286a9cb193485fadec3181c62fe241)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
