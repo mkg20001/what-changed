@@ -205,6 +205,7 @@
 - [ ] [<code>build: Update dependencies minor versions</code>](https://github.com/krille-chan/fluffychat/commit/1540464c52759cafc8812833d4aded7e1238f543)
 - [ ] [<code>build: Update dart olm to 2.0.4</code>](https://github.com/krille-chan/fluffychat/commit/4afb5eb466d7a025dd29a4c9aea5f8d0c76e4715)
 - [ ] [<code>build: Update olm sha in pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/a2cc1bc5b1627837642ceda93a42298ab2ba86a1)
+- [ ] [<code>chore: Improve read marker design</code>](https://github.com/krille-chan/fluffychat/commit/694bc488fd6b86c44804d9948a9672cf0438b67d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -253,6 +254,7 @@
 - [ ] [<code>build: Update dependencies minor versions</code>](https://github.com/krille-chan/fluffychat/commit/1540464c52759cafc8812833d4aded7e1238f543)
 - [ ] [<code>build: Update dart olm to 2.0.4</code>](https://github.com/krille-chan/fluffychat/commit/4afb5eb466d7a025dd29a4c9aea5f8d0c76e4715)
 - [ ] [<code>build: Update olm sha in pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/a2cc1bc5b1627837642ceda93a42298ab2ba86a1)
+- [ ] [<code>chore: Improve read marker design</code>](https://github.com/krille-chan/fluffychat/commit/694bc488fd6b86c44804d9948a9672cf0438b67d)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
