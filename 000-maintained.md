@@ -207,6 +207,11 @@
 - [ ] [<code>build: Update olm sha in pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/a2cc1bc5b1627837642ceda93a42298ab2ba86a1)
 - [ ] [<code>chore: Improve read marker design</code>](https://github.com/krille-chan/fluffychat/commit/694bc488fd6b86c44804d9948a9672cf0438b67d)
 - [ ] [<code>feat: Display warning banner on unverified devices</code>](https://github.com/krille-chan/fluffychat/commit/d8acd92023dc38b59fbd121c820ef267a0514a1e)
+- [ ] [<code>refactor: Improve delete device UX flow</code>](https://github.com/krille-chan/fluffychat/commit/d14698ee942660551388f6308ce5706a1e8d3704)
+- [ ] [<code>chore: Nicer batch for power level roles</code>](https://github.com/krille-chan/fluffychat/commit/05d5577a7b0c7648944e1bfc0637f00b82d4a998)
+- [ ] [<code>refactor: Better future loading dialog without flickering</code>](https://github.com/krille-chan/fluffychat/commit/831adceecaa16b4ef2e978a6bcedaf6d59dbb6be)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up powerlevel role badges</code>](https://github.com/krille-chan/fluffychat/commit/d78c45a13d31e93bd537de01bdac45797834728f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -257,6 +262,11 @@
 - [ ] [<code>build: Update olm sha in pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/a2cc1bc5b1627837642ceda93a42298ab2ba86a1)
 - [ ] [<code>chore: Improve read marker design</code>](https://github.com/krille-chan/fluffychat/commit/694bc488fd6b86c44804d9948a9672cf0438b67d)
 - [ ] [<code>feat: Display warning banner on unverified devices</code>](https://github.com/krille-chan/fluffychat/commit/d8acd92023dc38b59fbd121c820ef267a0514a1e)
+- [ ] [<code>refactor: Improve delete device UX flow</code>](https://github.com/krille-chan/fluffychat/commit/d14698ee942660551388f6308ce5706a1e8d3704)
+- [ ] [<code>chore: Nicer batch for power level roles</code>](https://github.com/krille-chan/fluffychat/commit/05d5577a7b0c7648944e1bfc0637f00b82d4a998)
+- [ ] [<code>refactor: Better future loading dialog without flickering</code>](https://github.com/krille-chan/fluffychat/commit/831adceecaa16b4ef2e978a6bcedaf6d59dbb6be)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up powerlevel role badges</code>](https://github.com/krille-chan/fluffychat/commit/d78c45a13d31e93bd537de01bdac45797834728f)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1679,96 +1689,8 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.1.0 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.1.0...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.1.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.1.1...HEAD)
 
-- [ ] [<code>Re-enable AVIF_VERSION_DEVEL (#2255)</code>](https://github.com/AOMediaCodec/libavif/commit/ffae925a8b0a0e9c84c322893c88a79bfb1b2680)
-- [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/53fe96de1b7707fe830d213828cfaebd71793a8a)
-- [ ] [<code>Add the "AVIF_API AVIF_NODISCARD" fix to changelog</code>](https://github.com/AOMediaCodec/libavif/commit/8cb9cb78caa143bb06ed0a4220c75c2d49e8eef4)
-- [ ] [<code>Remove the docker-based test (#2262)</code>](https://github.com/AOMediaCodec/libavif/commit/ace694e6a000cbfcbf4879b8908afcda21993bbd)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Rename Googletest to GTest (#2263)</code>](https://github.com/AOMediaCodec/libavif/commit/7adf4073f86e8454f2e9ef6733b0cbe8c98a70f1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Read byte-unaligned infe in meta v1 (#2268)</code>](https://github.com/AOMediaCodec/libavif/commit/63f10971186e3dd270b90676da46211367dc8498)
-- [ ] [<code>Reapply "Put AVIF_NODISCARD after AVIF_API"</code>](https://github.com/AOMediaCodec/libavif/commit/da268fb447f3b9998ee00af7121f740d8c890fe7)
-- [ ] [<code>fix: do not disable CONFIG_RUNTIME_CPU_DETECT in cross-arch aom builds</code>](https://github.com/AOMediaCodec/libavif/commit/e54b5c2908e74b5d7d090df53919f7ba52cd856f)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Only INSTALL_INTERFACE for static. (#2269)</code>](https://github.com/AOMediaCodec/libavif/commit/1a1c778f8e0b7ecdf3af9e59a6f33eb4d7d3900e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Support compiling with clang-cl</code>](https://github.com/AOMediaCodec/libavif/commit/d122de6d0ffae1518615145b5e77f396904b081d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add clang-cl CI (#2270)</code>](https://github.com/AOMediaCodec/libavif/commit/894e75bc294c995dab42b489c87d546af91e51ad)
-- [ ] [<code>Change AVIF_ENABLE_EXPERIMENTAL_AVIR to ..._METAV1</code>](https://github.com/AOMediaCodec/libavif/commit/4c5ed14a51e181f2624430768b76ad1b644d9848)
-- [ ] [<code>setup-linux: Use -y with apt commands (#2280)</code>](https://github.com/AOMediaCodec/libavif/commit/722f96c6b120dbe94811b2333cd28d255ad8d8e4)
-- [ ] [<code>android ci: Run on ubuntu-latest (#2283)</code>](https://github.com/AOMediaCodec/libavif/commit/81aa1ceaede520f38069f15e59c0171c72e3b71a)
-- [ ] [<code>Update gainmap metadata to current ISO 21496-1 draft</code>](https://github.com/AOMediaCodec/libavif/commit/669bea7e5bdc089e864ab8da94760270a80875cd)
-- [ ] [<code>avifpng.c: Print avif->width, avif->height with %u</code>](https://github.com/AOMediaCodec/libavif/commit/031784ad50f3371056716b339bbc21f8e580fbd0)
-- [ ] [<code>Remove the MSVC /wd4996 option</code>](https://github.com/AOMediaCodec/libavif/commit/5b207c0c337c121e7742bcf82938e948780e72c2)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Move the project() call earlier</code>](https://github.com/AOMediaCodec/libavif/commit/00157e157c1bf359d3652d7bb3e87cee6c8d283a)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Set Policy CMP0169 to OLD</code>](https://github.com/AOMediaCodec/libavif/commit/a64d557f256b863680f3832b9af52e6ed95db79f)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Set C++ version to 17 when using [[no_discard]] (#2291)</code>](https://github.com/AOMediaCodec/libavif/commit/920f70f428529efc1fb1f098af32f83fb3f6e1d1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>cmake: Only search for ASM_NASM language on x86_64 platforms</code>](https://github.com/AOMediaCodec/libavif/commit/c4910aa1604ed5a655a6afd184c72ca549277018)
-- [ ] [<code>Change egor-tensin/vs-shell to ilammy/msvc-dev-cmd</code>](https://github.com/AOMediaCodec/libavif/commit/132b02c5b1b45948fe4ac4a3ca943658eee55d41)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Run cmake-format on CMakeLists.txt</code>](https://github.com/AOMediaCodec/libavif/commit/7d9522d3925cdfff7852f025ee97f07f44651c24)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>avifstreamtest.cc: Remove three unused variables</code>](https://github.com/AOMediaCodec/libavif/commit/fb6e03eec4ee72f4cda46fe2bb89d9cd0dfda9f7)
-- [ ] [<code>avifjpeggainmaptest.cc: Remove an unused parameter</code>](https://github.com/AOMediaCodec/libavif/commit/ee674c89dc8d03b829aec0838c6205ea9fcc5daf)
-- [ ] [<code>avifgainmaputil: Fix MSVC type conversion warnings</code>](https://github.com/AOMediaCodec/libavif/commit/1d4b04d2172928b20c8fc1fe4113c5d64c691d37)
-- [ ] [<code>Use /std:clatest with MSVC, remove -Wunused-result</code>](https://github.com/AOMediaCodec/libavif/commit/52368631aa095b2b5e5667396922b31f4fc06b9f)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fix some clang-cl warnings. (#2275)</code>](https://github.com/AOMediaCodec/libavif/commit/6d5341d9be6b6cac67dd90742c520b35ed0848c8)
-- [ ] [<code>Revert "Put AVIF_NODISCARD after AVIF_API" again (#2298)</code>](https://github.com/AOMediaCodec/libavif/commit/03acd65314fe29e6627cf4eab752819f6ee15d74)
-- [ ] [<code>Move gainmap function definitions to gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/4a4ff640088063fdf0d33164f6aa380777492f5a)
-- [ ] [<code>Link Sample Transform tests with avif_internal lib</code>](https://github.com/AOMediaCodec/libavif/commit/d8f09df4d34067b4d841612167e5910bfb3f92b3)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Revert "Move gainmap function definitions to gainmap.c"</code>](https://github.com/AOMediaCodec/libavif/commit/25b0f65f51f9142b3373fa7f668a4d96df0947e1)
-- [ ] [<code>ci-unix-shared-local: Enable experimental features</code>](https://github.com/AOMediaCodec/libavif/commit/4e51a7b2780d161720b4222311ab366fe4f0f0bb)
-- [ ] [<code>Replace direct use of aom with ${AOM_PACKAGE_NAME}</code>](https://github.com/AOMediaCodec/libavif/commit/4ebc04420121fc91002ef958f032b6e129afd7ba)
-- [ ] [<code>Don't add avif_obj's object files to avif_apps_obj</code>](https://github.com/AOMediaCodec/libavif/commit/676a6cb82c0261cf5474c086f8e94f0f65ad4645)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Clarify the definition of AVIF_USE_CXX. (#2290)</code>](https://github.com/AOMediaCodec/libavif/commit/3640a3ae3dd0082301c43b3d4d182714a06662d8)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Update grid gainmap test files. (#2316)</code>](https://github.com/AOMediaCodec/libavif/commit/c1cb0d79d6f8b5952c3c14fac232eec4742eb960)
-- [ ] [<code>Use CMake macro for avifincrtest (#2317)</code>](https://github.com/AOMediaCodec/libavif/commit/ddd98cf6cd4779d93679f568867d85cb980e5b46)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Run cmake-format</code>](https://github.com/AOMediaCodec/libavif/commit/1b9cced4bf884eebcd4efea727e7eeabe6b364fe)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Update the cmake-format command line</code>](https://github.com/AOMediaCodec/libavif/commit/656b5e2a4c2d5126005b038e967bff96dc453f70)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code> Fix "No known features for CXX compiler" CMake error (#2302)</code>](https://github.com/AOMediaCodec/libavif/commit/9f8d3ccb1d0502dd3e17ccca1fbfceedc02290e1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>fix: link against transitive libaom library dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/f086d9857f689144affb7625be8acb9788cfea65)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>avifgainmaputil: Fix MSVC warnings C4244 on enum</code>](https://github.com/AOMediaCodec/libavif/commit/e76e1d6aba89bab1fef5976af2c3fd25ff3bad82)
-- [ ] [<code>Fix AddOperator() in sato test (#2329)</code>](https://github.com/AOMediaCodec/libavif/commit/71af92f575362de8f4f2e0bf94207baa55791f0d)
-- [ ] [<code>Do not set output args on MetaFindAlphaItem() err (#2330)</code>](https://github.com/AOMediaCodec/libavif/commit/91bf89579eec7673ab66b55ce067e5ce022297a9)
-- [ ] [<code>Copy avif.dll to tests binary directory on Windows</code>](https://github.com/AOMediaCodec/libavif/commit/65a37e61dbad8326ad624541142e12ee11492421)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Provide both avifincrtest_helpers{_internal}</code>](https://github.com/AOMediaCodec/libavif/commit/f4c99fb5854d957edee9135615fe95be318d9660)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fix out-of-order dimg grid associations (#2312)</code>](https://github.com/AOMediaCodec/libavif/commit/40b5589b003ca11a63572a470ac8744404fec2f9)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Detect iref repetition before ItemReadAndParse() (#2315)</code>](https://github.com/AOMediaCodec/libavif/commit/d591bb295be9d6f5274b2ac5d87794caa032980c)
-- [ ] [<code>Cast op to uint8_t in avifsampletransformtest.cc (#2331)</code>](https://github.com/AOMediaCodec/libavif/commit/d1f5e66cd870ff32b80d57a8b8d6389f93c35637)
-- [ ] [<code>avifpng.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/227293d51f5b9de39975f9add2c5fe01c5835448)
-- [ ] [<code>read.c: Declare alphaCategory as avifItemCategory</code>](https://github.com/AOMediaCodec/libavif/commit/ead9392000a438fe89f8b77b04ec32e6ce77a3f0)
-- [ ] [<code>Work around the bug that aom.pc always has -lm</code>](https://github.com/AOMediaCodec/libavif/commit/5125ca214f0ce6e49c58d22b5c6d400bab376f18)
-- [ ] [<code>Remove the unused macro SUBSAMPLE</code>](https://github.com/AOMediaCodec/libavif/commit/d486dadc21ba4ce45460da0787d081bb24ddb70c)
-- [ ] [<code>Fix Clang's -Wformat warnings</code>](https://github.com/AOMediaCodec/libavif/commit/2eb35fc3d68511bf705c52d9c7f9c36c465181f3)
-- [ ] [<code>Declare ScalePlane_16() in libyuv/scale.h</code>](https://github.com/AOMediaCodec/libavif/commit/076a4556a450559b98c28acc4e3f96a5a34675f9)
-- [ ] [<code>Fix warnings about avifSampleTableGetImageDelta()</code>](https://github.com/AOMediaCodec/libavif/commit/3ce89ffec7a6d64e6d6a9b82bb3a60d58260797b)
-- [ ] [<code>v1.1.1</code>](https://github.com/AOMediaCodec/libavif/commit/bb24db03cd99befe09c87b602e36f24d75a980d1)
-  - <sub>Tags: <code>v1.1.1</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/175626239f501902b7eb6fccc81f971a58ae6fca)
 - [ ] [<code>Add ci-windows-shared-local.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3bd4c0f2647a0bedad773c039391c9840ca51cfc)
 - [ ] [<code>libjpeg: Pass -DWITH_CRT_DLL=ON to cmake</code>](https://github.com/AOMediaCodec/libavif/commit/ecf700f6fed742b6abc231242ca055ffed6bea37)
