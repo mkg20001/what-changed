@@ -1811,6 +1811,9 @@
   - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>android_jni: Set threads to 2 instead of CPU count</code>](https://github.com/AOMediaCodec/libavif/commit/a12f2037ac1a2555bdff3cef373d26e0e53ad969)
 - [ ] [<code>Update parseAV2SequenceHeader() for AVM CWG-E103</code>](https://github.com/AOMediaCodec/libavif/commit/eb02b2ec52df5c0f50b71fbc51321c5ce435aaca)
+- [ ] [<code>Fix build errors for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/fb2dcebb501ad1759f63ee04011d67853bed8840)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add recommended NDK revision for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/2c36aed375fff68611641b57d919b191f33431d5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2553,6 +2556,8 @@
 - [ ] [<code>state: get the SSID from NM if it's the backend</code>](https://github.com/canonical/netplan/commit/ff65879a91ca92b094933b4e3d6399b8125b1abd)
 - [ ] [<code>wpa_supplicant: add ExecReload to the service unit</code>](https://github.com/canonical/netplan/commit/88202316a523409ca5f28b41c8c530dd731769b7)
 - [ ] [<code>include: fix apidoc warnings about undocumented parameters</code>](https://github.com/canonical/netplan/commit/cfac5eb95d67b2db0f5cb2cd72adc0de0960f521)
+- [ ] [<code>networkmanager: add support for stable-ssid MAC option</code>](https://github.com/canonical/netplan/commit/83a8d8cc6f27cb001b6f81b5c59a47bf980f1029)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
