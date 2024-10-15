@@ -1861,6 +1861,7 @@
 - [ ] [<code>Add suppport for PuzzleFS images in the oci template</code>](https://github.com/lxc/lxc/commit/3764c19967286a9cb193485fadec3181c62fe241)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>create_run_template: don't use txtuid and txtguid out of scope</code>](https://github.com/lxc/lxc/commit/d50ee6f7c4b4bf827ddc9a1314eb9a2d69b5bc2c)
+- [ ] [<code>Avoid null pointer dereference when using shared rootfs.</code>](https://github.com/lxc/lxc/commit/d5c2d1efff92b2b992f10b29bd459a4b07875025)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
