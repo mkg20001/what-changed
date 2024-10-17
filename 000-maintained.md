@@ -2923,6 +2923,12 @@
 
 #### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/5.11...HEAD)
 
+> Dropped steam - no appropriate URL found OrderedDict([('attr_path', 'steam'), ('home_url', 'https://store.steampowered.com/'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped steam-run - no appropriate URL found OrderedDict([('attr_path', 'steam-run'), ('home_url', 'https://store.steampowered.com/'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped steam-unwrapped - no appropriate URL found OrderedDict([('attr_path', 'steam-unwrapped'), ('home_url', 'https://store.steampowered.com/'), ('src_url', 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz'), ('urls', ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.10.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.10.0...HEAD)
 
