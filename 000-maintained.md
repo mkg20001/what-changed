@@ -297,6 +297,10 @@
 - [ ] [<code>incusd/instance/lxc: Remove restrictions on /run</code>](https://github.com/lxc/incus/commit/8483614debd5c6d49b67dd1f681dd0e61c5f39a8)
 - [ ] [<code>incus-simplestreams list -f json: output field names. fixes lxc#1308</code>](https://github.com/lxc/incus/commit/8c8a6da4e7b0dc1f306dfe5c680105394d1d7d94)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Add timeout for DNS query</code>](https://github.com/lxc/incus/commit/14bc0119163e6c464898f1a970f1779b7c874fed)
+- [ ] [<code>incusd/db/profiles: Support config caching</code>](https://github.com/lxc/incus/commit/06b59879623c03cf3e7c3b7cbd23df5b3ec82467)
+- [ ] [<code>incusd: Update calls to profile ToAPI</code>](https://github.com/lxc/incus/commit/8f46deddeeadb68218d942cd8521259e278b241a)
+- [ ] [<code>incusd/cluster/profiles: Fix import shadowing</code>](https://github.com/lxc/incus/commit/8261a78dd1134a7a41e704361b271b328c05388a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1689,6 +1693,10 @@
 - [ ] [<code>incusd/instance/lxc: Remove restrictions on /run</code>](https://github.com/lxc/incus/commit/8483614debd5c6d49b67dd1f681dd0e61c5f39a8)
 - [ ] [<code>incus-simplestreams list -f json: output field names. fixes lxc#1308</code>](https://github.com/lxc/incus/commit/8c8a6da4e7b0dc1f306dfe5c680105394d1d7d94)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Add timeout for DNS query</code>](https://github.com/lxc/incus/commit/14bc0119163e6c464898f1a970f1779b7c874fed)
+- [ ] [<code>incusd/db/profiles: Support config caching</code>](https://github.com/lxc/incus/commit/06b59879623c03cf3e7c3b7cbd23df5b3ec82467)
+- [ ] [<code>incusd: Update calls to profile ToAPI</code>](https://github.com/lxc/incus/commit/8f46deddeeadb68218d942cd8521259e278b241a)
+- [ ] [<code>incusd/cluster/profiles: Fix import shadowing</code>](https://github.com/lxc/incus/commit/8261a78dd1134a7a41e704361b271b328c05388a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1818,6 +1826,7 @@
 - [ ] [<code>Fix build errors for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/fb2dcebb501ad1759f63ee04011d67853bed8840)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add recommended NDK revision for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/2c36aed375fff68611641b57d919b191f33431d5)
+- [ ] [<code>Make sure the gain map metadata is towards the start of the file. (#2479)</code>](https://github.com/AOMediaCodec/libavif/commit/048488e0588b0543d122ec95ac1a4f54cc73285a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3089,6 +3098,7 @@
 - [ ] [<code>lexer: emit comment and template statement block tokens</code>](https://github.com/jow-/ucode/commit/855854f6c2ae2e667f6bbfd5f67caab32b4ebf86)
 - [ ] [<code>lexer: make api functions public</code>](https://github.com/jow-/ucode/commit/2b2e732b6081afb473a2cc698fd4397260b0960c)
 - [ ] [<code>vallist: more thoroughly check for trailing garbage after numeric string</code>](https://github.com/jow-/ucode/commit/4134e7182624b37bf17d91fc89b500f5cb443187)
+- [ ] [<code>types: fix potential use after free on adding keys during iteration</code>](https://github.com/jow-/ucode/commit/736d4508420222321468feedd60e7cb5063b574d)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
