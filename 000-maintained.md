@@ -295,6 +295,8 @@
 - [ ] [<code>fix: fix slice init length</code>](https://github.com/lxc/incus/commit/d9fdfc543dd2e14154fbe4a06f648b050f2657ba)
 - [ ] [<code>internal/instance: fix live update VM's limits.memory configuration when use a percentage value</code>](https://github.com/lxc/incus/commit/7c429b8317e45ad6502683028a45df01e64dcd05)
 - [ ] [<code>incusd/instance/lxc: Remove restrictions on /run</code>](https://github.com/lxc/incus/commit/8483614debd5c6d49b67dd1f681dd0e61c5f39a8)
+- [ ] [<code>incus-simplestreams list -f json: output field names. fixes lxc#1308</code>](https://github.com/lxc/incus/commit/8c8a6da4e7b0dc1f306dfe5c680105394d1d7d94)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1685,6 +1687,8 @@
 - [ ] [<code>fix: fix slice init length</code>](https://github.com/lxc/incus/commit/d9fdfc543dd2e14154fbe4a06f648b050f2657ba)
 - [ ] [<code>internal/instance: fix live update VM's limits.memory configuration when use a percentage value</code>](https://github.com/lxc/incus/commit/7c429b8317e45ad6502683028a45df01e64dcd05)
 - [ ] [<code>incusd/instance/lxc: Remove restrictions on /run</code>](https://github.com/lxc/incus/commit/8483614debd5c6d49b67dd1f681dd0e61c5f39a8)
+- [ ] [<code>incus-simplestreams list -f json: output field names. fixes lxc#1308</code>](https://github.com/lxc/incus/commit/8c8a6da4e7b0dc1f306dfe5c680105394d1d7d94)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3084,6 +3088,7 @@
 - [ ] [<code>lexer: improve token position reporting</code>](https://github.com/jow-/ucode/commit/328a50ff82c9bf089dcd381d404dece683ef54d2)
 - [ ] [<code>lexer: emit comment and template statement block tokens</code>](https://github.com/jow-/ucode/commit/855854f6c2ae2e667f6bbfd5f67caab32b4ebf86)
 - [ ] [<code>lexer: make api functions public</code>](https://github.com/jow-/ucode/commit/2b2e732b6081afb473a2cc698fd4397260b0960c)
+- [ ] [<code>vallist: more thoroughly check for trailing garbage after numeric string</code>](https://github.com/jow-/ucode/commit/4134e7182624b37bf17d91fc89b500f5cb443187)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
