@@ -301,6 +301,7 @@
 - [ ] [<code>incusd/db/profiles: Support config caching</code>](https://github.com/lxc/incus/commit/06b59879623c03cf3e7c3b7cbd23df5b3ec82467)
 - [ ] [<code>incusd: Update calls to profile ToAPI</code>](https://github.com/lxc/incus/commit/8f46deddeeadb68218d942cd8521259e278b241a)
 - [ ] [<code>incusd/cluster/profiles: Fix import shadowing</code>](https://github.com/lxc/incus/commit/8261a78dd1134a7a41e704361b271b328c05388a)
+- [ ] [<code>incusd/instance/qemu: Don't fail on console retrival issue</code>](https://github.com/lxc/incus/commit/c94bc7fce07d7ff7d3c57292c327386e4e5198ef)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1697,6 +1698,7 @@
 - [ ] [<code>incusd/db/profiles: Support config caching</code>](https://github.com/lxc/incus/commit/06b59879623c03cf3e7c3b7cbd23df5b3ec82467)
 - [ ] [<code>incusd: Update calls to profile ToAPI</code>](https://github.com/lxc/incus/commit/8f46deddeeadb68218d942cd8521259e278b241a)
 - [ ] [<code>incusd/cluster/profiles: Fix import shadowing</code>](https://github.com/lxc/incus/commit/8261a78dd1134a7a41e704361b271b328c05388a)
+- [ ] [<code>incusd/instance/qemu: Don't fail on console retrival issue</code>](https://github.com/lxc/incus/commit/c94bc7fce07d7ff7d3c57292c327386e4e5198ef)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3099,6 +3101,7 @@
 - [ ] [<code>lexer: make api functions public</code>](https://github.com/jow-/ucode/commit/2b2e732b6081afb473a2cc698fd4397260b0960c)
 - [ ] [<code>vallist: more thoroughly check for trailing garbage after numeric string</code>](https://github.com/jow-/ucode/commit/4134e7182624b37bf17d91fc89b500f5cb443187)
 - [ ] [<code>types: fix potential use after free on adding keys during iteration</code>](https://github.com/jow-/ucode/commit/736d4508420222321468feedd60e7cb5063b574d)
+- [ ] [<code>socket: provide local definition of `struct fanout_args`</code>](https://github.com/jow-/ucode/commit/79ccd9cf73504ce541217d823071c386170ebd5f)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
