@@ -310,6 +310,10 @@
 - [ ] [<code>incusd/network/physical: Handle changes in parent value</code>](https://github.com/lxc/incus/commit/7893c84a1314a3919a924f67b1a023a88be3e373)
 - [ ] [<code>incus: Fix display of current project in projects list</code>](https://github.com/lxc/incus/commit/ad7cfce64fbdd79937d43e9aab755e364217859e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin/sql: Add support for `--format`</code>](https://github.com/lxc/incus/commit/66598dc64ee101849e3c532b85557ca2aee3a58c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/aa03bba04a9784392008e7ce347d624567559f6c)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1713,6 +1717,10 @@
 - [ ] [<code>incusd/network/physical: Handle changes in parent value</code>](https://github.com/lxc/incus/commit/7893c84a1314a3919a924f67b1a023a88be3e373)
 - [ ] [<code>incus: Fix display of current project in projects list</code>](https://github.com/lxc/incus/commit/ad7cfce64fbdd79937d43e9aab755e364217859e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin/sql: Add support for `--format`</code>](https://github.com/lxc/incus/commit/66598dc64ee101849e3c532b85557ca2aee3a58c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/aa03bba04a9784392008e7ce347d624567559f6c)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
