@@ -320,6 +320,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/aa03bba04a9784392008e7ce347d624567559f6c)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/internal/server/instance/drivers: Add support for Chimera Linux edk2 pkg file names</code>](https://github.com/lxc/incus/commit/ea58dac1d42250b257ed959118c76d50831faaa6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1727,6 +1729,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/aa03bba04a9784392008e7ce347d624567559f6c)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/internal/server/instance/drivers: Add support for Chimera Linux edk2 pkg file names</code>](https://github.com/lxc/incus/commit/ea58dac1d42250b257ed959118c76d50831faaa6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
