@@ -320,6 +320,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/aa03bba04a9784392008e7ce347d624567559f6c)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/common: Cleanup volatile on device add failure</code>](https://github.com/lxc/incus/commit/b2c717e6e3c8addab844fa5860da2b4a831e2216)
 - [ ] [<code>incusd/internal/server/instance/drivers: Add support for Chimera Linux edk2 pkg file names</code>](https://github.com/lxc/incus/commit/ea58dac1d42250b257ed959118c76d50831faaa6)
   - <sub>Keywords: <code>bin</code></sub>
 
@@ -1729,6 +1730,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/aa03bba04a9784392008e7ce347d624567559f6c)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/common: Cleanup volatile on device add failure</code>](https://github.com/lxc/incus/commit/b2c717e6e3c8addab844fa5860da2b4a831e2216)
 - [ ] [<code>incusd/internal/server/instance/drivers: Add support for Chimera Linux edk2 pkg file names</code>](https://github.com/lxc/incus/commit/ea58dac1d42250b257ed959118c76d50831faaa6)
   - <sub>Keywords: <code>bin</code></sub>
 
