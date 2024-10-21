@@ -217,6 +217,12 @@
 - [ ] [<code>feat: Nicer room creation UI</code>](https://github.com/krille-chan/fluffychat/commit/3faf6df558784a5722b40af6777e1b6ffd2e8032)
 - [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/31907f74de43c63546a02d1183d46f353817d814)
 - [ ] [<code>docs: fix snapstore badge on website</code>](https://github.com/krille-chan/fluffychat/commit/8c946815fb7ad3e83c318d53c2daa318b850f586)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/32d868b5bdbaf41859fa29fd36e8884760279189)
+- [ ] [<code>feat: Add default chat wallpaper</code>](https://github.com/krille-chan/fluffychat/commit/7d8369ab3043c31cccace793e568e73d21f0b6e5)
+- [ ] [<code>Revert "feat: Add default chat wallpaper"</code>](https://github.com/krille-chan/fluffychat/commit/4857684655f8409de27b03d6280c605118221704)
+- [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/4ec70bd25cff27cc7ec9b5125415edef68f66ef3)
+- [ ] [<code>Revert "chore: Follow up new chat design"</code>](https://github.com/krille-chan/fluffychat/commit/728854569ce1224396681b60ce07cc8bfc7e129f)
+- [ ] [<code>chore: Slightly update chat colors</code>](https://github.com/krille-chan/fluffychat/commit/fcc43e3328eec79f5b087748b414d4d186bb41d3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -277,6 +283,12 @@
 - [ ] [<code>feat: Nicer room creation UI</code>](https://github.com/krille-chan/fluffychat/commit/3faf6df558784a5722b40af6777e1b6ffd2e8032)
 - [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/31907f74de43c63546a02d1183d46f353817d814)
 - [ ] [<code>docs: fix snapstore badge on website</code>](https://github.com/krille-chan/fluffychat/commit/8c946815fb7ad3e83c318d53c2daa318b850f586)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/32d868b5bdbaf41859fa29fd36e8884760279189)
+- [ ] [<code>feat: Add default chat wallpaper</code>](https://github.com/krille-chan/fluffychat/commit/7d8369ab3043c31cccace793e568e73d21f0b6e5)
+- [ ] [<code>Revert "feat: Add default chat wallpaper"</code>](https://github.com/krille-chan/fluffychat/commit/4857684655f8409de27b03d6280c605118221704)
+- [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/4ec70bd25cff27cc7ec9b5125415edef68f66ef3)
+- [ ] [<code>Revert "chore: Follow up new chat design"</code>](https://github.com/krille-chan/fluffychat/commit/728854569ce1224396681b60ce07cc8bfc7e129f)
+- [ ] [<code>chore: Slightly update chat colors</code>](https://github.com/krille-chan/fluffychat/commit/fcc43e3328eec79f5b087748b414d4d186bb41d3)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1865,6 +1877,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add recommended NDK revision for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/2c36aed375fff68611641b57d919b191f33431d5)
 - [ ] [<code>Make sure the gain map metadata is towards the start of the file. (#2479)</code>](https://github.com/AOMediaCodec/libavif/commit/048488e0588b0543d122ec95ac1a4f54cc73285a)
+- [ ] [<code>Check that the gain map metadata is valid on decoding. (#2453)</code>](https://github.com/AOMediaCodec/libavif/commit/5b6fe9125c16416b99a5c2da1319670ab9df71d2)
+- [ ] [<code>Revert "Check that the gain map metadata is valid on decoding. (#2453)" (#2482)</code>](https://github.com/AOMediaCodec/libavif/commit/aa9f74068981e6d4f00abc17cf721a5555f8303c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3049,6 +3063,8 @@
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.040 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.040...HEAD)
 
+- [ ] [<code>Possible fix for failed thumbnail embedding, #626</code>](https://github.com/axcore/tartube/commit/ff76b75d474464425b2823586a44662dacabf386)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
