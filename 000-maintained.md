@@ -216,6 +216,7 @@
 - [ ] [<code>fix: Wait for room invite before open in pushhelper</code>](https://github.com/krille-chan/fluffychat/commit/0301c83f4045d494a786d1fc42838a0a74ebd2ae)
 - [ ] [<code>feat: Nicer room creation UI</code>](https://github.com/krille-chan/fluffychat/commit/3faf6df558784a5722b40af6777e1b6ffd2e8032)
 - [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/31907f74de43c63546a02d1183d46f353817d814)
+- [ ] [<code>docs: fix snapstore badge on website</code>](https://github.com/krille-chan/fluffychat/commit/8c946815fb7ad3e83c318d53c2daa318b850f586)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -275,6 +276,7 @@
 - [ ] [<code>fix: Wait for room invite before open in pushhelper</code>](https://github.com/krille-chan/fluffychat/commit/0301c83f4045d494a786d1fc42838a0a74ebd2ae)
 - [ ] [<code>feat: Nicer room creation UI</code>](https://github.com/krille-chan/fluffychat/commit/3faf6df558784a5722b40af6777e1b6ffd2e8032)
 - [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/31907f74de43c63546a02d1183d46f353817d814)
+- [ ] [<code>docs: fix snapstore badge on website</code>](https://github.com/krille-chan/fluffychat/commit/8c946815fb7ad3e83c318d53c2daa318b850f586)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
