@@ -337,6 +337,11 @@
 - [ ] [<code>incusd/instance/common: Cleanup volatile on device add failure</code>](https://github.com/lxc/incus/commit/b2c717e6e3c8addab844fa5860da2b4a831e2216)
 - [ ] [<code>incusd/internal/server/instance/drivers: Add support for Chimera Linux edk2 pkg file names</code>](https://github.com/lxc/incus/commit/ea58dac1d42250b257ed959118c76d50831faaa6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>shared: Move internal "revert" library into shared</code>](https://github.com/lxc/incus/commit/7f535f251a7b459b5898469a5676666bd09d56c6)
+- [ ] [<code>incusd/network/bgp: Only advertise networks with BGP configuration</code>](https://github.com/lxc/incus/commit/b3a1d9c2807d70409fa7f6c7a982dd32e0883572)
+- [ ] [<code>incusd/cluster: Fix resource data caching</code>](https://github.com/lxc/incus/commit/2b8b71997930d58953d0533c3463fee341f92d72)
+- [ ] [<code>incusd/cluster: Actually use YAML for resources cache</code>](https://github.com/lxc/incus/commit/2d039f99504137bed093494a19f6cfbd8573b6e5)
+- [ ] [<code>shared: Update import path for "revert" library</code>](https://github.com/lxc/incus/commit/1d8f4e73ab777c8413513d3136518a133067ec02)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1747,6 +1752,11 @@
 - [ ] [<code>incusd/instance/common: Cleanup volatile on device add failure</code>](https://github.com/lxc/incus/commit/b2c717e6e3c8addab844fa5860da2b4a831e2216)
 - [ ] [<code>incusd/internal/server/instance/drivers: Add support for Chimera Linux edk2 pkg file names</code>](https://github.com/lxc/incus/commit/ea58dac1d42250b257ed959118c76d50831faaa6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>shared: Move internal "revert" library into shared</code>](https://github.com/lxc/incus/commit/7f535f251a7b459b5898469a5676666bd09d56c6)
+- [ ] [<code>incusd/network/bgp: Only advertise networks with BGP configuration</code>](https://github.com/lxc/incus/commit/b3a1d9c2807d70409fa7f6c7a982dd32e0883572)
+- [ ] [<code>incusd/cluster: Fix resource data caching</code>](https://github.com/lxc/incus/commit/2b8b71997930d58953d0533c3463fee341f92d72)
+- [ ] [<code>incusd/cluster: Actually use YAML for resources cache</code>](https://github.com/lxc/incus/commit/2d039f99504137bed093494a19f6cfbd8573b6e5)
+- [ ] [<code>shared: Update import path for "revert" library</code>](https://github.com/lxc/incus/commit/1d8f4e73ab777c8413513d3136518a133067ec02)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
