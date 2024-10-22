@@ -223,6 +223,8 @@
 - [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/4ec70bd25cff27cc7ec9b5125415edef68f66ef3)
 - [ ] [<code>Revert "chore: Follow up new chat design"</code>](https://github.com/krille-chan/fluffychat/commit/728854569ce1224396681b60ce07cc8bfc7e129f)
 - [ ] [<code>chore: Slightly update chat colors</code>](https://github.com/krille-chan/fluffychat/commit/fcc43e3328eec79f5b087748b414d4d186bb41d3)
+- [ ] [<code>feat: Swipe to archive rooms</code>](https://github.com/krille-chan/fluffychat/commit/3f9c7f3e91f199f78f9d3a64c39e97ec10e0deed)
+- [ ] [<code>chore: Follow up dismiss room</code>](https://github.com/krille-chan/fluffychat/commit/282f45059c62971bfd9aa02a30283cbba31705b9)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -289,6 +291,8 @@
 - [ ] [<code>chore: Follow up new chat design</code>](https://github.com/krille-chan/fluffychat/commit/4ec70bd25cff27cc7ec9b5125415edef68f66ef3)
 - [ ] [<code>Revert "chore: Follow up new chat design"</code>](https://github.com/krille-chan/fluffychat/commit/728854569ce1224396681b60ce07cc8bfc7e129f)
 - [ ] [<code>chore: Slightly update chat colors</code>](https://github.com/krille-chan/fluffychat/commit/fcc43e3328eec79f5b087748b414d4d186bb41d3)
+- [ ] [<code>feat: Swipe to archive rooms</code>](https://github.com/krille-chan/fluffychat/commit/3f9c7f3e91f199f78f9d3a64c39e97ec10e0deed)
+- [ ] [<code>chore: Follow up dismiss room</code>](https://github.com/krille-chan/fluffychat/commit/282f45059c62971bfd9aa02a30283cbba31705b9)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
