@@ -346,6 +346,15 @@
 - [ ] [<code>incusd/cluster: Fix resource data caching</code>](https://github.com/lxc/incus/commit/2b8b71997930d58953d0533c3463fee341f92d72)
 - [ ] [<code>incusd/cluster: Actually use YAML for resources cache</code>](https://github.com/lxc/incus/commit/2d039f99504137bed093494a19f6cfbd8573b6e5)
 - [ ] [<code>shared: Update import path for "revert" library</code>](https://github.com/lxc/incus/commit/1d8f4e73ab777c8413513d3136518a133067ec02)
+- [ ] [<code>incusd/instance/lxc: Simplify idmapSize</code>](https://github.com/lxc/incus/commit/75b204075865002863d06036a1cba68d5d68b4bc)
+- [ ] [<code>incusd/instance/lxc: Simplify findIdmap</code>](https://github.com/lxc/incus/commit/320b8dc9392055389bb496b76ac5d18aa118291a)
+- [ ] [<code>incusd/isntance/lxc: Respect restrict.idmap.size on un-isolated containers</code>](https://github.com/lxc/incus/commit/0ca8dd5174a02b11960fae72ce7ee0d4bdcc9b91)
+- [ ] [<code>incusd/instance/lxc: Refactor findIdmap</code>](https://github.com/lxc/incus/commit/9561e903cb9ce2f7f9572909bfd106fc9d9b3679)
+- [ ] [<code>incusd/instance/lxc: Fix off by one idmap check</code>](https://github.com/lxc/incus/commit/c3dcb98076aae7995771b8cd955a50cd2fef1a9b)
+- [ ] [<code>shared: Move internal "ask" library into shared</code>](https://github.com/lxc/incus/commit/43edd4f2b0aa622065a52aa2e7f1e8334d5bcc96)
+- [ ] [<code>shared: Update import path for "ask" library</code>](https://github.com/lxc/incus/commit/803667e02de2d744b55713df9252b1e6d31ab179)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared: Add godoc comment for NewAsker</code>](https://github.com/lxc/incus/commit/ea7b9a753cc78b85a4a37cf4c143547656af06d2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1761,6 +1770,15 @@
 - [ ] [<code>incusd/cluster: Fix resource data caching</code>](https://github.com/lxc/incus/commit/2b8b71997930d58953d0533c3463fee341f92d72)
 - [ ] [<code>incusd/cluster: Actually use YAML for resources cache</code>](https://github.com/lxc/incus/commit/2d039f99504137bed093494a19f6cfbd8573b6e5)
 - [ ] [<code>shared: Update import path for "revert" library</code>](https://github.com/lxc/incus/commit/1d8f4e73ab777c8413513d3136518a133067ec02)
+- [ ] [<code>incusd/instance/lxc: Simplify idmapSize</code>](https://github.com/lxc/incus/commit/75b204075865002863d06036a1cba68d5d68b4bc)
+- [ ] [<code>incusd/instance/lxc: Simplify findIdmap</code>](https://github.com/lxc/incus/commit/320b8dc9392055389bb496b76ac5d18aa118291a)
+- [ ] [<code>incusd/isntance/lxc: Respect restrict.idmap.size on un-isolated containers</code>](https://github.com/lxc/incus/commit/0ca8dd5174a02b11960fae72ce7ee0d4bdcc9b91)
+- [ ] [<code>incusd/instance/lxc: Refactor findIdmap</code>](https://github.com/lxc/incus/commit/9561e903cb9ce2f7f9572909bfd106fc9d9b3679)
+- [ ] [<code>incusd/instance/lxc: Fix off by one idmap check</code>](https://github.com/lxc/incus/commit/c3dcb98076aae7995771b8cd955a50cd2fef1a9b)
+- [ ] [<code>shared: Move internal "ask" library into shared</code>](https://github.com/lxc/incus/commit/43edd4f2b0aa622065a52aa2e7f1e8334d5bcc96)
+- [ ] [<code>shared: Update import path for "ask" library</code>](https://github.com/lxc/incus/commit/803667e02de2d744b55713df9252b1e6d31ab179)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared: Add godoc comment for NewAsker</code>](https://github.com/lxc/incus/commit/ea7b9a753cc78b85a4a37cf4c143547656af06d2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2898,7 +2916,7 @@
 
 #### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.10.7.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.10.7.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.10.22.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.10.22.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.38.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.38.0...HEAD)
