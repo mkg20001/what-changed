@@ -126,6 +126,11 @@
 - [ ] [<code>nixos-http: use incus-specific image for unstable</code>](https://github.com/lxc/distrobuilder/commit/536b37d4dbd166a385af2e8226e2c7d5c60a6da6)
 - [ ] [<code>Add handling of ESD files</code>](https://github.com/lxc/distrobuilder/commit/bd27600036b297fb1dc8ec861e0051ea1e04cf02)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Makefile: Bump to Go 1.22.7 base</code>](https://github.com/lxc/distrobuilder/commit/f076f035c93eb99e4d6701fa690a9dace93eb23d)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/fca5ad6792833e598f72bc84aba8156360f45239)
+- [ ] [<code>sources: Remove dead code</code>](https://github.com/lxc/distrobuilder/commit/3636a40e81d404fa008509c0d06ce0c98bd91a80)
+- [ ] [<code>source: Add mkisofs support</code>](https://github.com/lxc/distrobuilder/commit/e9c6e0fe46fe19f52dc5d910ae7b75d218d2ead1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -225,6 +230,8 @@
 - [ ] [<code>chore: Slightly update chat colors</code>](https://github.com/krille-chan/fluffychat/commit/fcc43e3328eec79f5b087748b414d4d186bb41d3)
 - [ ] [<code>feat: Swipe to archive rooms</code>](https://github.com/krille-chan/fluffychat/commit/3f9c7f3e91f199f78f9d3a64c39e97ec10e0deed)
 - [ ] [<code>chore: Follow up dismiss room</code>](https://github.com/krille-chan/fluffychat/commit/282f45059c62971bfd9aa02a30283cbba31705b9)
+- [ ] [<code>build: Update flutter web auth 2 package</code>](https://github.com/krille-chan/fluffychat/commit/c76a5fd03057dd3976d3537fe42fa3afb99a53af)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -293,6 +300,8 @@
 - [ ] [<code>chore: Slightly update chat colors</code>](https://github.com/krille-chan/fluffychat/commit/fcc43e3328eec79f5b087748b414d4d186bb41d3)
 - [ ] [<code>feat: Swipe to archive rooms</code>](https://github.com/krille-chan/fluffychat/commit/3f9c7f3e91f199f78f9d3a64c39e97ec10e0deed)
 - [ ] [<code>chore: Follow up dismiss room</code>](https://github.com/krille-chan/fluffychat/commit/282f45059c62971bfd9aa02a30283cbba31705b9)
+- [ ] [<code>build: Update flutter web auth 2 package</code>](https://github.com/krille-chan/fluffychat/commit/c76a5fd03057dd3976d3537fe42fa3afb99a53af)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -363,6 +372,8 @@
 - [ ] [<code>doc/howto/instances_create: Add an example of application container</code>](https://github.com/lxc/incus/commit/870797fc6dcf8f85b773fbb66b561897c2da0e0d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Add Kubernetes to wordlist</code>](https://github.com/lxc/incus/commit/3fb83a4f52e68eba1aadb2a900ae18880c83cdd7)
+- [ ] [<code>incusd/storage_volumes_snapshots: Respect pattern on manual creation</code>](https://github.com/lxc/incus/commit/fe313ed5ebad12caf9a2ed53f7ee1202bd9121f9)
+- [ ] [<code>tests: Add test for custom storage volume snapshots pattern</code>](https://github.com/lxc/incus/commit/c3d82bf37d696040959ad1772e3bdc34776dfc90)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1795,6 +1806,8 @@
 - [ ] [<code>doc/howto/instances_create: Add an example of application container</code>](https://github.com/lxc/incus/commit/870797fc6dcf8f85b773fbb66b561897c2da0e0d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Add Kubernetes to wordlist</code>](https://github.com/lxc/incus/commit/3fb83a4f52e68eba1aadb2a900ae18880c83cdd7)
+- [ ] [<code>incusd/storage_volumes_snapshots: Respect pattern on manual creation</code>](https://github.com/lxc/incus/commit/fe313ed5ebad12caf9a2ed53f7ee1202bd9121f9)
+- [ ] [<code>tests: Add test for custom storage volume snapshots pattern</code>](https://github.com/lxc/incus/commit/c3d82bf37d696040959ad1772e3bdc34776dfc90)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2679,7 +2692,7 @@
 
 > Dropped odoo16 - no appropriate URL found OrderedDict([('attr_path', 'odoo16'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped oils-for-unix - no appropriate URL found OrderedDict([('attr_path', 'oils-for-unix'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.22.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.22.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.23.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.23.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -3206,6 +3219,7 @@
 - [ ] [<code>utils: improve vector utilities</code>](https://github.com/jow-/ucode/commit/20307eecd5a8ccbf334aaa97129e2405cd1f2b22)
 - [ ] [<code>treewide: refactor vector usage code</code>](https://github.com/jow-/ucode/commit/e5fe6b1b822bddeac7e6a6657e6c4885aef2f2d0)
 - [ ] [<code>math: removed global variable for thread safety</code>](https://github.com/jow-/ucode/commit/1f022c04d21baab91da74ee097ac018d59016fa3)
+- [ ] [<code>nl80211: cover extended feature and EHT rate info attributes</code>](https://github.com/jow-/ucode/commit/1423ad7b8411a2cb727bfd4e4f3511469abb3214)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
