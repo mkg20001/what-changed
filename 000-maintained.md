@@ -355,6 +355,14 @@
 - [ ] [<code>shared: Update import path for "ask" library</code>](https://github.com/lxc/incus/commit/803667e02de2d744b55713df9252b1e6d31ab179)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared: Add godoc comment for NewAsker</code>](https://github.com/lxc/incus/commit/ea7b9a753cc78b85a4a37cf4c143547656af06d2)
+- [ ] [<code>doc/network/resolved: Add disabling DNSSEC and DNSOverTLS</code>](https://github.com/lxc/incus/commit/8554d3dd7f30fd5b74a720ca4ba21178a406b536)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incusd/device/nic/bridged: Handle invalid configuration</code>](https://github.com/lxc/incus/commit/0d31b2a5363872ce190813ee23ddf9b7d749c40c)
+- [ ] [<code>doc/explenation/instances: Update for application containers</code>](https://github.com/lxc/incus/commit/378a0e926230bb64ee16c6a414620f0842857e03)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/howto/instances_create: Add an example of application container</code>](https://github.com/lxc/incus/commit/870797fc6dcf8f85b773fbb66b561897c2da0e0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add Kubernetes to wordlist</code>](https://github.com/lxc/incus/commit/3fb83a4f52e68eba1aadb2a900ae18880c83cdd7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1779,6 +1787,14 @@
 - [ ] [<code>shared: Update import path for "ask" library</code>](https://github.com/lxc/incus/commit/803667e02de2d744b55713df9252b1e6d31ab179)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared: Add godoc comment for NewAsker</code>](https://github.com/lxc/incus/commit/ea7b9a753cc78b85a4a37cf4c143547656af06d2)
+- [ ] [<code>doc/network/resolved: Add disabling DNSSEC and DNSOverTLS</code>](https://github.com/lxc/incus/commit/8554d3dd7f30fd5b74a720ca4ba21178a406b536)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incusd/device/nic/bridged: Handle invalid configuration</code>](https://github.com/lxc/incus/commit/0d31b2a5363872ce190813ee23ddf9b7d749c40c)
+- [ ] [<code>doc/explenation/instances: Update for application containers</code>](https://github.com/lxc/incus/commit/378a0e926230bb64ee16c6a414620f0842857e03)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/howto/instances_create: Add an example of application container</code>](https://github.com/lxc/incus/commit/870797fc6dcf8f85b773fbb66b561897c2da0e0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add Kubernetes to wordlist</code>](https://github.com/lxc/incus/commit/3fb83a4f52e68eba1aadb2a900ae18880c83cdd7)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1911,6 +1927,7 @@
 - [ ] [<code>Make sure the gain map metadata is towards the start of the file. (#2479)</code>](https://github.com/AOMediaCodec/libavif/commit/048488e0588b0543d122ec95ac1a4f54cc73285a)
 - [ ] [<code>Check that the gain map metadata is valid on decoding. (#2453)</code>](https://github.com/AOMediaCodec/libavif/commit/5b6fe9125c16416b99a5c2da1319670ab9df71d2)
 - [ ] [<code>Revert "Check that the gain map metadata is valid on decoding. (#2453)" (#2482)</code>](https://github.com/AOMediaCodec/libavif/commit/aa9f74068981e6d4f00abc17cf721a5555f8303c)
+- [ ] [<code>Add a cargo key and use it to update caches (#2485)</code>](https://github.com/AOMediaCodec/libavif/commit/209707886d95ca26bd9a9e6773eb56c6d7daf35d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
