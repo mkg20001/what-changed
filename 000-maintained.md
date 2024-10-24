@@ -19,120 +19,8 @@
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.2.1/dbeaver-ce-24.2.1-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.2.1/dbeaver-ce-24.2.1-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.0 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.0...HEAD)
+#### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
 
-- [ ] [<code>gomod: Bump to Go 1.20 minimum</code>](https://github.com/lxc/distrobuilder/commit/52d562b1a8f32c303352660d2cf527b5931fdedb)
-- [ ] [<code>Fix small logging issues</code>](https://github.com/lxc/distrobuilder/commit/1ee669bf0bb5b8d5ed5ecace8971b9ba618f2b5c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>image: Use per-test temp dirs</code>](https://github.com/lxc/distrobuilder/commit/d3b423306c837282cef012867ff97aad44f7ef1f)
-- [ ] [<code>README: Add note about minimum Go version</code>](https://github.com/lxc/distrobuilder/commit/fa2407d7b4a12ec3e2db4156b7b49cbf85746b45)
-- [ ] [<code>main: Fix VM builds when using `build-lxd` command</code>](https://github.com/lxc/distrobuilder/commit/e461155612e2db56f31df59d342c71b2adcfd1e2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>sources: Fix openeuler tests</code>](https://github.com/lxc/distrobuilder/commit/80ef457dfee351ddff64273d376d0060b371f617)
-- [ ] [<code>nixos-http: support versioned releases</code>](https://github.com/lxc/distrobuilder/commit/7f14626ab0eac1d585999c59071a2984e4b6acae)
-- [ ] [<code>managers: Rebranding Macaroni OS Package Manager</code>](https://github.com/lxc/distrobuilder/commit/1489007c7c7ea2581f2facf03eca0a8251125b8e)
-- [ ] [<code>Bump golang.org/x/crypto from v0.15.0 to v0.17.0</code>](https://github.com/lxc/distrobuilder/commit/030e44ccf1293c33f538933c4dd1a8d649b10920)
-- [ ] [<code>Bump github.com/containerd/containerd from v1.7.8 to v1.7.11</code>](https://github.com/lxc/distrobuilder/commit/cb5b475ee4bafe8949f266cd665daa8c4341cfd5)
-- [ ] [<code>sources: Fix openEuler tests</code>](https://github.com/lxc/distrobuilder/commit/05830fe592e7ca91c1d6ec527a3c5d204e6efacb)
-- [ ] [<code>main: Add missing `--sources-dir` to `build-incus` command</code>](https://github.com/lxc/distrobuilder/commit/2bb3002d2d8933d7e7c9cb959df38e680df02e3d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update README.md Install Instructions</code>](https://github.com/lxc/distrobuilder/commit/0d0cc38c695d66d1fea92224719d90160440569f)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/c04d6b04e3ee28e733507684acf759caec0266d3)
-- [ ] [<code>incus-agent: Refresh files</code>](https://github.com/lxc/distrobuilder/commit/c39490a33cf0cdb3c5eb0df5aabe0f94cdbd8022)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>build(deps): bump github.com/opencontainers/runc from 1.1.10 to 1.1.12</code>](https://github.com/lxc/distrobuilder/commit/480707e4c7a6c94c7eeedf7dedf255589aa26d1b)
-- [ ] [<code>incus-agent: Fix systemd unit name under LXD</code>](https://github.com/lxc/distrobuilder/commit/fc0cbefc44b1002c23d703445ade31b09d8ca795)
-- [ ] [<code>Makefile: Bump minimum Go version to 1.21</code>](https://github.com/lxc/distrobuilder/commit/08c5c1722daa46565e7f1c0e04c7a8ed2ea35087)
-- [ ] [<code>README: Bump minimum Go version to 1.21</code>](https://github.com/lxc/distrobuilder/commit/8a272b3a014cd31056bddffc6ba9310aac1eb70f)
-- [ ] [<code>github: Replace Go 1.20 with 1.22 in tests</code>](https://github.com/lxc/distrobuilder/commit/babc0b9bf0aeae1277851efdad57581ee4cf3e91)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/ac9c0253e7a8dd673b24620f83b424f7051b5d78)
-- [ ] [<code>Makefile: Bump golangci-lint to 1.56.0</code>](https://github.com/lxc/distrobuilder/commit/69353225f3081ec8824df7f160eb85f99ca8b35b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>A comment to describe the 4294967295 constant</code>](https://github.com/lxc/distrobuilder/commit/1464b41a3a4ac2888a4260a5f65a64e5b84dbf38)
-- [ ] [<code>Use indented heredoc syntax</code>](https://github.com/lxc/distrobuilder/commit/8e1571dc2f93b6bc8423e7d6e5dc3e66e430858c)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Inject a comment into generated files</code>](https://github.com/lxc/distrobuilder/commit/62ef720ade7b71687cb60bba85f7046b295056d4)
-- [ ] [<code>Expand grep -a to --text for readability</code>](https://github.com/lxc/distrobuilder/commit/320a22ed4b0ab7f721760401dabf8527cec43b04)
-- [ ] [<code>Make lxc.generator shellcheck clean</code>](https://github.com/lxc/distrobuilder/commit/d4937ff715e0dcbeb48f5c9c71f2cb504086a73b)
-- [ ] [<code>Break between systemd unit sections</code>](https://github.com/lxc/distrobuilder/commit/c7e3d8f09669fad131fcf3e178502360e936c191)
-- [ ] [<code>incus-agent: Fix SELinux</code>](https://github.com/lxc/distrobuilder/commit/31407f24afc423dde985de381930bdb0213d4daf)
-- [ ] [<code>Bump pongo2 to v4</code>](https://github.com/lxc/distrobuilder/commit/1da40b24ac3a092f62d09909b280d5095ba2427a)
-- [ ] [<code>Remove race in tests</code>](https://github.com/lxc/distrobuilder/commit/703b66d9cfee5198e59ae388119001d88e362d24)
-- [ ] [<code>debootstrap: Pass --no-merged-usr on noble</code>](https://github.com/lxc/distrobuilder/commit/d1029f2bd33e5da3742b075889a85c2a68eace1b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Debian sid no-merged-usr</code>](https://github.com/lxc/distrobuilder/commit/ac904db4db1d329cce1232f9ed98bd473769060e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Replace util.ValueInSlice with slices.Contains</code>](https://github.com/lxc/distrobuilder/commit/eba1eb2207b1893dc02f8119b5fc572462872e27)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fixed hardcoded root partition device name sda2</code>](https://github.com/lxc/distrobuilder/commit/f7bb5233dde7188ebbbe81c86c1d36bc7fb1d23f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Updated ubuntu example to use ROOTFS_DEVICE_UUID</code>](https://github.com/lxc/distrobuilder/commit/6f0a96b3326258079c4319026a3d9fcc69a8a5e1)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/fbf8250900eb0e1d382e68b1f0e7b85bd959634c)
-- [ ] [<code>incus: Bump to 6.0</code>](https://github.com/lxc/distrobuilder/commit/24067ed0901f40827770db80cc29937905fb3ac6)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>Make run-parts running compatible with different versions</code>](https://github.com/lxc/distrobuilder/commit/b7240053d8f4db44c94e455f895302524ccb5411)
-- [ ] [<code>Set repack-windows drivers default value</code>](https://github.com/lxc/distrobuilder/commit/f86cad1afeb501f8294e6ed8a3bec058e60b5c4a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Clean up iso mount gen warnings</code>](https://github.com/lxc/distrobuilder/commit/5851fd9a1e1ea4070c30f466e5859b45503fc256)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Refactory find boot.wim and install.wim logic</code>](https://github.com/lxc/distrobuilder/commit/1c98c9207061dea202706807860a460678a4e2b8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Refactor WIM info parsing</code>](https://github.com/lxc/distrobuilder/commit/571596cc456c5bc829860152fe398b86d9ef6ff9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Support x86 architecture and refactor the detecting logic</code>](https://github.com/lxc/distrobuilder/commit/b237c6c69d607373365531d06e6a44d842529a39)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/f9d48da8316abca9f603904b484b6d4bff4f800f)
-- [ ] [<code>sphinx: Avoid myst-parser >=3.0.0</code>](https://github.com/lxc/distrobuilder/commit/f5a91e971d74424f198290833bce0f147c58f05c)
-- [ ] [<code>sources/funtoo: Use symlinks</code>](https://github.com/lxc/distrobuilder/commit/9a10fde741193462179c793929548b8ef572f7bb)
-- [ ] [<code>archlinux: Move to zst</code>](https://github.com/lxc/distrobuilder/commit/b8bfb111643727dbdbc8ca3a5638bca17272238c)
-- [ ] [<code>Repack windows bios boot support</code>](https://github.com/lxc/distrobuilder/commit/f6722e3de6b25deb494b6bf62eaf91c61cb755aa)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Refactor copy driver files</code>](https://github.com/lxc/distrobuilder/commit/14721a319c7b04b89335624a039cc08458fc061f)
-- [ ] [<code>Refactor parse inf driver class guid</code>](https://github.com/lxc/distrobuilder/commit/b632188dcc95207431cdbf369e602eb669fb16fe)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update actions.md</code>](https://github.com/lxc/distrobuilder/commit/64bbbe5bb955950354da8346b1a9acd94ae8f43f)
-- [ ] [<code>lxc.generator: Handle pre-release systemd</code>](https://github.com/lxc/distrobuilder/commit/b197db8b6d9b9194615648ccc4488c9b4f3a1e80)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>systemd v256 seems to require overriding ImportCredential= for all containers</code>](https://github.com/lxc/distrobuilder/commit/f6b2e14fa0ff8da33763c7527655f3f007a6493d)
-- [ ] [<code>Fixed duplicated umount action</code>](https://github.com/lxc/distrobuilder/commit/56a88f8969a870dccde432f0bff3036d4d3d1224)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Support http-proxy keyserver options for gpg recv-keys</code>](https://github.com/lxc/distrobuilder/commit/092eab7aa192fd2a3366004b8fe7a911aa11e2f0)
-- [ ] [<code>Refactor import gpg public keys</code>](https://github.com/lxc/distrobuilder/commit/907806e43cb2ce8799a63360277279fcec4841be)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>distrobuilder: Remove LXD support</code>](https://github.com/lxc/distrobuilder/commit/40ea40fe2e1c1358183ad830023f6b9ac5dc330c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/602d9d08afbe4d0072fb54f2b0c386aac944f82a)
-- [ ] [<code>gomod: Remove excludes</code>](https://github.com/lxc/distrobuilder/commit/7af632cd32879685a3143d994ea123ec6bb19c13)
-- [ ] [<code>Fixed multiple sys files not copied issue</code>](https://github.com/lxc/distrobuilder/commit/44f0a4f35072aeada023fa5bd3a0094d51fce055)
-- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/787b55d64cfa7bb189867234daa1855bdea766c4)
-- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/da72b310b33eccdacea0a89b3aa5a6b73df399f4)
-- [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/33b0cb28edb6083723f97dabbb929bdb73176bcc)
-- [ ] [<code>vm: Fix lsblk parsing logic</code>](https://github.com/lxc/distrobuilder/commit/3b538d0125d35fc7757e16266b0413626e3818ee)
-- [ ] [<code>Revert "vm: Fix lsblk parsing logic"</code>](https://github.com/lxc/distrobuilder/commit/be1bb812c4ca0206c2f552f9fa180ac400b6c0c6)
-- [ ] [<code>Revert "Fixed device major minor parse failure"</code>](https://github.com/lxc/distrobuilder/commit/5525dc7143fac71aa72e2fca2d3c640e00aee0fd)
-- [ ] [<code>Fixed device major minor parse failure</code>](https://github.com/lxc/distrobuilder/commit/1a69b8548917cad6f5720752075239cca6227fc4)
-- [ ] [<code>Run unit tests via sudo</code>](https://github.com/lxc/distrobuilder/commit/4b3a2596298a7e973c40bbdfb54c129264a712bf)
-- [ ] [<code>debootstrap: Remove no-merged-usr/merged-usr logic</code>](https://github.com/lxc/distrobuilder/commit/ab6c95f0278b79435acfb886303d6fa4932ec7d4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>debootstrap: Add workaround for devuan</code>](https://github.com/lxc/distrobuilder/commit/bea11060198847f836568b6de13d685407d6f66f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>sources: Fix openEuler tests</code>](https://github.com/lxc/distrobuilder/commit/6247ec9ac0c60daba7e069b4638419370db4d060)
-- [ ] [<code>workflows/tests: drop 1.21, add 1.23</code>](https://github.com/lxc/distrobuilder/commit/51aadcab5784c7c32022d5342967c520a03bf199)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/d71e81f25744ed59a444508d99f087c74bbce586)
-- [ ] [<code>Makefile: Align golangci-lint with Incus</code>](https://github.com/lxc/distrobuilder/commit/6039c5a8bb60797a141980e35af63fcbd9f86d90)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>global: Fix golangci-lint errors</code>](https://github.com/lxc/distrobuilder/commit/59e208148b309310afecc9f64e8bee6abb8e1dd3)
-- [ ] [<code>nixos-http: use incus-specific image for unstable</code>](https://github.com/lxc/distrobuilder/commit/536b37d4dbd166a385af2e8226e2c7d5c60a6da6)
-- [ ] [<code>Add handling of ESD files</code>](https://github.com/lxc/distrobuilder/commit/bd27600036b297fb1dc8ec861e0051ea1e04cf02)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Makefile: Bump to Go 1.22.7 base</code>](https://github.com/lxc/distrobuilder/commit/f076f035c93eb99e4d6701fa690a9dace93eb23d)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/fca5ad6792833e598f72bc84aba8156360f45239)
-- [ ] [<code>sources: Remove dead code</code>](https://github.com/lxc/distrobuilder/commit/3636a40e81d404fa008509c0d06ce0c98bd91a80)
-- [ ] [<code>source: Add mkisofs support</code>](https://github.com/lxc/distrobuilder/commit/e9c6e0fe46fe19f52dc5d910ae7b75d218d2ead1)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Release distrobuilder 3.1</code>](https://github.com/lxc/distrobuilder/commit/0544a2d247d92f10c5635dde612f17dcbda42449)
-  - <sub>Tags: <code>distrobuilder-3.1</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -234,6 +122,7 @@
 - [ ] [<code>chore: Follow up dismiss room</code>](https://github.com/krille-chan/fluffychat/commit/282f45059c62971bfd9aa02a30283cbba31705b9)
 - [ ] [<code>build: Update flutter web auth 2 package</code>](https://github.com/krille-chan/fluffychat/commit/c76a5fd03057dd3976d3537fe42fa3afb99a53af)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Change same enivornment to one hour</code>](https://github.com/krille-chan/fluffychat/commit/d088a7c1540e93014bdb60d976b769e94c904701)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -304,6 +193,7 @@
 - [ ] [<code>chore: Follow up dismiss room</code>](https://github.com/krille-chan/fluffychat/commit/282f45059c62971bfd9aa02a30283cbba31705b9)
 - [ ] [<code>build: Update flutter web auth 2 package</code>](https://github.com/krille-chan/fluffychat/commit/c76a5fd03057dd3976d3537fe42fa3afb99a53af)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Change same enivornment to one hour</code>](https://github.com/krille-chan/fluffychat/commit/d088a7c1540e93014bdb60d976b769e94c904701)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1957,6 +1847,10 @@
 - [ ] [<code>Check that the gain map metadata is valid on decoding. (#2453)</code>](https://github.com/AOMediaCodec/libavif/commit/5b6fe9125c16416b99a5c2da1319670ab9df71d2)
 - [ ] [<code>Revert "Check that the gain map metadata is valid on decoding. (#2453)" (#2482)</code>](https://github.com/AOMediaCodec/libavif/commit/aa9f74068981e6d4f00abc17cf721a5555f8303c)
 - [ ] [<code>Add a cargo key and use it to update caches (#2485)</code>](https://github.com/AOMediaCodec/libavif/commit/209707886d95ca26bd9a9e6773eb56c6d7daf35d)
+- [ ] [<code>Bump libxml2 to v2.13.4 (#2489)</code>](https://github.com/AOMediaCodec/libavif/commit/e4007804404281d7b0c077496e6ddf60700b6ea1)
+- [ ] [<code>Implement AV2 in MinimizedImageBox (#2486)</code>](https://github.com/AOMediaCodec/libavif/commit/755f9600865aa951596cfdc8768aa16e2193fb71)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Significantly simplify gain map API (#2481)</code>](https://github.com/AOMediaCodec/libavif/commit/094d84170d4b558bcc246c61f776a895077f6010)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3236,6 +3130,7 @@
 - [ ] [<code>treewide: refactor vector usage code</code>](https://github.com/jow-/ucode/commit/e5fe6b1b822bddeac7e6a6657e6c4885aef2f2d0)
 - [ ] [<code>math: removed global variable for thread safety</code>](https://github.com/jow-/ucode/commit/1f022c04d21baab91da74ee097ac018d59016fa3)
 - [ ] [<code>nl80211: cover extended feature and EHT rate info attributes</code>](https://github.com/jow-/ucode/commit/1423ad7b8411a2cb727bfd4e4f3511469abb3214)
+- [ ] [<code>nl80211: add new attributes for multi-radio support</code>](https://github.com/jow-/ucode/commit/8af77e761ec8ad313312c41d817262b017653f31)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
