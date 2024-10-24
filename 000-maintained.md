@@ -1851,6 +1851,9 @@
 - [ ] [<code>Implement AV2 in MinimizedImageBox (#2486)</code>](https://github.com/AOMediaCodec/libavif/commit/755f9600865aa951596cfdc8768aa16e2193fb71)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Significantly simplify gain map API (#2481)</code>](https://github.com/AOMediaCodec/libavif/commit/094d84170d4b558bcc246c61f776a895077f6010)
+- [ ] [<code>Apply ClangTidy vector::empty() instead of size() (#2491)</code>](https://github.com/AOMediaCodec/libavif/commit/2f599acf9d6cfebbf1e66117aeff647ddc6af853)
+- [ ] [<code>Bump dav1d to 1.5.0 (#2490)</code>](https://github.com/AOMediaCodec/libavif/commit/e9d3134632ab444bb3d9d0d8caf2a41c2d64cc50)
+- [ ] [<code>github ci: use default profile for actions-rs</code>](https://github.com/AOMediaCodec/libavif/commit/dc2fe079b6e6d42e75f57fe053e8121972e90579)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
