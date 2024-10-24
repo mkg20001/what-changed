@@ -131,6 +131,8 @@
 - [ ] [<code>sources: Remove dead code</code>](https://github.com/lxc/distrobuilder/commit/3636a40e81d404fa008509c0d06ce0c98bd91a80)
 - [ ] [<code>source: Add mkisofs support</code>](https://github.com/lxc/distrobuilder/commit/e9c6e0fe46fe19f52dc5d910ae7b75d218d2ead1)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Release distrobuilder 3.1</code>](https://github.com/lxc/distrobuilder/commit/0544a2d247d92f10c5635dde612f17dcbda42449)
+  - <sub>Tags: <code>distrobuilder-3.1</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -374,6 +376,13 @@
 - [ ] [<code>doc: Add Kubernetes to wordlist</code>](https://github.com/lxc/incus/commit/3fb83a4f52e68eba1aadb2a900ae18880c83cdd7)
 - [ ] [<code>incusd/storage_volumes_snapshots: Respect pattern on manual creation</code>](https://github.com/lxc/incus/commit/fe313ed5ebad12caf9a2ed53f7ee1202bd9121f9)
 - [ ] [<code>tests: Add test for custom storage volume snapshots pattern</code>](https://github.com/lxc/incus/commit/c3d82bf37d696040959ad1772e3bdc34776dfc90)
+- [ ] [<code>incusd/main_forknet: Port DHCP client to nclient4</code>](https://github.com/lxc/incus/commit/a2fce8b2b1c6c009ed16495dacc2eb3d8f3d07ec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/main_forknet: Attach to the container PID namespace</code>](https://github.com/lxc/incus/commit/a17504a8f69ceee9717dfc255c1e345d4165a18e)
+- [ ] [<code>incusd/main_forknet: Handle background renewals</code>](https://github.com/lxc/incus/commit/3fbd6f6cbfe39362f39145f949547eb6224dfb87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cgo: Add setproctitle</code>](https://github.com/lxc/incus/commit/bc5ae9b593e3181d1afe3671460cbc8935021402)
+- [ ] [<code>incusd/main_forknet: Set process title</code>](https://github.com/lxc/incus/commit/2c643ede86a41fa86992312a21d7239ca13ea201)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1808,6 +1817,13 @@
 - [ ] [<code>doc: Add Kubernetes to wordlist</code>](https://github.com/lxc/incus/commit/3fb83a4f52e68eba1aadb2a900ae18880c83cdd7)
 - [ ] [<code>incusd/storage_volumes_snapshots: Respect pattern on manual creation</code>](https://github.com/lxc/incus/commit/fe313ed5ebad12caf9a2ed53f7ee1202bd9121f9)
 - [ ] [<code>tests: Add test for custom storage volume snapshots pattern</code>](https://github.com/lxc/incus/commit/c3d82bf37d696040959ad1772e3bdc34776dfc90)
+- [ ] [<code>incusd/main_forknet: Port DHCP client to nclient4</code>](https://github.com/lxc/incus/commit/a2fce8b2b1c6c009ed16495dacc2eb3d8f3d07ec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/main_forknet: Attach to the container PID namespace</code>](https://github.com/lxc/incus/commit/a17504a8f69ceee9717dfc255c1e345d4165a18e)
+- [ ] [<code>incusd/main_forknet: Handle background renewals</code>](https://github.com/lxc/incus/commit/3fbd6f6cbfe39362f39145f949547eb6224dfb87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cgo: Add setproctitle</code>](https://github.com/lxc/incus/commit/bc5ae9b593e3181d1afe3671460cbc8935021402)
+- [ ] [<code>incusd/main_forknet: Set process title</code>](https://github.com/lxc/incus/commit/2c643ede86a41fa86992312a21d7239ca13ea201)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
