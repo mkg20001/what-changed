@@ -123,6 +123,7 @@
 - [ ] [<code>build: Update flutter web auth 2 package</code>](https://github.com/krille-chan/fluffychat/commit/c76a5fd03057dd3976d3537fe42fa3afb99a53af)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Change same enivornment to one hour</code>](https://github.com/krille-chan/fluffychat/commit/d088a7c1540e93014bdb60d976b769e94c904701)
+- [ ] [<code>chore: Update pubspec.yaml</code>](https://github.com/krille-chan/fluffychat/commit/c89c95eaab7628d6f5bbd59ad339b5ca7a471083)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -194,6 +195,7 @@
 - [ ] [<code>build: Update flutter web auth 2 package</code>](https://github.com/krille-chan/fluffychat/commit/c76a5fd03057dd3976d3537fe42fa3afb99a53af)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Change same enivornment to one hour</code>](https://github.com/krille-chan/fluffychat/commit/d088a7c1540e93014bdb60d976b769e94c904701)
+- [ ] [<code>chore: Update pubspec.yaml</code>](https://github.com/krille-chan/fluffychat/commit/c89c95eaab7628d6f5bbd59ad339b5ca7a471083)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -273,6 +275,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared/cgo: Add setproctitle</code>](https://github.com/lxc/incus/commit/bc5ae9b593e3181d1afe3671460cbc8935021402)
 - [ ] [<code>incusd/main_forknet: Set process title</code>](https://github.com/lxc/incus/commit/2c643ede86a41fa86992312a21d7239ca13ea201)
+- [ ] [<code>doc/installing: Update for Chimera Linux</code>](https://github.com/lxc/incus/commit/27a2ab3a4bb9a7d43915ace13a9c37fa0f9ac36c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1714,6 +1717,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared/cgo: Add setproctitle</code>](https://github.com/lxc/incus/commit/bc5ae9b593e3181d1afe3671460cbc8935021402)
 - [ ] [<code>incusd/main_forknet: Set process title</code>](https://github.com/lxc/incus/commit/2c643ede86a41fa86992312a21d7239ca13ea201)
+- [ ] [<code>doc/installing: Update for Chimera Linux</code>](https://github.com/lxc/incus/commit/27a2ab3a4bb9a7d43915ace13a9c37fa0f9ac36c)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -1902,6 +1906,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>create_run_template: don't use txtuid and txtguid out of scope</code>](https://github.com/lxc/lxc/commit/d50ee6f7c4b4bf827ddc9a1314eb9a2d69b5bc2c)
 - [ ] [<code>Avoid null pointer dereference when using shared rootfs.</code>](https://github.com/lxc/lxc/commit/d5c2d1efff92b2b992f10b29bd459a4b07875025)
+- [ ] [<code>meson: fix minor typo</code>](https://github.com/lxc/lxc/commit/d03cb0aca3cb6fc6d3695c8283263893aaf15080)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
