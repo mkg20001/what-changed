@@ -124,6 +124,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Change same enivornment to one hour</code>](https://github.com/krille-chan/fluffychat/commit/d088a7c1540e93014bdb60d976b769e94c904701)
 - [ ] [<code>chore: Update pubspec.yaml</code>](https://github.com/krille-chan/fluffychat/commit/c89c95eaab7628d6f5bbd59ad339b5ca7a471083)
+- [ ] [<code>chore: Follow up sameEnvironment calc</code>](https://github.com/krille-chan/fluffychat/commit/d7c2d1bdc727e8d7d59b22be94498788629ece36)
+- [ ] [<code>build: Build on rpi for linux arm64</code>](https://github.com/krille-chan/fluffychat/commit/3420c8a7c54cb2cf5f7ea945c06e87b3d0d3f4db)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Also build for arm64 for linux releases</code>](https://github.com/krille-chan/fluffychat/commit/617744503d87a63221f7fe331ad7b349014dab16)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -196,6 +201,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Change same enivornment to one hour</code>](https://github.com/krille-chan/fluffychat/commit/d088a7c1540e93014bdb60d976b769e94c904701)
 - [ ] [<code>chore: Update pubspec.yaml</code>](https://github.com/krille-chan/fluffychat/commit/c89c95eaab7628d6f5bbd59ad339b5ca7a471083)
+- [ ] [<code>chore: Follow up sameEnvironment calc</code>](https://github.com/krille-chan/fluffychat/commit/d7c2d1bdc727e8d7d59b22be94498788629ece36)
+- [ ] [<code>build: Build on rpi for linux arm64</code>](https://github.com/krille-chan/fluffychat/commit/3420c8a7c54cb2cf5f7ea945c06e87b3d0d3f4db)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Also build for arm64 for linux releases</code>](https://github.com/krille-chan/fluffychat/commit/617744503d87a63221f7fe331ad7b349014dab16)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
