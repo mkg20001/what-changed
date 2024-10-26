@@ -21,6 +21,8 @@
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
 
+- [ ] [<code>distrobuilder: Adjust name of driver inf files</code>](https://github.com/lxc/distrobuilder/commit/44afec7561b24afae18b08b177fd18712f4715d0)
+- [ ] [<code>distrobuilder: Also install exes when injecting drivers</code>](https://github.com/lxc/distrobuilder/commit/d28bd2358212919618c207cc04ca335b4f91c5d8)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -129,6 +131,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: Also build for arm64 for linux releases</code>](https://github.com/krille-chan/fluffychat/commit/617744503d87a63221f7fe331ad7b349014dab16)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Nicer invite selection view</code>](https://github.com/krille-chan/fluffychat/commit/41782c497e27da9fc99b6aef3706c83712675470)
+- [ ] [<code>chore: Do not request thousands of users on invite page</code>](https://github.com/krille-chan/fluffychat/commit/a422d470da6f4f0016d251083eb14a3cfade57a7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -206,6 +210,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: Also build for arm64 for linux releases</code>](https://github.com/krille-chan/fluffychat/commit/617744503d87a63221f7fe331ad7b349014dab16)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Nicer invite selection view</code>](https://github.com/krille-chan/fluffychat/commit/41782c497e27da9fc99b6aef3706c83712675470)
+- [ ] [<code>chore: Do not request thousands of users on invite page</code>](https://github.com/krille-chan/fluffychat/commit/a422d470da6f4f0016d251083eb14a3cfade57a7)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
