@@ -16,7 +16,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.2.1/dbeaver-ce-24.2.1-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.2.1/dbeaver-ce-24.2.1-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.2.3/dbeaver-ce-24.2.3-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.2.3/dbeaver-ce-24.2.3-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -276,6 +276,17 @@
 - [ ] [<code>shared/cgo: Add setproctitle</code>](https://github.com/lxc/incus/commit/bc5ae9b593e3181d1afe3671460cbc8935021402)
 - [ ] [<code>incusd/main_forknet: Set process title</code>](https://github.com/lxc/incus/commit/2c643ede86a41fa86992312a21d7239ca13ea201)
 - [ ] [<code>doc/installing: Update for Chimera Linux</code>](https://github.com/lxc/incus/commit/27a2ab3a4bb9a7d43915ace13a9c37fa0f9ac36c)
+- [ ] [<code>shared/cgo: Don't use strlcpy</code>](https://github.com/lxc/incus/commit/d040099da8619ae6c7b928500630061ca982cf08)
+- [ ] [<code>incus/top: Fix usage</code>](https://github.com/lxc/incus/commit/2b1f72123ca082ef5af565ffe71e8dae1f5497a7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/util: Add OpenBrowser</code>](https://github.com/lxc/incus/commit/9938f97b47dbfc0fb6f5317b931b53d3126373ba)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/remote/proxy: Add token authentication</code>](https://github.com/lxc/incus/commit/9501b74c71181aa5203a0053191165ece0192c35)
+- [ ] [<code>incusd/api: Only expose UI if index.html exists</code>](https://github.com/lxc/incus/commit/f9f4b6cdb0960d90280b2fa0833f210818e6d602)
+- [ ] [<code>incus: Add webui command</code>](https://github.com/lxc/incus/commit/ad1f2b191b47fc4ec531903144e4374f0418c9d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9ad6fb5fb811589806eab5668b31a0f60126ffe0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1718,6 +1729,17 @@
 - [ ] [<code>shared/cgo: Add setproctitle</code>](https://github.com/lxc/incus/commit/bc5ae9b593e3181d1afe3671460cbc8935021402)
 - [ ] [<code>incusd/main_forknet: Set process title</code>](https://github.com/lxc/incus/commit/2c643ede86a41fa86992312a21d7239ca13ea201)
 - [ ] [<code>doc/installing: Update for Chimera Linux</code>](https://github.com/lxc/incus/commit/27a2ab3a4bb9a7d43915ace13a9c37fa0f9ac36c)
+- [ ] [<code>shared/cgo: Don't use strlcpy</code>](https://github.com/lxc/incus/commit/d040099da8619ae6c7b928500630061ca982cf08)
+- [ ] [<code>incus/top: Fix usage</code>](https://github.com/lxc/incus/commit/2b1f72123ca082ef5af565ffe71e8dae1f5497a7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/util: Add OpenBrowser</code>](https://github.com/lxc/incus/commit/9938f97b47dbfc0fb6f5317b931b53d3126373ba)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/remote/proxy: Add token authentication</code>](https://github.com/lxc/incus/commit/9501b74c71181aa5203a0053191165ece0192c35)
+- [ ] [<code>incusd/api: Only expose UI if index.html exists</code>](https://github.com/lxc/incus/commit/f9f4b6cdb0960d90280b2fa0833f210818e6d602)
+- [ ] [<code>incus: Add webui command</code>](https://github.com/lxc/incus/commit/ad1f2b191b47fc4ec531903144e4374f0418c9d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9ad6fb5fb811589806eab5668b31a0f60126ffe0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2605,11 +2627,13 @@
 - [ ] [<code>include: fix apidoc warnings about undocumented parameters</code>](https://github.com/canonical/netplan/commit/cfac5eb95d67b2db0f5cb2cd72adc0de0960f521)
 - [ ] [<code>networkmanager: add support for stable-ssid MAC option</code>](https://github.com/canonical/netplan/commit/83a8d8cc6f27cb001b6f81b5c59a47bf980f1029)
   - <sub>Keywords: <code>subprocess</code></sub>
-> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20240610.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20230816.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped odoo16 - no appropriate URL found OrderedDict([('attr_path', 'odoo16'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20231024.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo16 - no appropriate URL found OrderedDict([('attr_path', 'odoo16'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
+> Dropped odoo17 - no appropriate URL found OrderedDict([('attr_path', 'odoo17'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.23.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.23.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
