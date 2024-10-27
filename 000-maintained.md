@@ -2886,6 +2886,7 @@
 - [ ] [<code>refactor(lib): reusable two extra eq bands packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dbdf5de9d29628528870ccb8981f2d43be7a3db5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): packet header parser inconsistency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/de49e4602ca6ec1770c59d2c2b521c6bc747313a)
+- [ ] [<code>fix(gui): crash on startup due to unexpected notify</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4f8fc3719506ec5f0b0604784cf4d0ec18d8d8ce)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
