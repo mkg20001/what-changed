@@ -23,6 +23,8 @@
 
 - [ ] [<code>distrobuilder: Adjust name of driver inf files</code>](https://github.com/lxc/distrobuilder/commit/44afec7561b24afae18b08b177fd18712f4715d0)
 - [ ] [<code>distrobuilder: Also install exes when injecting drivers</code>](https://github.com/lxc/distrobuilder/commit/d28bd2358212919618c207cc04ca335b4f91c5d8)
+- [ ] [<code>windows: Refactor code for injecting drivers into a library for easier shared use</code>](https://github.com/lxc/distrobuilder/commit/8b651a1235f7c3df615e9cecb137a2187fd9629f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -3086,6 +3088,8 @@
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.040 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.040...HEAD)
 
 - [ ] [<code>Possible fix for failed thumbnail embedding, #626</code>](https://github.com/axcore/tartube/commit/ff76b75d474464425b2823586a44662dacabf386)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Add re-check video #661, YouTube warning #662, matplotlib failure check #663</code>](https://github.com/axcore/tartube/commit/f4686dca2256f1564a6c6e87cbb0e1de3c8e9d50)
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
