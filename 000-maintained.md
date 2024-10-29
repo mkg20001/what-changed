@@ -135,6 +135,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: Nicer invite selection view</code>](https://github.com/krille-chan/fluffychat/commit/41782c497e27da9fc99b6aef3706c83712675470)
 - [ ] [<code>chore: Do not request thousands of users on invite page</code>](https://github.com/krille-chan/fluffychat/commit/a422d470da6f4f0016d251083eb14a3cfade57a7)
+- [ ] [<code>design: Highlight emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/189493e074fc3ec49fe958e332963c83b3bee4ed)
+- [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -214,6 +216,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: Nicer invite selection view</code>](https://github.com/krille-chan/fluffychat/commit/41782c497e27da9fc99b6aef3706c83712675470)
 - [ ] [<code>chore: Do not request thousands of users on invite page</code>](https://github.com/krille-chan/fluffychat/commit/a422d470da6f4f0016d251083eb14a3cfade57a7)
+- [ ] [<code>design: Highlight emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/189493e074fc3ec49fe958e332963c83b3bee4ed)
+- [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
