@@ -220,6 +220,8 @@
 
 > Dropped flutter326 - no appropriate URL found OrderedDict([('attr_path', 'flutter326'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
+> Dropped flutter327 - no appropriate URL found OrderedDict([('attr_path', 'flutter327'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -305,6 +307,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9ad6fb5fb811589806eab5668b31a0f60126ffe0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/scriptlet: Make set_target fail with invalid members</code>](https://github.com/lxc/incus/commit/804346973369c3b66302cffd0d3656209b7b7eec)
+- [ ] [<code>tests: Update for scriptlet placement error handling</code>](https://github.com/lxc/incus/commit/ed4435f91137fa46b2588dc45b12126125fa88b8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1758,6 +1762,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/9ad6fb5fb811589806eab5668b31a0f60126ffe0)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/scriptlet: Make set_target fail with invalid members</code>](https://github.com/lxc/incus/commit/804346973369c3b66302cffd0d3656209b7b7eec)
+- [ ] [<code>tests: Update for scriptlet placement error handling</code>](https://github.com/lxc/incus/commit/ed4435f91137fa46b2588dc45b12126125fa88b8)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
