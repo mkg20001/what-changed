@@ -1918,6 +1918,7 @@
 - [ ] [<code>Apply ClangTidy vector::empty() instead of size() (#2491)</code>](https://github.com/AOMediaCodec/libavif/commit/2f599acf9d6cfebbf1e66117aeff647ddc6af853)
 - [ ] [<code>Bump dav1d to 1.5.0 (#2490)</code>](https://github.com/AOMediaCodec/libavif/commit/e9d3134632ab444bb3d9d0d8caf2a41c2d64cc50)
 - [ ] [<code>github ci: use default profile for actions-rs</code>](https://github.com/AOMediaCodec/libavif/commit/dc2fe079b6e6d42e75f57fe053e8121972e90579)
+- [ ] [<code>Reapply "Check that the gain map metadata is valid on decoding." (#2493)</code>](https://github.com/AOMediaCodec/libavif/commit/99f7eebb6fa21a3330002f35d66842e648da38f5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
