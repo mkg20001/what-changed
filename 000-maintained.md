@@ -315,6 +315,10 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/scriptlet: Make set_target fail with invalid members</code>](https://github.com/lxc/incus/commit/804346973369c3b66302cffd0d3656209b7b7eec)
 - [ ] [<code>tests: Update for scriptlet placement error handling</code>](https://github.com/lxc/incus/commit/ed4435f91137fa46b2588dc45b12126125fa88b8)
+- [ ] [<code>incusd/instance/qmp: Make Run public</code>](https://github.com/lxc/incus/commit/2cc92d74e45db9bc693ac2ddc9dc5a62b0f2da46)
+- [ ] [<code>incusd/scriptlet: Add useful QMP functions</code>](https://github.com/lxc/incus/commit/56c29ed3204c7fc8d8fe3b169657bd23c98b6bc7)
+- [ ] [<code>doc/ref/instance_options: Mention QEMU raw QMP commands</code>](https://github.com/lxc/incus/commit/f07fd5c60cf71c9463927f8205af651b7a6d6cc5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1770,6 +1774,10 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/scriptlet: Make set_target fail with invalid members</code>](https://github.com/lxc/incus/commit/804346973369c3b66302cffd0d3656209b7b7eec)
 - [ ] [<code>tests: Update for scriptlet placement error handling</code>](https://github.com/lxc/incus/commit/ed4435f91137fa46b2588dc45b12126125fa88b8)
+- [ ] [<code>incusd/instance/qmp: Make Run public</code>](https://github.com/lxc/incus/commit/2cc92d74e45db9bc693ac2ddc9dc5a62b0f2da46)
+- [ ] [<code>incusd/scriptlet: Add useful QMP functions</code>](https://github.com/lxc/incus/commit/56c29ed3204c7fc8d8fe3b169657bd23c98b6bc7)
+- [ ] [<code>doc/ref/instance_options: Mention QEMU raw QMP commands</code>](https://github.com/lxc/incus/commit/f07fd5c60cf71c9463927f8205af651b7a6d6cc5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
