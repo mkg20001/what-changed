@@ -139,6 +139,7 @@
 - [ ] [<code>design: Highlight emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/189493e074fc3ec49fe958e332963c83b3bee4ed)
 - [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
 - [ ] [<code>design: New login design</code>](https://github.com/krille-chan/fluffychat/commit/3c5855c2d1123086f91ab59c5f3dfa85cff59a7f)
+- [ ] [<code>chore: Improve spaces design</code>](https://github.com/krille-chan/fluffychat/commit/a51cc082bcee140437c39577e340ece86513390b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -222,6 +223,7 @@
 - [ ] [<code>design: Highlight emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/189493e074fc3ec49fe958e332963c83b3bee4ed)
 - [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
 - [ ] [<code>design: New login design</code>](https://github.com/krille-chan/fluffychat/commit/3c5855c2d1123086f91ab59c5f3dfa85cff59a7f)
+- [ ] [<code>chore: Improve spaces design</code>](https://github.com/krille-chan/fluffychat/commit/a51cc082bcee140437c39577e340ece86513390b)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -322,6 +324,20 @@
 - [ ] [<code>doc/ref/instance_options: Mention QEMU raw QMP commands</code>](https://github.com/lxc/incus/commit/f07fd5c60cf71c9463927f8205af651b7a6d6cc5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network/ovn: Add support to ipv4.dhcp.ranges</code>](https://github.com/lxc/incus/commit/7853124bfa8152031b5c6cf33b9bf685a56f23bf)
+- [ ] [<code>api: instances_scriptlet_get_instances_count</code>](https://github.com/lxc/incus/commit/aa08cfed37b12591fce268522d9cf02eca14413d)
+- [ ] [<code>incusd/scriptlet/instances: Fix error messages</code>](https://github.com/lxc/incus/commit/eaa57e137e5f5b71d612c01516d85df5e629a8a7)
+- [ ] [<code>incusd/db/instances: Add GetInstancesCount</code>](https://github.com/lxc/incus/commit/63a60da90d46e70c024512a369f819604a77aa49)
+- [ ] [<code>incusd/scriptlet/instances: Add get_instances_count</code>](https://github.com/lxc/incus/commit/2b51204f4d67a135824b794ad12db2b1bb735a39)
+- [ ] [<code>doc/cluster/placement: Add get_instances_count</code>](https://github.com/lxc/incus/commit/5ddb02b82cdaf7b90c0d50961882a0f86e6beecf)
+- [ ] [<code>incusd/db/node: Sort members in GetCandidateMembers</code>](https://github.com/lxc/incus/commit/77861d69b9b496035443e8eefcb9c11474b5c5a6)
+- [ ] [<code>incusd/instances: Rely on candidateMembers being sorted</code>](https://github.com/lxc/incus/commit/a647390c60d36716179a4ee52bd059cd10aa92f1)
+- [ ] [<code>incusd/db/node: Remove unused GetNodeWithLeastInstances</code>](https://github.com/lxc/incus/commit/b08c3f151d17d8f12a813f5331002edf8c923ac9)
+- [ ] [<code>incusd/db/node: Update tests to use GetCandidateMembers</code>](https://github.com/lxc/incus/commit/387c76408f7f35cce2247f5b56eb033182a9bf5e)
+- [ ] [<code>internal/server: Log QMP interaction to a file</code>](https://github.com/lxc/incus/commit/8bdac001190ec5dd5df2a457ddb2a540fec8abec)
+- [ ] [<code>incusd/instance/qemu: Log QEMU command line</code>](https://github.com/lxc/incus/commit/a6f8e6336b62249cbd3d712e8ffc69a7ea018dd4)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>tests: Update instance placement tests for new ordering</code>](https://github.com/lxc/incus/commit/52f9140747a0822104a042161faf7ae551315740)
+- [ ] [<code>incusd/instance_logs: Update log file list</code>](https://github.com/lxc/incus/commit/03ce26ec69af376139e8d471e9dd2d3e4f85bc0b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1782,6 +1798,20 @@
 - [ ] [<code>doc/ref/instance_options: Mention QEMU raw QMP commands</code>](https://github.com/lxc/incus/commit/f07fd5c60cf71c9463927f8205af651b7a6d6cc5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network/ovn: Add support to ipv4.dhcp.ranges</code>](https://github.com/lxc/incus/commit/7853124bfa8152031b5c6cf33b9bf685a56f23bf)
+- [ ] [<code>api: instances_scriptlet_get_instances_count</code>](https://github.com/lxc/incus/commit/aa08cfed37b12591fce268522d9cf02eca14413d)
+- [ ] [<code>incusd/scriptlet/instances: Fix error messages</code>](https://github.com/lxc/incus/commit/eaa57e137e5f5b71d612c01516d85df5e629a8a7)
+- [ ] [<code>incusd/db/instances: Add GetInstancesCount</code>](https://github.com/lxc/incus/commit/63a60da90d46e70c024512a369f819604a77aa49)
+- [ ] [<code>incusd/scriptlet/instances: Add get_instances_count</code>](https://github.com/lxc/incus/commit/2b51204f4d67a135824b794ad12db2b1bb735a39)
+- [ ] [<code>doc/cluster/placement: Add get_instances_count</code>](https://github.com/lxc/incus/commit/5ddb02b82cdaf7b90c0d50961882a0f86e6beecf)
+- [ ] [<code>incusd/db/node: Sort members in GetCandidateMembers</code>](https://github.com/lxc/incus/commit/77861d69b9b496035443e8eefcb9c11474b5c5a6)
+- [ ] [<code>incusd/instances: Rely on candidateMembers being sorted</code>](https://github.com/lxc/incus/commit/a647390c60d36716179a4ee52bd059cd10aa92f1)
+- [ ] [<code>incusd/db/node: Remove unused GetNodeWithLeastInstances</code>](https://github.com/lxc/incus/commit/b08c3f151d17d8f12a813f5331002edf8c923ac9)
+- [ ] [<code>incusd/db/node: Update tests to use GetCandidateMembers</code>](https://github.com/lxc/incus/commit/387c76408f7f35cce2247f5b56eb033182a9bf5e)
+- [ ] [<code>internal/server: Log QMP interaction to a file</code>](https://github.com/lxc/incus/commit/8bdac001190ec5dd5df2a457ddb2a540fec8abec)
+- [ ] [<code>incusd/instance/qemu: Log QEMU command line</code>](https://github.com/lxc/incus/commit/a6f8e6336b62249cbd3d712e8ffc69a7ea018dd4)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>tests: Update instance placement tests for new ordering</code>](https://github.com/lxc/incus/commit/52f9140747a0822104a042161faf7ae551315740)
+- [ ] [<code>incusd/instance_logs: Update log file list</code>](https://github.com/lxc/incus/commit/03ce26ec69af376139e8d471e9dd2d3e4f85bc0b)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2914,6 +2944,26 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): packet header parser inconsistency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/de49e4602ca6ec1770c59d2c2b521c6bc747313a)
 - [ ] [<code>fix(gui): crash on startup due to unexpected notify</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4f8fc3719506ec5f0b0604784cf4d0ec18d8d8ce)
+- [ ] [<code>refactor(lib): big refactor</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe47d18bc894c72856d31ab4647bb38c9bc5be47)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/349e139cf08672a62487f156820c09cb6278baf6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor(lib): wrap [u8; 7] in Command struct</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e605984f58f9fc15078ab1c5bb06b1a2b793e86)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove inbound ok packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7a4708aa761cee8b7ecf8a8c2353df8ff26ce721)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): fix inconsistent naming</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fb8e0474ec766ba790a6ba776c199feaa7765f9d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove unnecessary macro</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4d6116b49de43792ef2c784be3f196dc030e9f76)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): don't warn on unhandled empty packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/653791cbccaffa964d39376768da14713778e9a7)
+- [ ] [<code>refactor(lib): remove lazy_static dependency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11ec8a30e07fd670c3c139bd37ccacc3fe29e0bb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(lib): mistake in supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f458fea0274077c075135a3b34838aeb489d50fc)
+- [ ] [<code>feat(lib): add support for A3030</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc155dd1d495132e70b0b1e2b21b2e37ae6e4abf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): fix clippy warning</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f77d77152f63607b972091ce8b1707845bda61d4)
+- [ ] [<code>refactor(lib): limit visibility of device specific modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ceb15f4f46892ba6ee22c94a280a273840fe2aa0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
