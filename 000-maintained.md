@@ -138,6 +138,7 @@
 - [ ] [<code>build(deps): bump rexml from 3.3.6 to 3.3.9 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/51edfedef005c09b1bbc695e07a08e826097c581)
 - [ ] [<code>design: Highlight emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/189493e074fc3ec49fe958e332963c83b3bee4ed)
 - [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
+- [ ] [<code>design: New login design</code>](https://github.com/krille-chan/fluffychat/commit/3c5855c2d1123086f91ab59c5f3dfa85cff59a7f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -220,6 +221,7 @@
 - [ ] [<code>build(deps): bump rexml from 3.3.6 to 3.3.9 in /ios</code>](https://github.com/krille-chan/fluffychat/commit/51edfedef005c09b1bbc695e07a08e826097c581)
 - [ ] [<code>design: Highlight emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/189493e074fc3ec49fe958e332963c83b3bee4ed)
 - [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
+- [ ] [<code>design: New login design</code>](https://github.com/krille-chan/fluffychat/commit/3c5855c2d1123086f91ab59c5f3dfa85cff59a7f)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -319,6 +321,7 @@
 - [ ] [<code>incusd/scriptlet: Add useful QMP functions</code>](https://github.com/lxc/incus/commit/56c29ed3204c7fc8d8fe3b169657bd23c98b6bc7)
 - [ ] [<code>doc/ref/instance_options: Mention QEMU raw QMP commands</code>](https://github.com/lxc/incus/commit/f07fd5c60cf71c9463927f8205af651b7a6d6cc5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Add support to ipv4.dhcp.ranges</code>](https://github.com/lxc/incus/commit/7853124bfa8152031b5c6cf33b9bf685a56f23bf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1778,6 +1781,7 @@
 - [ ] [<code>incusd/scriptlet: Add useful QMP functions</code>](https://github.com/lxc/incus/commit/56c29ed3204c7fc8d8fe3b169657bd23c98b6bc7)
 - [ ] [<code>doc/ref/instance_options: Mention QEMU raw QMP commands</code>](https://github.com/lxc/incus/commit/f07fd5c60cf71c9463927f8205af651b7a6d6cc5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Add support to ipv4.dhcp.ranges</code>](https://github.com/lxc/incus/commit/7853124bfa8152031b5c6cf33b9bf685a56f23bf)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
