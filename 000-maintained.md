@@ -140,6 +140,9 @@
 - [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
 - [ ] [<code>design: New login design</code>](https://github.com/krille-chan/fluffychat/commit/3c5855c2d1123086f91ab59c5f3dfa85cff59a7f)
 - [ ] [<code>chore: Improve spaces design</code>](https://github.com/krille-chan/fluffychat/commit/a51cc082bcee140437c39577e340ece86513390b)
+- [ ] [<code>chore: Improve spaces design</code>](https://github.com/krille-chan/fluffychat/commit/f143a60b61929c22b9ebb851697fde26697c9985)
+- [ ] [<code>chore: Improved UX for creating groups and spaces</code>](https://github.com/krille-chan/fluffychat/commit/b9cd24eea75c2dbb3d34225e16ff2d235463d755)
+- [ ] [<code>feat: Better wallpapers with blur and opacity sliders and improved styles page</code>](https://github.com/krille-chan/fluffychat/commit/9ee7551ad4c8994b28864dceede156a10c329a61)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -224,6 +227,9 @@
 - [ ] [<code>chore: Follow up emoji only messages</code>](https://github.com/krille-chan/fluffychat/commit/6c548ec3505cfd171924e4a491abc3e1f8dc75ce)
 - [ ] [<code>design: New login design</code>](https://github.com/krille-chan/fluffychat/commit/3c5855c2d1123086f91ab59c5f3dfa85cff59a7f)
 - [ ] [<code>chore: Improve spaces design</code>](https://github.com/krille-chan/fluffychat/commit/a51cc082bcee140437c39577e340ece86513390b)
+- [ ] [<code>chore: Improve spaces design</code>](https://github.com/krille-chan/fluffychat/commit/f143a60b61929c22b9ebb851697fde26697c9985)
+- [ ] [<code>chore: Improved UX for creating groups and spaces</code>](https://github.com/krille-chan/fluffychat/commit/b9cd24eea75c2dbb3d34225e16ff2d235463d755)
+- [ ] [<code>feat: Better wallpapers with blur and opacity sliders and improved styles page</code>](https://github.com/krille-chan/fluffychat/commit/9ee7551ad4c8994b28864dceede156a10c329a61)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
