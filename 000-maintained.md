@@ -352,6 +352,8 @@
 - [ ] [<code>incusd/instance_logs: Update log file list</code>](https://github.com/lxc/incus/commit/03ce26ec69af376139e8d471e9dd2d3e4f85bc0b)
 - [ ] [<code>incusd/network/ovn/sb: Only monitor required tables</code>](https://github.com/lxc/incus/commit/9910d3e073b2cf6c6c9e7c28c87f4a630044a638)
 - [ ] [<code>incusd/network/ovn: Implement OVN SB event handlers</code>](https://github.com/lxc/incus/commit/5cafe14c0a0dcec4873dedbdcd2471abd21389fd)
+- [ ] [<code>incusd/instance/qmp: Handle disabling log file</code>](https://github.com/lxc/incus/commit/db9917eb37b927f720a13b7d51dbcb4972e63724)
+- [ ] [<code>incusd/instance/qemu: Don't use QMP log for feature checks</code>](https://github.com/lxc/incus/commit/e7b95aea9b1413aeb0f7418c2d22a6b2f4b1e32e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1828,6 +1830,8 @@
 - [ ] [<code>incusd/instance_logs: Update log file list</code>](https://github.com/lxc/incus/commit/03ce26ec69af376139e8d471e9dd2d3e4f85bc0b)
 - [ ] [<code>incusd/network/ovn/sb: Only monitor required tables</code>](https://github.com/lxc/incus/commit/9910d3e073b2cf6c6c9e7c28c87f4a630044a638)
 - [ ] [<code>incusd/network/ovn: Implement OVN SB event handlers</code>](https://github.com/lxc/incus/commit/5cafe14c0a0dcec4873dedbdcd2471abd21389fd)
+- [ ] [<code>incusd/instance/qmp: Handle disabling log file</code>](https://github.com/lxc/incus/commit/db9917eb37b927f720a13b7d51dbcb4972e63724)
+- [ ] [<code>incusd/instance/qemu: Don't use QMP log for feature checks</code>](https://github.com/lxc/incus/commit/e7b95aea9b1413aeb0f7418c2d22a6b2f4b1e32e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
