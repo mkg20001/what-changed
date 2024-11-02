@@ -146,6 +146,8 @@
 - [ ] [<code>chore: Follow up wallpaper configs</code>](https://github.com/krille-chan/fluffychat/commit/66ea73ea18afd2ad3b631f76cc5126c4a19d3292)
 - [ ] [<code>chore: Add max length to state messages</code>](https://github.com/krille-chan/fluffychat/commit/84e2563628fcf732f2e4a2b5fa0cbd89688fefb7)
 - [ ] [<code>chore: Follow up wallpaper design</code>](https://github.com/krille-chan/fluffychat/commit/b0a074c35636e8ab79e598cd0768ab1798d7c8ed)
+- [ ] [<code>feat: Open account manage url when using MAS</code>](https://github.com/krille-chan/fluffychat/commit/be7a7fb671b6c16c2e0d2765878089eacfb407be)
+- [ ] [<code>chore: follow up wellknown fetch</code>](https://github.com/krille-chan/fluffychat/commit/593acd7c3a2f655bbc846811cd63ed6507dc5933)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -236,6 +238,8 @@
 - [ ] [<code>chore: Follow up wallpaper configs</code>](https://github.com/krille-chan/fluffychat/commit/66ea73ea18afd2ad3b631f76cc5126c4a19d3292)
 - [ ] [<code>chore: Add max length to state messages</code>](https://github.com/krille-chan/fluffychat/commit/84e2563628fcf732f2e4a2b5fa0cbd89688fefb7)
 - [ ] [<code>chore: Follow up wallpaper design</code>](https://github.com/krille-chan/fluffychat/commit/b0a074c35636e8ab79e598cd0768ab1798d7c8ed)
+- [ ] [<code>feat: Open account manage url when using MAS</code>](https://github.com/krille-chan/fluffychat/commit/be7a7fb671b6c16c2e0d2765878089eacfb407be)
+- [ ] [<code>chore: follow up wellknown fetch</code>](https://github.com/krille-chan/fluffychat/commit/593acd7c3a2f655bbc846811cd63ed6507dc5933)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -1974,6 +1978,7 @@
 - [ ] [<code>github ci: use default profile for actions-rs</code>](https://github.com/AOMediaCodec/libavif/commit/dc2fe079b6e6d42e75f57fe053e8121972e90579)
 - [ ] [<code>Reapply "Check that the gain map metadata is valid on decoding." (#2493)</code>](https://github.com/AOMediaCodec/libavif/commit/99f7eebb6fa21a3330002f35d66842e648da38f5)
 - [ ] [<code>Fix avifROStreamSkipBits bug for incomplete byte</code>](https://github.com/AOMediaCodec/libavif/commit/2c26b296d1c96275a1893811bc63ccf75918da34)
+- [ ] [<code>Bump the github-actions group with 5 updates (#2498)</code>](https://github.com/AOMediaCodec/libavif/commit/dab2aa5ef42ea20ba0c98be88cf655a34cf3512b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2985,6 +2990,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): fix clippy warning</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f77d77152f63607b972091ce8b1707845bda61d4)
 - [ ] [<code>refactor(lib): limit visibility of device specific modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ceb15f4f46892ba6ee22c94a280a273840fe2aa0)
+- [ ] [<code>feat(lib): add support for A3031</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1db60c56869b42e9fb8b77c761380fd01f28b11)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "feat(lib): add support for A3030"</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4f66dbc369b232ca6b140d3151cd0b960db3c9c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): A3930 state update parsing mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/47c64da8a7d79dae2af773dce1dd852c5a8b2ec1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
