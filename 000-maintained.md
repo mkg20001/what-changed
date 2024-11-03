@@ -148,6 +148,10 @@
 - [ ] [<code>chore: Follow up wallpaper design</code>](https://github.com/krille-chan/fluffychat/commit/b0a074c35636e8ab79e598cd0768ab1798d7c8ed)
 - [ ] [<code>feat: Open account manage url when using MAS</code>](https://github.com/krille-chan/fluffychat/commit/be7a7fb671b6c16c2e0d2765878089eacfb407be)
 - [ ] [<code>chore: follow up wellknown fetch</code>](https://github.com/krille-chan/fluffychat/commit/593acd7c3a2f655bbc846811cd63ed6507dc5933)
+- [ ] [<code>build: Add links to snapcraft.yaml file</code>](https://github.com/krille-chan/fluffychat/commit/9019d9c9a6bd978d72f62208d86d595d8e74a916)
+- [ ] [<code>chore: Nicer empty page</code>](https://github.com/krille-chan/fluffychat/commit/8ba46a3533df8c66dc6b4115d56c6d0026cd14ad)
+- [ ] [<code>chore: Polish chat bubble colors</code>](https://github.com/krille-chan/fluffychat/commit/45299a741ff6027d3384be569bde89c5a9336453)
+- [ ] [<code>chore: Follow up chat bubble design</code>](https://github.com/krille-chan/fluffychat/commit/6e92693966b9c2c7ec41ecb40bf204dba8c264c9)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -240,6 +244,10 @@
 - [ ] [<code>chore: Follow up wallpaper design</code>](https://github.com/krille-chan/fluffychat/commit/b0a074c35636e8ab79e598cd0768ab1798d7c8ed)
 - [ ] [<code>feat: Open account manage url when using MAS</code>](https://github.com/krille-chan/fluffychat/commit/be7a7fb671b6c16c2e0d2765878089eacfb407be)
 - [ ] [<code>chore: follow up wellknown fetch</code>](https://github.com/krille-chan/fluffychat/commit/593acd7c3a2f655bbc846811cd63ed6507dc5933)
+- [ ] [<code>build: Add links to snapcraft.yaml file</code>](https://github.com/krille-chan/fluffychat/commit/9019d9c9a6bd978d72f62208d86d595d8e74a916)
+- [ ] [<code>chore: Nicer empty page</code>](https://github.com/krille-chan/fluffychat/commit/8ba46a3533df8c66dc6b4115d56c6d0026cd14ad)
+- [ ] [<code>chore: Polish chat bubble colors</code>](https://github.com/krille-chan/fluffychat/commit/45299a741ff6027d3384be569bde89c5a9336453)
+- [ ] [<code>chore: Follow up chat bubble design</code>](https://github.com/krille-chan/fluffychat/commit/6e92693966b9c2c7ec41ecb40bf204dba8c264c9)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
