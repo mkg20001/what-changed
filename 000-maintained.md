@@ -164,6 +164,11 @@
 - [ ] [<code>chore: Follow up homeserverpicker UX</code>](https://github.com/krille-chan/fluffychat/commit/65fd8a4184f1978119778d146b82403439889b82)
 - [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/cdaaad9c54632be2a2ca15871ecd2eb5caf51083)
 - [ ] [<code>feat: Add about server page</code>](https://github.com/krille-chan/fluffychat/commit/448a111c4890b453e4ff5341895979d60e6918c2)
+- [ ] [<code>chore: Follow up update snackbar</code>](https://github.com/krille-chan/fluffychat/commit/c447c2087f87bf64908d876877c5a10bbce0fe96)
+- [ ] [<code>chore: Polish login design</code>](https://github.com/krille-chan/fluffychat/commit/3a8bb47e2c374c31e37d4dbe3ce86e45ab866459)
+- [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/4b7345d0fe0c664d9c3908a56b92d3d71cf7d749)
+- [ ] [<code>chore: Follow up homeserver picker</code>](https://github.com/krille-chan/fluffychat/commit/a2e7356bd0c3219e75460e319cabaed28335d8a6)
+- [ ] [<code>chore: Follow up appbar shadow</code>](https://github.com/krille-chan/fluffychat/commit/9906668f1c74412d639152b0f4b75d35a9c1d554)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -272,6 +277,11 @@
 - [ ] [<code>chore: Follow up homeserverpicker UX</code>](https://github.com/krille-chan/fluffychat/commit/65fd8a4184f1978119778d146b82403439889b82)
 - [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/cdaaad9c54632be2a2ca15871ecd2eb5caf51083)
 - [ ] [<code>feat: Add about server page</code>](https://github.com/krille-chan/fluffychat/commit/448a111c4890b453e4ff5341895979d60e6918c2)
+- [ ] [<code>chore: Follow up update snackbar</code>](https://github.com/krille-chan/fluffychat/commit/c447c2087f87bf64908d876877c5a10bbce0fe96)
+- [ ] [<code>chore: Polish login design</code>](https://github.com/krille-chan/fluffychat/commit/3a8bb47e2c374c31e37d4dbe3ce86e45ab866459)
+- [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/4b7345d0fe0c664d9c3908a56b92d3d71cf7d749)
+- [ ] [<code>chore: Follow up homeserver picker</code>](https://github.com/krille-chan/fluffychat/commit/a2e7356bd0c3219e75460e319cabaed28335d8a6)
+- [ ] [<code>chore: Follow up appbar shadow</code>](https://github.com/krille-chan/fluffychat/commit/9906668f1c74412d639152b0f4b75d35a9c1d554)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2011,6 +2021,7 @@
 - [ ] [<code>Reapply "Check that the gain map metadata is valid on decoding." (#2493)</code>](https://github.com/AOMediaCodec/libavif/commit/99f7eebb6fa21a3330002f35d66842e648da38f5)
 - [ ] [<code>Fix avifROStreamSkipBits bug for incomplete byte</code>](https://github.com/AOMediaCodec/libavif/commit/2c26b296d1c96275a1893811bc63ccf75918da34)
 - [ ] [<code>Bump the github-actions group with 5 updates (#2498)</code>](https://github.com/AOMediaCodec/libavif/commit/dab2aa5ef42ea20ba0c98be88cf655a34cf3512b)
+- [ ] [<code>Test bitCount == 0 in avifROStreamSkipBits()</code>](https://github.com/AOMediaCodec/libavif/commit/4a4e5b43e50e62c4d420aaf9af7ad68295117508)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
