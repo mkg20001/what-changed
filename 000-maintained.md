@@ -25,6 +25,8 @@
 - [ ] [<code>distrobuilder: Also install exes when injecting drivers</code>](https://github.com/lxc/distrobuilder/commit/d28bd2358212919618c207cc04ca335b4f91c5d8)
 - [ ] [<code>windows: Refactor code for injecting drivers into a library for easier shared use</code>](https://github.com/lxc/distrobuilder/commit/8b651a1235f7c3df615e9cecb137a2187fd9629f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fedora: Add support for OCI images</code>](https://github.com/lxc/distrobuilder/commit/034cd08eec518842a22d21a55e5e961b9d77d352)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
