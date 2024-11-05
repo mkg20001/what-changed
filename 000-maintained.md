@@ -402,6 +402,7 @@
 - [ ] [<code>incusd/network/ovn: Implement OVN SB event handlers</code>](https://github.com/lxc/incus/commit/5cafe14c0a0dcec4873dedbdcd2471abd21389fd)
 - [ ] [<code>incusd/instance/qmp: Handle disabling log file</code>](https://github.com/lxc/incus/commit/db9917eb37b927f720a13b7d51dbcb4972e63724)
 - [ ] [<code>incusd/instance/qemu: Don't use QMP log for feature checks</code>](https://github.com/lxc/incus/commit/e7b95aea9b1413aeb0f7418c2d22a6b2f4b1e32e)
+- [ ] [<code>incusd/instance/lxc: Fix LXCFS per-instance path</code>](https://github.com/lxc/incus/commit/91ee242ae41c353ef15c4b896cad6a5c7a8a175a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1880,6 +1881,7 @@
 - [ ] [<code>incusd/network/ovn: Implement OVN SB event handlers</code>](https://github.com/lxc/incus/commit/5cafe14c0a0dcec4873dedbdcd2471abd21389fd)
 - [ ] [<code>incusd/instance/qmp: Handle disabling log file</code>](https://github.com/lxc/incus/commit/db9917eb37b927f720a13b7d51dbcb4972e63724)
 - [ ] [<code>incusd/instance/qemu: Don't use QMP log for feature checks</code>](https://github.com/lxc/incus/commit/e7b95aea9b1413aeb0f7418c2d22a6b2f4b1e32e)
+- [ ] [<code>incusd/instance/lxc: Fix LXCFS per-instance path</code>](https://github.com/lxc/incus/commit/91ee242ae41c353ef15c4b896cad6a5c7a8a175a)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3059,7 +3061,7 @@
 
 #### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.10.22.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.10.22.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.11.4.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.11.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.39.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.39.0...HEAD)
