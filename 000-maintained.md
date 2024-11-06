@@ -171,6 +171,8 @@
 - [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/4b7345d0fe0c664d9c3908a56b92d3d71cf7d749)
 - [ ] [<code>chore: Follow up homeserver picker</code>](https://github.com/krille-chan/fluffychat/commit/a2e7356bd0c3219e75460e319cabaed28335d8a6)
 - [ ] [<code>chore: Follow up appbar shadow</code>](https://github.com/krille-chan/fluffychat/commit/9906668f1c74412d639152b0f4b75d35a9c1d554)
+- [ ] [<code>refactor: Performance boost for avatar widget</code>](https://github.com/krille-chan/fluffychat/commit/58577bb9e8c65df64f1dd44ba908372e742f928e)
+- [ ] [<code>Revert "refactor: Performance boost for avatar widget"</code>](https://github.com/krille-chan/fluffychat/commit/d2c228418277bbf7d0c9d92dd279d19629f77e99)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -284,6 +286,8 @@
 - [ ] [<code>chore: Follow up login page</code>](https://github.com/krille-chan/fluffychat/commit/4b7345d0fe0c664d9c3908a56b92d3d71cf7d749)
 - [ ] [<code>chore: Follow up homeserver picker</code>](https://github.com/krille-chan/fluffychat/commit/a2e7356bd0c3219e75460e319cabaed28335d8a6)
 - [ ] [<code>chore: Follow up appbar shadow</code>](https://github.com/krille-chan/fluffychat/commit/9906668f1c74412d639152b0f4b75d35a9c1d554)
+- [ ] [<code>refactor: Performance boost for avatar widget</code>](https://github.com/krille-chan/fluffychat/commit/58577bb9e8c65df64f1dd44ba908372e742f928e)
+- [ ] [<code>Revert "refactor: Performance boost for avatar widget"</code>](https://github.com/krille-chan/fluffychat/commit/d2c228418277bbf7d0c9d92dd279d19629f77e99)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2030,6 +2034,7 @@
 - [ ] [<code>Fix avifROStreamSkipBits bug for incomplete byte</code>](https://github.com/AOMediaCodec/libavif/commit/2c26b296d1c96275a1893811bc63ccf75918da34)
 - [ ] [<code>Bump the github-actions group with 5 updates (#2498)</code>](https://github.com/AOMediaCodec/libavif/commit/dab2aa5ef42ea20ba0c98be88cf655a34cf3512b)
 - [ ] [<code>Test bitCount == 0 in avifROStreamSkipBits()</code>](https://github.com/AOMediaCodec/libavif/commit/4a4e5b43e50e62c4d420aaf9af7ad68295117508)
+- [ ] [<code>Bump libjpeg-turbo to 3.0.4 (#2501)</code>](https://github.com/AOMediaCodec/libavif/commit/1cdeff7ecf456492c47cf48fc0cef6591cdc95da)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
