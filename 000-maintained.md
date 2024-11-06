@@ -403,6 +403,8 @@
 - [ ] [<code>incusd/instance/qmp: Handle disabling log file</code>](https://github.com/lxc/incus/commit/db9917eb37b927f720a13b7d51dbcb4972e63724)
 - [ ] [<code>incusd/instance/qemu: Don't use QMP log for feature checks</code>](https://github.com/lxc/incus/commit/e7b95aea9b1413aeb0f7418c2d22a6b2f4b1e32e)
 - [ ] [<code>incusd/instance/lxc: Fix LXCFS per-instance path</code>](https://github.com/lxc/incus/commit/91ee242ae41c353ef15c4b896cad6a5c7a8a175a)
+- [ ] [<code>doc/idmap: Clarify subuid/subgid configuration</code>](https://github.com/lxc/incus/commit/31d411d8573df5860afe344bd38ff62bf3caf462)
+- [ ] [<code>incusd/instance/qmp: Fix logging with no log file</code>](https://github.com/lxc/incus/commit/1fef8b30d7475ac03f1ad90b3e84f8af9bd35f3c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1882,6 +1884,8 @@
 - [ ] [<code>incusd/instance/qmp: Handle disabling log file</code>](https://github.com/lxc/incus/commit/db9917eb37b927f720a13b7d51dbcb4972e63724)
 - [ ] [<code>incusd/instance/qemu: Don't use QMP log for feature checks</code>](https://github.com/lxc/incus/commit/e7b95aea9b1413aeb0f7418c2d22a6b2f4b1e32e)
 - [ ] [<code>incusd/instance/lxc: Fix LXCFS per-instance path</code>](https://github.com/lxc/incus/commit/91ee242ae41c353ef15c4b896cad6a5c7a8a175a)
+- [ ] [<code>doc/idmap: Clarify subuid/subgid configuration</code>](https://github.com/lxc/incus/commit/31d411d8573df5860afe344bd38ff62bf3caf462)
+- [ ] [<code>incusd/instance/qmp: Fix logging with no log file</code>](https://github.com/lxc/incus/commit/1fef8b30d7475ac03f1ad90b3e84f8af9bd35f3c)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
