@@ -173,6 +173,9 @@
 - [ ] [<code>chore: Follow up appbar shadow</code>](https://github.com/krille-chan/fluffychat/commit/9906668f1c74412d639152b0f4b75d35a9c1d554)
 - [ ] [<code>refactor: Performance boost for avatar widget</code>](https://github.com/krille-chan/fluffychat/commit/58577bb9e8c65df64f1dd44ba908372e742f928e)
 - [ ] [<code>Revert "refactor: Performance boost for avatar widget"</code>](https://github.com/krille-chan/fluffychat/commit/d2c228418277bbf7d0c9d92dd279d19629f77e99)
+- [ ] [<code>chore: Follow up homeserver input field</code>](https://github.com/krille-chan/fluffychat/commit/b2e1accf9dc1679f5f11b8e40227c4f67298517a)
+- [ ] [<code>refactor: Move to upstream geolocator</code>](https://github.com/krille-chan/fluffychat/commit/6d4cc45d07d1b3b339252fb8bc736a1b2035ee16)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -288,6 +291,9 @@
 - [ ] [<code>chore: Follow up appbar shadow</code>](https://github.com/krille-chan/fluffychat/commit/9906668f1c74412d639152b0f4b75d35a9c1d554)
 - [ ] [<code>refactor: Performance boost for avatar widget</code>](https://github.com/krille-chan/fluffychat/commit/58577bb9e8c65df64f1dd44ba908372e742f928e)
 - [ ] [<code>Revert "refactor: Performance boost for avatar widget"</code>](https://github.com/krille-chan/fluffychat/commit/d2c228418277bbf7d0c9d92dd279d19629f77e99)
+- [ ] [<code>chore: Follow up homeserver input field</code>](https://github.com/krille-chan/fluffychat/commit/b2e1accf9dc1679f5f11b8e40227c4f67298517a)
+- [ ] [<code>refactor: Move to upstream geolocator</code>](https://github.com/krille-chan/fluffychat/commit/6d4cc45d07d1b3b339252fb8bc736a1b2035ee16)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -410,6 +416,14 @@
 - [ ] [<code>doc/idmap: Clarify subuid/subgid configuration</code>](https://github.com/lxc/incus/commit/31d411d8573df5860afe344bd38ff62bf3caf462)
 - [ ] [<code>incusd/instance/qmp: Fix logging with no log file</code>](https://github.com/lxc/incus/commit/1fef8b30d7475ac03f1ad90b3e84f8af9bd35f3c)
 - [ ] [<code>client: Add a GetOIDCTokens() method</code>](https://github.com/lxc/incus/commit/c636e56d8beeb0b7e26be764bf21f6eeb1d56fb5)
+- [ ] [<code>cmd/project: Add get-current to show current project</code>](https://github.com/lxc/incus/commit/09ac8f9428e5ee6f72cdc64137176da7518a754f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Add get-current to show current project</code>](https://github.com/lxc/incus/commit/93b8c4c3f255600853d96cb1ccecd9e837c22f4f)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/861848c01b1cd5f45be45c17fa4cfa98a440c59f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/file/create: Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/7113c51e6748021a3ffbb0091424da6ae61eb7c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Allow 0 as value to limits.cpu.nodes</code>](https://github.com/lxc/incus/commit/676ba92cfceff9c71b3dee70eb983a14540e890f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1892,6 +1906,14 @@
 - [ ] [<code>doc/idmap: Clarify subuid/subgid configuration</code>](https://github.com/lxc/incus/commit/31d411d8573df5860afe344bd38ff62bf3caf462)
 - [ ] [<code>incusd/instance/qmp: Fix logging with no log file</code>](https://github.com/lxc/incus/commit/1fef8b30d7475ac03f1ad90b3e84f8af9bd35f3c)
 - [ ] [<code>client: Add a GetOIDCTokens() method</code>](https://github.com/lxc/incus/commit/c636e56d8beeb0b7e26be764bf21f6eeb1d56fb5)
+- [ ] [<code>cmd/project: Add get-current to show current project</code>](https://github.com/lxc/incus/commit/09ac8f9428e5ee6f72cdc64137176da7518a754f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Add get-current to show current project</code>](https://github.com/lxc/incus/commit/93b8c4c3f255600853d96cb1ccecd9e837c22f4f)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/861848c01b1cd5f45be45c17fa4cfa98a440c59f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/file/create: Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/7113c51e6748021a3ffbb0091424da6ae61eb7c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Allow 0 as value to limits.cpu.nodes</code>](https://github.com/lxc/incus/commit/676ba92cfceff9c71b3dee70eb983a14540e890f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3053,6 +3075,8 @@
 - [ ] [<code>Revert "feat(lib): add support for A3030"</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4f66dbc369b232ca6b140d3151cd0b960db3c9c7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): A3930 state update parsing mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/47c64da8a7d79dae2af773dce1dd852c5a8b2ec1)
+- [ ] [<code>docs: specify android build variant</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2a8755fb290f066192f0cd874a80ecb5d13f8d15)
+- [ ] [<code>docs: fix path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/840a9689e7684564c31ca3d1bdce591ea94f083f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
