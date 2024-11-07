@@ -409,6 +409,7 @@
 - [ ] [<code>incusd/instance/lxc: Fix LXCFS per-instance path</code>](https://github.com/lxc/incus/commit/91ee242ae41c353ef15c4b896cad6a5c7a8a175a)
 - [ ] [<code>doc/idmap: Clarify subuid/subgid configuration</code>](https://github.com/lxc/incus/commit/31d411d8573df5860afe344bd38ff62bf3caf462)
 - [ ] [<code>incusd/instance/qmp: Fix logging with no log file</code>](https://github.com/lxc/incus/commit/1fef8b30d7475ac03f1ad90b3e84f8af9bd35f3c)
+- [ ] [<code>client: Add a GetOIDCTokens() method</code>](https://github.com/lxc/incus/commit/c636e56d8beeb0b7e26be764bf21f6eeb1d56fb5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1890,6 +1891,7 @@
 - [ ] [<code>incusd/instance/lxc: Fix LXCFS per-instance path</code>](https://github.com/lxc/incus/commit/91ee242ae41c353ef15c4b896cad6a5c7a8a175a)
 - [ ] [<code>doc/idmap: Clarify subuid/subgid configuration</code>](https://github.com/lxc/incus/commit/31d411d8573df5860afe344bd38ff62bf3caf462)
 - [ ] [<code>incusd/instance/qmp: Fix logging with no log file</code>](https://github.com/lxc/incus/commit/1fef8b30d7475ac03f1ad90b3e84f8af9bd35f3c)
+- [ ] [<code>client: Add a GetOIDCTokens() method</code>](https://github.com/lxc/incus/commit/c636e56d8beeb0b7e26be764bf21f6eeb1d56fb5)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
