@@ -45,6 +45,8 @@
 - [ ] [<code>main: fix format string related warnings for log/debug printf functions</code>](https://git.openwrt.org/project/netifd.git/commit/e93f6c3fc72904c0d178c9cdd57323071ef4ce12)
 - [ ] [<code>fix signed/unsigned comparison warnings</code>](https://git.openwrt.org/project/netifd.git/commit/6ab44a2413f9681da0b78d0c7b1077ba46255a8a)
 - [ ] [<code>system-dummy: add system_if_apply_settings_after_up</code>](https://git.openwrt.org/project/netifd.git/commit/4fe997b61d7db047d0c4757202b4e8025debc4d1)
+- [ ] [<code>ubus: add notifications on wireless device state changes</code>](https://git.openwrt.org/project/netifd.git/commit/992d33cb42a6e70d98a65f55fb9d000de0fd613b)
+- [ ] [<code>device/interface: add "tags" attribute from config to status dump</code>](https://git.openwrt.org/project/netifd.git/commit/34eb11eb6f5c62de480d6192f0ca840093127fee)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
