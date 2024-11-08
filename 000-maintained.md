@@ -3077,6 +3077,10 @@
 - [ ] [<code>fix(lib): A3930 state update parsing mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/47c64da8a7d79dae2af773dce1dd852c5a8b2ec1)
 - [ ] [<code>docs: specify android build variant</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2a8755fb290f066192f0cd874a80ecb5d13f8d15)
 - [ ] [<code>docs: fix path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/840a9689e7684564c31ca3d1bdce591ea94f083f)
+- [ ] [<code>docs: update android build instructions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80108467116bdb870bda19cc8a2d5aaec22da43f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>build: add get-ndk-version.sh script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3dd88f5f893104540e36bcaff8de2f24bf6a407b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
