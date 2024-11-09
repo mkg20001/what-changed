@@ -27,6 +27,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fedora: Add support for OCI images</code>](https://github.com/lxc/distrobuilder/commit/034cd08eec518842a22d21a55e5e961b9d77d352)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>ubuntu.yaml: add Noble, Oracular, Plucky</code>](https://github.com/lxc/distrobuilder/commit/8b97fe9729670b2bd574c67d07908d01e649cca9)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
