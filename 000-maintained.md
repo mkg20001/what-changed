@@ -46,7 +46,7 @@
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
 - [ ] [<code>Update Rust to v1.80.1</code>](https://github.com/stepchowfun/docuum/commit/4309709bd352686d0bbb8ba6ab8ebce89be2f89f)
 - [ ] [<code>Update Rust to v1.81.0</code>](https://github.com/stepchowfun/docuum/commit/01c5827c3c51fdf33aea0e6da94c40f822cf2556)
-> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.9.3/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [ce300838d95c5955423eedcac8b05589b14a8c52 → HEAD](https://github.com/canonical/firmware-updater/compare/ce300838d95c5955423eedcac8b05589b14a8c52...HEAD)
@@ -178,6 +178,11 @@
 - [ ] [<code>refactor: Move to upstream geolocator</code>](https://github.com/krille-chan/fluffychat/commit/6d4cc45d07d1b3b339252fb8bc736a1b2035ee16)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/ae8965b03ffa064fd598c6491f9efb42351128af)
+- [ ] [<code>refactor: Migrate to newer keyboard shortcuts package</code>](https://github.com/krille-chan/fluffychat/commit/f5c21481e68d39d8df87b00fa04eea3c0a0d233a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Remove keyboard shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/39de990fae487ca83bab5b441723956732657df0)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -297,6 +302,11 @@
 - [ ] [<code>refactor: Move to upstream geolocator</code>](https://github.com/krille-chan/fluffychat/commit/6d4cc45d07d1b3b339252fb8bc736a1b2035ee16)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/ae8965b03ffa064fd598c6491f9efb42351128af)
+- [ ] [<code>refactor: Migrate to newer keyboard shortcuts package</code>](https://github.com/krille-chan/fluffychat/commit/f5c21481e68d39d8df87b00fa04eea3c0a0d233a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Remove keyboard shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/39de990fae487ca83bab5b441723956732657df0)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
