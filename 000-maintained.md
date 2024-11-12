@@ -2073,6 +2073,7 @@
 - [ ] [<code>Test bitCount == 0 in avifROStreamSkipBits()</code>](https://github.com/AOMediaCodec/libavif/commit/4a4e5b43e50e62c4d420aaf9af7ad68295117508)
 - [ ] [<code>Bump libjpeg-turbo to 3.0.4 (#2501)</code>](https://github.com/AOMediaCodec/libavif/commit/1cdeff7ecf456492c47cf48fc0cef6591cdc95da)
 - [ ] [<code>Fix quantizer range in codec_avm (#2502)</code>](https://github.com/AOMediaCodec/libavif/commit/5766fd13c3a6e177754005381cf8460fb0601b04)
+- [ ] [<code>Update YCgCo-R coeffs in comments. (#2503)</code>](https://github.com/AOMediaCodec/libavif/commit/a9ac378e84daec87dc7f6c438bf0215c6165de39)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
