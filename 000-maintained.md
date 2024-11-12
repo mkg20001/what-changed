@@ -437,6 +437,8 @@
 - [ ] [<code>incus/file/create: Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/7113c51e6748021a3ffbb0091424da6ae61eb7c7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/instance: Allow 0 as value to limits.cpu.nodes</code>](https://github.com/lxc/incus/commit/676ba92cfceff9c71b3dee70eb983a14540e890f)
+- [ ] [<code>internal/linux: Add NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/d9369f5df426a6d8c5c45912879bd4949b818daf)
+- [ ] [<code>incus-agent: Use NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/94cc8d6d3d6f0edbb09b8adeadafefaceee32f03)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1927,6 +1929,8 @@
 - [ ] [<code>incus/file/create: Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/7113c51e6748021a3ffbb0091424da6ae61eb7c7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/instance: Allow 0 as value to limits.cpu.nodes</code>](https://github.com/lxc/incus/commit/676ba92cfceff9c71b3dee70eb983a14540e890f)
+- [ ] [<code>internal/linux: Add NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/d9369f5df426a6d8c5c45912879bd4949b818daf)
+- [ ] [<code>incus-agent: Use NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/94cc8d6d3d6f0edbb09b8adeadafefaceee32f03)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2821,6 +2825,8 @@
 - [ ] [<code>include: fix apidoc warnings about undocumented parameters</code>](https://github.com/canonical/netplan/commit/cfac5eb95d67b2db0f5cb2cd72adc0de0960f521)
 - [ ] [<code>networkmanager: add support for stable-ssid MAC option</code>](https://github.com/canonical/netplan/commit/83a8d8cc6f27cb001b6f81b5c59a47bf980f1029)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: Fix fedora:latest (F41) failure</code>](https://github.com/canonical/netplan/commit/52b375a029ce44a1eecddab791a910454c3c3aeb)
+- [ ] [<code>parse.c: quiet "may be used uninitialized" warnings/errors</code>](https://github.com/canonical/netplan/commit/57795b47db1fb7fa4e5c2599da5898e3ff716257)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3100,6 +3106,14 @@
 - [ ] [<code>test(lib): wait for packet handler start up before performing actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/acba49514a11e25b20b909228ffd14d86a326dc0)
 - [ ] [<code>test(lib): pause tokio time</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f6ba1f11a86797fbdb8b6c63229c6c5c21a7ced)
 - [ ] [<code>ci: specify ndk version rather than using latest</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d1ef7819136940ab16b04856a65a76fd4073a620)
+- [ ] [<code>refactor(lib): replace host device u8 with enum</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed3ca58d81c86e6664f1e60631e565958c6e5259)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): replace age range u8 with newtype</code>](https://github.com/Oppzippy/OpenSCQ30/commit/55ff9d7bd92cbc9dcff5028934e77ddb74e3ecbd)
+- [ ] [<code>test(lib): remove todo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f26f89644cd1b62266f486054542caf6c9cf70c)
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bd4bb37c9983e3a3285394159c99fc2a5606c96e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1792bbd7771c8a9e6a331a8c49a7add5b4ac1236)
+- [ ] [<code>ci: update node to 22 (latest LTS)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3d754244e78a7b1cbd002c62a699bcbf4a4d3ed0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
