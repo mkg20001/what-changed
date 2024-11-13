@@ -2835,7 +2835,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict([('attr_path', 'odoo17'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.23.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.23.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
