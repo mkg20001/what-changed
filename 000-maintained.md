@@ -3114,6 +3114,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1792bbd7771c8a9e6a331a8c49a7add5b4ac1236)
 - [ ] [<code>ci: update node to 22 (latest LTS)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3d754244e78a7b1cbd002c62a699bcbf4a4d3ed0)
+- [ ] [<code>fix(gui): custom profile dropdown auto selecting first item</code>](https://github.com/Oppzippy/OpenSCQ30/commit/573068e3882134dbf001662ad37fa5155104c1ad)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
