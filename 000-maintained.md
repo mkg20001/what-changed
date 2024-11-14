@@ -28,6 +28,8 @@
 - [ ] [<code>fedora: Add support for OCI images</code>](https://github.com/lxc/distrobuilder/commit/034cd08eec518842a22d21a55e5e961b9d77d352)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>ubuntu.yaml: add Noble, Oracular, Plucky</code>](https://github.com/lxc/distrobuilder/commit/8b97fe9729670b2bd574c67d07908d01e649cca9)
+- [ ] [<code>Move to geaaru/docker-companion fork</code>](https://github.com/lxc/distrobuilder/commit/7de1611cd29ce564e3423bc4b02fb935d7a812a6)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/dc5c139408f0d5ff26882c68b881e214827e63f6)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -443,6 +445,17 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2a066c02688eb437e2726a9b0a2fa2644a9c19b1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/monitor: Include location in cluster logging</code>](https://github.com/lxc/incus/commit/8a105ce6c0299f10d6b0d58ef63607027eee8c65)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Add ResourceUsage</code>](https://github.com/lxc/incus/commit/1a6957329e8ee55904a6161f3d37dc291b2c90cb)
+- [ ] [<code>incusd/scriptlet/instance: Use ResourceUsage</code>](https://github.com/lxc/incus/commit/d3d0f30db881d10f49bcb9dd729cc9e9a675b06e)
+- [ ] [<code>api: cluster_rebalance</code>](https://github.com/lxc/incus/commit/a3cf028ef7c15be8c38f440093b55e344b77d5c3)
+- [ ] [<code>incusd/cluster/config: Add cluster re-balance configuration keys</code>](https://github.com/lxc/incus/commit/42fdcac3e15f5d127accb361b64bd34effd03118)
+- [ ] [<code>incusd/instance/config: Add volatile re-balance configuration key</code>](https://github.com/lxc/incus/commit/fdf94941f7245a50fe873182c4ba9d1192469f39)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/4dabc1b02b30ea9504bcc3bba6f3c77001bc878c)
+- [ ] [<code>incusd: Add cluster rebalance task</code>](https://github.com/lxc/incus/commit/931a658b841d9beaaad83e043f3176f56b11f699)
+- [ ] [<code>incusd/internal: Add rebalance endpoint</code>](https://github.com/lxc/incus/commit/e8ed06b04b1fc8c53fdb0a7d4e664fac20311512)
+- [ ] [<code>doc/cluster: Add mention of re-balancing</code>](https://github.com/lxc/incus/commit/30dfc9de065d8762964401cf4c71a16ce0105532)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1939,6 +1952,17 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2a066c02688eb437e2726a9b0a2fa2644a9c19b1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/monitor: Include location in cluster logging</code>](https://github.com/lxc/incus/commit/8a105ce6c0299f10d6b0d58ef63607027eee8c65)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Add ResourceUsage</code>](https://github.com/lxc/incus/commit/1a6957329e8ee55904a6161f3d37dc291b2c90cb)
+- [ ] [<code>incusd/scriptlet/instance: Use ResourceUsage</code>](https://github.com/lxc/incus/commit/d3d0f30db881d10f49bcb9dd729cc9e9a675b06e)
+- [ ] [<code>api: cluster_rebalance</code>](https://github.com/lxc/incus/commit/a3cf028ef7c15be8c38f440093b55e344b77d5c3)
+- [ ] [<code>incusd/cluster/config: Add cluster re-balance configuration keys</code>](https://github.com/lxc/incus/commit/42fdcac3e15f5d127accb361b64bd34effd03118)
+- [ ] [<code>incusd/instance/config: Add volatile re-balance configuration key</code>](https://github.com/lxc/incus/commit/fdf94941f7245a50fe873182c4ba9d1192469f39)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/4dabc1b02b30ea9504bcc3bba6f3c77001bc878c)
+- [ ] [<code>incusd: Add cluster rebalance task</code>](https://github.com/lxc/incus/commit/931a658b841d9beaaad83e043f3176f56b11f699)
+- [ ] [<code>incusd/internal: Add rebalance endpoint</code>](https://github.com/lxc/incus/commit/e8ed06b04b1fc8c53fdb0a7d4e664fac20311512)
+- [ ] [<code>doc/cluster: Add mention of re-balancing</code>](https://github.com/lxc/incus/commit/30dfc9de065d8762964401cf4c71a16ce0105532)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
