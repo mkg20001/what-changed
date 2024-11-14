@@ -58,6 +58,11 @@
 - [ ] [<code>chore: update mocks</code>](https://github.com/canonical/firmware-updater/commit/8a48788ae1805deac416a5640abc36e0ac801770)
 - [ ] [<code>fix: make _userAgent mutable</code>](https://github.com/canonical/firmware-updater/commit/3b361712a141a54c466287215e31ca7a42f7a5d2)
 - [ ] [<code>fix: remove trailing newlines from uname output</code>](https://github.com/canonical/firmware-updater/commit/d6e3ed5e9891c6d4fd27047eabf533475984b908)
+- [ ] [<code>feat: adding ISSUE_TEMPLATE directory</code>](https://github.com/canonical/firmware-updater/commit/b6583b1616252ed2a18fe664dc8dc225b0024f3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: adjust versions in issue dropdown</code>](https://github.com/canonical/firmware-updater/commit/13e3c470105b02d3495e17e72bdfaf987e0d28ce)
+- [ ] [<code>feat: add snapd to requested snap info cmd</code>](https://github.com/canonical/firmware-updater/commit/b85417f3a39c83e53b28d39a874a483c629ecedd)
+- [ ] [<code>feat: updating wording in templates</code>](https://github.com/canonical/firmware-updater/commit/cca49fa5ba355f4e4c877dc4b3645db9887f35b8)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -185,6 +190,7 @@
 - [ ] [<code>refactor: Remove keyboard shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/39de990fae487ca83bab5b441723956732657df0)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
+- [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -309,6 +315,7 @@
 - [ ] [<code>refactor: Remove keyboard shortcuts</code>](https://github.com/krille-chan/fluffychat/commit/39de990fae487ca83bab5b441723956732657df0)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
+- [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -445,6 +452,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2a066c02688eb437e2726a9b0a2fa2644a9c19b1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/06af2d63270917c4f3940a24de10eb7ea299f8f5)
 - [ ] [<code>incus/monitor: Include location in cluster logging</code>](https://github.com/lxc/incus/commit/8a105ce6c0299f10d6b0d58ef63607027eee8c65)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance: Add ResourceUsage</code>](https://github.com/lxc/incus/commit/1a6957329e8ee55904a6161f3d37dc291b2c90cb)
@@ -456,6 +464,16 @@
 - [ ] [<code>incusd: Add cluster rebalance task</code>](https://github.com/lxc/incus/commit/931a658b841d9beaaad83e043f3176f56b11f699)
 - [ ] [<code>incusd/internal: Add rebalance endpoint</code>](https://github.com/lxc/incus/commit/e8ed06b04b1fc8c53fdb0a7d4e664fac20311512)
 - [ ] [<code>doc/cluster: Add mention of re-balancing</code>](https://github.com/lxc/incus/commit/30dfc9de065d8762964401cf4c71a16ce0105532)
+- [ ] [<code>api: custom_volume_refresh_exclude_older_snapshots</code>](https://github.com/lxc/incus/commit/3058c104f884739f27084bc4b7e555fea3fd0680)
+- [ ] [<code>shared/api: Add RefreshExcludeOlder to InstanceSource and StorageVolumeSource</code>](https://github.com/lxc/incus/commit/7ba95d6fbda23dce7479a971e0028907283a4e1a)
+- [ ] [<code>client: Add RefreshExcludeOlder flag to StoragePoolVolumeCopyArgs and InstanceCopyArgs</code>](https://github.com/lxc/incus/commit/58c526f194dcbf3cf68e4519772180b47a4d8654)
+- [ ] [<code>incus: Adding refresh-exclude-older flag to 'copy' and 'storage volume copy'</code>](https://github.com/lxc/incus/commit/2b54ea6e22f9f151bb89e49b5c36bbe4eb591fa5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/migration: Add refresh-exclude-older flag</code>](https://github.com/lxc/incus/commit/0c9aa0192919dcaadfdbf2f4030373760d0a37c3)
+- [ ] [<code>internal: Adding refresh-exclude-older flag implementation</code>](https://github.com/lxc/incus/commit/e4ec0a6600ac73624f3e1b31be22a39ddebd99ce)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7875e2dfebd24ecd00b03eae997d0a101a52fc9f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/0779d5c3cf425232404fa1f6f1e89b845f908124)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1952,6 +1970,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2a066c02688eb437e2726a9b0a2fa2644a9c19b1)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/06af2d63270917c4f3940a24de10eb7ea299f8f5)
 - [ ] [<code>incus/monitor: Include location in cluster logging</code>](https://github.com/lxc/incus/commit/8a105ce6c0299f10d6b0d58ef63607027eee8c65)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance: Add ResourceUsage</code>](https://github.com/lxc/incus/commit/1a6957329e8ee55904a6161f3d37dc291b2c90cb)
@@ -1963,6 +1982,16 @@
 - [ ] [<code>incusd: Add cluster rebalance task</code>](https://github.com/lxc/incus/commit/931a658b841d9beaaad83e043f3176f56b11f699)
 - [ ] [<code>incusd/internal: Add rebalance endpoint</code>](https://github.com/lxc/incus/commit/e8ed06b04b1fc8c53fdb0a7d4e664fac20311512)
 - [ ] [<code>doc/cluster: Add mention of re-balancing</code>](https://github.com/lxc/incus/commit/30dfc9de065d8762964401cf4c71a16ce0105532)
+- [ ] [<code>api: custom_volume_refresh_exclude_older_snapshots</code>](https://github.com/lxc/incus/commit/3058c104f884739f27084bc4b7e555fea3fd0680)
+- [ ] [<code>shared/api: Add RefreshExcludeOlder to InstanceSource and StorageVolumeSource</code>](https://github.com/lxc/incus/commit/7ba95d6fbda23dce7479a971e0028907283a4e1a)
+- [ ] [<code>client: Add RefreshExcludeOlder flag to StoragePoolVolumeCopyArgs and InstanceCopyArgs</code>](https://github.com/lxc/incus/commit/58c526f194dcbf3cf68e4519772180b47a4d8654)
+- [ ] [<code>incus: Adding refresh-exclude-older flag to 'copy' and 'storage volume copy'</code>](https://github.com/lxc/incus/commit/2b54ea6e22f9f151bb89e49b5c36bbe4eb591fa5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/migration: Add refresh-exclude-older flag</code>](https://github.com/lxc/incus/commit/0c9aa0192919dcaadfdbf2f4030373760d0a37c3)
+- [ ] [<code>internal: Adding refresh-exclude-older flag implementation</code>](https://github.com/lxc/incus/commit/e4ec0a6600ac73624f3e1b31be22a39ddebd99ce)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7875e2dfebd24ecd00b03eae997d0a101a52fc9f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/0779d5c3cf425232404fa1f6f1e89b845f908124)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2859,6 +2888,11 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>CI: Fix fedora:latest (F41) failure</code>](https://github.com/canonical/netplan/commit/52b375a029ce44a1eecddab791a910454c3c3aeb)
 - [ ] [<code>parse.c: quiet "may be used uninitialized" warnings/errors</code>](https://github.com/canonical/netplan/commit/57795b47db1fb7fa4e5c2599da5898e3ff716257)
+- [ ] [<code>ATTN: networkmanager: add support for "routing-policy"</code>](https://github.com/canonical/netplan/commit/d375478003008d14a6921b647716be713fb7c081)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>validation: remove superfluous comparison</code>](https://github.com/canonical/netplan/commit/3aba58e7c71adabab98da091a685feb94a422157)
+- [ ] [<code>ATTN: validation: warn if a priority is not set for a routing-policy</code>](https://github.com/canonical/netplan/commit/ae09e2c1dbc30ee096eee2a2aa19f08e6edd129f)
+- [ ] [<code>validation: use curly braces for all branches</code>](https://github.com/canonical/netplan/commit/f0d64c41be096358ed87061d5cdb06751825a2b8)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
