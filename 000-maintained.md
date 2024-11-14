@@ -439,6 +439,10 @@
 - [ ] [<code>internal/instance: Allow 0 as value to limits.cpu.nodes</code>](https://github.com/lxc/incus/commit/676ba92cfceff9c71b3dee70eb983a14540e890f)
 - [ ] [<code>internal/linux: Add NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/d9369f5df426a6d8c5c45912879bd4949b818daf)
 - [ ] [<code>incus-agent: Use NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/94cc8d6d3d6f0edbb09b8adeadafefaceee32f03)
+- [ ] [<code>incus/top: Add additional flags</code>](https://github.com/lxc/incus/commit/9f561eb6564df77785b7bcfb1831c037981e28ee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2a066c02688eb437e2726a9b0a2fa2644a9c19b1)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1931,6 +1935,10 @@
 - [ ] [<code>internal/instance: Allow 0 as value to limits.cpu.nodes</code>](https://github.com/lxc/incus/commit/676ba92cfceff9c71b3dee70eb983a14540e890f)
 - [ ] [<code>internal/linux: Add NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/d9369f5df426a6d8c5c45912879bd4949b818daf)
 - [ ] [<code>incus-agent: Use NetlinkInterfaces</code>](https://github.com/lxc/incus/commit/94cc8d6d3d6f0edbb09b8adeadafefaceee32f03)
+- [ ] [<code>incus/top: Add additional flags</code>](https://github.com/lxc/incus/commit/9f561eb6564df77785b7bcfb1831c037981e28ee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2a066c02688eb437e2726a9b0a2fa2644a9c19b1)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
