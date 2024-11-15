@@ -166,6 +166,7 @@
 - [ ] [<code>Fix verbose/debug logging, add G_LOG_DOMAIN for easier tracking</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/fd8aa94053b5a6f4131188a2e72f9a1186624dac)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>csd-power: Refactoring display backlight code.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1b36b7ac9d55b4b96f64e7b72c7078b304a9b285)
+- [ ] [<code>csd-color-state.c: Fix build warning/error.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/57b8a0a742a876d51403ad27613fe84b228d1081)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
