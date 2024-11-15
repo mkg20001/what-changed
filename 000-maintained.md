@@ -474,6 +474,11 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7875e2dfebd24ecd00b03eae997d0a101a52fc9f)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/0779d5c3cf425232404fa1f6f1e89b845f908124)
+- [ ] [<code>incus/top: Fix gofmt</code>](https://github.com/lxc/incus/commit/a0966f08cbbdca741c80cad4355b8411efd98810)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Make Export return a pointer to metadata</code>](https://github.com/lxc/incus/commit/54f059971e71e9fe55eb58ce9925e195d79ce94d)
+- [ ] [<code>incusd/images: Update for changes to Export</code>](https://github.com/lxc/incus/commit/101c68effd15aaade69a0b7dafb0c12c7132a2a3)
+- [ ] [<code>incusd/instances/publish: Fix base metadata</code>](https://github.com/lxc/incus/commit/4abcc7ef61b7d608bbffbc0c9da8665e2e25db1e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1992,6 +1997,11 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7875e2dfebd24ecd00b03eae997d0a101a52fc9f)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/0779d5c3cf425232404fa1f6f1e89b845f908124)
+- [ ] [<code>incus/top: Fix gofmt</code>](https://github.com/lxc/incus/commit/a0966f08cbbdca741c80cad4355b8411efd98810)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Make Export return a pointer to metadata</code>](https://github.com/lxc/incus/commit/54f059971e71e9fe55eb58ce9925e195d79ce94d)
+- [ ] [<code>incusd/images: Update for changes to Export</code>](https://github.com/lxc/incus/commit/101c68effd15aaade69a0b7dafb0c12c7132a2a3)
+- [ ] [<code>incusd/instances/publish: Fix base metadata</code>](https://github.com/lxc/incus/commit/4abcc7ef61b7d608bbffbc0c9da8665e2e25db1e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
