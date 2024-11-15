@@ -191,6 +191,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 - [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
+- [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/9fab7630a39429802030b98d4d51b4e1c1263d46)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -316,6 +317,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 - [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
+- [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/9fab7630a39429802030b98d4d51b4e1c1263d46)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -479,6 +481,26 @@
 - [ ] [<code>incusd/instance/drivers: Make Export return a pointer to metadata</code>](https://github.com/lxc/incus/commit/54f059971e71e9fe55eb58ce9925e195d79ce94d)
 - [ ] [<code>incusd/images: Update for changes to Export</code>](https://github.com/lxc/incus/commit/101c68effd15aaade69a0b7dafb0c12c7132a2a3)
 - [ ] [<code>incusd/instances/publish: Fix base metadata</code>](https://github.com/lxc/incus/commit/4abcc7ef61b7d608bbffbc0c9da8665e2e25db1e)
+- [ ] [<code>incusd/bgp: Don't add duplicates</code>](https://github.com/lxc/incus/commit/13402bb7b03f07bd4837db2958fd72838027f562)
+- [ ] [<code>incusd/network/bgp: Only skip BGP if unconfigured and not on OVN</code>](https://github.com/lxc/incus/commit/ff8fb6896d53747fc6b16b130c14181e1198f4c1)
+- [ ] [<code>incusd/network: Move loadBalancerBGPSetupPrefixes to OVN driver</code>](https://github.com/lxc/incus/commit/a533fc9f5194390e1e03b1ae944ce31f82e5505e)
+- [ ] [<code>incusd/network/ovn/sb: Add CheckLoadBalancerOnline</code>](https://github.com/lxc/incus/commit/c7591572c97f42be69fde93bfe9c24640f77b119)
+- [ ] [<code>incusd/network/ovn/nb: Add GetLoadBalancer and GetLoadBalancersByStatusUpdate</code>](https://github.com/lxc/incus/commit/0dcaa55ea9f6762ff5a1742d8b8ba3b31b6a307d)
+- [ ] [<code>incusd/network/ovn: Add load-balancer health event handler</code>](https://github.com/lxc/incus/commit/dd11c0ce2d04001bd1ffd81240078c6aaf66bc2a)
+- [ ] [<code>incusd/network/ovn: Don't advertise offline load-balancers on startup</code>](https://github.com/lxc/incus/commit/460effdf5b30671a787e79fbefaa050ad8e4c8a5)
+- [ ] [<code>shared/subprocess: Allow overriding Cwd</code>](https://github.com/lxc/incus/commit/5cb502bf3b66e6b19bf9862cd2aadd4f975bfed9)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/device/tpm: Fix handling of long instance names</code>](https://github.com/lxc/incus/commit/8e8666bb1565ffe8b2d6acd1764059fe9deac9bf)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Don't take over operations on console retrieval</code>](https://github.com/lxc/incus/commit/d7f9ebf46a8c8f2e41b34a1df13fad2ac9a095a0)
+- [ ] [<code>incusd/instance_post: Provide target project to relocation scriptlet</code>](https://github.com/lxc/incus/commit/5782723dde66c5517e48b4a6cd0486f6e88f5596)
+- [ ] [<code>incusd/cluster/request: Add new internal user-agent</code>](https://github.com/lxc/incus/commit/700f35e329408617521ea508a8d77accccd8b959)
+- [ ] [<code>incusd/instances_post: Don't re-run placement on internal requests</code>](https://github.com/lxc/incus/commit/cd2539df7524cd539ae938cd96a73ad763139e20)
+- [ ] [<code>incusd/api: Handle new user agent</code>](https://github.com/lxc/incus/commit/eeaa9f3dc2c7914e1541db6400ea8bd175f67b89)
+- [ ] [<code>incusd/instance_post: Pass in internal user agent during relocation</code>](https://github.com/lxc/incus/commit/51a8dc484e0d30202b3bc2bd8a720df0c9009d36)
+- [ ] [<code>incusd/instance/qemu: Don't overtake operations on console retrieval</code>](https://github.com/lxc/incus/commit/d33cb3ff8800d021d67f5c3c6522096ea1753d71)
+- [ ] [<code>Release Incus 6.7</code>](https://github.com/lxc/incus/commit/795717f31cc79ee3bde152d0f1f89b355b919550)
+  - <sub>Tags: <code>v6.7.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2002,6 +2024,26 @@
 - [ ] [<code>incusd/instance/drivers: Make Export return a pointer to metadata</code>](https://github.com/lxc/incus/commit/54f059971e71e9fe55eb58ce9925e195d79ce94d)
 - [ ] [<code>incusd/images: Update for changes to Export</code>](https://github.com/lxc/incus/commit/101c68effd15aaade69a0b7dafb0c12c7132a2a3)
 - [ ] [<code>incusd/instances/publish: Fix base metadata</code>](https://github.com/lxc/incus/commit/4abcc7ef61b7d608bbffbc0c9da8665e2e25db1e)
+- [ ] [<code>incusd/bgp: Don't add duplicates</code>](https://github.com/lxc/incus/commit/13402bb7b03f07bd4837db2958fd72838027f562)
+- [ ] [<code>incusd/network/bgp: Only skip BGP if unconfigured and not on OVN</code>](https://github.com/lxc/incus/commit/ff8fb6896d53747fc6b16b130c14181e1198f4c1)
+- [ ] [<code>incusd/network: Move loadBalancerBGPSetupPrefixes to OVN driver</code>](https://github.com/lxc/incus/commit/a533fc9f5194390e1e03b1ae944ce31f82e5505e)
+- [ ] [<code>incusd/network/ovn/sb: Add CheckLoadBalancerOnline</code>](https://github.com/lxc/incus/commit/c7591572c97f42be69fde93bfe9c24640f77b119)
+- [ ] [<code>incusd/network/ovn/nb: Add GetLoadBalancer and GetLoadBalancersByStatusUpdate</code>](https://github.com/lxc/incus/commit/0dcaa55ea9f6762ff5a1742d8b8ba3b31b6a307d)
+- [ ] [<code>incusd/network/ovn: Add load-balancer health event handler</code>](https://github.com/lxc/incus/commit/dd11c0ce2d04001bd1ffd81240078c6aaf66bc2a)
+- [ ] [<code>incusd/network/ovn: Don't advertise offline load-balancers on startup</code>](https://github.com/lxc/incus/commit/460effdf5b30671a787e79fbefaa050ad8e4c8a5)
+- [ ] [<code>shared/subprocess: Allow overriding Cwd</code>](https://github.com/lxc/incus/commit/5cb502bf3b66e6b19bf9862cd2aadd4f975bfed9)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/device/tpm: Fix handling of long instance names</code>](https://github.com/lxc/incus/commit/8e8666bb1565ffe8b2d6acd1764059fe9deac9bf)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Don't take over operations on console retrieval</code>](https://github.com/lxc/incus/commit/d7f9ebf46a8c8f2e41b34a1df13fad2ac9a095a0)
+- [ ] [<code>incusd/instance_post: Provide target project to relocation scriptlet</code>](https://github.com/lxc/incus/commit/5782723dde66c5517e48b4a6cd0486f6e88f5596)
+- [ ] [<code>incusd/cluster/request: Add new internal user-agent</code>](https://github.com/lxc/incus/commit/700f35e329408617521ea508a8d77accccd8b959)
+- [ ] [<code>incusd/instances_post: Don't re-run placement on internal requests</code>](https://github.com/lxc/incus/commit/cd2539df7524cd539ae938cd96a73ad763139e20)
+- [ ] [<code>incusd/api: Handle new user agent</code>](https://github.com/lxc/incus/commit/eeaa9f3dc2c7914e1541db6400ea8bd175f67b89)
+- [ ] [<code>incusd/instance_post: Pass in internal user agent during relocation</code>](https://github.com/lxc/incus/commit/51a8dc484e0d30202b3bc2bd8a720df0c9009d36)
+- [ ] [<code>incusd/instance/qemu: Don't overtake operations on console retrieval</code>](https://github.com/lxc/incus/commit/d33cb3ff8800d021d67f5c3c6522096ea1753d71)
+- [ ] [<code>Release Incus 6.7</code>](https://github.com/lxc/incus/commit/795717f31cc79ee3bde152d0f1f89b355b919550)
+  - <sub>Tags: <code>v6.7.0</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2149,6 +2191,9 @@
 - [ ] [<code>Bump libjpeg-turbo to 3.0.4 (#2501)</code>](https://github.com/AOMediaCodec/libavif/commit/1cdeff7ecf456492c47cf48fc0cef6591cdc95da)
 - [ ] [<code>Fix quantizer range in codec_avm (#2502)</code>](https://github.com/AOMediaCodec/libavif/commit/5766fd13c3a6e177754005381cf8460fb0601b04)
 - [ ] [<code>Update YCgCo-R coeffs in comments. (#2503)</code>](https://github.com/AOMediaCodec/libavif/commit/a9ac378e84daec87dc7f6c438bf0215c6165de39)
+- [ ] [<code>Add properties to avifImage (#2420)</code>](https://github.com/AOMediaCodec/libavif/commit/13d784eb15577d66f723c4aa2c6d02fda6dc0499)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update merge_static_libs.cmake to copy INTERFACE_INCLUDE_DIRECTORIES (#2505)</code>](https://github.com/AOMediaCodec/libavif/commit/6fac47f047ac7c62d19f25cef5de34e793fbd8ad)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
