@@ -192,6 +192,7 @@
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 - [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
 - [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/9fab7630a39429802030b98d4d51b4e1c1263d46)
+- [ ] [<code>feat: Add markdown context actions for text input</code>](https://github.com/krille-chan/fluffychat/commit/22023450d5fdb8acb8cd9b406a2cd1c8b18c49c4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -318,6 +319,7 @@
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 - [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
 - [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/9fab7630a39429802030b98d4d51b4e1c1263d46)
+- [ ] [<code>feat: Add markdown context actions for text input</code>](https://github.com/krille-chan/fluffychat/commit/22023450d5fdb8acb8cd9b406a2cd1c8b18c49c4)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3236,6 +3238,15 @@
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1792bbd7771c8a9e6a331a8c49a7add5b4ac1236)
 - [ ] [<code>ci: update node to 22 (latest LTS)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3d754244e78a7b1cbd002c62a699bcbf4a4d3ed0)
 - [ ] [<code>fix(gui): custom profile dropdown auto selecting first item</code>](https://github.com/Oppzippy/OpenSCQ30/commit/573068e3882134dbf001662ad37fa5155104c1ad)
+- [ ] [<code>feat(gui): add sound modes type two</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b92b3d699631b511cf5506cb3e91171050fd7811)
+- [ ] [<code>build(gui): add `just demo`</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c11bca210e591cc701d1af6a5e6208a3204b62d8)
+- [ ] [<code>fix: adaptive noise canceling should be unmodifiable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1ab06ba9a08f2694b2c204a57fa1a49a4cf2f205)
+- [ ] [<code>fix: remove custom noise canceling sensitivity level from ui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cf9a31d39deb658ad2210aa3a79eef61bcaf11cb)
+- [ ] [<code>fix(gui): sound mode type two buttons modifying sound mode type 1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1ed365a1efd8d61f47e3de0046737dc75c17005d)
+- [ ] [<code>refactor(gui): fix typo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/17b7c5aa84e5b6b440a7a93666dadf0eccb42a5f)
+- [ ] [<code>fix(gui): show sound modes type two noise canceling button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/850205614b62c377f7216feffbab68b5fb07ea96)
+- [ ] [<code>build(android): use system ktlint for format-check when available</code>](https://github.com/Oppzippy/OpenSCQ30/commit/af22d0c05d909f0ba8eb65b71b70a0b491f0c51c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
