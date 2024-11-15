@@ -90,8 +90,11 @@
 - [ ] [<code>networkAgent.js: Make the WPS message smaller</code>](https://github.com/linuxmint/cinnamon/commit/cbf69f7c726ac1e8ba21c15ca56286028b2aa258)
 - [ ] [<code>Add a clutter audio device selection dialog (#12461)</code>](https://github.com/linuxmint/cinnamon/commit/3724d7a47cf594089f0b1e513c7c4af167f59270)
 - [ ] [<code>cs_display: Add a tab in Display settings to configure the</code>](https://github.com/linuxmint/cinnamon/commit/8525e744694fec369d355023fa486fcbfb9f2dff)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>play volume change sound after dragging slider</code>](https://github.com/linuxmint/cinnamon/commit/8998b171328a6b9a4af2a9f1973ce533d3c46654)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Merge pull request #12501 from timfeierabend/feature/add-volume-drag-sound</code>](https://github.com/linuxmint/cinnamon/commit/6b7e0385b0cfd75eb900aa6aa7197912a9e27f2c)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
