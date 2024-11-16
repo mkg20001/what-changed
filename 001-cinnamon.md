@@ -95,8 +95,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sound applet: player icon should not take priority over mute icon</code>](https://github.com/linuxmint/cinnamon/commit/f2c054e4aaf07df411c46366a4a229e3444d72c4)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Merge pull request #12502 from benmccann/patch-1</code>](https://github.com/linuxmint/cinnamon/commit/f8779a32c8a8aacede2b6efedd5e623ca4ab333a)
+- [ ] [<code>inhibit applet: Pass a string to showOSD when using hotkeys (#12409)</code>](https://github.com/linuxmint/cinnamon/commit/07d40aa7cc64fefb69564774e55615a54e875828)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon.cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
