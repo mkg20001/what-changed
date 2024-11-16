@@ -503,6 +503,8 @@
 - [ ] [<code>incusd/instance/qemu: Don't overtake operations on console retrieval</code>](https://github.com/lxc/incus/commit/d33cb3ff8800d021d67f5c3c6522096ea1753d71)
 - [ ] [<code>Release Incus 6.7</code>](https://github.com/lxc/incus/commit/795717f31cc79ee3bde152d0f1f89b355b919550)
   - <sub>Tags: <code>v6.7.0</code></sub>
+- [ ] [<code>Consume websocket pings for stderr</code>](https://github.com/lxc/incus/commit/d098f463f7538a4b332e457bbb5e6ea473ef1536)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2046,6 +2048,8 @@
 - [ ] [<code>incusd/instance/qemu: Don't overtake operations on console retrieval</code>](https://github.com/lxc/incus/commit/d33cb3ff8800d021d67f5c3c6522096ea1753d71)
 - [ ] [<code>Release Incus 6.7</code>](https://github.com/lxc/incus/commit/795717f31cc79ee3bde152d0f1f89b355b919550)
   - <sub>Tags: <code>v6.7.0</code></sub>
+- [ ] [<code>Consume websocket pings for stderr</code>](https://github.com/lxc/incus/commit/d098f463f7538a4b332e457bbb5e6ea473ef1536)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
