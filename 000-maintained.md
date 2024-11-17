@@ -191,8 +191,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 - [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
+- [ ] [<code>build: (deps): bump samuelmeuli/action-snapcraft from 2 to 3</code>](https://github.com/krille-chan/fluffychat/commit/da70152d08be5c0e1213f0980a6ee83126ab8759)
 - [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/9fab7630a39429802030b98d4d51b4e1c1263d46)
 - [ ] [<code>feat: Add markdown context actions for text input</code>](https://github.com/krille-chan/fluffychat/commit/22023450d5fdb8acb8cd9b406a2cd1c8b18c49c4)
+- [ ] [<code>build: Update flutter to 3.24.5</code>](https://github.com/krille-chan/fluffychat/commit/2c5d6e4851e1cf9de004e7258c309e10deaf702c)
+- [ ] [<code>build: Remove snapcraft build workaround</code>](https://github.com/krille-chan/fluffychat/commit/325431c8f668d376f1ff5976c79116dfc115aef4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -318,8 +321,11 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update matrix dart sdk to 0.35.0</code>](https://github.com/krille-chan/fluffychat/commit/5fc4e1c443152bbc3240ad89571c199778729759)
 - [ ] [<code>chore: Better FluffyChat Logo for PWA</code>](https://github.com/krille-chan/fluffychat/commit/6c54e552dcd8cfe83887267a44a946c56a721289)
+- [ ] [<code>build: (deps): bump samuelmeuli/action-snapcraft from 2 to 3</code>](https://github.com/krille-chan/fluffychat/commit/da70152d08be5c0e1213f0980a6ee83126ab8759)
 - [ ] [<code>chore: Follow up send file dialog</code>](https://github.com/krille-chan/fluffychat/commit/9fab7630a39429802030b98d4d51b4e1c1263d46)
 - [ ] [<code>feat: Add markdown context actions for text input</code>](https://github.com/krille-chan/fluffychat/commit/22023450d5fdb8acb8cd9b406a2cd1c8b18c49c4)
+- [ ] [<code>build: Update flutter to 3.24.5</code>](https://github.com/krille-chan/fluffychat/commit/2c5d6e4851e1cf9de004e7258c309e10deaf702c)
+- [ ] [<code>build: Remove snapcraft build workaround</code>](https://github.com/krille-chan/fluffychat/commit/325431c8f668d376f1ff5976c79116dfc115aef4)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
