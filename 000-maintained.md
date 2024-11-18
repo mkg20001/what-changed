@@ -3257,6 +3257,15 @@
 - [ ] [<code>fix(gui): show sound modes type two noise canceling button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/850205614b62c377f7216feffbab68b5fb07ea96)
 - [ ] [<code>build(android): use system ktlint for format-check when available</code>](https://github.com/Oppzippy/OpenSCQ30/commit/af22d0c05d909f0ba8eb65b71b70a0b491f0c51c)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: add development.md</code>](https://github.com/Oppzippy/OpenSCQ30/commit/85309410c0d782dedc0cd331b5cbf8581793b797)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat(android): add sound modes type two to ui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/eeeb4890ae989eaffe0aae0a4501510b0dfd1b03)
+- [ ] [<code>fix(android): rename general to sound modes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20976af0f2db2b7afe5f05d4ead7ed04247373eb)
+- [ ] [<code>build(android): update jetpack compose</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8878b856d34b3dbbf6a383155cee9a17a239b70e)
+- [ ] [<code>build(android): remove unnecessary build target</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e66949f8ff3cb1377c7b997582e28f854d954e93)
+  - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>build(android): fix gradle deprecation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8d38a5a8a0c2434081264702046b21c716ad825e)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
