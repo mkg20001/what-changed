@@ -63,6 +63,27 @@
 - [ ] [<code>fix: adjust versions in issue dropdown</code>](https://github.com/canonical/firmware-updater/commit/13e3c470105b02d3495e17e72bdfaf987e0d28ce)
 - [ ] [<code>feat: add snapd to requested snap info cmd</code>](https://github.com/canonical/firmware-updater/commit/b85417f3a39c83e53b28d39a874a483c629ecedd)
 - [ ] [<code>feat: updating wording in templates</code>](https://github.com/canonical/firmware-updater/commit/cca49fa5ba355f4e4c877dc4b3645db9887f35b8)
+- [ ] [<code>refactor: rename packages to apps</code>](https://github.com/canonical/firmware-updater/commit/4c38c706d4baf1e71e13ad64538fc970e09deae9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: moving widgets up a directory</code>](https://github.com/canonical/firmware-updater/commit/c7b52319a66e6a4c951cf1148f32200c3ce0cbc7)
+- [ ] [<code>refactor: moving paegs into a directory</code>](https://github.com/canonical/firmware-updater/commit/9e19cb5a595780fac1c96b5b5236f09a9433f634)
+- [ ] [<code>refactor: move services into dir</code>](https://github.com/canonical/firmware-updater/commit/8ce9a1b116adc6e20407d9d8240d64f6af8fe185)
+- [ ] [<code>refactor: move device_model and device_store into pages</code>](https://github.com/canonical/firmware-updater/commit/b81c6dc83264f89ba6fcc7095b5e9567344ed829)
+- [ ] [<code>refactor: move device_tile into widgets</code>](https://github.com/canonical/firmware-updater/commit/df3c35bfa5ec7f0c5358beee4ebd48f8a345bd64)
+- [ ] [<code>refactor: move l10n/ out of src/</code>](https://github.com/canonical/firmware-updater/commit/235b3caf39fa1eb30b19cef48365f37e597b32fa)
+- [ ] [<code>refactor: move l10n into dir</code>](https://github.com/canonical/firmware-updater/commit/9f052e0b51141793efdf60a64facfb7fda60a068)
+- [ ] [<code>refactor: move remaining files into app dir</code>](https://github.com/canonical/firmware-updater/commit/d2cd9e6a118b7fd7b243bf92962424270b066e1c)
+- [ ] [<code>refactor: lints and formatting</code>](https://github.com/canonical/firmware-updater/commit/e3713967bbae9017166213f39072f860158f5164)
+- [ ] [<code>ci: updating integration test path</code>](https://github.com/canonical/firmware-updater/commit/df54acf5e193d6a20ad9fba6e1941e00c8a06db6)
+- [ ] [<code>refactor: moving fwupd_x into services/</code>](https://github.com/canonical/firmware-updater/commit/3f6a4136d42baad9ccc894467619a1974631a9e6)
+- [ ] [<code>refactor: moving fwupd_110n into widgets/</code>](https://github.com/canonical/firmware-updater/commit/b8421f83126f2960d3456cd007c4ff1d130b2af6)
+- [ ] [<code>refactor: commiting pubspec.yaml files</code>](https://github.com/canonical/firmware-updater/commit/ced4e7fbe9b9e3bff0bb0f50367ad9aad82330e7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>style: run the formatter</code>](https://github.com/canonical/firmware-updater/commit/d1027b74dc520f842440fde6fed8c435588c02ad)
+- [ ] [<code>chore: regenerate the mocks</code>](https://github.com/canonical/firmware-updater/commit/071f6147fb32979ab736586af2430b2c2ac88df7)
+- [ ] [<code>refactor: project structure refactor (#318)</code>](https://github.com/canonical/firmware-updater/commit/8a89054808c0d58f19ca555696e71e199361549d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -3266,6 +3287,9 @@
   - <sub>Keywords: <code>commandline</code> <code>exec</code></sub>
 - [ ] [<code>build(android): fix gradle deprecation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8d38a5a8a0c2434081264702046b21c716ad825e)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(lib): improper tracing span usage</code>](https://github.com/Oppzippy/OpenSCQ30/commit/69f7a589f812614e920129dd76b5145c823ed463)
+- [ ] [<code>build: remove unused dependency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/17ab5048efa1fee7041c45533d562a46fd7ce20a)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
