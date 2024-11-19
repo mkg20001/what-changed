@@ -48,6 +48,8 @@
 - [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
 - [ ] [<code>Update Rust to v1.80.1</code>](https://github.com/stepchowfun/docuum/commit/4309709bd352686d0bbb8ba6ab8ebce89be2f89f)
 - [ ] [<code>Update Rust to v1.81.0</code>](https://github.com/stepchowfun/docuum/commit/01c5827c3c51fdf33aea0e6da94c40f822cf2556)
+- [ ] [<code>feat: update alpine to v3.20</code>](https://github.com/stepchowfun/docuum/commit/847b36af510e17f9bd34ddc9e8c877eb3eb73235)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -534,6 +536,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus-simplestreams: Add prune command</code>](https://github.com/lxc/incus/commit/811e479c33728caaa93b979de9547c1c26780de1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Fix validation of volatile.cpu.nodes</code>](https://github.com/lxc/incus/commit/646d537ce119ac1b7ae87791c54e669575f512d2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2081,6 +2084,7 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus-simplestreams: Add prune command</code>](https://github.com/lxc/incus/commit/811e479c33728caaa93b979de9547c1c26780de1)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Fix validation of volatile.cpu.nodes</code>](https://github.com/lxc/incus/commit/646d537ce119ac1b7ae87791c54e669575f512d2)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2231,6 +2235,7 @@
 - [ ] [<code>Add properties to avifImage (#2420)</code>](https://github.com/AOMediaCodec/libavif/commit/13d784eb15577d66f723c4aa2c6d02fda6dc0499)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Update merge_static_libs.cmake to copy INTERFACE_INCLUDE_DIRECTORIES (#2505)</code>](https://github.com/AOMediaCodec/libavif/commit/6fac47f047ac7c62d19f25cef5de34e793fbd8ad)
+- [ ] [<code>Update to libaom v3.11.0 (#2500)</code>](https://github.com/AOMediaCodec/libavif/commit/ea21e9bf658863e1d666b9fed9247e943e7cc272)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
