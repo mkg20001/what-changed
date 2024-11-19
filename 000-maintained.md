@@ -219,6 +219,14 @@
 - [ ] [<code>feat: Add markdown context actions for text input</code>](https://github.com/krille-chan/fluffychat/commit/22023450d5fdb8acb8cd9b406a2cd1c8b18c49c4)
 - [ ] [<code>build: Update flutter to 3.24.5</code>](https://github.com/krille-chan/fluffychat/commit/2c5d6e4851e1cf9de004e7258c309e10deaf702c)
 - [ ] [<code>build: Remove snapcraft build workaround</code>](https://github.com/krille-chan/fluffychat/commit/325431c8f668d376f1ff5976c79116dfc115aef4)
+- [ ] [<code>chore: Better error message when join room failed</code>](https://github.com/krille-chan/fluffychat/commit/5fc75ac307c1b10124f612968c5541770337520f)
+- [ ] [<code>chore: Follow up join room</code>](https://github.com/krille-chan/fluffychat/commit/b6668cee6f56de4b8ab8071c0cd8ee66ae0da718)
+- [ ] [<code>chore: Make error dialog show full error</code>](https://github.com/krille-chan/fluffychat/commit/18d4a5d39ac276bd6b5e0a1926f402fffc900bea)
+- [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/46d62fdf11d596096675c4e0a5d12049733da170)
+- [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/3d7cd800b9842189bb5f83563f776f08e8046e7e)
+- [ ] [<code>build: Snapcraft from local build file</code>](https://github.com/krille-chan/fluffychat/commit/b440d564013992c773c67a6a6a586590e357928a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Follow up build snap</code>](https://github.com/krille-chan/fluffychat/commit/56f6f7cd220f7426da795a5a9648585033728457)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -349,6 +357,14 @@
 - [ ] [<code>feat: Add markdown context actions for text input</code>](https://github.com/krille-chan/fluffychat/commit/22023450d5fdb8acb8cd9b406a2cd1c8b18c49c4)
 - [ ] [<code>build: Update flutter to 3.24.5</code>](https://github.com/krille-chan/fluffychat/commit/2c5d6e4851e1cf9de004e7258c309e10deaf702c)
 - [ ] [<code>build: Remove snapcraft build workaround</code>](https://github.com/krille-chan/fluffychat/commit/325431c8f668d376f1ff5976c79116dfc115aef4)
+- [ ] [<code>chore: Better error message when join room failed</code>](https://github.com/krille-chan/fluffychat/commit/5fc75ac307c1b10124f612968c5541770337520f)
+- [ ] [<code>chore: Follow up join room</code>](https://github.com/krille-chan/fluffychat/commit/b6668cee6f56de4b8ab8071c0cd8ee66ae0da718)
+- [ ] [<code>chore: Make error dialog show full error</code>](https://github.com/krille-chan/fluffychat/commit/18d4a5d39ac276bd6b5e0a1926f402fffc900bea)
+- [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/46d62fdf11d596096675c4e0a5d12049733da170)
+- [ ] [<code>chore: Follow up loading dialog</code>](https://github.com/krille-chan/fluffychat/commit/3d7cd800b9842189bb5f83563f776f08e8046e7e)
+- [ ] [<code>build: Snapcraft from local build file</code>](https://github.com/krille-chan/fluffychat/commit/b440d564013992c773c67a6a6a586590e357928a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Follow up build snap</code>](https://github.com/krille-chan/fluffychat/commit/56f6f7cd220f7426da795a5a9648585033728457)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -537,6 +553,9 @@
 - [ ] [<code>incus-simplestreams: Add prune command</code>](https://github.com/lxc/incus/commit/811e479c33728caaa93b979de9547c1c26780de1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/instance: Fix validation of volatile.cpu.nodes</code>](https://github.com/lxc/incus/commit/646d537ce119ac1b7ae87791c54e669575f512d2)
+- [ ] [<code>shared/util: Add a function to clone maps</code>](https://github.com/lxc/incus/commit/355ee53b59d37e944c9ce0c2de736f9574a1e5e8)
+- [ ] [<code>Use `util.CloneMap` where appropriate</code>](https://github.com/lxc/incus/commit/2429561cd0b7e5ce06f3e91cf323effaca7942ee)
+- [ ] [<code>cgo/process_utils: fix 32bit builds</code>](https://github.com/lxc/incus/commit/afa91aaa5d0f7c95a69a17428e1974ebbf34ecdf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2085,6 +2104,9 @@
 - [ ] [<code>incus-simplestreams: Add prune command</code>](https://github.com/lxc/incus/commit/811e479c33728caaa93b979de9547c1c26780de1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/instance: Fix validation of volatile.cpu.nodes</code>](https://github.com/lxc/incus/commit/646d537ce119ac1b7ae87791c54e669575f512d2)
+- [ ] [<code>shared/util: Add a function to clone maps</code>](https://github.com/lxc/incus/commit/355ee53b59d37e944c9ce0c2de736f9574a1e5e8)
+- [ ] [<code>Use `util.CloneMap` where appropriate</code>](https://github.com/lxc/incus/commit/2429561cd0b7e5ce06f3e91cf323effaca7942ee)
+- [ ] [<code>cgo/process_utils: fix 32bit builds</code>](https://github.com/lxc/incus/commit/afa91aaa5d0f7c95a69a17428e1974ebbf34ecdf)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3301,6 +3323,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix(gui): quick presets getting reset to defaults</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a96cf810b82d97d39481515ee4b247488e05be4)
 - [ ] [<code>fix(gui): quick preset options not properly hiding</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2e624895c3e639417cb3624629d4595688eaa3f5)
+- [ ] [<code>fix(android): crash when changing device settings outside demo mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa5557d3da10d3f04ad5dfa307b179cde153602e)
+- [ ] [<code>refactor(android): fix deprecation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d5baeed8e8af38eceeddf7587a01f2d5fa05121)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a850c64444d7286a857916a717bc5f97c70c8d8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
