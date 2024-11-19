@@ -532,6 +532,8 @@
   - <sub>Tags: <code>v6.7.0</code></sub>
 - [ ] [<code>Consume websocket pings for stderr</code>](https://github.com/lxc/incus/commit/d098f463f7538a4b332e457bbb5e6ea473ef1536)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-simplestreams: Add prune command</code>](https://github.com/lxc/incus/commit/811e479c33728caaa93b979de9547c1c26780de1)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2077,6 +2079,8 @@
   - <sub>Tags: <code>v6.7.0</code></sub>
 - [ ] [<code>Consume websocket pings for stderr</code>](https://github.com/lxc/incus/commit/d098f463f7538a4b332e457bbb5e6ea473ef1536)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-simplestreams: Add prune command</code>](https://github.com/lxc/incus/commit/811e479c33728caaa93b979de9547c1c26780de1)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3290,6 +3294,8 @@
 - [ ] [<code>fix(lib): improper tracing span usage</code>](https://github.com/Oppzippy/OpenSCQ30/commit/69f7a589f812614e920129dd76b5145c823ed463)
 - [ ] [<code>build: remove unused dependency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/17ab5048efa1fee7041c45533d562a46fd7ce20a)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(gui): quick presets getting reset to defaults</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a96cf810b82d97d39481515ee4b247488e05be4)
+- [ ] [<code>fix(gui): quick preset options not properly hiding</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2e624895c3e639417cb3624629d4595688eaa3f5)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
