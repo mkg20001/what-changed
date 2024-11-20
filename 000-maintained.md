@@ -556,6 +556,11 @@
 - [ ] [<code>shared/util: Add a function to clone maps</code>](https://github.com/lxc/incus/commit/355ee53b59d37e944c9ce0c2de736f9574a1e5e8)
 - [ ] [<code>Use `util.CloneMap` where appropriate</code>](https://github.com/lxc/incus/commit/2429561cd0b7e5ce06f3e91cf323effaca7942ee)
 - [ ] [<code>cgo/process_utils: fix 32bit builds</code>](https://github.com/lxc/incus/commit/afa91aaa5d0f7c95a69a17428e1974ebbf34ecdf)
+- [ ] [<code>golangci: Enable goimports</code>](https://github.com/lxc/incus/commit/ed6d550c3b79109749ee866d7bf272a291394a9f)
+- [ ] [<code>global: Initial goimports run</code>](https://github.com/lxc/incus/commit/6a0bcd76ec5c67e8e5c357881f935520ba354c47)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Fix duplicate imports</code>](https://github.com/lxc/incus/commit/4f08ed38ffdffcbd59826eae7d7c5ae034470c75)
+- [ ] [<code>incusd: Fix import ordering</code>](https://github.com/lxc/incus/commit/2fe79ee511bc070b5adcb88f6c36c01ae27a6b8f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2107,6 +2112,11 @@
 - [ ] [<code>shared/util: Add a function to clone maps</code>](https://github.com/lxc/incus/commit/355ee53b59d37e944c9ce0c2de736f9574a1e5e8)
 - [ ] [<code>Use `util.CloneMap` where appropriate</code>](https://github.com/lxc/incus/commit/2429561cd0b7e5ce06f3e91cf323effaca7942ee)
 - [ ] [<code>cgo/process_utils: fix 32bit builds</code>](https://github.com/lxc/incus/commit/afa91aaa5d0f7c95a69a17428e1974ebbf34ecdf)
+- [ ] [<code>golangci: Enable goimports</code>](https://github.com/lxc/incus/commit/ed6d550c3b79109749ee866d7bf272a291394a9f)
+- [ ] [<code>global: Initial goimports run</code>](https://github.com/lxc/incus/commit/6a0bcd76ec5c67e8e5c357881f935520ba354c47)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Fix duplicate imports</code>](https://github.com/lxc/incus/commit/4f08ed38ffdffcbd59826eae7d7c5ae034470c75)
+- [ ] [<code>incusd: Fix import ordering</code>](https://github.com/lxc/incus/commit/2fe79ee511bc070b5adcb88f6c36c01ae27a6b8f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -2258,6 +2268,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Update merge_static_libs.cmake to copy INTERFACE_INCLUDE_DIRECTORIES (#2505)</code>](https://github.com/AOMediaCodec/libavif/commit/6fac47f047ac7c62d19f25cef5de34e793fbd8ad)
 - [ ] [<code>Update to libaom v3.11.0 (#2500)</code>](https://github.com/AOMediaCodec/libavif/commit/ea21e9bf658863e1d666b9fed9247e943e7cc272)
+- [ ] [<code>android_jni: Support 16kb page size</code>](https://github.com/AOMediaCodec/libavif/commit/566e2ed3603fcc781adc1bd2c93de0e807876b81)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3326,6 +3338,9 @@
 - [ ] [<code>fix(android): crash when changing device settings outside demo mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa5557d3da10d3f04ad5dfa307b179cde153602e)
 - [ ] [<code>refactor(android): fix deprecation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d5baeed8e8af38eceeddf7587a01f2d5fa05121)
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a850c64444d7286a857916a717bc5f97c70c8d8)
+- [ ] [<code>fix(web): box outlines showing for hidden sections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b70c63c397de1d99e8f4d5df18389f82300139d)
+- [ ] [<code>build: v1.14.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80fc8be61364f00e8bf6d7c32731cef156ab9ea6)
+  - <sub>Tags: <code>v1.14.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
