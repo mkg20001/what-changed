@@ -227,6 +227,9 @@
 - [ ] [<code>build: Snapcraft from local build file</code>](https://github.com/krille-chan/fluffychat/commit/b440d564013992c773c67a6a6a586590e357928a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: Follow up build snap</code>](https://github.com/krille-chan/fluffychat/commit/56f6f7cd220f7426da795a5a9648585033728457)
+- [ ] [<code>chore: Follow up snapcraft in ci</code>](https://github.com/krille-chan/fluffychat/commit/12bb71708e4dd28ade2ecc5e0faf3689cced5183)
+- [ ] [<code>build: Revert build snapcraft changes</code>](https://github.com/krille-chan/fluffychat/commit/d8cf6dfb13a766e68d97b13a366f2452929c941c)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -365,6 +368,9 @@
 - [ ] [<code>build: Snapcraft from local build file</code>](https://github.com/krille-chan/fluffychat/commit/b440d564013992c773c67a6a6a586590e357928a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: Follow up build snap</code>](https://github.com/krille-chan/fluffychat/commit/56f6f7cd220f7426da795a5a9648585033728457)
+- [ ] [<code>chore: Follow up snapcraft in ci</code>](https://github.com/krille-chan/fluffychat/commit/12bb71708e4dd28ade2ecc5e0faf3689cced5183)
+- [ ] [<code>build: Revert build snapcraft changes</code>](https://github.com/krille-chan/fluffychat/commit/d8cf6dfb13a766e68d97b13a366f2452929c941c)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2270,6 +2276,7 @@
 - [ ] [<code>Update to libaom v3.11.0 (#2500)</code>](https://github.com/AOMediaCodec/libavif/commit/ea21e9bf658863e1d666b9fed9247e943e7cc272)
 - [ ] [<code>android_jni: Support 16kb page size</code>](https://github.com/AOMediaCodec/libavif/commit/566e2ed3603fcc781adc1bd2c93de0e807876b81)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>libavif_jni: add missing error check (#2508)</code>](https://github.com/AOMediaCodec/libavif/commit/03738d58595e0d62f0b9f8815a27cc7eb52d1c2a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3472,6 +3479,12 @@
 #### [twinkle](https://github.com/LubosD/twinkle): [355813d5640ad58c84dc063826069384470ce310 → HEAD](https://github.com/LubosD/twinkle/compare/355813d5640ad58c84dc063826069384470ce310...HEAD)
 
 - [ ] [<code>Fix french translation mistake</code>](https://github.com/LubosD/twinkle/commit/6389146cf3f3c3f4a424fccc8a365b5f787e90b3)
+- [ ] [<code>qt5+: Pass single `StandardButtons` arg. to `QMessageBox` funcs [1/4]</code>](https://github.com/LubosD/twinkle/commit/a575ba4592a65c24a0f167acb196b66132e03a34)
+- [ ] [<code>qt5+: Pass single `StandardButtons` arg. to `QMessageBox` funcs [2/4]</code>](https://github.com/LubosD/twinkle/commit/f5fcecf2c8fa77bc3ebf88b0380a96df56435352)
+- [ ] [<code>qt5+: Pass single `StandardButtons` arg. to `QMessageBox` funcs [3/4]</code>](https://github.com/LubosD/twinkle/commit/031b552edd4766fb9b67fe2519bafb2e7b42ea4d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>qt5+: Pass single `StandardButtons` arg. to `QMessageBox` funcs [4/4]</code>](https://github.com/LubosD/twinkle/commit/a87fbaa5de858e80e5e8315e7cf9726dcd3ef122)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [ucode](https://github.com/jow-/ucode): [v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20231102...HEAD)
 
