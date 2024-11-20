@@ -65,6 +65,7 @@
 - [ ] [<code>fix: adjust versions in issue dropdown</code>](https://github.com/canonical/firmware-updater/commit/13e3c470105b02d3495e17e72bdfaf987e0d28ce)
 - [ ] [<code>feat: add snapd to requested snap info cmd</code>](https://github.com/canonical/firmware-updater/commit/b85417f3a39c83e53b28d39a874a483c629ecedd)
 - [ ] [<code>feat: updating wording in templates</code>](https://github.com/canonical/firmware-updater/commit/cca49fa5ba355f4e4c877dc4b3645db9887f35b8)
+- [ ] [<code>chore(deps): update codecov/codecov-action action to v5</code>](https://github.com/canonical/firmware-updater/commit/cc133eff71ad5bac48a021b482174425af92ed04)
 - [ ] [<code>refactor: rename packages to apps</code>](https://github.com/canonical/firmware-updater/commit/4c38c706d4baf1e71e13ad64538fc970e09deae9)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
@@ -86,6 +87,7 @@
 - [ ] [<code>chore: regenerate the mocks</code>](https://github.com/canonical/firmware-updater/commit/071f6147fb32979ab736586af2430b2c2ac88df7)
 - [ ] [<code>refactor: project structure refactor (#318)</code>](https://github.com/canonical/firmware-updater/commit/8a89054808c0d58f19ca555696e71e199361549d)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(deps): update codecov/codecov-action action to v5 (#319)</code>](https://github.com/canonical/firmware-updater/commit/ab5d44d594d68d106aafb511252a94a24e94d601)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -230,6 +232,11 @@
 - [ ] [<code>chore: Follow up snapcraft in ci</code>](https://github.com/krille-chan/fluffychat/commit/12bb71708e4dd28ade2ecc5e0faf3689cced5183)
 - [ ] [<code>build: Revert build snapcraft changes</code>](https://github.com/krille-chan/fluffychat/commit/d8cf6dfb13a766e68d97b13a366f2452929c941c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Try downgrading flutter web auth</code>](https://github.com/krille-chan/fluffychat/commit/1c5c491ceb76ddbded320e7453866ddfc5e048ae)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: add hint in pubspec.yaml regarding flutter_web_auth_2</code>](https://github.com/krille-chan/fluffychat/commit/a493020fa86a4b76cb2d6523000b03d8168d82f5)
+- [ ] [<code>fix: dont use thumbnails for emoticons</code>](https://github.com/krille-chan/fluffychat/commit/98b4bec41b5ed5715de2c1e8aba611c8e7f4321b)
+- [ ] [<code>chore: Improve presence performance</code>](https://github.com/krille-chan/fluffychat/commit/44a7c9e30e66938db391c196de7bf812dd639d82)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -371,6 +378,11 @@
 - [ ] [<code>chore: Follow up snapcraft in ci</code>](https://github.com/krille-chan/fluffychat/commit/12bb71708e4dd28ade2ecc5e0faf3689cced5183)
 - [ ] [<code>build: Revert build snapcraft changes</code>](https://github.com/krille-chan/fluffychat/commit/d8cf6dfb13a766e68d97b13a366f2452929c941c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Try downgrading flutter web auth</code>](https://github.com/krille-chan/fluffychat/commit/1c5c491ceb76ddbded320e7453866ddfc5e048ae)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: add hint in pubspec.yaml regarding flutter_web_auth_2</code>](https://github.com/krille-chan/fluffychat/commit/a493020fa86a4b76cb2d6523000b03d8168d82f5)
+- [ ] [<code>fix: dont use thumbnails for emoticons</code>](https://github.com/krille-chan/fluffychat/commit/98b4bec41b5ed5715de2c1e8aba611c8e7f4321b)
+- [ ] [<code>chore: Improve presence performance</code>](https://github.com/krille-chan/fluffychat/commit/44a7c9e30e66938db391c196de7bf812dd639d82)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
