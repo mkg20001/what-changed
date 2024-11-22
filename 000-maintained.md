@@ -583,6 +583,12 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/214c6da53e227aa1605109f7d96f9ebcdb7f77ee)
 - [ ] [<code>Fix incorrect Vars file mapping in edk2 driver</code>](https://github.com/lxc/incus/commit/dc88b6fab495466e94759ac08b0c37067cbdd5d6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/storage/zfs: Fix deletion of unavailable pools</code>](https://github.com/lxc/incus/commit/478f3729a82e654f1e7cb3b93df21cd8e27c2e2b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>zfs: load keys for encrypted datasets during pool import</code>](https://github.com/lxc/incus/commit/a573f3725c3776daabda95a24e832fc8639199a4)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>tests: zfs: add native zfs encryption tests</code>](https://github.com/lxc/incus/commit/9a9c8f775398c5a6c9415b9ca9655bbcba6396ac)
+- [ ] [<code>incusd/instance: Lock image access</code>](https://github.com/lxc/incus/commit/0d02b8f1ae55ce3663a4c1700866813a64fd793f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2143,6 +2149,12 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/214c6da53e227aa1605109f7d96f9ebcdb7f77ee)
 - [ ] [<code>Fix incorrect Vars file mapping in edk2 driver</code>](https://github.com/lxc/incus/commit/dc88b6fab495466e94759ac08b0c37067cbdd5d6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/storage/zfs: Fix deletion of unavailable pools</code>](https://github.com/lxc/incus/commit/478f3729a82e654f1e7cb3b93df21cd8e27c2e2b)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>zfs: load keys for encrypted datasets during pool import</code>](https://github.com/lxc/incus/commit/a573f3725c3776daabda95a24e832fc8639199a4)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>tests: zfs: add native zfs encryption tests</code>](https://github.com/lxc/incus/commit/9a9c8f775398c5a6c9415b9ca9655bbcba6396ac)
+- [ ] [<code>incusd/instance: Lock image access</code>](https://github.com/lxc/incus/commit/0d02b8f1ae55ce3663a4c1700866813a64fd793f)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
