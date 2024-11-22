@@ -579,6 +579,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Fix duplicate imports</code>](https://github.com/lxc/incus/commit/4f08ed38ffdffcbd59826eae7d7c5ae034470c75)
 - [ ] [<code>incusd: Fix import ordering</code>](https://github.com/lxc/incus/commit/2fe79ee511bc070b5adcb88f6c36c01ae27a6b8f)
+- [ ] [<code>instance/config: Mark user keys as live updatable</code>](https://github.com/lxc/incus/commit/ee0d4b356c602b01789f4dc83721dd4e43ba18b2)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/214c6da53e227aa1605109f7d96f9ebcdb7f77ee)
+- [ ] [<code>Fix incorrect Vars file mapping in edk2 driver</code>](https://github.com/lxc/incus/commit/dc88b6fab495466e94759ac08b0c37067cbdd5d6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2135,6 +2139,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Fix duplicate imports</code>](https://github.com/lxc/incus/commit/4f08ed38ffdffcbd59826eae7d7c5ae034470c75)
 - [ ] [<code>incusd: Fix import ordering</code>](https://github.com/lxc/incus/commit/2fe79ee511bc070b5adcb88f6c36c01ae27a6b8f)
+- [ ] [<code>instance/config: Mark user keys as live updatable</code>](https://github.com/lxc/incus/commit/ee0d4b356c602b01789f4dc83721dd4e43ba18b2)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/214c6da53e227aa1605109f7d96f9ebcdb7f77ee)
+- [ ] [<code>Fix incorrect Vars file mapping in edk2 driver</code>](https://github.com/lxc/incus/commit/dc88b6fab495466e94759ac08b0c37067cbdd5d6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
@@ -3360,6 +3368,8 @@
 - [ ] [<code>fix(web): box outlines showing for hidden sections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b70c63c397de1d99e8f4d5df18389f82300139d)
 - [ ] [<code>build: v1.14.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80fc8be61364f00e8bf6d7c32731cef156ab9ea6)
   - <sub>Tags: <code>v1.14.0</code></sub>
+- [ ] [<code>fix(lib): A3936 state update packet parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08c3406db2dbc79539f3560bea6a31d3e85429be)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
