@@ -30,6 +30,7 @@
 - [ ] [<code>ubuntu.yaml: add Noble, Oracular, Plucky</code>](https://github.com/lxc/distrobuilder/commit/8b97fe9729670b2bd574c67d07908d01e649cca9)
 - [ ] [<code>Move to geaaru/docker-companion fork</code>](https://github.com/lxc/distrobuilder/commit/7de1611cd29ce564e3423bc4b02fb935d7a812a6)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/dc5c139408f0d5ff26882c68b881e214827e63f6)
+- [ ] [<code>opensuse: Temporarily switch to mirrorcache-eu to fix downloads</code>](https://github.com/lxc/distrobuilder/commit/1fb71ab7820fdf105bf98abbd384455faa0ea084)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
