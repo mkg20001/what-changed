@@ -589,6 +589,13 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>tests: zfs: add native zfs encryption tests</code>](https://github.com/lxc/incus/commit/9a9c8f775398c5a6c9415b9ca9655bbcba6396ac)
 - [ ] [<code>incusd/instance: Lock image access</code>](https://github.com/lxc/incus/commit/0d02b8f1ae55ce3663a4c1700866813a64fd793f)
+- [ ] [<code>incus/image: Make use of server-side alias handling</code>](https://github.com/lxc/incus/commit/4892b67d9f745302e0782f1f0a9a906159fc0cdd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client: Fix image aliases in push mode</code>](https://github.com/lxc/incus/commit/33c9a8e480a08a92b610e976f98a44a43788cb9b)
+- [ ] [<code>client: Fix image aliases in relay mode</code>](https://github.com/lxc/incus/commit/333c349afdecd98661ede5e0adaca7b15f2b44df)
+- [ ] [<code>incusd/cluster: Validate address on join too</code>](https://github.com/lxc/incus/commit/b6aac1c3bfe358a81ce30949c172ff12884f4ed0)
+- [ ] [<code>incusd/network: Remove duplicated logic</code>](https://github.com/lxc/incus/commit/1741837e1d6d4ea7ebd530db1ae8e01a23358876)
+- [ ] [<code>incusd/util: Cover DNS and wildcard coverage</code>](https://github.com/lxc/incus/commit/ad0d2607ae6c87877492cb4ef5b9a62a359a934e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2155,6 +2162,13 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>tests: zfs: add native zfs encryption tests</code>](https://github.com/lxc/incus/commit/9a9c8f775398c5a6c9415b9ca9655bbcba6396ac)
 - [ ] [<code>incusd/instance: Lock image access</code>](https://github.com/lxc/incus/commit/0d02b8f1ae55ce3663a4c1700866813a64fd793f)
+- [ ] [<code>incus/image: Make use of server-side alias handling</code>](https://github.com/lxc/incus/commit/4892b67d9f745302e0782f1f0a9a906159fc0cdd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client: Fix image aliases in push mode</code>](https://github.com/lxc/incus/commit/33c9a8e480a08a92b610e976f98a44a43788cb9b)
+- [ ] [<code>client: Fix image aliases in relay mode</code>](https://github.com/lxc/incus/commit/333c349afdecd98661ede5e0adaca7b15f2b44df)
+- [ ] [<code>incusd/cluster: Validate address on join too</code>](https://github.com/lxc/incus/commit/b6aac1c3bfe358a81ce30949c172ff12884f4ed0)
+- [ ] [<code>incusd/network: Remove duplicated logic</code>](https://github.com/lxc/incus/commit/1741837e1d6d4ea7ebd530db1ae8e01a23358876)
+- [ ] [<code>incusd/util: Cover DNS and wildcard coverage</code>](https://github.com/lxc/incus/commit/ad0d2607ae6c87877492cb4ef5b9a62a359a934e)
 
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
