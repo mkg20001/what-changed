@@ -238,6 +238,9 @@
 - [ ] [<code>chore: add hint in pubspec.yaml regarding flutter_web_auth_2</code>](https://github.com/krille-chan/fluffychat/commit/a493020fa86a4b76cb2d6523000b03d8168d82f5)
 - [ ] [<code>fix: dont use thumbnails for emoticons</code>](https://github.com/krille-chan/fluffychat/commit/98b4bec41b5ed5715de2c1e8aba611c8e7f4321b)
 - [ ] [<code>chore: Improve presence performance</code>](https://github.com/krille-chan/fluffychat/commit/44a7c9e30e66938db391c196de7bf812dd639d82)
+- [ ] [<code>Merge pull request #1493 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/71a1c8f73c01ba9a7be6cc9573e5d5f1276233e2)
+  - <sub>Tags: <code>rc1.23.0-1</code></sub>
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/a40eab573d5628bd5ecb1fcc4a2a108fd3cd5616)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -384,6 +387,9 @@
 - [ ] [<code>chore: add hint in pubspec.yaml regarding flutter_web_auth_2</code>](https://github.com/krille-chan/fluffychat/commit/a493020fa86a4b76cb2d6523000b03d8168d82f5)
 - [ ] [<code>fix: dont use thumbnails for emoticons</code>](https://github.com/krille-chan/fluffychat/commit/98b4bec41b5ed5715de2c1e8aba611c8e7f4321b)
 - [ ] [<code>chore: Improve presence performance</code>](https://github.com/krille-chan/fluffychat/commit/44a7c9e30e66938db391c196de7bf812dd639d82)
+- [ ] [<code>Merge pull request #1493 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/71a1c8f73c01ba9a7be6cc9573e5d5f1276233e2)
+  - <sub>Tags: <code>rc1.23.0-1</code></sub>
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/a40eab573d5628bd5ecb1fcc4a2a108fd3cd5616)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
