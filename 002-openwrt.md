@@ -47,6 +47,10 @@
 - [ ] [<code>system-dummy: add system_if_apply_settings_after_up</code>](https://git.openwrt.org/project/netifd.git/commit/4fe997b61d7db047d0c4757202b4e8025debc4d1)
 - [ ] [<code>ubus: add notifications on wireless device state changes</code>](https://git.openwrt.org/project/netifd.git/commit/992d33cb42a6e70d98a65f55fb9d000de0fd613b)
 - [ ] [<code>device/interface: add "tags" attribute from config to status dump</code>](https://git.openwrt.org/project/netifd.git/commit/34eb11eb6f5c62de480d6192f0ca840093127fee)
+- [ ] [<code>system-linux: do not pull ifindex/flags from netlink messages on rtnl events</code>](https://git.openwrt.org/project/netifd.git/commit/86da5cbcdb9d417c63d734219c572bb43b089273)
+- [ ] [<code>proto-shell: fix spurious interface teardowns with host deps</code>](https://git.openwrt.org/project/netifd.git/commit/cd96f61ba63e17ab3f13248891d35cfc8a82f513)
+- [ ] [<code>wireless: add support for adding a list of devices for a wifi-iface</code>](https://git.openwrt.org/project/netifd.git/commit/a39fe3a8b1506c5126ae7ac3007d4621898d05d8)
+- [ ] [<code>iprule: add ipproto property</code>](https://git.openwrt.org/project/netifd.git/commit/d29cf707478cfc5465fc8a7b8ccfde72a739a4f6)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
