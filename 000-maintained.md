@@ -1,6 +1,11 @@
 
 #### [bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
 
+- [ ] [<code>Added unacenting option in change case (#61)</code>](https://github.com/linuxmint/bulky/commit/89f72ba75de3a1af5d70b4b414474e509d4d67da)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/bulky/commit/f09feae6de0bd3748836e02ae25147a3b2c05656)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
@@ -117,7 +122,18 @@
 - [ ] [<code>theme: Specify fg_color on new dialogs</code>](https://github.com/linuxmint/cinnamon/commit/77a247a601ee9e47a89a8c796ac46caa4bcbc385)
 - [ ] [<code>theme: Specify fg_color in OSDs as well</code>](https://github.com/linuxmint/cinnamon/commit/a0ee3d2ccaefa612fc51240cf06f79d2c93e91da)
 - [ ] [<code>alt-tab: Rework minimized windows</code>](https://github.com/linuxmint/cinnamon/commit/5b6bdf306955c26663121b14106e1181fb3474a1)
+- [ ] [<code>make notification states immutable (#12260)</code>](https://github.com/linuxmint/cinnamon/commit/370b1c05161ef981ab071d7389e483b70ace12f7)
+- [ ] [<code>[power@cinnamon.org] Add support for more battery device labels and icons (#12262)</code>](https://github.com/linuxmint/cinnamon/commit/34ba2b527a3761d1ae94ff05b740e3f96ab5a352)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Simplify 64bit path handling. More than x86_64 uses /usr/lib64 (i.e. arm64/aarch64). (#12278)</code>](https://github.com/linuxmint/cinnamon/commit/27ce73b0eaf0eea2b25f88e39bd8d4da9d7fee5f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_sound: Fix HiDPI for sound device icons</code>](https://github.com/linuxmint/cinnamon/commit/f93e7f7df341abce02dfeb9d2df2f138e3b0ff41)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>grouped-window-list@cinnamon.org: Improve code readability (#12338)</code>](https://github.com/linuxmint/cinnamon/commit/2047cb35a60e44e063d7f80191f44293ab5d561a)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>network applet: fixes to # of visible networks (#12417)</code>](https://github.com/linuxmint/cinnamon/commit/998f54ed443f02046c8de7ea729fd861b8680873)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -150,6 +166,9 @@
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
 
+- [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/62299917899c931dc06a34db24919102a31ed0a6)
+  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [6.2.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/6.2.1...HEAD)
 
@@ -206,6 +225,9 @@
 - [ ] [<code>Fix meson.build deprecations up to 0.56.0 (#119) (#125)</code>](https://github.com/linuxmint/cjs/commit/f81c19ebae64e087427b03fbb7922145e282f90c)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>gjs-util: Backport private closure annotations patch (#126)</code>](https://github.com/linuxmint/cjs/commit/a4d0b0241582fdc5357a6bfc2b0ef2e05fea4893)
+- [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cjs/commit/cdd853772722bd57a5ea0c0a5b44b21194776106)
+  - <sub>Tags: <code>6.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -436,6 +458,7 @@
 - [ ] [<code>Merge pull request #1493 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/71a1c8f73c01ba9a7be6cc9573e5d5f1276233e2)
   - <sub>Tags: <code>rc1.23.0-1</code></sub>
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/a40eab573d5628bd5ecb1fcc4a2a108fd3cd5616)
+- [ ] [<code>chore: Follow up send file dialog for images</code>](https://github.com/krille-chan/fluffychat/commit/363eabbe1cda3190b6868add5aca7e0f2787a217)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -585,6 +608,7 @@
 - [ ] [<code>Merge pull request #1493 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/71a1c8f73c01ba9a7be6cc9573e5d5f1276233e2)
   - <sub>Tags: <code>rc1.23.0-1</code></sub>
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/a40eab573d5628bd5ecb1fcc4a2a108fd3cd5616)
+- [ ] [<code>chore: Follow up send file dialog for images</code>](https://github.com/krille-chan/fluffychat/commit/363eabbe1cda3190b6868add5aca7e0f2787a217)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -598,6 +622,7 @@
 
 - [ ] [<code>Use GtkSettings to get the icon theme.</code>](https://github.com/linuxmint/folder-color-switcher/commit/5f6a56694a330a99ad2f7fdbb60a5385a1f189da)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.6.5</code>](https://github.com/linuxmint/folder-color-switcher/commit/ba8ea15a48a1a31f318676f4079789af20bdf099)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -645,6 +670,18 @@
 - [ ] [<code>incusd/cluster: Validate address on join too</code>](https://github.com/lxc/incus/commit/b6aac1c3bfe358a81ce30949c172ff12884f4ed0)
 - [ ] [<code>incusd/network: Remove duplicated logic</code>](https://github.com/lxc/incus/commit/1741837e1d6d4ea7ebd530db1ae8e01a23358876)
 - [ ] [<code>incusd/util: Cover DNS and wildcard coverage</code>](https://github.com/lxc/incus/commit/ad0d2607ae6c87877492cb4ef5b9a62a359a934e)
+- [ ] [<code>incusd/storage: Add initial.* config options for storage volume</code>](https://github.com/lxc/incus/commit/f6d43225bf7a0cdbfe84efc5735ff2860e336a2e)
+- [ ] [<code>incusd/storage/drivers: Add ability to set the initial owner of a custom volume</code>](https://github.com/lxc/incus/commit/297e7c1d29e832abf5e9da334146c0a945c1b319)
+- [ ] [<code>tests: Add test for setting initial owner of a cutom volume</code>](https://github.com/lxc/incus/commit/78b7f5771a78e87bfe1bb05d38e0ff410ada3189)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: Add storage_initial_owner extension</code>](https://github.com/lxc/incus/commit/b153c7e378456be83e966d939a9acd8a56288482)
+- [ ] [<code>doc/reference: Add initial.* config keys</code>](https://github.com/lxc/incus/commit/b65d99e2215e8057300fa6689bac451df300bc32)
+- [ ] [<code>incusd/storage/drivers/lvm: Remove metadata info from space usage calculation</code>](https://github.com/lxc/incus/commit/a0697617c07f4007446f4949c8d09d40f034b193)
+- [ ] [<code>incus/migration: Add StoragePool to VolumeTargetArgs and StorageMove to VolumeSourceArgs</code>](https://github.com/lxc/incus/commit/f94ab3c8881448ed8088d9883978d757bd468218)
+- [ ] [<code>incus/instance: Add StoragePool to MigrateArgs</code>](https://github.com/lxc/incus/commit/1ffb66f9f48a4469e2fb4a0c993f80485d6b2ee6)
+- [ ] [<code>incus/drivers: Add support for local live-migration between storage pools</code>](https://github.com/lxc/incus/commit/befc3b3c661bfc5d5d69b288d0b9160a136d410a)
+- [ ] [<code>incusd: Add support for local live-migration between storage pools</code>](https://github.com/lxc/incus/commit/81ab531af8ceff416a7bdbc03e4f42fb1ec09422)
+- [ ] [<code>api: Add storage_live_migration extension</code>](https://github.com/lxc/incus/commit/90183621f0c9225ec043422ed3ffd7dfbd6c2945)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2218,6 +2255,18 @@
 - [ ] [<code>incusd/cluster: Validate address on join too</code>](https://github.com/lxc/incus/commit/b6aac1c3bfe358a81ce30949c172ff12884f4ed0)
 - [ ] [<code>incusd/network: Remove duplicated logic</code>](https://github.com/lxc/incus/commit/1741837e1d6d4ea7ebd530db1ae8e01a23358876)
 - [ ] [<code>incusd/util: Cover DNS and wildcard coverage</code>](https://github.com/lxc/incus/commit/ad0d2607ae6c87877492cb4ef5b9a62a359a934e)
+- [ ] [<code>incusd/storage: Add initial.* config options for storage volume</code>](https://github.com/lxc/incus/commit/f6d43225bf7a0cdbfe84efc5735ff2860e336a2e)
+- [ ] [<code>incusd/storage/drivers: Add ability to set the initial owner of a custom volume</code>](https://github.com/lxc/incus/commit/297e7c1d29e832abf5e9da334146c0a945c1b319)
+- [ ] [<code>tests: Add test for setting initial owner of a cutom volume</code>](https://github.com/lxc/incus/commit/78b7f5771a78e87bfe1bb05d38e0ff410ada3189)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: Add storage_initial_owner extension</code>](https://github.com/lxc/incus/commit/b153c7e378456be83e966d939a9acd8a56288482)
+- [ ] [<code>doc/reference: Add initial.* config keys</code>](https://github.com/lxc/incus/commit/b65d99e2215e8057300fa6689bac451df300bc32)
+- [ ] [<code>incusd/storage/drivers/lvm: Remove metadata info from space usage calculation</code>](https://github.com/lxc/incus/commit/a0697617c07f4007446f4949c8d09d40f034b193)
+- [ ] [<code>incus/migration: Add StoragePool to VolumeTargetArgs and StorageMove to VolumeSourceArgs</code>](https://github.com/lxc/incus/commit/f94ab3c8881448ed8088d9883978d757bd468218)
+- [ ] [<code>incus/instance: Add StoragePool to MigrateArgs</code>](https://github.com/lxc/incus/commit/1ffb66f9f48a4469e2fb4a0c993f80485d6b2ee6)
+- [ ] [<code>incus/drivers: Add support for local live-migration between storage pools</code>](https://github.com/lxc/incus/commit/befc3b3c661bfc5d5d69b288d0b9160a136d410a)
+- [ ] [<code>incusd: Add support for local live-migration between storage pools</code>](https://github.com/lxc/incus/commit/81ab531af8ceff416a7bdbc03e4f42fb1ec09422)
+- [ ] [<code>api: Add storage_live_migration extension</code>](https://github.com/lxc/incus/commit/90183621f0c9225ec043422ed3ffd7dfbd6c2945)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2459,6 +2508,8 @@
 
 - [ ] [<code>Fix broken XFCE symlinks (#13)</code>](https://github.com/linuxmint/mint-l-icons/commit/2d4879f5c1a8ca5869c1a8a7ae8e3708d4ab81ba)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add aptkit</code>](https://github.com/linuxmint/mint-l-icons/commit/8d594d8d51248b8f432d658dd730e287e153b73a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
 
@@ -2482,10 +2533,14 @@
 - [ ] [<code>cinnamon: Apply radius to calendar</code>](https://github.com/linuxmint/mint-themes/commit/a4ed1d852d315e2b6a43f7b9754b8b008f56c859)
 - [ ] [<code>cinnamon: Adapt to new 6.4 dialogs/osd</code>](https://github.com/linuxmint/mint-themes/commit/bc3fd8d7a48d50d02031a127d587ce955d4c746d)
 - [ ] [<code>gtk3: Darken terminal to blend with the titlebar</code>](https://github.com/linuxmint/mint-themes/commit/1b8ad14acbc306d8e1ac21a225e5d09a1e9a2c81)
+- [ ] [<code>Create README.md and describe how to add a new theme (#442)</code>](https://github.com/linuxmint/mint-themes/commit/6c5294c114dc42842f9e3700f36ee8e527072e38)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
 
+- [ ] [<code>Add aptkit</code>](https://github.com/linuxmint/mint-x-icons/commit/3298b0d92fd1abd1c9b6757282e346b003013683)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.7...HEAD)
 
@@ -2501,6 +2556,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Update Firefox and Firefox Nightly icons (#431)</code>](https://github.com/linuxmint/mint-y-icons/commit/a2ec5ac1c9d57c3f951831256e31085accab5430)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add aptkit</code>](https://github.com/linuxmint/mint-y-icons/commit/535c0ae3c65835ececbf40f24917f05985dc6118)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add EasyEffects (#435)</code>](https://github.com/linuxmint/mint-y-icons/commit/6a06b0990d24bfb841deb7b09d811dff8ccb2fc2)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2511,6 +2570,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Make clutter_offscreen_effect_get_target available to Cjs (#702)</code>](https://github.com/linuxmint/muffin/commit/7124201453bfa48c4b6284929062897725cf949b)
 - [ ] [<code>gir: Correct usage of the closure annotation (#704)</code>](https://github.com/linuxmint/muffin/commit/612cd9c5eaa584a3ab0acfda076e2129a8ae3842)
+- [ ] [<code>Update README.md to mention the fact that Muffin is a fork of Mutter, instead of the default readme from Mutter (#697)</code>](https://github.com/linuxmint/muffin/commit/ea89926997b9901b7601a81694085025d75cba28)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
@@ -2544,6 +2604,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Add dependency on meson and pkexec</code>](https://github.com/linuxmint/nemo-extensions/commit/fe1bfc6db668b794ef1a65fd7b580582e8bf3540)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix permision error issue (#529)</code>](https://github.com/linuxmint/nemo-extensions/commit/13fc2c439b150f074a19a50d94a08cfdc60573e1)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -2554,6 +2615,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Add dependency on meson and pkexec</code>](https://github.com/linuxmint/nemo-extensions/commit/fe1bfc6db668b794ef1a65fd7b580582e8bf3540)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix permision error issue (#529)</code>](https://github.com/linuxmint/nemo-extensions/commit/13fc2c439b150f074a19a50d94a08cfdc60573e1)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -2564,6 +2626,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Add dependency on meson and pkexec</code>](https://github.com/linuxmint/nemo-extensions/commit/fe1bfc6db668b794ef1a65fd7b580582e8bf3540)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>fix permision error issue (#529)</code>](https://github.com/linuxmint/nemo-extensions/commit/13fc2c439b150f074a19a50d94a08cfdc60573e1)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -3588,105 +3651,8 @@
 > Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.11.18.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.11.18.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.39.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.39.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.40.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.0...HEAD)
 
-- [ ] [<code>adds 40 MHz to kst chat room options</code>](https://github.com/foldynl/QLog.git/commit/6f6a8a027a2ad810486cddeae9c16c8082bfbb23)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/114316bf22e0605c41cbb8f3c3b9817218cd3d4e)
-- [ ] [<code>NewContact: Added Field contestID</code>](https://github.com/foldynl/QLog.git/commit/6db27829357ee30d04ad2963798d5ec36d6426fe)
-- [ ] [<code>NewContact: Added Field srx_string - Contest Exchange RX</code>](https://github.com/foldynl/QLog.git/commit/a26572e16f98b077747bbd5dc5221d0fb38c27b2)
-- [ ] [<code>NewContact: Added Field stx_string - Contest Exchange TX</code>](https://github.com/foldynl/QLog.git/commit/0a9407718cdb0888b265ecabc742b1f1b1e36fb0)
-- [ ] [<code>NewContact: Added Field srx - Contest Serial Number RX</code>](https://github.com/foldynl/QLog.git/commit/7202330eb7e2b53371e9ca886e64f7eadf3944fd)
-- [ ] [<code>NewContact: Added Field stx - Contest Serial Number TX</code>](https://github.com/foldynl/QLog.git/commit/ed5f52a9c0ec91ec018a472f7259cf59be438492)
-- [ ] [<code>Renamed Field descriptions for SRX(_STRING) and TRX(_STRING), CONTESTID</code>](https://github.com/foldynl/QLog.git/commit/b971154c783cc900aa62e159d2cc751e2f1d2ee9)
-- [ ] [<code>NewContact: Added Field rx_pwr - Contact Power</code>](https://github.com/foldynl/QLog.git/commit/fe8a44654ff332912df1ff9a390b0825f6880c4a)
-- [ ] [<code>CW Console: Added CW macros EXCHSTR, EXCHNR, EXCHNRN</code>](https://github.com/foldynl/QLog.git/commit/da0d0c2a9e781f1ef623768cf841ec40eb025c30)
-- [ ] [<code>CW Console: Added CW Button tooltips with defined macro text</code>](https://github.com/foldynl/QLog.git/commit/06bf342915c3affb70c23d7a97648a08f0a28949)
-- [ ] [<code>NewContact: srx is automatically padded by 3x 0</code>](https://github.com/foldynl/QLog.git/commit/4d469a53c6e0b4af4b820648669ee7a956d4ca43)
-- [ ] [<code>QSOFilter: New Class for handling QSO Filters</code>](https://github.com/foldynl/QLog.git/commit/c5d0f2b36a69570908a5cd5406b782e466f7fcb1)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>QSOFilter: minor changes</code>](https://github.com/foldynl/QLog.git/commit/99a0456996d6674bc00aa5032dc7f7718dfdd59e)
-- [ ] [<code>QSOFilter: Fixed issue when Time is not possible to define for QDateTime fields</code>](https://github.com/foldynl/QLog.git/commit/1f60faa18dfcf299da767758095378c9a3ea69ed)
-- [ ] [<code>Fixed #345 - Added minimal contest support</code>](https://github.com/foldynl/QLog.git/commit/028a626f23fa96fed74f6945d5e04bd918ab100c)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Fixed #345 - Contest Support: Modified Filters</code>](https://github.com/foldynl/QLog.git/commit/6debd139ad7d645807a384c55450ec248070985b)
-- [ ] [<code>Data: Added Cache for DXCCStatus</code>](https://github.com/foldynl/QLog.git/commit/b65f33a4c1104300acc1648f3f7c63b04cc2cb55)
-- [ ] [<code>Fixed #345 - Contest Support: Completer for ContestID and added INTL-removal</code>](https://github.com/foldynl/QLog.git/commit/ac1121df4377291aabdf432b9d2abf53d712c7f0)
-- [ ] [<code>Fixed #345 - Contest Support: QSO filter contains the entire contest ID</code>](https://github.com/foldynl/QLog.git/commit/cc187aa4b403a8e18e0aa665f7775b0fc1a1a382)
-- [ ] [<code>Fixed #345 - Contest Support: the Main Window contains a Contest Label</code>](https://github.com/foldynl/QLog.git/commit/361f85a0a3beb8efa7f6480595dd60c8fdc95d73)
-- [ ] [<code>Fixed Setting Dialog wrong tab index</code>](https://github.com/foldynl/QLog.git/commit/263f84c7bcc76cac744361fdb98704e77f2153a8)
-- [ ] [<code>MYPWR CW macro decimal places improvement</code>](https://github.com/foldynl/QLog.git/commit/11be228397d007e64d2844a0c4d75f280f1fd4c1)
-- [ ] [<code>Logbook: User filter localeaware sorting</code>](https://github.com/foldynl/QLog.git/commit/e2272ea1beb54c625bba4143738531b0167d27f2)
-- [ ] [<code>Export: Added User Filter - original idea #476</code>](https://github.com/foldynl/QLog.git/commit/06a813546a98533f1b5f70fc3bc4d3a5b9179711)
-- [ ] [<code>Changed Dupe Status Color</code>](https://github.com/foldynl/QLog.git/commit/add48973be2f027ee53334e459c43f1066012adc)
-- [ ] [<code>Main Menu: Added Contest Linking Exchange With</code>](https://github.com/foldynl/QLog.git/commit/1bac81f84e4faf567d371948ebc7a7675e220f1d)
-- [ ] [<code>Contest: Dupe check type can be changed during the contest</code>](https://github.com/foldynl/QLog.git/commit/93943605824525aefddf272b5c534a6416436b49)
-- [ ] [<code>Logbook: Adjust Combos size based on the first item</code>](https://github.com/foldynl/QLog.git/commit/371842730cf6f56a4f164a2434067b6bff317b2e)
-- [ ] [<code>ProfileManager emits a signal when profile is changed</code>](https://github.com/foldynl/QLog.git/commit/09284571996dd84f0708bf5d24e0c538d45169e0)
-- [ ] [<code>MainWindow: Removed layoutChanged. It is handled by signal from profileManager</code>](https://github.com/foldynl/QLog.git/commit/422e3630e04a2805bfbdb3e9eb430652e151b259)
-- [ ] [<code>Main: Renamed Layout Menu to Activities Menu</code>](https://github.com/foldynl/QLog.git/commit/001e4fbb10e3672d0c35953a899fca3d35ef8f3f)
-- [ ] [<code>Renamed EditLayout dialog to EditActivities</code>](https://github.com/foldynl/QLog.git/commit/a57f6798981fcde683588dd2913b121c9d62d807)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Renamed MainLayoutEditor to ActivityEditor</code>](https://github.com/foldynl/QLog.git/commit/e5fedee3823e3d66f5deb27752a34301e0683dd2)
-- [ ] [<code>ActivityEditor: Code tunning</code>](https://github.com/foldynl/QLog.git/commit/7f6f23343ece7b6caa8bea816ecf788cdc8d1c0e)
-- [ ] [<code>NewContact: TX Power as the Dynamic Field</code>](https://github.com/foldynl/QLog.git/commit/0d2255e33c7ea2484f7c392fe763c89f6426b1ba)
-- [ ] [<code>NewContactDynamicWidgets::initializeWidgets code tunning</code>](https://github.com/foldynl/QLog.git/commit/19397fb257fedff5a08493afeea115ecf0fae753)
-- [ ] [<code>Activity Editor: Added Profiles and Values</code>](https://github.com/foldynl/QLog.git/commit/f40165d1d8398d7ddacd38ce226ecaa45064b535)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Adds expand&collapse button to qso field tab widget</code>](https://github.com/foldynl/QLog.git/commit/6d924f4fb6b07b7a69ae3eb45f20df20df22453b)
-- [ ] [<code>Fixed #457 - Added CQZ and ITUZ to the Alert</code>](https://github.com/foldynl/QLog.git/commit/5fcdcc8954180db1e1a08a80704a763731da7331)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/b8128c4736ba16c0c194d0e07084435de9dd9c27)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3e221602a80070932abecc699d2e4c7ae5432566)
-- [ ] [<code>DXCC TableWidget code tuning</code>](https://github.com/foldynl/QLog.git/commit/ce5b195cbd392ad6b7e15d8f2a55a7187b0fa9cb)
-- [ ] [<code>Activity: Moved from Main Menu to Status Bar</code>](https://github.com/foldynl/QLog.git/commit/8b8cd7788aa5cfdd6cdcb27225a8ac38d629b5f3)
-- [ ] [<code>Fixed typo</code>](https://github.com/foldynl/QLog.git/commit/cbdebdebdc9249fa13dda48708180721cc77a414)
-- [ ] [<code>MainLayoutProfile: Added TabExpanded parameter</code>](https://github.com/foldynl/QLog.git/commit/c484fb3580cd089585fd1759021770ab6b72c759)
-- [ ] [<code>ActivityEditor: Reorder Tab</code>](https://github.com/foldynl/QLog.git/commit/64dc6171d02ad5d6b52679dbdcf55926850a79b4)
-- [ ] [<code>Fixed #484 - QSL Import dialog: Detail text is selectable by mouse and keyboard</code>](https://github.com/foldynl/QLog.git/commit/9206e3707a72c467d0bdc1b716d5af890653a926)
-- [ ] [<code>Fixed #441 #493: Adds station county and operator callsign to the station and associated dependencies</code>](https://github.com/foldynl/QLog.git/commit/258676eb8becfdef546e3b942fab86746ae7b526)
-- [ ] [<code>Fixed #441: Fixed issue, code unification, minor changes</code>](https://github.com/foldynl/QLog.git/commit/7c700d14e6003ad2747efc0d0847cf1fcdcb0389)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/179abb7c80eaa7ff5ca2ca315ee22bb4a75669bd)
-- [ ] [<code>MacOS CI: Removed Build dmg phase from CI Action</code>](https://github.com/foldynl/QLog.git/commit/45ad315f1b1878338570b852ab4cf09f9aeaa728)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7b150c7bfb780809178b5405d8ea8f0ad62b0429)
-- [ ] [<code>Reworked Rig and Rot Connect; Removed Rig and Rot timers</code>](https://github.com/foldynl/QLog.git/commit/9d5f0be0f4893e746aaa9b10c94ca117855a3280)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/b76378b776869e0a12be28dbda7d1999fbe55da4)
-- [ ] [<code>Updated Czech/German translations</code>](https://github.com/foldynl/QLog.git/commit/ecd34190110b670bb1786525ca8c2de9a99a9dd8)
-- [ ] [<code>Fixed issue Newcontact fields are not displayed</code>](https://github.com/foldynl/QLog.git/commit/bdcae536594563a3a4be294618063f586fafe9b4)
-- [ ] [<code>Fixed issue Setting does not acctept empty Operator Callsign</code>](https://github.com/foldynl/QLog.git/commit/57db6545df2185cbbd4e4b8f38fa708ac9c817d8)
-- [ ] [<code>LogParam: Improved logging of errors</code>](https://github.com/foldynl/QLog.git/commit/e02e296be2c702d0456269eef1c8a56882b19550)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Settings: Fixed uppercase for Station Callsign</code>](https://github.com/foldynl/QLog.git/commit/22c063c1ede9733232f69883e75e1b4efa8efc7a)
-- [ ] [<code>Export: User filter active only in case when the combo contains one or more filters</code>](https://github.com/foldynl/QLog.git/commit/13e50e0ecf7e90cb4fc702d93546055850268b47)
-- [ ] [<code>Activity Manager: Added Field value STXString</code>](https://github.com/foldynl/QLog.git/commit/c5c26c1cc14d0d7a9ea66b9477d1b956a796c038)
-- [ ] [<code>Updated README</code>](https://github.com/foldynl/QLog.git/commit/00943e9e536de8186bff93aaba47494f4fcb13e0)
-- [ ] [<code>Fixed issue when CW is always selected after exiting and connecting the Rig</code>](https://github.com/foldynl/QLog.git/commit/029c55141f8563e6f011d4bdf421b225da16faf9)
-- [ ] [<code>Adds time of day and better qso mapping to statistics (reporting) window</code>](https://github.com/foldynl/QLog.git/commit/7c526192ceb61997f66690eb1145d064dd5279cb)
-- [ ] [<code>Statistics: Only resaved</code>](https://github.com/foldynl/QLog.git/commit/9fe2df62b7b48812a6a2e53b46353369cb8fcf5d)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3f30a25931899ce90cb274197529b7b0a4e284cf)
-- [ ] [<code>Statistics: Fixed an incorrect signal from endDateEdit</code>](https://github.com/foldynl/QLog.git/commit/0d78bca7985c8346ef12db6a7a316bab6702f609)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/13d9460477557484db7cfca4710f0e3ecc26dfa1)
-- [ ] [<code>Fixed compilation issue</code>](https://github.com/foldynl/QLog.git/commit/4c241e0fe8879e894b471357dd766d9bde30a156)
-- [ ] [<code>Fixed compilation issue under Ubuntu 20.04</code>](https://github.com/foldynl/QLog.git/commit/2ecc224ea834023ffb0b8e31fe82b6a2475151b0)
-- [ ] [<code>BandPlan: Minor code tuning</code>](https://github.com/foldynl/QLog.git/commit/ccbcb706a608e4dd309a00fb22feea6f81e10f3a)
-- [ ] [<code>Fixed #477 - New Contact: Renamed DXCC Tab to DX Stats and contains DXCC and Station Statistics</code>](https://github.com/foldynl/QLog.git/commit/46a01aecab9300e6c8a2dd2b680d9ae16e1c2d5f)
-- [ ] [<code>Fixed #477 - QSO Detail: Renamed DXCC Tab to DX Stats and contains DXCC and Station Statistics</code>](https://github.com/foldynl/QLog.git/commit/81d75055adfe765fb2c0cca2efa7f8234f8ee3a2)
-- [ ] [<code>Removed Keep Options from the Equipment Menu - use Activity Manager for it</code>](https://github.com/foldynl/QLog.git/commit/08fe601d0606d141dcf5f0a5c062a995301ad353)
-- [ ] [<code>Updated Czech/German translations</code>](https://github.com/foldynl/QLog.git/commit/91583c26826ea7680c255e1c086cfa43e5b6dfc4)
-- [ ] [<code>Updated Italian Translation</code>](https://github.com/foldynl/QLog.git/commit/66dc52c9be001184625d3b39966e57f954a0ffbf)
-- [ ] [<code>NewContact: Contest Fields are disabled when the ContestID field is not filled</code>](https://github.com/foldynl/QLog.git/commit/bce595913f78accca915087f0d3c89aef921cce9)
-- [ ] [<code>Bandmap: add spotter to spot tooltip</code>](https://github.com/foldynl/QLog.git/commit/fbd4270f5944f276343df18c91bc5b8d9288e248)
-- [ ] [<code>NewContact: Added tooltips for contest fields when they are disabled</code>](https://github.com/foldynl/QLog.git/commit/50766d4bf65885244822e8757731cd77057f66a5)
-- [ ] [<code>README: Added details for Windows Compilation</code>](https://github.com/foldynl/QLog.git/commit/f7b5ed3237da19a19dc223e067c236cb557b13c8)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Newcontact: Specified focus policy for Expand/Collapse Btn</code>](https://github.com/foldynl/QLog.git/commit/d58547ebd1f1ddeda7497b5253e6dda288c5165d)
-- [ ] [<code>PR #507: Code cleanup</code>](https://github.com/foldynl/QLog.git/commit/4191c5b5f44241fb1fc53bd2e54139586d57cac7)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/6721d43777684c44bc65195420a81e980d516f3b)
-- [ ] [<code>Timezone Builder: Fixed compilation and download issues</code>](https://github.com/foldynl/QLog.git/commit/c416e39747089d9deb111f8a1257fc627b8b7951)
-- [ ] [<code>Updated Timezone definition file - version 2024b</code>](https://github.com/foldynl/QLog.git/commit/ee32c307214560416967e4bab3edbede85a34f1b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Updated Spanish translation</code>](https://github.com/foldynl/QLog.git/commit/8d5a1516cb412dbe9b8457eedca05c2a7908b02c)
-- [ ] [<code>Updated translations - added tooltip(ChatGPT used)</code>](https://github.com/foldynl/QLog.git/commit/7ae1a2c2b645de61a43f8140cacfe02ec0059d89)
-- [ ] [<code>Preparation for release 0.40.0</code>](https://github.com/foldynl/QLog.git/commit/e0a78caafe87c7358b41e09170886da1a1dd56fa)
-  - <sub>Tags: <code>v0.40.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -3903,7 +3869,9 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>xapp-icon-chooser-button.c: Use gtk_widget_destroy() to clean up</code>](https://github.com/linuxmint/xapp/commit/ebccaa32b6e727a9598f0f3b74af151561fc2b3d)
 - [ ] [<code>xapp-icon-chooser-button.c: Fix a build warning.</code>](https://github.com/linuxmint/xapp/commit/2e524ec3c9bb202fad3c037cda32eb1c94156e60)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.8.6</code>](https://github.com/linuxmint/xapp/commit/1bfe88cbdaeeccd04983f438bb338a2d7815309a)
+  - <sub>Tags: <code>2.8.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
 
@@ -3911,7 +3879,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Improve screenshot logging, fix debug mode.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/660af0f497d3a3a900d6f7b820c565868ed41bfc)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>1.1.0</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2c10b1e135c91807246e4e1bf6fe66a3701a1b7e)
+  - <sub>Tags: <code>1.1.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.2...HEAD)
 
