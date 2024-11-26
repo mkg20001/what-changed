@@ -459,6 +459,8 @@
   - <sub>Tags: <code>rc1.23.0-1</code></sub>
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/a40eab573d5628bd5ecb1fcc4a2a108fd3cd5616)
 - [ ] [<code>chore: Follow up send file dialog for images</code>](https://github.com/krille-chan/fluffychat/commit/363eabbe1cda3190b6868add5aca7e0f2787a217)
+- [ ] [<code>chore: Follow up send multiple images</code>](https://github.com/krille-chan/fluffychat/commit/ae0999e6ce8c44a3c8267ef09651d7be9d61881b)
+  - <sub>Tags: <code>rc1.23.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -609,6 +611,8 @@
   - <sub>Tags: <code>rc1.23.0-1</code></sub>
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/a40eab573d5628bd5ecb1fcc4a2a108fd3cd5616)
 - [ ] [<code>chore: Follow up send file dialog for images</code>](https://github.com/krille-chan/fluffychat/commit/363eabbe1cda3190b6868add5aca7e0f2787a217)
+- [ ] [<code>chore: Follow up send multiple images</code>](https://github.com/krille-chan/fluffychat/commit/ae0999e6ce8c44a3c8267ef09651d7be9d61881b)
+  - <sub>Tags: <code>rc1.23.0-2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
