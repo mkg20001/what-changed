@@ -676,6 +676,14 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>api: Add storage_initial_owner extension</code>](https://github.com/lxc/incus/commit/b153c7e378456be83e966d939a9acd8a56288482)
 - [ ] [<code>doc/reference: Add initial.* config keys</code>](https://github.com/lxc/incus/commit/b65d99e2215e8057300fa6689bac451df300bc32)
+- [ ] [<code>shared/cliconfig: Improve configuration loading</code>](https://github.com/lxc/incus/commit/a168b36915acea2c74818fd438a3cc0fb54619eb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incus: Simplify configuration loading</code>](https://github.com/lxc/incus/commit/8a41e542e3ed98eee67dd9e3455a49976b9de4a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add aliases completion</code>](https://github.com/lxc/incus/commit/851ce888c67d96904a0fe1294984b169158a99dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bb184cb3f06bccc11dc1e741adcb239e232a230d)
+  - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage/drivers/lvm: Remove metadata info from space usage calculation</code>](https://github.com/lxc/incus/commit/a0697617c07f4007446f4949c8d09d40f034b193)
 - [ ] [<code>incus/migration: Add StoragePool to VolumeTargetArgs and StorageMove to VolumeSourceArgs</code>](https://github.com/lxc/incus/commit/f94ab3c8881448ed8088d9883978d757bd468218)
 - [ ] [<code>incus/instance: Add StoragePool to MigrateArgs</code>](https://github.com/lxc/incus/commit/1ffb66f9f48a4469e2fb4a0c993f80485d6b2ee6)
@@ -2261,6 +2269,14 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>api: Add storage_initial_owner extension</code>](https://github.com/lxc/incus/commit/b153c7e378456be83e966d939a9acd8a56288482)
 - [ ] [<code>doc/reference: Add initial.* config keys</code>](https://github.com/lxc/incus/commit/b65d99e2215e8057300fa6689bac451df300bc32)
+- [ ] [<code>shared/cliconfig: Improve configuration loading</code>](https://github.com/lxc/incus/commit/a168b36915acea2c74818fd438a3cc0fb54619eb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incus: Simplify configuration loading</code>](https://github.com/lxc/incus/commit/8a41e542e3ed98eee67dd9e3455a49976b9de4a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add aliases completion</code>](https://github.com/lxc/incus/commit/851ce888c67d96904a0fe1294984b169158a99dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bb184cb3f06bccc11dc1e741adcb239e232a230d)
+  - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage/drivers/lvm: Remove metadata info from space usage calculation</code>](https://github.com/lxc/incus/commit/a0697617c07f4007446f4949c8d09d40f034b193)
 - [ ] [<code>incus/migration: Add StoragePool to VolumeTargetArgs and StorageMove to VolumeSourceArgs</code>](https://github.com/lxc/incus/commit/f94ab3c8881448ed8088d9883978d757bd468218)
 - [ ] [<code>incus/instance: Add StoragePool to MigrateArgs</code>](https://github.com/lxc/incus/commit/1ffb66f9f48a4469e2fb4a0c993f80485d6b2ee6)
