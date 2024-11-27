@@ -134,8 +134,24 @@
 - [ ] [<code>network applet: fixes to # of visible networks (#12417)</code>](https://github.com/linuxmint/cinnamon/commit/998f54ed443f02046c8de7ea729fd861b8680873)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>GWL: Fix merge conflict (#12521)</code>](https://github.com/linuxmint/cinnamon/commit/75976673765fafda49dd6460af2c810752f1926f)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_backgrounds: Fix previews for JXL files (#12479)</code>](https://github.com/linuxmint/cinnamon/commit/ec2ecf85b5a0d5ab18c355675aa5059f30fc6d0f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>messageTray.js and cs_notifications.py: Add an option for showing notifications in fullscreen (#11844)</code>](https://github.com/linuxmint/cinnamon/commit/93bce8e25cc58e422291ffb2f3074506e4cbac62)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power@cinnamon.org: Add support for freedesktop.org PowerProfiles DBus (#12507)</code>](https://github.com/linuxmint/cinnamon/commit/13561025ad146976e77d899c2d801da2dbac9f6c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings-users: Forbid . characters in username</code>](https://github.com/linuxmint/cinnamon/commit/02480c68f20e3ce5f5deedae7976c23fb8643304)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Respect `$GTK2_RC_FILES` when writing themes (#12416)</code>](https://github.com/linuxmint/cinnamon/commit/9e2d260b80c8923b54571f6f191e48ddf7b9b6df)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add a clutter end-session dialog. (#12519)</code>](https://github.com/linuxmint/cinnamon/commit/66ad76e3d5ad00f5768bd6340c614fb2e2bafaa1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>panel.js: Only pick reactive actors while verifying the target actor on button press (#12403)</code>](https://github.com/linuxmint/cinnamon/commit/5d0115539c7c087838c0c8d849927747d62690f4)
+- [ ] [<code>Always show panel if a menu is open on it (#11779)</code>](https://github.com/linuxmint/cinnamon/commit/e58e37be2980f8c642580d5fa95cc1ddbf4c49f6)
+- [ ] [<code>cinnamon-launcher: Run nm-applet during fallback session</code>](https://github.com/linuxmint/cinnamon/commit/5b83ac2f397c97d55a450184c0823e3ad5c9546e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -721,6 +737,9 @@
 - [ ] [<code>api: Add storage_live_migration extension</code>](https://github.com/lxc/incus/commit/90183621f0c9225ec043422ed3ffd7dfbd6c2945)
 - [ ] [<code>golangci: Add local prefixes for goimports</code>](https://github.com/lxc/incus/commit/304f4773e094abb384952ba77aec809e21fe0d8b)
 - [ ] [<code>client: invalidate simple streams cache</code>](https://github.com/lxc/incus/commit/3fbf3492b4e31bd66e5d455a425a355ff7505b9b)
+- [ ] [<code>incusd/instances_post: Fix cluster internal migrations</code>](https://github.com/lxc/incus/commit/e1f5466223e8543c83a15fcb1e34aa68f61ff1ba)
+- [ ] [<code>incusd/instances_post: Only update pool in DB if pool is expected to change</code>](https://github.com/lxc/incus/commit/e4780040fcc951bcab74b3a87c75ad1be4e79274)
+- [ ] [<code>incusd/instances_post: Account for profiles when overriding pool in DB</code>](https://github.com/lxc/incus/commit/c1b078241144996665ac028bb56ea1311200c7ba)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2316,6 +2335,9 @@
 - [ ] [<code>api: Add storage_live_migration extension</code>](https://github.com/lxc/incus/commit/90183621f0c9225ec043422ed3ffd7dfbd6c2945)
 - [ ] [<code>golangci: Add local prefixes for goimports</code>](https://github.com/lxc/incus/commit/304f4773e094abb384952ba77aec809e21fe0d8b)
 - [ ] [<code>client: invalidate simple streams cache</code>](https://github.com/lxc/incus/commit/3fbf3492b4e31bd66e5d455a425a355ff7505b9b)
+- [ ] [<code>incusd/instances_post: Fix cluster internal migrations</code>](https://github.com/lxc/incus/commit/e1f5466223e8543c83a15fcb1e34aa68f61ff1ba)
+- [ ] [<code>incusd/instances_post: Only update pool in DB if pool is expected to change</code>](https://github.com/lxc/incus/commit/e4780040fcc951bcab74b3a87c75ad1be4e79274)
+- [ ] [<code>incusd/instances_post: Account for profiles when overriding pool in DB</code>](https://github.com/lxc/incus/commit/c1b078241144996665ac028bb56ea1311200c7ba)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2638,8 +2660,10 @@
 - [ ] [<code>Update README.md to mention the fact that Muffin is a fork of Mutter, instead of the default readme from Mutter (#697)</code>](https://github.com/linuxmint/muffin/commit/ea89926997b9901b7601a81694085025d75cba28)
 - [ ] [<code>constraints: Allow resize of windows moved above screen (#696)</code>](https://github.com/linuxmint/muffin/commit/5d3121e617dc5425ef377b28c0e737b6a808e216)
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/muffin/commit/c34b09d89b627cf2fbec0433951d9133e15b5a29)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Remove volatile qualifier for g_once_init handles.</code>](https://github.com/linuxmint/muffin/commit/02fce996c86d6eb473aee83f4b6eb054a51a36da)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
@@ -2664,7 +2688,19 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>search: Improve logging when loading search helpers.</code>](https://github.com/linuxmint/nemo/commit/daff8ceaa2d6a019452f651ac2004ab60c1dc3ad)
 - [ ] [<code>tree-sidebar: Add missing properties menu item. (#3476)</code>](https://github.com/linuxmint/nemo/commit/c0f28f34dfcb90d602332cc7afd15854ab36ff71)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>extract_action_strings: Don't use datetime</code>](https://github.com/linuxmint/nemo/commit/63dd4607f1db9f6a3a25cb9edb04e6e6695045a4)
+- [ ] [<code>extract_action_strings: Sort files</code>](https://github.com/linuxmint/nemo/commit/adba565387f29f9d87fd3dd918b9be525be1f622)
+- [ ] [<code>makepot: Fix sorting and moved filename</code>](https://github.com/linuxmint/nemo/commit/349d8e4f8c89f915e501bafd0ba12b0acfa6653e)
+- [ ] [<code>nemo_action_layout_editor.py: Fix non-initialized variable</code>](https://github.com/linuxmint/nemo/commit/ce0b3f21aeacb18100c831b78d90d3f6278cb9cd)
+- [ ] [<code>l10n: Avoid use of pango tags in msgids</code>](https://github.com/linuxmint/nemo/commit/2906bf8b5e909bd9692a08e4bc11bda270d151a0)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/e2f93043b1b3b4b1036774d4077aade1556fafa3)
+- [ ] [<code>nemo-actions/merge_action_strings: Sort by locale</code>](https://github.com/linuxmint/nemo/commit/5b7fd3e02885028f1c421e9b55be07cef604c19f)
+- [ ] [<code>l10n: generate additional files</code>](https://github.com/linuxmint/nemo/commit/b8ab9dd0e082ad88cee48f63457f1db9d6a31bef)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.4.0</code>](https://github.com/linuxmint/nemo/commit/4fa4a78a03f1e051448068abea6f725b31c1b0ba)
+  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
@@ -2676,6 +2712,7 @@
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/nemo-extensions/commit/bb5c6235c0007dfd2da69428bc795865644fb5df)
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -2690,6 +2727,7 @@
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/nemo-extensions/commit/bb5c6235c0007dfd2da69428bc795865644fb5df)
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.2.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.2.0...HEAD)
 
@@ -2704,6 +2742,7 @@
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/nemo-extensions/commit/bb5c6235c0007dfd2da69428bc795865644fb5df)
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
