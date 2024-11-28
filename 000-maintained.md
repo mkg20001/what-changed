@@ -150,8 +150,10 @@
 - [ ] [<code>panel.js: Only pick reactive actors while verifying the target actor on button press (#12403)</code>](https://github.com/linuxmint/cinnamon/commit/5d0115539c7c087838c0c8d849927747d62690f4)
 - [ ] [<code>Always show panel if a menu is open on it (#11779)</code>](https://github.com/linuxmint/cinnamon/commit/e58e37be2980f8c642580d5fa95cc1ddbf4c49f6)
 - [ ] [<code>cinnamon-launcher: Run nm-applet during fallback session</code>](https://github.com/linuxmint/cinnamon/commit/5b83ac2f397c97d55a450184c0823e3ad5c9546e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_power: Add Power Profile options to the power module (#12523)</code>](https://github.com/linuxmint/cinnamon/commit/7a4afa6c03838df8b328abeaeb26917bb094a0b8)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -740,6 +742,10 @@
 - [ ] [<code>incusd/instances_post: Fix cluster internal migrations</code>](https://github.com/lxc/incus/commit/e1f5466223e8543c83a15fcb1e34aa68f61ff1ba)
 - [ ] [<code>incusd/instances_post: Only update pool in DB if pool is expected to change</code>](https://github.com/lxc/incus/commit/e4780040fcc951bcab74b3a87c75ad1be4e79274)
 - [ ] [<code>incusd/instances_post: Account for profiles when overriding pool in DB</code>](https://github.com/lxc/incus/commit/c1b078241144996665ac028bb56ea1311200c7ba)
+- [ ] [<code>incusd/main_forknet: Don't attach DHCP client to the container PID namespace</code>](https://github.com/lxc/incus/commit/5faf27017816285a941a35e9c52e5f40577e425e)
+- [ ] [<code>incusd/instance/lxc: Cleanup DHCP client</code>](https://github.com/lxc/incus/commit/6277b257335810ca095e827ed31461cf8025ab13)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/main_forknet: Tweak process title</code>](https://github.com/lxc/incus/commit/9064bdd618218481152bf38b9f4af2ca682fa1ec)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2338,6 +2344,10 @@
 - [ ] [<code>incusd/instances_post: Fix cluster internal migrations</code>](https://github.com/lxc/incus/commit/e1f5466223e8543c83a15fcb1e34aa68f61ff1ba)
 - [ ] [<code>incusd/instances_post: Only update pool in DB if pool is expected to change</code>](https://github.com/lxc/incus/commit/e4780040fcc951bcab74b3a87c75ad1be4e79274)
 - [ ] [<code>incusd/instances_post: Account for profiles when overriding pool in DB</code>](https://github.com/lxc/incus/commit/c1b078241144996665ac028bb56ea1311200c7ba)
+- [ ] [<code>incusd/main_forknet: Don't attach DHCP client to the container PID namespace</code>](https://github.com/lxc/incus/commit/5faf27017816285a941a35e9c52e5f40577e425e)
+- [ ] [<code>incusd/instance/lxc: Cleanup DHCP client</code>](https://github.com/lxc/incus/commit/6277b257335810ca095e827ed31461cf8025ab13)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/main_forknet: Tweak process title</code>](https://github.com/lxc/incus/commit/9064bdd618218481152bf38b9f4af2ca682fa1ec)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
