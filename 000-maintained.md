@@ -2708,9 +2708,11 @@
 - [ ] [<code>l10n: generate additional files</code>](https://github.com/linuxmint/nemo/commit/b8ab9dd0e082ad88cee48f63457f1db9d6a31bef)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/nemo/commit/4fa4a78a03f1e051448068abea6f725b31c1b0ba)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix inhibit name so nemo's desktop file is discovered by cinnamon-</code>](https://github.com/linuxmint/nemo/commit/6ae2a897298ce0403fe8768c1dfc466a2f5e4133)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
@@ -3757,6 +3759,7 @@
 - [ ] [<code>ci: add reusable action for installing android build tools</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4ac56ab87475baa453b80a8f854a3eb20efeed79)
 - [ ] [<code>docs: add fastlane metadata</code>](https://github.com/Oppzippy/OpenSCQ30/commit/376b2745eb76c4aab36cc6f98639eccd13f367cd)
 - [ ] [<code>build: fix shellcheck error in set-version script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a89369b2daec85e741bcb95405cf8630f78923f8)
+- [ ] [<code>fix(lib): stricter firmware version parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f7fa987a88129e29035bf85223fdc00031717836)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
