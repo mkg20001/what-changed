@@ -61,6 +61,7 @@
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
+- [ ] [<code>file: Ignore config file with '.' in name</code>](https://git.openwrt.org/project/uci.git/commit/10f7996ec29449915640acca5d65b592365a4b14)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
