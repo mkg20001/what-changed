@@ -152,8 +152,26 @@
 - [ ] [<code>cinnamon-launcher: Run nm-applet during fallback session</code>](https://github.com/linuxmint/cinnamon/commit/5b83ac2f397c97d55a450184c0823e3ad5c9546e)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cs_power: Add Power Profile options to the power module (#12523)</code>](https://github.com/linuxmint/cinnamon/commit/7a4afa6c03838df8b328abeaeb26917bb094a0b8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>nightlight: Add more info, tooltip, keywords</code>](https://github.com/linuxmint/cinnamon/commit/63141d97e840bb352cd2ddc697329d9481cba3ca)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Rephrase newly added option</code>](https://github.com/linuxmint/cinnamon/commit/203810a293fef273772301ec8643190f5400b714)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Rename log out option, capitalize lock screen</code>](https://github.com/linuxmint/cinnamon/commit/7976b8c114fcc098d9f8b5223751443d87c87eca)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Rename Quit to Shut Down</code>](https://github.com/linuxmint/cinnamon/commit/83f81bd884c64b7eb33d7c753fc3add71b918d0a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>endSessionDialog: Fix some msgids</code>](https://github.com/linuxmint/cinnamon/commit/bf15ee812a966c14ee1bf2a3841d609ce2fd921c)
+- [ ] [<code>cs_notifications: Remove "experimental"</code>](https://github.com/linuxmint/cinnamon/commit/f80ce5842f52dd8f7b495fc64471b32f3a738d7d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/45edfb506e6ec563df434d3015976398b7ab7588)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon/commit/d14b2f2439c6f51159796055d6cd056408c45d95)
+  - <sub>Tags: <code>6.4.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Monitor names from muffin (#12525)</code>](https://github.com/linuxmint/cinnamon/commit/0c1e98c9f2ce0595d675c9bd205b00022fe92e9b)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -665,11 +683,8 @@
 > Dropped flutter327 - no appropriate URL found OrderedDict([('attr_path', 'flutter327'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c9d1a2b9c7f40ff7bb77ee74a277988bb8a4adf2...HEAD)
+#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [ba8ea15a48a1a31f318676f4079789af20bdf099 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/ba8ea15a48a1a31f318676f4079789af20bdf099...HEAD)
 
-- [ ] [<code>Use GtkSettings to get the icon theme.</code>](https://github.com/linuxmint/folder-color-switcher/commit/5f6a56694a330a99ad2f7fdbb60a5385a1f189da)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.5</code>](https://github.com/linuxmint/folder-color-switcher/commit/ba8ea15a48a1a31f318676f4079789af20bdf099)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -746,6 +761,22 @@
 - [ ] [<code>incusd/instance/lxc: Cleanup DHCP client</code>](https://github.com/lxc/incus/commit/6277b257335810ca095e827ed31461cf8025ab13)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/main_forknet: Tweak process title</code>](https://github.com/lxc/incus/commit/9064bdd618218481152bf38b9f4af2ca682fa1ec)
+- [ ] [<code>incus/image: Add reuse flag</code>](https://github.com/lxc/incus/commit/c3cd0afa833f43bbb446630acc4daf28200a9e49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/publish: Use common helper function deleteImagesByAliases</code>](https://github.com/lxc/incus/commit/ca0611542a67889c19e43ad97745b18bc91668e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/56498e07ca89680fed789c0979c493a6f090e0bc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add a reuse flag test for the 'incus image import'</code>](https://github.com/lxc/incus/commit/cb8e7da0045e7736eb4428dfc54558e530657faf)
+- [ ] [<code>incusd/instance/qemu: Set instance path ownership on startup</code>](https://github.com/lxc/incus/commit/86b6a8717ed40b0f50985c6b653afff717910c15)
+- [ ] [<code>api: instance_console_screenshot</code>](https://github.com/lxc/incus/commit/b188b3138007585133b33e2449f7b197d1e9d8b6)
+- [ ] [<code>incusd/instance/qmp: Add Screendump command</code>](https://github.com/lxc/incus/commit/4327816e745d0aeceda87c3272a28492a572a342)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/response: Allow overrriding Content-Type in FileResponse</code>](https://github.com/lxc/incus/commit/001eb992b6d8441f6f8d6f8a7601ee3e9ece4d91)
+- [ ] [<code>incusd/instance: Add ConsoleScreenshot to VM interface</code>](https://github.com/lxc/incus/commit/a785828207cf575f7ca9f2552dcaecf3de2b6837)
+- [ ] [<code>incusd/instance/qemu: Implement ConsoleScreenshot</code>](https://github.com/lxc/incus/commit/6863fe6b7c05e90a9dbe7314af2c118127f5da5c)
+- [ ] [<code>incusd/instance_console: Add screenshot support to console API</code>](https://github.com/lxc/incus/commit/270cba32601a5fd0835629fc5242af325ba3e04d)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a65c5b9e701a7caf3c29d21397064ecae713e3b5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2348,6 +2379,22 @@
 - [ ] [<code>incusd/instance/lxc: Cleanup DHCP client</code>](https://github.com/lxc/incus/commit/6277b257335810ca095e827ed31461cf8025ab13)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/main_forknet: Tweak process title</code>](https://github.com/lxc/incus/commit/9064bdd618218481152bf38b9f4af2ca682fa1ec)
+- [ ] [<code>incus/image: Add reuse flag</code>](https://github.com/lxc/incus/commit/c3cd0afa833f43bbb446630acc4daf28200a9e49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/publish: Use common helper function deleteImagesByAliases</code>](https://github.com/lxc/incus/commit/ca0611542a67889c19e43ad97745b18bc91668e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/56498e07ca89680fed789c0979c493a6f090e0bc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add a reuse flag test for the 'incus image import'</code>](https://github.com/lxc/incus/commit/cb8e7da0045e7736eb4428dfc54558e530657faf)
+- [ ] [<code>incusd/instance/qemu: Set instance path ownership on startup</code>](https://github.com/lxc/incus/commit/86b6a8717ed40b0f50985c6b653afff717910c15)
+- [ ] [<code>api: instance_console_screenshot</code>](https://github.com/lxc/incus/commit/b188b3138007585133b33e2449f7b197d1e9d8b6)
+- [ ] [<code>incusd/instance/qmp: Add Screendump command</code>](https://github.com/lxc/incus/commit/4327816e745d0aeceda87c3272a28492a572a342)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/response: Allow overrriding Content-Type in FileResponse</code>](https://github.com/lxc/incus/commit/001eb992b6d8441f6f8d6f8a7601ee3e9ece4d91)
+- [ ] [<code>incusd/instance: Add ConsoleScreenshot to VM interface</code>](https://github.com/lxc/incus/commit/a785828207cf575f7ca9f2552dcaecf3de2b6837)
+- [ ] [<code>incusd/instance/qemu: Implement ConsoleScreenshot</code>](https://github.com/lxc/incus/commit/6863fe6b7c05e90a9dbe7314af2c118127f5da5c)
+- [ ] [<code>incusd/instance_console: Add screenshot support to console API</code>](https://github.com/lxc/incus/commit/270cba32601a5fd0835629fc5242af325ba3e04d)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a65c5b9e701a7caf3c29d21397064ecae713e3b5)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2505,6 +2552,8 @@
 - [ ] [<code>android_jni: Support 16kb page size</code>](https://github.com/AOMediaCodec/libavif/commit/566e2ed3603fcc781adc1bd2c93de0e807876b81)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>libavif_jni: add missing error check (#2508)</code>](https://github.com/AOMediaCodec/libavif/commit/03738d58595e0d62f0b9f8815a27cc7eb52d1c2a)
+- [ ] [<code>Bump AVM to research-8.1.0 (#2506)</code>](https://github.com/AOMediaCodec/libavif/commit/fa626671c5625f0ec7487806d18cccaff49e0265)
+- [ ] [<code>Turn gain maps on in ci-unix-shared-installed.yml (#2511)</code>](https://github.com/AOMediaCodec/libavif/commit/378c646247cb7d286dda55b28f6451cf289383a5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2585,78 +2634,22 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [ee03e6dad0b1f9e25847977eae42766e2ddd4877 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/ee03e6dad0b1f9e25847977eae42766e2ddd4877...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f1900facf915715623ef0ca2874ae4dd04039e81 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f1900facf915715623ef0ca2874ae4dd04039e81...HEAD)
 
-- [ ] [<code>Fix broken XFCE symlinks (#13)</code>](https://github.com/linuxmint/mint-l-icons/commit/2d4879f5c1a8ca5869c1a8a7ae8e3708d4ab81ba)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add aptkit</code>](https://github.com/linuxmint/mint-l-icons/commit/8d594d8d51248b8f432d658dd730e287e153b73a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Backport missing apps and symlinks from mint-y-icons (#12)</code>](https://github.com/linuxmint/mint-l-icons/commit/ca76484c6bb211a0ae0d6fae0275908f656a4b80)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.3</code>](https://github.com/linuxmint/mint-l-icons/commit/f1900facf915715623ef0ca2874ae4dd04039e81)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.8...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.9...HEAD)
 
-- [ ] [<code>Remove "Linux Mint" Cinnamon theme</code>](https://github.com/linuxmint/mint-themes/commit/5de93c0c55b98526e90e087afdcb2a4bb78d3070)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>cinnamon: Remove 0% mix calls</code>](https://github.com/linuxmint/mint-themes/commit/cf714ed33c1d225d75ac1d3a4eb1d465e6d616ee)
-- [ ] [<code>cinnamon: Let the panel get its own color</code>](https://github.com/linuxmint/mint-themes/commit/5063652fdb80cc39d76a6700293a2329a2eb8076)
-- [ ] [<code>cinnamon: rename sass variable</code>](https://github.com/linuxmint/mint-themes/commit/1290aac533ee4bf69b4e5b0c4a04271761bf2894)
-- [ ] [<code>cinnamon: remove obsolete section</code>](https://github.com/linuxmint/mint-themes/commit/a2edf92215ad2a621c4b89b6739170021281bf75)
-- [ ] [<code>cinnamon: Darken theme</code>](https://github.com/linuxmint/mint-themes/commit/78965ce070d8b7e02feaa0e1c546e84a8a0228b8)
-- [ ] [<code>cinnamon: Remove borders on popovers</code>](https://github.com/linuxmint/mint-themes/commit/ba11a3dc9bf58286163cef74101948349f4b41d6)
-- [ ] [<code>cinnamon: Introduce radius, subtle separators, indented submenus</code>](https://github.com/linuxmint/mint-themes/commit/181f03b4b23ee29b3287fe30c437660cb06eb2b4)
-- [ ] [<code>cinnamon: Fix wifi/battery titles</code>](https://github.com/linuxmint/mint-themes/commit/4504ad40cbac35042da4c4fb9fe7f17b659610bc)
-- [ ] [<code>cinnamon: Apply radius to calendar box</code>](https://github.com/linuxmint/mint-themes/commit/063d6ab275c2112129364654c89ce712ed2fb0c0)
-- [ ] [<code>cinnamon: Fix workspace switcher</code>](https://github.com/linuxmint/mint-themes/commit/eef96eee7b7302c1ee5317cb5f98801b8e887f14)
-- [ ] [<code>cinnamon: Define fg_color, simplify applet borders</code>](https://github.com/linuxmint/mint-themes/commit/c1794a78e01258a7760704249567a797b44c3014)
-- [ ] [<code>cinnamon: Lighten up the light panel</code>](https://github.com/linuxmint/mint-themes/commit/bb57e48c13f22d0b3c43c5a6069b0f75871aa1f6)
-- [ ] [<code>cinnamon: Apply radius to calendar</code>](https://github.com/linuxmint/mint-themes/commit/a4ed1d852d315e2b6a43f7b9754b8b008f56c859)
-- [ ] [<code>cinnamon: Adapt to new 6.4 dialogs/osd</code>](https://github.com/linuxmint/mint-themes/commit/bc3fd8d7a48d50d02031a127d587ce955d4c746d)
-- [ ] [<code>gtk3: Darken terminal to blend with the titlebar</code>](https://github.com/linuxmint/mint-themes/commit/1b8ad14acbc306d8e1ac21a225e5d09a1e9a2c81)
-- [ ] [<code>Create README.md and describe how to add a new theme (#442)</code>](https://github.com/linuxmint/mint-themes/commit/6c5294c114dc42842f9e3700f36ee8e527072e38)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.1.9</code>](https://github.com/linuxmint/mint-themes/commit/3b4c869a2205ee6681333ae798effa50d69bc4a7)
-  - <sub>Tags: <code>2.1.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>cinnamon: Darken switch widget</code>](https://github.com/linuxmint/mint-themes/commit/7d141286f0a152ede3e40ed9201d31f3e06787e9)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.1 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.1...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
-- [ ] [<code>Add aptkit</code>](https://github.com/linuxmint/mint-x-icons/commit/3298b0d92fd1abd1c9b6757282e346b003013683)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.2</code>](https://github.com/linuxmint/mint-x-icons/commit/e0c5895bac38e4961433faec6b1f66b97e249520)
-  - <sub>Tags: <code>1.7.2</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.7 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.7...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.8...HEAD)
 
-- [ ] [<code>Add symbolic links for the Proton VPN desktop app</code>](https://github.com/linuxmint/mint-y-icons/commit/cc48242106af2e623780c43f3bba2ca3fbeae47d)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Proton Pass icon</code>](https://github.com/linuxmint/mint-y-icons/commit/9848a456a3fba021fe421334f0f5d69d9822923c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Create org.xfce.terminalemulator.png</code>](https://github.com/linuxmint/mint-y-icons/commit/7df2daec333d01b206eb88dd7aa1e00065ad35a1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>add org.xfce.terminalemulator symlink</code>](https://github.com/linuxmint/mint-y-icons/commit/97ee6e6c9d6dfd0717f09b8614e49529b72b67c0)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fixed more XFCE symlinks</code>](https://github.com/linuxmint/mint-y-icons/commit/69461b2ebbaf5da72ca3c8f54cccd1667bd3ad88)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Firefox and Firefox Nightly icons (#431)</code>](https://github.com/linuxmint/mint-y-icons/commit/a2ec5ac1c9d57c3f951831256e31085accab5430)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add aptkit</code>](https://github.com/linuxmint/mint-y-icons/commit/535c0ae3c65835ececbf40f24917f05985dc6118)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add EasyEffects (#435)</code>](https://github.com/linuxmint/mint-y-icons/commit/6a06b0990d24bfb841deb7b09d811dff8ccb2fc2)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Patreon icon (#446)</code>](https://github.com/linuxmint/mint-y-icons/commit/5f0f76e10c6e2e8a61e36d92d62a5da6cb6ac936)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add FreeCAD icon (#447)</code>](https://github.com/linuxmint/mint-y-icons/commit/b7e11850138257fac8d4c035043bcacda37f879a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add missing mkvtoolnix-gui symlink and remove gnome-builder symlink (#439)</code>](https://github.com/linuxmint/mint-y-icons/commit/07f58e5b32b124cb417e99f71a524eff9a202ebd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix LibreOffice icon symlinks for Flatpak (#438)</code>](https://github.com/linuxmint/mint-y-icons/commit/ab90fa66a31c2d2aa2fa837b0f0c8c14feaa8bae)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.8</code>](https://github.com/linuxmint/mint-y-icons/commit/a7d82889911e2feeff639e3a9ddd3e66be77dda6)
-  - <sub>Tags: <code>1.7.8</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2674,6 +2667,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove volatile qualifier for g_once_init handles.</code>](https://github.com/linuxmint/muffin/commit/02fce996c86d6eb473aee83f4b6eb054a51a36da)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Exposes monitor names (#706)</code>](https://github.com/linuxmint/muffin/commit/cc584a7c092bf44a5db407bee39f88fbbf8723d7)
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
@@ -2712,6 +2706,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix inhibit name so nemo's desktop file is discovered by cinnamon-</code>](https://github.com/linuxmint/nemo/commit/6ae2a897298ce0403fe8768c1dfc466a2f5e4133)
+- [ ] [<code>Remove unused libxml headers. (#3490)</code>](https://github.com/linuxmint/nemo/commit/9ad22e14b510f76ff6ab3c05dd49ed4cd94fbd5c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
@@ -3760,6 +3755,12 @@
 - [ ] [<code>docs: add fastlane metadata</code>](https://github.com/Oppzippy/OpenSCQ30/commit/376b2745eb76c4aab36cc6f98639eccd13f367cd)
 - [ ] [<code>build: fix shellcheck error in set-version script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a89369b2daec85e741bcb95405cf8630f78923f8)
 - [ ] [<code>fix(lib): stricter firmware version parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f7fa987a88129e29035bf85223fdc00031717836)
+- [ ] [<code>refactor(gui): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66e56cbed1f791446a2e60b74a52bb2ba48cc60c)
+- [ ] [<code>refactor(lib): remove ParseResult</code>](https://github.com/Oppzippy/OpenSCQ30/commit/348ffebc5eba147473dc59e5920354180fab02b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dfa055a5255c70d1e6453854a0ce3fa3800bbefc)
+- [ ] [<code>refactor(lib): remove unused file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1981164820f38572e54468f8e87d205edaa013b0)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3996,30 +3997,11 @@
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.5 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.5...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.6 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.6...HEAD)
 
-- [ ] [<code>mate-xapp-status-applet: Fix application theme provider due to</code>](https://github.com/linuxmint/xapp/commit/17955c925c4b90f12af538a67bc417c62eb1c6d3)
-- [ ] [<code>Allow installing gi override to multiple python installations (#183)</code>](https://github.com/linuxmint/xapp/commit/4ffed1b19b19c55d48d84e2137fb2bafcaa9aea9)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Add option to disable building introspection and vala bindings. (#184)</code>](https://github.com/linuxmint/xapp/commit/70bd3a904c9c143f66d0b7d46e16816e01362603)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-- [ ] [<code>xapp-icon-chooser-button.c: Use gtk_widget_destroy() to clean up</code>](https://github.com/linuxmint/xapp/commit/ebccaa32b6e727a9598f0f3b74af151561fc2b3d)
-- [ ] [<code>xapp-icon-chooser-button.c: Fix a build warning.</code>](https://github.com/linuxmint/xapp/commit/2e524ec3c9bb202fad3c037cda32eb1c94156e60)
-- [ ] [<code>2.8.6</code>](https://github.com/linuxmint/xapp/commit/1bfe88cbdaeeccd04983f438bb338a2d7815309a)
-  - <sub>Tags: <code>2.8.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.0.9 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.0.9...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
-- [ ] [<code>Remove Gdk references and meson dependency.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b364687b8a696c78f2d3c46e0c45c2dc28e79a33)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Improve screenshot logging, fix debug mode.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/660af0f497d3a3a900d6f7b820c565868ed41bfc)
-- [ ] [<code>1.1.0</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2c10b1e135c91807246e4e1bf6fe66a3701a1b7e)
-  - <sub>Tags: <code>1.1.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.2...HEAD)
 
