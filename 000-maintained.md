@@ -325,6 +325,7 @@
 - [ ] [<code>Update Rust to v1.81.0</code>](https://github.com/stepchowfun/docuum/commit/01c5827c3c51fdf33aea0e6da94c40f822cf2556)
 - [ ] [<code>feat: update alpine to v3.20</code>](https://github.com/stepchowfun/docuum/commit/847b36af510e17f9bd34ddc9e8c877eb3eb73235)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update Rust to v1.83.0</code>](https://github.com/stepchowfun/docuum/commit/e39bccb866f7f241a31940732ce677755a34a20f)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -777,6 +778,17 @@
 - [ ] [<code>incusd/instance/qemu: Implement ConsoleScreenshot</code>](https://github.com/lxc/incus/commit/6863fe6b7c05e90a9dbe7314af2c118127f5da5c)
 - [ ] [<code>incusd/instance_console: Add screenshot support to console API</code>](https://github.com/lxc/incus/commit/270cba32601a5fd0835629fc5242af325ba3e04d)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a65c5b9e701a7caf3c29d21397064ecae713e3b5)
+- [ ] [<code>incusd/task: Fix wait group logic (more entries than running tasks)</code>](https://github.com/lxc/incus/commit/914e8e39e58aedeffdd6e371de4789fdda9fc290)
+- [ ] [<code>incusd/instance: Add ETag function</code>](https://github.com/lxc/incus/commit/8b9ba3151e3a3f15575503eac3287d972a654e78)
+- [ ] [<code>incusd/instance/qemu: Fix random ordering in ETag</code>](https://github.com/lxc/incus/commit/3b526cbc365117f672a00df4284058f811e76b97)
+- [ ] [<code>incusd/instance/lxc: Fix random ordering in ETag</code>](https://github.com/lxc/incus/commit/7eda98e81d1dd42153d36525991072c03e451ce4)
+- [ ] [<code>incusd: Use new ETag instance function</code>](https://github.com/lxc/incus/commit/4ee200ce432672ab42a2d08c4f9033ff5609ee0d)
+- [ ] [<code>api: image_import_alias</code>](https://github.com/lxc/incus/commit/788b9167acf551dbb7a182a972a171c3a336d92f)
+- [ ] [<code>client: Set X-Incus-aliases on image imports</code>](https://github.com/lxc/incus/commit/5c106d42341b16976b101359dd79238a578406e7)
+- [ ] [<code>incusd/image: Allow passing alias list through X-Incus-aliases</code>](https://github.com/lxc/incus/commit/064d4271c11f6f054ace21efe04ed91b09b993dd)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/c65f1d69ef12f97471906a03bd6c6b5c0cadd0b2)
+- [ ] [<code>incusd/image: Fix context for alias add</code>](https://github.com/lxc/incus/commit/98fac6512815658eb89ff6547244aebb0afcae0b)
+- [ ] [<code>incusd/image: Handle all alias cases</code>](https://github.com/lxc/incus/commit/d8b64fff330ce0b03f6cabf834de5cfab0378269)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2395,6 +2407,17 @@
 - [ ] [<code>incusd/instance/qemu: Implement ConsoleScreenshot</code>](https://github.com/lxc/incus/commit/6863fe6b7c05e90a9dbe7314af2c118127f5da5c)
 - [ ] [<code>incusd/instance_console: Add screenshot support to console API</code>](https://github.com/lxc/incus/commit/270cba32601a5fd0835629fc5242af325ba3e04d)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a65c5b9e701a7caf3c29d21397064ecae713e3b5)
+- [ ] [<code>incusd/task: Fix wait group logic (more entries than running tasks)</code>](https://github.com/lxc/incus/commit/914e8e39e58aedeffdd6e371de4789fdda9fc290)
+- [ ] [<code>incusd/instance: Add ETag function</code>](https://github.com/lxc/incus/commit/8b9ba3151e3a3f15575503eac3287d972a654e78)
+- [ ] [<code>incusd/instance/qemu: Fix random ordering in ETag</code>](https://github.com/lxc/incus/commit/3b526cbc365117f672a00df4284058f811e76b97)
+- [ ] [<code>incusd/instance/lxc: Fix random ordering in ETag</code>](https://github.com/lxc/incus/commit/7eda98e81d1dd42153d36525991072c03e451ce4)
+- [ ] [<code>incusd: Use new ETag instance function</code>](https://github.com/lxc/incus/commit/4ee200ce432672ab42a2d08c4f9033ff5609ee0d)
+- [ ] [<code>api: image_import_alias</code>](https://github.com/lxc/incus/commit/788b9167acf551dbb7a182a972a171c3a336d92f)
+- [ ] [<code>client: Set X-Incus-aliases on image imports</code>](https://github.com/lxc/incus/commit/5c106d42341b16976b101359dd79238a578406e7)
+- [ ] [<code>incusd/image: Allow passing alias list through X-Incus-aliases</code>](https://github.com/lxc/incus/commit/064d4271c11f6f054ace21efe04ed91b09b993dd)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/c65f1d69ef12f97471906a03bd6c6b5c0cadd0b2)
+- [ ] [<code>incusd/image: Fix context for alias add</code>](https://github.com/lxc/incus/commit/98fac6512815658eb89ff6547244aebb0afcae0b)
+- [ ] [<code>incusd/image: Handle all alias cases</code>](https://github.com/lxc/incus/commit/d8b64fff330ce0b03f6cabf834de5cfab0378269)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2643,7 +2666,9 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.1.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.1.9...HEAD)
 
 - [ ] [<code>cinnamon: Darken switch widget</code>](https://github.com/linuxmint/mint-themes/commit/7d141286f0a152ede3e40ed9201d31f3e06787e9)
+- [ ] [<code>cinnamon: Update thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/ca12a19f98df21516308c560512cb0709e78314e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
