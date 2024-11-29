@@ -171,7 +171,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Monitor names from muffin (#12525)</code>](https://github.com/linuxmint/cinnamon/commit/0c1e98c9f2ce0595d675c9bd205b00022fe92e9b)
+- [ ] [<code>Modal dialog cleanups (#12531)</code>](https://github.com/linuxmint/cinnamon/commit/c4bdb10dc597fb07750aaf104c508dfa10c48d28)
+- [ ] [<code>endSessionDialog: Restyle the dialog (#12533)</code>](https://github.com/linuxmint/cinnamon/commit/e6012866dd3b74811a024aec6c38b4df26362ad8)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -205,8 +208,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Update debian/symbols file</code>](https://github.com/linuxmint/cinnamon-desktop/commit/4ff8433fcaccd420afadd7199d54ea5d30893512)
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/f3b94a0b897d5f1d5596403f604a7f2a5171687f)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add iso-codes as build-depends (#248)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/58c8a262307144658a2f477882751c941f41c0de)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.2.0...HEAD)
 
@@ -268,8 +273,10 @@
 - [ ] [<code>csd-color-calibrate: Fix GNOME refs following plugin rebase</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5bbf9543a4a50d568a4654f97f7f6df7766330e9)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/25ca365490c27c05ff33e949ecdd5000fceddd84)
 - [ ] [<code>6.4.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/23580c37927060b641d4771f82b1f40cf971aec1)
-  - <sub>Tags: <code>6.4.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Revert "csd-media-keys: Show device description on volume OSD (#399)"</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/615a110c8e68a31e43bb8c657a7d50ca3a04810c)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.2.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.2.2...HEAD)
 
@@ -521,6 +528,10 @@
   - <sub>Tags: <code>rc1.23.0-2</code></sub>
 - [ ] [<code>build: Add android build workaround for new flutter version</code>](https://github.com/krille-chan/fluffychat/commit/ef85d48a47be541f2ad70a897d995993ef98ab2c)
   - <sub>Tags: <code>rc1.23.0-3</code></sub>
+- [ ] [<code>build: Use file selector to save files</code>](https://github.com/krille-chan/fluffychat/commit/8f483c64c025bffcd918ae1e802f0dfece17322f)
+- [ ] [<code>chore: Follow up save file on desktop</code>](https://github.com/krille-chan/fluffychat/commit/0dc8a015d311ccfac456ed88fc55f7027c638952)
+- [ ] [<code>chore: Adjust default linux window height</code>](https://github.com/krille-chan/fluffychat/commit/625680ee2e4a6dc0e02e7fbb640784b4842b351e)
+  - <sub>Tags: <code>rc1.23.0-4</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -675,6 +686,10 @@
   - <sub>Tags: <code>rc1.23.0-2</code></sub>
 - [ ] [<code>build: Add android build workaround for new flutter version</code>](https://github.com/krille-chan/fluffychat/commit/ef85d48a47be541f2ad70a897d995993ef98ab2c)
   - <sub>Tags: <code>rc1.23.0-3</code></sub>
+- [ ] [<code>build: Use file selector to save files</code>](https://github.com/krille-chan/fluffychat/commit/8f483c64c025bffcd918ae1e802f0dfece17322f)
+- [ ] [<code>chore: Follow up save file on desktop</code>](https://github.com/krille-chan/fluffychat/commit/0dc8a015d311ccfac456ed88fc55f7027c638952)
+- [ ] [<code>chore: Adjust default linux window height</code>](https://github.com/krille-chan/fluffychat/commit/625680ee2e4a6dc0e02e7fbb640784b4842b351e)
+  - <sub>Tags: <code>rc1.23.0-4</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -789,6 +804,22 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/c65f1d69ef12f97471906a03bd6c6b5c0cadd0b2)
 - [ ] [<code>incusd/image: Fix context for alias add</code>](https://github.com/lxc/incus/commit/98fac6512815658eb89ff6547244aebb0afcae0b)
 - [ ] [<code>incusd/image: Handle all alias cases</code>](https://github.com/lxc/incus/commit/d8b64fff330ce0b03f6cabf834de5cfab0378269)
+- [ ] [<code>Makefile: Use fga for model conversion</code>](https://github.com/lxc/incus/commit/1f04e1040b160d40faf8e6d0c9b02fd5deabe2fd)
+- [ ] [<code>incusd/auth: Introduce EntitlementCanViewSensitive</code>](https://github.com/lxc/incus/commit/537271bb9842476add8457aca2ac82e6d5193aa1)
+- [ ] [<code>incusd/api_10: Use EntitlementCanViewSensitive</code>](https://github.com/lxc/incus/commit/ffbbf363ea0b7289d6ac8447c5f2badd85cd8956)
+- [ ] [<code>incusd/auth/openfga: Introduce server-wide read-only access</code>](https://github.com/lxc/incus/commit/27a274940ca43119f1d6317f8cc0fa7c831442bf)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/c6a4c8cb9625225ec41583f08700d23a9e0b345e)
+- [ ] [<code>incusd/auth/openfga: Migrate public permissions</code>](https://github.com/lxc/incus/commit/7639440f9369e754a6da96ce165e31e1ebf4f20b)
+- [ ] [<code>incusd/auth: Implement ApplyPatch</code>](https://github.com/lxc/incus/commit/1ae8d36fb0f0ae078a9d13ed076af33a5c0fbc2d)
+- [ ] [<code>incusd/auth/fga: Change model refresh logic to rely on patches</code>](https://github.com/lxc/incus/commit/f194913ad649ad04207726fa2a0a2f07661ee002)
+- [ ] [<code>incusd/patches: Add auth patch logic</code>](https://github.com/lxc/incus/commit/02a7f4ba682eebca5c3ec0772b47c69b75be2789)
+- [ ] [<code>incusd/patches: Skip patches until their assigned stage</code>](https://github.com/lxc/incus/commit/f7a6159744404d2aa9f63e994e5b641f5980868f)
+- [ ] [<code>doc/authorization: Remove outdated OpenFGA model description</code>](https://github.com/lxc/incus/commit/6ac59503facc1b399c4e044664acdddc1fc6ce95)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Tweak openfga test</code>](https://github.com/lxc/incus/commit/ab29ab88ac1bd00304b6f72cd03e82e34d50eed5)
+- [ ] [<code>incusd/migrate: Set CreationDate during custom volume snapshot copy with refresh</code>](https://github.com/lxc/incus/commit/8615362f85b5154aa3a067d6f396b9c70246199c)
+- [ ] [<code>incusd/storage: Add CreatedAt during custom volume copy with refresh</code>](https://github.com/lxc/incus/commit/6f412235eb60f43b322be23fc14227780e9bd2fb)
+- [ ] [<code>tests: Update copy with refresh test</code>](https://github.com/lxc/incus/commit/301a29768222d94cec5f6697c4637ac52e081309)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2418,6 +2449,22 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/c65f1d69ef12f97471906a03bd6c6b5c0cadd0b2)
 - [ ] [<code>incusd/image: Fix context for alias add</code>](https://github.com/lxc/incus/commit/98fac6512815658eb89ff6547244aebb0afcae0b)
 - [ ] [<code>incusd/image: Handle all alias cases</code>](https://github.com/lxc/incus/commit/d8b64fff330ce0b03f6cabf834de5cfab0378269)
+- [ ] [<code>Makefile: Use fga for model conversion</code>](https://github.com/lxc/incus/commit/1f04e1040b160d40faf8e6d0c9b02fd5deabe2fd)
+- [ ] [<code>incusd/auth: Introduce EntitlementCanViewSensitive</code>](https://github.com/lxc/incus/commit/537271bb9842476add8457aca2ac82e6d5193aa1)
+- [ ] [<code>incusd/api_10: Use EntitlementCanViewSensitive</code>](https://github.com/lxc/incus/commit/ffbbf363ea0b7289d6ac8447c5f2badd85cd8956)
+- [ ] [<code>incusd/auth/openfga: Introduce server-wide read-only access</code>](https://github.com/lxc/incus/commit/27a274940ca43119f1d6317f8cc0fa7c831442bf)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/c6a4c8cb9625225ec41583f08700d23a9e0b345e)
+- [ ] [<code>incusd/auth/openfga: Migrate public permissions</code>](https://github.com/lxc/incus/commit/7639440f9369e754a6da96ce165e31e1ebf4f20b)
+- [ ] [<code>incusd/auth: Implement ApplyPatch</code>](https://github.com/lxc/incus/commit/1ae8d36fb0f0ae078a9d13ed076af33a5c0fbc2d)
+- [ ] [<code>incusd/auth/fga: Change model refresh logic to rely on patches</code>](https://github.com/lxc/incus/commit/f194913ad649ad04207726fa2a0a2f07661ee002)
+- [ ] [<code>incusd/patches: Add auth patch logic</code>](https://github.com/lxc/incus/commit/02a7f4ba682eebca5c3ec0772b47c69b75be2789)
+- [ ] [<code>incusd/patches: Skip patches until their assigned stage</code>](https://github.com/lxc/incus/commit/f7a6159744404d2aa9f63e994e5b641f5980868f)
+- [ ] [<code>doc/authorization: Remove outdated OpenFGA model description</code>](https://github.com/lxc/incus/commit/6ac59503facc1b399c4e044664acdddc1fc6ce95)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Tweak openfga test</code>](https://github.com/lxc/incus/commit/ab29ab88ac1bd00304b6f72cd03e82e34d50eed5)
+- [ ] [<code>incusd/migrate: Set CreationDate during custom volume snapshot copy with refresh</code>](https://github.com/lxc/incus/commit/8615362f85b5154aa3a067d6f396b9c70246199c)
+- [ ] [<code>incusd/storage: Add CreatedAt during custom volume copy with refresh</code>](https://github.com/lxc/incus/commit/6f412235eb60f43b322be23fc14227780e9bd2fb)
+- [ ] [<code>tests: Update copy with refresh test</code>](https://github.com/lxc/incus/commit/301a29768222d94cec5f6697c4637ac52e081309)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2627,6 +2674,7 @@
 - [ ] [<code>Avoid null pointer dereference when using shared rootfs.</code>](https://github.com/lxc/lxc/commit/d5c2d1efff92b2b992f10b29bd459a4b07875025)
 - [ ] [<code>meson: fix minor typo</code>](https://github.com/lxc/lxc/commit/d03cb0aca3cb6fc6d3695c8283263893aaf15080)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>lxc-net: Replace random IPv6 subnet</code>](https://github.com/lxc/lxc/commit/31012d49a50eca8927ff2c6f1d9bdafc4c8a79d8)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
@@ -2667,14 +2715,19 @@
 
 - [ ] [<code>cinnamon: Darken switch widget</code>](https://github.com/linuxmint/mint-themes/commit/7d141286f0a152ede3e40ed9201d31f3e06787e9)
 - [ ] [<code>cinnamon: Update thumbnails</code>](https://github.com/linuxmint/mint-themes/commit/ca12a19f98df21516308c560512cb0709e78314e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.2.0</code>](https://github.com/linuxmint/mint-themes/commit/caada5b266f92b70ac84a5bf01fc2abb85bd4ca1)
+  - <sub>Tags: <code>2.2.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.8...HEAD)
 
+- [ ] [<code>Mint-Y-Sand: Soften place emblems a little bit</code>](https://github.com/linuxmint/mint-y-icons/commit/9dc8ae3133ba89a3713b11808730cca6e4583df3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-y-icons/commit/caf06be588292fdc9af2656eda2c8c77b92981f9)
+  - <sub>Tags: <code>1.7.9</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2691,8 +2744,9 @@
   - <sub>Tags: <code>6.4.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Remove volatile qualifier for g_once_init handles.</code>](https://github.com/linuxmint/muffin/commit/02fce996c86d6eb473aee83f4b6eb054a51a36da)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>Exposes monitor names (#706)</code>](https://github.com/linuxmint/muffin/commit/cc584a7c092bf44a5db407bee39f88fbbf8723d7)
+- [ ] [<code>Build: Update symbol file.</code>](https://github.com/linuxmint/muffin/commit/0042f04254e58ea5a5dd4e0fe9545055396171a5)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.2.8 → HEAD](https://github.com/linuxmint/nemo/compare/6.2.8...HEAD)
 
@@ -3813,6 +3867,22 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.0...HEAD)
 
+- [ ] [<code>Fixed #517 - CW Console: EXCSTR is not sent</code>](https://github.com/foldynl/QLog.git/commit/98bf2206bada90d99a2ef83f47a24a94e7a4a2d4)
+- [ ] [<code>Fixed #519: Activity Manager - Missing an empty Promagation Mode</code>](https://github.com/foldynl/QLog.git/commit/082ca7d14780a3052c4db4ed2185fb054e2f1ddd)
+- [ ] [<code>Fixed #515: Added 8m band without bandplan</code>](https://github.com/foldynl/QLog.git/commit/ead3b4e15d73a1c11a8f7d50aff2c73813701a4f)
+- [ ] [<code>Fix fieldNameTranslationMap</code>](https://github.com/foldynl/QLog.git/commit/52e9c2c58bbf1e300368f854da5f71feae67e090)
+- [ ] [<code>New Release started</code>](https://github.com/foldynl/QLog.git/commit/ce45cfa3008345eab0de16dde906041c878e04e6)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/d80834f63d1bccdd5c3fa49960a2c7e70375acfb)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/96133469e9e3e50ed390a15e7480b323f232aa72)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/445fd0093142098130e9e9b71eed8b15779dc8fb)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/ed0c6142081d3718305b4992ada622575ada3c13)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/67d222b09b5723896bb67948e80c6c1e67dcb4b7)
+- [ ] [<code>Fixed #526 - TCI error when you change Rig</code>](https://github.com/foldynl/QLog.git/commit/e524c8ddd53db9cd0fddb2f9f4cb0850a5e1bd5a)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/43c8fe5c3ff5b991549c4e5bb6b06ff06e6e8e88)
+- [ ] [<code>Fixed #527 - NewContact: satellite mode too wide</code>](https://github.com/foldynl/QLog.git/commit/1db746062146268817f6917edf6b6d541c822064)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/c04c2929be1173cf77d36c1fb2f72ed2ef960aea)
+- [ ] [<code>Preparation for release 0.40.1</code>](https://github.com/foldynl/QLog.git/commit/94e55cd68866157402f5e7896965127ab6470309)
+  - <sub>Tags: <code>v0.40.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -4015,6 +4085,10 @@
 - [ ] [<code>math: removed global variable for thread safety</code>](https://github.com/jow-/ucode/commit/1f022c04d21baab91da74ee097ac018d59016fa3)
 - [ ] [<code>nl80211: cover extended feature and EHT rate info attributes</code>](https://github.com/jow-/ucode/commit/1423ad7b8411a2cb727bfd4e4f3511469abb3214)
 - [ ] [<code>nl80211: add new attributes for multi-radio support</code>](https://github.com/jow-/ucode/commit/8af77e761ec8ad313312c41d817262b017653f31)
+- [ ] [<code>ci: drop OpenWrt tests for now</code>](https://github.com/jow-/ucode/commit/ef1baabc2c429c715405a39aa8b7fa85060804c0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>vm: resolve upvalues before pushing them onto the stack</code>](https://github.com/jow-/ucode/commit/a6e06417785288f66c990e828cccbf9fb9836ba7)
+- [ ] [<code>types: resolve upvalue values in arrays and objects</code>](https://github.com/jow-/ucode/commit/ed5ce8f490188f3c528c7dd5db09ec0470377283)
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.6 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.6...HEAD)
 
