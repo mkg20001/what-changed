@@ -533,6 +533,11 @@
 - [ ] [<code>chore: Follow up save file on desktop</code>](https://github.com/krille-chan/fluffychat/commit/0dc8a015d311ccfac456ed88fc55f7027c638952)
 - [ ] [<code>chore: Adjust default linux window height</code>](https://github.com/krille-chan/fluffychat/commit/625680ee2e4a6dc0e02e7fbb640784b4842b351e)
   - <sub>Tags: <code>rc1.23.0-4</code></sub>
+- [ ] [<code>refactor: Update to new receive sharing intent package</code>](https://github.com/krille-chan/fluffychat/commit/9bd6399cd56ba3c59839cdf8290478b4452ade35)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1503 from krille-chan/krille/update-receive-sharing-intent</code>](https://github.com/krille-chan/fluffychat/commit/6286f30b9b0a8b7f2500b70a5d26a53d8d47d8a4)
+  - <sub>Tags: <code>rc1.23.0-5</code> <code>v1.23.0</code></sub>
+- [ ] [<code>chore: Do not display sender prefix for DM rooms in notification ticker</code>](https://github.com/krille-chan/fluffychat/commit/69d4c50b138c36f9d454ef5060b113480e03edd4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -691,6 +696,11 @@
 - [ ] [<code>chore: Follow up save file on desktop</code>](https://github.com/krille-chan/fluffychat/commit/0dc8a015d311ccfac456ed88fc55f7027c638952)
 - [ ] [<code>chore: Adjust default linux window height</code>](https://github.com/krille-chan/fluffychat/commit/625680ee2e4a6dc0e02e7fbb640784b4842b351e)
   - <sub>Tags: <code>rc1.23.0-4</code></sub>
+- [ ] [<code>refactor: Update to new receive sharing intent package</code>](https://github.com/krille-chan/fluffychat/commit/9bd6399cd56ba3c59839cdf8290478b4452ade35)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Merge pull request #1503 from krille-chan/krille/update-receive-sharing-intent</code>](https://github.com/krille-chan/fluffychat/commit/6286f30b9b0a8b7f2500b70a5d26a53d8d47d8a4)
+  - <sub>Tags: <code>rc1.23.0-5</code> <code>v1.23.0</code></sub>
+- [ ] [<code>chore: Do not display sender prefix for DM rooms in notification ticker</code>](https://github.com/krille-chan/fluffychat/commit/69d4c50b138c36f9d454ef5060b113480e03edd4)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -827,6 +837,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>doc/sphinx: Upgrade MyST</code>](https://github.com/lxc/incus/commit/cf98b3fce927fbddb32342bdaf3ff815701b7267)
 - [ ] [<code>doc/manpage: Tweak manpage synopsis rendering</code>](https://github.com/lxc/incus/commit/f3eb4a5428e8642671e1952510807d2294e5263e)
+- [ ] [<code>incusd/storage/lvm: Require 512-bytes physical block size for VM images</code>](https://github.com/lxc/incus/commit/0118bf8e78766fbed6d154342eeefda8974a347e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2478,6 +2489,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>doc/sphinx: Upgrade MyST</code>](https://github.com/lxc/incus/commit/cf98b3fce927fbddb32342bdaf3ff815701b7267)
 - [ ] [<code>doc/manpage: Tweak manpage synopsis rendering</code>](https://github.com/lxc/incus/commit/f3eb4a5428e8642671e1952510807d2294e5263e)
+- [ ] [<code>incusd/storage/lvm: Require 512-bytes physical block size for VM images</code>](https://github.com/lxc/incus/commit/0118bf8e78766fbed6d154342eeefda8974a347e)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
