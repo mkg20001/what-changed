@@ -3840,6 +3840,8 @@
 - [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dfa055a5255c70d1e6453854a0ce3fa3800bbefc)
 - [ ] [<code>refactor(lib): remove unused file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1981164820f38572e54468f8e87d205edaa013b0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: v1.14.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5449065b6e414ffaa977c327f43d92da62749440)
+  - <sub>Tags: <code>v1.14.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
