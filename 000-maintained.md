@@ -312,6 +312,7 @@
 - [ ] [<code>Move to geaaru/docker-companion fork</code>](https://github.com/lxc/distrobuilder/commit/7de1611cd29ce564e3423bc4b02fb935d7a812a6)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/dc5c139408f0d5ff26882c68b881e214827e63f6)
 - [ ] [<code>opensuse: Temporarily switch to mirrorcache-eu to fix downloads</code>](https://github.com/lxc/distrobuilder/commit/1fb71ab7820fdf105bf98abbd384455faa0ea084)
+- [ ] [<code>nixos: correctly handle 24.11</code>](https://github.com/lxc/distrobuilder/commit/e2a2567a5bb0e5d26460a101bbddfbbe0f3788ef)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -820,6 +821,12 @@
 - [ ] [<code>incusd/migrate: Set CreationDate during custom volume snapshot copy with refresh</code>](https://github.com/lxc/incus/commit/8615362f85b5154aa3a067d6f396b9c70246199c)
 - [ ] [<code>incusd/storage: Add CreatedAt during custom volume copy with refresh</code>](https://github.com/lxc/incus/commit/6f412235eb60f43b322be23fc14227780e9bd2fb)
 - [ ] [<code>tests: Update copy with refresh test</code>](https://github.com/lxc/incus/commit/301a29768222d94cec5f6697c4637ac52e081309)
+- [ ] [<code>doc/instance/properties: Add missing instance properties</code>](https://github.com/lxc/incus/commit/dbfa60537008f08e4942b89ad809cc66f4bb14f8)
+- [ ] [<code>incusd/daemon_storage: Ensure corect symlinks for images/backups</code>](https://github.com/lxc/incus/commit/880103aa0a828560cd807beba00e1eac8310ae39)
+- [ ] [<code>incusd/storage/lvm: Handle newer LVM</code>](https://github.com/lxc/incus/commit/39d6313b3e8bef0faa7d3ac1c34dde485327d62a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc/sphinx: Upgrade MyST</code>](https://github.com/lxc/incus/commit/cf98b3fce927fbddb32342bdaf3ff815701b7267)
+- [ ] [<code>doc/manpage: Tweak manpage synopsis rendering</code>](https://github.com/lxc/incus/commit/f3eb4a5428e8642671e1952510807d2294e5263e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2465,6 +2472,12 @@
 - [ ] [<code>incusd/migrate: Set CreationDate during custom volume snapshot copy with refresh</code>](https://github.com/lxc/incus/commit/8615362f85b5154aa3a067d6f396b9c70246199c)
 - [ ] [<code>incusd/storage: Add CreatedAt during custom volume copy with refresh</code>](https://github.com/lxc/incus/commit/6f412235eb60f43b322be23fc14227780e9bd2fb)
 - [ ] [<code>tests: Update copy with refresh test</code>](https://github.com/lxc/incus/commit/301a29768222d94cec5f6697c4637ac52e081309)
+- [ ] [<code>doc/instance/properties: Add missing instance properties</code>](https://github.com/lxc/incus/commit/dbfa60537008f08e4942b89ad809cc66f4bb14f8)
+- [ ] [<code>incusd/daemon_storage: Ensure corect symlinks for images/backups</code>](https://github.com/lxc/incus/commit/880103aa0a828560cd807beba00e1eac8310ae39)
+- [ ] [<code>incusd/storage/lvm: Handle newer LVM</code>](https://github.com/lxc/incus/commit/39d6313b3e8bef0faa7d3ac1c34dde485327d62a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc/sphinx: Upgrade MyST</code>](https://github.com/lxc/incus/commit/cf98b3fce927fbddb32342bdaf3ff815701b7267)
+- [ ] [<code>doc/manpage: Tweak manpage synopsis rendering</code>](https://github.com/lxc/incus/commit/f3eb4a5428e8642671e1952510807d2294e5263e)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3842,6 +3855,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: v1.14.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5449065b6e414ffaa977c327f43d92da62749440)
   - <sub>Tags: <code>v1.14.1</code></sub>
+- [ ] [<code>docs: fix readme wording that implied only Q30's are supported</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0da38a7a90245b7805d8033001aaf9b4a23d3d07)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
