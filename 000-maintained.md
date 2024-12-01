@@ -173,8 +173,9 @@
 - [ ] [<code>Monitor names from muffin (#12525)</code>](https://github.com/linuxmint/cinnamon/commit/0c1e98c9f2ce0595d675c9bd205b00022fe92e9b)
 - [ ] [<code>Modal dialog cleanups (#12531)</code>](https://github.com/linuxmint/cinnamon/commit/c4bdb10dc597fb07750aaf104c508dfa10c48d28)
 - [ ] [<code>endSessionDialog: Restyle the dialog (#12533)</code>](https://github.com/linuxmint/cinnamon/commit/e6012866dd3b74811a024aec6c38b4df26362ad8)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>dialogs: Allow easier keyboard navigation (#12537)</code>](https://github.com/linuxmint/cinnamon/commit/e9ab16456ca161e934c67b9c06a6095e89c21923)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.2.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.2.0...HEAD)
 
@@ -538,6 +539,12 @@
 - [ ] [<code>Merge pull request #1503 from krille-chan/krille/update-receive-sharing-intent</code>](https://github.com/krille-chan/fluffychat/commit/6286f30b9b0a8b7f2500b70a5d26a53d8d47d8a4)
   - <sub>Tags: <code>rc1.23.0-5</code> <code>v1.23.0</code></sub>
 - [ ] [<code>chore: Do not display sender prefix for DM rooms in notification ticker</code>](https://github.com/krille-chan/fluffychat/commit/69d4c50b138c36f9d454ef5060b113480e03edd4)
+- [ ] [<code>refactor: Improved share / forward dialog</code>](https://github.com/krille-chan/fluffychat/commit/88e63d127aa93d360222342a33b99b21e9b5b7c8)
+- [ ] [<code>chore: Follow up share files</code>](https://github.com/krille-chan/fluffychat/commit/a0cc5e5f4d982025c300a21bd3f4cf27c5ea8365)
+- [ ] [<code>chore: Enable share multiple files to app</code>](https://github.com/krille-chan/fluffychat/commit/b05c02bc5b517618565d6285909a4b951459991e)
+- [ ] [<code>chore: Follow up safearea showscaffolddialog</code>](https://github.com/krille-chan/fluffychat/commit/0503c797cd6cccfe042a25bf55c690230a3bd161)
+- [ ] [<code>chore: Check file size before loading</code>](https://github.com/krille-chan/fluffychat/commit/63d5d6e61f7cb63711ce42531bc38259143531c6)
+- [ ] [<code>chore: Follow up share scaffold</code>](https://github.com/krille-chan/fluffychat/commit/d182e1ecea01bc73e9e6ff46afd0ed3a58e87479)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -701,6 +708,12 @@
 - [ ] [<code>Merge pull request #1503 from krille-chan/krille/update-receive-sharing-intent</code>](https://github.com/krille-chan/fluffychat/commit/6286f30b9b0a8b7f2500b70a5d26a53d8d47d8a4)
   - <sub>Tags: <code>rc1.23.0-5</code> <code>v1.23.0</code></sub>
 - [ ] [<code>chore: Do not display sender prefix for DM rooms in notification ticker</code>](https://github.com/krille-chan/fluffychat/commit/69d4c50b138c36f9d454ef5060b113480e03edd4)
+- [ ] [<code>refactor: Improved share / forward dialog</code>](https://github.com/krille-chan/fluffychat/commit/88e63d127aa93d360222342a33b99b21e9b5b7c8)
+- [ ] [<code>chore: Follow up share files</code>](https://github.com/krille-chan/fluffychat/commit/a0cc5e5f4d982025c300a21bd3f4cf27c5ea8365)
+- [ ] [<code>chore: Enable share multiple files to app</code>](https://github.com/krille-chan/fluffychat/commit/b05c02bc5b517618565d6285909a4b951459991e)
+- [ ] [<code>chore: Follow up safearea showscaffolddialog</code>](https://github.com/krille-chan/fluffychat/commit/0503c797cd6cccfe042a25bf55c690230a3bd161)
+- [ ] [<code>chore: Check file size before loading</code>](https://github.com/krille-chan/fluffychat/commit/63d5d6e61f7cb63711ce42531bc38259143531c6)
+- [ ] [<code>chore: Follow up share scaffold</code>](https://github.com/krille-chan/fluffychat/commit/d182e1ecea01bc73e9e6ff46afd0ed3a58e87479)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -4113,10 +4126,19 @@
 - [ ] [<code>math: removed global variable for thread safety</code>](https://github.com/jow-/ucode/commit/1f022c04d21baab91da74ee097ac018d59016fa3)
 - [ ] [<code>nl80211: cover extended feature and EHT rate info attributes</code>](https://github.com/jow-/ucode/commit/1423ad7b8411a2cb727bfd4e4f3511469abb3214)
 - [ ] [<code>nl80211: add new attributes for multi-radio support</code>](https://github.com/jow-/ucode/commit/8af77e761ec8ad313312c41d817262b017653f31)
+- [ ] [<code>types: add ucv_resource_create() helper</code>](https://github.com/jow-/ucode/commit/b1bd7b53123e3e3b8da2fc30bda8dc22c2cdb170)
+- [ ] [<code>fs: eliminate the usage of global variables</code>](https://github.com/jow-/ucode/commit/63e18eae374e1fc6dfa162e8f9890f526eb16666)
 - [ ] [<code>ci: drop OpenWrt tests for now</code>](https://github.com/jow-/ucode/commit/ef1baabc2c429c715405a39aa8b7fa85060804c0)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>vm: resolve upvalues before pushing them onto the stack</code>](https://github.com/jow-/ucode/commit/a6e06417785288f66c990e828cccbf9fb9836ba7)
 - [ ] [<code>types: resolve upvalue values in arrays and objects</code>](https://github.com/jow-/ucode/commit/ed5ce8f490188f3c528c7dd5db09ec0470377283)
+- [ ] [<code>lib: introduce digest library</code>](https://github.com/jow-/ucode/commit/fcb6f7040a2db198f4d7dd76424557a0a8b5a90c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>ci: include libmd in MacOS CI builds</code>](https://github.com/jow-/ucode/commit/c7268a172e1dc041dc8f6dab737d8277a4303dda)
+- [ ] [<code>digest: implement compile time option to exclude less common algorithms</code>](https://github.com/jow-/ucode/commit/17527795fffbd55f1e9edfbfee89c7d958e5671f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.6 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.6...HEAD)
 
