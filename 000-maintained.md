@@ -3881,6 +3881,7 @@
 - [ ] [<code>build: v1.14.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5449065b6e414ffaa977c327f43d92da62749440)
   - <sub>Tags: <code>v1.14.1</code></sub>
 - [ ] [<code>docs: fix readme wording that implied only Q30's are supported</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0da38a7a90245b7805d8033001aaf9b4a23d3d07)
+- [ ] [<code>fix(lib): add additional mac address ranges</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ba694273de041497b1706677c62e51f893bfc18)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
