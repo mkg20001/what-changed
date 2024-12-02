@@ -545,6 +545,8 @@
 - [ ] [<code>chore: Follow up safearea showscaffolddialog</code>](https://github.com/krille-chan/fluffychat/commit/0503c797cd6cccfe042a25bf55c690230a3bd161)
 - [ ] [<code>chore: Check file size before loading</code>](https://github.com/krille-chan/fluffychat/commit/63d5d6e61f7cb63711ce42531bc38259143531c6)
 - [ ] [<code>chore: Follow up share scaffold</code>](https://github.com/krille-chan/fluffychat/commit/d182e1ecea01bc73e9e6ff46afd0ed3a58e87479)
+- [ ] [<code>refactor: Better custom image resizer</code>](https://github.com/krille-chan/fluffychat/commit/8366ccee70a44529308f9547bcfb28cd826a8eb5)
+- [ ] [<code>chore: Follow up share scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6386a6d51595cef357ab68c8b8a9caae824abab7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -714,6 +716,8 @@
 - [ ] [<code>chore: Follow up safearea showscaffolddialog</code>](https://github.com/krille-chan/fluffychat/commit/0503c797cd6cccfe042a25bf55c690230a3bd161)
 - [ ] [<code>chore: Check file size before loading</code>](https://github.com/krille-chan/fluffychat/commit/63d5d6e61f7cb63711ce42531bc38259143531c6)
 - [ ] [<code>chore: Follow up share scaffold</code>](https://github.com/krille-chan/fluffychat/commit/d182e1ecea01bc73e9e6ff46afd0ed3a58e87479)
+- [ ] [<code>refactor: Better custom image resizer</code>](https://github.com/krille-chan/fluffychat/commit/8366ccee70a44529308f9547bcfb28cd826a8eb5)
+- [ ] [<code>chore: Follow up share scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6386a6d51595cef357ab68c8b8a9caae824abab7)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2662,6 +2666,7 @@
 - [ ] [<code>libavif_jni: add missing error check (#2508)</code>](https://github.com/AOMediaCodec/libavif/commit/03738d58595e0d62f0b9f8815a27cc7eb52d1c2a)
 - [ ] [<code>Bump AVM to research-8.1.0 (#2506)</code>](https://github.com/AOMediaCodec/libavif/commit/fa626671c5625f0ec7487806d18cccaff49e0265)
 - [ ] [<code>Turn gain maps on in ci-unix-shared-installed.yml (#2511)</code>](https://github.com/AOMediaCodec/libavif/commit/378c646247cb7d286dda55b28f6451cf289383a5)
+- [ ] [<code>Bump the github-actions group with 2 updates (#2512)</code>](https://github.com/AOMediaCodec/libavif/commit/c7c4019dc94983c65a1fe0ebae48fc5bc3380df0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3882,6 +3887,9 @@
   - <sub>Tags: <code>v1.14.1</code></sub>
 - [ ] [<code>docs: fix readme wording that implied only Q30's are supported</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0da38a7a90245b7805d8033001aaf9b4a23d3d07)
 - [ ] [<code>fix(lib): add additional mac address ranges</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ba694273de041497b1706677c62e51f893bfc18)
+- [ ] [<code>fix(lib): A3936 state update packet not actually used</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9ec7cdf3b56e16c3ae7df14b828e1abce8cd102)
+- [ ] [<code>fix(lib): remove uuid from service not found error message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3b143458d4379d34c415fc787ce1aeab3990698)
+- [ ] [<code>fix(lib): add E4:9E:58 mac address prefix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/888e4c52bb04348892306a863d533be6b11536ad)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
