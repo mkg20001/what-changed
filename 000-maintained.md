@@ -878,6 +878,16 @@
 - [ ] [<code>incusd/device/tpm: Wait for swtpm to be ready</code>](https://github.com/lxc/incus/commit/cce2b6b4e36a2f7dfccaa76a7bd8d62829937d96)
 - [ ] [<code>incus: Improve completion for `file push` and `file pull`</code>](https://github.com/lxc/incus/commit/d09af5317ae61c8557ed95caae144bcb88d74acb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/auth/tls: Restrict config access to non-admin</code>](https://github.com/lxc/incus/commit/1c0d1b39a1347a383c59292116b28f3de0f38a19)
+- [ ] [<code>incusd/storage: Handle default disk size in GetInstanceUsage</code>](https://github.com/lxc/incus/commit/43ecfd558ce395dfb39055788ded36a4ebeee83b)
+- [ ] [<code>incus: Improve completion for `file create`</code>](https://github.com/lxc/incus/commit/237fdcec2fba6cb34f5519c16cdc4e48d6226d8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Improve completion for `file delete`</code>](https://github.com/lxc/incus/commit/09b3ebde479eeee6595a10c1f6e091940e231b1c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Improve completion for `file edit`</code>](https://github.com/lxc/incus/commit/f541396da8b76583fa11c82d6eb3eb25f37a81e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Improve completion for `file mount`</code>](https://github.com/lxc/incus/commit/65178013f600f194d02a5d7e5d20ce0d518825fd)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2535,6 +2545,16 @@
 - [ ] [<code>incusd: Fill ExpiryDate and remove LastUsedDate in volumeSnapshotToProtobuf</code>](https://github.com/lxc/incus/commit/6498929c4c0fdde27684c3f499d828bdfdd59787)
 - [ ] [<code>incusd/device/tpm: Wait for swtpm to be ready</code>](https://github.com/lxc/incus/commit/cce2b6b4e36a2f7dfccaa76a7bd8d62829937d96)
 - [ ] [<code>incus: Improve completion for `file push` and `file pull`</code>](https://github.com/lxc/incus/commit/d09af5317ae61c8557ed95caae144bcb88d74acb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/auth/tls: Restrict config access to non-admin</code>](https://github.com/lxc/incus/commit/1c0d1b39a1347a383c59292116b28f3de0f38a19)
+- [ ] [<code>incusd/storage: Handle default disk size in GetInstanceUsage</code>](https://github.com/lxc/incus/commit/43ecfd558ce395dfb39055788ded36a4ebeee83b)
+- [ ] [<code>incus: Improve completion for `file create`</code>](https://github.com/lxc/incus/commit/237fdcec2fba6cb34f5519c16cdc4e48d6226d8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Improve completion for `file delete`</code>](https://github.com/lxc/incus/commit/09b3ebde479eeee6595a10c1f6e091940e231b1c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Improve completion for `file edit`</code>](https://github.com/lxc/incus/commit/f541396da8b76583fa11c82d6eb3eb25f37a81e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Improve completion for `file mount`</code>](https://github.com/lxc/incus/commit/65178013f600f194d02a5d7e5d20ce0d518825fd)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
