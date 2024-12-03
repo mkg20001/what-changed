@@ -562,6 +562,10 @@
 - [ ] [<code>chore: Follow up share scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6386a6d51595cef357ab68c8b8a9caae824abab7)
 - [ ] [<code>chore: Follow up share multiple files</code>](https://github.com/krille-chan/fluffychat/commit/1e6e50b8e5f15917c101def4c11977ea202a64af)
 - [ ] [<code>refactor: Clean up android manifest</code>](https://github.com/krille-chan/fluffychat/commit/793b3dd7a1c2af324298a18be1b75f4b47ead0c6)
+- [ ] [<code>chore: Do not set Person if sender is dm room user</code>](https://github.com/krille-chan/fluffychat/commit/b4c5cd8df9464df10996126cc6914af8963b36ce)
+- [ ] [<code>chore: Revert no Person object for DM room</code>](https://github.com/krille-chan/fluffychat/commit/7feb815250f5d08a3b568874121bab9195c6c9b6)
+- [ ] [<code>chore: Remove conversationTitle if room is dm room in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/5321a3768dda375b6622e081d04dad7e4fe54cf7)
+- [ ] [<code>chore: Display normal Slider when no waveform provided in audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/cd611aedc4a0733f58129052bd4462c9b16a1c31)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -735,6 +739,10 @@
 - [ ] [<code>chore: Follow up share scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6386a6d51595cef357ab68c8b8a9caae824abab7)
 - [ ] [<code>chore: Follow up share multiple files</code>](https://github.com/krille-chan/fluffychat/commit/1e6e50b8e5f15917c101def4c11977ea202a64af)
 - [ ] [<code>refactor: Clean up android manifest</code>](https://github.com/krille-chan/fluffychat/commit/793b3dd7a1c2af324298a18be1b75f4b47ead0c6)
+- [ ] [<code>chore: Do not set Person if sender is dm room user</code>](https://github.com/krille-chan/fluffychat/commit/b4c5cd8df9464df10996126cc6914af8963b36ce)
+- [ ] [<code>chore: Revert no Person object for DM room</code>](https://github.com/krille-chan/fluffychat/commit/7feb815250f5d08a3b568874121bab9195c6c9b6)
+- [ ] [<code>chore: Remove conversationTitle if room is dm room in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/5321a3768dda375b6622e081d04dad7e4fe54cf7)
+- [ ] [<code>chore: Display normal Slider when no waveform provided in audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/cd611aedc4a0733f58129052bd4462c9b16a1c31)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -887,6 +895,11 @@
 - [ ] [<code>incus: Improve completion for `file edit`</code>](https://github.com/lxc/incus/commit/f541396da8b76583fa11c82d6eb3eb25f37a81e5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Improve completion for `file mount`</code>](https://github.com/lxc/incus/commit/65178013f600f194d02a5d7e5d20ce0d518825fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Fix completion for `profile copy`</code>](https://github.com/lxc/incus/commit/28da5dabf6ebe9de1ad1e2f3412012b0ae5e9a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add a function to complete image fingerprints</code>](https://github.com/lxc/incus/commit/d327fbce3c861a25ea8b81867089fa7573c7787c)
+- [ ] [<code>incus: Add completion for `image alias` subcommands</code>](https://github.com/lxc/incus/commit/ffc7ce4ce8edbd63c7148c6c9af72d3e91d0862b)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
@@ -2556,6 +2569,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Improve completion for `file mount`</code>](https://github.com/lxc/incus/commit/65178013f600f194d02a5d7e5d20ce0d518825fd)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Fix completion for `profile copy`</code>](https://github.com/lxc/incus/commit/28da5dabf6ebe9de1ad1e2f3412012b0ae5e9a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add a function to complete image fingerprints</code>](https://github.com/lxc/incus/commit/d327fbce3c861a25ea8b81867089fa7573c7787c)
+- [ ] [<code>incus: Add completion for `image alias` subcommands</code>](https://github.com/lxc/incus/commit/ffc7ce4ce8edbd63c7148c6c9af72d3e91d0862b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2716,6 +2734,8 @@
 - [ ] [<code>Bump AVM to research-8.1.0 (#2506)</code>](https://github.com/AOMediaCodec/libavif/commit/fa626671c5625f0ec7487806d18cccaff49e0265)
 - [ ] [<code>Turn gain maps on in ci-unix-shared-installed.yml (#2511)</code>](https://github.com/AOMediaCodec/libavif/commit/378c646247cb7d286dda55b28f6451cf289383a5)
 - [ ] [<code>Bump the github-actions group with 2 updates (#2512)</code>](https://github.com/AOMediaCodec/libavif/commit/c7c4019dc94983c65a1fe0ebae48fc5bc3380df0)
+- [ ] [<code>Turn gain map flag on by default. (#2513)</code>](https://github.com/AOMediaCodec/libavif/commit/3196438660ca478f85e8a3d209b166adcd845c4a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2876,7 +2896,9 @@
   - <sub>Tags: <code>6.4.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-window-manage-views: fix null pointer dereference (#3492)</code>](https://github.com/linuxmint/nemo/commit/4e1d7f41d601d3cf695cc20824cbf2d54efbf818)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/nemo/commit/a2829fc8b5b228f5fac620c2dfa2b2112976e19e)
+  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [nemo-emblems-6.2.1 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/nemo-emblems-6.2.1...HEAD)
 
