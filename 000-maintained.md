@@ -872,7 +872,12 @@
 - [ ] [<code>doc/sphinx: Upgrade MyST</code>](https://github.com/lxc/incus/commit/cf98b3fce927fbddb32342bdaf3ff815701b7267)
 - [ ] [<code>doc/manpage: Tweak manpage synopsis rendering</code>](https://github.com/lxc/incus/commit/f3eb4a5428e8642671e1952510807d2294e5263e)
 - [ ] [<code>incusd/storage/lvm: Require 512-bytes physical block size for VM images</code>](https://github.com/lxc/incus/commit/0118bf8e78766fbed6d154342eeefda8974a347e)
+- [ ] [<code>incus: Improve instance and remote names completion</code>](https://github.com/lxc/incus/commit/42abaca45508aeab25f99da170e87101b2a327ab)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd: Fill ExpiryDate and remove LastUsedDate in volumeSnapshotToProtobuf</code>](https://github.com/lxc/incus/commit/6498929c4c0fdde27684c3f499d828bdfdd59787)
+- [ ] [<code>incusd/device/tpm: Wait for swtpm to be ready</code>](https://github.com/lxc/incus/commit/cce2b6b4e36a2f7dfccaa76a7bd8d62829937d96)
+- [ ] [<code>incus: Improve completion for `file push` and `file pull`</code>](https://github.com/lxc/incus/commit/d09af5317ae61c8557ed95caae144bcb88d74acb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2525,7 +2530,12 @@
 - [ ] [<code>doc/sphinx: Upgrade MyST</code>](https://github.com/lxc/incus/commit/cf98b3fce927fbddb32342bdaf3ff815701b7267)
 - [ ] [<code>doc/manpage: Tweak manpage synopsis rendering</code>](https://github.com/lxc/incus/commit/f3eb4a5428e8642671e1952510807d2294e5263e)
 - [ ] [<code>incusd/storage/lvm: Require 512-bytes physical block size for VM images</code>](https://github.com/lxc/incus/commit/0118bf8e78766fbed6d154342eeefda8974a347e)
+- [ ] [<code>incus: Improve instance and remote names completion</code>](https://github.com/lxc/incus/commit/42abaca45508aeab25f99da170e87101b2a327ab)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd: Fill ExpiryDate and remove LastUsedDate in volumeSnapshotToProtobuf</code>](https://github.com/lxc/incus/commit/6498929c4c0fdde27684c3f499d828bdfdd59787)
+- [ ] [<code>incusd/device/tpm: Wait for swtpm to be ready</code>](https://github.com/lxc/incus/commit/cce2b6b4e36a2f7dfccaa76a7bd8d62829937d96)
+- [ ] [<code>incus: Improve completion for `file push` and `file pull`</code>](https://github.com/lxc/incus/commit/d09af5317ae61c8557ed95caae144bcb88d74acb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2779,12 +2789,8 @@
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.8...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
 
-- [ ] [<code>Mint-Y-Sand: Soften place emblems a little bit</code>](https://github.com/linuxmint/mint-y-icons/commit/9dc8ae3133ba89a3713b11808730cca6e4583df3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-y-icons/commit/caf06be588292fdc9af2656eda2c8c77b92981f9)
-  - <sub>Tags: <code>1.7.9</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -4172,6 +4178,7 @@
 - [ ] [<code>types: introduce `ucv_array_sort_r()` and `ucv_object_sort_r()`</code>](https://github.com/jow-/ucode/commit/47b54cf5a4b6166944efa4ee4cd023d73ebe6c3e)
 - [ ] [<code>types, vm: refactor usage of global variables</code>](https://github.com/jow-/ucode/commit/efeb578065523b2882d71d91f38cd63115928b7a)
 - [ ] [<code>vm: reset signals when freeing VM</code>](https://github.com/jow-/ucode/commit/f9d2faf67de643911f7b9bcdbab1ab2d7d108dff)
+- [ ] [<code>lib: utilize `ucv_array_sort_r()` and `ucv_object_sort_r()`</code>](https://github.com/jow-/ucode/commit/4e86847d802d2570c2e0143ad7c3fa8493fb8ee1)
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.6 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.6...HEAD)
 
