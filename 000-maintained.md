@@ -327,6 +327,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/dc5c139408f0d5ff26882c68b881e214827e63f6)
 - [ ] [<code>opensuse: Temporarily switch to mirrorcache-eu to fix downloads</code>](https://github.com/lxc/distrobuilder/commit/1fb71ab7820fdf105bf98abbd384455faa0ea084)
 - [ ] [<code>nixos: correctly handle 24.11</code>](https://github.com/lxc/distrobuilder/commit/e2a2567a5bb0e5d26460a101bbddfbbe0f3788ef)
+- [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/319f29f992efc1a71eddff832842172b61852ada)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -898,9 +899,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Fix completion for `profile copy`</code>](https://github.com/lxc/incus/commit/28da5dabf6ebe9de1ad1e2f3412012b0ae5e9a2d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/installing: Update Fedora instructions</code>](https://github.com/lxc/incus/commit/d663613b62d934dc941c3972ba3da8af4a709c3d)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Add a function to complete image fingerprints</code>](https://github.com/lxc/incus/commit/d327fbce3c861a25ea8b81867089fa7573c7787c)
 - [ ] [<code>incus: Add completion for `image alias` subcommands</code>](https://github.com/lxc/incus/commit/ffc7ce4ce8edbd63c7148c6c9af72d3e91d0862b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/daemon: Skip non-PKI issued trusted certificates when in PKI mode</code>](https://github.com/lxc/incus/commit/a6e7af8d4452388c8ada9ba0f869b0e1b1863cf4)
+- [ ] [<code>incusd/cluster: Update tests for change to trustedCerts</code>](https://github.com/lxc/incus/commit/6a6b474ed7103e1030d211798110ebdd6c0b6cf7)
+- [ ] [<code>tests: Validate all non-PKI certs are blocked in PKI mode</code>](https://github.com/lxc/incus/commit/7ec93a30b518fb50bfd15d73545d91875025616e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2571,9 +2577,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Fix completion for `profile copy`</code>](https://github.com/lxc/incus/commit/28da5dabf6ebe9de1ad1e2f3412012b0ae5e9a2d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/installing: Update Fedora instructions</code>](https://github.com/lxc/incus/commit/d663613b62d934dc941c3972ba3da8af4a709c3d)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Add a function to complete image fingerprints</code>](https://github.com/lxc/incus/commit/d327fbce3c861a25ea8b81867089fa7573c7787c)
 - [ ] [<code>incus: Add completion for `image alias` subcommands</code>](https://github.com/lxc/incus/commit/ffc7ce4ce8edbd63c7148c6c9af72d3e91d0862b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/daemon: Skip non-PKI issued trusted certificates when in PKI mode</code>](https://github.com/lxc/incus/commit/a6e7af8d4452388c8ada9ba0f869b0e1b1863cf4)
+- [ ] [<code>incusd/cluster: Update tests for change to trustedCerts</code>](https://github.com/lxc/incus/commit/6a6b474ed7103e1030d211798110ebdd6c0b6cf7)
+- [ ] [<code>tests: Validate all non-PKI certs are blocked in PKI mode</code>](https://github.com/lxc/incus/commit/7ec93a30b518fb50bfd15d73545d91875025616e)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3981,7 +3992,7 @@
 
 #### [python311Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.11.18.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.11.18.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.12.3.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.12.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.0...HEAD)
