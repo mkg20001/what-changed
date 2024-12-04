@@ -304,6 +304,8 @@
 - [ ] [<code>chore: Revert no Person object for DM room</code>](https://github.com/krille-chan/fluffychat/commit/7feb815250f5d08a3b568874121bab9195c6c9b6)
 - [ ] [<code>chore: Remove conversationTitle if room is dm room in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/5321a3768dda375b6622e081d04dad7e4fe54cf7)
 - [ ] [<code>chore: Display normal Slider when no waveform provided in audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/cd611aedc4a0733f58129052bd4462c9b16a1c31)
+- [ ] [<code>build: Clean up snapcraft packages</code>](https://github.com/krille-chan/fluffychat/commit/833d43517a08be0aa54926184eb23cae70acdf76)
+- [ ] [<code>build: Add missing libssl library</code>](https://github.com/krille-chan/fluffychat/commit/a6380b52bc3d93de82c951eed6c23e44fad85089)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -481,6 +483,8 @@
 - [ ] [<code>chore: Revert no Person object for DM room</code>](https://github.com/krille-chan/fluffychat/commit/7feb815250f5d08a3b568874121bab9195c6c9b6)
 - [ ] [<code>chore: Remove conversationTitle if room is dm room in android notifications</code>](https://github.com/krille-chan/fluffychat/commit/5321a3768dda375b6622e081d04dad7e4fe54cf7)
 - [ ] [<code>chore: Display normal Slider when no waveform provided in audioplayer</code>](https://github.com/krille-chan/fluffychat/commit/cd611aedc4a0733f58129052bd4462c9b16a1c31)
+- [ ] [<code>build: Clean up snapcraft packages</code>](https://github.com/krille-chan/fluffychat/commit/833d43517a08be0aa54926184eb23cae70acdf76)
+- [ ] [<code>build: Add missing libssl library</code>](https://github.com/krille-chan/fluffychat/commit/a6380b52bc3d93de82c951eed6c23e44fad85089)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -644,7 +648,12 @@
 - [ ] [<code>incusd/daemon: Skip non-PKI issued trusted certificates when in PKI mode</code>](https://github.com/lxc/incus/commit/a6e7af8d4452388c8ada9ba0f869b0e1b1863cf4)
 - [ ] [<code>incusd/cluster: Update tests for change to trustedCerts</code>](https://github.com/lxc/incus/commit/6a6b474ed7103e1030d211798110ebdd6c0b6cf7)
 - [ ] [<code>tests: Validate all non-PKI certs are blocked in PKI mode</code>](https://github.com/lxc/incus/commit/7ec93a30b518fb50bfd15d73545d91875025616e)
+- [ ] [<code>incus: Fix completion for `image alias create`</code>](https://github.com/lxc/incus/commit/41929ea4d6c78460cd1f555e8f0e814c79f32bf4)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc/network_forwards: Split configuration into own table</code>](https://github.com/lxc/incus/commit/ed387a224c9954f9c7c773d7698ce85841577e54)
+- [ ] [<code>util: Improve readability with early return</code>](https://github.com/lxc/incus/commit/f64535fcb90dee0a6fc346690cbba2499e4c26af)
+- [ ] [<code>incusd/db: Improve readability with eraly return</code>](https://github.com/lxc/incus/commit/b9f7d5bcf79ffa3ab26ea33001183e4bf86a911e)
+- [ ] [<code>incus/top: Ignore CPU idle time</code>](https://github.com/lxc/incus/commit/a2158656db3283bec7bee1fbb504f09ab89a33eb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2323,7 +2332,12 @@
 - [ ] [<code>incusd/daemon: Skip non-PKI issued trusted certificates when in PKI mode</code>](https://github.com/lxc/incus/commit/a6e7af8d4452388c8ada9ba0f869b0e1b1863cf4)
 - [ ] [<code>incusd/cluster: Update tests for change to trustedCerts</code>](https://github.com/lxc/incus/commit/6a6b474ed7103e1030d211798110ebdd6c0b6cf7)
 - [ ] [<code>tests: Validate all non-PKI certs are blocked in PKI mode</code>](https://github.com/lxc/incus/commit/7ec93a30b518fb50bfd15d73545d91875025616e)
+- [ ] [<code>incus: Fix completion for `image alias create`</code>](https://github.com/lxc/incus/commit/41929ea4d6c78460cd1f555e8f0e814c79f32bf4)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc/network_forwards: Split configuration into own table</code>](https://github.com/lxc/incus/commit/ed387a224c9954f9c7c773d7698ce85841577e54)
+- [ ] [<code>util: Improve readability with early return</code>](https://github.com/lxc/incus/commit/f64535fcb90dee0a6fc346690cbba2499e4c26af)
+- [ ] [<code>incusd/db: Improve readability with eraly return</code>](https://github.com/lxc/incus/commit/b9f7d5bcf79ffa3ab26ea33001183e4bf86a911e)
+- [ ] [<code>incus/top: Ignore CPU idle time</code>](https://github.com/lxc/incus/commit/a2158656db3283bec7bee1fbb504f09ab89a33eb)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3881,6 +3895,7 @@
 - [ ] [<code>types, vm: refactor usage of global variables</code>](https://github.com/jow-/ucode/commit/efeb578065523b2882d71d91f38cd63115928b7a)
 - [ ] [<code>vm: reset signals when freeing VM</code>](https://github.com/jow-/ucode/commit/f9d2faf67de643911f7b9bcdbab1ab2d7d108dff)
 - [ ] [<code>lib: utilize `ucv_array_sort_r()` and `ucv_object_sort_r()`</code>](https://github.com/jow-/ucode/commit/4e86847d802d2570c2e0143ad7c3fa8493fb8ee1)
+- [ ] [<code>types: ucv_resource_create(): rename `typename` parameter to `type`</code>](https://github.com/jow-/ucode/commit/c71444ea301f0968476ea5bf1b8912b0b65308d7)
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.6 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.6...HEAD)
 
