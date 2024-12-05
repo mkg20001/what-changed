@@ -19,6 +19,9 @@
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.1...HEAD)
 
+- [ ] [<code>Fix crash when attempting to report an error in the UI with details (#12554)</code>](https://github.com/linuxmint/cinnamon/commit/fedb183510fc06c802837f20dbc67bb8504fa376)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.0...HEAD)
 
@@ -654,6 +657,10 @@
 - [ ] [<code>util: Improve readability with early return</code>](https://github.com/lxc/incus/commit/f64535fcb90dee0a6fc346690cbba2499e4c26af)
 - [ ] [<code>incusd/db: Improve readability with eraly return</code>](https://github.com/lxc/incus/commit/b9f7d5bcf79ffa3ab26ea33001183e4bf86a911e)
 - [ ] [<code>incus/top: Ignore CPU idle time</code>](https://github.com/lxc/incus/commit/a2158656db3283bec7bee1fbb504f09ab89a33eb)
+- [ ] [<code>incus: Display the alias expansion when execution of an alias fails</code>](https://github.com/lxc/incus/commit/bfe9043fb960508307670390686d8a5c7775df31)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e7f83d47978388dfedb9433e0ad91156e9c5add5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>lint: disallow restricted licenses in go-licenses</code>](https://github.com/lxc/incus/commit/84e7fbb21c962debe20266bbe4f29f8c2c9fbded)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2338,6 +2345,10 @@
 - [ ] [<code>util: Improve readability with early return</code>](https://github.com/lxc/incus/commit/f64535fcb90dee0a6fc346690cbba2499e4c26af)
 - [ ] [<code>incusd/db: Improve readability with eraly return</code>](https://github.com/lxc/incus/commit/b9f7d5bcf79ffa3ab26ea33001183e4bf86a911e)
 - [ ] [<code>incus/top: Ignore CPU idle time</code>](https://github.com/lxc/incus/commit/a2158656db3283bec7bee1fbb504f09ab89a33eb)
+- [ ] [<code>incus: Display the alias expansion when execution of an alias fails</code>](https://github.com/lxc/incus/commit/bfe9043fb960508307670390686d8a5c7775df31)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e7f83d47978388dfedb9433e0ad91156e9c5add5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>lint: disallow restricted licenses in go-licenses</code>](https://github.com/lxc/incus/commit/84e7fbb21c962debe20266bbe4f29f8c2c9fbded)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
