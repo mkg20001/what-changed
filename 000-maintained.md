@@ -1,16 +1,6 @@
 
-#### [bulky](https://github.com/linuxmint/bulky): [3.4 → HEAD](https://github.com/linuxmint/bulky/compare/3.4...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [3.5 → HEAD](https://github.com/linuxmint/bulky/compare/3.5...HEAD)
 
-- [ ] [<code>Added unacenting option in change case (#61)</code>](https://github.com/linuxmint/bulky/commit/89f72ba75de3a1af5d70b4b414474e509d4d67da)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/bulky/commit/f09feae6de0bd3748836e02ae25147a3b2c05656)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/f336b3562ed0e34d449e7368c514420c97143a68)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/e592d53860d6f352ad46f09d1d9db685a178ddaf)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.5</code>](https://github.com/linuxmint/bulky/commit/4d158a35b9dde701c2136a6e3b8fb1787a046e4f)
-  - <sub>Tags: <code>3.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
@@ -22,22 +12,11 @@
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
 
-#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.1...HEAD)
+#### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.2...HEAD)
 
-- [ ] [<code>Fix crash when attempting to report an error in the UI with details (#12554)</code>](https://github.com/linuxmint/cinnamon/commit/fedb183510fc06c802837f20dbc67bb8504fa376)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>l10n: generate cs module files</code>](https://github.com/linuxmint/cinnamon/commit/28391bba22f861b30fc16c9ceba829d4bdf2f561)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon/commit/5174d3cb322a93e421a49651a63eeda2ee67105f)
-  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.0...HEAD)
+#### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/d9d992a6fc2060df90c7080c53bb7b3ad5cf2bdf)
-- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e65bd742d313a7f3c3c87116959791e2b6a4cc39)
-  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.1...HEAD)
 
@@ -54,12 +33,8 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.1...HEAD)
 
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.0...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/3e3aa821f71fb8b7921516fa9aab661fe85b321e)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>6.4.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/e72e00e87cf842fea25b73b3c087b76957348d51)
-  - <sub>Tags: <code>6.4.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
 
@@ -327,6 +302,7 @@
 - [ ] [<code>build: Clean up snapcraft packages</code>](https://github.com/krille-chan/fluffychat/commit/833d43517a08be0aa54926184eb23cae70acdf76)
 - [ ] [<code>build: Add missing libssl library</code>](https://github.com/krille-chan/fluffychat/commit/a6380b52bc3d93de82c951eed6c23e44fad85089)
 - [ ] [<code>chore: Improve join abandoned invite exception</code>](https://github.com/krille-chan/fluffychat/commit/d25bfe3f904cc943cc41ceb9dfd3a045138686d2)
+- [ ] [<code>chore: Follow up share page</code>](https://github.com/krille-chan/fluffychat/commit/3faace9952b5064112f1574a647f42893a538d88)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -507,6 +483,7 @@
 - [ ] [<code>build: Clean up snapcraft packages</code>](https://github.com/krille-chan/fluffychat/commit/833d43517a08be0aa54926184eb23cae70acdf76)
 - [ ] [<code>build: Add missing libssl library</code>](https://github.com/krille-chan/fluffychat/commit/a6380b52bc3d93de82c951eed6c23e44fad85089)
 - [ ] [<code>chore: Improve join abandoned invite exception</code>](https://github.com/krille-chan/fluffychat/commit/d25bfe3f904cc943cc41ceb9dfd3a045138686d2)
+- [ ] [<code>chore: Follow up share page</code>](https://github.com/krille-chan/fluffychat/commit/3faace9952b5064112f1574a647f42893a538d88)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -516,11 +493,8 @@
 > Dropped flutter327 - no appropriate URL found OrderedDict([('attr_path', 'flutter327'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [ba8ea15a48a1a31f318676f4079789af20bdf099 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/ba8ea15a48a1a31f318676f4079789af20bdf099...HEAD)
+#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [208e66285ec33a078205a221af579c79bc8cad01 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/208e66285ec33a078205a221af579c79bc8cad01...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/d8ec9abab98eaa032f289871fd4d798a88d097c4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.6.6</code>](https://github.com/linuxmint/folder-color-switcher/commit/208e66285ec33a078205a221af579c79bc8cad01)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -2643,12 +2617,20 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
 
+- [ ] [<code>cinnamon: Remove incomplete runDialog styling in Mint-L</code>](https://github.com/linuxmint/mint-l-theme/commit/63aee1595664f06657d62b7928996ce4627e6578)
+- [ ] [<code>1.9.9</code>](https://github.com/linuxmint/mint-l-theme/commit/33d28b0567181bae101dd909210c940bb98b5863)
+  - <sub>Tags: <code>1.9.9</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.0...HEAD)
 
 - [ ] [<code>cinnamon: Add shadows around popupmenus</code>](https://github.com/linuxmint/mint-themes/commit/0c8c41a9490af0976e510ae51f8d1499d2cc0928)
 - [ ] [<code>cinnamon: Add a border around focused dialog buttons</code>](https://github.com/linuxmint/mint-themes/commit/745fef50b963da2ceb9c3ef6993b68d897e287fe)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>cinnamon: Improve dialog button borders</code>](https://github.com/linuxmint/mint-themes/commit/b67ad788a27808327e93d3ebd6cf8a66155709fc)
+- [ ] [<code>cinnamon: Add styling for entry hint text and password peek icon</code>](https://github.com/linuxmint/mint-themes/commit/48d451fe67d7d175b9667e843f81a838a7d3e4ae)
+- [ ] [<code>cinnamon: Add styling for endSession dialog lists and items</code>](https://github.com/linuxmint/mint-themes/commit/53c70ba3a9601d61518c18f1cde4fffe4315a861)
+- [ ] [<code>cinnamon: Remove incomplete runDialog styling in Mint-X</code>](https://github.com/linuxmint/mint-themes/commit/b0898dd36ce190480db851ee3dc2d66be2ccc5f5)
+- [ ] [<code>2.2.1</code>](https://github.com/linuxmint/mint-themes/commit/7477ad0d57dcfacf6125341bcf9cb26197381d4f)
+  - <sub>Tags: <code>2.2.1</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
@@ -2661,13 +2643,8 @@
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
 
-#### [nemo](https://github.com/linuxmint/nemo): [6.4.2 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.2...HEAD)
+#### [nemo](https://github.com/linuxmint/nemo): [6.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.3...HEAD)
 
-- [ ] [<code>l10n: generate additional files</code>](https://github.com/linuxmint/nemo/commit/35cc06a743e68e63d070e9fe8e3c068b25fa0b54)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>6.4.3</code>](https://github.com/linuxmint/nemo/commit/5e8ff024d514981c848f2212cfbf836bbdea2e96)
-  - <sub>Tags: <code>6.4.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -3702,13 +3679,8 @@
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.3 → HEAD](https://github.com/linuxmint/pix/compare/3.4.3...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.4 → HEAD](https://github.com/linuxmint/pix/compare/3.4.4...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/6669a9ddf366525919b09201808aa276e4845aae)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.4</code>](https://github.com/linuxmint/pix/commit/1403dedfe5d09c3b886aaf8d84d6390853febc40)
-  - <sub>Tags: <code>3.4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 > Dropped python311Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped python311Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3972,13 +3944,11 @@
 - [ ] [<code>nl80211: properly support split_wiphy_dump for single phys</code>](https://github.com/jow-/ucode/commit/373df7299c798071bd6e7566b33f807d31c8bf82)
 - [ ] [<code>lexer: Preserve keyword, regexp flags until processing non-comment tokens</code>](https://github.com/jow-/ucode/commit/9bcd25f54708c2d6bde79f266f1b74d432f4571f)
 - [ ] [<code>main: pretty-print `-p` output by default</code>](https://github.com/jow-/ucode/commit/0a7ff4715cb8ec863ed061443aa77f986c840507)
+- [ ] [<code>struct: Add new buffer API for incremental packing/unpacking</code>](https://github.com/jow-/ucode/commit/4c3d5b469156b877a2fb331ec0321a3cee2ede08)
+- [ ] [<code>struct: do not use global variables for caching types</code>](https://github.com/jow-/ucode/commit/efc4122124cb7a4a86c0fd6ece4e7d86b8ab00b6)
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.6 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.6...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.7 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.7...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/b1c339466cfb94a1ace4ef2bec7e7d2a27fd3161)
-- [ ] [<code>1.8.7</code>](https://github.com/linuxmint/warpinator/commit/24e9cf38580380ab9411ab5f950c774f80b2851a)
-  - <sub>Tags: <code>1.8.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
@@ -3992,9 +3962,5 @@
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.6 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.6...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.7 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.7...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/69ca117bd3ae5de19bebd5de61c6c0ef69608fae)
-- [ ] [<code>3.4.7</code>](https://github.com/linuxmint/xviewer/commit/4600ccb5afda11fc397cf4193917c189a75426cf)
-  - <sub>Tags: <code>3.4.7</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
