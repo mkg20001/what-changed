@@ -527,12 +527,8 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.4 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.4...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.5 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.5...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/5447c766d623d6719757801fdb9a0eb3ffa2850b)
-- [ ] [<code>3.50.5</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/bf1484ba690a387d4bc9d8f07b7fbb694ce02d72)
-  - <sub>Tags: <code>3.50.5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -695,6 +691,10 @@
 - [ ] [<code>incus/file: Expand setOwnerMode</code>](https://github.com/lxc/incus/commit/b3f2bf523e357663cb42b7889fe4e5b5e905334a)
 - [ ] [<code>incus/file/push Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/d33c9485e727f5cb7293b7b30f04d9d697db79c3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Set CLOEXEC for TPM sockets</code>](https://github.com/lxc/incus/commit/c9636be52f96ce146c73ba079279a024b2132de3)
+- [ ] [<code>incusd/patches: Run auth patches on all servers</code>](https://github.com/lxc/incus/commit/bed7a89e1b6eacd86c8ea044281291b0dff10755)
+- [ ] [<code>incusd/auth/openfga: Get rid of applyPatches</code>](https://github.com/lxc/incus/commit/873000ca08e0ddf1309748c943bad471a72ee43a)
+- [ ] [<code>incusd/auth/openfga: Force OpenFGA update on initial config and patching</code>](https://github.com/lxc/incus/commit/66baacfe6e3d0148ea0289520019d1ff37a7fee8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2391,6 +2391,10 @@
 - [ ] [<code>incus/file: Expand setOwnerMode</code>](https://github.com/lxc/incus/commit/b3f2bf523e357663cb42b7889fe4e5b5e905334a)
 - [ ] [<code>incus/file/push Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/d33c9485e727f5cb7293b7b30f04d9d697db79c3)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Set CLOEXEC for TPM sockets</code>](https://github.com/lxc/incus/commit/c9636be52f96ce146c73ba079279a024b2132de3)
+- [ ] [<code>incusd/patches: Run auth patches on all servers</code>](https://github.com/lxc/incus/commit/bed7a89e1b6eacd86c8ea044281291b0dff10755)
+- [ ] [<code>incusd/auth/openfga: Get rid of applyPatches</code>](https://github.com/lxc/incus/commit/873000ca08e0ddf1309748c943bad471a72ee43a)
+- [ ] [<code>incusd/auth/openfga: Force OpenFGA update on initial config and patching</code>](https://github.com/lxc/incus/commit/66baacfe6e3d0148ea0289520019d1ff37a7fee8)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3966,6 +3970,8 @@
 - [ ] [<code>lib: utilize `ucv_array_sort_r()` and `ucv_object_sort_r()`</code>](https://github.com/jow-/ucode/commit/4e86847d802d2570c2e0143ad7c3fa8493fb8ee1)
 - [ ] [<code>types: ucv_resource_create(): rename `typename` parameter to `type`</code>](https://github.com/jow-/ucode/commit/c71444ea301f0968476ea5bf1b8912b0b65308d7)
 - [ ] [<code>nl80211: properly support split_wiphy_dump for single phys</code>](https://github.com/jow-/ucode/commit/373df7299c798071bd6e7566b33f807d31c8bf82)
+- [ ] [<code>lexer: Preserve keyword, regexp flags until processing non-comment tokens</code>](https://github.com/jow-/ucode/commit/9bcd25f54708c2d6bde79f266f1b74d432f4571f)
+- [ ] [<code>main: pretty-print `-p` output by default</code>](https://github.com/jow-/ucode/commit/0a7ff4715cb8ec863ed061443aa77f986c840507)
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.6 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.6...HEAD)
 
