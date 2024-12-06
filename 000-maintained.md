@@ -690,6 +690,11 @@
 - [ ] [<code>incusd/db: do not shadow Go builtin function</code>](https://github.com/lxc/incus/commit/57b483c0a201c81461b4466f0593aae090066daf)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>lint: disallow restricted licenses in go-licenses</code>](https://github.com/lxc/incus/commit/84e7fbb21c962debe20266bbe4f29f8c2c9fbded)
+- [ ] [<code>incus: Fix alias arguments handling</code>](https://github.com/lxc/incus/commit/4e58bc95d08155eae103c37a5e2291a3187b3045)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/file: Expand setOwnerMode</code>](https://github.com/lxc/incus/commit/b3f2bf523e357663cb42b7889fe4e5b5e905334a)
+- [ ] [<code>incus/file/push Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/d33c9485e727f5cb7293b7b30f04d9d697db79c3)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2381,6 +2386,11 @@
 - [ ] [<code>incusd/db: do not shadow Go builtin function</code>](https://github.com/lxc/incus/commit/57b483c0a201c81461b4466f0593aae090066daf)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>lint: disallow restricted licenses in go-licenses</code>](https://github.com/lxc/incus/commit/84e7fbb21c962debe20266bbe4f29f8c2c9fbded)
+- [ ] [<code>incus: Fix alias arguments handling</code>](https://github.com/lxc/incus/commit/4e58bc95d08155eae103c37a5e2291a3187b3045)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus/file: Expand setOwnerMode</code>](https://github.com/lxc/incus/commit/b3f2bf523e357663cb42b7889fe4e5b5e905334a)
+- [ ] [<code>incus/file/push Use SFTP client instead of file API</code>](https://github.com/lxc/incus/commit/d33c9485e727f5cb7293b7b30f04d9d697db79c3)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
