@@ -43,7 +43,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.2.3/dbeaver-ce-24.2.3-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.2.3/dbeaver-ce-24.2.3-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -672,6 +672,7 @@
 - [ ] [<code>incus: Clarify device override syntax</code>](https://github.com/lxc/incus/commit/f6cb7a3fecfc6036a481ec4c81080159c4a5cb69)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e616345f0798b44ea4221b9ef4c06b3c7973ce62)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/auth/openfga: refresh model before applying patches</code>](https://github.com/lxc/incus/commit/70e99b20166ab03f9dec9c610c604ff9e4eb12ee)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2375,6 +2376,7 @@
 - [ ] [<code>incus: Clarify device override syntax</code>](https://github.com/lxc/incus/commit/f6cb7a3fecfc6036a481ec4c81080159c4a5cb69)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e616345f0798b44ea4221b9ef4c06b3c7973ce62)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/auth/openfga: refresh model before applying patches</code>](https://github.com/lxc/incus/commit/70e99b20166ab03f9dec9c610c604ff9e4eb12ee)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2621,11 +2623,8 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [f1900facf915715623ef0ca2874ae4dd04039e81 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/f1900facf915715623ef0ca2874ae4dd04039e81...HEAD)
 
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.8 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.8...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
-- [ ] [<code>cinnamon: Remove incomplete runDialog styling in Mint-L</code>](https://github.com/linuxmint/mint-l-theme/commit/63aee1595664f06657d62b7928996ce4627e6578)
-- [ ] [<code>1.9.9</code>](https://github.com/linuxmint/mint-l-theme/commit/33d28b0567181bae101dd909210c940bb98b5863)
-  - <sub>Tags: <code>1.9.9</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.0...HEAD)
 
@@ -3957,6 +3956,7 @@
 - [ ] [<code>struct: Add new buffer API for incremental packing/unpacking</code>](https://github.com/jow-/ucode/commit/4c3d5b469156b877a2fb331ec0321a3cee2ede08)
 - [ ] [<code>struct: do not use global variables for caching types</code>](https://github.com/jow-/ucode/commit/efc4122124cb7a4a86c0fd6ece4e7d86b8ab00b6)
 - [ ] [<code>vm: fix inverted condition in uc_vm_signal_handlers_setup()</code>](https://github.com/jow-/ucode/commit/a362263595e6e4c22f3bc1882a8dd58034f8493b)
+- [ ] [<code>tests: adjust testcases after previous commit</code>](https://github.com/jow-/ucode/commit/1b8660d33fb7eae7b8f66aa78098ffe8c3de0689)
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.7 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.7...HEAD)
 
