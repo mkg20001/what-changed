@@ -669,6 +669,9 @@
 - [ ] [<code>incusd/patches: Run auth patches on all servers</code>](https://github.com/lxc/incus/commit/bed7a89e1b6eacd86c8ea044281291b0dff10755)
 - [ ] [<code>incusd/auth/openfga: Get rid of applyPatches</code>](https://github.com/lxc/incus/commit/873000ca08e0ddf1309748c943bad471a72ee43a)
 - [ ] [<code>incusd/auth/openfga: Force OpenFGA update on initial config and patching</code>](https://github.com/lxc/incus/commit/66baacfe6e3d0148ea0289520019d1ff37a7fee8)
+- [ ] [<code>incus: Clarify device override syntax</code>](https://github.com/lxc/incus/commit/f6cb7a3fecfc6036a481ec4c81080159c4a5cb69)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e616345f0798b44ea4221b9ef4c06b3c7973ce62)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2369,6 +2372,9 @@
 - [ ] [<code>incusd/patches: Run auth patches on all servers</code>](https://github.com/lxc/incus/commit/bed7a89e1b6eacd86c8ea044281291b0dff10755)
 - [ ] [<code>incusd/auth/openfga: Get rid of applyPatches</code>](https://github.com/lxc/incus/commit/873000ca08e0ddf1309748c943bad471a72ee43a)
 - [ ] [<code>incusd/auth/openfga: Force OpenFGA update on initial config and patching</code>](https://github.com/lxc/incus/commit/66baacfe6e3d0148ea0289520019d1ff37a7fee8)
+- [ ] [<code>incus: Clarify device override syntax</code>](https://github.com/lxc/incus/commit/f6cb7a3fecfc6036a481ec4c81080159c4a5cb69)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e616345f0798b44ea4221b9ef4c06b3c7973ce62)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3675,6 +3681,10 @@
 - [ ] [<code>fix(lib): A3936 state update packet not actually used</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9ec7cdf3b56e16c3ae7df14b828e1abce8cd102)
 - [ ] [<code>fix(lib): remove uuid from service not found error message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3b143458d4379d34c415fc787ce1aeab3990698)
 - [ ] [<code>fix(lib): add E4:9E:58 mac address prefix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/888e4c52bb04348892306a863d533be6b11536ad)
+- [ ] [<code>feat(cli): add support for missing sound modes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6f8529d24524948f5b357e8e6c56add0e70122ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: prioritize filtering by service over mac address</code>](https://github.com/Oppzippy/OpenSCQ30/commit/848240058841745d9dd1ffc9abbb5edd095c6683)
+- [ ] [<code>feat(lib): add experimental bluer backend</code>](https://github.com/Oppzippy/OpenSCQ30/commit/18c14d4936861225a8ed3610ba32df747758d8d9)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3946,6 +3956,7 @@
 - [ ] [<code>main: pretty-print `-p` output by default</code>](https://github.com/jow-/ucode/commit/0a7ff4715cb8ec863ed061443aa77f986c840507)
 - [ ] [<code>struct: Add new buffer API for incremental packing/unpacking</code>](https://github.com/jow-/ucode/commit/4c3d5b469156b877a2fb331ec0321a3cee2ede08)
 - [ ] [<code>struct: do not use global variables for caching types</code>](https://github.com/jow-/ucode/commit/efc4122124cb7a4a86c0fd6ece4e7d86b8ab00b6)
+- [ ] [<code>vm: fix inverted condition in uc_vm_signal_handlers_setup()</code>](https://github.com/jow-/ucode/commit/a362263595e6e4c22f3bc1882a8dd58034f8493b)
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.7 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.7...HEAD)
 
