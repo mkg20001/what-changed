@@ -303,6 +303,10 @@
 - [ ] [<code>build: Add missing libssl library</code>](https://github.com/krille-chan/fluffychat/commit/a6380b52bc3d93de82c951eed6c23e44fad85089)
 - [ ] [<code>chore: Improve join abandoned invite exception</code>](https://github.com/krille-chan/fluffychat/commit/d25bfe3f904cc943cc41ceb9dfd3a045138686d2)
 - [ ] [<code>chore: Follow up share page</code>](https://github.com/krille-chan/fluffychat/commit/3faace9952b5064112f1574a647f42893a538d88)
+- [ ] [<code>refactor: Improve UX of user role in UserBottomSheet</code>](https://github.com/krille-chan/fluffychat/commit/b186021f384e3377357392e4dfdb194508e853b7)
+- [ ] [<code>chore: Improve UserBottomSheet UX</code>](https://github.com/krille-chan/fluffychat/commit/e2ad11970f51020d28e623d2d2340fee885dd9ed)
+- [ ] [<code>refactor: Adjust chat list item UX</code>](https://github.com/krille-chan/fluffychat/commit/960d603037cf256817bf7cbcd3bc542ce40e453e)
+- [ ] [<code>chore: Better bottom sheets on desktop</code>](https://github.com/krille-chan/fluffychat/commit/dea29161c8155bcc55a12295a6b6c531ab8902f8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -484,6 +488,10 @@
 - [ ] [<code>build: Add missing libssl library</code>](https://github.com/krille-chan/fluffychat/commit/a6380b52bc3d93de82c951eed6c23e44fad85089)
 - [ ] [<code>chore: Improve join abandoned invite exception</code>](https://github.com/krille-chan/fluffychat/commit/d25bfe3f904cc943cc41ceb9dfd3a045138686d2)
 - [ ] [<code>chore: Follow up share page</code>](https://github.com/krille-chan/fluffychat/commit/3faace9952b5064112f1574a647f42893a538d88)
+- [ ] [<code>refactor: Improve UX of user role in UserBottomSheet</code>](https://github.com/krille-chan/fluffychat/commit/b186021f384e3377357392e4dfdb194508e853b7)
+- [ ] [<code>chore: Improve UserBottomSheet UX</code>](https://github.com/krille-chan/fluffychat/commit/e2ad11970f51020d28e623d2d2340fee885dd9ed)
+- [ ] [<code>refactor: Adjust chat list item UX</code>](https://github.com/krille-chan/fluffychat/commit/960d603037cf256817bf7cbcd3bc542ce40e453e)
+- [ ] [<code>chore: Better bottom sheets on desktop</code>](https://github.com/krille-chan/fluffychat/commit/dea29161c8155bcc55a12295a6b6c531ab8902f8)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -673,6 +681,24 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e616345f0798b44ea4221b9ef4c06b3c7973ce62)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/auth/openfga: refresh model before applying patches</code>](https://github.com/lxc/incus/commit/70e99b20166ab03f9dec9c610c604ff9e4eb12ee)
+- [ ] [<code>internal/scriptlet: Fix typo</code>](https://github.com/lxc/incus/commit/167d74a9984ead2ddc6833f681171529e4bda284)
+- [ ] [<code>incusd/scriptlet: refactor marshal</code>](https://github.com/lxc/incus/commit/ec551e51bd4abb004c7c8c697bb0ec2154f1771d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/scriptlet: Refactor log</code>](https://github.com/lxc/incus/commit/953d0003ff4625d3cb5774ff0a71d2ded78b1118)
+- [ ] [<code>incusd/scriptlet: Add authorization scriptlet</code>](https://github.com/lxc/incus/commit/9b77b7b67da112fa012ccc38a78258f9bb950bab)
+- [ ] [<code>incusd/auth: Refactor drivers</code>](https://github.com/lxc/incus/commit/6621f04366b8488637c9eb3b426cc512e449acd0)
+- [ ] [<code>incusd/config: Add scriptlet authorization key</code>](https://github.com/lxc/incus/commit/e8b149d3b5ad1a3b8fe4b6c26d18d5d1d3baf70f)
+- [ ] [<code>incusd/auth: Add authorization scriptlet driver</code>](https://github.com/lxc/incus/commit/bf2274cb8cb17a6fe280e3bb6cae0dfac39a84fc)
+- [ ] [<code>incusd/daemon: Handle authorization scriptlet reset</code>](https://github.com/lxc/incus/commit/0988db7270e290263ba8a4a5f56579365a586816)
+- [ ] [<code>incusd/auth: Comment exported methods and types</code>](https://github.com/lxc/incus/commit/d188c96cacff4ddc8743dea1840a46ad5522df38)
+- [ ] [<code>incusd/scriptlet: Add project and instance authorization getters</code>](https://github.com/lxc/incus/commit/8116662b112e6c46b1f194c2d9934d466832fb7d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/baf07ca8e8e7b106d1a09bbab5a7ba9896ef54b5)
+- [ ] [<code>api: authorization_scriptlet</code>](https://github.com/lxc/incus/commit/61d03317571cac668a7db9672895dda709451d89)
+- [ ] [<code>doc/authorization: Add authorization scriptlet</code>](https://github.com/lxc/incus/commit/275710d71d8ea08eb7f49adea838626e26046fb8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>tests: Authorization scriptlet</code>](https://github.com/lxc/incus/commit/ed20f90279d3c692b1a5e62676e99452b9d8b54e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: add openSUSE installation instructions</code>](https://github.com/lxc/incus/commit/c280af6cdab74f822f2d85e574a42f3f412449fa)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2377,6 +2403,24 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e616345f0798b44ea4221b9ef4c06b3c7973ce62)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/auth/openfga: refresh model before applying patches</code>](https://github.com/lxc/incus/commit/70e99b20166ab03f9dec9c610c604ff9e4eb12ee)
+- [ ] [<code>internal/scriptlet: Fix typo</code>](https://github.com/lxc/incus/commit/167d74a9984ead2ddc6833f681171529e4bda284)
+- [ ] [<code>incusd/scriptlet: refactor marshal</code>](https://github.com/lxc/incus/commit/ec551e51bd4abb004c7c8c697bb0ec2154f1771d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/scriptlet: Refactor log</code>](https://github.com/lxc/incus/commit/953d0003ff4625d3cb5774ff0a71d2ded78b1118)
+- [ ] [<code>incusd/scriptlet: Add authorization scriptlet</code>](https://github.com/lxc/incus/commit/9b77b7b67da112fa012ccc38a78258f9bb950bab)
+- [ ] [<code>incusd/auth: Refactor drivers</code>](https://github.com/lxc/incus/commit/6621f04366b8488637c9eb3b426cc512e449acd0)
+- [ ] [<code>incusd/config: Add scriptlet authorization key</code>](https://github.com/lxc/incus/commit/e8b149d3b5ad1a3b8fe4b6c26d18d5d1d3baf70f)
+- [ ] [<code>incusd/auth: Add authorization scriptlet driver</code>](https://github.com/lxc/incus/commit/bf2274cb8cb17a6fe280e3bb6cae0dfac39a84fc)
+- [ ] [<code>incusd/daemon: Handle authorization scriptlet reset</code>](https://github.com/lxc/incus/commit/0988db7270e290263ba8a4a5f56579365a586816)
+- [ ] [<code>incusd/auth: Comment exported methods and types</code>](https://github.com/lxc/incus/commit/d188c96cacff4ddc8743dea1840a46ad5522df38)
+- [ ] [<code>incusd/scriptlet: Add project and instance authorization getters</code>](https://github.com/lxc/incus/commit/8116662b112e6c46b1f194c2d9934d466832fb7d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/baf07ca8e8e7b106d1a09bbab5a7ba9896ef54b5)
+- [ ] [<code>api: authorization_scriptlet</code>](https://github.com/lxc/incus/commit/61d03317571cac668a7db9672895dda709451d89)
+- [ ] [<code>doc/authorization: Add authorization scriptlet</code>](https://github.com/lxc/incus/commit/275710d71d8ea08eb7f49adea838626e26046fb8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>tests: Authorization scriptlet</code>](https://github.com/lxc/incus/commit/ed20f90279d3c692b1a5e62676e99452b9d8b54e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: add openSUSE installation instructions</code>](https://github.com/lxc/incus/commit/c280af6cdab74f822f2d85e574a42f3f412449fa)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
