@@ -3728,6 +3728,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: prioritize filtering by service over mac address</code>](https://github.com/Oppzippy/OpenSCQ30/commit/848240058841745d9dd1ffc9abbb5edd095c6683)
 - [ ] [<code>feat(lib): add experimental bluer backend</code>](https://github.com/Oppzippy/OpenSCQ30/commit/18c14d4936861225a8ed3610ba32df747758d8d9)
+- [ ] [<code>fix(lib): A3936 missing standard packet handlers</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d11b3cba4187a9674cbb5f73946864c3d2e9869)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3864,15 +3866,8 @@
 - [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
 - [ ] [<code>Fix for empty user default tab after creation (#628)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9fc005032c5b578fe5f360844ba5db69d870fb78)
 
-#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.040 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.040...HEAD)
+#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.059 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.059...HEAD)
 
-- [ ] [<code>Possible fix for failed thumbnail embedding, #626</code>](https://github.com/axcore/tartube/commit/ff76b75d474464425b2823586a44662dacabf386)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add re-check video #661, YouTube warning #662, matplotlib failure check #663</code>](https://github.com/axcore/tartube/commit/f4686dca2256f1564a6c6e87cbb0e1de3c8e9d50)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update to v2.5.059</code>](https://github.com/axcore/tartube/commit/b0bb4ec839f509099264db47a66f65c95a8cb32f)
-  - <sub>Tags: <code>v2.5.059</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix yt-dlp install issues on MSWin</code>](https://github.com/axcore/tartube/commit/b00868aea591c3f67b21efc17ff83c3874bc5f8f)
   - <sub>Tags: <code>v2.5.062</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
