@@ -81,6 +81,8 @@
 - [ ] [<code>feat: update alpine to v3.20</code>](https://github.com/stepchowfun/docuum/commit/847b36af510e17f9bd34ddc9e8c877eb3eb73235)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Update Rust to v1.83.0</code>](https://github.com/stepchowfun/docuum/commit/e39bccb866f7f241a31940732ce677755a34a20f)
+- [ ] [<code>add mention to what formats min-age supports</code>](https://github.com/stepchowfun/docuum/commit/dbc16e5faf4aa226c95806969abbe1645b8e219d)
+- [ ] [<code>Make link to parse_duration versioned to 2.1.1</code>](https://github.com/stepchowfun/docuum/commit/8a8817aa23bf5e8d553a3a668c82616508362fb9)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -2688,6 +2690,8 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
 
+- [ ] [<code>Update Visual Studio Code and Visual Studio Code Insiders icons (#448)</code>](https://github.com/linuxmint/mint-y-icons/commit/7d589356396527ab445928e85639aad0452b174a)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
