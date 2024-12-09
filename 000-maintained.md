@@ -307,6 +307,7 @@
 - [ ] [<code>chore: Improve UserBottomSheet UX</code>](https://github.com/krille-chan/fluffychat/commit/e2ad11970f51020d28e623d2d2340fee885dd9ed)
 - [ ] [<code>refactor: Adjust chat list item UX</code>](https://github.com/krille-chan/fluffychat/commit/960d603037cf256817bf7cbcd3bc542ce40e453e)
 - [ ] [<code>chore: Better bottom sheets on desktop</code>](https://github.com/krille-chan/fluffychat/commit/dea29161c8155bcc55a12295a6b6c531ab8902f8)
+- [ ] [<code>chore: Follow up desktop bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/365c49c289a1e9760afd365b59d8519ad6bc24a8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -492,6 +493,7 @@
 - [ ] [<code>chore: Improve UserBottomSheet UX</code>](https://github.com/krille-chan/fluffychat/commit/e2ad11970f51020d28e623d2d2340fee885dd9ed)
 - [ ] [<code>refactor: Adjust chat list item UX</code>](https://github.com/krille-chan/fluffychat/commit/960d603037cf256817bf7cbcd3bc542ce40e453e)
 - [ ] [<code>chore: Better bottom sheets on desktop</code>](https://github.com/krille-chan/fluffychat/commit/dea29161c8155bcc55a12295a6b6c531ab8902f8)
+- [ ] [<code>chore: Follow up desktop bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/365c49c289a1e9760afd365b59d8519ad6bc24a8)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3730,6 +3732,12 @@
 - [ ] [<code>feat(lib): add experimental bluer backend</code>](https://github.com/Oppzippy/OpenSCQ30/commit/18c14d4936861225a8ed3610ba32df747758d8d9)
 - [ ] [<code>fix(lib): A3936 missing standard packet handlers</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d11b3cba4187a9674cbb5f73946864c3d2e9869)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): add context to button model paring errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ca537bccd9b4b15f84d938c3717d3d99e84b0ad4)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a4bcdde56090f617beaeae8674df636b7780c9be)
+- [ ] [<code>docs: add roadmap</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aff4e8f3686478030a28f1217cc6d459e4083ede)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: v1.15.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b4e2ba565c88555e9e2536f8c4b8297ab440e4c)
+  - <sub>Tags: <code>v1.15.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
