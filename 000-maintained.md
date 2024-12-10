@@ -703,6 +703,12 @@
 - [ ] [<code>tests: Authorization scriptlet</code>](https://github.com/lxc/incus/commit/ed20f90279d3c692b1a5e62676e99452b9d8b54e)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: add openSUSE installation instructions</code>](https://github.com/lxc/incus/commit/c280af6cdab74f822f2d85e574a42f3f412449fa)
+- [ ] [<code>incusd/scriptlet: Rename prefixAuthorization to nameAuthorization</code>](https://github.com/lxc/incus/commit/0bbfe40626933bad104b998e5ff5367eb32ab49b)
+- [ ] [<code>incusd/scriptlet: Add function checks in scriptlet validation</code>](https://github.com/lxc/incus/commit/39b3d8b8bd70ec9f08a53b0080e2dff0f4ec3f3e)
+- [ ] [<code>client/oci: Add debug logging for subprocess commands</code>](https://github.com/lxc/incus/commit/3d1482545724af08ea78c472fd8d6988c99d4a79)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/daemon_images: Fix error string typo for OCI connect errors</code>](https://github.com/lxc/incus/commit/9583797caeae0302a7cd8d02a4cfab6a40593be4)
+- [ ] [<code>incusd/scriptlet: Add function args checks in scriptlet validation</code>](https://github.com/lxc/incus/commit/5b902713b8116a27b59f67cb91993cc0c68a6712)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2425,6 +2431,12 @@
 - [ ] [<code>tests: Authorization scriptlet</code>](https://github.com/lxc/incus/commit/ed20f90279d3c692b1a5e62676e99452b9d8b54e)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>doc: add openSUSE installation instructions</code>](https://github.com/lxc/incus/commit/c280af6cdab74f822f2d85e574a42f3f412449fa)
+- [ ] [<code>incusd/scriptlet: Rename prefixAuthorization to nameAuthorization</code>](https://github.com/lxc/incus/commit/0bbfe40626933bad104b998e5ff5367eb32ab49b)
+- [ ] [<code>incusd/scriptlet: Add function checks in scriptlet validation</code>](https://github.com/lxc/incus/commit/39b3d8b8bd70ec9f08a53b0080e2dff0f4ec3f3e)
+- [ ] [<code>client/oci: Add debug logging for subprocess commands</code>](https://github.com/lxc/incus/commit/3d1482545724af08ea78c472fd8d6988c99d4a79)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/daemon_images: Fix error string typo for OCI connect errors</code>](https://github.com/lxc/incus/commit/9583797caeae0302a7cd8d02a4cfab6a40593be4)
+- [ ] [<code>incusd/scriptlet: Add function args checks in scriptlet validation</code>](https://github.com/lxc/incus/commit/5b902713b8116a27b59f67cb91993cc0c68a6712)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
