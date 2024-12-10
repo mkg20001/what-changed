@@ -32,6 +32,9 @@
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.1...HEAD)
 
+- [ ] [<code>debian/control: Add colord dependency.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9ad239e64d87e89446abafe0d96bb757ce596ea0)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
 
@@ -310,6 +313,9 @@
 - [ ] [<code>refactor: Adjust chat list item UX</code>](https://github.com/krille-chan/fluffychat/commit/960d603037cf256817bf7cbcd3bc542ce40e453e)
 - [ ] [<code>chore: Better bottom sheets on desktop</code>](https://github.com/krille-chan/fluffychat/commit/dea29161c8155bcc55a12295a6b6c531ab8902f8)
 - [ ] [<code>chore: Follow up desktop bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/365c49c289a1e9760afd365b59d8519ad6bc24a8)
+- [ ] [<code>refactor: Implement own adaptive dialogs and remove package</code>](https://github.com/krille-chan/fluffychat/commit/8819c40ebd05ce31361996b1fa0f1dbaafd7643c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up new dialogs</code>](https://github.com/krille-chan/fluffychat/commit/21be49c5c0d8e1283bad162eba4358b2d5baba22)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -496,6 +502,9 @@
 - [ ] [<code>refactor: Adjust chat list item UX</code>](https://github.com/krille-chan/fluffychat/commit/960d603037cf256817bf7cbcd3bc542ce40e453e)
 - [ ] [<code>chore: Better bottom sheets on desktop</code>](https://github.com/krille-chan/fluffychat/commit/dea29161c8155bcc55a12295a6b6c531ab8902f8)
 - [ ] [<code>chore: Follow up desktop bottom sheet</code>](https://github.com/krille-chan/fluffychat/commit/365c49c289a1e9760afd365b59d8519ad6bc24a8)
+- [ ] [<code>refactor: Implement own adaptive dialogs and remove package</code>](https://github.com/krille-chan/fluffychat/commit/8819c40ebd05ce31361996b1fa0f1dbaafd7643c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up new dialogs</code>](https://github.com/krille-chan/fluffychat/commit/21be49c5c0d8e1283bad162eba4358b2d5baba22)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2599,6 +2608,8 @@
 - [ ] [<code>Bump the github-actions group with 2 updates (#2512)</code>](https://github.com/AOMediaCodec/libavif/commit/c7c4019dc94983c65a1fe0ebae48fc5bc3380df0)
 - [ ] [<code>Turn gain map flag on by default. (#2513)</code>](https://github.com/AOMediaCodec/libavif/commit/3196438660ca478f85e8a3d209b166adcd845c4a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Clean ci-unix-static-sanitized.yml (#2517)</code>](https://github.com/AOMediaCodec/libavif/commit/37cb0bf57d4b247cf995f965b6cfdab3886ec68a)
+  - <sub>Keywords: <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
