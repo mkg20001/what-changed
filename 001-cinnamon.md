@@ -23,7 +23,10 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.1...HEAD)
 
 - [ ] [<code>debian/control: Add colord dependency.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9ad239e64d87e89446abafe0d96bb757ce596ea0)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dc0679ecbd0d4103356ab9129b0adae67fc8b483)
+  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
@@ -63,6 +66,10 @@
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.7.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.7.9...HEAD)
 
 - [ ] [<code>Update Visual Studio Code and Visual Studio Code Insiders icons (#448)</code>](https://github.com/linuxmint/mint-y-icons/commit/7d589356396527ab445928e85639aad0452b174a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix broken links (#449)</code>](https://github.com/linuxmint/mint-y-icons/commit/0091b17151d022e07ef5a21ae34459e4d61dad9e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Scratch and Notion icons (#451)</code>](https://github.com/linuxmint/mint-y-icons/commit/b032f2635a8c1b99c7d80070a82cb26ac3c70cc1)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
