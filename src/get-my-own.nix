@@ -97,7 +97,7 @@ d = rec {
     case = lib.filter f wc;
   });
 
-  is_cinnamon = { attr_path, ... }: lib.hasPrefix "cinnamon." attr_path;
+  is_cinnamon = { attr_path, src_url, home_url, ... }: lib.hasPrefix "cinnamon-" attr_path || (src_url != null && lib.hasPrefix "https://github.com/linuxmint" src_url) || (home_url != null && lib.hasPrefix "https://github.com/linuxmint" home_url);
   is_openwrt = { src_url, ... }: src_url != null && lib.hasPrefix "https://git.openwrt.org/" src_url;
 
   out = {
