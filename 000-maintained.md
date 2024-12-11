@@ -283,6 +283,8 @@
 - [ ] [<code>refactor: Implement own adaptive dialogs and remove package</code>](https://github.com/krille-chan/fluffychat/commit/8819c40ebd05ce31361996b1fa0f1dbaafd7643c)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up new dialogs</code>](https://github.com/krille-chan/fluffychat/commit/21be49c5c0d8e1283bad162eba4358b2d5baba22)
+- [ ] [<code>chore: Improve alias UX in chat settings</code>](https://github.com/krille-chan/fluffychat/commit/7ec39a1c6e1794f79175ab1dde56bb5eb23cf404)
+- [ ] [<code>fix: Wrong sorted imports</code>](https://github.com/krille-chan/fluffychat/commit/96fc964cd1c3643cc0d4c91bb0d269d48329e4a4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.22.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.22.1...HEAD)
 
@@ -472,6 +474,8 @@
 - [ ] [<code>refactor: Implement own adaptive dialogs and remove package</code>](https://github.com/krille-chan/fluffychat/commit/8819c40ebd05ce31361996b1fa0f1dbaafd7643c)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up new dialogs</code>](https://github.com/krille-chan/fluffychat/commit/21be49c5c0d8e1283bad162eba4358b2d5baba22)
+- [ ] [<code>chore: Improve alias UX in chat settings</code>](https://github.com/krille-chan/fluffychat/commit/7ec39a1c6e1794f79175ab1dde56bb5eb23cf404)
+- [ ] [<code>fix: Wrong sorted imports</code>](https://github.com/krille-chan/fluffychat/commit/96fc964cd1c3643cc0d4c91bb0d269d48329e4a4)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -682,6 +686,8 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/daemon_images: Fix error string typo for OCI connect errors</code>](https://github.com/lxc/incus/commit/9583797caeae0302a7cd8d02a4cfab6a40593be4)
 - [ ] [<code>incusd/scriptlet: Add function args checks in scriptlet validation</code>](https://github.com/lxc/incus/commit/5b902713b8116a27b59f67cb91993cc0c68a6712)
+- [ ] [<code>incus/project: Fix get-current for default (unset) project</code>](https://github.com/lxc/incus/commit/0570f404b568d28713c66a41cfc312f15ec31875)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2410,6 +2416,8 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/daemon_images: Fix error string typo for OCI connect errors</code>](https://github.com/lxc/incus/commit/9583797caeae0302a7cd8d02a4cfab6a40593be4)
 - [ ] [<code>incusd/scriptlet: Add function args checks in scriptlet validation</code>](https://github.com/lxc/incus/commit/5b902713b8116a27b59f67cb91993cc0c68a6712)
+- [ ] [<code>incus/project: Fix get-current for default (unset) project</code>](https://github.com/lxc/incus/commit/0570f404b568d28713c66a41cfc312f15ec31875)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3679,6 +3687,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: v1.15.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b4e2ba565c88555e9e2536f8c4b8297ab440e4c)
   - <sub>Tags: <code>v1.15.0</code></sub>
+- [ ] [<code>refactor(lib): clean up bluer backend</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0027345fb05bea1a0d9732dcd0bd636ac0d9e321)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
