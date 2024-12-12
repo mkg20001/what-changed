@@ -346,6 +346,16 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/dd23d99199028bcf5a66747407ea3e8cce9638ea)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0e0103e585d01cf067f46e4292414cc6bd7f506b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>internal/cmd: Have RenderTable take in an io.Writer</code>](https://github.com/lxc/incus/commit/956fba99ebefedb8b87be00585f6d5790a66742e)
+- [ ] [<code>incus: Update for RenderTable</code>](https://github.com/lxc/incus/commit/9979fef1dd73e61b09ff567185a42a665daefb06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Update for RenderTable</code>](https://github.com/lxc/incus/commit/30d1aef5f349b4d021afde71487a86599e56d413)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for RenderTable</code>](https://github.com/lxc/incus/commit/3f38d018f8d90f9b5f812eb96d96b1d8339b388d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Cleanup in cmdClusterListDatabase</code>](https://github.com/lxc/incus/commit/4fa895627113c70e9b5769c0972517038c1275a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/reference/network_bridge: Add missing backsticks for variable escaping</code>](https://github.com/lxc/incus/commit/9ef126562fe67880b7f045246fb276205608a0d0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2084,6 +2094,16 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/dd23d99199028bcf5a66747407ea3e8cce9638ea)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0e0103e585d01cf067f46e4292414cc6bd7f506b)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>internal/cmd: Have RenderTable take in an io.Writer</code>](https://github.com/lxc/incus/commit/956fba99ebefedb8b87be00585f6d5790a66742e)
+- [ ] [<code>incus: Update for RenderTable</code>](https://github.com/lxc/incus/commit/9979fef1dd73e61b09ff567185a42a665daefb06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Update for RenderTable</code>](https://github.com/lxc/incus/commit/30d1aef5f349b4d021afde71487a86599e56d413)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for RenderTable</code>](https://github.com/lxc/incus/commit/3f38d018f8d90f9b5f812eb96d96b1d8339b388d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Cleanup in cmdClusterListDatabase</code>](https://github.com/lxc/incus/commit/4fa895627113c70e9b5769c0972517038c1275a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/reference/network_bridge: Add missing backsticks for variable escaping</code>](https://github.com/lxc/incus/commit/9ef126562fe67880b7f045246fb276205608a0d0)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3592,6 +3612,8 @@
 - [ ] [<code>struct: do not use global variables for caching types</code>](https://github.com/jow-/ucode/commit/efc4122124cb7a4a86c0fd6ece4e7d86b8ab00b6)
 - [ ] [<code>vm: fix inverted condition in uc_vm_signal_handlers_setup()</code>](https://github.com/jow-/ucode/commit/a362263595e6e4c22f3bc1882a8dd58034f8493b)
 - [ ] [<code>tests: adjust testcases after previous commit</code>](https://github.com/jow-/ucode/commit/1b8660d33fb7eae7b8f66aa78098ffe8c3de0689)
+- [ ] [<code>main: fix crash on printing -p output</code>](https://github.com/jow-/ucode/commit/4efad5388184a2fd76957f0300eeab1a3b1eee2f)
+- [ ] [<code>vm: close signal pipe in uc_vm_signal_handlers_reset()</code>](https://github.com/jow-/ucode/commit/0b80ceb29311b7eccce9d318e5315e5d88d29c28)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
