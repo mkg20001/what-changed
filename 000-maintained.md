@@ -59,6 +59,8 @@
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [ab5d44d594d68d106aafb511252a94a24e94d601 → HEAD](https://github.com/canonical/firmware-updater/compare/ab5d44d594d68d106aafb511252a94a24e94d601...HEAD)
 
+- [ ] [<code>chore(deps): update peter-evans/create-pull-request action to v7</code>](https://github.com/canonical/firmware-updater/commit/ee9b143336d3c35e8f13989510d8e7869c835123)
+- [ ] [<code>chore(deps): update peter-evans/create-pull-request action to v7 (#299)</code>](https://github.com/canonical/firmware-updater/commit/6b7e4cddba74721aa62dfd43f9307aebf5ff30af)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -356,6 +358,14 @@
 - [ ] [<code>incusd: Cleanup in cmdClusterListDatabase</code>](https://github.com/lxc/incus/commit/4fa895627113c70e9b5769c0972517038c1275a8)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc/reference/network_bridge: Add missing backsticks for variable escaping</code>](https://github.com/lxc/incus/commit/9ef126562fe67880b7f045246fb276205608a0d0)
+- [ ] [<code>incusd/instance/lxc: Skip instances without idmap allocation yet</code>](https://github.com/lxc/incus/commit/26ff7097655c41b91c0eefcba2853c19901f87b2)
+- [ ] [<code>incusd/cluster: Skip project restrictions during join</code>](https://github.com/lxc/incus/commit/1d86e789c0080b76b7ef4ff818a4c424dc5b382f)
+- [ ] [<code>shared/ask: Add AskPassword/AskPasswordOnce to Asker</code>](https://github.com/lxc/incus/commit/01c9f83e8e9c53988bc78261fbf530434c93bd94)
+- [ ] [<code>shared/ask: Fix redefinition of the built-in types</code>](https://github.com/lxc/incus/commit/648fc5ec571e810aa5c38e1240ab1349e63401fb)
+- [ ] [<code>cmd/incus: Use AskPasswordOnce from asker</code>](https://github.com/lxc/incus/commit/b779e461d20abc0e13c51a8335dea42ba7337675)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/drivers/common: Truncate/Discard ahead of sparse write</code>](https://github.com/lxc/incus/commit/c9a1dfdb467c9873aa80eb75524e7fc74ce090e2)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2104,6 +2114,14 @@
 - [ ] [<code>incusd: Cleanup in cmdClusterListDatabase</code>](https://github.com/lxc/incus/commit/4fa895627113c70e9b5769c0972517038c1275a8)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc/reference/network_bridge: Add missing backsticks for variable escaping</code>](https://github.com/lxc/incus/commit/9ef126562fe67880b7f045246fb276205608a0d0)
+- [ ] [<code>incusd/instance/lxc: Skip instances without idmap allocation yet</code>](https://github.com/lxc/incus/commit/26ff7097655c41b91c0eefcba2853c19901f87b2)
+- [ ] [<code>incusd/cluster: Skip project restrictions during join</code>](https://github.com/lxc/incus/commit/1d86e789c0080b76b7ef4ff818a4c424dc5b382f)
+- [ ] [<code>shared/ask: Add AskPassword/AskPasswordOnce to Asker</code>](https://github.com/lxc/incus/commit/01c9f83e8e9c53988bc78261fbf530434c93bd94)
+- [ ] [<code>shared/ask: Fix redefinition of the built-in types</code>](https://github.com/lxc/incus/commit/648fc5ec571e810aa5c38e1240ab1349e63401fb)
+- [ ] [<code>cmd/incus: Use AskPasswordOnce from asker</code>](https://github.com/lxc/incus/commit/b779e461d20abc0e13c51a8335dea42ba7337675)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/drivers/common: Truncate/Discard ahead of sparse write</code>](https://github.com/lxc/incus/commit/c9a1dfdb467c9873aa80eb75524e7fc74ce090e2)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2268,6 +2286,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Clean ci-unix-static-sanitized.yml (#2517)</code>](https://github.com/AOMediaCodec/libavif/commit/37cb0bf57d4b247cf995f965b6cfdab3886ec68a)
   - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Remove AVIF_ENABLE_GAIN_MAP flag. (#2516)</code>](https://github.com/AOMediaCodec/libavif/commit/260879ce2383da96de411d440ed6adf9ea98bfe6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
