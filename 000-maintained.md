@@ -366,6 +366,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage/drivers/common: Truncate/Discard ahead of sparse write</code>](https://github.com/lxc/incus/commit/c9a1dfdb467c9873aa80eb75524e7fc74ce090e2)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>inucsd: Add additional check to Cancel method for ConsoleShow operation</code>](https://github.com/lxc/incus/commit/926009fad217dfdc55e498f739ccf59c13d68427)
+- [ ] [<code>incusd/instance_console: Remove redundant (and unsafe) write</code>](https://github.com/lxc/incus/commit/2a58e253129851ad1ee8c2ab2822ea7e6714f54a)
+- [ ] [<code>incus/console: Make sure we leave the console in a clean state</code>](https://github.com/lxc/incus/commit/c1458ca06b2af583604b3a43f8cc8f2cb5715f7d)
+- [ ] [<code>incusd/instance_console: Don't fail on failure to write reset sequence</code>](https://github.com/lxc/incus/commit/9485a99f54e876d960c964956943baae036484fa)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2122,6 +2126,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage/drivers/common: Truncate/Discard ahead of sparse write</code>](https://github.com/lxc/incus/commit/c9a1dfdb467c9873aa80eb75524e7fc74ce090e2)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>inucsd: Add additional check to Cancel method for ConsoleShow operation</code>](https://github.com/lxc/incus/commit/926009fad217dfdc55e498f739ccf59c13d68427)
+- [ ] [<code>incusd/instance_console: Remove redundant (and unsafe) write</code>](https://github.com/lxc/incus/commit/2a58e253129851ad1ee8c2ab2822ea7e6714f54a)
+- [ ] [<code>incus/console: Make sure we leave the console in a clean state</code>](https://github.com/lxc/incus/commit/c1458ca06b2af583604b3a43f8cc8f2cb5715f7d)
+- [ ] [<code>incusd/instance_console: Don't fail on failure to write reset sequence</code>](https://github.com/lxc/incus/commit/9485a99f54e876d960c964956943baae036484fa)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
