@@ -31,6 +31,7 @@
 - [ ] [<code>nixos: correctly handle 24.11</code>](https://github.com/lxc/distrobuilder/commit/e2a2567a5bb0e5d26460a101bbddfbbe0f3788ef)
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/319f29f992efc1a71eddff832842172b61852ada)
 - [ ] [<code>lxc.generator: Workaround issue with nsresourced</code>](https://github.com/lxc/distrobuilder/commit/4937e157abcdbc55ad9f2c5a58bb827356d4ec8c)
+- [ ] [<code>lxc.generator: Fix systemd-networkd on recent distros</code>](https://github.com/lxc/distrobuilder/commit/fc122ca7d03bfc6335280e1c5a75a5dca8e6369e)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -370,6 +371,15 @@
 - [ ] [<code>incusd/instance_console: Remove redundant (and unsafe) write</code>](https://github.com/lxc/incus/commit/2a58e253129851ad1ee8c2ab2822ea7e6714f54a)
 - [ ] [<code>incus/console: Make sure we leave the console in a clean state</code>](https://github.com/lxc/incus/commit/c1458ca06b2af583604b3a43f8cc8f2cb5715f7d)
 - [ ] [<code>incusd/instance_console: Don't fail on failure to write reset sequence</code>](https://github.com/lxc/incus/commit/9485a99f54e876d960c964956943baae036484fa)
+- [ ] [<code>client: Improve SFTP performance</code>](https://github.com/lxc/incus/commit/eaa0040dd58ed82b63fc69197cc50a36889c605b)
+- [ ] [<code>incusd/main_forkfile: Improve SFTP performance</code>](https://github.com/lxc/incus/commit/042132a48bc997c645d97331a71f1db233cf3834)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Return ErrTooMany when getting multiple records</code>](https://github.com/lxc/incus/commit/6417fdee0a806ae5fa767b470ad3cae730a0549a)
+- [ ] [<code>incusd/network/ovn: Clear all existing records</code>](https://github.com/lxc/incus/commit/cf4fcf192a5bb182e18c268fdc98adc1bef1df65)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/dfe8f198038f5db75e05cb15b41f5316b84e31d8)
+- [ ] [<code>incusd/instance_post: Expand profiles in scriptlet context</code>](https://github.com/lxc/incus/commit/98099c34eecbb11ccbb589309a19727ce625e88a)
+- [ ] [<code>Release Incus 6.8</code>](https://github.com/lxc/incus/commit/a3e83b529bc597b8be1cdb45ffdbdefe8574e0af)
+  - <sub>Tags: <code>v6.8.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2130,6 +2140,15 @@
 - [ ] [<code>incusd/instance_console: Remove redundant (and unsafe) write</code>](https://github.com/lxc/incus/commit/2a58e253129851ad1ee8c2ab2822ea7e6714f54a)
 - [ ] [<code>incus/console: Make sure we leave the console in a clean state</code>](https://github.com/lxc/incus/commit/c1458ca06b2af583604b3a43f8cc8f2cb5715f7d)
 - [ ] [<code>incusd/instance_console: Don't fail on failure to write reset sequence</code>](https://github.com/lxc/incus/commit/9485a99f54e876d960c964956943baae036484fa)
+- [ ] [<code>client: Improve SFTP performance</code>](https://github.com/lxc/incus/commit/eaa0040dd58ed82b63fc69197cc50a36889c605b)
+- [ ] [<code>incusd/main_forkfile: Improve SFTP performance</code>](https://github.com/lxc/incus/commit/042132a48bc997c645d97331a71f1db233cf3834)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Return ErrTooMany when getting multiple records</code>](https://github.com/lxc/incus/commit/6417fdee0a806ae5fa767b470ad3cae730a0549a)
+- [ ] [<code>incusd/network/ovn: Clear all existing records</code>](https://github.com/lxc/incus/commit/cf4fcf192a5bb182e18c268fdc98adc1bef1df65)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/dfe8f198038f5db75e05cb15b41f5316b84e31d8)
+- [ ] [<code>incusd/instance_post: Expand profiles in scriptlet context</code>](https://github.com/lxc/incus/commit/98099c34eecbb11ccbb589309a19727ce625e88a)
+- [ ] [<code>Release Incus 6.8</code>](https://github.com/lxc/incus/commit/a3e83b529bc597b8be1cdb45ffdbdefe8574e0af)
+  - <sub>Tags: <code>v6.8.0</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2347,6 +2366,7 @@
 - [ ] [<code>meson: fix minor typo</code>](https://github.com/lxc/lxc/commit/d03cb0aca3cb6fc6d3695c8283263893aaf15080)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxc-net: Replace random IPv6 subnet</code>](https://github.com/lxc/lxc/commit/31012d49a50eca8927ff2c6f1d9bdafc4c8a79d8)
+- [ ] [<code>lxccontainer: fix enter_net_ns helper to work when netns is inherited</code>](https://github.com/lxc/lxc/commit/87dcdecf524bc3218b9380dab696ff4a153dfbe0)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
@@ -3403,6 +3423,14 @@
 - [ ] [<code>build: v1.15.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b4e2ba565c88555e9e2536f8c4b8297ab440e4c)
   - <sub>Tags: <code>v1.15.0</code></sub>
 - [ ] [<code>refactor(lib): clean up bluer backend</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0027345fb05bea1a0d9732dcd0bd636ac0d9e321)
+- [ ] [<code>fix(lib): gatt services not discovered on linux</code>](https://github.com/Oppzippy/OpenSCQ30/commit/04fe8285a472a7aeda76e737c585d869d5fa67e7)
+- [ ] [<code>refactor(lib): make functions private</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6cc2a4ba49b346e45fbae74dba06bd6f2a92c35e)
+- [ ] [<code>fix(lib): wait for services to be discovered</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8cd382ed6352aece864b759cd3142f9a7816968a)
+- [ ] [<code>refactor(lib): change default linux backend to bluer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5f889309ae86037c60951ded04d71d3aefb9f34c)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aa98b026145fc7d05959eda4732ec25f9cdf6ca5)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: install just from apt rather than snap</code>](https://github.com/Oppzippy/OpenSCQ30/commit/934538ec881f9d8bd3373e9dd99e93a4ee6584ea)
+- [ ] [<code>feat: add game mode button action</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc30e4c71cd1ccf75f5df18f6cc3f6180777c78a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3642,6 +3670,7 @@
 - [ ] [<code>tests: adjust testcases after previous commit</code>](https://github.com/jow-/ucode/commit/1b8660d33fb7eae7b8f66aa78098ffe8c3de0689)
 - [ ] [<code>main: fix crash on printing -p output</code>](https://github.com/jow-/ucode/commit/4efad5388184a2fd76957f0300eeab1a3b1eee2f)
 - [ ] [<code>vm: close signal pipe in uc_vm_signal_handlers_reset()</code>](https://github.com/jow-/ucode/commit/0b80ceb29311b7eccce9d318e5315e5d88d29c28)
+- [ ] [<code>uci: eliminate usage of global variables</code>](https://github.com/jow-/ucode/commit/175686c97d828bae2eef81cc9b7b2daa457af04d)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
