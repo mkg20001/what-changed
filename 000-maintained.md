@@ -380,6 +380,8 @@
 - [ ] [<code>incusd/instance_post: Expand profiles in scriptlet context</code>](https://github.com/lxc/incus/commit/98099c34eecbb11ccbb589309a19727ce625e88a)
 - [ ] [<code>Release Incus 6.8</code>](https://github.com/lxc/incus/commit/a3e83b529bc597b8be1cdb45ffdbdefe8574e0af)
   - <sub>Tags: <code>v6.8.0</code></sub>
+- [ ] [<code>incusd/scriptlet: Refactor load package</code>](https://github.com/lxc/incus/commit/564b775c8a5a8ac1aeb5103bf1c64482ad89854e)
+- [ ] [<code>incusd/scriptlet: Add support for checking optional functions and improve error messages</code>](https://github.com/lxc/incus/commit/ab51fa6dad4ae496d76d93e63a4e5b32cb7c1bc9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2149,6 +2151,8 @@
 - [ ] [<code>incusd/instance_post: Expand profiles in scriptlet context</code>](https://github.com/lxc/incus/commit/98099c34eecbb11ccbb589309a19727ce625e88a)
 - [ ] [<code>Release Incus 6.8</code>](https://github.com/lxc/incus/commit/a3e83b529bc597b8be1cdb45ffdbdefe8574e0af)
   - <sub>Tags: <code>v6.8.0</code></sub>
+- [ ] [<code>incusd/scriptlet: Refactor load package</code>](https://github.com/lxc/incus/commit/564b775c8a5a8ac1aeb5103bf1c64482ad89854e)
+- [ ] [<code>incusd/scriptlet: Add support for checking optional functions and improve error messages</code>](https://github.com/lxc/incus/commit/ab51fa6dad4ae496d76d93e63a4e5b32cb7c1bc9)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
