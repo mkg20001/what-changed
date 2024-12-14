@@ -97,6 +97,8 @@
 - [ ] [<code>chore: Follow up new dialogs</code>](https://github.com/krille-chan/fluffychat/commit/21be49c5c0d8e1283bad162eba4358b2d5baba22)
 - [ ] [<code>chore: Improve alias UX in chat settings</code>](https://github.com/krille-chan/fluffychat/commit/7ec39a1c6e1794f79175ab1dde56bb5eb23cf404)
 - [ ] [<code>fix: Wrong sorted imports</code>](https://github.com/krille-chan/fluffychat/commit/96fc964cd1c3643cc0d4c91bb0d269d48329e4a4)
+- [ ] [<code>feat: QR Code viewer for mxid sharing</code>](https://github.com/krille-chan/fluffychat/commit/dbf3eccc93c5d5b3c3a7fcee274c7cfb1c9a576d)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -129,6 +131,8 @@
 - [ ] [<code>chore: Follow up new dialogs</code>](https://github.com/krille-chan/fluffychat/commit/21be49c5c0d8e1283bad162eba4358b2d5baba22)
 - [ ] [<code>chore: Improve alias UX in chat settings</code>](https://github.com/krille-chan/fluffychat/commit/7ec39a1c6e1794f79175ab1dde56bb5eb23cf404)
 - [ ] [<code>fix: Wrong sorted imports</code>](https://github.com/krille-chan/fluffychat/commit/96fc964cd1c3643cc0d4c91bb0d269d48329e4a4)
+- [ ] [<code>feat: QR Code viewer for mxid sharing</code>](https://github.com/krille-chan/fluffychat/commit/dbf3eccc93c5d5b3c3a7fcee274c7cfb1c9a576d)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2095,6 +2099,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Change the way brew python is updated</code>](https://github.com/AOMediaCodec/libavif/commit/03d5e3866479ef77451c4c6e6e14b00e7eade596)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Bump libxml2 to v2.13.5</code>](https://github.com/AOMediaCodec/libavif/commit/398777c46e9dd0e81ce7ea3c32929566a3c863af)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3213,6 +3218,12 @@
 - [ ] [<code>feat: add game mode button action</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc30e4c71cd1ccf75f5df18f6cc3f6180777c78a)
 - [ ] [<code>build: v1.16.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/58eb79a27b9aff233ee8b1ac55d22e7b3f626ff7)
   - <sub>Tags: <code>v1.16.0</code></sub>
+- [ ] [<code>fix(lib): warning about game mode update packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/61534fe713d716db5a743277cbc03cfca864c91f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(android): run ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2c4bd4f6c28d698d901b2bfd23c91238aa45e227)
+- [ ] [<code>fix(android): device filtering case sensitivity</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc70ca60432efdbe11e1616ccfc5f228d101e7fc)
+- [ ] [<code>build: v1.16.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/25dbce563baf3ac26ca928192deca3a66db44bb6)
+  - <sub>Tags: <code>v1.16.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
