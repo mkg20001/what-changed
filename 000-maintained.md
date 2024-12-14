@@ -2319,6 +2319,8 @@
   - <sub>Keywords: <code>find_package</code></sub>
 - [ ] [<code>Remove AVIF_ENABLE_GAIN_MAP flag. (#2516)</code>](https://github.com/AOMediaCodec/libavif/commit/260879ce2383da96de411d440ed6adf9ea98bfe6)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Change the way brew python is updated</code>](https://github.com/AOMediaCodec/libavif/commit/03d5e3866479ef77451c4c6e6e14b00e7eade596)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3435,6 +3437,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>ci: install just from apt rather than snap</code>](https://github.com/Oppzippy/OpenSCQ30/commit/934538ec881f9d8bd3373e9dd99e93a4ee6584ea)
 - [ ] [<code>feat: add game mode button action</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc30e4c71cd1ccf75f5df18f6cc3f6180777c78a)
+- [ ] [<code>build: v1.16.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/58eb79a27b9aff233ee8b1ac55d22e7b3f626ff7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
