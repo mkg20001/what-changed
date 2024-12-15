@@ -3224,6 +3224,11 @@
 - [ ] [<code>fix(android): device filtering case sensitivity</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc70ca60432efdbe11e1616ccfc5f228d101e7fc)
 - [ ] [<code>build: v1.16.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/25dbce563baf3ac26ca928192deca3a66db44bb6)
   - <sub>Tags: <code>v1.16.1</code></sub>
+- [ ] [<code>fix(lib): update mac addresses</code>](https://github.com/Oppzippy/OpenSCQ30/commit/29acd648b75e0afe4d1dd5a7f03c2d51f0d5dca1)
+- [ ] [<code>feat(android): add unfiltered device scan option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2e5895c7de984a9446b65dc6cf87199e38890368)
+- [ ] [<code>feat(web): add unfiltered device scan option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86367c0b118af38594d76e7372537e10ebb5501f)
+- [ ] [<code>fix(web): unfiltered button is filtering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ccc4eeb3082e2f1f100d132c2f85e6139fd6f309)
+- [ ] [<code>test(web): fix non exact match now matching Select Device (Unfiltered)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1396544d3bc6c0e04c8319a4cc1a8d9d7f67e446)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
