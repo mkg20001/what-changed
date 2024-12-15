@@ -99,6 +99,10 @@
 - [ ] [<code>fix: Wrong sorted imports</code>](https://github.com/krille-chan/fluffychat/commit/96fc964cd1c3643cc0d4c91bb0d269d48329e4a4)
 - [ ] [<code>feat: QR Code viewer for mxid sharing</code>](https://github.com/krille-chan/fluffychat/commit/dbf3eccc93c5d5b3c3a7fcee274c7cfb1c9a576d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up qr code buttons</code>](https://github.com/krille-chan/fluffychat/commit/21196a108fd1ea84ae53493fe9449345546ef785)
+- [ ] [<code>build: Update to flutter 3.27</code>](https://github.com/krille-chan/fluffychat/commit/dbe8c1b9f4c405dc0e20a64022a57f69ff0ebd87)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up bottomsheets</code>](https://github.com/krille-chan/fluffychat/commit/24b4e8157cdfc6a65fe3ad11b1f945acf00bca52)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -133,6 +137,10 @@
 - [ ] [<code>fix: Wrong sorted imports</code>](https://github.com/krille-chan/fluffychat/commit/96fc964cd1c3643cc0d4c91bb0d269d48329e4a4)
 - [ ] [<code>feat: QR Code viewer for mxid sharing</code>](https://github.com/krille-chan/fluffychat/commit/dbf3eccc93c5d5b3c3a7fcee274c7cfb1c9a576d)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up qr code buttons</code>](https://github.com/krille-chan/fluffychat/commit/21196a108fd1ea84ae53493fe9449345546ef785)
+- [ ] [<code>build: Update to flutter 3.27</code>](https://github.com/krille-chan/fluffychat/commit/dbe8c1b9f4c405dc0e20a64022a57f69ff0ebd87)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up bottomsheets</code>](https://github.com/krille-chan/fluffychat/commit/24b4e8157cdfc6a65fe3ad11b1f945acf00bca52)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
