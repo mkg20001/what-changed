@@ -168,6 +168,8 @@
 
 - [ ] [<code>incusd/scriptlet: Refactor load package</code>](https://github.com/lxc/incus/commit/564b775c8a5a8ac1aeb5103bf1c64482ad89854e)
 - [ ] [<code>incusd/scriptlet: Add support for checking optional functions and improve error messages</code>](https://github.com/lxc/incus/commit/ab51fa6dad4ae496d76d93e63a4e5b32cb7c1bc9)
+- [ ] [<code>incusd/storage/drivers: Force blkdiscard and ignore errors</code>](https://github.com/lxc/incus/commit/3f4b221b911b2d0248540e3f7484540f4b04b657)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1939,6 +1941,8 @@
   - <sub>Tags: <code>v6.8.0</code></sub>
 - [ ] [<code>incusd/scriptlet: Refactor load package</code>](https://github.com/lxc/incus/commit/564b775c8a5a8ac1aeb5103bf1c64482ad89854e)
 - [ ] [<code>incusd/scriptlet: Add support for checking optional functions and improve error messages</code>](https://github.com/lxc/incus/commit/ab51fa6dad4ae496d76d93e63a4e5b32cb7c1bc9)
+- [ ] [<code>incusd/storage/drivers: Force blkdiscard and ignore errors</code>](https://github.com/lxc/incus/commit/3f4b221b911b2d0248540e3f7484540f4b04b657)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3237,6 +3241,8 @@
 - [ ] [<code>feat(web): add unfiltered device scan option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86367c0b118af38594d76e7372537e10ebb5501f)
 - [ ] [<code>fix(web): unfiltered button is filtering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ccc4eeb3082e2f1f100d132c2f85e6139fd6f309)
 - [ ] [<code>test(web): fix non exact match now matching Select Device (Unfiltered)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1396544d3bc6c0e04c8319a4cc1a8d9d7f67e446)
+- [ ] [<code>build: v1.17.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f171126fb580bf3785d0096e730b26f1b3fb33a3)
+  - <sub>Tags: <code>v1.17.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
