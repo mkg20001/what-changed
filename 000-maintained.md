@@ -103,6 +103,7 @@
 - [ ] [<code>build: Update to flutter 3.27</code>](https://github.com/krille-chan/fluffychat/commit/dbe8c1b9f4c405dc0e20a64022a57f69ff0ebd87)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up bottomsheets</code>](https://github.com/krille-chan/fluffychat/commit/24b4e8157cdfc6a65fe3ad11b1f945acf00bca52)
+- [ ] [<code>chore: Make message bubble color dark also in dark mode</code>](https://github.com/krille-chan/fluffychat/commit/7b1d46aa18520f5b176e973e66324390ae753f35)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -141,6 +142,7 @@
 - [ ] [<code>build: Update to flutter 3.27</code>](https://github.com/krille-chan/fluffychat/commit/dbe8c1b9f4c405dc0e20a64022a57f69ff0ebd87)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up bottomsheets</code>](https://github.com/krille-chan/fluffychat/commit/24b4e8157cdfc6a65fe3ad11b1f945acf00bca52)
+- [ ] [<code>chore: Make message bubble color dark also in dark mode</code>](https://github.com/krille-chan/fluffychat/commit/7b1d46aa18520f5b176e973e66324390ae753f35)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -170,6 +172,7 @@
 - [ ] [<code>incusd/scriptlet: Add support for checking optional functions and improve error messages</code>](https://github.com/lxc/incus/commit/ab51fa6dad4ae496d76d93e63a4e5b32cb7c1bc9)
 - [ ] [<code>incusd/storage/drivers: Force blkdiscard and ignore errors</code>](https://github.com/lxc/incus/commit/3f4b221b911b2d0248540e3f7484540f4b04b657)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/auth: fix FGA online data race</code>](https://github.com/lxc/incus/commit/465af0b63e08435618b99cbe116d05e1150c503e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1943,6 +1946,7 @@
 - [ ] [<code>incusd/scriptlet: Add support for checking optional functions and improve error messages</code>](https://github.com/lxc/incus/commit/ab51fa6dad4ae496d76d93e63a4e5b32cb7c1bc9)
 - [ ] [<code>incusd/storage/drivers: Force blkdiscard and ignore errors</code>](https://github.com/lxc/incus/commit/3f4b221b911b2d0248540e3f7484540f4b04b657)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/auth: fix FGA online data race</code>](https://github.com/lxc/incus/commit/465af0b63e08435618b99cbe116d05e1150c503e)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2112,6 +2116,7 @@
 - [ ] [<code>Change the way brew python is updated</code>](https://github.com/AOMediaCodec/libavif/commit/03d5e3866479ef77451c4c6e6e14b00e7eade596)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Bump libxml2 to v2.13.5</code>](https://github.com/AOMediaCodec/libavif/commit/398777c46e9dd0e81ce7ea3c32929566a3c863af)
+- [ ] [<code>Eradicate AVIF_ENABLE_EXPERIMENTAL_GAIN_MAP</code>](https://github.com/AOMediaCodec/libavif/commit/f439662a8137cd0c9710eeedc66001ed6fabeafe)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
