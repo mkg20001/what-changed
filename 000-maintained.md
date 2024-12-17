@@ -173,6 +173,8 @@
 - [ ] [<code>incusd/storage/drivers: Force blkdiscard and ignore errors</code>](https://github.com/lxc/incus/commit/3f4b221b911b2d0248540e3f7484540f4b04b657)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/auth: fix FGA online data race</code>](https://github.com/lxc/incus/commit/465af0b63e08435618b99cbe116d05e1150c503e)
+- [ ] [<code>incusd/storage/drivers: Log on blkdiscard failure</code>](https://github.com/lxc/incus/commit/82abc253b54648a043eca0fe92120897266a5f24)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1947,6 +1949,8 @@
 - [ ] [<code>incusd/storage/drivers: Force blkdiscard and ignore errors</code>](https://github.com/lxc/incus/commit/3f4b221b911b2d0248540e3f7484540f4b04b657)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/auth: fix FGA online data race</code>](https://github.com/lxc/incus/commit/465af0b63e08435618b99cbe116d05e1150c503e)
+- [ ] [<code>incusd/storage/drivers: Log on blkdiscard failure</code>](https://github.com/lxc/incus/commit/82abc253b54648a043eca0fe92120897266a5f24)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2169,6 +2173,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxc-net: Replace random IPv6 subnet</code>](https://github.com/lxc/lxc/commit/31012d49a50eca8927ff2c6f1d9bdafc4c8a79d8)
 - [ ] [<code>lxccontainer: fix enter_net_ns helper to work when netns is inherited</code>](https://github.com/lxc/lxc/commit/87dcdecf524bc3218b9380dab696ff4a153dfbe0)
+- [ ] [<code>lxc.init: Switch to sigaction</code>](https://github.com/lxc/lxc/commit/c41c5ebfa80471d99f7d795f6fccf2fa2af39ea3)
+- [ ] [<code>lxc.init: Ignore user signals coming from inside the contianer</code>](https://github.com/lxc/lxc/commit/d25e7f30693b4c72b2fadd0503f65cdd0cac53b5)
+- [ ] [<code>lxc.init: Allow SIGHUP from outside the container</code>](https://github.com/lxc/lxc/commit/4527cec26bc6818404c4eb39dcebb6bea641e50b)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
