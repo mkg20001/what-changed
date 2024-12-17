@@ -4,6 +4,8 @@
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.2...HEAD)
 
+- [ ] [<code>theme: Fix missing text on virtual keyboard (#12572)</code>](https://github.com/linuxmint/cinnamon/commit/6029c9a0113930f69417d7d67320f1e12f8770d5)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
