@@ -52,6 +52,8 @@
 - [ ] [<code>wireless: add support for adding a list of devices for a wifi-iface</code>](https://git.openwrt.org/project/netifd.git/commit/a39fe3a8b1506c5126ae7ac3007d4621898d05d8)
 - [ ] [<code>iprule: add ipproto property</code>](https://git.openwrt.org/project/netifd.git/commit/d29cf707478cfc5465fc8a7b8ccfde72a739a4f6)
 - [ ] [<code>system-linux: restore reading flags from netlink messages</code>](https://git.openwrt.org/project/netifd.git/commit/768027c5a7640137857f412f554227abd6160cdd)
+- [ ] [<code>interface: fix memleak and reload issue for the zone attribute</code>](https://git.openwrt.org/project/netifd.git/commit/058a099f5bc58c89b731218f6e9cc6ee76ba52c9)
+- [ ] [<code>interface: remove unnecessary NULL checks before free()</code>](https://git.openwrt.org/project/netifd.git/commit/ea01ed41f3212ecbe000422f3c122a01b93fe874)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
