@@ -175,6 +175,20 @@
 - [ ] [<code>incusd/auth: fix FGA online data race</code>](https://github.com/lxc/incus/commit/465af0b63e08435618b99cbe116d05e1150c503e)
 - [ ] [<code>incusd/storage/drivers: Log on blkdiscard failure</code>](https://github.com/lxc/incus/commit/82abc253b54648a043eca0fe92120897266a5f24)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add storage volume db entries when storage is changed</code>](https://github.com/lxc/incus/commit/facc626b4271e7639b017cb47dc339a70c3553ff)
+- [ ] [<code>api: network_ovn_state_addresses</code>](https://github.com/lxc/incus/commit/5708620e7f3fcbe3c02ab322c4f25cb59220e385)
+- [ ] [<code>shared/api: Expand OVN state with uplink addresses</code>](https://github.com/lxc/incus/commit/3630bc9b10fd0f2e09561b85d5412bf09def6b3b)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/db09955a1c89633aab7217b955aad9905ceead02)
+- [ ] [<code>internal/server: Add uplink addresses to ovn state</code>](https://github.com/lxc/incus/commit/5b42fbd5c2a168cd4dfdd12d9df3f80277d628b6)
+- [ ] [<code>incus/network/info: Add uplink addresses for ovn network</code>](https://github.com/lxc/incus/commit/b95cbd1a8709d5205de808fe315370ddb15769cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6712a8dd56660329db1f511ce9fd63322c430475)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Add --description flag to create commands</code>](https://github.com/lxc/incus/commit/c6af6339c21f47a88089014c094671116e0cc2a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e8ade86a58d2b063dabe59c38537c415442f3943)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add tests for --description flag on create commands</code>](https://github.com/lxc/incus/commit/b71c3abde333292913b8ce196bf056dd7255941c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1951,6 +1965,20 @@
 - [ ] [<code>incusd/auth: fix FGA online data race</code>](https://github.com/lxc/incus/commit/465af0b63e08435618b99cbe116d05e1150c503e)
 - [ ] [<code>incusd/storage/drivers: Log on blkdiscard failure</code>](https://github.com/lxc/incus/commit/82abc253b54648a043eca0fe92120897266a5f24)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add storage volume db entries when storage is changed</code>](https://github.com/lxc/incus/commit/facc626b4271e7639b017cb47dc339a70c3553ff)
+- [ ] [<code>api: network_ovn_state_addresses</code>](https://github.com/lxc/incus/commit/5708620e7f3fcbe3c02ab322c4f25cb59220e385)
+- [ ] [<code>shared/api: Expand OVN state with uplink addresses</code>](https://github.com/lxc/incus/commit/3630bc9b10fd0f2e09561b85d5412bf09def6b3b)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/db09955a1c89633aab7217b955aad9905ceead02)
+- [ ] [<code>internal/server: Add uplink addresses to ovn state</code>](https://github.com/lxc/incus/commit/5b42fbd5c2a168cd4dfdd12d9df3f80277d628b6)
+- [ ] [<code>incus/network/info: Add uplink addresses for ovn network</code>](https://github.com/lxc/incus/commit/b95cbd1a8709d5205de808fe315370ddb15769cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6712a8dd56660329db1f511ce9fd63322c430475)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Add --description flag to create commands</code>](https://github.com/lxc/incus/commit/c6af6339c21f47a88089014c094671116e0cc2a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e8ade86a58d2b063dabe59c38537c415442f3943)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add tests for --description flag on create commands</code>](https://github.com/lxc/incus/commit/b71c3abde333292913b8ce196bf056dd7255941c)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
