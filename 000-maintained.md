@@ -104,6 +104,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up bottomsheets</code>](https://github.com/krille-chan/fluffychat/commit/24b4e8157cdfc6a65fe3ad11b1f945acf00bca52)
 - [ ] [<code>chore: Make message bubble color dark also in dark mode</code>](https://github.com/krille-chan/fluffychat/commit/7b1d46aa18520f5b176e973e66324390ae753f35)
+- [ ] [<code>build: Deprecated web stuff</code>](https://github.com/krille-chan/fluffychat/commit/7aa960306e40cb9b4d70e16e91a7b1b72e3559cf)
+- [ ] [<code>build: Update matrix sdk and dependencies</code>](https://github.com/krille-chan/fluffychat/commit/c30e6c4aa20d0b41c7db62e78beb33fb7500c4fb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -143,6 +145,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up bottomsheets</code>](https://github.com/krille-chan/fluffychat/commit/24b4e8157cdfc6a65fe3ad11b1f945acf00bca52)
 - [ ] [<code>chore: Make message bubble color dark also in dark mode</code>](https://github.com/krille-chan/fluffychat/commit/7b1d46aa18520f5b176e973e66324390ae753f35)
+- [ ] [<code>build: Deprecated web stuff</code>](https://github.com/krille-chan/fluffychat/commit/7aa960306e40cb9b4d70e16e91a7b1b72e3559cf)
+- [ ] [<code>build: Update matrix sdk and dependencies</code>](https://github.com/krille-chan/fluffychat/commit/c30e6c4aa20d0b41c7db62e78beb33fb7500c4fb)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -176,6 +180,7 @@
 - [ ] [<code>incusd/storage/drivers: Log on blkdiscard failure</code>](https://github.com/lxc/incus/commit/82abc253b54648a043eca0fe92120897266a5f24)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage: Add storage volume db entries when storage is changed</code>](https://github.com/lxc/incus/commit/facc626b4271e7639b017cb47dc339a70c3553ff)
+- [ ] [<code>client: Propagate HTTP TLS dialer to websocket</code>](https://github.com/lxc/incus/commit/d00815e9c0cfb49897895c932ebdb07358aaa315)
 - [ ] [<code>api: network_ovn_state_addresses</code>](https://github.com/lxc/incus/commit/5708620e7f3fcbe3c02ab322c4f25cb59220e385)
 - [ ] [<code>shared/api: Expand OVN state with uplink addresses</code>](https://github.com/lxc/incus/commit/3630bc9b10fd0f2e09561b85d5412bf09def6b3b)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/db09955a1c89633aab7217b955aad9905ceead02)
@@ -189,6 +194,8 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e8ade86a58d2b063dabe59c38537c415442f3943)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>tests: Add tests for --description flag on create commands</code>](https://github.com/lxc/incus/commit/b71c3abde333292913b8ce196bf056dd7255941c)
+- [ ] [<code>incusd/scriptlet: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c8d33646768e383267a1393ca44551c4f705f76d)
+- [ ] [<code>doc: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c7d207a1d4bdd25a35d652ecb00278c90cd53433)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1966,6 +1973,7 @@
 - [ ] [<code>incusd/storage/drivers: Log on blkdiscard failure</code>](https://github.com/lxc/incus/commit/82abc253b54648a043eca0fe92120897266a5f24)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage: Add storage volume db entries when storage is changed</code>](https://github.com/lxc/incus/commit/facc626b4271e7639b017cb47dc339a70c3553ff)
+- [ ] [<code>client: Propagate HTTP TLS dialer to websocket</code>](https://github.com/lxc/incus/commit/d00815e9c0cfb49897895c932ebdb07358aaa315)
 - [ ] [<code>api: network_ovn_state_addresses</code>](https://github.com/lxc/incus/commit/5708620e7f3fcbe3c02ab322c4f25cb59220e385)
 - [ ] [<code>shared/api: Expand OVN state with uplink addresses</code>](https://github.com/lxc/incus/commit/3630bc9b10fd0f2e09561b85d5412bf09def6b3b)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/db09955a1c89633aab7217b955aad9905ceead02)
@@ -1979,6 +1987,8 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e8ade86a58d2b063dabe59c38537c415442f3943)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>tests: Add tests for --description flag on create commands</code>](https://github.com/lxc/incus/commit/b71c3abde333292913b8ce196bf056dd7255941c)
+- [ ] [<code>incusd/scriptlet: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c8d33646768e383267a1393ca44551c4f705f76d)
+- [ ] [<code>doc: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c7d207a1d4bdd25a35d652ecb00278c90cd53433)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2197,6 +2207,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>create_run_template: don't use txtuid and txtguid out of scope</code>](https://github.com/lxc/lxc/commit/d50ee6f7c4b4bf827ddc9a1314eb9a2d69b5bc2c)
 - [ ] [<code>Avoid null pointer dereference when using shared rootfs.</code>](https://github.com/lxc/lxc/commit/d5c2d1efff92b2b992f10b29bd459a4b07875025)
+- [ ] [<code>fix return code of recursive all of cgroup_tree_prune</code>](https://github.com/lxc/lxc/commit/f7c75853771b81500ca995eb497a6f0cb067a494)
 - [ ] [<code>meson: fix minor typo</code>](https://github.com/lxc/lxc/commit/d03cb0aca3cb6fc6d3695c8283263893aaf15080)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxc-net: Replace random IPv6 subnet</code>](https://github.com/lxc/lxc/commit/31012d49a50eca8927ff2c6f1d9bdafc4c8a79d8)
@@ -3283,6 +3294,8 @@
 - [ ] [<code>test(web): fix non exact match now matching Select Device (Unfiltered)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1396544d3bc6c0e04c8319a4cc1a8d9d7f67e446)
 - [ ] [<code>build: v1.17.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f171126fb580bf3785d0096e730b26f1b3fb33a3)
   - <sub>Tags: <code>v1.17.0</code></sub>
+- [ ] [<code>fix(android): scan for BLE devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f76a7759dd4dd6cd0135bd4866eb74b590085a24)
+- [ ] [<code>fix(lib): duplicate mac address listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c11755cdca9c16dfebfb103f02b70aca841a9bf6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3299,7 +3312,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.12.6.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.12.6.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.1...HEAD)
