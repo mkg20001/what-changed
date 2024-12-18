@@ -106,6 +106,7 @@
 - [ ] [<code>chore: Make message bubble color dark also in dark mode</code>](https://github.com/krille-chan/fluffychat/commit/7b1d46aa18520f5b176e973e66324390ae753f35)
 - [ ] [<code>build: Deprecated web stuff</code>](https://github.com/krille-chan/fluffychat/commit/7aa960306e40cb9b4d70e16e91a7b1b72e3559cf)
 - [ ] [<code>build: Update matrix sdk and dependencies</code>](https://github.com/krille-chan/fluffychat/commit/c30e6c4aa20d0b41c7db62e78beb33fb7500c4fb)
+- [ ] [<code>fix: Use MB and KB instead of MiB and KiB for file sizes</code>](https://github.com/krille-chan/fluffychat/commit/67dd7f7028e680bae169e5b28069ffd4bcba786e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -147,6 +148,7 @@
 - [ ] [<code>chore: Make message bubble color dark also in dark mode</code>](https://github.com/krille-chan/fluffychat/commit/7b1d46aa18520f5b176e973e66324390ae753f35)
 - [ ] [<code>build: Deprecated web stuff</code>](https://github.com/krille-chan/fluffychat/commit/7aa960306e40cb9b4d70e16e91a7b1b72e3559cf)
 - [ ] [<code>build: Update matrix sdk and dependencies</code>](https://github.com/krille-chan/fluffychat/commit/c30e6c4aa20d0b41c7db62e78beb33fb7500c4fb)
+- [ ] [<code>fix: Use MB and KB instead of MiB and KiB for file sizes</code>](https://github.com/krille-chan/fluffychat/commit/67dd7f7028e680bae169e5b28069ffd4bcba786e)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -196,6 +198,11 @@
 - [ ] [<code>tests: Add tests for --description flag on create commands</code>](https://github.com/lxc/incus/commit/b71c3abde333292913b8ce196bf056dd7255941c)
 - [ ] [<code>incusd/scriptlet: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c8d33646768e383267a1393ca44551c4f705f76d)
 - [ ] [<code>doc: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c7d207a1d4bdd25a35d652ecb00278c90cd53433)
+- [ ] [<code>Add simple shell.nix</code>](https://github.com/lxc/incus/commit/12e350a09bd4979229d16e1cc5acfded31d73eda)
+- [ ] [<code>client: Add proxy host to skopoe calls</code>](https://github.com/lxc/incus/commit/af45f3af38247a66417104cce6ab83a79ae0a07d)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/cluster: Add missing error handling</code>](https://github.com/lxc/incus/commit/8741ad43b4619012f8e3a88ca84c5d9524198115)
+- [ ] [<code>incusd/cluster: Clarify error on DB failure</code>](https://github.com/lxc/incus/commit/f2838e8eacffe5621f75f918064a2ee5fcfcfd44)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -1989,6 +1996,11 @@
 - [ ] [<code>tests: Add tests for --description flag on create commands</code>](https://github.com/lxc/incus/commit/b71c3abde333292913b8ce196bf056dd7255941c)
 - [ ] [<code>incusd/scriptlet: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c8d33646768e383267a1393ca44551c4f705f76d)
 - [ ] [<code>doc: Fix qemu_hook required argument</code>](https://github.com/lxc/incus/commit/c7d207a1d4bdd25a35d652ecb00278c90cd53433)
+- [ ] [<code>Add simple shell.nix</code>](https://github.com/lxc/incus/commit/12e350a09bd4979229d16e1cc5acfded31d73eda)
+- [ ] [<code>client: Add proxy host to skopoe calls</code>](https://github.com/lxc/incus/commit/af45f3af38247a66417104cce6ab83a79ae0a07d)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/cluster: Add missing error handling</code>](https://github.com/lxc/incus/commit/8741ad43b4619012f8e3a88ca84c5d9524198115)
+- [ ] [<code>incusd/cluster: Clarify error on DB failure</code>](https://github.com/lxc/incus/commit/f2838e8eacffe5621f75f918064a2ee5fcfcfd44)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
