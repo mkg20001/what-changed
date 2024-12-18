@@ -62,6 +62,14 @@
 
 - [ ] [<code>chore(deps): update peter-evans/create-pull-request action to v7</code>](https://github.com/canonical/firmware-updater/commit/ee9b143336d3c35e8f13989510d8e7869c835123)
 - [ ] [<code>chore(deps): update peter-evans/create-pull-request action to v7 (#299)</code>](https://github.com/canonical/firmware-updater/commit/6b7e4cddba74721aa62dfd43f9307aebf5ff30af)
+- [ ] [<code>fix(l10n): translated using Weblate (Spanish)</code>](https://github.com/canonical/firmware-updater/commit/58ae7316b8f0f818fed984873e6fa59b559640e7)
+- [ ] [<code>fix(l10n): translated using Weblate (Polish)</code>](https://github.com/canonical/firmware-updater/commit/b61673ded932608a83515a5846e1c7970076bd3d)
+- [ ] [<code>fix(l10n): translated using Weblate (Korean)</code>](https://github.com/canonical/firmware-updater/commit/cffd53c5da0c979d8f6717d6155511e9ec107cdf)
+- [ ] [<code>fix(l10n): translated using Weblate (Thai)</code>](https://github.com/canonical/firmware-updater/commit/d568e50e5d8118e56f7ffde77844820b9de98cde)
+- [ ] [<code>fix(l10n): translated using Weblate (Korean)</code>](https://github.com/canonical/firmware-updater/commit/5477e13f11bf2e40122e5b790115e598ae392cf5)
+- [ ] [<code>fix(l10n): translated using Weblate (French)</code>](https://github.com/canonical/firmware-updater/commit/adef4dc8a02b3283579104a3f7bd4596f86ef112)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/canonical/firmware-updater/commit/8dcf5cb58876421a2f328697b2070a59152afabf)
+- [ ] [<code>fix(l10n): translations update from Hosted Weblate (#320)</code>](https://github.com/canonical/firmware-updater/commit/73d512fc0c682e917285ab545a20ac272999adbe)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -203,6 +211,8 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>incusd/cluster: Add missing error handling</code>](https://github.com/lxc/incus/commit/8741ad43b4619012f8e3a88ca84c5d9524198115)
 - [ ] [<code>incusd/cluster: Clarify error on DB failure</code>](https://github.com/lxc/incus/commit/f2838e8eacffe5621f75f918064a2ee5fcfcfd44)
+- [ ] [<code>incusd/instance/qemu: Fix QMP arguments typing</code>](https://github.com/lxc/incus/commit/037d8123d9e6c892c5dba35e4c2141152c70db74)
+- [ ] [<code>incusd/instance/qemu: QEMU device naming consistency</code>](https://github.com/lxc/incus/commit/3ed3a4afdab040cc36b3fc402feac6fd3fbc25c4)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2001,6 +2011,8 @@
   - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>incusd/cluster: Add missing error handling</code>](https://github.com/lxc/incus/commit/8741ad43b4619012f8e3a88ca84c5d9524198115)
 - [ ] [<code>incusd/cluster: Clarify error on DB failure</code>](https://github.com/lxc/incus/commit/f2838e8eacffe5621f75f918064a2ee5fcfcfd44)
+- [ ] [<code>incusd/instance/qemu: Fix QMP arguments typing</code>](https://github.com/lxc/incus/commit/037d8123d9e6c892c5dba35e4c2141152c70db74)
+- [ ] [<code>incusd/instance/qemu: QEMU device naming consistency</code>](https://github.com/lxc/incus/commit/3ed3a4afdab040cc36b3fc402feac6fd3fbc25c4)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2247,6 +2259,14 @@
 - [ ] [<code>lxcfs: fix readdir for procfs subtree</code>](https://github.com/lxc/lxcfs/commit/56fd97e62eb73d0bfe59838f62799d51a9c9a3bf)
 - [ ] [<code>tests: add proc readdir test</code>](https://github.com/lxc/lxcfs/commit/2594ae8be3822262fe31cab403f16c8bee6fdd8f)
 - [ ] [<code>cgroups/cgfsng: improve swap accounting support detection</code>](https://github.com/lxc/lxcfs/commit/49e862b696a80fbaa51adfc807931a5cb33c37e9)
+- [ ] [<code>github: Bump Ubuntu version</code>](https://github.com/lxc/lxcfs/commit/c65ddc758d015bf24e4034eb0305e401eba42f6c)
+- [ ] [<code>github: Simplify tests workflow</code>](https://github.com/lxc/lxcfs/commit/39dc9b3c210c9b225f8d498fe544a6db16c08be6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github: Add arm64 tests</code>](https://github.com/lxc/lxcfs/commit/8c5f16119ef2f461e8a6ec61dea62748a9018d72)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>tests: Make sure to enable cpuset controller</code>](https://github.com/lxc/lxcfs/commit/ce45d17cd7b9210010c75c73502711ac52ba58bc)
+- [ ] [<code>github: Use shared logic</code>](https://github.com/lxc/lxcfs/commit/124ad8bd3d78717c7312ab869ff1df187949793d)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2932,6 +2952,8 @@
 - [ ] [<code>ATTN: validation: warn if a priority is not set for a routing-policy</code>](https://github.com/canonical/netplan/commit/ae09e2c1dbc30ee096eee2a2aa19f08e6edd129f)
 - [ ] [<code>validation: use curly braces for all branches</code>](https://github.com/canonical/netplan/commit/f0d64c41be096358ed87061d5cdb06751825a2b8)
 - [ ] [<code>doc: Add anchor link for deprecated gateway4/6 keys</code>](https://github.com/canonical/netplan/commit/a28be211a45c36aba6dafb519c213036788f87bd)
+- [ ] [<code>parse: fix renderer validation for nm-devices</code>](https://github.com/canonical/netplan/commit/e76557002968c04231d95f751ab4895c2ee01af8)
+- [ ] [<code>wifi: add support for wpa-psk-sha256</code>](https://github.com/canonical/netplan/commit/a03d6149975f392aa6e9e957ab7444d9ac88780c)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
