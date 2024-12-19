@@ -8,6 +8,7 @@
 - [ ] [<code>CI: add build test run</code>](https://git.openwrt.org/project/libubox.git/commit/a2fce001819ea5144652ecb9f828f892a1648fb8)
 - [ ] [<code>CI: add CodeQL workflow tests</code>](https://git.openwrt.org/project/libubox.git/commit/12bda4bdb1971385fd787737e8eec5a2eeb0deed)
 - [ ] [<code>ustream: prevent recursive calls to the read callback</code>](https://git.openwrt.org/project/libubox.git/commit/eb9bcb64185ac155c02cc1a604692c4b00368324)
+- [ ] [<code>blob: constify attr argument to blob_memdup</code>](https://git.openwrt.org/project/libubox.git/commit/3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
