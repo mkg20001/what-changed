@@ -115,6 +115,8 @@
 - [ ] [<code>build: Deprecated web stuff</code>](https://github.com/krille-chan/fluffychat/commit/7aa960306e40cb9b4d70e16e91a7b1b72e3559cf)
 - [ ] [<code>build: Update matrix sdk and dependencies</code>](https://github.com/krille-chan/fluffychat/commit/c30e6c4aa20d0b41c7db62e78beb33fb7500c4fb)
 - [ ] [<code>fix: Use MB and KB instead of MiB and KiB for file sizes</code>](https://github.com/krille-chan/fluffychat/commit/67dd7f7028e680bae169e5b28069ffd4bcba786e)
+- [ ] [<code>build: Update dart_webrtc package</code>](https://github.com/krille-chan/fluffychat/commit/583bf5f2da7a492e121330c1151b510d8050561e)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -157,6 +159,8 @@
 - [ ] [<code>build: Deprecated web stuff</code>](https://github.com/krille-chan/fluffychat/commit/7aa960306e40cb9b4d70e16e91a7b1b72e3559cf)
 - [ ] [<code>build: Update matrix sdk and dependencies</code>](https://github.com/krille-chan/fluffychat/commit/c30e6c4aa20d0b41c7db62e78beb33fb7500c4fb)
 - [ ] [<code>fix: Use MB and KB instead of MiB and KiB for file sizes</code>](https://github.com/krille-chan/fluffychat/commit/67dd7f7028e680bae169e5b28069ffd4bcba786e)
+- [ ] [<code>build: Update dart_webrtc package</code>](https://github.com/krille-chan/fluffychat/commit/583bf5f2da7a492e121330c1151b510d8050561e)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2239,6 +2243,15 @@
 - [ ] [<code>lxc.init: Switch to sigaction</code>](https://github.com/lxc/lxc/commit/c41c5ebfa80471d99f7d795f6fccf2fa2af39ea3)
 - [ ] [<code>lxc.init: Ignore user signals coming from inside the contianer</code>](https://github.com/lxc/lxc/commit/d25e7f30693b4c72b2fadd0503f65cdd0cac53b5)
 - [ ] [<code>lxc.init: Allow SIGHUP from outside the container</code>](https://github.com/lxc/lxc/commit/4527cec26bc6818404c4eb39dcebb6bea641e50b)
+- [ ] [<code>github: Update coverity workflow</code>](https://github.com/lxc/lxc/commit/e47b9ee65f1ff0e116ace5f8314bcca4e490daec)
+- [ ] [<code>github: Introduce shared build logic</code>](https://github.com/lxc/lxc/commit/5b752b5250544441919b7aa4dbd93ff1ec215a92)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github: Introduce shared testsuite logic</code>](https://github.com/lxc/lxc/commit/6dd4c9baedfed280aea45808c070a5c50d7b80b4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: Rework test workflow</code>](https://github.com/lxc/lxc/commit/664344d9da1f68e10ea0f91335e5cbc4152b86e3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: Cleanup OSS-fuzz</code>](https://github.com/lxc/lxc/commit/4fef63526892aa1ca840c29cd740707f43779ebd)
+- [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxc/commit/9589be83c1369c3f1722dcf47ecfb6f51c4eb541)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
 
@@ -2272,6 +2285,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>github: Update checkout to v4</code>](https://github.com/lxc/lxcfs/commit/a1f9602d607261f6611f1ab67c7809405b3defa8)
 - [ ] [<code>github: Cleanup testsuite action</code>](https://github.com/lxc/lxcfs/commit/f81944262f0d23025b919ebf714e77403aa1c47f)
+- [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxcfs/commit/3a43ced282287c66a5aa9f6aef954ea16f92f3d8)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3335,6 +3349,11 @@
   - <sub>Tags: <code>v1.17.0</code></sub>
 - [ ] [<code>fix(android): scan for BLE devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f76a7759dd4dd6cd0135bd4866eb74b590085a24)
 - [ ] [<code>fix(lib): duplicate mac address listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c11755cdca9c16dfebfb103f02b70aca841a9bf6)
+- [ ] [<code>fix(android): unfiltered should still filter out non BLE devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/eb11ffa0e211643b4bd326f66a487c68b0553b02)
+- [ ] [<code>feat(android): improve device pairing process</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2367e54b1cd81b97373a851ef0437aa8a765b2ce)
+- [ ] [<code>feat(android): add setting to disable mac address filter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1fd186551f55fe7905af6bab74fe0c231def26b)
+- [ ] [<code>fix(android): show message when device list is empty</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ef9999a8e724d1f4fe65c1bca2549fc6a403e4dd)
+- [ ] [<code>test(android): fix missing DeviceSelection argument</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9049f546da8a6abee13a473a225e9db475a3c6b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
