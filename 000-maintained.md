@@ -2267,6 +2267,11 @@
 - [ ] [<code>tests: Make sure to enable cpuset controller</code>](https://github.com/lxc/lxcfs/commit/ce45d17cd7b9210010c75c73502711ac52ba58bc)
 - [ ] [<code>github: Use shared logic</code>](https://github.com/lxc/lxcfs/commit/124ad8bd3d78717c7312ab869ff1df187949793d)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github: Update coverity workflow</code>](https://github.com/lxc/lxcfs/commit/370f6a4a13eeb95b4485b61a0d9645bf99ed09cd)
+- [ ] [<code>github: Simplify build action</code>](https://github.com/lxc/lxcfs/commit/10c990fd104b02e56cee34497f73a3a8d83f1e96)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github: Update checkout to v4</code>](https://github.com/lxc/lxcfs/commit/a1f9602d607261f6611f1ab67c7809405b3defa8)
+- [ ] [<code>github: Cleanup testsuite action</code>](https://github.com/lxc/lxcfs/commit/f81944262f0d23025b919ebf714e77403aa1c47f)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
