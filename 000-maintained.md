@@ -217,6 +217,7 @@
 - [ ] [<code>incusd/cluster: Clarify error on DB failure</code>](https://github.com/lxc/incus/commit/f2838e8eacffe5621f75f918064a2ee5fcfcfd44)
 - [ ] [<code>incusd/instance/qemu: Fix QMP arguments typing</code>](https://github.com/lxc/incus/commit/037d8123d9e6c892c5dba35e4c2141152c70db74)
 - [ ] [<code>incusd/instance/qemu: QEMU device naming consistency</code>](https://github.com/lxc/incus/commit/3ed3a4afdab040cc36b3fc402feac6fd3fbc25c4)
+- [ ] [<code>Encode mc alias for storage buckets to match allowed characters</code>](https://github.com/lxc/incus/commit/80603839296543f4b158ba36b37f62bd846b85b8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2017,6 +2018,7 @@
 - [ ] [<code>incusd/cluster: Clarify error on DB failure</code>](https://github.com/lxc/incus/commit/f2838e8eacffe5621f75f918064a2ee5fcfcfd44)
 - [ ] [<code>incusd/instance/qemu: Fix QMP arguments typing</code>](https://github.com/lxc/incus/commit/037d8123d9e6c892c5dba35e4c2141152c70db74)
 - [ ] [<code>incusd/instance/qemu: QEMU device naming consistency</code>](https://github.com/lxc/incus/commit/3ed3a4afdab040cc36b3fc402feac6fd3fbc25c4)
+- [ ] [<code>Encode mc alias for storage buckets to match allowed characters</code>](https://github.com/lxc/incus/commit/80603839296543f4b158ba36b37f62bd846b85b8)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2187,6 +2189,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Bump libxml2 to v2.13.5</code>](https://github.com/AOMediaCodec/libavif/commit/398777c46e9dd0e81ce7ea3c32929566a3c863af)
 - [ ] [<code>Eradicate AVIF_ENABLE_EXPERIMENTAL_GAIN_MAP</code>](https://github.com/AOMediaCodec/libavif/commit/f439662a8137cd0c9710eeedc66001ed6fabeafe)
+- [ ] [<code>Write descriptive properties before transformative (#2524)</code>](https://github.com/AOMediaCodec/libavif/commit/906ba9137a9b6b2a12dee81c7b38dca40b29c01f)
+- [ ] [<code>Fail early when trying to convert a jpeg+gainmap image without libxml2. (#2526)</code>](https://github.com/AOMediaCodec/libavif/commit/4db8f7e1a19f8d9484aa3eb253487bb7e52854bf)
+- [ ] [<code>Remove AVIF_ENABLE_GTEST cmake option. (#2527)</code>](https://github.com/AOMediaCodec/libavif/commit/b808fa00aa2d1dcccb0896bc1832cdc6751152cc)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
 
@@ -3356,6 +3362,7 @@
 - [ ] [<code>test(android): fix missing DeviceSelection argument</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9049f546da8a6abee13a473a225e9db475a3c6b)
 - [ ] [<code>feat(lib): add tws status to device state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/10a5582a756edb7d02cea1181f9d0c18eee9c5b7)
 - [ ] [<code>fix(web): add tws status to state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/107d8f126ff483f453846aa0c143b737e2909d74)
+- [ ] [<code>fix(lib): a3936 custom button model packet mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/131efde83da5172a0d4fd13d620583ebd6dbd384)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
