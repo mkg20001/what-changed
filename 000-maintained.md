@@ -3354,6 +3354,8 @@
 - [ ] [<code>feat(android): add setting to disable mac address filter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1fd186551f55fe7905af6bab74fe0c231def26b)
 - [ ] [<code>fix(android): show message when device list is empty</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ef9999a8e724d1f4fe65c1bca2549fc6a403e4dd)
 - [ ] [<code>test(android): fix missing DeviceSelection argument</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c9049f546da8a6abee13a473a225e9db475a3c6b)
+- [ ] [<code>feat(lib): add tws status to device state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/10a5582a756edb7d02cea1181f9d0c18eee9c5b7)
+- [ ] [<code>fix(web): add tws status to state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/107d8f126ff483f453846aa0c143b737e2909d74)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3473,6 +3475,8 @@
 - [ ] [<code>Fix yt-dlp install issues on MSWin</code>](https://github.com/axcore/tartube/commit/b00868aea591c3f67b21efc17ff83c3874bc5f8f)
   - <sub>Tags: <code>v2.5.062</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Fix broken German locale #670</code>](https://github.com/axcore/tartube/commit/972f8efc24d07acdd0cfaf0913cb940648eee6e4)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
