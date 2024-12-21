@@ -218,6 +218,10 @@
 - [ ] [<code>incusd/instance/qemu: Fix QMP arguments typing</code>](https://github.com/lxc/incus/commit/037d8123d9e6c892c5dba35e4c2141152c70db74)
 - [ ] [<code>incusd/instance/qemu: QEMU device naming consistency</code>](https://github.com/lxc/incus/commit/3ed3a4afdab040cc36b3fc402feac6fd3fbc25c4)
 - [ ] [<code>Encode mc alias for storage buckets to match allowed characters</code>](https://github.com/lxc/incus/commit/80603839296543f4b158ba36b37f62bd846b85b8)
+- [ ] [<code>doc: Contributing section restructuring</code>](https://github.com/lxc/incus/commit/2e529ab519135ea0d7018d17ad1b8cdda2c1b683)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/network/ovn: Allow creation of OVN network with no uplink</code>](https://github.com/lxc/incus/commit/afc60dc90b69c014d3679e76ca894a200c59b0fd)
+- [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
 
@@ -2019,6 +2023,10 @@
 - [ ] [<code>incusd/instance/qemu: Fix QMP arguments typing</code>](https://github.com/lxc/incus/commit/037d8123d9e6c892c5dba35e4c2141152c70db74)
 - [ ] [<code>incusd/instance/qemu: QEMU device naming consistency</code>](https://github.com/lxc/incus/commit/3ed3a4afdab040cc36b3fc402feac6fd3fbc25c4)
 - [ ] [<code>Encode mc alias for storage buckets to match allowed characters</code>](https://github.com/lxc/incus/commit/80603839296543f4b158ba36b37f62bd846b85b8)
+- [ ] [<code>doc: Contributing section restructuring</code>](https://github.com/lxc/incus/commit/2e529ab519135ea0d7018d17ad1b8cdda2c1b683)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/network/ovn: Allow creation of OVN network with no uplink</code>](https://github.com/lxc/incus/commit/afc60dc90b69c014d3679e76ca894a200c59b0fd)
+- [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
