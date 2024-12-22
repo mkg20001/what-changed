@@ -3484,14 +3484,8 @@
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
 - [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
 - [ ] [<code>Fix for empty user default tab after creation (#628)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9fc005032c5b578fe5f360844ba5db69d870fb78)
+> Dropped tartube - no appropriate URL found OrderedDict([('attr_path', 'tartube'), ('home_url', 'https://tartube.sourceforge.io/'), ('src_url', 'https://github.com/axcore/tartube/archive/refs/tags/v2.5.062.tar.gz'), ('urls', ['https://github.com/axcore/tartube/archive/refs/tags/v2.5.062.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', 'https://github.com/axcore/tartube'), ('from_rev', '')])
 
-#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.059 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.059...HEAD)
-
-- [ ] [<code>Fix yt-dlp install issues on MSWin</code>](https://github.com/axcore/tartube/commit/b00868aea591c3f67b21efc17ff83c3874bc5f8f)
-  - <sub>Tags: <code>v2.5.062</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Fix broken German locale #670</code>](https://github.com/axcore/tartube/commit/972f8efc24d07acdd0cfaf0913cb940648eee6e4)
-  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
 
 > Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
