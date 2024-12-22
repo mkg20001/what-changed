@@ -2267,7 +2267,7 @@
 - [ ] [<code>github: Cleanup OSS-fuzz</code>](https://github.com/lxc/lxc/commit/4fef63526892aa1ca840c29cd740707f43779ebd)
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxc/commit/9589be83c1369c3f1722dcf47ecfb6f51c4eb541)
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.2 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.2...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
