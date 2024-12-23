@@ -2201,6 +2201,8 @@
 - [ ] [<code>Fail early when trying to convert a jpeg+gainmap image without libxml2. (#2526)</code>](https://github.com/AOMediaCodec/libavif/commit/4db8f7e1a19f8d9484aa3eb253487bb7e52854bf)
 - [ ] [<code>Remove AVIF_ENABLE_GTEST cmake option. (#2527)</code>](https://github.com/AOMediaCodec/libavif/commit/b808fa00aa2d1dcccb0896bc1832cdc6751152cc)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add instructions for fuzz tests. (#2523)</code>](https://github.com/AOMediaCodec/libavif/commit/3246a4bd1d107ae02d3af85b16c168eb564e5506)
+- [ ] [<code>Move the comment on 'pasp' forward</code>](https://github.com/AOMediaCodec/libavif/commit/35584512cceb478896e388c9d052c65120d4ce15)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3374,20 +3376,20 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
-> Dropped python311Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python311Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python311Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
-#### [python311Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
+#### [python312Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped python311Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python311Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python311Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.1...HEAD)
