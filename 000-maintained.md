@@ -2202,7 +2202,7 @@
 - [ ] [<code>Remove AVIF_ENABLE_GTEST cmake option. (#2527)</code>](https://github.com/AOMediaCodec/libavif/commit/b808fa00aa2d1dcccb0896bc1832cdc6751152cc)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 
-#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.2...HEAD)
+#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
 - [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/05416319327e7bbd76c904d00d9c25027f63be5b)
   - <sub>Files: <code>meson.build</code></sub>
