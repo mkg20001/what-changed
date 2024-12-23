@@ -223,7 +223,7 @@
 - [ ] [<code>incusd/network/ovn: Allow creation of OVN network with no uplink</code>](https://github.com/lxc/incus/commit/afc60dc90b69c014d3679e76ca894a200c59b0fd)
 - [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
 
-#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.2 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.2...HEAD)
+#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
 - [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
 - [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
