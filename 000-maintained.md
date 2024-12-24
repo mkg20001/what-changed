@@ -222,6 +222,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/network/ovn: Allow creation of OVN network with no uplink</code>](https://github.com/lxc/incus/commit/afc60dc90b69c014d3679e76ca894a200c59b0fd)
 - [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
+- [ ] [<code>lxd-to-incus: Clear volatile.uuid from instances</code>](https://github.com/lxc/incus/commit/ae1d1e9a33158c2038e1d5ca7f6b4c600a161857)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2027,6 +2029,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/network/ovn: Allow creation of OVN network with no uplink</code>](https://github.com/lxc/incus/commit/afc60dc90b69c014d3679e76ca894a200c59b0fd)
 - [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
+- [ ] [<code>lxd-to-incus: Clear volatile.uuid from instances</code>](https://github.com/lxc/incus/commit/ae1d1e9a33158c2038e1d5ca7f6b4c600a161857)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
