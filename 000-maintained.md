@@ -3393,8 +3393,6 @@
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python312Packages.yt-dlp - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.yt-dlp'), ('home_url', 'https://github.com/yt-dlp/yt-dlp/'), ('src_url', 'mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz'), ('urls', ['mirror://pypi/y/yt_dlp/yt_dlp-2024.12.13.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
-
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.1...HEAD)
 
