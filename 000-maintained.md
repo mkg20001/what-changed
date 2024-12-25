@@ -2207,6 +2207,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add instructions for fuzz tests. (#2523)</code>](https://github.com/AOMediaCodec/libavif/commit/3246a4bd1d107ae02d3af85b16c168eb564e5506)
 - [ ] [<code>Move the comment on 'pasp' forward</code>](https://github.com/AOMediaCodec/libavif/commit/35584512cceb478896e388c9d052c65120d4ce15)
+- [ ] [<code>Avoid unreachable code after a return statement</code>](https://github.com/AOMediaCodec/libavif/commit/a2849646e0008314286a814cb656676dea067934)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
