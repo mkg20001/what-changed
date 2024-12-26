@@ -3378,6 +3378,13 @@
 - [ ] [<code>feat(lib): add tws status to device state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/10a5582a756edb7d02cea1181f9d0c18eee9c5b7)
 - [ ] [<code>fix(web): add tws status to state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/107d8f126ff483f453846aa0c143b737e2909d74)
 - [ ] [<code>fix(lib): a3936 custom button model packet mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/131efde83da5172a0d4fd13d620583ebd6dbd384)
+- [ ] [<code>fix(lib): host device off by one</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d4a5c4a917f85e813ff27a3681ed2575b83fa0d6)
+- [ ] [<code>fix(lib): incorrect custom button action implementation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f2e4126085f5525fec117c97d13538c835567fb9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): fix tws status tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d1ef289e391b5820a181b20fda9bdfc1c33b6f64)
+- [ ] [<code>refactor: rename button model to multi button configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b2b48cb4f816530deb2d264d7868469d0e79ca8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: fix `just test` not running lib tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/842c2326e8d0f1af6c17fd04464d27c0cdc76ded)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
