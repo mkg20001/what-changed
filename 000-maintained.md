@@ -117,6 +117,7 @@
 - [ ] [<code>fix: Use MB and KB instead of MiB and KiB for file sizes</code>](https://github.com/krille-chan/fluffychat/commit/67dd7f7028e680bae169e5b28069ffd4bcba786e)
 - [ ] [<code>build: Update dart_webrtc package</code>](https://github.com/krille-chan/fluffychat/commit/583bf5f2da7a492e121330c1151b510d8050561e)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -161,6 +162,7 @@
 - [ ] [<code>fix: Use MB and KB instead of MiB and KiB for file sizes</code>](https://github.com/krille-chan/fluffychat/commit/67dd7f7028e680bae169e5b28069ffd4bcba786e)
 - [ ] [<code>build: Update dart_webrtc package</code>](https://github.com/krille-chan/fluffychat/commit/583bf5f2da7a492e121330c1151b510d8050561e)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
