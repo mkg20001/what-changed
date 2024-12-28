@@ -3389,6 +3389,8 @@
 - [ ] [<code>build: fix `just test` not running lib tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/842c2326e8d0f1af6c17fd04464d27c0cdc76ded)
 - [ ] [<code>fix(lib): a3933 missing default packet handlers</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0cf420e9672b76601ff9f2462a3673aa7254ba11)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: replace sound mode types with availableSoundModes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8de30ffaee3023c2bbcf309047178c79ac1c661)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
