@@ -25,12 +25,8 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.2...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
-- [ ] [<code>packaging: Remove recommends/suggests</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4051aa6b36cfe6b82004289bb3c23a81953b8092)
-- [ ] [<code>6.4.3</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/212eaf8a951f4c140d134e5cbf82a83ea3869073)
-  - <sub>Tags: <code>6.4.3</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
 
