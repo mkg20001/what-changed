@@ -2212,6 +2212,7 @@
 - [ ] [<code>Avoid unreachable code after a return statement</code>](https://github.com/AOMediaCodec/libavif/commit/a2849646e0008314286a814cb656676dea067934)
 - [ ] [<code>Support custom avifImage properties in avifEncoder (#2510)</code>](https://github.com/AOMediaCodec/libavif/commit/3a25ba1db33ff5e91ac28afcda382ea1d1ba4e58)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix mistakenly returning false instead of avifResult. (#2531)</code>](https://github.com/AOMediaCodec/libavif/commit/3a020d16558d96f98cb526dcdf6a86742c69955d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3394,6 +3395,8 @@
 - [ ] [<code>refactor: replace sound mode types with availableSoundModes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8de30ffaee3023c2bbcf309047178c79ac1c661)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): with bluer backend, use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/363f016fc530cbfe0290d8f34401770ca31322df)
+- [ ] [<code>fix(android): use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ebc0e27755dd90b68263be67c58ab5634edd45c9)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
