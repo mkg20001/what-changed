@@ -2210,6 +2210,8 @@
 - [ ] [<code>Add instructions for fuzz tests. (#2523)</code>](https://github.com/AOMediaCodec/libavif/commit/3246a4bd1d107ae02d3af85b16c168eb564e5506)
 - [ ] [<code>Move the comment on 'pasp' forward</code>](https://github.com/AOMediaCodec/libavif/commit/35584512cceb478896e388c9d052c65120d4ce15)
 - [ ] [<code>Avoid unreachable code after a return statement</code>](https://github.com/AOMediaCodec/libavif/commit/a2849646e0008314286a814cb656676dea067934)
+- [ ] [<code>Support custom avifImage properties in avifEncoder (#2510)</code>](https://github.com/AOMediaCodec/libavif/commit/3a25ba1db33ff5e91ac28afcda382ea1d1ba4e58)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3391,6 +3393,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor: replace sound mode types with availableSoundModes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8de30ffaee3023c2bbcf309047178c79ac1c661)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): with bluer backend, use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/363f016fc530cbfe0290d8f34401770ca31322df)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
