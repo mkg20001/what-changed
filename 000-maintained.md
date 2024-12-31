@@ -2215,6 +2215,9 @@
 - [ ] [<code>Support custom avifImage properties in avifEncoder (#2510)</code>](https://github.com/AOMediaCodec/libavif/commit/3a25ba1db33ff5e91ac28afcda382ea1d1ba4e58)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix mistakenly returning false instead of avifResult. (#2531)</code>](https://github.com/AOMediaCodec/libavif/commit/3a020d16558d96f98cb526dcdf6a86742c69955d)
+- [ ] [<code>Add avifgainmaputil to installed apps (#2532)</code>](https://github.com/AOMediaCodec/libavif/commit/3c0ede5fd0cb54c17e6a40eef04fe899b76af690)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3399,6 +3402,7 @@
 - [ ] [<code>fix(lib): with bluer backend, use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/363f016fc530cbfe0290d8f34401770ca31322df)
 - [ ] [<code>fix(android): use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ebc0e27755dd90b68263be67c58ab5634edd45c9)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(android): fix connectToSoundcoreDevice tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/edcd69c891c8086357c6784c1f748f69b1787f3c)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -3634,6 +3638,10 @@
 - [ ] [<code>vm: close signal pipe in uc_vm_signal_handlers_reset()</code>](https://github.com/jow-/ucode/commit/0b80ceb29311b7eccce9d318e5315e5d88d29c28)
 - [ ] [<code>uci: eliminate usage of global variables</code>](https://github.com/jow-/ucode/commit/175686c97d828bae2eef81cc9b7b2daa457af04d)
 - [ ] [<code>struct: fix memory leak in buffer.pull()</code>](https://github.com/jow-/ucode/commit/0f69da9c3777c5e94e9ca2ab207c16914b28f99b)
+- [ ] [<code>debian/control: Build-Depend on cmake</code>](https://github.com/jow-/ucode/commit/47f3a6b6990859c4f3d2e1178ca25ca42752cc8a)
+- [ ] [<code>debian/control: Fix Standards-Version, add Bugs</code>](https://github.com/jow-/ucode/commit/01efa7b92100619c55f87f468ec0948d433a22de)
+- [ ] [<code>debian/source/format: change to native</code>](https://github.com/jow-/ucode/commit/f50149d67fef3e0bf4b8a323bbff7af5ebf8410e)
+- [ ] [<code>debian/control: libucode Recommends ucode-modules</code>](https://github.com/jow-/ucode/commit/bd001ae4f830fb1db629f4e1457b9ecc82822c74)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
