@@ -118,6 +118,7 @@
 - [ ] [<code>build: Update dart_webrtc package</code>](https://github.com/krille-chan/fluffychat/commit/583bf5f2da7a492e121330c1151b510d8050561e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
+- [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -163,6 +164,7 @@
 - [ ] [<code>build: Update dart_webrtc package</code>](https://github.com/krille-chan/fluffychat/commit/583bf5f2da7a492e121330c1151b510d8050561e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
+- [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3631,6 +3633,7 @@
 - [ ] [<code>main: fix crash on printing -p output</code>](https://github.com/jow-/ucode/commit/4efad5388184a2fd76957f0300eeab1a3b1eee2f)
 - [ ] [<code>vm: close signal pipe in uc_vm_signal_handlers_reset()</code>](https://github.com/jow-/ucode/commit/0b80ceb29311b7eccce9d318e5315e5d88d29c28)
 - [ ] [<code>uci: eliminate usage of global variables</code>](https://github.com/jow-/ucode/commit/175686c97d828bae2eef81cc9b7b2daa457af04d)
+- [ ] [<code>struct: fix memory leak in buffer.pull()</code>](https://github.com/jow-/ucode/commit/0f69da9c3777c5e94e9ca2ab207c16914b28f99b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
