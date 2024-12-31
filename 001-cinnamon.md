@@ -8,6 +8,8 @@
 - [ ] [<code>runDialog: Fix cinnamon restart OSD showing over dialog</code>](https://github.com/linuxmint/cinnamon/commit/1f2538af78fc795230abbfeedce36bf44ecf82bb)
 - [ ] [<code>lightbox: Set as important</code>](https://github.com/linuxmint/cinnamon/commit/d8f06dc18d10782412551cc6ef53f7bfbe19f32a)
 - [ ] [<code>theme: Fix more radius issues in GWL window previews (#12585)</code>](https://github.com/linuxmint/cinnamon/commit/6d990e7aa5ba8aa37e9e98632e78c1add98dcb86)
+- [ ] [<code>polkitAuthenticationAgent.js: Improve initialization, cleanup of</code>](https://github.com/linuxmint/cinnamon/commit/4c4bd53ef30f6672814f5a8fcca36586b28d0a99)
+- [ ] [<code>polkitAuthenticationAgent.js: Fix dialog cancellation when</code>](https://github.com/linuxmint/cinnamon/commit/6bb26845d8ae6d923723c45d5e5ac108ee587b51)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
