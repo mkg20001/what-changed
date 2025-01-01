@@ -228,6 +228,11 @@
 - [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
 - [ ] [<code>lxd-to-incus: Clear volatile.uuid from instances</code>](https://github.com/lxc/incus/commit/ae1d1e9a33158c2038e1d5ca7f6b4c600a161857)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Bump most workflows to 24.04</code>](https://github.com/lxc/incus/commit/8f9f55d42b19457ca71fbb6bc60fd57473810013)
+- [ ] [<code>github: Split testsuite to separate action</code>](https://github.com/lxc/incus/commit/e249723cf08041f9004f2b71c7d3beb18802d804)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: Add aarch64 tests</code>](https://github.com/lxc/incus/commit/4cbde3380acab836177220d57186804c157d09ff)
+- [ ] [<code>tests: Skip nftables test on old kernels</code>](https://github.com/lxc/incus/commit/7b0094920f98ecef50e71f3cf8cb64896b9f87ef)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2035,6 +2040,11 @@
 - [ ] [<code>incusd/network/ovn: Handle missing logical router in state</code>](https://github.com/lxc/incus/commit/bd7afc7a079076a621a4b77bd9237c69c4900ede)
 - [ ] [<code>lxd-to-incus: Clear volatile.uuid from instances</code>](https://github.com/lxc/incus/commit/ae1d1e9a33158c2038e1d5ca7f6b4c600a161857)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Bump most workflows to 24.04</code>](https://github.com/lxc/incus/commit/8f9f55d42b19457ca71fbb6bc60fd57473810013)
+- [ ] [<code>github: Split testsuite to separate action</code>](https://github.com/lxc/incus/commit/e249723cf08041f9004f2b71c7d3beb18802d804)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: Add aarch64 tests</code>](https://github.com/lxc/incus/commit/4cbde3380acab836177220d57186804c157d09ff)
+- [ ] [<code>tests: Skip nftables test on old kernels</code>](https://github.com/lxc/incus/commit/7b0094920f98ecef50e71f3cf8cb64896b9f87ef)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3403,6 +3413,7 @@
 - [ ] [<code>fix(android): use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ebc0e27755dd90b68263be67c58ab5634edd45c9)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test(android): fix connectToSoundcoreDevice tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/edcd69c891c8086357c6784c1f748f69b1787f3c)
+- [ ] [<code>fix(android): quick presets unique by model rather than gatt service id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbffd0014d67b468e1c4b3bb2a2d94b0b4ddec9b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
