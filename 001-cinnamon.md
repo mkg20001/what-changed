@@ -10,7 +10,11 @@
 - [ ] [<code>theme: Fix more radius issues in GWL window previews (#12585)</code>](https://github.com/linuxmint/cinnamon/commit/6d990e7aa5ba8aa37e9e98632e78c1add98dcb86)
 - [ ] [<code>polkitAuthenticationAgent.js: Improve initialization, cleanup of</code>](https://github.com/linuxmint/cinnamon/commit/4c4bd53ef30f6672814f5a8fcca36586b28d0a99)
 - [ ] [<code>polkitAuthenticationAgent.js: Fix dialog cancellation when</code>](https://github.com/linuxmint/cinnamon/commit/6bb26845d8ae6d923723c45d5e5ac108ee587b51)
+- [ ] [<code>Fix the onscreen keyboard not working when a modal dialog is open (#12599)</code>](https://github.com/linuxmint/cinnamon/commit/932b9da51a27663230a27d3e31cddee04528254a)
+- [ ] [<code>Fix spelling (#12598)</code>](https://github.com/linuxmint/cinnamon/commit/7ccb18a56b148915558828c5f108fbeb15474e6a)
+- [ ] [<code>panel.js: Only clip the panel size if necessary. (#12592)</code>](https://github.com/linuxmint/cinnamon/commit/4e87c99e39ceb489fb2b0af09cebc83e03e5b9eb)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>polkitAuthenticationAgent.js: Only close the dialog once.</code>](https://github.com/linuxmint/cinnamon/commit/09b9d13e5328a0a2bf862020aab88e693390cb82)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -53,6 +57,8 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.2...HEAD)
 
+- [ ] [<code>fix spelling (#486)</code>](https://github.com/linuxmint/mint-themes/commit/e45553981471310c2a60af98f086023778ea9f62)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
