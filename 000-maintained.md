@@ -119,6 +119,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 - [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
+- [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -165,6 +166,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 - [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
+- [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2228,6 +2230,7 @@
 - [ ] [<code>Add avifgainmaputil to installed apps (#2532)</code>](https://github.com/AOMediaCodec/libavif/commit/3c0ede5fd0cb54c17e6a40eef04fe899b76af690)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Bump the github-actions group with 3 updates (#2538)</code>](https://github.com/AOMediaCodec/libavif/commit/c359d42e1cdfd7ad72c240378d27c36304983953)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3428,7 +3431,7 @@
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-2.13.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.1...HEAD)
