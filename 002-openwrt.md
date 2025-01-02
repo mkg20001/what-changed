@@ -61,6 +61,8 @@
 - [ ] [<code>libubus: Make UBUS_* macros work cleanly in C++</code>](https://git.openwrt.org/project/ubus.git/commit/252a9b0c1774790fb9c25735d5a09c27dba895db)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>libubus: close file descriptor after sending it from a request</code>](https://git.openwrt.org/project/ubus.git/commit/d996988ae55b6af12e4611fdd758a2f0ad27a9a1)
+- [ ] [<code>libubus: add support for using channels</code>](https://git.openwrt.org/project/ubus.git/commit/afa57cce0aff82f4a7a0e509d4387ebc23dd3be7)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
