@@ -2231,6 +2231,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Bump the github-actions group with 3 updates (#2538)</code>](https://github.com/AOMediaCodec/libavif/commit/c359d42e1cdfd7ad72c240378d27c36304983953)
+- [ ] [<code>Improve error message for missing 'SYSTEM' dependencies. (#2536)</code>](https://github.com/AOMediaCodec/libavif/commit/b5e7d6c8df5c70b2cc3efae1014d485c7de1b1e8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
