@@ -13,8 +13,9 @@
 - [ ] [<code>Fix the onscreen keyboard not working when a modal dialog is open (#12599)</code>](https://github.com/linuxmint/cinnamon/commit/932b9da51a27663230a27d3e31cddee04528254a)
 - [ ] [<code>Fix spelling (#12598)</code>](https://github.com/linuxmint/cinnamon/commit/7ccb18a56b148915558828c5f108fbeb15474e6a)
 - [ ] [<code>panel.js: Only clip the panel size if necessary. (#12592)</code>](https://github.com/linuxmint/cinnamon/commit/4e87c99e39ceb489fb2b0af09cebc83e03e5b9eb)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Only close the dialog once.</code>](https://github.com/linuxmint/cinnamon/commit/09b9d13e5328a0a2bf862020aab88e693390cb82)
+- [ ] [<code>dialogs: Re-enable panels on destroy</code>](https://github.com/linuxmint/cinnamon/commit/e3dbc516e45afc48a5e15a01a3f83a21c3984efe)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
