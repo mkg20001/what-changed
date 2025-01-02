@@ -2234,6 +2234,15 @@
 - [ ] [<code>Improve error message for missing 'SYSTEM' dependencies. (#2536)</code>](https://github.com/AOMediaCodec/libavif/commit/b5e7d6c8df5c70b2cc3efae1014d485c7de1b1e8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>find_package</code></sub>
+- [ ] [<code>Improve README, in particular build instructions. (#2537)</code>](https://github.com/AOMediaCodec/libavif/commit/e6da01c57c71a9c3d395aba034d9aac2cc52635e)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Add item ID 0 comment in avifCheckItemID() (#2539)</code>](https://github.com/AOMediaCodec/libavif/commit/cc0b793cdd320d4327a827592bb19ada413d104e)
+- [ ] [<code>Readme: add examples (#479)</code>](https://github.com/AOMediaCodec/libavif/commit/25223e1180aac598d1f08cef4074e207a92c0e1a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Deprecate min/max quantizer fields/flags. (#2535)</code>](https://github.com/AOMediaCodec/libavif/commit/7a2a40c3feb8701ddc259150fe0e5c29d83f96c4)
+- [ ] [<code>Improve avif.h documentation. (#2542)</code>](https://github.com/AOMediaCodec/libavif/commit/f6f8b64a0e69954f883c8df54d6a72b0e41b40bf)
+- [ ] [<code>Add cmake format check CI. (#2543)</code>](https://github.com/AOMediaCodec/libavif/commit/3a48136a99e9ddab9f5ff0c643dfa554fed93a65)
+- [ ] [<code>Declare a avifDecoderData * input para as const</code>](https://github.com/AOMediaCodec/libavif/commit/7cc2ffc34e4db627f8392a055649704d99d444a8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
