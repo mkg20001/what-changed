@@ -15,6 +15,7 @@
 - [ ] [<code>panel.js: Only clip the panel size if necessary. (#12592)</code>](https://github.com/linuxmint/cinnamon/commit/4e87c99e39ceb489fb2b0af09cebc83e03e5b9eb)
 - [ ] [<code>polkitAuthenticationAgent.js: Only close the dialog once.</code>](https://github.com/linuxmint/cinnamon/commit/09b9d13e5328a0a2bf862020aab88e693390cb82)
 - [ ] [<code>dialogs: Re-enable panels on destroy</code>](https://github.com/linuxmint/cinnamon/commit/e3dbc516e45afc48a5e15a01a3f83a21c3984efe)
+- [ ] [<code>modalDialog.js: Disable the lightbox if the virtual keyboard</code>](https://github.com/linuxmint/cinnamon/commit/3bed0fb94ac58ea71c21454b65edc9d06917cfbd)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -72,6 +73,8 @@
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.3...HEAD)
 
+- [ ] [<code>nemo-places-sidebar.c: Remove delete key action for removing</code>](https://github.com/linuxmint/nemo/commit/2e3c6fc62c07a89f00c913e6d0c4e3d6f593a193)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
