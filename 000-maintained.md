@@ -55,6 +55,8 @@
 - [ ] [<code>Update Rust to v1.83.0</code>](https://github.com/stepchowfun/docuum/commit/e39bccb866f7f241a31940732ce677755a34a20f)
 - [ ] [<code>add mention to what formats min-age supports</code>](https://github.com/stepchowfun/docuum/commit/dbc16e5faf4aa226c95806969abbe1645b8e219d)
 - [ ] [<code>Make link to parse_duration versioned to 2.1.1</code>](https://github.com/stepchowfun/docuum/commit/8a8817aa23bf5e8d553a3a668c82616508362fb9)
+- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/47c2f9380451d8e6dfd52833c13c0cbeb2e62215)
+- [ ] [<code>Remove the CI status badge</code>](https://github.com/stepchowfun/docuum/commit/66ea24329bc76d4ae75ff762d1044e2289a19e3f)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -120,6 +122,7 @@
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 - [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
 - [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
+- [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -167,6 +170,7 @@
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 - [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
 - [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
+- [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -235,6 +239,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: Add aarch64 tests</code>](https://github.com/lxc/incus/commit/4cbde3380acab836177220d57186804c157d09ff)
 - [ ] [<code>tests: Skip nftables test on old kernels</code>](https://github.com/lxc/incus/commit/7b0094920f98ecef50e71f3cf8cb64896b9f87ef)
+- [ ] [<code>shared/util: Add IsNoneOrEmpty</code>](https://github.com/lxc/incus/commit/06fede48db20f983037126687c8a9210ad250ada)
+- [ ] [<code>incusd/network/bridge: Tweak dnsmasq startup condition</code>](https://github.com/lxc/incus/commit/5d5d67f876835c7a23e5e14159a3d49d2f00923b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2047,6 +2053,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: Add aarch64 tests</code>](https://github.com/lxc/incus/commit/4cbde3380acab836177220d57186804c157d09ff)
 - [ ] [<code>tests: Skip nftables test on old kernels</code>](https://github.com/lxc/incus/commit/7b0094920f98ecef50e71f3cf8cb64896b9f87ef)
+- [ ] [<code>shared/util: Add IsNoneOrEmpty</code>](https://github.com/lxc/incus/commit/06fede48db20f983037126687c8a9210ad250ada)
+- [ ] [<code>incusd/network/bridge: Tweak dnsmasq startup condition</code>](https://github.com/lxc/incus/commit/5d5d67f876835c7a23e5e14159a3d49d2f00923b)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2249,6 +2257,7 @@
 - [ ] [<code>Move -q option in avifenc example in README (#2545)</code>](https://github.com/AOMediaCodec/libavif/commit/021a110dccfb65148e0b6f208911ecf3713f2248)
 - [ ] [<code>Fuzztest clean-ups (#2529)</code>](https://github.com/AOMediaCodec/libavif/commit/d3388d91ba3b63901914241fb299a471ea088121)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Use array in fuzztest_properties (#2546)</code>](https://github.com/AOMediaCodec/libavif/commit/5eaa316da9b101d5fdfe6939738670ef5610e9d5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2315,6 +2324,7 @@
 - [ ] [<code>github: Cleanup OSS-fuzz</code>](https://github.com/lxc/lxc/commit/4fef63526892aa1ca840c29cd740707f43779ebd)
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxc/commit/9589be83c1369c3f1722dcf47ecfb6f51c4eb541)
 - [ ] [<code>- LXC attach should exit on SIGCHLD</code>](https://github.com/lxc/lxc/commit/f02158439677d0c1d4b2ed2ed1ba9bc43923a05d)
+- [ ] [<code>confile-vlanid: undefined is not a zero value</code>](https://github.com/lxc/lxc/commit/50be11e8d8ce250951a86d51e59435f7846b5bd1)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
