@@ -171,9 +171,9 @@
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped flutter326 - no appropriate URL found OrderedDict([('attr_path', 'flutter326'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped flutter324 - no appropriate URL found OrderedDict([('attr_path', 'flutter324'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped flutter327 - no appropriate URL found OrderedDict([('attr_path', 'flutter327'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped flutter326 - no appropriate URL found OrderedDict([('attr_path', 'flutter326'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
@@ -2243,6 +2243,12 @@
 - [ ] [<code>Improve avif.h documentation. (#2542)</code>](https://github.com/AOMediaCodec/libavif/commit/f6f8b64a0e69954f883c8df54d6a72b0e41b40bf)
 - [ ] [<code>Add cmake format check CI. (#2543)</code>](https://github.com/AOMediaCodec/libavif/commit/3a48136a99e9ddab9f5ff0c643dfa554fed93a65)
 - [ ] [<code>Declare a avifDecoderData * input para as const</code>](https://github.com/AOMediaCodec/libavif/commit/7cc2ffc34e4db627f8392a055649704d99d444a8)
+- [ ] [<code>Remove the old way of setting dependencies (#2540)</code>](https://github.com/AOMediaCodec/libavif/commit/9903d9992e0e33b64757efd07529003e1690e97f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Move -q option in avifenc example in README (#2545)</code>](https://github.com/AOMediaCodec/libavif/commit/021a110dccfb65148e0b6f208911ecf3713f2248)
+- [ ] [<code>Fuzztest clean-ups (#2529)</code>](https://github.com/AOMediaCodec/libavif/commit/d3388d91ba3b63901914241fb299a471ea088121)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
