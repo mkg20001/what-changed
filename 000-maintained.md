@@ -2308,6 +2308,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: Cleanup OSS-fuzz</code>](https://github.com/lxc/lxc/commit/4fef63526892aa1ca840c29cd740707f43779ebd)
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxc/commit/9589be83c1369c3f1722dcf47ecfb6f51c4eb541)
+- [ ] [<code>- LXC attach should exit on SIGCHLD</code>](https://github.com/lxc/lxc/commit/f02158439677d0c1d4b2ed2ed1ba9bc43923a05d)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
