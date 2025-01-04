@@ -16,7 +16,9 @@
 - [ ] [<code>polkitAuthenticationAgent.js: Only close the dialog once.</code>](https://github.com/linuxmint/cinnamon/commit/09b9d13e5328a0a2bf862020aab88e693390cb82)
 - [ ] [<code>dialogs: Re-enable panels on destroy</code>](https://github.com/linuxmint/cinnamon/commit/e3dbc516e45afc48a5e15a01a3f83a21c3984efe)
 - [ ] [<code>modalDialog.js: Disable the lightbox if the virtual keyboard</code>](https://github.com/linuxmint/cinnamon/commit/3bed0fb94ac58ea71c21454b65edc9d06917cfbd)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.4.4</code>](https://github.com/linuxmint/cinnamon/commit/21e51b19d5479ab94a3471b7891e16acb63bed40)
+  - <sub>Tags: <code>6.4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
