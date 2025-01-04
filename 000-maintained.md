@@ -241,6 +241,10 @@
 - [ ] [<code>tests: Skip nftables test on old kernels</code>](https://github.com/lxc/incus/commit/7b0094920f98ecef50e71f3cf8cb64896b9f87ef)
 - [ ] [<code>shared/util: Add IsNoneOrEmpty</code>](https://github.com/lxc/incus/commit/06fede48db20f983037126687c8a9210ad250ada)
 - [ ] [<code>incusd/network/bridge: Tweak dnsmasq startup condition</code>](https://github.com/lxc/incus/commit/5d5d67f876835c7a23e5e14159a3d49d2f00923b)
+- [ ] [<code>shared/cgo: Add finalize_userns</code>](https://github.com/lxc/incus/commit/2005b07ebeb7f31640bb82c5c939585cde5d18e5)
+- [ ] [<code>shared/cgo: Export in_same_namespace</code>](https://github.com/lxc/incus/commit/936686b2a42726c16fdadb02f6ad6c1fa7ed218d)
+- [ ] [<code>incusd/main_forkproxy: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/4494bad12c572d069042cf169aa07d8fd82f4b3b)
+- [ ] [<code>incusd/main_forkfile: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/3d6b003f1a6bd49707ab181636f2629e3cde195c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2055,6 +2059,10 @@
 - [ ] [<code>tests: Skip nftables test on old kernels</code>](https://github.com/lxc/incus/commit/7b0094920f98ecef50e71f3cf8cb64896b9f87ef)
 - [ ] [<code>shared/util: Add IsNoneOrEmpty</code>](https://github.com/lxc/incus/commit/06fede48db20f983037126687c8a9210ad250ada)
 - [ ] [<code>incusd/network/bridge: Tweak dnsmasq startup condition</code>](https://github.com/lxc/incus/commit/5d5d67f876835c7a23e5e14159a3d49d2f00923b)
+- [ ] [<code>shared/cgo: Add finalize_userns</code>](https://github.com/lxc/incus/commit/2005b07ebeb7f31640bb82c5c939585cde5d18e5)
+- [ ] [<code>shared/cgo: Export in_same_namespace</code>](https://github.com/lxc/incus/commit/936686b2a42726c16fdadb02f6ad6c1fa7ed218d)
+- [ ] [<code>incusd/main_forkproxy: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/4494bad12c572d069042cf169aa07d8fd82f4b3b)
+- [ ] [<code>incusd/main_forkfile: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/3d6b003f1a6bd49707ab181636f2629e3cde195c)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
