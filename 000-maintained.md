@@ -122,6 +122,7 @@
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 - [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
 - [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
+- [ ] [<code>fix: swipe_to_action upgrade to 0.3.0</code>](https://github.com/krille-chan/fluffychat/commit/eb5001b1082c2ce5e8ee5dc0c0c8670fcbd4e748)
 - [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
@@ -170,6 +171,7 @@
 - [ ] [<code>fix: Do not set public visibility for private groups</code>](https://github.com/krille-chan/fluffychat/commit/b62d3b449fcd57172ec471bd29677c4cd4fa8ca8)
 - [ ] [<code>build: Bump version to v1.24.0</code>](https://github.com/krille-chan/fluffychat/commit/bb5d865b46305a1504d2814aff6e14ba65e2cc67)
 - [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
+- [ ] [<code>fix: swipe_to_action upgrade to 0.3.0</code>](https://github.com/krille-chan/fluffychat/commit/eb5001b1082c2ce5e8ee5dc0c0c8670fcbd4e748)
 - [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
@@ -3455,6 +3457,9 @@
 - [ ] [<code>test(android): fix connectToSoundcoreDevice tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/edcd69c891c8086357c6784c1f748f69b1787f3c)
 - [ ] [<code>fix(android): quick presets unique by model rather than gatt service id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbffd0014d67b468e1c4b3bb2a2d94b0b4ddec9b)
 - [ ] [<code>fix(gui): quick presets unique by model rather than gatt service id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/19e3ddd6de2837cf77ffbb79441b3ae32072619f)
+- [ ] [<code>fix(windows): use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/35a36c53924a9cca9cc404f60a9bb68d9044beeb)
+- [ ] [<code>build(windows): fix unused result in build script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/681e862fc810e36ae4299f7758329e7fe061d497)
+- [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7abae9cf4db91d9124c1549be8b44b048f19e8a1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
