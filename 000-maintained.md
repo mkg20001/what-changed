@@ -3446,6 +3446,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test(android): fix connectToSoundcoreDevice tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/edcd69c891c8086357c6784c1f748f69b1787f3c)
 - [ ] [<code>fix(android): quick presets unique by model rather than gatt service id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbffd0014d67b468e1c4b3bb2a2d94b0b4ddec9b)
+- [ ] [<code>fix(gui): quick presets unique by model rather than gatt service id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/19e3ddd6de2837cf77ffbb79441b3ae32072619f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
