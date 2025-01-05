@@ -124,6 +124,8 @@
 - [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
 - [ ] [<code>fix: swipe_to_action upgrade to 0.3.0</code>](https://github.com/krille-chan/fluffychat/commit/eb5001b1082c2ce5e8ee5dc0c0c8670fcbd4e748)
 - [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
+- [ ] [<code>feat: Swipe to next or previous image in image viewer</code>](https://github.com/krille-chan/fluffychat/commit/fb685c03cfea43eb3a3de7c6db4f626e2702452a)
+- [ ] [<code>chore: Follow up image viewer swipe</code>](https://github.com/krille-chan/fluffychat/commit/f7bf273c172b0ee9cdab9154f049a53bc6d762bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -173,6 +175,8 @@
 - [ ] [<code>fix: Only try again load mxc image on io exception</code>](https://github.com/krille-chan/fluffychat/commit/f301d5edd1898548755f78b59486c74b3e954e22)
 - [ ] [<code>fix: swipe_to_action upgrade to 0.3.0</code>](https://github.com/krille-chan/fluffychat/commit/eb5001b1082c2ce5e8ee5dc0c0c8670fcbd4e748)
 - [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
+- [ ] [<code>feat: Swipe to next or previous image in image viewer</code>](https://github.com/krille-chan/fluffychat/commit/fb685c03cfea43eb3a3de7c6db4f626e2702452a)
+- [ ] [<code>chore: Follow up image viewer swipe</code>](https://github.com/krille-chan/fluffychat/commit/f7bf273c172b0ee9cdab9154f049a53bc6d762bd)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3467,7 +3471,7 @@
 
 > Dropped python312Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
-> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.3.4.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [python312Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
