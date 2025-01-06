@@ -200,6 +200,10 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.5 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/66ac4710a3957fde306c32bacb8fbc668cbad7a7)
+- [ ] [<code>3.50.6</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/b4e1fee7cd00b7945d199017d18586295c2ea023)
+  - <sub>Tags: <code>3.50.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -258,6 +262,10 @@
 - [ ] [<code>shared/cgo: Export in_same_namespace</code>](https://github.com/lxc/incus/commit/936686b2a42726c16fdadb02f6ad6c1fa7ed218d)
 - [ ] [<code>incusd/main_forkproxy: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/4494bad12c572d069042cf169aa07d8fd82f4b3b)
 - [ ] [<code>incusd/main_forkfile: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/3d6b003f1a6bd49707ab181636f2629e3cde195c)
+- [ ] [<code>internal/linux: Add ClearBlock</code>](https://github.com/lxc/incus/commit/82abb2a2aec6569594667e927f90b772dc2c4b28)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Switch to linux.ClearBlock</code>](https://github.com/lxc/incus/commit/d4acafdc5cb7cef729c0ab21f5c519914cca9dbc)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2076,6 +2084,10 @@
 - [ ] [<code>shared/cgo: Export in_same_namespace</code>](https://github.com/lxc/incus/commit/936686b2a42726c16fdadb02f6ad6c1fa7ed218d)
 - [ ] [<code>incusd/main_forkproxy: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/4494bad12c572d069042cf169aa07d8fd82f4b3b)
 - [ ] [<code>incusd/main_forkfile: Join all namespaces at once</code>](https://github.com/lxc/incus/commit/3d6b003f1a6bd49707ab181636f2629e3cde195c)
+- [ ] [<code>internal/linux: Add ClearBlock</code>](https://github.com/lxc/incus/commit/82abb2a2aec6569594667e927f90b772dc2c4b28)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Switch to linux.ClearBlock</code>](https://github.com/lxc/incus/commit/d4acafdc5cb7cef729c0ab21f5c519914cca9dbc)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2283,6 +2295,13 @@
 - [ ] [<code>Fix typo (#2550)</code>](https://github.com/AOMediaCodec/libavif/commit/842a2ed4c217ebae707a3db84c76a1ca3b5a6ca4)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>avifenc: make alpha quality be the same as the color quality by default. (#2548)</code>](https://github.com/AOMediaCodec/libavif/commit/1346d9c8e2f9bedb08a680b56b78ceba53b03841)
+- [ ] [<code>Factor out common code in shell tests. (#2552)</code>](https://github.com/AOMediaCodec/libavif/commit/1ebddd311b9afc13e2e24fff425108f3387d3789)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Remove extra AVIF_ in AVIF_AVIF_FUZZTEST option (#2551)</code>](https://github.com/AOMediaCodec/libavif/commit/66d45c10530a12617ab936ccb7aa8fa0f6861a0b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix fuzztest when already present in ext (#2554)</code>](https://github.com/AOMediaCodec/libavif/commit/04e37141c1aae3b643215ceccfe98297008743c7)
+- [ ] [<code>Replace ipmaArray with avifItemPropertyAssociation (#2555)</code>](https://github.com/AOMediaCodec/libavif/commit/2de9287b44d57ca7c00a6cf1d3bbec3b671ccb5b)
+- [ ] [<code>Add comments about essential properties (#2556)</code>](https://github.com/AOMediaCodec/libavif/commit/e9a27bc6a84f01b6670c05c301c445f33a464992)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2384,6 +2403,7 @@
 - [ ] [<code>github: Update checkout to v4</code>](https://github.com/lxc/lxcfs/commit/a1f9602d607261f6611f1ab67c7809405b3defa8)
 - [ ] [<code>github: Cleanup testsuite action</code>](https://github.com/lxc/lxcfs/commit/f81944262f0d23025b919ebf714e77403aa1c47f)
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxcfs/commit/3a43ced282287c66a5aa9f6aef954ea16f92f3d8)
+- [ ] [<code>proc_fuse: add psi(pressure stall information) procfs</code>](https://github.com/lxc/lxcfs/commit/31da3ae731469d1916f67a4ca429dd24ac86d53b)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
