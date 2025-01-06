@@ -1,6 +1,12 @@
 
 #### [bulky](https://github.com/linuxmint/bulky): [3.5 → HEAD](https://github.com/linuxmint/bulky/compare/3.5...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/13007d5c2e418732b85bf79d67a7412584bcece4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/ae17f8462f618a4e6194582d36e6e2455eb8fdeb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>3.6</code>](https://github.com/linuxmint/bulky/commit/ec8bfa0a913bb46bac20532ee2adebdbd8f81a6d)
+  - <sub>Tags: <code>3.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.3...HEAD)
 
@@ -17,8 +23,12 @@
 - [ ] [<code>dialogs: Re-enable panels on destroy</code>](https://github.com/linuxmint/cinnamon/commit/e3dbc516e45afc48a5e15a01a3f83a21c3984efe)
 - [ ] [<code>modalDialog.js: Disable the lightbox if the virtual keyboard</code>](https://github.com/linuxmint/cinnamon/commit/3bed0fb94ac58ea71c21454b65edc9d06917cfbd)
 - [ ] [<code>6.4.4</code>](https://github.com/linuxmint/cinnamon/commit/21e51b19d5479ab94a3471b7891e16acb63bed40)
-  - <sub>Tags: <code>6.4.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.4.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>dialog.js: add style class dialog-button-box (#12601)</code>](https://github.com/linuxmint/cinnamon/commit/0bcdb0f7e462e468a199182a8d6ce728b6e56d0b)
+- [ ] [<code>virtualKeyboard.js: Re-enable focus monitoring.</code>](https://github.com/linuxmint/cinnamon/commit/7c6c525cf68f24c9c2e066de1fd9ed1104b72c4c)
+- [ ] [<code>main.js: Handle an end-session-dialog failure to show.</code>](https://github.com/linuxmint/cinnamon/commit/256ad2fac9203f8747b921805ed6259c134513a9)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -40,12 +50,18 @@
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
 
+- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/717d8c74b57a66ccee146c228cd4966d6756d666)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/320b425e61e0c6c7e2a5162857af63c497af65f6)
+  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
 
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [208e66285ec33a078205a221af579c79bc8cad01 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/208e66285ec33a078205a221af579c79bc8cad01...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/d00b25b8169ecad1b3e421ae7a8ae2576662f669)
+- [ ] [<code>1.6.7</code>](https://github.com/linuxmint/folder-color-switcher/commit/5bd94d3ffdb9585c09832f0beabb14f0e67e8d58)
 > Dropped mint-artwork - no appropriate URL found OrderedDict([('attr_path', 'mint-artwork'), ('home_url', 'https://github.com/linuxmint/mint-artwork'), ('src_url', ''), ('urls', ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.4.tar.xz', 'https://web.archive.org/web/20240707114553/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.4.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -95,15 +111,28 @@
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.4 → HEAD](https://github.com/linuxmint/pix/compare/3.4.4...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/c64004457b0124d8a4f842aa8c927bab109f2908)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>3.4.5</code>](https://github.com/linuxmint/pix/commit/621e3c95c300690648f934a1b7b1e1e6483986c5)
+  - <sub>Tags: <code>3.4.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.7 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.7...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/dc8e08ed7dc2a30ccb40270b4b59d1011adf2439)
+- [ ] [<code>1.8.8</code>](https://github.com/linuxmint/warpinator/commit/888640147fa9e1438ee9e0842006cd9f2ddd606a)
+  - <sub>Tags: <code>1.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.7 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.7...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/6a6fd32fcf645ff718d802fd6ee81f548a80b36e)
+- [ ] [<code>2.8.8</code>](https://github.com/linuxmint/xapp/commit/17c45eb8e68aaeea386d5e299e16379d26ba141a)
+  - <sub>Tags: <code>2.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
@@ -113,3 +142,7 @@
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.7 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.7...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/46e325cf9dba4155f5169bb910d9e0e88623e9b4)
+- [ ] [<code>3.4.8</code>](https://github.com/linuxmint/xviewer/commit/4aaa17293c5f43ada0ef14f0a210a5c2b0410766)
+  - <sub>Tags: <code>3.4.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
