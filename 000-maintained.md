@@ -57,6 +57,7 @@
 - [ ] [<code>Make link to parse_duration versioned to 2.1.1</code>](https://github.com/stepchowfun/docuum/commit/8a8817aa23bf5e8d553a3a668c82616508362fb9)
 - [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/47c2f9380451d8e6dfd52833c13c0cbeb2e62215)
 - [ ] [<code>Remove the CI status badge</code>](https://github.com/stepchowfun/docuum/commit/66ea24329bc76d4ae75ff762d1044e2289a19e3f)
+- [ ] [<code>Bring back the CI badge with the new URL scheme</code>](https://github.com/stepchowfun/docuum/commit/c4c0ebf6fc82f37bae0889838492b228f050f6d8)
 > Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
@@ -126,6 +127,9 @@
 - [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
 - [ ] [<code>feat: Swipe to next or previous image in image viewer</code>](https://github.com/krille-chan/fluffychat/commit/fb685c03cfea43eb3a3de7c6db4f626e2702452a)
 - [ ] [<code>chore: Follow up image viewer swipe</code>](https://github.com/krille-chan/fluffychat/commit/f7bf273c172b0ee9cdab9154f049a53bc6d762bd)
+- [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/b2131e65e57f421f069fc7d289592760e7a4e2ca)
+- [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/1ef0289b6ad032fd758daa7fc5fee3e0769342c3)
+- [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -177,6 +181,9 @@
 - [ ] [<code>Update Mastodon Link in README.md</code>](https://github.com/krille-chan/fluffychat/commit/8b445a08321b7bb9433a43b78ebbe1763d8ab6b7)
 - [ ] [<code>feat: Swipe to next or previous image in image viewer</code>](https://github.com/krille-chan/fluffychat/commit/fb685c03cfea43eb3a3de7c6db4f626e2702452a)
 - [ ] [<code>chore: Follow up image viewer swipe</code>](https://github.com/krille-chan/fluffychat/commit/f7bf273c172b0ee9cdab9154f049a53bc6d762bd)
+- [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/b2131e65e57f421f069fc7d289592760e7a4e2ca)
+- [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/1ef0289b6ad032fd758daa7fc5fee3e0769342c3)
+- [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2272,6 +2279,10 @@
 - [ ] [<code>Fuzztest clean-ups (#2529)</code>](https://github.com/AOMediaCodec/libavif/commit/d3388d91ba3b63901914241fb299a471ea088121)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Use array in fuzztest_properties (#2546)</code>](https://github.com/AOMediaCodec/libavif/commit/5eaa316da9b101d5fdfe6939738670ef5610e9d5)
+- [ ] [<code>Remove LOCAL from logs as this was part of the old convention (#2549)</code>](https://github.com/AOMediaCodec/libavif/commit/e5747995b2268725da988e05582fa3418b14b831)
+- [ ] [<code>Fix typo (#2550)</code>](https://github.com/AOMediaCodec/libavif/commit/842a2ed4c217ebae707a3db84c76a1ca3b5a6ca4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>avifenc: make alpha quality be the same as the color quality by default. (#2548)</code>](https://github.com/AOMediaCodec/libavif/commit/1346d9c8e2f9bedb08a680b56b78ceba53b03841)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
