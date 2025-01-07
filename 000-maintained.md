@@ -198,12 +198,8 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.5 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.5...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.6 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.6...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/66ac4710a3957fde306c32bacb8fbc668cbad7a7)
-- [ ] [<code>3.50.6</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/b4e1fee7cd00b7945d199017d18586295c2ea023)
-  - <sub>Tags: <code>3.50.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
 
@@ -266,6 +262,12 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage: Switch to linux.ClearBlock</code>](https://github.com/lxc/incus/commit/d4acafdc5cb7cef729c0ab21f5c519914cca9dbc)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>internal/linux/discard: Remove leftover debugging</code>](https://github.com/lxc/incus/commit/1a70e0cdc1de280b3a8ee2454889000f5a30b659)
+- [ ] [<code>internal/linux/discard: Use marker length for buffer</code>](https://github.com/lxc/incus/commit/23f3548da1f8e47f6c5ead8ef0099dfff1624367)
+- [ ] [<code>internal/linux/discard: Add support for offset</code>](https://github.com/lxc/incus/commit/9766bfa2f82067b5f52a3f6c0f43fbbaf1547d3d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/generic: Pass offset to ClearBlock</code>](https://github.com/lxc/incus/commit/675c306a6fcbcbde93975f35e6d042bb374631d6)
+- [ ] [<code>incusd/storage/lvm: Discard the new blocks on resize</code>](https://github.com/lxc/incus/commit/8a365c07ad8706dd491ac37b7cba485188985f79)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2088,6 +2090,12 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage: Switch to linux.ClearBlock</code>](https://github.com/lxc/incus/commit/d4acafdc5cb7cef729c0ab21f5c519914cca9dbc)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>internal/linux/discard: Remove leftover debugging</code>](https://github.com/lxc/incus/commit/1a70e0cdc1de280b3a8ee2454889000f5a30b659)
+- [ ] [<code>internal/linux/discard: Use marker length for buffer</code>](https://github.com/lxc/incus/commit/23f3548da1f8e47f6c5ead8ef0099dfff1624367)
+- [ ] [<code>internal/linux/discard: Add support for offset</code>](https://github.com/lxc/incus/commit/9766bfa2f82067b5f52a3f6c0f43fbbaf1547d3d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/generic: Pass offset to ClearBlock</code>](https://github.com/lxc/incus/commit/675c306a6fcbcbde93975f35e6d042bb374631d6)
+- [ ] [<code>incusd/storage/lvm: Discard the new blocks on resize</code>](https://github.com/lxc/incus/commit/8a365c07ad8706dd491ac37b7cba485188985f79)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2305,6 +2313,13 @@
 - [ ] [<code>Force CI when .github/actions/** is changed (#2559)</code>](https://github.com/AOMediaCodec/libavif/commit/16ca487449955b4e7e18631c720db984181e9f90)
 - [ ] [<code>Add parens to MAX_PROPERTY_INDEX (#2560)</code>](https://github.com/AOMediaCodec/libavif/commit/8fc7f7eb48d595440389fe520351cf4155223415)
 - [ ] [<code>Use CMake's compiler when checking for static link bundling (#2561)</code>](https://github.com/AOMediaCodec/libavif/commit/824795d6cd78be2becd342698a3065f86e2541c1)
+- [ ] [<code>Set CC on macOS (#2562)</code>](https://github.com/AOMediaCodec/libavif/commit/502f67a735099fe53c672827997267b7b07626c1)
+- [ ] [<code>Properly set CARGO_CACHE_KEY (#2558)</code>](https://github.com/AOMediaCodec/libavif/commit/4b164521c3cc0029e898212f941985e52790e78b)
+- [ ] [<code>Add code coverage CI. (#2541)</code>](https://github.com/AOMediaCodec/libavif/commit/0def9e5a4861ce88474d6657e82a82319279c6eb)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Switch macos-13 to macos-latest in CI (#2563)</code>](https://github.com/AOMediaCodec/libavif/commit/acbf0e8d93e43269796bdc89667665eea1b83874)
+- [ ] [<code>Bump fuzztest (#2553)</code>](https://github.com/AOMediaCodec/libavif/commit/6c383259b8b230d58913b308a894e5aba650e2ba)
+- [ ] [<code>Update to SVT-AV1 v2.3.0</code>](https://github.com/AOMediaCodec/libavif/commit/9941c2460851b9aea42861f274e4c26ea7b02a0f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2407,6 +2422,7 @@
 - [ ] [<code>github: Cleanup testsuite action</code>](https://github.com/lxc/lxcfs/commit/f81944262f0d23025b919ebf714e77403aa1c47f)
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxcfs/commit/3a43ced282287c66a5aa9f6aef954ea16f92f3d8)
 - [ ] [<code>proc_fuse: add psi(pressure stall information) procfs</code>](https://github.com/lxc/lxcfs/commit/31da3ae731469d1916f67a4ca429dd24ac86d53b)
+- [ ] [<code>meminfo: Add slab_reclaimable to MemAvailable</code>](https://github.com/lxc/lxcfs/commit/abdecf18cfc68a8111369321cd6606c838b3f5c0)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3094,6 +3110,7 @@
 - [ ] [<code>doc: Add anchor link for deprecated gateway4/6 keys</code>](https://github.com/canonical/netplan/commit/a28be211a45c36aba6dafb519c213036788f87bd)
 - [ ] [<code>parse: fix renderer validation for nm-devices</code>](https://github.com/canonical/netplan/commit/e76557002968c04231d95f751ab4895c2ee01af8)
 - [ ] [<code>wifi: add support for wpa-psk-sha256</code>](https://github.com/canonical/netplan/commit/a03d6149975f392aa6e9e957ab7444d9ac88780c)
+- [ ] [<code>CI: cleanup spread.yml workflow now that PR#184 is fixed</code>](https://github.com/canonical/netplan/commit/0965bc92bb099e62073874578460cf722e1181df)
 > Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -3504,6 +3521,8 @@
 - [ ] [<code>fix(lib): some devices use vendor rfcomm guid (windows backend)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b12483f03f47beefac8f0066c6359020e6dba64e)
 - [ ] [<code>fix(android): some devices use vendor rfcomm guid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11b3d352e4bbbf246bd459768ee27494d320374f)
 - [ ] [<code>fix(android): don't hard fail when gatt service isn't found</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0f346692a003030ecd8396a0b57c9380b23944e)
+- [ ] [<code>refactor: fix incorrect naming</code>](https://github.com/Oppzippy/OpenSCQ30/commit/251339a7c6109e8f01dc00a56f0da2c5f6c789ad)
+- [ ] [<code>test(android): adjust test that no longer matches intended behavior</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fec0dfda4a6b669ccca306dffe8887a6a07f1d76)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
