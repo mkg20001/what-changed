@@ -1,12 +1,6 @@
 
-#### [bulky](https://github.com/linuxmint/bulky): [3.5 → HEAD](https://github.com/linuxmint/bulky/compare/3.5...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [3.6 → HEAD](https://github.com/linuxmint/bulky/compare/3.6...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/13007d5c2e418732b85bf79d67a7412584bcece4)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/ae17f8462f618a4e6194582d36e6e2455eb8fdeb)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>3.6</code>](https://github.com/linuxmint/bulky/commit/ec8bfa0a913bb46bac20532ee2adebdbd8f81a6d)
-  - <sub>Tags: <code>3.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.3...HEAD)
 
@@ -28,6 +22,11 @@
 - [ ] [<code>dialog.js: add style class dialog-button-box (#12601)</code>](https://github.com/linuxmint/cinnamon/commit/0bcdb0f7e462e468a199182a8d6ce728b6e56d0b)
 - [ ] [<code>virtualKeyboard.js: Re-enable focus monitoring.</code>](https://github.com/linuxmint/cinnamon/commit/7c6c525cf68f24c9c2e066de1fd9ed1104b72c4c)
 - [ ] [<code>main.js: Handle an end-session-dialog failure to show.</code>](https://github.com/linuxmint/cinnamon/commit/256ad2fac9203f8747b921805ed6259c134513a9)
+- [ ] [<code>power applet: Fix typo</code>](https://github.com/linuxmint/cinnamon/commit/d22070662180078c1cdbe3173044ce1333b5d0b7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>power applet: Apply the proper class name to the active profile</code>](https://github.com/linuxmint/cinnamon/commit/3773ac1e7f29449c4935945dd112566c9322ed0a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>closeDialog: Fix exception when the window has no app</code>](https://github.com/linuxmint/cinnamon/commit/2aa91fc2b8113a03c59cf08021206ddfeca61561)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -48,12 +47,8 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.1...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/717d8c74b57a66ccee146c228cd4966d6756d666)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>6.4.2</code>](https://github.com/linuxmint/cinnamon-translations/commit/320b425e61e0c6c7e2a5162857af63c497af65f6)
-  - <sub>Tags: <code>6.4.2</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [6.4.0 → HEAD](https://github.com/linuxmint/cjs/compare/6.4.0...HEAD)
 
@@ -127,12 +122,8 @@
   - <sub>Tags: <code>1.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.7 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.7...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.8...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/6a6fd32fcf645ff718d802fd6ee81f548a80b36e)
-- [ ] [<code>2.8.8</code>](https://github.com/linuxmint/xapp/commit/17c45eb8e68aaeea386d5e299e16379d26ba141a)
-  - <sub>Tags: <code>2.8.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
@@ -140,9 +131,5 @@
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
 
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.7 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.7...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/46e325cf9dba4155f5169bb910d9e0e88623e9b4)
-- [ ] [<code>3.4.8</code>](https://github.com/linuxmint/xviewer/commit/4aaa17293c5f43ada0ef14f0a210a5c2b0410766)
-  - <sub>Tags: <code>3.4.8</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
