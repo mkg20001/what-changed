@@ -2302,6 +2302,9 @@
 - [ ] [<code>Fix fuzztest when already present in ext (#2554)</code>](https://github.com/AOMediaCodec/libavif/commit/04e37141c1aae3b643215ceccfe98297008743c7)
 - [ ] [<code>Replace ipmaArray with avifItemPropertyAssociation (#2555)</code>](https://github.com/AOMediaCodec/libavif/commit/2de9287b44d57ca7c00a6cf1d3bbec3b671ccb5b)
 - [ ] [<code>Add comments about essential properties (#2556)</code>](https://github.com/AOMediaCodec/libavif/commit/e9a27bc6a84f01b6670c05c301c445f33a464992)
+- [ ] [<code>Force CI when .github/actions/** is changed (#2559)</code>](https://github.com/AOMediaCodec/libavif/commit/16ca487449955b4e7e18631c720db984181e9f90)
+- [ ] [<code>Add parens to MAX_PROPERTY_INDEX (#2560)</code>](https://github.com/AOMediaCodec/libavif/commit/8fc7f7eb48d595440389fe520351cf4155223415)
+- [ ] [<code>Use CMake's compiler when checking for static link bundling (#2561)</code>](https://github.com/AOMediaCodec/libavif/commit/824795d6cd78be2becd342698a3065f86e2541c1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3495,6 +3498,12 @@
 - [ ] [<code>fix(windows): use RFCOMM instead of BLE</code>](https://github.com/Oppzippy/OpenSCQ30/commit/35a36c53924a9cca9cc404f60a9bb68d9044beeb)
 - [ ] [<code>build(windows): fix unused result in build script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/681e862fc810e36ae4299f7758329e7fe061d497)
 - [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7abae9cf4db91d9124c1549be8b44b048f19e8a1)
+- [ ] [<code>fix(lib): add bluer connection timeout</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a2cbe0a97577f4fe72a4a3e47ea406b109fedc3a)
+- [ ] [<code>fix(lib): some devices use vendor rfcomm guid (bluer backend)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8aafd8f0ad29aef23df9247bf7b0076903d937b9)
+- [ ] [<code>fix(lib): add back ble scanning (bluer)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8ac8de1adfd98e6b9f2e3bdb436d3b30d58d1293)
+- [ ] [<code>fix(lib): some devices use vendor rfcomm guid (windows backend)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b12483f03f47beefac8f0066c6359020e6dba64e)
+- [ ] [<code>fix(android): some devices use vendor rfcomm guid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11b3d352e4bbbf246bd459768ee27494d320374f)
+- [ ] [<code>fix(android): don't hard fail when gatt service isn't found</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0f346692a003030ecd8396a0b57c9380b23944e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
