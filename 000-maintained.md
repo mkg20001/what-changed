@@ -270,6 +270,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/generic: Pass offset to ClearBlock</code>](https://github.com/lxc/incus/commit/675c306a6fcbcbde93975f35e6d042bb374631d6)
 - [ ] [<code>incusd/storage/lvm: Discard the new blocks on resize</code>](https://github.com/lxc/incus/commit/8a365c07ad8706dd491ac37b7cba485188985f79)
+- [ ] [<code>incusd/storage/lvm: Run ClearBlock on all new thick block volumes</code>](https://github.com/lxc/incus/commit/f4a79fb989d4bf5b18a89c2b4e219094acb9b2c8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2098,6 +2099,7 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage/generic: Pass offset to ClearBlock</code>](https://github.com/lxc/incus/commit/675c306a6fcbcbde93975f35e6d042bb374631d6)
 - [ ] [<code>incusd/storage/lvm: Discard the new blocks on resize</code>](https://github.com/lxc/incus/commit/8a365c07ad8706dd491ac37b7cba485188985f79)
+- [ ] [<code>incusd/storage/lvm: Run ClearBlock on all new thick block volumes</code>](https://github.com/lxc/incus/commit/f4a79fb989d4bf5b18a89c2b4e219094acb9b2c8)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2322,6 +2324,7 @@
 - [ ] [<code>Switch macos-13 to macos-latest in CI (#2563)</code>](https://github.com/AOMediaCodec/libavif/commit/acbf0e8d93e43269796bdc89667665eea1b83874)
 - [ ] [<code>Bump fuzztest (#2553)</code>](https://github.com/AOMediaCodec/libavif/commit/6c383259b8b230d58913b308a894e5aba650e2ba)
 - [ ] [<code>Update to SVT-AV1 v2.3.0</code>](https://github.com/AOMediaCodec/libavif/commit/9941c2460851b9aea42861f274e4c26ea7b02a0f)
+- [ ] [<code>Bump fuzztest (#2565)</code>](https://github.com/AOMediaCodec/libavif/commit/78b0a28bbbc4f4497433056e80c1101dcd8464a7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3528,6 +3531,9 @@
 - [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9810b5a761c0cf15fbbe3b010fb5bfca1da51a60)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix(lib): timeout mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2530bc53482a25605b4e47305334b314af30f63a)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c93a4a8c9d0ce51e9fa952ff9018f497df1c10d)
+- [ ] [<code>build: v1.18.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/58550492ded5384323b6af417dbe66ed720c64c9)
+  - <sub>Tags: <code>v1.18.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
