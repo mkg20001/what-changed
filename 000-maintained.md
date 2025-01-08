@@ -130,6 +130,7 @@
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/b2131e65e57f421f069fc7d289592760e7a4e2ca)
 - [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/1ef0289b6ad032fd758daa7fc5fee3e0769342c3)
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
+- [ ] [<code>chore: Try out new matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/55eb23f14d0f9c05325214310783b248015706a9)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -184,6 +185,7 @@
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/b2131e65e57f421f069fc7d289592760e7a4e2ca)
 - [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/1ef0289b6ad032fd758daa7fc5fee3e0769342c3)
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
+- [ ] [<code>chore: Try out new matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/55eb23f14d0f9c05325214310783b248015706a9)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
