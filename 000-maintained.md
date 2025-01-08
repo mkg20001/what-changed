@@ -3523,6 +3523,9 @@
 - [ ] [<code>fix(android): don't hard fail when gatt service isn't found</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0f346692a003030ecd8396a0b57c9380b23944e)
 - [ ] [<code>refactor: fix incorrect naming</code>](https://github.com/Oppzippy/OpenSCQ30/commit/251339a7c6109e8f01dc00a56f0da2c5f6c789ad)
 - [ ] [<code>test(android): adjust test that no longer matches intended behavior</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fec0dfda4a6b669ccca306dffe8887a6a07f1d76)
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9810b5a761c0cf15fbbe3b010fb5bfca1da51a60)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(lib): timeout mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2530bc53482a25605b4e47305334b314af30f63a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
