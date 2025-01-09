@@ -32,6 +32,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/lxc/distrobuilder/commit/319f29f992efc1a71eddff832842172b61852ada)
 - [ ] [<code>lxc.generator: Workaround issue with nsresourced</code>](https://github.com/lxc/distrobuilder/commit/4937e157abcdbc55ad9f2c5a58bb827356d4ec8c)
 - [ ] [<code>lxc.generator: Fix systemd-networkd on recent distros</code>](https://github.com/lxc/distrobuilder/commit/fc122ca7d03bfc6335280e1c5a75a5dca8e6369e)
+- [ ] [<code>Makefile: Sync update-gomod with Incus</code>](https://github.com/lxc/distrobuilder/commit/d6cea1c78395398e4dcbdeba68a9f47416c18ec0)
+- [ ] [<code>imports: replace gopkg.in/antchfx/htmlquery.v1</code>](https://github.com/lxc/distrobuilder/commit/ecccb1a0507814a9127a2aecbd7147ddac687e87)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/79a65d63fbd285dd7955e98360803e23e8133e23)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -131,6 +134,7 @@
 - [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/1ef0289b6ad032fd758daa7fc5fee3e0769342c3)
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
 - [ ] [<code>chore: Try out new matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/55eb23f14d0f9c05325214310783b248015706a9)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/f9f13a14b4cab41b8114f70272e21d1d93c2df4b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -186,6 +190,7 @@
 - [ ] [<code>chore: Follow up imageviewer</code>](https://github.com/krille-chan/fluffychat/commit/1ef0289b6ad032fd758daa7fc5fee3e0769342c3)
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
 - [ ] [<code>chore: Try out new matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/55eb23f14d0f9c05325214310783b248015706a9)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/f9f13a14b4cab41b8114f70272e21d1d93c2df4b)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -271,6 +276,14 @@
 - [ ] [<code>incusd/storage/generic: Pass offset to ClearBlock</code>](https://github.com/lxc/incus/commit/675c306a6fcbcbde93975f35e6d042bb374631d6)
 - [ ] [<code>incusd/storage/lvm: Discard the new blocks on resize</code>](https://github.com/lxc/incus/commit/8a365c07ad8706dd491ac37b7cba485188985f79)
 - [ ] [<code>incusd/storage/lvm: Run ClearBlock on all new thick block volumes</code>](https://github.com/lxc/incus/commit/f4a79fb989d4bf5b18a89c2b4e219094acb9b2c8)
+- [ ] [<code>cmd: support header line for csv output</code>](https://github.com/lxc/incus/commit/5cd2c95dd38e1ab8bf2d3856759c67d1ab6dc4ae)
+- [ ] [<code>cmd: update --format flag description</code>](https://github.com/lxc/incus/commit/4f60396b387730f905bd5aaf4c5c32da66bc6214)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d2dcc80542743be30decc0f9738199472f582f3d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd: add validation for --format flag</code>](https://github.com/lxc/incus/commit/4a02ec4841d71ff1e39b91c84dd49f8c671bfe28)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: fix ref for vendor-data</code>](https://github.com/lxc/incus/commit/66d7895970d18195d25e67719278c3f4e33ea30e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2100,6 +2113,14 @@
 - [ ] [<code>incusd/storage/generic: Pass offset to ClearBlock</code>](https://github.com/lxc/incus/commit/675c306a6fcbcbde93975f35e6d042bb374631d6)
 - [ ] [<code>incusd/storage/lvm: Discard the new blocks on resize</code>](https://github.com/lxc/incus/commit/8a365c07ad8706dd491ac37b7cba485188985f79)
 - [ ] [<code>incusd/storage/lvm: Run ClearBlock on all new thick block volumes</code>](https://github.com/lxc/incus/commit/f4a79fb989d4bf5b18a89c2b4e219094acb9b2c8)
+- [ ] [<code>cmd: support header line for csv output</code>](https://github.com/lxc/incus/commit/5cd2c95dd38e1ab8bf2d3856759c67d1ab6dc4ae)
+- [ ] [<code>cmd: update --format flag description</code>](https://github.com/lxc/incus/commit/4f60396b387730f905bd5aaf4c5c32da66bc6214)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d2dcc80542743be30decc0f9738199472f582f3d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd: add validation for --format flag</code>](https://github.com/lxc/incus/commit/4a02ec4841d71ff1e39b91c84dd49f8c671bfe28)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: fix ref for vendor-data</code>](https://github.com/lxc/incus/commit/66d7895970d18195d25e67719278c3f4e33ea30e)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2325,6 +2346,9 @@
 - [ ] [<code>Bump fuzztest (#2553)</code>](https://github.com/AOMediaCodec/libavif/commit/6c383259b8b230d58913b308a894e5aba650e2ba)
 - [ ] [<code>Update to SVT-AV1 v2.3.0</code>](https://github.com/AOMediaCodec/libavif/commit/9941c2460851b9aea42861f274e4c26ea7b02a0f)
 - [ ] [<code>Bump fuzztest (#2565)</code>](https://github.com/AOMediaCodec/libavif/commit/78b0a28bbbc4f4497433056e80c1101dcd8464a7)
+- [ ] [<code>Print warnings on ignored clap,irot,imir (#2564)</code>](https://github.com/AOMediaCodec/libavif/commit/fa410dabf5074388dbd5b37cf361acb5470d9524)
+- [ ] [<code>Omit the apps/avifgainmaputil/ include directory</code>](https://github.com/AOMediaCodec/libavif/commit/e7b34a1f5e9f7024d08311c7bae156061b889882)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3534,6 +3558,10 @@
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c93a4a8c9d0ce51e9fa952ff9018f497df1c10d)
 - [ ] [<code>build: v1.18.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/58550492ded5384323b6af417dbe66ed720c64c9)
   - <sub>Tags: <code>v1.18.0</code></sub>
+- [ ] [<code>fix(lib): serial number not set from firmware version packet handler</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b8a6a8140abfc9bb28a09b03e3db285e9b003c58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: update build tool versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6e67d77b0742943349dc1e1286686216ff106164)
+- [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/458667986fc5a472cc48c41eb86395f5038f343b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
