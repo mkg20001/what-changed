@@ -3575,6 +3575,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: update build tool versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6e67d77b0742943349dc1e1286686216ff106164)
 - [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/458667986fc5a472cc48c41eb86395f5038f343b)
+- [ ] [<code>build: v1.18.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64dcb5ddcc6085140f28f2f6562e4fabb3ff6fe7)
+  - <sub>Tags: <code>v1.18.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
