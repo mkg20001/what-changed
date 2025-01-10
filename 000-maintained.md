@@ -284,6 +284,11 @@
 - [ ] [<code>cmd: add validation for --format flag</code>](https://github.com/lxc/incus/commit/4a02ec4841d71ff1e39b91c84dd49f8c671bfe28)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: fix ref for vendor-data</code>](https://github.com/lxc/incus/commit/66d7895970d18195d25e67719278c3f4e33ea30e)
+- [ ] [<code>devcontainer: initial version</code>](https://github.com/lxc/incus/commit/9b998b2187478ce0ef8e4ee9ad07ff6a0407bfa5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Makefile: add target for unit tests as root</code>](https://github.com/lxc/incus/commit/836cf1e72a1766f44ab9ae6babbc3a9bee948ed1)
+- [ ] [<code>Makefile: add missing installations for gotags and openfga</code>](https://github.com/lxc/incus/commit/9580097db988cb0399057a8b07ec38225d94e34c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2121,6 +2126,11 @@
 - [ ] [<code>cmd: add validation for --format flag</code>](https://github.com/lxc/incus/commit/4a02ec4841d71ff1e39b91c84dd49f8c671bfe28)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: fix ref for vendor-data</code>](https://github.com/lxc/incus/commit/66d7895970d18195d25e67719278c3f4e33ea30e)
+- [ ] [<code>devcontainer: initial version</code>](https://github.com/lxc/incus/commit/9b998b2187478ce0ef8e4ee9ad07ff6a0407bfa5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Makefile: add target for unit tests as root</code>](https://github.com/lxc/incus/commit/836cf1e72a1766f44ab9ae6babbc3a9bee948ed1)
+- [ ] [<code>Makefile: add missing installations for gotags and openfga</code>](https://github.com/lxc/incus/commit/9580097db988cb0399057a8b07ec38225d94e34c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2416,6 +2426,9 @@
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxc/commit/9589be83c1369c3f1722dcf47ecfb6f51c4eb541)
 - [ ] [<code>- LXC attach should exit on SIGCHLD</code>](https://github.com/lxc/lxc/commit/f02158439677d0c1d4b2ed2ed1ba9bc43923a05d)
 - [ ] [<code>confile-vlanid: undefined is not a zero value</code>](https://github.com/lxc/lxc/commit/50be11e8d8ce250951a86d51e59435f7846b5bd1)
+- [ ] [<code>conf: log name of invalid capability in error</code>](https://github.com/lxc/lxc/commit/4c4636830528300d122d2a0b4aa540b61e2e7128)
+- [ ] [<code>dbus: replace hardcoded dbus address with environment variable</code>](https://github.com/lxc/lxc/commit/844c49fcf356a55b83a26a0bb8a5e6d25039f549)
+- [ ] [<code>conf: warn when capabilities are disabled or libcap is not found</code>](https://github.com/lxc/lxc/commit/8d8fd27b57bf1ebc9cdbf129547961339dd45b8b)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
