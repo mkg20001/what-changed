@@ -135,6 +135,8 @@
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
 - [ ] [<code>chore: Try out new matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/55eb23f14d0f9c05325214310783b248015706a9)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/f9f13a14b4cab41b8114f70272e21d1d93c2df4b)
+- [ ] [<code>fix: Do not leave old room if join new room failed</code>](https://github.com/krille-chan/fluffychat/commit/a5dc6db4e8c443d4a120a11a3cc19f0039163aeb)
+- [ ] [<code>feat: Display file description on all file events</code>](https://github.com/krille-chan/fluffychat/commit/f68a9de6bfb26c7ab42a8d962995d89f412dd994)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -191,6 +193,8 @@
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/8613010c5e34db3bc502df04cb2501174752e9fa)
 - [ ] [<code>chore: Try out new matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/55eb23f14d0f9c05325214310783b248015706a9)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/f9f13a14b4cab41b8114f70272e21d1d93c2df4b)
+- [ ] [<code>fix: Do not leave old room if join new room failed</code>](https://github.com/krille-chan/fluffychat/commit/a5dc6db4e8c443d4a120a11a3cc19f0039163aeb)
+- [ ] [<code>feat: Display file description on all file events</code>](https://github.com/krille-chan/fluffychat/commit/f68a9de6bfb26c7ab42a8d962995d89f412dd994)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
