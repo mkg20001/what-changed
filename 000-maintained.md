@@ -293,6 +293,9 @@
 - [ ] [<code>Makefile: add target for unit tests as root</code>](https://github.com/lxc/incus/commit/836cf1e72a1766f44ab9ae6babbc3a9bee948ed1)
 - [ ] [<code>Makefile: add missing installations for gotags and openfga</code>](https://github.com/lxc/incus/commit/9580097db988cb0399057a8b07ec38225d94e34c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Skip remote peers when iterating peer networks</code>](https://github.com/lxc/incus/commit/1591c1d37ad42089395679a783460fa7dda03309)
+- [ ] [<code>incusd/storage/lvm: Move resize clearing to SetVolumeQuota</code>](https://github.com/lxc/incus/commit/eb751deb68cbf1b916a7667e68f5832ef2b6dc4e)
+- [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2135,6 +2138,9 @@
 - [ ] [<code>Makefile: add target for unit tests as root</code>](https://github.com/lxc/incus/commit/836cf1e72a1766f44ab9ae6babbc3a9bee948ed1)
 - [ ] [<code>Makefile: add missing installations for gotags and openfga</code>](https://github.com/lxc/incus/commit/9580097db988cb0399057a8b07ec38225d94e34c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Skip remote peers when iterating peer networks</code>](https://github.com/lxc/incus/commit/1591c1d37ad42089395679a783460fa7dda03309)
+- [ ] [<code>incusd/storage/lvm: Move resize clearing to SetVolumeQuota</code>](https://github.com/lxc/incus/commit/eb751deb68cbf1b916a7667e68f5832ef2b6dc4e)
+- [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3581,6 +3587,14 @@
 - [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/458667986fc5a472cc48c41eb86395f5038f343b)
 - [ ] [<code>build: v1.18.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64dcb5ddcc6085140f28f2f6562e4fabb3ff6fe7)
   - <sub>Tags: <code>v1.18.1</code></sub>
+- [ ] [<code>feat(android): add copy logs to clipboard button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/79ea73bb6c4998de381c894abdc8483477550026)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: clean up openscq30_lib::Error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53bbda96a82b63d16ec1a4cfc78f354d9e890eed)
+- [ ] [<code>fix(gui): don't show toasts with overly verbose errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ece2562996b2a27fab324c1fc27e040c2523bb21)
+- [ ] [<code>refactor(lib): add bluetooth adapter not available error variant</code>](https://github.com/Oppzippy/OpenSCQ30/commit/65e981914f5ea7e26b48d0ace2a1806e46a838e1)
+- [ ] [<code>docs: update supported devices in readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8326c659b9fcbd84fc41f8d8b4acbc2cf54be792)
+- [ ] [<code>docs: add alt text to IzzyOnDroid badge</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab4999b232397d5dac1797f1c04b717408d678f7)
+- [ ] [<code>build: v1.19.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f7468c5633bb2b2d89377ebe1aa73314caa41b0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
