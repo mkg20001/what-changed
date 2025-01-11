@@ -3596,6 +3596,8 @@
 - [ ] [<code>docs: add alt text to IzzyOnDroid badge</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab4999b232397d5dac1797f1c04b717408d678f7)
 - [ ] [<code>build: v1.19.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f7468c5633bb2b2d89377ebe1aa73314caa41b0)
   - <sub>Tags: <code>v1.19.0</code></sub>
+- [ ] [<code>fix(lib): newer a3028's have more state update packet fields</code>](https://github.com/Oppzippy/OpenSCQ30/commit/78cb93f6cbf981e55d03cc35773280e8f48892d8)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
