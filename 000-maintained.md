@@ -13,7 +13,7 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.3.0/dbeaver-ce-24.3.0-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.3.2/dbeaver-ce-24.3.2-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.3.2/dbeaver-ce-24.3.2-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -138,6 +138,8 @@
 - [ ] [<code>fix: Do not leave old room if join new room failed</code>](https://github.com/krille-chan/fluffychat/commit/a5dc6db4e8c443d4a120a11a3cc19f0039163aeb)
 - [ ] [<code>feat: Display file description on all file events</code>](https://github.com/krille-chan/fluffychat/commit/f68a9de6bfb26c7ab42a8d962995d89f412dd994)
 - [ ] [<code>chore: Show close icon for device verification warning</code>](https://github.com/krille-chan/fluffychat/commit/8cb06d602b8b6487b8011024835dc0e01c946584)
+- [ ] [<code>feat: Prevent sending messages if other party has no encryption keys</code>](https://github.com/krille-chan/fluffychat/commit/aa010767de6f08896d3c72fb0b4f222233036908)
+- [ ] [<code>chore: Follow up other party has no keys</code>](https://github.com/krille-chan/fluffychat/commit/2fef6faa1aa890c110688e8fe4d8f2f4956fb126)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -197,6 +199,8 @@
 - [ ] [<code>fix: Do not leave old room if join new room failed</code>](https://github.com/krille-chan/fluffychat/commit/a5dc6db4e8c443d4a120a11a3cc19f0039163aeb)
 - [ ] [<code>feat: Display file description on all file events</code>](https://github.com/krille-chan/fluffychat/commit/f68a9de6bfb26c7ab42a8d962995d89f412dd994)
 - [ ] [<code>chore: Show close icon for device verification warning</code>](https://github.com/krille-chan/fluffychat/commit/8cb06d602b8b6487b8011024835dc0e01c946584)
+- [ ] [<code>feat: Prevent sending messages if other party has no encryption keys</code>](https://github.com/krille-chan/fluffychat/commit/aa010767de6f08896d3c72fb0b4f222233036908)
+- [ ] [<code>chore: Follow up other party has no keys</code>](https://github.com/krille-chan/fluffychat/commit/2fef6faa1aa890c110688e8fe4d8f2f4956fb126)
 > Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
 
 > Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
@@ -2371,6 +2375,7 @@
 - [ ] [<code>Print warnings on ignored clap,irot,imir (#2564)</code>](https://github.com/AOMediaCodec/libavif/commit/fa410dabf5074388dbd5b37cf361acb5470d9524)
 - [ ] [<code>Omit the apps/avifgainmaputil/ include directory</code>](https://github.com/AOMediaCodec/libavif/commit/e7b34a1f5e9f7024d08311c7bae156061b889882)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Allow odd clap dimensions and offsets (#2426)</code>](https://github.com/AOMediaCodec/libavif/commit/d980845ee83248ab0285713f0679507dc50cb073)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
