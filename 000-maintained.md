@@ -3603,6 +3603,7 @@
 - [ ] [<code>refactor(lib): name unknown a3028 fields</code>](https://github.com/Oppzippy/OpenSCQ30/commit/51241e2f1df3604b4cec60efded64729bd54ab61)
 - [ ] [<code>build: v1.19.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bbd1d8bae927832e6b462d4ec6351195fb214951)
   - <sub>Tags: <code>v1.19.1</code></sub>
+- [ ] [<code>docs: update supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/27d64b3068a52f7501d22a60f1ef4312a2262f9e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
