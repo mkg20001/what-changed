@@ -3604,6 +3604,8 @@
 - [ ] [<code>build: v1.19.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bbd1d8bae927832e6b462d4ec6351195fb214951)
   - <sub>Tags: <code>v1.19.1</code></sub>
 - [ ] [<code>docs: update supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/27d64b3068a52f7501d22a60f1ef4312a2262f9e)
+- [ ] [<code>tools: add work in progress device faker tool</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8edb3ea1f7e2c5c54546ca77cc894304a67990ef)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
