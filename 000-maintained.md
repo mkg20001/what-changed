@@ -35,6 +35,7 @@
 - [ ] [<code>Makefile: Sync update-gomod with Incus</code>](https://github.com/lxc/distrobuilder/commit/d6cea1c78395398e4dcbdeba68a9f47416c18ec0)
 - [ ] [<code>imports: replace gopkg.in/antchfx/htmlquery.v1</code>](https://github.com/lxc/distrobuilder/commit/ecccb1a0507814a9127a2aecbd7147ddac687e87)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/79a65d63fbd285dd7955e98360803e23e8133e23)
+- [ ] [<code>systemd: Relax read-only path workaround</code>](https://github.com/lxc/distrobuilder/commit/7c515b4a9024858b88b79e76e1b6eab4f14568bb)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -142,6 +143,7 @@
 - [ ] [<code>chore: Follow up other party has no keys</code>](https://github.com/krille-chan/fluffychat/commit/2fef6faa1aa890c110688e8fe4d8f2f4956fb126)
 - [ ] [<code>build: Update flutter to 3.27.2</code>](https://github.com/krille-chan/fluffychat/commit/f66f99e93f96500fef017f3ee217433088f92a01)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
+- [ ] [<code>chore: Update lastEvent after redaction</code>](https://github.com/krille-chan/fluffychat/commit/6f18f71644b9fd8abce3ae81be855f09e2812550)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -205,6 +207,7 @@
 - [ ] [<code>chore: Follow up other party has no keys</code>](https://github.com/krille-chan/fluffychat/commit/2fef6faa1aa890c110688e8fe4d8f2f4956fb126)
 - [ ] [<code>build: Update flutter to 3.27.2</code>](https://github.com/krille-chan/fluffychat/commit/f66f99e93f96500fef017f3ee217433088f92a01)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
+- [ ] [<code>chore: Update lastEvent after redaction</code>](https://github.com/krille-chan/fluffychat/commit/6f18f71644b9fd8abce3ae81be855f09e2812550)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
