@@ -31,7 +31,7 @@
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [5bd94d3ffdb9585c09832f0beabb14f0e67e8d58 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/5bd94d3ffdb9585c09832f0beabb14f0e67e8d58...HEAD)
 
-> Dropped mint-artwork - no appropriate URL found OrderedDict([('attr_path', 'mint-artwork'), ('home_url', 'https://github.com/linuxmint/mint-artwork'), ('src_url', ''), ('urls', ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.9.tar.xz', 'https://web.archive.org/web/20250111022232/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.9.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.9.tar.xz', 'https://web.archive.org/web/20250111022232/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.8.9.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
@@ -80,7 +80,7 @@
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
-> Dropped nemo-with-extensions - no appropriate URL found OrderedDict([('attr_path', 'nemo-with-extensions'), ('home_url', 'https://github.com/linuxmint/nemo'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.5 → HEAD](https://github.com/linuxmint/pix/compare/3.4.5...HEAD)
