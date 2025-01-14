@@ -91,6 +91,7 @@
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
 
+- [ ] [<code>lib-ucode.c: add #define _GNU_SOURCE</code>](https://git.openwrt.org/project/udebug.git/commit/5d10084ea885b193bccd0f7da7137c1f5d766e58)
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
