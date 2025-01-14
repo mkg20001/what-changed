@@ -8,12 +8,12 @@
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
-> Dropped common-licenses - no appropriate URL found OrderedDict([('attr_path', 'common-licenses'), ('home_url', 'https://tracker.debian.org/pkg/base-files'), ('src_url', 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'), ('urls', ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped common-licenses - no appropriate URL found OrderedDict({'attr_path': 'common-licenses', 'home_url': 'https://tracker.debian.org/pkg/base-files', 'src_url': 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz', 'urls': ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict([('attr_path', 'dbeaver-bin'), ('home_url', 'https://dbeaver.io/'), ('src_url', 'https://github.com/dbeaver/dbeaver/releases/download/24.3.2/dbeaver-ce-24.3.2-linux.gtk.x86_64-nojdk.tar.gz'), ('urls', ['https://github.com/dbeaver/dbeaver/releases/download/24.3.2/dbeaver-ce-24.3.2-linux.gtk.x86_64-nojdk.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.2/dbeaver-ce-24.3.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.2/dbeaver-ce-24.3.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -61,7 +61,7 @@
 - [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/47c2f9380451d8e6dfd52833c13c0cbeb2e62215)
 - [ ] [<code>Remove the CI status badge</code>](https://github.com/stepchowfun/docuum/commit/66ea24329bc76d4ae75ff762d1044e2289a19e3f)
 - [ ] [<code>Bring back the CI badge with the new URL scheme</code>](https://github.com/stepchowfun/docuum/commit/c4c0ebf6fc82f37bae0889838492b228f050f6d8)
-> Dropped duckscript - no appropriate URL found OrderedDict([('attr_path', 'duckscript'), ('home_url', 'https://github.com/sagiegurari/duckscript'), ('src_url', 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'), ('urls', ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [ab5d44d594d68d106aafb511252a94a24e94d601 → HEAD](https://github.com/canonical/firmware-updater/compare/ab5d44d594d68d106aafb511252a94a24e94d601...HEAD)
@@ -140,6 +140,8 @@
 - [ ] [<code>chore: Show close icon for device verification warning</code>](https://github.com/krille-chan/fluffychat/commit/8cb06d602b8b6487b8011024835dc0e01c946584)
 - [ ] [<code>feat: Prevent sending messages if other party has no encryption keys</code>](https://github.com/krille-chan/fluffychat/commit/aa010767de6f08896d3c72fb0b4f222233036908)
 - [ ] [<code>chore: Follow up other party has no keys</code>](https://github.com/krille-chan/fluffychat/commit/2fef6faa1aa890c110688e8fe4d8f2f4956fb126)
+- [ ] [<code>build: Update flutter to 3.27.2</code>](https://github.com/krille-chan/fluffychat/commit/f66f99e93f96500fef017f3ee217433088f92a01)
+- [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -201,13 +203,15 @@
 - [ ] [<code>chore: Show close icon for device verification warning</code>](https://github.com/krille-chan/fluffychat/commit/8cb06d602b8b6487b8011024835dc0e01c946584)
 - [ ] [<code>feat: Prevent sending messages if other party has no encryption keys</code>](https://github.com/krille-chan/fluffychat/commit/aa010767de6f08896d3c72fb0b4f222233036908)
 - [ ] [<code>chore: Follow up other party has no keys</code>](https://github.com/krille-chan/fluffychat/commit/2fef6faa1aa890c110688e8fe4d8f2f4956fb126)
-> Dropped flutter - no appropriate URL found OrderedDict([('attr_path', 'flutter'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+- [ ] [<code>build: Update flutter to 3.27.2</code>](https://github.com/krille-chan/fluffychat/commit/f66f99e93f96500fef017f3ee217433088f92a01)
+- [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
+> Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter319 - no appropriate URL found OrderedDict([('attr_path', 'flutter319'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter324 - no appropriate URL found OrderedDict([('attr_path', 'flutter324'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter326 - no appropriate URL found OrderedDict([('attr_path', 'flutter326'), ('home_url', 'https://flutter.dev'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped flutter326 - no appropriate URL found OrderedDict({'attr_path': 'flutter326', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
@@ -2486,7 +2490,7 @@
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
-> Dropped mslink - no appropriate URL found OrderedDict([('attr_path', 'mslink'), ('home_url', 'http://www.mamachine.org/mslink/index.en.html'), ('src_url', 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'), ('urls', ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
@@ -3170,15 +3174,15 @@
 - [ ] [<code>parse: fix renderer validation for nm-devices</code>](https://github.com/canonical/netplan/commit/e76557002968c04231d95f751ab4895c2ee01af8)
 - [ ] [<code>wifi: add support for wpa-psk-sha256</code>](https://github.com/canonical/netplan/commit/a03d6149975f392aa6e9e957ab7444d9ac88780c)
 - [ ] [<code>CI: cleanup spread.yml workflow now that PR#184 is fixed</code>](https://github.com/canonical/netplan/commit/0965bc92bb099e62073874578460cf722e1181df)
-> Dropped odoo - no appropriate URL found OrderedDict([('attr_path', 'odoo'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped odoo15 - no appropriate URL found OrderedDict([('attr_path', 'odoo15'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped odoo16 - no appropriate URL found OrderedDict([('attr_path', 'odoo16'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped odoo17 - no appropriate URL found OrderedDict([('attr_path', 'odoo17'), ('home_url', 'https://www.odoo.com/'), ('src_url', 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'), ('urls', ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict([('attr_path', 'oil'), ('home_url', 'https://www.oilshell.org/'), ('src_url', 'https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz'), ('urls', ['https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oilshell.org/', 'src_url': 'https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz', 'urls': ['https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -3614,18 +3618,18 @@
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
-> Dropped python312Packages.confight - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.confight'), ('home_url', 'https://github.com/avature/confight'), ('src_url', 'mirror://pypi/c/confight/confight-2.0.tar.gz'), ('urls', ['mirror://pypi/c/confight/confight-2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.confight - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.confight', 'home_url': 'https://github.com/avature/confight', 'src_url': 'mirror://pypi/c/confight/confight-2.0.tar.gz', 'urls': ['mirror://pypi/c/confight/confight-2.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped python312Packages.ebaysdk - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.ebaysdk'), ('home_url', 'https://github.com/timotheus/ebaysdk-python'), ('src_url', 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'), ('urls', ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.ebaysdk - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.ebaysdk', 'home_url': 'https://github.com/timotheus/ebaysdk-python', 'src_url': 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz', 'urls': ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.human-readable'), ('home_url', 'https://github.com/staticdev/human-readable'), ('src_url', 'mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz'), ('urls', ['mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [python312Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict([('attr_path', 'python312Packages.pyipv8'), ('home_url', 'https://github.com/Tribler/py-ipv8'), ('src_url', 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'), ('urls', ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.40.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.40.1...HEAD)
@@ -3778,16 +3782,16 @@
 - [ ] [<code>github: Update downstream incus test by adding MinIO client</code>](https://github.com/cowsql/raft/commit/3fe2dc99dd4928c84fc384eb5b2d4613a4efa1fc)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: Update downstream incus test by adding MinIO client (#189)</code>](https://github.com/cowsql/raft/commit/5032ee9ad4b71f6b73e0c62643cd4c4405d85da8)
-> Dropped soundwireserver - no appropriate URL found OrderedDict([('attr_path', 'soundwireserver'), ('home_url', 'https://georgielabs.net/'), ('src_url', 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'), ('urls', ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
 
-> Dropped steam - no appropriate URL found OrderedDict([('attr_path', 'steam'), ('home_url', 'https://store.steampowered.com/'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped steam-run - no appropriate URL found OrderedDict([('attr_path', 'steam-run'), ('home_url', 'https://store.steampowered.com/'), ('src_url', None), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped steam-run - no appropriate URL found OrderedDict({'attr_path': 'steam-run', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped steam-unwrapped - no appropriate URL found OrderedDict([('attr_path', 'steam-unwrapped'), ('home_url', 'https://store.steampowered.com/'), ('src_url', 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz'), ('urls', ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.10.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.10.0...HEAD)
@@ -3860,9 +3864,9 @@
 
 - [ ] [<code>Fix broken German locale #670</code>](https://github.com/axcore/tartube/commit/972f8efc24d07acdd0cfaf0913cb940648eee6e4)
   - <sub>Keywords: <code>bin</code></sub>
-> Dropped timezonemap - no appropriate URL found OrderedDict([('attr_path', 'timezonemap'), ('home_url', 'https://launchpad.net/timezonemap'), ('src_url', 'lp:timezonemap'), ('urls', None), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '58')])
+> Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
-> Dropped tribler - no appropriate URL found OrderedDict([('attr_path', 'tribler'), ('home_url', 'https://www.tribler.org/'), ('src_url', 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'), ('urls', ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz']), ('kind', 'github'), ('to_rev', 'HEAD'), ('url', ''), ('from_rev', '')])
+> Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
