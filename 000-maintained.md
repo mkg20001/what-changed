@@ -2385,6 +2385,8 @@
 - [ ] [<code>Allow odd clap dimensions and offsets (#2426)</code>](https://github.com/AOMediaCodec/libavif/commit/d980845ee83248ab0285713f0679507dc50cb073)
 - [ ] [<code>Move entries from Changed to Added in CHANGELOG.md (#2570)</code>](https://github.com/AOMediaCodec/libavif/commit/2ea1f164169c3918423bc5f3f84ae70aed3bf024)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Ignore descr props after transf props (#2571)</code>](https://github.com/AOMediaCodec/libavif/commit/49729e47142e6c6fa3541bd08abaf454939d8d6f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
