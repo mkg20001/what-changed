@@ -2383,6 +2383,8 @@
 - [ ] [<code>Omit the apps/avifgainmaputil/ include directory</code>](https://github.com/AOMediaCodec/libavif/commit/e7b34a1f5e9f7024d08311c7bae156061b889882)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Allow odd clap dimensions and offsets (#2426)</code>](https://github.com/AOMediaCodec/libavif/commit/d980845ee83248ab0285713f0679507dc50cb073)
+- [ ] [<code>Move entries from Changed to Added in CHANGELOG.md (#2570)</code>](https://github.com/AOMediaCodec/libavif/commit/2ea1f164169c3918423bc5f3f84ae70aed3bf024)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3618,6 +3620,8 @@
 - [ ] [<code>docs: update supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/27d64b3068a52f7501d22a60f1ef4312a2262f9e)
 - [ ] [<code>tools: add work in progress device faker tool</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8edb3ea1f7e2c5c54546ca77cc894304a67990ef)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5b57e404c43f4a843f030a4ceb725e2034feee4)
+- [ ] [<code>fix(lib): windows connection issues with multiple bluetooth adapters</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d0748568aff7eca8062b9287cbd57639321a5b6e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
