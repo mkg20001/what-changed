@@ -309,6 +309,8 @@
 - [ ] [<code>incusd/network/ovn: Skip remote peers when iterating peer networks</code>](https://github.com/lxc/incus/commit/1591c1d37ad42089395679a783460fa7dda03309)
 - [ ] [<code>incusd/storage/lvm: Move resize clearing to SetVolumeQuota</code>](https://github.com/lxc/incus/commit/eb751deb68cbf1b916a7667e68f5832ef2b6dc4e)
 - [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
+- [ ] [<code>incusd/main_cluster: Tweak to have help refer to correct command name</code>](https://github.com/lxc/incus/commit/8dc59794a797753487fccac6883d0a9dcd0fd062)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2154,6 +2156,8 @@
 - [ ] [<code>incusd/network/ovn: Skip remote peers when iterating peer networks</code>](https://github.com/lxc/incus/commit/1591c1d37ad42089395679a783460fa7dda03309)
 - [ ] [<code>incusd/storage/lvm: Move resize clearing to SetVolumeQuota</code>](https://github.com/lxc/incus/commit/eb751deb68cbf1b916a7667e68f5832ef2b6dc4e)
 - [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
+- [ ] [<code>incusd/main_cluster: Tweak to have help refer to correct command name</code>](https://github.com/lxc/incus/commit/8dc59794a797753487fccac6883d0a9dcd0fd062)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
