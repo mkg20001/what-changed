@@ -67,6 +67,9 @@
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
 - [ ] [<code>file: Ignore config file with '.' in name</code>](https://git.openwrt.org/project/uci.git/commit/10f7996ec29449915640acca5d65b592365a4b14)
+- [ ] [<code>add support for an override config directory</code>](https://git.openwrt.org/project/uci.git/commit/fb3c2343b17b759b175f11aec5b3fbb1cf48bbc3)
+- [ ] [<code>CMakeLists.txt: bump minimum cmake version</code>](https://git.openwrt.org/project/uci.git/commit/047b2efc1348f489d1cf4526f5c5f3e070cb2411)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
