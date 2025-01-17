@@ -311,6 +311,7 @@
 - [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
 - [ ] [<code>incusd/main_cluster: Tweak to have help refer to correct command name</code>](https://github.com/lxc/incus/commit/8dc59794a797753487fccac6883d0a9dcd0fd062)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed link to point to correct manpage.</code>](https://github.com/lxc/incus/commit/e91cca7e6afd3eb0a936c89884ab5f7e28868914)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2158,6 +2159,7 @@
 - [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
 - [ ] [<code>incusd/main_cluster: Tweak to have help refer to correct command name</code>](https://github.com/lxc/incus/commit/8dc59794a797753487fccac6883d0a9dcd0fd062)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed link to point to correct manpage.</code>](https://github.com/lxc/incus/commit/e91cca7e6afd3eb0a936c89884ab5f7e28868914)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2391,6 +2393,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Ignore descr props after transf props (#2571)</code>](https://github.com/AOMediaCodec/libavif/commit/49729e47142e6c6fa3541bd08abaf454939d8d6f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Remove filter in avif_fuzztest_properties (#2575)</code>](https://github.com/AOMediaCodec/libavif/commit/e816c7dc3d66b7c9639c7bd5e4375c73cda4714a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3628,6 +3631,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5b57e404c43f4a843f030a4ceb725e2034feee4)
 - [ ] [<code>fix(lib): windows connection issues with multiple bluetooth adapters</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d0748568aff7eca8062b9287cbd57639321a5b6e)
+- [ ] [<code>fix(lib): improper filtering for connected devices on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf2f65a52713ec43e257204084a60c49e940634e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
