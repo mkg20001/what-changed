@@ -309,9 +309,33 @@
 - [ ] [<code>incusd/network/ovn: Skip remote peers when iterating peer networks</code>](https://github.com/lxc/incus/commit/1591c1d37ad42089395679a783460fa7dda03309)
 - [ ] [<code>incusd/storage/lvm: Move resize clearing to SetVolumeQuota</code>](https://github.com/lxc/incus/commit/eb751deb68cbf1b916a7667e68f5832ef2b6dc4e)
 - [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
+- [ ] [<code>incusd/device/disk: Remove virtfs-proxy-helper dependency</code>](https://github.com/lxc/incus/commit/a7a551fa8d2c349ae11e25d3e1265dd34be5fd96)
+  - <sub>Keywords: <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>tests: Remove 9p proxy driver</code>](https://github.com/lxc/incus/commit/e88f874cef024552ebb3efb2e5fb282a9387fe5c)
+- [ ] [<code>incusd/instance: Split startupHook function</code>](https://github.com/lxc/incus/commit/9696753be34e21410f91cd211e034f5b07059a66)
 - [ ] [<code>incusd/main_cluster: Tweak to have help refer to correct command name</code>](https://github.com/lxc/incus/commit/8dc59794a797753487fccac6883d0a9dcd0fd062)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Pass an *api.Instance to the scriptlet program</code>](https://github.com/lxc/incus/commit/7e6670025eddda09f31cfb8c10c8d1bc2239e7fe)
+- [ ] [<code>incusd/scriptlet/qemu: Add instance parameter to the QEMU scriptlet</code>](https://github.com/lxc/incus/commit/ec4ee7fa7b7bbf49c34f1545a955f88bc58f0b96)
+- [ ] [<code>incusd/instance: Rewire QEMU config generation</code>](https://github.com/lxc/incus/commit/688bb4198256be9cb5cfc5570658d94909cc49be)
+- [ ] [<code>incusd/instance: Make QEMU config types public</code>](https://github.com/lxc/incus/commit/9168da5cd71c0b013801ae4ae48178ed2af642cf)
+- [ ] [<code>incusd/scriptlet/qemu: Fix Starlark function name</code>](https://github.com/lxc/incus/commit/34626c5f0ec682fae0919970877f34ca0ce2bd3e)
+- [ ] [<code>incusd/scriptlet/qemu: Prevent calling QMP functions at config stage</code>](https://github.com/lxc/incus/commit/12f0e8accdf043da06df3d321e293178eb4f3d25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Better handle partitions</code>](https://github.com/lxc/incus/commit/3b6cb6c73cdf39179a5def22d0ccb80a45ffda6c)
 - [ ] [<code>Fixed link to point to correct manpage.</code>](https://github.com/lxc/incus/commit/e91cca7e6afd3eb0a936c89884ab5f7e28868914)
+- [ ] [<code>lxd-to-incus: Be more lenient on database changes</code>](https://github.com/lxc/incus/commit/851f9b1c2f263b1b7e1f7adbccd9f531eb9ba77b)
+- [ ] [<code>incusd/storage/drivers: Handle 4k sector sizes</code>](https://github.com/lxc/incus/commit/2e1ff7eb5dc17d1ed50ae7445573f0ebb6060955)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/dnsmasq: Don't put the project name in the DNS record</code>](https://github.com/lxc/incus/commit/474d48b260ca87ec84f7c9fdf8b8e634b36ed004)
+- [ ] [<code>incusd/device/disk: disable 9p if idmap requested</code>](https://github.com/lxc/incus/commit/8c764bca337b567d8318131cb813138807afa645)
+- [ ] [<code>incusd/scriptlet/qemu: Add QEMU configuration getters</code>](https://github.com/lxc/incus/commit/3c5081a73ff612c0880d1cd512945759bb61a1f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/scriptlet/qemu: Add QEMU configuration setters</code>](https://github.com/lxc/incus/commit/b0bb02c7b0cabd541119c1968fd972cb51a72a28)
+- [ ] [<code>api: qemu_scriptlet_config</code>](https://github.com/lxc/incus/commit/f5e5aa65060073e3b6fa11a6b7bd47ed36e88176)
+- [ ] [<code>doc/ref/instance_options: Update QEMU scriptlet documentation</code>](https://github.com/lxc/incus/commit/179b54ed9eec36b13ae5f2401b2403c638e4d487)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Update unit test</code>](https://github.com/lxc/incus/commit/be7d5f38588ac6f2d183de631a66ceab48f7d2be)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2157,9 +2181,33 @@
 - [ ] [<code>incusd/network/ovn: Skip remote peers when iterating peer networks</code>](https://github.com/lxc/incus/commit/1591c1d37ad42089395679a783460fa7dda03309)
 - [ ] [<code>incusd/storage/lvm: Move resize clearing to SetVolumeQuota</code>](https://github.com/lxc/incus/commit/eb751deb68cbf1b916a7667e68f5832ef2b6dc4e)
 - [ ] [<code>incusd/storage: Make use of qemu-img's target-is-zero option</code>](https://github.com/lxc/incus/commit/66117ce562e357f3798472e8e5b91c8693405a69)
+- [ ] [<code>incusd/device/disk: Remove virtfs-proxy-helper dependency</code>](https://github.com/lxc/incus/commit/a7a551fa8d2c349ae11e25d3e1265dd34be5fd96)
+  - <sub>Keywords: <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>tests: Remove 9p proxy driver</code>](https://github.com/lxc/incus/commit/e88f874cef024552ebb3efb2e5fb282a9387fe5c)
+- [ ] [<code>incusd/instance: Split startupHook function</code>](https://github.com/lxc/incus/commit/9696753be34e21410f91cd211e034f5b07059a66)
 - [ ] [<code>incusd/main_cluster: Tweak to have help refer to correct command name</code>](https://github.com/lxc/incus/commit/8dc59794a797753487fccac6883d0a9dcd0fd062)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Pass an *api.Instance to the scriptlet program</code>](https://github.com/lxc/incus/commit/7e6670025eddda09f31cfb8c10c8d1bc2239e7fe)
+- [ ] [<code>incusd/scriptlet/qemu: Add instance parameter to the QEMU scriptlet</code>](https://github.com/lxc/incus/commit/ec4ee7fa7b7bbf49c34f1545a955f88bc58f0b96)
+- [ ] [<code>incusd/instance: Rewire QEMU config generation</code>](https://github.com/lxc/incus/commit/688bb4198256be9cb5cfc5570658d94909cc49be)
+- [ ] [<code>incusd/instance: Make QEMU config types public</code>](https://github.com/lxc/incus/commit/9168da5cd71c0b013801ae4ae48178ed2af642cf)
+- [ ] [<code>incusd/scriptlet/qemu: Fix Starlark function name</code>](https://github.com/lxc/incus/commit/34626c5f0ec682fae0919970877f34ca0ce2bd3e)
+- [ ] [<code>incusd/scriptlet/qemu: Prevent calling QMP functions at config stage</code>](https://github.com/lxc/incus/commit/12f0e8accdf043da06df3d321e293178eb4f3d25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Better handle partitions</code>](https://github.com/lxc/incus/commit/3b6cb6c73cdf39179a5def22d0ccb80a45ffda6c)
 - [ ] [<code>Fixed link to point to correct manpage.</code>](https://github.com/lxc/incus/commit/e91cca7e6afd3eb0a936c89884ab5f7e28868914)
+- [ ] [<code>lxd-to-incus: Be more lenient on database changes</code>](https://github.com/lxc/incus/commit/851f9b1c2f263b1b7e1f7adbccd9f531eb9ba77b)
+- [ ] [<code>incusd/storage/drivers: Handle 4k sector sizes</code>](https://github.com/lxc/incus/commit/2e1ff7eb5dc17d1ed50ae7445573f0ebb6060955)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/dnsmasq: Don't put the project name in the DNS record</code>](https://github.com/lxc/incus/commit/474d48b260ca87ec84f7c9fdf8b8e634b36ed004)
+- [ ] [<code>incusd/device/disk: disable 9p if idmap requested</code>](https://github.com/lxc/incus/commit/8c764bca337b567d8318131cb813138807afa645)
+- [ ] [<code>incusd/scriptlet/qemu: Add QEMU configuration getters</code>](https://github.com/lxc/incus/commit/3c5081a73ff612c0880d1cd512945759bb61a1f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/scriptlet/qemu: Add QEMU configuration setters</code>](https://github.com/lxc/incus/commit/b0bb02c7b0cabd541119c1968fd972cb51a72a28)
+- [ ] [<code>api: qemu_scriptlet_config</code>](https://github.com/lxc/incus/commit/f5e5aa65060073e3b6fa11a6b7bd47ed36e88176)
+- [ ] [<code>doc/ref/instance_options: Update QEMU scriptlet documentation</code>](https://github.com/lxc/incus/commit/179b54ed9eec36b13ae5f2401b2403c638e4d487)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Update unit test</code>](https://github.com/lxc/incus/commit/be7d5f38588ac6f2d183de631a66ceab48f7d2be)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
