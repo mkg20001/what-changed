@@ -336,6 +336,8 @@
 - [ ] [<code>doc/ref/instance_options: Update QEMU scriptlet documentation</code>](https://github.com/lxc/incus/commit/179b54ed9eec36b13ae5f2401b2403c638e4d487)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance: Update unit test</code>](https://github.com/lxc/incus/commit/be7d5f38588ac6f2d183de631a66ceab48f7d2be)
+- [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2208,6 +2210,8 @@
 - [ ] [<code>doc/ref/instance_options: Update QEMU scriptlet documentation</code>](https://github.com/lxc/incus/commit/179b54ed9eec36b13ae5f2401b2403c638e4d487)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance: Update unit test</code>](https://github.com/lxc/incus/commit/be7d5f38588ac6f2d183de631a66ceab48f7d2be)
+- [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
