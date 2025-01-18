@@ -336,6 +336,13 @@
 - [ ] [<code>doc/ref/instance_options: Update QEMU scriptlet documentation</code>](https://github.com/lxc/incus/commit/179b54ed9eec36b13ae5f2401b2403c638e4d487)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance: Update unit test</code>](https://github.com/lxc/incus/commit/be7d5f38588ac6f2d183de631a66ceab48f7d2be)
+- [ ] [<code>incusd/instance/drivers: Introduce ReloadDevice</code>](https://github.com/lxc/incus/commit/55ed0ad107285dc45e728e0505563c6d4021dac2)
+- [ ] [<code>api: network_bridge_acl_devices</code>](https://github.com/lxc/incus/commit/b95e5e2e095c77d4b5a406ab3d6a996b796d322a)
+- [ ] [<code>incusd/device/nic: ACL support for bridge NIC device</code>](https://github.com/lxc/incus/commit/e8619518924c41278a243893b32b590ede5b2f1a)
+- [ ] [<code>incusd/server/firewall: ACL for bridge NIC device</code>](https://github.com/lxc/incus/commit/a298a8230f101fc7f1286acd3af5b7bac97f32bd)
+- [ ] [<code>doc/device/nic: Add ACL support to bridge NICs</code>](https://github.com/lxc/incus/commit/7efe31834c26ddc150e22e70fbd47a3e36e43c8a)
+- [ ] [<code>doc/network_acl: Document usage with bridged NICs</code>](https://github.com/lxc/incus/commit/b9e1d651f3816074fb799cffd32ca374dfa997d6)
+- [ ] [<code>tests: nftable test with ACL rules</code>](https://github.com/lxc/incus/commit/bc1b18dbe21d081b7aa227f4d4de24d902a0a77b)
 - [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
@@ -2210,6 +2217,13 @@
 - [ ] [<code>doc/ref/instance_options: Update QEMU scriptlet documentation</code>](https://github.com/lxc/incus/commit/179b54ed9eec36b13ae5f2401b2403c638e4d487)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance: Update unit test</code>](https://github.com/lxc/incus/commit/be7d5f38588ac6f2d183de631a66ceab48f7d2be)
+- [ ] [<code>incusd/instance/drivers: Introduce ReloadDevice</code>](https://github.com/lxc/incus/commit/55ed0ad107285dc45e728e0505563c6d4021dac2)
+- [ ] [<code>api: network_bridge_acl_devices</code>](https://github.com/lxc/incus/commit/b95e5e2e095c77d4b5a406ab3d6a996b796d322a)
+- [ ] [<code>incusd/device/nic: ACL support for bridge NIC device</code>](https://github.com/lxc/incus/commit/e8619518924c41278a243893b32b590ede5b2f1a)
+- [ ] [<code>incusd/server/firewall: ACL for bridge NIC device</code>](https://github.com/lxc/incus/commit/a298a8230f101fc7f1286acd3af5b7bac97f32bd)
+- [ ] [<code>doc/device/nic: Add ACL support to bridge NICs</code>](https://github.com/lxc/incus/commit/7efe31834c26ddc150e22e70fbd47a3e36e43c8a)
+- [ ] [<code>doc/network_acl: Document usage with bridged NICs</code>](https://github.com/lxc/incus/commit/b9e1d651f3816074fb799cffd32ca374dfa997d6)
+- [ ] [<code>tests: nftable test with ACL rules</code>](https://github.com/lxc/incus/commit/bc1b18dbe21d081b7aa227f4d4de24d902a0a77b)
 - [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
