@@ -345,6 +345,7 @@
 - [ ] [<code>tests: nftable test with ACL rules</code>](https://github.com/lxc/incus/commit/bc1b18dbe21d081b7aa227f4d4de24d902a0a77b)
 - [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2226,6 +2227,7 @@
 - [ ] [<code>tests: nftable test with ACL rules</code>](https://github.com/lxc/incus/commit/bc1b18dbe21d081b7aa227f4d4de24d902a0a77b)
 - [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2460,6 +2462,7 @@
 - [ ] [<code>Ignore descr props after transf props (#2571)</code>](https://github.com/AOMediaCodec/libavif/commit/49729e47142e6c6fa3541bd08abaf454939d8d6f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove filter in avif_fuzztest_properties (#2575)</code>](https://github.com/AOMediaCodec/libavif/commit/e816c7dc3d66b7c9639c7bd5e4375c73cda4714a)
+- [ ] [<code>Don't compare gainMapF[0] with itself</code>](https://github.com/AOMediaCodec/libavif/commit/9201ab7c8ee159e6619d1dc7a06b23595daa8cf2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
