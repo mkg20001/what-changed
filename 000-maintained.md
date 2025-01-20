@@ -3698,6 +3698,8 @@
 - [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5b57e404c43f4a843f030a4ceb725e2034feee4)
 - [ ] [<code>fix(lib): windows connection issues with multiple bluetooth adapters</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d0748568aff7eca8062b9287cbd57639321a5b6e)
 - [ ] [<code>fix(lib): improper filtering for connected devices on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf2f65a52713ec43e257204084a60c49e940634e)
+- [ ] [<code>fix(gui): windows installer not installing older versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/85ecac69030ced3d0032b96b65efbb492e2945ba)
+- [ ] [<code>refactor(lib): remove unnecessary arguments</code>](https://github.com/Oppzippy/OpenSCQ30/commit/934f02fcedc6540b2cd90220c6c2e139d01c63ea)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
