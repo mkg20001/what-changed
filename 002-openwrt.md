@@ -70,6 +70,8 @@
 - [ ] [<code>add support for an override config directory</code>](https://git.openwrt.org/project/uci.git/commit/fb3c2343b17b759b175f11aec5b3fbb1cf48bbc3)
 - [ ] [<code>CMakeLists.txt: bump minimum cmake version</code>](https://git.openwrt.org/project/uci.git/commit/047b2efc1348f489d1cf4526f5c5f3e070cb2411)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CMakeLists: add support for including ABIVERSION in the library version number</code>](https://git.openwrt.org/project/uci.git/commit/16ff0badbde7e17ec3bd1f827ffe45922956cf86)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
