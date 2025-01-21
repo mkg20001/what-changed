@@ -348,6 +348,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
 - [ ] [<code>doc: Updated storage_zfs.md</code>](https://github.com/lxc/incus/commit/4c38b43d0ed3302a2989405d9e8a04386366c4ad)
+- [ ] [<code>incusd/device/disk: Update correct mount options</code>](https://github.com/lxc/incus/commit/b35e3b33a6e087b7a311431f41360f1e1d79ab25)
 - [ ] [<code>incus/file/pull: Port to SFTP</code>](https://github.com/lxc/incus/commit/155b961fabde2836c5432a5965b700de692d63a5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b81177ada1438e5daca8e4457c05640ad721763d)
@@ -2235,6 +2236,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
 - [ ] [<code>doc: Updated storage_zfs.md</code>](https://github.com/lxc/incus/commit/4c38b43d0ed3302a2989405d9e8a04386366c4ad)
+- [ ] [<code>incusd/device/disk: Update correct mount options</code>](https://github.com/lxc/incus/commit/b35e3b33a6e087b7a311431f41360f1e1d79ab25)
 - [ ] [<code>incus/file/pull: Port to SFTP</code>](https://github.com/lxc/incus/commit/155b961fabde2836c5432a5965b700de692d63a5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b81177ada1438e5daca8e4457c05640ad721763d)
@@ -2474,6 +2476,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove filter in avif_fuzztest_properties (#2575)</code>](https://github.com/AOMediaCodec/libavif/commit/e816c7dc3d66b7c9639c7bd5e4375c73cda4714a)
 - [ ] [<code>Don't compare gainMapF[0] with itself</code>](https://github.com/AOMediaCodec/libavif/commit/9201ab7c8ee159e6619d1dc7a06b23595daa8cf2)
+- [ ] [<code>Bump dav1d to 1.5.1 (#2581)</code>](https://github.com/AOMediaCodec/libavif/commit/668accedbe7fa241be7eb74970f0fd1b1ae08a94)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3866,6 +3869,21 @@
 - [ ] [<code>Preparation for release 0.41.0</code>](https://github.com/foldynl/QLog.git/commit/67aa3ed2b2571891229c188c34ceab23001d4b6c)
   - <sub>Tags: <code>v0.41.0</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updated Italian Translation</code>](https://github.com/foldynl/QLog.git/commit/d8632930693888424c382746dd38634f0a7fa91e)
+- [ ] [<code>Fixed #571 - Hamlib API changes between 4.6.0 and 4.6.1</code>](https://github.com/foldynl/QLog.git/commit/97f8a3762fb19600154c11fe2330016374187fa7)
+- [ ] [<code>Fixed #571 - HamlibDrv: Used newer API to get information about Rig</code>](https://github.com/foldynl/QLog.git/commit/ee39df0a3d10b32bfca00d09cf96af56a88fc7aa)
+- [ ] [<code>It appears order matters on app start for floating windows affected by restoreState</code>](https://github.com/foldynl/QLog.git/commit/9afea0f78b5c0cfa67b7bf2fd34fd9d275d434cd)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/e0d384cefb628784d0e49ddf1f521fdce83fe7c2)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3c5f0087bbcdaa710f6f000cd283f99c86ba8940)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/70ddad740a950698b963207745e5a662fef51d8e)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/ae37d3bb0f922ef26aa9cfbd4d73935034d88ff3)
+- [ ] [<code>Fixed #572 - Incorrect GPL version in rpm/deb packages</code>](https://github.com/foldynl/QLog.git/commit/10e74a3aa9c40c90637e2835c101131c37ccd9f3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/28a9c4a32feea2c4858ecdec04f8dea747e56db4)
+- [ ] [<code>Fixed version string for the dev branch</code>](https://github.com/foldynl/QLog.git/commit/bd8d880a9ee34bc87fce46a2c97a73b0ca51d4cf)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/41c7f599086f6a3eee9b02a670cb0e8fc5062791)
+- [ ] [<code>Preparation for release 0.41.1</code>](https://github.com/foldynl/QLog.git/commit/c84cd18d2ee387244dd1489fce6a9a352489f1c3)
+  - <sub>Tags: <code>v0.41.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
