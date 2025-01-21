@@ -62,6 +62,7 @@
 - [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/47c2f9380451d8e6dfd52833c13c0cbeb2e62215)
 - [ ] [<code>Remove the CI status badge</code>](https://github.com/stepchowfun/docuum/commit/66ea24329bc76d4ae75ff762d1044e2289a19e3f)
 - [ ] [<code>Bring back the CI badge with the new URL scheme</code>](https://github.com/stepchowfun/docuum/commit/c4c0ebf6fc82f37bae0889838492b228f050f6d8)
+- [ ] [<code>Cargo.lock: Update 'ctrlc' and 'nix' crates</code>](https://github.com/stepchowfun/docuum/commit/cece4a0f9a469828a8ba834a2408389418020f95)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -347,6 +348,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
 - [ ] [<code>doc: Updated storage_zfs.md</code>](https://github.com/lxc/incus/commit/4c38b43d0ed3302a2989405d9e8a04386366c4ad)
+- [ ] [<code>incus/file/pull: Port to SFTP</code>](https://github.com/lxc/incus/commit/155b961fabde2836c5432a5965b700de692d63a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b81177ada1438e5daca8e4457c05640ad721763d)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2230,6 +2235,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
 - [ ] [<code>doc: Updated storage_zfs.md</code>](https://github.com/lxc/incus/commit/4c38b43d0ed3302a2989405d9e8a04386366c4ad)
+- [ ] [<code>incus/file/pull: Port to SFTP</code>](https://github.com/lxc/incus/commit/155b961fabde2836c5432a5965b700de692d63a5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b81177ada1438e5daca8e4457c05640ad721763d)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
