@@ -346,6 +346,7 @@
 - [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
+- [ ] [<code>doc: Updated storage_zfs.md</code>](https://github.com/lxc/incus/commit/4c38b43d0ed3302a2989405d9e8a04386366c4ad)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2228,6 +2229,7 @@
 - [ ] [<code>github: Switch to Github's hosted arm64 runners</code>](https://github.com/lxc/incus/commit/d04595bf9d30d700bcfff3553d16697bdf5c731d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>doc: typo</code>](https://github.com/lxc/incus/commit/e82da23cac72038ea41bbd5be22d1d5797f1cd23)
+- [ ] [<code>doc: Updated storage_zfs.md</code>](https://github.com/lxc/incus/commit/4c38b43d0ed3302a2989405d9e8a04386366c4ad)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
