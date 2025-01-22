@@ -147,6 +147,7 @@
 - [ ] [<code>build: Update flutter to 3.27.2</code>](https://github.com/krille-chan/fluffychat/commit/f66f99e93f96500fef017f3ee217433088f92a01)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
 - [ ] [<code>chore: Update lastEvent after redaction</code>](https://github.com/krille-chan/fluffychat/commit/6f18f71644b9fd8abce3ae81be855f09e2812550)
+- [ ] [<code>chore: Follow up reply color</code>](https://github.com/krille-chan/fluffychat/commit/7504756caf5c5baa2231243a500cff6eb01ffd8c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -211,6 +212,7 @@
 - [ ] [<code>build: Update flutter to 3.27.2</code>](https://github.com/krille-chan/fluffychat/commit/f66f99e93f96500fef017f3ee217433088f92a01)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
 - [ ] [<code>chore: Update lastEvent after redaction</code>](https://github.com/krille-chan/fluffychat/commit/6f18f71644b9fd8abce3ae81be855f09e2812550)
+- [ ] [<code>chore: Follow up reply color</code>](https://github.com/krille-chan/fluffychat/commit/7504756caf5c5baa2231243a500cff6eb01ffd8c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2479,6 +2481,9 @@
 - [ ] [<code>Remove filter in avif_fuzztest_properties (#2575)</code>](https://github.com/AOMediaCodec/libavif/commit/e816c7dc3d66b7c9639c7bd5e4375c73cda4714a)
 - [ ] [<code>Don't compare gainMapF[0] with itself</code>](https://github.com/AOMediaCodec/libavif/commit/9201ab7c8ee159e6619d1dc7a06b23595daa8cf2)
 - [ ] [<code>Bump dav1d to 1.5.1 (#2581)</code>](https://github.com/AOMediaCodec/libavif/commit/668accedbe7fa241be7eb74970f0fd1b1ae08a94)
+- [ ] [<code>Add memory sanitizer CI (#2254)</code>](https://github.com/AOMediaCodec/libavif/commit/2985845a45ed51c022993b7ad87a7fb29039b39a)
+- [ ] [<code>Fix some static analysis minor defects (#2569)</code>](https://github.com/AOMediaCodec/libavif/commit/54e94f5da9449349ea9966be5db174ecead6f8e7)
+- [ ] [<code>Fix assert failure when the gainmap has a constant values. (#2578)</code>](https://github.com/AOMediaCodec/libavif/commit/7ae69dbea82f8dc9775e1678d4fa69877ec16066)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
