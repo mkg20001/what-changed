@@ -78,6 +78,8 @@
 - [ ] [<code>fix(l10n): translated using Weblate (French)</code>](https://github.com/canonical/firmware-updater/commit/adef4dc8a02b3283579104a3f7bd4596f86ef112)
 - [ ] [<code>fix(l10n): translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/canonical/firmware-updater/commit/8dcf5cb58876421a2f328697b2070a59152afabf)
 - [ ] [<code>fix(l10n): translations update from Hosted Weblate (#320)</code>](https://github.com/canonical/firmware-updater/commit/73d512fc0c682e917285ab545a20ac272999adbe)
+- [ ] [<code>ci: add tics job</code>](https://github.com/canonical/firmware-updater/commit/406986ebda2f6b12581303d5324ef6607c82238a)
+- [ ] [<code>ci: add tics job (#324)</code>](https://github.com/canonical/firmware-updater/commit/7cf302d5cce0153f8bb156a7146f1fe03149d90f)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -4107,6 +4109,10 @@
 - [ ] [<code>debian/control: Fix Standards-Version, add Bugs</code>](https://github.com/jow-/ucode/commit/01efa7b92100619c55f87f468ec0948d433a22de)
 - [ ] [<code>debian/source/format: change to native</code>](https://github.com/jow-/ucode/commit/f50149d67fef3e0bf4b8a323bbff7af5ebf8410e)
 - [ ] [<code>debian/control: libucode Recommends ucode-modules</code>](https://github.com/jow-/ucode/commit/bd001ae4f830fb1db629f4e1457b9ecc82822c74)
+- [ ] [<code>docs: Mention `libmd` in macOS docs</code>](https://github.com/jow-/ucode/commit/87776a0bc2b21fde4a79aec5190443e027f85a2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: Fix compilation command for macOS</code>](https://github.com/jow-/ucode/commit/826a5c9de7d3471bbe224e005d9ef0e0c206aa72)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
