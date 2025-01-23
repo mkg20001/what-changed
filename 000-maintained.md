@@ -148,6 +148,7 @@
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
 - [ ] [<code>chore: Update lastEvent after redaction</code>](https://github.com/krille-chan/fluffychat/commit/6f18f71644b9fd8abce3ae81be855f09e2812550)
 - [ ] [<code>chore: Follow up reply color</code>](https://github.com/krille-chan/fluffychat/commit/7504756caf5c5baa2231243a500cff6eb01ffd8c)
+- [ ] [<code>chore: Follow up colors reply</code>](https://github.com/krille-chan/fluffychat/commit/43f47a2df6d4f20c3bfa989c666282743ed2695d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -213,6 +214,7 @@
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/36bdca84c784618375c6bf3b8c116684db5a3f34)
 - [ ] [<code>chore: Update lastEvent after redaction</code>](https://github.com/krille-chan/fluffychat/commit/6f18f71644b9fd8abce3ae81be855f09e2812550)
 - [ ] [<code>chore: Follow up reply color</code>](https://github.com/krille-chan/fluffychat/commit/7504756caf5c5baa2231243a500cff6eb01ffd8c)
+- [ ] [<code>chore: Follow up colors reply</code>](https://github.com/krille-chan/fluffychat/commit/43f47a2df6d4f20c3bfa989c666282743ed2695d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3724,6 +3726,9 @@
 - [ ] [<code>fix(lib): improper filtering for connected devices on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf2f65a52713ec43e257204084a60c49e940634e)
 - [ ] [<code>fix(gui): windows installer not installing older versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/85ecac69030ced3d0032b96b65efbb492e2945ba)
 - [ ] [<code>refactor(lib): remove unnecessary arguments</code>](https://github.com/Oppzippy/OpenSCQ30/commit/934f02fcedc6540b2cd90220c6c2e139d01c63ea)
+- [ ] [<code>fix(lib): remove debug print</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8f59fc496fee1e86a7ea2a34488e32bc53ba5e74)
+- [ ] [<code>fix(lib): possible race condition</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf0cfe83927a994aa1d252a3530ddd1583b2af7f)
+- [ ] [<code>fix(lib): decrease log level of expected message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cc0f6a7aff4a4d37b605b822e79d75af9ad0b7c1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
