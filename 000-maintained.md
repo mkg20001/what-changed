@@ -359,6 +359,18 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b81177ada1438e5daca8e4457c05640ad721763d)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: instance_debug_memory</code>](https://github.com/lxc/incus/commit/5a191dea5b96ee20b97c6e5fbff3cdadfa690f79)
+- [ ] [<code>incusd/instances/qemu: Add vmcoreinfo device</code>](https://github.com/lxc/incus/commit/bda250b74b941aa3931de72cc6a1f23c9b8b6710)
+- [ ] [<code>incusd/instances/qemu: Add dump-guset-memory implementation for instance memory debugging</code>](https://github.com/lxc/incus/commit/a3a258b7c391d4790bf84bbd52e9c91102e3296a)
+- [ ] [<code>incusd: Add GET /1.0/instances/NAME/debug/memory</code>](https://github.com/lxc/incus/commit/53b7c02df38e904563d84469d09edef7767578db)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fda44d1196912763ca90d1c0b6b6cdb03b43f558)
+- [ ] [<code>client: Add API implementation for instance memory debugging</code>](https://github.com/lxc/incus/commit/7245b4bbb6f147f485e7626548b9ca4a506970ab)
+- [ ] [<code>incus: Add "debug dump-memory" command</code>](https://github.com/lxc/incus/commit/e2434f5ba4fd95b58adf9cec7de9f5333b961862)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/380d0005b2c12792f668283465bd4e0e72121504)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc: Force white background for swagger API</code>](https://github.com/lxc/incus/commit/798a71561170f3b000f9700251e837796c5e7431)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/02e0f69ae1d792b40a12a6870a6a51f9f9b44d54)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2247,6 +2259,18 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/b81177ada1438e5daca8e4457c05640ad721763d)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: instance_debug_memory</code>](https://github.com/lxc/incus/commit/5a191dea5b96ee20b97c6e5fbff3cdadfa690f79)
+- [ ] [<code>incusd/instances/qemu: Add vmcoreinfo device</code>](https://github.com/lxc/incus/commit/bda250b74b941aa3931de72cc6a1f23c9b8b6710)
+- [ ] [<code>incusd/instances/qemu: Add dump-guset-memory implementation for instance memory debugging</code>](https://github.com/lxc/incus/commit/a3a258b7c391d4790bf84bbd52e9c91102e3296a)
+- [ ] [<code>incusd: Add GET /1.0/instances/NAME/debug/memory</code>](https://github.com/lxc/incus/commit/53b7c02df38e904563d84469d09edef7767578db)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fda44d1196912763ca90d1c0b6b6cdb03b43f558)
+- [ ] [<code>client: Add API implementation for instance memory debugging</code>](https://github.com/lxc/incus/commit/7245b4bbb6f147f485e7626548b9ca4a506970ab)
+- [ ] [<code>incus: Add "debug dump-memory" command</code>](https://github.com/lxc/incus/commit/e2434f5ba4fd95b58adf9cec7de9f5333b961862)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/380d0005b2c12792f668283465bd4e0e72121504)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc: Force white background for swagger API</code>](https://github.com/lxc/incus/commit/798a71561170f3b000f9700251e837796c5e7431)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/02e0f69ae1d792b40a12a6870a6a51f9f9b44d54)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
