@@ -371,6 +371,18 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: Force white background for swagger API</code>](https://github.com/lxc/incus/commit/798a71561170f3b000f9700251e837796c5e7431)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/02e0f69ae1d792b40a12a6870a6a51f9f9b44d54)
+- [ ] [<code>api: init_preseed_storage_volumes</code>](https://github.com/lxc/incus/commit/c55fa25d28fbe26ee661c6483f4a9f9a396e8b48)
+- [ ] [<code>client: Add storage volume initialization</code>](https://github.com/lxc/incus/commit/334b379a1c8a6a7695ee56e38b374af0c7c6225c)
+- [ ] [<code>shared/api: Add storage volume initialization</code>](https://github.com/lxc/incus/commit/fb6f116fba0dab9e6ac67b58b676c852157ad54f)
+- [ ] [<code>doc: Include storage initialization example</code>](https://github.com/lxc/incus/commit/d1242c31c86d81b6f7d0fae36a42467270591488)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/b8683821a4a3ee4d45a9b956a81798c5a36674b2)
+- [ ] [<code>tests: Include storage volume to init test</code>](https://github.com/lxc/incus/commit/419d236b9839b0f0c2b14f95d59bc29ab6d67a29)
+- [ ] [<code>incusd/instance/qemu: Fix device_id warning on 9.2.x</code>](https://github.com/lxc/incus/commit/c984c6880214909e9c64f85f1311f1fa42e2d013)
+- [ ] [<code>incus: Fix example description for debug dump-memory command</code>](https://github.com/lxc/incus/commit/c64ce9ec52e0b69b3c202bd0faca03981ba76a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6ab45ca83bbf6ad76a20171030b7283fd50e8de8)
+- [ ] [<code>Release Incus 6.9</code>](https://github.com/lxc/incus/commit/9a19882fddfd23a0cf34b7f458a49d0687b7c29f)
+  - <sub>Tags: <code>v6.9.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2271,6 +2283,18 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: Force white background for swagger API</code>](https://github.com/lxc/incus/commit/798a71561170f3b000f9700251e837796c5e7431)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/02e0f69ae1d792b40a12a6870a6a51f9f9b44d54)
+- [ ] [<code>api: init_preseed_storage_volumes</code>](https://github.com/lxc/incus/commit/c55fa25d28fbe26ee661c6483f4a9f9a396e8b48)
+- [ ] [<code>client: Add storage volume initialization</code>](https://github.com/lxc/incus/commit/334b379a1c8a6a7695ee56e38b374af0c7c6225c)
+- [ ] [<code>shared/api: Add storage volume initialization</code>](https://github.com/lxc/incus/commit/fb6f116fba0dab9e6ac67b58b676c852157ad54f)
+- [ ] [<code>doc: Include storage initialization example</code>](https://github.com/lxc/incus/commit/d1242c31c86d81b6f7d0fae36a42467270591488)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/b8683821a4a3ee4d45a9b956a81798c5a36674b2)
+- [ ] [<code>tests: Include storage volume to init test</code>](https://github.com/lxc/incus/commit/419d236b9839b0f0c2b14f95d59bc29ab6d67a29)
+- [ ] [<code>incusd/instance/qemu: Fix device_id warning on 9.2.x</code>](https://github.com/lxc/incus/commit/c984c6880214909e9c64f85f1311f1fa42e2d013)
+- [ ] [<code>incus: Fix example description for debug dump-memory command</code>](https://github.com/lxc/incus/commit/c64ce9ec52e0b69b3c202bd0faca03981ba76a2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6ab45ca83bbf6ad76a20171030b7283fd50e8de8)
+- [ ] [<code>Release Incus 6.9</code>](https://github.com/lxc/incus/commit/9a19882fddfd23a0cf34b7f458a49d0687b7c29f)
+  - <sub>Tags: <code>v6.9.0</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
