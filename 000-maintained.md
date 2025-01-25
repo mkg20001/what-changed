@@ -3990,6 +3990,9 @@
 - [ ] [<code>chore(go.d/ping): set privileged by default for dyncfg jobs (#19480)</code>](https://github.com/netdata/netdata.git/commit/7fc9caee449184d2e45b221ffbb96b2847168d39)
 - [ ] [<code>Regenerate integrations docs (#19481)</code>](https://github.com/netdata/netdata.git/commit/3d1bd4048c2f1ecd81d1764f5a9278ac30c27b15)
 - [ ] [<code>add system-info columns to streaming function (#19482)</code>](https://github.com/netdata/netdata.git/commit/752553d6ecd14c3607089148f36f525d0fcb61fb)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-18-nightly.</code>](https://github.com/netdata/netdata.git/commit/c76add3164a50f999a44568051e899180ce1bcd4)
+- [ ] [<code>Coverity fixes (#19484)</code>](https://github.com/netdata/netdata.git/commit/d6c7749b83138ebfcb21cc434cf3e3d4fff04961)
+- [ ] [<code>add agent name and version in streaming function (#19485)</code>](https://github.com/netdata/netdata.git/commit/9a9e314018f4ac49209b61d45f62c9f7700b1df1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5516,6 +5519,7 @@
 - [ ] [<code>docs: Fix compilation command for macOS</code>](https://github.com/jow-/ucode/commit/826a5c9de7d3471bbe224e005d9ef0e0c206aa72)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>main: add global SCRIPT_NAME variable</code>](https://github.com/jow-/ucode/commit/af881af4b0dca83e71ddaed0a4dcfdd419bb6409)
+- [ ] [<code>socket: fix AF_PACKET recvmsg() and sockaddr formatting</code>](https://github.com/jow-/ucode/commit/5cbd32514187f0888227acef120e869cc78ff53d)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
