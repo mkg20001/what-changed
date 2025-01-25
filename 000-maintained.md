@@ -3989,6 +3989,7 @@
 - [ ] [<code>Use QEMU from the runner environment instead of an external copy. (#19468)</code>](https://github.com/netdata/netdata.git/commit/d0b8699f3fd765a63ea5ab3931ca429b8c92cc7c)
 - [ ] [<code>chore(go.d/ping): set privileged by default for dyncfg jobs (#19480)</code>](https://github.com/netdata/netdata.git/commit/7fc9caee449184d2e45b221ffbb96b2847168d39)
 - [ ] [<code>Regenerate integrations docs (#19481)</code>](https://github.com/netdata/netdata.git/commit/3d1bd4048c2f1ecd81d1764f5a9278ac30c27b15)
+- [ ] [<code>add system-info columns to streaming function (#19482)</code>](https://github.com/netdata/netdata.git/commit/752553d6ecd14c3607089148f36f525d0fcb61fb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
