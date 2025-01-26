@@ -151,6 +151,11 @@
 - [ ] [<code>chore: Follow up colors reply</code>](https://github.com/krille-chan/fluffychat/commit/43f47a2df6d4f20c3bfa989c666282743ed2695d)
 - [ ] [<code>chore: Follow up snackbar theme</code>](https://github.com/krille-chan/fluffychat/commit/b80962fba76aa0cb964c26c72562c925aec3e77c)
 - [ ] [<code>build: Update Flutter Version</code>](https://github.com/krille-chan/fluffychat/commit/10dc4dc60e87e77e425cee1e5cdb301a31d6f5e2)
+- [ ] [<code>chore: Design adjustments</code>](https://github.com/krille-chan/fluffychat/commit/85bebb796c45ff5db250a1ce0cfafff018a60202)
+- [ ] [<code>chore: Adjust emoji picker design</code>](https://github.com/krille-chan/fluffychat/commit/fac2e5bde3d338fd2496065053883be10c32dcc8)
+- [ ] [<code>chore: Follow up emoji picker design</code>](https://github.com/krille-chan/fluffychat/commit/63e603614b4f91b0eb2a77d117c51b81f5e6e589)
+- [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/8717f1c43042d5454a04314966465eb82c545938)
+- [ ] [<code>chore: adjust design</code>](https://github.com/krille-chan/fluffychat/commit/9512e78441da3b056f7ca4c5563d6998ec07e757)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -219,6 +224,11 @@
 - [ ] [<code>chore: Follow up colors reply</code>](https://github.com/krille-chan/fluffychat/commit/43f47a2df6d4f20c3bfa989c666282743ed2695d)
 - [ ] [<code>chore: Follow up snackbar theme</code>](https://github.com/krille-chan/fluffychat/commit/b80962fba76aa0cb964c26c72562c925aec3e77c)
 - [ ] [<code>build: Update Flutter Version</code>](https://github.com/krille-chan/fluffychat/commit/10dc4dc60e87e77e425cee1e5cdb301a31d6f5e2)
+- [ ] [<code>chore: Design adjustments</code>](https://github.com/krille-chan/fluffychat/commit/85bebb796c45ff5db250a1ce0cfafff018a60202)
+- [ ] [<code>chore: Adjust emoji picker design</code>](https://github.com/krille-chan/fluffychat/commit/fac2e5bde3d338fd2496065053883be10c32dcc8)
+- [ ] [<code>chore: Follow up emoji picker design</code>](https://github.com/krille-chan/fluffychat/commit/63e603614b4f91b0eb2a77d117c51b81f5e6e589)
+- [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/8717f1c43042d5454a04314966465eb82c545938)
+- [ ] [<code>chore: adjust design</code>](https://github.com/krille-chan/fluffychat/commit/9512e78441da3b056f7ca4c5563d6998ec07e757)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3853,6 +3863,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-18-nightly.</code>](https://github.com/netdata/netdata.git/commit/c76add3164a50f999a44568051e899180ce1bcd4)
 - [ ] [<code>Coverity fixes (#19484)</code>](https://github.com/netdata/netdata.git/commit/d6c7749b83138ebfcb21cc434cf3e3d4fff04961)
 - [ ] [<code>add agent name and version in streaming function (#19485)</code>](https://github.com/netdata/netdata.git/commit/9a9e314018f4ac49209b61d45f62c9f7700b1df1)
+- [ ] [<code>Improve alert transition processing (#19487)</code>](https://github.com/netdata/netdata.git/commit/bb775105ffee2f8a62e7f685e5860963f27c6fd5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
