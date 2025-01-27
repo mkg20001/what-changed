@@ -80,6 +80,9 @@
 - [ ] [<code>fix(l10n): translations update from Hosted Weblate (#320)</code>](https://github.com/canonical/firmware-updater/commit/73d512fc0c682e917285ab545a20ac272999adbe)
 - [ ] [<code>ci: add tics job</code>](https://github.com/canonical/firmware-updater/commit/406986ebda2f6b12581303d5324ef6607c82238a)
 - [ ] [<code>ci: add tics job (#324)</code>](https://github.com/canonical/firmware-updater/commit/7cf302d5cce0153f8bb156a7146f1fe03149d90f)
+- [ ] [<code>fix(l10n): translated using Weblate (Finnish)</code>](https://github.com/canonical/firmware-updater/commit/df3985e20d151fd30f38bd829c1562799378d3a9)
+- [ ] [<code>fix(l10n): translated using Weblate (Estonian)</code>](https://github.com/canonical/firmware-updater/commit/fb32a0b22c5b045ad084cd099a35ccc83187a05d)
+- [ ] [<code>fix(l10n): translations update from Hosted Weblate (#322)</code>](https://github.com/canonical/firmware-updater/commit/935ad4f93d0719b3c33419553a878f8b8c42b1e9)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -259,6 +262,16 @@
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.9.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.9.0...HEAD)
 
 - [ ] [<code>incusd/instance/drivers/qmp: Handle missing log directory</code>](https://github.com/lxc/incus/commit/9004ed942a073cf4d069d632eb720538c4895f0e)
+- [ ] [<code>cmd/incus-user: keep track of socket path used to connect to the server</code>](https://github.com/lxc/incus/commit/576f7cf4d0b781aa519384120886272bbef04b69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-user: unify logging, support --verbose and --debug</code>](https://github.com/lxc/incus/commit/01b70f265116eff780fba3e8873e80fdffc46dd7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: init_preseed_profile_project</code>](https://github.com/lxc/incus/commit/9870e6410a5bf1e766dc5492d2be9af286900c30)
+- [ ] [<code>shared/api: Add project support to profiles in preseed init</code>](https://github.com/lxc/incus/commit/3c2b5c06790b8c8ddd93553d2eb562f7c6b7c8b2)
+- [ ] [<code>client: Add project support to profiles in preseed init</code>](https://github.com/lxc/incus/commit/22675ad250993a7f500c4e832ee20257d553db30)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d6b664acda5fce04b04df2528e0a3e7e1a67b86b)
+- [ ] [<code>incus/admin/init: use api.InitProfileProjectPost</code>](https://github.com/lxc/incus/commit/4f64aa56224b8aa4eefcba2ebdd0c0e52f3f7346)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2172,6 +2185,16 @@
 - [ ] [<code>incusd/instance/drivers/qmp: Handle missing log directory</code>](https://github.com/lxc/incus/commit/9004ed942a073cf4d069d632eb720538c4895f0e)
 - [ ] [<code>Release Incus 6.9</code>](https://github.com/lxc/incus/commit/9a19882fddfd23a0cf34b7f458a49d0687b7c29f)
   - <sub>Tags: <code>v6.9.0</code></sub>
+- [ ] [<code>cmd/incus-user: keep track of socket path used to connect to the server</code>](https://github.com/lxc/incus/commit/576f7cf4d0b781aa519384120886272bbef04b69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-user: unify logging, support --verbose and --debug</code>](https://github.com/lxc/incus/commit/01b70f265116eff780fba3e8873e80fdffc46dd7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: init_preseed_profile_project</code>](https://github.com/lxc/incus/commit/9870e6410a5bf1e766dc5492d2be9af286900c30)
+- [ ] [<code>shared/api: Add project support to profiles in preseed init</code>](https://github.com/lxc/incus/commit/3c2b5c06790b8c8ddd93553d2eb562f7c6b7c8b2)
+- [ ] [<code>client: Add project support to profiles in preseed init</code>](https://github.com/lxc/incus/commit/22675ad250993a7f500c4e832ee20257d553db30)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d6b664acda5fce04b04df2528e0a3e7e1a67b86b)
+- [ ] [<code>incus/admin/init: use api.InitProfileProjectPost</code>](https://github.com/lxc/incus/commit/4f64aa56224b8aa4eefcba2ebdd0c0e52f3f7346)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2413,6 +2436,10 @@
 - [ ] [<code>Fix assert failure when the gainmap has a constant values. (#2578)</code>](https://github.com/AOMediaCodec/libavif/commit/7ae69dbea82f8dc9775e1678d4fa69877ec16066)
 - [ ] [<code>Fixed typo</code>](https://github.com/AOMediaCodec/libavif/commit/66ffd231149d3d277c4c00e5032b4c377912f3ec)
 - [ ] [<code> Update man pages based on avifenc/dec's --help message. (#2582)</code>](https://github.com/AOMediaCodec/libavif/commit/ce8b972e9c03840d978445ac49a02d9bf2051ccc)
+- [ ] [<code>Partial revert "Ignore descr props after transf" (#2585)</code>](https://github.com/AOMediaCodec/libavif/commit/61b0c7fe122352c95e061fe3db9c6df0c0d481b2)
+- [ ] [<code>Treat avifenc --stdin as regular file input arg (#2574)</code>](https://github.com/AOMediaCodec/libavif/commit/46a46aa21a94816f1f2664c523958e18ebd0ebd0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3875,6 +3902,16 @@
 - [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.8.0 to 4.8.1 in /src/go (#19493)</code>](https://github.com/netdata/netdata.git/commit/3123dd690c10a0d03120b3ad7cc1174a7604750e)
 - [ ] [<code>Further improve alert processing (#19489)</code>](https://github.com/netdata/netdata.git/commit/2298e8b8259973f7616bb054666045b24d5c233c)
 - [ ] [<code>proc.plugin: add `ifb4*` to excluded interface name patterns (#19494)</code>](https://github.com/netdata/netdata.git/commit/76e48093ed331980c7217f1924a662dbd881c5ca)
+- [ ] [<code>fix absolute injection (#19496)</code>](https://github.com/netdata/netdata.git/commit/0a834fd858cdfe91347797f297a85309ccc17530)
+- [ ] [<code>fix absolute injection again (#19497)</code>](https://github.com/netdata/netdata.git/commit/ae180371df0f7a8adacab71bf40dc46a94d4501e)
+- [ ] [<code>Create impact-on-resources.md (#19499)</code>](https://github.com/netdata/netdata.git/commit/07be3faa355c96b61f9d8df951f01d55b3aedae6)
+- [ ] [<code>Add worker for alert queue processing (#19498)</code>](https://github.com/netdata/netdata.git/commit/34a06470f539e34753cf5405ff75d20c412fe0cd)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix up libsensors vendoring. (#19369)</code>](https://github.com/netdata/netdata.git/commit/74eef8b8d78857d0509f161ac4e67df37f600bd6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Improve metadata cleanup (#19479)</code>](https://github.com/netdata/netdata.git/commit/0329cd404f3c5f13b06adb0c4b699737b51f5753)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
