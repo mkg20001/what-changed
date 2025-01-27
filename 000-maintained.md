@@ -3864,6 +3864,7 @@
 - [ ] [<code>Coverity fixes (#19484)</code>](https://github.com/netdata/netdata.git/commit/d6c7749b83138ebfcb21cc434cf3e3d4fff04961)
 - [ ] [<code>add agent name and version in streaming function (#19485)</code>](https://github.com/netdata/netdata.git/commit/9a9e314018f4ac49209b61d45f62c9f7700b1df1)
 - [ ] [<code>Improve alert transition processing (#19487)</code>](https://github.com/netdata/netdata.git/commit/bb775105ffee2f8a62e7f685e5860963f27c6fd5)
+- [ ] [<code>LTO Benchmark (#19488)</code>](https://github.com/netdata/netdata.git/commit/a082cb3e8f3132296a701517843b86cfb50187a1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
