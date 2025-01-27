@@ -156,6 +156,8 @@
 - [ ] [<code>chore: Follow up emoji picker design</code>](https://github.com/krille-chan/fluffychat/commit/63e603614b4f91b0eb2a77d117c51b81f5e6e589)
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/8717f1c43042d5454a04314966465eb82c545938)
 - [ ] [<code>chore: adjust design</code>](https://github.com/krille-chan/fluffychat/commit/9512e78441da3b056f7ca4c5563d6998ec07e757)
+- [ ] [<code>chore: Adjust colors</code>](https://github.com/krille-chan/fluffychat/commit/2ad6d6f1c5c8517094053b6fad84d50b6b3604bd)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/359399df2103924341298d149e3df83a9063dd75)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -229,6 +231,8 @@
 - [ ] [<code>chore: Follow up emoji picker design</code>](https://github.com/krille-chan/fluffychat/commit/63e603614b4f91b0eb2a77d117c51b81f5e6e589)
 - [ ] [<code>chore: Follow up design</code>](https://github.com/krille-chan/fluffychat/commit/8717f1c43042d5454a04314966465eb82c545938)
 - [ ] [<code>chore: adjust design</code>](https://github.com/krille-chan/fluffychat/commit/9512e78441da3b056f7ca4c5563d6998ec07e757)
+- [ ] [<code>chore: Adjust colors</code>](https://github.com/krille-chan/fluffychat/commit/2ad6d6f1c5c8517094053b6fad84d50b6b3604bd)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/359399df2103924341298d149e3df83a9063dd75)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2408,6 +2412,7 @@
 - [ ] [<code>Fix some static analysis minor defects (#2569)</code>](https://github.com/AOMediaCodec/libavif/commit/54e94f5da9449349ea9966be5db174ecead6f8e7)
 - [ ] [<code>Fix assert failure when the gainmap has a constant values. (#2578)</code>](https://github.com/AOMediaCodec/libavif/commit/7ae69dbea82f8dc9775e1678d4fa69877ec16066)
 - [ ] [<code>Fixed typo</code>](https://github.com/AOMediaCodec/libavif/commit/66ffd231149d3d277c4c00e5032b4c377912f3ec)
+- [ ] [<code> Update man pages based on avifenc/dec's --help message. (#2582)</code>](https://github.com/AOMediaCodec/libavif/commit/ce8b972e9c03840d978445ac49a02d9bf2051ccc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3865,6 +3870,11 @@
 - [ ] [<code>add agent name and version in streaming function (#19485)</code>](https://github.com/netdata/netdata.git/commit/9a9e314018f4ac49209b61d45f62c9f7700b1df1)
 - [ ] [<code>Improve alert transition processing (#19487)</code>](https://github.com/netdata/netdata.git/commit/bb775105ffee2f8a62e7f685e5860963f27c6fd5)
 - [ ] [<code>LTO Benchmark (#19488)</code>](https://github.com/netdata/netdata.git/commit/a082cb3e8f3132296a701517843b86cfb50187a1)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-23-nightly.</code>](https://github.com/netdata/netdata.git/commit/01c271e9e711b6efdc06697983ad6f1002f6e5df)
+- [ ] [<code>proc.plugin: remove traces of /proc/spl/kstat/zfs/pool/state (#19491)</code>](https://github.com/netdata/netdata.git/commit/31dc9ecb9ed7524e1d0f304ae9f11b4095242959)
+- [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.8.0 to 4.8.1 in /src/go (#19493)</code>](https://github.com/netdata/netdata.git/commit/3123dd690c10a0d03120b3ad7cc1174a7604750e)
+- [ ] [<code>Further improve alert processing (#19489)</code>](https://github.com/netdata/netdata.git/commit/2298e8b8259973f7616bb054666045b24d5c233c)
+- [ ] [<code>proc.plugin: add `ifb4*` to excluded interface name patterns (#19494)</code>](https://github.com/netdata/netdata.git/commit/76e48093ed331980c7217f1924a662dbd881c5ca)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
