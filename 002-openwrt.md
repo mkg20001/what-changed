@@ -72,6 +72,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>CMakeLists: add support for including ABIVERSION in the library version number</code>](https://git.openwrt.org/project/uci.git/commit/16ff0badbde7e17ec3bd1f827ffe45922956cf86)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
