@@ -3912,6 +3912,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Improve metadata cleanup (#19479)</code>](https://github.com/netdata/netdata.git/commit/0329cd404f3c5f13b06adb0c4b699737b51f5753)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(go.d/postgres): add config example with unix socket + custom port (#19501)</code>](https://github.com/netdata/netdata.git/commit/d67b8d1d4d61cfaacfd7dab71af0f63805dd3e62)
+- [ ] [<code>Regenerate integrations docs (#19502)</code>](https://github.com/netdata/netdata.git/commit/397667d73b18c7c00094216923dae0f41c84c57a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
