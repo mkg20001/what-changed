@@ -161,6 +161,10 @@
 - [ ] [<code>chore: adjust design</code>](https://github.com/krille-chan/fluffychat/commit/9512e78441da3b056f7ca4c5563d6998ec07e757)
 - [ ] [<code>chore: Adjust colors</code>](https://github.com/krille-chan/fluffychat/commit/2ad6d6f1c5c8517094053b6fad84d50b6b3604bd)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/359399df2103924341298d149e3df83a9063dd75)
+- [ ] [<code>fix: Textfields in dialogs on iOS</code>](https://github.com/krille-chan/fluffychat/commit/b841d8c09e9cda1d93f4670e5901f3c2468340bb)
+  - <sub>Tags: <code>rc1.24.0-1</code></sub>
+- [ ] [<code>chore: UX Feedback when selecting files needs some time</code>](https://github.com/krille-chan/fluffychat/commit/0d438ee1ac3fd5b518be0d98abfc5a6d1d52d48f)
+  - <sub>Tags: <code>rc1.24.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -236,6 +240,10 @@
 - [ ] [<code>chore: adjust design</code>](https://github.com/krille-chan/fluffychat/commit/9512e78441da3b056f7ca4c5563d6998ec07e757)
 - [ ] [<code>chore: Adjust colors</code>](https://github.com/krille-chan/fluffychat/commit/2ad6d6f1c5c8517094053b6fad84d50b6b3604bd)
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/359399df2103924341298d149e3df83a9063dd75)
+- [ ] [<code>fix: Textfields in dialogs on iOS</code>](https://github.com/krille-chan/fluffychat/commit/b841d8c09e9cda1d93f4670e5901f3c2468340bb)
+  - <sub>Tags: <code>rc1.24.0-1</code></sub>
+- [ ] [<code>chore: UX Feedback when selecting files needs some time</code>](https://github.com/krille-chan/fluffychat/commit/0d438ee1ac3fd5b518be0d98abfc5a6d1d52d48f)
+  - <sub>Tags: <code>rc1.24.0-2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2440,6 +2448,7 @@
 - [ ] [<code>Treat avifenc --stdin as regular file input arg (#2574)</code>](https://github.com/AOMediaCodec/libavif/commit/46a46aa21a94816f1f2664c523958e18ebd0ebd0)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Bump AVM to research-v9.0.0 (#2579)</code>](https://github.com/AOMediaCodec/libavif/commit/1e119d654dfaf1b75e02ce24391b7ffcc165593c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3914,6 +3923,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs(go.d/postgres): add config example with unix socket + custom port (#19501)</code>](https://github.com/netdata/netdata.git/commit/d67b8d1d4d61cfaacfd7dab71af0f63805dd3e62)
 - [ ] [<code>Regenerate integrations docs (#19502)</code>](https://github.com/netdata/netdata.git/commit/397667d73b18c7c00094216923dae0f41c84c57a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-36-nightly.</code>](https://github.com/netdata/netdata.git/commit/605a4e2936f4f1c42b76af776343545c2c9f4355)
+- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.47.0 to 0.48.0 in /src/go (#19504)</code>](https://github.com/netdata/netdata.git/commit/4286f63e6c4d32ccb493c4c2578b8e6f34e016e4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5088,7 +5099,7 @@
 
 > Dropped steam-run - no appropriate URL found OrderedDict({'attr_path': 'steam-run', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.81.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.10.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.10.0...HEAD)
