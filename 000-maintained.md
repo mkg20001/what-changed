@@ -2449,6 +2449,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Bump AVM to research-v9.0.0 (#2579)</code>](https://github.com/AOMediaCodec/libavif/commit/1e119d654dfaf1b75e02ce24391b7ffcc165593c)
+- [ ] [<code>Rename file_path to filePath</code>](https://github.com/AOMediaCodec/libavif/commit/2c2de78779a3bf73953e1172ea3af73745cf8245)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3925,6 +3926,24 @@
 - [ ] [<code>Regenerate integrations docs (#19502)</code>](https://github.com/netdata/netdata.git/commit/397667d73b18c7c00094216923dae0f41c84c57a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-36-nightly.</code>](https://github.com/netdata/netdata.git/commit/605a4e2936f4f1c42b76af776343545c2c9f4355)
 - [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.47.0 to 0.48.0 in /src/go (#19504)</code>](https://github.com/netdata/netdata.git/commit/4286f63e6c4d32ccb493c4c2578b8e6f34e016e4)
+- [ ] [<code>fix(go.d/nvme): support v2.11 output format (#19505)</code>](https://github.com/netdata/netdata.git/commit/766c0688a566d93f08f1ab5c128da07464044292)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ACLK: allow encoded proxy username and password to work (#19508)</code>](https://github.com/netdata/netdata.git/commit/86bb893a8c6f0cb163e93c8ff092b02276b7ff40)
+- [ ] [<code>update buildinfo  (#19506)</code>](https://github.com/netdata/netdata.git/commit/42a45b36dd3c8aa6996486e4355f70b136a922d7)
+- [ ] [<code>Make handling of cross-platform emulation for static builds smarter. (#19470)</code>](https://github.com/netdata/netdata.git/commit/f5da1f0bf3fe74e86f580dda25ebc08d1247189e)
+- [ ] [<code>Fix alert transition (#19507)</code>](https://github.com/netdata/netdata.git/commit/3d49d3270c6052c96692553210ce953b9e952d75)
+- [ ] [<code>max data file size (#19495)</code>](https://github.com/netdata/netdata.git/commit/f7d69e27507511cae4a6fd6be46e91c6937d3d7a)
+- [ ] [<code>Invert order of checks in pgd_append_point(). (#19515)</code>](https://github.com/netdata/netdata.git/commit/a2df056233a4440afb853657810eb5418e039f8d)
+- [ ] [<code>compile time and runtime check of required compiler flags (#19513)</code>](https://github.com/netdata/netdata.git/commit/1138bde50e8b2f51043b6a5f60141a325ccb822a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-46-nightly.</code>](https://github.com/netdata/netdata.git/commit/955b17425956c852cc0a1a5027d6043869a03fad)
+- [ ] [<code>Link the ebpf plugin against libbpf directly instead of through libnetdata. (#19514)</code>](https://github.com/netdata/netdata.git/commit/7e6e3bbaf7310794dc04ab02e3ef9e1a68d70416)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(go.d/nvme): fix :dog: warning (#19510)</code>](https://github.com/netdata/netdata.git/commit/5e23dfa9f09de8a3150140a1afa4c904afe34d8f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs(go.d/httpcheck): add alerts to metadata (#19516)</code>](https://github.com/netdata/netdata.git/commit/c69b2403ed386dfd579eef654d8c7e3cff203941)
+- [ ] [<code>Regenerate integrations docs (#19517)</code>](https://github.com/netdata/netdata.git/commit/8cf240a2205e884f7d2b3d3ecde712bb8b9306f3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
