@@ -3944,6 +3944,9 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>docs(go.d/httpcheck): add alerts to metadata (#19516)</code>](https://github.com/netdata/netdata.git/commit/c69b2403ed386dfd579eef654d8c7e3cff203941)
 - [ ] [<code>Regenerate integrations docs (#19517)</code>](https://github.com/netdata/netdata.git/commit/8cf240a2205e884f7d2b3d3ecde712bb8b9306f3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-51-nightly.</code>](https://github.com/netdata/netdata.git/commit/c07777f39a2d356dcfcd0b17d5707097732c631b)
+- [ ] [<code>Improve ACLK query processing (#19518)</code>](https://github.com/netdata/netdata.git/commit/68b24ae8a9b907005b726e21615012e662ea657f)
+- [ ] [<code>ci: increase static build timeout 180->300m (#19519)</code>](https://github.com/netdata/netdata.git/commit/fe8846014bff7de94aed14e2b34137dee4ffc928)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
