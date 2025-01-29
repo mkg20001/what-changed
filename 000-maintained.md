@@ -36,6 +36,7 @@
 - [ ] [<code>imports: replace gopkg.in/antchfx/htmlquery.v1</code>](https://github.com/lxc/distrobuilder/commit/ecccb1a0507814a9127a2aecbd7147ddac687e87)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/79a65d63fbd285dd7955e98360803e23e8133e23)
 - [ ] [<code>systemd: Relax read-only path workaround</code>](https://github.com/lxc/distrobuilder/commit/7c515b4a9024858b88b79e76e1b6eab4f14568bb)
+- [ ] [<code>remove nixos 24.05</code>](https://github.com/lxc/distrobuilder/commit/5848227b6dfc3c552496074ddfd6ad9cc3ad6d30)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -3947,6 +3948,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-51-nightly.</code>](https://github.com/netdata/netdata.git/commit/c07777f39a2d356dcfcd0b17d5707097732c631b)
 - [ ] [<code>Improve ACLK query processing (#19518)</code>](https://github.com/netdata/netdata.git/commit/68b24ae8a9b907005b726e21615012e662ea657f)
 - [ ] [<code>ci: increase static build timeout 180->300m (#19519)</code>](https://github.com/netdata/netdata.git/commit/fe8846014bff7de94aed14e2b34137dee4ffc928)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/55768ba2fa77f41333df12749519e6b91d7d13ef)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
