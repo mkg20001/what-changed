@@ -283,6 +283,7 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d6b664acda5fce04b04df2528e0a3e7e1a67b86b)
 - [ ] [<code>incus/admin/init: use api.InitProfileProjectPost</code>](https://github.com/lxc/incus/commit/4f64aa56224b8aa4eefcba2ebdd0c0e52f3f7346)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Fix bad route check</code>](https://github.com/lxc/incus/commit/96cba75b1376536e0600c0cc190c6775efa1d080)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2206,6 +2207,7 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d6b664acda5fce04b04df2528e0a3e7e1a67b86b)
 - [ ] [<code>incus/admin/init: use api.InitProfileProjectPost</code>](https://github.com/lxc/incus/commit/4f64aa56224b8aa4eefcba2ebdd0c0e52f3f7346)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Fix bad route check</code>](https://github.com/lxc/incus/commit/96cba75b1376536e0600c0cc190c6775efa1d080)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3963,6 +3965,14 @@
 - [ ] [<code>chore(go.d/snmp): enable create_vnode by default (#19529)</code>](https://github.com/netdata/netdata.git/commit/bee5616f0a2eba14d3ec154158357dbc061301f7)
 - [ ] [<code>ci: bump static build timeout to 6hr (#19528)</code>](https://github.com/netdata/netdata.git/commit/daf305556665702a4a12622b65ca2690040c53cd)
 - [ ] [<code>Regenerate integrations docs (#19530)</code>](https://github.com/netdata/netdata.git/commit/3f8a582c8580db26562c8cdd564a76f213291609)
+- [ ] [<code>docs(web/gui): remove info about old dashboard from readme (#19531)</code>](https://github.com/netdata/netdata.git/commit/437393cee64830f476e8d98422eb1f78fd5c6059)
+- [ ] [<code>fix heap use after free (#19532)</code>](https://github.com/netdata/netdata.git/commit/2b2648c899af27cdf2a50cf524175096d9acf6e1)
+- [ ] [<code>inline functions related to metrics ingestion (#19524)</code>](https://github.com/netdata/netdata.git/commit/cf03e531d10cc1f55f47fe866762a6a7e0a03775)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix coverity issue (#19535)</code>](https://github.com/netdata/netdata.git/commit/4531ebac1bc5aa2b94386dd722683e59128f6fc0)
+- [ ] [<code>Fix contexts stay not-live when children reconnect (#19536)</code>](https://github.com/netdata/netdata.git/commit/596615647d9d5fcf99623250906085baab82dc55)
+- [ ] [<code>allow dbengine to read at offsets above 4GiB (#19538)</code>](https://github.com/netdata/netdata.git/commit/05a82d1adf2614a47bfec44bc259352f596dd82b)
+- [ ] [<code>allow dbengine to read at offsets above 4GiB - again (#19539)</code>](https://github.com/netdata/netdata.git/commit/9da99959d90803fcd3c1c7c6ce60ddc43ee7c7a5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
