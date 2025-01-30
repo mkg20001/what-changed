@@ -3949,6 +3949,9 @@
 - [ ] [<code>Improve ACLK query processing (#19518)</code>](https://github.com/netdata/netdata.git/commit/68b24ae8a9b907005b726e21615012e662ea657f)
 - [ ] [<code>ci: increase static build timeout 180->300m (#19519)</code>](https://github.com/netdata/netdata.git/commit/fe8846014bff7de94aed14e2b34137dee4ffc928)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/55768ba2fa77f41333df12749519e6b91d7d13ef)
+- [ ] [<code>chore(packaging): remove old dashboard (#19523)</code>](https://github.com/netdata/netdata.git/commit/7377725d7e2c941ea105db0126a49f49bf0e61b0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
