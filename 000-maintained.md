@@ -166,6 +166,7 @@
   - <sub>Tags: <code>rc1.24.0-1</code></sub>
 - [ ] [<code>chore: UX Feedback when selecting files needs some time</code>](https://github.com/krille-chan/fluffychat/commit/0d438ee1ac3fd5b518be0d98abfc5a6d1d52d48f)
   - <sub>Tags: <code>rc1.24.0-2</code></sub>
+- [ ] [<code>chore: Do only show fileDescription if filename is not null</code>](https://github.com/krille-chan/fluffychat/commit/582f4fb9ed837b0ca7702e21f362f19fb608dc8f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -245,6 +246,7 @@
   - <sub>Tags: <code>rc1.24.0-1</code></sub>
 - [ ] [<code>chore: UX Feedback when selecting files needs some time</code>](https://github.com/krille-chan/fluffychat/commit/0d438ee1ac3fd5b518be0d98abfc5a6d1d52d48f)
   - <sub>Tags: <code>rc1.24.0-2</code></sub>
+- [ ] [<code>chore: Do only show fileDescription if filename is not null</code>](https://github.com/krille-chan/fluffychat/commit/582f4fb9ed837b0ca7702e21f362f19fb608dc8f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3952,6 +3954,15 @@
 - [ ] [<code>chore(packaging): remove old dashboard (#19523)</code>](https://github.com/netdata/netdata.git/commit/7377725d7e2c941ea105db0126a49f49bf0e61b0)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-56-nightly.</code>](https://github.com/netdata/netdata.git/commit/f0159be86d34710572d68feec55c52ca5ea45296)
+- [ ] [<code>Fix MSSQL Instance (#19527)</code>](https://github.com/netdata/netdata.git/commit/e8c06d0c7cccefeae65f9dd9c57c88a4163f5a97)
+- [ ] [<code>Active Directory Metrics (Windows.plugin) (#19461)</code>](https://github.com/netdata/netdata.git/commit/3badfe6bdb1d2f719b40be69e82221c4e025cff1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>netdata.spec/plugin-go: remove dependency for lm_sensors (#19511)</code>](https://github.com/netdata/netdata.git/commit/053f9deeade1d7bc5ad80acc13f28b450716de87)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(go.d/snmp): enable create_vnode by default (#19529)</code>](https://github.com/netdata/netdata.git/commit/bee5616f0a2eba14d3ec154158357dbc061301f7)
+- [ ] [<code>ci: bump static build timeout to 6hr (#19528)</code>](https://github.com/netdata/netdata.git/commit/daf305556665702a4a12622b65ca2690040c53cd)
+- [ ] [<code>Regenerate integrations docs (#19530)</code>](https://github.com/netdata/netdata.git/commit/3f8a582c8580db26562c8cdd564a76f213291609)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
