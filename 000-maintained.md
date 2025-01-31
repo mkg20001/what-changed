@@ -284,6 +284,9 @@
 - [ ] [<code>incus/admin/init: use api.InitProfileProjectPost</code>](https://github.com/lxc/incus/commit/4f64aa56224b8aa4eefcba2ebdd0c0e52f3f7346)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network/ovn: Fix bad route check</code>](https://github.com/lxc/incus/commit/96cba75b1376536e0600c0cc190c6775efa1d080)
+- [ ] [<code>incus/file/pull: Ensure we have a leading / in all paths</code>](https://github.com/lxc/incus/commit/b726905c66050ac4229d53ce079a0bd05dbe900d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Fix shellcheck</code>](https://github.com/lxc/incus/commit/52acea96716481673759f80b49c505942ce3b553)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2208,6 +2211,9 @@
 - [ ] [<code>incus/admin/init: use api.InitProfileProjectPost</code>](https://github.com/lxc/incus/commit/4f64aa56224b8aa4eefcba2ebdd0c0e52f3f7346)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network/ovn: Fix bad route check</code>](https://github.com/lxc/incus/commit/96cba75b1376536e0600c0cc190c6775efa1d080)
+- [ ] [<code>incus/file/pull: Ensure we have a leading / in all paths</code>](https://github.com/lxc/incus/commit/b726905c66050ac4229d53ce079a0bd05dbe900d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Fix shellcheck</code>](https://github.com/lxc/incus/commit/52acea96716481673759f80b49c505942ce3b553)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
