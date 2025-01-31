@@ -2461,6 +2461,7 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Bump AVM to research-v9.0.0 (#2579)</code>](https://github.com/AOMediaCodec/libavif/commit/1e119d654dfaf1b75e02ce24391b7ffcc165593c)
 - [ ] [<code>Rename file_path to filePath</code>](https://github.com/AOMediaCodec/libavif/commit/2c2de78779a3bf73953e1172ea3af73745cf8245)
+- [ ] [<code>Homogeneize CMake logs (#2587)</code>](https://github.com/AOMediaCodec/libavif/commit/83172c63aff2c5fdbcfd602c82d1fa11134a7867)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2568,6 +2569,12 @@
 - [ ] [<code>github: Improve progress reporting</code>](https://github.com/lxc/lxcfs/commit/3a43ced282287c66a5aa9f6aef954ea16f92f3d8)
 - [ ] [<code>proc_fuse: add psi(pressure stall information) procfs</code>](https://github.com/lxc/lxcfs/commit/31da3ae731469d1916f67a4ca429dd24ac86d53b)
 - [ ] [<code>meminfo: Add slab_reclaimable to MemAvailable</code>](https://github.com/lxc/lxcfs/commit/abdecf18cfc68a8111369321cd6606c838b3f5c0)
+- [ ] [<code>tests/test-read: call close(2) only if there is an fd</code>](https://github.com/lxc/lxcfs/commit/a43c87db15c8455e8a8af9e94155919173c3dc48)
+- [ ] [<code>utils: fix wait_for_sock to use time_t instead of int</code>](https://github.com/lxc/lxcfs/commit/531a988d499b5e1fe1e7ebd1a8845290608526c7)
+- [ ] [<code>cpuset_parse: make a check for an empty string in cpu_in_cpuset()</code>](https://github.com/lxc/lxcfs/commit/3aa1bb65b7b1952e26c17609b68ddc36ef66671f)
+- [ ] [<code>utils: move strlcpy/strlcat helpers from cgroup_utils to utils</code>](https://github.com/lxc/lxcfs/commit/0f253c7d4c0ded44e76f5e5c5da6fa2627f0b93d)
+- [ ] [<code>lxcfs: use strlcpy when handle runtime-dir parameter</code>](https://github.com/lxc/lxcfs/commit/28be637ae4be73ae1adbd7dffe3ff38b53ce2531)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3991,6 +3998,20 @@
 - [ ] [<code>Add NetFramework Metrics (part II) (#19008)</code>](https://github.com/netdata/netdata.git/commit/6bac7e728316eb430c2fe5a5dc4bb1a9df9bfa44)
 - [ ] [<code>Modify eBPF.plugin integration (Part I) (#19219)</code>](https://github.com/netdata/netdata.git/commit/59864cfe57d742a009043bfee7619c5bd66daf4d)
 - [ ] [<code>Use database/rrd.h instead of daemon/common.h (#19540)</code>](https://github.com/netdata/netdata.git/commit/03231fc362260e65b11013c3513b474e6968449c)
+- [ ] [<code>virtual hosts now get hops = 1 (#19546)</code>](https://github.com/netdata/netdata.git/commit/0565c013921923781120bdf49a3591881885d637)
+- [ ] [<code>chore: remove old dashboard leftovers (#19545)</code>](https://github.com/netdata/netdata.git/commit/0164a51a8645bdb0bf923aad350c86759c3b2f10)
+- [ ] [<code>Actually handle the `-fexceptions` requirement correctly in our build system. (#19534)</code>](https://github.com/netdata/netdata.git/commit/34236bffa4bec1952eb796e22f65900b82269866)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add LTO support in CMake build system. (#17027)</code>](https://github.com/netdata/netdata.git/commit/10815cb24ac35a63461fdb3ec922b0446a043d75)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(windows.plugin): format perflib ad and netframework (#19544)</code>](https://github.com/netdata/netdata.git/commit/fcd81cf537a288ff61a0f91205a9f57a12ca442e)
+- [ ] [<code>Add CLR Remoting metadata (#19203)</code>](https://github.com/netdata/netdata.git/commit/d5ffcd1dd7d342e3ac30031a112abedbb42198c8)
+- [ ] [<code>Regenerate integrations docs (#19548)</code>](https://github.com/netdata/netdata.git/commit/33acb2fa89e81aef3418941bc8f54d5ff74e9245)
+- [ ] [<code>Active Directory Certification Service (windows.plugin) (#19492)</code>](https://github.com/netdata/netdata.git/commit/30892d49e7da21b805c0fc82ddaee5223b4fe449)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix cloud connect after claim (#19547)</code>](https://github.com/netdata/netdata.git/commit/d35dcc38236f03f8ac846cd294df1807f629af81)
+- [ ] [<code>fix(go.d/mysql): fix typo in test name (#19550)</code>](https://github.com/netdata/netdata.git/commit/b31bec86a2b5d6a5313aaeab1ec36e8c89bab965)
+- [ ] [<code>fix(go.d/mysql): don't collect global variables on every iteration (#19549)</code>](https://github.com/netdata/netdata.git/commit/852e54aea7c78ddb25e79c9ac4c894b8e282f65d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4681,7 +4702,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oilshell.org/', 'src_url': 'https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz', 'urls': ['https://www.oilshell.org/download/oils-for-unix-0.24.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://www.oils.pub/download/oils-for-unix-0.26.0.tar.gz', 'urls': ['https://www.oils.pub/download/oils-for-unix-0.26.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
