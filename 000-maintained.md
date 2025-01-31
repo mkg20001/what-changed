@@ -3979,6 +3979,18 @@
 - [ ] [<code>Fix contexts stay not-live when children reconnect (#19536)</code>](https://github.com/netdata/netdata.git/commit/596615647d9d5fcf99623250906085baab82dc55)
 - [ ] [<code>allow dbengine to read at offsets above 4GiB (#19538)</code>](https://github.com/netdata/netdata.git/commit/05a82d1adf2614a47bfec44bc259352f596dd82b)
 - [ ] [<code>allow dbengine to read at offsets above 4GiB - again (#19539)</code>](https://github.com/netdata/netdata.git/commit/9da99959d90803fcd3c1c7c6ce60ddc43ee7c7a5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-70-nightly.</code>](https://github.com/netdata/netdata.git/commit/a06028c2e6ff1300f15c540ab1ace95886739d24)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Format PGDs on fatal() (#19521)</code>](https://github.com/netdata/netdata.git/commit/d542b30c274015e8273878d6ce7c1c97351ad121)
+- [ ] [<code>Bundle cmake cache. (#19509)</code>](https://github.com/netdata/netdata.git/commit/ba0987f65f1631c42adc649787355a1c3038948e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>SMSEagle integration (#19520)</code>](https://github.com/netdata/netdata.git/commit/0e914f7447623e8b7e3d02318d4e9d80c3f8740c)
+- [ ] [<code>Regenerate integrations docs (#19541)</code>](https://github.com/netdata/netdata.git/commit/018a57d7bbbbb81a97f3d64b017dd38715af72f5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add NetFramework Metrics (part II) (#19008)</code>](https://github.com/netdata/netdata.git/commit/6bac7e728316eb430c2fe5a5dc4bb1a9df9bfa44)
+- [ ] [<code>Modify eBPF.plugin integration (Part I) (#19219)</code>](https://github.com/netdata/netdata.git/commit/59864cfe57d742a009043bfee7619c5bd66daf4d)
+- [ ] [<code>Use database/rrd.h instead of daemon/common.h (#19540)</code>](https://github.com/netdata/netdata.git/commit/03231fc362260e65b11013c3513b474e6968449c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
