@@ -15,6 +15,13 @@
 
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.16 to 0.17</code>](https://github.com/cowsql/cowsql/commit/31a5f97e29214cda902a0df93df40827f54404ae)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.16 to 0.17 (#16)</code>](https://github.com/cowsql/cowsql/commit/40803c1c30acc44851f7bd502a9a63ec8d0e6d2c)
+- [ ] [<code>test: Skip a flaky test on s390x</code>](https://github.com/cowsql/cowsql/commit/9e6e89d18493394f90195ec4ef69ffe83264aa32)
+- [ ] [<code>test: Skip a flaky test on s390x (#28)</code>](https://github.com/cowsql/cowsql/commit/5e999848fb8ddcfd8e41724e059c91bb30ec4527)
+- [ ] [<code>Release 1.15.7</code>](https://github.com/cowsql/cowsql/commit/91fcd887c4b05a4ff539d070f40c527056bba86b)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release 1.15.7 (#29)</code>](https://github.com/cowsql/cowsql/commit/ea5c4f487c6b91a61a23d15b58563edeee0bb531)
+  - <sub>Tags: <code>v1.15.7</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2464,6 +2471,7 @@
 - [ ] [<code>Bump AVM to research-v9.0.0 (#2579)</code>](https://github.com/AOMediaCodec/libavif/commit/1e119d654dfaf1b75e02ce24391b7ffcc165593c)
 - [ ] [<code>Rename file_path to filePath</code>](https://github.com/AOMediaCodec/libavif/commit/2c2de78779a3bf73953e1172ea3af73745cf8245)
 - [ ] [<code>Homogeneize CMake logs (#2587)</code>](https://github.com/AOMediaCodec/libavif/commit/83172c63aff2c5fdbcfd602c82d1fa11134a7867)
+- [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/7eee1849f2dceaa6b3a44f765616438f1bde25c2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4015,6 +4023,8 @@
 - [ ] [<code>fix(go.d/mysql): fix typo in test name (#19550)</code>](https://github.com/netdata/netdata.git/commit/b31bec86a2b5d6a5313aaeab1ec36e8c89bab965)
 - [ ] [<code>fix(go.d/mysql): don't collect global variables on every iteration (#19549)</code>](https://github.com/netdata/netdata.git/commit/852e54aea7c78ddb25e79c9ac4c894b8e282f65d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-89-nightly.</code>](https://github.com/netdata/netdata.git/commit/38abaf9ca0e62a572727aad241e48c3468a48969)
+- [ ] [<code>Format ebpf (#19553)</code>](https://github.com/netdata/netdata.git/commit/cd3c31157aef543e8266bf66aa5d3951548c770c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5394,6 +5404,8 @@
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>main: add global SCRIPT_NAME variable</code>](https://github.com/jow-/ucode/commit/af881af4b0dca83e71ddaed0a4dcfdd419bb6409)
 - [ ] [<code>socket: fix AF_PACKET recvmsg() and sockaddr formatting</code>](https://github.com/jow-/ucode/commit/5cbd32514187f0888227acef120e869cc78ff53d)
+- [ ] [<code>rtnl: properly handle runtime exceptions in listener callback</code>](https://github.com/jow-/ucode/commit/6f71a35c4cfa3fd600addd0c1eedcd7eba195c2e)
+- [ ] [<code>ci: bump actions/upload-artifact to v4</code>](https://github.com/jow-/ucode/commit/6dd08716205fb974215521fd03ebcaa96c26b031)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
