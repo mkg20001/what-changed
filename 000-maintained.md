@@ -13,6 +13,8 @@
 
 #### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
 
+- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.16 to 0.17</code>](https://github.com/cowsql/cowsql/commit/31a5f97e29214cda902a0df93df40827f54404ae)
+- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.16 to 0.17 (#16)</code>](https://github.com/cowsql/cowsql/commit/40803c1c30acc44851f7bd502a9a63ec8d0e6d2c)
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4012,6 +4014,7 @@
 - [ ] [<code>Fix cloud connect after claim (#19547)</code>](https://github.com/netdata/netdata.git/commit/d35dcc38236f03f8ac846cd294df1807f629af81)
 - [ ] [<code>fix(go.d/mysql): fix typo in test name (#19550)</code>](https://github.com/netdata/netdata.git/commit/b31bec86a2b5d6a5313aaeab1ec36e8c89bab965)
 - [ ] [<code>fix(go.d/mysql): don't collect global variables on every iteration (#19549)</code>](https://github.com/netdata/netdata.git/commit/852e54aea7c78ddb25e79c9ac4c894b8e282f65d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-89-nightly.</code>](https://github.com/netdata/netdata.git/commit/38abaf9ca0e62a572727aad241e48c3468a48969)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
