@@ -22,6 +22,14 @@
 - [ ] [<code>Release 1.15.7 (#29)</code>](https://github.com/cowsql/cowsql/commit/ea5c4f487c6b91a61a23d15b58563edeee0bb531)
   - <sub>Tags: <code>v1.15.7</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>test: Move definition of FLAKY into test/lib/server.h</code>](https://github.com/cowsql/cowsql/commit/51d28dfe37d598edd2e1cc1cf682f93123571b66)
+- [ ] [<code>test: Disable more flaky integration tests on slow architectures</code>](https://github.com/cowsql/cowsql/commit/95abab04cd8ab28b8422acf3995522d08e4215a4)
+- [ ] [<code>Disable more flaky tests on slow archs (#30)</code>](https://github.com/cowsql/cowsql/commit/ff5240e516bcfa428ecfb88d41a20c25e27a46aa)
+- [ ] [<code>Release v1.15.8</code>](https://github.com/cowsql/cowsql/commit/f06863150f6172e714429e583598fbb56c92893a)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v1.15.8 (#31)</code>](https://github.com/cowsql/cowsql/commit/8fd9dc3f7278ac4a71150b1668ff718678b3efbb)
+  - <sub>Tags: <code>v1.15.8</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -176,6 +184,8 @@
 - [ ] [<code>chore: UX Feedback when selecting files needs some time</code>](https://github.com/krille-chan/fluffychat/commit/0d438ee1ac3fd5b518be0d98abfc5a6d1d52d48f)
   - <sub>Tags: <code>rc1.24.0-2</code></sub>
 - [ ] [<code>chore: Do only show fileDescription if filename is not null</code>](https://github.com/krille-chan/fluffychat/commit/582f4fb9ed837b0ca7702e21f362f19fb608dc8f)
+- [ ] [<code>chore: Follow up format</code>](https://github.com/krille-chan/fluffychat/commit/e4b8d45715661d33bebfbc89828a48292e77695d)
+  - <sub>Tags: <code>rc1.24.0-3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -256,6 +266,8 @@
 - [ ] [<code>chore: UX Feedback when selecting files needs some time</code>](https://github.com/krille-chan/fluffychat/commit/0d438ee1ac3fd5b518be0d98abfc5a6d1d52d48f)
   - <sub>Tags: <code>rc1.24.0-2</code></sub>
 - [ ] [<code>chore: Do only show fileDescription if filename is not null</code>](https://github.com/krille-chan/fluffychat/commit/582f4fb9ed837b0ca7702e21f362f19fb608dc8f)
+- [ ] [<code>chore: Follow up format</code>](https://github.com/krille-chan/fluffychat/commit/e4b8d45715661d33bebfbc89828a48292e77695d)
+  - <sub>Tags: <code>rc1.24.0-3</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -296,6 +308,9 @@
 - [ ] [<code>incus/file/pull: Ensure we have a leading / in all paths</code>](https://github.com/lxc/incus/commit/b726905c66050ac4229d53ce079a0bd05dbe900d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>github: Fix shellcheck</code>](https://github.com/lxc/incus/commit/52acea96716481673759f80b49c505942ce3b553)
+- [ ] [<code>doc/installing: mention incus group on NixOS</code>](https://github.com/lxc/incus/commit/8d00c66862d04dad3be1d56da77d02886dbf7ccc)
+- [ ] [<code>incus/file/pull: Read files in chunks</code>](https://github.com/lxc/incus/commit/f2ef7aa808e204c8714de40b29895ea596e2bb0e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2223,6 +2238,9 @@
 - [ ] [<code>incus/file/pull: Ensure we have a leading / in all paths</code>](https://github.com/lxc/incus/commit/b726905c66050ac4229d53ce079a0bd05dbe900d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>github: Fix shellcheck</code>](https://github.com/lxc/incus/commit/52acea96716481673759f80b49c505942ce3b553)
+- [ ] [<code>doc/installing: mention incus group on NixOS</code>](https://github.com/lxc/incus/commit/8d00c66862d04dad3be1d56da77d02886dbf7ccc)
+- [ ] [<code>incus/file/pull: Read files in chunks</code>](https://github.com/lxc/incus/commit/f2ef7aa808e204c8714de40b29895ea596e2bb0e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4025,6 +4043,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-89-nightly.</code>](https://github.com/netdata/netdata.git/commit/38abaf9ca0e62a572727aad241e48c3468a48969)
 - [ ] [<code>Format ebpf (#19553)</code>](https://github.com/netdata/netdata.git/commit/cd3c31157aef543e8266bf66aa5d3951548c770c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-91-nightly.</code>](https://github.com/netdata/netdata.git/commit/58ebdc486bece707726993b8cb043f64b7560cb5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
