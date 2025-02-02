@@ -185,7 +185,21 @@
   - <sub>Tags: <code>rc1.24.0-2</code></sub>
 - [ ] [<code>chore: Do only show fileDescription if filename is not null</code>](https://github.com/krille-chan/fluffychat/commit/582f4fb9ed837b0ca7702e21f362f19fb608dc8f)
 - [ ] [<code>chore: Follow up format</code>](https://github.com/krille-chan/fluffychat/commit/e4b8d45715661d33bebfbc89828a48292e77695d)
-  - <sub>Tags: <code>rc1.24.0-3</code></sub>
+  - <sub>Tags: <code>rc1.24.0-3</code> <code>v1.24.0</code></sub>
+- [ ] [<code>refactor: Improve sso login UX on web</code>](https://github.com/krille-chan/fluffychat/commit/7cbc51895100083c92ae77cf069c089b5cec597c)
+- [ ] [<code>refactor: New html rendering</code>](https://github.com/krille-chan/fluffychat/commit/12c948211ba64e85887df6cdff5ceb647d16ee35)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Switch to ubuntu font</code>](https://github.com/krille-chan/fluffychat/commit/c971d2bd8aaf77e78ac723a58373c73b4d3f4750)
+- [ ] [<code>refactor: Remove unused class</code>](https://github.com/krille-chan/fluffychat/commit/a21fc8884da9d6b7665a0f7313845ef41ab63b4e)
+- [ ] [<code>chore: Design adjustments</code>](https://github.com/krille-chan/fluffychat/commit/a9a23c6309ceca46aad7902e49b001008bb2e185)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/979b30e0aa7ec7848989edf71186230d6d6f575d)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/3011d1843823b96a085a76df9c5b2a354a39940e)
+- [ ] [<code>chore: Adjust share scaffold dialog design</code>](https://github.com/krille-chan/fluffychat/commit/892e379a2a5cab2c7c138a4f0e29c77a3e621453)
+- [ ] [<code>chore: Better connection status indicator</code>](https://github.com/krille-chan/fluffychat/commit/7599ce86277919240f47b153b1c5461d77c2c6d2)
+- [ ] [<code>chore: Follow up connection status</code>](https://github.com/krille-chan/fluffychat/commit/ad138bc7c0ca4d808d5d8440e8b83e07a52d5c3c)
+- [ ] [<code>chore: Follow up sync status</code>](https://github.com/krille-chan/fluffychat/commit/7785f7ab2a361a12cd1fb6b3aed70fb0a2203294)
+- [ ] [<code>chore: Slightly adjust welcome screen</code>](https://github.com/krille-chan/fluffychat/commit/6bcef04a19ba857f56654a7af0f65c17028e4ce7)
+- [ ] [<code>chore: Adjust button icon colors</code>](https://github.com/krille-chan/fluffychat/commit/4429368a92652bca863ba96f496797a6380ab009)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -267,7 +281,21 @@
   - <sub>Tags: <code>rc1.24.0-2</code></sub>
 - [ ] [<code>chore: Do only show fileDescription if filename is not null</code>](https://github.com/krille-chan/fluffychat/commit/582f4fb9ed837b0ca7702e21f362f19fb608dc8f)
 - [ ] [<code>chore: Follow up format</code>](https://github.com/krille-chan/fluffychat/commit/e4b8d45715661d33bebfbc89828a48292e77695d)
-  - <sub>Tags: <code>rc1.24.0-3</code></sub>
+  - <sub>Tags: <code>rc1.24.0-3</code> <code>v1.24.0</code></sub>
+- [ ] [<code>refactor: Improve sso login UX on web</code>](https://github.com/krille-chan/fluffychat/commit/7cbc51895100083c92ae77cf069c089b5cec597c)
+- [ ] [<code>refactor: New html rendering</code>](https://github.com/krille-chan/fluffychat/commit/12c948211ba64e85887df6cdff5ceb647d16ee35)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Switch to ubuntu font</code>](https://github.com/krille-chan/fluffychat/commit/c971d2bd8aaf77e78ac723a58373c73b4d3f4750)
+- [ ] [<code>refactor: Remove unused class</code>](https://github.com/krille-chan/fluffychat/commit/a21fc8884da9d6b7665a0f7313845ef41ab63b4e)
+- [ ] [<code>chore: Design adjustments</code>](https://github.com/krille-chan/fluffychat/commit/a9a23c6309ceca46aad7902e49b001008bb2e185)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/979b30e0aa7ec7848989edf71186230d6d6f575d)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/3011d1843823b96a085a76df9c5b2a354a39940e)
+- [ ] [<code>chore: Adjust share scaffold dialog design</code>](https://github.com/krille-chan/fluffychat/commit/892e379a2a5cab2c7c138a4f0e29c77a3e621453)
+- [ ] [<code>chore: Better connection status indicator</code>](https://github.com/krille-chan/fluffychat/commit/7599ce86277919240f47b153b1c5461d77c2c6d2)
+- [ ] [<code>chore: Follow up connection status</code>](https://github.com/krille-chan/fluffychat/commit/ad138bc7c0ca4d808d5d8440e8b83e07a52d5c3c)
+- [ ] [<code>chore: Follow up sync status</code>](https://github.com/krille-chan/fluffychat/commit/7785f7ab2a361a12cd1fb6b3aed70fb0a2203294)
+- [ ] [<code>chore: Slightly adjust welcome screen</code>](https://github.com/krille-chan/fluffychat/commit/6bcef04a19ba857f56654a7af0f65c17028e4ce7)
+- [ ] [<code>chore: Adjust button icon colors</code>](https://github.com/krille-chan/fluffychat/commit/4429368a92652bca863ba96f496797a6380ab009)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4044,6 +4072,10 @@
 - [ ] [<code>Format ebpf (#19553)</code>](https://github.com/netdata/netdata.git/commit/cd3c31157aef543e8266bf66aa5d3951548c770c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-91-nightly.</code>](https://github.com/netdata/netdata.git/commit/58ebdc486bece707726993b8cb043f64b7560cb5)
+- [ ] [<code>Rename appconfig to inicfg and drop config_* function-like macros. (#19552)</code>](https://github.com/netdata/netdata.git/commit/9eaccc08cdf7dd7516233a4a3206441015d2ec23)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Format Windows.plugin (#19554)</code>](https://github.com/netdata/netdata.git/commit/768ad06d7e1cef93f0f16df0a67b7b216a9c2c52)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
