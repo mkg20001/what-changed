@@ -202,6 +202,11 @@
 - [ ] [<code>chore: Slightly adjust welcome screen</code>](https://github.com/krille-chan/fluffychat/commit/6bcef04a19ba857f56654a7af0f65c17028e4ce7)
 - [ ] [<code>chore: Adjust button icon colors</code>](https://github.com/krille-chan/fluffychat/commit/4429368a92652bca863ba96f496797a6380ab009)
 - [ ] [<code>chore: Follow up connection status</code>](https://github.com/krille-chan/fluffychat/commit/2869d341a6462ad5539f7c4cac7d3d3d6c555755)
+- [ ] [<code>chore: Add start to ordered list</code>](https://github.com/krille-chan/fluffychat/commit/6cdfced81fe282d9cbf9fda56d715697d9f586ef)
+- [ ] [<code>chore: Follow up html lists</code>](https://github.com/krille-chan/fluffychat/commit/49453e3eb37d46ee28512c55a78ae90142ab1d5e)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/eecf206eb811fa73e44de30a2965886e45fb8b21)
+- [ ] [<code>chore: Add tooltip to links in html</code>](https://github.com/krille-chan/fluffychat/commit/4072e99696568bc518adbaf21bc8e8de2359989d)
+- [ ] [<code>chore: Add explanation for PlayStore Safety Standards</code>](https://github.com/krille-chan/fluffychat/commit/8cf67afd95cb87cc8ad98dd14142ad108938edd7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -299,6 +304,11 @@
 - [ ] [<code>chore: Slightly adjust welcome screen</code>](https://github.com/krille-chan/fluffychat/commit/6bcef04a19ba857f56654a7af0f65c17028e4ce7)
 - [ ] [<code>chore: Adjust button icon colors</code>](https://github.com/krille-chan/fluffychat/commit/4429368a92652bca863ba96f496797a6380ab009)
 - [ ] [<code>chore: Follow up connection status</code>](https://github.com/krille-chan/fluffychat/commit/2869d341a6462ad5539f7c4cac7d3d3d6c555755)
+- [ ] [<code>chore: Add start to ordered list</code>](https://github.com/krille-chan/fluffychat/commit/6cdfced81fe282d9cbf9fda56d715697d9f586ef)
+- [ ] [<code>chore: Follow up html lists</code>](https://github.com/krille-chan/fluffychat/commit/49453e3eb37d46ee28512c55a78ae90142ab1d5e)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/eecf206eb811fa73e44de30a2965886e45fb8b21)
+- [ ] [<code>chore: Add tooltip to links in html</code>](https://github.com/krille-chan/fluffychat/commit/4072e99696568bc518adbaf21bc8e8de2359989d)
+- [ ] [<code>chore: Add explanation for PlayStore Safety Standards</code>](https://github.com/krille-chan/fluffychat/commit/8cf67afd95cb87cc8ad98dd14142ad108938edd7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -341,6 +351,8 @@
 - [ ] [<code>github: Fix shellcheck</code>](https://github.com/lxc/incus/commit/52acea96716481673759f80b49c505942ce3b553)
 - [ ] [<code>doc/installing: mention incus group on NixOS</code>](https://github.com/lxc/incus/commit/8d00c66862d04dad3be1d56da77d02886dbf7ccc)
 - [ ] [<code>incus/file/pull: Read files in chunks</code>](https://github.com/lxc/incus/commit/f2ef7aa808e204c8714de40b29895ea596e2bb0e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
@@ -2272,6 +2284,8 @@
 - [ ] [<code>doc/installing: mention incus group on NixOS</code>](https://github.com/lxc/incus/commit/8d00c66862d04dad3be1d56da77d02886dbf7ccc)
 - [ ] [<code>incus/file/pull: Read files in chunks</code>](https://github.com/lxc/incus/commit/f2ef7aa808e204c8714de40b29895ea596e2bb0e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4086,6 +4100,12 @@
 - [ ] [<code>Metadata (AD and ADCS), and small fixes (#19557)</code>](https://github.com/netdata/netdata.git/commit/885cb8509414dcffa8ca63ea47f0f25682862385)
 - [ ] [<code>Regenerate integrations docs (#19561)</code>](https://github.com/netdata/netdata.git/commit/1d404c1ef21293e995fed5d271bfb6a81a1fb7c8)
 - [ ] [<code>cgroups.plugin: fixes to cgroup path validation (#19490)</code>](https://github.com/netdata/netdata.git/commit/1d2824f1a91ec21ac7bc53c67ff0e62ef7bf54cf)
+- [ ] [<code>feat(go.d/dnsquery): support system DNS servers from /etc/resolv.conf (#19562)</code>](https://github.com/netdata/netdata.git/commit/46d0c2de79ddd04ac3e1e8c62029b8e81967e065)
+- [ ] [<code>Regenerate integrations docs (#19563)</code>](https://github.com/netdata/netdata.git/commit/87a8478a389a1b2ff4cb0af34e68555f28ce1802)
+- [ ] [<code>Start using new GitHub hosted ARM runners for CI when appropriate. (#19427)</code>](https://github.com/netdata/netdata.git/commit/d7a9b829764992224809c2c0b2dc400bc561a6ac)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add a new agent status when connecting to the cloud (#19564)</code>](https://github.com/netdata/netdata.git/commit/a8e1f3f0cde209414947f7c7d0f1e81e2954d827)
+- [ ] [<code>build(deps): bump github.com/prometheus-community/pro-bing from 0.6.0 to 0.6.1 in /src/go (#19567)</code>](https://github.com/netdata/netdata.git/commit/83acfafcc87e484c192cb1aa7644579a876351f1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
