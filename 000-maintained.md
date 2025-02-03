@@ -4076,6 +4076,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Format Windows.plugin (#19554)</code>](https://github.com/netdata/netdata.git/commit/768ad06d7e1cef93f0f16df0a67b7b216a9c2c52)
+- [ ] [<code>docs(start-stop-restart): fix restart typo (#19555)</code>](https://github.com/netdata/netdata.git/commit/0a6a837a1e99093e0f5566dfc0a35b079173d628)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5323,6 +5324,9 @@
 
 - [ ] [<code>Fix broken German locale #670</code>](https://github.com/axcore/tartube/commit/972f8efc24d07acdd0cfaf0913cb940648eee6e4)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update to v2.5.100</code>](https://github.com/axcore/tartube/commit/c97c858f0f5200099eaaad5055dcf234db682904)
+  - <sub>Tags: <code>v2.5.100</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
