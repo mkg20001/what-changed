@@ -81,6 +81,7 @@
 - [ ] [<code>Remove the CI status badge</code>](https://github.com/stepchowfun/docuum/commit/66ea24329bc76d4ae75ff762d1044e2289a19e3f)
 - [ ] [<code>Bring back the CI badge with the new URL scheme</code>](https://github.com/stepchowfun/docuum/commit/c4c0ebf6fc82f37bae0889838492b228f050f6d8)
 - [ ] [<code>Cargo.lock: Update 'ctrlc' and 'nix' crates</code>](https://github.com/stepchowfun/docuum/commit/cece4a0f9a469828a8ba834a2408389418020f95)
+- [ ] [<code>Update Rust to v1.84.1</code>](https://github.com/stepchowfun/docuum/commit/eab9d374befadccc9de54bb05dd39c95c4856e77)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -200,6 +201,7 @@
 - [ ] [<code>chore: Follow up sync status</code>](https://github.com/krille-chan/fluffychat/commit/7785f7ab2a361a12cd1fb6b3aed70fb0a2203294)
 - [ ] [<code>chore: Slightly adjust welcome screen</code>](https://github.com/krille-chan/fluffychat/commit/6bcef04a19ba857f56654a7af0f65c17028e4ce7)
 - [ ] [<code>chore: Adjust button icon colors</code>](https://github.com/krille-chan/fluffychat/commit/4429368a92652bca863ba96f496797a6380ab009)
+- [ ] [<code>chore: Follow up connection status</code>](https://github.com/krille-chan/fluffychat/commit/2869d341a6462ad5539f7c4cac7d3d3d6c555755)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -296,6 +298,7 @@
 - [ ] [<code>chore: Follow up sync status</code>](https://github.com/krille-chan/fluffychat/commit/7785f7ab2a361a12cd1fb6b3aed70fb0a2203294)
 - [ ] [<code>chore: Slightly adjust welcome screen</code>](https://github.com/krille-chan/fluffychat/commit/6bcef04a19ba857f56654a7af0f65c17028e4ce7)
 - [ ] [<code>chore: Adjust button icon colors</code>](https://github.com/krille-chan/fluffychat/commit/4429368a92652bca863ba96f496797a6380ab009)
+- [ ] [<code>chore: Follow up connection status</code>](https://github.com/krille-chan/fluffychat/commit/2869d341a6462ad5539f7c4cac7d3d3d6c555755)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4077,6 +4080,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Format Windows.plugin (#19554)</code>](https://github.com/netdata/netdata.git/commit/768ad06d7e1cef93f0f16df0a67b7b216a9c2c52)
 - [ ] [<code>docs(start-stop-restart): fix restart typo (#19555)</code>](https://github.com/netdata/netdata.git/commit/0a6a837a1e99093e0f5566dfc0a35b079173d628)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-95-nightly.</code>](https://github.com/netdata/netdata.git/commit/d2f7f3398c4f85b3da7cc367cb2e197b86453cf2)
+- [ ] [<code>MSSQL Multiple Instances (windows.plugin) (#19559)</code>](https://github.com/netdata/netdata.git/commit/86a9690b0b0c9b7bbe51f2dd26c8e9dbc7b38daf)
+- [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.0.6 to 1.0.7 in /src/go (#19558)</code>](https://github.com/netdata/netdata.git/commit/7b12c4618b62e606dedbd78365e3dd142c0ca7c4)
+- [ ] [<code>Metadata (AD and ADCS), and small fixes (#19557)</code>](https://github.com/netdata/netdata.git/commit/885cb8509414dcffa8ca63ea47f0f25682862385)
+- [ ] [<code>Regenerate integrations docs (#19561)</code>](https://github.com/netdata/netdata.git/commit/1d404c1ef21293e995fed5d271bfb6a81a1fb7c8)
+- [ ] [<code>cgroups.plugin: fixes to cgroup path validation (#19490)</code>](https://github.com/netdata/netdata.git/commit/1d2824f1a91ec21ac7bc53c67ff0e62ef7bf54cf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
