@@ -102,6 +102,10 @@
 - [ ] [<code>fix(l10n): translated using Weblate (Finnish)</code>](https://github.com/canonical/firmware-updater/commit/df3985e20d151fd30f38bd829c1562799378d3a9)
 - [ ] [<code>fix(l10n): translated using Weblate (Estonian)</code>](https://github.com/canonical/firmware-updater/commit/fb32a0b22c5b045ad084cd099a35ccc83187a05d)
 - [ ] [<code>fix(l10n): translations update from Hosted Weblate (#322)</code>](https://github.com/canonical/firmware-updater/commit/935ad4f93d0719b3c33419553a878f8b8c42b1e9)
+- [ ] [<code>feat: highlighting the need for FDE recovery keys before installing firmware</code>](https://github.com/canonical/firmware-updater/commit/3cdaea8b5d721fff11b9e1189da88c7f6371c697)
+- [ ] [<code>fix: UI and copy tweaks</code>](https://github.com/canonical/firmware-updater/commit/5e9ce7870f8a2a3ae4a6a66bbb9fca90535f9ab2)
+- [ ] [<code>fix: text layout</code>](https://github.com/canonical/firmware-updater/commit/567abf4c751fdb1e7bd9b33aac130892cc73fea5)
+- [ ] [<code>feat: highlighting the need for FDE recovery keys before installing firmware (#326)</code>](https://github.com/canonical/firmware-updater/commit/8f004fd2531383fbf754b5b878ba6ffc4d4cf4c0)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -207,6 +211,11 @@
 - [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/eecf206eb811fa73e44de30a2965886e45fb8b21)
 - [ ] [<code>chore: Add tooltip to links in html</code>](https://github.com/krille-chan/fluffychat/commit/4072e99696568bc518adbaf21bc8e8de2359989d)
 - [ ] [<code>chore: Add explanation for PlayStore Safety Standards</code>](https://github.com/krille-chan/fluffychat/commit/8cf67afd95cb87cc8ad98dd14142ad108938edd7)
+- [ ] [<code>chore: Use UbuntuMono</code>](https://github.com/krille-chan/fluffychat/commit/5f439a6b585e2788e642840b09b980def0304e98)
+- [ ] [<code>chore: Adjust design</code>](https://github.com/krille-chan/fluffychat/commit/00165d925ef4711e1990e05fa708b06b7706bc16)
+- [ ] [<code>chore: Add medium font</code>](https://github.com/krille-chan/fluffychat/commit/05847c37f085e5a4c8cb5c225100cf36ff32ef1c)
+- [ ] [<code>chore: Follow up title spacing</code>](https://github.com/krille-chan/fluffychat/commit/74f57e2a31742ca627e7ef2a33dcedb5b2be2b11)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/040c2b8369562af27a23c48b64911f2c01c879e4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -309,6 +318,11 @@
 - [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/eecf206eb811fa73e44de30a2965886e45fb8b21)
 - [ ] [<code>chore: Add tooltip to links in html</code>](https://github.com/krille-chan/fluffychat/commit/4072e99696568bc518adbaf21bc8e8de2359989d)
 - [ ] [<code>chore: Add explanation for PlayStore Safety Standards</code>](https://github.com/krille-chan/fluffychat/commit/8cf67afd95cb87cc8ad98dd14142ad108938edd7)
+- [ ] [<code>chore: Use UbuntuMono</code>](https://github.com/krille-chan/fluffychat/commit/5f439a6b585e2788e642840b09b980def0304e98)
+- [ ] [<code>chore: Adjust design</code>](https://github.com/krille-chan/fluffychat/commit/00165d925ef4711e1990e05fa708b06b7706bc16)
+- [ ] [<code>chore: Add medium font</code>](https://github.com/krille-chan/fluffychat/commit/05847c37f085e5a4c8cb5c225100cf36ff32ef1c)
+- [ ] [<code>chore: Follow up title spacing</code>](https://github.com/krille-chan/fluffychat/commit/74f57e2a31742ca627e7ef2a33dcedb5b2be2b11)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/040c2b8369562af27a23c48b64911f2c01c879e4)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2535,6 +2549,8 @@
 - [ ] [<code>Rename file_path to filePath</code>](https://github.com/AOMediaCodec/libavif/commit/2c2de78779a3bf73953e1172ea3af73745cf8245)
 - [ ] [<code>Homogeneize CMake logs (#2587)</code>](https://github.com/AOMediaCodec/libavif/commit/83172c63aff2c5fdbcfd602c82d1fa11134a7867)
 - [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/7eee1849f2dceaa6b3a44f765616438f1bde25c2)
+- [ ] [<code>Update Sample Transform implementation (#2588)</code>](https://github.com/AOMediaCodec/libavif/commit/a3e97630b618dec0278382fe8a5b4e8a023fbc40)
+- [ ] [<code>Bump actions/cache to v4.2.0 (#2594)</code>](https://github.com/AOMediaCodec/libavif/commit/7a4170cc8a002ee7c6ed90c1cd6bdacdc8758ea1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4109,6 +4125,7 @@
 - [ ] [<code>Fix memory leak (#19569)</code>](https://github.com/netdata/netdata.git/commit/630869600830032b5ab84b4fd7feb6abb6f2f157)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/59844189cc2eba4c42462c2c76f688fc2c0ed0b4)
 - [ ] [<code>Code cleanup on ACLK messages (#19566)</code>](https://github.com/netdata/netdata.git/commit/dd7861abc8063bafa263585110ac7ef22a301063)
+- [ ] [<code>fix(go.d): clean up charts for stopped and removed jobs (#19573)</code>](https://github.com/netdata/netdata.git/commit/9b3d9f3eb6b93f8041faca7ec90b6b321f0fab47)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4791,6 +4808,8 @@
 - [ ] [<code>parse: fix renderer validation for nm-devices</code>](https://github.com/canonical/netplan/commit/e76557002968c04231d95f751ab4895c2ee01af8)
 - [ ] [<code>wifi: add support for wpa-psk-sha256</code>](https://github.com/canonical/netplan/commit/a03d6149975f392aa6e9e957ab7444d9ac88780c)
 - [ ] [<code>CI: cleanup spread.yml workflow now that PR#184 is fixed</code>](https://github.com/canonical/netplan/commit/0965bc92bb099e62073874578460cf722e1181df)
+- [ ] [<code>tests: add integration test for wifi/psk-sha256</code>](https://github.com/canonical/netplan/commit/53636f1daa8d70c00a059a09404eb3e3a54ead8f)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5489,10 +5508,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: Fix compilation command for macOS</code>](https://github.com/jow-/ucode/commit/826a5c9de7d3471bbe224e005d9ef0e0c206aa72)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>debian/copyright: fix missing dot to separate paragraphs</code>](https://github.com/jow-/ucode/commit/1fa771fc91c02f17ee701baaa4356b9a2b6a6713)
+- [ ] [<code>debian/control: pkg-config now called pkgconf</code>](https://github.com/jow-/ucode/commit/60c0e5eae99204d8822f6193f4bf2b9b565c2c59)
+- [ ] [<code>debian/changelog: switch versioning to native package scheme</code>](https://github.com/jow-/ucode/commit/244570db4f8e913cc539835f2effe3f88faec920)
+- [ ] [<code>.gitignore: ignore files generated by debuild</code>](https://github.com/jow-/ucode/commit/fa2326fc00a09a4627f10500535a6e12ab8aeffc)
+- [ ] [<code>debian: ignore lintian warning no-manual-page</code>](https://github.com/jow-/ucode/commit/faec62367524cfb8cce13f095476340400f994fe)
 - [ ] [<code>main: add global SCRIPT_NAME variable</code>](https://github.com/jow-/ucode/commit/af881af4b0dca83e71ddaed0a4dcfdd419bb6409)
 - [ ] [<code>socket: fix AF_PACKET recvmsg() and sockaddr formatting</code>](https://github.com/jow-/ucode/commit/5cbd32514187f0888227acef120e869cc78ff53d)
 - [ ] [<code>rtnl: properly handle runtime exceptions in listener callback</code>](https://github.com/jow-/ucode/commit/6f71a35c4cfa3fd600addd0c1eedcd7eba195c2e)
 - [ ] [<code>ci: bump actions/upload-artifact to v4</code>](https://github.com/jow-/ucode/commit/6dd08716205fb974215521fd03ebcaa96c26b031)
+- [ ] [<code>socket: properly support SO_ATTACH_FILTER sockopt</code>](https://github.com/jow-/ucode/commit/001ced17982fffb4132be81d5a59dfe749becc60)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
