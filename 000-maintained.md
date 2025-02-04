@@ -4107,6 +4107,8 @@
 - [ ] [<code>Add a new agent status when connecting to the cloud (#19564)</code>](https://github.com/netdata/netdata.git/commit/a8e1f3f0cde209414947f7c7d0f1e81e2954d827)
 - [ ] [<code>build(deps): bump github.com/prometheus-community/pro-bing from 0.6.0 to 0.6.1 in /src/go (#19567)</code>](https://github.com/netdata/netdata.git/commit/83acfafcc87e484c192cb1aa7644579a876351f1)
 - [ ] [<code>Fix memory leak (#19569)</code>](https://github.com/netdata/netdata.git/commit/630869600830032b5ab84b4fd7feb6abb6f2f157)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/59844189cc2eba4c42462c2c76f688fc2c0ed0b4)
+- [ ] [<code>Code cleanup on ACLK messages (#19566)</code>](https://github.com/netdata/netdata.git/commit/dd7861abc8063bafa263585110ac7ef22a301063)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
