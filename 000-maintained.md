@@ -224,6 +224,9 @@
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/85c1258a9bef06ac3706c89fbc0ff27ddb2c6104)
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/8f5dbc75c98a021fc01c9437ae272db5ec16f211)
 - [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/1c1c24c98b67e49493b0f7cc1266f2f50ae3c17d)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/1c97a9798d02c4834764185e98fbed686223b28d)
+- [ ] [<code>feat: Display all push rules and allow to enable disable them</code>](https://github.com/krille-chan/fluffychat/commit/e4a2c13a6fd83e343334dbeb10679fd96487e20c)
+- [ ] [<code>feat: Inspect and delete push rules</code>](https://github.com/krille-chan/fluffychat/commit/d7f7751e5e3e1e3c082ead6747a766652b3b54e4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -335,6 +338,9 @@
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/85c1258a9bef06ac3706c89fbc0ff27ddb2c6104)
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/8f5dbc75c98a021fc01c9437ae272db5ec16f211)
 - [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/1c1c24c98b67e49493b0f7cc1266f2f50ae3c17d)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/1c97a9798d02c4834764185e98fbed686223b28d)
+- [ ] [<code>feat: Display all push rules and allow to enable disable them</code>](https://github.com/krille-chan/fluffychat/commit/e4a2c13a6fd83e343334dbeb10679fd96487e20c)
+- [ ] [<code>feat: Inspect and delete push rules</code>](https://github.com/krille-chan/fluffychat/commit/d7f7751e5e3e1e3c082ead6747a766652b3b54e4)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2563,6 +2569,8 @@
 - [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/7eee1849f2dceaa6b3a44f765616438f1bde25c2)
 - [ ] [<code>Update Sample Transform implementation (#2588)</code>](https://github.com/AOMediaCodec/libavif/commit/a3e97630b618dec0278382fe8a5b4e8a023fbc40)
 - [ ] [<code>Bump actions/cache to v4.2.0 (#2594)</code>](https://github.com/AOMediaCodec/libavif/commit/7a4170cc8a002ee7c6ed90c1cd6bdacdc8758ea1)
+- [ ] [<code>Add AVIF_ENABLE_EXPERIMENTAL_EXTENDED_PIXI (#2591)</code>](https://github.com/AOMediaCodec/libavif/commit/8ddc0b00bcd46be496974bc6f0513020fc20039b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4138,6 +4146,12 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/59844189cc2eba4c42462c2c76f688fc2c0ed0b4)
 - [ ] [<code>Code cleanup on ACLK messages (#19566)</code>](https://github.com/netdata/netdata.git/commit/dd7861abc8063bafa263585110ac7ef22a301063)
 - [ ] [<code>fix(go.d): clean up charts for stopped and removed jobs (#19573)</code>](https://github.com/netdata/netdata.git/commit/9b3d9f3eb6b93f8041faca7ec90b6b321f0fab47)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-110-nightly.</code>](https://github.com/netdata/netdata.git/commit/51299116d60b1510e41b82e58f7b6722e6290280)
+- [ ] [<code>inline dbengine query critical path (#19537)</code>](https://github.com/netdata/netdata.git/commit/62f1b458e7b03cfec990bca193ef016eb25f3b0f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve data write (#19525)</code>](https://github.com/netdata/netdata.git/commit/f7fa21b639f2cf1ff42963f9f76d86b4f63cdc4b)
+- [ ] [<code>fix(go.d/nvme): add missing "/dev/" prefix to device path for v2.11 (#19577)</code>](https://github.com/netdata/netdata.git/commit/f1b3d6affd585e22a4508f3422b2a263fffa10a8)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5530,6 +5544,14 @@
 - [ ] [<code>rtnl: properly handle runtime exceptions in listener callback</code>](https://github.com/jow-/ucode/commit/6f71a35c4cfa3fd600addd0c1eedcd7eba195c2e)
 - [ ] [<code>ci: bump actions/upload-artifact to v4</code>](https://github.com/jow-/ucode/commit/6dd08716205fb974215521fd03ebcaa96c26b031)
 - [ ] [<code>socket: properly support SO_ATTACH_FILTER sockopt</code>](https://github.com/jow-/ucode/commit/001ced17982fffb4132be81d5a59dfe749becc60)
+- [ ] [<code>ubus: add named parameter support in functions with many params</code>](https://github.com/jow-/ucode/commit/f0e865fe3dddb4c6681c7f5be25438f1d0f4ae68)
+- [ ] [<code>ubus: add defer.await() method</code>](https://github.com/jow-/ucode/commit/9da8b8aa4ad0ff12bc150892965cedf1a507064d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ubus: add request get_fd/set_fd methods</code>](https://github.com/jow-/ucode/commit/17dbf0bef4b6471e55331e86fc5983bd3e2602de)
+- [ ] [<code>ubus: add support for sending file descriptors via ubus.call/defer</code>](https://github.com/jow-/ucode/commit/4acb960c90f77de933afeac0c6a8ba77209c68d2)
+- [ ] [<code>ubus: add support for receiving file descriptors in call and defer</code>](https://github.com/jow-/ucode/commit/22b9523565a5b59d98e8ba2fa578fa5d994ecfdb)
+- [ ] [<code>ubus: add support for channels</code>](https://github.com/jow-/ucode/commit/c0d1654a450b62f5767ebd28352141f33c7ef38e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
