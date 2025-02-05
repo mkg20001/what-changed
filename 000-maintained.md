@@ -30,6 +30,10 @@
 - [ ] [<code>Release v1.15.8 (#31)</code>](https://github.com/cowsql/cowsql/commit/8fd9dc3f7278ac4a71150b1668ff718678b3efbb)
   - <sub>Tags: <code>v1.15.8</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5</code>](https://github.com/cowsql/cowsql/commit/b5285345b0c173a1f0754e270730ed9878a59622)
+- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
+- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
+- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -216,6 +220,10 @@
 - [ ] [<code>chore: Add medium font</code>](https://github.com/krille-chan/fluffychat/commit/05847c37f085e5a4c8cb5c225100cf36ff32ef1c)
 - [ ] [<code>chore: Follow up title spacing</code>](https://github.com/krille-chan/fluffychat/commit/74f57e2a31742ca627e7ef2a33dcedb5b2be2b11)
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/040c2b8369562af27a23c48b64911f2c01c879e4)
+- [ ] [<code>chore: Adjust design of adaptive dialogs</code>](https://github.com/krille-chan/fluffychat/commit/fba44d994638d0832ddad3285b340f4e862acd93)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/85c1258a9bef06ac3706c89fbc0ff27ddb2c6104)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/8f5dbc75c98a021fc01c9437ae272db5ec16f211)
+- [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/1c1c24c98b67e49493b0f7cc1266f2f50ae3c17d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -323,6 +331,10 @@
 - [ ] [<code>chore: Add medium font</code>](https://github.com/krille-chan/fluffychat/commit/05847c37f085e5a4c8cb5c225100cf36ff32ef1c)
 - [ ] [<code>chore: Follow up title spacing</code>](https://github.com/krille-chan/fluffychat/commit/74f57e2a31742ca627e7ef2a33dcedb5b2be2b11)
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/040c2b8369562af27a23c48b64911f2c01c879e4)
+- [ ] [<code>chore: Adjust design of adaptive dialogs</code>](https://github.com/krille-chan/fluffychat/commit/fba44d994638d0832ddad3285b340f4e862acd93)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/85c1258a9bef06ac3706c89fbc0ff27ddb2c6104)
+- [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/8f5dbc75c98a021fc01c9437ae272db5ec16f211)
+- [ ] [<code>chore: Design follow up</code>](https://github.com/krille-chan/fluffychat/commit/1c1c24c98b67e49493b0f7cc1266f2f50ae3c17d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
