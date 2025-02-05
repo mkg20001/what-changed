@@ -216,6 +216,7 @@
 - [ ] [<code>chore: Add tooltip to links in html</code>](https://github.com/krille-chan/fluffychat/commit/4072e99696568bc518adbaf21bc8e8de2359989d)
 - [ ] [<code>chore: Add explanation for PlayStore Safety Standards</code>](https://github.com/krille-chan/fluffychat/commit/8cf67afd95cb87cc8ad98dd14142ad108938edd7)
 - [ ] [<code>chore: Use UbuntuMono</code>](https://github.com/krille-chan/fluffychat/commit/5f439a6b585e2788e642840b09b980def0304e98)
+- [ ] [<code>feat: Pick share keys with</code>](https://github.com/krille-chan/fluffychat/commit/9f9f52fa02dd5773e0fe7133d157ace810134300)
 - [ ] [<code>chore: Adjust design</code>](https://github.com/krille-chan/fluffychat/commit/00165d925ef4711e1990e05fa708b06b7706bc16)
 - [ ] [<code>chore: Add medium font</code>](https://github.com/krille-chan/fluffychat/commit/05847c37f085e5a4c8cb5c225100cf36ff32ef1c)
 - [ ] [<code>chore: Follow up title spacing</code>](https://github.com/krille-chan/fluffychat/commit/74f57e2a31742ca627e7ef2a33dcedb5b2be2b11)
@@ -227,6 +228,17 @@
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/1c97a9798d02c4834764185e98fbed686223b28d)
 - [ ] [<code>feat: Display all push rules and allow to enable disable them</code>](https://github.com/krille-chan/fluffychat/commit/e4a2c13a6fd83e343334dbeb10679fd96487e20c)
 - [ ] [<code>feat: Inspect and delete push rules</code>](https://github.com/krille-chan/fluffychat/commit/d7f7751e5e3e1e3c082ead6747a766652b3b54e4)
+- [ ] [<code>chore: Adjust navrail design</code>](https://github.com/krille-chan/fluffychat/commit/1147ddf91d42788d1eae2bbb72fe08e43679b48e)
+- [ ] [<code>chore: Follow up push rules</code>](https://github.com/krille-chan/fluffychat/commit/0106c0f6f60043b9be2bc393d761f28c559bda40)
+- [ ] [<code>chore: Follow up push rule settings</code>](https://github.com/krille-chan/fluffychat/commit/07fdfd16494711f09009826e1ac905d32609923b)
+- [ ] [<code>feat: Select share keys with property in security settings</code>](https://github.com/krille-chan/fluffychat/commit/6f3133a07cfe23212d6c8a107f7008cf69f76367)
+- [ ] [<code>feat: Use dynamic gradient for chat bubbles</code>](https://github.com/krille-chan/fluffychat/commit/480513c708fefd02250c90c5d940611e44103ce3)
+- [ ] [<code>chore: follow up chat bubble colors</code>](https://github.com/krille-chan/fluffychat/commit/efd48115690bc3cf43385f0dec9e8ce4f9bbb9aa)
+- [ ] [<code>chore: Follow up message bubble colors</code>](https://github.com/krille-chan/fluffychat/commit/d7ac0aa6053bcb25a5001777191a84f871a0d101)
+- [ ] [<code>fix: Image search rendering problem</code>](https://github.com/krille-chan/fluffychat/commit/59648bf2d702f665b989d0ad473526327c4f0b25)
+- [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/321cc07fb8de101ea32d1e977bb0fab6146ee179)
+- [ ] [<code>chore: Message bubble color follow up</code>](https://github.com/krille-chan/fluffychat/commit/b6ea44da2ec959a5d2459b5cd37a32648cd66f71)
+- [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/5e937ca266b07cd0b354490935cea3cc080933d1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -330,6 +342,7 @@
 - [ ] [<code>chore: Add tooltip to links in html</code>](https://github.com/krille-chan/fluffychat/commit/4072e99696568bc518adbaf21bc8e8de2359989d)
 - [ ] [<code>chore: Add explanation for PlayStore Safety Standards</code>](https://github.com/krille-chan/fluffychat/commit/8cf67afd95cb87cc8ad98dd14142ad108938edd7)
 - [ ] [<code>chore: Use UbuntuMono</code>](https://github.com/krille-chan/fluffychat/commit/5f439a6b585e2788e642840b09b980def0304e98)
+- [ ] [<code>feat: Pick share keys with</code>](https://github.com/krille-chan/fluffychat/commit/9f9f52fa02dd5773e0fe7133d157ace810134300)
 - [ ] [<code>chore: Adjust design</code>](https://github.com/krille-chan/fluffychat/commit/00165d925ef4711e1990e05fa708b06b7706bc16)
 - [ ] [<code>chore: Add medium font</code>](https://github.com/krille-chan/fluffychat/commit/05847c37f085e5a4c8cb5c225100cf36ff32ef1c)
 - [ ] [<code>chore: Follow up title spacing</code>](https://github.com/krille-chan/fluffychat/commit/74f57e2a31742ca627e7ef2a33dcedb5b2be2b11)
@@ -341,6 +354,17 @@
 - [ ] [<code>chore: Follow up colors</code>](https://github.com/krille-chan/fluffychat/commit/1c97a9798d02c4834764185e98fbed686223b28d)
 - [ ] [<code>feat: Display all push rules and allow to enable disable them</code>](https://github.com/krille-chan/fluffychat/commit/e4a2c13a6fd83e343334dbeb10679fd96487e20c)
 - [ ] [<code>feat: Inspect and delete push rules</code>](https://github.com/krille-chan/fluffychat/commit/d7f7751e5e3e1e3c082ead6747a766652b3b54e4)
+- [ ] [<code>chore: Adjust navrail design</code>](https://github.com/krille-chan/fluffychat/commit/1147ddf91d42788d1eae2bbb72fe08e43679b48e)
+- [ ] [<code>chore: Follow up push rules</code>](https://github.com/krille-chan/fluffychat/commit/0106c0f6f60043b9be2bc393d761f28c559bda40)
+- [ ] [<code>chore: Follow up push rule settings</code>](https://github.com/krille-chan/fluffychat/commit/07fdfd16494711f09009826e1ac905d32609923b)
+- [ ] [<code>feat: Select share keys with property in security settings</code>](https://github.com/krille-chan/fluffychat/commit/6f3133a07cfe23212d6c8a107f7008cf69f76367)
+- [ ] [<code>feat: Use dynamic gradient for chat bubbles</code>](https://github.com/krille-chan/fluffychat/commit/480513c708fefd02250c90c5d940611e44103ce3)
+- [ ] [<code>chore: follow up chat bubble colors</code>](https://github.com/krille-chan/fluffychat/commit/efd48115690bc3cf43385f0dec9e8ce4f9bbb9aa)
+- [ ] [<code>chore: Follow up message bubble colors</code>](https://github.com/krille-chan/fluffychat/commit/d7ac0aa6053bcb25a5001777191a84f871a0d101)
+- [ ] [<code>fix: Image search rendering problem</code>](https://github.com/krille-chan/fluffychat/commit/59648bf2d702f665b989d0ad473526327c4f0b25)
+- [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/321cc07fb8de101ea32d1e977bb0fab6146ee179)
+- [ ] [<code>chore: Message bubble color follow up</code>](https://github.com/krille-chan/fluffychat/commit/b6ea44da2ec959a5d2459b5cd37a32648cd66f71)
+- [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/5e937ca266b07cd0b354490935cea3cc080933d1)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4152,6 +4176,13 @@
 - [ ] [<code>Improve data write (#19525)</code>](https://github.com/netdata/netdata.git/commit/f7fa21b639f2cf1ff42963f9f76d86b4f63cdc4b)
 - [ ] [<code>fix(go.d/nvme): add missing "/dev/" prefix to device path for v2.11 (#19577)</code>](https://github.com/netdata/netdata.git/commit/f1b3d6affd585e22a4508f3422b2a263fffa10a8)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix static build conditions to run on release and nightly builds. (#19579)</code>](https://github.com/netdata/netdata.git/commit/873ab77648191cdc19a5d7399b1de24fb179ef00)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-115-nightly.</code>](https://github.com/netdata/netdata.git/commit/253d73bee0dae8430f904c1b6acafd43c5412c25)
+- [ ] [<code>build(deps): update go toolchain to v1.23.6 (#19578)</code>](https://github.com/netdata/netdata.git/commit/4dd3026c1a177ef19b898219f1418d3e2932898e)
+- [ ] [<code>fix(go.d/apache): make ?auto param check non-fatal (#19580)</code>](https://github.com/netdata/netdata.git/commit/9625364069b9044924bc8fe94b4a58e858512026)
+- [ ] [<code>Generate protobuf source files in build dir. (#19576)</code>](https://github.com/netdata/netdata.git/commit/2d4062ecd03166611364985070596841717aef09)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4835,6 +4866,12 @@
 - [ ] [<code>wifi: add support for wpa-psk-sha256</code>](https://github.com/canonical/netplan/commit/a03d6149975f392aa6e9e957ab7444d9ac88780c)
 - [ ] [<code>CI: cleanup spread.yml workflow now that PR#184 is fixed</code>](https://github.com/canonical/netplan/commit/0965bc92bb099e62073874578460cf722e1181df)
 - [ ] [<code>tests: add integration test for wifi/psk-sha256</code>](https://github.com/canonical/netplan/commit/53636f1daa8d70c00a059a09404eb3e3a54ead8f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:wifi: use dhcpcd istead of deprecated ISC dhclient</code>](https://github.com/canonical/netplan/commit/0b5783e80bad55f0d9005c5f845e3340fb00df5a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: downgrade systemd dependency (wait-online DNS)</code>](https://github.com/canonical/netplan/commit/5845bab6f8489971a5a204a69d3d4bd1b4c546a8)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>cli:apply: Ignore udevadm errors triggering devices (LP: #2095203) (#539)</code>](https://github.com/canonical/netplan/commit/03e60e5ca8c4ce22a1c0fe51fa2c843b76cfd0f4)
   - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
