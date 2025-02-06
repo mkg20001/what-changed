@@ -110,6 +110,8 @@
 - [ ] [<code>fix: UI and copy tweaks</code>](https://github.com/canonical/firmware-updater/commit/5e9ce7870f8a2a3ae4a6a66bbb9fca90535f9ab2)
 - [ ] [<code>fix: text layout</code>](https://github.com/canonical/firmware-updater/commit/567abf4c751fdb1e7bd9b33aac130892cc73fea5)
 - [ ] [<code>feat: highlighting the need for FDE recovery keys before installing firmware (#326)</code>](https://github.com/canonical/firmware-updater/commit/8f004fd2531383fbf754b5b878ba6ffc4d4cf4c0)
+- [ ] [<code>feat: add high contrast theme</code>](https://github.com/canonical/firmware-updater/commit/26205db160a34aabd83935df2ef60a03862db17b)
+- [ ] [<code>feat: add high contrast theme (#327)</code>](https://github.com/canonical/firmware-updater/commit/22198beebe5c26b8a74abe1bad8badd5cfb27562)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -240,6 +242,8 @@
 - [ ] [<code>chore: Message bubble color follow up</code>](https://github.com/krille-chan/fluffychat/commit/b6ea44da2ec959a5d2459b5cd37a32648cd66f71)
 - [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/5e937ca266b07cd0b354490935cea3cc080933d1)
 - [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/f8b5ce5201022f35d631bd10a7ba67ffb83dc28b)
+- [ ] [<code>chore: Follow up linebreak formatting</code>](https://github.com/krille-chan/fluffychat/commit/e7e3b7881ebe3563e1ce0ac363f9f40d2adc1985)
+- [ ] [<code>chore: Follow up code blocks</code>](https://github.com/krille-chan/fluffychat/commit/39df020cc4ab2a09213cfdb9314e0838c1dd245a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -367,6 +371,8 @@
 - [ ] [<code>chore: Message bubble color follow up</code>](https://github.com/krille-chan/fluffychat/commit/b6ea44da2ec959a5d2459b5cd37a32648cd66f71)
 - [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/5e937ca266b07cd0b354490935cea3cc080933d1)
 - [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/f8b5ce5201022f35d631bd10a7ba67ffb83dc28b)
+- [ ] [<code>chore: Follow up linebreak formatting</code>](https://github.com/krille-chan/fluffychat/commit/e7e3b7881ebe3563e1ce0ac363f9f40d2adc1985)
+- [ ] [<code>chore: Follow up code blocks</code>](https://github.com/krille-chan/fluffychat/commit/39df020cc4ab2a09213cfdb9314e0838c1dd245a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4188,6 +4194,10 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-119-nightly.</code>](https://github.com/netdata/netdata.git/commit/e30d3728ecb5b7c1a44c311674d3ca1472a8d01d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Format missing file (eBPF.plugin) (#19582)</code>](https://github.com/netdata/netdata.git/commit/95ffcebe80da22c43bfca9059fa7f0ce59dde11e)
+- [ ] [<code>protection against extreme cardinality (#19486)</code>](https://github.com/netdata/netdata.git/commit/8fa7b2f6185fc19b98a937f983ade52fb353e55d)
+- [ ] [<code>improvement(go.d/zookeeper): add more metrics (#19584)</code>](https://github.com/netdata/netdata.git/commit/3da8b87733469000551119c5b69fd9db79619d4b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#19585)</code>](https://github.com/netdata/netdata.git/commit/5a067f97b3c85e4bf9c2ef155cac6ec3d461aea8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4878,6 +4888,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>cli:apply: Ignore udevadm errors triggering devices (LP: #2095203) (#539)</code>](https://github.com/canonical/netplan/commit/03e60e5ca8c4ce22a1c0fe51fa2c843b76cfd0f4)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>tests:wifi: Fail properly, don't indicate 'OK (skipped=all) PASS'</code>](https://github.com/canonical/netplan/commit/04bf213f184acdbe2a616baee056be8964492752)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>CI: allow wifi test to be skipped</code>](https://github.com/canonical/netplan/commit/4184208259347cafd5321a6004caecb0f25f402f)
+- [ ] [<code>tests:integration: Fix warning about 01-main.yaml permissions</code>](https://github.com/canonical/netplan/commit/52ea6f3298a6c9e66f11f37c541de714a01c9391)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5587,6 +5601,8 @@
 - [ ] [<code>ci: bump actions/upload-artifact to v4</code>](https://github.com/jow-/ucode/commit/6dd08716205fb974215521fd03ebcaa96c26b031)
 - [ ] [<code>socket: properly support SO_ATTACH_FILTER sockopt</code>](https://github.com/jow-/ucode/commit/001ced17982fffb4132be81d5a59dfe749becc60)
 - [ ] [<code>ubus: add named parameter support in functions with many params</code>](https://github.com/jow-/ucode/commit/f0e865fe3dddb4c6681c7f5be25438f1d0f4ae68)
+- [ ] [<code>fs: ioctl: export constants for direction values</code>](https://github.com/jow-/ucode/commit/18a2ffaf51fa2e0ead83fae62af87f0d7fc57a7a)
+- [ ] [<code>fs: ioctl: improve ioctl read to avoid allocating twice</code>](https://github.com/jow-/ucode/commit/0ba75bea925ddb9e79240f0831f3674d7cc6f7a9)
 - [ ] [<code>ubus: add defer.await() method</code>](https://github.com/jow-/ucode/commit/9da8b8aa4ad0ff12bc150892965cedf1a507064d)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>ubus: add request get_fd/set_fd methods</code>](https://github.com/jow-/ucode/commit/17dbf0bef4b6471e55331e86fc5983bd3e2602de)
