@@ -239,6 +239,7 @@
 - [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/321cc07fb8de101ea32d1e977bb0fab6146ee179)
 - [ ] [<code>chore: Message bubble color follow up</code>](https://github.com/krille-chan/fluffychat/commit/b6ea44da2ec959a5d2459b5cd37a32648cd66f71)
 - [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/5e937ca266b07cd0b354490935cea3cc080933d1)
+- [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/f8b5ce5201022f35d631bd10a7ba67ffb83dc28b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -365,6 +366,7 @@
 - [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/321cc07fb8de101ea32d1e977bb0fab6146ee179)
 - [ ] [<code>chore: Message bubble color follow up</code>](https://github.com/krille-chan/fluffychat/commit/b6ea44da2ec959a5d2459b5cd37a32648cd66f71)
 - [ ] [<code>chore: Follow up bubble color</code>](https://github.com/krille-chan/fluffychat/commit/5e937ca266b07cd0b354490935cea3cc080933d1)
+- [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/f8b5ce5201022f35d631bd10a7ba67ffb83dc28b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4183,6 +4185,9 @@
 - [ ] [<code>Generate protobuf source files in build dir. (#19576)</code>](https://github.com/netdata/netdata.git/commit/2d4062ecd03166611364985070596841717aef09)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-119-nightly.</code>](https://github.com/netdata/netdata.git/commit/e30d3728ecb5b7c1a44c311674d3ca1472a8d01d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Format missing file (eBPF.plugin) (#19582)</code>](https://github.com/netdata/netdata.git/commit/95ffcebe80da22c43bfca9059fa7f0ce59dde11e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5329,7 +5334,7 @@
 
 > Dropped python312Packages.ebaysdk - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.ebaysdk', 'home_url': 'https://github.com/timotheus/ebaysdk-python', 'src_url': 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz', 'urls': ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-1.4.1.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped python312Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-2.0.0.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-2.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [python312Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
