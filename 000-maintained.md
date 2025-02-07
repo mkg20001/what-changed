@@ -4204,6 +4204,14 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-124-nightly.</code>](https://github.com/netdata/netdata.git/commit/45f950bfc3e27b857455358e13dea52849547591)
 - [ ] [<code>docs(go.d/zookeeper): fix ZooKeeper server scope name (#19587)</code>](https://github.com/netdata/netdata.git/commit/17a2ee373b4aa78b686f68ee9ad7cc1c0879fe9c)
 - [ ] [<code>Regenerate integrations docs (#19588)</code>](https://github.com/netdata/netdata.git/commit/90d8ec800042b5fc247b8cd862a238071b162f09)
+- [ ] [<code>docs(health): clarify "special user of the conf operator" (#19589)</code>](https://github.com/netdata/netdata.git/commit/ec915e76238240b8685dafb0cf470626f2a6e702)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs(health): clarify "special user of the cond operator" p2 (#19590)</code>](https://github.com/netdata/netdata.git/commit/ca37fb53a783e3283f1fe920d89151799e682eb0)
+- [ ] [<code>Switch from x86 to ARM build host for POWER8+ builds. (#19575)</code>](https://github.com/netdata/netdata.git/commit/a5c5936f62345278432120a9b713ef4d24ec8edc)
+- [ ] [<code>Add agent version during ACLK handshake (#19583)</code>](https://github.com/netdata/netdata.git/commit/963bd01f85157466f631c6b87fdcc1d4a77b38f3)
+- [ ] [<code>fix incomplete implementation of journal watcher (#19592)</code>](https://github.com/netdata/netdata.git/commit/3a2dd87697d6fa724dc2be2d1baf43fff191096d)
+- [ ] [<code>Add check for available active instances when checking for extreme cardinality (#19594)</code>](https://github.com/netdata/netdata.git/commit/c76d3ed814c62c773df0de7c164e6696a556a0a0)
+- [ ] [<code>Free resources where writing datafile extents (#19593)</code>](https://github.com/netdata/netdata.git/commit/766c47dba0b8130b8c5fa559362af6ee58100935)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
