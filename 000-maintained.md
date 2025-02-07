@@ -244,6 +244,7 @@
 - [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/f8b5ce5201022f35d631bd10a7ba67ffb83dc28b)
 - [ ] [<code>chore: Follow up linebreak formatting</code>](https://github.com/krille-chan/fluffychat/commit/e7e3b7881ebe3563e1ce0ac363f9f40d2adc1985)
 - [ ] [<code>chore: Follow up code blocks</code>](https://github.com/krille-chan/fluffychat/commit/39df020cc4ab2a09213cfdb9314e0838c1dd245a)
+- [ ] [<code>build: Update to flutter 3.27.4</code>](https://github.com/krille-chan/fluffychat/commit/0b48f377749b87b2ee7399ecef33148244873663)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -373,6 +374,7 @@
 - [ ] [<code>chore: Follow up message bubble color</code>](https://github.com/krille-chan/fluffychat/commit/f8b5ce5201022f35d631bd10a7ba67ffb83dc28b)
 - [ ] [<code>chore: Follow up linebreak formatting</code>](https://github.com/krille-chan/fluffychat/commit/e7e3b7881ebe3563e1ce0ac363f9f40d2adc1985)
 - [ ] [<code>chore: Follow up code blocks</code>](https://github.com/krille-chan/fluffychat/commit/39df020cc4ab2a09213cfdb9314e0838c1dd245a)
+- [ ] [<code>build: Update to flutter 3.27.4</code>](https://github.com/krille-chan/fluffychat/commit/0b48f377749b87b2ee7399ecef33148244873663)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2603,6 +2605,7 @@
 - [ ] [<code>Bump actions/cache to v4.2.0 (#2594)</code>](https://github.com/AOMediaCodec/libavif/commit/7a4170cc8a002ee7c6ed90c1cd6bdacdc8758ea1)
 - [ ] [<code>Add AVIF_ENABLE_EXPERIMENTAL_EXTENDED_PIXI (#2591)</code>](https://github.com/AOMediaCodec/libavif/commit/8ddc0b00bcd46be496974bc6f0513020fc20039b)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>update libyuv to ccdf87034 (1903) (#2597)</code>](https://github.com/AOMediaCodec/libavif/commit/4e9b26e496f56d71b9284bab8cc7d23f34c0512d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4198,6 +4201,9 @@
 - [ ] [<code>improvement(go.d/zookeeper): add more metrics (#19584)</code>](https://github.com/netdata/netdata.git/commit/3da8b87733469000551119c5b69fd9db79619d4b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#19585)</code>](https://github.com/netdata/netdata.git/commit/5a067f97b3c85e4bf9c2ef155cac6ec3d461aea8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-124-nightly.</code>](https://github.com/netdata/netdata.git/commit/45f950bfc3e27b857455358e13dea52849547591)
+- [ ] [<code>docs(go.d/zookeeper): fix ZooKeeper server scope name (#19587)</code>](https://github.com/netdata/netdata.git/commit/17a2ee373b4aa78b686f68ee9ad7cc1c0879fe9c)
+- [ ] [<code>Regenerate integrations docs (#19588)</code>](https://github.com/netdata/netdata.git/commit/90d8ec800042b5fc247b8cd862a238071b162f09)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
