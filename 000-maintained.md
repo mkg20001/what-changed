@@ -4212,6 +4212,8 @@
 - [ ] [<code>fix incomplete implementation of journal watcher (#19592)</code>](https://github.com/netdata/netdata.git/commit/3a2dd87697d6fa724dc2be2d1baf43fff191096d)
 - [ ] [<code>Add check for available active instances when checking for extreme cardinality (#19594)</code>](https://github.com/netdata/netdata.git/commit/c76d3ed814c62c773df0de7c164e6696a556a0a0)
 - [ ] [<code>Free resources where writing datafile extents (#19593)</code>](https://github.com/netdata/netdata.git/commit/766c47dba0b8130b8c5fa559362af6ee58100935)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-134-nightly.</code>](https://github.com/netdata/netdata.git/commit/653b0c8ce23e542daffd51832873f1effa5a6d56)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/f5f25cfdf8585f002260022d12f0f98855d45afc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
