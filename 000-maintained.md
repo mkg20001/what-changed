@@ -245,6 +245,11 @@
 - [ ] [<code>chore: Follow up linebreak formatting</code>](https://github.com/krille-chan/fluffychat/commit/e7e3b7881ebe3563e1ce0ac363f9f40d2adc1985)
 - [ ] [<code>chore: Follow up code blocks</code>](https://github.com/krille-chan/fluffychat/commit/39df020cc4ab2a09213cfdb9314e0838c1dd245a)
 - [ ] [<code>build: Update to flutter 3.27.4</code>](https://github.com/krille-chan/fluffychat/commit/0b48f377749b87b2ee7399ecef33148244873663)
+- [ ] [<code>docs: Fix snap store icon</code>](https://github.com/krille-chan/fluffychat/commit/c162aa15db81385ae9a41eb8269ad43ce88fd71a)
+- [ ] [<code>refactor: Display navigationrail in settings page</code>](https://github.com/krille-chan/fluffychat/commit/139117e47b7ff249b91242d5437e3aa611fd4ae7)
+- [ ] [<code>build: Add locale config for android</code>](https://github.com/krille-chan/fluffychat/commit/e6896fcd8f0987674a769aa418458ebcc1d01cae)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -375,6 +380,11 @@
 - [ ] [<code>chore: Follow up linebreak formatting</code>](https://github.com/krille-chan/fluffychat/commit/e7e3b7881ebe3563e1ce0ac363f9f40d2adc1985)
 - [ ] [<code>chore: Follow up code blocks</code>](https://github.com/krille-chan/fluffychat/commit/39df020cc4ab2a09213cfdb9314e0838c1dd245a)
 - [ ] [<code>build: Update to flutter 3.27.4</code>](https://github.com/krille-chan/fluffychat/commit/0b48f377749b87b2ee7399ecef33148244873663)
+- [ ] [<code>docs: Fix snap store icon</code>](https://github.com/krille-chan/fluffychat/commit/c162aa15db81385ae9a41eb8269ad43ce88fd71a)
+- [ ] [<code>refactor: Display navigationrail in settings page</code>](https://github.com/krille-chan/fluffychat/commit/139117e47b7ff249b91242d5437e3aa611fd4ae7)
+- [ ] [<code>build: Add locale config for android</code>](https://github.com/krille-chan/fluffychat/commit/e6896fcd8f0987674a769aa418458ebcc1d01cae)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -420,6 +430,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Allow virtiofsd on non-x86</code>](https://github.com/lxc/incus/commit/7a6f507462c3f6660d2c02acd038549420403cc8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2352,6 +2363,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Allow virtiofsd on non-x86</code>](https://github.com/lxc/incus/commit/7a6f507462c3f6660d2c02acd038549420403cc8)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4214,6 +4226,9 @@
 - [ ] [<code>Free resources where writing datafile extents (#19593)</code>](https://github.com/netdata/netdata.git/commit/766c47dba0b8130b8c5fa559362af6ee58100935)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-134-nightly.</code>](https://github.com/netdata/netdata.git/commit/653b0c8ce23e542daffd51832873f1effa5a6d56)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/f5f25cfdf8585f002260022d12f0f98855d45afc)
+- [ ] [<code>build(deps): bump github.com/gohugoio/hashstructure from 0.3.0 to 0.5.0 in /src/go (#19598)</code>](https://github.com/netdata/netdata.git/commit/8df2a32be347f3440333ec6f7cfa58fcbb0e237a)
+- [ ] [<code>build(deps): bump golang.org/x/text from 0.21.0 to 0.22.0 in /src/go (#19597)</code>](https://github.com/netdata/netdata.git/commit/e4461e05c50a3a6740a7f12264b78af83de54b29)
+- [ ] [<code>dequeue from hub before deleting contexts (#19599)</code>](https://github.com/netdata/netdata.git/commit/672dba16a3081d03de78647bec62f5c6418a474e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
