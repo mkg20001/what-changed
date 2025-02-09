@@ -2619,6 +2619,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>update libyuv to ccdf87034 (1903) (#2597)</code>](https://github.com/AOMediaCodec/libavif/commit/4e9b26e496f56d71b9284bab8cc7d23f34c0512d)
 - [ ] [<code>Add v1.2.0 end markers to the extensible structs</code>](https://github.com/AOMediaCodec/libavif/commit/83a60276f2ec3a603a138940be74bff0ef09a5b4)
+- [ ] [<code>Rename avifEncoderWriteFileTypeBoxAndMetaBoxV1</code>](https://github.com/AOMediaCodec/libavif/commit/39cb59b227d78d444946b394eb5e9010d5ec2d37)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
