@@ -4230,6 +4230,7 @@
 - [ ] [<code>build(deps): bump github.com/gohugoio/hashstructure from 0.3.0 to 0.5.0 in /src/go (#19598)</code>](https://github.com/netdata/netdata.git/commit/8df2a32be347f3440333ec6f7cfa58fcbb0e237a)
 - [ ] [<code>build(deps): bump golang.org/x/text from 0.21.0 to 0.22.0 in /src/go (#19597)</code>](https://github.com/netdata/netdata.git/commit/e4461e05c50a3a6740a7f12264b78af83de54b29)
 - [ ] [<code>dequeue from hub before deleting contexts (#19599)</code>](https://github.com/netdata/netdata.git/commit/672dba16a3081d03de78647bec62f5c6418a474e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-139-nightly.</code>](https://github.com/netdata/netdata.git/commit/794abcc8ad680d600ec6ac6f425fbb5288123acf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5373,6 +5374,10 @@
 - [ ] [<code>fix(lib): remove debug print</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8f59fc496fee1e86a7ea2a34488e32bc53ba5e74)
 - [ ] [<code>fix(lib): possible race condition</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf0cfe83927a994aa1d252a3530ddd1583b2af7f)
 - [ ] [<code>fix(lib): decrease log level of expected message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cc0f6a7aff4a4d37b605b822e79d75af9ad0b7c1)
+- [ ] [<code>fix(lib): less strict A3936 state update packet parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08cb791fd6e8ff8c827e00a88db0ff7e0a4c2ad6)
+- [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbc595a79d7240a357a7b01239666d07affefaf0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: v1.19.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e26d8c90eeb7df03f4c132514e6b6b4f90a2bd12)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
