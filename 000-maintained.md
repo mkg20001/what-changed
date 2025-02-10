@@ -58,6 +58,9 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/79a65d63fbd285dd7955e98360803e23e8133e23)
 - [ ] [<code>systemd: Relax read-only path workaround</code>](https://github.com/lxc/distrobuilder/commit/7c515b4a9024858b88b79e76e1b6eab4f14568bb)
 - [ ] [<code>remove nixos 24.05</code>](https://github.com/lxc/distrobuilder/commit/5848227b6dfc3c552496074ddfd6ad9cc3ad6d30)
+- [ ] [<code>Update openwrt-http_test.go to support v24.10 (and drop v21.x)</code>](https://github.com/lxc/distrobuilder/commit/8abb164d329fbe82146ee4530ed00b8dc063950b)
+- [ ] [<code>Update openwrt-http.go to support v24.10 (and drop v21.x)</code>](https://github.com/lxc/distrobuilder/commit/0053864347117ec08c700856f3ab9a5a957ce58f)
+- [ ] [<code>Update builds.yml to v4 artifact actions</code>](https://github.com/lxc/distrobuilder/commit/e3d37ae0bff8a708f8b22202428049deebcf9b1c)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -250,6 +253,7 @@
 - [ ] [<code>build: Add locale config for android</code>](https://github.com/krille-chan/fluffychat/commit/e6896fcd8f0987674a769aa418458ebcc1d01cae)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
+- [ ] [<code>chore: Follow up linebreaks in html rendering</code>](https://github.com/krille-chan/fluffychat/commit/0b8d570c59a15c4bb5a5e1cb63c8d7d11b720034)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -385,6 +389,7 @@
 - [ ] [<code>build: Add locale config for android</code>](https://github.com/krille-chan/fluffychat/commit/e6896fcd8f0987674a769aa418458ebcc1d01cae)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
+- [ ] [<code>chore: Follow up linebreaks in html rendering</code>](https://github.com/krille-chan/fluffychat/commit/0b8d570c59a15c4bb5a5e1cb63c8d7d11b720034)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2620,6 +2625,7 @@
 - [ ] [<code>update libyuv to ccdf87034 (1903) (#2597)</code>](https://github.com/AOMediaCodec/libavif/commit/4e9b26e496f56d71b9284bab8cc7d23f34c0512d)
 - [ ] [<code>Add v1.2.0 end markers to the extensible structs</code>](https://github.com/AOMediaCodec/libavif/commit/83a60276f2ec3a603a138940be74bff0ef09a5b4)
 - [ ] [<code>Rename avifEncoderWriteFileTypeBoxAndMetaBoxV1</code>](https://github.com/AOMediaCodec/libavif/commit/39cb59b227d78d444946b394eb5e9010d5ec2d37)
+- [ ] [<code>Update MinimizedImageBox syntax (#2595)</code>](https://github.com/AOMediaCodec/libavif/commit/15855f9a80940c29e1ea8b236dd7cb9253960e0f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4232,6 +4238,10 @@
 - [ ] [<code>build(deps): bump golang.org/x/text from 0.21.0 to 0.22.0 in /src/go (#19597)</code>](https://github.com/netdata/netdata.git/commit/e4461e05c50a3a6740a7f12264b78af83de54b29)
 - [ ] [<code>dequeue from hub before deleting contexts (#19599)</code>](https://github.com/netdata/netdata.git/commit/672dba16a3081d03de78647bec62f5c6418a474e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-139-nightly.</code>](https://github.com/netdata/netdata.git/commit/794abcc8ad680d600ec6ac6f425fbb5288123acf)
+- [ ] [<code>Update manage-notification-methods.md (#19601)</code>](https://github.com/netdata/netdata.git/commit/cdd0abe768f2a2aae6f5d7abaa9b75fc03625fc8)
+- [ ] [<code>Streaming alerts (#19586)</code>](https://github.com/netdata/netdata.git/commit/5907efae73f92a01ce27d70a3a38c1b8aeab8f8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>make remove-stale-node remove also ephemeral nodes (#19602)</code>](https://github.com/netdata/netdata.git/commit/1f7116cd0226cdf2e97f48533f5b94fe6f21728b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5379,6 +5389,11 @@
 - [ ] [<code>build: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbc595a79d7240a357a7b01239666d07affefaf0)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: v1.19.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e26d8c90eeb7df03f4c132514e6b6b4f90a2bd12)
+  - <sub>Tags: <code>v1.19.2</code></sub>
+- [ ] [<code>docs: update working devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab336c9d494d3529f57211004ee7f5757b6b41b6)
+- [ ] [<code>fix(lib): add mac address prefix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6831db832e47c68ba8e9c0ff897012d961e92792)
+- [ ] [<code>build: v1.19.3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cea547dcac5d4dba62070da0a8b3bc2a981aa43e)
+  - <sub>Tags: <code>v1.19.3</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
