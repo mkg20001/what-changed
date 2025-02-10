@@ -2626,6 +2626,9 @@
 - [ ] [<code>Add v1.2.0 end markers to the extensible structs</code>](https://github.com/AOMediaCodec/libavif/commit/83a60276f2ec3a603a138940be74bff0ef09a5b4)
 - [ ] [<code>Rename avifEncoderWriteFileTypeBoxAndMetaBoxV1</code>](https://github.com/AOMediaCodec/libavif/commit/39cb59b227d78d444946b394eb5e9010d5ec2d37)
 - [ ] [<code>Update MinimizedImageBox syntax (#2595)</code>](https://github.com/AOMediaCodec/libavif/commit/15855f9a80940c29e1ea8b236dd7cb9253960e0f)
+- [ ] [<code>Fix avifpixitest includes (#2602)</code>](https://github.com/AOMediaCodec/libavif/commit/81596c2f08c9619bb25711acc1743007ae3822c2)
+- [ ] [<code>Make test_cmd_stdin.sh executable (#2603)</code>](https://github.com/AOMediaCodec/libavif/commit/f084e61cac8b2fa7ce209d921310059297cda35d)
+- [ ] [<code>Remove unused using testing in pixitest (#2604)</code>](https://github.com/AOMediaCodec/libavif/commit/f9e5daf7c5ec15da8c3bc44ded388259b3fa1c94)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4242,6 +4245,16 @@
 - [ ] [<code>Streaming alerts (#19586)</code>](https://github.com/netdata/netdata.git/commit/5907efae73f92a01ce27d70a3a38c1b8aeab8f8d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>make remove-stale-node remove also ephemeral nodes (#19602)</code>](https://github.com/netdata/netdata.git/commit/1f7116cd0226cdf2e97f48533f5b94fe6f21728b)
+- [ ] [<code>cleanup hosts - leftover code (#19603)</code>](https://github.com/netdata/netdata.git/commit/4610ff0891495233bda8b5caa961e090a41f1058)
+- [ ] [<code>docs: reword nodes-ephemerality for clarity (#19604)</code>](https://github.com/netdata/netdata.git/commit/80a0e201da84d5e14e5b739935cf4083b4129fae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>add interpolation to median and percentile (#19606)</code>](https://github.com/netdata/netdata.git/commit/b63f741d27d4e2172346a8296905464e3d966664)
+- [ ] [<code>Disable LTO for openSUSE package builds. (#19607)</code>](https://github.com/netdata/netdata.git/commit/3d2cc81931ceba61e2dabbbe162153175c3bc773)
+- [ ] [<code>Close database if we encounter error during startup (#19600)</code>](https://github.com/netdata/netdata.git/commit/d6a762309e398caa0d6a767b5049cacea7fd8059)
+- [ ] [<code>Cleanup code that writes extents to the database (#19596)</code>](https://github.com/netdata/netdata.git/commit/87185ae42a6fcbca04fdcf95ff84ed795be1ea5d)
+- [ ] [<code>silence new alerts (#19610)</code>](https://github.com/netdata/netdata.git/commit/45fe7f436ee4c58055ee3d7faa17f0af00417aaa)
+- [ ] [<code>Allow indirect access when agent is claimed, but offline (indirect cloud connectivity) (#19611)</code>](https://github.com/netdata/netdata.git/commit/d72465d9bac53a4e5cfed5a31b5e76c7265d9872)
+- [ ] [<code>Do not register removed node on agent restart (#19609)</code>](https://github.com/netdata/netdata.git/commit/250d1bdf9b0be79aee345dca8cf09803093ce1f0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5663,6 +5676,7 @@
 - [ ] [<code>ubus: add support for receiving file descriptors in call and defer</code>](https://github.com/jow-/ucode/commit/22b9523565a5b59d98e8ba2fa578fa5d994ecfdb)
 - [ ] [<code>ubus: add support for channels</code>](https://github.com/jow-/ucode/commit/c0d1654a450b62f5767ebd28352141f33c7ef38e)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>vm: fix crash due to stale frame pointer</code>](https://github.com/jow-/ucode/commit/b32321beb112cfbca54554f9c685cd34bbbee0e4)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
