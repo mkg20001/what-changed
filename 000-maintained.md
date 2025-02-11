@@ -2674,6 +2674,8 @@
 - [ ] [<code>Update to libaom v3.12.0</code>](https://github.com/AOMediaCodec/libavif/commit/b2b97a4357a2ed68bf8273a0e0410a71927ac8ce)
 - [ ] [<code>Allow YCgCoRe and YCgCoRo decoding. (#2078)</code>](https://github.com/AOMediaCodec/libavif/commit/906a8a5bd18a744f0e2e603e1841c1ef5e712677)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Check that the gain map max is >=  gain map min. (#2580)</code>](https://github.com/AOMediaCodec/libavif/commit/c6807414018046e280ed1f5f24d2ce1a04b16ca3)
+- [ ] [<code>Fix some CHANGELOG.md entries (#2610)</code>](https://github.com/AOMediaCodec/libavif/commit/f31dccbb5e3c2bf9ce7d47c11371c8ad2628d0d4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4302,6 +4304,10 @@
 - [ ] [<code>Do not register removed node on agent restart (#19609)</code>](https://github.com/netdata/netdata.git/commit/250d1bdf9b0be79aee345dca8cf09803093ce1f0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-152-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ae16fd72fd333f835d94875345fb47dc1e10dd6)
 - [ ] [<code>chore: remove fluentbit.log from Dockerfile (#19613)</code>](https://github.com/netdata/netdata.git/commit/221d97f404822f95f2ffc2f953b91812f9d15519)
+- [ ] [<code>improvement(health): clarify clickhouse_replicated_readonly_tables info (#19616)</code>](https://github.com/netdata/netdata.git/commit/71397d5b7559df063d37fed21c9459300b4af962)
+- [ ] [<code>Add sentry fatal message breadcrumb. (#19608)</code>](https://github.com/netdata/netdata.git/commit/e12fcdbb4d4d08216975f2d81489622dd1b4d233)
+- [ ] [<code>fix(go.d/mysql): handle Cpu_time in microseconds in v11.4.5+ (#19618)</code>](https://github.com/netdata/netdata.git/commit/b81150bcd1103ce187263059d368ad67fcde7b21)
+- [ ] [<code>fix: correct typo in NetdataCompilerFlags (#19614)</code>](https://github.com/netdata/netdata.git/commit/55e567f441876eb1f4a216e140c7931af8f86bfb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
