@@ -436,6 +436,11 @@
 - [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/device/disk: Allow virtiofsd on non-x86</code>](https://github.com/lxc/incus/commit/7a6f507462c3f6660d2c02acd038549420403cc8)
+- [ ] [<code>incusd/instance/drivers/qemu: Add IOMMU device</code>](https://github.com/lxc/incus/commit/83f210b16157f04e5f0542840492dc520cd2343f)
+- [ ] [<code>incus/file: Remove unused function</code>](https://github.com/lxc/incus/commit/627cd9b0e647bdda8fb1d175b66fc905eec4a22f)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/22a6df8efead21737432c2c4e9ee9a80815ffbc7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network/info (ovn): Fix object not found.</code>](https://github.com/lxc/incus/commit/8b0482204b65319b0aa3b0235f5eb5cc6563bf37)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2369,6 +2374,11 @@
 - [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/device/disk: Allow virtiofsd on non-x86</code>](https://github.com/lxc/incus/commit/7a6f507462c3f6660d2c02acd038549420403cc8)
+- [ ] [<code>incusd/instance/drivers/qemu: Add IOMMU device</code>](https://github.com/lxc/incus/commit/83f210b16157f04e5f0542840492dc520cd2343f)
+- [ ] [<code>incus/file: Remove unused function</code>](https://github.com/lxc/incus/commit/627cd9b0e647bdda8fb1d175b66fc905eec4a22f)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/22a6df8efead21737432c2c4e9ee9a80815ffbc7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network/info (ovn): Fix object not found.</code>](https://github.com/lxc/incus/commit/8b0482204b65319b0aa3b0235f5eb5cc6563bf37)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
