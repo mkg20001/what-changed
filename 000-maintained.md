@@ -254,6 +254,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
 - [ ] [<code>chore: Follow up linebreaks in html rendering</code>](https://github.com/krille-chan/fluffychat/commit/0b8d570c59a15c4bb5a5e1cb63c8d7d11b720034)
+- [ ] [<code>chore: Follow up html rendering br tag</code>](https://github.com/krille-chan/fluffychat/commit/aad2c9af998599b5a8265b381f66d396901ace31)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -390,6 +391,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
 - [ ] [<code>chore: Follow up linebreaks in html rendering</code>](https://github.com/krille-chan/fluffychat/commit/0b8d570c59a15c4bb5a5e1cb63c8d7d11b720034)
+- [ ] [<code>chore: Follow up html rendering br tag</code>](https://github.com/krille-chan/fluffychat/commit/aad2c9af998599b5a8265b381f66d396901ace31)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter319 - no appropriate URL found OrderedDict({'attr_path': 'flutter319', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -435,12 +437,27 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/bridge: Fix deletion of tunnels and dummy devices</code>](https://github.com/lxc/incus/commit/b3e65e961d08d41f5f49b81f28038458c1b0675f)
+  - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/device/disk: Allow virtiofsd on non-x86</code>](https://github.com/lxc/incus/commit/7a6f507462c3f6660d2c02acd038549420403cc8)
 - [ ] [<code>incusd/instance/drivers/qemu: Add IOMMU device</code>](https://github.com/lxc/incus/commit/83f210b16157f04e5f0542840492dc520cd2343f)
 - [ ] [<code>incus/file: Remove unused function</code>](https://github.com/lxc/incus/commit/627cd9b0e647bdda8fb1d175b66fc905eec4a22f)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/22a6df8efead21737432c2c4e9ee9a80815ffbc7)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/network/info (ovn): Fix object not found.</code>](https://github.com/lxc/incus/commit/8b0482204b65319b0aa3b0235f5eb5cc6563bf37)
+- [ ] [<code>incusd/instance/drivers: Improve NUMA balancing</code>](https://github.com/lxc/incus/commit/1f63f951d3004e927f581b475d7f461fc33564a6)
+- [ ] [<code>incus/file: Move from path to filepath</code>](https://github.com/lxc/incus/commit/bd03b8009662a75065e24d480c9131c53ffca675)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Add linux-modules-extra (for vrf)</code>](https://github.com/lxc/incus/commit/7a9f080ceaa9fdcb2214305d6e8d362bc6f522ba)
+- [ ] [<code>shared/archive: Added LZ4 support</code>](https://github.com/lxc/incus/commit/37a72c0c8b72f4d815c6e5045dd6114b2dfdc3aa)
+- [ ] [<code>api: instance_nic_routed_host_address</code>](https://github.com/lxc/incus/commit/b0e83ef588d89bc1db9625a1d006cc3d1411fdfa)
+- [ ] [<code>incus/server/ip: Add `Master` parameter for veth and tuntap</code>](https://github.com/lxc/incus/commit/b4eeafbf1e9100b8427ee327cfcf5cc810b24f11)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/server/ip: Add VRF parameter for IP Route</code>](https://github.com/lxc/incus/commit/01d06f58f9158d8295e22c30e79a2086473f7ffd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/server/device: Add vrf parameter for routed NIC devices</code>](https://github.com/lxc/incus/commit/b3946e32c54b171b3b49f51084abe766412a5143)
+- [ ] [<code>tests: Add test for routed NIC with VRF</code>](https://github.com/lxc/incus/commit/0477d9c3792ceaadc2adbe6bfbf30951799f9252)
+- [ ] [<code>doc: Add description for routed-nic VRF parameter</code>](https://github.com/lxc/incus/commit/adede1116f008af1415b47ea9fb04e40cb4a451f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2373,12 +2390,27 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file/pull: Actually make read buffer 1MiB</code>](https://github.com/lxc/incus/commit/35388a3d102a4a9dc2bf3368c937a1f208eb9d6f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/bridge: Fix deletion of tunnels and dummy devices</code>](https://github.com/lxc/incus/commit/b3e65e961d08d41f5f49b81f28038458c1b0675f)
+  - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/device/disk: Allow virtiofsd on non-x86</code>](https://github.com/lxc/incus/commit/7a6f507462c3f6660d2c02acd038549420403cc8)
 - [ ] [<code>incusd/instance/drivers/qemu: Add IOMMU device</code>](https://github.com/lxc/incus/commit/83f210b16157f04e5f0542840492dc520cd2343f)
 - [ ] [<code>incus/file: Remove unused function</code>](https://github.com/lxc/incus/commit/627cd9b0e647bdda8fb1d175b66fc905eec4a22f)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/22a6df8efead21737432c2c4e9ee9a80815ffbc7)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/network/info (ovn): Fix object not found.</code>](https://github.com/lxc/incus/commit/8b0482204b65319b0aa3b0235f5eb5cc6563bf37)
+- [ ] [<code>incusd/instance/drivers: Improve NUMA balancing</code>](https://github.com/lxc/incus/commit/1f63f951d3004e927f581b475d7f461fc33564a6)
+- [ ] [<code>incus/file: Move from path to filepath</code>](https://github.com/lxc/incus/commit/bd03b8009662a75065e24d480c9131c53ffca675)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>github: Add linux-modules-extra (for vrf)</code>](https://github.com/lxc/incus/commit/7a9f080ceaa9fdcb2214305d6e8d362bc6f522ba)
+- [ ] [<code>shared/archive: Added LZ4 support</code>](https://github.com/lxc/incus/commit/37a72c0c8b72f4d815c6e5045dd6114b2dfdc3aa)
+- [ ] [<code>api: instance_nic_routed_host_address</code>](https://github.com/lxc/incus/commit/b0e83ef588d89bc1db9625a1d006cc3d1411fdfa)
+- [ ] [<code>incus/server/ip: Add `Master` parameter for veth and tuntap</code>](https://github.com/lxc/incus/commit/b4eeafbf1e9100b8427ee327cfcf5cc810b24f11)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/server/ip: Add VRF parameter for IP Route</code>](https://github.com/lxc/incus/commit/01d06f58f9158d8295e22c30e79a2086473f7ffd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/server/device: Add vrf parameter for routed NIC devices</code>](https://github.com/lxc/incus/commit/b3946e32c54b171b3b49f51084abe766412a5143)
+- [ ] [<code>tests: Add test for routed NIC with VRF</code>](https://github.com/lxc/incus/commit/0477d9c3792ceaadc2adbe6bfbf30951799f9252)
+- [ ] [<code>doc: Add description for routed-nic VRF parameter</code>](https://github.com/lxc/incus/commit/adede1116f008af1415b47ea9fb04e40cb4a451f)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2639,6 +2671,9 @@
 - [ ] [<code>Fix avifpixitest includes (#2602)</code>](https://github.com/AOMediaCodec/libavif/commit/81596c2f08c9619bb25711acc1743007ae3822c2)
 - [ ] [<code>Make test_cmd_stdin.sh executable (#2603)</code>](https://github.com/AOMediaCodec/libavif/commit/f084e61cac8b2fa7ce209d921310059297cda35d)
 - [ ] [<code>Remove unused using testing in pixitest (#2604)</code>](https://github.com/AOMediaCodec/libavif/commit/f9e5daf7c5ec15da8c3bc44ded388259b3fa1c94)
+- [ ] [<code>Update to libaom v3.12.0</code>](https://github.com/AOMediaCodec/libavif/commit/b2b97a4357a2ed68bf8273a0e0410a71927ac8ce)
+- [ ] [<code>Allow YCgCoRe and YCgCoRo decoding. (#2078)</code>](https://github.com/AOMediaCodec/libavif/commit/906a8a5bd18a744f0e2e603e1841c1ef5e712677)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4265,6 +4300,8 @@
 - [ ] [<code>silence new alerts (#19610)</code>](https://github.com/netdata/netdata.git/commit/45fe7f436ee4c58055ee3d7faa17f0af00417aaa)
 - [ ] [<code>Allow indirect access when agent is claimed, but offline (indirect cloud connectivity) (#19611)</code>](https://github.com/netdata/netdata.git/commit/d72465d9bac53a4e5cfed5a31b5e76c7265d9872)
 - [ ] [<code>Do not register removed node on agent restart (#19609)</code>](https://github.com/netdata/netdata.git/commit/250d1bdf9b0be79aee345dca8cf09803093ce1f0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-152-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ae16fd72fd333f835d94875345fb47dc1e10dd6)
+- [ ] [<code>chore: remove fluentbit.log from Dockerfile (#19613)</code>](https://github.com/netdata/netdata.git/commit/221d97f404822f95f2ffc2f953b91812f9d15519)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
