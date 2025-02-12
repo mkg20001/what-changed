@@ -2676,6 +2676,8 @@
 - [ ] [<code>Fix some CHANGELOG.md entries (#2610)</code>](https://github.com/AOMediaCodec/libavif/commit/f31dccbb5e3c2bf9ce7d47c11371c8ad2628d0d4)
 - [ ] [<code>Update test_all_configurations.sh (#2609)</code>](https://github.com/AOMediaCodec/libavif/commit/745f69c35aeb7099cd5af17f70b37326b905ea18)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Disable zlib examples (#2613)</code>](https://github.com/AOMediaCodec/libavif/commit/69191926e5e86965f4bcb8c90778b2c8e8ca70aa)
+- [ ] [<code>Mark the avifGainMap struct as extensible</code>](https://github.com/AOMediaCodec/libavif/commit/29f4eb7bca4b6771ce35a403429e8662028cc226)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4311,6 +4313,17 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-158-nightly.</code>](https://github.com/netdata/netdata.git/commit/667d67a07de235b7da085a62f26742c2fda022aa)
 - [ ] [<code>Switch to Ubuntu 22.04 runner images for CI build jobs. (#19619)</code>](https://github.com/netdata/netdata.git/commit/93032aba5c84a708573c2928d45ee6618fa83386)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-160-nightly.</code>](https://github.com/netdata/netdata.git/commit/95898e15b34e65ac813dfe81ad024f7ad2c520b6)
+- [ ] [<code>feat(health): add system_reboot_detection alarm (#19624)</code>](https://github.com/netdata/netdata.git/commit/0b33fcac1757175d8d5fc91255045ab8b4baa4c2)
+- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.48.0 to 0.48.1 in /src/go (#19625)</code>](https://github.com/netdata/netdata.git/commit/c01cab2ab9637fac2550289d7985d56b9d631376)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.34.0 to 0.35.0 in /src/go (#19626)</code>](https://github.com/netdata/netdata.git/commit/24c4094d6db7e488568e152ed6c355f3560baa58)
+- [ ] [<code>HyperV Adjusts (windows.plugin) (#19623)</code>](https://github.com/netdata/netdata.git/commit/fdeacfd8d9564b78f76036eb8259350934250a02)
+- [ ] [<code>do not send sentry reports on rrd_init() failures (#19628)</code>](https://github.com/netdata/netdata.git/commit/772cc5fff584cb4f222327266522b89e87512173)
+- [ ] [<code>detect the system ca bundle at runtime (#19622)</code>](https://github.com/netdata/netdata.git/commit/3e15a013d04f6394ad8c69e43325c923537eec8b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Revert "HyperV Adjusts (windows.plugin)" (#19630)</code>](https://github.com/netdata/netdata.git/commit/0453c3aed9ab45006ecff948ea3b56c324246e9b)
+- [ ] [<code>more perflib error checking (#19631)</code>](https://github.com/netdata/netdata.git/commit/d57c5c503b5ffffc77e74dcfc672b29a4ffcfb02)
+- [ ] [<code>fix windows logs (#19632)</code>](https://github.com/netdata/netdata.git/commit/d8c3dc087c7285400b229f972d081e1df340fbf2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
