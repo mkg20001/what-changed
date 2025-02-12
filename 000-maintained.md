@@ -2674,6 +2674,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Check that the gain map max is >=  gain map min. (#2580)</code>](https://github.com/AOMediaCodec/libavif/commit/c6807414018046e280ed1f5f24d2ce1a04b16ca3)
 - [ ] [<code>Fix some CHANGELOG.md entries (#2610)</code>](https://github.com/AOMediaCodec/libavif/commit/f31dccbb5e3c2bf9ce7d47c11371c8ad2628d0d4)
+- [ ] [<code>Update test_all_configurations.sh (#2609)</code>](https://github.com/AOMediaCodec/libavif/commit/745f69c35aeb7099cd5af17f70b37326b905ea18)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4306,6 +4308,9 @@
 - [ ] [<code>Add sentry fatal message breadcrumb. (#19608)</code>](https://github.com/netdata/netdata.git/commit/e12fcdbb4d4d08216975f2d81489622dd1b4d233)
 - [ ] [<code>fix(go.d/mysql): handle Cpu_time in microseconds in v11.4.5+ (#19618)</code>](https://github.com/netdata/netdata.git/commit/b81150bcd1103ce187263059d368ad67fcde7b21)
 - [ ] [<code>fix: correct typo in NetdataCompilerFlags (#19614)</code>](https://github.com/netdata/netdata.git/commit/55e567f441876eb1f4a216e140c7931af8f86bfb)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-158-nightly.</code>](https://github.com/netdata/netdata.git/commit/667d67a07de235b7da085a62f26742c2fda022aa)
+- [ ] [<code>Switch to Ubuntu 22.04 runner images for CI build jobs. (#19619)</code>](https://github.com/netdata/netdata.git/commit/93032aba5c84a708573c2928d45ee6618fa83386)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-160-nightly.</code>](https://github.com/netdata/netdata.git/commit/95898e15b34e65ac813dfe81ad024f7ad2c520b6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
