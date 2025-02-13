@@ -2686,6 +2686,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Disable zlib examples (#2613)</code>](https://github.com/AOMediaCodec/libavif/commit/69191926e5e86965f4bcb8c90778b2c8e8ca70aa)
 - [ ] [<code>Mark the avifGainMap struct as extensible</code>](https://github.com/AOMediaCodec/libavif/commit/29f4eb7bca4b6771ce35a403429e8662028cc226)
+- [ ] [<code>Make code compatible with SVT-AV1 3.0 (#2607)</code>](https://github.com/AOMediaCodec/libavif/commit/e649830525d37f93e83a28b2a7dc4afbf0eb12d0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4332,6 +4333,12 @@
 - [ ] [<code>Revert "HyperV Adjusts (windows.plugin)" (#19630)</code>](https://github.com/netdata/netdata.git/commit/0453c3aed9ab45006ecff948ea3b56c324246e9b)
 - [ ] [<code>more perflib error checking (#19631)</code>](https://github.com/netdata/netdata.git/commit/d57c5c503b5ffffc77e74dcfc672b29a4ffcfb02)
 - [ ] [<code>fix windows logs (#19632)</code>](https://github.com/netdata/netdata.git/commit/d8c3dc087c7285400b229f972d081e1df340fbf2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-170-nightly.</code>](https://github.com/netdata/netdata.git/commit/a88677d328dee0e6e27900e8117014f28d03ad99)
+- [ ] [<code>docs(exporting): remove influxdb (via graphite) exporter (#19633)</code>](https://github.com/netdata/netdata.git/commit/ccd0fb8133fc6311d04ebd5599f61a2f85a03191)
+- [ ] [<code>Regenerate integrations docs (#19634)</code>](https://github.com/netdata/netdata.git/commit/c0c002133d5d602c9f2315b8ecd292970ae7d802)
+- [ ] [<code>docs(exporting): clarify graphite exporters (#19635)</code>](https://github.com/netdata/netdata.git/commit/6ea38f8a81d83e44148d5fe402be842548ce551a)
+- [ ] [<code>docs: add missing prop to graphite meta (#19637)</code>](https://github.com/netdata/netdata.git/commit/c5e56ffbc61e32b1df3c22748dcbc5e98083a2b1)
+- [ ] [<code>Regenerate integrations docs (#19636)</code>](https://github.com/netdata/netdata.git/commit/baca49fe7b2339ce64110717519187030ed464d1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
