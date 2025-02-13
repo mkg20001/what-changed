@@ -115,6 +115,8 @@
 - [ ] [<code>feat: highlighting the need for FDE recovery keys before installing firmware (#326)</code>](https://github.com/canonical/firmware-updater/commit/8f004fd2531383fbf754b5b878ba6ffc4d4cf4c0)
 - [ ] [<code>feat: add high contrast theme</code>](https://github.com/canonical/firmware-updater/commit/26205db160a34aabd83935df2ef60a03862db17b)
 - [ ] [<code>feat: add high contrast theme (#327)</code>](https://github.com/canonical/firmware-updater/commit/22198beebe5c26b8a74abe1bad8badd5cfb27562)
+- [ ] [<code>maint: Migrate to org GitHub to Jira application</code>](https://github.com/canonical/firmware-updater/commit/a75ab6669fd573dd8cae29867ed299f6251dc4a0)
+- [ ] [<code>maint: Migrate to org GitHub to Jira application (#328)</code>](https://github.com/canonical/firmware-updater/commit/e5bca1fc99e902cd552c954739ce2cedb24490cf)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -460,6 +462,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>generate-config: Move to cmd package</code>](https://github.com/lxc/incus/commit/45d911a2b84f25616abd529d855863ba6efb2a7a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incus/storage/drivers: Fix issue with lvmcluster storage pool creation</code>](https://github.com/lxc/incus/commit/1910ae733ff038aea279b858d141238058c47066)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2417,6 +2420,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>generate-config: Move to cmd package</code>](https://github.com/lxc/incus/commit/45d911a2b84f25616abd529d855863ba6efb2a7a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incus/storage/drivers: Fix issue with lvmcluster storage pool creation</code>](https://github.com/lxc/incus/commit/1910ae733ff038aea279b858d141238058c47066)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4339,6 +4343,11 @@
 - [ ] [<code>docs(exporting): clarify graphite exporters (#19635)</code>](https://github.com/netdata/netdata.git/commit/6ea38f8a81d83e44148d5fe402be842548ce551a)
 - [ ] [<code>docs: add missing prop to graphite meta (#19637)</code>](https://github.com/netdata/netdata.git/commit/c5e56ffbc61e32b1df3c22748dcbc5e98083a2b1)
 - [ ] [<code>Regenerate integrations docs (#19636)</code>](https://github.com/netdata/netdata.git/commit/baca49fe7b2339ce64110717519187030ed464d1)
+- [ ] [<code>Revert "fix windows logs" (#19639)</code>](https://github.com/netdata/netdata.git/commit/6cf5176afed731e4f6c36942529296fa5ddd40a1)
+- [ ] [<code>fix windows logs 2 - do not renumber - append fields (#19640)</code>](https://github.com/netdata/netdata.git/commit/bca67f21c4006d51094acb05cd60a47e1fdd3f21)
+- [ ] [<code>ci: fix win build (#19642)</code>](https://github.com/netdata/netdata.git/commit/997f2a71f4d709dce802d4d9d3a0a2a130064ac2)
+- [ ] [<code>add Group=netdata to systemd unit file (#19638)</code>](https://github.com/netdata/netdata.git/commit/fa0b2dd2a6863e3481871888ba498ef011e0f40d)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
