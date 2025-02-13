@@ -456,6 +456,10 @@
 - [ ] [<code>incus/server/device: Add vrf parameter for routed NIC devices</code>](https://github.com/lxc/incus/commit/b3946e32c54b171b3b49f51084abe766412a5143)
 - [ ] [<code>tests: Add test for routed NIC with VRF</code>](https://github.com/lxc/incus/commit/0477d9c3792ceaadc2adbe6bfbf30951799f9252)
 - [ ] [<code>doc: Add description for routed-nic VRF parameter</code>](https://github.com/lxc/incus/commit/adede1116f008af1415b47ea9fb04e40cb4a451f)
+- [ ] [<code>generate-database: Move into cmd package</code>](https://github.com/lxc/incus/commit/b91d9f3f4061dcb01e38b6e27c3a88024198993c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>generate-config: Move to cmd package</code>](https://github.com/lxc/incus/commit/45d911a2b84f25616abd529d855863ba6efb2a7a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2409,6 +2413,10 @@
 - [ ] [<code>incus/server/device: Add vrf parameter for routed NIC devices</code>](https://github.com/lxc/incus/commit/b3946e32c54b171b3b49f51084abe766412a5143)
 - [ ] [<code>tests: Add test for routed NIC with VRF</code>](https://github.com/lxc/incus/commit/0477d9c3792ceaadc2adbe6bfbf30951799f9252)
 - [ ] [<code>doc: Add description for routed-nic VRF parameter</code>](https://github.com/lxc/incus/commit/adede1116f008af1415b47ea9fb04e40cb4a451f)
+- [ ] [<code>generate-database: Move into cmd package</code>](https://github.com/lxc/incus/commit/b91d9f3f4061dcb01e38b6e27c3a88024198993c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>generate-config: Move to cmd package</code>](https://github.com/lxc/incus/commit/45d911a2b84f25616abd529d855863ba6efb2a7a)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
