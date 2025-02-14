@@ -463,6 +463,10 @@
 - [ ] [<code>generate-config: Move to cmd package</code>](https://github.com/lxc/incus/commit/45d911a2b84f25616abd529d855863ba6efb2a7a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incus/storage/drivers: Fix issue with lvmcluster storage pool creation</code>](https://github.com/lxc/incus/commit/1910ae733ff038aea279b858d141238058c47066)
+- [ ] [<code>generate-database: Rename from incus-generate</code>](https://github.com/lxc/incus/commit/c1132e9aa03de530a7852e5682c0bdf2e106e104)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>generate-config: Rename from incus-doc</code>](https://github.com/lxc/incus/commit/d487a00ad012212f7ef15a9a5f743ba90a0d8557)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2421,6 +2425,10 @@
 - [ ] [<code>generate-config: Move to cmd package</code>](https://github.com/lxc/incus/commit/45d911a2b84f25616abd529d855863ba6efb2a7a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incus/storage/drivers: Fix issue with lvmcluster storage pool creation</code>](https://github.com/lxc/incus/commit/1910ae733ff038aea279b858d141238058c47066)
+- [ ] [<code>generate-database: Rename from incus-generate</code>](https://github.com/lxc/incus/commit/c1132e9aa03de530a7852e5682c0bdf2e106e104)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>generate-config: Rename from incus-doc</code>](https://github.com/lxc/incus/commit/d487a00ad012212f7ef15a9a5f743ba90a0d8557)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2691,6 +2699,7 @@
 - [ ] [<code>Disable zlib examples (#2613)</code>](https://github.com/AOMediaCodec/libavif/commit/69191926e5e86965f4bcb8c90778b2c8e8ca70aa)
 - [ ] [<code>Mark the avifGainMap struct as extensible</code>](https://github.com/AOMediaCodec/libavif/commit/29f4eb7bca4b6771ce35a403429e8662028cc226)
 - [ ] [<code>Make code compatible with SVT-AV1 3.0 (#2607)</code>](https://github.com/AOMediaCodec/libavif/commit/e649830525d37f93e83a28b2a7dc4afbf0eb12d0)
+- [ ] [<code>Make sure assertions are disabled when building with Release (#2617)</code>](https://github.com/AOMediaCodec/libavif/commit/3d0f0cfe988f19b455517a66a3eea83d4addf293)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
