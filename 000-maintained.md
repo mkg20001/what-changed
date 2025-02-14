@@ -257,6 +257,9 @@
 - [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
 - [ ] [<code>chore: Follow up linebreaks in html rendering</code>](https://github.com/krille-chan/fluffychat/commit/0b8d570c59a15c4bb5a5e1cb63c8d7d11b720034)
 - [ ] [<code>chore: Follow up html rendering br tag</code>](https://github.com/krille-chan/fluffychat/commit/aad2c9af998599b5a8265b381f66d396901ace31)
+- [ ] [<code>refactor: Update arb file types</code>](https://github.com/krille-chan/fluffychat/commit/25872eeb26b63931761aaa2a3ba7353d6cfb2120)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Upgrade gradle</code>](https://github.com/krille-chan/fluffychat/commit/5a8cfe8dda9245674a78b78527296bd80086cee8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -394,6 +397,9 @@
 - [ ] [<code>build: Fix ios debug build</code>](https://github.com/krille-chan/fluffychat/commit/f7a14d3352e4250ec5a4bb93e2238e0a5d795489)
 - [ ] [<code>chore: Follow up linebreaks in html rendering</code>](https://github.com/krille-chan/fluffychat/commit/0b8d570c59a15c4bb5a5e1cb63c8d7d11b720034)
 - [ ] [<code>chore: Follow up html rendering br tag</code>](https://github.com/krille-chan/fluffychat/commit/aad2c9af998599b5a8265b381f66d396901ace31)
+- [ ] [<code>refactor: Update arb file types</code>](https://github.com/krille-chan/fluffychat/commit/25872eeb26b63931761aaa2a3ba7353d6cfb2120)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Upgrade gradle</code>](https://github.com/krille-chan/fluffychat/commit/5a8cfe8dda9245674a78b78527296bd80086cee8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4357,6 +4363,8 @@
 - [ ] [<code>ci: fix win build (#19642)</code>](https://github.com/netdata/netdata.git/commit/997f2a71f4d709dce802d4d9d3a0a2a130064ac2)
 - [ ] [<code>add Group=netdata to systemd unit file (#19638)</code>](https://github.com/netdata/netdata.git/commit/fa0b2dd2a6863e3481871888ba498ef011e0f40d)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: move /run/dbus mount to Docker recommended way (#19645)</code>](https://github.com/netdata/netdata.git/commit/885a51fc143563d3e89c8078aebd759805d7806f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
