@@ -260,6 +260,14 @@
 - [ ] [<code>refactor: Update arb file types</code>](https://github.com/krille-chan/fluffychat/commit/25872eeb26b63931761aaa2a3ba7353d6cfb2120)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Upgrade gradle</code>](https://github.com/krille-chan/fluffychat/commit/5a8cfe8dda9245674a78b78527296bd80086cee8)
+- [ ] [<code>refactor: Follow up fix types in localization files</code>](https://github.com/krille-chan/fluffychat/commit/34912595a92a46978a8a4356c22641bd63fc3b6c)
+- [ ] [<code>build: Automerge weblate PRs</code>](https://github.com/krille-chan/fluffychat/commit/e283e1164338066482ed1260aceaf2288a601da4)
+- [ ] [<code>build: Follow up auto merge weblate</code>](https://github.com/krille-chan/fluffychat/commit/c417c8d4d8704dc161f144255faf5e826a1e7a9e)
+- [ ] [<code>build: Update PAT</code>](https://github.com/krille-chan/fluffychat/commit/2c67a3b2fe7654f2a450ee6f88f4d7996cc16434)
+- [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/a90a3e290e8fecae95dd737277d8cc48d8a05ac4)
+- [ ] [<code>build: Add missing permissions</code>](https://github.com/krille-chan/fluffychat/commit/6fc66b912bd49672a948c7e5e9fb586f13510b16)
+- [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/72f8dadce870c75c8ce97d3ebf3dc21dda6ca82b)
+- [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -400,6 +408,14 @@
 - [ ] [<code>refactor: Update arb file types</code>](https://github.com/krille-chan/fluffychat/commit/25872eeb26b63931761aaa2a3ba7353d6cfb2120)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Upgrade gradle</code>](https://github.com/krille-chan/fluffychat/commit/5a8cfe8dda9245674a78b78527296bd80086cee8)
+- [ ] [<code>refactor: Follow up fix types in localization files</code>](https://github.com/krille-chan/fluffychat/commit/34912595a92a46978a8a4356c22641bd63fc3b6c)
+- [ ] [<code>build: Automerge weblate PRs</code>](https://github.com/krille-chan/fluffychat/commit/e283e1164338066482ed1260aceaf2288a601da4)
+- [ ] [<code>build: Follow up auto merge weblate</code>](https://github.com/krille-chan/fluffychat/commit/c417c8d4d8704dc161f144255faf5e826a1e7a9e)
+- [ ] [<code>build: Update PAT</code>](https://github.com/krille-chan/fluffychat/commit/2c67a3b2fe7654f2a450ee6f88f4d7996cc16434)
+- [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/a90a3e290e8fecae95dd737277d8cc48d8a05ac4)
+- [ ] [<code>build: Add missing permissions</code>](https://github.com/krille-chan/fluffychat/commit/6fc66b912bd49672a948c7e5e9fb586f13510b16)
+- [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/72f8dadce870c75c8ce97d3ebf3dc21dda6ca82b)
+- [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -473,6 +489,17 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>generate-config: Rename from incus-doc</code>](https://github.com/lxc/incus/commit/d487a00ad012212f7ef15a9a5f743ba90a0d8557)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>github: Workaround permission problems</code>](https://github.com/lxc/incus/commit/2408a33ad30f40839341f3da9cb00d5d38fd5075)
+- [ ] [<code>internal/instance: Move user config key doc string</code>](https://github.com/lxc/incus/commit/e02ae60ec62899798cb3a71f2563d07bc49d98e8)
+- [ ] [<code>internal/instance: Add environment config keys docstring</code>](https://github.com/lxc/incus/commit/e6d255aa602c93174470404c343fe852990933b4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/internal/server/instance: Add qemuEscapeCmdline</code>](https://github.com/lxc/incus/commit/bbb073357ba0ea3d6b5eefd366f6a8df1d366cdb)
+- [ ] [<code>incusd/internal/server/instance: Use qemuEscapeCmdline</code>](https://github.com/lxc/incus/commit/f267447a55dfa450ddd6896cba9c92e3f8866ad6)
+- [ ] [<code>api: instance_smbios</code>](https://github.com/lxc/incus/commit/fc52ec54ab9ca4247a8094931671b798bcca9e4d)
+- [ ] [<code>internal/instance: Add smbios config keys</code>](https://github.com/lxc/incus/commit/f6b7239f5cdd786e90cb4e8dd1b6bec192d5b27c)
+- [ ] [<code>incusd/instance/drivers/qemu: Implement smbios config keys</code>](https://github.com/lxc/incus/commit/1c6ebb4805487a73db4f3e343c72529c2f62c7a3)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6b178834edf38b1967202a13873963e62586f1f5)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2435,6 +2462,17 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>generate-config: Rename from incus-doc</code>](https://github.com/lxc/incus/commit/d487a00ad012212f7ef15a9a5f743ba90a0d8557)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>github: Workaround permission problems</code>](https://github.com/lxc/incus/commit/2408a33ad30f40839341f3da9cb00d5d38fd5075)
+- [ ] [<code>internal/instance: Move user config key doc string</code>](https://github.com/lxc/incus/commit/e02ae60ec62899798cb3a71f2563d07bc49d98e8)
+- [ ] [<code>internal/instance: Add environment config keys docstring</code>](https://github.com/lxc/incus/commit/e6d255aa602c93174470404c343fe852990933b4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/internal/server/instance: Add qemuEscapeCmdline</code>](https://github.com/lxc/incus/commit/bbb073357ba0ea3d6b5eefd366f6a8df1d366cdb)
+- [ ] [<code>incusd/internal/server/instance: Use qemuEscapeCmdline</code>](https://github.com/lxc/incus/commit/f267447a55dfa450ddd6896cba9c92e3f8866ad6)
+- [ ] [<code>api: instance_smbios</code>](https://github.com/lxc/incus/commit/fc52ec54ab9ca4247a8094931671b798bcca9e4d)
+- [ ] [<code>internal/instance: Add smbios config keys</code>](https://github.com/lxc/incus/commit/f6b7239f5cdd786e90cb4e8dd1b6bec192d5b27c)
+- [ ] [<code>incusd/instance/drivers/qemu: Implement smbios config keys</code>](https://github.com/lxc/incus/commit/1c6ebb4805487a73db4f3e343c72529c2f62c7a3)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6b178834edf38b1967202a13873963e62586f1f5)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2706,6 +2744,7 @@
 - [ ] [<code>Mark the avifGainMap struct as extensible</code>](https://github.com/AOMediaCodec/libavif/commit/29f4eb7bca4b6771ce35a403429e8662028cc226)
 - [ ] [<code>Make code compatible with SVT-AV1 3.0 (#2607)</code>](https://github.com/AOMediaCodec/libavif/commit/e649830525d37f93e83a28b2a7dc4afbf0eb12d0)
 - [ ] [<code>Make sure assertions are disabled when building with Release (#2617)</code>](https://github.com/AOMediaCodec/libavif/commit/3d0f0cfe988f19b455517a66a3eea83d4addf293)
+- [ ] [<code>Fix typo in deprecated flag message (#2619)</code>](https://github.com/AOMediaCodec/libavif/commit/1c592c8242ffa185796bdcb23a4d9ff22859f03c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4365,6 +4404,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>docs: move /run/dbus mount to Docker recommended way (#19645)</code>](https://github.com/netdata/netdata.git/commit/885a51fc143563d3e89c8078aebd759805d7806f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>make onewayalloc fallback to malloc (#19646)</code>](https://github.com/netdata/netdata.git/commit/7c986c53f0b314baf10acd7bc1c6fc2f72033cbb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5536,6 +5576,60 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.41.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.41.1...HEAD)
 
+- [ ] [<code>Added Grid Awards</code>](https://github.com/foldynl/QLog.git/commit/4eef46293c840a214e9cbf9eff8a57c5f32c0037)
+- [ ] [<code>LOV: Changed IOTA LOV Source; an official source is used</code>](https://github.com/foldynl/QLog.git/commit/c4eafca65dedb872c8823b58996606a4e2cff0cc)
+- [ ] [<code>ADI: Reworked the Output Field Format method - method virtualization</code>](https://github.com/foldynl/QLog.git/commit/bb6c5a57c7dfd01109437bfb0746ac92d454aaff)
+- [ ] [<code>Fixing #562 - CSV Export: Time and Date formats use ISO8601 format - yyyy-MM-dd hh:mm:ss</code>](https://github.com/foldynl/QLog.git/commit/642c8aa9873f71a6cab4ecb6e42b29f85b6c44e4)
+- [ ] [<code>Fixed #575 - NewContact: Contacted Station Rig as the Dynamic Field</code>](https://github.com/foldynl/QLog.git/commit/3a82ea2651d11838781a84e1fefe8786c77649eb)
+- [ ] [<code>Fixed 564 - Awards: Added Grid Award - 2/4/6 Chars grid</code>](https://github.com/foldynl/QLog.git/commit/f4774c19454b4b375c0c00d6e5ea318c043ad6c4)
+- [ ] [<code>Awards Model: code optimization</code>](https://github.com/foldynl/QLog.git/commit/56845319d4381046202ffb4e90c8d1521e9bd6fa)
+- [ ] [<code>Fixed #538 - Added Slots - total over each band</code>](https://github.com/foldynl/QLog.git/commit/5af724977e5d8476cd3531f66567ee23d042f70d)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/9b5fee7f16b528e77a101295538e4d6ce1ef66a6)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/9698d63982b1c7d686b9fb869af2ab91bda87024)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e1679825f26a48515b430aa28ca65b91aad7db76)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/04792de0c76d99363c484149daa607ace18e4a07)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/cca1555e2213e5716f1c634515088ab4c35a84d8)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/89787a0e4b4f08742c29febd897e4d0fce7cab2f)
+- [ ] [<code>Fixed #573 - Setting dialog contains a 12/24 Time Format option</code>](https://github.com/foldynl/QLog.git/commit/e09ff55c33c800d266db4924fe002efd892052d6)
+- [ ] [<code>Settings: Added Date Format option</code>](https://github.com/foldynl/QLog.git/commit/9075f8f4f6bbb6f75bf4d164ee68300a8934e9c6)
+- [ ] [<code>Fixed Delegate Time/Date Classes to display the selected format in Editors</code>](https://github.com/foldynl/QLog.git/commit/226a572e2190e2e8d9e9f74c7bfa3cf267758646)
+- [ ] [<code>Import LoTW QSL: Fill missing information also for confirmed QSOs</code>](https://github.com/foldynl/QLog.git/commit/1e6a53899f7f616d33e73729131441932eb8be4e)
+- [ ] [<code>Import LoTW QSL: Added updating of ITUZ/CQZ from LoTW QSL</code>](https://github.com/foldynl/QLog.git/commit/a37d2c7589972e5b002304dc5afc16002fa0e027)
+- [ ] [<code>QSL Import Dialog: More details about what was done</code>](https://github.com/foldynl/QLog.git/commit/26a63a80c2dbcfc425dc45f47312071af3c24066)
+- [ ] [<code>Logformat: Added comment about eQSL and update status</code>](https://github.com/foldynl/QLog.git/commit/c1f35a2d3ca9431362ebfa07dfa20fbd372727ef)
+- [ ] [<code>Import QSL: Added DXCC Status of new downloaded QSL</code>](https://github.com/foldynl/QLog.git/commit/6d83a21e5763159a1bce7316ade88572be9b542e)
+- [ ] [<code>Update LOVDownloader.cpp</code>](https://github.com/foldynl/QLog.git/commit/b3730d513147dc4646a3ff61fe6396202061d475)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add developer tag to AppStream metadata</code>](https://github.com/foldynl/QLog.git/commit/81c39851158f74cf5686b650ae9fb5726efbcd2e)
+- [ ] [<code>Updated Chinese translation</code>](https://github.com/foldynl/QLog.git/commit/d419742b0394bf4816cf53976e910621cf43bfe4)
+- [ ] [<code>Fixed #418 - Windows State/Size does not save in case of fullscreen (5)</code>](https://github.com/foldynl/QLog.git/commit/df50ddde191e03bdc5ad415761dfdfda3e3f9277)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e6d72edd215e031840a1ed682cc7026424b01ccd)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/fbb70c7397355e9b572f8cdefa8bfc4f850b08be)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/959592d716b2c1666bdb5dd347f90aac7143f9d3)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7212f10de18754ded8596f3b1959c9e045e6b803)
+- [ ] [<code>Fixed compilation issue under Ubuntu 20.04</code>](https://github.com/foldynl/QLog.git/commit/07b6f6957fcd8eab463a0f960770b5095d3ab040)
+- [ ] [<code>Update AwardsDialog.cpp</code>](https://github.com/foldynl/QLog.git/commit/85d68c753bdb6e96acb793a7767a742002f13589)
+- [ ] [<code>Update AwardsDialog.cpp</code>](https://github.com/foldynl/QLog.git/commit/873d44f816d1df8a44efeac7bfe40572fd5b3230)
+- [ ] [<code>Fixed #526 - TCI error when you change Rig (2)</code>](https://github.com/foldynl/QLog.git/commit/3ddc96c6b884e36472831db157f247101c48d91d)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/46f8846ba2e4b7ba6ea2f72909c2a17daf5b5d1f)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/2961fb265b7efa8f5ea85f08147adece01a76528)
+- [ ] [<code>CW: Added a new macro QTH</code>](https://github.com/foldynl/QLog.git/commit/183d2e07ff38890070bbb984116b0a48d63542c8)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/a410cb6081401f8783a9da49988bff31e2e49d3e)
+- [ ] [<code>Data: Continents as a static StringList</code>](https://github.com/foldynl/QLog.git/commit/6b55f23dae452d076453fec79c0c131226cd1270)
+- [ ] [<code>Fixed #590 - Suppressed the ability to edit Contest fields after the start</code>](https://github.com/foldynl/QLog.git/commit/3b7aa1e691f18c8d35e699a6fa14ae850b7d9b84)
+- [ ] [<code>NewContact: Added a warning dialog if the operator attempts to save the contest field without a Contest ID</code>](https://github.com/foldynl/QLog.git/commit/349d7db55bb1d3b4a78869568a32255b710aa8a2)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/92736949e6a237cab7aaf501324bd635c1ee59cf)
+- [ ] [<code>Fixed #589 - Raspberry PI Flatpak: Import - Select file dialog crashes</code>](https://github.com/foldynl/QLog.git/commit/45a999eca4ba226c3a6dd4dc247be42b26f5d32c)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/c4e7ff511f876933b93eaa8e2cbb7cad0b05d924)
+- [ ] [<code>DXC: Added Trends heatmap</code>](https://github.com/foldynl/QLog.git/commit/c83246298adbc1a62e456dbae91dceb6f9ee6806)
+- [ ] [<code>GitHub Action CI: upgrade from MacOS13 to MacOS15 Image</code>](https://github.com/foldynl/QLog.git/commit/c8b23b0541752ec314317047e72ae00626f7ff58)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/4d531f678fc54989f47070765c32a91cdebd3de6)
+- [ ] [<code>Updated translations - AI</code>](https://github.com/foldynl/QLog.git/commit/e6b925682d020a4d1d8c6c20845f77bb46270fd5)
+- [ ] [<code>PropCond: Added HTTP Header User-Agent</code>](https://github.com/foldynl/QLog.git/commit/b6983f3d03764859a68b51c359d49b97a8b502fb)
+- [ ] [<code>Fixed compilation issue</code>](https://github.com/foldynl/QLog.git/commit/fcd5b21f5e39aff8d9003e5cba33f20e9a63ed6b)
+- [ ] [<code>Fixed compilation issue (2)</code>](https://github.com/foldynl/QLog.git/commit/8dcac065e54f5b1bfc2330eb87d364571f2765ce)
+- [ ] [<code>Preparation for release 0.42.0</code>](https://github.com/foldynl/QLog.git/commit/44b58fa02da2e50abb2c69b40967b5e4c5f0e613)
+  - <sub>Tags: <code>v0.42.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
