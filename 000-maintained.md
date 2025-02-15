@@ -34,7 +34,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.3/dbeaver-ce-24.3.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.4/dbeaver-ce-24.3.4-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.4/dbeaver-ce-24.3.4-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -268,6 +268,7 @@
 - [ ] [<code>build: Add missing permissions</code>](https://github.com/krille-chan/fluffychat/commit/6fc66b912bd49672a948c7e5e9fb586f13510b16)
 - [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/72f8dadce870c75c8ce97d3ebf3dc21dda6ca82b)
 - [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
+- [ ] [<code>build: Update flutter web uild</code>](https://github.com/krille-chan/fluffychat/commit/c54146d56e0c7834256d84108333479fa0743316)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -416,6 +417,7 @@
 - [ ] [<code>build: Add missing permissions</code>](https://github.com/krille-chan/fluffychat/commit/6fc66b912bd49672a948c7e5e9fb586f13510b16)
 - [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/72f8dadce870c75c8ce97d3ebf3dc21dda6ca82b)
 - [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
+- [ ] [<code>build: Update flutter web uild</code>](https://github.com/krille-chan/fluffychat/commit/c54146d56e0c7834256d84108333479fa0743316)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4406,6 +4408,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>make onewayalloc fallback to malloc (#19646)</code>](https://github.com/netdata/netdata.git/commit/7c986c53f0b314baf10acd7bc1c6fc2f72033cbb)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/cad5426a7d0444b4bdd249dddbf68d849a21d067)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.1 to 0.32.2 in /src/go (#19652)</code>](https://github.com/netdata/netdata.git/commit/da851766cec6ffd86862d0bdd1f0efc85d2da5c5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
