@@ -4405,6 +4405,7 @@
 - [ ] [<code>docs: move /run/dbus mount to Docker recommended way (#19645)</code>](https://github.com/netdata/netdata.git/commit/885a51fc143563d3e89c8078aebd759805d7806f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>make onewayalloc fallback to malloc (#19646)</code>](https://github.com/netdata/netdata.git/commit/7c986c53f0b314baf10acd7bc1c6fc2f72033cbb)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/cad5426a7d0444b4bdd249dddbf68d849a21d067)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
