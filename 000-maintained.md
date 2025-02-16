@@ -270,6 +270,21 @@
 - [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
 - [ ] [<code>build: Update flutter web uild</code>](https://github.com/krille-chan/fluffychat/commit/c54146d56e0c7834256d84108333479fa0743316)
 - [ ] [<code>chore: Follow up connection status header</code>](https://github.com/krille-chan/fluffychat/commit/367a503123a606594a052d91539e7069838c289a)
+- [ ] [<code>build: Switch to flutter_shortcuts_new</code>](https://github.com/krille-chan/fluffychat/commit/e001b8d81fb8f36573792845d0c0a70e758d6106)
+- [ ] [<code>refactor: Remove broken callkeep implementation</code>](https://github.com/krille-chan/fluffychat/commit/38e5b02b14a9e0e8369e1de31876640fd70d35ef)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Migrate uni_links to app_links</code>](https://github.com/krille-chan/fluffychat/commit/53c45d851f264e95adfca69af5d1a07387e33582)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Migrate to maintained badge package</code>](https://github.com/krille-chan/fluffychat/commit/1c01e98ddd1b440b519f83978f44abe58f4a31c9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update flutter_olm to 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/e39deb4482b993d1bed71573f1b771e3cbf3bd33)
+- [ ] [<code>build: Update native-imaging</code>](https://github.com/krille-chan/fluffychat/commit/73d0951b4e31c5b08c7996bc42ddf99792dfa035)
+- [ ] [<code>chore: Remove gradle workaround</code>](https://github.com/krille-chan/fluffychat/commit/5f6fc27e0f08abec9555486f527ffcce175bc954)
+- [ ] [<code>build: Update dependencies for flutter</code>](https://github.com/krille-chan/fluffychat/commit/cc57cce75dec464c9303d44607cf757c591badb1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update dependencies to remove more flutter android v1 references</code>](https://github.com/krille-chan/fluffychat/commit/5e24ce60ca1b439970f0b350787b7001dbf5e630)
+- [ ] [<code>build: Update gradle version</code>](https://github.com/krille-chan/fluffychat/commit/0d129dba08f2c4c3a5a8d68263b33b492a2f111f)
+- [ ] [<code>refactor: Switch to maintained qr code package</code>](https://github.com/krille-chan/fluffychat/commit/addd7f1bad07ca99319d312bd48f2c49290d48eb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -420,6 +435,21 @@
 - [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
 - [ ] [<code>build: Update flutter web uild</code>](https://github.com/krille-chan/fluffychat/commit/c54146d56e0c7834256d84108333479fa0743316)
 - [ ] [<code>chore: Follow up connection status header</code>](https://github.com/krille-chan/fluffychat/commit/367a503123a606594a052d91539e7069838c289a)
+- [ ] [<code>build: Switch to flutter_shortcuts_new</code>](https://github.com/krille-chan/fluffychat/commit/e001b8d81fb8f36573792845d0c0a70e758d6106)
+- [ ] [<code>refactor: Remove broken callkeep implementation</code>](https://github.com/krille-chan/fluffychat/commit/38e5b02b14a9e0e8369e1de31876640fd70d35ef)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Migrate uni_links to app_links</code>](https://github.com/krille-chan/fluffychat/commit/53c45d851f264e95adfca69af5d1a07387e33582)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Migrate to maintained badge package</code>](https://github.com/krille-chan/fluffychat/commit/1c01e98ddd1b440b519f83978f44abe58f4a31c9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update flutter_olm to 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/e39deb4482b993d1bed71573f1b771e3cbf3bd33)
+- [ ] [<code>build: Update native-imaging</code>](https://github.com/krille-chan/fluffychat/commit/73d0951b4e31c5b08c7996bc42ddf99792dfa035)
+- [ ] [<code>chore: Remove gradle workaround</code>](https://github.com/krille-chan/fluffychat/commit/5f6fc27e0f08abec9555486f527ffcce175bc954)
+- [ ] [<code>build: Update dependencies for flutter</code>](https://github.com/krille-chan/fluffychat/commit/cc57cce75dec464c9303d44607cf757c591badb1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update dependencies to remove more flutter android v1 references</code>](https://github.com/krille-chan/fluffychat/commit/5e24ce60ca1b439970f0b350787b7001dbf5e630)
+- [ ] [<code>build: Update gradle version</code>](https://github.com/krille-chan/fluffychat/commit/0d129dba08f2c4c3a5a8d68263b33b492a2f111f)
+- [ ] [<code>refactor: Switch to maintained qr code package</code>](https://github.com/krille-chan/fluffychat/commit/addd7f1bad07ca99319d312bd48f2c49290d48eb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
