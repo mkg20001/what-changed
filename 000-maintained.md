@@ -269,6 +269,7 @@
 - [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/72f8dadce870c75c8ce97d3ebf3dc21dda6ca82b)
 - [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
 - [ ] [<code>build: Update flutter web uild</code>](https://github.com/krille-chan/fluffychat/commit/c54146d56e0c7834256d84108333479fa0743316)
+- [ ] [<code>chore: Follow up connection status header</code>](https://github.com/krille-chan/fluffychat/commit/367a503123a606594a052d91539e7069838c289a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -418,6 +419,7 @@
 - [ ] [<code>build: Update weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/72f8dadce870c75c8ce97d3ebf3dc21dda6ca82b)
 - [ ] [<code>build: remove weblate auto merge</code>](https://github.com/krille-chan/fluffychat/commit/1d36182ac0a572ebe111ba4fdeabe9698ff6b476)
 - [ ] [<code>build: Update flutter web uild</code>](https://github.com/krille-chan/fluffychat/commit/c54146d56e0c7834256d84108333479fa0743316)
+- [ ] [<code>chore: Follow up connection status header</code>](https://github.com/krille-chan/fluffychat/commit/367a503123a606594a052d91539e7069838c289a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4409,6 +4411,7 @@
 - [ ] [<code>make onewayalloc fallback to malloc (#19646)</code>](https://github.com/netdata/netdata.git/commit/7c986c53f0b314baf10acd7bc1c6fc2f72033cbb)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/cad5426a7d0444b4bdd249dddbf68d849a21d067)
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.1 to 0.32.2 in /src/go (#19652)</code>](https://github.com/netdata/netdata.git/commit/da851766cec6ffd86862d0bdd1f0efc85d2da5c5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-184-nightly.</code>](https://github.com/netdata/netdata.git/commit/4c7be3c4c45e3f1b3cbb19a31f38e1b100a97fed)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
