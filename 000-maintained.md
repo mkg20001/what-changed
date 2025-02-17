@@ -4448,6 +4448,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/cad5426a7d0444b4bdd249dddbf68d849a21d067)
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.1 to 0.32.2 in /src/go (#19652)</code>](https://github.com/netdata/netdata.git/commit/da851766cec6ffd86862d0bdd1f0efc85d2da5c5)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-184-nightly.</code>](https://github.com/netdata/netdata.git/commit/4c7be3c4c45e3f1b3cbb19a31f38e1b100a97fed)
+- [ ] [<code>add agent timezones as host labels (#19656)</code>](https://github.com/netdata/netdata.git/commit/fc4d9a2a2a8475b5db53cfa3abec4abc76378ac5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
