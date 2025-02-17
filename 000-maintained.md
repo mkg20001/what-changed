@@ -61,6 +61,7 @@
 - [ ] [<code>Update openwrt-http_test.go to support v24.10 (and drop v21.x)</code>](https://github.com/lxc/distrobuilder/commit/8abb164d329fbe82146ee4530ed00b8dc063950b)
 - [ ] [<code>Update openwrt-http.go to support v24.10 (and drop v21.x)</code>](https://github.com/lxc/distrobuilder/commit/0053864347117ec08c700856f3ab9a5a957ce58f)
 - [ ] [<code>Update builds.yml to v4 artifact actions</code>](https://github.com/lxc/distrobuilder/commit/e3d37ae0bff8a708f8b22202428049deebcf9b1c)
+- [ ] [<code>Change naming of INF files</code>](https://github.com/lxc/distrobuilder/commit/d9429529f812f9f4b7b64dc57e5e03f41d5c0cd1)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -285,6 +286,7 @@
 - [ ] [<code>build: Update dependencies to remove more flutter android v1 references</code>](https://github.com/krille-chan/fluffychat/commit/5e24ce60ca1b439970f0b350787b7001dbf5e630)
 - [ ] [<code>build: Update gradle version</code>](https://github.com/krille-chan/fluffychat/commit/0d129dba08f2c4c3a5a8d68263b33b492a2f111f)
 - [ ] [<code>refactor: Switch to maintained qr code package</code>](https://github.com/krille-chan/fluffychat/commit/addd7f1bad07ca99319d312bd48f2c49290d48eb)
+- [ ] [<code>chore: Make login with matrix id more prominent again</code>](https://github.com/krille-chan/fluffychat/commit/31b4368f0975243058d91692a9b4e8b4f931068e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -450,6 +452,7 @@
 - [ ] [<code>build: Update dependencies to remove more flutter android v1 references</code>](https://github.com/krille-chan/fluffychat/commit/5e24ce60ca1b439970f0b350787b7001dbf5e630)
 - [ ] [<code>build: Update gradle version</code>](https://github.com/krille-chan/fluffychat/commit/0d129dba08f2c4c3a5a8d68263b33b492a2f111f)
 - [ ] [<code>refactor: Switch to maintained qr code package</code>](https://github.com/krille-chan/fluffychat/commit/addd7f1bad07ca99319d312bd48f2c49290d48eb)
+- [ ] [<code>chore: Make login with matrix id more prominent again</code>](https://github.com/krille-chan/fluffychat/commit/31b4368f0975243058d91692a9b4e8b4f931068e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -534,6 +537,10 @@
 - [ ] [<code>incusd/instance/drivers/qemu: Implement smbios config keys</code>](https://github.com/lxc/incus/commit/1c6ebb4805487a73db4f3e343c72529c2f62c7a3)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6b178834edf38b1967202a13873963e62586f1f5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Fix instance copy error when using '--refresh' flag</code>](https://github.com/lxc/incus/commit/7c6cd6d634a4e4e92b29da8858f2484660a3788d)
+- [ ] [<code>doc/network_load_balancers: Fix backend add instructions</code>](https://github.com/lxc/incus/commit/9ce55c818865b13758a8987b0d61c332fe846f23)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add frontend to wordlist</code>](https://github.com/lxc/incus/commit/1957ac66f837fdc4f54c502279803dcd3fa020b5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2507,6 +2514,10 @@
 - [ ] [<code>incusd/instance/drivers/qemu: Implement smbios config keys</code>](https://github.com/lxc/incus/commit/1c6ebb4805487a73db4f3e343c72529c2f62c7a3)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6b178834edf38b1967202a13873963e62586f1f5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Fix instance copy error when using '--refresh' flag</code>](https://github.com/lxc/incus/commit/7c6cd6d634a4e4e92b29da8858f2484660a3788d)
+- [ ] [<code>doc/network_load_balancers: Fix backend add instructions</code>](https://github.com/lxc/incus/commit/9ce55c818865b13758a8987b0d61c332fe846f23)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add frontend to wordlist</code>](https://github.com/lxc/incus/commit/1957ac66f837fdc4f54c502279803dcd3fa020b5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -4449,6 +4460,10 @@
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.1 to 0.32.2 in /src/go (#19652)</code>](https://github.com/netdata/netdata.git/commit/da851766cec6ffd86862d0bdd1f0efc85d2da5c5)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-184-nightly.</code>](https://github.com/netdata/netdata.git/commit/4c7be3c4c45e3f1b3cbb19a31f38e1b100a97fed)
 - [ ] [<code>add agent timezones as host labels (#19656)</code>](https://github.com/netdata/netdata.git/commit/fc4d9a2a2a8475b5db53cfa3abec4abc76378ac5)
+- [ ] [<code>improvement(go.d/k8sstate): collect deployments (#19657)</code>](https://github.com/netdata/netdata.git/commit/1e31593eaa7e1ff46ff6b946071c3475a8049ecd)
+- [ ] [<code>Regenerate integrations docs (#19658)</code>](https://github.com/netdata/netdata.git/commit/ecf5209f30d810f57942043f69dce8e45acaedf4)
+- [ ] [<code>speed up aral when a single item is allocated and freed repeateadly (#19660)</code>](https://github.com/netdata/netdata.git/commit/c19ae2acbda26d85b017879cb0829f71225a7e55)
+- [ ] [<code>avoid dbengine event loop starvation by running uv_run periodically (#19661)</code>](https://github.com/netdata/netdata.git/commit/12930b2792b0101bc4b94885366dfcfcbeab8cc1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
