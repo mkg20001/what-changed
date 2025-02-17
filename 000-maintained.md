@@ -2508,6 +2508,12 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6b178834edf38b1967202a13873963e62586f1f5)
   - <sub>Keywords: <code>exec</code></sub>
 
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
+
+- [ ] [<code>Check if state object is not null/undefined</code>](https://github.com/zabbly/incus-ui-canonical/commit/fa716a87c5659cc0a130e3bb6b26589b80628dfe)
+- [ ] [<code>Show MAC address on instance overview page</code>](https://github.com/zabbly/incus-ui-canonical/commit/8f7cd7e0d8e403e11337b2b45604582152680de4)
+- [ ] [<code>Add support for storage live mirgation in UI</code>](https://github.com/zabbly/incus-ui-canonical/commit/71b0807f60b56b9906002e7da8c49354d6cc17e1)
+
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
 
@@ -5144,7 +5150,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://www.oils.pub/download/oils-for-unix-0.26.0.tar.gz', 'urls': ['https://www.oils.pub/download/oils-for-unix-0.26.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.27.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.27.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
