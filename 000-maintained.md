@@ -541,6 +541,8 @@
 - [ ] [<code>doc/network_load_balancers: Fix backend add instructions</code>](https://github.com/lxc/incus/commit/9ce55c818865b13758a8987b0d61c332fe846f23)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Add frontend to wordlist</code>](https://github.com/lxc/incus/commit/1957ac66f837fdc4f54c502279803dcd3fa020b5)
+- [ ] [<code>incusd/main_nsexec: Fix change_namespaces fallback to handle multiple namespaces</code>](https://github.com/lxc/incus/commit/1906ace085f707202d9a8a14e52d6ea20193157f)
+- [ ] [<code>incusd/instance/utils: Only check uid/gid for containers</code>](https://github.com/lxc/incus/commit/ffd069157f2e334fb34644e17ae8f1237c9323dd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2518,6 +2520,8 @@
 - [ ] [<code>doc/network_load_balancers: Fix backend add instructions</code>](https://github.com/lxc/incus/commit/9ce55c818865b13758a8987b0d61c332fe846f23)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Add frontend to wordlist</code>](https://github.com/lxc/incus/commit/1957ac66f837fdc4f54c502279803dcd3fa020b5)
+- [ ] [<code>incusd/main_nsexec: Fix change_namespaces fallback to handle multiple namespaces</code>](https://github.com/lxc/incus/commit/1906ace085f707202d9a8a14e52d6ea20193157f)
+- [ ] [<code>incusd/instance/utils: Only check uid/gid for containers</code>](https://github.com/lxc/incus/commit/ffd069157f2e334fb34644e17ae8f1237c9323dd)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -2796,6 +2800,8 @@
 - [ ] [<code>Make code compatible with SVT-AV1 3.0 (#2607)</code>](https://github.com/AOMediaCodec/libavif/commit/e649830525d37f93e83a28b2a7dc4afbf0eb12d0)
 - [ ] [<code>Make sure assertions are disabled when building with Release (#2617)</code>](https://github.com/AOMediaCodec/libavif/commit/3d0f0cfe988f19b455517a66a3eea83d4addf293)
 - [ ] [<code>Fix typo in deprecated flag message (#2619)</code>](https://github.com/AOMediaCodec/libavif/commit/1c592c8242ffa185796bdcb23a4d9ff22859f03c)
+- [ ] [<code>Check auxiliary type for tracks. (#2621)</code>](https://github.com/AOMediaCodec/libavif/commit/8c94573c27be5edfad66ea85d38682c54662342b)
+- [ ] [<code>Fix missing test skip (#2623)</code>](https://github.com/AOMediaCodec/libavif/commit/0cc1ab1cecc71ef2c9d4afdf1b0d60e377952502)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4467,6 +4473,10 @@
 - [ ] [<code>improvement(go.d/k8sstate): add deployment conditions (#19662)</code>](https://github.com/netdata/netdata.git/commit/b62aac1ef3cb73a70118bcab317b4e57d1ed5233)
 - [ ] [<code>Regenerate integrations docs (#19663)</code>](https://github.com/netdata/netdata.git/commit/f304c8d80b827449dbdcb811fc7ffdb2ab892519)
 - [ ] [<code>add k8s_state_deployment_condition_available alert (#19664)</code>](https://github.com/netdata/netdata.git/commit/52ed7154297facb530a379d51d4d5c4bdaf48c19)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-193-nightly.</code>](https://github.com/netdata/netdata.git/commit/7340ae2f9796db5b10f79cdfeb33852c18764cc9)
+- [ ] [<code>chore(go.d/sensors): disable by default (#19667)</code>](https://github.com/netdata/netdata.git/commit/6b14efe8f3df15d346e4aded7572691cd59db7ff)
+- [ ] [<code>improvement(go.d dyncfg): add user to source (#19666)</code>](https://github.com/netdata/netdata.git/commit/964fe16073a8203611b897cc5c4b96878d05c515)
+- [ ] [<code>chore: remove lock files from go.d/python.d (#19668)</code>](https://github.com/netdata/netdata.git/commit/9be211256c26ce13ea62aa94fe6f4e58bfe3b119)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
