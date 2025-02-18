@@ -11,25 +11,8 @@
 > Dropped common-licenses - no appropriate URL found OrderedDict({'attr_path': 'common-licenses', 'home_url': 'https://tracker.debian.org/pkg/base-files', 'src_url': 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz', 'urls': ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.6 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.6...HEAD)
+#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.8 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.8...HEAD)
 
-- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.16 to 0.17</code>](https://github.com/cowsql/cowsql/commit/31a5f97e29214cda902a0df93df40827f54404ae)
-- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.16 to 0.17 (#16)</code>](https://github.com/cowsql/cowsql/commit/40803c1c30acc44851f7bd502a9a63ec8d0e6d2c)
-- [ ] [<code>test: Skip a flaky test on s390x</code>](https://github.com/cowsql/cowsql/commit/9e6e89d18493394f90195ec4ef69ffe83264aa32)
-- [ ] [<code>test: Skip a flaky test on s390x (#28)</code>](https://github.com/cowsql/cowsql/commit/5e999848fb8ddcfd8e41724e059c91bb30ec4527)
-- [ ] [<code>Release 1.15.7</code>](https://github.com/cowsql/cowsql/commit/91fcd887c4b05a4ff539d070f40c527056bba86b)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Release 1.15.7 (#29)</code>](https://github.com/cowsql/cowsql/commit/ea5c4f487c6b91a61a23d15b58563edeee0bb531)
-  - <sub>Tags: <code>v1.15.7</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>test: Move definition of FLAKY into test/lib/server.h</code>](https://github.com/cowsql/cowsql/commit/51d28dfe37d598edd2e1cc1cf682f93123571b66)
-- [ ] [<code>test: Disable more flaky integration tests on slow architectures</code>](https://github.com/cowsql/cowsql/commit/95abab04cd8ab28b8422acf3995522d08e4215a4)
-- [ ] [<code>Disable more flaky tests on slow archs (#30)</code>](https://github.com/cowsql/cowsql/commit/ff5240e516bcfa428ecfb88d41a20c25e27a46aa)
-- [ ] [<code>Release v1.15.8</code>](https://github.com/cowsql/cowsql/commit/f06863150f6172e714429e583598fbb56c92893a)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Release v1.15.8 (#31)</code>](https://github.com/cowsql/cowsql/commit/8fd9dc3f7278ac4a71150b1668ff718678b3efbb)
-  - <sub>Tags: <code>v1.15.8</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5</code>](https://github.com/cowsql/cowsql/commit/b5285345b0c173a1f0754e270730ed9878a59622)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
@@ -62,6 +45,16 @@
 - [ ] [<code>Update openwrt-http.go to support v24.10 (and drop v21.x)</code>](https://github.com/lxc/distrobuilder/commit/0053864347117ec08c700856f3ab9a5a957ce58f)
 - [ ] [<code>Update builds.yml to v4 artifact actions</code>](https://github.com/lxc/distrobuilder/commit/e3d37ae0bff8a708f8b22202428049deebcf9b1c)
 - [ ] [<code>Change naming of INF files</code>](https://github.com/lxc/distrobuilder/commit/d9429529f812f9f4b7b64dc57e5e03f41d5c0cd1)
+- [ ] [<code>docs: update supported Windows versions list</code>](https://github.com/lxc/distrobuilder/commit/47e41411bd166ee7ea8a5de3061927bc02ebf658)
+- [ ] [<code>doc: Add XP (for Windows XP) to wordlist</code>](https://github.com/lxc/distrobuilder/commit/4906e96e1b261c36685f9fe76a2aae15d73305b5)
+- [ ] [<code>Makefile: Bump minimum Go to 1.23.0</code>](https://github.com/lxc/distrobuilder/commit/f8e42f13a307701ee1ee57f6777ed72a4344f7e2)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/7386040f6673c0fea3f82700f11fe1c333a7c329)
+- [ ] [<code>github: Update base Ubuntu version</code>](https://github.com/lxc/distrobuilder/commit/9ed55d1d7756f99bcbd50267060c4cd545cd6d13)
+- [ ] [<code>github: Update to use Go oldstable/stable</code>](https://github.com/lxc/distrobuilder/commit/974f69796f10a27697a2dad56af03e739c4d8de9)
+- [ ] [<code>github: Bump actions version</code>](https://github.com/lxc/distrobuilder/commit/5d84b9420e44d79948c0023b5659997a73135a70)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Makefile: Remove deprecated -d flag</code>](https://github.com/lxc/distrobuilder/commit/0c10eb7c566a2a2efc50e7c7277a83556c980534)
+- [ ] [<code>Makefile: Remove GOCACHE</code>](https://github.com/lxc/distrobuilder/commit/aebe74c533f7f885f26dc0779692da5417b14fe4)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -287,6 +280,10 @@
 - [ ] [<code>build: Update gradle version</code>](https://github.com/krille-chan/fluffychat/commit/0d129dba08f2c4c3a5a8d68263b33b492a2f111f)
 - [ ] [<code>refactor: Switch to maintained qr code package</code>](https://github.com/krille-chan/fluffychat/commit/addd7f1bad07ca99319d312bd48f2c49290d48eb)
 - [ ] [<code>chore: Make login with matrix id more prominent again</code>](https://github.com/krille-chan/fluffychat/commit/31b4368f0975243058d91692a9b4e8b4f931068e)
+- [ ] [<code>build: Update fcm_shared_isolate</code>](https://github.com/krille-chan/fluffychat/commit/52b953877ba56312da4fd02137655afc5ef15bc5)
+- [ ] [<code>build: Update native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/d64459a2a2bd0372b0bbcad0eccf01adc25d7449)
+- [ ] [<code>build: Add changelog for v1.25.0</code>](https://github.com/krille-chan/fluffychat/commit/647b743b0a46132c62c0390c324d7f7497822de8)
+  - <sub>Tags: <code>rc1.25.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -453,6 +450,10 @@
 - [ ] [<code>build: Update gradle version</code>](https://github.com/krille-chan/fluffychat/commit/0d129dba08f2c4c3a5a8d68263b33b492a2f111f)
 - [ ] [<code>refactor: Switch to maintained qr code package</code>](https://github.com/krille-chan/fluffychat/commit/addd7f1bad07ca99319d312bd48f2c49290d48eb)
 - [ ] [<code>chore: Make login with matrix id more prominent again</code>](https://github.com/krille-chan/fluffychat/commit/31b4368f0975243058d91692a9b4e8b4f931068e)
+- [ ] [<code>build: Update fcm_shared_isolate</code>](https://github.com/krille-chan/fluffychat/commit/52b953877ba56312da4fd02137655afc5ef15bc5)
+- [ ] [<code>build: Update native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/d64459a2a2bd0372b0bbcad0eccf01adc25d7449)
+- [ ] [<code>build: Add changelog for v1.25.0</code>](https://github.com/krille-chan/fluffychat/commit/647b743b0a46132c62c0390c324d7f7497822de8)
+  - <sub>Tags: <code>rc1.25.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2525,9 +2526,98 @@
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
-- [ ] [<code>Check if state object is not null/undefined</code>](https://github.com/zabbly/incus-ui-canonical/commit/fa716a87c5659cc0a130e3bb6b26589b80628dfe)
-- [ ] [<code>Show MAC address on instance overview page</code>](https://github.com/zabbly/incus-ui-canonical/commit/8f7cd7e0d8e403e11337b2b45604582152680de4)
-- [ ] [<code>Add support for storage live mirgation in UI</code>](https://github.com/zabbly/incus-ui-canonical/commit/71b0807f60b56b9906002e7da8c49354d6cc17e1)
+- [ ] [<code>fix(volume) snapshots can have an empty expiry and we should show that correctly</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8295c558c278ffb9811695f05799fa630e1b8dd)
+- [ ] [<code>volume snapshots can have an empty expiry (#1011)</code>](https://github.com/zabbly/incus-ui-canonical/commit/49da9c2f98699ecc1275848ab53e9059692f58cc)
+- [ ] [<code>chore(config) use shared tsconfig from design system WD-17093</code>](https://github.com/zabbly/incus-ui-canonical/commit/3a54c9002603970b44cf0b168c885efa2e7343a4)
+- [ ] [<code>fix(project) improve design of project form, move storage selector above the feature selection to have feature and restrictions closer together</code>](https://github.com/zabbly/incus-ui-canonical/commit/2e807dd24fbc691af6e15e9622dc4af26734d3c5)
+- [ ] [<code>fix(instance) link image and cluster member on instance overview page</code>](https://github.com/zabbly/incus-ui-canonical/commit/13c4a2430e596c199b9e7c908fd5829560f4ea39)
+- [ ] [<code>Improve design of project form (#1013)</code>](https://github.com/zabbly/incus-ui-canonical/commit/75479d303ddd3884562976c93fc9bdb28a243ebf)
+- [ ] [<code>Link image and cluster member on instance overview page (#1014)</code>](https://github.com/zabbly/incus-ui-canonical/commit/031bd73565b7d349636665abc4f6204f2a0a368c)
+- [ ] [<code>Use shared tsconfig from design system (#999)</code>](https://github.com/zabbly/incus-ui-canonical/commit/9d04bbe8ef4ad60860301cdea072853ae7805c0e)
+- [ ] [<code>chore(icon) remove unused icon</code>](https://github.com/zabbly/incus-ui-canonical/commit/bb7000eb6189d870d0bf115e864d854d44003415)
+- [ ] [<code>fix(image) avoid retrying image index reload to ease experience in airgapped environments</code>](https://github.com/zabbly/incus-ui-canonical/commit/00dea9eaf6d6fca32add4556d59592653dd65f1d)
+- [ ] [<code>fix(font) embed font to avoid loading it from the assets server to support air gapped deployments</code>](https://github.com/zabbly/incus-ui-canonical/commit/c47d8028d09cb08ab2ed2ccd8a0585d0941a4cb8)
+- [ ] [<code>fix: silence sass depracation warnings</code>](https://github.com/zabbly/incus-ui-canonical/commit/6f8abeb9855a4cc98aa50e214983411493d88d46)
+- [ ] [<code>fix(image) use all projects parameter to resolve image fingerprints in permission config. show project for images in permission selector</code>](https://github.com/zabbly/incus-ui-canonical/commit/2afc11f93bde489e346d5f6b5d760d8ed38e77b5)
+- [ ] [<code>Add airgap support (#1015)</code>](https://github.com/zabbly/incus-ui-canonical/commit/02e668dd3b3886dbf4657310eb5c99fcee196a9b)
+- [ ] [<code>Use all projects parameter to resolve image fingerprints in permission config (#1017)</code>](https://github.com/zabbly/incus-ui-canonical/commit/fa007c4b74dc65ea4eb18568f503fda1a76f8066)
+- [ ] [<code>fix: silence sass depracation warnings (#1016)</code>](https://github.com/zabbly/incus-ui-canonical/commit/0fb9efabff998ea7fc180deb105b5f268d7c9870)
+- [ ] [<code>feat: [WD-16399] Improve storage pool selector</code>](https://github.com/zabbly/incus-ui-canonical/commit/dc456d2ed21c6e2e7f2b6b67ab5b72b5e69c0a42)
+- [ ] [<code>feat: [WD-16399] Improve storage pool selector (#991)</code>](https://github.com/zabbly/incus-ui-canonical/commit/be988cbafaab333a570edf7d3b68961bff0f8efd)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.3</code>](https://github.com/zabbly/incus-ui-canonical/commit/da16ebc34749ddc5794eaab849237e5e5a266221)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(storage) show meter bar in storage list and other places, only hide it in the storage selector</code>](https://github.com/zabbly/incus-ui-canonical/commit/511cde9e9b3d5f90d01bce7c8cd9743b69a8c14e)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.3 (#1020)</code>](https://github.com/zabbly/incus-ui-canonical/commit/84c35170740cfd3e15cc32ecf3c0ba81ea37c331)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: show meter bar in storage list and other places (#1023)</code>](https://github.com/zabbly/incus-ui-canonical/commit/4a67fcafb41fcbe8f069ef3cae1bb9b6e3c5a1d6)
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.4</code>](https://github.com/zabbly/incus-ui-canonical/commit/339f8b0e82627b1b6cbe4c7947d0f8b616ebb6c4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.4 (#1024)</code>](https://github.com/zabbly/incus-ui-canonical/commit/a25db9e8127879c23ba93d88638701c0151c12e9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): bump nanoid in the npm_and_yarn group across 1 directory</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8e19d2a21421fff5e479af39a477f146448434b)
+- [ ] [<code>chore(deps): bump nanoid from 3.3.7 to 3.3.8 in the npm_and_yarn group across 1 directory (#1025)</code>](https://github.com/zabbly/incus-ui-canonical/commit/54551b588160ddb529e3c7f9008f856f0bda0621)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.2</code>](https://github.com/zabbly/incus-ui-canonical/commit/ff55316a77938f5b94827f8c74c2c665f5457fb9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: [WD-16894] Add bulk deletion of TLS Users</code>](https://github.com/zabbly/incus-ui-canonical/commit/a33ba9f5308fd70b9452ca527b6d06108a5396c0)
+- [ ] [<code>feat: [WD-16894] Add bulk deletion and group modification of TLS Users (#1008)</code>](https://github.com/zabbly/incus-ui-canonical/commit/87d33b540ee280fe9a10745b86e53262ffd7a2f1)
+- [ ] [<code>fix: fix host path device display</code>](https://github.com/zabbly/incus-ui-canonical/commit/5d8c3eaec9407c9789cb1c2054da95309131fec4)
+- [ ] [<code>feat: add support for host path disk devices</code>](https://github.com/zabbly/incus-ui-canonical/commit/29b4040b39f92336c3ec30622365aa85b62f9662)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.2 (#1028)</code>](https://github.com/zabbly/incus-ui-canonical/commit/133cb269884786c0935ffdc15dc9470556b2a38e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: WD-17682 review changes no.1 (To be squashed)</code>](https://github.com/zabbly/incus-ui-canonical/commit/662280bfa690aa00209f503899b04e935071d039)
+- [ ] [<code>feat: add support for instance/profile host path devices [WD-17682] (#1019)</code>](https://github.com/zabbly/incus-ui-canonical/commit/6e88058456407a42341ce6773bbbf4b2b20239ca)
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.3</code>](https://github.com/zabbly/incus-ui-canonical/commit/20d226fd35ee8dcf676e3bb4ce41494cce2f21d6)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.3 (#1029)</code>](https://github.com/zabbly/incus-ui-canonical/commit/04c281ecbab45f4e11cdf5825ffb465bc0a52df5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(permissions) group selection ux for identities or idp groups. Allow clicking on the name of the group to select and deselect</code>](https://github.com/zabbly/incus-ui-canonical/commit/a7e27a7352928f5941a491088627dd957d0ec6a7)
+- [ ] [<code>fix(permissions) improve identities table column widths</code>](https://github.com/zabbly/incus-ui-canonical/commit/cb0f0335503b0683ed416abdfad9a8d6046c5951)
+- [ ] [<code>fix(permissions) link identity groups count to edit panel</code>](https://github.com/zabbly/incus-ui-canonical/commit/e6bf524bd4ac712ac2b109bb4f8448e47faea5ae)
+- [ ] [<code>fix(permissions) improve identities table column widths (#1032)</code>](https://github.com/zabbly/incus-ui-canonical/commit/7489aa0824a8f2be20e6ff5cd85cabba0e3da016)
+- [ ] [<code>fix(permissions) link identity groups count to edit panel (#1033)</code>](https://github.com/zabbly/incus-ui-canonical/commit/9665053769e8ef37c03f1ff511cae11c49acd185)
+- [ ] [<code>feat: [WD-16972] TLS user creation spike</code>](https://github.com/zabbly/incus-ui-canonical/commit/613cf93c5a9ace075325864ae8afcf2f1d85e4f4)
+- [ ] [<code>feat: [WD-16972] TLS user management spike. (#1026)</code>](https://github.com/zabbly/incus-ui-canonical/commit/6116d36e8b8cc4135752504b21ec1687f23337aa)
+- [ ] [<code>Group selection ux for identities or idp groups (#1031)</code>](https://github.com/zabbly/incus-ui-canonical/commit/b6832ba7e64a0bab20a3a06c19d0774c5717f728)
+- [ ] [<code>fix(networks) ensure volatile keys are preserved, when saving a network. see https://github.com/canonical/lxd/issues/14531</code>](https://github.com/zabbly/incus-ui-canonical/commit/9e9c0d9051992069563eddf1b2c9bedbf6d8e6bc)
+- [ ] [<code>Ensure volatile keys are preserved, when saving a network (#1036)</code>](https://github.com/zabbly/incus-ui-canonical/commit/69a96172f97801d0328e6570ca0e1e44ea294d43)
+- [ ] [<code>chore(version) update to 0.15</code>](https://github.com/zabbly/incus-ui-canonical/commit/9275167fe13162233bb9d7d1353d298539305b9d)
+  - <sub>Tags: <code>0.15</code></sub>
+- [ ] [<code>Update all external links</code>](https://github.com/zabbly/incus-ui-canonical/commit/cdb2aadfc68478191bb7e7d99238d7e4219bf748)
+- [ ] [<code>Branding</code>](https://github.com/zabbly/incus-ui-canonical/commit/76a13aa048ab84a65524a75cfd0cea474a6ab7a2)
+- [ ] [<code>Update certificate generation</code>](https://github.com/zabbly/incus-ui-canonical/commit/52a41c8d369760ea53445952c62d355ed97bd0fe)
+- [ ] [<code>Remove Canonical image servers</code>](https://github.com/zabbly/incus-ui-canonical/commit/eb0256cbffce7ebf8dfa948340423a41b17de125)
+- [ ] [<code>Remove version check</code>](https://github.com/zabbly/incus-ui-canonical/commit/0fc02add267e9d0edea1f4a23ccc1213b8e2c48d)
+- [ ] [<code>Improve OpenFGA support</code>](https://github.com/zabbly/incus-ui-canonical/commit/070fb6faba929a4acc6da5532c6c9eff6d1b1967)
+- [ ] [<code>Update keys that aren't VM specific</code>](https://github.com/zabbly/incus-ui-canonical/commit/8d7c4f0b10b08c40737c563aa7edaa1fa5597705)
+- [ ] [<code>Fix cluster evacuation</code>](https://github.com/zabbly/incus-ui-canonical/commit/9abf62a658a1b970239b64b8a0b0c45524244343)
+- [ ] [<code>Rename user.ui_title to user.ui.title</code>](https://github.com/zabbly/incus-ui-canonical/commit/ab1fe2915aea272ef0b41d2282a3a6644bdf0689)
+- [ ] [<code>Add user.uid.sso_only</code>](https://github.com/zabbly/incus-ui-canonical/commit/19201527afe479d79eb43ae1cea56822e9241342)
+- [ ] [<code>Skip LXD identity API</code>](https://github.com/zabbly/incus-ui-canonical/commit/52b0f74ba7e88cb92bfe6ac058e7c45a8749219f)
+- [ ] [<code>Fix network forward count logic</code>](https://github.com/zabbly/incus-ui-canonical/commit/dcead0b061a01a1e3e88dfdaa38ece5d82a24cb0)
+- [ ] [<code>Hide Cluster option when not clustered</code>](https://github.com/zabbly/incus-ui-canonical/commit/cc4e02faf20b0b6df9c0fca63eb952a6342e4cd5)
+- [ ] [<code>Rename Cluster member to Location</code>](https://github.com/zabbly/incus-ui-canonical/commit/63f61189461d8b82f1e0a3c2a4e4caa19359fb8c)
+- [ ] [<code>Make migration an action</code>](https://github.com/zabbly/incus-ui-canonical/commit/3982988fcf876ef96f041d3093220e4b52464f8c)
+- [ ] [<code>Wait for projects list to be loaded</code>](https://github.com/zabbly/incus-ui-canonical/commit/c5fe94755cc44649be90d3446caa48d34ae15e71)
+- [ ] [<code>Respect image profile list</code>](https://github.com/zabbly/incus-ui-canonical/commit/9bc8b5cc5f9946a4c864774f4f8911c2d9657363)
+- [ ] [<code>Add support for LVM Cluster</code>](https://github.com/zabbly/incus-ui-canonical/commit/0a8126481f402e30399252fafefe640309773232)
+- [ ] [<code>Fix stateful snapshots creation</code>](https://github.com/zabbly/incus-ui-canonical/commit/fd81342f40fa1ef408265096fe38bde8ea7e64e9)
+- [ ] [<code>Fix handling of WebSocket on HTTP</code>](https://github.com/zabbly/incus-ui-canonical/commit/0bf80329165f02c1db56c6c83e44afc3203c4634)
+- [ ] [<code>Fix documentation path</code>](https://github.com/zabbly/incus-ui-canonical/commit/0b6b63e4d4883569f8143b79e68559b504ffceec)
+- [ ] [<code>Annotate application containers in the instance list view</code>](https://github.com/zabbly/incus-ui-canonical/commit/f803bcfb76914264f903cc6494c9d3fb4d3ecc51)
+- [ ] [<code>Use state API for instance resource usage</code>](https://github.com/zabbly/incus-ui-canonical/commit/46784fd260aabf8ef5aabc3b2a486e0720c25e86)
+- [ ] [<code>Add possibility to sort by ipv4, ipv6 and status</code>](https://github.com/zabbly/incus-ui-canonical/commit/2475b838f9ad8dc0dd7a0f93a82ba115323b75dc)
+- [ ] [<code>Add instance preview to overview view</code>](https://github.com/zabbly/incus-ui-canonical/commit/b29abc4244478710bcf7206be21f9ff55603e1df)
+- [ ] [<code>Handle console disconnections/reconnections</code>](https://github.com/zabbly/incus-ui-canonical/commit/7778ac7dc27eb45be49bd45c6ea6cf2180815880)
+- [ ] [<code>Remove zfsDriver default value from storage creation form</code>](https://github.com/zabbly/incus-ui-canonical/commit/37b8b0ffd03e1b99ea1aa644ac130b418625ec29)
+- [ ] [<code>Support for special disks</code>](https://github.com/zabbly/incus-ui-canonical/commit/556c739777fc3a22d167c03dc8138d7e1467c022)
+- [ ] [<code>Improved error messages on the terminal view</code>](https://github.com/zabbly/incus-ui-canonical/commit/6a31fa0490991b6c8f07a329b7a2df23d8490685)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Support for network ACLs</code>](https://github.com/zabbly/incus-ui-canonical/commit/f11f8d5f4f613a8f25e64755a608a121c4a6cb82)
+- [ ] [<code>Add 'Networks' and 'ACLs' to Networking tab</code>](https://github.com/zabbly/incus-ui-canonical/commit/fd15084b77d822945c97acdba249fc3284b8c1a5)
+- [ ] [<code>Fix issue with listing instances when cluster member is down</code>](https://github.com/zabbly/incus-ui-canonical/commit/031a533e573230b3ba0cec40951dbb39d8f18ecf)
+- [ ] [<code>Show MAC address on instance overview page</code>](https://github.com/zabbly/incus-ui-canonical/commit/4875a21ac3514f44dbf67eda108089edd0d5805b)
+- [ ] [<code>Add support for storage live migration in UI</code>](https://github.com/zabbly/incus-ui-canonical/commit/559c98e0a8f61e83ad08bc4b14942cc100a88428)
+- [ ] [<code>Add missing return to function</code>](https://github.com/zabbly/incus-ui-canonical/commit/eff02475e11ca5c7f3e1611f0bff1afe37bc6509)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -2802,6 +2892,9 @@
 - [ ] [<code>Fix typo in deprecated flag message (#2619)</code>](https://github.com/AOMediaCodec/libavif/commit/1c592c8242ffa185796bdcb23a4d9ff22859f03c)
 - [ ] [<code>Check auxiliary type for tracks. (#2621)</code>](https://github.com/AOMediaCodec/libavif/commit/8c94573c27be5edfad66ea85d38682c54662342b)
 - [ ] [<code>Fix missing test skip (#2623)</code>](https://github.com/AOMediaCodec/libavif/commit/0cc1ab1cecc71ef2c9d4afdf1b0d60e377952502)
+- [ ] [<code>Handle animations with audio tracks. (#2625)</code>](https://github.com/AOMediaCodec/libavif/commit/680e265d17f022252068fe3c657fb1a5a0c903ea)
+- [ ] [<code>Remove sample transform constraint on dimg order. (#2626)</code>](https://github.com/AOMediaCodec/libavif/commit/884006b018a417644af9da95df51ce8e1a2c8d9f)
+- [ ] [<code>Assume an aux track is alpha is the type is not present. (#2627)</code>](https://github.com/AOMediaCodec/libavif/commit/a653390d187858b3286c4d8bc9aed73850694187)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4477,6 +4570,10 @@
 - [ ] [<code>chore(go.d/sensors): disable by default (#19667)</code>](https://github.com/netdata/netdata.git/commit/6b14efe8f3df15d346e4aded7572691cd59db7ff)
 - [ ] [<code>improvement(go.d dyncfg): add user to source (#19666)</code>](https://github.com/netdata/netdata.git/commit/964fe16073a8203611b897cc5c4b96878d05c515)
 - [ ] [<code>chore: remove lock files from go.d/python.d (#19668)</code>](https://github.com/netdata/netdata.git/commit/9be211256c26ce13ea62aa94fe6f4e58bfe3b119)
+- [ ] [<code>fix(go.d/k8sstate): correct deployment conditions (#19671)</code>](https://github.com/netdata/netdata.git/commit/2e16cb5ee4ad171523262ef3cd3b592b81ac1a59)
+- [ ] [<code>improvement(go.d dyncfg): log collector dyncfg actions (#19672)</code>](https://github.com/netdata/netdata.git/commit/bfdbf9750bb48cd18257e3bdf04463a09db656ff)
+- [ ] [<code>chore: remove netdata_configured_lock_dir (#19669)</code>](https://github.com/netdata/netdata.git/commit/231813871abe86afda9997ae0df8657791485670)
+- [ ] [<code>fix(go.d dyncfg): don't overwrite source (#19673)</code>](https://github.com/netdata/netdata.git/commit/943bfe5286a4c1943594f767819eb6f6d4a0fe05)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
