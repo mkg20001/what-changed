@@ -4464,6 +4464,9 @@
 - [ ] [<code>Regenerate integrations docs (#19658)</code>](https://github.com/netdata/netdata.git/commit/ecf5209f30d810f57942043f69dce8e45acaedf4)
 - [ ] [<code>speed up aral when a single item is allocated and freed repeateadly (#19660)</code>](https://github.com/netdata/netdata.git/commit/c19ae2acbda26d85b017879cb0829f71225a7e55)
 - [ ] [<code>avoid dbengine event loop starvation by running uv_run periodically (#19661)</code>](https://github.com/netdata/netdata.git/commit/12930b2792b0101bc4b94885366dfcfcbeab8cc1)
+- [ ] [<code>improvement(go.d/k8sstate): add deployment conditions (#19662)</code>](https://github.com/netdata/netdata.git/commit/b62aac1ef3cb73a70118bcab317b4e57d1ed5233)
+- [ ] [<code>Regenerate integrations docs (#19663)</code>](https://github.com/netdata/netdata.git/commit/f304c8d80b827449dbdcb811fc7ffdb2ab892519)
+- [ ] [<code>add k8s_state_deployment_condition_available alert (#19664)</code>](https://github.com/netdata/netdata.git/commit/52ed7154297facb530a379d51d4d5c4bdaf48c19)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
