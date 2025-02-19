@@ -284,6 +284,7 @@
 - [ ] [<code>build: Update native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/d64459a2a2bd0372b0bbcad0eccf01adc25d7449)
 - [ ] [<code>build: Add changelog for v1.25.0</code>](https://github.com/krille-chan/fluffychat/commit/647b743b0a46132c62c0390c324d7f7497822de8)
   - <sub>Tags: <code>rc1.25.0-1</code></sub>
+- [ ] [<code>build: Use correct flutter version in snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/cc498e9922f5e87d474240515983015c16311d17)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -454,6 +455,7 @@
 - [ ] [<code>build: Update native_imaging</code>](https://github.com/krille-chan/fluffychat/commit/d64459a2a2bd0372b0bbcad0eccf01adc25d7449)
 - [ ] [<code>build: Add changelog for v1.25.0</code>](https://github.com/krille-chan/fluffychat/commit/647b743b0a46132c62c0390c324d7f7497822de8)
   - <sub>Tags: <code>rc1.25.0-1</code></sub>
+- [ ] [<code>build: Use correct flutter version in snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/cc498e9922f5e87d474240515983015c16311d17)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2895,6 +2897,7 @@
 - [ ] [<code>Handle animations with audio tracks. (#2625)</code>](https://github.com/AOMediaCodec/libavif/commit/680e265d17f022252068fe3c657fb1a5a0c903ea)
 - [ ] [<code>Remove sample transform constraint on dimg order. (#2626)</code>](https://github.com/AOMediaCodec/libavif/commit/884006b018a417644af9da95df51ce8e1a2c8d9f)
 - [ ] [<code>Assume an aux track is alpha is the type is not present. (#2627)</code>](https://github.com/AOMediaCodec/libavif/commit/a653390d187858b3286c4d8bc9aed73850694187)
+- [ ] [<code>Do not check the handler type of the color track. (#2628)</code>](https://github.com/AOMediaCodec/libavif/commit/311238fc483abdae45120ad3ea04c76658ad0c4e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4574,6 +4577,7 @@
 - [ ] [<code>improvement(go.d dyncfg): log collector dyncfg actions (#19672)</code>](https://github.com/netdata/netdata.git/commit/bfdbf9750bb48cd18257e3bdf04463a09db656ff)
 - [ ] [<code>chore: remove netdata_configured_lock_dir (#19669)</code>](https://github.com/netdata/netdata.git/commit/231813871abe86afda9997ae0df8657791485670)
 - [ ] [<code>fix(go.d dyncfg): don't overwrite source (#19673)</code>](https://github.com/netdata/netdata.git/commit/943bfe5286a4c1943594f767819eb6f6d4a0fe05)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-201-nightly.</code>](https://github.com/netdata/netdata.git/commit/260014bb56a9d0efdab06d3ec320f2d6498982b5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
