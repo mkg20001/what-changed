@@ -4607,6 +4607,8 @@
 - [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.8.1 to 1.9.0 in /src/go (#19679)</code>](https://github.com/netdata/netdata.git/commit/91ba48faf3e4d604c15dd58cc9f3aab53c8fa96e)
 - [ ] [<code>build: change go.mod version to 1.23.6 (#19680)</code>](https://github.com/netdata/netdata.git/commit/9656ccbd441c60d85e6102479f27df768ccaa8e6)
 - [ ] [<code>Fix freebsd compilation (#19677)</code>](https://github.com/netdata/netdata.git/commit/a1a5b94127f20bb64f1d1e7e2a0d2c23b1196532)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-209-nightly.</code>](https://github.com/netdata/netdata.git/commit/011ae3ddfb44d285a5b9434d1bfc9471d852c1bc)
+- [ ] [<code>build: change go.mod version to 1.23.4 to fix win ci builds (#19681)</code>](https://github.com/netdata/netdata.git/commit/851a2a6c4c8c407a45383a27a47b59a61d5f4a88)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
