@@ -4605,6 +4605,8 @@
 - [ ] [<code>Fix native package installation on RHEL. (#19643)</code>](https://github.com/netdata/netdata.git/commit/1786e91e91c2e7d38df9862b0bd0a629343eb14b)
 - [ ] [<code>initial setup of custom OpenTelemetry Collector distribution (#19678)</code>](https://github.com/netdata/netdata.git/commit/f3cec47653e17e44c781ca279e5bb4fd17e4999a)
 - [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.8.1 to 1.9.0 in /src/go (#19679)</code>](https://github.com/netdata/netdata.git/commit/91ba48faf3e4d604c15dd58cc9f3aab53c8fa96e)
+- [ ] [<code>build: change go.mod version to 1.23.6 (#19680)</code>](https://github.com/netdata/netdata.git/commit/9656ccbd441c60d85e6102479f27df768ccaa8e6)
+- [ ] [<code>Fix freebsd compilation (#19677)</code>](https://github.com/netdata/netdata.git/commit/a1a5b94127f20bb64f1d1e7e2a0d2c23b1196532)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6081,6 +6083,7 @@
 - [ ] [<code>ubus: add support for channels</code>](https://github.com/jow-/ucode/commit/c0d1654a450b62f5767ebd28352141f33c7ef38e)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>vm: fix crash due to stale frame pointer</code>](https://github.com/jow-/ucode/commit/b32321beb112cfbca54554f9c685cd34bbbee0e4)
+- [ ] [<code>uci: implement cursor.list_append() and cursor.list_remove()</code>](https://github.com/jow-/ucode/commit/9d94d54ed1a340d38077b62dbcf064324a931170)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
