@@ -295,6 +295,9 @@
 - [ ] [<code>fix: Request notification permissions on iOS before getToken</code>](https://github.com/krille-chan/fluffychat/commit/69711506eac603942e30bc6721b7ef46d3c02b18)
 - [ ] [<code>chore: Follow up request iOS permissions</code>](https://github.com/krille-chan/fluffychat/commit/2625e89a33421ba189dd96cd84bb7a2311a5e1b9)
 - [ ] [<code>Revert "chore: Follow up request iOS permissions"</code>](https://github.com/krille-chan/fluffychat/commit/2e40c432a336a0abcdcd850d8b9dd34488e395f8)
+  - <sub>Tags: <code>v1.25.0</code></sub>
+- [ ] [<code>chore: Combine mimetype types in send file dialog logic</code>](https://github.com/krille-chan/fluffychat/commit/1c5580ba628aa3f884f1ea8cf64ed765e87d62b2)
+- [ ] [<code>build: Update flutter to 3.29.0</code>](https://github.com/krille-chan/fluffychat/commit/09d5b3934efe5b96b5ec2d1b4327f59a6bd03a4a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -476,6 +479,9 @@
 - [ ] [<code>fix: Request notification permissions on iOS before getToken</code>](https://github.com/krille-chan/fluffychat/commit/69711506eac603942e30bc6721b7ef46d3c02b18)
 - [ ] [<code>chore: Follow up request iOS permissions</code>](https://github.com/krille-chan/fluffychat/commit/2625e89a33421ba189dd96cd84bb7a2311a5e1b9)
 - [ ] [<code>Revert "chore: Follow up request iOS permissions"</code>](https://github.com/krille-chan/fluffychat/commit/2e40c432a336a0abcdcd850d8b9dd34488e395f8)
+  - <sub>Tags: <code>v1.25.0</code></sub>
+- [ ] [<code>chore: Combine mimetype types in send file dialog logic</code>](https://github.com/krille-chan/fluffychat/commit/1c5580ba628aa3f884f1ea8cf64ed765e87d62b2)
+- [ ] [<code>build: Update flutter to 3.29.0</code>](https://github.com/krille-chan/fluffychat/commit/09d5b3934efe5b96b5ec2d1b4327f59a6bd03a4a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -566,6 +572,27 @@
 - [ ] [<code>doc: Add frontend to wordlist</code>](https://github.com/lxc/incus/commit/1957ac66f837fdc4f54c502279803dcd3fa020b5)
 - [ ] [<code>incusd/main_nsexec: Fix change_namespaces fallback to handle multiple namespaces</code>](https://github.com/lxc/incus/commit/1906ace085f707202d9a8a14e52d6ea20193157f)
 - [ ] [<code>incusd/instance/utils: Only check uid/gid for containers</code>](https://github.com/lxc/incus/commit/ffd069157f2e334fb34644e17ae8f1237c9323dd)
+- [ ] [<code>generate-database: Use types.Package</code>](https://github.com/lxc/incus/commit/8cb826496a9d8f535b67a55c9ef0d438601830be)
+- [ ] [<code>generate-database: Remove support for separate database package</code>](https://github.com/lxc/incus/commit/667838c047984add6df2659d0e9feb62cd491c95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Separate Go package loading</code>](https://github.com/lxc/incus/commit/4993835cc3e04912233ddf0a01225487d6920dc8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Check if disk is remote when migrating with an extra disk</code>](https://github.com/lxc/incus/commit/dbe53f1a152c02adfffd5ee5da71da04a9c6b66d)
+- [ ] [<code>incusd/instance/edk2: Look for bios.bin in /usr/share/seabios</code>](https://github.com/lxc/incus/commit/73adf9263798fff89a30af248af4d096049496df)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>generate-database: Add unified generate command</code>](https://github.com/lxc/incus/commit/ecc1157e526d562d7f9c3a6d624842fc126d4ea1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Use generate command</code>](https://github.com/lxc/incus/commit/5369f577feba22c010282d14fd909c6a6cbe534f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Remove obsolete commands stmt and method</code>](https://github.com/lxc/incus/commit/42e0745b90996b080d4582ddba4cce66a4849b89)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Update README.md</code>](https://github.com/lxc/incus/commit/3b17482aab38277de3b6441c67ee043722e03038)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Reduce to single go:generate per package</code>](https://github.com/lxc/incus/commit/da830655148ee680c4246717c179ca860c543393)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>incusd/db: Use Single generate per package</code>](https://github.com/lxc/incus/commit/e406bb42faef4735372aeff180248a33b5ed00a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>golangci: Update for new generate-database syntax</code>](https://github.com/lxc/incus/commit/29828726b932f28c2982e390af854e709433f146)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2545,6 +2572,27 @@
 - [ ] [<code>doc: Add frontend to wordlist</code>](https://github.com/lxc/incus/commit/1957ac66f837fdc4f54c502279803dcd3fa020b5)
 - [ ] [<code>incusd/main_nsexec: Fix change_namespaces fallback to handle multiple namespaces</code>](https://github.com/lxc/incus/commit/1906ace085f707202d9a8a14e52d6ea20193157f)
 - [ ] [<code>incusd/instance/utils: Only check uid/gid for containers</code>](https://github.com/lxc/incus/commit/ffd069157f2e334fb34644e17ae8f1237c9323dd)
+- [ ] [<code>generate-database: Use types.Package</code>](https://github.com/lxc/incus/commit/8cb826496a9d8f535b67a55c9ef0d438601830be)
+- [ ] [<code>generate-database: Remove support for separate database package</code>](https://github.com/lxc/incus/commit/667838c047984add6df2659d0e9feb62cd491c95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Separate Go package loading</code>](https://github.com/lxc/incus/commit/4993835cc3e04912233ddf0a01225487d6920dc8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Check if disk is remote when migrating with an extra disk</code>](https://github.com/lxc/incus/commit/dbe53f1a152c02adfffd5ee5da71da04a9c6b66d)
+- [ ] [<code>incusd/instance/edk2: Look for bios.bin in /usr/share/seabios</code>](https://github.com/lxc/incus/commit/73adf9263798fff89a30af248af4d096049496df)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>generate-database: Add unified generate command</code>](https://github.com/lxc/incus/commit/ecc1157e526d562d7f9c3a6d624842fc126d4ea1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Use generate command</code>](https://github.com/lxc/incus/commit/5369f577feba22c010282d14fd909c6a6cbe534f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Remove obsolete commands stmt and method</code>](https://github.com/lxc/incus/commit/42e0745b90996b080d4582ddba4cce66a4849b89)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Update README.md</code>](https://github.com/lxc/incus/commit/3b17482aab38277de3b6441c67ee043722e03038)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Reduce to single go:generate per package</code>](https://github.com/lxc/incus/commit/da830655148ee680c4246717c179ca860c543393)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>incusd/db: Use Single generate per package</code>](https://github.com/lxc/incus/commit/e406bb42faef4735372aeff180248a33b5ed00a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>golangci: Update for new generate-database syntax</code>](https://github.com/lxc/incus/commit/29828726b932f28c2982e390af854e709433f146)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -2919,6 +2967,7 @@
 - [ ] [<code>Assume an aux track is alpha is the type is not present. (#2627)</code>](https://github.com/AOMediaCodec/libavif/commit/a653390d187858b3286c4d8bc9aed73850694187)
 - [ ] [<code>Do not check the handler type of the color track. (#2628)</code>](https://github.com/AOMediaCodec/libavif/commit/311238fc483abdae45120ad3ea04c76658ad0c4e)
 - [ ] [<code>Disable testing on dependencies by default (#2629)</code>](https://github.com/AOMediaCodec/libavif/commit/d09d1402bad788e5b0f9f9d5042c71e74dfef5e4)
+- [ ] [<code>Make avifEncoder.headerFormat a flag combination (#2612)</code>](https://github.com/AOMediaCodec/libavif/commit/7b9131ee0e6b0df01db23ca0fafe3bd5529dbe63)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2990,6 +3039,9 @@
 - [ ] [<code>dbus: replace hardcoded dbus address with environment variable</code>](https://github.com/lxc/lxc/commit/844c49fcf356a55b83a26a0bb8a5e6d25039f549)
 - [ ] [<code>conf: warn when capabilities are disabled or libcap is not found</code>](https://github.com/lxc/lxc/commit/8d8fd27b57bf1ebc9cdbf129547961339dd45b8b)
 - [ ] [<code>lxc/attach: Revert "- LXC attach should exit on SIGCHLD"</code>](https://github.com/lxc/lxc/commit/b4248f626b5accf5a61fa97c93d6376c59c8a0f3)
+- [ ] [<code>config-bcast: fix incorrect broadcast address calculation</code>](https://github.com/lxc/lxc/commit/59825e1870244c45a6ac0502ba9c5906cd21c212)
+- [ ] [<code>github: Switch to native arm64 runners</code>](https://github.com/lxc/lxc/commit/9c9c27e8c4aa79cbbb2aaeed27b3be3d447ec154)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -4609,6 +4661,9 @@
 - [ ] [<code>Fix freebsd compilation (#19677)</code>](https://github.com/netdata/netdata.git/commit/a1a5b94127f20bb64f1d1e7e2a0d2c23b1196532)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-209-nightly.</code>](https://github.com/netdata/netdata.git/commit/011ae3ddfb44d285a5b9434d1bfc9471d852c1bc)
 - [ ] [<code>build: change go.mod version to 1.23.4 to fix win ci builds (#19681)</code>](https://github.com/netdata/netdata.git/commit/851a2a6c4c8c407a45383a27a47b59a61d5f4a88)
+- [ ] [<code>fix(go.d/mysql): handle Cpu_time in microseconds in v10.11.11+ (#19683)</code>](https://github.com/netdata/netdata.git/commit/4046b357d9d590da5375ff2eaf0034f3bc87788f)
+- [ ] [<code>improve dyncfg src type anon message (#19684)</code>](https://github.com/netdata/netdata.git/commit/5cf6732343717eea32d941826e241e9622dd3d71)
+- [ ] [<code>allow parsing empty json arrays and objects (#19685)</code>](https://github.com/netdata/netdata.git/commit/81de3f433ede80d50c8373892f2aaf2b7a67b94e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6086,6 +6141,15 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>vm: fix crash due to stale frame pointer</code>](https://github.com/jow-/ucode/commit/b32321beb112cfbca54554f9c685cd34bbbee0e4)
 - [ ] [<code>uci: implement cursor.list_append() and cursor.list_remove()</code>](https://github.com/jow-/ucode/commit/9d94d54ed1a340d38077b62dbcf064324a931170)
+- [ ] [<code>zlib: rework code logic</code>](https://github.com/jow-/ucode/commit/a5a299075f377bf807197c7632995edc7d87bd4b)
+- [ ] [<code>zlib: deduplicate code</code>](https://github.com/jow-/ucode/commit/ee6a6c3ca5797a5e0c3add05714e0326f576d732)
+- [ ] [<code>zlib: add stream-oriented deflate operations</code>](https://github.com/jow-/ucode/commit/d20f7bb87d478a9bba1a9ee7d4074dfc1297bebb)
+- [ ] [<code>zlib: add stream-oriented inflate operations</code>](https://github.com/jow-/ucode/commit/0255af462be3c4b2aeaa77014376e22e9300ffc3)
+- [ ] [<code>WIP: lib: support map() over objects</code>](https://github.com/jow-/ucode/commit/9260bd5354bf2cf39e3c125f776ed832f28bc356)
+- [ ] [<code>docs: cover switch statement in syntax article</code>](https://github.com/jow-/ucode/commit/60f05ac60bfe5c4c5b013b7ae69b9f2913a6aa90)
+- [ ] [<code>docs: add article with array specific information</code>](https://github.com/jow-/ucode/commit/338aa2ebf00e370c7b17c9c022571f2fbc858007)
+- [ ] [<code>uci: link save() and commit() functions in cursor class description</code>](https://github.com/jow-/ucode/commit/df5a79a04b17d7b4fdfd9e72c3193f36bfc95d98)
+- [ ] [<code>docs: add detailed documentation article for dictionaries</code>](https://github.com/jow-/ucode/commit/03fb60d0e4b3286fb62bbad89e7b4622903d380e)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
