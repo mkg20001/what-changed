@@ -593,6 +593,7 @@
 - [ ] [<code>incusd/db: Use Single generate per package</code>](https://github.com/lxc/incus/commit/e406bb42faef4735372aeff180248a33b5ed00a3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>golangci: Update for new generate-database syntax</code>](https://github.com/lxc/incus/commit/29828726b932f28c2982e390af854e709433f146)
+- [ ] [<code>internal/cmd/table: Improve errors on modifiers</code>](https://github.com/lxc/incus/commit/dd43e413bc40734d8b28359ae289f6940cbd2801)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2593,6 +2594,7 @@
 - [ ] [<code>incusd/db: Use Single generate per package</code>](https://github.com/lxc/incus/commit/e406bb42faef4735372aeff180248a33b5ed00a3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>golangci: Update for new generate-database syntax</code>](https://github.com/lxc/incus/commit/29828726b932f28c2982e390af854e709433f146)
+- [ ] [<code>internal/cmd/table: Improve errors on modifiers</code>](https://github.com/lxc/incus/commit/dd43e413bc40734d8b28359ae289f6940cbd2801)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -2968,6 +2970,7 @@
 - [ ] [<code>Do not check the handler type of the color track. (#2628)</code>](https://github.com/AOMediaCodec/libavif/commit/311238fc483abdae45120ad3ea04c76658ad0c4e)
 - [ ] [<code>Disable testing on dependencies by default (#2629)</code>](https://github.com/AOMediaCodec/libavif/commit/d09d1402bad788e5b0f9f9d5042c71e74dfef5e4)
 - [ ] [<code>Make avifEncoder.headerFormat a flag combination (#2612)</code>](https://github.com/AOMediaCodec/libavif/commit/7b9131ee0e6b0df01db23ca0fafe3bd5529dbe63)
+- [ ] [<code>Update to SVT-AV1 v3.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/96b1fb2adfdb09dafedbf01aba9f32a39d9e213c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3042,6 +3045,7 @@
 - [ ] [<code>config-bcast: fix incorrect broadcast address calculation</code>](https://github.com/lxc/lxc/commit/59825e1870244c45a6ac0502ba9c5906cd21c212)
 - [ ] [<code>github: Switch to native arm64 runners</code>](https://github.com/lxc/lxc/commit/9c9c27e8c4aa79cbbb2aaeed27b3be3d447ec154)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Added LXC_IPV6_ENABLE option for lxc-net to enable or disable IPv6</code>](https://github.com/lxc/lxc/commit/d047d81b7745467610ec3fa1667bbb50a3b265d0)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -4664,6 +4668,7 @@
 - [ ] [<code>fix(go.d/mysql): handle Cpu_time in microseconds in v10.11.11+ (#19683)</code>](https://github.com/netdata/netdata.git/commit/4046b357d9d590da5375ff2eaf0034f3bc87788f)
 - [ ] [<code>improve dyncfg src type anon message (#19684)</code>](https://github.com/netdata/netdata.git/commit/5cf6732343717eea32d941826e241e9622dd3d71)
 - [ ] [<code>allow parsing empty json arrays and objects (#19685)</code>](https://github.com/netdata/netdata.git/commit/81de3f433ede80d50c8373892f2aaf2b7a67b94e)
+- [ ] [<code>Switch back to x86 hosts for POWER8+ builds. (#19686)</code>](https://github.com/netdata/netdata.git/commit/4795e5e9f7f1516ee88f7167e71bf42e9390e504)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
