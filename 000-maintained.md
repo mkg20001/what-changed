@@ -83,6 +83,7 @@
 - [ ] [<code>Bring back the CI badge with the new URL scheme</code>](https://github.com/stepchowfun/docuum/commit/c4c0ebf6fc82f37bae0889838492b228f050f6d8)
 - [ ] [<code>Cargo.lock: Update 'ctrlc' and 'nix' crates</code>](https://github.com/stepchowfun/docuum/commit/cece4a0f9a469828a8ba834a2408389418020f95)
 - [ ] [<code>Update Rust to v1.84.1</code>](https://github.com/stepchowfun/docuum/commit/eab9d374befadccc9de54bb05dd39c95c4856e77)
+- [ ] [<code>Update Rust to v1.85.0</code>](https://github.com/stepchowfun/docuum/commit/2ff30181c538105030ba4378a91ddba55ababbc9)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -298,6 +299,11 @@
   - <sub>Tags: <code>v1.25.0</code></sub>
 - [ ] [<code>chore: Combine mimetype types in send file dialog logic</code>](https://github.com/krille-chan/fluffychat/commit/1c5580ba628aa3f884f1ea8cf64ed765e87d62b2)
 - [ ] [<code>build: Update flutter to 3.29.0</code>](https://github.com/krille-chan/fluffychat/commit/09d5b3934efe5b96b5ec2d1b4327f59a6bd03a4a)
+- [ ] [<code>Revert "build: Update flutter to 3.29.0"</code>](https://github.com/krille-chan/fluffychat/commit/2c824eb96727356568b04fc6755a5885f59a4cc4)
+- [ ] [<code>fix: Crash in settings when using MAS</code>](https://github.com/krille-chan/fluffychat/commit/99c49e3df2dbff5cb3f5e9473cf52adbdc787057)
+- [ ] [<code>build: Fix build tailwindcss for website</code>](https://github.com/krille-chan/fluffychat/commit/68707e57b90b1091c8e90a971d6762eee7b88d30)
+  - <sub>Tags: <code>v1.25.1</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -482,6 +488,11 @@
   - <sub>Tags: <code>v1.25.0</code></sub>
 - [ ] [<code>chore: Combine mimetype types in send file dialog logic</code>](https://github.com/krille-chan/fluffychat/commit/1c5580ba628aa3f884f1ea8cf64ed765e87d62b2)
 - [ ] [<code>build: Update flutter to 3.29.0</code>](https://github.com/krille-chan/fluffychat/commit/09d5b3934efe5b96b5ec2d1b4327f59a6bd03a4a)
+- [ ] [<code>Revert "build: Update flutter to 3.29.0"</code>](https://github.com/krille-chan/fluffychat/commit/2c824eb96727356568b04fc6755a5885f59a4cc4)
+- [ ] [<code>fix: Crash in settings when using MAS</code>](https://github.com/krille-chan/fluffychat/commit/99c49e3df2dbff5cb3f5e9473cf52adbdc787057)
+- [ ] [<code>build: Fix build tailwindcss for website</code>](https://github.com/krille-chan/fluffychat/commit/68707e57b90b1091c8e90a971d6762eee7b88d30)
+  - <sub>Tags: <code>v1.25.1</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -594,6 +605,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>golangci: Update for new generate-database syntax</code>](https://github.com/lxc/incus/commit/29828726b932f28c2982e390af854e709433f146)
 - [ ] [<code>internal/cmd/table: Improve errors on modifiers</code>](https://github.com/lxc/incus/commit/dd43e413bc40734d8b28359ae289f6940cbd2801)
+- [ ] [<code>incusd: Add additional validation when joining a new cluster member</code>](https://github.com/lxc/incus/commit/6cd2223d85d6a974dd528b96e31d67b0c2a92050)
+- [ ] [<code>incusd: Upgrade flosch/pongo2 to v6</code>](https://github.com/lxc/incus/commit/cf37678099cf1df79cd02a0242995d43eb2e90bc)
+- [ ] [<code>doc: Bump minimum kernel to 5.15</code>](https://github.com/lxc/incus/commit/9e3785065608acb50b8ec8ae2d3eadbbf1828de7)
+- [ ] [<code>Makefile: Bump minimal Go to 1.23</code>](https://github.com/lxc/incus/commit/992d13e6109f5f62317b95d9694b090d8e5facc3)
+- [ ] [<code>doc: Bump minimum Go to 1.23</code>](https://github.com/lxc/incus/commit/3d10a9581edf3c9e05d8374bcffbd010958be7f7)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d4edf8f6abb2d3a0fd5cb13464a53b02d5d3b075)
+- [ ] [<code>github: Re-order code tests tasks</code>](https://github.com/lxc/incus/commit/f5248708d050cec485a7316bba67921fabf5f803)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2595,6 +2613,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>golangci: Update for new generate-database syntax</code>](https://github.com/lxc/incus/commit/29828726b932f28c2982e390af854e709433f146)
 - [ ] [<code>internal/cmd/table: Improve errors on modifiers</code>](https://github.com/lxc/incus/commit/dd43e413bc40734d8b28359ae289f6940cbd2801)
+- [ ] [<code>incusd: Add additional validation when joining a new cluster member</code>](https://github.com/lxc/incus/commit/6cd2223d85d6a974dd528b96e31d67b0c2a92050)
+- [ ] [<code>incusd: Upgrade flosch/pongo2 to v6</code>](https://github.com/lxc/incus/commit/cf37678099cf1df79cd02a0242995d43eb2e90bc)
+- [ ] [<code>doc: Bump minimum kernel to 5.15</code>](https://github.com/lxc/incus/commit/9e3785065608acb50b8ec8ae2d3eadbbf1828de7)
+- [ ] [<code>Makefile: Bump minimal Go to 1.23</code>](https://github.com/lxc/incus/commit/992d13e6109f5f62317b95d9694b090d8e5facc3)
+- [ ] [<code>doc: Bump minimum Go to 1.23</code>](https://github.com/lxc/incus/commit/3d10a9581edf3c9e05d8374bcffbd010958be7f7)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d4edf8f6abb2d3a0fd5cb13464a53b02d5d3b075)
+- [ ] [<code>github: Re-order code tests tasks</code>](https://github.com/lxc/incus/commit/f5248708d050cec485a7316bba67921fabf5f803)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -4671,6 +4696,13 @@
 - [ ] [<code>Switch back to x86 hosts for POWER8+ builds. (#19686)</code>](https://github.com/netdata/netdata.git/commit/4795e5e9f7f1516ee88f7167e71bf42e9390e504)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-215-nightly.</code>](https://github.com/netdata/netdata.git/commit/da2620ebd62204d7ae041c165941bcd26dbd6038)
 - [ ] [<code>chore(go.d/mysql): InnodbOSLogIO in MariaDB >= 10.8 (#19687)</code>](https://github.com/netdata/netdata.git/commit/3115229fe80c5c31af80c6a521340b80e3758598)
+- [ ] [<code>chore(go.d/pkg/iprange): add iterator (#19688)</code>](https://github.com/netdata/netdata.git/commit/a6d9848ea134180656d4b0f16b3165597174308e)
+- [ ] [<code>load health config before creating localhost (#19689)</code>](https://github.com/netdata/netdata.git/commit/48bdd9b51b90ddc98506561febb72e568e4a072c)
+- [ ] [<code>Enable libunwind in native packages and Docker images. (#19452)</code>](https://github.com/netdata/netdata.git/commit/d44562c27d3fde93f722c0fbca25c49d4af12163)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/f210f216818d2546decdcc60897bf915638b2de6)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/490d6a5fa66823d2a460ffa298d90fbf72b94d9c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6158,6 +6190,7 @@
 - [ ] [<code>docs: add article with array specific information</code>](https://github.com/jow-/ucode/commit/338aa2ebf00e370c7b17c9c022571f2fbc858007)
 - [ ] [<code>uci: link save() and commit() functions in cursor class description</code>](https://github.com/jow-/ucode/commit/df5a79a04b17d7b4fdfd9e72c3193f36bfc95d98)
 - [ ] [<code>docs: add detailed documentation article for dictionaries</code>](https://github.com/jow-/ucode/commit/03fb60d0e4b3286fb62bbad89e7b4622903d380e)
+- [ ] [<code>ubus: add support for calling system objects</code>](https://github.com/jow-/ucode/commit/8e122f16327c59b178468c7aa53a36e31ced970c)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
