@@ -4669,6 +4669,8 @@
 - [ ] [<code>improve dyncfg src type anon message (#19684)</code>](https://github.com/netdata/netdata.git/commit/5cf6732343717eea32d941826e241e9622dd3d71)
 - [ ] [<code>allow parsing empty json arrays and objects (#19685)</code>](https://github.com/netdata/netdata.git/commit/81de3f433ede80d50c8373892f2aaf2b7a67b94e)
 - [ ] [<code>Switch back to x86 hosts for POWER8+ builds. (#19686)</code>](https://github.com/netdata/netdata.git/commit/4795e5e9f7f1516ee88f7167e71bf42e9390e504)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-215-nightly.</code>](https://github.com/netdata/netdata.git/commit/da2620ebd62204d7ae041c165941bcd26dbd6038)
+- [ ] [<code>chore(go.d/mysql): InnodbOSLogIO in MariaDB >= 10.8 (#19687)</code>](https://github.com/netdata/netdata.git/commit/3115229fe80c5c31af80c6a521340b80e3758598)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5821,6 +5823,7 @@
 - [ ] [<code>fix(lib): add mac address prefix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6831db832e47c68ba8e9c0ff897012d961e92792)
 - [ ] [<code>build: v1.19.3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cea547dcac5d4dba62070da0a8b3bc2a981aa43e)
   - <sub>Tags: <code>v1.19.3</code></sub>
+- [ ] [<code>feat(android): add themed launcher icon support</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2930208cd10abce70060c76ab3a066c641bfda99)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
