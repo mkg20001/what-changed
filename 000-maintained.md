@@ -612,6 +612,7 @@
 - [ ] [<code>doc: Bump minimum Go to 1.23</code>](https://github.com/lxc/incus/commit/3d10a9581edf3c9e05d8374bcffbd010958be7f7)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d4edf8f6abb2d3a0fd5cb13464a53b02d5d3b075)
 - [ ] [<code>github: Re-order code tests tasks</code>](https://github.com/lxc/incus/commit/f5248708d050cec485a7316bba67921fabf5f803)
+- [ ] [<code>incusd/resources: Prevent concurrent runs and cache data for 10s</code>](https://github.com/lxc/incus/commit/8a480afc5e6b3ff5453c585707e0554af8b158b1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2620,6 +2621,7 @@
 - [ ] [<code>doc: Bump minimum Go to 1.23</code>](https://github.com/lxc/incus/commit/3d10a9581edf3c9e05d8374bcffbd010958be7f7)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d4edf8f6abb2d3a0fd5cb13464a53b02d5d3b075)
 - [ ] [<code>github: Re-order code tests tasks</code>](https://github.com/lxc/incus/commit/f5248708d050cec485a7316bba67921fabf5f803)
+- [ ] [<code>incusd/resources: Prevent concurrent runs and cache data for 10s</code>](https://github.com/lxc/incus/commit/8a480afc5e6b3ff5453c585707e0554af8b158b1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
