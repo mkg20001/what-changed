@@ -304,6 +304,9 @@
 - [ ] [<code>build: Fix build tailwindcss for website</code>](https://github.com/krille-chan/fluffychat/commit/68707e57b90b1091c8e90a971d6762eee7b88d30)
   - <sub>Tags: <code>v1.25.1</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: Navigate in image viewer with keyboard keys</code>](https://github.com/krille-chan/fluffychat/commit/dfe6717a29ee844ba8414c6e62ad4b3e3c7b2b95)
+- [ ] [<code>chore: Nicer colors for reactions</code>](https://github.com/krille-chan/fluffychat/commit/9ea7d307c2a433a913a170597063ee33daea9cfb)
+- [ ] [<code>chore: Better error handling for image rendering</code>](https://github.com/krille-chan/fluffychat/commit/221c3ef6bd4318d1453a219876a4001a9d199427)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -493,6 +496,9 @@
 - [ ] [<code>build: Fix build tailwindcss for website</code>](https://github.com/krille-chan/fluffychat/commit/68707e57b90b1091c8e90a971d6762eee7b88d30)
   - <sub>Tags: <code>v1.25.1</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: Navigate in image viewer with keyboard keys</code>](https://github.com/krille-chan/fluffychat/commit/dfe6717a29ee844ba8414c6e62ad4b3e3c7b2b95)
+- [ ] [<code>chore: Nicer colors for reactions</code>](https://github.com/krille-chan/fluffychat/commit/9ea7d307c2a433a913a170597063ee33daea9cfb)
+- [ ] [<code>chore: Better error handling for image rendering</code>](https://github.com/krille-chan/fluffychat/commit/221c3ef6bd4318d1453a219876a4001a9d199427)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -613,6 +619,9 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d4edf8f6abb2d3a0fd5cb13464a53b02d5d3b075)
 - [ ] [<code>github: Re-order code tests tasks</code>](https://github.com/lxc/incus/commit/f5248708d050cec485a7316bba67921fabf5f803)
 - [ ] [<code>incusd/resources: Prevent concurrent runs and cache data for 10s</code>](https://github.com/lxc/incus/commit/8a480afc5e6b3ff5453c585707e0554af8b158b1)
+- [ ] [<code>incusd/backup: Implement compatibility with old backups</code>](https://github.com/lxc/incus/commit/7ce6af0a0153c1af468d9aa9dd9e6e8d6bd4d397)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/backup: Detect incompatible backup files</code>](https://github.com/lxc/incus/commit/b6e542f799dd7ea140165a984d2eb33a3ce8975e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2622,6 +2631,9 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d4edf8f6abb2d3a0fd5cb13464a53b02d5d3b075)
 - [ ] [<code>github: Re-order code tests tasks</code>](https://github.com/lxc/incus/commit/f5248708d050cec485a7316bba67921fabf5f803)
 - [ ] [<code>incusd/resources: Prevent concurrent runs and cache data for 10s</code>](https://github.com/lxc/incus/commit/8a480afc5e6b3ff5453c585707e0554af8b158b1)
+- [ ] [<code>incusd/backup: Implement compatibility with old backups</code>](https://github.com/lxc/incus/commit/7ce6af0a0153c1af468d9aa9dd9e6e8d6bd4d397)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/backup: Detect incompatible backup files</code>](https://github.com/lxc/incus/commit/b6e542f799dd7ea140165a984d2eb33a3ce8975e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -5934,6 +5946,19 @@
 - [ ] [<code>Fixed compilation issue (2)</code>](https://github.com/foldynl/QLog.git/commit/8dcac065e54f5b1bfc2330eb87d364571f2765ce)
 - [ ] [<code>Preparation for release 0.42.0</code>](https://github.com/foldynl/QLog.git/commit/44b58fa02da2e50abb2c69b40967b5e4c5f0e613)
   - <sub>Tags: <code>v0.42.0</code></sub>
+- [ ] [<code>Update QSODetailDialog.cpp</code>](https://github.com/foldynl/QLog.git/commit/59e6d2ce43e88cc8c9196deb13f31aaf36ddb245)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/44855ef7c1cfc15d5ae8a94db6af0d65ae0456c2)
+- [ ] [<code>Fixed a crash when no internet connection</code>](https://github.com/foldynl/QLog.git/commit/6661a869d2d3ac11844350c06139a0b181c84642)
+- [ ] [<code>Fixed #600: Unexpected Timezone info</code>](https://github.com/foldynl/QLog.git/commit/0fb78e0ba3fc07ff94afc64e494e81a849e36452)
+- [ ] [<code>Locale: Trimming Timezone string</code>](https://github.com/foldynl/QLog.git/commit/805f8e6707b7625c30f392cbf47738a5056c9f9c)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7f9a3d654092c35aa0da3e2171edd99beb978cab)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7bc7c4f8181a62ca51b3dde2786e7b267ee14a42)
+- [ ] [<code>QSO Detail: Code cleanup</code>](https://github.com/foldynl/QLog.git/commit/6f26268e0aa3bd52b1b9b6989bddbd34d69353f1)
+- [ ] [<code>Locale: Added Debug message with current formats</code>](https://github.com/foldynl/QLog.git/commit/df7db5f6d0411a6b16dd390949b47e2f285389b1)
+- [ ] [<code>Fixed time AM/PM are not translated</code>](https://github.com/foldynl/QLog.git/commit/1665a128a3f1ad349a871e7ffdd617150627faa6)
+- [ ] [<code>Fixed a crash when no internet connection (2)</code>](https://github.com/foldynl/QLog.git/commit/748ef0daa74fdbad58d9cda536624c6ad29142bd)
+- [ ] [<code>Preparation for release 0.42.1</code>](https://github.com/foldynl/QLog.git/commit/53d0d2b7b303a1534b7d3aa6b414bc5a2543bad5)
+  - <sub>Tags: <code>v0.42.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
