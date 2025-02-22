@@ -4705,6 +4705,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/f210f216818d2546decdcc60897bf915638b2de6)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/490d6a5fa66823d2a460ffa298d90fbf72b94d9c)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-222-nightly.</code>](https://github.com/netdata/netdata.git/commit/e31a81b9fea9804a048badaf4b2c5d2b847f4b2b)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.7.0 to 9.7.1 in /src/go (#19693)</code>](https://github.com/netdata/netdata.git/commit/e2708743bd785a4562ad0a707b80f02b315ad850)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 27.5.1+incompatible to 28.0.0+incompatible in /src/go (#19692)</code>](https://github.com/netdata/netdata.git/commit/83514904309705c19ec17c3cdb0b8130e250cb04)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
