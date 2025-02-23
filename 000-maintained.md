@@ -622,6 +622,7 @@
 - [ ] [<code>incusd/backup: Implement compatibility with old backups</code>](https://github.com/lxc/incus/commit/7ce6af0a0153c1af468d9aa9dd9e6e8d6bd4d397)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/backup: Detect incompatible backup files</code>](https://github.com/lxc/incus/commit/b6e542f799dd7ea140165a984d2eb33a3ce8975e)
+- [ ] [<code>fix: Don't attempt to download signatures for oci</code>](https://github.com/lxc/incus/commit/8fe18ae832a7bc79a5134f6ccd5d71caa395d0d7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2634,6 +2635,7 @@
 - [ ] [<code>incusd/backup: Implement compatibility with old backups</code>](https://github.com/lxc/incus/commit/7ce6af0a0153c1af468d9aa9dd9e6e8d6bd4d397)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/backup: Detect incompatible backup files</code>](https://github.com/lxc/incus/commit/b6e542f799dd7ea140165a984d2eb33a3ce8975e)
+- [ ] [<code>fix: Don't attempt to download signatures for oci</code>](https://github.com/lxc/incus/commit/8fe18ae832a7bc79a5134f6ccd5d71caa395d0d7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -4720,6 +4722,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-222-nightly.</code>](https://github.com/netdata/netdata.git/commit/e31a81b9fea9804a048badaf4b2c5d2b847f4b2b)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.7.0 to 9.7.1 in /src/go (#19693)</code>](https://github.com/netdata/netdata.git/commit/e2708743bd785a4562ad0a707b80f02b315ad850)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 27.5.1+incompatible to 28.0.0+incompatible in /src/go (#19692)</code>](https://github.com/netdata/netdata.git/commit/83514904309705c19ec17c3cdb0b8130e250cb04)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-225-nightly.</code>](https://github.com/netdata/netdata.git/commit/1ffc0582e99b0e0cd13dbe82c5684f5b361644a1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
