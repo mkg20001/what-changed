@@ -623,6 +623,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/backup: Detect incompatible backup files</code>](https://github.com/lxc/incus/commit/b6e542f799dd7ea140165a984d2eb33a3ce8975e)
 - [ ] [<code>fix: Don't attempt to download signatures for oci</code>](https://github.com/lxc/incus/commit/8fe18ae832a7bc79a5134f6ccd5d71caa395d0d7)
+- [ ] [<code>incusd: Ensure directories have 755 permissions in 'incus file push -p' command</code>](https://github.com/lxc/incus/commit/732d3c8c0b922c219cfbbfd4c25c5f825cea0024)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Fix test for verifying directory permissions</code>](https://github.com/lxc/incus/commit/38f8df152e4fc858b862bd098fd2c07bdf0e8bdc)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2636,6 +2640,10 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>incusd/backup: Detect incompatible backup files</code>](https://github.com/lxc/incus/commit/b6e542f799dd7ea140165a984d2eb33a3ce8975e)
 - [ ] [<code>fix: Don't attempt to download signatures for oci</code>](https://github.com/lxc/incus/commit/8fe18ae832a7bc79a5134f6ccd5d71caa395d0d7)
+- [ ] [<code>incusd: Ensure directories have 755 permissions in 'incus file push -p' command</code>](https://github.com/lxc/incus/commit/732d3c8c0b922c219cfbbfd4c25c5f825cea0024)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Fix test for verifying directory permissions</code>](https://github.com/lxc/incus/commit/38f8df152e4fc858b862bd098fd2c07bdf0e8bdc)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -4723,6 +4731,15 @@
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.7.0 to 9.7.1 in /src/go (#19693)</code>](https://github.com/netdata/netdata.git/commit/e2708743bd785a4562ad0a707b80f02b315ad850)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 27.5.1+incompatible to 28.0.0+incompatible in /src/go (#19692)</code>](https://github.com/netdata/netdata.git/commit/83514904309705c19ec17c3cdb0b8130e250cb04)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-225-nightly.</code>](https://github.com/netdata/netdata.git/commit/1ffc0582e99b0e0cd13dbe82c5684f5b361644a1)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/fe97753a7c7f79412f784c306b505c6c76c13c32)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/dff505745b84ae3016cc21e8d474fe30aeac018c)
+- [ ] [<code>change the moto and the description of netdata (#19696)</code>](https://github.com/netdata/netdata.git/commit/6d90975e0283cbc159a408d86262119e2d1fde49)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/17874e268718c21e0175902f9cab71147160f48e)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/2719a88592a9d3b7c77f2f2cae34010f9d510c0b)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/1f5724e378fbe77a7d4ca58483c19a5c8abfe297)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/830d0695c080d19d182c758a3d10cd94e726d42d)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/4dfb57ddaf4c5cfaec0196d98a2d3a4cd9bd9b7d)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/ac29e9414dae153312af4598407a9b7ae5d51165)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
