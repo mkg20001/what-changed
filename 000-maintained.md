@@ -4740,6 +4740,12 @@
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/830d0695c080d19d182c758a3d10cd94e726d42d)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/4dfb57ddaf4c5cfaec0196d98a2d3a4cd9bd9b7d)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/ac29e9414dae153312af4598407a9b7ae5d51165)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-235-nightly.</code>](https://github.com/netdata/netdata.git/commit/91a4f189ebd70bd708c9f18dbe19abe08f28e0f4)
+- [ ] [<code>build(deps): bump github.com/sijms/go-ora/v2 from 2.8.23 to 2.8.24 in /src/go (#19698)</code>](https://github.com/netdata/netdata.git/commit/2be518af94bba4f3094320e4a2ebd48b39bb4db9)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4.6.0 to 4.6.1 (#19697)</code>](https://github.com/netdata/netdata.git/commit/eeb121e7047fb71977bf830647830e52f7473786)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/d3df51ab2b4cfeb2fe62b4011dfcd5a1d724cf2f)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/c12ede367f1decd6f71cd1d53ad030ef73f67843)
+- [ ] [<code>build(deps): update go.d packages (#19700)</code>](https://github.com/netdata/netdata.git/commit/84f48b5a4fb1f9beff331e5b89244fa96703fb39)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
