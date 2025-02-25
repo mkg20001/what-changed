@@ -3033,6 +3033,9 @@
 - [ ] [<code>Re-enable the RgbColorTypeWithTrnsBeforePlte test</code>](https://github.com/AOMediaCodec/libavif/commit/602b79cd19fcc8f4448759d30fd8dbf4fcd2308b)
 - [ ] [<code>Describe what changed</code>](https://github.com/AOMediaCodec/libavif/commit/ae966be4fb39f98326ff89669043dc676977f8ba)
 - [ ] [<code>Make it clear that the best quality is lossless</code>](https://github.com/AOMediaCodec/libavif/commit/c3a92347b6d90f3f86debe2628ad082ceae155cf)
+- [ ] [<code>Use new SVT 3.0.0 EbSvtAv1EncConfig::lossless (#2630)</code>](https://github.com/AOMediaCodec/libavif/commit/6451b9dabbcac3e3392e7c00fc72908fab2e65ab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add CHANGELOG entry for SVT level_of_parallelism (#2641)</code>](https://github.com/AOMediaCodec/libavif/commit/ddc5ab411ab61bd2f02bf8559069d8d3b93701df)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4765,6 +4768,7 @@
 - [ ] [<code>under MSYS2 use stat (#19703)</code>](https://github.com/netdata/netdata.git/commit/787a961acfd96ca12e74b6dcd175f5b9fdb8631a)
 - [ ] [<code>add host/os fields to status file (#19704)</code>](https://github.com/netdata/netdata.git/commit/6402d03fc4b3bc2cb98597b30f5c40de294c93b9)
 - [ ] [<code>Document journal v2 index file format. (#19701)</code>](https://github.com/netdata/netdata.git/commit/81171c91bc992befd0f8d33861010d07dbb353c4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-245-nightly.</code>](https://github.com/netdata/netdata.git/commit/eff6c389be9af757e05cd123ed54ea4de8731f44)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
