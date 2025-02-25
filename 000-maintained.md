@@ -3032,6 +3032,7 @@
 - [ ] [<code>Update changelog for #2625 and #2621 (#2636)</code>](https://github.com/AOMediaCodec/libavif/commit/589a05d5c66a9cc4bc1a79bcc4488e87769fbbe3)
 - [ ] [<code>Re-enable the RgbColorTypeWithTrnsBeforePlte test</code>](https://github.com/AOMediaCodec/libavif/commit/602b79cd19fcc8f4448759d30fd8dbf4fcd2308b)
 - [ ] [<code>Describe what changed</code>](https://github.com/AOMediaCodec/libavif/commit/ae966be4fb39f98326ff89669043dc676977f8ba)
+- [ ] [<code>Make it clear that the best quality is lossless</code>](https://github.com/AOMediaCodec/libavif/commit/c3a92347b6d90f3f86debe2628ad082ceae155cf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
