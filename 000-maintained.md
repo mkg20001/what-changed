@@ -664,6 +664,15 @@
 - [ ] [<code>incusd/device/disk: Remove diskAddRootUserNSEntry</code>](https://github.com/lxc/incus/commit/b885c4c47784ab1bc23ad57c2a4a9e378db99138)
 - [ ] [<code>incusd/device/disk: Use virtiofsd uid/gid handling</code>](https://github.com/lxc/incus/commit/64431b94c2cfd6379f18a3cfad30c81215bde163)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>generate-database: Add error mapping</code>](https://github.com/lxc/incus/commit/f8098d8fafca70dded72daf6607e2db19178cc84)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Use error mapping</code>](https://github.com/lxc/incus/commit/4e645f660d67100313d0bb815b919519e54440c8)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/f19074d802d2ba245dfc5e53bbf6467d9784d19f)
+- [ ] [<code>generate-database: Make self-sufficient</code>](https://github.com/lxc/incus/commit/60934d9a4ed2722c98e12ad3e1bbe70f7b812107)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/bc52a6f88f17cdac6abc26c0031a6c5fd6338879)
+- [ ] [<code>generate-database: Improve case handling</code>](https://github.com/lxc/incus/commit/035acd3d8a2930cffdaa34c6516f88a4b526d623)
+- [ ] [<code>incus/list: Remove unused arguments and parameters</code>](https://github.com/lxc/incus/commit/43f2ead5d2c287684b67c670877c3fd0c0b85d1d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2692,6 +2701,15 @@
 - [ ] [<code>incusd/device/disk: Remove diskAddRootUserNSEntry</code>](https://github.com/lxc/incus/commit/b885c4c47784ab1bc23ad57c2a4a9e378db99138)
 - [ ] [<code>incusd/device/disk: Use virtiofsd uid/gid handling</code>](https://github.com/lxc/incus/commit/64431b94c2cfd6379f18a3cfad30c81215bde163)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>generate-database: Add error mapping</code>](https://github.com/lxc/incus/commit/f8098d8fafca70dded72daf6607e2db19178cc84)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db: Use error mapping</code>](https://github.com/lxc/incus/commit/4e645f660d67100313d0bb815b919519e54440c8)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/f19074d802d2ba245dfc5e53bbf6467d9784d19f)
+- [ ] [<code>generate-database: Make self-sufficient</code>](https://github.com/lxc/incus/commit/60934d9a4ed2722c98e12ad3e1bbe70f7b812107)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/bc52a6f88f17cdac6abc26c0031a6c5fd6338879)
+- [ ] [<code>generate-database: Improve case handling</code>](https://github.com/lxc/incus/commit/035acd3d8a2930cffdaa34c6516f88a4b526d623)
+- [ ] [<code>incus/list: Remove unused arguments and parameters</code>](https://github.com/lxc/incus/commit/43f2ead5d2c287684b67c670877c3fd0c0b85d1d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/0.15 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/0.15...HEAD)
 
@@ -3029,6 +3047,8 @@
 - [ ] [<code>Fix Unix artifact generation workflow permissions (#2645)</code>](https://github.com/AOMediaCodec/libavif/commit/bd26097fdc0972457bf1f477d50268b1532e638b)
 - [ ] [<code>Update README build instructions (#2642)</code>](https://github.com/AOMediaCodec/libavif/commit/31d13993420f34b5af1d11d69d9f82844d98e645)
 - [ ] [<code>Remove -static in ci-windows-artifacts workflow (#2648)</code>](https://github.com/AOMediaCodec/libavif/commit/60695257556303d69c1750f9bb5f8e220c20c7a1)
+- [ ] [<code>Disable ext-partitions and uneven-4way in avm (#2647)</code>](https://github.com/AOMediaCodec/libavif/commit/ccfc16016ed264be3223a4649f61cd5f02807fe3)
+- [ ] [<code>Remove fully static instructions (#2649)</code>](https://github.com/AOMediaCodec/libavif/commit/e65e25f21c80b37d1bef03db8606572ccef7aeab)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4771,6 +4791,16 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-251-nightly.</code>](https://github.com/netdata/netdata.git/commit/b38a0e36ec6259d0a602a8d2a78a37b4c2a98520)
 - [ ] [<code>Fix Fresh Installation on Microsoft (#19710)</code>](https://github.com/netdata/netdata.git/commit/0e73adaac7b022b51a01f03479d08c5c2b75a9d5)
 - [ ] [<code>4 malloc arenas for parents, not IoT (#19711)</code>](https://github.com/netdata/netdata.git/commit/17a0348d1cabd399408d1c1f6643b591f362fa6c)
+- [ ] [<code>deduplicate all crash reports (#19712)</code>](https://github.com/netdata/netdata.git/commit/00c4ad86489786e41273d3c32dccc3f764df2c6c)
+- [ ] [<code>systemd-journal: allow almost all fields to be facets (#19713)</code>](https://github.com/netdata/netdata.git/commit/fbc551a9e4ce419c3ac996f141718b86054d5562)
+- [ ] [<code>do not use mmap when the mmap limit is too low (#19714)</code>](https://github.com/netdata/netdata.git/commit/b71bc97008bfb55742503e67a67899fe2d71147c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>do not call cleanup and exit on fatal conditions during startup (#19715)</code>](https://github.com/netdata/netdata.git/commit/147d100d1d34b5a0037a12ac2e9004a4e16dc32a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(go.d): add file persister (#19716)</code>](https://github.com/netdata/netdata.git/commit/483bda2d02674f93373d9b4418c435a0ad3e4854)
+- [ ] [<code>unified out of memory handling (#19717)</code>](https://github.com/netdata/netdata.git/commit/4ee0830534942520ff6dada6274795dce6ae64b9)
+- [ ] [<code>attempt to save status file from the signal handler (#19718)</code>](https://github.com/netdata/netdata.git/commit/4df24b169996afffe7a2b0bea3ff5224de844f19)
+- [ ] [<code>save status on out of memory event (#19719)</code>](https://github.com/netdata/netdata.git/commit/ddbf7003cccc67fdb9e326880d7e7ca770090e1e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
