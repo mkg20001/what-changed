@@ -658,6 +658,10 @@
 - [ ] [<code>generate-config: Formatting README.md</code>](https://github.com/lxc/incus/commit/a84f3a31aad0e04e3c9cc80b62002e4a6ebca0e2)
 - [ ] [<code>generate-config: Add internal tool disclaimer</code>](https://github.com/lxc/incus/commit/c31e10604ce0e6e3b4ef4b552cabe3d893cdae56)
 - [ ] [<code>incusd/storage/drivers: Truncate the block file during custom volume migration</code>](https://github.com/lxc/incus/commit/e2d7ef563e1270cc40e0ce665bfd9b2e48b14ba4)
+- [ ] [<code>incusd/instance/qemu: Don't attempt to hotplug over the virtual IOMMU</code>](https://github.com/lxc/incus/commit/f82cd227b68911dd1c92c4b285e954f565d7c0f3)
+- [ ] [<code>incusd/device/disk: Remove diskAddRootUserNSEntry</code>](https://github.com/lxc/incus/commit/b885c4c47784ab1bc23ad57c2a4a9e378db99138)
+- [ ] [<code>incusd/device/disk: Use virtiofsd uid/gid handling</code>](https://github.com/lxc/incus/commit/64431b94c2cfd6379f18a3cfad30c81215bde163)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2682,6 +2686,10 @@
 - [ ] [<code>generate-config: Formatting README.md</code>](https://github.com/lxc/incus/commit/a84f3a31aad0e04e3c9cc80b62002e4a6ebca0e2)
 - [ ] [<code>generate-config: Add internal tool disclaimer</code>](https://github.com/lxc/incus/commit/c31e10604ce0e6e3b4ef4b552cabe3d893cdae56)
 - [ ] [<code>incusd/storage/drivers: Truncate the block file during custom volume migration</code>](https://github.com/lxc/incus/commit/e2d7ef563e1270cc40e0ce665bfd9b2e48b14ba4)
+- [ ] [<code>incusd/instance/qemu: Don't attempt to hotplug over the virtual IOMMU</code>](https://github.com/lxc/incus/commit/f82cd227b68911dd1c92c4b285e954f565d7c0f3)
+- [ ] [<code>incusd/device/disk: Remove diskAddRootUserNSEntry</code>](https://github.com/lxc/incus/commit/b885c4c47784ab1bc23ad57c2a4a9e378db99138)
+- [ ] [<code>incusd/device/disk: Use virtiofsd uid/gid handling</code>](https://github.com/lxc/incus/commit/64431b94c2cfd6379f18a3cfad30c81215bde163)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
 
@@ -3074,6 +3082,7 @@
 - [ ] [<code>Add missing CXX compiler to artifacts workflows (#2644)</code>](https://github.com/AOMediaCodec/libavif/commit/2d33face463d5f6a1f2023f3d8892101354dc5be)
 - [ ] [<code>Fix Unix artifact generation workflow permissions (#2645)</code>](https://github.com/AOMediaCodec/libavif/commit/bd26097fdc0972457bf1f477d50268b1532e638b)
 - [ ] [<code>Update README build instructions (#2642)</code>](https://github.com/AOMediaCodec/libavif/commit/31d13993420f34b5af1d11d69d9f82844d98e645)
+- [ ] [<code>Remove -static in ci-windows-artifacts workflow (#2648)</code>](https://github.com/AOMediaCodec/libavif/commit/60695257556303d69c1750f9bb5f8e220c20c7a1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4812,6 +4821,7 @@
 - [ ] [<code>daemon status improvements 3 (#19707)</code>](https://github.com/netdata/netdata.git/commit/728e36596bbecffe9fc41f758ee5c088dc10c901)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Check for final step (#19708)</code>](https://github.com/netdata/netdata.git/commit/ede4ba0182f0ba27df274d4ef1c8f448a57e5504)
+- [ ] [<code>Avoid post initialization errors repeateadly (#19709)</code>](https://github.com/netdata/netdata.git/commit/84a207f559e1656ccda87941acbd87a416c77fd5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
