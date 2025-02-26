@@ -319,6 +319,7 @@
 - [ ] [<code>chore: Follow up input row</code>](https://github.com/krille-chan/fluffychat/commit/cc41a3bada9819ce4246f1d65ca969b93a305330)
 - [ ] [<code>chore: Follow up gallery picker</code>](https://github.com/krille-chan/fluffychat/commit/eb446af438158c3661c2767d544c35f0cb94c6e4)
 - [ ] [<code>chore: Better no compression supported UX</code>](https://github.com/krille-chan/fluffychat/commit/a8bf39aca0d25e70184376fe76e6f857b89eb7cf)
+- [ ] [<code>fix: prevent users from creating spaces with empty names</code>](https://github.com/krille-chan/fluffychat/commit/6959d8be00f49395d6a238fd91fff7ea1b5b98ef)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -523,6 +524,7 @@
 - [ ] [<code>chore: Follow up input row</code>](https://github.com/krille-chan/fluffychat/commit/cc41a3bada9819ce4246f1d65ca969b93a305330)
 - [ ] [<code>chore: Follow up gallery picker</code>](https://github.com/krille-chan/fluffychat/commit/eb446af438158c3661c2767d544c35f0cb94c6e4)
 - [ ] [<code>chore: Better no compression supported UX</code>](https://github.com/krille-chan/fluffychat/commit/a8bf39aca0d25e70184376fe76e6f857b89eb7cf)
+- [ ] [<code>fix: prevent users from creating spaces with empty names</code>](https://github.com/krille-chan/fluffychat/commit/6959d8be00f49395d6a238fd91fff7ea1b5b98ef)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2691,64 +2693,8 @@
 - [ ] [<code>incusd/device/disk: Use virtiofsd uid/gid handling</code>](https://github.com/lxc/incus/commit/64431b94c2cfd6379f18a3cfad30c81215bde163)
   - <sub>Keywords: <code>subprocess</code></sub>
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.6...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/0.15 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/0.15...HEAD)
 
-- [ ] [<code>fix(volume) snapshots can have an empty expiry and we should show that correctly</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8295c558c278ffb9811695f05799fa630e1b8dd)
-- [ ] [<code>volume snapshots can have an empty expiry (#1011)</code>](https://github.com/zabbly/incus-ui-canonical/commit/49da9c2f98699ecc1275848ab53e9059692f58cc)
-- [ ] [<code>chore(config) use shared tsconfig from design system WD-17093</code>](https://github.com/zabbly/incus-ui-canonical/commit/3a54c9002603970b44cf0b168c885efa2e7343a4)
-- [ ] [<code>fix(project) improve design of project form, move storage selector above the feature selection to have feature and restrictions closer together</code>](https://github.com/zabbly/incus-ui-canonical/commit/2e807dd24fbc691af6e15e9622dc4af26734d3c5)
-- [ ] [<code>fix(instance) link image and cluster member on instance overview page</code>](https://github.com/zabbly/incus-ui-canonical/commit/13c4a2430e596c199b9e7c908fd5829560f4ea39)
-- [ ] [<code>Improve design of project form (#1013)</code>](https://github.com/zabbly/incus-ui-canonical/commit/75479d303ddd3884562976c93fc9bdb28a243ebf)
-- [ ] [<code>Link image and cluster member on instance overview page (#1014)</code>](https://github.com/zabbly/incus-ui-canonical/commit/031bd73565b7d349636665abc4f6204f2a0a368c)
-- [ ] [<code>Use shared tsconfig from design system (#999)</code>](https://github.com/zabbly/incus-ui-canonical/commit/9d04bbe8ef4ad60860301cdea072853ae7805c0e)
-- [ ] [<code>chore(icon) remove unused icon</code>](https://github.com/zabbly/incus-ui-canonical/commit/bb7000eb6189d870d0bf115e864d854d44003415)
-- [ ] [<code>fix(image) avoid retrying image index reload to ease experience in airgapped environments</code>](https://github.com/zabbly/incus-ui-canonical/commit/00dea9eaf6d6fca32add4556d59592653dd65f1d)
-- [ ] [<code>fix(font) embed font to avoid loading it from the assets server to support air gapped deployments</code>](https://github.com/zabbly/incus-ui-canonical/commit/c47d8028d09cb08ab2ed2ccd8a0585d0941a4cb8)
-- [ ] [<code>fix: silence sass depracation warnings</code>](https://github.com/zabbly/incus-ui-canonical/commit/6f8abeb9855a4cc98aa50e214983411493d88d46)
-- [ ] [<code>fix(image) use all projects parameter to resolve image fingerprints in permission config. show project for images in permission selector</code>](https://github.com/zabbly/incus-ui-canonical/commit/2afc11f93bde489e346d5f6b5d760d8ed38e77b5)
-- [ ] [<code>Add airgap support (#1015)</code>](https://github.com/zabbly/incus-ui-canonical/commit/02e668dd3b3886dbf4657310eb5c99fcee196a9b)
-- [ ] [<code>Use all projects parameter to resolve image fingerprints in permission config (#1017)</code>](https://github.com/zabbly/incus-ui-canonical/commit/fa007c4b74dc65ea4eb18568f503fda1a76f8066)
-- [ ] [<code>fix: silence sass depracation warnings (#1016)</code>](https://github.com/zabbly/incus-ui-canonical/commit/0fb9efabff998ea7fc180deb105b5f268d7c9870)
-- [ ] [<code>feat: [WD-16399] Improve storage pool selector</code>](https://github.com/zabbly/incus-ui-canonical/commit/dc456d2ed21c6e2e7f2b6b67ab5b72b5e69c0a42)
-- [ ] [<code>feat: [WD-16399] Improve storage pool selector (#991)</code>](https://github.com/zabbly/incus-ui-canonical/commit/be988cbafaab333a570edf7d3b68961bff0f8efd)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.3</code>](https://github.com/zabbly/incus-ui-canonical/commit/da16ebc34749ddc5794eaab849237e5e5a266221)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(storage) show meter bar in storage list and other places, only hide it in the storage selector</code>](https://github.com/zabbly/incus-ui-canonical/commit/511cde9e9b3d5f90d01bce7c8cd9743b69a8c14e)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.3 (#1020)</code>](https://github.com/zabbly/incus-ui-canonical/commit/84c35170740cfd3e15cc32ecf3c0ba81ea37c331)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix: show meter bar in storage list and other places (#1023)</code>](https://github.com/zabbly/incus-ui-canonical/commit/4a67fcafb41fcbe8f069ef3cae1bb9b6e3c5a1d6)
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.4</code>](https://github.com/zabbly/incus-ui-canonical/commit/339f8b0e82627b1b6cbe4c7947d0f8b616ebb6c4)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency vanilla-framework to v4.18.4 (#1024)</code>](https://github.com/zabbly/incus-ui-canonical/commit/a25db9e8127879c23ba93d88638701c0151c12e9)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): bump nanoid in the npm_and_yarn group across 1 directory</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8e19d2a21421fff5e479af39a477f146448434b)
-- [ ] [<code>chore(deps): bump nanoid from 3.3.7 to 3.3.8 in the npm_and_yarn group across 1 directory (#1025)</code>](https://github.com/zabbly/incus-ui-canonical/commit/54551b588160ddb529e3c7f9008f856f0bda0621)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.2</code>](https://github.com/zabbly/incus-ui-canonical/commit/ff55316a77938f5b94827f8c74c2c665f5457fb9)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>feat: [WD-16894] Add bulk deletion of TLS Users</code>](https://github.com/zabbly/incus-ui-canonical/commit/a33ba9f5308fd70b9452ca527b6d06108a5396c0)
-- [ ] [<code>feat: [WD-16894] Add bulk deletion and group modification of TLS Users (#1008)</code>](https://github.com/zabbly/incus-ui-canonical/commit/87d33b540ee280fe9a10745b86e53262ffd7a2f1)
-- [ ] [<code>fix: fix host path device display</code>](https://github.com/zabbly/incus-ui-canonical/commit/5d8c3eaec9407c9789cb1c2054da95309131fec4)
-- [ ] [<code>feat: add support for host path disk devices</code>](https://github.com/zabbly/incus-ui-canonical/commit/29b4040b39f92336c3ec30622365aa85b62f9662)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.2 (#1028)</code>](https://github.com/zabbly/incus-ui-canonical/commit/133cb269884786c0935ffdc15dc9470556b2a38e)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>feat: WD-17682 review changes no.1 (To be squashed)</code>](https://github.com/zabbly/incus-ui-canonical/commit/662280bfa690aa00209f503899b04e935071d039)
-- [ ] [<code>feat: add support for instance/profile host path devices [WD-17682] (#1019)</code>](https://github.com/zabbly/incus-ui-canonical/commit/6e88058456407a42341ce6773bbbf4b2b20239ca)
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.3</code>](https://github.com/zabbly/incus-ui-canonical/commit/20d226fd35ee8dcf676e3bb4ce41494cce2f21d6)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>chore(deps): update dependency @canonical/react-components to v1.7.3 (#1029)</code>](https://github.com/zabbly/incus-ui-canonical/commit/04c281ecbab45f4e11cdf5825ffb465bc0a52df5)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix(permissions) group selection ux for identities or idp groups. Allow clicking on the name of the group to select and deselect</code>](https://github.com/zabbly/incus-ui-canonical/commit/a7e27a7352928f5941a491088627dd957d0ec6a7)
-- [ ] [<code>fix(permissions) improve identities table column widths</code>](https://github.com/zabbly/incus-ui-canonical/commit/cb0f0335503b0683ed416abdfad9a8d6046c5951)
-- [ ] [<code>fix(permissions) link identity groups count to edit panel</code>](https://github.com/zabbly/incus-ui-canonical/commit/e6bf524bd4ac712ac2b109bb4f8448e47faea5ae)
-- [ ] [<code>fix(permissions) improve identities table column widths (#1032)</code>](https://github.com/zabbly/incus-ui-canonical/commit/7489aa0824a8f2be20e6ff5cd85cabba0e3da016)
-- [ ] [<code>fix(permissions) link identity groups count to edit panel (#1033)</code>](https://github.com/zabbly/incus-ui-canonical/commit/9665053769e8ef37c03f1ff511cae11c49acd185)
-- [ ] [<code>feat: [WD-16972] TLS user creation spike</code>](https://github.com/zabbly/incus-ui-canonical/commit/613cf93c5a9ace075325864ae8afcf2f1d85e4f4)
-- [ ] [<code>feat: [WD-16972] TLS user management spike. (#1026)</code>](https://github.com/zabbly/incus-ui-canonical/commit/6116d36e8b8cc4135752504b21ec1687f23337aa)
-- [ ] [<code>Group selection ux for identities or idp groups (#1031)</code>](https://github.com/zabbly/incus-ui-canonical/commit/b6832ba7e64a0bab20a3a06c19d0774c5717f728)
-- [ ] [<code>fix(networks) ensure volatile keys are preserved, when saving a network. see https://github.com/canonical/lxd/issues/14531</code>](https://github.com/zabbly/incus-ui-canonical/commit/9e9c0d9051992069563eddf1b2c9bedbf6d8e6bc)
-- [ ] [<code>Ensure volatile keys are preserved, when saving a network (#1036)</code>](https://github.com/zabbly/incus-ui-canonical/commit/69a96172f97801d0328e6570ca0e1e44ea294d43)
-- [ ] [<code>chore(version) update to 0.15</code>](https://github.com/zabbly/incus-ui-canonical/commit/9275167fe13162233bb9d7d1353d298539305b9d)
-  - <sub>Tags: <code>0.15</code></sub>
 - [ ] [<code>Update all external links</code>](https://github.com/zabbly/incus-ui-canonical/commit/cdb2aadfc68478191bb7e7d99238d7e4219bf748)
 - [ ] [<code>Branding</code>](https://github.com/zabbly/incus-ui-canonical/commit/76a13aa048ab84a65524a75cfd0cea474a6ab7a2)
 - [ ] [<code>Update certificate generation</code>](https://github.com/zabbly/incus-ui-canonical/commit/52a41c8d369760ea53445952c62d355ed97bd0fe)
@@ -4822,6 +4768,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Check for final step (#19708)</code>](https://github.com/netdata/netdata.git/commit/ede4ba0182f0ba27df274d4ef1c8f448a57e5504)
 - [ ] [<code>Avoid post initialization errors repeateadly (#19709)</code>](https://github.com/netdata/netdata.git/commit/84a207f559e1656ccda87941acbd87a416c77fd5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-251-nightly.</code>](https://github.com/netdata/netdata.git/commit/b38a0e36ec6259d0a602a8d2a78a37b4c2a98520)
+- [ ] [<code>Fix Fresh Installation on Microsoft (#19710)</code>](https://github.com/netdata/netdata.git/commit/0e73adaac7b022b51a01f03479d08c5c2b75a9d5)
+- [ ] [<code>4 malloc arenas for parents, not IoT (#19711)</code>](https://github.com/netdata/netdata.git/commit/17a0348d1cabd399408d1c1f6643b591f362fa6c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
