@@ -320,6 +320,7 @@
 - [ ] [<code>chore: Follow up gallery picker</code>](https://github.com/krille-chan/fluffychat/commit/eb446af438158c3661c2767d544c35f0cb94c6e4)
 - [ ] [<code>chore: Better no compression supported UX</code>](https://github.com/krille-chan/fluffychat/commit/a8bf39aca0d25e70184376fe76e6f857b89eb7cf)
 - [ ] [<code>fix: prevent users from creating spaces with empty names</code>](https://github.com/krille-chan/fluffychat/commit/6959d8be00f49395d6a238fd91fff7ea1b5b98ef)
+- [ ] [<code>fix: update condition in account deletion function to allow deletion to go through</code>](https://github.com/krille-chan/fluffychat/commit/eb83cd90eb7d2500d56e0e780688f28f50b934b7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -525,6 +526,7 @@
 - [ ] [<code>chore: Follow up gallery picker</code>](https://github.com/krille-chan/fluffychat/commit/eb446af438158c3661c2767d544c35f0cb94c6e4)
 - [ ] [<code>chore: Better no compression supported UX</code>](https://github.com/krille-chan/fluffychat/commit/a8bf39aca0d25e70184376fe76e6f857b89eb7cf)
 - [ ] [<code>fix: prevent users from creating spaces with empty names</code>](https://github.com/krille-chan/fluffychat/commit/6959d8be00f49395d6a238fd91fff7ea1b5b98ef)
+- [ ] [<code>fix: update condition in account deletion function to allow deletion to go through</code>](https://github.com/krille-chan/fluffychat/commit/eb83cd90eb7d2500d56e0e780688f28f50b934b7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -674,6 +676,19 @@
 - [ ] [<code>incus/list: Remove unused arguments and parameters</code>](https://github.com/lxc/incus/commit/43f2ead5d2c287684b67c670877c3fd0c0b85d1d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/top: Fix handling of all-projects</code>](https://github.com/lxc/incus/commit/f2d0e48a5963b0b890abaf8c67f55dde8073e7f4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/drivers: Refactor ceph discovery</code>](https://github.com/lxc/incus/commit/b753a33827b6b53d4312d3e875ad40704cc64385)
+  - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/drivers: Let QEMU handle Ceph itself</code>](https://github.com/lxc/incus/commit/0e8e51937ff423ad6cb285311b13c50dc22adf4a)
+- [ ] [<code>incus/file: Simplify sftpCreateFile</code>](https://github.com/lxc/incus/commit/ad1f9aeab1b8f8195fab7a6cbd9de496793144b1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Change recursiveFilePush to use SFTP</code>](https://github.com/lxc/incus/commit/f9f020a0b127ea765fccb67861f8694f98a355c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Change recursiveMkdir to use SFTP</code>](https://github.com/lxc/incus/commit/9ba89f61cf5637aef9327ea80d26094f56598676)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Change recursivePullFile to use SFTP</code>](https://github.com/lxc/incus/commit/5ebd3da0b3dc453d9693272eef7ca9bccfb460da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Re-use SFTP as much as possible</code>](https://github.com/lxc/incus/commit/075b09824fee8f1f5c211cee7835b89be045ff2a)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
@@ -2713,6 +2728,19 @@
 - [ ] [<code>incus/list: Remove unused arguments and parameters</code>](https://github.com/lxc/incus/commit/43f2ead5d2c287684b67c670877c3fd0c0b85d1d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/top: Fix handling of all-projects</code>](https://github.com/lxc/incus/commit/f2d0e48a5963b0b890abaf8c67f55dde8073e7f4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/drivers: Refactor ceph discovery</code>](https://github.com/lxc/incus/commit/b753a33827b6b53d4312d3e875ad40704cc64385)
+  - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/drivers: Let QEMU handle Ceph itself</code>](https://github.com/lxc/incus/commit/0e8e51937ff423ad6cb285311b13c50dc22adf4a)
+- [ ] [<code>incus/file: Simplify sftpCreateFile</code>](https://github.com/lxc/incus/commit/ad1f9aeab1b8f8195fab7a6cbd9de496793144b1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Change recursiveFilePush to use SFTP</code>](https://github.com/lxc/incus/commit/f9f020a0b127ea765fccb67861f8694f98a355c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Change recursiveMkdir to use SFTP</code>](https://github.com/lxc/incus/commit/9ba89f61cf5637aef9327ea80d26094f56598676)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Change recursivePullFile to use SFTP</code>](https://github.com/lxc/incus/commit/5ebd3da0b3dc453d9693272eef7ca9bccfb460da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Re-use SFTP as much as possible</code>](https://github.com/lxc/incus/commit/075b09824fee8f1f5c211cee7835b89be045ff2a)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
@@ -4865,6 +4893,9 @@
 - [ ] [<code>more status file annotations (#19721)</code>](https://github.com/netdata/netdata.git/commit/9c6d274d39b3e57f2274e11e6bcd965a046cb2ce)
 - [ ] [<code>status has install type (#19722)</code>](https://github.com/netdata/netdata.git/commit/46a0dd964f177e80ba811a044f65d88db63bbe7e)
 - [ ] [<code>minor status file annotation fixes (#19723)</code>](https://github.com/netdata/netdata.git/commit/dc8b731c47f138d48032d6693b9270b6bb5f6bdc)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-265-nightly.</code>](https://github.com/netdata/netdata.git/commit/2a19625dee0f1edf1e5f08f456da5b2fc762a406)
+- [ ] [<code>allow configuring journal v2 unmount time; turn it off for parents (#19724)</code>](https://github.com/netdata/netdata.git/commit/899053e655994d9ed8581f5e0284f4817eb4fa8d)
+- [ ] [<code>handle flushing state during exit (#19725)</code>](https://github.com/netdata/netdata.git/commit/1cb57b50f26b783ed4164e0043312c6be3c82a7b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
