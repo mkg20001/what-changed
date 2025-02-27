@@ -4896,6 +4896,8 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-265-nightly.</code>](https://github.com/netdata/netdata.git/commit/2a19625dee0f1edf1e5f08f456da5b2fc762a406)
 - [ ] [<code>allow configuring journal v2 unmount time; turn it off for parents (#19724)</code>](https://github.com/netdata/netdata.git/commit/899053e655994d9ed8581f5e0284f4817eb4fa8d)
 - [ ] [<code>handle flushing state during exit (#19725)</code>](https://github.com/netdata/netdata.git/commit/1cb57b50f26b783ed4164e0043312c6be3c82a7b)
+- [ ] [<code>improve status file deduplication (#19726)</code>](https://github.com/netdata/netdata.git/commit/acb738e873011da5f227704189eb8c359147b3da)
+- [ ] [<code>docs: clarify Windows Agent limits on free plans (#19727)</code>](https://github.com/netdata/netdata.git/commit/1f7a2cb1cb1a924489e12228f4b52b6f90ffba0c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
