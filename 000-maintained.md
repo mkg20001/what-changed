@@ -3195,6 +3195,8 @@
 - [ ] [<code>Disable ext-partitions and uneven-4way in avm (#2647)</code>](https://github.com/AOMediaCodec/libavif/commit/ccfc16016ed264be3223a4649f61cd5f02807fe3)
 - [ ] [<code>Remove fully static instructions (#2649)</code>](https://github.com/AOMediaCodec/libavif/commit/e65e25f21c80b37d1bef03db8606572ccef7aeab)
 - [ ] [<code>y4m: Remove some repeated code</code>](https://github.com/AOMediaCodec/libavif/commit/1015bef1179d6b34e1ddb4ed220338cce7bf53e0)
+- [ ] [<code>libargparse: use a git patch file instead of sed command (#2654)</code>](https://github.com/AOMediaCodec/libavif/commit/ebfc97fa8f318460e1cfd6368e47c970741e2682)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4960,6 +4962,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>improved descriptions of exit reasons (#19730)</code>](https://github.com/netdata/netdata.git/commit/0244b18608758a75cd15913a4c7a7c58f12927f5)
 - [ ] [<code>fix json generation of apps.plugin processes function info (#19732)</code>](https://github.com/netdata/netdata.git/commit/b1c78c095cf42826990c9d002996e0528dbf6c8f)
+- [ ] [<code>support https_proxy too (#19733)</code>](https://github.com/netdata/netdata.git/commit/e3b7abee30003db641d38520be2ebda33ec22ea8)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/8f68c4be4636ed83261a7f6c486079681c993ec2)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/6fd6603e9d27931b2fee672295dff341de74f114)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/0e6b3cbdc5ec47e5f7d69ef72a7242cfed001bbc)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/cc7327a881598c2dee0a44e463a81e5905b3ac5b)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/fc81ba7f466d7cfc671e011965f76c165cc00361)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/4c3a8a4e2c18f3891b2cc3decf50b6349cec4a81)
+- [ ] [<code>add more information about claiming failures (#19735)</code>](https://github.com/netdata/netdata.git/commit/337d603093d80ee4b54d22a88e6680a571abc19c)
+- [ ] [<code>allow insecure cloud connections (#19736)</code>](https://github.com/netdata/netdata.git/commit/a8444c221e0931f63451bb518d601f678f3424d6)
+- [ ] [<code>add another step when initializing web (#19731)</code>](https://github.com/netdata/netdata.git/commit/ea1f3733a1d48a624024997dfee26060b35b39df)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6130,21 +6142,8 @@
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.42.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.42.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.42.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.42.1...HEAD)
 
-- [ ] [<code>Update QSODetailDialog.cpp</code>](https://github.com/foldynl/QLog.git/commit/59e6d2ce43e88cc8c9196deb13f31aaf36ddb245)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/44855ef7c1cfc15d5ae8a94db6af0d65ae0456c2)
-- [ ] [<code>Fixed a crash when no internet connection</code>](https://github.com/foldynl/QLog.git/commit/6661a869d2d3ac11844350c06139a0b181c84642)
-- [ ] [<code>Fixed #600: Unexpected Timezone info</code>](https://github.com/foldynl/QLog.git/commit/0fb78e0ba3fc07ff94afc64e494e81a849e36452)
-- [ ] [<code>Locale: Trimming Timezone string</code>](https://github.com/foldynl/QLog.git/commit/805f8e6707b7625c30f392cbf47738a5056c9f9c)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7f9a3d654092c35aa0da3e2171edd99beb978cab)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/7bc7c4f8181a62ca51b3dde2786e7b267ee14a42)
-- [ ] [<code>QSO Detail: Code cleanup</code>](https://github.com/foldynl/QLog.git/commit/6f26268e0aa3bd52b1b9b6989bddbd34d69353f1)
-- [ ] [<code>Locale: Added Debug message with current formats</code>](https://github.com/foldynl/QLog.git/commit/df7db5f6d0411a6b16dd390949b47e2f285389b1)
-- [ ] [<code>Fixed time AM/PM are not translated</code>](https://github.com/foldynl/QLog.git/commit/1665a128a3f1ad349a871e7ffdd617150627faa6)
-- [ ] [<code>Fixed a crash when no internet connection (2)</code>](https://github.com/foldynl/QLog.git/commit/748ef0daa74fdbad58d9cda536624c6ad29142bd)
-- [ ] [<code>Preparation for release 0.42.1</code>](https://github.com/foldynl/QLog.git/commit/53d0d2b7b303a1534b7d3aa6b414bc5a2543bad5)
-  - <sub>Tags: <code>v0.42.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
