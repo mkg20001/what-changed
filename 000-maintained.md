@@ -56,6 +56,7 @@
 - [ ] [<code>Makefile: Remove deprecated -d flag</code>](https://github.com/lxc/distrobuilder/commit/0c10eb7c566a2a2efc50e7c7277a83556c980534)
 - [ ] [<code>Makefile: Remove GOCACHE</code>](https://github.com/lxc/distrobuilder/commit/aebe74c533f7f885f26dc0779692da5417b14fe4)
 - [ ] [<code>README: Fix badge</code>](https://github.com/lxc/distrobuilder/commit/cdd3873e64bbb0bfb0a94fc5d8bcd0b6d12cd72d)
+- [ ] [<code>sources: Add Alpaquita downloader</code>](https://github.com/lxc/distrobuilder/commit/b8a93a357c51d185881b92b8a84cb85f566eb65d)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -709,6 +710,15 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/e9881313336cb158f0ac8fe8be3c1af8413df505)
 - [ ] [<code>tests: Test more API filters</code>](https://github.com/lxc/incus/commit/a74af3e4ca97ca24e99598f1b465eccfcb74d48d)
 - [ ] [<code>doc: Remove mention of limitations on filtering</code>](https://github.com/lxc/incus/commit/7bfbea8d23dc66afb0cdc33143de456358c35c83)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5719547f37d465b6f3e58576dbb568a570c9640a)
+- [ ] [<code>api: acme_dns01</code>](https://github.com/lxc/incus/commit/c4ea6d9bee1bc446137156ae47c514a8c8f46680)
+- [ ] [<code>incusd/cluster/config: Add extra ACME config keys</code>](https://github.com/lxc/incus/commit/634f525a53abce8e1d2ca7d960cb04185ae892a4)
+- [ ] [<code>incusd/acme: Add DNS-01 support</code>](https://github.com/lxc/incus/commit/a12666e3e69b8650b4f987247b9474ef77da0922)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1f627019b2f04135c60144e608a0e24ac412209a)
+- [ ] [<code>doc: Add resolvers to wordlist</code>](https://github.com/lxc/incus/commit/59c1dba8138258abe9aa7372ac035bf466314196)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/2db43a8404b316d60149e1da430512f5ab83ad1a)
+- [ ] [<code>Release Incus 6.10</code>](https://github.com/lxc/incus/commit/9fb85c5638538072c97cd1de5ab46126a36725ba)
+  - <sub>Tags: <code>v6.10.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2779,6 +2789,15 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/e9881313336cb158f0ac8fe8be3c1af8413df505)
 - [ ] [<code>tests: Test more API filters</code>](https://github.com/lxc/incus/commit/a74af3e4ca97ca24e99598f1b465eccfcb74d48d)
 - [ ] [<code>doc: Remove mention of limitations on filtering</code>](https://github.com/lxc/incus/commit/7bfbea8d23dc66afb0cdc33143de456358c35c83)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5719547f37d465b6f3e58576dbb568a570c9640a)
+- [ ] [<code>api: acme_dns01</code>](https://github.com/lxc/incus/commit/c4ea6d9bee1bc446137156ae47c514a8c8f46680)
+- [ ] [<code>incusd/cluster/config: Add extra ACME config keys</code>](https://github.com/lxc/incus/commit/634f525a53abce8e1d2ca7d960cb04185ae892a4)
+- [ ] [<code>incusd/acme: Add DNS-01 support</code>](https://github.com/lxc/incus/commit/a12666e3e69b8650b4f987247b9474ef77da0922)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1f627019b2f04135c60144e608a0e24ac412209a)
+- [ ] [<code>doc: Add resolvers to wordlist</code>](https://github.com/lxc/incus/commit/59c1dba8138258abe9aa7372ac035bf466314196)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/2db43a8404b316d60149e1da430512f5ab83ad1a)
+- [ ] [<code>Release Incus 6.10</code>](https://github.com/lxc/incus/commit/9fb85c5638538072c97cd1de5ab46126a36725ba)
+  - <sub>Tags: <code>v6.10.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
@@ -2874,6 +2893,7 @@
 - [ ] [<code>Show MAC address on instance overview page</code>](https://github.com/zabbly/incus-ui-canonical/commit/ce7090e54dd3490a7eecec18770faaef0cd28aa6)
 - [ ] [<code>Add support for storage live migration in UI</code>](https://github.com/zabbly/incus-ui-canonical/commit/0d8adee32605d266cd8bd138bdfe72d5c464755f)
 - [ ] [<code>Add missing return to function</code>](https://github.com/zabbly/incus-ui-canonical/commit/2ea5cec8a49a0ddc77afd7db7be5cf79f6ae6912)
+  - <sub>Tags: <code>incus-0.15.0</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4936,6 +4956,10 @@
 - [ ] [<code>improve status file deduplication (#19726)</code>](https://github.com/netdata/netdata.git/commit/acb738e873011da5f227704189eb8c359147b3da)
 - [ ] [<code>docs: clarify Windows Agent limits on free plans (#19727)</code>](https://github.com/netdata/netdata.git/commit/1f7a2cb1cb1a924489e12228f4b52b6f90ffba0c)
 - [ ] [<code>do not post empty reports (#19729)</code>](https://github.com/netdata/netdata.git/commit/aa8ea2fca8f50e4d86e5e3d0411c12a409cb34e4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-271-nightly.</code>](https://github.com/netdata/netdata.git/commit/1734febbf1fd4385ef8796da0d9a1775a7edf68d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improved descriptions of exit reasons (#19730)</code>](https://github.com/netdata/netdata.git/commit/0244b18608758a75cd15913a4c7a7c58f12927f5)
+- [ ] [<code>fix json generation of apps.plugin processes function info (#19732)</code>](https://github.com/netdata/netdata.git/commit/b1c78c095cf42826990c9d002996e0528dbf6c8f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
