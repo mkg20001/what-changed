@@ -55,6 +55,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Makefile: Remove deprecated -d flag</code>](https://github.com/lxc/distrobuilder/commit/0c10eb7c566a2a2efc50e7c7277a83556c980534)
 - [ ] [<code>Makefile: Remove GOCACHE</code>](https://github.com/lxc/distrobuilder/commit/aebe74c533f7f885f26dc0779692da5417b14fe4)
+- [ ] [<code>README: Fix badge</code>](https://github.com/lxc/distrobuilder/commit/cdd3873e64bbb0bfb0a94fc5d8bcd0b6d12cd72d)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -690,6 +691,24 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file: Re-use SFTP as much as possible</code>](https://github.com/lxc/incus/commit/075b09824fee8f1f5c211cee7835b89be045ff2a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/filter: Handle multiple in-line structs</code>](https://github.com/lxc/incus/commit/9532cd36cc398fa82d9379ded14b3616f041c5f3)
+- [ ] [<code>api: api_filtering_extended</code>](https://github.com/lxc/incus/commit/3454dd4368c7cc5997dd74c83d862b984584087e)
+- [ ] [<code>incusd: Add filtering to /1.0/networks</code>](https://github.com/lxc/incus/commit/ec4eb47bd7658d34ccfa6e2858b4e6bd48a08c28)
+- [ ] [<code>incusd: Add filtering to /1.0/networks/{networkName}/forwards</code>](https://github.com/lxc/incus/commit/021b47bdd4b41c86309e970d7653d16d293c0a8e)
+- [ ] [<code>incusd: Add filtering to /1.0/networks/{networkName}/load-balancers</code>](https://github.com/lxc/incus/commit/3852748292cce70e32bb7a9957ae76828c8f3da4)
+- [ ] [<code>incusd: Add filtering to /1.0/networks/{networkName}/peers</code>](https://github.com/lxc/incus/commit/dac305d88e3925ad06233df26d7d7aac5b8af519)
+- [ ] [<code>incusd: Add filtering to /1.0/network-acls</code>](https://github.com/lxc/incus/commit/eaa2b7bc219b285360a1f1e39eccf528cb1462c0)
+- [ ] [<code>incusd: Add filtering to /1.0/network-integrations</code>](https://github.com/lxc/incus/commit/04d35082086a8be23c9b2fb1c887c857149a33c6)
+- [ ] [<code>incusd: Add filtering to /1.0/network-zones</code>](https://github.com/lxc/incus/commit/d3ee41d3c7364ef8ed4b01abcc6155ab01eee747)
+- [ ] [<code>incusd: Add filtering to /1.0/network-zones/{zone}/records</code>](https://github.com/lxc/incus/commit/cbb7aa1dcebc650575514d341dd5bdb8eb73f2db)
+- [ ] [<code>incusd: Add filtering to /1.0/storage-pools</code>](https://github.com/lxc/incus/commit/ace17c5572ecfee4e59f424cc441c48b66c07aab)
+- [ ] [<code>incusd: Add filtering to /1.0/storage-pools/{poolName}/buckets</code>](https://github.com/lxc/incus/commit/3f92f1d99a1d30cad0fda89f22dcd06c7456f39b)
+- [ ] [<code>incusd: Add filtering to /1.0/certificates</code>](https://github.com/lxc/incus/commit/31b30f5b2ae06cf9edc09c04449fe446a265e2ba)
+- [ ] [<code>incusd: Add filtering to /1.0/profiles</code>](https://github.com/lxc/incus/commit/f644c11e68a98e8a612f13144c35770767bf1fc0)
+- [ ] [<code>incusd: Add filtering to /1.0/projects</code>](https://github.com/lxc/incus/commit/d4189bf1bc44c352858e2e49ac2188aa7c633e64)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/e9881313336cb158f0ac8fe8be3c1af8413df505)
+- [ ] [<code>tests: Test more API filters</code>](https://github.com/lxc/incus/commit/a74af3e4ca97ca24e99598f1b465eccfcb74d48d)
+- [ ] [<code>doc: Remove mention of limitations on filtering</code>](https://github.com/lxc/incus/commit/7bfbea8d23dc66afb0cdc33143de456358c35c83)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2742,6 +2761,24 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file: Re-use SFTP as much as possible</code>](https://github.com/lxc/incus/commit/075b09824fee8f1f5c211cee7835b89be045ff2a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/filter: Handle multiple in-line structs</code>](https://github.com/lxc/incus/commit/9532cd36cc398fa82d9379ded14b3616f041c5f3)
+- [ ] [<code>api: api_filtering_extended</code>](https://github.com/lxc/incus/commit/3454dd4368c7cc5997dd74c83d862b984584087e)
+- [ ] [<code>incusd: Add filtering to /1.0/networks</code>](https://github.com/lxc/incus/commit/ec4eb47bd7658d34ccfa6e2858b4e6bd48a08c28)
+- [ ] [<code>incusd: Add filtering to /1.0/networks/{networkName}/forwards</code>](https://github.com/lxc/incus/commit/021b47bdd4b41c86309e970d7653d16d293c0a8e)
+- [ ] [<code>incusd: Add filtering to /1.0/networks/{networkName}/load-balancers</code>](https://github.com/lxc/incus/commit/3852748292cce70e32bb7a9957ae76828c8f3da4)
+- [ ] [<code>incusd: Add filtering to /1.0/networks/{networkName}/peers</code>](https://github.com/lxc/incus/commit/dac305d88e3925ad06233df26d7d7aac5b8af519)
+- [ ] [<code>incusd: Add filtering to /1.0/network-acls</code>](https://github.com/lxc/incus/commit/eaa2b7bc219b285360a1f1e39eccf528cb1462c0)
+- [ ] [<code>incusd: Add filtering to /1.0/network-integrations</code>](https://github.com/lxc/incus/commit/04d35082086a8be23c9b2fb1c887c857149a33c6)
+- [ ] [<code>incusd: Add filtering to /1.0/network-zones</code>](https://github.com/lxc/incus/commit/d3ee41d3c7364ef8ed4b01abcc6155ab01eee747)
+- [ ] [<code>incusd: Add filtering to /1.0/network-zones/{zone}/records</code>](https://github.com/lxc/incus/commit/cbb7aa1dcebc650575514d341dd5bdb8eb73f2db)
+- [ ] [<code>incusd: Add filtering to /1.0/storage-pools</code>](https://github.com/lxc/incus/commit/ace17c5572ecfee4e59f424cc441c48b66c07aab)
+- [ ] [<code>incusd: Add filtering to /1.0/storage-pools/{poolName}/buckets</code>](https://github.com/lxc/incus/commit/3f92f1d99a1d30cad0fda89f22dcd06c7456f39b)
+- [ ] [<code>incusd: Add filtering to /1.0/certificates</code>](https://github.com/lxc/incus/commit/31b30f5b2ae06cf9edc09c04449fe446a265e2ba)
+- [ ] [<code>incusd: Add filtering to /1.0/profiles</code>](https://github.com/lxc/incus/commit/f644c11e68a98e8a612f13144c35770767bf1fc0)
+- [ ] [<code>incusd: Add filtering to /1.0/projects</code>](https://github.com/lxc/incus/commit/d4189bf1bc44c352858e2e49ac2188aa7c633e64)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/e9881313336cb158f0ac8fe8be3c1af8413df505)
+- [ ] [<code>tests: Test more API filters</code>](https://github.com/lxc/incus/commit/a74af3e4ca97ca24e99598f1b465eccfcb74d48d)
+- [ ] [<code>doc: Remove mention of limitations on filtering</code>](https://github.com/lxc/incus/commit/7bfbea8d23dc66afb0cdc33143de456358c35c83)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
@@ -4898,6 +4935,7 @@
 - [ ] [<code>handle flushing state during exit (#19725)</code>](https://github.com/netdata/netdata.git/commit/1cb57b50f26b783ed4164e0043312c6be3c82a7b)
 - [ ] [<code>improve status file deduplication (#19726)</code>](https://github.com/netdata/netdata.git/commit/acb738e873011da5f227704189eb8c359147b3da)
 - [ ] [<code>docs: clarify Windows Agent limits on free plans (#19727)</code>](https://github.com/netdata/netdata.git/commit/1f7a2cb1cb1a924489e12228f4b52b6f90ffba0c)
+- [ ] [<code>do not post empty reports (#19729)</code>](https://github.com/netdata/netdata.git/commit/aa8ea2fca8f50e4d86e5e3d0411c12a409cb34e4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
