@@ -17,7 +17,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.4/dbeaver-ce-24.3.4-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.4/dbeaver-ce-24.3.4-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.5/dbeaver-ce-24.3.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.5/dbeaver-ce-24.3.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -719,6 +719,9 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/2db43a8404b316d60149e1da430512f5ab83ad1a)
 - [ ] [<code>Release Incus 6.10</code>](https://github.com/lxc/incus/commit/9fb85c5638538072c97cd1de5ab46126a36725ba)
   - <sub>Tags: <code>v6.10.0</code></sub>
+- [ ] [<code>incusd/network/bridge: Fix deletion of tunnels and dummy devices</code>](https://github.com/lxc/incus/commit/2c146c0ef96b6ccbcfb648065dfd201a37a4915f)
+- [ ] [<code>incusd/device/disk: Include cluster name and config path in RBD string</code>](https://github.com/lxc/incus/commit/20dff3230ea0a1d0a0e26a45c1a4e6c95fb3ada2)
+- [ ] [<code>incusd/instance/qemu: Provide the RBD keyring to QEMU</code>](https://github.com/lxc/incus/commit/62b7ba1b1a28a9e87793af78db5589aef67dd6b9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2798,6 +2801,9 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/2db43a8404b316d60149e1da430512f5ab83ad1a)
 - [ ] [<code>Release Incus 6.10</code>](https://github.com/lxc/incus/commit/9fb85c5638538072c97cd1de5ab46126a36725ba)
   - <sub>Tags: <code>v6.10.0</code></sub>
+- [ ] [<code>incusd/network/bridge: Fix deletion of tunnels and dummy devices</code>](https://github.com/lxc/incus/commit/2c146c0ef96b6ccbcfb648065dfd201a37a4915f)
+- [ ] [<code>incusd/device/disk: Include cluster name and config path in RBD string</code>](https://github.com/lxc/incus/commit/20dff3230ea0a1d0a0e26a45c1a4e6c95fb3ada2)
+- [ ] [<code>incusd/instance/qemu: Provide the RBD keyring to QEMU</code>](https://github.com/lxc/incus/commit/62b7ba1b1a28a9e87793af78db5589aef67dd6b9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
@@ -4972,6 +4978,8 @@
 - [ ] [<code>add more information about claiming failures (#19735)</code>](https://github.com/netdata/netdata.git/commit/337d603093d80ee4b54d22a88e6680a571abc19c)
 - [ ] [<code>allow insecure cloud connections (#19736)</code>](https://github.com/netdata/netdata.git/commit/a8444c221e0931f63451bb518d601f678f3424d6)
 - [ ] [<code>add another step when initializing web (#19731)</code>](https://github.com/netdata/netdata.git/commit/ea1f3733a1d48a624024997dfee26060b35b39df)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-284-nightly.</code>](https://github.com/netdata/netdata.git/commit/be1a567df61b8b26ec03f250d1f70934cef12fdf)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
