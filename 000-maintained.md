@@ -3203,6 +3203,7 @@
 - [ ] [<code>y4m: Remove some repeated code</code>](https://github.com/AOMediaCodec/libavif/commit/1015bef1179d6b34e1ddb4ed220338cce7bf53e0)
 - [ ] [<code>libargparse: use a git patch file instead of sed command (#2654)</code>](https://github.com/AOMediaCodec/libavif/commit/ebfc97fa8f318460e1cfd6368e47c970741e2682)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/3e58f004f231589cffbffd10300e947daba71327)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4980,6 +4981,9 @@
 - [ ] [<code>add another step when initializing web (#19731)</code>](https://github.com/netdata/netdata.git/commit/ea1f3733a1d48a624024997dfee26060b35b39df)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-284-nightly.</code>](https://github.com/netdata/netdata.git/commit/be1a567df61b8b26ec03f250d1f70934cef12fdf)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Capture deadly signals (#19737)</code>](https://github.com/netdata/netdata.git/commit/abd80bee16fdf41b6258b6726892aace20a3fff2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>zero mtime when a fallback check fails (#19740)</code>](https://github.com/netdata/netdata.git/commit/eed19849d27ca3692f5221db603aa1988380b830)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
