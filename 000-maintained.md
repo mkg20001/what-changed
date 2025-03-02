@@ -323,6 +323,8 @@
 - [ ] [<code>chore: Better no compression supported UX</code>](https://github.com/krille-chan/fluffychat/commit/a8bf39aca0d25e70184376fe76e6f857b89eb7cf)
 - [ ] [<code>fix: prevent users from creating spaces with empty names</code>](https://github.com/krille-chan/fluffychat/commit/6959d8be00f49395d6a238fd91fff7ea1b5b98ef)
 - [ ] [<code>fix: update condition in account deletion function to allow deletion to go through</code>](https://github.com/krille-chan/fluffychat/commit/eb83cd90eb7d2500d56e0e780688f28f50b934b7)
+- [ ] [<code>fix: Remove too sensitive dismiss gesture on chat list items</code>](https://github.com/krille-chan/fluffychat/commit/7a47a6a595883acd0e7332f78a4e53de66831f63)
+- [ ] [<code>fix: Add missing <s> html tag to render</code>](https://github.com/krille-chan/fluffychat/commit/a91646d2ba52b1a03f56cdfbd08f239a5cd2bb86)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -529,6 +531,8 @@
 - [ ] [<code>chore: Better no compression supported UX</code>](https://github.com/krille-chan/fluffychat/commit/a8bf39aca0d25e70184376fe76e6f857b89eb7cf)
 - [ ] [<code>fix: prevent users from creating spaces with empty names</code>](https://github.com/krille-chan/fluffychat/commit/6959d8be00f49395d6a238fd91fff7ea1b5b98ef)
 - [ ] [<code>fix: update condition in account deletion function to allow deletion to go through</code>](https://github.com/krille-chan/fluffychat/commit/eb83cd90eb7d2500d56e0e780688f28f50b934b7)
+- [ ] [<code>fix: Remove too sensitive dismiss gesture on chat list items</code>](https://github.com/krille-chan/fluffychat/commit/7a47a6a595883acd0e7332f78a4e53de66831f63)
+- [ ] [<code>fix: Add missing <s> html tag to render</code>](https://github.com/krille-chan/fluffychat/commit/a91646d2ba52b1a03f56cdfbd08f239a5cd2bb86)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4984,6 +4988,7 @@
 - [ ] [<code>Capture deadly signals (#19737)</code>](https://github.com/netdata/netdata.git/commit/abd80bee16fdf41b6258b6726892aace20a3fff2)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>zero mtime when a fallback check fails (#19740)</code>](https://github.com/netdata/netdata.git/commit/eed19849d27ca3692f5221db603aa1988380b830)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-287-nightly.</code>](https://github.com/netdata/netdata.git/commit/0c5dcc12c270da625ebc3691f5feae9ceb6fe8eb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
