@@ -4989,6 +4989,11 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>zero mtime when a fallback check fails (#19740)</code>](https://github.com/netdata/netdata.git/commit/eed19849d27ca3692f5221db603aa1988380b830)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-287-nightly.</code>](https://github.com/netdata/netdata.git/commit/0c5dcc12c270da625ebc3691f5feae9ceb6fe8eb)
+- [ ] [<code>work on agent-events crashes (#19741)</code>](https://github.com/netdata/netdata.git/commit/39a34f785b6597988c4a9bd96b316541ca7621dd)
+- [ ] [<code>fix(go.d): ignore sigpipe to exit gracefully (#19739)</code>](https://github.com/netdata/netdata.git/commit/04ab0c52d24788898a5cd0fa98086e2ec3d51b55)
+- [ ] [<code>allow coredumps to be generated (#19743)</code>](https://github.com/netdata/netdata.git/commit/488d286c9b5f29cdaa29a6f2dfea72a218fbe2ad)
+- [ ] [<code>pass NULL to sensors_init() when the standard files exist in /etc/ (#19744)</code>](https://github.com/netdata/netdata.git/commit/e523030594bd829480afed8638627796044637c6)
+- [ ] [<code>more strict parsing of the output of system-info.sh (#19745)</code>](https://github.com/netdata/netdata.git/commit/9f9d2649888a3ebe7a6c4dfd2d9cdc22886660a5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
