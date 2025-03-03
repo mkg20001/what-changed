@@ -736,6 +736,10 @@
 - [ ] [<code>doc: Add passthrough and IOMMU to wordlist</code>](https://github.com/lxc/incus/commit/9a76e51bd00bdfbaa3f49e182c5f587a326c3369)
 - [ ] [<code>incusd/storage/ceph: Re-introduce keyring parsing</code>](https://github.com/lxc/incus/commit/7de13bdd146bb27f12d8f857187778b12675dadb)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release Incus 6.10.1</code>](https://github.com/lxc/incus/commit/d7242ac92a03147e43895153467b0a376077b86e)
+  - <sub>Tags: <code>v6.10.1</code></sub>
+- [ ] [<code>incusd/instance/lxc: Allow unprivileged users to use ping in application containers</code>](https://github.com/lxc/incus/commit/3d12d99474ab34bce5fe6f8dc47518dc3ec25e6d)
+- [ ] [<code>incusd/instance/lxc: Allow unprivileged users in application containers to bind to all ports</code>](https://github.com/lxc/incus/commit/d0a5d5dd03b7cc0bcf5e96a937e000b6e815ac9f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2828,6 +2832,10 @@
 - [ ] [<code>doc: Add passthrough and IOMMU to wordlist</code>](https://github.com/lxc/incus/commit/9a76e51bd00bdfbaa3f49e182c5f587a326c3369)
 - [ ] [<code>incusd/storage/ceph: Re-introduce keyring parsing</code>](https://github.com/lxc/incus/commit/7de13bdd146bb27f12d8f857187778b12675dadb)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Release Incus 6.10.1</code>](https://github.com/lxc/incus/commit/d7242ac92a03147e43895153467b0a376077b86e)
+  - <sub>Tags: <code>v6.10.1</code></sub>
+- [ ] [<code>incusd/instance/lxc: Allow unprivileged users to use ping in application containers</code>](https://github.com/lxc/incus/commit/3d12d99474ab34bce5fe6f8dc47518dc3ec25e6d)
+- [ ] [<code>incusd/instance/lxc: Allow unprivileged users in application containers to bind to all ports</code>](https://github.com/lxc/incus/commit/d0a5d5dd03b7cc0bcf5e96a937e000b6e815ac9f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
@@ -3303,6 +3311,7 @@
 - [ ] [<code>github: Switch to native arm64 runners</code>](https://github.com/lxc/lxc/commit/9c9c27e8c4aa79cbbb2aaeed27b3be3d447ec154)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Added LXC_IPV6_ENABLE option for lxc-net to enable or disable IPv6</code>](https://github.com/lxc/lxc/commit/d047d81b7745467610ec3fa1667bbb50a3b265d0)
+- [ ] [<code>sysconfig/lxc: remove false comment</code>](https://github.com/lxc/lxc/commit/31cd14682212113c5f8230d993c66ba7c630ec72)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -5014,6 +5023,12 @@
 - [ ] [<code>allow coredumps to be generated (#19743)</code>](https://github.com/netdata/netdata.git/commit/488d286c9b5f29cdaa29a6f2dfea72a218fbe2ad)
 - [ ] [<code>pass NULL to sensors_init() when the standard files exist in /etc/ (#19744)</code>](https://github.com/netdata/netdata.git/commit/e523030594bd829480afed8638627796044637c6)
 - [ ] [<code>more strict parsing of the output of system-info.sh (#19745)</code>](https://github.com/netdata/netdata.git/commit/9f9d2649888a3ebe7a6c4dfd2d9cdc22886660a5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-293-nightly.</code>](https://github.com/netdata/netdata.git/commit/66e676518ff682b861e878a58db7b6de317e37f0)
+- [ ] [<code>build(deps): bump github.com/gosnmp/gosnmp from 1.38.0 to 1.39.0 in /src/go (#19747)</code>](https://github.com/netdata/netdata.git/commit/6b539d7c32ca05e4d81afba0f2ea24863b4d1724)
+- [ ] [<code>build(deps): bump github.com/axiomhq/hyperloglog from 0.2.3 to 0.2.5 in /src/go (#19750)</code>](https://github.com/netdata/netdata.git/commit/81f9d6f9e895536971261ae7ea06636ca09a42a4)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.2 to 1.17.3 in /src/go (#19748)</code>](https://github.com/netdata/netdata.git/commit/924783426c0fef179cabc9c5c002f772b549dccf)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.0.0+incompatible to 28.0.1+incompatible in /src/go (#19746)</code>](https://github.com/netdata/netdata.git/commit/d0a392ff7b767c236ffb10712840a0c0815190a2)
+- [ ] [<code>build(deps): bump github.com/likexian/whois from 1.15.5 to 1.15.6 in /src/go (#19749)</code>](https://github.com/netdata/netdata.git/commit/f3d3cc47c488fd0608510ecd0117f1857095c849)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
