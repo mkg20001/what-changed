@@ -325,6 +325,7 @@
 - [ ] [<code>fix: update condition in account deletion function to allow deletion to go through</code>](https://github.com/krille-chan/fluffychat/commit/eb83cd90eb7d2500d56e0e780688f28f50b934b7)
 - [ ] [<code>fix: Remove too sensitive dismiss gesture on chat list items</code>](https://github.com/krille-chan/fluffychat/commit/7a47a6a595883acd0e7332f78a4e53de66831f63)
 - [ ] [<code>fix: Add missing <s> html tag to render</code>](https://github.com/krille-chan/fluffychat/commit/a91646d2ba52b1a03f56cdfbd08f239a5cd2bb86)
+- [ ] [<code>refactor: Remove custom font and emoji font workaround</code>](https://github.com/krille-chan/fluffychat/commit/cd83c6e5ab29ff384e56bb1d8b1493828ed67469)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -533,6 +534,7 @@
 - [ ] [<code>fix: update condition in account deletion function to allow deletion to go through</code>](https://github.com/krille-chan/fluffychat/commit/eb83cd90eb7d2500d56e0e780688f28f50b934b7)
 - [ ] [<code>fix: Remove too sensitive dismiss gesture on chat list items</code>](https://github.com/krille-chan/fluffychat/commit/7a47a6a595883acd0e7332f78a4e53de66831f63)
 - [ ] [<code>fix: Add missing <s> html tag to render</code>](https://github.com/krille-chan/fluffychat/commit/a91646d2ba52b1a03f56cdfbd08f239a5cd2bb86)
+- [ ] [<code>refactor: Remove custom font and emoji font workaround</code>](https://github.com/krille-chan/fluffychat/commit/cd83c6e5ab29ff384e56bb1d8b1493828ed67469)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -738,8 +740,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Release Incus 6.10.1</code>](https://github.com/lxc/incus/commit/d7242ac92a03147e43895153467b0a376077b86e)
   - <sub>Tags: <code>v6.10.1</code></sub>
+- [ ] [<code>doc: Clarify virtiofsd requirements</code>](https://github.com/lxc/incus/commit/50f6ae84dd01606f313094005d8a1dab227da3dc)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users to use ping in application containers</code>](https://github.com/lxc/incus/commit/3d12d99474ab34bce5fe6f8dc47518dc3ec25e6d)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users in application containers to bind to all ports</code>](https://github.com/lxc/incus/commit/d0a5d5dd03b7cc0bcf5e96a937e000b6e815ac9f)
+- [ ] [<code>incusd/db: Add missing go:generate directive</code>](https://github.com/lxc/incus/commit/51ea4c9c57a7298b3d63b5497127d5a3336a4b18)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/5b9c975fac1ea30b9e44b66f28b61564242430e7)
+- [ ] [<code>incusd/device/disk: Do not allow mounting of custom block volume snapshots</code>](https://github.com/lxc/incus/commit/4b88ca4ac1013ae540e6e2d16eac75a2d968ec64)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2834,8 +2840,12 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Release Incus 6.10.1</code>](https://github.com/lxc/incus/commit/d7242ac92a03147e43895153467b0a376077b86e)
   - <sub>Tags: <code>v6.10.1</code></sub>
+- [ ] [<code>doc: Clarify virtiofsd requirements</code>](https://github.com/lxc/incus/commit/50f6ae84dd01606f313094005d8a1dab227da3dc)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users to use ping in application containers</code>](https://github.com/lxc/incus/commit/3d12d99474ab34bce5fe6f8dc47518dc3ec25e6d)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users in application containers to bind to all ports</code>](https://github.com/lxc/incus/commit/d0a5d5dd03b7cc0bcf5e96a937e000b6e815ac9f)
+- [ ] [<code>incusd/db: Add missing go:generate directive</code>](https://github.com/lxc/incus/commit/51ea4c9c57a7298b3d63b5497127d5a3336a4b18)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/5b9c975fac1ea30b9e44b66f28b61564242430e7)
+- [ ] [<code>incusd/device/disk: Do not allow mounting of custom block volume snapshots</code>](https://github.com/lxc/incus/commit/4b88ca4ac1013ae540e6e2d16eac75a2d968ec64)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
@@ -3236,6 +3246,11 @@
 - [ ] [<code>libargparse: use a git patch file instead of sed command (#2654)</code>](https://github.com/AOMediaCodec/libavif/commit/ebfc97fa8f318460e1cfd6368e47c970741e2682)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/3e58f004f231589cffbffd10300e947daba71327)
+- [ ] [<code>Use C99 syntax to initialize avifFileType struct (#2657)</code>](https://github.com/AOMediaCodec/libavif/commit/640df130534f696edbf291cde87f9245d9b20e1c)
+- [ ] [<code>Bump some Rust dependencies (#2658)</code>](https://github.com/AOMediaCodec/libavif/commit/47802385f0ef0bc84c4b35bca18fe080d64eb7de)
+- [ ] [<code>Use default for tensorflow with libavm (#2624)</code>](https://github.com/AOMediaCodec/libavif/commit/6b31024fdd123b292494aed0c672eefa320a71d4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code> <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5029,6 +5044,11 @@
 - [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.2 to 1.17.3 in /src/go (#19748)</code>](https://github.com/netdata/netdata.git/commit/924783426c0fef179cabc9c5c002f772b549dccf)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.0.0+incompatible to 28.0.1+incompatible in /src/go (#19746)</code>](https://github.com/netdata/netdata.git/commit/d0a392ff7b767c236ffb10712840a0c0815190a2)
 - [ ] [<code>build(deps): bump github.com/likexian/whois from 1.15.5 to 1.15.6 in /src/go (#19749)</code>](https://github.com/netdata/netdata.git/commit/f3d3cc47c488fd0608510ecd0117f1857095c849)
+- [ ] [<code>status file improvements (dedup and signal handler use) (#19751)</code>](https://github.com/netdata/netdata.git/commit/6da3a165090ab00f5966cd3ce431b3f315c52b25)
+- [ ] [<code>status file version 8 (#19753)</code>](https://github.com/netdata/netdata.git/commit/86b5acbfcf70b2f140ef96d87d2ea72aa5ad948e)
+- [ ] [<code>feat(go.d): add snmp devices discovery (#19720)</code>](https://github.com/netdata/netdata.git/commit/d373112c44e8806738a49f90570ba7df545b2a3c)
+- [ ] [<code>chore(go.d/sd/snmp): comment out  defaults in snmp.conf (#19755)</code>](https://github.com/netdata/netdata.git/commit/9692d1bb10f1c01de195975605ac012b9f426b0c)
+- [ ] [<code>improvement(go.d/sd/snmp): support device cache ttl 0 (#19756)</code>](https://github.com/netdata/netdata.git/commit/a3e54253a18c99ba79caa6a579c64ef2a75e24fb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
