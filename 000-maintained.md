@@ -726,6 +726,16 @@
 - [ ] [<code>incusd/network/bridge: Fix deletion of tunnels and dummy devices</code>](https://github.com/lxc/incus/commit/2c146c0ef96b6ccbcfb648065dfd201a37a4915f)
 - [ ] [<code>incusd/device/disk: Include cluster name and config path in RBD string</code>](https://github.com/lxc/incus/commit/20dff3230ea0a1d0a0e26a45c1a4e6c95fb3ada2)
 - [ ] [<code>incusd/instance/qemu: Provide the RBD keyring to QEMU</code>](https://github.com/lxc/incus/commit/62b7ba1b1a28a9e87793af78db5589aef67dd6b9)
+- [ ] [<code>api: security_iommu</code>](https://github.com/lxc/incus/commit/dd730f1909acddf120b23732e219b20d2812c1a0)
+- [ ] [<code>internal/instance: Add security.iommu</code>](https://github.com/lxc/incus/commit/eafc41c8b9a21eab09760d20f2b3acd0529e26d7)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/4263d66e86f81e422fb56bf001ae3dc51f38dba2)
+- [ ] [<code>incusd/instance/qemu: Simplify Windows detection</code>](https://github.com/lxc/incus/commit/20a2220326e5075ea0bc0531055304edfd543766)
+- [ ] [<code>incusd/instance/qemu: Implement security.iommu</code>](https://github.com/lxc/incus/commit/c768f1e0c0fd2c45b8a4b27302abfb869dc3f6bf)
+- [ ] [<code>incusd/instance/qemu: Add IOMMU for Windows</code>](https://github.com/lxc/incus/commit/87515e71947ad735db7a13f666680d9110f94ac8)
+- [ ] [<code>incusd/instance/qemu: Configure irqchip for split mode with IOMMU</code>](https://github.com/lxc/incus/commit/f43bfa8c855af7462f54d144672c2025a6969337)
+- [ ] [<code>doc: Add passthrough and IOMMU to wordlist</code>](https://github.com/lxc/incus/commit/9a76e51bd00bdfbaa3f49e182c5f587a326c3369)
+- [ ] [<code>incusd/storage/ceph: Re-introduce keyring parsing</code>](https://github.com/lxc/incus/commit/7de13bdd146bb27f12d8f857187778b12675dadb)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2808,6 +2818,16 @@
 - [ ] [<code>incusd/network/bridge: Fix deletion of tunnels and dummy devices</code>](https://github.com/lxc/incus/commit/2c146c0ef96b6ccbcfb648065dfd201a37a4915f)
 - [ ] [<code>incusd/device/disk: Include cluster name and config path in RBD string</code>](https://github.com/lxc/incus/commit/20dff3230ea0a1d0a0e26a45c1a4e6c95fb3ada2)
 - [ ] [<code>incusd/instance/qemu: Provide the RBD keyring to QEMU</code>](https://github.com/lxc/incus/commit/62b7ba1b1a28a9e87793af78db5589aef67dd6b9)
+- [ ] [<code>api: security_iommu</code>](https://github.com/lxc/incus/commit/dd730f1909acddf120b23732e219b20d2812c1a0)
+- [ ] [<code>internal/instance: Add security.iommu</code>](https://github.com/lxc/incus/commit/eafc41c8b9a21eab09760d20f2b3acd0529e26d7)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/4263d66e86f81e422fb56bf001ae3dc51f38dba2)
+- [ ] [<code>incusd/instance/qemu: Simplify Windows detection</code>](https://github.com/lxc/incus/commit/20a2220326e5075ea0bc0531055304edfd543766)
+- [ ] [<code>incusd/instance/qemu: Implement security.iommu</code>](https://github.com/lxc/incus/commit/c768f1e0c0fd2c45b8a4b27302abfb869dc3f6bf)
+- [ ] [<code>incusd/instance/qemu: Add IOMMU for Windows</code>](https://github.com/lxc/incus/commit/87515e71947ad735db7a13f666680d9110f94ac8)
+- [ ] [<code>incusd/instance/qemu: Configure irqchip for split mode with IOMMU</code>](https://github.com/lxc/incus/commit/f43bfa8c855af7462f54d144672c2025a6969337)
+- [ ] [<code>doc: Add passthrough and IOMMU to wordlist</code>](https://github.com/lxc/incus/commit/9a76e51bd00bdfbaa3f49e182c5f587a326c3369)
+- [ ] [<code>incusd/storage/ceph: Re-introduce keyring parsing</code>](https://github.com/lxc/incus/commit/7de13bdd146bb27f12d8f857187778b12675dadb)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
