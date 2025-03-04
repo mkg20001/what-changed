@@ -743,9 +743,16 @@
 - [ ] [<code>doc: Clarify virtiofsd requirements</code>](https://github.com/lxc/incus/commit/50f6ae84dd01606f313094005d8a1dab227da3dc)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users to use ping in application containers</code>](https://github.com/lxc/incus/commit/3d12d99474ab34bce5fe6f8dc47518dc3ec25e6d)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users in application containers to bind to all ports</code>](https://github.com/lxc/incus/commit/d0a5d5dd03b7cc0bcf5e96a937e000b6e815ac9f)
+- [ ] [<code>incusd/migration: Change field type of Snapshots in VolumeTargetArgs</code>](https://github.com/lxc/incus/commit/770eea20190bdabc7da3656dafc0bfc518f75570)
+- [ ] [<code>incusd: Adjust code for VolumeTargetArgs Snapshots type change</code>](https://github.com/lxc/incus/commit/a44d8171f59775784511095ed3e5e5ccc89a200f)
+- [ ] [<code>incusd/instance/drivers: Adjust code for VolumeTargetArgs Snapshots type change</code>](https://github.com/lxc/incus/commit/e5d304b122bf76620162407d93b27830146ac274)
+- [ ] [<code>incusd/storage: Adjust code for VolumeTargetArgs Snapshots type change</code>](https://github.com/lxc/incus/commit/854d99c1c854e4b81de2ba9367125c92ef8ee953)
 - [ ] [<code>incusd/db: Add missing go:generate directive</code>](https://github.com/lxc/incus/commit/51ea4c9c57a7298b3d63b5497127d5a3336a4b18)
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/5b9c975fac1ea30b9e44b66f28b61564242430e7)
 - [ ] [<code>incusd/device/disk: Do not allow mounting of custom block volume snapshots</code>](https://github.com/lxc/incus/commit/4b88ca4ac1013ae540e6e2d16eac75a2d968ec64)
+- [ ] [<code>generate-database: Abstract DB connection / DB transaction</code>](https://github.com/lxc/incus/commit/958db532d2bacd834525df1023ec8da01ad17000)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/84f8ad985ca4da6957166104a87b41df9dc3a87e)
+- [ ] [<code>lint: Add short import exception for *.mapper.go</code>](https://github.com/lxc/incus/commit/c8f59627f331053958a2f4fca019523d6cbcab9c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2843,9 +2850,16 @@
 - [ ] [<code>doc: Clarify virtiofsd requirements</code>](https://github.com/lxc/incus/commit/50f6ae84dd01606f313094005d8a1dab227da3dc)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users to use ping in application containers</code>](https://github.com/lxc/incus/commit/3d12d99474ab34bce5fe6f8dc47518dc3ec25e6d)
 - [ ] [<code>incusd/instance/lxc: Allow unprivileged users in application containers to bind to all ports</code>](https://github.com/lxc/incus/commit/d0a5d5dd03b7cc0bcf5e96a937e000b6e815ac9f)
+- [ ] [<code>incusd/migration: Change field type of Snapshots in VolumeTargetArgs</code>](https://github.com/lxc/incus/commit/770eea20190bdabc7da3656dafc0bfc518f75570)
+- [ ] [<code>incusd: Adjust code for VolumeTargetArgs Snapshots type change</code>](https://github.com/lxc/incus/commit/a44d8171f59775784511095ed3e5e5ccc89a200f)
+- [ ] [<code>incusd/instance/drivers: Adjust code for VolumeTargetArgs Snapshots type change</code>](https://github.com/lxc/incus/commit/e5d304b122bf76620162407d93b27830146ac274)
+- [ ] [<code>incusd/storage: Adjust code for VolumeTargetArgs Snapshots type change</code>](https://github.com/lxc/incus/commit/854d99c1c854e4b81de2ba9367125c92ef8ee953)
 - [ ] [<code>incusd/db: Add missing go:generate directive</code>](https://github.com/lxc/incus/commit/51ea4c9c57a7298b3d63b5497127d5a3336a4b18)
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/5b9c975fac1ea30b9e44b66f28b61564242430e7)
 - [ ] [<code>incusd/device/disk: Do not allow mounting of custom block volume snapshots</code>](https://github.com/lxc/incus/commit/4b88ca4ac1013ae540e6e2d16eac75a2d968ec64)
+- [ ] [<code>generate-database: Abstract DB connection / DB transaction</code>](https://github.com/lxc/incus/commit/958db532d2bacd834525df1023ec8da01ad17000)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/84f8ad985ca4da6957166104a87b41df9dc3a87e)
+- [ ] [<code>lint: Add short import exception for *.mapper.go</code>](https://github.com/lxc/incus/commit/c8f59627f331053958a2f4fca019523d6cbcab9c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.14.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.14.7...HEAD)
 
@@ -5049,6 +5063,9 @@
 - [ ] [<code>feat(go.d): add snmp devices discovery (#19720)</code>](https://github.com/netdata/netdata.git/commit/d373112c44e8806738a49f90570ba7df545b2a3c)
 - [ ] [<code>chore(go.d/sd/snmp): comment out  defaults in snmp.conf (#19755)</code>](https://github.com/netdata/netdata.git/commit/9692d1bb10f1c01de195975605ac012b9f426b0c)
 - [ ] [<code>improvement(go.d/sd/snmp): support device cache ttl 0 (#19756)</code>](https://github.com/netdata/netdata.git/commit/a3e54253a18c99ba79caa6a579c64ef2a75e24fb)
+- [ ] [<code>status file timings per step (#19758)</code>](https://github.com/netdata/netdata.git/commit/a457dc733dd42b98e466a0cbb68b53a6c1b185bc)
+- [ ] [<code>fix(go.d/nvidia_smi): handle xml gpu_power_readings change (#19759)</code>](https://github.com/netdata/netdata.git/commit/2c494e1ccec1a56fbb66827334311cea1cec2618)
+- [ ] [<code>fix(go.d/sd/snmp): use rescan and cache ttl only when set (#19760)</code>](https://github.com/netdata/netdata.git/commit/3f064a0c50021d85138d98161a0dc8af32cd51f4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
