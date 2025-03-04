@@ -57,6 +57,8 @@
 - [ ] [<code>Makefile: Remove GOCACHE</code>](https://github.com/lxc/distrobuilder/commit/aebe74c533f7f885f26dc0779692da5417b14fe4)
 - [ ] [<code>README: Fix badge</code>](https://github.com/lxc/distrobuilder/commit/cdd3873e64bbb0bfb0a94fc5d8bcd0b6d12cd72d)
 - [ ] [<code>sources: Add Alpaquita downloader</code>](https://github.com/lxc/distrobuilder/commit/b8a93a357c51d185881b92b8a84cb85f566eb65d)
+- [ ] [<code>Add user/group ID mapping from passwd and group files</code>](https://github.com/lxc/distrobuilder/commit/196667c0c2f7f99816f9cd9f0f80bad0c5e73435)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -326,6 +328,9 @@
 - [ ] [<code>fix: Remove too sensitive dismiss gesture on chat list items</code>](https://github.com/krille-chan/fluffychat/commit/7a47a6a595883acd0e7332f78a4e53de66831f63)
 - [ ] [<code>fix: Add missing <s> html tag to render</code>](https://github.com/krille-chan/fluffychat/commit/a91646d2ba52b1a03f56cdfbd08f239a5cd2bb86)
 - [ ] [<code>refactor: Remove custom font and emoji font workaround</code>](https://github.com/krille-chan/fluffychat/commit/cd83c6e5ab29ff384e56bb1d8b1493828ed67469)
+- [ ] [<code>build: Add android namespace</code>](https://github.com/krille-chan/fluffychat/commit/429f683a651d0a1e97b452dfe08e186ea8349ae2)
+- [ ] [<code>build: Update kotlin gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/da2e026bdb95a41d2e930df29efc61c345b408fc)
+- [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -535,6 +540,9 @@
 - [ ] [<code>fix: Remove too sensitive dismiss gesture on chat list items</code>](https://github.com/krille-chan/fluffychat/commit/7a47a6a595883acd0e7332f78a4e53de66831f63)
 - [ ] [<code>fix: Add missing <s> html tag to render</code>](https://github.com/krille-chan/fluffychat/commit/a91646d2ba52b1a03f56cdfbd08f239a5cd2bb86)
 - [ ] [<code>refactor: Remove custom font and emoji font workaround</code>](https://github.com/krille-chan/fluffychat/commit/cd83c6e5ab29ff384e56bb1d8b1493828ed67469)
+- [ ] [<code>build: Add android namespace</code>](https://github.com/krille-chan/fluffychat/commit/429f683a651d0a1e97b452dfe08e186ea8349ae2)
+- [ ] [<code>build: Update kotlin gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/da2e026bdb95a41d2e930df29efc61c345b408fc)
+- [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4797,6 +4805,12 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-307-nightly.</code>](https://github.com/netdata/netdata.git/commit/7131526550ce6bbd11a4e183eeb9024c1b90fbde)
 - [ ] [<code>make status file use fixed size character arrays (#19761)</code>](https://github.com/netdata/netdata.git/commit/ea4d075de3ff0dc6195340ff78116052010ffb5d)
 - [ ] [<code>fix invalid free (#19763)</code>](https://github.com/netdata/netdata.git/commit/d4e175fb0a6d00010fefd87c6bd563e0ce47aa1b)
+- [ ] [<code>post status syncrhonously (#19766)</code>](https://github.com/netdata/netdata.git/commit/60f8835d08c0a636206a24c915f014a02a512d64)
+- [ ] [<code>detect crashes during status file processing (#19767)</code>](https://github.com/netdata/netdata.git/commit/a5c39d328dcdcfd3922d04457e7d2dfeda44f44d)
+- [ ] [<code>copy fields only when the source is valid (#19768)</code>](https://github.com/netdata/netdata.git/commit/7e028cc9a0658f4d8e1ce4f458d290aae7dd5194)
+- [ ] [<code>Add documentation outlining how to use custom CA certificates with Netdata. (#19754)</code>](https://github.com/netdata/netdata.git/commit/af198c0f25de01ae16a8d426f36496f840515c5a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>add handling for sigabrt in the status file (#19769)</code>](https://github.com/netdata/netdata.git/commit/e30c3a52d140d7c22ddf32bb49b5431ea7ace05a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
