@@ -59,6 +59,7 @@
 - [ ] [<code>sources: Add Alpaquita downloader</code>](https://github.com/lxc/distrobuilder/commit/b8a93a357c51d185881b92b8a84cb85f566eb65d)
 - [ ] [<code>Add user/group ID mapping from passwd and group files</code>](https://github.com/lxc/distrobuilder/commit/196667c0c2f7f99816f9cd9f0f80bad0c5e73435)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>README: Add missing packages</code>](https://github.com/lxc/distrobuilder/commit/2dafb1426fe64aeb4477ed2d0dc2669a7e12afb8)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -3001,6 +3002,8 @@
 - [ ] [<code>fix: patch libyuv CMakeLists for compatibility with gcc 10 (#2660)</code>](https://github.com/AOMediaCodec/libavif/commit/58d285a5840bf8e02ea301e3d954de9ded8a08a3)
 - [ ] [<code>Add libyuv dependency to the README.md (#2664)</code>](https://github.com/AOMediaCodec/libavif/commit/a25d9a34e97492260d232ecaff3015b95e30a468)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>avifutil.c: fix avifQueryCPUCount() empty param list (#2662)</code>](https://github.com/AOMediaCodec/libavif/commit/541c10ceced6c36939cfa92a45c9620d82c937f9)
+- [ ] [<code>read.c: fix empty struct initializers (#2661)</code>](https://github.com/AOMediaCodec/libavif/commit/532c33806a000da4adcd8442c69c15d6e9cc7b86)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4811,6 +4814,9 @@
 - [ ] [<code>Add documentation outlining how to use custom CA certificates with Netdata. (#19754)</code>](https://github.com/netdata/netdata.git/commit/af198c0f25de01ae16a8d426f36496f840515c5a)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>add handling for sigabrt in the status file (#19769)</code>](https://github.com/netdata/netdata.git/commit/e30c3a52d140d7c22ddf32bb49b5431ea7ace05a)
+- [ ] [<code>block all signals before spawning any threads (#19770)</code>](https://github.com/netdata/netdata.git/commit/0c5d34d41aefa8ced60c5d57faef68eec90d543a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>block signals before curl (#19771)</code>](https://github.com/netdata/netdata.git/commit/b6c0e9e2161d6b7f9b6b4fff3a686294fc9d88db)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
