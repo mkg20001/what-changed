@@ -4817,6 +4817,8 @@
 - [ ] [<code>block all signals before spawning any threads (#19770)</code>](https://github.com/netdata/netdata.git/commit/0c5d34d41aefa8ced60c5d57faef68eec90d543a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>block signals before curl (#19771)</code>](https://github.com/netdata/netdata.git/commit/b6c0e9e2161d6b7f9b6b4fff3a686294fc9d88db)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-317-nightly.</code>](https://github.com/netdata/netdata.git/commit/3211902f3dc29dbd34a4ea3ffcf1acb68cf26a4b)
+- [ ] [<code>chore(go.d/sd): rename discoverers pkgs (#19772)</code>](https://github.com/netdata/netdata.git/commit/581bdd22a3fd0a93a8e04a8b7078d8c605838b40)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
