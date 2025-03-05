@@ -332,6 +332,7 @@
 - [ ] [<code>build: Add android namespace</code>](https://github.com/krille-chan/fluffychat/commit/429f683a651d0a1e97b452dfe08e186ea8349ae2)
 - [ ] [<code>build: Update kotlin gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/da2e026bdb95a41d2e930df29efc61c345b408fc)
 - [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
+- [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -544,6 +545,7 @@
 - [ ] [<code>build: Add android namespace</code>](https://github.com/krille-chan/fluffychat/commit/429f683a651d0a1e97b452dfe08e186ea8349ae2)
 - [ ] [<code>build: Update kotlin gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/da2e026bdb95a41d2e930df29efc61c345b408fc)
 - [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
+- [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -580,6 +582,9 @@
 - [ ] [<code>generate-database: Abstract DB connection / DB transaction</code>](https://github.com/lxc/incus/commit/958db532d2bacd834525df1023ec8da01ad17000)
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/84f8ad985ca4da6957166104a87b41df9dc3a87e)
 - [ ] [<code>lint: Add short import exception for *.mapper.go</code>](https://github.com/lxc/incus/commit/c8f59627f331053958a2f4fca019523d6cbcab9c)
+- [ ] [<code>generate-database: Accept interface instead of concrete type for PrepareStmts</code>](https://github.com/lxc/incus/commit/c5e49e925faa33672d4c5a9f53a4d160f65e1466)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/d8081e0b28a491469aed60aacfc82b9dc63276d1)
+- [ ] [<code>cmd/list: Simplify evaluateShorthandFilter by reducing nesting levels</code>](https://github.com/lxc/incus/commit/3197770f11dd372db57d72b3c24031cc4abfa27c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2687,9 +2692,14 @@
 - [ ] [<code>generate-database: Abstract DB connection / DB transaction</code>](https://github.com/lxc/incus/commit/958db532d2bacd834525df1023ec8da01ad17000)
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/84f8ad985ca4da6957166104a87b41df9dc3a87e)
 - [ ] [<code>lint: Add short import exception for *.mapper.go</code>](https://github.com/lxc/incus/commit/c8f59627f331053958a2f4fca019523d6cbcab9c)
+- [ ] [<code>generate-database: Accept interface instead of concrete type for PrepareStmts</code>](https://github.com/lxc/incus/commit/c5e49e925faa33672d4c5a9f53a4d160f65e1466)
+- [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/d8081e0b28a491469aed60aacfc82b9dc63276d1)
+- [ ] [<code>cmd/list: Simplify evaluateShorthandFilter by reducing nesting levels</code>](https://github.com/lxc/incus/commit/3197770f11dd372db57d72b3c24031cc4abfa27c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
+- [ ] [<code>Fix the typo in the ACL rule state name</code>](https://github.com/zabbly/incus-ui-canonical/commit/767ae9b2ad675138269c9af91ef8e7a43f154f95)
+- [ ] [<code>Improved instance filtering</code>](https://github.com/zabbly/incus-ui-canonical/commit/6114141cc6d7f7caffc6e8c00acad9e4848bda06)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3004,6 +3014,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>avifutil.c: fix avifQueryCPUCount() empty param list (#2662)</code>](https://github.com/AOMediaCodec/libavif/commit/541c10ceced6c36939cfa92a45c9620d82c937f9)
 - [ ] [<code>read.c: fix empty struct initializers (#2661)</code>](https://github.com/AOMediaCodec/libavif/commit/532c33806a000da4adcd8442c69c15d6e9cc7b86)
+- [ ] [<code>Use SVT_LOG=0 in avifsvttest for SVT-AV1 3.0.0 (#2668)</code>](https://github.com/AOMediaCodec/libavif/commit/c28263c91fd5f4f7a10ba7322b457b0b9fa97324)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update CHANGELOG (#2666)</code>](https://github.com/AOMediaCodec/libavif/commit/4eb0a40fb06612adf53650a14c692eaf62c068e6)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4819,6 +4833,17 @@
 - [ ] [<code>block signals before curl (#19771)</code>](https://github.com/netdata/netdata.git/commit/b6c0e9e2161d6b7f9b6b4fff3a686294fc9d88db)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-317-nightly.</code>](https://github.com/netdata/netdata.git/commit/3211902f3dc29dbd34a4ea3ffcf1acb68cf26a4b)
 - [ ] [<code>chore(go.d/sd): rename discoverers pkgs (#19772)</code>](https://github.com/netdata/netdata.git/commit/581bdd22a3fd0a93a8e04a8b7078d8c605838b40)
+- [ ] [<code>improvement(go.d/sd): add file path to k8s/snmp discovered job source (#19776)</code>](https://github.com/netdata/netdata.git/commit/197cbe5bee5b97486f1f8402bb626ef4e828e9cf)
+- [ ] [<code>fix(go.d/sd): fix logging cfg source when disabled (#19777)</code>](https://github.com/netdata/netdata.git/commit/9b7622df0fc420a40774079502cbd5d5ce7a66c4)
+- [ ] [<code>Fix SIGSEGV on static installs due to dengine log (#19774)</code>](https://github.com/netdata/netdata.git/commit/d228c6f3265bf2049f94c3730c3876c9c949c0d4)
+- [ ] [<code>kickstart: install native pkg on RPi2+ (#19773)</code>](https://github.com/netdata/netdata.git/commit/08ae765c7c075402362d1d05ced0e1f50c0c1c0f)
+- [ ] [<code>Add repository priority configuration for DEB package repositories. (#19705)</code>](https://github.com/netdata/netdata.git/commit/bf340f96441ecf4b92cd62ddcbe0403be81d84b4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>add unique machine id to status file (#19778)</code>](https://github.com/netdata/netdata.git/commit/edc82776ae5fcca30feb9365b5b0c16c67fad65c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Revert broken DEB priority configuration in repoconfig packages. (#19783)</code>](https://github.com/netdata/netdata.git/commit/f25e15696fb906141337b800d4b92be69402f354)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Restructure shutdown logic used during updates. (#19781)</code>](https://github.com/netdata/netdata.git/commit/717df9f39fe233d32616c4e4bebfe0e8470131ff)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
