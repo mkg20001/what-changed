@@ -4844,6 +4844,7 @@
 - [ ] [<code>Revert broken DEB priority configuration in repoconfig packages. (#19783)</code>](https://github.com/netdata/netdata.git/commit/f25e15696fb906141337b800d4b92be69402f354)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Restructure shutdown logic used during updates. (#19781)</code>](https://github.com/netdata/netdata.git/commit/717df9f39fe233d32616c4e4bebfe0e8470131ff)
+- [ ] [<code>Improve agent shutdown (#19775)</code>](https://github.com/netdata/netdata.git/commit/f351681b04c1ce5df31ba8c5fa3f24a2092d91c6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
