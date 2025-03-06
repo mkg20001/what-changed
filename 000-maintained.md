@@ -4845,6 +4845,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Restructure shutdown logic used during updates. (#19781)</code>](https://github.com/netdata/netdata.git/commit/717df9f39fe233d32616c4e4bebfe0e8470131ff)
 - [ ] [<code>Improve agent shutdown (#19775)</code>](https://github.com/netdata/netdata.git/commit/f351681b04c1ce5df31ba8c5fa3f24a2092d91c6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-328-nightly.</code>](https://github.com/netdata/netdata.git/commit/398018e2dea165f7350745d9afd4cecccca2a0ef)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
