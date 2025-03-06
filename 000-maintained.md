@@ -585,6 +585,11 @@
 - [ ] [<code>generate-database: Accept interface instead of concrete type for PrepareStmts</code>](https://github.com/lxc/incus/commit/c5e49e925faa33672d4c5a9f53a4d160f65e1466)
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/d8081e0b28a491469aed60aacfc82b9dc63276d1)
 - [ ] [<code>cmd/list: Simplify evaluateShorthandFilter by reducing nesting levels</code>](https://github.com/lxc/incus/commit/3197770f11dd372db57d72b3c24031cc4abfa27c)
+- [ ] [<code>incusd/storage: Don't use sparse writer on thick LVM</code>](https://github.com/lxc/incus/commit/f7258c12a3b46ac89798a4f9547ae0812c503875)
+- [ ] [<code>shared/util: Add IsTruthy</code>](https://github.com/lxc/incus/commit/7ffff2d65ae3ff70663743de9b0896fcbe00f43e)
+- [ ] [<code>generate-database: Validate struct tags</code>](https://github.com/lxc/incus/commit/3101d6f71a734165b4b60f415e7810355b8a2659)
+- [ ] [<code>generate-database: Add marshal=json</code>](https://github.com/lxc/incus/commit/cf688f8aa79c49e0a43181beda7087d2553d5bb8)
+- [ ] [<code>generate-database: Update generated code</code>](https://github.com/lxc/incus/commit/eec5c5025b36f87e3de93bb59dc601562efefc4c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2695,6 +2700,11 @@
 - [ ] [<code>generate-database: Accept interface instead of concrete type for PrepareStmts</code>](https://github.com/lxc/incus/commit/c5e49e925faa33672d4c5a9f53a4d160f65e1466)
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/d8081e0b28a491469aed60aacfc82b9dc63276d1)
 - [ ] [<code>cmd/list: Simplify evaluateShorthandFilter by reducing nesting levels</code>](https://github.com/lxc/incus/commit/3197770f11dd372db57d72b3c24031cc4abfa27c)
+- [ ] [<code>incusd/storage: Don't use sparse writer on thick LVM</code>](https://github.com/lxc/incus/commit/f7258c12a3b46ac89798a4f9547ae0812c503875)
+- [ ] [<code>shared/util: Add IsTruthy</code>](https://github.com/lxc/incus/commit/7ffff2d65ae3ff70663743de9b0896fcbe00f43e)
+- [ ] [<code>generate-database: Validate struct tags</code>](https://github.com/lxc/incus/commit/3101d6f71a734165b4b60f415e7810355b8a2659)
+- [ ] [<code>generate-database: Add marshal=json</code>](https://github.com/lxc/incus/commit/cf688f8aa79c49e0a43181beda7087d2553d5bb8)
+- [ ] [<code>generate-database: Update generated code</code>](https://github.com/lxc/incus/commit/eec5c5025b36f87e3de93bb59dc601562efefc4c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3018,6 +3028,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Update CHANGELOG (#2666)</code>](https://github.com/AOMediaCodec/libavif/commit/4eb0a40fb06612adf53650a14c692eaf62c068e6)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Do not allow keeping the ICC when converting from RGB to gray (#2669)</code>](https://github.com/AOMediaCodec/libavif/commit/999fcf5481c77e78e9a63a4cbd26b30a5c02a94c)
+- [ ] [<code>avidec: output all frames of animations when passed `--index all` (#2670)</code>](https://github.com/AOMediaCodec/libavif/commit/ad49114724c81f1d772cd2ec79621e3fa5ae9941)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4847,6 +4859,17 @@
 - [ ] [<code>Improve agent shutdown (#19775)</code>](https://github.com/netdata/netdata.git/commit/f351681b04c1ce5df31ba8c5fa3f24a2092d91c6)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-328-nightly.</code>](https://github.com/netdata/netdata.git/commit/398018e2dea165f7350745d9afd4cecccca2a0ef)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>enable libunwind in static builds (#19764)</code>](https://github.com/netdata/netdata.git/commit/e90f3f4e2214012c6c9875cde344354bc54335d8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>add datadog profiles for snmp collector (#19785)</code>](https://github.com/netdata/netdata.git/commit/9950cebd62c1afc934e254a718f4b8228c5da6f3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore: rename snmp.profiles.d -> snmp.profiles (#19786)</code>](https://github.com/netdata/netdata.git/commit/724d69b18d1d8c0e5e74c46d50dc73abe8ec1980)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>detect when running in CI and disable posting status (#19787)</code>](https://github.com/netdata/netdata.git/commit/fb67eb9c9cf3cf0f3a657f41071115b627dec4cf)
+- [ ] [<code>User configurable crash reporting (#19789)</code>](https://github.com/netdata/netdata.git/commit/35c6875bbbbd14667f81b35e525224378f92f1cf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6281,6 +6304,10 @@
 - [ ] [<code>uci: link save() and commit() functions in cursor class description</code>](https://github.com/jow-/ucode/commit/df5a79a04b17d7b4fdfd9e72c3193f36bfc95d98)
 - [ ] [<code>docs: add detailed documentation article for dictionaries</code>](https://github.com/jow-/ucode/commit/03fb60d0e4b3286fb62bbad89e7b4622903d380e)
 - [ ] [<code>ubus: add support for calling system objects</code>](https://github.com/jow-/ucode/commit/8e122f16327c59b178468c7aa53a36e31ced970c)
+- [ ] [<code>socket: add reuseaddr argument for socket.listen()</code>](https://github.com/jow-/ucode/commit/21a615c843674c563a61e16c37bcd1c0dbd10c93)
+- [ ] [<code>uci: add support for altering the override config directory</code>](https://github.com/jow-/ucode/commit/e04908ef57e79429adfa995461d4630a246e3a2d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>socket: add missing documentation for socket.listen() reuseaddr</code>](https://github.com/jow-/ucode/commit/9dbace122d7ef911ab1b602da3239e7f7feb5ec8)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
