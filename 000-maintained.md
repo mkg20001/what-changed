@@ -333,6 +333,7 @@
 - [ ] [<code>build: Update kotlin gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/da2e026bdb95a41d2e930df29efc61c345b408fc)
 - [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
 - [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
+- [ ] [<code>refactor: Improved UX for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/b645193f7b469ba1ba97f0b704297733111a56ac)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -546,6 +547,7 @@
 - [ ] [<code>build: Update kotlin gradle plugin</code>](https://github.com/krille-chan/fluffychat/commit/da2e026bdb95a41d2e930df29efc61c345b408fc)
 - [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
 - [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
+- [ ] [<code>refactor: Improved UX for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/b645193f7b469ba1ba97f0b704297733111a56ac)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3038,6 +3040,10 @@
 - [ ] [<code>avidec: output all frames of animations when passed `--index all` (#2670)</code>](https://github.com/AOMediaCodec/libavif/commit/ad49114724c81f1d772cd2ec79621e3fa5ae9941)
 - [ ] [<code>Specify target platform version in binary artifacts (#2652)</code>](https://github.com/AOMediaCodec/libavif/commit/3e305e772e3497822c379d7417ac951fc8933b97)
 - [ ] [<code>Add missing changelog for `avifdec --index all` (#2672)</code>](https://github.com/AOMediaCodec/libavif/commit/5f410ecdf1186c214913bf25414b6734eef768eb)
+- [ ] [<code>Fix monochrome ICC profile error message in apps (#2673)</code>](https://github.com/AOMediaCodec/libavif/commit/6079792ebda2a3750ee0951aa02290b9939c5945)
+- [ ] [<code>Revert "Use SVT_LOG=0 in avifsvttest for SVT-AV1 3.0.0 (#2668)" (#2674)</code>](https://github.com/AOMediaCodec/libavif/commit/f8e40a5a7f0694fb6ca4b1921550b9aebe0aeb48)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix reading gray/color ICC profile from color/gray image in apps (#2675)</code>](https://github.com/AOMediaCodec/libavif/commit/1cb71c0ac82c700836deb4e7d8970ee5b682b509)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4881,6 +4887,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-334-nightly.</code>](https://github.com/netdata/netdata.git/commit/bbcd1e6ad4201ab37256bca11583340568ce09bf)
 - [ ] [<code>docs(go.d/snmp): add snmp discovery information (#19790)</code>](https://github.com/netdata/netdata.git/commit/07d624716ad05cd1c1481311744397405129d32e)
 - [ ] [<code>Regenerate integrations docs (#19791)</code>](https://github.com/netdata/netdata.git/commit/f159fd39065eae5e0373d75bc8d5157c914617ac)
+- [ ] [<code>improvement(go.d/k8s_state): collect cronjobs (#19793)</code>](https://github.com/netdata/netdata.git/commit/4f16097ec87fa308999ea465c15192e320691c7c)
+- [ ] [<code>Regenerate integrations docs (#19794)</code>](https://github.com/netdata/netdata.git/commit/bcc2cf049a671c29937015bbe4dd7d2926327837)
+- [ ] [<code>status file improvements 12 (#19792)</code>](https://github.com/netdata/netdata.git/commit/a97af315981170c0f45da2bb4fcf43c309a4a495)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6053,6 +6062,27 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.42.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.42.1...HEAD)
 
+- [ ] [<code>Update StatisticsWidget.cpp</code>](https://github.com/foldynl/QLog.git/commit/35b4d5f20d94c65f45bb7b96f2396fc056fb5758)
+- [ ] [<code>StatisticsWidget: Fixed issue when empty band is not counted</code>](https://github.com/foldynl/QLog.git/commit/72c9dbc120494a9d23466ef8c49cda26609f6ff1)
+- [ ] [<code>StatisticsWidget: Fixed issue when empty mode is not counted</code>](https://github.com/foldynl/QLog.git/commit/cc8e15b476861185a58a736b33da45471bda9482)
+- [ ] [<code>StatisticsWidget: Added source code comments</code>](https://github.com/foldynl/QLog.git/commit/d997d6bf48c12cb609a2b1fcb0e78f3f4cfc5584)
+- [ ] [<code>StatisticsWidget: Improved memory management when Chart is refreshed</code>](https://github.com/foldynl/QLog.git/commit/633f450ec824cb9f7ddfd063889adda20f8294c5)
+- [ ] [<code>StatisticsWidget: Minor change</code>](https://github.com/foldynl/QLog.git/commit/260038ef8f51ebe5d1373623a62217e14d7dea2d)
+- [ ] [<code>StatisticsWidget: TOP10 displays also removed DXCC Entities</code>](https://github.com/foldynl/QLog.git/commit/2d26faa340cca9a895318d345b3334b6be0db2b6)
+- [ ] [<code>SQLite Handler: translate_to_locale can handle NULL, INT and FLOAT values</code>](https://github.com/foldynl/QLog.git/commit/6727b240fde1302b6af42b069cb05061c168b58a)
+- [ ] [<code>StatisticsWidget: TOP10 displays translated countries</code>](https://github.com/foldynl/QLog.git/commit/3926e1fb9ed40fe4dc8a4c780d68849a859be039)
+- [ ] [<code>Revert "Update AwardsDialog.cpp"</code>](https://github.com/foldynl/QLog.git/commit/53b365cd95ca5380f48b36a7544ef67bfb36963f)
+- [ ] [<code>Awards: DXCC displays removed DXCC Entities; Fixed Totals stats - only displayed bands are included to the stats</code>](https://github.com/foldynl/QLog.git/commit/da70f4af9aa8d6758aeef50f8e33d9d9ff110bee)
+- [ ] [<code>Fixed #614 - Unexpected dialog when QSO after contest</code>](https://github.com/foldynl/QLog.git/commit/0fe44de083748415997f40e9ad889d7795523385)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/0854721a1bcf5a935b287a4031f8dbdbfcc8b529)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3c7daef532f9f8b2ff299e4f284cf7ac71ccad73)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e6bf527e2db8ea61580f7fdc1d8b9e5d26c1693e)
+- [ ] [<code>Fixed #608 - Logbook Country translation</code>](https://github.com/foldynl/QLog.git/commit/29dd332835ac287d1a98e88026e19e053980db8a)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/d40165f27e021f1d794a4f155da75a6ac1e86a3f)
+- [ ] [<code>Updated translations - AI</code>](https://github.com/foldynl/QLog.git/commit/6e3f6c2846550c79f6460525d22230df870b2ade)
+- [ ] [<code>Updated AUTHORS file</code>](https://github.com/foldynl/QLog.git/commit/9b136259ca89ce1d60113f3bccc1e5ae2b436269)
+- [ ] [<code>Preparation for release 0.42.2</code>](https://github.com/foldynl/QLog.git/commit/266ec2647c9cff5872ba7e95f5e99b3b859c5591)
+  - <sub>Tags: <code>v0.42.2</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
