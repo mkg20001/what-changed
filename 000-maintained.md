@@ -3036,6 +3036,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Do not allow keeping the ICC when converting from RGB to gray (#2669)</code>](https://github.com/AOMediaCodec/libavif/commit/999fcf5481c77e78e9a63a4cbd26b30a5c02a94c)
 - [ ] [<code>avidec: output all frames of animations when passed `--index all` (#2670)</code>](https://github.com/AOMediaCodec/libavif/commit/ad49114724c81f1d772cd2ec79621e3fa5ae9941)
+- [ ] [<code>Specify target platform version in binary artifacts (#2652)</code>](https://github.com/AOMediaCodec/libavif/commit/3e305e772e3497822c379d7417ac951fc8933b97)
+- [ ] [<code>Add missing changelog for `avifdec --index all` (#2672)</code>](https://github.com/AOMediaCodec/libavif/commit/5f410ecdf1186c214913bf25414b6734eef768eb)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4876,6 +4878,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>detect when running in CI and disable posting status (#19787)</code>](https://github.com/netdata/netdata.git/commit/fb67eb9c9cf3cf0f3a657f41071115b627dec4cf)
 - [ ] [<code>User configurable crash reporting (#19789)</code>](https://github.com/netdata/netdata.git/commit/35c6875bbbbd14667f81b35e525224378f92f1cf)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-334-nightly.</code>](https://github.com/netdata/netdata.git/commit/bbcd1e6ad4201ab37256bca11583340568ce09bf)
+- [ ] [<code>docs(go.d/snmp): add snmp discovery information (#19790)</code>](https://github.com/netdata/netdata.git/commit/07d624716ad05cd1c1481311744397405129d32e)
+- [ ] [<code>Regenerate integrations docs (#19791)</code>](https://github.com/netdata/netdata.git/commit/f159fd39065eae5e0373d75bc8d5157c914617ac)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
