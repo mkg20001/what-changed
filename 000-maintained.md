@@ -590,6 +590,9 @@
 - [ ] [<code>generate-database: Validate struct tags</code>](https://github.com/lxc/incus/commit/3101d6f71a734165b4b60f415e7810355b8a2659)
 - [ ] [<code>generate-database: Add marshal=json</code>](https://github.com/lxc/incus/commit/cf688f8aa79c49e0a43181beda7087d2553d5bb8)
 - [ ] [<code>generate-database: Update generated code</code>](https://github.com/lxc/incus/commit/eec5c5025b36f87e3de93bb59dc601562efefc4c)
+- [ ] [<code>incusd/instance/edk2: Fix typo in function name</code>](https://github.com/lxc/incus/commit/ccee59de3a17aeac39813874bbc345d9424320cf)
+- [ ] [<code>incusd/instance/edk2: Fix EDK2 path overwrite issue</code>](https://github.com/lxc/incus/commit/0eae5da9ec4075a33d865b4f8051109ef0f659fb)
+- [ ] [<code>incusd/instance/qemu: Propagate errors from edk2</code>](https://github.com/lxc/incus/commit/a21ee3adbbef006a58a00d1d67b9a7be5d22eb37)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2705,6 +2708,9 @@
 - [ ] [<code>generate-database: Validate struct tags</code>](https://github.com/lxc/incus/commit/3101d6f71a734165b4b60f415e7810355b8a2659)
 - [ ] [<code>generate-database: Add marshal=json</code>](https://github.com/lxc/incus/commit/cf688f8aa79c49e0a43181beda7087d2553d5bb8)
 - [ ] [<code>generate-database: Update generated code</code>](https://github.com/lxc/incus/commit/eec5c5025b36f87e3de93bb59dc601562efefc4c)
+- [ ] [<code>incusd/instance/edk2: Fix typo in function name</code>](https://github.com/lxc/incus/commit/ccee59de3a17aeac39813874bbc345d9424320cf)
+- [ ] [<code>incusd/instance/edk2: Fix EDK2 path overwrite issue</code>](https://github.com/lxc/incus/commit/0eae5da9ec4075a33d865b4f8051109ef0f659fb)
+- [ ] [<code>incusd/instance/qemu: Propagate errors from edk2</code>](https://github.com/lxc/incus/commit/a21ee3adbbef006a58a00d1d67b9a7be5d22eb37)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
