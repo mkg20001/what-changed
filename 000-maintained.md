@@ -595,6 +595,9 @@
 - [ ] [<code>incusd/instance/edk2: Fix typo in function name</code>](https://github.com/lxc/incus/commit/ccee59de3a17aeac39813874bbc345d9424320cf)
 - [ ] [<code>incusd/instance/edk2: Fix EDK2 path overwrite issue</code>](https://github.com/lxc/incus/commit/0eae5da9ec4075a33d865b4f8051109ef0f659fb)
 - [ ] [<code>incusd/instance/qemu: Propagate errors from edk2</code>](https://github.com/lxc/incus/commit/a21ee3adbbef006a58a00d1d67b9a7be5d22eb37)
+- [ ] [<code>incusd/instance_types: Introduce INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/82a99c02a7cb2c393630ef8619a2509d33b5e354)
+- [ ] [<code>doc/environment: Add INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/10ef1a54d2c0888e34465a6ed588d407c36c849c)
+- [ ] [<code>doc/environment: Sort the environment variables</code>](https://github.com/lxc/incus/commit/92b5fcd0ea84c2461ddc48e8cd6a6db3c24f84a7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2713,6 +2716,9 @@
 - [ ] [<code>incusd/instance/edk2: Fix typo in function name</code>](https://github.com/lxc/incus/commit/ccee59de3a17aeac39813874bbc345d9424320cf)
 - [ ] [<code>incusd/instance/edk2: Fix EDK2 path overwrite issue</code>](https://github.com/lxc/incus/commit/0eae5da9ec4075a33d865b4f8051109ef0f659fb)
 - [ ] [<code>incusd/instance/qemu: Propagate errors from edk2</code>](https://github.com/lxc/incus/commit/a21ee3adbbef006a58a00d1d67b9a7be5d22eb37)
+- [ ] [<code>incusd/instance_types: Introduce INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/82a99c02a7cb2c393630ef8619a2509d33b5e354)
+- [ ] [<code>doc/environment: Add INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/10ef1a54d2c0888e34465a6ed588d407c36c849c)
+- [ ] [<code>doc/environment: Sort the environment variables</code>](https://github.com/lxc/incus/commit/92b5fcd0ea84c2461ddc48e8cd6a6db3c24f84a7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4890,6 +4896,12 @@
 - [ ] [<code>improvement(go.d/k8s_state): collect cronjobs (#19793)</code>](https://github.com/netdata/netdata.git/commit/4f16097ec87fa308999ea465c15192e320691c7c)
 - [ ] [<code>Regenerate integrations docs (#19794)</code>](https://github.com/netdata/netdata.git/commit/bcc2cf049a671c29937015bbe4dd7d2926327837)
 - [ ] [<code>status file improvements 12 (#19792)</code>](https://github.com/netdata/netdata.git/commit/a97af315981170c0f45da2bb4fcf43c309a4a495)
+- [ ] [<code>improvement(go.d/k8s_state): add more CronJob metrics (#19796)</code>](https://github.com/netdata/netdata.git/commit/955b78ba523dc386218d77a14a10c387b0abc3ef)
+- [ ] [<code>bump dag jinja to 3.1.6 (#19800)</code>](https://github.com/netdata/netdata.git/commit/c3ab0060828d8fba55436c347f79111a650ae2bf)
+- [ ] [<code>Modify eBPF.plugin integration (Part II, the sockets) (#19572)</code>](https://github.com/netdata/netdata.git/commit/8a126c9471b14aab505c9e42c790f860b5d63d67)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.35.0 to 0.37.0 in /src/go (#19799)</code>](https://github.com/netdata/netdata.git/commit/85d54a70c4a33e108eb664c972fddf40b7c40d59)
+- [ ] [<code>Regenerate integrations docs (#19797)</code>](https://github.com/netdata/netdata.git/commit/e58c271a56f9b6eb7292824a573191fa06f39523)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
