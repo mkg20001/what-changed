@@ -4902,6 +4902,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.35.0 to 0.37.0 in /src/go (#19799)</code>](https://github.com/netdata/netdata.git/commit/85d54a70c4a33e108eb664c972fddf40b7c40d59)
 - [ ] [<code>Regenerate integrations docs (#19797)</code>](https://github.com/netdata/netdata.git/commit/e58c271a56f9b6eb7292824a573191fa06f39523)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-345-nightly.</code>](https://github.com/netdata/netdata.git/commit/a9f7dbb85390ab9d56ae08b622e46511bba68f52)
+- [ ] [<code>add k8s_state_cronjob_last_execution_failed alert (#19801)</code>](https://github.com/netdata/netdata.git/commit/496d65091ae326c98442ea2905059ce2f0693902)
+- [ ] [<code>Regenerate integrations docs (#19803)</code>](https://github.com/netdata/netdata.git/commit/917dc197a77c0be7ecfc5559d06fc4e1d81a59b3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
