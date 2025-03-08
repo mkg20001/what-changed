@@ -4905,6 +4905,12 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-345-nightly.</code>](https://github.com/netdata/netdata.git/commit/a9f7dbb85390ab9d56ae08b622e46511bba68f52)
 - [ ] [<code>add k8s_state_cronjob_last_execution_failed alert (#19801)</code>](https://github.com/netdata/netdata.git/commit/496d65091ae326c98442ea2905059ce2f0693902)
 - [ ] [<code>Regenerate integrations docs (#19803)</code>](https://github.com/netdata/netdata.git/commit/917dc197a77c0be7ecfc5559d06fc4e1d81a59b3)
+- [ ] [<code>async-signal-safe stack traces (#19802)</code>](https://github.com/netdata/netdata.git/commit/3d5575dee596077256bb6a46e388315814b5937c)
+- [ ] [<code>ADFS (windows.plugin) (#19699)</code>](https://github.com/netdata/netdata.git/commit/556318463f04d7007fe83f8724d1daec0aeb82a3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Regenerate integrations docs (#19804)</code>](https://github.com/netdata/netdata.git/commit/149434ad849ba56c8ab18049990e48d4a497b660)
+- [ ] [<code>fix memory corruption in streaming (#19805)</code>](https://github.com/netdata/netdata.git/commit/48a12f6f51637c41b51b7417dffc36c29979348b)
+- [ ] [<code>Help finding leaks and running valgrind (#19806)</code>](https://github.com/netdata/netdata.git/commit/73daaf8ea9084a1e904bc110b261259379101148)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
