@@ -4911,6 +4911,8 @@
 - [ ] [<code>Regenerate integrations docs (#19804)</code>](https://github.com/netdata/netdata.git/commit/149434ad849ba56c8ab18049990e48d4a497b660)
 - [ ] [<code>fix memory corruption in streaming (#19805)</code>](https://github.com/netdata/netdata.git/commit/48a12f6f51637c41b51b7417dffc36c29979348b)
 - [ ] [<code>Help finding leaks and running valgrind (#19806)</code>](https://github.com/netdata/netdata.git/commit/73daaf8ea9084a1e904bc110b261259379101148)
+- [ ] [<code>fix fsanitize ifdefs (#19809)</code>](https://github.com/netdata/netdata.git/commit/bb42987e8d4c0dd37c12f0e5182d085a8a4e30fa)
+- [ ] [<code>do not change the scheduling policy by default (#19808)</code>](https://github.com/netdata/netdata.git/commit/b71ecf1c032aec972a60ef10dbd0f0544756db07)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
