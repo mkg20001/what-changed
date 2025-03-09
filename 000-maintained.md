@@ -334,6 +334,7 @@
 - [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
 - [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
 - [ ] [<code>refactor: Improved UX for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/b645193f7b469ba1ba97f0b704297733111a56ac)
+- [ ] [<code>chore: divider when scrolled up</code>](https://github.com/krille-chan/fluffychat/commit/8956f81e4e24e5ab01f7db5d18e8b3d570048582)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -548,6 +549,7 @@
 - [ ] [<code>Revert "build: Update kotlin gradle plugin"</code>](https://github.com/krille-chan/fluffychat/commit/5a1910869d4fdddf5851c05b3bcc6f08ea04e923)
 - [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
 - [ ] [<code>refactor: Improved UX for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/b645193f7b469ba1ba97f0b704297733111a56ac)
+- [ ] [<code>chore: divider when scrolled up</code>](https://github.com/krille-chan/fluffychat/commit/8956f81e4e24e5ab01f7db5d18e8b3d570048582)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4914,6 +4916,7 @@
 - [ ] [<code>fix fsanitize ifdefs (#19809)</code>](https://github.com/netdata/netdata.git/commit/bb42987e8d4c0dd37c12f0e5182d085a8a4e30fa)
 - [ ] [<code>do not change the scheduling policy by default (#19808)</code>](https://github.com/netdata/netdata.git/commit/b71ecf1c032aec972a60ef10dbd0f0544756db07)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-355-nightly.</code>](https://github.com/netdata/netdata.git/commit/3c21d20c04362cc75bc82262596319b533f16c6f)
+- [ ] [<code>Detect memory leaks (#19811)</code>](https://github.com/netdata/netdata.git/commit/070fcf1dc940baef5e31db835e3096d53e3bcb8c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
