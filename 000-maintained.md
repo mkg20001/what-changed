@@ -4913,6 +4913,7 @@
 - [ ] [<code>Help finding leaks and running valgrind (#19806)</code>](https://github.com/netdata/netdata.git/commit/73daaf8ea9084a1e904bc110b261259379101148)
 - [ ] [<code>fix fsanitize ifdefs (#19809)</code>](https://github.com/netdata/netdata.git/commit/bb42987e8d4c0dd37c12f0e5182d085a8a4e30fa)
 - [ ] [<code>do not change the scheduling policy by default (#19808)</code>](https://github.com/netdata/netdata.git/commit/b71ecf1c032aec972a60ef10dbd0f0544756db07)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-355-nightly.</code>](https://github.com/netdata/netdata.git/commit/3c21d20c04362cc75bc82262596319b533f16c6f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
