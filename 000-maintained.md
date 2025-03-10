@@ -603,6 +603,8 @@
 - [ ] [<code>incusd/instance_types: Introduce INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/82a99c02a7cb2c393630ef8619a2509d33b5e354)
 - [ ] [<code>doc/environment: Add INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/10ef1a54d2c0888e34465a6ed588d407c36c849c)
 - [ ] [<code>doc/environment: Sort the environment variables</code>](https://github.com/lxc/incus/commit/92b5fcd0ea84c2461ddc48e8cd6a6db3c24f84a7)
+- [ ] [<code>incusd/ip: Error message styling</code>](https://github.com/lxc/incus/commit/186dc6ed67ef1e14d11849897677be1ee1db8e12)
+- [ ] [<code>incusd/ip: Only parse MAC on ethernet links</code>](https://github.com/lxc/incus/commit/cb1db1fd0eedadb778e309850c3e8bc84d574282)
 - [ ] [<code>internal/instance: Clarify security.secureboot setting</code>](https://github.com/lxc/incus/commit/189b413344dbca46ecb96788d9b63ca9f76ad44d)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/779bdf459a4ae16a988a40cd72508d61f15cdd38)
 - [ ] [<code>incusd/network/ovn: Fallback to OVN router address as DNS server</code>](https://github.com/lxc/incus/commit/3346a075a63965827f724a77f0688713a0e361aa)
@@ -616,6 +618,7 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>doc: Add documentation for ipv4.dhcp.routes config</code>](https://github.com/lxc/incus/commit/8eb5e751d1d157a4ac071ece58403a26166d480e)
 - [ ] [<code>github: Pass shell type to shellcheck</code>](https://github.com/lxc/incus/commit/e2516a0b205d93d307caf67fd973e19f7d4e3f8e)
+- [ ] [<code>incusd/instance: Revert on OCI creation failure</code>](https://github.com/lxc/incus/commit/cd5e6190c722069de8b05eb41b4912381e6ac192)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2737,6 +2740,8 @@
 - [ ] [<code>incusd/instance_types: Introduce INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/82a99c02a7cb2c393630ef8619a2509d33b5e354)
 - [ ] [<code>doc/environment: Add INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/10ef1a54d2c0888e34465a6ed588d407c36c849c)
 - [ ] [<code>doc/environment: Sort the environment variables</code>](https://github.com/lxc/incus/commit/92b5fcd0ea84c2461ddc48e8cd6a6db3c24f84a7)
+- [ ] [<code>incusd/ip: Error message styling</code>](https://github.com/lxc/incus/commit/186dc6ed67ef1e14d11849897677be1ee1db8e12)
+- [ ] [<code>incusd/ip: Only parse MAC on ethernet links</code>](https://github.com/lxc/incus/commit/cb1db1fd0eedadb778e309850c3e8bc84d574282)
 - [ ] [<code>internal/instance: Clarify security.secureboot setting</code>](https://github.com/lxc/incus/commit/189b413344dbca46ecb96788d9b63ca9f76ad44d)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/779bdf459a4ae16a988a40cd72508d61f15cdd38)
 - [ ] [<code>incusd/network/ovn: Fallback to OVN router address as DNS server</code>](https://github.com/lxc/incus/commit/3346a075a63965827f724a77f0688713a0e361aa)
@@ -2750,6 +2755,7 @@
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>doc: Add documentation for ipv4.dhcp.routes config</code>](https://github.com/lxc/incus/commit/8eb5e751d1d157a4ac071ece58403a26166d480e)
 - [ ] [<code>github: Pass shell type to shellcheck</code>](https://github.com/lxc/incus/commit/e2516a0b205d93d307caf67fd973e19f7d4e3f8e)
+- [ ] [<code>incusd/instance: Revert on OCI creation failure</code>](https://github.com/lxc/incus/commit/cd5e6190c722069de8b05eb41b4912381e6ac192)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3081,6 +3087,7 @@
 - [ ] [<code>Revert "Use SVT_LOG=0 in avifsvttest for SVT-AV1 3.0.0 (#2668)" (#2674)</code>](https://github.com/AOMediaCodec/libavif/commit/f8e40a5a7f0694fb6ca4b1921550b9aebe0aeb48)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix reading gray/color ICC profile from color/gray image in apps (#2675)</code>](https://github.com/AOMediaCodec/libavif/commit/1cb71c0ac82c700836deb4e7d8970ee5b682b509)
+- [ ] [<code>Do not allow for monochrome + identity matrix (#2667)</code>](https://github.com/AOMediaCodec/libavif/commit/9683e577543e2d9c1c929f617dacf6276e72685e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4948,6 +4955,10 @@
 - [ ] [<code>Detect memory leaks (#19811)</code>](https://github.com/netdata/netdata.git/commit/070fcf1dc940baef5e31db835e3096d53e3bcb8c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-357-nightly.</code>](https://github.com/netdata/netdata.git/commit/bf3087c214e9731555ffcaf87f65feafebd3ed6e)
 - [ ] [<code>Avoid zero timeout in libuv timers (#19810)</code>](https://github.com/netdata/netdata.git/commit/be6f7c2963d562a6a7aec4aa531bbab5d469b057)
+- [ ] [<code>fix(go.d/filecheck): remove dyncfg path validation pattern  (#19815)</code>](https://github.com/netdata/netdata.git/commit/de71509c3f9e3cd82427967d672cf12b4b7a6b24)
+- [ ] [<code>fix(go.d/pihole): switch to pihole6 api (#19807)</code>](https://github.com/netdata/netdata.git/commit/c91d2c1d50011fb99a90c3b50cf8eb693b21f5f6)
+- [ ] [<code>Regenerate integrations docs (#19816)</code>](https://github.com/netdata/netdata.git/commit/e3484260d375a4066574bdffdd692d13f68374ae)
+- [ ] [<code>Fix LSAN and memory leaks (#19819)</code>](https://github.com/netdata/netdata.git/commit/ec48ad55ef8139ecbf1fa6c6510ad043e7a62e8c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
