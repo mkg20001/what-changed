@@ -57,6 +57,7 @@
 - [ ] [<code>Makefile: Remove GOCACHE</code>](https://github.com/lxc/distrobuilder/commit/aebe74c533f7f885f26dc0779692da5417b14fe4)
 - [ ] [<code>README: Fix badge</code>](https://github.com/lxc/distrobuilder/commit/cdd3873e64bbb0bfb0a94fc5d8bcd0b6d12cd72d)
 - [ ] [<code>sources: Add Alpaquita downloader</code>](https://github.com/lxc/distrobuilder/commit/b8a93a357c51d185881b92b8a84cb85f566eb65d)
+- [ ] [<code>managers/apk: Support packages.repositories[].key</code>](https://github.com/lxc/distrobuilder/commit/a39ffd04d5a0d02f420cb47c032aeaf8479a0621)
 - [ ] [<code>Add user/group ID mapping from passwd and group files</code>](https://github.com/lxc/distrobuilder/commit/196667c0c2f7f99816f9cd9f0f80bad0c5e73435)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Add missing packages</code>](https://github.com/lxc/distrobuilder/commit/2dafb1426fe64aeb4477ed2d0dc2669a7e12afb8)
@@ -335,6 +336,7 @@
 - [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
 - [ ] [<code>refactor: Improved UX for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/b645193f7b469ba1ba97f0b704297733111a56ac)
 - [ ] [<code>chore: divider when scrolled up</code>](https://github.com/krille-chan/fluffychat/commit/8956f81e4e24e5ab01f7db5d18e8b3d570048582)
+- [ ] [<code>refactor: Easier shift enter logic for text input</code>](https://github.com/krille-chan/fluffychat/commit/dda45f783f2bf699e2a6612cec611c4868c0a2eb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.23.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.23.0...HEAD)
 
@@ -550,6 +552,7 @@
 - [ ] [<code>feat: Add advanced configuration page</code>](https://github.com/krille-chan/fluffychat/commit/730fb22be34cd34a29638e8e0d153859470f48af)
 - [ ] [<code>refactor: Improved UX for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/b645193f7b469ba1ba97f0b704297733111a56ac)
 - [ ] [<code>chore: divider when scrolled up</code>](https://github.com/krille-chan/fluffychat/commit/8956f81e4e24e5ab01f7db5d18e8b3d570048582)
+- [ ] [<code>refactor: Easier shift enter logic for text input</code>](https://github.com/krille-chan/fluffychat/commit/dda45f783f2bf699e2a6612cec611c4868c0a2eb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -600,6 +603,19 @@
 - [ ] [<code>incusd/instance_types: Introduce INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/82a99c02a7cb2c393630ef8619a2509d33b5e354)
 - [ ] [<code>doc/environment: Add INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/10ef1a54d2c0888e34465a6ed588d407c36c849c)
 - [ ] [<code>doc/environment: Sort the environment variables</code>](https://github.com/lxc/incus/commit/92b5fcd0ea84c2461ddc48e8cd6a6db3c24f84a7)
+- [ ] [<code>internal/instance: Clarify security.secureboot setting</code>](https://github.com/lxc/incus/commit/189b413344dbca46ecb96788d9b63ca9f76ad44d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/779bdf459a4ae16a988a40cd72508d61f15cdd38)
+- [ ] [<code>incusd/network/ovn: Fallback to OVN router address as DNS server</code>](https://github.com/lxc/incus/commit/3346a075a63965827f724a77f0688713a0e361aa)
+- [ ] [<code>api: network_ipv4_dhcp_routes</code>](https://github.com/lxc/incus/commit/bd82545cb60921b2be50d0fff9df32306e734bfd)
+- [ ] [<code>shared/validate: Add IsDHCPRouteList</code>](https://github.com/lxc/incus/commit/ab0de8b0027ee694c3a44abbdad616f3ded06e89)
+- [ ] [<code>incusd/network/ovn: Add ipv4.dhcp.routes</code>](https://github.com/lxc/incus/commit/9b3e783e581cdd64876b3401601cbb449c0f8871)
+- [ ] [<code>incusd/network/bridge: Add ipv4.dhcp.routes</code>](https://github.com/lxc/incus/commit/a6def796e1bbe804bcf2316619392b0fbe117d6f)
+- [ ] [<code>cmd/incusd/forknet: Add classless static route support to the forknet dhcp client</code>](https://github.com/lxc/incus/commit/b5bcf7960923bfb425ed1eb0cf39566d90f809aa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Add tests for ipv4.dhcp.routes</code>](https://github.com/lxc/incus/commit/18f6e87e8dce13fa98cbe093a687bd93c7791e83)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>doc: Add documentation for ipv4.dhcp.routes config</code>](https://github.com/lxc/incus/commit/8eb5e751d1d157a4ac071ece58403a26166d480e)
+- [ ] [<code>github: Pass shell type to shellcheck</code>](https://github.com/lxc/incus/commit/e2516a0b205d93d307caf67fd973e19f7d4e3f8e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2721,6 +2737,19 @@
 - [ ] [<code>incusd/instance_types: Introduce INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/82a99c02a7cb2c393630ef8619a2509d33b5e354)
 - [ ] [<code>doc/environment: Add INCUS_SKIP_INSTANCE_TYPES</code>](https://github.com/lxc/incus/commit/10ef1a54d2c0888e34465a6ed588d407c36c849c)
 - [ ] [<code>doc/environment: Sort the environment variables</code>](https://github.com/lxc/incus/commit/92b5fcd0ea84c2461ddc48e8cd6a6db3c24f84a7)
+- [ ] [<code>internal/instance: Clarify security.secureboot setting</code>](https://github.com/lxc/incus/commit/189b413344dbca46ecb96788d9b63ca9f76ad44d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/779bdf459a4ae16a988a40cd72508d61f15cdd38)
+- [ ] [<code>incusd/network/ovn: Fallback to OVN router address as DNS server</code>](https://github.com/lxc/incus/commit/3346a075a63965827f724a77f0688713a0e361aa)
+- [ ] [<code>api: network_ipv4_dhcp_routes</code>](https://github.com/lxc/incus/commit/bd82545cb60921b2be50d0fff9df32306e734bfd)
+- [ ] [<code>shared/validate: Add IsDHCPRouteList</code>](https://github.com/lxc/incus/commit/ab0de8b0027ee694c3a44abbdad616f3ded06e89)
+- [ ] [<code>incusd/network/ovn: Add ipv4.dhcp.routes</code>](https://github.com/lxc/incus/commit/9b3e783e581cdd64876b3401601cbb449c0f8871)
+- [ ] [<code>incusd/network/bridge: Add ipv4.dhcp.routes</code>](https://github.com/lxc/incus/commit/a6def796e1bbe804bcf2316619392b0fbe117d6f)
+- [ ] [<code>cmd/incusd/forknet: Add classless static route support to the forknet dhcp client</code>](https://github.com/lxc/incus/commit/b5bcf7960923bfb425ed1eb0cf39566d90f809aa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Add tests for ipv4.dhcp.routes</code>](https://github.com/lxc/incus/commit/18f6e87e8dce13fa98cbe093a687bd93c7791e83)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>doc: Add documentation for ipv4.dhcp.routes config</code>](https://github.com/lxc/incus/commit/8eb5e751d1d157a4ac071ece58403a26166d480e)
+- [ ] [<code>github: Pass shell type to shellcheck</code>](https://github.com/lxc/incus/commit/e2516a0b205d93d307caf67fd973e19f7d4e3f8e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4917,6 +4946,8 @@
 - [ ] [<code>do not change the scheduling policy by default (#19808)</code>](https://github.com/netdata/netdata.git/commit/b71ecf1c032aec972a60ef10dbd0f0544756db07)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-355-nightly.</code>](https://github.com/netdata/netdata.git/commit/3c21d20c04362cc75bc82262596319b533f16c6f)
 - [ ] [<code>Detect memory leaks (#19811)</code>](https://github.com/netdata/netdata.git/commit/070fcf1dc940baef5e31db835e3096d53e3bcb8c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-357-nightly.</code>](https://github.com/netdata/netdata.git/commit/bf3087c214e9731555ffcaf87f65feafebd3ed6e)
+- [ ] [<code>Avoid zero timeout in libuv timers (#19810)</code>](https://github.com/netdata/netdata.git/commit/be6f7c2963d562a6a7aec4aa531bbab5d469b057)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
