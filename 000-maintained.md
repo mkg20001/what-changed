@@ -3088,6 +3088,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix reading gray/color ICC profile from color/gray image in apps (#2675)</code>](https://github.com/AOMediaCodec/libavif/commit/1cb71c0ac82c700836deb4e7d8970ee5b682b509)
 - [ ] [<code>Do not allow for monochrome + identity matrix (#2667)</code>](https://github.com/AOMediaCodec/libavif/commit/9683e577543e2d9c1c929f617dacf6276e72685e)
+- [ ] [<code>test_cmd_targetsize.sh: fix aom version parsing (#2679)</code>](https://github.com/AOMediaCodec/libavif/commit/b57a7291af11aa5ab6beb671ec856c5062df0793)
+- [ ] [<code>test_cmd_stdin: avoid outputting binary data to terminal (#2680)</code>](https://github.com/AOMediaCodec/libavif/commit/80f19024a895c48a7d637f3423245e75f29e8cbf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4959,6 +4961,7 @@
 - [ ] [<code>fix(go.d/pihole): switch to pihole6 api (#19807)</code>](https://github.com/netdata/netdata.git/commit/c91d2c1d50011fb99a90c3b50cf8eb693b21f5f6)
 - [ ] [<code>Regenerate integrations docs (#19816)</code>](https://github.com/netdata/netdata.git/commit/e3484260d375a4066574bdffdd692d13f68374ae)
 - [ ] [<code>Fix LSAN and memory leaks (#19819)</code>](https://github.com/netdata/netdata.git/commit/ec48ad55ef8139ecbf1fa6c6510ad043e7a62e8c)
+- [ ] [<code>Acquire datafile for deletion before calculating retention (#19812)</code>](https://github.com/netdata/netdata.git/commit/94ebd49f03fbd6716fba3b72ee7fd149ec6c51c9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
