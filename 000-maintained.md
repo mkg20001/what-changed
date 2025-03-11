@@ -3090,6 +3090,7 @@
 - [ ] [<code>Do not allow for monochrome + identity matrix (#2667)</code>](https://github.com/AOMediaCodec/libavif/commit/9683e577543e2d9c1c929f617dacf6276e72685e)
 - [ ] [<code>test_cmd_targetsize.sh: fix aom version parsing (#2679)</code>](https://github.com/AOMediaCodec/libavif/commit/b57a7291af11aa5ab6beb671ec856c5062df0793)
 - [ ] [<code>test_cmd_stdin: avoid outputting binary data to terminal (#2680)</code>](https://github.com/AOMediaCodec/libavif/commit/80f19024a895c48a7d637f3423245e75f29e8cbf)
+- [ ] [<code>Use unspecified matrix coeffs in avifsvttest (#2678)</code>](https://github.com/AOMediaCodec/libavif/commit/3cffa72471fa27ed04b75a09aa781838e6fbbd70)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4962,6 +4963,8 @@
 - [ ] [<code>Regenerate integrations docs (#19816)</code>](https://github.com/netdata/netdata.git/commit/e3484260d375a4066574bdffdd692d13f68374ae)
 - [ ] [<code>Fix LSAN and memory leaks (#19819)</code>](https://github.com/netdata/netdata.git/commit/ec48ad55ef8139ecbf1fa6c6510ad043e7a62e8c)
 - [ ] [<code>Acquire datafile for deletion before calculating retention (#19812)</code>](https://github.com/netdata/netdata.git/commit/94ebd49f03fbd6716fba3b72ee7fd149ec6c51c9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-364-nightly.</code>](https://github.com/netdata/netdata.git/commit/c67f79b75da497ddd795e3138488916c72a8503b)
+- [ ] [<code>Free all memory on exit (#19821)</code>](https://github.com/netdata/netdata.git/commit/e9b9fb75c4e95b11395fdd4e6333dd38c84f03b5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6248,13 +6251,8 @@
 - [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
 - [ ] [<code>Fix for empty user default tab after creation (#628)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9fc005032c5b578fe5f360844ba5db69d870fb78)
 
-#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.062 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.062...HEAD)
+#### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
-- [ ] [<code>Fix broken German locale #670</code>](https://github.com/axcore/tartube/commit/972f8efc24d07acdd0cfaf0913cb940648eee6e4)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Update to v2.5.100</code>](https://github.com/axcore/tartube/commit/c97c858f0f5200099eaaad5055dcf234db682904)
-  - <sub>Tags: <code>v2.5.100</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
