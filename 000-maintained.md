@@ -256,6 +256,8 @@
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/adc6787166424ce4f9f04080c3da3b38eec8b864)
 - [ ] [<code>cmd/incus: Use the file extension of the edited file for the temp file, to help with syntax highlighting</code>](https://github.com/lxc/incus/commit/7d456f725477e136473b68e8cdae595c23d6ae1f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/api_internal: Centralize all internal API endpoints</code>](https://github.com/lxc/incus/commit/162dba49884e8d0c5c07c250be288fc6603589fe)
+- [ ] [<code>tests: Update for re-organized internal endpoints</code>](https://github.com/lxc/incus/commit/7244047ef77c6bfff535d2d0d1bb99a71facc05d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2400,6 +2402,8 @@
 - [ ] [<code>incusd/db: Update generated code</code>](https://github.com/lxc/incus/commit/adc6787166424ce4f9f04080c3da3b38eec8b864)
 - [ ] [<code>cmd/incus: Use the file extension of the edited file for the temp file, to help with syntax highlighting</code>](https://github.com/lxc/incus/commit/7d456f725477e136473b68e8cdae595c23d6ae1f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/api_internal: Centralize all internal API endpoints</code>](https://github.com/lxc/incus/commit/162dba49884e8d0c5c07c250be288fc6603589fe)
+- [ ] [<code>tests: Update for re-organized internal endpoints</code>](https://github.com/lxc/incus/commit/7244047ef77c6bfff535d2d0d1bb99a71facc05d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4621,6 +4625,8 @@
 - [ ] [<code>Finding leaks No 2 (#19823)</code>](https://github.com/netdata/netdata.git/commit/932bbf3b4e31eb83bf49201d5e833695d176380d)
 - [ ] [<code>rrdhost name fix heap-use-after-free (#19826)</code>](https://github.com/netdata/netdata.git/commit/272ea7cb9465aec2b3b0d1f863e5bc4c876e9ef5)
 - [ ] [<code>fix rrdset name crash on rrdset obsoletion (#19449)</code>](https://github.com/netdata/netdata.git/commit/c625dc4fdf82b15e2d8389812a71591947e5bc64)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-373-nightly.</code>](https://github.com/netdata/netdata.git/commit/5283bb067427edb6a16b6f7871c2aa4d7c7f707e)
+- [ ] [<code>Revert "fix rrdset name crash on rrdset obsoletion" (#19828)</code>](https://github.com/netdata/netdata.git/commit/b9bf7632f205378d7104cd5be1a1a3aea2229b2c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
