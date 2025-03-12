@@ -4627,6 +4627,16 @@
 - [ ] [<code>fix rrdset name crash on rrdset obsoletion (#19449)</code>](https://github.com/netdata/netdata.git/commit/c625dc4fdf82b15e2d8389812a71591947e5bc64)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-373-nightly.</code>](https://github.com/netdata/netdata.git/commit/5283bb067427edb6a16b6f7871c2aa4d7c7f707e)
 - [ ] [<code>Revert "fix rrdset name crash on rrdset obsoletion" (#19828)</code>](https://github.com/netdata/netdata.git/commit/b9bf7632f205378d7104cd5be1a1a3aea2229b2c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-375-nightly.</code>](https://github.com/netdata/netdata.git/commit/354c643151d3f13fb1f447b1ef6d47b7540cea9b)
+- [ ] [<code>improvement(go.d/k8state): add CronJob suspend status (#19829)</code>](https://github.com/netdata/netdata.git/commit/aed408ec41f996d437f2493713da9d47ae78d181)
+- [ ] [<code>Fix typo in otel collector build infra. (#19832)</code>](https://github.com/netdata/netdata.git/commit/2895c0ec3e350c93ac51d121b0eb14feee04b412)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Regenerate integrations docs (#19833)</code>](https://github.com/netdata/netdata.git/commit/20c916088ea2d2353cf85786b617d86e900bf5bc)
+- [ ] [<code>store status file in /var/lib/netdata, not in /var/cache/netdata (#19831)</code>](https://github.com/netdata/netdata.git/commit/90f94eba470905c9db527b035640467004208aad)
+- [ ] [<code>free strings judy arrays to show leaked strings (#19827)</code>](https://github.com/netdata/netdata.git/commit/00f4b111f41fdedb9f381035f39a5554c526d434)
+- [ ] [<code>when destroying pgc, check if the cache is null (#19837)</code>](https://github.com/netdata/netdata.git/commit/36e46884749d9829db26bc77b3cc9c1a69bbad43)
+- [ ] [<code>fix rrdset name crash on cleanup (#19838)</code>](https://github.com/netdata/netdata.git/commit/1a75f552b6a24dda3d7d5d172e485530f609107e)
+- [ ] [<code>Fix for building with protobuf 30.0 (#19835)</code>](https://github.com/netdata/netdata.git/commit/a6cc2215f49be2f862cbd8747555b561dc0d6eef)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
