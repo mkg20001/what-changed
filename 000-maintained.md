@@ -118,6 +118,8 @@
 - [ ] [<code>feat: add high contrast theme (#327)</code>](https://github.com/canonical/firmware-updater/commit/22198beebe5c26b8a74abe1bad8badd5cfb27562)
 - [ ] [<code>maint: Migrate to org GitHub to Jira application</code>](https://github.com/canonical/firmware-updater/commit/a75ab6669fd573dd8cae29867ed299f6251dc4a0)
 - [ ] [<code>maint: Migrate to org GitHub to Jira application (#328)</code>](https://github.com/canonical/firmware-updater/commit/e5bca1fc99e902cd552c954739ce2cedb24490cf)
+- [ ] [<code>chore: update issue templates</code>](https://github.com/canonical/firmware-updater/commit/bf04481cb625c82c625f9080831c95dc2faaa223)
+- [ ] [<code>chore: update issue templates (#332)</code>](https://github.com/canonical/firmware-updater/commit/65c99e2291a15cc6581a765954a5ca854f5566b1)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -4637,6 +4639,8 @@
 - [ ] [<code>when destroying pgc, check if the cache is null (#19837)</code>](https://github.com/netdata/netdata.git/commit/36e46884749d9829db26bc77b3cc9c1a69bbad43)
 - [ ] [<code>fix rrdset name crash on cleanup (#19838)</code>](https://github.com/netdata/netdata.git/commit/1a75f552b6a24dda3d7d5d172e485530f609107e)
 - [ ] [<code>Fix for building with protobuf 30.0 (#19835)</code>](https://github.com/netdata/netdata.git/commit/a6cc2215f49be2f862cbd8747555b561dc0d6eef)
+- [ ] [<code>Fix RRDDIM_MEM storage engine index (#19830)</code>](https://github.com/netdata/netdata.git/commit/ffe402f023d0c726e2a11aba3c272cb4f14529c6)
+- [ ] [<code>docs: fix typos in nodes-ephemerality.md (#19840)</code>](https://github.com/netdata/netdata.git/commit/ba9678db6c2d75826e34e85fdbf0969f4b1d4891)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5812,29 +5816,8 @@
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.42.1 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.42.1...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.42.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.42.2...HEAD)
 
-- [ ] [<code>Update StatisticsWidget.cpp</code>](https://github.com/foldynl/QLog.git/commit/35b4d5f20d94c65f45bb7b96f2396fc056fb5758)
-- [ ] [<code>StatisticsWidget: Fixed issue when empty band is not counted</code>](https://github.com/foldynl/QLog.git/commit/72c9dbc120494a9d23466ef8c49cda26609f6ff1)
-- [ ] [<code>StatisticsWidget: Fixed issue when empty mode is not counted</code>](https://github.com/foldynl/QLog.git/commit/cc8e15b476861185a58a736b33da45471bda9482)
-- [ ] [<code>StatisticsWidget: Added source code comments</code>](https://github.com/foldynl/QLog.git/commit/d997d6bf48c12cb609a2b1fcb0e78f3f4cfc5584)
-- [ ] [<code>StatisticsWidget: Improved memory management when Chart is refreshed</code>](https://github.com/foldynl/QLog.git/commit/633f450ec824cb9f7ddfd063889adda20f8294c5)
-- [ ] [<code>StatisticsWidget: Minor change</code>](https://github.com/foldynl/QLog.git/commit/260038ef8f51ebe5d1373623a62217e14d7dea2d)
-- [ ] [<code>StatisticsWidget: TOP10 displays also removed DXCC Entities</code>](https://github.com/foldynl/QLog.git/commit/2d26faa340cca9a895318d345b3334b6be0db2b6)
-- [ ] [<code>SQLite Handler: translate_to_locale can handle NULL, INT and FLOAT values</code>](https://github.com/foldynl/QLog.git/commit/6727b240fde1302b6af42b069cb05061c168b58a)
-- [ ] [<code>StatisticsWidget: TOP10 displays translated countries</code>](https://github.com/foldynl/QLog.git/commit/3926e1fb9ed40fe4dc8a4c780d68849a859be039)
-- [ ] [<code>Revert "Update AwardsDialog.cpp"</code>](https://github.com/foldynl/QLog.git/commit/53b365cd95ca5380f48b36a7544ef67bfb36963f)
-- [ ] [<code>Awards: DXCC displays removed DXCC Entities; Fixed Totals stats - only displayed bands are included to the stats</code>](https://github.com/foldynl/QLog.git/commit/da70f4af9aa8d6758aeef50f8e33d9d9ff110bee)
-- [ ] [<code>Fixed #614 - Unexpected dialog when QSO after contest</code>](https://github.com/foldynl/QLog.git/commit/0fe44de083748415997f40e9ad889d7795523385)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/0854721a1bcf5a935b287a4031f8dbdbfcc8b529)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/3c7daef532f9f8b2ff299e4f284cf7ac71ccad73)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e6bf527e2db8ea61580f7fdc1d8b9e5d26c1693e)
-- [ ] [<code>Fixed #608 - Logbook Country translation</code>](https://github.com/foldynl/QLog.git/commit/29dd332835ac287d1a98e88026e19e053980db8a)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/d40165f27e021f1d794a4f155da75a6ac1e86a3f)
-- [ ] [<code>Updated translations - AI</code>](https://github.com/foldynl/QLog.git/commit/6e3f6c2846550c79f6460525d22230df870b2ade)
-- [ ] [<code>Updated AUTHORS file</code>](https://github.com/foldynl/QLog.git/commit/9b136259ca89ce1d60113f3bccc1e5ae2b436269)
-- [ ] [<code>Preparation for release 0.42.2</code>](https://github.com/foldynl/QLog.git/commit/266ec2647c9cff5872ba7e95f5e99b3b859c5591)
-  - <sub>Tags: <code>v0.42.2</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
