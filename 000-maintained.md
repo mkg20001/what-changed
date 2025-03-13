@@ -154,6 +154,8 @@
 - [ ] [<code>chore: divider when scrolled up</code>](https://github.com/krille-chan/fluffychat/commit/8956f81e4e24e5ab01f7db5d18e8b3d570048582)
 - [ ] [<code>refactor: Easier shift enter logic for text input</code>](https://github.com/krille-chan/fluffychat/commit/dda45f783f2bf699e2a6612cec611c4868c0a2eb)
 - [ ] [<code>build: Downgrade packages and move to fixed flutter typeahead fork</code>](https://github.com/krille-chan/fluffychat/commit/e22d0e8b6ca455f7b8f92153d28c409785ad6429)
+- [ ] [<code>chore: Use other join endpoint for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/97fad52c03765da9d04e338cb16ba8cab34fc801)
+- [ ] [<code>chore: disable echoCancel for audio messages</code>](https://github.com/krille-chan/fluffychat/commit/4c37811878cd781455284b75a7be803ea427a908)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -185,6 +187,8 @@
 - [ ] [<code>chore: divider when scrolled up</code>](https://github.com/krille-chan/fluffychat/commit/8956f81e4e24e5ab01f7db5d18e8b3d570048582)
 - [ ] [<code>refactor: Easier shift enter logic for text input</code>](https://github.com/krille-chan/fluffychat/commit/dda45f783f2bf699e2a6612cec611c4868c0a2eb)
 - [ ] [<code>build: Downgrade packages and move to fixed flutter typeahead fork</code>](https://github.com/krille-chan/fluffychat/commit/e22d0e8b6ca455f7b8f92153d28c409785ad6429)
+- [ ] [<code>chore: Use other join endpoint for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/97fad52c03765da9d04e338cb16ba8cab34fc801)
+- [ ] [<code>chore: disable echoCancel for audio messages</code>](https://github.com/krille-chan/fluffychat/commit/4c37811878cd781455284b75a7be803ea427a908)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -260,6 +264,20 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/api_internal: Centralize all internal API endpoints</code>](https://github.com/lxc/incus/commit/162dba49884e8d0c5c07c250be288fc6603589fe)
 - [ ] [<code>tests: Update for re-organized internal endpoints</code>](https://github.com/lxc/incus/commit/7244047ef77c6bfff535d2d0d1bb99a71facc05d)
+- [ ] [<code>incus/drivers: Fix ZFS CreateVolume deletes pre-existing data on failure</code>](https://github.com/lxc/incus/commit/ee12c8125852f9fc898fc717ee5084326d90db0a)
+- [ ] [<code>incus/rebuild: Correct help message</code>](https://github.com/lxc/incus/commit/5fe94fab824c5ba9622109a6272e6ad4ab093145)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d087288387c1e028efc57b28e4dc5823edbb685a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster/config: Set default value for acme.ca_url</code>](https://github.com/lxc/incus/commit/d9e4a3508d05d40e7199767c8abfe18bd3f33e3a)
+- [ ] [<code>incusd/cluster/config: Return acme.provider.environment as a slice</code>](https://github.com/lxc/incus/commit/0a5f9267ee397a063096c9c20bb2769557d4caca)
+- [ ] [<code>incusd/acme: Remove DNS-01 provider (now using lego externally)</code>](https://github.com/lxc/incus/commit/2f8a5f5eb3062b00230f92c9d631065e748a6137)
+- [ ] [<code>incusd/acme: Move DNS-01 to external lego binary</code>](https://github.com/lxc/incus/commit/09a6db367f657735552222345f57fa22ebf5a4a5)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/api_1_0: Trigger ACME on all ACME config options</code>](https://github.com/lxc/incus/commit/298d90fbd4872a7aa9f85a462916b8c3bc26c55b)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1cede635625dddcca43119861cb8ba90b4035953)
+- [ ] [<code>incus/file: Always use 1MB chunks for SFTP</code>](https://github.com/lxc/incus/commit/6d0b6fa6538561b975a1dfcb3163060022a83083)
+- [ ] [<code>incusd/instance/lxc: Fail immediately if no idmap found</code>](https://github.com/lxc/incus/commit/fc9a2b59bcaa340000a0aeb839eb6fd36c954de9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2406,6 +2424,20 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/api_internal: Centralize all internal API endpoints</code>](https://github.com/lxc/incus/commit/162dba49884e8d0c5c07c250be288fc6603589fe)
 - [ ] [<code>tests: Update for re-organized internal endpoints</code>](https://github.com/lxc/incus/commit/7244047ef77c6bfff535d2d0d1bb99a71facc05d)
+- [ ] [<code>incus/drivers: Fix ZFS CreateVolume deletes pre-existing data on failure</code>](https://github.com/lxc/incus/commit/ee12c8125852f9fc898fc717ee5084326d90db0a)
+- [ ] [<code>incus/rebuild: Correct help message</code>](https://github.com/lxc/incus/commit/5fe94fab824c5ba9622109a6272e6ad4ab093145)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d087288387c1e028efc57b28e4dc5823edbb685a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster/config: Set default value for acme.ca_url</code>](https://github.com/lxc/incus/commit/d9e4a3508d05d40e7199767c8abfe18bd3f33e3a)
+- [ ] [<code>incusd/cluster/config: Return acme.provider.environment as a slice</code>](https://github.com/lxc/incus/commit/0a5f9267ee397a063096c9c20bb2769557d4caca)
+- [ ] [<code>incusd/acme: Remove DNS-01 provider (now using lego externally)</code>](https://github.com/lxc/incus/commit/2f8a5f5eb3062b00230f92c9d631065e748a6137)
+- [ ] [<code>incusd/acme: Move DNS-01 to external lego binary</code>](https://github.com/lxc/incus/commit/09a6db367f657735552222345f57fa22ebf5a4a5)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/api_1_0: Trigger ACME on all ACME config options</code>](https://github.com/lxc/incus/commit/298d90fbd4872a7aa9f85a462916b8c3bc26c55b)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1cede635625dddcca43119861cb8ba90b4035953)
+- [ ] [<code>incus/file: Always use 1MB chunks for SFTP</code>](https://github.com/lxc/incus/commit/6d0b6fa6538561b975a1dfcb3163060022a83083)
+- [ ] [<code>incusd/instance/lxc: Fail immediately if no idmap found</code>](https://github.com/lxc/incus/commit/fc9a2b59bcaa340000a0aeb839eb6fd36c954de9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4641,6 +4673,9 @@
 - [ ] [<code>Fix for building with protobuf 30.0 (#19835)</code>](https://github.com/netdata/netdata.git/commit/a6cc2215f49be2f862cbd8747555b561dc0d6eef)
 - [ ] [<code>Fix RRDDIM_MEM storage engine index (#19830)</code>](https://github.com/netdata/netdata.git/commit/ffe402f023d0c726e2a11aba3c272cb4f14529c6)
 - [ ] [<code>docs: fix typos in nodes-ephemerality.md (#19840)</code>](https://github.com/netdata/netdata.git/commit/ba9678db6c2d75826e34e85fdbf0969f4b1d4891)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-386-nightly.</code>](https://github.com/netdata/netdata.git/commit/42f722f92d9cfc5887c9b9bdd1a4432adac5e1be)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.2 to 0.32.3 in /src/go (#19848)</code>](https://github.com/netdata/netdata.git/commit/cf7a071618b783dc9d7001f7abe9a4ccd87ada00)
+- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.48.1 to 0.49.0 in /src/go (#19845)</code>](https://github.com/netdata/netdata.git/commit/54fc0901a50db72421eff863a78c1632a15cc00d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
