@@ -17,7 +17,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/24.3.5/dbeaver-ce-24.3.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/24.3.5/dbeaver-ce-24.3.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.0/dbeaver-ce-25.0.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.0/dbeaver-ce-25.0.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -156,6 +156,8 @@
 - [ ] [<code>build: Downgrade packages and move to fixed flutter typeahead fork</code>](https://github.com/krille-chan/fluffychat/commit/e22d0e8b6ca455f7b8f92153d28c409785ad6429)
 - [ ] [<code>chore: Use other join endpoint for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/97fad52c03765da9d04e338cb16ba8cab34fc801)
 - [ ] [<code>chore: disable echoCancel for audio messages</code>](https://github.com/krille-chan/fluffychat/commit/4c37811878cd781455284b75a7be803ea427a908)
+- [ ] [<code>chore: Simpler changing config variables</code>](https://github.com/krille-chan/fluffychat/commit/251bcb3ebeda72c4cdd64c451f48968f52af7ed1)
+- [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -189,6 +191,8 @@
 - [ ] [<code>build: Downgrade packages and move to fixed flutter typeahead fork</code>](https://github.com/krille-chan/fluffychat/commit/e22d0e8b6ca455f7b8f92153d28c409785ad6429)
 - [ ] [<code>chore: Use other join endpoint for room upgrades</code>](https://github.com/krille-chan/fluffychat/commit/97fad52c03765da9d04e338cb16ba8cab34fc801)
 - [ ] [<code>chore: disable echoCancel for audio messages</code>](https://github.com/krille-chan/fluffychat/commit/4c37811878cd781455284b75a7be803ea427a908)
+- [ ] [<code>chore: Simpler changing config variables</code>](https://github.com/krille-chan/fluffychat/commit/251bcb3ebeda72c4cdd64c451f48968f52af7ed1)
+- [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -278,6 +282,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1cede635625dddcca43119861cb8ba90b4035953)
 - [ ] [<code>incus/file: Always use 1MB chunks for SFTP</code>](https://github.com/lxc/incus/commit/6d0b6fa6538561b975a1dfcb3163060022a83083)
 - [ ] [<code>incusd/instance/lxc: Fail immediately if no idmap found</code>](https://github.com/lxc/incus/commit/fc9a2b59bcaa340000a0aeb839eb6fd36c954de9)
+- [ ] [<code>incusd/acme: use correct path</code>](https://github.com/lxc/incus/commit/66188c8ac0939859b836dfc9d2b4c6e8ea13ff6d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2438,6 +2443,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1cede635625dddcca43119861cb8ba90b4035953)
 - [ ] [<code>incus/file: Always use 1MB chunks for SFTP</code>](https://github.com/lxc/incus/commit/6d0b6fa6538561b975a1dfcb3163060022a83083)
 - [ ] [<code>incusd/instance/lxc: Fail immediately if no idmap found</code>](https://github.com/lxc/incus/commit/fc9a2b59bcaa340000a0aeb839eb6fd36c954de9)
+- [ ] [<code>incusd/acme: use correct path</code>](https://github.com/lxc/incus/commit/66188c8ac0939859b836dfc9d2b4c6e8ea13ff6d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -2775,6 +2781,7 @@
 - [ ] [<code>Use unspecified matrix coeffs in avifsvttest (#2678)</code>](https://github.com/AOMediaCodec/libavif/commit/3cffa72471fa27ed04b75a09aa781838e6fbbd70)
 - [ ] [<code>Bump SVT-AV1 dependency to 3.0.1 (#2683)</code>](https://github.com/AOMediaCodec/libavif/commit/632b7eacdf428ec3a294808df08475fd49225b44)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test_cmd_stdin: extract mdat offset automatically (#2681)</code>](https://github.com/AOMediaCodec/libavif/commit/086e7e127be93b7595fa2a2144bc6afb23ff3e22)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4676,6 +4683,13 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-386-nightly.</code>](https://github.com/netdata/netdata.git/commit/42f722f92d9cfc5887c9b9bdd1a4432adac5e1be)
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.2 to 0.32.3 in /src/go (#19848)</code>](https://github.com/netdata/netdata.git/commit/cf7a071618b783dc9d7001f7abe9a4ccd87ada00)
 - [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.48.1 to 0.49.0 in /src/go (#19845)</code>](https://github.com/netdata/netdata.git/commit/54fc0901a50db72421eff863a78c1632a15cc00d)
+- [ ] [<code>fix updating on RPi2+ (#19850)</code>](https://github.com/netdata/netdata.git/commit/a8c738c7d742ed6b8bdfad49e85c4641de1739f6)
+- [ ] [<code>Add oci meta info (#19839)</code>](https://github.com/netdata/netdata.git/commit/35214fd7acbded1d13a69be6598d6a56f8ae8803)
+- [ ] [<code>minor fixes (#19849)</code>](https://github.com/netdata/netdata.git/commit/b51fdecd43e9be6bfe78271c736a6ec4106bf315)
+- [ ] [<code>fix contexts labels to avoid clearing the rrdlabels pointer (#19853)</code>](https://github.com/netdata/netdata.git/commit/a4341ee3d7c0a3e9bab3c098c26531a3efe8b9a9)
+- [ ] [<code>make sure alerts are concurrently altered by dyncfg (#19854)</code>](https://github.com/netdata/netdata.git/commit/766e65288c2ea25e684156fac4d524fdf3e345c6)
+- [ ] [<code>fix crashes identified by sentry (#19856)</code>](https://github.com/netdata/netdata.git/commit/a20869aa37971eecbbfe79ec11351d79ef106ab9)
+- [ ] [<code>daemon status 15 (#19857)</code>](https://github.com/netdata/netdata.git/commit/369635d2f7a72c0368b06efd883d48c28d1d56a6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
