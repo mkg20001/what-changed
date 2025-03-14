@@ -4690,6 +4690,10 @@
 - [ ] [<code>make sure alerts are concurrently altered by dyncfg (#19854)</code>](https://github.com/netdata/netdata.git/commit/766e65288c2ea25e684156fac4d524fdf3e345c6)
 - [ ] [<code>fix crashes identified by sentry (#19856)</code>](https://github.com/netdata/netdata.git/commit/a20869aa37971eecbbfe79ec11351d79ef106ab9)
 - [ ] [<code>daemon status 15 (#19857)</code>](https://github.com/netdata/netdata.git/commit/369635d2f7a72c0368b06efd883d48c28d1d56a6)
+- [ ] [<code>netdata-uninstaller: improve input prompt with more descriptive guidance (#19855)</code>](https://github.com/netdata/netdata.git/commit/c718bca80d5fe059b98a223c12df95fb60f12a57)
+- [ ] [<code>disable UNW_LOCAL_ONLY on static builds (#19858)</code>](https://github.com/netdata/netdata.git/commit/b942b581a56780658819a4c8ee25b7939c7db795)
+- [ ] [<code>fix(macos.plugin): correct disks/network devices charts (#19859)</code>](https://github.com/netdata/netdata.git/commit/622592de25b18558b4a5b1b662c9277511b43de8)
+- [ ] [<code>restore needed variables for pluginsd (#19860)</code>](https://github.com/netdata/netdata.git/commit/719732fd128a3fc0d7acb35d29ec4e886aee039d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
