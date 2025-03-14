@@ -283,6 +283,8 @@
 - [ ] [<code>incus/file: Always use 1MB chunks for SFTP</code>](https://github.com/lxc/incus/commit/6d0b6fa6538561b975a1dfcb3163060022a83083)
 - [ ] [<code>incusd/instance/lxc: Fail immediately if no idmap found</code>](https://github.com/lxc/incus/commit/fc9a2b59bcaa340000a0aeb839eb6fd36c954de9)
 - [ ] [<code>incusd/acme: use correct path</code>](https://github.com/lxc/incus/commit/66188c8ac0939859b836dfc9d2b4c6e8ea13ff6d)
+- [ ] [<code>incusd/bgp: Rework start/stop logic</code>](https://github.com/lxc/incus/commit/6a0d0137735c260b5872e27c7d94720e8d989228)
+- [ ] [<code>incusd/network/ovn: Skip existing static routes</code>](https://github.com/lxc/incus/commit/5ce9370179049ca6dbd13222d1d0eb0d12e43fb3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2444,6 +2446,8 @@
 - [ ] [<code>incus/file: Always use 1MB chunks for SFTP</code>](https://github.com/lxc/incus/commit/6d0b6fa6538561b975a1dfcb3163060022a83083)
 - [ ] [<code>incusd/instance/lxc: Fail immediately if no idmap found</code>](https://github.com/lxc/incus/commit/fc9a2b59bcaa340000a0aeb839eb6fd36c954de9)
 - [ ] [<code>incusd/acme: use correct path</code>](https://github.com/lxc/incus/commit/66188c8ac0939859b836dfc9d2b4c6e8ea13ff6d)
+- [ ] [<code>incusd/bgp: Rework start/stop logic</code>](https://github.com/lxc/incus/commit/6a0d0137735c260b5872e27c7d94720e8d989228)
+- [ ] [<code>incusd/network/ovn: Skip existing static routes</code>](https://github.com/lxc/incus/commit/5ce9370179049ca6dbd13222d1d0eb0d12e43fb3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4694,6 +4698,7 @@
 - [ ] [<code>disable UNW_LOCAL_ONLY on static builds (#19858)</code>](https://github.com/netdata/netdata.git/commit/b942b581a56780658819a4c8ee25b7939c7db795)
 - [ ] [<code>fix(macos.plugin): correct disks/network devices charts (#19859)</code>](https://github.com/netdata/netdata.git/commit/622592de25b18558b4a5b1b662c9277511b43de8)
 - [ ] [<code>restore needed variables for pluginsd (#19860)</code>](https://github.com/netdata/netdata.git/commit/719732fd128a3fc0d7acb35d29ec4e886aee039d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-400-nightly.</code>](https://github.com/netdata/netdata.git/commit/bbbdef0f906bf2f11027d34bca41be8363cd661e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5966,6 +5971,7 @@
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
+- [ ] [<code>Fix video platform wikipedia link</code>](https://github.com/axcore/tartube/commit/da56685b9ae59483068421a8c51f9bffe31861a6)
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
