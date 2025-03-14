@@ -4699,6 +4699,10 @@
 - [ ] [<code>fix(macos.plugin): correct disks/network devices charts (#19859)</code>](https://github.com/netdata/netdata.git/commit/622592de25b18558b4a5b1b662c9277511b43de8)
 - [ ] [<code>restore needed variables for pluginsd (#19860)</code>](https://github.com/netdata/netdata.git/commit/719732fd128a3fc0d7acb35d29ec4e886aee039d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-400-nightly.</code>](https://github.com/netdata/netdata.git/commit/bbbdef0f906bf2f11027d34bca41be8363cd661e)
+- [ ] [<code>Initial commit with snmp profile code (#19813)</code>](https://github.com/netdata/netdata.git/commit/a27bd240989b86cde5c31e23f760c38af84a4e25)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.62.0 to 0.63.0 in /src/go (#19864)</code>](https://github.com/netdata/netdata.git/commit/e878d7ce709fc7781672741dc07fc092cec13f9d)
+- [ ] [<code>daemon status file 16 (#19863)</code>](https://github.com/netdata/netdata.git/commit/17a53bceb8a9ed69406e62d1993d286a7c0ccea1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5972,6 +5976,8 @@
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
 - [ ] [<code>Fix video platform wikipedia link</code>](https://github.com/axcore/tartube/commit/da56685b9ae59483068421a8c51f9bffe31861a6)
+- [ ] [<code>Replace pip3 with pipx</code>](https://github.com/axcore/tartube/commit/4ff29ed165f2d0fbac6d560cb3ec3ff2e206a305)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
