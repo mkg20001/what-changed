@@ -4775,6 +4775,9 @@
 - [ ] [<code>Release memory on shutdown - detect invalid extent in journal files (#19861)</code>](https://github.com/netdata/netdata.git/commit/fc83a2e9e7503afa4758d64315862a5cd6f8d34a)
 - [ ] [<code>fix(freebsd.plugin): correct disks/network devices charts (#19866)</code>](https://github.com/netdata/netdata.git/commit/a02c0ceb0bf7b6f268bd3ecb34e4edac33a917a2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-409-nightly.</code>](https://github.com/netdata/netdata.git/commit/e38d8e2a3bddcc52bd9b36c300e0ee530e4c5344)
+- [ ] [<code>daemon status file 17 (#19869)</code>](https://github.com/netdata/netdata.git/commit/d686b537218a59d1b2482c7da51ad2056801ee90)
+- [ ] [<code>Remove tj-actions/changed-files from CI jobs. (#19870)</code>](https://github.com/netdata/netdata.git/commit/6e87c6a348238c1074cb3d43080eb04ec1bd0650)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
