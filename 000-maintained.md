@@ -311,6 +311,13 @@
 - [ ] [<code>incusd/network/ovn: Add dns.nameservers</code>](https://github.com/lxc/incus/commit/d34a95afdcd17ab0772c0fb9569a76dc34260086)
 - [ ] [<code>doc/network: Add dns.nameservers to bridge and OVN</code>](https://github.com/lxc/incus/commit/655695dfe618b2d7a9918ab7ef5a13693bd3d613)
 - [ ] [<code>incusd/network/ovn: Correctly remove individual DHCP options from OVN when they are unset</code>](https://github.com/lxc/incus/commit/81d243b03629785b61cecff379cbccfff0910fe6)
+- [ ] [<code>incusd/ports: Cleanup consts</code>](https://github.com/lxc/incus/commit/2a9cd7f9163e4feeda423e3a3084bf3f90ec6471)
+- [ ] [<code>api: acme_http01_port</code>](https://github.com/lxc/incus/commit/27f1f9fba7a37429fd14bfa83419a4fecb54fb29)
+- [ ] [<code>incusd/cluster/config: Add acme.http.port</code>](https://github.com/lxc/incus/commit/d8ca081873bae82c5b2acec0a0513eb9336db2b6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/004c6b30e57c59eb9b34d2493e16f4a1b1a3724e)
+- [ ] [<code>incusd/acme: Use lego for HTTP-01</code>](https://github.com/lxc/incus/commit/05b49816634958d56e347c036611ee33fb7d9e21)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/8e67b03eaa197aa9dc9ac48bca9ec875caf31232)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2500,6 +2507,13 @@
 - [ ] [<code>incusd/network/ovn: Add dns.nameservers</code>](https://github.com/lxc/incus/commit/d34a95afdcd17ab0772c0fb9569a76dc34260086)
 - [ ] [<code>doc/network: Add dns.nameservers to bridge and OVN</code>](https://github.com/lxc/incus/commit/655695dfe618b2d7a9918ab7ef5a13693bd3d613)
 - [ ] [<code>incusd/network/ovn: Correctly remove individual DHCP options from OVN when they are unset</code>](https://github.com/lxc/incus/commit/81d243b03629785b61cecff379cbccfff0910fe6)
+- [ ] [<code>incusd/ports: Cleanup consts</code>](https://github.com/lxc/incus/commit/2a9cd7f9163e4feeda423e3a3084bf3f90ec6471)
+- [ ] [<code>api: acme_http01_port</code>](https://github.com/lxc/incus/commit/27f1f9fba7a37429fd14bfa83419a4fecb54fb29)
+- [ ] [<code>incusd/cluster/config: Add acme.http.port</code>](https://github.com/lxc/incus/commit/d8ca081873bae82c5b2acec0a0513eb9336db2b6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/004c6b30e57c59eb9b34d2493e16f4a1b1a3724e)
+- [ ] [<code>incusd/acme: Use lego for HTTP-01</code>](https://github.com/lxc/incus/commit/05b49816634958d56e347c036611ee33fb7d9e21)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/8e67b03eaa197aa9dc9ac48bca9ec875caf31232)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4760,6 +4774,7 @@
 - [ ] [<code>fixed sentry version (#19868)</code>](https://github.com/netdata/netdata.git/commit/a91c4da31de89d8c371e4bf8d8f505898e6c00a8)
 - [ ] [<code>Release memory on shutdown - detect invalid extent in journal files (#19861)</code>](https://github.com/netdata/netdata.git/commit/fc83a2e9e7503afa4758d64315862a5cd6f8d34a)
 - [ ] [<code>fix(freebsd.plugin): correct disks/network devices charts (#19866)</code>](https://github.com/netdata/netdata.git/commit/a02c0ceb0bf7b6f268bd3ecb34e4edac33a917a2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-409-nightly.</code>](https://github.com/netdata/netdata.git/commit/e38d8e2a3bddcc52bd9b36c300e0ee530e4c5344)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
