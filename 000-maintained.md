@@ -285,6 +285,32 @@
 - [ ] [<code>incusd/acme: use correct path</code>](https://github.com/lxc/incus/commit/66188c8ac0939859b836dfc9d2b4c6e8ea13ff6d)
 - [ ] [<code>incusd/bgp: Rework start/stop logic</code>](https://github.com/lxc/incus/commit/6a0d0137735c260b5872e27c7d94720e8d989228)
 - [ ] [<code>incusd/network/ovn: Skip existing static routes</code>](https://github.com/lxc/incus/commit/5ce9370179049ca6dbd13222d1d0eb0d12e43fb3)
+- [ ] [<code>incusd/instance/qemu: Set caching-mode with intel-iommu</code>](https://github.com/lxc/incus/commit/d42a2e62365b6464c90fb6ced2b38cf6a1f6fad2)
+- [ ] [<code>incus-agent: Improve SFTP performance</code>](https://github.com/lxc/incus/commit/ecca1401244f8cc5018886e7be3e6bbfa16c7289)
+- [ ] [<code>incusd/instance/qemu: Move Windows check to a function</code>](https://github.com/lxc/incus/commit/727bdc4667778e0ca448cac485909f505ba15551)
+- [ ] [<code>incusd/instance/qemu: Set RTC base to localtime on Windows</code>](https://github.com/lxc/incus/commit/387d0536639549c8c4e944488b20b2f28e36eb33)
+- [ ] [<code>doc/api-extensions: Fix formatting</code>](https://github.com/lxc/incus/commit/7bbdf4655f42a397bf2214e8ce92d812896c588b)
+- [ ] [<code>api: network_state_ovn_ls</code>](https://github.com/lxc/incus/commit/a22bbd026c4af859e9cb7f356abf85e507d33566)
+- [ ] [<code>incusd/network/ovn: Export LogicalRouter and LogicalSwitch names as needed</code>](https://github.com/lxc/incus/commit/7766b160709f0b5e082d6002fe6c4fd86d2a0c59)
+- [ ] [<code>shared/api: Add LogicalSwitch to OVN state</code>](https://github.com/lxc/incus/commit/250ffb5c04f5957f5993a2f413742270b7d651bc)
+- [ ] [<code>incus/network: Add Logical Switch for OVN</code>](https://github.com/lxc/incus/commit/28a67dbbcc2bd2878f646cdcbfd300b5995b26d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ecae47cabb0870ccf1dcdb02d44bdbfb9269551)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network: Better handle partial OVN state</code>](https://github.com/lxc/incus/commit/61c38843d8d46b6cf67ea2bfed0a55f699928632)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/9e95f5637e842a0d0fd224cf4b1c7e37012b48b2)
+- [ ] [<code>incus/network: Support for missing counters</code>](https://github.com/lxc/incus/commit/849c3674a29c22f24c2d4f6804703b231e525709)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Make NetworkStateCounters a pointer</code>](https://github.com/lxc/incus/commit/01b0e1c4e6659b6ee35c5bca38107acfcb2bb86c)
+- [ ] [<code>incusd/resources: Update for Counters being a pointer</code>](https://github.com/lxc/incus/commit/82a47df24ceda957f85b5d86b1a4e77b03e7a0f1)
+- [ ] [<code>incus/copy: Clear full device when overriding with type=none</code>](https://github.com/lxc/incus/commit/64a223670d68441371bebb0836ef89ef7c298513)
+- [ ] [<code>doc/instance/create: Cover behavior on Windows</code>](https://github.com/lxc/incus/commit/4a56581a5672afdfc4853fe3e7f19a1c7f14cb09)
+- [ ] [<code>api: network_dns_nameservers</code>](https://github.com/lxc/incus/commit/14d2c6df9e7967f91fe8d4b39db22bc4145410ae)
+- [ ] [<code>incusd/network/bridge: Add dns.nameservers</code>](https://github.com/lxc/incus/commit/45b80d579795f0e70310e9984c6e8d0084ee9d96)
+- [ ] [<code>incusd/network/ovn: Add dns.nameservers</code>](https://github.com/lxc/incus/commit/d34a95afdcd17ab0772c0fb9569a76dc34260086)
+- [ ] [<code>doc/network: Add dns.nameservers to bridge and OVN</code>](https://github.com/lxc/incus/commit/655695dfe618b2d7a9918ab7ef5a13693bd3d613)
+- [ ] [<code>incusd/network/ovn: Correctly remove individual DHCP options from OVN when they are unset</code>](https://github.com/lxc/incus/commit/81d243b03629785b61cecff379cbccfff0910fe6)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2448,6 +2474,32 @@
 - [ ] [<code>incusd/acme: use correct path</code>](https://github.com/lxc/incus/commit/66188c8ac0939859b836dfc9d2b4c6e8ea13ff6d)
 - [ ] [<code>incusd/bgp: Rework start/stop logic</code>](https://github.com/lxc/incus/commit/6a0d0137735c260b5872e27c7d94720e8d989228)
 - [ ] [<code>incusd/network/ovn: Skip existing static routes</code>](https://github.com/lxc/incus/commit/5ce9370179049ca6dbd13222d1d0eb0d12e43fb3)
+- [ ] [<code>incusd/instance/qemu: Set caching-mode with intel-iommu</code>](https://github.com/lxc/incus/commit/d42a2e62365b6464c90fb6ced2b38cf6a1f6fad2)
+- [ ] [<code>incus-agent: Improve SFTP performance</code>](https://github.com/lxc/incus/commit/ecca1401244f8cc5018886e7be3e6bbfa16c7289)
+- [ ] [<code>incusd/instance/qemu: Move Windows check to a function</code>](https://github.com/lxc/incus/commit/727bdc4667778e0ca448cac485909f505ba15551)
+- [ ] [<code>incusd/instance/qemu: Set RTC base to localtime on Windows</code>](https://github.com/lxc/incus/commit/387d0536639549c8c4e944488b20b2f28e36eb33)
+- [ ] [<code>doc/api-extensions: Fix formatting</code>](https://github.com/lxc/incus/commit/7bbdf4655f42a397bf2214e8ce92d812896c588b)
+- [ ] [<code>api: network_state_ovn_ls</code>](https://github.com/lxc/incus/commit/a22bbd026c4af859e9cb7f356abf85e507d33566)
+- [ ] [<code>incusd/network/ovn: Export LogicalRouter and LogicalSwitch names as needed</code>](https://github.com/lxc/incus/commit/7766b160709f0b5e082d6002fe6c4fd86d2a0c59)
+- [ ] [<code>shared/api: Add LogicalSwitch to OVN state</code>](https://github.com/lxc/incus/commit/250ffb5c04f5957f5993a2f413742270b7d651bc)
+- [ ] [<code>incus/network: Add Logical Switch for OVN</code>](https://github.com/lxc/incus/commit/28a67dbbcc2bd2878f646cdcbfd300b5995b26d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ecae47cabb0870ccf1dcdb02d44bdbfb9269551)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network: Better handle partial OVN state</code>](https://github.com/lxc/incus/commit/61c38843d8d46b6cf67ea2bfed0a55f699928632)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/9e95f5637e842a0d0fd224cf4b1c7e37012b48b2)
+- [ ] [<code>incus/network: Support for missing counters</code>](https://github.com/lxc/incus/commit/849c3674a29c22f24c2d4f6804703b231e525709)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Make NetworkStateCounters a pointer</code>](https://github.com/lxc/incus/commit/01b0e1c4e6659b6ee35c5bca38107acfcb2bb86c)
+- [ ] [<code>incusd/resources: Update for Counters being a pointer</code>](https://github.com/lxc/incus/commit/82a47df24ceda957f85b5d86b1a4e77b03e7a0f1)
+- [ ] [<code>incus/copy: Clear full device when overriding with type=none</code>](https://github.com/lxc/incus/commit/64a223670d68441371bebb0836ef89ef7c298513)
+- [ ] [<code>doc/instance/create: Cover behavior on Windows</code>](https://github.com/lxc/incus/commit/4a56581a5672afdfc4853fe3e7f19a1c7f14cb09)
+- [ ] [<code>api: network_dns_nameservers</code>](https://github.com/lxc/incus/commit/14d2c6df9e7967f91fe8d4b39db22bc4145410ae)
+- [ ] [<code>incusd/network/bridge: Add dns.nameservers</code>](https://github.com/lxc/incus/commit/45b80d579795f0e70310e9984c6e8d0084ee9d96)
+- [ ] [<code>incusd/network/ovn: Add dns.nameservers</code>](https://github.com/lxc/incus/commit/d34a95afdcd17ab0772c0fb9569a76dc34260086)
+- [ ] [<code>doc/network: Add dns.nameservers to bridge and OVN</code>](https://github.com/lxc/incus/commit/655695dfe618b2d7a9918ab7ef5a13693bd3d613)
+- [ ] [<code>incusd/network/ovn: Correctly remove individual DHCP options from OVN when they are unset</code>](https://github.com/lxc/incus/commit/81d243b03629785b61cecff379cbccfff0910fe6)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4703,6 +4755,11 @@
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.62.0 to 0.63.0 in /src/go (#19864)</code>](https://github.com/netdata/netdata.git/commit/e878d7ce709fc7781672741dc07fc092cec13f9d)
 - [ ] [<code>daemon status file 16 (#19863)</code>](https://github.com/netdata/netdata.git/commit/17a53bceb8a9ed69406e62d1993d286a7c0ccea1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>improvement(macos.plugin): add options to filter net ifaces and mountpoints (#19865)</code>](https://github.com/netdata/netdata.git/commit/6cec7fe4e3c9a35fd289479c5e1c9398800fa42f)
+- [ ] [<code>fixed sentry dedup (#19867)</code>](https://github.com/netdata/netdata.git/commit/9e1a16d3b5374b5a8b4a411c8071dfdde3451907)
+- [ ] [<code>fixed sentry version (#19868)</code>](https://github.com/netdata/netdata.git/commit/a91c4da31de89d8c371e4bf8d8f505898e6c00a8)
+- [ ] [<code>Release memory on shutdown - detect invalid extent in journal files (#19861)</code>](https://github.com/netdata/netdata.git/commit/fc83a2e9e7503afa4758d64315862a5cd6f8d34a)
+- [ ] [<code>fix(freebsd.plugin): correct disks/network devices charts (#19866)</code>](https://github.com/netdata/netdata.git/commit/a02c0ceb0bf7b6f268bd3ecb34e4edac33a917a2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
