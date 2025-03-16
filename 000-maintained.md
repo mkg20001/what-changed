@@ -163,6 +163,7 @@
 - [ ] [<code>chore: disable echoCancel for audio messages</code>](https://github.com/krille-chan/fluffychat/commit/4c37811878cd781455284b75a7be803ea427a908)
 - [ ] [<code>chore: Simpler changing config variables</code>](https://github.com/krille-chan/fluffychat/commit/251bcb3ebeda72c4cdd64c451f48968f52af7ed1)
 - [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
+- [ ] [<code>chore: Make push gateway configurable</code>](https://github.com/krille-chan/fluffychat/commit/92db57836590c533645138237260061b0a0e6f7b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -198,6 +199,7 @@
 - [ ] [<code>chore: disable echoCancel for audio messages</code>](https://github.com/krille-chan/fluffychat/commit/4c37811878cd781455284b75a7be803ea427a908)
 - [ ] [<code>chore: Simpler changing config variables</code>](https://github.com/krille-chan/fluffychat/commit/251bcb3ebeda72c4cdd64c451f48968f52af7ed1)
 - [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
+- [ ] [<code>chore: Make push gateway configurable</code>](https://github.com/krille-chan/fluffychat/commit/92db57836590c533645138237260061b0a0e6f7b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -328,6 +330,18 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/b18123287ab85a134f0e421e9aba7b534bf2e3b5)
 - [ ] [<code>incusd/instance/qemu: Use saved machine definition when restoring running VM</code>](https://github.com/lxc/incus/commit/2a9a0fd3244c6d33aa992f995dfa10f9aac9c8c1)
 - [ ] [<code>incusd/instance/qemu: Handle firmware vars name matching internal one</code>](https://github.com/lxc/incus/commit/76bf08bdf492cfd3991b46c8627b1ebb00689658)
+- [ ] [<code>incusd: Switch MAC generation to Zabbly prefix</code>](https://github.com/lxc/incus/commit/0a26a73be1b5594fe61e982512b556647c914973)
+- [ ] [<code>incusd: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/926a30248c3e1da7c218d503b6a9d7aa235dc2a2)
+- [ ] [<code>doc: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/76602f1787f1f2c175214becf6615d8669d532d6)
+- [ ] [<code>incus: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/b15abd2d80446f255a30647235fde01c2dde0648)
+- [ ] [<code>lxc-to-incus: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/7b9b94039904b5b8aab07ea9ce365441f0fdfa05)
+- [ ] [<code>shared/api: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/3f150b7c4f315256c16828e344c591c7348de481)
+- [ ] [<code>tests: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/497eea20e46547d7688b21489e3a26a910447bdf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/2be243841439ef8eae6efbcfcf00c54b95304273)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/959cf53676b813c66604aa246837522a8cd4ded7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>client: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/3eea02e84b8affa6de3eb7d565a687b4b9c59bdc)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2529,6 +2543,18 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/b18123287ab85a134f0e421e9aba7b534bf2e3b5)
 - [ ] [<code>incusd/instance/qemu: Use saved machine definition when restoring running VM</code>](https://github.com/lxc/incus/commit/2a9a0fd3244c6d33aa992f995dfa10f9aac9c8c1)
 - [ ] [<code>incusd/instance/qemu: Handle firmware vars name matching internal one</code>](https://github.com/lxc/incus/commit/76bf08bdf492cfd3991b46c8627b1ebb00689658)
+- [ ] [<code>incusd: Switch MAC generation to Zabbly prefix</code>](https://github.com/lxc/incus/commit/0a26a73be1b5594fe61e982512b556647c914973)
+- [ ] [<code>incusd: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/926a30248c3e1da7c218d503b6a9d7aa235dc2a2)
+- [ ] [<code>doc: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/76602f1787f1f2c175214becf6615d8669d532d6)
+- [ ] [<code>incus: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/b15abd2d80446f255a30647235fde01c2dde0648)
+- [ ] [<code>lxc-to-incus: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/7b9b94039904b5b8aab07ea9ce365441f0fdfa05)
+- [ ] [<code>shared/api: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/3f150b7c4f315256c16828e344c591c7348de481)
+- [ ] [<code>tests: Switch to new MAC prefix</code>](https://github.com/lxc/incus/commit/497eea20e46547d7688b21489e3a26a910447bdf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/2be243841439ef8eae6efbcfcf00c54b95304273)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/959cf53676b813c66604aa246837522a8cd4ded7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>client: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/3eea02e84b8affa6de3eb7d565a687b4b9c59bdc)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -2943,6 +2969,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Added LXC_IPV6_ENABLE option for lxc-net to enable or disable IPv6</code>](https://github.com/lxc/lxc/commit/d047d81b7745467610ec3fa1667bbb50a3b265d0)
 - [ ] [<code>sysconfig/lxc: remove false comment</code>](https://github.com/lxc/lxc/commit/31cd14682212113c5f8230d993c66ba7c630ec72)
+- [ ] [<code>global: Switch MAC generation to Zabbly prefix</code>](https://github.com/lxc/lxc/commit/7bd24f6cbf116c3e49d29d6ccfffdb9c3e92b328)
+- [ ] [<code>global: Switch to new MAC prefix</code>](https://github.com/lxc/lxc/commit/7914afb0cdddf6085e2b46e696655b5135ed0cb5)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
