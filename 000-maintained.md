@@ -61,6 +61,11 @@
 - [ ] [<code>Add user/group ID mapping from passwd and group files</code>](https://github.com/lxc/distrobuilder/commit/196667c0c2f7f99816f9cd9f0f80bad0c5e73435)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>README: Add missing packages</code>](https://github.com/lxc/distrobuilder/commit/2dafb1426fe64aeb4477ed2d0dc2669a7e12afb8)
+- [ ] [<code>systemd: Remove unused logic</code>](https://github.com/lxc/distrobuilder/commit/11662f14685963ebcede97736d84cda2bf571431)
+- [ ] [<code>systemd: Cleanup generator script</code>](https://github.com/lxc/distrobuilder/commit/fa18137b4dfd4231df6db5dcd320cbc05254f02c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>systemd: Apply overrides even when nesting is enabled</code>](https://github.com/lxc/distrobuilder/commit/9ee77f420b7d7060d6f73101def2e7b0af0c383c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -318,6 +323,11 @@
 - [ ] [<code>incusd/acme: Use lego for HTTP-01</code>](https://github.com/lxc/incus/commit/05b49816634958d56e347c036611ee33fb7d9e21)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/8e67b03eaa197aa9dc9ac48bca9ec875caf31232)
+- [ ] [<code>incusd/instance/qmp: Add MachineDefinition function</code>](https://github.com/lxc/incus/commit/e65c7871145b29cf78dbdcbffea753f3a3e34c25)
+- [ ] [<code>internal/instance: Add volatile.vm.definition</code>](https://github.com/lxc/incus/commit/98f46c422c98488a0ecdaf2f1d21ab6898d962cc)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/b18123287ab85a134f0e421e9aba7b534bf2e3b5)
+- [ ] [<code>incusd/instance/qemu: Use saved machine definition when restoring running VM</code>](https://github.com/lxc/incus/commit/2a9a0fd3244c6d33aa992f995dfa10f9aac9c8c1)
+- [ ] [<code>incusd/instance/qemu: Handle firmware vars name matching internal one</code>](https://github.com/lxc/incus/commit/76bf08bdf492cfd3991b46c8627b1ebb00689658)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2514,6 +2524,11 @@
 - [ ] [<code>incusd/acme: Use lego for HTTP-01</code>](https://github.com/lxc/incus/commit/05b49816634958d56e347c036611ee33fb7d9e21)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/8e67b03eaa197aa9dc9ac48bca9ec875caf31232)
+- [ ] [<code>incusd/instance/qmp: Add MachineDefinition function</code>](https://github.com/lxc/incus/commit/e65c7871145b29cf78dbdcbffea753f3a3e34c25)
+- [ ] [<code>internal/instance: Add volatile.vm.definition</code>](https://github.com/lxc/incus/commit/98f46c422c98488a0ecdaf2f1d21ab6898d962cc)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/b18123287ab85a134f0e421e9aba7b534bf2e3b5)
+- [ ] [<code>incusd/instance/qemu: Use saved machine definition when restoring running VM</code>](https://github.com/lxc/incus/commit/2a9a0fd3244c6d33aa992f995dfa10f9aac9c8c1)
+- [ ] [<code>incusd/instance/qemu: Handle firmware vars name matching internal one</code>](https://github.com/lxc/incus/commit/76bf08bdf492cfd3991b46c8627b1ebb00689658)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4783,6 +4798,8 @@
 - [ ] [<code>make sure the daemon status hash does not depend on random bytes (#19874)</code>](https://github.com/netdata/netdata.git/commit/c4a4b7cf1be7891a1af2d8d402a906103b41bb82)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/a02d121db2362370d12d7ff738d3b16c674be7ed)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/70efdc8764199df1fc9e6d63a01adb07d4b106f3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-417-nightly.</code>](https://github.com/netdata/netdata.git/commit/cd6301d36a83929150981e658ba3f07c3537c6be)
+- [ ] [<code>do not lose exit reasons (#19875)</code>](https://github.com/netdata/netdata.git/commit/2b06fc1d61413789a2cc161388aa231ee3fb3cba)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
