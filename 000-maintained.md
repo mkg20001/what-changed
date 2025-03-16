@@ -4778,6 +4778,11 @@
 - [ ] [<code>daemon status file 17 (#19869)</code>](https://github.com/netdata/netdata.git/commit/d686b537218a59d1b2482c7da51ad2056801ee90)
 - [ ] [<code>Remove tj-actions/changed-files from CI jobs. (#19870)</code>](https://github.com/netdata/netdata.git/commit/6e87c6a348238c1074cb3d43080eb04ec1bd0650)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>sentry events annotations (#19872)</code>](https://github.com/netdata/netdata.git/commit/8850b577b0eb0276d63c3d0b04a9c48b22516782)
+- [ ] [<code>add the fatal to the exit reasons (#19873)</code>](https://github.com/netdata/netdata.git/commit/eab295dba12ce4db95a5cb1b18a3fa1e6788f911)
+- [ ] [<code>make sure the daemon status hash does not depend on random bytes (#19874)</code>](https://github.com/netdata/netdata.git/commit/c4a4b7cf1be7891a1af2d8d402a906103b41bb82)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/a02d121db2362370d12d7ff738d3b16c674be7ed)
+- [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/70efdc8764199df1fc9e6d63a01adb07d4b106f3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
