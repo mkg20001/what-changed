@@ -4828,6 +4828,9 @@
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/70efdc8764199df1fc9e6d63a01adb07d4b106f3)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-417-nightly.</code>](https://github.com/netdata/netdata.git/commit/cd6301d36a83929150981e658ba3f07c3537c6be)
 - [ ] [<code>do not lose exit reasons (#19875)</code>](https://github.com/netdata/netdata.git/commit/2b06fc1d61413789a2cc161388aa231ee3fb3cba)
+- [ ] [<code>SIGABRT and already running are fatal conditions (#19878)</code>](https://github.com/netdata/netdata.git/commit/1d14dc3e684d330523cbd77dd645f3c8b2070616)
+- [ ] [<code>add stack trace information to the compiler and linker (#19879)</code>](https://github.com/netdata/netdata.git/commit/3bdaed8c2e4961694f2211251560caa5dad0894e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6269,6 +6272,12 @@
 - [ ] [<code>uci: add support for altering the override config directory</code>](https://github.com/jow-/ucode/commit/e04908ef57e79429adfa995461d4630a246e3a2d)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>socket: add missing documentation for socket.listen() reuseaddr</code>](https://github.com/jow-/ucode/commit/9dbace122d7ef911ab1b602da3239e7f7feb5ec8)
+- [ ] [<code>ubus: add errval_return() helper macro</code>](https://github.com/jow-/ucode/commit/312b25482b3042d9d7545673bee60c0f84b04943)
+- [ ] [<code>ubus: add channel defer() method</code>](https://github.com/jow-/ucode/commit/1af4a6bbc2067bde2f8883443c93ce588ed7b05d)
+- [ ] [<code>ubus: support sending multiple reply messages on a request</code>](https://github.com/jow-/ucode/commit/0002684b9772ad9bb0a62e498d3556573d15b819)
+- [ ] [<code>ubus: remove broken implied await when calling defer() outside of uloop.run()</code>](https://github.com/jow-/ucode/commit/fb1da7157d138adcc4e20d41685aa6ab400bc042)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ubus: fix uninitialized variable warning</code>](https://github.com/jow-/ucode/commit/67a4ad20f17264c7990db965120880fa9383ca20)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
