@@ -66,6 +66,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>systemd: Apply overrides even when nesting is enabled</code>](https://github.com/lxc/distrobuilder/commit/9ee77f420b7d7060d6f73101def2e7b0af0c383c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update README.md - replace libguestfs-tools with libwin-hivex-perl</code>](https://github.com/lxc/distrobuilder/commit/d10aab0e1d2c8a5957e0b4127c42e052a5856e3b)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -2897,6 +2898,8 @@
 - [ ] [<code>test_cmd_stdin: extract mdat offset automatically (#2681)</code>](https://github.com/AOMediaCodec/libavif/commit/086e7e127be93b7595fa2a2144bc6afb23ff3e22)
 - [ ] [<code>Bump libavif to 1.2.1 (#2690)</code>](https://github.com/AOMediaCodec/libavif/commit/952bf8c2fd9a1637d21360cebf9e524ab18421aa)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add more compilation warnings (#2696)</code>](https://github.com/AOMediaCodec/libavif/commit/2a7271343246a948ef997cc1e7d5489f50f8a960)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4837,6 +4840,21 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-421-nightly.</code>](https://github.com/netdata/netdata.git/commit/6e797274607129ac6de16ee50a8795f031f20a70)
 - [ ] [<code>change log priorities on agent-events (#19880)</code>](https://github.com/netdata/netdata.git/commit/6f441d3038f8743dc869a874774e98a7bc74162b)
+- [ ] [<code>daemon-status-18 (#19876)</code>](https://github.com/netdata/netdata.git/commit/d4ec716a9c52ca5d03218d0ff55b179013e83521)
+- [ ] [<code>ci: use step-security/changed-files (#19881)</code>](https://github.com/netdata/netdata.git/commit/27459fc062475a57f2d03becae34cd9b9b514332)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(go.d/snmp): improve auto-detection section (#19882)</code>](https://github.com/netdata/netdata.git/commit/097571cf555153897e09f12a0494c92007bb4bb6)
+- [ ] [<code>Regenerate integrations docs (#19883)</code>](https://github.com/netdata/netdata.git/commit/e6b202aac829eabb955923030656d770226f85a4)
+- [ ] [<code>daemon status 18b (#19884)</code>](https://github.com/netdata/netdata.git/commit/0cf1e50130b599c039400f623e272580e68db24e)
+- [ ] [<code>chore(go.d/snmp/ddsnmp): use dd profile definition (#19886)</code>](https://github.com/netdata/netdata.git/commit/9e0fa763554486acc19b63f74e393070f552d737)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update DEB/RPM package signing key info. (#19888)</code>](https://github.com/netdata/netdata.git/commit/c748b6584967c0d39b6918509281a6195ed43ca4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-430-nightly.</code>](https://github.com/netdata/netdata.git/commit/cb51976d4d457e1e180fffc884404a1dee2a5ede)
+- [ ] [<code>fix(go.d/snmp/ddsnmp): correct profile directory path (#19887)</code>](https://github.com/netdata/netdata.git/commit/a82ba6f9681bffd9ff17e33263ba2b54032071fd)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>remove deadlock from dyncfg health (#19890)</code>](https://github.com/netdata/netdata.git/commit/aabcfb8e6be8ee7a88970993be2f5ef8921bcd23)
+- [ ] [<code>Fix typo in README title (#19891)</code>](https://github.com/netdata/netdata.git/commit/cb819387998fa6ef638482ce8d7e269870bba96a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
