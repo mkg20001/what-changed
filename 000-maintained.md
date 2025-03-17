@@ -164,6 +164,7 @@
 - [ ] [<code>chore: Simpler changing config variables</code>](https://github.com/krille-chan/fluffychat/commit/251bcb3ebeda72c4cdd64c451f48968f52af7ed1)
 - [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
 - [ ] [<code>chore: Make push gateway configurable</code>](https://github.com/krille-chan/fluffychat/commit/92db57836590c533645138237260061b0a0e6f7b)
+- [ ] [<code>chore: Follow up code formatting</code>](https://github.com/krille-chan/fluffychat/commit/0f000f952ffa94d52a9de37e4b09df19b1ebeefe)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -200,6 +201,7 @@
 - [ ] [<code>chore: Simpler changing config variables</code>](https://github.com/krille-chan/fluffychat/commit/251bcb3ebeda72c4cdd64c451f48968f52af7ed1)
 - [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
 - [ ] [<code>chore: Make push gateway configurable</code>](https://github.com/krille-chan/fluffychat/commit/92db57836590c533645138237260061b0a0e6f7b)
+- [ ] [<code>chore: Follow up code formatting</code>](https://github.com/krille-chan/fluffychat/commit/0f000f952ffa94d52a9de37e4b09df19b1ebeefe)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -2893,6 +2895,8 @@
 - [ ] [<code>Bump SVT-AV1 dependency to 3.0.1 (#2683)</code>](https://github.com/AOMediaCodec/libavif/commit/632b7eacdf428ec3a294808df08475fd49225b44)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test_cmd_stdin: extract mdat offset automatically (#2681)</code>](https://github.com/AOMediaCodec/libavif/commit/086e7e127be93b7595fa2a2144bc6afb23ff3e22)
+- [ ] [<code>Bump libavif to 1.2.1 (#2690)</code>](https://github.com/AOMediaCodec/libavif/commit/952bf8c2fd9a1637d21360cebf9e524ab18421aa)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4831,6 +4835,8 @@
 - [ ] [<code>SIGABRT and already running are fatal conditions (#19878)</code>](https://github.com/netdata/netdata.git/commit/1d14dc3e684d330523cbd77dd645f3c8b2070616)
 - [ ] [<code>add stack trace information to the compiler and linker (#19879)</code>](https://github.com/netdata/netdata.git/commit/3bdaed8c2e4961694f2211251560caa5dad0894e)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-421-nightly.</code>](https://github.com/netdata/netdata.git/commit/6e797274607129ac6de16ee50a8795f031f20a70)
+- [ ] [<code>change log priorities on agent-events (#19880)</code>](https://github.com/netdata/netdata.git/commit/6f441d3038f8743dc869a874774e98a7bc74162b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5538,7 +5544,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.27.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.27.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.28.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.28.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
