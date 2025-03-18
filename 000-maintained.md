@@ -66,7 +66,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>systemd: Apply overrides even when nesting is enabled</code>](https://github.com/lxc/distrobuilder/commit/9ee77f420b7d7060d6f73101def2e7b0af0c383c)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix spelling errors found by codespell</code>](https://github.com/lxc/distrobuilder/commit/298e7c927f1acbe6f7c649c7f013df70158f03ae)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update README.md - replace libguestfs-tools with libwin-hivex-perl</code>](https://github.com/lxc/distrobuilder/commit/d10aab0e1d2c8a5957e0b4127c42e052a5856e3b)
+- [ ] [<code>lint: Run codespell automatically</code>](https://github.com/lxc/distrobuilder/commit/7ba4ca6a79515d5b254e38f64f896d5c15069223)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -418,6 +422,9 @@
 - [ ] [<code>internal/linux: Fix missing export comments</code>](https://github.com/lxc/incus/commit/1aad74a347ff39c0bdde5260042edf086e052d0d)
 - [ ] [<code>incusd/seccomp: Fix import shadowing</code>](https://github.com/lxc/incus/commit/389c300c6e9b3a9bdc3c5d18c8f21d3bd6c49cc9)
 - [ ] [<code>incusd/cluster: Remove duplicate type declaration</code>](https://github.com/lxc/incus/commit/d3bb7024c2c29e2caa4893ef9e37820536491a66)
+- [ ] [<code>incusd/bgp: Fix comment</code>](https://github.com/lxc/incus/commit/239a7f0256d183f6f055419677adce18f71016b7)
+- [ ] [<code>incusd/network/ovn: Don't run bgpSetup twice</code>](https://github.com/lxc/incus/commit/130b475947bb5ceaf174a6f9d44f176607a9968b)
+- [ ] [<code>incusd/network/physical: Do full start following change of parent</code>](https://github.com/lxc/incus/commit/a798f4fa661c9b477eb73a7878ab811e596b53e4)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2704,6 +2711,9 @@
 - [ ] [<code>internal/linux: Fix missing export comments</code>](https://github.com/lxc/incus/commit/1aad74a347ff39c0bdde5260042edf086e052d0d)
 - [ ] [<code>incusd/seccomp: Fix import shadowing</code>](https://github.com/lxc/incus/commit/389c300c6e9b3a9bdc3c5d18c8f21d3bd6c49cc9)
 - [ ] [<code>incusd/cluster: Remove duplicate type declaration</code>](https://github.com/lxc/incus/commit/d3bb7024c2c29e2caa4893ef9e37820536491a66)
+- [ ] [<code>incusd/bgp: Fix comment</code>](https://github.com/lxc/incus/commit/239a7f0256d183f6f055419677adce18f71016b7)
+- [ ] [<code>incusd/network/ovn: Don't run bgpSetup twice</code>](https://github.com/lxc/incus/commit/130b475947bb5ceaf174a6f9d44f176607a9968b)
+- [ ] [<code>incusd/network/physical: Do full start following change of parent</code>](https://github.com/lxc/incus/commit/a798f4fa661c9b477eb73a7878ab811e596b53e4)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3047,6 +3057,8 @@
 - [ ] [<code>Add more compilation warnings (#2696)</code>](https://github.com/AOMediaCodec/libavif/commit/2a7271343246a948ef997cc1e7d5489f50f8a960)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Do not go through RGB when reading/writing a gray PNG/JPG (#2684)</code>](https://github.com/AOMediaCodec/libavif/commit/5450a8cddeeb631fd525751adc14333b5b20e6d6)
+- [ ] [<code>Switch ubuntu-24.04 to ubuntu-latest in CI (#2698)</code>](https://github.com/AOMediaCodec/libavif/commit/fe299712f2fa34f657fb455a491cc335189f87e2)
+- [ ] [<code>Add some comments to aviflosslesstest.cc (#2677)</code>](https://github.com/AOMediaCodec/libavif/commit/1d469864478de5686a13c06b5539416ac68d98d7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5006,6 +5018,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>do not recurse cleanup on shutdown (#19894)</code>](https://github.com/netdata/netdata.git/commit/87dbbaadb625edb5d05c3605f7dd02fc0a18237c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-436-nightly.</code>](https://github.com/netdata/netdata.git/commit/dd42318cac0f3e10eae0f35e61195345e9085abe)
+- [ ] [<code>build: update otel deps to v0.122.0 (#19895)</code>](https://github.com/netdata/netdata.git/commit/8cba98655d9496e2076077d98f8d8ac96f71a891)
+- [ ] [<code>fix for system shutdown (#19897)</code>](https://github.com/netdata/netdata.git/commit/a4951c1b7f4815bdfb43fbb4c5247e263b8658f7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
