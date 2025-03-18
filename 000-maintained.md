@@ -345,9 +345,79 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/959cf53676b813c66604aa246837522a8cd4ded7)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>client: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/3eea02e84b8affa6de3eb7d565a687b4b9c59bdc)
+- [ ] [<code>incusd/instance/edk2: Select SecureBoot capable firmware on Debian</code>](https://github.com/lxc/incus/commit/c23375933bcb6c3f1bc34df7d89ccc2c675bf3d9)
 - [ ] [<code>api: network_ovn_ipv4_dhcp_expiry</code>](https://github.com/lxc/incus/commit/3670d1d2429a15c5f50d9898d8b6c91c8734f3c2)
 - [ ] [<code>incusd/network/ovn: Add option ipv4.dhcp.expiry for OVN networks</code>](https://github.com/lxc/incus/commit/483216de66f46cdff29adc16a6c913e9b15d80fd)
 - [ ] [<code>doc/reference/network_ovn: Add ipv4.dhcp.expiry</code>](https://github.com/lxc/incus/commit/0979cbe6e3526e41ce920ade6803dcb729d792d0)
+- [ ] [<code>incusd/main_forknet: Remove unreachable code</code>](https://github.com/lxc/incus/commit/c09e644797a04e65b290aac1eee5659ec3db1ed7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/dns: Use shared mutex</code>](https://github.com/lxc/incus/commit/965d42b3be74443999698e45d8e14d0d31c2046c)
+- [ ] [<code>incusd/network/ovn: Add UpdateLogicalSwitchPortDHCP</code>](https://github.com/lxc/incus/commit/8446b748389c8047d945fea83555e35bf3f027f4)
+- [ ] [<code>incusd/network/ovn: Reconfigure DHCP option on existing logical switch ports when DHCP is enabled on the network</code>](https://github.com/lxc/incus/commit/02c14a15abfb8658aa0c0f84f218b81571b4a458)
+- [ ] [<code>client: Fix gofumpt</code>](https://github.com/lxc/incus/commit/547f98e68fbbbe9be5cfa2ae6de99b8b492a567d)
+- [ ] [<code>generate-config: Fix gofumpt</code>](https://github.com/lxc/incus/commit/cd4671f3919c081e71b5f1476e7f4dc0ae23d821)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Fix gofumpt</code>](https://github.com/lxc/incus/commit/6cbeff50a7c4bc61f51ecb83ced974accc5e298b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Fix gofumpt</code>](https://github.com/lxc/incus/commit/c8a75b2861b8ecdd097df7fd93b0786dd6abb681)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-benchmark: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0d04d475c7ad60b3dfd77613b0927dcaa63de322)
+- [ ] [<code>incus-migrate: Fix gofumpt</code>](https://github.com/lxc/incus/commit/d0c54b1421d027f6891cc0da0fbd7c354ab2bf6f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Fix gofumpt</code>](https://github.com/lxc/incus/commit/67149dceae7660afc468be70e9edbc284b1ea0f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-user: Fix gofumpt</code>](https://github.com/lxc/incus/commit/3b6ef77757b2cb1476d55f1ce655f4cd0446446f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-to-incus: Fix gofumpt</code>](https://github.com/lxc/incus/commit/b4e2e412389b753c1e8001354ea8b1d73f8542fd)
+- [ ] [<code>incus: Fix gofumpt</code>](https://github.com/lxc/incus/commit/ee0503af86cdcd4832ad4b9b8529655c424e9894)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Fix gofumpt</code>](https://github.com/lxc/incus/commit/64f9c9f4d8f4391ec0f8fa1d76ef9f77a7003a6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/tls: Fix gofumpt</code>](https://github.com/lxc/incus/commit/5c249b0425f41288ef14e5158e50b59e525a24ae)
+- [ ] [<code>shared/termios: Fix gofumpt</code>](https://github.com/lxc/incus/commit/11e8c4d69e2157f366ad90c01fadfab3d9d08fea)
+- [ ] [<code>shared/subprocess: Fix gofumpt</code>](https://github.com/lxc/incus/commit/ca087ff47db8ee3d395234f2a6b6eafaeb829228)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/simplestreams: Fix gofumpt</code>](https://github.com/lxc/incus/commit/522b1ebb3aa19c93c7ca827541d359314a2f45b8)
+- [ ] [<code>shared/logger: Fix gofumpt</code>](https://github.com/lxc/incus/commit/096144e41f30edad68978b300185dea3909b9f10)
+- [ ] [<code>shared/idmap: Fix gofumpt</code>](https://github.com/lxc/incus/commit/e2ee1393afa3f9408ad44c3561a698a311069c1b)
+- [ ] [<code>shared/cliconfig: Fix gofumpt</code>](https://github.com/lxc/incus/commit/7dd40724e04e4124d2af38536548501f15a798f5)
+- [ ] [<code>internal/version: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f0c0ae67728d6205e8f4a37a28e09008249bfcae)
+- [ ] [<code>internal/util: Fix gofumpt</code>](https://github.com/lxc/incus/commit/2da7389e37d343af38dbc7496d967540fc656711)
+- [ ] [<code>internal/usbid: Fix gofumpt</code>](https://github.com/lxc/incus/commit/4310ac9ceecb0dec3d418c68cf56d1b3d5e18e8f)
+- [ ] [<code>internal/rsync: Fix gofumpt</code>](https://github.com/lxc/incus/commit/77076226f9a1b4d3df6006f7874eeca573651e98)
+- [ ] [<code>internal/linux: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0890406f518afcb737e540c0b720b1c41b8d53f3)
+- [ ] [<code>internal/io: Fix gofumpt</code>](https://github.com/lxc/incus/commit/877fee01e3fd7d30b958d6e8ce5a3e1e9db45ce0)
+- [ ] [<code>incusd/storage: Fix gofumpt</code>](https://github.com/lxc/incus/commit/9f8626d8b19775ac5c56e35175feadd17b3e6998)
+- [ ] [<code>incusd/network: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0bed08ba99a6bbd6bd6426b6f17d08f7a59e8aba)
+- [ ] [<code>incusd/instance: Fix gofumpt</code>](https://github.com/lxc/incus/commit/d03e8c4d472932e6ec4099963fa7af74aeb3a1aa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/apparmor: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0814a8ac14cb7c3199f6f913b954f857a9722dcb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/backup: Fix gofumpt</code>](https://github.com/lxc/incus/commit/79dbd02ebcfdbb598aaeca2abd3225da1f4fe467)
+- [ ] [<code>incusd/cgroup: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f90a5cc6a198ff02b7136837a1c56f5bb5e2c7f5)
+- [ ] [<code>incusd/cluster: Fix gofumpt</code>](https://github.com/lxc/incus/commit/4889b6387dd651991143c571346361b80eb79d3b)
+- [ ] [<code>incusd/config: Fix gofumpt</code>](https://github.com/lxc/incus/commit/08646493d9e8e39282142d40da21be2f15634f68)
+- [ ] [<code>incusd/db: Fix gofumpt</code>](https://github.com/lxc/incus/commit/24f9cc3021708b030a3761e4be4169f65b2ac8ae)
+- [ ] [<code>incusd/device: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0e75d03e53fd78e02870645a1532030cc1afb241)
+- [ ] [<code>incusd/dnsmasq: Fix gofumpt</code>](https://github.com/lxc/incus/commit/1a17d48a3f567dc88e6290a48a7f1bd2c32da723)
+- [ ] [<code>incusd/endpoints: Fix gofumpt</code>](https://github.com/lxc/incus/commit/442a9e15aa01c5dd288f34dbf322969cbd9a1305)
+- [ ] [<code>incusd/events: Fix gofumpt</code>](https://github.com/lxc/incus/commit/2c2ddb6773d859a937e6a7e4ac8b72ca9f3529e4)
+- [ ] [<code>incusd/firewall: Fix gofumpt</code>](https://github.com/lxc/incus/commit/bb20f0933e1f4e8ab4efa228e56c129d20c14bac)
+- [ ] [<code>incusd/ip: Fix gofumpt</code>](https://github.com/lxc/incus/commit/4257cb4f3feed3e859a69b9e96f5c51bcaf911f8)
+- [ ] [<code>incusd/metrics: Fix gofumpt</code>](https://github.com/lxc/incus/commit/faaff43a936b1328a5bfd2b912cbd623db22ead0)
+- [ ] [<code>incusd/operations: Fix gofumpt</code>](https://github.com/lxc/incus/commit/df937e35e5c927328905a5e2c3acdb6354d72841)
+- [ ] [<code>incusd/resources: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a20a02faf7852623c0e8f6c565c75c49430ef153)
+- [ ] [<code>incusd/scriptlet: Fix gofumpt</code>](https://github.com/lxc/incus/commit/b9eace84f128a1496b341c85054c615b67cfbcd8)
+- [ ] [<code>incusd/seccomp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/3dcd015048772965a136892eaf0158c1e1894124)
+- [ ] [<code>incusd/sys: Fix gofumpt</code>](https://github.com/lxc/incus/commit/51f6dc38a85d0bf795083f41cd390531720a95ab)
+- [ ] [<code>incusd/util: Fix gofumpt</code>](https://github.com/lxc/incus/commit/15869f37fc1a8fc381553fb76084ebdf789ba7cb)
+- [ ] [<code>Makefile: Switch to gofumpt</code>](https://github.com/lxc/incus/commit/154362111fbf99e8c0c2654169b441c06324f31c)
+- [ ] [<code>golangci: Switch to gofumpt</code>](https://github.com/lxc/incus/commit/37dee114aeebb5eef592cab0fce07d7d209a2226)
+- [ ] [<code>generate-config: Use RunE</code>](https://github.com/lxc/incus/commit/b28be0fb053b6fe2620a7685111c638c49cf8090)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/linux: Fix missing export comments</code>](https://github.com/lxc/incus/commit/1aad74a347ff39c0bdde5260042edf086e052d0d)
+- [ ] [<code>incusd/seccomp: Fix import shadowing</code>](https://github.com/lxc/incus/commit/389c300c6e9b3a9bdc3c5d18c8f21d3bd6c49cc9)
+- [ ] [<code>incusd/cluster: Remove duplicate type declaration</code>](https://github.com/lxc/incus/commit/d3bb7024c2c29e2caa4893ef9e37820536491a66)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2561,9 +2631,79 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/959cf53676b813c66604aa246837522a8cd4ded7)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>client: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/3eea02e84b8affa6de3eb7d565a687b4b9c59bdc)
+- [ ] [<code>incusd/instance/edk2: Select SecureBoot capable firmware on Debian</code>](https://github.com/lxc/incus/commit/c23375933bcb6c3f1bc34df7d89ccc2c675bf3d9)
 - [ ] [<code>api: network_ovn_ipv4_dhcp_expiry</code>](https://github.com/lxc/incus/commit/3670d1d2429a15c5f50d9898d8b6c91c8734f3c2)
 - [ ] [<code>incusd/network/ovn: Add option ipv4.dhcp.expiry for OVN networks</code>](https://github.com/lxc/incus/commit/483216de66f46cdff29adc16a6c913e9b15d80fd)
 - [ ] [<code>doc/reference/network_ovn: Add ipv4.dhcp.expiry</code>](https://github.com/lxc/incus/commit/0979cbe6e3526e41ce920ade6803dcb729d792d0)
+- [ ] [<code>incusd/main_forknet: Remove unreachable code</code>](https://github.com/lxc/incus/commit/c09e644797a04e65b290aac1eee5659ec3db1ed7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/dns: Use shared mutex</code>](https://github.com/lxc/incus/commit/965d42b3be74443999698e45d8e14d0d31c2046c)
+- [ ] [<code>incusd/network/ovn: Add UpdateLogicalSwitchPortDHCP</code>](https://github.com/lxc/incus/commit/8446b748389c8047d945fea83555e35bf3f027f4)
+- [ ] [<code>incusd/network/ovn: Reconfigure DHCP option on existing logical switch ports when DHCP is enabled on the network</code>](https://github.com/lxc/incus/commit/02c14a15abfb8658aa0c0f84f218b81571b4a458)
+- [ ] [<code>client: Fix gofumpt</code>](https://github.com/lxc/incus/commit/547f98e68fbbbe9be5cfa2ae6de99b8b492a567d)
+- [ ] [<code>generate-config: Fix gofumpt</code>](https://github.com/lxc/incus/commit/cd4671f3919c081e71b5f1476e7f4dc0ae23d821)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxd-to-incus: Fix gofumpt</code>](https://github.com/lxc/incus/commit/6cbeff50a7c4bc61f51ecb83ced974accc5e298b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Fix gofumpt</code>](https://github.com/lxc/incus/commit/c8a75b2861b8ecdd097df7fd93b0786dd6abb681)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-benchmark: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0d04d475c7ad60b3dfd77613b0927dcaa63de322)
+- [ ] [<code>incus-migrate: Fix gofumpt</code>](https://github.com/lxc/incus/commit/d0c54b1421d027f6891cc0da0fbd7c354ab2bf6f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Fix gofumpt</code>](https://github.com/lxc/incus/commit/67149dceae7660afc468be70e9edbc284b1ea0f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-user: Fix gofumpt</code>](https://github.com/lxc/incus/commit/3b6ef77757b2cb1476d55f1ce655f4cd0446446f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-to-incus: Fix gofumpt</code>](https://github.com/lxc/incus/commit/b4e2e412389b753c1e8001354ea8b1d73f8542fd)
+- [ ] [<code>incus: Fix gofumpt</code>](https://github.com/lxc/incus/commit/ee0503af86cdcd4832ad4b9b8529655c424e9894)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Fix gofumpt</code>](https://github.com/lxc/incus/commit/64f9c9f4d8f4391ec0f8fa1d76ef9f77a7003a6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/tls: Fix gofumpt</code>](https://github.com/lxc/incus/commit/5c249b0425f41288ef14e5158e50b59e525a24ae)
+- [ ] [<code>shared/termios: Fix gofumpt</code>](https://github.com/lxc/incus/commit/11e8c4d69e2157f366ad90c01fadfab3d9d08fea)
+- [ ] [<code>shared/subprocess: Fix gofumpt</code>](https://github.com/lxc/incus/commit/ca087ff47db8ee3d395234f2a6b6eafaeb829228)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/simplestreams: Fix gofumpt</code>](https://github.com/lxc/incus/commit/522b1ebb3aa19c93c7ca827541d359314a2f45b8)
+- [ ] [<code>shared/logger: Fix gofumpt</code>](https://github.com/lxc/incus/commit/096144e41f30edad68978b300185dea3909b9f10)
+- [ ] [<code>shared/idmap: Fix gofumpt</code>](https://github.com/lxc/incus/commit/e2ee1393afa3f9408ad44c3561a698a311069c1b)
+- [ ] [<code>shared/cliconfig: Fix gofumpt</code>](https://github.com/lxc/incus/commit/7dd40724e04e4124d2af38536548501f15a798f5)
+- [ ] [<code>internal/version: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f0c0ae67728d6205e8f4a37a28e09008249bfcae)
+- [ ] [<code>internal/util: Fix gofumpt</code>](https://github.com/lxc/incus/commit/2da7389e37d343af38dbc7496d967540fc656711)
+- [ ] [<code>internal/usbid: Fix gofumpt</code>](https://github.com/lxc/incus/commit/4310ac9ceecb0dec3d418c68cf56d1b3d5e18e8f)
+- [ ] [<code>internal/rsync: Fix gofumpt</code>](https://github.com/lxc/incus/commit/77076226f9a1b4d3df6006f7874eeca573651e98)
+- [ ] [<code>internal/linux: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0890406f518afcb737e540c0b720b1c41b8d53f3)
+- [ ] [<code>internal/io: Fix gofumpt</code>](https://github.com/lxc/incus/commit/877fee01e3fd7d30b958d6e8ce5a3e1e9db45ce0)
+- [ ] [<code>incusd/storage: Fix gofumpt</code>](https://github.com/lxc/incus/commit/9f8626d8b19775ac5c56e35175feadd17b3e6998)
+- [ ] [<code>incusd/network: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0bed08ba99a6bbd6bd6426b6f17d08f7a59e8aba)
+- [ ] [<code>incusd/instance: Fix gofumpt</code>](https://github.com/lxc/incus/commit/d03e8c4d472932e6ec4099963fa7af74aeb3a1aa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/apparmor: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0814a8ac14cb7c3199f6f913b954f857a9722dcb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/backup: Fix gofumpt</code>](https://github.com/lxc/incus/commit/79dbd02ebcfdbb598aaeca2abd3225da1f4fe467)
+- [ ] [<code>incusd/cgroup: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f90a5cc6a198ff02b7136837a1c56f5bb5e2c7f5)
+- [ ] [<code>incusd/cluster: Fix gofumpt</code>](https://github.com/lxc/incus/commit/4889b6387dd651991143c571346361b80eb79d3b)
+- [ ] [<code>incusd/config: Fix gofumpt</code>](https://github.com/lxc/incus/commit/08646493d9e8e39282142d40da21be2f15634f68)
+- [ ] [<code>incusd/db: Fix gofumpt</code>](https://github.com/lxc/incus/commit/24f9cc3021708b030a3761e4be4169f65b2ac8ae)
+- [ ] [<code>incusd/device: Fix gofumpt</code>](https://github.com/lxc/incus/commit/0e75d03e53fd78e02870645a1532030cc1afb241)
+- [ ] [<code>incusd/dnsmasq: Fix gofumpt</code>](https://github.com/lxc/incus/commit/1a17d48a3f567dc88e6290a48a7f1bd2c32da723)
+- [ ] [<code>incusd/endpoints: Fix gofumpt</code>](https://github.com/lxc/incus/commit/442a9e15aa01c5dd288f34dbf322969cbd9a1305)
+- [ ] [<code>incusd/events: Fix gofumpt</code>](https://github.com/lxc/incus/commit/2c2ddb6773d859a937e6a7e4ac8b72ca9f3529e4)
+- [ ] [<code>incusd/firewall: Fix gofumpt</code>](https://github.com/lxc/incus/commit/bb20f0933e1f4e8ab4efa228e56c129d20c14bac)
+- [ ] [<code>incusd/ip: Fix gofumpt</code>](https://github.com/lxc/incus/commit/4257cb4f3feed3e859a69b9e96f5c51bcaf911f8)
+- [ ] [<code>incusd/metrics: Fix gofumpt</code>](https://github.com/lxc/incus/commit/faaff43a936b1328a5bfd2b912cbd623db22ead0)
+- [ ] [<code>incusd/operations: Fix gofumpt</code>](https://github.com/lxc/incus/commit/df937e35e5c927328905a5e2c3acdb6354d72841)
+- [ ] [<code>incusd/resources: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a20a02faf7852623c0e8f6c565c75c49430ef153)
+- [ ] [<code>incusd/scriptlet: Fix gofumpt</code>](https://github.com/lxc/incus/commit/b9eace84f128a1496b341c85054c615b67cfbcd8)
+- [ ] [<code>incusd/seccomp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/3dcd015048772965a136892eaf0158c1e1894124)
+- [ ] [<code>incusd/sys: Fix gofumpt</code>](https://github.com/lxc/incus/commit/51f6dc38a85d0bf795083f41cd390531720a95ab)
+- [ ] [<code>incusd/util: Fix gofumpt</code>](https://github.com/lxc/incus/commit/15869f37fc1a8fc381553fb76084ebdf789ba7cb)
+- [ ] [<code>Makefile: Switch to gofumpt</code>](https://github.com/lxc/incus/commit/154362111fbf99e8c0c2654169b441c06324f31c)
+- [ ] [<code>golangci: Switch to gofumpt</code>](https://github.com/lxc/incus/commit/37dee114aeebb5eef592cab0fce07d7d209a2226)
+- [ ] [<code>generate-config: Use RunE</code>](https://github.com/lxc/incus/commit/b28be0fb053b6fe2620a7685111c638c49cf8090)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/linux: Fix missing export comments</code>](https://github.com/lxc/incus/commit/1aad74a347ff39c0bdde5260042edf086e052d0d)
+- [ ] [<code>incusd/seccomp: Fix import shadowing</code>](https://github.com/lxc/incus/commit/389c300c6e9b3a9bdc3c5d18c8f21d3bd6c49cc9)
+- [ ] [<code>incusd/cluster: Remove duplicate type declaration</code>](https://github.com/lxc/incus/commit/d3bb7024c2c29e2caa4893ef9e37820536491a66)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -2906,6 +3046,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add more compilation warnings (#2696)</code>](https://github.com/AOMediaCodec/libavif/commit/2a7271343246a948ef997cc1e7d5489f50f8a960)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Do not go through RGB when reading/writing a gray PNG/JPG (#2684)</code>](https://github.com/AOMediaCodec/libavif/commit/5450a8cddeeb631fd525751adc14333b5b20e6d6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -4864,6 +5005,7 @@
 - [ ] [<code>make sure all rrdcalcs are unlinked the moment they are deleted (#19893)</code>](https://github.com/netdata/netdata.git/commit/ace55b6d661d474fff8e11c81fc4671260ca1ded)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>do not recurse cleanup on shutdown (#19894)</code>](https://github.com/netdata/netdata.git/commit/87dbbaadb625edb5d05c3605f7dd02fc0a18237c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-436-nightly.</code>](https://github.com/netdata/netdata.git/commit/dd42318cac0f3e10eae0f35e61195345e9085abe)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
