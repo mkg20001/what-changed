@@ -345,6 +345,9 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/959cf53676b813c66604aa246837522a8cd4ded7)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>client: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/3eea02e84b8affa6de3eb7d565a687b4b9c59bdc)
+- [ ] [<code>api: network_ovn_ipv4_dhcp_expiry</code>](https://github.com/lxc/incus/commit/3670d1d2429a15c5f50d9898d8b6c91c8734f3c2)
+- [ ] [<code>incusd/network/ovn: Add option ipv4.dhcp.expiry for OVN networks</code>](https://github.com/lxc/incus/commit/483216de66f46cdff29adc16a6c913e9b15d80fd)
+- [ ] [<code>doc/reference/network_ovn: Add ipv4.dhcp.expiry</code>](https://github.com/lxc/incus/commit/0979cbe6e3526e41ce920ade6803dcb729d792d0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2558,6 +2561,9 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/959cf53676b813c66604aa246837522a8cd4ded7)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>client: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/3eea02e84b8affa6de3eb7d565a687b4b9c59bdc)
+- [ ] [<code>api: network_ovn_ipv4_dhcp_expiry</code>](https://github.com/lxc/incus/commit/3670d1d2429a15c5f50d9898d8b6c91c8734f3c2)
+- [ ] [<code>incusd/network/ovn: Add option ipv4.dhcp.expiry for OVN networks</code>](https://github.com/lxc/incus/commit/483216de66f46cdff29adc16a6c913e9b15d80fd)
+- [ ] [<code>doc/reference/network_ovn: Add ipv4.dhcp.expiry</code>](https://github.com/lxc/incus/commit/0979cbe6e3526e41ce920ade6803dcb729d792d0)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -4855,6 +4861,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>remove deadlock from dyncfg health (#19890)</code>](https://github.com/netdata/netdata.git/commit/aabcfb8e6be8ee7a88970993be2f5ef8921bcd23)
 - [ ] [<code>Fix typo in README title (#19891)</code>](https://github.com/netdata/netdata.git/commit/cb819387998fa6ef638482ce8d7e269870bba96a)
+- [ ] [<code>make sure all rrdcalcs are unlinked the moment they are deleted (#19893)</code>](https://github.com/netdata/netdata.git/commit/ace55b6d661d474fff8e11c81fc4671260ca1ded)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>do not recurse cleanup on shutdown (#19894)</code>](https://github.com/netdata/netdata.git/commit/87dbbaadb625edb5d05c3605f7dd02fc0a18237c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
