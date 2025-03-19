@@ -441,6 +441,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/common: Check PID validity</code>](https://github.com/lxc/incus/commit/35943f8baba68c5639c3420804ce88909daa2e63)
 - [ ] [<code>incus/file: Properly handle relative source paths</code>](https://github.com/lxc/incus/commit/7fa00dc90e986ec51179292074287725f9b88541)
+- [ ] [<code>cmd/storage: Typo 'Examples:' create storage</code>](https://github.com/lxc/incus/commit/b6c146a3975ed34cf1c53071294122073e69395f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d3683a44efbc327ce8821954044f43950a1fb681)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2746,6 +2750,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/common: Check PID validity</code>](https://github.com/lxc/incus/commit/35943f8baba68c5639c3420804ce88909daa2e63)
 - [ ] [<code>incus/file: Properly handle relative source paths</code>](https://github.com/lxc/incus/commit/7fa00dc90e986ec51179292074287725f9b88541)
+- [ ] [<code>cmd/storage: Typo 'Examples:' create storage</code>](https://github.com/lxc/incus/commit/b6c146a3975ed34cf1c53071294122073e69395f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d3683a44efbc327ce8821954044f43950a1fb681)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5056,6 +5064,8 @@
 - [ ] [<code>more compilation flags for stack traces (#19899)</code>](https://github.com/netdata/netdata.git/commit/10f1f9b4a8dc0724b165cf801d0b6160f10f63a1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>do not use errno when hashing status events (#19900)</code>](https://github.com/netdata/netdata.git/commit/15b454effe69e2a319fb72c504bda12d0a32d84c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-442-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6ab9e5e7953e951309a33b669efae342ca6a21d)
+- [ ] [<code>Fix compile without dbengine (#19902)</code>](https://github.com/netdata/netdata.git/commit/82a3519df3e1030c45af204ed2b98ef11a82cc54)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
