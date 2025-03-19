@@ -170,6 +170,17 @@
 - [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
 - [ ] [<code>chore: Make push gateway configurable</code>](https://github.com/krille-chan/fluffychat/commit/92db57836590c533645138237260061b0a0e6f7b)
 - [ ] [<code>chore: Follow up code formatting</code>](https://github.com/krille-chan/fluffychat/commit/0f000f952ffa94d52a9de37e4b09df19b1ebeefe)
+- [ ] [<code>build: Update flutter 3.29.2</code>](https://github.com/krille-chan/fluffychat/commit/bfd23952b70329b2613a6a8af5f51efdf22b8bfe)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Revert "chore: Follow up code formatting"</code>](https://github.com/krille-chan/fluffychat/commit/47240e47dbb7ff32e40840fd1bfabc579ba76a67)
+- [ ] [<code>Revert "build: Update flutter 3.29.2"</code>](https://github.com/krille-chan/fluffychat/commit/eabef5e9cfb68614624272f561761d257db57b74)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: Formatting</code>](https://github.com/krille-chan/fluffychat/commit/3bf6134125bf796e54ae40ea4af1fcb3344200d2)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/e8fec08341b84659d762d0e359506680e6561d23)
+- [ ] [<code>chore: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/430099b30aefc8b078572aa59aed789ab145069e)
+- [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/072a6d096000b8b745120ecf06da1ef426e11afd)
+- [ ] [<code>build: Update openssl to 0.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d72998e7e98bde59c12b068fe793529063e87b11)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -207,6 +218,17 @@
 - [ ] [<code>chore: Follow up config editor</code>](https://github.com/krille-chan/fluffychat/commit/03ea244e64bcdec0ec959e01dcdee6eda7550dc3)
 - [ ] [<code>chore: Make push gateway configurable</code>](https://github.com/krille-chan/fluffychat/commit/92db57836590c533645138237260061b0a0e6f7b)
 - [ ] [<code>chore: Follow up code formatting</code>](https://github.com/krille-chan/fluffychat/commit/0f000f952ffa94d52a9de37e4b09df19b1ebeefe)
+- [ ] [<code>build: Update flutter 3.29.2</code>](https://github.com/krille-chan/fluffychat/commit/bfd23952b70329b2613a6a8af5f51efdf22b8bfe)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>Revert "chore: Follow up code formatting"</code>](https://github.com/krille-chan/fluffychat/commit/47240e47dbb7ff32e40840fd1bfabc579ba76a67)
+- [ ] [<code>Revert "build: Update flutter 3.29.2"</code>](https://github.com/krille-chan/fluffychat/commit/eabef5e9cfb68614624272f561761d257db57b74)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: Formatting</code>](https://github.com/krille-chan/fluffychat/commit/3bf6134125bf796e54ae40ea4af1fcb3344200d2)
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/e8fec08341b84659d762d0e359506680e6561d23)
+- [ ] [<code>chore: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/430099b30aefc8b078572aa59aed789ab145069e)
+- [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/072a6d096000b8b745120ecf06da1ef426e11afd)
+- [ ] [<code>build: Update openssl to 0.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d72998e7e98bde59c12b068fe793529063e87b11)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -445,6 +467,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d3683a44efbc327ce8821954044f43950a1fb681)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/events: Don't open needless transactions</code>](https://github.com/lxc/incus/commit/53841ea1a45129308b6346efb18f024c2a32c161)
+- [ ] [<code>incusd/instances: Re-order evacuated check to limit DB calls</code>](https://github.com/lxc/incus/commit/60d3c9a0bc0f571fda0ea29301076c5d0b1189c7)
+- [ ] [<code>incusd: Limit calls to LocalNodeIsEvacuated</code>](https://github.com/lxc/incus/commit/20cdfc75598356a2b5614fa0131e8f9fcc3632ad)
+- [ ] [<code>incusd/instances_post: Move non-DB logic outside of transaction</code>](https://github.com/lxc/incus/commit/1ddba88b0768f48f653d54a21a0dc0106f5e23d8)
+- [ ] [<code>incusd/network/ovn: Fix default DNS IPv4 server</code>](https://github.com/lxc/incus/commit/e4537b0940857b8651255dc9b8338b5ddb174155)
+- [ ] [<code>shared/osarch: Extend OS detection logic</code>](https://github.com/lxc/incus/commit/af1473771948880dd7144ce7ad2276d74895783d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incus-agent: Update for osarch change</code>](https://github.com/lxc/incus/commit/2224fff715e06be4a04f7d71eed9246e03358e3e)
+- [ ] [<code>incusd: Update for osarch change</code>](https://github.com/lxc/incus/commit/5d7da7b9fa9717d20965b22f3b3720644fb68a96)
+- [ ] [<code>internal/version: Update UserAgent logic for osarch change</code>](https://github.com/lxc/incus/commit/3b056f9e7b45f945c30e243dae7ff04d93a3e66c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2754,6 +2786,16 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/d3683a44efbc327ce8821954044f43950a1fb681)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/events: Don't open needless transactions</code>](https://github.com/lxc/incus/commit/53841ea1a45129308b6346efb18f024c2a32c161)
+- [ ] [<code>incusd/instances: Re-order evacuated check to limit DB calls</code>](https://github.com/lxc/incus/commit/60d3c9a0bc0f571fda0ea29301076c5d0b1189c7)
+- [ ] [<code>incusd: Limit calls to LocalNodeIsEvacuated</code>](https://github.com/lxc/incus/commit/20cdfc75598356a2b5614fa0131e8f9fcc3632ad)
+- [ ] [<code>incusd/instances_post: Move non-DB logic outside of transaction</code>](https://github.com/lxc/incus/commit/1ddba88b0768f48f653d54a21a0dc0106f5e23d8)
+- [ ] [<code>incusd/network/ovn: Fix default DNS IPv4 server</code>](https://github.com/lxc/incus/commit/e4537b0940857b8651255dc9b8338b5ddb174155)
+- [ ] [<code>shared/osarch: Extend OS detection logic</code>](https://github.com/lxc/incus/commit/af1473771948880dd7144ce7ad2276d74895783d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incus-agent: Update for osarch change</code>](https://github.com/lxc/incus/commit/2224fff715e06be4a04f7d71eed9246e03358e3e)
+- [ ] [<code>incusd: Update for osarch change</code>](https://github.com/lxc/incus/commit/5d7da7b9fa9717d20965b22f3b3720644fb68a96)
+- [ ] [<code>internal/version: Update UserAgent logic for osarch change</code>](https://github.com/lxc/incus/commit/3b056f9e7b45f945c30e243dae7ff04d93a3e66c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5066,6 +5108,14 @@
 - [ ] [<code>do not use errno when hashing status events (#19900)</code>](https://github.com/netdata/netdata.git/commit/15b454effe69e2a319fb72c504bda12d0a32d84c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-442-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6ab9e5e7953e951309a33b669efae342ca6a21d)
 - [ ] [<code>Fix compile without dbengine (#19902)</code>](https://github.com/netdata/netdata.git/commit/82a3519df3e1030c45af204ed2b98ef11a82cc54)
+- [ ] [<code>Improve CI reliability by allowing for better retry behavior. (#19834)</code>](https://github.com/netdata/netdata.git/commit/92e88f0c8d36a00c71454bb8695b50817623f0c9)
+- [ ] [<code>Revert "Fix compile without dbengine" (#19905)</code>](https://github.com/netdata/netdata.git/commit/137a00b696e9250d29ba02da22c1534a01526756)
+- [ ] [<code>Bump repoconfig version used in kickstart script to 5-1. (#19906)</code>](https://github.com/netdata/netdata.git/commit/4cc357372cb7b1ed4f07dac15cc582fba8dfc038)
+- [ ] [<code>Remove auto-retry on changelog generation. (#19908)</code>](https://github.com/netdata/netdata.git/commit/00c11580ec653e33fe80af5e440a168ca3c96b29)
+- [ ] [<code>[ci skip] Minor release v2.3.0.</code>](https://github.com/netdata/netdata.git/commit/040942cf5bb6b35cc97e208a33a2eaad084a6721)
+  - <sub>Tags: <code>v2.3.0</code></sub>
+- [ ] [<code>new exit cause: shutdown timeout (#19903)</code>](https://github.com/netdata/netdata.git/commit/6001d73c17498f89b2c34da9ce33b41ee1823696)
+- [ ] [<code>fix reliability calculation (#19909)</code>](https://github.com/netdata/netdata.git/commit/d09924b9536cae30a9c604006e411257ae462aaa)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
