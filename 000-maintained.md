@@ -425,6 +425,22 @@
 - [ ] [<code>incusd/bgp: Fix comment</code>](https://github.com/lxc/incus/commit/239a7f0256d183f6f055419677adce18f71016b7)
 - [ ] [<code>incusd/network/ovn: Don't run bgpSetup twice</code>](https://github.com/lxc/incus/commit/130b475947bb5ceaf174a6f9d44f176607a9968b)
 - [ ] [<code>incusd/network/physical: Do full start following change of parent</code>](https://github.com/lxc/incus/commit/a798f4fa661c9b477eb73a7878ab811e596b53e4)
+- [ ] [<code>incusd/apparmor: Move AppArmor profiles to separate files</code>](https://github.com/lxc/incus/commit/0b2edc4b3dabf6999f5af89e349d1caf4016f291)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cmd: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/13a7e285a21733a5ad23e548889be11526f304be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/c80b37cf2b6ca33dea2445bbbf64f55fe53b728e)
+- [ ] [<code>internal: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/49b45f7c0eb02f6ad5794ffa22742180e6c53812)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/422166359624a8cdfcc9c4614d0a60292cac1d9f)
+- [ ] [<code>tests: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/4e37b921df9aab9e9c0f75d45fc1769878241afc)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>lint: Run codespell automatically</code>](https://github.com/lxc/incus/commit/99f8b397167c650b902be58eeb9272230362ebef)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2eb8a9f448f2527363eb065229b74751915b8d25)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/common: Check PID validity</code>](https://github.com/lxc/incus/commit/35943f8baba68c5639c3420804ce88909daa2e63)
+- [ ] [<code>incus/file: Properly handle relative source paths</code>](https://github.com/lxc/incus/commit/7fa00dc90e986ec51179292074287725f9b88541)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2714,6 +2730,22 @@
 - [ ] [<code>incusd/bgp: Fix comment</code>](https://github.com/lxc/incus/commit/239a7f0256d183f6f055419677adce18f71016b7)
 - [ ] [<code>incusd/network/ovn: Don't run bgpSetup twice</code>](https://github.com/lxc/incus/commit/130b475947bb5ceaf174a6f9d44f176607a9968b)
 - [ ] [<code>incusd/network/physical: Do full start following change of parent</code>](https://github.com/lxc/incus/commit/a798f4fa661c9b477eb73a7878ab811e596b53e4)
+- [ ] [<code>incusd/apparmor: Move AppArmor profiles to separate files</code>](https://github.com/lxc/incus/commit/0b2edc4b3dabf6999f5af89e349d1caf4016f291)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cmd: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/13a7e285a21733a5ad23e548889be11526f304be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/c80b37cf2b6ca33dea2445bbbf64f55fe53b728e)
+- [ ] [<code>internal: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/49b45f7c0eb02f6ad5794ffa22742180e6c53812)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/422166359624a8cdfcc9c4614d0a60292cac1d9f)
+- [ ] [<code>tests: Fix spelling errors found by codespell</code>](https://github.com/lxc/incus/commit/4e37b921df9aab9e9c0f75d45fc1769878241afc)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>lint: Run codespell automatically</code>](https://github.com/lxc/incus/commit/99f8b397167c650b902be58eeb9272230362ebef)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/2eb8a9f448f2527363eb065229b74751915b8d25)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/common: Check PID validity</code>](https://github.com/lxc/incus/commit/35943f8baba68c5639c3420804ce88909daa2e63)
+- [ ] [<code>incus/file: Properly handle relative source paths</code>](https://github.com/lxc/incus/commit/7fa00dc90e986ec51179292074287725f9b88541)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5020,6 +5052,10 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.2.0-436-nightly.</code>](https://github.com/netdata/netdata.git/commit/dd42318cac0f3e10eae0f35e61195345e9085abe)
 - [ ] [<code>build: update otel deps to v0.122.0 (#19895)</code>](https://github.com/netdata/netdata.git/commit/8cba98655d9496e2076077d98f8d8ac96f71a891)
 - [ ] [<code>fix for system shutdown (#19897)</code>](https://github.com/netdata/netdata.git/commit/a4951c1b7f4815bdfb43fbb4c5247e263b8658f7)
+- [ ] [<code>more strict checks on log-fw (#19898)</code>](https://github.com/netdata/netdata.git/commit/2198965ed5441f4ab3f0faae1967fd91594dd369)
+- [ ] [<code>more compilation flags for stack traces (#19899)</code>](https://github.com/netdata/netdata.git/commit/10f1f9b4a8dc0724b165cf801d0b6160f10f63a1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>do not use errno when hashing status events (#19900)</code>](https://github.com/netdata/netdata.git/commit/15b454effe69e2a319fb72c504bda12d0a32d84c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
