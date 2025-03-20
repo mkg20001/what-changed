@@ -100,6 +100,8 @@
 - [ ] [<code>Cargo.lock: Update 'ctrlc' and 'nix' crates</code>](https://github.com/stepchowfun/docuum/commit/cece4a0f9a469828a8ba834a2408389418020f95)
 - [ ] [<code>Update Rust to v1.84.1</code>](https://github.com/stepchowfun/docuum/commit/eab9d374befadccc9de54bb05dd39c95c4856e77)
 - [ ] [<code>Update Rust to v1.85.0</code>](https://github.com/stepchowfun/docuum/commit/2ff30181c538105030ba4378a91ddba55ababbc9)
+- [ ] [<code>Update the MAINTAINERS instructions</code>](https://github.com/stepchowfun/docuum/commit/0f9968e4fe828519dc7194d0769aae4e6e349494)
+- [ ] [<code>Add `permissions` to the `publish-release` CI job</code>](https://github.com/stepchowfun/docuum/commit/1117bf7d9c1222b83db49e8b5a695273f686e178)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -181,6 +183,7 @@
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/072a6d096000b8b745120ecf06da1ef426e11afd)
 - [ ] [<code>build: Update openssl to 0.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d72998e7e98bde59c12b068fe793529063e87b11)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Update gorouter package</code>](https://github.com/krille-chan/fluffychat/commit/0fb0525bffb236d28e9f27f20e7c53985d6a8ee5)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -229,6 +232,7 @@
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/072a6d096000b8b745120ecf06da1ef426e11afd)
 - [ ] [<code>build: Update openssl to 0.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d72998e7e98bde59c12b068fe793529063e87b11)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Update gorouter package</code>](https://github.com/krille-chan/fluffychat/commit/0fb0525bffb236d28e9f27f20e7c53985d6a8ee5)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -486,6 +490,16 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fbac2d0920c72e367e9b0b0b7e196fad76200bd6)
 - [ ] [<code>test: Check CPU allocated time</code>](https://github.com/lxc/incus/commit/1fb0730962c73a3a0c1d21749988e88424488648)
 - [ ] [<code>incusd/certificates: Properly handle bad PEM data</code>](https://github.com/lxc/incus/commit/b296d3f30a4ab851889ead88c77d61b30179bad3)
+- [ ] [<code>cmd/generate-database/lex: Fix pluralization</code>](https://github.com/lxc/incus/commit/bd44cce67c9ef49edd2302172b9052e66e8b3e55)
+- [ ] [<code>cmd/generate-database/db: Consider marshal tagged fields as columns</code>](https://github.com/lxc/incus/commit/ab4fae97b1486489d19f8b53aee1346a67997c48)
+- [ ] [<code>cmd/generate-database/db: Support multi-package parsing</code>](https://github.com/lxc/incus/commit/890298f6e3e9377552cf4a9369bcd1ea0287a217)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>cmd/generate-database/db: Import entities from non-local packages</code>](https://github.com/lxc/incus/commit/3966d9e8444ade853a867b12476f5d8064cc8b05)
+- [ ] [<code>cmd/generate-database/db: Add GetNames</code>](https://github.com/lxc/incus/commit/1583b834106cc345339cd78b0f772e89dc9e91c7)
+- [ ] [<code>cmd/generate-database: Update docs</code>](https://github.com/lxc/incus/commit/4f13ec7ae2417f428e16f358af375f8c043b72fc)
+- [ ] [<code>cmd/generate-database/file/boilerplate: Use tx for multi-queries</code>](https://github.com/lxc/incus/commit/517ca0e4d5fe96f8426022ffad22219eb049b44f)
+- [ ] [<code>internal/server/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/eebaeafb75ff92297bc9350e29f6c01e3eeff9ee)
+- [ ] [<code>cmd/generate-database/db: Fix generator tests</code>](https://github.com/lxc/incus/commit/a9fb4adf90546afaaff2b32de6f48fbd82e63173)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2814,6 +2828,16 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fbac2d0920c72e367e9b0b0b7e196fad76200bd6)
 - [ ] [<code>test: Check CPU allocated time</code>](https://github.com/lxc/incus/commit/1fb0730962c73a3a0c1d21749988e88424488648)
 - [ ] [<code>incusd/certificates: Properly handle bad PEM data</code>](https://github.com/lxc/incus/commit/b296d3f30a4ab851889ead88c77d61b30179bad3)
+- [ ] [<code>cmd/generate-database/lex: Fix pluralization</code>](https://github.com/lxc/incus/commit/bd44cce67c9ef49edd2302172b9052e66e8b3e55)
+- [ ] [<code>cmd/generate-database/db: Consider marshal tagged fields as columns</code>](https://github.com/lxc/incus/commit/ab4fae97b1486489d19f8b53aee1346a67997c48)
+- [ ] [<code>cmd/generate-database/db: Support multi-package parsing</code>](https://github.com/lxc/incus/commit/890298f6e3e9377552cf4a9369bcd1ea0287a217)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>cmd/generate-database/db: Import entities from non-local packages</code>](https://github.com/lxc/incus/commit/3966d9e8444ade853a867b12476f5d8064cc8b05)
+- [ ] [<code>cmd/generate-database/db: Add GetNames</code>](https://github.com/lxc/incus/commit/1583b834106cc345339cd78b0f772e89dc9e91c7)
+- [ ] [<code>cmd/generate-database: Update docs</code>](https://github.com/lxc/incus/commit/4f13ec7ae2417f428e16f358af375f8c043b72fc)
+- [ ] [<code>cmd/generate-database/file/boilerplate: Use tx for multi-queries</code>](https://github.com/lxc/incus/commit/517ca0e4d5fe96f8426022ffad22219eb049b44f)
+- [ ] [<code>internal/server/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/eebaeafb75ff92297bc9350e29f6c01e3eeff9ee)
+- [ ] [<code>cmd/generate-database/db: Fix generator tests</code>](https://github.com/lxc/incus/commit/a9fb4adf90546afaaff2b32de6f48fbd82e63173)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5134,6 +5158,13 @@
   - <sub>Tags: <code>v2.3.0</code></sub>
 - [ ] [<code>new exit cause: shutdown timeout (#19903)</code>](https://github.com/netdata/netdata.git/commit/6001d73c17498f89b2c34da9ce33b41ee1823696)
 - [ ] [<code>fix reliability calculation (#19909)</code>](https://github.com/netdata/netdata.git/commit/d09924b9536cae30a9c604006e411257ae462aaa)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/3f523871c666bd59dbd992121f614d97480eceef)
+- [ ] [<code>Store alert config asynchronously (#19885)</code>](https://github.com/netdata/netdata.git/commit/70f4422287db1077c212bf3828f1666e991ccff0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>post the first status when there is no last status (#19912)</code>](https://github.com/netdata/netdata.git/commit/2a292a84a31b5c3bb8fb2c391526f80a9731884b)
+- [ ] [<code>do not enqueue command if aclk is not initialized (#19914)</code>](https://github.com/netdata/netdata.git/commit/2e32b5777b93ff264a617bd6721d3e78b5bceec5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>detect null datafile while finding datafiles in range (#19913)</code>](https://github.com/netdata/netdata.git/commit/c5f0af40570bdf0cb9f93427cb208a8a9f5b834d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
