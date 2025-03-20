@@ -477,6 +477,15 @@
 - [ ] [<code>incus-agent: Update for osarch change</code>](https://github.com/lxc/incus/commit/2224fff715e06be4a04f7d71eed9246e03358e3e)
 - [ ] [<code>incusd: Update for osarch change</code>](https://github.com/lxc/incus/commit/5d7da7b9fa9717d20965b22f3b3720644fb68a96)
 - [ ] [<code>internal/version: Update UserAgent logic for osarch change</code>](https://github.com/lxc/incus/commit/3b056f9e7b45f945c30e243dae7ff04d93a3e66c)
+- [ ] [<code>api: instance_state_cpu_time</code>](https://github.com/lxc/incus/commit/c4e4354427a9b7da4e10a11ea47aafc22906a837)
+- [ ] [<code>shared/api: Add AllocatedTime CPU field</code>](https://github.com/lxc/incus/commit/08ee9e729d05ab95fc34e5c1a66d310843063923)
+- [ ] [<code>incusd/cgroup: Add GetCPUCfsLimit</code>](https://github.com/lxc/incus/commit/706d39ab67d8a2f7f88daefda06de20f0c5bfe17)
+- [ ] [<code>incusd/instance/lxc: Add AllocatedTime CPU field</code>](https://github.com/lxc/incus/commit/038481492d7559113c25ce5d6e288531f6a201cf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Add AllocatedTime CPU field</code>](https://github.com/lxc/incus/commit/5675c81e4cafaf0ca3b80381c5200f5323311dc5)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fbac2d0920c72e367e9b0b0b7e196fad76200bd6)
+- [ ] [<code>test: Check CPU allocated time</code>](https://github.com/lxc/incus/commit/1fb0730962c73a3a0c1d21749988e88424488648)
+- [ ] [<code>incusd/certificates: Properly handle bad PEM data</code>](https://github.com/lxc/incus/commit/b296d3f30a4ab851889ead88c77d61b30179bad3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2796,6 +2805,15 @@
 - [ ] [<code>incus-agent: Update for osarch change</code>](https://github.com/lxc/incus/commit/2224fff715e06be4a04f7d71eed9246e03358e3e)
 - [ ] [<code>incusd: Update for osarch change</code>](https://github.com/lxc/incus/commit/5d7da7b9fa9717d20965b22f3b3720644fb68a96)
 - [ ] [<code>internal/version: Update UserAgent logic for osarch change</code>](https://github.com/lxc/incus/commit/3b056f9e7b45f945c30e243dae7ff04d93a3e66c)
+- [ ] [<code>api: instance_state_cpu_time</code>](https://github.com/lxc/incus/commit/c4e4354427a9b7da4e10a11ea47aafc22906a837)
+- [ ] [<code>shared/api: Add AllocatedTime CPU field</code>](https://github.com/lxc/incus/commit/08ee9e729d05ab95fc34e5c1a66d310843063923)
+- [ ] [<code>incusd/cgroup: Add GetCPUCfsLimit</code>](https://github.com/lxc/incus/commit/706d39ab67d8a2f7f88daefda06de20f0c5bfe17)
+- [ ] [<code>incusd/instance/lxc: Add AllocatedTime CPU field</code>](https://github.com/lxc/incus/commit/038481492d7559113c25ce5d6e288531f6a201cf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Add AllocatedTime CPU field</code>](https://github.com/lxc/incus/commit/5675c81e4cafaf0ca3b80381c5200f5323311dc5)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/fbac2d0920c72e367e9b0b0b7e196fad76200bd6)
+- [ ] [<code>test: Check CPU allocated time</code>](https://github.com/lxc/incus/commit/1fb0730962c73a3a0c1d21749988e88424488648)
+- [ ] [<code>incusd/certificates: Properly handle bad PEM data</code>](https://github.com/lxc/incus/commit/b296d3f30a4ab851889ead88c77d61b30179bad3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
