@@ -133,6 +133,8 @@
 - [ ] [<code>maint: Migrate to org GitHub to Jira application (#328)</code>](https://github.com/canonical/firmware-updater/commit/e5bca1fc99e902cd552c954739ce2cedb24490cf)
 - [ ] [<code>chore: update issue templates</code>](https://github.com/canonical/firmware-updater/commit/bf04481cb625c82c625f9080831c95dc2faaa223)
 - [ ] [<code>chore: update issue templates (#332)</code>](https://github.com/canonical/firmware-updater/commit/65c99e2291a15cc6581a765954a5ca854f5566b1)
+- [ ] [<code>Update cla-check to v2</code>](https://github.com/canonical/firmware-updater/commit/43b0ba464920d88eb4cac1e8b17f3e2085fdd766)
+- [ ] [<code>Update cla-check to v2 (#333)</code>](https://github.com/canonical/firmware-updater/commit/4ca9bb1bd4f485d0df31b32a18926992db3ca9a8)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -5186,6 +5188,11 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-15-nightly.</code>](https://github.com/netdata/netdata.git/commit/31e8b31a96b97225cae03fa8da2f66a792566d4c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix compile without dbengine (#19930)</code>](https://github.com/netdata/netdata.git/commit/2b3e1d680fe32bd93a9e9efc751e3268336a50c8)
+- [ ] [<code>Fix max_page_length calculation for GORILLA_32BIT page type (#19932)</code>](https://github.com/netdata/netdata.git/commit/6d7b6e6d25c0c452d359f4fc1d585f492e88bbd2)
+- [ ] [<code>initial implementation of libbacktrace (#19910)</code>](https://github.com/netdata/netdata.git/commit/b75958a4ab8c57d6ec4f8f996c578e384fc280d5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Metadata event loop code cleanup (#19929)</code>](https://github.com/netdata/netdata.git/commit/de88c30dca8262dba4b32d7d8ddc8b203ca94b14)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
