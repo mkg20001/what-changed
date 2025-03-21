@@ -184,6 +184,8 @@
 - [ ] [<code>build: Update openssl to 0.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d72998e7e98bde59c12b068fe793529063e87b11)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Update gorouter package</code>](https://github.com/krille-chan/fluffychat/commit/0fb0525bffb236d28e9f27f20e7c53985d6a8ee5)
+- [ ] [<code>build: Update to flutter 3.29.2</code>](https://github.com/krille-chan/fluffychat/commit/e93fdebe2017f6c6491ceb93d57c71148d1b4f0d)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -233,6 +235,8 @@
 - [ ] [<code>build: Update openssl to 0.5.0</code>](https://github.com/krille-chan/fluffychat/commit/d72998e7e98bde59c12b068fe793529063e87b11)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: Update gorouter package</code>](https://github.com/krille-chan/fluffychat/commit/0fb0525bffb236d28e9f27f20e7c53985d6a8ee5)
+- [ ] [<code>build: Update to flutter 3.29.2</code>](https://github.com/krille-chan/fluffychat/commit/e93fdebe2017f6c6491ceb93d57c71148d1b4f0d)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -500,6 +504,8 @@
 - [ ] [<code>cmd/generate-database/file/boilerplate: Use tx for multi-queries</code>](https://github.com/lxc/incus/commit/517ca0e4d5fe96f8426022ffad22219eb049b44f)
 - [ ] [<code>internal/server/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/eebaeafb75ff92297bc9350e29f6c01e3eeff9ee)
 - [ ] [<code>cmd/generate-database/db: Fix generator tests</code>](https://github.com/lxc/incus/commit/a9fb4adf90546afaaff2b32de6f48fbd82e63173)
+- [ ] [<code>incusd/network/common: Handle missing BGP peer</code>](https://github.com/lxc/incus/commit/73f5867e6283f59af4e0a4c9a3668c6db499e89c)
+- [ ] [<code>incusd/cluster/evacuate: Don't live-migrate stopped instances</code>](https://github.com/lxc/incus/commit/a3733250418f90d1157a5e234a9fe1b19f323924)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2838,6 +2844,8 @@
 - [ ] [<code>cmd/generate-database/file/boilerplate: Use tx for multi-queries</code>](https://github.com/lxc/incus/commit/517ca0e4d5fe96f8426022ffad22219eb049b44f)
 - [ ] [<code>internal/server/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/eebaeafb75ff92297bc9350e29f6c01e3eeff9ee)
 - [ ] [<code>cmd/generate-database/db: Fix generator tests</code>](https://github.com/lxc/incus/commit/a9fb4adf90546afaaff2b32de6f48fbd82e63173)
+- [ ] [<code>incusd/network/common: Handle missing BGP peer</code>](https://github.com/lxc/incus/commit/73f5867e6283f59af4e0a4c9a3668c6db499e89c)
+- [ ] [<code>incusd/cluster/evacuate: Don't live-migrate stopped instances</code>](https://github.com/lxc/incus/commit/a3733250418f90d1157a5e234a9fe1b19f323924)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5165,6 +5173,14 @@
 - [ ] [<code>do not enqueue command if aclk is not initialized (#19914)</code>](https://github.com/netdata/netdata.git/commit/2e32b5777b93ff264a617bd6721d3e78b5bceec5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>detect null datafile while finding datafiles in range (#19913)</code>](https://github.com/netdata/netdata.git/commit/c5f0af40570bdf0cb9f93427cb208a8a9f5b834d)
+- [ ] [<code>Align cmsgbuf to size_t to avoid unaligned memory access. (#19917)</code>](https://github.com/netdata/netdata.git/commit/e81d0f18a882361733bc1ed960ae1f5d0c94e4b6)
+- [ ] [<code>Make sure ACLK sync thread completes initialization (#19916)</code>](https://github.com/netdata/netdata.git/commit/448a0812e94f4b7e44705741a876d1581206d337)
+- [ ] [<code>Exclude external code from CodeQL scanning. (#19923)</code>](https://github.com/netdata/netdata.git/commit/ccf2d2c1adb0b8c810d8fe14de5bb213ad0e3a80)
+- [ ] [<code>remove ilove endpoint (#19919)</code>](https://github.com/netdata/netdata.git/commit/f82554fe9b21b5ae51a8663a3f4ddce84cac16af)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>do not expose web server filenames (#19925)</code>](https://github.com/netdata/netdata.git/commit/968bc5df9a91afe27a5401088be19c683eafdd54)
+- [ ] [<code>Fix TOCTOU race in daemon status file handling. (#19924)</code>](https://github.com/netdata/netdata.git/commit/3321195f7f6a916a5738fcbbe684782f0ece97d9)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.7.1 to 9.7.3 in /src/go (#19926)</code>](https://github.com/netdata/netdata.git/commit/a9034cb92b2a8e0401b277902a1abde38b4bffb6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
