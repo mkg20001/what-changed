@@ -71,6 +71,7 @@
 - [ ] [<code>Update README.md - replace libguestfs-tools with libwin-hivex-perl</code>](https://github.com/lxc/distrobuilder/commit/d10aab0e1d2c8a5957e0b4127c42e052a5856e3b)
 - [ ] [<code>lint: Run codespell automatically</code>](https://github.com/lxc/distrobuilder/commit/7ba4ca6a79515d5b254e38f64f896d5c15069223)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>lxc.generator Fixed typo in comments</code>](https://github.com/lxc/distrobuilder/commit/eacf8b58386272352a49c6d235c42e2db18d41c2)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -3191,6 +3192,7 @@
 - [ ] [<code>Do not go through RGB when reading/writing a gray PNG/JPG (#2684)</code>](https://github.com/AOMediaCodec/libavif/commit/5450a8cddeeb631fd525751adc14333b5b20e6d6)
 - [ ] [<code>Switch ubuntu-24.04 to ubuntu-latest in CI (#2698)</code>](https://github.com/AOMediaCodec/libavif/commit/fe299712f2fa34f657fb455a491cc335189f87e2)
 - [ ] [<code>Add some comments to aviflosslesstest.cc (#2677)</code>](https://github.com/AOMediaCodec/libavif/commit/1d469864478de5686a13c06b5539416ac68d98d7)
+- [ ] [<code>codec_aom: disable loop restoration w/12-bit input (#2701)</code>](https://github.com/AOMediaCodec/libavif/commit/6b2a1859b9f69c514948e7d22238b3163d938ea4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5181,6 +5183,9 @@
 - [ ] [<code>do not expose web server filenames (#19925)</code>](https://github.com/netdata/netdata.git/commit/968bc5df9a91afe27a5401088be19c683eafdd54)
 - [ ] [<code>Fix TOCTOU race in daemon status file handling. (#19924)</code>](https://github.com/netdata/netdata.git/commit/3321195f7f6a916a5738fcbbe684782f0ece97d9)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.7.1 to 9.7.3 in /src/go (#19926)</code>](https://github.com/netdata/netdata.git/commit/a9034cb92b2a8e0401b277902a1abde38b4bffb6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-15-nightly.</code>](https://github.com/netdata/netdata.git/commit/31e8b31a96b97225cae03fa8da2f66a792566d4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix compile without dbengine (#19930)</code>](https://github.com/netdata/netdata.git/commit/2b3e1d680fe32bd93a9e9efc751e3268336a50c8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
