@@ -527,6 +527,11 @@
 - [ ] [<code>Makefile: Bump base Go 1.23 version</code>](https://github.com/lxc/incus/commit/2c479b4c587cb205bf80dd0639e43d8b62598c67)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/a1a7f91ac3ea5e5d0fc53cc0c0942bcc4b4e2cf5)
 - [ ] [<code>cmd/generate-database/db: Fix GetNames spacing</code>](https://github.com/lxc/incus/commit/196e4e1d74d1e324c081fabcfd7752e85df60430)
+- [ ] [<code>github: Rework issue templates</code>](https://github.com/lxc/incus/commit/f10fb9babaac59116360d87782fa1f405f249b38)
+- [ ] [<code>internal/server/storage/s3: Add `minio-client` to list of potential binary names</code>](https://github.com/lxc/incus/commit/041824a66330625b7ac0b67c41007df460dbb3e1)
+- [ ] [<code>doc: Update Debian installation documentation</code>](https://github.com/lxc/incus/commit/6f425d655bfa1c8992b1be172a4225db5ee8fac0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/server/storage/s3: Update logic for checking MinIO version from multiple possible binary names</code>](https://github.com/lxc/incus/commit/3c695de9aa966e055d23a2531121382a03dfe5cc)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2885,6 +2890,11 @@
 - [ ] [<code>Makefile: Bump base Go 1.23 version</code>](https://github.com/lxc/incus/commit/2c479b4c587cb205bf80dd0639e43d8b62598c67)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/a1a7f91ac3ea5e5d0fc53cc0c0942bcc4b4e2cf5)
 - [ ] [<code>cmd/generate-database/db: Fix GetNames spacing</code>](https://github.com/lxc/incus/commit/196e4e1d74d1e324c081fabcfd7752e85df60430)
+- [ ] [<code>github: Rework issue templates</code>](https://github.com/lxc/incus/commit/f10fb9babaac59116360d87782fa1f405f249b38)
+- [ ] [<code>internal/server/storage/s3: Add `minio-client` to list of potential binary names</code>](https://github.com/lxc/incus/commit/041824a66330625b7ac0b67c41007df460dbb3e1)
+- [ ] [<code>doc: Update Debian installation documentation</code>](https://github.com/lxc/incus/commit/6f425d655bfa1c8992b1be172a4225db5ee8fac0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/server/storage/s3: Update logic for checking MinIO version from multiple possible binary names</code>](https://github.com/lxc/incus/commit/3c695de9aa966e055d23a2531121382a03dfe5cc)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5237,6 +5247,14 @@
 - [ ] [<code>Fix logic for libbacktrace enablement in CMakeLists,txt (#19936)</code>](https://github.com/netdata/netdata.git/commit/deede010d7fb371c253e4aa3c330115303cd0d74)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-24-nightly.</code>](https://github.com/netdata/netdata.git/commit/ceb4c2c7905b7033112c8992c46b6d9ed7408363)
+- [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.9.0 to 1.9.1 in /src/go (#19943)</code>](https://github.com/netdata/netdata.git/commit/1eb340ad80d768fc4f4edc78791130ceca0503cc)
+- [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.63 to 1.1.64 in /src/go (#19945)</code>](https://github.com/netdata/netdata.git/commit/287717971fa2d7a9a154cfde5382a5125127ac40)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.0.1+incompatible to 28.0.2+incompatible in /src/go (#19942)</code>](https://github.com/netdata/netdata.git/commit/014235d58de493c069c8e824f739b5d1308ade92)
+- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.2 to 5.7.3 in /src/go (#19944)</code>](https://github.com/netdata/netdata.git/commit/c619d46e2c27269c8b0957c10e39428d4274d180)
+- [ ] [<code>Don't build libunwind in static builds when it's not needed. (#19939)</code>](https://github.com/netdata/netdata.git/commit/b800a845a9d9f01b22194b5d75cbe1c10f217137)
+- [ ] [<code>detect low ram conditions more aggresively (#19938)</code>](https://github.com/netdata/netdata.git/commit/eeb88c9532db62d4d7d77c93a048b1d7336601ba)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-31-nightly.</code>](https://github.com/netdata/netdata.git/commit/a2b86c02cae6eb1797d766b1fa6e5d0e1f32abf9)
+- [ ] [<code>build(deps): bump github.com/DataDog/datadog-agent/pkg/networkdevice/profile from 0.65.0-devel.0.20250317105920-ce55f088ab29 to 0.66.0-devel in /src/go (#19941)</code>](https://github.com/netdata/netdata.git/commit/59240694003822fd9234a2c8fe3abdcb4d0cf506)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
