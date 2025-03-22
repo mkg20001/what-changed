@@ -509,6 +509,20 @@
 - [ ] [<code>cmd/generate-database/db: Fix generator tests</code>](https://github.com/lxc/incus/commit/a9fb4adf90546afaaff2b32de6f48fbd82e63173)
 - [ ] [<code>incusd/network/common: Handle missing BGP peer</code>](https://github.com/lxc/incus/commit/73f5867e6283f59af4e0a4c9a3668c6db499e89c)
 - [ ] [<code>incusd/cluster/evacuate: Don't live-migrate stopped instances</code>](https://github.com/lxc/incus/commit/a3733250418f90d1157a5e234a9fe1b19f323924)
+- [ ] [<code>cmd/generate-database/db: Directly pass reference table and column names</code>](https://github.com/lxc/incus/commit/0ae86f95f095edb94f5b0c35fa7cad568954be80)
+- [ ] [<code>internal/server/db/cluster: Specify table name on method declarations</code>](https://github.com/lxc/incus/commit/1f5f7b97a51097faf7448ecc4659fc2659ea4b93)
+- [ ] [<code>internal/server/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/de51332500c0b07ef0acce5174f718368deceae2)
+- [ ] [<code>cmd/incusd: Update calls to generated code</code>](https://github.com/lxc/incus/commit/a43a57f5cc88fa2d5ec742218791bf629d753558)
+- [ ] [<code>cmd/generate-database/db: Make linter happy (defer loops)</code>](https://github.com/lxc/incus/commit/cc0f53121f8e60426dcd28dd6ac9cae16317dca3)
+- [ ] [<code>api: network_io_bus</code>](https://github.com/lxc/incus/commit/feece2d4878819758aca228e2cac97a563b227c8)
+- [ ] [<code>incusd/device/config: Add USB bus override</code>](https://github.com/lxc/incus/commit/1b04793ef95e4d784eaf17ddeca7ab62e1410a76)
+- [ ] [<code>incusd/instance: Add support for USB NICs</code>](https://github.com/lxc/incus/commit/8b0f88f5a35810390de9415230eabbe485c67fd4)
+- [ ] [<code>incusd/device/nic: Add support for io.bus</code>](https://github.com/lxc/incus/commit/6dd07f870b50921e3bbd07033e432c064ab338f4)
+- [ ] [<code>incusd/storage/s3 Fixed minio client mc too ambious issue</code>](https://github.com/lxc/incus/commit/f291198dafd6208fba049ff2ba4ca11999aa7df3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/device/nic: Add support for io.bus</code>](https://github.com/lxc/incus/commit/e724c414d0de4c6197ef8735603e51a9b86dfa11)
+- [ ] [<code>incusd/instance/qemu enable s4 by default</code>](https://github.com/lxc/incus/commit/a63c3a8445e3d465cbd3c76bf30bb8d296d8db2b)
+- [ ] [<code>doc/instance_options: Updates raw.qemu.conf example</code>](https://github.com/lxc/incus/commit/7b96874d2b123ba155f1fba55fc9368f0a21c936)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2849,6 +2863,20 @@
 - [ ] [<code>cmd/generate-database/db: Fix generator tests</code>](https://github.com/lxc/incus/commit/a9fb4adf90546afaaff2b32de6f48fbd82e63173)
 - [ ] [<code>incusd/network/common: Handle missing BGP peer</code>](https://github.com/lxc/incus/commit/73f5867e6283f59af4e0a4c9a3668c6db499e89c)
 - [ ] [<code>incusd/cluster/evacuate: Don't live-migrate stopped instances</code>](https://github.com/lxc/incus/commit/a3733250418f90d1157a5e234a9fe1b19f323924)
+- [ ] [<code>cmd/generate-database/db: Directly pass reference table and column names</code>](https://github.com/lxc/incus/commit/0ae86f95f095edb94f5b0c35fa7cad568954be80)
+- [ ] [<code>internal/server/db/cluster: Specify table name on method declarations</code>](https://github.com/lxc/incus/commit/1f5f7b97a51097faf7448ecc4659fc2659ea4b93)
+- [ ] [<code>internal/server/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/de51332500c0b07ef0acce5174f718368deceae2)
+- [ ] [<code>cmd/incusd: Update calls to generated code</code>](https://github.com/lxc/incus/commit/a43a57f5cc88fa2d5ec742218791bf629d753558)
+- [ ] [<code>cmd/generate-database/db: Make linter happy (defer loops)</code>](https://github.com/lxc/incus/commit/cc0f53121f8e60426dcd28dd6ac9cae16317dca3)
+- [ ] [<code>api: network_io_bus</code>](https://github.com/lxc/incus/commit/feece2d4878819758aca228e2cac97a563b227c8)
+- [ ] [<code>incusd/device/config: Add USB bus override</code>](https://github.com/lxc/incus/commit/1b04793ef95e4d784eaf17ddeca7ab62e1410a76)
+- [ ] [<code>incusd/instance: Add support for USB NICs</code>](https://github.com/lxc/incus/commit/8b0f88f5a35810390de9415230eabbe485c67fd4)
+- [ ] [<code>incusd/device/nic: Add support for io.bus</code>](https://github.com/lxc/incus/commit/6dd07f870b50921e3bbd07033e432c064ab338f4)
+- [ ] [<code>incusd/storage/s3 Fixed minio client mc too ambious issue</code>](https://github.com/lxc/incus/commit/f291198dafd6208fba049ff2ba4ca11999aa7df3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/device/nic: Add support for io.bus</code>](https://github.com/lxc/incus/commit/e724c414d0de4c6197ef8735603e51a9b86dfa11)
+- [ ] [<code>incusd/instance/qemu enable s4 by default</code>](https://github.com/lxc/incus/commit/a63c3a8445e3d465cbd3c76bf30bb8d296d8db2b)
+- [ ] [<code>doc/instance_options: Updates raw.qemu.conf example</code>](https://github.com/lxc/incus/commit/7b96874d2b123ba155f1fba55fc9368f0a21c936)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5193,6 +5221,13 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Metadata event loop code cleanup (#19929)</code>](https://github.com/netdata/netdata.git/commit/de88c30dca8262dba4b32d7d8ddc8b203ca94b14)
+- [ ] [<code>Fix path to copy drop-in crontab from (#19935)</code>](https://github.com/netdata/netdata.git/commit/ffe6fe8d89fddab9bfead6149ad1e31f46d7a6a4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>status file v21 (#19928)</code>](https://github.com/netdata/netdata.git/commit/7439280f57ebee3d1a01dcbafe438c4661123a6e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>status file 21b (#19937)</code>](https://github.com/netdata/netdata.git/commit/52a60fba39ec7413e78ef63565e415e90663468a)
+- [ ] [<code>Fix logic for libbacktrace enablement in CMakeLists,txt (#19936)</code>](https://github.com/netdata/netdata.git/commit/deede010d7fb371c253e4aa3c330115303cd0d74)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
