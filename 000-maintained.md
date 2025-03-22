@@ -523,6 +523,10 @@
 - [ ] [<code>doc/device/nic: Add support for io.bus</code>](https://github.com/lxc/incus/commit/e724c414d0de4c6197ef8735603e51a9b86dfa11)
 - [ ] [<code>incusd/instance/qemu enable s4 by default</code>](https://github.com/lxc/incus/commit/a63c3a8445e3d465cbd3c76bf30bb8d296d8db2b)
 - [ ] [<code>doc/instance_options: Updates raw.qemu.conf example</code>](https://github.com/lxc/incus/commit/7b96874d2b123ba155f1fba55fc9368f0a21c936)
+- [ ] [<code>incusd/networks: Validate configuration on join too</code>](https://github.com/lxc/incus/commit/27204c8625acd5b4af6406a74bfbc01b5870c51f)
+- [ ] [<code>Makefile: Bump base Go 1.23 version</code>](https://github.com/lxc/incus/commit/2c479b4c587cb205bf80dd0639e43d8b62598c67)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/a1a7f91ac3ea5e5d0fc53cc0c0942bcc4b4e2cf5)
+- [ ] [<code>cmd/generate-database/db: Fix GetNames spacing</code>](https://github.com/lxc/incus/commit/196e4e1d74d1e324c081fabcfd7752e85df60430)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2877,6 +2881,10 @@
 - [ ] [<code>doc/device/nic: Add support for io.bus</code>](https://github.com/lxc/incus/commit/e724c414d0de4c6197ef8735603e51a9b86dfa11)
 - [ ] [<code>incusd/instance/qemu enable s4 by default</code>](https://github.com/lxc/incus/commit/a63c3a8445e3d465cbd3c76bf30bb8d296d8db2b)
 - [ ] [<code>doc/instance_options: Updates raw.qemu.conf example</code>](https://github.com/lxc/incus/commit/7b96874d2b123ba155f1fba55fc9368f0a21c936)
+- [ ] [<code>incusd/networks: Validate configuration on join too</code>](https://github.com/lxc/incus/commit/27204c8625acd5b4af6406a74bfbc01b5870c51f)
+- [ ] [<code>Makefile: Bump base Go 1.23 version</code>](https://github.com/lxc/incus/commit/2c479b4c587cb205bf80dd0639e43d8b62598c67)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/a1a7f91ac3ea5e5d0fc53cc0c0942bcc4b4e2cf5)
+- [ ] [<code>cmd/generate-database/db: Fix GetNames spacing</code>](https://github.com/lxc/incus/commit/196e4e1d74d1e324c081fabcfd7752e85df60430)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5228,6 +5236,7 @@
 - [ ] [<code>status file 21b (#19937)</code>](https://github.com/netdata/netdata.git/commit/52a60fba39ec7413e78ef63565e415e90663468a)
 - [ ] [<code>Fix logic for libbacktrace enablement in CMakeLists,txt (#19936)</code>](https://github.com/netdata/netdata.git/commit/deede010d7fb371c253e4aa3c330115303cd0d74)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-24-nightly.</code>](https://github.com/netdata/netdata.git/commit/ceb4c2c7905b7033112c8992c46b6d9ed7408363)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
