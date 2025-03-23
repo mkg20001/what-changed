@@ -532,6 +532,10 @@
 - [ ] [<code>doc: Update Debian installation documentation</code>](https://github.com/lxc/incus/commit/6f425d655bfa1c8992b1be172a4225db5ee8fac0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>internal/server/storage/s3: Update logic for checking MinIO version from multiple possible binary names</code>](https://github.com/lxc/incus/commit/3c695de9aa966e055d23a2531121382a03dfe5cc)
+- [ ] [<code>incusd/auth: Tweak SQL queries</code>](https://github.com/lxc/incus/commit/0e1f5dc862db8254a09189372da6bf91d745ca5a)
+- [ ] [<code>incusd/auth: Properly handle network integrations</code>](https://github.com/lxc/incus/commit/48d5ef98ec7c6261ffcce83ea720273c17579f09)
+- [ ] [<code>incusd/db/cluster/entities: Sort maps</code>](https://github.com/lxc/incus/commit/5e246ec397a4ba3eeea275e4e1bf69a3f36dd2ee)
+- [ ] [<code>doc/network-integration: Document properties</code>](https://github.com/lxc/incus/commit/be3bdc15e1e6c4a117d3e610d66b9a594ce44c88)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5261,6 +5265,7 @@
 - [ ] [<code>build(deps): bump github.com/DataDog/datadog-agent/pkg/networkdevice/profile from 0.65.0-devel.0.20250317105920-ce55f088ab29 to 0.66.0-devel in /src/go (#19941)</code>](https://github.com/netdata/netdata.git/commit/59240694003822fd9234a2c8fe3abdcb4d0cf506)
 - [ ] [<code>Set default CMake build type to include debug info. (#19946)</code>](https://github.com/netdata/netdata.git/commit/9d1fe0fd124414c52b913a01d8d845612dd359b7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-34-nightly.</code>](https://github.com/netdata/netdata.git/commit/6cb523d24bbcef2aab20cb35d90c8af92f7e3d90)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
