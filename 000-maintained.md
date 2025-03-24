@@ -17,7 +17,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.0/dbeaver-ce-25.0.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.0/dbeaver-ce-25.0.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.1/dbeaver-ce-25.0.1-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.1/dbeaver-ce-25.0.1-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -2918,6 +2918,7 @@
 
 - [ ] [<code>Fix the typo in the ACL rule state name</code>](https://github.com/zabbly/incus-ui-canonical/commit/767ae9b2ad675138269c9af91ef8e7a43f154f95)
 - [ ] [<code>Improved instance filtering</code>](https://github.com/zabbly/incus-ui-canonical/commit/6114141cc6d7f7caffc6e8c00acad9e4848bda06)
+- [ ] [<code>ui: Added support for OCI instances creation</code>](https://github.com/zabbly/incus-ui-canonical/commit/3549f179e06bb562b8b55d5a14d650150aecd077)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3259,6 +3260,8 @@
 - [ ] [<code>Switch ubuntu-24.04 to ubuntu-latest in CI (#2698)</code>](https://github.com/AOMediaCodec/libavif/commit/fe299712f2fa34f657fb455a491cc335189f87e2)
 - [ ] [<code>Add some comments to aviflosslesstest.cc (#2677)</code>](https://github.com/AOMediaCodec/libavif/commit/1d469864478de5686a13c06b5539416ac68d98d7)
 - [ ] [<code>codec_aom: disable loop restoration w/12-bit input (#2701)</code>](https://github.com/AOMediaCodec/libavif/commit/6b2a1859b9f69c514948e7d22238b3163d938ea4)
+- [ ] [<code>Ignore gain maps not marked as preferred alternative. (#2682)</code>](https://github.com/AOMediaCodec/libavif/commit/564ee1f893b26573229b40ec3edbef01fd561085)
+- [ ] [<code>codec_aom: rm g_limit check when disabling loop resto (#2702)</code>](https://github.com/AOMediaCodec/libavif/commit/dec3964e006c62481ca8f690ccb8afd202a79cfc)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5278,6 +5281,11 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-34-nightly.</code>](https://github.com/netdata/netdata.git/commit/6cb523d24bbcef2aab20cb35d90c8af92f7e3d90)
 - [ ] [<code>Disable generation of debuginfo packages for DEB distros. (#19948)</code>](https://github.com/netdata/netdata.git/commit/7b38ebd8e1b02a3eba516d4951894930e37498f4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-36-nightly.</code>](https://github.com/netdata/netdata.git/commit/d0ea205fd1719596fac58ab891748af32f752464)
+- [ ] [<code>daemon status 22 (#19953)</code>](https://github.com/netdata/netdata.git/commit/8c244369582fcd4b78dd9081d14fb33a653a32c5)
+- [ ] [<code>Enable interface to release sqlite memory (#19952)</code>](https://github.com/netdata/netdata.git/commit/ad39ad335d2b13a4ff7e1d960a73e5f232cd7b50)
+- [ ] [<code>Fix claiming on startup (#19954)</code>](https://github.com/netdata/netdata.git/commit/dfbf2c4b64bffc162bc7600e6e6d3f0cf252e46c)
+- [ ] [<code>fix rrdcalc_unlink_from_rrdset() (#19956)</code>](https://github.com/netdata/netdata.git/commit/e73ccf9a2c22b130305fb8d3289390725e0608c5)
+- [ ] [<code>Improve event loop thread creation (#19951)</code>](https://github.com/netdata/netdata.git/commit/98e77bafd693bf11f43c378b830b3db5d20d312d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
