@@ -5266,6 +5266,7 @@
 - [ ] [<code>Set default CMake build type to include debug info. (#19946)</code>](https://github.com/netdata/netdata.git/commit/9d1fe0fd124414c52b913a01d8d845612dd359b7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-34-nightly.</code>](https://github.com/netdata/netdata.git/commit/6cb523d24bbcef2aab20cb35d90c8af92f7e3d90)
+- [ ] [<code>Disable generation of debuginfo packages for DEB distros. (#19948)</code>](https://github.com/netdata/netdata.git/commit/7b38ebd8e1b02a3eba516d4951894930e37498f4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
