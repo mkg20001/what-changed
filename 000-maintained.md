@@ -536,6 +536,11 @@
 - [ ] [<code>incusd/auth: Properly handle network integrations</code>](https://github.com/lxc/incus/commit/48d5ef98ec7c6261ffcce83ea720273c17579f09)
 - [ ] [<code>incusd/db/cluster/entities: Sort maps</code>](https://github.com/lxc/incus/commit/5e246ec397a4ba3eeea275e4e1bf69a3f36dd2ee)
 - [ ] [<code>doc/network-integration: Document properties</code>](https://github.com/lxc/incus/commit/be3bdc15e1e6c4a117d3e610d66b9a594ce44c88)
+- [ ] [<code>incusd/instance/lxc: Cleanup OCI mount paths</code>](https://github.com/lxc/incus/commit/362e447ee4c2c3007e2ecf06e8aa8f5de8cea65e)
+- [ ] [<code>api: disk_io_bus_usb</code>](https://github.com/lxc/incus/commit/8dfc2ad99699b5c4d305cdde268f2124a393ac0b)
+- [ ] [<code>incusd/device/disk: Add support for USB bus</code>](https://github.com/lxc/incus/commit/855379d45c4cf31fddd261e45e59d384306f5a0e)
+- [ ] [<code>incusd/instance/qemu: Add support for USB disks</code>](https://github.com/lxc/incus/commit/a817a398fed5db1d62da2b71bd78f63b30384e9b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6594b0c17437e7a1cc795fe26edb02301d807e27)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2903,6 +2908,11 @@
 - [ ] [<code>incusd/auth: Properly handle network integrations</code>](https://github.com/lxc/incus/commit/48d5ef98ec7c6261ffcce83ea720273c17579f09)
 - [ ] [<code>incusd/db/cluster/entities: Sort maps</code>](https://github.com/lxc/incus/commit/5e246ec397a4ba3eeea275e4e1bf69a3f36dd2ee)
 - [ ] [<code>doc/network-integration: Document properties</code>](https://github.com/lxc/incus/commit/be3bdc15e1e6c4a117d3e610d66b9a594ce44c88)
+- [ ] [<code>incusd/instance/lxc: Cleanup OCI mount paths</code>](https://github.com/lxc/incus/commit/362e447ee4c2c3007e2ecf06e8aa8f5de8cea65e)
+- [ ] [<code>api: disk_io_bus_usb</code>](https://github.com/lxc/incus/commit/8dfc2ad99699b5c4d305cdde268f2124a393ac0b)
+- [ ] [<code>incusd/device/disk: Add support for USB bus</code>](https://github.com/lxc/incus/commit/855379d45c4cf31fddd261e45e59d384306f5a0e)
+- [ ] [<code>incusd/instance/qemu: Add support for USB disks</code>](https://github.com/lxc/incus/commit/a817a398fed5db1d62da2b71bd78f63b30384e9b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6594b0c17437e7a1cc795fe26edb02301d807e27)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5267,6 +5277,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-34-nightly.</code>](https://github.com/netdata/netdata.git/commit/6cb523d24bbcef2aab20cb35d90c8af92f7e3d90)
 - [ ] [<code>Disable generation of debuginfo packages for DEB distros. (#19948)</code>](https://github.com/netdata/netdata.git/commit/7b38ebd8e1b02a3eba516d4951894930e37498f4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-36-nightly.</code>](https://github.com/netdata/netdata.git/commit/d0ea205fd1719596fac58ab891748af32f752464)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6714,6 +6725,7 @@
 - [ ] [<code>ubus: remove broken implied await when calling defer() outside of uloop.run()</code>](https://github.com/jow-/ucode/commit/fb1da7157d138adcc4e20d41685aa6ab400bc042)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>ubus: fix uninitialized variable warning</code>](https://github.com/jow-/ucode/commit/67a4ad20f17264c7990db965120880fa9383ca20)
+- [ ] [<code>ubus: fix broken uc_ubus_defer()</code>](https://github.com/jow-/ucode/commit/2824982da336bbdaef4a52ced9ae54e4ed5ef1d4)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
