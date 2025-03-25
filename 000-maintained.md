@@ -541,6 +541,7 @@
 - [ ] [<code>incusd/device/disk: Add support for USB bus</code>](https://github.com/lxc/incus/commit/855379d45c4cf31fddd261e45e59d384306f5a0e)
 - [ ] [<code>incusd/instance/qemu: Add support for USB disks</code>](https://github.com/lxc/incus/commit/a817a398fed5db1d62da2b71bd78f63b30384e9b)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6594b0c17437e7a1cc795fe26edb02301d807e27)
+- [ ] [<code>golangci: Upgrade to version 2</code>](https://github.com/lxc/incus/commit/978a490718c32d42473c8ab9836dc78f1da47097)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2913,6 +2914,7 @@
 - [ ] [<code>incusd/device/disk: Add support for USB bus</code>](https://github.com/lxc/incus/commit/855379d45c4cf31fddd261e45e59d384306f5a0e)
 - [ ] [<code>incusd/instance/qemu: Add support for USB disks</code>](https://github.com/lxc/incus/commit/a817a398fed5db1d62da2b71bd78f63b30384e9b)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6594b0c17437e7a1cc795fe26edb02301d807e27)
+- [ ] [<code>golangci: Upgrade to version 2</code>](https://github.com/lxc/incus/commit/978a490718c32d42473c8ab9836dc78f1da47097)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5286,6 +5288,7 @@
 - [ ] [<code>Fix claiming on startup (#19954)</code>](https://github.com/netdata/netdata.git/commit/dfbf2c4b64bffc162bc7600e6e6d3f0cf252e46c)
 - [ ] [<code>fix rrdcalc_unlink_from_rrdset() (#19956)</code>](https://github.com/netdata/netdata.git/commit/e73ccf9a2c22b130305fb8d3289390725e0608c5)
 - [ ] [<code>Improve event loop thread creation (#19951)</code>](https://github.com/netdata/netdata.git/commit/98e77bafd693bf11f43c378b830b3db5d20d312d)
+- [ ] [<code>status file 22b (#19957)</code>](https://github.com/netdata/netdata.git/commit/db6ce59b33a1487078b5cf250ad8385ce1467c8e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
