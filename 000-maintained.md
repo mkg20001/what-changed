@@ -544,6 +544,18 @@
 - [ ] [<code>incusd/instance/qemu: Add support for USB disks</code>](https://github.com/lxc/incus/commit/a817a398fed5db1d62da2b71bd78f63b30384e9b)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6594b0c17437e7a1cc795fe26edb02301d807e27)
 - [ ] [<code>golangci: Upgrade to version 2</code>](https://github.com/lxc/incus/commit/978a490718c32d42473c8ab9836dc78f1da47097)
+- [ ] [<code>incusd/storage/s3 minio client check enhancement</code>](https://github.com/lxc/incus/commit/6dc4f56186b20e4ccb67249f1d8d41dab84853ab)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>golangci: Disable STI005 error checks</code>](https://github.com/lxc/incus/commit/0bfb80686cd35622d935cdb8fd563d5776510824)
+- [ ] [<code>test: Fix deprecated chown syntax</code>](https://github.com/lxc/incus/commit/c339bbd9aabf650e5dec495c78ccc6bd24d41ff2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: Fix test cleanup</code>](https://github.com/lxc/incus/commit/a7735a7ec6b78c4b3b48937088c22f339e463e89)
+- [ ] [<code>shared/validate: Add string length validator</code>](https://github.com/lxc/incus/commit/e5e6a9ffccc63c1742036e9850c3a7be692819c0)
+- [ ] [<code>shared/validate: Add minimum duration validator</code>](https://github.com/lxc/incus/commit/3609553d1803b38833c38495fa1414e97b03d400)
+- [ ] [<code>incusd/sys: Add Hostname to OS struct</code>](https://github.com/lxc/incus/commit/5e30d91b21d44ab2a8cabb4bdf652479bd1592ed)
+- [ ] [<code>incusd/instance/drivers: Populate StorageMove and StoragePool when migrating lxc instances</code>](https://github.com/lxc/incus/commit/0ca0d3b6fbecb8da4b774d04f983be403211bd60)
+- [ ] [<code>incusd/storage: Populate StorageMove and StoragePool when migrating volumes</code>](https://github.com/lxc/incus/commit/990db8ff97de0c33346c6cbc6f993c32a6111e5a)
+- [ ] [<code>incusd/storage: Add more parameters to MigrationTypes</code>](https://github.com/lxc/incus/commit/45ef3b4ce9f3ea09c0c7928c63de2bf1430bf76b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2917,6 +2929,18 @@
 - [ ] [<code>incusd/instance/qemu: Add support for USB disks</code>](https://github.com/lxc/incus/commit/a817a398fed5db1d62da2b71bd78f63b30384e9b)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6594b0c17437e7a1cc795fe26edb02301d807e27)
 - [ ] [<code>golangci: Upgrade to version 2</code>](https://github.com/lxc/incus/commit/978a490718c32d42473c8ab9836dc78f1da47097)
+- [ ] [<code>incusd/storage/s3 minio client check enhancement</code>](https://github.com/lxc/incus/commit/6dc4f56186b20e4ccb67249f1d8d41dab84853ab)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>golangci: Disable STI005 error checks</code>](https://github.com/lxc/incus/commit/0bfb80686cd35622d935cdb8fd563d5776510824)
+- [ ] [<code>test: Fix deprecated chown syntax</code>](https://github.com/lxc/incus/commit/c339bbd9aabf650e5dec495c78ccc6bd24d41ff2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: Fix test cleanup</code>](https://github.com/lxc/incus/commit/a7735a7ec6b78c4b3b48937088c22f339e463e89)
+- [ ] [<code>shared/validate: Add string length validator</code>](https://github.com/lxc/incus/commit/e5e6a9ffccc63c1742036e9850c3a7be692819c0)
+- [ ] [<code>shared/validate: Add minimum duration validator</code>](https://github.com/lxc/incus/commit/3609553d1803b38833c38495fa1414e97b03d400)
+- [ ] [<code>incusd/sys: Add Hostname to OS struct</code>](https://github.com/lxc/incus/commit/5e30d91b21d44ab2a8cabb4bdf652479bd1592ed)
+- [ ] [<code>incusd/instance/drivers: Populate StorageMove and StoragePool when migrating lxc instances</code>](https://github.com/lxc/incus/commit/0ca0d3b6fbecb8da4b774d04f983be403211bd60)
+- [ ] [<code>incusd/storage: Populate StorageMove and StoragePool when migrating volumes</code>](https://github.com/lxc/incus/commit/990db8ff97de0c33346c6cbc6f993c32a6111e5a)
+- [ ] [<code>incusd/storage: Add more parameters to MigrationTypes</code>](https://github.com/lxc/incus/commit/45ef3b4ce9f3ea09c0c7928c63de2bf1430bf76b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3267,6 +3291,7 @@
 - [ ] [<code>Ignore gain maps not marked as preferred alternative. (#2682)</code>](https://github.com/AOMediaCodec/libavif/commit/564ee1f893b26573229b40ec3edbef01fd561085)
 - [ ] [<code>codec_aom: rm g_limit check when disabling loop resto (#2702)</code>](https://github.com/AOMediaCodec/libavif/commit/dec3964e006c62481ca8f690ccb8afd202a79cfc)
 - [ ] [<code>Move a changelog item from 1.2.1 to Unreleased (#2705)</code>](https://github.com/AOMediaCodec/libavif/commit/6c6d21e64905eb81765291b425b806501c13cabe)
+- [ ] [<code>Assume any id is present in only one altr group as per spec. (#2706)</code>](https://github.com/AOMediaCodec/libavif/commit/d5c8bcf2353fd9de77ec4bce760b760328fee0f4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5294,6 +5319,12 @@
 - [ ] [<code>status file 22b (#19957)</code>](https://github.com/netdata/netdata.git/commit/db6ce59b33a1487078b5cf250ad8385ce1467c8e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/0537e46e7ea7e1bff36b8e2e6f082c7f295fdb3e)
 - [ ] [<code>Use UPDATE_DISCONNECTED mode for libbacktrace. (#19958)</code>](https://github.com/netdata/netdata.git/commit/0b9cc4db3377fb28d163e4e297057b9174659611)
+- [ ] [<code>Large-scale cleanup of static build infrastructure. (#19852)</code>](https://github.com/netdata/netdata.git/commit/2db8a882e886941483b72aa7c37b20a6f3ee20cb)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4.6.1 to 4.6.2 (#19949)</code>](https://github.com/netdata/netdata.git/commit/fb61cce6522acac578b9337f1e432902442a2127)
+- [ ] [<code>fix undefined (#19960)</code>](https://github.com/netdata/netdata.git/commit/032c3166e39ab333bf4803af40eb01d3535ec7a9)
+- [ ] [<code>daemon status 22c (#19959)</code>](https://github.com/netdata/netdata.git/commit/9da814480009ad7e5928ceefbfd23c1c36181d6e)
+- [ ] [<code>Don’t skip building Go code on static builds. (#19961)</code>](https://github.com/netdata/netdata.git/commit/afdd3ea0205ed55cd2846bcef1dbfb9939b35944)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
