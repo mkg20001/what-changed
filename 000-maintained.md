@@ -135,6 +135,8 @@
 - [ ] [<code>chore: update issue templates (#332)</code>](https://github.com/canonical/firmware-updater/commit/65c99e2291a15cc6581a765954a5ca854f5566b1)
 - [ ] [<code>Update cla-check to v2</code>](https://github.com/canonical/firmware-updater/commit/43b0ba464920d88eb4cac1e8b17f3e2085fdd766)
 - [ ] [<code>Update cla-check to v2 (#333)</code>](https://github.com/canonical/firmware-updater/commit/4ca9bb1bd4f485d0df31b32a18926992db3ca9a8)
+- [ ] [<code>ci: add osv scanner</code>](https://github.com/canonical/firmware-updater/commit/b6a31fa2b3a723932ebd83d62bdeb6e126909853)
+- [ ] [<code>ci: add osv scanner (#335)</code>](https://github.com/canonical/firmware-updater/commit/dc38a71a7c038e3bea6817b8918b844e32fda43c)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -3264,6 +3266,7 @@
 - [ ] [<code>codec_aom: disable loop restoration w/12-bit input (#2701)</code>](https://github.com/AOMediaCodec/libavif/commit/6b2a1859b9f69c514948e7d22238b3163d938ea4)
 - [ ] [<code>Ignore gain maps not marked as preferred alternative. (#2682)</code>](https://github.com/AOMediaCodec/libavif/commit/564ee1f893b26573229b40ec3edbef01fd561085)
 - [ ] [<code>codec_aom: rm g_limit check when disabling loop resto (#2702)</code>](https://github.com/AOMediaCodec/libavif/commit/dec3964e006c62481ca8f690ccb8afd202a79cfc)
+- [ ] [<code>Move a changelog item from 1.2.1 to Unreleased (#2705)</code>](https://github.com/AOMediaCodec/libavif/commit/6c6d21e64905eb81765291b425b806501c13cabe)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5289,6 +5292,8 @@
 - [ ] [<code>fix rrdcalc_unlink_from_rrdset() (#19956)</code>](https://github.com/netdata/netdata.git/commit/e73ccf9a2c22b130305fb8d3289390725e0608c5)
 - [ ] [<code>Improve event loop thread creation (#19951)</code>](https://github.com/netdata/netdata.git/commit/98e77bafd693bf11f43c378b830b3db5d20d312d)
 - [ ] [<code>status file 22b (#19957)</code>](https://github.com/netdata/netdata.git/commit/db6ce59b33a1487078b5cf250ad8385ce1467c8e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/0537e46e7ea7e1bff36b8e2e6f082c7f295fdb3e)
+- [ ] [<code>Use UPDATE_DISCONNECTED mode for libbacktrace. (#19958)</code>](https://github.com/netdata/netdata.git/commit/0b9cc4db3377fb28d163e4e297057b9174659611)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
