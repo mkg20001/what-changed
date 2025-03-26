@@ -556,6 +556,7 @@
 - [ ] [<code>incusd/instance/drivers: Populate StorageMove and StoragePool when migrating lxc instances</code>](https://github.com/lxc/incus/commit/0ca0d3b6fbecb8da4b774d04f983be403211bd60)
 - [ ] [<code>incusd/storage: Populate StorageMove and StoragePool when migrating volumes</code>](https://github.com/lxc/incus/commit/990db8ff97de0c33346c6cbc6f993c32a6111e5a)
 - [ ] [<code>incusd/storage: Add more parameters to MigrationTypes</code>](https://github.com/lxc/incus/commit/45ef3b4ce9f3ea09c0c7928c63de2bf1430bf76b)
+- [ ] [<code>incusd/network/ovn: Remove internal routes to forward/load-balancers</code>](https://github.com/lxc/incus/commit/e5212ce3e3e7baeaed16c4da60db88d11c9775fe)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2941,6 +2942,7 @@
 - [ ] [<code>incusd/instance/drivers: Populate StorageMove and StoragePool when migrating lxc instances</code>](https://github.com/lxc/incus/commit/0ca0d3b6fbecb8da4b774d04f983be403211bd60)
 - [ ] [<code>incusd/storage: Populate StorageMove and StoragePool when migrating volumes</code>](https://github.com/lxc/incus/commit/990db8ff97de0c33346c6cbc6f993c32a6111e5a)
 - [ ] [<code>incusd/storage: Add more parameters to MigrationTypes</code>](https://github.com/lxc/incus/commit/45ef3b4ce9f3ea09c0c7928c63de2bf1430bf76b)
+- [ ] [<code>incusd/network/ovn: Remove internal routes to forward/load-balancers</code>](https://github.com/lxc/incus/commit/e5212ce3e3e7baeaed16c4da60db88d11c9775fe)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
