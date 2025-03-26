@@ -5327,6 +5327,9 @@
 - [ ] [<code>fix undefined (#19960)</code>](https://github.com/netdata/netdata.git/commit/032c3166e39ab333bf4803af40eb01d3535ec7a9)
 - [ ] [<code>daemon status 22c (#19959)</code>](https://github.com/netdata/netdata.git/commit/9da814480009ad7e5928ceefbfd23c1c36181d6e)
 - [ ] [<code>Don’t skip building Go code on static builds. (#19961)</code>](https://github.com/netdata/netdata.git/commit/afdd3ea0205ed55cd2846bcef1dbfb9939b35944)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-50-nightly.</code>](https://github.com/netdata/netdata.git/commit/45a5d2b5d755d6062be16cbc6fbbbb7e98302caa)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.0.2+incompatible to 28.0.4+incompatible in /src/go (#19967)</code>](https://github.com/netdata/netdata.git/commit/747f4e4270eb554bc362e6493e1dcfce6278f722)
+- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.3 to 5.7.4 in /src/go (#19968)</code>](https://github.com/netdata/netdata.git/commit/8c08992920e1f1f3643c7b2ee310f767f4b2e632)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
