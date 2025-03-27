@@ -3401,6 +3401,7 @@
 - [ ] [<code>Assume any id is present in only one altr group as per spec. (#2706)</code>](https://github.com/AOMediaCodec/libavif/commit/d5c8bcf2353fd9de77ec4bce760b760328fee0f4)
 - [ ] [<code>Use cmake --build instead of direct ninja tool (#2665)</code>](https://github.com/AOMediaCodec/libavif/commit/242e7f70c5316a56054d96af76bfeaa4c8f4d920)
 - [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/1e9ef51f32fa23bd7a94d8c01d5205334bc9c52f)
+- [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/0f1618a25c5eba41b6fec947207d0a32ae3cc6c5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5446,6 +5447,8 @@
 - [ ] [<code>Improve ACLK sync shutdown process (#19966)</code>](https://github.com/netdata/netdata.git/commit/ca6e7cd5a02f68058abca17b499292b598888e40)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix random crash during shutdown (#19978)</code>](https://github.com/netdata/netdata.git/commit/1968b7c509070994d35bcc3e8d8a3c5ddac6ebfd)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-60-nightly.</code>](https://github.com/netdata/netdata.git/commit/4f8129e529fa49ca67c5d72ceab1b46bf765f5fc)
+- [ ] [<code>Release memory when calculating metric correlations (#19979)</code>](https://github.com/netdata/netdata.git/commit/e62322fe7ac8ff3139dadd8762a9ccdbd895b5a1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
