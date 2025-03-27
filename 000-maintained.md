@@ -609,6 +609,9 @@
 - [ ] [<code>incusd/storage/linstor: Add linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/da5caa3e4df0af57083f8fdcc2eeb3f7d800b2f2)
 - [ ] [<code>doc: Document linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/1fd03f0b3c99723c47c6c16ee96111c09c955b59)
 - [ ] [<code>test: Add tests for linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/cd8d37261c80cce01a5c285e7f64a3cc11a01ecf)
+- [ ] [<code>doc/support: Update feature release version</code>](https://github.com/lxc/incus/commit/6d817f073407ca49456d808f24c6e82e1947d304)
+- [ ] [<code>incusd/instance: Don't enforce device/config validation on snapshots</code>](https://github.com/lxc/incus/commit/b4399dfc50a5238c9a63434a37205358c16489bf)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/0dba60aa7823d3861b24d7cfbf233cb4f1af73ec)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3047,6 +3050,9 @@
 - [ ] [<code>incusd/storage/linstor: Add linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/da5caa3e4df0af57083f8fdcc2eeb3f7d800b2f2)
 - [ ] [<code>doc: Document linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/1fd03f0b3c99723c47c6c16ee96111c09c955b59)
 - [ ] [<code>test: Add tests for linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/cd8d37261c80cce01a5c285e7f64a3cc11a01ecf)
+- [ ] [<code>doc/support: Update feature release version</code>](https://github.com/lxc/incus/commit/6d817f073407ca49456d808f24c6e82e1947d304)
+- [ ] [<code>incusd/instance: Don't enforce device/config validation on snapshots</code>](https://github.com/lxc/incus/commit/b4399dfc50a5238c9a63434a37205358c16489bf)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/0dba60aa7823d3861b24d7cfbf233cb4f1af73ec)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -5449,6 +5455,17 @@
 - [ ] [<code>Fix random crash during shutdown (#19978)</code>](https://github.com/netdata/netdata.git/commit/1968b7c509070994d35bcc3e8d8a3c5ddac6ebfd)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-60-nightly.</code>](https://github.com/netdata/netdata.git/commit/4f8129e529fa49ca67c5d72ceab1b46bf765f5fc)
 - [ ] [<code>Release memory when calculating metric correlations (#19979)</code>](https://github.com/netdata/netdata.git/commit/e62322fe7ac8ff3139dadd8762a9ccdbd895b5a1)
+- [ ] [<code>Installation section Improvements (#19981)</code>](https://github.com/netdata/netdata.git/commit/50f4686133cd144c5bd061843f5f64a73cfa2e2c)
+- [ ] [<code>Set sqlite max soft and hard heap limit (#19963)</code>](https://github.com/netdata/netdata.git/commit/111fba23590cf4197a578cb5c7203b7173b6356a)
+- [ ] [<code>Revert "fix undefined" (#19982)</code>](https://github.com/netdata/netdata.git/commit/49dd93ef3228a976b6115072456856ea9b203b75)
+- [ ] [<code>improvement(health/dyncfg): add widget to load available contexts (#19904)</code>](https://github.com/netdata/netdata.git/commit/4d34ca6cfbc4b66653e0651ec7fb9fda5342d9b0)
+- [ ] [<code>keep errno in out of memory situations (#19984)</code>](https://github.com/netdata/netdata.git/commit/26e350920cc6bea615b15b0c2d64ad7542b6bff1)
+- [ ] [<code>do not allocate or access zero sized arrays (#19983)</code>](https://github.com/netdata/netdata.git/commit/3e18d2dcd70d2335c9217adea314b483674626e2)
+- [ ] [<code>Improve agent shutdown (#19980)</code>](https://github.com/netdata/netdata.git/commit/9c3ca6e7a3774acce90bf5785b8d54b556fc5bb8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perflib: do not dereference null pointer (#19985)</code>](https://github.com/netdata/netdata.git/commit/6447b838d6830bf9debec004c8345093c232caf9)
+- [ ] [<code>fix MSI installer (#19962)</code>](https://github.com/netdata/netdata.git/commit/e80fdfdc209fccda554fc255d1c01f6a57514b57)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6148,6 +6165,8 @@
 - [ ] [<code>test:generator: wait-online DNS testing</code>](https://github.com/canonical/netplan/commit/b36a68a2b71fc88194eac14f301a24d4d9e8c459)
 - [ ] [<code>tests:ethernets: wait-online DNS testing</code>](https://github.com/canonical/netplan/commit/773ee700597c020d99c7744772e8337accd27905)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>state.h: add missing void for parameterless function prototype</code>](https://github.com/canonical/netplan/commit/e1276be544c45792307e5444370ec47a5b50d4fb)
+- [ ] [<code>parse.h: fix parameterless function prototype</code>](https://github.com/canonical/netplan/commit/d6e8234a04d42f12790bedb803680fccc2883660)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
