@@ -606,6 +606,9 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/038d9c4e535b5840557c36ddef5a5cea39fb6012)
 - [ ] [<code>gomod: Tidy dependencies and add LINSTOR</code>](https://github.com/lxc/incus/commit/1c0fdc0a6ba39ba8026a3c0875d20b6261768791)
 - [ ] [<code>github: Add LINSTOR CI tests</code>](https://github.com/lxc/incus/commit/809c559261bde6da544133e40bf7df80554f2d58)
+- [ ] [<code>incusd/storage/linstor: Add linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/da5caa3e4df0af57083f8fdcc2eeb3f7d800b2f2)
+- [ ] [<code>doc: Document linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/1fd03f0b3c99723c47c6c16ee96111c09c955b59)
+- [ ] [<code>test: Add tests for linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/cd8d37261c80cce01a5c285e7f64a3cc11a01ecf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3041,6 +3044,9 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/038d9c4e535b5840557c36ddef5a5cea39fb6012)
 - [ ] [<code>gomod: Tidy dependencies and add LINSTOR</code>](https://github.com/lxc/incus/commit/1c0fdc0a6ba39ba8026a3c0875d20b6261768791)
 - [ ] [<code>github: Add LINSTOR CI tests</code>](https://github.com/lxc/incus/commit/809c559261bde6da544133e40bf7df80554f2d58)
+- [ ] [<code>incusd/storage/linstor: Add linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/da5caa3e4df0af57083f8fdcc2eeb3f7d800b2f2)
+- [ ] [<code>doc: Document linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/1fd03f0b3c99723c47c6c16ee96111c09c955b59)
+- [ ] [<code>test: Add tests for linstor.remove_snapshots config option</code>](https://github.com/lxc/incus/commit/cd8d37261c80cce01a5c285e7f64a3cc11a01ecf)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3394,6 +3400,7 @@
 - [ ] [<code>Move a changelog item from 1.2.1 to Unreleased (#2705)</code>](https://github.com/AOMediaCodec/libavif/commit/6c6d21e64905eb81765291b425b806501c13cabe)
 - [ ] [<code>Assume any id is present in only one altr group as per spec. (#2706)</code>](https://github.com/AOMediaCodec/libavif/commit/d5c8bcf2353fd9de77ec4bce760b760328fee0f4)
 - [ ] [<code>Use cmake --build instead of direct ninja tool (#2665)</code>](https://github.com/AOMediaCodec/libavif/commit/242e7f70c5316a56054d96af76bfeaa4c8f4d920)
+- [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/1e9ef51f32fa23bd7a94d8c01d5205334bc9c52f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5435,6 +5442,10 @@
 - [ ] [<code>fix crash in variable_lookup_add_result_with_score() (#19972)</code>](https://github.com/netdata/netdata.git/commit/513618bcdaafaedbac0d75ea68dfcf2859949256)
 - [ ] [<code>Doc Linux improved order in kickstart (#19975)</code>](https://github.com/netdata/netdata.git/commit/2d7d34e109dfdf966054f500f8e0c2409c964b60)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>set max datafile size to 1GiB (#19977)</code>](https://github.com/netdata/netdata.git/commit/86c4a23250d2680327d489937487b10c24344ae7)
+- [ ] [<code>Improve ACLK sync shutdown process (#19966)</code>](https://github.com/netdata/netdata.git/commit/ca6e7cd5a02f68058abca17b499292b598888e40)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix random crash during shutdown (#19978)</code>](https://github.com/netdata/netdata.git/commit/1968b7c509070994d35bcc3e8d8a3c5ddac6ebfd)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
