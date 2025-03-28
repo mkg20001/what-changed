@@ -72,6 +72,8 @@
 - [ ] [<code>lint: Run codespell automatically</code>](https://github.com/lxc/distrobuilder/commit/7ba4ca6a79515d5b254e38f64f896d5c15069223)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>lxc.generator Fixed typo in comments</code>](https://github.com/lxc/distrobuilder/commit/eacf8b58386272352a49c6d235c42e2db18d41c2)
+- [ ] [<code>doc: Document runtime deps for building VM images</code>](https://github.com/lxc/distrobuilder/commit/8371344bd483dc47cb6c29b0231c02be1394fdcb)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -619,6 +621,16 @@
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/6b79d07bd812eba5a774b4a0093add67b259efa3)
 - [ ] [<code>Release Incus 6.11</code>](https://github.com/lxc/incus/commit/9371a0c7be30c075f2a86396288d2db1ecbf7076)
   - <sub>Tags: <code>v6.11.0</code></sub>
+- [ ] [<code>doc: Fix missing OCI section</code>](https://github.com/lxc/incus/commit/e7f29433b891791a45f6737c0603687ca1ca9282)
+- [ ] [<code>internal/instance: Tweak wording</code>](https://github.com/lxc/incus/commit/3d3c356940ad3b7edb341624074eb3a8344d0dac)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/cadb2018b67eb96d488b7189628244609572c2d4)
+- [ ] [<code>incus/utils: Added support for server-side filtering by instance name</code>](https://github.com/lxc/incus/commit/00b38f6d78f0d4dd29de2a4999ca1d0660d654b6)
+- [ ] [<code>incus/list: Added support for server-side filtering by instance name</code>](https://github.com/lxc/incus/commit/5d40ada17a0fa7811bf0bde0fbccd8cb1de442fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/image: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/17022ddbca5493d6de498a51cecf4cb6d3d4ab2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/b343ab985436ab01f6c7de3b80ccebcd0f5be981)
+- [ ] [<code>doc: Fix config option reference on LINSTOR driver</code>](https://github.com/lxc/incus/commit/362844821b400c80bdab2299397e3d582370a98c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3067,6 +3079,16 @@
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/6b79d07bd812eba5a774b4a0093add67b259efa3)
 - [ ] [<code>Release Incus 6.11</code>](https://github.com/lxc/incus/commit/9371a0c7be30c075f2a86396288d2db1ecbf7076)
   - <sub>Tags: <code>v6.11.0</code></sub>
+- [ ] [<code>doc: Fix missing OCI section</code>](https://github.com/lxc/incus/commit/e7f29433b891791a45f6737c0603687ca1ca9282)
+- [ ] [<code>internal/instance: Tweak wording</code>](https://github.com/lxc/incus/commit/3d3c356940ad3b7edb341624074eb3a8344d0dac)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/cadb2018b67eb96d488b7189628244609572c2d4)
+- [ ] [<code>incus/utils: Added support for server-side filtering by instance name</code>](https://github.com/lxc/incus/commit/00b38f6d78f0d4dd29de2a4999ca1d0660d654b6)
+- [ ] [<code>incus/list: Added support for server-side filtering by instance name</code>](https://github.com/lxc/incus/commit/5d40ada17a0fa7811bf0bde0fbccd8cb1de442fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/image: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/17022ddbca5493d6de498a51cecf4cb6d3d4ab2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/b343ab985436ab01f6c7de3b80ccebcd0f5be981)
+- [ ] [<code>doc: Fix config option reference on LINSTOR driver</code>](https://github.com/lxc/incus/commit/362844821b400c80bdab2299397e3d582370a98c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3425,6 +3447,7 @@
 - [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/1e9ef51f32fa23bd7a94d8c01d5205334bc9c52f)
 - [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/0f1618a25c5eba41b6fec947207d0a32ae3cc6c5)
 - [ ] [<code>avifpng.c: support ImageMagick app1 exif text data (#2700)</code>](https://github.com/AOMediaCodec/libavif/commit/98cd3817d56d24299a99a6fae7a5c1b633bc002d)
+- [ ] [<code>read: Fix some return values</code>](https://github.com/AOMediaCodec/libavif/commit/5572e9c915ee6f02da36379a9e34ab8649740742)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5486,6 +5509,12 @@
 - [ ] [<code>IIS Application Pool (Windows.plugin) (#19950)</code>](https://github.com/netdata/netdata.git/commit/e1f33c0a7a37f4cd44ad9a598c7db252799cd5d4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-72-nightly.</code>](https://github.com/netdata/netdata.git/commit/91372be983bbc5c2a99bde64e4db9d7d124e471d)
 - [ ] [<code>Regenerate integrations docs (#19986)</code>](https://github.com/netdata/netdata.git/commit/2b4a89516adb9554614afbf7aae8eaf85d8a8242)
+- [ ] [<code>Installation + docker, improvements (#19987)</code>](https://github.com/netdata/netdata.git/commit/532450d1629e76f01cd280721f27729b18e7b951)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ebpf.plugin: rework memory (#19844)</code>](https://github.com/netdata/netdata.git/commit/12e830a51d0a4863c23b05de2f81f5d3e0b36ed8)
+- [ ] [<code>Regenerate integrations docs (#19988)</code>](https://github.com/netdata/netdata.git/commit/dd7ad2b8d90d47698c034c22e4729df2cf5eb4d8)
+- [ ] [<code>Fast restart on busy parents (#19964)</code>](https://github.com/netdata/netdata.git/commit/3d0c2b9f410564d43b7db3580c5d49417ac0e46b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
