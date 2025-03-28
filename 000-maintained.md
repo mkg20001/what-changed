@@ -612,6 +612,11 @@
 - [ ] [<code>doc/support: Update feature release version</code>](https://github.com/lxc/incus/commit/6d817f073407ca49456d808f24c6e82e1947d304)
 - [ ] [<code>incusd/instance: Don't enforce device/config validation on snapshots</code>](https://github.com/lxc/incus/commit/b4399dfc50a5238c9a63434a37205358c16489bf)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/0dba60aa7823d3861b24d7cfbf233cb4f1af73ec)
+- [ ] [<code>api: instance_oci_entrypoint</code>](https://github.com/lxc/incus/commit/81b81db0762a2bb50aac5cbf0430c2b610aac270)
+- [ ] [<code>internal/instance: Add OCI entrypoint configuration</code>](https://github.com/lxc/incus/commit/cbb96aef7dedbd0c9312a877e30a00922d7fcb3f)
+- [ ] [<code>incusd/instance/lxc: Add OCI entrypoint configuration</code>](https://github.com/lxc/incus/commit/1347f9099da2e55dd944ab29aaca6ec99dbc7daa)
+- [ ] [<code>incusd/instance: Set instance OCI config from OCI data</code>](https://github.com/lxc/incus/commit/a9305d2db8999095e8a5c3dd22ee2f4389ff03d2)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/6b79d07bd812eba5a774b4a0093add67b259efa3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3053,6 +3058,11 @@
 - [ ] [<code>doc/support: Update feature release version</code>](https://github.com/lxc/incus/commit/6d817f073407ca49456d808f24c6e82e1947d304)
 - [ ] [<code>incusd/instance: Don't enforce device/config validation on snapshots</code>](https://github.com/lxc/incus/commit/b4399dfc50a5238c9a63434a37205358c16489bf)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/0dba60aa7823d3861b24d7cfbf233cb4f1af73ec)
+- [ ] [<code>api: instance_oci_entrypoint</code>](https://github.com/lxc/incus/commit/81b81db0762a2bb50aac5cbf0430c2b610aac270)
+- [ ] [<code>internal/instance: Add OCI entrypoint configuration</code>](https://github.com/lxc/incus/commit/cbb96aef7dedbd0c9312a877e30a00922d7fcb3f)
+- [ ] [<code>incusd/instance/lxc: Add OCI entrypoint configuration</code>](https://github.com/lxc/incus/commit/1347f9099da2e55dd944ab29aaca6ec99dbc7daa)
+- [ ] [<code>incusd/instance: Set instance OCI config from OCI data</code>](https://github.com/lxc/incus/commit/a9305d2db8999095e8a5c3dd22ee2f4389ff03d2)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/6b79d07bd812eba5a774b4a0093add67b259efa3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3408,6 +3418,7 @@
 - [ ] [<code>Use cmake --build instead of direct ninja tool (#2665)</code>](https://github.com/AOMediaCodec/libavif/commit/242e7f70c5316a56054d96af76bfeaa4c8f4d920)
 - [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/1e9ef51f32fa23bd7a94d8c01d5205334bc9c52f)
 - [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/0f1618a25c5eba41b6fec947207d0a32ae3cc6c5)
+- [ ] [<code>avifpng.c: support ImageMagick app1 exif text data (#2700)</code>](https://github.com/AOMediaCodec/libavif/commit/98cd3817d56d24299a99a6fae7a5c1b633bc002d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5466,6 +5477,7 @@
 - [ ] [<code>perflib: do not dereference null pointer (#19985)</code>](https://github.com/netdata/netdata.git/commit/6447b838d6830bf9debec004c8345093c232caf9)
 - [ ] [<code>fix MSI installer (#19962)</code>](https://github.com/netdata/netdata.git/commit/e80fdfdc209fccda554fc255d1c01f6a57514b57)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>IIS Application Pool (Windows.plugin) (#19950)</code>](https://github.com/netdata/netdata.git/commit/e1f33c0a7a37f4cd44ad9a598c7db252799cd5d4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
