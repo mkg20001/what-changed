@@ -617,6 +617,8 @@
 - [ ] [<code>incusd/instance/lxc: Add OCI entrypoint configuration</code>](https://github.com/lxc/incus/commit/1347f9099da2e55dd944ab29aaca6ec99dbc7daa)
 - [ ] [<code>incusd/instance: Set instance OCI config from OCI data</code>](https://github.com/lxc/incus/commit/a9305d2db8999095e8a5c3dd22ee2f4389ff03d2)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/6b79d07bd812eba5a774b4a0093add67b259efa3)
+- [ ] [<code>Release Incus 6.11</code>](https://github.com/lxc/incus/commit/9371a0c7be30c075f2a86396288d2db1ecbf7076)
+  - <sub>Tags: <code>v6.11.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3063,6 +3065,8 @@
 - [ ] [<code>incusd/instance/lxc: Add OCI entrypoint configuration</code>](https://github.com/lxc/incus/commit/1347f9099da2e55dd944ab29aaca6ec99dbc7daa)
 - [ ] [<code>incusd/instance: Set instance OCI config from OCI data</code>](https://github.com/lxc/incus/commit/a9305d2db8999095e8a5c3dd22ee2f4389ff03d2)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/6b79d07bd812eba5a774b4a0093add67b259efa3)
+- [ ] [<code>Release Incus 6.11</code>](https://github.com/lxc/incus/commit/9371a0c7be30c075f2a86396288d2db1ecbf7076)
+  - <sub>Tags: <code>v6.11.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
 
@@ -3070,6 +3074,8 @@
 - [ ] [<code>Improved instance filtering</code>](https://github.com/zabbly/incus-ui-canonical/commit/6114141cc6d7f7caffc6e8c00acad9e4848bda06)
 - [ ] [<code>ui: Added support for OCI instances creation</code>](https://github.com/zabbly/incus-ui-canonical/commit/3549f179e06bb562b8b55d5a14d650150aecd077)
 - [ ] [<code>Add support for target selection when creating or moving custom storage volumes</code>](https://github.com/zabbly/incus-ui-canonical/commit/c97531e9f61d488a5a21a502ee5809b0c202b709)
+- [ ] [<code>Merge pull request #51 from presztak/custom_volume_target</code>](https://github.com/zabbly/incus-ui-canonical/commit/1cc3d67a77eb3ba2909214850e597f8df54e7cac)
+  - <sub>Tags: <code>incus-0.15.1</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5478,6 +5484,8 @@
 - [ ] [<code>fix MSI installer (#19962)</code>](https://github.com/netdata/netdata.git/commit/e80fdfdc209fccda554fc255d1c01f6a57514b57)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>IIS Application Pool (Windows.plugin) (#19950)</code>](https://github.com/netdata/netdata.git/commit/e1f33c0a7a37f4cd44ad9a598c7db252799cd5d4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-72-nightly.</code>](https://github.com/netdata/netdata.git/commit/91372be983bbc5c2a99bde64e4db9d7d124e471d)
+- [ ] [<code>Regenerate integrations docs (#19986)</code>](https://github.com/netdata/netdata.git/commit/2b4a89516adb9554614afbf7aae8eaf85d8a8242)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
