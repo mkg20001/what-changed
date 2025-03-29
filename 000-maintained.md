@@ -634,6 +634,31 @@
 - [ ] [<code>tests: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/b343ab985436ab01f6c7de3b80ccebcd0f5be981)
 - [ ] [<code>doc: Fix config option reference on LINSTOR driver</code>](https://github.com/lxc/incus/commit/362844821b400c80bdab2299397e3d582370a98c)
 - [ ] [<code>incusd/instance/lxc: Fix max gid when in a privileged container</code>](https://github.com/lxc/incus/commit/8ceb6f89d74028a05bca3f1e2d2a9b0ffde65a91)
+- [ ] [<code>incus: Replace interface{} by any</code>](https://github.com/lxc/incus/commit/d2d396f7d3c18431c95ac331ad58f68b2cfdaeaa)
+- [ ] [<code>internal/server/ip: Replace interface{} by any</code>](https://github.com/lxc/incus/commit/03272d397a7ff0096c250998f7bdc329f5c52c97)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/logger: Replace interface{} by any</code>](https://github.com/lxc/incus/commit/3fdd1d2ca0d0bc3eeb97a372b40edd704ddcc848)
+- [ ] [<code>client: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/6f07fd5689730b125cf87c2c8db6d917fb6ee14c)
+- [ ] [<code>lxd-to-incus: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/2e968a650a7f8270aa1fa11b7e15982f9ca831cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/43e7b7493a5442bf75e699792c18d26033e62bd2)
+- [ ] [<code>incusd/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/5f5e83379c23a51f1173c662d4e2ac8204b927e6)
+- [ ] [<code>incus: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/7ab5d2eefa744c058b868afdd418c34a9c7c3e13)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/linux: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/43232d27c7d413d7fe1f4ac0440d30c76ac90e81)
+- [ ] [<code>incusd/apparmor: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/f377ce51c2e03da6971d6cbbbc7a742213d84e72)
+- [ ] [<code>incusd/auth: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/e84e49ff6dfbc6ee19d75aee831e0bd651047e71)
+- [ ] [<code>incusd/db/cluster: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/197aaa3b3a85920461d4363c816cc7df1f7c499a)
+- [ ] [<code>incusd/db: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/a5e30e1d2a0882d1d831b1294cc30e341af912ee)
+- [ ] [<code>incusd/device: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/bc05107e1127f9053a37a6ef21eb3bebeb19336f)
+- [ ] [<code>incusd/instance: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/aa6f7433e6f2192f1dbb3c9bda4f66841f729252)
+- [ ] [<code>incusd/ip: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/0e7a3589705db82d7122d60ea9de4372a98b6bf3)
+- [ ] [<code>incusd/network: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/ca6e014435ae345bbb0a13efe79a84e79fc4247f)
+- [ ] [<code>incusd/storage: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/ebc97f51b9333eab591020b2da3d546f2daa9713)
+- [ ] [<code>incus/utils: Check type assertion</code>](https://github.com/lxc/incus/commit/99d733dcb979538dad14ae68b17b7e3b03a5676f)
+- [ ] [<code>incusd/instance: Remove needless embedded fields</code>](https://github.com/lxc/incus/commit/73be9223bf4d9a2ef9cdb6d49fb5fec081990360)
+- [ ] [<code>incusd/storage/s3: Simplify variable declaration</code>](https://github.com/lxc/incus/commit/471d0cf6e44a7f29e81c0eae50a404ae280cc81f)
+- [ ] [<code>README: Fix typo</code>](https://github.com/lxc/incus/commit/5718d7840edd0b5471d72e45ddfe0d0265c5e2e4)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3093,6 +3118,31 @@
 - [ ] [<code>tests: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/b343ab985436ab01f6c7de3b80ccebcd0f5be981)
 - [ ] [<code>doc: Fix config option reference on LINSTOR driver</code>](https://github.com/lxc/incus/commit/362844821b400c80bdab2299397e3d582370a98c)
 - [ ] [<code>incusd/instance/lxc: Fix max gid when in a privileged container</code>](https://github.com/lxc/incus/commit/8ceb6f89d74028a05bca3f1e2d2a9b0ffde65a91)
+- [ ] [<code>incus: Replace interface{} by any</code>](https://github.com/lxc/incus/commit/d2d396f7d3c18431c95ac331ad58f68b2cfdaeaa)
+- [ ] [<code>internal/server/ip: Replace interface{} by any</code>](https://github.com/lxc/incus/commit/03272d397a7ff0096c250998f7bdc329f5c52c97)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/logger: Replace interface{} by any</code>](https://github.com/lxc/incus/commit/3fdd1d2ca0d0bc3eeb97a372b40edd704ddcc848)
+- [ ] [<code>client: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/6f07fd5689730b125cf87c2c8db6d917fb6ee14c)
+- [ ] [<code>lxd-to-incus: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/2e968a650a7f8270aa1fa11b7e15982f9ca831cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/43e7b7493a5442bf75e699792c18d26033e62bd2)
+- [ ] [<code>incusd/db/cluster: Update generated code</code>](https://github.com/lxc/incus/commit/5f5e83379c23a51f1173c662d4e2ac8204b927e6)
+- [ ] [<code>incus: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/7ab5d2eefa744c058b868afdd418c34a9c7c3e13)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/linux: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/43232d27c7d413d7fe1f4ac0440d30c76ac90e81)
+- [ ] [<code>incusd/apparmor: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/f377ce51c2e03da6971d6cbbbc7a742213d84e72)
+- [ ] [<code>incusd/auth: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/e84e49ff6dfbc6ee19d75aee831e0bd651047e71)
+- [ ] [<code>incusd/db/cluster: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/197aaa3b3a85920461d4363c816cc7df1f7c499a)
+- [ ] [<code>incusd/db: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/a5e30e1d2a0882d1d831b1294cc30e341af912ee)
+- [ ] [<code>incusd/device: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/bc05107e1127f9053a37a6ef21eb3bebeb19336f)
+- [ ] [<code>incusd/instance: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/aa6f7433e6f2192f1dbb3c9bda4f66841f729252)
+- [ ] [<code>incusd/ip: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/0e7a3589705db82d7122d60ea9de4372a98b6bf3)
+- [ ] [<code>incusd/network: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/ca6e014435ae345bbb0a13efe79a84e79fc4247f)
+- [ ] [<code>incusd/storage: Use strings.ReplaceAll</code>](https://github.com/lxc/incus/commit/ebc97f51b9333eab591020b2da3d546f2daa9713)
+- [ ] [<code>incus/utils: Check type assertion</code>](https://github.com/lxc/incus/commit/99d733dcb979538dad14ae68b17b7e3b03a5676f)
+- [ ] [<code>incusd/instance: Remove needless embedded fields</code>](https://github.com/lxc/incus/commit/73be9223bf4d9a2ef9cdb6d49fb5fec081990360)
+- [ ] [<code>incusd/storage/s3: Simplify variable declaration</code>](https://github.com/lxc/incus/commit/471d0cf6e44a7f29e81c0eae50a404ae280cc81f)
+- [ ] [<code>README: Fix typo</code>](https://github.com/lxc/incus/commit/5718d7840edd0b5471d72e45ddfe0d0265c5e2e4)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3447,6 +3497,8 @@
 - [ ] [<code>avifpng.c: support ImageMagick app1 exif text data (#2700)</code>](https://github.com/AOMediaCodec/libavif/commit/98cd3817d56d24299a99a6fae7a5c1b633bc002d)
 - [ ] [<code>read: Fix some return values</code>](https://github.com/AOMediaCodec/libavif/commit/5572e9c915ee6f02da36379a9e34ab8649740742)
 - [ ] [<code>avifjpeg.c: check for uint32_t overflow before add</code>](https://github.com/AOMediaCodec/libavif/commit/04fe10b4293cdec9dc4f73266c666c3cd186d8ea)
+- [ ] [<code>fix spelling</code>](https://github.com/AOMediaCodec/libavif/commit/46813fe1c7238e6365591f67de52810835fd1ff9)
+- [ ] [<code>avifrgbtoyuvtest: Do not compute diff_sum</code>](https://github.com/AOMediaCodec/libavif/commit/e3604a7f4cd088b5694757d45bb9783d429c7428)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5514,6 +5566,7 @@
 - [ ] [<code>Regenerate integrations docs (#19988)</code>](https://github.com/netdata/netdata.git/commit/dd7ad2b8d90d47698c034c22e4729df2cf5eb4d8)
 - [ ] [<code>Fast restart on busy parents (#19964)</code>](https://github.com/netdata/netdata.git/commit/3d0c2b9f410564d43b7db3580c5d49417ac0e46b)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-78-nightly.</code>](https://github.com/netdata/netdata.git/commit/8ef9484453d8a2c91e39d2c70dc914c70fcf3229)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
