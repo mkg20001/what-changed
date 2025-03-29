@@ -193,6 +193,8 @@
 - [ ] [<code>build: Update gorouter package</code>](https://github.com/krille-chan/fluffychat/commit/0fb0525bffb236d28e9f27f20e7c53985d6a8ee5)
 - [ ] [<code>build: Update to flutter 3.29.2</code>](https://github.com/krille-chan/fluffychat/commit/e93fdebe2017f6c6491ceb93d57c71148d1b4f0d)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: Migrate more config options to config viewer</code>](https://github.com/krille-chan/fluffychat/commit/5a96438ceb0f72c21c3205488f611c33b6bbfbb0)
+- [ ] [<code>refactor: Reuse unused kotlin imports</code>](https://github.com/krille-chan/fluffychat/commit/7ef6e8bbfc96c1e9863887f267ad72f227911e7c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -244,6 +246,8 @@
 - [ ] [<code>build: Update gorouter package</code>](https://github.com/krille-chan/fluffychat/commit/0fb0525bffb236d28e9f27f20e7c53985d6a8ee5)
 - [ ] [<code>build: Update to flutter 3.29.2</code>](https://github.com/krille-chan/fluffychat/commit/e93fdebe2017f6c6491ceb93d57c71148d1b4f0d)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: Migrate more config options to config viewer</code>](https://github.com/krille-chan/fluffychat/commit/5a96438ceb0f72c21c3205488f611c33b6bbfbb0)
+- [ ] [<code>refactor: Reuse unused kotlin imports</code>](https://github.com/krille-chan/fluffychat/commit/7ef6e8bbfc96c1e9863887f267ad72f227911e7c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5567,6 +5571,10 @@
 - [ ] [<code>Fast restart on busy parents (#19964)</code>](https://github.com/netdata/netdata.git/commit/3d0c2b9f410564d43b7db3580c5d49417ac0e46b)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-78-nightly.</code>](https://github.com/netdata/netdata.git/commit/8ef9484453d8a2c91e39d2c70dc914c70fcf3229)
+- [ ] [<code>Update synology.md (#19989)</code>](https://github.com/netdata/netdata.git/commit/2194455aef7c8fa07c8f86587f142085908317f5)
+- [ ] [<code>added worker last job id to status file (#19992)</code>](https://github.com/netdata/netdata.git/commit/bf6753d86b1bf15fd30af51327affc0554e6c624)
+- [ ] [<code>docs: improve Synology NAS installation documentation clarity (#19993)</code>](https://github.com/netdata/netdata.git/commit/5dfdda6ccacc7f2fcb343ef7933002ff10ec2be3)
+- [ ] [<code>add kanelatechnical to CODEOWNERS (#19994)</code>](https://github.com/netdata/netdata.git/commit/b775fa568a24421eeb1be891a13e963c0212e087)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
