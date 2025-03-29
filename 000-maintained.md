@@ -250,6 +250,8 @@
 
 > Dropped flutter326 - no appropriate URL found OrderedDict({'attr_path': 'flutter326', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
+> Dropped flutter327 - no appropriate URL found OrderedDict({'attr_path': 'flutter327', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -631,6 +633,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>tests: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/b343ab985436ab01f6c7de3b80ccebcd0f5be981)
 - [ ] [<code>doc: Fix config option reference on LINSTOR driver</code>](https://github.com/lxc/incus/commit/362844821b400c80bdab2299397e3d582370a98c)
+- [ ] [<code>incusd/instance/lxc: Fix max gid when in a privileged container</code>](https://github.com/lxc/incus/commit/8ceb6f89d74028a05bca3f1e2d2a9b0ffde65a91)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3089,15 +3092,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>tests: Adjustments made after modifying getServerSupportedFilters</code>](https://github.com/lxc/incus/commit/b343ab985436ab01f6c7de3b80ccebcd0f5be981)
 - [ ] [<code>doc: Fix config option reference on LINSTOR driver</code>](https://github.com/lxc/incus/commit/362844821b400c80bdab2299397e3d582370a98c)
+- [ ] [<code>incusd/instance/lxc: Fix max gid when in a privileged container</code>](https://github.com/lxc/incus/commit/8ceb6f89d74028a05bca3f1e2d2a9b0ffde65a91)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.0...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
-- [ ] [<code>Fix the typo in the ACL rule state name</code>](https://github.com/zabbly/incus-ui-canonical/commit/767ae9b2ad675138269c9af91ef8e7a43f154f95)
-- [ ] [<code>Improved instance filtering</code>](https://github.com/zabbly/incus-ui-canonical/commit/6114141cc6d7f7caffc6e8c00acad9e4848bda06)
-- [ ] [<code>ui: Added support for OCI instances creation</code>](https://github.com/zabbly/incus-ui-canonical/commit/3549f179e06bb562b8b55d5a14d650150aecd077)
-- [ ] [<code>Add support for target selection when creating or moving custom storage volumes</code>](https://github.com/zabbly/incus-ui-canonical/commit/c97531e9f61d488a5a21a502ee5809b0c202b709)
-- [ ] [<code>Merge pull request #51 from presztak/custom_volume_target</code>](https://github.com/zabbly/incus-ui-canonical/commit/1cc3d67a77eb3ba2909214850e597f8df54e7cac)
-  - <sub>Tags: <code>incus-0.15.1</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3448,6 +3446,7 @@
 - [ ] [<code>avifrgbtoyuvtest: increase max_abs_average_diff</code>](https://github.com/AOMediaCodec/libavif/commit/0f1618a25c5eba41b6fec947207d0a32ae3cc6c5)
 - [ ] [<code>avifpng.c: support ImageMagick app1 exif text data (#2700)</code>](https://github.com/AOMediaCodec/libavif/commit/98cd3817d56d24299a99a6fae7a5c1b633bc002d)
 - [ ] [<code>read: Fix some return values</code>](https://github.com/AOMediaCodec/libavif/commit/5572e9c915ee6f02da36379a9e34ab8649740742)
+- [ ] [<code>avifjpeg.c: check for uint32_t overflow before add</code>](https://github.com/AOMediaCodec/libavif/commit/04fe10b4293cdec9dc4f73266c666c3cd186d8ea)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
