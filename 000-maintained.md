@@ -5575,6 +5575,8 @@
 - [ ] [<code>added worker last job id to status file (#19992)</code>](https://github.com/netdata/netdata.git/commit/bf6753d86b1bf15fd30af51327affc0554e6c624)
 - [ ] [<code>docs: improve Synology NAS installation documentation clarity (#19993)</code>](https://github.com/netdata/netdata.git/commit/5dfdda6ccacc7f2fcb343ef7933002ff10ec2be3)
 - [ ] [<code>add kanelatechnical to CODEOWNERS (#19994)</code>](https://github.com/netdata/netdata.git/commit/b775fa568a24421eeb1be891a13e963c0212e087)
+- [ ] [<code>Improve shutdown and datafile rotation (#19991)</code>](https://github.com/netdata/netdata.git/commit/3ecdec6751fd6660f7fd8bef15bdf417debd0e24)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
