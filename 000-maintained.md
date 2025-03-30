@@ -5590,6 +5590,9 @@
 - [ ] [<code>Improve shutdown and datafile rotation (#19991)</code>](https://github.com/netdata/netdata.git/commit/3ecdec6751fd6660f7fd8bef15bdf417debd0e24)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/3968faefe81a2c622c6381016f537b4677d9f7c2)
+- [ ] [<code>status file 24 (#19996)</code>](https://github.com/netdata/netdata.git/commit/39339bf572bf1853c2cc965318b69ddf90862857)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>detect more CI (#19999)</code>](https://github.com/netdata/netdata.git/commit/60a9495f65600cafafece05ee1903a12702cf510)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
