@@ -326,6 +326,7 @@
 - [ ] [<code>doc/devices/disk: Fix restriction on `path` option</code>](https://github.com/lxc/incus/commit/7443e1f91326f59df652233e748bb4a6293b47fc)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/f2562c63054a50fe73c157fdb26fe89c43f4b2ea)
 - [ ] [<code>doc: Tweak ACME documentation</code>](https://github.com/lxc/incus/commit/5881ecc89f96ddaf024d8dfc7092e1f0ab49ba42)
+- [ ] [<code>incusd/instances/qemu: Handle deprecation of runas</code>](https://github.com/lxc/incus/commit/8dc3e34146834a683a5da6ba9279b8a76ca36d26)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2815,6 +2816,7 @@
 - [ ] [<code>doc/devices/disk: Fix restriction on `path` option</code>](https://github.com/lxc/incus/commit/7443e1f91326f59df652233e748bb4a6293b47fc)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/f2562c63054a50fe73c157fdb26fe89c43f4b2ea)
 - [ ] [<code>doc: Tweak ACME documentation</code>](https://github.com/lxc/incus/commit/5881ecc89f96ddaf024d8dfc7092e1f0ab49ba42)
+- [ ] [<code>incusd/instances/qemu: Handle deprecation of runas</code>](https://github.com/lxc/incus/commit/8dc3e34146834a683a5da6ba9279b8a76ca36d26)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3171,6 +3173,7 @@
 - [ ] [<code>avifjpeg.c: check for uint32_t overflow before add</code>](https://github.com/AOMediaCodec/libavif/commit/04fe10b4293cdec9dc4f73266c666c3cd186d8ea)
 - [ ] [<code>fix spelling</code>](https://github.com/AOMediaCodec/libavif/commit/46813fe1c7238e6365591f67de52810835fd1ff9)
 - [ ] [<code>avifrgbtoyuvtest: Do not compute diff_sum</code>](https://github.com/AOMediaCodec/libavif/commit/e3604a7f4cd088b5694757d45bb9783d429c7428)
+- [ ] [<code>codec_avm.c: Removed unneeded code for options</code>](https://github.com/AOMediaCodec/libavif/commit/0c011861fb8edcd6b0d894bdce6d2929ac5befa3)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5254,6 +5257,18 @@
 - [ ] [<code>use v4 UUIDs (#20002)</code>](https://github.com/netdata/netdata.git/commit/be9ac7cac95fcbcf6fb17eb880eda53fb89cda3a)
 - [ ] [<code>Deployment Guides Improved (#20004)</code>](https://github.com/netdata/netdata.git/commit/aeeead5de0ac8eb8a188cfe5cabe4dacd74b548c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(go.d/megacli): handle BBU hardware component is not present (#20008)</code>](https://github.com/netdata/netdata.git/commit/fd97fd9c050a6e7d1d564941a2b8728565108e5f)
+- [ ] [<code>Fix crashes No 3 (#20007)</code>](https://github.com/netdata/netdata.git/commit/fe8d713e74cae9d4c8be43254fb7f13d19a35d05)
+- [ ] [<code>daemon status 24c (#20003)</code>](https://github.com/netdata/netdata.git/commit/52afab175197dcf959ac8fc6d055231e24d45948)
+- [ ] [<code>Update synology.md (#20010)</code>](https://github.com/netdata/netdata.git/commit/4e9a9891ba37c3d7e3769e3dfb8a1c09f3cf763c)
+- [ ] [<code>added agent-events backend (#20012)</code>](https://github.com/netdata/netdata.git/commit/c1277e9689035293312b53f9789832b41e253f25)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>agent-events: add deduplicating web server (#20014)</code>](https://github.com/netdata/netdata.git/commit/e032ee04e7cc594e992fa5f3e9e3fce56a899542)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Minor changes when handling systemd integration. (#20006)</code>](https://github.com/netdata/netdata.git/commit/66580aed1079f30b93aaf8ea9c8dc8ba2051e0ee)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>daemon status 24d (#20011)</code>](https://github.com/netdata/netdata.git/commit/619dda24cba36345dc60fda5d6479bcfacef9e8f)
+- [ ] [<code>Validate journal file headers to prevent invalid memory access (#20013)</code>](https://github.com/netdata/netdata.git/commit/72e26d423bc93082c154b1c282a981ef7fa77584)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
