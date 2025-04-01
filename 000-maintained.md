@@ -327,6 +327,20 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/f2562c63054a50fe73c157fdb26fe89c43f4b2ea)
 - [ ] [<code>doc: Tweak ACME documentation</code>](https://github.com/lxc/incus/commit/5881ecc89f96ddaf024d8dfc7092e1f0ab49ba42)
 - [ ] [<code>incusd/instances/qemu: Handle deprecation of runas</code>](https://github.com/lxc/incus/commit/8dc3e34146834a683a5da6ba9279b8a76ca36d26)
+- [ ] [<code>incusd/main_forknet: Handle missing DNS in DHCP response</code>](https://github.com/lxc/incus/commit/ef4063ef20d63a2b3151e6a29ef5b0a6a0755f9b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/lxc: Pass limited environment to forkstart</code>](https://github.com/lxc/incus/commit/8a2c9c634609a363dae8166219b21f12d76873b4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/lxc: Don't reset resolv.conf</code>](https://github.com/lxc/incus/commit/60b77072230a38816f64ac639e6e32625a84ffed)
+- [ ] [<code>incusd/main_forknet: Use Fprintf</code>](https://github.com/lxc/incus/commit/fe0908558ebbd898f326618e4e0bc599453c664f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/list: Support server-side filtering</code>](https://github.com/lxc/incus/commit/301aa603b586f03c2352fb4a6dd15856d0bff479)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/image: Support server-side filtering</code>](https://github.com/lxc/incus/commit/fe13a8b3021e4492e88a783790667b6cc9b0eb0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/utils: Support server-side filtering</code>](https://github.com/lxc/incus/commit/a798a60a1c222ef7729b237179adc855d1d1989b)
+- [ ] [<code>internal/filter: Support server-side filtering</code>](https://github.com/lxc/incus/commit/127f2bc96ed4418089139bc688ae21d4169403c8)
+- [ ] [<code>tests: Added/Fixed tests for server-side filtering</code>](https://github.com/lxc/incus/commit/2ba25208754e7af7156334ef8062aeda7ad3078f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2817,6 +2831,20 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/f2562c63054a50fe73c157fdb26fe89c43f4b2ea)
 - [ ] [<code>doc: Tweak ACME documentation</code>](https://github.com/lxc/incus/commit/5881ecc89f96ddaf024d8dfc7092e1f0ab49ba42)
 - [ ] [<code>incusd/instances/qemu: Handle deprecation of runas</code>](https://github.com/lxc/incus/commit/8dc3e34146834a683a5da6ba9279b8a76ca36d26)
+- [ ] [<code>incusd/main_forknet: Handle missing DNS in DHCP response</code>](https://github.com/lxc/incus/commit/ef4063ef20d63a2b3151e6a29ef5b0a6a0755f9b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/lxc: Pass limited environment to forkstart</code>](https://github.com/lxc/incus/commit/8a2c9c634609a363dae8166219b21f12d76873b4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/lxc: Don't reset resolv.conf</code>](https://github.com/lxc/incus/commit/60b77072230a38816f64ac639e6e32625a84ffed)
+- [ ] [<code>incusd/main_forknet: Use Fprintf</code>](https://github.com/lxc/incus/commit/fe0908558ebbd898f326618e4e0bc599453c664f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/list: Support server-side filtering</code>](https://github.com/lxc/incus/commit/301aa603b586f03c2352fb4a6dd15856d0bff479)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/image: Support server-side filtering</code>](https://github.com/lxc/incus/commit/fe13a8b3021e4492e88a783790667b6cc9b0eb0d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/utils: Support server-side filtering</code>](https://github.com/lxc/incus/commit/a798a60a1c222ef7729b237179adc855d1d1989b)
+- [ ] [<code>internal/filter: Support server-side filtering</code>](https://github.com/lxc/incus/commit/127f2bc96ed4418089139bc688ae21d4169403c8)
+- [ ] [<code>tests: Added/Fixed tests for server-side filtering</code>](https://github.com/lxc/incus/commit/2ba25208754e7af7156334ef8062aeda7ad3078f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3178,6 +3206,11 @@
 - [ ] [<code>fix spelling correctly</code>](https://github.com/AOMediaCodec/libavif/commit/92fc26c2ecbabe00d083283a1c7c35ed815669fd)
 - [ ] [<code>Add -DCMAKE_POLICY_VERSION_MINIMUM=3.5 for CMake 4</code>](https://github.com/AOMediaCodec/libavif/commit/7d2c765bb0d142a571ae532c363900e390580185)
 - [ ] [<code>Bump the github-actions group with 3 updates (#2728)</code>](https://github.com/AOMediaCodec/libavif/commit/53f5cc48dc60ec8e98b52b1233c59f2d234ab93b)
+- [ ] [<code>Update libxml2 to v2.14.0 and googletest to v1.16.0 (#2731)</code>](https://github.com/AOMediaCodec/libavif/commit/957421d74c0da16bda73489c15bd32d5f95ceda0)
+- [ ] [<code>Update libsharpyuv: v1.5.0 (#2732)</code>](https://github.com/AOMediaCodec/libavif/commit/ce66ee8f3441252ecfeed3c1c9a0824ff649bc6b)
+- [ ] [<code>Fixes wrong EXIF Orientation from Irot Imir (#2729)</code>](https://github.com/AOMediaCodec/libavif/commit/0091d0909f369a1babc16923fda0279a10a53a3a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Move test body to inner loop in MetadataTest (#2735)</code>](https://github.com/AOMediaCodec/libavif/commit/d7691bc1c289b01bdd7925c4e9e69a6503753068)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3256,6 +3289,7 @@
 - [ ] [<code>sysconfig/lxc: remove false comment</code>](https://github.com/lxc/lxc/commit/31cd14682212113c5f8230d993c66ba7c630ec72)
 - [ ] [<code>global: Switch MAC generation to Zabbly prefix</code>](https://github.com/lxc/lxc/commit/7bd24f6cbf116c3e49d29d6ccfffdb9c3e92b328)
 - [ ] [<code>global: Switch to new MAC prefix</code>](https://github.com/lxc/lxc/commit/7914afb0cdddf6085e2b46e696655b5135ed0cb5)
+- [ ] [<code>github: Add packaging workflow</code>](https://github.com/lxc/lxc/commit/c8cc47101ba699f5b07a30e4ec1cc33c33ecaece)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -5277,6 +5311,16 @@
 - [ ] [<code>Properly clean up install paths after runtime checks in static builds. (#20017)</code>](https://github.com/netdata/netdata.git/commit/f3702110bd23d0de3ace75e7adff5c61b53d9e7d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-102-nightly.</code>](https://github.com/netdata/netdata.git/commit/45461ec05cae49281c02b06507519456b0ea2770)
 - [ ] [<code>Additional checks then creating a v2 journal file (#20018)</code>](https://github.com/netdata/netdata.git/commit/543aa597829f6e82dd6a805746722ec819a1efe4)
+- [ ] [<code>Windows installer + ML (all) improved (#20021)</code>](https://github.com/netdata/netdata.git/commit/5a9b3ecadfa6fccaaa96d0c21d7f1898d0dedcba)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>on prem files moved to their own repo (#20023)</code>](https://github.com/netdata/netdata.git/commit/9a4ac79ed26ae184102d8ed125de18a87bca95a4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Series of NFCs to make the code more maintainable. (#20022)</code>](https://github.com/netdata/netdata.git/commit/48120b1b6addcdf4546f16637258cd306334002a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>daemon status 25 (#20026)</code>](https://github.com/netdata/netdata.git/commit/82f668106e6b11af6759d66271300b8fb036e614)
+- [ ] [<code>kickstart.sh: add missing option --offline-install-source to USAGE (#20025)</code>](https://github.com/netdata/netdata.git/commit/b70a62a931743d318bd08cadf1456b6faf5c8e40)
+- [ ] [<code>logs enhancements (#20027)</code>](https://github.com/netdata/netdata.git/commit/60c00474b1b0b3675fa8326cdce96e8b551c428d)
+- [ ] [<code>More completely disable our own telemetry in CI. (#20009)</code>](https://github.com/netdata/netdata.git/commit/3e85df06b9e9533912b62fc3fbb1741f85b3c666)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
