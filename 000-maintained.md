@@ -3174,6 +3174,8 @@
 - [ ] [<code>fix spelling</code>](https://github.com/AOMediaCodec/libavif/commit/46813fe1c7238e6365591f67de52810835fd1ff9)
 - [ ] [<code>avifrgbtoyuvtest: Do not compute diff_sum</code>](https://github.com/AOMediaCodec/libavif/commit/e3604a7f4cd088b5694757d45bb9783d429c7428)
 - [ ] [<code>codec_avm.c: Removed unneeded code for options</code>](https://github.com/AOMediaCodec/libavif/commit/0c011861fb8edcd6b0d894bdce6d2929ac5befa3)
+- [ ] [<code>Update libyuv.cmd: dc47c71b3 (1907)</code>](https://github.com/AOMediaCodec/libavif/commit/29127c71e771be6f02750af1a20884056cfeb6bd)
+- [ ] [<code>fix spelling correctly</code>](https://github.com/AOMediaCodec/libavif/commit/92fc26c2ecbabe00d083283a1c7c35ed815669fd)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5269,6 +5271,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>daemon status 24d (#20011)</code>](https://github.com/netdata/netdata.git/commit/619dda24cba36345dc60fda5d6479bcfacef9e8f)
 - [ ] [<code>Validate journal file headers to prevent invalid memory access (#20013)</code>](https://github.com/netdata/netdata.git/commit/72e26d423bc93082c154b1c282a981ef7fa77584)
+- [ ] [<code>blacklist leaked machine guids (#20016)</code>](https://github.com/netdata/netdata.git/commit/cfd5bbe1f91564edeaf3c51f00eb0f83149b9111)
+- [ ] [<code>Properly clean up install paths after runtime checks in static builds. (#20017)</code>](https://github.com/netdata/netdata.git/commit/f3702110bd23d0de3ace75e7adff5c61b53d9e7d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-102-nightly.</code>](https://github.com/netdata/netdata.git/commit/45461ec05cae49281c02b06507519456b0ea2770)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
