@@ -3176,6 +3176,8 @@
 - [ ] [<code>codec_avm.c: Removed unneeded code for options</code>](https://github.com/AOMediaCodec/libavif/commit/0c011861fb8edcd6b0d894bdce6d2929ac5befa3)
 - [ ] [<code>Update libyuv.cmd: dc47c71b3 (1907)</code>](https://github.com/AOMediaCodec/libavif/commit/29127c71e771be6f02750af1a20884056cfeb6bd)
 - [ ] [<code>fix spelling correctly</code>](https://github.com/AOMediaCodec/libavif/commit/92fc26c2ecbabe00d083283a1c7c35ed815669fd)
+- [ ] [<code>Add -DCMAKE_POLICY_VERSION_MINIMUM=3.5 for CMake 4</code>](https://github.com/AOMediaCodec/libavif/commit/7d2c765bb0d142a571ae532c363900e390580185)
+- [ ] [<code>Bump the github-actions group with 3 updates (#2728)</code>](https://github.com/AOMediaCodec/libavif/commit/53f5cc48dc60ec8e98b52b1233c59f2d234ab93b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5274,6 +5276,7 @@
 - [ ] [<code>blacklist leaked machine guids (#20016)</code>](https://github.com/netdata/netdata.git/commit/cfd5bbe1f91564edeaf3c51f00eb0f83149b9111)
 - [ ] [<code>Properly clean up install paths after runtime checks in static builds. (#20017)</code>](https://github.com/netdata/netdata.git/commit/f3702110bd23d0de3ace75e7adff5c61b53d9e7d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-102-nightly.</code>](https://github.com/netdata/netdata.git/commit/45461ec05cae49281c02b06507519456b0ea2770)
+- [ ] [<code>Additional checks then creating a v2 journal file (#20018)</code>](https://github.com/netdata/netdata.git/commit/543aa597829f6e82dd6a805746722ec819a1efe4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5975,6 +5978,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>state.h: add missing void for parameterless function prototype</code>](https://github.com/canonical/netplan/commit/e1276be544c45792307e5444370ec47a5b50d4fb)
 - [ ] [<code>parse.h: fix parameterless function prototype</code>](https://github.com/canonical/netplan/commit/d6e8234a04d42f12790bedb803680fccc2883660)
+- [ ] [<code>Allows non standard OVS setups</code>](https://github.com/canonical/netplan/commit/4abe2e7dcb8da8994796e702eae4d32ad893c844)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
