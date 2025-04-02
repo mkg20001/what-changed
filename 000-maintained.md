@@ -344,6 +344,8 @@
 - [ ] [<code>client: Add GetImagesAllProjectsWithFilter</code>](https://github.com/lxc/incus/commit/4f3bef7c72f22025eb9221d264cf7c98def76c35)
 - [ ] [<code>cmd/image: Use GetImagesAllProjectsWithFilter to filter images across all projects</code>](https://github.com/lxc/incus/commit/6a2d4dc2e9c4cc99655bb1428f407340daec03b4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Avoid unnecessary snapshot loading</code>](https://github.com/lxc/incus/commit/60ecaa417142013d55dce93d6484820ed83ec7fe)
+- [ ] [<code>incusd/migrate: Bump timeouts to 30s</code>](https://github.com/lxc/incus/commit/8d852fd8ae5093cdb91baacde22cb01fce604b9f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2851,6 +2853,8 @@
 - [ ] [<code>client: Add GetImagesAllProjectsWithFilter</code>](https://github.com/lxc/incus/commit/4f3bef7c72f22025eb9221d264cf7c98def76c35)
 - [ ] [<code>cmd/image: Use GetImagesAllProjectsWithFilter to filter images across all projects</code>](https://github.com/lxc/incus/commit/6a2d4dc2e9c4cc99655bb1428f407340daec03b4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Avoid unnecessary snapshot loading</code>](https://github.com/lxc/incus/commit/60ecaa417142013d55dce93d6484820ed83ec7fe)
+- [ ] [<code>incusd/migrate: Bump timeouts to 30s</code>](https://github.com/lxc/incus/commit/8d852fd8ae5093cdb91baacde22cb01fce604b9f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3217,6 +3221,10 @@
 - [ ] [<code>Fixes wrong EXIF Orientation from Irot Imir (#2729)</code>](https://github.com/AOMediaCodec/libavif/commit/0091d0909f369a1babc16923fda0279a10a53a3a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Move test body to inner loop in MetadataTest (#2735)</code>](https://github.com/AOMediaCodec/libavif/commit/d7691bc1c289b01bdd7925c4e9e69a6503753068)
+- [ ] [<code>Update libpng to 1.6.47 (#2733)</code>](https://github.com/AOMediaCodec/libavif/commit/0921d302af987ac1b92b6d585a691a2fcd79675a)
+  - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
+- [ ] [<code>Fix some boolean logic (#2737)</code>](https://github.com/AOMediaCodec/libavif/commit/6ba892299f133b1f8d7db98cb2ddf6b11c373fe5)
+- [ ] [<code>Encoder: fix ispe property for tmap with grid. (#2730)</code>](https://github.com/AOMediaCodec/libavif/commit/e176f5b12defff91d1be417d074396c98040df10)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5329,6 +5337,9 @@
 - [ ] [<code>More completely disable our own telemetry in CI. (#20009)</code>](https://github.com/netdata/netdata.git/commit/3e85df06b9e9533912b62fc3fbb1741f85b3c666)
 - [ ] [<code>fix crash (#20028)</code>](https://github.com/netdata/netdata.git/commit/4ea9384647277619b282d05f2c3825de71e4e268)
 - [ ] [<code>trim-all (#20029)</code>](https://github.com/netdata/netdata.git/commit/25a62da4f16ee6799fd117d43507924cc2f3b909)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/607077500d49d968b7edd2a3482bd32bfcdfb9ff)
+- [ ] [<code>improvement(go.d): add `_hostname` label for virtual nodes (#20030)</code>](https://github.com/netdata/netdata.git/commit/fe87192141486113f1d885d224024ed28d3b63bf)
+- [ ] [<code>Improve estimated disk space usage for data file rotation (#20019)</code>](https://github.com/netdata/netdata.git/commit/9019b5603e8ed27dc7c330692fbb4781e017bf06)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
