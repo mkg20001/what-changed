@@ -341,6 +341,9 @@
 - [ ] [<code>cmd/utils: Support server-side filtering</code>](https://github.com/lxc/incus/commit/a798a60a1c222ef7729b237179adc855d1d1989b)
 - [ ] [<code>internal/filter: Support server-side filtering</code>](https://github.com/lxc/incus/commit/127f2bc96ed4418089139bc688ae21d4169403c8)
 - [ ] [<code>tests: Added/Fixed tests for server-side filtering</code>](https://github.com/lxc/incus/commit/2ba25208754e7af7156334ef8062aeda7ad3078f)
+- [ ] [<code>client: Add GetImagesAllProjectsWithFilter</code>](https://github.com/lxc/incus/commit/4f3bef7c72f22025eb9221d264cf7c98def76c35)
+- [ ] [<code>cmd/image: Use GetImagesAllProjectsWithFilter to filter images across all projects</code>](https://github.com/lxc/incus/commit/6a2d4dc2e9c4cc99655bb1428f407340daec03b4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2845,6 +2848,9 @@
 - [ ] [<code>cmd/utils: Support server-side filtering</code>](https://github.com/lxc/incus/commit/a798a60a1c222ef7729b237179adc855d1d1989b)
 - [ ] [<code>internal/filter: Support server-side filtering</code>](https://github.com/lxc/incus/commit/127f2bc96ed4418089139bc688ae21d4169403c8)
 - [ ] [<code>tests: Added/Fixed tests for server-side filtering</code>](https://github.com/lxc/incus/commit/2ba25208754e7af7156334ef8062aeda7ad3078f)
+- [ ] [<code>client: Add GetImagesAllProjectsWithFilter</code>](https://github.com/lxc/incus/commit/4f3bef7c72f22025eb9221d264cf7c98def76c35)
+- [ ] [<code>cmd/image: Use GetImagesAllProjectsWithFilter to filter images across all projects</code>](https://github.com/lxc/incus/commit/6a2d4dc2e9c4cc99655bb1428f407340daec03b4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -5321,6 +5327,8 @@
 - [ ] [<code>kickstart.sh: add missing option --offline-install-source to USAGE (#20025)</code>](https://github.com/netdata/netdata.git/commit/b70a62a931743d318bd08cadf1456b6faf5c8e40)
 - [ ] [<code>logs enhancements (#20027)</code>](https://github.com/netdata/netdata.git/commit/60c00474b1b0b3675fa8326cdce96e8b551c428d)
 - [ ] [<code>More completely disable our own telemetry in CI. (#20009)</code>](https://github.com/netdata/netdata.git/commit/3e85df06b9e9533912b62fc3fbb1741f85b3c666)
+- [ ] [<code>fix crash (#20028)</code>](https://github.com/netdata/netdata.git/commit/4ea9384647277619b282d05f2c3825de71e4e268)
+- [ ] [<code>trim-all (#20029)</code>](https://github.com/netdata/netdata.git/commit/25a62da4f16ee6799fd117d43507924cc2f3b909)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
