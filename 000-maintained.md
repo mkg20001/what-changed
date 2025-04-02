@@ -74,6 +74,12 @@
 - [ ] [<code>lxc.generator Fixed typo in comments</code>](https://github.com/lxc/distrobuilder/commit/eacf8b58386272352a49c6d235c42e2db18d41c2)
 - [ ] [<code>doc: Document runtime deps for building VM images</code>](https://github.com/lxc/distrobuilder/commit/8371344bd483dc47cb6c29b0231c02be1394fdcb)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Makefile: Bump Go to 1.23.7</code>](https://github.com/lxc/distrobuilder/commit/1c148894d959234a737d247c4f301b1358e61395)
+- [ ] [<code>Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/75b68c0aa5b21450cc820e54e9c92d09dad69c2d)
+- [ ] [<code>golang-ci: Upgrade to v2</code>](https://github.com/lxc/distrobuilder/commit/8d36e376704b840927a305e040e493f705849fd0)
+- [ ] [<code>Fix golang-ci reported issues</code>](https://github.com/lxc/distrobuilder/commit/57091a0e63ce657964c4c878f070f8a4a010b4bc)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>sources: Alpaquita - use source.variant not image.variant</code>](https://github.com/lxc/distrobuilder/commit/b13c4d5924daa74f1f20137f10d3e06f0ddae1ca)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -3225,6 +3231,13 @@
   - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
 - [ ] [<code>Fix some boolean logic (#2737)</code>](https://github.com/AOMediaCodec/libavif/commit/6ba892299f133b1f8d7db98cb2ddf6b11c373fe5)
 - [ ] [<code>Encoder: fix ispe property for tmap with grid. (#2730)</code>](https://github.com/AOMediaCodec/libavif/commit/e176f5b12defff91d1be417d074396c98040df10)
+- [ ] [<code>Add '|| exit' when loading cmd_test_common.sh (#2739)</code>](https://github.com/AOMediaCodec/libavif/commit/87979d519acb10490eefc24b48af7b53067e3387)
+- [ ] [<code>Fix UPDATE_COMMAND <-> PATCH_COMMAND for zlib (#2740)</code>](https://github.com/AOMediaCodec/libavif/commit/26e1b61cbb526da1719b66db8a53eed0ed80a1d0)
+- [ ] [<code>Use the latest CMake in CI (#2738)</code>](https://github.com/AOMediaCodec/libavif/commit/8feaf13d48b6d264e951fddeacd7d0144a2fc8e1)
+- [ ] [<code>Add a warning to catch 0 to pointer conversion. (#2742)</code>](https://github.com/AOMediaCodec/libavif/commit/7fa93065e3acf2fc3a95873aa1a087873b3241fe)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Detect overflows when adding numbers to `offset`</code>](https://github.com/AOMediaCodec/libavif/commit/32fa2b413550330ebd4dd20f65420306dff6d2a7)
+- [ ] [<code>zlibpng.cmd: Pass the zlib patch file to git apply</code>](https://github.com/AOMediaCodec/libavif/commit/5d303fdbf50e1d2954ce74e03ca27523652925b2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3304,6 +3317,9 @@
 - [ ] [<code>global: Switch MAC generation to Zabbly prefix</code>](https://github.com/lxc/lxc/commit/7bd24f6cbf116c3e49d29d6ccfffdb9c3e92b328)
 - [ ] [<code>global: Switch to new MAC prefix</code>](https://github.com/lxc/lxc/commit/7914afb0cdddf6085e2b46e696655b5135ed0cb5)
 - [ ] [<code>github: Add packaging workflow</code>](https://github.com/lxc/lxc/commit/c8cc47101ba699f5b07a30e4ec1cc33c33ecaece)
+- [ ] [<code>tools/lxc_attach: fix ENFORCE_MEMFD_REXEC checks</code>](https://github.com/lxc/lxc/commit/ff1ea5099c5f216ba0c3199477b80d5ed626c4f3)
+- [ ] [<code>lxc/conf: handle rootfs open_at error in lxc_mount_rootfs</code>](https://github.com/lxc/lxc/commit/becd5538e66a5437a661ca1c77580c8c1766b733)
+- [ ] [<code>lxc/caps: fix open /proc/sys/kernel/cap_last_cap</code>](https://github.com/lxc/lxc/commit/3c6ea300b5c087ab5987f7c5b97f139c91216810)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -5340,6 +5356,10 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/607077500d49d968b7edd2a3482bd32bfcdfb9ff)
 - [ ] [<code>improvement(go.d): add `_hostname` label for virtual nodes (#20030)</code>](https://github.com/netdata/netdata.git/commit/fe87192141486113f1d885d224024ed28d3b63bf)
 - [ ] [<code>Improve estimated disk space usage for data file rotation (#20019)</code>](https://github.com/netdata/netdata.git/commit/9019b5603e8ed27dc7c330692fbb4781e017bf06)
+- [ ] [<code>Improve kickstart so it can add the netdata user/group on Synology DSM (#20024)</code>](https://github.com/netdata/netdata.git/commit/15a9a0e6457d976a34157c954a39cc38e3d84192)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Check for host timer validity in ACLK synchronization (#20031)</code>](https://github.com/netdata/netdata.git/commit/239c340c6da6646e390205e471c8e2c594430441)
+- [ ] [<code>chore(otel/journaldexporter): convert logs to journald format (#20033)</code>](https://github.com/netdata/netdata.git/commit/836215af61c866d2dab23ffab958eee21931469d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
