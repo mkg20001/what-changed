@@ -352,6 +352,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Avoid unnecessary snapshot loading</code>](https://github.com/lxc/incus/commit/60ecaa417142013d55dce93d6484820ed83ec7fe)
 - [ ] [<code>incusd/migrate: Bump timeouts to 30s</code>](https://github.com/lxc/incus/commit/8d852fd8ae5093cdb91baacde22cb01fce604b9f)
+- [ ] [<code>incusd/storage: Add missing forwarding on snapshot list</code>](https://github.com/lxc/incus/commit/3beacb512b8d09351ce0f5235b6219de0fe939c8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2861,9 +2862,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Avoid unnecessary snapshot loading</code>](https://github.com/lxc/incus/commit/60ecaa417142013d55dce93d6484820ed83ec7fe)
 - [ ] [<code>incusd/migrate: Bump timeouts to 30s</code>](https://github.com/lxc/incus/commit/8d852fd8ae5093cdb91baacde22cb01fce604b9f)
+- [ ] [<code>incusd/storage: Add missing forwarding on snapshot list</code>](https://github.com/lxc/incus/commit/3beacb512b8d09351ce0f5235b6219de0fe939c8)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
+- [ ] [<code>Move instance filtering logic from client to server</code>](https://github.com/zabbly/incus-ui-canonical/commit/94833b9cc536f7a809d0eb9c0e6dcefe5f76abe7)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3362,6 +3365,7 @@
 - [ ] [<code>utils: move strlcpy/strlcat helpers from cgroup_utils to utils</code>](https://github.com/lxc/lxcfs/commit/0f253c7d4c0ded44e76f5e5c5da6fa2627f0b93d)
 - [ ] [<code>lxcfs: use strlcpy when handle runtime-dir parameter</code>](https://github.com/lxc/lxcfs/commit/28be637ae4be73ae1adbd7dffe3ff38b53ce2531)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>proc_loadavg: Prevent integer overflow calculating the sleep interval</code>](https://github.com/lxc/lxcfs/commit/2ea556114102149b454b39e859a5c8ae8697c959)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -5360,6 +5364,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Check for host timer validity in ACLK synchronization (#20031)</code>](https://github.com/netdata/netdata.git/commit/239c340c6da6646e390205e471c8e2c594430441)
 - [ ] [<code>chore(otel/journaldexporter): convert logs to journald format (#20033)</code>](https://github.com/netdata/netdata.git/commit/836215af61c866d2dab23ffab958eee21931469d)
+- [ ] [<code>chore(otel/journaldexporter): add trusted journald fields (#20038)</code>](https://github.com/netdata/netdata.git/commit/31e8e9435a9271f131bf7a22925b8010e26ae427)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>daemon status 26 - dmi strings (#20037)</code>](https://github.com/netdata/netdata.git/commit/e01e27b34ca8bfb17af91681e261fb664726aff1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
