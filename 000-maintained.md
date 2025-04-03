@@ -5368,6 +5368,14 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>daemon status 26 - dmi strings (#20037)</code>](https://github.com/netdata/netdata.git/commit/e01e27b34ca8bfb17af91681e261fb664726aff1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-121-nightly.</code>](https://github.com/netdata/netdata.git/commit/a63bebeb819cd4be7733e2ae767b7f1646f6eaec)
+- [ ] [<code>Update netdata-updater-daily.in (#20039)</code>](https://github.com/netdata/netdata.git/commit/335e6c35d8c2a600c296f0e29668096c2e571b26)
+- [ ] [<code>Fix ACLK synchronization fatal on shutdown (#20034)</code>](https://github.com/netdata/netdata.git/commit/c688d51231e25d63d09f5dcdccba0c5eadc70d9d)
+- [ ] [<code>Handle journal_v2 file creation failure due to OOM (#19965)</code>](https://github.com/netdata/netdata.git/commit/936832d5777e4b8c24c24d2987493929b88918aa)
+- [ ] [<code>trace crashes No 4 (#20043)</code>](https://github.com/netdata/netdata.git/commit/934c4ccbcdd84479708222700455901eb728a6c6)
+- [ ] [<code>daemon status 26b (#20041)</code>](https://github.com/netdata/netdata.git/commit/5e2d756a4c62c47ab6838a2a0307e65ba230f396)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-127-nightly.</code>](https://github.com/netdata/netdata.git/commit/36c06874ed47f942a2db204e33fd1c5cd7313030)
+- [ ] [<code>daemon status 26c (#20044)</code>](https://github.com/netdata/netdata.git/commit/28d40e1e852e4d5ef7efbe3fce28824c8ba6e182)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
