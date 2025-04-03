@@ -353,6 +353,50 @@
 - [ ] [<code>incusd/instance/qemu: Avoid unnecessary snapshot loading</code>](https://github.com/lxc/incus/commit/60ecaa417142013d55dce93d6484820ed83ec7fe)
 - [ ] [<code>incusd/migrate: Bump timeouts to 30s</code>](https://github.com/lxc/incus/commit/8d852fd8ae5093cdb91baacde22cb01fce604b9f)
 - [ ] [<code>incusd/storage: Add missing forwarding on snapshot list</code>](https://github.com/lxc/incus/commit/3beacb512b8d09351ce0f5235b6219de0fe939c8)
+- [ ] [<code>client: Pass ETag in UpdateWarning</code>](https://github.com/lxc/incus/commit/bf10a395164714df89d0b9f779af0ffc4717b70a)
+- [ ] [<code>client: Pass ETag in UpdateCluster</code>](https://github.com/lxc/incus/commit/6e2530cdb0482e3ee1e50fd5fc2dbb9de10ab2a0)
+- [ ] [<code>client: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/54e7c217349d8b012b39865c4351066120d497e3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/api: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/e34c0ebe64a968f1b7f25c8447ed233dad231a9b)
+- [ ] [<code>shared/idmap: Remove unused rootfs argument to NewSetFromSystem</code>](https://github.com/lxc/incus/commit/0f41ce27feb9e39cfa5c9dfdcf3d51a8c89d8c06)
+- [ ] [<code>incus-user: Update for change to shared/idmap</code>](https://github.com/lxc/incus/commit/fc7344a1d7f71beb036a3a7efc8009a5332281af)
+- [ ] [<code>incusd/sys: Update for change to shared/idmap</code>](https://github.com/lxc/incus/commit/aa6a1c23543c1f7ec581eb26d2396a4dda2bf3d9)
+- [ ] [<code>shared/idmap: Rename IdmapStorageType to StorageType</code>](https://github.com/lxc/incus/commit/24d7ef78cea458aaddf1dc81ec3292969ce6acb3)
+- [ ] [<code>shared/idmap: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/f69e3353c2a8a24fe2b79347bf603077c6d9cacd)
+- [ ] [<code>incusd: Update for shared/idmap changes</code>](https://github.com/lxc/incus/commit/3217831e7cbd092e8d7686213a28745abfd6ffb2)
+- [ ] [<code>shared/ws: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/e00216ec8b44c88fffe6b95bf7142ec265af41ee)
+- [ ] [<code>shared/ask: Remove deprecated functions (and clear golangci-lint)</code>](https://github.com/lxc/incus/commit/12fcf94502319596fffc6a2724a0dce90d9078d3)
+- [ ] [<code>shared/validate: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/ecb87fde407be5f5c544ae0204e3c8944fd41f06)
+- [ ] [<code>shared/tls: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/ec4817b40a00a97182b9c08e738c43e8465d2000)
+- [ ] [<code>shared/osarch: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/8e4d87f628df0c536fe244df53e9f45b12c5e900)
+- [ ] [<code>shared/osarch: Rename ArchitectureId to ArchitectureID</code>](https://github.com/lxc/incus/commit/fcfac56fcb8f5f262c4d67e8136e20961f55e98e)
+- [ ] [<code>shared/simplestreams: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/668777c76ac45ec5e1a875caa7182db378474e4b)
+- [ ] [<code>incusd: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/6bab1782492fa660428e00ed951c356ed6669b91)
+- [ ] [<code>client: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/1e04b9c8edbcd268b9684e1d79af51f79ca4172b)
+- [ ] [<code>incus-simplestreams: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/a19bd22977cb7ca26a706af846523699ab741d0f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-to-incus: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/98521f9fa6641f013d86100c3eb0d887d27f8568)
+- [ ] [<code>internal/version: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/591bf5d5da41f24b406ac9cf79b0a7d0fd419214)
+- [ ] [<code>shared/osarch: Keep our all-caps architecture names</code>](https://github.com/lxc/incus/commit/daeeedccc052088ab10361e30457961fcc87fd28)
+- [ ] [<code>client/oci: Only replace the first match</code>](https://github.com/lxc/incus/commit/080446fbf968aa42f26eb79b0e15242b95e3a35f)
+- [ ] [<code>incus: Remove unused functions</code>](https://github.com/lxc/incus/commit/85170629dfa52f5ef1cdb12796aea176832a19ca)
+- [ ] [<code>incusd/instance/common: Fix concurrent restarts</code>](https://github.com/lxc/incus/commit/f4bc6bb4f34e0c0bb6e5e13a510893b4c5b5e42d)
+- [ ] [<code>incus: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/300c262e92694f985a1c00d63a050966827bf247)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/subprocess: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/60927988b8fed37d7238f2aa401848915c6126f7)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/simplestreams: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/66b2c09b12e48a3e57d77fc3a001ad5ef2354293)
+- [ ] [<code>shared/cliconfig: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/25aa59aaf580c5ef937a558945e073518f606c3e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>shared/ask: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/fe3494a79e3adc7387ff45a2071d893f3f5797ab)
+- [ ] [<code>shared/util: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/c2223de87b3fdd31141faa4742d7777c3f40efa4)
+- [ ] [<code>shared/revert: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/0f2976a7223c54d6ab9747d56eab348c64027417)
+- [ ] [<code>shared/proxy: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/8b374507fddb1bb514cae33da6b734548108cee7)
+- [ ] [<code>shared/logger: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/b4dc9e45842277a3f20bd718c47fed79590b55d9)
+- [ ] [<code>shared/archive: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/fc4d0dc51eda1db22d5f33d68a780d5bbeac7c5b)
+- [ ] [<code>incusd/instance/lxc: Fix import shadowing in IdmappedStorage</code>](https://github.com/lxc/incus/commit/cd89074db264d60bce42e236de2d8f4deab051ae)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/93aaf8e0ccf5624f02f0cd64f268053c181b0e43)
+- [ ] [<code>generate-database: Fix documentation for `ignore`</code>](https://github.com/lxc/incus/commit/d833635e1773ffac4c13a3ed75e78a0731d90899)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2863,6 +2907,50 @@
 - [ ] [<code>incusd/instance/qemu: Avoid unnecessary snapshot loading</code>](https://github.com/lxc/incus/commit/60ecaa417142013d55dce93d6484820ed83ec7fe)
 - [ ] [<code>incusd/migrate: Bump timeouts to 30s</code>](https://github.com/lxc/incus/commit/8d852fd8ae5093cdb91baacde22cb01fce604b9f)
 - [ ] [<code>incusd/storage: Add missing forwarding on snapshot list</code>](https://github.com/lxc/incus/commit/3beacb512b8d09351ce0f5235b6219de0fe939c8)
+- [ ] [<code>client: Pass ETag in UpdateWarning</code>](https://github.com/lxc/incus/commit/bf10a395164714df89d0b9f779af0ffc4717b70a)
+- [ ] [<code>client: Pass ETag in UpdateCluster</code>](https://github.com/lxc/incus/commit/6e2530cdb0482e3ee1e50fd5fc2dbb9de10ab2a0)
+- [ ] [<code>client: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/54e7c217349d8b012b39865c4351066120d497e3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>shared/api: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/e34c0ebe64a968f1b7f25c8447ed233dad231a9b)
+- [ ] [<code>shared/idmap: Remove unused rootfs argument to NewSetFromSystem</code>](https://github.com/lxc/incus/commit/0f41ce27feb9e39cfa5c9dfdcf3d51a8c89d8c06)
+- [ ] [<code>incus-user: Update for change to shared/idmap</code>](https://github.com/lxc/incus/commit/fc7344a1d7f71beb036a3a7efc8009a5332281af)
+- [ ] [<code>incusd/sys: Update for change to shared/idmap</code>](https://github.com/lxc/incus/commit/aa6a1c23543c1f7ec581eb26d2396a4dda2bf3d9)
+- [ ] [<code>shared/idmap: Rename IdmapStorageType to StorageType</code>](https://github.com/lxc/incus/commit/24d7ef78cea458aaddf1dc81ec3292969ce6acb3)
+- [ ] [<code>shared/idmap: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/f69e3353c2a8a24fe2b79347bf603077c6d9cacd)
+- [ ] [<code>incusd: Update for shared/idmap changes</code>](https://github.com/lxc/incus/commit/3217831e7cbd092e8d7686213a28745abfd6ffb2)
+- [ ] [<code>shared/ws: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/e00216ec8b44c88fffe6b95bf7142ec265af41ee)
+- [ ] [<code>shared/ask: Remove deprecated functions (and clear golangci-lint)</code>](https://github.com/lxc/incus/commit/12fcf94502319596fffc6a2724a0dce90d9078d3)
+- [ ] [<code>shared/validate: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/ecb87fde407be5f5c544ae0204e3c8944fd41f06)
+- [ ] [<code>shared/tls: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/ec4817b40a00a97182b9c08e738c43e8465d2000)
+- [ ] [<code>shared/osarch: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/8e4d87f628df0c536fe244df53e9f45b12c5e900)
+- [ ] [<code>shared/osarch: Rename ArchitectureId to ArchitectureID</code>](https://github.com/lxc/incus/commit/fcfac56fcb8f5f262c4d67e8136e20961f55e98e)
+- [ ] [<code>shared/simplestreams: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/668777c76ac45ec5e1a875caa7182db378474e4b)
+- [ ] [<code>incusd: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/6bab1782492fa660428e00ed951c356ed6669b91)
+- [ ] [<code>client: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/1e04b9c8edbcd268b9684e1d79af51f79ca4172b)
+- [ ] [<code>incus-simplestreams: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/a19bd22977cb7ca26a706af846523699ab741d0f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-to-incus: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/98521f9fa6641f013d86100c3eb0d887d27f8568)
+- [ ] [<code>internal/version: Update for ArchitectureID</code>](https://github.com/lxc/incus/commit/591bf5d5da41f24b406ac9cf79b0a7d0fd419214)
+- [ ] [<code>shared/osarch: Keep our all-caps architecture names</code>](https://github.com/lxc/incus/commit/daeeedccc052088ab10361e30457961fcc87fd28)
+- [ ] [<code>client/oci: Only replace the first match</code>](https://github.com/lxc/incus/commit/080446fbf968aa42f26eb79b0e15242b95e3a35f)
+- [ ] [<code>incus: Remove unused functions</code>](https://github.com/lxc/incus/commit/85170629dfa52f5ef1cdb12796aea176832a19ca)
+- [ ] [<code>incusd/instance/common: Fix concurrent restarts</code>](https://github.com/lxc/incus/commit/f4bc6bb4f34e0c0bb6e5e13a510893b4c5b5e42d)
+- [ ] [<code>incus: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/300c262e92694f985a1c00d63a050966827bf247)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/subprocess: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/60927988b8fed37d7238f2aa401848915c6126f7)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/simplestreams: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/66b2c09b12e48a3e57d77fc3a001ad5ef2354293)
+- [ ] [<code>shared/cliconfig: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/25aa59aaf580c5ef937a558945e073518f606c3e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>shared/ask: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/fe3494a79e3adc7387ff45a2071d893f3f5797ab)
+- [ ] [<code>shared/util: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/c2223de87b3fdd31141faa4742d7777c3f40efa4)
+- [ ] [<code>shared/revert: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/0f2976a7223c54d6ab9747d56eab348c64027417)
+- [ ] [<code>shared/proxy: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/8b374507fddb1bb514cae33da6b734548108cee7)
+- [ ] [<code>shared/logger: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/b4dc9e45842277a3f20bd718c47fed79590b55d9)
+- [ ] [<code>shared/archive: Make golangci-lint clean</code>](https://github.com/lxc/incus/commit/fc4d0dc51eda1db22d5f33d68a780d5bbeac7c5b)
+- [ ] [<code>incusd/instance/lxc: Fix import shadowing in IdmappedStorage</code>](https://github.com/lxc/incus/commit/cd89074db264d60bce42e236de2d8f4deab051ae)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/93aaf8e0ccf5624f02f0cd64f268053c181b0e43)
+- [ ] [<code>generate-database: Fix documentation for `ignore`</code>](https://github.com/lxc/incus/commit/d833635e1773ffac4c13a3ed75e78a0731d90899)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3241,6 +3329,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Detect overflows when adding numbers to `offset`</code>](https://github.com/AOMediaCodec/libavif/commit/32fa2b413550330ebd4dd20f65420306dff6d2a7)
 - [ ] [<code>zlibpng.cmd: Pass the zlib patch file to git apply</code>](https://github.com/AOMediaCodec/libavif/commit/5d303fdbf50e1d2954ce74e03ca27523652925b2)
+- [ ] [<code>Don't disable tests if aom decoder is unavailable</code>](https://github.com/AOMediaCodec/libavif/commit/48330df640109c06871d3cc80b2958c12c68e00d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Set CONFIG_AV1_DECODER or CONFIG_AV1_ENCODER to 0</code>](https://github.com/AOMediaCodec/libavif/commit/10315e291198559a1cc4a881b2e6ef1fb6560887)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3323,6 +3414,7 @@
 - [ ] [<code>tools/lxc_attach: fix ENFORCE_MEMFD_REXEC checks</code>](https://github.com/lxc/lxc/commit/ff1ea5099c5f216ba0c3199477b80d5ed626c4f3)
 - [ ] [<code>lxc/conf: handle rootfs open_at error in lxc_mount_rootfs</code>](https://github.com/lxc/lxc/commit/becd5538e66a5437a661ca1c77580c8c1766b733)
 - [ ] [<code>lxc/caps: fix open /proc/sys/kernel/cap_last_cap</code>](https://github.com/lxc/lxc/commit/3c6ea300b5c087ab5987f7c5b97f139c91216810)
+- [ ] [<code>lxc/start: do prctl(PR_SET_DUMPABLE) after last uid/gid switch</code>](https://github.com/lxc/lxc/commit/e5cc7a6be277a3aa1873bcbf66eca6eaf3661ddf)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -5376,6 +5468,11 @@
 - [ ] [<code>daemon status 26b (#20041)</code>](https://github.com/netdata/netdata.git/commit/5e2d756a4c62c47ab6838a2a0307e65ba230f396)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-127-nightly.</code>](https://github.com/netdata/netdata.git/commit/36c06874ed47f942a2db204e33fd1c5cd7313030)
 - [ ] [<code>daemon status 26c (#20044)</code>](https://github.com/netdata/netdata.git/commit/28d40e1e852e4d5ef7efbe3fce28824c8ba6e182)
+- [ ] [<code>fix(go.d/megacli): handle Adapters with no drives (#20046)</code>](https://github.com/netdata/netdata.git/commit/079952acf740e26696be14852eed12ae31e87448)
+- [ ] [<code>daemon status 26d (#20047)</code>](https://github.com/netdata/netdata.git/commit/568766f2daec5b85f96de6a3b816af6cde788d39)
+- [ ] [<code>added checksum to detect corruption in netdev rename tasks (#20048)</code>](https://github.com/netdata/netdata.git/commit/62ea17c887f0e3a7633517a723a0b13dcbb4f116)
+- [ ] [<code>Fix releasing statements after databases are closed (#20045)</code>](https://github.com/netdata/netdata.git/commit/02fcff82d6c0707c0ebeb27f26e18c1f775b91f3)
+- [ ] [<code>fix cgroup netdev renames (#20050)</code>](https://github.com/netdata/netdata.git/commit/bead8823cc7ed4b4f5b1698605adefb46f0a5041)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
