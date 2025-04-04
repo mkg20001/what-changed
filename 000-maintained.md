@@ -209,6 +209,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>chore: Update locale config for localizations</code>](https://github.com/krille-chan/fluffychat/commit/fad17f04c9dd9de899648a7c887f16f550424ae2)
 - [ ] [<code>build: Add libpciaccess0 package to snap</code>](https://github.com/krille-chan/fluffychat/commit/38a223f44daef7138b0fd977b7f462afed387670)
+- [ ] [<code>chore: upgrade chewie and video_player packages</code>](https://github.com/krille-chan/fluffychat/commit/7c1c1ad25c6030d2a116df8e5fd993ba8bd8c32f)
+- [ ] [<code>fix: properly dispose VideoPlayerController </code>](https://github.com/krille-chan/fluffychat/commit/d9ee3fbec68eb61577261c72f978325f5894dfce)
+- [ ] [<code>feat: support inline video playback on macOS</code>](https://github.com/krille-chan/fluffychat/commit/cfcbf944ffaccffcec3a90e5a9080ab16471fdc0)
+- [ ] [<code>feat: clearly mark when a video is to be downloaded</code>](https://github.com/krille-chan/fluffychat/commit/706d0bf060a63d77a50b695a3583fe659c37725f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -268,6 +272,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>chore: Update locale config for localizations</code>](https://github.com/krille-chan/fluffychat/commit/fad17f04c9dd9de899648a7c887f16f550424ae2)
 - [ ] [<code>build: Add libpciaccess0 package to snap</code>](https://github.com/krille-chan/fluffychat/commit/38a223f44daef7138b0fd977b7f462afed387670)
+- [ ] [<code>chore: upgrade chewie and video_player packages</code>](https://github.com/krille-chan/fluffychat/commit/7c1c1ad25c6030d2a116df8e5fd993ba8bd8c32f)
+- [ ] [<code>fix: properly dispose VideoPlayerController </code>](https://github.com/krille-chan/fluffychat/commit/d9ee3fbec68eb61577261c72f978325f5894dfce)
+- [ ] [<code>feat: support inline video playback on macOS</code>](https://github.com/krille-chan/fluffychat/commit/cfcbf944ffaccffcec3a90e5a9080ab16471fdc0)
+- [ ] [<code>feat: clearly mark when a video is to be downloaded</code>](https://github.com/krille-chan/fluffychat/commit/706d0bf060a63d77a50b695a3583fe659c37725f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -399,6 +407,7 @@
 - [ ] [<code>incusd/instance/lxc: Fix import shadowing in IdmappedStorage</code>](https://github.com/lxc/incus/commit/cd89074db264d60bce42e236de2d8f4deab051ae)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/93aaf8e0ccf5624f02f0cd64f268053c181b0e43)
 - [ ] [<code>generate-database: Fix documentation for `ignore`</code>](https://github.com/lxc/incus/commit/d833635e1773ffac4c13a3ed75e78a0731d90899)
+- [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2953,6 +2962,7 @@
 - [ ] [<code>incusd/instance/lxc: Fix import shadowing in IdmappedStorage</code>](https://github.com/lxc/incus/commit/cd89074db264d60bce42e236de2d8f4deab051ae)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/93aaf8e0ccf5624f02f0cd64f268053c181b0e43)
 - [ ] [<code>generate-database: Fix documentation for `ignore`</code>](https://github.com/lxc/incus/commit/d833635e1773ffac4c13a3ed75e78a0731d90899)
+- [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3334,6 +3344,9 @@
 - [ ] [<code>Don't disable tests if aom decoder is unavailable</code>](https://github.com/AOMediaCodec/libavif/commit/48330df640109c06871d3cc80b2958c12c68e00d)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Set CONFIG_AV1_DECODER or CONFIG_AV1_ENCODER to 0</code>](https://github.com/AOMediaCodec/libavif/commit/10315e291198559a1cc4a881b2e6ef1fb6560887)
+- [ ] [<code>Fix cargo-c with Rust 1.86 (#2750)</code>](https://github.com/AOMediaCodec/libavif/commit/2ab103529878273ce74d3b4c5e72383c9ce1e18d)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Reorganize the CI for more flexibility (#2747)</code>](https://github.com/AOMediaCodec/libavif/commit/bdcddd5c78f12b84ff707f0cdff7275c3559371b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5476,6 +5489,7 @@
 - [ ] [<code>Fix releasing statements after databases are closed (#20045)</code>](https://github.com/netdata/netdata.git/commit/02fcff82d6c0707c0ebeb27f26e18c1f775b91f3)
 - [ ] [<code>fix cgroup netdev renames (#20050)</code>](https://github.com/netdata/netdata.git/commit/bead8823cc7ed4b4f5b1698605adefb46f0a5041)
 - [ ] [<code>daemon status 26e (#20051)</code>](https://github.com/netdata/netdata.git/commit/3f689e6be784422e7d6e6acd0cd21f7811ee2ef6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/50f818dcc4a70e8d405664a6cdda3b8f6250343f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
