@@ -408,6 +408,8 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/93aaf8e0ccf5624f02f0cd64f268053c181b0e43)
 - [ ] [<code>generate-database: Fix documentation for `ignore`</code>](https://github.com/lxc/incus/commit/d833635e1773ffac4c13a3ed75e78a0731d90899)
 - [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
+- [ ] [<code>incusd/main_forknet: Don't add gateway route if classless static routes are provided (as required by RFC 3442)</code>](https://github.com/lxc/incus/commit/de0958b1e3b43b3551c062eeb19d33145717029c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2963,6 +2965,8 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/93aaf8e0ccf5624f02f0cd64f268053c181b0e43)
 - [ ] [<code>generate-database: Fix documentation for `ignore`</code>](https://github.com/lxc/incus/commit/d833635e1773ffac4c13a3ed75e78a0731d90899)
 - [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
+- [ ] [<code>incusd/main_forknet: Don't add gateway route if classless static routes are provided (as required by RFC 3442)</code>](https://github.com/lxc/incus/commit/de0958b1e3b43b3551c062eeb19d33145717029c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -5490,6 +5494,12 @@
 - [ ] [<code>fix cgroup netdev renames (#20050)</code>](https://github.com/netdata/netdata.git/commit/bead8823cc7ed4b4f5b1698605adefb46f0a5041)
 - [ ] [<code>daemon status 26e (#20051)</code>](https://github.com/netdata/netdata.git/commit/3f689e6be784422e7d6e6acd0cd21f7811ee2ef6)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/50f818dcc4a70e8d405664a6cdda3b8f6250343f)
+- [ ] [<code>Remove unnecessary parameters for oidc configuration (#20053)</code>](https://github.com/netdata/netdata.git/commit/402a12a63f6997ff2e3900247c75a1b3a6d8ec08)
+- [ ] [<code>Regenerate integrations docs (#20054)</code>](https://github.com/netdata/netdata.git/commit/51f69475237cbaf94e1c4e0131c6e12967ed55f3)
+- [ ] [<code>nested code block in doc (#20056)</code>](https://github.com/netdata/netdata.git/commit/5987923edfb26bc29d03cc5c9bc7f668a67a5fbe)
+- [ ] [<code>daemon status 27 (#20058)</code>](https://github.com/netdata/netdata.git/commit/1de029ebacafda2797ef0a0c734b203480d44c92)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6672,6 +6682,71 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.42.2 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.42.2...HEAD)
 
+- [ ] [<code>Bandmap: Added multiple bandmap widgets - initial part</code>](https://github.com/foldynl/QLog.git/commit/b51492f8910e1c75945cddd94da82a7a59367428)
+- [ ] [<code>Bandmap: Added multiple bandmap widgets - saving classic layout</code>](https://github.com/foldynl/QLog.git/commit/c600a95f0238e42b90264867efe13b066f528b83)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Bandmap: Added multiple bandmap widgets - save widget only if it is visible</code>](https://github.com/foldynl/QLog.git/commit/ffad9aa07b8e89880f94fb186b1508f72613da34)
+- [ ] [<code>MainLayout Profile: Added support to save additional Bandmaps</code>](https://github.com/foldynl/QLog.git/commit/dec79a5cd8708fb8b4a6cb57dae5e6c63df36c37)
+- [ ] [<code>Bandmap: Removed VFO Bandmap title; The Main Bandmap sets the band only if no other widget shows the requested band</code>](https://github.com/foldynl/QLog.git/commit/333f89d6cd9f6d2108152245ff2bce30e40e88f6)
+- [ ] [<code>Bandmap: Fixed the upper frequency clipping</code>](https://github.com/foldynl/QLog.git/commit/3d2e0cc6b84352c8c936c31e40fcb9491bea4860)
+- [ ] [<code>Bandmap: Do not translate the Add button</code>](https://github.com/foldynl/QLog.git/commit/35b9796754c56dee2f3f78695ceeb71730116e59)
+- [ ] [<code>Bandmap: Added Zoom Slider; Added Clean Current Band button; Changed Layout</code>](https://github.com/foldynl/QLog.git/commit/7dd2a07ac3289ef23086dc59f6ef2fc5c93ab6c3)
+- [ ] [<code>Fixed #418 - Windows State/Size does not save in case of fullscreen (6)</code>](https://github.com/foldynl/QLog.git/commit/e01dbc6fe4fc57843d38a0ae27235642aaa4bf17)
+- [ ] [<code>Bandmap: Params from QSetting to LogParam</code>](https://github.com/foldynl/QLog.git/commit/5cd11101517da88dd16b2afb666ec79818f3cb26)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Bandmap: Changed icon for clearing bandmap</code>](https://github.com/foldynl/QLog.git/commit/40e6d823bc1a444e0b417b60a608a39448a4b798)
+- [ ] [<code>Bandmap: Fixed issue when nonVFO Widgets was not refreshed a long time</code>](https://github.com/foldynl/QLog.git/commit/ed3de6fc4b85b8d468a8860406ed0b1a1f4f5a1b)
+- [ ] [<code>Bandmap: Fixed issue with closing the floating widgets; fixed Freq Mark position for nonVFO widgets</code>](https://github.com/foldynl/QLog.git/commit/769c66e83a947e1de177ac53d98c60f6e0544608)
+- [ ] [<code>Bandmap: Fixed issue with removing addlBandmap settings after Activity Editing</code>](https://github.com/foldynl/QLog.git/commit/3306f636954c9be23e9e13b4c01c0673c3618f24)
+- [ ] [<code>Bandmap: Reusing Dock Widgets</code>](https://github.com/foldynl/QLog.git/commit/de581090c80cb7ecd9d89477fc2cb27cf222fd53)
+- [ ] [<code>Bandmap: minor comment updates</code>](https://github.com/foldynl/QLog.git/commit/5b8c6e9365709285564a915ca4d9a9ccd829e9ed)
+- [ ] [<code>Bandmap: Window title contains currently selected band name</code>](https://github.com/foldynl/QLog.git/commit/2f3910639f0829bd6e6eff7bcb9c531f3045f44a)
+- [ ] [<code>Bandmap: Move new bandmap dock to center</code>](https://github.com/foldynl/QLog.git/commit/73ccca8e5e53d2ff7e37467922e0d11b3570a686)
+- [ ] [<code>Bandmap: new dock has the same size of the main bandmap dock</code>](https://github.com/foldynl/QLog.git/commit/653fbafa87ae50b60fbba268c0d037f772c2ad13)
+- [ ] [<code>Bandmap: if a zoom for the new widget is not set, try to get it from the main Bandmap widget</code>](https://github.com/foldynl/QLog.git/commit/2dba0f6fdc661398525d3536b384a4bcef6d17a9)
+- [ ] [<code>New Release started</code>](https://github.com/foldynl/QLog.git/commit/6cd5c092aafceb780c8745f24f7940289b25f098)
+- [ ] [<code>Added ISSUE Templates</code>](https://github.com/foldynl/QLog.git/commit/e3f368cdf656a3534bc958dc21aa90bdd05757e6)
+- [ ] [<code>WSJTX: Added support to receive messages from CSN SAT</code>](https://github.com/foldynl/QLog.git/commit/cf108827e1d065fcc02eeeba78825d0aa5f21137)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/099d5d1fb17520275933f2bb3ee1dbeb5d9ebda2)
+- [ ] [<code>Modified ISSUE Template</code>](https://github.com/foldynl/QLog.git/commit/ab8a68305bfee930ec4fbdf8a995cd9e7b06a122)
+- [ ] [<code>Modified ISSUE Template (2)</code>](https://github.com/foldynl/QLog.git/commit/f4e8363cea645ac4c7b092009173765ecc587a07)
+- [ ] [<code>Modified ISSUE Template (3)</code>](https://github.com/foldynl/QLog.git/commit/c0076e320d1e2763e7e43e190f8e9473ed285928)
+- [ ] [<code>Modified ISSUE Template (4)</code>](https://github.com/foldynl/QLog.git/commit/97ef014723f08d0299185cee929fd8ea4fbb0aba)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/8e47d36977fd488396130a6e19199681a3195bcf)
+- [ ] [<code>Added Michael Morgan and Kyle Boyle to About</code>](https://github.com/foldynl/QLog.git/commit/48619f3ec8010eb2f592095045bf02f8cfcd42de)
+- [ ] [<code>Added flatpak string to About dialog - improved diagnostic</code>](https://github.com/foldynl/QLog.git/commit/4498a8e85fb256cfd94429965fbfd89e50b4fba5)
+- [ ] [<code>About text minor change</code>](https://github.com/foldynl/QLog.git/commit/73b6cc59de9ab0723484307ffeda41eaebb808d0)
+- [ ] [<code>Fixed a compilation issue under QT 5.12</code>](https://github.com/foldynl/QLog.git/commit/4b7e1b4d5da6b5154fedec421134e21622861b35)
+- [ ] [<code>Fixing #618 - Fixed Winkey2 double echo characters</code>](https://github.com/foldynl/QLog.git/commit/c61d42cfbc24666a4d063c920856773e2194f9fb)
+- [ ] [<code>Fixed #618 - WinKey2: fixed speed pot malfunction</code>](https://github.com/foldynl/QLog.git/commit/e66856c701f168e715de6bf5e9a5e9920cad4969)
+- [ ] [<code>Winkey2: Added debug information</code>](https://github.com/foldynl/QLog.git/commit/d860e4db1d27a4a5411a410003f4c166d981eeed)
+- [ ] [<code>Winkey: Renamed the Winkey2 class to Winkey</code>](https://github.com/foldynl/QLog.git/commit/2aaec5302c36e767067c17e2a7a23949024bf6b9)
+- [ ] [<code>Winkey: The Winkey class can be use also for WinkeyV1 - removed Winkey version check</code>](https://github.com/foldynl/QLog.git/commit/b34da75b948a6b2f7c7b2caa67f4e908bc286be6)
+- [ ] [<code>Winkey - minor comment change</code>](https://github.com/foldynl/QLog.git/commit/097f5d95cc68ff2b7f01f0658ed67c168c31196a)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/515b4c1df3fa0793377642bab0bbfba373cba940)
+- [ ] [<code>Updated Readme and Changelog</code>](https://github.com/foldynl/QLog.git/commit/cee8f01731f97cc224be4fe39c0453ae10d2113c)
+- [ ] [<code>Added Kyle Boyle callsign</code>](https://github.com/foldynl/QLog.git/commit/8572eb4d175cf078aed71019a42be28ac8da2b2d)
+- [ ] [<code>Fixed #632 - BandMap Spots colour change after a QSO</code>](https://github.com/foldynl/QLog.git/commit/0e3fdbaa46485a83d50bbaefb8afb993ac57a9d8)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/311b4be38074908776d132b03cc513e262a07c2a)
+- [ ] [<code>HamlibDrv Rig: Enabled GetPWR, GetRIT, GetXIT and getKeySpeed for NETRIG</code>](https://github.com/foldynl/QLog.git/commit/6bfdfae79f890e7285fde56f7e08d05c5f6f2918)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/472e4a846c2012a63bd5878a525e70d0950db4d9)
+- [ ] [<code>Fixed #633 - eQSL - received QSL Msg is stored in the qslmsg_rcvd - no INTL equivalent</code>](https://github.com/foldynl/QLog.git/commit/56e295dd471686a66bcd022191f1d510f6594515)
+- [ ] [<code>Fixed #633 - QSO Detail show QSLMSG_RCVD field</code>](https://github.com/foldynl/QLog.git/commit/3de9ad4a9f0461c8745af150b4fc5fec4eee561f)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/77f71ab9bcc35d264a43987d98ad034a18f347c0)
+- [ ] [<code>Updated translations - AI</code>](https://github.com/foldynl/QLog.git/commit/7e7e7d442d26db5bf8d180ac4e142192fed15aa3)
+- [ ] [<code>Update NewContactWidget.cpp</code>](https://github.com/foldynl/QLog.git/commit/faf5fd157663caef5ebc28697bb170b366ec0467)
+- [ ] [<code>QSO Detail: Added editable QSLMSG_INTL and QSLMSG_RCVD</code>](https://github.com/foldynl/QLog.git/commit/a8a31502222f888f3aebfebde497d06aa6859a90)
+- [ ] [<code>eQSL QSL Merge: Added QSLMSG_RCVD merging</code>](https://github.com/foldynl/QLog.git/commit/5db3947a98508142caa82d12db19df484a8ecf78)
+- [ ] [<code>eQSL: Added an option to choose a QSLMsg field</code>](https://github.com/foldynl/QLog.git/commit/d568b621321bf5ed854d12912a2e2021b43d7182)
+- [ ] [<code>Activity Manager: QSL Message Sent as the Dynamic Field</code>](https://github.com/foldynl/QLog.git/commit/3001f6d073b3de094cc0df017f8078da06bc42c7)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/c68213025156c5bff1596b308691ef4010100459)
+- [ ] [<code>Updated translations - AI</code>](https://github.com/foldynl/QLog.git/commit/3fa2a6b194d84547887dc7e477ebcee9f6f12718)
+- [ ] [<code>Updated Timezone definition file - version 2025b</code>](https://github.com/foldynl/QLog.git/commit/dfd4a5a7f86bfe266262f1837e3a019ffa248d24)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/2c5e0beb9d5373ec3cb93c7d26c5e9abee650fe0)
+- [ ] [<code>Added Ubuntu 24.04 to Github Actions</code>](https://github.com/foldynl/QLog.git/commit/2ba2bbb4431673a68ac58c189315508729505329)
+- [ ] [<code>Preparation for release 0.43.0</code>](https://github.com/foldynl/QLog.git/commit/8f9c75894a8602717cce34601775bce5157bb80d)
+  - <sub>Tags: <code>v0.43.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
