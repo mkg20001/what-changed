@@ -80,6 +80,8 @@
 - [ ] [<code>Fix golang-ci reported issues</code>](https://github.com/lxc/distrobuilder/commit/57091a0e63ce657964c4c878f070f8a4a010b4bc)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>sources: Alpaquita - use source.variant not image.variant</code>](https://github.com/lxc/distrobuilder/commit/b13c4d5924daa74f1f20137f10d3e06f0ddae1ca)
+- [ ] [<code>Release distrobuilder 3.2</code>](https://github.com/lxc/distrobuilder/commit/131f6667967b19b5cb987eef4bb623a3c3f3d534)
+  - <sub>Tags: <code>distrobuilder-3.2</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -5473,6 +5475,7 @@
 - [ ] [<code>added checksum to detect corruption in netdev rename tasks (#20048)</code>](https://github.com/netdata/netdata.git/commit/62ea17c887f0e3a7633517a723a0b13dcbb4f116)
 - [ ] [<code>Fix releasing statements after databases are closed (#20045)</code>](https://github.com/netdata/netdata.git/commit/02fcff82d6c0707c0ebeb27f26e18c1f775b91f3)
 - [ ] [<code>fix cgroup netdev renames (#20050)</code>](https://github.com/netdata/netdata.git/commit/bead8823cc7ed4b4f5b1698605adefb46f0a5041)
+- [ ] [<code>daemon status 26e (#20051)</code>](https://github.com/netdata/netdata.git/commit/3f689e6be784422e7d6e6acd0cd21f7811ee2ef6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
