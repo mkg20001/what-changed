@@ -410,7 +410,39 @@
 - [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
 - [ ] [<code>incusd/main_forknet: Don't add gateway route if classless static routes are provided (as required by RFC 3442)</code>](https://github.com/lxc/incus/commit/de0958b1e3b43b3551c062eeb19d33145717029c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Add plumbing for state through OVN ACL functions</code>](https://github.com/lxc/incus/commit/053e8fe32f7828aeebb5f7ebfda114117471517b)
+- [ ] [<code>api: network_address_set</code>](https://github.com/lxc/incus/commit/95a1d2c95de3f4fd67d6aa67a045e38a3ac0eb7b)
+- [ ] [<code>doc: Add documentation for network address sets</code>](https://github.com/lxc/incus/commit/e86caf4915e208139c852e3a2d41ae1cc25cf407)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Add network address sets</code>](https://github.com/lxc/incus/commit/ff99d8c45c479fab3e1e0a0e93df044dbfa8dd94)
+- [ ] [<code>shared/api/lifecycle: Add events for network address sets</code>](https://github.com/lxc/incus/commit/c7ada676ca248514eb3f0a8993b43261b7ce26b7)
+- [ ] [<code>incusd/auth: Add network address sets</code>](https://github.com/lxc/incus/commit/1ea766c3f354c150169562cdc641c03cd7e4f019)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/c5b3e3459aeae86f81aaae25459cf5773bb49e5d)
+- [ ] [<code>incusd/network/ovn: Add GetAddressSet</code>](https://github.com/lxc/incus/commit/f5ee6b13b054385861371c3d45c1d84774b35392)
+- [ ] [<code>incusd/network/ovn: Add address set support</code>](https://github.com/lxc/incus/commit/38622e416805d2b03865f2c77249c17b0b67f4ee)
+- [ ] [<code>incusd/network/bridge: Add address set support</code>](https://github.com/lxc/incus/commit/5082c24517e8936f607584ccab7eb81bf75c9b16)
+- [ ] [<code>incusd/db/cluster: Add network_address_sets tables</code>](https://github.com/lxc/incus/commit/090cfaa44c1cfbab14443fb0ed3e5ccede8525b3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db: Add network address set functions</code>](https://github.com/lxc/incus/commit/53c3c8e7265f36cd1efb830cd391510cc2ca913f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/acl: Add address set support</code>](https://github.com/lxc/incus/commit/b97b015a6156f22ac4f984a895e929c6f7d4e35d)
+- [ ] [<code>incusd/lifecycle: Add network address set events</code>](https://github.com/lxc/incus/commit/61ef663e9a87cd983258fd114102b4dfb9d158e3)
+- [ ] [<code>incusd/firewall: Add address set support</code>](https://github.com/lxc/incus/commit/b768dfd82a94a653508f9ac9b7a02249a57f2202)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/projects: Clear address sets on delete</code>](https://github.com/lxc/incus/commit/c9596879b6bd434c254124483285d52733794d49)
+- [ ] [<code>incusd/network/address-set: Add new API</code>](https://github.com/lxc/incus/commit/97348db3d18a1142445eeaec5be807e84f3b0c38)
+- [ ] [<code>incusd/device/nic/ovn: Handle address set when cleaing ACLs</code>](https://github.com/lxc/incus/commit/067a228d09b50594e8a1438c475cf65be51df189)
+- [ ] [<code>client: Add network address set functions</code>](https://github.com/lxc/incus/commit/8eed85078297d295ec8b9ffd0283d4bef1d58028)
+- [ ] [<code>incus: Add network address-set sub-command</code>](https://github.com/lxc/incus/commit/251d559288db5357dbedb7df862f00abbe5c8b0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6f154c3b2f030ae3f18591c42b3bb520c6a1bf6e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add tests for address sets</code>](https://github.com/lxc/incus/commit/3bd23755e22cdc56ef337511345a04205190a1e7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/1f136dc49ac0ab72bdc6b84b71601f9caca08ed5)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/af2a1e37c80ede6d1a96eb0b74dbe73b18db2714)
 - [ ] [<code>incus-agent: Retry mounts to avoid kernel races</code>](https://github.com/lxc/incus/commit/b718c9348ce73f2526ffb50fe7b2eca6019caf7b)
+- [ ] [<code>incusd/operations: Fix WaitGet on op failure</code>](https://github.com/lxc/incus/commit/98c20bf05fb2e02838b20145bfd2f9159976dee2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2968,7 +3000,39 @@
 - [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
 - [ ] [<code>incusd/main_forknet: Don't add gateway route if classless static routes are provided (as required by RFC 3442)</code>](https://github.com/lxc/incus/commit/de0958b1e3b43b3551c062eeb19d33145717029c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Add plumbing for state through OVN ACL functions</code>](https://github.com/lxc/incus/commit/053e8fe32f7828aeebb5f7ebfda114117471517b)
+- [ ] [<code>api: network_address_set</code>](https://github.com/lxc/incus/commit/95a1d2c95de3f4fd67d6aa67a045e38a3ac0eb7b)
+- [ ] [<code>doc: Add documentation for network address sets</code>](https://github.com/lxc/incus/commit/e86caf4915e208139c852e3a2d41ae1cc25cf407)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Add network address sets</code>](https://github.com/lxc/incus/commit/ff99d8c45c479fab3e1e0a0e93df044dbfa8dd94)
+- [ ] [<code>shared/api/lifecycle: Add events for network address sets</code>](https://github.com/lxc/incus/commit/c7ada676ca248514eb3f0a8993b43261b7ce26b7)
+- [ ] [<code>incusd/auth: Add network address sets</code>](https://github.com/lxc/incus/commit/1ea766c3f354c150169562cdc641c03cd7e4f019)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/c5b3e3459aeae86f81aaae25459cf5773bb49e5d)
+- [ ] [<code>incusd/network/ovn: Add GetAddressSet</code>](https://github.com/lxc/incus/commit/f5ee6b13b054385861371c3d45c1d84774b35392)
+- [ ] [<code>incusd/network/ovn: Add address set support</code>](https://github.com/lxc/incus/commit/38622e416805d2b03865f2c77249c17b0b67f4ee)
+- [ ] [<code>incusd/network/bridge: Add address set support</code>](https://github.com/lxc/incus/commit/5082c24517e8936f607584ccab7eb81bf75c9b16)
+- [ ] [<code>incusd/db/cluster: Add network_address_sets tables</code>](https://github.com/lxc/incus/commit/090cfaa44c1cfbab14443fb0ed3e5ccede8525b3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/db: Add network address set functions</code>](https://github.com/lxc/incus/commit/53c3c8e7265f36cd1efb830cd391510cc2ca913f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/acl: Add address set support</code>](https://github.com/lxc/incus/commit/b97b015a6156f22ac4f984a895e929c6f7d4e35d)
+- [ ] [<code>incusd/lifecycle: Add network address set events</code>](https://github.com/lxc/incus/commit/61ef663e9a87cd983258fd114102b4dfb9d158e3)
+- [ ] [<code>incusd/firewall: Add address set support</code>](https://github.com/lxc/incus/commit/b768dfd82a94a653508f9ac9b7a02249a57f2202)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/projects: Clear address sets on delete</code>](https://github.com/lxc/incus/commit/c9596879b6bd434c254124483285d52733794d49)
+- [ ] [<code>incusd/network/address-set: Add new API</code>](https://github.com/lxc/incus/commit/97348db3d18a1142445eeaec5be807e84f3b0c38)
+- [ ] [<code>incusd/device/nic/ovn: Handle address set when cleaing ACLs</code>](https://github.com/lxc/incus/commit/067a228d09b50594e8a1438c475cf65be51df189)
+- [ ] [<code>client: Add network address set functions</code>](https://github.com/lxc/incus/commit/8eed85078297d295ec8b9ffd0283d4bef1d58028)
+- [ ] [<code>incus: Add network address-set sub-command</code>](https://github.com/lxc/incus/commit/251d559288db5357dbedb7df862f00abbe5c8b0c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/6f154c3b2f030ae3f18591c42b3bb520c6a1bf6e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Add tests for address sets</code>](https://github.com/lxc/incus/commit/3bd23755e22cdc56ef337511345a04205190a1e7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/1f136dc49ac0ab72bdc6b84b71601f9caca08ed5)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/af2a1e37c80ede6d1a96eb0b74dbe73b18db2714)
 - [ ] [<code>incus-agent: Retry mounts to avoid kernel races</code>](https://github.com/lxc/incus/commit/b718c9348ce73f2526ffb50fe7b2eca6019caf7b)
+- [ ] [<code>incusd/operations: Fix WaitGet on op failure</code>](https://github.com/lxc/incus/commit/98c20bf05fb2e02838b20145bfd2f9159976dee2)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3353,6 +3417,8 @@
 - [ ] [<code>Fix cargo-c with Rust 1.86 (#2750)</code>](https://github.com/AOMediaCodec/libavif/commit/2ab103529878273ce74d3b4c5e72383c9ce1e18d)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Reorganize the CI for more flexibility (#2747)</code>](https://github.com/AOMediaCodec/libavif/commit/bdcddd5c78f12b84ff707f0cdff7275c3559371b)
+- [ ] [<code>Update libyuv.cmd: a4f653b38 (1908)</code>](https://github.com/AOMediaCodec/libavif/commit/530f32ea49bfc91be02558ee6dddf5e9750f9b80)
+- [ ] [<code>Document how the encoder's tiling mode changes</code>](https://github.com/AOMediaCodec/libavif/commit/ea4cf4ff36f134445ea82229a6ad57cf01ef4cf0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -5502,6 +5568,7 @@
 - [ ] [<code>daemon status 27 (#20058)</code>](https://github.com/netdata/netdata.git/commit/1de029ebacafda2797ef0a0c734b203480d44c92)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-140-nightly.</code>](https://github.com/netdata/netdata.git/commit/05f564b4e518ca9e1f550c233e7d2444e301fd3d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
