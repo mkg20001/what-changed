@@ -442,7 +442,22 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/1f136dc49ac0ab72bdc6b84b71601f9caca08ed5)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/af2a1e37c80ede6d1a96eb0b74dbe73b18db2714)
 - [ ] [<code>incus-agent: Retry mounts to avoid kernel races</code>](https://github.com/lxc/incus/commit/b718c9348ce73f2526ffb50fe7b2eca6019caf7b)
+- [ ] [<code>incusd/instance: Add Name to ConfigReader interface</code>](https://github.com/lxc/incus/commit/04e1d913d5c67ae4ac2c574d49e7b6a38b991691)
+- [ ] [<code>incusd/storage: Use ConfigReader when possible</code>](https://github.com/lxc/incus/commit/029b7f3803caf0c3bebacbc42e0e097fe3f412fb)
+- [ ] [<code>incusd/response: Remove unused nolint</code>](https://github.com/lxc/incus/commit/5ac5def5180331f66130056c37cf6368196abe41)
+- [ ] [<code>incusd/storage: Add infrastructure to cache pre-fetch snapshot data</code>](https://github.com/lxc/incus/commit/475698391e04b759cbcafc2e6d99fd8ef25509dd)
+- [ ] [<code>incusd/instance: Use storage instance snapshot caching</code>](https://github.com/lxc/incus/commit/a92400a57d93bc1125ea9fdc317d83f2d5a48f50)
+- [ ] [<code>incusd/instance/lxc: Use existing storage pool in diskState</code>](https://github.com/lxc/incus/commit/88a2854167793b76e7a0150eee708deb7962aa8b)
+- [ ] [<code>incusd/storage/zfs: Implement snapshot size caching</code>](https://github.com/lxc/incus/commit/3cff9f34e647bafa55c2c7ce9c9496d45cce7468)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance: Move instance disk usage to driver logic</code>](https://github.com/lxc/incus/commit/8033df89b3838e1c645c0582fcefbf2f1bf0d9f1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/config: Update list of supported compressors</code>](https://github.com/lxc/incus/commit/f3eeab59a969d44b24ec0f2a5c086ab01ae960e1)
+- [ ] [<code>incusd/project: Update list of supported compressors</code>](https://github.com/lxc/incus/commit/72e693d98dd6d4ab9339794d1f322dc064828d55)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/52f3675847e2c3359cdf66611b6b54f7d6cc3adb)
 - [ ] [<code>incusd/operations: Fix WaitGet on op failure</code>](https://github.com/lxc/incus/commit/98c20bf05fb2e02838b20145bfd2f9159976dee2)
+- [ ] [<code>incusd/instance/lxc: Use pre-existing PATH when not overridden</code>](https://github.com/lxc/incus/commit/e5425cecd8aa52e7fe8b470ad9cb94ec0ca23bbe)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3032,7 +3047,22 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/1f136dc49ac0ab72bdc6b84b71601f9caca08ed5)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/af2a1e37c80ede6d1a96eb0b74dbe73b18db2714)
 - [ ] [<code>incus-agent: Retry mounts to avoid kernel races</code>](https://github.com/lxc/incus/commit/b718c9348ce73f2526ffb50fe7b2eca6019caf7b)
+- [ ] [<code>incusd/instance: Add Name to ConfigReader interface</code>](https://github.com/lxc/incus/commit/04e1d913d5c67ae4ac2c574d49e7b6a38b991691)
+- [ ] [<code>incusd/storage: Use ConfigReader when possible</code>](https://github.com/lxc/incus/commit/029b7f3803caf0c3bebacbc42e0e097fe3f412fb)
+- [ ] [<code>incusd/response: Remove unused nolint</code>](https://github.com/lxc/incus/commit/5ac5def5180331f66130056c37cf6368196abe41)
+- [ ] [<code>incusd/storage: Add infrastructure to cache pre-fetch snapshot data</code>](https://github.com/lxc/incus/commit/475698391e04b759cbcafc2e6d99fd8ef25509dd)
+- [ ] [<code>incusd/instance: Use storage instance snapshot caching</code>](https://github.com/lxc/incus/commit/a92400a57d93bc1125ea9fdc317d83f2d5a48f50)
+- [ ] [<code>incusd/instance/lxc: Use existing storage pool in diskState</code>](https://github.com/lxc/incus/commit/88a2854167793b76e7a0150eee708deb7962aa8b)
+- [ ] [<code>incusd/storage/zfs: Implement snapshot size caching</code>](https://github.com/lxc/incus/commit/3cff9f34e647bafa55c2c7ce9c9496d45cce7468)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance: Move instance disk usage to driver logic</code>](https://github.com/lxc/incus/commit/8033df89b3838e1c645c0582fcefbf2f1bf0d9f1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/config: Update list of supported compressors</code>](https://github.com/lxc/incus/commit/f3eeab59a969d44b24ec0f2a5c086ab01ae960e1)
+- [ ] [<code>incusd/project: Update list of supported compressors</code>](https://github.com/lxc/incus/commit/72e693d98dd6d4ab9339794d1f322dc064828d55)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/52f3675847e2c3359cdf66611b6b54f7d6cc3adb)
 - [ ] [<code>incusd/operations: Fix WaitGet on op failure</code>](https://github.com/lxc/incus/commit/98c20bf05fb2e02838b20145bfd2f9159976dee2)
+- [ ] [<code>incusd/instance/lxc: Use pre-existing PATH when not overridden</code>](https://github.com/lxc/incus/commit/e5425cecd8aa52e7fe8b470ad9cb94ec0ca23bbe)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3502,6 +3532,7 @@
 - [ ] [<code>lxc/conf: handle rootfs open_at error in lxc_mount_rootfs</code>](https://github.com/lxc/lxc/commit/becd5538e66a5437a661ca1c77580c8c1766b733)
 - [ ] [<code>lxc/caps: fix open /proc/sys/kernel/cap_last_cap</code>](https://github.com/lxc/lxc/commit/3c6ea300b5c087ab5987f7c5b97f139c91216810)
 - [ ] [<code>lxc/start: do prctl(PR_SET_DUMPABLE) after last uid/gid switch</code>](https://github.com/lxc/lxc/commit/e5cc7a6be277a3aa1873bcbf66eca6eaf3661ddf)
+- [ ] [<code>start: Re-introduce first SET_DUMPABLE call</code>](https://github.com/lxc/lxc/commit/0df81457d3da763614602042b8d0f763cae8c91a)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -5569,6 +5600,10 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-140-nightly.</code>](https://github.com/netdata/netdata.git/commit/05f564b4e518ca9e1f550c233e7d2444e301fd3d)
+- [ ] [<code>Observability cent points improved (#20052)</code>](https://github.com/netdata/netdata.git/commit/86eb74af33f450c93ea1bcca1ed56aa09b6562e5)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix memory leaks (#20062)</code>](https://github.com/netdata/netdata.git/commit/cfd98f4f93f0dc280aeab3e581431362c9f01617)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
