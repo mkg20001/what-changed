@@ -410,6 +410,7 @@
 - [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
 - [ ] [<code>incusd/main_forknet: Don't add gateway route if classless static routes are provided (as required by RFC 3442)</code>](https://github.com/lxc/incus/commit/de0958b1e3b43b3551c062eeb19d33145717029c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Retry mounts to avoid kernel races</code>](https://github.com/lxc/incus/commit/b718c9348ce73f2526ffb50fe7b2eca6019caf7b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -2967,6 +2968,7 @@
 - [ ] [<code>incusd/response: Remove redundant line break in error</code>](https://github.com/lxc/incus/commit/3eb3cfaacf0c559d2a5485cf7e24f35a28206323)
 - [ ] [<code>incusd/main_forknet: Don't add gateway route if classless static routes are provided (as required by RFC 3442)</code>](https://github.com/lxc/incus/commit/de0958b1e3b43b3551c062eeb19d33145717029c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Retry mounts to avoid kernel races</code>](https://github.com/lxc/incus/commit/b718c9348ce73f2526ffb50fe7b2eca6019caf7b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -6762,6 +6764,14 @@
 - [ ] [<code>github: Update downstream incus test by adding MinIO client</code>](https://github.com/cowsql/raft/commit/3fe2dc99dd4928c84fc384eb5b2d4613a4efa1fc)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: Update downstream incus test by adding MinIO client (#189)</code>](https://github.com/cowsql/raft/commit/5032ee9ad4b71f6b73e0c62643cd4c4405d85da8)
+- [ ] [<code>github: Don't run dqlite downstream tests</code>](https://github.com/cowsql/raft/commit/072ec04fc97cdd7607831637d7d2313b03cfa0e7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>github: Update incus downstream job</code>](https://github.com/cowsql/raft/commit/5e65164ebf52574d3d1264772b26bc279cf6c386)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>test: Don't fail when kernel has tmpfs with direct I/O support</code>](https://github.com/cowsql/raft/commit/c66e700c5d658d534f71c27ea666f22d86505320)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>github: Don't run dqlite downstream tests (#193)</code>](https://github.com/cowsql/raft/commit/1f4ed2f38f9c0d2c35ca4b6f549f78142d8426a9)
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -7018,6 +7028,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>ubus: fix uninitialized variable warning</code>](https://github.com/jow-/ucode/commit/67a4ad20f17264c7990db965120880fa9383ca20)
 - [ ] [<code>ubus: fix broken uc_ubus_defer()</code>](https://github.com/jow-/ucode/commit/2824982da336bbdaef4a52ced9ae54e4ed5ef1d4)
+- [ ] [<code>fs: implement fileno() on directory handles</code>](https://github.com/jow-/ucode/commit/567207a9bf16b9f287a5d0a59d3f9119d729e660)
+- [ ] [<code>fs: support passing directory handle or fd in chdir()</code>](https://github.com/jow-/ucode/commit/eb1d93235509784a9446623cef8b86f0693cba05)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
