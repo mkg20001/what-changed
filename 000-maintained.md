@@ -459,6 +459,14 @@
 - [ ] [<code>incusd/instance/lxc: Use pre-existing PATH when not overridden</code>](https://github.com/lxc/incus/commit/e5425cecd8aa52e7fe8b470ad9cb94ec0ca23bbe)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/acme: Include CA in generate certificate</code>](https://github.com/lxc/incus/commit/e32ff57f074adb9442e6a89918e3ee63be3ce1cb)
+- [ ] [<code>shared/ask: Fix bad validation logic</code>](https://github.com/lxc/incus/commit/0b5760427fa70ae6f9c69e5b3bfa6bd8b9ec0682)
+- [ ] [<code>incus-migrate: Fix golangci-lint warnings</code>](https://github.com/lxc/incus/commit/a778960e070e1617a1c0d8f8fb976fe5f925ddb5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-migrate: Rework command validation</code>](https://github.com/lxc/incus/commit/630d9f978f1c275e0a6bed971b1caa276ae493bf)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Require an instance type</code>](https://github.com/lxc/incus/commit/e504f569dde73033805808bdfd7d6cbd4ed73f63)
+- [ ] [<code>incus-migrate: Clarify arguments</code>](https://github.com/lxc/incus/commit/91a10d08793519dfd43e06f3817ece633ef8f114)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3065,6 +3073,14 @@
 - [ ] [<code>incusd/instance/lxc: Use pre-existing PATH when not overridden</code>](https://github.com/lxc/incus/commit/e5425cecd8aa52e7fe8b470ad9cb94ec0ca23bbe)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/acme: Include CA in generate certificate</code>](https://github.com/lxc/incus/commit/e32ff57f074adb9442e6a89918e3ee63be3ce1cb)
+- [ ] [<code>shared/ask: Fix bad validation logic</code>](https://github.com/lxc/incus/commit/0b5760427fa70ae6f9c69e5b3bfa6bd8b9ec0682)
+- [ ] [<code>incus-migrate: Fix golangci-lint warnings</code>](https://github.com/lxc/incus/commit/a778960e070e1617a1c0d8f8fb976fe5f925ddb5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-migrate: Rework command validation</code>](https://github.com/lxc/incus/commit/630d9f978f1c275e0a6bed971b1caa276ae493bf)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Require an instance type</code>](https://github.com/lxc/incus/commit/e504f569dde73033805808bdfd7d6cbd4ed73f63)
+- [ ] [<code>incus-migrate: Clarify arguments</code>](https://github.com/lxc/incus/commit/91a10d08793519dfd43e06f3817ece633ef8f114)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -5607,6 +5623,14 @@
 - [ ] [<code>Fix memory leaks (#20062)</code>](https://github.com/netdata/netdata.git/commit/cfd98f4f93f0dc280aeab3e581431362c9f01617)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-143-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a94c879ba8959c0ead8a37fcdcfd4cece20df78)
+- [ ] [<code>Improve agent-events web server (#20063)</code>](https://github.com/netdata/netdata.git/commit/b68d6cc47fea687cca7465d326b5c746341f633d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>agent-events: fix metric names (#20064)</code>](https://github.com/netdata/netdata.git/commit/4eb6012700b78cae4266dc47e64978707815e884)
+- [ ] [<code>agent-events: fix metrics (#20065)</code>](https://github.com/netdata/netdata.git/commit/60d8e6b1ceac3ea987a6b4ef05fb14b40960ec76)
+- [ ] [<code>ci: remove codeql-action build-mode none (#20066)</code>](https://github.com/netdata/netdata.git/commit/e49743563c285166a20326d929b16a42a11ea964)
+- [ ] [<code>agent-events: Consolidate metrics into a single labeled counter (#20067)</code>](https://github.com/netdata/netdata.git/commit/6680cc80dfe68e21e91fb3645426f96e99ff3745)
+- [ ] [<code>agent-events: fix more metrics (#20068)</code>](https://github.com/netdata/netdata.git/commit/0df2060dbff6818fb12d3a6f81b3eb7b9c5a1f60)
+- [ ] [<code>fix(go.d/prometheus): don't use "ratio" as unit (#20069)</code>](https://github.com/netdata/netdata.git/commit/ff26e44fa8656eb6dd4ad8ed770e74a5ff0052a1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
