@@ -3,13 +3,8 @@
 
 - [ ] [<code>attr.c: fix nla_reserve size check</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/c0df580adbd4d555ecc1962dbe88e91d75b67a4e)
 
-#### [libubox](https://git.openwrt.org/project/libubox.git): [6339204c212b2c3506554a8842030df5ec6fe9c6 → HEAD](https://git.openwrt.org/project/libubox.git/compare/6339204c212b2c3506554a8842030df5ec6fe9c6...HEAD)
+#### [libubox](https://git.openwrt.org/project/libubox.git): [3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a → HEAD](https://git.openwrt.org/project/libubox.git/compare/3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a...HEAD)
 
-- [ ] [<code>udebug: fix crash in udebug_entry_vprintf with longer strings</code>](https://git.openwrt.org/project/libubox.git/commit/c1be505732e6d254464973bdeacb955214c76c46)
-- [ ] [<code>CI: add build test run</code>](https://git.openwrt.org/project/libubox.git/commit/a2fce001819ea5144652ecb9f828f892a1648fb8)
-- [ ] [<code>CI: add CodeQL workflow tests</code>](https://git.openwrt.org/project/libubox.git/commit/12bda4bdb1971385fd787737e8eec5a2eeb0deed)
-- [ ] [<code>ustream: prevent recursive calls to the read callback</code>](https://git.openwrt.org/project/libubox.git/commit/eb9bcb64185ac155c02cc1a604692c4b00368324)
-- [ ] [<code>blob: constify attr argument to blob_memdup</code>](https://git.openwrt.org/project/libubox.git/commit/3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
