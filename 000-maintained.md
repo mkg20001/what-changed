@@ -458,6 +458,7 @@
 - [ ] [<code>incusd/operations: Fix WaitGet on op failure</code>](https://github.com/lxc/incus/commit/98c20bf05fb2e02838b20145bfd2f9159976dee2)
 - [ ] [<code>incusd/instance/lxc: Use pre-existing PATH when not overridden</code>](https://github.com/lxc/incus/commit/e5425cecd8aa52e7fe8b470ad9cb94ec0ca23bbe)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/acme: Include CA in generate certificate</code>](https://github.com/lxc/incus/commit/e32ff57f074adb9442e6a89918e3ee63be3ce1cb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3063,6 +3064,7 @@
 - [ ] [<code>incusd/operations: Fix WaitGet on op failure</code>](https://github.com/lxc/incus/commit/98c20bf05fb2e02838b20145bfd2f9159976dee2)
 - [ ] [<code>incusd/instance/lxc: Use pre-existing PATH when not overridden</code>](https://github.com/lxc/incus/commit/e5425cecd8aa52e7fe8b470ad9cb94ec0ca23bbe)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/acme: Include CA in generate certificate</code>](https://github.com/lxc/incus/commit/e32ff57f074adb9442e6a89918e3ee63be3ce1cb)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -5604,6 +5606,7 @@
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Fix memory leaks (#20062)</code>](https://github.com/netdata/netdata.git/commit/cfd98f4f93f0dc280aeab3e581431362c9f01617)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-143-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a94c879ba8959c0ead8a37fcdcfd4cece20df78)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
