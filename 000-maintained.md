@@ -467,6 +467,7 @@
 - [ ] [<code>incus-migrate: Require an instance type</code>](https://github.com/lxc/incus/commit/e504f569dde73033805808bdfd7d6cbd4ed73f63)
 - [ ] [<code>incus-migrate: Clarify arguments</code>](https://github.com/lxc/incus/commit/91a10d08793519dfd43e06f3817ece633ef8f114)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client/incus: Fix non-constant format strings</code>](https://github.com/lxc/incus/commit/a144648ce440ab80b70d81924c6ac06cb925e50f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3081,6 +3082,7 @@
 - [ ] [<code>incus-migrate: Require an instance type</code>](https://github.com/lxc/incus/commit/e504f569dde73033805808bdfd7d6cbd4ed73f63)
 - [ ] [<code>incus-migrate: Clarify arguments</code>](https://github.com/lxc/incus/commit/91a10d08793519dfd43e06f3817ece633ef8f114)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client/incus: Fix non-constant format strings</code>](https://github.com/lxc/incus/commit/a144648ce440ab80b70d81924c6ac06cb925e50f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
