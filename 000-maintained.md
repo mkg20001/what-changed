@@ -6,7 +6,7 @@
 - [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/fe76fb7c3672a27bccb32f89609148c09fde8568)
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
+#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [refs/tags/1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/refs/tags/1.3.0...HEAD)
 
 > Dropped common-licenses - no appropriate URL found OrderedDict({'attr_path': 'common-licenses', 'home_url': 'https://tracker.debian.org/pkg/base-files', 'src_url': 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz', 'urls': ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -83,7 +83,7 @@
 - [ ] [<code>Release distrobuilder 3.2</code>](https://github.com/lxc/distrobuilder/commit/131f6667967b19b5cb987eef4bb623a3c3f3d534)
   - <sub>Tags: <code>distrobuilder-3.2</code></sub>
 
-#### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.25.0...HEAD)
 
 - [ ] [<code>Install v0.25.0 by default</code>](https://github.com/stepchowfun/docuum/commit/1f9bf5ea4490e4d085453b914a17d5c2a82cc43e)
 - [ ] [<code>Update Rust to v1.78.0</code>](https://github.com/stepchowfun/docuum/commit/5646d3dc95ef0a6bc32318e04c3f96abe92a1d3d)
@@ -147,8 +147,45 @@
 - [ ] [<code>Update cla-check to v2 (#333)</code>](https://github.com/canonical/firmware-updater/commit/4ca9bb1bd4f485d0df31b32a18926992db3ca9a8)
 - [ ] [<code>ci: add osv scanner</code>](https://github.com/canonical/firmware-updater/commit/b6a31fa2b3a723932ebd83d62bdeb6e126909853)
 - [ ] [<code>ci: add osv scanner (#335)</code>](https://github.com/canonical/firmware-updater/commit/dc38a71a7c038e3bea6817b8918b844e32fda43c)
+- [ ] [<code>fix: exempt 'weblate' from cla check</code>](https://github.com/canonical/firmware-updater/commit/5603413f91f6d2e110a89cd9d9ad8b6d2a96f3ac)
+- [ ] [<code>fix: exempt 'weblate' from cla check (#340)</code>](https://github.com/canonical/firmware-updater/commit/2247e91a946e5fce62bae3672a6ec0c559f0954a)
+- [ ] [<code>fix(l10n): translated using Weblate (Italian)</code>](https://github.com/canonical/firmware-updater/commit/8345f0430979d2928e8dbe5ed3080f87b30079b6)
+- [ ] [<code>fix(l10n): translated using Weblate (Polish)</code>](https://github.com/canonical/firmware-updater/commit/298db1a79c14adcd7f10b27f3db44c97caa58954)
+- [ ] [<code>fix(l10n): translated using Weblate (French)</code>](https://github.com/canonical/firmware-updater/commit/73c6e1e030a237b287e97aae09faaba0b7a93792)
+- [ ] [<code>fix(l10n): translated using Weblate (Irish)</code>](https://github.com/canonical/firmware-updater/commit/a42c55387ebfd85842238e311524139b8aec250c)
+- [ ] [<code>fix(l10n): translated using Weblate (Hebrew)</code>](https://github.com/canonical/firmware-updater/commit/c34a6a936ccea9e938299b1153407501007b4c68)
+- [ ] [<code>fix(l10n): translated using Weblate (Polish)</code>](https://github.com/canonical/firmware-updater/commit/596ccc61f9ac0f768a680199cf25a61041faaaae)
+- [ ] [<code>fix(l10n): translated using Weblate (Slovak)</code>](https://github.com/canonical/firmware-updater/commit/e5de5783470a099c0dc87810dc4280c353cb2aa1)
+- [ ] [<code>fix(l10n): translated using Weblate (German)</code>](https://github.com/canonical/firmware-updater/commit/64ff81bab59f0aefd3c8f98bafdd4092eb76f33c)
+- [ ] [<code>fix(l10n): translated using Weblate (Swedish)</code>](https://github.com/canonical/firmware-updater/commit/7ad745da53456cae7e4bf9a6bd0f41a4bb147dd0)
+- [ ] [<code>fix(l10n): translated using Weblate (Ukrainian)</code>](https://github.com/canonical/firmware-updater/commit/9085cfdc484d70b7ea22390165f3f5bbedf91bb3)
+- [ ] [<code>fix(l10n): translated using Weblate (Czech)</code>](https://github.com/canonical/firmware-updater/commit/3ada79e2c0fe5836c08a76f8108ea0be5fc820f4)
+- [ ] [<code>fix(l10n): translated using Weblate (Esperanto)</code>](https://github.com/canonical/firmware-updater/commit/3a995a1f3364b93a4c6eef358ab5a5231aa0a8ec)
+- [ ] [<code>fix(l10n): translated using Weblate (Hebrew)</code>](https://github.com/canonical/firmware-updater/commit/83d4cf5234539a8dcace4775f5e4fedd6d51f259)
+- [ ] [<code>fix(l10n): translated using Weblate (Russian)</code>](https://github.com/canonical/firmware-updater/commit/eff8ad3ce3c4f14822502f864a445840a55217eb)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/canonical/firmware-updater/commit/f8e3ff557c8ea2ba714adc4d97380c7183eb664b)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/canonical/firmware-updater/commit/bb867d15859d0134a1621b17475610a114c1fa5b)
+- [ ] [<code>fix(l10n): translated using Weblate (Slovak)</code>](https://github.com/canonical/firmware-updater/commit/0251cd2705189294e8e7c608bbc5c384c33973eb)
+- [ ] [<code>fix(l10n): translated using Weblate (Occitan)</code>](https://github.com/canonical/firmware-updater/commit/070f40cfbdd85220bb261b04ccb7a77e3716c704)
+- [ ] [<code>fix(l10n): translated using Weblate (Indonesian)</code>](https://github.com/canonical/firmware-updater/commit/954e57531308cd34cfe8b65a870c6f2f09667428)
+- [ ] [<code>fix(l10n): translated using Weblate (Estonian)</code>](https://github.com/canonical/firmware-updater/commit/6b4f764779c8be2ca3581f4d4a33ec297c835d01)
+- [ ] [<code>fix(l10n): translated using Weblate (Korean)</code>](https://github.com/canonical/firmware-updater/commit/6b05cfe32552ba098bcc1f4eaea58902d7295d92)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Traditional Han script))</code>](https://github.com/canonical/firmware-updater/commit/41534eaf6e32bf5be1217efb8831d7c9c95ec794)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Traditional Han script))</code>](https://github.com/canonical/firmware-updater/commit/9d368f78e296e733c0604fd585bd8fcb957634c0)
+- [ ] [<code>fix(l10n): translated using Weblate (Occitan)</code>](https://github.com/canonical/firmware-updater/commit/08c5a3ff64683213d76046df0f486ec45886a4d5)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Traditional Han script))</code>](https://github.com/canonical/firmware-updater/commit/34ddbd8604558b7dadadc039a3f80e27d1f67206)
+- [ ] [<code>fix(l10n): translated using Weblate (Tamil)</code>](https://github.com/canonical/firmware-updater/commit/fd76ce9abeb6279d16189a3e91662de986ea80af)
+- [ ] [<code>fix(l10n): translated using Weblate (Occitan)</code>](https://github.com/canonical/firmware-updater/commit/32273cf9a6e95fb1e1e88d8669d1456cb5359ce9)
+- [ ] [<code>fix(l10n): translated using Weblate (Korean)</code>](https://github.com/canonical/firmware-updater/commit/9e2ba6e3c0b51ecc28c2055860c7e8f7bfb47196)
+- [ ] [<code>fix(l10n): translated using Weblate (Spanish)</code>](https://github.com/canonical/firmware-updater/commit/df719252dc5561e1901cdd1eb54238c5f9a9d448)
+- [ ] [<code>fix(l10n): translated using Weblate (Spanish)</code>](https://github.com/canonical/firmware-updater/commit/7297c045f4824d22d9a5274972c748cb7ca48eb6)
+- [ ] [<code>fix(l10n): translated using Weblate (Hungarian)</code>](https://github.com/canonical/firmware-updater/commit/f948ba020f187ce4849ae5bfeb6f56fca9555950)
+- [ ] [<code>fix(l10n): translated using Weblate (Dutch)</code>](https://github.com/canonical/firmware-updater/commit/89332a1d774d770705b8dab6bcc1b6ad5c87d244)
+- [ ] [<code>fix(l10n): translated using Weblate (Dutch)</code>](https://github.com/canonical/firmware-updater/commit/9d921e67b5b383260aa678942d4535b524f52286)
+- [ ] [<code>fix(l10n): translated using Weblate (Tamil)</code>](https://github.com/canonical/firmware-updater/commit/89cc3c06c8763058cd17fc89e1dc97c63724583c)
+- [ ] [<code>fix(l10n): translations update from Hosted Weblate (#325)</code>](https://github.com/canonical/firmware-updater/commit/f42587f516763c814f50b9c3beae8833af826ca4)
 
-#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
+#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [refs/tags/20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/refs/tags/20240730...HEAD)
 
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
@@ -290,7 +327,7 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.6 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.6...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [refs/tags/3.50.6 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/refs/tags/3.50.6...HEAD)
 
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
@@ -468,6 +505,7 @@
 - [ ] [<code>incus-migrate: Clarify arguments</code>](https://github.com/lxc/incus/commit/91a10d08793519dfd43e06f3817ece633ef8f114)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>client/incus: Fix non-constant format strings</code>](https://github.com/lxc/incus/commit/a144648ce440ab80b70d81924c6ac06cb925e50f)
+- [ ] [<code>doc/cluster: mDNS setup for cluster access</code>](https://github.com/lxc/incus/commit/bfaff66bddcd6ad20b4d5626fe128ad40e7b1f7d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3083,6 +3121,7 @@
 - [ ] [<code>incus-migrate: Clarify arguments</code>](https://github.com/lxc/incus/commit/91a10d08793519dfd43e06f3817ece633ef8f114)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>client/incus: Fix non-constant format strings</code>](https://github.com/lxc/incus/commit/a144648ce440ab80b70d81924c6ac06cb925e50f)
+- [ ] [<code>doc/cluster: mDNS setup for cluster access</code>](https://github.com/lxc/incus/commit/bfaff66bddcd6ad20b4d5626fe128ad40e7b1f7d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3094,7 +3133,7 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.1.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.1.1...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [refs/tags/v1.1.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/refs/tags/v1.1.1...HEAD)
 
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/175626239f501902b7eb6fccc81f971a58ae6fca)
 - [ ] [<code>Add ci-windows-shared-local.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3bd4c0f2647a0bedad773c039391c9840ca51cfc)
@@ -3469,6 +3508,8 @@
 - [ ] [<code>Reorganize the CI for more flexibility (#2747)</code>](https://github.com/AOMediaCodec/libavif/commit/bdcddd5c78f12b84ff707f0cdff7275c3559371b)
 - [ ] [<code>Update libyuv.cmd: a4f653b38 (1908)</code>](https://github.com/AOMediaCodec/libavif/commit/530f32ea49bfc91be02558ee6dddf5e9750f9b80)
 - [ ] [<code>Document how the encoder's tiling mode changes</code>](https://github.com/AOMediaCodec/libavif/commit/ea4cf4ff36f134445ea82229a6ad57cf01ef4cf0)
+- [ ] [<code>Update LocalRav1e.cmake: cargo-c v0.10.12</code>](https://github.com/AOMediaCodec/libavif/commit/4519ad7046388b7744077016d15d839650ba3341)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3554,7 +3595,7 @@
 - [ ] [<code>lxc/start: do prctl(PR_SET_DUMPABLE) after last uid/gid switch</code>](https://github.com/lxc/lxc/commit/e5cc7a6be277a3aa1873bcbf66eca6eaf3661ddf)
 - [ ] [<code>start: Re-introduce first SET_DUMPABLE call</code>](https://github.com/lxc/lxc/commit/0df81457d3da763614602042b8d0f763cae8c91a)
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.3...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
@@ -3597,7 +3638,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>proc_loadavg: Prevent integer overflow calculating the sleep interval</code>](https://github.com/lxc/lxcfs/commit/2ea556114102149b454b39e859a5c8ae8697c959)
 
-#### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
+#### [lxd-image-server](https://github.com/Avature/lxd-image-server): [refs/tags/0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/refs/tags/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5642,8 +5683,16 @@
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.37.0 to 0.38.0 in /src/go (#20000)</code>](https://github.com/netdata/netdata.git/commit/779e9bed2f2475f75409d04d98ef681d52096d56)
 - [ ] [<code>agent events No 7 (#20074)</code>](https://github.com/netdata/netdata.git/commit/59cba7e98140266b308c2508f2827c955da2830c)
 - [ ] [<code>Update README.md</code>](https://github.com/netdata/netdata.git/commit/acebaac34321dcaeba8e5edd6efb3cbc2e26ffe0)
+- [ ] [<code>Improve ephemerality docs, adding `remove-stale-node` (#20057)</code>](https://github.com/netdata/netdata.git/commit/fedc7fee64adaa807018cec902347830c768c31f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add Docker tags for the last few nightly builds. (#19734)</code>](https://github.com/netdata/netdata.git/commit/4627b4f163f676fff7221c939212907d61412271)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Improve jv2 load (#19995)</code>](https://github.com/netdata/netdata.git/commit/eb6942a2d2435ee76c144b87b2f0e646dd3d611d)
+- [ ] [<code>Cleanup during shutdown (#20078)</code>](https://github.com/netdata/netdata.git/commit/0b93209576214f865e7dac18a2e77824ebb6194f)
+- [ ] [<code>Fix crash during shutdown when there are pending messages to cloud (#20080)</code>](https://github.com/netdata/netdata.git/commit/3f824362d6a4a5017a747fdc77580390c37f32fb)
+- [ ] [<code>Do not try to index jv2 files during shutdown (#20079)</code>](https://github.com/netdata/netdata.git/commit/ec1b49f1f75e53c26763fd419da2cd46a830d396)
 
-#### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
+#### [netplan](https://github.com/canonical/netplan): [refs/tags/0.106.1 → HEAD](https://github.com/canonical/netplan/compare/refs/tags/0.106.1...HEAD)
 
 - [ ] [<code>Makefile: drop legacy build, add meson wrapper</code>](https://github.com/canonical/netplan/commit/5065ff5588906f901cd4e8a8e7deb27947f237cf)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
@@ -6357,7 +6406,7 @@
 > Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.28.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.28.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
+#### [oonf-olsrd2](https://github.com/OLSR/OONF): [refs/tags/v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/refs/tags/v0.15.1...HEAD)
 
 - [ ] [<code>Rename BUILDING to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/51d78c279f8997dbc83a756cfde496e284f11fae)
 - [ ] [<code>Add more Markdown formatting to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/074dd7c3ad63b70a21e86a1917a3afa21aaaed55)
@@ -6475,7 +6524,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Do not depend on specific networking.service</code>](https://github.com/OLSR/OONF/commit/11442aae30c9a5d31f8f2b5de71adc3b6ef30fbf)
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [refs/tags/v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/refs/tags/v1.12.0...HEAD)
 
 - [ ] [<code>build(appimage): fix outdated libadwaita</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a40ededfeea635c9baee2190eb0da14071e851fb)
 - [ ] [<code>ci(build): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9021e1912841a1ae337b5c066f0d7871cddef515)
@@ -6822,7 +6871,7 @@
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.43.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.43.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [refs/tags/v0.43.0 → HEAD](https://github.com/foldynl/QLog.git/compare/refs/tags/v0.43.0...HEAD)
 
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
@@ -6859,7 +6908,7 @@
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [0.10.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/0.10.0...HEAD)
+#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.10.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.10.0...HEAD)
 
 - [ ] [<code>Migrate to yarn v4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5d1e43611ce52be160e1e3e6129ad39c7659616e)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
@@ -6938,7 +6987,7 @@
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
 
-#### [ucode](https://github.com/jow-/ucode): [v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20231102...HEAD)
+#### [ucode](https://github.com/jow-/ucode): [refs/tags/v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/refs/tags/v0.0.20231102...HEAD)
 
 - [ ] [<code>uloop: support new interval and signal APIs</code>](https://github.com/jow-/ucode/commit/0352a33a0287f4ab464fbfee9907d68eb52aa70a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
