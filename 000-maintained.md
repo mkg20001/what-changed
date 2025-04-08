@@ -17,7 +17,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.1/dbeaver-ce-25.0.1-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.1/dbeaver-ce-25.0.1-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.2/dbeaver-ce-25.0.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.2/dbeaver-ce-25.0.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.1...HEAD)
@@ -250,6 +250,11 @@
 - [ ] [<code>fix: properly dispose VideoPlayerController </code>](https://github.com/krille-chan/fluffychat/commit/d9ee3fbec68eb61577261c72f978325f5894dfce)
 - [ ] [<code>feat: support inline video playback on macOS</code>](https://github.com/krille-chan/fluffychat/commit/cfcbf944ffaccffcec3a90e5a9080ab16471fdc0)
 - [ ] [<code>feat: clearly mark when a video is to be downloaded</code>](https://github.com/krille-chan/fluffychat/commit/706d0bf060a63d77a50b695a3583fe659c37725f)
+- [ ] [<code>build: Add libpciaccess0 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/16fe595903aafeb3a16ad246f914e00b2f9266bc)
+- [ ] [<code>Merge remote-tracking branch 'origin/main'</code>](https://github.com/krille-chan/fluffychat/commit/8592525ddd97f41716944074b10a73fcb5336318)
+- [ ] [<code>build: Add libpciaccess-dev for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/8a1d313a5e6387e144bfdd0b958f9a11bb90275b)
+- [ ] [<code>build: use singleInstance as launchmode</code>](https://github.com/krille-chan/fluffychat/commit/04dbd160952512306332712a32aa9c0148f5692e)
+- [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -313,6 +318,11 @@
 - [ ] [<code>fix: properly dispose VideoPlayerController </code>](https://github.com/krille-chan/fluffychat/commit/d9ee3fbec68eb61577261c72f978325f5894dfce)
 - [ ] [<code>feat: support inline video playback on macOS</code>](https://github.com/krille-chan/fluffychat/commit/cfcbf944ffaccffcec3a90e5a9080ab16471fdc0)
 - [ ] [<code>feat: clearly mark when a video is to be downloaded</code>](https://github.com/krille-chan/fluffychat/commit/706d0bf060a63d77a50b695a3583fe659c37725f)
+- [ ] [<code>build: Add libpciaccess0 for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/16fe595903aafeb3a16ad246f914e00b2f9266bc)
+- [ ] [<code>Merge remote-tracking branch 'origin/main'</code>](https://github.com/krille-chan/fluffychat/commit/8592525ddd97f41716944074b10a73fcb5336318)
+- [ ] [<code>build: Add libpciaccess-dev for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/8a1d313a5e6387e144bfdd0b958f9a11bb90275b)
+- [ ] [<code>build: use singleInstance as launchmode</code>](https://github.com/krille-chan/fluffychat/commit/04dbd160952512306332712a32aa9c0148f5692e)
+- [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3522,6 +3532,10 @@
 - [ ] [<code>Update LocalRav1e.cmake: cargo-c v0.10.12</code>](https://github.com/AOMediaCodec/libavif/commit/4519ad7046388b7744077016d15d839650ba3341)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Cast uint64_t to size_t before assigning to size_t</code>](https://github.com/AOMediaCodec/libavif/commit/80564451c096412f1ea262e009479bbef12aee8c)
+- [ ] [<code>Test manual and automatic tiling options</code>](https://github.com/AOMediaCodec/libavif/commit/b354936190e09069e6d5d111522478695e859361)
+- [ ] [<code>Complete AreImagesEqual() (#2757)</code>](https://github.com/AOMediaCodec/libavif/commit/a42f2e9aceddc1eca718aae13f9c6cfc25d0c38f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3606,6 +3620,11 @@
 - [ ] [<code>lxc/caps: fix open /proc/sys/kernel/cap_last_cap</code>](https://github.com/lxc/lxc/commit/3c6ea300b5c087ab5987f7c5b97f139c91216810)
 - [ ] [<code>lxc/start: do prctl(PR_SET_DUMPABLE) after last uid/gid switch</code>](https://github.com/lxc/lxc/commit/e5cc7a6be277a3aa1873bcbf66eca6eaf3661ddf)
 - [ ] [<code>start: Re-introduce first SET_DUMPABLE call</code>](https://github.com/lxc/lxc/commit/0df81457d3da763614602042b8d0f763cae8c91a)
+- [ ] [<code>README: Remove mention of old LXC version</code>](https://github.com/lxc/lxc/commit/ee022cf05c91ce28c15f7bc1b76850a9b4db9bf7)
+- [ ] [<code>bionic: Remove bionic detection and support</code>](https://github.com/lxc/lxc/commit/4d52fe8e0d6a649fd31c87cbe9778cbfa769c16a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>bionic: Remove custom getline, openpty and prlimit</code>](https://github.com/lxc/lxc/commit/fc65c6a7945cbe50e6a93063708285d07fc5e383)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
@@ -5710,6 +5729,19 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/0e10289f42a366c84e37624aaefa90fc1d911f75)
 - [ ] [<code>Address Chart name (Windows Hyper V) (#20060)</code>](https://github.com/netdata/netdata.git/commit/2e569e3333080bb2a35cff7a54e530450594516d)
 - [ ] [<code>Fix memory allocation for timer callback data when cancelling a timer (#20084)</code>](https://github.com/netdata/netdata.git/commit/23fc9b192069c74204c55c326fb2b9d32a69f7de)
+- [ ] [<code>Skip non-native builds in CI on PRs in most cases. (#20055)</code>](https://github.com/netdata/netdata.git/commit/64c9bcaf81e3a2ead3839eb449ea221cffffeb59)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-171-nightly.</code>](https://github.com/netdata/netdata.git/commit/35081c9513da24c6eb8343c37b2dc35e6bb03470)
+- [ ] [<code>Fix inverted logic for skipping non-native CI jobs on PRs. (#20087)</code>](https://github.com/netdata/netdata.git/commit/811014447ce90946c253fb14ff2c58f29ee2ace0)
+- [ ] [<code>Alerts and Notifications (#20085)</code>](https://github.com/netdata/netdata.git/commit/caf7a18601807450dedc93755a0c18a0d855786b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Update src/aclk/aclk-schemas to latest version. (#19940)</code>](https://github.com/netdata/netdata.git/commit/5731e30c56e29596bf3cbfadf0c5d4a74535af23)
+- [ ] [<code>Fix typo in .github/scripts/gen-docker-tags.py (#20089)</code>](https://github.com/netdata/netdata.git/commit/35281ed2d5813a433cc5233fb2ce6b6bb3682f33)
+- [ ] [<code>Windows Services Monitoring (#19990)</code>](https://github.com/netdata/netdata.git/commit/7fe26f677833b837a2d46ec399ddf9c23c1b5c24)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Regenerate integrations docs (#20091)</code>](https://github.com/netdata/netdata.git/commit/a24bd666f380553f7979fb459f74d7fc31c3671f)
+- [ ] [<code>daemon status 27c (#20088)</code>](https://github.com/netdata/netdata.git/commit/2b88dd847536586f7c637b5303d04b2cbce7c25e)
+- [ ] [<code>protected access against SIGBUS/SIGSEGV for journal v2 files (#20092)</code>](https://github.com/netdata/netdata.git/commit/1f0615c14d87b0ecf1bc0ed06f8407f72ef456a7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
