@@ -3126,6 +3126,9 @@
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
 - [ ] [<code>Move instance filtering logic from client to server</code>](https://github.com/zabbly/incus-ui-canonical/commit/94833b9cc536f7a809d0eb9c0e6dcefe5f76abe7)
+- [ ] [<code>Add check for null network state counter</code>](https://github.com/zabbly/incus-ui-canonical/commit/754d2541e193c863032b53544988736ee9b15970)
+- [ ] [<code>Merge pull request #54 from presztak/network_counters_nil</code>](https://github.com/zabbly/incus-ui-canonical/commit/cd25b163904e63d2e6ad0cacf412b5a68a9a9642)
+  - <sub>Tags: <code>incus-0.15.2</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5691,6 +5694,10 @@
 - [ ] [<code>Cleanup during shutdown (#20078)</code>](https://github.com/netdata/netdata.git/commit/0b93209576214f865e7dac18a2e77824ebb6194f)
 - [ ] [<code>Fix crash during shutdown when there are pending messages to cloud (#20080)</code>](https://github.com/netdata/netdata.git/commit/3f824362d6a4a5017a747fdc77580390c37f32fb)
 - [ ] [<code>Do not try to index jv2 files during shutdown (#20079)</code>](https://github.com/netdata/netdata.git/commit/ec1b49f1f75e53c26763fd419da2cd46a830d396)
+- [ ] [<code>daemon status 27b (#20076)</code>](https://github.com/netdata/netdata.git/commit/361f6219133416e481874263036febc292df2fe0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ACLK synchronization improvements (#20077)</code>](https://github.com/netdata/netdata.git/commit/0e73b7f06c29adaad2f615aec8f2d00dc9895a24)
 
 #### [netplan](https://github.com/canonical/netplan): [refs/tags/0.106.1 → HEAD](https://github.com/canonical/netplan/compare/refs/tags/0.106.1...HEAD)
 
