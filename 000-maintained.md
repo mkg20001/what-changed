@@ -6,7 +6,7 @@
 - [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/fe76fb7c3672a27bccb32f89609148c09fde8568)
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [refs/tags/1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/refs/tags/1.3.0...HEAD)
+#### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
 > Dropped common-licenses - no appropriate URL found OrderedDict({'attr_path': 'common-licenses', 'home_url': 'https://tracker.debian.org/pkg/base-files', 'src_url': 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz', 'urls': ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -83,7 +83,7 @@
 - [ ] [<code>Release distrobuilder 3.2</code>](https://github.com/lxc/distrobuilder/commit/131f6667967b19b5cb987eef4bb623a3c3f3d534)
   - <sub>Tags: <code>distrobuilder-3.2</code></sub>
 
-#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.25.0...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
 - [ ] [<code>Install v0.25.0 by default</code>](https://github.com/stepchowfun/docuum/commit/1f9bf5ea4490e4d085453b914a17d5c2a82cc43e)
 - [ ] [<code>Update Rust to v1.78.0</code>](https://github.com/stepchowfun/docuum/commit/5646d3dc95ef0a6bc32318e04c3f96abe92a1d3d)
@@ -185,7 +185,7 @@
 - [ ] [<code>fix(l10n): translated using Weblate (Tamil)</code>](https://github.com/canonical/firmware-updater/commit/89cc3c06c8763058cd17fc89e1dc97c63724583c)
 - [ ] [<code>fix(l10n): translations update from Hosted Weblate (#325)</code>](https://github.com/canonical/firmware-updater/commit/f42587f516763c814f50b9c3beae8833af826ca4)
 
-#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [refs/tags/20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/refs/tags/20240730...HEAD)
+#### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
@@ -327,7 +327,7 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [refs/tags/3.50.6 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/refs/tags/3.50.6...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.6 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.6...HEAD)
 
 
 #### [haste-server](https://github.com/toptal/haste-server): [b52b394bad909ddf151073987671e843540d91d6 → HEAD](https://github.com/toptal/haste-server/compare/b52b394bad909ddf151073987671e843540d91d6...HEAD)
@@ -506,6 +506,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>client/incus: Fix non-constant format strings</code>](https://github.com/lxc/incus/commit/a144648ce440ab80b70d81924c6ac06cb925e50f)
 - [ ] [<code>doc/cluster: mDNS setup for cluster access</code>](https://github.com/lxc/incus/commit/bfaff66bddcd6ad20b4d5626fe128ad40e7b1f7d)
+- [ ] [<code>cmd/storage_volume: Support filtering by a single keyword</code>](https://github.com/lxc/incus/commit/61618497a40a7153e1dc12f4cddecb28085b13de)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4ae06fa20b9304c282a83f9a8171f2db056c9b23)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3122,6 +3126,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>client/incus: Fix non-constant format strings</code>](https://github.com/lxc/incus/commit/a144648ce440ab80b70d81924c6ac06cb925e50f)
 - [ ] [<code>doc/cluster: mDNS setup for cluster access</code>](https://github.com/lxc/incus/commit/bfaff66bddcd6ad20b4d5626fe128ad40e7b1f7d)
+- [ ] [<code>cmd/storage_volume: Support filtering by a single keyword</code>](https://github.com/lxc/incus/commit/61618497a40a7153e1dc12f4cddecb28085b13de)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4ae06fa20b9304c282a83f9a8171f2db056c9b23)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3136,7 +3144,7 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [refs/tags/v1.1.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/refs/tags/v1.1.1...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.1.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.1.1...HEAD)
 
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/175626239f501902b7eb6fccc81f971a58ae6fca)
 - [ ] [<code>Add ci-windows-shared-local.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3bd4c0f2647a0bedad773c039391c9840ca51cfc)
@@ -3513,6 +3521,7 @@
 - [ ] [<code>Document how the encoder's tiling mode changes</code>](https://github.com/AOMediaCodec/libavif/commit/ea4cf4ff36f134445ea82229a6ad57cf01ef4cf0)
 - [ ] [<code>Update LocalRav1e.cmake: cargo-c v0.10.12</code>](https://github.com/AOMediaCodec/libavif/commit/4519ad7046388b7744077016d15d839650ba3341)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Cast uint64_t to size_t before assigning to size_t</code>](https://github.com/AOMediaCodec/libavif/commit/80564451c096412f1ea262e009479bbef12aee8c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3598,7 +3607,7 @@
 - [ ] [<code>lxc/start: do prctl(PR_SET_DUMPABLE) after last uid/gid switch</code>](https://github.com/lxc/lxc/commit/e5cc7a6be277a3aa1873bcbf66eca6eaf3661ddf)
 - [ ] [<code>start: Re-introduce first SET_DUMPABLE call</code>](https://github.com/lxc/lxc/commit/0df81457d3da763614602042b8d0f763cae8c91a)
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.3...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
@@ -3641,7 +3650,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>proc_loadavg: Prevent integer overflow calculating the sleep interval</code>](https://github.com/lxc/lxcfs/commit/2ea556114102149b454b39e859a5c8ae8697c959)
 
-#### [lxd-image-server](https://github.com/Avature/lxd-image-server): [refs/tags/0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/refs/tags/0.0.4...HEAD)
+#### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5698,8 +5707,11 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ACLK synchronization improvements (#20077)</code>](https://github.com/netdata/netdata.git/commit/0e73b7f06c29adaad2f615aec8f2d00dc9895a24)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/0e10289f42a366c84e37624aaefa90fc1d911f75)
+- [ ] [<code>Address Chart name (Windows Hyper V) (#20060)</code>](https://github.com/netdata/netdata.git/commit/2e569e3333080bb2a35cff7a54e530450594516d)
+- [ ] [<code>Fix memory allocation for timer callback data when cancelling a timer (#20084)</code>](https://github.com/netdata/netdata.git/commit/23fc9b192069c74204c55c326fb2b9d32a69f7de)
 
-#### [netplan](https://github.com/canonical/netplan): [refs/tags/0.106.1 → HEAD](https://github.com/canonical/netplan/compare/refs/tags/0.106.1...HEAD)
+#### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
 - [ ] [<code>Makefile: drop legacy build, add meson wrapper</code>](https://github.com/canonical/netplan/commit/5065ff5588906f901cd4e8a8e7deb27947f237cf)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
@@ -6413,7 +6425,7 @@
 > Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.28.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.28.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [oonf-olsrd2](https://github.com/OLSR/OONF): [refs/tags/v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/refs/tags/v0.15.1...HEAD)
+#### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
 
 - [ ] [<code>Rename BUILDING to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/51d78c279f8997dbc83a756cfde496e284f11fae)
 - [ ] [<code>Add more Markdown formatting to BUILDING.md</code>](https://github.com/OLSR/OONF/commit/074dd7c3ad63b70a21e86a1917a3afa21aaaed55)
@@ -6531,7 +6543,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Do not depend on specific networking.service</code>](https://github.com/OLSR/OONF/commit/11442aae30c9a5d31f8f2b5de71adc3b6ef30fbf)
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [refs/tags/v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/refs/tags/v1.12.0...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
 
 - [ ] [<code>build(appimage): fix outdated libadwaita</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a40ededfeea635c9baee2190eb0da14071e851fb)
 - [ ] [<code>ci(build): install clang</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9021e1912841a1ae337b5c066f0d7871cddef515)
@@ -6878,7 +6890,7 @@
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [refs/tags/v0.43.0 → HEAD](https://github.com/foldynl/QLog.git/compare/refs/tags/v0.43.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [v0.43.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.43.0...HEAD)
 
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
@@ -6915,59 +6927,8 @@
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.10.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.10.0...HEAD)
+#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.10.3 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.10.3...HEAD)
 
-- [ ] [<code>Migrate to yarn v4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5d1e43611ce52be160e1e3e6129ad39c7659616e)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Update README.md</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e09404738821992dd560ca9331e604b9b74afe31)
-- [ ] [<code>Add BUILDKIT_CONTEXT_KEEP_GIT_DIR=1 to README and docker-compose.yml</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a490b7bc8561f5c9357521a8c7635e25637f9af8)
-- [ ] [<code>Add BASE_PATH argument to Dockerfile</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ac3b40b188027c2968ac188c99f9c6a3c3b4cc0d)
-- [ ] [<code>Bump version to 0.10.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b112689b8c796686872cb573ad2a582dcaacf3b5)
-  - <sub>Tags: <code>0.10.1</code></sub>
-- [ ] [<code>Fix warnings in LoginPage test</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/03fcd8126a107b38fc942456538f2689a8a9cc57)
-- [ ] [<code>Transform code base to typescript</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2466af69360493e8268be096a7dcfa43cc43992c)
-  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
-- [ ] [<code>Extract date formatting into separate file</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/39dd6617dec72fff2a023b9558151544b12c8760)
-- [ ] [<code>Refactor random MXID and password generator</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/72f5ab937e93597af13fc89b284b081dce9ffdfa)
-- [ ] [<code>Update eslint for typescript</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4761ea36bceff01255a1f34e544bec32013bba52)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump react-is from 18.2.0 to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/04243eefa94e8a75aceb4c844976d64ffd76948c)
-- [ ] [<code>Bump react-test-renderer from 18.2.0 to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6fe8ab3115b6fa382996a93c072c2fcf6030fae9)
-- [ ] [<code>Bump ra-language-english from 4.16.15 to 4.16.16</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7061c5cbff4e55b3d5d6aa9a3bfb4b466eb869c6)
-- [ ] [<code>Bump ra-language-french from 4.16.15 to 4.16.16</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3ae4dcffab1366d57f2490be294bf2eadb98b41b)
-- [ ] [<code>Bump react and react-dom to 18.3.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/211e6e6915150530da36121243a92ff0f25ebde0)
-- [ ] [<code>Bump react-router and react-router-dom to 6.23.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ce1d806818b8f647cfab0c4c10161ed8ae59186d)
-- [ ] [<code>Bump react-admin to 4.16.17</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/91af5068c058dfac9c9ec015ca8611538fb3bfb6)
-- [ ] [<code>Dedupe yarn.lock</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9da953e78ae574f5b632c10748d824f9a00f2319)
-- [ ] [<code>Fix interface SynapseTranslationMessages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5b50838fb7ff5280e7ef72ef3ffdf0cd2be21dd4)
-- [ ] [<code>Bump eslint-plugin-unused-imports from 3.1.0 to 3.2.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/107d60704b2061a366a53bf3aae984279ed3d5c7)
-- [ ] [<code>Bump @typescript-eslint/parser from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5c492a2ecfed7487c135bda14ce2d71855590ac6)
-- [ ] [<code>Bump typescript-eslint from 7.7.1 to 7.8.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c9f5360779685e31d2ecff7211d89f94347f5b6b)
-- [ ] [<code>Add erasure status to users (#294)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fac09cb9bbc9b0a5fb594628eca9c72b1309862b)
-- [ ] [<code>Add locked status to users (#413)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b5ca951b323b4eeb3d6b901980264aca86c0050e)
-- [ ] [<code>Set relative base path in vite.config.ts (#536)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/002b63acadc1a6f3bfbf188d9a2f1f86a91f7ffa)
-  - <sub>Tags: <code>0.10.2</code></sub>
-- [ ] [<code>Bump vite from 5.2.9 to 5.2.12 (#545)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/882fe264b2fbc34ed9258f400c23d5b39bfb4042)
-- [ ] [<code>Bump softprops/action-gh-release from 2.0.4 to 2.0.5 (#530)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/38057de5c8a73ffb065497f2a3a6c52bfadcf262)
-- [ ] [<code>Bump @types/node from 20.12.7 to 20.14.0 (#547)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e21e44362c879ac41f47c580b04210842b6ff3d7)
-- [ ] [<code>Bump the npm_and_yarn group with 2 updates (#560)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbc7d328ccd56b0358b1aef813026e4cb3a07acc)
-- [ ] [<code>Support darkTheme (#459)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8cadfbd3afee7ae0a60a329694a4deff0a1b543c)
-- [ ] [<code>Bump @eslint/js from 9.1.1 to 9.6.0 (#563)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cbfdc1d6f66f6bbedb3770e5e8a0734abf255674)
-- [ ] [<code>Bump @typescript-eslint/parser from 7.8.0 to 7.15.0 (#565)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f8ac0403a98b023a98b3c69f0ae70eda89f0a65a)
-- [ ] [<code>Bump docker/build-push-action from 5 to 6 (#554)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/048a43f40442b7dcd5b7c3be04daac1978fa0f5f)
-- [ ] [<code>Bump softprops/action-gh-release from 2.0.5 to 2.0.6 (#561)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9c5e755f3f26e85696535b9ab5f21df951c81a59)
-- [ ] [<code>Bump eslint-plugin-jsx-a11y from 6.8.0 to 6.9.0 (#567)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c7f3fa9212ebd436650d38a25dc4ae7e807c5c9e)
-- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.0 to 4.6.3 (#572)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c07ec04b4e74351888c375b33bf9fb7b35d2bc9e)
-- [ ] [<code>Bump react-hook-form from 7.51.3 to 7.52.1 (#569)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cc51b3edbe877c2659a4b321a67fe3e97c6aa7a6)
-- [ ] [<code>Bump ts-jest from 29.1.2 to 29.2.0 (#570)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/659730ce2e0128a5339f651cf9ce9195dcb34914)
-- [ ] [<code>Bump @types/node from 20.14.0 to 20.14.10 (#568)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a5714386f40dcfcf1b3a36be2c1b4b87b23ef439)
-- [ ] [<code>Bump @mui/material from 5.15.16 to 5.16.0 (#571)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c48f560fb045d39334c7286b5752baaebe457911)
-- [ ] [<code>Dedupe yarn.lock</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f55e02730eb1825dd2dab1289d2a45000ad04d21)
-- [ ] [<code>Use custom data provider method for "delete_media"</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ec0fc14b6836ab7eb510b02d6463f33133935066)
-- [ ] [<code>Regroup source code</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fce6e03fc5a90e6feb9ce766a9cb41153e28a346)
-- [ ] [<code>Fix getWellKnownUrl()</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4adf2c2bca0c5850eebffbb551866b23ecc14084)
-- [ ] [<code>Bump version to 0.10.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ce5d6587c1326d914684f856e16bc3d6461ed447)
-  - <sub>Tags: <code>0.10.3</code></sub>
 - [ ] [<code>Add Russian language support (#581)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/eb626a7e9e365a69d2994fe0bed9f17be63af9b6)
 - [ ] [<code>Fix a few undefined records (#580)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/77cc93671077c7bd1eccd4d3a903f73c2a0403cb)
 - [ ] [<code>Upgrade eslint plugins</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f88eacee2a8ee309e47589677cd31dd697f29d0b)
@@ -6994,7 +6955,7 @@
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
 
-#### [ucode](https://github.com/jow-/ucode): [refs/tags/v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/refs/tags/v0.0.20231102...HEAD)
+#### [ucode](https://github.com/jow-/ucode): [v0.0.20231102 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20231102...HEAD)
 
 - [ ] [<code>uloop: support new interval and signal APIs</code>](https://github.com/jow-/ucode/commit/0352a33a0287f4ab464fbfee9907d68eb52aa70a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
