@@ -5748,6 +5748,8 @@
 - [ ] [<code>daemon status 27c (#20088)</code>](https://github.com/netdata/netdata.git/commit/2b88dd847536586f7c637b5303d04b2cbce7c25e)
 - [ ] [<code>protected access against SIGBUS/SIGSEGV for journal v2 files (#20092)</code>](https://github.com/netdata/netdata.git/commit/1f0615c14d87b0ecf1bc0ed06f8407f72ef456a7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-180-nightly.</code>](https://github.com/netdata/netdata.git/commit/17edfbd16980632b29829cd6a77b82ac80b25966)
+- [ ] [<code>Document switching from a native package to a static build (#20075)</code>](https://github.com/netdata/netdata.git/commit/c4682dab1475f1aca9c2daba19b14087ac373e33)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
