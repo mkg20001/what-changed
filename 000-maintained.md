@@ -255,6 +255,8 @@
 - [ ] [<code>build: Add libpciaccess-dev for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/8a1d313a5e6387e144bfdd0b958f9a11bb90275b)
 - [ ] [<code>build: use singleInstance as launchmode</code>](https://github.com/krille-chan/fluffychat/commit/04dbd160952512306332712a32aa9c0148f5692e)
 - [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
+- [ ] [<code>chore: Improve avatar designg</code>](https://github.com/krille-chan/fluffychat/commit/e0525940ba6e862070ee359f5f1f7c2d7a2aa41e)
+- [ ] [<code>chore: Follow up new room design</code>](https://github.com/krille-chan/fluffychat/commit/b6b1d6ddb144e457c757c80f4836340f0f2f5d1b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -323,6 +325,8 @@
 - [ ] [<code>build: Add libpciaccess-dev for snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/8a1d313a5e6387e144bfdd0b958f9a11bb90275b)
 - [ ] [<code>build: use singleInstance as launchmode</code>](https://github.com/krille-chan/fluffychat/commit/04dbd160952512306332712a32aa9c0148f5692e)
 - [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
+- [ ] [<code>chore: Improve avatar designg</code>](https://github.com/krille-chan/fluffychat/commit/e0525940ba6e862070ee359f5f1f7c2d7a2aa41e)
+- [ ] [<code>chore: Follow up new room design</code>](https://github.com/krille-chan/fluffychat/commit/b6b1d6ddb144e457c757c80f4836340f0f2f5d1b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -522,7 +526,7 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
 
-#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
+#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
 - [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
 - [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
@@ -3143,12 +3147,8 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
-- [ ] [<code>Move instance filtering logic from client to server</code>](https://github.com/zabbly/incus-ui-canonical/commit/94833b9cc536f7a809d0eb9c0e6dcefe5f76abe7)
-- [ ] [<code>Add check for null network state counter</code>](https://github.com/zabbly/incus-ui-canonical/commit/754d2541e193c863032b53544988736ee9b15970)
-- [ ] [<code>Merge pull request #54 from presztak/network_counters_nil</code>](https://github.com/zabbly/incus-ui-canonical/commit/cd25b163904e63d2e6ad0cacf412b5a68a9a9642)
-  - <sub>Tags: <code>incus-0.15.2</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3539,7 +3539,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 
-#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.3...HEAD)
+#### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
 - [ ] [<code>meson: Set DEVEL flag post release</code>](https://github.com/lxc/lxc/commit/05416319327e7bbd76c904d00d9c25027f63be5b)
   - <sub>Files: <code>meson.build</code></sub>
@@ -3632,7 +3632,7 @@
 - [ ] [<code>meson_options.txt: remove space before `:` for consistency</code>](https://github.com/lxc/lxc/commit/6cb00878e22099743301ead7c5e317d19fc823fe)
   - <sub>Files: <code>meson_options.txt</code></sub>
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
@@ -5750,6 +5750,17 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-180-nightly.</code>](https://github.com/netdata/netdata.git/commit/17edfbd16980632b29829cd6a77b82ac80b25966)
 - [ ] [<code>Document switching from a native package to a static build (#20075)</code>](https://github.com/netdata/netdata.git/commit/c4682dab1475f1aca9c2daba19b14087ac373e33)
+- [ ] [<code>SNMP Collector, use custom YAML files for auto single metrics (#20020)</code>](https://github.com/netdata/netdata.git/commit/ebe6daecc78319f47d2721d175ce02e1b3b4becf)
+- [ ] [<code>daemon status 27d (#20096)</code>](https://github.com/netdata/netdata.git/commit/b82d202729844be80c2e053c183cf124ab8b9044)
+- [ ] [<code>Fix ACLK Backoff Timeout Logic (#20095)</code>](https://github.com/netdata/netdata.git/commit/5b8a544053dd68d50e022234025b551932efb3a2)
+- [ ] [<code>Release memory after journalfile creation (#20094)</code>](https://github.com/netdata/netdata.git/commit/4bf664ffa2da90348a68bb2140c60a2dbc85412c)
+- [ ] [<code>Protection access improvements 1 (#20093)</code>](https://github.com/netdata/netdata.git/commit/3145497b885582fdef9eb1adaf1f4ac40b393290)
+- [ ] [<code>add the number of cpu cores to the status file (#20101)</code>](https://github.com/netdata/netdata.git/commit/7ce3f106b6a5e49707b2c161c9d197d3f9b140d6)
+- [ ] [<code>Fix Windows registry name crashes (#20097)</code>](https://github.com/netdata/netdata.git/commit/6024620fb618c0cd8be58e734256b1f508720154)
+- [ ] [<code>Improve journal file access error logging protect retention recalculation (#20098)</code>](https://github.com/netdata/netdata.git/commit/76d067971e69a30ed2fd1d21007752c6de7879a7)
+- [ ] [<code>Properly integrate dlib into our build system. (#20086)</code>](https://github.com/netdata/netdata.git/commit/e1ab60c2cbc81219da780bc0401c29fca37cc2d1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>daemon status 27f (#20104)</code>](https://github.com/netdata/netdata.git/commit/19444ecf9138246fe0c1717d0e80536e872c674c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
