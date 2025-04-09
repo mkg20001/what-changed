@@ -520,6 +520,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4ae06fa20b9304c282a83f9a8171f2db056c9b23)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.3 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.3...HEAD)
 
@@ -3140,6 +3141,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4ae06fa20b9304c282a83f9a8171f2db056c9b23)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.1...HEAD)
 
@@ -3625,6 +3627,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>bionic: Remove custom getline, openpty and prlimit</code>](https://github.com/lxc/lxc/commit/fc65c6a7945cbe50e6a93063708285d07fc5e383)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson_options.txt: don't use str when defining bool default values</code>](https://github.com/lxc/lxc/commit/368ac7b808ca58ce9f4d830861e70a8119fdddf4)
+  - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>meson_options.txt: remove space before `:` for consistency</code>](https://github.com/lxc/lxc/commit/6cb00878e22099743301ead7c5e317d19fc823fe)
+  - <sub>Files: <code>meson_options.txt</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [v6.0.3 → HEAD](https://github.com/lxc/lxcfs/compare/v6.0.3...HEAD)
 
