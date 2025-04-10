@@ -257,6 +257,9 @@
 - [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
 - [ ] [<code>chore: Improve avatar designg</code>](https://github.com/krille-chan/fluffychat/commit/e0525940ba6e862070ee359f5f1f7c2d7a2aa41e)
 - [ ] [<code>chore: Follow up new room design</code>](https://github.com/krille-chan/fluffychat/commit/b6b1d6ddb144e457c757c80f4836340f0f2f5d1b)
+- [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/a12c48fae640b59babf9307830bd66daaf40aac6)
+- [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/7e8f223eff6693b4d3b19bb90a999b8a4c61ee08)
+- [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/8db9a05071c51e51b0acacefb03af47b2ab0d926)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -327,6 +330,9 @@
 - [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
 - [ ] [<code>chore: Improve avatar designg</code>](https://github.com/krille-chan/fluffychat/commit/e0525940ba6e862070ee359f5f1f7c2d7a2aa41e)
 - [ ] [<code>chore: Follow up new room design</code>](https://github.com/krille-chan/fluffychat/commit/b6b1d6ddb144e457c757c80f4836340f0f2f5d1b)
+- [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/a12c48fae640b59babf9307830bd66daaf40aac6)
+- [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/7e8f223eff6693b4d3b19bb90a999b8a4c61ee08)
+- [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/8db9a05071c51e51b0acacefb03af47b2ab0d926)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -525,6 +531,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4ae06fa20b9304c282a83f9a8171f2db056c9b23)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
+- [ ] [<code>incusd: Implement Incus OS API forwarding</code>](https://github.com/lxc/incus/commit/dd590075c146ceb257657c9da8b0d3e453c05160)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3146,6 +3153,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4ae06fa20b9304c282a83f9a8171f2db056c9b23)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
+- [ ] [<code>incusd: Implement Incus OS API forwarding</code>](https://github.com/lxc/incus/commit/dd590075c146ceb257657c9da8b0d3e453c05160)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3538,6 +3546,8 @@
 - [ ] [<code>Complete AreImagesEqual() (#2757)</code>](https://github.com/AOMediaCodec/libavif/commit/a42f2e9aceddc1eca718aae13f9c6cfc25d0c38f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Allow lowercase GUID when parsing extended XMP in JPEG files. (#2756)</code>](https://github.com/AOMediaCodec/libavif/commit/fa379396e39f833463581a942a8936df53e704b1)
+- [ ] [<code>update libaom to v3.12.0-4-g65ddc22823 (#2759)</code>](https://github.com/AOMediaCodec/libavif/commit/27e25a207ed8841b78cc8d322de6d5f4d248ac84)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5767,6 +5777,9 @@
 - [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.9.1 to 1.9.2 in /src/go (#20109)</code>](https://github.com/netdata/netdata.git/commit/145a7a9689c8f3b3edd7bb507f4e923f1cd383f2)
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.38.0 to 0.39.0 in /src/go (#20108)</code>](https://github.com/netdata/netdata.git/commit/8a2338649efbf424c30d21a55a8cd31b820aaf6b)
 - [ ] [<code>docs: clarify static build transition process for EOL platforms (#20110)</code>](https://github.com/netdata/netdata.git/commit/000c71fc4e8ecd529d52eedad5c99ffb6788b316)
+- [ ] [<code>Fix completion marking in ACLK cancel node update timer logic (#20111)</code>](https://github.com/netdata/netdata.git/commit/756f73ea54128e312e8a8c980e592d4b4659730b)
+- [ ] [<code>netdatacli remove/mark stale, swap order in help output (#20113)</code>](https://github.com/netdata/netdata.git/commit/4da6596b269d3375ddf51dc35d455b3c8747c83f)
+- [ ] [<code>fix memory leaks (#20116)</code>](https://github.com/netdata/netdata.git/commit/57a55e4f7a70841f55ccd798355e808c42a756ec)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6471,6 +6484,10 @@
 - [ ] [<code>Allows non standard OVS setups</code>](https://github.com/canonical/netplan/commit/4abe2e7dcb8da8994796e702eae4d32ad893c844)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>tests:ethernets: Avoid test failure when systemd-resolved is not active</code>](https://github.com/canonical/netplan/commit/44ba6fbb32a79190b2fabeac5599cbce3cfaa2ea)
+- [ ] [<code>tests:regressions: Give more time for slow architectures, like riscv64</code>](https://github.com/canonical/netplan/commit/73516550ffd9e750c9ac606d102bb81c45b37aa1)
+- [ ] [<code>tests:integration: Avoid race condition with veth MAC addresses.</code>](https://github.com/canonical/netplan/commit/a2dfe29938b92a01b43572ba6c152d9c7b2e2f8e)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
