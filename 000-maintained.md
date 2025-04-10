@@ -5762,6 +5762,11 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>daemon status 27f (#20104)</code>](https://github.com/netdata/netdata.git/commit/19444ecf9138246fe0c1717d0e80536e872c674c)
 - [ ] [<code>Further improve ACLK synchronization shutdown (#20105)</code>](https://github.com/netdata/netdata.git/commit/ca0183d4b8b74833606b554e2cf6ad0cc9aa5dc6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-193-nightly.</code>](https://github.com/netdata/netdata.git/commit/16e1cf4e31d89b686908f6ddadc731a53f276743)
+- [ ] [<code>build(deps): bump github.com/prometheus-community/pro-bing from 0.6.1 to 0.7.0 in /src/go (#20107)</code>](https://github.com/netdata/netdata.git/commit/b3bba9a495410a33079534f39d7e23d9c0e897bb)
+- [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.9.1 to 1.9.2 in /src/go (#20109)</code>](https://github.com/netdata/netdata.git/commit/145a7a9689c8f3b3edd7bb507f4e923f1cd383f2)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.38.0 to 0.39.0 in /src/go (#20108)</code>](https://github.com/netdata/netdata.git/commit/8a2338649efbf424c30d21a55a8cd31b820aaf6b)
+- [ ] [<code>docs: clarify static build transition process for EOL platforms (#20110)</code>](https://github.com/netdata/netdata.git/commit/000c71fc4e8ecd529d52eedad5c99ffb6788b316)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
