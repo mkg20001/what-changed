@@ -5761,6 +5761,7 @@
 - [ ] [<code>Properly integrate dlib into our build system. (#20086)</code>](https://github.com/netdata/netdata.git/commit/e1ab60c2cbc81219da780bc0401c29fca37cc2d1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>daemon status 27f (#20104)</code>](https://github.com/netdata/netdata.git/commit/19444ecf9138246fe0c1717d0e80536e872c674c)
+- [ ] [<code>Further improve ACLK synchronization shutdown (#20105)</code>](https://github.com/netdata/netdata.git/commit/ca0183d4b8b74833606b554e2cf6ad0cc9aa5dc6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
