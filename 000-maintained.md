@@ -3563,6 +3563,9 @@
 - [ ] [<code>Update README.md (#2760)</code>](https://github.com/AOMediaCodec/libavif/commit/8d96793fe479d8a3263089ee263df3059d0f2224)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix large_dimensions_flag comment in mini code (#2758)</code>](https://github.com/AOMediaCodec/libavif/commit/a735e1511446ae550f5bee08161533e269395d42)
+- [ ] [<code>avifenc: Report the tiling options for each frame</code>](https://github.com/AOMediaCodec/libavif/commit/4fd6e33ebb95883e88abe681862751a5cb4a6ec2)
+- [ ] [<code>Change avifenc to start in automatic tiling mode</code>](https://github.com/AOMediaCodec/libavif/commit/1894a21d13a80805fb6e6d06ba2dee5de6a647d3)
+- [ ] [<code>Fix comment issues related to "auto"</code>](https://github.com/AOMediaCodec/libavif/commit/f990ee5e61476ee22be165d08444c52834db3dbd)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5797,6 +5800,8 @@
 - [ ] [<code>fix memory leaks (#20116)</code>](https://github.com/netdata/netdata.git/commit/57a55e4f7a70841f55ccd798355e808c42a756ec)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-201-nightly.</code>](https://github.com/netdata/netdata.git/commit/38d3abbf0ad7c3384c225119f5ecdee605eb56e8)
 - [ ] [<code>feat(system-info): improve Windows OS detection and categorization (#20117)</code>](https://github.com/netdata/netdata.git/commit/90a7ecb11a3854a1f4cfd584fcc155f66675ad2c)
+- [ ] [<code>Dump Netdata buildinfo during CI. (#19918)</code>](https://github.com/netdata/netdata.git/commit/686818c6b102a96a30be5ea48ca96437c99649aa)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
