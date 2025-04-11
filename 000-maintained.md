@@ -260,6 +260,9 @@
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/a12c48fae640b59babf9307830bd66daaf40aac6)
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/7e8f223eff6693b4d3b19bb90a999b8a4c61ee08)
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/8db9a05071c51e51b0acacefb03af47b2ab0d926)
+- [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/eeb630b5fcf68bbd9364c3dc5dfc9f089e75b96a)
+- [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/b6ebe960e7ecfd92f72627e3033a025b5875f5de)
+- [ ] [<code>build: Update matrix dart sdk to 0.39.0</code>](https://github.com/krille-chan/fluffychat/commit/32a856609ba570c2ad872fed2145c8d2f360b76a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -333,6 +336,9 @@
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/a12c48fae640b59babf9307830bd66daaf40aac6)
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/7e8f223eff6693b4d3b19bb90a999b8a4c61ee08)
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/8db9a05071c51e51b0acacefb03af47b2ab0d926)
+- [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/eeb630b5fcf68bbd9364c3dc5dfc9f089e75b96a)
+- [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/b6ebe960e7ecfd92f72627e3033a025b5875f5de)
+- [ ] [<code>build: Update matrix dart sdk to 0.39.0</code>](https://github.com/krille-chan/fluffychat/commit/32a856609ba570c2ad872fed2145c8d2f360b76a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -532,6 +538,9 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
 - [ ] [<code>incusd: Implement Incus OS API forwarding</code>](https://github.com/lxc/incus/commit/dd590075c146ceb257657c9da8b0d3e453c05160)
+- [ ] [<code>incusd/network/bridge: Port to gendoc</code>](https://github.com/lxc/incus/commit/5568ad8026a6cfb4aad5800940ff7c9102d5b770)
+- [ ] [<code>doc/network/bridge: Use gendoc</code>](https://github.com/lxc/incus/commit/70897e34e459f53e3ef1b189cc84706546e9aca1)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/47599d89620f930d7423f0a2252651504ad7e969)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3154,6 +3163,9 @@
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Clean leftover sockets on startup</code>](https://github.com/lxc/incus/commit/c8956c30a800bf949f1c083010db75a4eaaeac15)
 - [ ] [<code>incusd: Implement Incus OS API forwarding</code>](https://github.com/lxc/incus/commit/dd590075c146ceb257657c9da8b0d3e453c05160)
+- [ ] [<code>incusd/network/bridge: Port to gendoc</code>](https://github.com/lxc/incus/commit/5568ad8026a6cfb4aad5800940ff7c9102d5b770)
+- [ ] [<code>doc/network/bridge: Use gendoc</code>](https://github.com/lxc/incus/commit/70897e34e459f53e3ef1b189cc84706546e9aca1)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/47599d89620f930d7423f0a2252651504ad7e969)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3548,6 +3560,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Allow lowercase GUID when parsing extended XMP in JPEG files. (#2756)</code>](https://github.com/AOMediaCodec/libavif/commit/fa379396e39f833463581a942a8936df53e704b1)
 - [ ] [<code>update libaom to v3.12.0-4-g65ddc22823 (#2759)</code>](https://github.com/AOMediaCodec/libavif/commit/27e25a207ed8841b78cc8d322de6d5f4d248ac84)
+- [ ] [<code>Update README.md (#2760)</code>](https://github.com/AOMediaCodec/libavif/commit/8d96793fe479d8a3263089ee263df3059d0f2224)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix large_dimensions_flag comment in mini code (#2758)</code>](https://github.com/AOMediaCodec/libavif/commit/a735e1511446ae550f5bee08161533e269395d42)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5780,6 +5795,8 @@
 - [ ] [<code>Fix completion marking in ACLK cancel node update timer logic (#20111)</code>](https://github.com/netdata/netdata.git/commit/756f73ea54128e312e8a8c980e592d4b4659730b)
 - [ ] [<code>netdatacli remove/mark stale, swap order in help output (#20113)</code>](https://github.com/netdata/netdata.git/commit/4da6596b269d3375ddf51dc35d455b3c8747c83f)
 - [ ] [<code>fix memory leaks (#20116)</code>](https://github.com/netdata/netdata.git/commit/57a55e4f7a70841f55ccd798355e808c42a756ec)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-201-nightly.</code>](https://github.com/netdata/netdata.git/commit/38d3abbf0ad7c3384c225119f5ecdee605eb56e8)
+- [ ] [<code>feat(system-info): improve Windows OS detection and categorization (#20117)</code>](https://github.com/netdata/netdata.git/commit/90a7ecb11a3854a1f4cfd584fcc155f66675ad2c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
