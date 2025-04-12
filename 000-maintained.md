@@ -546,6 +546,17 @@
 - [ ] [<code>incusd/storage: Avoid querying pending pool status</code>](https://github.com/lxc/incus/commit/720b4ad9b9f33afabaa34d1b240aca944a13286a)
 - [ ] [<code>incusd/storage/linstor: Fix pool size reporting</code>](https://github.com/lxc/incus/commit/681fa92beb463972f25df5689e1d550d6b6c48de)
 - [ ] [<code>incusd/patches: Refresh OpenFGA model for address sets</code>](https://github.com/lxc/incus/commit/75e8253713d79580c761f85f2079647ca3b88374)
+- [ ] [<code>incusd/network/common: Add gendoc comments for forward configurations</code>](https://github.com/lxc/incus/commit/3fc4d94ce74d9054f7b5ccf7ada2d6d0857aebd0)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/10e2fed70f41f21c4b92af3d8a1c8e999906e0a2)
+- [ ] [<code>doc/network/forward: Use gendoc for network forwards</code>](https://github.com/lxc/incus/commit/63d7e9a196c6a7819bcaf1d57bdbaf36751754b7)
+- [ ] [<code>api: server_logging</code>](https://github.com/lxc/incus/commit/6a6f84ec3ee96352b7e91106f2e087c7e4d5bb0d)
+- [ ] [<code>incus/server/logging: Add new logging mechanism with syslog and loki support</code>](https://github.com/lxc/incus/commit/45746567434b58b965e90acd43a12cfe27850ecb)
+- [ ] [<code>incus/server/config: Support for new logging.* config keys</code>](https://github.com/lxc/incus/commit/6902647891b4876eae4780b4ed63adb043fb0a96)
+- [ ] [<code>incusd: Use new logging mechanism</code>](https://github.com/lxc/incus/commit/4d757aec56e207aae7a044142b3c127a33d63552)
+- [ ] [<code>incus/server/events: Fix issue with race condition</code>](https://github.com/lxc/incus/commit/3e71a02ff7c435e4b53c735d8e2bd97870fde1a6)
+- [ ] [<code>incus/server/loki: Remove loki package</code>](https://github.com/lxc/incus/commit/4ba4c80a40110e596672ba68ffbb206d91e8a251)
+- [ ] [<code>doc: Documentation for new logging mechanism</code>](https://github.com/lxc/incus/commit/0925e1854d7fee967d0b664fd59632a61e66d01f)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/df1d871e9f85ca86eb2235d22cb73feb509d975d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3176,6 +3187,17 @@
 - [ ] [<code>incusd/storage: Avoid querying pending pool status</code>](https://github.com/lxc/incus/commit/720b4ad9b9f33afabaa34d1b240aca944a13286a)
 - [ ] [<code>incusd/storage/linstor: Fix pool size reporting</code>](https://github.com/lxc/incus/commit/681fa92beb463972f25df5689e1d550d6b6c48de)
 - [ ] [<code>incusd/patches: Refresh OpenFGA model for address sets</code>](https://github.com/lxc/incus/commit/75e8253713d79580c761f85f2079647ca3b88374)
+- [ ] [<code>incusd/network/common: Add gendoc comments for forward configurations</code>](https://github.com/lxc/incus/commit/3fc4d94ce74d9054f7b5ccf7ada2d6d0857aebd0)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/10e2fed70f41f21c4b92af3d8a1c8e999906e0a2)
+- [ ] [<code>doc/network/forward: Use gendoc for network forwards</code>](https://github.com/lxc/incus/commit/63d7e9a196c6a7819bcaf1d57bdbaf36751754b7)
+- [ ] [<code>api: server_logging</code>](https://github.com/lxc/incus/commit/6a6f84ec3ee96352b7e91106f2e087c7e4d5bb0d)
+- [ ] [<code>incus/server/logging: Add new logging mechanism with syslog and loki support</code>](https://github.com/lxc/incus/commit/45746567434b58b965e90acd43a12cfe27850ecb)
+- [ ] [<code>incus/server/config: Support for new logging.* config keys</code>](https://github.com/lxc/incus/commit/6902647891b4876eae4780b4ed63adb043fb0a96)
+- [ ] [<code>incusd: Use new logging mechanism</code>](https://github.com/lxc/incus/commit/4d757aec56e207aae7a044142b3c127a33d63552)
+- [ ] [<code>incus/server/events: Fix issue with race condition</code>](https://github.com/lxc/incus/commit/3e71a02ff7c435e4b53c735d8e2bd97870fde1a6)
+- [ ] [<code>incus/server/loki: Remove loki package</code>](https://github.com/lxc/incus/commit/4ba4c80a40110e596672ba68ffbb206d91e8a251)
+- [ ] [<code>doc: Documentation for new logging mechanism</code>](https://github.com/lxc/incus/commit/0925e1854d7fee967d0b664fd59632a61e66d01f)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/df1d871e9f85ca86eb2235d22cb73feb509d975d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3669,6 +3691,7 @@
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>meson_options.txt: remove space before `:` for consistency</code>](https://github.com/lxc/lxc/commit/6cb00878e22099743301ead7c5e317d19fc823fe)
   - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>selinux: fix typo (AppArmor)</code>](https://github.com/lxc/lxc/commit/c698307346ed150bc6995ee787160ec766f4be9e)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5812,6 +5835,7 @@
 - [ ] [<code>feat(system-info): improve Windows OS detection and categorization (#20117)</code>](https://github.com/netdata/netdata.git/commit/90a7ecb11a3854a1f4cfd584fcc155f66675ad2c)
 - [ ] [<code>Dump Netdata buildinfo during CI. (#19918)</code>](https://github.com/netdata/netdata.git/commit/686818c6b102a96a30be5ea48ca96437c99649aa)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/0cd2a7f7299bc13475ad626a3a57972c672ec53d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
