@@ -263,6 +263,8 @@
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/eeb630b5fcf68bbd9364c3dc5dfc9f089e75b96a)
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/b6ebe960e7ecfd92f72627e3033a025b5875f5de)
 - [ ] [<code>build: Update matrix dart sdk to 0.39.0</code>](https://github.com/krille-chan/fluffychat/commit/32a856609ba570c2ad872fed2145c8d2f360b76a)
+- [ ] [<code>chore: Follow up user dialog theme</code>](https://github.com/krille-chan/fluffychat/commit/ceeb262a5540b73f23431b20c8854dbae5024e8f)
+- [ ] [<code>chore: Use Cupertino Activity Indicator in ChatEventList</code>](https://github.com/krille-chan/fluffychat/commit/764c614c144bf90e71ea869dbb43c90aa245623a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -339,6 +341,8 @@
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/eeb630b5fcf68bbd9364c3dc5dfc9f089e75b96a)
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/b6ebe960e7ecfd92f72627e3033a025b5875f5de)
 - [ ] [<code>build: Update matrix dart sdk to 0.39.0</code>](https://github.com/krille-chan/fluffychat/commit/32a856609ba570c2ad872fed2145c8d2f360b76a)
+- [ ] [<code>chore: Follow up user dialog theme</code>](https://github.com/krille-chan/fluffychat/commit/ceeb262a5540b73f23431b20c8854dbae5024e8f)
+- [ ] [<code>chore: Use Cupertino Activity Indicator in ChatEventList</code>](https://github.com/krille-chan/fluffychat/commit/764c614c144bf90e71ea869dbb43c90aa245623a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
