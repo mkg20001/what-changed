@@ -541,6 +541,11 @@
 - [ ] [<code>incusd/network/bridge: Port to gendoc</code>](https://github.com/lxc/incus/commit/5568ad8026a6cfb4aad5800940ff7c9102d5b770)
 - [ ] [<code>doc/network/bridge: Use gendoc</code>](https://github.com/lxc/incus/commit/70897e34e459f53e3ef1b189cc84706546e9aca1)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/47599d89620f930d7423f0a2252651504ad7e969)
+- [ ] [<code>doc: Use `$USER` instead of YOUR-USERNAME</code>](https://github.com/lxc/incus/commit/8014b6c3461738880f8fd599aaecf8f79d89555a)
+- [ ] [<code>doc: Ignore link that's blocking Azure</code>](https://github.com/lxc/incus/commit/16211e15e2af9ca8ce2c4d98d7a2b7012d65b624)
+- [ ] [<code>incusd/storage: Avoid querying pending pool status</code>](https://github.com/lxc/incus/commit/720b4ad9b9f33afabaa34d1b240aca944a13286a)
+- [ ] [<code>incusd/storage/linstor: Fix pool size reporting</code>](https://github.com/lxc/incus/commit/681fa92beb463972f25df5689e1d550d6b6c48de)
+- [ ] [<code>incusd/patches: Refresh OpenFGA model for address sets</code>](https://github.com/lxc/incus/commit/75e8253713d79580c761f85f2079647ca3b88374)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3166,6 +3171,11 @@
 - [ ] [<code>incusd/network/bridge: Port to gendoc</code>](https://github.com/lxc/incus/commit/5568ad8026a6cfb4aad5800940ff7c9102d5b770)
 - [ ] [<code>doc/network/bridge: Use gendoc</code>](https://github.com/lxc/incus/commit/70897e34e459f53e3ef1b189cc84706546e9aca1)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/47599d89620f930d7423f0a2252651504ad7e969)
+- [ ] [<code>doc: Use `$USER` instead of YOUR-USERNAME</code>](https://github.com/lxc/incus/commit/8014b6c3461738880f8fd599aaecf8f79d89555a)
+- [ ] [<code>doc: Ignore link that's blocking Azure</code>](https://github.com/lxc/incus/commit/16211e15e2af9ca8ce2c4d98d7a2b7012d65b624)
+- [ ] [<code>incusd/storage: Avoid querying pending pool status</code>](https://github.com/lxc/incus/commit/720b4ad9b9f33afabaa34d1b240aca944a13286a)
+- [ ] [<code>incusd/storage/linstor: Fix pool size reporting</code>](https://github.com/lxc/incus/commit/681fa92beb463972f25df5689e1d550d6b6c48de)
+- [ ] [<code>incusd/patches: Refresh OpenFGA model for address sets</code>](https://github.com/lxc/incus/commit/75e8253713d79580c761f85f2079647ca3b88374)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
