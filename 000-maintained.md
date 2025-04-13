@@ -82,6 +82,8 @@
 - [ ] [<code>sources: Alpaquita - use source.variant not image.variant</code>](https://github.com/lxc/distrobuilder/commit/b13c4d5924daa74f1f20137f10d3e06f0ddae1ca)
 - [ ] [<code>Release distrobuilder 3.2</code>](https://github.com/lxc/distrobuilder/commit/131f6667967b19b5cb987eef4bb623a3c3f3d534)
   - <sub>Tags: <code>distrobuilder-3.2</code></sub>
+- [ ] [<code>sources/archlinux: Add riscv64 support</code>](https://github.com/lxc/distrobuilder/commit/454b1cf9b267c95c26e6adf958c093f0dcd62b5b)
+- [ ] [<code>github: Don't run gomod update</code>](https://github.com/lxc/distrobuilder/commit/90b6f60fab31066ec4a1f3d2bd2632eeebd32888)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -265,6 +267,8 @@
 - [ ] [<code>build: Update matrix dart sdk to 0.39.0</code>](https://github.com/krille-chan/fluffychat/commit/32a856609ba570c2ad872fed2145c8d2f360b76a)
 - [ ] [<code>chore: Follow up user dialog theme</code>](https://github.com/krille-chan/fluffychat/commit/ceeb262a5540b73f23431b20c8854dbae5024e8f)
 - [ ] [<code>chore: Use Cupertino Activity Indicator in ChatEventList</code>](https://github.com/krille-chan/fluffychat/commit/764c614c144bf90e71ea869dbb43c90aa245623a)
+- [ ] [<code>chore: Follow up permissions slider dialog</code>](https://github.com/krille-chan/fluffychat/commit/2873a047f878cb52acd36bf8e97bf717f935adf5)
+- [ ] [<code>refactor: Implement avatar image viewer and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/3594fa4f6dc640e34a9cb4c226a8e48409b69020)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -343,6 +347,8 @@
 - [ ] [<code>build: Update matrix dart sdk to 0.39.0</code>](https://github.com/krille-chan/fluffychat/commit/32a856609ba570c2ad872fed2145c8d2f360b76a)
 - [ ] [<code>chore: Follow up user dialog theme</code>](https://github.com/krille-chan/fluffychat/commit/ceeb262a5540b73f23431b20c8854dbae5024e8f)
 - [ ] [<code>chore: Use Cupertino Activity Indicator in ChatEventList</code>](https://github.com/krille-chan/fluffychat/commit/764c614c144bf90e71ea869dbb43c90aa245623a)
+- [ ] [<code>chore: Follow up permissions slider dialog</code>](https://github.com/krille-chan/fluffychat/commit/2873a047f878cb52acd36bf8e97bf717f935adf5)
+- [ ] [<code>refactor: Implement avatar image viewer and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/3594fa4f6dc640e34a9cb4c226a8e48409b69020)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -561,6 +567,9 @@
 - [ ] [<code>incus/server/loki: Remove loki package</code>](https://github.com/lxc/incus/commit/4ba4c80a40110e596672ba68ffbb206d91e8a251)
 - [ ] [<code>doc: Documentation for new logging mechanism</code>](https://github.com/lxc/incus/commit/0925e1854d7fee967d0b664fd59632a61e66d01f)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/df1d871e9f85ca86eb2235d22cb73feb509d975d)
+- [ ] [<code>incusd/device/tpm: Add gendoc comments</code>](https://github.com/lxc/incus/commit/2f882366a1bd1250572c1d307e92b72efb7c4ddb)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/15130ba311cfd27ee5c7c47b4c52f1046862166a)
+- [ ] [<code>doc: Use gendoc for TPM devices</code>](https://github.com/lxc/incus/commit/1a1f314d5e664e8d7868731b230b5e75ca90d7c4)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3202,6 +3211,9 @@
 - [ ] [<code>incus/server/loki: Remove loki package</code>](https://github.com/lxc/incus/commit/4ba4c80a40110e596672ba68ffbb206d91e8a251)
 - [ ] [<code>doc: Documentation for new logging mechanism</code>](https://github.com/lxc/incus/commit/0925e1854d7fee967d0b664fd59632a61e66d01f)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/df1d871e9f85ca86eb2235d22cb73feb509d975d)
+- [ ] [<code>incusd/device/tpm: Add gendoc comments</code>](https://github.com/lxc/incus/commit/2f882366a1bd1250572c1d307e92b72efb7c4ddb)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/15130ba311cfd27ee5c7c47b4c52f1046862166a)
+- [ ] [<code>doc: Use gendoc for TPM devices</code>](https://github.com/lxc/incus/commit/1a1f314d5e664e8d7868731b230b5e75ca90d7c4)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
