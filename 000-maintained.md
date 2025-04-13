@@ -84,6 +84,7 @@
   - <sub>Tags: <code>distrobuilder-3.2</code></sub>
 - [ ] [<code>sources/archlinux: Add riscv64 support</code>](https://github.com/lxc/distrobuilder/commit/454b1cf9b267c95c26e6adf958c093f0dcd62b5b)
 - [ ] [<code>github: Don't run gomod update</code>](https://github.com/lxc/distrobuilder/commit/90b6f60fab31066ec4a1f3d2bd2632eeebd32888)
+- [ ] [<code>archlinux: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/eab39d5c80b6279dd5672abcceafb183bc0f9a8f)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -269,6 +270,8 @@
 - [ ] [<code>chore: Use Cupertino Activity Indicator in ChatEventList</code>](https://github.com/krille-chan/fluffychat/commit/764c614c144bf90e71ea869dbb43c90aa245623a)
 - [ ] [<code>chore: Follow up permissions slider dialog</code>](https://github.com/krille-chan/fluffychat/commit/2873a047f878cb52acd36bf8e97bf717f935adf5)
 - [ ] [<code>refactor: Implement avatar image viewer and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/3594fa4f6dc640e34a9cb4c226a8e48409b69020)
+- [ ] [<code>feat: Filter for room members page and easier approve knocking users</code>](https://github.com/krille-chan/fluffychat/commit/5e7b0bf7247e053d15bd44fe5aa013d43bc7dfa6)
+- [ ] [<code>refactor: Move public room bottom sheet into dialog</code>](https://github.com/krille-chan/fluffychat/commit/c01e4ba797083998fe27ed5d8a12e67e620db19c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -349,6 +352,8 @@
 - [ ] [<code>chore: Use Cupertino Activity Indicator in ChatEventList</code>](https://github.com/krille-chan/fluffychat/commit/764c614c144bf90e71ea869dbb43c90aa245623a)
 - [ ] [<code>chore: Follow up permissions slider dialog</code>](https://github.com/krille-chan/fluffychat/commit/2873a047f878cb52acd36bf8e97bf717f935adf5)
 - [ ] [<code>refactor: Implement avatar image viewer and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/3594fa4f6dc640e34a9cb4c226a8e48409b69020)
+- [ ] [<code>feat: Filter for room members page and easier approve knocking users</code>](https://github.com/krille-chan/fluffychat/commit/5e7b0bf7247e053d15bd44fe5aa013d43bc7dfa6)
+- [ ] [<code>refactor: Move public room bottom sheet into dialog</code>](https://github.com/krille-chan/fluffychat/commit/c01e4ba797083998fe27ed5d8a12e67e620db19c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -570,6 +575,9 @@
 - [ ] [<code>incusd/device/tpm: Add gendoc comments</code>](https://github.com/lxc/incus/commit/2f882366a1bd1250572c1d307e92b72efb7c4ddb)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/15130ba311cfd27ee5c7c47b4c52f1046862166a)
 - [ ] [<code>doc: Use gendoc for TPM devices</code>](https://github.com/lxc/incus/commit/1a1f314d5e664e8d7868731b230b5e75ca90d7c4)
+- [ ] [<code>incusd/firewall/nftables: Cleanup rule formatting</code>](https://github.com/lxc/incus/commit/d137a063c2fe2a6983c995ba75c03731bee1557d)
+- [ ] [<code>incusd/firewall: Add basic rules on nftables</code>](https://github.com/lxc/incus/commit/a7c33301738aede3c035063e973b1d885d9bac7c)
+- [ ] [<code>incusd/storage/zfs: Make CacheVolumeSnapshots failures non-fatal</code>](https://github.com/lxc/incus/commit/f8d56e76336be9b1b8614121ba670afb59637b15)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3214,6 +3222,9 @@
 - [ ] [<code>incusd/device/tpm: Add gendoc comments</code>](https://github.com/lxc/incus/commit/2f882366a1bd1250572c1d307e92b72efb7c4ddb)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/15130ba311cfd27ee5c7c47b4c52f1046862166a)
 - [ ] [<code>doc: Use gendoc for TPM devices</code>](https://github.com/lxc/incus/commit/1a1f314d5e664e8d7868731b230b5e75ca90d7c4)
+- [ ] [<code>incusd/firewall/nftables: Cleanup rule formatting</code>](https://github.com/lxc/incus/commit/d137a063c2fe2a6983c995ba75c03731bee1557d)
+- [ ] [<code>incusd/firewall: Add basic rules on nftables</code>](https://github.com/lxc/incus/commit/a7c33301738aede3c035063e973b1d885d9bac7c)
+- [ ] [<code>incusd/storage/zfs: Make CacheVolumeSnapshots failures non-fatal</code>](https://github.com/lxc/incus/commit/f8d56e76336be9b1b8614121ba670afb59637b15)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3224,317 +3235,8 @@
 #### [isolyzer](https://github.com/KBNLresearch/isolyzer): [refs/tags/1.4.0 → HEAD](https://github.com/KBNLresearch/isolyzer/compare/refs/tags/1.4.0...HEAD)
 
 
-#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.1.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.1.1...HEAD)
+#### [libavif](https://github.com/AOMediaCodec/libavif): [v1.2.1 → HEAD](https://github.com/AOMediaCodec/libavif/compare/v1.2.1...HEAD)
 
-- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/175626239f501902b7eb6fccc81f971a58ae6fca)
-- [ ] [<code>Add ci-windows-shared-local.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3bd4c0f2647a0bedad773c039391c9840ca51cfc)
-- [ ] [<code>libjpeg: Pass -DWITH_CRT_DLL=ON to cmake</code>](https://github.com/AOMediaCodec/libavif/commit/ecf700f6fed742b6abc231242ca055ffed6bea37)
-- [ ] [<code>avifenc: Allow large images to be encoded</code>](https://github.com/AOMediaCodec/libavif/commit/a701174862ce9fcc634af4e1cf33ccc7d12b9b38)
-- [ ] [<code>Add the avif_enable_warnings INTERFACE library</code>](https://github.com/AOMediaCodec/libavif/commit/df33ccbe34a8369fc7ca7087d44c0ec76795ec91)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Compile avif_apps_internal without -DAVIF_DLL</code>](https://github.com/AOMediaCodec/libavif/commit/cde6fcd208692b6c8ccf3c5a3966b2372bf9e5e2)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Enable warnings in tests</code>](https://github.com/AOMediaCodec/libavif/commit/cb39817f8024abd559ca17ccc0bc14ea17ffd499)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>ci-windows-shared-local.yml: enable gain maps</code>](https://github.com/AOMediaCodec/libavif/commit/1c05ae14a6da07c6eede912704cd9b2f6b79676d)
-- [ ] [<code>Use CMake macro for avifincrtest again</code>](https://github.com/AOMediaCodec/libavif/commit/a0041de6143b01189a01f094a247566dff4b5c76)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Adjust scopes of avifincrtest_helpers dependencies</code>](https://github.com/AOMediaCodec/libavif/commit/1f86eb63b18d7bef9b91008b1b373f7628571608)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Bump the github-actions group with 4 updates</code>](https://github.com/AOMediaCodec/libavif/commit/f0aba5364d2543d54d09f77629c4dfe58f65bdbf)
-- [ ] [<code>Delete AVIF_ENABLE_WERROR=OFF in oss-fuzz/build.sh</code>](https://github.com/AOMediaCodec/libavif/commit/e251cdbff31ed02b67691161a822e6a2833eb0bc)
-- [ ] [<code>Fix Clang's -Wmissing-field-initializers warnings</code>](https://github.com/AOMediaCodec/libavif/commit/313e2958994f862b6725d98cb457a91dc11bfac5)
-- [ ] [<code>Run cifuzz.yml on pull requests for CMakeLists.txt</code>](https://github.com/AOMediaCodec/libavif/commit/9caff7a58a747df9f13ebe83849f1fc6cc4f2ae2)
-- [ ] [<code>Fix overflows in avifRGBImageAllocatePixels()</code>](https://github.com/AOMediaCodec/libavif/commit/6b0a47b53604d8cdd8f44dcf7bc4bc69fb5fa6f5)
-- [ ] [<code>In setup-common action, bump recent-cmake to 3.21</code>](https://github.com/AOMediaCodec/libavif/commit/f3c8441425256c4b257395d87ddb5b3586118ea4)
-- [ ] [<code>Enable compiler warnings in fuzztest targets</code>](https://github.com/AOMediaCodec/libavif/commit/622ec93758d1d2f966b84cd785dbe66295658847)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>alpha.c: Fix overflows in multiply with rowBytes</code>](https://github.com/AOMediaCodec/libavif/commit/39cf485d8958002693508edbc232eebbfdfce07c)
-- [ ] [<code>Do not define AVIF_ENABLE_NODISCARD for avif.h</code>](https://github.com/AOMediaCodec/libavif/commit/93b4ad40a4b07ddfa0f855ee8731d6b3287d55b0)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>LocalGTest.cmake: set BUILD_GMOCK option to OFF</code>](https://github.com/AOMediaCodec/libavif/commit/a16183b884cb418e4745ac0d40d1713ce8d832a0)
-- [ ] [<code>Require allocation size be <= PTRDIFF_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/9ea9a940e5df297ded04542c24b757b335dee319)
-- [ ] [<code>Add sato BIT_DEPTH_EXTENSION_12B_8B_OVERLAP_4B (#2215)</code>](https://github.com/AOMediaCodec/libavif/commit/c898b5eb98738d5e133cb8643a13c237b3bb47d0)
-- [ ] [<code>Fix empty CMAKE_CXX_FLAGS_RELEASE if libaom local</code>](https://github.com/AOMediaCodec/libavif/commit/47f154ae4cdefbdb7f9d86c0017acfe118db260e)
-- [ ] [<code>Remove decoder param of avifCodecGetNextImageFunc</code>](https://github.com/AOMediaCodec/libavif/commit/fd754d4c82a5488cd2e33af09c82238da6e793df)
-- [ ] [<code>Fix a #endif comment</code>](https://github.com/AOMediaCodec/libavif/commit/df5325a736d97e469edeb871a777410791f4f5ef)
-- [ ] [<code>Add comment about stride params of HalfFloatPlane</code>](https://github.com/AOMediaCodec/libavif/commit/9cd0993eb68f026b5e4931833098e3f521d3458f)
-- [ ] [<code>Add local variables to avifImageRGBToYUV()</code>](https://github.com/AOMediaCodec/libavif/commit/1b4ce5ca24a33b5878b7f766de6eaa05c49f08e6)
-- [ ] [<code>Check if it is safe to call libyuv or libsharpyuv</code>](https://github.com/AOMediaCodec/libavif/commit/5b593456d8ae48ffb954a76a8dcb25246804c676)
-- [ ] [<code>AVIF_ENABLE_EXPERIMENTAL_MINI instead of METAV1 (#2376)</code>](https://github.com/AOMediaCodec/libavif/commit/0c3333848534a31803645f831027b3d340aa3471)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fix sizeof call in memset (#2379)</code>](https://github.com/AOMediaCodec/libavif/commit/58acc880b4d2c2db000ac733cc566390ccc498df)
-- [ ] [<code>Ignore gain maps with unsupported version (#2380)</code>](https://github.com/AOMediaCodec/libavif/commit/d142df6ca38e242239dbc2d972875bb6f92f41c5)
-- [ ] [<code>Add 'tmap' brand to files with gainmaps. Issue #2385 (#2386)</code>](https://github.com/AOMediaCodec/libavif/commit/10b72326ad20e8e60ee742262f19bc49f87bdbbd)
-- [ ] [<code>Update CHANGELOG.md entry for #2380</code>](https://github.com/AOMediaCodec/libavif/commit/daade0eb9646e21c6dd3e011e73f0a6ab70b6baf)
-- [ ] [<code>Update AVIF_MATRIX_COEFFICIENTS_YCGCO_RE and _RO (#2384)</code>](https://github.com/AOMediaCodec/libavif/commit/b75cf3c762b85c1ebd717ade15e44c8f6b68c99b)
-- [ ] [<code>Fix fields typo in avifgainmaptest (#2387)</code>](https://github.com/AOMediaCodec/libavif/commit/0d3e5e215dffbbd6afbf917ce00c84de599ba410)
-- [ ] [<code>Minor comment fixes for the mini box code</code>](https://github.com/AOMediaCodec/libavif/commit/4d0f851a88b8efe69a90e5eb19a7d2278e46da56)
-- [ ] [<code>Fix group id conflicting with item id. #2391 (#2396)</code>](https://github.com/AOMediaCodec/libavif/commit/a0f3ed1776f4ec56f552125a4bcd30b0dca51daf)
-- [ ] [<code>Fix an incorrect file name in tests/data/README.md</code>](https://github.com/AOMediaCodec/libavif/commit/e758440760897cd5116509a7f0027220dc8501b4)
-- [ ] [<code>Check for ftyp precedence in avifParse() (#2398)</code>](https://github.com/AOMediaCodec/libavif/commit/06e47801b58bf619225db8e12ee05986b1b36081)
-- [ ] [<code>Update gain map test files. (#2402)</code>](https://github.com/AOMediaCodec/libavif/commit/56512ddf50c95ea31ade4bf4b040792d2f92ae1f)
-- [ ] [<code>Improve 'mini' read and write of float and brand (#2400)</code>](https://github.com/AOMediaCodec/libavif/commit/14d8e3c4b8d74158ec96b4684e663fcea9cf5fb6)
-- [ ] [<code>Change gain map parsing API. (#2399)</code>](https://github.com/AOMediaCodec/libavif/commit/3e4b9c88761aab919cbf98377447b7315dd834b3)
-- [ ] [<code>Ignore gain maps in files that don't have the 'tmap' brand. (#2403)</code>](https://github.com/AOMediaCodec/libavif/commit/ab708ca88689210b770005198c88f0c2e4159a6a)
-- [ ] [<code>Empty HandlerBox name instead of "libavif" (#2378)</code>](https://github.com/AOMediaCodec/libavif/commit/8dc2a62cf2683a2dbd1e7bbcab97ca2b8d46e5ea)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fix fuzzer following gain map API changes (#2405)</code>](https://github.com/AOMediaCodec/libavif/commit/9be2966e6bcd04ca9b801e9fe4f0d202cfb9fbed)
-- [ ] [<code>Also check the type "skip" for a FreeSpaceBox</code>](https://github.com/AOMediaCodec/libavif/commit/7176120d5815eff277f385b2778d6f99093b2de5)
-- [ ] [<code>Update to SVT-AV1 v2.2.0</code>](https://github.com/AOMediaCodec/libavif/commit/c2177c3316a49505dcd592ba21073f7abc25cd37)
-- [ ] [<code>avifgainmaputil: ignore the alt image icc when --ignore-profile is set (#2411)</code>](https://github.com/AOMediaCodec/libavif/commit/fbf1cef6d1f190ec0035a73967ec27d8b0471376)
-- [ ] [<code>Add a presubmit workflow that runs fuzztest tests (#2410)</code>](https://github.com/AOMediaCodec/libavif/commit/a3647dcd85ce9c63344451d63aafd09f72507950)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Replace recent-cmake action variable with oldest-cmake (#2413)</code>](https://github.com/AOMediaCodec/libavif/commit/9c81aa60b49a6a0b3709f522059655e0458d6cd0)
-- [ ] [<code>Add details on some gain map test images. (#2414)</code>](https://github.com/AOMediaCodec/libavif/commit/4c56ac1c0bfa017d485ab01c3e5cebcd93c8fb55)
-- [ ] [<code>Do not create files in TESTDATA_DIR in sh tests (#2415)</code>](https://github.com/AOMediaCodec/libavif/commit/338b35b0acbdbd692cf358e6c46003745b1ebf92)
-- [ ] [<code>Bump SVT to 2.2.1 (#2416)</code>](https://github.com/AOMediaCodec/libavif/commit/3dc10e20447fa696bf1698cd095df4d22e1afc64)
-- [ ] [<code>Update the H273 URL to something that exists. (#2419)</code>](https://github.com/AOMediaCodec/libavif/commit/573793aceb2ec3541ae85b33eaaa54ad0cc6f5c2)
-- [ ] [<code>Update to libaom v3.10.0</code>](https://github.com/AOMediaCodec/libavif/commit/984244e152078aed5e15074c9743eff9e703a12c)
-- [ ] [<code>Compile avif_fuzztest_helpers.cc only once. (#2417)</code>](https://github.com/AOMediaCodec/libavif/commit/23d7790ffb962ffba38e44509072a452355567e1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Clean YCgCo-R a bit. (#2418)</code>](https://github.com/AOMediaCodec/libavif/commit/db72bb1313a637f9c3aeaf56e3bac43f22254d2d)
-- [ ] [<code>Bump the github-actions group with 3 updates (#2424)</code>](https://github.com/AOMediaCodec/libavif/commit/c799319a016c184d05d4c9a1eeb5cb73832006ba)
-- [ ] [<code>Add IMPORTED_IMPLIB property to each CMake Module (#2425)</code>](https://github.com/AOMediaCodec/libavif/commit/85979a79983573c908958cd27197290cd19ea7b6)
-- [ ] [<code>Add/update comments about avifCleanApertureBox</code>](https://github.com/AOMediaCodec/libavif/commit/dfffad3cab94ce216b3168aaef958dc662686d29)
-- [ ] [<code>Add a comment to explain why we don't write lsel (#2430)</code>](https://github.com/AOMediaCodec/libavif/commit/8aab77e354bc1b41764f4aaf86770b9d6d530794)
-- [ ] [<code>Add tests decoding files using 'idat' instead of 'mdat' (#2433)</code>](https://github.com/AOMediaCodec/libavif/commit/981b9a277e2d0c80382ae06a7ad4349ae1ca78bd)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Merge avif_decode_fuzzer into avif_fuzztest_dec.cc (#2006)</code>](https://github.com/AOMediaCodec/libavif/commit/3d4c39cd8f6cb32264ad22616c3125942bd70768)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Remove unused oss-fuzz/.clang-format (#2435)</code>](https://github.com/AOMediaCodec/libavif/commit/d1c54f12ae6576ee3cfd1e8093f81656984c2c4e)
-- [ ] [<code>Use camelCase for avifEncoderItemIdArray (#2436)</code>](https://github.com/AOMediaCodec/libavif/commit/fa4eaf913603735f3e38c6c2b0beff95585fb1ef)
-- [ ] [<code>Add avifROStreamSkipBits() (#2438)</code>](https://github.com/AOMediaCodec/libavif/commit/70862dc5d27581606f9d5b97001b8844ac4fb497)
-- [ ] [<code>Fix return type of avifWriteToneMappedImagePayload (#2439)</code>](https://github.com/AOMediaCodec/libavif/commit/ca3e4bef20e1fe5967f23f58a4ef7ba8d72474a0)
-- [ ] [<code>Only generate valid fuzzed avifGainMapMetadata (#2441)</code>](https://github.com/AOMediaCodec/libavif/commit/2fe5b3aaf15f034901bdc2a6c999162e6ab80d05)
-- [ ] [<code>Add ci-unix-artifacts.yml (#2445)</code>](https://github.com/AOMediaCodec/libavif/commit/578918077370568624068a0bce82fb88b2ed1bde)
-- [ ] [<code>Format yml files (#2446)</code>](https://github.com/AOMediaCodec/libavif/commit/1b1db68df05c9b626963dd4a68c65eabb0a36a33)
-  - <sub>Keywords: <code>bin</code> <code>find_package</code></sub>
-- [ ] [<code>List utf8.manifest as normal source file for MSVC</code>](https://github.com/AOMediaCodec/libavif/commit/9100176307d34dd843f76923a03c0a8b7b1769d7)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Refactor gain map API (#2444)</code>](https://github.com/AOMediaCodec/libavif/commit/cdb89c92a1eee34a98f25bacfd02c70c3e375926)
-- [ ] [<code>Disable the MSVC C4232 warning</code>](https://github.com/AOMediaCodec/libavif/commit/cd49a3b59754b3ed33d5b032c060470e9f07fe7a)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Remove all remaining references to AppVeyor (#2451)</code>](https://github.com/AOMediaCodec/libavif/commit/7d357d6a72ea460ec92f7224f8206ebb2a35d65c)
-- [ ] [<code>Bump the github-actions group with 3 updates (#2450)</code>](https://github.com/AOMediaCodec/libavif/commit/98e9303b8cce42bbb2142a472e8dbcb2ce907211)
-- [ ] [<code>Update README.md (#2454)</code>](https://github.com/AOMediaCodec/libavif/commit/e9db3c3f156cd67d6af3bcb49fc8b80aef77402f)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Disable AppVeyor CI (#2455)</code>](https://github.com/AOMediaCodec/libavif/commit/773f5c88ba0e5eeaf5b7ecad928ab74c07a454ab)
-- [ ] [<code>Use runner.os in artifact archive name (#2456)</code>](https://github.com/AOMediaCodec/libavif/commit/ddb59691f70fcf488f9be8e2cd9edf11554af19a)
-- [ ] [<code>Fix order of AVIF_NODISCARD and AVIF_API. (#2458)</code>](https://github.com/AOMediaCodec/libavif/commit/84b886522e1e9713199c7cc48f979377faf3b995)
-- [ ] [<code>Disable JPEG finding in libyuv (#2459)</code>](https://github.com/AOMediaCodec/libavif/commit/fd66e9d7470c92187a48adfe493727b0b4661c06)
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>Add macOS artifacts to release (#2461)</code>](https://github.com/AOMediaCodec/libavif/commit/5e38bec7e8517852cd66ca620ac5180c70d50e66)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Replace assertions by checks in ROStreamReadBitsUX (#2457)</code>](https://github.com/AOMediaCodec/libavif/commit/794a30079182dd9a2d8a38e958770d02c4b434c8)
-- [ ] [<code>Fix README.md Prebuilt Binaries section title (#2462)</code>](https://github.com/AOMediaCodec/libavif/commit/d274e2e7c19efa0b3f0bcd8adc6382f5759f75c2)
-- [ ] [<code>Implement the HDR part of MinimizedImageBox (#2440)</code>](https://github.com/AOMediaCodec/libavif/commit/6bdda98a03d97d987ca343f1211d5ec2fb400102)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Remove appveyor.yml (#2465)</code>](https://github.com/AOMediaCodec/libavif/commit/4932ace4aadd56c9f98fe2376a089a023822b1e0)
-- [ ] [<code>Fix possible null pointer dereference and unintended integer division (#2469)</code>](https://github.com/AOMediaCodec/libavif/commit/71ba1850486a09297a84d7edcadb265c22e1f29a)
-- [ ] [<code>Replace FUZZTEST_STACK_LIMIT by --stack_limit_kb (#2470)</code>](https://github.com/AOMediaCodec/libavif/commit/7eb683f70ec40eb0bd8e2dff994632e00e41946e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove testing::Environment leftover (#2471)</code>](https://github.com/AOMediaCodec/libavif/commit/21824c1b370b7ae8361cc3a1ed945c4cbc8e6629)
-- [ ] [<code>Add missing license metadata in tests/data/README (#2467)</code>](https://github.com/AOMediaCodec/libavif/commit/69e57b6951bbe6dce85311572c20989b90aa8a51)
-- [ ] [<code>Bump AVM to research-8.0.0 (#2437)</code>](https://github.com/AOMediaCodec/libavif/commit/5ae2a41593c0e70db52d5bf792aa374a752042b4)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Do not allow libyuv to find_package JPEG (#2473)</code>](https://github.com/AOMediaCodec/libavif/commit/df2f379cdd8e2c438e4af7b50f1f32994f685792)
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>android_jni: Set threads to 2 instead of CPU count</code>](https://github.com/AOMediaCodec/libavif/commit/a12f2037ac1a2555bdff3cef373d26e0e53ad969)
-- [ ] [<code>Update parseAV2SequenceHeader() for AVM CWG-E103</code>](https://github.com/AOMediaCodec/libavif/commit/eb02b2ec52df5c0f50b71fbc51321c5ce435aaca)
-- [ ] [<code>Fix build errors for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/fb2dcebb501ad1759f63ee04011d67853bed8840)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add recommended NDK revision for Android builds</code>](https://github.com/AOMediaCodec/libavif/commit/2c36aed375fff68611641b57d919b191f33431d5)
-- [ ] [<code>Make sure the gain map metadata is towards the start of the file. (#2479)</code>](https://github.com/AOMediaCodec/libavif/commit/048488e0588b0543d122ec95ac1a4f54cc73285a)
-- [ ] [<code>Check that the gain map metadata is valid on decoding. (#2453)</code>](https://github.com/AOMediaCodec/libavif/commit/5b6fe9125c16416b99a5c2da1319670ab9df71d2)
-- [ ] [<code>Revert "Check that the gain map metadata is valid on decoding. (#2453)" (#2482)</code>](https://github.com/AOMediaCodec/libavif/commit/aa9f74068981e6d4f00abc17cf721a5555f8303c)
-- [ ] [<code>Add a cargo key and use it to update caches (#2485)</code>](https://github.com/AOMediaCodec/libavif/commit/209707886d95ca26bd9a9e6773eb56c6d7daf35d)
-- [ ] [<code>Bump libxml2 to v2.13.4 (#2489)</code>](https://github.com/AOMediaCodec/libavif/commit/e4007804404281d7b0c077496e6ddf60700b6ea1)
-- [ ] [<code>Implement AV2 in MinimizedImageBox (#2486)</code>](https://github.com/AOMediaCodec/libavif/commit/755f9600865aa951596cfdc8768aa16e2193fb71)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Significantly simplify gain map API (#2481)</code>](https://github.com/AOMediaCodec/libavif/commit/094d84170d4b558bcc246c61f776a895077f6010)
-- [ ] [<code>Apply ClangTidy vector::empty() instead of size() (#2491)</code>](https://github.com/AOMediaCodec/libavif/commit/2f599acf9d6cfebbf1e66117aeff647ddc6af853)
-- [ ] [<code>Bump dav1d to 1.5.0 (#2490)</code>](https://github.com/AOMediaCodec/libavif/commit/e9d3134632ab444bb3d9d0d8caf2a41c2d64cc50)
-- [ ] [<code>github ci: use default profile for actions-rs</code>](https://github.com/AOMediaCodec/libavif/commit/dc2fe079b6e6d42e75f57fe053e8121972e90579)
-- [ ] [<code>Reapply "Check that the gain map metadata is valid on decoding." (#2493)</code>](https://github.com/AOMediaCodec/libavif/commit/99f7eebb6fa21a3330002f35d66842e648da38f5)
-- [ ] [<code>Fix avifROStreamSkipBits bug for incomplete byte</code>](https://github.com/AOMediaCodec/libavif/commit/2c26b296d1c96275a1893811bc63ccf75918da34)
-- [ ] [<code>Bump the github-actions group with 5 updates (#2498)</code>](https://github.com/AOMediaCodec/libavif/commit/dab2aa5ef42ea20ba0c98be88cf655a34cf3512b)
-- [ ] [<code>Test bitCount == 0 in avifROStreamSkipBits()</code>](https://github.com/AOMediaCodec/libavif/commit/4a4e5b43e50e62c4d420aaf9af7ad68295117508)
-- [ ] [<code>Bump libjpeg-turbo to 3.0.4 (#2501)</code>](https://github.com/AOMediaCodec/libavif/commit/1cdeff7ecf456492c47cf48fc0cef6591cdc95da)
-- [ ] [<code>Fix quantizer range in codec_avm (#2502)</code>](https://github.com/AOMediaCodec/libavif/commit/5766fd13c3a6e177754005381cf8460fb0601b04)
-- [ ] [<code>Update YCgCo-R coeffs in comments. (#2503)</code>](https://github.com/AOMediaCodec/libavif/commit/a9ac378e84daec87dc7f6c438bf0215c6165de39)
-- [ ] [<code>Add properties to avifImage (#2420)</code>](https://github.com/AOMediaCodec/libavif/commit/13d784eb15577d66f723c4aa2c6d02fda6dc0499)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Update merge_static_libs.cmake to copy INTERFACE_INCLUDE_DIRECTORIES (#2505)</code>](https://github.com/AOMediaCodec/libavif/commit/6fac47f047ac7c62d19f25cef5de34e793fbd8ad)
-- [ ] [<code>Update to libaom v3.11.0 (#2500)</code>](https://github.com/AOMediaCodec/libavif/commit/ea21e9bf658863e1d666b9fed9247e943e7cc272)
-- [ ] [<code>android_jni: Support 16kb page size</code>](https://github.com/AOMediaCodec/libavif/commit/566e2ed3603fcc781adc1bd2c93de0e807876b81)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>libavif_jni: add missing error check (#2508)</code>](https://github.com/AOMediaCodec/libavif/commit/03738d58595e0d62f0b9f8815a27cc7eb52d1c2a)
-- [ ] [<code>Bump AVM to research-8.1.0 (#2506)</code>](https://github.com/AOMediaCodec/libavif/commit/fa626671c5625f0ec7487806d18cccaff49e0265)
-- [ ] [<code>Turn gain maps on in ci-unix-shared-installed.yml (#2511)</code>](https://github.com/AOMediaCodec/libavif/commit/378c646247cb7d286dda55b28f6451cf289383a5)
-- [ ] [<code>Bump the github-actions group with 2 updates (#2512)</code>](https://github.com/AOMediaCodec/libavif/commit/c7c4019dc94983c65a1fe0ebae48fc5bc3380df0)
-- [ ] [<code>Turn gain map flag on by default. (#2513)</code>](https://github.com/AOMediaCodec/libavif/commit/3196438660ca478f85e8a3d209b166adcd845c4a)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Clean ci-unix-static-sanitized.yml (#2517)</code>](https://github.com/AOMediaCodec/libavif/commit/37cb0bf57d4b247cf995f965b6cfdab3886ec68a)
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>Remove AVIF_ENABLE_GAIN_MAP flag. (#2516)</code>](https://github.com/AOMediaCodec/libavif/commit/260879ce2383da96de411d440ed6adf9ea98bfe6)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Change the way brew python is updated</code>](https://github.com/AOMediaCodec/libavif/commit/03d5e3866479ef77451c4c6e6e14b00e7eade596)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Bump libxml2 to v2.13.5</code>](https://github.com/AOMediaCodec/libavif/commit/398777c46e9dd0e81ce7ea3c32929566a3c863af)
-- [ ] [<code>Eradicate AVIF_ENABLE_EXPERIMENTAL_GAIN_MAP</code>](https://github.com/AOMediaCodec/libavif/commit/f439662a8137cd0c9710eeedc66001ed6fabeafe)
-- [ ] [<code>Write descriptive properties before transformative (#2524)</code>](https://github.com/AOMediaCodec/libavif/commit/906ba9137a9b6b2a12dee81c7b38dca40b29c01f)
-- [ ] [<code>Fail early when trying to convert a jpeg+gainmap image without libxml2. (#2526)</code>](https://github.com/AOMediaCodec/libavif/commit/4db8f7e1a19f8d9484aa3eb253487bb7e52854bf)
-- [ ] [<code>Remove AVIF_ENABLE_GTEST cmake option. (#2527)</code>](https://github.com/AOMediaCodec/libavif/commit/b808fa00aa2d1dcccb0896bc1832cdc6751152cc)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add instructions for fuzz tests. (#2523)</code>](https://github.com/AOMediaCodec/libavif/commit/3246a4bd1d107ae02d3af85b16c168eb564e5506)
-- [ ] [<code>Move the comment on 'pasp' forward</code>](https://github.com/AOMediaCodec/libavif/commit/35584512cceb478896e388c9d052c65120d4ce15)
-- [ ] [<code>Avoid unreachable code after a return statement</code>](https://github.com/AOMediaCodec/libavif/commit/a2849646e0008314286a814cb656676dea067934)
-- [ ] [<code>Support custom avifImage properties in avifEncoder (#2510)</code>](https://github.com/AOMediaCodec/libavif/commit/3a25ba1db33ff5e91ac28afcda382ea1d1ba4e58)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fix mistakenly returning false instead of avifResult. (#2531)</code>](https://github.com/AOMediaCodec/libavif/commit/3a020d16558d96f98cb526dcdf6a86742c69955d)
-- [ ] [<code>Add avifgainmaputil to installed apps (#2532)</code>](https://github.com/AOMediaCodec/libavif/commit/3c0ede5fd0cb54c17e6a40eef04fe899b76af690)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Bump the github-actions group with 3 updates (#2538)</code>](https://github.com/AOMediaCodec/libavif/commit/c359d42e1cdfd7ad72c240378d27c36304983953)
-- [ ] [<code>Improve error message for missing 'SYSTEM' dependencies. (#2536)</code>](https://github.com/AOMediaCodec/libavif/commit/b5e7d6c8df5c70b2cc3efae1014d485c7de1b1e8)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>find_package</code></sub>
-- [ ] [<code>Improve README, in particular build instructions. (#2537)</code>](https://github.com/AOMediaCodec/libavif/commit/e6da01c57c71a9c3d395aba034d9aac2cc52635e)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Add item ID 0 comment in avifCheckItemID() (#2539)</code>](https://github.com/AOMediaCodec/libavif/commit/cc0b793cdd320d4327a827592bb19ada413d104e)
-- [ ] [<code>Readme: add examples (#479)</code>](https://github.com/AOMediaCodec/libavif/commit/25223e1180aac598d1f08cef4074e207a92c0e1a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Deprecate min/max quantizer fields/flags. (#2535)</code>](https://github.com/AOMediaCodec/libavif/commit/7a2a40c3feb8701ddc259150fe0e5c29d83f96c4)
-- [ ] [<code>Improve avif.h documentation. (#2542)</code>](https://github.com/AOMediaCodec/libavif/commit/f6f8b64a0e69954f883c8df54d6a72b0e41b40bf)
-- [ ] [<code>Add cmake format check CI. (#2543)</code>](https://github.com/AOMediaCodec/libavif/commit/3a48136a99e9ddab9f5ff0c643dfa554fed93a65)
-- [ ] [<code>Declare a avifDecoderData * input para as const</code>](https://github.com/AOMediaCodec/libavif/commit/7cc2ffc34e4db627f8392a055649704d99d444a8)
-- [ ] [<code>Remove the old way of setting dependencies (#2540)</code>](https://github.com/AOMediaCodec/libavif/commit/9903d9992e0e33b64757efd07529003e1690e97f)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Move -q option in avifenc example in README (#2545)</code>](https://github.com/AOMediaCodec/libavif/commit/021a110dccfb65148e0b6f208911ecf3713f2248)
-- [ ] [<code>Fuzztest clean-ups (#2529)</code>](https://github.com/AOMediaCodec/libavif/commit/d3388d91ba3b63901914241fb299a471ea088121)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Use array in fuzztest_properties (#2546)</code>](https://github.com/AOMediaCodec/libavif/commit/5eaa316da9b101d5fdfe6939738670ef5610e9d5)
-- [ ] [<code>Remove LOCAL from logs as this was part of the old convention (#2549)</code>](https://github.com/AOMediaCodec/libavif/commit/e5747995b2268725da988e05582fa3418b14b831)
-- [ ] [<code>Fix typo (#2550)</code>](https://github.com/AOMediaCodec/libavif/commit/842a2ed4c217ebae707a3db84c76a1ca3b5a6ca4)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>avifenc: make alpha quality be the same as the color quality by default. (#2548)</code>](https://github.com/AOMediaCodec/libavif/commit/1346d9c8e2f9bedb08a680b56b78ceba53b03841)
-- [ ] [<code>Factor out common code in shell tests. (#2552)</code>](https://github.com/AOMediaCodec/libavif/commit/1ebddd311b9afc13e2e24fff425108f3387d3789)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Remove extra AVIF_ in AVIF_AVIF_FUZZTEST option (#2551)</code>](https://github.com/AOMediaCodec/libavif/commit/66d45c10530a12617ab936ccb7aa8fa0f6861a0b)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Fix fuzztest when already present in ext (#2554)</code>](https://github.com/AOMediaCodec/libavif/commit/04e37141c1aae3b643215ceccfe98297008743c7)
-- [ ] [<code>Replace ipmaArray with avifItemPropertyAssociation (#2555)</code>](https://github.com/AOMediaCodec/libavif/commit/2de9287b44d57ca7c00a6cf1d3bbec3b671ccb5b)
-- [ ] [<code>Add comments about essential properties (#2556)</code>](https://github.com/AOMediaCodec/libavif/commit/e9a27bc6a84f01b6670c05c301c445f33a464992)
-- [ ] [<code>Force CI when .github/actions/** is changed (#2559)</code>](https://github.com/AOMediaCodec/libavif/commit/16ca487449955b4e7e18631c720db984181e9f90)
-- [ ] [<code>Add parens to MAX_PROPERTY_INDEX (#2560)</code>](https://github.com/AOMediaCodec/libavif/commit/8fc7f7eb48d595440389fe520351cf4155223415)
-- [ ] [<code>Use CMake's compiler when checking for static link bundling (#2561)</code>](https://github.com/AOMediaCodec/libavif/commit/824795d6cd78be2becd342698a3065f86e2541c1)
-- [ ] [<code>Set CC on macOS (#2562)</code>](https://github.com/AOMediaCodec/libavif/commit/502f67a735099fe53c672827997267b7b07626c1)
-- [ ] [<code>Properly set CARGO_CACHE_KEY (#2558)</code>](https://github.com/AOMediaCodec/libavif/commit/4b164521c3cc0029e898212f941985e52790e78b)
-- [ ] [<code>Add code coverage CI. (#2541)</code>](https://github.com/AOMediaCodec/libavif/commit/0def9e5a4861ce88474d6657e82a82319279c6eb)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Switch macos-13 to macos-latest in CI (#2563)</code>](https://github.com/AOMediaCodec/libavif/commit/acbf0e8d93e43269796bdc89667665eea1b83874)
-- [ ] [<code>Bump fuzztest (#2553)</code>](https://github.com/AOMediaCodec/libavif/commit/6c383259b8b230d58913b308a894e5aba650e2ba)
-- [ ] [<code>Update to SVT-AV1 v2.3.0</code>](https://github.com/AOMediaCodec/libavif/commit/9941c2460851b9aea42861f274e4c26ea7b02a0f)
-- [ ] [<code>Bump fuzztest (#2565)</code>](https://github.com/AOMediaCodec/libavif/commit/78b0a28bbbc4f4497433056e80c1101dcd8464a7)
-- [ ] [<code>Print warnings on ignored clap,irot,imir (#2564)</code>](https://github.com/AOMediaCodec/libavif/commit/fa410dabf5074388dbd5b37cf361acb5470d9524)
-- [ ] [<code>Omit the apps/avifgainmaputil/ include directory</code>](https://github.com/AOMediaCodec/libavif/commit/e7b34a1f5e9f7024d08311c7bae156061b889882)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Allow odd clap dimensions and offsets (#2426)</code>](https://github.com/AOMediaCodec/libavif/commit/d980845ee83248ab0285713f0679507dc50cb073)
-- [ ] [<code>Move entries from Changed to Added in CHANGELOG.md (#2570)</code>](https://github.com/AOMediaCodec/libavif/commit/2ea1f164169c3918423bc5f3f84ae70aed3bf024)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Ignore descr props after transf props (#2571)</code>](https://github.com/AOMediaCodec/libavif/commit/49729e47142e6c6fa3541bd08abaf454939d8d6f)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Remove filter in avif_fuzztest_properties (#2575)</code>](https://github.com/AOMediaCodec/libavif/commit/e816c7dc3d66b7c9639c7bd5e4375c73cda4714a)
-- [ ] [<code>Don't compare gainMapF[0] with itself</code>](https://github.com/AOMediaCodec/libavif/commit/9201ab7c8ee159e6619d1dc7a06b23595daa8cf2)
-- [ ] [<code>Bump dav1d to 1.5.1 (#2581)</code>](https://github.com/AOMediaCodec/libavif/commit/668accedbe7fa241be7eb74970f0fd1b1ae08a94)
-- [ ] [<code>Add memory sanitizer CI (#2254)</code>](https://github.com/AOMediaCodec/libavif/commit/2985845a45ed51c022993b7ad87a7fb29039b39a)
-- [ ] [<code>Fix some static analysis minor defects (#2569)</code>](https://github.com/AOMediaCodec/libavif/commit/54e94f5da9449349ea9966be5db174ecead6f8e7)
-- [ ] [<code>Fix assert failure when the gainmap has a constant values. (#2578)</code>](https://github.com/AOMediaCodec/libavif/commit/7ae69dbea82f8dc9775e1678d4fa69877ec16066)
-- [ ] [<code>Fixed typo</code>](https://github.com/AOMediaCodec/libavif/commit/66ffd231149d3d277c4c00e5032b4c377912f3ec)
-- [ ] [<code> Update man pages based on avifenc/dec's --help message. (#2582)</code>](https://github.com/AOMediaCodec/libavif/commit/ce8b972e9c03840d978445ac49a02d9bf2051ccc)
-- [ ] [<code>Partial revert "Ignore descr props after transf" (#2585)</code>](https://github.com/AOMediaCodec/libavif/commit/61b0c7fe122352c95e061fe3db9c6df0c0d481b2)
-- [ ] [<code>Treat avifenc --stdin as regular file input arg (#2574)</code>](https://github.com/AOMediaCodec/libavif/commit/46a46aa21a94816f1f2664c523958e18ebd0ebd0)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Bump AVM to research-v9.0.0 (#2579)</code>](https://github.com/AOMediaCodec/libavif/commit/1e119d654dfaf1b75e02ce24391b7ffcc165593c)
-- [ ] [<code>Rename file_path to filePath</code>](https://github.com/AOMediaCodec/libavif/commit/2c2de78779a3bf73953e1172ea3af73745cf8245)
-- [ ] [<code>Homogeneize CMake logs (#2587)</code>](https://github.com/AOMediaCodec/libavif/commit/83172c63aff2c5fdbcfd602c82d1fa11134a7867)
-- [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/7eee1849f2dceaa6b3a44f765616438f1bde25c2)
-- [ ] [<code>Update Sample Transform implementation (#2588)</code>](https://github.com/AOMediaCodec/libavif/commit/a3e97630b618dec0278382fe8a5b4e8a023fbc40)
-- [ ] [<code>Bump actions/cache to v4.2.0 (#2594)</code>](https://github.com/AOMediaCodec/libavif/commit/7a4170cc8a002ee7c6ed90c1cd6bdacdc8758ea1)
-- [ ] [<code>Add AVIF_ENABLE_EXPERIMENTAL_EXTENDED_PIXI (#2591)</code>](https://github.com/AOMediaCodec/libavif/commit/8ddc0b00bcd46be496974bc6f0513020fc20039b)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>update libyuv to ccdf87034 (1903) (#2597)</code>](https://github.com/AOMediaCodec/libavif/commit/4e9b26e496f56d71b9284bab8cc7d23f34c0512d)
-- [ ] [<code>Add v1.2.0 end markers to the extensible structs</code>](https://github.com/AOMediaCodec/libavif/commit/83a60276f2ec3a603a138940be74bff0ef09a5b4)
-- [ ] [<code>Rename avifEncoderWriteFileTypeBoxAndMetaBoxV1</code>](https://github.com/AOMediaCodec/libavif/commit/39cb59b227d78d444946b394eb5e9010d5ec2d37)
-- [ ] [<code>Update MinimizedImageBox syntax (#2595)</code>](https://github.com/AOMediaCodec/libavif/commit/15855f9a80940c29e1ea8b236dd7cb9253960e0f)
-- [ ] [<code>Fix avifpixitest includes (#2602)</code>](https://github.com/AOMediaCodec/libavif/commit/81596c2f08c9619bb25711acc1743007ae3822c2)
-- [ ] [<code>Make test_cmd_stdin.sh executable (#2603)</code>](https://github.com/AOMediaCodec/libavif/commit/f084e61cac8b2fa7ce209d921310059297cda35d)
-- [ ] [<code>Remove unused using testing in pixitest (#2604)</code>](https://github.com/AOMediaCodec/libavif/commit/f9e5daf7c5ec15da8c3bc44ded388259b3fa1c94)
-- [ ] [<code>Update to libaom v3.12.0</code>](https://github.com/AOMediaCodec/libavif/commit/b2b97a4357a2ed68bf8273a0e0410a71927ac8ce)
-- [ ] [<code>Allow YCgCoRe and YCgCoRo decoding. (#2078)</code>](https://github.com/AOMediaCodec/libavif/commit/906a8a5bd18a744f0e2e603e1841c1ef5e712677)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Check that the gain map max is >=  gain map min. (#2580)</code>](https://github.com/AOMediaCodec/libavif/commit/c6807414018046e280ed1f5f24d2ce1a04b16ca3)
-- [ ] [<code>Fix some CHANGELOG.md entries (#2610)</code>](https://github.com/AOMediaCodec/libavif/commit/f31dccbb5e3c2bf9ce7d47c11371c8ad2628d0d4)
-- [ ] [<code>Update test_all_configurations.sh (#2609)</code>](https://github.com/AOMediaCodec/libavif/commit/745f69c35aeb7099cd5af17f70b37326b905ea18)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Disable zlib examples (#2613)</code>](https://github.com/AOMediaCodec/libavif/commit/69191926e5e86965f4bcb8c90778b2c8e8ca70aa)
-- [ ] [<code>Mark the avifGainMap struct as extensible</code>](https://github.com/AOMediaCodec/libavif/commit/29f4eb7bca4b6771ce35a403429e8662028cc226)
-- [ ] [<code>Make code compatible with SVT-AV1 3.0 (#2607)</code>](https://github.com/AOMediaCodec/libavif/commit/e649830525d37f93e83a28b2a7dc4afbf0eb12d0)
-- [ ] [<code>Make sure assertions are disabled when building with Release (#2617)</code>](https://github.com/AOMediaCodec/libavif/commit/3d0f0cfe988f19b455517a66a3eea83d4addf293)
-- [ ] [<code>Fix typo in deprecated flag message (#2619)</code>](https://github.com/AOMediaCodec/libavif/commit/1c592c8242ffa185796bdcb23a4d9ff22859f03c)
-- [ ] [<code>Check auxiliary type for tracks. (#2621)</code>](https://github.com/AOMediaCodec/libavif/commit/8c94573c27be5edfad66ea85d38682c54662342b)
-- [ ] [<code>Fix missing test skip (#2623)</code>](https://github.com/AOMediaCodec/libavif/commit/0cc1ab1cecc71ef2c9d4afdf1b0d60e377952502)
-- [ ] [<code>Handle animations with audio tracks. (#2625)</code>](https://github.com/AOMediaCodec/libavif/commit/680e265d17f022252068fe3c657fb1a5a0c903ea)
-- [ ] [<code>Remove sample transform constraint on dimg order. (#2626)</code>](https://github.com/AOMediaCodec/libavif/commit/884006b018a417644af9da95df51ce8e1a2c8d9f)
-- [ ] [<code>Assume an aux track is alpha is the type is not present. (#2627)</code>](https://github.com/AOMediaCodec/libavif/commit/a653390d187858b3286c4d8bc9aed73850694187)
-- [ ] [<code>Do not check the handler type of the color track. (#2628)</code>](https://github.com/AOMediaCodec/libavif/commit/311238fc483abdae45120ad3ea04c76658ad0c4e)
-- [ ] [<code>Disable testing on dependencies by default (#2629)</code>](https://github.com/AOMediaCodec/libavif/commit/d09d1402bad788e5b0f9f9d5042c71e74dfef5e4)
-- [ ] [<code>Make avifEncoder.headerFormat a flag combination (#2612)</code>](https://github.com/AOMediaCodec/libavif/commit/7b9131ee0e6b0df01db23ca0fafe3bd5529dbe63)
-- [ ] [<code>Update to SVT-AV1 v3.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/96b1fb2adfdb09dafedbf01aba9f32a39d9e213c)
-- [ ] [<code>Disable PNG tRNS before PLTE test (#2635)</code>](https://github.com/AOMediaCodec/libavif/commit/bdba09d6429c0f19dbeb487d8042ab6fb4a2d868)
-- [ ] [<code>Update changelog for #2625 and #2621 (#2636)</code>](https://github.com/AOMediaCodec/libavif/commit/589a05d5c66a9cc4bc1a79bcc4488e87769fbbe3)
-- [ ] [<code>Re-enable the RgbColorTypeWithTrnsBeforePlte test</code>](https://github.com/AOMediaCodec/libavif/commit/602b79cd19fcc8f4448759d30fd8dbf4fcd2308b)
-- [ ] [<code>Describe what changed</code>](https://github.com/AOMediaCodec/libavif/commit/ae966be4fb39f98326ff89669043dc676977f8ba)
-- [ ] [<code>Make it clear that the best quality is lossless</code>](https://github.com/AOMediaCodec/libavif/commit/c3a92347b6d90f3f86debe2628ad082ceae155cf)
-- [ ] [<code>Use new SVT 3.0.0 EbSvtAv1EncConfig::lossless (#2630)</code>](https://github.com/AOMediaCodec/libavif/commit/6451b9dabbcac3e3392e7c00fc72908fab2e65ab)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add CHANGELOG entry for SVT level_of_parallelism (#2641)</code>](https://github.com/AOMediaCodec/libavif/commit/ddc5ab411ab61bd2f02bf8559069d8d3b93701df)
-- [ ] [<code>Make alpha and gain map quality default to the same as color in API. (#2631)</code>](https://github.com/AOMediaCodec/libavif/commit/96fc68a8c174faa8847c39633b3574631e632cb7)
-- [ ] [<code>v1.2.0</code>](https://github.com/AOMediaCodec/libavif/commit/a28899ac7df6b211dae7199cb723d8ce2cecff1b)
-  - <sub>Tags: <code>v1.2.0</code></sub>
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Flip AVIF_VERSION_DEVEL to 1 in v1.2.0 (#2615)</code>](https://github.com/AOMediaCodec/libavif/commit/db727c60983fa4f42f2906237a5b0e2a123d2183)
-- [ ] [<code>Add missing CXX compiler to artifacts workflows (#2644)</code>](https://github.com/AOMediaCodec/libavif/commit/2d33face463d5f6a1f2023f3d8892101354dc5be)
-- [ ] [<code>Fix Unix artifact generation workflow permissions (#2645)</code>](https://github.com/AOMediaCodec/libavif/commit/bd26097fdc0972457bf1f477d50268b1532e638b)
-- [ ] [<code>Update README build instructions (#2642)</code>](https://github.com/AOMediaCodec/libavif/commit/31d13993420f34b5af1d11d69d9f82844d98e645)
-- [ ] [<code>Remove -static in ci-windows-artifacts workflow (#2648)</code>](https://github.com/AOMediaCodec/libavif/commit/60695257556303d69c1750f9bb5f8e220c20c7a1)
-- [ ] [<code>Disable ext-partitions and uneven-4way in avm (#2647)</code>](https://github.com/AOMediaCodec/libavif/commit/ccfc16016ed264be3223a4649f61cd5f02807fe3)
-- [ ] [<code>Remove fully static instructions (#2649)</code>](https://github.com/AOMediaCodec/libavif/commit/e65e25f21c80b37d1bef03db8606572ccef7aeab)
-- [ ] [<code>y4m: Remove some repeated code</code>](https://github.com/AOMediaCodec/libavif/commit/1015bef1179d6b34e1ddb4ed220338cce7bf53e0)
-- [ ] [<code>libargparse: use a git patch file instead of sed command (#2654)</code>](https://github.com/AOMediaCodec/libavif/commit/ebfc97fa8f318460e1cfd6368e47c970741e2682)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Bump the github-actions group with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/3e58f004f231589cffbffd10300e947daba71327)
-- [ ] [<code>Use C99 syntax to initialize avifFileType struct (#2657)</code>](https://github.com/AOMediaCodec/libavif/commit/640df130534f696edbf291cde87f9245d9b20e1c)
-- [ ] [<code>Bump some Rust dependencies (#2658)</code>](https://github.com/AOMediaCodec/libavif/commit/47802385f0ef0bc84c4b35bca18fe080d64eb7de)
-- [ ] [<code>Use default for tensorflow with libavm (#2624)</code>](https://github.com/AOMediaCodec/libavif/commit/6b31024fdd123b292494aed0c672eefa320a71d4)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>dependency</code> <code>find_package</code></sub>
-- [ ] [<code>fix: patch libyuv CMakeLists for compatibility with gcc 10 (#2660)</code>](https://github.com/AOMediaCodec/libavif/commit/58d285a5840bf8e02ea301e3d954de9ded8a08a3)
-- [ ] [<code>Add libyuv dependency to the README.md (#2664)</code>](https://github.com/AOMediaCodec/libavif/commit/a25d9a34e97492260d232ecaff3015b95e30a468)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>avifutil.c: fix avifQueryCPUCount() empty param list (#2662)</code>](https://github.com/AOMediaCodec/libavif/commit/541c10ceced6c36939cfa92a45c9620d82c937f9)
-- [ ] [<code>read.c: fix empty struct initializers (#2661)</code>](https://github.com/AOMediaCodec/libavif/commit/532c33806a000da4adcd8442c69c15d6e9cc7b86)
-- [ ] [<code>Use SVT_LOG=0 in avifsvttest for SVT-AV1 3.0.0 (#2668)</code>](https://github.com/AOMediaCodec/libavif/commit/c28263c91fd5f4f7a10ba7322b457b0b9fa97324)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Update CHANGELOG (#2666)</code>](https://github.com/AOMediaCodec/libavif/commit/4eb0a40fb06612adf53650a14c692eaf62c068e6)
-  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Do not allow keeping the ICC when converting from RGB to gray (#2669)</code>](https://github.com/AOMediaCodec/libavif/commit/999fcf5481c77e78e9a63a4cbd26b30a5c02a94c)
 - [ ] [<code>avidec: output all frames of animations when passed `--index all` (#2670)</code>](https://github.com/AOMediaCodec/libavif/commit/ad49114724c81f1d772cd2ec79621e3fa5ae9941)
 - [ ] [<code>Specify target platform version in binary artifacts (#2652)</code>](https://github.com/AOMediaCodec/libavif/commit/3e305e772e3497822c379d7417ac951fc8933b97)
@@ -5852,6 +5554,7 @@
 - [ ] [<code>Dump Netdata buildinfo during CI. (#19918)</code>](https://github.com/netdata/netdata.git/commit/686818c6b102a96a30be5ea48ca96437c99649aa)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/0cd2a7f7299bc13475ad626a3a57972c672ec53d)
+- [ ] [<code>chore(otel/journaldexporter): add socket/remote clients (#20121)</code>](https://github.com/netdata/netdata.git/commit/322bde853ade2c0cbcb44c233867c7722ebde1e6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
