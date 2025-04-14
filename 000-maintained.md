@@ -274,6 +274,7 @@
 - [ ] [<code>refactor: Implement avatar image viewer and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/3594fa4f6dc640e34a9cb4c226a8e48409b69020)
 - [ ] [<code>feat: Filter for room members page and easier approve knocking users</code>](https://github.com/krille-chan/fluffychat/commit/5e7b0bf7247e053d15bd44fe5aa013d43bc7dfa6)
 - [ ] [<code>refactor: Move public room bottom sheet into dialog</code>](https://github.com/krille-chan/fluffychat/commit/c01e4ba797083998fe27ed5d8a12e67e620db19c)
+- [ ] [<code>chore: Follow up public rooms dialog</code>](https://github.com/krille-chan/fluffychat/commit/a1223c0e9be7c3a3f8a7cb3567812577eb9992d8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -356,6 +357,7 @@
 - [ ] [<code>refactor: Implement avatar image viewer and adjust design</code>](https://github.com/krille-chan/fluffychat/commit/3594fa4f6dc640e34a9cb4c226a8e48409b69020)
 - [ ] [<code>feat: Filter for room members page and easier approve knocking users</code>](https://github.com/krille-chan/fluffychat/commit/5e7b0bf7247e053d15bd44fe5aa013d43bc7dfa6)
 - [ ] [<code>refactor: Move public room bottom sheet into dialog</code>](https://github.com/krille-chan/fluffychat/commit/c01e4ba797083998fe27ed5d8a12e67e620db19c)
+- [ ] [<code>chore: Follow up public rooms dialog</code>](https://github.com/krille-chan/fluffychat/commit/a1223c0e9be7c3a3f8a7cb3567812577eb9992d8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -580,6 +582,7 @@
 - [ ] [<code>incusd/firewall/nftables: Cleanup rule formatting</code>](https://github.com/lxc/incus/commit/d137a063c2fe2a6983c995ba75c03731bee1557d)
 - [ ] [<code>incusd/firewall: Add basic rules on nftables</code>](https://github.com/lxc/incus/commit/a7c33301738aede3c035063e973b1d885d9bac7c)
 - [ ] [<code>incusd/storage/zfs: Make CacheVolumeSnapshots failures non-fatal</code>](https://github.com/lxc/incus/commit/f8d56e76336be9b1b8614121ba670afb59637b15)
+- [ ] [<code>incusd/instance/lxc: Restrict unprivileged ping to recent kernels</code>](https://github.com/lxc/incus/commit/493d45180861fe3cf86dc6bd0825b8adce49d0c5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3227,6 +3230,7 @@
 - [ ] [<code>incusd/firewall/nftables: Cleanup rule formatting</code>](https://github.com/lxc/incus/commit/d137a063c2fe2a6983c995ba75c03731bee1557d)
 - [ ] [<code>incusd/firewall: Add basic rules on nftables</code>](https://github.com/lxc/incus/commit/a7c33301738aede3c035063e973b1d885d9bac7c)
 - [ ] [<code>incusd/storage/zfs: Make CacheVolumeSnapshots failures non-fatal</code>](https://github.com/lxc/incus/commit/f8d56e76336be9b1b8614121ba670afb59637b15)
+- [ ] [<code>incusd/instance/lxc: Restrict unprivileged ping to recent kernels</code>](https://github.com/lxc/incus/commit/493d45180861fe3cf86dc6bd0825b8adce49d0c5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -5557,6 +5561,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/0cd2a7f7299bc13475ad626a3a57972c672ec53d)
 - [ ] [<code>chore(otel/journaldexporter): add socket/remote clients (#20121)</code>](https://github.com/netdata/netdata.git/commit/322bde853ade2c0cbcb44c233867c7722ebde1e6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-206-nightly.</code>](https://github.com/netdata/netdata.git/commit/f12d22c1f81effc2151f819aff175407d89f0e4a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6265,6 +6270,14 @@
 - [ ] [<code>tests:regressions: Give more time for slow architectures, like riscv64</code>](https://github.com/canonical/netplan/commit/73516550ffd9e750c9ac606d102bb81c45b37aa1)
 - [ ] [<code>tests:integration: Avoid race condition with veth MAC addresses.</code>](https://github.com/canonical/netplan/commit/a2dfe29938b92a01b43572ba6c152d9c7b2e2f8e)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>generate: Use G_DIR_SEPARATOR_S for paths</code>](https://github.com/canonical/netplan/commit/611766ac6c96396ed5748df6797d0b35ffd5bd9b)
+- [ ] [<code>tests:integration: `netplan try`</code>](https://github.com/canonical/netplan/commit/18b79eeecae908d1813143dc1a4f31d1c99bce69)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cli: ConfigManager must copy file ownership</code>](https://github.com/canonical/netplan/commit/a1a169f996a576ff3ca5f2583c529f6cd231e9ab)
+- [ ] [<code>cli: Use ConfigManager._copy_tree for try revert backup</code>](https://github.com/canonical/netplan/commit/a411998dd5982fc34992dec1e68d86fb5b633527)
+- [ ] [<code>generate: Don't run during `netplan try`</code>](https://github.com/canonical/netplan/commit/f9e35f66938695581098e91030be1ec71c36b865)
+- [ ] [<code>cli: Fix logging merged config</code>](https://github.com/canonical/netplan/commit/a3081d506e3c502dd387a61ed059583de9fd9656)
+- [ ] [<code>cli:configmanager: rename _copy_tree() to copy_tree()</code>](https://github.com/canonical/netplan/commit/84302d7606d02812b6f4aae26c93cd23a20fef4b)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
