@@ -85,6 +85,8 @@
 - [ ] [<code>sources/archlinux: Add riscv64 support</code>](https://github.com/lxc/distrobuilder/commit/454b1cf9b267c95c26e6adf958c093f0dcd62b5b)
 - [ ] [<code>github: Don't run gomod update</code>](https://github.com/lxc/distrobuilder/commit/90b6f60fab31066ec4a1f3d2bd2632eeebd32888)
 - [ ] [<code>archlinux: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/eab39d5c80b6279dd5672abcceafb183bc0f9a8f)
+- [ ] [<code>pacman: Add riscv64</code>](https://github.com/lxc/distrobuilder/commit/349d5996238021e07afe2160926eed6f886db2a2)
+- [ ] [<code>managers: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/032c7bf3e2090e26eacb8f34381f49db33f210d3)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
