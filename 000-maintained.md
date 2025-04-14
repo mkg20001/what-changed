@@ -583,6 +583,14 @@
 - [ ] [<code>incusd/firewall: Add basic rules on nftables</code>](https://github.com/lxc/incus/commit/a7c33301738aede3c035063e973b1d885d9bac7c)
 - [ ] [<code>incusd/storage/zfs: Make CacheVolumeSnapshots failures non-fatal</code>](https://github.com/lxc/incus/commit/f8d56e76336be9b1b8614121ba670afb59637b15)
 - [ ] [<code>incusd/instance/lxc: Restrict unprivileged ping to recent kernels</code>](https://github.com/lxc/incus/commit/493d45180861fe3cf86dc6bd0825b8adce49d0c5)
+- [ ] [<code>api: network_forward_snat</code>](https://github.com/lxc/incus/commit/f3745793612022487b39b42c370375995d1c4322)
+- [ ] [<code>doc/network_forwards: Add snat key</code>](https://github.com/lxc/incus/commit/2cde93c17ce5554ce47ade3bee2afa529d39c049)
+- [ ] [<code>shared/api: Add SNAT to NetworkForwardPort</code>](https://github.com/lxc/incus/commit/ba8319ac6272eb3fea3ffc240b76d89828f62d0c)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/b5d8ff55d2a262b989a00130f7e30fb514460bc0)
+- [ ] [<code>incusd/network/common: Add validation for SNAT</code>](https://github.com/lxc/incus/commit/c19f03c3f23f3a4f4a21e07dde112d972ecbdd8b)
+- [ ] [<code>incusd/network: Pass SNAT field to firewall driver</code>](https://github.com/lxc/incus/commit/6d4bb2222b2a3db8dd8d712e0b327486edbc863d)
+- [ ] [<code>incusd/firewall: Add support for forward SNAT rules</code>](https://github.com/lxc/incus/commit/9908a9d8372568c4998cae272cdc93b4c093c470)
+- [ ] [<code>doc: Add SNAT/DNAT to wordlist</code>](https://github.com/lxc/incus/commit/18265b568e803de40a4275792b9a4501daeb25d1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3231,6 +3239,14 @@
 - [ ] [<code>incusd/firewall: Add basic rules on nftables</code>](https://github.com/lxc/incus/commit/a7c33301738aede3c035063e973b1d885d9bac7c)
 - [ ] [<code>incusd/storage/zfs: Make CacheVolumeSnapshots failures non-fatal</code>](https://github.com/lxc/incus/commit/f8d56e76336be9b1b8614121ba670afb59637b15)
 - [ ] [<code>incusd/instance/lxc: Restrict unprivileged ping to recent kernels</code>](https://github.com/lxc/incus/commit/493d45180861fe3cf86dc6bd0825b8adce49d0c5)
+- [ ] [<code>api: network_forward_snat</code>](https://github.com/lxc/incus/commit/f3745793612022487b39b42c370375995d1c4322)
+- [ ] [<code>doc/network_forwards: Add snat key</code>](https://github.com/lxc/incus/commit/2cde93c17ce5554ce47ade3bee2afa529d39c049)
+- [ ] [<code>shared/api: Add SNAT to NetworkForwardPort</code>](https://github.com/lxc/incus/commit/ba8319ac6272eb3fea3ffc240b76d89828f62d0c)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/b5d8ff55d2a262b989a00130f7e30fb514460bc0)
+- [ ] [<code>incusd/network/common: Add validation for SNAT</code>](https://github.com/lxc/incus/commit/c19f03c3f23f3a4f4a21e07dde112d972ecbdd8b)
+- [ ] [<code>incusd/network: Pass SNAT field to firewall driver</code>](https://github.com/lxc/incus/commit/6d4bb2222b2a3db8dd8d712e0b327486edbc863d)
+- [ ] [<code>incusd/firewall: Add support for forward SNAT rules</code>](https://github.com/lxc/incus/commit/9908a9d8372568c4998cae272cdc93b4c093c470)
+- [ ] [<code>doc: Add SNAT/DNAT to wordlist</code>](https://github.com/lxc/incus/commit/18265b568e803de40a4275792b9a4501daeb25d1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3322,6 +3338,8 @@
 - [ ] [<code>avifenc: Report the tiling options for each frame</code>](https://github.com/AOMediaCodec/libavif/commit/4fd6e33ebb95883e88abe681862751a5cb4a6ec2)
 - [ ] [<code>Change avifenc to start in automatic tiling mode</code>](https://github.com/AOMediaCodec/libavif/commit/1894a21d13a80805fb6e6d06ba2dee5de6a647d3)
 - [ ] [<code>Fix comment issues related to "auto"</code>](https://github.com/AOMediaCodec/libavif/commit/f990ee5e61476ee22be165d08444c52834db3dbd)
+- [ ] [<code>Set Unspecified CICP in Seq Header OBU (#2687)</code>](https://github.com/AOMediaCodec/libavif/commit/fa089a0c3f8ed6e202034589cf98394e0226d66c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5562,6 +5580,11 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/0cd2a7f7299bc13475ad626a3a57972c672ec53d)
 - [ ] [<code>chore(otel/journaldexporter): add socket/remote clients (#20121)</code>](https://github.com/netdata/netdata.git/commit/322bde853ade2c0cbcb44c233867c7722ebde1e6)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.3.0-206-nightly.</code>](https://github.com/netdata/netdata.git/commit/f12d22c1f81effc2151f819aff175407d89f0e4a)
+- [ ] [<code>[ci skip] Minor release v2.4.0.</code>](https://github.com/netdata/netdata.git/commit/bfe1e17e1163334ecb7afb2bed90df754c4a5662)
+  - <sub>Tags: <code>v2.4.0</code></sub>
+- [ ] [<code>SNMP, Custom descriptions and units (#20100)</code>](https://github.com/netdata/netdata.git/commit/126e58eeb832d6bb163bbefecc21f266dc631904)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Create Empty Directories (Windows installer) (#20124)</code>](https://github.com/netdata/netdata.git/commit/1dc915c085d5618daf8708fabff483fd25eab349)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
