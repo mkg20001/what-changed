@@ -184,8 +184,10 @@
 - [ ] [<code>Update private.h: gcc-15 build fix (#667)</code>](https://github.com/linuxmint/xreader/commit/39b19ced58874908147d7aeaab8aa7674a123672)
 - [ ] [<code>epub: Disable support for sidebar thumbnails. (#671)</code>](https://github.com/linuxmint/xreader/commit/63f21d51f3c71320475c77dd1745f0c71a9d570b)
 - [ ] [<code>4.2.4</code>](https://github.com/linuxmint/xreader/commit/15154e82f006d84e13bdff08283ab978186c50eb)
-  - <sub>Tags: <code>4.2.4</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>4.2.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>ev-window.c: Check that we have a document set before accessing it.</code>](https://github.com/linuxmint/xreader/commit/6bc767b5324041f88e98bc9ee172b1b207f60d3e)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
