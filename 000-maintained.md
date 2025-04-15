@@ -262,6 +262,7 @@
 - [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
 - [ ] [<code>chore: Improve avatar designg</code>](https://github.com/krille-chan/fluffychat/commit/e0525940ba6e862070ee359f5f1f7c2d7a2aa41e)
 - [ ] [<code>chore: Follow up new room design</code>](https://github.com/krille-chan/fluffychat/commit/b6b1d6ddb144e457c757c80f4836340f0f2f5d1b)
+- [ ] [<code>chore: Correct availability of desktop builds</code>](https://github.com/krille-chan/fluffychat/commit/fdb0e0c17bee1102711929971704df813cd13fa3)
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/a12c48fae640b59babf9307830bd66daaf40aac6)
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/7e8f223eff6693b4d3b19bb90a999b8a4c61ee08)
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/8db9a05071c51e51b0acacefb03af47b2ab0d926)
@@ -275,6 +276,12 @@
 - [ ] [<code>feat: Filter for room members page and easier approve knocking users</code>](https://github.com/krille-chan/fluffychat/commit/5e7b0bf7247e053d15bd44fe5aa013d43bc7dfa6)
 - [ ] [<code>refactor: Move public room bottom sheet into dialog</code>](https://github.com/krille-chan/fluffychat/commit/c01e4ba797083998fe27ed5d8a12e67e620db19c)
 - [ ] [<code>chore: Follow up public rooms dialog</code>](https://github.com/krille-chan/fluffychat/commit/a1223c0e9be7c3a3f8a7cb3567812577eb9992d8)
+- [ ] [<code>fix: Text scale factor in Linkify widgets</code>](https://github.com/krille-chan/fluffychat/commit/60fe90233b8590c3c614fbe2e48e0193e67c03cf)
+- [ ] [<code>chore: Add matrix notifications for issues</code>](https://github.com/krille-chan/fluffychat/commit/50a22f89437abea0bb5e18cbe7a5f17605a4ff76)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/c708cc8c9bec6a177c346dd34c1d604e17f68b40)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/8a2b9933b3dac0660cb89e85b7be37c1706a073d)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/ce9a0f0e4f9aff2b4cf0118c1f14a10321b0063a)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/4e91a3e34708bb0da975b16e456cfe6ddfb742ea)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -345,6 +352,7 @@
 - [ ] [<code>fix: Null error in ClientChooserButton</code>](https://github.com/krille-chan/fluffychat/commit/782d0577a26511af30565a6569ce9ffaa7adf994)
 - [ ] [<code>chore: Improve avatar designg</code>](https://github.com/krille-chan/fluffychat/commit/e0525940ba6e862070ee359f5f1f7c2d7a2aa41e)
 - [ ] [<code>chore: Follow up new room design</code>](https://github.com/krille-chan/fluffychat/commit/b6b1d6ddb144e457c757c80f4836340f0f2f5d1b)
+- [ ] [<code>chore: Correct availability of desktop builds</code>](https://github.com/krille-chan/fluffychat/commit/fdb0e0c17bee1102711929971704df813cd13fa3)
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/a12c48fae640b59babf9307830bd66daaf40aac6)
 - [ ] [<code>refactor: Replace user bottom sheet with menu and small dialog</code>](https://github.com/krille-chan/fluffychat/commit/7e8f223eff6693b4d3b19bb90a999b8a4c61ee08)
 - [ ] [<code>chore: Follow up dialog themes</code>](https://github.com/krille-chan/fluffychat/commit/8db9a05071c51e51b0acacefb03af47b2ab0d926)
@@ -358,6 +366,12 @@
 - [ ] [<code>feat: Filter for room members page and easier approve knocking users</code>](https://github.com/krille-chan/fluffychat/commit/5e7b0bf7247e053d15bd44fe5aa013d43bc7dfa6)
 - [ ] [<code>refactor: Move public room bottom sheet into dialog</code>](https://github.com/krille-chan/fluffychat/commit/c01e4ba797083998fe27ed5d8a12e67e620db19c)
 - [ ] [<code>chore: Follow up public rooms dialog</code>](https://github.com/krille-chan/fluffychat/commit/a1223c0e9be7c3a3f8a7cb3567812577eb9992d8)
+- [ ] [<code>fix: Text scale factor in Linkify widgets</code>](https://github.com/krille-chan/fluffychat/commit/60fe90233b8590c3c614fbe2e48e0193e67c03cf)
+- [ ] [<code>chore: Add matrix notifications for issues</code>](https://github.com/krille-chan/fluffychat/commit/50a22f89437abea0bb5e18cbe7a5f17605a4ff76)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/c708cc8c9bec6a177c346dd34c1d604e17f68b40)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/8a2b9933b3dac0660cb89e85b7be37c1706a073d)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/ce9a0f0e4f9aff2b4cf0118c1f14a10321b0063a)
+- [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/4e91a3e34708bb0da975b16e456cfe6ddfb742ea)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -594,6 +608,9 @@
 - [ ] [<code>incusd/apparmor/lxc: Allow write access to /proc/sys/user</code>](https://github.com/lxc/incus/commit/2f7faf5471a145d929c72b8912e48684603998a2)
 - [ ] [<code>incusd/instance/lxc: Defer calls to the scheduler</code>](https://github.com/lxc/incus/commit/e7645bbfe564c4274bd2a4bdba745b6bb8460126)
 - [ ] [<code>shared/archive: Prevent xattr errors from crashing unsquashfs</code>](https://github.com/lxc/incus/commit/d13711610c18020d28052ede11caf91639cdc7e2)
+- [ ] [<code>incusd/storage/zfs: Extend use of the cache</code>](https://github.com/lxc/incus/commit/2b9ea657419efb3612b5217cebeca2ec30380a3f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance: Pre-fetch snapshot data in RenderFull</code>](https://github.com/lxc/incus/commit/7f789f125e884bcd6114dbe2df6c752ca4a79ea3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3253,6 +3270,9 @@
 - [ ] [<code>incusd/apparmor/lxc: Allow write access to /proc/sys/user</code>](https://github.com/lxc/incus/commit/2f7faf5471a145d929c72b8912e48684603998a2)
 - [ ] [<code>incusd/instance/lxc: Defer calls to the scheduler</code>](https://github.com/lxc/incus/commit/e7645bbfe564c4274bd2a4bdba745b6bb8460126)
 - [ ] [<code>shared/archive: Prevent xattr errors from crashing unsquashfs</code>](https://github.com/lxc/incus/commit/d13711610c18020d28052ede11caf91639cdc7e2)
+- [ ] [<code>incusd/storage/zfs: Extend use of the cache</code>](https://github.com/lxc/incus/commit/2b9ea657419efb3612b5217cebeca2ec30380a3f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance: Pre-fetch snapshot data in RenderFull</code>](https://github.com/lxc/incus/commit/7f789f125e884bcd6114dbe2df6c752ca4a79ea3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -5600,6 +5620,10 @@
 - [ ] [<code>Work to find leaks easily (#20106)</code>](https://github.com/netdata/netdata.git/commit/cb98702e117f90e13e1ddebeee96a06c7f6f4ce1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix compilation when using FSANITIZE_ADDRESS (#20129)</code>](https://github.com/netdata/netdata.git/commit/95aa4035645b858aabc8a2fe083bf280ba76c52d)
+- [ ] [<code>Handle corrupted journal data when populating the MRG during startup. (#20128)</code>](https://github.com/netdata/netdata.git/commit/69a709d87fad552111832f503217b7297da926f5)
+- [ ] [<code>Free ACLK message (#20125)</code>](https://github.com/netdata/netdata.git/commit/f7ebf886a67c4276cab09d71cd5df0a3f368a4eb)
+- [ ] [<code>Make sure pattern array items are added and evaluated in order (#20130)</code>](https://github.com/netdata/netdata.git/commit/73da081c168919ca5458cb91043b4a847b47dff5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
