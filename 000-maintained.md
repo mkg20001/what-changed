@@ -591,6 +591,7 @@
 - [ ] [<code>incusd/network: Pass SNAT field to firewall driver</code>](https://github.com/lxc/incus/commit/6d4bb2222b2a3db8dd8d712e0b327486edbc863d)
 - [ ] [<code>incusd/firewall: Add support for forward SNAT rules</code>](https://github.com/lxc/incus/commit/9908a9d8372568c4998cae272cdc93b4c093c470)
 - [ ] [<code>doc: Add SNAT/DNAT to wordlist</code>](https://github.com/lxc/incus/commit/18265b568e803de40a4275792b9a4501daeb25d1)
+- [ ] [<code>incusd/apparmor/lxc: Allow write access to /proc/sys/user</code>](https://github.com/lxc/incus/commit/2f7faf5471a145d929c72b8912e48684603998a2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3247,6 +3248,7 @@
 - [ ] [<code>incusd/network: Pass SNAT field to firewall driver</code>](https://github.com/lxc/incus/commit/6d4bb2222b2a3db8dd8d712e0b327486edbc863d)
 - [ ] [<code>incusd/firewall: Add support for forward SNAT rules</code>](https://github.com/lxc/incus/commit/9908a9d8372568c4998cae272cdc93b4c093c470)
 - [ ] [<code>doc: Add SNAT/DNAT to wordlist</code>](https://github.com/lxc/incus/commit/18265b568e803de40a4275792b9a4501daeb25d1)
+- [ ] [<code>incusd/apparmor/lxc: Allow write access to /proc/sys/user</code>](https://github.com/lxc/incus/commit/2f7faf5471a145d929c72b8912e48684603998a2)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3340,6 +3342,7 @@
 - [ ] [<code>Fix comment issues related to "auto"</code>](https://github.com/AOMediaCodec/libavif/commit/f990ee5e61476ee22be165d08444c52834db3dbd)
 - [ ] [<code>Set Unspecified CICP in Seq Header OBU (#2687)</code>](https://github.com/AOMediaCodec/libavif/commit/fa089a0c3f8ed6e202034589cf98394e0226d66c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Update libyuv.cmd: ce488afb7 (1908)</code>](https://github.com/AOMediaCodec/libavif/commit/b0d2ab965937311e99d95f17b174cd43b2c7b10a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5585,6 +5588,7 @@
 - [ ] [<code>SNMP, Custom descriptions and units (#20100)</code>](https://github.com/netdata/netdata.git/commit/126e58eeb832d6bb163bbefecc21f266dc631904)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Create Empty Directories (Windows installer) (#20124)</code>](https://github.com/netdata/netdata.git/commit/1dc915c085d5618daf8708fabff483fd25eab349)
+- [ ] [<code>fix cleanup and exit and memory leaks (#20120)</code>](https://github.com/netdata/netdata.git/commit/0194a2a2659cfcc78bb620128ade65501c2e87a7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
