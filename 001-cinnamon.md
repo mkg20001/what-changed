@@ -187,7 +187,10 @@
   - <sub>Tags: <code>4.2.4</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>ev-window.c: Check that we have a document set before accessing it.</code>](https://github.com/linuxmint/xreader/commit/6bc767b5324041f88e98bc9ee172b1b207f60d3e)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>ev-sidebar-thumbnails.c: Don't attempt to generate thumbnails</code>](https://github.com/linuxmint/xreader/commit/09d889355253480a828701c78b2aa00ac59e26ef)
+- [ ] [<code>4.2.5</code>](https://github.com/linuxmint/xreader/commit/47a051f29906cb95ef668366bfd212945654afca)
+  - <sub>Tags: <code>4.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
