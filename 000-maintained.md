@@ -592,6 +592,8 @@
 - [ ] [<code>incusd/firewall: Add support for forward SNAT rules</code>](https://github.com/lxc/incus/commit/9908a9d8372568c4998cae272cdc93b4c093c470)
 - [ ] [<code>doc: Add SNAT/DNAT to wordlist</code>](https://github.com/lxc/incus/commit/18265b568e803de40a4275792b9a4501daeb25d1)
 - [ ] [<code>incusd/apparmor/lxc: Allow write access to /proc/sys/user</code>](https://github.com/lxc/incus/commit/2f7faf5471a145d929c72b8912e48684603998a2)
+- [ ] [<code>incusd/instance/lxc: Defer calls to the scheduler</code>](https://github.com/lxc/incus/commit/e7645bbfe564c4274bd2a4bdba745b6bb8460126)
+- [ ] [<code>shared/archive: Prevent xattr errors from crashing unsquashfs</code>](https://github.com/lxc/incus/commit/d13711610c18020d28052ede11caf91639cdc7e2)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3249,6 +3251,8 @@
 - [ ] [<code>incusd/firewall: Add support for forward SNAT rules</code>](https://github.com/lxc/incus/commit/9908a9d8372568c4998cae272cdc93b4c093c470)
 - [ ] [<code>doc: Add SNAT/DNAT to wordlist</code>](https://github.com/lxc/incus/commit/18265b568e803de40a4275792b9a4501daeb25d1)
 - [ ] [<code>incusd/apparmor/lxc: Allow write access to /proc/sys/user</code>](https://github.com/lxc/incus/commit/2f7faf5471a145d929c72b8912e48684603998a2)
+- [ ] [<code>incusd/instance/lxc: Defer calls to the scheduler</code>](https://github.com/lxc/incus/commit/e7645bbfe564c4274bd2a4bdba745b6bb8460126)
+- [ ] [<code>shared/archive: Prevent xattr errors from crashing unsquashfs</code>](https://github.com/lxc/incus/commit/d13711610c18020d28052ede11caf91639cdc7e2)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3343,6 +3347,7 @@
 - [ ] [<code>Set Unspecified CICP in Seq Header OBU (#2687)</code>](https://github.com/AOMediaCodec/libavif/commit/fa089a0c3f8ed6e202034589cf98394e0226d66c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Update libyuv.cmd: ce488afb7 (1908)</code>](https://github.com/AOMediaCodec/libavif/commit/b0d2ab965937311e99d95f17b174cd43b2c7b10a)
+- [ ] [<code>Update to libaom v3.12.1</code>](https://github.com/AOMediaCodec/libavif/commit/3727a852fbcb7ce14be45ff0bfb6537884dbb5ab)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5589,6 +5594,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Create Empty Directories (Windows installer) (#20124)</code>](https://github.com/netdata/netdata.git/commit/1dc915c085d5618daf8708fabff483fd25eab349)
 - [ ] [<code>fix cleanup and exit and memory leaks (#20120)</code>](https://github.com/netdata/netdata.git/commit/0194a2a2659cfcc78bb620128ade65501c2e87a7)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-4-nightly.</code>](https://github.com/netdata/netdata.git/commit/b163d97ce6e3eb555c71072d5fcb0e1e9ba2693d)
+- [ ] [<code>Sqlite upgrade to version 3.49.1 (#19933)</code>](https://github.com/netdata/netdata.git/commit/05ea48e5761a983b02021fb8b121bd839c60ec69)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Work to find leaks easily (#20106)</code>](https://github.com/netdata/netdata.git/commit/cb98702e117f90e13e1ddebeee96a06c7f6f4ce1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
