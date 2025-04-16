@@ -5640,6 +5640,8 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-11-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ac4c79a3bd6f45f231a65562a0ccd5953c826fd)
 - [ ] [<code>Fix Locks (Windows Locks) (#20131)</code>](https://github.com/netdata/netdata.git/commit/26fe27e9f65c54c1e37e5859f71e6c224e932bbd)
 - [ ] [<code>Update README.md (#20133)</code>](https://github.com/netdata/netdata.git/commit/307cee8ec25d4720715b6e2e765117ad20ce80d1)
+- [ ] [<code>Installation-Static Build-Windows (#20122)</code>](https://github.com/netdata/netdata.git/commit/f7fb97708648fb3f76833c7d629210a4eeb73cc0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
