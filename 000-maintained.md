@@ -611,6 +611,12 @@
 - [ ] [<code>incusd/storage/zfs: Extend use of the cache</code>](https://github.com/lxc/incus/commit/2b9ea657419efb3612b5217cebeca2ec30380a3f)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/instance: Pre-fetch snapshot data in RenderFull</code>](https://github.com/lxc/incus/commit/7f789f125e884bcd6114dbe2df6c752ca4a79ea3)
+- [ ] [<code>incus-simplestreams: Add import and delete  aliases to add and remove</code>](https://github.com/lxc/incus/commit/2effcb67e9f8cc09a4734db83c9797bfb03cac18)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add remove alias to delete</code>](https://github.com/lxc/incus/commit/c504c24e3ad0cca6ce415f941dd8125444bf20cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/http: Support passing bearer authentication token through access_token parameter</code>](https://github.com/lxc/incus/commit/1a94f8590c405718d7a3335c46d520e42d151bd7)
+- [ ] [<code>tests: Test the access_token handling</code>](https://github.com/lxc/incus/commit/4f769b37d4bdcd6f2ac81e2d03b93942cfe46934)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3273,6 +3279,12 @@
 - [ ] [<code>incusd/storage/zfs: Extend use of the cache</code>](https://github.com/lxc/incus/commit/2b9ea657419efb3612b5217cebeca2ec30380a3f)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/instance: Pre-fetch snapshot data in RenderFull</code>](https://github.com/lxc/incus/commit/7f789f125e884bcd6114dbe2df6c752ca4a79ea3)
+- [ ] [<code>incus-simplestreams: Add import and delete  aliases to add and remove</code>](https://github.com/lxc/incus/commit/2effcb67e9f8cc09a4734db83c9797bfb03cac18)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add remove alias to delete</code>](https://github.com/lxc/incus/commit/c504c24e3ad0cca6ce415f941dd8125444bf20cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/http: Support passing bearer authentication token through access_token parameter</code>](https://github.com/lxc/incus/commit/1a94f8590c405718d7a3335c46d520e42d151bd7)
+- [ ] [<code>tests: Test the access_token handling</code>](https://github.com/lxc/incus/commit/4f769b37d4bdcd6f2ac81e2d03b93942cfe46934)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3368,6 +3380,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Update libyuv.cmd: ce488afb7 (1908)</code>](https://github.com/AOMediaCodec/libavif/commit/b0d2ab965937311e99d95f17b174cd43b2c7b10a)
 - [ ] [<code>Update to libaom v3.12.1</code>](https://github.com/AOMediaCodec/libavif/commit/3727a852fbcb7ce14be45ff0bfb6537884dbb5ab)
+- [ ] [<code>Add context to MC 0 with 4:4:4 requirement (#2766)</code>](https://github.com/AOMediaCodec/libavif/commit/0e52867143573f82f39a76bd921a0cc2636d0b60)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5624,6 +5637,9 @@
 - [ ] [<code>Handle corrupted journal data when populating the MRG during startup. (#20128)</code>](https://github.com/netdata/netdata.git/commit/69a709d87fad552111832f503217b7297da926f5)
 - [ ] [<code>Free ACLK message (#20125)</code>](https://github.com/netdata/netdata.git/commit/f7ebf886a67c4276cab09d71cd5df0a3f368a4eb)
 - [ ] [<code>Make sure pattern array items are added and evaluated in order (#20130)</code>](https://github.com/netdata/netdata.git/commit/73da081c168919ca5458cb91043b4a847b47dff5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-11-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ac4c79a3bd6f45f231a65562a0ccd5953c826fd)
+- [ ] [<code>Fix Locks (Windows Locks) (#20131)</code>](https://github.com/netdata/netdata.git/commit/26fe27e9f65c54c1e37e5859f71e6c224e932bbd)
+- [ ] [<code>Update README.md (#20133)</code>](https://github.com/netdata/netdata.git/commit/307cee8ec25d4720715b6e2e765117ad20ce80d1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
