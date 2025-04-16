@@ -56,8 +56,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian/control: Remove old gdkpixbuf package.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e88a36bde8a3806c3b5951172569b9adbdf6eedc)
 - [ ] [<code>build: Fix gnome-languages introspection.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a87c98c1bb2e3998d9df373a8f6432ab75744d75)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Cvc null check profile (#254)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e68cdbe2d837594d8258a026500a0b84a57e792)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
@@ -194,3 +195,7 @@
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
+- [ ] [<code>Make color correction optional and disabled by default</code>](https://github.com/linuxmint/xviewer/commit/efa13bbb456a10e0a7b8f9647c7dd9805ceea7a4)
+- [ ] [<code>Preferences: Adjust spacing</code>](https://github.com/linuxmint/xviewer/commit/7b579acfa5d3c52da6b553cdef9be0079992ef79)
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xviewer/commit/fb5a85d2e6cddedc6540c82b37e92a9fdc3aa7fd)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
