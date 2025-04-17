@@ -282,6 +282,9 @@
 - [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/8a2b9933b3dac0660cb89e85b7be37c1706a073d)
 - [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/ce9a0f0e4f9aff2b4cf0118c1f14a10321b0063a)
 - [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/4e91a3e34708bb0da975b16e456cfe6ddfb742ea)
+- [ ] [<code>build: Flutter 3.29.3</code>](https://github.com/krille-chan/fluffychat/commit/955ceec288c9c0693558232d5d8798ae3bb3345c)
+- [ ] [<code>chore: Nicer scaffold dialog for column mode</code>](https://github.com/krille-chan/fluffychat/commit/64ba93d8ea6841d58288a06354295f8f0693cb8b)
+- [ ] [<code>chore: Follow up scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6edfb40207d5a48a1491a7cc54cf0f65bad5db45)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -372,6 +375,9 @@
 - [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/8a2b9933b3dac0660cb89e85b7be37c1706a073d)
 - [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/ce9a0f0e4f9aff2b4cf0118c1f14a10321b0063a)
 - [ ] [<code>chore: Follow up matrix notification</code>](https://github.com/krille-chan/fluffychat/commit/4e91a3e34708bb0da975b16e456cfe6ddfb742ea)
+- [ ] [<code>build: Flutter 3.29.3</code>](https://github.com/krille-chan/fluffychat/commit/955ceec288c9c0693558232d5d8798ae3bb3345c)
+- [ ] [<code>chore: Nicer scaffold dialog for column mode</code>](https://github.com/krille-chan/fluffychat/commit/64ba93d8ea6841d58288a06354295f8f0693cb8b)
+- [ ] [<code>chore: Follow up scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6edfb40207d5a48a1491a7cc54cf0f65bad5db45)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -617,6 +623,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/http: Support passing bearer authentication token through access_token parameter</code>](https://github.com/lxc/incus/commit/1a94f8590c405718d7a3335c46d520e42d151bd7)
 - [ ] [<code>tests: Test the access_token handling</code>](https://github.com/lxc/incus/commit/4f769b37d4bdcd6f2ac81e2d03b93942cfe46934)
+- [ ] [<code>incusd/instance/qmp: Add utility functions for memory manipulation</code>](https://github.com/lxc/incus/commit/8b10c5d4f400e8701f504b90493f1ad496671849)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Extract getCPUOpts for reuse</code>](https://github.com/lxc/incus/commit/35a2943bd0ceb0ad47049fd01c4069aebea58032)
+- [ ] [<code>incusd/instance/drivers: Add support for memory hotplug</code>](https://github.com/lxc/incus/commit/c39593e76b14068b9ba3c66003f4c5144a444b6e)
+- [ ] [<code>api: memory_hotplug</code>](https://github.com/lxc/incus/commit/7930ff53004dbfcc0f99beacbe9e7766ac87442d)
+- [ ] [<code>tests: Add tests for memory hotplug helper functions</code>](https://github.com/lxc/incus/commit/de166dd20198434c7cb14412f2c3111cb45767d1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3285,6 +3297,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/http: Support passing bearer authentication token through access_token parameter</code>](https://github.com/lxc/incus/commit/1a94f8590c405718d7a3335c46d520e42d151bd7)
 - [ ] [<code>tests: Test the access_token handling</code>](https://github.com/lxc/incus/commit/4f769b37d4bdcd6f2ac81e2d03b93942cfe46934)
+- [ ] [<code>incusd/instance/qmp: Add utility functions for memory manipulation</code>](https://github.com/lxc/incus/commit/8b10c5d4f400e8701f504b90493f1ad496671849)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/drivers: Extract getCPUOpts for reuse</code>](https://github.com/lxc/incus/commit/35a2943bd0ceb0ad47049fd01c4069aebea58032)
+- [ ] [<code>incusd/instance/drivers: Add support for memory hotplug</code>](https://github.com/lxc/incus/commit/c39593e76b14068b9ba3c66003f4c5144a444b6e)
+- [ ] [<code>api: memory_hotplug</code>](https://github.com/lxc/incus/commit/7930ff53004dbfcc0f99beacbe9e7766ac87442d)
+- [ ] [<code>tests: Add tests for memory hotplug helper functions</code>](https://github.com/lxc/incus/commit/de166dd20198434c7cb14412f2c3111cb45767d1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3381,6 +3399,7 @@
 - [ ] [<code>Update libyuv.cmd: ce488afb7 (1908)</code>](https://github.com/AOMediaCodec/libavif/commit/b0d2ab965937311e99d95f17b174cd43b2c7b10a)
 - [ ] [<code>Update to libaom v3.12.1</code>](https://github.com/AOMediaCodec/libavif/commit/3727a852fbcb7ce14be45ff0bfb6537884dbb5ab)
 - [ ] [<code>Add context to MC 0 with 4:4:4 requirement (#2766)</code>](https://github.com/AOMediaCodec/libavif/commit/0e52867143573f82f39a76bd921a0cc2636d0b60)
+- [ ] [<code>Small improvements to avif_example_encode.c</code>](https://github.com/AOMediaCodec/libavif/commit/4c101af835db17f0400aeae1e0fcbfe9a1ef5184)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5642,6 +5661,10 @@
 - [ ] [<code>Update README.md (#20133)</code>](https://github.com/netdata/netdata.git/commit/307cee8ec25d4720715b6e2e765117ad20ce80d1)
 - [ ] [<code>Installation-Static Build-Windows (#20122)</code>](https://github.com/netdata/netdata.git/commit/f7fb97708648fb3f76833c7d629210a4eeb73cc0)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-15-nightly.</code>](https://github.com/netdata/netdata.git/commit/b04f807665dff59dc8c4c5a88a0a2cf97beaee59)
+- [ ] [<code>Expression evaluator in re2c/lemon (#20126)</code>](https://github.com/netdata/netdata.git/commit/2e65811be48f37a6d4f4779981701e82e5f058fb)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
