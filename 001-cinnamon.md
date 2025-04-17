@@ -174,24 +174,15 @@
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.8...HEAD)
 
 - [ ] [<code>xapp-favorites.c: Fix g-ir-scanner warning during build.</code>](https://github.com/linuxmint/xapp/commit/5f8ca8fb80f2a3e7e98b253f92f118a7c3b641fe)
+- [ ] [<code>debian/control: Clean up libgdk-pixbuf depends.</code>](https://github.com/linuxmint/xapp/commit/c58ecca4ab7d2da9186522168ade264ee36c4629)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
 - [ ] [<code>debian/control: Use correct package to get systemd .pc file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/02db7624913967d49e7682fe76350b65845aece8)
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.2.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.3...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.2.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.5...HEAD)
 
-- [ ] [<code>Update private.h: gcc-15 build fix (#667)</code>](https://github.com/linuxmint/xreader/commit/39b19ced58874908147d7aeaab8aa7674a123672)
-- [ ] [<code>epub: Disable support for sidebar thumbnails. (#671)</code>](https://github.com/linuxmint/xreader/commit/63f21d51f3c71320475c77dd1745f0c71a9d570b)
-- [ ] [<code>4.2.4</code>](https://github.com/linuxmint/xreader/commit/15154e82f006d84e13bdff08283ab978186c50eb)
-  - <sub>Tags: <code>4.2.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>ev-window.c: Check that we have a document set before accessing it.</code>](https://github.com/linuxmint/xreader/commit/6bc767b5324041f88e98bc9ee172b1b207f60d3e)
-- [ ] [<code>ev-sidebar-thumbnails.c: Don't attempt to generate thumbnails</code>](https://github.com/linuxmint/xreader/commit/09d889355253480a828701c78b2aa00ac59e26ef)
-- [ ] [<code>4.2.5</code>](https://github.com/linuxmint/xreader/commit/47a051f29906cb95ef668366bfd212945654afca)
-  - <sub>Tags: <code>4.2.5</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
