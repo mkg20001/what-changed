@@ -5665,6 +5665,18 @@
 - [ ] [<code>Expression evaluator in re2c/lemon (#20126)</code>](https://github.com/netdata/netdata.git/commit/2e65811be48f37a6d4f4779981701e82e5f058fb)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Install fix admonition docs (#20136)</code>](https://github.com/netdata/netdata.git/commit/a458db4ae5a91cac55376b359916751ff985039d)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update MSI to use a single unified EULA instead of multiple license pages. (#20134)</code>](https://github.com/netdata/netdata.git/commit/d0ea4e9596452e4e0c7e82411815c641d6a03b8e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Create netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/cafade86bc1dca0440f2bc2098d91f4ed213847c)
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/f7eda1de39b404a5bac8698eca85cfb5b499a4d6)
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/6f739020bec59bfb8ee9f508a74075592c87653b)
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/49b77709b24dbe4de95786661fdbb1e8bd49bec3)
+- [ ] [<code>Improve error handling and logging for journal and data files (#20112)</code>](https://github.com/netdata/netdata.git/commit/525556aad6a46889a9426e043275b04d42b31014)
+- [ ] [<code>Fix MSSQL and improvements (#20032)</code>](https://github.com/netdata/netdata.git/commit/aff889011f29d1c9995cb20d9d879414d21efab2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
