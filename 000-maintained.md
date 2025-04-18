@@ -5686,6 +5686,7 @@
 - [ ] [<code>Improve error handling and logging for journal and data files (#20112)</code>](https://github.com/netdata/netdata.git/commit/525556aad6a46889a9426e043275b04d42b31014)
 - [ ] [<code>Fix MSSQL and improvements (#20032)</code>](https://github.com/netdata/netdata.git/commit/aff889011f29d1c9995cb20d9d879414d21efab2)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/693a9a816d7e938c628ed4683912b2103c34193d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
