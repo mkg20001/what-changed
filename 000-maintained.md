@@ -286,6 +286,8 @@
 - [ ] [<code>build: Flutter 3.29.3</code>](https://github.com/krille-chan/fluffychat/commit/955ceec288c9c0693558232d5d8798ae3bb3345c)
 - [ ] [<code>chore: Nicer scaffold dialog for column mode</code>](https://github.com/krille-chan/fluffychat/commit/64ba93d8ea6841d58288a06354295f8f0693cb8b)
 - [ ] [<code>chore: Follow up scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6edfb40207d5a48a1491a7cc54cf0f65bad5db45)
+- [ ] [<code>chore: Follow up members list</code>](https://github.com/krille-chan/fluffychat/commit/a8a15e900beb45158c959ee8ab22f70236941c96)
+- [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/8c75e31612448275fceaa62a1972ea244f178e73)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -379,6 +381,8 @@
 - [ ] [<code>build: Flutter 3.29.3</code>](https://github.com/krille-chan/fluffychat/commit/955ceec288c9c0693558232d5d8798ae3bb3345c)
 - [ ] [<code>chore: Nicer scaffold dialog for column mode</code>](https://github.com/krille-chan/fluffychat/commit/64ba93d8ea6841d58288a06354295f8f0693cb8b)
 - [ ] [<code>chore: Follow up scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6edfb40207d5a48a1491a7cc54cf0f65bad5db45)
+- [ ] [<code>chore: Follow up members list</code>](https://github.com/krille-chan/fluffychat/commit/a8a15e900beb45158c959ee8ab22f70236941c96)
+- [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/8c75e31612448275fceaa62a1972ea244f178e73)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -634,6 +638,8 @@
 - [ ] [<code>incusd/storage/zfs: Rework ZFS setting enforcement</code>](https://github.com/lxc/incus/commit/45b9c1df808ba865a4675b38e465447ee7045c37)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd: Remove old routing logic</code>](https://github.com/lxc/incus/commit/a1b7634df864615fa7af4dec5fc5f9dc079c0139)
+- [ ] [<code>incusd/instances_post: Fix bad function call</code>](https://github.com/lxc/incus/commit/13f6ccc624dcdc2dd8717b83673267eef6aa7711)
+- [ ] [<code>incusd/devices: Don't require a serial number for USB hotplug</code>](https://github.com/lxc/incus/commit/5d6abd76d78f8fba991cef2271de17b65fc128db)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3312,6 +3318,8 @@
 - [ ] [<code>incusd/storage/zfs: Rework ZFS setting enforcement</code>](https://github.com/lxc/incus/commit/45b9c1df808ba865a4675b38e465447ee7045c37)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd: Remove old routing logic</code>](https://github.com/lxc/incus/commit/a1b7634df864615fa7af4dec5fc5f9dc079c0139)
+- [ ] [<code>incusd/instances_post: Fix bad function call</code>](https://github.com/lxc/incus/commit/13f6ccc624dcdc2dd8717b83673267eef6aa7711)
+- [ ] [<code>incusd/devices: Don't require a serial number for USB hotplug</code>](https://github.com/lxc/incus/commit/5d6abd76d78f8fba991cef2271de17b65fc128db)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -5687,6 +5695,11 @@
 - [ ] [<code>Fix MSSQL and improvements (#20032)</code>](https://github.com/netdata/netdata.git/commit/aff889011f29d1c9995cb20d9d879414d21efab2)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/693a9a816d7e938c628ed4683912b2103c34193d)
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/0a89976697a6bafc71bc1ee7ff68c93e396d826c)
+- [ ] [<code>chore(otel/journaldexporter): improve remote tests (#20143)</code>](https://github.com/netdata/netdata.git/commit/7d312bb23f6eda2aa400559e08771e8844259a5b)
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/bb03a037b36872c26d6b9c8612130dd1bcb58ed5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/437a7ba62c8fd8e938d27970414327c91b4ebd2f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
