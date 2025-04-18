@@ -87,6 +87,7 @@
 - [ ] [<code>archlinux: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/eab39d5c80b6279dd5672abcceafb183bc0f9a8f)
 - [ ] [<code>pacman: Add riscv64</code>](https://github.com/lxc/distrobuilder/commit/349d5996238021e07afe2160926eed6f886db2a2)
 - [ ] [<code>managers: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/032c7bf3e2090e26eacb8f34381f49db33f210d3)
+- [ ] [<code>Usage: Set image.os for Windows installation</code>](https://github.com/lxc/distrobuilder/commit/f870b35312ae8fd76a02ff30cb2c638845d564a5)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -629,6 +630,10 @@
 - [ ] [<code>incusd/instance/drivers: Add support for memory hotplug</code>](https://github.com/lxc/incus/commit/c39593e76b14068b9ba3c66003f4c5144a444b6e)
 - [ ] [<code>api: memory_hotplug</code>](https://github.com/lxc/incus/commit/7930ff53004dbfcc0f99beacbe9e7766ac87442d)
 - [ ] [<code>tests: Add tests for memory hotplug helper functions</code>](https://github.com/lxc/incus/commit/de166dd20198434c7cb14412f2c3111cb45767d1)
+- [ ] [<code>incusd/instances_post: Properly handle refresh migrations</code>](https://github.com/lxc/incus/commit/26b3971936bb9208997c76dbfcb4ea74b7aa0be8)
+- [ ] [<code>incusd/storage/zfs: Rework ZFS setting enforcement</code>](https://github.com/lxc/incus/commit/45b9c1df808ba865a4675b38e465447ee7045c37)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd: Remove old routing logic</code>](https://github.com/lxc/incus/commit/a1b7634df864615fa7af4dec5fc5f9dc079c0139)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3303,6 +3308,10 @@
 - [ ] [<code>incusd/instance/drivers: Add support for memory hotplug</code>](https://github.com/lxc/incus/commit/c39593e76b14068b9ba3c66003f4c5144a444b6e)
 - [ ] [<code>api: memory_hotplug</code>](https://github.com/lxc/incus/commit/7930ff53004dbfcc0f99beacbe9e7766ac87442d)
 - [ ] [<code>tests: Add tests for memory hotplug helper functions</code>](https://github.com/lxc/incus/commit/de166dd20198434c7cb14412f2c3111cb45767d1)
+- [ ] [<code>incusd/instances_post: Properly handle refresh migrations</code>](https://github.com/lxc/incus/commit/26b3971936bb9208997c76dbfcb4ea74b7aa0be8)
+- [ ] [<code>incusd/storage/zfs: Rework ZFS setting enforcement</code>](https://github.com/lxc/incus/commit/45b9c1df808ba865a4675b38e465447ee7045c37)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd: Remove old routing logic</code>](https://github.com/lxc/incus/commit/a1b7634df864615fa7af4dec5fc5f9dc079c0139)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
