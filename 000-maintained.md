@@ -288,6 +288,7 @@
 - [ ] [<code>chore: Follow up scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6edfb40207d5a48a1491a7cc54cf0f65bad5db45)
 - [ ] [<code>chore: Follow up members list</code>](https://github.com/krille-chan/fluffychat/commit/a8a15e900beb45158c959ee8ab22f70236941c96)
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/8c75e31612448275fceaa62a1972ea244f178e73)
+- [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/1b42cf44fc83ac45433b1c1822ec2d2e86e5799d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -383,6 +384,7 @@
 - [ ] [<code>chore: Follow up scaffold dialog</code>](https://github.com/krille-chan/fluffychat/commit/6edfb40207d5a48a1491a7cc54cf0f65bad5db45)
 - [ ] [<code>chore: Follow up members list</code>](https://github.com/krille-chan/fluffychat/commit/a8a15e900beb45158c959ee8ab22f70236941c96)
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/8c75e31612448275fceaa62a1972ea244f178e73)
+- [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/1b42cf44fc83ac45433b1c1822ec2d2e86e5799d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5700,6 +5702,7 @@
 - [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/bb03a037b36872c26d6b9c8612130dd1bcb58ed5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/437a7ba62c8fd8e938d27970414327c91b4ebd2f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-30-nightly.</code>](https://github.com/netdata/netdata.git/commit/184007d6abb831ac253308ba33133454fbc4778a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6894,6 +6897,14 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [v0.43.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.43.0...HEAD)
 
+- [ ] [<code>Fixed #639 - no freq via Omnirig for IC7400</code>](https://github.com/foldynl/QLog.git/commit/f5850e0e6fa610cbdba032b6e3571522093d475a)
+- [ ] [<code>Fixed #453 - Click on PHONE DX Spots sets wrong mode</code>](https://github.com/foldynl/QLog.git/commit/c5d748a81dc7fb6c6c8e14b3a52c675a418ece66)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/e6584150ccc6d592f19a8c1302f531130acc8712)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e0623a87f4af2d19a470cb0fb839792d31758bb4)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/eda5e610a5cd04faf68bf6bdad4cc79f435521bb)
+- [ ] [<code>CI/CD: Removed Ubuntu 20.04</code>](https://github.com/foldynl/QLog.git/commit/9e07effa0a4e97c723023b41caec477edc197ce7)
+- [ ] [<code>Preparation for release 0.43.1</code>](https://github.com/foldynl/QLog.git/commit/c0cb3f1e1b975af2017a22f5013cc196564f91c6)
+  - <sub>Tags: <code>v0.43.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
