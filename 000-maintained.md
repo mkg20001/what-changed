@@ -289,6 +289,10 @@
 - [ ] [<code>chore: Follow up members list</code>](https://github.com/krille-chan/fluffychat/commit/a8a15e900beb45158c959ee8ab22f70236941c96)
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/8c75e31612448275fceaa62a1972ea244f178e73)
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/1b42cf44fc83ac45433b1c1822ec2d2e86e5799d)
+- [ ] [<code>chore: Follow up file message design</code>](https://github.com/krille-chan/fluffychat/commit/b895ca55238beda0949f01c17e0758b662be50cc)
+- [ ] [<code>build: Bump version to 1.26.0</code>](https://github.com/krille-chan/fluffychat/commit/8dd1b6dd8b96703b33c29c7a394acb88614385c1)
+  - <sub>Tags: <code>rc1.26.0-1</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -385,6 +389,10 @@
 - [ ] [<code>chore: Follow up members list</code>](https://github.com/krille-chan/fluffychat/commit/a8a15e900beb45158c959ee8ab22f70236941c96)
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/8c75e31612448275fceaa62a1972ea244f178e73)
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/1b42cf44fc83ac45433b1c1822ec2d2e86e5799d)
+- [ ] [<code>chore: Follow up file message design</code>](https://github.com/krille-chan/fluffychat/commit/b895ca55238beda0949f01c17e0758b662be50cc)
+- [ ] [<code>build: Bump version to 1.26.0</code>](https://github.com/krille-chan/fluffychat/commit/8dd1b6dd8b96703b33c29c7a394acb88614385c1)
+  - <sub>Tags: <code>rc1.26.0-1</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -642,6 +650,12 @@
 - [ ] [<code>incusd: Remove old routing logic</code>](https://github.com/lxc/incus/commit/a1b7634df864615fa7af4dec5fc5f9dc079c0139)
 - [ ] [<code>incusd/instances_post: Fix bad function call</code>](https://github.com/lxc/incus/commit/13f6ccc624dcdc2dd8717b83673267eef6aa7711)
 - [ ] [<code>incusd/devices: Don't require a serial number for USB hotplug</code>](https://github.com/lxc/incus/commit/5d6abd76d78f8fba991cef2271de17b65fc128db)
+- [ ] [<code>Move tls testing functions to tlstest</code>](https://github.com/lxc/incus/commit/5eb1d9bb574ca2c8b55c53da9682634dada65362)
+- [ ] [<code>incusd/device/proxy: Add gendoc comments</code>](https://github.com/lxc/incus/commit/c1f4753577d4a7b21c1930c60ec637a57ec03b43)
+- [ ] [<code>doc: Update generated configs</code>](https://github.com/lxc/incus/commit/b441c927152cd288fa4da022c84b8ac2a2bcd6a5)
+- [ ] [<code>doc/devices/proxy: Use gendoc for docs</code>](https://github.com/lxc/incus/commit/416f94bad2f81da1acbccb16cb49a65ba1832a71)
+- [ ] [<code>Remove Rican7/retry dependency</code>](https://github.com/lxc/incus/commit/d5c456da35f932a674fba92079427b66996123dd)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3322,9 +3336,16 @@
 - [ ] [<code>incusd: Remove old routing logic</code>](https://github.com/lxc/incus/commit/a1b7634df864615fa7af4dec5fc5f9dc079c0139)
 - [ ] [<code>incusd/instances_post: Fix bad function call</code>](https://github.com/lxc/incus/commit/13f6ccc624dcdc2dd8717b83673267eef6aa7711)
 - [ ] [<code>incusd/devices: Don't require a serial number for USB hotplug</code>](https://github.com/lxc/incus/commit/5d6abd76d78f8fba991cef2271de17b65fc128db)
+- [ ] [<code>Move tls testing functions to tlstest</code>](https://github.com/lxc/incus/commit/5eb1d9bb574ca2c8b55c53da9682634dada65362)
+- [ ] [<code>incusd/device/proxy: Add gendoc comments</code>](https://github.com/lxc/incus/commit/c1f4753577d4a7b21c1930c60ec637a57ec03b43)
+- [ ] [<code>doc: Update generated configs</code>](https://github.com/lxc/incus/commit/b441c927152cd288fa4da022c84b8ac2a2bcd6a5)
+- [ ] [<code>doc/devices/proxy: Use gendoc for docs</code>](https://github.com/lxc/incus/commit/416f94bad2f81da1acbccb16cb49a65ba1832a71)
+- [ ] [<code>Remove Rican7/retry dependency</code>](https://github.com/lxc/incus/commit/d5c456da35f932a674fba92079427b66996123dd)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
+- [ ] [<code>Add field for cluster member when adding/editing network forwards</code>](https://github.com/zabbly/incus-ui-canonical/commit/5b7c449931baf2a804bcfb80a068b65628d6f1eb)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
