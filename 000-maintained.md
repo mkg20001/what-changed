@@ -6925,16 +6925,8 @@
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [v0.43.0 → HEAD](https://github.com/foldynl/QLog.git/compare/v0.43.0...HEAD)
+#### [qlog](https://github.com/foldynl/QLog.git): [refs/tags/v0.43.1 → HEAD](https://github.com/foldynl/QLog.git/compare/refs/tags/v0.43.1...HEAD)
 
-- [ ] [<code>Fixed #639 - no freq via Omnirig for IC7400</code>](https://github.com/foldynl/QLog.git/commit/f5850e0e6fa610cbdba032b6e3571522093d475a)
-- [ ] [<code>Fixed #453 - Click on PHONE DX Spots sets wrong mode</code>](https://github.com/foldynl/QLog.git/commit/c5d748a81dc7fb6c6c8e14b3a52c675a418ece66)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/e6584150ccc6d592f19a8c1302f531130acc8712)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/e0623a87f4af2d19a470cb0fb839792d31758bb4)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/eda5e610a5cd04faf68bf6bdad4cc79f435521bb)
-- [ ] [<code>CI/CD: Removed Ubuntu 20.04</code>](https://github.com/foldynl/QLog.git/commit/9e07effa0a4e97c723023b41caec477edc197ce7)
-- [ ] [<code>Preparation for release 0.43.1</code>](https://github.com/foldynl/QLog.git/commit/c0cb3f1e1b975af2017a22f5013cc196564f91c6)
-  - <sub>Tags: <code>v0.43.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
