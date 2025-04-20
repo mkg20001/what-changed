@@ -130,6 +130,7 @@
 - [ ] [<code>qmi: fix dynamic array macro</code>](https://git.openwrt.org/project/uqmi.git/commit/f582e0009c730403a3b2a0592619bb87b5a54898)
 - [ ] [<code>uim: add support for ICC communication channel</code>](https://git.openwrt.org/project/uqmi.git/commit/28b48a10dbcd1177095b73c6d8086d10114f49b8)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>uqmi nas: fix incorrect parameter order</code>](https://git.openwrt.org/project/uqmi.git/commit/a933061911aa4c49e953af618c3fb02ce6014142)
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
 
