@@ -656,6 +656,10 @@
 - [ ] [<code>doc/devices/proxy: Use gendoc for docs</code>](https://github.com/lxc/incus/commit/416f94bad2f81da1acbccb16cb49a65ba1832a71)
 - [ ] [<code>Remove Rican7/retry dependency</code>](https://github.com/lxc/incus/commit/d5c456da35f932a674fba92079427b66996123dd)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>shared/tls: Fix gofumpt</code>](https://github.com/lxc/incus/commit/9d4bb6b20fe1b9716b7b569ddffc1124bb16c24f)
+- [ ] [<code>incusd/device/gpu: Added gendoc comments</code>](https://github.com/lxc/incus/commit/30b947a78f5c279c7cb990a17ed682f9211a7b9f)
+- [ ] [<code>doc: Updated configs</code>](https://github.com/lxc/incus/commit/afcb72079a7c0579ae3de0612523a34545d55544)
+- [ ] [<code>doc: Use gendoc for gpu</code>](https://github.com/lxc/incus/commit/840826c68044ae2d9e8bea30e423298df1b72eca)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3342,6 +3346,10 @@
 - [ ] [<code>doc/devices/proxy: Use gendoc for docs</code>](https://github.com/lxc/incus/commit/416f94bad2f81da1acbccb16cb49a65ba1832a71)
 - [ ] [<code>Remove Rican7/retry dependency</code>](https://github.com/lxc/incus/commit/d5c456da35f932a674fba92079427b66996123dd)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>shared/tls: Fix gofumpt</code>](https://github.com/lxc/incus/commit/9d4bb6b20fe1b9716b7b569ddffc1124bb16c24f)
+- [ ] [<code>incusd/device/gpu: Added gendoc comments</code>](https://github.com/lxc/incus/commit/30b947a78f5c279c7cb990a17ed682f9211a7b9f)
+- [ ] [<code>doc: Updated configs</code>](https://github.com/lxc/incus/commit/afcb72079a7c0579ae3de0612523a34545d55544)
+- [ ] [<code>doc: Use gendoc for gpu</code>](https://github.com/lxc/incus/commit/840826c68044ae2d9e8bea30e423298df1b72eca)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
