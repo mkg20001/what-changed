@@ -5733,6 +5733,7 @@
 - [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/437a7ba62c8fd8e938d27970414327c91b4ebd2f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-30-nightly.</code>](https://github.com/netdata/netdata.git/commit/184007d6abb831ac253308ba33133454fbc4778a)
 - [ ] [<code>docs: cleanup language and fix minor grammar issues (#20144)</code>](https://github.com/netdata/netdata.git/commit/5f1692b9f4c5e01b58323bf5495df9c5134a67fa)
+- [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/2398c9999230c58483fca135b0403807bb893455)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
