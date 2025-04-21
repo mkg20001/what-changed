@@ -660,6 +660,16 @@
 - [ ] [<code>incusd/device/gpu: Added gendoc comments</code>](https://github.com/lxc/incus/commit/30b947a78f5c279c7cb990a17ed682f9211a7b9f)
 - [ ] [<code>doc: Updated configs</code>](https://github.com/lxc/incus/commit/afcb72079a7c0579ae3de0612523a34545d55544)
 - [ ] [<code>doc: Use gendoc for gpu</code>](https://github.com/lxc/incus/commit/840826c68044ae2d9e8bea30e423298df1b72eca)
+- [ ] [<code>incusd/device/nic_bridged: Port to gendoc</code>](https://github.com/lxc/incus/commit/59e00aad922bf2d338b6ce6be3785c7c7e703ef8)
+- [ ] [<code>incusd/device/nic_macvlan: Port to gendoc</code>](https://github.com/lxc/incus/commit/a0af3474c221a7911178e31c22596bb34d70b515)
+- [ ] [<code>incusd/device/nic_sriov: Port to gendoc</code>](https://github.com/lxc/incus/commit/e3659fd1ef7a2756ab276d78170219be08335959)
+- [ ] [<code>incusd/device/nic_ovn: Port to gendoc</code>](https://github.com/lxc/incus/commit/a67e9bf0900d762c7325e4234d620b5b68d3ad5c)
+- [ ] [<code>incusd/device/nic_physical: Port to gendoc</code>](https://github.com/lxc/incus/commit/297ce7072ebae2aaa3836f45fbf9f5c644bd7303)
+- [ ] [<code>incusd/device/nic_ipvlan: Port to gendoc</code>](https://github.com/lxc/incus/commit/046d0eaabd1a02f39b9bcfa44f1dd2958a569b38)
+- [ ] [<code>incusd/device/nic_p2p: Port to gendoc</code>](https://github.com/lxc/incus/commit/b541d0b80d92064d1f826784dd0086c6c469e042)
+- [ ] [<code>incusd/device/nic_routed: Port to gendoc</code>](https://github.com/lxc/incus/commit/f3650e75fcb6ebaf18d77bd809f4a927e975a113)
+- [ ] [<code>doc/devices_nic: Update to use gendoc</code>](https://github.com/lxc/incus/commit/d4bb365f56a046b10ece4f642ee759d67245c52b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/7dd7464538b110b019bfdf1f17e31a5ffae0cd70)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3350,6 +3360,16 @@
 - [ ] [<code>incusd/device/gpu: Added gendoc comments</code>](https://github.com/lxc/incus/commit/30b947a78f5c279c7cb990a17ed682f9211a7b9f)
 - [ ] [<code>doc: Updated configs</code>](https://github.com/lxc/incus/commit/afcb72079a7c0579ae3de0612523a34545d55544)
 - [ ] [<code>doc: Use gendoc for gpu</code>](https://github.com/lxc/incus/commit/840826c68044ae2d9e8bea30e423298df1b72eca)
+- [ ] [<code>incusd/device/nic_bridged: Port to gendoc</code>](https://github.com/lxc/incus/commit/59e00aad922bf2d338b6ce6be3785c7c7e703ef8)
+- [ ] [<code>incusd/device/nic_macvlan: Port to gendoc</code>](https://github.com/lxc/incus/commit/a0af3474c221a7911178e31c22596bb34d70b515)
+- [ ] [<code>incusd/device/nic_sriov: Port to gendoc</code>](https://github.com/lxc/incus/commit/e3659fd1ef7a2756ab276d78170219be08335959)
+- [ ] [<code>incusd/device/nic_ovn: Port to gendoc</code>](https://github.com/lxc/incus/commit/a67e9bf0900d762c7325e4234d620b5b68d3ad5c)
+- [ ] [<code>incusd/device/nic_physical: Port to gendoc</code>](https://github.com/lxc/incus/commit/297ce7072ebae2aaa3836f45fbf9f5c644bd7303)
+- [ ] [<code>incusd/device/nic_ipvlan: Port to gendoc</code>](https://github.com/lxc/incus/commit/046d0eaabd1a02f39b9bcfa44f1dd2958a569b38)
+- [ ] [<code>incusd/device/nic_p2p: Port to gendoc</code>](https://github.com/lxc/incus/commit/b541d0b80d92064d1f826784dd0086c6c469e042)
+- [ ] [<code>incusd/device/nic_routed: Port to gendoc</code>](https://github.com/lxc/incus/commit/f3650e75fcb6ebaf18d77bd809f4a927e975a113)
+- [ ] [<code>doc/devices_nic: Update to use gendoc</code>](https://github.com/lxc/incus/commit/d4bb365f56a046b10ece4f642ee759d67245c52b)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/7dd7464538b110b019bfdf1f17e31a5ffae0cd70)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -5734,6 +5754,8 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-30-nightly.</code>](https://github.com/netdata/netdata.git/commit/184007d6abb831ac253308ba33133454fbc4778a)
 - [ ] [<code>docs: cleanup language and fix minor grammar issues (#20144)</code>](https://github.com/netdata/netdata.git/commit/5f1692b9f4c5e01b58323bf5495df9c5134a67fa)
 - [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/2398c9999230c58483fca135b0403807bb893455)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-33-nightly.</code>](https://github.com/netdata/netdata.git/commit/ecabebc99721c6a9c199d0902dfb7935caf9393a)
+- [ ] [<code>build(deps): bump github.com/gosnmp/gosnmp from 1.39.0 to 1.40.0 in /src/go (#20149)</code>](https://github.com/netdata/netdata.git/commit/65b884c1ac53562d19f370b0104f81f69b2214f0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
