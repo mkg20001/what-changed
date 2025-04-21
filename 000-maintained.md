@@ -3468,6 +3468,7 @@
 - [ ] [<code>Update to libaom v3.12.1</code>](https://github.com/AOMediaCodec/libavif/commit/3727a852fbcb7ce14be45ff0bfb6537884dbb5ab)
 - [ ] [<code>Add context to MC 0 with 4:4:4 requirement (#2766)</code>](https://github.com/AOMediaCodec/libavif/commit/0e52867143573f82f39a76bd921a0cc2636d0b60)
 - [ ] [<code>Small improvements to avif_example_encode.c</code>](https://github.com/AOMediaCodec/libavif/commit/4c101af835db17f0400aeae1e0fcbfe9a1ef5184)
+- [ ] [<code>Declare indexes as uint32_t in avifImageRGBToYUV</code>](https://github.com/AOMediaCodec/libavif/commit/bb066689f9a5aba2b72732864ccb4a89e0ef520e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5756,6 +5757,9 @@
 - [ ] [<code>Update netdata-kubernetes.md</code>](https://github.com/netdata/netdata.git/commit/2398c9999230c58483fca135b0403807bb893455)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-33-nightly.</code>](https://github.com/netdata/netdata.git/commit/ecabebc99721c6a9c199d0902dfb7935caf9393a)
 - [ ] [<code>build(deps): bump github.com/gosnmp/gosnmp from 1.39.0 to 1.40.0 in /src/go (#20149)</code>](https://github.com/netdata/netdata.git/commit/65b884c1ac53562d19f370b0104f81f69b2214f0)
+- [ ] [<code>build(deps): bump github.com/invopop/jsonschema from 0.12.0 to 0.13.0 in /src/go (#20152)</code>](https://github.com/netdata/netdata.git/commit/2313b1f65e5b8d1d097ce9d9cc562b183eee4446)
+- [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.10 to 3.4.11 in /src/go (#20151)</code>](https://github.com/netdata/netdata.git/commit/4fcd7f767b00096edc72ff71d0fac7d51176555d)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.0.4+incompatible to 28.1.1+incompatible in /src/go (#20153)</code>](https://github.com/netdata/netdata.git/commit/a29e8993dc089df19ecd52bb5e058ab0acd64128)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
