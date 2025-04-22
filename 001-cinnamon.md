@@ -39,8 +39,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_display.py: Expose option to choose fractional scaling direction.</code>](https://github.com/linuxmint/cinnamon/commit/1eed8da15caec9c0c9b9c459e168ba836f1e52d1)
   - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Merge pull request #12810 from claudiux/workspace-switcher@cinnamon.org_Fixes#12809</code>](https://github.com/linuxmint/cinnamon/commit/1a48f0d54a513ca3fc28d32110f6c039c0bfe315)
+- [ ] [<code>cinnamon-settings: Clean up commandline argument handling.</code>](https://github.com/linuxmint/cinnamon/commit/769a754001ff4cb602308b45681bbcc9fc079f02)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
