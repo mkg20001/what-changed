@@ -293,6 +293,7 @@
 - [ ] [<code>build: Bump version to 1.26.0</code>](https://github.com/krille-chan/fluffychat/commit/8dd1b6dd8b96703b33c29c7a394acb88614385c1)
   - <sub>Tags: <code>rc1.26.0-1</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/2b046b916e239fcf83121aa208bdfebabe185a5a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -393,6 +394,7 @@
 - [ ] [<code>build: Bump version to 1.26.0</code>](https://github.com/krille-chan/fluffychat/commit/8dd1b6dd8b96703b33c29c7a394acb88614385c1)
   - <sub>Tags: <code>rc1.26.0-1</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/2b046b916e239fcf83121aa208bdfebabe185a5a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -670,6 +672,20 @@
 - [ ] [<code>incusd/device/nic_routed: Port to gendoc</code>](https://github.com/lxc/incus/commit/f3650e75fcb6ebaf18d77bd809f4a927e975a113)
 - [ ] [<code>doc/devices_nic: Update to use gendoc</code>](https://github.com/lxc/incus/commit/d4bb365f56a046b10ece4f642ee759d67245c52b)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/7dd7464538b110b019bfdf1f17e31a5ffae0cd70)
+- [ ] [<code>incusd/device: Replace j-keck/arping with mdlayher/arp</code>](https://github.com/lxc/incus/commit/d767a5f41ffcee2678817eb671fb54e28e3a8246)
+- [ ] [<code>Makefile: Hold back go-jose</code>](https://github.com/lxc/incus/commit/76c797db898924fedb8f6c9fce106295c51b7831)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d22bd68c8548e7cdf861b4cc7a9788fcd3a04df5)
+- [ ] [<code>incusd/sys: Remove gocapability dependency</code>](https://github.com/lxc/incus/commit/c229343185e011c67762bdfda57c897c3588f4c9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/55d68b36533c55c49e9bdbe7a6d1bb66c17d4660)
+- [ ] [<code>incusd/server/device/infiniband: Added gendoc for parent, mtu, hwaddr</code>](https://github.com/lxc/incus/commit/e988814d9c5b95934b43c580de9d7f7c4c5ea121)
+- [ ] [<code>incusd/device/device_load.go: Added gendoc for nicType</code>](https://github.com/lxc/incus/commit/c28cd2c1ef5c6c22f7b84aaa0af90cb8421b8a8a)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/5e9ce73c1763cbdda6a1b75a14ae0d87f3462eb9)
+- [ ] [<code>doc: Use gendoc for infiniband</code>](https://github.com/lxc/incus/commit/3bb4470438ef3455e7aedeaec234bb0f971e6cbc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/validate: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/597986cce222d7f2c7b37433aa9e7b1ad0f09861)
+- [ ] [<code>incusd: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/348611d813d46e34210a8994e0a5ff1082c39098)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/3fd53615d54796c2334edbdefe4bffa6324ef0ba)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3370,6 +3386,20 @@
 - [ ] [<code>incusd/device/nic_routed: Port to gendoc</code>](https://github.com/lxc/incus/commit/f3650e75fcb6ebaf18d77bd809f4a927e975a113)
 - [ ] [<code>doc/devices_nic: Update to use gendoc</code>](https://github.com/lxc/incus/commit/d4bb365f56a046b10ece4f642ee759d67245c52b)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/7dd7464538b110b019bfdf1f17e31a5ffae0cd70)
+- [ ] [<code>incusd/device: Replace j-keck/arping with mdlayher/arp</code>](https://github.com/lxc/incus/commit/d767a5f41ffcee2678817eb671fb54e28e3a8246)
+- [ ] [<code>Makefile: Hold back go-jose</code>](https://github.com/lxc/incus/commit/76c797db898924fedb8f6c9fce106295c51b7831)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/d22bd68c8548e7cdf861b4cc7a9788fcd3a04df5)
+- [ ] [<code>incusd/sys: Remove gocapability dependency</code>](https://github.com/lxc/incus/commit/c229343185e011c67762bdfda57c897c3588f4c9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/55d68b36533c55c49e9bdbe7a6d1bb66c17d4660)
+- [ ] [<code>incusd/server/device/infiniband: Added gendoc for parent, mtu, hwaddr</code>](https://github.com/lxc/incus/commit/e988814d9c5b95934b43c580de9d7f7c4c5ea121)
+- [ ] [<code>incusd/device/device_load.go: Added gendoc for nicType</code>](https://github.com/lxc/incus/commit/c28cd2c1ef5c6c22f7b84aaa0af90cb8421b8a8a)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/5e9ce73c1763cbdda6a1b75a14ae0d87f3462eb9)
+- [ ] [<code>doc: Use gendoc for infiniband</code>](https://github.com/lxc/incus/commit/3bb4470438ef3455e7aedeaec234bb0f971e6cbc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/validate: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/597986cce222d7f2c7b37433aa9e7b1ad0f09861)
+- [ ] [<code>incusd: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/348611d813d46e34210a8994e0a5ff1082c39098)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/3fd53615d54796c2334edbdefe4bffa6324ef0ba)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3469,6 +3499,8 @@
 - [ ] [<code>Add context to MC 0 with 4:4:4 requirement (#2766)</code>](https://github.com/AOMediaCodec/libavif/commit/0e52867143573f82f39a76bd921a0cc2636d0b60)
 - [ ] [<code>Small improvements to avif_example_encode.c</code>](https://github.com/AOMediaCodec/libavif/commit/4c101af835db17f0400aeae1e0fcbfe9a1ef5184)
 - [ ] [<code>Declare indexes as uint32_t in avifImageRGBToYUV</code>](https://github.com/AOMediaCodec/libavif/commit/bb066689f9a5aba2b72732864ccb4a89e0ef520e)
+- [ ] [<code>Declare *RowBytes as size_t in avifImageRGBToYUV()</code>](https://github.com/AOMediaCodec/libavif/commit/64d956ed5a602f78cebf29da023280944ee92efd)
+- [ ] [<code>Fix negative ftell in avif_example_decode_memory (#2772)</code>](https://github.com/AOMediaCodec/libavif/commit/55eef9035dbaec9f36d8218462a2e256dfebd8e9)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
