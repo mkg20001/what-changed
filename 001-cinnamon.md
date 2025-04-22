@@ -40,8 +40,10 @@
 - [ ] [<code>cs_display.py: Expose option to choose fractional scaling direction.</code>](https://github.com/linuxmint/cinnamon/commit/1eed8da15caec9c0c9b9c459e168ba836f1e52d1)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-settings: Clean up commandline argument handling.</code>](https://github.com/linuxmint/cinnamon/commit/769a754001ff4cb602308b45681bbcc9fc079f02)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>cinnamon-setting, xlet-settings: Fix minor regressions.</code>](https://github.com/linuxmint/cinnamon/commit/9649beca6b6f3a1deae43739ff16199b9e8c30ef)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
