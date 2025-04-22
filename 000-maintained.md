@@ -3501,6 +3501,7 @@
 - [ ] [<code>Declare indexes as uint32_t in avifImageRGBToYUV</code>](https://github.com/AOMediaCodec/libavif/commit/bb066689f9a5aba2b72732864ccb4a89e0ef520e)
 - [ ] [<code>Declare *RowBytes as size_t in avifImageRGBToYUV()</code>](https://github.com/AOMediaCodec/libavif/commit/64d956ed5a602f78cebf29da023280944ee92efd)
 - [ ] [<code>Fix negative ftell in avif_example_decode_memory (#2772)</code>](https://github.com/AOMediaCodec/libavif/commit/55eef9035dbaec9f36d8218462a2e256dfebd8e9)
+- [ ] [<code>Check ftell returned value in avifjpeg.c (#2773)</code>](https://github.com/AOMediaCodec/libavif/commit/2d0204485a30446d82770c115e0a4d61e2819f23)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5792,6 +5793,12 @@
 - [ ] [<code>build(deps): bump github.com/invopop/jsonschema from 0.12.0 to 0.13.0 in /src/go (#20152)</code>](https://github.com/netdata/netdata.git/commit/2313b1f65e5b8d1d097ce9d9cc562b183eee4446)
 - [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.10 to 3.4.11 in /src/go (#20151)</code>](https://github.com/netdata/netdata.git/commit/4fcd7f767b00096edc72ff71d0fac7d51176555d)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.0.4+incompatible to 28.1.1+incompatible in /src/go (#20153)</code>](https://github.com/netdata/netdata.git/commit/a29e8993dc089df19ecd52bb5e058ab0acd64128)
+- [ ] [<code>chore(go.d/apcupsd): log UPS response in debug mode (#20157)</code>](https://github.com/netdata/netdata.git/commit/007c5ba27ee97ca43fa449dc07c8de5ddc4ce65c)
+- [ ] [<code>improvement(cgroups): filter systemd-nspawn payload by default (#20155)</code>](https://github.com/netdata/netdata.git/commit/c3f05b9da2abcd7df0f2bd89e919256f122dee73)
+- [ ] [<code>Improve metadata event loop shutdown (#20132)</code>](https://github.com/netdata/netdata.git/commit/e79fc02244f1eab5dbc42bb37a2b07088ca50e75)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix compilation with DBENGINE disabled (#20154)</code>](https://github.com/netdata/netdata.git/commit/7c9cbaa47f565dc525d809adbbc088603e94777e)
+- [ ] [<code>fix(dyncfg/health): correct db lookup absolute option name (#20161)</code>](https://github.com/netdata/netdata.git/commit/bc86317f781aebad57d8e3d98155699f3af7a507)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
