@@ -186,6 +186,8 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.5 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.5...HEAD)
 
+- [ ] [<code>epub-document.c: Fix null pointer crash when building a TOC.</code>](https://github.com/linuxmint/xreader/commit/a79398cdea7ae995cf3d6e51d577c2cac0c8b9a6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.8 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.8...HEAD)
 
