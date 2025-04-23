@@ -190,6 +190,11 @@
 - [ ] [<code>fix(l10n): translated using Weblate (Dutch)</code>](https://github.com/canonical/firmware-updater/commit/9d921e67b5b383260aa678942d4535b524f52286)
 - [ ] [<code>fix(l10n): translated using Weblate (Tamil)</code>](https://github.com/canonical/firmware-updater/commit/89cc3c06c8763058cd17fc89e1dc97c63724583c)
 - [ ] [<code>fix(l10n): translations update from Hosted Weblate (#325)</code>](https://github.com/canonical/firmware-updater/commit/f42587f516763c814f50b9c3beae8833af826ca4)
+- [ ] [<code>chore(deps): add url_launcher</code>](https://github.com/canonical/firmware-updater/commit/6c42b234074b8cfd22132c6bad2f39ea80873b2a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(l10n): add l10n string for link label</code>](https://github.com/canonical/firmware-updater/commit/5f5acfceeea298a43e682a2ac2dc08df2c96243f)
+- [ ] [<code>feat: show fde link in confirmation dialog</code>](https://github.com/canonical/firmware-updater/commit/e029f1eedf81fed65457e637a753b802f74078d7)
+- [ ] [<code>feat: add FDE documentation link to confirmation dialog (#343)</code>](https://github.com/canonical/firmware-updater/commit/4f180b96d48b301f9e4ada42cc9473cc3edfdcb8)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -294,6 +299,8 @@
   - <sub>Tags: <code>rc1.26.0-1</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/2b046b916e239fcf83121aa208bdfebabe185a5a)
+  - <sub>Tags: <code>rc1.26.0-2</code></sub>
+- [ ] [<code>build: Use 0.1.0 fcm_shared_isolate on ios</code>](https://github.com/krille-chan/fluffychat/commit/9069c61b97b488e81199442b236f7d189ea22d88)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -395,6 +402,8 @@
   - <sub>Tags: <code>rc1.26.0-1</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/2b046b916e239fcf83121aa208bdfebabe185a5a)
+  - <sub>Tags: <code>rc1.26.0-2</code></sub>
+- [ ] [<code>build: Use 0.1.0 fcm_shared_isolate on ios</code>](https://github.com/krille-chan/fluffychat/commit/9069c61b97b488e81199442b236f7d189ea22d88)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -689,6 +698,8 @@
 - [ ] [<code>incus/storage: Correct help messsage for `incus storage list`</code>](https://github.com/lxc/incus/commit/715386dbcaa6c2fd09b39306870088a7ec9b98d7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4f000b85879b2e7ee3cec3ab312f367e0af3da87)
+- [ ] [<code>api/scriptlet: Add yaml struct tags</code>](https://github.com/lxc/incus/commit/ed4bb1a62c9e4cb4db7acfdfe0a4a31a731a2bce)
+- [ ] [<code>incusd/storage/migration: Check instance size during migration</code>](https://github.com/lxc/incus/commit/64232f61d74d21bccc9dd57436ee64b0ca4c0a05)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3406,6 +3417,8 @@
 - [ ] [<code>incus/storage: Correct help messsage for `incus storage list`</code>](https://github.com/lxc/incus/commit/715386dbcaa6c2fd09b39306870088a7ec9b98d7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4f000b85879b2e7ee3cec3ab312f367e0af3da87)
+- [ ] [<code>api/scriptlet: Add yaml struct tags</code>](https://github.com/lxc/incus/commit/ed4bb1a62c9e4cb4db7acfdfe0a4a31a731a2bce)
+- [ ] [<code>incusd/storage/migration: Check instance size during migration</code>](https://github.com/lxc/incus/commit/64232f61d74d21bccc9dd57436ee64b0ca4c0a05)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -5805,6 +5818,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix compilation with DBENGINE disabled (#20154)</code>](https://github.com/netdata/netdata.git/commit/7c9cbaa47f565dc525d809adbbc088603e94777e)
 - [ ] [<code>fix(dyncfg/health): correct db lookup absolute option name (#20161)</code>](https://github.com/netdata/netdata.git/commit/bc86317f781aebad57d8e3d98155699f3af7a507)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/98a454efb2aee45217eb18fb96d33e7687170c06)
+- [ ] [<code>chore(go.d/snmp): remove unused ddsnmp (#20164)</code>](https://github.com/netdata/netdata.git/commit/6db28b5b5344d6d00a8fe51c9dd00dc7a5118649)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update macOS/freeBSD versions in  Versions & Platforms (#20165)</code>](https://github.com/netdata/netdata.git/commit/4a2c78f0573d3532e3e307b65143d08eab10e340)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
