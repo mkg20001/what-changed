@@ -686,6 +686,9 @@
 - [ ] [<code>shared/validate: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/597986cce222d7f2c7b37433aa9e7b1ad0f09861)
 - [ ] [<code>incusd: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/348611d813d46e34210a8994e0a5ff1082c39098)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/3fd53615d54796c2334edbdefe4bffa6324ef0ba)
+- [ ] [<code>incus/storage: Correct help messsage for `incus storage list`</code>](https://github.com/lxc/incus/commit/715386dbcaa6c2fd09b39306870088a7ec9b98d7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4f000b85879b2e7ee3cec3ab312f367e0af3da87)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3400,6 +3403,9 @@
 - [ ] [<code>shared/validate: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/597986cce222d7f2c7b37433aa9e7b1ad0f09861)
 - [ ] [<code>incusd: Move to adhocore/gronx</code>](https://github.com/lxc/incus/commit/348611d813d46e34210a8994e0a5ff1082c39098)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/3fd53615d54796c2334edbdefe4bffa6324ef0ba)
+- [ ] [<code>incus/storage: Correct help messsage for `incus storage list`</code>](https://github.com/lxc/incus/commit/715386dbcaa6c2fd09b39306870088a7ec9b98d7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4f000b85879b2e7ee3cec3ab312f367e0af3da87)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
