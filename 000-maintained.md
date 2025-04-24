@@ -722,6 +722,24 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fix reference passing when yaml unmarshal</code>](https://github.com/lxc/incus/commit/349272181b9b01db0c05b66731e603c4c9c36e0d)
 - [ ] [<code>Limit new() calls</code>](https://github.com/lxc/incus/commit/db29bd7aa8a848ebd163090fd7a780dc10f2d5af)
+- [ ] [<code>incusd/network/bridge: Fix children interface delete issue</code>](https://github.com/lxc/incus/commit/fcc177c7ff5ac2d64ea6727179e299219d0c2083)
+- [ ] [<code>doc/reference/instance: Clarify VM memory behavior</code>](https://github.com/lxc/incus/commit/04b42efa0f4b9e3e0786dffe398037f763167a9f)
+- [ ] [<code>incus/admin/init: Allow passing a file to --preseed</code>](https://github.com/lxc/incus/commit/1e3934252c536952b9b8d1e40c82e7695c173b54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Notify whole cluster on uplink changes</code>](https://github.com/lxc/incus/commit/56788e871e61d22e611f254c678bcbf5d88e1aef)
+- [ ] [<code>incus: Use a random image in first use message</code>](https://github.com/lxc/incus/commit/c452d4f00ab23dc49c14786bad3dbe1f6458dbea)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-benchmark: Replace default distro</code>](https://github.com/lxc/incus/commit/e876c5916998300752574c7c708c28c488622541)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Replace distro examples</code>](https://github.com/lxc/incus/commit/3e7ed198605361f4e572fe110cb9dd143f261010)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/8b6c8072ae1c9abb122a2fb961d890eacc578b4d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Replace Ubuntu in documentation examples</code>](https://github.com/lxc/incus/commit/d6dd1d730052626544a3a4226bb7c8b04812001b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc/requirements: Refresh a bit</code>](https://github.com/lxc/incus/commit/92500fab0a165fb37af42fb2f3bb4d92dd86327b)
+- [ ] [<code>scriptlet: Return proper error</code>](https://github.com/lxc/incus/commit/a6928f9dbcb05dd7a7844f625b4d586aa28a7d99)
+- [ ] [<code>incusd/instance: Also consider local CPU flags</code>](https://github.com/lxc/incus/commit/38f3205ffe5dcbb8dd18904567a5a2c917076a46)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3454,10 +3472,30 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fix reference passing when yaml unmarshal</code>](https://github.com/lxc/incus/commit/349272181b9b01db0c05b66731e603c4c9c36e0d)
 - [ ] [<code>Limit new() calls</code>](https://github.com/lxc/incus/commit/db29bd7aa8a848ebd163090fd7a780dc10f2d5af)
+- [ ] [<code>incusd/network/bridge: Fix children interface delete issue</code>](https://github.com/lxc/incus/commit/fcc177c7ff5ac2d64ea6727179e299219d0c2083)
+- [ ] [<code>doc/reference/instance: Clarify VM memory behavior</code>](https://github.com/lxc/incus/commit/04b42efa0f4b9e3e0786dffe398037f763167a9f)
+- [ ] [<code>incus/admin/init: Allow passing a file to --preseed</code>](https://github.com/lxc/incus/commit/1e3934252c536952b9b8d1e40c82e7695c173b54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Notify whole cluster on uplink changes</code>](https://github.com/lxc/incus/commit/56788e871e61d22e611f254c678bcbf5d88e1aef)
+- [ ] [<code>incus: Use a random image in first use message</code>](https://github.com/lxc/incus/commit/c452d4f00ab23dc49c14786bad3dbe1f6458dbea)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-benchmark: Replace default distro</code>](https://github.com/lxc/incus/commit/e876c5916998300752574c7c708c28c488622541)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Replace distro examples</code>](https://github.com/lxc/incus/commit/3e7ed198605361f4e572fe110cb9dd143f261010)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/8b6c8072ae1c9abb122a2fb961d890eacc578b4d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc: Replace Ubuntu in documentation examples</code>](https://github.com/lxc/incus/commit/d6dd1d730052626544a3a4226bb7c8b04812001b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc/requirements: Refresh a bit</code>](https://github.com/lxc/incus/commit/92500fab0a165fb37af42fb2f3bb4d92dd86327b)
+- [ ] [<code>scriptlet: Return proper error</code>](https://github.com/lxc/incus/commit/a6928f9dbcb05dd7a7844f625b4d586aa28a7d99)
+- [ ] [<code>incusd/instance: Also consider local CPU flags</code>](https://github.com/lxc/incus/commit/38f3205ffe5dcbb8dd18904567a5a2c917076a46)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
 - [ ] [<code>Add field for cluster member when adding/editing network forwards</code>](https://github.com/zabbly/incus-ui-canonical/commit/5b7c449931baf2a804bcfb80a068b65628d6f1eb)
+- [ ] [<code>Merge pull request #55 from presztak/network_forward_target</code>](https://github.com/zabbly/incus-ui-canonical/commit/9e5f525945481592255c090638827cdd2902df10)
+  - <sub>Tags: <code>incus-0.15.3</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3770,6 +3808,13 @@
 - [ ] [<code>fix integrations config file sample (#20169)</code>](https://github.com/netdata/netdata.git/commit/1f00d7d6acb806e499fd8f15d0ec92910f129730)
 - [ ] [<code>Regenerate integrations docs (#20170)</code>](https://github.com/netdata/netdata.git/commit/7977f7efd93b1f1f75ecb795ab63106d83188d53)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(otel/netdataexporter): add exporter module skeleton (#20171)</code>](https://github.com/netdata/netdata.git/commit/60243fb49662cb83c5f6796e5233cc92e287af71)
+- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.49.0 to 0.50.0 in /src/go (#20173)</code>](https://github.com/netdata/netdata.git/commit/a64ced5b5fbba6f33132036134a626e2df7daf99)
+- [ ] [<code>build(deps): update go toolchain to v1.24.2 (#20176)</code>](https://github.com/netdata/netdata.git/commit/c0f6882505adf11b3a286b1253c97f58939f37d7)
+- [ ] [<code>Fix memory leaks and service thread corruption (#20159)</code>](https://github.com/netdata/netdata.git/commit/e46080f64fef3444f1714f698cc6a5e5dcd06d92)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix labels memory accounting (#20158)</code>](https://github.com/netdata/netdata.git/commit/d16dba9673d9e2a522e268e1915782972c44daa6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
