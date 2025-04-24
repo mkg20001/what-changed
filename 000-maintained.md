@@ -709,9 +709,12 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4f000b85879b2e7ee3cec3ab312f367e0af3da87)
 - [ ] [<code>api/scriptlet: Add yaml struct tags</code>](https://github.com/lxc/incus/commit/ed4bb1a62c9e4cb4db7acfdfe0a4a31a731a2bce)
 - [ ] [<code>incusd/storage/migration: Check instance size during migration</code>](https://github.com/lxc/incus/commit/64232f61d74d21bccc9dd57436ee64b0ca4c0a05)
+- [ ] [<code>incusd/main_forknet: Add dhcp static routes via 0.0.0.0 as scope link</code>](https://github.com/lxc/incus/commit/a006b1690af757c447bb227c34c2990d7d38b8be)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/main_forknet: Use logrus for logging and add a command argument for the logfile path</code>](https://github.com/lxc/incus/commit/2773110e41d3afc8f5dfc2a30a68b3b5fccd8530)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Pass log file to forknet dhcp</code>](https://github.com/lxc/incus/commit/4ab15288d74187a0b37a0fef6aa9185c0735ed56)
+- [ ] [<code>incusd/device/disk: Fix registration of custom volumes</code>](https://github.com/lxc/incus/commit/740eed0fe8c2da5f7e63a5503567ea93c9eb6f52)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3431,9 +3434,12 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/4f000b85879b2e7ee3cec3ab312f367e0af3da87)
 - [ ] [<code>api/scriptlet: Add yaml struct tags</code>](https://github.com/lxc/incus/commit/ed4bb1a62c9e4cb4db7acfdfe0a4a31a731a2bce)
 - [ ] [<code>incusd/storage/migration: Check instance size during migration</code>](https://github.com/lxc/incus/commit/64232f61d74d21bccc9dd57436ee64b0ca4c0a05)
+- [ ] [<code>incusd/main_forknet: Add dhcp static routes via 0.0.0.0 as scope link</code>](https://github.com/lxc/incus/commit/a006b1690af757c447bb227c34c2990d7d38b8be)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/main_forknet: Use logrus for logging and add a command argument for the logfile path</code>](https://github.com/lxc/incus/commit/2773110e41d3afc8f5dfc2a30a68b3b5fccd8530)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Pass log file to forknet dhcp</code>](https://github.com/lxc/incus/commit/4ab15288d74187a0b37a0fef6aa9185c0735ed56)
+- [ ] [<code>incusd/device/disk: Fix registration of custom volumes</code>](https://github.com/lxc/incus/commit/740eed0fe8c2da5f7e63a5503567ea93c9eb6f52)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
