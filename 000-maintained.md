@@ -715,6 +715,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Pass log file to forknet dhcp</code>](https://github.com/lxc/incus/commit/4ab15288d74187a0b37a0fef6aa9185c0735ed56)
 - [ ] [<code>incusd/device/disk: Fix registration of custom volumes</code>](https://github.com/lxc/incus/commit/740eed0fe8c2da5f7e63a5503567ea93c9eb6f52)
+- [ ] [<code>client: Add server-side filtering for profiles</code>](https://github.com/lxc/incus/commit/b1be552ba09b0acccf321dbcce12e595d4f50457)
+- [ ] [<code>incus/profile: Use server-side filtering</code>](https://github.com/lxc/incus/commit/239eae250bf48161b4f3e7eb0214e87a39399780)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/5346910f58aad874a3909a74c6a9e7a565d6f170)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix reference passing when yaml unmarshal</code>](https://github.com/lxc/incus/commit/349272181b9b01db0c05b66731e603c4c9c36e0d)
+- [ ] [<code>Limit new() calls</code>](https://github.com/lxc/incus/commit/db29bd7aa8a848ebd163090fd7a780dc10f2d5af)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3440,6 +3447,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/lxc: Pass log file to forknet dhcp</code>](https://github.com/lxc/incus/commit/4ab15288d74187a0b37a0fef6aa9185c0735ed56)
 - [ ] [<code>incusd/device/disk: Fix registration of custom volumes</code>](https://github.com/lxc/incus/commit/740eed0fe8c2da5f7e63a5503567ea93c9eb6f52)
+- [ ] [<code>client: Add server-side filtering for profiles</code>](https://github.com/lxc/incus/commit/b1be552ba09b0acccf321dbcce12e595d4f50457)
+- [ ] [<code>incus/profile: Use server-side filtering</code>](https://github.com/lxc/incus/commit/239eae250bf48161b4f3e7eb0214e87a39399780)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/5346910f58aad874a3909a74c6a9e7a565d6f170)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix reference passing when yaml unmarshal</code>](https://github.com/lxc/incus/commit/349272181b9b01db0c05b66731e603c4c9c36e0d)
+- [ ] [<code>Limit new() calls</code>](https://github.com/lxc/incus/commit/db29bd7aa8a848ebd163090fd7a780dc10f2d5af)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3752,6 +3766,10 @@
 - [ ] [<code>Update platforms for CI and package builds. (#20119)</code>](https://github.com/netdata/netdata.git/commit/7088abee4090f3b5bc39ad4dc3996870f062679d)
 - [ ] [<code>Update kickstart.md (#20167)</code>](https://github.com/netdata/netdata.git/commit/82f17720b5b2a03c80e9555bc9feff00a9faf9d0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improvement(cgroups): improve systemd-nspawn filter for default (#20168)</code>](https://github.com/netdata/netdata.git/commit/f1aecd87f829d4af5281a7abbf10c1e62cac896a)
+- [ ] [<code>fix integrations config file sample (#20169)</code>](https://github.com/netdata/netdata.git/commit/1f00d7d6acb806e499fd8f15d0ec92910f129730)
+- [ ] [<code>Regenerate integrations docs (#20170)</code>](https://github.com/netdata/netdata.git/commit/7977f7efd93b1f1f75ecb795ab63106d83188d53)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
