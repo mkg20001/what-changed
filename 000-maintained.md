@@ -3823,6 +3823,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix labels memory accounting (#20158)</code>](https://github.com/netdata/netdata.git/commit/d16dba9673d9e2a522e268e1915782972c44daa6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-58-nightly.</code>](https://github.com/netdata/netdata.git/commit/871d25c3f697779cd08c64171188cda54dba6fb8)
+- [ ] [<code>bump go mod 1.24.0 (#20179)</code>](https://github.com/netdata/netdata.git/commit/6c874c6b9a02924496a103fc643bd2a2e3a1fa42)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.3 to 0.33.0 in /src/go (#20175)</code>](https://github.com/netdata/netdata.git/commit/ba1bae9602feeddf8854b3100b3f928368b98c03)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
