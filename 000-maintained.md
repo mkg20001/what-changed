@@ -744,6 +744,18 @@
 - [ ] [<code>incusd/instance/qemu: Cap maxmem to host mem maximum</code>](https://github.com/lxc/incus/commit/f08cd000dcd3964e104db16d3bf2f6c9ed355333)
 - [ ] [<code>Release Incus 6.12</code>](https://github.com/lxc/incus/commit/11f8f9e6ae151984a7abd2d9f9b02a6f3c9af320)
   - <sub>Tags: <code>v6.12.0</code></sub>
+- [ ] [<code>client: Add server-side filtering for networks</code>](https://github.com/lxc/incus/commit/0dcf7f875f11f03f1b4b32234fb2510d0a3cde4f)
+- [ ] [<code>incus/network: Use server-side filtering</code>](https://github.com/lxc/incus/commit/c3f746f4a482e50984a49736a0a6a24ddfd53d14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates for network list cmd</code>](https://github.com/lxc/incus/commit/53342055162fb8b8bc4a8d95e8a72caa382b4122)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network: Add config-based server-side filtering</code>](https://github.com/lxc/incus/commit/0ae1a503dc8252e20a424c580ca00638e8021801)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Fix default value of ipv4.dhcp.gateway to IPv4 address</code>](https://github.com/lxc/incus/commit/0cc2e3362b2792d8a1fc0fe3c250ef0b03a10ba5)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/f9601a96badc5dd1e1f43d7d59e19722a5d8ec15)
+- [ ] [<code>doc: Fix default value of ipv6.routes network_bridge</code>](https://github.com/lxc/incus/commit/e7a7cf2c2f793f3644e9e000a00a93e9a98c5e16)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6a5750e84d650e5c3fdae7421bd7107d7cca42b0)
+- [ ] [<code>doc: Fix Debian 12 nickname</code>](https://github.com/lxc/incus/commit/0a99902a372b69d5012f8990104e55bcd293a960)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3498,6 +3510,18 @@
 - [ ] [<code>incusd/instance/qemu: Cap maxmem to host mem maximum</code>](https://github.com/lxc/incus/commit/f08cd000dcd3964e104db16d3bf2f6c9ed355333)
 - [ ] [<code>Release Incus 6.12</code>](https://github.com/lxc/incus/commit/11f8f9e6ae151984a7abd2d9f9b02a6f3c9af320)
   - <sub>Tags: <code>v6.12.0</code></sub>
+- [ ] [<code>client: Add server-side filtering for networks</code>](https://github.com/lxc/incus/commit/0dcf7f875f11f03f1b4b32234fb2510d0a3cde4f)
+- [ ] [<code>incus/network: Use server-side filtering</code>](https://github.com/lxc/incus/commit/c3f746f4a482e50984a49736a0a6a24ddfd53d14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates for network list cmd</code>](https://github.com/lxc/incus/commit/53342055162fb8b8bc4a8d95e8a72caa382b4122)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/network: Add config-based server-side filtering</code>](https://github.com/lxc/incus/commit/0ae1a503dc8252e20a424c580ca00638e8021801)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Fix default value of ipv4.dhcp.gateway to IPv4 address</code>](https://github.com/lxc/incus/commit/0cc2e3362b2792d8a1fc0fe3c250ef0b03a10ba5)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/f9601a96badc5dd1e1f43d7d59e19722a5d8ec15)
+- [ ] [<code>doc: Fix default value of ipv6.routes network_bridge</code>](https://github.com/lxc/incus/commit/e7a7cf2c2f793f3644e9e000a00a93e9a98c5e16)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6a5750e84d650e5c3fdae7421bd7107d7cca42b0)
+- [ ] [<code>doc: Fix Debian 12 nickname</code>](https://github.com/lxc/incus/commit/0a99902a372b69d5012f8990104e55bcd293a960)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
@@ -3602,6 +3626,7 @@
 - [ ] [<code>Declare *RowBytes as size_t in avifImageRGBToYUV()</code>](https://github.com/AOMediaCodec/libavif/commit/64d956ed5a602f78cebf29da023280944ee92efd)
 - [ ] [<code>Fix negative ftell in avif_example_decode_memory (#2772)</code>](https://github.com/AOMediaCodec/libavif/commit/55eef9035dbaec9f36d8218462a2e256dfebd8e9)
 - [ ] [<code>Check ftell returned value in avifjpeg.c (#2773)</code>](https://github.com/AOMediaCodec/libavif/commit/2d0204485a30446d82770c115e0a4d61e2819f23)
+- [ ] [<code>LocalJpeg.cmake: Support multi-config generators</code>](https://github.com/AOMediaCodec/libavif/commit/27682662f3a2694ac23d68305bc51d39791fe329)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3826,6 +3851,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-58-nightly.</code>](https://github.com/netdata/netdata.git/commit/871d25c3f697779cd08c64171188cda54dba6fb8)
 - [ ] [<code>bump go mod 1.24.0 (#20179)</code>](https://github.com/netdata/netdata.git/commit/6c874c6b9a02924496a103fc643bd2a2e3a1fa42)
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.32.3 to 0.33.0 in /src/go (#20175)</code>](https://github.com/netdata/netdata.git/commit/ba1bae9602feeddf8854b3100b3f928368b98c03)
+- [ ] [<code>Retry nightly changelog generation. (#20178)</code>](https://github.com/netdata/netdata.git/commit/2ce45c93c5beab3cfa3b2366e9a64a8418b36dda)
+- [ ] [<code>improve pgc fatal errors (#20181)</code>](https://github.com/netdata/netdata.git/commit/6a9ad6be02d62114e483dde587dc4bfdda7338a7)
+- [ ] [<code>Group anomaly rate per chart context instead of type. (#20180)</code>](https://github.com/netdata/netdata.git/commit/66e622a3f9416253e09b7fe8a4f35bf476c91aae)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
