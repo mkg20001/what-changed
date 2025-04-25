@@ -740,6 +740,10 @@
 - [ ] [<code>doc/requirements: Refresh a bit</code>](https://github.com/lxc/incus/commit/92500fab0a165fb37af42fb2f3bb4d92dd86327b)
 - [ ] [<code>scriptlet: Return proper error</code>](https://github.com/lxc/incus/commit/a6928f9dbcb05dd7a7844f625b4d586aa28a7d99)
 - [ ] [<code>incusd/instance: Also consider local CPU flags</code>](https://github.com/lxc/incus/commit/38f3205ffe5dcbb8dd18904567a5a2c917076a46)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/8131dc487f38a3829b6fb036f654f8200aaedf34)
+- [ ] [<code>incusd/instance/qemu: Cap maxmem to host mem maximum</code>](https://github.com/lxc/incus/commit/f08cd000dcd3964e104db16d3bf2f6c9ed355333)
+- [ ] [<code>Release Incus 6.12</code>](https://github.com/lxc/incus/commit/11f8f9e6ae151984a7abd2d9f9b02a6f3c9af320)
+  - <sub>Tags: <code>v6.12.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3490,6 +3494,10 @@
 - [ ] [<code>doc/requirements: Refresh a bit</code>](https://github.com/lxc/incus/commit/92500fab0a165fb37af42fb2f3bb4d92dd86327b)
 - [ ] [<code>scriptlet: Return proper error</code>](https://github.com/lxc/incus/commit/a6928f9dbcb05dd7a7844f625b4d586aa28a7d99)
 - [ ] [<code>incusd/instance: Also consider local CPU flags</code>](https://github.com/lxc/incus/commit/38f3205ffe5dcbb8dd18904567a5a2c917076a46)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/8131dc487f38a3829b6fb036f654f8200aaedf34)
+- [ ] [<code>incusd/instance/qemu: Cap maxmem to host mem maximum</code>](https://github.com/lxc/incus/commit/f08cd000dcd3964e104db16d3bf2f6c9ed355333)
+- [ ] [<code>Release Incus 6.12</code>](https://github.com/lxc/incus/commit/11f8f9e6ae151984a7abd2d9f9b02a6f3c9af320)
+  - <sub>Tags: <code>v6.12.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
 
