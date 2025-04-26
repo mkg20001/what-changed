@@ -3523,11 +3523,8 @@
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6a5750e84d650e5c3fdae7421bd7107d7cca42b0)
 - [ ] [<code>doc: Fix Debian 12 nickname</code>](https://github.com/lxc/incus/commit/0a99902a372b69d5012f8990104e55bcd293a960)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.2...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
-- [ ] [<code>Add field for cluster member when adding/editing network forwards</code>](https://github.com/zabbly/incus-ui-canonical/commit/5b7c449931baf2a804bcfb80a068b65628d6f1eb)
-- [ ] [<code>Merge pull request #55 from presztak/network_forward_target</code>](https://github.com/zabbly/incus-ui-canonical/commit/9e5f525945481592255c090638827cdd2902df10)
-  - <sub>Tags: <code>incus-0.15.3</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -3627,6 +3624,9 @@
 - [ ] [<code>Fix negative ftell in avif_example_decode_memory (#2772)</code>](https://github.com/AOMediaCodec/libavif/commit/55eef9035dbaec9f36d8218462a2e256dfebd8e9)
 - [ ] [<code>Check ftell returned value in avifjpeg.c (#2773)</code>](https://github.com/AOMediaCodec/libavif/commit/2d0204485a30446d82770c115e0a4d61e2819f23)
 - [ ] [<code>LocalJpeg.cmake: Support multi-config generators</code>](https://github.com/AOMediaCodec/libavif/commit/27682662f3a2694ac23d68305bc51d39791fe329)
+- [ ] [<code>Add integer overflow checks to makeRoom.</code>](https://github.com/AOMediaCodec/libavif/commit/e5fdefe7d1776e6c4cf1703c163a8c0535599029)
+- [ ] [<code>Add integer overflow check to makeRoom.</code>](https://github.com/AOMediaCodec/libavif/commit/50a743062938a3828581d725facc9c2b92a1d109)
+- [ ] [<code>Fix format errors</code>](https://github.com/AOMediaCodec/libavif/commit/c9f1bea437f21cb78f9919c332922a3b0ba65e11)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3721,6 +3721,7 @@
 - [ ] [<code>meson_options.txt: remove space before `:` for consistency</code>](https://github.com/lxc/lxc/commit/6cb00878e22099743301ead7c5e317d19fc823fe)
   - <sub>Files: <code>meson_options.txt</code></sub>
 - [ ] [<code>selinux: fix typo (AppArmor)</code>](https://github.com/lxc/lxc/commit/c698307346ed150bc6995ee787160ec766f4be9e)
+- [ ] [<code>lxc/conf,start: fix setting container_ttys environment variable</code>](https://github.com/lxc/lxc/commit/0636ec66b950dd42342fc937cbba97365e92f01e)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3854,6 +3855,7 @@
 - [ ] [<code>Retry nightly changelog generation. (#20178)</code>](https://github.com/netdata/netdata.git/commit/2ce45c93c5beab3cfa3b2366e9a64a8418b36dda)
 - [ ] [<code>improve pgc fatal errors (#20181)</code>](https://github.com/netdata/netdata.git/commit/6a9ad6be02d62114e483dde587dc4bfdda7338a7)
 - [ ] [<code>Group anomaly rate per chart context instead of type. (#20180)</code>](https://github.com/netdata/netdata.git/commit/66e622a3f9416253e09b7fe8a4f35bf476c91aae)
+- [ ] [<code>Some fixes for macOS < 11 (#20145)</code>](https://github.com/netdata/netdata.git/commit/522d37ed924c2113b729a507f400c71e948fb656)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
