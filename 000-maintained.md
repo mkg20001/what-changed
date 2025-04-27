@@ -234,6 +234,7 @@
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/2b046b916e239fcf83121aa208bdfebabe185a5a)
   - <sub>Tags: <code>rc1.26.0-2</code></sub>
 - [ ] [<code>build: Use 0.1.0 fcm_shared_isolate on ios</code>](https://github.com/krille-chan/fluffychat/commit/9069c61b97b488e81199442b236f7d189ea22d88)
+  - <sub>Tags: <code>v1.26.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.25.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.25.1...HEAD)
 
@@ -337,6 +338,7 @@
 - [ ] [<code>chore: Follow up message design</code>](https://github.com/krille-chan/fluffychat/commit/2b046b916e239fcf83121aa208bdfebabe185a5a)
   - <sub>Tags: <code>rc1.26.0-2</code></sub>
 - [ ] [<code>build: Use 0.1.0 fcm_shared_isolate on ios</code>](https://github.com/krille-chan/fluffychat/commit/9069c61b97b488e81199442b236f7d189ea22d88)
+  - <sub>Tags: <code>v1.26.0</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -544,6 +546,8 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-65-nightly.</code>](https://github.com/netdata/netdata.git/commit/10e11beb9065b60fcf5a6ec055cd8a3dd39bf191)
 - [ ] [<code>ensure atomicity when logging pending message (#20185)</code>](https://github.com/netdata/netdata.git/commit/8fd4f3e0a2734ab5a9bd72424e6bcc64b34d6b52)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-67-nightly.</code>](https://github.com/netdata/netdata.git/commit/984445ab52e6aaddc1f0852335914666aa93c678)
+- [ ] [<code>fix recursive lock (#20188)</code>](https://github.com/netdata/netdata.git/commit/ca6adbb53d7b791d55163a0d22333ba20eefce8b)
+- [ ] [<code>ensure atomicity when logging pending message 3/3 (#20189)</code>](https://github.com/netdata/netdata.git/commit/de287be351a708d84101fa0d861c1882444ed4e4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
