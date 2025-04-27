@@ -543,6 +543,7 @@
 - [ ] [<code>Some fixes for macOS < 11 (#20145)</code>](https://github.com/netdata/netdata.git/commit/522d37ed924c2113b729a507f400c71e948fb656)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-65-nightly.</code>](https://github.com/netdata/netdata.git/commit/10e11beb9065b60fcf5a6ec055cd8a3dd39bf191)
 - [ ] [<code>ensure atomicity when logging pending message (#20185)</code>](https://github.com/netdata/netdata.git/commit/8fd4f3e0a2734ab5a9bd72424e6bcc64b34d6b52)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-67-nightly.</code>](https://github.com/netdata/netdata.git/commit/984445ab52e6aaddc1f0852335914666aa93c678)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
