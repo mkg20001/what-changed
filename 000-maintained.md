@@ -453,6 +453,7 @@
 - [ ] [<code>Add integer overflow check to makeRoom.</code>](https://github.com/AOMediaCodec/libavif/commit/50a743062938a3828581d725facc9c2b92a1d109)
 - [ ] [<code>Fix format errors</code>](https://github.com/AOMediaCodec/libavif/commit/c9f1bea437f21cb78f9919c332922a3b0ba65e11)
 - [ ] [<code>Add another integer overflow check to makeRoom</code>](https://github.com/AOMediaCodec/libavif/commit/32eae7c5c1e72d9999cb31d02e333b6a76029bad)
+- [ ] [<code>Bump libjpeg-turbo to 3.1.0 (#2776)</code>](https://github.com/AOMediaCodec/libavif/commit/1a84be6218fa517895d31ae652d959e9e9ab74eb)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -550,6 +551,13 @@
 - [ ] [<code>fix recursive lock (#20188)</code>](https://github.com/netdata/netdata.git/commit/ca6adbb53d7b791d55163a0d22333ba20eefce8b)
 - [ ] [<code>ensure atomicity when logging pending message 3/3 (#20189)</code>](https://github.com/netdata/netdata.git/commit/de287be351a708d84101fa0d861c1882444ed4e4)
 - [ ] [<code>Fix repeating alert crash (#20186)</code>](https://github.com/netdata/netdata.git/commit/fc86461e36f5ecb1376737f93d3f6a46789e081f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-71-nightly.</code>](https://github.com/netdata/netdata.git/commit/b6436e4d77e67748d7c08434d2679b78a8c5eb67)
+- [ ] [<code>added dyncfg docs (#20187)</code>](https://github.com/netdata/netdata.git/commit/61197faf9ee59efd815260f5d7f2a1f36117e8e3)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ignore maintenance signals on exit (#20190)</code>](https://github.com/netdata/netdata.git/commit/0474d966540fa173781b8b6f46aadeaff3f6e420)
+- [ ] [<code>limit the max number of threads based on memory too (#20192)</code>](https://github.com/netdata/netdata.git/commit/a7a35f1a495bcbf194ae83d5287a01aac7d5e386)
+- [ ] [<code>Exporting exit fix (#20191)</code>](https://github.com/netdata/netdata.git/commit/5e87a65037d7398d34a7d9d9b00674275efebeaf)
+- [ ] [<code>cleanup ML cached pointers on child disconnection (#20195)</code>](https://github.com/netdata/netdata.git/commit/731913da57a0f1c09d7dd10aae1d91f0e19b96ab)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -1948,6 +1956,11 @@
 - [ ] [<code>ubus: fix broken uc_ubus_defer()</code>](https://github.com/jow-/ucode/commit/2824982da336bbdaef4a52ced9ae54e4ed5ef1d4)
 - [ ] [<code>fs: implement fileno() on directory handles</code>](https://github.com/jow-/ucode/commit/567207a9bf16b9f287a5d0a59d3f9119d729e660)
 - [ ] [<code>fs: support passing directory handle or fd in chdir()</code>](https://github.com/jow-/ucode/commit/eb1d93235509784a9446623cef8b86f0693cba05)
+- [ ] [<code>build: detect whether toolchain employs default source fortification</code>](https://github.com/jow-/ucode/commit/38a2254337f1e452ccd5e67a914fcb3856deeb15)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>resolv: fix fd leak in send_queries</code>](https://github.com/jow-/ucode/commit/6eddfc9dff173cbb24a7970e558207506a50c68a)
+- [ ] [<code>uci: fix memory leak on cursor() error</code>](https://github.com/jow-/ucode/commit/3d36856b2dc5059c6969dcf54e49baf179a9800a)
+- [ ] [<code>uci: add cursor() flags argument</code>](https://github.com/jow-/ucode/commit/aafde95f1ecf6081c721f1c4e7f343c3982fa055)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
