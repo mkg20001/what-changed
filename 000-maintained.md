@@ -452,6 +452,7 @@
 - [ ] [<code>Add integer overflow checks to makeRoom.</code>](https://github.com/AOMediaCodec/libavif/commit/e5fdefe7d1776e6c4cf1703c163a8c0535599029)
 - [ ] [<code>Add integer overflow check to makeRoom.</code>](https://github.com/AOMediaCodec/libavif/commit/50a743062938a3828581d725facc9c2b92a1d109)
 - [ ] [<code>Fix format errors</code>](https://github.com/AOMediaCodec/libavif/commit/c9f1bea437f21cb78f9919c332922a3b0ba65e11)
+- [ ] [<code>Add another integer overflow check to makeRoom</code>](https://github.com/AOMediaCodec/libavif/commit/32eae7c5c1e72d9999cb31d02e333b6a76029bad)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -548,6 +549,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-67-nightly.</code>](https://github.com/netdata/netdata.git/commit/984445ab52e6aaddc1f0852335914666aa93c678)
 - [ ] [<code>fix recursive lock (#20188)</code>](https://github.com/netdata/netdata.git/commit/ca6adbb53d7b791d55163a0d22333ba20eefce8b)
 - [ ] [<code>ensure atomicity when logging pending message 3/3 (#20189)</code>](https://github.com/netdata/netdata.git/commit/de287be351a708d84101fa0d861c1882444ed4e4)
+- [ ] [<code>Fix repeating alert crash (#20186)</code>](https://github.com/netdata/netdata.git/commit/fc86461e36f5ecb1376737f93d3f6a46789e081f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
