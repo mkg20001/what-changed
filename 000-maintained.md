@@ -252,6 +252,9 @@
 - [ ] [<code>Fix format errors</code>](https://github.com/AOMediaCodec/libavif/commit/c9f1bea437f21cb78f9919c332922a3b0ba65e11)
 - [ ] [<code>Add another integer overflow check to makeRoom</code>](https://github.com/AOMediaCodec/libavif/commit/32eae7c5c1e72d9999cb31d02e333b6a76029bad)
 - [ ] [<code>Bump libjpeg-turbo to 3.1.0 (#2776)</code>](https://github.com/AOMediaCodec/libavif/commit/1a84be6218fa517895d31ae652d959e9e9ab74eb)
+- [ ] [<code>Support multi-config in test_cmd* (#2781)</code>](https://github.com/AOMediaCodec/libavif/commit/4b6560ea6c29bc13c7e2841da8060fe01f9b2c23)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -363,6 +366,8 @@
 - [ ] [<code>rrd metadata needs to be discoverable while replication is running (#20200)</code>](https://github.com/netdata/netdata.git/commit/ab81ad3f7de7a2b121d23ca6e6511749dbf24d80)
 - [ ] [<code>Reorganize code (IIS) (#20182)</code>](https://github.com/netdata/netdata.git/commit/71c39b0f67990796eb0451356a9da6e61d1f5ed0)
 - [ ] [<code>Add a default busy timeout (#20201)</code>](https://github.com/netdata/netdata.git/commit/fcd51e075d08276e7544b80dac8d19430df9bbff)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/8249308d903d8be94effef7131c611aece065853)
+- [ ] [<code>rrd metadata search fix (#20203)</code>](https://github.com/netdata/netdata.git/commit/97e4d505156938ad09a9201c072cdf5a54677b19)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
