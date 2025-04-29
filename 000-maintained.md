@@ -368,6 +368,9 @@
 - [ ] [<code>Add a default busy timeout (#20201)</code>](https://github.com/netdata/netdata.git/commit/fcd51e075d08276e7544b80dac8d19430df9bbff)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/8249308d903d8be94effef7131c611aece065853)
 - [ ] [<code>rrd metadata search fix (#20203)</code>](https://github.com/netdata/netdata.git/commit/97e4d505156938ad09a9201c072cdf5a54677b19)
+- [ ] [<code>remove the status file spinlock to avoid deadlocks (#20205)</code>](https://github.com/netdata/netdata.git/commit/2b74680e13eaeb2bf2576354e3bad90cb539f978)
+- [ ] [<code>call spinlock_init() when initializing rrdlabels spinlock (#20206)</code>](https://github.com/netdata/netdata.git/commit/13ede842cb7f67db31b4b4e901d5ee17176805ae)
+- [ ] [<code>added more annotations in spinlock deadlock detection (#20207)</code>](https://github.com/netdata/netdata.git/commit/0a00260947ff25af89e99ea41a34d74f458747c4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
