@@ -134,9 +134,11 @@
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
+- [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
+- [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -376,6 +378,14 @@
 - [ ] [<code>Avoid indexing journal files when db rotation is running (#20204)</code>](https://github.com/netdata/netdata.git/commit/018b1fc74983e9337135551f6b884df015e97782)
 - [ ] [<code>Use one spinlock to access v2 and mmap related data (#20202)</code>](https://github.com/netdata/netdata.git/commit/91f2ef1bdb8bceec06565f5501719278cb48bdc0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-91-nightly.</code>](https://github.com/netdata/netdata.git/commit/d4a62b925468eeb1d93f0b04a507e8e577ad1e99)
+- [ ] [<code>fix hardcoding of eval variables (#20210)</code>](https://github.com/netdata/netdata.git/commit/0620e5c2998093d7ec5f497760e5d29944d64e85)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Small fixes (#20209)</code>](https://github.com/netdata/netdata.git/commit/785cf3c7a7fb68c9ebee764ed5ff6d4529e3afe9)
+- [ ] [<code>Security and Privacy Design (#20208)</code>](https://github.com/netdata/netdata.git/commit/d55cd6b15f913534329000749fc4e27f63ee015a)
+- [ ] [<code>Add Fedora 42 to CI and package builds. (#20177)</code>](https://github.com/netdata/netdata.git/commit/4b32485afbdfb2e4ea867850c46f6dcae9c52b8d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Improve health log cleanup (#20213)</code>](https://github.com/netdata/netdata.git/commit/6b893ecafb258f61835a7e539db24886874f99b7)
+- [ ] [<code>use nd threads in exporting (#20212)</code>](https://github.com/netdata/netdata.git/commit/6ffa84229877d54fb2e32cd07b4331be0e3e539e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
