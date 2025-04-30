@@ -375,6 +375,7 @@
 - [ ] [<code>added more annotations in spinlock deadlock detection (#20207)</code>](https://github.com/netdata/netdata.git/commit/0a00260947ff25af89e99ea41a34d74f458747c4)
 - [ ] [<code>Avoid indexing journal files when db rotation is running (#20204)</code>](https://github.com/netdata/netdata.git/commit/018b1fc74983e9337135551f6b884df015e97782)
 - [ ] [<code>Use one spinlock to access v2 and mmap related data (#20202)</code>](https://github.com/netdata/netdata.git/commit/91f2ef1bdb8bceec06565f5501719278cb48bdc0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-91-nightly.</code>](https://github.com/netdata/netdata.git/commit/d4a62b925468eeb1d93f0b04a507e8e577ad1e99)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
