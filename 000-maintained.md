@@ -255,6 +255,8 @@
 - [ ] [<code>Support multi-config in test_cmd* (#2781)</code>](https://github.com/AOMediaCodec/libavif/commit/4b6560ea6c29bc13c7e2841da8060fe01f9b2c23)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Set CMake policy CMP0114 to NEW</code>](https://github.com/AOMediaCodec/libavif/commit/d2e255ae1ad8649fcb625a2e9079e54b14d93480)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -371,6 +373,8 @@
 - [ ] [<code>remove the status file spinlock to avoid deadlocks (#20205)</code>](https://github.com/netdata/netdata.git/commit/2b74680e13eaeb2bf2576354e3bad90cb539f978)
 - [ ] [<code>call spinlock_init() when initializing rrdlabels spinlock (#20206)</code>](https://github.com/netdata/netdata.git/commit/13ede842cb7f67db31b4b4e901d5ee17176805ae)
 - [ ] [<code>added more annotations in spinlock deadlock detection (#20207)</code>](https://github.com/netdata/netdata.git/commit/0a00260947ff25af89e99ea41a34d74f458747c4)
+- [ ] [<code>Avoid indexing journal files when db rotation is running (#20204)</code>](https://github.com/netdata/netdata.git/commit/018b1fc74983e9337135551f6b884df015e97782)
+- [ ] [<code>Use one spinlock to access v2 and mmap related data (#20202)</code>](https://github.com/netdata/netdata.git/commit/91f2ef1bdb8bceec06565f5501719278cb48bdc0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
