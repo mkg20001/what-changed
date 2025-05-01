@@ -389,6 +389,7 @@
 - [ ] [<code>Improve health log cleanup (#20213)</code>](https://github.com/netdata/netdata.git/commit/6b893ecafb258f61835a7e539db24886874f99b7)
 - [ ] [<code>use nd threads in exporting (#20212)</code>](https://github.com/netdata/netdata.git/commit/6ffa84229877d54fb2e32cd07b4331be0e3e539e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-98-nightly.</code>](https://github.com/netdata/netdata.git/commit/1bb4e5a223de8ed1d7756a7c4fa1580281b45b5b)
+- [ ] [<code>Small fixes2 (#20219)</code>](https://github.com/netdata/netdata.git/commit/8e7d930ff5e9bcc61a5e0906ee740f414f5ca707)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
