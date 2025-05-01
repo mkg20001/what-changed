@@ -259,6 +259,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Set CMake policy CMP0114 to NEW</code>](https://github.com/AOMediaCodec/libavif/commit/d2e255ae1ad8649fcb625a2e9079e54b14d93480)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add an extra cache key for ci-windows (#2784)</code>](https://github.com/AOMediaCodec/libavif/commit/8551cf2e7766ee4c9329f280c1c7c37648fd5078)
+- [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/ab0396715982c7cda213a9107b31f3ac5dbafd2f)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -386,6 +388,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Improve health log cleanup (#20213)</code>](https://github.com/netdata/netdata.git/commit/6b893ecafb258f61835a7e539db24886874f99b7)
 - [ ] [<code>use nd threads in exporting (#20212)</code>](https://github.com/netdata/netdata.git/commit/6ffa84229877d54fb2e32cd07b4331be0e3e539e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-98-nightly.</code>](https://github.com/netdata/netdata.git/commit/1bb4e5a223de8ed1d7756a7c4fa1580281b45b5b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
