@@ -136,11 +136,13 @@
 
 - [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
+- [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
 - [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
+- [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -399,6 +401,12 @@
 - [ ] [<code>chore(otel/netdataexporter): poc version (#20199)</code>](https://github.com/netdata/netdata.git/commit/c6d0e417a3e5438e9ad981d2248d503faf230fbb)
 - [ ] [<code>documentation and helpers for centralizing namespaced logs (#20217)</code>](https://github.com/netdata/netdata.git/commit/ff33522006a0d3fea91016fdd41e70dbec79a5db)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Enable analytics data collection  (#20221)</code>](https://github.com/netdata/netdata.git/commit/5a642184cdf4c492f9aa868a368b78cb0976a9c4)
+- [ ] [<code>fix crashes 7 (#20224)</code>](https://github.com/netdata/netdata.git/commit/8640e0495ae7f0e24ef4c4ba09fc741a8bef6b21)
+- [ ] [<code>fix crashes 8 (#20225)</code>](https://github.com/netdata/netdata.git/commit/46783469fabf463531dac74325756262d24b0643)
+- [ ] [<code>Fix potential null pointer dereference when accessing journalfile (#20226)</code>](https://github.com/netdata/netdata.git/commit/21d99987b04c10e9964caafc7044eb155819791d)
+- [ ] [<code>Clean up prepared statements on thread exit (#20211)</code>](https://github.com/netdata/netdata.git/commit/b641ae720cf962bd6fcade35ad7cc010005b666f)
+- [ ] [<code>Improve MSSQL (Windows.plugin Part II) (#20141)</code>](https://github.com/netdata/netdata.git/commit/4b63e6cdad29f3873e03e2e448084bbdf30b9c58)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
