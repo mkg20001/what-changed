@@ -134,10 +134,12 @@
 
 #### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
+- [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
+- [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
@@ -390,6 +392,13 @@
 - [ ] [<code>use nd threads in exporting (#20212)</code>](https://github.com/netdata/netdata.git/commit/6ffa84229877d54fb2e32cd07b4331be0e3e539e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-98-nightly.</code>](https://github.com/netdata/netdata.git/commit/1bb4e5a223de8ed1d7756a7c4fa1580281b45b5b)
 - [ ] [<code>Small fixes2 (#20219)</code>](https://github.com/netdata/netdata.git/commit/8e7d930ff5e9bcc61a5e0906ee740f414f5ca707)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-100-nightly.</code>](https://github.com/netdata/netdata.git/commit/d6ab8885150600c2b8ac4635d232692c8b097719)
+- [ ] [<code>SNMP profiles units and description generation (#20163)</code>](https://github.com/netdata/netdata.git/commit/12f0ba96ef96d499e9a11aa86ffaf8680cdb5273)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.7.3 to 9.8.0 in /src/go (#20220)</code>](https://github.com/netdata/netdata.git/commit/ec44d138e5e2da5a3c90197da564c61d5b43706e)
+- [ ] [<code>chore(otel/netdataexporter): poc version (#20199)</code>](https://github.com/netdata/netdata.git/commit/c6d0e417a3e5438e9ad981d2248d503faf230fbb)
+- [ ] [<code>documentation and helpers for centralizing namespaced logs (#20217)</code>](https://github.com/netdata/netdata.git/commit/ff33522006a0d3fea91016fdd41e70dbec79a5db)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -1565,6 +1574,261 @@
 - [ ] [<code>build: v1.19.3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cea547dcac5d4dba62070da0a8b3bc2a981aa43e)
   - <sub>Tags: <code>v1.19.3</code></sub>
 - [ ] [<code>feat(android): add themed launcher icon support</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2930208cd10abce70060c76ab3a066c641bfda99)
+- [ ] [<code>begin frontend rewrite, get lib to compile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1e5dc63bf92320ed56ed58e49744bc1d5b6a02e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>mostly finish up lib api changes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d63347eed493bc6ad9dda74b24c3ed2b0cf962fd)
+- [ ] [<code>add demo connection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f6aa8cd7c4c64cd07e00b983cde5abb558d65abd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: MaybeSend</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ded82405372e06cfc7c8e87992177a86565418c5)
+- [ ] [<code>fix(lib): various issues with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c5e3c450d124be9d4a1ff2c9afc0d481d3776829)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: POC libcosmic gui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/59ce19e9ba19a76c09e1be60d3f5ac52750fee5a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(storage): add paired_device.created_at index</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c5377458b6cb51708649dedfc035f4a81a590fa4)
+- [ ] [<code>storage: add eq profiles and quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4c027a528fd3fade219d4546a30e6a8ae6094680)
+- [ ] [<code>move storage into lib</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15125d7b612bdaff21016d4c89d7897c537bdffc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gui_cosmic: add basic error handling</code>](https://github.com/Oppzippy/OpenSCQ30/commit/23944c380f66c1f530edfb25ceb6b2d513098afe)
+- [ ] [<code>lib/storage: strict tables, enable foreign key support</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9e6a46542832c9f05b7f955adf7de840f8d11c11)
+- [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b40583d6ea7df3db2e0fd6b0aa7dfbf92623be50)
+- [ ] [<code>add OpenSCQ30Session for hiding db from api users</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0fe0eacc04fe099dec8ffe9e4afe5ef591d91c55)
+- [ ] [<code>add equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8657ade2c0ff8efb163ebaed7529f520d199bd57)
+- [ ] [<code>gui_cosmic: add nav bar functionality</code>](https://github.com/Oppzippy/OpenSCQ30/commit/efc61fa87dc5ceccf393b56f3a18c487eecd5794)
+- [ ] [<code>gui_cosmic: only fetch settings for selected category</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2ee47e1f99bafefb02dfc6002f35137ea8d53c8)
+- [ ] [<code>gui_cosmic: refactor settings view into separate functions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f2ab2982b3577f493bfd309b864374f20634381)
+- [ ] [<code>gui_cosmic: fix equalizer text layout issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b824554c156dc03e761dd3ac9f2a39bec8433ab5)
+- [ ] [<code>lib: use Cow<str> for setting ids</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a9fac65c9e5c4dc67ef9d42d8ebc04fe0a4c1e1)
+- [ ] [<code>gui_cosmic: implement quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2c154f75f0e0404d0bf6a49152784ccd70608801)
+- [ ] [<code>refactor: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cc1264945a5b97fff2ad86579aed6e9d90f1af2f)
+- [ ] [<code>gui_cosmic: update to 2024 rust edition</code>](https://github.com/Oppzippy/OpenSCQ30/commit/145d6e4c9c93e40029fab786c8dbc10e9eb8d38e)
+- [ ] [<code>lib: update rust edition to 2024</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b4c29c1e49248fbacf4ff6793999853b37184be8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: make use of async closures</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8bea3bdba9028d1649970b0d8d2c8ed17dea25c)
+- [ ] [<code>refactor: remove std::future::Future imports since it is part of prelude</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f15a356a694c61c8ff70b556eab200ad6b8934ad)
+- [ ] [<code>update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fde99ca6ecfdd780ad7b551240d4e16add3d25aa)
+- [ ] [<code>refactor(lib): store select setting value as str</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f7001293fc34ab99224d4c1c318b29d463be9653)
+- [ ] [<code>lib: disable serde rename to camelCase</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ba92698f77b5c299c5b1c5404da7dc9b508ebc8d)
+- [ ] [<code>gui_cosmic: implement optional select</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d1ec8c878d7ec5248ad4ebb2312a987dd602f7eb)
+- [ ] [<code>feat: add custom eq profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a4767340553977041dc0e256e1ff65521b17ec4)
+- [ ] [<code>refactor(gui_cosmic): merge unnecessarily split modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1b0c9ee3ff4a0f63140c7e43ecf460610cad243)
+- [ ] [<code>feat(gui_cosmic): implement I32Range</code>](https://github.com/Oppzippy/OpenSCQ30/commit/326a2983b093a60bb16c03a905fa265f4a50eb3e)
+- [ ] [<code>refactor: separate OptionalSelect from ModifiableSelect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5ff91df8bd2d65c1ce2022006c73c9662b9257b7)
+- [ ] [<code>lib: add localization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/85d2e5c787b5f8fda0853b8883b3b3264b83fc4e)
+- [ ] [<code>refactor: convert CategoryId to enum</code>](https://github.com/Oppzippy/OpenSCQ30/commit/047da4fc05993937a914f6bdda4d8ef60a4a220f)
+- [ ] [<code>convert SettingId to enum</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c19ad77bcbbd873f4fce1717d3944977e6f1b6c7)
+- [ ] [<code>gui_cosmic: remove font size overrides</code>](https://github.com/Oppzippy/OpenSCQ30/commit/787359943656754bd6dc5f5299b1acd01ab2f876)
+- [ ] [<code>lib: add note about renaming SettingId variants</code>](https://github.com/Oppzippy/OpenSCQ30/commit/13620a6e81f1846fe3894839dff66e335142d09a)
+- [ ] [<code>lib: strip out swappable async runtime code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2bae9af3156acb4b00dc0347b535685cb1297fb3)
+- [ ] [<code>lib: add new connection backend api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/93b53f6d0751d3553823d97e7401d31ed72de555)
+- [ ] [<code>lib: remove bluetooth feature flag for rewrite</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a08bdd595e90dd176fdd8d7682ae32adc168248f)
+- [ ] [<code>remove obsolete frontends</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0bfe8eef40f3fbb3ae3993e881a61e59877ba225)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>lib: add a3030 device registry</code>](https://github.com/Oppzippy/OpenSCQ30/commit/21315ada2d34014ec888d87f14a8b0907c95afe9)
+- [ ] [<code>lib: use common code for device registry</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ada4e70c00658617b93b8c5e7377067535b3f658)
+- [ ] [<code>lib: implement new api for a3028</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4d8017de28a3c9502572a025e520f3d8e9fb28a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): move demo device to proper module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/249453174c2fccc8228fe155400183a7eb87f210)
+- [ ] [<code>test(lib): fix forgotten multiplication before rounding</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b14aff144de4305aa94351cdd4bc3e64be1c6a6f)
+- [ ] [<code>lib: add packet handler for state update packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8c390a5acf57b4f98daee32ce1f3c4c25c905340)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: remove unnecessary extension traits</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f2eb1c61ce2bd0e202724caf9e59ef5b123fca07)
+- [ ] [<code>lib: add impl_as_ref_for_field macro</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aa9a54dfe70a8f1911a34684bb9a187b4f5cfb69)
+- [ ] [<code>lib: remove empty file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dad20b7098d5d365a5f9a3c8c8c7d9416b57ede8)
+- [ ] [<code>lib: add partial implementation of A3031</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e78463567f830f2728412950dc8667c85e3110b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: implement button configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0a74e6ef87047b1a439e39a64e7dcf2fc7dcfcab)
+- [ ] [<code>lib: implement a3033 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fff67074f762d7bc778d27e2cde2152b6cccee4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: implement usage of drc and hear id equalizer packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1a24a71ae10ab4620eab156061431815095ab3d2)
+- [ ] [<code>lib: implement a3926 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a430d99752e182043529e50fd2579d612e347bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: implement a3930 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b7dbae81b1cdeb4930db2c99fba8dff90a574d8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: add macro for repeated identical implementations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fb6f3ccd4c31f1da9d3e9ac9a873fd73f4cb12e3)
+- [ ] [<code>lib: add macro for soundcore device structs and implementations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a34cf803726349bc25c04924143df1d7445911b)
+- [ ] [<code>lib: implement a3931 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c98fa3c52cbe0e23a83b5c93e35cfedfa734a93e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/76393b304b2544c19b40aad888600b7d17f16744)
+- [ ] [<code>lib: implement a3951 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5230f53fc1a03656bfd66582be262e9f45d7e71d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gui_cosmic: fix range setting layout</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2b622ccf4c33310b8a1988ee224a4cf75d8b11e)
+- [ ] [<code>lib: add ambient sound mode cycle module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c1f5e3b45b6f54fddad71987ffac9bee018a4c7a)
+- [ ] [<code>lib: replace much of soundcore_device macro with generics</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0176623070075d581aa71db9e519885692bb3a09)
+- [ ] [<code>lib: implement a3933 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c6528445503ad417ae5c1621e2e2d1862a9dba3f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gui_cosmic: fix backwards layout for togglers</code>](https://github.com/Oppzippy/OpenSCQ30/commit/090d119377d1731f8be06d35c89fcea60127717e)
+- [ ] [<code>gui_cosmic: use context drawer for editing quick preset</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fdf04abd4b4f73bd2fb5d5f606f447993e2e062e)
+- [ ] [<code>lib: implement a3936 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a52d63783a3486acf5e06df447a4abc3e1d24a88)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: implement a3945 with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0cb859989893e0f7f101052c348599f62c11bd62)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: add in memory db option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/afa87044afd5aa9793701bb5dec04e1f03b0bdc9)
+- [ ] [<code>lib: work towards passing band 9 and 10 test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/565c23fd132418026e46b9da6b527963f6dae89f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: remove most device profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/677e197087014e1f77d2d9f141f9c618cdb16a54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: implement a3936 sound modes with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/04b2825ddb44c5c2f613f5e0b15ebe6499254540)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: remove last device profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b637c10bac31d0acd21641e81042d3c1a992f55)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: fix off by one due to missing float round</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2763b993a21a63b71142839ce428c7a04d32e3aa)
+- [ ] [<code>lib: add a3028 tests with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/601b88ba015ae071d60ba166c1f83d32c92862e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: adjust module structure and remove obsolete code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0de2d9602a4881f37794f119c181a042da615bba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove obsolete button configuration code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6bca5c688df366130f5208b5f346bc0c675f51ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove obsolete quirks code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7279e311ba74722e45164fcfa2f06684615fdf61)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: adjust visibility of modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/068060d11c6cd1712d2a63781a004f700f7b36f7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gui_cosmic: rename to gui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/223b89eff22728398b63d7898cbb284c3c52b1e8)
+- [ ] [<code>lib: replace VolumeAdjustments with VolumeAdjustments2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2de81b402d489ce609fcbc19c83bd6f40ff7fc5d)
+- [ ] [<code>refactor(lib): volume adjustments with variable number of channels</code>](https://github.com/Oppzippy/OpenSCQ30/commit/27fd1beafca588f068419ca436ea94c2e830c1a7)
+- [ ] [<code>refactor(lib): use generics for number of channels and bands</code>](https://github.com/Oppzippy/OpenSCQ30/commit/44f8cfde9221324068a851669485859ff9b7f37c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): move const outside of impl</code>](https://github.com/Oppzippy/OpenSCQ30/commit/093081da6ceef1f1dfbd90001559a447d834e2d0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): clean up unused stub connection code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fdc2ac65e2b62da37170dec35a2b800c48fbd94f)
+- [ ] [<code>refactor(lib): remove unused code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1f46934fbd3794b84b2654ae6e25673817846e8f)
+- [ ] [<code>feat: implement battery information</code>](https://github.com/Oppzippy/OpenSCQ30/commit/da3c4d0fd8bff2e9e3a38193c617bf5c3dca74d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): inverted modified check</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8750f2b477ec36ff55a0e70ea838316d91ac1174)
+- [ ] [<code>feat(lib): implement  serial number and firmware version</code>](https://github.com/Oppzippy/OpenSCQ30/commit/267dced068228b4b08226e9b281c3f19aca44379)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): inverted modified check</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e260dbfce83be7009509852997b6ae329e3b0ae)
+- [ ] [<code>feat(lib): implement custom fetch state functions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2676d3661fbedefc56daefb7e327e731fb2f7d17)
+- [ ] [<code>feat(lib): implement tws status</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c486a8ae086983802530c0b8c068b308519118d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): fix demo devices requiring separate sn/fw packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/02f82b5047ffcf839e13df1ff00b18e54738d531)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): handle firmware version update packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1c6e4c38ec81dca97b6d711b8c12cd1b7f5ef82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): add SerialNumber to name of request fw packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49854c75a9436a04eb59204e854262b709229c9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove unused code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f7799ff866ccb915fd82b6776cb3eeb505b99d74)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove unnecessary serde derives</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbbd46da176e44c02c9885d0520695b56358ba9f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): restrict scopes of soundcore device modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/652761d12969f8a6b740371af814887d35bb43d4)
+- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/38e1a43dc96c6e1a2d173e7007c0ed59b754b54d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(gui): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9b8304d193af68cacce8e8573e594de72992cba4)
+- [ ] [<code>refactor(lib): remove legacy ConnectionRegistry</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6091917e62eda89bf5e33b8e70887c8bdb968fe6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): rename TypeTwo structs to A3936</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d04c4f9e026bee17127cab3674303f76205c4153)
+- [ ] [<code>refactor(lib): remove unused code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf2571d67456bbd3a2a183cc0f694f4f6a52c172)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): add bidirectional serialization tests for state update packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f125edcd961c9ca15520f6220c5de7257ddeb70f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): split up single and dual battery level update packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/267abc94881959fe83db6988212b9057d9ec0769)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): split up single and dual battery charging packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8057bf1b172d7eab63f9a74a973234f0069f9311)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): add cli</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4138d7db7372d06d516ee37f65a0552ea378484a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build(cli,gui): add justfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a6e9bfd6b7e63f56c7ddd6aa5d745383026f309c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat(cli): add shell completions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6787c76f02e3e286b2659a793f600b76ee2dcade)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): split up into modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4dffb7b9c9a0c4e063d5bcc3147e4bdccb4bf45d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(cli): split up device functions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a4704088f4ab3f5e6eff0838085066534236383)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(cli): split up pair functions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f41f4089bb989701671ef9a36d0c9b2f2812a724)
+- [ ] [<code>fix(cli): table formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/93cf5ccdd9b18b985868e9cd98c217156fae8027)
+- [ ] [<code>feat(cli): add logging</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1b9f390adb5fc4c5325f325edf818d3398ee81d9)
+- [ ] [<code>build(gui): rename binary to openscq30-gui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7a3926eda967e70eb0716893b95c79666793f9b7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(gui): add legacy equalizer profile migration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8409ab307b3608aa3fd1eb58d0945b7c362b0379)
+- [ ] [<code>refactor(lib): remove unused error variants</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8aff6eb12516dbd5c39f422f0c326d5c842f972)
+- [ ] [<code>refactor(lib): replace crate::Error with more specific error enums</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8bc92905dcd4ce6eccd0b372be329ce1a9908b8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: re-add caller location to errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1616b9edf4595f41faa29596a1bd0d19d085f621)
+- [ ] [<code>lib_flatbuffers: add crate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3b13c97f8b015ceded281c342677edd3feef7807)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>android: set up rust side of things</code>](https://github.com/Oppzippy/OpenSCQ30/commit/04a930c65eee658f6edd83a2e34b74cda03ea77a)
+- [ ] [<code>android: remove protobuf dependency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1151ed4dbf4ae1506d293572932c11c9c0559ac5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f2e0e9519b0a06248c6f98d7306243d9044a6c08)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(android): remove demo mode selction at build time</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6f6712af05fadba6e938c745cb9f8024aef20f33)
+- [ ] [<code>gui: update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a11b09a5cd91de475f080c30c765fc643fa227b4)
+- [ ] [<code>fix(lib): compile error on android due to no implementation for impl trait</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7764bf2958bd868f3f9d70996c2c34c284634e04)
+- [ ] [<code>android: set up kotlin side of serialization/deserialization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4d6fc9c77b49762c4a0caf78f8027e512ad1e6d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): implement change notification</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dc88083ce0cdb3c72fee997c3af3d4ffd64067b1)
+- [ ] [<code>fix(lib): remove duplicate ftl entry</code>](https://github.com/Oppzippy/OpenSCQ30/commit/13acee39df9852bced922612931d3ed883f946b2)
+- [ ] [<code>android: implement service with new api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/625ec8a3e2604b4e53bf6efbe36236e703c4c79c)
+- [ ] [<code>android: clean up unused code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/84ea7a2847e06b7db9813b1430ef968d2863b4fe)
+- [ ] [<code>android: use new api for auto connect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11c5b9fc274ad752118c2defe0c6ff8b6b752c1e)
+- [ ] [<code>android: remove unused preference</code>](https://github.com/Oppzippy/OpenSCQ30/commit/56432bd4ca52b1742bfe67a8f92d3fec5eea1dac)
+- [ ] [<code>android: add OpenScq30Session hilt module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2bd4327cf41f2282dc0dada72c0fcb205425ff1)
+- [ ] [<code>build(android): fix deprecations</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9f9973327a73a8ca52cc8145c736138ac54dd19)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>android: work on ui with new backend api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/75251323800b5d6387fc88175b1022746a1cad96)
+  - <sub>Keywords: <code>bin</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>build(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b885fe939037c883a6157ca980745c8dc533a56b)
+- [ ] [<code>android: more work on displaying settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fd2f8c23b14e80341dd0e98d9264a6cb57fe4970)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: improve ModifiableSelect api</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d6142e3e3b6686f15398c1e7ade0fcb81854d82c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>android: work on equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4156186a3bfc87dfed42438af1d7e7c84602532b)
+- [ ] [<code>android: set up device settings view model</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8e6458bbc14e213455922173b1ac29aee9f06c96)
+- [ ] [<code>android: add category icons</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b00779dc736ad0a40ae73b4c9edb6a2f3624b626)
+- [ ] [<code>android: remove mac address filter from settings ui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/efde9a129074b91f24687d8fed86efdd8e3555b4)
+- [ ] [<code>android: set up DeviceSelectionViewModel</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9c80e341c7ccb6f3cdd0483fd0bc1ae69852a493)
+- [ ] [<code>style(android): run ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3201a12c9da9fb13cb72e83427efb37dc4ce4db1)
+- [ ] [<code>build(gui): disable libcosmic linux features on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2dd41f46e3230bd4e0ab87423c01d28e4a761f6f)
+- [ ] [<code>feat(lib): add windows rfcomm backend (untested)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1a8bb084202821ba5f68c9198b24a86ec5c417ef)
+- [ ] [<code>gui: add toggle for demo mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/564b292e1cb18f6e7af2b759060deed76cf8b996)
+- [ ] [<code>lib: store demo mode as a property of a PairedDevice</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e469a7478ea8a04d3a35e3a7a212afcac990a195)
+- [ ] [<code>gui: translate device model names</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fad693ea832e9a4ea3781ebb184b5543a2491598)
+- [ ] [<code>remove device name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a3826b98f775395ecefbbc108306832bcc7362a8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gui: add log filtering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a0497ca2a4efd2cc5785ee2795685110bedbe4b0)
+- [ ] [<code>fix(lib): PacketIOController not getting dropped</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6e56e6ae29b423ebee8a67512e763b8361a87997)
+- [ ] [<code>gui: add bundled sqlite feature</code>](https://github.com/Oppzippy/OpenSCQ30/commit/305c705132c5f36a4d36d2ec980d77308dcb0a64)
+- [ ] [<code>refactor(gui): pass config dir as parameter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d1d2d9d7bc2b380a24c7e03b644d2fcb3eac6991)
+- [ ] [<code>fix(gui): legacy profile migration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/90a8d5dc572b7cbe1e2fad55d35f26d2a31f2333)
+- [ ] [<code>refactor(lib): rename (Custom|Preset)Profile to \1EqualizerProfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d01cad1418c621be7f918512dd990b2c4e3d129e)
+- [ ] [<code>build(gui): add just script for running on remote windows vm</code>](https://github.com/Oppzippy/OpenSCQ30/commit/144496b0f45b08b928cb070afdcd3eb793e1a315)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>lib_flatbuffers: remove crate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7e2056b63a4e31136a5b85e10b1c9050b8149cae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: update justfiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/71736ecfc543e969a91d08fe233358bbe9256439)
+- [ ] [<code>style(lib): run rustfmt</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1f80530a75c46ac38f21d8115b1d9aba30bd63ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: justfile fixes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e494f885162e6d5ddd23b7b24420831fc42e31cb)
+- [ ] [<code>android: update PairedDevice fields</code>](https://github.com/Oppzippy/OpenSCQ30/commit/81048df656570cbf67584c19798f830cbed054e8)
+- [ ] [<code>android: implement device pairing gui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8015685ab7e4b6e1fc890d4109081db77c7c2b77)
+- [ ] [<code>android: fix build errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b55d1294bd0a812c4eae1890ccd81ae39c332abb)
+- [ ] [<code>android: fix @Inject mistake</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d952bb71f307fd624e3e0e2615737bed30b9f8d4)
+- [ ] [<code>deps: update cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/67357ea77428e4e6ac2ee9917796d939eb797145)
+- [ ] [<code>deps: remove unused cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f13a6275bfd861ddb731e8bf70fc393585f2d11)
+- [ ] [<code>deps: update nom to v8</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9c4fcbe85d05017989d378be8ca536caef0ef63c)
+- [ ] [<code>deps(lib): update windows-rs to 0.61</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3e2ff8f7fa10bfb70462453ecac79c73a7ee173)
+- [ ] [<code>style(lib): run cargo fmt, fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/22bdd160867e8ef0afd06ef31556d3feff377d74)
+- [ ] [<code>refactor(gui): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ae0ad64b9a266556236b8e409fa69861d25cc673)
+- [ ] [<code>deps: cargo.lock update</code>](https://github.com/Oppzippy/OpenSCQ30/commit/13a71340c42a4d4e656a13f23b5e26a1fe216e91)
+- [ ] [<code>build(android): fix jni linking error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a1d5c57d443a7839047278450bf62dbee037b5b)
+- [ ] [<code>build(android): don't build rust release for debug android builds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e4b82bdcebfc3c07d2304fd8fac5e5212bc1badc)
+  - <sub>Keywords: <code>bin</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>android: have uniffi convert errors to strings before passing to kotlin</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8fc8fca1ae5e454eb01d73c255029fcfe2387a2b)
+- [ ] [<code>build(android): fix improper native lib location during build</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d531b21d8edfea64a1c2479a906f871d89aca60d)
+- [ ] [<code>android: fix locale related crashes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bd7b17f371b56abeac0a7c1dfb29480ea4800f54)
+- [ ] [<code>android: fix unspecified connection backends</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e45fa8b6229479568e0b0906e8cdeb4511d205a1)
+- [ ] [<code>android: don't format generated files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e833f0d30ba5f70c1419153a835f98da14da1c8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix serialization issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3c69cdd18df6d349c400e5ad766b88169373c03)
+- [ ] [<code>ci: update actions for rewrite</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c5252338939c313a87b4650b1886042645f0901f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>replace underscores with hyphens in crate names</code>](https://github.com/Oppzippy/OpenSCQ30/commit/45db7bf429d4d59cc4548588437a4d9dc178627a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: add warning about v2 to readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3118e022e8d3b0fe425262015869433ff4c157da)
+- [ ] [<code>docs: update roadmap</code>](https://github.com/Oppzippy/OpenSCQ30/commit/48a295fc70c62bcde39281d7b3fadae737702ff1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: fix mistakes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5466421a4c8fb346f669abb6d359163a4eacc577)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
