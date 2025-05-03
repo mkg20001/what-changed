@@ -137,12 +137,14 @@
 - [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 - [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
+- [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
 - [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 - [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
+- [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -407,6 +409,7 @@
 - [ ] [<code>Fix potential null pointer dereference when accessing journalfile (#20226)</code>](https://github.com/netdata/netdata.git/commit/21d99987b04c10e9964caafc7044eb155819791d)
 - [ ] [<code>Clean up prepared statements on thread exit (#20211)</code>](https://github.com/netdata/netdata.git/commit/b641ae720cf962bd6fcade35ad7cc010005b666f)
 - [ ] [<code>Improve MSSQL (Windows.plugin Part II) (#20141)</code>](https://github.com/netdata/netdata.git/commit/4b63e6cdad29f3873e03e2e448084bbdf30b9c58)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-111-nightly.</code>](https://github.com/netdata/netdata.git/commit/37291bccb6347244731e338cd4a086b6a22b947b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
