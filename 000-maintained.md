@@ -1837,6 +1837,15 @@
 - [ ] [<code>docs: update roadmap</code>](https://github.com/Oppzippy/OpenSCQ30/commit/48a295fc70c62bcde39281d7b3fadae737702ff1)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci: fix mistakes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5466421a4c8fb346f669abb6d359163a4eacc577)
+- [ ] [<code>build: fix justfile i18n-macros path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0b7beb1934599c32d7836492fb969a1c70ad1f96)
+- [ ] [<code>build: remove appimage</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1f9f968b162d455b924c7101dffc90179f1a928)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build(windows): update build script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/90a2341023e097331bac47d33df7f8c4e0d98f8c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: update .build-tool-versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ef07a3e57ec12ffe01191f10faa7d879ed1b4753)
+- [ ] [<code>ci: install libxkbcommon-dev for building gui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5d7368275091b067d167d6f0411e67aa31fc66a)
+- [ ] [<code>build: bundle dependencies when necessary by default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cbbdd76f6c70a5390c4b72ced3a76426920c239e)
+- [ ] [<code>test(gui): fix test-cov requiring nightly compiler</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d29e294ebc15a67e26ecf4f2b6a3b4eb8315ac09)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
