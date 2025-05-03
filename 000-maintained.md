@@ -267,6 +267,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add an extra cache key for ci-windows (#2784)</code>](https://github.com/AOMediaCodec/libavif/commit/8551cf2e7766ee4c9329f280c1c7c37648fd5078)
 - [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/ab0396715982c7cda213a9107b31f3ac5dbafd2f)
+- [ ] [<code>Update libyuv.cmd: 4db2af62d (1909)</code>](https://github.com/AOMediaCodec/libavif/commit/ec3fe0c5048c4c88b5d2bd95efdc6ff8cc7d4118)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -410,6 +411,8 @@
 - [ ] [<code>Clean up prepared statements on thread exit (#20211)</code>](https://github.com/netdata/netdata.git/commit/b641ae720cf962bd6fcade35ad7cc010005b666f)
 - [ ] [<code>Improve MSSQL (Windows.plugin Part II) (#20141)</code>](https://github.com/netdata/netdata.git/commit/4b63e6cdad29f3873e03e2e448084bbdf30b9c58)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-111-nightly.</code>](https://github.com/netdata/netdata.git/commit/37291bccb6347244731e338cd4a086b6a22b947b)
+- [ ] [<code>status file 28 (#20229)</code>](https://github.com/netdata/netdata.git/commit/ea1ab16f0b3e4ed69d3830842a379e3f2e0d883b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
