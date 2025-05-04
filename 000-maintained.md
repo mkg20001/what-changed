@@ -413,6 +413,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-111-nightly.</code>](https://github.com/netdata/netdata.git/commit/37291bccb6347244731e338cd4a086b6a22b947b)
 - [ ] [<code>status file 28 (#20229)</code>](https://github.com/netdata/netdata.git/commit/ea1ab16f0b3e4ed69d3830842a379e3f2e0d883b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/37406560395f07b2d5cc9d7ebedb7ff05b3c776f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
