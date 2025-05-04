@@ -138,6 +138,8 @@
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 - [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
 - [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
+- [ ] [<code>chore: Do not store event from push in database</code>](https://github.com/krille-chan/fluffychat/commit/856a53a310c1d6176d4c870039c987513ef4845d)
+- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/a1c080aeb4d4d341f78815a3c247200c0e675165)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -145,6 +147,8 @@
 - [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
 - [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
 - [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
+- [ ] [<code>chore: Do not store event from push in database</code>](https://github.com/krille-chan/fluffychat/commit/856a53a310c1d6176d4c870039c987513ef4845d)
+- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/a1c080aeb4d4d341f78815a3c247200c0e675165)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
