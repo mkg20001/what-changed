@@ -140,6 +140,9 @@
 - [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
 - [ ] [<code>chore: Do not store event from push in database</code>](https://github.com/krille-chan/fluffychat/commit/856a53a310c1d6176d4c870039c987513ef4845d)
 - [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/a1c080aeb4d4d341f78815a3c247200c0e675165)
+- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/363f6f86ae83375dabb724f26837747bddce0885)
+- [ ] [<code>build: Use main branch for matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dbf07dd7a3a98cda1c7738c7ad142afe684acc29)
+- [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -149,6 +152,9 @@
 - [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
 - [ ] [<code>chore: Do not store event from push in database</code>](https://github.com/krille-chan/fluffychat/commit/856a53a310c1d6176d4c870039c987513ef4845d)
 - [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/a1c080aeb4d4d341f78815a3c247200c0e675165)
+- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/363f6f86ae83375dabb724f26837747bddce0885)
+- [ ] [<code>build: Use main branch for matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dbf07dd7a3a98cda1c7738c7ad142afe684acc29)
+- [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -418,6 +424,12 @@
 - [ ] [<code>status file 28 (#20229)</code>](https://github.com/netdata/netdata.git/commit/ea1ab16f0b3e4ed69d3830842a379e3f2e0d883b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.4.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/37406560395f07b2d5cc9d7ebedb7ff05b3c776f)
+- [ ] [<code>Regenerate integrations docs (#20227)</code>](https://github.com/netdata/netdata.git/commit/6af3913e4cb21187ad4324494c84a0d5adb4e4a5)
+- [ ] [<code>docs: rename DynCfg developer doc to avoid title conflict (#20232)</code>](https://github.com/netdata/netdata.git/commit/0fbaae5ffaa3c28e081959a53f2c32409c95764b)
+- [ ] [<code>fix(go.d/couchdb): correct db size charts unit (#20233)</code>](https://github.com/netdata/netdata.git/commit/a99ecf0989438c6f61fb9e588460d4fce5cd5520)
+- [ ] [<code>Revert "fix(go.d/couchdb): correct db size charts unit" (#20234)</code>](https://github.com/netdata/netdata.git/commit/f789f7d18509c216f529e47294a7ebfc3ba39524)
+- [ ] [<code>[ci skip] Minor release v2.5.0.</code>](https://github.com/netdata/netdata.git/commit/35cc14df9a911f41e68d7231ca34874507e8488c)
+  - <sub>Tags: <code>v2.5.0</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -1859,6 +1871,17 @@
 - [ ] [<code>test(gui): fix test-cov requiring nightly compiler</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d29e294ebc15a67e26ecf4f2b6a3b4eb8315ac09)
 - [ ] [<code>android: fix up and refactor device connection screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/308d556e6f29808f74d9e66c4ffbc39efa4549fb)
 - [ ] [<code>android: fix serialization naming inconsistencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1becba45a3d9c0a3107fee1e4830b331b6cffb9a)
+- [ ] [<code>android: improve ui layout of selects and toggles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc8aa2fdff059e63369b2987076df168559912aa)
+- [ ] [<code>android: translate device model in title</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7c1a1108d9a94368cb1f860148a2aa1b9b3cf180)
+- [ ] [<code>android: fix Setting serialization not using camelCase</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d70affd215aaa453701069e4f20aa69c357851c)
+- [ ] [<code>android: add spacing in information setting layout</code>](https://github.com/Oppzippy/OpenSCQ30/commit/93dd3677719da576b3971d41af494d8cdb22c531)
+- [ ] [<code>android: fix equalizer slider issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49009adddaf99dc9714cf84649bbc29300be71f9)
+- [ ] [<code>android: make settings page scrollable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e07df73aca71c1ebc4522b952f7ad9b162c6ae64)
+- [ ] [<code>android: fix missing add/remove button for modifiable selects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b56e174bb4f4535a9a2e0ff6ecca60fe3cb92e53)
+- [ ] [<code>android: translate device model in notification</code>](https://github.com/Oppzippy/OpenSCQ30/commit/363ac13dfb214ff533ac36f3340f916163ebb7ef)
+- [ ] [<code>fix(android): device disconnection not working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1572593f5b8ced5a535d8bfe581b1857ba205f8a)
+- [ ] [<code>build: parallelize formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c15ffb5f986de47b51e449e6ac96c0de684e6ac)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
