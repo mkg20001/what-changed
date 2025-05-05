@@ -1857,6 +1857,8 @@
 - [ ] [<code>ci: install libxkbcommon-dev for building gui</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5d7368275091b067d167d6f0411e67aa31fc66a)
 - [ ] [<code>build: bundle dependencies when necessary by default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cbbdd76f6c70a5390c4b72ced3a76426920c239e)
 - [ ] [<code>test(gui): fix test-cov requiring nightly compiler</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d29e294ebc15a67e26ecf4f2b6a3b4eb8315ac09)
+- [ ] [<code>android: fix up and refactor device connection screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/308d556e6f29808f74d9e66c4ffbc39efa4549fb)
+- [ ] [<code>android: fix serialization naming inconsistencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1becba45a3d9c0a3107fee1e4830b331b6cffb9a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
