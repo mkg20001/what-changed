@@ -143,6 +143,8 @@
 - [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/363f6f86ae83375dabb724f26837747bddce0885)
 - [ ] [<code>build: Use main branch for matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dbf07dd7a3a98cda1c7738c7ad142afe684acc29)
 - [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
+- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/5c0bf025af224e504a31ee598202955c50a502aa)
+- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -155,6 +157,8 @@
 - [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/363f6f86ae83375dabb724f26837747bddce0885)
 - [ ] [<code>build: Use main branch for matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dbf07dd7a3a98cda1c7738c7ad142afe684acc29)
 - [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
+- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/5c0bf025af224e504a31ee598202955c50a502aa)
+- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -430,6 +434,11 @@
 - [ ] [<code>Revert "fix(go.d/couchdb): correct db size charts unit" (#20234)</code>](https://github.com/netdata/netdata.git/commit/f789f7d18509c216f529e47294a7ebfc3ba39524)
 - [ ] [<code>[ci skip] Minor release v2.5.0.</code>](https://github.com/netdata/netdata.git/commit/35cc14df9a911f41e68d7231ca34874507e8488c)
   - <sub>Tags: <code>v2.5.0</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-1-nightly.</code>](https://github.com/netdata/netdata.git/commit/531ad0f7048ecdecac4a5847f081e8402000821c)
+- [ ] [<code>Revert "Revert "fix(go.d/couchdb): correct db size charts unit"" (#20235)</code>](https://github.com/netdata/netdata.git/commit/fc7efb9c3f4e482f2defb310e1aaf8bc4989e78d)
+- [ ] [<code>Make all threads joinable and join on agent shutdown (#20228)</code>](https://github.com/netdata/netdata.git/commit/cb0cc8361bd66592e8e0370fdd082546ea158195)
+- [ ] [<code>Let the user override the default stack size (#20236)</code>](https://github.com/netdata/netdata.git/commit/46b44f68e3f3d2aa3e61fb9ad84017910bf44592)
+- [ ] [<code>Fix build issue on old distros (#20243)</code>](https://github.com/netdata/netdata.git/commit/801cdec808b5f65488e66cd696bc7d7b412592d5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -1154,7 +1163,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.28.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.28.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.29.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.29.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
