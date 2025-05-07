@@ -10,7 +10,7 @@
 
 > Dropped common-licenses - no appropriate URL found OrderedDict({'attr_path': 'common-licenses', 'home_url': 'https://tracker.debian.org/pkg/base-files', 'src_url': 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz', 'urls': ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.2/dbeaver-ce-25.0.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.2/dbeaver-ce-25.0.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.4/dbeaver-ce-25.0.4-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.4/dbeaver-ce-25.0.4-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
@@ -282,6 +282,7 @@
 - [ ] [<code>Add an extra cache key for ci-windows (#2784)</code>](https://github.com/AOMediaCodec/libavif/commit/8551cf2e7766ee4c9329f280c1c7c37648fd5078)
 - [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/ab0396715982c7cda213a9107b31f3ac5dbafd2f)
 - [ ] [<code>Update libyuv.cmd: 4db2af62d (1909)</code>](https://github.com/AOMediaCodec/libavif/commit/ec3fe0c5048c4c88b5d2bd95efdc6ff8cc7d4118)
+- [ ] [<code>Change libargparse log to not include AVIF_LIBARGPARSE</code>](https://github.com/AOMediaCodec/libavif/commit/530ab45c2fe60d184369e9148aa4321470b1c025)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -442,6 +443,11 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-6-nightly.</code>](https://github.com/netdata/netdata.git/commit/955c70bb2f003b31880bb6c05feae60a31b40add)
 - [ ] [<code>Session claim id in docker (#20240)</code>](https://github.com/netdata/netdata.git/commit/f387a29cacc0d7ccf2ddc38be518a070a60d2fad)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(go.d/sd/snmp): fix snmpv3 credentials (#20247)</code>](https://github.com/netdata/netdata.git/commit/a54b3e03c9d1fb4b964bd06a2c6bb8afabfea86f)
+- [ ] [<code>fix(go.d/snmp): use ifDescr for interface name if ifName is empty (#20248)</code>](https://github.com/netdata/netdata.git/commit/abf36d91522c949b79bda129b9de97af3f6101d2)
+- [ ] [<code>fix(go.d/snmp): use 32bit counters if 64 aren't available (#20249)</code>](https://github.com/netdata/netdata.git/commit/ec1daedab54c78e55d1b03a1a05a95956de3794d)
+- [ ] [<code>Update Netdata README (#20251)</code>](https://github.com/netdata/netdata.git/commit/b2c31a2ffffda74a462d61c242c8626449b3d97c)
+- [ ] [<code>docs: fix license link and remove GH alerts syntax from FAQ (#20252)</code>](https://github.com/netdata/netdata.git/commit/eb4b3f3d32ffcfdfe168db87d9ed1c5415f2c913)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
