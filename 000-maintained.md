@@ -439,6 +439,9 @@
 - [ ] [<code>Make all threads joinable and join on agent shutdown (#20228)</code>](https://github.com/netdata/netdata.git/commit/cb0cc8361bd66592e8e0370fdd082546ea158195)
 - [ ] [<code>Let the user override the default stack size (#20236)</code>](https://github.com/netdata/netdata.git/commit/46b44f68e3f3d2aa3e61fb9ad84017910bf44592)
 - [ ] [<code>Fix build issue on old distros (#20243)</code>](https://github.com/netdata/netdata.git/commit/801cdec808b5f65488e66cd696bc7d7b412592d5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-6-nightly.</code>](https://github.com/netdata/netdata.git/commit/955c70bb2f003b31880bb6c05feae60a31b40add)
+- [ ] [<code>Session claim id in docker (#20240)</code>](https://github.com/netdata/netdata.git/commit/f387a29cacc0d7ccf2ddc38be518a070a60d2fad)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -1155,13 +1158,11 @@
 - [ ] [<code>generate: Don't run during `netplan try`</code>](https://github.com/canonical/netplan/commit/f9e35f66938695581098e91030be1ec71c36b865)
 - [ ] [<code>cli: Fix logging merged config</code>](https://github.com/canonical/netplan/commit/a3081d506e3c502dd387a61ed059583de9fd9656)
 - [ ] [<code>cli:configmanager: rename _copy_tree() to copy_tree()</code>](https://github.com/canonical/netplan/commit/84302d7606d02812b6f4aae26c93cd23a20fef4b)
-> Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250213.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped odoo15 - no appropriate URL found OrderedDict({'attr_path': 'odoo15', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip', 'urls': ['https://nightly.odoo.com/15.0/nightly/src/odoo_15.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
-> Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20241010.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.29.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.29.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -1891,6 +1892,16 @@
 - [ ] [<code>fix(android): device disconnection not working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1572593f5b8ced5a535d8bfe581b1857ba205f8a)
 - [ ] [<code>build: parallelize formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c15ffb5f986de47b51e449e6ac96c0de684e6ac)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: watch_for_changes not notifying on custom eq profile creation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/abea62e085b285a5774c8f9bfcc9775422d04b7c)
+- [ ] [<code>refactor(android): merge equalizer related files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/47056ac0b6400f7a3ae40bed75b620757f590a9d)
+- [ ] [<code>refactor(android): remove unused import/export code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f2a5f18f3b2dad23f8b380605a5f4cfc68614cc6)
+- [ ] [<code>android: add beginnings of quick preset screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce4d7b7473d27487f0c559fdec0336f3f5d7501a)
+- [ ] [<code>refactor(android): move DeviceSettingsViewModel lower in tree</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b87b43dd839a41524b25f3ebc815dc7f0e256f33)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9efecc340802b0f65284dda76baa3eacaf9f3a1)
+- [ ] [<code>fix(android): screen selection icons missing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e3a5fc4f108873cbebb3e46e75646e60a66a3990)
+- [ ] [<code>android: implement quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3979e35fef485a187de0584f60b4d62ca89388d1)
+- [ ] [<code>fix(android): app bar title should show category name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3eede92f53e43145088cf67f75cddd5ba50b1890)
+- [ ] [<code>fix(android): back button on edit quick preset page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3e3cf257a96aa61d84c3e08c34b9928b7195a51)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
