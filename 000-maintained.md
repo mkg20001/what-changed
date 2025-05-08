@@ -165,6 +165,8 @@
 - [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
 - [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/5c0bf025af224e504a31ee598202955c50a502aa)
 - [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
+- [ ] [<code>chore: Display count of invited in members page</code>](https://github.com/krille-chan/fluffychat/commit/a1b198bfbc950ee43c78530e67c3d731054ea561)
+- [ ] [<code>chore: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9a5bb2a0dbab4d25f6ce7f3583121f5dfeb1437e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -179,6 +181,8 @@
 - [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
 - [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/5c0bf025af224e504a31ee598202955c50a502aa)
 - [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
+- [ ] [<code>chore: Display count of invited in members page</code>](https://github.com/krille-chan/fluffychat/commit/a1b198bfbc950ee43c78530e67c3d731054ea561)
+- [ ] [<code>chore: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9a5bb2a0dbab4d25f6ce7f3583121f5dfeb1437e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3584,6 +3588,7 @@
 - [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/ab0396715982c7cda213a9107b31f3ac5dbafd2f)
 - [ ] [<code>Update libyuv.cmd: 4db2af62d (1909)</code>](https://github.com/AOMediaCodec/libavif/commit/ec3fe0c5048c4c88b5d2bd95efdc6ff8cc7d4118)
 - [ ] [<code>Change libargparse log to not include AVIF_LIBARGPARSE</code>](https://github.com/AOMediaCodec/libavif/commit/530ab45c2fe60d184369e9148aa4321470b1c025)
+- [ ] [<code>Fix avifImageRGBToYUV for high bit depth gray</code>](https://github.com/AOMediaCodec/libavif/commit/36938f73891a330585710611850312616c1509e6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3893,6 +3898,12 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-13-nightly.</code>](https://github.com/netdata/netdata.git/commit/ef4c8d9fbc77f69ca7efb51692d4f53732bb7285)
 - [ ] [<code>fix obsolete chart cleanup to properly handle vnodes (#20254)</code>](https://github.com/netdata/netdata.git/commit/07d801dd0a8b69bb2d71a1d66cdd32ac5cdabff8)
 - [ ] [<code>chore(go.d/snmp): make enable_profiles configurable (needed for dev) (#20255)</code>](https://github.com/netdata/netdata.git/commit/0e228626084a08dd6766a86dce45e7535e976c03)
+- [ ] [<code>fix(go.d/sd/snmp): fix snmnpv3 again (#20256)</code>](https://github.com/netdata/netdata.git/commit/9562586917d049b060b86003568d0212992125db)
+- [ ] [<code>Clearify the path of `plugins.d/go.d.plugin` in docs (#20258)</code>](https://github.com/netdata/netdata.git/commit/f9794d06bfde59b63980fce42a45756ad4c05ee9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update documentation for native DEB/RPM packages (#20257)</code>](https://github.com/netdata/netdata.git/commit/bd64b5d599542afb100736ead4558fa6c8708526)
+- [ ] [<code>docs: reword go.d Troubleshooting section for clarity (#20259)</code>](https://github.com/netdata/netdata.git/commit/cf5cd7c25753bd6932bc32a3e665133d5cf620b4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5616,6 +5627,7 @@
 - [ ] [<code>uci: add cursor() flags argument</code>](https://github.com/jow-/ucode/commit/aafde95f1ecf6081c721f1c4e7f343c3982fa055)
 - [ ] [<code>Revert "WIP: lib: support map() over objects"</code>](https://github.com/jow-/ucode/commit/d8cebc5a6bfd2c911aabfe230b9b5211fc6b042d)
 - [ ] [<code>zlib: incorporate latest PR changes</code>](https://github.com/jow-/ucode/commit/2599cf80736bdc3d766ac6803aba0cebc9f65a38)
+- [ ] [<code>socker: let sock.peercred() clear error on success</code>](https://github.com/jow-/ucode/commit/830f316a7e49a7b43623f10fb15c059ad54c6106)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
