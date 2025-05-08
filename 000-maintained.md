@@ -451,6 +451,15 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/37d328b5dcbfc71135ee00e12da9ea31400cb5e4)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Add support for .OVA import</code>](https://github.com/lxc/incus/commit/c8c7a3edf1beb1f8de59a5481c4fdbded67ec382)
+- [ ] [<code>incus: Add add aliases to incus commands</code>](https://github.com/lxc/incus/commit/fd61b7228af2bcccb21d6a2784fad2f0b0c59407)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add create aliases to add commands</code>](https://github.com/lxc/incus/commit/a121484b400a0a97e114dc92dd3a071cea794e62)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add delete and rm aliases to remove commands</code>](https://github.com/lxc/incus/commit/5b6f589a934f10adb6381dac90c2ca2eb8aa0353)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add remove aliases to delete commands</code>](https://github.com/lxc/incus/commit/ca9a07f45acfd746eba756c7360ce4b3e5cb992e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3450,6 +3459,15 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/37d328b5dcbfc71135ee00e12da9ea31400cb5e4)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Add support for .OVA import</code>](https://github.com/lxc/incus/commit/c8c7a3edf1beb1f8de59a5481c4fdbded67ec382)
+- [ ] [<code>incus: Add add aliases to incus commands</code>](https://github.com/lxc/incus/commit/fd61b7228af2bcccb21d6a2784fad2f0b0c59407)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add create aliases to add commands</code>](https://github.com/lxc/incus/commit/a121484b400a0a97e114dc92dd3a071cea794e62)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add delete and rm aliases to remove commands</code>](https://github.com/lxc/incus/commit/5b6f589a934f10adb6381dac90c2ca2eb8aa0353)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add remove aliases to delete commands</code>](https://github.com/lxc/incus/commit/ca9a07f45acfd746eba756c7360ce4b3e5cb992e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -3872,6 +3890,9 @@
 - [ ] [<code>fix(go.d/snmp): use 32bit counters if 64 aren't available (#20249)</code>](https://github.com/netdata/netdata.git/commit/ec1daedab54c78e55d1b03a1a05a95956de3794d)
 - [ ] [<code>Update Netdata README (#20251)</code>](https://github.com/netdata/netdata.git/commit/b2c31a2ffffda74a462d61c242c8626449b3d97c)
 - [ ] [<code>docs: fix license link and remove GH alerts syntax from FAQ (#20252)</code>](https://github.com/netdata/netdata.git/commit/eb4b3f3d32ffcfdfe168db87d9ed1c5415f2c913)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-13-nightly.</code>](https://github.com/netdata/netdata.git/commit/ef4c8d9fbc77f69ca7efb51692d4f53732bb7285)
+- [ ] [<code>fix obsolete chart cleanup to properly handle vnodes (#20254)</code>](https://github.com/netdata/netdata.git/commit/07d801dd0a8b69bb2d71a1d66cdd32ac5cdabff8)
+- [ ] [<code>chore(go.d/snmp): make enable_profiles configurable (needed for dev) (#20255)</code>](https://github.com/netdata/netdata.git/commit/0e228626084a08dd6766a86dce45e7535e976c03)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5332,6 +5353,13 @@
 - [ ] [<code>android: implement quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3979e35fef485a187de0584f60b4d62ca89388d1)
 - [ ] [<code>fix(android): app bar title should show category name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3eede92f53e43145088cf67f75cddd5ba50b1890)
 - [ ] [<code>fix(android): back button on edit quick preset page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3e3cf257a96aa61d84c3e08c34b9928b7195a51)
+- [ ] [<code>refactor(andorid): convert getter function to val with getter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d383bdd80abf80437477e430bdd6949bdd822c47)
+- [ ] [<code>refactor(android): remove DeviceSettingsViewModel and hoist state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31c836a438dcfcc0a61400da0b5de87f12e858a4)
+- [ ] [<code>fix(android): close create quick preset dialog on create clicked</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53445aeab484b4a3f983be3cae9b2501a6fe6893)
+- [ ] [<code>fix(android): refresh quick preset list on change</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b9b7ccae6e2234aa7e5408aa66e697dd031bc89)
+- [ ] [<code>android: remove broken preset active indication</code>](https://github.com/Oppzippy/OpenSCQ30/commit/977b3abdab48984ee4fdfaabfb5d324b54047843)
+- [ ] [<code>refactor(lib): remove unnecessary ORDER BY</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d05e5eccf6378118f77707e5d9e0be80db8041ba)
+- [ ] [<code>fix(android): quick presets showing in random order</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3a8474a8852e9ad7e5bf6c901b46b1fcf478acd)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
