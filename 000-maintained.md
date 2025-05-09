@@ -3907,6 +3907,8 @@
 - [ ] [<code>Update documentation for native DEB/RPM packages (#20257)</code>](https://github.com/netdata/netdata.git/commit/bd64b5d599542afb100736ead4558fa6c8708526)
 - [ ] [<code>docs: reword go.d Troubleshooting section for clarity (#20259)</code>](https://github.com/netdata/netdata.git/commit/cf5cd7c25753bd6932bc32a3e665133d5cf620b4)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-20-nightly.</code>](https://github.com/netdata/netdata.git/commit/89e869b5ad9d24c564d8ba800eb0b2698f227881)
+- [ ] [<code>fix(go.d/mysql): fix MariaDB User CPU Time (#20262)</code>](https://github.com/netdata/netdata.git/commit/aef0d226ff0e7ba6dc3b3b4d9b6b9bb8804ef69e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5442,6 +5444,12 @@
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
 - [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
 - [ ] [<code>Fix for empty user default tab after creation (#628)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9fc005032c5b578fe5f360844ba5db69d870fb78)
+- [ ] [<code>Bump vite from 5.3.4 to 5.4.9 (#634)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3de43324777884e14e5b7094fad896484ea6937d)
+- [ ] [<code>Bump micromatch from 4.0.5 to 4.0.8 in the npm_and_yarn group (#610)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/96f549fe4207dc3f7b1709c7a5f920649df6460a)
+- [ ] [<code>Bump @testing-library/dom from 10.0.0 to 10.4.0 (#585)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/307793f000cdab90540776143c0633f5f2be1830)
+- [ ] [<code>Bump eslint-plugin-unused-imports from 3.2.0 to 4.1.4 (#620)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/590f673167e7bc5102e04e3d6b6da02530881c2d)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.3 to 4.6.8 (#626)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/669c1f307939950b52e5d1589acbaf93e88173c1)
+- [ ] [<code>Bump typescript-eslint from 7.16.1 to 8.11.0 (#638)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2524848dae6d6eb0e6d3556c0a9d75984cf434ac)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
