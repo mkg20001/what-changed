@@ -3589,6 +3589,7 @@
 - [ ] [<code>Update libyuv.cmd: 4db2af62d (1909)</code>](https://github.com/AOMediaCodec/libavif/commit/ec3fe0c5048c4c88b5d2bd95efdc6ff8cc7d4118)
 - [ ] [<code>Change libargparse log to not include AVIF_LIBARGPARSE</code>](https://github.com/AOMediaCodec/libavif/commit/530ab45c2fe60d184369e9148aa4321470b1c025)
 - [ ] [<code>Fix avifImageRGBToYUV for high bit depth gray</code>](https://github.com/AOMediaCodec/libavif/commit/36938f73891a330585710611850312616c1509e6)
+- [ ] [<code>Update and fix CHANGELOG.md for the v1.3.0 release</code>](https://github.com/AOMediaCodec/libavif/commit/ecc64392b64ae7027a80410d6868278727a8c1e7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3687,6 +3688,8 @@
 - [ ] [<code>re-add onexec for apparmor, move label assumption until after container has been setup for attach</code>](https://github.com/lxc/lxc/commit/50dee37cfe3201ed51f477356f81941c960a5511)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>apparmor test: add an overlay container start</code>](https://github.com/lxc/lxc/commit/7b9ee8967b58c99a4d2545758deaf4cf20a62dc0)
+- [ ] [<code>meson.build: remove quirk for Ubuntu 14.04 libcap-dev</code>](https://github.com/lxc/lxc/commit/ea92e49bd06e4193b92cf64f280975f531ebbe7a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
