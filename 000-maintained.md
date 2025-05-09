@@ -167,6 +167,10 @@
 - [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
 - [ ] [<code>chore: Display count of invited in members page</code>](https://github.com/krille-chan/fluffychat/commit/a1b198bfbc950ee43c78530e67c3d731054ea561)
 - [ ] [<code>chore: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9a5bb2a0dbab4d25f6ce7f3583121f5dfeb1437e)
+- [ ] [<code>build: Update matrix dart sdk to 0.40.0</code>](https://github.com/krille-chan/fluffychat/commit/8664f21ad8e0acd0dece308eab84c111b5c0eaa4)
+- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/c921e0fbc3d8cb433ab42252830fc22b4f893d93)
+- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/cf1dc0c37a65ca8a2f3d5887289c51d6759183d1)
+- [ ] [<code>fix: Crash when opening settings in column mode from popup menu</code>](https://github.com/krille-chan/fluffychat/commit/24e25c1d9b28b6eadd3f3d0d7eca918d334f29eb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -183,6 +187,10 @@
 - [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
 - [ ] [<code>chore: Display count of invited in members page</code>](https://github.com/krille-chan/fluffychat/commit/a1b198bfbc950ee43c78530e67c3d731054ea561)
 - [ ] [<code>chore: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9a5bb2a0dbab4d25f6ce7f3583121f5dfeb1437e)
+- [ ] [<code>build: Update matrix dart sdk to 0.40.0</code>](https://github.com/krille-chan/fluffychat/commit/8664f21ad8e0acd0dece308eab84c111b5c0eaa4)
+- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/c921e0fbc3d8cb433ab42252830fc22b4f893d93)
+- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/cf1dc0c37a65ca8a2f3d5887289c51d6759183d1)
+- [ ] [<code>fix: Crash when opening settings in column mode from popup menu</code>](https://github.com/krille-chan/fluffychat/commit/24e25c1d9b28b6eadd3f3d0d7eca918d334f29eb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3590,6 +3598,11 @@
 - [ ] [<code>Change libargparse log to not include AVIF_LIBARGPARSE</code>](https://github.com/AOMediaCodec/libavif/commit/530ab45c2fe60d184369e9148aa4321470b1c025)
 - [ ] [<code>Fix avifImageRGBToYUV for high bit depth gray</code>](https://github.com/AOMediaCodec/libavif/commit/36938f73891a330585710611850312616c1509e6)
 - [ ] [<code>Update and fix CHANGELOG.md for the v1.3.0 release</code>](https://github.com/AOMediaCodec/libavif/commit/ecc64392b64ae7027a80410d6868278727a8c1e7)
+- [ ] [<code>Add avifgainmaputil to linux,mac release artifacts</code>](https://github.com/AOMediaCodec/libavif/commit/0f237b5d3fa1c20ae6c858f64b6332af3572caf6)
+- [ ] [<code>v1.3.0</code>](https://github.com/AOMediaCodec/libavif/commit/1aadfad932c98c069a1204261b1856f81f3bc199)
+  - <sub>Tags: <code>v1.3.0</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/da9d7278c2963e2ef4c05d60cf0791792e8df382)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3690,6 +3703,10 @@
 - [ ] [<code>apparmor test: add an overlay container start</code>](https://github.com/lxc/lxc/commit/7b9ee8967b58c99a4d2545758deaf4cf20a62dc0)
 - [ ] [<code>meson.build: remove quirk for Ubuntu 14.04 libcap-dev</code>](https://github.com/lxc/lxc/commit/ea92e49bd06e4193b92cf64f280975f531ebbe7a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>src/tests/lxc-test-apparmor-generated: enable test</code>](https://github.com/lxc/lxc/commit/68e57809ef37d701a1b0bf55df0950787e56c68b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>src/tests/lxc-test-apparmor-mount: prevent fail on cleanup path</code>](https://github.com/lxc/lxc/commit/a13f86b07d40f406632f5c4da427e3378b768e5e)
+- [ ] [<code>src/tests/lxc-test-unpriv: prevent fail on cleanup path</code>](https://github.com/lxc/lxc/commit/a9b343f4805642a76d060608fa6b6121c2140dfd)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3909,6 +3926,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-20-nightly.</code>](https://github.com/netdata/netdata.git/commit/89e869b5ad9d24c564d8ba800eb0b2698f227881)
 - [ ] [<code>fix(go.d/mysql): fix MariaDB User CPU Time (#20262)</code>](https://github.com/netdata/netdata.git/commit/aef0d226ff0e7ba6dc3b3b4d9b6b9bb8804ef69e)
+- [ ] [<code>Minor fixes (#20263)</code>](https://github.com/netdata/netdata.git/commit/f59e75c9e7ab69be89910a5775b991bccae5c3ed)
+- [ ] [<code>Update Netdata README with improved structure (#20265)</code>](https://github.com/netdata/netdata.git/commit/5e6b8b26a28e1e24dfc21f9ed8ffe7dc5fcbfd8a)
+- [ ] [<code>Schedule journal file indexing after database file rotation (#20264)</code>](https://github.com/netdata/netdata.git/commit/5af2aba6d1523ca1db34ffa31d5080215310e2b9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5395,6 +5415,40 @@
 
 #### [qlog](https://github.com/foldynl/QLog.git): [refs/tags/v0.43.1 → HEAD](https://github.com/foldynl/QLog.git/compare/refs/tags/v0.43.1...HEAD)
 
+- [ ] [<code>MembershipQE: Added MemberID to the query result</code>](https://github.com/foldynl/QLog.git/commit/e08e22228c26c373aeb2f7038b9927a99ef111a7)
+- [ ] [<code>Activity Manager: Added SKCC, UKSMG and FISTS as Dynamic Fields</code>](https://github.com/foldynl/QLog.git/commit/77fb4c13e7c7c31cdd8ea23cab58c1eb7f70bb53)
+- [ ] [<code>Fixed #628 - FISTS, SKCC, and UKSMG can be auto-filled from MembershipQE</code>](https://github.com/foldynl/QLog.git/commit/6d8f3179b759b5a786ffe688c88954f1e1338362)
+- [ ] [<code>QSO Detail: Added FISTS, FISTS CC, SKCC, and UKSMG</code>](https://github.com/foldynl/QLog.git/commit/1f7bc9daa464893ee46b06723e648fd76248c60e)
+- [ ] [<code>Activity Manager: FISTS CC as Dynamic Field</code>](https://github.com/foldynl/QLog.git/commit/48b15bff90f257ac1af120a10e9c0869b67942d1)
+- [ ] [<code>DXC: Improved the Mode Detection based on dxc.n1rbd.radio cluster syntax</code>](https://github.com/foldynl/QLog.git/commit/10910034f0a7df3841690a1cb0d7bcc5f3768249)
+- [ ] [<code>MetaInfo: Update QLog.metainfo.xml</code>](https://github.com/foldynl/QLog.git/commit/4453fa578624f24217a305197b3da8d8909cbac0)
+- [ ] [<code>Fixed #644 - Rotator Widget: Needle for QSO, requested azimuth and Antenna</code>](https://github.com/foldynl/QLog.git/commit/e0d3b8db654a69260134488f8ad16dabac83d0dc)
+- [ ] [<code>Rotator: Added dead-band around the target azimuth</code>](https://github.com/foldynl/QLog.git/commit/b83de8530ce9c16de80a4cb0042f042ecc1142ce)
+- [ ] [<code>Rotator: Two size needles - antenna and the rest</code>](https://github.com/foldynl/QLog.git/commit/07e945ab8035cd4d1e3a90822adeebbe1476c51a)
+- [ ] [<code>Rotator: minor code beautification</code>](https://github.com/foldynl/QLog.git/commit/a5d844ffc639b9184c39091a77405e24c5595b7b)
+- [ ] [<code>Rotator: RequestedAz Needle is displayed only if requested</code>](https://github.com/foldynl/QLog.git/commit/801ba6fc8688f610063185de071ab4f24827202b)
+- [ ] [<code>Rotator: The change of the required Az is displayed immediately on the map</code>](https://github.com/foldynl/QLog.git/commit/af82690af69b505cd7fa79f4cf6aa3a6f20b59fb)
+- [ ] [<code>Rotator: Variable renamed from azimuth to antennaAzimuth</code>](https://github.com/foldynl/QLog.git/commit/37a72a3b6516dea151d6a604a5e6712e2d180698)
+- [ ] [<code>Rotator: modified showing/hiding requestedAz</code>](https://github.com/foldynl/QLog.git/commit/9a33cc34b5b9657aad30eae5d396abf48828ba06)
+- [ ] [<code>Adds grayline and short path to qso detail dialog map</code>](https://github.com/foldynl/QLog.git/commit/69abcae31f53bf9b3aad037ef3b69b9a47b181e7)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/20183e8b7ecaa36905dab412ebf17c1e0ea9dde1)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/a06efc0281beacd1dd2137660d0c5e2912e5c8e0)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/1f2897ff7bf1b3ccaf116582dd7bd83840785aa9)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/c2cbf643ccf5ad4dea8657faf6e591f274c1dead)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/20d65d5cff93cd07838bebfb8ec865e79efefbb8)
+- [ ] [<code>Bandmap: Reducing the space required in the bandmap</code>](https://github.com/foldynl/QLog.git/commit/df188f3e7c80d61856a3621e71d4621cc322516d)
+- [ ] [<code>Update Chinese translation to 0.43</code>](https://github.com/foldynl/QLog.git/commit/ea9b3a4c3636ae745cd49d3378be4647aeed311e)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/f3723fb76913bf65e387f7424d9b06ded6bc367c)
+- [ ] [<code>Regenerated transactions</code>](https://github.com/foldynl/QLog.git/commit/d98c31c53b5b9bb0664e9db54e261f2e17b5d8b1)
+- [ ] [<code>Fixing #663 - cw_macros must contain RigID</code>](https://github.com/foldynl/QLog.git/commit/30e2879d7e96fb7ad3a2a14acaf337dda680174d)
+- [ ] [<code>Fixed #663 - Set Key Speed syncs Keyer and Macros speed</code>](https://github.com/foldynl/QLog.git/commit/872a818756cfcde95a9024a01c852be6085878c6)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/045df3da48a48948f6ed801962d763e856d294c2)
+- [ ] [<code>HamLib Fix for #660</code>](https://github.com/foldynl/QLog.git/commit/74c268e583f6bdf2e08c36c26ce01f243d59a031)
+- [ ] [<code>Fixed #660 - Hamlibdrv: Modes are determined after connection</code>](https://github.com/foldynl/QLog.git/commit/febe7a314941c2c066d73997d5290d72ad47841c)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/06da6ad599d4cffc9c490abbd77eca241449232e)
+- [ ] [<code>Updated Translations</code>](https://github.com/foldynl/QLog.git/commit/bcfac11c7f7e217e6ea3b2a0e31f372104d0906e)
+- [ ] [<code>Preparation for release 0.44.0</code>](https://github.com/foldynl/QLog.git/commit/f4ca2be169ac150d023bc4fc73e3dffdbcdc96f8)
+  - <sub>Tags: <code>v0.44.0</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
@@ -5450,6 +5504,16 @@
 - [ ] [<code>Bump eslint-plugin-unused-imports from 3.2.0 to 4.1.4 (#620)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/590f673167e7bc5102e04e3d6b6da02530881c2d)
 - [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.3 to 4.6.8 (#626)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/669c1f307939950b52e5d1589acbaf93e88173c1)
 - [ ] [<code>Bump typescript-eslint from 7.16.1 to 8.11.0 (#638)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2524848dae6d6eb0e6d3556c0a9d75984cf434ac)
+- [ ] [<code>Bump the npm_and_yarn group with 3 updates (#656)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ad876bb7900b8a8e331273905e04507cf88951bb)
+- [ ] [<code>Add identifier when login with password (#601)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/61c32fb473d9b0b0c52c86cc1ba6561659039d81)
+- [ ] [<code>Add content write permission to ghpage workflow</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1b8b7022702a9a97c3c68acd210e861d874f1185)
+- [ ] [<code>Add content read permission to build-test workflow</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4d1a9cc14731feda14a1a3c907d0b0baeef8e20a)
+- [ ] [<code>Fixed detection of missingFields in verifyCsv function of CSV import (#650)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1e8b4cc885789254305e646b4cab68123af98feb)
+  - <sub>Tags: <code>0.10.4</code></sub>
+- [ ] [<code>Update fetch URL to use BASE_URL for config.json (#652)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b2a3fb0f8768943aec4f6a198e77309069afcd1c)
+- [ ] [<code>Add ability to toggle whether to show locked users (#573)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3085b9ffa0e029e95a856193dc843037809f691a)
+- [ ] [<code>Federation page improvements (#583)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d5c10b6e0208f27b9a3fec82b331dda95c1f5a14)
+- [ ] [<code>Upgrade to react-admin v5 (#633)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e8e28b5df1d8b1338570263a0d13b31d637324e1)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
