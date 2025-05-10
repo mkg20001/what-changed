@@ -171,6 +171,13 @@
 - [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/c921e0fbc3d8cb433ab42252830fc22b4f893d93)
 - [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/cf1dc0c37a65ca8a2f3d5887289c51d6759183d1)
 - [ ] [<code>fix: Crash when opening settings in column mode from popup menu</code>](https://github.com/krille-chan/fluffychat/commit/24e25c1d9b28b6eadd3f3d0d7eca918d334f29eb)
+- [ ] [<code>build: Changelog for 1.26.1</code>](https://github.com/krille-chan/fluffychat/commit/87572be6f78ee256fde715e0f5d22ca0c9f2b26b)
+  - <sub>Tags: <code>rc1.26.1-1</code></sub>
+- [ ] [<code>build: Remove arch from release ios shell script</code>](https://github.com/krille-chan/fluffychat/commit/6c332c1d83bd8a3293905144521e42641f79d927)
+  - <sub>Tags: <code>v1.26.1</code></sub>
+- [ ] [<code>chore: Display loading dialog when preparing voice message</code>](https://github.com/krille-chan/fluffychat/commit/dc263094898f51a486611529c87b4a3287ba1047)
+- [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/276003aeddb94e341a9dd58c94a872f1194acf38)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -191,6 +198,13 @@
 - [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/c921e0fbc3d8cb433ab42252830fc22b4f893d93)
 - [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/cf1dc0c37a65ca8a2f3d5887289c51d6759183d1)
 - [ ] [<code>fix: Crash when opening settings in column mode from popup menu</code>](https://github.com/krille-chan/fluffychat/commit/24e25c1d9b28b6eadd3f3d0d7eca918d334f29eb)
+- [ ] [<code>build: Changelog for 1.26.1</code>](https://github.com/krille-chan/fluffychat/commit/87572be6f78ee256fde715e0f5d22ca0c9f2b26b)
+  - <sub>Tags: <code>rc1.26.1-1</code></sub>
+- [ ] [<code>build: Remove arch from release ios shell script</code>](https://github.com/krille-chan/fluffychat/commit/6c332c1d83bd8a3293905144521e42641f79d927)
+  - <sub>Tags: <code>v1.26.1</code></sub>
+- [ ] [<code>chore: Display loading dialog when preparing voice message</code>](https://github.com/krille-chan/fluffychat/commit/dc263094898f51a486611529c87b4a3287ba1047)
+- [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/276003aeddb94e341a9dd58c94a872f1194acf38)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -472,6 +486,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Add remove aliases to delete commands</code>](https://github.com/lxc/incus/commit/ca9a07f45acfd746eba756c7360ce4b3e5cb992e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Skip /dev/incus on Windows</code>](https://github.com/lxc/incus/commit/a0984bcabb0c9cf052f2dd40fe908f086df348f9)
+- [ ] [<code>incusd/instance/qemu: Don't block on Windows agent</code>](https://github.com/lxc/incus/commit/6b57065911431c842380beb58f037a1107e3ce6e)
+- [ ] [<code>internal/util: Add Incus OS detection</code>](https://github.com/lxc/incus/commit/b237a7a0f0ec493564c77a83df3e161794eec492)
+- [ ] [<code>incusd: Use IsIncusOS</code>](https://github.com/lxc/incus/commit/6860d9196002219c187fab1793f438654428fc8a)
+- [ ] [<code>incusd/metrics: Include OS metrics on Incus OS</code>](https://github.com/lxc/incus/commit/29a3b2f697e2b4bad7f1cbd47330347768afb057)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3480,6 +3499,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus: Add remove aliases to delete commands</code>](https://github.com/lxc/incus/commit/ca9a07f45acfd746eba756c7360ce4b3e5cb992e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Skip /dev/incus on Windows</code>](https://github.com/lxc/incus/commit/a0984bcabb0c9cf052f2dd40fe908f086df348f9)
+- [ ] [<code>incusd/instance/qemu: Don't block on Windows agent</code>](https://github.com/lxc/incus/commit/6b57065911431c842380beb58f037a1107e3ce6e)
+- [ ] [<code>internal/util: Add Incus OS detection</code>](https://github.com/lxc/incus/commit/b237a7a0f0ec493564c77a83df3e161794eec492)
+- [ ] [<code>incusd: Use IsIncusOS</code>](https://github.com/lxc/incus/commit/6860d9196002219c187fab1793f438654428fc8a)
+- [ ] [<code>incusd/metrics: Include OS metrics on Incus OS</code>](https://github.com/lxc/incus/commit/29a3b2f697e2b4bad7f1cbd47330347768afb057)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -3707,6 +3731,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>src/tests/lxc-test-apparmor-mount: prevent fail on cleanup path</code>](https://github.com/lxc/lxc/commit/a13f86b07d40f406632f5c4da427e3378b768e5e)
 - [ ] [<code>src/tests/lxc-test-unpriv: prevent fail on cleanup path</code>](https://github.com/lxc/lxc/commit/a9b343f4805642a76d060608fa6b6121c2140dfd)
+- [ ] [<code>conf: Add support for "move" mount flag</code>](https://github.com/lxc/lxc/commit/30b11e54abdf520e8029163c4fcb91945f1d616b)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3929,6 +3954,7 @@
 - [ ] [<code>Minor fixes (#20263)</code>](https://github.com/netdata/netdata.git/commit/f59e75c9e7ab69be89910a5775b991bccae5c3ed)
 - [ ] [<code>Update Netdata README with improved structure (#20265)</code>](https://github.com/netdata/netdata.git/commit/5e6b8b26a28e1e24dfc21f9ed8ffe7dc5fcbfd8a)
 - [ ] [<code>Schedule journal file indexing after database file rotation (#20264)</code>](https://github.com/netdata/netdata.git/commit/5af2aba6d1523ca1db34ffa31d5080215310e2b9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/990ec09795a2dd060af3b09a4c3c7b20dc3971e4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5396,6 +5422,17 @@
 - [ ] [<code>android: remove broken preset active indication</code>](https://github.com/Oppzippy/OpenSCQ30/commit/977b3abdab48984ee4fdfaabfb5d324b54047843)
 - [ ] [<code>refactor(lib): remove unnecessary ORDER BY</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d05e5eccf6378118f77707e5d9e0be80db8041ba)
 - [ ] [<code>fix(android): quick presets showing in random order</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3a8474a8852e9ad7e5bf6c901b46b1fcf478acd)
+- [ ] [<code>ci: limit workflow permissions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8f9b8631ef1551722fd4108d80ead543d9db1fa1)
+- [ ] [<code>android: upgrade to api version 35</code>](https://github.com/Oppzippy/OpenSCQ30/commit/71f111d8a7435b626f7b1ce97de49b33269f6426)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1f9df621f5e29f3b273a8207ba0fb6be694c6d2b)
+- [ ] [<code>refactor(android): fix warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b16965dd8fe21683942a6d4ab9fb5aa14d2075b6)
+- [ ] [<code>lib!: snapshot settings at quick preset creation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cc39667719c270616e0ecc35727238d9b8455934)
+- [ ] [<code>lib!: storage: replace json with jsonb</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d25a89468d0e843697e35cba0339aeb6e8400eb)
+- [ ] [<code>android/gui: localize quick preset field values</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3234db9cab66a70399170cc3b729f3c1baf5a290)
+- [ ] [<code>lib: don't include read only settings in quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86e691166153e4466f535260f05d6d7497a8172e)
+- [ ] [<code>fix(gui): quick preset fields sometimes not localized</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1a894a2c24225b9a36a255cf1bc0cfd7bd6941e5)
+- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5a01c5f80ca011ed03e8cf37a2d66e95dbf5d16f)
+- [ ] [<code>docs: mark A3931 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/664877c9a4ad78f437480475bd943c5aa5833c59)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
