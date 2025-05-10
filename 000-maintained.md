@@ -178,6 +178,9 @@
 - [ ] [<code>chore: Display loading dialog when preparing voice message</code>](https://github.com/krille-chan/fluffychat/commit/dc263094898f51a486611529c87b4a3287ba1047)
 - [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/276003aeddb94e341a9dd58c94a872f1194acf38)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Background audio player</code>](https://github.com/krille-chan/fluffychat/commit/7cc341ac917c00a07d2db00e56b3cd11876cd132)
+- [ ] [<code>feat: Check markdown checkboxes in messages</code>](https://github.com/krille-chan/fluffychat/commit/a2e5a940bdd64877b63ce467aba1a7b35fe4365c)
+- [ ] [<code>feat: Create lists with checkboxes via + menu</code>](https://github.com/krille-chan/fluffychat/commit/9da7a5704e17392f4ac33f60cd3c5feac0b0bb77)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -205,6 +208,9 @@
 - [ ] [<code>chore: Display loading dialog when preparing voice message</code>](https://github.com/krille-chan/fluffychat/commit/dc263094898f51a486611529c87b4a3287ba1047)
 - [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/276003aeddb94e341a9dd58c94a872f1194acf38)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Background audio player</code>](https://github.com/krille-chan/fluffychat/commit/7cc341ac917c00a07d2db00e56b3cd11876cd132)
+- [ ] [<code>feat: Check markdown checkboxes in messages</code>](https://github.com/krille-chan/fluffychat/commit/a2e5a940bdd64877b63ce467aba1a7b35fe4365c)
+- [ ] [<code>feat: Create lists with checkboxes via + menu</code>](https://github.com/krille-chan/fluffychat/commit/9da7a5704e17392f4ac33f60cd3c5feac0b0bb77)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3732,6 +3738,8 @@
 - [ ] [<code>src/tests/lxc-test-apparmor-mount: prevent fail on cleanup path</code>](https://github.com/lxc/lxc/commit/a13f86b07d40f406632f5c4da427e3378b768e5e)
 - [ ] [<code>src/tests/lxc-test-unpriv: prevent fail on cleanup path</code>](https://github.com/lxc/lxc/commit/a9b343f4805642a76d060608fa6b6121c2140dfd)
 - [ ] [<code>conf: Add support for "move" mount flag</code>](https://github.com/lxc/lxc/commit/30b11e54abdf520e8029163c4fcb91945f1d616b)
+- [ ] [<code>lxc/conf: support nosymfollow mount flag</code>](https://github.com/lxc/lxc/commit/2e08794e063f46178bb2abe563d9e81d1a553161)
+- [ ] [<code>lxc/conf: support flag kind of mount options in lxc.mount.entry options</code>](https://github.com/lxc/lxc/commit/afb35f3dea366264893470ca43e971ba2b022c6c)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
