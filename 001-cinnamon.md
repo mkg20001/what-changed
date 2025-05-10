@@ -45,8 +45,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Allow root authentication if there (#12849) are no admin users</code>](https://github.com/linuxmint/cinnamon/commit/9c8a15b62f5738cb33754d2c3b8a05eeacbca64b)
 - [ ] [<code>cs_themes.py: Add AdwaitaLegacy to blocklist</code>](https://github.com/linuxmint/cinnamon/commit/6c865930cc92c0e2e225b2ccab9f750637628748)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>js/ui/applet.js: Fix callback arguments for configureApplet().</code>](https://github.com/linuxmint/cinnamon/commit/8bde87c8867045b2abfb5a08b588258857277670)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
