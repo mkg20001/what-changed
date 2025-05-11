@@ -181,6 +181,9 @@
 - [ ] [<code>feat: Background audio player</code>](https://github.com/krille-chan/fluffychat/commit/7cc341ac917c00a07d2db00e56b3cd11876cd132)
 - [ ] [<code>feat: Check markdown checkboxes in messages</code>](https://github.com/krille-chan/fluffychat/commit/a2e5a940bdd64877b63ce467aba1a7b35fe4365c)
 - [ ] [<code>feat: Create lists with checkboxes via + menu</code>](https://github.com/krille-chan/fluffychat/commit/9da7a5704e17392f4ac33f60cd3c5feac0b0bb77)
+- [ ] [<code>chore: Follow up background audio player</code>](https://github.com/krille-chan/fluffychat/commit/b0227413100a20e15b5580160cafd59ca293db39)
+- [ ] [<code>feat: Move videoplayer into multi image viewer</code>](https://github.com/krille-chan/fluffychat/commit/55705d761db13a9c80f6afd79c429ebe4b2f33ba)
+- [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/f3c36e0b09365252ae097cfac4accdd0210bbffb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -211,6 +214,9 @@
 - [ ] [<code>feat: Background audio player</code>](https://github.com/krille-chan/fluffychat/commit/7cc341ac917c00a07d2db00e56b3cd11876cd132)
 - [ ] [<code>feat: Check markdown checkboxes in messages</code>](https://github.com/krille-chan/fluffychat/commit/a2e5a940bdd64877b63ce467aba1a7b35fe4365c)
 - [ ] [<code>feat: Create lists with checkboxes via + menu</code>](https://github.com/krille-chan/fluffychat/commit/9da7a5704e17392f4ac33f60cd3c5feac0b0bb77)
+- [ ] [<code>chore: Follow up background audio player</code>](https://github.com/krille-chan/fluffychat/commit/b0227413100a20e15b5580160cafd59ca293db39)
+- [ ] [<code>feat: Move videoplayer into multi image viewer</code>](https://github.com/krille-chan/fluffychat/commit/55705d761db13a9c80f6afd79c429ebe4b2f33ba)
+- [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/f3c36e0b09365252ae097cfac4accdd0210bbffb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5441,6 +5447,10 @@
 - [ ] [<code>fix(gui): quick preset fields sometimes not localized</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1a894a2c24225b9a36a255cf1bc0cfd7bd6941e5)
 - [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5a01c5f80ca011ed03e8cf37a2d66e95dbf5d16f)
 - [ ] [<code>docs: mark A3931 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/664877c9a4ad78f437480475bd943c5aa5833c59)
+- [ ] [<code>refactor(gui): only refresh changed data rather than everything</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dae1fb441770b3e4ab885a040aa21e546facc7e3)
+- [ ] [<code>gui: add quick preset update button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/731b25eb813d0c05cfb70960aa282383042e5d74)
+- [ ] [<code>gui: add delete quick preset button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73209f14701f2b4874e5f7f1be61cf620fa597ea)
+- [ ] [<code>refactor(lib): fix some unused function warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5bd4b073a87ef7d4c84675e8eca5bcab907ca1b0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5494,6 +5504,12 @@
 - [ ] [<code>Updated Translations</code>](https://github.com/foldynl/QLog.git/commit/bcfac11c7f7e217e6ea3b2a0e31f372104d0906e)
 - [ ] [<code>Preparation for release 0.44.0</code>](https://github.com/foldynl/QLog.git/commit/f4ca2be169ac150d023bc4fc73e3dffdbcdc96f8)
   - <sub>Tags: <code>v0.44.0</code></sub>
+- [ ] [<code>Fixed #666 - SegFault Rotator Widget - Quick and dirty fix - clean it up later</code>](https://github.com/foldynl/QLog.git/commit/7325245c3f9296b6bedaa387989ae5d5e6bcc68e)
+- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/381f938b7a7298d516f1cb346505a9a53e31c9ea)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/cf59cffe3380366727663e5f26d200b850d59e1c)
+- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/73e9c04db17bf41d67927b8ca5d3a5eae1d63930)
+- [ ] [<code>Preparation for release 0.44.1</code>](https://github.com/foldynl/QLog.git/commit/79625cf162434dec9d0fc4e862c819bd49102fe4)
+  - <sub>Tags: <code>v0.44.1</code></sub>
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
