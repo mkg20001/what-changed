@@ -184,6 +184,7 @@
 - [ ] [<code>chore: Follow up background audio player</code>](https://github.com/krille-chan/fluffychat/commit/b0227413100a20e15b5580160cafd59ca293db39)
 - [ ] [<code>feat: Move videoplayer into multi image viewer</code>](https://github.com/krille-chan/fluffychat/commit/55705d761db13a9c80f6afd79c429ebe4b2f33ba)
 - [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/f3c36e0b09365252ae097cfac4accdd0210bbffb)
+- [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/2fb8156718d7f26abc9c9a57e96336fb3ff10e7e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -217,6 +218,7 @@
 - [ ] [<code>chore: Follow up background audio player</code>](https://github.com/krille-chan/fluffychat/commit/b0227413100a20e15b5580160cafd59ca293db39)
 - [ ] [<code>feat: Move videoplayer into multi image viewer</code>](https://github.com/krille-chan/fluffychat/commit/55705d761db13a9c80f6afd79c429ebe4b2f33ba)
 - [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/f3c36e0b09365252ae097cfac4accdd0210bbffb)
+- [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/2fb8156718d7f26abc9c9a57e96336fb3ff10e7e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5764,6 +5766,14 @@
 - [ ] [<code>Revert "WIP: lib: support map() over objects"</code>](https://github.com/jow-/ucode/commit/d8cebc5a6bfd2c911aabfe230b9b5211fc6b042d)
 - [ ] [<code>zlib: incorporate latest PR changes</code>](https://github.com/jow-/ucode/commit/2599cf80736bdc3d766ac6803aba0cebc9f65a38)
 - [ ] [<code>socker: let sock.peercred() clear error on success</code>](https://github.com/jow-/ucode/commit/830f316a7e49a7b43623f10fb15c059ad54c6106)
+- [ ] [<code>types: rename u64_to_constant flag to ext_flag</code>](https://github.com/jow-/ucode/commit/4cbac141406ef225d006f11d06ffa538b875078b)
+- [ ] [<code>types: add support for resources with embedded data/values</code>](https://github.com/jow-/ucode/commit/d802fe5da5cdce80e53c0b0a87f8734f528e9340)
+- [ ] [<code>types: add support for setting resource persistent flag</code>](https://github.com/jow-/ucode/commit/71b4fdc6f60b46dfebf69593a05c4cd9576a429b)
+- [ ] [<code>uloop: use container_of instead of direct pointer casts</code>](https://github.com/jow-/ucode/commit/141f799eba0840099dcb80539f668fa5331e6f8b)
+- [ ] [<code>uloop: use uc_fn_thisval</code>](https://github.com/jow-/ucode/commit/1396f8f2988dd133508e61093b003304e6c41e8d)
+- [ ] [<code>uloop: drop object_registry</code>](https://github.com/jow-/ucode/commit/9a121fc7440c7413ccd225a232a0218f0e35b237)
+- [ ] [<code>socket: do not clear last_error in socket.error()</code>](https://github.com/jow-/ucode/commit/11b804d97086d285d63fd276ca6274810bdb0f5c)
+- [ ] [<code>socket: add strerror() method</code>](https://github.com/jow-/ucode/commit/d5b3a9dc1091dd28cf6f0f60cd34fc322ef27717)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
