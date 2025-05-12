@@ -3971,6 +3971,8 @@
 - [ ] [<code>Update Netdata README with improved structure (#20265)</code>](https://github.com/netdata/netdata.git/commit/5e6b8b26a28e1e24dfc21f9ed8ffe7dc5fcbfd8a)
 - [ ] [<code>Schedule journal file indexing after database file rotation (#20264)</code>](https://github.com/netdata/netdata.git/commit/5af2aba6d1523ca1db34ffa31d5080215310e2b9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/990ec09795a2dd060af3b09a4c3c7b20dc3971e4)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.39.0 to 0.40.0 in /src/go (#20270)</code>](https://github.com/netdata/netdata.git/commit/4f32427bf3a24469420d33096b540ca1e75392d7)
+- [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.65 to 1.1.66 in /src/go (#20268)</code>](https://github.com/netdata/netdata.git/commit/75f7064ae04c05d3d06d59101095a218a08efaec)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
