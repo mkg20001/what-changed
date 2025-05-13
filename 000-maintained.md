@@ -3659,6 +3659,9 @@
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/da9d7278c2963e2ef4c05d60cf0791792e8df382)
 - [ ] [<code>Fix avifDecoder image depth in avifDecoderParse() (#2797)</code>](https://github.com/AOMediaCodec/libavif/commit/9718f9b528b13003c41128fd3079d5c8857638d1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Redact the tile start byte position from test goldens (#2799)</code>](https://github.com/AOMediaCodec/libavif/commit/f6bd1083840c5f36c81d59bc914816a884d09de6)
+- [ ] [<code>Avoid saving file in avifencodetest (#2798)</code>](https://github.com/AOMediaCodec/libavif/commit/fbba6fe282950cdec46cda230039a53d4aa1f011)
+- [ ] [<code>Parse the gain map version before parsing the gain map item. (#2800)</code>](https://github.com/AOMediaCodec/libavif/commit/c48b15bf06755624a320708b98a999f1305c541d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3767,6 +3770,8 @@
 - [ ] [<code>lxc/conf: support nosymfollow mount flag</code>](https://github.com/lxc/lxc/commit/2e08794e063f46178bb2abe563d9e81d1a553161)
 - [ ] [<code>lxc/conf: support flag kind of mount options in lxc.mount.entry options</code>](https://github.com/lxc/lxc/commit/afb35f3dea366264893470ca43e971ba2b022c6c)
 - [ ] [<code>src/tests/oss-fuzz: pin meson to 1.7.2 to workaround build failures</code>](https://github.com/lxc/lxc/commit/bba0a0d6006f0ef627d38302a0ef79072907c466)
+- [ ] [<code>Revert "re-add onexec for apparmor, move label assumption until after container has been setup for attach"</code>](https://github.com/lxc/lxc/commit/d5beb15ae6a44d1b41388df81baf4ff00fae3963)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -5466,6 +5471,8 @@
 - [ ] [<code>Fix video platform wikipedia link</code>](https://github.com/axcore/tartube/commit/da56685b9ae59483068421a8c51f9bffe31861a6)
 - [ ] [<code>Replace pip3 with pipx</code>](https://github.com/axcore/tartube/commit/4ff29ed165f2d0fbac6d560cb3ec3ff2e206a305)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Rename utils.py and update code</code>](https://github.com/axcore/tartube/commit/62955519b105c5e43555af790f6798b5d7f0d855)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
