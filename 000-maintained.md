@@ -517,6 +517,8 @@
 - [ ] [<code>internal/util: Add Incus OS detection</code>](https://github.com/lxc/incus/commit/b237a7a0f0ec493564c77a83df3e161794eec492)
 - [ ] [<code>incusd: Use IsIncusOS</code>](https://github.com/lxc/incus/commit/6860d9196002219c187fab1793f438654428fc8a)
 - [ ] [<code>incusd/metrics: Include OS metrics on Incus OS</code>](https://github.com/lxc/incus/commit/29a3b2f697e2b4bad7f1cbd47330347768afb057)
+- [ ] [<code>incusd/instance/lxc: Refactor inheritInitPidFd</code>](https://github.com/lxc/incus/commit/39eea30163185f28beff4f3485bf109d04828545)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3530,6 +3532,8 @@
 - [ ] [<code>internal/util: Add Incus OS detection</code>](https://github.com/lxc/incus/commit/b237a7a0f0ec493564c77a83df3e161794eec492)
 - [ ] [<code>incusd: Use IsIncusOS</code>](https://github.com/lxc/incus/commit/6860d9196002219c187fab1793f438654428fc8a)
 - [ ] [<code>incusd/metrics: Include OS metrics on Incus OS</code>](https://github.com/lxc/incus/commit/29a3b2f697e2b4bad7f1cbd47330347768afb057)
+- [ ] [<code>incusd/instance/lxc: Refactor inheritInitPidFd</code>](https://github.com/lxc/incus/commit/39eea30163185f28beff4f3485bf109d04828545)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -3762,6 +3766,7 @@
 - [ ] [<code>conf: Add support for "move" mount flag</code>](https://github.com/lxc/lxc/commit/30b11e54abdf520e8029163c4fcb91945f1d616b)
 - [ ] [<code>lxc/conf: support nosymfollow mount flag</code>](https://github.com/lxc/lxc/commit/2e08794e063f46178bb2abe563d9e81d1a553161)
 - [ ] [<code>lxc/conf: support flag kind of mount options in lxc.mount.entry options</code>](https://github.com/lxc/lxc/commit/afb35f3dea366264893470ca43e971ba2b022c6c)
+- [ ] [<code>src/tests/oss-fuzz: pin meson to 1.7.2 to workaround build failures</code>](https://github.com/lxc/lxc/commit/bba0a0d6006f0ef627d38302a0ef79072907c466)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3848,6 +3853,7 @@
 - [ ] [<code>chore(go.d/snmp): small cleanup snmp profiles code (#20274)</code>](https://github.com/netdata/netdata.git/commit/897c2ba9d1ab7585f27bb19f27095c1344490ea3)
 - [ ] [<code>Switch to poll from epoll (#20273)</code>](https://github.com/netdata/netdata.git/commit/36a520c9dcede946af0c3fc8681abb7082fe0f75)
 - [ ] [<code>Switch to uv threads (#20250)</code>](https://github.com/netdata/netdata.git/commit/584d7d52215f386a933efbd7b9f48ec41c33775d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-32-nightly.</code>](https://github.com/netdata/netdata.git/commit/c8bede3533b35e5bd4189cf255f695cf980b401e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
