@@ -162,6 +162,7 @@
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>search: Remove unused search history code.</code>](https://github.com/linuxmint/nemo/commit/5e96d6910436fc358a3aae5940f1b1c2a0b56982)
 - [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
+- [ ] [<code>nemo-file-management-properties.glade: Add translation comments for</code>](https://github.com/linuxmint/nemo/commit/99c76441c910993f99f227d7d45d1fea2233de3e)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
