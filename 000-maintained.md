@@ -3860,6 +3860,9 @@
 - [ ] [<code>Switch to uv threads (#20250)</code>](https://github.com/netdata/netdata.git/commit/584d7d52215f386a933efbd7b9f48ec41c33775d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-32-nightly.</code>](https://github.com/netdata/netdata.git/commit/c8bede3533b35e5bd4189cf255f695cf980b401e)
 - [ ] [<code>Improve MSSQL (Part III) (#20230)</code>](https://github.com/netdata/netdata.git/commit/a78abaa1999b6d40e53dc60824881924235f39f3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-34-nightly.</code>](https://github.com/netdata/netdata.git/commit/2c1c998319f5b06288ef1d9115c42a24e7d2d57e)
+- [ ] [<code>docs: update mssql meta (#20278)</code>](https://github.com/netdata/netdata.git/commit/ed624904613bb4f14a93e9ad043d744e5098d505)
+- [ ] [<code>Regenerate integrations docs (#20279)</code>](https://github.com/netdata/netdata.git/commit/1fa0a4f51ba6d74a1993cc70b5646f28d9e835f0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
