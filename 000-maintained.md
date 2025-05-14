@@ -3859,6 +3859,7 @@
 - [ ] [<code>Switch to poll from epoll (#20273)</code>](https://github.com/netdata/netdata.git/commit/36a520c9dcede946af0c3fc8681abb7082fe0f75)
 - [ ] [<code>Switch to uv threads (#20250)</code>](https://github.com/netdata/netdata.git/commit/584d7d52215f386a933efbd7b9f48ec41c33775d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-32-nightly.</code>](https://github.com/netdata/netdata.git/commit/c8bede3533b35e5bd4189cf255f695cf980b401e)
+- [ ] [<code>Improve MSSQL (Part III) (#20230)</code>](https://github.com/netdata/netdata.git/commit/a78abaa1999b6d40e53dc60824881924235f39f3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
