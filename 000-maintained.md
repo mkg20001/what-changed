@@ -519,6 +519,8 @@
 - [ ] [<code>incusd/metrics: Include OS metrics on Incus OS</code>](https://github.com/lxc/incus/commit/29a3b2f697e2b4bad7f1cbd47330347768afb057)
 - [ ] [<code>incusd/instance/lxc: Refactor inheritInitPidFd</code>](https://github.com/lxc/incus/commit/39eea30163185f28beff4f3485bf109d04828545)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Removed useless else in Makefile</code>](https://github.com/lxc/incus/commit/c467c1da09790e2720d31c351511fcc753dc55e5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3534,6 +3536,8 @@
 - [ ] [<code>incusd/metrics: Include OS metrics on Incus OS</code>](https://github.com/lxc/incus/commit/29a3b2f697e2b4bad7f1cbd47330347768afb057)
 - [ ] [<code>incusd/instance/lxc: Refactor inheritInitPidFd</code>](https://github.com/lxc/incus/commit/39eea30163185f28beff4f3485bf109d04828545)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>Removed useless else in Makefile</code>](https://github.com/lxc/incus/commit/c467c1da09790e2720d31c351511fcc753dc55e5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -3863,6 +3867,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-34-nightly.</code>](https://github.com/netdata/netdata.git/commit/2c1c998319f5b06288ef1d9115c42a24e7d2d57e)
 - [ ] [<code>docs: update mssql meta (#20278)</code>](https://github.com/netdata/netdata.git/commit/ed624904613bb4f14a93e9ad043d744e5098d505)
 - [ ] [<code>Regenerate integrations docs (#20279)</code>](https://github.com/netdata/netdata.git/commit/1fa0a4f51ba6d74a1993cc70b5646f28d9e835f0)
+- [ ] [<code>Improved StatsD documentation (#20282)</code>](https://github.com/netdata/netdata.git/commit/5c8d4dd1aa60e2928fcb234813d7cadd2ca128ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>New Windows Metrics (CPU and Memory) (#20277)</code>](https://github.com/netdata/netdata.git/commit/3df95546e78db8772ce16f661d0dd7b0202a0f5e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
