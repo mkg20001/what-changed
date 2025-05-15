@@ -3870,6 +3870,8 @@
 - [ ] [<code>Improved StatsD documentation (#20282)</code>](https://github.com/netdata/netdata.git/commit/5c8d4dd1aa60e2928fcb234813d7cadd2ca128ca)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>New Windows Metrics (CPU and Memory) (#20277)</code>](https://github.com/netdata/netdata.git/commit/3df95546e78db8772ce16f661d0dd7b0202a0f5e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-39-nightly.</code>](https://github.com/netdata/netdata.git/commit/2701387606955e0a7885202348a4c1a486fde021)
+- [ ] [<code>Regenerate integrations docs (#20284)</code>](https://github.com/netdata/netdata.git/commit/35531a7576f31601194a735d244cc4aee040aedb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5675,6 +5677,8 @@
 - [ ] [<code>uloop: drop object_registry</code>](https://github.com/jow-/ucode/commit/9a121fc7440c7413ccd225a232a0218f0e35b237)
 - [ ] [<code>socket: do not clear last_error in socket.error()</code>](https://github.com/jow-/ucode/commit/11b804d97086d285d63fd276ca6274810bdb0f5c)
 - [ ] [<code>socket: add strerror() method</code>](https://github.com/jow-/ucode/commit/d5b3a9dc1091dd28cf6f0f60cd34fc322ef27717)
+- [ ] [<code>ubus: fix double registry clear on disconnect</code>](https://github.com/jow-/ucode/commit/54b00e3b1fa996d7d310367d0b6d83d690dc6073)
+- [ ] [<code>ubus: fix use-after-free on deferred request reply() method</code>](https://github.com/jow-/ucode/commit/69521b55855ca896e3fdd22250315b73d592051b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
