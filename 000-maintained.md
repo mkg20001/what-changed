@@ -191,6 +191,10 @@
 - [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/2fb8156718d7f26abc9c9a57e96336fb3ff10e7e)
 - [ ] [<code>chore: Format lib/utils/file_selector.dart</code>](https://github.com/krille-chan/fluffychat/commit/51449fc7244ce20a24de19814a3883e52bb9cb87)
 - [ ] [<code>chore: Crop shortcut file on android and cache it</code>](https://github.com/krille-chan/fluffychat/commit/13051712199e75f480bb45dfa1bc8c4990c48954)
+- [ ] [<code>fix: Join new room after room upgrade</code>](https://github.com/krille-chan/fluffychat/commit/200f2c34be4e50bf0395b1e7cd752e813087a5bb)
+- [ ] [<code>fix: Localizations</code>](https://github.com/krille-chan/fluffychat/commit/093ee160672ca62d7d77cb8137ef42d21f9e6e0b)
+- [ ] [<code>chore: Follow up crop circle notification avatars</code>](https://github.com/krille-chan/fluffychat/commit/e7034184d61465f7d40057bb866bfa380f90cea1)
+- [ ] [<code>refactor: Reduce notification avatar size to 128</code>](https://github.com/krille-chan/fluffychat/commit/7b5a9c10c6842b880990c80679a9d8f9cbeccbcf)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -231,6 +235,10 @@
 - [ ] [<code>chore: Follow up videoplayer</code>](https://github.com/krille-chan/fluffychat/commit/2fb8156718d7f26abc9c9a57e96336fb3ff10e7e)
 - [ ] [<code>chore: Format lib/utils/file_selector.dart</code>](https://github.com/krille-chan/fluffychat/commit/51449fc7244ce20a24de19814a3883e52bb9cb87)
 - [ ] [<code>chore: Crop shortcut file on android and cache it</code>](https://github.com/krille-chan/fluffychat/commit/13051712199e75f480bb45dfa1bc8c4990c48954)
+- [ ] [<code>fix: Join new room after room upgrade</code>](https://github.com/krille-chan/fluffychat/commit/200f2c34be4e50bf0395b1e7cd752e813087a5bb)
+- [ ] [<code>fix: Localizations</code>](https://github.com/krille-chan/fluffychat/commit/093ee160672ca62d7d77cb8137ef42d21f9e6e0b)
+- [ ] [<code>chore: Follow up crop circle notification avatars</code>](https://github.com/krille-chan/fluffychat/commit/e7034184d61465f7d40057bb866bfa380f90cea1)
+- [ ] [<code>refactor: Reduce notification avatar size to 128</code>](https://github.com/krille-chan/fluffychat/commit/7b5a9c10c6842b880990c80679a9d8f9cbeccbcf)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -521,6 +529,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Removed useless else in Makefile</code>](https://github.com/lxc/incus/commit/c467c1da09790e2720d31c351511fcc753dc55e5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/ceph: Fix parent tracking for VMs</code>](https://github.com/lxc/incus/commit/939cdb9f7769c44edc78d9925b9a6e6a03a01472)
+- [ ] [<code>incusd/main_forknet: Don't touch resolv.conf when no leases</code>](https://github.com/lxc/incus/commit/59f2c354747b07e84b4df6fc084aef4a7178f6ec)
+- [ ] [<code>incusd/storage/ceph: Fix typo in parseParent</code>](https://github.com/lxc/incus/commit/8520c07c8e5e241ae1faa16162ba14dd24313e7c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3538,6 +3549,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>Removed useless else in Makefile</code>](https://github.com/lxc/incus/commit/c467c1da09790e2720d31c351511fcc753dc55e5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/ceph: Fix parent tracking for VMs</code>](https://github.com/lxc/incus/commit/939cdb9f7769c44edc78d9925b9a6e6a03a01472)
+- [ ] [<code>incusd/main_forknet: Don't touch resolv.conf when no leases</code>](https://github.com/lxc/incus/commit/59f2c354747b07e84b4df6fc084aef4a7178f6ec)
+- [ ] [<code>incusd/storage/ceph: Fix typo in parseParent</code>](https://github.com/lxc/incus/commit/8520c07c8e5e241ae1faa16162ba14dd24313e7c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -3872,6 +3886,11 @@
 - [ ] [<code>New Windows Metrics (CPU and Memory) (#20277)</code>](https://github.com/netdata/netdata.git/commit/3df95546e78db8772ce16f661d0dd7b0202a0f5e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-39-nightly.</code>](https://github.com/netdata/netdata.git/commit/2701387606955e0a7885202348a4c1a486fde021)
 - [ ] [<code>Regenerate integrations docs (#20284)</code>](https://github.com/netdata/netdata.git/commit/35531a7576f31601194a735d244cc4aee040aedb)
+- [ ] [<code>Model Context Protocol Server (MCP) for Netdata (#20244)</code>](https://github.com/netdata/netdata.git/commit/cc0502ab96db3fb11a71603ef27099055efbe329)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>add "unix://" scheme to DOCKER_HOST in run.sh (#20286)</code>](https://github.com/netdata/netdata.git/commit/e38a4953c30dfa69c4aefc1f06f149b6548836d4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
