@@ -3894,6 +3894,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/161657906ffd337295c27c5a019cfaba227a07c8)
 - [ ] [<code>Improve agent shutdown (#20280)</code>](https://github.com/netdata/netdata.git/commit/71e08dba6bfcdb478aaf5872a7b340ec09524f0d)
 - [ ] [<code>comment metric tags that could be metrics (#20272)</code>](https://github.com/netdata/netdata.git/commit/c87793016585ab5f7a587fa0d2a5ccbcaaf09ddf)
+- [ ] [<code>fix(go.d): sanitize vnode labels before creating vnode (#20293)</code>](https://github.com/netdata/netdata.git/commit/dcbf9aaad6400fa2d8bcc0fe4637e5d1e3053651)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.0 to 0.33.1 in /src/go (#20295)</code>](https://github.com/netdata/netdata.git/commit/a3233ea864cb7e7b84235dbe0d449f1deb378d50)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.63.0 to 0.64.0 in /src/go (#20296)</code>](https://github.com/netdata/netdata.git/commit/2ac72594f9d6e42f1cfa0d04e0aa980a38c1d683)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
