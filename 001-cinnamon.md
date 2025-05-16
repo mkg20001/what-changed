@@ -47,7 +47,11 @@
 - [ ] [<code>cs_themes.py: Add AdwaitaLegacy to blocklist</code>](https://github.com/linuxmint/cinnamon/commit/6c865930cc92c0e2e225b2ccab9f750637628748)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>js/ui/applet.js: Fix callback arguments for configureApplet().</code>](https://github.com/linuxmint/cinnamon/commit/8bde87c8867045b2abfb5a08b588258857277670)
+- [ ] [<code>nightlight: Add schedule mode option 'always' (#12660)</code>](https://github.com/linuxmint/cinnamon/commit/2c6c9bb34cae8d32687171f08b09e86472b4aea5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_nightlight.py: Improve option label.</code>](https://github.com/linuxmint/cinnamon/commit/b5aba04756aae6b9f4639a1e9d7ffd6dc373b59a)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -65,7 +69,10 @@
 - [ ] [<code>build: Fix gnome-languages introspection.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a87c98c1bb2e3998d9df373a8f6432ab75744d75)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Cvc null check profile (#254)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e68cdbe2d837594d8258a026500a0b84a57e792)
+- [ ] [<code>Remove the pnp_ids configuration option (unused as of 913198430f27852544f9443a250421168d3d4466) (#249)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6f1151f86aaabe9242fabba3f176215a4c248af4)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
@@ -82,6 +89,11 @@
 
 - [ ] [<code>Cosmetic change: rename g-s-d to c-s-d (#409)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/68a787b96df19349bfda707c41fa83b319113dd6)
 - [ ] [<code>media-keys: Add labels for show_osd() (#403)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/3f3f8f77ae998bd0ac401cd1ab048ba9b6db31c0)
+- [ ] [<code>Add options to call generate-tz-header as part of the build process. (#405)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/0b2253b80b341d7126e28de7a8e9de462358a5bf)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update tz-coords.h.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9b7fd682eab42bab158e51166da7ef16d836f4fa)
+- [ ] [<code>nightlight: Implement schedule mode 'always' (#408)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d5f42851805b595bd5f697e72e924f6e75b4f766)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
@@ -132,6 +144,11 @@
 - [ ] [<code>Update flatpak script and runtime.</code>](https://github.com/linuxmint/mint-themes/commit/1442a00a715e9c51da2f01d6772e13a6b8d56eed)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Define accent-color (#497)</code>](https://github.com/linuxmint/mint-themes/commit/6996d0d81dd1f8313863973e51ab70b3cf90cdc4)
+- [ ] [<code>Add libadwaita stylesheet</code>](https://github.com/linuxmint/mint-themes/commit/e88b5a778ffb5b1050444beb3d3b7da9a86ea603)
+- [ ] [<code>libAdwaita: Apply theme colors</code>](https://github.com/linuxmint/mint-themes/commit/68ba09972913d8fbdd591b6325f663d757fe1aae)
+- [ ] [<code>libAdwaita: Override window controls styling</code>](https://github.com/linuxmint/mint-themes/commit/9750bcce2e9a1fd28f3fc55dfe659409afd1b2e5)
+- [ ] [<code>libAdwaita: Fine tune colors</code>](https://github.com/linuxmint/mint-themes/commit/d89ff0215f69086005d1d233ce12a7a014d563e0)
+- [ ] [<code>Move libAdwaita to versioned directory</code>](https://github.com/linuxmint/mint-themes/commit/3c6164d62249148b46b81f09693188f891ff9228)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
@@ -167,22 +184,27 @@
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
+- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
+- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
+- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
+- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
+- [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
