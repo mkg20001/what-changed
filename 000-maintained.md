@@ -3891,6 +3891,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>add "unix://" scheme to DOCKER_HOST in run.sh (#20286)</code>](https://github.com/netdata/netdata.git/commit/e38a4953c30dfa69c4aefc1f06f149b6548836d4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/161657906ffd337295c27c5a019cfaba227a07c8)
+- [ ] [<code>Improve agent shutdown (#20280)</code>](https://github.com/netdata/netdata.git/commit/71e08dba6bfcdb478aaf5872a7b340ec09524f0d)
+- [ ] [<code>comment metric tags that could be metrics (#20272)</code>](https://github.com/netdata/netdata.git/commit/c87793016585ab5f7a587fa0d2a5ccbcaaf09ddf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
