@@ -3897,6 +3897,7 @@
 - [ ] [<code>fix(go.d): sanitize vnode labels before creating vnode (#20293)</code>](https://github.com/netdata/netdata.git/commit/dcbf9aaad6400fa2d8bcc0fe4637e5d1e3053651)
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.0 to 0.33.1 in /src/go (#20295)</code>](https://github.com/netdata/netdata.git/commit/a3233ea864cb7e7b84235dbe0d449f1deb378d50)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.63.0 to 0.64.0 in /src/go (#20296)</code>](https://github.com/netdata/netdata.git/commit/2ac72594f9d6e42f1cfa0d04e0aa980a38c1d683)
+- [ ] [<code>Minor code adjustments (#20290)</code>](https://github.com/netdata/netdata.git/commit/7bd5557e3bdc2657d7f5452256da902bdcc16120)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5473,32 +5474,8 @@
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.10.3 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.10.3...HEAD)
+#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.10.4 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.10.4...HEAD)
 
-- [ ] [<code>Add Russian language support (#581)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/eb626a7e9e365a69d2994fe0bed9f17be63af9b6)
-- [ ] [<code>Fix a few undefined records (#580)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/77cc93671077c7bd1eccd4d3a903f73c2a0403cb)
-- [ ] [<code>Upgrade eslint plugins</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f88eacee2a8ee309e47589677cd31dd697f29d0b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Upgrade vite, react and jest</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a38bc442cb7a227383b80bbfb55800e96ceafaae)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Upgrade react-admin</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d3e623e578df29a6e321695d0420cd5dc3b00a11)
-- [ ] [<code>Upgrade dependencies</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/31fe23d688a7e77aea5d11444ac212797d55a8f1)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Bump softprops/action-gh-release from 2.0.6 to 2.0.8 (#588)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/035baa786a33d77642dec353c813ef6f91e9bfde)
-- [ ] [<code>Use central defintion of storage system</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dbcb4f92dc1ef88cd2af3b956fbf242fa9c48093)
-- [ ] [<code>Fix for empty user default tab after creation (#628)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9fc005032c5b578fe5f360844ba5db69d870fb78)
-- [ ] [<code>Bump vite from 5.3.4 to 5.4.9 (#634)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3de43324777884e14e5b7094fad896484ea6937d)
-- [ ] [<code>Bump micromatch from 4.0.5 to 4.0.8 in the npm_and_yarn group (#610)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/96f549fe4207dc3f7b1709c7a5f920649df6460a)
-- [ ] [<code>Bump @testing-library/dom from 10.0.0 to 10.4.0 (#585)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/307793f000cdab90540776143c0633f5f2be1830)
-- [ ] [<code>Bump eslint-plugin-unused-imports from 3.2.0 to 4.1.4 (#620)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/590f673167e7bc5102e04e3d6b6da02530881c2d)
-- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.3 to 4.6.8 (#626)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/669c1f307939950b52e5d1589acbaf93e88173c1)
-- [ ] [<code>Bump typescript-eslint from 7.16.1 to 8.11.0 (#638)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2524848dae6d6eb0e6d3556c0a9d75984cf434ac)
-- [ ] [<code>Bump the npm_and_yarn group with 3 updates (#656)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ad876bb7900b8a8e331273905e04507cf88951bb)
-- [ ] [<code>Add identifier when login with password (#601)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/61c32fb473d9b0b0c52c86cc1ba6561659039d81)
-- [ ] [<code>Add content write permission to ghpage workflow</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1b8b7022702a9a97c3c68acd210e861d874f1185)
-- [ ] [<code>Add content read permission to build-test workflow</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4d1a9cc14731feda14a1a3c907d0b0baeef8e20a)
-- [ ] [<code>Fixed detection of missingFields in verifyCsv function of CSV import (#650)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1e8b4cc885789254305e646b4cab68123af98feb)
-  - <sub>Tags: <code>0.10.4</code></sub>
 - [ ] [<code>Update fetch URL to use BASE_URL for config.json (#652)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b2a3fb0f8768943aec4f6a198e77309069afcd1c)
 - [ ] [<code>Add ability to toggle whether to show locked users (#573)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3085b9ffa0e029e95a856193dc843037809f691a)
 - [ ] [<code>Federation page improvements (#583)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d5c10b6e0208f27b9a3fec82b331dda95c1f5a14)
