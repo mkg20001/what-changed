@@ -52,6 +52,11 @@
 - [ ] [<code>interface: fix memleak and reload issue for the zone attribute</code>](https://git.openwrt.org/project/netifd.git/commit/058a099f5bc58c89b731218f6e9cc6ee76ba52c9)
 - [ ] [<code>interface: remove unnecessary NULL checks before free()</code>](https://git.openwrt.org/project/netifd.git/commit/ea01ed41f3212ecbe000422f3c122a01b93fe874)
 - [ ] [<code>iprule: amend ipproto netlink nla_put_u32 to nla_put_u8</code>](https://git.openwrt.org/project/netifd.git/commit/61ae5732adea8bafcdf158c979a0a0d68b2cff62)
+- [ ] [<code>device: add support for configuring vrf</code>](https://git.openwrt.org/project/netifd.git/commit/d610d68c71b82b987c665a922c10084d5cf89f8c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>device: fix bonding primary port selection</code>](https://git.openwrt.org/project/netifd.git/commit/a1b6386a20a6352fea626345a044b538c1473a49)
+- [ ] [<code>system-linux: fix sysfs name for all_ports_active flag</code>](https://git.openwrt.org/project/netifd.git/commit/e8bbf246ce2e134613d3b68477dcb955689408e4)
+- [ ] [<code>Restore disable_ipv6 sysctl after removing a device from bridge or bond</code>](https://git.openwrt.org/project/netifd.git/commit/723c699e84f4b0f4515928f0cc57a5be2a317ced)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
