@@ -63,6 +63,7 @@
 - [ ] [<code>Update Rust to v1.85.0</code>](https://github.com/stepchowfun/docuum/commit/2ff30181c538105030ba4378a91ddba55ababbc9)
 - [ ] [<code>Update the MAINTAINERS instructions</code>](https://github.com/stepchowfun/docuum/commit/0f9968e4fe828519dc7194d0769aae4e6e349494)
 - [ ] [<code>Add `permissions` to the `publish-release` CI job</code>](https://github.com/stepchowfun/docuum/commit/1117bf7d9c1222b83db49e8b5a695273f686e178)
+- [ ] [<code>Update Rust to v1.87.0</code>](https://github.com/stepchowfun/docuum/commit/7d0e6a7764db7753f9d3bad8d39ae6bdf49079a5)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -3898,6 +3899,7 @@
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.0 to 0.33.1 in /src/go (#20295)</code>](https://github.com/netdata/netdata.git/commit/a3233ea864cb7e7b84235dbe0d449f1deb378d50)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.63.0 to 0.64.0 in /src/go (#20296)</code>](https://github.com/netdata/netdata.git/commit/2ac72594f9d6e42f1cfa0d04e0aa980a38c1d683)
 - [ ] [<code>Minor code adjustments (#20290)</code>](https://github.com/netdata/netdata.git/commit/7bd5557e3bdc2657d7f5452256da902bdcc16120)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-50-nightly.</code>](https://github.com/netdata/netdata.git/commit/c9c131449b9732c00e3fd51f0f35539bebb2ba12)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
