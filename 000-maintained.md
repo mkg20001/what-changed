@@ -32,6 +32,7 @@
 - [ ] [<code>Revert "Replace `gopkg.in/yaml.v2` with `github.com/goccy/go-yaml`"</code>](https://github.com/lxc/distrobuilder/commit/bc1dd4f8e212c851c26893a83ddf344fa8275c63)
 - [ ] [<code>Go: Use incus 6.12</code>](https://github.com/lxc/distrobuilder/commit/4ca985cf18935bcd1bf105a1c98c0bffee93f062)
 - [ ] [<code>shared: Update ArchitectureID import</code>](https://github.com/lxc/distrobuilder/commit/5a5663c9ca0b43f6b82955fb575c026c7c242773)
+- [ ] [<code>utils_test.go: TestRecvGPGKeys add missing cleanup</code>](https://github.com/lxc/distrobuilder/commit/cdab568f5b7fafd36a8f6104d81baad3524b9da7)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -196,6 +197,8 @@
 - [ ] [<code>fix: Localizations</code>](https://github.com/krille-chan/fluffychat/commit/093ee160672ca62d7d77cb8137ef42d21f9e6e0b)
 - [ ] [<code>chore: Follow up crop circle notification avatars</code>](https://github.com/krille-chan/fluffychat/commit/e7034184d61465f7d40057bb866bfa380f90cea1)
 - [ ] [<code>refactor: Reduce notification avatar size to 128</code>](https://github.com/krille-chan/fluffychat/commit/7b5a9c10c6842b880990c80679a9d8f9cbeccbcf)
+- [ ] [<code>chore: Follow up new video player</code>](https://github.com/krille-chan/fluffychat/commit/e8ee3722dbe3ab693b2381487ce4c22a9c30ed14)
+- [ ] [<code>chore: Follow up push avatars</code>](https://github.com/krille-chan/fluffychat/commit/15543275c477484ddb388b6e4d4c21e49de9793f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
 
@@ -240,6 +243,8 @@
 - [ ] [<code>fix: Localizations</code>](https://github.com/krille-chan/fluffychat/commit/093ee160672ca62d7d77cb8137ef42d21f9e6e0b)
 - [ ] [<code>chore: Follow up crop circle notification avatars</code>](https://github.com/krille-chan/fluffychat/commit/e7034184d61465f7d40057bb866bfa380f90cea1)
 - [ ] [<code>refactor: Reduce notification avatar size to 128</code>](https://github.com/krille-chan/fluffychat/commit/7b5a9c10c6842b880990c80679a9d8f9cbeccbcf)
+- [ ] [<code>chore: Follow up new video player</code>](https://github.com/krille-chan/fluffychat/commit/e8ee3722dbe3ab693b2381487ce4c22a9c30ed14)
+- [ ] [<code>chore: Follow up push avatars</code>](https://github.com/krille-chan/fluffychat/commit/15543275c477484ddb388b6e4d4c21e49de9793f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -533,6 +538,29 @@
 - [ ] [<code>incusd/storage/ceph: Fix parent tracking for VMs</code>](https://github.com/lxc/incus/commit/939cdb9f7769c44edc78d9925b9a6e6a03a01472)
 - [ ] [<code>incusd/main_forknet: Don't touch resolv.conf when no leases</code>](https://github.com/lxc/incus/commit/59f2c354747b07e84b4df6fc084aef4a7178f6ec)
 - [ ] [<code>incusd/storage/ceph: Fix typo in parseParent</code>](https://github.com/lxc/incus/commit/8520c07c8e5e241ae1faa16162ba14dd24313e7c)
+- [ ] [<code>tests: Switch clustering test subnet</code>](https://github.com/lxc/incus/commit/4fff11cc45dae2a88baea0a87d8164ae163c95c2)
+- [ ] [<code>incusd: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/d2741f464e294a5787cb916c71db928956601f2b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>internal/util: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/a66323ed95b4f6bc8d86152914add74055596579)
+- [ ] [<code>internal/linux: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/5235c6fd6b4ecc2f4a98302ebd545314bd22c60f)
+- [ ] [<code>internal/filter: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/4fdc33e0377b19b41792361fa1542defed7a6f2a)
+- [ ] [<code>generate-config: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/9f4bf8bf2f55d0289505a6f6aeba78c910828019)
+- [ ] [<code>generate-database: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/01d22dbbab3e6520fef71391b40b5e57eb380ca4)
+- [ ] [<code>incus-agent: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/71454862c181e956f7864a2e63a5b28a8217aed3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-benchmark: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/57c3143121f2722d06986c022beef4b798309761)
+- [ ] [<code>incusd: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/08522918595b5729de2ded368bf195ab24705cc4)
+- [ ] [<code>lxc-to-incus: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/f54d1a6f56ef30201e2910d5275a8f6f5eb037dd)
+- [ ] [<code>incus: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/f55ecc6ee25f5e8e6c5e8e67cd7faeacca9cb449)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/ac3082a4f692d869f59a623359e1e78839f27579)
+- [ ] [<code>shared/cliconfig: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/63dd751c8743158ded1abd439efa8cd210f4774b)
+- [ ] [<code>shared/idmap: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/cd6f85dcd1d137d58224511ab5440ef85494a59a)
+- [ ] [<code>shared/ioprogress: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/9b789846abb7b055c15f34f9550c9b76d28936c6)
+- [ ] [<code>shared/osarch: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/8df4b1d9d6a828c964fcea8c17253efe709ffb72)
+- [ ] [<code>shared/subprocess: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/23bfc8a010b40701c2cd58cd991a064857f0ebc9)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/c56b9fbc6fef1ce2230db2d14483a750bb4994ab)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3553,6 +3581,29 @@
 - [ ] [<code>incusd/storage/ceph: Fix parent tracking for VMs</code>](https://github.com/lxc/incus/commit/939cdb9f7769c44edc78d9925b9a6e6a03a01472)
 - [ ] [<code>incusd/main_forknet: Don't touch resolv.conf when no leases</code>](https://github.com/lxc/incus/commit/59f2c354747b07e84b4df6fc084aef4a7178f6ec)
 - [ ] [<code>incusd/storage/ceph: Fix typo in parseParent</code>](https://github.com/lxc/incus/commit/8520c07c8e5e241ae1faa16162ba14dd24313e7c)
+- [ ] [<code>tests: Switch clustering test subnet</code>](https://github.com/lxc/incus/commit/4fff11cc45dae2a88baea0a87d8164ae163c95c2)
+- [ ] [<code>incusd: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/d2741f464e294a5787cb916c71db928956601f2b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>internal/util: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/a66323ed95b4f6bc8d86152914add74055596579)
+- [ ] [<code>internal/linux: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/5235c6fd6b4ecc2f4a98302ebd545314bd22c60f)
+- [ ] [<code>internal/filter: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/4fdc33e0377b19b41792361fa1542defed7a6f2a)
+- [ ] [<code>generate-config: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/9f4bf8bf2f55d0289505a6f6aeba78c910828019)
+- [ ] [<code>generate-database: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/01d22dbbab3e6520fef71391b40b5e57eb380ca4)
+- [ ] [<code>incus-agent: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/71454862c181e956f7864a2e63a5b28a8217aed3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-benchmark: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/57c3143121f2722d06986c022beef4b798309761)
+- [ ] [<code>incusd: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/08522918595b5729de2ded368bf195ab24705cc4)
+- [ ] [<code>lxc-to-incus: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/f54d1a6f56ef30201e2910d5275a8f6f5eb037dd)
+- [ ] [<code>incus: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/f55ecc6ee25f5e8e6c5e8e67cd7faeacca9cb449)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/api: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/ac3082a4f692d869f59a623359e1e78839f27579)
+- [ ] [<code>shared/cliconfig: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/63dd751c8743158ded1abd439efa8cd210f4774b)
+- [ ] [<code>shared/idmap: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/cd6f85dcd1d137d58224511ab5440ef85494a59a)
+- [ ] [<code>shared/ioprogress: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/9b789846abb7b055c15f34f9550c9b76d28936c6)
+- [ ] [<code>shared/osarch: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/8df4b1d9d6a828c964fcea8c17253efe709ffb72)
+- [ ] [<code>shared/subprocess: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/23bfc8a010b40701c2cd58cd991a064857f0ebc9)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/c56b9fbc6fef1ce2230db2d14483a750bb4994ab)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
