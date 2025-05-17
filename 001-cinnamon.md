@@ -50,8 +50,15 @@
 - [ ] [<code>nightlight: Add schedule mode option 'always' (#12660)</code>](https://github.com/linuxmint/cinnamon/commit/2c6c9bb34cae8d32687171f08b09e86472b4aea5)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cs_nightlight.py: Improve option label.</code>](https://github.com/linuxmint/cinnamon/commit/b5aba04756aae6b9f4639a1e9d7ffd6dc373b59a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Allow building Cinnamon without any NetworkManager requirements.</code>](https://github.com/linuxmint/cinnamon/commit/871008a0c3e7df3efd1207c19a076626e4fa6d8a)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Merge cs_tiling module with cs_windows module (#12880)</code>](https://github.com/linuxmint/cinnamon/commit/931fced59dd3ba5a0fc97b8571261f3858ba9630)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: Give tiling its own tab in the windows module.</code>](https://github.com/linuxmint/cinnamon/commit/485cef26df16aa92973ff7d60fda0506ef6b3fc3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>polkitAuthenticationAgent.js: Handle system accounts properly. (#12865)</code>](https://github.com/linuxmint/cinnamon/commit/426bfadc48fc34978f47e9ae7b0e1cef7b513ba6)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -149,6 +156,7 @@
 - [ ] [<code>libAdwaita: Override window controls styling</code>](https://github.com/linuxmint/mint-themes/commit/9750bcce2e9a1fd28f3fc55dfe659409afd1b2e5)
 - [ ] [<code>libAdwaita: Fine tune colors</code>](https://github.com/linuxmint/mint-themes/commit/d89ff0215f69086005d1d233ce12a7a014d563e0)
 - [ ] [<code>Move libAdwaita to versioned directory</code>](https://github.com/linuxmint/mint-themes/commit/3c6164d62249148b46b81f09693188f891ff9228)
+- [ ] [<code>Openbox Themes (#502)</code>](https://github.com/linuxmint/mint-themes/commit/b85e27c58d11fd20a9cf2d4d3ac7be78d7604183)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
