@@ -154,34 +154,13 @@
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
 
-#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
+#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
 - [ ] [<code>Fix: Fix jagged avatar edges</code>](https://github.com/krille-chan/fluffychat/commit/9672bdd11dfa82b71928716263603083ed532901)
-- [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>fix: Show WebP-images with a file-extension written in lower-case</code>](https://github.com/krille-chan/fluffychat/commit/635f92f0c1c145a314b3dc41b1ef6c549620d567)
 - [ ] [<code>feat: Show WebM-videos when choosing video-files for sending</code>](https://github.com/krille-chan/fluffychat/commit/0c277571546cde05707b2f97c13f565b7f890ceb)
 - [ ] [<code>feat: Show all supported image-/video-files when sending images or videos</code>](https://github.com/krille-chan/fluffychat/commit/380639496da72e267760837ad6a777448434d29f)
 - [ ] [<code>fix: Change `PNGs` to `PNG` for consistency in file-selector</code>](https://github.com/krille-chan/fluffychat/commit/c4226f3fcf63fa0c5edb784f9cf5be844bdb5fec)
-- [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
-- [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
-- [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
-- [ ] [<code>chore: Do not store event from push in database</code>](https://github.com/krille-chan/fluffychat/commit/856a53a310c1d6176d4c870039c987513ef4845d)
-- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/a1c080aeb4d4d341f78815a3c247200c0e675165)
-- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/363f6f86ae83375dabb724f26837747bddce0885)
-- [ ] [<code>build: Use main branch for matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dbf07dd7a3a98cda1c7738c7ad142afe684acc29)
-- [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
-- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/5c0bf025af224e504a31ee598202955c50a502aa)
-- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
-- [ ] [<code>chore: Display count of invited in members page</code>](https://github.com/krille-chan/fluffychat/commit/a1b198bfbc950ee43c78530e67c3d731054ea561)
-- [ ] [<code>chore: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9a5bb2a0dbab4d25f6ce7f3583121f5dfeb1437e)
-- [ ] [<code>build: Update matrix dart sdk to 0.40.0</code>](https://github.com/krille-chan/fluffychat/commit/8664f21ad8e0acd0dece308eab84c111b5c0eaa4)
-- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/c921e0fbc3d8cb433ab42252830fc22b4f893d93)
-- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/cf1dc0c37a65ca8a2f3d5887289c51d6759183d1)
-- [ ] [<code>fix: Crash when opening settings in column mode from popup menu</code>](https://github.com/krille-chan/fluffychat/commit/24e25c1d9b28b6eadd3f3d0d7eca918d334f29eb)
-- [ ] [<code>build: Changelog for 1.26.1</code>](https://github.com/krille-chan/fluffychat/commit/87572be6f78ee256fde715e0f5d22ca0c9f2b26b)
-  - <sub>Tags: <code>rc1.26.1-1</code></sub>
-- [ ] [<code>build: Remove arch from release ios shell script</code>](https://github.com/krille-chan/fluffychat/commit/6c332c1d83bd8a3293905144521e42641f79d927)
-  - <sub>Tags: <code>v1.26.1</code></sub>
 - [ ] [<code>chore: Display loading dialog when preparing voice message</code>](https://github.com/krille-chan/fluffychat/commit/dc263094898f51a486611529c87b4a3287ba1047)
 - [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/276003aeddb94e341a9dd58c94a872f1194acf38)
   - <sub>Keywords: <code>dependency</code></sub>
@@ -231,34 +210,13 @@
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/98642f676a0645e44ff18f9a1b51a6d96979e8e5)
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/616d36ad39190ba34e093bfc3c967c28032764dd)
 
-#### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.0...HEAD)
+#### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
 - [ ] [<code>Fix: Fix jagged avatar edges</code>](https://github.com/krille-chan/fluffychat/commit/9672bdd11dfa82b71928716263603083ed532901)
-- [ ] [<code>fix(docs): escape tag</code>](https://github.com/krille-chan/fluffychat/commit/809e621068780afe1340cbf82c0d361147a76ddf)
 - [ ] [<code>fix: Show WebP-images with a file-extension written in lower-case</code>](https://github.com/krille-chan/fluffychat/commit/635f92f0c1c145a314b3dc41b1ef6c549620d567)
 - [ ] [<code>feat: Show WebM-videos when choosing video-files for sending</code>](https://github.com/krille-chan/fluffychat/commit/0c277571546cde05707b2f97c13f565b7f890ceb)
 - [ ] [<code>feat: Show all supported image-/video-files when sending images or videos</code>](https://github.com/krille-chan/fluffychat/commit/380639496da72e267760837ad6a777448434d29f)
 - [ ] [<code>fix: Change `PNGs` to `PNG` for consistency in file-selector</code>](https://github.com/krille-chan/fluffychat/commit/c4226f3fcf63fa0c5edb784f9cf5be844bdb5fec)
-- [ ] [<code>chore: Remove matrix notification workflow</code>](https://github.com/krille-chan/fluffychat/commit/be719f8b99c809574ccee86860cf80abc2dd8549)
-- [ ] [<code>chore: Reenable archive feature after various fixes landed in sdk</code>](https://github.com/krille-chan/fluffychat/commit/22aa50fd024439aa2f6b1a8469b07e7036471b0a)
-- [ ] [<code>chore: Only show joined members in members list by default</code>](https://github.com/krille-chan/fluffychat/commit/d90c1e6fd854a7a45226cb5898eec713a4e33895)
-- [ ] [<code>chore: Do not store event from push in database</code>](https://github.com/krille-chan/fluffychat/commit/856a53a310c1d6176d4c870039c987513ef4845d)
-- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/a1c080aeb4d4d341f78815a3c247200c0e675165)
-- [ ] [<code>chore: Do not load timeline while sync processing</code>](https://github.com/krille-chan/fluffychat/commit/363f6f86ae83375dabb724f26837747bddce0885)
-- [ ] [<code>build: Use main branch for matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/dbf07dd7a3a98cda1c7738c7ad142afe684acc29)
-- [ ] [<code>refactor: Display thread messages like replies as a thread fallback</code>](https://github.com/krille-chan/fluffychat/commit/89fb866cde1f8a48b666f9e185a0e9b26f7bc4d4)
-- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/5c0bf025af224e504a31ee598202955c50a502aa)
-- [ ] [<code>build: Follow up update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/c95930de89c4281cae1fa572f8a20a0fd1c44766)
-- [ ] [<code>chore: Display count of invited in members page</code>](https://github.com/krille-chan/fluffychat/commit/a1b198bfbc950ee43c78530e67c3d731054ea561)
-- [ ] [<code>chore: Adjust new chat page design</code>](https://github.com/krille-chan/fluffychat/commit/9a5bb2a0dbab4d25f6ce7f3583121f5dfeb1437e)
-- [ ] [<code>build: Update matrix dart sdk to 0.40.0</code>](https://github.com/krille-chan/fluffychat/commit/8664f21ad8e0acd0dece308eab84c111b5c0eaa4)
-- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/c921e0fbc3d8cb433ab42252830fc22b4f893d93)
-- [ ] [<code>chore: Follow up fix localizations</code>](https://github.com/krille-chan/fluffychat/commit/cf1dc0c37a65ca8a2f3d5887289c51d6759183d1)
-- [ ] [<code>fix: Crash when opening settings in column mode from popup menu</code>](https://github.com/krille-chan/fluffychat/commit/24e25c1d9b28b6eadd3f3d0d7eca918d334f29eb)
-- [ ] [<code>build: Changelog for 1.26.1</code>](https://github.com/krille-chan/fluffychat/commit/87572be6f78ee256fde715e0f5d22ca0c9f2b26b)
-  - <sub>Tags: <code>rc1.26.1-1</code></sub>
-- [ ] [<code>build: Remove arch from release ios shell script</code>](https://github.com/krille-chan/fluffychat/commit/6c332c1d83bd8a3293905144521e42641f79d927)
-  - <sub>Tags: <code>v1.26.1</code></sub>
 - [ ] [<code>chore: Display loading dialog when preparing voice message</code>](https://github.com/krille-chan/fluffychat/commit/dc263094898f51a486611529c87b4a3287ba1047)
 - [ ] [<code>build: Update record package</code>](https://github.com/krille-chan/fluffychat/commit/276003aeddb94e341a9dd58c94a872f1194acf38)
   - <sub>Keywords: <code>dependency</code></sub>
@@ -4014,6 +3972,7 @@
 - [ ] [<code>Minor code adjustments (#20290)</code>](https://github.com/netdata/netdata.git/commit/7bd5557e3bdc2657d7f5452256da902bdcc16120)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-50-nightly.</code>](https://github.com/netdata/netdata.git/commit/c9c131449b9732c00e3fd51f0f35539bebb2ba12)
 - [ ] [<code>Fix when docker socket group id points to an existing group in container (#20288)</code>](https://github.com/netdata/netdata.git/commit/fba56c7ab24671583fce638fb6d40d8466e1ebe7)
+- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.4 to 5.7.5 in /src/go (#20299)</code>](https://github.com/netdata/netdata.git/commit/3850a1e6e73d1ded4f7c7a4b230cd15ac96d37d3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
