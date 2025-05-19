@@ -58,6 +58,8 @@
 - [ ] [<code>cinnamon-settings: Give tiling its own tab in the windows module.</code>](https://github.com/linuxmint/cinnamon/commit/485cef26df16aa92973ff7d60fda0506ef6b3fc3)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Handle system accounts properly. (#12865)</code>](https://github.com/linuxmint/cinnamon/commit/426bfadc48fc34978f47e9ae7b0e1cef7b513ba6)
+- [ ] [<code>settings.js: remove file monitor (#12819)</code>](https://github.com/linuxmint/cinnamon/commit/f59e1683b4e08987fd5393ad38384745daef5534)
+- [ ] [<code>messageTray.js: Fix image not showing in... (#12623)</code>](https://github.com/linuxmint/cinnamon/commit/01b8db89a3d2d416d63c6da3a2f22c252fb78118)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -102,7 +104,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Update tz-coords.h.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/9b7fd682eab42bab158e51166da7ef16d836f4fa)
 - [ ] [<code>nightlight: Implement schedule mode 'always' (#408)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d5f42851805b595bd5f697e72e924f6e75b4f766)
+- [ ] [<code>power: Cleanup upower version checks.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/db263a5129d06eabf8c2eb6a4f2e9bd71e4dfc07)
+- [ ] [<code>Adjust upower minimum version.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/789b2ee5908f1b186a29cbd6d0accd31c3c1bf97)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/6.4.2...HEAD)
 
@@ -230,11 +236,15 @@
 
 - [ ] [<code>xapp-favorites.c: Fix g-ir-scanner warning during build.</code>](https://github.com/linuxmint/xapp/commit/5f8ca8fb80f2a3e7e98b253f92f118a7c3b641fe)
 - [ ] [<code>debian/control: Clean up libgdk-pixbuf depends.</code>](https://github.com/linuxmint/xapp/commit/c58ecca4ab7d2da9186522168ade264ee36c4629)
+- [ ] [<code>Add xdg-desktop-portal accent-rgb setting. (#191)</code>](https://github.com/linuxmint/xapp/commit/75f25bbd60ad5b416cda13daf7d1c23d056619d3)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
 - [ ] [<code>debian/control: Use correct package to get systemd .pc file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/02db7624913967d49e7682fe76350b65845aece8)
+- [ ] [<code>settings.c: Implement accent-color setting. (#23)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5b3064db294a3522b0df4cad08c9f79ee2bc9a09)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.6 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.6...HEAD)
 
