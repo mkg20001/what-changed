@@ -3973,6 +3973,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-50-nightly.</code>](https://github.com/netdata/netdata.git/commit/c9c131449b9732c00e3fd51f0f35539bebb2ba12)
 - [ ] [<code>Fix when docker socket group id points to an existing group in container (#20288)</code>](https://github.com/netdata/netdata.git/commit/fba56c7ab24671583fce638fb6d40d8466e1ebe7)
 - [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.4 to 5.7.5 in /src/go (#20299)</code>](https://github.com/netdata/netdata.git/commit/3850a1e6e73d1ded4f7c7a4b230cd15ac96d37d3)
+- [ ] [<code>Updating SOC2 compliance status (#20300)</code>](https://github.com/netdata/netdata.git/commit/7416c26c2335effe79a4e767e9ebe0d090044032)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
