@@ -209,6 +209,9 @@
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/f94d3a96d2102c5f737dac20d709ca6673113b17)
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/98642f676a0645e44ff18f9a1b51a6d96979e8e5)
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/616d36ad39190ba34e093bfc3c967c28032764dd)
+- [ ] [<code>chore: Follow up VideoPlayer in ImageViewer</code>](https://github.com/krille-chan/fluffychat/commit/92d3e7f1c31a310913bac55088452eb34ceef37b)
+- [ ] [<code>build: Update shared preferences android</code>](https://github.com/krille-chan/fluffychat/commit/73e796c0b6656e46133b62eece16af49ce595e9a)
+- [ ] [<code>docs: Remove border for header and footer</code>](https://github.com/krille-chan/fluffychat/commit/12320d41984f4f362ca7dd601ab0c433a6d1814c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -265,6 +268,9 @@
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/f94d3a96d2102c5f737dac20d709ca6673113b17)
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/98642f676a0645e44ff18f9a1b51a6d96979e8e5)
 - [ ] [<code>chore: Fix duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/616d36ad39190ba34e093bfc3c967c28032764dd)
+- [ ] [<code>chore: Follow up VideoPlayer in ImageViewer</code>](https://github.com/krille-chan/fluffychat/commit/92d3e7f1c31a310913bac55088452eb34ceef37b)
+- [ ] [<code>build: Update shared preferences android</code>](https://github.com/krille-chan/fluffychat/commit/73e796c0b6656e46133b62eece16af49ce595e9a)
+- [ ] [<code>docs: Remove border for header and footer</code>](https://github.com/krille-chan/fluffychat/commit/12320d41984f4f362ca7dd601ab0c433a6d1814c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -3752,6 +3758,8 @@
 - [ ] [<code>Redact the tile start byte position from test goldens (#2799)</code>](https://github.com/AOMediaCodec/libavif/commit/f6bd1083840c5f36c81d59bc914816a884d09de6)
 - [ ] [<code>Avoid saving file in avifencodetest (#2798)</code>](https://github.com/AOMediaCodec/libavif/commit/fbba6fe282950cdec46cda230039a53d4aa1f011)
 - [ ] [<code>Parse the gain map version before parsing the gain map item. (#2800)</code>](https://github.com/AOMediaCodec/libavif/commit/c48b15bf06755624a320708b98a999f1305c541d)
+- [ ] [<code>Cast int32_t operands to int64_t before clamping</code>](https://github.com/AOMediaCodec/libavif/commit/ecaa4bb6032cbd8349146407e21857185b3038ba)
+- [ ] [<code>Fix Sample Transform pow operator (#2806)</code>](https://github.com/AOMediaCodec/libavif/commit/d54a4c4b38098f556c3e26a0a192836c8c8c49df)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3975,6 +3983,15 @@
 - [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.4 to 5.7.5 in /src/go (#20299)</code>](https://github.com/netdata/netdata.git/commit/3850a1e6e73d1ded4f7c7a4b230cd15ac96d37d3)
 - [ ] [<code>Updating SOC2 compliance status (#20300)</code>](https://github.com/netdata/netdata.git/commit/7416c26c2335effe79a4e767e9ebe0d090044032)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-54-nightly.</code>](https://github.com/netdata/netdata.git/commit/39ea7384db05410c6e27f6a33c7181257988b08c)
+- [ ] [<code>docs: Observability centralization points (#20292)</code>](https://github.com/netdata/netdata.git/commit/3683fc4cfdace2e396d09e0f82d3699785c80416)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(go.d/snmp): replace newline control chars with spaces in system info (#20301)</code>](https://github.com/netdata/netdata.git/commit/314e05878c884cd526e4d84bfabf6b790c78a9c1)
+- [ ] [<code>docs: fix `<br>` in streaming (#20302)</code>](https://github.com/netdata/netdata.git/commit/eb6e75c6846a43e63548c46cdf147be1ecaaea5f)
+- [ ] [<code>fix heap-use-after-free in plugins.d inflight functions (#20304)</code>](https://github.com/netdata/netdata.git/commit/ae19ed57749b011c8d929f888c81323d6ee4b059)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix use after free of streaming current parent (#20305)</code>](https://github.com/netdata/netdata.git/commit/db07738fbbc126d140f8ebde59ccd2464c7d34b2)
+- [ ] [<code>Improve metasync shutdown (#20303)</code>](https://github.com/netdata/netdata.git/commit/80de3046d090caef71cbf46fa590410f8a60b976)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
