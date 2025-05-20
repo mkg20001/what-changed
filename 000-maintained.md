@@ -3760,6 +3760,8 @@
 - [ ] [<code>Parse the gain map version before parsing the gain map item. (#2800)</code>](https://github.com/AOMediaCodec/libavif/commit/c48b15bf06755624a320708b98a999f1305c541d)
 - [ ] [<code>Cast int32_t operands to int64_t before clamping</code>](https://github.com/AOMediaCodec/libavif/commit/ecaa4bb6032cbd8349146407e21857185b3038ba)
 - [ ] [<code>Fix Sample Transform pow operator (#2806)</code>](https://github.com/AOMediaCodec/libavif/commit/d54a4c4b38098f556c3e26a0a192836c8c8c49df)
+- [ ] [<code>Fix sato pow comment (#2807)</code>](https://github.com/AOMediaCodec/libavif/commit/3d80a1b01b9fa4cc5165a4cf6df143183fbceb6e)
+- [ ] [<code>Move sato pow condition up (#2808)</code>](https://github.com/AOMediaCodec/libavif/commit/6b696fa87c7a053879984bd99725b22e8b1ebd94)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3992,6 +3994,7 @@
 - [ ] [<code>fix use after free of streaming current parent (#20305)</code>](https://github.com/netdata/netdata.git/commit/db07738fbbc126d140f8ebde59ccd2464c7d34b2)
 - [ ] [<code>Improve metasync shutdown (#20303)</code>](https://github.com/netdata/netdata.git/commit/80de3046d090caef71cbf46fa590410f8a60b976)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-61-nightly.</code>](https://github.com/netdata/netdata.git/commit/0683b852b58d826cdb35baa0f7174bf6676eb45a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5775,6 +5778,7 @@
 - [ ] [<code>socket: add strerror() method</code>](https://github.com/jow-/ucode/commit/d5b3a9dc1091dd28cf6f0f60cd34fc322ef27717)
 - [ ] [<code>ubus: fix double registry clear on disconnect</code>](https://github.com/jow-/ucode/commit/54b00e3b1fa996d7d310367d0b6d83d690dc6073)
 - [ ] [<code>ubus: fix use-after-free on deferred request reply() method</code>](https://github.com/jow-/ucode/commit/69521b55855ca896e3fdd22250315b73d592051b)
+- [ ] [<code>debug: fix crash when passing tagged string to getinfo()</code>](https://github.com/jow-/ucode/commit/22e8c16d9debfacbc0dfdd5ea21dc6a7442854cf)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
