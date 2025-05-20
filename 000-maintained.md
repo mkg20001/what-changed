@@ -3995,6 +3995,14 @@
 - [ ] [<code>Improve metasync shutdown (#20303)</code>](https://github.com/netdata/netdata.git/commit/80de3046d090caef71cbf46fa590410f8a60b976)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-61-nightly.</code>](https://github.com/netdata/netdata.git/commit/0683b852b58d826cdb35baa0f7174bf6676eb45a)
+- [ ] [<code>Improve user transition log messages (#20308)</code>](https://github.com/netdata/netdata.git/commit/c07bda0cccf190f4382d5b3f6934037f0f6bfca4)
+- [ ] [<code>docs: fix tip in streaming readme (#20310)</code>](https://github.com/netdata/netdata.git/commit/0d44b9af78e20f08333ad666807719140205ae36)
+- [ ] [<code>plugins dyncfg is always on localhost (#20312)</code>](https://github.com/netdata/netdata.git/commit/bc88f8bd8629eada3747b8fd3d59c64a0b2bda85)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Netdata ai (#20309)</code>](https://github.com/netdata/netdata.git/commit/8da25ac7a9897f4d2f55005baaeb2c2d2b799796)
+- [ ] [<code>docs: fix netdata-assistant.md (#20314)</code>](https://github.com/netdata/netdata.git/commit/35f81357746de5f930000349fe5e4ec3c6035a5e)
+- [ ] [<code>IIS W3SCV W3MP Metrics (windows.plugin) (#20245)</code>](https://github.com/netdata/netdata.git/commit/03455218ee908f3b4dc93e867605eb6c67dc3b99)
+- [ ] [<code>Regenerate integrations docs (#20315)</code>](https://github.com/netdata/netdata.git/commit/87c997d89973748f1e640e89ba9357ab8f198d02)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5494,49 +5502,6 @@
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [qlog](https://github.com/foldynl/QLog.git): [refs/tags/v0.43.1 → HEAD](https://github.com/foldynl/QLog.git/compare/refs/tags/v0.43.1...HEAD)
-
-- [ ] [<code>MembershipQE: Added MemberID to the query result</code>](https://github.com/foldynl/QLog.git/commit/e08e22228c26c373aeb2f7038b9927a99ef111a7)
-- [ ] [<code>Activity Manager: Added SKCC, UKSMG and FISTS as Dynamic Fields</code>](https://github.com/foldynl/QLog.git/commit/77fb4c13e7c7c31cdd8ea23cab58c1eb7f70bb53)
-- [ ] [<code>Fixed #628 - FISTS, SKCC, and UKSMG can be auto-filled from MembershipQE</code>](https://github.com/foldynl/QLog.git/commit/6d8f3179b759b5a786ffe688c88954f1e1338362)
-- [ ] [<code>QSO Detail: Added FISTS, FISTS CC, SKCC, and UKSMG</code>](https://github.com/foldynl/QLog.git/commit/1f7bc9daa464893ee46b06723e648fd76248c60e)
-- [ ] [<code>Activity Manager: FISTS CC as Dynamic Field</code>](https://github.com/foldynl/QLog.git/commit/48b15bff90f257ac1af120a10e9c0869b67942d1)
-- [ ] [<code>DXC: Improved the Mode Detection based on dxc.n1rbd.radio cluster syntax</code>](https://github.com/foldynl/QLog.git/commit/10910034f0a7df3841690a1cb0d7bcc5f3768249)
-- [ ] [<code>MetaInfo: Update QLog.metainfo.xml</code>](https://github.com/foldynl/QLog.git/commit/4453fa578624f24217a305197b3da8d8909cbac0)
-- [ ] [<code>Fixed #644 - Rotator Widget: Needle for QSO, requested azimuth and Antenna</code>](https://github.com/foldynl/QLog.git/commit/e0d3b8db654a69260134488f8ad16dabac83d0dc)
-- [ ] [<code>Rotator: Added dead-band around the target azimuth</code>](https://github.com/foldynl/QLog.git/commit/b83de8530ce9c16de80a4cb0042f042ecc1142ce)
-- [ ] [<code>Rotator: Two size needles - antenna and the rest</code>](https://github.com/foldynl/QLog.git/commit/07e945ab8035cd4d1e3a90822adeebbe1476c51a)
-- [ ] [<code>Rotator: minor code beautification</code>](https://github.com/foldynl/QLog.git/commit/a5d844ffc639b9184c39091a77405e24c5595b7b)
-- [ ] [<code>Rotator: RequestedAz Needle is displayed only if requested</code>](https://github.com/foldynl/QLog.git/commit/801ba6fc8688f610063185de071ab4f24827202b)
-- [ ] [<code>Rotator: The change of the required Az is displayed immediately on the map</code>](https://github.com/foldynl/QLog.git/commit/af82690af69b505cd7fa79f4cf6aa3a6f20b59fb)
-- [ ] [<code>Rotator: Variable renamed from azimuth to antennaAzimuth</code>](https://github.com/foldynl/QLog.git/commit/37a72a3b6516dea151d6a604a5e6712e2d180698)
-- [ ] [<code>Rotator: modified showing/hiding requestedAz</code>](https://github.com/foldynl/QLog.git/commit/9a33cc34b5b9657aad30eae5d396abf48828ba06)
-- [ ] [<code>Adds grayline and short path to qso detail dialog map</code>](https://github.com/foldynl/QLog.git/commit/69abcae31f53bf9b3aad037ef3b69b9a47b181e7)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/20183e8b7ecaa36905dab412ebf17c1e0ea9dde1)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/a06efc0281beacd1dd2137660d0c5e2912e5c8e0)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/1f2897ff7bf1b3ccaf116582dd7bd83840785aa9)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/c2cbf643ccf5ad4dea8657faf6e591f274c1dead)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/20d65d5cff93cd07838bebfb8ec865e79efefbb8)
-- [ ] [<code>Bandmap: Reducing the space required in the bandmap</code>](https://github.com/foldynl/QLog.git/commit/df188f3e7c80d61856a3621e71d4621cc322516d)
-- [ ] [<code>Update Chinese translation to 0.43</code>](https://github.com/foldynl/QLog.git/commit/ea9b3a4c3636ae745cd49d3378be4647aeed311e)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/f3723fb76913bf65e387f7424d9b06ded6bc367c)
-- [ ] [<code>Regenerated transactions</code>](https://github.com/foldynl/QLog.git/commit/d98c31c53b5b9bb0664e9db54e261f2e17b5d8b1)
-- [ ] [<code>Fixing #663 - cw_macros must contain RigID</code>](https://github.com/foldynl/QLog.git/commit/30e2879d7e96fb7ad3a2a14acaf337dda680174d)
-- [ ] [<code>Fixed #663 - Set Key Speed syncs Keyer and Macros speed</code>](https://github.com/foldynl/QLog.git/commit/872a818756cfcde95a9024a01c852be6085878c6)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/045df3da48a48948f6ed801962d763e856d294c2)
-- [ ] [<code>HamLib Fix for #660</code>](https://github.com/foldynl/QLog.git/commit/74c268e583f6bdf2e08c36c26ce01f243d59a031)
-- [ ] [<code>Fixed #660 - Hamlibdrv: Modes are determined after connection</code>](https://github.com/foldynl/QLog.git/commit/febe7a314941c2c066d73997d5290d72ad47841c)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/06da6ad599d4cffc9c490abbd77eca241449232e)
-- [ ] [<code>Updated Translations</code>](https://github.com/foldynl/QLog.git/commit/bcfac11c7f7e217e6ea3b2a0e31f372104d0906e)
-- [ ] [<code>Preparation for release 0.44.0</code>](https://github.com/foldynl/QLog.git/commit/f4ca2be169ac150d023bc4fc73e3dffdbcdc96f8)
-  - <sub>Tags: <code>v0.44.0</code></sub>
-- [ ] [<code>Fixed #666 - SegFault Rotator Widget - Quick and dirty fix - clean it up later</code>](https://github.com/foldynl/QLog.git/commit/7325245c3f9296b6bedaa387989ae5d5e6bcc68e)
-- [ ] [<code>Started a new release</code>](https://github.com/foldynl/QLog.git/commit/381f938b7a7298d516f1cb346505a9a53e31c9ea)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/cf59cffe3380366727663e5f26d200b850d59e1c)
-- [ ] [<code>Updated Changelog</code>](https://github.com/foldynl/QLog.git/commit/73e9c04db17bf41d67927b8ca5d3a5eae1d63930)
-- [ ] [<code>Preparation for release 0.44.1</code>](https://github.com/foldynl/QLog.git/commit/79625cf162434dec9d0fc4e862c819bd49102fe4)
-  - <sub>Tags: <code>v0.44.1</code></sub>
-
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
 
@@ -5577,6 +5542,12 @@
 - [ ] [<code>Add ability to toggle whether to show locked users (#573)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3085b9ffa0e029e95a856193dc843037809f691a)
 - [ ] [<code>Federation page improvements (#583)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d5c10b6e0208f27b9a3fec82b331dda95c1f5a14)
 - [ ] [<code>Upgrade to react-admin v5 (#633)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e8e28b5df1d8b1338570263a0d13b31d637324e1)
+  - <sub>Tags: <code>0.11.0</code></sub>
+- [ ] [<code>Bump ra-language-english from 5.2.3 to 5.8.2 (#667)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d72c91644d68813df84aaef8e6b31d76f6632fba)
+- [ ] [<code>Bump vite from 5.4.19 to 6.3.5 (#664)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/99bf7b1889d62ced0bf39f1de9ab6a0cb7d2bc38)
+- [ ] [<code>Bump typescript-eslint from 8.32.0 to 8.32.1 (#661)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/238350b94089f7cba99027034a0c5cf9b6f50bf6)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.8 to 4.7.3 (#659)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8dc5238fcb1c1bfc64544e8cde0b11ddf115caf3)
+- [ ] [<code>Bump softprops/action-gh-release from 2.0.8 to 2.2.2 (#660)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa3f2437a374ddb0802334f5688c49011066a08a)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
