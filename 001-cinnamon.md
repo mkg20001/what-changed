@@ -164,6 +164,11 @@
 - [ ] [<code>libAdwaita: Fine tune colors</code>](https://github.com/linuxmint/mint-themes/commit/d89ff0215f69086005d1d233ce12a7a014d563e0)
 - [ ] [<code>Move libAdwaita to versioned directory</code>](https://github.com/linuxmint/mint-themes/commit/3c6164d62249148b46b81f09693188f891ff9228)
 - [ ] [<code>Openbox Themes (#502)</code>](https://github.com/linuxmint/mint-themes/commit/b85e27c58d11fd20a9cf2d4d3ac7be78d7604183)
+- [ ] [<code>Bump version to matching lib version</code>](https://github.com/linuxmint/mint-themes/commit/d7cbb5406dda6db353e2ba218b6f983967267010)
+- [ ] [<code>2.2.4</code>](https://github.com/linuxmint/mint-themes/commit/5bf6eb309bbf7373ae765404989cbd3d98693929)
+- [ ] [<code>Mint-X: Add support for cinnamon 6.4 (#487)</code>](https://github.com/linuxmint/mint-themes/commit/c4107a0c6c8085cbe70321a6f40f5649d9f5a59d)
+- [ ] [<code>Xfwm4: Add missing files</code>](https://github.com/linuxmint/mint-themes/commit/f294f0ec8e9696f00ceca5095703f0ace8a6f703)
+- [ ] [<code>2.2.5</code>](https://github.com/linuxmint/mint-themes/commit/314fc0d3a624224acc7090a5505bf54b1caa3f86)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
@@ -245,6 +250,9 @@
 - [ ] [<code>settings.c: Implement accent-color setting. (#23)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5b3064db294a3522b0df4cad08c9f79ee2bc9a09)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>1.1.1</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/043bb2d4b63f69cddb0cd413cb32aad19acea7b3)
+  - <sub>Tags: <code>1.1.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.6 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.6...HEAD)
 
