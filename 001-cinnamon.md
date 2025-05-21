@@ -60,6 +60,9 @@
 - [ ] [<code>polkitAuthenticationAgent.js: Handle system accounts properly. (#12865)</code>](https://github.com/linuxmint/cinnamon/commit/426bfadc48fc34978f47e9ae7b0e1cef7b513ba6)
 - [ ] [<code>settings.js: remove file monitor (#12819)</code>](https://github.com/linuxmint/cinnamon/commit/f59e1683b4e08987fd5393ad38384745daef5534)
 - [ ] [<code>messageTray.js: Fix image not showing in... (#12623)</code>](https://github.com/linuxmint/cinnamon/commit/01b8db89a3d2d416d63c6da3a2f22c252fb78118)
+- [ ] [<code>cs_themes.py: Fix minor regression in module from 769a754001ff4c</code>](https://github.com/linuxmint/cinnamon/commit/8debf0a4a73ee51bb30fb2236a1fd44c50ba2c99)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>polkitAuthenticationAgent.js: Ensure Cinnamon is part of the (#12887)</code>](https://github.com/linuxmint/cinnamon/commit/a5c98a271250b13a0333fd347a14356c4d0d6d67)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -94,6 +97,8 @@
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
+- [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
 
@@ -140,6 +145,12 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
 
+- [ ] [<code>Define accent-color</code>](https://github.com/linuxmint/mint-l-theme/commit/543bde81c601eb951c70f521dc3f2042a7c42972)
+- [ ] [<code>Fix libAdw accent colors for Mint-L-Brown</code>](https://github.com/linuxmint/mint-l-theme/commit/6cf3e5e737c894c5dcf6d37349d9a5def8e50926)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add support for libAdwaita-1.5</code>](https://github.com/linuxmint/mint-l-theme/commit/8c37e6ebb270e1f5eca679c8b90a13db6c963f1a)
+- [ ] [<code>2.0.0</code>](https://github.com/linuxmint/mint-l-theme/commit/ea64118fd6d4e6c57b4d2a746707456d67078ef3)
+  - <sub>Tags: <code>2.0.0</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.3...HEAD)
 
@@ -169,7 +180,10 @@
 - [ ] [<code>Mint-X: Add support for cinnamon 6.4 (#487)</code>](https://github.com/linuxmint/mint-themes/commit/c4107a0c6c8085cbe70321a6f40f5649d9f5a59d)
 - [ ] [<code>Xfwm4: Add missing files</code>](https://github.com/linuxmint/mint-themes/commit/f294f0ec8e9696f00ceca5095703f0ace8a6f703)
 - [ ] [<code>2.2.5</code>](https://github.com/linuxmint/mint-themes/commit/314fc0d3a624224acc7090a5505bf54b1caa3f86)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Fix libAdw accent colors for Mint-X, Mint-X-Brown and Mint-Y-Sand.</code>](https://github.com/linuxmint/mint-themes/commit/92dac041e03a9562c3229e494d32b73344c7ac96)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>2.2.6</code>](https://github.com/linuxmint/mint-themes/commit/8254aebe0a737b641c1906f6c93678e80fa9fcf9)
+  - <sub>Tags: <code>2.2.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
@@ -242,7 +256,10 @@
 - [ ] [<code>xapp-favorites.c: Fix g-ir-scanner warning during build.</code>](https://github.com/linuxmint/xapp/commit/5f8ca8fb80f2a3e7e98b253f92f118a7c3b641fe)
 - [ ] [<code>debian/control: Clean up libgdk-pixbuf depends.</code>](https://github.com/linuxmint/xapp/commit/c58ecca4ab7d2da9186522168ade264ee36c4629)
 - [ ] [<code>Add xdg-desktop-portal accent-rgb setting. (#191)</code>](https://github.com/linuxmint/xapp/commit/75f25bbd60ad5b416cda13daf7d1c23d056619d3)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>Revert "xapp-sn-watcher: Don't enable in MATE"</code>](https://github.com/linuxmint/xapp/commit/72cf195fadb5a5683e59ee4daa780fac604c883c)
+- [ ] [<code>2.8.9</code>](https://github.com/linuxmint/xapp/commit/aa7162e4d434a0a6abd19f1d862fcd4946571b14)
+  - <sub>Tags: <code>2.8.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
@@ -253,6 +270,7 @@
 - [ ] [<code>1.1.1</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/043bb2d4b63f69cddb0cd413cb32aad19acea7b3)
   - <sub>Tags: <code>1.1.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>settings.c: Fix ACCENT_COLOR_DEF.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/326aadd4972d62a3ebccb93ad5c028977ce4ac95)
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.6 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.6...HEAD)
 
