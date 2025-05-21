@@ -216,6 +216,12 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/af28cd2af80583ddcde0a5196657b8d55731d95a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Use workaround for flutter secure storage on linux</code>](https://github.com/krille-chan/fluffychat/commit/9283fe8797393b74a712f5b472a8a7e8f5795448)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Add confirmation dialog before accepting invite</code>](https://github.com/krille-chan/fluffychat/commit/52c44e13a7a703af45465826495c606b97635a79)
+- [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/1772fc71df7225184530107c6c9d36cd28b36143)
+- [ ] [<code>refactor: Always use HtmlMessage</code>](https://github.com/krille-chan/fluffychat/commit/4739ea42fa983070752392adee8eea54365e2233)
+- [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -279,6 +285,12 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/af28cd2af80583ddcde0a5196657b8d55731d95a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Use workaround for flutter secure storage on linux</code>](https://github.com/krille-chan/fluffychat/commit/9283fe8797393b74a712f5b472a8a7e8f5795448)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: Add confirmation dialog before accepting invite</code>](https://github.com/krille-chan/fluffychat/commit/52c44e13a7a703af45465826495c606b97635a79)
+- [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/1772fc71df7225184530107c6c9d36cd28b36143)
+- [ ] [<code>refactor: Always use HtmlMessage</code>](https://github.com/krille-chan/fluffychat/commit/4739ea42fa983070752392adee8eea54365e2233)
+- [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -595,6 +607,18 @@
 - [ ] [<code>shared/subprocess: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/23bfc8a010b40701c2cd58cd991a064857f0ebc9)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>test: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/c56b9fbc6fef1ce2230db2d14483a750bb4994ab)
+- [ ] [<code>incusd/instances: Tweak storage migration errors</code>](https://github.com/lxc/incus/commit/54245abe155d07026929287619e4e92f67053a59)
+- [ ] [<code>incusd/instances_post: Prevent pointless device overrides</code>](https://github.com/lxc/incus/commit/d9bdf39fe200c733bc29a0c95129ede9908028e6)
+- [ ] [<code>incusd/instance: Fix incorrect cluster.Connect call</code>](https://github.com/lxc/incus/commit/769d23b9650da74b3018163e2fc85c20e659d13a)
+- [ ] [<code>incusd/instance/qemu: Enable invtsc CPU extension when not migratable</code>](https://github.com/lxc/incus/commit/e74129ed461e0a4573683042ecb2c6389abf12bc)
+- [ ] [<code>Makefile: Pin tablewriter (API breakage)</code>](https://github.com/lxc/incus/commit/341d4252f4c1d5d9ce185598b7781cef2fbdaede)
+- [ ] [<code>client: Use the umoci Go package instead of the command</code>](https://github.com/lxc/incus/commit/727041a1c22bd8908658e6619e92ae806438f9c8)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>doc: Remove mentions of the umoci command</code>](https://github.com/lxc/incus/commit/8a84626ed2e56c2f2826697eb880c034ac1138b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/df2dbf69db0c9e01bd5df773724e717ff039e5ec)
+- [ ] [<code>tests: Update godeps</code>](https://github.com/lxc/incus/commit/7b20a69be27c9765289ec443e3c2e35ade728ad1)
+- [ ] [<code>tests: Skip rootless-containers/proto/go-proto (Apache 2.0)</code>](https://github.com/lxc/incus/commit/175c48086bfe95b3517ae1878f8a5ae2cfd9a172)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3638,6 +3662,18 @@
 - [ ] [<code>shared/subprocess: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/23bfc8a010b40701c2cd58cd991a064857f0ebc9)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>test: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/c56b9fbc6fef1ce2230db2d14483a750bb4994ab)
+- [ ] [<code>incusd/instances: Tweak storage migration errors</code>](https://github.com/lxc/incus/commit/54245abe155d07026929287619e4e92f67053a59)
+- [ ] [<code>incusd/instances_post: Prevent pointless device overrides</code>](https://github.com/lxc/incus/commit/d9bdf39fe200c733bc29a0c95129ede9908028e6)
+- [ ] [<code>incusd/instance: Fix incorrect cluster.Connect call</code>](https://github.com/lxc/incus/commit/769d23b9650da74b3018163e2fc85c20e659d13a)
+- [ ] [<code>incusd/instance/qemu: Enable invtsc CPU extension when not migratable</code>](https://github.com/lxc/incus/commit/e74129ed461e0a4573683042ecb2c6389abf12bc)
+- [ ] [<code>Makefile: Pin tablewriter (API breakage)</code>](https://github.com/lxc/incus/commit/341d4252f4c1d5d9ce185598b7781cef2fbdaede)
+- [ ] [<code>client: Use the umoci Go package instead of the command</code>](https://github.com/lxc/incus/commit/727041a1c22bd8908658e6619e92ae806438f9c8)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>doc: Remove mentions of the umoci command</code>](https://github.com/lxc/incus/commit/8a84626ed2e56c2f2826697eb880c034ac1138b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/df2dbf69db0c9e01bd5df773724e717ff039e5ec)
+- [ ] [<code>tests: Update godeps</code>](https://github.com/lxc/incus/commit/7b20a69be27c9765289ec443e3c2e35ade728ad1)
+- [ ] [<code>tests: Skip rootless-containers/proto/go-proto (Apache 2.0)</code>](https://github.com/lxc/incus/commit/175c48086bfe95b3517ae1878f8a5ae2cfd9a172)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4020,6 +4056,10 @@
 - [ ] [<code>SNMP: _generic-if.yaml pass (#20317)</code>](https://github.com/netdata/netdata.git/commit/01c24017721310bea35a238bf786dc4e1912215d)
 - [ ] [<code>Update libbpf (#20316)</code>](https://github.com/netdata/netdata.git/commit/9421500d58ef3d864ab9d0653d88a676ebf14bb0)
 - [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.0.7 to 1.1.0 in /src/go (#20320)</code>](https://github.com/netdata/netdata.git/commit/3a8a376d3fa174a1171fbe17422d32b48eb47ecb)
+- [ ] [<code>_generic-tcp.yaml pass (#20321)</code>](https://github.com/netdata/netdata.git/commit/8fd5857924de6d8405e3cecd13ee50b53b69795d)
+- [ ] [<code>dont init dyncfg for vnode (#20324)</code>](https://github.com/netdata/netdata.git/commit/9c9e180f05316bccfd99f6bf417212b9e9819c77)
+- [ ] [<code>Cancel health initialization if shutdown has been requested (#20318)</code>](https://github.com/netdata/netdata.git/commit/6459420287588e5a92e3a72e5c15f694e806b3d1)
+- [ ] [<code>SOC 2 cloud doc update (#20325)</code>](https://github.com/netdata/netdata.git/commit/dc3627e6af8e1ab69556ac73955643fca5babffc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
