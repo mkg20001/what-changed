@@ -212,6 +212,10 @@
 - [ ] [<code>chore: Follow up VideoPlayer in ImageViewer</code>](https://github.com/krille-chan/fluffychat/commit/92d3e7f1c31a310913bac55088452eb34ceef37b)
 - [ ] [<code>build: Update shared preferences android</code>](https://github.com/krille-chan/fluffychat/commit/73e796c0b6656e46133b62eece16af49ce595e9a)
 - [ ] [<code>docs: Remove border for header and footer</code>](https://github.com/krille-chan/fluffychat/commit/12320d41984f4f362ca7dd601ab0c433a6d1814c)
+- [ ] [<code>build: Upgrade to flutter 3.22</code>](https://github.com/krille-chan/fluffychat/commit/b8547c4792d3e6f62262fe5f54c191f04ac2f063)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/af28cd2af80583ddcde0a5196657b8d55731d95a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -271,6 +275,10 @@
 - [ ] [<code>chore: Follow up VideoPlayer in ImageViewer</code>](https://github.com/krille-chan/fluffychat/commit/92d3e7f1c31a310913bac55088452eb34ceef37b)
 - [ ] [<code>build: Update shared preferences android</code>](https://github.com/krille-chan/fluffychat/commit/73e796c0b6656e46133b62eece16af49ce595e9a)
 - [ ] [<code>docs: Remove border for header and footer</code>](https://github.com/krille-chan/fluffychat/commit/12320d41984f4f362ca7dd601ab0c433a6d1814c)
+- [ ] [<code>build: Upgrade to flutter 3.22</code>](https://github.com/krille-chan/fluffychat/commit/b8547c4792d3e6f62262fe5f54c191f04ac2f063)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/af28cd2af80583ddcde0a5196657b8d55731d95a)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4003,6 +4011,15 @@
 - [ ] [<code>docs: fix netdata-assistant.md (#20314)</code>](https://github.com/netdata/netdata.git/commit/35f81357746de5f930000349fe5e4ec3c6035a5e)
 - [ ] [<code>IIS W3SCV W3MP Metrics (windows.plugin) (#20245)</code>](https://github.com/netdata/netdata.git/commit/03455218ee908f3b4dc93e867605eb6c67dc3b99)
 - [ ] [<code>Regenerate integrations docs (#20315)</code>](https://github.com/netdata/netdata.git/commit/87c997d89973748f1e640e89ba9357ab8f198d02)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-69-nightly.</code>](https://github.com/netdata/netdata.git/commit/fddb1a0ef0346442b0e9a4c2342274b49e9a1faf)
+- [ ] [<code>Reduce memory allocations in event loops (#20306)</code>](https://github.com/netdata/netdata.git/commit/70c345729620ad5d7c4a68568b96c1a336dcf804)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Cisco yaml pass (#20291)</code>](https://github.com/netdata/netdata.git/commit/dcb28fb9f1c14338a74d235f76ebd7a4ad2e0686)
+- [ ] [<code>ci: ignore changes in src/go/otel-collector/release-config.yaml.in (#20222)</code>](https://github.com/netdata/netdata.git/commit/8e347d8be0200ab04b14bcb652e6092b9863e480)
+- [ ] [<code>build(deps): update otel dependencies version (#20319)</code>](https://github.com/netdata/netdata.git/commit/bb7b9a192d0ffbd1bd37fdc64771fbc2fdfb662e)
+- [ ] [<code>SNMP: _generic-if.yaml pass (#20317)</code>](https://github.com/netdata/netdata.git/commit/01c24017721310bea35a238bf786dc4e1912215d)
+- [ ] [<code>Update libbpf (#20316)</code>](https://github.com/netdata/netdata.git/commit/9421500d58ef3d864ab9d0653d88a676ebf14bb0)
+- [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.0.7 to 1.1.0 in /src/go (#20320)</code>](https://github.com/netdata/netdata.git/commit/3a8a376d3fa174a1171fbe17422d32b48eb47ecb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
