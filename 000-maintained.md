@@ -3916,6 +3916,7 @@
 - [ ] [<code>src/tests/oss-fuzz: pin meson to 1.7.2 to workaround build failures</code>](https://github.com/lxc/lxc/commit/bba0a0d6006f0ef627d38302a0ef79072907c466)
 - [ ] [<code>Revert "re-add onexec for apparmor, move label assumption until after container has been setup for attach"</code>](https://github.com/lxc/lxc/commit/d5beb15ae6a44d1b41388df81baf4ff00fae3963)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add loong64 to list of recognized architectures</code>](https://github.com/lxc/lxc/commit/ad0804e4107527487e79e0cfa946239ac1c5de02)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4060,6 +4061,8 @@
 - [ ] [<code>dont init dyncfg for vnode (#20324)</code>](https://github.com/netdata/netdata.git/commit/9c9e180f05316bccfd99f6bf417212b9e9819c77)
 - [ ] [<code>Cancel health initialization if shutdown has been requested (#20318)</code>](https://github.com/netdata/netdata.git/commit/6459420287588e5a92e3a72e5c15f694e806b3d1)
 - [ ] [<code>SOC 2 cloud doc update (#20325)</code>](https://github.com/netdata/netdata.git/commit/dc3627e6af8e1ab69556ac73955643fca5babffc)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-81-nightly.</code>](https://github.com/netdata/netdata.git/commit/786f740630e03bb01a2b28618b6c8d471c6e588f)
+- [ ] [<code>generic-udp.yaml pass (#20326)</code>](https://github.com/netdata/netdata.git/commit/e51f2bfae6ae42a4a5d7a1f9df6ba3bfdf598ee5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
