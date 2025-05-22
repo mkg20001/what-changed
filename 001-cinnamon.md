@@ -143,14 +143,8 @@
 
 - [ ] [<code>Fix render-mimetypes.py (#16)</code>](https://github.com/linuxmint/mint-l-icons/commit/a2d000a933d0ab4053d47650f1229fc6da8d2ae7)
 
-#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [1.9.9 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/1.9.9...HEAD)
+#### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
-- [ ] [<code>Define accent-color</code>](https://github.com/linuxmint/mint-l-theme/commit/543bde81c601eb951c70f521dc3f2042a7c42972)
-- [ ] [<code>Fix libAdw accent colors for Mint-L-Brown</code>](https://github.com/linuxmint/mint-l-theme/commit/6cf3e5e737c894c5dcf6d37349d9a5def8e50926)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add support for libAdwaita-1.5</code>](https://github.com/linuxmint/mint-l-theme/commit/8c37e6ebb270e1f5eca679c8b90a13db6c963f1a)
-- [ ] [<code>2.0.0</code>](https://github.com/linuxmint/mint-l-theme/commit/ea64118fd6d4e6c57b4d2a746707456d67078ef3)
-  - <sub>Tags: <code>2.0.0</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.3...HEAD)
 
@@ -251,15 +245,8 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.8 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.8...HEAD)
 
 
-#### [xapp](https://github.com/linuxmint/xapp): [2.8.8 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.8...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [2.8.9 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.9...HEAD)
 
-- [ ] [<code>xapp-favorites.c: Fix g-ir-scanner warning during build.</code>](https://github.com/linuxmint/xapp/commit/5f8ca8fb80f2a3e7e98b253f92f118a7c3b641fe)
-- [ ] [<code>debian/control: Clean up libgdk-pixbuf depends.</code>](https://github.com/linuxmint/xapp/commit/c58ecca4ab7d2da9186522168ade264ee36c4629)
-- [ ] [<code>Add xdg-desktop-portal accent-rgb setting. (#191)</code>](https://github.com/linuxmint/xapp/commit/75f25bbd60ad5b416cda13daf7d1c23d056619d3)
-- [ ] [<code>Revert "xapp-sn-watcher: Don't enable in MATE"</code>](https://github.com/linuxmint/xapp/commit/72cf195fadb5a5683e59ee4daa780fac604c883c)
-- [ ] [<code>2.8.9</code>](https://github.com/linuxmint/xapp/commit/aa7162e4d434a0a6abd19f1d862fcd4946571b14)
-  - <sub>Tags: <code>2.8.9</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
 
