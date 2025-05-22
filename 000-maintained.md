@@ -222,6 +222,8 @@
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/1772fc71df7225184530107c6c9d36cd28b36143)
 - [ ] [<code>refactor: Always use HtmlMessage</code>](https://github.com/krille-chan/fluffychat/commit/4739ea42fa983070752392adee8eea54365e2233)
 - [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
+- [ ] [<code>chore: Simplify voiceMessage getter</code>](https://github.com/krille-chan/fluffychat/commit/40cceb2176b4a1b1e3071252942a547997f31b06)
+- [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -291,6 +293,8 @@
 - [ ] [<code>chore: Follow up image viewer</code>](https://github.com/krille-chan/fluffychat/commit/1772fc71df7225184530107c6c9d36cd28b36143)
 - [ ] [<code>refactor: Always use HtmlMessage</code>](https://github.com/krille-chan/fluffychat/commit/4739ea42fa983070752392adee8eea54365e2233)
 - [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
+- [ ] [<code>chore: Simplify voiceMessage getter</code>](https://github.com/krille-chan/fluffychat/commit/40cceb2176b4a1b1e3071252942a547997f31b06)
+- [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -619,6 +623,10 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/df2dbf69db0c9e01bd5df773724e717ff039e5ec)
 - [ ] [<code>tests: Update godeps</code>](https://github.com/lxc/incus/commit/7b20a69be27c9765289ec443e3c2e35ade728ad1)
 - [ ] [<code>tests: Skip rootless-containers/proto/go-proto (Apache 2.0)</code>](https://github.com/lxc/incus/commit/175c48086bfe95b3517ae1878f8a5ae2cfd9a172)
+- [ ] [<code>internal/server/device: remove no-op rewriteHostAddr</code>](https://github.com/lxc/incus/commit/b232a709eaedb38bf241be019bc42d4ac5537770)
+- [ ] [<code>incusd/forkproxy: join the correct mntns for listen</code>](https://github.com/lxc/incus/commit/edd79a6d1c4ac3283b6816d795fe6d975e5af5e3)
+- [ ] [<code>tests: add tests for bind=container with proxy device</code>](https://github.com/lxc/incus/commit/8de0cde00a2798a74e3b498af96d6c5b6ef7f9c0)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3674,6 +3682,10 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/df2dbf69db0c9e01bd5df773724e717ff039e5ec)
 - [ ] [<code>tests: Update godeps</code>](https://github.com/lxc/incus/commit/7b20a69be27c9765289ec443e3c2e35ade728ad1)
 - [ ] [<code>tests: Skip rootless-containers/proto/go-proto (Apache 2.0)</code>](https://github.com/lxc/incus/commit/175c48086bfe95b3517ae1878f8a5ae2cfd9a172)
+- [ ] [<code>internal/server/device: remove no-op rewriteHostAddr</code>](https://github.com/lxc/incus/commit/b232a709eaedb38bf241be019bc42d4ac5537770)
+- [ ] [<code>incusd/forkproxy: join the correct mntns for listen</code>](https://github.com/lxc/incus/commit/edd79a6d1c4ac3283b6816d795fe6d975e5af5e3)
+- [ ] [<code>tests: add tests for bind=container with proxy device</code>](https://github.com/lxc/incus/commit/8de0cde00a2798a74e3b498af96d6c5b6ef7f9c0)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4063,6 +4075,10 @@
 - [ ] [<code>SOC 2 cloud doc update (#20325)</code>](https://github.com/netdata/netdata.git/commit/dc3627e6af8e1ab69556ac73955643fca5babffc)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-81-nightly.</code>](https://github.com/netdata/netdata.git/commit/786f740630e03bb01a2b28618b6c8d471c6e588f)
 - [ ] [<code>generic-udp.yaml pass (#20326)</code>](https://github.com/netdata/netdata.git/commit/e51f2bfae6ae42a4a5d7a1f9df6ba3bfdf598ee5)
+- [ ] [<code>generic-bgp4.yaml (#20328)</code>](https://github.com/netdata/netdata.git/commit/8f252bc127222ef7937cab874204db096067cdf0)
+- [ ] [<code>generic-ospf.yaml pass (#20327)</code>](https://github.com/netdata/netdata.git/commit/a68c8b478a95a5f4b3196d00315df43d9ee453ce)
+- [ ] [<code>Update alerting and notification documentation Agent (#20329)</code>](https://github.com/netdata/netdata.git/commit/ed4fe9cd517181707a1be8107dc452326846835e)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
