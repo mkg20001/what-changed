@@ -58,6 +58,7 @@
 - [ ] [<code>system-linux: fix sysfs name for all_ports_active flag</code>](https://git.openwrt.org/project/netifd.git/commit/e8bbf246ce2e134613d3b68477dcb955689408e4)
 - [ ] [<code>Restore disable_ipv6 sysctl after removing a device from bridge or bond</code>](https://git.openwrt.org/project/netifd.git/commit/723c699e84f4b0f4515928f0cc57a5be2a317ced)
 - [ ] [<code>iprule: resolve ipproto by name</code>](https://git.openwrt.org/project/netifd.git/commit/d476e18e8d430ddfe3ae1809ddeea035bbb9a998)
+- [ ] [<code>netifd: iprule add sport and dport</code>](https://git.openwrt.org/project/netifd.git/commit/7901e66c5f273bceee8981bc8a0c8b0e60945f60)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
