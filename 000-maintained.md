@@ -627,6 +627,55 @@
 - [ ] [<code>incusd/forkproxy: join the correct mntns for listen</code>](https://github.com/lxc/incus/commit/edd79a6d1c4ac3283b6816d795fe6d975e5af5e3)
 - [ ] [<code>tests: add tests for bind=container with proxy device</code>](https://github.com/lxc/incus/commit/8de0cde00a2798a74e3b498af96d6c5b6ef7f9c0)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>client: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/48a2cd3f22a8f1bec3e9fac7ded59e3c95838646)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/79075b3e4a39c906417a2bd4a4dd0af7d7ec8cba)
+- [ ] [<code>lxd-to-incus: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/4e895ed58e5d03bc4b8978952db7eb272e99c8af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-to-incus: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/6fa4fe1121b52d760633b746dd4acc792ea5f48f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/4ba4f280c576262749bc436b9c2c84c6a08f8b2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-config: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/e01ea4240841918aa846c762b76deb4c19ae2332)
+- [ ] [<code>generate-database: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/ef6520a0c52e86eb87386d28ac5c3695f18662ce)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>incus-agent: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/e0ab3773532b9f3828f0502644239704a32b3c30)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fuidshift: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/de4ff8f0d3bba3d01e3c0ada9d523731c8284f44)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-user: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/a738dd4c2c4eb8d9a036546b12aa000d8ac205d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-migrate: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/92748c73d562c28afd285ec98dcc44199be29f10)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/5e056f13ed4e5c253fef70599b1b3946f222576e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/validate: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/1990f8f822b7a6326cc100630dbe17a389afe83c)
+- [ ] [<code>shared/util: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/3a491eb67d15e9ce3e0db8ab6235ce8fe707af75)
+- [ ] [<code>shared/tls: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/303289ffe923d0803965e6cea2d18387b6be6155)
+- [ ] [<code>shared/tcp: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/d2b8862c47c10370896cdcf21d1f0ef3aa5cd48a)
+- [ ] [<code>shared/subprocess: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/aba6837ee4d4a8e51382882e5ccaacb57abe5547)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/simplestreams: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/e2737f2ec6de753939b71eda6329cc78b8a8c6e3)
+- [ ] [<code>shared/logger: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/518a09ad9f1f23d5da8344f243ddbb14188eddd1)
+- [ ] [<code>shared/ioprogress: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/991805d5ca2e0455e728ea2796ce731ac1687d5b)
+- [ ] [<code>shared/idmap: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/0bef06dc6abc150398dfd482572a8683f7c851eb)
+- [ ] [<code>shared/cliconfig: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/ed5778e5ef6028d887a751cfe665d6a98c5dc7a4)
+- [ ] [<code>shared/cancel: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/9ddfa4910ac5809948366115a95d208a20891ccd)
+- [ ] [<code>shared/ask: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/f1880c830ef707dfab0af2427344d22ea87c4552)
+- [ ] [<code>shared/archive: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/72b3baf3f729a4694aaa5b2990d622e5a309096c)
+- [ ] [<code>shared/api: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/fd503dd227c5d86d043dc7981b21494e621aeee3)
+- [ ] [<code>internal/util: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/70f140f7beb2cacdaa36cce755a7fc8fced80838)
+- [ ] [<code>internal/usbid: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/5f81bb2d8c27e239031d29593c866562bc7e9a85)
+- [ ] [<code>internal/rsync: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/403ca20bf98c6457df94f06c51360ce14334ca8a)
+- [ ] [<code>internal/netutils: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/ba322a52a8207960331a4bbff0e9771f31dbafef)
+- [ ] [<code>internal/migration: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/09d6491a54bab4c237e3bb5d1d1c4bc00a4aadba)
+- [ ] [<code>internal/linux: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/0464beb3f2ea63e00d2f75e1637770a1e131aa7c)
+- [ ] [<code>internal/instance: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/70a56ab91b54bee6060d0fbe2c7414e0954d484d)
+- [ ] [<code>internal/filter: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/7081c3aff1efbb00e929fa5611000bd1ef70b8bb)
+- [ ] [<code>internal/cmd: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/35fe3e4589333fd8caffc1a11ce0244405b23d89)
+- [ ] [<code>incusd: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/bf0b67dda23da45bcb58ba2a1265b1440fdced11)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Prompt for cluster target</code>](https://github.com/lxc/incus/commit/1acac6bb03f37100a9495b7d21c55d60930e1d93)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3686,6 +3735,55 @@
 - [ ] [<code>incusd/forkproxy: join the correct mntns for listen</code>](https://github.com/lxc/incus/commit/edd79a6d1c4ac3283b6816d795fe6d975e5af5e3)
 - [ ] [<code>tests: add tests for bind=container with proxy device</code>](https://github.com/lxc/incus/commit/8de0cde00a2798a74e3b498af96d6c5b6ef7f9c0)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>client: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/48a2cd3f22a8f1bec3e9fac7ded59e3c95838646)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>tests: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/79075b3e4a39c906417a2bd4a4dd0af7d7ec8cba)
+- [ ] [<code>lxd-to-incus: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/4e895ed58e5d03bc4b8978952db7eb272e99c8af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lxc-to-incus: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/6fa4fe1121b52d760633b746dd4acc792ea5f48f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/4ba4f280c576262749bc436b9c2c84c6a08f8b2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-config: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/e01ea4240841918aa846c762b76deb4c19ae2332)
+- [ ] [<code>generate-database: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/ef6520a0c52e86eb87386d28ac5c3695f18662ce)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>incus-agent: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/e0ab3773532b9f3828f0502644239704a32b3c30)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fuidshift: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/de4ff8f0d3bba3d01e3c0ada9d523731c8284f44)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-user: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/a738dd4c2c4eb8d9a036546b12aa000d8ac205d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-migrate: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/92748c73d562c28afd285ec98dcc44199be29f10)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/5e056f13ed4e5c253fef70599b1b3946f222576e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/validate: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/1990f8f822b7a6326cc100630dbe17a389afe83c)
+- [ ] [<code>shared/util: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/3a491eb67d15e9ce3e0db8ab6235ce8fe707af75)
+- [ ] [<code>shared/tls: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/303289ffe923d0803965e6cea2d18387b6be6155)
+- [ ] [<code>shared/tcp: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/d2b8862c47c10370896cdcf21d1f0ef3aa5cd48a)
+- [ ] [<code>shared/subprocess: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/aba6837ee4d4a8e51382882e5ccaacb57abe5547)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/simplestreams: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/e2737f2ec6de753939b71eda6329cc78b8a8c6e3)
+- [ ] [<code>shared/logger: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/518a09ad9f1f23d5da8344f243ddbb14188eddd1)
+- [ ] [<code>shared/ioprogress: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/991805d5ca2e0455e728ea2796ce731ac1687d5b)
+- [ ] [<code>shared/idmap: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/0bef06dc6abc150398dfd482572a8683f7c851eb)
+- [ ] [<code>shared/cliconfig: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/ed5778e5ef6028d887a751cfe665d6a98c5dc7a4)
+- [ ] [<code>shared/cancel: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/9ddfa4910ac5809948366115a95d208a20891ccd)
+- [ ] [<code>shared/ask: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/f1880c830ef707dfab0af2427344d22ea87c4552)
+- [ ] [<code>shared/archive: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/72b3baf3f729a4694aaa5b2990d622e5a309096c)
+- [ ] [<code>shared/api: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/fd503dd227c5d86d043dc7981b21494e621aeee3)
+- [ ] [<code>internal/util: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/70f140f7beb2cacdaa36cce755a7fc8fced80838)
+- [ ] [<code>internal/usbid: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/5f81bb2d8c27e239031d29593c866562bc7e9a85)
+- [ ] [<code>internal/rsync: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/403ca20bf98c6457df94f06c51360ce14334ca8a)
+- [ ] [<code>internal/netutils: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/ba322a52a8207960331a4bbff0e9771f31dbafef)
+- [ ] [<code>internal/migration: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/09d6491a54bab4c237e3bb5d1d1c4bc00a4aadba)
+- [ ] [<code>internal/linux: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/0464beb3f2ea63e00d2f75e1637770a1e131aa7c)
+- [ ] [<code>internal/instance: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/70a56ab91b54bee6060d0fbe2c7414e0954d484d)
+- [ ] [<code>internal/filter: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/7081c3aff1efbb00e929fa5611000bd1ef70b8bb)
+- [ ] [<code>internal/cmd: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/35fe3e4589333fd8caffc1a11ce0244405b23d89)
+- [ ] [<code>incusd: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/bf0b67dda23da45bcb58ba2a1265b1440fdced11)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Prompt for cluster target</code>](https://github.com/lxc/incus/commit/1acac6bb03f37100a9495b7d21c55d60930e1d93)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4079,6 +4177,8 @@
 - [ ] [<code>generic-ospf.yaml pass (#20327)</code>](https://github.com/netdata/netdata.git/commit/a68c8b478a95a5f4b3196d00315df43d9ee453ce)
 - [ ] [<code>Update alerting and notification documentation Agent (#20329)</code>](https://github.com/netdata/netdata.git/commit/ed4fe9cd517181707a1be8107dc452326846835e)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-86-nightly.</code>](https://github.com/netdata/netdata.git/commit/6344a94deff503df896cc3fba473c4bb6234cdeb)
+- [ ] [<code>Update SCIM documentation (#20330)</code>](https://github.com/netdata/netdata.git/commit/93b29b0c979bc9da497242d29531f57ebacc623b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
