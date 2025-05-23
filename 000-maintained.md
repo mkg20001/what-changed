@@ -4179,6 +4179,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-86-nightly.</code>](https://github.com/netdata/netdata.git/commit/6344a94deff503df896cc3fba473c4bb6234cdeb)
 - [ ] [<code>Update SCIM documentation (#20330)</code>](https://github.com/netdata/netdata.git/commit/93b29b0c979bc9da497242d29531f57ebacc623b)
+- [ ] [<code>Regenerate integrations docs (#20332)</code>](https://github.com/netdata/netdata.git/commit/97010336e29cf0a60cc00d3b3c2b7a6f70411a8d)
+- [ ] [<code>Code cleanup and improvements (#20323)</code>](https://github.com/netdata/netdata.git/commit/ac1aa30b37c28273027a594c2fd8e27f63217300)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
