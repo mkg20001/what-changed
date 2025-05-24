@@ -248,15 +248,8 @@
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.9 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.9...HEAD)
 
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.0 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.0...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.1 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.1...HEAD)
 
-- [ ] [<code>debian/control: Use correct package to get systemd .pc file.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/02db7624913967d49e7682fe76350b65845aece8)
-- [ ] [<code>settings.c: Implement accent-color setting. (#23)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5b3064db294a3522b0df4cad08c9f79ee2bc9a09)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>1.1.1</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/043bb2d4b63f69cddb0cd413cb32aad19acea7b3)
-  - <sub>Tags: <code>1.1.1</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>settings.c: Fix ACCENT_COLOR_DEF.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/326aadd4972d62a3ebccb93ad5c028977ce4ac95)
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.6 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.6...HEAD)
