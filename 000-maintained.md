@@ -676,6 +676,19 @@
 - [ ] [<code>incusd: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/bf0b67dda23da45bcb58ba2a1265b1440fdced11)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus-migrate: Prompt for cluster target</code>](https://github.com/lxc/incus/commit/1acac6bb03f37100a9495b7d21c55d60930e1d93)
+- [ ] [<code>incus/instance/qmp: Implement our own QMP client</code>](https://github.com/lxc/incus/commit/4991cfef48e48192dccb3678289e38b2d94c16aa)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qmp: Add tests for in-house QMP</code>](https://github.com/lxc/incus/commit/1d53e5a2e102ef547ab6622902e7f8e225378e79)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp: Switch to our own QMP client</code>](https://github.com/lxc/incus/commit/128285974612e3cdbd12bb4d68bd3778d4d41772)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1a855bd7f37986b747290ad88ce28dc385f99fc7)
+- [ ] [<code>incusd/instance/qmp: Don't export internal QMP implementation</code>](https://github.com/lxc/incus/commit/168b401bf2819ddf9dd99e40785031d5c01164df)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Make sure limits.memory <= root.size.state</code>](https://github.com/lxc/incus/commit/3036acce5c21ae1cd25703f2827e26c3e547c421)
+- [ ] [<code>incusd/instance/qmp: if else if to switch case</code>](https://github.com/lxc/incus/commit/0eb52686c06eade8a04c192c57ba01923225a940)
+- [ ] [<code>incusd/instance/qmp: Remove weird qemu qmp bug handling</code>](https://github.com/lxc/incus/commit/5ae916b395bfc1b2850238d3f3f161c73b18fa2e)
+- [ ] [<code>incusd/instance/qmp: Refactor qmpWriteMsg</code>](https://github.com/lxc/incus/commit/61038a587a1185f918e7c179c30f480f53bbac9e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3784,6 +3797,19 @@
 - [ ] [<code>incusd: Don't needlessly use format string functions</code>](https://github.com/lxc/incus/commit/bf0b67dda23da45bcb58ba2a1265b1440fdced11)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus-migrate: Prompt for cluster target</code>](https://github.com/lxc/incus/commit/1acac6bb03f37100a9495b7d21c55d60930e1d93)
+- [ ] [<code>incus/instance/qmp: Implement our own QMP client</code>](https://github.com/lxc/incus/commit/4991cfef48e48192dccb3678289e38b2d94c16aa)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qmp: Add tests for in-house QMP</code>](https://github.com/lxc/incus/commit/1d53e5a2e102ef547ab6622902e7f8e225378e79)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp: Switch to our own QMP client</code>](https://github.com/lxc/incus/commit/128285974612e3cdbd12bb4d68bd3778d4d41772)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/1a855bd7f37986b747290ad88ce28dc385f99fc7)
+- [ ] [<code>incusd/instance/qmp: Don't export internal QMP implementation</code>](https://github.com/lxc/incus/commit/168b401bf2819ddf9dd99e40785031d5c01164df)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Make sure limits.memory <= root.size.state</code>](https://github.com/lxc/incus/commit/3036acce5c21ae1cd25703f2827e26c3e547c421)
+- [ ] [<code>incusd/instance/qmp: if else if to switch case</code>](https://github.com/lxc/incus/commit/0eb52686c06eade8a04c192c57ba01923225a940)
+- [ ] [<code>incusd/instance/qmp: Remove weird qemu qmp bug handling</code>](https://github.com/lxc/incus/commit/5ae916b395bfc1b2850238d3f3f161c73b18fa2e)
+- [ ] [<code>incusd/instance/qmp: Refactor qmpWriteMsg</code>](https://github.com/lxc/incus/commit/61038a587a1185f918e7c179c30f480f53bbac9e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4181,6 +4207,7 @@
 - [ ] [<code>Update SCIM documentation (#20330)</code>](https://github.com/netdata/netdata.git/commit/93b29b0c979bc9da497242d29531f57ebacc623b)
 - [ ] [<code>Regenerate integrations docs (#20332)</code>](https://github.com/netdata/netdata.git/commit/97010336e29cf0a60cc00d3b3c2b7a6f70411a8d)
 - [ ] [<code>Code cleanup and improvements (#20323)</code>](https://github.com/netdata/netdata.git/commit/ac1aa30b37c28273027a594c2fd8e27f63217300)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-90-nightly.</code>](https://github.com/netdata/netdata.git/commit/448deaf187df99f129af8ad2025047838a9dbdbc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
