@@ -64,6 +64,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Ensure Cinnamon is part of the (#12887)</code>](https://github.com/linuxmint/cinnamon/commit/a5c98a271250b13a0333fd347a14356c4d0d6d67)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>cinnamon-slideshow.py: Stop using python dbus.</code>](https://github.com/linuxmint/cinnamon/commit/15b57237ea2ed40f547df7def57ac3f10d568b5a)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>build: Restore dbus build dependency.</code>](https://github.com/linuxmint/cinnamon/commit/f1fff1d108e4e0fbf571d5d4834255d91d401d7e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
