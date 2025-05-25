@@ -224,6 +224,8 @@
 - [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
 - [ ] [<code>chore: Simplify voiceMessage getter</code>](https://github.com/krille-chan/fluffychat/commit/40cceb2176b4a1b1e3071252942a547997f31b06)
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
+- [ ] [<code>fix: App crashes on window resize in chat</code>](https://github.com/krille-chan/fluffychat/commit/a5ceab58d3f43602bf5b8b6a46246a7e93fea324)
+- [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -295,6 +297,8 @@
 - [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
 - [ ] [<code>chore: Simplify voiceMessage getter</code>](https://github.com/krille-chan/fluffychat/commit/40cceb2176b4a1b1e3071252942a547997f31b06)
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
+- [ ] [<code>fix: App crashes on window resize in chat</code>](https://github.com/krille-chan/fluffychat/commit/a5ceab58d3f43602bf5b8b6a46246a7e93fea324)
+- [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4208,6 +4212,9 @@
 - [ ] [<code>Regenerate integrations docs (#20332)</code>](https://github.com/netdata/netdata.git/commit/97010336e29cf0a60cc00d3b3c2b7a6f70411a8d)
 - [ ] [<code>Code cleanup and improvements (#20323)</code>](https://github.com/netdata/netdata.git/commit/ac1aa30b37c28273027a594c2fd8e27f63217300)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-90-nightly.</code>](https://github.com/netdata/netdata.git/commit/448deaf187df99f129af8ad2025047838a9dbdbc)
+- [ ] [<code>Alerts cloud (#20334)</code>](https://github.com/netdata/netdata.git/commit/20d9532b588fe2554b249a2c8f4b605d3612eef9)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>_generic-ip.yaml (#20331)</code>](https://github.com/netdata/netdata.git/commit/fd50e42e56d8392976f5d13e11cf045f13997717)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
