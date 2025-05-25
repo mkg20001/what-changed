@@ -152,38 +152,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.3 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.3...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.6...HEAD)
 
-- [ ] [<code>Gtk: Remove tint</code>](https://github.com/linuxmint/mint-themes/commit/3509ac1ece699a932b0540fa09da2598b08f3ce3)
-- [ ] [<code>Gtk: Simplify variant differences and switch to EBEBED</code>](https://github.com/linuxmint/mint-themes/commit/9209e364fc69427684c0db56dcddc404782534fd)
-- [ ] [<code>Xfwm: Switch to EBEBED</code>](https://github.com/linuxmint/mint-themes/commit/daf52cebb6ea78217235143514e9e8660a5cd3e4)
-- [ ] [<code>Gtk2: Switch to EBEBED</code>](https://github.com/linuxmint/mint-themes/commit/9b774dd63cf3add0300714d96fdf8eb724507844)
-- [ ] [<code>Cinnamon: Simplify SASS</code>](https://github.com/linuxmint/mint-themes/commit/4e128b2f24f971df9ee53cf28ac350d8a0411ce0)
-- [ ] [<code>Adapt dark variant</code>](https://github.com/linuxmint/mint-themes/commit/8c4a7d82304bae245902142c1755a5ab96fdcbcd)
-- [ ] [<code>Cinnamon: Fix GWL selected bg</code>](https://github.com/linuxmint/mint-themes/commit/9755cfc0a4dc9645d3a02aec5ca47a86a930ff2b)
-- [ ] [<code>Dark: Adapt wm buttons/titles</code>](https://github.com/linuxmint/mint-themes/commit/3bb0b1bf30af57ab0a728f91bdee112f3e5b09f5)
-- [ ] [<code>Light: Adapt wm buttons/titles</code>](https://github.com/linuxmint/mint-themes/commit/09b061efa65d37bfe13a71875269f8d58fc3f7b3)
-- [ ] [<code>Xfwm: Adapt dark and buttons</code>](https://github.com/linuxmint/mint-themes/commit/4addbbdcda5298b1dce875e31f7c1acb0b4635fb)
-- [ ] [<code>GTK2: Adapt dark variant</code>](https://github.com/linuxmint/mint-themes/commit/6c8f4a0b4a708d5fb99d8b1fdaf8a0122eedc06d)
-- [ ] [<code>Regenerate CSS</code>](https://github.com/linuxmint/mint-themes/commit/7491ac880958d0456db8cfd4c4301bbbe2e7d631)
-- [ ] [<code>Update flatpak script and runtime.</code>](https://github.com/linuxmint/mint-themes/commit/1442a00a715e9c51da2f01d6772e13a6b8d56eed)
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
-- [ ] [<code>Define accent-color (#497)</code>](https://github.com/linuxmint/mint-themes/commit/6996d0d81dd1f8313863973e51ab70b3cf90cdc4)
-- [ ] [<code>Add libadwaita stylesheet</code>](https://github.com/linuxmint/mint-themes/commit/e88b5a778ffb5b1050444beb3d3b7da9a86ea603)
-- [ ] [<code>libAdwaita: Apply theme colors</code>](https://github.com/linuxmint/mint-themes/commit/68ba09972913d8fbdd591b6325f663d757fe1aae)
-- [ ] [<code>libAdwaita: Override window controls styling</code>](https://github.com/linuxmint/mint-themes/commit/9750bcce2e9a1fd28f3fc55dfe659409afd1b2e5)
-- [ ] [<code>libAdwaita: Fine tune colors</code>](https://github.com/linuxmint/mint-themes/commit/d89ff0215f69086005d1d233ce12a7a014d563e0)
-- [ ] [<code>Move libAdwaita to versioned directory</code>](https://github.com/linuxmint/mint-themes/commit/3c6164d62249148b46b81f09693188f891ff9228)
-- [ ] [<code>Openbox Themes (#502)</code>](https://github.com/linuxmint/mint-themes/commit/b85e27c58d11fd20a9cf2d4d3ac7be78d7604183)
-- [ ] [<code>Bump version to matching lib version</code>](https://github.com/linuxmint/mint-themes/commit/d7cbb5406dda6db353e2ba218b6f983967267010)
-- [ ] [<code>2.2.4</code>](https://github.com/linuxmint/mint-themes/commit/5bf6eb309bbf7373ae765404989cbd3d98693929)
-- [ ] [<code>Mint-X: Add support for cinnamon 6.4 (#487)</code>](https://github.com/linuxmint/mint-themes/commit/c4107a0c6c8085cbe70321a6f40f5649d9f5a59d)
-- [ ] [<code>Xfwm4: Add missing files</code>](https://github.com/linuxmint/mint-themes/commit/f294f0ec8e9696f00ceca5095703f0ace8a6f703)
-- [ ] [<code>2.2.5</code>](https://github.com/linuxmint/mint-themes/commit/314fc0d3a624224acc7090a5505bf54b1caa3f86)
-- [ ] [<code>Fix libAdw accent colors for Mint-X, Mint-X-Brown and Mint-Y-Sand.</code>](https://github.com/linuxmint/mint-themes/commit/92dac041e03a9562c3229e494d32b73344c7ac96)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>2.2.6</code>](https://github.com/linuxmint/mint-themes/commit/8254aebe0a737b641c1906f6c93678e80fa9fcf9)
-  - <sub>Tags: <code>2.2.6</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
