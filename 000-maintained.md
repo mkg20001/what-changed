@@ -17,7 +17,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.4/dbeaver-ce-25.0.4-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.4/dbeaver-ce-25.0.4-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.5/dbeaver-ce-25.0.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.5/dbeaver-ce-25.0.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -4215,6 +4215,9 @@
 - [ ] [<code>Alerts cloud (#20334)</code>](https://github.com/netdata/netdata.git/commit/20d9532b588fe2554b249a2c8f4b605d3612eef9)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>_generic-ip.yaml (#20331)</code>](https://github.com/netdata/netdata.git/commit/fd50e42e56d8392976f5d13e11cf045f13997717)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-93-nightly.</code>](https://github.com/netdata/netdata.git/commit/498f43f50549cea4fef6edeac72d0501ac0225a4)
+- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.50.0 to 0.51.0 in /src/go (#20341)</code>](https://github.com/netdata/netdata.git/commit/da4e8e980a0fe9af5714b895a5d2310cb79576f9)
+- [ ] [<code>SNMP: _generic-lldp.yaml (#20342)</code>](https://github.com/netdata/netdata.git/commit/18a15c094cf3c475740c931c9ae6e98007a82ec9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
