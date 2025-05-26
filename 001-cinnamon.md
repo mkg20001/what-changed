@@ -70,12 +70,19 @@
 - [ ] [<code>build: Restore dbus build dependency.</code>](https://github.com/linuxmint/cinnamon/commit/f1fff1d108e4e0fbf571d5d4834255d91d401d7e)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>cornerbar applet: (#12722)</code>](https://github.com/linuxmint/cinnamon/commit/d92e1b27216a63f1a96f68f0664830670518f7ce)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Have alt+tab show windows from the current monitor only (#12665)</code>](https://github.com/linuxmint/cinnamon/commit/e5784ace5f8342ef80b8dff375f0d3f1180c4c2b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Calender: Fix issue with with custom tooltip not updating seconds. (#12786)</code>](https://github.com/linuxmint/cinnamon/commit/c45b89a326286eff6fdbfb7a32b751c35eadb3f5)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
 - [ ] [<code>debian/control: Update dependencies.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/d20aa769b259b4359ab446f682678e279cacc42b)
 - [ ] [<code>wacom: Make 'no support' icon and text look similar to other pages</code>](https://github.com/linuxmint/cinnamon-control-center/commit/9d42f73130f86ea38ea28f201f2efe2f8f0bfd9c)
 - [ ] [<code>wacom: Don't use bold for secondary text in detection messages.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/a1e9158b56e4654613a8cdee57f4ee231be0382b)
+- [ ] [<code>Fixed Segmentation fault that sometimes occurs when starting a hotspot. (#351)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/4f4601bd8b84b4c21022e0daffbc303c90c05b9c)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/6.4.1...HEAD)
@@ -104,6 +111,7 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/6.4.0...HEAD)
 
 - [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
+- [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
@@ -148,6 +156,10 @@
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [b442277c822c92f7bb68282cb82c7d1a98e3fd37 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/b442277c822c92f7bb68282cb82c7d1a98e3fd37...HEAD)
 
 - [ ] [<code>Fix render-mimetypes.py (#16)</code>](https://github.com/linuxmint/mint-l-icons/commit/a2d000a933d0ab4053d47650f1229fc6da8d2ae7)
+- [ ] [<code>Add emblems for links and broken links. (#17)</code>](https://github.com/linuxmint/mint-l-icons/commit/204360f94c304e6157f953e374ff38e83f17f52f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add new icon name for typhoon (#18)</code>](https://github.com/linuxmint/mint-l-icons/commit/b02d09d52fda33d871d027c474fa3e5379b3ea14)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
@@ -166,6 +178,14 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Sober icon (#455)</code>](https://github.com/linuxmint/mint-y-icons/commit/d0fefd99e2eed9ece329889008f5ba0b2ca8690a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Pleroma icon (#461)</code>](https://github.com/linuxmint/mint-y-icons/commit/fd3f9dd76da40706e6ff6b1e607ac7dd16432f38)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Pixiv icon (#459)</code>](https://github.com/linuxmint/mint-y-icons/commit/dffd76494385538aec32f19e14b42fd328d4d95f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add missing links for Telegram and Wine Help (#460)</code>](https://github.com/linuxmint/mint-y-icons/commit/a87b4faacaf255b18aca98ed6049e20d31f91143)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>add new icon name for typhoon (#467)</code>](https://github.com/linuxmint/mint-y-icons/commit/2c4d3f49fc375950342ca7ac3bfa20199c062b86)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -175,7 +195,9 @@
 - [ ] [<code>meson: fix some implicit ordering dependencies on generated headers (#716)</code>](https://github.com/linuxmint/muffin/commit/604e0b50280a6a82ead1d8a13954778287b93e25)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>window.c: update saved_rect to target monitor work area on tiling (#714)</code>](https://github.com/linuxmint/muffin/commit/051b8d20e8f958c85af83a79f5883446749c2709)
+- [ ] [<code>disable assert for gi scanner (#720)</code>](https://github.com/linuxmint/muffin/commit/9bac60b775230a8656dc0b1584d334f2063b32ce)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+- [ ] [<code>use non-deprecated g_spawn_check_wait_status (#721)</code>](https://github.com/linuxmint/muffin/commit/4e4f74ca29004350a5b79661894fad073a2e0b6c)
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
