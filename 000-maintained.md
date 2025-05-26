@@ -4218,6 +4218,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-93-nightly.</code>](https://github.com/netdata/netdata.git/commit/498f43f50549cea4fef6edeac72d0501ac0225a4)
 - [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.50.0 to 0.51.0 in /src/go (#20341)</code>](https://github.com/netdata/netdata.git/commit/da4e8e980a0fe9af5714b895a5d2310cb79576f9)
 - [ ] [<code>SNMP: _generic-lldp.yaml (#20342)</code>](https://github.com/netdata/netdata.git/commit/18a15c094cf3c475740c931c9ae6e98007a82ec9)
+- [ ] [<code>Switch back to epoll from poll (#20337)</code>](https://github.com/netdata/netdata.git/commit/f5162cd77240a5b760b97f67dcdf5dce863abed7)
+- [ ] [<code>fix(go.d/dyncfg): fix duplicate potential "name" in userconfig action (#20346)</code>](https://github.com/netdata/netdata.git/commit/66559f80bc06a7ae135b478878be1aef6616cee0)
+- [ ] [<code>improvement(go.d/sd): better prometheus exporters detection (#20348)</code>](https://github.com/netdata/netdata.git/commit/83216507e8a685da457971e77b0ed59b9d16f6c6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
