@@ -2,8 +2,12 @@
 #### [bulky](https://github.com/linuxmint/bulky): [3.6 → HEAD](https://github.com/linuxmint/bulky/compare/3.6...HEAD)
 
 - [ ] [<code>debian/control: Add missing dependency.</code>](https://github.com/linuxmint/bulky/commit/0988dd45b54664acce2d83320da0104d79d7d126)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>change numbering filenames (#67)</code>](https://github.com/linuxmint/bulky/commit/6f2fa9356262fbaf22dff8cc562a59a471156584)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Remember the last operation type and filename scope.</code>](https://github.com/linuxmint/bulky/commit/9aae33ac8275106d10014bf1c30a2acd41fdc66a)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.7...HEAD)
 
@@ -185,6 +189,8 @@
 - [ ] [<code>Add missing links for Telegram and Wine Help (#460)</code>](https://github.com/linuxmint/mint-y-icons/commit/a87b4faacaf255b18aca98ed6049e20d31f91143)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>add new icon name for typhoon (#467)</code>](https://github.com/linuxmint/mint-y-icons/commit/2c4d3f49fc375950342ca7ac3bfa20199c062b86)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>update ktorrent (#472)</code>](https://github.com/linuxmint/mint-y-icons/commit/1932f53f8375d5b4bd82bb86e231df135c4accf0)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
