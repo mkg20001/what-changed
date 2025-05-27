@@ -226,6 +226,8 @@
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
 - [ ] [<code>fix: App crashes on window resize in chat</code>](https://github.com/krille-chan/fluffychat/commit/a5ceab58d3f43602bf5b8b6a46246a7e93fea324)
 - [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
+- [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
+- [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -299,6 +301,8 @@
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
 - [ ] [<code>fix: App crashes on window resize in chat</code>](https://github.com/krille-chan/fluffychat/commit/a5ceab58d3f43602bf5b8b6a46246a7e93fea324)
 - [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
+- [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
+- [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -693,6 +697,21 @@
 - [ ] [<code>incusd/instance/qmp: Remove weird qemu qmp bug handling</code>](https://github.com/lxc/incus/commit/5ae916b395bfc1b2850238d3f3f161c73b18fa2e)
 - [ ] [<code>incusd/instance/qmp: Refactor qmpWriteMsg</code>](https://github.com/lxc/incus/commit/61038a587a1185f918e7c179c30f480f53bbac9e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: network_ovn_external_nic_address</code>](https://github.com/lxc/incus/commit/cd8f29d6b780f80aa8ccc2b91189393d8e278612)
+- [ ] [<code>incusd/device/nic_ovn: Added the two new nic options</code>](https://github.com/lxc/incus/commit/6732f22b037fcd4d67219d35d38889da8e13d93c)
+- [ ] [<code>incusd/network/ovn: Add support for applying external address</code>](https://github.com/lxc/incus/commit/e191036c571e19315eaf28971c68f0415115b43b)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/8f6d9f1883a4ff4fcbf3d479f912f8bb22b61576)
+- [ ] [<code>incusd/db/cluster: Update generated files</code>](https://github.com/lxc/incus/commit/a5c0c72520bfada7b0451bc9c5adb104a602caf1)
+- [ ] [<code>api: network_physical_gateway_hwaddr</code>](https://github.com/lxc/incus/commit/5112056a82da1a41c3ad0b6de8dfda20350cff2a)
+- [ ] [<code>incusd/network/ovn: Bump base schema to 23.03.0</code>](https://github.com/lxc/incus/commit/f303c5f2cb6e59da075666f408f60510a6a77b99)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/network/physical: Add gateway hwaddr config</code>](https://github.com/lxc/incus/commit/0dfcd733689382b5fb7369254224c00a4d7cec9e)
+- [ ] [<code>incusd/network/ovn: Add StaticBinding functions</code>](https://github.com/lxc/incus/commit/1ecc0c0a1308bc68c300cad6bce24c6a6223c3c4)
+- [ ] [<code>incusd/network/ovn: Add support for static MAC binding</code>](https://github.com/lxc/incus/commit/bef1218fbf20c3e9b2389d38c5b5955e46b45091)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/41480aebcf97b422bd4c483a5e22479f7b870a50)
+- [ ] [<code>typo: mountabble -> mountable</code>](https://github.com/lxc/incus/commit/4c7c80b4dedac8e692f88c6a70ba92f6bf2ebea2)
+- [ ] [<code>typo: DIsk -> Disk</code>](https://github.com/lxc/incus/commit/2cecb8ed5b86abab22a6ffd7eba09c416411dd05)
+- [ ] [<code>typo: mount -> unmount</code>](https://github.com/lxc/incus/commit/769a56605e6b357db0fbbc4ba6367b6c3a48b853)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3814,6 +3833,21 @@
 - [ ] [<code>incusd/instance/qmp: Remove weird qemu qmp bug handling</code>](https://github.com/lxc/incus/commit/5ae916b395bfc1b2850238d3f3f161c73b18fa2e)
 - [ ] [<code>incusd/instance/qmp: Refactor qmpWriteMsg</code>](https://github.com/lxc/incus/commit/61038a587a1185f918e7c179c30f480f53bbac9e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>api: network_ovn_external_nic_address</code>](https://github.com/lxc/incus/commit/cd8f29d6b780f80aa8ccc2b91189393d8e278612)
+- [ ] [<code>incusd/device/nic_ovn: Added the two new nic options</code>](https://github.com/lxc/incus/commit/6732f22b037fcd4d67219d35d38889da8e13d93c)
+- [ ] [<code>incusd/network/ovn: Add support for applying external address</code>](https://github.com/lxc/incus/commit/e191036c571e19315eaf28971c68f0415115b43b)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/8f6d9f1883a4ff4fcbf3d479f912f8bb22b61576)
+- [ ] [<code>incusd/db/cluster: Update generated files</code>](https://github.com/lxc/incus/commit/a5c0c72520bfada7b0451bc9c5adb104a602caf1)
+- [ ] [<code>api: network_physical_gateway_hwaddr</code>](https://github.com/lxc/incus/commit/5112056a82da1a41c3ad0b6de8dfda20350cff2a)
+- [ ] [<code>incusd/network/ovn: Bump base schema to 23.03.0</code>](https://github.com/lxc/incus/commit/f303c5f2cb6e59da075666f408f60510a6a77b99)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>incusd/network/physical: Add gateway hwaddr config</code>](https://github.com/lxc/incus/commit/0dfcd733689382b5fb7369254224c00a4d7cec9e)
+- [ ] [<code>incusd/network/ovn: Add StaticBinding functions</code>](https://github.com/lxc/incus/commit/1ecc0c0a1308bc68c300cad6bce24c6a6223c3c4)
+- [ ] [<code>incusd/network/ovn: Add support for static MAC binding</code>](https://github.com/lxc/incus/commit/bef1218fbf20c3e9b2389d38c5b5955e46b45091)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/41480aebcf97b422bd4c483a5e22479f7b870a50)
+- [ ] [<code>typo: mountabble -> mountable</code>](https://github.com/lxc/incus/commit/4c7c80b4dedac8e692f88c6a70ba92f6bf2ebea2)
+- [ ] [<code>typo: DIsk -> Disk</code>](https://github.com/lxc/incus/commit/2cecb8ed5b86abab22a6ffd7eba09c416411dd05)
+- [ ] [<code>typo: mount -> unmount</code>](https://github.com/lxc/incus/commit/769a56605e6b357db0fbbc4ba6367b6c3a48b853)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4221,6 +4255,12 @@
 - [ ] [<code>Switch back to epoll from poll (#20337)</code>](https://github.com/netdata/netdata.git/commit/f5162cd77240a5b760b97f67dcdf5dce863abed7)
 - [ ] [<code>fix(go.d/dyncfg): fix duplicate potential "name" in userconfig action (#20346)</code>](https://github.com/netdata/netdata.git/commit/66559f80bc06a7ae135b478878be1aef6616cee0)
 - [ ] [<code>improvement(go.d/sd): better prometheus exporters detection (#20348)</code>](https://github.com/netdata/netdata.git/commit/83216507e8a685da457971e77b0ed59b9d16f6c6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-99-nightly.</code>](https://github.com/netdata/netdata.git/commit/015f08ffc6fb4b1184033bc04902f221921949ee)
+- [ ] [<code>SNMP: _generic-rtp.yaml (#20343)</code>](https://github.com/netdata/netdata.git/commit/2fbeaeb8f92bc25f0d1afe92abfc4197bf20c6e4)
+- [ ] [<code>SNMP: _generic-sip.yaml (#20344)</code>](https://github.com/netdata/netdata.git/commit/0add64f95b4ea30385c5b021703ffcc3a6b67980)
+- [ ] [<code>SNMP: _generic-ucd.yaml (#20349)</code>](https://github.com/netdata/netdata.git/commit/2d91bb0a72657ce138d1e550e03484622d7cd2b4)
+- [ ] [<code>build(deps): update otel dependencies version (#20352)</code>](https://github.com/netdata/netdata.git/commit/cade6d92c77225125103f39658544c14c795d227)
+- [ ] [<code>add installing flex to install-required-packages.sh (#20322)</code>](https://github.com/netdata/netdata.git/commit/8373222bb80a36afd704bd2159d9c30ef9681f56)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
