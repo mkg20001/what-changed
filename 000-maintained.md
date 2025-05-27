@@ -712,6 +712,8 @@
 - [ ] [<code>typo: mountabble -> mountable</code>](https://github.com/lxc/incus/commit/4c7c80b4dedac8e692f88c6a70ba92f6bf2ebea2)
 - [ ] [<code>typo: DIsk -> Disk</code>](https://github.com/lxc/incus/commit/2cecb8ed5b86abab22a6ffd7eba09c416411dd05)
 - [ ] [<code>typo: mount -> unmount</code>](https://github.com/lxc/incus/commit/769a56605e6b357db0fbbc4ba6367b6c3a48b853)
+- [ ] [<code>incusd/storage: fix squashfs unpacking to NFS destinations</code>](https://github.com/lxc/incus/commit/4746333e061c771e065f812f58bf750d47447240)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3848,6 +3850,8 @@
 - [ ] [<code>typo: mountabble -> mountable</code>](https://github.com/lxc/incus/commit/4c7c80b4dedac8e692f88c6a70ba92f6bf2ebea2)
 - [ ] [<code>typo: DIsk -> Disk</code>](https://github.com/lxc/incus/commit/2cecb8ed5b86abab22a6ffd7eba09c416411dd05)
 - [ ] [<code>typo: mount -> unmount</code>](https://github.com/lxc/incus/commit/769a56605e6b357db0fbbc4ba6367b6c3a48b853)
+- [ ] [<code>incusd/storage: fix squashfs unpacking to NFS destinations</code>](https://github.com/lxc/incus/commit/4746333e061c771e065f812f58bf750d47447240)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4141,7 +4145,7 @@
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [netdata](https://github.com/netdata/netdata.git): [v2.5.1 → HEAD](https://github.com/netdata/netdata.git/compare/v2.5.1...HEAD)
+#### [netdata](https://github.com/netdata/netdata.git): [v2.5.2 → HEAD](https://github.com/netdata/netdata.git/compare/v2.5.2...HEAD)
 
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-1-nightly.</code>](https://github.com/netdata/netdata.git/commit/531ad0f7048ecdecac4a5847f081e8402000821c)
 - [ ] [<code>Revert "Revert "fix(go.d/couchdb): correct db size charts unit"" (#20235)</code>](https://github.com/netdata/netdata.git/commit/fc7efb9c3f4e482f2defb310e1aaf8bc4989e78d)
@@ -4261,6 +4265,7 @@
 - [ ] [<code>SNMP: _generic-ucd.yaml (#20349)</code>](https://github.com/netdata/netdata.git/commit/2d91bb0a72657ce138d1e550e03484622d7cd2b4)
 - [ ] [<code>build(deps): update otel dependencies version (#20352)</code>](https://github.com/netdata/netdata.git/commit/cade6d92c77225125103f39658544c14c795d227)
 - [ ] [<code>add installing flex to install-required-packages.sh (#20322)</code>](https://github.com/netdata/netdata.git/commit/8373222bb80a36afd704bd2159d9c30ef9681f56)
+- [ ] [<code>feat(go.d/dyncfg): add autodetect_retry to dyncfg jobs (#20357)</code>](https://github.com/netdata/netdata.git/commit/2897d1a135e1eb5068d3e377f96c17df982972ec)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
