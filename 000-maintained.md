@@ -597,6 +597,7 @@
 - [ ] [<code>incusd/main_forknet: Don't touch resolv.conf when no leases</code>](https://github.com/lxc/incus/commit/59f2c354747b07e84b4df6fc084aef4a7178f6ec)
 - [ ] [<code>incusd/storage/ceph: Fix typo in parseParent</code>](https://github.com/lxc/incus/commit/8520c07c8e5e241ae1faa16162ba14dd24313e7c)
 - [ ] [<code>tests: Switch clustering test subnet</code>](https://github.com/lxc/incus/commit/4fff11cc45dae2a88baea0a87d8164ae163c95c2)
+- [ ] [<code>incusd/storage/linstor: Prevent mounting unreachable pools</code>](https://github.com/lxc/incus/commit/e170b1f60efce966c854d3d18930dcab64fb5810)
 - [ ] [<code>incusd: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/d2741f464e294a5787cb916c71db928956601f2b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>internal/util: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/a66323ed95b4f6bc8d86152914add74055596579)
@@ -728,6 +729,8 @@
 - [ ] [<code>internal/instance: Add RTC volatile keys</code>](https://github.com/lxc/incus/commit/5ca7c54d24c70245b845601370b8023288c92529)
 - [ ] [<code>incusd/instance/qemu: Handle RTC base adjustments</code>](https://github.com/lxc/incus/commit/0de01bdf38953c7e478dbb5b83e09a8f42b9603f)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/4384b63c94cab1d8c055249d000459e6b495f958)
+- [ ] [<code>incusd: Return empty slice instead of nil when no storage pool is present</code>](https://github.com/lxc/incus/commit/ea2052897c6b07b4f92e9e876f5838522774fc49)
+- [ ] [<code>tests: Fix LINSTOR preconfiguration</code>](https://github.com/lxc/incus/commit/3dc6dd05a1108eb78fcdaf0774db01367519495a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3749,6 +3752,7 @@
 - [ ] [<code>incusd/main_forknet: Don't touch resolv.conf when no leases</code>](https://github.com/lxc/incus/commit/59f2c354747b07e84b4df6fc084aef4a7178f6ec)
 - [ ] [<code>incusd/storage/ceph: Fix typo in parseParent</code>](https://github.com/lxc/incus/commit/8520c07c8e5e241ae1faa16162ba14dd24313e7c)
 - [ ] [<code>tests: Switch clustering test subnet</code>](https://github.com/lxc/incus/commit/4fff11cc45dae2a88baea0a87d8164ae163c95c2)
+- [ ] [<code>incusd/storage/linstor: Prevent mounting unreachable pools</code>](https://github.com/lxc/incus/commit/e170b1f60efce966c854d3d18930dcab64fb5810)
 - [ ] [<code>incusd: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/d2741f464e294a5787cb916c71db928956601f2b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>internal/util: Simplify code by using modern constructs</code>](https://github.com/lxc/incus/commit/a66323ed95b4f6bc8d86152914add74055596579)
@@ -3880,9 +3884,13 @@
 - [ ] [<code>internal/instance: Add RTC volatile keys</code>](https://github.com/lxc/incus/commit/5ca7c54d24c70245b845601370b8023288c92529)
 - [ ] [<code>incusd/instance/qemu: Handle RTC base adjustments</code>](https://github.com/lxc/incus/commit/0de01bdf38953c7e478dbb5b83e09a8f42b9603f)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/4384b63c94cab1d8c055249d000459e6b495f958)
+- [ ] [<code>incusd: Return empty slice instead of nil when no storage pool is present</code>](https://github.com/lxc/incus/commit/ea2052897c6b07b4f92e9e876f5838522774fc49)
+- [ ] [<code>tests: Fix LINSTOR preconfiguration</code>](https://github.com/lxc/incus/commit/3dc6dd05a1108eb78fcdaf0774db01367519495a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
+- [ ] [<code>Handle null response from storage-pools API by treating it as an empty array</code>](https://github.com/zabbly/incus-ui-canonical/commit/b4b2804b6dec4a2fa0dc5115ec0873fa13ab5192)
+- [ ] [<code>Check array length before calling setArch</code>](https://github.com/zabbly/incus-ui-canonical/commit/c0297091e4263d540c2ad650c7e89dbbac912d8c)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4301,6 +4309,13 @@
 - [ ] [<code>Updated configuration reference (#20347)</code>](https://github.com/netdata/netdata.git/commit/2a21c425233440017e17cff25e2337e2b0389b70)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>_cisco-voice.yaml (#20361)</code>](https://github.com/netdata/netdata.git/commit/b39f9dc3bdee3504489c4d67d74e64ddc798e8f5)
+- [ ] [<code>SNMP: _generic-ups.yaml (#20351)</code>](https://github.com/netdata/netdata.git/commit/e2c3ea2bf9e7c3dce62aa8889642e7a1df50ae70)
+- [ ] [<code>SNMP: _cisco-wlc.yaml (#20364)</code>](https://github.com/netdata/netdata.git/commit/270c866c081245188acaaa3409ba4a43ed15ea2d)
+- [ ] [<code>chore(otel.plugin): fix building (#20368)</code>](https://github.com/netdata/netdata.git/commit/ea312087c544495a4cd8b96756293900b0cb9627)
+- [ ] [<code>Split systemd-journal plugin and add Rust-based journal file reader (#20345)</code>](https://github.com/netdata/netdata.git/commit/adc4d66ea03e1737dc7361fecb26885aef896620)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>SNMP: _cisco-ipsec-flow-monitor.yaml (#20353)</code>](https://github.com/netdata/netdata.git/commit/febb08d0e636c8236cc09aac493a3d2c63e126ba)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
