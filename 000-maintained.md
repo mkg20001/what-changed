@@ -697,6 +697,7 @@
 - [ ] [<code>incusd/instance/qmp: Remove weird qemu qmp bug handling</code>](https://github.com/lxc/incus/commit/5ae916b395bfc1b2850238d3f3f161c73b18fa2e)
 - [ ] [<code>incusd/instance/qmp: Refactor qmpWriteMsg</code>](https://github.com/lxc/incus/commit/61038a587a1185f918e7c179c30f480f53bbac9e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db/node: Add GetPendingNodeByName</code>](https://github.com/lxc/incus/commit/40095bbc23512120e3a3be6d74d94ccb490e4e8e)
 - [ ] [<code>api: network_ovn_external_nic_address</code>](https://github.com/lxc/incus/commit/cd8f29d6b780f80aa8ccc2b91189393d8e278612)
 - [ ] [<code>incusd/device/nic_ovn: Added the two new nic options</code>](https://github.com/lxc/incus/commit/6732f22b037fcd4d67219d35d38889da8e13d93c)
 - [ ] [<code>incusd/network/ovn: Add support for applying external address</code>](https://github.com/lxc/incus/commit/e191036c571e19315eaf28971c68f0415115b43b)
@@ -714,6 +715,9 @@
 - [ ] [<code>typo: mount -> unmount</code>](https://github.com/lxc/incus/commit/769a56605e6b357db0fbbc4ba6367b6c3a48b853)
 - [ ] [<code>incusd/storage: fix squashfs unpacking to NFS destinations</code>](https://github.com/lxc/incus/commit/4746333e061c771e065f812f58bf750d47447240)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/cluster: Add support for pending nodes in Leave and Purge functions</code>](https://github.com/lxc/incus/commit/165040af5c1300ffa344f4df6dfc99796cbcd405)
+- [ ] [<code>client: Add DeletePendingClusterMember</code>](https://github.com/lxc/incus/commit/e7c34a56dc43ea73b82a4dd082a64598b6b691ac)
+- [ ] [<code>incusd: Remove cluster member on join failure</code>](https://github.com/lxc/incus/commit/6eb312712ad17324aff8f9c5546ba82aeefe84fe)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3835,6 +3839,7 @@
 - [ ] [<code>incusd/instance/qmp: Remove weird qemu qmp bug handling</code>](https://github.com/lxc/incus/commit/5ae916b395bfc1b2850238d3f3f161c73b18fa2e)
 - [ ] [<code>incusd/instance/qmp: Refactor qmpWriteMsg</code>](https://github.com/lxc/incus/commit/61038a587a1185f918e7c179c30f480f53bbac9e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/db/node: Add GetPendingNodeByName</code>](https://github.com/lxc/incus/commit/40095bbc23512120e3a3be6d74d94ccb490e4e8e)
 - [ ] [<code>api: network_ovn_external_nic_address</code>](https://github.com/lxc/incus/commit/cd8f29d6b780f80aa8ccc2b91189393d8e278612)
 - [ ] [<code>incusd/device/nic_ovn: Added the two new nic options</code>](https://github.com/lxc/incus/commit/6732f22b037fcd4d67219d35d38889da8e13d93c)
 - [ ] [<code>incusd/network/ovn: Add support for applying external address</code>](https://github.com/lxc/incus/commit/e191036c571e19315eaf28971c68f0415115b43b)
@@ -3852,6 +3857,9 @@
 - [ ] [<code>typo: mount -> unmount</code>](https://github.com/lxc/incus/commit/769a56605e6b357db0fbbc4ba6367b6c3a48b853)
 - [ ] [<code>incusd/storage: fix squashfs unpacking to NFS destinations</code>](https://github.com/lxc/incus/commit/4746333e061c771e065f812f58bf750d47447240)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/cluster: Add support for pending nodes in Leave and Purge functions</code>](https://github.com/lxc/incus/commit/165040af5c1300ffa344f4df6dfc99796cbcd405)
+- [ ] [<code>client: Add DeletePendingClusterMember</code>](https://github.com/lxc/incus/commit/e7c34a56dc43ea73b82a4dd082a64598b6b691ac)
+- [ ] [<code>incusd: Remove cluster member on join failure</code>](https://github.com/lxc/incus/commit/6eb312712ad17324aff8f9c5546ba82aeefe84fe)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
