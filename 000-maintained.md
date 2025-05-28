@@ -718,6 +718,16 @@
 - [ ] [<code>incusd/cluster: Add support for pending nodes in Leave and Purge functions</code>](https://github.com/lxc/incus/commit/165040af5c1300ffa344f4df6dfc99796cbcd405)
 - [ ] [<code>client: Add DeletePendingClusterMember</code>](https://github.com/lxc/incus/commit/e7c34a56dc43ea73b82a4dd082a64598b6b691ac)
 - [ ] [<code>incusd: Remove cluster member on join failure</code>](https://github.com/lxc/incus/commit/6eb312712ad17324aff8f9c5546ba82aeefe84fe)
+- [ ] [<code>incusd/instance/qmp: Associate request/reply with a command ID</code>](https://github.com/lxc/incus/commit/8d01617822b6b386723a397e314c58d9d6899b5b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp: Add command ID to runWithFile</code>](https://github.com/lxc/incus/commit/f084fbdae7f43e295828a94da7b4b64c3f72371a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp: Add command ID to RunJSON</code>](https://github.com/lxc/incus/commit/9b53c40106699d87d03dd7079e0352c39be0cc78)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Use switch statement</code>](https://github.com/lxc/incus/commit/f228ba9518c9e71ea0a8cd5c8a5b8eabec4f5d03)
+- [ ] [<code>internal/instance: Add RTC volatile keys</code>](https://github.com/lxc/incus/commit/5ca7c54d24c70245b845601370b8023288c92529)
+- [ ] [<code>incusd/instance/qemu: Handle RTC base adjustments</code>](https://github.com/lxc/incus/commit/0de01bdf38953c7e478dbb5b83e09a8f42b9603f)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/4384b63c94cab1d8c055249d000459e6b495f958)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3860,6 +3870,16 @@
 - [ ] [<code>incusd/cluster: Add support for pending nodes in Leave and Purge functions</code>](https://github.com/lxc/incus/commit/165040af5c1300ffa344f4df6dfc99796cbcd405)
 - [ ] [<code>client: Add DeletePendingClusterMember</code>](https://github.com/lxc/incus/commit/e7c34a56dc43ea73b82a4dd082a64598b6b691ac)
 - [ ] [<code>incusd: Remove cluster member on join failure</code>](https://github.com/lxc/incus/commit/6eb312712ad17324aff8f9c5546ba82aeefe84fe)
+- [ ] [<code>incusd/instance/qmp: Associate request/reply with a command ID</code>](https://github.com/lxc/incus/commit/8d01617822b6b386723a397e314c58d9d6899b5b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp: Add command ID to runWithFile</code>](https://github.com/lxc/incus/commit/f084fbdae7f43e295828a94da7b4b64c3f72371a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp: Add command ID to RunJSON</code>](https://github.com/lxc/incus/commit/9b53c40106699d87d03dd7079e0352c39be0cc78)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Use switch statement</code>](https://github.com/lxc/incus/commit/f228ba9518c9e71ea0a8cd5c8a5b8eabec4f5d03)
+- [ ] [<code>internal/instance: Add RTC volatile keys</code>](https://github.com/lxc/incus/commit/5ca7c54d24c70245b845601370b8023288c92529)
+- [ ] [<code>incusd/instance/qemu: Handle RTC base adjustments</code>](https://github.com/lxc/incus/commit/0de01bdf38953c7e478dbb5b83e09a8f42b9603f)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/4384b63c94cab1d8c055249d000459e6b495f958)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4274,6 +4294,13 @@
 - [ ] [<code>build(deps): update otel dependencies version (#20352)</code>](https://github.com/netdata/netdata.git/commit/cade6d92c77225125103f39658544c14c795d227)
 - [ ] [<code>add installing flex to install-required-packages.sh (#20322)</code>](https://github.com/netdata/netdata.git/commit/8373222bb80a36afd704bd2159d9c30ef9681f56)
 - [ ] [<code>feat(go.d/dyncfg): add autodetect_retry to dyncfg jobs (#20357)</code>](https://github.com/netdata/netdata.git/commit/2897d1a135e1eb5068d3e377f96c17df982972ec)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-106-nightly.</code>](https://github.com/netdata/netdata.git/commit/29b63a9b0f56f58d157dde110a941736df032898)
+- [ ] [<code>chore(go.d): fix some golangcilint warning (#20360)</code>](https://github.com/netdata/netdata.git/commit/6e0a46f5036de58a50f5a341dc2f35db3d3ec63c)
+- [ ] [<code>Windows updated (#20358)</code>](https://github.com/netdata/netdata.git/commit/9392f1ec969906d63f110522851a57ed6144d6e2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Updated configuration reference (#20347)</code>](https://github.com/netdata/netdata.git/commit/2a21c425233440017e17cff25e2337e2b0389b70)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>_cisco-voice.yaml (#20361)</code>](https://github.com/netdata/netdata.git/commit/b39f9dc3bdee3504489c4d67d74e64ddc798e8f5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
