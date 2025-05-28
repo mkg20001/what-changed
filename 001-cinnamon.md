@@ -6,8 +6,10 @@
 - [ ] [<code>change numbering filenames (#67)</code>](https://github.com/linuxmint/bulky/commit/6f2fa9356262fbaf22dff8cc562a59a471156584)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Remember the last operation type and filename scope.</code>](https://github.com/linuxmint/bulky/commit/9aae33ac8275106d10014bf1c30a2acd41fdc66a)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>debian/control: Remove unnecessary python3-magic dependency.</code>](https://github.com/linuxmint/bulky/commit/37f91c7192979ea0b8f698aa6a5291f214a69494)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.7...HEAD)
 
@@ -80,6 +82,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Calender: Fix issue with with custom tooltip not updating seconds. (#12786)</code>](https://github.com/linuxmint/cinnamon/commit/c45b89a326286eff6fdbfb7a32b751c35eadb3f5)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_keyboard.py: use expected logic for xlet location (#12850)</code>](https://github.com/linuxmint/cinnamon/commit/a5fc0b47f87b249689ceceb91d33dca87c5ed434)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>PopupResizeHandler: recheck for restricted size after applet resized (#12815)</code>](https://github.com/linuxmint/cinnamon/commit/c7792177753cfbd1e7fe60f9737a59b54cac6725)
+- [ ] [<code>PopupResizeHandler: return correct popup size bugfix (#12804)</code>](https://github.com/linuxmint/cinnamon/commit/0df121fed0136f686cecb351fe55a513c73827ab)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
