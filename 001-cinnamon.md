@@ -105,9 +105,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Cvc null check profile (#254)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1e68cdbe2d837594d8258a026500a0b84a57e792)
 - [ ] [<code>Remove the pnp_ids configuration option (unused as of 913198430f27852544f9443a250421168d3d4466) (#249)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/6f1151f86aaabe9242fabba3f176215a4c248af4)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>debian/control: Add provides to gir1.2-cinnamondesktop-3.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/63b48cce1103c2a8ac02b88743205bb43f08a222)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/6.4.0...HEAD)
 
