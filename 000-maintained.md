@@ -228,6 +228,7 @@
 - [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
 - [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
 - [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
+- [ ] [<code>fix: App crash on page navigation with open popup menu</code>](https://github.com/krille-chan/fluffychat/commit/49780b01fe757119c9e99d6e281367a51673ea41)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -303,6 +304,7 @@
 - [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
 - [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
 - [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
+- [ ] [<code>fix: App crash on page navigation with open popup menu</code>](https://github.com/krille-chan/fluffychat/commit/49780b01fe757119c9e99d6e281367a51673ea41)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -311,7 +313,7 @@
 
 > Dropped flutter327 - no appropriate URL found OrderedDict({'attr_path': 'flutter327', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter332 - no appropriate URL found OrderedDict({'attr_path': 'flutter332', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
@@ -740,6 +742,14 @@
 - [ ] [<code>vscode: Add VSCode launch.json for incusd "Run and Debug" functionality</code>](https://github.com/lxc/incus/commit/872c5d75ac48db1efddcccb0d2479dd54c6bf4be)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>incusd: Update for generated load-balancer functions</code>](https://github.com/lxc/incus/commit/3a811e0f82df98f9110f9a306e071fe341eb7694)
+- [ ] [<code>incus/network_zone: Fix typo in help description</code>](https://github.com/lxc/incus/commit/3255693632d2f59234ba522aadcfafb2469c3054)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>po: Update translation template</code>](https://github.com/lxc/incus/commit/e95d15cfbe97115bd5985799101d3534fdf6f30b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/db: Port network zone to database generator</code>](https://github.com/lxc/incus/commit/4958f793936611e2bcedbfd585254e7216ab8831)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Port to new database functions</code>](https://github.com/lxc/incus/commit/14ec50271def1a25d603dad80a2a033b23c49aef)
+- [ ] [<code>incusd/instance/drivers: Allow updating root disk size and root io.bus simultaneously</code>](https://github.com/lxc/incus/commit/3fcf9e4490d95c28cc24153b05755b9bfbf82cd3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3904,6 +3914,14 @@
 - [ ] [<code>vscode: Add VSCode launch.json for incusd "Run and Debug" functionality</code>](https://github.com/lxc/incus/commit/872c5d75ac48db1efddcccb0d2479dd54c6bf4be)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 - [ ] [<code>incusd: Update for generated load-balancer functions</code>](https://github.com/lxc/incus/commit/3a811e0f82df98f9110f9a306e071fe341eb7694)
+- [ ] [<code>incus/network_zone: Fix typo in help description</code>](https://github.com/lxc/incus/commit/3255693632d2f59234ba522aadcfafb2469c3054)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>po: Update translation template</code>](https://github.com/lxc/incus/commit/e95d15cfbe97115bd5985799101d3534fdf6f30b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/db: Port network zone to database generator</code>](https://github.com/lxc/incus/commit/4958f793936611e2bcedbfd585254e7216ab8831)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Port to new database functions</code>](https://github.com/lxc/incus/commit/14ec50271def1a25d603dad80a2a033b23c49aef)
+- [ ] [<code>incusd/instance/drivers: Allow updating root disk size and root io.bus simultaneously</code>](https://github.com/lxc/incus/commit/3fcf9e4490d95c28cc24153b05755b9bfbf82cd3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4038,6 +4056,8 @@
 - [ ] [<code>Fix Sample Transform pow operator (#2806)</code>](https://github.com/AOMediaCodec/libavif/commit/d54a4c4b38098f556c3e26a0a192836c8c8c49df)
 - [ ] [<code>Fix sato pow comment (#2807)</code>](https://github.com/AOMediaCodec/libavif/commit/3d80a1b01b9fa4cc5165a4cf6df143183fbceb6e)
 - [ ] [<code>Move sato pow condition up (#2808)</code>](https://github.com/AOMediaCodec/libavif/commit/6b696fa87c7a053879984bd99725b22e8b1ebd94)
+- [ ] [<code>avifavmtest:Lower PSNR threshold from 39.0 to 38.1</code>](https://github.com/AOMediaCodec/libavif/commit/9b30479338f3d4bd688009c148baf04f76dc8d1b)
+- [ ] [<code>Re-enable monochrome in AVM</code>](https://github.com/AOMediaCodec/libavif/commit/a301b7a2ca4bbea1839b0a2fe0969e98ef3cd2a6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4341,6 +4361,13 @@
 - [ ] [<code>SNMP: fortinet-appliance.yaml (#20369)</code>](https://github.com/netdata/netdata.git/commit/b203f76206844cb2d0418d3799a9013397536a91)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.8.0 to 9.9.0 in /src/go (#20372)</code>](https://github.com/netdata/netdata.git/commit/d888e590f57044445850b1ccc039478085820ced)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.1.1+incompatible to 28.2.1+incompatible in /src/go (#20371)</code>](https://github.com/netdata/netdata.git/commit/ebd5d506871f101d069e630a500893900c6206b6)
+- [ ] [<code>fix(go.d/oracledb): correct tablespace usage calculation for all types (#20373)</code>](https://github.com/netdata/netdata.git/commit/2706778fecb920e5767711f631b144296a12c4da)
+- [ ] [<code>Regenerate integrations docs (#20375)</code>](https://github.com/netdata/netdata.git/commit/2afaecda4730b42b7748d50ff1f75097f69804a1)
+- [ ] [<code>SNMP: fortinet-fortigate.yaml and remove un-needed profile (#20374)</code>](https://github.com/netdata/netdata.git/commit/6da495387d7dd638ff0aafdd432dc368a50c7a23)
+- [ ] [<code>chore(otel.plugin): add more receivers/exporter (#20376)</code>](https://github.com/netdata/netdata.git/commit/29d2d22eba4c2389280f5ab9c6dce72178c5ebb8)
+- [ ] [<code>test(go.d/oracledb): fix test (#20378)</code>](https://github.com/netdata/netdata.git/commit/0e1685be5a8091c7c0093c480f02cbbcd6a8b2b3)
+- [ ] [<code>SNMP: fortinet-fortiswitch.yaml (#20377)</code>](https://github.com/netdata/netdata.git/commit/590b4b26541b8a37e53c20741e2e635b3afb66b3)
+- [ ] [<code>Improve datafile rotation and indexing (#20354)</code>](https://github.com/netdata/netdata.git/commit/4812fe155952f6c791cd2266c9ff2da496dd30e2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
