@@ -732,6 +732,14 @@
 - [ ] [<code>incusd: Return empty slice instead of nil when no storage pool is present</code>](https://github.com/lxc/incus/commit/ea2052897c6b07b4f92e9e876f5838522774fc49)
 - [ ] [<code>tests: Fix LINSTOR preconfiguration</code>](https://github.com/lxc/incus/commit/3dc6dd05a1108eb78fcdaf0774db01367519495a)
 - [ ] [<code>incusd/instance/drivers: Clear the volatile.cpu.nodes if needed</code>](https://github.com/lxc/incus/commit/7b7c675946a9b01a9643b2800f6fb01d757588ca)
+- [ ] [<code>incusd/storage/drivers: Add support for specifying username in CephFS commands</code>](https://github.com/lxc/incus/commit/458fa28365eb2acf79f76a7bcbf61fe72ddec65e)
+- [ ] [<code>incusd/device: Pass username in CephFS commands</code>](https://github.com/lxc/incus/commit/fe5ef7a0c4a4ca0ca9a21149c6b8482e1c92d8e8)
+- [ ] [<code>incusd/db/cluster: Rename network ACL files</code>](https://github.com/lxc/incus/commit/f1b4e21c554d1fb0428d23ae8c76a083721ec9ed)
+- [ ] [<code>incusd/db/cluster: Port load balancers to database generator</code>](https://github.com/lxc/incus/commit/36171e484557817a50524037e7b720f324375af8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>vscode: Add VSCode launch.json for incusd "Run and Debug" functionality</code>](https://github.com/lxc/incus/commit/872c5d75ac48db1efddcccb0d2479dd54c6bf4be)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>incusd: Update for generated load-balancer functions</code>](https://github.com/lxc/incus/commit/3a811e0f82df98f9110f9a306e071fe341eb7694)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3888,6 +3896,14 @@
 - [ ] [<code>incusd: Return empty slice instead of nil when no storage pool is present</code>](https://github.com/lxc/incus/commit/ea2052897c6b07b4f92e9e876f5838522774fc49)
 - [ ] [<code>tests: Fix LINSTOR preconfiguration</code>](https://github.com/lxc/incus/commit/3dc6dd05a1108eb78fcdaf0774db01367519495a)
 - [ ] [<code>incusd/instance/drivers: Clear the volatile.cpu.nodes if needed</code>](https://github.com/lxc/incus/commit/7b7c675946a9b01a9643b2800f6fb01d757588ca)
+- [ ] [<code>incusd/storage/drivers: Add support for specifying username in CephFS commands</code>](https://github.com/lxc/incus/commit/458fa28365eb2acf79f76a7bcbf61fe72ddec65e)
+- [ ] [<code>incusd/device: Pass username in CephFS commands</code>](https://github.com/lxc/incus/commit/fe5ef7a0c4a4ca0ca9a21149c6b8482e1c92d8e8)
+- [ ] [<code>incusd/db/cluster: Rename network ACL files</code>](https://github.com/lxc/incus/commit/f1b4e21c554d1fb0428d23ae8c76a083721ec9ed)
+- [ ] [<code>incusd/db/cluster: Port load balancers to database generator</code>](https://github.com/lxc/incus/commit/36171e484557817a50524037e7b720f324375af8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>vscode: Add VSCode launch.json for incusd "Run and Debug" functionality</code>](https://github.com/lxc/incus/commit/872c5d75ac48db1efddcccb0d2479dd54c6bf4be)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>incusd: Update for generated load-balancer functions</code>](https://github.com/lxc/incus/commit/3a811e0f82df98f9110f9a306e071fe341eb7694)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4318,6 +4334,13 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>SNMP: _cisco-ipsec-flow-monitor.yaml (#20353)</code>](https://github.com/netdata/netdata.git/commit/febb08d0e636c8236cc09aac493a3d2c63e126ba)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-116-nightly.</code>](https://github.com/netdata/netdata.git/commit/c8a71741357a44df9d1441004be65f244d9d5b45)
+- [ ] [<code>SNMP: _fortinet-fortigate-vpn-tunnel.yaml (#20367)</code>](https://github.com/netdata/netdata.git/commit/fd95498b38ff7692c2e281c3c8743a859db2196e)
+- [ ] [<code>SNMP: _fortinet-fortigate-cpu-memory.yaml (#20366)</code>](https://github.com/netdata/netdata.git/commit/48c358a2667a3fd256078b533a774574a9c87b27)
+- [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.1.0 to 1.1.1 in /src/go (#20370)</code>](https://github.com/netdata/netdata.git/commit/c70f2aa23293242f0662015e1459b69aca0c052d)
+- [ ] [<code>SNMP: fortinet-appliance.yaml (#20369)</code>](https://github.com/netdata/netdata.git/commit/b203f76206844cb2d0418d3799a9013397536a91)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.8.0 to 9.9.0 in /src/go (#20372)</code>](https://github.com/netdata/netdata.git/commit/d888e590f57044445850b1ccc039478085820ced)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.1.1+incompatible to 28.2.1+incompatible in /src/go (#20371)</code>](https://github.com/netdata/netdata.git/commit/ebd5d506871f101d069e630a500893900c6206b6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
