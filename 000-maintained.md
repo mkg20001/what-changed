@@ -731,6 +731,7 @@
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/4384b63c94cab1d8c055249d000459e6b495f958)
 - [ ] [<code>incusd: Return empty slice instead of nil when no storage pool is present</code>](https://github.com/lxc/incus/commit/ea2052897c6b07b4f92e9e876f5838522774fc49)
 - [ ] [<code>tests: Fix LINSTOR preconfiguration</code>](https://github.com/lxc/incus/commit/3dc6dd05a1108eb78fcdaf0774db01367519495a)
+- [ ] [<code>incusd/instance/drivers: Clear the volatile.cpu.nodes if needed</code>](https://github.com/lxc/incus/commit/7b7c675946a9b01a9643b2800f6fb01d757588ca)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3886,6 +3887,7 @@
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/4384b63c94cab1d8c055249d000459e6b495f958)
 - [ ] [<code>incusd: Return empty slice instead of nil when no storage pool is present</code>](https://github.com/lxc/incus/commit/ea2052897c6b07b4f92e9e876f5838522774fc49)
 - [ ] [<code>tests: Fix LINSTOR preconfiguration</code>](https://github.com/lxc/incus/commit/3dc6dd05a1108eb78fcdaf0774db01367519495a)
+- [ ] [<code>incusd/instance/drivers: Clear the volatile.cpu.nodes if needed</code>](https://github.com/lxc/incus/commit/7b7c675946a9b01a9643b2800f6fb01d757588ca)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -5798,6 +5800,8 @@
 - [ ] [<code>gui: add quick preset update button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/731b25eb813d0c05cfb70960aa282383042e5d74)
 - [ ] [<code>gui: add delete quick preset button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73209f14701f2b4874e5f7f1be61cf620fa597ea)
 - [ ] [<code>refactor(lib): fix some unused function warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5bd4b073a87ef7d4c84675e8eca5bcab907ca1b0)
+- [ ] [<code>deps: update dendencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73d4420e4d4c21d184bdde6b98f774bad7a4574e)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6063,6 +6067,15 @@
 - [ ] [<code>ubus: fix double registry clear on disconnect</code>](https://github.com/jow-/ucode/commit/54b00e3b1fa996d7d310367d0b6d83d690dc6073)
 - [ ] [<code>ubus: fix use-after-free on deferred request reply() method</code>](https://github.com/jow-/ucode/commit/69521b55855ca896e3fdd22250315b73d592051b)
 - [ ] [<code>debug: fix crash when passing tagged string to getinfo()</code>](https://github.com/jow-/ucode/commit/22e8c16d9debfacbc0dfdd5ea21dc6a7442854cf)
+- [ ] [<code>ubus: use ucv_resource_create_ex for connections/channels</code>](https://github.com/jow-/ucode/commit/2c9eea5174d681e35c5afd10fd3e327906a4b7e6)
+- [ ] [<code>ubus: use ucv_resource_create_ex for for ubus.request resources</code>](https://github.com/jow-/ucode/commit/0a4cf4b7e71a027b0aa7e718d6e8927caeb84cfc)
+- [ ] [<code>ubus: use ucv_resource_create_ex for ubus.deferred resources</code>](https://github.com/jow-/ucode/commit/99ee75a69cd3cef1994d860defb2376deb2557b4)
+- [ ] [<code>ubus: use ucv_resource_create_ex for objects</code>](https://github.com/jow-/ucode/commit/f085a42b977fb4ac0ddbac995d69de04d6fe2a33)
+- [ ] [<code>ubus: use ucv_resource_create_ex for ubus.notify resources</code>](https://github.com/jow-/ucode/commit/94ad17d13a0d91a2e16776d449c8bc9184622580)
+- [ ] [<code>ubus: use ucv_resource_create_ex for ubus.listener resources</code>](https://github.com/jow-/ucode/commit/a3fa47fdda3e7798b737494e1e407b63d126952e)
+- [ ] [<code>ubus: use ucv_resource_create_ex for ubus.subscriber resources</code>](https://github.com/jow-/ucode/commit/9ab5fa869dec1726e5b29a73d4a5dbd90bcb3de8)
+- [ ] [<code>CI: debian: install cmake package</code>](https://github.com/jow-/ucode/commit/be92ebd706339fd4a848b88ee516b1ac4eb62ef8)
+  - <sub>Tags: <code>v0.0.20250529</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
