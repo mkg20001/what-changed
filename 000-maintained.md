@@ -33,6 +33,7 @@
 - [ ] [<code>Go: Use incus 6.12</code>](https://github.com/lxc/distrobuilder/commit/4ca985cf18935bcd1bf105a1c98c0bffee93f062)
 - [ ] [<code>shared: Update ArchitectureID import</code>](https://github.com/lxc/distrobuilder/commit/5a5663c9ca0b43f6b82955fb575c026c7c242773)
 - [ ] [<code>utils_test.go: TestRecvGPGKeys add missing cleanup</code>](https://github.com/lxc/distrobuilder/commit/cdab568f5b7fafd36a8f6104d81baad3524b9da7)
+- [ ] [<code>chroot: Don't empty mount targets</code>](https://github.com/lxc/distrobuilder/commit/dcd2bba6f55a1eb2861864c8a07027a8ad0909be)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -229,6 +230,7 @@
 - [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
 - [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
 - [ ] [<code>fix: App crash on page navigation with open popup menu</code>](https://github.com/krille-chan/fluffychat/commit/49780b01fe757119c9e99d6e281367a51673ea41)
+- [ ] [<code>feat: Add feature flag for refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/c445a6a294fd80eb9e4bc488f1dadd8ade3b888a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -305,6 +307,7 @@
 - [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
 - [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
 - [ ] [<code>fix: App crash on page navigation with open popup menu</code>](https://github.com/krille-chan/fluffychat/commit/49780b01fe757119c9e99d6e281367a51673ea41)
+- [ ] [<code>feat: Add feature flag for refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/c445a6a294fd80eb9e4bc488f1dadd8ade3b888a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -750,6 +753,14 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Port to new database functions</code>](https://github.com/lxc/incus/commit/14ec50271def1a25d603dad80a2a033b23c49aef)
 - [ ] [<code>incusd/instance/drivers: Allow updating root disk size and root io.bus simultaneously</code>](https://github.com/lxc/incus/commit/3fcf9e4490d95c28cc24153b05755b9bfbf82cd3)
+- [ ] [<code>incusd/db: Fix network ACL generation</code>](https://github.com/lxc/incus/commit/0453eb05373641f3ac655e38764f1a6be5b3a67c)
+- [ ] [<code>incusd/db: Properly remove node/location from load balancers</code>](https://github.com/lxc/incus/commit/42299cabe933625efb5d79b3a4e7d91762d955e3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/load_balancer: Fix update logic</code>](https://github.com/lxc/incus/commit/0e83dc6b26a410fa40d134963c10ebbc8a5a4af1)
+- [ ] [<code>incusd/network: Fix ACL regression</code>](https://github.com/lxc/incus/commit/33a19513827df0037ddbdd58b61ab8c899e0580e)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ec331b44ccaa48a536ccfa47d86455a032096993)
+- [ ] [<code>Release Incus 6.13</code>](https://github.com/lxc/incus/commit/f7bbf67a81c271a96f18e9a5829018c0c6aef2ac)
+  - <sub>Tags: <code>v6.13.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3922,6 +3933,14 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Port to new database functions</code>](https://github.com/lxc/incus/commit/14ec50271def1a25d603dad80a2a033b23c49aef)
 - [ ] [<code>incusd/instance/drivers: Allow updating root disk size and root io.bus simultaneously</code>](https://github.com/lxc/incus/commit/3fcf9e4490d95c28cc24153b05755b9bfbf82cd3)
+- [ ] [<code>incusd/db: Fix network ACL generation</code>](https://github.com/lxc/incus/commit/0453eb05373641f3ac655e38764f1a6be5b3a67c)
+- [ ] [<code>incusd/db: Properly remove node/location from load balancers</code>](https://github.com/lxc/incus/commit/42299cabe933625efb5d79b3a4e7d91762d955e3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/network/load_balancer: Fix update logic</code>](https://github.com/lxc/incus/commit/0e83dc6b26a410fa40d134963c10ebbc8a5a4af1)
+- [ ] [<code>incusd/network: Fix ACL regression</code>](https://github.com/lxc/incus/commit/33a19513827df0037ddbdd58b61ab8c899e0580e)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ec331b44ccaa48a536ccfa47d86455a032096993)
+- [ ] [<code>Release Incus 6.13</code>](https://github.com/lxc/incus/commit/f7bbf67a81c271a96f18e9a5829018c0c6aef2ac)
+  - <sub>Tags: <code>v6.13.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4368,6 +4387,9 @@
 - [ ] [<code>test(go.d/oracledb): fix test (#20378)</code>](https://github.com/netdata/netdata.git/commit/0e1685be5a8091c7c0093c480f02cbbcd6a8b2b3)
 - [ ] [<code>SNMP: fortinet-fortiswitch.yaml (#20377)</code>](https://github.com/netdata/netdata.git/commit/590b4b26541b8a37e53c20741e2e635b3afb66b3)
 - [ ] [<code>Improve datafile rotation and indexing (#20354)</code>](https://github.com/netdata/netdata.git/commit/4812fe155952f6c791cd2266c9ff2da496dd30e2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-130-nightly.</code>](https://github.com/netdata/netdata.git/commit/4cd25e5b2f5cdc389ff94b0ecc8d20d0a90ca6d8)
+- [ ] [<code>SNMP: _aruba-switch-cpu-memory.yaml (#20381)</code>](https://github.com/netdata/netdata.git/commit/caeabadda992aac8435c1f10f6b23c99d3df43db)
+- [ ] [<code>Update documentation (#20380)</code>](https://github.com/netdata/netdata.git/commit/1a69853f031ed808a968a5662e97462458e27bf1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5852,6 +5874,7 @@
 - [ ] [<code>refactor(lib): fix some unused function warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5bd4b073a87ef7d4c84675e8eca5bcab907ca1b0)
 - [ ] [<code>deps: update dendencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73d4420e4d4c21d184bdde6b98f774bad7a4574e)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>android: add quick preset slot settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ac4ad10b31d9c2bd9c1c4264d0382979f5d2f9a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5915,6 +5938,8 @@
 - [ ] [<code>Bump typescript-eslint from 8.32.0 to 8.32.1 (#661)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/238350b94089f7cba99027034a0c5cf9b6f50bf6)
 - [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.8 to 4.7.3 (#659)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8dc5238fcb1c1bfc64544e8cde0b11ddf115caf3)
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.8 to 2.2.2 (#660)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa3f2437a374ddb0802334f5688c49011066a08a)
+- [ ] [<code>Downgrade react-router to `6.27.0` to fix import users (#678)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7a286ad50666af5cc40b27d872ba848a247340ac)
+- [ ] [<code>fix: Start if `BASE_URL` is not defined (#677)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ef8ae9b38fbd7c39c5c1274a00fe4826789de140)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
