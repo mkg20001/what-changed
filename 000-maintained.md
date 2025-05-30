@@ -4077,6 +4077,8 @@
 - [ ] [<code>Move sato pow condition up (#2808)</code>](https://github.com/AOMediaCodec/libavif/commit/6b696fa87c7a053879984bd99725b22e8b1ebd94)
 - [ ] [<code>avifavmtest:Lower PSNR threshold from 39.0 to 38.1</code>](https://github.com/AOMediaCodec/libavif/commit/9b30479338f3d4bd688009c148baf04f76dc8d1b)
 - [ ] [<code>Re-enable monochrome in AVM</code>](https://github.com/AOMediaCodec/libavif/commit/a301b7a2ca4bbea1839b0a2fe0969e98ef3cd2a6)
+- [ ] [<code>Remove obsolete comment on avifRGBImageComputeGainMap (#2814)</code>](https://github.com/AOMediaCodec/libavif/commit/9e2952d0aa66d5336afc3ad7e8c5dd337c25745f)
+- [ ] [<code>avifavmtest:Lower PSNR threshold from 38.1 to 36.6</code>](https://github.com/AOMediaCodec/libavif/commit/c1003e864ce4ec0511143c3bca06c5ee1634e98e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4390,6 +4392,8 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-130-nightly.</code>](https://github.com/netdata/netdata.git/commit/4cd25e5b2f5cdc389ff94b0ecc8d20d0a90ca6d8)
 - [ ] [<code>SNMP: _aruba-switch-cpu-memory.yaml (#20381)</code>](https://github.com/netdata/netdata.git/commit/caeabadda992aac8435c1f10f6b23c99d3df43db)
 - [ ] [<code>Update documentation (#20380)</code>](https://github.com/netdata/netdata.git/commit/1a69853f031ed808a968a5662e97462458e27bf1)
+- [ ] [<code>SNMP: aruba-switch.yaml (#20385)</code>](https://github.com/netdata/netdata.git/commit/fa277ea4113cf0905580212f531ac786e74bd6e0)
+- [ ] [<code>SNMP: aruba-cx-switch.yaml (#20383)</code>](https://github.com/netdata/netdata.git/commit/e61aea34fe9bf1dcb44563ed854bbe58df1bf34e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
