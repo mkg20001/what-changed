@@ -4394,6 +4394,7 @@
 - [ ] [<code>Update documentation (#20380)</code>](https://github.com/netdata/netdata.git/commit/1a69853f031ed808a968a5662e97462458e27bf1)
 - [ ] [<code>SNMP: aruba-switch.yaml (#20385)</code>](https://github.com/netdata/netdata.git/commit/fa277ea4113cf0905580212f531ac786e74bd6e0)
 - [ ] [<code>SNMP: aruba-cx-switch.yaml (#20383)</code>](https://github.com/netdata/netdata.git/commit/e61aea34fe9bf1dcb44563ed854bbe58df1bf34e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/32ec69dd835809b1e74dbf88d23c6211ddb9bc8f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5879,6 +5880,12 @@
 - [ ] [<code>deps: update dendencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73d4420e4d4c21d184bdde6b98f774bad7a4574e)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>android: add quick preset slot settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ac4ad10b31d9c2bd9c1c4264d0382979f5d2f9a)
+- [ ] [<code>deps(android): update AGP</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1152f3ba5a33422bfe6003181493288287f61d32)
+- [ ] [<code>android: improve quick preset UI</code>](https://github.com/Oppzippy/OpenSCQ30/commit/723572bd3fca03a141f18f7e1fdac579b860f390)
+- [ ] [<code>feat(android): add featured settings to status notification</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b8490df877ef83c1ab70245c32e0b8ba5dfa39ec)
+- [ ] [<code>refactor(android): merge small files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e77733e4b0ae4ad50eb40d4c542bfe7649c0a58b)
+- [ ] [<code>fix(android): crash when there are no quick preset slots assigned</code>](https://github.com/Oppzippy/OpenSCQ30/commit/06476d0934721247637f556d369de8fab6ae0446)
+- [ ] [<code>android: remove equalizer visualization from status notification</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c11699b07d44d71e24eb2e945cd1eb21ad534736)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
