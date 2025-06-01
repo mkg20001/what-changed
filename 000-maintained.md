@@ -239,6 +239,10 @@
 - [ ] [<code>chore: Follow up create check list UX</code>](https://github.com/krille-chan/fluffychat/commit/5fb882955c6cf9a63eaa325aafa03904b631960f)
 - [ ] [<code>chore: Nicer checkboxes</code>](https://github.com/krille-chan/fluffychat/commit/dbdd25aeb26243e4ba735c7d62439e001fe44b39)
 - [ ] [<code>build: Upgrade to flutter 3.32.1</code>](https://github.com/krille-chan/fluffychat/commit/c52209ccdd5a2cc0558244bfe3b29909e5e937f5)
+- [ ] [<code>chore: Follow up voice message localization</code>](https://github.com/krille-chan/fluffychat/commit/647ed049013d398ca760c4a7fc133e061ad70ab6)
+- [ ] [<code>chore: Update voice message localization</code>](https://github.com/krille-chan/fluffychat/commit/29a20f342ed109b73692c2c79766542fb0d0e8b3)
+- [ ] [<code>ci: Bring back stale bot but with much longer issue life time of one year</code>](https://github.com/krille-chan/fluffychat/commit/4ca098cc655fca8404155d396156e249b445fda7)
+- [ ] [<code>chore: Preload server file config before upload files</code>](https://github.com/krille-chan/fluffychat/commit/130a094f35b76ee121dc26864d085684fab7b3a8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -324,6 +328,10 @@
 - [ ] [<code>chore: Follow up create check list UX</code>](https://github.com/krille-chan/fluffychat/commit/5fb882955c6cf9a63eaa325aafa03904b631960f)
 - [ ] [<code>chore: Nicer checkboxes</code>](https://github.com/krille-chan/fluffychat/commit/dbdd25aeb26243e4ba735c7d62439e001fe44b39)
 - [ ] [<code>build: Upgrade to flutter 3.32.1</code>](https://github.com/krille-chan/fluffychat/commit/c52209ccdd5a2cc0558244bfe3b29909e5e937f5)
+- [ ] [<code>chore: Follow up voice message localization</code>](https://github.com/krille-chan/fluffychat/commit/647ed049013d398ca760c4a7fc133e061ad70ab6)
+- [ ] [<code>chore: Update voice message localization</code>](https://github.com/krille-chan/fluffychat/commit/29a20f342ed109b73692c2c79766542fb0d0e8b3)
+- [ ] [<code>ci: Bring back stale bot but with much longer issue life time of one year</code>](https://github.com/krille-chan/fluffychat/commit/4ca098cc655fca8404155d396156e249b445fda7)
+- [ ] [<code>chore: Preload server file config before upload files</code>](https://github.com/krille-chan/fluffychat/commit/130a094f35b76ee121dc26864d085684fab7b3a8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4103,6 +4111,7 @@
 - [ ] [<code>Re-enable monochrome in AVM</code>](https://github.com/AOMediaCodec/libavif/commit/a301b7a2ca4bbea1839b0a2fe0969e98ef3cd2a6)
 - [ ] [<code>Remove obsolete comment on avifRGBImageComputeGainMap (#2814)</code>](https://github.com/AOMediaCodec/libavif/commit/9e2952d0aa66d5336afc3ad7e8c5dd337c25745f)
 - [ ] [<code>avifavmtest:Lower PSNR threshold from 38.1 to 36.6</code>](https://github.com/AOMediaCodec/libavif/commit/c1003e864ce4ec0511143c3bca06c5ee1634e98e)
+- [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/bc2e36ad1f22a2253f7b33a1e64dd0654b8f6804)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4419,6 +4428,9 @@
 - [ ] [<code>SNMP: aruba-switch.yaml (#20385)</code>](https://github.com/netdata/netdata.git/commit/fa277ea4113cf0905580212f531ac786e74bd6e0)
 - [ ] [<code>SNMP: aruba-cx-switch.yaml (#20383)</code>](https://github.com/netdata/netdata.git/commit/e61aea34fe9bf1dcb44563ed854bbe58df1bf34e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/32ec69dd835809b1e74dbf88d23c6211ddb9bc8f)
+- [ ] [<code>SNMP: aruba-clearpass.yaml (#20382)</code>](https://github.com/netdata/netdata.git/commit/66a54e9f8755a5aeb874ae9e86e821974823af05)
+- [ ] [<code>apps.plugin documentation and grouping matches improvements (#20386)</code>](https://github.com/netdata/netdata.git/commit/940ce2e211e012862509c5addd256d13a9cacfba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5961,13 +5973,8 @@
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.10.4 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.10.4...HEAD)
+#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.11.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.11.0...HEAD)
 
-- [ ] [<code>Update fetch URL to use BASE_URL for config.json (#652)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b2a3fb0f8768943aec4f6a198e77309069afcd1c)
-- [ ] [<code>Add ability to toggle whether to show locked users (#573)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3085b9ffa0e029e95a856193dc843037809f691a)
-- [ ] [<code>Federation page improvements (#583)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d5c10b6e0208f27b9a3fec82b331dda95c1f5a14)
-- [ ] [<code>Upgrade to react-admin v5 (#633)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e8e28b5df1d8b1338570263a0d13b31d637324e1)
-  - <sub>Tags: <code>0.11.0</code></sub>
 - [ ] [<code>Bump ra-language-english from 5.2.3 to 5.8.2 (#667)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d72c91644d68813df84aaef8e6b31d76f6632fba)
 - [ ] [<code>Bump vite from 5.4.19 to 6.3.5 (#664)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/99bf7b1889d62ced0bf39f1de9ab6a0cb7d2bc38)
 - [ ] [<code>Bump typescript-eslint from 8.32.0 to 8.32.1 (#661)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/238350b94089f7cba99027034a0c5cf9b6f50bf6)
