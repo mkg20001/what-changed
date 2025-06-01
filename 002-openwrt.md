@@ -139,6 +139,41 @@
 - [ ] [<code>uim: add support for ICC communication channel</code>](https://git.openwrt.org/project/uqmi.git/commit/28b48a10dbcd1177095b73c6d8086d10114f49b8)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>uqmi nas: fix incorrect parameter order</code>](https://git.openwrt.org/project/uqmi.git/commit/a933061911aa4c49e953af618c3fb02ce6014142)
+- [ ] [<code>common/utils: add system_fd_set_cloexec()</code>](https://git.openwrt.org/project/uqmi.git/commit/c71c0f3e463a89615b302241bb1f2eab164ef14b)
+- [ ] [<code>CMakeLists: set cmake minimum to 3.10</code>](https://git.openwrt.org/project/uqmi.git/commit/38c133211ada0b0a13bdf5462cdb02d39a4e6950)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>add uqmid: a daemonic version of uqmi</code>](https://git.openwrt.org/project/uqmi.git/commit/7a196417bbe038e2d100cc93c595f90b5665a9ed)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>uqmid: service: add indications support</code>](https://git.openwrt.org/project/uqmi.git/commit/ada5284a431cdfcda3e3532173595bbbd134ae22)
+- [ ] [<code>uqmid: wwan: add support to handle kernel network interface</code>](https://git.openwrt.org/project/uqmi.git/commit/95686425ce9775e983ea434ca187f3d66c083ea5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>uqmid: ubus: use talloc() for modem assigned fields when allocating it</code>](https://git.openwrt.org/project/uqmi.git/commit/7895c3215dc5a32acf991c49167eba4450161157)
+- [ ] [<code>uqmid: ubus: check for empty strings for configure arguments</code>](https://git.openwrt.org/project/uqmi.git/commit/89033fe2eeaa1313a5de11946c8d8ec3bb83348d)
+- [ ] [<code>uqmid: add support to set username, password for PDN</code>](https://git.openwrt.org/project/uqmi.git/commit/6edff78b2bc3e96eaf783e7609d2cfcaef502648)
+- [ ] [<code>uqmid: osmocom/fsm: fix logline for 64bit timestamp</code>](https://git.openwrt.org/project/uqmi.git/commit/c54ceb687743d49ea3c447a2756940867c3ea7b4)
+- [ ] [<code>uqmid: add preliminary support for gsmtapv3</code>](https://git.openwrt.org/project/uqmi.git/commit/70ad886cf76f26feb7c5a681adaca3e64e9ef48f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>uqmid: modem_fsm: set timeout for GET_IMSI to 3 seconds</code>](https://git.openwrt.org/project/uqmi.git/commit/488194a04db8b059358fbb6f55ed294ed0fc1471)
+- [ ] [<code>uqmid: osmocom/fsm: add member N</code>](https://git.openwrt.org/project/uqmi.git/commit/62402025464b05e239527cd480276d9f44016edf)
+- [ ] [<code>uqmid: modem_fsm: implement re-transmission of GET IMSI calls</code>](https://git.openwrt.org/project/uqmi.git/commit/57871203a47d55f66511fb54e4063bcc3f72c6c0)
+- [ ] [<code>uqmid: add uqmi_sim_decode_imsi() to decode EF.IMSI from UIM</code>](https://git.openwrt.org/project/uqmi.git/commit/f1ad9c1cfba3c1467af2c289ee40de64aae09531)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>uqmid: implement roaming support (allow and forbid)</code>](https://git.openwrt.org/project/uqmi.git/commit/d39b53b7b0c91133e12db3dec1e73ef39a791e93)
+- [ ] [<code>uqmid: WDS: disable autoconnect on start network</code>](https://git.openwrt.org/project/uqmi.git/commit/85d49f725046342012bb6190deeb1e2ebb520cdb)
+- [ ] [<code>uqmid: move usim related function into own fsm</code>](https://git.openwrt.org/project/uqmi.git/commit/2e0c92ad8cfdd081f8383151003108ddf3ebfad6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>uqmid: modem_tx: add tx_wds_stop_network()</code>](https://git.openwrt.org/project/uqmi.git/commit/ce423f257e8ee7559d93f6218190782c3a2b1b5a)
+- [ ] [<code>uqmid: modem: handle modem with auto connect</code>](https://git.openwrt.org/project/uqmi.git/commit/025bd1c70a5faf09d567a94e358b11d8423609a8)
+- [ ] [<code>uqmid: add netifd protocol handler</code>](https://git.openwrt.org/project/uqmi.git/commit/58b9bd6629397715e53e165f0c2dd9091251cf07)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>uqmid: fsm: set fi->N = 0 for state start_iface</code>](https://git.openwrt.org/project/uqmi.git/commit/2b544de2ab036a2f76c218296305d38d69bd6efe)
+- [ ] [<code>uqmid: ubus call dump: add roaming variable</code>](https://git.openwrt.org/project/uqmi.git/commit/e71b27a4478ed5ab9da9ecb0fa2067ad51290a8f)
+- [ ] [<code>uqmid: examples: enable roaming</code>](https://git.openwrt.org/project/uqmi.git/commit/85e84ada615bcf991f9c65a11454e802c825b499)
+- [ ] [<code>uqmid: read IMEI, IMEISV, MEID (CDMA IMEI)</code>](https://git.openwrt.org/project/uqmi.git/commit/c05b3140f31b1731bb6a134b1a54441e9065f7d3)
+- [ ] [<code>uqmid: sim_fsm: implement PIN/PUK checking set by configuration</code>](https://git.openwrt.org/project/uqmi.git/commit/71f9c9435b22b1ffe4085ce2bae99fbe413ca03a)
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
 
