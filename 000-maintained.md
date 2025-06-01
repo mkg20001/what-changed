@@ -231,6 +231,14 @@
 - [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
 - [ ] [<code>fix: App crash on page navigation with open popup menu</code>](https://github.com/krille-chan/fluffychat/commit/49780b01fe757119c9e99d6e281367a51673ea41)
 - [ ] [<code>feat: Add feature flag for refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/c445a6a294fd80eb9e4bc488f1dadd8ade3b888a)
+- [ ] [<code>chore: Remove custom errorwidgetbuilder</code>](https://github.com/krille-chan/fluffychat/commit/1c9a3115c92a54017038f9a369197e069f1351cf)
+- [ ] [<code>fix: Add missing mounted check to mxcImage</code>](https://github.com/krille-chan/fluffychat/commit/dbba21f552fefe0e5126780b76cdf951b386f0ca)
+- [ ] [<code>chore: Follow up fix popupmenu crash</code>](https://github.com/krille-chan/fluffychat/commit/8725de504fd4d2b908f0cc0ecdf95d347700e4ad)
+- [ ] [<code>fix: Keep state of text input dialogs</code>](https://github.com/krille-chan/fluffychat/commit/fb134cba2f2765eb170417e06de565755c89ad1a)
+- [ ] [<code>chore: Follow up add check list</code>](https://github.com/krille-chan/fluffychat/commit/52ba9468a4ab691ab9886895566e3e7bb6ba2b81)
+- [ ] [<code>chore: Follow up create check list UX</code>](https://github.com/krille-chan/fluffychat/commit/5fb882955c6cf9a63eaa325aafa03904b631960f)
+- [ ] [<code>chore: Nicer checkboxes</code>](https://github.com/krille-chan/fluffychat/commit/dbdd25aeb26243e4ba735c7d62439e001fe44b39)
+- [ ] [<code>build: Upgrade to flutter 3.32.1</code>](https://github.com/krille-chan/fluffychat/commit/c52209ccdd5a2cc0558244bfe3b29909e5e937f5)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -308,6 +316,14 @@
 - [ ] [<code>fix: No crash on logging out in client chooser button</code>](https://github.com/krille-chan/fluffychat/commit/3078e9788f5eaf9857e8355d84d22063f47b019b)
 - [ ] [<code>fix: App crash on page navigation with open popup menu</code>](https://github.com/krille-chan/fluffychat/commit/49780b01fe757119c9e99d6e281367a51673ea41)
 - [ ] [<code>feat: Add feature flag for refresh tokens</code>](https://github.com/krille-chan/fluffychat/commit/c445a6a294fd80eb9e4bc488f1dadd8ade3b888a)
+- [ ] [<code>chore: Remove custom errorwidgetbuilder</code>](https://github.com/krille-chan/fluffychat/commit/1c9a3115c92a54017038f9a369197e069f1351cf)
+- [ ] [<code>fix: Add missing mounted check to mxcImage</code>](https://github.com/krille-chan/fluffychat/commit/dbba21f552fefe0e5126780b76cdf951b386f0ca)
+- [ ] [<code>chore: Follow up fix popupmenu crash</code>](https://github.com/krille-chan/fluffychat/commit/8725de504fd4d2b908f0cc0ecdf95d347700e4ad)
+- [ ] [<code>fix: Keep state of text input dialogs</code>](https://github.com/krille-chan/fluffychat/commit/fb134cba2f2765eb170417e06de565755c89ad1a)
+- [ ] [<code>chore: Follow up add check list</code>](https://github.com/krille-chan/fluffychat/commit/52ba9468a4ab691ab9886895566e3e7bb6ba2b81)
+- [ ] [<code>chore: Follow up create check list UX</code>](https://github.com/krille-chan/fluffychat/commit/5fb882955c6cf9a63eaa325aafa03904b631960f)
+- [ ] [<code>chore: Nicer checkboxes</code>](https://github.com/krille-chan/fluffychat/commit/dbdd25aeb26243e4ba735c7d62439e001fe44b39)
+- [ ] [<code>build: Upgrade to flutter 3.32.1</code>](https://github.com/krille-chan/fluffychat/commit/c52209ccdd5a2cc0558244bfe3b29909e5e937f5)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -761,6 +777,10 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ec331b44ccaa48a536ccfa47d86455a032096993)
 - [ ] [<code>Release Incus 6.13</code>](https://github.com/lxc/incus/commit/f7bbf67a81c271a96f18e9a5829018c0c6aef2ac)
   - <sub>Tags: <code>v6.13.0</code></sub>
+- [ ] [<code>incus: Make sure we parse the config early enough</code>](https://github.com/lxc/incus/commit/c8880fb37f38a382be8ebf22f6c49205a2ecce25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/main_aliases: Avoid parsing loops</code>](https://github.com/lxc/incus/commit/9fd5d3656ec9eb459d7ea7d75f3ab74cead24deb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3941,6 +3961,10 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/ec331b44ccaa48a536ccfa47d86455a032096993)
 - [ ] [<code>Release Incus 6.13</code>](https://github.com/lxc/incus/commit/f7bbf67a81c271a96f18e9a5829018c0c6aef2ac)
   - <sub>Tags: <code>v6.13.0</code></sub>
+- [ ] [<code>incus: Make sure we parse the config early enough</code>](https://github.com/lxc/incus/commit/c8880fb37f38a382be8ebf22f6c49205a2ecce25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/main_aliases: Avoid parsing loops</code>](https://github.com/lxc/incus/commit/9fd5d3656ec9eb459d7ea7d75f3ab74cead24deb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
