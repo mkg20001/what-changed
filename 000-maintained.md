@@ -243,6 +243,7 @@
 - [ ] [<code>chore: Update voice message localization</code>](https://github.com/krille-chan/fluffychat/commit/29a20f342ed109b73692c2c79766542fb0d0e8b3)
 - [ ] [<code>ci: Bring back stale bot but with much longer issue life time of one year</code>](https://github.com/krille-chan/fluffychat/commit/4ca098cc655fca8404155d396156e249b445fda7)
 - [ ] [<code>chore: Preload server file config before upload files</code>](https://github.com/krille-chan/fluffychat/commit/130a094f35b76ee121dc26864d085684fab7b3a8)
+- [ ] [<code>build: Update Matrix Dart SDK 0.40.1</code>](https://github.com/krille-chan/fluffychat/commit/43b1d8802d6d6b9f2d566d98d4bd4c5fe39ed63d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -332,6 +333,7 @@
 - [ ] [<code>chore: Update voice message localization</code>](https://github.com/krille-chan/fluffychat/commit/29a20f342ed109b73692c2c79766542fb0d0e8b3)
 - [ ] [<code>ci: Bring back stale bot but with much longer issue life time of one year</code>](https://github.com/krille-chan/fluffychat/commit/4ca098cc655fca8404155d396156e249b445fda7)
 - [ ] [<code>chore: Preload server file config before upload files</code>](https://github.com/krille-chan/fluffychat/commit/130a094f35b76ee121dc26864d085684fab7b3a8)
+- [ ] [<code>build: Update Matrix Dart SDK 0.40.1</code>](https://github.com/krille-chan/fluffychat/commit/43b1d8802d6d6b9f2d566d98d4bd4c5fe39ed63d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4112,6 +4114,7 @@
 - [ ] [<code>Remove obsolete comment on avifRGBImageComputeGainMap (#2814)</code>](https://github.com/AOMediaCodec/libavif/commit/9e2952d0aa66d5336afc3ad7e8c5dd337c25745f)
 - [ ] [<code>avifavmtest:Lower PSNR threshold from 38.1 to 36.6</code>](https://github.com/AOMediaCodec/libavif/commit/c1003e864ce4ec0511143c3bca06c5ee1634e98e)
 - [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/bc2e36ad1f22a2253f7b33a1e64dd0654b8f6804)
+- [ ] [<code>Bump rav1e to v0.8.0</code>](https://github.com/AOMediaCodec/libavif/commit/71e78edf6ad4018313acfca275aec7770e057de7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4431,6 +4434,11 @@
 - [ ] [<code>SNMP: aruba-clearpass.yaml (#20382)</code>](https://github.com/netdata/netdata.git/commit/66a54e9f8755a5aeb874ae9e86e821974823af05)
 - [ ] [<code>apps.plugin documentation and grouping matches improvements (#20386)</code>](https://github.com/netdata/netdata.git/commit/940ce2e211e012862509c5addd256d13a9cacfba)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-138-nightly.</code>](https://github.com/netdata/netdata.git/commit/55af3476b1bfcece8249fc6a2501c2cbbc36085f)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.2.1+incompatible to 28.2.2+incompatible in /src/go (#20387)</code>](https://github.com/netdata/netdata.git/commit/e793b2d3351464da1810eab6c6c624f81c0fa0e2)
+- [ ] [<code>Model Context Protocol (MCP) Part 2 (#20287)</code>](https://github.com/netdata/netdata.git/commit/ffe23567bfe5569198ce1193cc558e807a19b9a6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
