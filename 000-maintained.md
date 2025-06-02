@@ -791,6 +791,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/main_aliases: Avoid parsing loops</code>](https://github.com/lxc/incus/commit/9fd5d3656ec9eb459d7ea7d75f3ab74cead24deb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Skip invtsc on non-x86 and when running nested</code>](https://github.com/lxc/incus/commit/a7e13035ff3ddfadcf827054370f3499f649698a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3975,11 +3976,14 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/main_aliases: Avoid parsing loops</code>](https://github.com/lxc/incus/commit/9fd5d3656ec9eb459d7ea7d75f3ab74cead24deb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qemu: Skip invtsc on non-x86 and when running nested</code>](https://github.com/lxc/incus/commit/a7e13035ff3ddfadcf827054370f3499f649698a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
 - [ ] [<code>Handle null response from storage-pools API by treating it as an empty array</code>](https://github.com/zabbly/incus-ui-canonical/commit/b4b2804b6dec4a2fa0dc5115ec0873fa13ab5192)
 - [ ] [<code>Check array length before calling setArch</code>](https://github.com/zabbly/incus-ui-canonical/commit/c0297091e4263d540c2ad650c7e89dbbac912d8c)
+- [ ] [<code>Merge pull request #65 from presztak/fix_browse_images</code>](https://github.com/zabbly/incus-ui-canonical/commit/6dc176a49b730132e82620e37c6ae333e4d9f98b)
+  - <sub>Tags: <code>incus-0.15.4</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4115,6 +4119,7 @@
 - [ ] [<code>avifavmtest:Lower PSNR threshold from 38.1 to 36.6</code>](https://github.com/AOMediaCodec/libavif/commit/c1003e864ce4ec0511143c3bca06c5ee1634e98e)
 - [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/bc2e36ad1f22a2253f7b33a1e64dd0654b8f6804)
 - [ ] [<code>Bump rav1e to v0.8.0</code>](https://github.com/AOMediaCodec/libavif/commit/71e78edf6ad4018313acfca275aec7770e057de7)
+- [ ] [<code>Reject a colr box with empty ICC_profile</code>](https://github.com/AOMediaCodec/libavif/commit/0f6450704113ea77675eca9e1659bb9aeb485829)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4226,6 +4231,8 @@
 - [ ] [<code>Revert "re-add onexec for apparmor, move label assumption until after container has been setup for attach"</code>](https://github.com/lxc/lxc/commit/d5beb15ae6a44d1b41388df81baf4ff00fae3963)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Add loong64 to list of recognized architectures</code>](https://github.com/lxc/lxc/commit/ad0804e4107527487e79e0cfa946239ac1c5de02)
+- [ ] [<code>meson.build: set `LXC_DISTRO_SYSCONF` when `-Dspecfile=true`</code>](https://github.com/lxc/lxc/commit/6d6f0e1b090112442cfdaa79e7f15a8020211016)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4439,6 +4446,10 @@
 - [ ] [<code>Model Context Protocol (MCP) Part 2 (#20287)</code>](https://github.com/netdata/netdata.git/commit/ffe23567bfe5569198ce1193cc558e807a19b9a6)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>improvement(go.d/httpcheck): add resp validation debug logging (#20392)</code>](https://github.com/netdata/netdata.git/commit/9dbdc6d6149b24eb7df5fb4c5c92205c239a9029)
+- [ ] [<code>Improve DynCfg documentation (#20384)</code>](https://github.com/netdata/netdata.git/commit/e0ab77d35ac4d876db26cbb3d021175e5515794a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(go.d): allow to debug a specific job (#20394)</code>](https://github.com/netdata/netdata.git/commit/1578ef73deb803e7429ceb83c546f4be6ceaa4d9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5990,6 +6001,10 @@
 - [ ] [<code>Bump softprops/action-gh-release from 2.0.8 to 2.2.2 (#660)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa3f2437a374ddb0802334f5688c49011066a08a)
 - [ ] [<code>Downgrade react-router to `6.27.0` to fix import users (#678)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7a286ad50666af5cc40b27d872ba848a247340ac)
 - [ ] [<code>fix: Start if `BASE_URL` is not defined (#677)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ef8ae9b38fbd7c39c5c1274a00fe4826789de140)
+- [ ] [<code>fix(Dockerfile): `FROM` and `AS` both in uppercase, `FromAsCasing` (#680)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3902dcd3d11721b22ed5306a9af43ac5808700a0)
+  - <sub>Tags: <code>0.11.1</code></sub>
+- [ ] [<code>chore: bump react-admin to `5.8` and `mui` to `7.1` (#679)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e15411a04cbea5040afbc0b70461ac57507962b2)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.100 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.100...HEAD)
 
