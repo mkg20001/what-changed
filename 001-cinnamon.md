@@ -86,6 +86,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>PopupResizeHandler: recheck for restricted size after applet resized (#12815)</code>](https://github.com/linuxmint/cinnamon/commit/c7792177753cfbd1e7fe60f9737a59b54cac6725)
 - [ ] [<code>PopupResizeHandler: return correct popup size bugfix (#12804)</code>](https://github.com/linuxmint/cinnamon/commit/0df121fed0136f686cecb351fe55a513c73827ab)
+- [ ] [<code>power: Add suspend option to battery-critial actions (#12680)</code>](https://github.com/linuxmint/cinnamon/commit/ffc1411e29fc051630559c5e86e4f31b71df156e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>xlet-settings-ref.xml: Updates datechooser, timechooser and layout (#12864)</code>](https://github.com/linuxmint/cinnamon/commit/688c936d89503d85b55a0ff74e80a185b63db8db)
+- [ ] [<code>Add nightlight@cinnamon.org applet (#12562)</code>](https://github.com/linuxmint/cinnamon/commit/393ff18946ed2d466dd3846856476bf785d34e00)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -123,6 +128,7 @@
 
 - [ ] [<code>csm-manager.c: Add functionality to restart the cinnamon-launcher (#184)</code>](https://github.com/linuxmint/cinnamon-session/commit/f72fbe16a1453488f921b362d2dc467039d935b2)
 - [ ] [<code>Fixes cinnamon-session-quit --logout --no-prompt --force not working (#183)</code>](https://github.com/linuxmint/cinnamon-session/commit/507af06bab2d551a1744f06ac79ed780400d85fc)
+- [ ] [<code>Remove old upower support to match c-s-d commits (#185)</code>](https://github.com/linuxmint/cinnamon-session/commit/97bcafd5933e2f073d51105061e049ba7ff0811e)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/6.4.3...HEAD)
