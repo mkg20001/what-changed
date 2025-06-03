@@ -792,6 +792,7 @@
 - [ ] [<code>incus/main_aliases: Avoid parsing loops</code>](https://github.com/lxc/incus/commit/9fd5d3656ec9eb459d7ea7d75f3ab74cead24deb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Skip invtsc on non-x86 and when running nested</code>](https://github.com/lxc/incus/commit/a7e13035ff3ddfadcf827054370f3499f649698a)
+- [ ] [<code>incusd/instance/qmp remove net Conn</code>](https://github.com/lxc/incus/commit/d528d7daf0a49f9ccbf822369c3687776ea85c5e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3977,6 +3978,7 @@
 - [ ] [<code>incus/main_aliases: Avoid parsing loops</code>](https://github.com/lxc/incus/commit/9fd5d3656ec9eb459d7ea7d75f3ab74cead24deb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Skip invtsc on non-x86 and when running nested</code>](https://github.com/lxc/incus/commit/a7e13035ff3ddfadcf827054370f3499f649698a)
+- [ ] [<code>incusd/instance/qmp remove net Conn</code>](https://github.com/lxc/incus/commit/d528d7daf0a49f9ccbf822369c3687776ea85c5e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4120,6 +4122,7 @@
 - [ ] [<code>Bump the github-actions group with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/bc2e36ad1f22a2253f7b33a1e64dd0654b8f6804)
 - [ ] [<code>Bump rav1e to v0.8.0</code>](https://github.com/AOMediaCodec/libavif/commit/71e78edf6ad4018313acfca275aec7770e057de7)
 - [ ] [<code>Reject a colr box with empty ICC_profile</code>](https://github.com/AOMediaCodec/libavif/commit/0f6450704113ea77675eca9e1659bb9aeb485829)
+- [ ] [<code>Remove ext/avm.cmd (#2820)</code>](https://github.com/AOMediaCodec/libavif/commit/963c4bb918bee37cf1ccbd81efa5d8cf530647cf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4450,6 +4453,8 @@
 - [ ] [<code>Improve DynCfg documentation (#20384)</code>](https://github.com/netdata/netdata.git/commit/e0ab77d35ac4d876db26cbb3d021175e5515794a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(go.d): allow to debug a specific job (#20394)</code>](https://github.com/netdata/netdata.git/commit/1578ef73deb803e7429ceb83c546f4be6ceaa4d9)
+- [ ] [<code>Maintenance: update restart, backup, uninstall, and restore docs (#20398)</code>](https://github.com/netdata/netdata.git/commit/890ddf5034ea028302f3855378546c136a6010ca)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
