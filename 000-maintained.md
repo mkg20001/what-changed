@@ -4455,6 +4455,7 @@
 - [ ] [<code>feat(go.d): allow to debug a specific job (#20394)</code>](https://github.com/netdata/netdata.git/commit/1578ef73deb803e7429ceb83c546f4be6ceaa4d9)
 - [ ] [<code>Maintenance: update restart, backup, uninstall, and restore docs (#20398)</code>](https://github.com/netdata/netdata.git/commit/890ddf5034ea028302f3855378546c136a6010ca)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Improve retention calculation after datafile deletion (#20350)</code>](https://github.com/netdata/netdata.git/commit/17320a50c26a4478a1f5340bd4f04c5dcee0fd55)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
