@@ -151,6 +151,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat: add FDE documentation link to confirmation dialog (#343)</code>](https://github.com/canonical/firmware-updater/commit/4f180b96d48b301f9e4ada42cc9473cc3edfdcb8)
 - [ ] [<code>chore: Update Flutter and dependencies (#344)</code>](https://github.com/canonical/firmware-updater/commit/115a72559a4dfe8d77cab07d510e98bc7d7823bc)
+- [ ] [<code>fix: regenerate l10n strings</code>](https://github.com/canonical/firmware-updater/commit/b17345faa3716dfe616a29919d9b29a7ec333c2a)
+- [ ] [<code>fix: regenerate l10n strings (#347)</code>](https://github.com/canonical/firmware-updater/commit/d234932418a60c614327b44f19ff8629134b4e5d)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -798,6 +800,9 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a62d2daa50d2c6b88adc2f6949e8c5a7b2d6ff9e)
 - [ ] [<code>incusd/backup: Add upload function</code>](https://github.com/lxc/incus/commit/2bec80daf1b9d9e1857192e584a00b21c470d5e3)
 - [ ] [<code>incusd: Add backup upload logic</code>](https://github.com/lxc/incus/commit/165a1121dcf9cb68bc67d1dfcde71679e367f0bf)
+- [ ] [<code>incusd/device/nic_physical: Check for parent being a bridge</code>](https://github.com/lxc/incus/commit/4e1400c450305b765d5187d312b8e0ff008603a7)
+- [ ] [<code>incusd/device/nic_physical: Handle managed physical network being a bridge</code>](https://github.com/lxc/incus/commit/16a276afc6a6319c333c589277c209c8a1a30906)
+- [ ] [<code>incusd/instance/lxc: Tweak OCI entrypoint escaping</code>](https://github.com/lxc/incus/commit/a3eb0d0e404f346ec1c681c3c2b1320ac902adf5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3989,6 +3994,9 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a62d2daa50d2c6b88adc2f6949e8c5a7b2d6ff9e)
 - [ ] [<code>incusd/backup: Add upload function</code>](https://github.com/lxc/incus/commit/2bec80daf1b9d9e1857192e584a00b21c470d5e3)
 - [ ] [<code>incusd: Add backup upload logic</code>](https://github.com/lxc/incus/commit/165a1121dcf9cb68bc67d1dfcde71679e367f0bf)
+- [ ] [<code>incusd/device/nic_physical: Check for parent being a bridge</code>](https://github.com/lxc/incus/commit/4e1400c450305b765d5187d312b8e0ff008603a7)
+- [ ] [<code>incusd/device/nic_physical: Handle managed physical network being a bridge</code>](https://github.com/lxc/incus/commit/16a276afc6a6319c333c589277c209c8a1a30906)
+- [ ] [<code>incusd/instance/lxc: Tweak OCI entrypoint escaping</code>](https://github.com/lxc/incus/commit/a3eb0d0e404f346ec1c681c3c2b1320ac902adf5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4466,6 +4474,12 @@
 - [ ] [<code>Maintenance: update restart, backup, uninstall, and restore docs (#20398)</code>](https://github.com/netdata/netdata.git/commit/890ddf5034ea028302f3855378546c136a6010ca)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Improve retention calculation after datafile deletion (#20350)</code>](https://github.com/netdata/netdata.git/commit/17320a50c26a4478a1f5340bd4f04c5dcee0fd55)
+- [ ] [<code>Rename nd-mcp on windows (#20404)</code>](https://github.com/netdata/netdata.git/commit/9a83540b191acf99f053898e3eb97295d26231bf)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>SNMP: _juniper-firewall.yaml (#20407)</code>](https://github.com/netdata/netdata.git/commit/a0dd553a8477dd4eec490b2213cf986979aeebbf)
+- [ ] [<code>SNMP: _juniper-userfirewall.yaml (#20409)</code>](https://github.com/netdata/netdata.git/commit/de6fb990c67af0a070feda687de1459ce67b3561)
+- [ ] [<code>SNMP: _juniper-scu.yaml (#20408)</code>](https://github.com/netdata/netdata.git/commit/c541bce1f75b97800a72c0e556da565133fc6e16)
+- [ ] [<code>SNMP: _juniper-dcu.yaml (#20406)</code>](https://github.com/netdata/netdata.git/commit/8f4bb18b0b52479ed410b6c70f91458100f4f213)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
