@@ -793,6 +793,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Skip invtsc on non-x86 and when running nested</code>](https://github.com/lxc/incus/commit/a7e13035ff3ddfadcf827054370f3499f649698a)
 - [ ] [<code>incusd/instance/qmp remove net Conn</code>](https://github.com/lxc/incus/commit/d528d7daf0a49f9ccbf822369c3687776ea85c5e)
+- [ ] [<code>api: backup_s3_upload</code>](https://github.com/lxc/incus/commit/795ef0362a5a32743ced5ff655e6aeb9f485eaf4)
+- [ ] [<code>shared/api: Add backup target for instance and volume</code>](https://github.com/lxc/incus/commit/78afcd97fd3878f97d567f59483e70b0f20278d7)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a62d2daa50d2c6b88adc2f6949e8c5a7b2d6ff9e)
+- [ ] [<code>incusd/backup: Add upload function</code>](https://github.com/lxc/incus/commit/2bec80daf1b9d9e1857192e584a00b21c470d5e3)
+- [ ] [<code>incusd: Add backup upload logic</code>](https://github.com/lxc/incus/commit/165a1121dcf9cb68bc67d1dfcde71679e367f0bf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3979,6 +3984,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Skip invtsc on non-x86 and when running nested</code>](https://github.com/lxc/incus/commit/a7e13035ff3ddfadcf827054370f3499f649698a)
 - [ ] [<code>incusd/instance/qmp remove net Conn</code>](https://github.com/lxc/incus/commit/d528d7daf0a49f9ccbf822369c3687776ea85c5e)
+- [ ] [<code>api: backup_s3_upload</code>](https://github.com/lxc/incus/commit/795ef0362a5a32743ced5ff655e6aeb9f485eaf4)
+- [ ] [<code>shared/api: Add backup target for instance and volume</code>](https://github.com/lxc/incus/commit/78afcd97fd3878f97d567f59483e70b0f20278d7)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a62d2daa50d2c6b88adc2f6949e8c5a7b2d6ff9e)
+- [ ] [<code>incusd/backup: Add upload function</code>](https://github.com/lxc/incus/commit/2bec80daf1b9d9e1857192e584a00b21c470d5e3)
+- [ ] [<code>incusd: Add backup upload logic</code>](https://github.com/lxc/incus/commit/165a1121dcf9cb68bc67d1dfcde71679e367f0bf)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
