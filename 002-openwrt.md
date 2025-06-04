@@ -5,6 +5,8 @@
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a → HEAD](https://git.openwrt.org/project/libubox.git/compare/3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a...HEAD)
 
+- [ ] [<code>remove compatibility code for older json-c versions</code>](https://git.openwrt.org/project/libubox.git/commit/b7acc8e6fd5e13611ad90a593e98f9589af4009a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
