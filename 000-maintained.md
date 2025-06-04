@@ -153,6 +153,38 @@
 - [ ] [<code>chore: Update Flutter and dependencies (#344)</code>](https://github.com/canonical/firmware-updater/commit/115a72559a4dfe8d77cab07d510e98bc7d7823bc)
 - [ ] [<code>fix: regenerate l10n strings</code>](https://github.com/canonical/firmware-updater/commit/b17345faa3716dfe616a29919d9b29a7ec333c2a)
 - [ ] [<code>fix: regenerate l10n strings (#347)</code>](https://github.com/canonical/firmware-updater/commit/d234932418a60c614327b44f19ff8629134b4e5d)
+- [ ] [<code>fix(l10n): translated using Weblate (Portuguese)</code>](https://github.com/canonical/firmware-updater/commit/72b8956ceae8ac2e879687f05b6a124f698e87f2)
+- [ ] [<code>fix(l10n): translated using Weblate (Tamil)</code>](https://github.com/canonical/firmware-updater/commit/2066e30b6496b747afd1a50f5f783c70abab456c)
+- [ ] [<code>fix(l10n): translated using Weblate (Greek)</code>](https://github.com/canonical/firmware-updater/commit/ca5143ec3d1fab6b4e69158451ff01af49616976)
+- [ ] [<code>fix(l10n): translated using Weblate (Dutch)</code>](https://github.com/canonical/firmware-updater/commit/585c20df70f88d9007b7d087b2ada69c89e48980)
+- [ ] [<code>fix(l10n): translated using Weblate (Polish)</code>](https://github.com/canonical/firmware-updater/commit/a1f72c012bc5112ffb247a706c363c366f47a723)
+- [ ] [<code>fix(l10n): translated using Weblate (Estonian)</code>](https://github.com/canonical/firmware-updater/commit/c7558aa51e7ae41389c8badfdce0ca2b060b9048)
+- [ ] [<code>fix(l10n): translated using Weblate (Dutch)</code>](https://github.com/canonical/firmware-updater/commit/87b7423bed5572d78e4ebfbd15ccae39d08b1c91)
+- [ ] [<code>fix(l10n): translated using Weblate (Slovak)</code>](https://github.com/canonical/firmware-updater/commit/5fde695c4fc18067972461d1466311e60cd76c39)
+- [ ] [<code>fix(l10n): translated using Weblate (Ukrainian)</code>](https://github.com/canonical/firmware-updater/commit/646c01259151430fe166d3f7928ce1b7a0377ed1)
+- [ ] [<code>fix(l10n): translated using Weblate (German)</code>](https://github.com/canonical/firmware-updater/commit/05b7ceb2ff0d07d17ad17793c31889b52d3a90c8)
+- [ ] [<code>fix(l10n): translated using Weblate (Russian)</code>](https://github.com/canonical/firmware-updater/commit/5d4b5e962d4edcd2f3622d94e3aceb0f7ff92a50)
+- [ ] [<code>fix(l10n): translated using Weblate (Spanish)</code>](https://github.com/canonical/firmware-updater/commit/d8fab8d49ab5bddf5c81609ef07bed54fba45f38)
+- [ ] [<code>fix(l10n): translated using Weblate (Swedish)</code>](https://github.com/canonical/firmware-updater/commit/837ef21462e8476988b4f62ec3c8da1dd1d288c0)
+- [ ] [<code>fix(l10n): translated using Weblate (Portuguese)</code>](https://github.com/canonical/firmware-updater/commit/c96b2686daa489bfd0585043bf8329a3a09df407)
+- [ ] [<code>fix(l10n): translated using Weblate (Irish)</code>](https://github.com/canonical/firmware-updater/commit/4414f99cfda234f78ba043669b38afcfd7e913f9)
+- [ ] [<code>fix(l10n): translated using Weblate (French)</code>](https://github.com/canonical/firmware-updater/commit/c7a8848a2bae4d3b62c56613bf90aa1522056c53)
+- [ ] [<code>fix(l10n): translated using Weblate (Czech)</code>](https://github.com/canonical/firmware-updater/commit/d0f78fb0f463681519415c78749bc0ab748c3227)
+- [ ] [<code>fix(l10n): translated using Weblate (Esperanto)</code>](https://github.com/canonical/firmware-updater/commit/0704a4c9b4b1c3b6d5949a6e88c594ee423f4596)
+- [ ] [<code>fix(l10n): translated using Weblate (Occitan)</code>](https://github.com/canonical/firmware-updater/commit/c52c5b9418ddcc586644aafdc468a62900954797)
+- [ ] [<code>fix(l10n): translated using Weblate (Portuguese)</code>](https://github.com/canonical/firmware-updater/commit/7cb864e3f700fe1e8dec26e20a11c87b8080df6a)
+- [ ] [<code>fix(l10n): translated using Weblate (Portuguese)</code>](https://github.com/canonical/firmware-updater/commit/609adfb3eedfeaff691098192cd9d2163d988f33)
+- [ ] [<code>fix(l10n): translated using Weblate (Hebrew)</code>](https://github.com/canonical/firmware-updater/commit/e9129ca867ff0d7332980e81e1efa751264a1d39)
+- [ ] [<code>fix(l10n): translated using Weblate (Georgian)</code>](https://github.com/canonical/firmware-updater/commit/84843925f6df2ad19b3b4b1099732b030e543929)
+- [ ] [<code>fix(l10n): translated using Weblate (Finnish)</code>](https://github.com/canonical/firmware-updater/commit/bc6bc0db5524245ccd54fcc2a29a16787462b61c)
+- [ ] [<code>fix(l10n): translated using Weblate (Chinese (Traditional Han script))</code>](https://github.com/canonical/firmware-updater/commit/64b987dd1123364122d662257dd18ba0ffc1a830)
+- [ ] [<code>fix(l10n): translated using Weblate (Tamil)</code>](https://github.com/canonical/firmware-updater/commit/450b44bf78e95b7d8a1275503da23a80d24911ca)
+- [ ] [<code>fix(l10n): translated using Weblate (Turkish)</code>](https://github.com/canonical/firmware-updater/commit/9089807c5b3cc4e7504cc865bbc7e11cd6df6aa8)
+- [ ] [<code>fix(l10n): translated using Weblate (Khmer (Central))</code>](https://github.com/canonical/firmware-updater/commit/49a9611f69bba9a6ed106fe444f57cb8d6b79a1d)
+- [ ] [<code>fix(l10n): translated using Weblate (Catalan)</code>](https://github.com/canonical/firmware-updater/commit/cc7d4e7cbd356eeff682149e3cce483a7052fda8)
+- [ ] [<code>fix(l10n): translated using Weblate (Catalan)</code>](https://github.com/canonical/firmware-updater/commit/ea4d6f257fd48015a1a6c52dd32121ecdc3141e9)
+- [ ] [<code>chore: regenerate l10n</code>](https://github.com/canonical/firmware-updater/commit/b8c69e170f0123f9f70965196eb67abe424f7cd8)
+- [ ] [<code>fix(l10n): translations update from Hosted Weblate (#341)</code>](https://github.com/canonical/firmware-updater/commit/cb6fe75988af48672d6dd648b13907d8d2aeaed8)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -4480,6 +4512,9 @@
 - [ ] [<code>SNMP: _juniper-userfirewall.yaml (#20409)</code>](https://github.com/netdata/netdata.git/commit/de6fb990c67af0a070feda687de1459ce67b3561)
 - [ ] [<code>SNMP: _juniper-scu.yaml (#20408)</code>](https://github.com/netdata/netdata.git/commit/c541bce1f75b97800a72c0e556da565133fc6e16)
 - [ ] [<code>SNMP: _juniper-dcu.yaml (#20406)</code>](https://github.com/netdata/netdata.git/commit/8f4bb18b0b52479ed410b6c70f91458100f4f213)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-151-nightly.</code>](https://github.com/netdata/netdata.git/commit/8129c8c12a68128223c2cc7264f6552932897fd4)
+- [ ] [<code>improvement(go.d): add ddsnmp profile collector (scalar only) (#20415)</code>](https://github.com/netdata/netdata.git/commit/f0eecb8c58080b967ff1114245d0ea18b1bf53b8)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6019,7 +6054,7 @@
 
 > Dropped steam-run - no appropriate URL found OrderedDict({'attr_path': 'steam-run', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.82.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.83.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.83.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.11.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.11.0...HEAD)
