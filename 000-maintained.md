@@ -286,6 +286,8 @@
 - [ ] [<code>chore: Follow up: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/a22a1f7702f17b229f123615206fb215e7fcd7ad)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
+- [ ] [<code>build: Changelog for 1.27.0</code>](https://github.com/krille-chan/fluffychat/commit/ca4db07d83e91e74a07e98933432b7254939d426)
+  - <sub>Tags: <code>rc1.27.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -384,6 +386,8 @@
 - [ ] [<code>chore: Follow up: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/a22a1f7702f17b229f123615206fb215e7fcd7ad)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
+- [ ] [<code>build: Changelog for 1.27.0</code>](https://github.com/krille-chan/fluffychat/commit/ca4db07d83e91e74a07e98933432b7254939d426)
+  - <sub>Tags: <code>rc1.27.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -851,6 +855,10 @@
 - [ ] [<code>incusd/device/nic_physical: Check for parent being a bridge</code>](https://github.com/lxc/incus/commit/4e1400c450305b765d5187d312b8e0ff008603a7)
 - [ ] [<code>incusd/device/nic_physical: Handle managed physical network being a bridge</code>](https://github.com/lxc/incus/commit/16a276afc6a6319c333c589277c209c8a1a30906)
 - [ ] [<code>incusd/instance/lxc: Tweak OCI entrypoint escaping</code>](https://github.com/lxc/incus/commit/a3eb0d0e404f346ec1c681c3c2b1320ac902adf5)
+- [ ] [<code>incusd/network/ovn: Add dhcpv6_stateless flag</code>](https://github.com/lxc/incus/commit/af2a7aa87a2c83fccf91696364acb73570f12a81)
+- [ ] [<code>incusd/network/ovn: Tweak DNS server logic</code>](https://github.com/lxc/incus/commit/c1f5dd0f4177d8553b273af8b8d9cb7206895b02)
+- [ ] [<code>incusd/network/ovn: Set stateless DHCPv6 flag</code>](https://github.com/lxc/incus/commit/929145634132cf418bf02acbf6a916c463feec08)
+- [ ] [<code>incusd/main_forknet: Don't crash on missing status code</code>](https://github.com/lxc/incus/commit/8a3974d1a62739a81994fc215cb5797d28dd7f22)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4045,6 +4053,10 @@
 - [ ] [<code>incusd/device/nic_physical: Check for parent being a bridge</code>](https://github.com/lxc/incus/commit/4e1400c450305b765d5187d312b8e0ff008603a7)
 - [ ] [<code>incusd/device/nic_physical: Handle managed physical network being a bridge</code>](https://github.com/lxc/incus/commit/16a276afc6a6319c333c589277c209c8a1a30906)
 - [ ] [<code>incusd/instance/lxc: Tweak OCI entrypoint escaping</code>](https://github.com/lxc/incus/commit/a3eb0d0e404f346ec1c681c3c2b1320ac902adf5)
+- [ ] [<code>incusd/network/ovn: Add dhcpv6_stateless flag</code>](https://github.com/lxc/incus/commit/af2a7aa87a2c83fccf91696364acb73570f12a81)
+- [ ] [<code>incusd/network/ovn: Tweak DNS server logic</code>](https://github.com/lxc/incus/commit/c1f5dd0f4177d8553b273af8b8d9cb7206895b02)
+- [ ] [<code>incusd/network/ovn: Set stateless DHCPv6 flag</code>](https://github.com/lxc/incus/commit/929145634132cf418bf02acbf6a916c463feec08)
+- [ ] [<code>incusd/main_forknet: Don't crash on missing status code</code>](https://github.com/lxc/incus/commit/8a3974d1a62739a81994fc215cb5797d28dd7f22)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4534,6 +4546,20 @@
 - [ ] [<code>Fix context updates (#20416)</code>](https://github.com/netdata/netdata.git/commit/80fde6cd87512f800ac3f4b0596a81ddd1940c30)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-154-nightly.</code>](https://github.com/netdata/netdata.git/commit/422b4eb36c0560175fc2e4aa84dfe25751ad5280)
 - [ ] [<code>SNMP: apc_ups.yaml (#20419)</code>](https://github.com/netdata/netdata.git/commit/21c28b517c0b85874c2e73712ec5abe0ee559c3a)
+- [ ] [<code>chore(go.d/ddsnmp): correctly handle all mapping types (#20420)</code>](https://github.com/netdata/netdata.git/commit/e47687ece3669058691105ec1b5b44967eb7b718)
+- [ ] [<code>Improve metrics centralization points documentation (#20412)</code>](https://github.com/netdata/netdata.git/commit/f38fbdc4b69b952b010940a2309e6d34889b9a20)
+- [ ] [<code>update_installer: Update remove instruction (#20418)</code>](https://github.com/netdata/netdata.git/commit/891aa2544382efe5116e64eeac4390fd48a4e887)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: remove sizing-netdata-parents.md (#20421)</code>](https://github.com/netdata/netdata.git/commit/990e046af3315f86464b3e4b7ed1a2f8c16bfd57)
+- [ ] [<code>ML: Add documentation for Netdata Insights (#20425)</code>](https://github.com/netdata/netdata.git/commit/31b5e8891bd7ab333f058cb85c44b657d1fab330)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(go.d/snmp): enable profile scalar metrics collection (#20426)</code>](https://github.com/netdata/netdata.git/commit/3a787aa9e6a3b6b455c57b6e5a53cb286c561ced)
+- [ ] [<code>docs(go.d): add example how to debug a specific job (#20399)</code>](https://github.com/netdata/netdata.git/commit/1d5ff51c1064abbe393b63585efd532afe97f3e5)
+- [ ] [<code>chore(go.d/ddsnmp): lazy ddsnmp profile loading (#20427)</code>](https://github.com/netdata/netdata.git/commit/75029c074d85990d4fe4ba5bb6a2dc63afcabb33)
+- [ ] [<code>Update MSSQL Metadata (#20429)</code>](https://github.com/netdata/netdata.git/commit/cfe6dfd3e3f08d611036050f5a294c041bc4eb6f)
+- [ ] [<code>update ddsnmp mikrotik-router.yaml (#20428)</code>](https://github.com/netdata/netdata.git/commit/5b6cc4397d035be2776fc193e7e2a414c73eb9f8)
+- [ ] [<code>Regenerate integrations docs (#20430)</code>](https://github.com/netdata/netdata.git/commit/1815a1b5d7df3273462bfbdd2d7f5ad21311b677)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
