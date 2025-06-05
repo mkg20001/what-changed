@@ -177,6 +177,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>add new icon name for typhoon (#18)</code>](https://github.com/linuxmint/mint-l-icons/commit/b02d09d52fda33d871d027c474fa3e5379b3ea14)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>simplified cs-nightlight icon (#19)</code>](https://github.com/linuxmint/mint-l-icons/commit/88c477de01e4142f74d84512f9e84c7e3ed13417)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
@@ -205,6 +207,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>update ktorrent (#472)</code>](https://github.com/linuxmint/mint-y-icons/commit/1932f53f8375d5b4bd82bb86e231df135c4accf0)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>simplified cs-nightlight icon (#470)</code>](https://github.com/linuxmint/mint-y-icons/commit/8c187890e936e21645364e893fcadc72b6ca471f)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -225,6 +229,7 @@
 - [ ] [<code>search: Remove unused search history code.</code>](https://github.com/linuxmint/nemo/commit/5e96d6910436fc358a3aae5940f1b1c2a0b56982)
 - [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
 - [ ] [<code>nemo-file-management-properties.glade: Add translation comments for</code>](https://github.com/linuxmint/nemo/commit/99c76441c910993f99f227d7d45d1fea2233de3e)
+- [ ] [<code>list-view: Don't show folder expanders by default.</code>](https://github.com/linuxmint/nemo/commit/802dff9011fbb73ea48002f0cd4d5bb0304e43e1)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
