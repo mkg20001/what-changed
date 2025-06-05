@@ -4515,6 +4515,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-151-nightly.</code>](https://github.com/netdata/netdata.git/commit/8129c8c12a68128223c2cc7264f6552932897fd4)
 - [ ] [<code>improvement(go.d): add ddsnmp profile collector (scalar only) (#20415)</code>](https://github.com/netdata/netdata.git/commit/f0eecb8c58080b967ff1114245d0ea18b1bf53b8)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix context updates (#20416)</code>](https://github.com/netdata/netdata.git/commit/80fde6cd87512f800ac3f4b0596a81ddd1940c30)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
