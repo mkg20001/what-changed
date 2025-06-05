@@ -247,6 +247,7 @@
 - [ ] [<code>chore: Follow up VideoPlayer in ImageViewer</code>](https://github.com/krille-chan/fluffychat/commit/92d3e7f1c31a310913bac55088452eb34ceef37b)
 - [ ] [<code>build: Update shared preferences android</code>](https://github.com/krille-chan/fluffychat/commit/73e796c0b6656e46133b62eece16af49ce595e9a)
 - [ ] [<code>docs: Remove border for header and footer</code>](https://github.com/krille-chan/fluffychat/commit/12320d41984f4f362ca7dd601ab0c433a6d1814c)
+- [ ] [<code>feat: add setting for whether to show space navigation rail on mobile</code>](https://github.com/krille-chan/fluffychat/commit/4b926935bd9b4054cdfafb33bd577a0e6e12acd1)
 - [ ] [<code>build: Upgrade to flutter 3.22</code>](https://github.com/krille-chan/fluffychat/commit/b8547c4792d3e6f62262fe5f54c191f04ac2f063)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/af28cd2af80583ddcde0a5196657b8d55731d95a)
@@ -259,6 +260,8 @@
 - [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
 - [ ] [<code>chore: Simplify voiceMessage getter</code>](https://github.com/krille-chan/fluffychat/commit/40cceb2176b4a1b1e3071252942a547997f31b06)
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
+- [ ] [<code>resolve merge conflicts</code>](https://github.com/krille-chan/fluffychat/commit/87c2639625284ef37125ef28928b6c7ba516422c)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: App crashes on window resize in chat</code>](https://github.com/krille-chan/fluffychat/commit/a5ceab58d3f43602bf5b8b6a46246a7e93fea324)
 - [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
 - [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
@@ -278,6 +281,11 @@
 - [ ] [<code>ci: Bring back stale bot but with much longer issue life time of one year</code>](https://github.com/krille-chan/fluffychat/commit/4ca098cc655fca8404155d396156e249b445fda7)
 - [ ] [<code>chore: Preload server file config before upload files</code>](https://github.com/krille-chan/fluffychat/commit/130a094f35b76ee121dc26864d085684fab7b3a8)
 - [ ] [<code>build: Update Matrix Dart SDK 0.40.1</code>](https://github.com/krille-chan/fluffychat/commit/43b1d8802d6d6b9f2d566d98d4bd4c5fe39ed63d)
+- [ ] [<code>chore: make space nav bar narrower on mobile and ensure space nav bar matches user's theme</code>](https://github.com/krille-chan/fluffychat/commit/fef96359c99b59a8da92259c77ba83538f37ba8b)
+- [ ] [<code>build: Update matrix dart sdk 0.40.2</code>](https://github.com/krille-chan/fluffychat/commit/dde03654575721ff081adf8cc33dc2c886d56174)
+- [ ] [<code>chore: Follow up: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/a22a1f7702f17b229f123615206fb215e7fcd7ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -337,6 +345,7 @@
 - [ ] [<code>chore: Follow up VideoPlayer in ImageViewer</code>](https://github.com/krille-chan/fluffychat/commit/92d3e7f1c31a310913bac55088452eb34ceef37b)
 - [ ] [<code>build: Update shared preferences android</code>](https://github.com/krille-chan/fluffychat/commit/73e796c0b6656e46133b62eece16af49ce595e9a)
 - [ ] [<code>docs: Remove border for header and footer</code>](https://github.com/krille-chan/fluffychat/commit/12320d41984f4f362ca7dd601ab0c433a6d1814c)
+- [ ] [<code>feat: add setting for whether to show space navigation rail on mobile</code>](https://github.com/krille-chan/fluffychat/commit/4b926935bd9b4054cdfafb33bd577a0e6e12acd1)
 - [ ] [<code>build: Upgrade to flutter 3.22</code>](https://github.com/krille-chan/fluffychat/commit/b8547c4792d3e6f62262fe5f54c191f04ac2f063)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>chore: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/af28cd2af80583ddcde0a5196657b8d55731d95a)
@@ -349,6 +358,8 @@
 - [ ] [<code>feat: Limit height of text messages and expand if selected</code>](https://github.com/krille-chan/fluffychat/commit/d4f1381a2687290fcaeb5c33dd44a01c1788be70)
 - [ ] [<code>chore: Simplify voiceMessage getter</code>](https://github.com/krille-chan/fluffychat/commit/40cceb2176b4a1b1e3071252942a547997f31b06)
 - [ ] [<code>chore: Follow up formatting</code>](https://github.com/krille-chan/fluffychat/commit/c65c6f7e09809c4b4175befa44e0809f1d22d718)
+- [ ] [<code>resolve merge conflicts</code>](https://github.com/krille-chan/fluffychat/commit/87c2639625284ef37125ef28928b6c7ba516422c)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: App crashes on window resize in chat</code>](https://github.com/krille-chan/fluffychat/commit/a5ceab58d3f43602bf5b8b6a46246a7e93fea324)
 - [ ] [<code>fix: Crash when going to settings in desktop mode</code>](https://github.com/krille-chan/fluffychat/commit/44b99e72422a5d9bc2320bc29b71d8ae7b472f13)
 - [ ] [<code>chore: Follow up everything is html message</code>](https://github.com/krille-chan/fluffychat/commit/6583bfdabfbebe3bc78a1a9838b47502c110d690)
@@ -368,6 +379,11 @@
 - [ ] [<code>ci: Bring back stale bot but with much longer issue life time of one year</code>](https://github.com/krille-chan/fluffychat/commit/4ca098cc655fca8404155d396156e249b445fda7)
 - [ ] [<code>chore: Preload server file config before upload files</code>](https://github.com/krille-chan/fluffychat/commit/130a094f35b76ee121dc26864d085684fab7b3a8)
 - [ ] [<code>build: Update Matrix Dart SDK 0.40.1</code>](https://github.com/krille-chan/fluffychat/commit/43b1d8802d6d6b9f2d566d98d4bd4c5fe39ed63d)
+- [ ] [<code>chore: make space nav bar narrower on mobile and ensure space nav bar matches user's theme</code>](https://github.com/krille-chan/fluffychat/commit/fef96359c99b59a8da92259c77ba83538f37ba8b)
+- [ ] [<code>build: Update matrix dart sdk 0.40.2</code>](https://github.com/krille-chan/fluffychat/commit/dde03654575721ff081adf8cc33dc2c886d56174)
+- [ ] [<code>chore: Follow up: Add missing command hints</code>](https://github.com/krille-chan/fluffychat/commit/a22a1f7702f17b229f123615206fb215e7fcd7ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4516,6 +4532,8 @@
 - [ ] [<code>improvement(go.d): add ddsnmp profile collector (scalar only) (#20415)</code>](https://github.com/netdata/netdata.git/commit/f0eecb8c58080b967ff1114245d0ea18b1bf53b8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix context updates (#20416)</code>](https://github.com/netdata/netdata.git/commit/80fde6cd87512f800ac3f4b0596a81ddd1940c30)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-154-nightly.</code>](https://github.com/netdata/netdata.git/commit/422b4eb36c0560175fc2e4aa84dfe25751ad5280)
+- [ ] [<code>SNMP: apc_ups.yaml (#20419)</code>](https://github.com/netdata/netdata.git/commit/21c28b517c0b85874c2e73712ec5abe0ee559c3a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
