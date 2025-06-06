@@ -17,7 +17,7 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.0.5/dbeaver-ce-25.0.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.0.5/dbeaver-ce-25.0.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.0/dbeaver-ce-25.1.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.0/dbeaver-ce-25.1.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -287,7 +287,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
 - [ ] [<code>build: Changelog for 1.27.0</code>](https://github.com/krille-chan/fluffychat/commit/ca4db07d83e91e74a07e98933432b7254939d426)
-  - <sub>Tags: <code>rc1.27.0-1</code></sub>
+  - <sub>Tags: <code>rc1.27.0-1</code> <code>v1.27.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -387,7 +387,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
 - [ ] [<code>build: Changelog for 1.27.0</code>](https://github.com/krille-chan/fluffychat/commit/ca4db07d83e91e74a07e98933432b7254939d426)
-  - <sub>Tags: <code>rc1.27.0-1</code></sub>
+  - <sub>Tags: <code>rc1.27.0-1</code> <code>v1.27.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4561,6 +4561,7 @@
 - [ ] [<code>update ddsnmp mikrotik-router.yaml (#20428)</code>](https://github.com/netdata/netdata.git/commit/5b6cc4397d035be2776fc193e7e2a414c73eb9f8)
 - [ ] [<code>Regenerate integrations docs (#20430)</code>](https://github.com/netdata/netdata.git/commit/1815a1b5d7df3273462bfbdd2d7f5ad21311b677)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/488d60ab1f67a655c5ad8c8263c1fcecb3d08850)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
