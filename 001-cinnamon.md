@@ -185,6 +185,8 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.6...HEAD)
 
+- [ ] [<code>Mint-Y cinnamon: add style for category button hover (#505)</code>](https://github.com/linuxmint/mint-themes/commit/bee47aa6f520d3d51ad9bebf47ccf54bd9940050)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
