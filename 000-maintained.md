@@ -4575,6 +4575,8 @@
 - [ ] [<code>Fix heap-use-after-free in query progress updates (#20431)</code>](https://github.com/netdata/netdata.git/commit/f2d26371623ebebbcd93b5e3e7742b0fdc07976b)
 - [ ] [<code>Mcp3 (#20435)</code>](https://github.com/netdata/netdata.git/commit/5c7c9cb29668779e4c81ff313595dee75e065f52)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-173-nightly.</code>](https://github.com/netdata/netdata.git/commit/e23793b4fea4a9ece11653c93f56a66c565d264e)
+- [ ] [<code>Fix registry save integer overflow and add failure backoff (#20437)</code>](https://github.com/netdata/netdata.git/commit/5b73350b4752463da61e4b4f75918235c74247a2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
