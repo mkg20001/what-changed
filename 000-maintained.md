@@ -6068,6 +6068,10 @@
 - [ ] [<code>refactor(android): merge small files</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e77733e4b0ae4ad50eb40d4c542bfe7649c0a58b)
 - [ ] [<code>fix(android): crash when there are no quick preset slots assigned</code>](https://github.com/Oppzippy/OpenSCQ30/commit/06476d0934721247637f556d369de8fab6ae0446)
 - [ ] [<code>android: remove equalizer visualization from status notification</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c11699b07d44d71e24eb2e945cd1eb21ad534736)
+- [ ] [<code>feat(android): add quick preset load current settings button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8522dafd167d450266fa85431400396506b52de)
+- [ ] [<code>feat(android): add legacy equalizer profile migration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce186049ac79667051a90dfe70f507ae669d8695)
+- [ ] [<code>test(android): fix instrumented tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b07f2ecbc0e2d97d5e128ea091eb9350bf011c86)
+- [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/07012d3a2818f97558ee29c1d4a59e1829e88597)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
