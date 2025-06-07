@@ -859,6 +859,9 @@
 - [ ] [<code>incusd/network/ovn: Tweak DNS server logic</code>](https://github.com/lxc/incus/commit/c1f5dd0f4177d8553b273af8b8d9cb7206895b02)
 - [ ] [<code>incusd/network/ovn: Set stateless DHCPv6 flag</code>](https://github.com/lxc/incus/commit/929145634132cf418bf02acbf6a916c463feec08)
 - [ ] [<code>incusd/main_forknet: Don't crash on missing status code</code>](https://github.com/lxc/incus/commit/8a3974d1a62739a81994fc215cb5797d28dd7f22)
+- [ ] [<code>incusd/server/network: correct complement range calculation for DHCP reservations</code>](https://github.com/lxc/incus/commit/b46bc8c5fa24edced19d0d7c35608041224b1938)
+- [ ] [<code>test/storage/zfs: add test for incus:content_type after clone</code>](https://github.com/lxc/incus/commit/3214f32914a5049871d224702e6e9b153cef6733)
+- [ ] [<code>incusd/storage/zfs: Fix missing incus:content_type after cloning a custom volume</code>](https://github.com/lxc/incus/commit/38b0f5a9545083babc575feb7e87642cdcea6c5b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4057,6 +4060,9 @@
 - [ ] [<code>incusd/network/ovn: Tweak DNS server logic</code>](https://github.com/lxc/incus/commit/c1f5dd0f4177d8553b273af8b8d9cb7206895b02)
 - [ ] [<code>incusd/network/ovn: Set stateless DHCPv6 flag</code>](https://github.com/lxc/incus/commit/929145634132cf418bf02acbf6a916c463feec08)
 - [ ] [<code>incusd/main_forknet: Don't crash on missing status code</code>](https://github.com/lxc/incus/commit/8a3974d1a62739a81994fc215cb5797d28dd7f22)
+- [ ] [<code>incusd/server/network: correct complement range calculation for DHCP reservations</code>](https://github.com/lxc/incus/commit/b46bc8c5fa24edced19d0d7c35608041224b1938)
+- [ ] [<code>test/storage/zfs: add test for incus:content_type after clone</code>](https://github.com/lxc/incus/commit/3214f32914a5049871d224702e6e9b153cef6733)
+- [ ] [<code>incusd/storage/zfs: Fix missing incus:content_type after cloning a custom volume</code>](https://github.com/lxc/incus/commit/38b0f5a9545083babc575feb7e87642cdcea6c5b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4562,6 +4568,13 @@
 - [ ] [<code>Regenerate integrations docs (#20430)</code>](https://github.com/netdata/netdata.git/commit/1815a1b5d7df3273462bfbdd2d7f5ad21311b677)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/488d60ab1f67a655c5ad8c8263c1fcecb3d08850)
+- [ ] [<code>Enforce correct CPU architecture for Go plugin builds. (#20405)</code>](https://github.com/netdata/netdata.git/commit/79f38dd0d2fd8e7491894117e044b358a726ee69)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Improve statement finalization and cleanup (#20433)</code>](https://github.com/netdata/netdata.git/commit/aeaf2e01b143ef3f21ef4c890e39213156f3ae17)
+- [ ] [<code>Adjust stream connector timeout during agent shutdown (#20434)</code>](https://github.com/netdata/netdata.git/commit/80a6cd2b83d8fb3060883c8d65d4d570f141ec78)
+- [ ] [<code>Fix heap-use-after-free in query progress updates (#20431)</code>](https://github.com/netdata/netdata.git/commit/f2d26371623ebebbcd93b5e3e7742b0fdc07976b)
+- [ ] [<code>Mcp3 (#20435)</code>](https://github.com/netdata/netdata.git/commit/5c7c9cb29668779e4c81ff313595dee75e065f52)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
