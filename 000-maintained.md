@@ -290,6 +290,13 @@
   - <sub>Tags: <code>rc1.27.0-1</code> <code>v1.27.0</code></sub>
 - [ ] [<code>refactor: sdk 1.0</code>](https://github.com/krille-chan/fluffychat/commit/e548d8f895d7568fbb05aa35368d5593a23fddc2)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Add missing mounted check</code>](https://github.com/krille-chan/fluffychat/commit/ed1767ae93ef0c209b2b6d030bd8e595a7768c0f)
+- [ ] [<code>chore: Remove olm from index.html</code>](https://github.com/krille-chan/fluffychat/commit/bb5374a0eba3ab6593e0ef0139f776e586ad867d)
+- [ ] [<code>build: add rust to build packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/47a37ccc7a50637fa4d39c842d7df81760ee6836)
+- [ ] [<code>build: Upgrade flutter to 3.32.2</code>](https://github.com/krille-chan/fluffychat/commit/c9927477bc9dfe2d4d15958638d089121927f783)
+- [ ] [<code>build: Remove olm from snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/40a7dde0592fda6528d0bedd05014c185874223c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Update linux build and copy web pkg</code>](https://github.com/krille-chan/fluffychat/commit/a37b0946f23bd1274524fcb83a7663c4521676fb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -392,6 +399,13 @@
   - <sub>Tags: <code>rc1.27.0-1</code> <code>v1.27.0</code></sub>
 - [ ] [<code>refactor: sdk 1.0</code>](https://github.com/krille-chan/fluffychat/commit/e548d8f895d7568fbb05aa35368d5593a23fddc2)
   - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Add missing mounted check</code>](https://github.com/krille-chan/fluffychat/commit/ed1767ae93ef0c209b2b6d030bd8e595a7768c0f)
+- [ ] [<code>chore: Remove olm from index.html</code>](https://github.com/krille-chan/fluffychat/commit/bb5374a0eba3ab6593e0ef0139f776e586ad867d)
+- [ ] [<code>build: add rust to build packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/47a37ccc7a50637fa4d39c842d7df81760ee6836)
+- [ ] [<code>build: Upgrade flutter to 3.32.2</code>](https://github.com/krille-chan/fluffychat/commit/c9927477bc9dfe2d4d15958638d089121927f783)
+- [ ] [<code>build: Remove olm from snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/40a7dde0592fda6528d0bedd05014c185874223c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Update linux build and copy web pkg</code>](https://github.com/krille-chan/fluffychat/commit/a37b0946f23bd1274524fcb83a7663c4521676fb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4583,6 +4597,7 @@
 - [ ] [<code>Fix registry save integer overflow and add failure backoff (#20437)</code>](https://github.com/netdata/netdata.git/commit/5b73350b4752463da61e4b4f75918235c74247a2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-175-nightly.</code>](https://github.com/netdata/netdata.git/commit/9d9478303d3da58a35e302c46c40b629c6ad0f4c)
 - [ ] [<code>improvement(go.d/ddsnmp): use dev type and vendor from meta for family (#20439)</code>](https://github.com/netdata/netdata.git/commit/1f6b0ce7568544bf547a47d46ad266f3dcf5d8f4)
+- [ ] [<code>chore(go.d/ddsnmp): add basic SNMP table walking functionality (#20441)</code>](https://github.com/netdata/netdata.git/commit/db12b6ae7f56be6cfc236145dfbd8bd800dc92d4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
