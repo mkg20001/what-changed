@@ -288,6 +288,8 @@
 - [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
 - [ ] [<code>build: Changelog for 1.27.0</code>](https://github.com/krille-chan/fluffychat/commit/ca4db07d83e91e74a07e98933432b7254939d426)
   - <sub>Tags: <code>rc1.27.0-1</code> <code>v1.27.0</code></sub>
+- [ ] [<code>refactor: sdk 1.0</code>](https://github.com/krille-chan/fluffychat/commit/e548d8f895d7568fbb05aa35368d5593a23fddc2)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -388,6 +390,8 @@
 - [ ] [<code>Merge remote-tracking branch 'ggurdin/display-navigation-rail-setting'</code>](https://github.com/krille-chan/fluffychat/commit/970de1f4b099ae2c656db1e1803c669cd1735632)
 - [ ] [<code>build: Changelog for 1.27.0</code>](https://github.com/krille-chan/fluffychat/commit/ca4db07d83e91e74a07e98933432b7254939d426)
   - <sub>Tags: <code>rc1.27.0-1</code> <code>v1.27.0</code></sub>
+- [ ] [<code>refactor: sdk 1.0</code>](https://github.com/krille-chan/fluffychat/commit/e548d8f895d7568fbb05aa35368d5593a23fddc2)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4577,6 +4581,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-173-nightly.</code>](https://github.com/netdata/netdata.git/commit/e23793b4fea4a9ece11653c93f56a66c565d264e)
 - [ ] [<code>Fix registry save integer overflow and add failure backoff (#20437)</code>](https://github.com/netdata/netdata.git/commit/5b73350b4752463da61e4b4f75918235c74247a2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-175-nightly.</code>](https://github.com/netdata/netdata.git/commit/9d9478303d3da58a35e302c46c40b629c6ad0f4c)
+- [ ] [<code>improvement(go.d/ddsnmp): use dev type and vendor from meta for family (#20439)</code>](https://github.com/netdata/netdata.git/commit/1f6b0ce7568544bf547a47d46ad266f3dcf5d8f4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
