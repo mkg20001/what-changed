@@ -6072,6 +6072,14 @@
 - [ ] [<code>feat(android): add legacy equalizer profile migration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce186049ac79667051a90dfe70f507ae669d8695)
 - [ ] [<code>test(android): fix instrumented tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b07f2ecbc0e2d97d5e128ea091eb9350bf011c86)
 - [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/07012d3a2818f97558ee29c1d4a59e1829e88597)
+- [ ] [<code>ci: update ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a285cf454971f9398295d2b8b2d9bccfb51e3c82)
+- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/77ec553d2f9146b4c06abe759a44a388632616dd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: don't install unused protobuf-compiler</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e8d13e6377778a577d876280e3c4859f46853a0)
+- [ ] [<code>gui: bring back resources dir from v1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c7d6fb4b2bdbb9d328a6c6321199d004c0b2c5b7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>ci: fix build</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7815c2d57adb4021a8f688208030b34bc513cf73)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
