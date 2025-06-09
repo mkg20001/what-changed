@@ -232,6 +232,7 @@
 - [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
 - [ ] [<code>nemo-file-management-properties.glade: Add translation comments for</code>](https://github.com/linuxmint/nemo/commit/99c76441c910993f99f227d7d45d1fea2233de3e)
 - [ ] [<code>list-view: Don't show folder expanders by default.</code>](https://github.com/linuxmint/nemo/commit/802dff9011fbb73ea48002f0cd4d5bb0304e43e1)
+- [ ] [<code>nemo-list-view.c: Ignore expander size for click position</code>](https://github.com/linuxmint/nemo/commit/709835d271480e19c63755f086e24c334fb8f750)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
