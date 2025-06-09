@@ -297,6 +297,13 @@
 - [ ] [<code>build: Remove olm from snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/40a7dde0592fda6528d0bedd05014c185874223c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Update linux build and copy web pkg</code>](https://github.com/krille-chan/fluffychat/commit/a37b0946f23bd1274524fcb83a7663c4521676fb)
+- [ ] [<code>build: Follow up vodozemac web integration and clean up old scripts</code>](https://github.com/krille-chan/fluffychat/commit/2476e82c8e8d3b6e0654e954a5d5db56bf6b4b55)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/72f0b821a7423387a3f24f0d2e18cf6a8e55c624)
+- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/92735062f74d3902b7d9ea82d31ac589d17c0555)
+- [ ] [<code>build: Follow up pkg wasm</code>](https://github.com/krille-chan/fluffychat/commit/fe409481d6bd040e9b69b7e26dfe73d9e1cc1452)
+- [ ] [<code>build: Follow up vodozemac web prepare</code>](https://github.com/krille-chan/fluffychat/commit/11a45b281fd21813643ab96b4ac79eff8766ca86)
+- [ ] [<code>build: Follow up remove gitignore before deploying</code>](https://github.com/krille-chan/fluffychat/commit/00c0492574566cd25395a9daab4ce47c4bddb8ae)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -406,6 +413,13 @@
 - [ ] [<code>build: Remove olm from snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/40a7dde0592fda6528d0bedd05014c185874223c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Update linux build and copy web pkg</code>](https://github.com/krille-chan/fluffychat/commit/a37b0946f23bd1274524fcb83a7663c4521676fb)
+- [ ] [<code>build: Follow up vodozemac web integration and clean up old scripts</code>](https://github.com/krille-chan/fluffychat/commit/2476e82c8e8d3b6e0654e954a5d5db56bf6b4b55)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/72f0b821a7423387a3f24f0d2e18cf6a8e55c624)
+- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/92735062f74d3902b7d9ea82d31ac589d17c0555)
+- [ ] [<code>build: Follow up pkg wasm</code>](https://github.com/krille-chan/fluffychat/commit/fe409481d6bd040e9b69b7e26dfe73d9e1cc1452)
+- [ ] [<code>build: Follow up vodozemac web prepare</code>](https://github.com/krille-chan/fluffychat/commit/11a45b281fd21813643ab96b4ac79eff8766ca86)
+- [ ] [<code>build: Follow up remove gitignore before deploying</code>](https://github.com/krille-chan/fluffychat/commit/00c0492574566cd25395a9daab4ce47c4bddb8ae)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4598,6 +4612,12 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-175-nightly.</code>](https://github.com/netdata/netdata.git/commit/9d9478303d3da58a35e302c46c40b629c6ad0f4c)
 - [ ] [<code>improvement(go.d/ddsnmp): use dev type and vendor from meta for family (#20439)</code>](https://github.com/netdata/netdata.git/commit/1f6b0ce7568544bf547a47d46ad266f3dcf5d8f4)
 - [ ] [<code>chore(go.d/ddsnmp): add basic SNMP table walking functionality (#20441)</code>](https://github.com/netdata/netdata.git/commit/db12b6ae7f56be6cfc236145dfbd8bd800dc92d4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-178-nightly.</code>](https://github.com/netdata/netdata.git/commit/129b8b1cae40318f3418e5e99c77a4c6e1de57f8)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.40.0 to 0.41.0 in /src/go (#20444)</code>](https://github.com/netdata/netdata.git/commit/8814615bd176b418c32907dcb86febbd8a198b49)
+- [ ] [<code>build(deps): bump github.com/gosnmp/gosnmp from 1.40.0 to 1.41.0 in /src/go (#20449)</code>](https://github.com/netdata/netdata.git/commit/6abdb8260489cfdebd886e558f5750b8329e7ab0)
+- [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.1.1 to 1.1.2 in /src/go (#20446)</code>](https://github.com/netdata/netdata.git/commit/b2a0a4aef0bd50af7ea96610fed2c6addf4446e7)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.3 to 1.17.4 in /src/go (#20447)</code>](https://github.com/netdata/netdata.git/commit/6f941db2e88735a18b9d1f44d76462c1bff9283c)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.9.0 to 9.10.0 in /src/go (#20445)</code>](https://github.com/netdata/netdata.git/commit/74273e64ab2fa862fd3919ef2445dadc2b9488b8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6101,6 +6121,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>ci: fix build</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7815c2d57adb4021a8f688208030b34bc513cf73)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>test(android): add legacy equalizer profile migration test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9ae7ced0c73bb06b5b9304812bd32ff5942a099e)
+- [ ] [<code>fix(android): misaligned text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0c4af47fe8822645954f91ea2dc99ccaca41edaf)
+- [ ] [<code>test(android): add common OpenSCQ30RootTestBase class</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6d33d8a4b488b620d30aca767cf55405d25726a)
+- [ ] [<code>fix(android): notification not spawning upon permission granted</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c20ac41315f356bb3306a010d7d5f65b9aea7602)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
