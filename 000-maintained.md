@@ -304,6 +304,8 @@
 - [ ] [<code>build: Follow up pkg wasm</code>](https://github.com/krille-chan/fluffychat/commit/fe409481d6bd040e9b69b7e26dfe73d9e1cc1452)
 - [ ] [<code>build: Follow up vodozemac web prepare</code>](https://github.com/krille-chan/fluffychat/commit/11a45b281fd21813643ab96b4ac79eff8766ca86)
 - [ ] [<code>build: Follow up remove gitignore before deploying</code>](https://github.com/krille-chan/fluffychat/commit/00c0492574566cd25395a9daab4ce47c4bddb8ae)
+- [ ] [<code>build: Follow up vodozemac snap</code>](https://github.com/krille-chan/fluffychat/commit/04839a5b60531847c53927d7c6e4e901d3047376)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -420,6 +422,8 @@
 - [ ] [<code>build: Follow up pkg wasm</code>](https://github.com/krille-chan/fluffychat/commit/fe409481d6bd040e9b69b7e26dfe73d9e1cc1452)
 - [ ] [<code>build: Follow up vodozemac web prepare</code>](https://github.com/krille-chan/fluffychat/commit/11a45b281fd21813643ab96b4ac79eff8766ca86)
 - [ ] [<code>build: Follow up remove gitignore before deploying</code>](https://github.com/krille-chan/fluffychat/commit/00c0492574566cd25395a9daab4ce47c4bddb8ae)
+- [ ] [<code>build: Follow up vodozemac snap</code>](https://github.com/krille-chan/fluffychat/commit/04839a5b60531847c53927d7c6e4e901d3047376)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4618,6 +4622,8 @@
 - [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.1.1 to 1.1.2 in /src/go (#20446)</code>](https://github.com/netdata/netdata.git/commit/b2a0a4aef0bd50af7ea96610fed2c6addf4446e7)
 - [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.3 to 1.17.4 in /src/go (#20447)</code>](https://github.com/netdata/netdata.git/commit/6f941db2e88735a18b9d1f44d76462c1bff9283c)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.9.0 to 9.10.0 in /src/go (#20445)</code>](https://github.com/netdata/netdata.git/commit/74273e64ab2fa862fd3919ef2445dadc2b9488b8)
+- [ ] [<code>feat: improve SCIM documentation (#20451)</code>](https://github.com/netdata/netdata.git/commit/aa2a996843073f6811f063937f503fe749362c08)
+- [ ] [<code>Regenerate integrations docs (#20453)</code>](https://github.com/netdata/netdata.git/commit/48a3d6402e4cf7cc8980ea156224d7348c5c5254)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6400,6 +6406,9 @@
 - [ ] [<code>ubus: use ucv_resource_create_ex for ubus.subscriber resources</code>](https://github.com/jow-/ucode/commit/9ab5fa869dec1726e5b29a73d4a5dbd90bcb3de8)
 - [ ] [<code>CI: debian: install cmake package</code>](https://github.com/jow-/ucode/commit/be92ebd706339fd4a848b88ee516b1ac4eb62ef8)
   - <sub>Tags: <code>v0.0.20250529</code></sub>
+- [ ] [<code>socket: respect port argument in sockinst.connect()</code>](https://github.com/jow-/ucode/commit/fd202fd40bd1c3597f76b6e62f1781442b59ebd5)
+- [ ] [<code>socket: properly handle async `connect(2)` errors in socket.connect()</code>](https://github.com/jow-/ucode/commit/767c209b917b86ef530be977ffb31f5bbd604e4a)
+- [ ] [<code>socket: improve port argument validation in sockinst.connect()</code>](https://github.com/jow-/ucode/commit/37ac8f112af63e64c1ea2d13ae63c134b62a5681)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
