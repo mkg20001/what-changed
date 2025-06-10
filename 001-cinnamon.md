@@ -8,8 +8,10 @@
 - [ ] [<code>Remember the last operation type and filename scope.</code>](https://github.com/linuxmint/bulky/commit/9aae33ac8275106d10014bf1c30a2acd41fdc66a)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>debian/control: Remove unnecessary python3-magic dependency.</code>](https://github.com/linuxmint/bulky/commit/37f91c7192979ea0b8f698aa6a5291f214a69494)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Use auto resource management for license file (#71)</code>](https://github.com/linuxmint/bulky/commit/82abaa5fd3584b8cd790d48757ef695d646997d7)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-common](https://github.com/linuxmint/cinnamon): [6.4.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.7...HEAD)
 
@@ -90,6 +92,17 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>xlet-settings-ref.xml: Updates datechooser, timechooser and layout (#12864)</code>](https://github.com/linuxmint/cinnamon/commit/688c936d89503d85b55a0ff74e80a185b63db8db)
 - [ ] [<code>Add nightlight@cinnamon.org applet (#12562)</code>](https://github.com/linuxmint/cinnamon/commit/393ff18946ed2d466dd3846856476bf785d34e00)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: Remove dead code.</code>](https://github.com/linuxmint/cinnamon/commit/bdbbd33993c27422e8a46ab341f86e2b987fca90)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel.js: Fix launch args for 'Panel settings' menu entry.</code>](https://github.com/linuxmint/cinnamon/commit/c2be469f55fdce61a30a57473ecf3a007229fba3)
+- [ ] [<code>Add sidePage name to titlebar when entering (#12709)</code>](https://github.com/linuxmint/cinnamon/commit/6646761106e348d44120c0632e044a806ac70c36)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>desklet-photoframe: change image size to guarantee keeping the ratio (#12717)</code>](https://github.com/linuxmint/cinnamon/commit/259b827ce6cc141d4f4a007a2975b553248ac440)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Implement Thunderbolt settings module (#12762)</code>](https://github.com/linuxmint/cinnamon/commit/a165975c93e1f8b46624f547c8cdbd1b6f86f341)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Handle typed user input into the night light module (manual schedule) (#12826)</code>](https://github.com/linuxmint/cinnamon/commit/5438bd7a692f5ed90ed5daafc11601aa9305a71e)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
@@ -211,6 +224,16 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>simplified cs-nightlight icon (#470)</code>](https://github.com/linuxmint/mint-y-icons/commit/8c187890e936e21645364e893fcadc72b6ca471f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Wallet icon (#484)</code>](https://github.com/linuxmint/mint-y-icons/commit/858ac4073a4cb3f5b753203dd9c47949851c07ab)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Photos icon (#480)</code>](https://github.com/linuxmint/mint-y-icons/commit/7ec3bdad3f62c55f9a017e552e6018fbe603bdc3)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Maps icon (#481)</code>](https://github.com/linuxmint/mint-y-icons/commit/e85f36785b5b2163d0e8f3453fe59113443a4ef5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Google Play icon (#482)</code>](https://github.com/linuxmint/mint-y-icons/commit/fb7262e6c87ade002fdeb8049729756ce73408fc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Icon request: Elk (#483)</code>](https://github.com/linuxmint/mint-y-icons/commit/d78580611313aacecff3b1a860d6fb7ddb4a05b6)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -221,8 +244,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>window.c: update saved_rect to target monitor work area on tiling (#714)</code>](https://github.com/linuxmint/muffin/commit/051b8d20e8f958c85af83a79f5883446749c2709)
 - [ ] [<code>disable assert for gi scanner (#720)</code>](https://github.com/linuxmint/muffin/commit/9bac60b775230a8656dc0b1584d334f2063b32ce)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>use non-deprecated g_spawn_check_wait_status (#721)</code>](https://github.com/linuxmint/muffin/commit/4e4f74ca29004350a5b79661894fad073a2e0b6c)
+- [ ] [<code>Replace any references to mutter with muffin (#726)</code>](https://github.com/linuxmint/muffin/commit/4ad9aae66debf377e897514eaaa5045dfcb132e0)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
@@ -233,31 +260,37 @@
 - [ ] [<code>nemo-file-management-properties.glade: Add translation comments for</code>](https://github.com/linuxmint/nemo/commit/99c76441c910993f99f227d7d45d1fea2233de3e)
 - [ ] [<code>list-view: Don't show folder expanders by default.</code>](https://github.com/linuxmint/nemo/commit/802dff9011fbb73ea48002f0cd4d5bb0304e43e1)
 - [ ] [<code>nemo-list-view.c: Ignore expander size for click position</code>](https://github.com/linuxmint/nemo/commit/709835d271480e19c63755f086e24c334fb8f750)
+- [ ] [<code>nemo-window.c: Remember the second pane's location until the</code>](https://github.com/linuxmint/nemo/commit/2b70af14eb956abb8027f9648c6c35ceca1be7b2)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
+- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
+- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
+- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
+- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
 - [ ] [<code>nemo-share: Fix build</code>](https://github.com/linuxmint/nemo-extensions/commit/9cd1e8909f0c536e465662c1edd949dce554e990)
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
+- [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
