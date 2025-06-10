@@ -902,6 +902,11 @@
 - [ ] [<code>incusd/instance/qmp add qmp log implementation</code>](https://github.com/lxc/incus/commit/3190410574dbb116027074350a8eed17c9265c98)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qmp base qmp log on new implementation</code>](https://github.com/lxc/incus/commit/88c88fb1e719d251684e612327ddf152c5bdbb5a)
+- [ ] [<code>incusd/instances: Fix operation plumbing</code>](https://github.com/lxc/incus/commit/e69e96d62d646a037e5eed43830e7583caacd604)
+- [ ] [<code>incusd/instance/qemu/qmp: Add MigrateSetParameters</code>](https://github.com/lxc/incus/commit/2727034e77325178f0c1eecd1253f99f583eb85d)
+- [ ] [<code>incusd/instance/qemu: Tweak migration parameters</code>](https://github.com/lxc/incus/commit/11d534f7e4eea1026e52dabd871d8a123f8a9cad)
+- [ ] [<code>incusd/instance/qemu/qmp: Add QueryMigrate</code>](https://github.com/lxc/incus/commit/d45e6e831dd397a24e2fc2223f5a09a4d93dcb3c)
+- [ ] [<code>incusd/instance/qemu: Report migration progress</code>](https://github.com/lxc/incus/commit/3fbacc7cd30c7aca543a461d3ee9773f0f3a9fb5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4107,6 +4112,11 @@
 - [ ] [<code>incusd/instance/qmp add qmp log implementation</code>](https://github.com/lxc/incus/commit/3190410574dbb116027074350a8eed17c9265c98)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qmp base qmp log on new implementation</code>](https://github.com/lxc/incus/commit/88c88fb1e719d251684e612327ddf152c5bdbb5a)
+- [ ] [<code>incusd/instances: Fix operation plumbing</code>](https://github.com/lxc/incus/commit/e69e96d62d646a037e5eed43830e7583caacd604)
+- [ ] [<code>incusd/instance/qemu/qmp: Add MigrateSetParameters</code>](https://github.com/lxc/incus/commit/2727034e77325178f0c1eecd1253f99f583eb85d)
+- [ ] [<code>incusd/instance/qemu: Tweak migration parameters</code>](https://github.com/lxc/incus/commit/11d534f7e4eea1026e52dabd871d8a123f8a9cad)
+- [ ] [<code>incusd/instance/qemu/qmp: Add QueryMigrate</code>](https://github.com/lxc/incus/commit/d45e6e831dd397a24e2fc2223f5a09a4d93dcb3c)
+- [ ] [<code>incusd/instance/qemu: Report migration progress</code>](https://github.com/lxc/incus/commit/3fbacc7cd30c7aca543a461d3ee9773f0f3a9fb5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
@@ -4632,6 +4642,10 @@
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.9.0 to 9.10.0 in /src/go (#20445)</code>](https://github.com/netdata/netdata.git/commit/74273e64ab2fa862fd3919ef2445dadc2b9488b8)
 - [ ] [<code>feat: improve SCIM documentation (#20451)</code>](https://github.com/netdata/netdata.git/commit/aa2a996843073f6811f063937f503fe749362c08)
 - [ ] [<code>Regenerate integrations docs (#20453)</code>](https://github.com/netdata/netdata.git/commit/48a3d6402e4cf7cc8980ea156224d7348c5c5254)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-186-nightly.</code>](https://github.com/netdata/netdata.git/commit/c1e136a4984a28aabe87eabe7f4d9a61a4db22a1)
+- [ ] [<code>improvement(go.d/ddsnmp): dedup metrics when merging profiles (#20456)</code>](https://github.com/netdata/netdata.git/commit/c55d08d49f2f2ac31f77b1a0508f5001622c6ec5)
+- [ ] [<code>Weblog collector: Exclude 429 from 4xx (#20443)</code>](https://github.com/netdata/netdata.git/commit/60a6fff5b3a8d414207c37176247bcff38055b1e)
+- [ ] [<code>build(deps): bump github.com/sijms/go-ora/v2 from 2.8.24 to 2.9.0 in /src/go (#20457)</code>](https://github.com/netdata/netdata.git/commit/b80e6eced8c87ea2b2822fa4c458bd1fb67068ed)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
