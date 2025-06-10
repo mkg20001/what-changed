@@ -898,6 +898,10 @@
 - [ ] [<code>incusd/server/network: correct complement range calculation for DHCP reservations</code>](https://github.com/lxc/incus/commit/b46bc8c5fa24edced19d0d7c35608041224b1938)
 - [ ] [<code>test/storage/zfs: add test for incus:content_type after clone</code>](https://github.com/lxc/incus/commit/3214f32914a5049871d224702e6e9b153cef6733)
 - [ ] [<code>incusd/storage/zfs: Fix missing incus:content_type after cloning a custom volume</code>](https://github.com/lxc/incus/commit/38b0f5a9545083babc575feb7e87642cdcea6c5b)
+- [ ] [<code>incusd/instance/qmp move logfile to qmp</code>](https://github.com/lxc/incus/commit/69a256c384c5605973a2b446a0658bbcc0e983d9)
+- [ ] [<code>incusd/instance/qmp add qmp log implementation</code>](https://github.com/lxc/incus/commit/3190410574dbb116027074350a8eed17c9265c98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp base qmp log on new implementation</code>](https://github.com/lxc/incus/commit/88c88fb1e719d251684e612327ddf152c5bdbb5a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4099,6 +4103,10 @@
 - [ ] [<code>incusd/server/network: correct complement range calculation for DHCP reservations</code>](https://github.com/lxc/incus/commit/b46bc8c5fa24edced19d0d7c35608041224b1938)
 - [ ] [<code>test/storage/zfs: add test for incus:content_type after clone</code>](https://github.com/lxc/incus/commit/3214f32914a5049871d224702e6e9b153cef6733)
 - [ ] [<code>incusd/storage/zfs: Fix missing incus:content_type after cloning a custom volume</code>](https://github.com/lxc/incus/commit/38b0f5a9545083babc575feb7e87642cdcea6c5b)
+- [ ] [<code>incusd/instance/qmp move logfile to qmp</code>](https://github.com/lxc/incus/commit/69a256c384c5605973a2b446a0658bbcc0e983d9)
+- [ ] [<code>incusd/instance/qmp add qmp log implementation</code>](https://github.com/lxc/incus/commit/3190410574dbb116027074350a8eed17c9265c98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance/qmp base qmp log on new implementation</code>](https://github.com/lxc/incus/commit/88c88fb1e719d251684e612327ddf152c5bdbb5a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.3...HEAD)
 
