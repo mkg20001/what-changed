@@ -307,6 +307,10 @@
 - [ ] [<code>build: Follow up vodozemac snap</code>](https://github.com/krille-chan/fluffychat/commit/04839a5b60531847c53927d7c6e4e901d3047376)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>build: Switch to matrix sdk 1.0.0</code>](https://github.com/krille-chan/fluffychat/commit/2ba5b1170d0be424dc9e251302d87700bd399e6b)
+- [ ] [<code>refactor: Follow up handle logout and login with new client</code>](https://github.com/krille-chan/fluffychat/commit/2616ba6e4b918ccd8c41d5a59ec0fe309b5ae68b)
+- [ ] [<code>build: Add changelog for 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/0edd4e320dff4153e166c822da91cbea361c61d9)
+- [ ] [<code>Merge pull request #1946 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/2a7901eb76afa4fb242e3e48517e79cc537128fb)
+  - <sub>Tags: <code>rc2.0.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -426,6 +430,10 @@
 - [ ] [<code>build: Follow up vodozemac snap</code>](https://github.com/krille-chan/fluffychat/commit/04839a5b60531847c53927d7c6e4e901d3047376)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>build: Switch to matrix sdk 1.0.0</code>](https://github.com/krille-chan/fluffychat/commit/2ba5b1170d0be424dc9e251302d87700bd399e6b)
+- [ ] [<code>refactor: Follow up handle logout and login with new client</code>](https://github.com/krille-chan/fluffychat/commit/2616ba6e4b918ccd8c41d5a59ec0fe309b5ae68b)
+- [ ] [<code>build: Add changelog for 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/0edd4e320dff4153e166c822da91cbea361c61d9)
+- [ ] [<code>Merge pull request #1946 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/2a7901eb76afa4fb242e3e48517e79cc537128fb)
+  - <sub>Tags: <code>rc2.0.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4232,6 +4240,11 @@
 - [ ] [<code>improvement(go.d/ddsnmp): add table metrics, tags from the same table (#20463)</code>](https://github.com/netdata/netdata.git/commit/f540caf9b0bc57753e45eb39317fd4f93ffd84f6)
 - [ ] [<code>improve database indexing and rotation handling in event loop (#20459)</code>](https://github.com/netdata/netdata.git/commit/8b0721ab929e3b61dc21113f2eb46216d28d03a7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-194-nightly.</code>](https://github.com/netdata/netdata.git/commit/a7694ad013ad5db827c4dc9e95156417ad6bd48a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>improvement(go.d/ddsnmp): add table metrics and tags caching optimization (#20465)</code>](https://github.com/netdata/netdata.git/commit/7019e80a5bac4736dc14e464919b735b2596d3da)
+- [ ] [<code>Add MSSQL Wait statistics (windows.plugin) (#20307)</code>](https://github.com/netdata/netdata.git/commit/5f744dd79e8468d2602893a7453f4bd538fbd1fd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
