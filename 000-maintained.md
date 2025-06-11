@@ -486,6 +486,7 @@
 - [ ] [<code>incus/profile: Fix a typo in profile set usage text</code>](https://github.com/lxc/incus/commit/d17c0501bc083cb54b5c516a2edf57ba489358dc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates for profile set cmd</code>](https://github.com/lxc/incus/commit/6d109ed24e7b7db95f6f39eb7db0163539d041a4)
+- [ ] [<code>incusd/storage: Handle missing storage bucket listener</code>](https://github.com/lxc/incus/commit/325a8f9cee2f3d92c38f4b88d6e985b828e395e9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3699,6 +3700,7 @@
 - [ ] [<code>incus/profile: Fix a typo in profile set usage text</code>](https://github.com/lxc/incus/commit/d17c0501bc083cb54b5c516a2edf57ba489358dc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates for profile set cmd</code>](https://github.com/lxc/incus/commit/6d109ed24e7b7db95f6f39eb7db0163539d041a4)
+- [ ] [<code>incusd/storage: Handle missing storage bucket listener</code>](https://github.com/lxc/incus/commit/325a8f9cee2f3d92c38f4b88d6e985b828e395e9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4228,6 +4230,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>build: update otel-collector deps (#20461)</code>](https://github.com/netdata/netdata.git/commit/dd568287b06d2aaad726f160dffeb2932e358398)
 - [ ] [<code>improvement(go.d/ddsnmp): add table metrics, tags from the same table (#20463)</code>](https://github.com/netdata/netdata.git/commit/f540caf9b0bc57753e45eb39317fd4f93ffd84f6)
+- [ ] [<code>improve database indexing and rotation handling in event loop (#20459)</code>](https://github.com/netdata/netdata.git/commit/8b0721ab929e3b61dc21113f2eb46216d28d03a7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
