@@ -495,6 +495,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates for profile set cmd</code>](https://github.com/lxc/incus/commit/6d109ed24e7b7db95f6f39eb7db0163539d041a4)
 - [ ] [<code>incusd/storage: Handle missing storage bucket listener</code>](https://github.com/lxc/incus/commit/325a8f9cee2f3d92c38f4b88d6e985b828e395e9)
+- [ ] [<code>incusd/instance/qmp added qmp event log</code>](https://github.com/lxc/incus/commit/1b7ac738723fbe65381ab8fd79f1f37d2f62fed2)
+- [ ] [<code>incus-migrate: Fix calculating volume size for block device</code>](https://github.com/lxc/incus/commit/333c9552188410d80e4192c2c5b8e75dbecc0523)
+- [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3709,6 +3712,9 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates for profile set cmd</code>](https://github.com/lxc/incus/commit/6d109ed24e7b7db95f6f39eb7db0163539d041a4)
 - [ ] [<code>incusd/storage: Handle missing storage bucket listener</code>](https://github.com/lxc/incus/commit/325a8f9cee2f3d92c38f4b88d6e985b828e395e9)
+- [ ] [<code>incusd/instance/qmp added qmp event log</code>](https://github.com/lxc/incus/commit/1b7ac738723fbe65381ab8fd79f1f37d2f62fed2)
+- [ ] [<code>incus-migrate: Fix calculating volume size for block device</code>](https://github.com/lxc/incus/commit/333c9552188410d80e4192c2c5b8e75dbecc0523)
+- [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4245,6 +4251,11 @@
 - [ ] [<code>improvement(go.d/ddsnmp): add table metrics and tags caching optimization (#20465)</code>](https://github.com/netdata/netdata.git/commit/7019e80a5bac4736dc14e464919b735b2596d3da)
 - [ ] [<code>Add MSSQL Wait statistics (windows.plugin) (#20307)</code>](https://github.com/netdata/netdata.git/commit/5f744dd79e8468d2602893a7453f4bd538fbd1fd)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Regenerate integrations docs (#20466)</code>](https://github.com/netdata/netdata.git/commit/cbfa502e20ad5f2b9250774b3a493267eb22ebcb)
+- [ ] [<code>Vendor protobuf in static builds. (#17774)</code>](https://github.com/netdata/netdata.git/commit/a8eef05720cd102aadc16973a6d4e2b57a83ecb4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve datafile rotation and indexing during shutdown (#20464)</code>](https://github.com/netdata/netdata.git/commit/02f18d13ce605a7b2caa4b0970fed69427a369d7)
+- [ ] [<code>Handle orphan journal files by deleting unmatched entries (#20462)</code>](https://github.com/netdata/netdata.git/commit/ed125a1a8fbbdddfa5b1e2751a6a49187f4c3a93)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
