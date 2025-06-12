@@ -4258,6 +4258,8 @@
 - [ ] [<code>Handle orphan journal files by deleting unmatched entries (#20462)</code>](https://github.com/netdata/netdata.git/commit/ed125a1a8fbbdddfa5b1e2751a6a49187f4c3a93)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-201-nightly.</code>](https://github.com/netdata/netdata.git/commit/71ed803cf3dda4ac4ce67ade15d5c6b1ed258d23)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove static build timeouts from regular builds. (#20470)</code>](https://github.com/netdata/netdata.git/commit/5f1fcb79b2ff27119a58faeaa2074a1c15adab6e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
