@@ -4256,6 +4256,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Improve datafile rotation and indexing during shutdown (#20464)</code>](https://github.com/netdata/netdata.git/commit/02f18d13ce605a7b2caa4b0970fed69427a369d7)
 - [ ] [<code>Handle orphan journal files by deleting unmatched entries (#20462)</code>](https://github.com/netdata/netdata.git/commit/ed125a1a8fbbdddfa5b1e2751a6a49187f4c3a93)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-201-nightly.</code>](https://github.com/netdata/netdata.git/commit/71ed803cf3dda4ac4ce67ade15d5c6b1ed258d23)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
