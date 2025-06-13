@@ -185,6 +185,12 @@
 - [ ] [<code>fix(l10n): translated using Weblate (Catalan)</code>](https://github.com/canonical/firmware-updater/commit/ea4d6f257fd48015a1a6c52dd32121ecdc3141e9)
 - [ ] [<code>chore: regenerate l10n</code>](https://github.com/canonical/firmware-updater/commit/b8c69e170f0123f9f70965196eb67abe424f7cd8)
 - [ ] [<code>fix(l10n): translations update from Hosted Weblate (#341)</code>](https://github.com/canonical/firmware-updater/commit/cb6fe75988af48672d6dd648b13907d8d2aeaed8)
+- [ ] [<code>feat: update l10n strings</code>](https://github.com/canonical/firmware-updater/commit/b56b838607914bf0662eae64cc0f19761278ed38)
+- [ ] [<code>feat: add recovery key check to confirmation dialog</code>](https://github.com/canonical/firmware-updater/commit/45d5dc309fb9692cdeb2a3e2108afdf6735a85bb)
+- [ ] [<code>feat: add snapd recovery key service</code>](https://github.com/canonical/firmware-updater/commit/d4347eb3923b265acbbb2afe1868a28c046b48ff)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: add test for snapd recovery key service</code>](https://github.com/canonical/firmware-updater/commit/0bbe82056e89b6ebfc97c8a2bb15d240d763d2e0)
+- [ ] [<code>feat: prompt for recovery key before updating device affected by FDE (#348)</code>](https://github.com/canonical/firmware-updater/commit/57b44d416cf94eb04d5bee3e454c2c403eb1421d)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -3857,6 +3863,8 @@
 - [ ] [<code>Remove ext/avm.cmd (#2820)</code>](https://github.com/AOMediaCodec/libavif/commit/963c4bb918bee37cf1ccbd81efa5d8cf530647cf)
 - [ ] [<code>avifavmtest.cc: Increase width to 5 in HBD test</code>](https://github.com/AOMediaCodec/libavif/commit/1c444cfa122945186748ec7ceb10d767b9285f40)
 - [ ] [<code>avifenc.c Use better formula in quantizerToQuality</code>](https://github.com/AOMediaCodec/libavif/commit/294bab13d7c6bd9c4a3a08281482acad1561c565)
+- [ ] [<code>Set CMAKE_CXX_STANDARD to 17 (#2824)</code>](https://github.com/AOMediaCodec/libavif/commit/f0951f342efbb2efe7e11e9cc7828b4ae97a3d62)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4268,6 +4276,11 @@
 - [ ] [<code>Update mcp.md (#20475)</code>](https://github.com/netdata/netdata.git/commit/47541ab588d59988c612a5117390abc0990578d5)
 - [ ] [<code>chore(go.d/ddsnmp): add dependency-based expiration to table cache (#20474)</code>](https://github.com/netdata/netdata.git/commit/f8f0581e95583129e05a41b3dc32a71e1abefc4c)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>improvement(go.d): add bearer_token_file to request cfg (#20476)</code>](https://github.com/netdata/netdata.git/commit/1d5385d150be823a8b9c5a7264cb3476a5aeec47)
+- [ ] [<code>fix(go.d/redis): don't clear tls for rediss (#20478)</code>](https://github.com/netdata/netdata.git/commit/4f3ff7f7ebb554ba922075a0271286f5287ade89)
+- [ ] [<code>chore(go.d/ddsnmp): split table collection into walk and process phases (#20479)</code>](https://github.com/netdata/netdata.git/commit/1d81615daa02fd267a8b62d68ceba5c52ad38123)
+- [ ] [<code>chore(go.d/ddsnmp): collect cross-table metrics and tags (#20481)</code>](https://github.com/netdata/netdata.git/commit/f0d0990eecfd76c6f618102b1519928968169a53)
+- [ ] [<code>Correctly ignore patches that are already applied. (#20480)</code>](https://github.com/netdata/netdata.git/commit/ade0e5be3c2eb010a1e07d1dea9db65f700fe69b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
