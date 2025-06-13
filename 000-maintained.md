@@ -3856,6 +3856,7 @@
 - [ ] [<code>Reject a colr box with empty ICC_profile</code>](https://github.com/AOMediaCodec/libavif/commit/0f6450704113ea77675eca9e1659bb9aeb485829)
 - [ ] [<code>Remove ext/avm.cmd (#2820)</code>](https://github.com/AOMediaCodec/libavif/commit/963c4bb918bee37cf1ccbd81efa5d8cf530647cf)
 - [ ] [<code>avifavmtest.cc: Increase width to 5 in HBD test</code>](https://github.com/AOMediaCodec/libavif/commit/1c444cfa122945186748ec7ceb10d767b9285f40)
+- [ ] [<code>avifenc.c Use better formula in quantizerToQuality</code>](https://github.com/AOMediaCodec/libavif/commit/294bab13d7c6bd9c4a3a08281482acad1561c565)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
