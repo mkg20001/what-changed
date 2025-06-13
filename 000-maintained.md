@@ -4261,6 +4261,13 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove static build timeouts from regular builds. (#20470)</code>](https://github.com/netdata/netdata.git/commit/5f1fcb79b2ff27119a58faeaa2074a1c15adab6e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-203-nightly.</code>](https://github.com/netdata/netdata.git/commit/226f4604d146482ea34a096a1bf32387078a6f3e)
+- [ ] [<code>improvement(go.d/snmp): create table charts (#20471)</code>](https://github.com/netdata/netdata.git/commit/8c43c26ccc3e52a2ed110a1948ddd938629fc05b)
+- [ ] [<code>Add MCP documentation (#20469)</code>](https://github.com/netdata/netdata.git/commit/1a959882689dc231afb0e7a34a59713b30e49c8f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update mcp.md (#20475)</code>](https://github.com/netdata/netdata.git/commit/47541ab588d59988c612a5117390abc0990578d5)
+- [ ] [<code>chore(go.d/ddsnmp): add dependency-based expiration to table cache (#20474)</code>](https://github.com/netdata/netdata.git/commit/f8f0581e95583129e05a41b3dc32a71e1abefc4c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
