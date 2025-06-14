@@ -4281,6 +4281,7 @@
 - [ ] [<code>chore(go.d/ddsnmp): split table collection into walk and process phases (#20479)</code>](https://github.com/netdata/netdata.git/commit/1d81615daa02fd267a8b62d68ceba5c52ad38123)
 - [ ] [<code>chore(go.d/ddsnmp): collect cross-table metrics and tags (#20481)</code>](https://github.com/netdata/netdata.git/commit/f0d0990eecfd76c6f618102b1519928968169a53)
 - [ ] [<code>Correctly ignore patches that are already applied. (#20480)</code>](https://github.com/netdata/netdata.git/commit/ade0e5be3c2eb010a1e07d1dea9db65f700fe69b)
+- [ ] [<code>Modify Uninstall Action (windows.installer) (#20467)</code>](https://github.com/netdata/netdata.git/commit/eca9a8f25ccc968e54ee4f9b9117da8e042270e7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
