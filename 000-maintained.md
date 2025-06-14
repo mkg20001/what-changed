@@ -4030,7 +4030,7 @@
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [netdata](https://github.com/netdata/netdata.git): [v2.5.2 → HEAD](https://github.com/netdata/netdata.git/compare/v2.5.2...HEAD)
+#### [netdata](https://github.com/netdata/netdata.git): [v2.5.3 → HEAD](https://github.com/netdata/netdata.git/compare/v2.5.3...HEAD)
 
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-1-nightly.</code>](https://github.com/netdata/netdata.git/commit/531ad0f7048ecdecac4a5847f081e8402000821c)
 - [ ] [<code>Revert "Revert "fix(go.d/couchdb): correct db size charts unit"" (#20235)</code>](https://github.com/netdata/netdata.git/commit/fc7efb9c3f4e482f2defb310e1aaf8bc4989e78d)
