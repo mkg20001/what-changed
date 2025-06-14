@@ -17,6 +17,8 @@
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
 - [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
+- [ ] [<code>src/lib/serialize.h: don't define double as float_t</code>](https://github.com/cowsql/cowsql/commit/c0d7c99632ea2ee01066988708cbb41f335cbdc3)
+- [ ] [<code>src/lib/serialize.h: don't define double as float_t (#37)</code>](https://github.com/cowsql/cowsql/commit/cb624d3263ca22b42ecfa8a1dd8a0c8d990db7b6)
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.0/dbeaver-ce-25.1.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.0/dbeaver-ce-25.1.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5789,6 +5791,8 @@
 - [ ] [<code>fix(android): misaligned text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0c4af47fe8822645954f91ea2dc99ccaca41edaf)
 - [ ] [<code>test(android): add common OpenSCQ30RootTestBase class</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6d33d8a4b488b620d30aca767cf55405d25726a)
 - [ ] [<code>fix(android): notification not spawning upon permission granted</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c20ac41315f356bb3306a010d7d5f65b9aea7602)
+- [ ] [<code>refactor(android): remove unused code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7bfc924496963434728b0c55a7c7cb29b1102109)
+- [ ] [<code>android: add error handling</code>](https://github.com/Oppzippy/OpenSCQ30/commit/77ec8219311b761bc346904f6e4bf90e7cee9020)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
