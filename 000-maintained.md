@@ -4286,6 +4286,9 @@
 - [ ] [<code>Modify Uninstall Action (windows.installer) (#20467)</code>](https://github.com/netdata/netdata.git/commit/eca9a8f25ccc968e54ee4f9b9117da8e042270e7)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-214-nightly.</code>](https://github.com/netdata/netdata.git/commit/27650d76afaeeeafb536961f40dbfc34d7e1f2bb)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix typo. (#20417)</code>](https://github.com/netdata/netdata.git/commit/16139fe4a19e09242613eb00964300467e20dc58)
+- [ ] [<code>chore(go.d/ddsnmp):  support extracting table index components as tags (#20482)</code>](https://github.com/netdata/netdata.git/commit/055d6a3f9ed7c5c4544c61341fb73e3550dc95e9)
+- [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.9.2 to 1.9.3 in /src/go (#20483)</code>](https://github.com/netdata/netdata.git/commit/ac9ec146e54904c94b6af2920a967433e5a005db)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
