@@ -319,6 +319,9 @@
 - [ ] [<code>build: Add changelog for 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/0edd4e320dff4153e166c822da91cbea361c61d9)
 - [ ] [<code>Merge pull request #1946 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/2a7901eb76afa4fb242e3e48517e79cc537128fb)
   - <sub>Tags: <code>rc2.0.0-1</code></sub>
+- [ ] [<code>build: Update Matrix dart sdk 1.0.1</code>](https://github.com/krille-chan/fluffychat/commit/0eecd0a66984015e46adf9b54231da49dab1961d)
+- [ ] [<code>refactor: New message context menu</code>](https://github.com/krille-chan/fluffychat/commit/033feed6b1fc06ab272a6b61c74d42689dd34f42)
+- [ ] [<code>refactor: Nicer popupmenus</code>](https://github.com/krille-chan/fluffychat/commit/37d313c27116840d59866b541876e5a248f534a7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -442,11 +445,12 @@
 - [ ] [<code>build: Add changelog for 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/0edd4e320dff4153e166c822da91cbea361c61d9)
 - [ ] [<code>Merge pull request #1946 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/2a7901eb76afa4fb242e3e48517e79cc537128fb)
   - <sub>Tags: <code>rc2.0.0-1</code></sub>
+- [ ] [<code>build: Update Matrix dart sdk 1.0.1</code>](https://github.com/krille-chan/fluffychat/commit/0eecd0a66984015e46adf9b54231da49dab1961d)
+- [ ] [<code>refactor: New message context menu</code>](https://github.com/krille-chan/fluffychat/commit/033feed6b1fc06ab272a6b61c74d42689dd34f42)
+- [ ] [<code>refactor: Nicer popupmenus</code>](https://github.com/krille-chan/fluffychat/commit/37d313c27116840d59866b541876e5a248f534a7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
-> Dropped flutter326 - no appropriate URL found OrderedDict({'attr_path': 'flutter326', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter327 - no appropriate URL found OrderedDict({'attr_path': 'flutter327', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -3869,6 +3873,9 @@
 - [ ] [<code>avifenc.c Use better formula in quantizerToQuality</code>](https://github.com/AOMediaCodec/libavif/commit/294bab13d7c6bd9c4a3a08281482acad1561c565)
 - [ ] [<code>Set CMAKE_CXX_STANDARD to 17 (#2824)</code>](https://github.com/AOMediaCodec/libavif/commit/f0951f342efbb2efe7e11e9cc7828b4ae97a3d62)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Improve avifgainmaputil (#2815)</code>](https://github.com/AOMediaCodec/libavif/commit/4fa9213b18deb6e038c938f859306f06b3cf82ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>avifenc: read jpeg/png through stdin with --stdin-format flag (#2710)</code>](https://github.com/AOMediaCodec/libavif/commit/603abf6ba0b0cd1205170cc1d7e5c8ccce51fb7a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4295,6 +4302,10 @@
 - [ ] [<code>anue (#20488)</code>](https://github.com/netdata/netdata.git/commit/3eea16fb00a09aeab466324234d917a365e77880)
 - [ ] [<code>fix(go.d): add missing props to config schemas (#20489)</code>](https://github.com/netdata/netdata.git/commit/a4e58e909172c3b88ab2e2e11bfa16a04a056156)
 - [ ] [<code>fix fluentd schema permit_plugin (#20490)</code>](https://github.com/netdata/netdata.git/commit/dd3298eea960a22a7c944bf10a8fc845dacd35f9)
+- [ ] [<code>chore(go.d/ddsnmp): fix table metrics collection (#20492)</code>](https://github.com/netdata/netdata.git/commit/0360d0efbe030f978bfb1567ad35a328c9f6994a)
+- [ ] [<code>fix: mark import groups as not supported SCIM feature (#20495)</code>](https://github.com/netdata/netdata.git/commit/979569459b063c146dbae66a6cec427709b7a1cb)
+- [ ] [<code>Regenerate integrations docs (#20496)</code>](https://github.com/netdata/netdata.git/commit/43c0081a292b2bab0ef5bd6671fc9b47cc841138)
+- [ ] [<code>chore(go.d/ddsnmp): fix table metrics again (#20497)</code>](https://github.com/netdata/netdata.git/commit/e0a41d8fbc8c216b0506ebcad5a15a00511f6aad)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
