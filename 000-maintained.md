@@ -506,6 +506,7 @@
 - [ ] [<code>incusd/instance/qmp added qmp event log</code>](https://github.com/lxc/incus/commit/1b7ac738723fbe65381ab8fd79f1f37d2f62fed2)
 - [ ] [<code>incus-migrate: Fix calculating volume size for block device</code>](https://github.com/lxc/incus/commit/333c9552188410d80e4192c2c5b8e75dbecc0523)
 - [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
+- [ ] [<code>incusd: Remove target check when server clustered</code>](https://github.com/lxc/incus/commit/8375a122cce3fd2eedb4ce3764e827a7ad506e9c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3723,6 +3724,7 @@
 - [ ] [<code>incusd/instance/qmp added qmp event log</code>](https://github.com/lxc/incus/commit/1b7ac738723fbe65381ab8fd79f1f37d2f62fed2)
 - [ ] [<code>incus-migrate: Fix calculating volume size for block device</code>](https://github.com/lxc/incus/commit/333c9552188410d80e4192c2c5b8e75dbecc0523)
 - [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
+- [ ] [<code>incusd: Remove target check when server clustered</code>](https://github.com/lxc/incus/commit/8375a122cce3fd2eedb4ce3764e827a7ad506e9c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4289,6 +4291,10 @@
 - [ ] [<code>Fix typo. (#20417)</code>](https://github.com/netdata/netdata.git/commit/16139fe4a19e09242613eb00964300467e20dc58)
 - [ ] [<code>chore(go.d/ddsnmp):  support extracting table index components as tags (#20482)</code>](https://github.com/netdata/netdata.git/commit/055d6a3f9ed7c5c4544c61341fb73e3550dc95e9)
 - [ ] [<code>build(deps): bump github.com/go-sql-driver/mysql from 1.9.2 to 1.9.3 in /src/go (#20483)</code>](https://github.com/netdata/netdata.git/commit/ac9ec146e54904c94b6af2920a967433e5a005db)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-218-nightly.</code>](https://github.com/netdata/netdata.git/commit/b6935aa64484cf23662351750395db95345ed6a1)
+- [ ] [<code>anue (#20488)</code>](https://github.com/netdata/netdata.git/commit/3eea16fb00a09aeab466324234d917a365e77880)
+- [ ] [<code>fix(go.d): add missing props to config schemas (#20489)</code>](https://github.com/netdata/netdata.git/commit/a4e58e909172c3b88ab2e2e11bfa16a04a056156)
+- [ ] [<code>fix fluentd schema permit_plugin (#20490)</code>](https://github.com/netdata/netdata.git/commit/dd3298eea960a22a7c944bf10a8fc845dacd35f9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
