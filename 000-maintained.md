@@ -322,6 +322,13 @@
 - [ ] [<code>build: Update Matrix dart sdk 1.0.1</code>](https://github.com/krille-chan/fluffychat/commit/0eecd0a66984015e46adf9b54231da49dab1961d)
 - [ ] [<code>refactor: New message context menu</code>](https://github.com/krille-chan/fluffychat/commit/033feed6b1fc06ab272a6b61c74d42689dd34f42)
 - [ ] [<code>refactor: Nicer popupmenus</code>](https://github.com/krille-chan/fluffychat/commit/37d313c27116840d59866b541876e5a248f534a7)
+- [ ] [<code>fix: fix compile error related to MxcImage</code>](https://github.com/krille-chan/fluffychat/commit/e1ec87d3aaae00eb030bcfda28ec8f247e2c3346)
+- [ ] [<code>chore: Follow up new reactions picker</code>](https://github.com/krille-chan/fluffychat/commit/13f27eda9f04dc79b408cd2d6ee042a66b3b86dc)
+- [ ] [<code>chore: highlight select mode actions</code>](https://github.com/krille-chan/fluffychat/commit/0a10d4fb7dd2e2d7ad0bba3aea6c95a4aa893932)
+- [ ] [<code>chore: improve message selection UX</code>](https://github.com/krille-chan/fluffychat/commit/e55adbd65c2a78aec662b14c3697b346ecefd2f1)
+- [ ] [<code>chore: Make max timeline width smaller</code>](https://github.com/krille-chan/fluffychat/commit/767379507747d6cd7f0313a7dbb35aaa95ff0c54)
+- [ ] [<code>build: Update to flutter 3.32.4</code>](https://github.com/krille-chan/fluffychat/commit/aa4a575c5c099100767a095cf2c431adbed18b79)
+- [ ] [<code>chore: Follow up custom reactions dialog</code>](https://github.com/krille-chan/fluffychat/commit/816b753efb8acab32de7f32f85564ac6ab9c52d3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.26.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.26.1...HEAD)
 
@@ -448,6 +455,13 @@
 - [ ] [<code>build: Update Matrix dart sdk 1.0.1</code>](https://github.com/krille-chan/fluffychat/commit/0eecd0a66984015e46adf9b54231da49dab1961d)
 - [ ] [<code>refactor: New message context menu</code>](https://github.com/krille-chan/fluffychat/commit/033feed6b1fc06ab272a6b61c74d42689dd34f42)
 - [ ] [<code>refactor: Nicer popupmenus</code>](https://github.com/krille-chan/fluffychat/commit/37d313c27116840d59866b541876e5a248f534a7)
+- [ ] [<code>fix: fix compile error related to MxcImage</code>](https://github.com/krille-chan/fluffychat/commit/e1ec87d3aaae00eb030bcfda28ec8f247e2c3346)
+- [ ] [<code>chore: Follow up new reactions picker</code>](https://github.com/krille-chan/fluffychat/commit/13f27eda9f04dc79b408cd2d6ee042a66b3b86dc)
+- [ ] [<code>chore: highlight select mode actions</code>](https://github.com/krille-chan/fluffychat/commit/0a10d4fb7dd2e2d7ad0bba3aea6c95a4aa893932)
+- [ ] [<code>chore: improve message selection UX</code>](https://github.com/krille-chan/fluffychat/commit/e55adbd65c2a78aec662b14c3697b346ecefd2f1)
+- [ ] [<code>chore: Make max timeline width smaller</code>](https://github.com/krille-chan/fluffychat/commit/767379507747d6cd7f0313a7dbb35aaa95ff0c54)
+- [ ] [<code>build: Update to flutter 3.32.4</code>](https://github.com/krille-chan/fluffychat/commit/aa4a575c5c099100767a095cf2c431adbed18b79)
+- [ ] [<code>chore: Follow up custom reactions dialog</code>](https://github.com/krille-chan/fluffychat/commit/816b753efb8acab32de7f32f85564ac6ab9c52d3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4310,6 +4324,8 @@
 - [ ] [<code>fix: mark import groups as not supported SCIM feature (#20495)</code>](https://github.com/netdata/netdata.git/commit/979569459b063c146dbae66a6cec427709b7a1cb)
 - [ ] [<code>Regenerate integrations docs (#20496)</code>](https://github.com/netdata/netdata.git/commit/43c0081a292b2bab0ef5bd6671fc9b47cc841138)
 - [ ] [<code>chore(go.d/ddsnmp): fix table metrics again (#20497)</code>](https://github.com/netdata/netdata.git/commit/e0a41d8fbc8c216b0506ebcad5a15a00511f6aad)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-226-nightly.</code>](https://github.com/netdata/netdata.git/commit/193bd880347177c3f2cee27ce7857c21a138d8f6)
+- [ ] [<code>chore(go.d/ddsnmp): better label values sanitization (#20500)</code>](https://github.com/netdata/netdata.git/commit/157d90de74553cecac3b746d904ab8b5849db282)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
