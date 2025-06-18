@@ -4376,6 +4376,17 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-236-nightly.</code>](https://github.com/netdata/netdata.git/commit/2b6d73c281284fe782644861d690c0f46a11ba77)
 - [ ] [<code>Regenerate integrations docs (#20506)</code>](https://github.com/netdata/netdata.git/commit/cc65b86bddd2242b0d27f31895ffe21e980ba984)
 - [ ] [<code>test(go.d/ddsnmp): add more tests for table metrics (#20510)</code>](https://github.com/netdata/netdata.git/commit/2ef4b8752c6159ddf4076e1de5cbf88fd5a06c53)
+- [ ] [<code>improve(go.d/snmp): add SNMP- prefix for vnode hostname (#20512)</code>](https://github.com/netdata/netdata.git/commit/92d7c851a354f93cd3f39e0e3653f8833d5e2f5b)
+- [ ] [<code>docs: add Netdata MCP Server preview announcement (#20513)</code>](https://github.com/netdata/netdata.git/commit/ed374a16d6747d0070e717e874601a3d9cbefe13)
+- [ ] [<code>Update machine-learning-and-assisted-troubleshooting.md (#20514)</code>](https://github.com/netdata/netdata.git/commit/102ef01578e1ec94adf225809c168e57612841e6)
+- [ ] [<code>Use ARAL for labels (#20502)</code>](https://github.com/netdata/netdata.git/commit/4f3397ef94ffaba0131a56fd1348f5714e15676c)
+- [ ] [<code>Cleanup pending statements during shutdown (#20511)</code>](https://github.com/netdata/netdata.git/commit/d830a5e4c2da583d7b2fce65ad890964b7d5226c)
+- [ ] [<code>Update mcp.md (#20515)</code>](https://github.com/netdata/netdata.git/commit/a839d3901de25bb33da7cb6772b2a3858a5f155f)
+- [ ] [<code>improve(go.d/snmp-profiles): Add hrSystemUptime metric for system upt… (#20516)</code>](https://github.com/netdata/netdata.git/commit/be52ee5e6f033e7873f65b36b5f5b4f470d326d2)
+- [ ] [<code>fix(go.d/ddsnmp): remove singular-to-plural conversion in metric family (#20517)</code>](https://github.com/netdata/netdata.git/commit/b95cda041da9c24d2454b66d1484d70806161fe0)
+- [ ] [<code>Drop POWER8+ builds. (#20518)</code>](https://github.com/netdata/netdata.git/commit/4b4c22c388297af09e6862b0ff54d887eba9bb2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(go.d/snmp-profiles): remove unsupported constant_value_one metrics (#20519)</code>](https://github.com/netdata/netdata.git/commit/e6904b6609d3c1e940fd9ba08dfafac4c0efbd40)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
