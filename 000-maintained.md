@@ -4666,6 +4666,7 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>feat(go.d/snmp profile): add sensors to mikrotik-router.yaml (#20507)</code>](https://github.com/netdata/netdata.git/commit/d8939dba75a5e94da94f6e29242e432903957088)
 - [ ] [<code>feat(go.d/snmp profile): add fallback support for duplicate metric tags (#20508)</code>](https://github.com/netdata/netdata.git/commit/7c6d9e8a96d029faf517d3981f4c44c596a565e9)
+- [ ] [<code>chore(go.d/ddsnmp): fix table collection with caching (#20509)</code>](https://github.com/netdata/netdata.git/commit/c1fd278ba64316aaa287eec2111d96493c70d222)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
