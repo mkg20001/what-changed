@@ -249,6 +249,10 @@
   - <sub>Tags: <code>rc2.0.0-3</code></sub>
 - [ ] [<code>fix: Ban button displayed for already banned users</code>](https://github.com/krille-chan/fluffychat/commit/29a2dc83c03d1cefa5ebb26ae9ae2a88a8688381)
 - [ ] [<code>fix: Route back to room list after leaving a chat</code>](https://github.com/krille-chan/fluffychat/commit/7d798c57704cc38a39df3cd21be17d8ae52230b3)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/0b3cc1260a225a77e83f30ec688007ee421f2d2e)
+  - <sub>Tags: <code>rc2.0.0-4</code></sub>
+- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
+- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -298,6 +302,11 @@
   - <sub>Tags: <code>rc2.0.0-3</code></sub>
 - [ ] [<code>fix: Ban button displayed for already banned users</code>](https://github.com/krille-chan/fluffychat/commit/29a2dc83c03d1cefa5ebb26ae9ae2a88a8688381)
 - [ ] [<code>fix: Route back to room list after leaving a chat</code>](https://github.com/krille-chan/fluffychat/commit/7d798c57704cc38a39df3cd21be17d8ae52230b3)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/0b3cc1260a225a77e83f30ec688007ee421f2d2e)
+  - <sub>Tags: <code>rc2.0.0-4</code></sub>
+- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
+- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
+- [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -362,6 +371,11 @@
 - [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
 - [ ] [<code>incusd: Remove target check when server clustered</code>](https://github.com/lxc/incus/commit/8375a122cce3fd2eedb4ce3764e827a7ad506e9c)
 - [ ] [<code>client: Don't swallow error if incusParseResponse is successful</code>](https://github.com/lxc/incus/commit/4b02940d5ec49c044aa30718fc0446d4364277d8)
+- [ ] [<code>incusd/cluster: Return the cluster certificate after bootstrap</code>](https://github.com/lxc/incus/commit/2805bb4053cba31b0a0f39cd303ca91d9ad76347)
+- [ ] [<code>incusd/db/cluster: Port network peer to database generator</code>](https://github.com/lxc/incus/commit/8640ab60db55277eacc5c10456af0c4e4e057f3c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Update for new network peer functions</code>](https://github.com/lxc/incus/commit/56bd4f4a9655462967f885e99b2f8b04f10a6ec2)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/134abb38b6c90d9b252f25f4e474355fc0d3d9ca)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3581,6 +3595,11 @@
 - [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
 - [ ] [<code>incusd: Remove target check when server clustered</code>](https://github.com/lxc/incus/commit/8375a122cce3fd2eedb4ce3764e827a7ad506e9c)
 - [ ] [<code>client: Don't swallow error if incusParseResponse is successful</code>](https://github.com/lxc/incus/commit/4b02940d5ec49c044aa30718fc0446d4364277d8)
+- [ ] [<code>incusd/cluster: Return the cluster certificate after bootstrap</code>](https://github.com/lxc/incus/commit/2805bb4053cba31b0a0f39cd303ca91d9ad76347)
+- [ ] [<code>incusd/db/cluster: Port network peer to database generator</code>](https://github.com/lxc/incus/commit/8640ab60db55277eacc5c10456af0c4e4e057f3c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Update for new network peer functions</code>](https://github.com/lxc/incus/commit/56bd4f4a9655462967f885e99b2f8b04f10a6ec2)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/134abb38b6c90d9b252f25f4e474355fc0d3d9ca)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4387,6 +4406,14 @@
 - [ ] [<code>Drop POWER8+ builds. (#20518)</code>](https://github.com/netdata/netdata.git/commit/4b4c22c388297af09e6862b0ff54d887eba9bb2c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(go.d/snmp-profiles): remove unsupported constant_value_one metrics (#20519)</code>](https://github.com/netdata/netdata.git/commit/e6904b6609d3c1e940fd9ba08dfafac4c0efbd40)
+- [ ] [<code>MCP Part 4 (#20452)</code>](https://github.com/netdata/netdata.git/commit/c40f9736955c5b4b44d5499c427d3938611a04ef)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>improve(go.d/snmp-profiles): metrics deduplication (#20520)</code>](https://github.com/netdata/netdata.git/commit/479a3f92ba06596c75206492c3fc3ec2692e5694)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-251-nightly.</code>](https://github.com/netdata/netdata.git/commit/1aa4f8d1bee821ce8af9e66f6557ff385fbb86ed)
+- [ ] [<code>upd generic check in snmp prof metrics deduplication (#20521)</code>](https://github.com/netdata/netdata.git/commit/defbb134ff7c593ca450fb3ee35c56b888f4195b)
+- [ ] [<code>update units in _generic-if.yaml (#20523)</code>](https://github.com/netdata/netdata.git/commit/079c5ff7c1597ee54ba9ab8a364abbf99d47b0f9)
+- [ ] [<code>improve(go.d/snmp): log device profiles matched by sysObjectID (#20524)</code>](https://github.com/netdata/netdata.git/commit/71adf9812712dc585f58d3e022614f8cd8e0f837)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5896,6 +5923,10 @@
 - [ ] [<code>fix(android): notification not spawning upon permission granted</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c20ac41315f356bb3306a010d7d5f65b9aea7602)
 - [ ] [<code>refactor(android): remove unused code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7bfc924496963434728b0c55a7c7cb29b1102109)
 - [ ] [<code>android: add error handling</code>](https://github.com/Oppzippy/OpenSCQ30/commit/77ec8219311b761bc346904f6e4bf90e7cee9020)
+- [ ] [<code>feat(lib): add soundcore development device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5a14d39634eca0e70912d9e5782ff0e9df3a4a2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): move device_registry functions up a module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0e19575e0a57284b6e2938e073cd218501b65b5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
