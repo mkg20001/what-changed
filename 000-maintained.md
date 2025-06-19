@@ -253,6 +253,7 @@
   - <sub>Tags: <code>rc2.0.0-4</code></sub>
 - [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
 - [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
+- [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -369,13 +370,16 @@
 - [ ] [<code>incusd/instance/qmp added qmp event log</code>](https://github.com/lxc/incus/commit/1b7ac738723fbe65381ab8fd79f1f37d2f62fed2)
 - [ ] [<code>incus-migrate: Fix calculating volume size for block device</code>](https://github.com/lxc/incus/commit/333c9552188410d80e4192c2c5b8e75dbecc0523)
 - [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
+- [ ] [<code>incus/info: Fix --show-log</code>](https://github.com/lxc/incus/commit/d2c46b76dab32e5f0ddd29867e89cd30b5d7dca4)
 - [ ] [<code>incusd: Remove target check when server clustered</code>](https://github.com/lxc/incus/commit/8375a122cce3fd2eedb4ce3764e827a7ad506e9c)
 - [ ] [<code>client: Don't swallow error if incusParseResponse is successful</code>](https://github.com/lxc/incus/commit/4b02940d5ec49c044aa30718fc0446d4364277d8)
 - [ ] [<code>incusd/cluster: Return the cluster certificate after bootstrap</code>](https://github.com/lxc/incus/commit/2805bb4053cba31b0a0f39cd303ca91d9ad76347)
+- [ ] [<code>incusd/network/ovn: Fix regression in stateful DHCPv6 handling</code>](https://github.com/lxc/incus/commit/a15d6d452979c911318b814805af4668f6958fad)
 - [ ] [<code>incusd/db/cluster: Port network peer to database generator</code>](https://github.com/lxc/incus/commit/8640ab60db55277eacc5c10456af0c4e4e057f3c)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Update for new network peer functions</code>](https://github.com/lxc/incus/commit/56bd4f4a9655462967f885e99b2f8b04f10a6ec2)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/134abb38b6c90d9b252f25f4e474355fc0d3d9ca)
+- [ ] [<code>incusd/apparmor/forkproxy: Expand /dev exception</code>](https://github.com/lxc/incus/commit/0bb758b1762e1a2e042197958564289e7999fac7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3593,13 +3597,16 @@
 - [ ] [<code>incusd/instance/qmp added qmp event log</code>](https://github.com/lxc/incus/commit/1b7ac738723fbe65381ab8fd79f1f37d2f62fed2)
 - [ ] [<code>incus-migrate: Fix calculating volume size for block device</code>](https://github.com/lxc/incus/commit/333c9552188410d80e4192c2c5b8e75dbecc0523)
 - [ ] [<code>incusd/instance/qmp: Prevent initialization of qmpLog with an empty log file path</code>](https://github.com/lxc/incus/commit/07f501de98617a168754fa9475b0b02f3db03763)
+- [ ] [<code>incus/info: Fix --show-log</code>](https://github.com/lxc/incus/commit/d2c46b76dab32e5f0ddd29867e89cd30b5d7dca4)
 - [ ] [<code>incusd: Remove target check when server clustered</code>](https://github.com/lxc/incus/commit/8375a122cce3fd2eedb4ce3764e827a7ad506e9c)
 - [ ] [<code>client: Don't swallow error if incusParseResponse is successful</code>](https://github.com/lxc/incus/commit/4b02940d5ec49c044aa30718fc0446d4364277d8)
 - [ ] [<code>incusd/cluster: Return the cluster certificate after bootstrap</code>](https://github.com/lxc/incus/commit/2805bb4053cba31b0a0f39cd303ca91d9ad76347)
+- [ ] [<code>incusd/network/ovn: Fix regression in stateful DHCPv6 handling</code>](https://github.com/lxc/incus/commit/a15d6d452979c911318b814805af4668f6958fad)
 - [ ] [<code>incusd/db/cluster: Port network peer to database generator</code>](https://github.com/lxc/incus/commit/8640ab60db55277eacc5c10456af0c4e4e057f3c)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Update for new network peer functions</code>](https://github.com/lxc/incus/commit/56bd4f4a9655462967f885e99b2f8b04f10a6ec2)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/134abb38b6c90d9b252f25f4e474355fc0d3d9ca)
+- [ ] [<code>incusd/apparmor/forkproxy: Expand /dev exception</code>](https://github.com/lxc/incus/commit/0bb758b1762e1a2e042197958564289e7999fac7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4414,6 +4421,8 @@
 - [ ] [<code>upd generic check in snmp prof metrics deduplication (#20521)</code>](https://github.com/netdata/netdata.git/commit/defbb134ff7c593ca450fb3ee35c56b888f4195b)
 - [ ] [<code>update units in _generic-if.yaml (#20523)</code>](https://github.com/netdata/netdata.git/commit/079c5ff7c1597ee54ba9ab8a364abbf99d47b0f9)
 - [ ] [<code>improve(go.d/snmp): log device profiles matched by sysObjectID (#20524)</code>](https://github.com/netdata/netdata.git/commit/71adf9812712dc585f58d3e022614f8cd8e0f837)
+- [ ] [<code>improve(go.d/snmp-profiles): allow users to add custom SNMP profiles (#20526)</code>](https://github.com/netdata/netdata.git/commit/829248181700f9bf15d9efe3adc3b02805dd1238)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
