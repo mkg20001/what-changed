@@ -254,6 +254,8 @@
 - [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
 - [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
 - [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
+- [ ] [<code>fix: Multiple problems with SSO</code>](https://github.com/krille-chan/fluffychat/commit/94013fb2c6150031eff078308f6ccb40a1cc4686)
+  - <sub>Tags: <code>rc2.0.0-5</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -308,6 +310,8 @@
 - [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
 - [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
 - [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
+- [ ] [<code>fix: Multiple problems with SSO</code>](https://github.com/krille-chan/fluffychat/commit/94013fb2c6150031eff078308f6ccb40a1cc4686)
+  - <sub>Tags: <code>rc2.0.0-5</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -380,6 +384,22 @@
 - [ ] [<code>incusd: Update for new network peer functions</code>](https://github.com/lxc/incus/commit/56bd4f4a9655462967f885e99b2f8b04f10a6ec2)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/134abb38b6c90d9b252f25f4e474355fc0d3d9ca)
 - [ ] [<code>incusd/apparmor/forkproxy: Expand /dev exception</code>](https://github.com/lxc/incus/commit/0bb758b1762e1a2e042197958564289e7999fac7)
+- [ ] [<code>internal/instance: Add exported error</code>](https://github.com/lxc/incus/commit/b00b3bd756e991875bf5b66c9f41850d2dea6462)
+- [ ] [<code>incus/snapshot: Implement --expiry</code>](https://github.com/lxc/incus/commit/9552a4d082d5c3476161f25cb5e6ca842b2201cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage/snapshot: Implement --expiry</code>](https://github.com/lxc/incus/commit/8cd6e75547163f1da61e9f7381a2fd30153bbb89)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a838f21826ba529c8f5ae1bb1699c64e4350351)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: snapshot_manual_expiry</code>](https://github.com/lxc/incus/commit/a7f74be598b14cbca7fc05c74237838a9b4d7ab4)
+- [ ] [<code>doc/storage: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/2ad2a6b564900ddbe6d12347d6f6808edda00aa2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/5f09d7924dfbf1c4a5ab69870bade033c6db8064)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/e952ef347532a3729ec3050946e3bf95175eec9e)
+- [ ] [<code>incusd/storage: Add snapshots.expiry.manual validation</code>](https://github.com/lxc/incus/commit/ddde0c3715f74026187eceeeee9c1b518aa4aa62)
+- [ ] [<code>incusd/instance_snapshot: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/1c7f4101aee736fc499f9741f96495a080306853)
+- [ ] [<code>incusd/storage_volume_snapshot: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/4ed9ad6da969809f8cf89f3276b97592beb79194)
+- [ ] [<code>shared/tls: Export TLSConfigWithTrustedCert</code>](https://github.com/lxc/incus/commit/3f1302062a090ec633299a15a5ee1a4dc1abae71)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3607,6 +3627,22 @@
 - [ ] [<code>incusd: Update for new network peer functions</code>](https://github.com/lxc/incus/commit/56bd4f4a9655462967f885e99b2f8b04f10a6ec2)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/134abb38b6c90d9b252f25f4e474355fc0d3d9ca)
 - [ ] [<code>incusd/apparmor/forkproxy: Expand /dev exception</code>](https://github.com/lxc/incus/commit/0bb758b1762e1a2e042197958564289e7999fac7)
+- [ ] [<code>internal/instance: Add exported error</code>](https://github.com/lxc/incus/commit/b00b3bd756e991875bf5b66c9f41850d2dea6462)
+- [ ] [<code>incus/snapshot: Implement --expiry</code>](https://github.com/lxc/incus/commit/9552a4d082d5c3476161f25cb5e6ca842b2201cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage/snapshot: Implement --expiry</code>](https://github.com/lxc/incus/commit/8cd6e75547163f1da61e9f7381a2fd30153bbb89)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7a838f21826ba529c8f5ae1bb1699c64e4350351)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: snapshot_manual_expiry</code>](https://github.com/lxc/incus/commit/a7f74be598b14cbca7fc05c74237838a9b4d7ab4)
+- [ ] [<code>doc/storage: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/2ad2a6b564900ddbe6d12347d6f6808edda00aa2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>internal/instance: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/5f09d7924dfbf1c4a5ab69870bade033c6db8064)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/e952ef347532a3729ec3050946e3bf95175eec9e)
+- [ ] [<code>incusd/storage: Add snapshots.expiry.manual validation</code>](https://github.com/lxc/incus/commit/ddde0c3715f74026187eceeeee9c1b518aa4aa62)
+- [ ] [<code>incusd/instance_snapshot: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/1c7f4101aee736fc499f9741f96495a080306853)
+- [ ] [<code>incusd/storage_volume_snapshot: Add snapshots.expiry.manual</code>](https://github.com/lxc/incus/commit/4ed9ad6da969809f8cf89f3276b97592beb79194)
+- [ ] [<code>shared/tls: Export TLSConfigWithTrustedCert</code>](https://github.com/lxc/incus/commit/3f1302062a090ec633299a15a5ee1a4dc1abae71)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4423,6 +4459,10 @@
 - [ ] [<code>improve(go.d/snmp): log device profiles matched by sysObjectID (#20524)</code>](https://github.com/netdata/netdata.git/commit/71adf9812712dc585f58d3e022614f8cd8e0f837)
 - [ ] [<code>improve(go.d/snmp-profiles): allow users to add custom SNMP profiles (#20526)</code>](https://github.com/netdata/netdata.git/commit/829248181700f9bf15d9efe3adc3b02805dd1238)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-256-nightly.</code>](https://github.com/netdata/netdata.git/commit/a164c1585f4083844969079ef34d8de929fa9ca4)
+- [ ] [<code>improve(go.d/snmp): add Go template-based metric transformations for SNMP profiles (#20528)</code>](https://github.com/netdata/netdata.git/commit/c61dce679027ecd590d10154f421552fafd2a823)
+- [ ] [<code>improve(go.d/snmp): dd support for non-identifying tags in table metrics (#20530)</code>](https://github.com/netdata/netdata.git/commit/4817991c3e5e9e1b37c802a7cad89ee2e631d83e)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.1 to 0.33.2 in /src/go (#20532)</code>](https://github.com/netdata/netdata.git/commit/556fd7384c0b5c10d6054a4954cbe2a3c40db7bf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
