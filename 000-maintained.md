@@ -256,6 +256,13 @@
 - [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
 - [ ] [<code>fix: Multiple problems with SSO</code>](https://github.com/krille-chan/fluffychat/commit/94013fb2c6150031eff078308f6ccb40a1cc4686)
   - <sub>Tags: <code>rc2.0.0-5</code></sub>
+- [ ] [<code>build: Add rust toolchain to release web</code>](https://github.com/krille-chan/fluffychat/commit/c7cf12287d061a2e294e025391f8addbfbcc4c3c)
+  - <sub>Tags: <code>rc2.0.0-6</code></sub>
+- [ ] [<code>build: Update dockerfile to build vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/15987cac468931d59a92387ad935893fdd8b61fd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Remove broken snapcraft job from release</code>](https://github.com/krille-chan/fluffychat/commit/88cf02a5404d14052aa806bf6f38db050fffbb1b)
+  - <sub>Tags: <code>rc2.0.0-7</code> <code>v2.0.0</code></sub>
+- [ ] [<code>build: Do not delete vodozemac on web release</code>](https://github.com/krille-chan/fluffychat/commit/95172aed8fcae1bbc73f47bdda81c63fb9f2054b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -312,6 +319,13 @@
 - [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
 - [ ] [<code>fix: Multiple problems with SSO</code>](https://github.com/krille-chan/fluffychat/commit/94013fb2c6150031eff078308f6ccb40a1cc4686)
   - <sub>Tags: <code>rc2.0.0-5</code></sub>
+- [ ] [<code>build: Add rust toolchain to release web</code>](https://github.com/krille-chan/fluffychat/commit/c7cf12287d061a2e294e025391f8addbfbcc4c3c)
+  - <sub>Tags: <code>rc2.0.0-6</code></sub>
+- [ ] [<code>build: Update dockerfile to build vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/15987cac468931d59a92387ad935893fdd8b61fd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: Remove broken snapcraft job from release</code>](https://github.com/krille-chan/fluffychat/commit/88cf02a5404d14052aa806bf6f38db050fffbb1b)
+  - <sub>Tags: <code>rc2.0.0-7</code> <code>v2.0.0</code></sub>
+- [ ] [<code>build: Do not delete vodozemac on web release</code>](https://github.com/krille-chan/fluffychat/commit/95172aed8fcae1bbc73f47bdda81c63fb9f2054b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4463,6 +4477,7 @@
 - [ ] [<code>improve(go.d/snmp): add Go template-based metric transformations for SNMP profiles (#20528)</code>](https://github.com/netdata/netdata.git/commit/c61dce679027ecd590d10154f421552fafd2a823)
 - [ ] [<code>improve(go.d/snmp): dd support for non-identifying tags in table metrics (#20530)</code>](https://github.com/netdata/netdata.git/commit/4817991c3e5e9e1b37c802a7cad89ee2e631d83e)
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.1 to 0.33.2 in /src/go (#20532)</code>](https://github.com/netdata/netdata.git/commit/556fd7384c0b5c10d6054a4954cbe2a3c40db7bf)
+- [ ] [<code>Lock before checking the statement pool (#20536)</code>](https://github.com/netdata/netdata.git/commit/32e2801cc27ac40b21b479be819d0ceea072f0ef)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
