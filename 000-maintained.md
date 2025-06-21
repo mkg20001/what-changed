@@ -6076,6 +6076,7 @@
 - [ ] [<code>socket: respect port argument in sockinst.connect()</code>](https://github.com/jow-/ucode/commit/fd202fd40bd1c3597f76b6e62f1781442b59ebd5)
 - [ ] [<code>socket: properly handle async `connect(2)` errors in socket.connect()</code>](https://github.com/jow-/ucode/commit/767c209b917b86ef530be977ffb31f5bbd604e4a)
 - [ ] [<code>socket: improve port argument validation in sockinst.connect()</code>](https://github.com/jow-/ucode/commit/37ac8f112af63e64c1ea2d13ae63c134b62a5681)
+- [ ] [<code>ubus: fix refcount issue in uc_ubus_object_notify</code>](https://github.com/jow-/ucode/commit/5b3b6b789b9c808c157ad5236834a954a4642b88)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
