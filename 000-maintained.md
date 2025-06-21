@@ -263,6 +263,9 @@
 - [ ] [<code>build: Remove broken snapcraft job from release</code>](https://github.com/krille-chan/fluffychat/commit/88cf02a5404d14052aa806bf6f38db050fffbb1b)
   - <sub>Tags: <code>rc2.0.0-7</code> <code>v2.0.0</code></sub>
 - [ ] [<code>build: Do not delete vodozemac on web release</code>](https://github.com/krille-chan/fluffychat/commit/95172aed8fcae1bbc73f47bdda81c63fb9f2054b)
+- [ ] [<code>fix: open chat from notification</code>](https://github.com/krille-chan/fluffychat/commit/e41537271ff17d1f62a6abb33f5deb46172aac44)
+- [ ] [<code>fix: notification clicked still cannot jump</code>](https://github.com/krille-chan/fluffychat/commit/4802277dca7ba288cd5a0a450d7144054945d013)
+- [ ] [<code>chore: do format</code>](https://github.com/krille-chan/fluffychat/commit/5d8bad7458f671ef82003c8eb05596e71f35a501)
 - [ ] [<code>build: Set commit message as changelog for internal builds</code>](https://github.com/krille-chan/fluffychat/commit/44b577e9787e2f83db65abc25524aa307bde1d7e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update changelog for fastlane android</code>](https://github.com/krille-chan/fluffychat/commit/95ca19ba899d0012a02f6b5d565ffbe1969d59b8)
@@ -333,6 +336,9 @@
 - [ ] [<code>build: Remove broken snapcraft job from release</code>](https://github.com/krille-chan/fluffychat/commit/88cf02a5404d14052aa806bf6f38db050fffbb1b)
   - <sub>Tags: <code>rc2.0.0-7</code> <code>v2.0.0</code></sub>
 - [ ] [<code>build: Do not delete vodozemac on web release</code>](https://github.com/krille-chan/fluffychat/commit/95172aed8fcae1bbc73f47bdda81c63fb9f2054b)
+- [ ] [<code>fix: open chat from notification</code>](https://github.com/krille-chan/fluffychat/commit/e41537271ff17d1f62a6abb33f5deb46172aac44)
+- [ ] [<code>fix: notification clicked still cannot jump</code>](https://github.com/krille-chan/fluffychat/commit/4802277dca7ba288cd5a0a450d7144054945d013)
+- [ ] [<code>chore: do format</code>](https://github.com/krille-chan/fluffychat/commit/5d8bad7458f671ef82003c8eb05596e71f35a501)
 - [ ] [<code>build: Set commit message as changelog for internal builds</code>](https://github.com/krille-chan/fluffychat/commit/44b577e9787e2f83db65abc25524aa307bde1d7e)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update changelog for fastlane android</code>](https://github.com/krille-chan/fluffychat/commit/95ca19ba899d0012a02f6b5d565ffbe1969d59b8)
@@ -430,6 +436,7 @@
 - [ ] [<code>shared/tls: Export TLSConfigWithTrustedCert</code>](https://github.com/lxc/incus/commit/3f1302062a090ec633299a15a5ee1a4dc1abae71)
 - [ ] [<code>internal/server/db/cluster: Generate functions using DB generator</code>](https://github.com/lxc/incus/commit/7389afe0d8a00a96cce9131602c663f5951f4013)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/scriptlet: Allow sets</code>](https://github.com/lxc/incus/commit/87cdd4abe65f2e8f245779c42fe4b02198cf5cb0)
 - [ ] [<code>internal/server/network: Port to generated functions</code>](https://github.com/lxc/incus/commit/1d993b309c0a397fde2af83d7859eced5288ec7a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
@@ -3676,6 +3683,7 @@
 - [ ] [<code>shared/tls: Export TLSConfigWithTrustedCert</code>](https://github.com/lxc/incus/commit/3f1302062a090ec633299a15a5ee1a4dc1abae71)
 - [ ] [<code>internal/server/db/cluster: Generate functions using DB generator</code>](https://github.com/lxc/incus/commit/7389afe0d8a00a96cce9131602c663f5951f4013)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/scriptlet: Allow sets</code>](https://github.com/lxc/incus/commit/87cdd4abe65f2e8f245779c42fe4b02198cf5cb0)
 - [ ] [<code>internal/server/network: Port to generated functions</code>](https://github.com/lxc/incus/commit/1d993b309c0a397fde2af83d7859eced5288ec7a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
@@ -4028,6 +4036,8 @@
 - [ ] [<code>Document quality/quantizer conversion formulas</code>](https://github.com/AOMediaCodec/libavif/commit/74918531b85c5f8c1736923a9d18c7d551f98140)
 - [ ] [<code>Fix grayscale conversion when doing bit lifting. (#2828)</code>](https://github.com/AOMediaCodec/libavif/commit/0b65e2e6ea87c7732434019ead0b4afa5901dfef)
 - [ ] [<code>Add changelog entry for the grayscal bit changing fix (#2829)</code>](https://github.com/AOMediaCodec/libavif/commit/36ec17ad90245b9d0bde88b2a41339447eefbeec)
+- [ ] [<code>Bump cmake_minimum_required from 3.13 to 3.22</code>](https://github.com/AOMediaCodec/libavif/commit/2881accd9fbed04e1b49cba3e81a4b148e1a2bf0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4499,6 +4509,7 @@
 - [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.1 to 0.33.2 in /src/go (#20532)</code>](https://github.com/netdata/netdata.git/commit/556fd7384c0b5c10d6054a4954cbe2a3c40db7bf)
 - [ ] [<code>Lock before checking the statement pool (#20536)</code>](https://github.com/netdata/netdata.git/commit/32e2801cc27ac40b21b479be819d0ceea072f0ef)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-261-nightly.</code>](https://github.com/netdata/netdata.git/commit/ad4cc2cf2ca24feb75b0238d3cbd4553b5561d5a)
+- [ ] [<code>refactor(go.d/ddsnmpcollector): restructure into components (#20543)</code>](https://github.com/netdata/netdata.git/commit/0ff31d55eef690700275699c018d643b3b6f3b1c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
