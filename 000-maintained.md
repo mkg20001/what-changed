@@ -273,6 +273,7 @@
 - [ ] [<code>chore: Add CI workflow for thank you message after issue got completed</code>](https://github.com/krille-chan/fluffychat/commit/b8d64a113e0733777a8dfd873f7df358838436b8)
 - [ ] [<code>fix: Workaround for reversed width and height of compressed videos sent from Android</code>](https://github.com/krille-chan/fluffychat/commit/3d0a3ee2264430720329aefd1e10ac27f57c258f)
 - [ ] [<code>feat: Collapse all state events by default</code>](https://github.com/krille-chan/fluffychat/commit/103cb8328dbabda1169bbef30cef2b16b78a0322)
+- [ ] [<code>feat(linux/notify): support avarar icon</code>](https://github.com/krille-chan/fluffychat/commit/a217213f77cf2ad4b49a52088549d52dff1dd2d8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -346,6 +347,7 @@
 - [ ] [<code>chore: Add CI workflow for thank you message after issue got completed</code>](https://github.com/krille-chan/fluffychat/commit/b8d64a113e0733777a8dfd873f7df358838436b8)
 - [ ] [<code>fix: Workaround for reversed width and height of compressed videos sent from Android</code>](https://github.com/krille-chan/fluffychat/commit/3d0a3ee2264430720329aefd1e10ac27f57c258f)
 - [ ] [<code>feat: Collapse all state events by default</code>](https://github.com/krille-chan/fluffychat/commit/103cb8328dbabda1169bbef30cef2b16b78a0322)
+- [ ] [<code>feat(linux/notify): support avarar icon</code>](https://github.com/krille-chan/fluffychat/commit/a217213f77cf2ad4b49a52088549d52dff1dd2d8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4511,6 +4513,7 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-261-nightly.</code>](https://github.com/netdata/netdata.git/commit/ad4cc2cf2ca24feb75b0238d3cbd4553b5561d5a)
 - [ ] [<code>refactor(go.d/ddsnmpcollector): restructure into components (#20543)</code>](https://github.com/netdata/netdata.git/commit/0ff31d55eef690700275699c018d643b3b6f3b1c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-263-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6b720134aff0c6deda40c3493e05ac70f548819)
+- [ ] [<code>SNMP: bluecat profile (#20538)</code>](https://github.com/netdata/netdata.git/commit/79f75943dc322e55f68e9106ff7290def51519a6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
