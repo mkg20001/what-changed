@@ -4510,6 +4510,7 @@
 - [ ] [<code>Lock before checking the statement pool (#20536)</code>](https://github.com/netdata/netdata.git/commit/32e2801cc27ac40b21b479be819d0ceea072f0ef)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-261-nightly.</code>](https://github.com/netdata/netdata.git/commit/ad4cc2cf2ca24feb75b0238d3cbd4553b5561d5a)
 - [ ] [<code>refactor(go.d/ddsnmpcollector): restructure into components (#20543)</code>](https://github.com/netdata/netdata.git/commit/0ff31d55eef690700275699c018d643b3b6f3b1c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-263-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6b720134aff0c6deda40c3493e05ac70f548819)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6023,6 +6024,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): move device_registry functions up a module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0e19575e0a57284b6e2938e073cd218501b65b5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>lib: A3029 implementation is the same as A3028</code>](https://github.com/Oppzippy/OpenSCQ30/commit/983787d7fda36a95329587637284d3f98312b85f)
+- [ ] [<code>refactor(lib): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f6ae6fd2c2602c773eee9d87ba60eb17459a02d6)
+- [ ] [<code>tools/device-faker: add just recipe for running on remote machine</code>](https://github.com/Oppzippy/OpenSCQ30/commit/eb71622acfcc0cf2a99ed7ef6021c74838a012dc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>tools/device-faker: rename to soundcore-device-faker</code>](https://github.com/Oppzippy/OpenSCQ30/commit/74a7adcf80ca6ffe50ffa641b6bede97b4b91972)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
