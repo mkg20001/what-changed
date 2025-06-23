@@ -4514,6 +4514,10 @@
 - [ ] [<code>refactor(go.d/ddsnmpcollector): restructure into components (#20543)</code>](https://github.com/netdata/netdata.git/commit/0ff31d55eef690700275699c018d643b3b6f3b1c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-263-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6b720134aff0c6deda40c3493e05ac70f548819)
 - [ ] [<code>SNMP: bluecat profile (#20538)</code>](https://github.com/netdata/netdata.git/commit/79f75943dc322e55f68e9106ff7290def51519a6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-265-nightly.</code>](https://github.com/netdata/netdata.git/commit/8ef4ba7e544879eb023f2be7c625d23c357ff997)
+- [ ] [<code>Update SQLITE to version 3.50.1 (#20539)</code>](https://github.com/netdata/netdata.git/commit/103a4b2f0926832de393d5595cfed01e991911d6)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.64.0 to 0.65.0 in /src/go (#20545)</code>](https://github.com/netdata/netdata.git/commit/4aad30435432fc080b6c981492625191c9d8be3d)
+- [ ] [<code>improve(go.d/snmp-profiles): add DHCP tags transform to bluecat profile (#20547)</code>](https://github.com/netdata/netdata.git/commit/e1d627b6114cbae9420cd3f011f93b015d31a940)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6033,6 +6037,18 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>tools/device-faker: rename to soundcore-device-faker</code>](https://github.com/Oppzippy/OpenSCQ30/commit/74a7adcf80ca6ffe50ffa641b6bede97b4b91972)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(tools/soundcore-device-faker): various mistakes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a64d2fa61ce867b995ef5b11e842d6ddee34929)
+- [ ] [<code>tools/soundcore-device-faker: specify device when running remotely</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3ceb4c36fdfa967853b6b6b54d5b67fa47a547a8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>tools/soundcore-device-faker: add a3959</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f108e5c0796325481c527beb84cdc9acf0650b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tools/soundcore-device-faker: configurable log level in justfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/29a6de8ed1d1a3b5b0f45cb723c7bd2032faf698)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(tools/soundcore-device-faker): typo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c900a5c8e0c8f947fc88f86aab2119d2155a79f9)
+- [ ] [<code>fix(tools/soundcore-device-faker): fix config modification auto reload</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3688522442fb93b19d0d0061d88406333b39d683)
+- [ ] [<code>tools/soundcore-device-faker: add sync watch to justfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73754104076dc30601a6ecfe2afa6209c05f5a99)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>tools/soundcore-device-faker: A3959 reverse engineering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6b6e5babf0574c65ac2d63da3e438d947d8567e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
