@@ -273,6 +273,9 @@
 - [ ] [<code>chore: Add CI workflow for thank you message after issue got completed</code>](https://github.com/krille-chan/fluffychat/commit/b8d64a113e0733777a8dfd873f7df358838436b8)
 - [ ] [<code>fix: Workaround for reversed width and height of compressed videos sent from Android</code>](https://github.com/krille-chan/fluffychat/commit/3d0a3ee2264430720329aefd1e10ac27f57c258f)
 - [ ] [<code>feat: Collapse all state events by default</code>](https://github.com/krille-chan/fluffychat/commit/103cb8328dbabda1169bbef30cef2b16b78a0322)
+- [ ] [<code>fix: fix l10n files' indentation</code>](https://github.com/krille-chan/fluffychat/commit/44919d4f3b897ec849e11619168551beb2d3db2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: fix l10n's missing newlines</code>](https://github.com/krille-chan/fluffychat/commit/6ed9c9d6aa1416d8334b34296ac84bfa0e950202)
 - [ ] [<code>feat(linux/notify): support avarar icon</code>](https://github.com/krille-chan/fluffychat/commit/a217213f77cf2ad4b49a52088549d52dff1dd2d8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
@@ -347,6 +350,9 @@
 - [ ] [<code>chore: Add CI workflow for thank you message after issue got completed</code>](https://github.com/krille-chan/fluffychat/commit/b8d64a113e0733777a8dfd873f7df358838436b8)
 - [ ] [<code>fix: Workaround for reversed width and height of compressed videos sent from Android</code>](https://github.com/krille-chan/fluffychat/commit/3d0a3ee2264430720329aefd1e10ac27f57c258f)
 - [ ] [<code>feat: Collapse all state events by default</code>](https://github.com/krille-chan/fluffychat/commit/103cb8328dbabda1169bbef30cef2b16b78a0322)
+- [ ] [<code>fix: fix l10n files' indentation</code>](https://github.com/krille-chan/fluffychat/commit/44919d4f3b897ec849e11619168551beb2d3db2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: fix l10n's missing newlines</code>](https://github.com/krille-chan/fluffychat/commit/6ed9c9d6aa1416d8334b34296ac84bfa0e950202)
 - [ ] [<code>feat(linux/notify): support avarar icon</code>](https://github.com/krille-chan/fluffychat/commit/a217213f77cf2ad4b49a52088549d52dff1dd2d8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -440,6 +446,13 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/scriptlet: Allow sets</code>](https://github.com/lxc/incus/commit/87cdd4abe65f2e8f245779c42fe4b02198cf5cb0)
 - [ ] [<code>internal/server/network: Port to generated functions</code>](https://github.com/lxc/incus/commit/1d993b309c0a397fde2af83d7859eced5288ec7a)
+- [ ] [<code>lxc-to-incus: Add lxc.apparmor.allow_nesting</code>](https://github.com/lxc/incus/commit/708135b506ec6039c87f2ff4e24c93d448d1410b)
+- [ ] [<code>tests: Workaround old socat bug</code>](https://github.com/lxc/incus/commit/297450e527684f8f7a36f70b2d4d8fc054dc50e2)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>tests: Update for newer easyrsa</code>](https://github.com/lxc/incus/commit/68559cfdf7131e710dd7917c69fc0574a3f6b1e8)
+- [ ] [<code>tests: Recent XFS requires a minimum volume size of 300MiB</code>](https://github.com/lxc/incus/commit/849e050d5b4f96a4cf153de45e42a4568f547a6c)
+- [ ] [<code>github: Switch to ZFS backend for Linstor</code>](https://github.com/lxc/incus/commit/20b84377a15459faa3bedd6768b317a96fb77ac3)
+- [ ] [<code>github: Switch tests to Ubuntu 24.04</code>](https://github.com/lxc/incus/commit/bb1166ac70e54fd3c0b50ae4485aad99ddb43113)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3687,6 +3700,13 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/scriptlet: Allow sets</code>](https://github.com/lxc/incus/commit/87cdd4abe65f2e8f245779c42fe4b02198cf5cb0)
 - [ ] [<code>internal/server/network: Port to generated functions</code>](https://github.com/lxc/incus/commit/1d993b309c0a397fde2af83d7859eced5288ec7a)
+- [ ] [<code>lxc-to-incus: Add lxc.apparmor.allow_nesting</code>](https://github.com/lxc/incus/commit/708135b506ec6039c87f2ff4e24c93d448d1410b)
+- [ ] [<code>tests: Workaround old socat bug</code>](https://github.com/lxc/incus/commit/297450e527684f8f7a36f70b2d4d8fc054dc50e2)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>tests: Update for newer easyrsa</code>](https://github.com/lxc/incus/commit/68559cfdf7131e710dd7917c69fc0574a3f6b1e8)
+- [ ] [<code>tests: Recent XFS requires a minimum volume size of 300MiB</code>](https://github.com/lxc/incus/commit/849e050d5b4f96a4cf153de45e42a4568f547a6c)
+- [ ] [<code>github: Switch to ZFS backend for Linstor</code>](https://github.com/lxc/incus/commit/20b84377a15459faa3bedd6768b317a96fb77ac3)
+- [ ] [<code>github: Switch tests to Ubuntu 24.04</code>](https://github.com/lxc/incus/commit/bb1166ac70e54fd3c0b50ae4485aad99ddb43113)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4040,6 +4060,7 @@
 - [ ] [<code>Add changelog entry for the grayscal bit changing fix (#2829)</code>](https://github.com/AOMediaCodec/libavif/commit/36ec17ad90245b9d0bde88b2a41339447eefbeec)
 - [ ] [<code>Bump cmake_minimum_required from 3.13 to 3.22</code>](https://github.com/AOMediaCodec/libavif/commit/2881accd9fbed04e1b49cba3e81a4b148e1a2bf0)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix coverity report. (#2835)</code>](https://github.com/AOMediaCodec/libavif/commit/2738be619e38f53167672c3bfac6be3bdd527a8a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4518,6 +4539,12 @@
 - [ ] [<code>Update SQLITE to version 3.50.1 (#20539)</code>](https://github.com/netdata/netdata.git/commit/103a4b2f0926832de393d5595cfed01e991911d6)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.64.0 to 0.65.0 in /src/go (#20545)</code>](https://github.com/netdata/netdata.git/commit/4aad30435432fc080b6c981492625191c9d8be3d)
 - [ ] [<code>improve(go.d/snmp-profiles): add DHCP tags transform to bluecat profile (#20547)</code>](https://github.com/netdata/netdata.git/commit/e1d627b6114cbae9420cd3f011f93b015d31a940)
+- [ ] [<code>Enable Rust-based journal file reader in static builds. (#20477)</code>](https://github.com/netdata/netdata.git/commit/3be9c2c9c886f770a446cfebd28ddf9a1e51700f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Properly parse disconnect reason (#20540)</code>](https://github.com/netdata/netdata.git/commit/f3a09e23ecece984c0c4bd0c2f70d8dd43eb0db7)
+- [ ] [<code>MSI parameter (#20550)</code>](https://github.com/netdata/netdata.git/commit/8c358133a798c30cd210d93a0df4659e146bfcea)
+- [ ] [<code>Hardware (Windows.plugin) (#20522)</code>](https://github.com/netdata/netdata.git/commit/4cd931f5e82eb176425ba5e1ae74a525d1ea35f9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6121,6 +6148,8 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Rename utils.py and update code</code>](https://github.com/axcore/tartube/commit/62955519b105c5e43555af790f6798b5d7f0d855)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix #707, add Japanese/Tamil translations</code>](https://github.com/axcore/tartube/commit/3356dfc25ff61a10ca81ff72659bf6d2445e8fbd)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
