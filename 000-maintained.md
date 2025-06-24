@@ -453,6 +453,10 @@
 - [ ] [<code>tests: Recent XFS requires a minimum volume size of 300MiB</code>](https://github.com/lxc/incus/commit/849e050d5b4f96a4cf153de45e42a4568f547a6c)
 - [ ] [<code>github: Switch to ZFS backend for Linstor</code>](https://github.com/lxc/incus/commit/20b84377a15459faa3bedd6768b317a96fb77ac3)
 - [ ] [<code>github: Switch tests to Ubuntu 24.04</code>](https://github.com/lxc/incus/commit/bb1166ac70e54fd3c0b50ae4485aad99ddb43113)
+- [ ] [<code>api: resources_cpu_address_sizes</code>](https://github.com/lxc/incus/commit/61520c757756567a9f539cb7711041ac547a23e2)
+- [ ] [<code>incusd/resources: Track CPU address sizes</code>](https://github.com/lxc/incus/commit/32c6b73cb33e421699b24f32ebba9ebe5b3c8a7c)
+- [ ] [<code>incusd/instance/qemu: Be smarter about max memory hotplug</code>](https://github.com/lxc/incus/commit/00feeff0ceb9db9314f00bf4528e38e76bc9e9d6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ca2100a2b86aded4536a02ac738faa9e30c9d50)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3707,6 +3711,10 @@
 - [ ] [<code>tests: Recent XFS requires a minimum volume size of 300MiB</code>](https://github.com/lxc/incus/commit/849e050d5b4f96a4cf153de45e42a4568f547a6c)
 - [ ] [<code>github: Switch to ZFS backend for Linstor</code>](https://github.com/lxc/incus/commit/20b84377a15459faa3bedd6768b317a96fb77ac3)
 - [ ] [<code>github: Switch tests to Ubuntu 24.04</code>](https://github.com/lxc/incus/commit/bb1166ac70e54fd3c0b50ae4485aad99ddb43113)
+- [ ] [<code>api: resources_cpu_address_sizes</code>](https://github.com/lxc/incus/commit/61520c757756567a9f539cb7711041ac547a23e2)
+- [ ] [<code>incusd/resources: Track CPU address sizes</code>](https://github.com/lxc/incus/commit/32c6b73cb33e421699b24f32ebba9ebe5b3c8a7c)
+- [ ] [<code>incusd/instance/qemu: Be smarter about max memory hotplug</code>](https://github.com/lxc/incus/commit/00feeff0ceb9db9314f00bf4528e38e76bc9e9d6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ca2100a2b86aded4536a02ac738faa9e30c9d50)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4061,6 +4069,8 @@
 - [ ] [<code>Bump cmake_minimum_required from 3.13 to 3.22</code>](https://github.com/AOMediaCodec/libavif/commit/2881accd9fbed04e1b49cba3e81a4b148e1a2bf0)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix coverity report. (#2835)</code>](https://github.com/AOMediaCodec/libavif/commit/2738be619e38f53167672c3bfac6be3bdd527a8a)
+- [ ] [<code>Associate clap,irot,imir with alpha aux items (#2832)</code>](https://github.com/AOMediaCodec/libavif/commit/3c4027325bea051db501417a51ac902011f38656)
+- [ ] [<code>Check PSNR in transformtest because of rav1e (#2836)</code>](https://github.com/AOMediaCodec/libavif/commit/ab4716e966568325192f339a2fe9cf94dbcf39f7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4545,6 +4555,9 @@
 - [ ] [<code>MSI parameter (#20550)</code>](https://github.com/netdata/netdata.git/commit/8c358133a798c30cd210d93a0df4659e146bfcea)
 - [ ] [<code>Hardware (Windows.plugin) (#20522)</code>](https://github.com/netdata/netdata.git/commit/4cd931f5e82eb176425ba5e1ae74a525d1ea35f9)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-273-nightly.</code>](https://github.com/netdata/netdata.git/commit/f7f30ea6c5db13bc5047aac8a21adc9e2cb90d3f)
+- [ ] [<code>Fix save alert config transition on shutdown (#20553)</code>](https://github.com/netdata/netdata.git/commit/c6b7bf499d0c9ada336964acf61a641c9ef9c631)
+- [ ] [<code>Regenerate integrations docs (#20552)</code>](https://github.com/netdata/netdata.git/commit/9b94164c34f9407b098ac271bb1d95fcf3e35728)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
