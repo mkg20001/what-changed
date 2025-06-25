@@ -197,6 +197,9 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test: add test for snapd recovery key service</code>](https://github.com/canonical/firmware-updater/commit/0bbe82056e89b6ebfc97c8a2bb15d240d763d2e0)
 - [ ] [<code>feat: prompt for recovery key before updating device affected by FDE (#348)</code>](https://github.com/canonical/firmware-updater/commit/57b44d416cf94eb04d5bee3e454c2c403eb1421d)
+- [ ] [<code>feat: add config service</code>](https://github.com/canonical/firmware-updater/commit/87a7495fc03fba6ba03d5554c8a39a9a0a6b9a57)
+- [ ] [<code>feat: show recovery key dialog for test device when configured</code>](https://github.com/canonical/firmware-updater/commit/9732033c1383bd76f2794ec830891f60a5602a4a)
+- [ ] [<code>feat: add config option to test FDE dialog with fwupd test device (#353)</code>](https://github.com/canonical/firmware-updater/commit/5e5d075d8cf73772e036382c6130a7f3f8b7e262)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -475,6 +478,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/device/disk: Allow degraded zpools</code>](https://github.com/lxc/incus/commit/abb0e697b3c474dde23de21b032dc5ed6f82e533)
 - [ ] [<code>incusd/storage_volumes: Fix cross-project cluster volume copy/move</code>](https://github.com/lxc/incus/commit/56cec4f3683a0792ccd28c073276953f494e91bc)
+- [ ] [<code>incusd/firewall/nftables: Fix rule ordering for ARP/NDP</code>](https://github.com/lxc/incus/commit/254dfd2483ab8de39b47c2258b7f1cf0759231c8)
+- [ ] [<code>incusd/firewall/nftables: Fix ordering of basic rules</code>](https://github.com/lxc/incus/commit/2516fb19ad8428454cb4edfe70c0a5f0dc1da214)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3739,6 +3744,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/device/disk: Allow degraded zpools</code>](https://github.com/lxc/incus/commit/abb0e697b3c474dde23de21b032dc5ed6f82e533)
 - [ ] [<code>incusd/storage_volumes: Fix cross-project cluster volume copy/move</code>](https://github.com/lxc/incus/commit/56cec4f3683a0792ccd28c073276953f494e91bc)
+- [ ] [<code>incusd/firewall/nftables: Fix rule ordering for ARP/NDP</code>](https://github.com/lxc/incus/commit/254dfd2483ab8de39b47c2258b7f1cf0759231c8)
+- [ ] [<code>incusd/firewall/nftables: Fix ordering of basic rules</code>](https://github.com/lxc/incus/commit/2516fb19ad8428454cb4edfe70c0a5f0dc1da214)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4391,6 +4398,7 @@
 - [ ] [<code>Check PSNR in transformtest because of rav1e (#2836)</code>](https://github.com/AOMediaCodec/libavif/commit/ab4716e966568325192f339a2fe9cf94dbcf39f7)
 - [ ] [<code>Update LocalAom.cmake to AVM research-v10.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/554b00bf49ed76da696d4eca24da9c7d7a5889d1)
 - [ ] [<code>MinGW: fix error of undefined strcmp() (#2837)</code>](https://github.com/AOMediaCodec/libavif/commit/85bca840ccba90e6b7c8030cd54a538352b53fad)
+- [ ] [<code>avifprogressivetest: Use quality instead of quantizer pair</code>](https://github.com/AOMediaCodec/libavif/commit/caaaed326f043692abb24f671723dd90bb308d04)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4895,6 +4903,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>improve(go.d/smartctl): add Win default path for smartctl executable (#20574)</code>](https://github.com/netdata/netdata.git/commit/c110045f2c1efc4610e3fc8c5f4273cd8b40d3e0)
   - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>chore(go.d/snmp-profiles): skip abstract when loading (#20576)</code>](https://github.com/netdata/netdata.git/commit/8f46a5e9d7180ea1118d0d4f7b29443d4a31e34d)
+- [ ] [<code>NUMA Windows  (#20573)</code>](https://github.com/netdata/netdata.git/commit/35b62d244436700e2ff06362603967135c29cec3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Regenerate integrations docs (#20577)</code>](https://github.com/netdata/netdata.git/commit/45009465cfd6aa7ebbeb728cf9028ba11336f372)
+- [ ] [<code>Add Remove Node guide (#20549)</code>](https://github.com/netdata/netdata.git/commit/fe4aee6d0221b6380d6376aa053e0ff2546c7f68)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
