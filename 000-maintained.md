@@ -19,7 +19,7 @@
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
 - [ ] [<code>src/lib/serialize.h: don't define double as float_t</code>](https://github.com/cowsql/cowsql/commit/c0d7c99632ea2ee01066988708cbb41f335cbdc3)
 - [ ] [<code>src/lib/serialize.h: don't define double as float_t (#37)</code>](https://github.com/cowsql/cowsql/commit/cb624d3263ca22b42ecfa8a1dd8a0c8d990db7b6)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.0/dbeaver-ce-25.1.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.0/dbeaver-ce-25.1.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.1/dbeaver-ce-25.1.1-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.1/dbeaver-ce-25.1.1-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -277,6 +277,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: fix l10n's missing newlines</code>](https://github.com/krille-chan/fluffychat/commit/6ed9c9d6aa1416d8334b34296ac84bfa0e950202)
 - [ ] [<code>feat(linux/notify): support avarar icon</code>](https://github.com/krille-chan/fluffychat/commit/a217213f77cf2ad4b49a52088549d52dff1dd2d8)
+- [ ] [<code>build: Upgrade emoji picker flutter</code>](https://github.com/krille-chan/fluffychat/commit/24b88819ba86d2c748aa521f0cf15e1419d0ac2b)
+- [ ] [<code>build: Use macos-latest for debug ios job</code>](https://github.com/krille-chan/fluffychat/commit/5a7a76ff3a7b9228dd442c295cb1c60ff0849e00)
+- [ ] [<code>refactor: ignore bubble gradient when using system high contrast mode</code>](https://github.com/krille-chan/fluffychat/commit/36bcfd8f9bc8b83a299d0b67416500cb1b099b8a)
+- [ ] [<code>chore: Remove lifecyclestate logs</code>](https://github.com/krille-chan/fluffychat/commit/cf6b34f8c009fc4ac29fdb8e531fbd5fd16a17e8)
+- [ ] [<code>fix: Design glitches in sticker dialog</code>](https://github.com/krille-chan/fluffychat/commit/b63a1d3e5c33f2a02141802f82498b2310e529b0)
+- [ ] [<code>build: Follow up enable google services patch</code>](https://github.com/krille-chan/fluffychat/commit/4bbaa9c5a0c8e44ed9e7c965235881db4e4c8f94)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -354,6 +360,12 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: fix l10n's missing newlines</code>](https://github.com/krille-chan/fluffychat/commit/6ed9c9d6aa1416d8334b34296ac84bfa0e950202)
 - [ ] [<code>feat(linux/notify): support avarar icon</code>](https://github.com/krille-chan/fluffychat/commit/a217213f77cf2ad4b49a52088549d52dff1dd2d8)
+- [ ] [<code>build: Upgrade emoji picker flutter</code>](https://github.com/krille-chan/fluffychat/commit/24b88819ba86d2c748aa521f0cf15e1419d0ac2b)
+- [ ] [<code>build: Use macos-latest for debug ios job</code>](https://github.com/krille-chan/fluffychat/commit/5a7a76ff3a7b9228dd442c295cb1c60ff0849e00)
+- [ ] [<code>refactor: ignore bubble gradient when using system high contrast mode</code>](https://github.com/krille-chan/fluffychat/commit/36bcfd8f9bc8b83a299d0b67416500cb1b099b8a)
+- [ ] [<code>chore: Remove lifecyclestate logs</code>](https://github.com/krille-chan/fluffychat/commit/cf6b34f8c009fc4ac29fdb8e531fbd5fd16a17e8)
+- [ ] [<code>fix: Design glitches in sticker dialog</code>](https://github.com/krille-chan/fluffychat/commit/b63a1d3e5c33f2a02141802f82498b2310e529b0)
+- [ ] [<code>build: Follow up enable google services patch</code>](https://github.com/krille-chan/fluffychat/commit/4bbaa9c5a0c8e44ed9e7c965235881db4e4c8f94)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -459,6 +471,10 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ca2100a2b86aded4536a02ac738faa9e30c9d50)
 - [ ] [<code>incusd/instance/qemu: Cap hotplug memory to 1TB</code>](https://github.com/lxc/incus/commit/6c2e26e1dc92f292373bbacc7b21fdc636626d46)
 - [ ] [<code>incusd/cluster: Fix incorrect handling of server address</code>](https://github.com/lxc/incus/commit/89a7c5ba2aa85ef8fb36bca881d9ad1030a69f02)
+- [ ] [<code>incusd/instance/qmp: Fix typo</code>](https://github.com/lxc/incus/commit/de51f2d9d8292ef683094d4fc153303e6fe59602)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Allow degraded zpools</code>](https://github.com/lxc/incus/commit/abb0e697b3c474dde23de21b032dc5ed6f82e533)
+- [ ] [<code>incusd/storage_volumes: Fix cross-project cluster volume copy/move</code>](https://github.com/lxc/incus/commit/56cec4f3683a0792ccd28c073276953f494e91bc)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3719,6 +3735,10 @@
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ca2100a2b86aded4536a02ac738faa9e30c9d50)
 - [ ] [<code>incusd/instance/qemu: Cap hotplug memory to 1TB</code>](https://github.com/lxc/incus/commit/6c2e26e1dc92f292373bbacc7b21fdc636626d46)
 - [ ] [<code>incusd/cluster: Fix incorrect handling of server address</code>](https://github.com/lxc/incus/commit/89a7c5ba2aa85ef8fb36bca881d9ad1030a69f02)
+- [ ] [<code>incusd/instance/qmp: Fix typo</code>](https://github.com/lxc/incus/commit/de51f2d9d8292ef683094d4fc153303e6fe59602)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Allow degraded zpools</code>](https://github.com/lxc/incus/commit/abb0e697b3c474dde23de21b032dc5ed6f82e533)
+- [ ] [<code>incusd/storage_volumes: Fix cross-project cluster volume copy/move</code>](https://github.com/lxc/incus/commit/56cec4f3683a0792ccd28c073276953f494e91bc)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4370,6 +4390,7 @@
 - [ ] [<code>Associate clap,irot,imir with alpha aux items (#2832)</code>](https://github.com/AOMediaCodec/libavif/commit/3c4027325bea051db501417a51ac902011f38656)
 - [ ] [<code>Check PSNR in transformtest because of rav1e (#2836)</code>](https://github.com/AOMediaCodec/libavif/commit/ab4716e966568325192f339a2fe9cf94dbcf39f7)
 - [ ] [<code>Update LocalAom.cmake to AVM research-v10.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/554b00bf49ed76da696d4eca24da9c7d7a5889d1)
+- [ ] [<code>MinGW: fix error of undefined strcmp() (#2837)</code>](https://github.com/AOMediaCodec/libavif/commit/85bca840ccba90e6b7c8030cd54a538352b53fad)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4870,6 +4891,10 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Regenerate integrations docs (#20571)</code>](https://github.com/netdata/netdata.git/commit/8337258247fe31ab722799d3aacb1baea2c85885)
 - [ ] [<code>Switch install types (#20564)</code>](https://github.com/netdata/netdata.git/commit/67960c326b42daa70d2ef57c3a5898f3ac4da66a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-286-nightly.</code>](https://github.com/netdata/netdata.git/commit/14916555619f3ddcb9cda583d3b0a3bf691d889a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>improve(go.d/smartctl): add Win default path for smartctl executable (#20574)</code>](https://github.com/netdata/netdata.git/commit/c110045f2c1efc4610e3fc8c5f4273cd8b40d3e0)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
