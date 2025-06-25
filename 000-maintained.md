@@ -458,6 +458,7 @@
 - [ ] [<code>incusd/instance/qemu: Be smarter about max memory hotplug</code>](https://github.com/lxc/incus/commit/00feeff0ceb9db9314f00bf4528e38e76bc9e9d6)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ca2100a2b86aded4536a02ac738faa9e30c9d50)
 - [ ] [<code>incusd/instance/qemu: Cap hotplug memory to 1TB</code>](https://github.com/lxc/incus/commit/6c2e26e1dc92f292373bbacc7b21fdc636626d46)
+- [ ] [<code>incusd/cluster: Fix incorrect handling of server address</code>](https://github.com/lxc/incus/commit/89a7c5ba2aa85ef8fb36bca881d9ad1030a69f02)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3717,6 +3718,7 @@
 - [ ] [<code>incusd/instance/qemu: Be smarter about max memory hotplug</code>](https://github.com/lxc/incus/commit/00feeff0ceb9db9314f00bf4528e38e76bc9e9d6)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ca2100a2b86aded4536a02ac738faa9e30c9d50)
 - [ ] [<code>incusd/instance/qemu: Cap hotplug memory to 1TB</code>](https://github.com/lxc/incus/commit/6c2e26e1dc92f292373bbacc7b21fdc636626d46)
+- [ ] [<code>incusd/cluster: Fix incorrect handling of server address</code>](https://github.com/lxc/incus/commit/89a7c5ba2aa85ef8fb36bca881d9ad1030a69f02)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4367,6 +4369,7 @@
 - [ ] [<code>Fix coverity report. (#2835)</code>](https://github.com/AOMediaCodec/libavif/commit/2738be619e38f53167672c3bfac6be3bdd527a8a)
 - [ ] [<code>Associate clap,irot,imir with alpha aux items (#2832)</code>](https://github.com/AOMediaCodec/libavif/commit/3c4027325bea051db501417a51ac902011f38656)
 - [ ] [<code>Check PSNR in transformtest because of rav1e (#2836)</code>](https://github.com/AOMediaCodec/libavif/commit/ab4716e966568325192f339a2fe9cf94dbcf39f7)
+- [ ] [<code>Update LocalAom.cmake to AVM research-v10.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/554b00bf49ed76da696d4eca24da9c7d7a5889d1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4863,6 +4866,10 @@
 - [ ] [<code>Add CLI command to schedule update information (#20558)</code>](https://github.com/netdata/netdata.git/commit/23561d1ddcbf883cfd7a2383586efb8dd55e4031)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.10.0 to 9.11.0 in /src/go (#20568)</code>](https://github.com/netdata/netdata.git/commit/89926caf34a1c9ad31998ab0e51109ae5d235e2e)
+- [ ] [<code>improve(go.d/smartctl): add configurable concurrent device scanning (#20569)</code>](https://github.com/netdata/netdata.git/commit/ff448d1e8c137d5b7bb3d6172f22e3887edfb990)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#20571)</code>](https://github.com/netdata/netdata.git/commit/8337258247fe31ab722799d3aacb1baea2c85885)
+- [ ] [<code>Switch install types (#20564)</code>](https://github.com/netdata/netdata.git/commit/67960c326b42daa70d2ef57c3a5898f3ac4da66a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
