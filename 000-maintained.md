@@ -484,6 +484,7 @@
 - [ ] [<code>incusd/storage_volumes: Fix cross-project cluster volume copy/move</code>](https://github.com/lxc/incus/commit/56cec4f3683a0792ccd28c073276953f494e91bc)
 - [ ] [<code>incusd/firewall/nftables: Fix rule ordering for ARP/NDP</code>](https://github.com/lxc/incus/commit/254dfd2483ab8de39b47c2258b7f1cf0759231c8)
 - [ ] [<code>incusd/firewall/nftables: Fix ordering of basic rules</code>](https://github.com/lxc/incus/commit/2516fb19ad8428454cb4edfe70c0a5f0dc1da214)
+- [ ] [<code>incusd/storage/lvm: Avoid concurrent activation/deactivation</code>](https://github.com/lxc/incus/commit/6c735b0f6d1497453ac10bbff2ea201f630fe5cb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3750,6 +3751,7 @@
 - [ ] [<code>incusd/storage_volumes: Fix cross-project cluster volume copy/move</code>](https://github.com/lxc/incus/commit/56cec4f3683a0792ccd28c073276953f494e91bc)
 - [ ] [<code>incusd/firewall/nftables: Fix rule ordering for ARP/NDP</code>](https://github.com/lxc/incus/commit/254dfd2483ab8de39b47c2258b7f1cf0759231c8)
 - [ ] [<code>incusd/firewall/nftables: Fix ordering of basic rules</code>](https://github.com/lxc/incus/commit/2516fb19ad8428454cb4edfe70c0a5f0dc1da214)
+- [ ] [<code>incusd/storage/lvm: Avoid concurrent activation/deactivation</code>](https://github.com/lxc/incus/commit/6c735b0f6d1497453ac10bbff2ea201f630fe5cb)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4917,6 +4919,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-292-nightly.</code>](https://github.com/netdata/netdata.git/commit/21f51e6e52bf42bd3d994c8c2e31483604eca1ad)
 - [ ] [<code>Improve SQLite library shutdown handling and initialization state (#20559)</code>](https://github.com/netdata/netdata.git/commit/da205b61b8d1f9afd41aee813cb1c4cc392c5545)
+- [ ] [<code>Add Rocky Linux 10 to CI and package builds. (#20578)</code>](https://github.com/netdata/netdata.git/commit/32b1931eda5ee1da6be0a89f364b954a0eb30f36)
+- [ ] [<code>fix(go.d/ddsnmp): walk cross-table columns when referenced table has no metrics (#20583)</code>](https://github.com/netdata/netdata.git/commit/aebd505c12fb473ddda564c5e585e5cb1ce0905f)
+- [ ] [<code>fix(go.d/ddsnmp): include table name in config id (#20584)</code>](https://github.com/netdata/netdata.git/commit/08f3e87b2314036ddb676f08a7dd9e6a5ea4fbbf)
+- [ ] [<code>Add defines for cleanup statements (#20570)</code>](https://github.com/netdata/netdata.git/commit/3f6a59da33e7b0d963e011b4757e0b0a47fe44ba)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6536,6 +6542,11 @@
 - [ ] [<code>socket: properly handle async `connect(2)` errors in socket.connect()</code>](https://github.com/jow-/ucode/commit/767c209b917b86ef530be977ffb31f5bbd604e4a)
 - [ ] [<code>socket: improve port argument validation in sockinst.connect()</code>](https://github.com/jow-/ucode/commit/37ac8f112af63e64c1ea2d13ae63c134b62a5681)
 - [ ] [<code>ubus: fix refcount issue in uc_ubus_object_notify</code>](https://github.com/jow-/ucode/commit/5b3b6b789b9c808c157ad5236834a954a4642b88)
+- [ ] [<code>program: add bytecode version to program header flags</code>](https://github.com/jow-/ucode/commit/f682ac2f6b825a4edc0ec2cd7b18b272e84a8b1a)
+- [ ] [<code>vm: implement PVAL opcode</code>](https://github.com/jow-/ucode/commit/af411d8101b276891f67ad5691b212315a07cd65)
+- [ ] [<code>vm: support initiating method calls with I_CALL/I_QCALL opcodes</code>](https://github.com/jow-/ucode/commit/afdfffb612588fba4d5d7a271c3735639fe47605)
+- [ ] [<code>compiler: stop emitting I_MCALL/I_QMCALL opcodes</code>](https://github.com/jow-/ucode/commit/5d680425db4069e720992b449a50cbec9e253697)
+- [ ] [<code>compiler, vm: rework optional chaining and function call semantics</code>](https://github.com/jow-/ucode/commit/a616feed39ebb4e52c83f611b0404648db0a514b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
