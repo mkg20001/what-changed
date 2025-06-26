@@ -4399,6 +4399,7 @@
 - [ ] [<code>Update LocalAom.cmake to AVM research-v10.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/554b00bf49ed76da696d4eca24da9c7d7a5889d1)
 - [ ] [<code>MinGW: fix error of undefined strcmp() (#2837)</code>](https://github.com/AOMediaCodec/libavif/commit/85bca840ccba90e6b7c8030cd54a538352b53fad)
 - [ ] [<code>avifprogressivetest: Use quality instead of quantizer pair</code>](https://github.com/AOMediaCodec/libavif/commit/caaaed326f043692abb24f671723dd90bb308d04)
+- [ ] [<code>Remove a comment on how to reproduce AVM issue 717</code>](https://github.com/AOMediaCodec/libavif/commit/b4462a2952e950e00d7b9d28056baa060490f0c5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
