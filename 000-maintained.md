@@ -286,6 +286,8 @@
 - [ ] [<code>chore: Remove lifecyclestate logs</code>](https://github.com/krille-chan/fluffychat/commit/cf6b34f8c009fc4ac29fdb8e531fbd5fd16a17e8)
 - [ ] [<code>fix: Design glitches in sticker dialog</code>](https://github.com/krille-chan/fluffychat/commit/b63a1d3e5c33f2a02141802f82498b2310e529b0)
 - [ ] [<code>build: Follow up enable google services patch</code>](https://github.com/krille-chan/fluffychat/commit/4bbaa9c5a0c8e44ed9e7c965235881db4e4c8f94)
+- [ ] [<code>fix: Config viewer not updating state</code>](https://github.com/krille-chan/fluffychat/commit/1991707be725f946ff5801455be52dff5939408f)
+- [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -369,6 +371,8 @@
 - [ ] [<code>chore: Remove lifecyclestate logs</code>](https://github.com/krille-chan/fluffychat/commit/cf6b34f8c009fc4ac29fdb8e531fbd5fd16a17e8)
 - [ ] [<code>fix: Design glitches in sticker dialog</code>](https://github.com/krille-chan/fluffychat/commit/b63a1d3e5c33f2a02141802f82498b2310e529b0)
 - [ ] [<code>build: Follow up enable google services patch</code>](https://github.com/krille-chan/fluffychat/commit/4bbaa9c5a0c8e44ed9e7c965235881db4e4c8f94)
+- [ ] [<code>fix: Config viewer not updating state</code>](https://github.com/krille-chan/fluffychat/commit/1991707be725f946ff5801455be52dff5939408f)
+- [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4400,6 +4404,7 @@
 - [ ] [<code>MinGW: fix error of undefined strcmp() (#2837)</code>](https://github.com/AOMediaCodec/libavif/commit/85bca840ccba90e6b7c8030cd54a538352b53fad)
 - [ ] [<code>avifprogressivetest: Use quality instead of quantizer pair</code>](https://github.com/AOMediaCodec/libavif/commit/caaaed326f043692abb24f671723dd90bb308d04)
 - [ ] [<code>Remove a comment on how to reproduce AVM issue 717</code>](https://github.com/AOMediaCodec/libavif/commit/b4462a2952e950e00d7b9d28056baa060490f0c5)
+- [ ] [<code>Remove reader requirement in mini reconstruction (#2839)</code>](https://github.com/AOMediaCodec/libavif/commit/6217442547f172776d25442b512726164634bd25)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4910,6 +4915,8 @@
 - [ ] [<code>Regenerate integrations docs (#20577)</code>](https://github.com/netdata/netdata.git/commit/45009465cfd6aa7ebbeb728cf9028ba11336f372)
 - [ ] [<code>Add Remove Node guide (#20549)</code>](https://github.com/netdata/netdata.git/commit/fe4aee6d0221b6380d6376aa053e0ff2546c7f68)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-292-nightly.</code>](https://github.com/netdata/netdata.git/commit/21f51e6e52bf42bd3d994c8c2e31483604eca1ad)
+- [ ] [<code>Improve SQLite library shutdown handling and initialization state (#20559)</code>](https://github.com/netdata/netdata.git/commit/da205b61b8d1f9afd41aee813cb1c4cc392c5545)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
