@@ -4923,6 +4923,7 @@
 - [ ] [<code>fix(go.d/ddsnmp): walk cross-table columns when referenced table has no metrics (#20583)</code>](https://github.com/netdata/netdata.git/commit/aebd505c12fb473ddda564c5e585e5cb1ce0905f)
 - [ ] [<code>fix(go.d/ddsnmp): include table name in config id (#20584)</code>](https://github.com/netdata/netdata.git/commit/08f3e87b2314036ddb676f08a7dd9e6a5ea4fbbf)
 - [ ] [<code>Add defines for cleanup statements (#20570)</code>](https://github.com/netdata/netdata.git/commit/3f6a59da33e7b0d963e011b4757e0b0a47fe44ba)
+- [ ] [<code>remove devType/Vendor/ from ddsnmp metric families (#20585)</code>](https://github.com/netdata/netdata.git/commit/3260791d1ed8461203c13586ba6e77b70b6f6d79)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6505,17 +6506,8 @@
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.83.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.83.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.11.0 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.11.0...HEAD)
+#### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.11.1 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.11.1...HEAD)
 
-- [ ] [<code>Bump ra-language-english from 5.2.3 to 5.8.2 (#667)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d72c91644d68813df84aaef8e6b31d76f6632fba)
-- [ ] [<code>Bump vite from 5.4.19 to 6.3.5 (#664)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/99bf7b1889d62ced0bf39f1de9ab6a0cb7d2bc38)
-- [ ] [<code>Bump typescript-eslint from 8.32.0 to 8.32.1 (#661)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/238350b94089f7cba99027034a0c5cf9b6f50bf6)
-- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.6.8 to 4.7.3 (#659)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8dc5238fcb1c1bfc64544e8cde0b11ddf115caf3)
-- [ ] [<code>Bump softprops/action-gh-release from 2.0.8 to 2.2.2 (#660)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fa3f2437a374ddb0802334f5688c49011066a08a)
-- [ ] [<code>Downgrade react-router to `6.27.0` to fix import users (#678)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7a286ad50666af5cc40b27d872ba848a247340ac)
-- [ ] [<code>fix: Start if `BASE_URL` is not defined (#677)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ef8ae9b38fbd7c39c5c1274a00fe4826789de140)
-- [ ] [<code>fix(Dockerfile): `FROM` and `AS` both in uppercase, `FromAsCasing` (#680)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3902dcd3d11721b22ed5306a9af43ac5808700a0)
-  - <sub>Tags: <code>0.11.1</code></sub>
 - [ ] [<code>chore: bump react-admin to `5.8` and `mui` to `7.1` (#679)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e15411a04cbea5040afbc0b70461ac57507962b2)
   - <sub>Keywords: <code>bin</code></sub>
 
