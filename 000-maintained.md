@@ -485,6 +485,11 @@
 - [ ] [<code>incusd/firewall/nftables: Fix rule ordering for ARP/NDP</code>](https://github.com/lxc/incus/commit/254dfd2483ab8de39b47c2258b7f1cf0759231c8)
 - [ ] [<code>incusd/firewall/nftables: Fix ordering of basic rules</code>](https://github.com/lxc/incus/commit/2516fb19ad8428454cb4edfe70c0a5f0dc1da214)
 - [ ] [<code>incusd/storage/lvm: Avoid concurrent activation/deactivation</code>](https://github.com/lxc/incus/commit/6c735b0f6d1497453ac10bbff2ea201f630fe5cb)
+- [ ] [<code>devcontainer: Add gofumpt</code>](https://github.com/lxc/incus/commit/596c6dff301bb477c9614544880bec94baff3b50)
+- [ ] [<code>incus/config/set: Add example using stdin</code>](https://github.com/lxc/incus/commit/08d1314e5eea40a956c379d9bdf71fe67f845e80)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e0fd7cad4c5c392621de8dda1cc6d481a2cb3ed0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Only compress qcow2 if publishing a split image</code>](https://github.com/lxc/incus/commit/3f7159d4bcd75a59c15b2eb8e8e87d369b8ed9f4)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3752,6 +3757,11 @@
 - [ ] [<code>incusd/firewall/nftables: Fix rule ordering for ARP/NDP</code>](https://github.com/lxc/incus/commit/254dfd2483ab8de39b47c2258b7f1cf0759231c8)
 - [ ] [<code>incusd/firewall/nftables: Fix ordering of basic rules</code>](https://github.com/lxc/incus/commit/2516fb19ad8428454cb4edfe70c0a5f0dc1da214)
 - [ ] [<code>incusd/storage/lvm: Avoid concurrent activation/deactivation</code>](https://github.com/lxc/incus/commit/6c735b0f6d1497453ac10bbff2ea201f630fe5cb)
+- [ ] [<code>devcontainer: Add gofumpt</code>](https://github.com/lxc/incus/commit/596c6dff301bb477c9614544880bec94baff3b50)
+- [ ] [<code>incus/config/set: Add example using stdin</code>](https://github.com/lxc/incus/commit/08d1314e5eea40a956c379d9bdf71fe67f845e80)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e0fd7cad4c5c392621de8dda1cc6d481a2cb3ed0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Only compress qcow2 if publishing a split image</code>](https://github.com/lxc/incus/commit/3f7159d4bcd75a59c15b2eb8e8e87d369b8ed9f4)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4924,6 +4934,8 @@
 - [ ] [<code>fix(go.d/ddsnmp): include table name in config id (#20584)</code>](https://github.com/netdata/netdata.git/commit/08f3e87b2314036ddb676f08a7dd9e6a5ea4fbbf)
 - [ ] [<code>Add defines for cleanup statements (#20570)</code>](https://github.com/netdata/netdata.git/commit/3f6a59da33e7b0d963e011b4757e0b0a47fe44ba)
 - [ ] [<code>remove devType/Vendor/ from ddsnmp metric families (#20585)</code>](https://github.com/netdata/netdata.git/commit/3260791d1ed8461203c13586ba6e77b70b6f6d79)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-299-nightly.</code>](https://github.com/netdata/netdata.git/commit/59122ce4f622e0411ebfdfc02b026143e54ac656)
+- [ ] [<code>fix(go.d/ddsnmp): correct matching same profile multiple times (#20586)</code>](https://github.com/netdata/netdata.git/commit/d1df3b6e186fdb5a2b2d6fe62528826f4fd7e6f3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
