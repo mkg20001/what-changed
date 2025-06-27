@@ -490,6 +490,38 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e0fd7cad4c5c392621de8dda1cc6d481a2cb3ed0)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Only compress qcow2 if publishing a split image</code>](https://github.com/lxc/incus/commit/3f7159d4bcd75a59c15b2eb8e8e87d369b8ed9f4)
+- [ ] [<code>incusd/instance/qemu: Don't flood the debug log</code>](https://github.com/lxc/incus/commit/700dcfad0ec4837825d4923a080113f45daaa4b6)
+- [ ] [<code>incusd/storage/zfs: Handle re-use of delegated dataset</code>](https://github.com/lxc/incus/commit/f3a404dd3241b0c59a59582c3ad156b843f3987b)
+- [ ] [<code>incus/file: Remove OS-specific handling from SSHFS logic</code>](https://github.com/lxc/incus/commit/140f4a7f8962cb47c337d973e6bd85f597a4ae2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/57b56c4ce10f054e96c460b77ec958166bd3f339)
+- [ ] [<code>Release Incus 6.14</code>](https://github.com/lxc/incus/commit/b4db2a1a895b296bc120b1e37854de0ca733654c)
+  - <sub>Tags: <code>v6.14.0</code></sub>
+- [ ] [<code>incusd/ip/utils: Switch to netlink</code>](https://github.com/lxc/incus/commit/31f90db3a08245fb5e562b846e21d273adc5cce6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/ip/addr: Switch to netlink</code>](https://github.com/lxc/incus/commit/6e41cb512b83b187d572316ab641f71931cef3be)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/class: Switch to netlink</code>](https://github.com/lxc/incus/commit/b470a1ee2ef9131be42b99163155930b57cf9e1f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/filter: Switch to netlink</code>](https://github.com/lxc/incus/commit/32ecd1353a40ecc4fa74e0b2b0def996c9b97fb9)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/link: Switch to netlink</code>](https://github.com/lxc/incus/commit/9972d5db50828f8f79cb2fee01bb1726e99b7551)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/neigh: Switch to netlink</code>](https://github.com/lxc/incus/commit/da46fcfc3c58c2260db4909b95f4295867154775)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/neigh_proxy: Switch to netlink</code>](https://github.com/lxc/incus/commit/66c6757a8ebc070c07aa994463ee19cd74fb4451)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/qdisc: Switch to netlink</code>](https://github.com/lxc/incus/commit/9c3a2391d1dc0f00a376da5f57e739bb9cbf3609)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/route: Switch to netlink</code>](https://github.com/lxc/incus/commit/9f1ef1e359c8b8e163df4dd111337308af7585bd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/tuntap: Switch to netlink</code>](https://github.com/lxc/incus/commit/f963f94c55178a58ed6756548ca40219a543b928)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/vdpa: Switch to vishvananda/netlink library instead of doing netlink ourselves</code>](https://github.com/lxc/incus/commit/2e2ddd594ccb080cf6361f8b95aa5faac2f6c159)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/ip: Refactor family from string to `Family` type</code>](https://github.com/lxc/incus/commit/6d6a669eb163fc434ed7b2fb21cbd3b764716a6c)
+- [ ] [<code>incusd/ip: Merge GetLinkInfoByName and LinkFromName into LinkByName</code>](https://github.com/lxc/incus/commit/41bdf5d7ca02017ffa84c662644e4a2c4167d558)
+- [ ] [<code>Use net.IP and net.IPNet instead of strings</code>](https://github.com/lxc/incus/commit/b9fcc873df174a2da65f7777f768b5d2468b6b79)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3762,6 +3794,38 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/e0fd7cad4c5c392621de8dda1cc6d481a2cb3ed0)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Only compress qcow2 if publishing a split image</code>](https://github.com/lxc/incus/commit/3f7159d4bcd75a59c15b2eb8e8e87d369b8ed9f4)
+- [ ] [<code>incusd/instance/qemu: Don't flood the debug log</code>](https://github.com/lxc/incus/commit/700dcfad0ec4837825d4923a080113f45daaa4b6)
+- [ ] [<code>incusd/storage/zfs: Handle re-use of delegated dataset</code>](https://github.com/lxc/incus/commit/f3a404dd3241b0c59a59582c3ad156b843f3987b)
+- [ ] [<code>incus/file: Remove OS-specific handling from SSHFS logic</code>](https://github.com/lxc/incus/commit/140f4a7f8962cb47c337d973e6bd85f597a4ae2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/57b56c4ce10f054e96c460b77ec958166bd3f339)
+- [ ] [<code>Release Incus 6.14</code>](https://github.com/lxc/incus/commit/b4db2a1a895b296bc120b1e37854de0ca733654c)
+  - <sub>Tags: <code>v6.14.0</code></sub>
+- [ ] [<code>incusd/ip/utils: Switch to netlink</code>](https://github.com/lxc/incus/commit/31f90db3a08245fb5e562b846e21d273adc5cce6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/ip/addr: Switch to netlink</code>](https://github.com/lxc/incus/commit/6e41cb512b83b187d572316ab641f71931cef3be)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/class: Switch to netlink</code>](https://github.com/lxc/incus/commit/b470a1ee2ef9131be42b99163155930b57cf9e1f)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/filter: Switch to netlink</code>](https://github.com/lxc/incus/commit/32ecd1353a40ecc4fa74e0b2b0def996c9b97fb9)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/link: Switch to netlink</code>](https://github.com/lxc/incus/commit/9972d5db50828f8f79cb2fee01bb1726e99b7551)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/neigh: Switch to netlink</code>](https://github.com/lxc/incus/commit/da46fcfc3c58c2260db4909b95f4295867154775)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/neigh_proxy: Switch to netlink</code>](https://github.com/lxc/incus/commit/66c6757a8ebc070c07aa994463ee19cd74fb4451)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/qdisc: Switch to netlink</code>](https://github.com/lxc/incus/commit/9c3a2391d1dc0f00a376da5f57e739bb9cbf3609)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/route: Switch to netlink</code>](https://github.com/lxc/incus/commit/9f1ef1e359c8b8e163df4dd111337308af7585bd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/tuntap: Switch to netlink</code>](https://github.com/lxc/incus/commit/f963f94c55178a58ed6756548ca40219a543b928)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/ip/vdpa: Switch to vishvananda/netlink library instead of doing netlink ourselves</code>](https://github.com/lxc/incus/commit/2e2ddd594ccb080cf6361f8b95aa5faac2f6c159)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/ip: Refactor family from string to `Family` type</code>](https://github.com/lxc/incus/commit/6d6a669eb163fc434ed7b2fb21cbd3b764716a6c)
+- [ ] [<code>incusd/ip: Merge GetLinkInfoByName and LinkFromName into LinkByName</code>](https://github.com/lxc/incus/commit/41bdf5d7ca02017ffa84c662644e4a2c4167d558)
+- [ ] [<code>Use net.IP and net.IPNet instead of strings</code>](https://github.com/lxc/incus/commit/b9fcc873df174a2da65f7777f768b5d2468b6b79)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.15.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.15.4...HEAD)
 
@@ -4936,6 +5000,12 @@
 - [ ] [<code>remove devType/Vendor/ from ddsnmp metric families (#20585)</code>](https://github.com/netdata/netdata.git/commit/3260791d1ed8461203c13586ba6e77b70b6f6d79)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-299-nightly.</code>](https://github.com/netdata/netdata.git/commit/59122ce4f622e0411ebfdfc02b026143e54ac656)
 - [ ] [<code>fix(go.d/ddsnmp): correct matching same profile multiple times (#20586)</code>](https://github.com/netdata/netdata.git/commit/d1df3b6e186fdb5a2b2d6fe62528826f4fd7e6f3)
+- [ ] [<code>ddsnmp add pow transform func and allow mapping duplicate values (#20587)</code>](https://github.com/netdata/netdata.git/commit/29369833cf64a42a3eab982d2184afe9150981a2)
+- [ ] [<code>doc: update SCIM doc (#20588)</code>](https://github.com/netdata/netdata.git/commit/74d7a44c66e1cc778186de791e0457e00c96d560)
+- [ ] [<code>Regenerate integrations docs (#20589)</code>](https://github.com/netdata/netdata.git/commit/9b31181968c2d340925a9098fbe0b49118254bde)
+- [ ] [<code>build(deps): bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.3.0 in /src/go/otel-collector/exporter/netdataexporter (#20591)</code>](https://github.com/netdata/netdata.git/commit/32707f2963fbe8dbf342b0f7c6dab39dc2a6d70f)
+- [ ] [<code>Mcp5 (#20529)</code>](https://github.com/netdata/netdata.git/commit/8da0e7cc91e47b61c3240d7e9c9a0df7a56c4702)
+- [ ] [<code>build(deps): bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.3.0 in /src/go/otel-collector/exporter/journaldexporter (#20592)</code>](https://github.com/netdata/netdata.git/commit/7f70a4aca343ba166aea151bcccec5a3d73161e3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6551,6 +6621,8 @@
 - [ ] [<code>vm: support initiating method calls with I_CALL/I_QCALL opcodes</code>](https://github.com/jow-/ucode/commit/afdfffb612588fba4d5d7a271c3735639fe47605)
 - [ ] [<code>compiler: stop emitting I_MCALL/I_QMCALL opcodes</code>](https://github.com/jow-/ucode/commit/5d680425db4069e720992b449a50cbec9e253697)
 - [ ] [<code>compiler, vm: rework optional chaining and function call semantics</code>](https://github.com/jow-/ucode/commit/a616feed39ebb4e52c83f611b0404648db0a514b)
+- [ ] [<code>vm: adjust JMPNT opcode behavior</code>](https://github.com/jow-/ucode/commit/0946a4fb20b8a5863e7301a55f5a54588b913273)
+- [ ] [<code>compiler: improve assignment lhs expression checks</code>](https://github.com/jow-/ucode/commit/6f8291f7375763e8e68df0f581ea2b8ee5c2c4e6)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
