@@ -4907,6 +4907,7 @@
 - [ ] [<code>build(deps): bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.3.0 in /src/go/otel-collector/exporter/netdataexporter (#20591)</code>](https://github.com/netdata/netdata.git/commit/32707f2963fbe8dbf342b0f7c6dab39dc2a6d70f)
 - [ ] [<code>Mcp5 (#20529)</code>](https://github.com/netdata/netdata.git/commit/8da0e7cc91e47b61c3240d7e9c9a0df7a56c4702)
 - [ ] [<code>build(deps): bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.3.0 in /src/go/otel-collector/exporter/journaldexporter (#20592)</code>](https://github.com/netdata/netdata.git/commit/7f70a4aca343ba166aea151bcccec5a3d73161e3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-307-nightly.</code>](https://github.com/netdata/netdata.git/commit/826d60df4287c0e3b2798c456c103f024d8c46c3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6438,6 +6439,13 @@
 - [ ] [<code>tools/soundcore-device-faker: add sync watch to justfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73754104076dc30601a6ecfe2afa6209c05f5a99)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>tools/soundcore-device-faker: A3959 reverse engineering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6b6e5babf0574c65ac2d63da3e438d947d8567e)
+- [ ] [<code>deps(tools/soundcore-device-faker): update bumble</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4821aa0840a77f8e70637a2fd00a931227f3c93f)
+- [ ] [<code>lib: WIP A3959 implementation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7953ae237cfb678c93caf2809ae645ca16ad482f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gui): inconsistent alignment</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ac857e4f800750e1f5b34c07811d8ba63fe81899)
+- [ ] [<code>gui: add minimum height to rows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a67055adb978e6811c58c1f8a9fddfb2e667711)
+- [ ] [<code>gui: use cosmic::widget::settings for layout</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4ce6e2b4fd77d2214e928bceb603c080e1c95d51)
+- [ ] [<code>gui: add none option to optional selects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8a5275e12f7ad8cb1067f9811abbc82e110da393)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
