@@ -4313,6 +4313,24 @@
 - [ ] [<code>SNMP: _juniper-virtualchassis.yaml (#20410)</code>](https://github.com/netdata/netdata.git/commit/f274c885df734cca14698bc98fa6fe8b55b5e738)
 - [ ] [<code>SNMP: juniper-pulse-secure.yaml (#20413)</code>](https://github.com/netdata/netdata.git/commit/66cc9e389305bdcb7a5f1db2b6071bc4f3500b0e)
 - [ ] [<code>SNMP: 3com profiles (#20468)</code>](https://github.com/netdata/netdata.git/commit/5ca07989e779e0fcce7a78d724b636709d3f74d0)
+- [ ] [<code>SNMP: a10 yamls (#20472)</code>](https://github.com/netdata/netdata.git/commit/4530bff9e6469d8116dbde22dd2d1f39ae08ac41)
+- [ ] [<code>SNMP: APC profiles (#20491)</code>](https://github.com/netdata/netdata.git/commit/7e6da3de9d9bd46ece664de7713b0923fa381479)
+- [ ] [<code>SNMP: Alcatel profiles (#20487)</code>](https://github.com/netdata/netdata.git/commit/703f36c0a852c86582630f5f350849a556143c99)
+- [ ] [<code>SNMP: Arista profiles (#20498)</code>](https://github.com/netdata/netdata.git/commit/2950cb797cfc64c24db9ccb1b5e24d946f9f5d52)
+- [ ] [<code>SNMP: second pass of aruba profiles (#20499)</code>](https://github.com/netdata/netdata.git/commit/7b0b17dd8df6fdbbcb8da4ed34663ba41f14d393)
+- [ ] [<code>SNMP: avaya profiles (#20525)</code>](https://github.com/netdata/netdata.git/commit/07475a90ff70aa8bab4fe3d22ea532584ecf79cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>SNMP: audiocodes profile (#20501)</code>](https://github.com/netdata/netdata.git/commit/7c4a87a7e326638b2e9d6788701c7339235d15ef)
+- [ ] [<code>SNMP: avocent profile (#20527)</code>](https://github.com/netdata/netdata.git/commit/2e93fa650f4da93c9d1d6a73b6b16babc90f9179)
+- [ ] [<code>SNMP: brother profile (#20548)</code>](https://github.com/netdata/netdata.git/commit/80de5439bb14834dc2324df2b46ee70adcc1670d)
+- [ ] [<code>SNMP: cradlepoint profile (#20561)</code>](https://github.com/netdata/netdata.git/commit/51e58dd09a0243db8bda678f67a00fb0d50e6b34)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.2.2+incompatible to 28.3.0+incompatible in /src/go (#20595)</code>](https://github.com/netdata/netdata.git/commit/5fada785c4a838e5c079eaf78092497639d92d3d)
+- [ ] [<code>SNMP: avtech Profiles (#20535)</code>](https://github.com/netdata/netdata.git/commit/ef566d957599c3295b508f93c190071ad162fa95)
+- [ ] [<code>SNMP: barracuda Profiles (#20537)</code>](https://github.com/netdata/netdata.git/commit/2c4605362c7c388cfaab1a44df994a7a0d99726a)
+- [ ] [<code>SNMP: brocade profiles (#20546)</code>](https://github.com/netdata/netdata.git/commit/a69a035d956c5fc5f3627434c9cf7e5fddef076e)
+- [ ] [<code>SNMP: checkpoint profiles (#20556)</code>](https://github.com/netdata/netdata.git/commit/e5a65c13d99f08c543200223ceb5fcf5a28fe4cb)
+- [ ] [<code>SNMP: chrysalis profiles (#20557)</code>](https://github.com/netdata/netdata.git/commit/d791fd57c4c71cbc30f0b258d6dba039352acdc1)
+- [ ] [<code>SNMP: Chatsworth profile (#20554)</code>](https://github.com/netdata/netdata.git/commit/41ce4e4a592293f72b1e917f377f3daaaf4b4571)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5851,9 +5869,15 @@
 - [ ] [<code>gui: add minimum height to rows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3a67055adb978e6811c58c1f8a9fddfb2e667711)
 - [ ] [<code>gui: use cosmic::widget::settings for layout</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4ce6e2b4fd77d2214e928bceb603c080e1c95d51)
 - [ ] [<code>gui: add none option to optional selects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8a5275e12f7ad8cb1067f9811abbc82e110da393)
+- [ ] [<code>lib: WIP A30049(Q20I) implementation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a875f809c8700f70015c5eeb840218357ce2fd5)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(gui): replace .map(...).flatten() with flat_map</code>](https://github.com/Oppzippy/OpenSCQ30/commit/95d3fe7170eb5c8f67bf7fa23988c1c1f74d4fc1)
 - [ ] [<code>tools/soundcore-device-faker: add a3004</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7bf41ef32256e7ed02416557d68f4ab9d368fece)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): equalizer configuration for a3004</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f412e8b3f2e1c0f874e0e3da03f0d2357189cfea)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): A3004 (Q20I) support (#166)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c10acbb641b4a9e6f9ea4901c9ef7c0d181eb801)
+- [ ] [<code>style(lib): run cargo fmt</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1c3efc1da8eb32f305ac440de363311e45a7495c)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
