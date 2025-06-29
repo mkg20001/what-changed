@@ -4304,6 +4304,15 @@
 - [ ] [<code>Mcp5 (#20529)</code>](https://github.com/netdata/netdata.git/commit/8da0e7cc91e47b61c3240d7e9c9a0df7a56c4702)
 - [ ] [<code>build(deps): bump github.com/go-viper/mapstructure/v2 from 2.2.1 to 2.3.0 in /src/go/otel-collector/exporter/journaldexporter (#20592)</code>](https://github.com/netdata/netdata.git/commit/7f70a4aca343ba166aea151bcccec5a3d73161e3)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-307-nightly.</code>](https://github.com/netdata/netdata.git/commit/826d60df4287c0e3b2798c456c103f024d8c46c3)
+- [ ] [<code>SNMP: new version of families Cisco pass (#20432)</code>](https://github.com/netdata/netdata.git/commit/afc02b385398d69f8adf4c28d59d9f206bedc89a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>SNMP: palo-alto.yaml (#20391)</code>](https://github.com/netdata/netdata.git/commit/34128727ef334d695d9f4b6c74fc8df012042da4)
+- [ ] [<code>SNMP: aruba-wireless-controller.yaml (#20389)</code>](https://github.com/netdata/netdata.git/commit/e462329dd900b4fd05485e037a3a4f483d338304)
+- [ ] [<code>SNMP: _juniper-cos.yaml (#20402)</code>](https://github.com/netdata/netdata.git/commit/936c48bf3c435502e08f2a908caf8adee50eaf25)
+- [ ] [<code>improve(go.d/snmp-profiles): extend transformEntitySensorValue (#20594)</code>](https://github.com/netdata/netdata.git/commit/dcf507fa7551126262ca652b057eb8ce6b8bbd8b)
+- [ ] [<code>SNMP: _juniper-virtualchassis.yaml (#20410)</code>](https://github.com/netdata/netdata.git/commit/f274c885df734cca14698bc98fa6fe8b55b5e738)
+- [ ] [<code>SNMP: juniper-pulse-secure.yaml (#20413)</code>](https://github.com/netdata/netdata.git/commit/66cc9e389305bdcb7a5f1db2b6071bc4f3500b0e)
+- [ ] [<code>SNMP: 3com profiles (#20468)</code>](https://github.com/netdata/netdata.git/commit/5ca07989e779e0fcce7a78d724b636709d3f74d0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
