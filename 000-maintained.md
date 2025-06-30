@@ -4332,6 +4332,9 @@
 - [ ] [<code>SNMP: chrysalis profiles (#20557)</code>](https://github.com/netdata/netdata.git/commit/d791fd57c4c71cbc30f0b258d6dba039352acdc1)
 - [ ] [<code>SNMP: Chatsworth profile (#20554)</code>](https://github.com/netdata/netdata.git/commit/41ce4e4a592293f72b1e917f377f3daaaf4b4571)
 - [ ] [<code>SNMP: cyberpower-pdu profile (#20575)</code>](https://github.com/netdata/netdata.git/commit/69c8c34389a65a972d53223275f5794a76570426)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-334-nightly.</code>](https://github.com/netdata/netdata.git/commit/1089d6596eac21419f15ee7a15bd12839f98d12b)
+- [ ] [<code>docs: fix 404 link in README.md (#20597)</code>](https://github.com/netdata/netdata.git/commit/a4d541440408281fa52b962542bd60c534f387fd)
+- [ ] [<code>Migrate from stable to nightly and vice versa (#20551)</code>](https://github.com/netdata/netdata.git/commit/d61bb85ec40b45a40879395c1ebd0cc7b3fbaef7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5879,6 +5882,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(lib): A3004 (Q20I) support (#166)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c10acbb641b4a9e6f9ea4901c9ef7c0d181eb801)
 - [ ] [<code>style(lib): run cargo fmt</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1c3efc1da8eb32f305ac440de363311e45a7495c)
+- [ ] [<code>docs: add A3004 and A3959 to supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ff98acfdf203034728bab9637a82b06a88e90922)
+- [ ] [<code>docs: update build instructions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98b7c5dc27100bafc09ec4201caed5ed021c9f9e)
+- [ ] [<code>docs: remove outdated architecture docs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb634611593209dd3f697f588880b65588821f54)
+- [ ] [<code>docs: remove web_sys_unstable_apis from recommended config</code>](https://github.com/Oppzippy/OpenSCQ30/commit/569b55b855a7c21b61f33a92b7ce3acef1b96d4a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
