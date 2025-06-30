@@ -4331,6 +4331,7 @@
 - [ ] [<code>SNMP: checkpoint profiles (#20556)</code>](https://github.com/netdata/netdata.git/commit/e5a65c13d99f08c543200223ceb5fcf5a28fe4cb)
 - [ ] [<code>SNMP: chrysalis profiles (#20557)</code>](https://github.com/netdata/netdata.git/commit/d791fd57c4c71cbc30f0b258d6dba039352acdc1)
 - [ ] [<code>SNMP: Chatsworth profile (#20554)</code>](https://github.com/netdata/netdata.git/commit/41ce4e4a592293f72b1e917f377f3daaaf4b4571)
+- [ ] [<code>SNMP: cyberpower-pdu profile (#20575)</code>](https://github.com/netdata/netdata.git/commit/69c8c34389a65a972d53223275f5794a76570426)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
