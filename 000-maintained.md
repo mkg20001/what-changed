@@ -423,6 +423,9 @@
 - [ ] [<code>incusd/ip: Refactor family from string to `Family` type</code>](https://github.com/lxc/incus/commit/6d6a669eb163fc434ed7b2fb21cbd3b764716a6c)
 - [ ] [<code>incusd/ip: Merge GetLinkInfoByName and LinkFromName into LinkByName</code>](https://github.com/lxc/incus/commit/41bdf5d7ca02017ffa84c662644e4a2c4167d558)
 - [ ] [<code>Use net.IP and net.IPNet instead of strings</code>](https://github.com/lxc/incus/commit/b9fcc873df174a2da65f7777f768b5d2468b6b79)
+- [ ] [<code>incusd/instance/qemu: On standalone systems, cap hotplug memory to system</code>](https://github.com/lxc/incus/commit/577c86e70190c3ecfad307348976893731a8ac0f)
+- [ ] [<code>generate-database: Add create_timestamp and update_timestamp</code>](https://github.com/lxc/incus/commit/385a312540a0ac75a0447bcc238372d659988a73)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3727,6 +3730,9 @@
 - [ ] [<code>incusd/ip: Refactor family from string to `Family` type</code>](https://github.com/lxc/incus/commit/6d6a669eb163fc434ed7b2fb21cbd3b764716a6c)
 - [ ] [<code>incusd/ip: Merge GetLinkInfoByName and LinkFromName into LinkByName</code>](https://github.com/lxc/incus/commit/41bdf5d7ca02017ffa84c662644e4a2c4167d558)
 - [ ] [<code>Use net.IP and net.IPNet instead of strings</code>](https://github.com/lxc/incus/commit/b9fcc873df174a2da65f7777f768b5d2468b6b79)
+- [ ] [<code>incusd/instance/qemu: On standalone systems, cap hotplug memory to system</code>](https://github.com/lxc/incus/commit/577c86e70190c3ecfad307348976893731a8ac0f)
+- [ ] [<code>generate-database: Add create_timestamp and update_timestamp</code>](https://github.com/lxc/incus/commit/385a312540a0ac75a0447bcc238372d659988a73)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4335,6 +4341,14 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-334-nightly.</code>](https://github.com/netdata/netdata.git/commit/1089d6596eac21419f15ee7a15bd12839f98d12b)
 - [ ] [<code>docs: fix 404 link in README.md (#20597)</code>](https://github.com/netdata/netdata.git/commit/a4d541440408281fa52b962542bd60c534f387fd)
 - [ ] [<code>Migrate from stable to nightly and vice versa (#20551)</code>](https://github.com/netdata/netdata.git/commit/d61bb85ec40b45a40879395c1ebd0cc7b3fbaef7)
+- [ ] [<code>update generic snmp profiles (#20599)</code>](https://github.com/netdata/netdata.git/commit/c1910bb45cb6985902e74683fb1b59e0b3e3216e)
+- [ ] [<code>small snmp-related changes (#20603)</code>](https://github.com/netdata/netdata.git/commit/a8aa1dcb6b56f97cd02a9bff48b84ecf79cd5a52)
+- [ ] [<code>improve mikrotik-router snmp profile (#20605)</code>](https://github.com/netdata/netdata.git/commit/32d3b4a9ffcc5a1431f6c9270894adf7061caf24)
+- [ ] [<code>Fix compilation on windows (#20602)</code>](https://github.com/netdata/netdata.git/commit/59311fd54b656a618c3514424530dfe58d74fa4e)
+- [ ] [<code>Ignore duplicate entries when rebuilding the alert version table (#20579)</code>](https://github.com/netdata/netdata.git/commit/1845d8ac7823cacc10fbbfb6b1495a90aeb92be8)
+- [ ] [<code>chore(go.d/snmp): add disable_legacy_collection option (#20606)</code>](https://github.com/netdata/netdata.git/commit/328981529ccad76bbf7f293b420d6a500a8e0022)
+- [ ] [<code>Metadata worker should respect shutdown request (#20598)</code>](https://github.com/netdata/netdata.git/commit/050632f73966ee540abd24678991a217dd1a822b)
+- [ ] [<code>improve netapp snmp profile (#20608)</code>](https://github.com/netdata/netdata.git/commit/c06d55491523749453c001773d1ea98a33c68119)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
