@@ -4349,6 +4349,7 @@
 - [ ] [<code>chore(go.d/snmp): add disable_legacy_collection option (#20606)</code>](https://github.com/netdata/netdata.git/commit/328981529ccad76bbf7f293b420d6a500a8e0022)
 - [ ] [<code>Metadata worker should respect shutdown request (#20598)</code>](https://github.com/netdata/netdata.git/commit/050632f73966ee540abd24678991a217dd1a822b)
 - [ ] [<code>improve netapp snmp profile (#20608)</code>](https://github.com/netdata/netdata.git/commit/c06d55491523749453c001773d1ea98a33c68119)
+- [ ] [<code>update fortinet snmp profiles (#20609)</code>](https://github.com/netdata/netdata.git/commit/315a527f0e5de101a1861c4904b707b24205834d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
