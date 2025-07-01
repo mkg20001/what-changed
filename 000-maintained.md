@@ -426,6 +426,8 @@
 - [ ] [<code>incusd/instance/qemu: On standalone systems, cap hotplug memory to system</code>](https://github.com/lxc/incus/commit/577c86e70190c3ecfad307348976893731a8ac0f)
 - [ ] [<code>generate-database: Add create_timestamp and update_timestamp</code>](https://github.com/lxc/incus/commit/385a312540a0ac75a0447bcc238372d659988a73)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/ip: Ignore ESRCH on route deletion</code>](https://github.com/lxc/incus/commit/e5abe8734de2ceab495110d2df70b972a91a8bc4)
+- [ ] [<code>incusd/ip: All multicast needs to be configured as a flag</code>](https://github.com/lxc/incus/commit/4d17704c490278c02fa6a58d17fa7a2cda0608d9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3733,6 +3735,8 @@
 - [ ] [<code>incusd/instance/qemu: On standalone systems, cap hotplug memory to system</code>](https://github.com/lxc/incus/commit/577c86e70190c3ecfad307348976893731a8ac0f)
 - [ ] [<code>generate-database: Add create_timestamp and update_timestamp</code>](https://github.com/lxc/incus/commit/385a312540a0ac75a0447bcc238372d659988a73)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/ip: Ignore ESRCH on route deletion</code>](https://github.com/lxc/incus/commit/e5abe8734de2ceab495110d2df70b972a91a8bc4)
+- [ ] [<code>incusd/ip: All multicast needs to be configured as a flag</code>](https://github.com/lxc/incus/commit/4d17704c490278c02fa6a58d17fa7a2cda0608d9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4357,6 +4361,11 @@
 - [ ] [<code>Improve datafile indexing (#20607)</code>](https://github.com/netdata/netdata.git/commit/22277cc1b35bd021a61108a71f009345cc7e8951)
 - [ ] [<code>update tripplite snmp profiles (#20613)</code>](https://github.com/netdata/netdata.git/commit/8ac072e08faf8bfe947abb8261b2a68dde5de2e0)
 - [ ] [<code>bump otel-collector components to v0.129.0 (#20615)</code>](https://github.com/netdata/netdata.git/commit/aab9ae5fe48bd4d2d237ca5177fc4e724346ffac)
+- [ ] [<code>transfer Learn PR 2473 (#20600)</code>](https://github.com/netdata/netdata.git/commit/1df7ff60c6705534235b0cfb8f0cf907f781a0fd)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore(go.d/snmp-profiles): move fam desc and unit under chart_meta (#20614)</code>](https://github.com/netdata/netdata.git/commit/d62383f04efbdbbb907ab1ce5b8e6d6a07817379)
+- [ ] [<code>chore(go.d/snmp-profiles): small cleanup (#20618)</code>](https://github.com/netdata/netdata.git/commit/a7bb57f9e6f047681ad91724e56080dedd21b310)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p1 (#20620)</code>](https://github.com/netdata/netdata.git/commit/91e743708d99a79184b2352532d2ffd75fc95893)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
