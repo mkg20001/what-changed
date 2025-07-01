@@ -71,6 +71,11 @@
 - [ ] [<code>libubus: close file descriptor after sending it from a request</code>](https://git.openwrt.org/project/ubus.git/commit/d996988ae55b6af12e4611fdd758a2f0ad27a9a1)
 - [ ] [<code>libubus: add support for using channels</code>](https://git.openwrt.org/project/ubus.git/commit/afa57cce0aff82f4a7a0e509d4387ebc23dd3be7)
 - [ ] [<code>libubus: flush all pending requests on connection loss</code>](https://git.openwrt.org/project/ubus.git/commit/88e6325092bf1d1cfa877cd220670fa7cc2fad03)
+- [ ] [<code>ubusd: make txq_len field signed</code>](https://git.openwrt.org/project/ubus.git/commit/27839f854a58d9dbc85efa1b5cd79f253880c701)
+- [ ] [<code>ubusd: treat EACCES on write like EAGAIN</code>](https://git.openwrt.org/project/ubus.git/commit/b35b2bc63e8e2ca92436fa601c68692242386246)
+- [ ] [<code>ubusd: retry write on EINTR</code>](https://git.openwrt.org/project/ubus.git/commit/713e9d19b2b6ac1ca9720492d80d620bb9b944d5)
+- [ ] [<code>ubusd: fix txq_len accounting</code>](https://git.openwrt.org/project/ubus.git/commit/8bb523ab20e06f686a07c5f82e8f8534d4228b9f)
+- [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
