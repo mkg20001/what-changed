@@ -3784,6 +3784,7 @@
 - [ ] [<code>avifprogressivetest: Use quality instead of quantizer pair</code>](https://github.com/AOMediaCodec/libavif/commit/caaaed326f043692abb24f671723dd90bb308d04)
 - [ ] [<code>Remove a comment on how to reproduce AVM issue 717</code>](https://github.com/AOMediaCodec/libavif/commit/b4462a2952e950e00d7b9d28056baa060490f0c5)
 - [ ] [<code>Remove reader requirement in mini reconstruction (#2839)</code>](https://github.com/AOMediaCodec/libavif/commit/6217442547f172776d25442b512726164634bd25)
+- [ ] [<code>Bump github/codeql-action in the github-actions group (#2841)</code>](https://github.com/AOMediaCodec/libavif/commit/841110fd8723abd0d5439cbb2cfb8e9cfa11f808)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4350,6 +4351,12 @@
 - [ ] [<code>Metadata worker should respect shutdown request (#20598)</code>](https://github.com/netdata/netdata.git/commit/050632f73966ee540abd24678991a217dd1a822b)
 - [ ] [<code>improve netapp snmp profile (#20608)</code>](https://github.com/netdata/netdata.git/commit/c06d55491523749453c001773d1ea98a33c68119)
 - [ ] [<code>update fortinet snmp profiles (#20609)</code>](https://github.com/netdata/netdata.git/commit/315a527f0e5de101a1861c4904b707b24205834d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-346-nightly.</code>](https://github.com/netdata/netdata.git/commit/5f3ecc2257224bab800f7a931d64aff46fbd2526)
+- [ ] [<code>SNMP Mikrotik profile make units in transform ucum (#20611)</code>](https://github.com/netdata/netdata.git/commit/137b6cbe10c51a8c3cdb71eb11e72b321312a771)
+- [ ] [<code>Update sqlite version to 3.50.2 (#20601)</code>](https://github.com/netdata/netdata.git/commit/d17f9b620331e6eabaaedd4b226177125f3827b3)
+- [ ] [<code>Improve datafile indexing (#20607)</code>](https://github.com/netdata/netdata.git/commit/22277cc1b35bd021a61108a71f009345cc7e8951)
+- [ ] [<code>update tripplite snmp profiles (#20613)</code>](https://github.com/netdata/netdata.git/commit/8ac072e08faf8bfe947abb8261b2a68dde5de2e0)
+- [ ] [<code>bump otel-collector components to v0.129.0 (#20615)</code>](https://github.com/netdata/netdata.git/commit/aab9ae5fe48bd4d2d237ca5177fc4e724346ffac)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5901,6 +5908,11 @@
 - [ ] [<code>docs: update build instructions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98b7c5dc27100bafc09ec4201caed5ed021c9f9e)
 - [ ] [<code>docs: remove outdated architecture docs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb634611593209dd3f697f588880b65588821f54)
 - [ ] [<code>docs: remove web_sys_unstable_apis from recommended config</code>](https://github.com/Oppzippy/OpenSCQ30/commit/569b55b855a7c21b61f33a92b7ce3acef1b96d4a)
+- [ ] [<code>fix(cli): mixup between --no-headers and --no-categories</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dec01878cdeb2ab5abf03279c8519391cda73ec7)
+- [ ] [<code>fix(cli): parse --model as DeviceModel rather than String</code>](https://github.com/Oppzippy/OpenSCQ30/commit/01277cdbf824f9e362a7fdc55621dbbc01ef3cb5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): remove unused name argument</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed77e08eb96825c9d95caa463ab50f0b433c51e8)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
