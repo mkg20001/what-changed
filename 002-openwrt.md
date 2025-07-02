@@ -76,6 +76,7 @@
 - [ ] [<code>ubusd: retry write on EINTR</code>](https://git.openwrt.org/project/ubus.git/commit/713e9d19b2b6ac1ca9720492d80d620bb9b944d5)
 - [ ] [<code>ubusd: fix txq_len accounting</code>](https://git.openwrt.org/project/ubus.git/commit/8bb523ab20e06f686a07c5f82e8f8534d4228b9f)
 - [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
+- [ ] [<code>ubusd: do not call socket callback from ubus_msg_send</code>](https://git.openwrt.org/project/ubus.git/commit/5952b48e251c0ea76dfce97f129da6f18d889eda)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
