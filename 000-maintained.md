@@ -4370,6 +4370,7 @@
 - [ ] [<code>chore(go.d/snmp-profiles): move fam desc and unit under chart_meta (#20614)</code>](https://github.com/netdata/netdata.git/commit/d62383f04efbdbbb907ab1ce5b8e6d6a07817379)
 - [ ] [<code>chore(go.d/snmp-profiles): small cleanup (#20618)</code>](https://github.com/netdata/netdata.git/commit/a7bb57f9e6f047681ad91724e56080dedd21b310)
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p1 (#20620)</code>](https://github.com/netdata/netdata.git/commit/91e743708d99a79184b2352532d2ffd75fc95893)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p2 (#20621)</code>](https://github.com/netdata/netdata.git/commit/ec839ee9eb05ccb6058bba4b6ec9e58f5f8e3fe8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
