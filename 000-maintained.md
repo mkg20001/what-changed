@@ -428,6 +428,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/ip: Ignore ESRCH on route deletion</code>](https://github.com/lxc/incus/commit/e5abe8734de2ceab495110d2df70b972a91a8bc4)
 - [ ] [<code>incusd/ip: All multicast needs to be configured as a flag</code>](https://github.com/lxc/incus/commit/4d17704c490278c02fa6a58d17fa7a2cda0608d9)
+- [ ] [<code>incusd/patches: Fix empty JSON columns</code>](https://github.com/lxc/incus/commit/ea2edebc7a6ba76e7f5858d29f1730d3d9537c89)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3737,6 +3739,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/ip: Ignore ESRCH on route deletion</code>](https://github.com/lxc/incus/commit/e5abe8734de2ceab495110d2df70b972a91a8bc4)
 - [ ] [<code>incusd/ip: All multicast needs to be configured as a flag</code>](https://github.com/lxc/incus/commit/4d17704c490278c02fa6a58d17fa7a2cda0608d9)
+- [ ] [<code>incusd/patches: Fix empty JSON columns</code>](https://github.com/lxc/incus/commit/ea2edebc7a6ba76e7f5858d29f1730d3d9537c89)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
