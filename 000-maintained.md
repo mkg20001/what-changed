@@ -430,6 +430,7 @@
 - [ ] [<code>incusd/ip: All multicast needs to be configured as a flag</code>](https://github.com/lxc/incus/commit/4d17704c490278c02fa6a58d17fa7a2cda0608d9)
 - [ ] [<code>incusd/patches: Fix empty JSON columns</code>](https://github.com/lxc/incus/commit/ea2edebc7a6ba76e7f5858d29f1730d3d9537c89)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Fix memory calculation logic</code>](https://github.com/lxc/incus/commit/60c8f084a7cb9e38b5003fc056538f6631609cb8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3741,6 +3742,7 @@
 - [ ] [<code>incusd/ip: All multicast needs to be configured as a flag</code>](https://github.com/lxc/incus/commit/4d17704c490278c02fa6a58d17fa7a2cda0608d9)
 - [ ] [<code>incusd/patches: Fix empty JSON columns</code>](https://github.com/lxc/incus/commit/ea2edebc7a6ba76e7f5858d29f1730d3d9537c89)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Fix memory calculation logic</code>](https://github.com/lxc/incus/commit/60c8f084a7cb9e38b5003fc056538f6631609cb8)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4371,6 +4373,9 @@
 - [ ] [<code>chore(go.d/snmp-profiles): small cleanup (#20618)</code>](https://github.com/netdata/netdata.git/commit/a7bb57f9e6f047681ad91724e56080dedd21b310)
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p1 (#20620)</code>](https://github.com/netdata/netdata.git/commit/91e743708d99a79184b2352532d2ffd75fc95893)
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p2 (#20621)</code>](https://github.com/netdata/netdata.git/commit/ec839ee9eb05ccb6058bba4b6ec9e58f5f8e3fe8)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p3 (#20622)</code>](https://github.com/netdata/netdata.git/commit/18f2227e73284c4c15ccb3b7d8153aa309f8700a)
+- [ ] [<code>Fix coverity issues (#20612)</code>](https://github.com/netdata/netdata.git/commit/d18bae8c8ff604ac6f43ef271c76e3b7d73adddc)
+- [ ] [<code>Improve journal v2 file creation on startup  (#20619)</code>](https://github.com/netdata/netdata.git/commit/0f8a7788235f4f6ce8234e331113e09d9e7dd9e1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
