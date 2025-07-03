@@ -288,6 +288,7 @@
 - [ ] [<code>build: Follow up enable google services patch</code>](https://github.com/krille-chan/fluffychat/commit/4bbaa9c5a0c8e44ed9e7c965235881db4e4c8f94)
 - [ ] [<code>fix: Config viewer not updating state</code>](https://github.com/krille-chan/fluffychat/commit/1991707be725f946ff5801455be52dff5939408f)
 - [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
+- [ ] [<code>build: Update to flutter 3.32.5</code>](https://github.com/krille-chan/fluffychat/commit/02c8db1c9f28532235ccd5d58702bbabedf7eb76)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
 
@@ -373,6 +374,7 @@
 - [ ] [<code>build: Follow up enable google services patch</code>](https://github.com/krille-chan/fluffychat/commit/4bbaa9c5a0c8e44ed9e7c965235881db4e4c8f94)
 - [ ] [<code>fix: Config viewer not updating state</code>](https://github.com/krille-chan/fluffychat/commit/1991707be725f946ff5801455be52dff5939408f)
 - [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
+- [ ] [<code>build: Update to flutter 3.32.5</code>](https://github.com/krille-chan/fluffychat/commit/02c8db1c9f28532235ccd5d58702bbabedf7eb76)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4377,6 +4379,7 @@
 - [ ] [<code>Fix coverity issues (#20612)</code>](https://github.com/netdata/netdata.git/commit/d18bae8c8ff604ac6f43ef271c76e3b7d73adddc)
 - [ ] [<code>Improve journal v2 file creation on startup  (#20619)</code>](https://github.com/netdata/netdata.git/commit/0f8a7788235f4f6ce8234e331113e09d9e7dd9e1)
 - [ ] [<code>Improve packet ID generation (#20624)</code>](https://github.com/netdata/netdata.git/commit/be699981de7eede5cca392743c84f8270c5afbad)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-361-nightly.</code>](https://github.com/netdata/netdata.git/commit/9c31e2cb85274744463ea840bcc52cab2a37820c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
