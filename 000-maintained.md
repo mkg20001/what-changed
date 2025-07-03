@@ -4380,6 +4380,12 @@
 - [ ] [<code>Improve journal v2 file creation on startup  (#20619)</code>](https://github.com/netdata/netdata.git/commit/0f8a7788235f4f6ce8234e331113e09d9e7dd9e1)
 - [ ] [<code>Improve packet ID generation (#20624)</code>](https://github.com/netdata/netdata.git/commit/be699981de7eede5cca392743c84f8270c5afbad)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-361-nightly.</code>](https://github.com/netdata/netdata.git/commit/9c31e2cb85274744463ea840bcc52cab2a37820c)
+- [ ] [<code>At a glance (#20627)</code>](https://github.com/netdata/netdata.git/commit/b0e44b629704de6b1e68c41c65eec74c5a545a75)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix syntax error on learn doc (#20628)</code>](https://github.com/netdata/netdata.git/commit/4dbe7ab9ef53c3a62ba9d409a3e0e34e19dcb3fc)
+- [ ] [<code>Nidl Framework Documentation (#20629)</code>](https://github.com/netdata/netdata.git/commit/a3605ed34b85dcc696c4711053ac3247d0bb1c8f)
+- [ ] [<code>[WIP] Move NIDL-Framework.md to docs/ directory (#20630)</code>](https://github.com/netdata/netdata.git/commit/519593224051e882067dd7da0d2c2968923a8c3b)
+- [ ] [<code>move NIDL to docs (#20632)</code>](https://github.com/netdata/netdata.git/commit/5372b87ffa2a605068580067548313e4f6a6185f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
