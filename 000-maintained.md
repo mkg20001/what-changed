@@ -4376,6 +4376,7 @@
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p3 (#20622)</code>](https://github.com/netdata/netdata.git/commit/18f2227e73284c4c15ccb3b7d8153aa309f8700a)
 - [ ] [<code>Fix coverity issues (#20612)</code>](https://github.com/netdata/netdata.git/commit/d18bae8c8ff604ac6f43ef271c76e3b7d73adddc)
 - [ ] [<code>Improve journal v2 file creation on startup  (#20619)</code>](https://github.com/netdata/netdata.git/commit/0f8a7788235f4f6ce8234e331113e09d9e7dd9e1)
+- [ ] [<code>Improve packet ID generation (#20624)</code>](https://github.com/netdata/netdata.git/commit/be699981de7eede5cca392743c84f8270c5afbad)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
