@@ -72,6 +72,7 @@
 - [ ] [<code>Update the MAINTAINERS instructions</code>](https://github.com/stepchowfun/docuum/commit/0f9968e4fe828519dc7194d0769aae4e6e349494)
 - [ ] [<code>Add `permissions` to the `publish-release` CI job</code>](https://github.com/stepchowfun/docuum/commit/1117bf7d9c1222b83db49e8b5a695273f686e178)
 - [ ] [<code>Update Rust to v1.87.0</code>](https://github.com/stepchowfun/docuum/commit/7d0e6a7764db7753f9d3bad8d39ae6bdf49079a5)
+- [ ] [<code>Switch from unmaintained parse_duration to humantime.parse_duration</code>](https://github.com/stepchowfun/docuum/commit/b759a6385c18c869a7966262c572cb22f148d0af)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -204,67 +205,8 @@
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
 
-#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
+#### [fluffychat](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
-- [ ] [<code>refactor: sdk 1.0</code>](https://github.com/krille-chan/fluffychat/commit/e548d8f895d7568fbb05aa35368d5593a23fddc2)
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>chore: Add missing mounted check</code>](https://github.com/krille-chan/fluffychat/commit/ed1767ae93ef0c209b2b6d030bd8e595a7768c0f)
-- [ ] [<code>chore: Remove olm from index.html</code>](https://github.com/krille-chan/fluffychat/commit/bb5374a0eba3ab6593e0ef0139f776e586ad867d)
-- [ ] [<code>build: add rust to build packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/47a37ccc7a50637fa4d39c842d7df81760ee6836)
-- [ ] [<code>build: Upgrade flutter to 3.32.2</code>](https://github.com/krille-chan/fluffychat/commit/c9927477bc9dfe2d4d15958638d089121927f783)
-- [ ] [<code>build: Remove olm from snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/40a7dde0592fda6528d0bedd05014c185874223c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>build: Update linux build and copy web pkg</code>](https://github.com/krille-chan/fluffychat/commit/a37b0946f23bd1274524fcb83a7663c4521676fb)
-- [ ] [<code>build: Follow up vodozemac web integration and clean up old scripts</code>](https://github.com/krille-chan/fluffychat/commit/2476e82c8e8d3b6e0654e954a5d5db56bf6b4b55)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/72f0b821a7423387a3f24f0d2e18cf6a8e55c624)
-- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/92735062f74d3902b7d9ea82d31ac589d17c0555)
-- [ ] [<code>build: Follow up pkg wasm</code>](https://github.com/krille-chan/fluffychat/commit/fe409481d6bd040e9b69b7e26dfe73d9e1cc1452)
-- [ ] [<code>build: Follow up vodozemac web prepare</code>](https://github.com/krille-chan/fluffychat/commit/11a45b281fd21813643ab96b4ac79eff8766ca86)
-- [ ] [<code>build: Follow up remove gitignore before deploying</code>](https://github.com/krille-chan/fluffychat/commit/00c0492574566cd25395a9daab4ce47c4bddb8ae)
-- [ ] [<code>build: Follow up vodozemac snap</code>](https://github.com/krille-chan/fluffychat/commit/04839a5b60531847c53927d7c6e4e901d3047376)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>build: Switch to matrix sdk 1.0.0</code>](https://github.com/krille-chan/fluffychat/commit/2ba5b1170d0be424dc9e251302d87700bd399e6b)
-- [ ] [<code>refactor: Follow up handle logout and login with new client</code>](https://github.com/krille-chan/fluffychat/commit/2616ba6e4b918ccd8c41d5a59ec0fe309b5ae68b)
-- [ ] [<code>build: Add changelog for 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/0edd4e320dff4153e166c822da91cbea361c61d9)
-- [ ] [<code>Merge pull request #1946 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/2a7901eb76afa4fb242e3e48517e79cc537128fb)
-  - <sub>Tags: <code>rc2.0.0-1</code></sub>
-- [ ] [<code>build: Update Matrix dart sdk 1.0.1</code>](https://github.com/krille-chan/fluffychat/commit/0eecd0a66984015e46adf9b54231da49dab1961d)
-- [ ] [<code>refactor: New message context menu</code>](https://github.com/krille-chan/fluffychat/commit/033feed6b1fc06ab272a6b61c74d42689dd34f42)
-- [ ] [<code>refactor: Nicer popupmenus</code>](https://github.com/krille-chan/fluffychat/commit/37d313c27116840d59866b541876e5a248f534a7)
-- [ ] [<code>fix: fix compile error related to MxcImage</code>](https://github.com/krille-chan/fluffychat/commit/e1ec87d3aaae00eb030bcfda28ec8f247e2c3346)
-- [ ] [<code>chore: Follow up new reactions picker</code>](https://github.com/krille-chan/fluffychat/commit/13f27eda9f04dc79b408cd2d6ee042a66b3b86dc)
-- [ ] [<code>chore: highlight select mode actions</code>](https://github.com/krille-chan/fluffychat/commit/0a10d4fb7dd2e2d7ad0bba3aea6c95a4aa893932)
-- [ ] [<code>chore: improve message selection UX</code>](https://github.com/krille-chan/fluffychat/commit/e55adbd65c2a78aec662b14c3697b346ecefd2f1)
-- [ ] [<code>chore: Make max timeline width smaller</code>](https://github.com/krille-chan/fluffychat/commit/767379507747d6cd7f0313a7dbb35aaa95ff0c54)
-- [ ] [<code>build: Update to flutter 3.32.4</code>](https://github.com/krille-chan/fluffychat/commit/aa4a575c5c099100767a095cf2c431adbed18b79)
-- [ ] [<code>chore: Follow up custom reactions dialog</code>](https://github.com/krille-chan/fluffychat/commit/816b753efb8acab32de7f32f85564ac6ab9c52d3)
-- [ ] [<code>fix: Do not set read markers for sending events</code>](https://github.com/krille-chan/fluffychat/commit/ad8c0b266d418d201749d409aeb77af754abee58)
-- [ ] [<code>fix: Forward last version of events when forwarding</code>](https://github.com/krille-chan/fluffychat/commit/46dc017e15a357ceb16a490f39d3b781d98cda47)
-- [ ] [<code>chore: Follow up popupmenu theme</code>](https://github.com/krille-chan/fluffychat/commit/48ec98c614cc8dceae1c5628cdceac1cec29d8cc)
-- [ ] [<code>chore: New save file event button</code>](https://github.com/krille-chan/fluffychat/commit/5b726d58b69e7a8ac02485498066fd13bfa6b9a0)
-  - <sub>Tags: <code>rc2.0.0-2</code></sub>
-- [ ] [<code>build: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/c90355a2cf414b8ae77fedfe9d7e2ebc874dea95)
-- [ ] [<code>build: Workaround for ruby 3.4</code>](https://github.com/krille-chan/fluffychat/commit/ad99fea494783df6318d6189e5c77aa2b35c50e1)
-- [ ] [<code>chore: Follow up emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/ba61e3c1644d2c9bc1149ab6c14577fea12287e0)
-- [ ] [<code>chore: Make connection problem color orange</code>](https://github.com/krille-chan/fluffychat/commit/959d75fb9d05802b38e9b26919420ff70a1db2a5)
-- [ ] [<code>chore: Follow up reactions picker</code>](https://github.com/krille-chan/fluffychat/commit/f82d26eed1f03f0004d2425cbfb06f121525ad6f)
-  - <sub>Tags: <code>rc2.0.0-3</code></sub>
-- [ ] [<code>fix: Ban button displayed for already banned users</code>](https://github.com/krille-chan/fluffychat/commit/29a2dc83c03d1cefa5ebb26ae9ae2a88a8688381)
-- [ ] [<code>fix: Route back to room list after leaving a chat</code>](https://github.com/krille-chan/fluffychat/commit/7d798c57704cc38a39df3cd21be17d8ae52230b3)
-- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/0b3cc1260a225a77e83f30ec688007ee421f2d2e)
-  - <sub>Tags: <code>rc2.0.0-4</code></sub>
-- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
-- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
-- [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
-- [ ] [<code>fix: Multiple problems with SSO</code>](https://github.com/krille-chan/fluffychat/commit/94013fb2c6150031eff078308f6ccb40a1cc4686)
-  - <sub>Tags: <code>rc2.0.0-5</code></sub>
-- [ ] [<code>build: Add rust toolchain to release web</code>](https://github.com/krille-chan/fluffychat/commit/c7cf12287d061a2e294e025391f8addbfbcc4c3c)
-  - <sub>Tags: <code>rc2.0.0-6</code></sub>
-- [ ] [<code>build: Update dockerfile to build vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/15987cac468931d59a92387ad935893fdd8b61fd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>build: Remove broken snapcraft job from release</code>](https://github.com/krille-chan/fluffychat/commit/88cf02a5404d14052aa806bf6f38db050fffbb1b)
-  - <sub>Tags: <code>rc2.0.0-7</code> <code>v2.0.0</code></sub>
 - [ ] [<code>build: Do not delete vodozemac on web release</code>](https://github.com/krille-chan/fluffychat/commit/95172aed8fcae1bbc73f47bdda81c63fb9f2054b)
 - [ ] [<code>fix: open chat from notification</code>](https://github.com/krille-chan/fluffychat/commit/e41537271ff17d1f62a6abb33f5deb46172aac44)
 - [ ] [<code>fix: notification clicked still cannot jump</code>](https://github.com/krille-chan/fluffychat/commit/4802277dca7ba288cd5a0a450d7144054945d013)
@@ -290,67 +232,8 @@
 - [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
 - [ ] [<code>build: Update to flutter 3.32.5</code>](https://github.com/krille-chan/fluffychat/commit/02c8db1c9f28532235ccd5d58702bbabedf7eb76)
 
-#### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v1.27.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v1.27.0...HEAD)
+#### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
-- [ ] [<code>refactor: sdk 1.0</code>](https://github.com/krille-chan/fluffychat/commit/e548d8f895d7568fbb05aa35368d5593a23fddc2)
-  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
-- [ ] [<code>chore: Add missing mounted check</code>](https://github.com/krille-chan/fluffychat/commit/ed1767ae93ef0c209b2b6d030bd8e595a7768c0f)
-- [ ] [<code>chore: Remove olm from index.html</code>](https://github.com/krille-chan/fluffychat/commit/bb5374a0eba3ab6593e0ef0139f776e586ad867d)
-- [ ] [<code>build: add rust to build packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/47a37ccc7a50637fa4d39c842d7df81760ee6836)
-- [ ] [<code>build: Upgrade flutter to 3.32.2</code>](https://github.com/krille-chan/fluffychat/commit/c9927477bc9dfe2d4d15958638d089121927f783)
-- [ ] [<code>build: Remove olm from snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/40a7dde0592fda6528d0bedd05014c185874223c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>build: Update linux build and copy web pkg</code>](https://github.com/krille-chan/fluffychat/commit/a37b0946f23bd1274524fcb83a7663c4521676fb)
-- [ ] [<code>build: Follow up vodozemac web integration and clean up old scripts</code>](https://github.com/krille-chan/fluffychat/commit/2476e82c8e8d3b6e0654e954a5d5db56bf6b4b55)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/72f0b821a7423387a3f24f0d2e18cf6a8e55c624)
-- [ ] [<code>build: Follow up vodozemac web</code>](https://github.com/krille-chan/fluffychat/commit/92735062f74d3902b7d9ea82d31ac589d17c0555)
-- [ ] [<code>build: Follow up pkg wasm</code>](https://github.com/krille-chan/fluffychat/commit/fe409481d6bd040e9b69b7e26dfe73d9e1cc1452)
-- [ ] [<code>build: Follow up vodozemac web prepare</code>](https://github.com/krille-chan/fluffychat/commit/11a45b281fd21813643ab96b4ac79eff8766ca86)
-- [ ] [<code>build: Follow up remove gitignore before deploying</code>](https://github.com/krille-chan/fluffychat/commit/00c0492574566cd25395a9daab4ce47c4bddb8ae)
-- [ ] [<code>build: Follow up vodozemac snap</code>](https://github.com/krille-chan/fluffychat/commit/04839a5b60531847c53927d7c6e4e901d3047376)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>build: Switch to matrix sdk 1.0.0</code>](https://github.com/krille-chan/fluffychat/commit/2ba5b1170d0be424dc9e251302d87700bd399e6b)
-- [ ] [<code>refactor: Follow up handle logout and login with new client</code>](https://github.com/krille-chan/fluffychat/commit/2616ba6e4b918ccd8c41d5a59ec0fe309b5ae68b)
-- [ ] [<code>build: Add changelog for 2.0.0</code>](https://github.com/krille-chan/fluffychat/commit/0edd4e320dff4153e166c822da91cbea361c61d9)
-- [ ] [<code>Merge pull request #1946 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/2a7901eb76afa4fb242e3e48517e79cc537128fb)
-  - <sub>Tags: <code>rc2.0.0-1</code></sub>
-- [ ] [<code>build: Update Matrix dart sdk 1.0.1</code>](https://github.com/krille-chan/fluffychat/commit/0eecd0a66984015e46adf9b54231da49dab1961d)
-- [ ] [<code>refactor: New message context menu</code>](https://github.com/krille-chan/fluffychat/commit/033feed6b1fc06ab272a6b61c74d42689dd34f42)
-- [ ] [<code>refactor: Nicer popupmenus</code>](https://github.com/krille-chan/fluffychat/commit/37d313c27116840d59866b541876e5a248f534a7)
-- [ ] [<code>fix: fix compile error related to MxcImage</code>](https://github.com/krille-chan/fluffychat/commit/e1ec87d3aaae00eb030bcfda28ec8f247e2c3346)
-- [ ] [<code>chore: Follow up new reactions picker</code>](https://github.com/krille-chan/fluffychat/commit/13f27eda9f04dc79b408cd2d6ee042a66b3b86dc)
-- [ ] [<code>chore: highlight select mode actions</code>](https://github.com/krille-chan/fluffychat/commit/0a10d4fb7dd2e2d7ad0bba3aea6c95a4aa893932)
-- [ ] [<code>chore: improve message selection UX</code>](https://github.com/krille-chan/fluffychat/commit/e55adbd65c2a78aec662b14c3697b346ecefd2f1)
-- [ ] [<code>chore: Make max timeline width smaller</code>](https://github.com/krille-chan/fluffychat/commit/767379507747d6cd7f0313a7dbb35aaa95ff0c54)
-- [ ] [<code>build: Update to flutter 3.32.4</code>](https://github.com/krille-chan/fluffychat/commit/aa4a575c5c099100767a095cf2c431adbed18b79)
-- [ ] [<code>chore: Follow up custom reactions dialog</code>](https://github.com/krille-chan/fluffychat/commit/816b753efb8acab32de7f32f85564ac6ab9c52d3)
-- [ ] [<code>fix: Do not set read markers for sending events</code>](https://github.com/krille-chan/fluffychat/commit/ad8c0b266d418d201749d409aeb77af754abee58)
-- [ ] [<code>fix: Forward last version of events when forwarding</code>](https://github.com/krille-chan/fluffychat/commit/46dc017e15a357ceb16a490f39d3b781d98cda47)
-- [ ] [<code>chore: Follow up popupmenu theme</code>](https://github.com/krille-chan/fluffychat/commit/48ec98c614cc8dceae1c5628cdceac1cec29d8cc)
-- [ ] [<code>chore: New save file event button</code>](https://github.com/krille-chan/fluffychat/commit/5b726d58b69e7a8ac02485498066fd13bfa6b9a0)
-  - <sub>Tags: <code>rc2.0.0-2</code></sub>
-- [ ] [<code>build: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/c90355a2cf414b8ae77fedfe9d7e2ebc874dea95)
-- [ ] [<code>build: Workaround for ruby 3.4</code>](https://github.com/krille-chan/fluffychat/commit/ad99fea494783df6318d6189e5c77aa2b35c50e1)
-- [ ] [<code>chore: Follow up emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/ba61e3c1644d2c9bc1149ab6c14577fea12287e0)
-- [ ] [<code>chore: Make connection problem color orange</code>](https://github.com/krille-chan/fluffychat/commit/959d75fb9d05802b38e9b26919420ff70a1db2a5)
-- [ ] [<code>chore: Follow up reactions picker</code>](https://github.com/krille-chan/fluffychat/commit/f82d26eed1f03f0004d2425cbfb06f121525ad6f)
-  - <sub>Tags: <code>rc2.0.0-3</code></sub>
-- [ ] [<code>fix: Ban button displayed for already banned users</code>](https://github.com/krille-chan/fluffychat/commit/29a2dc83c03d1cefa5ebb26ae9ae2a88a8688381)
-- [ ] [<code>fix: Route back to room list after leaving a chat</code>](https://github.com/krille-chan/fluffychat/commit/7d798c57704cc38a39df3cd21be17d8ae52230b3)
-- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/0b3cc1260a225a77e83f30ec688007ee421f2d2e)
-  - <sub>Tags: <code>rc2.0.0-4</code></sub>
-- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/4cef05cf97c00719e9dee0341aa5107880205794)
-- [ ] [<code>chore: Update screenshots</code>](https://github.com/krille-chan/fluffychat/commit/becb1dec85e714494d3444cbc92b9444f4ceb46b)
-- [ ] [<code>chore: Update website screenshots</code>](https://github.com/krille-chan/fluffychat/commit/ed30991e5697f2fdfb876030ba19cc86ed6783ca)
-- [ ] [<code>fix: Multiple problems with SSO</code>](https://github.com/krille-chan/fluffychat/commit/94013fb2c6150031eff078308f6ccb40a1cc4686)
-  - <sub>Tags: <code>rc2.0.0-5</code></sub>
-- [ ] [<code>build: Add rust toolchain to release web</code>](https://github.com/krille-chan/fluffychat/commit/c7cf12287d061a2e294e025391f8addbfbcc4c3c)
-  - <sub>Tags: <code>rc2.0.0-6</code></sub>
-- [ ] [<code>build: Update dockerfile to build vodozemac</code>](https://github.com/krille-chan/fluffychat/commit/15987cac468931d59a92387ad935893fdd8b61fd)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>build: Remove broken snapcraft job from release</code>](https://github.com/krille-chan/fluffychat/commit/88cf02a5404d14052aa806bf6f38db050fffbb1b)
-  - <sub>Tags: <code>rc2.0.0-7</code> <code>v2.0.0</code></sub>
 - [ ] [<code>build: Do not delete vodozemac on web release</code>](https://github.com/krille-chan/fluffychat/commit/95172aed8fcae1bbc73f47bdda81c63fb9f2054b)
 - [ ] [<code>fix: open chat from notification</code>](https://github.com/krille-chan/fluffychat/commit/e41537271ff17d1f62a6abb33f5deb46172aac44)
 - [ ] [<code>fix: notification clicked still cannot jump</code>](https://github.com/krille-chan/fluffychat/commit/4802277dca7ba288cd5a0a450d7144054945d013)
@@ -4388,6 +4271,10 @@
 - [ ] [<code>Nidl Framework Documentation (#20629)</code>](https://github.com/netdata/netdata.git/commit/a3605ed34b85dcc696c4711053ac3247d0bb1c8f)
 - [ ] [<code>[WIP] Move NIDL-Framework.md to docs/ directory (#20630)</code>](https://github.com/netdata/netdata.git/commit/519593224051e882067dd7da0d2c2968923a8c3b)
 - [ ] [<code>move NIDL to docs (#20632)</code>](https://github.com/netdata/netdata.git/commit/5372b87ffa2a605068580067548313e4f6a6185f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-367-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a99c1857dbc91b37438b5effa5e5cb65d48e4db)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.3.0+incompatible to 28.3.1+incompatible in /src/go (#20633)</code>](https://github.com/netdata/netdata.git/commit/af26ec6e4c96d8b765ca53113345d23ba3740e3e)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p4 (#20623)</code>](https://github.com/netdata/netdata.git/commit/872d0d1229e569627de652875a9f0a63306da70b)
+- [ ] [<code>Update NIDL-Framework.md (#20634)</code>](https://github.com/netdata/netdata.git/commit/8423185e9d1e08eab6f15978bb16b2e1a002a8ad)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5943,6 +5830,13 @@
 - [ ] [<code>fix(cli): parse --model as DeviceModel rather than String</code>](https://github.com/Oppzippy/OpenSCQ30/commit/01277cdbf824f9e362a7fdc55621dbbc01ef3cb5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(cli): remove unused name argument</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed77e08eb96825c9d95caa463ab50f0b433c51e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): output as tsv when not outputting to a terminal</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8743c4a54ce9dd5ae1d300ebb3d971f25d8a535d)
+- [ ] [<code>fix(lib): create parent directories of database file</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d04e1e9ce4a7d255949fe93e2eea1498cfc590e0)
+- [ ] [<code>feat(cli): add demo mode support</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d18a69c4aaa5076178675968390ce126e5fe1fdf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): fix some clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0ee7881e99b328b7101e570e54dc92df3c836b53)
+- [ ] [<code>test(cli): add e2e snapshot tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/36d067567158fa1017aef5886cf3269c2284a6f8)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
