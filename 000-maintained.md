@@ -433,6 +433,7 @@
 - [ ] [<code>incusd/patches: Fix empty JSON columns</code>](https://github.com/lxc/incus/commit/ea2edebc7a6ba76e7f5858d29f1730d3d9537c89)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Fix memory calculation logic</code>](https://github.com/lxc/incus/commit/60c8f084a7cb9e38b5003fc056538f6631609cb8)
+- [ ] [<code>shared/idmap: Skip ACLs that are out of range</code>](https://github.com/lxc/incus/commit/89e0df8124689b67173633eba4b3672591f08861)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3745,6 +3746,7 @@
 - [ ] [<code>incusd/patches: Fix empty JSON columns</code>](https://github.com/lxc/incus/commit/ea2edebc7a6ba76e7f5858d29f1730d3d9537c89)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Fix memory calculation logic</code>](https://github.com/lxc/incus/commit/60c8f084a7cb9e38b5003fc056538f6631609cb8)
+- [ ] [<code>shared/idmap: Skip ACLs that are out of range</code>](https://github.com/lxc/incus/commit/89e0df8124689b67173633eba4b3672591f08861)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
