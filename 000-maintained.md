@@ -317,6 +317,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Fix memory calculation logic</code>](https://github.com/lxc/incus/commit/60c8f084a7cb9e38b5003fc056538f6631609cb8)
 - [ ] [<code>shared/idmap: Skip ACLs that are out of range</code>](https://github.com/lxc/incus/commit/89e0df8124689b67173633eba4b3672591f08861)
+- [ ] [<code>incusd/device/nic_ovn: Fix bad check</code>](https://github.com/lxc/incus/commit/5f8dbacde9ee89eeb44a0d67a55732acd96722d4)
+- [ ] [<code>incusd/ip: Fix TC regressions</code>](https://github.com/lxc/incus/commit/18c6daef429b7fa0ef61031d5554435b30c810d3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3630,6 +3632,8 @@
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Fix memory calculation logic</code>](https://github.com/lxc/incus/commit/60c8f084a7cb9e38b5003fc056538f6631609cb8)
 - [ ] [<code>shared/idmap: Skip ACLs that are out of range</code>](https://github.com/lxc/incus/commit/89e0df8124689b67173633eba4b3672591f08861)
+- [ ] [<code>incusd/device/nic_ovn: Fix bad check</code>](https://github.com/lxc/incus/commit/5f8dbacde9ee89eeb44a0d67a55732acd96722d4)
+- [ ] [<code>incusd/ip: Fix TC regressions</code>](https://github.com/lxc/incus/commit/18c6daef429b7fa0ef61031d5554435b30c810d3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
