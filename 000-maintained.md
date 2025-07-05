@@ -4280,6 +4280,7 @@
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p4 (#20623)</code>](https://github.com/netdata/netdata.git/commit/872d0d1229e569627de652875a9f0a63306da70b)
 - [ ] [<code>Update NIDL-Framework.md (#20634)</code>](https://github.com/netdata/netdata.git/commit/8423185e9d1e08eab6f15978bb16b2e1a002a8ad)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-371-nightly.</code>](https://github.com/netdata/netdata.git/commit/55daf44ee2d5ce18a21550fae2551e2143dddc8b)
+- [ ] [<code>refactor(go.d/iprange): migrate from net to net/netip (#20636)</code>](https://github.com/netdata/netdata.git/commit/a032a85e2c88ab2bab82ea46ba3cb88ea04cfc70)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
