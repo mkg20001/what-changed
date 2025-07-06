@@ -73,6 +73,13 @@
 - [ ] [<code>Add `permissions` to the `publish-release` CI job</code>](https://github.com/stepchowfun/docuum/commit/1117bf7d9c1222b83db49e8b5a695273f686e178)
 - [ ] [<code>Update Rust to v1.87.0</code>](https://github.com/stepchowfun/docuum/commit/7d0e6a7764db7753f9d3bad8d39ae6bdf49079a5)
 - [ ] [<code>Switch from unmaintained parse_duration to humantime.parse_duration</code>](https://github.com/stepchowfun/docuum/commit/b759a6385c18c869a7966262c572cb22f148d0af)
+- [ ] [<code>install.sh: Attempt to restore SELinux attributes</code>](https://github.com/stepchowfun/docuum/commit/6822fcdfa4b5d765c45492d5974eef0bfe898a35)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Ensure `restorecon` succeeds if attempted</code>](https://github.com/stepchowfun/docuum/commit/6d79de7847be35e81c1e737a73369ef711437dca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix some output redirection in the installation script</code>](https://github.com/stepchowfun/docuum/commit/77c57616438095b028ef7d20905a5425035eddfb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update Rust to v1.88.0</code>](https://github.com/stepchowfun/docuum/commit/06d54a799faa10c5541de8ab46be3b66d6077aaf)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -319,6 +326,9 @@
 - [ ] [<code>shared/idmap: Skip ACLs that are out of range</code>](https://github.com/lxc/incus/commit/89e0df8124689b67173633eba4b3672591f08861)
 - [ ] [<code>incusd/device/nic_ovn: Fix bad check</code>](https://github.com/lxc/incus/commit/5f8dbacde9ee89eeb44a0d67a55732acd96722d4)
 - [ ] [<code>incusd/ip: Fix TC regressions</code>](https://github.com/lxc/incus/commit/18c6daef429b7fa0ef61031d5554435b30c810d3)
+- [ ] [<code>incusd/device/nic_ovn: Allow specifying static IPv4/IPv6 when DHCP is disabled</code>](https://github.com/lxc/incus/commit/ea28fcc78f178fb8be209ae1df63d0bbaed802a7)
+- [ ] [<code>incusd/storage/lvm: Don't rely on udev paths</code>](https://github.com/lxc/incus/commit/f592e0714cbc88eac352803fe677a4b692d03484)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3634,6 +3644,9 @@
 - [ ] [<code>shared/idmap: Skip ACLs that are out of range</code>](https://github.com/lxc/incus/commit/89e0df8124689b67173633eba4b3672591f08861)
 - [ ] [<code>incusd/device/nic_ovn: Fix bad check</code>](https://github.com/lxc/incus/commit/5f8dbacde9ee89eeb44a0d67a55732acd96722d4)
 - [ ] [<code>incusd/ip: Fix TC regressions</code>](https://github.com/lxc/incus/commit/18c6daef429b7fa0ef61031d5554435b30c810d3)
+- [ ] [<code>incusd/device/nic_ovn: Allow specifying static IPv4/IPv6 when DHCP is disabled</code>](https://github.com/lxc/incus/commit/ea28fcc78f178fb8be209ae1df63d0bbaed802a7)
+- [ ] [<code>incusd/storage/lvm: Don't rely on udev paths</code>](https://github.com/lxc/incus/commit/f592e0714cbc88eac352803fe677a4b692d03484)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4281,6 +4294,8 @@
 - [ ] [<code>Update NIDL-Framework.md (#20634)</code>](https://github.com/netdata/netdata.git/commit/8423185e9d1e08eab6f15978bb16b2e1a002a8ad)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-371-nightly.</code>](https://github.com/netdata/netdata.git/commit/55daf44ee2d5ce18a21550fae2551e2143dddc8b)
 - [ ] [<code>refactor(go.d/iprange): migrate from net to net/netip (#20636)</code>](https://github.com/netdata/netdata.git/commit/a032a85e2c88ab2bab82ea46ba3cb88ea04cfc70)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-373-nightly.</code>](https://github.com/netdata/netdata.git/commit/11a6f603e332f90e581a0d0fe2e9f9ef6ea906b1)
+- [ ] [<code>MCP in Netdata Operations Diagram (#20637)</code>](https://github.com/netdata/netdata.git/commit/86d8e29833dcc193c9ca4341d169e77444714bed)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
