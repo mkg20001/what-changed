@@ -4296,6 +4296,7 @@
 - [ ] [<code>refactor(go.d/iprange): migrate from net to net/netip (#20636)</code>](https://github.com/netdata/netdata.git/commit/a032a85e2c88ab2bab82ea46ba3cb88ea04cfc70)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-373-nightly.</code>](https://github.com/netdata/netdata.git/commit/11a6f603e332f90e581a0d0fe2e9f9ef6ea906b1)
 - [ ] [<code>MCP in Netdata Operations Diagram (#20637)</code>](https://github.com/netdata/netdata.git/commit/86d8e29833dcc193c9ca4341d169e77444714bed)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-375-nightly.</code>](https://github.com/netdata/netdata.git/commit/d2917e0fab8c00cf134a4a96b8a537e9ee016751)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
