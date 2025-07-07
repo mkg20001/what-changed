@@ -329,6 +329,7 @@
 - [ ] [<code>incusd/device/nic_ovn: Allow specifying static IPv4/IPv6 when DHCP is disabled</code>](https://github.com/lxc/incus/commit/ea28fcc78f178fb8be209ae1df63d0bbaed802a7)
 - [ ] [<code>incusd/storage/lvm: Don't rely on udev paths</code>](https://github.com/lxc/incus/commit/f592e0714cbc88eac352803fe677a4b692d03484)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cmd/incus_agent: Replace gorilla/mux with http.ServeMux</code>](https://github.com/lxc/incus/commit/0c5d8f90cc966aaeea2671401c16b30d2ffc4422)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3647,6 +3648,7 @@
 - [ ] [<code>incusd/device/nic_ovn: Allow specifying static IPv4/IPv6 when DHCP is disabled</code>](https://github.com/lxc/incus/commit/ea28fcc78f178fb8be209ae1df63d0bbaed802a7)
 - [ ] [<code>incusd/storage/lvm: Don't rely on udev paths</code>](https://github.com/lxc/incus/commit/f592e0714cbc88eac352803fe677a4b692d03484)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>cmd/incus_agent: Replace gorilla/mux with http.ServeMux</code>](https://github.com/lxc/incus/commit/0c5d8f90cc966aaeea2671401c16b30d2ffc4422)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4297,6 +4299,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-373-nightly.</code>](https://github.com/netdata/netdata.git/commit/11a6f603e332f90e581a0d0fe2e9f9ef6ea906b1)
 - [ ] [<code>MCP in Netdata Operations Diagram (#20637)</code>](https://github.com/netdata/netdata.git/commit/86d8e29833dcc193c9ca4341d169e77444714bed)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-375-nightly.</code>](https://github.com/netdata/netdata.git/commit/d2917e0fab8c00cf134a4a96b8a537e9ee016751)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p5 (#20635)</code>](https://github.com/netdata/netdata.git/commit/e7547bc79f236d60242f5195042f7d3f6ca94082)
+- [ ] [<code>Improve ACLK connection handling (#20625)</code>](https://github.com/netdata/netdata.git/commit/4ee1eb54af8cbd8c96a2125ef28f01bc5f8d8313)
+- [ ] [<code>Rework datafiles (#20581)</code>](https://github.com/netdata/netdata.git/commit/a2e24cd939ff34b172b292859606382d179d0d48)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5013,6 +5018,10 @@
 - [ ] [<code>generate: Don't run during `netplan try`</code>](https://github.com/canonical/netplan/commit/f9e35f66938695581098e91030be1ec71c36b865)
 - [ ] [<code>cli: Fix logging merged config</code>](https://github.com/canonical/netplan/commit/a3081d506e3c502dd387a61ed059583de9fd9656)
 - [ ] [<code>cli:configmanager: rename _copy_tree() to copy_tree()</code>](https://github.com/canonical/netplan/commit/84302d7606d02812b6f4aae26c93cd23a20fef4b)
+- [ ] [<code>CI: adopt to autopkgtest 5.47~24.04.1</code>](https://github.com/canonical/netplan/commit/0f2e445dec6649c8a4ef7a7a0a86053ce7d01617)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>CI: keep Fedora RPM compatible with /usr/sbin like RHEL and Ubuntu/Debian</code>](https://github.com/canonical/netplan/commit/aa8f4d311662948738cd6c4a86f1fdc0b23fa7cb)
+  - <sub>Keywords: <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
