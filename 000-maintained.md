@@ -4304,6 +4304,13 @@
 - [ ] [<code>Improve ACLK connection handling (#20625)</code>](https://github.com/netdata/netdata.git/commit/4ee1eb54af8cbd8c96a2125ef28f01bc5f8d8313)
 - [ ] [<code>Rework datafiles (#20581)</code>](https://github.com/netdata/netdata.git/commit/a2e24cd939ff34b172b292859606382d179d0d48)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-379-nightly.</code>](https://github.com/netdata/netdata.git/commit/4e7eb08caa9fad609465c0d6297d43781896c776)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p6 (#20640)</code>](https://github.com/netdata/netdata.git/commit/f16dab0cd21b42e3dbe8e7d65308479ead144e57)
+- [ ] [<code>Add Screen to Windows installer (#20593)</code>](https://github.com/netdata/netdata.git/commit/39d0d382ab28dd9e4f5929fc06e6e7d103f41ecc)
+- [ ] [<code>Additional checks for ACLK proxy setting (#20639)</code>](https://github.com/netdata/netdata.git/commit/10b3af3b8d35825c09a2ce83713dd8e1628b6674)
+- [ ] [<code>Update Cloud OIDC Authorization Server setup docs (#20643)</code>](https://github.com/netdata/netdata.git/commit/991061023647a6b5ca4cf5b388bf14089f1e3741)
+- [ ] [<code>Regenerate integrations docs (#20644)</code>](https://github.com/netdata/netdata.git/commit/1bef496c02e9611dcd046c74119af7c86716974e)
+- [ ] [<code>SNMP Profiles pass ep1 (#20641)</code>](https://github.com/netdata/netdata.git/commit/f764ea7a0373755042c3e30c187a65a2ecc2f822)
+- [ ] [<code>chore(go.d/snmp-profiles): fix quotes (#20645)</code>](https://github.com/netdata/netdata.git/commit/3704d284d389584db7940e210c06ff29faafb2d0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
