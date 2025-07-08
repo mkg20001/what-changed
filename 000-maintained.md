@@ -40,6 +40,7 @@
 - [ ] [<code>sources/docker: Port to skopeo+umoci</code>](https://github.com/lxc/distrobuilder/commit/5fcd59e6835c459dc5292e31462682f9ec646faf)
 - [ ] [<code>Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/1baf69d4fa95d2a69a7804cced69a70c0c901a33)
 - [ ] [<code>incus: Support compression=none for VMs</code>](https://github.com/lxc/distrobuilder/commit/2a646ab61c196b5daefbaa9d3847d224cd2ebda0)
+- [ ] [<code>windows: Add 2k25 to supported list</code>](https://github.com/lxc/distrobuilder/commit/818231cf9f46036d46875d5f5a4a4bef4d8ad180)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
