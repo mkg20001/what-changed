@@ -4303,6 +4303,7 @@
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p5 (#20635)</code>](https://github.com/netdata/netdata.git/commit/e7547bc79f236d60242f5195042f7d3f6ca94082)
 - [ ] [<code>Improve ACLK connection handling (#20625)</code>](https://github.com/netdata/netdata.git/commit/4ee1eb54af8cbd8c96a2125ef28f01bc5f8d8313)
 - [ ] [<code>Rework datafiles (#20581)</code>](https://github.com/netdata/netdata.git/commit/a2e24cd939ff34b172b292859606382d179d0d48)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-379-nightly.</code>](https://github.com/netdata/netdata.git/commit/4e7eb08caa9fad609465c0d6297d43781896c776)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
