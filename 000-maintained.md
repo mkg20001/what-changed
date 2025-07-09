@@ -331,6 +331,7 @@
 - [ ] [<code>incusd/storage/lvm: Don't rely on udev paths</code>](https://github.com/lxc/incus/commit/f592e0714cbc88eac352803fe677a4b692d03484)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cmd/incus_agent: Replace gorilla/mux with http.ServeMux</code>](https://github.com/lxc/incus/commit/0c5d8f90cc966aaeea2671401c16b30d2ffc4422)
+- [ ] [<code>client: Fixed non-constant format string in call to fmt.Errorf</code>](https://github.com/lxc/incus/commit/81803ecdb9115ff90a84235a95cc5fe7d3d1e9a9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3650,6 +3651,7 @@
 - [ ] [<code>incusd/storage/lvm: Don't rely on udev paths</code>](https://github.com/lxc/incus/commit/f592e0714cbc88eac352803fe677a4b692d03484)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cmd/incus_agent: Replace gorilla/mux with http.ServeMux</code>](https://github.com/lxc/incus/commit/0c5d8f90cc966aaeea2671401c16b30d2ffc4422)
+- [ ] [<code>client: Fixed non-constant format string in call to fmt.Errorf</code>](https://github.com/lxc/incus/commit/81803ecdb9115ff90a84235a95cc5fe7d3d1e9a9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4311,6 +4313,7 @@
 - [ ] [<code>Regenerate integrations docs (#20644)</code>](https://github.com/netdata/netdata.git/commit/1bef496c02e9611dcd046c74119af7c86716974e)
 - [ ] [<code>SNMP Profiles pass ep1 (#20641)</code>](https://github.com/netdata/netdata.git/commit/f764ea7a0373755042c3e30c187a65a2ecc2f822)
 - [ ] [<code>chore(go.d/snmp-profiles): fix quotes (#20645)</code>](https://github.com/netdata/netdata.git/commit/3704d284d389584db7940e210c06ff29faafb2d0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-387-nightly.</code>](https://github.com/netdata/netdata.git/commit/35a4586304a8fb5bbc3bd45be44dc18b72ed2e12)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5037,7 +5040,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.29.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.29.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.33.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.33.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
