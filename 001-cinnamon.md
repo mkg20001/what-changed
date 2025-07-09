@@ -10,6 +10,8 @@
 - [ ] [<code>debian/control: Remove unnecessary python3-magic dependency.</code>](https://github.com/linuxmint/bulky/commit/37f91c7192979ea0b8f698aa6a5291f214a69494)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Use auto resource management for license file (#71)</code>](https://github.com/linuxmint/bulky/commit/82abaa5fd3584b8cd790d48757ef695d646997d7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix MRU settings (#75)</code>](https://github.com/linuxmint/bulky/commit/1d1f2bb9d0fc0bbee5c30b6138fbc5a9077d3ccf)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -254,13 +256,15 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
 - [ ] [<code>nemo-view.c: fix crash after some shortcuts (#3525)</code>](https://github.com/linuxmint/nemo/commit/a98a467b360ec1d6fa8fa9cbe738cbf4a3172ea7)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>search: Remove unused search history code.</code>](https://github.com/linuxmint/nemo/commit/5e96d6910436fc358a3aae5940f1b1c2a0b56982)
 - [ ] [<code>search: Allow regular expression filename matching, improve editor.</code>](https://github.com/linuxmint/nemo/commit/bfdeba323a63fe3e217b22ca6f4580c785fbe92a)
 - [ ] [<code>nemo-file-management-properties.glade: Add translation comments for</code>](https://github.com/linuxmint/nemo/commit/99c76441c910993f99f227d7d45d1fea2233de3e)
 - [ ] [<code>list-view: Don't show folder expanders by default.</code>](https://github.com/linuxmint/nemo/commit/802dff9011fbb73ea48002f0cd4d5bb0304e43e1)
 - [ ] [<code>nemo-list-view.c: Ignore expander size for click position</code>](https://github.com/linuxmint/nemo/commit/709835d271480e19c63755f086e24c334fb8f750)
 - [ ] [<code>nemo-window.c: Remember the second pane's location until the</code>](https://github.com/linuxmint/nemo/commit/2b70af14eb956abb8027f9648c6c35ceca1be7b2)
+- [ ] [<code>nemo-query-editor.c: Don't use new glib function.</code>](https://github.com/linuxmint/nemo/commit/42c61527e970f759dac6e5b147710da38c1ff017)
+- [ ] [<code>Add Matcha to Supported Theme Hints (#3573)</code>](https://github.com/linuxmint/nemo/commit/94d59757a30d10a16fcdc2f255e4695226d739a4)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
