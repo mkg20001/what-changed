@@ -332,6 +332,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cmd/incus_agent: Replace gorilla/mux with http.ServeMux</code>](https://github.com/lxc/incus/commit/0c5d8f90cc966aaeea2671401c16b30d2ffc4422)
 - [ ] [<code>client: Fixed non-constant format string in call to fmt.Errorf</code>](https://github.com/lxc/incus/commit/81803ecdb9115ff90a84235a95cc5fe7d3d1e9a9)
+- [ ] [<code>incusd/instance/qmp/log: Don't crash on log Write calls after Close</code>](https://github.com/lxc/incus/commit/0b016773fc575fa04e536e5faba5cb88b2da63a8)
+- [ ] [<code>incusd: Cluster join, ensure server address</code>](https://github.com/lxc/incus/commit/56b99168450becf8f57687151c6557f333aa7aa8)
+- [ ] [<code>incusd: Cluster join, check cluster.https_address</code>](https://github.com/lxc/incus/commit/6da4fe3dd02baf4078052aadda807df7a442b144)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3652,6 +3655,9 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cmd/incus_agent: Replace gorilla/mux with http.ServeMux</code>](https://github.com/lxc/incus/commit/0c5d8f90cc966aaeea2671401c16b30d2ffc4422)
 - [ ] [<code>client: Fixed non-constant format string in call to fmt.Errorf</code>](https://github.com/lxc/incus/commit/81803ecdb9115ff90a84235a95cc5fe7d3d1e9a9)
+- [ ] [<code>incusd/instance/qmp/log: Don't crash on log Write calls after Close</code>](https://github.com/lxc/incus/commit/0b016773fc575fa04e536e5faba5cb88b2da63a8)
+- [ ] [<code>incusd: Cluster join, ensure server address</code>](https://github.com/lxc/incus/commit/56b99168450becf8f57687151c6557f333aa7aa8)
+- [ ] [<code>incusd: Cluster join, check cluster.https_address</code>](https://github.com/lxc/incus/commit/6da4fe3dd02baf4078052aadda807df7a442b144)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4314,6 +4320,7 @@
 - [ ] [<code>SNMP Profiles pass ep1 (#20641)</code>](https://github.com/netdata/netdata.git/commit/f764ea7a0373755042c3e30c187a65a2ecc2f822)
 - [ ] [<code>chore(go.d/snmp-profiles): fix quotes (#20645)</code>](https://github.com/netdata/netdata.git/commit/3704d284d389584db7940e210c06ff29faafb2d0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-387-nightly.</code>](https://github.com/netdata/netdata.git/commit/35a4586304a8fb5bbc3bd45be44dc18b72ed2e12)
+- [ ] [<code>SNMP profiles pass ep2 (#20647)</code>](https://github.com/netdata/netdata.git/commit/a84bb84bc4186a59ba2aa3856ea04787825e9cce)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
