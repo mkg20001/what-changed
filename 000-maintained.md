@@ -335,6 +335,8 @@
 - [ ] [<code>incusd/instance/qmp/log: Don't crash on log Write calls after Close</code>](https://github.com/lxc/incus/commit/0b016773fc575fa04e536e5faba5cb88b2da63a8)
 - [ ] [<code>incusd: Cluster join, ensure server address</code>](https://github.com/lxc/incus/commit/56b99168450becf8f57687151c6557f333aa7aa8)
 - [ ] [<code>incusd: Cluster join, check cluster.https_address</code>](https://github.com/lxc/incus/commit/6da4fe3dd02baf4078052aadda807df7a442b144)
+- [ ] [<code>incusd: Centralize check for node specific network config</code>](https://github.com/lxc/incus/commit/31b0b9f00783006414c59052e52096f37ac98a65)
+- [ ] [<code>incusd: Make network config keys node specific</code>](https://github.com/lxc/incus/commit/5f6f2f9c9b6db1c2cee19f2be57d730c8a01df9c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3658,6 +3660,8 @@
 - [ ] [<code>incusd/instance/qmp/log: Don't crash on log Write calls after Close</code>](https://github.com/lxc/incus/commit/0b016773fc575fa04e536e5faba5cb88b2da63a8)
 - [ ] [<code>incusd: Cluster join, ensure server address</code>](https://github.com/lxc/incus/commit/56b99168450becf8f57687151c6557f333aa7aa8)
 - [ ] [<code>incusd: Cluster join, check cluster.https_address</code>](https://github.com/lxc/incus/commit/6da4fe3dd02baf4078052aadda807df7a442b144)
+- [ ] [<code>incusd: Centralize check for node specific network config</code>](https://github.com/lxc/incus/commit/31b0b9f00783006414c59052e52096f37ac98a65)
+- [ ] [<code>incusd: Make network config keys node specific</code>](https://github.com/lxc/incus/commit/5f6f2f9c9b6db1c2cee19f2be57d730c8a01df9c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4322,6 +4326,10 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-387-nightly.</code>](https://github.com/netdata/netdata.git/commit/35a4586304a8fb5bbc3bd45be44dc18b72ed2e12)
 - [ ] [<code>SNMP profiles pass ep2 (#20647)</code>](https://github.com/netdata/netdata.git/commit/a84bb84bc4186a59ba2aa3856ea04787825e9cce)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-389-nightly.</code>](https://github.com/netdata/netdata.git/commit/7122c1d7740d33318532f1cbb079d5aee5e20f37)
+- [ ] [<code>sophos (#20648)</code>](https://github.com/netdata/netdata.git/commit/513b41c5f7a03daf51727b35876c7a8d394d2b2b)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.3.1+incompatible to 28.3.2+incompatible in /src/go (#20650)</code>](https://github.com/netdata/netdata.git/commit/186642a92fea615fb01207fd2457d0afcd87ead7)
+- [ ] [<code>build(deps): bump golang.org/x/text from 0.26.0 to 0.27.0 in /src/go (#20651)</code>](https://github.com/netdata/netdata.git/commit/6d0c4387d5ede02608a274f34ed2887ccc770a63)
+- [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.66 to 1.1.67 in /src/go (#20649)</code>](https://github.com/netdata/netdata.git/commit/2a399044d5c527f2dc74d3077634daac29393307)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5969,6 +5977,9 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix #707, add Japanese/Tamil translations</code>](https://github.com/axcore/tartube/commit/3356dfc25ff61a10ca81ff72659bf6d2445e8fbd)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update to v2.5.145</code>](https://github.com/axcore/tartube/commit/6cfd242e064cfe4e1c300069b2280c482104a42a)
+  - <sub>Tags: <code>v2.5.145</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
