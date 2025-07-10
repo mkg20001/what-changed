@@ -73,7 +73,6 @@
 - [ ] [<code>cs_themes.py: Fix minor regression in module from 769a754001ff4c</code>](https://github.com/linuxmint/cinnamon/commit/8debf0a4a73ee51bb30fb2236a1fd44c50ba2c99)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Ensure Cinnamon is part of the (#12887)</code>](https://github.com/linuxmint/cinnamon/commit/a5c98a271250b13a0333fd347a14356c4d0d6d67)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 - [ ] [<code>cinnamon-slideshow.py: Stop using python dbus.</code>](https://github.com/linuxmint/cinnamon/commit/15b57237ea2ed40f547df7def57ac3f10d568b5a)
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
@@ -108,6 +107,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add 'wallpaper' keyword to backgrounds.deskop kewords. (#12944)</code>](https://github.com/linuxmint/cinnamon/commit/67dbc6c98f2d004c2efaa0aab4d3df5eecf28c40)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Fix include names for mutter->muffin.</code>](https://github.com/linuxmint/cinnamon/commit/1d1fd593030f69ea0edeab4916834766a21e82a2)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -252,10 +253,9 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>window.c: update saved_rect to target monitor work area on tiling (#714)</code>](https://github.com/linuxmint/muffin/commit/051b8d20e8f958c85af83a79f5883446749c2709)
 - [ ] [<code>disable assert for gi scanner (#720)</code>](https://github.com/linuxmint/muffin/commit/9bac60b775230a8656dc0b1584d334f2063b32ce)
-  - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>use non-deprecated g_spawn_check_wait_status (#721)</code>](https://github.com/linuxmint/muffin/commit/4e4f74ca29004350a5b79661894fad073a2e0b6c)
 - [ ] [<code>Replace any references to mutter with muffin (#726)</code>](https://github.com/linuxmint/muffin/commit/4ad9aae66debf377e897514eaaa5045dfcb132e0)
-  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
