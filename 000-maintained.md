@@ -4321,6 +4321,7 @@
 - [ ] [<code>chore(go.d/snmp-profiles): fix quotes (#20645)</code>](https://github.com/netdata/netdata.git/commit/3704d284d389584db7940e210c06ff29faafb2d0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-387-nightly.</code>](https://github.com/netdata/netdata.git/commit/35a4586304a8fb5bbc3bd45be44dc18b72ed2e12)
 - [ ] [<code>SNMP profiles pass ep2 (#20647)</code>](https://github.com/netdata/netdata.git/commit/a84bb84bc4186a59ba2aa3856ea04787825e9cce)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-389-nightly.</code>](https://github.com/netdata/netdata.git/commit/7122c1d7740d33318532f1cbb079d5aee5e20f37)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
