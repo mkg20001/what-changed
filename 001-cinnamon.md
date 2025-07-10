@@ -106,6 +106,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Handle typed user input into the night light module (manual schedule) (#12826)</code>](https://github.com/linuxmint/cinnamon/commit/5438bd7a692f5ed90ed5daafc11601aa9305a71e)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add 'wallpaper' keyword to backgrounds.deskop kewords. (#12944)</code>](https://github.com/linuxmint/cinnamon/commit/67dbc6c98f2d004c2efaa0aab4d3df5eecf28c40)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -236,6 +238,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Icon request: Elk (#483)</code>](https://github.com/linuxmint/mint-y-icons/commit/d78580611313aacecff3b1a860d6fb7ddb4a05b6)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Signal icon (#493)</code>](https://github.com/linuxmint/mint-y-icons/commit/aea40e8ebe30ae98080e1a8f544e57a9659fdc83)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update Battle.net icon and add its symbolic link for Wine (#486)</code>](https://github.com/linuxmint/mint-y-icons/commit/fdd34fc4c65e20de6146ecfc79a8a4856bbf8273)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -313,6 +319,8 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.1 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.1...HEAD)
 
 - [ ] [<code>settings.c: Fix ACCENT_COLOR_DEF.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/326aadd4972d62a3ebccb93ad5c028977ce4ac95)
+- [ ] [<code>debian/control: Restore 'systemd' as an alternate location for</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/17d7b0a5faf25839303227de1ba6b8c9adac3bbb)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.2.6 → HEAD](https://github.com/linuxmint/xreader/compare/4.2.6...HEAD)
 
