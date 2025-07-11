@@ -4330,6 +4330,9 @@
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.3.1+incompatible to 28.3.2+incompatible in /src/go (#20650)</code>](https://github.com/netdata/netdata.git/commit/186642a92fea615fb01207fd2457d0afcd87ead7)
 - [ ] [<code>build(deps): bump golang.org/x/text from 0.26.0 to 0.27.0 in /src/go (#20651)</code>](https://github.com/netdata/netdata.git/commit/6d0c4387d5ede02608a274f34ed2887ccc770a63)
 - [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.66 to 1.1.67 in /src/go (#20649)</code>](https://github.com/netdata/netdata.git/commit/2a399044d5c527f2dc74d3077634daac29393307)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-394-nightly.</code>](https://github.com/netdata/netdata.git/commit/398302419112dc1f2b4d1310d4f956668c07f915)
+- [ ] [<code>Fix documentation regarding header_match (#20652)</code>](https://github.com/netdata/netdata.git/commit/8cabe95111b7cb62335ae4efc44e7f80834f182d)
+- [ ] [<code>Regenerate integrations docs (#20655)</code>](https://github.com/netdata/netdata.git/commit/0e59a9068d679389a5a36654c9c4f3c20b911dc6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6001,6 +6004,9 @@
 - [ ] [<code>compiler, vm: rework optional chaining and function call semantics</code>](https://github.com/jow-/ucode/commit/a616feed39ebb4e52c83f611b0404648db0a514b)
 - [ ] [<code>vm: adjust JMPNT opcode behavior</code>](https://github.com/jow-/ucode/commit/0946a4fb20b8a5863e7301a55f5a54588b913273)
 - [ ] [<code>compiler: improve assignment lhs expression checks</code>](https://github.com/jow-/ucode/commit/6f8291f7375763e8e68df0f581ea2b8ee5c2c4e6)
+- [ ] [<code>vm: properly handle modulo by zero</code>](https://github.com/jow-/ucode/commit/cf846c4a11d4e0eb2e317e82001404c954f82eb2)
+- [ ] [<code>resolv: add documentation and fix clobbering ns strings</code>](https://github.com/jow-/ucode/commit/4d81e6c13506599261208786cfe4ee068f346dcd)
+- [ ] [<code>debian/changelog: v0.0.20250529</code>](https://github.com/jow-/ucode/commit/20ee2dabd243e892a356e8c57487c12d3bb2c11e)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
