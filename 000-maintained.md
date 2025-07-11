@@ -19,6 +19,11 @@
 - [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
 - [ ] [<code>src/lib/serialize.h: don't define double as float_t</code>](https://github.com/cowsql/cowsql/commit/c0d7c99632ea2ee01066988708cbb41f335cbdc3)
 - [ ] [<code>src/lib/serialize.h: don't define double as float_t (#37)</code>](https://github.com/cowsql/cowsql/commit/cb624d3263ca22b42ecfa8a1dd8a0c8d990db7b6)
+- [ ] [<code>Release v1.15.9</code>](https://github.com/cowsql/cowsql/commit/83b1d3ad3ff901d4b09c7fa8515f8d400fe67ba5)
+  - <sub>Files: <code>configure.ac</code></sub>
+- [ ] [<code>Release v1.15.9 (#38)</code>](https://github.com/cowsql/cowsql/commit/783815b901470e27b7dfbcce3a67c888dad19e78)
+  - <sub>Tags: <code>v1.15.9</code></sub>
+  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.1/dbeaver-ce-25.1.1-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.1/dbeaver-ce-25.1.1-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -206,9 +211,14 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test: add test for snapd recovery key service</code>](https://github.com/canonical/firmware-updater/commit/0bbe82056e89b6ebfc97c8a2bb15d240d763d2e0)
 - [ ] [<code>feat: prompt for recovery key before updating device affected by FDE (#348)</code>](https://github.com/canonical/firmware-updater/commit/57b44d416cf94eb04d5bee3e454c2c403eb1421d)
+- [ ] [<code>Bump Flutter to 3.32.1 and Yaru to 8</code>](https://github.com/canonical/firmware-updater/commit/646f1b18a364cecd079c557e4ce36888b713ea9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate localizations</code>](https://github.com/canonical/firmware-updater/commit/fa72d4f6ebacd163c0729576a2d6c39c694f8342)
+- [ ] [<code>Regenerate mocks</code>](https://github.com/canonical/firmware-updater/commit/ed285b8db879911b191ce642af3423d36a6479bf)
 - [ ] [<code>feat: add config service</code>](https://github.com/canonical/firmware-updater/commit/87a7495fc03fba6ba03d5554c8a39a9a0a6b9a57)
 - [ ] [<code>feat: show recovery key dialog for test device when configured</code>](https://github.com/canonical/firmware-updater/commit/9732033c1383bd76f2794ec830891f60a5602a4a)
 - [ ] [<code>feat: add config option to test FDE dialog with fwupd test device (#353)</code>](https://github.com/canonical/firmware-updater/commit/5e5d075d8cf73772e036382c6130a7f3f8b7e262)
+- [ ] [<code>chore(deps): Bump Flutter to 3.32.1 and Yaru to 8 (#351)</code>](https://github.com/canonical/firmware-updater/commit/f19b8d52e61ec434bc10dbfaca1d540fe3ebb1d1)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -337,6 +347,8 @@
 - [ ] [<code>incusd: Cluster join, check cluster.https_address</code>](https://github.com/lxc/incus/commit/6da4fe3dd02baf4078052aadda807df7a442b144)
 - [ ] [<code>incusd: Centralize check for node specific network config</code>](https://github.com/lxc/incus/commit/31b0b9f00783006414c59052e52096f37ac98a65)
 - [ ] [<code>incusd: Make network config keys node specific</code>](https://github.com/lxc/incus/commit/5f6f2f9c9b6db1c2cee19f2be57d730c8a01df9c)
+- [ ] [<code>incusd/ip: All multicast needs to be configured after link creation</code>](https://github.com/lxc/incus/commit/00caeca496e74aab116c62e460c26894c367e815)
+- [ ] [<code>doc: Pin a working version of the sphinx extensions</code>](https://github.com/lxc/incus/commit/dcaf6e581b560fe468297994212d6344f96201ac)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3662,6 +3674,8 @@
 - [ ] [<code>incusd: Cluster join, check cluster.https_address</code>](https://github.com/lxc/incus/commit/6da4fe3dd02baf4078052aadda807df7a442b144)
 - [ ] [<code>incusd: Centralize check for node specific network config</code>](https://github.com/lxc/incus/commit/31b0b9f00783006414c59052e52096f37ac98a65)
 - [ ] [<code>incusd: Make network config keys node specific</code>](https://github.com/lxc/incus/commit/5f6f2f9c9b6db1c2cee19f2be57d730c8a01df9c)
+- [ ] [<code>incusd/ip: All multicast needs to be configured after link creation</code>](https://github.com/lxc/incus/commit/00caeca496e74aab116c62e460c26894c367e815)
+- [ ] [<code>doc: Pin a working version of the sphinx extensions</code>](https://github.com/lxc/incus/commit/dcaf6e581b560fe468297994212d6344f96201ac)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4333,6 +4347,15 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-394-nightly.</code>](https://github.com/netdata/netdata.git/commit/398302419112dc1f2b4d1310d4f956668c07f915)
 - [ ] [<code>Fix documentation regarding header_match (#20652)</code>](https://github.com/netdata/netdata.git/commit/8cabe95111b7cb62335ae4efc44e7f80834f182d)
 - [ ] [<code>Regenerate integrations docs (#20655)</code>](https://github.com/netdata/netdata.git/commit/0e59a9068d679389a5a36654c9c4f3c20b911dc6)
+- [ ] [<code>ASP.NET (windows.plugin) (#20485)</code>](https://github.com/netdata/netdata.git/commit/3258c1a4328cdf452c87af6cda821f4adbbe3d9d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p7 (#20646)</code>](https://github.com/netdata/netdata.git/commit/b525e68d5999ce7044efed2a55b3720247562cf7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Stop submitting analytics (#20654)</code>](https://github.com/netdata/netdata.git/commit/c546a70f075e55e3185ead7ea17962f0aee0e6a0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix coverity issues (#20656)</code>](https://github.com/netdata/netdata.git/commit/d6a4507ecec1d3c3156813fccded5de20dfd60c2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve job completion handling with timeout mechanism (#20657)</code>](https://github.com/netdata/netdata.git/commit/5001ae1388f2b322883dd010d5ec7add817bd24b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5900,6 +5923,10 @@
 - [ ] [<code>refactor(lib): fix some clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0ee7881e99b328b7101e570e54dc92df3c836b53)
 - [ ] [<code>test(cli): add e2e snapshot tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/36d067567158fa1017aef5886cf3269c2284a6f8)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add equalizer profile exporting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/073d44bc9fe7e474eedc0add164c466e8b4cc32f)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f095f86213a829995ff7d7aea047180ef3611d13)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(cli): update snapshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d756614e17ce2ae2455f8bea671da6d6c67f9705)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6007,6 +6034,8 @@
 - [ ] [<code>vm: properly handle modulo by zero</code>](https://github.com/jow-/ucode/commit/cf846c4a11d4e0eb2e317e82001404c954f82eb2)
 - [ ] [<code>resolv: add documentation and fix clobbering ns strings</code>](https://github.com/jow-/ucode/commit/4d81e6c13506599261208786cfe4ee068f346dcd)
 - [ ] [<code>debian/changelog: v0.0.20250529</code>](https://github.com/jow-/ucode/commit/20ee2dabd243e892a356e8c57487c12d3bb2c11e)
+- [ ] [<code>ubus: add support for automatically subscribing to objects</code>](https://github.com/jow-/ucode/commit/50d303c8309d71cd1103f2b31431c7cdc4d6e39b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
