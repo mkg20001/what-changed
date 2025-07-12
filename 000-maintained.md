@@ -249,6 +249,11 @@
 - [ ] [<code>fix: Config viewer not updating state</code>](https://github.com/krille-chan/fluffychat/commit/1991707be725f946ff5801455be52dff5939408f)
 - [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
 - [ ] [<code>build: Update to flutter 3.32.5</code>](https://github.com/krille-chan/fluffychat/commit/02c8db1c9f28532235ccd5d58702bbabedf7eb76)
+- [ ] [<code>build: Use gradle in kotlin</code>](https://github.com/krille-chan/fluffychat/commit/4afd9684c9cdd131ffa0a88603e3ae6975a6f8d6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>build: Fix wrong android namespace</code>](https://github.com/krille-chan/fluffychat/commit/f2cf771d5924b133168e2d4456e56cdbd00c485f)
+- [ ] [<code>build: Update release ios script</code>](https://github.com/krille-chan/fluffychat/commit/4a9efddf15508eb20c2bdb293b17b67e30b6a939)
+- [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
@@ -276,6 +281,11 @@
 - [ ] [<code>fix: Config viewer not updating state</code>](https://github.com/krille-chan/fluffychat/commit/1991707be725f946ff5801455be52dff5939408f)
 - [ ] [<code>chore: Set text message max length to 16384 but make it configurable</code>](https://github.com/krille-chan/fluffychat/commit/87a2449f41e6285e8b95e52247b3b6538ce6437a)
 - [ ] [<code>build: Update to flutter 3.32.5</code>](https://github.com/krille-chan/fluffychat/commit/02c8db1c9f28532235ccd5d58702bbabedf7eb76)
+- [ ] [<code>build: Use gradle in kotlin</code>](https://github.com/krille-chan/fluffychat/commit/4afd9684c9cdd131ffa0a88603e3ae6975a6f8d6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>build: Fix wrong android namespace</code>](https://github.com/krille-chan/fluffychat/commit/f2cf771d5924b133168e2d4456e56cdbd00c485f)
+- [ ] [<code>build: Update release ios script</code>](https://github.com/krille-chan/fluffychat/commit/4a9efddf15508eb20c2bdb293b17b67e30b6a939)
+- [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4356,6 +4366,7 @@
 - [ ] [<code>Fix coverity issues (#20656)</code>](https://github.com/netdata/netdata.git/commit/d6a4507ecec1d3c3156813fccded5de20dfd60c2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Improve job completion handling with timeout mechanism (#20657)</code>](https://github.com/netdata/netdata.git/commit/5001ae1388f2b322883dd010d5ec7add817bd24b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-402-nightly.</code>](https://github.com/netdata/netdata.git/commit/f2385e29019d259beb06a7b4a5f0e91e97a82444)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6010,6 +6021,8 @@
 - [ ] [<code>Update to v2.5.145</code>](https://github.com/axcore/tartube/commit/6cfd242e064cfe4e1c300069b2280c482104a42a)
   - <sub>Tags: <code>v2.5.145</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Upload venv configuration script</code>](https://github.com/axcore/tartube/commit/9c7ddc65f16e5994243fcafd800750b2f5ab43e8)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 > Dropped tribler - no appropriate URL found OrderedDict({'attr_path': 'tribler', 'home_url': 'https://www.tribler.org/', 'src_url': 'https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz', 'urls': ['https://github.com/Tribler/tribler/releases/download/v7.14.0/Tribler-7.14.0.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
