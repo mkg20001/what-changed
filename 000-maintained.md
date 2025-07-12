@@ -254,6 +254,7 @@
 - [ ] [<code>build: Fix wrong android namespace</code>](https://github.com/krille-chan/fluffychat/commit/f2cf771d5924b133168e2d4456e56cdbd00c485f)
 - [ ] [<code>build: Update release ios script</code>](https://github.com/krille-chan/fluffychat/commit/4a9efddf15508eb20c2bdb293b17b67e30b6a939)
 - [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
+- [ ] [<code>refactor: Make notification avatars rounded</code>](https://github.com/krille-chan/fluffychat/commit/9643242cc80d906534a4658ab3a7207c5907274d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
@@ -286,6 +287,7 @@
 - [ ] [<code>build: Fix wrong android namespace</code>](https://github.com/krille-chan/fluffychat/commit/f2cf771d5924b133168e2d4456e56cdbd00c485f)
 - [ ] [<code>build: Update release ios script</code>](https://github.com/krille-chan/fluffychat/commit/4a9efddf15508eb20c2bdb293b17b67e30b6a939)
 - [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
+- [ ] [<code>refactor: Make notification avatars rounded</code>](https://github.com/krille-chan/fluffychat/commit/9643242cc80d906534a4658ab3a7207c5907274d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -359,6 +361,9 @@
 - [ ] [<code>incusd: Make network config keys node specific</code>](https://github.com/lxc/incus/commit/5f6f2f9c9b6db1c2cee19f2be57d730c8a01df9c)
 - [ ] [<code>incusd/ip: All multicast needs to be configured after link creation</code>](https://github.com/lxc/incus/commit/00caeca496e74aab116c62e460c26894c367e815)
 - [ ] [<code>doc: Pin a working version of the sphinx extensions</code>](https://github.com/lxc/incus/commit/dcaf6e581b560fe468297994212d6344f96201ac)
+- [ ] [<code>incusd/instance/lxc: Fix usage reporting on relative disks</code>](https://github.com/lxc/incus/commit/15cff1d24b5f04ab39f31bf82781af87894f4406)
+- [ ] [<code>internal/instance: Introduce SplitVolumeSource</code>](https://github.com/lxc/incus/commit/677d5e83f448bcca9673d9e2c4f86d622366b346)
+- [ ] [<code>incusd: Use SplitVolumeSource</code>](https://github.com/lxc/incus/commit/c4baf44a7d9df9947b6a285f992dd3a4cc358267)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3686,6 +3691,9 @@
 - [ ] [<code>incusd: Make network config keys node specific</code>](https://github.com/lxc/incus/commit/5f6f2f9c9b6db1c2cee19f2be57d730c8a01df9c)
 - [ ] [<code>incusd/ip: All multicast needs to be configured after link creation</code>](https://github.com/lxc/incus/commit/00caeca496e74aab116c62e460c26894c367e815)
 - [ ] [<code>doc: Pin a working version of the sphinx extensions</code>](https://github.com/lxc/incus/commit/dcaf6e581b560fe468297994212d6344f96201ac)
+- [ ] [<code>incusd/instance/lxc: Fix usage reporting on relative disks</code>](https://github.com/lxc/incus/commit/15cff1d24b5f04ab39f31bf82781af87894f4406)
+- [ ] [<code>internal/instance: Introduce SplitVolumeSource</code>](https://github.com/lxc/incus/commit/677d5e83f448bcca9673d9e2c4f86d622366b346)
+- [ ] [<code>incusd: Use SplitVolumeSource</code>](https://github.com/lxc/incus/commit/c4baf44a7d9df9947b6a285f992dd3a4cc358267)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4367,6 +4375,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Improve job completion handling with timeout mechanism (#20657)</code>](https://github.com/netdata/netdata.git/commit/5001ae1388f2b322883dd010d5ec7add817bd24b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-402-nightly.</code>](https://github.com/netdata/netdata.git/commit/f2385e29019d259beb06a7b4a5f0e91e97a82444)
+- [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p8 (#20660)</code>](https://github.com/netdata/netdata.git/commit/ecf20fec5904bdb746a580a2319d9cdb043d6b8f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
