@@ -4380,6 +4380,11 @@
 - [ ] [<code>Cloud Docs: updated (#20661)</code>](https://github.com/netdata/netdata.git/commit/8c1ced85dc0567119a43140ef53a3d4dcc979639)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: fix "Unsupported markdown: list" in NC readme diagram (#20665)</code>](https://github.com/netdata/netdata.git/commit/00cdd9203036e0fdcf8b558dbc21513265847ded)
+- [ ] [<code>Fix datafile creation race condition (#20662)</code>](https://github.com/netdata/netdata.git/commit/20bd48e4878832f35cb7b1a105af539d398adf8d)
+- [ ] [<code>Regenerate integrations docs (#20659)</code>](https://github.com/netdata/netdata.git/commit/4dd5d0bbb918ce708070cca0d4f645b360c6d62f)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.41.0 to 0.42.0 in /src/go (#20667)</code>](https://github.com/netdata/netdata.git/commit/4c5cc57db0b249a3c8d8e7d89891596c4fa2470e)
+- [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.8.1 to 4.9.0 in /src/go (#20666)</code>](https://github.com/netdata/netdata.git/commit/9c20405c1b39944013b5fc034b7be58c9e807987)
+- [ ] [<code>Windows Pluging (Freedom to update every) (#20580)</code>](https://github.com/netdata/netdata.git/commit/1336ba958230cd2e31733c3cf1cf0bd9e3e43343)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5951,6 +5956,10 @@
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f095f86213a829995ff7d7aea047180ef3611d13)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>test(cli): update snapshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d756614e17ce2ae2455f8bea671da6d6c67f9705)
+- [ ] [<code>refactor(lib): share custom profile state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/54f0ef0febe55c85e33bff5dc3e96cf9938206e3)
+- [ ] [<code>perf(lib): avoid O(n^2) when exporting many equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15896f4909af4cab501afea11d27e975933f5ef7)
+- [ ] [<code>feat: add equalizer profile import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/07d12bc8348070638133317e9a26f0580d42b76a)
+- [ ] [<code>build: update build tool versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a61e96ad1617effc10a23432ea6dec8b73f2d037)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5965,6 +5974,7 @@
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>{src/pam,pyproject.toml}: Stop using six module. Deprecated.</code>](https://github.com/FirefighterBlu3/python-pam/commit/8d6f8eefcb0b0edafa585d23d6b3f2169d8e1c6f)
 > Dropped python312Packages.pyipv8 - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.pyipv8', 'home_url': 'https://github.com/Tribler/py-ipv8', 'src_url': 'mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz', 'urls': ['mirror://pypi/p/pyipv8/pyipv8-3.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
