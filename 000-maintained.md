@@ -4376,6 +4376,10 @@
 - [ ] [<code>Improve job completion handling with timeout mechanism (#20657)</code>](https://github.com/netdata/netdata.git/commit/5001ae1388f2b322883dd010d5ec7add817bd24b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-402-nightly.</code>](https://github.com/netdata/netdata.git/commit/f2385e29019d259beb06a7b4a5f0e91e97a82444)
 - [ ] [<code>chore(go.d/snmp-profiles): charts meta fixes and fam updates p8 (#20660)</code>](https://github.com/netdata/netdata.git/commit/ecf20fec5904bdb746a580a2319d9cdb043d6b8f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-404-nightly.</code>](https://github.com/netdata/netdata.git/commit/b1ccf93e6dfa3d2e5a247aab12786be0e20d9b2b)
+- [ ] [<code>Cloud Docs: updated (#20661)</code>](https://github.com/netdata/netdata.git/commit/8c1ced85dc0567119a43140ef53a3d4dcc979639)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: fix "Unsupported markdown: list" in NC readme diagram (#20665)</code>](https://github.com/netdata/netdata.git/commit/00cdd9203036e0fdcf8b558dbc21513265847ded)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
