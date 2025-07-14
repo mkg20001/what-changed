@@ -4385,6 +4385,12 @@
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.41.0 to 0.42.0 in /src/go (#20667)</code>](https://github.com/netdata/netdata.git/commit/4c5cc57db0b249a3c8d8e7d89891596c4fa2470e)
 - [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.8.1 to 4.9.0 in /src/go (#20666)</code>](https://github.com/netdata/netdata.git/commit/9c20405c1b39944013b5fc034b7be58c9e807987)
 - [ ] [<code>Windows Pluging (Freedom to update every) (#20580)</code>](https://github.com/netdata/netdata.git/commit/1336ba958230cd2e31733c3cf1cf0bd9e3e43343)
+- [ ] [<code>Update netdata-enterprise-evaluation-corrected.md</code>](https://github.com/netdata/netdata.git/commit/ba7e2bf39a35288fc3959779164b375c06797c39)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add comprehensive welcome document (#20669)</code>](https://github.com/netdata/netdata.git/commit/806659dceef4477017e7a74cffee7ca23b71cd0d)
+- [ ] [<code>Add ML anomaly detection accuracy analysis documentation (#20663)</code>](https://github.com/netdata/netdata.git/commit/cdca43051162be3781462e0e37fb982712c5270b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update netdata-enterprise-evaluation-corrected.md</code>](https://github.com/netdata/netdata.git/commit/b491d342fc7c593cf8d18e82ffae1a04884fb205)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
