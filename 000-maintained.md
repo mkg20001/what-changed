@@ -24,7 +24,7 @@
 - [ ] [<code>Release v1.15.9 (#38)</code>](https://github.com/cowsql/cowsql/commit/783815b901470e27b7dfbcce3a67c888dad19e78)
   - <sub>Tags: <code>v1.15.9</code></sub>
   - <sub>Files: <code>configure.ac</code></sub>
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.1/dbeaver-ce-25.1.1-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.1/dbeaver-ce-25.1.1-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.2/dbeaver-ce-25.1.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.2/dbeaver-ce-25.1.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -46,6 +46,7 @@
 - [ ] [<code>Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/1baf69d4fa95d2a69a7804cced69a70c0c901a33)
 - [ ] [<code>incus: Support compression=none for VMs</code>](https://github.com/lxc/distrobuilder/commit/2a646ab61c196b5daefbaa9d3847d224cd2ebda0)
 - [ ] [<code>windows: Add 2k25 to supported list</code>](https://github.com/lxc/distrobuilder/commit/818231cf9f46036d46875d5f5a4a4bef4d8ad180)
+- [ ] [<code>openwrt: verify checksum and signature by default</code>](https://github.com/lxc/distrobuilder/commit/28c898412e06848c7ed15e6248dfa343bf4065a7)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -364,6 +365,10 @@
 - [ ] [<code>incusd/instance/lxc: Fix usage reporting on relative disks</code>](https://github.com/lxc/incus/commit/15cff1d24b5f04ab39f31bf82781af87894f4406)
 - [ ] [<code>internal/instance: Introduce SplitVolumeSource</code>](https://github.com/lxc/incus/commit/677d5e83f448bcca9673d9e2c4f86d622366b346)
 - [ ] [<code>incusd: Use SplitVolumeSource</code>](https://github.com/lxc/incus/commit/c4baf44a7d9df9947b6a285f992dd3a4cc358267)
+- [ ] [<code>cli/list: Add markdown format support</code>](https://github.com/lxc/incus/commit/4741e6d93286832d30044b2338b9b8f3fc9d0647)
+- [ ] [<code>i18n: Updated format argument descriptions</code>](https://github.com/lxc/incus/commit/64053fd63bcb6af9efa87bf6077491bb38cbaa83)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd/list: Crude tablewriter error handling</code>](https://github.com/lxc/incus/commit/3bbdecf2c5200bd963d57d908a2a50192bf967bf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3694,6 +3699,10 @@
 - [ ] [<code>incusd/instance/lxc: Fix usage reporting on relative disks</code>](https://github.com/lxc/incus/commit/15cff1d24b5f04ab39f31bf82781af87894f4406)
 - [ ] [<code>internal/instance: Introduce SplitVolumeSource</code>](https://github.com/lxc/incus/commit/677d5e83f448bcca9673d9e2c4f86d622366b346)
 - [ ] [<code>incusd: Use SplitVolumeSource</code>](https://github.com/lxc/incus/commit/c4baf44a7d9df9947b6a285f992dd3a4cc358267)
+- [ ] [<code>cli/list: Add markdown format support</code>](https://github.com/lxc/incus/commit/4741e6d93286832d30044b2338b9b8f3fc9d0647)
+- [ ] [<code>i18n: Updated format argument descriptions</code>](https://github.com/lxc/incus/commit/64053fd63bcb6af9efa87bf6077491bb38cbaa83)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd/list: Crude tablewriter error handling</code>](https://github.com/lxc/incus/commit/3bbdecf2c5200bd963d57d908a2a50192bf967bf)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4391,6 +4400,10 @@
 - [ ] [<code>Add ML anomaly detection accuracy analysis documentation (#20663)</code>](https://github.com/netdata/netdata.git/commit/cdca43051162be3781462e0e37fb982712c5270b)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update netdata-enterprise-evaluation-corrected.md</code>](https://github.com/netdata/netdata.git/commit/b491d342fc7c593cf8d18e82ffae1a04884fb205)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-416-nightly.</code>](https://github.com/netdata/netdata.git/commit/0eaa72e9e531c84ada4b61adab7e22f0dc97396d)
+- [ ] [<code>Escape chars on documentation (#20671)</code>](https://github.com/netdata/netdata.git/commit/d779114385a6abfa983a11ada60d0c55b67006a5)
+- [ ] [<code>Regenerate integrations docs (#20668)</code>](https://github.com/netdata/netdata.git/commit/72af9c9e8b77bdf24c1ed395bebe723668c6298e)
+- [ ] [<code>Update welcome-to-netdata.md</code>](https://github.com/netdata/netdata.git/commit/235527af667b494ac50129b1ea068c3f5560613e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
