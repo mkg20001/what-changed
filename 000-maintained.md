@@ -256,6 +256,7 @@
 - [ ] [<code>build: Update release ios script</code>](https://github.com/krille-chan/fluffychat/commit/4a9efddf15508eb20c2bdb293b17b67e30b6a939)
 - [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
 - [ ] [<code>refactor: Make notification avatars rounded</code>](https://github.com/krille-chan/fluffychat/commit/9643242cc80d906534a4658ab3a7207c5907274d)
+- [ ] [<code>build: Update flutter versions</code>](https://github.com/krille-chan/fluffychat/commit/80997b44cf53e9242365cc2b1e6f237cfb03cdd3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
@@ -289,6 +290,7 @@
 - [ ] [<code>build: Update release ios script</code>](https://github.com/krille-chan/fluffychat/commit/4a9efddf15508eb20c2bdb293b17b67e30b6a939)
 - [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
 - [ ] [<code>refactor: Make notification avatars rounded</code>](https://github.com/krille-chan/fluffychat/commit/9643242cc80d906534a4658ab3a7207c5907274d)
+- [ ] [<code>build: Update flutter versions</code>](https://github.com/krille-chan/fluffychat/commit/80997b44cf53e9242365cc2b1e6f237cfb03cdd3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -369,6 +371,13 @@
 - [ ] [<code>i18n: Updated format argument descriptions</code>](https://github.com/lxc/incus/commit/64053fd63bcb6af9efa87bf6077491bb38cbaa83)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>cmd/list: Crude tablewriter error handling</code>](https://github.com/lxc/incus/commit/3bbdecf2c5200bd963d57d908a2a50192bf967bf)
+- [ ] [<code>incus/project/get-current: Rely on server reported project</code>](https://github.com/lxc/incus/commit/8db0ddcc7ff663d568d86794c092ade8624dd46e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/remote: Support keepalive flag</code>](https://github.com/lxc/incus/commit/ea1bd14155f05e52c84abe5eca583e1f514b7b2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cb44403d12f641b5ea82bc3b42f8f700026c79f6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>i18n: Manual translation update</code>](https://github.com/lxc/incus/commit/1749a13661f918c72fcdaad691785b3f9a474de7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3703,6 +3712,13 @@
 - [ ] [<code>i18n: Updated format argument descriptions</code>](https://github.com/lxc/incus/commit/64053fd63bcb6af9efa87bf6077491bb38cbaa83)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>cmd/list: Crude tablewriter error handling</code>](https://github.com/lxc/incus/commit/3bbdecf2c5200bd963d57d908a2a50192bf967bf)
+- [ ] [<code>incus/project/get-current: Rely on server reported project</code>](https://github.com/lxc/incus/commit/8db0ddcc7ff663d568d86794c092ade8624dd46e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/remote: Support keepalive flag</code>](https://github.com/lxc/incus/commit/ea1bd14155f05e52c84abe5eca583e1f514b7b2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cb44403d12f641b5ea82bc3b42f8f700026c79f6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>i18n: Manual translation update</code>](https://github.com/lxc/incus/commit/1749a13661f918c72fcdaad691785b3f9a474de7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4404,6 +4420,14 @@
 - [ ] [<code>Escape chars on documentation (#20671)</code>](https://github.com/netdata/netdata.git/commit/d779114385a6abfa983a11ada60d0c55b67006a5)
 - [ ] [<code>Regenerate integrations docs (#20668)</code>](https://github.com/netdata/netdata.git/commit/72af9c9e8b77bdf24c1ed395bebe723668c6298e)
 - [ ] [<code>Update welcome-to-netdata.md</code>](https://github.com/netdata/netdata.git/commit/235527af667b494ac50129b1ea068c3f5560613e)
+- [ ] [<code>nd-mcp add claude cli cmd for adding netdata mcp (#20440)</code>](https://github.com/netdata/netdata.git/commit/e55a3748b8f4878067edea64569a8b6092e2c5b7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(go.d/snmp): enable table metrics by default (#20674)</code>](https://github.com/netdata/netdata.git/commit/4993104307a5e5bb541a9496f793c62d4e4e1cdb)
+- [ ] [<code>Regenerate integrations docs (#20675)</code>](https://github.com/netdata/netdata.git/commit/3c89af23dc9d97bc6063acde06deeff7e1604400)
+- [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.1 to 0.5.9 (#20670)</code>](https://github.com/netdata/netdata.git/commit/e5f7c800d3ae20896a8947b030db8953e0fef28a)
+- [ ] [<code>Update welcome-to-netdata.md</code>](https://github.com/netdata/netdata.git/commit/793d357b1ad5f5cbf5bf66355b437681f7bc5e19)
+- [ ] [<code>Improve agent shutdown on windows (#20672)</code>](https://github.com/netdata/netdata.git/commit/b94e93520e8e9aefcb6cfbb04e46ae49718c2904)
+- [ ] [<code>Code cleanup (#20673)</code>](https://github.com/netdata/netdata.git/commit/5c64d5f11b6ab69bf855a30146da412b5141e686)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
