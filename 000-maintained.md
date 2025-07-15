@@ -4434,6 +4434,9 @@
 - [ ] [<code>Agent docs alignement (#20676)</code>](https://github.com/netdata/netdata.git/commit/f3f84db87bf5a0652d19be40732675178dddeb2d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(charts.d): suppress broken pipe error from echo during cleanup (#20680)</code>](https://github.com/netdata/netdata.git/commit/8969dd913e2cd3b14897444eae15d17a2def3ff5)
+- [ ] [<code>Fix deadlock in dictionary cleanup (#20679)</code>](https://github.com/netdata/netdata.git/commit/432e1bb716dee3bb879caa55ca9cff06317e4369)
+- [ ] [<code>Remove Ubuntu 24.10 from CI and package builds. (#20681)</code>](https://github.com/netdata/netdata.git/commit/a22c205d69d560a2a554fe652794528e174afbb3)
+- [ ] [<code>Fix systemd-journal-plugin RPM package. (#20686)</code>](https://github.com/netdata/netdata.git/commit/b0b4350867f7b7f7625ed08e38999bf21e84babc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
