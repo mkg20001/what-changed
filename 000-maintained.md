@@ -3771,6 +3771,8 @@
 - [ ] [<code>Remove a comment on how to reproduce AVM issue 717</code>](https://github.com/AOMediaCodec/libavif/commit/b4462a2952e950e00d7b9d28056baa060490f0c5)
 - [ ] [<code>Remove reader requirement in mini reconstruction (#2839)</code>](https://github.com/AOMediaCodec/libavif/commit/6217442547f172776d25442b512726164634bd25)
 - [ ] [<code>Bump github/codeql-action in the github-actions group (#2841)</code>](https://github.com/AOMediaCodec/libavif/commit/841110fd8723abd0d5439cbb2cfb8e9cfa11f808)
+- [ ] [<code>Update LocalAom.cmake to AVM research-v10.0.1 (#2844)</code>](https://github.com/AOMediaCodec/libavif/commit/3c47bdc4e5ba91490fb13e4c6a38d01943329d92)
+- [ ] [<code>Bump jpeg, XML2, rav1e, png dependencies (#2845)</code>](https://github.com/AOMediaCodec/libavif/commit/a4fec908b582fd7b82c86014a68e54dc5e0f4058)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.4...HEAD)
 
@@ -4428,6 +4430,10 @@
 - [ ] [<code>Update welcome-to-netdata.md</code>](https://github.com/netdata/netdata.git/commit/793d357b1ad5f5cbf5bf66355b437681f7bc5e19)
 - [ ] [<code>Improve agent shutdown on windows (#20672)</code>](https://github.com/netdata/netdata.git/commit/b94e93520e8e9aefcb6cfbb04e46ae49718c2904)
 - [ ] [<code>Code cleanup (#20673)</code>](https://github.com/netdata/netdata.git/commit/5c64d5f11b6ab69bf855a30146da412b5141e686)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-427-nightly.</code>](https://github.com/netdata/netdata.git/commit/72a4ee4b32927fa8cc4704b6c67f2cb4cc6c329e)
+- [ ] [<code>Agent docs alignement (#20676)</code>](https://github.com/netdata/netdata.git/commit/f3f84db87bf5a0652d19be40732675178dddeb2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(charts.d): suppress broken pipe error from echo during cleanup (#20680)</code>](https://github.com/netdata/netdata.git/commit/8969dd913e2cd3b14897444eae15d17a2def3ff5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
