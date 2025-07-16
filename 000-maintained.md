@@ -209,6 +209,12 @@
 - [ ] [<code>feat: show recovery key dialog for test device when configured</code>](https://github.com/canonical/firmware-updater/commit/9732033c1383bd76f2794ec830891f60a5602a4a)
 - [ ] [<code>feat: add config option to test FDE dialog with fwupd test device (#353)</code>](https://github.com/canonical/firmware-updater/commit/5e5d075d8cf73772e036382c6130a7f3f8b7e262)
 - [ ] [<code>chore(deps): Bump Flutter to 3.32.1 and Yaru to 8 (#351)</code>](https://github.com/canonical/firmware-updater/commit/f19b8d52e61ec434bc10dbfaca1d540fe3ebb1d1)
+- [ ] [<code>feat: add firmware-updater-support interface to snapcraft.yaml</code>](https://github.com/canonical/firmware-updater/commit/0d9d1980aec1dcdf4c651557f193dd1e74d39bdd)
+- [ ] [<code>feat: use `/run/snapd-snap.socket`</code>](https://github.com/canonical/firmware-updater/commit/1aadd239d7c986912f0c45041d463b2476081a80)
+- [ ] [<code>feat: log errors when checking recovery key</code>](https://github.com/canonical/firmware-updater/commit/7665dc39d22dfcf0d31c9c5be1dfdd28a73173e9)
+- [ ] [<code>feat: catch exceptions when checking recovery key</code>](https://github.com/canonical/firmware-updater/commit/f6f0c7223ec0d546f6be0858206443fb8f8038c9)
+- [ ] [<code>feat: use abstract snapd socket if available</code>](https://github.com/canonical/firmware-updater/commit/06ff0c6a98d8ab515d83970b5ad80cb7da563e1e)
+- [ ] [<code>feat: add snap interface to access snapd TPM FDE endpoints (#356)</code>](https://github.com/canonical/firmware-updater/commit/05afeff76a9f88dad902c69a3ed14961783a70ec)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -4429,6 +4435,11 @@
 - [ ] [<code>Fix systemd-journal-plugin RPM package. (#20686)</code>](https://github.com/netdata/netdata.git/commit/b0b4350867f7b7f7625ed08e38999bf21e84babc)
 - [ ] [<code>Fix log message format for buffered reader error (#20687)</code>](https://github.com/netdata/netdata.git/commit/949156289c25e3566ac621171e6fdb5f04412a5e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-434-nightly.</code>](https://github.com/netdata/netdata.git/commit/ec9931e88f1fe8d812879aa92e00f7b71acadd3b)
+- [ ] [<code>docs: update continue ext setup (#20689)</code>](https://github.com/netdata/netdata.git/commit/cc1d03869c8dbeca5b5fd2d05fd0a7c3687585a1)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: fix file location in continue setup (#20690)</code>](https://github.com/netdata/netdata.git/commit/a80d6c30568c23660eedeb9addc2d518dee1a413)
+- [ ] [<code>Remove Fedora 40 from CI and package builds. (#20685)</code>](https://github.com/netdata/netdata.git/commit/b6a77665ed4519856e59d12071c62090db9641d7)
+- [ ] [<code>docs: remove Profiles heading from collapsible section (#20691)</code>](https://github.com/netdata/netdata.git/commit/d441eb6dad7acedaf4cbc2996eae887b79f388f6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6004,6 +6015,13 @@
 - [ ] [<code>perf(lib): avoid O(n^2) when exporting many equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15896f4909af4cab501afea11d27e975933f5ef7)
 - [ ] [<code>feat: add equalizer profile import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/07d12bc8348070638133317e9a26f0580d42b76a)
 - [ ] [<code>build: update build tool versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a61e96ad1617effc10a23432ea6dec8b73f2d037)
+- [ ] [<code>build(gui): fix run-remote-windows running wrong path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4ad436963bcb8a6cf4b5ded48c33e6a967e48282)
+- [ ] [<code>build(gui): kill existing instance when using run-remote-windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6f8aef09ff2c0942e2107fe6e2b8a272d83e0f6)
+- [ ] [<code>feat(gui): hide console window on Windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5286a51ec9281bf0668489db71bce8b67c8230b7)
+- [ ] [<code>deps(android): update AGP</code>](https://github.com/Oppzippy/OpenSCQ30/commit/235c9d1c66ac0db73ae8280454242a872d8a14a7)
+- [ ] [<code>fix(android): crash when toast is shown from view model</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9b7ad778826efe9607b2cbfeb7929b85eba992ff)
+- [ ] [<code>test(android): fix missing argument</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2bd4fc76a5d89d848e0c91794cf8d7a717241120)
+- [ ] [<code>feat(cli): implement MultiSelect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce2e49f69dde7f790c4e3a4cdef1352bf39f2174)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
