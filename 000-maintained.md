@@ -11,19 +11,8 @@
 > Dropped common-licenses - no appropriate URL found OrderedDict({'attr_path': 'common-licenses', 'home_url': 'https://tracker.debian.org/pkg/base-files', 'src_url': 'http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz', 'urls': ['http://deb.debian.org/debian/pool/main/b/base-files/base-files_13.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.8 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.8...HEAD)
+#### [cowsql](https://github.com/cowsql/cowsql): [refs/tags/v1.15.9 → HEAD](https://github.com/cowsql/cowsql/compare/refs/tags/v1.15.9...HEAD)
 
-- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5</code>](https://github.com/cowsql/cowsql/commit/b5285345b0c173a1f0754e270730ed9878a59622)
-- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18</code>](https://github.com/cowsql/cowsql/commit/029c1f18328968b1581691d9302a23cfd7124b8e)
-- [ ] [<code>build(deps): bump DoozyX/clang-format-lint-action from 0.17 to 0.18 (#33)</code>](https://github.com/cowsql/cowsql/commit/c603e45e4a7011044032acf9afd60705a02b024f)
-- [ ] [<code>build(deps): bump codecov/codecov-action from 3 to 5 (#32)</code>](https://github.com/cowsql/cowsql/commit/664ce874000a2ed3b3811f703be881caa65adac5)
-- [ ] [<code>src/lib/serialize.h: don't define double as float_t</code>](https://github.com/cowsql/cowsql/commit/c0d7c99632ea2ee01066988708cbb41f335cbdc3)
-- [ ] [<code>src/lib/serialize.h: don't define double as float_t (#37)</code>](https://github.com/cowsql/cowsql/commit/cb624d3263ca22b42ecfa8a1dd8a0c8d990db7b6)
-- [ ] [<code>Release v1.15.9</code>](https://github.com/cowsql/cowsql/commit/83b1d3ad3ff901d4b09c7fa8515f8d400fe67ba5)
-  - <sub>Files: <code>configure.ac</code></sub>
-- [ ] [<code>Release v1.15.9 (#38)</code>](https://github.com/cowsql/cowsql/commit/783815b901470e27b7dfbcce3a67c888dad19e78)
-  - <sub>Tags: <code>v1.15.9</code></sub>
-  - <sub>Files: <code>configure.ac</code></sub>
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.1.2/dbeaver-ce-25.1.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.1.2/dbeaver-ce-25.1.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4437,6 +4426,7 @@
 - [ ] [<code>Fix deadlock in dictionary cleanup (#20679)</code>](https://github.com/netdata/netdata.git/commit/432e1bb716dee3bb879caa55ca9cff06317e4369)
 - [ ] [<code>Remove Ubuntu 24.10 from CI and package builds. (#20681)</code>](https://github.com/netdata/netdata.git/commit/a22c205d69d560a2a554fe652794528e174afbb3)
 - [ ] [<code>Fix systemd-journal-plugin RPM package. (#20686)</code>](https://github.com/netdata/netdata.git/commit/b0b4350867f7b7f7625ed08e38999bf21e84babc)
+- [ ] [<code>Fix log message format for buffered reader error (#20687)</code>](https://github.com/netdata/netdata.git/commit/949156289c25e3566ac621171e6fdb5f04412a5e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
