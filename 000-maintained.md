@@ -3711,6 +3711,7 @@
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
+- [ ] [<code>Remove 'See {ref}' sentence from description</code>](https://github.com/zabbly/incus-ui-canonical/commit/6e7004ed5c0aa9b6d1c2567383179f446d12989f)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4427,6 +4428,7 @@
 - [ ] [<code>Remove Ubuntu 24.10 from CI and package builds. (#20681)</code>](https://github.com/netdata/netdata.git/commit/a22c205d69d560a2a554fe652794528e174afbb3)
 - [ ] [<code>Fix systemd-journal-plugin RPM package. (#20686)</code>](https://github.com/netdata/netdata.git/commit/b0b4350867f7b7f7625ed08e38999bf21e84babc)
 - [ ] [<code>Fix log message format for buffered reader error (#20687)</code>](https://github.com/netdata/netdata.git/commit/949156289c25e3566ac621171e6fdb5f04412a5e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-434-nightly.</code>](https://github.com/netdata/netdata.git/commit/ec9931e88f1fe8d812879aa92e00f7b71acadd3b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
