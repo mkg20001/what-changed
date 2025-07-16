@@ -203,21 +203,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.0 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.0...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.2.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.2.6...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.0...HEAD)
 
-- [ ] [<code>Adjust MATE/Xfce panel colors</code>](https://github.com/linuxmint/mint-themes/commit/36f0198f0841a2baf3dbe2cffa40503854b2ae99)
-- [ ] [<code>2.2.7</code>](https://github.com/linuxmint/mint-themes/commit/b27d072b2fec5dda342f56e8d985a76fa1dfa215)
-  - <sub>Tags: <code>2.2.7</code></sub>
-- [ ] [<code>Adjust MATE/Xfce panel colors</code>](https://github.com/linuxmint/mint-themes/commit/b716ccdc353b664dff9ebef009a97083e11e4055)
-- [ ] [<code>Generate CSS</code>](https://github.com/linuxmint/mint-themes/commit/31903c044b979298d95e54a2e4ecf81e3143b5a2)
-- [ ] [<code>2.2.8</code>](https://github.com/linuxmint/mint-themes/commit/ae21cbc640d03fdbb3eec5bc4d2f2f40602c2c53)
-  - <sub>Tags: <code>2.2.8</code></sub>
-- [ ] [<code>Xfwm4: Update variations</code>](https://github.com/linuxmint/mint-themes/commit/08bf237e0bc399787375b196ca9ec9e406d9f75d)
-- [ ] [<code>2.2.9</code>](https://github.com/linuxmint/mint-themes/commit/1f054ba491660666f2b27b4c74d83c90c9c2bb4d)
-  - <sub>Tags: <code>2.2.9</code></sub>
-- [ ] [<code>Mint-Y cinnamon: add style for category button hover (#505)</code>](https://github.com/linuxmint/mint-themes/commit/a28a49ca7be938b4b959f0529c9daf4353e7f498)
-- [ ] [<code>2.3.0</code>](https://github.com/linuxmint/mint-themes/commit/32c01c41bd505527842ee7f37789b066bbeb88fa)
-  - <sub>Tags: <code>2.3.0</code> <code>master.lmde6</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.2 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.2...HEAD)
 
