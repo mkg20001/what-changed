@@ -108,7 +108,9 @@
 - [ ] [<code>Add 'wallpaper' keyword to backgrounds.deskop kewords. (#12944)</code>](https://github.com/linuxmint/cinnamon/commit/67dbc6c98f2d004c2efaa0aab4d3df5eecf28c40)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Fix include names for mutter->muffin.</code>](https://github.com/linuxmint/cinnamon/commit/1d1fd593030f69ea0edeab4916834766a21e82a2)
+- [ ] [<code>cinnamon-settings.py: Fix loading c-c-c modules via commandline.</code>](https://github.com/linuxmint/cinnamon/commit/69f154b3906d6ded70f5249613c4c68cbbda0abf)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
@@ -323,6 +325,13 @@
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.8 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.8...HEAD)
 
+- [ ] [<code>build: Update bundled libraries.</code>](https://github.com/linuxmint/warpinator/commit/49bfa12d144363e79da8268dd3187ec56fbb66c2)
+  - <sub>Files: <code>meson.build</code> <code>CMakeLists.txt</code> <code>configure.ac</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>subprocess</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>debian/control: Remove cython3-legacy option, policykit-1 dep.</code>](https://github.com/linuxmint/warpinator/commit/37685ffcce87dc4bac93a03a4870618eb21dc64e)
+- [ ] [<code>debian/control: Add polkitd dependency for build in debian 12/lmde6.</code>](https://github.com/linuxmint/warpinator/commit/68251fcfe9de28e2ede45f46ece410fcd3a00244)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.9 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.9...HEAD)
 
