@@ -373,6 +373,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cb44403d12f641b5ea82bc3b42f8f700026c79f6)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>i18n: Manual translation update</code>](https://github.com/lxc/incus/commit/1749a13661f918c72fcdaad691785b3f9a474de7)
+- [ ] [<code>incusd/cluster/config: Update certificate also on change of acme.http.port</code>](https://github.com/lxc/incus/commit/1de9bb4f089d9fd260bafd54ae7cc84efbfa96a1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3714,6 +3715,7 @@
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cb44403d12f641b5ea82bc3b42f8f700026c79f6)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>i18n: Manual translation update</code>](https://github.com/lxc/incus/commit/1749a13661f918c72fcdaad691785b3f9a474de7)
+- [ ] [<code>incusd/cluster/config: Update certificate also on change of acme.http.port</code>](https://github.com/lxc/incus/commit/1de9bb4f089d9fd260bafd54ae7cc84efbfa96a1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
