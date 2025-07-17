@@ -109,8 +109,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Fix include names for mutter->muffin.</code>](https://github.com/linuxmint/cinnamon/commit/1d1fd593030f69ea0edeab4916834766a21e82a2)
 - [ ] [<code>cinnamon-settings.py: Fix loading c-c-c modules via commandline.</code>](https://github.com/linuxmint/cinnamon/commit/69f154b3906d6ded70f5249613c4c68cbbda0abf)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>commandline</code></sub>
+- [ ] [<code>feat(themes): Implement categorized theme menus and debug tools (#12905)</code>](https://github.com/linuxmint/cinnamon/commit/1c21371a608bab1b0bada583d01cd228ff9257b7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_themes: Don't show the 'Other themes' menu label, fix row logic.</code>](https://github.com/linuxmint/cinnamon/commit/0ba77b7333168f78887cf80c9764f3db81f28410)
+  - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.1...HEAD)
 
