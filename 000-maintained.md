@@ -375,6 +375,9 @@
 - [ ] [<code>i18n: Manual translation update</code>](https://github.com/lxc/incus/commit/1749a13661f918c72fcdaad691785b3f9a474de7)
 - [ ] [<code>incusd/cluster/config: Update certificate also on change of acme.http.port</code>](https://github.com/lxc/incus/commit/1de9bb4f089d9fd260bafd54ae7cc84efbfa96a1)
 - [ ] [<code>incusd/instance_logs: Perform stricter path validation</code>](https://github.com/lxc/incus/commit/dacee765384635eac3742351de64cdae23d25194)
+- [ ] [<code>[lxd-import] lxd/daemon: Validate browser fetch metadata if supplied to reject non-same-origin requests</code>](https://github.com/lxc/incus/commit/60a3670af35e45d6c7b62872b300d914eba05478)
+- [ ] [<code>[lxd-import] test/suites/serverconfig: Check fetch metadata header is validated</code>](https://github.com/lxc/incus/commit/033789e9f1f108e03313f375c39e349c2b300c44)
+- [ ] [<code>incusd/dev_incus: Add extra validation for monitor</code>](https://github.com/lxc/incus/commit/25cc63ece8f74ef2c7f9a445d544338b91340af7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
 
@@ -3718,6 +3721,9 @@
 - [ ] [<code>i18n: Manual translation update</code>](https://github.com/lxc/incus/commit/1749a13661f918c72fcdaad691785b3f9a474de7)
 - [ ] [<code>incusd/cluster/config: Update certificate also on change of acme.http.port</code>](https://github.com/lxc/incus/commit/1de9bb4f089d9fd260bafd54ae7cc84efbfa96a1)
 - [ ] [<code>incusd/instance_logs: Perform stricter path validation</code>](https://github.com/lxc/incus/commit/dacee765384635eac3742351de64cdae23d25194)
+- [ ] [<code>[lxd-import] lxd/daemon: Validate browser fetch metadata if supplied to reject non-same-origin requests</code>](https://github.com/lxc/incus/commit/60a3670af35e45d6c7b62872b300d914eba05478)
+- [ ] [<code>[lxd-import] test/suites/serverconfig: Check fetch metadata header is validated</code>](https://github.com/lxc/incus/commit/033789e9f1f108e03313f375c39e349c2b300c44)
+- [ ] [<code>incusd/dev_incus: Add extra validation for monitor</code>](https://github.com/lxc/incus/commit/25cc63ece8f74ef2c7f9a445d544338b91340af7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.17.1.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.17.1.0...HEAD)
 
@@ -4445,6 +4451,8 @@
 - [ ] [<code>Remove Fedora 40 from CI and package builds. (#20685)</code>](https://github.com/netdata/netdata.git/commit/b6a77665ed4519856e59d12071c62090db9641d7)
 - [ ] [<code>docs: remove Profiles heading from collapsible section (#20691)</code>](https://github.com/netdata/netdata.git/commit/d441eb6dad7acedaf4cbc2996eae887b79f388f6)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-439-nightly.</code>](https://github.com/netdata/netdata.git/commit/7831746c13e7174ca368a29562de61dde1e5ef80)
+- [ ] [<code>[ci skip] Minor release v2.6.0.</code>](https://github.com/netdata/netdata.git/commit/6a25dc26840e9f98e06c54486f76cc78862d2a01)
+  - <sub>Tags: <code>v2.6.0</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6036,6 +6044,12 @@
 - [ ] [<code>fix(cli): should error when incorrect number of eq bands supplied</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c3c24cc9781079dd33bd13db164c50d8db11574)
 - [ ] [<code>fix(cli): optional select should error when selecting invalid option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c470d8daf43dfcc022646c6e5e85e808350666a9)
 - [ ] [<code>fix(cli): modifiable select should error when selecting invalid option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f43d55fefdd651b7e6c54c021056a36e5ef94a4a)
+- [ ] [<code>fix(cli): multi select should error when selecting invalid option</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d07ae786e446dbd7b33a9a5c18744d9be4175a92)
+- [ ] [<code>refactor(cli): split out setting parsing to separate module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e166284617518d9dc69c00c8fe1570413bf0bc5d)
+- [ ] [<code>refactor(cli): add reusable primitives for parsing settings::Value</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a2884687fabba980cdd0324a2b8c3213c6c0a6bb)
+- [ ] [<code>ci: update ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b130b66c10f182df82ba07ad51f2c3661c9f1c4)
+- [ ] [<code>test(cli): add select case insensitive matching tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/84c0c20325bc9ee3237d7551421b52f73a8dfd2c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6121,6 +6135,9 @@
   - <sub>Tags: <code>v2.5.145</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Upload venv configuration script</code>](https://github.com/axcore/tartube/commit/9c7ddc65f16e5994243fcafd800750b2f5ab43e8)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Update to v2.5.156</code>](https://github.com/axcore/tartube/commit/5974d2026a3688f5908cf8dbc60be3c4f0ac1889)
+  - <sub>Tags: <code>v2.5.156</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
