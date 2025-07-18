@@ -4678,6 +4678,11 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.5.0-439-nightly.</code>](https://github.com/netdata/netdata.git/commit/7831746c13e7174ca368a29562de61dde1e5ef80)
 - [ ] [<code>[ci skip] Minor release v2.6.0.</code>](https://github.com/netdata/netdata.git/commit/6a25dc26840e9f98e06c54486f76cc78862d2a01)
   - <sub>Tags: <code>v2.6.0</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-1-nightly.</code>](https://github.com/netdata/netdata.git/commit/f2f7c5f8139e6d45e9591924b4663cd4911c948c)
+- [ ] [<code>update otel-collector components deps (#20693)</code>](https://github.com/netdata/netdata.git/commit/b91fd0c15af86b8d917dd601474ffbb686f4e947)
+- [ ] [<code>Replace legacy functions-table.md with comprehensive UI documentation (#20697)</code>](https://github.com/netdata/netdata.git/commit/ce5f3d1ad29ee4be0cb2d1f5c61cc60868b2976c)
+- [ ] [<code>Add Getting Started Netdata guide (#20642)</code>](https://github.com/netdata/netdata.git/commit/09895dc2028d7700111a40862ca29b5d5a2e3c22)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5404,7 +5409,7 @@
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.33.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.33.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.34.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.34.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -6275,6 +6280,8 @@
 - [ ] [<code>ci: update ktlint</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b130b66c10f182df82ba07ad51f2c3661c9f1c4)
 - [ ] [<code>test(cli): add select case insensitive matching tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/84c0c20325bc9ee3237d7551421b52f73a8dfd2c)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor(lib): use Display rather than Debug for inner errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bfa8c4370c1de543a7d0520e94514fa6f3a44fce)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6390,6 +6397,9 @@
 - [ ] [<code>debian/changelog: v0.0.20250529</code>](https://github.com/jow-/ucode/commit/20ee2dabd243e892a356e8c57487c12d3bb2c11e)
 - [ ] [<code>ubus: add support for automatically subscribing to objects</code>](https://github.com/jow-/ucode/commit/50d303c8309d71cd1103f2b31431c7cdc4d6e39b)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>vm: export function for converting exception to ucode value</code>](https://github.com/jow-/ucode/commit/5a0d21d59f88369eaf628fec79f574190e0088b9)
+- [ ] [<code>uloop: add guard() function</code>](https://github.com/jow-/ucode/commit/aaf712eb4fb45fa89e50bf7451cbf1ceec7e92f3)
+- [ ] [<code>ubus: add guard() function</code>](https://github.com/jow-/ucode/commit/693af2b61b52a013933f784de9ca4e7efb1643d0)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
