@@ -274,7 +274,9 @@
 - [ ] [<code>nemo-window.c: Remember the second pane's location until the</code>](https://github.com/linuxmint/nemo/commit/2b70af14eb956abb8027f9648c6c35ceca1be7b2)
 - [ ] [<code>nemo-query-editor.c: Don't use new glib function.</code>](https://github.com/linuxmint/nemo/commit/42c61527e970f759dac6e5b147710da38c1ff017)
 - [ ] [<code>Add Matcha to Supported Theme Hints (#3573)</code>](https://github.com/linuxmint/nemo/commit/94d59757a30d10a16fcdc2f255e4695226d739a4)
+- [ ] [<code>preferences: Remove scripts widget from Plugins.</code>](https://github.com/linuxmint/nemo/commit/36156666c2b25feb7f8c2e16b7316dbec2530767)
   - <sub>Tags: <code>master.lmde6</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
