@@ -252,6 +252,12 @@
 - [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
 - [ ] [<code>refactor: Make notification avatars rounded</code>](https://github.com/krille-chan/fluffychat/commit/9643242cc80d906534a4658ab3a7207c5907274d)
 - [ ] [<code>build: Update flutter versions</code>](https://github.com/krille-chan/fluffychat/commit/80997b44cf53e9242365cc2b1e6f237cfb03cdd3)
+- [ ] [<code>refactor: Better UX for accepting declining invite</code>](https://github.com/krille-chan/fluffychat/commit/0e1874b2269511dcb58726f0d440efe32aade573)
+- [ ] [<code>refactor: Remove unused dependencies</code>](https://github.com/krille-chan/fluffychat/commit/933119a3085edecfe6131c182bc44ddd107061d1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Fetch version correctly for snap</code>](https://github.com/krille-chan/fluffychat/commit/458dfa6e3e93912c78c49eb5d9247bccb42f3296)
+- [ ] [<code>chore: Remove unused workflow</code>](https://github.com/krille-chan/fluffychat/commit/e2c12fb58f4c560124ff0ad13f1f7ec3a4ecd5f4)
+- [ ] [<code>build: Make ios debug job run without secrets</code>](https://github.com/krille-chan/fluffychat/commit/f094a05277b2b84afa4c1ada861549b3a56c8e02)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
@@ -286,6 +292,12 @@
 - [ ] [<code>build: Add missing incomment fcm push service</code>](https://github.com/krille-chan/fluffychat/commit/f798421dd2885fa856dbcf0017c13d2db75f62a7)
 - [ ] [<code>refactor: Make notification avatars rounded</code>](https://github.com/krille-chan/fluffychat/commit/9643242cc80d906534a4658ab3a7207c5907274d)
 - [ ] [<code>build: Update flutter versions</code>](https://github.com/krille-chan/fluffychat/commit/80997b44cf53e9242365cc2b1e6f237cfb03cdd3)
+- [ ] [<code>refactor: Better UX for accepting declining invite</code>](https://github.com/krille-chan/fluffychat/commit/0e1874b2269511dcb58726f0d440efe32aade573)
+- [ ] [<code>refactor: Remove unused dependencies</code>](https://github.com/krille-chan/fluffychat/commit/933119a3085edecfe6131c182bc44ddd107061d1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Fetch version correctly for snap</code>](https://github.com/krille-chan/fluffychat/commit/458dfa6e3e93912c78c49eb5d9247bccb42f3296)
+- [ ] [<code>chore: Remove unused workflow</code>](https://github.com/krille-chan/fluffychat/commit/e2c12fb58f4c560124ff0ad13f1f7ec3a4ecd5f4)
+- [ ] [<code>build: Make ios debug job run without secrets</code>](https://github.com/krille-chan/fluffychat/commit/f094a05277b2b84afa4c1ada861549b3a56c8e02)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4469,6 +4481,7 @@
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Escape < character in plaintext (#20699)</code>](https://github.com/netdata/netdata.git/commit/e3616806774f1867615858b89f55434417ec2bf5)
 - [ ] [<code>Update UPDATE.md (#20701)</code>](https://github.com/netdata/netdata.git/commit/15f9cf587ae82d35b6a95f61f455b11f312fa473)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-7-nightly.</code>](https://github.com/netdata/netdata.git/commit/91319c577cb525c6f291b6af8f5e4d37cbca615f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6067,6 +6080,10 @@
 - [ ] [<code>test(cli): add select case insensitive matching tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/84c0c20325bc9ee3237d7551421b52f73a8dfd2c)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>refactor(lib): use Display rather than Debug for inner errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bfa8c4370c1de543a7d0520e94514fa6f3a44fce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: reuse error types less</code>](https://github.com/Oppzippy/OpenSCQ30/commit/76562aaa5c9d99da96dc67dccf73b9c92a936336)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): race condition when changing settings right after connecting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/85e7d038340b2baee48015513e462571134e4c67)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
