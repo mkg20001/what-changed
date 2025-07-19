@@ -258,6 +258,8 @@
 - [ ] [<code>build: Fetch version correctly for snap</code>](https://github.com/krille-chan/fluffychat/commit/458dfa6e3e93912c78c49eb5d9247bccb42f3296)
 - [ ] [<code>chore: Remove unused workflow</code>](https://github.com/krille-chan/fluffychat/commit/e2c12fb58f4c560124ff0ad13f1f7ec3a4ecd5f4)
 - [ ] [<code>build: Make ios debug job run without secrets</code>](https://github.com/krille-chan/fluffychat/commit/f094a05277b2b84afa4c1ada861549b3a56c8e02)
+- [ ] [<code>fix: Delete database correctly after corruption</code>](https://github.com/krille-chan/fluffychat/commit/9e416eefa1fe084b815d8c5ee399aaf24fb5d926)
+- [ ] [<code>fix: Open database crashes on start</code>](https://github.com/krille-chan/fluffychat/commit/a37810c0611bc07e14ae1d20852c33eddf41f686)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.0.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.0.0...HEAD)
 
@@ -298,6 +300,8 @@
 - [ ] [<code>build: Fetch version correctly for snap</code>](https://github.com/krille-chan/fluffychat/commit/458dfa6e3e93912c78c49eb5d9247bccb42f3296)
 - [ ] [<code>chore: Remove unused workflow</code>](https://github.com/krille-chan/fluffychat/commit/e2c12fb58f4c560124ff0ad13f1f7ec3a4ecd5f4)
 - [ ] [<code>build: Make ios debug job run without secrets</code>](https://github.com/krille-chan/fluffychat/commit/f094a05277b2b84afa4c1ada861549b3a56c8e02)
+- [ ] [<code>fix: Delete database correctly after corruption</code>](https://github.com/krille-chan/fluffychat/commit/9e416eefa1fe084b815d8c5ee399aaf24fb5d926)
+- [ ] [<code>fix: Open database crashes on start</code>](https://github.com/krille-chan/fluffychat/commit/a37810c0611bc07e14ae1d20852c33eddf41f686)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4482,6 +4486,8 @@
 - [ ] [<code>Escape < character in plaintext (#20699)</code>](https://github.com/netdata/netdata.git/commit/e3616806774f1867615858b89f55434417ec2bf5)
 - [ ] [<code>Update UPDATE.md (#20701)</code>](https://github.com/netdata/netdata.git/commit/15f9cf587ae82d35b6a95f61f455b11f312fa473)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-7-nightly.</code>](https://github.com/netdata/netdata.git/commit/91319c577cb525c6f291b6af8f5e4d37cbca615f)
+- [ ] [<code>fix(nvme)!: query controller instead of namespace for SMART metrics (#20704)</code>](https://github.com/netdata/netdata.git/commit/5567a24b5d6c5385282522b54c71e6547a0e34e1)
+- [ ] [<code>Ensure chat exists before handling message input (#20700)</code>](https://github.com/netdata/netdata.git/commit/d07161a0b2707716dcf79c7f9ae0d108f1a6747e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
