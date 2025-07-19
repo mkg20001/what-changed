@@ -380,6 +380,8 @@
 - [ ] [<code>incusd/dev_incus: Add extra validation for monitor</code>](https://github.com/lxc/incus/commit/25cc63ece8f74ef2c7f9a445d544338b91340af7)
 - [ ] [<code>incusd/images: Restrict public image listing to default project</code>](https://github.com/lxc/incus/commit/5cb0fb9e7463e9d7fd31e4c435e068de3d3dadc6)
 - [ ] [<code>incusd/images: Use identical errors for all not-found cases on public endpoints</code>](https://github.com/lxc/incus/commit/8d817f1a4ceea0599301f3240ade070b0fd5d86c)
+- [ ] [<code>internal/util: Add recursion limit to RenderTemplate</code>](https://github.com/lxc/incus/commit/7e1186ab368257c0bdeb0465c9c693596f04e12f)
+- [ ] [<code>internal/util: Tweak common pongo2 parser to block dangerous functions</code>](https://github.com/lxc/incus/commit/630d850d40bf25428b36860cd87728f34191bca9)
 - [ ] [<code>incus/list: Fix validation of 'L' shorthand column</code>](https://github.com/lxc/incus/commit/1fff36a31d009165b09ceec8827549826d2a035e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.4 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.4...HEAD)
@@ -3729,6 +3731,8 @@
 - [ ] [<code>incusd/dev_incus: Add extra validation for monitor</code>](https://github.com/lxc/incus/commit/25cc63ece8f74ef2c7f9a445d544338b91340af7)
 - [ ] [<code>incusd/images: Restrict public image listing to default project</code>](https://github.com/lxc/incus/commit/5cb0fb9e7463e9d7fd31e4c435e068de3d3dadc6)
 - [ ] [<code>incusd/images: Use identical errors for all not-found cases on public endpoints</code>](https://github.com/lxc/incus/commit/8d817f1a4ceea0599301f3240ade070b0fd5d86c)
+- [ ] [<code>internal/util: Add recursion limit to RenderTemplate</code>](https://github.com/lxc/incus/commit/7e1186ab368257c0bdeb0465c9c693596f04e12f)
+- [ ] [<code>internal/util: Tweak common pongo2 parser to block dangerous functions</code>](https://github.com/lxc/incus/commit/630d850d40bf25428b36860cd87728f34191bca9)
 - [ ] [<code>incus/list: Fix validation of 'L' shorthand column</code>](https://github.com/lxc/incus/commit/1fff36a31d009165b09ceec8827549826d2a035e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.0...HEAD)
