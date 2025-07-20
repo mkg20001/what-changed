@@ -4488,6 +4488,9 @@
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-7-nightly.</code>](https://github.com/netdata/netdata.git/commit/91319c577cb525c6f291b6af8f5e4d37cbca615f)
 - [ ] [<code>fix(nvme)!: query controller instead of namespace for SMART metrics (#20704)</code>](https://github.com/netdata/netdata.git/commit/5567a24b5d6c5385282522b54c71e6547a0e34e1)
 - [ ] [<code>Ensure chat exists before handling message input (#20700)</code>](https://github.com/netdata/netdata.git/commit/d07161a0b2707716dcf79c7f9ae0d108f1a6747e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/f80f84e076d3db4fd7d64e8f5e23363ebed4eeba)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.33.2 to 0.33.3 in /src/go (#20705)</code>](https://github.com/netdata/netdata.git/commit/1b6c1d4ada409bf9afc67e91153bb596b694659c)
+- [ ] [<code>build(deps): bump github.com/gosnmp/gosnmp from 1.41.0 to 1.42.0 in /src/go (#20707)</code>](https://github.com/netdata/netdata.git/commit/0ee66612c4e1461499955c2bc472faf7af9f3be5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6091,6 +6094,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): race condition when changing settings right after connecting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/85e7d038340b2baee48015513e462571134e4c67)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove Arc in SettingsManager</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5e8e8ac10bbf2c05cb9f5e50b0d6d38e9e2c5ff1)
+- [ ] [<code>fix(lib): a3959: make use of ReadOnly error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1de8de02162194165fea700760a01e187a2f17ee)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
