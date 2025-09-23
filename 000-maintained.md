@@ -4730,6 +4730,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(docs): update mermaid diagrams leftovers plus syntax issues (#21034)</code>](https://github.com/netdata/netdata.git/commit/4bdf00e2245f60eff2dfc55ac09bc1e46518d69c)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-323-nightly.</code>](https://github.com/netdata/netdata.git/commit/1df2aa91f93fd97b48a6f17e41f4249e97ef4254)
+- [ ] [<code>improve(go.d/ddsnmp): switch profile matching to `selector` (#21039)</code>](https://github.com/netdata/netdata.git/commit/c167206e8dd5474c2fc1e58a93c28e08e889e385)
+- [ ] [<code>chore(go.d/ddsnmp): Improve profile sorting by match specificity (#21042)</code>](https://github.com/netdata/netdata.git/commit/6591c20b5518b77d82dc0315e24e3f2a8ce0d7cf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
