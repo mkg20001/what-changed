@@ -43,7 +43,12 @@ def main():
             wc_printer.print_trivial(i['content'], out_file)
             continue
 
-        wc_utils.clone_repo(i['url'], wc_utils.get_dirpath(work_dir, i['url']))
+        try:
+            wc_utils.clone_repo(i['url'], wc_utils.get_dirpath(work_dir, i['url']))
+        except Exception as e:
+            wc_printer.print_trivial(f"> Failed to clone {i['url']} {e}", out_file)
+            continue
+
         wc_printer.print_logs(i['kind'], work_dir, i['attr_path'], i['url'],
                               i['from_rev'], i['to_rev'], const_file, out_file)
 
