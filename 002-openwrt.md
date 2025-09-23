@@ -1,12 +1,9 @@
 
-#### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [965c4bf49658342ced0bd6e7cb069571b4a1ddff → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/965c4bf49658342ced0bd6e7cb069571b4a1ddff...HEAD)
+#### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c0df580adbd4d555ecc1962dbe88e91d75b67a4e → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c0df580adbd4d555ecc1962dbe88e91d75b67a4e...HEAD)
 
-- [ ] [<code>attr.c: fix nla_reserve size check</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/c0df580adbd4d555ecc1962dbe88e91d75b67a4e)
 
-#### [libubox](https://git.openwrt.org/project/libubox.git): [3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a → HEAD](https://git.openwrt.org/project/libubox.git/compare/3868f47c8f6c6570e62a3cdf8a7f26ffb1a67e6a...HEAD)
+#### [libubox](https://git.openwrt.org/project/libubox.git): [49056d178f42da98048a5d4c23f83a6f6bc6dd80 → HEAD](https://git.openwrt.org/project/libubox.git/compare/49056d178f42da98048a5d4c23f83a6f6bc6dd80...HEAD)
 
-- [ ] [<code>remove compatibility code for older json-c versions</code>](https://git.openwrt.org/project/libubox.git/commit/b7acc8e6fd5e13611ad90a593e98f9589af4009a)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -62,6 +59,27 @@
 - [ ] [<code>iprule: resolve ipproto by name</code>](https://git.openwrt.org/project/netifd.git/commit/d476e18e8d430ddfe3ae1809ddeea035bbb9a998)
 - [ ] [<code>netifd: iprule add sport and dport</code>](https://git.openwrt.org/project/netifd.git/commit/7901e66c5f273bceee8981bc8a0c8b0e60945f60)
 - [ ] [<code>system-dummy: add missing vrf functions</code>](https://git.openwrt.org/project/netifd.git/commit/3a7878065829683373d2ffa456f8afb361d06fb1)
+- [ ] [<code>CMakeLists.txt: bump minimum required version</code>](https://git.openwrt.org/project/netifd.git/commit/471d9d6abb6d2141ccc1c4a5a3ceb280dcb6175d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>scripts: fix dummy mode on systems where libubox is in /usr/local</code>](https://git.openwrt.org/project/netifd.git/commit/c3a0255e21501566590f32356c0e505ed795e35e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>update example mac80211 script and wireless config</code>](https://git.openwrt.org/project/netifd.git/commit/7a3b281230e4ea16b4939edcf4bdcde7e84f3b00)
+- [ ] [<code>wireless: replace with ucode scripts</code>](https://git.openwrt.org/project/netifd.git/commit/d9f2dd2614f2e85fd5219742cce9be748948d19c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>wireless: add MLO support to example scripts</code>](https://git.openwrt.org/project/netifd.git/commit/74c22601baad83cc9bc0fddb98f15d7abaa52c67)
+- [ ] [<code>ucode: add missing return code checks for fchdir/chdir</code>](https://git.openwrt.org/project/netifd.git/commit/b563d7b2e65a756e02c579f51e3ca0211f741050)
+- [ ] [<code>system-linux: add variable initialization to avoid compiler warnings on older gcc</code>](https://git.openwrt.org/project/netifd.git/commit/c3cfd8df02af6b66c7aeceb61ffc2ac948fa008a)
+- [ ] [<code>ucode: fix passing network vlan on handle_link</code>](https://git.openwrt.org/project/netifd.git/commit/964c9aa3ec2b091b5b183408e298d8742fcb9248)
+- [ ] [<code>examples: sync scripts with openwrt</code>](https://git.openwrt.org/project/netifd.git/commit/3d140ec0b834e3764e8abe9d33989b76544f8ee9)
+- [ ] [<code>ubus: fix type check in procd ubus data callback</code>](https://git.openwrt.org/project/netifd.git/commit/843a736a4e26188c9449e16efb5c62d5ab1ab59c)
+- [ ] [<code>interface: avoid memleaks on invalid interfaces</code>](https://git.openwrt.org/project/netifd.git/commit/94c3869941b0b92b9fe8c30a45848a64f78e6409)
+- [ ] [<code>global: use blobmsg_parse_attr</code>](https://git.openwrt.org/project/netifd.git/commit/6ead304877adb2b2dfb8db735ee4e6e08ccc05ba)
+- [ ] [<code>config: add support for defining devices via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/813b9882dbabc6c0231fa4ec6dd4c33157631867)
+- [ ] [<code>config: add support for defining interfaces via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/575b04326e3294f1a9dfb1f78a8676a2ffbee7f8)
+- [ ] [<code>examples: sync wireless.uc</code>](https://git.openwrt.org/project/netifd.git/commit/a0be934399cfc0149bfc7d2221467e48177426cd)
+- [ ] [<code>bridge: fix changing the vlan local flag at runtime</code>](https://git.openwrt.org/project/netifd.git/commit/8c139e183e52b0845557181e5b4677fd33d25030)
+- [ ] [<code>netifd: fix misplaced ")"</code>](https://git.openwrt.org/project/netifd.git/commit/2a85440bcd82caf66b29428145affb30388a4994)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
@@ -87,6 +105,7 @@
 - [ ] [<code>CMakeLists: add support for including ABIVERSION in the library version number</code>](https://git.openwrt.org/project/uci.git/commit/16ff0badbde7e17ec3bd1f827ffe45922956cf86)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
+- [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
@@ -112,6 +131,30 @@
 #### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
 
 - [ ] [<code>lib-ucode.c: add #define _GNU_SOURCE</code>](https://git.openwrt.org/project/udebug.git/commit/5d10084ea885b193bccd0f7da7137c1f5d766e58)
+- [ ] [<code>udebug-cli: fix terminating uloop</code>](https://git.openwrt.org/project/udebug.git/commit/a95364b41d52bb6ae087c55788dda0e9efa3ba6d)
+- [ ] [<code>ucode: use FILE handle for pcap output</code>](https://git.openwrt.org/project/udebug.git/commit/c00eb9b685a837c38bbcc979286bd44f4ffb8ec9)
+- [ ] [<code>ucode: add error reporting to pcap_write</code>](https://git.openwrt.org/project/udebug.git/commit/4265167cb6e8c647e3a45439b30009a1df7de8a5)
+- [ ] [<code>udebug-cli: stop event loop on write failure</code>](https://git.openwrt.org/project/udebug.git/commit/4a908ee731a6a8b8d48ef6138bd28dfa747f2a24)
+- [ ] [<code>ucode: use ucv_resource_create_ex for remote rings</code>](https://git.openwrt.org/project/udebug.git/commit/6e04f4187231a1b468ba257a1969a3430e146aea)
+- [ ] [<code>ucode: drop use ucv_resource_create</code>](https://git.openwrt.org/project/udebug.git/commit/c297f04e18528dacb3b539bb8c1394da93559c1e)
+- [ ] [<code>ucode: add support for specifying ring format</code>](https://git.openwrt.org/project/udebug.git/commit/f207d37a1055e2a5a453ed7dc119680cb017227b)
+- [ ] [<code>ucode: support appending array data, similar to socket.send()</code>](https://git.openwrt.org/project/udebug.git/commit/98683a94bcdd0c9201b52344aee9f4b37bcc53ef)
+- [ ] [<code>ucode: allow calling udebug.init() multiple times</code>](https://git.openwrt.org/project/udebug.git/commit/a7ecd483ed386cc478280d53cb1b948b4ed1b7ef)
+- [ ] [<code>ucode: fix allocation size of local ring meta</code>](https://git.openwrt.org/project/udebug.git/commit/d4a4c788c416ef864bb88fcafd04b4f094dba6b7)
+- [ ] [<code>ucode: add timestamp argument to foreach()</code>](https://git.openwrt.org/project/udebug.git/commit/184706abaf50d819cfc6218c769c3f99ea2628da)
+- [ ] [<code>ucode: add function for getting ring information</code>](https://git.openwrt.org/project/udebug.git/commit/8442c948c19383f374aba54c0843855ef78d0ea2)
+- [ ] [<code>ucode: add const entries for enum udebug_format</code>](https://git.openwrt.org/project/udebug.git/commit/f4958a4c591a2f5586a9c31c40fa81acedcd2d26)
+- [ ] [<code>udebug-cli: add logstream command</code>](https://git.openwrt.org/project/udebug.git/commit/14d4fec369935c93f6e01a5f791c279f20a4d75b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ucode: fix entries/size confusion</code>](https://git.openwrt.org/project/udebug.git/commit/6ed8536142bbd4360b55a423723456a6a862c99b)
+- [ ] [<code>udebugd: add support for setting an override config</code>](https://git.openwrt.org/project/udebug.git/commit/3d953628bf173d840f1f2e195b091d61abb08b7d)
+- [ ] [<code>udebug-cli: add support for overriding config on the command line</code>](https://git.openwrt.org/project/udebug.git/commit/93f6df0240e53115f488357ae83bcf0ae25422d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ucode: add ferror() call to check for closed write file descriptor</code>](https://git.openwrt.org/project/udebug.git/commit/892647b81d30fcec8d275a2c5da05b94192c095d)
+- [ ] [<code>ucode: add function for getting the number of entries in a snapshot</code>](https://git.openwrt.org/project/udebug.git/commit/6e4ffe2c66578f5d497fb3f7e377079d3507cc38)
+- [ ] [<code>ucode: add support for fetching kernel tracepoint events</code>](https://git.openwrt.org/project/udebug.git/commit/a62edd89255b1b5302abd3322421c834b1157c35)
+- [ ] [<code>udebug-cli: add support for streaming tracing data</code>](https://git.openwrt.org/project/udebug.git/commit/edeb4d6dc690acb476a47e6b11633b5632b08437)
+- [ ] [<code>udebug-cli: ignore zero-length messages in logstream</code>](https://git.openwrt.org/project/udebug.git/commit/d3be5474f6e6b75544e72c8e1a308a4a8f6102c6)
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
@@ -183,6 +226,17 @@
 - [ ] [<code>uqmid: examples: enable roaming</code>](https://git.openwrt.org/project/uqmi.git/commit/85e84ada615bcf991f9c65a11454e802c825b499)
 - [ ] [<code>uqmid: read IMEI, IMEISV, MEID (CDMA IMEI)</code>](https://git.openwrt.org/project/uqmi.git/commit/c05b3140f31b1731bb6a134b1a54441e9065f7d3)
 - [ ] [<code>uqmid: sim_fsm: implement PIN/PUK checking set by configuration</code>](https://git.openwrt.org/project/uqmi.git/commit/71f9c9435b22b1ffe4085ce2bae99fbe413ca03a)
+- [ ] [<code>uqmi: fix whitespace errors</code>](https://git.openwrt.org/project/uqmi.git/commit/a1b37fe0b859d78e4879d0777c6d4e40fad9e193)
+- [ ] [<code>uqmi: enable binding WDS sessions to QMAP multiplex</code>](https://git.openwrt.org/project/uqmi.git/commit/c20c017c6553b0cfc834051b54c7e250b90e4983)
+- [ ] [<code>wda: allow agggregation parameter configuration</code>](https://git.openwrt.org/project/uqmi.git/commit/4b908045f6ca3d30a63cd8ece9d7ea885e986fdc)
+- [ ] [<code>data: add downlink padding option</code>](https://git.openwrt.org/project/uqmi.git/commit/283fbe00c585f800e691339a28ac4b3fcd6e81ca)
+- [ ] [<code>wds: reduce code duplication</code>](https://git.openwrt.org/project/uqmi.git/commit/0756755aa10bcc564f85285a8264877a62571688)
+- [ ] [<code>wds: implement profile deletion</code>](https://git.openwrt.org/project/uqmi.git/commit/5c844c0243a628632e3e2fd1dd326113fe2c44e4)
+- [ ] [<code>wds: implement selection of default profile</code>](https://git.openwrt.org/project/uqmi.git/commit/21c4aaae8f1cfdc20ab94eab5afeaea906cf3679)
+- [ ] [<code>wds: implement selection of LTE attach PDNs</code>](https://git.openwrt.org/project/uqmi.git/commit/6be8b6ef4da6b2b0260ec6eef6cae1965df34e2c)
+- [ ] [<code>wds: implement retrieval of profile list</code>](https://git.openwrt.org/project/uqmi.git/commit/f74ddb3c98b91131a675ffc3b76dffbc5b7dbcdc)
+- [ ] [<code>wda: add option for enabling flow-control</code>](https://git.openwrt.org/project/uqmi.git/commit/7aef6458a03c81e4e8f5ac4a1c8c9c5425867f06)
+- [ ] [<code>uqmi: extend wda-get-data-format</code>](https://git.openwrt.org/project/uqmi.git/commit/7914da43cddaaf6cfba116260c81e6e9adffd5ab)
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
 
