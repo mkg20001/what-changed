@@ -131,6 +131,12 @@
 - [ ] [<code>cs_default.py: Don't import gi.repository.*</code>](https://github.com/linuxmint/cinnamon/commit/330b9ff19f33ec1e94e36048ca46011404f796b4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>placesManager.js: a new Gio.MountOperation takes no arguments.</code>](https://github.com/linuxmint/cinnamon/commit/9ed70641a1f63d2b2b44e08a84033cbf912e0c2b)
+- [ ] [<code>Modernize keyboard handling</code>](https://github.com/linuxmint/cinnamon/commit/5fd5748988a1a3a4f9fcf00236848da781dd1ddb)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>_menus.scss: fix spontaneous increase size of the pop-up menu when left-clicking on some items</code>](https://github.com/linuxmint/cinnamon/commit/eb5df875de49fc075bd5865543e88f79ae9e6514)
+- [ ] [<code>_calendar.scss: enable backlight for calendar-today-home-button</code>](https://github.com/linuxmint/cinnamon/commit/02e8ca72832982a73d9850d201013199c00b00cc)
+- [ ] [<code>Add gir.1.2-graphene-1.0 to depends.</code>](https://github.com/linuxmint/cinnamon/commit/023bdb09a21d7024195a58ccd283bd6e3c725da1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/6.4.2...HEAD)
@@ -293,6 +299,7 @@
 - [ ] [<code>[Xwayland] Check for listenfd option (#743)</code>](https://github.com/linuxmint/muffin/commit/1220bb4f0b23568a2dc01e6b4a45923eda19a0a9)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Revert "x11 backend: Don't let muffin reset the keyboard layout any time" (#719)</code>](https://github.com/linuxmint/muffin/commit/add0f97604b87cc3e0091224c41677c131e70a61)
+- [ ] [<code>meta-xwayland.c: Fix rebase error.</code>](https://github.com/linuxmint/muffin/commit/f902ccbd8970b195192477e5c1f55f8d8b08e253)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
