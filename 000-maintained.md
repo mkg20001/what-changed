@@ -430,6 +430,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
 - [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Re-enable vsock on Windows</code>](https://github.com/lxc/incus/commit/88916ca7d72fb608cda3c3da2e97e3d762238144)
+- [ ] [<code>shared/idmap: Skip xattrs on EINVAL</code>](https://github.com/lxc/incus/commit/f0e60843f0e5c159631cd1bc89ae343f1e02560a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4080,6 +4082,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
 - [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Re-enable vsock on Windows</code>](https://github.com/lxc/incus/commit/88916ca7d72fb608cda3c3da2e97e3d762238144)
+- [ ] [<code>shared/idmap: Skip xattrs on EINVAL</code>](https://github.com/lxc/incus/commit/f0e60843f0e5c159631cd1bc89ae343f1e02560a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
 
@@ -4739,6 +4743,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(go.d/ddsnmp): switch profile matching to `selector` (#21039)</code>](https://github.com/netdata/netdata.git/commit/c167206e8dd5474c2fc1e58a93c28e08e889e385)
 - [ ] [<code>chore(go.d/ddsnmp): Improve profile sorting by match specificity (#21042)</code>](https://github.com/netdata/netdata.git/commit/6591c20b5518b77d82dc0315e24e3f2a8ce0d7cf)
 - [ ] [<code>Context loading priority to vnodes (#21040)</code>](https://github.com/netdata/netdata.git/commit/fdedec476e1be1bbe6b0be6126a033810f23b6f6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-327-nightly.</code>](https://github.com/netdata/netdata.git/commit/1386a8cfcdc200b484aab5c78546ad670215d858)
+- [ ] [<code>Add documentation on using custom CA certificates to Learn (#21041)</code>](https://github.com/netdata/netdata.git/commit/5643c349dbf29d6c085501e67e152af6b822c731)
+- [ ] [<code>Revert "ml: implement fixed time-based training windows (#20638)" (#21045)</code>](https://github.com/netdata/netdata.git/commit/e4d44b5df954c7c3651372abf032c00915a721b2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6568,6 +6575,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: fix appstream metadata validation errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d9d614f969fe5f2ca86ab19ca2578f1db2560348)
 - [ ] [<code>fix(lib): a3959 SetMultiButtonConfiguration command doesn't exist</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe1facf5c8d8ef3c3e78c90f6fc3100a2bf12a51)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): device dropped early, leading to blocking infinite loop</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb39a82d0b8d79a669ce798732b24785e42def41)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
