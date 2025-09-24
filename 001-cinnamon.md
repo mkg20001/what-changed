@@ -7,7 +7,7 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [6.4.12 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.12...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/6.4.13...HEAD)
 
 - [ ] [<code>Move sass compilation to its own custom target so it shows up in the build log. Support both pysassc and sassc. (#12588)</code>](https://github.com/linuxmint/cinnamon/commit/5ea12033bf6923f56af32d3a55c5ae5144cff649)
   - <sub>Files: <code>meson.build</code></sub>
