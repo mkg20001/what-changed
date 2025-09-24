@@ -427,6 +427,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/db: Add UpdateStoragePoolConfig</code>](https://github.com/lxc/incus/commit/1ac76aa24ee016992685bb1b5bfe683c47a5a66c)
 - [ ] [<code>incusd/storage/drivers: Add SameSource field to Info struct</code>](https://github.com/lxc/incus/commit/809908af93d685538f6a3d49f9e394b4c450236a)
 - [ ] [<code>incusd: Update configs of all members when SameSource is true</code>](https://github.com/lxc/incus/commit/68d36d697831422427599b41d7d817640d4024c3)
+- [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
+- [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4074,6 +4077,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/db: Add UpdateStoragePoolConfig</code>](https://github.com/lxc/incus/commit/1ac76aa24ee016992685bb1b5bfe683c47a5a66c)
 - [ ] [<code>incusd/storage/drivers: Add SameSource field to Info struct</code>](https://github.com/lxc/incus/commit/809908af93d685538f6a3d49f9e394b4c450236a)
 - [ ] [<code>incusd: Update configs of all members when SameSource is true</code>](https://github.com/lxc/incus/commit/68d36d697831422427599b41d7d817640d4024c3)
+- [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
+- [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
 
@@ -4732,6 +4738,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-323-nightly.</code>](https://github.com/netdata/netdata.git/commit/1df2aa91f93fd97b48a6f17e41f4249e97ef4254)
 - [ ] [<code>improve(go.d/ddsnmp): switch profile matching to `selector` (#21039)</code>](https://github.com/netdata/netdata.git/commit/c167206e8dd5474c2fc1e58a93c28e08e889e385)
 - [ ] [<code>chore(go.d/ddsnmp): Improve profile sorting by match specificity (#21042)</code>](https://github.com/netdata/netdata.git/commit/6591c20b5518b77d82dc0315e24e3f2a8ce0d7cf)
+- [ ] [<code>Context loading priority to vnodes (#21040)</code>](https://github.com/netdata/netdata.git/commit/fdedec476e1be1bbe6b0be6126a033810f23b6f6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6589,6 +6596,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Automated version increment</code>](https://github.com/tribler/py-ipv8/commit/6ec3fb352b5757a4b7ab407d497fef926631a2df)
 - [ ] [<code>Merge pull request #1349 from qstokkink/automated_version_update</code>](https://github.com/tribler/py-ipv8/commit/c9da48a7b6b0cd2fe0a99fb284900d19aed91904)
   - <sub>Tags: <code>3.1</code></sub>
+- [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
