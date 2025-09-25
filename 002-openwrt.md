@@ -1,8 +1,6 @@
-> Failed to clone https://git.openwrt.org/project/libnl-tiny.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/libnl-tiny.git /home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git'...
-fatal: unable to access 'https://git.openwrt.org/project/libnl-tiny.git/': The requested URL returned error: 503
-'
+
+#### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c0df580adbd4d555ecc1962dbe88e91d75b67a4e → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c0df580adbd4d555ecc1962dbe88e91d75b67a4e...HEAD)
+
 > Failed to clone https://git.openwrt.org/project/libubox.git Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://git.openwrt.org/project/libubox.git /home/runner/work/what-changed/what-changed/src/../work/libubox.git
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libubox.git'...
@@ -11,13 +9,25 @@ fatal: unable to access 'https://git.openwrt.org/project/libubox.git/': The requ
 > Failed to clone https://git.openwrt.org/project/netifd.git Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://git.openwrt.org/project/netifd.git /home/runner/work/what-changed/what-changed/src/../work/netifd.git
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/netifd.git'...
-fatal: unable to access 'https://git.openwrt.org/project/netifd.git/': The requested URL returned error: 503
+POST git-upload-pack (533 bytes)
+error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
+fatal: the remote end hung up unexpectedly
 '
-> Failed to clone https://git.openwrt.org/project/ubus.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/ubus.git /home/runner/work/what-changed/what-changed/src/../work/ubus.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ubus.git'...
-fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': The requested URL returned error: 503
-'
+
+#### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
+
+- [ ] [<code>libubus: Make UBUS_* macros work cleanly in C++</code>](https://git.openwrt.org/project/ubus.git/commit/252a9b0c1774790fb9c25735d5a09c27dba895db)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>libubus: close file descriptor after sending it from a request</code>](https://git.openwrt.org/project/ubus.git/commit/d996988ae55b6af12e4611fdd758a2f0ad27a9a1)
+- [ ] [<code>libubus: add support for using channels</code>](https://git.openwrt.org/project/ubus.git/commit/afa57cce0aff82f4a7a0e509d4387ebc23dd3be7)
+- [ ] [<code>libubus: flush all pending requests on connection loss</code>](https://git.openwrt.org/project/ubus.git/commit/88e6325092bf1d1cfa877cd220670fa7cc2fad03)
+- [ ] [<code>ubusd: make txq_len field signed</code>](https://git.openwrt.org/project/ubus.git/commit/27839f854a58d9dbc85efa1b5cd79f253880c701)
+- [ ] [<code>ubusd: treat EACCES on write like EAGAIN</code>](https://git.openwrt.org/project/ubus.git/commit/b35b2bc63e8e2ca92436fa601c68692242386246)
+- [ ] [<code>ubusd: retry write on EINTR</code>](https://git.openwrt.org/project/ubus.git/commit/713e9d19b2b6ac1ca9720492d80d620bb9b944d5)
+- [ ] [<code>ubusd: fix txq_len accounting</code>](https://git.openwrt.org/project/ubus.git/commit/8bb523ab20e06f686a07c5f82e8f8534d4228b9f)
+- [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
+- [ ] [<code>ubusd: do not call socket callback from ubus_msg_send</code>](https://git.openwrt.org/project/ubus.git/commit/5952b48e251c0ea76dfce97f129da6f18d889eda)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
@@ -29,18 +39,55 @@ fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': The request
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
 - [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
-> Failed to clone https://git.openwrt.org/project/uclient.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/uclient.git /home/runner/work/what-changed/what-changed/src/../work/uclient.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uclient.git'...
-fatal: unable to access 'https://git.openwrt.org/project/uclient.git/': The requested URL returned error: 503
-'
-> Failed to clone https://git.openwrt.org/project/udebug.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/udebug.git /home/runner/work/what-changed/what-changed/src/../work/udebug.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/udebug.git'...
-POST git-upload-pack (183 bytes)
-error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
-fatal: the remote end hung up unexpectedly
-'
+
+#### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
+
+- [ ] [<code>add strdupa macro for compatibility</code>](https://git.openwrt.org/project/uclient.git/commit/e209a4ced1d80e8a4ac4290a6ade9d339eab1705)
+- [ ] [<code>uclient: add helper function for getting ustream-ssl context/ops</code>](https://git.openwrt.org/project/uclient.git/commit/af1962b9a60930cd1f24eff2854bceaa2a6c964d)
+- [ ] [<code>http: add helper function for checking redirect status</code>](https://git.openwrt.org/project/uclient.git/commit/488f1d52cfd2fcca8e0f3785311c247d13cb0170)
+- [ ] [<code>uclient: defer read notifications to uloop timer</code>](https://git.openwrt.org/project/uclient.git/commit/b6e5548a3ecc562db4c8d5356bdfd9a3fa5e59f8)
+- [ ] [<code>http: call ustream_poll if not enough read data is available</code>](https://git.openwrt.org/project/uclient.git/commit/352fb3eeb40846d576e942ed2674fde052b2d81c)
+- [ ] [<code>add ucode binding</code>](https://git.openwrt.org/project/uclient.git/commit/e611e6d0ff0ba31070abacdb53037d3e9a4115a6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>uclient: add function for getting the amount of pending read/write data</code>](https://git.openwrt.org/project/uclient.git/commit/ddb18d2657578bb39ffad4795cedee215f9b36b0)
+- [ ] [<code>ucode: fix a few ucode binding issues</code>](https://git.openwrt.org/project/uclient.git/commit/980220ad17622456be141fb66a00e2b776a58749)
+- [ ] [<code>ucode: add support for using a prototype for cb, pass it to callbacks</code>](https://git.openwrt.org/project/uclient.git/commit/6c16331e4bf542fbb538d62a6b5bf3d286ecbf2c)
+- [ ] [<code>lib: add log_msg callback to get more detailed log messages</code>](https://git.openwrt.org/project/uclient.git/commit/c2bf660d88ece757ebc4889ef30ec2fa11fb1e9e)
+- [ ] [<code>uclient-fetch: add uclient / ustream-ssl log messages (enabled via -v)</code>](https://git.openwrt.org/project/uclient.git/commit/9adb4ca5219dc73b1440de871e871cc5a12323bd)
+- [ ] [<code>uclient-http: use ustream_ssl without ustream_fd</code>](https://git.openwrt.org/project/uclient.git/commit/704c78111a92873474eca3c91ad91c555b03f607)
+- [ ] [<code>uclient: fix http regression</code>](https://git.openwrt.org/project/uclient.git/commit/e8780fa7792aaa2d68af21c0df91cd9c05e1f73a)
+- [ ] [<code>uclient-fetch: improve error handling</code>](https://git.openwrt.org/project/uclient.git/commit/e035d57686645bc18ae6ded2ffb18d40b158e900)
+- [ ] [<code>uclient-fetch: add support for --header cmdline argument</code>](https://git.openwrt.org/project/uclient.git/commit/a220818a1435cfa2b153aa36e6b9c543546fd9b8)
+- [ ] [<code>uclient-http: fix a typo</code>](https://git.openwrt.org/project/uclient.git/commit/88ae8f208dd313f69e268234f7db55956aef1cb9)
+
+#### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
+
+- [ ] [<code>lib-ucode.c: add #define _GNU_SOURCE</code>](https://git.openwrt.org/project/udebug.git/commit/5d10084ea885b193bccd0f7da7137c1f5d766e58)
+- [ ] [<code>udebug-cli: fix terminating uloop</code>](https://git.openwrt.org/project/udebug.git/commit/a95364b41d52bb6ae087c55788dda0e9efa3ba6d)
+- [ ] [<code>ucode: use FILE handle for pcap output</code>](https://git.openwrt.org/project/udebug.git/commit/c00eb9b685a837c38bbcc979286bd44f4ffb8ec9)
+- [ ] [<code>ucode: add error reporting to pcap_write</code>](https://git.openwrt.org/project/udebug.git/commit/4265167cb6e8c647e3a45439b30009a1df7de8a5)
+- [ ] [<code>udebug-cli: stop event loop on write failure</code>](https://git.openwrt.org/project/udebug.git/commit/4a908ee731a6a8b8d48ef6138bd28dfa747f2a24)
+- [ ] [<code>ucode: use ucv_resource_create_ex for remote rings</code>](https://git.openwrt.org/project/udebug.git/commit/6e04f4187231a1b468ba257a1969a3430e146aea)
+- [ ] [<code>ucode: drop use ucv_resource_create</code>](https://git.openwrt.org/project/udebug.git/commit/c297f04e18528dacb3b539bb8c1394da93559c1e)
+- [ ] [<code>ucode: add support for specifying ring format</code>](https://git.openwrt.org/project/udebug.git/commit/f207d37a1055e2a5a453ed7dc119680cb017227b)
+- [ ] [<code>ucode: support appending array data, similar to socket.send()</code>](https://git.openwrt.org/project/udebug.git/commit/98683a94bcdd0c9201b52344aee9f4b37bcc53ef)
+- [ ] [<code>ucode: allow calling udebug.init() multiple times</code>](https://git.openwrt.org/project/udebug.git/commit/a7ecd483ed386cc478280d53cb1b948b4ed1b7ef)
+- [ ] [<code>ucode: fix allocation size of local ring meta</code>](https://git.openwrt.org/project/udebug.git/commit/d4a4c788c416ef864bb88fcafd04b4f094dba6b7)
+- [ ] [<code>ucode: add timestamp argument to foreach()</code>](https://git.openwrt.org/project/udebug.git/commit/184706abaf50d819cfc6218c769c3f99ea2628da)
+- [ ] [<code>ucode: add function for getting ring information</code>](https://git.openwrt.org/project/udebug.git/commit/8442c948c19383f374aba54c0843855ef78d0ea2)
+- [ ] [<code>ucode: add const entries for enum udebug_format</code>](https://git.openwrt.org/project/udebug.git/commit/f4958a4c591a2f5586a9c31c40fa81acedcd2d26)
+- [ ] [<code>udebug-cli: add logstream command</code>](https://git.openwrt.org/project/udebug.git/commit/14d4fec369935c93f6e01a5f791c279f20a4d75b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ucode: fix entries/size confusion</code>](https://git.openwrt.org/project/udebug.git/commit/6ed8536142bbd4360b55a423723456a6a862c99b)
+- [ ] [<code>udebugd: add support for setting an override config</code>](https://git.openwrt.org/project/udebug.git/commit/3d953628bf173d840f1f2e195b091d61abb08b7d)
+- [ ] [<code>udebug-cli: add support for overriding config on the command line</code>](https://git.openwrt.org/project/udebug.git/commit/93f6df0240e53115f488357ae83bcf0ae25422d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ucode: add ferror() call to check for closed write file descriptor</code>](https://git.openwrt.org/project/udebug.git/commit/892647b81d30fcec8d275a2c5da05b94192c095d)
+- [ ] [<code>ucode: add function for getting the number of entries in a snapshot</code>](https://git.openwrt.org/project/udebug.git/commit/6e4ffe2c66578f5d497fb3f7e377079d3507cc38)
+- [ ] [<code>ucode: add support for fetching kernel tracepoint events</code>](https://git.openwrt.org/project/udebug.git/commit/a62edd89255b1b5302abd3322421c834b1157c35)
+- [ ] [<code>udebug-cli: add support for streaming tracing data</code>](https://git.openwrt.org/project/udebug.git/commit/edeb4d6dc690acb476a47e6b11633b5632b08437)
+- [ ] [<code>udebug-cli: ignore zero-length messages in logstream</code>](https://git.openwrt.org/project/udebug.git/commit/d3be5474f6e6b75544e72c8e1a308a4a8f6102c6)
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
@@ -123,10 +170,18 @@ fatal: the remote end hung up unexpectedly
 - [ ] [<code>wds: implement retrieval of profile list</code>](https://git.openwrt.org/project/uqmi.git/commit/f74ddb3c98b91131a675ffc3b76dffbc5b7dbcdc)
 - [ ] [<code>wda: add option for enabling flow-control</code>](https://git.openwrt.org/project/uqmi.git/commit/7aef6458a03c81e4e8f5ac4a1c8c9c5425867f06)
 - [ ] [<code>uqmi: extend wda-get-data-format</code>](https://git.openwrt.org/project/uqmi.git/commit/7914da43cddaaf6cfba116260c81e6e9adffd5ab)
-> Failed to clone https://git.openwrt.org/project/ustream-ssl.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/ustream-ssl.git /home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git'...
-POST git-upload-pack (233 bytes)
-error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
-fatal: the remote end hung up unexpectedly
-'
+
+#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
+
+- [ ] [<code>ustream-mbedtls: add missing psa_crypto_init call</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/268050964b088a6000cca750e92dc6b5f54bbe7f)
+- [ ] [<code>add callbacks for debug messages</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/956fba242ac0a4bcfe3db103d4d1f41545c924fb)
+- [ ] [<code>mbedtls: add TLS 1.3 ciphers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/9fdf3fb87af55bd295bccd109a36b4b936033126)
+- [ ] [<code>mbedtls: disable TLS 1.3 in client mode when skipping verification</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/28c4c1e6471b6bf5a2e5dd1842c8d1be5d9478e9)
+- [ ] [<code>mbedtls: add missing ifdef for build with disabled debug</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/d61493a4420417cbf9931ffee8c862faf04f2967)
+- [ ] [<code>mbedtls: handle session tickets for TLS 1.3</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/60d8fbb5e669db4b85f0ccd9b86744a8355eb2d9)
+- [ ] [<code>mbedtls: add ifdefs to fix legacy compatibility</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/ac42af7981ae0a49e745a4b0b2b0961070550ac3)
+- [ ] [<code>mbedtls: another cosmetic ifdef fix</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/af7c3532ad499bc97f568087a57ac0f4fe6f56e1)
+- [ ] [<code>ustream-ssl: poll connection on incomplete reads</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/f9a28a9ce86473d934693fe59dcbe344ffbc695e)
+- [ ] [<code>ustream-ssl: increase number of read buffers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/3c49e70c462249c174062e8181d191c859c5e41b)
+- [ ] [<code>ustream-ssl: add support for using a fd instead of ustream as backing</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/524a76e5af78fa577c46e0d24bdedd4254e07cd4)
+- [ ] [<code>ustream-openssl: fix compilation with OPENSSL_NO_DEPRECATED</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99bd3d2b167ccdffb6de072d02c380cb37b23e33)
