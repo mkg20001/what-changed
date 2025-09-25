@@ -213,6 +213,11 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/1a1000dd1b4cc5349b8e758642d92bf637beb1d4)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/f50015e6e90cdc7dc4bc007a88928f63fa85698e)
 - [ ] [<code>build: bump rexml in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/4829a2cfa336601b859bfdebee1a267faf54dd4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/e079346424053b3af9b817e252cc88b4b61eebbd)
+- [ ] [<code>build: (deps): bump go_router from 16.2.2 to 16.2.4</code>](https://github.com/krille-chan/fluffychat/commit/ed971538b732d7517ec8564a04e93c962f09b53a)
+- [ ] [<code>feat: Display progress on redact events and clear archive dialogs</code>](https://github.com/krille-chan/fluffychat/commit/69bbfa5389f57ad1c500bb52cfee0f90f04fa670)
+- [ ] [<code>chore: Adjust chat details button design</code>](https://github.com/krille-chan/fluffychat/commit/32c61909cc3f6e49d76fb59d9f4bd5bee7b35fbf)
+- [ ] [<code>build: Update macos build files</code>](https://github.com/krille-chan/fluffychat/commit/adc17d63aabddcf6bb70d1be61b4c91e421c4a5d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -328,6 +333,11 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/1a1000dd1b4cc5349b8e758642d92bf637beb1d4)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/f50015e6e90cdc7dc4bc007a88928f63fa85698e)
 - [ ] [<code>build: bump rexml in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/4829a2cfa336601b859bfdebee1a267faf54dd4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/e079346424053b3af9b817e252cc88b4b61eebbd)
+- [ ] [<code>build: (deps): bump go_router from 16.2.2 to 16.2.4</code>](https://github.com/krille-chan/fluffychat/commit/ed971538b732d7517ec8564a04e93c962f09b53a)
+- [ ] [<code>feat: Display progress on redact events and clear archive dialogs</code>](https://github.com/krille-chan/fluffychat/commit/69bbfa5389f57ad1c500bb52cfee0f90f04fa670)
+- [ ] [<code>chore: Adjust chat details button design</code>](https://github.com/krille-chan/fluffychat/commit/32c61909cc3f6e49d76fb59d9f4bd5bee7b35fbf)
+- [ ] [<code>build: Update macos build files</code>](https://github.com/krille-chan/fluffychat/commit/adc17d63aabddcf6bb70d1be61b4c91e421c4a5d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4755,6 +4765,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-327-nightly.</code>](https://github.com/netdata/netdata.git/commit/1386a8cfcdc200b484aab5c78546ad670215d858)
 - [ ] [<code>Add documentation on using custom CA certificates to Learn (#21041)</code>](https://github.com/netdata/netdata.git/commit/5643c349dbf29d6c085501e67e152af6b822c731)
 - [ ] [<code>Revert "ml: implement fixed time-based training windows (#20638)" (#21045)</code>](https://github.com/netdata/netdata.git/commit/e4d44b5df954c7c3651372abf032c00915a721b2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-330-nightly.</code>](https://github.com/netdata/netdata.git/commit/24e15361104d80b3e1eae3c41731c9e07fa422e1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6585,6 +6596,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): a3959 SetMultiButtonConfiguration command doesn't exist</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe1facf5c8d8ef3c3e78c90f6fc3100a2bf12a51)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): device dropped early, leading to blocking infinite loop</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb39a82d0b8d79a669ce798732b24785e42def41)
+- [ ] [<code>fix(gui): add device ui polish</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8cb1755cdc763671716f063bc4d51f23a78efd6f)
+- [ ] [<code>fix(gui): unintentional vertical padding</code>](https://github.com/Oppzippy/OpenSCQ30/commit/07a6b2a7b8e09184d128b16b670d97bd4a53434e)
+- [ ] [<code>fix(gui): equalizer line resize with window</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3543458ec87b126ccbec23a37f2fd8062261632)
+- [ ] [<code>feat(gui): add horizontal guides for interpreting eq line</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2a3437cfe413b68a7405764f530703d5792f9be7)
+- [ ] [<code>feat(gui): add connecting screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7105be2bf963d076b24e2a2130554326b207e2fd)
+- [ ] [<code>style: format docs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a5b0c150e16c2092ac2ebdddaf00757064d8270)
+- [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa566aa799a725470782736fba55512d39fa05b7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
