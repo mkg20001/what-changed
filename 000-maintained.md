@@ -432,6 +432,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/instance/qemu: Re-enable vsock on Windows</code>](https://github.com/lxc/incus/commit/88916ca7d72fb608cda3c3da2e97e3d762238144)
 - [ ] [<code>shared/idmap: Skip xattrs on EINVAL</code>](https://github.com/lxc/incus/commit/f0e60843f0e5c159631cd1bc89ae343f1e02560a)
+- [ ] [<code>Makefile: Bump minimal Go to 1.24.7 and remove pins</code>](https://github.com/lxc/incus/commit/b30371e67946b14b3506f0fd8c137facb341c56b)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/e1b4a6f68772e9e01054b69ca46f94134296c3f5)
+- [ ] [<code>Makefile: Use latest go-swagger (for Go 1.25 support)</code>](https://github.com/lxc/incus/commit/9d69f5c7f78ffb3d249864d0fc3b23809c372381)
+- [ ] [<code>Revert "github: Disable go-swagger on Go 1.25+"</code>](https://github.com/lxc/incus/commit/78752c93d027e14ce635093815ab1c0537d04ed0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4084,6 +4088,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/instance/qemu: Re-enable vsock on Windows</code>](https://github.com/lxc/incus/commit/88916ca7d72fb608cda3c3da2e97e3d762238144)
 - [ ] [<code>shared/idmap: Skip xattrs on EINVAL</code>](https://github.com/lxc/incus/commit/f0e60843f0e5c159631cd1bc89ae343f1e02560a)
+- [ ] [<code>Makefile: Bump minimal Go to 1.24.7 and remove pins</code>](https://github.com/lxc/incus/commit/b30371e67946b14b3506f0fd8c137facb341c56b)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/e1b4a6f68772e9e01054b69ca46f94134296c3f5)
+- [ ] [<code>Makefile: Use latest go-swagger (for Go 1.25 support)</code>](https://github.com/lxc/incus/commit/9d69f5c7f78ffb3d249864d0fc3b23809c372381)
+- [ ] [<code>Revert "github: Disable go-swagger on Go 1.25+"</code>](https://github.com/lxc/incus/commit/78752c93d027e14ce635093815ab1c0537d04ed0)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
 
@@ -4163,6 +4171,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>codec_avm.c: Support new chroma sample positions</code>](https://github.com/AOMediaCodec/libavif/commit/12419039606f58498178dffae235979e4ee66e28)
 - [ ] [<code>Update LocalAom.cmake to AVM research-v11.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/87911f8ee910987ee25f4b490d2bb560e48f20c4)
 - [ ] [<code>Update to libaom v3.13.1</code>](https://github.com/AOMediaCodec/libavif/commit/212344ecefeda8d36ce05738ce063332f7e23dee)
+- [ ] [<code>reformat_libyuv: use RAWToI444/RAWToJ444 if available (#2598)</code>](https://github.com/AOMediaCodec/libavif/commit/e6823beb60be9da604a7409ca36d973853c9d76a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
