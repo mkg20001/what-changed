@@ -218,6 +218,17 @@
 - [ ] [<code>feat: Display progress on redact events and clear archive dialogs</code>](https://github.com/krille-chan/fluffychat/commit/69bbfa5389f57ad1c500bb52cfee0f90f04fa670)
 - [ ] [<code>chore: Adjust chat details button design</code>](https://github.com/krille-chan/fluffychat/commit/32c61909cc3f6e49d76fb59d9f4bd5bee7b35fbf)
 - [ ] [<code>build: Update macos build files</code>](https://github.com/krille-chan/fluffychat/commit/adc17d63aabddcf6bb70d1be61b4c91e421c4a5d)
+- [ ] [<code>chore: Hide topic if empty and cannot be changed</code>](https://github.com/krille-chan/fluffychat/commit/0a23dca11e31a9ca4a0fcedc30c4b466aa15e18a)
+- [ ] [<code>chore: Move emote settings button to chat popup menu</code>](https://github.com/krille-chan/fluffychat/commit/524a63e1d619adb08a34d3a86f0378a2e5411f3d)
+- [ ] [<code>chore: Move encryption button to input row</code>](https://github.com/krille-chan/fluffychat/commit/547f34f2a8efa985fc3cf815cc8cea1041976ba9)
+- [ ] [<code>chore: Add ActionsPadding in column mode</code>](https://github.com/krille-chan/fluffychat/commit/25057408ed0390c4bd7b343a5c20d1bc8f31bcaf)
+- [ ] [<code>chore: Improve chat details icon color design</code>](https://github.com/krille-chan/fluffychat/commit/8e5613e05741e1804750207e16b15799f8d92384)
+- [ ] [<code>chore: Follow up input row design</code>](https://github.com/krille-chan/fluffychat/commit/916d66ca7bf8fd245feb4673347a7bc826205bf6)
+- [ ] [<code>chore: Follow up move encryption button</code>](https://github.com/krille-chan/fluffychat/commit/2c40e15dc789c1b0c20ba4a5c5e94ae46e9c684a)
+- [ ] [<code>chore: Add close icon to snackbar in column mode</code>](https://github.com/krille-chan/fluffychat/commit/87704700cb58305f98a7a7c132f99ecbfbc64164)
+- [ ] [<code>chore: Adjust padding for status msg list</code>](https://github.com/krille-chan/fluffychat/commit/07a26563a0c5872e2d455fd48845ee3ef4027aad)
+- [ ] [<code>chore: Adjust input bar button design</code>](https://github.com/krille-chan/fluffychat/commit/f5b9c3dd8d22965c8d56bea0935f6b1f7a8549b8)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/4482b37feb95673c69906a72e27b2fcbe37b2e38)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -338,6 +349,17 @@
 - [ ] [<code>feat: Display progress on redact events and clear archive dialogs</code>](https://github.com/krille-chan/fluffychat/commit/69bbfa5389f57ad1c500bb52cfee0f90f04fa670)
 - [ ] [<code>chore: Adjust chat details button design</code>](https://github.com/krille-chan/fluffychat/commit/32c61909cc3f6e49d76fb59d9f4bd5bee7b35fbf)
 - [ ] [<code>build: Update macos build files</code>](https://github.com/krille-chan/fluffychat/commit/adc17d63aabddcf6bb70d1be61b4c91e421c4a5d)
+- [ ] [<code>chore: Hide topic if empty and cannot be changed</code>](https://github.com/krille-chan/fluffychat/commit/0a23dca11e31a9ca4a0fcedc30c4b466aa15e18a)
+- [ ] [<code>chore: Move emote settings button to chat popup menu</code>](https://github.com/krille-chan/fluffychat/commit/524a63e1d619adb08a34d3a86f0378a2e5411f3d)
+- [ ] [<code>chore: Move encryption button to input row</code>](https://github.com/krille-chan/fluffychat/commit/547f34f2a8efa985fc3cf815cc8cea1041976ba9)
+- [ ] [<code>chore: Add ActionsPadding in column mode</code>](https://github.com/krille-chan/fluffychat/commit/25057408ed0390c4bd7b343a5c20d1bc8f31bcaf)
+- [ ] [<code>chore: Improve chat details icon color design</code>](https://github.com/krille-chan/fluffychat/commit/8e5613e05741e1804750207e16b15799f8d92384)
+- [ ] [<code>chore: Follow up input row design</code>](https://github.com/krille-chan/fluffychat/commit/916d66ca7bf8fd245feb4673347a7bc826205bf6)
+- [ ] [<code>chore: Follow up move encryption button</code>](https://github.com/krille-chan/fluffychat/commit/2c40e15dc789c1b0c20ba4a5c5e94ae46e9c684a)
+- [ ] [<code>chore: Add close icon to snackbar in column mode</code>](https://github.com/krille-chan/fluffychat/commit/87704700cb58305f98a7a7c132f99ecbfbc64164)
+- [ ] [<code>chore: Adjust padding for status msg list</code>](https://github.com/krille-chan/fluffychat/commit/07a26563a0c5872e2d455fd48845ee3ef4027aad)
+- [ ] [<code>chore: Adjust input bar button design</code>](https://github.com/krille-chan/fluffychat/commit/f5b9c3dd8d22965c8d56bea0935f6b1f7a8549b8)
+- [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/4482b37feb95673c69906a72e27b2fcbe37b2e38)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -446,6 +468,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/e1b4a6f68772e9e01054b69ca46f94134296c3f5)
 - [ ] [<code>Makefile: Use latest go-swagger (for Go 1.25 support)</code>](https://github.com/lxc/incus/commit/9d69f5c7f78ffb3d249864d0fc3b23809c372381)
 - [ ] [<code>Revert "github: Disable go-swagger on Go 1.25+"</code>](https://github.com/lxc/incus/commit/78752c93d027e14ce635093815ab1c0537d04ed0)
+- [ ] [<code>incusd/network/driver: Add support for network tunnels to OVN networks</code>](https://github.com/lxc/incus/commit/e8d4659c65ff884713904a2ebe27987cc1f2ab2e)
+- [ ] [<code>incusd/networks: Validate config keys only for ClientTypeNormal requests</code>](https://github.com/lxc/incus/commit/90ee1e1ade0b9c912b03ae4e0d9eef1c34fff904)
+- [ ] [<code>api: Add network_ovn_tunnels extension</code>](https://github.com/lxc/incus/commit/c9d973dd9b97807d55cf5f876498849fbc245c6c)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/63a7c2d0a4b45dae0796f51e1b0ab25bba810b08)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4102,6 +4128,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/e1b4a6f68772e9e01054b69ca46f94134296c3f5)
 - [ ] [<code>Makefile: Use latest go-swagger (for Go 1.25 support)</code>](https://github.com/lxc/incus/commit/9d69f5c7f78ffb3d249864d0fc3b23809c372381)
 - [ ] [<code>Revert "github: Disable go-swagger on Go 1.25+"</code>](https://github.com/lxc/incus/commit/78752c93d027e14ce635093815ab1c0537d04ed0)
+- [ ] [<code>incusd/network/driver: Add support for network tunnels to OVN networks</code>](https://github.com/lxc/incus/commit/e8d4659c65ff884713904a2ebe27987cc1f2ab2e)
+- [ ] [<code>incusd/networks: Validate config keys only for ClientTypeNormal requests</code>](https://github.com/lxc/incus/commit/90ee1e1ade0b9c912b03ae4e0d9eef1c34fff904)
+- [ ] [<code>api: Add network_ovn_tunnels extension</code>](https://github.com/lxc/incus/commit/c9d973dd9b97807d55cf5f876498849fbc245c6c)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/63a7c2d0a4b45dae0796f51e1b0ab25bba810b08)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
 
@@ -4766,6 +4796,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add documentation on using custom CA certificates to Learn (#21041)</code>](https://github.com/netdata/netdata.git/commit/5643c349dbf29d6c085501e67e152af6b822c731)
 - [ ] [<code>Revert "ml: implement fixed time-based training windows (#20638)" (#21045)</code>](https://github.com/netdata/netdata.git/commit/e4d44b5df954c7c3651372abf032c00915a721b2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.6.0-330-nightly.</code>](https://github.com/netdata/netdata.git/commit/24e15361104d80b3e1eae3c41731c9e07fa422e1)
+- [ ] [<code>Properly integrate Rust code checks in CI. (#20862)</code>](https://github.com/netdata/netdata.git/commit/55959ece7b984bcfeff5b5a8ed13a777281f9291)
+- [ ] [<code>[ci skip] Minor release v2.7.0.</code>](https://github.com/netdata/netdata.git/commit/4ed7d239c49e56432cb99cc9ff2368abfe4c24e9)
+  - <sub>Tags: <code>v2.7.0</code></sub>
+- [ ] [<code>improve(go.d/rabbitmq): add support for old RabbitMQ whoami tags format (#21049)</code>](https://github.com/netdata/netdata.git/commit/9a87df8144fbd54e3ab99bd9db14cf2f76d648a2)
+- [ ] [<code>ai-docs (#21043)</code>](https://github.com/netdata/netdata.git/commit/cc5b8f13869151dfd8f4f90e23bb2847e4ac8d36)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
