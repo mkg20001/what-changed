@@ -472,6 +472,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/networks: Validate config keys only for ClientTypeNormal requests</code>](https://github.com/lxc/incus/commit/90ee1e1ade0b9c912b03ae4e0d9eef1c34fff904)
 - [ ] [<code>api: Add network_ovn_tunnels extension</code>](https://github.com/lxc/incus/commit/c9d973dd9b97807d55cf5f876498849fbc245c6c)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/63a7c2d0a4b45dae0796f51e1b0ab25bba810b08)
+- [ ] [<code>client/oci: Set the umoci logger on init</code>](https://github.com/lxc/incus/commit/43b02c81f1116d31841caffff077f346a85e935d)
+- [ ] [<code>incusd/instances/oci: Properly handle environment from profiles</code>](https://github.com/lxc/incus/commit/e2c3025bf651bb14f7eaf1a60db2e9456ec08fe4)
+- [ ] [<code>shared/api: Add missing YAML tag</code>](https://github.com/lxc/incus/commit/8f3918ebaeef39a1dee60545d9f27266269f2ca9)
+- [ ] [<code>api: init_preseed_cluster_groups</code>](https://github.com/lxc/incus/commit/504bc25f855811c2ae4f6e8f26a30b0f9d75b37f)
+- [ ] [<code>shared/api: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/105e72ff34c89d1d366afbf5c855a41d158775f5)
+- [ ] [<code>client: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/dc17fd1d243984b24058e2e85b0929f429979363)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/8deb911702775a4cf30e59bbec18b6d6cf3e0f98)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4132,6 +4139,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/networks: Validate config keys only for ClientTypeNormal requests</code>](https://github.com/lxc/incus/commit/90ee1e1ade0b9c912b03ae4e0d9eef1c34fff904)
 - [ ] [<code>api: Add network_ovn_tunnels extension</code>](https://github.com/lxc/incus/commit/c9d973dd9b97807d55cf5f876498849fbc245c6c)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/63a7c2d0a4b45dae0796f51e1b0ab25bba810b08)
+- [ ] [<code>client/oci: Set the umoci logger on init</code>](https://github.com/lxc/incus/commit/43b02c81f1116d31841caffff077f346a85e935d)
+- [ ] [<code>incusd/instances/oci: Properly handle environment from profiles</code>](https://github.com/lxc/incus/commit/e2c3025bf651bb14f7eaf1a60db2e9456ec08fe4)
+- [ ] [<code>shared/api: Add missing YAML tag</code>](https://github.com/lxc/incus/commit/8f3918ebaeef39a1dee60545d9f27266269f2ca9)
+- [ ] [<code>api: init_preseed_cluster_groups</code>](https://github.com/lxc/incus/commit/504bc25f855811c2ae4f6e8f26a30b0f9d75b37f)
+- [ ] [<code>shared/api: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/105e72ff34c89d1d366afbf5c855a41d158775f5)
+- [ ] [<code>client: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/dc17fd1d243984b24058e2e85b0929f429979363)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/8deb911702775a4cf30e59bbec18b6d6cf3e0f98)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
 
@@ -6639,6 +6653,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(gui): add connecting screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7105be2bf963d076b24e2a2130554326b207e2fd)
 - [ ] [<code>style: format docs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a5b0c150e16c2092ac2ebdddaf00757064d8270)
 - [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa566aa799a725470782736fba55512d39fa05b7)
+- [ ] [<code>fix(lib): incorrect equalizer band 9 and 10</code>](https://github.com/Oppzippy/OpenSCQ30/commit/da3695503128223b4291ebc699f9e985337da2ca)
+- [ ] [<code>fix(lib): a3959 should use equalizer_with_drc rather than equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2863cb8b784b9f039908cf6aae86364dd70e1c33)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gui): inconsistent ordering of legacy equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3aba9e0ccdd5db1b206f8abdecbad27114fc0165)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
