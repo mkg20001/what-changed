@@ -384,81 +384,8 @@
 fatal: could not read Username for 'https://github.com': No such device or address
 '
 
-#### [incus](https://github.com/lxc/incus): [refs/tags/v6.16.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.16.0...HEAD)
+#### [incus](https://github.com/lxc/incus): [refs/tags/v6.17.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.17.0...HEAD)
 
-- [ ] [<code>tests: Skip XFS on ZFS with Ubuntu 24.04</code>](https://github.com/lxc/incus/commit/ae533286188205d1796ddcc19db3313a62612bc2)
-- [ ] [<code>doc: Remove unnecessary backquotes around commands in TrueNAS doc</code>](https://github.com/lxc/incus/commit/5456d8e79f78dece66e71e6e85edbf868f4f82a0)
-- [ ] [<code>incusd/device/disk: Allow mounting individual files from custom volumes</code>](https://github.com/lxc/incus/commit/41eea018d5ac2dcc988b7ee421fe970d4402b371)
-- [ ] [<code>tests: Test mounting individual files from custom volumes</code>](https://github.com/lxc/incus/commit/ff25778597c47e9b5b6577366cbdac650cdb4040)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>network/incusd: Allow parent=none physical networks, bypass chassis enablement</code>](https://github.com/lxc/incus/commit/fb473d774eb963e9442873443ba77924b011dd88)
-- [ ] [<code>incusd/cluster/evacuate: Clarify error</code>](https://github.com/lxc/incus/commit/6237b5f1e438efd90404c9a83431d0bd06b75c2f)
-- [ ] [<code>doc/instance-create: Mention TLS for the agent</code>](https://github.com/lxc/incus/commit/e82f73b518c6111eac0cac77074ee17253df95ab)
-- [ ] [<code>devcontainer: Update Go to 1.24 and Debian to trixie</code>](https://github.com/lxc/incus/commit/0badd2c2f1625504f98a58968bf7abe52a0896f2)
-- [ ] [<code>incusd/db: Add 'database-client' role</code>](https://github.com/lxc/incus/commit/d9890192eb7e9bfe952d04d5f81e389b5afef535)
-- [ ] [<code>incusd/cluster: Add support for rebalancing nodes with 'database-client' role</code>](https://github.com/lxc/incus/commit/4abb80de4a5c9e930c10f6438c63b421daa47773)
-- [ ] [<code>incusd: Add logic for selecting nodes with 'database-client' role to process</code>](https://github.com/lxc/incus/commit/11e124d40f28c284538fc8e438291e52ba3346c4)
-- [ ] [<code>incusd: Allow rebalancing when there are too many voters or stand-by nodes</code>](https://github.com/lxc/incus/commit/45ae831ba62b87a69ad952844000250c1486df4d)
-- [ ] [<code>docs: Fix markdown linting issues for tables</code>](https://github.com/lxc/incus/commit/fc373479d1546cf966d1df71151a4dc14119edb1)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/cluster: Rename dqlite to cowsql in header</code>](https://github.com/lxc/incus/commit/7252688c8458baca8c9c69fd05452a6c4f9cdc87)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus: Add incus admin os command</code>](https://github.com/lxc/incus/commit/b470aa3c0e6dba3e994ce00dbcf7f14e1a55fe73)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/dd8d6bab3d64ae61c68597be89c818b56ffe54de)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd/cluster: Clarify comment for cluster rebalancing</code>](https://github.com/lxc/incus/commit/41211eb64681da7968e7b2a5bce8982450db6bc5)
-- [ ] [<code>incusd/instance_patch: Fix description field not respecting PATCH semantics</code>](https://github.com/lxc/incus/commit/b12d57d593c21c6f9e238fe1ffd31de2478f25dc)
-- [ ] [<code>client/oci: Allow OCI image names with a pinned hash</code>](https://github.com/lxc/incus/commit/a0aad161fcd41dae1dc974b176b6c274ab453333)
-- [ ] [<code>doc: Add Rocky 10 Copr Repository</code>](https://github.com/lxc/incus/commit/ad0c7fbb5fb19757db19cea97162b1e3908670b9)
-- [ ] [<code>shared/tls: Remove tls.Config.Time override</code>](https://github.com/lxc/incus/commit/a783aed5bb2bad6b2f425a32e3deff8ac5f3747c)
-- [ ] [<code>build(deps): bump actions/setup-go from 5 to 6</code>](https://github.com/lxc/incus/commit/41d660bd191be7e7ac7fc6fa77c595ee8cb45d79)
-- [ ] [<code>build(deps): bump actions/labeler from 5 to 6</code>](https://github.com/lxc/incus/commit/6a7c18d760578d40aacafb90eb8aa7e2b2fb12b5)
-- [ ] [<code>incusd/storage/lvm: Don't use pvcreate with cluster</code>](https://github.com/lxc/incus/commit/75b27abd835771328e9c87f0d7fe649e0a91a44a)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incus/admin/os: Fix list commands</code>](https://github.com/lxc/incus/commit/cd1f2aee05fab8d4adab2ee6aa55dcfe7c74673d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/admin/os: Don't require remote name in debug</code>](https://github.com/lxc/incus/commit/e075af7d4ecf9f3aff1f033ba453393a711bfa98)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incus/admin/os: Rename commands for consistency</code>](https://github.com/lxc/incus/commit/5941192c959598a485190b2e11389715cbc29798)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>doc: Update third party tool URLs</code>](https://github.com/lxc/incus/commit/ede2dcaaa275dae1cfe17f04809f132e3486c42c)
-- [ ] [<code>doc: Hashicorp web servers don't like Github Runners</code>](https://github.com/lxc/incus/commit/50a60822a545047c3affd6d74c84ba42c2b9fb59)
-- [ ] [<code>incusd/api_os: Set X-IncusOS-Proxy prefix</code>](https://github.com/lxc/incus/commit/508c137600153f089854299453860be5e66b0f30)
-- [ ] [<code>incus/export: Fail fast if target already exists</code>](https://github.com/lxc/incus/commit/d15b9e8a76e5a2b08c044e6e0625c92e62608e36)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/de7c9f6bf9a91d03fbb3fa0dd71bc1d2a1f78dae)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>tests: Cleanup backup files after use</code>](https://github.com/lxc/incus/commit/bbe722a830b25465b5a183c365abd5cfdf26f311)
-- [ ] [<code>docs: Clarify clustered storage pools</code>](https://github.com/lxc/incus/commit/3d3964d191f427767d2156088fb670f2c10f4a8a)
-- [ ] [<code>api: instance_limits_oom</code>](https://github.com/lxc/incus/commit/0372b68a1c6765db649f5db73640e6e6b732d620)
-- [ ] [<code>incusd/instance/validate: Add OOM priority validation</code>](https://github.com/lxc/incus/commit/bbc5c2a485a70b8dc33d2cdfdc064681e14b0567)
-- [ ] [<code>incusd/instance/config: Add limits.memory.oom_priority config key</code>](https://github.com/lxc/incus/commit/a434e1f8175ac36f5ec86d40a8f4a0d91a8d7079)
-- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/83aa062398f72e20317fe6eb159ed545d76bb035)
-- [ ] [<code>incusd/instance/driver_common: Add setOOMPriority shared method</code>](https://github.com/lxc/incus/commit/440c3f7b63de091c50fa6431f71466029d46ab04)
-- [ ] [<code>incusd/instance/driver_lxc: Apply OOM priority to containers</code>](https://github.com/lxc/incus/commit/946364bca9f6425f338b536e2019b03d013ac463)
-- [ ] [<code>incusd/instance/driver_qemu: Apply OOM priority to VMs</code>](https://github.com/lxc/incus/commit/8d00f3d299ae5045ff2a0d7e6005017d49b05fd9)
-- [ ] [<code>incusd/project/permissions: Forbid limits.memory.oom_priority in restricted projects</code>](https://github.com/lxc/incus/commit/346f8d796c61d2dcee6ff891aa5ac6248d3017c5)
-- [ ] [<code>api: backup_override_config</code>](https://github.com/lxc/incus/commit/7631bb682ec15cc38eefe2d933f9ab8fe7e02f1d)
-- [ ] [<code>client: Allow config/device override on backup import</code>](https://github.com/lxc/incus/commit/1aca1e8fa990200fe15f27b8e061579cfd1dbe0a)
-- [ ] [<code>incus/import: Add override config and device</code>](https://github.com/lxc/incus/commit/0d5c6029abb989dee6d3b98866f475093ab2afef)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>incusd/instances/import: Add device and config overrides</code>](https://github.com/lxc/incus/commit/e92696b252206b2e6387dc5f53605f896a2d5b2a)
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c6b6045c9d580acdf1295944692984042d0dd89f)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>po: Manual import from weblate</code>](https://github.com/lxc/incus/commit/ee61bcfafc43a7033cbba34475723e7cd80140b0)
-- [ ] [<code>internal/incusos: Introduce IncusOS API client</code>](https://github.com/lxc/incus/commit/892e573a07516ce2a3c15d8ab67940008f379473)
-- [ ] [<code>incusd/sys/os: Make use of IncusOS client</code>](https://github.com/lxc/incus/commit/a13367b680dc3eb42ebe6e68f56c262aed1772aa)
-- [ ] [<code>incusd: Update for OS struct change</code>](https://github.com/lxc/incus/commit/f27546f33c592b617977bab38e717e4fe25b386f)
-- [ ] [<code>incusd/networks: Use IncusOS API client</code>](https://github.com/lxc/incus/commit/3073f906c08e80a15a40c90cb0f8c3c4fb574d53)
-- [ ] [<code>incusd/storage: Add IncusOS service checks</code>](https://github.com/lxc/incus/commit/dc391af7d923c57d00562fbe3fd59c0c6abbdba8)
-- [ ] [<code>incusd/network: Add IncusOS service checks</code>](https://github.com/lxc/incus/commit/ce5a5e72e38cf16a6b37ec1a672b92ea814a9dbb)
-- [ ] [<code>incusd/config: Prevent unsetting core.https_address on IncusOS</code>](https://github.com/lxc/incus/commit/cdc28a1202786251e87b2891fc5ae9c10a6b0bbd)
-- [ ] [<code>incusd: Consistent spelling of IncusOS</code>](https://github.com/lxc/incus/commit/33d3041f80eccb76c4215be3d5b873f40ad7c2fa)
-- [ ] [<code>incusd/certificates: Add check for IncusOS</code>](https://github.com/lxc/incus/commit/94b57af22b3e844e55c0168f906a3d3dda227eda)
-- [ ] [<code>incusd/db: Add UpdateStoragePoolConfig</code>](https://github.com/lxc/incus/commit/1ac76aa24ee016992685bb1b5bfe683c47a5a66c)
-- [ ] [<code>incusd/storage/drivers: Add SameSource field to Info struct</code>](https://github.com/lxc/incus/commit/809908af93d685538f6a3d49f9e394b4c450236a)
-- [ ] [<code>incusd: Update configs of all members when SameSource is true</code>](https://github.com/lxc/incus/commit/68d36d697831422427599b41d7d817640d4024c3)
 - [ ] [<code>api: Add ConfigMap type to better support unmarshaling numbers and bools to map[string]string</code>](https://github.com/lxc/incus/commit/fff3f9832edba1c83fe63b9b4f91dd0b298eac7a)
 - [ ] [<code>api: Use ConfigMap type for map[string]string</code>](https://github.com/lxc/incus/commit/055396ccddcd518b97376d7ce8cfa19d35e260b4)
 - [ ] [<code>api: Handle pre initialized targed ConfigMap (default values)</code>](https://github.com/lxc/incus/commit/e78e22fb2a446efe41667c1425815257cd30ff93)
@@ -466,33 +393,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>server: Fix test with api.ConfigMap</code>](https://github.com/lxc/incus/commit/a959dccbe643ede7e8cecd7cb30f6c086613983c)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/bbfca29ca81e54847c3a9d53d45db8903b1450d4)
 - [ ] [<code>golangci-lint: Do not require period in Example comments</code>](https://github.com/lxc/incus/commit/2317e03632921ad99c8e504a1dc4c12fdd7fe41a)
-- [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
-- [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/instance/qemu: Re-enable vsock on Windows</code>](https://github.com/lxc/incus/commit/88916ca7d72fb608cda3c3da2e97e3d762238144)
-- [ ] [<code>shared/idmap: Skip xattrs on EINVAL</code>](https://github.com/lxc/incus/commit/f0e60843f0e5c159631cd1bc89ae343f1e02560a)
-- [ ] [<code>Makefile: Bump minimal Go to 1.24.7 and remove pins</code>](https://github.com/lxc/incus/commit/b30371e67946b14b3506f0fd8c137facb341c56b)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/e1b4a6f68772e9e01054b69ca46f94134296c3f5)
-- [ ] [<code>Makefile: Use latest go-swagger (for Go 1.25 support)</code>](https://github.com/lxc/incus/commit/9d69f5c7f78ffb3d249864d0fc3b23809c372381)
-- [ ] [<code>Revert "github: Disable go-swagger on Go 1.25+"</code>](https://github.com/lxc/incus/commit/78752c93d027e14ce635093815ab1c0537d04ed0)
-- [ ] [<code>incusd/network/driver: Add support for network tunnels to OVN networks</code>](https://github.com/lxc/incus/commit/e8d4659c65ff884713904a2ebe27987cc1f2ab2e)
-- [ ] [<code>incusd/networks: Validate config keys only for ClientTypeNormal requests</code>](https://github.com/lxc/incus/commit/90ee1e1ade0b9c912b03ae4e0d9eef1c34fff904)
-- [ ] [<code>api: Add network_ovn_tunnels extension</code>](https://github.com/lxc/incus/commit/c9d973dd9b97807d55cf5f876498849fbc245c6c)
-- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/63a7c2d0a4b45dae0796f51e1b0ab25bba810b08)
-- [ ] [<code>client/oci: Set the umoci logger on init</code>](https://github.com/lxc/incus/commit/43b02c81f1116d31841caffff077f346a85e935d)
-- [ ] [<code>incusd/instances/oci: Properly handle environment from profiles</code>](https://github.com/lxc/incus/commit/e2c3025bf651bb14f7eaf1a60db2e9456ec08fe4)
-- [ ] [<code>shared/api: Add missing YAML tag</code>](https://github.com/lxc/incus/commit/8f3918ebaeef39a1dee60545d9f27266269f2ca9)
-- [ ] [<code>api: init_preseed_cluster_groups</code>](https://github.com/lxc/incus/commit/504bc25f855811c2ae4f6e8f26a30b0f9d75b37f)
-- [ ] [<code>shared/api: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/105e72ff34c89d1d366afbf5c855a41d158775f5)
-- [ ] [<code>client: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/dc17fd1d243984b24058e2e85b0929f429979363)
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/8deb911702775a4cf30e59bbec18b6d6cf3e0f98)
-- [ ] [<code>client: Implement IdenticalCertificate</code>](https://github.com/lxc/incus/commit/4f1443bc81c8e1ef8d18e1cb8ba933cca96c8547)
-- [ ] [<code>incusd/cluster: Set IdenticalCertificate for intra-cluster connections</code>](https://github.com/lxc/incus/commit/09a09b5008b046013aa3269bd6258975cc1893c7)
-- [ ] [<code>incusd/cluster: Rework tlsTransport to handle cluster certificate validation</code>](https://github.com/lxc/incus/commit/47191703a0ab88320b6a7e2999d2f7ea4097562a)
-- [ ] [<code>incusd/cluster: Make use of updated tlsTransport</code>](https://github.com/lxc/incus/commit/ce4d9ceb8ec6df486d84340cccea2a04ab425d3e)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5b1946f5aa19128fe08a83163872502d05fff373)
-- [ ] [<code>Release Incus 6.17</code>](https://github.com/lxc/incus/commit/c154adc2cceff2f80c7e8e90fcceed122e32a804)
-  - <sub>Tags: <code>v6.17.0</code></sub>
+- [ ] [<code>doc: Add description for database-client role</code>](https://github.com/lxc/incus/commit/46cdcd6398960d15d8f7921b80a6dc0126c8e436)
+- [ ] [<code>incusd/network/driver: Add support for dns.mode to OVN network</code>](https://github.com/lxc/incus/commit/2296ba86d4ecc04c3cc02b1cb6f239dbf12695b8)
+- [ ] [<code>incusd/network/ovn: Destroy DNS entry in CleanupLogicalSwitchPort</code>](https://github.com/lxc/incus/commit/8883f53115ec5036a775f5fc3d67f39f5dc7d677)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1a22837b7f15ee7d352be8a6cdd8eafc5b85922d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4174,12 +4078,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5b1946f5aa19128fe08a83163872502d05fff373)
 - [ ] [<code>Release Incus 6.17</code>](https://github.com/lxc/incus/commit/c154adc2cceff2f80c7e8e90fcceed122e32a804)
   - <sub>Tags: <code>v6.17.0</code></sub>
+- [ ] [<code>doc: Add description for database-client role</code>](https://github.com/lxc/incus/commit/46cdcd6398960d15d8f7921b80a6dc0126c8e436)
+- [ ] [<code>incusd/network/driver: Add support for dns.mode to OVN network</code>](https://github.com/lxc/incus/commit/2296ba86d4ecc04c3cc02b1cb6f239dbf12695b8)
+- [ ] [<code>incusd/network/ovn: Destroy DNS entry in CleanupLogicalSwitchPort</code>](https://github.com/lxc/incus/commit/8883f53115ec5036a775f5fc3d67f39f5dc7d677)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1a22837b7f15ee7d352be8a6cdd8eafc5b85922d)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
-- [ ] [<code>Add load balancers view</code>](https://github.com/zabbly/incus-ui-canonical/commit/da0367dc1602ccb4b1061aae0f68ac316a444bb4)
-- [ ] [<code>Merge pull request #80 from presztak/load_balancers_view</code>](https://github.com/zabbly/incus-ui-canonical/commit/466be16a8a0ddc0d57bafe00b550b50059234937)
-  - <sub>Tags: <code>incus-0.18.2</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4849,6 +4754,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/7bcfcada36b6d80a1435adf6b2e4bf1fd20d1769)
 - [ ] [<code>feat(go.d/snmp): add optional ICMP ping metrics (#21052)</code>](https://github.com/netdata/netdata.git/commit/5f07bb33fdbd09ec7a4e65ce3b094fa19655bab0)
 - [ ] [<code>Regenerate integrations docs (#21053)</code>](https://github.com/netdata/netdata.git/commit/6bc75641235cbe758a42a6a29914b23af0d8d034)
+- [ ] [<code>feat(go.d/snmp): enable ping by default (#21054)</code>](https://github.com/netdata/netdata.git/commit/f76325f3f2686d0ee89767e041d62606694d93cb)
+- [ ] [<code>Regenerate integrations docs (#21055)</code>](https://github.com/netdata/netdata.git/commit/7e36aba006b748ed257d0c3754a9ed21e014917d)
+- [ ] [<code>chore(go.d/snmp): remove legacy custom oid collection (#21056)</code>](https://github.com/netdata/netdata.git/commit/2a4c7abea7042fd673bff068a7a57ea41243797b)
+- [ ] [<code>Regenerate integrations docs (#21058)</code>](https://github.com/netdata/netdata.git/commit/51d294f19f022c08dd7373fc1b05ea3d5f8d05d7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
