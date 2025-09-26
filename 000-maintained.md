@@ -459,6 +459,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/db: Add UpdateStoragePoolConfig</code>](https://github.com/lxc/incus/commit/1ac76aa24ee016992685bb1b5bfe683c47a5a66c)
 - [ ] [<code>incusd/storage/drivers: Add SameSource field to Info struct</code>](https://github.com/lxc/incus/commit/809908af93d685538f6a3d49f9e394b4c450236a)
 - [ ] [<code>incusd: Update configs of all members when SameSource is true</code>](https://github.com/lxc/incus/commit/68d36d697831422427599b41d7d817640d4024c3)
+- [ ] [<code>api: Add ConfigMap type to better support unmarshaling numbers and bools to map[string]string</code>](https://github.com/lxc/incus/commit/fff3f9832edba1c83fe63b9b4f91dd0b298eac7a)
+- [ ] [<code>api: Use ConfigMap type for map[string]string</code>](https://github.com/lxc/incus/commit/055396ccddcd518b97376d7ce8cfa19d35e260b4)
+- [ ] [<code>api: Handle pre initialized targed ConfigMap (default values)</code>](https://github.com/lxc/incus/commit/e78e22fb2a446efe41667c1425815257cd30ff93)
+- [ ] [<code>filter: Add support for api.ConfigMap</code>](https://github.com/lxc/incus/commit/7b88c9068262efb621fc2416f94f2df063c710e4)
+- [ ] [<code>server: Fix test with api.ConfigMap</code>](https://github.com/lxc/incus/commit/a959dccbe643ede7e8cecd7cb30f6c086613983c)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/bbfca29ca81e54847c3a9d53d45db8903b1450d4)
+- [ ] [<code>golangci-lint: Do not require period in Example comments</code>](https://github.com/lxc/incus/commit/2317e03632921ad99c8e504a1dc4c12fdd7fe41a)
 - [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
 - [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
   - <sub>Keywords: <code>subprocess</code></sub>
@@ -479,6 +486,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/api: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/105e72ff34c89d1d366afbf5c855a41d158775f5)
 - [ ] [<code>client: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/dc17fd1d243984b24058e2e85b0929f429979363)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/8deb911702775a4cf30e59bbec18b6d6cf3e0f98)
+- [ ] [<code>client: Implement IdenticalCertificate</code>](https://github.com/lxc/incus/commit/4f1443bc81c8e1ef8d18e1cb8ba933cca96c8547)
+- [ ] [<code>incusd/cluster: Set IdenticalCertificate for intra-cluster connections</code>](https://github.com/lxc/incus/commit/09a09b5008b046013aa3269bd6258975cc1893c7)
+- [ ] [<code>incusd/cluster: Rework tlsTransport to handle cluster certificate validation</code>](https://github.com/lxc/incus/commit/47191703a0ab88320b6a7e2999d2f7ea4097562a)
+- [ ] [<code>incusd/cluster: Make use of updated tlsTransport</code>](https://github.com/lxc/incus/commit/ce4d9ceb8ec6df486d84340cccea2a04ab425d3e)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5b1946f5aa19128fe08a83163872502d05fff373)
+- [ ] [<code>Release Incus 6.17</code>](https://github.com/lxc/incus/commit/c154adc2cceff2f80c7e8e90fcceed122e32a804)
+  - <sub>Tags: <code>v6.17.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4126,6 +4140,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/db: Add UpdateStoragePoolConfig</code>](https://github.com/lxc/incus/commit/1ac76aa24ee016992685bb1b5bfe683c47a5a66c)
 - [ ] [<code>incusd/storage/drivers: Add SameSource field to Info struct</code>](https://github.com/lxc/incus/commit/809908af93d685538f6a3d49f9e394b4c450236a)
 - [ ] [<code>incusd: Update configs of all members when SameSource is true</code>](https://github.com/lxc/incus/commit/68d36d697831422427599b41d7d817640d4024c3)
+- [ ] [<code>api: Add ConfigMap type to better support unmarshaling numbers and bools to map[string]string</code>](https://github.com/lxc/incus/commit/fff3f9832edba1c83fe63b9b4f91dd0b298eac7a)
+- [ ] [<code>api: Use ConfigMap type for map[string]string</code>](https://github.com/lxc/incus/commit/055396ccddcd518b97376d7ce8cfa19d35e260b4)
+- [ ] [<code>api: Handle pre initialized targed ConfigMap (default values)</code>](https://github.com/lxc/incus/commit/e78e22fb2a446efe41667c1425815257cd30ff93)
+- [ ] [<code>filter: Add support for api.ConfigMap</code>](https://github.com/lxc/incus/commit/7b88c9068262efb621fc2416f94f2df063c710e4)
+- [ ] [<code>server: Fix test with api.ConfigMap</code>](https://github.com/lxc/incus/commit/a959dccbe643ede7e8cecd7cb30f6c086613983c)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/bbfca29ca81e54847c3a9d53d45db8903b1450d4)
+- [ ] [<code>golangci-lint: Do not require period in Example comments</code>](https://github.com/lxc/incus/commit/2317e03632921ad99c8e504a1dc4c12fdd7fe41a)
 - [ ] [<code>incusd/storage: Fix unmount calls for ISO volumes</code>](https://github.com/lxc/incus/commit/43cf9b113284c6859aa1704fa8c21cdd291d2da7)
 - [ ] [<code>incusd/storage/lvm: Fix locking changes</code>](https://github.com/lxc/incus/commit/77a5673480bbfb99aa42a148b5c3421fc4321805)
   - <sub>Keywords: <code>subprocess</code></sub>
@@ -4146,10 +4167,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/api: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/105e72ff34c89d1d366afbf5c855a41d158775f5)
 - [ ] [<code>client: Add support for cluster group preseeding</code>](https://github.com/lxc/incus/commit/dc17fd1d243984b24058e2e85b0929f429979363)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/8deb911702775a4cf30e59bbec18b6d6cf3e0f98)
+- [ ] [<code>client: Implement IdenticalCertificate</code>](https://github.com/lxc/incus/commit/4f1443bc81c8e1ef8d18e1cb8ba933cca96c8547)
+- [ ] [<code>incusd/cluster: Set IdenticalCertificate for intra-cluster connections</code>](https://github.com/lxc/incus/commit/09a09b5008b046013aa3269bd6258975cc1893c7)
+- [ ] [<code>incusd/cluster: Rework tlsTransport to handle cluster certificate validation</code>](https://github.com/lxc/incus/commit/47191703a0ab88320b6a7e2999d2f7ea4097562a)
+- [ ] [<code>incusd/cluster: Make use of updated tlsTransport</code>](https://github.com/lxc/incus/commit/ce4d9ceb8ec6df486d84340cccea2a04ab425d3e)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/5b1946f5aa19128fe08a83163872502d05fff373)
+- [ ] [<code>Release Incus 6.17</code>](https://github.com/lxc/incus/commit/c154adc2cceff2f80c7e8e90fcceed122e32a804)
+  - <sub>Tags: <code>v6.17.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.1...HEAD)
 
 - [ ] [<code>Add load balancers view</code>](https://github.com/zabbly/incus-ui-canonical/commit/da0367dc1602ccb4b1061aae0f68ac316a444bb4)
+- [ ] [<code>Merge pull request #80 from presztak/load_balancers_view</code>](https://github.com/zabbly/incus-ui-canonical/commit/466be16a8a0ddc0d57bafe00b550b50059234937)
+  - <sub>Tags: <code>incus-0.18.2</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4816,6 +4846,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(go.d/rabbitmq): add support for old RabbitMQ whoami tags format (#21049)</code>](https://github.com/netdata/netdata.git/commit/9a87df8144fbd54e3ab99bd9db14cf2f76d648a2)
 - [ ] [<code>ai-docs (#21043)</code>](https://github.com/netdata/netdata.git/commit/cc5b8f13869151dfd8f4f90e23bb2847e4ac8d36)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/7bcfcada36b6d80a1435adf6b2e4bf1fd20d1769)
+- [ ] [<code>feat(go.d/snmp): add optional ICMP ping metrics (#21052)</code>](https://github.com/netdata/netdata.git/commit/5f07bb33fdbd09ec7a4e65ce3b094fa19655bab0)
+- [ ] [<code>Regenerate integrations docs (#21053)</code>](https://github.com/netdata/netdata.git/commit/6bc75641235cbe758a42a6a29914b23af0d8d034)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
