@@ -50,6 +50,10 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>centos: Add support for CentOS Stream 10</code>](https://github.com/lxc/distrobuilder/commit/7f7abc7e6822695115618f5a1135a9343357b6ea)
 - [ ] [<code>centos: Fix GPGKey and mirror for Centos Stream 9 onwards</code>](https://github.com/lxc/distrobuilder/commit/d8d161bdc8464c8b00c930dcbc2cb3361e1a167e)
+- [ ] [<code>windows: Add viosock driver</code>](https://github.com/lxc/distrobuilder/commit/a040931fd953d32b98a5ff5bd3e097b1a4e344a0)
+- [ ] [<code>windows: Write viosock service and lib files</code>](https://github.com/lxc/distrobuilder/commit/d0ec6640a7754548692e455e4ea926005f2add2e)
+- [ ] [<code>distrobuilder: Make linter happy</code>](https://github.com/lxc/distrobuilder/commit/608b70e6f135690dccd81d1ee688cfc525aead12)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -4758,6 +4762,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21055)</code>](https://github.com/netdata/netdata.git/commit/7e36aba006b748ed257d0c3754a9ed21e014917d)
 - [ ] [<code>chore(go.d/snmp): remove legacy custom oid collection (#21056)</code>](https://github.com/netdata/netdata.git/commit/2a4c7abea7042fd673bff068a7a57ea41243797b)
 - [ ] [<code>Regenerate integrations docs (#21058)</code>](https://github.com/netdata/netdata.git/commit/51d294f19f022c08dd7373fc1b05ea3d5f8d05d7)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/b01902bd237f8217a7a052c7461d73e9e0198e35)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6599,6 +6604,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): a3959 should use equalizer_with_drc rather than equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2863cb8b784b9f039908cf6aae86364dd70e1c33)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(gui): inconsistent ordering of legacy equalizer profiles</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3aba9e0ccdd5db1b206f8abdecbad27114fc0165)
+- [ ] [<code>docs: update desktop demo video</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e72fde4539a607b89809066d8d8815a5d079cc8d)
+- [ ] [<code>deps: remove unused static_assertions dependency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cd785ef92248999a4ffae3619360427763b3cc57)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b87b0428ce93f5b31959dcd48a25a33709f2b03c)
+- [ ] [<code>build(android): add ndk architecture filter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fd0fd6081e4a8d3cadd4eae9ae934f2665c020cf)
+- [ ] [<code>fix(lib): a3948 should use equalizer_with_drc</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5f766f3841c675dd966d9f1d680df3ea5a73eb30)
+- [ ] [<code>fix(lib): a3931 missing noise canceling mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b2e75458e3539d9c1edb7418d92c4c8c0f89a832)
+- [ ] [<code>docs: add new screenshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f66a292401d8e157ffa3356e2e03eca1e8b7a860)
+- [ ] [<code>docs(gui): update screenshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9a1dfd8a7a934dc3e97c17040828cc02a67de5f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6685,6 +6699,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Fix config file update</code>](https://github.com/axcore/tartube/commit/08427e6cd0cceb5feb34f020cfb8465e1b301d47)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve MSWin font rendering, temporary fix for undeletable temporary folders</code>](https://github.com/axcore/tartube/commit/d1cbfe699acfbc3369d3afcdc65fc4bd6a29010f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
