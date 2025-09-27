@@ -4763,6 +4763,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/snmp): remove legacy custom oid collection (#21056)</code>](https://github.com/netdata/netdata.git/commit/2a4c7abea7042fd673bff068a7a57ea41243797b)
 - [ ] [<code>Regenerate integrations docs (#21058)</code>](https://github.com/netdata/netdata.git/commit/51d294f19f022c08dd7373fc1b05ea3d5f8d05d7)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/b01902bd237f8217a7a052c7461d73e9e0198e35)
+- [ ] [<code>chore(go.d/ddsmp): profile definition cleanup (#21062)</code>](https://github.com/netdata/netdata.git/commit/c2b4ad5209571285932d811d296e962e77171b06)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6701,6 +6703,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Improve MSWin font rendering, temporary fix for undeletable temporary folders</code>](https://github.com/axcore/tartube/commit/d1cbfe699acfbc3369d3afcdc65fc4bd6a29010f)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix temporary video dls, new menu options for selected videos</code>](https://github.com/axcore/tartube/commit/77fe4e81d5b2819b333646c76fa82855bc4517f8)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
