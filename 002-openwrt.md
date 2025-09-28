@@ -155,6 +155,9 @@
 - [ ] [<code>ucode: add support for fetching kernel tracepoint events</code>](https://git.openwrt.org/project/udebug.git/commit/a62edd89255b1b5302abd3322421c834b1157c35)
 - [ ] [<code>udebug-cli: add support for streaming tracing data</code>](https://git.openwrt.org/project/udebug.git/commit/edeb4d6dc690acb476a47e6b11633b5632b08437)
 - [ ] [<code>udebug-cli: ignore zero-length messages in logstream</code>](https://git.openwrt.org/project/udebug.git/commit/d3be5474f6e6b75544e72c8e1a308a4a8f6102c6)
+- [ ] [<code>ucode: fix skipping lines where the timestamp cannot be parsed</code>](https://git.openwrt.org/project/udebug.git/commit/c79f02d899df432d5672bad0bd7f0fed055b5dae)
+- [ ] [<code>cmake: bump minimum required version to 3.13</code>](https://git.openwrt.org/project/udebug.git/commit/5327524e715332daaebf6b04c155d2880d230979)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
