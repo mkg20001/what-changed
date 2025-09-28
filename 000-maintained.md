@@ -401,6 +401,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/driver: Add support for dns.mode to OVN network</code>](https://github.com/lxc/incus/commit/2296ba86d4ecc04c3cc02b1cb6f239dbf12695b8)
 - [ ] [<code>incusd/network/ovn: Destroy DNS entry in CleanupLogicalSwitchPort</code>](https://github.com/lxc/incus/commit/8883f53115ec5036a775f5fc3d67f39f5dc7d677)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1a22837b7f15ee7d352be8a6cdd8eafc5b85922d)
+- [ ] [<code>doc: Change command to `snapshot delete`</code>](https://github.com/lxc/incus/commit/44563abae41660158ac311f570d064a7c8fde483)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4086,6 +4088,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/driver: Add support for dns.mode to OVN network</code>](https://github.com/lxc/incus/commit/2296ba86d4ecc04c3cc02b1cb6f239dbf12695b8)
 - [ ] [<code>incusd/network/ovn: Destroy DNS entry in CleanupLogicalSwitchPort</code>](https://github.com/lxc/incus/commit/8883f53115ec5036a775f5fc3d67f39f5dc7d677)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1a22837b7f15ee7d352be8a6cdd8eafc5b85922d)
+- [ ] [<code>doc: Change command to `snapshot delete`</code>](https://github.com/lxc/incus/commit/44563abae41660158ac311f570d064a7c8fde483)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -6615,6 +6619,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): a3931 missing noise canceling mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b2e75458e3539d9c1edb7418d92c4c8c0f89a832)
 - [ ] [<code>docs: add new screenshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f66a292401d8e157ffa3356e2e03eca1e8b7a860)
 - [ ] [<code>docs(gui): update screenshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9a1dfd8a7a934dc3e97c17040828cc02a67de5f)
+- [ ] [<code>feat(gui): show mac address when adding device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c6665d2b1ee14b4c729f41e63ea3770ac13e5fa6)
+- [ ] [<code>feat(android): add button to delete quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f9b301694ab4f1ac2bd539eaabbdc10d32f511d)
+- [ ] [<code>fix(android): inverted condition for showing v2 changes message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b35601f98ae7caa65ad3e4fc95fc0754df649b70)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
