@@ -233,6 +233,8 @@
 - [ ] [<code>chore: Adjust padding for status msg list</code>](https://github.com/krille-chan/fluffychat/commit/07a26563a0c5872e2d455fd48845ee3ef4027aad)
 - [ ] [<code>chore: Adjust input bar button design</code>](https://github.com/krille-chan/fluffychat/commit/f5b9c3dd8d22965c8d56bea0935f6b1f7a8549b8)
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/4482b37feb95673c69906a72e27b2fcbe37b2e38)
+- [ ] [<code>feat: Nicer record voice message UI with pause function</code>](https://github.com/krille-chan/fluffychat/commit/e86deb99c99e9b20425a5b8147300f0b6911d79b)
+- [ ] [<code>chore: Follow up send voice message</code>](https://github.com/krille-chan/fluffychat/commit/1549b47fed4d19e3d337ebbb84c8f16df12dfa50)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -364,6 +366,8 @@
 - [ ] [<code>chore: Adjust padding for status msg list</code>](https://github.com/krille-chan/fluffychat/commit/07a26563a0c5872e2d455fd48845ee3ef4027aad)
 - [ ] [<code>chore: Adjust input bar button design</code>](https://github.com/krille-chan/fluffychat/commit/f5b9c3dd8d22965c8d56bea0935f6b1f7a8549b8)
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/4482b37feb95673c69906a72e27b2fcbe37b2e38)
+- [ ] [<code>feat: Nicer record voice message UI with pause function</code>](https://github.com/krille-chan/fluffychat/commit/e86deb99c99e9b20425a5b8147300f0b6911d79b)
+- [ ] [<code>chore: Follow up send voice message</code>](https://github.com/krille-chan/fluffychat/commit/1549b47fed4d19e3d337ebbb84c8f16df12dfa50)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4769,6 +4773,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/b01902bd237f8217a7a052c7461d73e9e0198e35)
 - [ ] [<code>chore(go.d/ddsmp): profile definition cleanup (#21062)</code>](https://github.com/netdata/netdata.git/commit/c2b4ad5209571285932d811d296e962e77171b06)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(go.d/snmp): add `ping_only` option (#21064)</code>](https://github.com/netdata/netdata.git/commit/27dc6b9c5342e6f04078d55d2ad905a0ed7665f2)
+- [ ] [<code>Regenerate integrations docs (#21065)</code>](https://github.com/netdata/netdata.git/commit/7fc89561235dcf2b01f36ef1f6c949ed33bff1a2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6622,6 +6628,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(gui): show mac address when adding device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c6665d2b1ee14b4c729f41e63ea3770ac13e5fa6)
 - [ ] [<code>feat(android): add button to delete quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f9b301694ab4f1ac2bd539eaabbdc10d32f511d)
 - [ ] [<code>fix(android): inverted condition for showing v2 changes message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b35601f98ae7caa65ad3e4fc95fc0754df649b70)
+- [ ] [<code>docs: update android demo video</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a16473be23e6cb2e931165a95f1c441081f5268e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
