@@ -407,6 +407,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1a22837b7f15ee7d352be8a6cdd8eafc5b85922d)
 - [ ] [<code>doc: Change command to `snapshot delete`</code>](https://github.com/lxc/incus/commit/44563abae41660158ac311f570d064a7c8fde483)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Use 'Patch' method for PATCH requests</code>](https://github.com/lxc/incus/commit/8e4741e7d71371befd6fe57986b840fccaffcb2a)
+- [ ] [<code>internal/server: Add tables on sql dump</code>](https://github.com/lxc/incus/commit/af3db04d03744baef73cd4f39394facce85aeec7)
+- [ ] [<code>incusd: Add tables on sql dump</code>](https://github.com/lxc/incus/commit/52ce6006b8f6b9e38b1788e0dd1bea36582b55ee)
+- [ ] [<code>incus/admin/sql: Add tables on sql dump</code>](https://github.com/lxc/incus/commit/d944f9f098f5049f25346bcb25f9d4c44579a922)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ae7c73532c0f03af3251cbe33f0a80978659ecc)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4094,6 +4101,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1a22837b7f15ee7d352be8a6cdd8eafc5b85922d)
 - [ ] [<code>doc: Change command to `snapshot delete`</code>](https://github.com/lxc/incus/commit/44563abae41660158ac311f570d064a7c8fde483)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Use 'Patch' method for PATCH requests</code>](https://github.com/lxc/incus/commit/8e4741e7d71371befd6fe57986b840fccaffcb2a)
+- [ ] [<code>internal/server: Add tables on sql dump</code>](https://github.com/lxc/incus/commit/af3db04d03744baef73cd4f39394facce85aeec7)
+- [ ] [<code>incusd: Add tables on sql dump</code>](https://github.com/lxc/incus/commit/52ce6006b8f6b9e38b1788e0dd1bea36582b55ee)
+- [ ] [<code>incus/admin/sql: Add tables on sql dump</code>](https://github.com/lxc/incus/commit/d944f9f098f5049f25346bcb25f9d4c44579a922)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ae7c73532c0f03af3251cbe33f0a80978659ecc)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4776,6 +4790,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d/snmp): add `ping_only` option (#21064)</code>](https://github.com/netdata/netdata.git/commit/27dc6b9c5342e6f04078d55d2ad905a0ed7665f2)
 - [ ] [<code>Regenerate integrations docs (#21065)</code>](https://github.com/netdata/netdata.git/commit/7fc89561235dcf2b01f36ef1f6c949ed33bff1a2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-14-nightly.</code>](https://github.com/netdata/netdata.git/commit/e10a3110f00139e2e431d1ccb02b013458eca868)
+- [ ] [<code>Add helper to run external commands without additional privileges. (#20990)</code>](https://github.com/netdata/netdata.git/commit/4f34cf80eef21419387030e2d1cd3ff5c3ab1d4a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Win plugin files with .plugin extension (#21068)</code>](https://github.com/netdata/netdata.git/commit/05b2bddd80c37a8fd679dd157ec0dda79f0bdd26)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
