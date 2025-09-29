@@ -4775,6 +4775,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(go.d/snmp): add `ping_only` option (#21064)</code>](https://github.com/netdata/netdata.git/commit/27dc6b9c5342e6f04078d55d2ad905a0ed7665f2)
 - [ ] [<code>Regenerate integrations docs (#21065)</code>](https://github.com/netdata/netdata.git/commit/7fc89561235dcf2b01f36ef1f6c949ed33bff1a2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-14-nightly.</code>](https://github.com/netdata/netdata.git/commit/e10a3110f00139e2e431d1ccb02b013458eca868)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6631,6 +6632,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: update android demo video</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a16473be23e6cb2e931165a95f1c441081f5268e)
 - [ ] [<code>fix(gui): go back to device selection screen when device disconnects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2522f40485ecf7fdc536fc54d2fc3313070bdc7)
 - [ ] [<code>fix(android): go back to device selection screen when device disconnects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d056520a6254c21b85f20d86d4de4395113d63b)
+  - <sub>Tags: <code>v2.0.0-beta1</code></sub>
+- [ ] [<code>build: add sign-release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f7a94e5e102ccfe957b9b4f491a4a343e240f04)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: fix shellcheck errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5976fe1a7018d86c93f3eb85b0250426c2e8a1b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6794,6 +6799,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211: properly handle decoding numeric struct members</code>](https://github.com/jow-/ucode/commit/6b16cd37373a59c71dda3dac3cb3981b9be02426)
 - [ ] [<code>nl80211: support sending requests on listener socket</code>](https://github.com/jow-/ucode/commit/5a342b86c01062d5b543f6a238ae4c491773c3a7)
 - [ ] [<code>lib: fix `rindex()` return value when needle at the start of the haystack</code>](https://github.com/jow-/ucode/commit/cd2850eec8ca8a2f231725f3c1176ef517a564f7)
+- [ ] [<code>ubus: add connection functions to global scope</code>](https://github.com/jow-/ucode/commit/23b21eb2e8cb46e02abd6d097a07d1b43c5db1c9)
 - [ ] [<code>struct: align `X` and `Z` length & truncation semantics with `*`</code>](https://github.com/jow-/ucode/commit/a5b206f60f5d3c88136f531f595d85f2bf737894)
 - [ ] [<code>nl80211: read all pending event messages</code>](https://github.com/jow-/ucode/commit/387880348c89b5be54ddf13b9543b19266dd02ae)
 - [ ] [<code>uloop: fix potential use-after-free when destroying uloop entities</code>](https://github.com/jow-/ucode/commit/470bc3ebffe0db9bf89e1eaa030bc489c9204761)
