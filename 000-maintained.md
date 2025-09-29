@@ -6629,6 +6629,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(android): add button to delete quick presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f9b301694ab4f1ac2bd539eaabbdc10d32f511d)
 - [ ] [<code>fix(android): inverted condition for showing v2 changes message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b35601f98ae7caa65ad3e4fc95fc0754df649b70)
 - [ ] [<code>docs: update android demo video</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a16473be23e6cb2e931165a95f1c441081f5268e)
+- [ ] [<code>fix(gui): go back to device selection screen when device disconnects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2522f40485ecf7fdc536fc54d2fc3313070bdc7)
+- [ ] [<code>fix(android): go back to device selection screen when device disconnects</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d056520a6254c21b85f20d86d4de4395113d63b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
