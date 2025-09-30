@@ -235,6 +235,9 @@
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/4482b37feb95673c69906a72e27b2fcbe37b2e38)
 - [ ] [<code>feat: Nicer record voice message UI with pause function</code>](https://github.com/krille-chan/fluffychat/commit/e86deb99c99e9b20425a5b8147300f0b6911d79b)
 - [ ] [<code>chore: Follow up send voice message</code>](https://github.com/krille-chan/fluffychat/commit/1549b47fed4d19e3d337ebbb84c8f16df12dfa50)
+- [ ] [<code>build: Use correct version of vodozemac for web build</code>](https://github.com/krille-chan/fluffychat/commit/f6d502459a5b84ad14a7553dd4c267e59bf6ab98)
+- [ ] [<code>refactor: Make ChatListItem cache lasteventbody for better performance</code>](https://github.com/krille-chan/fluffychat/commit/42438052b1265794eac38957f55075d6b8cc9fbc)
+- [ ] [<code>chore: Revert "refactor: Make ChatListItem cache lasteventbody for better performance"</code>](https://github.com/krille-chan/fluffychat/commit/0be267e8a4028fa4921c31b69740c2429aaf3d30)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -368,6 +371,9 @@
 - [ ] [<code>chore: Follow up input bar design</code>](https://github.com/krille-chan/fluffychat/commit/4482b37feb95673c69906a72e27b2fcbe37b2e38)
 - [ ] [<code>feat: Nicer record voice message UI with pause function</code>](https://github.com/krille-chan/fluffychat/commit/e86deb99c99e9b20425a5b8147300f0b6911d79b)
 - [ ] [<code>chore: Follow up send voice message</code>](https://github.com/krille-chan/fluffychat/commit/1549b47fed4d19e3d337ebbb84c8f16df12dfa50)
+- [ ] [<code>build: Use correct version of vodozemac for web build</code>](https://github.com/krille-chan/fluffychat/commit/f6d502459a5b84ad14a7553dd4c267e59bf6ab98)
+- [ ] [<code>refactor: Make ChatListItem cache lasteventbody for better performance</code>](https://github.com/krille-chan/fluffychat/commit/42438052b1265794eac38957f55075d6b8cc9fbc)
+- [ ] [<code>chore: Revert "refactor: Make ChatListItem cache lasteventbody for better performance"</code>](https://github.com/krille-chan/fluffychat/commit/0be267e8a4028fa4921c31b69740c2429aaf3d30)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4794,6 +4800,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Win plugin files with .plugin extension (#21068)</code>](https://github.com/netdata/netdata.git/commit/05b2bddd80c37a8fd679dd157ec0dda79f0bdd26)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-17-nightly.</code>](https://github.com/netdata/netdata.git/commit/b6201a6b7cc61e826d62130ad9d4a0c4985ab603)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
