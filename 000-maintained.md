@@ -238,6 +238,13 @@
 - [ ] [<code>build: Use correct version of vodozemac for web build</code>](https://github.com/krille-chan/fluffychat/commit/f6d502459a5b84ad14a7553dd4c267e59bf6ab98)
 - [ ] [<code>refactor: Make ChatListItem cache lasteventbody for better performance</code>](https://github.com/krille-chan/fluffychat/commit/42438052b1265794eac38957f55075d6b8cc9fbc)
 - [ ] [<code>chore: Revert "refactor: Make ChatListItem cache lasteventbody for better performance"</code>](https://github.com/krille-chan/fluffychat/commit/0be267e8a4028fa4921c31b69740c2429aaf3d30)
+- [ ] [<code>chore: Update to matrix sdk main</code>](https://github.com/krille-chan/fluffychat/commit/2add91fc577298d68f5de4eb5736b6776d4a6d8b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Remove openssl dependency</code>](https://github.com/krille-chan/fluffychat/commit/fc4e089da9a247487f25dd7a0609a3de083cde56)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/af130815e1f065260acdf3c458b48052818a3aba)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Rename models for matrix spec 1.16</code>](https://github.com/krille-chan/fluffychat/commit/57a5e1c96f9e97950f58b995b51540c2204619ef)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -374,6 +381,13 @@
 - [ ] [<code>build: Use correct version of vodozemac for web build</code>](https://github.com/krille-chan/fluffychat/commit/f6d502459a5b84ad14a7553dd4c267e59bf6ab98)
 - [ ] [<code>refactor: Make ChatListItem cache lasteventbody for better performance</code>](https://github.com/krille-chan/fluffychat/commit/42438052b1265794eac38957f55075d6b8cc9fbc)
 - [ ] [<code>chore: Revert "refactor: Make ChatListItem cache lasteventbody for better performance"</code>](https://github.com/krille-chan/fluffychat/commit/0be267e8a4028fa4921c31b69740c2429aaf3d30)
+- [ ] [<code>chore: Update to matrix sdk main</code>](https://github.com/krille-chan/fluffychat/commit/2add91fc577298d68f5de4eb5736b6776d4a6d8b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Remove openssl dependency</code>](https://github.com/krille-chan/fluffychat/commit/fc4e089da9a247487f25dd7a0609a3de083cde56)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/af130815e1f065260acdf3c458b48052818a3aba)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Rename models for matrix spec 1.16</code>](https://github.com/krille-chan/fluffychat/commit/57a5e1c96f9e97950f58b995b51540c2204619ef)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4801,6 +4815,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Win plugin files with .plugin extension (#21068)</code>](https://github.com/netdata/netdata.git/commit/05b2bddd80c37a8fd679dd157ec0dda79f0bdd26)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-17-nightly.</code>](https://github.com/netdata/netdata.git/commit/b6201a6b7cc61e826d62130ad9d4a0c4985ab603)
+- [ ] [<code>Add missing extension go.d (Windows) (#21070)</code>](https://github.com/netdata/netdata.git/commit/59625e4046e7c9b21e978ceb3c82c2eb5112a386)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Declare flatten-serde-json at the workspace. (#21072)</code>](https://github.com/netdata/netdata.git/commit/42d0ba6289e0b4e18b40659bc6691c83153fb97d)
+- [ ] [<code>Convert go collectors to use ndexec module for external command invocation (#21067)</code>](https://github.com/netdata/netdata.git/commit/22265b5e6e162f82d4be7021bd3ec0142bf20c4d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ml: implement fixed time-based training windows - corrected (#21046)</code>](https://github.com/netdata/netdata.git/commit/01156f67e500d5532f72ffc11ceca0de1ec521e1)
+- [ ] [<code>build(deps): bump openssl version in static build (#21074)</code>](https://github.com/netdata/netdata.git/commit/14ae06bc34eafaee8a7402865d50895638cf32ae)
+- [ ] [<code>docs: add note about using ``--init` when not running with `pid: host` (#21075)</code>](https://github.com/netdata/netdata.git/commit/506fab343fe4749bed8d9a569b5e2fcd27e9d4c4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6786,6 +6808,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix libtorrent session limits (#8752)</code>](https://github.com/tribler/Tribler/commit/500285ba2de4967a3bd17bec669c16fbce782a5c)
 - [ ] [<code>Always ask for download even when starting from CLI</code>](https://github.com/tribler/Tribler/commit/e27cd45e59685f5536aaa76a3b83a79359aa142f)
 - [ ] [<code>Always ask for download even when starting from CLI (#8755)</code>](https://github.com/tribler/Tribler/commit/b0547048f31b7b5bd5bea603e2c292e0062f39fa)
+- [ ] [<code>Allow tray icon recoloring</code>](https://github.com/tribler/Tribler/commit/2235aa5c820744d4e0cebd1d9b71b1ce6b30929a)
+- [ ] [<code>Allow tray icon recoloring (#8764)</code>](https://github.com/tribler/Tribler/commit/b540a3ce8a09b71d5ca942af9ca0462a39910b71)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
