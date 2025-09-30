@@ -6821,6 +6821,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>struct: align `X` and `Z` length & truncation semantics with `*`</code>](https://github.com/jow-/ucode/commit/a5b206f60f5d3c88136f531f595d85f2bf737894)
 - [ ] [<code>nl80211: read all pending event messages</code>](https://github.com/jow-/ucode/commit/387880348c89b5be54ddf13b9543b19266dd02ae)
 - [ ] [<code>uloop: fix potential use-after-free when destroying uloop entities</code>](https://github.com/jow-/ucode/commit/470bc3ebffe0db9bf89e1eaa030bc489c9204761)
+- [ ] [<code>socket: fix `recv()` incorrectly reporting unrelated errors</code>](https://github.com/jow-/ucode/commit/e8a7290e55c0fd8cee2dc55c22fc45a93028ea68)
+- [ ] [<code>socket: fix convertion of hw addresses to ucode strings</code>](https://github.com/jow-/ucode/commit/ddde611fb9d4a40db52d192fddf0f870f6b7ba04)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
