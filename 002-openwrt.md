@@ -1,100 +1,23 @@
-
-#### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c0df580adbd4d555ecc1962dbe88e91d75b67a4e → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c0df580adbd4d555ecc1962dbe88e91d75b67a4e...HEAD)
-
-
-#### [libubox](https://git.openwrt.org/project/libubox.git): [49056d178f42da98048a5d4c23f83a6f6bc6dd80 → HEAD](https://git.openwrt.org/project/libubox.git/compare/49056d178f42da98048a5d4c23f83a6f6bc6dd80...HEAD)
-
-
-#### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
-
-- [ ] [<code>netifd: add netlink udebug ring</code>](https://git.openwrt.org/project/netifd.git/commit/1b967334189baa138699f637ac07bcbf0289fbf4)
-- [ ] [<code>debug: remove newline from debug messages</code>](https://git.openwrt.org/project/netifd.git/commit/061e308f9f7d30b0bc490d93e113ee763ecb06a1)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>bridge: fix reload on bridge vlan changes</code>](https://git.openwrt.org/project/netifd.git/commit/f1763852dfbabf60486bd721ec7a6a1bc8dd88c0)
-- [ ] [<code>bridge: rework config change pvid handling</code>](https://git.openwrt.org/project/netifd.git/commit/cc9e928f0a12f04c82356c02dd9a84ac6b383fb9)
-- [ ] [<code>system-linux: set master early on apply settings</code>](https://git.openwrt.org/project/netifd.git/commit/8f2806a37fe16de6c24ad133107eeb6cb7a090dc)
-- [ ] [<code>system-linux: skip refreshing MAC on master change if custom MAC</code>](https://git.openwrt.org/project/netifd.git/commit/e3fc2b0026a5ca45de76f3e2a950dca85a361bd3)
-- [ ] [<code>system-linux: set pending to 0 on ifindex found or error for if_get_master</code>](https://git.openwrt.org/project/netifd.git/commit/66a7652176a7580b55076a0975b77c2bfb5bf7ce)
-- [ ] [<code>netifd: fix undefined va_list value which can cause crashes</code>](https://git.openwrt.org/project/netifd.git/commit/730b4656e6b1349506316dab2a8d90399eab39d8)
-- [ ] [<code>device: Log error message if device initialization failed</code>](https://git.openwrt.org/project/netifd.git/commit/c59457f697095631559d7e268ea575e7568d8866)
-- [ ] [<code>Revert "system-linux: set pending to 0 on ifindex found or error for if_get_master"</code>](https://git.openwrt.org/project/netifd.git/commit/a2d32f0dcf16880226680d07b07b249f77a3af58)
-- [ ] [<code>system-linux: fix race condition in netlink socket error handing</code>](https://git.openwrt.org/project/netifd.git/commit/4219e99eeec7514657f5838eb4b4b5eb28ee1271)
-- [ ] [<code>device: restore cleared flags on device down</code>](https://git.openwrt.org/project/netifd.git/commit/f01345ec13b9b27ffd314d8689fb2d3f9c81a47d)
-- [ ] [<code>CMake: bump the minimum required CMake version to 3.5</code>](https://git.openwrt.org/project/netifd.git/commit/33ec3daaaa52cea628df91eb0eb1701e16172c1e)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>proto-shell: add proto property for skipping device config</code>](https://git.openwrt.org/project/netifd.git/commit/7a6532fcaecd9e111e605829eac0b49c1ca1029c)
-- [ ] [<code>wireless: use blobmsg_parse_attr</code>](https://git.openwrt.org/project/netifd.git/commit/b57e40b8fe355c2145094bf2bf5a45d273b280da)
-- [ ] [<code>wireless: add support for defining wifi interfaces via procd service data</code>](https://git.openwrt.org/project/netifd.git/commit/890929baa8164b4813212fb5e9b8541b7ec61541)
-- [ ] [<code>system-linux: re-apply ethtool on phy attachment</code>](https://git.openwrt.org/project/netifd.git/commit/68c8a4f94cd3cfd654a52cbc8b57c5c9d99640dd)
-- [ ] [<code>interface: add support for disabling renew on topology change</code>](https://git.openwrt.org/project/netifd.git/commit/480551a3adc411cb506e516e9eb4485b0ec741cb)
-- [ ] [<code>device: add more debugging code</code>](https://git.openwrt.org/project/netifd.git/commit/b7b294266781089242e24ee449539f0635e9f7c3)
-- [ ] [<code>device: do not pull device present state from hotplug events</code>](https://git.openwrt.org/project/netifd.git/commit/595094f5c213fa301b0304c1e0732811740b4db6)
-- [ ] [<code>main: add messages to udebug regardless of their log level</code>](https://git.openwrt.org/project/netifd.git/commit/4e11e52e9b98653b005b1371fa9b1a6e70893c11)
-- [ ] [<code>wireless: handle link updates even if devices are present already</code>](https://git.openwrt.org/project/netifd.git/commit/091d063f4a9d31fa05b40b7b9a4fdd2e7ef66d5b)
-- [ ] [<code>interface: improve hotplug handling reliability</code>](https://git.openwrt.org/project/netifd.git/commit/a8e90853c93632996bdba4cd227aa24253a3ef7c)
-- [ ] [<code>device: remove redundant newlines from debug messages</code>](https://git.openwrt.org/project/netifd.git/commit/cdb41673ceea4d2c1cd748580748a8c77dcc5100)
-- [ ] [<code>device: revert to explicit device_set_present calls</code>](https://git.openwrt.org/project/netifd.git/commit/cd2a7964f2c09994c09388a76e1a9c6aef4297a2)
-- [ ] [<code>device: simplify external device settings handling</code>](https://git.openwrt.org/project/netifd.git/commit/61c606d6e66b132f602135e0f0fda5f532b588e9)
-- [ ] [<code>Revert "system-linux: re-apply ethtool on phy attachment"</code>](https://git.openwrt.org/project/netifd.git/commit/02aa43d82d587d87523231be5a5e0bf956435725)
-- [ ] [<code>interface: fix regression on adding hotplug devices to interfaces</code>](https://git.openwrt.org/project/netifd.git/commit/24f9a93a9559c93cf1e794fdfcd87a38d27a8e0e)
-- [ ] [<code>wireless: reload wireless device if any vif network bridge changes ifindex</code>](https://git.openwrt.org/project/netifd.git/commit/3c6265fdbd02ebd35fa3e7a58d6dfeed081a09d7)
-- [ ] [<code>main: fix format string related warnings for log/debug printf functions</code>](https://git.openwrt.org/project/netifd.git/commit/e93f6c3fc72904c0d178c9cdd57323071ef4ce12)
-- [ ] [<code>fix signed/unsigned comparison warnings</code>](https://git.openwrt.org/project/netifd.git/commit/6ab44a2413f9681da0b78d0c7b1077ba46255a8a)
-- [ ] [<code>system-dummy: add system_if_apply_settings_after_up</code>](https://git.openwrt.org/project/netifd.git/commit/4fe997b61d7db047d0c4757202b4e8025debc4d1)
-- [ ] [<code>ubus: add notifications on wireless device state changes</code>](https://git.openwrt.org/project/netifd.git/commit/992d33cb42a6e70d98a65f55fb9d000de0fd613b)
-- [ ] [<code>device/interface: add "tags" attribute from config to status dump</code>](https://git.openwrt.org/project/netifd.git/commit/34eb11eb6f5c62de480d6192f0ca840093127fee)
-- [ ] [<code>system-linux: do not pull ifindex/flags from netlink messages on rtnl events</code>](https://git.openwrt.org/project/netifd.git/commit/86da5cbcdb9d417c63d734219c572bb43b089273)
-- [ ] [<code>proto-shell: fix spurious interface teardowns with host deps</code>](https://git.openwrt.org/project/netifd.git/commit/cd96f61ba63e17ab3f13248891d35cfc8a82f513)
-- [ ] [<code>wireless: add support for adding a list of devices for a wifi-iface</code>](https://git.openwrt.org/project/netifd.git/commit/a39fe3a8b1506c5126ae7ac3007d4621898d05d8)
-- [ ] [<code>iprule: add ipproto property</code>](https://git.openwrt.org/project/netifd.git/commit/d29cf707478cfc5465fc8a7b8ccfde72a739a4f6)
-- [ ] [<code>system-linux: restore reading flags from netlink messages</code>](https://git.openwrt.org/project/netifd.git/commit/768027c5a7640137857f412f554227abd6160cdd)
-- [ ] [<code>interface: fix memleak and reload issue for the zone attribute</code>](https://git.openwrt.org/project/netifd.git/commit/058a099f5bc58c89b731218f6e9cc6ee76ba52c9)
-- [ ] [<code>interface: remove unnecessary NULL checks before free()</code>](https://git.openwrt.org/project/netifd.git/commit/ea01ed41f3212ecbe000422f3c122a01b93fe874)
-- [ ] [<code>iprule: amend ipproto netlink nla_put_u32 to nla_put_u8</code>](https://git.openwrt.org/project/netifd.git/commit/61ae5732adea8bafcdf158c979a0a0d68b2cff62)
-- [ ] [<code>device: add support for configuring vrf</code>](https://git.openwrt.org/project/netifd.git/commit/d610d68c71b82b987c665a922c10084d5cf89f8c)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>device: fix bonding primary port selection</code>](https://git.openwrt.org/project/netifd.git/commit/a1b6386a20a6352fea626345a044b538c1473a49)
-- [ ] [<code>system-linux: fix sysfs name for all_ports_active flag</code>](https://git.openwrt.org/project/netifd.git/commit/e8bbf246ce2e134613d3b68477dcb955689408e4)
-- [ ] [<code>Restore disable_ipv6 sysctl after removing a device from bridge or bond</code>](https://git.openwrt.org/project/netifd.git/commit/723c699e84f4b0f4515928f0cc57a5be2a317ced)
-- [ ] [<code>iprule: resolve ipproto by name</code>](https://git.openwrt.org/project/netifd.git/commit/d476e18e8d430ddfe3ae1809ddeea035bbb9a998)
-- [ ] [<code>netifd: iprule add sport and dport</code>](https://git.openwrt.org/project/netifd.git/commit/7901e66c5f273bceee8981bc8a0c8b0e60945f60)
-- [ ] [<code>system-dummy: add missing vrf functions</code>](https://git.openwrt.org/project/netifd.git/commit/3a7878065829683373d2ffa456f8afb361d06fb1)
-- [ ] [<code>CMakeLists.txt: bump minimum required version</code>](https://git.openwrt.org/project/netifd.git/commit/471d9d6abb6d2141ccc1c4a5a3ceb280dcb6175d)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>scripts: fix dummy mode on systems where libubox is in /usr/local</code>](https://git.openwrt.org/project/netifd.git/commit/c3a0255e21501566590f32356c0e505ed795e35e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>update example mac80211 script and wireless config</code>](https://git.openwrt.org/project/netifd.git/commit/7a3b281230e4ea16b4939edcf4bdcde7e84f3b00)
-- [ ] [<code>wireless: replace with ucode scripts</code>](https://git.openwrt.org/project/netifd.git/commit/d9f2dd2614f2e85fd5219742cce9be748948d19c)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>wireless: add MLO support to example scripts</code>](https://git.openwrt.org/project/netifd.git/commit/74c22601baad83cc9bc0fddb98f15d7abaa52c67)
-- [ ] [<code>ucode: add missing return code checks for fchdir/chdir</code>](https://git.openwrt.org/project/netifd.git/commit/b563d7b2e65a756e02c579f51e3ca0211f741050)
-- [ ] [<code>system-linux: add variable initialization to avoid compiler warnings on older gcc</code>](https://git.openwrt.org/project/netifd.git/commit/c3cfd8df02af6b66c7aeceb61ffc2ac948fa008a)
-- [ ] [<code>ucode: fix passing network vlan on handle_link</code>](https://git.openwrt.org/project/netifd.git/commit/964c9aa3ec2b091b5b183408e298d8742fcb9248)
-- [ ] [<code>examples: sync scripts with openwrt</code>](https://git.openwrt.org/project/netifd.git/commit/3d140ec0b834e3764e8abe9d33989b76544f8ee9)
-- [ ] [<code>ubus: fix type check in procd ubus data callback</code>](https://git.openwrt.org/project/netifd.git/commit/843a736a4e26188c9449e16efb5c62d5ab1ab59c)
-- [ ] [<code>interface: avoid memleaks on invalid interfaces</code>](https://git.openwrt.org/project/netifd.git/commit/94c3869941b0b92b9fe8c30a45848a64f78e6409)
-- [ ] [<code>global: use blobmsg_parse_attr</code>](https://git.openwrt.org/project/netifd.git/commit/6ead304877adb2b2dfb8db735ee4e6e08ccc05ba)
-- [ ] [<code>config: add support for defining devices via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/813b9882dbabc6c0231fa4ec6dd4c33157631867)
-- [ ] [<code>config: add support for defining interfaces via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/575b04326e3294f1a9dfb1f78a8676a2ffbee7f8)
-- [ ] [<code>examples: sync wireless.uc</code>](https://git.openwrt.org/project/netifd.git/commit/a0be934399cfc0149bfc7d2221467e48177426cd)
-- [ ] [<code>bridge: fix changing the vlan local flag at runtime</code>](https://git.openwrt.org/project/netifd.git/commit/8c139e183e52b0845557181e5b4677fd33d25030)
-- [ ] [<code>netifd: fix misplaced ")"</code>](https://git.openwrt.org/project/netifd.git/commit/2a85440bcd82caf66b29428145affb30388a4994)
-
-#### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
-
-- [ ] [<code>libubus: Make UBUS_* macros work cleanly in C++</code>](https://git.openwrt.org/project/ubus.git/commit/252a9b0c1774790fb9c25735d5a09c27dba895db)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>libubus: close file descriptor after sending it from a request</code>](https://git.openwrt.org/project/ubus.git/commit/d996988ae55b6af12e4611fdd758a2f0ad27a9a1)
-- [ ] [<code>libubus: add support for using channels</code>](https://git.openwrt.org/project/ubus.git/commit/afa57cce0aff82f4a7a0e509d4387ebc23dd3be7)
-- [ ] [<code>libubus: flush all pending requests on connection loss</code>](https://git.openwrt.org/project/ubus.git/commit/88e6325092bf1d1cfa877cd220670fa7cc2fad03)
-- [ ] [<code>ubusd: make txq_len field signed</code>](https://git.openwrt.org/project/ubus.git/commit/27839f854a58d9dbc85efa1b5cd79f253880c701)
-- [ ] [<code>ubusd: treat EACCES on write like EAGAIN</code>](https://git.openwrt.org/project/ubus.git/commit/b35b2bc63e8e2ca92436fa601c68692242386246)
-- [ ] [<code>ubusd: retry write on EINTR</code>](https://git.openwrt.org/project/ubus.git/commit/713e9d19b2b6ac1ca9720492d80d620bb9b944d5)
-- [ ] [<code>ubusd: fix txq_len accounting</code>](https://git.openwrt.org/project/ubus.git/commit/8bb523ab20e06f686a07c5f82e8f8534d4228b9f)
-- [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
-- [ ] [<code>ubusd: do not call socket callback from ubus_msg_send</code>](https://git.openwrt.org/project/ubus.git/commit/5952b48e251c0ea76dfce97f129da6f18d889eda)
+> Failed to clone https://git.openwrt.org/project/libnl-tiny.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/libnl-tiny.git /home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git'...
+fatal: unable to access 'https://git.openwrt.org/project/libnl-tiny.git/': Empty reply from server
+'
+> Failed to clone https://git.openwrt.org/project/libubox.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/libubox.git /home/runner/work/what-changed/what-changed/src/../work/libubox.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libubox.git'...
+fatal: unable to access 'https://git.openwrt.org/project/libubox.git/': Empty reply from server
+'
+> Failed to clone https://git.openwrt.org/project/netifd.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/netifd.git /home/runner/work/what-changed/what-changed/src/../work/netifd.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/netifd.git'...
+fatal: unable to access 'https://git.openwrt.org/project/netifd.git/': Empty reply from server
+'
+> Failed to clone https://git.openwrt.org/project/ubus.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/ubus.git /home/runner/work/what-changed/what-changed/src/../work/ubus.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ubus.git'...
+fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': Empty reply from server
+'
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
@@ -106,58 +29,16 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
 - [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
-
-#### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
-
-- [ ] [<code>add strdupa macro for compatibility</code>](https://git.openwrt.org/project/uclient.git/commit/e209a4ced1d80e8a4ac4290a6ade9d339eab1705)
-- [ ] [<code>uclient: add helper function for getting ustream-ssl context/ops</code>](https://git.openwrt.org/project/uclient.git/commit/af1962b9a60930cd1f24eff2854bceaa2a6c964d)
-- [ ] [<code>http: add helper function for checking redirect status</code>](https://git.openwrt.org/project/uclient.git/commit/488f1d52cfd2fcca8e0f3785311c247d13cb0170)
-- [ ] [<code>uclient: defer read notifications to uloop timer</code>](https://git.openwrt.org/project/uclient.git/commit/b6e5548a3ecc562db4c8d5356bdfd9a3fa5e59f8)
-- [ ] [<code>http: call ustream_poll if not enough read data is available</code>](https://git.openwrt.org/project/uclient.git/commit/352fb3eeb40846d576e942ed2674fde052b2d81c)
-- [ ] [<code>add ucode binding</code>](https://git.openwrt.org/project/uclient.git/commit/e611e6d0ff0ba31070abacdb53037d3e9a4115a6)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>uclient: add function for getting the amount of pending read/write data</code>](https://git.openwrt.org/project/uclient.git/commit/ddb18d2657578bb39ffad4795cedee215f9b36b0)
-- [ ] [<code>ucode: fix a few ucode binding issues</code>](https://git.openwrt.org/project/uclient.git/commit/980220ad17622456be141fb66a00e2b776a58749)
-- [ ] [<code>ucode: add support for using a prototype for cb, pass it to callbacks</code>](https://git.openwrt.org/project/uclient.git/commit/6c16331e4bf542fbb538d62a6b5bf3d286ecbf2c)
-- [ ] [<code>lib: add log_msg callback to get more detailed log messages</code>](https://git.openwrt.org/project/uclient.git/commit/c2bf660d88ece757ebc4889ef30ec2fa11fb1e9e)
-- [ ] [<code>uclient-fetch: add uclient / ustream-ssl log messages (enabled via -v)</code>](https://git.openwrt.org/project/uclient.git/commit/9adb4ca5219dc73b1440de871e871cc5a12323bd)
-- [ ] [<code>uclient-http: use ustream_ssl without ustream_fd</code>](https://git.openwrt.org/project/uclient.git/commit/704c78111a92873474eca3c91ad91c555b03f607)
-- [ ] [<code>uclient: fix http regression</code>](https://git.openwrt.org/project/uclient.git/commit/e8780fa7792aaa2d68af21c0df91cd9c05e1f73a)
-- [ ] [<code>uclient-fetch: improve error handling</code>](https://git.openwrt.org/project/uclient.git/commit/e035d57686645bc18ae6ded2ffb18d40b158e900)
-- [ ] [<code>uclient-fetch: add support for --header cmdline argument</code>](https://git.openwrt.org/project/uclient.git/commit/a220818a1435cfa2b153aa36e6b9c543546fd9b8)
-- [ ] [<code>uclient-http: fix a typo</code>](https://git.openwrt.org/project/uclient.git/commit/88ae8f208dd313f69e268234f7db55956aef1cb9)
-
-#### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
-
-- [ ] [<code>lib-ucode.c: add #define _GNU_SOURCE</code>](https://git.openwrt.org/project/udebug.git/commit/5d10084ea885b193bccd0f7da7137c1f5d766e58)
-- [ ] [<code>udebug-cli: fix terminating uloop</code>](https://git.openwrt.org/project/udebug.git/commit/a95364b41d52bb6ae087c55788dda0e9efa3ba6d)
-- [ ] [<code>ucode: use FILE handle for pcap output</code>](https://git.openwrt.org/project/udebug.git/commit/c00eb9b685a837c38bbcc979286bd44f4ffb8ec9)
-- [ ] [<code>ucode: add error reporting to pcap_write</code>](https://git.openwrt.org/project/udebug.git/commit/4265167cb6e8c647e3a45439b30009a1df7de8a5)
-- [ ] [<code>udebug-cli: stop event loop on write failure</code>](https://git.openwrt.org/project/udebug.git/commit/4a908ee731a6a8b8d48ef6138bd28dfa747f2a24)
-- [ ] [<code>ucode: use ucv_resource_create_ex for remote rings</code>](https://git.openwrt.org/project/udebug.git/commit/6e04f4187231a1b468ba257a1969a3430e146aea)
-- [ ] [<code>ucode: drop use ucv_resource_create</code>](https://git.openwrt.org/project/udebug.git/commit/c297f04e18528dacb3b539bb8c1394da93559c1e)
-- [ ] [<code>ucode: add support for specifying ring format</code>](https://git.openwrt.org/project/udebug.git/commit/f207d37a1055e2a5a453ed7dc119680cb017227b)
-- [ ] [<code>ucode: support appending array data, similar to socket.send()</code>](https://git.openwrt.org/project/udebug.git/commit/98683a94bcdd0c9201b52344aee9f4b37bcc53ef)
-- [ ] [<code>ucode: allow calling udebug.init() multiple times</code>](https://git.openwrt.org/project/udebug.git/commit/a7ecd483ed386cc478280d53cb1b948b4ed1b7ef)
-- [ ] [<code>ucode: fix allocation size of local ring meta</code>](https://git.openwrt.org/project/udebug.git/commit/d4a4c788c416ef864bb88fcafd04b4f094dba6b7)
-- [ ] [<code>ucode: add timestamp argument to foreach()</code>](https://git.openwrt.org/project/udebug.git/commit/184706abaf50d819cfc6218c769c3f99ea2628da)
-- [ ] [<code>ucode: add function for getting ring information</code>](https://git.openwrt.org/project/udebug.git/commit/8442c948c19383f374aba54c0843855ef78d0ea2)
-- [ ] [<code>ucode: add const entries for enum udebug_format</code>](https://git.openwrt.org/project/udebug.git/commit/f4958a4c591a2f5586a9c31c40fa81acedcd2d26)
-- [ ] [<code>udebug-cli: add logstream command</code>](https://git.openwrt.org/project/udebug.git/commit/14d4fec369935c93f6e01a5f791c279f20a4d75b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>ucode: fix entries/size confusion</code>](https://git.openwrt.org/project/udebug.git/commit/6ed8536142bbd4360b55a423723456a6a862c99b)
-- [ ] [<code>udebugd: add support for setting an override config</code>](https://git.openwrt.org/project/udebug.git/commit/3d953628bf173d840f1f2e195b091d61abb08b7d)
-- [ ] [<code>udebug-cli: add support for overriding config on the command line</code>](https://git.openwrt.org/project/udebug.git/commit/93f6df0240e53115f488357ae83bcf0ae25422d2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>ucode: add ferror() call to check for closed write file descriptor</code>](https://git.openwrt.org/project/udebug.git/commit/892647b81d30fcec8d275a2c5da05b94192c095d)
-- [ ] [<code>ucode: add function for getting the number of entries in a snapshot</code>](https://git.openwrt.org/project/udebug.git/commit/6e4ffe2c66578f5d497fb3f7e377079d3507cc38)
-- [ ] [<code>ucode: add support for fetching kernel tracepoint events</code>](https://git.openwrt.org/project/udebug.git/commit/a62edd89255b1b5302abd3322421c834b1157c35)
-- [ ] [<code>udebug-cli: add support for streaming tracing data</code>](https://git.openwrt.org/project/udebug.git/commit/edeb4d6dc690acb476a47e6b11633b5632b08437)
-- [ ] [<code>udebug-cli: ignore zero-length messages in logstream</code>](https://git.openwrt.org/project/udebug.git/commit/d3be5474f6e6b75544e72c8e1a308a4a8f6102c6)
-- [ ] [<code>ucode: fix skipping lines where the timestamp cannot be parsed</code>](https://git.openwrt.org/project/udebug.git/commit/c79f02d899df432d5672bad0bd7f0fed055b5dae)
-- [ ] [<code>cmake: bump minimum required version to 3.13</code>](https://git.openwrt.org/project/udebug.git/commit/5327524e715332daaebf6b04c155d2880d230979)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
+> Failed to clone https://git.openwrt.org/project/uclient.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/uclient.git /home/runner/work/what-changed/what-changed/src/../work/uclient.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uclient.git'...
+fatal: unable to access 'https://git.openwrt.org/project/uclient.git/': Empty reply from server
+'
+> Failed to clone https://git.openwrt.org/project/udebug.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/udebug.git /home/runner/work/what-changed/what-changed/src/../work/udebug.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/udebug.git'...
+fatal: unable to access 'https://git.openwrt.org/project/udebug.git/': Empty reply from server
+'
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
@@ -240,18 +121,8 @@
 - [ ] [<code>wds: implement retrieval of profile list</code>](https://git.openwrt.org/project/uqmi.git/commit/f74ddb3c98b91131a675ffc3b76dffbc5b7dbcdc)
 - [ ] [<code>wda: add option for enabling flow-control</code>](https://git.openwrt.org/project/uqmi.git/commit/7aef6458a03c81e4e8f5ac4a1c8c9c5425867f06)
 - [ ] [<code>uqmi: extend wda-get-data-format</code>](https://git.openwrt.org/project/uqmi.git/commit/7914da43cddaaf6cfba116260c81e6e9adffd5ab)
-
-#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
-
-- [ ] [<code>ustream-mbedtls: add missing psa_crypto_init call</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/268050964b088a6000cca750e92dc6b5f54bbe7f)
-- [ ] [<code>add callbacks for debug messages</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/956fba242ac0a4bcfe3db103d4d1f41545c924fb)
-- [ ] [<code>mbedtls: add TLS 1.3 ciphers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/9fdf3fb87af55bd295bccd109a36b4b936033126)
-- [ ] [<code>mbedtls: disable TLS 1.3 in client mode when skipping verification</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/28c4c1e6471b6bf5a2e5dd1842c8d1be5d9478e9)
-- [ ] [<code>mbedtls: add missing ifdef for build with disabled debug</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/d61493a4420417cbf9931ffee8c862faf04f2967)
-- [ ] [<code>mbedtls: handle session tickets for TLS 1.3</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/60d8fbb5e669db4b85f0ccd9b86744a8355eb2d9)
-- [ ] [<code>mbedtls: add ifdefs to fix legacy compatibility</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/ac42af7981ae0a49e745a4b0b2b0961070550ac3)
-- [ ] [<code>mbedtls: another cosmetic ifdef fix</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/af7c3532ad499bc97f568087a57ac0f4fe6f56e1)
-- [ ] [<code>ustream-ssl: poll connection on incomplete reads</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/f9a28a9ce86473d934693fe59dcbe344ffbc695e)
-- [ ] [<code>ustream-ssl: increase number of read buffers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/3c49e70c462249c174062e8181d191c859c5e41b)
-- [ ] [<code>ustream-ssl: add support for using a fd instead of ustream as backing</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/524a76e5af78fa577c46e0d24bdedd4254e07cd4)
-- [ ] [<code>ustream-openssl: fix compilation with OPENSSL_NO_DEPRECATED</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99bd3d2b167ccdffb6de072d02c380cb37b23e33)
+> Failed to clone https://git.openwrt.org/project/ustream-ssl.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/ustream-ssl.git /home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git'...
+fatal: unable to access 'https://git.openwrt.org/project/ustream-ssl.git/': Empty reply from server
+'
