@@ -4823,6 +4823,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ml: implement fixed time-based training windows - corrected (#21046)</code>](https://github.com/netdata/netdata.git/commit/01156f67e500d5532f72ffc11ceca0de1ec521e1)
 - [ ] [<code>build(deps): bump openssl version in static build (#21074)</code>](https://github.com/netdata/netdata.git/commit/14ae06bc34eafaee8a7402865d50895638cf32ae)
 - [ ] [<code>docs: add note about using ``--init` when not running with `pid: host` (#21075)</code>](https://github.com/netdata/netdata.git/commit/506fab343fe4749bed8d9a569b5e2fcd27e9d4c4)
+- [ ] [<code>Make `nd-run` silent unless exiting with an error (#21076)</code>](https://github.com/netdata/netdata.git/commit/f736285e8f0b8256493ff38bf17d604da1df5f7f)
+- [ ] [<code>build(go): add config dirs (#21077)</code>](https://github.com/netdata/netdata.git/commit/3c76e787f04a09119a2b0b6f04f90cdfaa31739f)
+- [ ] [<code>docs: update SNMP collector metadata to reflect profile-based collection (#21078)</code>](https://github.com/netdata/netdata.git/commit/b508f7b75a36c26888c0b7d0367e0871c7799dc2)
+- [ ] [<code>Regenerate integrations docs (#21079)</code>](https://github.com/netdata/netdata.git/commit/f3509c5cfb0dd366faebaa692bb3803c4e862bb5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
