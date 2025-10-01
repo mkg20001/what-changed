@@ -245,6 +245,9 @@
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/af130815e1f065260acdf3c458b48052818a3aba)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor: Rename models for matrix spec 1.16</code>](https://github.com/krille-chan/fluffychat/commit/57a5e1c96f9e97950f58b995b51540c2204619ef)
+- [ ] [<code>feat: Display progress for downloading content</code>](https://github.com/krille-chan/fluffychat/commit/969f1deb486b53463d52af58b28135ee3055a828)
+- [ ] [<code>chore: Make progress indicators rounder</code>](https://github.com/krille-chan/fluffychat/commit/495efef5919826fe85768d9439c79ece13626c07)
+- [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/847662a9bb9db3b2227b53c446571ce8c5e67d6d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -388,6 +391,9 @@
 - [ ] [<code>build: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/af130815e1f065260acdf3c458b48052818a3aba)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor: Rename models for matrix spec 1.16</code>](https://github.com/krille-chan/fluffychat/commit/57a5e1c96f9e97950f58b995b51540c2204619ef)
+- [ ] [<code>feat: Display progress for downloading content</code>](https://github.com/krille-chan/fluffychat/commit/969f1deb486b53463d52af58b28135ee3055a828)
+- [ ] [<code>chore: Make progress indicators rounder</code>](https://github.com/krille-chan/fluffychat/commit/495efef5919826fe85768d9439c79ece13626c07)
+- [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/847662a9bb9db3b2227b53c446571ce8c5e67d6d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4207,6 +4213,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update LocalAom.cmake to AVM research-v11.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/87911f8ee910987ee25f4b490d2bb560e48f20c4)
 - [ ] [<code>Update to libaom v3.13.1</code>](https://github.com/AOMediaCodec/libavif/commit/212344ecefeda8d36ce05738ce063332f7e23dee)
 - [ ] [<code>reformat_libyuv: use RAWToI444/RAWToJ444 if available (#2598)</code>](https://github.com/AOMediaCodec/libavif/commit/e6823beb60be9da604a7409ca36d973853c9d76a)
+- [ ] [<code>Bump the github-actions group with 4 updates (#2878)</code>](https://github.com/AOMediaCodec/libavif/commit/e91e0d6d6d01ad8256e52a8d7a958ee8d69cc652)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4827,6 +4834,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(go): add config dirs (#21077)</code>](https://github.com/netdata/netdata.git/commit/3c76e787f04a09119a2b0b6f04f90cdfaa31739f)
 - [ ] [<code>docs: update SNMP collector metadata to reflect profile-based collection (#21078)</code>](https://github.com/netdata/netdata.git/commit/b508f7b75a36c26888c0b7d0367e0871c7799dc2)
 - [ ] [<code>Regenerate integrations docs (#21079)</code>](https://github.com/netdata/netdata.git/commit/f3509c5cfb0dd366faebaa692bb3803c4e862bb5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-28-nightly.</code>](https://github.com/netdata/netdata.git/commit/fe4ffcf2418adfbefee782389c36a54b91ef24cc)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6687,6 +6696,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: add sign-release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f7a94e5e102ccfe957b9b4f491a4a343e240f04)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build: fix shellcheck errors</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5976fe1a7018d86c93f3eb85b0250426c2e8a1b)
+- [ ] [<code>fix(gui): search icon on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/773b73d7662def6f4f798b239247ef597f5b159d)
+- [ ] [<code>fix(gui): mac address not aligned to right of button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dbe562e39e7ff819954787ebedba478b92507d67)
+- [ ] [<code>fix(lib): a3959 sound mode makes invalid state transitions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e0230e43a57e895212208b67bbfabb61edc3478)
+- [ ] [<code>fix(lib): a3959 shouldn't have custom as an option for multi scene anc</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97c56bbffea529ca8f8295f097b7689079fd4849)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
