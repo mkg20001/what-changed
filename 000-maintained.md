@@ -99,6 +99,11 @@
 
 #### [firmware-updater](https://github.com/canonical/firmware-updater): [402e97254b9d63c8d962c46724995e377ff922c8 → HEAD](https://github.com/canonical/firmware-updater/compare/402e97254b9d63c8d962c46724995e377ff922c8...HEAD)
 
+- [ ] [<code>Revert "Bump Flutter to 3.35 and Yaru to 8.3"</code>](https://github.com/canonical/firmware-updater/commit/14a9d72f4e64411457997247e632e3dff8d5f7cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Bump to Flutter 3.32.7 and Yaru 8.2</code>](https://github.com/canonical/firmware-updater/commit/bb59c1bf655551a0c0c35edbf5b9a044fa119acd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Revert Flutter to 3.32.7 (#369)</code>](https://github.com/canonical/firmware-updater/commit/4bc40ee5b19af2fecedc38778386024bee0fd26c)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -248,6 +253,13 @@
 - [ ] [<code>feat: Display progress for downloading content</code>](https://github.com/krille-chan/fluffychat/commit/969f1deb486b53463d52af58b28135ee3055a828)
 - [ ] [<code>chore: Make progress indicators rounder</code>](https://github.com/krille-chan/fluffychat/commit/495efef5919826fe85768d9439c79ece13626c07)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/847662a9bb9db3b2227b53c446571ce8c5e67d6d)
+- [ ] [<code>chore: Add contributing guidelines</code>](https://github.com/krille-chan/fluffychat/commit/4d7abb15f1c7c8bf016d74d9c67bec72704ed7b5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Mention rebases</code>](https://github.com/krille-chan/fluffychat/commit/93c3b26909b8900f6f0c9659ceb269d15810e630)
+- [ ] [<code>chore: Update pull request template</code>](https://github.com/krille-chan/fluffychat/commit/59b08f401fac939dc1fb77835a00a62d6ed6b427)
+- [ ] [<code>chore: Update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/eb0204f53201237ff03782abba719a3186b101d4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/72d27e8ca2cccb47d3ae45fa7285129d8cdbb213)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -394,6 +406,13 @@
 - [ ] [<code>feat: Display progress for downloading content</code>](https://github.com/krille-chan/fluffychat/commit/969f1deb486b53463d52af58b28135ee3055a828)
 - [ ] [<code>chore: Make progress indicators rounder</code>](https://github.com/krille-chan/fluffychat/commit/495efef5919826fe85768d9439c79ece13626c07)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/847662a9bb9db3b2227b53c446571ce8c5e67d6d)
+- [ ] [<code>chore: Add contributing guidelines</code>](https://github.com/krille-chan/fluffychat/commit/4d7abb15f1c7c8bf016d74d9c67bec72704ed7b5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Mention rebases</code>](https://github.com/krille-chan/fluffychat/commit/93c3b26909b8900f6f0c9659ceb269d15810e630)
+- [ ] [<code>chore: Update pull request template</code>](https://github.com/krille-chan/fluffychat/commit/59b08f401fac939dc1fb77835a00a62d6ed6b427)
+- [ ] [<code>chore: Update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/eb0204f53201237ff03782abba719a3186b101d4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/72d27e8ca2cccb47d3ae45fa7285129d8cdbb213)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -440,6 +459,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ae7c73532c0f03af3251cbe33f0a80978659ecc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin/os: Update for current API prefix</code>](https://github.com/lxc/incus/commit/031ed912a681c03f68837ae9a0d76759b909a7dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed grammar in README.md</code>](https://github.com/lxc/incus/commit/db506cc30ffe04ee1a04693fb0781a213fbf487f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4134,6 +4156,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ae7c73532c0f03af3251cbe33f0a80978659ecc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin/os: Update for current API prefix</code>](https://github.com/lxc/incus/commit/031ed912a681c03f68837ae9a0d76759b909a7dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fixed grammar in README.md</code>](https://github.com/lxc/incus/commit/db506cc30ffe04ee1a04693fb0781a213fbf487f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4836,6 +4861,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21079)</code>](https://github.com/netdata/netdata.git/commit/f3509c5cfb0dd366faebaa692bb3803c4e862bb5)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-28-nightly.</code>](https://github.com/netdata/netdata.git/commit/fe4ffcf2418adfbefee782389c36a54b91ef24cc)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Clean up handling of compiler flags in our build code. (#20821)</code>](https://github.com/netdata/netdata.git/commit/5539e60f45bf2edfff5686205589987a8e182eab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix libbpf.a build path (#21051)</code>](https://github.com/netdata/netdata.git/commit/e8d12d47bf6b9c3105363ccafaa53cdc80b2237b)
+- [ ] [<code>Adjust Disk Size (Windows.plugin) (#21081)</code>](https://github.com/netdata/netdata.git/commit/f16d13c2bca8a521928f481a2ed78c330db7a687)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6769,9 +6799,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 504
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.84.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.84.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
