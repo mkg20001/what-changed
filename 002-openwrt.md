@@ -80,6 +80,9 @@
 - [ ] [<code>examples: sync wireless.uc</code>](https://git.openwrt.org/project/netifd.git/commit/a0be934399cfc0149bfc7d2221467e48177426cd)
 - [ ] [<code>bridge: fix changing the vlan local flag at runtime</code>](https://git.openwrt.org/project/netifd.git/commit/8c139e183e52b0845557181e5b4677fd33d25030)
 - [ ] [<code>netifd: fix misplaced ")"</code>](https://git.openwrt.org/project/netifd.git/commit/2a85440bcd82caf66b29428145affb30388a4994)
+- [ ] [<code>interface: fix reload for devices that point to vlan aliases</code>](https://git.openwrt.org/project/netifd.git/commit/c3bf8fd913a440b0711d48ea6b97e73e9a53a292)
+- [ ] [<code>bridge: fix reload when ports refer to aliased vlans on another bridge</code>](https://git.openwrt.org/project/netifd.git/commit/22216cac7c94847d49ad844a5a33d76395cd0f00)
+- [ ] [<code>system: add logging wrappers for basic system functions</code>](https://git.openwrt.org/project/netifd.git/commit/ecca21ca07dd3b82004d9a7a946ff0228a07b071)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
