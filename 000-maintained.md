@@ -462,6 +462,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus/admin/os: Update for current API prefix</code>](https://github.com/lxc/incus/commit/031ed912a681c03f68837ae9a0d76759b909a7dc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixed grammar in README.md</code>](https://github.com/lxc/incus/commit/db506cc30ffe04ee1a04693fb0781a213fbf487f)
+- [ ] [<code>incus: Add a date format with second granularity</code>](https://github.com/lxc/incus/commit/2c10b3922f520d11535b30aa697eec5fbc3b92e6)
+- [ ] [<code>incus/admin/os: Improve debug log command</code>](https://github.com/lxc/incus/commit/1f6bd55b1ecf1f1bc507a6ec10342e6bc725e73d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07e3f747007d72adbf9a7a70b4bbcbc36dbb52d9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4159,6 +4164,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus/admin/os: Update for current API prefix</code>](https://github.com/lxc/incus/commit/031ed912a681c03f68837ae9a0d76759b909a7dc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fixed grammar in README.md</code>](https://github.com/lxc/incus/commit/db506cc30ffe04ee1a04693fb0781a213fbf487f)
+- [ ] [<code>incus: Add a date format with second granularity</code>](https://github.com/lxc/incus/commit/2c10b3922f520d11535b30aa697eec5fbc3b92e6)
+- [ ] [<code>incus/admin/os: Improve debug log command</code>](https://github.com/lxc/incus/commit/1f6bd55b1ecf1f1bc507a6ec10342e6bc725e73d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07e3f747007d72adbf9a7a70b4bbcbc36dbb52d9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -6799,11 +6809,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 504
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.84.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.84.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
