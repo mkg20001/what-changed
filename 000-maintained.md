@@ -269,6 +269,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/5a2a2e707ae7e5b476b461eb5739b251078a0695)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/9fbf33d02fca4337a247bc25b7d46223384d231d)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/55b508e76001bb606321616a60475bbe9af5ea4b)
+- [ ] [<code>feat: Forward notifications to Android Auto</code>](https://github.com/krille-chan/fluffychat/commit/40bd7eed9191df830cf1409b1212e4b163045417)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -431,6 +433,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/5a2a2e707ae7e5b476b461eb5739b251078a0695)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/9fbf33d02fca4337a247bc25b7d46223384d231d)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/55b508e76001bb606321616a60475bbe9af5ea4b)
+- [ ] [<code>feat: Forward notifications to Android Auto</code>](https://github.com/krille-chan/fluffychat/commit/40bd7eed9191df830cf1409b1212e4b163045417)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4896,6 +4900,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Adjust Disk Size (Windows.plugin) (#21081)</code>](https://github.com/netdata/netdata.git/commit/f16d13c2bca8a521928f481a2ed78c330db7a687)
 - [ ] [<code>Fix duplicate header leak in ACLK HTTPS client (#21084)</code>](https://github.com/netdata/netdata.git/commit/41d9554a022dc6ba69d6587a859425198c4430a7)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-33-nightly.</code>](https://github.com/netdata/netdata.git/commit/8c9e5c53eb14b0636d4bd822b0f931eb61f8b8aa)
+- [ ] [<code>Remote MCP support (streamable http and sse) (#21036)</code>](https://github.com/netdata/netdata.git/commit/891c583e6be2e40f207cdf48687b68d22c8207b2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>MCP docs and log spamming fix (#21087)</code>](https://github.com/netdata/netdata.git/commit/db00eed678499541f8715db74486505be350a610)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Register Netdata to MCP Registry (#21088)</code>](https://github.com/netdata/netdata.git/commit/31235fe9fbcaeec10ece01ebd447bf3513ea6394)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix app.mem_usage  (Windows) (#21085)</code>](https://github.com/netdata/netdata.git/commit/55f71b4a0fe010f01fe75482bb7a2dad4e5f0d68)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
