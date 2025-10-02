@@ -260,6 +260,15 @@
 - [ ] [<code>chore: Update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/eb0204f53201237ff03782abba719a3186b101d4)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/72d27e8ca2cccb47d3ae45fa7285129d8cdbb213)
+- [ ] [<code>refactor: Remove unused directories</code>](https://github.com/krille-chan/fluffychat/commit/662a4ee17d0e711b5cb7ccaf428d941b955d0bcc)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>feat: Notification actions on android</code>](https://github.com/krille-chan/fluffychat/commit/2e07b7bcf179033c654b5759bfd80e2604188e9c)
+- [ ] [<code>feat: Add notification actions</code>](https://github.com/krille-chan/fluffychat/commit/04b5ecce54771702ca82244ec1b43a2e58f63d35)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/8830c9b29739c2bcc90f7631787cf24164b2ed9b)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/5a2a2e707ae7e5b476b461eb5739b251078a0695)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/9fbf33d02fca4337a247bc25b7d46223384d231d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/55b508e76001bb606321616a60475bbe9af5ea4b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -413,6 +422,15 @@
 - [ ] [<code>chore: Update matrix sdk</code>](https://github.com/krille-chan/fluffychat/commit/eb0204f53201237ff03782abba719a3186b101d4)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/72d27e8ca2cccb47d3ae45fa7285129d8cdbb213)
+- [ ] [<code>refactor: Remove unused directories</code>](https://github.com/krille-chan/fluffychat/commit/662a4ee17d0e711b5cb7ccaf428d941b955d0bcc)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>feat: Notification actions on android</code>](https://github.com/krille-chan/fluffychat/commit/2e07b7bcf179033c654b5759bfd80e2604188e9c)
+- [ ] [<code>feat: Add notification actions</code>](https://github.com/krille-chan/fluffychat/commit/04b5ecce54771702ca82244ec1b43a2e58f63d35)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/8830c9b29739c2bcc90f7631787cf24164b2ed9b)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/5a2a2e707ae7e5b476b461eb5739b251078a0695)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/9fbf33d02fca4337a247bc25b7d46223384d231d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/55b508e76001bb606321616a60475bbe9af5ea4b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4876,6 +4894,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix libbpf.a build path (#21051)</code>](https://github.com/netdata/netdata.git/commit/e8d12d47bf6b9c3105363ccafaa53cdc80b2237b)
 - [ ] [<code>Adjust Disk Size (Windows.plugin) (#21081)</code>](https://github.com/netdata/netdata.git/commit/f16d13c2bca8a521928f481a2ed78c330db7a687)
+- [ ] [<code>Fix duplicate header leak in ACLK HTTPS client (#21084)</code>](https://github.com/netdata/netdata.git/commit/41d9554a022dc6ba69d6587a859425198c4430a7)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-33-nightly.</code>](https://github.com/netdata/netdata.git/commit/8c9e5c53eb14b0636d4bd822b0f931eb61f8b8aa)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6740,6 +6760,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gui): mac address not aligned to right of button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dbe562e39e7ff819954787ebedba478b92507d67)
 - [ ] [<code>fix(lib): a3959 sound mode makes invalid state transitions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e0230e43a57e895212208b67bbfabb61edc3478)
 - [ ] [<code>fix(lib): a3959 shouldn't have custom as an option for multi scene anc</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97c56bbffea529ca8f8295f097b7689079fd4849)
+- [ ] [<code>perf(lib): improve a3959 sound modes worst case to 10 steps</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1e737aec8dc91d70d47902e296d9fb8d88a5450f)
+- [ ] [<code>refactor(lib): switch from quickcheck to proptest</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3d0dd4d277ed87c65cd0fd1a83573f7d3c1eabf1)
+- [ ] [<code>test(lib): add a3959 sound modes average case test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c3e26035c58b56144ce9c155882829e1f7225237)
+- [ ] [<code>perf(lib): improve a3959 sound modes average case to 7.6 steps</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9edba96d68dd98f1644ee91daa164e1590978b04)
+- [ ] [<code>perf(lib): improve a3959 sound modes average case to 7.35 steps</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbabd1e4b42938a95cac77358a8225e92b4648dc)
+- [ ] [<code>test(lib): a3959 sound modes test_worst_case not doing what it says</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7b492a460298dad8c85514cb299290272059940b)
+- [ ] [<code>test(lib): worst case is actually still 10</code>](https://github.com/Oppzippy/OpenSCQ30/commit/673f23b798ce1723a0fb58143321152b4ea58b86)
+- [ ] [<code>docs: mark a3959 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e56cd92e5224ffd66b8fc1c39f461aacb618d9a)
+- [ ] [<code>build: disable proptest default-features</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c148e487c4f267e70546108d7bcb59209c34fbbb)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
