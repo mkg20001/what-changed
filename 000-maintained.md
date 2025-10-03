@@ -271,6 +271,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/55b508e76001bb606321616a60475bbe9af5ea4b)
 - [ ] [<code>feat: Forward notifications to Android Auto</code>](https://github.com/krille-chan/fluffychat/commit/40bd7eed9191df830cf1409b1212e4b163045417)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/a88849c2dbaf30228d6541515f48489030aec1c6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -435,6 +436,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/55b508e76001bb606321616a60475bbe9af5ea4b)
 - [ ] [<code>feat: Forward notifications to Android Auto</code>](https://github.com/krille-chan/fluffychat/commit/40bd7eed9191df830cf1409b1212e4b163045417)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/a88849c2dbaf30228d6541515f48489030aec1c6)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4909,6 +4911,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Register Netdata to MCP Registry (#21088)</code>](https://github.com/netdata/netdata.git/commit/31235fe9fbcaeec10ece01ebd447bf3513ea6394)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Fix app.mem_usage  (Windows) (#21085)</code>](https://github.com/netdata/netdata.git/commit/55f71b4a0fe010f01fe75482bb7a2dad4e5f0d68)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-38-nightly.</code>](https://github.com/netdata/netdata.git/commit/0b9f3641b13fcc3eec8552df378fba33ef8696d5)
+- [ ] [<code>Fix cgroup-network spawn server cleanup on fatal exit (#21080)</code>](https://github.com/netdata/netdata.git/commit/09a2bd54b021822a8645f180286fe5000b55ac6f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6909,6 +6913,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Always ask for download even when starting from CLI (#8755)</code>](https://github.com/tribler/Tribler/commit/b0547048f31b7b5bd5bea603e2c292e0062f39fa)
 - [ ] [<code>Allow tray icon recoloring</code>](https://github.com/tribler/Tribler/commit/2235aa5c820744d4e0cebd1d9b71b1ce6b30929a)
 - [ ] [<code>Allow tray icon recoloring (#8764)</code>](https://github.com/tribler/Tribler/commit/b540a3ce8a09b71d5ca942af9ca0462a39910b71)
+- [ ] [<code>Update SimpleTable to allow setting the initial sorting</code>](https://github.com/tribler/Tribler/commit/138d9752e249e3684f8ae50df0e4b54a1630d725)
+- [ ] [<code>Update SimpleTable to allow setting the initial sorting (#8768)</code>](https://github.com/tribler/Tribler/commit/0ff213a46bbdd8535dea0dfd0a9cf09e4223d8bf)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
