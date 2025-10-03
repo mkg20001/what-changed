@@ -4271,6 +4271,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update to libaom v3.13.1</code>](https://github.com/AOMediaCodec/libavif/commit/212344ecefeda8d36ce05738ce063332f7e23dee)
 - [ ] [<code>reformat_libyuv: use RAWToI444/RAWToJ444 if available (#2598)</code>](https://github.com/AOMediaCodec/libavif/commit/e6823beb60be9da604a7409ca36d973853c9d76a)
 - [ ] [<code>Bump the github-actions group with 4 updates (#2878)</code>](https://github.com/AOMediaCodec/libavif/commit/e91e0d6d6d01ad8256e52a8d7a958ee8d69cc652)
+- [ ] [<code>Add creationTime & modificationTime to avifEncoder</code>](https://github.com/AOMediaCodec/libavif/commit/40cb2c1fbff1e14b6c81816b73a364490b12ffb6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
