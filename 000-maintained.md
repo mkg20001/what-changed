@@ -491,6 +491,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07e3f747007d72adbf9a7a70b4bbcbc36dbb52d9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster: Don't use proxy when joining</code>](https://github.com/lxc/incus/commit/b1ca078ce793201b957ecf3701adbce78e7a6135)
+- [ ] [<code>incusd/device/usb: Add attached configuration key</code>](https://github.com/lxc/incus/commit/692efaad5cc428cce20fb3db415ad9bd7a902a97)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/16ca30d84b2fc388f99f66ec1f6031bfa4889b7c)
+- [ ] [<code>doc: Remove outdated warning</code>](https://github.com/lxc/incus/commit/64d85a1be3527b10cee6d008263ee98ca2a1294d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Remove dead code</code>](https://github.com/lxc/incus/commit/ba81ec0e90cb764de6706eca03b8cb42c3159ff8)
+- [ ] [<code>api: usb_attached</code>](https://github.com/lxc/incus/commit/9e89a8365ae71a2ba040e16c6b494a15e46b0e6d)
+- [ ] [<code>incusd/storage: Generalize InstanceTarWriter</code>](https://github.com/lxc/incus/commit/33793955f753b353d4930303820b571cf2838c50)
+- [ ] [<code>incusd/instancewriter: Add raw instance writer</code>](https://github.com/lxc/incus/commit/19222b64388baef1fbb2a2953d601feba5c44f66)
+- [ ] [<code>incusd/storage: Add ISO volume export</code>](https://github.com/lxc/incus/commit/f5a3d12823755ef9748ac9ce9e17c579ce90f9f2)
+- [ ] [<code>incus: Handle ISO export</code>](https://github.com/lxc/incus/commit/939ef4fa17a810aa0e7737813ada647f2ebf756f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Incus now allows ISO export</code>](https://github.com/lxc/incus/commit/c05c0e2b89f3647916a697f1447952e0b6ed03a0)
+- [ ] [<code>incusd/storage/generic: Use proper custom volume size for backup if possible</code>](https://github.com/lxc/incus/commit/fca39f9b2646b72fb52128c91583fd46e1f7e962)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0b700f088d38413cf710e7dbbdf055d69e76d22d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: backup_iso</code>](https://github.com/lxc/incus/commit/4cc0fc98e64dca483ea85a54ea60bbf8ed950595)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4193,6 +4210,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/07e3f747007d72adbf9a7a70b4bbcbc36dbb52d9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster: Don't use proxy when joining</code>](https://github.com/lxc/incus/commit/b1ca078ce793201b957ecf3701adbce78e7a6135)
+- [ ] [<code>incusd/device/usb: Add attached configuration key</code>](https://github.com/lxc/incus/commit/692efaad5cc428cce20fb3db415ad9bd7a902a97)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/16ca30d84b2fc388f99f66ec1f6031bfa4889b7c)
+- [ ] [<code>doc: Remove outdated warning</code>](https://github.com/lxc/incus/commit/64d85a1be3527b10cee6d008263ee98ca2a1294d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/device/disk: Remove dead code</code>](https://github.com/lxc/incus/commit/ba81ec0e90cb764de6706eca03b8cb42c3159ff8)
+- [ ] [<code>api: usb_attached</code>](https://github.com/lxc/incus/commit/9e89a8365ae71a2ba040e16c6b494a15e46b0e6d)
+- [ ] [<code>incusd/storage: Generalize InstanceTarWriter</code>](https://github.com/lxc/incus/commit/33793955f753b353d4930303820b571cf2838c50)
+- [ ] [<code>incusd/instancewriter: Add raw instance writer</code>](https://github.com/lxc/incus/commit/19222b64388baef1fbb2a2953d601feba5c44f66)
+- [ ] [<code>incusd/storage: Add ISO volume export</code>](https://github.com/lxc/incus/commit/f5a3d12823755ef9748ac9ce9e17c579ce90f9f2)
+- [ ] [<code>incus: Handle ISO export</code>](https://github.com/lxc/incus/commit/939ef4fa17a810aa0e7737813ada647f2ebf756f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Incus now allows ISO export</code>](https://github.com/lxc/incus/commit/c05c0e2b89f3647916a697f1447952e0b6ed03a0)
+- [ ] [<code>incusd/storage/generic: Use proper custom volume size for backup if possible</code>](https://github.com/lxc/incus/commit/fca39f9b2646b72fb52128c91583fd46e1f7e962)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0b700f088d38413cf710e7dbbdf055d69e76d22d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: backup_iso</code>](https://github.com/lxc/incus/commit/4cc0fc98e64dca483ea85a54ea60bbf8ed950595)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4913,6 +4947,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix app.mem_usage  (Windows) (#21085)</code>](https://github.com/netdata/netdata.git/commit/55f71b4a0fe010f01fe75482bb7a2dad4e5f0d68)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-38-nightly.</code>](https://github.com/netdata/netdata.git/commit/0b9f3641b13fcc3eec8552df378fba33ef8696d5)
 - [ ] [<code>Fix cgroup-network spawn server cleanup on fatal exit (#21080)</code>](https://github.com/netdata/netdata.git/commit/09a2bd54b021822a8645f180286fe5000b55ac6f)
+- [ ] [<code>Correctly split MCP registry update to it’s own workflow. (#21089)</code>](https://github.com/netdata/netdata.git/commit/81acfc85b582c1fd78ade45f37fb60902514457c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Improve installer (Windows) (#21090)</code>](https://github.com/netdata/netdata.git/commit/1d9ca4d185c54ff72e0fa2fcc44bcaa0f7ffb4e3)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.4.0+incompatible to 28.5.0+incompatible in /src/go (#21095)</code>](https://github.com/netdata/netdata.git/commit/1d4f98e796cddead1e5efdedce6571daaa4be17e)
+- [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.11 to 3.4.12 in /src/go (#21094)</code>](https://github.com/netdata/netdata.git/commit/ee8ac93e4b317ef50e484040d48ce85a2102efac)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6915,6 +6954,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Allow tray icon recoloring (#8764)</code>](https://github.com/tribler/Tribler/commit/b540a3ce8a09b71d5ca942af9ca0462a39910b71)
 - [ ] [<code>Update SimpleTable to allow setting the initial sorting</code>](https://github.com/tribler/Tribler/commit/138d9752e249e3684f8ae50df0e4b54a1630d725)
 - [ ] [<code>Update SimpleTable to allow setting the initial sorting (#8768)</code>](https://github.com/tribler/Tribler/commit/0ff213a46bbdd8535dea0dfd0a9cf09e4223d8bf)
+- [ ] [<code>Update ipv8-rust-tunnels</code>](https://github.com/tribler/Tribler/commit/42b0208200636765b42586e92b09294ec1c967e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update ipv8</code>](https://github.com/tribler/Tribler/commit/d249e2c68c1ea8448b22384d0e5891b030512518)
+- [ ] [<code>Update rust module (#8769)</code>](https://github.com/tribler/Tribler/commit/a8d767b963e88fb7fae7804f351713a62967e41c)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
