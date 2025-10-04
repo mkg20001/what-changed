@@ -8,6 +8,8 @@
 
 - [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libubox.git/commit/eeb6fcf914139a07bcd337cf90033239f1a8b1d1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>lua: build: require CMake >= 3.10 due to dropped legacy support</code>](https://git.openwrt.org/project/libubox.git/commit/c163d7ab8cdc248a4f82efe339ba29fd8001b5e7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -103,6 +105,8 @@
 - [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
 - [ ] [<code>ubusd: do not call socket callback from ubus_msg_send</code>](https://git.openwrt.org/project/ubus.git/commit/5952b48e251c0ea76dfce97f129da6f18d889eda)
 - [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/ubus.git/commit/2b69c9859946af32cbe89173b71bcecbd1761734)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>lua: build: require CMake >= 3.10 due to dropped legacy support</code>](https://git.openwrt.org/project/ubus.git/commit/ad2768bbc166b4dcb32665d7b3434d54150b2abc)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
