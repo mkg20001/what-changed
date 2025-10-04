@@ -1,9 +1,13 @@
 
 #### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c0df580adbd4d555ecc1962dbe88e91d75b67a4e → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c0df580adbd4d555ecc1962dbe88e91d75b67a4e...HEAD)
 
+- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/feca1d341d4baa9579ec62762672aa0f20edf564)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [49056d178f42da98048a5d4c23f83a6f6bc6dd80 → HEAD](https://git.openwrt.org/project/libubox.git/compare/49056d178f42da98048a5d4c23f83a6f6bc6dd80...HEAD)
 
+- [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libubox.git/commit/eeb6fcf914139a07bcd337cf90033239f1a8b1d1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -98,6 +102,8 @@
 - [ ] [<code>ubusd: fix txq_len accounting</code>](https://git.openwrt.org/project/ubus.git/commit/8bb523ab20e06f686a07c5f82e8f8534d4228b9f)
 - [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
 - [ ] [<code>ubusd: do not call socket callback from ubus_msg_send</code>](https://git.openwrt.org/project/ubus.git/commit/5952b48e251c0ea76dfce97f129da6f18d889eda)
+- [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/ubus.git/commit/2b69c9859946af32cbe89173b71bcecbd1761734)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
@@ -109,6 +115,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
 - [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
+- [ ] [<code>lua: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uci.git/commit/a072095389595225af6996d33e1dba212af35f38)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
@@ -130,6 +138,8 @@
 - [ ] [<code>uclient-fetch: improve error handling</code>](https://git.openwrt.org/project/uclient.git/commit/e035d57686645bc18ae6ded2ffb18d40b158e900)
 - [ ] [<code>uclient-fetch: add support for --header cmdline argument</code>](https://git.openwrt.org/project/uclient.git/commit/a220818a1435cfa2b153aa36e6b9c543546fd9b8)
 - [ ] [<code>uclient-http: fix a typo</code>](https://git.openwrt.org/project/uclient.git/commit/88ae8f208dd313f69e268234f7db55956aef1cb9)
+- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uclient.git/commit/dc909ca71bc884c0e5362e1d7cc7808696cb2add)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
 
@@ -258,3 +268,5 @@
 - [ ] [<code>ustream-ssl: increase number of read buffers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/3c49e70c462249c174062e8181d191c859c5e41b)
 - [ ] [<code>ustream-ssl: add support for using a fd instead of ustream as backing</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/524a76e5af78fa577c46e0d24bdedd4254e07cd4)
 - [ ] [<code>ustream-openssl: fix compilation with OPENSSL_NO_DEPRECATED</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99bd3d2b167ccdffb6de072d02c380cb37b23e33)
+- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/5a81c108d20e24724ed847cc4be033f2a74e6635)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
