@@ -4957,6 +4957,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.4.0+incompatible to 28.5.0+incompatible in /src/go (#21095)</code>](https://github.com/netdata/netdata.git/commit/1d4f98e796cddead1e5efdedce6571daaa4be17e)
 - [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.11 to 3.4.12 in /src/go (#21094)</code>](https://github.com/netdata/netdata.git/commit/ee8ac93e4b317ef50e484040d48ce85a2102efac)
 - [ ] [<code>Hide  mem_private_usage on Windows. (#21093)</code>](https://github.com/netdata/netdata.git/commit/6b6148d5200bf7a0b59aa252b6d20b3957402d18)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-45-nightly.</code>](https://github.com/netdata/netdata.git/commit/636da1ab56552ffc1ef0a4db030a228c90ae7e6b)
+- [ ] [<code>fix(packaging/docker): add missing nd-run (#21097)</code>](https://github.com/netdata/netdata.git/commit/d551ab21554f8d5a923381a96a99eeeb16bc0c42)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
