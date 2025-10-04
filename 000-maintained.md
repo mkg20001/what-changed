@@ -508,6 +508,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0b700f088d38413cf710e7dbbdf055d69e76d22d)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>api: backup_iso</code>](https://github.com/lxc/incus/commit/4cc0fc98e64dca483ea85a54ea60bbf8ed950595)
+- [ ] [<code>incusd/metrics: Always include internal metrics</code>](https://github.com/lxc/incus/commit/65869dd0cf18426997080c74756a9d5d0af321bd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4227,6 +4228,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0b700f088d38413cf710e7dbbdf055d69e76d22d)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>api: backup_iso</code>](https://github.com/lxc/incus/commit/4cc0fc98e64dca483ea85a54ea60bbf8ed950595)
+- [ ] [<code>incusd/metrics: Always include internal metrics</code>](https://github.com/lxc/incus/commit/65869dd0cf18426997080c74756a9d5d0af321bd)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4450,6 +4452,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Enable systemd to create /var/lib/lxc at runtime with StateDirectory</code>](https://github.com/lxc/lxc/commit/c7bd5a3576f7449040e2164b6740c94cc2f5940c)
 - [ ] [<code>doc: add lxc.environment.{runtime,hooks} in Japanese man page</code>](https://github.com/lxc/lxc/commit/d79142d41fe8e2868f99040fe7739aa16d0a50df)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Standardize log file create mode to 0640</code>](https://github.com/lxc/lxc/commit/d269f0370c8f5f715525849205ec683497cc6a0c)
+- [ ] [<code>lxccontainer: check if target exists before remove in create_mount_target()</code>](https://github.com/lxc/lxc/commit/fba76ea65475028cea56181c8ae13d93525a1ff2)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4952,6 +4956,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve installer (Windows) (#21090)</code>](https://github.com/netdata/netdata.git/commit/1d9ca4d185c54ff72e0fa2fcc44bcaa0f7ffb4e3)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.4.0+incompatible to 28.5.0+incompatible in /src/go (#21095)</code>](https://github.com/netdata/netdata.git/commit/1d4f98e796cddead1e5efdedce6571daaa4be17e)
 - [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.11 to 3.4.12 in /src/go (#21094)</code>](https://github.com/netdata/netdata.git/commit/ee8ac93e4b317ef50e484040d48ce85a2102efac)
+- [ ] [<code>Hide  mem_private_usage on Windows. (#21093)</code>](https://github.com/netdata/netdata.git/commit/6b6148d5200bf7a0b59aa252b6d20b3957402d18)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
