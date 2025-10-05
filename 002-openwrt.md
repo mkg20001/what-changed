@@ -121,6 +121,10 @@
 - [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
 - [ ] [<code>lua: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uci.git/commit/a072095389595225af6996d33e1dba212af35f38)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/uci.git/commit/272fc1348ea9a13303828744a7f21fd269e87227)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CMakeLists: fix CMake warning for INCLUDE macro</code>](https://git.openwrt.org/project/uci.git/commit/5e69edac2ec4d23a443de11d6f3f11912d8b2d89)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
