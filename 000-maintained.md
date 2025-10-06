@@ -509,6 +509,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>api: backup_iso</code>](https://github.com/lxc/incus/commit/4cc0fc98e64dca483ea85a54ea60bbf8ed950595)
 - [ ] [<code>incusd/metrics: Always include internal metrics</code>](https://github.com/lxc/incus/commit/65869dd0cf18426997080c74756a9d5d0af321bd)
+- [ ] [<code>incusd/auth: log the error if getting the oidc provider fails</code>](https://github.com/lxc/incus/commit/dc6528ae9cf42dbe2d0d17d08708a40b6ff0fc11)
+- [ ] [<code>Fix `file push` cmd help typo</code>](https://github.com/lxc/incus/commit/e7edd5c6d3bcdcea2be0353b14f38d324b9c3434)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7811662032cbc714ae1098cd7d0935c84b503755)
+- [ ] [<code>incusd/instance/qemu: Remove attached attribute handling for disks</code>](https://github.com/lxc/incus/commit/ab7c48e2cece8f61ea32ff91ed0c5b6f2d07062d)
+- [ ] [<code>incusd/device/disk: Handle attached attribute early</code>](https://github.com/lxc/incus/commit/32995f2cb24640d4ec334f290c8f291e8b407875)
+- [ ] [<code>incusd/server/drivers: Add gendoc for storage config keys</code>](https://github.com/lxc/incus/commit/1b27e72872d1c17a2b9d9463fba342a650a98be1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Include doc for storage configuration from config_options.txt file</code>](https://github.com/lxc/incus/commit/c1ada63f25af38b6185d3dbee10b98ee377c278a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/ee3682cbed54338dce9285a51369d3565be8df92)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4229,6 +4240,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>api: backup_iso</code>](https://github.com/lxc/incus/commit/4cc0fc98e64dca483ea85a54ea60bbf8ed950595)
 - [ ] [<code>incusd/metrics: Always include internal metrics</code>](https://github.com/lxc/incus/commit/65869dd0cf18426997080c74756a9d5d0af321bd)
+- [ ] [<code>incusd/auth: log the error if getting the oidc provider fails</code>](https://github.com/lxc/incus/commit/dc6528ae9cf42dbe2d0d17d08708a40b6ff0fc11)
+- [ ] [<code>Fix `file push` cmd help typo</code>](https://github.com/lxc/incus/commit/e7edd5c6d3bcdcea2be0353b14f38d324b9c3434)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/7811662032cbc714ae1098cd7d0935c84b503755)
+- [ ] [<code>incusd/instance/qemu: Remove attached attribute handling for disks</code>](https://github.com/lxc/incus/commit/ab7c48e2cece8f61ea32ff91ed0c5b6f2d07062d)
+- [ ] [<code>incusd/device/disk: Handle attached attribute early</code>](https://github.com/lxc/incus/commit/32995f2cb24640d4ec334f290c8f291e8b407875)
+- [ ] [<code>incusd/server/drivers: Add gendoc for storage config keys</code>](https://github.com/lxc/incus/commit/1b27e72872d1c17a2b9d9463fba342a650a98be1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Include doc for storage configuration from config_options.txt file</code>](https://github.com/lxc/incus/commit/c1ada63f25af38b6185d3dbee10b98ee377c278a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/ee3682cbed54338dce9285a51369d3565be8df92)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4963,6 +4985,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-47-nightly.</code>](https://github.com/netdata/netdata.git/commit/6fdf0c5fa01c2693abfd5cf245a3b55b232c8035)
 - [ ] [<code>Event loop cleanup (#21091)</code>](https://github.com/netdata/netdata.git/commit/e1ef92522ffd326eb52111792830931d5a8ca3e7)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-49-nightly.</code>](https://github.com/netdata/netdata.git/commit/462480ad1129310ff08ccd7a4ed1b75003ec49b7)
+- [ ] [<code>Add documentation and fallback to /host/ for getting the machine id (#21044)</code>](https://github.com/netdata/netdata.git/commit/c9dd45eedf0d72d29800805398569cf47221b1fc)
+- [ ] [<code>Update building-native-packages-locally.md (#21101)</code>](https://github.com/netdata/netdata.git/commit/0ff516528731ed9312e45cfc61b3a34b2da5f0b5)
+- [ ] [<code>Use datafile block pos (#21098)</code>](https://github.com/netdata/netdata.git/commit/1601f30e4ebfa2f76f154eadcecfb1898fd78399)
+- [ ] [<code>improve(go.d/snmp): Add APC PowerNet-MIB sysObjectID mappings and categories (#21104)</code>](https://github.com/netdata/netdata.git/commit/b16f359576d9fa873f8463f32d2f580f5dfbec32)
+- [ ] [<code>Update `cloud-notifications` documentation (#21105)</code>](https://github.com/netdata/netdata.git/commit/3b920aba48c71d9fb3ff90e8aca90ccf29a7b00f)
+- [ ] [<code>Regenerate integrations docs (#21106)</code>](https://github.com/netdata/netdata.git/commit/97d3cfb4b832d00d7d36f97003fb5eb34b6e4bfa)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
