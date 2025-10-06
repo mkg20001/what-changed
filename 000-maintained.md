@@ -4962,6 +4962,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-47-nightly.</code>](https://github.com/netdata/netdata.git/commit/6fdf0c5fa01c2693abfd5cf245a3b55b232c8035)
 - [ ] [<code>Event loop cleanup (#21091)</code>](https://github.com/netdata/netdata.git/commit/e1ef92522ffd326eb52111792830931d5a8ca3e7)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-49-nightly.</code>](https://github.com/netdata/netdata.git/commit/462480ad1129310ff08ccd7a4ed1b75003ec49b7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
