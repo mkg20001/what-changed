@@ -89,6 +89,7 @@
 - [ ] [<code>interface: fix reload for devices that point to vlan aliases</code>](https://git.openwrt.org/project/netifd.git/commit/c3bf8fd913a440b0711d48ea6b97e73e9a53a292)
 - [ ] [<code>bridge: fix reload when ports refer to aliased vlans on another bridge</code>](https://git.openwrt.org/project/netifd.git/commit/22216cac7c94847d49ad844a5a33d76395cd0f00)
 - [ ] [<code>system: add logging wrappers for basic system functions</code>](https://git.openwrt.org/project/netifd.git/commit/ecca21ca07dd3b82004d9a7a946ff0228a07b071)
+- [ ] [<code>config: fix overriding bridge-vlan sections via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/649028013a3c8f6ed53fc97ca997d2528d06b5d9)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
 
