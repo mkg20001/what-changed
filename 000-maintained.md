@@ -4538,6 +4538,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>proc_loadavg: Prevent integer overflow calculating the sleep interval</code>](https://github.com/lxc/lxcfs/commit/2ea556114102149b454b39e859a5c8ae8697c959)
 - [ ] [<code>github: Bump actions/checkout to v5</code>](https://github.com/lxc/lxcfs/commit/3d811221403f89ff47c70f7ef26fddf80d80d211)
 - [ ] [<code>github: Use Github Arm runners</code>](https://github.com/lxc/lxcfs/commit/8a281f9f291cc9da288e36a9ac2e993cf16ea4ac)
+- [ ] [<code>proc_fuse: fix proc_stat_read reporting host cpu count under cgroup v2</code>](https://github.com/lxc/lxcfs/commit/255b7a74774ea1b3ca87a6c16153241b6abdd30d)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -5014,6 +5015,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix invalid map.csv (#21108)</code>](https://github.com/netdata/netdata.git/commit/87a86b08af2ccdf4e2af9ff578eafe1e1fb49b17)
 - [ ] [<code>Fix freeipmi crash (#21109)</code>](https://github.com/netdata/netdata.git/commit/4f2875a4112beda099a661623025ade1705e414d)
 - [ ] [<code>Update installer documentation (#21096)</code>](https://github.com/netdata/netdata.git/commit/15790f858a28ef38e60537e2001f3b92ee873fe9)
+- [ ] [<code>ibm.d.plugin: i, db2, mq, websphere (#21066)</code>](https://github.com/netdata/netdata.git/commit/5f60100665c900280dcb7f23ab0f4c570822c4fd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-62-nightly.</code>](https://github.com/netdata/netdata.git/commit/e293196a71784713facbaab05f8320fb9b2ce016)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.66.1 to 0.67.1 in /src/go (#21111)</code>](https://github.com/netdata/netdata.git/commit/1ba6fdf0fbcf264d7d60e242342606d5bd6559f3)
+- [ ] [<code>build(deps): bump github.com/ibmdb/go_ibm_db from 0.4.5 to 0.5.3 in /src/go (#21110)</code>](https://github.com/netdata/netdata.git/commit/ad5ec56f7a00e782608304e9e7e3fab58cad8880)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6962,7 +6969,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.84.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.84.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [synapse-admin](https://github.com/Awesome-Technologies/synapse-admin): [refs/tags/0.11.1 → HEAD](https://github.com/Awesome-Technologies/synapse-admin/compare/refs/tags/0.11.1...HEAD)
@@ -7021,6 +7028,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update ipv8</code>](https://github.com/tribler/Tribler/commit/d249e2c68c1ea8448b22384d0e5891b030512518)
 - [ ] [<code>Update rust module (#8769)</code>](https://github.com/tribler/Tribler/commit/a8d767b963e88fb7fae7804f351713a62967e41c)
+- [ ] [<code>Fixed startup crash without interfaces</code>](https://github.com/tribler/Tribler/commit/d65bd0ec673383b33fe475ce22ec6ffe83bb5edd)
+- [ ] [<code>Don't determine LAN addresses in Mac validation tests</code>](https://github.com/tribler/Tribler/commit/0b3d4c76428e69a88d6537f8ea343309c6cb6cb9)
+- [ ] [<code>Fix executable/hidden/symlink flag counting as padding flag</code>](https://github.com/tribler/Tribler/commit/0a2ca69540ab9d4b2efa0af6bf50342d6050ad5c)
+- [ ] [<code>Fixes torrent_finished_alerts not propagating</code>](https://github.com/tribler/Tribler/commit/b8c4366b5010abc873d0cad8af33ea0832510ea7)
+- [ ] [<code>Start with all selected when not asking SaveAs</code>](https://github.com/tribler/Tribler/commit/e78d5759e21225da18dee9a1845cb74b7ad37d96)
+- [ ] [<code>Various fixes (#8779)</code>](https://github.com/tribler/Tribler/commit/e180e4333f001502a1674204eaa682993c14e6c1)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
