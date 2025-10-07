@@ -520,6 +520,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/ee3682cbed54338dce9285a51369d3565be8df92)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4251,6 +4252,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/ee3682cbed54338dce9285a51369d3565be8df92)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4332,6 +4334,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>reformat_libyuv: use RAWToI444/RAWToJ444 if available (#2598)</code>](https://github.com/AOMediaCodec/libavif/commit/e6823beb60be9da604a7409ca36d973853c9d76a)
 - [ ] [<code>Bump the github-actions group with 4 updates (#2878)</code>](https://github.com/AOMediaCodec/libavif/commit/e91e0d6d6d01ad8256e52a8d7a958ee8d69cc652)
 - [ ] [<code>Add creationTime & modificationTime to avifEncoder</code>](https://github.com/AOMediaCodec/libavif/commit/40cb2c1fbff1e14b6c81816b73a364490b12ffb6)
+- [ ] [<code>Check creationTime only if LLONG_MAX > UINT64_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/37ff3889b7b0b4ca34d708dc5bb5d0ef240d821d)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
