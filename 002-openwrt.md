@@ -10,6 +10,10 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>lua: build: require CMake >= 3.10 due to dropped legacy support</code>](https://git.openwrt.org/project/libubox.git/commit/c163d7ab8cdc248a4f82efe339ba29fd8001b5e7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/libubox.git/commit/7a3863acfb15413d9346d6e7b0c951b8fba72220)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/libubox.git/commit/61cc1e6fdc0eec075869e1d4d2e6e98c10856b97)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -108,6 +112,10 @@
 - [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/ubus.git/commit/2b69c9859946af32cbe89173b71bcecbd1761734)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>lua: build: require CMake >= 3.10 due to dropped legacy support</code>](https://git.openwrt.org/project/ubus.git/commit/ad2768bbc166b4dcb32665d7b3434d54150b2abc)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/ubus.git/commit/b462895d3157c0f2a87fb4a0341eead4202ce272)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/ubus.git/commit/f247c18f8a552b87f74427df5ef8c43f8f942628)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
