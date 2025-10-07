@@ -272,6 +272,9 @@
 - [ ] [<code>feat: Forward notifications to Android Auto</code>](https://github.com/krille-chan/fluffychat/commit/40bd7eed9191df830cf1409b1212e4b163045417)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/a88849c2dbaf30228d6541515f48489030aec1c6)
+- [ ] [<code>chore: Follow up notification action</code>](https://github.com/krille-chan/fluffychat/commit/1bef2dcbbbd353a9059b64963d9fab87521e828b)
+- [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
+- [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -437,6 +440,9 @@
 - [ ] [<code>feat: Forward notifications to Android Auto</code>](https://github.com/krille-chan/fluffychat/commit/40bd7eed9191df830cf1409b1212e4b163045417)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/a88849c2dbaf30228d6541515f48489030aec1c6)
+- [ ] [<code>chore: Follow up notification action</code>](https://github.com/krille-chan/fluffychat/commit/1bef2dcbbbd353a9059b64963d9fab87521e828b)
+- [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
+- [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -520,6 +526,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/ee3682cbed54338dce9285a51369d3565be8df92)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/lvm: Clarify doc strings</code>](https://github.com/lxc/incus/commit/90393ee2bf68b2added69ed0fa6d26e5fadb0b2a)
+- [ ] [<code>incusd/storage: Don't skip zeroes on qcow2 unpack to LVM</code>](https://github.com/lxc/incus/commit/f2f2ff6c190c09105a5b04eb2b25fc1cb64b2ea7)
+- [ ] [<code>incusd/device: Fix gofumpt</code>](https://github.com/lxc/incus/commit/130f7049ad67d52b8261467d8ea046a73b9a588d)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/0eb0fee18021e1f46888bd2632c23385e616161d)
 - [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
@@ -4252,6 +4262,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/ee3682cbed54338dce9285a51369d3565be8df92)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/lvm: Clarify doc strings</code>](https://github.com/lxc/incus/commit/90393ee2bf68b2added69ed0fa6d26e5fadb0b2a)
+- [ ] [<code>incusd/storage: Don't skip zeroes on qcow2 unpack to LVM</code>](https://github.com/lxc/incus/commit/f2f2ff6c190c09105a5b04eb2b25fc1cb64b2ea7)
+- [ ] [<code>incusd/device: Fix gofumpt</code>](https://github.com/lxc/incus/commit/130f7049ad67d52b8261467d8ea046a73b9a588d)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/0eb0fee18021e1f46888bd2632c23385e616161d)
 - [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
@@ -4994,6 +5008,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(go.d/snmp): Add APC PowerNet-MIB sysObjectID mappings and categories (#21104)</code>](https://github.com/netdata/netdata.git/commit/b16f359576d9fa873f8463f32d2f580f5dfbec32)
 - [ ] [<code>Update `cloud-notifications` documentation (#21105)</code>](https://github.com/netdata/netdata.git/commit/3b920aba48c71d9fb3ff90e8aca90ccf29a7b00f)
 - [ ] [<code>Regenerate integrations docs (#21106)</code>](https://github.com/netdata/netdata.git/commit/97d3cfb4b832d00d7d36f97003fb5eb34b6e4bfa)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-56-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ca7bdae85c24224de92d25e4e01a5d20d12184f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve logging and packet handling for unknown packet IDs (#21099)</code>](https://github.com/netdata/netdata.git/commit/293969a27e340fc9cf7bf2df1ae98a03e29bcc1d)
+- [ ] [<code>Fix invalid map.csv (#21108)</code>](https://github.com/netdata/netdata.git/commit/87a86b08af2ccdf4e2af9ff578eafe1e1fb49b17)
+- [ ] [<code>Fix freeipmi crash (#21109)</code>](https://github.com/netdata/netdata.git/commit/4f2875a4112beda099a661623025ade1705e414d)
+- [ ] [<code>Update installer documentation (#21096)</code>](https://github.com/netdata/netdata.git/commit/15790f858a28ef38e60537e2001f3b92ee873fe9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5723,6 +5743,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cli:utils Fix systemctl_is_installed</code>](https://github.com/canonical/netplan/commit/dee89e8114ed6be4403e9c0bc927a4324adda546)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cli:status fail cleanly if systemd-networkd is not present</code>](https://github.com/canonical/netplan/commit/baba35fc07539cf3abdbfb987957f5ac3617c9ff)
+- [ ] [<code>doc: Fix How-to guides link (LP: #2126684)</code>](https://github.com/canonical/netplan/commit/b72b2f8ea14fb5739b1d997a4a77abfbcdbd2e9d)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
