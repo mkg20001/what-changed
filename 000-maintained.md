@@ -18,7 +18,7 @@
 - [ ] [<code>refactor: remove unused semaphore 'stopped' from cowsql_node structure</code>](https://github.com/cowsql/cowsql/commit/8e73441c0e68d1cb602e2dbc0cc3f26f20eecd8e)
 - [ ] [<code>refactor: replace semaphores, mutexes, conditions and threads with uv equivalents</code>](https://github.com/cowsql/cowsql/commit/a27e21b9d15e46f6b64b2e94aee165ae492f158c)
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.0/dbeaver-ce-25.2.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.0/dbeaver-ce-25.2.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.2/dbeaver-ce-25.2.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.2/dbeaver-ce-25.2.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -5033,6 +5033,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-66-nightly.</code>](https://github.com/netdata/netdata.git/commit/b2bfb77ea860346135018ad63115b6858dbbe120)
 - [ ] [<code>Address NULL access (windows.plugin) (#21112)</code>](https://github.com/netdata/netdata.git/commit/3d60322ada82cfd42af588b3a7986e514bdce6f1)
+- [ ] [<code>Properly include client compoents for IBM MQ libraries. (#21117)</code>](https://github.com/netdata/netdata.git/commit/6af6a3636ba08a5dc9aa9cecca384f186f959a38)
+- [ ] [<code>Add openSUSE Leap 16.0 and Ubuntu 25.10 to CI and package builds. (#21100)</code>](https://github.com/netdata/netdata.git/commit/1a29716a507fbb62b00f4ce005d4aff3a38840b2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-70-nightly.</code>](https://github.com/netdata/netdata.git/commit/52407c7294e6b6dcef671241ace2b02a66abaa2b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5763,6 +5767,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>cli:status fail cleanly if systemd-networkd is not present</code>](https://github.com/canonical/netplan/commit/baba35fc07539cf3abdbfb987957f5ac3617c9ff)
 - [ ] [<code>doc: Fix How-to guides link (LP: #2126684)</code>](https://github.com/canonical/netplan/commit/b72b2f8ea14fb5739b1d997a4a77abfbcdbd2e9d)
+- [ ] [<code>test:dbus: avoid dependency on dbus-launch (Closes: #1117099)</code>](https://github.com/canonical/netplan/commit/c7a4f346a0cdad67e6721868651ca55081243c03)
+  - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
