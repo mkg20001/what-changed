@@ -531,6 +531,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device: Fix gofumpt</code>](https://github.com/lxc/incus/commit/130f7049ad67d52b8261467d8ea046a73b9a588d)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/0eb0fee18021e1f46888bd2632c23385e616161d)
 - [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
+- [ ] [<code>incusd/network/ovn: Check the correct config on uplink validation</code>](https://github.com/lxc/incus/commit/dd0bed967e76d2f610f2530041feb3324ac5d7d9)
+- [ ] [<code>incusd/instance/qemu: Add support for SPICE audio</code>](https://github.com/lxc/incus/commit/e22b991b05dedfaa82f45251ae0375470bce04b5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4267,6 +4269,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device: Fix gofumpt</code>](https://github.com/lxc/incus/commit/130f7049ad67d52b8261467d8ea046a73b9a588d)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/0eb0fee18021e1f46888bd2632c23385e616161d)
 - [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
+- [ ] [<code>incusd/network/ovn: Check the correct config on uplink validation</code>](https://github.com/lxc/incus/commit/dd0bed967e76d2f610f2530041feb3324ac5d7d9)
+- [ ] [<code>incusd/instance/qemu: Add support for SPICE audio</code>](https://github.com/lxc/incus/commit/e22b991b05dedfaa82f45251ae0375470bce04b5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5021,6 +5025,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-62-nightly.</code>](https://github.com/netdata/netdata.git/commit/e293196a71784713facbaab05f8320fb9b2ce016)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.66.1 to 0.67.1 in /src/go (#21111)</code>](https://github.com/netdata/netdata.git/commit/1ba6fdf0fbcf264d7d60e242342606d5bd6559f3)
 - [ ] [<code>build(deps): bump github.com/ibmdb/go_ibm_db from 0.4.5 to 0.5.3 in /src/go (#21110)</code>](https://github.com/netdata/netdata.git/commit/ad5ec56f7a00e782608304e9e7e3fab58cad8880)
+- [ ] [<code>Fix windows build (#21113)</code>](https://github.com/netdata/netdata.git/commit/c1734f303b4ab0aef507efad15684d04c2013ee8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
