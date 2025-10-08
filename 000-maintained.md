@@ -54,6 +54,7 @@
 - [ ] [<code>windows: Write viosock service and lib files</code>](https://github.com/lxc/distrobuilder/commit/d0ec6640a7754548692e455e4ea926005f2add2e)
 - [ ] [<code>distrobuilder: Make linter happy</code>](https://github.com/lxc/distrobuilder/commit/608b70e6f135690dccd81d1ee688cfc525aead12)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>windows: Fix lib dir location</code>](https://github.com/lxc/distrobuilder/commit/5400886f44d710d24ff900175cecd89853c724dc)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
@@ -533,6 +534,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
 - [ ] [<code>incusd/network/ovn: Check the correct config on uplink validation</code>](https://github.com/lxc/incus/commit/dd0bed967e76d2f610f2530041feb3324ac5d7d9)
 - [ ] [<code>incusd/instance/qemu: Add support for SPICE audio</code>](https://github.com/lxc/incus/commit/e22b991b05dedfaa82f45251ae0375470bce04b5)
+- [ ] [<code>incusd/console: Close remote connection on console disconnect</code>](https://github.com/lxc/incus/commit/a37f1eb2b05c1d3269a4b7d5058f79bdbb8ec8c5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4271,6 +4273,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update translations from Weblate</code>](https://github.com/lxc/incus/commit/80539ad940ab9f4d056e1ccd8261e150c7c49d0a)
 - [ ] [<code>incusd/network/ovn: Check the correct config on uplink validation</code>](https://github.com/lxc/incus/commit/dd0bed967e76d2f610f2530041feb3324ac5d7d9)
 - [ ] [<code>incusd/instance/qemu: Add support for SPICE audio</code>](https://github.com/lxc/incus/commit/e22b991b05dedfaa82f45251ae0375470bce04b5)
+- [ ] [<code>incusd/console: Close remote connection on console disconnect</code>](https://github.com/lxc/incus/commit/a37f1eb2b05c1d3269a4b7d5058f79bdbb8ec8c5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5028,6 +5031,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix windows build (#21113)</code>](https://github.com/netdata/netdata.git/commit/c1734f303b4ab0aef507efad15684d04c2013ee8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-66-nightly.</code>](https://github.com/netdata/netdata.git/commit/b2bfb77ea860346135018ad63115b6858dbbe120)
+- [ ] [<code>Address NULL access (windows.plugin) (#21112)</code>](https://github.com/netdata/netdata.git/commit/3d60322ada82cfd42af588b3a7986e514bdce6f1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
