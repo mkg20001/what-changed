@@ -426,6 +426,7 @@
 - [ ] [<code>navigation: Allow click event handling into an inactive pane if</code>](https://github.com/linuxmint/nemo/commit/cbeb6afe60d0bd71fdb1f9c43ba51271e843333e)
 - [ ] [<code>nemo-tree-sidebar.c: disconnect handlers from the correct instance.</code>](https://github.com/linuxmint/nemo/commit/d0d9591fde9905568f0f571d95482b0365ea422f)
 - [ ] [<code>nemo-tree-sidebar-model.c: Use g_clear_object instead of custom</code>](https://github.com/linuxmint/nemo/commit/f2ee70790057a1639527858a2c9a232c3b8a3688)
+- [ ] [<code>nemo-places-sidebar.c: Don't show shadowed mounts, or mounts without</code>](https://github.com/linuxmint/nemo/commit/93815617c16d3980a930421283d65db2f22af9cc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
