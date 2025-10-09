@@ -105,6 +105,9 @@
 - [ ] [<code>Bump to Flutter 3.32.7 and Yaru 8.2</code>](https://github.com/canonical/firmware-updater/commit/bb59c1bf655551a0c0c35edbf5b9a044fa119acd)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: Revert Flutter to 3.32.7 (#369)</code>](https://github.com/canonical/firmware-updater/commit/4bc40ee5b19af2fecedc38778386024bee0fd26c)
+- [ ] [<code>chore: Revert "fix: Revert Flutter to 3.32.7 (#369)"</code>](https://github.com/canonical/firmware-updater/commit/be7e3fb2b4fae5a7cc7df92547d916628809e86c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: Revert "fix: Revert Flutter to 3.32.7 (#369)" (#371)</code>](https://github.com/canonical/firmware-updater/commit/0052f6b17f40c34a0eacd1ea398b64d802697f2e)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -276,6 +279,7 @@
 - [ ] [<code>chore: Follow up notification action</code>](https://github.com/krille-chan/fluffychat/commit/1bef2dcbbbd353a9059b64963d9fab87521e828b)
 - [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
 - [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
+- [ ] [<code>chore: Follow up notification reply</code>](https://github.com/krille-chan/fluffychat/commit/9c260313ce7b9c9068e66b947e54109cd614c95c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -444,6 +448,7 @@
 - [ ] [<code>chore: Follow up notification action</code>](https://github.com/krille-chan/fluffychat/commit/1bef2dcbbbd353a9059b64963d9fab87521e828b)
 - [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
 - [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
+- [ ] [<code>chore: Follow up notification reply</code>](https://github.com/krille-chan/fluffychat/commit/9c260313ce7b9c9068e66b947e54109cd614c95c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4546,6 +4551,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>github: Bump actions/checkout to v5</code>](https://github.com/lxc/lxcfs/commit/3d811221403f89ff47c70f7ef26fddf80d80d211)
 - [ ] [<code>github: Use Github Arm runners</code>](https://github.com/lxc/lxcfs/commit/8a281f9f291cc9da288e36a9ac2e993cf16ea4ac)
 - [ ] [<code>proc_fuse: fix proc_stat_read reporting host cpu count under cgroup v2</code>](https://github.com/lxc/lxcfs/commit/255b7a74774ea1b3ca87a6c16153241b6abdd30d)
+- [ ] [<code>cgroups: extract cgfsng_can_use_memory_feature() util function</code>](https://github.com/lxc/lxcfs/commit/b54e16a09eb033e10c338216247e1ccc49a39e02)
+- [ ] [<code>cgroups: add zswap feature detection</code>](https://github.com/lxc/lxcfs/commit/21ce4aa4b9f898e9f155bab087bc938244b6c884)
+- [ ] [<code>lxcfs: add disable-zswap opt</code>](https://github.com/lxc/lxcfs/commit/777505614a3c924145a5db1a2222e9f1a1a28bb5)
+- [ ] [<code>bindings: add zswap feature detection</code>](https://github.com/lxc/lxcfs/commit/0dc531d2f673061f2d40454b632046b5e7f3d39e)
+- [ ] [<code>proc_fuse: add zswap information to /proc/meminfo</code>](https://github.com/lxc/lxcfs/commit/6bd2ebd751f7f824c1d75c03c1246277ddc0bfc1)
+- [ ] [<code>cgroups: replace dup() call with openat_safe()</code>](https://github.com/lxc/lxcfs/commit/c503b12083d341095aa0e63b0ae80b58cfb1f1cf)
+- [ ] [<code>lxcfs: use macro to generate liblxcfs call helpers</code>](https://github.com/lxc/lxcfs/commit/82481b6a39062fa4cf74595c717abb7a47f655ef)
+- [ ] [<code>src/utils: fix in_same_namespace helper</code>](https://github.com/lxc/lxcfs/commit/af454ab8d4cf4c98b83e8519101e2cb21e4d9140)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -5037,6 +5050,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add openSUSE Leap 16.0 and Ubuntu 25.10 to CI and package builds. (#21100)</code>](https://github.com/netdata/netdata.git/commit/1a29716a507fbb62b00f4ce005d4aff3a38840b2)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-70-nightly.</code>](https://github.com/netdata/netdata.git/commit/52407c7294e6b6dcef671241ace2b02a66abaa2b)
+- [ ] [<code>Make native package dependencies consistent between DEB/RPM packages. (#21118)</code>](https://github.com/netdata/netdata.git/commit/b88d6b995ef6425b4c69a507c12df01a259fa98d)
+- [ ] [<code>Properly check for ODBC for IBM plugin at configuration time. (#21116)</code>](https://github.com/netdata/netdata.git/commit/ac617628a514639284d471d471692d004e1aa06a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix issues with IBM libs plugin. (#21120)</code>](https://github.com/netdata/netdata.git/commit/1dc6ecb3633c97a0c6d244c19e35f58ddf23cec8)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Improve free disk space calculation for Windows (#21121)</code>](https://github.com/netdata/netdata.git/commit/46b1bd89a3d053926958c6a04ed44785d458fc5d)
+- [ ] [<code>Update IBM plugin documentation. (#21122)</code>](https://github.com/netdata/netdata.git/commit/17e5149a61c77aae8a9e6d3c8396646ea316070d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(ibm.d): various fixes (#21123)</code>](https://github.com/netdata/netdata.git/commit/f6ba56fb6d2392a38026cd111e005c63f6adebbd)
+- [ ] [<code>fix(ibm.d/mq): change default ExponentialBackoff attempts to 2 (#21124)</code>](https://github.com/netdata/netdata.git/commit/b4259205a16ed6ef2ef04a2b47acf21344dca6f6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-78-nightly.</code>](https://github.com/netdata/netdata.git/commit/bf77f8b34c33fb122db3678fbc75012eeb2db336)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5769,6 +5793,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Fix How-to guides link (LP: #2126684)</code>](https://github.com/canonical/netplan/commit/b72b2f8ea14fb5739b1d997a4a77abfbcdbd2e9d)
 - [ ] [<code>test:dbus: avoid dependency on dbus-launch (Closes: #1117099)</code>](https://github.com/canonical/netplan/commit/c7a4f346a0cdad67e6721868651ca55081243c03)
   - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>doc: fix link to 'Set up WSL on Windows' to fix linkcheck CI</code>](https://github.com/canonical/netplan/commit/c1565a03b8cf726f197e7c1754bc63e886ef3e39)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -6923,6 +6949,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>build: wait for workflow to finish in sign-release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1bb88c915d88dbc2b6ff77e25390438e708de3af)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Translations update from Codeberg Translate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3ccfcfbf7235067e53cf86c06a4c0b8f30361d8d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
