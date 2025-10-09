@@ -5775,7 +5775,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.35.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.35.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.36.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.36.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -6913,6 +6913,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(lib): worst case is actually still 10</code>](https://github.com/Oppzippy/OpenSCQ30/commit/673f23b798ce1723a0fb58143321152b4ea58b86)
 - [ ] [<code>docs: mark a3959 as working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e56cd92e5224ffd66b8fc1c39f461aacb618d9a)
 - [ ] [<code>build: disable proptest default-features</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c148e487c4f267e70546108d7bcb59209c34fbbb)
+- [ ] [<code>feat(lib): add sending packets from development device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/af196d09545c9ee45b5f15c1997289ed910477a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): A3028 state update packet with firmware version 05.19</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1db72477a38f95345d67ea29cee8eaaa63926536)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c753d6b9b01be9648b6db01594a49f3f86624ba3)
+- [ ] [<code>build: v2.0.0-beta2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4eb860cabc5752706c3ec7c3414fbb5a2dd1aab3)
+  - <sub>Tags: <code>v2.0.0-beta2</code></sub>
+- [ ] [<code>build: download artifacts in sign release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a46d848a20caa3726657c92519f6ce5068fa677f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>build: wait for workflow to finish in sign-release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1bb88c915d88dbc2b6ff77e25390438e708de3af)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
