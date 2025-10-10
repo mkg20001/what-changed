@@ -547,10 +547,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/lxc: Add support for systemd credentials through CREDENTIALS_DIRECTORY</code>](https://github.com/lxc/incus/commit/64fef8e63b898c6afb549ef39fa49555e6bd93f7)
 - [ ] [<code>incusd/instance/lxc: Allow live-updating systemd credentials</code>](https://github.com/lxc/incus/commit/ecdf48fca949e66a0dc5b7d596533dcf6eedcefa)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3158694fd5e4f14e18575fc0b7dc37fbbaf907c3)
+- [ ] [<code>incus-agent: Pass more information to osUmount</code>](https://github.com/lxc/incus/commit/a3f8d7321f907821685ac533d031d20275142310)
 - [ ] [<code>api: instance_systemd_credentials</code>](https://github.com/lxc/incus/commit/1b342013ec8fdc7b684ba43d4b0b88227a458ddb)
 - [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/df5e2ee55bdbc3e7d38b9dacd53bdc9e7d558220)
 - [ ] [<code>test: Add tests for systemd keys</code>](https://github.com/lxc/incus/commit/5c20d6c93f0bf02d93e3f6c35e068f38f29bbf93)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster: Disable proxy during cluster join</code>](https://github.com/lxc/incus/commit/ccc4c4e8c3ecef945be2536fca4e64a0c95d65b1)
+- [ ] [<code>gomod: Add gopsutil</code>](https://github.com/lxc/incus/commit/f2883719768653e3d8611f312c1f7c1946976a10)
+- [ ] [<code>agent/darwin: Initial darwin agent implementation</code>](https://github.com/lxc/incus/commit/e27fae43e647160eef0ef7da87e22398f1b3d85e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4297,10 +4302,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/lxc: Add support for systemd credentials through CREDENTIALS_DIRECTORY</code>](https://github.com/lxc/incus/commit/64fef8e63b898c6afb549ef39fa49555e6bd93f7)
 - [ ] [<code>incusd/instance/lxc: Allow live-updating systemd credentials</code>](https://github.com/lxc/incus/commit/ecdf48fca949e66a0dc5b7d596533dcf6eedcefa)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3158694fd5e4f14e18575fc0b7dc37fbbaf907c3)
+- [ ] [<code>incus-agent: Pass more information to osUmount</code>](https://github.com/lxc/incus/commit/a3f8d7321f907821685ac533d031d20275142310)
 - [ ] [<code>api: instance_systemd_credentials</code>](https://github.com/lxc/incus/commit/1b342013ec8fdc7b684ba43d4b0b88227a458ddb)
 - [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/df5e2ee55bdbc3e7d38b9dacd53bdc9e7d558220)
 - [ ] [<code>test: Add tests for systemd keys</code>](https://github.com/lxc/incus/commit/5c20d6c93f0bf02d93e3f6c35e068f38f29bbf93)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/cluster: Disable proxy during cluster join</code>](https://github.com/lxc/incus/commit/ccc4c4e8c3ecef945be2536fca4e64a0c95d65b1)
+- [ ] [<code>gomod: Add gopsutil</code>](https://github.com/lxc/incus/commit/f2883719768653e3d8611f312c1f7c1946976a10)
+- [ ] [<code>agent/darwin: Initial darwin agent implementation</code>](https://github.com/lxc/incus/commit/e27fae43e647160eef0ef7da87e22398f1b3d85e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5083,6 +5093,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ibm.d): various fixes (#21123)</code>](https://github.com/netdata/netdata.git/commit/f6ba56fb6d2392a38026cd111e005c63f6adebbd)
 - [ ] [<code>fix(ibm.d/mq): change default ExponentialBackoff attempts to 2 (#21124)</code>](https://github.com/netdata/netdata.git/commit/b4259205a16ed6ef2ef04a2b47acf21344dca6f6)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-78-nightly.</code>](https://github.com/netdata/netdata.git/commit/bf77f8b34c33fb122db3678fbc75012eeb2db336)
+- [ ] [<code>chore: go.d/ibm.d various fixes (#21128)</code>](https://github.com/netdata/netdata.git/commit/eb839e2b3ddedcfe3f92dcb47402a22fb8d0fb5c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: update go otel deps (#21129)</code>](https://github.com/netdata/netdata.git/commit/f4d49ad65cd86ad209a076b1762e342cdeba0cd1)
+- [ ] [<code>build(deps): bump github/codeql-action from 3 to 4 (#21133)</code>](https://github.com/netdata/netdata.git/commit/487257b360904d901c6e39ab1dc25c073d94c94c)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.44.0 to 0.46.0 in /src/go (#21137)</code>](https://github.com/netdata/netdata.git/commit/1bd0bc1a1ad2552bcc2c49ae565e374dcabc7aa8)
+- [ ] [<code>build(deps): bump github.com/gofrs/flock from 0.12.1 to 0.13.0 in /src/go (#21134)</code>](https://github.com/netdata/netdata.git/commit/3806545d27a1a14b4598a7de382e48497a4089c8)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.5.0+incompatible to 28.5.1+incompatible in /src/go (#21135)</code>](https://github.com/netdata/netdata.git/commit/cd9fd817aa41a481655693b476f4cb1fae42e035)
+- [ ] [<code>build(deps): bump github.com/gohugoio/hashstructure from 0.5.0 to 0.6.0 in /src/go (#21138)</code>](https://github.com/netdata/netdata.git/commit/ad8f8168bafdadb91b9e23442910dd25406b1c82)
+- [ ] [<code>chore: move go.d/ibm.d shared pkgs out of go.d (#21132)</code>](https://github.com/netdata/netdata.git/commit/2ee834161374d706e6bfff551ed3045d9095d1ba)
+- [ ] [<code>improve(go.d/snmp): automatically disable SNMP bulkwalk when not supported (#21139)</code>](https://github.com/netdata/netdata.git/commit/dae04b7a3a3265e52f4283fae09c2baeee08de22)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6972,6 +6992,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: wait for workflow to finish in sign-release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1bb88c915d88dbc2b6ff77e25390438e708de3af)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Translations update from Codeberg Translate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3ccfcfbf7235067e53cf86c06a4c0b8f30361d8d)
+- [ ] [<code>docs: add translations and packaging status to readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/556cc351a0b2c1193f6ca2de83b919fd19488c68)
+- [ ] [<code>ci: test and lint pull requests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/94b3aaff853aa5b6ebe7dc9d4ffd8f5800d005e1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
