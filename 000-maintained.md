@@ -540,6 +540,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/ovn: Check the correct config on uplink validation</code>](https://github.com/lxc/incus/commit/dd0bed967e76d2f610f2530041feb3324ac5d7d9)
 - [ ] [<code>incusd/instance/qemu: Add support for SPICE audio</code>](https://github.com/lxc/incus/commit/e22b991b05dedfaa82f45251ae0375470bce04b5)
 - [ ] [<code>incusd/console: Close remote connection on console disconnect</code>](https://github.com/lxc/incus/commit/a37f1eb2b05c1d3269a4b7d5058f79bdbb8ec8c5)
+- [ ] [<code>shared/resources: Fix caching mechanism</code>](https://github.com/lxc/incus/commit/5ed516ab3fd8cff97962b045becea2fc10644403)
+- [ ] [<code>shared/validate: Add IsBase64</code>](https://github.com/lxc/incus/commit/2b25f5d4374782bc2768f80e5a560ffb99991af1)
+- [ ] [<code>incusd/instance/config: Add systemd.credential.* and systemd.credential-binary.*</code>](https://github.com/lxc/incus/commit/ae9972e559058ebe43018d0c95a4a3305dcdbc30)
+- [ ] [<code>incusd/instance/qemu: Add support for systemd credentials through SMBIOS-11</code>](https://github.com/lxc/incus/commit/a3753ba516cb9d42f29656f9f958a10992daffb7)
+- [ ] [<code>incusd/instance/lxc: Add support for systemd credentials through CREDENTIALS_DIRECTORY</code>](https://github.com/lxc/incus/commit/64fef8e63b898c6afb549ef39fa49555e6bd93f7)
+- [ ] [<code>incusd/instance/lxc: Allow live-updating systemd credentials</code>](https://github.com/lxc/incus/commit/ecdf48fca949e66a0dc5b7d596533dcf6eedcefa)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3158694fd5e4f14e18575fc0b7dc37fbbaf907c3)
+- [ ] [<code>api: instance_systemd_credentials</code>](https://github.com/lxc/incus/commit/1b342013ec8fdc7b684ba43d4b0b88227a458ddb)
+- [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/df5e2ee55bdbc3e7d38b9dacd53bdc9e7d558220)
+- [ ] [<code>test: Add tests for systemd keys</code>](https://github.com/lxc/incus/commit/5c20d6c93f0bf02d93e3f6c35e068f38f29bbf93)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4279,6 +4290,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/ovn: Check the correct config on uplink validation</code>](https://github.com/lxc/incus/commit/dd0bed967e76d2f610f2530041feb3324ac5d7d9)
 - [ ] [<code>incusd/instance/qemu: Add support for SPICE audio</code>](https://github.com/lxc/incus/commit/e22b991b05dedfaa82f45251ae0375470bce04b5)
 - [ ] [<code>incusd/console: Close remote connection on console disconnect</code>](https://github.com/lxc/incus/commit/a37f1eb2b05c1d3269a4b7d5058f79bdbb8ec8c5)
+- [ ] [<code>shared/resources: Fix caching mechanism</code>](https://github.com/lxc/incus/commit/5ed516ab3fd8cff97962b045becea2fc10644403)
+- [ ] [<code>shared/validate: Add IsBase64</code>](https://github.com/lxc/incus/commit/2b25f5d4374782bc2768f80e5a560ffb99991af1)
+- [ ] [<code>incusd/instance/config: Add systemd.credential.* and systemd.credential-binary.*</code>](https://github.com/lxc/incus/commit/ae9972e559058ebe43018d0c95a4a3305dcdbc30)
+- [ ] [<code>incusd/instance/qemu: Add support for systemd credentials through SMBIOS-11</code>](https://github.com/lxc/incus/commit/a3753ba516cb9d42f29656f9f958a10992daffb7)
+- [ ] [<code>incusd/instance/lxc: Add support for systemd credentials through CREDENTIALS_DIRECTORY</code>](https://github.com/lxc/incus/commit/64fef8e63b898c6afb549ef39fa49555e6bd93f7)
+- [ ] [<code>incusd/instance/lxc: Allow live-updating systemd credentials</code>](https://github.com/lxc/incus/commit/ecdf48fca949e66a0dc5b7d596533dcf6eedcefa)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/3158694fd5e4f14e18575fc0b7dc37fbbaf907c3)
+- [ ] [<code>api: instance_systemd_credentials</code>](https://github.com/lxc/incus/commit/1b342013ec8fdc7b684ba43d4b0b88227a458ddb)
+- [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/df5e2ee55bdbc3e7d38b9dacd53bdc9e7d558220)
+- [ ] [<code>test: Add tests for systemd keys</code>](https://github.com/lxc/incus/commit/5c20d6c93f0bf02d93e3f6c35e068f38f29bbf93)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
