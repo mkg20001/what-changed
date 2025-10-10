@@ -7111,6 +7111,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixes torrent_finished_alerts not propagating</code>](https://github.com/tribler/Tribler/commit/b8c4366b5010abc873d0cad8af33ea0832510ea7)
 - [ ] [<code>Start with all selected when not asking SaveAs</code>](https://github.com/tribler/Tribler/commit/e78d5759e21225da18dee9a1845cb74b7ad37d96)
 - [ ] [<code>Various fixes (#8779)</code>](https://github.com/tribler/Tribler/commit/e180e4333f001502a1674204eaa682993c14e6c1)
+- [ ] [<code>Fix torrent discovery</code>](https://github.com/tribler/Tribler/commit/0638d67c5ad812068a99897f3018985fd4819f89)
+- [ ] [<code>Fix torrent discovery (#8782)</code>](https://github.com/tribler/Tribler/commit/a7e86f5949a7361dff284035798b61e7bee335fb)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
