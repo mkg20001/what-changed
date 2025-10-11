@@ -1,8 +1,8 @@
-> Failed to clone https://git.openwrt.org/project/libnl-tiny.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/libnl-tiny.git /home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git'...
-fatal: unable to access 'https://git.openwrt.org/project/libnl-tiny.git/': The requested URL returned error: 503
-'
+
+#### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c0df580adbd4d555ecc1962dbe88e91d75b67a4e → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c0df580adbd4d555ecc1962dbe88e91d75b67a4e...HEAD)
+
+- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/feca1d341d4baa9579ec62762672aa0f20edf564)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [49056d178f42da98048a5d4c23f83a6f6bc6dd80 → HEAD](https://git.openwrt.org/project/libubox.git/compare/49056d178f42da98048a5d4c23f83a6f6bc6dd80...HEAD)
 
