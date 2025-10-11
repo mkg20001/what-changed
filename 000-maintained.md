@@ -5103,6 +5103,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/gohugoio/hashstructure from 0.5.0 to 0.6.0 in /src/go (#21138)</code>](https://github.com/netdata/netdata.git/commit/ad8f8168bafdadb91b9e23442910dd25406b1c82)
 - [ ] [<code>chore: move go.d/ibm.d shared pkgs out of go.d (#21132)</code>](https://github.com/netdata/netdata.git/commit/2ee834161374d706e6bfff551ed3045d9095d1ba)
 - [ ] [<code>improve(go.d/snmp): automatically disable SNMP bulkwalk when not supported (#21139)</code>](https://github.com/netdata/netdata.git/commit/dae04b7a3a3265e52f4283fae09c2baeee08de22)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-88-nightly.</code>](https://github.com/netdata/netdata.git/commit/7c195892e521fc3339ee8953d8cd38e014e81519)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6994,6 +6995,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Translations update from Codeberg Translate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3ccfcfbf7235067e53cf86c06a4c0b8f30361d8d)
 - [ ] [<code>docs: add translations and packaging status to readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/556cc351a0b2c1193f6ca2de83b919fd19488c68)
 - [ ] [<code>ci: test and lint pull requests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/94b3aaff853aa5b6ebe7dc9d4ffd8f5800d005e1)
+- [ ] [<code>ci: fix missing ktlint gpg key</code>](https://github.com/Oppzippy/OpenSCQ30/commit/95790f063bd0e911c255af16f3676dd523b00283)
+- [ ] [<code>ci: update ktlint to 1.7.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/efec8ff7224ed8edfffb56ed6dbd98a4a6ba6462)
+- [ ] [<code>ci: only run tests when relevant files changed</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6298617d8ea11f950e0a5b69ae42eeee797209e8)
+- [ ] [<code>ci: use spine-case for job names</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49f640d2813f2e28102a35ea67645e991a66f733)
+- [ ] [<code>ci: remove npm from dependabot</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9929da1e1cf4df46baca5505bf264c15f5480bcd)
+- [ ] [<code>ci: fix inconsistent workflow naming</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a93237caf90b2164e9d5845db01a0b26aed4bb6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
