@@ -556,6 +556,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Add gopsutil</code>](https://github.com/lxc/incus/commit/f2883719768653e3d8611f312c1f7c1946976a10)
 - [ ] [<code>agent/darwin: Initial darwin agent implementation</code>](https://github.com/lxc/incus/commit/e27fae43e647160eef0ef7da87e22398f1b3d85e)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>doc: Kubernetes and ClusterAPI integration</code>](https://github.com/lxc/incus/commit/6915a87d4d4e1b442a194d1020b78f1d3015496b)
+- [ ] [<code>doc: Add API to wordlist</code>](https://github.com/lxc/incus/commit/0691a2c59ad0214412eda89d90fc0e43cc746e1c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4311,6 +4313,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Add gopsutil</code>](https://github.com/lxc/incus/commit/f2883719768653e3d8611f312c1f7c1946976a10)
 - [ ] [<code>agent/darwin: Initial darwin agent implementation</code>](https://github.com/lxc/incus/commit/e27fae43e647160eef0ef7da87e22398f1b3d85e)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>doc: Kubernetes and ClusterAPI integration</code>](https://github.com/lxc/incus/commit/6915a87d4d4e1b442a194d1020b78f1d3015496b)
+- [ ] [<code>doc: Add API to wordlist</code>](https://github.com/lxc/incus/commit/0691a2c59ad0214412eda89d90fc0e43cc746e1c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
