@@ -55,6 +55,7 @@
 - [ ] [<code>distrobuilder: Make linter happy</code>](https://github.com/lxc/distrobuilder/commit/608b70e6f135690dccd81d1ee688cfc525aead12)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>windows: Fix lib dir location</code>](https://github.com/lxc/distrobuilder/commit/5400886f44d710d24ff900175cecd89853c724dc)
+- [ ] [<code>systemd-generator: Fix console-getty handling</code>](https://github.com/lxc/distrobuilder/commit/d0e0b68a627206a6dc5384587603b91f1e41d43b)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
 
