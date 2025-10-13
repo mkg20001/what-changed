@@ -4,6 +4,8 @@
 - [ ] [<code>Rework 'Remove' mode behavior.</code>](https://github.com/linuxmint/bulky/commit/a7f3490f1a979fadfc4ec456046ab619cc6b0fac)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Clarify the license as defined in debian/copyright and switch to spdx format (#81)</code>](https://github.com/linuxmint/bulky/commit/10ed28d79ee056fe0118d7531b270d4ce668211f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/bulky/commit/732f34b83582a6969214d37ece80d960488061cd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -468,6 +470,10 @@
 
 #### [pix](https://github.com/linuxmint/pix): [3.4.7 → HEAD](https://github.com/linuxmint/pix/compare/3.4.7...HEAD)
 
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/pix/commit/fcb9f33852805eae16132ee0e3f4992505f6f1bf)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
@@ -478,6 +484,8 @@
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>Ipv6 support (#231)</code>](https://github.com/linuxmint/warpinator/commit/70cc5ebe7baf7aaa9498993c4d77f7169f452177)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/warpinator/commit/6e705ceb12f7546c3930e42594f57f765747ce24)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [2.8.13 → HEAD](https://github.com/linuxmint/xapp/compare/2.8.13...HEAD)
 
@@ -485,17 +493,40 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Update docs.</code>](https://github.com/linuxmint/xapp/commit/7a243e35020d5eee4f6c43f79307128295a80d69)
+- [ ] [<code>Provide an alternative to Adwaita symbolic icons (#192)</code>](https://github.com/linuxmint/xapp/commit/7a3a06fe3ea078e72bbc13f59dc4ff97deae498b)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Revert "Remove XAppKbdLayoutController class."</code>](https://github.com/linuxmint/xapp/commit/7868b8f2865710675feb10f8d2c96e5146fbd126)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.0.0</code>](https://github.com/linuxmint/xapp/commit/89f34bd1154126162573f2b45a1cf737dc7d448a)
+  - <sub>Tags: <code>3.0.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>icons: Prefix non-prefixed icons</code>](https://github.com/linuxmint/xapp/commit/364b5538797483b22b3d1b56fd17678ccdee33e8)
+- [ ] [<code>3.0.1</code>](https://github.com/linuxmint/xapp/commit/2ab7c8b8dd66d7fea928cbc4d552cf901c84d852)
+  - <sub>Tags: <code>3.0.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>test-scripts: Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xapp/commit/724d9f9a60fe10c6b0a8bd7d75fe9809814f5c72)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.2 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.2...HEAD)
 
 - [ ] [<code>background.c: Add deprecation note.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c2b3bcc8fadb9cb3de27d974fad679ddf79a540)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5514bba434a7511f052f6c2e755af0710f23e50a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xreader/commit/342ebb5e1a3896f82958302787d6a8d507e64cda)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.12...HEAD)
 
 - [ ] [<code>packaging: Don't depend on a transitional package name</code>](https://github.com/linuxmint/xviewer/commit/b8cc32f70b96a523ea35bc06166aa672dab84ffa)
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xviewer/commit/5aeee772dec4b4b93b070b0eff3f6e6b848961b8)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
