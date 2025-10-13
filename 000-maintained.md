@@ -468,6 +468,7 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.7 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.7...HEAD)
 
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/afe8ad79955894710a48489f44800c7708c4da7d)
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -5109,6 +5110,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore: move go.d/ibm.d shared pkgs out of go.d (#21132)</code>](https://github.com/netdata/netdata.git/commit/2ee834161374d706e6bfff551ed3045d9095d1ba)
 - [ ] [<code>improve(go.d/snmp): automatically disable SNMP bulkwalk when not supported (#21139)</code>](https://github.com/netdata/netdata.git/commit/dae04b7a3a3265e52f4283fae09c2baeee08de22)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-88-nightly.</code>](https://github.com/netdata/netdata.git/commit/7c195892e521fc3339ee8953d8cd38e014e81519)
+- [ ] [<code>Improve agent startup on windows (#21125)</code>](https://github.com/netdata/netdata.git/commit/3e651470aaddfad9ea2b18509d8b1632fbff0636)
+- [ ] [<code>Add Fedora 43 to CI and package builds. (#21142)</code>](https://github.com/netdata/netdata.git/commit/b3e646545a33dcb0560d1804e5a7064b11d89c19)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Skip status file on windows on crash (#21140)</code>](https://github.com/netdata/netdata.git/commit/9844cdf1c19e9f3b342c4d133fe5dbf49f88999e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
