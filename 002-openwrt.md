@@ -117,23 +117,77 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/ubus.git/commit/f247c18f8a552b87f74427df5ef8c43f8f942628)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
-> Failed to clone https://git.openwrt.org/project/uci.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/uci.git /home/runner/work/what-changed/what-changed/src/../work/uci.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uci.git'...
-fatal: unable to access 'https://git.openwrt.org/project/uci.git/': The requested URL returned error: 500
-'
-> Failed to clone https://git.openwrt.org/project/uclient.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/uclient.git /home/runner/work/what-changed/what-changed/src/../work/uclient.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uclient.git'...
-POST git-upload-pack (233 bytes)
-error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500
-fatal: the remote end hung up unexpectedly
-'
-> Failed to clone https://git.openwrt.org/project/udebug.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/udebug.git /home/runner/work/what-changed/what-changed/src/../work/udebug.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/udebug.git'...
-fatal: unable to access 'https://git.openwrt.org/project/udebug.git/': The requested URL returned error: 500
-'
+
+#### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
+
+- [ ] [<code>file: Ignore config file with '.' in name</code>](https://git.openwrt.org/project/uci.git/commit/10f7996ec29449915640acca5d65b592365a4b14)
+- [ ] [<code>add support for an override config directory</code>](https://git.openwrt.org/project/uci.git/commit/fb3c2343b17b759b175f11aec5b3fbb1cf48bbc3)
+- [ ] [<code>CMakeLists.txt: bump minimum cmake version</code>](https://git.openwrt.org/project/uci.git/commit/047b2efc1348f489d1cf4526f5c5f3e070cb2411)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CMakeLists: add support for including ABIVERSION in the library version number</code>](https://git.openwrt.org/project/uci.git/commit/16ff0badbde7e17ec3bd1f827ffe45922956cf86)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
+- [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
+- [ ] [<code>lua: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uci.git/commit/a072095389595225af6996d33e1dba212af35f38)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/uci.git/commit/272fc1348ea9a13303828744a7f21fd269e87227)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>CMakeLists: fix CMake warning for INCLUDE macro</code>](https://git.openwrt.org/project/uci.git/commit/5e69edac2ec4d23a443de11d6f3f11912d8b2d89)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+
+#### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
+
+- [ ] [<code>add strdupa macro for compatibility</code>](https://git.openwrt.org/project/uclient.git/commit/e209a4ced1d80e8a4ac4290a6ade9d339eab1705)
+- [ ] [<code>uclient: add helper function for getting ustream-ssl context/ops</code>](https://git.openwrt.org/project/uclient.git/commit/af1962b9a60930cd1f24eff2854bceaa2a6c964d)
+- [ ] [<code>http: add helper function for checking redirect status</code>](https://git.openwrt.org/project/uclient.git/commit/488f1d52cfd2fcca8e0f3785311c247d13cb0170)
+- [ ] [<code>uclient: defer read notifications to uloop timer</code>](https://git.openwrt.org/project/uclient.git/commit/b6e5548a3ecc562db4c8d5356bdfd9a3fa5e59f8)
+- [ ] [<code>http: call ustream_poll if not enough read data is available</code>](https://git.openwrt.org/project/uclient.git/commit/352fb3eeb40846d576e942ed2674fde052b2d81c)
+- [ ] [<code>add ucode binding</code>](https://git.openwrt.org/project/uclient.git/commit/e611e6d0ff0ba31070abacdb53037d3e9a4115a6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>uclient: add function for getting the amount of pending read/write data</code>](https://git.openwrt.org/project/uclient.git/commit/ddb18d2657578bb39ffad4795cedee215f9b36b0)
+- [ ] [<code>ucode: fix a few ucode binding issues</code>](https://git.openwrt.org/project/uclient.git/commit/980220ad17622456be141fb66a00e2b776a58749)
+- [ ] [<code>ucode: add support for using a prototype for cb, pass it to callbacks</code>](https://git.openwrt.org/project/uclient.git/commit/6c16331e4bf542fbb538d62a6b5bf3d286ecbf2c)
+- [ ] [<code>lib: add log_msg callback to get more detailed log messages</code>](https://git.openwrt.org/project/uclient.git/commit/c2bf660d88ece757ebc4889ef30ec2fa11fb1e9e)
+- [ ] [<code>uclient-fetch: add uclient / ustream-ssl log messages (enabled via -v)</code>](https://git.openwrt.org/project/uclient.git/commit/9adb4ca5219dc73b1440de871e871cc5a12323bd)
+- [ ] [<code>uclient-http: use ustream_ssl without ustream_fd</code>](https://git.openwrt.org/project/uclient.git/commit/704c78111a92873474eca3c91ad91c555b03f607)
+- [ ] [<code>uclient: fix http regression</code>](https://git.openwrt.org/project/uclient.git/commit/e8780fa7792aaa2d68af21c0df91cd9c05e1f73a)
+- [ ] [<code>uclient-fetch: improve error handling</code>](https://git.openwrt.org/project/uclient.git/commit/e035d57686645bc18ae6ded2ffb18d40b158e900)
+- [ ] [<code>uclient-fetch: add support for --header cmdline argument</code>](https://git.openwrt.org/project/uclient.git/commit/a220818a1435cfa2b153aa36e6b9c543546fd9b8)
+- [ ] [<code>uclient-http: fix a typo</code>](https://git.openwrt.org/project/uclient.git/commit/88ae8f208dd313f69e268234f7db55956aef1cb9)
+- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uclient.git/commit/dc909ca71bc884c0e5362e1d7cc7808696cb2add)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+
+#### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
+
+- [ ] [<code>lib-ucode.c: add #define _GNU_SOURCE</code>](https://git.openwrt.org/project/udebug.git/commit/5d10084ea885b193bccd0f7da7137c1f5d766e58)
+- [ ] [<code>udebug-cli: fix terminating uloop</code>](https://git.openwrt.org/project/udebug.git/commit/a95364b41d52bb6ae087c55788dda0e9efa3ba6d)
+- [ ] [<code>ucode: use FILE handle for pcap output</code>](https://git.openwrt.org/project/udebug.git/commit/c00eb9b685a837c38bbcc979286bd44f4ffb8ec9)
+- [ ] [<code>ucode: add error reporting to pcap_write</code>](https://git.openwrt.org/project/udebug.git/commit/4265167cb6e8c647e3a45439b30009a1df7de8a5)
+- [ ] [<code>udebug-cli: stop event loop on write failure</code>](https://git.openwrt.org/project/udebug.git/commit/4a908ee731a6a8b8d48ef6138bd28dfa747f2a24)
+- [ ] [<code>ucode: use ucv_resource_create_ex for remote rings</code>](https://git.openwrt.org/project/udebug.git/commit/6e04f4187231a1b468ba257a1969a3430e146aea)
+- [ ] [<code>ucode: drop use ucv_resource_create</code>](https://git.openwrt.org/project/udebug.git/commit/c297f04e18528dacb3b539bb8c1394da93559c1e)
+- [ ] [<code>ucode: add support for specifying ring format</code>](https://git.openwrt.org/project/udebug.git/commit/f207d37a1055e2a5a453ed7dc119680cb017227b)
+- [ ] [<code>ucode: support appending array data, similar to socket.send()</code>](https://git.openwrt.org/project/udebug.git/commit/98683a94bcdd0c9201b52344aee9f4b37bcc53ef)
+- [ ] [<code>ucode: allow calling udebug.init() multiple times</code>](https://git.openwrt.org/project/udebug.git/commit/a7ecd483ed386cc478280d53cb1b948b4ed1b7ef)
+- [ ] [<code>ucode: fix allocation size of local ring meta</code>](https://git.openwrt.org/project/udebug.git/commit/d4a4c788c416ef864bb88fcafd04b4f094dba6b7)
+- [ ] [<code>ucode: add timestamp argument to foreach()</code>](https://git.openwrt.org/project/udebug.git/commit/184706abaf50d819cfc6218c769c3f99ea2628da)
+- [ ] [<code>ucode: add function for getting ring information</code>](https://git.openwrt.org/project/udebug.git/commit/8442c948c19383f374aba54c0843855ef78d0ea2)
+- [ ] [<code>ucode: add const entries for enum udebug_format</code>](https://git.openwrt.org/project/udebug.git/commit/f4958a4c591a2f5586a9c31c40fa81acedcd2d26)
+- [ ] [<code>udebug-cli: add logstream command</code>](https://git.openwrt.org/project/udebug.git/commit/14d4fec369935c93f6e01a5f791c279f20a4d75b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ucode: fix entries/size confusion</code>](https://git.openwrt.org/project/udebug.git/commit/6ed8536142bbd4360b55a423723456a6a862c99b)
+- [ ] [<code>udebugd: add support for setting an override config</code>](https://git.openwrt.org/project/udebug.git/commit/3d953628bf173d840f1f2e195b091d61abb08b7d)
+- [ ] [<code>udebug-cli: add support for overriding config on the command line</code>](https://git.openwrt.org/project/udebug.git/commit/93f6df0240e53115f488357ae83bcf0ae25422d2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ucode: add ferror() call to check for closed write file descriptor</code>](https://git.openwrt.org/project/udebug.git/commit/892647b81d30fcec8d275a2c5da05b94192c095d)
+- [ ] [<code>ucode: add function for getting the number of entries in a snapshot</code>](https://git.openwrt.org/project/udebug.git/commit/6e4ffe2c66578f5d497fb3f7e377079d3507cc38)
+- [ ] [<code>ucode: add support for fetching kernel tracepoint events</code>](https://git.openwrt.org/project/udebug.git/commit/a62edd89255b1b5302abd3322421c834b1157c35)
+- [ ] [<code>udebug-cli: add support for streaming tracing data</code>](https://git.openwrt.org/project/udebug.git/commit/edeb4d6dc690acb476a47e6b11633b5632b08437)
+- [ ] [<code>udebug-cli: ignore zero-length messages in logstream</code>](https://git.openwrt.org/project/udebug.git/commit/d3be5474f6e6b75544e72c8e1a308a4a8f6102c6)
+- [ ] [<code>ucode: fix skipping lines where the timestamp cannot be parsed</code>](https://git.openwrt.org/project/udebug.git/commit/c79f02d899df432d5672bad0bd7f0fed055b5dae)
+- [ ] [<code>cmake: bump minimum required version to 3.13</code>](https://git.openwrt.org/project/udebug.git/commit/5327524e715332daaebf6b04c155d2880d230979)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
 
