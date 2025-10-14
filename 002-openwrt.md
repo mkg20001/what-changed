@@ -16,6 +16,9 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/libubox.git/commit/61cc1e6fdc0eec075869e1d4d2e6e98c10856b97)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>add debian/ directory</code>](https://git.openwrt.org/project/libubox.git/commit/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -121,6 +124,12 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/ubus.git/commit/83a70399030dd6e97b650b11ba570b6c896feb6d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>ubusd: Fix out of bounds access in event register message</code>](https://git.openwrt.org/project/ubus.git/commit/d31effb4277bd557f5ccf16d909422718c1e49d0)
+- [ ] [<code>ubusd: acl: compare uid/gid instead of user/group strings</code>](https://git.openwrt.org/project/ubus.git/commit/d95837b1b1432475ecaa78383b9357b260cbb863)
+- [ ] [<code>ubusd: load extra group IDs for a client process</code>](https://git.openwrt.org/project/ubus.git/commit/b81257bb20dd1be1628aecd1a10207d787b7b210)
+- [ ] [<code>add debian/ directory</code>](https://git.openwrt.org/project/ubus.git/commit/7d7b45fea05b97c880d02adf4bf6144ea4627b66)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
