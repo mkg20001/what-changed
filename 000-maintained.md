@@ -5115,6 +5115,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add Fedora 43 to CI and package builds. (#21142)</code>](https://github.com/netdata/netdata.git/commit/b3e646545a33dcb0560d1804e5a7064b11d89c19)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Skip status file on windows on crash (#21140)</code>](https://github.com/netdata/netdata.git/commit/9844cdf1c19e9f3b342c4d133fe5dbf49f88999e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-92-nightly.</code>](https://github.com/netdata/netdata.git/commit/b70465bbd1385f1e2eae3d8c39d97e5fbead5a5b)
+- [ ] [<code>chore(go.d): update dyncfg path (#21141)</code>](https://github.com/netdata/netdata.git/commit/03264476acf700ad2da38cd3aa366f44fb858221)
+- [ ] [<code>Updated child node behaviour change (#21073)</code>](https://github.com/netdata/netdata.git/commit/1ad75011e0bcf941d59dc0c946b9be7e7555849d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7153,6 +7156,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Various fixes (#8779)</code>](https://github.com/tribler/Tribler/commit/e180e4333f001502a1674204eaa682993c14e6c1)
 - [ ] [<code>Fix torrent discovery</code>](https://github.com/tribler/Tribler/commit/0638d67c5ad812068a99897f3018985fd4819f89)
 - [ ] [<code>Fix torrent discovery (#8782)</code>](https://github.com/tribler/Tribler/commit/a7e86f5949a7361dff284035798b61e7bee335fb)
+- [ ] [<code>Fix tracker alerts</code>](https://github.com/tribler/Tribler/commit/b7458321a6b8959cc807041553d0e8e6d14adad4)
+- [ ] [<code>Fix tracker alerts (#8784)</code>](https://github.com/tribler/Tribler/commit/9940c61b66eaf5e3a6edfbd40218cf93282cff40)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
