@@ -3,6 +3,8 @@
 
 - [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/feca1d341d4baa9579ec62762672aa0f20edf564)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/fa6a52b0371356aeebd0b0c50dbb4ae77ee24bd0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [49056d178f42da98048a5d4c23f83a6f6bc6dd80 → HEAD](https://git.openwrt.org/project/libubox.git/compare/49056d178f42da98048a5d4c23f83a6f6bc6dd80...HEAD)
 
@@ -117,6 +119,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/ubus.git/commit/f247c18f8a552b87f74427df5ef8c43f8f942628)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/ubus.git/commit/83a70399030dd6e97b650b11ba570b6c896feb6d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
@@ -134,6 +138,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>CMakeLists: fix CMake warning for INCLUDE macro</code>](https://git.openwrt.org/project/uci.git/commit/5e69edac2ec4d23a443de11d6f3f11912d8b2d89)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/uci.git/commit/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
 
