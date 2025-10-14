@@ -560,6 +560,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>doc: Kubernetes and ClusterAPI integration</code>](https://github.com/lxc/incus/commit/6915a87d4d4e1b442a194d1020b78f1d3015496b)
 - [ ] [<code>doc: Add API to wordlist</code>](https://github.com/lxc/incus/commit/0691a2c59ad0214412eda89d90fc0e43cc746e1c)
+- [ ] [<code>github: Re-enable LINSTOR tests</code>](https://github.com/lxc/incus/commit/cfb5e934137def29377460f0ab1d2e4873eb1460)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4317,6 +4318,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>doc: Kubernetes and ClusterAPI integration</code>](https://github.com/lxc/incus/commit/6915a87d4d4e1b442a194d1020b78f1d3015496b)
 - [ ] [<code>doc: Add API to wordlist</code>](https://github.com/lxc/incus/commit/0691a2c59ad0214412eda89d90fc0e43cc746e1c)
+- [ ] [<code>github: Re-enable LINSTOR tests</code>](https://github.com/lxc/incus/commit/cfb5e934137def29377460f0ab1d2e4873eb1460)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5118,6 +5120,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-92-nightly.</code>](https://github.com/netdata/netdata.git/commit/b70465bbd1385f1e2eae3d8c39d97e5fbead5a5b)
 - [ ] [<code>chore(go.d): update dyncfg path (#21141)</code>](https://github.com/netdata/netdata.git/commit/03264476acf700ad2da38cd3aa366f44fb858221)
 - [ ] [<code>Updated child node behaviour change (#21073)</code>](https://github.com/netdata/netdata.git/commit/1ad75011e0bcf941d59dc0c946b9be7e7555849d)
+- [ ] [<code>Switch to using a relative RUNPATH for IBM plugin library lookup. (#21131)</code>](https://github.com/netdata/netdata.git/commit/402389ecf7abb6f54550e5fefe703e7b73a9996d)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7158,6 +7162,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix torrent discovery (#8782)</code>](https://github.com/tribler/Tribler/commit/a7e86f5949a7361dff284035798b61e7bee335fb)
 - [ ] [<code>Fix tracker alerts</code>](https://github.com/tribler/Tribler/commit/b7458321a6b8959cc807041553d0e8e6d14adad4)
 - [ ] [<code>Fix tracker alerts (#8784)</code>](https://github.com/tribler/Tribler/commit/9940c61b66eaf5e3a6edfbd40218cf93282cff40)
+- [ ] [<code>Allow checking for new pre-releases</code>](https://github.com/tribler/Tribler/commit/92364f6aa10185df446381b068b8df1a6eaa2e66)
+- [ ] [<code>Added checking for new pre-releases (#8785)</code>](https://github.com/tribler/Tribler/commit/3e5bc56a15c568d0ba41262cad63155445e062da)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
