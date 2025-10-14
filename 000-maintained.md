@@ -4543,6 +4543,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Standardize log file create mode to 0640</code>](https://github.com/lxc/lxc/commit/d269f0370c8f5f715525849205ec683497cc6a0c)
 - [ ] [<code>lxccontainer: check if target exists before remove in create_mount_target()</code>](https://github.com/lxc/lxc/commit/fba76ea65475028cea56181c8ae13d93525a1ff2)
+- [ ] [<code>Automatically detect compression format in the lxc-local template</code>](https://github.com/lxc/lxc/commit/20aa142d5865d938ec7bfe4c9bd04cdffe79e938)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
