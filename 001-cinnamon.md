@@ -204,7 +204,9 @@
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>layout.js: Fix flash when hiding the keyboard, and allow the</code>](https://github.com/linuxmint/cinnamon/commit/f5ec1113bff55cf2fc7b97e974546e2aba4d2118)
 - [ ] [<code>virtualKeyboard.js: Fix extended keys when interacting with</code>](https://github.com/linuxmint/cinnamon/commit/9c954cd1e61729ebfe8f49425db06b9f2a098aac)
+- [ ] [<code>menu: Further improvements</code>](https://github.com/linuxmint/cinnamon/commit/0cf07bf9ad48e4c8589cbeadab11a58cd2525560)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -216,6 +218,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>cc-display-panel.c: Always try to use cinnamon's native display</code>](https://github.com/linuxmint/cinnamon-control-center/commit/13c1aab9305737d278619bd3511d4e5c2b5a9a06)
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e92ed2fa29cccf2882b1c65d4b5b5993283f22b5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.4.2...HEAD)
@@ -237,6 +240,7 @@
 - [ ] [<code>gnome-desktop-thumbnail.c: Check for a filesystem-supplied preview</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a2f7f152df6d4506b2279d4b295f91c64694885e)
 - [ ] [<code>gnome-desktop-thumbnail.c: Remove preview icon check in the fallback</code>](https://github.com/linuxmint/cinnamon-desktop/commit/aa7b0299f69ab1df08418486e7f24661ab8d1aa1)
 - [ ] [<code>gnome-desktop-thumbnail.c: Initialize empty pixbuf.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ef02bff9231af4a188c8a8418292dffe2ea2ecfd)
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fa6121f017e004aa6c8ea406ab221f066a06ca2d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
@@ -245,8 +249,9 @@
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.4.1...HEAD)
 
 - [ ] [<code>Handle layout switching thru cinnamon, remove use of XApp. (#477)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/be49027be4760ded47ba219c2fdff5b42fbb44b4)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b35fc4fac71d8da2361239ac753d10e3268b8991)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.4.2...HEAD)
 
@@ -257,8 +262,9 @@
 - [ ] [<code>csm-manager.c: Clear system inhibitors before attempting to</code>](https://github.com/linuxmint/cinnamon-session/commit/8042c7f4756773b32e30f902d2cb05c865b9f6d7)
   - <sub>Tags: <code>master.lmde6</code></sub>
 - [ ] [<code>XDG_DATA_DIRS: Do not include /usr/share/gnome</code>](https://github.com/linuxmint/cinnamon-session/commit/df2e8ee9973ac4d426fd577e0daf0f5bc5a1a141)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-session/commit/b2277bfc389552955672dcb0f8d4c2d5285c6bdd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
 
@@ -287,6 +293,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>csd-autorun.c: Remove hidden 'hold shift key' feature.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/20c2ffad694a6658c3d5b12bfe07327ba612f091)
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8d13d38033a9bbe5a0a1547dc3a4c768bb879009)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
@@ -297,6 +304,8 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [1f39576bafe6bc05bce960e590dc743dd7990e39 → HEAD](https://github.com/linuxmint/cjs/compare/1f39576bafe6bc05bce960e590dc743dd7990e39...HEAD)
 
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cjs/commit/a3184be65fdcfaa4480fc85abb1ba25ec3c3af66)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
 
@@ -387,6 +396,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Revert "x11 backend: Don't let muffin reset the keyboard layout any time" (#719)</code>](https://github.com/linuxmint/muffin/commit/add0f97604b87cc3e0091224c41677c131e70a61)
 - [ ] [<code>meta-xwayland.c: Fix rebase error.</code>](https://github.com/linuxmint/muffin/commit/f902ccbd8970b195192477e5c1f55f8d8b08e253)
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/muffin/commit/8fa68b1a6273d39f67c9d954a8b69d19e288509d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
@@ -429,7 +439,12 @@
 - [ ] [<code>nemo-tree-sidebar.c: disconnect handlers from the correct instance.</code>](https://github.com/linuxmint/nemo/commit/d0d9591fde9905568f0f571d95482b0365ea422f)
 - [ ] [<code>nemo-tree-sidebar-model.c: Use g_clear_object instead of custom</code>](https://github.com/linuxmint/nemo/commit/f2ee70790057a1639527858a2c9a232c3b8a3688)
 - [ ] [<code>nemo-places-sidebar.c: Don't show shadowed mounts, or mounts without</code>](https://github.com/linuxmint/nemo/commit/93815617c16d3980a930421283d65db2f22af9cc)
+- [ ] [<code>Prefix symbolic icons</code>](https://github.com/linuxmint/nemo/commit/d3d78642eeda313da89a0fe7221ccc1d335b0e2e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo/commit/4a71eb533c6eac9bd82a238d826881a0dbb4b0f1)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -437,6 +452,9 @@
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 - [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 - [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
+- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -444,6 +462,9 @@
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 - [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 - [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
+- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
@@ -451,6 +472,9 @@
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 - [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 - [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
+- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -458,6 +482,9 @@
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 - [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 - [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
+- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
@@ -465,6 +492,9 @@
 - [ ] [<code>Updated FLAC info (#540)</code>](https://github.com/linuxmint/nemo-extensions/commit/7a7c0986d26cf0d18462ecc95154b27b8c955b37)
 - [ ] [<code>respect orientation metadata when rotating images (#551)</code>](https://github.com/linuxmint/nemo-extensions/commit/a59527b948fbe32096de52df45c6d8b3fe8d643e)
 - [ ] [<code>Update nemo-python-overview-example.xml (#552)</code>](https://github.com/linuxmint/nemo-extensions/commit/6817b420996a896f947b3acfce6747562c88ea5b)
+- [ ] [<code>nemo-dropbox: Fix obsolete dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/553eaf792a0a0898ea176104822abf28db790605)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -507,6 +537,8 @@
   - <sub>Tags: <code>3.0.1</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>test-scripts: Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xapp/commit/724d9f9a60fe10c6b0a8bd7d75fe9809814f5c72)
+- [ ] [<code>Add some of the generic icons used in nemo</code>](https://github.com/linuxmint/xapp/commit/2af3ccb80237951bfe9e3b0ff0445c1e8b7de9b2)
+- [ ] [<code>Add some of the generic icons used in cinnamon</code>](https://github.com/linuxmint/xapp/commit/bcfddb2a532289f61b28aef1404d8d2352df2df4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.2 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.2...HEAD)
