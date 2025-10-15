@@ -281,6 +281,7 @@
 - [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
 - [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
 - [ ] [<code>chore: Follow up notification reply</code>](https://github.com/krille-chan/fluffychat/commit/9c260313ce7b9c9068e66b947e54109cd614c95c)
+- [ ] [<code>chore: Update matrix dart sdk to pub again</code>](https://github.com/krille-chan/fluffychat/commit/a41dadc6cff21325f519d539f9dc95e22c31dbbf)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -450,6 +451,7 @@
 - [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
 - [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
 - [ ] [<code>chore: Follow up notification reply</code>](https://github.com/krille-chan/fluffychat/commit/9c260313ce7b9c9068e66b947e54109cd614c95c)
+- [ ] [<code>chore: Update matrix dart sdk to pub again</code>](https://github.com/krille-chan/fluffychat/commit/a41dadc6cff21325f519d539f9dc95e22c31dbbf)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5137,6 +5139,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-97-nightly.</code>](https://github.com/netdata/netdata.git/commit/a8cdc7b4b6c2907bafb3b91d4bee2632b1ad268f)
 - [ ] [<code>Additional checks during cgroup discovery (#21148)</code>](https://github.com/netdata/netdata.git/commit/211b482e962625602f0b604972aa69bcffed006f)
+- [ ] [<code>Customize node name addition (#21151)</code>](https://github.com/netdata/netdata.git/commit/ed8e40270d236c5feeb848510f2fa9498c2070f3)
+- [ ] [<code>Fix NaN check in anomaly score calculation (#21149)</code>](https://github.com/netdata/netdata.git/commit/88983f0dfd1e6ed841dcd681d8d98b580bca97c2)
+- [ ] [<code>Skip adding Sentry breadcrumb during shutdown timeout (#21150)</code>](https://github.com/netdata/netdata.git/commit/cca892a99d6e1439db011b369bd2a0f251c074f8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
