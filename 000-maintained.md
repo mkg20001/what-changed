@@ -4556,6 +4556,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Standardize log file create mode to 0640</code>](https://github.com/lxc/lxc/commit/d269f0370c8f5f715525849205ec683497cc6a0c)
 - [ ] [<code>lxccontainer: check if target exists before remove in create_mount_target()</code>](https://github.com/lxc/lxc/commit/fba76ea65475028cea56181c8ae13d93525a1ff2)
 - [ ] [<code>Automatically detect compression format in the lxc-local template</code>](https://github.com/lxc/lxc/commit/20aa142d5865d938ec7bfe4c9bd04cdffe79e938)
+- [ ] [<code>start: Only include linux/landlock.h when landlock is enabled</code>](https://github.com/lxc/lxc/commit/00f05b13dff37ee06d49b96884676477dcbb8dae)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5134,6 +5135,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix AS400 metrics (#21147)</code>](https://github.com/netdata/netdata.git/commit/26f852c4b302372ecd508372c30f2e968dea42fb)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-97-nightly.</code>](https://github.com/netdata/netdata.git/commit/a8cdc7b4b6c2907bafb3b91d4bee2632b1ad268f)
+- [ ] [<code>Additional checks during cgroup discovery (#21148)</code>](https://github.com/netdata/netdata.git/commit/211b482e962625602f0b604972aa69bcffed006f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7031,6 +7034,24 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: use spine-case for job names</code>](https://github.com/Oppzippy/OpenSCQ30/commit/49f640d2813f2e28102a35ea67645e991a66f733)
 - [ ] [<code>ci: remove npm from dependabot</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9929da1e1cf4df46baca5505bf264c15f5480bcd)
 - [ ] [<code>ci: fix inconsistent workflow naming</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4a93237caf90b2164e9d5845db01a0b26aed4bb6)
+- [ ] [<code>test(lib): add TestSoundcoreDevice wrapper for ease of use</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b3e885e58acf6029a9ec47f4d3832f3a96b95e33)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): add button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe8e6b29be285969755af075aaa78e0f3538fd83)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): use button_configuration_v2 for a3926</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86ad36402437a967d24c9ef1fd3b064e9dd7b7a6)
+- [ ] [<code>test(lib): add a3926 button test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/60f33da7ac5d9350f9ca3e61f6bf28c6d4a540a0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): use button_configuration_v2 for a3933</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc73363234637f8c4d93f8f79b094f25e63ffaec)
+- [ ] [<code>fix(lib): button_configuration_v2 not exposing all relevant settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6542aa282bdd61ee6745b9515761d8a42cbedc8b)
+- [ ] [<code>refactor(lib): use button_configuration_v2 for a3959</code>](https://github.com/Oppzippy/OpenSCQ30/commit/240970ef473f2f24d5c76bf6ee0e4ea959f6a0cd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gui: update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0be1903233436ec53b97f7d699b6900dd29a483d)
+- [ ] [<code>fix(gui): use body text for wider_spin_button to match libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62373662a53dd9c9a00c3ae129750e865122007e)
+- [ ] [<code>fix(lib): a3936 button configuration not working</code>](https://github.com/Oppzippy/OpenSCQ30/commit/74fd1533fd45dc69ddbb1b2844226ca564b67fb1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(lib): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6b39a62a60537daf997f0045e663e5bb96327228)
+- [ ] [<code>refactor(lib): remove unused function button_settings_by_position</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9d56e570b16e8557b4a80e9a957a4106c8d7ad64)
+- [ ] [<code>refactor(lib): remove unused TwsHighBits</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f1a7b27f6b3262b99349659a617f77675bd9e99)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
