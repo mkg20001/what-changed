@@ -5142,6 +5142,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Customize node name addition (#21151)</code>](https://github.com/netdata/netdata.git/commit/ed8e40270d236c5feeb848510f2fa9498c2070f3)
 - [ ] [<code>Fix NaN check in anomaly score calculation (#21149)</code>](https://github.com/netdata/netdata.git/commit/88983f0dfd1e6ed841dcd681d8d98b580bca97c2)
 - [ ] [<code>Skip adding Sentry breadcrumb during shutdown timeout (#21150)</code>](https://github.com/netdata/netdata.git/commit/cca892a99d6e1439db011b369bd2a0f251c074f8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-102-nightly.</code>](https://github.com/netdata/netdata.git/commit/f97e4c60dd0eeb676142dc891019f1053776f942)
+- [ ] [<code>Add `ServiceNow` integration (#21154)</code>](https://github.com/netdata/netdata.git/commit/9bc564598bb30bacbeec893f3ba9789dc413a687)
+- [ ] [<code>Regenerate integrations docs (#21156)</code>](https://github.com/netdata/netdata.git/commit/3463cd59fadaa1bf4c4ff54b299f7fae40cde42f)
+- [ ] [<code>Type 2 attestation added (#21157)</code>](https://github.com/netdata/netdata.git/commit/13819776374f15e27b031aeafbac3dea54d248aa)
+- [ ] [<code>docs: update Notifications description in cloud-notifications meta (#21159)</code>](https://github.com/netdata/netdata.git/commit/0c32a71ce037e24e9b7fb7498e2c4f066c1b19a2)
+- [ ] [<code>Regenerate integrations docs (#21160)</code>](https://github.com/netdata/netdata.git/commit/e22e1e7d205ff8df88aa9b32fe91fa8fae5ea3e7)
+- [ ] [<code>as400 improvements (#21158)</code>](https://github.com/netdata/netdata.git/commit/c30192e39a32d4bf0fdf077048c4e7d552dc333a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7057,6 +7064,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>style(lib): remove unused import</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6b39a62a60537daf997f0045e663e5bb96327228)
 - [ ] [<code>refactor(lib): remove unused function button_settings_by_position</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9d56e570b16e8557b4a80e9a957a4106c8d7ad64)
 - [ ] [<code>refactor(lib): remove unused TwsHighBits</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f1a7b27f6b3262b99349659a617f77675bd9e99)
+- [ ] [<code>test: refactor TestSoundcoreDevice</code>](https://github.com/Oppzippy/OpenSCQ30/commit/19e20c7cf76216b94c2bc6da896994b58f30a8a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): use TestSoundcoreDevice for a3933 tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d0a09e443946dbb82599c6e0963b61906b2b333)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): use TestSoundcoreDevice for a3945 tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/78791dfa65cef257c7c98b8f9b663d2419e53b9a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): use button_configuration_v2 for a3948</code>](https://github.com/Oppzippy/OpenSCQ30/commit/63f08cd08a5f391cc5d345cf5130af2c77ab35dc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): don't show None option for NotDisablable buttons</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4e954481736e447257ae1dff474bd07a6509b426)
+- [ ] [<code>fix(gui): don't show error message from canceled connection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab18ff663d2c9a18e88b5bb44c40a05917199463)
+- [ ] [<code>feat(lib): make RfcommBackend::connect cancel safe</code>](https://github.com/Oppzippy/OpenSCQ30/commit/107760be9725b39405c5acf706cd831a2ae64088)
+- [ ] [<code>refactor(gui): make use of cancel safe RfcommBackend::connect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/51c20a84cc22d2c3a544bbaa3f4f47ef34243d59)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7126,9 +7145,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 502
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7246,6 +7267,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>uloop: fix potential use-after-free when destroying uloop entities</code>](https://github.com/jow-/ucode/commit/470bc3ebffe0db9bf89e1eaa030bc489c9204761)
 - [ ] [<code>socket: fix `recv()` incorrectly reporting unrelated errors</code>](https://github.com/jow-/ucode/commit/e8a7290e55c0fd8cee2dc55c22fc45a93028ea68)
 - [ ] [<code>socket: fix convertion of hw addresses to ucode strings</code>](https://github.com/jow-/ucode/commit/ddde611fb9d4a40db52d192fddf0f870f6b7ba04)
+- [ ] [<code>vm: make sure uc_vm_insn_to_name() always returns a value</code>](https://github.com/jow-/ucode/commit/924ccc95be32a99e2c0e7590d755635c2a6bf9f2)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
