@@ -568,6 +568,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>go.mod: Update libovsdb import path</code>](https://github.com/lxc/incus/commit/a2925ab663385abed119195156bf1cc626371c33)
 - [ ] [<code>internal/server/network/ovn/schema: Update generated schema</code>](https://github.com/lxc/incus/commit/dd20d891b4d577aa2dfcde87a3dbfd3e0a932c5b)
+- [ ] [<code>test/mini-oidc: Clarify usage in README.md</code>](https://github.com/lxc/incus/commit/a2663a92d9f4d718ac3d8c40189fd568e51b62b0)
+- [ ] [<code>test/mini-oidc: Extract logic from main</code>](https://github.com/lxc/incus/commit/c8f5c55ca88c1e58a93004e4e8736109df2ca91a)
+- [ ] [<code>test/mini-oidc: Add RunTest for usage in tests</code>](https://github.com/lxc/incus/commit/55b99c214f7e2a3bc371e26e6d0b611308b0e604)
+- [ ] [<code>test/mini-oidc: Move user file to global var</code>](https://github.com/lxc/incus/commit/076e7e8288a328f7c134e9560b78d673026b3975)
+- [ ] [<code>test/mini-oidc: Make linter happy</code>](https://github.com/lxc/incus/commit/7de487280fbc35dc86ee2285d3b2684b72c1aec9)
+- [ ] [<code>test/mini-oidc: Make poll interval configurable in tests</code>](https://github.com/lxc/incus/commit/493b970d71029b530329c443b3fa4689bdd558eb)
+- [ ] [<code>test/mini-oidc: Allow setting expiration for tokens</code>](https://github.com/lxc/incus/commit/24646d8db5d64ad1ddd8985ac05731c3ff052f78)
+- [ ] [<code>test/mini-oidc: Make linter happy</code>](https://github.com/lxc/incus/commit/e8b39674166c4eb509ed0fb22672174af8d3e9ca)
+- [ ] [<code>test/mini-oidc: Fix missing support for device control flow</code>](https://github.com/lxc/incus/commit/eb04746a24a010a27dad98b99aeb9d5cafe2346e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4331,6 +4340,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>go.mod: Update libovsdb import path</code>](https://github.com/lxc/incus/commit/a2925ab663385abed119195156bf1cc626371c33)
 - [ ] [<code>internal/server/network/ovn/schema: Update generated schema</code>](https://github.com/lxc/incus/commit/dd20d891b4d577aa2dfcde87a3dbfd3e0a932c5b)
+- [ ] [<code>test/mini-oidc: Clarify usage in README.md</code>](https://github.com/lxc/incus/commit/a2663a92d9f4d718ac3d8c40189fd568e51b62b0)
+- [ ] [<code>test/mini-oidc: Extract logic from main</code>](https://github.com/lxc/incus/commit/c8f5c55ca88c1e58a93004e4e8736109df2ca91a)
+- [ ] [<code>test/mini-oidc: Add RunTest for usage in tests</code>](https://github.com/lxc/incus/commit/55b99c214f7e2a3bc371e26e6d0b611308b0e604)
+- [ ] [<code>test/mini-oidc: Move user file to global var</code>](https://github.com/lxc/incus/commit/076e7e8288a328f7c134e9560b78d673026b3975)
+- [ ] [<code>test/mini-oidc: Make linter happy</code>](https://github.com/lxc/incus/commit/7de487280fbc35dc86ee2285d3b2684b72c1aec9)
+- [ ] [<code>test/mini-oidc: Make poll interval configurable in tests</code>](https://github.com/lxc/incus/commit/493b970d71029b530329c443b3fa4689bdd558eb)
+- [ ] [<code>test/mini-oidc: Allow setting expiration for tokens</code>](https://github.com/lxc/incus/commit/24646d8db5d64ad1ddd8985ac05731c3ff052f78)
+- [ ] [<code>test/mini-oidc: Make linter happy</code>](https://github.com/lxc/incus/commit/e8b39674166c4eb509ed0fb22672174af8d3e9ca)
+- [ ] [<code>test/mini-oidc: Fix missing support for device control flow</code>](https://github.com/lxc/incus/commit/eb04746a24a010a27dad98b99aeb9d5cafe2346e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5149,6 +5167,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: update Notifications description in cloud-notifications meta (#21159)</code>](https://github.com/netdata/netdata.git/commit/0c32a71ce037e24e9b7fb7498e2c4f066c1b19a2)
 - [ ] [<code>Regenerate integrations docs (#21160)</code>](https://github.com/netdata/netdata.git/commit/e22e1e7d205ff8df88aa9b32fe91fa8fae5ea3e7)
 - [ ] [<code>as400 improvements (#21158)</code>](https://github.com/netdata/netdata.git/commit/c30192e39a32d4bf0fdf077048c4e7d552dc333a)
+- [ ] [<code>Enable Rust-based systemd journal handling code in Docker builds. (#21161)</code>](https://github.com/netdata/netdata.git/commit/6aced003f47260163dcc90dfae02513511049546)
+- [ ] [<code>Use parallelization for LTO processing to reduce build times. (#20809)</code>](https://github.com/netdata/netdata.git/commit/2294cc9c23eb704456adc2fb00c695340a343b26)
+- [ ] [<code>Fix feature size calculation and add error handling for KMeans training (#21155)</code>](https://github.com/netdata/netdata.git/commit/d22056fc04908e22990a3443c7d74c62162ee4ba)
+- [ ] [<code>Rework maintenance thread (#20694)</code>](https://github.com/netdata/netdata.git/commit/ef816f8300b30146efdd2b335b66d59cb34d0484)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7076,6 +7098,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gui): don't show error message from canceled connection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab18ff663d2c9a18e88b5bb44c40a05917199463)
 - [ ] [<code>feat(lib): make RfcommBackend::connect cancel safe</code>](https://github.com/Oppzippy/OpenSCQ30/commit/107760be9725b39405c5acf706cd831a2ae64088)
 - [ ] [<code>refactor(gui): make use of cancel safe RfcommBackend::connect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/51c20a84cc22d2c3a544bbaa3f4f47ef34243d59)
+- [ ] [<code>test(lib): use TestSoundcoreDevice for a3959 tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/df8ee5df23efe554bca33976c60b7aa0d5505f3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): adjust TestSoundcoreDevice::new argument order</code>](https://github.com/Oppzippy/OpenSCQ30/commit/334b37a37ce0b6f4d042df798a3737ee10b5536d)
+- [ ] [<code>test(lib): TestSoundcoreDevice: only send requested packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/370bd454e743e4fcc422b2262ea3d48c8c4b087d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): use TestSoundcoreDevice for a3948</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b0bb66b7bf94513ae95cfceab0675399fced568b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2fbd0574e04cbd9ede1742dbe017ff5a04eda947)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7145,11 +7176,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 502
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
