@@ -5214,6 +5214,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix feature size calculation and add error handling for KMeans training (#21155)</code>](https://github.com/netdata/netdata.git/commit/d22056fc04908e22990a3443c7d74c62162ee4ba)
 - [ ] [<code>Rework maintenance thread (#20694)</code>](https://github.com/netdata/netdata.git/commit/ef816f8300b30146efdd2b335b66d59cb34d0484)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/9662db27119d86f141c3debde1125b4660c10229)
+- [ ] [<code>Add Windows install types and release channels doc + update map.csv (#21119)</code>](https://github.com/netdata/netdata.git/commit/7dd26864f55121fb9e248d5411ee4fddfbf63141)
+- [ ] [<code>Libunwind (#21163)</code>](https://github.com/netdata/netdata.git/commit/f1f76b244b53da4f1ee5fccf890bc68937262f93)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7150,6 +7152,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2fbd0574e04cbd9ede1742dbe017ff5a04eda947)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): remove game mode option from button actions when not relevant</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6b25e50f5158d6359a91d9306ebdd2e6f0f7eacd)
+- [ ] [<code>feat(tools/soundcore-device-faker): add a3951</code>](https://github.com/Oppzippy/OpenSCQ30/commit/789d723ddac76da2d5d56948a329da2ca6aa29c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): incorrect a3948 button configuration handling</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4fd7c2c3c192169845f5ba23030609102ebc4491)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): remove debug print</code>](https://github.com/Oppzippy/OpenSCQ30/commit/afbc2e18055da1be134963a0f0ce802e0d366bdc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): move a3951 to button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0d066cc23434f6ce8c83805b7f558e5b5ad82eda)
+- [ ] [<code>feat(soundcore-device-faker): add a3945</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6c9f840bae3d2a6723664442d9cf65d3a5859b32)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): move a3945 to button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/04dd9f17e496b51c0d331de7192d268d39436acd)
+- [ ] [<code>fix(lib): incorrect DualBattery serialization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bdbbe27da26b2a2cde09dd2077b678f10f4478a9)
+- [ ] [<code>test(cli): update snapshot</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31a648953951aae31e038d3b24fa3fc2520adc7d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
