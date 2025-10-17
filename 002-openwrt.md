@@ -130,6 +130,8 @@
 - [ ] [<code>add debian/ directory</code>](https://git.openwrt.org/project/ubus.git/commit/7d7b45fea05b97c880d02adf4bf6144ea4627b66)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ubusd: fix more instances of missing length checks for patterns</code>](https://git.openwrt.org/project/ubus.git/commit/aa4a7ee1d3417bc11207ad0a78d579ece7fe0c13)
+- [ ] [<code>ubusd: fix ACL check for receiving events</code>](https://git.openwrt.org/project/ubus.git/commit/60e04048a0e2f3e33651c19e62861b41be4c290f)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
 
