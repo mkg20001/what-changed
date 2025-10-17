@@ -577,6 +577,27 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test/mini-oidc: Allow setting expiration for tokens</code>](https://github.com/lxc/incus/commit/24646d8db5d64ad1ddd8985ac05731c3ff052f78)
 - [ ] [<code>test/mini-oidc: Make linter happy</code>](https://github.com/lxc/incus/commit/e8b39674166c4eb509ed0fb22672174af8d3e9ca)
 - [ ] [<code>test/mini-oidc: Fix missing support for device control flow</code>](https://github.com/lxc/incus/commit/eb04746a24a010a27dad98b99aeb9d5cafe2346e)
+- [ ] [<code>incus/admin/os: Add system list command</code>](https://github.com/lxc/incus/commit/2f64dbbde64f3c88a4229ab2b32cfe853fc414c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cmd: Move from internal/cmd</code>](https://github.com/lxc/incus/commit/b531b088826636a3e5471f4b83ebe23a159da5d3)
+- [ ] [<code>cmd: Update for shared/cmd</code>](https://github.com/lxc/incus/commit/f9c602da6cd606f222f468e94b46b3cd978a499d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Use cli.CheckArgs</code>](https://github.com/lxc/incus/commit/fc647ff6b23d5a5b9e2a72651a7846ef15168c07)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Use cli.CheckArgs</code>](https://github.com/lxc/incus/commit/0b16cf3700c95a0bbdf0141d1badcf2fa875c3a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cmd: Add CheckArgs</code>](https://github.com/lxc/incus/commit/fc614e0d71d0d3dfd920b7f4811107e6447030fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cmd: Add Usage</code>](https://github.com/lxc/incus/commit/a61cdbc59787c1d8d0424b81909b8663803c09e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Use cli.Usage</code>](https://github.com/lxc/incus/commit/9d89039d1baa6ca7c2f5fe5a236a633f18e627c1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/cmd: Add TextEditor</code>](https://github.com/lxc/incus/commit/cfc75ba5c514734ecf5a0403e777256244eaadfc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd: Use cli.TextEditor</code>](https://github.com/lxc/incus/commit/9798f875ce28dfda23dd6dfbdebd62827ce5554d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ff653295fa67633fe9f4b94d22bf6a275cf1457)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4349,6 +4370,27 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test/mini-oidc: Allow setting expiration for tokens</code>](https://github.com/lxc/incus/commit/24646d8db5d64ad1ddd8985ac05731c3ff052f78)
 - [ ] [<code>test/mini-oidc: Make linter happy</code>](https://github.com/lxc/incus/commit/e8b39674166c4eb509ed0fb22672174af8d3e9ca)
 - [ ] [<code>test/mini-oidc: Fix missing support for device control flow</code>](https://github.com/lxc/incus/commit/eb04746a24a010a27dad98b99aeb9d5cafe2346e)
+- [ ] [<code>incus/admin/os: Add system list command</code>](https://github.com/lxc/incus/commit/2f64dbbde64f3c88a4229ab2b32cfe853fc414c9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cmd: Move from internal/cmd</code>](https://github.com/lxc/incus/commit/b531b088826636a3e5471f4b83ebe23a159da5d3)
+- [ ] [<code>cmd: Update for shared/cmd</code>](https://github.com/lxc/incus/commit/f9c602da6cd606f222f468e94b46b3cd978a499d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Use cli.CheckArgs</code>](https://github.com/lxc/incus/commit/fc647ff6b23d5a5b9e2a72651a7846ef15168c07)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-simplestreams: Use cli.CheckArgs</code>](https://github.com/lxc/incus/commit/0b16cf3700c95a0bbdf0141d1badcf2fa875c3a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cmd: Add CheckArgs</code>](https://github.com/lxc/incus/commit/fc614e0d71d0d3dfd920b7f4811107e6447030fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/cmd: Add Usage</code>](https://github.com/lxc/incus/commit/a61cdbc59787c1d8d0424b81909b8663803c09e6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Use cli.Usage</code>](https://github.com/lxc/incus/commit/9d89039d1baa6ca7c2f5fe5a236a633f18e627c1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/cmd: Add TextEditor</code>](https://github.com/lxc/incus/commit/cfc75ba5c514734ecf5a0403e777256244eaadfc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd: Use cli.TextEditor</code>](https://github.com/lxc/incus/commit/9798f875ce28dfda23dd6dfbdebd62827ce5554d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ff653295fa67633fe9f4b94d22bf6a275cf1457)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5171,6 +5213,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use parallelization for LTO processing to reduce build times. (#20809)</code>](https://github.com/netdata/netdata.git/commit/2294cc9c23eb704456adc2fb00c695340a343b26)
 - [ ] [<code>Fix feature size calculation and add error handling for KMeans training (#21155)</code>](https://github.com/netdata/netdata.git/commit/d22056fc04908e22990a3443c7d74c62162ee4ba)
 - [ ] [<code>Rework maintenance thread (#20694)</code>](https://github.com/netdata/netdata.git/commit/ef816f8300b30146efdd2b335b66d59cb34d0484)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/9662db27119d86f141c3debde1125b4660c10229)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
