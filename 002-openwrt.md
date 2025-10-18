@@ -6,19 +6,8 @@
 - [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/fa6a52b0371356aeebd0b0c50dbb4ae77ee24bd0)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
-#### [libubox](https://git.openwrt.org/project/libubox.git): [49056d178f42da98048a5d4c23f83a6f6bc6dd80 → HEAD](https://git.openwrt.org/project/libubox.git/compare/49056d178f42da98048a5d4c23f83a6f6bc6dd80...HEAD)
+#### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
-- [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libubox.git/commit/eeb6fcf914139a07bcd337cf90033239f1a8b1d1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>lua: build: require CMake >= 3.10 due to dropped legacy support</code>](https://git.openwrt.org/project/libubox.git/commit/c163d7ab8cdc248a4f82efe339ba29fd8001b5e7)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/libubox.git/commit/7a3863acfb15413d9346d6e7b0c951b8fba72220)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/libubox.git/commit/61cc1e6fdc0eec075869e1d4d2e6e98c10856b97)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>add debian/ directory</code>](https://git.openwrt.org/project/libubox.git/commit/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -100,207 +89,20 @@
 - [ ] [<code>system: add logging wrappers for basic system functions</code>](https://git.openwrt.org/project/netifd.git/commit/ecca21ca07dd3b82004d9a7a946ff0228a07b071)
 - [ ] [<code>config: fix overriding bridge-vlan sections via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/649028013a3c8f6ed53fc97ca997d2528d06b5d9)
 
-#### [ubus](https://git.openwrt.org/project/ubus.git): [65bb027054def3b94a977229fd6ad62ddd32345b → HEAD](https://git.openwrt.org/project/ubus.git/compare/65bb027054def3b94a977229fd6ad62ddd32345b...HEAD)
+#### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
-- [ ] [<code>libubus: Make UBUS_* macros work cleanly in C++</code>](https://git.openwrt.org/project/ubus.git/commit/252a9b0c1774790fb9c25735d5a09c27dba895db)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>libubus: close file descriptor after sending it from a request</code>](https://git.openwrt.org/project/ubus.git/commit/d996988ae55b6af12e4611fdd758a2f0ad27a9a1)
-- [ ] [<code>libubus: add support for using channels</code>](https://git.openwrt.org/project/ubus.git/commit/afa57cce0aff82f4a7a0e509d4387ebc23dd3be7)
-- [ ] [<code>libubus: flush all pending requests on connection loss</code>](https://git.openwrt.org/project/ubus.git/commit/88e6325092bf1d1cfa877cd220670fa7cc2fad03)
-- [ ] [<code>ubusd: make txq_len field signed</code>](https://git.openwrt.org/project/ubus.git/commit/27839f854a58d9dbc85efa1b5cd79f253880c701)
-- [ ] [<code>ubusd: treat EACCES on write like EAGAIN</code>](https://git.openwrt.org/project/ubus.git/commit/b35b2bc63e8e2ca92436fa601c68692242386246)
-- [ ] [<code>ubusd: retry write on EINTR</code>](https://git.openwrt.org/project/ubus.git/commit/713e9d19b2b6ac1ca9720492d80d620bb9b944d5)
-- [ ] [<code>ubusd: fix txq_len accounting</code>](https://git.openwrt.org/project/ubus.git/commit/8bb523ab20e06f686a07c5f82e8f8534d4228b9f)
-- [ ] [<code>ubusd: add another tx attempt on enqueueing the first message for a client</code>](https://git.openwrt.org/project/ubus.git/commit/b1b783c7474269593b23ba01be8a86eb36e3471a)
-- [ ] [<code>ubusd: do not call socket callback from ubus_msg_send</code>](https://git.openwrt.org/project/ubus.git/commit/5952b48e251c0ea76dfce97f129da6f18d889eda)
-- [ ] [<code>examples: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/ubus.git/commit/2b69c9859946af32cbe89173b71bcecbd1761734)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>lua: build: require CMake >= 3.10 due to dropped legacy support</code>](https://git.openwrt.org/project/ubus.git/commit/ad2768bbc166b4dcb32665d7b3434d54150b2abc)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/ubus.git/commit/b462895d3157c0f2a87fb4a0341eead4202ce272)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>examples: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/ubus.git/commit/f247c18f8a552b87f74427df5ef8c43f8f942628)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/ubus.git/commit/83a70399030dd6e97b650b11ba570b6c896feb6d)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>ubusd: Fix out of bounds access in event register message</code>](https://git.openwrt.org/project/ubus.git/commit/d31effb4277bd557f5ccf16d909422718c1e49d0)
-- [ ] [<code>ubusd: acl: compare uid/gid instead of user/group strings</code>](https://git.openwrt.org/project/ubus.git/commit/d95837b1b1432475ecaa78383b9357b260cbb863)
-- [ ] [<code>ubusd: load extra group IDs for a client process</code>](https://git.openwrt.org/project/ubus.git/commit/b81257bb20dd1be1628aecd1a10207d787b7b210)
-- [ ] [<code>add debian/ directory</code>](https://git.openwrt.org/project/ubus.git/commit/7d7b45fea05b97c880d02adf4bf6144ea4627b66)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>ubusd: fix more instances of missing length checks for patterns</code>](https://git.openwrt.org/project/ubus.git/commit/aa4a7ee1d3417bc11207ad0a78d579ece7fe0c13)
-- [ ] [<code>ubusd: fix ACL check for receiving events</code>](https://git.openwrt.org/project/ubus.git/commit/60e04048a0e2f3e33651c19e62861b41be4c290f)
 
-#### [uci](https://git.openwrt.org/project/uci.git): [5781664d5087ccc4b5ab58505883231212dbedbc → HEAD](https://git.openwrt.org/project/uci.git/compare/5781664d5087ccc4b5ab58505883231212dbedbc...HEAD)
+#### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
-- [ ] [<code>file: Ignore config file with '.' in name</code>](https://git.openwrt.org/project/uci.git/commit/10f7996ec29449915640acca5d65b592365a4b14)
-- [ ] [<code>add support for an override config directory</code>](https://git.openwrt.org/project/uci.git/commit/fb3c2343b17b759b175f11aec5b3fbb1cf48bbc3)
-- [ ] [<code>CMakeLists.txt: bump minimum cmake version</code>](https://git.openwrt.org/project/uci.git/commit/047b2efc1348f489d1cf4526f5c5f3e070cb2411)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>CMakeLists: add support for including ABIVERSION in the library version number</code>](https://git.openwrt.org/project/uci.git/commit/16ff0badbde7e17ec3bd1f827ffe45922956cf86)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>libuci: fix false positive warning on older gcc versions</code>](https://git.openwrt.org/project/uci.git/commit/f3fc0b76040685829191debc03edf72f486ae8ae)
-- [ ] [<code>blob: use blobmsg_parse_attr in __uci_blob_check_equal</code>](https://git.openwrt.org/project/uci.git/commit/9033e8c27253977285bd3679311b212607b492c6)
-- [ ] [<code>lua: CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uci.git/commit/a072095389595225af6996d33e1dba212af35f38)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>lua: CMakeLists: drop redundant cmake_minimum_required</code>](https://git.openwrt.org/project/uci.git/commit/272fc1348ea9a13303828744a7f21fd269e87227)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>CMakeLists: fix CMake warning for INCLUDE macro</code>](https://git.openwrt.org/project/uci.git/commit/5e69edac2ec4d23a443de11d6f3f11912d8b2d89)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/uci.git/commit/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
-#### [uclient](https://git.openwrt.org/project/uclient.git): [007d945467499f43656b141171d31f5643b83a6c → HEAD](https://git.openwrt.org/project/uclient.git/compare/007d945467499f43656b141171d31f5643b83a6c...HEAD)
+#### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
-- [ ] [<code>add strdupa macro for compatibility</code>](https://git.openwrt.org/project/uclient.git/commit/e209a4ced1d80e8a4ac4290a6ade9d339eab1705)
-- [ ] [<code>uclient: add helper function for getting ustream-ssl context/ops</code>](https://git.openwrt.org/project/uclient.git/commit/af1962b9a60930cd1f24eff2854bceaa2a6c964d)
-- [ ] [<code>http: add helper function for checking redirect status</code>](https://git.openwrt.org/project/uclient.git/commit/488f1d52cfd2fcca8e0f3785311c247d13cb0170)
-- [ ] [<code>uclient: defer read notifications to uloop timer</code>](https://git.openwrt.org/project/uclient.git/commit/b6e5548a3ecc562db4c8d5356bdfd9a3fa5e59f8)
-- [ ] [<code>http: call ustream_poll if not enough read data is available</code>](https://git.openwrt.org/project/uclient.git/commit/352fb3eeb40846d576e942ed2674fde052b2d81c)
-- [ ] [<code>add ucode binding</code>](https://git.openwrt.org/project/uclient.git/commit/e611e6d0ff0ba31070abacdb53037d3e9a4115a6)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>uclient: add function for getting the amount of pending read/write data</code>](https://git.openwrt.org/project/uclient.git/commit/ddb18d2657578bb39ffad4795cedee215f9b36b0)
-- [ ] [<code>ucode: fix a few ucode binding issues</code>](https://git.openwrt.org/project/uclient.git/commit/980220ad17622456be141fb66a00e2b776a58749)
-- [ ] [<code>ucode: add support for using a prototype for cb, pass it to callbacks</code>](https://git.openwrt.org/project/uclient.git/commit/6c16331e4bf542fbb538d62a6b5bf3d286ecbf2c)
-- [ ] [<code>lib: add log_msg callback to get more detailed log messages</code>](https://git.openwrt.org/project/uclient.git/commit/c2bf660d88ece757ebc4889ef30ec2fa11fb1e9e)
-- [ ] [<code>uclient-fetch: add uclient / ustream-ssl log messages (enabled via -v)</code>](https://git.openwrt.org/project/uclient.git/commit/9adb4ca5219dc73b1440de871e871cc5a12323bd)
-- [ ] [<code>uclient-http: use ustream_ssl without ustream_fd</code>](https://git.openwrt.org/project/uclient.git/commit/704c78111a92873474eca3c91ad91c555b03f607)
-- [ ] [<code>uclient: fix http regression</code>](https://git.openwrt.org/project/uclient.git/commit/e8780fa7792aaa2d68af21c0df91cd9c05e1f73a)
-- [ ] [<code>uclient-fetch: improve error handling</code>](https://git.openwrt.org/project/uclient.git/commit/e035d57686645bc18ae6ded2ffb18d40b158e900)
-- [ ] [<code>uclient-fetch: add support for --header cmdline argument</code>](https://git.openwrt.org/project/uclient.git/commit/a220818a1435cfa2b153aa36e6b9c543546fd9b8)
-- [ ] [<code>uclient-http: fix a typo</code>](https://git.openwrt.org/project/uclient.git/commit/88ae8f208dd313f69e268234f7db55956aef1cb9)
-- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/uclient.git/commit/dc909ca71bc884c0e5362e1d7cc7808696cb2add)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
-#### [udebug](https://git.openwrt.org/project/udebug.git): [6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf → HEAD](https://git.openwrt.org/project/udebug.git/compare/6d3f51f9fda706f0cf4732c762e4dbe8c21e12cf...HEAD)
+#### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
-- [ ] [<code>lib-ucode.c: add #define _GNU_SOURCE</code>](https://git.openwrt.org/project/udebug.git/commit/5d10084ea885b193bccd0f7da7137c1f5d766e58)
-- [ ] [<code>udebug-cli: fix terminating uloop</code>](https://git.openwrt.org/project/udebug.git/commit/a95364b41d52bb6ae087c55788dda0e9efa3ba6d)
-- [ ] [<code>ucode: use FILE handle for pcap output</code>](https://git.openwrt.org/project/udebug.git/commit/c00eb9b685a837c38bbcc979286bd44f4ffb8ec9)
-- [ ] [<code>ucode: add error reporting to pcap_write</code>](https://git.openwrt.org/project/udebug.git/commit/4265167cb6e8c647e3a45439b30009a1df7de8a5)
-- [ ] [<code>udebug-cli: stop event loop on write failure</code>](https://git.openwrt.org/project/udebug.git/commit/4a908ee731a6a8b8d48ef6138bd28dfa747f2a24)
-- [ ] [<code>ucode: use ucv_resource_create_ex for remote rings</code>](https://git.openwrt.org/project/udebug.git/commit/6e04f4187231a1b468ba257a1969a3430e146aea)
-- [ ] [<code>ucode: drop use ucv_resource_create</code>](https://git.openwrt.org/project/udebug.git/commit/c297f04e18528dacb3b539bb8c1394da93559c1e)
-- [ ] [<code>ucode: add support for specifying ring format</code>](https://git.openwrt.org/project/udebug.git/commit/f207d37a1055e2a5a453ed7dc119680cb017227b)
-- [ ] [<code>ucode: support appending array data, similar to socket.send()</code>](https://git.openwrt.org/project/udebug.git/commit/98683a94bcdd0c9201b52344aee9f4b37bcc53ef)
-- [ ] [<code>ucode: allow calling udebug.init() multiple times</code>](https://git.openwrt.org/project/udebug.git/commit/a7ecd483ed386cc478280d53cb1b948b4ed1b7ef)
-- [ ] [<code>ucode: fix allocation size of local ring meta</code>](https://git.openwrt.org/project/udebug.git/commit/d4a4c788c416ef864bb88fcafd04b4f094dba6b7)
-- [ ] [<code>ucode: add timestamp argument to foreach()</code>](https://git.openwrt.org/project/udebug.git/commit/184706abaf50d819cfc6218c769c3f99ea2628da)
-- [ ] [<code>ucode: add function for getting ring information</code>](https://git.openwrt.org/project/udebug.git/commit/8442c948c19383f374aba54c0843855ef78d0ea2)
-- [ ] [<code>ucode: add const entries for enum udebug_format</code>](https://git.openwrt.org/project/udebug.git/commit/f4958a4c591a2f5586a9c31c40fa81acedcd2d26)
-- [ ] [<code>udebug-cli: add logstream command</code>](https://git.openwrt.org/project/udebug.git/commit/14d4fec369935c93f6e01a5f791c279f20a4d75b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>ucode: fix entries/size confusion</code>](https://git.openwrt.org/project/udebug.git/commit/6ed8536142bbd4360b55a423723456a6a862c99b)
-- [ ] [<code>udebugd: add support for setting an override config</code>](https://git.openwrt.org/project/udebug.git/commit/3d953628bf173d840f1f2e195b091d61abb08b7d)
-- [ ] [<code>udebug-cli: add support for overriding config on the command line</code>](https://git.openwrt.org/project/udebug.git/commit/93f6df0240e53115f488357ae83bcf0ae25422d2)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>ucode: add ferror() call to check for closed write file descriptor</code>](https://git.openwrt.org/project/udebug.git/commit/892647b81d30fcec8d275a2c5da05b94192c095d)
-- [ ] [<code>ucode: add function for getting the number of entries in a snapshot</code>](https://git.openwrt.org/project/udebug.git/commit/6e4ffe2c66578f5d497fb3f7e377079d3507cc38)
-- [ ] [<code>ucode: add support for fetching kernel tracepoint events</code>](https://git.openwrt.org/project/udebug.git/commit/a62edd89255b1b5302abd3322421c834b1157c35)
-- [ ] [<code>udebug-cli: add support for streaming tracing data</code>](https://git.openwrt.org/project/udebug.git/commit/edeb4d6dc690acb476a47e6b11633b5632b08437)
-- [ ] [<code>udebug-cli: ignore zero-length messages in logstream</code>](https://git.openwrt.org/project/udebug.git/commit/d3be5474f6e6b75544e72c8e1a308a4a8f6102c6)
-- [ ] [<code>ucode: fix skipping lines where the timestamp cannot be parsed</code>](https://git.openwrt.org/project/udebug.git/commit/c79f02d899df432d5672bad0bd7f0fed055b5dae)
-- [ ] [<code>cmake: bump minimum required version to 3.13</code>](https://git.openwrt.org/project/udebug.git/commit/5327524e715332daaebf6b04c155d2880d230979)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
-#### [uqmi](https://git.openwrt.org/project/uqmi.git): [c3488b831ce6285c8107704156b9b8ed7d59deb3 → HEAD](https://git.openwrt.org/project/uqmi.git/compare/c3488b831ce6285c8107704156b9b8ed7d59deb3...HEAD)
+#### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
 
-- [ ] [<code>CMakeLists: update cmake minimum version to 3.5</code>](https://git.openwrt.org/project/uqmi.git/commit/0f64b69923338efbca21904e1a42949d2a34c746)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>CMakeLists: improve generated files</code>](https://git.openwrt.org/project/uqmi.git/commit/c47125dc3e7cc1ba40b7a9ef699af71a659dedd8)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>CMakeLists: set no-dangling-pointer</code>](https://git.openwrt.org/project/uqmi.git/commit/ebfe8b47b366092457df7a7f631c8f746e8455fd)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>CMakeLists: refactor SOURCES variable to allow later adding uqmid</code>](https://git.openwrt.org/project/uqmi.git/commit/a043a7407bf602cac66c9e7bb2b81aa2e50a6993)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>dev.c: add comment to qmi_request_wait()</code>](https://git.openwrt.org/project/uqmi.git/commit/8ff632a048bf72be64046dfdcb533f7745a1d237)
-- [ ] [<code>commands-nas: fix gcc warning</code>](https://git.openwrt.org/project/uqmi.git/commit/a4fbdcc6b7dca4e04b50e0c62beb03e29ab32c62)
-- [ ] [<code>commands: make `struct blob_buf status` public</code>](https://git.openwrt.org/project/uqmi.git/commit/9ffd0e2f8c06e23b8363145c2d7b792f0951550b)
-- [ ] [<code>commands-nas: add missing includes</code>](https://git.openwrt.org/project/uqmi.git/commit/bae945f47bba0218fa3f4a8d3ba9392f54a5002b)
-- [ ] [<code>dev.c: add missing import strings.h</code>](https://git.openwrt.org/project/uqmi.git/commit/1503bc7e8332222bcdb8b8b6c2c37d0404dc0b79)
-- [ ] [<code>move qmi_get_error_str to into utils.c</code>](https://git.openwrt.org/project/uqmi.git/commit/5320c1d656ed30b467b6555472721b25fd3f0c58)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>qmi-struct.h: add missing includes</code>](https://git.openwrt.org/project/uqmi.git/commit/ddbf864afa46ef7af9f3f853738e4f18d80fb157)
-- [ ] [<code>data/code-gen: add support for indications</code>](https://git.openwrt.org/project/uqmi.git/commit/7c77e7742e486b4acd68f3f6c86207a2f79c6843)
-- [ ] [<code>uqmi: commands-uim: fix uninitialized use of card_application_state</code>](https://git.openwrt.org/project/uqmi.git/commit/2b57ee1acc5929025b9124496a8c51ea58005451)
-- [ ] [<code>.gitignore build/ directories</code>](https://git.openwrt.org/project/uqmi.git/commit/4591f0ae8c1b54780172fec419b01a0b4d7fa819)
-- [ ] [<code>reorganize source code in common and uqmi specific parts</code>](https://git.openwrt.org/project/uqmi.git/commit/02e42c0c299531882ef35b2d4ed5a851a32aaeb2)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>uqmi: support C reserved keywords in upstream JSON files</code>](https://git.openwrt.org/project/uqmi.git/commit/368d46c1099652aaed540968a5f458c4bb9c0922)
-- [ ] [<code>uqmi: sync data from libqmi project</code>](https://git.openwrt.org/project/uqmi.git/commit/3e782be3b4883f56d2c59c1c76359a1391fe377a)
-- [ ] [<code>uqmi: Add basic 5G NR support</code>](https://git.openwrt.org/project/uqmi.git/commit/e25d0420bdd3cca4318539cae39ee5b8230f8ed6)
-- [ ] [<code>uqmi: create function to print radio interface string</code>](https://git.openwrt.org/project/uqmi.git/commit/6ef41d64c50d16d5d28c9694a5e65b0850b4e37f)
-- [ ] [<code>uqmi: print radio interfaces in serving system command</code>](https://git.openwrt.org/project/uqmi.git/commit/e7207bec95f02f2f7a98254d642186a082af838d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>data: add support for ICC channel</code>](https://git.openwrt.org/project/uqmi.git/commit/d381f80de6aceb9858415521a241cbb25006c81c)
-- [ ] [<code>qmi: fix dynamic array macro</code>](https://git.openwrt.org/project/uqmi.git/commit/f582e0009c730403a3b2a0592619bb87b5a54898)
-- [ ] [<code>uim: add support for ICC communication channel</code>](https://git.openwrt.org/project/uqmi.git/commit/28b48a10dbcd1177095b73c6d8086d10114f49b8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>uqmi nas: fix incorrect parameter order</code>](https://git.openwrt.org/project/uqmi.git/commit/a933061911aa4c49e953af618c3fb02ce6014142)
-- [ ] [<code>common/utils: add system_fd_set_cloexec()</code>](https://git.openwrt.org/project/uqmi.git/commit/c71c0f3e463a89615b302241bb1f2eab164ef14b)
-- [ ] [<code>CMakeLists: set cmake minimum to 3.10</code>](https://git.openwrt.org/project/uqmi.git/commit/38c133211ada0b0a13bdf5462cdb02d39a4e6950)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>add uqmid: a daemonic version of uqmi</code>](https://git.openwrt.org/project/uqmi.git/commit/7a196417bbe038e2d100cc93c595f90b5665a9ed)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>uqmid: service: add indications support</code>](https://git.openwrt.org/project/uqmi.git/commit/ada5284a431cdfcda3e3532173595bbbd134ae22)
-- [ ] [<code>uqmid: wwan: add support to handle kernel network interface</code>](https://git.openwrt.org/project/uqmi.git/commit/95686425ce9775e983ea434ca187f3d66c083ea5)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>uqmid: ubus: use talloc() for modem assigned fields when allocating it</code>](https://git.openwrt.org/project/uqmi.git/commit/7895c3215dc5a32acf991c49167eba4450161157)
-- [ ] [<code>uqmid: ubus: check for empty strings for configure arguments</code>](https://git.openwrt.org/project/uqmi.git/commit/89033fe2eeaa1313a5de11946c8d8ec3bb83348d)
-- [ ] [<code>uqmid: add support to set username, password for PDN</code>](https://git.openwrt.org/project/uqmi.git/commit/6edff78b2bc3e96eaf783e7609d2cfcaef502648)
-- [ ] [<code>uqmid: osmocom/fsm: fix logline for 64bit timestamp</code>](https://git.openwrt.org/project/uqmi.git/commit/c54ceb687743d49ea3c447a2756940867c3ea7b4)
-- [ ] [<code>uqmid: add preliminary support for gsmtapv3</code>](https://git.openwrt.org/project/uqmi.git/commit/70ad886cf76f26feb7c5a681adaca3e64e9ef48f)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>uqmid: modem_fsm: set timeout for GET_IMSI to 3 seconds</code>](https://git.openwrt.org/project/uqmi.git/commit/488194a04db8b059358fbb6f55ed294ed0fc1471)
-- [ ] [<code>uqmid: osmocom/fsm: add member N</code>](https://git.openwrt.org/project/uqmi.git/commit/62402025464b05e239527cd480276d9f44016edf)
-- [ ] [<code>uqmid: modem_fsm: implement re-transmission of GET IMSI calls</code>](https://git.openwrt.org/project/uqmi.git/commit/57871203a47d55f66511fb54e4063bcc3f72c6c0)
-- [ ] [<code>uqmid: add uqmi_sim_decode_imsi() to decode EF.IMSI from UIM</code>](https://git.openwrt.org/project/uqmi.git/commit/f1ad9c1cfba3c1467af2c289ee40de64aae09531)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>uqmid: implement roaming support (allow and forbid)</code>](https://git.openwrt.org/project/uqmi.git/commit/d39b53b7b0c91133e12db3dec1e73ef39a791e93)
-- [ ] [<code>uqmid: WDS: disable autoconnect on start network</code>](https://git.openwrt.org/project/uqmi.git/commit/85d49f725046342012bb6190deeb1e2ebb520cdb)
-- [ ] [<code>uqmid: move usim related function into own fsm</code>](https://git.openwrt.org/project/uqmi.git/commit/2e0c92ad8cfdd081f8383151003108ddf3ebfad6)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>uqmid: modem_tx: add tx_wds_stop_network()</code>](https://git.openwrt.org/project/uqmi.git/commit/ce423f257e8ee7559d93f6218190782c3a2b1b5a)
-- [ ] [<code>uqmid: modem: handle modem with auto connect</code>](https://git.openwrt.org/project/uqmi.git/commit/025bd1c70a5faf09d567a94e358b11d8423609a8)
-- [ ] [<code>uqmid: add netifd protocol handler</code>](https://git.openwrt.org/project/uqmi.git/commit/58b9bd6629397715e53e165f0c2dd9091251cf07)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>uqmid: fsm: set fi->N = 0 for state start_iface</code>](https://git.openwrt.org/project/uqmi.git/commit/2b544de2ab036a2f76c218296305d38d69bd6efe)
-- [ ] [<code>uqmid: ubus call dump: add roaming variable</code>](https://git.openwrt.org/project/uqmi.git/commit/e71b27a4478ed5ab9da9ecb0fa2067ad51290a8f)
-- [ ] [<code>uqmid: examples: enable roaming</code>](https://git.openwrt.org/project/uqmi.git/commit/85e84ada615bcf991f9c65a11454e802c825b499)
-- [ ] [<code>uqmid: read IMEI, IMEISV, MEID (CDMA IMEI)</code>](https://git.openwrt.org/project/uqmi.git/commit/c05b3140f31b1731bb6a134b1a54441e9065f7d3)
-- [ ] [<code>uqmid: sim_fsm: implement PIN/PUK checking set by configuration</code>](https://git.openwrt.org/project/uqmi.git/commit/71f9c9435b22b1ffe4085ce2bae99fbe413ca03a)
-- [ ] [<code>uqmi: fix whitespace errors</code>](https://git.openwrt.org/project/uqmi.git/commit/a1b37fe0b859d78e4879d0777c6d4e40fad9e193)
-- [ ] [<code>uqmi: enable binding WDS sessions to QMAP multiplex</code>](https://git.openwrt.org/project/uqmi.git/commit/c20c017c6553b0cfc834051b54c7e250b90e4983)
-- [ ] [<code>wda: allow agggregation parameter configuration</code>](https://git.openwrt.org/project/uqmi.git/commit/4b908045f6ca3d30a63cd8ece9d7ea885e986fdc)
-- [ ] [<code>data: add downlink padding option</code>](https://git.openwrt.org/project/uqmi.git/commit/283fbe00c585f800e691339a28ac4b3fcd6e81ca)
-- [ ] [<code>wds: reduce code duplication</code>](https://git.openwrt.org/project/uqmi.git/commit/0756755aa10bcc564f85285a8264877a62571688)
-- [ ] [<code>wds: implement profile deletion</code>](https://git.openwrt.org/project/uqmi.git/commit/5c844c0243a628632e3e2fd1dd326113fe2c44e4)
-- [ ] [<code>wds: implement selection of default profile</code>](https://git.openwrt.org/project/uqmi.git/commit/21c4aaae8f1cfdc20ab94eab5afeaea906cf3679)
-- [ ] [<code>wds: implement selection of LTE attach PDNs</code>](https://git.openwrt.org/project/uqmi.git/commit/6be8b6ef4da6b2b0260ec6eef6cae1965df34e2c)
-- [ ] [<code>wds: implement retrieval of profile list</code>](https://git.openwrt.org/project/uqmi.git/commit/f74ddb3c98b91131a675ffc3b76dffbc5b7dbcdc)
-- [ ] [<code>wda: add option for enabling flow-control</code>](https://git.openwrt.org/project/uqmi.git/commit/7aef6458a03c81e4e8f5ac4a1c8c9c5425867f06)
-- [ ] [<code>uqmi: extend wda-get-data-format</code>](https://git.openwrt.org/project/uqmi.git/commit/7914da43cddaaf6cfba116260c81e6e9adffd5ab)
 
-#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [7621339d7694abef5da5e5353ac440f2d39dcecb → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/7621339d7694abef5da5e5353ac440f2d39dcecb...HEAD)
+#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [5a81c108d20e24724ed847cc4be033f2a74e6635 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/5a81c108d20e24724ed847cc4be033f2a74e6635...HEAD)
 
-- [ ] [<code>ustream-mbedtls: add missing psa_crypto_init call</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/268050964b088a6000cca750e92dc6b5f54bbe7f)
-- [ ] [<code>add callbacks for debug messages</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/956fba242ac0a4bcfe3db103d4d1f41545c924fb)
-- [ ] [<code>mbedtls: add TLS 1.3 ciphers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/9fdf3fb87af55bd295bccd109a36b4b936033126)
-- [ ] [<code>mbedtls: disable TLS 1.3 in client mode when skipping verification</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/28c4c1e6471b6bf5a2e5dd1842c8d1be5d9478e9)
-- [ ] [<code>mbedtls: add missing ifdef for build with disabled debug</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/d61493a4420417cbf9931ffee8c862faf04f2967)
-- [ ] [<code>mbedtls: handle session tickets for TLS 1.3</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/60d8fbb5e669db4b85f0ccd9b86744a8355eb2d9)
-- [ ] [<code>mbedtls: add ifdefs to fix legacy compatibility</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/ac42af7981ae0a49e745a4b0b2b0961070550ac3)
-- [ ] [<code>mbedtls: another cosmetic ifdef fix</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/af7c3532ad499bc97f568087a57ac0f4fe6f56e1)
-- [ ] [<code>ustream-ssl: poll connection on incomplete reads</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/f9a28a9ce86473d934693fe59dcbe344ffbc695e)
-- [ ] [<code>ustream-ssl: increase number of read buffers</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/3c49e70c462249c174062e8181d191c859c5e41b)
-- [ ] [<code>ustream-ssl: add support for using a fd instead of ustream as backing</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/524a76e5af78fa577c46e0d24bdedd4254e07cd4)
-- [ ] [<code>ustream-openssl: fix compilation with OPENSSL_NO_DEPRECATED</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99bd3d2b167ccdffb6de072d02c380cb37b23e33)
-- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/5a81c108d20e24724ed847cc4be033f2a74e6635)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
