@@ -4404,6 +4404,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
+- [ ] [<code>Allow selecting un-managed bridges</code>](https://github.com/zabbly/incus-ui-canonical/commit/d53618966061c56f24b28666a21513e62987641d)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5226,6 +5227,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-113-nightly.</code>](https://github.com/netdata/netdata.git/commit/9662db27119d86f141c3debde1125b4660c10229)
 - [ ] [<code>Add Windows install types and release channels doc + update map.csv (#21119)</code>](https://github.com/netdata/netdata.git/commit/7dd26864f55121fb9e248d5411ee4fddfbf63141)
 - [ ] [<code>Libunwind (#21163)</code>](https://github.com/netdata/netdata.git/commit/f1f76b244b53da4f1ee5fccf890bc68937262f93)
+- [ ] [<code>build(deps): bump github.com/ibmdb/go_ibm_db from 0.5.3 to 0.5.4 in /src/go (#21167)</code>](https://github.com/netdata/netdata.git/commit/50ce323514034adb789b1f17236a8555c3a64cef)
+- [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.4 to 5.6.5 in /src/go (#21166)</code>](https://github.com/netdata/netdata.git/commit/b3a755052bde6706b021489e75f88e1b758a8c09)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
