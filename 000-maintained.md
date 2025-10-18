@@ -598,6 +598,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ff653295fa67633fe9f4b94d22bf6a275cf1457)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Switch to shared IncusOS CLI</code>](https://github.com/lxc/incus/commit/10d67c5e7093fb44a8eed6c52dc00f7ba27d6385)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/6cc39e4a93ccbfaf8db80212739aafc2dfa15b41)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf00b26a9d042bfb794970256b0fdbb54ec93da5)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4391,6 +4396,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/0ff653295fa67633fe9f4b94d22bf6a275cf1457)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus: Switch to shared IncusOS CLI</code>](https://github.com/lxc/incus/commit/10d67c5e7093fb44a8eed6c52dc00f7ba27d6385)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/6cc39e4a93ccbfaf8db80212739aafc2dfa15b41)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf00b26a9d042bfb794970256b0fdbb54ec93da5)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -7165,6 +7175,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): move a3945 to button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/04dd9f17e496b51c0d331de7192d268d39436acd)
 - [ ] [<code>fix(lib): incorrect DualBattery serialization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bdbbe27da26b2a2cde09dd2077b678f10f4478a9)
 - [ ] [<code>test(cli): update snapshot</code>](https://github.com/Oppzippy/OpenSCQ30/commit/31a648953951aae31e038d3b24fa3fc2520adc7d)
+- [ ] [<code>refactor(lib): migrate a3931 to button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7cf504b59202b5adb1dc81bcb650b8b35df0f688)
+- [ ] [<code>refactor(lib): move a3930 to button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4fbbe9665f28a816e829c67bdbb8b6f79e551a7c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): move a3031 to button_configuration_v2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/21d0ef2eceb5cf1595a54000e5a06045c2c1553f)
+- [ ] [<code>refactor(lib): remove unused button_configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/effd1df87b477a790f1dedd302ee0905ff35495f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): rename button_configuration_v2 to button_configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e060f814a80e7513fcf74761813c4f6baf338a1f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
