@@ -281,7 +281,41 @@
 - [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
 - [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
 - [ ] [<code>chore: Follow up notification reply</code>](https://github.com/krille-chan/fluffychat/commit/9c260313ce7b9c9068e66b947e54109cd614c95c)
+- [ ] [<code>build: (deps): bump unifiedpush from 6.0.2 to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/c4f07f9f10a2298fd433f9f6c27a7a6250b3389e)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Update matrix dart sdk to pub again</code>](https://github.com/krille-chan/fluffychat/commit/a41dadc6cff21325f519d539f9dc95e22c31dbbf)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/345f419c6f4e9af2759c034295d588ffb8ccfab5)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/d175b1e3be07f012359acecc34d7565240b1db1b)
+- [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/23e9b714b2dd3e8684489acaf8b729811987d7fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/7a072d1b3da7bd03b49a54ecdf99b6bdf533b0d4)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/1365b9715312359ab2441a27e8295c55cf4b234c)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/11fdec7b2d5381be2da6bf5cccb3772f935667ab)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/578da17da9b9f8316b5e20461ebf46892f949ebd)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/a84471e34951bee1a58f9021501c5c90a8715338)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/43346509cae15677cfba135bbab9e0bf72221d65)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/ff6477d991ac5ebea52cf490b3d6cf2310d8e5d8)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1d772a49142b67d0ef587beea3b2192b6bb8b32f)
+- [ ] [<code>chore(translations): Translated using Weblate (Indonesian)</code>](https://github.com/krille-chan/fluffychat/commit/b50f0d35ac3a3088f3d3034301f72252aca1d62f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5357d0353d1ff59e619e5139fba7aee29f868b4a)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/4688b5f3f50b68601ef763837111e392f56b67a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/47a6c8a335d7adec1fd6b854ee562ed517755dd6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/a61bad7e3a0d7cc39f52639c75a56017071eae4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/15dc9f7e50b3ec6646595e1b20a62bd4ed462e38)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/ac1fbf82894fecd02f8316d69252fbd6a145ae75)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/7f345bb11a0ed7016197874c3aa36e57982e67bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/7e910a4080b33191e43c00950c14ddc0c06ec027)
+- [ ] [<code>fix: Null pointer crash in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/8a64b3630c8e7c5161292757ee8e74c6bc10cebb)
+- [ ] [<code>chore: Follow up encryption button design</code>](https://github.com/krille-chan/fluffychat/commit/50995e57ff7eb9d5c587e5722100f2ad20e42156)
+- [ ] [<code>chore: Adjust encryption page design</code>](https://github.com/krille-chan/fluffychat/commit/7ff6d7b4013e6f4287998ff7230cfc4833182808)
+- [ ] [<code>build: (deps): bump animations from 2.0.11 to 2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/cf64812ffdba3d5ffdd7a91b9a924e8538f09d38)
+- [ ] [<code>ci: Build only for arm64</code>](https://github.com/krille-chan/fluffychat/commit/1cf422f45d31eeb3a29ac2ae1bfb28df57fdb393)
+- [ ] [<code>build: Update desktop plugins</code>](https://github.com/krille-chan/fluffychat/commit/bedfde7c10d61b8344b89c912671f4a512b2665d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -451,7 +485,41 @@
 - [ ] [<code>build: Flutter upgrade 3.35.5</code>](https://github.com/krille-chan/fluffychat/commit/d48ff5b9a35263cbd7fac5296c644c49cce2985e)
 - [ ] [<code>build: Matrix version 3.0.0</code>](https://github.com/krille-chan/fluffychat/commit/f634e67d69aae0170fc0c9320212f3aa48652306)
 - [ ] [<code>chore: Follow up notification reply</code>](https://github.com/krille-chan/fluffychat/commit/9c260313ce7b9c9068e66b947e54109cd614c95c)
+- [ ] [<code>build: (deps): bump unifiedpush from 6.0.2 to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/c4f07f9f10a2298fd433f9f6c27a7a6250b3389e)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Update matrix dart sdk to pub again</code>](https://github.com/krille-chan/fluffychat/commit/a41dadc6cff21325f519d539f9dc95e22c31dbbf)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/345f419c6f4e9af2759c034295d588ffb8ccfab5)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/d175b1e3be07f012359acecc34d7565240b1db1b)
+- [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/23e9b714b2dd3e8684489acaf8b729811987d7fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/7a072d1b3da7bd03b49a54ecdf99b6bdf533b0d4)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/1365b9715312359ab2441a27e8295c55cf4b234c)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/11fdec7b2d5381be2da6bf5cccb3772f935667ab)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/578da17da9b9f8316b5e20461ebf46892f949ebd)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/a84471e34951bee1a58f9021501c5c90a8715338)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/43346509cae15677cfba135bbab9e0bf72221d65)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/ff6477d991ac5ebea52cf490b3d6cf2310d8e5d8)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1d772a49142b67d0ef587beea3b2192b6bb8b32f)
+- [ ] [<code>chore(translations): Translated using Weblate (Indonesian)</code>](https://github.com/krille-chan/fluffychat/commit/b50f0d35ac3a3088f3d3034301f72252aca1d62f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5357d0353d1ff59e619e5139fba7aee29f868b4a)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/4688b5f3f50b68601ef763837111e392f56b67a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/47a6c8a335d7adec1fd6b854ee562ed517755dd6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/a61bad7e3a0d7cc39f52639c75a56017071eae4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/15dc9f7e50b3ec6646595e1b20a62bd4ed462e38)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/ac1fbf82894fecd02f8316d69252fbd6a145ae75)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/7f345bb11a0ed7016197874c3aa36e57982e67bf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/7e910a4080b33191e43c00950c14ddc0c06ec027)
+- [ ] [<code>fix: Null pointer crash in chat list item</code>](https://github.com/krille-chan/fluffychat/commit/8a64b3630c8e7c5161292757ee8e74c6bc10cebb)
+- [ ] [<code>chore: Follow up encryption button design</code>](https://github.com/krille-chan/fluffychat/commit/50995e57ff7eb9d5c587e5722100f2ad20e42156)
+- [ ] [<code>chore: Adjust encryption page design</code>](https://github.com/krille-chan/fluffychat/commit/7ff6d7b4013e6f4287998ff7230cfc4833182808)
+- [ ] [<code>build: (deps): bump animations from 2.0.11 to 2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/cf64812ffdba3d5ffdd7a91b9a924e8538f09d38)
+- [ ] [<code>ci: Build only for arm64</code>](https://github.com/krille-chan/fluffychat/commit/1cf422f45d31eeb3a29ac2ae1bfb28df57fdb393)
+- [ ] [<code>build: Update desktop plugins</code>](https://github.com/krille-chan/fluffychat/commit/bedfde7c10d61b8344b89c912671f4a512b2665d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -603,6 +671,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/6cc39e4a93ccbfaf8db80212739aafc2dfa15b41)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf00b26a9d042bfb794970256b0fdbb54ec93da5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6d25e72c20c3c7825843043527e3f81ea2fada6c)
+- [ ] [<code>Update translations from weblate</code>](https://github.com/lxc/incus/commit/62c95e91dbd08561f5d094c033d72353dd0b2bf1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4401,6 +4471,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/6cc39e4a93ccbfaf8db80212739aafc2dfa15b41)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf00b26a9d042bfb794970256b0fdbb54ec93da5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6d25e72c20c3c7825843043527e3f81ea2fada6c)
+- [ ] [<code>Update translations from weblate</code>](https://github.com/lxc/incus/commit/62c95e91dbd08561f5d094c033d72353dd0b2bf1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5229,6 +5301,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Libunwind (#21163)</code>](https://github.com/netdata/netdata.git/commit/f1f76b244b53da4f1ee5fccf890bc68937262f93)
 - [ ] [<code>build(deps): bump github.com/ibmdb/go_ibm_db from 0.5.3 to 0.5.4 in /src/go (#21167)</code>](https://github.com/netdata/netdata.git/commit/50ce323514034adb789b1f17236a8555c3a64cef)
 - [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.4 to 5.6.5 in /src/go (#21166)</code>](https://github.com/netdata/netdata.git/commit/b3a755052bde6706b021489e75f88e1b758a8c09)
+- [ ] [<code>docs: fix map.csv for win (#21168)</code>](https://github.com/netdata/netdata.git/commit/f5a8db39df44f3dab3b04ffbbc30eb5bbefae58a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
