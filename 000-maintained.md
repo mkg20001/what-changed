@@ -315,7 +315,19 @@
 - [ ] [<code>chore: Adjust encryption page design</code>](https://github.com/krille-chan/fluffychat/commit/7ff6d7b4013e6f4287998ff7230cfc4833182808)
 - [ ] [<code>build: (deps): bump animations from 2.0.11 to 2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/cf64812ffdba3d5ffdd7a91b9a924e8538f09d38)
 - [ ] [<code>ci: Build only for arm64</code>](https://github.com/krille-chan/fluffychat/commit/1cf422f45d31eeb3a29ac2ae1bfb28df57fdb393)
+- [ ] [<code>build: (deps): bump unifiedpush_ui from 0.1.0 to 0.2.0</code>](https://github.com/krille-chan/fluffychat/commit/f2207e0d48d50dc829ae220e8464bba393cbecdd)
 - [ ] [<code>build: Update desktop plugins</code>](https://github.com/krille-chan/fluffychat/commit/bedfde7c10d61b8344b89c912671f4a512b2665d)
+- [ ] [<code>design: Improved spaces UX</code>](https://github.com/krille-chan/fluffychat/commit/2538f31351cf0fbd94d1cf6583bcc07f9241de5b)
+- [ ] [<code>build: Update macOS Podfile</code>](https://github.com/krille-chan/fluffychat/commit/7fa7941f84f18033897f80a601f3a563c553aaa3)
+- [ ] [<code>chore: Follow up spaces UX</code>](https://github.com/krille-chan/fluffychat/commit/765bff9e32af7cbe42867243618155872d16ae34)
+- [ ] [<code>chore: Better routing to space id</code>](https://github.com/krille-chan/fluffychat/commit/70c5f03e8ddfa3cc8bb8cfa32ac3219f6d615481)
+- [ ] [<code>fix: Cupertino text dialogs</code>](https://github.com/krille-chan/fluffychat/commit/9eb1f4fc1e7c3e0a3323560ef0f655206d8717db)
+- [ ] [<code>feat: Add support for restricted join rule</code>](https://github.com/krille-chan/fluffychat/commit/d6dcbe04216ba702302d17c7f3f087c071dfcd65)
+- [ ] [<code>chore: Correctly remove knockRestricted from possible join rules</code>](https://github.com/krille-chan/fluffychat/commit/8bf46a38783c2000ad1cbcbfb6a7ab8757dcc1c0)
+- [ ] [<code>build: Remove dependency for telephony</code>](https://github.com/krille-chan/fluffychat/commit/fdb5826d095b3dfcf32a380a4d6df6afbd6207b4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/4f0ed3e93fdb595a841b972882da62a6fedf52aa)
+- [ ] [<code>refactor: Use AppSettings enum based configuration everywhere and fix load from json on web</code>](https://github.com/krille-chan/fluffychat/commit/4c357f6249d2543308b61acdc2049b65c6e8ce6f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -519,7 +531,19 @@
 - [ ] [<code>chore: Adjust encryption page design</code>](https://github.com/krille-chan/fluffychat/commit/7ff6d7b4013e6f4287998ff7230cfc4833182808)
 - [ ] [<code>build: (deps): bump animations from 2.0.11 to 2.1.0</code>](https://github.com/krille-chan/fluffychat/commit/cf64812ffdba3d5ffdd7a91b9a924e8538f09d38)
 - [ ] [<code>ci: Build only for arm64</code>](https://github.com/krille-chan/fluffychat/commit/1cf422f45d31eeb3a29ac2ae1bfb28df57fdb393)
+- [ ] [<code>build: (deps): bump unifiedpush_ui from 0.1.0 to 0.2.0</code>](https://github.com/krille-chan/fluffychat/commit/f2207e0d48d50dc829ae220e8464bba393cbecdd)
 - [ ] [<code>build: Update desktop plugins</code>](https://github.com/krille-chan/fluffychat/commit/bedfde7c10d61b8344b89c912671f4a512b2665d)
+- [ ] [<code>design: Improved spaces UX</code>](https://github.com/krille-chan/fluffychat/commit/2538f31351cf0fbd94d1cf6583bcc07f9241de5b)
+- [ ] [<code>build: Update macOS Podfile</code>](https://github.com/krille-chan/fluffychat/commit/7fa7941f84f18033897f80a601f3a563c553aaa3)
+- [ ] [<code>chore: Follow up spaces UX</code>](https://github.com/krille-chan/fluffychat/commit/765bff9e32af7cbe42867243618155872d16ae34)
+- [ ] [<code>chore: Better routing to space id</code>](https://github.com/krille-chan/fluffychat/commit/70c5f03e8ddfa3cc8bb8cfa32ac3219f6d615481)
+- [ ] [<code>fix: Cupertino text dialogs</code>](https://github.com/krille-chan/fluffychat/commit/9eb1f4fc1e7c3e0a3323560ef0f655206d8717db)
+- [ ] [<code>feat: Add support for restricted join rule</code>](https://github.com/krille-chan/fluffychat/commit/d6dcbe04216ba702302d17c7f3f087c071dfcd65)
+- [ ] [<code>chore: Correctly remove knockRestricted from possible join rules</code>](https://github.com/krille-chan/fluffychat/commit/8bf46a38783c2000ad1cbcbfb6a7ab8757dcc1c0)
+- [ ] [<code>build: Remove dependency for telephony</code>](https://github.com/krille-chan/fluffychat/commit/fdb5826d095b3dfcf32a380a4d6df6afbd6207b4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/4f0ed3e93fdb595a841b972882da62a6fedf52aa)
+- [ ] [<code>refactor: Use AppSettings enum based configuration everywhere and fix load from json on web</code>](https://github.com/krille-chan/fluffychat/commit/4c357f6249d2543308b61acdc2049b65c6e8ce6f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -671,8 +695,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/6cc39e4a93ccbfaf8db80212739aafc2dfa15b41)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf00b26a9d042bfb794970256b0fdbb54ec93da5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Use ExtendMetadata when possible</code>](https://github.com/lxc/incus/commit/d3431106ba8ce58ae22a19ab0f1146d7dad4b0dd)
+- [ ] [<code>incusd/instance/qmp: Better protect against write after close</code>](https://github.com/lxc/incus/commit/3e3ffdddb27322994999c3f5ae1a64e87a5aa898)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6d25e72c20c3c7825843043527e3f81ea2fada6c)
 - [ ] [<code>Update translations from weblate</code>](https://github.com/lxc/incus/commit/62c95e91dbd08561f5d094c033d72353dd0b2bf1)
+- [ ] [<code>shared/api: Add 'UsedBy' field to 'ClusterGroup' struct</code>](https://github.com/lxc/incus/commit/d561b5db81f7d3b3dbb466df1f02e19e79e3904f)
+- [ ] [<code>incusd/db: Add 'GetClusterGroupMemberInstances' and check cluster group member usage</code>](https://github.com/lxc/incus/commit/6d3d9c3b7a24d1173c6781c7888bb9cb01f2e742)
+- [ ] [<code>incusd: Check if cluster group is in use</code>](https://github.com/lxc/incus/commit/077391051c2487f41e885a737e0c83fc61e071ce)
+- [ ] [<code>api: Add cluster_group_usedby extension</code>](https://github.com/lxc/incus/commit/530bc950619517effc5a2e4283ac1b4ff43f2185)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d0c4c88d7a54be0bad4a0319815ec2d74183af60)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4471,8 +4502,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/6cc39e4a93ccbfaf8db80212739aafc2dfa15b41)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/cf00b26a9d042bfb794970256b0fdbb54ec93da5)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Use ExtendMetadata when possible</code>](https://github.com/lxc/incus/commit/d3431106ba8ce58ae22a19ab0f1146d7dad4b0dd)
+- [ ] [<code>incusd/instance/qmp: Better protect against write after close</code>](https://github.com/lxc/incus/commit/3e3ffdddb27322994999c3f5ae1a64e87a5aa898)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6d25e72c20c3c7825843043527e3f81ea2fada6c)
 - [ ] [<code>Update translations from weblate</code>](https://github.com/lxc/incus/commit/62c95e91dbd08561f5d094c033d72353dd0b2bf1)
+- [ ] [<code>shared/api: Add 'UsedBy' field to 'ClusterGroup' struct</code>](https://github.com/lxc/incus/commit/d561b5db81f7d3b3dbb466df1f02e19e79e3904f)
+- [ ] [<code>incusd/db: Add 'GetClusterGroupMemberInstances' and check cluster group member usage</code>](https://github.com/lxc/incus/commit/6d3d9c3b7a24d1173c6781c7888bb9cb01f2e742)
+- [ ] [<code>incusd: Check if cluster group is in use</code>](https://github.com/lxc/incus/commit/077391051c2487f41e885a737e0c83fc61e071ce)
+- [ ] [<code>api: Add cluster_group_usedby extension</code>](https://github.com/lxc/incus/commit/530bc950619517effc5a2e4283ac1b4ff43f2185)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d0c4c88d7a54be0bad4a0319815ec2d74183af60)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
