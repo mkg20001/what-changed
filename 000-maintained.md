@@ -57,51 +57,8 @@
 - [ ] [<code>windows: Fix lib dir location</code>](https://github.com/lxc/distrobuilder/commit/5400886f44d710d24ff900175cecd89853c724dc)
 - [ ] [<code>systemd-generator: Fix console-getty handling</code>](https://github.com/lxc/distrobuilder/commit/d0e0b68a627206a6dc5384587603b91f1e41d43b)
 
-#### [docuum](https://github.com/stepchowfun/docuum): [v0.25.0 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.0...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.1...HEAD)
 
-- [ ] [<code>Install v0.25.0 by default</code>](https://github.com/stepchowfun/docuum/commit/1f9bf5ea4490e4d085453b914a17d5c2a82cc43e)
-- [ ] [<code>Update Rust to v1.78.0</code>](https://github.com/stepchowfun/docuum/commit/5646d3dc95ef0a6bc32318e04c3f96abe92a1d3d)
-- [ ] [<code>Update the Ubuntu version in the toastfile to 22.04 LTS</code>](https://github.com/stepchowfun/docuum/commit/27312e8307cadcb0cb81901ea80301491719f70f)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Add a Tagref reference to the code of conduct file</code>](https://github.com/stepchowfun/docuum/commit/b61ac93ecf13af8ea0f9a7c046e381ccf72ea7e9)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update the link to the Rustup self-updating issue on Windows</code>](https://github.com/stepchowfun/docuum/commit/cb75cba514bd2cb39e96e1ae5c23fffdc9096917)
-- [ ] [<code>deps: bump libc from 0.2.147 to 0.2.155</code>](https://github.com/stepchowfun/docuum/commit/d85361ebe79068535923f4c0ad2a36827129ec6a)
-- [ ] [<code>Update GitHub Actions to use non-deprecated versions</code>](https://github.com/stepchowfun/docuum/commit/5231621e10af8728fa9f60154bf2f71bfcc98b37)
-- [ ] [<code>Update the toastfile</code>](https://github.com/stepchowfun/docuum/commit/0196bd25563bce8556aa31931d0142dcd1aefec2)
-- [ ] [<code>Update Rust to v1.79.0</code>](https://github.com/stepchowfun/docuum/commit/2b7b6833d2db03bac5629e29186db30968f8bf41)
-- [ ] [<code>Remove some redundancy in the CI workflow</code>](https://github.com/stepchowfun/docuum/commit/4dfe7b262fc82c890cd704e8c35f3453bd752d7d)
-- [ ] [<code>Update Rust to v1.80.0</code>](https://github.com/stepchowfun/docuum/commit/c0e0f1b8da9c230947b5f46c9c01a33c9c26cee5)
-- [ ] [<code>Update Rust to v1.80.1</code>](https://github.com/stepchowfun/docuum/commit/4309709bd352686d0bbb8ba6ab8ebce89be2f89f)
-- [ ] [<code>Update Rust to v1.81.0</code>](https://github.com/stepchowfun/docuum/commit/01c5827c3c51fdf33aea0e6da94c40f822cf2556)
-- [ ] [<code>feat: update alpine to v3.20</code>](https://github.com/stepchowfun/docuum/commit/847b36af510e17f9bd34ddc9e8c877eb3eb73235)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Update Rust to v1.83.0</code>](https://github.com/stepchowfun/docuum/commit/e39bccb866f7f241a31940732ce677755a34a20f)
-- [ ] [<code>add mention to what formats min-age supports</code>](https://github.com/stepchowfun/docuum/commit/dbc16e5faf4aa226c95806969abbe1645b8e219d)
-- [ ] [<code>Make link to parse_duration versioned to 2.1.1</code>](https://github.com/stepchowfun/docuum/commit/8a8817aa23bf5e8d553a3a668c82616508362fb9)
-- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/47c2f9380451d8e6dfd52833c13c0cbeb2e62215)
-- [ ] [<code>Remove the CI status badge</code>](https://github.com/stepchowfun/docuum/commit/66ea24329bc76d4ae75ff762d1044e2289a19e3f)
-- [ ] [<code>Bring back the CI badge with the new URL scheme</code>](https://github.com/stepchowfun/docuum/commit/c4c0ebf6fc82f37bae0889838492b228f050f6d8)
-- [ ] [<code>Cargo.lock: Update 'ctrlc' and 'nix' crates</code>](https://github.com/stepchowfun/docuum/commit/cece4a0f9a469828a8ba834a2408389418020f95)
-- [ ] [<code>Update Rust to v1.84.1</code>](https://github.com/stepchowfun/docuum/commit/eab9d374befadccc9de54bb05dd39c95c4856e77)
-- [ ] [<code>Update Rust to v1.85.0</code>](https://github.com/stepchowfun/docuum/commit/2ff30181c538105030ba4378a91ddba55ababbc9)
-- [ ] [<code>Update the MAINTAINERS instructions</code>](https://github.com/stepchowfun/docuum/commit/0f9968e4fe828519dc7194d0769aae4e6e349494)
-- [ ] [<code>Add `permissions` to the `publish-release` CI job</code>](https://github.com/stepchowfun/docuum/commit/1117bf7d9c1222b83db49e8b5a695273f686e178)
-- [ ] [<code>Update Rust to v1.87.0</code>](https://github.com/stepchowfun/docuum/commit/7d0e6a7764db7753f9d3bad8d39ae6bdf49079a5)
-- [ ] [<code>Switch from unmaintained parse_duration to humantime.parse_duration</code>](https://github.com/stepchowfun/docuum/commit/b759a6385c18c869a7966262c572cb22f148d0af)
-- [ ] [<code>install.sh: Attempt to restore SELinux attributes</code>](https://github.com/stepchowfun/docuum/commit/6822fcdfa4b5d765c45492d5974eef0bfe898a35)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Ensure `restorecon` succeeds if attempted</code>](https://github.com/stepchowfun/docuum/commit/6d79de7847be35e81c1e737a73369ef711437dca)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix some output redirection in the installation script</code>](https://github.com/stepchowfun/docuum/commit/77c57616438095b028ef7d20905a5425035eddfb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update Rust to v1.88.0</code>](https://github.com/stepchowfun/docuum/commit/06d54a799faa10c5541de8ab46be3b66d6077aaf)
-- [ ] [<code>add filter for containers list</code>](https://github.com/stepchowfun/docuum/commit/9ab104011edd94309caf00247ab8c25fe552e7a6)
-- [ ] [<code>cargo:format</code>](https://github.com/stepchowfun/docuum/commit/28650caf417cdaa3f21789f8b6ec928fa3ea5ad3)
-- [ ] [<code>Add some comments and refactor some code related to the recent crash loop fix</code>](https://github.com/stepchowfun/docuum/commit/586613e1d03781f808e7fcd4093cbf270b155fff)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Merge pull request #342 from stepchowfun/container-status-removing</code>](https://github.com/stepchowfun/docuum/commit/94b4d3c4e1f834b0669477e246a37cfed16afde8)
-  - <sub>Tags: <code>v0.25.1</code></sub>
 - [ ] [<code>Install v0.25.1 by default</code>](https://github.com/stepchowfun/docuum/commit/0cf78cd26203f31e1ff76885efaea34ec0bb2b21)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -349,6 +306,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/2e7d6ccde1d7484f228b1ef21297eec86d3c2e3c)
 - [ ] [<code>chore: Add more platforms to bug report template</code>](https://github.com/krille-chan/fluffychat/commit/31b5ce910d5e3b1e4437828cddd6e83ec232b55c)
 - [ ] [<code>chore: Update bug report platforms</code>](https://github.com/krille-chan/fluffychat/commit/a8062de815c78137548ad77f2da2997c81be966f)
+- [ ] [<code>chore: Hide restricted and knock restricted for unsupported room versions</code>](https://github.com/krille-chan/fluffychat/commit/286d1662a47ff8fdfb3c5860eb57ec6a3e39d6f7)
+- [ ] [<code>chore: Try out refactored user device keys update method</code>](https://github.com/krille-chan/fluffychat/commit/0495b58065eba4dda0d26bcbbaec55caae896bb7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -579,6 +538,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/2e7d6ccde1d7484f228b1ef21297eec86d3c2e3c)
 - [ ] [<code>chore: Add more platforms to bug report template</code>](https://github.com/krille-chan/fluffychat/commit/31b5ce910d5e3b1e4437828cddd6e83ec232b55c)
 - [ ] [<code>chore: Update bug report platforms</code>](https://github.com/krille-chan/fluffychat/commit/a8062de815c78137548ad77f2da2997c81be966f)
+- [ ] [<code>chore: Hide restricted and knock restricted for unsupported room versions</code>](https://github.com/krille-chan/fluffychat/commit/286d1662a47ff8fdfb3c5860eb57ec6a3e39d6f7)
+- [ ] [<code>chore: Try out refactored user device keys update method</code>](https://github.com/krille-chan/fluffychat/commit/0495b58065eba4dda0d26bcbbaec55caae896bb7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4596,6 +4557,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
 - [ ] [<code>Allow selecting un-managed bridges</code>](https://github.com/zabbly/incus-ui-canonical/commit/d53618966061c56f24b28666a21513e62987641d)
+- [ ] [<code>Fix several duplicate imports caused by rebase issues.</code>](https://github.com/zabbly/incus-ui-canonical/commit/0d32abc4f23f0cf26e96250634721213665392ef)
+- [ ] [<code>Add additional keyboard entries to the graphical console shortcuts.</code>](https://github.com/zabbly/incus-ui-canonical/commit/544cac7412ab32182a4b45c3fc7f43772a7b2112)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5424,6 +5387,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-119-nightly.</code>](https://github.com/netdata/netdata.git/commit/760505e2c0df52b2246890a711c9d47731c1f6c0)
 - [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.9 to 0.5.10 (#21173)</code>](https://github.com/netdata/netdata.git/commit/09292e6c2bdabd16e71cca1500b5a6f4e96792bc)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.14.0 to 9.14.1 in /src/go (#21174)</code>](https://github.com/netdata/netdata.git/commit/c0677c97ec1dedad475112281e63e9047ab59c15)
+- [ ] [<code>Fix /api/v3 data update_every after filtering (#21170)</code>](https://github.com/netdata/netdata.git/commit/c7f7929f0efae4591ff3a8b14d6eff647bc20460)
+- [ ] [<code>swagger docs (#21086)</code>](https://github.com/netdata/netdata.git/commit/707777aa76a348e56242ee1d654f7e88b824f5c7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>stacktrace-common: define USE_NOTRACE if no HAVE_BACKTRACE (#21165)</code>](https://github.com/netdata/netdata.git/commit/f935bc38ce6f62193972b499de0250b504243b35)
+- [ ] [<code>Update swagger json from yaml (#21176)</code>](https://github.com/netdata/netdata.git/commit/d27388df27ceb9261241461025bee6fe9bedeb57)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Periodic sync data on windows (#21175)</code>](https://github.com/netdata/netdata.git/commit/feefb7481b60ed6a3585595ce34b551bf15b9cec)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
