@@ -96,6 +96,13 @@
 - [ ] [<code>Fix some output redirection in the installation script</code>](https://github.com/stepchowfun/docuum/commit/77c57616438095b028ef7d20905a5425035eddfb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update Rust to v1.88.0</code>](https://github.com/stepchowfun/docuum/commit/06d54a799faa10c5541de8ab46be3b66d6077aaf)
+- [ ] [<code>add filter for containers list</code>](https://github.com/stepchowfun/docuum/commit/9ab104011edd94309caf00247ab8c25fe552e7a6)
+- [ ] [<code>cargo:format</code>](https://github.com/stepchowfun/docuum/commit/28650caf417cdaa3f21789f8b6ec928fa3ea5ad3)
+- [ ] [<code>Add some comments and refactor some code related to the recent crash loop fix</code>](https://github.com/stepchowfun/docuum/commit/586613e1d03781f808e7fcd4093cbf270b155fff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Merge pull request #342 from stepchowfun/container-status-removing</code>](https://github.com/stepchowfun/docuum/commit/94b4d3c4e1f834b0669477e246a37cfed16afde8)
+  - <sub>Tags: <code>v0.25.1</code></sub>
+- [ ] [<code>Install v0.25.1 by default</code>](https://github.com/stepchowfun/docuum/commit/0cf78cd26203f31e1ff76885efaea34ec0bb2b21)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -328,6 +335,20 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/4f0ed3e93fdb595a841b972882da62a6fedf52aa)
 - [ ] [<code>refactor: Use AppSettings enum based configuration everywhere and fix load from json on web</code>](https://github.com/krille-chan/fluffychat/commit/4c357f6249d2543308b61acdc2049b65c6e8ce6f)
+- [ ] [<code>feat: Add donation buttons except for PlayStore&AppStore version</code>](https://github.com/krille-chan/fluffychat/commit/c434b3dddce286fe6949fb552a385ebb327c687f)
+- [ ] [<code>chore: Fix load config.json</code>](https://github.com/krille-chan/fluffychat/commit/b856e83e83e202554ab783805ea0d086eb32c931)
+- [ ] [<code>chore: Make privacy url not configurable</code>](https://github.com/krille-chan/fluffychat/commit/136ddd7681873631b1cf4b2e09d502aae64fdb95)
+- [ ] [<code>chore: Follow up donation button</code>](https://github.com/krille-chan/fluffychat/commit/dfc97aa3d71bf7fefc6a5facd205d398ad3f99b6)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/a94d9f88c4dbe34c0e9572027959acae95f0a603)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/bcf1cfc7f3421fe709cc50d479faf40ec4506370)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/f9b1a55e23f3299f20c3e0a20c1e44f2820cd9d4)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/c37082ec4097008d00226b297b34f0669817cbf5)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/08b5448ffc3c519f19564da63332e5161df041ba)
+- [ ] [<code>fix: Correctly pass through obscure text</code>](https://github.com/krille-chan/fluffychat/commit/ae29f949d2206e9b1815a58edbd63b9b258f4670)
+- [ ] [<code>chore: Update issue templates</code>](https://github.com/krille-chan/fluffychat/commit/8cafffdb3c07e557c36bfb2a9df72865405d6419)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/2e7d6ccde1d7484f228b1ef21297eec86d3c2e3c)
+- [ ] [<code>chore: Add more platforms to bug report template</code>](https://github.com/krille-chan/fluffychat/commit/31b5ce910d5e3b1e4437828cddd6e83ec232b55c)
+- [ ] [<code>chore: Update bug report platforms</code>](https://github.com/krille-chan/fluffychat/commit/a8062de815c78137548ad77f2da2997c81be966f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -544,6 +565,20 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/4f0ed3e93fdb595a841b972882da62a6fedf52aa)
 - [ ] [<code>refactor: Use AppSettings enum based configuration everywhere and fix load from json on web</code>](https://github.com/krille-chan/fluffychat/commit/4c357f6249d2543308b61acdc2049b65c6e8ce6f)
+- [ ] [<code>feat: Add donation buttons except for PlayStore&AppStore version</code>](https://github.com/krille-chan/fluffychat/commit/c434b3dddce286fe6949fb552a385ebb327c687f)
+- [ ] [<code>chore: Fix load config.json</code>](https://github.com/krille-chan/fluffychat/commit/b856e83e83e202554ab783805ea0d086eb32c931)
+- [ ] [<code>chore: Make privacy url not configurable</code>](https://github.com/krille-chan/fluffychat/commit/136ddd7681873631b1cf4b2e09d502aae64fdb95)
+- [ ] [<code>chore: Follow up donation button</code>](https://github.com/krille-chan/fluffychat/commit/dfc97aa3d71bf7fefc6a5facd205d398ad3f99b6)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/a94d9f88c4dbe34c0e9572027959acae95f0a603)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/bcf1cfc7f3421fe709cc50d479faf40ec4506370)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/f9b1a55e23f3299f20c3e0a20c1e44f2820cd9d4)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/c37082ec4097008d00226b297b34f0669817cbf5)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/08b5448ffc3c519f19564da63332e5161df041ba)
+- [ ] [<code>fix: Correctly pass through obscure text</code>](https://github.com/krille-chan/fluffychat/commit/ae29f949d2206e9b1815a58edbd63b9b258f4670)
+- [ ] [<code>chore: Update issue templates</code>](https://github.com/krille-chan/fluffychat/commit/8cafffdb3c07e557c36bfb2a9df72865405d6419)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/2e7d6ccde1d7484f228b1ef21297eec86d3c2e3c)
+- [ ] [<code>chore: Add more platforms to bug report template</code>](https://github.com/krille-chan/fluffychat/commit/31b5ce910d5e3b1e4437828cddd6e83ec232b55c)
+- [ ] [<code>chore: Update bug report platforms</code>](https://github.com/krille-chan/fluffychat/commit/a8062de815c78137548ad77f2da2997c81be966f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -660,6 +695,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>go.mod: Update libovsdb import path</code>](https://github.com/lxc/incus/commit/a2925ab663385abed119195156bf1cc626371c33)
 - [ ] [<code>internal/server/network/ovn/schema: Update generated schema</code>](https://github.com/lxc/incus/commit/dd20d891b4d577aa2dfcde87a3dbfd3e0a932c5b)
+- [ ] [<code>incus-agent/darwin: Split non-darwin-specific logic</code>](https://github.com/lxc/incus/commit/8692de14f293f667202058359c8a803b6a8e8cf7)
+- [ ] [<code>incus-agent/windows: Feature parity with Darwin</code>](https://github.com/lxc/incus/commit/73fd2abeda275fab7ab63e36ab02212e4fb853c9)
 - [ ] [<code>test/mini-oidc: Clarify usage in README.md</code>](https://github.com/lxc/incus/commit/a2663a92d9f4d718ac3d8c40189fd568e51b62b0)
 - [ ] [<code>test/mini-oidc: Extract logic from main</code>](https://github.com/lxc/incus/commit/c8f5c55ca88c1e58a93004e4e8736109df2ca91a)
 - [ ] [<code>test/mini-oidc: Add RunTest for usage in tests</code>](https://github.com/lxc/incus/commit/55b99c214f7e2a3bc371e26e6d0b611308b0e604)
@@ -704,6 +741,27 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Check if cluster group is in use</code>](https://github.com/lxc/incus/commit/077391051c2487f41e885a737e0c83fc61e071ce)
 - [ ] [<code>api: Add cluster_group_usedby extension</code>](https://github.com/lxc/incus/commit/530bc950619517effc5a2e4283ac1b4ff43f2185)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d0c4c88d7a54be0bad4a0319815ec2d74183af60)
+- [ ] [<code>api: Add bpf_token_delegation extension</code>](https://github.com/lxc/incus/commit/41d53ebe0014da9831feb25f33f47571e07486f1)
+- [ ] [<code>incusd/main_forkbpf: Create forkbpf helper for bpf token delegation.</code>](https://github.com/lxc/incus/commit/3fedc02652271c48058b978951382a2a3f6df2ef)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Add bpf token delegation feature.</code>](https://github.com/lxc/incus/commit/ec4a1450bc7f2fa0cfd1a5709021532e74a67524)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6d17c36cd763daff3fd461421749ad40cb6dde69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add documentation for bpf token delegation</code>](https://github.com/lxc/incus/commit/1cc5dab6a6ac952c4608bbbffeda7c17bd695257)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incusd/project: Require lowlevel access for bpffs options</code>](https://github.com/lxc/incus/commit/fe8aa7a56c09eb4f671c798e131ea85a7f258eb8)
+- [ ] [<code>tests: Add test for bpf token delegation</code>](https://github.com/lxc/incus/commit/a031b0c7a500b406928550ccbeb8c0866c667252)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>codespell: Allow attachs (bpffs mount option)</code>](https://github.com/lxc/incus/commit/70b767b96588e03ad69d633a31460222332d39e2)
+- [ ] [<code>incusd/instance: Add GuestOS</code>](https://github.com/lxc/incus/commit/d6ab08b4c98e1d75defd55bc36c43eff2dcedb7a)
+- [ ] [<code>incusd/device/disk: Rework OS and architecture detection</code>](https://github.com/lxc/incus/commit/0fe66971e2ea8baf4e3537bd726462585eb7b2c4)
+- [ ] [<code>incus-agent/darwin: Implement interactive console</code>](https://github.com/lxc/incus/commit/105325bc580b3ce44a8626ab24516dc67f78b9d5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Add Darwin agent files</code>](https://github.com/lxc/incus/commit/124086b301cfa191eb3c93367ca919ccee2b9950)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>incus-agent/darwin: Fix typo in comment</code>](https://github.com/lxc/incus/commit/206d63486e6ee41a251c586d6011530872db27e4)
+- [ ] [<code>doc/instance/create: Add details for macOS</code>](https://github.com/lxc/incus/commit/1e3da02f6fdf7368b599f837dc0274e8c37f7078)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4467,6 +4525,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>go.mod: Update libovsdb import path</code>](https://github.com/lxc/incus/commit/a2925ab663385abed119195156bf1cc626371c33)
 - [ ] [<code>internal/server/network/ovn/schema: Update generated schema</code>](https://github.com/lxc/incus/commit/dd20d891b4d577aa2dfcde87a3dbfd3e0a932c5b)
+- [ ] [<code>incus-agent/darwin: Split non-darwin-specific logic</code>](https://github.com/lxc/incus/commit/8692de14f293f667202058359c8a803b6a8e8cf7)
+- [ ] [<code>incus-agent/windows: Feature parity with Darwin</code>](https://github.com/lxc/incus/commit/73fd2abeda275fab7ab63e36ab02212e4fb853c9)
 - [ ] [<code>test/mini-oidc: Clarify usage in README.md</code>](https://github.com/lxc/incus/commit/a2663a92d9f4d718ac3d8c40189fd568e51b62b0)
 - [ ] [<code>test/mini-oidc: Extract logic from main</code>](https://github.com/lxc/incus/commit/c8f5c55ca88c1e58a93004e4e8736109df2ca91a)
 - [ ] [<code>test/mini-oidc: Add RunTest for usage in tests</code>](https://github.com/lxc/incus/commit/55b99c214f7e2a3bc371e26e6d0b611308b0e604)
@@ -4511,6 +4571,27 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Check if cluster group is in use</code>](https://github.com/lxc/incus/commit/077391051c2487f41e885a737e0c83fc61e071ce)
 - [ ] [<code>api: Add cluster_group_usedby extension</code>](https://github.com/lxc/incus/commit/530bc950619517effc5a2e4283ac1b4ff43f2185)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d0c4c88d7a54be0bad4a0319815ec2d74183af60)
+- [ ] [<code>api: Add bpf_token_delegation extension</code>](https://github.com/lxc/incus/commit/41d53ebe0014da9831feb25f33f47571e07486f1)
+- [ ] [<code>incusd/main_forkbpf: Create forkbpf helper for bpf token delegation.</code>](https://github.com/lxc/incus/commit/3fedc02652271c48058b978951382a2a3f6df2ef)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance: Add bpf token delegation feature.</code>](https://github.com/lxc/incus/commit/ec4a1450bc7f2fa0cfd1a5709021532e74a67524)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6d17c36cd763daff3fd461421749ad40cb6dde69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Add documentation for bpf token delegation</code>](https://github.com/lxc/incus/commit/1cc5dab6a6ac952c4608bbbffeda7c17bd695257)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incusd/project: Require lowlevel access for bpffs options</code>](https://github.com/lxc/incus/commit/fe8aa7a56c09eb4f671c798e131ea85a7f258eb8)
+- [ ] [<code>tests: Add test for bpf token delegation</code>](https://github.com/lxc/incus/commit/a031b0c7a500b406928550ccbeb8c0866c667252)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>codespell: Allow attachs (bpffs mount option)</code>](https://github.com/lxc/incus/commit/70b767b96588e03ad69d633a31460222332d39e2)
+- [ ] [<code>incusd/instance: Add GuestOS</code>](https://github.com/lxc/incus/commit/d6ab08b4c98e1d75defd55bc36c43eff2dcedb7a)
+- [ ] [<code>incusd/device/disk: Rework OS and architecture detection</code>](https://github.com/lxc/incus/commit/0fe66971e2ea8baf4e3537bd726462585eb7b2c4)
+- [ ] [<code>incus-agent/darwin: Implement interactive console</code>](https://github.com/lxc/incus/commit/105325bc580b3ce44a8626ab24516dc67f78b9d5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Add Darwin agent files</code>](https://github.com/lxc/incus/commit/124086b301cfa191eb3c93367ca919ccee2b9950)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>incus-agent/darwin: Fix typo in comment</code>](https://github.com/lxc/incus/commit/206d63486e6ee41a251c586d6011530872db27e4)
+- [ ] [<code>doc/instance/create: Add details for macOS</code>](https://github.com/lxc/incus/commit/1e3da02f6fdf7368b599f837dc0274e8c37f7078)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5340,6 +5421,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/ibmdb/go_ibm_db from 0.5.3 to 0.5.4 in /src/go (#21167)</code>](https://github.com/netdata/netdata.git/commit/50ce323514034adb789b1f17236a8555c3a64cef)
 - [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.4 to 5.6.5 in /src/go (#21166)</code>](https://github.com/netdata/netdata.git/commit/b3a755052bde6706b021489e75f88e1b758a8c09)
 - [ ] [<code>docs: fix map.csv for win (#21168)</code>](https://github.com/netdata/netdata.git/commit/f5a8db39df44f3dab3b04ffbbc30eb5bbefae58a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-119-nightly.</code>](https://github.com/netdata/netdata.git/commit/760505e2c0df52b2246890a711c9d47731c1f6c0)
+- [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.9 to 0.5.10 (#21173)</code>](https://github.com/netdata/netdata.git/commit/09292e6c2bdabd16e71cca1500b5a6f4e96792bc)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.14.0 to 9.14.1 in /src/go (#21174)</code>](https://github.com/netdata/netdata.git/commit/c0677c97ec1dedad475112281e63e9047ab59c15)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
