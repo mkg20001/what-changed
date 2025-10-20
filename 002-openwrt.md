@@ -5,6 +5,8 @@
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/fa6a52b0371356aeebd0b0c50dbb4ae77ee24bd0)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/c69fb5ef80b9780fe9add345052aef9ccb5d51f4)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
@@ -88,6 +90,8 @@
 - [ ] [<code>bridge: fix reload when ports refer to aliased vlans on another bridge</code>](https://git.openwrt.org/project/netifd.git/commit/22216cac7c94847d49ad844a5a33d76395cd0f00)
 - [ ] [<code>system: add logging wrappers for basic system functions</code>](https://git.openwrt.org/project/netifd.git/commit/ecca21ca07dd3b82004d9a7a946ff0228a07b071)
 - [ ] [<code>config: fix overriding bridge-vlan sections via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/649028013a3c8f6ed53fc97ca997d2528d06b5d9)
+- [ ] [<code>veth: delete device before creation to handle stale state</code>](https://git.openwrt.org/project/netifd.git/commit/df2f5c9a30f8faadf8dee962cc17d315e967d70a)
+- [ ] [<code>system-linux: handle RTM_DELLINK events for device state tracking</code>](https://git.openwrt.org/project/netifd.git/commit/b6d371f307705b32e1ef5c63d7bf6440c8859789)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
