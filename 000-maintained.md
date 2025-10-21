@@ -18,7 +18,7 @@
 - [ ] [<code>refactor: remove unused semaphore 'stopped' from cowsql_node structure</code>](https://github.com/cowsql/cowsql/commit/8e73441c0e68d1cb602e2dbc0cc3f26f20eecd8e)
 - [ ] [<code>refactor: replace semaphores, mutexes, conditions and threads with uv equivalents</code>](https://github.com/cowsql/cowsql/commit/a27e21b9d15e46f6b64b2e94aee165ae492f158c)
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.2/dbeaver-ce-25.2.2-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.2/dbeaver-ce-25.2.2-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.3/dbeaver-ce-25.2.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.3/dbeaver-ce-25.2.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -308,6 +308,16 @@
 - [ ] [<code>chore: Update bug report platforms</code>](https://github.com/krille-chan/fluffychat/commit/a8062de815c78137548ad77f2da2997c81be966f)
 - [ ] [<code>chore: Hide restricted and knock restricted for unsupported room versions</code>](https://github.com/krille-chan/fluffychat/commit/286d1662a47ff8fdfb3c5860eb57ec6a3e39d6f7)
 - [ ] [<code>chore: Try out refactored user device keys update method</code>](https://github.com/krille-chan/fluffychat/commit/0495b58065eba4dda0d26bcbbaec55caae896bb7)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 19.4.2 to 19.5.0</code>](https://github.com/krille-chan/fluffychat/commit/650ba0c036e51cb058807197a92f042de8066504)
+- [ ] [<code>build: (deps): bump desktop_drop from 0.6.1 to 0.7.0</code>](https://github.com/krille-chan/fluffychat/commit/1f0e80dd2db6ef56fd3bc7e3514878cc10632f41)
+- [ ] [<code>build: (deps): bump device_info_plus from 12.1.0 to 12.2.0</code>](https://github.com/krille-chan/fluffychat/commit/d3bf87e0f569b7d769740111726f7307422664c1)
+- [ ] [<code>build: (deps): bump flutter_native_splash from 2.4.6 to 2.4.7</code>](https://github.com/krille-chan/fluffychat/commit/0d7e1aa40f4bff565a9cf24fe086c596aa6bbef2)
+- [ ] [<code>chore: Go back to pub.dev matrix dep</code>](https://github.com/krille-chan/fluffychat/commit/5fca3dfdfba9087895621aae4e6fd95e347b7fa3)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/ef7086f73945162a7dbfde92df27f811767de5c4)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/93fa8188b1057a3bcf766af749b4eef33f17a542)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/4953b8c8752fe77b3911ab1b7b5db1732bc68a71)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/01f890a3ff83de078ba0691ef100e920ad737339)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2e38a2a7cdc8c38d4954577fe3dc35c64a28a6bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -540,6 +550,16 @@
 - [ ] [<code>chore: Update bug report platforms</code>](https://github.com/krille-chan/fluffychat/commit/a8062de815c78137548ad77f2da2997c81be966f)
 - [ ] [<code>chore: Hide restricted and knock restricted for unsupported room versions</code>](https://github.com/krille-chan/fluffychat/commit/286d1662a47ff8fdfb3c5860eb57ec6a3e39d6f7)
 - [ ] [<code>chore: Try out refactored user device keys update method</code>](https://github.com/krille-chan/fluffychat/commit/0495b58065eba4dda0d26bcbbaec55caae896bb7)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 19.4.2 to 19.5.0</code>](https://github.com/krille-chan/fluffychat/commit/650ba0c036e51cb058807197a92f042de8066504)
+- [ ] [<code>build: (deps): bump desktop_drop from 0.6.1 to 0.7.0</code>](https://github.com/krille-chan/fluffychat/commit/1f0e80dd2db6ef56fd3bc7e3514878cc10632f41)
+- [ ] [<code>build: (deps): bump device_info_plus from 12.1.0 to 12.2.0</code>](https://github.com/krille-chan/fluffychat/commit/d3bf87e0f569b7d769740111726f7307422664c1)
+- [ ] [<code>build: (deps): bump flutter_native_splash from 2.4.6 to 2.4.7</code>](https://github.com/krille-chan/fluffychat/commit/0d7e1aa40f4bff565a9cf24fe086c596aa6bbef2)
+- [ ] [<code>chore: Go back to pub.dev matrix dep</code>](https://github.com/krille-chan/fluffychat/commit/5fca3dfdfba9087895621aae4e6fd95e347b7fa3)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/ef7086f73945162a7dbfde92df27f811767de5c4)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/93fa8188b1057a3bcf766af749b4eef33f17a542)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/4953b8c8752fe77b3911ab1b7b5db1732bc68a71)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/01f890a3ff83de078ba0691ef100e920ad737339)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2e38a2a7cdc8c38d4954577fe3dc35c64a28a6bd)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -723,6 +743,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>incus-agent/darwin: Fix typo in comment</code>](https://github.com/lxc/incus/commit/206d63486e6ee41a251c586d6011530872db27e4)
 - [ ] [<code>doc/instance/create: Add details for macOS</code>](https://github.com/lxc/incus/commit/1e3da02f6fdf7368b599f837dc0274e8c37f7078)
+- [ ] [<code>incusd/network: Check if target_address in forward is a broadcast address of the networks subnet</code>](https://github.com/lxc/incus/commit/c160e4f0fb34d9e3aa13b08e9b1efcb4392e473d)
+- [ ] [<code>incusd/network: Check if target_address in forward is the networkID of the networks subnet</code>](https://github.com/lxc/incus/commit/650c0dfad9a52e38e5ab991b8f540d4298429634)
+- [ ] [<code>incusd/network: Add doc comment to function; Rename variable to avoid shadowing</code>](https://github.com/lxc/incus/commit/412ae2bd17c2625a59bdea412584d94ea79c8e6b)
+- [ ] [<code>incusd/network: Make linter happy</code>](https://github.com/lxc/incus/commit/50348f8c75f8c2357deedf84f601de8752e71b40)
 - [ ] [<code>make: check if run-parts is installed</code>](https://github.com/lxc/incus/commit/5c4560c146614a93d12db8359bef61238462d166)
   - <sub>Keywords: <code>command</code></sub>
 
@@ -4555,6 +4579,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>incus-agent/darwin: Fix typo in comment</code>](https://github.com/lxc/incus/commit/206d63486e6ee41a251c586d6011530872db27e4)
 - [ ] [<code>doc/instance/create: Add details for macOS</code>](https://github.com/lxc/incus/commit/1e3da02f6fdf7368b599f837dc0274e8c37f7078)
+- [ ] [<code>incusd/network: Check if target_address in forward is a broadcast address of the networks subnet</code>](https://github.com/lxc/incus/commit/c160e4f0fb34d9e3aa13b08e9b1efcb4392e473d)
+- [ ] [<code>incusd/network: Check if target_address in forward is the networkID of the networks subnet</code>](https://github.com/lxc/incus/commit/650c0dfad9a52e38e5ab991b8f540d4298429634)
+- [ ] [<code>incusd/network: Add doc comment to function; Rename variable to avoid shadowing</code>](https://github.com/lxc/incus/commit/412ae2bd17c2625a59bdea412584d94ea79c8e6b)
+- [ ] [<code>incusd/network: Make linter happy</code>](https://github.com/lxc/incus/commit/50348f8c75f8c2357deedf84f601de8752e71b40)
 - [ ] [<code>make: check if run-parts is installed</code>](https://github.com/lxc/incus/commit/5c4560c146614a93d12db8359bef61238462d166)
   - <sub>Keywords: <code>command</code></sub>
 
@@ -5398,6 +5426,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update swagger json from yaml (#21176)</code>](https://github.com/netdata/netdata.git/commit/d27388df27ceb9261241461025bee6fe9bedeb57)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Periodic sync data on windows (#21175)</code>](https://github.com/netdata/netdata.git/commit/feefb7481b60ed6a3585595ce34b551bf15b9cec)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-127-nightly.</code>](https://github.com/netdata/netdata.git/commit/5d24404fc658226fbff24d86211d83f66dc1c127)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
