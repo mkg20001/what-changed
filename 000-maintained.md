@@ -723,6 +723,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>incus-agent/darwin: Fix typo in comment</code>](https://github.com/lxc/incus/commit/206d63486e6ee41a251c586d6011530872db27e4)
 - [ ] [<code>doc/instance/create: Add details for macOS</code>](https://github.com/lxc/incus/commit/1e3da02f6fdf7368b599f837dc0274e8c37f7078)
+- [ ] [<code>make: check if run-parts is installed</code>](https://github.com/lxc/incus/commit/5c4560c146614a93d12db8359bef61238462d166)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4553,6 +4555,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>incus-agent/darwin: Fix typo in comment</code>](https://github.com/lxc/incus/commit/206d63486e6ee41a251c586d6011530872db27e4)
 - [ ] [<code>doc/instance/create: Add details for macOS</code>](https://github.com/lxc/incus/commit/1e3da02f6fdf7368b599f837dc0274e8c37f7078)
+- [ ] [<code>make: check if run-parts is installed</code>](https://github.com/lxc/incus/commit/5c4560c146614a93d12db8359bef61238462d166)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -7350,6 +7354,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): remove unused button_configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/effd1df87b477a790f1dedd302ee0905ff35495f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): rename button_configuration_v2 to button_configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e060f814a80e7513fcf74761813c4f6baf338a1f)
+- [ ] [<code>fix(lib): don't show equalizer settings when tws is disconnected</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e18e28ece05806f4d90d71c4b965671eb1633586)
+- [ ] [<code>fix(lib): tws status missing from a3959 device information</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80a9771a231c29c6af00587fe9dd31deb667c9fc)
+- [ ] [<code>fix(lib): parse fragmented packets properly</code>](https://github.com/Oppzippy/OpenSCQ30/commit/44f2eb37a44976e7a4cb28fe168e715aad1046a4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): add test for recovery from invalid packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d71d21f36339bcd1f1742c6c0b41afcd281f494d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
