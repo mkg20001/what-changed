@@ -5427,6 +5427,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Periodic sync data on windows (#21175)</code>](https://github.com/netdata/netdata.git/commit/feefb7481b60ed6a3585595ce34b551bf15b9cec)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-127-nightly.</code>](https://github.com/netdata/netdata.git/commit/5d24404fc658226fbff24d86211d83f66dc1c127)
+- [ ] [<code>docs: remove ``` from cloud-notifications meta (#21178)</code>](https://github.com/netdata/netdata.git/commit/b9a155368abf3ed2a61b14aa010732d6428d52ab)
+- [ ] [<code>Regenerate integrations docs (#21179)</code>](https://github.com/netdata/netdata.git/commit/6e1791e0c5fcd2c79a0848ef250cb41b2cbf82c7)
+- [ ] [<code>chore(go.d/snmp): refactor static_tags to structured key/value format (#21180)</code>](https://github.com/netdata/netdata.git/commit/8e0ec6de4ca0b456b3acf5d89bce5f58e69ee868)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
