@@ -92,6 +92,7 @@
 - [ ] [<code>config: fix overriding bridge-vlan sections via procd data</code>](https://git.openwrt.org/project/netifd.git/commit/649028013a3c8f6ed53fc97ca997d2528d06b5d9)
 - [ ] [<code>veth: delete device before creation to handle stale state</code>](https://git.openwrt.org/project/netifd.git/commit/df2f5c9a30f8faadf8dee962cc17d315e967d70a)
 - [ ] [<code>system-linux: handle RTM_DELLINK events for device state tracking</code>](https://git.openwrt.org/project/netifd.git/commit/b6d371f307705b32e1ef5c63d7bf6440c8859789)
+- [ ] [<code>system-linux: only parse device status for AF_UNSPEC link messages</code>](https://git.openwrt.org/project/netifd.git/commit/777f5942fa7d6245f6ad29daa1daecc400344d37)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
