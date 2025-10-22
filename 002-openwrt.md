@@ -1,12 +1,8 @@
-
-#### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c0df580adbd4d555ecc1962dbe88e91d75b67a4e → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c0df580adbd4d555ecc1962dbe88e91d75b67a4e...HEAD)
-
-- [ ] [<code>CMakeLists: update cmake minimum required version to 3.10</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/feca1d341d4baa9579ec62762672aa0f20edf564)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>github: add CI build</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/fa6a52b0371356aeebd0b0c50dbb4ae77ee24bd0)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/c69fb5ef80b9780fe9add345052aef9ccb5d51f4)
-  - <sub>Keywords: <code>bin</code></sub>
+> Failed to clone https://git.openwrt.org/project/libnl-tiny.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/libnl-tiny.git /home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libnl-tiny.git'...
+fatal: unable to access 'https://git.openwrt.org/project/libnl-tiny.git/': Empty reply from server
+'
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
@@ -95,11 +91,11 @@
 - [ ] [<code>veth: delete device before creation to handle stale state</code>](https://git.openwrt.org/project/netifd.git/commit/df2f5c9a30f8faadf8dee962cc17d315e967d70a)
 - [ ] [<code>system-linux: handle RTM_DELLINK events for device state tracking</code>](https://git.openwrt.org/project/netifd.git/commit/b6d371f307705b32e1ef5c63d7bf6440c8859789)
 - [ ] [<code>system-linux: only parse device status for AF_UNSPEC link messages</code>](https://git.openwrt.org/project/netifd.git/commit/777f5942fa7d6245f6ad29daa1daecc400344d37)
-
-#### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
-
-- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/ubus.git/commit/6fdf7a97916207ef1de01cd9e662e6daca96516a)
-  - <sub>Keywords: <code>bin</code></sub>
+> Failed to clone https://git.openwrt.org/project/ubus.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/ubus.git /home/runner/work/what-changed/what-changed/src/../work/ubus.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ubus.git'...
+fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': Empty reply from server
+'
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
@@ -119,6 +115,8 @@
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
 
-
-#### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [5a81c108d20e24724ed847cc4be033f2a74e6635 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/5a81c108d20e24724ed847cc4be033f2a74e6635...HEAD)
-
+> Failed to clone https://git.openwrt.org/project/ustream-ssl.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/ustream-ssl.git /home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git'...
+fatal: unable to access 'https://git.openwrt.org/project/ustream-ssl.git/': The requested URL returned error: 502
+'
