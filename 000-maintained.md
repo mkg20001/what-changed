@@ -318,6 +318,16 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/4953b8c8752fe77b3911ab1b7b5db1732bc68a71)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/01f890a3ff83de078ba0691ef100e920ad737339)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2e38a2a7cdc8c38d4954577fe3dc35c64a28a6bd)
+- [ ] [<code>build: (deps): bump share_plus from 12.0.0 to 12.0.1</code>](https://github.com/krille-chan/fluffychat/commit/04bb1d0022ac427192507052afc7579217825ab1)
+- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.0.12 to 2.0.13</code>](https://github.com/krille-chan/fluffychat/commit/d5a4e8ae5d55999e1a0f03e15d19f7a6a8a60ae8)
+- [ ] [<code>build: (deps): bump go_router from 16.2.4 to 16.2.5</code>](https://github.com/krille-chan/fluffychat/commit/ea470b2f231866fe79dbd73ebb485888634cd11d)
+- [ ] [<code>chore: Add better # links to privacy md</code>](https://github.com/krille-chan/fluffychat/commit/f03130ddc1baeff693f50d509d13b5ce951162e9)
+- [ ] [<code>chore: Update contributing.md</code>](https://github.com/krille-chan/fluffychat/commit/116a1d24b557ab0b3b6a8bf41c172b00033a6c8f)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/e10a1c27c4a3b93cdddf634af27eb55acb8b62c9)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/74573fcae94e84128dd18340473a8275f38a9fc2)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/0ee4d1ceff5ed6e00bf4dffd91910a45ccdd5c52)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4dab18bbc8d45f7f79b8ae4f735b3ba89d3f7afc)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2bacf42f38c7f35e06382f2352d2a70e2b10970)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -560,6 +570,16 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/4953b8c8752fe77b3911ab1b7b5db1732bc68a71)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/01f890a3ff83de078ba0691ef100e920ad737339)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2e38a2a7cdc8c38d4954577fe3dc35c64a28a6bd)
+- [ ] [<code>build: (deps): bump share_plus from 12.0.0 to 12.0.1</code>](https://github.com/krille-chan/fluffychat/commit/04bb1d0022ac427192507052afc7579217825ab1)
+- [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.0.12 to 2.0.13</code>](https://github.com/krille-chan/fluffychat/commit/d5a4e8ae5d55999e1a0f03e15d19f7a6a8a60ae8)
+- [ ] [<code>build: (deps): bump go_router from 16.2.4 to 16.2.5</code>](https://github.com/krille-chan/fluffychat/commit/ea470b2f231866fe79dbd73ebb485888634cd11d)
+- [ ] [<code>chore: Add better # links to privacy md</code>](https://github.com/krille-chan/fluffychat/commit/f03130ddc1baeff693f50d509d13b5ce951162e9)
+- [ ] [<code>chore: Update contributing.md</code>](https://github.com/krille-chan/fluffychat/commit/116a1d24b557ab0b3b6a8bf41c172b00033a6c8f)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/e10a1c27c4a3b93cdddf634af27eb55acb8b62c9)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/74573fcae94e84128dd18340473a8275f38a9fc2)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/0ee4d1ceff5ed6e00bf4dffd91910a45ccdd5c52)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4dab18bbc8d45f7f79b8ae4f735b3ba89d3f7afc)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2bacf42f38c7f35e06382f2352d2a70e2b10970)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -749,6 +769,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network: Make linter happy</code>](https://github.com/lxc/incus/commit/50348f8c75f8c2357deedf84f601de8752e71b40)
 - [ ] [<code>make: check if run-parts is installed</code>](https://github.com/lxc/incus/commit/5c4560c146614a93d12db8359bef61238462d166)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/caf5adadc60a47b3c76070c368dfdaa2963586fb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4585,6 +4607,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network: Make linter happy</code>](https://github.com/lxc/incus/commit/50348f8c75f8c2357deedf84f601de8752e71b40)
 - [ ] [<code>make: check if run-parts is installed</code>](https://github.com/lxc/incus/commit/5c4560c146614a93d12db8359bef61238462d166)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/caf5adadc60a47b3c76070c368dfdaa2963586fb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -7393,6 +7417,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>test(lib): add test for recovery from invalid packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d71d21f36339bcd1f1742c6c0b41afcd281f494d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): use type system to track packet direction</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a111b083cd97ac27a229b5517594d57a965e63b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build(lib): don't run doctests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a58980fa15edeffe9d500747da0af55b8f3881e9)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
