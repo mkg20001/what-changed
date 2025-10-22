@@ -5430,6 +5430,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: remove ``` from cloud-notifications meta (#21178)</code>](https://github.com/netdata/netdata.git/commit/b9a155368abf3ed2a61b14aa010732d6428d52ab)
 - [ ] [<code>Regenerate integrations docs (#21179)</code>](https://github.com/netdata/netdata.git/commit/6e1791e0c5fcd2c79a0848ef250cb41b2cbf82c7)
 - [ ] [<code>chore(go.d/snmp): refactor static_tags to structured key/value format (#21180)</code>](https://github.com/netdata/netdata.git/commit/8e0ec6de4ca0b456b3acf5d89bce5f58e69ee868)
+- [ ] [<code>fix(health/dyncfg): add mising "repeat" in userconfig response (#21181)</code>](https://github.com/netdata/netdata.git/commit/f5c6ae3bffa38138cc897c090e4e8780beb415e2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
