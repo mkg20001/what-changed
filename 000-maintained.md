@@ -771,6 +771,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/caf5adadc60a47b3c76070c368dfdaa2963586fb)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>gomod: Refresh for latest IncusOS CLI</code>](https://github.com/lxc/incus/commit/b56ce74071e3e8ec77c4a99757740b8918718e44)
+- [ ] [<code>incusd/instance/lxc: Fix handling of credentials on existing instances</code>](https://github.com/lxc/incus/commit/3f78cef288ca485f85038c1936f033f37f9a03e8)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4609,6 +4611,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/caf5adadc60a47b3c76070c368dfdaa2963586fb)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>gomod: Refresh for latest IncusOS CLI</code>](https://github.com/lxc/incus/commit/b56ce74071e3e8ec77c4a99757740b8918718e44)
+- [ ] [<code>incusd/instance/lxc: Fix handling of credentials on existing instances</code>](https://github.com/lxc/incus/commit/3f78cef288ca485f85038c1936f033f37f9a03e8)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5455,6 +5459,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21179)</code>](https://github.com/netdata/netdata.git/commit/6e1791e0c5fcd2c79a0848ef250cb41b2cbf82c7)
 - [ ] [<code>chore(go.d/snmp): refactor static_tags to structured key/value format (#21180)</code>](https://github.com/netdata/netdata.git/commit/8e0ec6de4ca0b456b3acf5d89bce5f58e69ee868)
 - [ ] [<code>fix(health/dyncfg): add mising "repeat" in userconfig response (#21181)</code>](https://github.com/netdata/netdata.git/commit/f5c6ae3bffa38138cc897c090e4e8780beb415e2)
+- [ ] [<code>Windows Sensors (Part II) (#20988)</code>](https://github.com/netdata/netdata.git/commit/15d4e6b9e3e89c1b77ced64683479767889dafdd)
+- [ ] [<code>Regenerate integrations docs (#21185)</code>](https://github.com/netdata/netdata.git/commit/081988ad3cb3c2985fbed60f45265a1bb386e305)
+- [ ] [<code>Calculate weights for multiple nodes in parallel (#21184)</code>](https://github.com/netdata/netdata.git/commit/ecae70fe8270095ffd99cd58019786fc5b9418b3)
+- [ ] [<code>Prometheus - exporting metrics (#21187)</code>](https://github.com/netdata/netdata.git/commit/fc3980911f0414a45b7334c77e0ef18501f634c2)
+- [ ] [<code>Initialize cli earlier during agent startup (#21188)</code>](https://github.com/netdata/netdata.git/commit/8ca14bcc361cb49d77f7d9087ee25fcab9e4c3a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix ML concurrent dimension training  (#21183)</code>](https://github.com/netdata/netdata.git/commit/4c33144f969b688f83ca199d0906ac513d576e85)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7420,6 +7431,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): use type system to track packet direction</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a111b083cd97ac27a229b5517594d57a965e63b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build(lib): don't run doctests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a58980fa15edeffe9d500747da0af55b8f3881e9)
+- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/753a98acfe3b3447fc6e4d12bc265507ea6a2d87)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
