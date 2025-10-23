@@ -5467,6 +5467,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Initialize cli earlier during agent startup (#21188)</code>](https://github.com/netdata/netdata.git/commit/8ca14bcc361cb49d77f7d9087ee25fcab9e4c3a9)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix ML concurrent dimension training  (#21183)</code>](https://github.com/netdata/netdata.git/commit/4c33144f969b688f83ca199d0906ac513d576e85)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-138-nightly.</code>](https://github.com/netdata/netdata.git/commit/90779bd28ef06b9f9cc7b67935b571cd58b3543f)
+- [ ] [<code>ci: remove update-website.yml workflow (#21191)</code>](https://github.com/netdata/netdata.git/commit/3d9256860c5a6229e889062358610b94d071a127)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
