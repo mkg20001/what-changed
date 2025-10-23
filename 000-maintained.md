@@ -4844,6 +4844,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxccontainer: check if target exists before remove in create_mount_target()</code>](https://github.com/lxc/lxc/commit/fba76ea65475028cea56181c8ae13d93525a1ff2)
 - [ ] [<code>Automatically detect compression format in the lxc-local template</code>](https://github.com/lxc/lxc/commit/20aa142d5865d938ec7bfe4c9bd04cdffe79e938)
 - [ ] [<code>start: Only include linux/landlock.h when landlock is enabled</code>](https://github.com/lxc/lxc/commit/00f05b13dff37ee06d49b96884676477dcbb8dae)
+- [ ] [<code>github: Drop focal source packages</code>](https://github.com/lxc/lxc/commit/7f128c96832de09ba46b1d4399f10e3f34c8a5f0)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
