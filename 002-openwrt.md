@@ -96,27 +96,26 @@ fatal: unable to access 'https://git.openwrt.org/project/libnl-tiny.git/': Empty
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ubus.git'...
 fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': Empty reply from server
 '
-
-#### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
-
-- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/uci.git/commit/2e46a7405f26ec131918c821c30ac0b26fdb22f0)
-  - <sub>Keywords: <code>bin</code></sub>
+> Failed to clone https://git.openwrt.org/project/uci.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/uci.git /home/runner/work/what-changed/what-changed/src/../work/uci.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uci.git'...
+fatal: unable to access 'https://git.openwrt.org/project/uci.git/': Empty reply from server
+'
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
-
-#### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
-
-- [ ] [<code>CMakeLists.txt: rename udebug-cli to udebug on installation</code>](https://git.openwrt.org/project/udebug.git/commit/8c967bce23aebab7631261324680b02240e75ee1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>add debian package support</code>](https://git.openwrt.org/project/udebug.git/commit/75f39cd4a8067a6f0503c2f1c83c6b1af733a6f2)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-
-#### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
-
+> Failed to clone https://git.openwrt.org/project/udebug.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/udebug.git /home/runner/work/what-changed/what-changed/src/../work/udebug.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/udebug.git'...
+fatal: unable to access 'https://git.openwrt.org/project/udebug.git/': Empty reply from server
+'
+> Failed to clone https://git.openwrt.org/project/uqmi.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/uqmi.git /home/runner/work/what-changed/what-changed/src/../work/uqmi.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uqmi.git'...
+fatal: unable to access 'https://git.openwrt.org/project/uqmi.git/': Empty reply from server
+'
 > Failed to clone https://git.openwrt.org/project/ustream-ssl.git Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://git.openwrt.org/project/ustream-ssl.git /home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ustream-ssl.git'...
-fatal: unable to access 'https://git.openwrt.org/project/ustream-ssl.git/': The requested URL returned error: 502
+fatal: unable to access 'https://git.openwrt.org/project/ustream-ssl.git/': Empty reply from server
 '
