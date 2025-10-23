@@ -599,6 +599,7 @@
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.7 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.7...HEAD)
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/afe8ad79955894710a48489f44800c7708c4da7d)
+- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/1d06f42a2c30abbcf74e40dc0ddac4cd18fd3626)
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -773,6 +774,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>gomod: Refresh for latest IncusOS CLI</code>](https://github.com/lxc/incus/commit/b56ce74071e3e8ec77c4a99757740b8918718e44)
 - [ ] [<code>incusd/instance/lxc: Fix handling of credentials on existing instances</code>](https://github.com/lxc/incus/commit/3f78cef288ca485f85038c1936f033f37f9a03e8)
+- [ ] [<code>incusd/instance/lxc: Don't apply credentials update on stopped containers</code>](https://github.com/lxc/incus/commit/a821d2ee5de10bcdeffa0662ecfbcd21c2f80220)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4613,6 +4615,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>gomod: Refresh for latest IncusOS CLI</code>](https://github.com/lxc/incus/commit/b56ce74071e3e8ec77c4a99757740b8918718e44)
 - [ ] [<code>incusd/instance/lxc: Fix handling of credentials on existing instances</code>](https://github.com/lxc/incus/commit/3f78cef288ca485f85038c1936f033f37f9a03e8)
+- [ ] [<code>incusd/instance/lxc: Don't apply credentials update on stopped containers</code>](https://github.com/lxc/incus/commit/a821d2ee5de10bcdeffa0662ecfbcd21c2f80220)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5469,6 +5472,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix ML concurrent dimension training  (#21183)</code>](https://github.com/netdata/netdata.git/commit/4c33144f969b688f83ca199d0906ac513d576e85)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-138-nightly.</code>](https://github.com/netdata/netdata.git/commit/90779bd28ef06b9f9cc7b67935b571cd58b3543f)
 - [ ] [<code>ci: remove update-website.yml workflow (#21191)</code>](https://github.com/netdata/netdata.git/commit/3d9256860c5a6229e889062358610b94d071a127)
+- [ ] [<code>Netdata API (#21193)</code>](https://github.com/netdata/netdata.git/commit/d3991daa840feceb3fa03e426c305f109a035746)
+- [ ] [<code>Alerts api summary option (#21192)</code>](https://github.com/netdata/netdata.git/commit/9b9ee3f286d328c03d0aec1ac326225b440adb3a)
+- [ ] [<code>MSSQL Small fixes (windows.plugin) (#21197)</code>](https://github.com/netdata/netdata.git/commit/580f93eb971e24df1b29d9242be93a26e337a839)
+- [ ] [<code>As400 part3: performance optimizations (#21164)</code>](https://github.com/netdata/netdata.git/commit/2300493f22fa868fcf9a4bb0b1257de2670b7094)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(packagin/otel-plugin): remove cap_net_bind_service (#21198)</code>](https://github.com/netdata/netdata.git/commit/b74aa718d1fd8aadbc3d6616c2eb97f31c7ea4c5)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
