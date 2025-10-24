@@ -328,6 +328,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/0ee4d1ceff5ed6e00bf4dffd91910a45ccdd5c52)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4dab18bbc8d45f7f79b8ae4f735b3ba89d3f7afc)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2bacf42f38c7f35e06382f2352d2a70e2b10970)
+- [ ] [<code>refactor: Redirect to new website</code>](https://github.com/krille-chan/fluffychat/commit/7b8059466b3c68338e2abb5de25e82be7bd400a4)
+- [ ] [<code>chore: Fix asset links</code>](https://github.com/krille-chan/fluffychat/commit/9684d316f2161586d2190f0982ab4bfb12eb1e69)
+- [ ] [<code>chore: Fix asset links in readme</code>](https://github.com/krille-chan/fluffychat/commit/143d2d93f779b13b5032ea6d98082e01167306f1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -580,6 +583,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/0ee4d1ceff5ed6e00bf4dffd91910a45ccdd5c52)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4dab18bbc8d45f7f79b8ae4f735b3ba89d3f7afc)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2bacf42f38c7f35e06382f2352d2a70e2b10970)
+- [ ] [<code>refactor: Redirect to new website</code>](https://github.com/krille-chan/fluffychat/commit/7b8059466b3c68338e2abb5de25e82be7bd400a4)
+- [ ] [<code>chore: Fix asset links</code>](https://github.com/krille-chan/fluffychat/commit/9684d316f2161586d2190f0982ab4bfb12eb1e69)
+- [ ] [<code>chore: Fix asset links in readme</code>](https://github.com/krille-chan/fluffychat/commit/143d2d93f779b13b5032ea6d98082e01167306f1)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
