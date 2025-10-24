@@ -328,9 +328,11 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/0ee4d1ceff5ed6e00bf4dffd91910a45ccdd5c52)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4dab18bbc8d45f7f79b8ae4f735b3ba89d3f7afc)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2bacf42f38c7f35e06382f2352d2a70e2b10970)
+- [ ] [<code>build: (deps): bump go_router from 16.2.5 to 16.3.0</code>](https://github.com/krille-chan/fluffychat/commit/5dc9973cabaabf62a6036328201eff7cd597e3c2)
 - [ ] [<code>refactor: Redirect to new website</code>](https://github.com/krille-chan/fluffychat/commit/7b8059466b3c68338e2abb5de25e82be7bd400a4)
 - [ ] [<code>chore: Fix asset links</code>](https://github.com/krille-chan/fluffychat/commit/9684d316f2161586d2190f0982ab4bfb12eb1e69)
 - [ ] [<code>chore: Fix asset links in readme</code>](https://github.com/krille-chan/fluffychat/commit/143d2d93f779b13b5032ea6d98082e01167306f1)
+- [ ] [<code>feat: Enable native imaging for web</code>](https://github.com/krille-chan/fluffychat/commit/6e87353e0857e3031060f0748909793faf28e2c4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -583,9 +585,11 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/0ee4d1ceff5ed6e00bf4dffd91910a45ccdd5c52)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/4dab18bbc8d45f7f79b8ae4f735b3ba89d3f7afc)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2bacf42f38c7f35e06382f2352d2a70e2b10970)
+- [ ] [<code>build: (deps): bump go_router from 16.2.5 to 16.3.0</code>](https://github.com/krille-chan/fluffychat/commit/5dc9973cabaabf62a6036328201eff7cd597e3c2)
 - [ ] [<code>refactor: Redirect to new website</code>](https://github.com/krille-chan/fluffychat/commit/7b8059466b3c68338e2abb5de25e82be7bd400a4)
 - [ ] [<code>chore: Fix asset links</code>](https://github.com/krille-chan/fluffychat/commit/9684d316f2161586d2190f0982ab4bfb12eb1e69)
 - [ ] [<code>chore: Fix asset links in readme</code>](https://github.com/krille-chan/fluffychat/commit/143d2d93f779b13b5032ea6d98082e01167306f1)
+- [ ] [<code>feat: Enable native imaging for web</code>](https://github.com/krille-chan/fluffychat/commit/6e87353e0857e3031060f0748909793faf28e2c4)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4853,6 +4857,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxccontainer: check if target exists before remove in create_mount_target()</code>](https://github.com/lxc/lxc/commit/fba76ea65475028cea56181c8ae13d93525a1ff2)
 - [ ] [<code>Automatically detect compression format in the lxc-local template</code>](https://github.com/lxc/lxc/commit/20aa142d5865d938ec7bfe4c9bd04cdffe79e938)
 - [ ] [<code>start: Only include linux/landlock.h when landlock is enabled</code>](https://github.com/lxc/lxc/commit/00f05b13dff37ee06d49b96884676477dcbb8dae)
+- [ ] [<code>add MFD_EXEC and MFD_NOEXEC_SEAL flag to memfd_create</code>](https://github.com/lxc/lxc/commit/aa0fdd1a4fe1d2c6d2954eaec394fb1369836216)
 - [ ] [<code>github: Drop focal source packages</code>](https://github.com/lxc/lxc/commit/7f128c96832de09ba46b1d4399f10e3f34c8a5f0)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
@@ -5485,6 +5490,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(packagin/otel-plugin): remove cap_net_bind_service (#21198)</code>](https://github.com/netdata/netdata.git/commit/b74aa718d1fd8aadbc3d6616c2eb97f31c7ea4c5)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-145-nightly.</code>](https://github.com/netdata/netdata.git/commit/f81aaf65f5f8ee8991510c441469e1532095569a)
+- [ ] [<code>SQL Server Jobs (windows.plugin) (#21182)</code>](https://github.com/netdata/netdata.git/commit/f6100564c059ec772ff053a30e668658cee62de1)
+- [ ] [<code>Regenerate integrations docs (#21202)</code>](https://github.com/netdata/netdata.git/commit/524be9306e1ed180ead13d4111ba41ae7913ac87)
+- [ ] [<code>improvement(go.d/mysql): Measure redo log occupancy (#21153)</code>](https://github.com/netdata/netdata.git/commit/8a102a42ca492b4f6e84801b06622a117461e704)
+- [ ] [<code>Regenerate integrations docs (#21205)</code>](https://github.com/netdata/netdata.git/commit/6c7463293e879b48366243e22c704e55e01a1943)
+- [ ] [<code>Acquire and release metric as needed during journal v2 migration (#21200)</code>](https://github.com/netdata/netdata.git/commit/86e73a2166e67f2840a5ee28fb3bcf58615ba688)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
