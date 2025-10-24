@@ -94,11 +94,11 @@
 
 - [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/ubus.git/commit/6fdf7a97916207ef1de01cd9e662e6daca96516a)
   - <sub>Keywords: <code>bin</code></sub>
-> Failed to clone https://git.openwrt.org/project/uci.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/uci.git /home/runner/work/what-changed/what-changed/src/../work/uci.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uci.git'...
-fatal: unable to access 'https://git.openwrt.org/project/uci.git/': The requested URL returned error: 500
-'
+
+#### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
+
+- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/uci.git/commit/2e46a7405f26ec131918c821c30ac0b26fdb22f0)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
