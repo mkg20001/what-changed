@@ -333,6 +333,11 @@
 - [ ] [<code>chore: Fix asset links</code>](https://github.com/krille-chan/fluffychat/commit/9684d316f2161586d2190f0982ab4bfb12eb1e69)
 - [ ] [<code>chore: Fix asset links in readme</code>](https://github.com/krille-chan/fluffychat/commit/143d2d93f779b13b5032ea6d98082e01167306f1)
 - [ ] [<code>feat: Enable native imaging for web</code>](https://github.com/krille-chan/fluffychat/commit/6e87353e0857e3031060f0748909793faf28e2c4)
+- [ ] [<code>build: (deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/krille-chan/fluffychat/commit/91292500cde77d65c03d856912ddaded93996a13)
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/2bf7c30d7385b5a2410a67701ffd868c9f0b7506)
+  - <sub>Tags: <code>rc2.2.0-1</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Fix iOS build with receive intent</code>](https://github.com/krille-chan/fluffychat/commit/fb29b4c54e276702a1c04015332960dd4208fa03)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -590,6 +595,11 @@
 - [ ] [<code>chore: Fix asset links</code>](https://github.com/krille-chan/fluffychat/commit/9684d316f2161586d2190f0982ab4bfb12eb1e69)
 - [ ] [<code>chore: Fix asset links in readme</code>](https://github.com/krille-chan/fluffychat/commit/143d2d93f779b13b5032ea6d98082e01167306f1)
 - [ ] [<code>feat: Enable native imaging for web</code>](https://github.com/krille-chan/fluffychat/commit/6e87353e0857e3031060f0748909793faf28e2c4)
+- [ ] [<code>build: (deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/krille-chan/fluffychat/commit/91292500cde77d65c03d856912ddaded93996a13)
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/2bf7c30d7385b5a2410a67701ffd868c9f0b7506)
+  - <sub>Tags: <code>rc2.2.0-1</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Fix iOS build with receive intent</code>](https://github.com/krille-chan/fluffychat/commit/fb29b4c54e276702a1c04015332960dd4208fa03)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -803,6 +813,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ab792cb255b958ca73f8b5f35198ec472a59813)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c3b70a953b683f25622e0b070440c225b4e510d3)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/osarch: Add aliases for the various x86_64 versions</code>](https://github.com/lxc/incus/commit/34f33401334101a8f63108b657f964107feb5489)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4662,6 +4673,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ab792cb255b958ca73f8b5f35198ec472a59813)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c3b70a953b683f25622e0b070440c225b4e510d3)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>shared/osarch: Add aliases for the various x86_64 versions</code>](https://github.com/lxc/incus/commit/34f33401334101a8f63108b657f964107feb5489)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5532,6 +5544,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improvement(go.d/mysql): Measure redo log occupancy (#21153)</code>](https://github.com/netdata/netdata.git/commit/8a102a42ca492b4f6e84801b06622a117461e704)
 - [ ] [<code>Regenerate integrations docs (#21205)</code>](https://github.com/netdata/netdata.git/commit/6c7463293e879b48366243e22c704e55e01a1943)
 - [ ] [<code>Acquire and release metric as needed during journal v2 migration (#21200)</code>](https://github.com/netdata/netdata.git/commit/86e73a2166e67f2840a5ee28fb3bcf58615ba688)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-151-nightly.</code>](https://github.com/netdata/netdata.git/commit/46473ac609438dcead4d1498e478a77ff7184283)
+- [ ] [<code>ibm.d: various fixes (#21204)</code>](https://github.com/netdata/netdata.git/commit/3a55e15262b53b772601653c634d28d39b418ac7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
