@@ -785,6 +785,24 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Refresh for latest IncusOS CLI</code>](https://github.com/lxc/incus/commit/b56ce74071e3e8ec77c4a99757740b8918718e44)
 - [ ] [<code>incusd/instance/lxc: Fix handling of credentials on existing instances</code>](https://github.com/lxc/incus/commit/3f78cef288ca485f85038c1936f033f37f9a03e8)
 - [ ] [<code>incusd/instance/lxc: Don't apply credentials update on stopped containers</code>](https://github.com/lxc/incus/commit/a821d2ee5de10bcdeffa0662ecfbcd21c2f80220)
+- [ ] [<code>incusd/auth: Reorder 'EntitlementCanAccessFiles' and 'EntitlementCanConnectSFTP' for clarity</code>](https://github.com/lxc/incus/commit/ff3f0e4f802ae64c344ff0abb34cc63a2a2044b9)
+- [ ] [<code>shared/api: Add lifecycle events for storage volume files management</code>](https://github.com/lxc/incus/commit/a2a042473efb8b676b8af3911c3022d5952d706f)
+- [ ] [<code>incusd/lifecycle: Add lifecycle events for storage volume files management</code>](https://github.com/lxc/incus/commit/ec6e46a1ecda8ee23b9f9b292f564869584c5718)
+- [ ] [<code>incusd/storage: Add support for creating SFTP server for storage volume using forkfile</code>](https://github.com/lxc/incus/commit/50f24a6373e9d2307638fbe977e5f97b94612e16)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd: Extract helper function for reuse by storage volumes</code>](https://github.com/lxc/incus/commit/f4f3d0b1c7414933ca42551a8e6d1d39fdbb5df9)
+- [ ] [<code>incusd: Add support for file management in storage volumes</code>](https://github.com/lxc/incus/commit/1d9e34233148a2e3655a0a441c8ad80f093df788)
+- [ ] [<code>incus/file: Extract helper function for reuse by storage volumes</code>](https://github.com/lxc/incus/commit/aa306201a11c22c2c19b4cdb20f7264c23a1c881)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_volumes: Add support for file management in storage volumes</code>](https://github.com/lxc/incus/commit/cd700f4c2bb0e2134481346731e669acc9950369)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client: Add support for file management in storage volumes</code>](https://github.com/lxc/incus/commit/6034049c0b50a201132d306ace70716f15163ed1)
+- [ ] [<code>tests: Add tests for storage volume files manipulation</code>](https://github.com/lxc/incus/commit/eaba88c50707d789fbfa7aceacffa3271ba35664)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>api: Add 'file_storage_volume' extension</code>](https://github.com/lxc/incus/commit/bd3977112aa013dbfcb35c2da760b10ac7131cf5)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ab792cb255b958ca73f8b5f35198ec472a59813)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c3b70a953b683f25622e0b070440c225b4e510d3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4626,6 +4644,24 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Refresh for latest IncusOS CLI</code>](https://github.com/lxc/incus/commit/b56ce74071e3e8ec77c4a99757740b8918718e44)
 - [ ] [<code>incusd/instance/lxc: Fix handling of credentials on existing instances</code>](https://github.com/lxc/incus/commit/3f78cef288ca485f85038c1936f033f37f9a03e8)
 - [ ] [<code>incusd/instance/lxc: Don't apply credentials update on stopped containers</code>](https://github.com/lxc/incus/commit/a821d2ee5de10bcdeffa0662ecfbcd21c2f80220)
+- [ ] [<code>incusd/auth: Reorder 'EntitlementCanAccessFiles' and 'EntitlementCanConnectSFTP' for clarity</code>](https://github.com/lxc/incus/commit/ff3f0e4f802ae64c344ff0abb34cc63a2a2044b9)
+- [ ] [<code>shared/api: Add lifecycle events for storage volume files management</code>](https://github.com/lxc/incus/commit/a2a042473efb8b676b8af3911c3022d5952d706f)
+- [ ] [<code>incusd/lifecycle: Add lifecycle events for storage volume files management</code>](https://github.com/lxc/incus/commit/ec6e46a1ecda8ee23b9f9b292f564869584c5718)
+- [ ] [<code>incusd/storage: Add support for creating SFTP server for storage volume using forkfile</code>](https://github.com/lxc/incus/commit/50f24a6373e9d2307638fbe977e5f97b94612e16)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd: Extract helper function for reuse by storage volumes</code>](https://github.com/lxc/incus/commit/f4f3d0b1c7414933ca42551a8e6d1d39fdbb5df9)
+- [ ] [<code>incusd: Add support for file management in storage volumes</code>](https://github.com/lxc/incus/commit/1d9e34233148a2e3655a0a441c8ad80f093df788)
+- [ ] [<code>incus/file: Extract helper function for reuse by storage volumes</code>](https://github.com/lxc/incus/commit/aa306201a11c22c2c19b4cdb20f7264c23a1c881)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_volumes: Add support for file management in storage volumes</code>](https://github.com/lxc/incus/commit/cd700f4c2bb0e2134481346731e669acc9950369)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>client: Add support for file management in storage volumes</code>](https://github.com/lxc/incus/commit/6034049c0b50a201132d306ace70716f15163ed1)
+- [ ] [<code>tests: Add tests for storage volume files manipulation</code>](https://github.com/lxc/incus/commit/eaba88c50707d789fbfa7aceacffa3271ba35664)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>api: Add 'file_storage_volume' extension</code>](https://github.com/lxc/incus/commit/bd3977112aa013dbfcb35c2da760b10ac7131cf5)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/6ab792cb255b958ca73f8b5f35198ec472a59813)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/c3b70a953b683f25622e0b070440c225b4e510d3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
