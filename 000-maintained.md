@@ -5570,6 +5570,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.14.1 to 9.16.0 in /src/go (#21208)</code>](https://github.com/netdata/netdata.git/commit/313fe7addbea18d7e4fe497dc47aa2689a48ca49)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-154-nightly.</code>](https://github.com/netdata/netdata.git/commit/b31ac50daeee73008f9879e89d6f1d037b537624)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4.6.2 to 5.0.0 (#21206)</code>](https://github.com/netdata/netdata.git/commit/271e2ba69b10ae17f653d599c0d471682d93e342)
+- [ ] [<code>docs: add SNMP profile format doc (#21201)</code>](https://github.com/netdata/netdata.git/commit/b509bf311fe38de1883898adf61dc7e20b4f5b2f)
+- [ ] [<code>docs: add snmp profile format to snmp collector doc (#21210)</code>](https://github.com/netdata/netdata.git/commit/ca4bfb4c345df318c2e1bf12187002eb175d18e1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21211)</code>](https://github.com/netdata/netdata.git/commit/30acbe49d1b1cf608e944b654f15bd99f4d0ccad)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
