@@ -1,11 +1,11 @@
 
 #### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c69fb5ef80b9780fe9add345052aef9ccb5d51f4 → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c69fb5ef80b9780fe9add345052aef9ccb5d51f4...HEAD)
 
-> Failed to clone https://git.openwrt.org/project/libubox.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/libubox.git /home/runner/work/what-changed/what-changed/src/../work/libubox.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libubox.git'...
-fatal: unable to access 'https://git.openwrt.org/project/libubox.git/': The requested URL returned error: 503
-'
+
+#### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
+
+- [ ] [<code>github: improve CI build</code>](https://git.openwrt.org/project/libubox.git/commit/9caf555f00e23c0e467c77ac86ae6cefd4e76053)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
