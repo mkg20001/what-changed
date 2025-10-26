@@ -341,6 +341,9 @@
 - [ ] [<code>chore: Migrate wrong datatype for fontSizeFactor</code>](https://github.com/krille-chan/fluffychat/commit/8cf46f0a7f9d3d436d92bcb5f8c9fd127268ed10)
 - [ ] [<code>chore: Follow up fix font size slider</code>](https://github.com/krille-chan/fluffychat/commit/c6f0f2b0858d4172d463bbbb77be99888a75a038)
   - <sub>Tags: <code>rc2.2.0-2</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/45005d7ee0f0ce464d6bc3d6cb88b22ebae46a2c)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/774ab41a87b6c297e6e17da1f387a199679892eb)
+- [ ] [<code>chore: Make store getter type safe</code>](https://github.com/krille-chan/fluffychat/commit/fbc5924ace9f59f800745e875085b481d80eb15f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -606,6 +609,9 @@
 - [ ] [<code>chore: Migrate wrong datatype for fontSizeFactor</code>](https://github.com/krille-chan/fluffychat/commit/8cf46f0a7f9d3d436d92bcb5f8c9fd127268ed10)
 - [ ] [<code>chore: Follow up fix font size slider</code>](https://github.com/krille-chan/fluffychat/commit/c6f0f2b0858d4172d463bbbb77be99888a75a038)
   - <sub>Tags: <code>rc2.2.0-2</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/45005d7ee0f0ce464d6bc3d6cb88b22ebae46a2c)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/774ab41a87b6c297e6e17da1f387a199679892eb)
+- [ ] [<code>chore: Make store getter type safe</code>](https://github.com/krille-chan/fluffychat/commit/fbc5924ace9f59f800745e875085b481d80eb15f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5562,6 +5568,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ibm.d: various fixes (#21204)</code>](https://github.com/netdata/netdata.git/commit/3a55e15262b53b772601653c634d28d39b418ac7)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.14.1 to 9.16.0 in /src/go (#21208)</code>](https://github.com/netdata/netdata.git/commit/313fe7addbea18d7e4fe497dc47aa2689a48ca49)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-154-nightly.</code>](https://github.com/netdata/netdata.git/commit/b31ac50daeee73008f9879e89d6f1d037b537624)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4.6.2 to 5.0.0 (#21206)</code>](https://github.com/netdata/netdata.git/commit/271e2ba69b10ae17f653d599c0d471682d93e342)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
