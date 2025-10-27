@@ -7542,6 +7542,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(lib): don't run doctests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a58980fa15edeffe9d500747da0af55b8f3881e9)
 - [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/753a98acfe3b3447fc6e4d12bc265507ea6a2d87)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: reset buttons to default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ee329784fd30fcda9d5b6d82f0f9ed0151174c93)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
