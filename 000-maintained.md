@@ -4930,6 +4930,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>add MFD_EXEC and MFD_NOEXEC_SEAL flag to memfd_create</code>](https://github.com/lxc/lxc/commit/aa0fdd1a4fe1d2c6d2954eaec394fb1369836216)
 - [ ] [<code>github: Drop focal source packages</code>](https://github.com/lxc/lxc/commit/7f128c96832de09ba46b1d4399f10e3f34c8a5f0)
 - [ ] [<code>builds workflow: make .orig.tar.gz unique per build</code>](https://github.com/lxc/lxc/commit/4e48c0d096d820b8e1af8de32228e4ff2e4ddd5f)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/lxc/commit/fc5a9422fd578886d325c252e9fc6eedc8828999)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5579,6 +5580,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21211)</code>](https://github.com/netdata/netdata.git/commit/30acbe49d1b1cf608e944b654f15bd99f4d0ccad)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-159-nightly.</code>](https://github.com/netdata/netdata.git/commit/4bbe227da0af307d096ae0042e2a723eee7fb30f)
+- [ ] [<code>Add Expanded Chart Analysis doc and update map.csv (#21213)</code>](https://github.com/netdata/netdata.git/commit/fef61d597f1e92497b15889f1d5d4efd03e96c9a)
+- [ ] [<code>Events Feed (#21215)</code>](https://github.com/netdata/netdata.git/commit/1146afe05255ab8c55a512864fafdb62e90d95f6)
+- [ ] [<code>Dashboards and Charts (#21216)</code>](https://github.com/netdata/netdata.git/commit/c756b1aaf290b5966b3f04ae708f9984bfd46b65)
+- [ ] [<code>Monitor Anything (#21217)</code>](https://github.com/netdata/netdata.git/commit/f4d3a4d61322e7a0918d6249c7e5e250e61891b0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7547,6 +7552,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/753a98acfe3b3447fc6e4d12bc265507ea6a2d87)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat: reset buttons to default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ee329784fd30fcda9d5b6d82f0f9ed0151174c93)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5 (#179)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/52fa536dfb9c8787acf05c348ee164d0ba61f74d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
