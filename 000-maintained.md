@@ -344,6 +344,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/45005d7ee0f0ce464d6bc3d6cb88b22ebae46a2c)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/774ab41a87b6c297e6e17da1f387a199679892eb)
 - [ ] [<code>chore: Make store getter type safe</code>](https://github.com/krille-chan/fluffychat/commit/fbc5924ace9f59f800745e875085b481d80eb15f)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1ac19682d266117ab68a8505334d1c0fde616774)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -612,6 +613,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/45005d7ee0f0ce464d6bc3d6cb88b22ebae46a2c)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/774ab41a87b6c297e6e17da1f387a199679892eb)
 - [ ] [<code>chore: Make store getter type safe</code>](https://github.com/krille-chan/fluffychat/commit/fbc5924ace9f59f800745e875085b481d80eb15f)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1ac19682d266117ab68a8505334d1c0fde616774)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4927,6 +4929,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>start: Only include linux/landlock.h when landlock is enabled</code>](https://github.com/lxc/lxc/commit/00f05b13dff37ee06d49b96884676477dcbb8dae)
 - [ ] [<code>add MFD_EXEC and MFD_NOEXEC_SEAL flag to memfd_create</code>](https://github.com/lxc/lxc/commit/aa0fdd1a4fe1d2c6d2954eaec394fb1369836216)
 - [ ] [<code>github: Drop focal source packages</code>](https://github.com/lxc/lxc/commit/7f128c96832de09ba46b1d4399f10e3f34c8a5f0)
+- [ ] [<code>builds workflow: make .orig.tar.gz unique per build</code>](https://github.com/lxc/lxc/commit/4e48c0d096d820b8e1af8de32228e4ff2e4ddd5f)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5575,6 +5578,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21211)</code>](https://github.com/netdata/netdata.git/commit/30acbe49d1b1cf608e944b654f15bd99f4d0ccad)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-159-nightly.</code>](https://github.com/netdata/netdata.git/commit/4bbe227da0af307d096ae0042e2a723eee7fb30f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
