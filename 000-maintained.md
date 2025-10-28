@@ -832,6 +832,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/540db341ed5eecdfea2c1bb04bcc2b80c06d7f40)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/incus/commit/a68e88999825a5c07d30378ce107492cf1b1a60b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4696,6 +4697,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/540db341ed5eecdfea2c1bb04bcc2b80c06d7f40)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/incus/commit/a68e88999825a5c07d30378ce107492cf1b1a60b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -7553,6 +7555,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat: reset buttons to default</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ee329784fd30fcda9d5b6d82f0f9ed0151174c93)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5 (#179)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/52fa536dfb9c8787acf05c348ee164d0ba61f74d)
+- [ ] [<code>test(cli): add Setting::Action tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c6a3b2c946a4f73f3faaa8c5f6dd784169103ac3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(cli): don't require '=' when setting Setting::Action</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3962b0429bf82eb6d5e3f33426a57a329120d92)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7569,18 +7574,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>{src/pam,pyproject.toml}: Stop using six module. Deprecated.</code>](https://github.com/FirefighterBlu3/python-pam/commit/8d6f8eefcb0b0edafa585d23d6b3f2169d8e1c6f)
 
-#### [python312Packages.pyipv8](https://github.com/tribler/py-ipv8): [db39b85f4c28880dee24d1b59d8eae8ca8b9c03d → HEAD](https://github.com/tribler/py-ipv8/compare/db39b85f4c28880dee24d1b59d8eae8ca8b9c03d...HEAD)
+#### [python312Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.1 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.1...HEAD)
 
-- [ ] [<code>Pick least frequently used first hop</code>](https://github.com/tribler/py-ipv8/commit/78433e834c1928111babe04ac668d93cd6ad553f)
-- [ ] [<code>Fixed memory leak in GetIfAddrs</code>](https://github.com/tribler/py-ipv8/commit/57ae7912e9ac2df4cea80e8cd1f9c3aec2937651)
-- [ ] [<code>Prepare for Python 3.10 update</code>](https://github.com/tribler/py-ipv8/commit/445ad2547b6f6bdff27996708bccfd3c1ccd4f4e)
-- [ ] [<code>Update validate job Python version to be 3.10 instead of 3.1</code>](https://github.com/tribler/py-ipv8/commit/9b328330ab86530684df2d665849aca63c071c52)
-- [ ] [<code>Upgrade code base to Python 3.10</code>](https://github.com/tribler/py-ipv8/commit/1e6059d3149ba6ad067fbf01c09763db17cb82ae)
-  - <sub>Keywords: <code>bin</code> <code>commandline</code> <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>Made CommunityLauncher a Generic</code>](https://github.com/tribler/py-ipv8/commit/7e77341c2c1f53f210edf53d5c2241258b424410)
-- [ ] [<code>Automated version increment</code>](https://github.com/tribler/py-ipv8/commit/6ec3fb352b5757a4b7ab407d497fef926631a2df)
-- [ ] [<code>Merge pull request #1349 from qstokkink/automated_version_update</code>](https://github.com/tribler/py-ipv8/commit/c9da48a7b6b0cd2fe0a99fb284900d19aed91904)
-  - <sub>Tags: <code>3.1</code></sub>
 - [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
@@ -7646,58 +7641,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
-#### [tribler](https://github.com/tribler/Tribler): [refs/tags/v8.2.3 → HEAD](https://github.com/tribler/Tribler/compare/refs/tags/v8.2.3...HEAD)
+#### [tribler](https://github.com/tribler/Tribler): [3e5bc56a15c568d0ba41262cad63155445e062da → HEAD](https://github.com/tribler/Tribler/compare/3e5bc56a15c568d0ba41262cad63155445e062da...HEAD)
 
-- [ ] [<code>Fixed upgrading from NULL tag version</code>](https://github.com/tribler/Tribler/commit/43e8218feaaf0b08f046c1cd1eb2524be0489f13)
-- [ ] [<code>Fixed upgrading from NULL tag version (#8711)</code>](https://github.com/tribler/Tribler/commit/95410114744116606aaba6ac2ce8a8526b04a0db)
-- [ ] [<code>Unpinned cx_Freeze version</code>](https://github.com/tribler/Tribler/commit/6465d877c835892bee2831c6f6ee3c7f5450ad41)
-- [ ] [<code>Add 'completed on' column</code>](https://github.com/tribler/Tribler/commit/ac8fce273cf565a76e9e9b1180a3a6a3ed468672)
-- [ ] [<code>Updated cx_Freeze version to be unpinned (#8714)</code>](https://github.com/tribler/Tribler/commit/d07ad6a912430b0958528ed818972b34af3f4e91)
-- [ ] [<code>Added 'completed on' column (#8715)</code>](https://github.com/tribler/Tribler/commit/1fdfd0e399a73562a6f683d435b360de8f080725)
-- [ ] [<code>Replace metainfo dicts with ATPs</code>](https://github.com/tribler/Tribler/commit/56f7a742f1ac629761f57b72a20cfa70d75c8c56)
-- [ ] [<code>Updated code base to use ATPs instead of metainfo dicts (#8722)</code>](https://github.com/tribler/Tribler/commit/9a70f9e428ce360c3d53ba43446ecdbf6079fb9c)
-- [ ] [<code>Restore legacy metainfo support</code>](https://github.com/tribler/Tribler/commit/2db1d5e0478375443bf16129e5a78477d2102ada)
-- [ ] [<code>Restore legacy metainfo support (#8725)</code>](https://github.com/tribler/Tribler/commit/bd54fa941ac294a46a3e8605f5a4cf8397f4251a)
-- [ ] [<code>Add placeholders to show P2P settings if format</code>](https://github.com/tribler/Tribler/commit/1c53b59a12dd14fed8e85077a267e7c197c9586b)
-- [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/2a069086a01f5812ac46290f6a45bfd96912694c)
-- [ ] [<code>Add placeholders to show P2P settings interface format (#8730)</code>](https://github.com/tribler/Tribler/commit/ffb9f368eed9c0b66679136b1e218280ba00d076)
-- [ ] [<code>Update IPv8 pointer (#8733)</code>](https://github.com/tribler/Tribler/commit/8e4911ca42cd4df5495022c7fab8ec17b7adeb28)
-- [ ] [<code>Force case insensitive tag fetch</code>](https://github.com/tribler/Tribler/commit/414b38dace77b022198378046680fee1f7b922fb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fixed build errors due to windows-2022 runner software updates (#8738)</code>](https://github.com/tribler/Tribler/commit/9d4026a010ef54128b44b6765e28421e5a09ab8f)
-- [ ] [<code>Allow files from different folders in torrent create</code>](https://github.com/tribler/Tribler/commit/aec5ec4d04ee32ebeceea426032f377118f21d30)
-- [ ] [<code>Allow files from different folders in torrent create (#8740)</code>](https://github.com/tribler/Tribler/commit/9174223fb8c3e1272fb971d17804e3ab7cd3b82b)
-- [ ] [<code>Fix missing OpenSSL libs for libtorrent</code>](https://github.com/tribler/Tribler/commit/00bd9cdbbc6736f88a47edad32ccd4ded18aa3ed)
-- [ ] [<code>Fixed missing OpenSSL libs for libtorrent (#8745)</code>](https://github.com/tribler/Tribler/commit/49f6be74ffa9baaeb2496b9c84721d3046c8fe5e)
-- [ ] [<code>Updated IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/9010909f74c79521f58018bbe28c69f5ea22d80e)
-- [ ] [<code>Updated IPv8 pointer (#8742)</code>](https://github.com/tribler/Tribler/commit/d06736ed1ce165b026536734a7b6926ed68cb8fe)
-- [ ] [<code>Added total+last up columns</code>](https://github.com/tribler/Tribler/commit/3501a072077de0b1afceeff4be069b7294c5b0a9)
-- [ ] [<code>Add hop selector to SaveAs</code>](https://github.com/tribler/Tribler/commit/5ad1e2d537bb267dc4ed523af34dc0c1baa588a4)
-- [ ] [<code>Add columns + save as hops slider (#8746)</code>](https://github.com/tribler/Tribler/commit/f69b7f804a52fa03d70d830a392d0a04cdafb095)
-- [ ] [<code>Fix libtorrent session limits</code>](https://github.com/tribler/Tribler/commit/2fff478f6294e382d16a6300001c0de43c58fcc6)
-- [ ] [<code>Fix libtorrent session limits (#8752)</code>](https://github.com/tribler/Tribler/commit/500285ba2de4967a3bd17bec669c16fbce782a5c)
-- [ ] [<code>Always ask for download even when starting from CLI</code>](https://github.com/tribler/Tribler/commit/e27cd45e59685f5536aaa76a3b83a79359aa142f)
-- [ ] [<code>Always ask for download even when starting from CLI (#8755)</code>](https://github.com/tribler/Tribler/commit/b0547048f31b7b5bd5bea603e2c292e0062f39fa)
-- [ ] [<code>Allow tray icon recoloring</code>](https://github.com/tribler/Tribler/commit/2235aa5c820744d4e0cebd1d9b71b1ce6b30929a)
-- [ ] [<code>Allow tray icon recoloring (#8764)</code>](https://github.com/tribler/Tribler/commit/b540a3ce8a09b71d5ca942af9ca0462a39910b71)
-- [ ] [<code>Update SimpleTable to allow setting the initial sorting</code>](https://github.com/tribler/Tribler/commit/138d9752e249e3684f8ae50df0e4b54a1630d725)
-- [ ] [<code>Update SimpleTable to allow setting the initial sorting (#8768)</code>](https://github.com/tribler/Tribler/commit/0ff213a46bbdd8535dea0dfd0a9cf09e4223d8bf)
-- [ ] [<code>Update ipv8-rust-tunnels</code>](https://github.com/tribler/Tribler/commit/42b0208200636765b42586e92b09294ec1c967e6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update ipv8</code>](https://github.com/tribler/Tribler/commit/d249e2c68c1ea8448b22384d0e5891b030512518)
-- [ ] [<code>Update rust module (#8769)</code>](https://github.com/tribler/Tribler/commit/a8d767b963e88fb7fae7804f351713a62967e41c)
-- [ ] [<code>Fixed startup crash without interfaces</code>](https://github.com/tribler/Tribler/commit/d65bd0ec673383b33fe475ce22ec6ffe83bb5edd)
-- [ ] [<code>Don't determine LAN addresses in Mac validation tests</code>](https://github.com/tribler/Tribler/commit/0b3d4c76428e69a88d6537f8ea343309c6cb6cb9)
-- [ ] [<code>Fix executable/hidden/symlink flag counting as padding flag</code>](https://github.com/tribler/Tribler/commit/0a2ca69540ab9d4b2efa0af6bf50342d6050ad5c)
-- [ ] [<code>Fixes torrent_finished_alerts not propagating</code>](https://github.com/tribler/Tribler/commit/b8c4366b5010abc873d0cad8af33ea0832510ea7)
-- [ ] [<code>Start with all selected when not asking SaveAs</code>](https://github.com/tribler/Tribler/commit/e78d5759e21225da18dee9a1845cb74b7ad37d96)
-- [ ] [<code>Various fixes (#8779)</code>](https://github.com/tribler/Tribler/commit/e180e4333f001502a1674204eaa682993c14e6c1)
-- [ ] [<code>Fix torrent discovery</code>](https://github.com/tribler/Tribler/commit/0638d67c5ad812068a99897f3018985fd4819f89)
-- [ ] [<code>Fix torrent discovery (#8782)</code>](https://github.com/tribler/Tribler/commit/a7e86f5949a7361dff284035798b61e7bee335fb)
-- [ ] [<code>Fix tracker alerts</code>](https://github.com/tribler/Tribler/commit/b7458321a6b8959cc807041553d0e8e6d14adad4)
-- [ ] [<code>Fix tracker alerts (#8784)</code>](https://github.com/tribler/Tribler/commit/9940c61b66eaf5e3a6edfbd40218cf93282cff40)
-- [ ] [<code>Allow checking for new pre-releases</code>](https://github.com/tribler/Tribler/commit/92364f6aa10185df446381b068b8df1a6eaa2e66)
-- [ ] [<code>Added checking for new pre-releases (#8785)</code>](https://github.com/tribler/Tribler/commit/3e5bc56a15c568d0ba41262cad63155445e062da)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
