@@ -345,6 +345,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/774ab41a87b6c297e6e17da1f387a199679892eb)
 - [ ] [<code>chore: Make store getter type safe</code>](https://github.com/krille-chan/fluffychat/commit/fbc5924ace9f59f800745e875085b481d80eb15f)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1ac19682d266117ab68a8505334d1c0fde616774)
+- [ ] [<code>fix: Notifications on web not working when avatar could not be pre downloaded</code>](https://github.com/krille-chan/fluffychat/commit/422e94ab45ba0329afe3ae2ac9a7f9a4e5930860)
+- [ ] [<code>chore: Better error handling for recording viewmodel</code>](https://github.com/krille-chan/fluffychat/commit/975ba31b4d461972d067f680fc6da9c27db3422a)
+- [ ] [<code>build: Update record to 6.1.2</code>](https://github.com/krille-chan/fluffychat/commit/f72ffb6b3ccdd3661fcdbb18a5b5a66f381245a1)
+- [ ] [<code>build: Update iOS build files</code>](https://github.com/krille-chan/fluffychat/commit/816c52630b55c8bb0fcfe520f4853a2f34747edc)
+- [ ] [<code>fix: Temporarily disable opus recording on iOS because iOS 26 seems to break it</code>](https://github.com/krille-chan/fluffychat/commit/5b7944b181d40fe9d714ab6986434ec8c2f2c434)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/c6816b5db5e9a0267940d216f748fff904f33415)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -614,6 +620,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/774ab41a87b6c297e6e17da1f387a199679892eb)
 - [ ] [<code>chore: Make store getter type safe</code>](https://github.com/krille-chan/fluffychat/commit/fbc5924ace9f59f800745e875085b481d80eb15f)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1ac19682d266117ab68a8505334d1c0fde616774)
+- [ ] [<code>fix: Notifications on web not working when avatar could not be pre downloaded</code>](https://github.com/krille-chan/fluffychat/commit/422e94ab45ba0329afe3ae2ac9a7f9a4e5930860)
+- [ ] [<code>chore: Better error handling for recording viewmodel</code>](https://github.com/krille-chan/fluffychat/commit/975ba31b4d461972d067f680fc6da9c27db3422a)
+- [ ] [<code>build: Update record to 6.1.2</code>](https://github.com/krille-chan/fluffychat/commit/f72ffb6b3ccdd3661fcdbb18a5b5a66f381245a1)
+- [ ] [<code>build: Update iOS build files</code>](https://github.com/krille-chan/fluffychat/commit/816c52630b55c8bb0fcfe520f4853a2f34747edc)
+- [ ] [<code>fix: Temporarily disable opus recording on iOS because iOS 26 seems to break it</code>](https://github.com/krille-chan/fluffychat/commit/5b7944b181d40fe9d714ab6986434ec8c2f2c434)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/c6816b5db5e9a0267940d216f748fff904f33415)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -833,6 +845,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/540db341ed5eecdfea2c1bb04bcc2b80c06d7f40)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/incus/commit/a68e88999825a5c07d30378ce107492cf1b1a60b)
+- [ ] [<code>server/operations: Remove project name from operations executed on other nodes</code>](https://github.com/lxc/incus/commit/68e4bdfe45112aedfbcbfc3d24b69dcbcfd78cfe)
+- [ ] [<code>incusd: Remove remaining project remnants from operations</code>](https://github.com/lxc/incus/commit/6048177c263d09de529577abdd8fae3476d6f066)
+- [ ] [<code>go.mod: Update github.com/lxc/incus-os/incus-osd</code>](https://github.com/lxc/incus/commit/336eca717c356aae336564b95a06d1576fd431b9)
+- [ ] [<code>incus: Support remotes for "admin os" commands</code>](https://github.com/lxc/incus/commit/522108b6dd84191323161bcfc2ef10febb61393f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4698,6 +4715,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/540db341ed5eecdfea2c1bb04bcc2b80c06d7f40)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/incus/commit/a68e88999825a5c07d30378ce107492cf1b1a60b)
+- [ ] [<code>server/operations: Remove project name from operations executed on other nodes</code>](https://github.com/lxc/incus/commit/68e4bdfe45112aedfbcbfc3d24b69dcbcfd78cfe)
+- [ ] [<code>incusd: Remove remaining project remnants from operations</code>](https://github.com/lxc/incus/commit/6048177c263d09de529577abdd8fae3476d6f066)
+- [ ] [<code>go.mod: Update github.com/lxc/incus-os/incus-osd</code>](https://github.com/lxc/incus/commit/336eca717c356aae336564b95a06d1576fd431b9)
+- [ ] [<code>incus: Support remotes for "admin os" commands</code>](https://github.com/lxc/incus/commit/522108b6dd84191323161bcfc2ef10febb61393f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4933,6 +4955,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>github: Drop focal source packages</code>](https://github.com/lxc/lxc/commit/7f128c96832de09ba46b1d4399f10e3f34c8a5f0)
 - [ ] [<code>builds workflow: make .orig.tar.gz unique per build</code>](https://github.com/lxc/lxc/commit/4e48c0d096d820b8e1af8de32228e4ff2e4ddd5f)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/lxc/commit/fc5a9422fd578886d325c252e9fc6eedc8828999)
+- [ ] [<code>config/apparmor/abstractions: Fix meson build generation of container-base</code>](https://github.com/lxc/lxc/commit/52929fc21809d57bb57f86142bc8d84223d44b7f)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>config/apparmor/abstractions: Drop manually generated container-base file</code>](https://github.com/lxc/lxc/commit/f3ff31e58ac11de9b13cef9bdcf019a5ec2642b5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5586,6 +5613,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Events Feed (#21215)</code>](https://github.com/netdata/netdata.git/commit/1146afe05255ab8c55a512864fafdb62e90d95f6)
 - [ ] [<code>Dashboards and Charts (#21216)</code>](https://github.com/netdata/netdata.git/commit/c756b1aaf290b5966b3f04ae708f9984bfd46b65)
 - [ ] [<code>Monitor Anything (#21217)</code>](https://github.com/netdata/netdata.git/commit/f4d3a4d61322e7a0918d6249c7e5e250e61891b0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-164-nightly.</code>](https://github.com/netdata/netdata.git/commit/e81ec908a2678cba1f3fb4103df85ccd64bc16b9)
+- [ ] [<code>Systemd-journal (#21222)</code>](https://github.com/netdata/netdata.git/commit/33ef20264b0aac8d787b46401457ece83693a060)
+- [ ] [<code>Charts (#21219)</code>](https://github.com/netdata/netdata.git/commit/e06e090782125303b88ff7f2b9ef4fb563f32e6e)
+- [ ] [<code>docs: improve snmp profile format documentation (#21223)</code>](https://github.com/netdata/netdata.git/commit/fa8aae90ea0a8354d41c96519ee9c96e704e7fdd)
+- [ ] [<code>active_journal_centralization_guide_no_encryption.md (#21221)</code>](https://github.com/netdata/netdata.git/commit/06e6a232c18ab7941a25cfd2968cbde12c241670)
+- [ ] [<code>passive-journal-centralization-without-encryption.md (#21220)</code>](https://github.com/netdata/netdata.git/commit/1bf7c7a03e85516606d3fb220a5fed970f5da8dc)
+- [ ] [<code>doc: improve COLLECTORS.md generation (#21225)</code>](https://github.com/netdata/netdata.git/commit/9ac40379125f4d68fe90c700752914cfca82486f)
+- [ ] [<code>docs: fix COLLECTORS.md generation (#21228)</code>](https://github.com/netdata/netdata.git/commit/aa9a2cc5efde0176e8cc64028124b3791b3f4d36)
+- [ ] [<code>Regenerate integrations docs (#21229)</code>](https://github.com/netdata/netdata.git/commit/941fdc92d66f72f84958bfba35dfbbb654fae4ea)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.67.1 to 0.67.2 in /src/go (#21232)</code>](https://github.com/netdata/netdata.git/commit/c0866719cac08dcbf5d53f02f8ce64ad061cb4cc)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.4 to 1.17.6 in /src/go (#21231)</code>](https://github.com/netdata/netdata.git/commit/e07482e3e611020c9a2c1da8eef195039e6d464f)
+- [ ] [<code>docs: improve COLLECTORS.md generation (#21233)</code>](https://github.com/netdata/netdata.git/commit/8f654c87eaf944c705ec631d6be30c343d0dabac)
+- [ ] [<code>Update MCP Registry publishing workflow and migrate server.json to latest schema (#21230)</code>](https://github.com/netdata/netdata.git/commit/b56742ba8618154cc68a53a0e745539322d8169d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21234)</code>](https://github.com/netdata/netdata.git/commit/b36693e023de7a85a5f44a6c2bc7c6f0b580124b)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6326,7 +6370,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oil - no appropriate URL found OrderedDict({'attr_path': 'oil', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.36.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.36.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oils-for-unix - no appropriate URL found OrderedDict({'attr_path': 'oils-for-unix', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.36.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.36.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -7558,6 +7602,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(cli): add Setting::Action tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c6a3b2c946a4f73f3faaa8c5f6dd784169103ac3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(cli): don't require '=' when setting Setting::Action</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d3962b0429bf82eb6d5e3f33426a57a329120d92)
+- [ ] [<code>build(scripts): add PEP 723 script metadata</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c09338359148eb9e9bf879b9609962c2f5b45523)
+- [ ] [<code>build(scripts): add script for getting device name from model</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bdb75e6db6d2d1cefc1b28c81d2c36b1b8c1ab38)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7620,6 +7667,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
 
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
