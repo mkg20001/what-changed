@@ -860,6 +860,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: network_hwaddr_pattern</code>](https://github.com/lxc/incus/commit/8792bde293db30720dfa691c0044d6abf223d89b)
 - [ ] [<code>test: Add network.hwaddr_pattern tests</code>](https://github.com/lxc/incus/commit/3a0d0d5c33ec0a4d92cf48a02c8cd32ffb991758)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/file/pull: Respect target name for symlinks</code>](https://github.com/lxc/incus/commit/80de67534169f11d389a37e7bfd81c06dc27ddcf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/pull: Allow reading symlink content to stdout</code>](https://github.com/lxc/incus/commit/9489d7a58d237a67c5ba84f5e6d9a18193e2bcc3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/push: Keep remote owner/mode when present and not overriden</code>](https://github.com/lxc/incus/commit/4d75826ff8bb13feefb78e0336119fb373cc6fe7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4740,6 +4746,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: network_hwaddr_pattern</code>](https://github.com/lxc/incus/commit/8792bde293db30720dfa691c0044d6abf223d89b)
 - [ ] [<code>test: Add network.hwaddr_pattern tests</code>](https://github.com/lxc/incus/commit/3a0d0d5c33ec0a4d92cf48a02c8cd32ffb991758)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/file/pull: Respect target name for symlinks</code>](https://github.com/lxc/incus/commit/80de67534169f11d389a37e7bfd81c06dc27ddcf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/pull: Allow reading symlink content to stdout</code>](https://github.com/lxc/incus/commit/9489d7a58d237a67c5ba84f5e6d9a18193e2bcc3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file/push: Keep remote owner/mode when present and not overriden</code>](https://github.com/lxc/incus/commit/4d75826ff8bb13feefb78e0336119fb373cc6fe7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5650,6 +5662,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21234)</code>](https://github.com/netdata/netdata.git/commit/b36693e023de7a85a5f44a6c2bc7c6f0b580124b)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix handling of auto updater and data files during native package removal. (#21203)</code>](https://github.com/netdata/netdata.git/commit/c0721c42d0f6a588b308cf39fe4208846037d7bf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Make OpenTelemetry plugin a required dependency for native DEB/RPM packages. (#21194)</code>](https://github.com/netdata/netdata.git/commit/29229425d35c131d0214ec777615540ed13a2ea0)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7639,15 +7655,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 > Dropped python312Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python312Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-2.0.0.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-2.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [python312Packages.pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
+#### [python312Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.1 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.1...HEAD)
+
+- [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
+
+#### [python312Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>{src/pam,pyproject.toml}: Stop using six module. Deprecated.</code>](https://github.com/FirefighterBlu3/python-pam/commit/8d6f8eefcb0b0edafa585d23d6b3f2169d8e1c6f)
-
-#### [python312Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.1 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.1...HEAD)
-
-- [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
