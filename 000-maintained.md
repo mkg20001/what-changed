@@ -7628,6 +7628,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(gui): Update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7e3d803d50ded9d050e8124f7f14fc1ff722b466)
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97d698c069631cb444f0b1ccc21e57206b31a321)
 - [ ] [<code>build: v2.0.0-beta3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6000afe2b51844fe83a91e3c9ab63b60d3709949)
+  - <sub>Tags: <code>v2.0.0-beta3</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
