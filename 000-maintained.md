@@ -847,9 +847,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/incus/commit/a68e88999825a5c07d30378ce107492cf1b1a60b)
 - [ ] [<code>server/operations: Remove project name from operations executed on other nodes</code>](https://github.com/lxc/incus/commit/68e4bdfe45112aedfbcbfc3d24b69dcbcfd78cfe)
 - [ ] [<code>incusd: Remove remaining project remnants from operations</code>](https://github.com/lxc/incus/commit/6048177c263d09de529577abdd8fae3476d6f066)
+- [ ] [<code>shared/validate: Add IsMACPattern</code>](https://github.com/lxc/incus/commit/73f02021ebb8f220f7640b53d15d0e54243fb631)
+- [ ] [<code>incusd/config: Add MAC address pattern key</code>](https://github.com/lxc/incus/commit/0bc11b53d414834fe23ea568a3648ed66d735dc2)
+- [ ] [<code>incusd/project: Add MAC address pattern key</code>](https://github.com/lxc/incus/commit/3f9cb591d23a59b5d204fc006aa367cc8164c826)
 - [ ] [<code>go.mod: Update github.com/lxc/incus-os/incus-osd</code>](https://github.com/lxc/incus/commit/336eca717c356aae336564b95a06d1576fd431b9)
 - [ ] [<code>incus: Support remotes for "admin os" commands</code>](https://github.com/lxc/incus/commit/522108b6dd84191323161bcfc2ef10febb61393f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/aab4e920d6dc2bbf16ab644d110f2f711b0a2d81)
+- [ ] [<code>incusd/instance: Allow customizing MAC address patterns</code>](https://github.com/lxc/incus/commit/70cdcf2c441288b742b32b308cfa52a04128213b)
+- [ ] [<code>incusd/device: Allow customizing MAC address patterns</code>](https://github.com/lxc/incus/commit/7b9163a3bf18af5bc2ea0b5fa32adb9f66daec07)
+- [ ] [<code>incusd/network: Allow customizing MAC address patterns</code>](https://github.com/lxc/incus/commit/76b45e315601703391f8d719cdccedd064ca5585)
+- [ ] [<code>api: network_hwaddr_pattern</code>](https://github.com/lxc/incus/commit/8792bde293db30720dfa691c0044d6abf223d89b)
+- [ ] [<code>test: Add network.hwaddr_pattern tests</code>](https://github.com/lxc/incus/commit/3a0d0d5c33ec0a4d92cf48a02c8cd32ffb991758)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4717,9 +4727,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/upload-artifact from 4 to 5</code>](https://github.com/lxc/incus/commit/a68e88999825a5c07d30378ce107492cf1b1a60b)
 - [ ] [<code>server/operations: Remove project name from operations executed on other nodes</code>](https://github.com/lxc/incus/commit/68e4bdfe45112aedfbcbfc3d24b69dcbcfd78cfe)
 - [ ] [<code>incusd: Remove remaining project remnants from operations</code>](https://github.com/lxc/incus/commit/6048177c263d09de529577abdd8fae3476d6f066)
+- [ ] [<code>shared/validate: Add IsMACPattern</code>](https://github.com/lxc/incus/commit/73f02021ebb8f220f7640b53d15d0e54243fb631)
+- [ ] [<code>incusd/config: Add MAC address pattern key</code>](https://github.com/lxc/incus/commit/0bc11b53d414834fe23ea568a3648ed66d735dc2)
+- [ ] [<code>incusd/project: Add MAC address pattern key</code>](https://github.com/lxc/incus/commit/3f9cb591d23a59b5d204fc006aa367cc8164c826)
 - [ ] [<code>go.mod: Update github.com/lxc/incus-os/incus-osd</code>](https://github.com/lxc/incus/commit/336eca717c356aae336564b95a06d1576fd431b9)
 - [ ] [<code>incus: Support remotes for "admin os" commands</code>](https://github.com/lxc/incus/commit/522108b6dd84191323161bcfc2ef10febb61393f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/aab4e920d6dc2bbf16ab644d110f2f711b0a2d81)
+- [ ] [<code>incusd/instance: Allow customizing MAC address patterns</code>](https://github.com/lxc/incus/commit/70cdcf2c441288b742b32b308cfa52a04128213b)
+- [ ] [<code>incusd/device: Allow customizing MAC address patterns</code>](https://github.com/lxc/incus/commit/7b9163a3bf18af5bc2ea0b5fa32adb9f66daec07)
+- [ ] [<code>incusd/network: Allow customizing MAC address patterns</code>](https://github.com/lxc/incus/commit/76b45e315601703391f8d719cdccedd064ca5585)
+- [ ] [<code>api: network_hwaddr_pattern</code>](https://github.com/lxc/incus/commit/8792bde293db30720dfa691c0044d6abf223d89b)
+- [ ] [<code>test: Add network.hwaddr_pattern tests</code>](https://github.com/lxc/incus/commit/3a0d0d5c33ec0a4d92cf48a02c8cd32ffb991758)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -7605,6 +7625,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(scripts): add PEP 723 script metadata</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c09338359148eb9e9bf879b9609962c2f5b45523)
 - [ ] [<code>build(scripts): add script for getting device name from model</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bdb75e6db6d2d1cefc1b28c81d2c36b1b8c1ab38)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>deps(gui): Update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7e3d803d50ded9d050e8124f7f14fc1ff722b466)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97d698c069631cb444f0b1ccc21e57206b31a321)
+- [ ] [<code>build: v2.0.0-beta3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6000afe2b51844fe83a91e3c9ab63b60d3709949)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
