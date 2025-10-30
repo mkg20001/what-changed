@@ -5666,6 +5666,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Make OpenTelemetry plugin a required dependency for native DEB/RPM packages. (#21194)</code>](https://github.com/netdata/netdata.git/commit/29229425d35c131d0214ec777615540ed13a2ea0)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>CPU Temperature (windows.plugin) (#20992)</code>](https://github.com/netdata/netdata.git/commit/670ae4b3993e4e0444f61c31c4c47aad32cb44a3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
