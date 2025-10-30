@@ -351,6 +351,8 @@
 - [ ] [<code>build: Update iOS build files</code>](https://github.com/krille-chan/fluffychat/commit/816c52630b55c8bb0fcfe520f4853a2f34747edc)
 - [ ] [<code>fix: Temporarily disable opus recording on iOS because iOS 26 seems to break it</code>](https://github.com/krille-chan/fluffychat/commit/5b7944b181d40fe9d714ab6986434ec8c2f2c434)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/c6816b5db5e9a0267940d216f748fff904f33415)
+- [ ] [<code>Merge pull request #2295 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/eb0e0cddeffbab9ad20363ef7bf1c0d187bee149)
+  - <sub>Tags: <code>v2.2.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -626,6 +628,8 @@
 - [ ] [<code>build: Update iOS build files</code>](https://github.com/krille-chan/fluffychat/commit/816c52630b55c8bb0fcfe520f4853a2f34747edc)
 - [ ] [<code>fix: Temporarily disable opus recording on iOS because iOS 26 seems to break it</code>](https://github.com/krille-chan/fluffychat/commit/5b7944b181d40fe9d714ab6986434ec8c2f2c434)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/c6816b5db5e9a0267940d216f748fff904f33415)
+- [ ] [<code>Merge pull request #2295 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/eb0e0cddeffbab9ad20363ef7bf1c0d187bee149)
+  - <sub>Tags: <code>v2.2.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5669,6 +5673,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>CPU Temperature (windows.plugin) (#20992)</code>](https://github.com/netdata/netdata.git/commit/670ae4b3993e4e0444f61c31c4c47aad32cb44a3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-181-nightly.</code>](https://github.com/netdata/netdata.git/commit/844b3085c05416377976250788d9f5e9b8243d00)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21237)</code>](https://github.com/netdata/netdata.git/commit/65ec1086832ee0d287284b666d020a18929ce9ea)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
