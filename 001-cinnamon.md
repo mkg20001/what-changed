@@ -230,8 +230,10 @@
 - [ ] [<code>keybindings: Refactor python keybinding management.</code>](https://github.com/linuxmint/cinnamon/commit/95e9d25b7c3cccc85084cf3a7afaba895eaa8599)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>cinnamon-dbus-command: Make more effort to identify argument types</code>](https://github.com/linuxmint/cinnamon/commit/138b2fcaa222cad6aa17d37e39ee00579ffa5ffd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix high cpu usage in shortcut view (#12923)</code>](https://github.com/linuxmint/cinnamon/commit/cc033dac902a78e99acf86ecb5b523ede5398a41)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -399,6 +401,12 @@
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.8...HEAD)
 
+- [ ] [<code>design icon for Tenacity audio editor (#496)</code>](https://github.com/linuxmint/mint-y-icons/commit/0d2cfb442562e4a00824b478bbea69adf46a4060)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add symbolic link for Code - OSS (#502)</code>](https://github.com/linuxmint/mint-y-icons/commit/697e864428a882aaca0d4b1f05ac7a8873a90cd8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>update Godot game engine icon (#507)</code>](https://github.com/linuxmint/mint-y-icons/commit/bb921a123c21ce89a5bf6015256ea7a77d64bf7c)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -504,6 +512,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
+- [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -515,6 +524,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
+- [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
@@ -526,6 +536,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
+- [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -537,6 +548,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
+- [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
@@ -548,6 +560,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
+- [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
