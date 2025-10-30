@@ -632,8 +632,6 @@
   - <sub>Tags: <code>v2.2.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter324 - no appropriate URL found OrderedDict({'attr_path': 'flutter324', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
 > Dropped flutter327 - no appropriate URL found OrderedDict({'attr_path': 'flutter327', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -870,6 +868,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file/push: Keep remote owner/mode when present and not overriden</code>](https://github.com/lxc/incus/commit/4d75826ff8bb13feefb78e0336119fb373cc6fe7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Fix failure on device stop for networks without uplink</code>](https://github.com/lxc/incus/commit/b473af4abd23b04910ef2f6a78b8bdece7addb3b)
+- [ ] [<code>incusd/network/common: Handle parent field in State</code>](https://github.com/lxc/incus/commit/4296fb65cbec29b3b539478839b0fd7614eb324b)
+- [ ] [<code>doc/clustering: Cover CPU baseline calculation</code>](https://github.com/lxc/incus/commit/2a61082e873e7dca8a33e3f3e27d97f34206cfbe)
+- [ ] [<code>i18n: Update translations from weblate</code>](https://github.com/lxc/incus/commit/47f85a351cca152f9dc93c20dbddb261eb790d47)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4756,6 +4759,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incus/file/push: Keep remote owner/mode when present and not overriden</code>](https://github.com/lxc/incus/commit/4d75826ff8bb13feefb78e0336119fb373cc6fe7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network/ovn: Fix failure on device stop for networks without uplink</code>](https://github.com/lxc/incus/commit/b473af4abd23b04910ef2f6a78b8bdece7addb3b)
+- [ ] [<code>incusd/network/common: Handle parent field in State</code>](https://github.com/lxc/incus/commit/4296fb65cbec29b3b539478839b0fd7614eb324b)
+- [ ] [<code>doc/clustering: Cover CPU baseline calculation</code>](https://github.com/lxc/incus/commit/2a61082e873e7dca8a33e3f3e27d97f34206cfbe)
+- [ ] [<code>i18n: Update translations from weblate</code>](https://github.com/lxc/incus/commit/47f85a351cca152f9dc93c20dbddb261eb790d47)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4841,6 +4849,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump the github-actions group with 4 updates (#2878)</code>](https://github.com/AOMediaCodec/libavif/commit/e91e0d6d6d01ad8256e52a8d7a958ee8d69cc652)
 - [ ] [<code>Add creationTime & modificationTime to avifEncoder</code>](https://github.com/AOMediaCodec/libavif/commit/40cb2c1fbff1e14b6c81816b73a364490b12ffb6)
 - [ ] [<code>Check creationTime only if LLONG_MAX > UINT64_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/37ff3889b7b0b4ca34d708dc5bb5d0ef240d821d)
+- [ ] [<code>Use ninja to build dav1d (#2888)</code>](https://github.com/AOMediaCodec/libavif/commit/457193d9b960a673fe82a50252bc6475aab151cf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5676,6 +5685,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-181-nightly.</code>](https://github.com/netdata/netdata.git/commit/844b3085c05416377976250788d9f5e9b8243d00)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21237)</code>](https://github.com/netdata/netdata.git/commit/65ec1086832ee0d287284b666d020a18929ce9ea)
+- [ ] [<code>apps.plugin: add PSS-based memory estimation (#21199)</code>](https://github.com/netdata/netdata.git/commit/c8ef9410dde146b82fbdc638b05831350855d226)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21241)</code>](https://github.com/netdata/netdata.git/commit/bfb448a9095276d33d0f2b49ce629407847ff6bb)
+- [ ] [<code>Handle problematic repo configuration states in kickstart. (#21226)</code>](https://github.com/netdata/netdata.git/commit/c318d5631b3963be4622083e202abe45330eeae1)
+- [ ] [<code>Extend code signing in Windows CI to cover drivers. (#21242)</code>](https://github.com/netdata/netdata.git/commit/821ac7548fa6a8db48d431a4b51e40cccf5d2d36)
+- [ ] [<code>Check metric count during journal creation (#21238)</code>](https://github.com/netdata/netdata.git/commit/2f1ec342be89f4cc163b1471a8f99a93cfd4548b)
+- [ ] [<code>Switch to git-cliff for changelog generation. (#21218)</code>](https://github.com/netdata/netdata.git/commit/7bca3ff53dde28183e7fca298a3b65ec5ce8d1d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>WebSocket: Increase inactivity timeout from 5 to 30 minutes (#21244)</code>](https://github.com/netdata/netdata.git/commit/70efc0f3cea1f94df187cbe74c6e213341f3e20e)
+- [ ] [<code>chore(go.d): add prefix-based func registration (#21245)</code>](https://github.com/netdata/netdata.git/commit/f5734ae13baec0970ad8f22b0c9e6b18fb13db6a)
+- [ ] [<code>fix(uninstaller): define rm_file before first use (#21246)</code>](https://github.com/netdata/netdata.git/commit/f8e226995e1a5e2866fbb2ef29845f59d564f1ad)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7655,6 +7676,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97d698c069631cb444f0b1ccc21e57206b31a321)
 - [ ] [<code>build: v2.0.0-beta3</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6000afe2b51844fe83a91e3c9ab63b60d3709949)
   - <sub>Tags: <code>v2.0.0-beta3</code></sub>
+- [ ] [<code>fix(lib): don't show PhantomData in Packet debug output</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5617bc8c7d4b754fde71897c4c7fd3a1b459c960)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
