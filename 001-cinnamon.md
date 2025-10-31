@@ -232,8 +232,11 @@
 - [ ] [<code>cinnamon-dbus-command: Make more effort to identify argument types</code>](https://github.com/linuxmint/cinnamon/commit/138b2fcaa222cad6aa17d37e39ee00579ffa5ffd)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>fix high cpu usage in shortcut view (#12923)</code>](https://github.com/linuxmint/cinnamon/commit/cc033dac902a78e99acf86ecb5b523ede5398a41)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>scrollbar-test-widget.glade: add a heading for the gibberish.</code>](https://github.com/linuxmint/cinnamon/commit/c554915829b6ca451be985f25687c21e586dec58)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>virtualKeyboard.js: remove setCursorLocation handler, add fade in/out</code>](https://github.com/linuxmint/cinnamon/commit/c8afc034e8a6d7f1c44856087bf6d1ee0109fedf)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -274,6 +277,7 @@
 - [ ] [<code>gnome-desktop-thumbnail.c: Initialize empty pixbuf.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/ef02bff9231af4a188c8a8418292dffe2ea2ecfd)
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fa6121f017e004aa6c8ea406ab221f066a06ca2d)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1c41babc8240e65bf5816585ed549997992dacdf)
+- [ ] [<code>org.cinnamon.desktop.keybindings.wm.gschema: Add direct keyboard</code>](https://github.com/linuxmint/cinnamon-desktop/commit/25db5284443c81b2336f37cfa5a35de1c5cd242a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
