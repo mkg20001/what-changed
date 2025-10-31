@@ -882,6 +882,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage/drivers/lvmcluster: Restrict snapshotting</code>](https://github.com/lxc/incus/commit/d662132db16c9cd82e80781fb25931b4aea921e2)
 - [ ] [<code>Release Incus 6.18</code>](https://github.com/lxc/incus/commit/163109397e0a23d95d834e7caee7311ce17a19c8)
   - <sub>Tags: <code>v6.18.0</code></sub>
+- [ ] [<code>doc/environment: Add INCUS_SECURITY_SELINUX</code>](https://github.com/lxc/incus/commit/d7ddb3ad027d09e061a2175412ee53a27634f371)
+- [ ] [<code>incusd/db/warnings: Add SELinuxNotAvailable</code>](https://github.com/lxc/incus/commit/7588b88c284cd1fb930712a6514a70e4740e8e61)
+- [ ] [<code>incusd/sys: Add SELinux detection</code>](https://github.com/lxc/incus/commit/d2445724a87a0f06899f1a1d4a12f83c75865a6e)
+- [ ] [<code>incusd/instance/lxc: Set SELinux context</code>](https://github.com/lxc/incus/commit/fbfc3673dfb0f9f8e953655f2b57e21e37c3c26d)
+- [ ] [<code>doc: Add SELinux to the word list</code>](https://github.com/lxc/incus/commit/cf0b6d6cac1b5fd9994acc155699435276133e44)
+- [ ] [<code>incusd/network/ovn: Tweak port removal logic</code>](https://github.com/lxc/incus/commit/bdc0122e9ab489f18362eb09ac9aecaf45c925c7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4780,6 +4786,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage/drivers/lvmcluster: Restrict snapshotting</code>](https://github.com/lxc/incus/commit/d662132db16c9cd82e80781fb25931b4aea921e2)
 - [ ] [<code>Release Incus 6.18</code>](https://github.com/lxc/incus/commit/163109397e0a23d95d834e7caee7311ce17a19c8)
   - <sub>Tags: <code>v6.18.0</code></sub>
+- [ ] [<code>doc/environment: Add INCUS_SECURITY_SELINUX</code>](https://github.com/lxc/incus/commit/d7ddb3ad027d09e061a2175412ee53a27634f371)
+- [ ] [<code>incusd/db/warnings: Add SELinuxNotAvailable</code>](https://github.com/lxc/incus/commit/7588b88c284cd1fb930712a6514a70e4740e8e61)
+- [ ] [<code>incusd/sys: Add SELinux detection</code>](https://github.com/lxc/incus/commit/d2445724a87a0f06899f1a1d4a12f83c75865a6e)
+- [ ] [<code>incusd/instance/lxc: Set SELinux context</code>](https://github.com/lxc/incus/commit/fbfc3673dfb0f9f8e953655f2b57e21e37c3c26d)
+- [ ] [<code>doc: Add SELinux to the word list</code>](https://github.com/lxc/incus/commit/cf0b6d6cac1b5fd9994acc155699435276133e44)
+- [ ] [<code>incusd/network/ovn: Tweak port removal logic</code>](https://github.com/lxc/incus/commit/bdc0122e9ab489f18362eb09ac9aecaf45c925c7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5717,6 +5729,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(uninstaller): define rm_file before first use (#21246)</code>](https://github.com/netdata/netdata.git/commit/f8e226995e1a5e2866fbb2ef29845f59d564f1ad)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-192-nightly.</code>](https://github.com/netdata/netdata.git/commit/a7bba8927c748b27774604f56552fc69d07b44f1)
+- [ ] [<code>build(deps): bump kenji-miyake/setup-git-cliff from 1 to 2 (#21247)</code>](https://github.com/netdata/netdata.git/commit/992e806d84392a6246b5f09ee8b6ef732399cc11)
+- [ ] [<code>Route dyncfg GET requests through plugin (#21249)</code>](https://github.com/netdata/netdata.git/commit/2efceb842643867702168e2de7833637cc20d833)
+- [ ] [<code>fix(go.d/ping): preserve original ping error by using %w for wrapping (#21251)</code>](https://github.com/netdata/netdata.git/commit/3f9e8586718bd3fd4e6898e8ab754ffe1bb29282)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7712,6 +7727,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(tools/soundcore-device-faker): add a3947</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5d8f48d2a4a92d08250642925070f47409932e5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: remove duplicate device listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1e709baa0e4888e44dfd0f7e22ab6815291436ca)
+- [ ] [<code>ci: bundle sqlite in release builds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e3610acaa68e68b373d53eb404d2c2ddd86fe695)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
