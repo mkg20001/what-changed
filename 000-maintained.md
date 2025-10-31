@@ -873,6 +873,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/clustering: Cover CPU baseline calculation</code>](https://github.com/lxc/incus/commit/2a61082e873e7dca8a33e3f3e27d97f34206cfbe)
 - [ ] [<code>i18n: Update translations from weblate</code>](https://github.com/lxc/incus/commit/47f85a351cca152f9dc93c20dbddb261eb790d47)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/instances: clarify VM definition with abbreviation</code>](https://github.com/lxc/incus/commit/5c00861ba73268869f655e62f7ee625d157626fa)
+- [ ] [<code>incusd/network/macvlan: Bring up parent interface and check existence on update</code>](https://github.com/lxc/incus/commit/080881e8910df2ed325a1e234bf2f978e99a3b1c)
+- [ ] [<code>incusd/network/macvlan: Please the static analyzer</code>](https://github.com/lxc/incus/commit/c9a421faede7e7217dc758ab1e0615ec8e2b4a00)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4764,6 +4767,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/clustering: Cover CPU baseline calculation</code>](https://github.com/lxc/incus/commit/2a61082e873e7dca8a33e3f3e27d97f34206cfbe)
 - [ ] [<code>i18n: Update translations from weblate</code>](https://github.com/lxc/incus/commit/47f85a351cca152f9dc93c20dbddb261eb790d47)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>doc/instances: clarify VM definition with abbreviation</code>](https://github.com/lxc/incus/commit/5c00861ba73268869f655e62f7ee625d157626fa)
+- [ ] [<code>incusd/network/macvlan: Bring up parent interface and check existence on update</code>](https://github.com/lxc/incus/commit/080881e8910df2ed325a1e234bf2f978e99a3b1c)
+- [ ] [<code>incusd/network/macvlan: Please the static analyzer</code>](https://github.com/lxc/incus/commit/c9a421faede7e7217dc758ab1e0615ec8e2b4a00)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -4850,6 +4856,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add creationTime & modificationTime to avifEncoder</code>](https://github.com/AOMediaCodec/libavif/commit/40cb2c1fbff1e14b6c81816b73a364490b12ffb6)
 - [ ] [<code>Check creationTime only if LLONG_MAX > UINT64_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/37ff3889b7b0b4ca34d708dc5bb5d0ef240d821d)
 - [ ] [<code>Use ninja to build dav1d (#2888)</code>](https://github.com/AOMediaCodec/libavif/commit/457193d9b960a673fe82a50252bc6475aab151cf)
+- [ ] [<code>Avoid issue AOMediaCodec/libavif#2886</code>](https://github.com/AOMediaCodec/libavif/commit/f3345b56cd3add557ee657b3e88467e110d604fd)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5697,6 +5704,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): add prefix-based func registration (#21245)</code>](https://github.com/netdata/netdata.git/commit/f5734ae13baec0970ad8f22b0c9e6b18fb13db6a)
 - [ ] [<code>fix(uninstaller): define rm_file before first use (#21246)</code>](https://github.com/netdata/netdata.git/commit/f8e226995e1a5e2866fbb2ef29845f59d564f1ad)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-192-nightly.</code>](https://github.com/netdata/netdata.git/commit/a7bba8927c748b27774604f56552fc69d07b44f1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7678,6 +7686,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v2.0.0-beta3</code></sub>
 - [ ] [<code>fix(lib): don't show PhantomData in Packet debug output</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5617bc8c7d4b754fde71897c4c7fd3a1b459c960)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: update build tool versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/65a903843be44d7d5dbce1d8a4b6ec33f83f330e)
+- [ ] [<code>fix(android): crash when import string doesn't have confirm message</code>](https://github.com/Oppzippy/OpenSCQ30/commit/159cbc432e25e39626cf5566f82772b0fc1a6477)
+- [ ] [<code>fix(android): crash when connecting to disconnected device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f9b5b4e2f0f06dd71b22f6e3fe6c137d46aa2393)
+- [ ] [<code>docs: add requesting support for a new soundcore device guide</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d2d2d376e859ae9cb6d5c51f775af1249d0809fd)
+- [ ] [<code>ci: fix incorrect ANDROID_NDK_ROOT</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2792b8f17fb177932b3299d0db5823b6fd7d7d43)
+- [ ] [<code>build: v2.0.0-beta4</code>](https://github.com/Oppzippy/OpenSCQ30/commit/313d3ea9972f3712382b0668ebc10674e2526bc5)
+  - <sub>Tags: <code>v2.0.0-beta4</code></sub>
+- [ ] [<code>build(scripts): allow workflow link in sign-release</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aeb5dea6a743af6ea743dbf393ed1b03e8eae421)
+- [ ] [<code>ci: update windows build runner to windows-latest</code>](https://github.com/Oppzippy/OpenSCQ30/commit/50af05bd292798ec082621765e9f7a27dabcb48a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
