@@ -353,6 +353,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/c6816b5db5e9a0267940d216f748fff904f33415)
 - [ ] [<code>Merge pull request #2295 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/eb0e0cddeffbab9ad20363ef7bf1c0d187bee149)
   - <sub>Tags: <code>v2.2.0</code></sub>
+- [ ] [<code>chore: Try out experimental new matrix sdk version with performance leak fix</code>](https://github.com/krille-chan/fluffychat/commit/60f688afa9bb1d331d1a6931630924fec4ceacc0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.1.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.1.1...HEAD)
 
@@ -630,6 +631,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/c6816b5db5e9a0267940d216f748fff904f33415)
 - [ ] [<code>Merge pull request #2295 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/eb0e0cddeffbab9ad20363ef7bf1c0d187bee149)
   - <sub>Tags: <code>v2.2.0</code></sub>
+- [ ] [<code>chore: Try out experimental new matrix sdk version with performance leak fix</code>](https://github.com/krille-chan/fluffychat/commit/60f688afa9bb1d331d1a6931630924fec4ceacc0)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter327 - no appropriate URL found OrderedDict({'attr_path': 'flutter327', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -876,6 +878,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/instances: clarify VM definition with abbreviation</code>](https://github.com/lxc/incus/commit/5c00861ba73268869f655e62f7ee625d157626fa)
 - [ ] [<code>incusd/network/macvlan: Bring up parent interface and check existence on update</code>](https://github.com/lxc/incus/commit/080881e8910df2ed325a1e234bf2f978e99a3b1c)
 - [ ] [<code>incusd/network/macvlan: Please the static analyzer</code>](https://github.com/lxc/incus/commit/c9a421faede7e7217dc758ab1e0615ec8e2b4a00)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/81163cb082e4c080752c106542dcfffcad011aca)
+- [ ] [<code>incusd/storage/drivers/lvmcluster: Restrict snapshotting</code>](https://github.com/lxc/incus/commit/d662132db16c9cd82e80781fb25931b4aea921e2)
+- [ ] [<code>Release Incus 6.18</code>](https://github.com/lxc/incus/commit/163109397e0a23d95d834e7caee7311ce17a19c8)
+  - <sub>Tags: <code>v6.18.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4770,12 +4776,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/instances: clarify VM definition with abbreviation</code>](https://github.com/lxc/incus/commit/5c00861ba73268869f655e62f7ee625d157626fa)
 - [ ] [<code>incusd/network/macvlan: Bring up parent interface and check existence on update</code>](https://github.com/lxc/incus/commit/080881e8910df2ed325a1e234bf2f978e99a3b1c)
 - [ ] [<code>incusd/network/macvlan: Please the static analyzer</code>](https://github.com/lxc/incus/commit/c9a421faede7e7217dc758ab1e0615ec8e2b4a00)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/81163cb082e4c080752c106542dcfffcad011aca)
+- [ ] [<code>incusd/storage/drivers/lvmcluster: Restrict snapshotting</code>](https://github.com/lxc/incus/commit/d662132db16c9cd82e80781fb25931b4aea921e2)
+- [ ] [<code>Release Incus 6.18</code>](https://github.com/lxc/incus/commit/163109397e0a23d95d834e7caee7311ce17a19c8)
+  - <sub>Tags: <code>v6.18.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
 - [ ] [<code>Allow selecting un-managed bridges</code>](https://github.com/zabbly/incus-ui-canonical/commit/d53618966061c56f24b28666a21513e62987641d)
 - [ ] [<code>Fix several duplicate imports caused by rebase issues.</code>](https://github.com/zabbly/incus-ui-canonical/commit/0d32abc4f23f0cf26e96250634721213665392ef)
 - [ ] [<code>Add additional keyboard entries to the graphical console shortcuts.</code>](https://github.com/zabbly/incus-ui-canonical/commit/544cac7412ab32182a4b45c3fc7f43772a7b2112)
+- [ ] [<code>Merge pull request #86 from gtjoseph/main-add-key-shortcuts</code>](https://github.com/zabbly/incus-ui-canonical/commit/2e4730b32b5a183410bf2354eba5cf05a2763e01)
+  - <sub>Tags: <code>incus-0.18.3</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -7695,6 +7707,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v2.0.0-beta4</code></sub>
 - [ ] [<code>build(scripts): allow workflow link in sign-release</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aeb5dea6a743af6ea743dbf393ed1b03e8eae421)
 - [ ] [<code>ci: update windows build runner to windows-latest</code>](https://github.com/Oppzippy/OpenSCQ30/commit/50af05bd292798ec082621765e9f7a27dabcb48a)
+- [ ] [<code>docs: use placeholder rather than an actual mac address</code>](https://github.com/Oppzippy/OpenSCQ30/commit/16faf62a7d8492ca35aa8aef14eac9271c74f54f)
+- [ ] [<code>docs: add requested devices to readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/56357c91ffc475d06de9d261e3959198ae1dd7fa)
+- [ ] [<code>feat(tools/soundcore-device-faker): add a3947</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5d8f48d2a4a92d08250642925070f47409932e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: remove duplicate device listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1e709baa0e4888e44dfd0f7e22ab6815291436ca)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
