@@ -888,6 +888,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/lxc: Set SELinux context</code>](https://github.com/lxc/incus/commit/fbfc3673dfb0f9f8e953655f2b57e21e37c3c26d)
 - [ ] [<code>doc: Add SELinux to the word list</code>](https://github.com/lxc/incus/commit/cf0b6d6cac1b5fd9994acc155699435276133e44)
 - [ ] [<code>incusd/network/ovn: Tweak port removal logic</code>](https://github.com/lxc/incus/commit/bdc0122e9ab489f18362eb09ac9aecaf45c925c7)
+- [ ] [<code>github: Build the agent on MacOS</code>](https://github.com/lxc/incus/commit/2b22819dc2a433b207be4c415bfb78b0837a70b8)
+- [ ] [<code>incusd/instance/qemu: Disable virtio-snd on Windows</code>](https://github.com/lxc/incus/commit/d3655af47bc5c9de2103d9f413e855d404f2de3d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4792,6 +4794,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/lxc: Set SELinux context</code>](https://github.com/lxc/incus/commit/fbfc3673dfb0f9f8e953655f2b57e21e37c3c26d)
 - [ ] [<code>doc: Add SELinux to the word list</code>](https://github.com/lxc/incus/commit/cf0b6d6cac1b5fd9994acc155699435276133e44)
 - [ ] [<code>incusd/network/ovn: Tweak port removal logic</code>](https://github.com/lxc/incus/commit/bdc0122e9ab489f18362eb09ac9aecaf45c925c7)
+- [ ] [<code>github: Build the agent on MacOS</code>](https://github.com/lxc/incus/commit/2b22819dc2a433b207be4c415bfb78b0837a70b8)
+- [ ] [<code>incusd/instance/qemu: Disable virtio-snd on Windows</code>](https://github.com/lxc/incus/commit/d3655af47bc5c9de2103d9f413e855d404f2de3d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
 
@@ -5732,6 +5736,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump kenji-miyake/setup-git-cliff from 1 to 2 (#21247)</code>](https://github.com/netdata/netdata.git/commit/992e806d84392a6246b5f09ee8b6ef732399cc11)
 - [ ] [<code>Route dyncfg GET requests through plugin (#21249)</code>](https://github.com/netdata/netdata.git/commit/2efceb842643867702168e2de7833637cc20d833)
 - [ ] [<code>fix(go.d/ping): preserve original ping error by using %w for wrapping (#21251)</code>](https://github.com/netdata/netdata.git/commit/3f9e8586718bd3fd4e6898e8ab754ffe1bb29282)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-196-nightly.</code>](https://github.com/netdata/netdata.git/commit/1f636f48e85a66e359c0f6a8ce6d3f2d6884977b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7728,6 +7733,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: remove duplicate device listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1e709baa0e4888e44dfd0f7e22ab6815291436ca)
 - [ ] [<code>ci: bundle sqlite in release builds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e3610acaa68e68b373d53eb404d2c2ddd86fe695)
+- [ ] [<code>docs: refer to older liberty 4 nc request</code>](https://github.com/Oppzippy/OpenSCQ30/commit/61ee426cbae970e0a45a0c69cd26618b97f1930c)
+- [ ] [<code>feat(tools/soundcore-device-faker): add a3954</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a5fe9998a08d04a917c862f291a1a65661c18346)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(tools/soundcore-device-faker): document a3947 state update packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4835a5b667f1b4e0006405e00fd6edf196f118af)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
