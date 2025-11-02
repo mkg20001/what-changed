@@ -83,6 +83,8 @@
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.0.13 to 2.0.14</code>](https://github.com/krille-chan/fluffychat/commit/2a5b27436ee31568ce792e861f0f20e8eb717d1d)
 - [ ] [<code>chore: Try out experimental new matrix sdk version with performance leak fix</code>](https://github.com/krille-chan/fluffychat/commit/60f688afa9bb1d331d1a6931630924fec4ceacc0)
 - [ ] [<code>refactor: Invite users when upgrading private room</code>](https://github.com/krille-chan/fluffychat/commit/3d73391aa5dee3140a926743fe574a0da393cc5f)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/38a1819e6b64f72cfe444ffc1b43b8d58cb27bfb)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/bcc2f0c62f3a450a72b57555960780f77198f873)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -90,6 +92,8 @@
 - [ ] [<code>build: (deps): bump qr_code_scanner_plus from 2.0.13 to 2.0.14</code>](https://github.com/krille-chan/fluffychat/commit/2a5b27436ee31568ce792e861f0f20e8eb717d1d)
 - [ ] [<code>chore: Try out experimental new matrix sdk version with performance leak fix</code>](https://github.com/krille-chan/fluffychat/commit/60f688afa9bb1d331d1a6931630924fec4ceacc0)
 - [ ] [<code>refactor: Invite users when upgrading private room</code>](https://github.com/krille-chan/fluffychat/commit/3d73391aa5dee3140a926743fe574a0da393cc5f)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/38a1819e6b64f72cfe444ffc1b43b8d58cb27bfb)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/bcc2f0c62f3a450a72b57555960780f77198f873)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -346,6 +350,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/ovn: Tweak port removal logic</code>](https://github.com/lxc/incus/commit/bdc0122e9ab489f18362eb09ac9aecaf45c925c7)
 - [ ] [<code>github: Build the agent on MacOS</code>](https://github.com/lxc/incus/commit/2b22819dc2a433b207be4c415bfb78b0837a70b8)
 - [ ] [<code>incusd/instance/qemu: Disable virtio-snd on Windows</code>](https://github.com/lxc/incus/commit/d3655af47bc5c9de2103d9f413e855d404f2de3d)
+- [ ] [<code>incusd/instance/qmp: Remove double line break</code>](https://github.com/lxc/incus/commit/7bc4a855f45da999556ecdc7919d1faadfceeb11)
+- [ ] [<code>incusd/instance/qmp: Don't log serial port changes</code>](https://github.com/lxc/incus/commit/88c2cbb05049dd43e435aafdb39632301ff15dc6)
+- [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4252,14 +4259,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/ovn: Tweak port removal logic</code>](https://github.com/lxc/incus/commit/bdc0122e9ab489f18362eb09ac9aecaf45c925c7)
 - [ ] [<code>github: Build the agent on MacOS</code>](https://github.com/lxc/incus/commit/2b22819dc2a433b207be4c415bfb78b0837a70b8)
 - [ ] [<code>incusd/instance/qemu: Disable virtio-snd on Windows</code>](https://github.com/lxc/incus/commit/d3655af47bc5c9de2103d9f413e855d404f2de3d)
+- [ ] [<code>incusd/instance/qmp: Remove double line break</code>](https://github.com/lxc/incus/commit/7bc4a855f45da999556ecdc7919d1faadfceeb11)
+- [ ] [<code>incusd/instance/qmp: Don't log serial port changes</code>](https://github.com/lxc/incus/commit/88c2cbb05049dd43e435aafdb39632301ff15dc6)
+- [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.2...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
-- [ ] [<code>Allow selecting un-managed bridges</code>](https://github.com/zabbly/incus-ui-canonical/commit/d53618966061c56f24b28666a21513e62987641d)
-- [ ] [<code>Fix several duplicate imports caused by rebase issues.</code>](https://github.com/zabbly/incus-ui-canonical/commit/0d32abc4f23f0cf26e96250634721213665392ef)
-- [ ] [<code>Add additional keyboard entries to the graphical console shortcuts.</code>](https://github.com/zabbly/incus-ui-canonical/commit/544cac7412ab32182a4b45c3fc7f43772a7b2112)
-- [ ] [<code>Merge pull request #86 from gtjoseph/main-add-key-shortcuts</code>](https://github.com/zabbly/incus-ui-canonical/commit/2e4730b32b5a183410bf2354eba5cf05a2763e01)
-  - <sub>Tags: <code>incus-0.18.3</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5193,6 +5198,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Route dyncfg GET requests through plugin (#21249)</code>](https://github.com/netdata/netdata.git/commit/2efceb842643867702168e2de7833637cc20d833)
 - [ ] [<code>fix(go.d/ping): preserve original ping error by using %w for wrapping (#21251)</code>](https://github.com/netdata/netdata.git/commit/3f9e8586718bd3fd4e6898e8ab754ffe1bb29282)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-196-nightly.</code>](https://github.com/netdata/netdata.git/commit/1f636f48e85a66e359c0f6a8ce6d3f2d6884977b)
+- [ ] [<code>Improve ML shutdown checks (#21250)</code>](https://github.com/netdata/netdata.git/commit/a5ea333c24129d3e8d12abe5a94886e5a23eb4f9)
+- [ ] [<code>Fix systemd-cat-native crash on realloc (#21254)</code>](https://github.com/netdata/netdata.git/commit/7ef90c5fc5fb1d0dbc136d10150b8fd8c7190e54)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
