@@ -5200,6 +5200,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-196-nightly.</code>](https://github.com/netdata/netdata.git/commit/1f636f48e85a66e359c0f6a8ce6d3f2d6884977b)
 - [ ] [<code>Improve ML shutdown checks (#21250)</code>](https://github.com/netdata/netdata.git/commit/a5ea333c24129d3e8d12abe5a94886e5a23eb4f9)
 - [ ] [<code>Fix systemd-cat-native crash on realloc (#21254)</code>](https://github.com/netdata/netdata.git/commit/7ef90c5fc5fb1d0dbc136d10150b8fd8c7190e54)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-199-nightly.</code>](https://github.com/netdata/netdata.git/commit/62ec51ad88cce2eb963490d69c35988ce36eba5d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7200,6 +7201,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(tools/soundcore-device-faker): add a3954</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a5fe9998a08d04a917c862f291a1a65661c18346)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(tools/soundcore-device-faker): document a3947 state update packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4835a5b667f1b4e0006405e00fd6edf196f118af)
+- [ ] [<code>tools/soundcore-device-faker: document a3947 sound mode cycle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/815f07f533a5a79385400aacd1e222e6139aad11)
+- [ ] [<code>feat(lib): add support for a3947</code>](https://github.com/Oppzippy/OpenSCQ30/commit/23a9bb8230ed5f44a8a911f61dd0966dcc30aab8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(tools): add soundcore wireshark plugin</code>](https://github.com/Oppzippy/OpenSCQ30/commit/63b858fe6b378619204b590160406d98c29a8ac5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): change use_enabled_flag_to_disable to false for clarity</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b5f9c2811d967da1492f5ccdd4bfde5e0593c67)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
