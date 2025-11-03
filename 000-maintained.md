@@ -5202,6 +5202,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve ML shutdown checks (#21250)</code>](https://github.com/netdata/netdata.git/commit/a5ea333c24129d3e8d12abe5a94886e5a23eb4f9)
 - [ ] [<code>Fix systemd-cat-native crash on realloc (#21254)</code>](https://github.com/netdata/netdata.git/commit/7ef90c5fc5fb1d0dbc136d10150b8fd8c7190e54)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-199-nightly.</code>](https://github.com/netdata/netdata.git/commit/62ec51ad88cce2eb963490d69c35988ce36eba5d)
+- [ ] [<code>Format code - MSSQL (windows.plugin) (#21256)</code>](https://github.com/netdata/netdata.git/commit/17f5199bf44eee03b9b80bfe0f95ec51c70c8bcb)
+- [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.5 to 5.6.6 in /src/go (#21259)</code>](https://github.com/netdata/netdata.git/commit/b4e0e5ed7db713dacb1410e82073ef25fa627c1d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7209,6 +7211,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): change use_enabled_flag_to_disable to false for clarity</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b5f9c2811d967da1492f5ccdd4bfde5e0593c67)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add a3947 limit high volume</code>](https://github.com/Oppzippy/OpenSCQ30/commit/88ecaf36d706c830c9cf487c1209e82656f2f468)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gui): slider ignores Range step size</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c490391d3f3f8e2284569890b81a30d629b709f)
+- [ ] [<code>feat(gui): show value of sliders</code>](https://github.com/Oppzippy/OpenSCQ30/commit/716b4985ecc2717b7b97b76f6b34a24df2f49023)
+- [ ] [<code>fix(cli): show warning when range value does not match step size</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f3053ba3a2d561a2a8f48d244f078da06769977)
+- [ ] [<code>fix(android): sliders have incorrect number of steps</code>](https://github.com/Oppzippy/OpenSCQ30/commit/12a698a77b50e9d6eaa1f6130d3c56e7bebb62d5)
+- [ ] [<code>feat(android): show value for sliders</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ede5c24cf265ba2c4c2b98f1efb112560335f8a)
+- [ ] [<code>fix(lib): missed unknown byte in a3947 state update packet parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/94bf3c2cbb459fc5e91268924c0367184544a5ee)
+- [ ] [<code>test(lib): add basic a3947 test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ac13e96bbb4e6a3cbc3e93a633cf6f9003dff13)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7296,6 +7308,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [tribler](https://github.com/tribler/Tribler): [3e5bc56a15c568d0ba41262cad63155445e062da → HEAD](https://github.com/tribler/Tribler/compare/3e5bc56a15c568d0ba41262cad63155445e062da...HEAD)
 
+- [ ] [<code>Fixed ui settings getting erased on startup</code>](https://github.com/tribler/Tribler/commit/5f62d0141da6104e091330689d7c658ac841c2be)
+- [ ] [<code>Fixed ui settings getting erased on startup (#8804)</code>](https://github.com/tribler/Tribler/commit/46c43d83150f32d27260a0b7fe62c5c67fc983c1)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
