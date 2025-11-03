@@ -1,11 +1,13 @@
 
 #### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c69fb5ef80b9780fe9add345052aef9ccb5d51f4 → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c69fb5ef80b9780fe9add345052aef9ccb5d51f4...HEAD)
 
+- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/532ac744dedcf83c06e2f4a8320fcc8089f23b72)
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
 - [ ] [<code>github: improve CI build</code>](https://git.openwrt.org/project/libubox.git/commit/9caf555f00e23c0e467c77ac86ae6cefd4e76053)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/libubox.git/commit/e357be611cd9deb280c61bbdf331f5a85e75a485)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -94,11 +96,13 @@
 
 - [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/ubus.git/commit/6fdf7a97916207ef1de01cd9e662e6daca96516a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/ubus.git/commit/0d4bcb56f5e1386e7dc99f1ec9f3b6c9211c8ab6)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
 - [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/uci.git/commit/2e46a7405f26ec131918c821c30ac0b26fdb22f0)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/uci.git/commit/c1e2eee6c5e35438daf13fa72b04778ff07a00c7)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
