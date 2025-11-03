@@ -60,6 +60,7 @@
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.1...HEAD)
 
 - [ ] [<code>Install v0.25.1 by default</code>](https://github.com/stepchowfun/docuum/commit/0cf78cd26203f31e1ff76885efaea34ec0bb2b21)
+- [ ] [<code>Update Rust to v1.91.0</code>](https://github.com/stepchowfun/docuum/commit/37fd07e1e7eacfd21b429d4fa642b3581b61240b)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
