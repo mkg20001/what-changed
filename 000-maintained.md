@@ -86,6 +86,7 @@
 - [ ] [<code>refactor: Invite users when upgrading private room</code>](https://github.com/krille-chan/fluffychat/commit/3d73391aa5dee3140a926743fe574a0da393cc5f)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/38a1819e6b64f72cfe444ffc1b43b8d58cb27bfb)
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/bcc2f0c62f3a450a72b57555960780f77198f873)
+- [ ] [<code>feat: Implement polls</code>](https://github.com/krille-chan/fluffychat/commit/71fa853f054c9e444cae1dd7e1da87aeb80926a5)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -95,6 +96,7 @@
 - [ ] [<code>refactor: Invite users when upgrading private room</code>](https://github.com/krille-chan/fluffychat/commit/3d73391aa5dee3140a926743fe574a0da393cc5f)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/38a1819e6b64f72cfe444ffc1b43b8d58cb27bfb)
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/bcc2f0c62f3a450a72b57555960780f77198f873)
+- [ ] [<code>feat: Implement polls</code>](https://github.com/krille-chan/fluffychat/commit/71fa853f054c9e444cae1dd7e1da87aeb80926a5)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -354,6 +356,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Remove double line break</code>](https://github.com/lxc/incus/commit/7bc4a855f45da999556ecdc7919d1faadfceeb11)
 - [ ] [<code>incusd/instance/qmp: Don't log serial port changes</code>](https://github.com/lxc/incus/commit/88c2cbb05049dd43e435aafdb39632301ff15dc6)
 - [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
+- [ ] [<code>incusd/selinux: Add basic refpolicy support</code>](https://github.com/lxc/incus/commit/12b4464de963449ca06cad9d547761d92b003c82)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4263,6 +4266,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Remove double line break</code>](https://github.com/lxc/incus/commit/7bc4a855f45da999556ecdc7919d1faadfceeb11)
 - [ ] [<code>incusd/instance/qmp: Don't log serial port changes</code>](https://github.com/lxc/incus/commit/88c2cbb05049dd43e435aafdb39632301ff15dc6)
 - [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
+- [ ] [<code>incusd/selinux: Add basic refpolicy support</code>](https://github.com/lxc/incus/commit/12b4464de963449ca06cad9d547761d92b003c82)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
