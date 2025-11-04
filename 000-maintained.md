@@ -5204,6 +5204,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-199-nightly.</code>](https://github.com/netdata/netdata.git/commit/62ec51ad88cce2eb963490d69c35988ce36eba5d)
 - [ ] [<code>Format code - MSSQL (windows.plugin) (#21256)</code>](https://github.com/netdata/netdata.git/commit/17f5199bf44eee03b9b80bfe0f95ec51c70c8bcb)
 - [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.5 to 5.6.6 in /src/go (#21259)</code>](https://github.com/netdata/netdata.git/commit/b4e0e5ed7db713dacb1410e82073ef25fa627c1d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-202-nightly.</code>](https://github.com/netdata/netdata.git/commit/4b0364ba8c404441723fbb8974c01a02f541c99a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
