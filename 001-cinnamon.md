@@ -502,9 +502,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo/commit/032ce13a5a5f1edca811b367a27e8dcf31892afa)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>Fix an icon name (#3635)</code>](https://github.com/linuxmint/nemo/commit/8eec247afeb0240bf00eb0a7eaeb7101f0e1bd35)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
