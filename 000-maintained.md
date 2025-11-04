@@ -87,6 +87,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/38a1819e6b64f72cfe444ffc1b43b8d58cb27bfb)
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/bcc2f0c62f3a450a72b57555960780f77198f873)
 - [ ] [<code>feat: Implement polls</code>](https://github.com/krille-chan/fluffychat/commit/71fa853f054c9e444cae1dd7e1da87aeb80926a5)
+- [ ] [<code>chore: Update matrix sdk branch</code>](https://github.com/krille-chan/fluffychat/commit/174b5ec13cf33b826edd0839939795cd9cbfa4bf)
+- [ ] [<code>chore: Switch back to sdk main</code>](https://github.com/krille-chan/fluffychat/commit/401946970b86144098a528024ace59651b4767b3)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/73e897fb092d3ee88090b5278e5fdbc3b117584b)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/da56e0cffe6889c538fc035b1cdf60973702f6b4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -97,6 +101,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/38a1819e6b64f72cfe444ffc1b43b8d58cb27bfb)
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/bcc2f0c62f3a450a72b57555960780f77198f873)
 - [ ] [<code>feat: Implement polls</code>](https://github.com/krille-chan/fluffychat/commit/71fa853f054c9e444cae1dd7e1da87aeb80926a5)
+- [ ] [<code>chore: Update matrix sdk branch</code>](https://github.com/krille-chan/fluffychat/commit/174b5ec13cf33b826edd0839939795cd9cbfa4bf)
+- [ ] [<code>chore: Switch back to sdk main</code>](https://github.com/krille-chan/fluffychat/commit/401946970b86144098a528024ace59651b4767b3)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/73e897fb092d3ee88090b5278e5fdbc3b117584b)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/da56e0cffe6889c538fc035b1cdf60973702f6b4)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -357,6 +365,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Don't log serial port changes</code>](https://github.com/lxc/incus/commit/88c2cbb05049dd43e435aafdb39632301ff15dc6)
 - [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
 - [ ] [<code>incusd/selinux: Add basic refpolicy support</code>](https://github.com/lxc/incus/commit/12b4464de963449ca06cad9d547761d92b003c82)
+- [ ] [<code>client: Add GetEventsByType and GetEventsAllProjectsByType</code>](https://github.com/lxc/incus/commit/a1b6cd02604b3d0576e8c3cb853b3f6bb3ff90f9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4267,6 +4276,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Don't log serial port changes</code>](https://github.com/lxc/incus/commit/88c2cbb05049dd43e435aafdb39632301ff15dc6)
 - [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
 - [ ] [<code>incusd/selinux: Add basic refpolicy support</code>](https://github.com/lxc/incus/commit/12b4464de963449ca06cad9d547761d92b003c82)
+- [ ] [<code>client: Add GetEventsByType and GetEventsAllProjectsByType</code>](https://github.com/lxc/incus/commit/a1b6cd02604b3d0576e8c3cb853b3f6bb3ff90f9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4560,6 +4570,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cgroups: replace dup() call with openat_safe()</code>](https://github.com/lxc/lxcfs/commit/c503b12083d341095aa0e63b0ae80b58cfb1f1cf)
 - [ ] [<code>lxcfs: use macro to generate liblxcfs call helpers</code>](https://github.com/lxc/lxcfs/commit/82481b6a39062fa4cf74595c717abb7a47f655ef)
 - [ ] [<code>src/utils: fix in_same_namespace helper</code>](https://github.com/lxc/lxcfs/commit/af454ab8d4cf4c98b83e8519101e2cb21e4d9140)
+- [ ] [<code>proc_fuse: deduplicate read() handlers code for /proc/pressure files</code>](https://github.com/lxc/lxcfs/commit/282f2374948460d30a9328c788790eb2d1ea53c4)
+- [ ] [<code>bindings: add private_data field to struct file_info</code>](https://github.com/lxc/lxcfs/commit/d411fda7fac39a407f25011c906c7f9652d6ca9d)
+- [ ] [<code>lxcfs: wire up ->write callback for /proc</code>](https://github.com/lxc/lxcfs/commit/142b0cfe57e5d0e83a67036aee7da0abb486ff3c)
+- [ ] [<code>lxcfs: wire up ->poll callback for /proc</code>](https://github.com/lxc/lxcfs/commit/8fae19b23de9d0d70277bc87e86f024879d4d06e)
+- [ ] [<code>proc_fuse: move release/releasedir at the end</code>](https://github.com/lxc/lxcfs/commit/84ef19e424431a795bc97206dbd3af1f88675a80)
+- [ ] [<code>lxcfs: install noop signal handler for SIGRTMIN + 0</code>](https://github.com/lxc/lxcfs/commit/34d5daf679878011a3c210d6fbf4a5f235ed019d)
+- [ ] [<code>proc_fuse: add /proc/pressure/{cpu, io, memory} virtualization</code>](https://github.com/lxc/lxcfs/commit/f664a57fa748874e7c79302cf201d239935c0a36)
+- [ ] [<code>meson: add "mocks" option for CI/testing purposes</code>](https://github.com/lxc/lxcfs/commit/e7f5d062983f93424fee0dc6f0c8f7f20ac1b9e5)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>github: enable mocks for CI builds</code>](https://github.com/lxc/lxcfs/commit/e422b6428efe8c813d553779805721b2940e8e27)
+- [ ] [<code>tests: add /proc/pressure/* virtualization tests</code>](https://github.com/lxc/lxcfs/commit/39e4724f380d4eb3e51d03fcdeaa3696025bf210)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>lxcfs: add enable-psi-poll cmdline option</code>](https://github.com/lxc/lxcfs/commit/456047f344722a0df40224e582977cb7ba448ecc)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -5209,6 +5232,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Format code - MSSQL (windows.plugin) (#21256)</code>](https://github.com/netdata/netdata.git/commit/17f5199bf44eee03b9b80bfe0f95ec51c70c8bcb)
 - [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.5 to 5.6.6 in /src/go (#21259)</code>](https://github.com/netdata/netdata.git/commit/b4e0e5ed7db713dacb1410e82073ef25fa627c1d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-202-nightly.</code>](https://github.com/netdata/netdata.git/commit/4b0364ba8c404441723fbb8974c01a02f541c99a)
+- [ ] [<code>Additional tests to MSSQL (windows.plugin) (#21255)</code>](https://github.com/netdata/netdata.git/commit/34269aeeccd47938c8123ea53f80a90dee5d11d6)
+- [ ] [<code>Adjust page cache locking (#21240)</code>](https://github.com/netdata/netdata.git/commit/7d0a5ac4f3f32fe8a7f2859ebf8787fdbf198877)
+- [ ] [<code>chore(go.d): add shared dyncfg package (#21263)</code>](https://github.com/netdata/netdata.git/commit/04545dcb52612be795aab9d29fb7243cad6c584d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix tier check (#21248)</code>](https://github.com/netdata/netdata.git/commit/121789c0c7fe7f3d4ecb22fbe0e2d67faac1014d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7315,6 +7343,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Fixed ui settings getting erased on startup</code>](https://github.com/tribler/Tribler/commit/5f62d0141da6104e091330689d7c658ac841c2be)
 - [ ] [<code>Fixed ui settings getting erased on startup (#8804)</code>](https://github.com/tribler/Tribler/commit/46c43d83150f32d27260a0b7fe62c5c67fc983c1)
+- [ ] [<code>Fix unloaded settings crashing rss GUI element</code>](https://github.com/tribler/Tribler/commit/e318d8446626b480f97c7677ba7375658df2ecad)
+- [ ] [<code>Fixed OverflowError on set handle up/down limits</code>](https://github.com/tribler/Tribler/commit/d78cfa294920e6ffbac62ef1f76a1130b6bb58ae)
+- [ ] [<code>Set default non-dev log level to CRITICAL</code>](https://github.com/tribler/Tribler/commit/e021699aa8509dbad6a65e42766c4591adff2adf)
+- [ ] [<code>Make status bar up/down base 1000 instead of 1024</code>](https://github.com/tribler/Tribler/commit/03b54aea0f36f6d59ce21900e8fc23fc14b99c06)
+- [ ] [<code>Various fixes (#8805)</code>](https://github.com/tribler/Tribler/commit/1ecab5d10480e55eefe2cf07fd193b9cdb911b6d)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
