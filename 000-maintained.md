@@ -105,6 +105,10 @@
 - [ ] [<code>chore: Follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/64e7c7e9f637e6be03d58a3a8649c0645f9fe78f)
 - [ ] [<code>chore: Follow up thread design</code>](https://github.com/krille-chan/fluffychat/commit/4786778449988a0969ac370a403b00a6df7fc8ae)
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/715f9ed68cfafcad8276056341c84951ac5a3967)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/28ea59230cc4947765d57dd302eed5f0aca5431a)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/1654af97351267df8fec645ead20a2e6409891a0)
+- [ ] [<code>chore: Improve bottomsheet text input</code>](https://github.com/krille-chan/fluffychat/commit/6f059b8b5dab68f6ecb1a79575519c241a2def77)
+- [ ] [<code>chore: Update versions</code>](https://github.com/krille-chan/fluffychat/commit/06e4b28e6fc05c20a5b4e07cdab653c4ff93df8f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -133,6 +137,10 @@
 - [ ] [<code>chore: Follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/64e7c7e9f637e6be03d58a3a8649c0645f9fe78f)
 - [ ] [<code>chore: Follow up thread design</code>](https://github.com/krille-chan/fluffychat/commit/4786778449988a0969ac370a403b00a6df7fc8ae)
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/715f9ed68cfafcad8276056341c84951ac5a3967)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/28ea59230cc4947765d57dd302eed5f0aca5431a)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/1654af97351267df8fec645ead20a2e6409891a0)
+- [ ] [<code>chore: Improve bottomsheet text input</code>](https://github.com/krille-chan/fluffychat/commit/6f059b8b5dab68f6ecb1a79575519c241a2def77)
+- [ ] [<code>chore: Update versions</code>](https://github.com/krille-chan/fluffychat/commit/06e4b28e6fc05c20a5b4e07cdab653c4ff93df8f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -399,6 +407,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/lifecycle: Fix project prefix in volume name</code>](https://github.com/lxc/incus/commit/e8e97906fa4f65ef4b424fef0063aadb205a3d94)
 - [ ] [<code>incusd/cluster: Use server name instead of IP</code>](https://github.com/lxc/incus/commit/5ca55ac3ac7f0f58217707d17b94a0e43010ab85)
 - [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
+- [ ] [<code>incusd/storage_volumes: Better handle bad patterns</code>](https://github.com/lxc/incus/commit/982ad95923ae3a4439e80485c9ea2a0b49005a83)
 - [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
@@ -4314,6 +4323,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/lifecycle: Fix project prefix in volume name</code>](https://github.com/lxc/incus/commit/e8e97906fa4f65ef4b424fef0063aadb205a3d94)
 - [ ] [<code>incusd/cluster: Use server name instead of IP</code>](https://github.com/lxc/incus/commit/5ca55ac3ac7f0f58217707d17b94a0e43010ab85)
 - [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
+- [ ] [<code>incusd/storage_volumes: Better handle bad patterns</code>](https://github.com/lxc/incus/commit/982ad95923ae3a4439e80485c9ea2a0b49005a83)
 - [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
@@ -4399,6 +4409,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Check creationTime only if LLONG_MAX > UINT64_MAX</code>](https://github.com/AOMediaCodec/libavif/commit/37ff3889b7b0b4ca34d708dc5bb5d0ef240d821d)
 - [ ] [<code>Use ninja to build dav1d (#2888)</code>](https://github.com/AOMediaCodec/libavif/commit/457193d9b960a673fe82a50252bc6475aab151cf)
 - [ ] [<code>Avoid issue AOMediaCodec/libavif#2886</code>](https://github.com/AOMediaCodec/libavif/commit/f3345b56cd3add557ee657b3e88467e110d604fd)
+- [ ] [<code>Add flags for clli in avifgainmaputil (#2881)</code>](https://github.com/AOMediaCodec/libavif/commit/c0b92dee253f8b39f25ea150abddb3ff9e1ad1f5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4554,6 +4565,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>config/apparmor/abstractions: Drop manually generated container-base file</code>](https://github.com/lxc/lxc/commit/f3ff31e58ac11de9b13cef9bdcf019a5ec2642b5)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update lxc.spec.in to use meson</code>](https://github.com/lxc/lxc/commit/c81e03eb69e10b50a51ec854067bd7995e553b44)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5277,6 +5290,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix tier check (#21248)</code>](https://github.com/netdata/netdata.git/commit/121789c0c7fe7f3d4ecb22fbe0e2d67faac1014d)
 - [ ] [<code>Fix aral race condition (#21258)</code>](https://github.com/netdata/netdata.git/commit/424f937df36c7e1c4c92136c8f5fc2bbfe1dd612)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-208-nightly.</code>](https://github.com/netdata/netdata.git/commit/0bb53926f37c36afd330ffb1a79fca51e4068e0c)
+- [ ] [<code>Update documentation to reflect SOC 2 Type 2 certification (#21265)</code>](https://github.com/netdata/netdata.git/commit/643eb6018b7a80996b6ea20b3c82fef4363fe270)
+- [ ] [<code>Improve agent startup (#21260)</code>](https://github.com/netdata/netdata.git/commit/71c7e44206ce757a930b17f018a533189d0d3f23)
+- [ ] [<code>Add missing modulo operator to alerts (#21267)</code>](https://github.com/netdata/netdata.git/commit/244dbe37f611810f225ff5b4658a690c6753f6e6)
+- [ ] [<code>Improve websocket thread shutdown (#21264)</code>](https://github.com/netdata/netdata.git/commit/679a0e26bc88bf87e3e0fa393cc0d619bd293f74)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
