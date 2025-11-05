@@ -93,6 +93,18 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/da56e0cffe6889c538fc035b1cdf60973702f6b4)
 - [ ] [<code>feat: Implement threads</code>](https://github.com/krille-chan/fluffychat/commit/380625327a18625280b7c2443586101ed4437eac)
 - [ ] [<code>chore: follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/36e875aede058ddcf0e3c22f5bb159421aba1ee3)
+- [ ] [<code>chore: Follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/39bdc34eb942f79343491bcc1baa182f0bf4383f)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c78e715dfa96df56b5f72817d2a2a4eba0e316ae)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/9c3591305740ced4bf9ada33bdac87e2bc66db4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/71618d2e07cd6ca5f833b4cd9cfd2adb23f0431b)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/a74b22f5ec66deb0506c2bfc6ebd1a61eb60fada)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c518f470db8aeac1134cc4d7628eb5e7d426657a)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/139b7ff5bdc4d7d950165abbcd6bef06bdb2d45b)
+- [ ] [<code>chore: Follow up threads design</code>](https://github.com/krille-chan/fluffychat/commit/1884149be128bf7eddac5f8f17afb976fa6b4a83)
+- [ ] [<code>chore: Hide pinned events in thread</code>](https://github.com/krille-chan/fluffychat/commit/402031787316579f6db7ddb0a3747ff81891f51e)
+- [ ] [<code>chore: Follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/64e7c7e9f637e6be03d58a3a8649c0645f9fe78f)
+- [ ] [<code>chore: Follow up thread design</code>](https://github.com/krille-chan/fluffychat/commit/4786778449988a0969ac370a403b00a6df7fc8ae)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/715f9ed68cfafcad8276056341c84951ac5a3967)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -109,11 +121,25 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/da56e0cffe6889c538fc035b1cdf60973702f6b4)
 - [ ] [<code>feat: Implement threads</code>](https://github.com/krille-chan/fluffychat/commit/380625327a18625280b7c2443586101ed4437eac)
 - [ ] [<code>chore: follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/36e875aede058ddcf0e3c22f5bb159421aba1ee3)
+- [ ] [<code>chore: Follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/39bdc34eb942f79343491bcc1baa182f0bf4383f)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c78e715dfa96df56b5f72817d2a2a4eba0e316ae)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/9c3591305740ced4bf9ada33bdac87e2bc66db4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/71618d2e07cd6ca5f833b4cd9cfd2adb23f0431b)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/a74b22f5ec66deb0506c2bfc6ebd1a61eb60fada)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c518f470db8aeac1134cc4d7628eb5e7d426657a)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/139b7ff5bdc4d7d950165abbcd6bef06bdb2d45b)
+- [ ] [<code>chore: Follow up threads design</code>](https://github.com/krille-chan/fluffychat/commit/1884149be128bf7eddac5f8f17afb976fa6b4a83)
+- [ ] [<code>chore: Hide pinned events in thread</code>](https://github.com/krille-chan/fluffychat/commit/402031787316579f6db7ddb0a3747ff81891f51e)
+- [ ] [<code>chore: Follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/64e7c7e9f637e6be03d58a3a8649c0645f9fe78f)
+- [ ] [<code>chore: Follow up thread design</code>](https://github.com/krille-chan/fluffychat/commit/4786778449988a0969ac370a403b00a6df7fc8ae)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/715f9ed68cfafcad8276056341c84951ac5a3967)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter332 - no appropriate URL found OrderedDict({'attr_path': 'flutter332', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+
+> Dropped flutter338 - no appropriate URL found OrderedDict({'attr_path': 'flutter338', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
@@ -373,6 +399,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/lifecycle: Fix project prefix in volume name</code>](https://github.com/lxc/incus/commit/e8e97906fa4f65ef4b424fef0063aadb205a3d94)
 - [ ] [<code>incusd/cluster: Use server name instead of IP</code>](https://github.com/lxc/incus/commit/5ca55ac3ac7f0f58217707d17b94a0e43010ab85)
 - [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
+- [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4287,6 +4314,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/lifecycle: Fix project prefix in volume name</code>](https://github.com/lxc/incus/commit/e8e97906fa4f65ef4b424fef0063aadb205a3d94)
 - [ ] [<code>incusd/cluster: Use server name instead of IP</code>](https://github.com/lxc/incus/commit/5ca55ac3ac7f0f58217707d17b94a0e43010ab85)
 - [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
+- [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -7265,6 +7293,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(android): show value for sliders</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ede5c24cf265ba2c4c2b98f1efb112560335f8a)
 - [ ] [<code>fix(lib): missed unknown byte in a3947 state update packet parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/94bf3c2cbb459fc5e91268924c0367184544a5ee)
 - [ ] [<code>test(lib): add basic a3947 test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ac13e96bbb4e6a3cbc3e93a633cf6f9003dff13)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): fix test failing when change plan is empty</code>](https://github.com/Oppzippy/OpenSCQ30/commit/54afc18d4d304bad6dd3d4711e558c295c5a2905)
+- [ ] [<code>fix(lib): disable hearid when modifying equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/01b581d709d4ae4b23a207559f63731b4a49df4b)
+- [ ] [<code>fix(lib): a3947 set eq packet ignoring hear id enabled</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9ace4812552337f2c97fba0b68d358ab587b529)
   - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
