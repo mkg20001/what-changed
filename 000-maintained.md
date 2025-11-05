@@ -91,6 +91,8 @@
 - [ ] [<code>chore: Switch back to sdk main</code>](https://github.com/krille-chan/fluffychat/commit/401946970b86144098a528024ace59651b4767b3)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/73e897fb092d3ee88090b5278e5fdbc3b117584b)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/da56e0cffe6889c538fc035b1cdf60973702f6b4)
+- [ ] [<code>feat: Implement threads</code>](https://github.com/krille-chan/fluffychat/commit/380625327a18625280b7c2443586101ed4437eac)
+- [ ] [<code>chore: follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/36e875aede058ddcf0e3c22f5bb159421aba1ee3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -105,6 +107,8 @@
 - [ ] [<code>chore: Switch back to sdk main</code>](https://github.com/krille-chan/fluffychat/commit/401946970b86144098a528024ace59651b4767b3)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/73e897fb092d3ee88090b5278e5fdbc3b117584b)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/da56e0cffe6889c538fc035b1cdf60973702f6b4)
+- [ ] [<code>feat: Implement threads</code>](https://github.com/krille-chan/fluffychat/commit/380625327a18625280b7c2443586101ed4437eac)
+- [ ] [<code>chore: follow up threads</code>](https://github.com/krille-chan/fluffychat/commit/36e875aede058ddcf0e3c22f5bb159421aba1ee3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -366,6 +370,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
 - [ ] [<code>incusd/selinux: Add basic refpolicy support</code>](https://github.com/lxc/incus/commit/12b4464de963449ca06cad9d547761d92b003c82)
 - [ ] [<code>client: Add GetEventsByType and GetEventsAllProjectsByType</code>](https://github.com/lxc/incus/commit/a1b6cd02604b3d0576e8c3cb853b3f6bb3ff90f9)
+- [ ] [<code>incusd/lifecycle: Fix project prefix in volume name</code>](https://github.com/lxc/incus/commit/e8e97906fa4f65ef4b424fef0063aadb205a3d94)
+- [ ] [<code>incusd/cluster: Use server name instead of IP</code>](https://github.com/lxc/incus/commit/5ca55ac3ac7f0f58217707d17b94a0e43010ab85)
+- [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4277,6 +4284,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/disk: Skip VirtioFS Posix ACLs on Windows</code>](https://github.com/lxc/incus/commit/72f338b94564ea9049df6569ae5e349ce308be19)
 - [ ] [<code>incusd/selinux: Add basic refpolicy support</code>](https://github.com/lxc/incus/commit/12b4464de963449ca06cad9d547761d92b003c82)
 - [ ] [<code>client: Add GetEventsByType and GetEventsAllProjectsByType</code>](https://github.com/lxc/incus/commit/a1b6cd02604b3d0576e8c3cb853b3f6bb3ff90f9)
+- [ ] [<code>incusd/lifecycle: Fix project prefix in volume name</code>](https://github.com/lxc/incus/commit/e8e97906fa4f65ef4b424fef0063aadb205a3d94)
+- [ ] [<code>incusd/cluster: Use server name instead of IP</code>](https://github.com/lxc/incus/commit/5ca55ac3ac7f0f58217707d17b94a0e43010ab85)
+- [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5237,6 +5247,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): add shared dyncfg package (#21263)</code>](https://github.com/netdata/netdata.git/commit/04545dcb52612be795aab9d29fb7243cad6c584d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix tier check (#21248)</code>](https://github.com/netdata/netdata.git/commit/121789c0c7fe7f3d4ecb22fbe0e2d67faac1014d)
+- [ ] [<code>Fix aral race condition (#21258)</code>](https://github.com/netdata/netdata.git/commit/424f937df36c7e1c4c92136c8f5fc2bbfe1dd612)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-208-nightly.</code>](https://github.com/netdata/netdata.git/commit/0bb53926f37c36afd330ffb1a79fca51e4068e0c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
