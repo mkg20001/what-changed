@@ -18,7 +18,7 @@
 - [ ] [<code>refactor: remove unused semaphore 'stopped' from cowsql_node structure</code>](https://github.com/cowsql/cowsql/commit/8e73441c0e68d1cb602e2dbc0cc3f26f20eecd8e)
 - [ ] [<code>refactor: replace semaphores, mutexes, conditions and threads with uv equivalents</code>](https://github.com/cowsql/cowsql/commit/a27e21b9d15e46f6b64b2e94aee165ae492f158c)
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.3/dbeaver-ce-25.2.3-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.3/dbeaver-ce-25.2.3-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -4420,6 +4420,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use ninja to build dav1d (#2888)</code>](https://github.com/AOMediaCodec/libavif/commit/457193d9b960a673fe82a50252bc6475aab151cf)
 - [ ] [<code>Avoid issue AOMediaCodec/libavif#2886</code>](https://github.com/AOMediaCodec/libavif/commit/f3345b56cd3add557ee657b3e88467e110d604fd)
 - [ ] [<code>Add flags for clli in avifgainmaputil (#2881)</code>](https://github.com/AOMediaCodec/libavif/commit/c0b92dee253f8b39f25ea150abddb3ff9e1ad1f5)
+- [ ] [<code>Call aom_codec_peek_stream_info() for size limit (#2893)</code>](https://github.com/AOMediaCodec/libavif/commit/892f1725f25ec3b1bfe2212170a5bd7a30b24919)
+- [ ] [<code>Assert `sample` not null on entry to getNextImage</code>](https://github.com/AOMediaCodec/libavif/commit/bc727fffef4d99b9de9b3ebacafb6c5efcb4a800)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5306,6 +5308,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve websocket thread shutdown (#21264)</code>](https://github.com/netdata/netdata.git/commit/679a0e26bc88bf87e3e0fa393cc0d619bd293f74)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-213-nightly.</code>](https://github.com/netdata/netdata.git/commit/8cb4d11f7cc95992f033d9b188a886546cb04798)
 - [ ] [<code>build(deps): bump github.com/docker/docker from 28.5.1+incompatible to 28.5.2+incompatible in /src/go (#21268)</code>](https://github.com/netdata/netdata.git/commit/301bd3b6b127e2f4127e76f0cdab11dc5e0b59de)
+- [ ] [<code>Security and Privacy (#21271)</code>](https://github.com/netdata/netdata.git/commit/c5fc60bffd3e40542f4eae2edf28b26e8b4ffd90)
+- [ ] [<code>improve(go.d/sd/pipeline): add `services` config (#21269)</code>](https://github.com/netdata/netdata.git/commit/9e729508770c4bbe7c221bae882611938c9834f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(go.d/sd): make module optional in the template (#21273)</code>](https://github.com/netdata/netdata.git/commit/b21e0b251bb180c49685d307ca87a69d83cc10ea)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
