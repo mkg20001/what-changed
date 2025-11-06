@@ -5294,6 +5294,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve agent startup (#21260)</code>](https://github.com/netdata/netdata.git/commit/71c7e44206ce757a930b17f018a533189d0d3f23)
 - [ ] [<code>Add missing modulo operator to alerts (#21267)</code>](https://github.com/netdata/netdata.git/commit/244dbe37f611810f225ff5b4658a690c6753f6e6)
 - [ ] [<code>Improve websocket thread shutdown (#21264)</code>](https://github.com/netdata/netdata.git/commit/679a0e26bc88bf87e3e0fa393cc0d619bd293f74)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-213-nightly.</code>](https://github.com/netdata/netdata.git/commit/8cb4d11f7cc95992f033d9b188a886546cb04798)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
