@@ -109,6 +109,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/1654af97351267df8fec645ead20a2e6409891a0)
 - [ ] [<code>chore: Improve bottomsheet text input</code>](https://github.com/krille-chan/fluffychat/commit/6f059b8b5dab68f6ecb1a79575519c241a2def77)
 - [ ] [<code>chore: Update versions</code>](https://github.com/krille-chan/fluffychat/commit/06e4b28e6fc05c20a5b4e07cdab653c4ff93df8f)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/61a650875229a83ded4c6530eb397e29177c009a)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/8bd786e00035147ec156cda637026dd1ed68eb71)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/6465202037fe1114f8e6c0ad880a5ff0109abe4a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -141,6 +145,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/1654af97351267df8fec645ead20a2e6409891a0)
 - [ ] [<code>chore: Improve bottomsheet text input</code>](https://github.com/krille-chan/fluffychat/commit/6f059b8b5dab68f6ecb1a79575519c241a2def77)
 - [ ] [<code>chore: Update versions</code>](https://github.com/krille-chan/fluffychat/commit/06e4b28e6fc05c20a5b4e07cdab653c4ff93df8f)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/61a650875229a83ded4c6530eb397e29177c009a)
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/8bd786e00035147ec156cda637026dd1ed68eb71)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/6465202037fe1114f8e6c0ad880a5ff0109abe4a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -409,6 +417,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
 - [ ] [<code>incusd/storage_volumes: Better handle bad patterns</code>](https://github.com/lxc/incus/commit/982ad95923ae3a4439e80485c9ea2a0b49005a83)
 - [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
+- [ ] [<code>incusd/apparmor/lxc: Don't bother with sys/proc protections when nesting enabled</code>](https://github.com/lxc/incus/commit/1fbe4bffb9748cc3b07aaf5db310d463c1e827d0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4325,6 +4334,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/generate-database/db: Fix create/update with composite keys</code>](https://github.com/lxc/incus/commit/0b88deda2fdc8044bb071bf236e5acd08a5d564d)
 - [ ] [<code>incusd/storage_volumes: Better handle bad patterns</code>](https://github.com/lxc/incus/commit/982ad95923ae3a4439e80485c9ea2a0b49005a83)
 - [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
+- [ ] [<code>incusd/apparmor/lxc: Don't bother with sys/proc protections when nesting enabled</code>](https://github.com/lxc/incus/commit/1fbe4bffb9748cc3b07aaf5db310d463c1e827d0)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5295,6 +5305,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add missing modulo operator to alerts (#21267)</code>](https://github.com/netdata/netdata.git/commit/244dbe37f611810f225ff5b4658a690c6753f6e6)
 - [ ] [<code>Improve websocket thread shutdown (#21264)</code>](https://github.com/netdata/netdata.git/commit/679a0e26bc88bf87e3e0fa393cc0d619bd293f74)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-213-nightly.</code>](https://github.com/netdata/netdata.git/commit/8cb4d11f7cc95992f033d9b188a886546cb04798)
+- [ ] [<code>build(deps): bump github.com/docker/docker from 28.5.1+incompatible to 28.5.2+incompatible in /src/go (#21268)</code>](https://github.com/netdata/netdata.git/commit/301bd3b6b127e2f4127e76f0cdab11dc5e0b59de)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
