@@ -236,6 +236,9 @@
 - [ ] [<code>scrollbar-test-widget.glade: add a heading for the gibberish.</code>](https://github.com/linuxmint/cinnamon/commit/c554915829b6ca451be985f25687c21e586dec58)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>virtualKeyboard.js: remove setCursorLocation handler, add fade in/out</code>](https://github.com/linuxmint/cinnamon/commit/c8afc034e8a6d7f1c44856087bf6d1ee0109fedf)
+- [ ] [<code>photoframe@cinnamon.org: Fix aspect ratio issues, potential blocking,</code>](https://github.com/linuxmint/cinnamon/commit/3d57bc7cbc9410b9a05a5c43447d690731e1f44f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>st-texture-cache.c: Don't try to access pixbuf if there was an</code>](https://github.com/linuxmint/cinnamon/commit/26c1ba4e09240b9183cf4c7cd598c050ea4f0641)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
