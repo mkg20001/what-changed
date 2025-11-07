@@ -418,6 +418,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_volumes: Better handle bad patterns</code>](https://github.com/lxc/incus/commit/982ad95923ae3a4439e80485c9ea2a0b49005a83)
 - [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
 - [ ] [<code>incusd/apparmor/lxc: Don't bother with sys/proc protections when nesting enabled</code>](https://github.com/lxc/incus/commit/1fbe4bffb9748cc3b07aaf5db310d463c1e827d0)
+- [ ] [<code>incusd/acme: Handle HTTPS proxies</code>](https://github.com/lxc/incus/commit/38742467fc5442e7ea82cc076975e3b4262b1d6f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4335,6 +4336,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_volumes: Better handle bad patterns</code>](https://github.com/lxc/incus/commit/982ad95923ae3a4439e80485c9ea2a0b49005a83)
 - [ ] [<code>client: Omit trailing ? for /events without query parameters</code>](https://github.com/lxc/incus/commit/63cbaa5b3abedc8d40e04363f77f5e9dcf29c5fb)
 - [ ] [<code>incusd/apparmor/lxc: Don't bother with sys/proc protections when nesting enabled</code>](https://github.com/lxc/incus/commit/1fbe4bffb9748cc3b07aaf5db310d463c1e827d0)
+- [ ] [<code>incusd/acme: Handle HTTPS proxies</code>](https://github.com/lxc/incus/commit/38742467fc5442e7ea82cc076975e3b4262b1d6f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5313,6 +5315,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(go.d/sd): make module optional in the template (#21273)</code>](https://github.com/netdata/netdata.git/commit/b21e0b251bb180c49685d307ca87a69d83cc10ea)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-218-nightly.</code>](https://github.com/netdata/netdata.git/commit/a4512cfc2a0a018498478f6ad5768b24c539f4f9)
+- [ ] [<code>Compute timestamps needed for status file (#21272)</code>](https://github.com/netdata/netdata.git/commit/3d39146e569235a035fda3107fc2c55ce46ba0bb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
