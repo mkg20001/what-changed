@@ -5312,6 +5312,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(go.d/sd/pipeline): add `services` config (#21269)</code>](https://github.com/netdata/netdata.git/commit/9e729508770c4bbe7c221bae882611938c9834f2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(go.d/sd): make module optional in the template (#21273)</code>](https://github.com/netdata/netdata.git/commit/b21e0b251bb180c49685d307ca87a69d83cc10ea)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-218-nightly.</code>](https://github.com/netdata/netdata.git/commit/a4512cfc2a0a018498478f6ad5768b24c539f4f9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
