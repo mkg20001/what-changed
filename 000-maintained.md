@@ -113,6 +113,19 @@
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/8bd786e00035147ec156cda637026dd1ed68eb71)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/6465202037fe1114f8e6c0ad880a5ff0109abe4a)
+- [ ] [<code>build: (deps): bump go_router from 16.3.0 to 17.0.0</code>](https://github.com/krille-chan/fluffychat/commit/bac25d07f815f310ad155a0eca3d9185e0c66f79)
+- [ ] [<code>chore(translations): Added translation using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/021c4a6b2fe5b6492e7609d51e38963048595a96)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/76c85d3902a01ddb45a26f3c6ddca4f189cd5dde)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/f02e2826e5104171d4cccc1a2d77742ebf72eeab)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/1e6ac977ff6449613f51e727b19924563bc6fbd5)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/fb91bee453fe804fac7dc4d41920ac62ac02dbf3)
+- [ ] [<code>chore: Update android locale config</code>](https://github.com/krille-chan/fluffychat/commit/72907a64c4410e473bac261ed21646a4fada9f5d)
+- [ ] [<code>build: Use secure storage from pub.dev again</code>](https://github.com/krille-chan/fluffychat/commit/a2c88af69b09c363babd68a5a5a48bee1a35ff2b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Switch back to stable web auth package</code>](https://github.com/krille-chan/fluffychat/commit/5ed33122b8251930f84cda7da71380a86a5e67bf)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Scroll to unread thread if last message is from a thread</code>](https://github.com/krille-chan/fluffychat/commit/97fe704f5a395f983070b01caae0712a8bfd01ce)
+- [ ] [<code>chore: Follow up threads in chat list</code>](https://github.com/krille-chan/fluffychat/commit/71ba074e7d124af16eb437ea6a082084faf78f77)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -149,6 +162,19 @@
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/8bd786e00035147ec156cda637026dd1ed68eb71)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/6465202037fe1114f8e6c0ad880a5ff0109abe4a)
+- [ ] [<code>build: (deps): bump go_router from 16.3.0 to 17.0.0</code>](https://github.com/krille-chan/fluffychat/commit/bac25d07f815f310ad155a0eca3d9185e0c66f79)
+- [ ] [<code>chore(translations): Added translation using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/021c4a6b2fe5b6492e7609d51e38963048595a96)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/76c85d3902a01ddb45a26f3c6ddca4f189cd5dde)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/f02e2826e5104171d4cccc1a2d77742ebf72eeab)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/1e6ac977ff6449613f51e727b19924563bc6fbd5)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/fb91bee453fe804fac7dc4d41920ac62ac02dbf3)
+- [ ] [<code>chore: Update android locale config</code>](https://github.com/krille-chan/fluffychat/commit/72907a64c4410e473bac261ed21646a4fada9f5d)
+- [ ] [<code>build: Use secure storage from pub.dev again</code>](https://github.com/krille-chan/fluffychat/commit/a2c88af69b09c363babd68a5a5a48bee1a35ff2b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Switch back to stable web auth package</code>](https://github.com/krille-chan/fluffychat/commit/5ed33122b8251930f84cda7da71380a86a5e67bf)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Scroll to unread thread if last message is from a thread</code>](https://github.com/krille-chan/fluffychat/commit/97fe704f5a395f983070b01caae0712a8bfd01ce)
+- [ ] [<code>chore: Follow up threads in chat list</code>](https://github.com/krille-chan/fluffychat/commit/71ba074e7d124af16eb437ea6a082084faf78f77)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4424,6 +4450,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add flags for clli in avifgainmaputil (#2881)</code>](https://github.com/AOMediaCodec/libavif/commit/c0b92dee253f8b39f25ea150abddb3ff9e1ad1f5)
 - [ ] [<code>Call aom_codec_peek_stream_info() for size limit (#2893)</code>](https://github.com/AOMediaCodec/libavif/commit/892f1725f25ec3b1bfe2212170a5bd7a30b24919)
 - [ ] [<code>Assert `sample` not null on entry to getNextImage</code>](https://github.com/AOMediaCodec/libavif/commit/bc727fffef4d99b9de9b3ebacafb6c5efcb4a800)
+- [ ] [<code>Implement avifRGBImagePremultiplyAlpha GRAYA,AGRAY</code>](https://github.com/AOMediaCodec/libavif/commit/a4da7e172b91a35f3b7ddcb4ba20ab97dd18ad0f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5316,6 +5343,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/sd): make module optional in the template (#21273)</code>](https://github.com/netdata/netdata.git/commit/b21e0b251bb180c49685d307ca87a69d83cc10ea)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-218-nightly.</code>](https://github.com/netdata/netdata.git/commit/a4512cfc2a0a018498478f6ad5768b24c539f4f9)
 - [ ] [<code>Compute timestamps needed for status file (#21272)</code>](https://github.com/netdata/netdata.git/commit/3d39146e569235a035fda3107fc2c55ce46ba0bb)
+- [ ] [<code>Detect netdata CLI initialization failure (#21275)</code>](https://github.com/netdata/netdata.git/commit/22da870f90d2b36e15a1720b38d0fc375742420b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7337,6 +7365,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): disable hearid when modifying equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/01b581d709d4ae4b23a207559f63731b4a49df4b)
 - [ ] [<code>fix(lib): a3947 set eq packet ignoring hear id enabled</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9ace4812552337f2c97fba0b68d358ab587b529)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): fix a3947 and a3948 respecting button enabled flag</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d23ee18cb3d0fd36de353213a51bc289b6c0dc2)
+- [ ] [<code>fix(lib): a3945 incorrect button configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/440df34a0b9853d040341284034fe126ef3689db)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7476,6 +7506,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>socket: fix `recv()` incorrectly reporting unrelated errors</code>](https://github.com/jow-/ucode/commit/e8a7290e55c0fd8cee2dc55c22fc45a93028ea68)
 - [ ] [<code>socket: fix convertion of hw addresses to ucode strings</code>](https://github.com/jow-/ucode/commit/ddde611fb9d4a40db52d192fddf0f870f6b7ba04)
 - [ ] [<code>vm: make sure uc_vm_insn_to_name() always returns a value</code>](https://github.com/jow-/ucode/commit/924ccc95be32a99e2c0e7590d755635c2a6bf9f2)
+- [ ] [<code>lexer: fix parsing \xHH and \0OOO escape sequences</code>](https://github.com/jow-/ucode/commit/754590d26f23dd0ef8d5d41cc84fe222a514c154)
+- [ ] [<code>fs: add dup2() function</code>](https://github.com/jow-/ucode/commit/623f550e579a008b30621e6ed52fc9c8ef846ba6)
+- [ ] [<code>fs: add mkdtemp() method for creating temporary directories</code>](https://github.com/jow-/ucode/commit/6c9385a99eddd2a4931fbd62616a8920c50b7dc9)
+- [ ] [<code>fs: reset errno to zero in get_fd()</code>](https://github.com/jow-/ucode/commit/ea579046a619e5325b994780bf2ce1ffde448794)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
