@@ -239,7 +239,19 @@
 - [ ] [<code>photoframe@cinnamon.org: Fix aspect ratio issues, potential blocking,</code>](https://github.com/linuxmint/cinnamon/commit/3d57bc7cbc9410b9a05a5c43447d690731e1f44f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>st-texture-cache.c: Don't try to access pixbuf if there was an</code>](https://github.com/linuxmint/cinnamon/commit/26c1ba4e09240b9183cf4c7cd598c050ea4f0641)
+- [ ] [<code>environment.js: Backport some fixes to easing wrappers.</code>](https://github.com/linuxmint/cinnamon/commit/bb719abb98ef5c654e5b4b9551fe4a62f824dc6f)
+- [ ] [<code>alt-tab: Use easing instead of Tweener.</code>](https://github.com/linuxmint/cinnamon/commit/9b85d06108f311c8186011b5ac83b12c8bcd17bf)
+- [ ] [<code>various: Use easing instead of Tweener.</code>](https://github.com/linuxmint/cinnamon/commit/bfc07827eb1437dcd73ea2cadadd1aff34d74983)
+- [ ] [<code>applets, desklets: Use easing instead of Tweener.</code>](https://github.com/linuxmint/cinnamon/commit/c88fadf5a538a42b606e980eaa5bbfa2e49a9fd1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>misc: Cleanup unused js imports, tween/effect settings, obsolete</code>](https://github.com/linuxmint/cinnamon/commit/c6fb575e072f9674e84e0fe67ee595e39c2969a4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>windowManager.js: Remove sec->ms conversions for easing durations,</code>](https://github.com/linuxmint/cinnamon/commit/44eb9d7b4c459a013651b4d69ca8a82919154c97)
+- [ ] [<code>menu: Show special categories at the bottom</code>](https://github.com/linuxmint/cinnamon/commit/a4d73545c49aea11f750af7baa6a70bbb426394b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Switch category icons to XSI</code>](https://github.com/linuxmint/cinnamon/commit/532aebfaaa2669818ba26968d374e71a56239df9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
