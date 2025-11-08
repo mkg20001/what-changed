@@ -5344,6 +5344,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-218-nightly.</code>](https://github.com/netdata/netdata.git/commit/a4512cfc2a0a018498478f6ad5768b24c539f4f9)
 - [ ] [<code>Compute timestamps needed for status file (#21272)</code>](https://github.com/netdata/netdata.git/commit/3d39146e569235a035fda3107fc2c55ce46ba0bb)
 - [ ] [<code>Detect netdata CLI initialization failure (#21275)</code>](https://github.com/netdata/netdata.git/commit/22da870f90d2b36e15a1720b38d0fc375742420b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-221-nightly.</code>](https://github.com/netdata/netdata.git/commit/661d38bb9bc2fc6cf73a029f183e47d8443737a8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7367,6 +7368,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): fix a3947 and a3948 respecting button enabled flag</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d23ee18cb3d0fd36de353213a51bc289b6c0dc2)
 - [ ] [<code>fix(lib): a3945 incorrect button configuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/440df34a0b9853d040341284034fe126ef3689db)
+- [ ] [<code>tools/soundcore-device-faker: add a3035</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5239c46b12df939f94e5675513f3491505e3e621)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: fix broken link</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1361bd03782e6906813d20525af422ae1d6b28b)
+- [ ] [<code>docs: fix link display text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/40d6e2f3a28b756b53b23bdb2bf272ff0965a212)
+- [ ] [<code>test(lib): fix incorrect DeviceModel supplied in a3947 tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b30aa0433d2e293015238dc2559ee6ed793c5e1f)
+- [ ] [<code>test(lib): add a3947 set sound modes test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/96c9a64c898d39671bc4913c505070b1befb631a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>deps(gui): update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a21e50f19d5118ed6d2b24c342bf060f492c020)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/330fdc6b1805d391699fa52d299e9a563ba466e1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
