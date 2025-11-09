@@ -222,6 +222,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/apparmor/lxc: Don't bother with sys/proc protections when nesting enabled</code>](https://github.com/lxc/incus/commit/1fbe4bffb9748cc3b07aaf5db310d463c1e827d0)
 - [ ] [<code>incusd/acme: Handle HTTPS proxies</code>](https://github.com/lxc/incus/commit/38742467fc5442e7ea82cc076975e3b4262b1d6f)
 - [ ] [<code>incusd: Fix lifecycle events being emited on pending entities</code>](https://github.com/lxc/incus/commit/ad9fc087908bf7955bb42b8a0323a71a57815486)
+- [ ] [<code>incusd/network: Fix vlan/parent modification on physical uplink</code>](https://github.com/lxc/incus/commit/f02931f0570bd5bc2776dc874545d883d1f007cc)
+- [ ] [<code>incus/list: Add option for raw units in CSV output</code>](https://github.com/lxc/incus/commit/93242595f846aee9350867fc5f65274581484aba)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4141,6 +4144,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/apparmor/lxc: Don't bother with sys/proc protections when nesting enabled</code>](https://github.com/lxc/incus/commit/1fbe4bffb9748cc3b07aaf5db310d463c1e827d0)
 - [ ] [<code>incusd/acme: Handle HTTPS proxies</code>](https://github.com/lxc/incus/commit/38742467fc5442e7ea82cc076975e3b4262b1d6f)
 - [ ] [<code>incusd: Fix lifecycle events being emited on pending entities</code>](https://github.com/lxc/incus/commit/ad9fc087908bf7955bb42b8a0323a71a57815486)
+- [ ] [<code>incusd/network: Fix vlan/parent modification on physical uplink</code>](https://github.com/lxc/incus/commit/f02931f0570bd5bc2776dc874545d883d1f007cc)
+- [ ] [<code>incus/list: Add option for raw units in CSV output</code>](https://github.com/lxc/incus/commit/93242595f846aee9350867fc5f65274581484aba)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -7164,6 +7170,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(lib): add support for a3040</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0b584e575b4baefc2bb6fab664887cd76e9e1ebd)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: v2.0.0-beta5</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08e3d6b6cd8f2aa776c974e2fce9027411e2f04e)
+  - <sub>Tags: <code>v2.0.0-beta5</code></sub>
+- [ ] [<code>docs: update supported devices in readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/af4ade07f3527e62199ca9e12df3102c53a65f25)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
