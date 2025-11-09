@@ -5124,6 +5124,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Detect netdata CLI initialization failure (#21275)</code>](https://github.com/netdata/netdata.git/commit/22da870f90d2b36e15a1720b38d0fc375742420b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-221-nightly.</code>](https://github.com/netdata/netdata.git/commit/661d38bb9bc2fc6cf73a029f183e47d8443737a8)
 - [ ] [<code>doc: add SNMP to snmp profile format doc title (#21277)</code>](https://github.com/netdata/netdata.git/commit/ba03621843d2217d5d55a6878da1f592e28eba9f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-223-nightly.</code>](https://github.com/netdata/netdata.git/commit/5eb9d924f233cfc8555683bafe0e4b9d25662ba2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7159,6 +7160,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tools/soundcore-device-faker: add a3040</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86135932ae4059e90ea6aaa0df812b33e73dee7d)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8a50c4bbe588fb7bd388c2fbc296efc2152a197)
+- [ ] [<code>fix(lib): incorrect endianness</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1e09750b8abfb05fe777edc60c12e58df161daf9)
+- [ ] [<code>feat(lib): add support for a3040</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0b584e575b4baefc2bb6fab664887cd76e9e1ebd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: v2.0.0-beta5</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08e3d6b6cd8f2aa776c974e2fce9027411e2f04e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
