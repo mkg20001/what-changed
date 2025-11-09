@@ -126,6 +126,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Scroll to unread thread if last message is from a thread</code>](https://github.com/krille-chan/fluffychat/commit/97fe704f5a395f983070b01caae0712a8bfd01ce)
 - [ ] [<code>chore: Follow up threads in chat list</code>](https://github.com/krille-chan/fluffychat/commit/71ba074e7d124af16eb437ea6a082084faf78f77)
+- [ ] [<code>refactor: Improved UIA support for OIDC and SSO</code>](https://github.com/krille-chan/fluffychat/commit/20dc024922225fa9d33a7bca000f9edcec9a4431)
+- [ ] [<code>chore: Use correct endpoint for auth</code>](https://github.com/krille-chan/fluffychat/commit/1d53b180b6dd3d5559c6406d8210fcd5ef37e7a6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -175,6 +177,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Scroll to unread thread if last message is from a thread</code>](https://github.com/krille-chan/fluffychat/commit/97fe704f5a395f983070b01caae0712a8bfd01ce)
 - [ ] [<code>chore: Follow up threads in chat list</code>](https://github.com/krille-chan/fluffychat/commit/71ba074e7d124af16eb437ea6a082084faf78f77)
+- [ ] [<code>refactor: Improved UIA support for OIDC and SSO</code>](https://github.com/krille-chan/fluffychat/commit/20dc024922225fa9d33a7bca000f9edcec9a4431)
+- [ ] [<code>chore: Use correct endpoint for auth</code>](https://github.com/krille-chan/fluffychat/commit/1d53b180b6dd3d5559c6406d8210fcd5ef37e7a6)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -223,6 +227,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/acme: Handle HTTPS proxies</code>](https://github.com/lxc/incus/commit/38742467fc5442e7ea82cc076975e3b4262b1d6f)
 - [ ] [<code>incusd: Fix lifecycle events being emited on pending entities</code>](https://github.com/lxc/incus/commit/ad9fc087908bf7955bb42b8a0323a71a57815486)
 - [ ] [<code>incusd/network: Fix vlan/parent modification on physical uplink</code>](https://github.com/lxc/incus/commit/f02931f0570bd5bc2776dc874545d883d1f007cc)
+- [ ] [<code>incus: Include admin os command on non-Linux pltforms</code>](https://github.com/lxc/incus/commit/d029351fb9d2e6951ff58ecf8b1f3d515cc3bb15)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update incus-osd dependency</code>](https://github.com/lxc/incus/commit/d05842f628b428936aa6f5b4b0018555efe7f4eb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/657bc5987a74adaada33e20c292f32238ddbbb75)
 - [ ] [<code>incus/list: Add option for raw units in CSV output</code>](https://github.com/lxc/incus/commit/93242595f846aee9350867fc5f65274581484aba)
   - <sub>Keywords: <code>command</code></sub>
 
@@ -4145,6 +4154,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/acme: Handle HTTPS proxies</code>](https://github.com/lxc/incus/commit/38742467fc5442e7ea82cc076975e3b4262b1d6f)
 - [ ] [<code>incusd: Fix lifecycle events being emited on pending entities</code>](https://github.com/lxc/incus/commit/ad9fc087908bf7955bb42b8a0323a71a57815486)
 - [ ] [<code>incusd/network: Fix vlan/parent modification on physical uplink</code>](https://github.com/lxc/incus/commit/f02931f0570bd5bc2776dc874545d883d1f007cc)
+- [ ] [<code>incus: Include admin os command on non-Linux pltforms</code>](https://github.com/lxc/incus/commit/d029351fb9d2e6951ff58ecf8b1f3d515cc3bb15)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>gomod: Update incus-osd dependency</code>](https://github.com/lxc/incus/commit/d05842f628b428936aa6f5b4b0018555efe7f4eb)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/657bc5987a74adaada33e20c292f32238ddbbb75)
 - [ ] [<code>incus/list: Add option for raw units in CSV output</code>](https://github.com/lxc/incus/commit/93242595f846aee9350867fc5f65274581484aba)
   - <sub>Keywords: <code>command</code></sub>
 
@@ -7172,6 +7186,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: v2.0.0-beta5</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08e3d6b6cd8f2aa776c974e2fce9027411e2f04e)
   - <sub>Tags: <code>v2.0.0-beta5</code></sub>
 - [ ] [<code>docs: update supported devices in readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/af4ade07f3527e62199ca9e12df3102c53a65f25)
+- [ ] [<code>docs: remove ROADMAP.md since it is outdated</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11ee2e812a1493e77abc94f887f80480c96674cc)
+- [ ] [<code>build: delete old release files in sign-release script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6499eefcee0f2164dab38bdd42d9d7b85ca8bc8)
+- [ ] [<code>ci: validate appstream metainfo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9e340e9c869263ff268d051f110c24fecc29f135)
+- [ ] [<code>feat(lib): add case battery level</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8c05c331cbb4e22de416ad36e6aceb9c0b742b47)
+- [ ] [<code>feat(lib): add gaming mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b776f305da0a8d7e888a93a3a19f7ba305343e21)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib)!: rename GameMode button action to GamingMode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7d2730f957b934ac69aef4321800e8472e052585)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
