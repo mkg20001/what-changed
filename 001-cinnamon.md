@@ -250,8 +250,15 @@
 - [ ] [<code>menu: Show special categories at the bottom</code>](https://github.com/linuxmint/cinnamon/commit/a4d73545c49aea11f750af7baa6a70bbb426394b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>menu: Switch category icons to XSI</code>](https://github.com/linuxmint/cinnamon/commit/532aebfaaa2669818ba26968d374e71a56239df9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>chore: Rename 'Linux Kernel' to 'Kernel' in system info (#12980)</code>](https://github.com/linuxmint/cinnamon/commit/1884fee62be0e37f53aac319d5aa2c20b072f6c8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cs_user.py: allow current_password to be blank(#12981) (#13027)</code>](https://github.com/linuxmint/cinnamon/commit/929ce335a5de52d3f53043b3d856f38cad7f24ae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: fix volume icon toggle to restore last volume when muted using the icon. (#13054)</code>](https://github.com/linuxmint/cinnamon/commit/c42e4d92fee1eeb4814705ba5389c8d1770bbf9c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>popupMenu.js: In PopupSliderMenuItem, only clicks on the slider</code>](https://github.com/linuxmint/cinnamon/commit/428924c665a0915e29c4c210bc04912a560b3f9d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -372,6 +379,8 @@
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
 
+- [ ] [<code>do not change folder modification time (#38)</code>](https://github.com/linuxmint/folder-color-switcher/commit/ecb4f388aa4881bc4817d0e99aa64c52d696842f)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
 > Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz', 'https://web.archive.org/web/20250807131013/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -425,6 +434,11 @@
 - [ ] [<code>Add symbolic link for Code - OSS (#502)</code>](https://github.com/linuxmint/mint-y-icons/commit/697e864428a882aaca0d4b1f05ac7a8873a90cd8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>update Godot game engine icon (#507)</code>](https://github.com/linuxmint/mint-y-icons/commit/bb921a123c21ce89a5bf6015256ea7a77d64bf7c)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix incorrect linkings of the Terminal icon in symbolic-apps-list (#503)</code>](https://github.com/linuxmint/mint-y-icons/commit/0079eb3db944f9849ec34ab6f1b96101f7ef70fa)
+- [ ] [<code>update FontForge icon (#512)</code>](https://github.com/linuxmint/mint-y-icons/commit/5304d00393ff2736948b0a1ee2f06b1a351f3733)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add Teams icon (#513)</code>](https://github.com/linuxmint/mint-y-icons/commit/3a73e46f53b0606912695ee256be8fe31bc45b6f)
   - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
