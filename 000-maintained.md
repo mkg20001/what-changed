@@ -126,8 +126,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Scroll to unread thread if last message is from a thread</code>](https://github.com/krille-chan/fluffychat/commit/97fe704f5a395f983070b01caae0712a8bfd01ce)
 - [ ] [<code>chore: Follow up threads in chat list</code>](https://github.com/krille-chan/fluffychat/commit/71ba074e7d124af16eb437ea6a082084faf78f77)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/365a82cd7591edafc1c81419a64e9831baa30f80)
 - [ ] [<code>refactor: Improved UIA support for OIDC and SSO</code>](https://github.com/krille-chan/fluffychat/commit/20dc024922225fa9d33a7bca000f9edcec9a4431)
 - [ ] [<code>chore: Use correct endpoint for auth</code>](https://github.com/krille-chan/fluffychat/commit/1d53b180b6dd3d5559c6406d8210fcd5ef37e7a6)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/73bc621b210dcfd58b5b2d996ece37abc3c11137)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -177,8 +179,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Scroll to unread thread if last message is from a thread</code>](https://github.com/krille-chan/fluffychat/commit/97fe704f5a395f983070b01caae0712a8bfd01ce)
 - [ ] [<code>chore: Follow up threads in chat list</code>](https://github.com/krille-chan/fluffychat/commit/71ba074e7d124af16eb437ea6a082084faf78f77)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/365a82cd7591edafc1c81419a64e9831baa30f80)
 - [ ] [<code>refactor: Improved UIA support for OIDC and SSO</code>](https://github.com/krille-chan/fluffychat/commit/20dc024922225fa9d33a7bca000f9edcec9a4431)
 - [ ] [<code>chore: Use correct endpoint for auth</code>](https://github.com/krille-chan/fluffychat/commit/1d53b180b6dd3d5559c6406d8210fcd5ef37e7a6)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/73bc621b210dcfd58b5b2d996ece37abc3c11137)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -236,6 +240,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage: Fix sparse writer performance</code>](https://github.com/lxc/incus/commit/6c41923f05f52f43fd9c464af649779846f9cb0b)
 - [ ] [<code>incus-migrate: Write in 4MB chunks</code>](https://github.com/lxc/incus/commit/fd867bd05871be8518c02fa763561400a3c2d450)
+- [ ] [<code>incus-migrate: Strict error checking</code>](https://github.com/lxc/incus/commit/e86e1d0ad04782dd71226f481e0989685df64305)
+- [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
+- [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4165,6 +4172,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage: Fix sparse writer performance</code>](https://github.com/lxc/incus/commit/6c41923f05f52f43fd9c464af649779846f9cb0b)
 - [ ] [<code>incus-migrate: Write in 4MB chunks</code>](https://github.com/lxc/incus/commit/fd867bd05871be8518c02fa763561400a3c2d450)
+- [ ] [<code>incus-migrate: Strict error checking</code>](https://github.com/lxc/incus/commit/e86e1d0ad04782dd71226f481e0989685df64305)
+- [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
+- [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
