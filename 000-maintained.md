@@ -243,6 +243,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus-migrate: Strict error checking</code>](https://github.com/lxc/incus/commit/e86e1d0ad04782dd71226f481e0989685df64305)
 - [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
 - [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
+- [ ] [<code>incusd/patches: Fix incorrect error check in permission patch</code>](https://github.com/lxc/incus/commit/27232680a75f5c96bae1f39dc085b7e59b882815)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4175,6 +4176,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus-migrate: Strict error checking</code>](https://github.com/lxc/incus/commit/e86e1d0ad04782dd71226f481e0989685df64305)
 - [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
 - [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
+- [ ] [<code>incusd/patches: Fix incorrect error check in permission patch</code>](https://github.com/lxc/incus/commit/27232680a75f5c96bae1f39dc085b7e59b882815)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5161,6 +5163,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-223-nightly.</code>](https://github.com/netdata/netdata.git/commit/5eb9d924f233cfc8555683bafe0e4b9d25662ba2)
 - [ ] [<code>build(deps): bump golang.org/x/sync from 0.17.0 to 0.18.0 in /src/go (#21278)</code>](https://github.com/netdata/netdata.git/commit/ea601f7352ff17c080bc718374c536a55c10615a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-225-nightly.</code>](https://github.com/netdata/netdata.git/commit/ebe4225ede08620f417f7fe2c4d6e3951e9d1a2e)
+- [ ] [<code>Add openSUSE Tumbleweed to CI and package builds. (#21276)</code>](https://github.com/netdata/netdata.git/commit/57f463f771e4334b830ff72cd5fe0b03dff67110)
+- [ ] [<code>MSSQL Replication - Publisher (Windows.plugin) (#21235)</code>](https://github.com/netdata/netdata.git/commit/f204e245c6ef1516aa6f90821734283d2caa4228)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Initialize reusable buffers when streaming ML to parent (#21279)</code>](https://github.com/netdata/netdata.git/commit/257d073607e69476c6b4bde05f7bb804b83c3cce)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7366,6 +7372,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fs: add dup2() function</code>](https://github.com/jow-/ucode/commit/623f550e579a008b30621e6ed52fc9c8ef846ba6)
 - [ ] [<code>fs: add mkdtemp() method for creating temporary directories</code>](https://github.com/jow-/ucode/commit/6c9385a99eddd2a4931fbd62616a8920c50b7dc9)
 - [ ] [<code>fs: reset errno to zero in get_fd()</code>](https://github.com/jow-/ucode/commit/ea579046a619e5325b994780bf2ce1ffde448794)
+- [ ] [<code>examples/execute-file: free program</code>](https://github.com/jow-/ucode/commit/8567eef4d3a5becd7cb8402e4e896c128d84af48)
+- [ ] [<code>examples: free syntax_error</code>](https://github.com/jow-/ucode/commit/292e0f87cbf7bb5de67d407ebe5bd5971d7ac2a0)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
