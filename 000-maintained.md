@@ -234,6 +234,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/657bc5987a74adaada33e20c292f32238ddbbb75)
 - [ ] [<code>incus/list: Add option for raw units in CSV output</code>](https://github.com/lxc/incus/commit/93242595f846aee9350867fc5f65274581484aba)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage: Fix sparse writer performance</code>](https://github.com/lxc/incus/commit/6c41923f05f52f43fd9c464af649779846f9cb0b)
+- [ ] [<code>incus-migrate: Write in 4MB chunks</code>](https://github.com/lxc/incus/commit/fd867bd05871be8518c02fa763561400a3c2d450)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4161,6 +4163,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/657bc5987a74adaada33e20c292f32238ddbbb75)
 - [ ] [<code>incus/list: Add option for raw units in CSV output</code>](https://github.com/lxc/incus/commit/93242595f846aee9350867fc5f65274581484aba)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage: Fix sparse writer performance</code>](https://github.com/lxc/incus/commit/6c41923f05f52f43fd9c464af649779846f9cb0b)
+- [ ] [<code>incus-migrate: Write in 4MB chunks</code>](https://github.com/lxc/incus/commit/fd867bd05871be8518c02fa763561400a3c2d450)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5145,6 +5149,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-221-nightly.</code>](https://github.com/netdata/netdata.git/commit/661d38bb9bc2fc6cf73a029f183e47d8443737a8)
 - [ ] [<code>doc: add SNMP to snmp profile format doc title (#21277)</code>](https://github.com/netdata/netdata.git/commit/ba03621843d2217d5d55a6878da1f592e28eba9f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-223-nightly.</code>](https://github.com/netdata/netdata.git/commit/5eb9d924f233cfc8555683bafe0e4b9d25662ba2)
+- [ ] [<code>build(deps): bump golang.org/x/sync from 0.17.0 to 0.18.0 in /src/go (#21278)</code>](https://github.com/netdata/netdata.git/commit/ea601f7352ff17c080bc718374c536a55c10615a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-225-nightly.</code>](https://github.com/netdata/netdata.git/commit/ebe4225ede08620f417f7fe2c4d6e3951e9d1a2e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7193,6 +7199,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(lib): add gaming mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b776f305da0a8d7e888a93a3a19f7ba305343e21)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib)!: rename GameMode button action to GamingMode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7d2730f957b934ac69aef4321800e8472e052585)
+- [ ] [<code>refactor(lib): replace gaming mode module with generic flags module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/36612f5d85e99fd9be75367d6cba767c70e1881e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): use flag module for touch tone</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8f94b574d489ae759370b3330ff0db355fd697a0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): merge flag struct modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08b11b7bd5da41c4e75be6d5d409ee5be0d5f01f)
+- [ ] [<code>refactor(lib): use Flag trait and macro for consistency</code>](https://github.com/Oppzippy/OpenSCQ30/commit/183faa369bd4c595860b4eeae09ead2271e8ee6f)
+- [ ] [<code>feat(lib): add a3947 flags</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5a85e8a3fcadc1e9ded6f5426cc296294f616a6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add a3959 gaming mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/26ed1430dfa0bac18a7059bd9a8f09172f5525d7)
+- [ ] [<code>feat(lib): add wearing detection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f90a0451c7be46d030102e6e3fb2e1bdca9a8e3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(cli): update snapshot test with new settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d1a820315612f5d22085604daa98c5a34adb42b)
+- [ ] [<code>tools/soundcore-device-faker: add a3330</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d42a816f7d41f0ff010db8168ef0428dc38d9fcd)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
