@@ -8,6 +8,9 @@
 - [ ] [<code>github: improve CI build</code>](https://git.openwrt.org/project/libubox.git/commit/9caf555f00e23c0e467c77ac86ae6cefd4e76053)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/libubox.git/commit/e357be611cd9deb280c61bbdf331f5a85e75a485)
+- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/libubox.git/commit/5b11fb18dc0523bb9c1c37af66edfed1aa0d79bb)
+- [ ] [<code>libubox: add a simple build script</code>](https://git.openwrt.org/project/libubox.git/commit/17143f94dcbfef20d55afab783deb0e24cf67f15)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
