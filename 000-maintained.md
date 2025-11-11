@@ -130,6 +130,8 @@
 - [ ] [<code>refactor: Improved UIA support for OIDC and SSO</code>](https://github.com/krille-chan/fluffychat/commit/20dc024922225fa9d33a7bca000f9edcec9a4431)
 - [ ] [<code>chore: Use correct endpoint for auth</code>](https://github.com/krille-chan/fluffychat/commit/1d53b180b6dd3d5559c6406d8210fcd5ef37e7a6)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/73bc621b210dcfd58b5b2d996ece37abc3c11137)
+- [ ] [<code>build: (deps): bump http from 1.5.0 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/d1bbde841488d1536f100fdd35d87e579ee93130)
+- [ ] [<code>fix: Possible database corruption cause by allow multiple instances</code>](https://github.com/krille-chan/fluffychat/commit/0d7807bed3100fb0a59d9d10103efe8d6497dba1)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -183,6 +185,8 @@
 - [ ] [<code>refactor: Improved UIA support for OIDC and SSO</code>](https://github.com/krille-chan/fluffychat/commit/20dc024922225fa9d33a7bca000f9edcec9a4431)
 - [ ] [<code>chore: Use correct endpoint for auth</code>](https://github.com/krille-chan/fluffychat/commit/1d53b180b6dd3d5559c6406d8210fcd5ef37e7a6)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/73bc621b210dcfd58b5b2d996ece37abc3c11137)
+- [ ] [<code>build: (deps): bump http from 1.5.0 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/d1bbde841488d1536f100fdd35d87e579ee93130)
+- [ ] [<code>fix: Possible database corruption cause by allow multiple instances</code>](https://github.com/krille-chan/fluffychat/commit/0d7807bed3100fb0a59d9d10103efe8d6497dba1)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -244,6 +248,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
 - [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
 - [ ] [<code>incusd/patches: Fix incorrect error check in permission patch</code>](https://github.com/lxc/incus/commit/27232680a75f5c96bae1f39dc085b7e59b882815)
+- [ ] [<code>incusd/instance/qemu: Fix macOS agent</code>](https://github.com/lxc/incus/commit/3b1f39835d871c72d3679eff5c89b57422d78d3b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4177,6 +4184,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
 - [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
 - [ ] [<code>incusd/patches: Fix incorrect error check in permission patch</code>](https://github.com/lxc/incus/commit/27232680a75f5c96bae1f39dc085b7e59b882815)
+- [ ] [<code>incusd/instance/qemu: Fix macOS agent</code>](https://github.com/lxc/incus/commit/3b1f39835d871c72d3679eff5c89b57422d78d3b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5170,6 +5180,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve forced new datafile on startup (#21282)</code>](https://github.com/netdata/netdata.git/commit/bc1ae857129ce6db04039d498ba2bf36836a74cc)
 - [ ] [<code>Adjust tier retention calculation (#21280)</code>](https://github.com/netdata/netdata.git/commit/7ccb6d56bda2e280a5368ebd9980adc160e7a64c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-231-nightly.</code>](https://github.com/netdata/netdata.git/commit/eec98046edc1198ac1ed5049cc209621670d0438)
+- [ ] [<code>Regenerate integrations docs (#21284)</code>](https://github.com/netdata/netdata.git/commit/0279f6486e77741d112457b80fafcf9507b77461)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
