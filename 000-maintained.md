@@ -132,6 +132,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/73bc621b210dcfd58b5b2d996ece37abc3c11137)
 - [ ] [<code>build: (deps): bump http from 1.5.0 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/d1bbde841488d1536f100fdd35d87e579ee93130)
 - [ ] [<code>fix: Possible database corruption cause by allow multiple instances</code>](https://github.com/krille-chan/fluffychat/commit/0d7807bed3100fb0a59d9d10103efe8d6497dba1)
+- [ ] [<code>Revert "fix: Possible database corruption cause by allow multiple instances"</code>](https://github.com/krille-chan/fluffychat/commit/582797b5f60755037cc573a663b5ee545f257f8e)
+- [ ] [<code>fix: Database corruption because notification tab isolate starts too late</code>](https://github.com/krille-chan/fluffychat/commit/92fcfacfc4863037305a1109610aaa8030633dfa)
+- [ ] [<code>chore: set main isolate port even earlier</code>](https://github.com/krille-chan/fluffychat/commit/ae11d5b47f121e95c4b43d2ea566ba5b18191455)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -187,6 +190,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/73bc621b210dcfd58b5b2d996ece37abc3c11137)
 - [ ] [<code>build: (deps): bump http from 1.5.0 to 1.6.0</code>](https://github.com/krille-chan/fluffychat/commit/d1bbde841488d1536f100fdd35d87e579ee93130)
 - [ ] [<code>fix: Possible database corruption cause by allow multiple instances</code>](https://github.com/krille-chan/fluffychat/commit/0d7807bed3100fb0a59d9d10103efe8d6497dba1)
+- [ ] [<code>Revert "fix: Possible database corruption cause by allow multiple instances"</code>](https://github.com/krille-chan/fluffychat/commit/582797b5f60755037cc573a663b5ee545f257f8e)
+- [ ] [<code>fix: Database corruption because notification tab isolate starts too late</code>](https://github.com/krille-chan/fluffychat/commit/92fcfacfc4863037305a1109610aaa8030633dfa)
+- [ ] [<code>chore: set main isolate port even earlier</code>](https://github.com/krille-chan/fluffychat/commit/ae11d5b47f121e95c4b43d2ea566ba5b18191455)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -251,6 +257,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Fix macOS agent</code>](https://github.com/lxc/incus/commit/3b1f39835d871c72d3679eff5c89b57422d78d3b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
+- [ ] [<code>incusd/api: Refresh OIDC on changes to oidc.scopes</code>](https://github.com/lxc/incus/commit/63bf93505a0ce39f70959427efde98489e920907)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4187,6 +4194,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Fix macOS agent</code>](https://github.com/lxc/incus/commit/3b1f39835d871c72d3679eff5c89b57422d78d3b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
+- [ ] [<code>incusd/api: Refresh OIDC on changes to oidc.scopes</code>](https://github.com/lxc/incus/commit/63bf93505a0ce39f70959427efde98489e920907)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5182,6 +5190,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-231-nightly.</code>](https://github.com/netdata/netdata.git/commit/eec98046edc1198ac1ed5049cc209621670d0438)
 - [ ] [<code>Regenerate integrations docs (#21284)</code>](https://github.com/netdata/netdata.git/commit/0279f6486e77741d112457b80fafcf9507b77461)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Report failures to update native packages. (#21144)</code>](https://github.com/netdata/netdata.git/commit/2afffd0d640bf66968f00673d87cebc29a2a9af3)
+- [ ] [<code>Update our user/group account handling to use sysusers.d when possible. (#21162)</code>](https://github.com/netdata/netdata.git/commit/3f1133942468730c3a5a151fc5076fe131c80e82)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Additional check when executing a CLI command (#21286)</code>](https://github.com/netdata/netdata.git/commit/e5fec516863f8b6244fa477df084012ff781657a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Always set ephemerality label with the correct value (#21274)</code>](https://github.com/netdata/netdata.git/commit/127eb95badcadb49db048315215b83680e4e7254)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
