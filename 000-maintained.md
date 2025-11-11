@@ -5167,6 +5167,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>MSSQL Replication - Publisher (Windows.plugin) (#21235)</code>](https://github.com/netdata/netdata.git/commit/f204e245c6ef1516aa6f90821734283d2caa4228)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Initialize reusable buffers when streaming ML to parent (#21279)</code>](https://github.com/netdata/netdata.git/commit/257d073607e69476c6b4bde05f7bb804b83c3cce)
+- [ ] [<code>Improve forced new datafile on startup (#21282)</code>](https://github.com/netdata/netdata.git/commit/bc1ae857129ce6db04039d498ba2bf36836a74cc)
+- [ ] [<code>Adjust tier retention calculation (#21280)</code>](https://github.com/netdata/netdata.git/commit/7ccb6d56bda2e280a5368ebd9980adc160e7a64c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-231-nightly.</code>](https://github.com/netdata/netdata.git/commit/eec98046edc1198ac1ed5049cc209621670d0438)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
