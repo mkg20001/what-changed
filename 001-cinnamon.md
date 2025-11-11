@@ -258,7 +258,12 @@
 - [ ] [<code>sound applet: fix volume icon toggle to restore last volume when muted using the icon. (#13054)</code>](https://github.com/linuxmint/cinnamon/commit/c42e4d92fee1eeb4814705ba5389c8d1770bbf9c)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>popupMenu.js: In PopupSliderMenuItem, only clicks on the slider</code>](https://github.com/linuxmint/cinnamon/commit/428924c665a0915e29c4c210bc04912a560b3f9d)
+- [ ] [<code>_ibus-popup.scss: Do not darken un-selected candidates (#13191)</code>](https://github.com/linuxmint/cinnamon/commit/d358d1546cdab6e9614d0ab1d73ab84b489cc6a6)
+- [ ] [<code>st-texture-cache: add can_load_mime_type() method and use it in</code>](https://github.com/linuxmint/cinnamon/commit/84bbb6b93f501b1fb898b96f2a30a928b51937af)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>nm-applet: make visible multiple active vpn connection (#12930)</code>](https://github.com/linuxmint/cinnamon/commit/38b4360e9fac701fac019a5093e6710bb2bf3a6b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -422,6 +427,7 @@
 - [ ] [<code>Mint-Y: small fix for cinnamon keyboard.</code>](https://github.com/linuxmint/mint-themes/commit/35a509d46d0b105da1236e4ae4d3b6ace4d3f2a8)
 - [ ] [<code>Mint-X: Fix jumpiness when browsing applications in the new menu.</code>](https://github.com/linuxmint/mint-themes/commit/2c87a9126575be80b2c75b27fe0e952d63101c3d)
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-themes/commit/6261a9fe4d3d5ed223c1d4664211e371d0b8079a)
+- [ ] [<code>Mint-Y - Don't darken unselected ibus candidates.</code>](https://github.com/linuxmint/mint-themes/commit/c31db2aa95403e86cde7f265259542ce70b9c8eb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.4...HEAD)
@@ -610,6 +616,10 @@
 
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
 
+- [ ] [<code>Add new submodules</code>](https://github.com/linuxmint/python-xapp/commit/7c68e16bc9fbe1f7bf0c4e82060e1fc6b98278ca)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
 
