@@ -262,8 +262,11 @@
 - [ ] [<code>st-texture-cache: add can_load_mime_type() method and use it in</code>](https://github.com/linuxmint/cinnamon/commit/84bbb6b93f501b1fb898b96f2a30a928b51937af)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>nm-applet: make visible multiple active vpn connection (#12930)</code>](https://github.com/linuxmint/cinnamon/commit/38b4360e9fac701fac019a5093e6710bb2bf3a6b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: Fix systemBox reparenting warnings at startup.</code>](https://github.com/linuxmint/cinnamon/commit/0aae4bce22865bf7b2288938f25bf85981362ee5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-global.c: Add the capability to print the js stack when a</code>](https://github.com/linuxmint/cinnamon/commit/6e2f11e36de246130f542c2bd0665a8020ac642b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
