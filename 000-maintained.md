@@ -5197,6 +5197,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Additional check when executing a CLI command (#21286)</code>](https://github.com/netdata/netdata.git/commit/e5fec516863f8b6244fa477df084012ff781657a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Always set ephemerality label with the correct value (#21274)</code>](https://github.com/netdata/netdata.git/commit/127eb95badcadb49db048315215b83680e4e7254)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-237-nightly.</code>](https://github.com/netdata/netdata.git/commit/a66c68c45a0d716bdf2ded050ab3873429854a35)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
