@@ -135,6 +135,12 @@
 - [ ] [<code>Revert "fix: Possible database corruption cause by allow multiple instances"</code>](https://github.com/krille-chan/fluffychat/commit/582797b5f60755037cc573a663b5ee545f257f8e)
 - [ ] [<code>fix: Database corruption because notification tab isolate starts too late</code>](https://github.com/krille-chan/fluffychat/commit/92fcfacfc4863037305a1109610aaa8030633dfa)
 - [ ] [<code>chore: set main isolate port even earlier</code>](https://github.com/krille-chan/fluffychat/commit/ae11d5b47f121e95c4b43d2ea566ba5b18191455)
+- [ ] [<code>build: (deps): bump video_player from 2.10.0 to 2.10.1</code>](https://github.com/krille-chan/fluffychat/commit/741224209e5067610449d7f1df98cb558baae685)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.3 to 10.3.6</code>](https://github.com/krille-chan/fluffychat/commit/4f37d8e8ff2bb36439f6b6beb9cfd0fc1fa54587)
+- [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/b7e112a22464b2085639f3c170af6a681c7f8dfa)
+- [ ] [<code>chore: Follow up notification action isolate handling</code>](https://github.com/krille-chan/fluffychat/commit/3c049211ca9c789c5861a4f81483f6d053ad0002)
+- [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/4f3629ccf4ec4288614ad28b497c32f2b14ae19d)
+  - <sub>Tags: <code>rc2.3.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -193,6 +199,12 @@
 - [ ] [<code>Revert "fix: Possible database corruption cause by allow multiple instances"</code>](https://github.com/krille-chan/fluffychat/commit/582797b5f60755037cc573a663b5ee545f257f8e)
 - [ ] [<code>fix: Database corruption because notification tab isolate starts too late</code>](https://github.com/krille-chan/fluffychat/commit/92fcfacfc4863037305a1109610aaa8030633dfa)
 - [ ] [<code>chore: set main isolate port even earlier</code>](https://github.com/krille-chan/fluffychat/commit/ae11d5b47f121e95c4b43d2ea566ba5b18191455)
+- [ ] [<code>build: (deps): bump video_player from 2.10.0 to 2.10.1</code>](https://github.com/krille-chan/fluffychat/commit/741224209e5067610449d7f1df98cb558baae685)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.3 to 10.3.6</code>](https://github.com/krille-chan/fluffychat/commit/4f37d8e8ff2bb36439f6b6beb9cfd0fc1fa54587)
+- [ ] [<code>chore: Follow up notification actions</code>](https://github.com/krille-chan/fluffychat/commit/b7e112a22464b2085639f3c170af6a681c7f8dfa)
+- [ ] [<code>chore: Follow up notification action isolate handling</code>](https://github.com/krille-chan/fluffychat/commit/3c049211ca9c789c5861a4f81483f6d053ad0002)
+- [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/4f3629ccf4ec4288614ad28b497c32f2b14ae19d)
+  - <sub>Tags: <code>rc2.3.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
