@@ -4295,6 +4295,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Call aom_codec_peek_stream_info() for size limit (#2893)</code>](https://github.com/AOMediaCodec/libavif/commit/892f1725f25ec3b1bfe2212170a5bd7a30b24919)
 - [ ] [<code>Assert `sample` not null on entry to getNextImage</code>](https://github.com/AOMediaCodec/libavif/commit/bc727fffef4d99b9de9b3ebacafb6c5efcb4a800)
 - [ ] [<code>Implement avifRGBImagePremultiplyAlpha GRAYA,AGRAY</code>](https://github.com/AOMediaCodec/libavif/commit/a4da7e172b91a35f3b7ddcb4ba20ab97dd18ad0f)
+- [ ] [<code>Fix dav1d build on oss-fuzz (#2896)</code>](https://github.com/AOMediaCodec/libavif/commit/d4fae6e8b654f6bf3afd425586f0d44ee39f055a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5211,6 +5212,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Always set ephemerality label with the correct value (#21274)</code>](https://github.com/netdata/netdata.git/commit/127eb95badcadb49db048315215b83680e4e7254)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-237-nightly.</code>](https://github.com/netdata/netdata.git/commit/a66c68c45a0d716bdf2ded050ab3873429854a35)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Installation Update (#21292)</code>](https://github.com/netdata/netdata.git/commit/4ee5e169165f4b39bb5cafe8ceac9f70eb44c1e9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5945,6 +5947,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>subprocess</code> <code>dependency</code></sub>
 - [ ] [<code>doc: fix link to 'Set up WSL on Windows' to fix linkcheck CI</code>](https://github.com/canonical/netplan/commit/c1565a03b8cf726f197e7c1754bc63e886ef3e39)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Ensure netplan directory creation is idempotent</code>](https://github.com/canonical/netplan/commit/02191fdbcf9fb23bd1961e271e70f03a7ca8c7be)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7273,6 +7276,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(cli): update snapshot test with new settings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d1a820315612f5d22085604daa98c5a34adb42b)
 - [ ] [<code>tools/soundcore-device-faker: add a3330</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d42a816f7d41f0ff010db8168ef0428dc38d9fcd)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: fix weblate merge conflict</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cfd75fb807c26dec8a83a344ce5fd479a8052968)
+- [ ] [<code>chore: merge weblate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20965abcb7a026569b2185b3b199ce03d22f0a5f)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
