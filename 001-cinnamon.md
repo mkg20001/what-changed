@@ -274,8 +274,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>po/POTFILES.in: Update for new and removed files, have makepot</code>](https://github.com/linuxmint/cinnamon/commit/3a88a182f75172304da72c17e8490a843a3f8f9e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>misc: remove needless filter method in expoThumbnail (#12933)</code>](https://github.com/linuxmint/cinnamon/commit/7c0275da2adc8a78792ed6ff254997997e909b83)
+- [ ] [<code>Fix only showing printer applet "while printing". (#13039)</code>](https://github.com/linuxmint/cinnamon/commit/bebaf4cf54d6c2740f37af35ba086b7654fae9b6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>debian/control: Remove gnome-pkg-tools and intltool.</code>](https://github.com/linuxmint/cinnamon/commit/15e59539517607bb973f5e8a765ee3bbb4fcf05e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
