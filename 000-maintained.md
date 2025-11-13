@@ -141,6 +141,11 @@
 - [ ] [<code>chore: Follow up notification action isolate handling</code>](https://github.com/krille-chan/fluffychat/commit/3c049211ca9c789c5861a4f81483f6d053ad0002)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/4f3629ccf4ec4288614ad28b497c32f2b14ae19d)
   - <sub>Tags: <code>rc2.3.0-1</code></sub>
+- [ ] [<code>build: (deps): bump image_picker from 1.2.0 to 1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/991b6a79cb98a71b1711a33906a7e183d33847aa)
+- [ ] [<code>chore: Follow up reply refactoring</code>](https://github.com/krille-chan/fluffychat/commit/bea4b811d98c490578d8fc4547237139a744c33e)
+- [ ] [<code>Merge pull request #2340 from krille-chan/dependabot/pub/image_picker-1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/bac8f39ecb003a361f6bf33f6d65efe5e9155f80)
+  - <sub>Tags: <code>rc2.3.0-2</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/baa0a226ad959ecc9257d85b84a0c8479ba69d03)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -205,13 +210,18 @@
 - [ ] [<code>chore: Follow up notification action isolate handling</code>](https://github.com/krille-chan/fluffychat/commit/3c049211ca9c789c5861a4f81483f6d053ad0002)
 - [ ] [<code>chore: Update matrix dart sdk</code>](https://github.com/krille-chan/fluffychat/commit/4f3629ccf4ec4288614ad28b497c32f2b14ae19d)
   - <sub>Tags: <code>rc2.3.0-1</code></sub>
+- [ ] [<code>build: (deps): bump image_picker from 1.2.0 to 1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/991b6a79cb98a71b1711a33906a7e183d33847aa)
+- [ ] [<code>chore: Follow up reply refactoring</code>](https://github.com/krille-chan/fluffychat/commit/bea4b811d98c490578d8fc4547237139a744c33e)
+- [ ] [<code>Merge pull request #2340 from krille-chan/dependabot/pub/image_picker-1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/bac8f39ecb003a361f6bf33f6d65efe5e9155f80)
+  - <sub>Tags: <code>rc2.3.0-2</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/baa0a226ad959ecc9257d85b84a0c8479ba69d03)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter332 - no appropriate URL found OrderedDict({'attr_path': 'flutter332', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter338 - no appropriate URL found OrderedDict({'attr_path': 'flutter338', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped flutter335 - no appropriate URL found OrderedDict({'attr_path': 'flutter335', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
