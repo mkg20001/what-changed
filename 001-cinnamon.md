@@ -279,7 +279,11 @@
 - [ ] [<code>Fix only showing printer applet "while printing". (#13039)</code>](https://github.com/linuxmint/cinnamon/commit/bebaf4cf54d6c2740f37af35ba086b7654fae9b6)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>debian/control: Remove gnome-pkg-tools and intltool.</code>](https://github.com/linuxmint/cinnamon/commit/15e59539517607bb973f5e8a765ee3bbb4fcf05e)
+- [ ] [<code>Add 'reset zoom' keyboard shortcut.</code>](https://github.com/linuxmint/cinnamon/commit/894ab13f806d5f32e214e4222732ef2bbd722541)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>KeybindingTable.py: Fix exception when updating non-spice</code>](https://github.com/linuxmint/cinnamon/commit/a7f5282afcc053ca7e8b19c13d8a2cf09bff42f8)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -321,6 +325,7 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-desktop/commit/fa6121f017e004aa6c8ea406ab221f066a06ca2d)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1c41babc8240e65bf5816585ed549997992dacdf)
 - [ ] [<code>org.cinnamon.desktop.keybindings.wm.gschema: Add direct keyboard</code>](https://github.com/linuxmint/cinnamon-desktop/commit/25db5284443c81b2336f37cfa5a35de1c5cd242a)
+- [ ] [<code>Add magnifier reset keybinding.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/5e183f259a5e00c7bc31f413ff66ce5b202ad5d9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
@@ -651,29 +656,11 @@
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [3.0.1 → HEAD](https://github.com/linuxmint/xapp/compare/3.0.1...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
 
-- [ ] [<code>test-scripts: Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xapp/commit/724d9f9a60fe10c6b0a8bd7d75fe9809814f5c72)
-- [ ] [<code>Add some of the generic icons used in nemo</code>](https://github.com/linuxmint/xapp/commit/2af3ccb80237951bfe9e3b0ff0445c1e8b7de9b2)
-- [ ] [<code>Add some of the generic icons used in cinnamon</code>](https://github.com/linuxmint/xapp/commit/bcfddb2a532289f61b28aef1404d8d2352df2df4)
-- [ ] [<code>icons: Add common device icons</code>](https://github.com/linuxmint/xapp/commit/68d6830d79769c79dbf34785dd3641eeee8c57d1)
-- [ ] [<code>icons: Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xapp/commit/84e74bee17006e169f1b0f3c3e5fb23b66e59a4f)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>3.2.0</code>](https://github.com/linuxmint/xapp/commit/21cb923e16cd8409e829034d509a395522386601)
-  - <sub>Tags: <code>3.2.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.2 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.2...HEAD)
+#### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
-- [ ] [<code>background.c: Add deprecation note.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9c2b3bcc8fadb9cb3de27d974fad679ddf79a540)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/5514bba434a7511f052f6c2e755af0710f23e50a)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/b93934b0ca15a2f556f1cd20e2dc7962cf576042)
-- [ ] [<code>Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/2a1fc8e37a286b9340ba61833e70d5e9d6d5c739)
-- [ ] [<code>1.1.3</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/1b59f2c3c69f7f652a2de1c5575583c3d3c03211)
-  - <sub>Tags: <code>1.1.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.4.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.4.0...HEAD)
 
