@@ -5213,6 +5213,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-237-nightly.</code>](https://github.com/netdata/netdata.git/commit/a66c68c45a0d716bdf2ded050ab3873429854a35)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Installation Update (#21292)</code>](https://github.com/netdata/netdata.git/commit/4ee5e169165f4b39bb5cafe8ceac9f70eb44c1e9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-239-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ce6ac7e7f97beae3dd2781c64847b7ec272e5ee)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
