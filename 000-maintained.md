@@ -146,6 +146,14 @@
 - [ ] [<code>Merge pull request #2340 from krille-chan/dependabot/pub/image_picker-1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/bac8f39ecb003a361f6bf33f6d65efe5e9155f80)
   - <sub>Tags: <code>rc2.3.0-2</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/baa0a226ad959ecc9257d85b84a0c8479ba69d03)
+- [ ] [<code>build: Use matrix sdk 4.0.0</code>](https://github.com/krille-chan/fluffychat/commit/fe80ade35f3d832874ac2a4988a4ee20a1ff4556)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/3920d8760b9abfc386829d9f8ae225f553e175f1)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/aa46c180b99afbb8eacb50e9538476436b3b3816)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/019a4fe4e710c38571437f373f187d50d72b6c7d)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/9418b769fcde976542160b332fd42e82601acc72)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/35a4a3cc40f0a60ccbd9109b54a8b3c05b196f01)
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/d02c6c70ea125d47c13b04c4651dea457852e68e)
+- [ ] [<code>chore: Add android changelog</code>](https://github.com/krille-chan/fluffychat/commit/8d7f376112927366c656893a97fc3a4b9c74ef94)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -215,6 +223,14 @@
 - [ ] [<code>Merge pull request #2340 from krille-chan/dependabot/pub/image_picker-1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/bac8f39ecb003a361f6bf33f6d65efe5e9155f80)
   - <sub>Tags: <code>rc2.3.0-2</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/baa0a226ad959ecc9257d85b84a0c8479ba69d03)
+- [ ] [<code>build: Use matrix sdk 4.0.0</code>](https://github.com/krille-chan/fluffychat/commit/fe80ade35f3d832874ac2a4988a4ee20a1ff4556)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/3920d8760b9abfc386829d9f8ae225f553e175f1)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/aa46c180b99afbb8eacb50e9538476436b3b3816)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/019a4fe4e710c38571437f373f187d50d72b6c7d)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/9418b769fcde976542160b332fd42e82601acc72)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/35a4a3cc40f0a60ccbd9109b54a8b3c05b196f01)
+- [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/d02c6c70ea125d47c13b04c4651dea457852e68e)
+- [ ] [<code>chore: Add android changelog</code>](https://github.com/krille-chan/fluffychat/commit/8d7f376112927366c656893a97fc3a4b9c74ef94)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -276,6 +292,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
 - [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
 - [ ] [<code>incusd/patches: Fix incorrect error check in permission patch</code>](https://github.com/lxc/incus/commit/27232680a75f5c96bae1f39dc085b7e59b882815)
+- [ ] [<code>incus/instance: Add missing godocs</code>](https://github.com/lxc/incus/commit/c5dbb01330ee3a757320015e61e1e42e747ff79a)
+- [ ] [<code>incusd: only apply qemu rtc adjustments if it is configured</code>](https://github.com/lxc/incus/commit/f78d208e92847ba87af0c212e0aa07322f9bfc69)
 - [ ] [<code>incusd/instance/qemu: Fix macOS agent</code>](https://github.com/lxc/incus/commit/3b1f39835d871c72d3679eff5c89b57422d78d3b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
@@ -4213,6 +4231,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Tighten storage pool volume permissions</code>](https://github.com/lxc/incus/commit/b0c6c0bac42c6ac27d536984cc043a6ec02b9e7c)
 - [ ] [<code>incusd/patches: Re-apply storage permissions on update</code>](https://github.com/lxc/incus/commit/3abdc12cf6a8dce391d28d340a32c137125357dd)
 - [ ] [<code>incusd/patches: Fix incorrect error check in permission patch</code>](https://github.com/lxc/incus/commit/27232680a75f5c96bae1f39dc085b7e59b882815)
+- [ ] [<code>incus/instance: Add missing godocs</code>](https://github.com/lxc/incus/commit/c5dbb01330ee3a757320015e61e1e42e747ff79a)
+- [ ] [<code>incusd: only apply qemu rtc adjustments if it is configured</code>](https://github.com/lxc/incus/commit/f78d208e92847ba87af0c212e0aa07322f9bfc69)
 - [ ] [<code>incusd/instance/qemu: Fix macOS agent</code>](https://github.com/lxc/incus/commit/3b1f39835d871c72d3679eff5c89b57422d78d3b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
@@ -5224,6 +5244,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Installation Update (#21292)</code>](https://github.com/netdata/netdata.git/commit/4ee5e169165f4b39bb5cafe8ceac9f70eb44c1e9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-239-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ce6ac7e7f97beae3dd2781c64847b7ec272e5ee)
+- [ ] [<code>Reorganize MSSQL collection. (#21290)</code>](https://github.com/netdata/netdata.git/commit/959e74ef7aa20a50394a199ad790c253f1a030ab)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix repository URLs for openSUSE Tumbleweed. (#21296)</code>](https://github.com/netdata/netdata.git/commit/7d7d149ca3e0b03b08ac53c6c066cdb1d22123a8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7436,4 +7460,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>examples: free syntax_error</code>](https://github.com/jow-/ucode/commit/292e0f87cbf7bb5de67d407ebe5bd5971d7ac2a0)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
+
+
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.1...HEAD)
 
