@@ -11,6 +11,8 @@
 - [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/libubox.git/commit/5b11fb18dc0523bb9c1c37af66edfed1aa0d79bb)
 - [ ] [<code>libubox: add a simple build script</code>](https://git.openwrt.org/project/libubox.git/commit/17143f94dcbfef20d55afab783deb0e24cf67f15)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>libubox: Drop extraneous space when appending values to variable</code>](https://git.openwrt.org/project/libubox.git/commit/82cb5fd66af910c71deef67d49a5c9e3d319bde9)
+- [ ] [<code>tests: shunit2: add test for _jshn_append leading space fix</code>](https://git.openwrt.org/project/libubox.git/commit/240d2d5ef58b7d5637604c0f687d1efbff549f2e)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
