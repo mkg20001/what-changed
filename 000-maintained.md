@@ -5248,6 +5248,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix repository URLs for openSUSE Tumbleweed. (#21296)</code>](https://github.com/netdata/netdata.git/commit/7d7d149ca3e0b03b08ac53c6c066cdb1d22123a8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Sensors (windows.plugin) (#21266)</code>](https://github.com/netdata/netdata.git/commit/87b992b3788eaf24b01a33fd195176e8e442427a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-243-nightly.</code>](https://github.com/netdata/netdata.git/commit/5050f34d58bdaa927d53d12c3b16a41d24f55245)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
