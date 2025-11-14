@@ -282,8 +282,15 @@
 - [ ] [<code>Add 'reset zoom' keyboard shortcut.</code>](https://github.com/linuxmint/cinnamon/commit/894ab13f806d5f32e214e4222732ef2bbd722541)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>KeybindingTable.py: Fix exception when updating non-spice</code>](https://github.com/linuxmint/cinnamon/commit/a7f5282afcc053ca7e8b19c13d8a2cf09bff42f8)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Cinnamon: Adds hidden-buttons to list in applet settings (#13171)</code>](https://github.com/linuxmint/cinnamon/commit/1b38fa28a56b65868a5cac6ed1e04e7cf01fc4b7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cornerbar applet: Ignore drag-over events when panel-edit-mode is</code>](https://github.com/linuxmint/cinnamon/commit/8e1fceb5879a66ec4418356f5690be3225306189)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Fix misclick on user avatar area when resizing the menu (#13154)</code>](https://github.com/linuxmint/cinnamon/commit/1a1288d8440efcb58726d96302a0c9501dd3c41f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>messageTray.js: Discard notifications when they are disabled.</code>](https://github.com/linuxmint/cinnamon/commit/963eb52ed6730a20d8a6e9a2b9c9451019d32ad2)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
