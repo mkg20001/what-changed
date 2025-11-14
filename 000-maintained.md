@@ -154,6 +154,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/35a4a3cc40f0a60ccbd9109b54a8b3c05b196f01)
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/d02c6c70ea125d47c13b04c4651dea457852e68e)
 - [ ] [<code>chore: Add android changelog</code>](https://github.com/krille-chan/fluffychat/commit/8d7f376112927366c656893a97fc3a4b9c74ef94)
+- [ ] [<code>chore: Remove Notification actions when using UnifiedPush</code>](https://github.com/krille-chan/fluffychat/commit/31b3758622095c5b1068c0362ff2eecdd0fe0b03)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -231,6 +232,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/35a4a3cc40f0a60ccbd9109b54a8b3c05b196f01)
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/d02c6c70ea125d47c13b04c4651dea457852e68e)
 - [ ] [<code>chore: Add android changelog</code>](https://github.com/krille-chan/fluffychat/commit/8d7f376112927366c656893a97fc3a4b9c74ef94)
+- [ ] [<code>chore: Remove Notification actions when using UnifiedPush</code>](https://github.com/krille-chan/fluffychat/commit/31b3758622095c5b1068c0362ff2eecdd0fe0b03)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
