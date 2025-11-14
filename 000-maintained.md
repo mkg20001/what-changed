@@ -155,6 +155,20 @@
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/d02c6c70ea125d47c13b04c4651dea457852e68e)
 - [ ] [<code>chore: Add android changelog</code>](https://github.com/krille-chan/fluffychat/commit/8d7f376112927366c656893a97fc3a4b9c74ef94)
 - [ ] [<code>chore: Remove Notification actions when using UnifiedPush</code>](https://github.com/krille-chan/fluffychat/commit/31b3758622095c5b1068c0362ff2eecdd0fe0b03)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/485cc5fa8e4cf17b4ba83d4be3a1e17d033fd3a8)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/5174a6e25dae649c0b1a0e3d62d68906c6c9ba79)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/449a885a4d786da1596e5f1f1ef6ffdc498332ff)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/b63b461706c087d090a1db687e606454a7c62afb)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/b2ea5c8e20ebfac533492f327fc5a24355319483)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/8f2b3cdaec45ac1ee30f65209f2326e982aa1d1a)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/53fe970a2f4d3936b1ee72e3438fabcbf66765de)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/e16c170642f63c820b89c5f457bce96cf3147bcf)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/7c80a58fec083a3ef72e8e5f8ae1ada1ca26b123)
+- [ ] [<code>fix: Import sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/1a38777ceacfbb23a39ec466bd41cc5bbd2e0f91)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/b65279f9084874a4e76bbdeeb1897412e8ae0c63)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7d16329cb593f39feefd82ee8b9d4fde302d6727)
+- [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
+  - <sub>Tags: <code>rc2.3.0-3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -233,6 +247,20 @@
 - [ ] [<code>build: Bump version</code>](https://github.com/krille-chan/fluffychat/commit/d02c6c70ea125d47c13b04c4651dea457852e68e)
 - [ ] [<code>chore: Add android changelog</code>](https://github.com/krille-chan/fluffychat/commit/8d7f376112927366c656893a97fc3a4b9c74ef94)
 - [ ] [<code>chore: Remove Notification actions when using UnifiedPush</code>](https://github.com/krille-chan/fluffychat/commit/31b3758622095c5b1068c0362ff2eecdd0fe0b03)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/485cc5fa8e4cf17b4ba83d4be3a1e17d033fd3a8)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/5174a6e25dae649c0b1a0e3d62d68906c6c9ba79)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/449a885a4d786da1596e5f1f1ef6ffdc498332ff)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/b63b461706c087d090a1db687e606454a7c62afb)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/b2ea5c8e20ebfac533492f327fc5a24355319483)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/8f2b3cdaec45ac1ee30f65209f2326e982aa1d1a)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/53fe970a2f4d3936b1ee72e3438fabcbf66765de)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/e16c170642f63c820b89c5f457bce96cf3147bcf)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/7c80a58fec083a3ef72e8e5f8ae1ada1ca26b123)
+- [ ] [<code>fix: Import sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/1a38777ceacfbb23a39ec466bd41cc5bbd2e0f91)
+- [ ] [<code>chore: Update changelog</code>](https://github.com/krille-chan/fluffychat/commit/b65279f9084874a4e76bbdeeb1897412e8ae0c63)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7d16329cb593f39feefd82ee8b9d4fde302d6727)
+- [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
+  - <sub>Tags: <code>rc2.3.0-3</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5252,6 +5280,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Sensors (windows.plugin) (#21266)</code>](https://github.com/netdata/netdata.git/commit/87b992b3788eaf24b01a33fd195176e8e442427a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-243-nightly.</code>](https://github.com/netdata/netdata.git/commit/5050f34d58bdaa927d53d12c3b16a41d24f55245)
+- [ ] [<code>Account deletion update (#21293)</code>](https://github.com/netdata/netdata.git/commit/8f08108bc871ae7acb6d50a056c5d364949b4855)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
