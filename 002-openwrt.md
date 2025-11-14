@@ -2,6 +2,9 @@
 #### [libnl-tiny](https://git.openwrt.org/project/libnl-tiny.git): [c69fb5ef80b9780fe9add345052aef9ccb5d51f4 → HEAD](https://git.openwrt.org/project/libnl-tiny.git/compare/c69fb5ef80b9780fe9add345052aef9ccb5d51f4...HEAD)
 
 - [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/532ac744dedcf83c06e2f4a8320fcc8089f23b72)
+- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/087d4ce8c07bb5d7af84030f97f481716701efc8)
+- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/2871f3f26abb45fb0fea312f4869b05873c8758d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
@@ -15,6 +18,14 @@
 - [ ] [<code>tests: shunit2: add test for _jshn_append leading space fix</code>](https://git.openwrt.org/project/libubox.git/commit/240d2d5ef58b7d5637604c0f687d1efbff549f2e)
 - [ ] [<code>scripts: devel-build: disable json-c tests</code>](https://git.openwrt.org/project/libubox.git/commit/af438ba0705f5a20f6f9bc71b2c083dada856ff6)
 - [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/libubox.git/commit/be21d12b2bed7a7f997b88c20a2306357079393c)
+- [ ] [<code>github: ci: tests: add build/bin to path</code>](https://git.openwrt.org/project/libubox.git/commit/7686b12d11bab63d64d0e3c07aa3bbb0c5991f04)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: tests: rename test step</code>](https://git.openwrt.org/project/libubox.git/commit/4dd874d2b4128f747b818f2333cdf27f97745927)
+- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/libubox.git/commit/c1f0024fb052a3bfd4457f50eb3de82fbe3629ec)
+- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/libubox.git/commit/e8dafede37fc8f687774e51eb9208091ee5bc0ad)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: ci: minor fixes</code>](https://git.openwrt.org/project/libubox.git/commit/97d1839295e5d8a28087d8a883d6405d900c8e82)
+- [ ] [<code>blobmsg: refactor blobmsg_cast_u64/s64</code>](https://git.openwrt.org/project/libubox.git/commit/a75209f62982f7218f73b9b4fd9b705e19f5f94a)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -105,6 +116,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/ubus.git/commit/0d4bcb56f5e1386e7dc99f1ec9f3b6c9211c8ab6)
 - [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/ubus.git/commit/966c82b2197c139e2b199254a243214c3a803879)
+- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/ubus.git/commit/c4d7aff97bbe3af36af969564a02bf928932c4f8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ubus: add a simple build script</code>](https://git.openwrt.org/project/ubus.git/commit/00010b8af022552eeb9e313cc3db5f45c6afff04)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/ubus.git/commit/1eab20d6cda2603bef26aaaac9f4405dd870267a)
+- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/ubus.git/commit/f79ddca648068f8b4529dc88a5b062cec2b1ddc4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
@@ -112,6 +131,13 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/uci.git/commit/c1e2eee6c5e35438daf13fa72b04778ff07a00c7)
 - [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/uci.git/commit/b65c091a09a97d365da6bfd7d52c76c0b54ded6e)
+- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/uci.git/commit/e1ab90c510ce89228488607b9f8f383c21f9adc6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>uci: add a simple build script</code>](https://git.openwrt.org/project/uci.git/commit/8022b2e4d01094bf8ebc09f626478c855b89142e)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/uci.git/commit/dec51f48a1144de26897a9983017545082b9b8c5)
+- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/uci.git/commit/238963f48c848bc43917d1131602698b3b395a51)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
