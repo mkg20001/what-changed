@@ -13,6 +13,8 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>libubox: Drop extraneous space when appending values to variable</code>](https://git.openwrt.org/project/libubox.git/commit/82cb5fd66af910c71deef67d49a5c9e3d319bde9)
 - [ ] [<code>tests: shunit2: add test for _jshn_append leading space fix</code>](https://git.openwrt.org/project/libubox.git/commit/240d2d5ef58b7d5637604c0f687d1efbff549f2e)
+- [ ] [<code>scripts: devel-build: disable json-c tests</code>](https://git.openwrt.org/project/libubox.git/commit/af438ba0705f5a20f6f9bc71b2c083dada856ff6)
+- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/libubox.git/commit/be21d12b2bed7a7f997b88c20a2306357079393c)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -102,12 +104,14 @@
 - [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/ubus.git/commit/6fdf7a97916207ef1de01cd9e662e6daca96516a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/ubus.git/commit/0d4bcb56f5e1386e7dc99f1ec9f3b6c9211c8ab6)
+- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/ubus.git/commit/966c82b2197c139e2b199254a243214c3a803879)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
 - [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/uci.git/commit/2e46a7405f26ec131918c821c30ac0b26fdb22f0)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/uci.git/commit/c1e2eee6c5e35438daf13fa72b04778ff07a00c7)
+- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/uci.git/commit/b65c091a09a97d365da6bfd7d52c76c0b54ded6e)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
