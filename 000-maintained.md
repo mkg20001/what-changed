@@ -4358,6 +4358,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix dav1d build on oss-fuzz (#2896)</code>](https://github.com/AOMediaCodec/libavif/commit/d4fae6e8b654f6bf3afd425586f0d44ee39f055a)
 - [ ] [<code>Update LocalAom.cmake to AVM research-v12.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/b0363896b8cad0c46fea96f9cd22428a3b01b1a7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Disable tests that trigger memory leaks in AVM</code>](https://github.com/AOMediaCodec/libavif/commit/b526b8416ad4d232b895bcbe6085cd6d1a316433)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
