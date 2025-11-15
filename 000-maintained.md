@@ -169,6 +169,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7d16329cb593f39feefd82ee8b9d4fde302d6727)
 - [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
   - <sub>Tags: <code>rc2.3.0-3</code></sub>
+- [ ] [<code>build: Clean up unused android permissions and make camera mic not required</code>](https://github.com/krille-chan/fluffychat/commit/b5cfe22200442364ee8e5f7c9a71f4a7142b8abb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -261,6 +262,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7d16329cb593f39feefd82ee8b9d4fde302d6727)
 - [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
   - <sub>Tags: <code>rc2.3.0-3</code></sub>
+- [ ] [<code>build: Clean up unused android permissions and make camera mic not required</code>](https://github.com/krille-chan/fluffychat/commit/b5cfe22200442364ee8e5f7c9a71f4a7142b8abb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -328,6 +330,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
 - [ ] [<code>incusd/api: Refresh OIDC on changes to oidc.scopes</code>](https://github.com/lxc/incus/commit/63bf93505a0ce39f70959427efde98489e920907)
+- [ ] [<code>incus/admin/sql: Allow remote interactions</code>](https://github.com/lxc/incus/commit/14a18910db7cdb921c123a0875593a8460ad0a60)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin/recover: Allow remote interactions</code>](https://github.com/lxc/incus/commit/c41b9ba54dbd4eef638a909373bb560256bf4453)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/efe6e4085ff56a0d743dc15c026fd1780974c337)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4267,6 +4276,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>incusd/instance/qemu: Properly parse dashed disk names when detaching</code>](https://github.com/lxc/incus/commit/de220f6483700cc02b8c4455f920b9fe9ecd68ef)
 - [ ] [<code>incusd/api: Refresh OIDC on changes to oidc.scopes</code>](https://github.com/lxc/incus/commit/63bf93505a0ce39f70959427efde98489e920907)
+- [ ] [<code>incus/admin/sql: Allow remote interactions</code>](https://github.com/lxc/incus/commit/14a18910db7cdb921c123a0875593a8460ad0a60)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin/recover: Allow remote interactions</code>](https://github.com/lxc/incus/commit/c41b9ba54dbd4eef638a909373bb560256bf4453)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/efe6e4085ff56a0d743dc15c026fd1780974c337)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4359,6 +4375,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update LocalAom.cmake to AVM research-v12.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/b0363896b8cad0c46fea96f9cd22428a3b01b1a7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Disable tests that trigger memory leaks in AVM</code>](https://github.com/AOMediaCodec/libavif/commit/b526b8416ad4d232b895bcbe6085cd6d1a316433)
+- [ ] [<code>Bump dav1d to 1.5.2 (#2902)</code>](https://github.com/AOMediaCodec/libavif/commit/59396901bbfc9d29dcc8e5c71167ce054ba325ef)
+- [ ] [<code>CHANGELOG.md: Update to AVM research-v12.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/af4aec8901bc318b802d7111ccdbc09b9f13b8b6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
