@@ -290,6 +290,9 @@
 - [ ] [<code>menu: Fix misclick on user avatar area when resizing the menu (#13154)</code>](https://github.com/linuxmint/cinnamon/commit/1a1288d8440efcb58726d96302a0c9501dd3c41f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>messageTray.js: Discard notifications when they are disabled.</code>](https://github.com/linuxmint/cinnamon/commit/963eb52ed6730a20d8a6e9a2b9c9451019d32ad2)
+- [ ] [<code>meson_options.txt: Restore old default value for building the</code>](https://github.com/linuxmint/cinnamon/commit/8363c214b579203e9e7923024f1ecd2d52098e22)
+  - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>startup: Improve some messaging and error handling when initializing</code>](https://github.com/linuxmint/cinnamon/commit/4df6d1e1a4617c10fdcd8ca148bc3f174733aba0)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
