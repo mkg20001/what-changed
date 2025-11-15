@@ -4356,6 +4356,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Assert `sample` not null on entry to getNextImage</code>](https://github.com/AOMediaCodec/libavif/commit/bc727fffef4d99b9de9b3ebacafb6c5efcb4a800)
 - [ ] [<code>Implement avifRGBImagePremultiplyAlpha GRAYA,AGRAY</code>](https://github.com/AOMediaCodec/libavif/commit/a4da7e172b91a35f3b7ddcb4ba20ab97dd18ad0f)
 - [ ] [<code>Fix dav1d build on oss-fuzz (#2896)</code>](https://github.com/AOMediaCodec/libavif/commit/d4fae6e8b654f6bf3afd425586f0d44ee39f055a)
+- [ ] [<code>Update LocalAom.cmake to AVM research-v12.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/b0363896b8cad0c46fea96f9cd22428a3b01b1a7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5281,6 +5283,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Sensors (windows.plugin) (#21266)</code>](https://github.com/netdata/netdata.git/commit/87b992b3788eaf24b01a33fd195176e8e442427a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-243-nightly.</code>](https://github.com/netdata/netdata.git/commit/5050f34d58bdaa927d53d12c3b16a41d24f55245)
 - [ ] [<code>Account deletion update (#21293)</code>](https://github.com/netdata/netdata.git/commit/8f08108bc871ae7acb6d50a056c5d364949b4855)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-245-nightly.</code>](https://github.com/netdata/netdata.git/commit/c8d78d25f5b03ec12d2cf1c66154df8a9fe1d4b2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7346,6 +7349,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: fix weblate merge conflict</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cfd75fb807c26dec8a83a344ce5fd479a8052968)
 - [ ] [<code>chore: merge weblate</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20965abcb7a026569b2185b3b199ce03d22f0a5f)
+- [ ] [<code>build: fix `just fmt` referencing deleted ROADMAP.md</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0aeb6c50d65f52c364bb191d160de9ec469c9ad4)
+- [ ] [<code>style(android): format with ktlint 1.8.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a3b4f343cfc08a8742b61c00a965c19c57617a50)
+- [ ] [<code>ci: update ktlint to 1.8.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/322a16bea5e0e16cd0c3d34a1eb405a66823232c)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
