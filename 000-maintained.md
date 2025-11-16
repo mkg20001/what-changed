@@ -174,10 +174,31 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7d16329cb593f39feefd82ee8b9d4fde302d6727)
 - [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
   - <sub>Tags: <code>rc2.3.0-3</code></sub>
+- [ ] [<code>refactor: Remove unused feature tor browser detector</code>](https://github.com/krille-chan/fluffychat/commit/a445ec4b43a185c85dc6fc8f23dcdc11e451c660)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump animations from 2.1.0 to 2.1.1</code>](https://github.com/krille-chan/fluffychat/commit/5b0d62e98414151e1fc02e331a72e58df83260ea)
 - [ ] [<code>build: Clean up unused android permissions and make camera mic not required</code>](https://github.com/krille-chan/fluffychat/commit/b5cfe22200442364ee8e5f7c9a71f4a7142b8abb)
 - [ ] [<code>build: Do not build x64 for playstore</code>](https://github.com/krille-chan/fluffychat/commit/fc07addc076c4571ef6414491a5f0ae9cb627f38)
 - [ ] [<code>build: Do not build x64 for release</code>](https://github.com/krille-chan/fluffychat/commit/5de67c864169502ce9eebcc43a23e997aa2df5c9)
 - [ ] [<code>build: Limit rust jobs</code>](https://github.com/krille-chan/fluffychat/commit/fef96de3c4093de693e75ea7d6ba944f0d18f7bb)
+- [ ] [<code>build: Main deploy only to arm64</code>](https://github.com/krille-chan/fluffychat/commit/2686e299a9127758863e7f773cf955718a34faa5)
+- [ ] [<code>build: Try build again with removing unused sdks first</code>](https://github.com/krille-chan/fluffychat/commit/a189bfb767b97e6421a9f58699489e2919365aa7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Free up space before android build</code>](https://github.com/krille-chan/fluffychat/commit/f0928daa83a758d32256ad64b7091d329be02bc9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Use correct file</code>](https://github.com/krille-chan/fluffychat/commit/db9f1290fd21c637e511dd365e2a0e8698195e86)
+- [ ] [<code>build: Run action after checkout</code>](https://github.com/krille-chan/fluffychat/commit/96b2b317370ee095c60b49d0be80b5b195032abe)
+- [ ] [<code>build: Fix custom action</code>](https://github.com/krille-chan/fluffychat/commit/2eb77788cda0c790351b73da654d2f872464e549)
+- [ ] [<code>build: Fix action indent</code>](https://github.com/krille-chan/fluffychat/commit/bbf5093552223cd98a2552009e3b38f94e239a99)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Fixed free up job</code>](https://github.com/krille-chan/fluffychat/commit/f3bfdf6f0306c36e4a225536ee8b9eb715091a9a)
+  - <sub>Tags: <code>v2.3.0</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/b45f3aade94fe45717d6179f126e1a63ff31bb24)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/02945d6b9d28ab7960a3d9ae6d965a9ac25e4864)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/73b32d011907da7c896a7263ab0dc1febf7d4b06)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/2939415106aca17747db3ce1a4f104111dd4a4aa)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/80512651b663d6cf5a734445e696668d5677452a)
+- [ ] [<code>build: Upgrade to flutter 3.38.1</code>](https://github.com/krille-chan/fluffychat/commit/863359e287786fcc5b579204d3760270ad247dce)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -270,10 +291,31 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7d16329cb593f39feefd82ee8b9d4fde302d6727)
 - [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
   - <sub>Tags: <code>rc2.3.0-3</code></sub>
+- [ ] [<code>refactor: Remove unused feature tor browser detector</code>](https://github.com/krille-chan/fluffychat/commit/a445ec4b43a185c85dc6fc8f23dcdc11e451c660)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: (deps): bump animations from 2.1.0 to 2.1.1</code>](https://github.com/krille-chan/fluffychat/commit/5b0d62e98414151e1fc02e331a72e58df83260ea)
 - [ ] [<code>build: Clean up unused android permissions and make camera mic not required</code>](https://github.com/krille-chan/fluffychat/commit/b5cfe22200442364ee8e5f7c9a71f4a7142b8abb)
 - [ ] [<code>build: Do not build x64 for playstore</code>](https://github.com/krille-chan/fluffychat/commit/fc07addc076c4571ef6414491a5f0ae9cb627f38)
 - [ ] [<code>build: Do not build x64 for release</code>](https://github.com/krille-chan/fluffychat/commit/5de67c864169502ce9eebcc43a23e997aa2df5c9)
 - [ ] [<code>build: Limit rust jobs</code>](https://github.com/krille-chan/fluffychat/commit/fef96de3c4093de693e75ea7d6ba944f0d18f7bb)
+- [ ] [<code>build: Main deploy only to arm64</code>](https://github.com/krille-chan/fluffychat/commit/2686e299a9127758863e7f773cf955718a34faa5)
+- [ ] [<code>build: Try build again with removing unused sdks first</code>](https://github.com/krille-chan/fluffychat/commit/a189bfb767b97e6421a9f58699489e2919365aa7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Free up space before android build</code>](https://github.com/krille-chan/fluffychat/commit/f0928daa83a758d32256ad64b7091d329be02bc9)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Use correct file</code>](https://github.com/krille-chan/fluffychat/commit/db9f1290fd21c637e511dd365e2a0e8698195e86)
+- [ ] [<code>build: Run action after checkout</code>](https://github.com/krille-chan/fluffychat/commit/96b2b317370ee095c60b49d0be80b5b195032abe)
+- [ ] [<code>build: Fix custom action</code>](https://github.com/krille-chan/fluffychat/commit/2eb77788cda0c790351b73da654d2f872464e549)
+- [ ] [<code>build: Fix action indent</code>](https://github.com/krille-chan/fluffychat/commit/bbf5093552223cd98a2552009e3b38f94e239a99)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>build: Fixed free up job</code>](https://github.com/krille-chan/fluffychat/commit/f3bfdf6f0306c36e4a225536ee8b9eb715091a9a)
+  - <sub>Tags: <code>v2.3.0</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/b45f3aade94fe45717d6179f126e1a63ff31bb24)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/02945d6b9d28ab7960a3d9ae6d965a9ac25e4864)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/73b32d011907da7c896a7263ab0dc1febf7d4b06)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/2939415106aca17747db3ce1a4f104111dd4a4aa)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/80512651b663d6cf5a734445e696668d5677452a)
+- [ ] [<code>build: Upgrade to flutter 3.38.1</code>](https://github.com/krille-chan/fluffychat/commit/863359e287786fcc5b579204d3760270ad247dce)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -348,6 +390,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/efe6e4085ff56a0d743dc15c026fd1780974c337)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/58397185d967d71e7b9f43894c94ce8543df8542)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4294,6 +4337,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/efe6e4085ff56a0d743dc15c026fd1780974c337)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/58397185d967d71e7b9f43894c94ce8543df8542)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
