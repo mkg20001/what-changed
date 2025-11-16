@@ -56,6 +56,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>windows: Fix lib dir location</code>](https://github.com/lxc/distrobuilder/commit/5400886f44d710d24ff900175cecd89853c724dc)
 - [ ] [<code>systemd-generator: Fix console-getty handling</code>](https://github.com/lxc/distrobuilder/commit/d0e0b68a627206a6dc5384587603b91f1e41d43b)
+- [ ] [<code>docker: use umoci library and podman image library</code>](https://github.com/lxc/distrobuilder/commit/cab50c066292655bda19cc1334b7f728aa08891b)
+- [ ] [<code>make: use build tags to stub unnecessary dependencies</code>](https://github.com/lxc/distrobuilder/commit/984047ec711a205887d919660df59af3cb0fb94b)
+- [ ] [<code>Makefile: Bump minimum to Go 1.24.7</code>](https://github.com/lxc/distrobuilder/commit/585b31fdb176d62dcd3cd35f3f95e38828288195)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/bff1c3c434880db1431a3d6d6f5b1bff32a27ea1)
+- [ ] [<code>github: Ignore unrelated GHSA</code>](https://github.com/lxc/distrobuilder/commit/909b5f8700ecbf9512f8c4d91b5cf4e088218aa1)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.1...HEAD)
 
@@ -170,6 +175,9 @@
 - [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
   - <sub>Tags: <code>rc2.3.0-3</code></sub>
 - [ ] [<code>build: Clean up unused android permissions and make camera mic not required</code>](https://github.com/krille-chan/fluffychat/commit/b5cfe22200442364ee8e5f7c9a71f4a7142b8abb)
+- [ ] [<code>build: Do not build x64 for playstore</code>](https://github.com/krille-chan/fluffychat/commit/fc07addc076c4571ef6414491a5f0ae9cb627f38)
+- [ ] [<code>build: Do not build x64 for release</code>](https://github.com/krille-chan/fluffychat/commit/5de67c864169502ce9eebcc43a23e997aa2df5c9)
+- [ ] [<code>build: Limit rust jobs</code>](https://github.com/krille-chan/fluffychat/commit/fef96de3c4093de693e75ea7d6ba944f0d18f7bb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -263,6 +271,9 @@
 - [ ] [<code>Merge pull request #2349 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/dd3c65a57747634447ff445dd1b00f9c74d51e96)
   - <sub>Tags: <code>rc2.3.0-3</code></sub>
 - [ ] [<code>build: Clean up unused android permissions and make camera mic not required</code>](https://github.com/krille-chan/fluffychat/commit/b5cfe22200442364ee8e5f7c9a71f4a7142b8abb)
+- [ ] [<code>build: Do not build x64 for playstore</code>](https://github.com/krille-chan/fluffychat/commit/fc07addc076c4571ef6414491a5f0ae9cb627f38)
+- [ ] [<code>build: Do not build x64 for release</code>](https://github.com/krille-chan/fluffychat/commit/5de67c864169502ce9eebcc43a23e997aa2df5c9)
+- [ ] [<code>build: Limit rust jobs</code>](https://github.com/krille-chan/fluffychat/commit/fef96de3c4093de693e75ea7d6ba944f0d18f7bb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
