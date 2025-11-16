@@ -295,7 +295,11 @@
 - [ ] [<code>startup: Improve some messaging and error handling when initializing</code>](https://github.com/linuxmint/cinnamon/commit/4df6d1e1a4617c10fdcd8ca148bc3f174733aba0)
 - [ ] [<code>Call on_applet_reloaded() for all instances of an Applet (#13103)</code>](https://github.com/linuxmint/cinnamon/commit/4aa8836ce797d947d37cbdb7b79ee9c2b16d5053)
 - [ ] [<code>Fix an issue preventing reloading/upgrading multi-instance applets (#13101)</code>](https://github.com/linuxmint/cinnamon/commit/ade100df4f742a8f83459bc2b4a6f03373f00adb)
+- [ ] [<code>misc: Simplified filter on disconnect signal (#12932)</code>](https://github.com/linuxmint/cinnamon/commit/4c03efdeb095ae7e7289a542aba0074862b5ea64)
+- [ ] [<code>misc: optimized requestProperties in dbudMenu (#12934)</code>](https://github.com/linuxmint/cinnamon/commit/6c9f43e656a650c8112402f48a9dd627453b0503)
+- [ ] [<code>expo.js: Force expo to show on the monitor that the mouse is on (#13051)</code>](https://github.com/linuxmint/cinnamon/commit/1f7994e7386a32482c58f5ed54f28a61f2c13be3)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -574,6 +578,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>Fix an icon name (#3635)</code>](https://github.com/linuxmint/nemo/commit/8eec247afeb0240bf00eb0a7eaeb7101f0e1bd35)
+- [ ] [<code>Add option to allow expanders in empty folders (#3593)</code>](https://github.com/linuxmint/nemo/commit/4193e72d2a8620d403fe0aac718638040a9c231e)
+- [ ] [<code>list-view: Fix change handler, improve preferences description and</code>](https://github.com/linuxmint/nemo/commit/d8de20e21f6751d9d22d319054688e3ed2497bd4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
@@ -648,14 +654,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
-#### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [2.4.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/2.4.2...HEAD)
+#### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.0 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.0...HEAD)
 
-- [ ] [<code>Add new submodules</code>](https://github.com/linuxmint/python-xapp/commit/7c68e16bc9fbe1f7bf0c4e82060e1fc6b98278ca)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>3.0.0</code>](https://github.com/linuxmint/python-xapp/commit/d53a8b773928ce132be30c5c3e52aaff6c000ed5)
-  - <sub>Tags: <code>3.0.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
 
