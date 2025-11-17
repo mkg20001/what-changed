@@ -298,8 +298,14 @@
 - [ ] [<code>misc: Simplified filter on disconnect signal (#12932)</code>](https://github.com/linuxmint/cinnamon/commit/4c03efdeb095ae7e7289a542aba0074862b5ea64)
 - [ ] [<code>misc: optimized requestProperties in dbudMenu (#12934)</code>](https://github.com/linuxmint/cinnamon/commit/6c9f43e656a650c8112402f48a9dd627453b0503)
 - [ ] [<code>expo.js: Force expo to show on the monitor that the mouse is on (#13051)</code>](https://github.com/linuxmint/cinnamon/commit/1f7994e7386a32482c58f5ed54f28a61f2c13be3)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>notifications@cinnamon.org - add option to show newest notifications first (#13080)</code>](https://github.com/linuxmint/cinnamon/commit/c5c3054f7d66a4cef781b596358e8dd622d24ca8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>mod(cinnamon-settings): use fstrings (#13074)</code>](https://github.com/linuxmint/cinnamon/commit/29478f8d57efb95c24b4a2587381ba5248ae5d57)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>KeybindingTable.py: Ignore duplicate bindings that belong to the</code>](https://github.com/linuxmint/cinnamon/commit/3eaa28456879cd3c20e1da7c9ebadeccb7dd54ca)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -405,6 +411,10 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>debian/control: Adapt to removal of -dev package, update .gitignore.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/830463127ea2fb1dcdc0a0edf8febeb94e82d2b1)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/11aaa5580fa0cf9abdc6fe62e9f93badec43f6ca)
+- [ ] [<code>meson: remove extraneous libpulse dep (#425)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/400befb69ae202c21a35d08768f18e9ccc6b09e7)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>debian/control: Remove libpulse-dev.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8e882832dcf6f5e24867eba3652eb4dbc0d562c3)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
