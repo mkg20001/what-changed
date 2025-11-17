@@ -26,6 +26,11 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: ci: minor fixes</code>](https://git.openwrt.org/project/libubox.git/commit/97d1839295e5d8a28087d8a883d6405d900c8e82)
 - [ ] [<code>blobmsg: refactor blobmsg_cast_u64/s64</code>](https://git.openwrt.org/project/libubox.git/commit/a75209f62982f7218f73b9b4fd9b705e19f5f94a)
+- [ ] [<code>build: install libubox</code>](https://git.openwrt.org/project/libubox.git/commit/5714bf6ae652b1503022419f9ad766c9c504454b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>tests: shunit2: add dump and setters coverage</code>](https://git.openwrt.org/project/libubox.git/commit/440b4e988f39ecb7371fe36fd85f96a0eef23465)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>tests: shunit2: add test for _jshn_append via JSON script</code>](https://git.openwrt.org/project/libubox.git/commit/a3ff29ef93df3ec6e40447f6f4e029ebd07a29f1)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -124,6 +129,8 @@
 - [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/ubus.git/commit/1eab20d6cda2603bef26aaaac9f4405dd870267a)
 - [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/ubus.git/commit/f79ddca648068f8b4529dc88a5b062cec2b1ddc4)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: install ubus</code>](https://git.openwrt.org/project/ubus.git/commit/5c7eea7fc090120a6912a99fd244847270ad49b9)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
@@ -138,6 +145,8 @@
 - [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/uci.git/commit/dec51f48a1144de26897a9983017545082b9b8c5)
 - [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/uci.git/commit/238963f48c848bc43917d1131602698b3b395a51)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: install uci</code>](https://git.openwrt.org/project/uci.git/commit/ebb3a01a0b014d8f0dd04c8bffc4e2bff4eddb1c)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
