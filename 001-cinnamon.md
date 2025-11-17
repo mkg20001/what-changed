@@ -302,10 +302,12 @@
 - [ ] [<code>notifications@cinnamon.org - add option to show newest notifications first (#13080)</code>](https://github.com/linuxmint/cinnamon/commit/c5c3054f7d66a4cef781b596358e8dd622d24ca8)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>mod(cinnamon-settings): use fstrings (#13074)</code>](https://github.com/linuxmint/cinnamon/commit/29478f8d57efb95c24b4a2587381ba5248ae5d57)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>KeybindingTable.py: Ignore duplicate bindings that belong to the</code>](https://github.com/linuxmint/cinnamon/commit/3eaa28456879cd3c20e1da7c9ebadeccb7dd54ca)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>settings: Add an option to enable hot corners in fullscreen (#13196)</code>](https://github.com/linuxmint/cinnamon/commit/4bb0c1a414cbd0d837d30e20482c3cb8f008f140)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -415,6 +417,7 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>debian/control: Remove libpulse-dev.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8e882832dcf6f5e24867eba3652eb4dbc0d562c3)
+- [ ] [<code>csd-power: drop unused Tooltip dbus property (#422)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c2c760960dd3e19cccdd05b55105e5956586a396)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
@@ -537,7 +540,14 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/muffin/commit/8fa68b1a6273d39f67c9d954a8b69d19e288509d)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/muffin/commit/297259ef643b641b1a2d545b4069145a89614104)
 - [ ] [<code>display.c: Allow non-maximized windows to affect a monitor's</code>](https://github.com/linuxmint/muffin/commit/a88891ab762a64c50c53b3fc67c942bb3b642bf5)
+- [ ] [<code>xdg-shell/popup: Reset 'dismissed-by-client' state when remapping</code>](https://github.com/linuxmint/muffin/commit/ea04651e2fbb8ea2260e9a02f5b7330cffaa6e33)
+- [ ] [<code>window-actor/wayland: Remove subsurface actors on dispose</code>](https://github.com/linuxmint/muffin/commit/830364e0d0221a1b33dc93b18b0061659816f60d)
+- [ ] [<code>wayland/xdg-shell: Send xdg_popup.popup_done when position invalid</code>](https://github.com/linuxmint/muffin/commit/2b0e18c4afd58576b21021ec22b3ab3bd51c561e)
+- [ ] [<code>wayland/xdg-shell: Bail from popup_configure if resource was destroyed</code>](https://github.com/linuxmint/muffin/commit/70c43447c6b34164b843da2494da90128373c3b5)
+- [ ] [<code>[Wayland] Viewport fixes (#747)</code>](https://github.com/linuxmint/muffin/commit/5b1f842883608b4d4b4f1712dac42f8f8a886571)
+- [ ] [<code>[Meson] Fix some deprecations warnings (#750)</code>](https://github.com/linuxmint/muffin/commit/a3f440767053c5d96feba61a7d3781be5e1fab28)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
