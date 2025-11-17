@@ -306,8 +306,13 @@
 - [ ] [<code>KeybindingTable.py: Ignore duplicate bindings that belong to the</code>](https://github.com/linuxmint/cinnamon/commit/3eaa28456879cd3c20e1da7c9ebadeccb7dd54ca)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>settings: Add an option to enable hot corners in fullscreen (#13196)</code>](https://github.com/linuxmint/cinnamon/commit/4bb0c1a414cbd0d837d30e20482c3cb8f008f140)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu: Prevent context menu from closing when favorites add/remove is clicked (#12941)</code>](https://github.com/linuxmint/cinnamon/commit/a9cae55fd634ee6bdd05016cf0d8af1cd7e2f7e7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: Fix icon names from a9cae55fd6 changes.</code>](https://github.com/linuxmint/cinnamon/commit/7d7f7841ef474db4cc8c86acfe0c94396d34f354)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>main.js: Report animations state at startup and when it changes.</code>](https://github.com/linuxmint/cinnamon/commit/af5f7363c98864f57af67708a032129f6d974524)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -546,8 +551,18 @@
 - [ ] [<code>wayland/xdg-shell: Bail from popup_configure if resource was destroyed</code>](https://github.com/linuxmint/muffin/commit/70c43447c6b34164b843da2494da90128373c3b5)
 - [ ] [<code>[Wayland] Viewport fixes (#747)</code>](https://github.com/linuxmint/muffin/commit/5b1f842883608b4d4b4f1712dac42f8f8a886571)
 - [ ] [<code>[Meson] Fix some deprecations warnings (#750)</code>](https://github.com/linuxmint/muffin/commit/a3f440767053c5d96feba61a7d3781be5e1fab28)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Wayland] add support for idle-inhibit-unstable-v1 protocol (#681)</code>](https://github.com/linuxmint/muffin/commit/fbf7541b8a28f12e830f0b068062a71e388acea9)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Wayland] Add support for xdg-toplevel-tag-v1 protocol (#745)</code>](https://github.com/linuxmint/muffin/commit/825d03c0deaa779a75e46b7dcb2ca23d6b83562e)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Make egl_device default and remove default enabled otions from Debian rules (#757)</code>](https://github.com/linuxmint/muffin/commit/474358625d3262ab194f011131e861301cd2501a)
+  - <sub>Files: <code>meson_options.txt</code></sub>
+- [ ] [<code>cogl/winsys: Remove eglGetProcAddress workaround for EGL < 1.5 (#760)</code>](https://github.com/linuxmint/muffin/commit/113d17423764bbba498bb97253baa5dca0819295)
+- [ ] [<code>Remove default_driver build option (#761)</code>](https://github.com/linuxmint/muffin/commit/fd35529bf76022fbf0d30a0ec08133c2d897afe0)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>Switch to libglvnd build deps (#758)</code>](https://github.com/linuxmint/muffin/commit/8c27537b44dd9453324f260df3ffb2d8c5701283)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
