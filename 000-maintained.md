@@ -212,6 +212,17 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/b357d5e09b5bffa95edee4a86b84195e9935beda)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/2fbacce3de00cc66dcae02ea980224f57e4ffe87)
 - [ ] [<code>chore: Localize emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/aeec3443c02630f1ea7b37930e43d77acde99317)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/c5f327ecb8310656d93ce6c497204b266e8df41d)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/4ede88a37080dadc299ffb8b018c7e3dd319bb88)
+- [ ] [<code>chore: Update start poll design</code>](https://github.com/krille-chan/fluffychat/commit/f0cf278683d1eb00e8910abaf739bd010fdc3fc4)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/e92b013d7b401bd87fb57697bcd212db887ae9be)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/49f05be2212e8b836068a5ae6afeedbfa65691be)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/beec41bc077c6300c33cc17cdb26692570693e92)
+- [ ] [<code>chore: Simplify adaptive bottom sheet code</code>](https://github.com/krille-chan/fluffychat/commit/f8bb996622ef7871557cbadd96e39c6acb2f3a18)
+- [ ] [<code>fix: Make keyboard moving bottom sheet up</code>](https://github.com/krille-chan/fluffychat/commit/09f96e48d1223fe333a34954e6d482e2c8606c94)
+- [ ] [<code>fix: No description for video and audio messages displayed</code>](https://github.com/krille-chan/fluffychat/commit/06fe6ad37bcf06c4e2d5c356ddaf3b59ea93c2d5)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/9356c2e1de00847459e42e168edd16515d9d5eea)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/fcdd373649ec06cdeb43b3ee7703111ced7c7093)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -342,6 +353,17 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/b357d5e09b5bffa95edee4a86b84195e9935beda)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/2fbacce3de00cc66dcae02ea980224f57e4ffe87)
 - [ ] [<code>chore: Localize emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/aeec3443c02630f1ea7b37930e43d77acde99317)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/c5f327ecb8310656d93ce6c497204b266e8df41d)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/4ede88a37080dadc299ffb8b018c7e3dd319bb88)
+- [ ] [<code>chore: Update start poll design</code>](https://github.com/krille-chan/fluffychat/commit/f0cf278683d1eb00e8910abaf739bd010fdc3fc4)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/e92b013d7b401bd87fb57697bcd212db887ae9be)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/49f05be2212e8b836068a5ae6afeedbfa65691be)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/beec41bc077c6300c33cc17cdb26692570693e92)
+- [ ] [<code>chore: Simplify adaptive bottom sheet code</code>](https://github.com/krille-chan/fluffychat/commit/f8bb996622ef7871557cbadd96e39c6acb2f3a18)
+- [ ] [<code>fix: Make keyboard moving bottom sheet up</code>](https://github.com/krille-chan/fluffychat/commit/09f96e48d1223fe333a34954e6d482e2c8606c94)
+- [ ] [<code>fix: No description for video and audio messages displayed</code>](https://github.com/krille-chan/fluffychat/commit/06fe6ad37bcf06c4e2d5c356ddaf3b59ea93c2d5)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/9356c2e1de00847459e42e168edd16515d9d5eea)
+- [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/fcdd373649ec06cdeb43b3ee7703111ced7c7093)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -417,6 +439,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/58397185d967d71e7b9f43894c94ce8543df8542)
+- [ ] [<code>incusd/daemon: Setup /var/lib/incus/devices as a tmpfs</code>](https://github.com/lxc/incus/commit/cf62a5e0dbe07f8abbc8cf0643aa89a3458c1f1e)
+- [ ] [<code>incusd/daemon: Remove nodev check now that we control that path</code>](https://github.com/lxc/incus/commit/d0532b60a24cd7a3163c99d239fa5fb51f5475f7)
 - [ ] [<code>cmd/incus-agent: address errcheck lint issue</code>](https://github.com/lxc/incus/commit/41465dab368f2bdab5903359a985489c5fc8b252)
 - [ ] [<code>cmd/incus-agent: address import shadowing</code>](https://github.com/lxc/incus/commit/1d6de25baed29750523f4d2217fe1173cd9bd5ce)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
@@ -429,6 +453,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus-agent: silence warning about break in select in execWs.Do</code>](https://github.com/lxc/incus/commit/fff9f9a0b82442560401c260af2dc8361a2570ed)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/util: #2636 fix linter complaints in `internal/util`</code>](https://github.com/lxc/incus/commit/0a7ac1e76d615b47f97e0d8801e33d4f7ec92441)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4376,6 +4401,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/58397185d967d71e7b9f43894c94ce8543df8542)
+- [ ] [<code>incusd/daemon: Setup /var/lib/incus/devices as a tmpfs</code>](https://github.com/lxc/incus/commit/cf62a5e0dbe07f8abbc8cf0643aa89a3458c1f1e)
+- [ ] [<code>incusd/daemon: Remove nodev check now that we control that path</code>](https://github.com/lxc/incus/commit/d0532b60a24cd7a3163c99d239fa5fb51f5475f7)
 - [ ] [<code>cmd/incus-agent: address errcheck lint issue</code>](https://github.com/lxc/incus/commit/41465dab368f2bdab5903359a985489c5fc8b252)
 - [ ] [<code>cmd/incus-agent: address import shadowing</code>](https://github.com/lxc/incus/commit/1d6de25baed29750523f4d2217fe1173cd9bd5ce)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
@@ -4388,6 +4415,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>cmd/incus-agent: silence warning about break in select in execWs.Do</code>](https://github.com/lxc/incus/commit/fff9f9a0b82442560401c260af2dc8361a2570ed)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/util: #2636 fix linter complaints in `internal/util`</code>](https://github.com/lxc/incus/commit/0a7ac1e76d615b47f97e0d8801e33d4f7ec92441)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4482,6 +4510,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Disable tests that trigger memory leaks in AVM</code>](https://github.com/AOMediaCodec/libavif/commit/b526b8416ad4d232b895bcbe6085cd6d1a316433)
 - [ ] [<code>Bump dav1d to 1.5.2 (#2902)</code>](https://github.com/AOMediaCodec/libavif/commit/59396901bbfc9d29dcc8e5c71167ce054ba325ef)
 - [ ] [<code>CHANGELOG.md: Update to AVM research-v12.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/af4aec8901bc318b802d7111ccdbc09b9f13b8b6)
+- [ ] [<code>Initialize cicpSet in avifDecoderFindGainMapItem()</code>](https://github.com/AOMediaCodec/libavif/commit/ad6b520f23f835baedc58aac62576ae40ea3944b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5408,6 +5437,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-243-nightly.</code>](https://github.com/netdata/netdata.git/commit/5050f34d58bdaa927d53d12c3b16a41d24f55245)
 - [ ] [<code>Account deletion update (#21293)</code>](https://github.com/netdata/netdata.git/commit/8f08108bc871ae7acb6d50a056c5d364949b4855)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-245-nightly.</code>](https://github.com/netdata/netdata.git/commit/c8d78d25f5b03ec12d2cf1c66154df8a9fe1d4b2)
+- [ ] [<code>feat(go.d): add generic sql collector (#21281)</code>](https://github.com/netdata/netdata.git/commit/e8ec31c390e4751905f16bd4f4e063c6f995b499)
+- [ ] [<code>Regenerate integrations docs (#21297)</code>](https://github.com/netdata/netdata.git/commit/3e79a5a8ca5cc8f846f67c95e2fa09620827d8cd)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: remove prometheus SQL Exporter (#21306)</code>](https://github.com/netdata/netdata.git/commit/665ba9eeb2c4b947a34b032a5405a5bd278bc965)
+- [ ] [<code>Regenerate integrations docs (#21307)</code>](https://github.com/netdata/netdata.git/commit/3a29352c8dbb9ef400a131adc6a396bac5d37064)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: add ScyllaDB prometheus (#21308)</code>](https://github.com/netdata/netdata.git/commit/e9fcc1f6a500ed2288433a481cab3054effd91dc)
+- [ ] [<code>Regenerate integrations docs (#21309)</code>](https://github.com/netdata/netdata.git/commit/00baa63885c5c2855ebc8ce937628f4e586b1b23)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix csvjsonarray format returning invalid JSON with extra closing bracket when no data present (#21304)</code>](https://github.com/netdata/netdata.git/commit/8bf8fe56532db0640a9ebc3b6f4c572931c56bda)
+- [ ] [<code>improve(go.d/nvidia_smi): add autodetection_retry option (#21311)</code>](https://github.com/netdata/netdata.git/commit/ba6b62cd74650f23585fb66df3dc8675cc082cfb)
+- [ ] [<code>Regenerate integrations docs (#21312)</code>](https://github.com/netdata/netdata.git/commit/431cf2f121d9a096e71e00ef0f1c094796cf0791)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
