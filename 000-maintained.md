@@ -199,6 +199,19 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/2939415106aca17747db3ce1a4f104111dd4a4aa)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/80512651b663d6cf5a734445e696668d5677452a)
 - [ ] [<code>build: Upgrade to flutter 3.38.1</code>](https://github.com/krille-chan/fluffychat/commit/863359e287786fcc5b579204d3760270ad247dce)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/931d821cab8545f45424116160dabdaf711ce4c9)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/ded28a021f19780dce91d904a9861b91a1254632)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/24b6b080944740af5b902be9134ec1e8c500e4a3)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/a68271da25ed959e4af3403866ff8b790f8ed02e)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/e27daa5f1dfc73b74d4e1f9a43322adb71bfd36f)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/d05a5a6968f5c823f6ae2f21d768e0284302fc50)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/c4099e9fa7e182c1e4607a69a4e237a3dad48235)
+- [ ] [<code>refactor: Remove unused msix</code>](https://github.com/krille-chan/fluffychat/commit/24d2b90f7a462a48f1f5f4452541a31f006abc23)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/b357d5e09b5bffa95edee4a86b84195e9935beda)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/2fbacce3de00cc66dcae02ea980224f57e4ffe87)
+- [ ] [<code>chore: Localize emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/aeec3443c02630f1ea7b37930e43d77acde99317)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -316,6 +329,19 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/2939415106aca17747db3ce1a4f104111dd4a4aa)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/80512651b663d6cf5a734445e696668d5677452a)
 - [ ] [<code>build: Upgrade to flutter 3.38.1</code>](https://github.com/krille-chan/fluffychat/commit/863359e287786fcc5b579204d3760270ad247dce)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/931d821cab8545f45424116160dabdaf711ce4c9)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/ded28a021f19780dce91d904a9861b91a1254632)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/24b6b080944740af5b902be9134ec1e8c500e4a3)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/a68271da25ed959e4af3403866ff8b790f8ed02e)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/e27daa5f1dfc73b74d4e1f9a43322adb71bfd36f)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/d05a5a6968f5c823f6ae2f21d768e0284302fc50)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/c4099e9fa7e182c1e4607a69a4e237a3dad48235)
+- [ ] [<code>refactor: Remove unused msix</code>](https://github.com/krille-chan/fluffychat/commit/24d2b90f7a462a48f1f5f4452541a31f006abc23)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/b357d5e09b5bffa95edee4a86b84195e9935beda)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/2fbacce3de00cc66dcae02ea980224f57e4ffe87)
+- [ ] [<code>chore: Localize emoji picker</code>](https://github.com/krille-chan/fluffychat/commit/aeec3443c02630f1ea7b37930e43d77acde99317)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -391,6 +417,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/58397185d967d71e7b9f43894c94ce8543df8542)
+- [ ] [<code>cmd/incus-agent: address errcheck lint issue</code>](https://github.com/lxc/incus/commit/41465dab368f2bdab5903359a985489c5fc8b252)
+- [ ] [<code>cmd/incus-agent: address import shadowing</code>](https://github.com/lxc/incus/commit/1d6de25baed29750523f4d2217fe1173cd9bd5ce)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd/incus-agent: address os.Exit being called outside of main and init</code>](https://github.com/lxc/incus/commit/4cd768c211e08be30ca53ac8db14b183083e2e8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-agent: refactor DevIncusAPIGET to use switch</code>](https://github.com/lxc/incus/commit/2728ff641aabbb40d94a447fc9b24c200a3d9430)
+- [ ] [<code>cmd/incus-agent: silence defer being use in loop</code>](https://github.com/lxc/incus/commit/31357237cb48055f0cc70647a7c149ac545c6609)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incus-agent: address if flow in Connect</code>](https://github.com/lxc/incus/commit/33aadce7b74d604fbbc74912617c33a4ba7be165)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incus-agent: silence warning about break in select in execWs.Do</code>](https://github.com/lxc/incus/commit/fff9f9a0b82442560401c260af2dc8361a2570ed)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4338,6 +4376,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd: Allow some remote internal API interactions</code>](https://github.com/lxc/incus/commit/d782c59f509a660f7eb941fd75df314f2dd8ea9f)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/58397185d967d71e7b9f43894c94ce8543df8542)
+- [ ] [<code>cmd/incus-agent: address errcheck lint issue</code>](https://github.com/lxc/incus/commit/41465dab368f2bdab5903359a985489c5fc8b252)
+- [ ] [<code>cmd/incus-agent: address import shadowing</code>](https://github.com/lxc/incus/commit/1d6de25baed29750523f4d2217fe1173cd9bd5ce)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>cmd/incus-agent: address os.Exit being called outside of main and init</code>](https://github.com/lxc/incus/commit/4cd768c211e08be30ca53ac8db14b183083e2e8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-agent: refactor DevIncusAPIGET to use switch</code>](https://github.com/lxc/incus/commit/2728ff641aabbb40d94a447fc9b24c200a3d9430)
+- [ ] [<code>cmd/incus-agent: silence defer being use in loop</code>](https://github.com/lxc/incus/commit/31357237cb48055f0cc70647a7c149ac545c6609)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incus-agent: address if flow in Connect</code>](https://github.com/lxc/incus/commit/33aadce7b74d604fbbc74912617c33a4ba7be165)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/incus-agent: silence warning about break in select in execWs.Do</code>](https://github.com/lxc/incus/commit/fff9f9a0b82442560401c260af2dc8361a2570ed)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
