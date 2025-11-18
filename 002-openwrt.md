@@ -136,6 +136,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build: install ubus</code>](https://git.openwrt.org/project/ubus.git/commit/5c7eea7fc090120a6912a99fd244847270ad49b9)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/ubus.git/commit/2737da3819fefafa5b63d5f82efb77ff0032a5d8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
@@ -152,6 +154,8 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>build: install uci</code>](https://git.openwrt.org/project/uci.git/commit/ebb3a01a0b014d8f0dd04c8bffc4e2bff4eddb1c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/uci.git/commit/5bea13572325af4fb3057ff600cc7f7d5b82012b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
