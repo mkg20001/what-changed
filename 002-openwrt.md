@@ -5,6 +5,8 @@
 - [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/087d4ce8c07bb5d7af84030f97f481716701efc8)
 - [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/2871f3f26abb45fb0fea312f4869b05873c8758d)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/567be1101523e328c731262626f776228de2bd03)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
@@ -31,6 +33,9 @@
 - [ ] [<code>tests: shunit2: add dump and setters coverage</code>](https://git.openwrt.org/project/libubox.git/commit/440b4e988f39ecb7371fe36fd85f96a0eef23465)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>tests: shunit2: add test for _jshn_append via JSON script</code>](https://git.openwrt.org/project/libubox.git/commit/a3ff29ef93df3ec6e40447f6f4e029ebd07a29f1)
+- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/libubox.git/commit/38d70328ecbd90522727447e62247530eda2b668)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>scripts: devel-build: add missing LUAPATH</code>](https://git.openwrt.org/project/libubox.git/commit/edaf77da740d13bb46e460695709bab6fe395345)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
