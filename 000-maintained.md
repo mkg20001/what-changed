@@ -223,6 +223,10 @@
 - [ ] [<code>fix: No description for video and audio messages displayed</code>](https://github.com/krille-chan/fluffychat/commit/06fe6ad37bcf06c4e2d5c356ddaf3b59ea93c2d5)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/9356c2e1de00847459e42e168edd16515d9d5eea)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/fcdd373649ec06cdeb43b3ee7703111ced7c7093)
+- [ ] [<code>build: (deps): bump universal_html from 2.2.4 to 2.3.0</code>](https://github.com/krille-chan/fluffychat/commit/8f0146b125a393a3bf7f08022aebf70bf9229749)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/f97c98c1c09ce35e17ba0d5dd18976069b184129)
+- [ ] [<code>refactor: Remove workaround for download files</code>](https://github.com/krille-chan/fluffychat/commit/8589a17eb3f8ab58f676340a68befa8f48e62421)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/6f89151eafd87576b193267b0ba0fed3def95b1f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -364,6 +368,10 @@
 - [ ] [<code>fix: No description for video and audio messages displayed</code>](https://github.com/krille-chan/fluffychat/commit/06fe6ad37bcf06c4e2d5c356ddaf3b59ea93c2d5)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/9356c2e1de00847459e42e168edd16515d9d5eea)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/fcdd373649ec06cdeb43b3ee7703111ced7c7093)
+- [ ] [<code>build: (deps): bump universal_html from 2.2.4 to 2.3.0</code>](https://github.com/krille-chan/fluffychat/commit/8f0146b125a393a3bf7f08022aebf70bf9229749)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/f97c98c1c09ce35e17ba0d5dd18976069b184129)
+- [ ] [<code>refactor: Remove workaround for download files</code>](https://github.com/krille-chan/fluffychat/commit/8589a17eb3f8ab58f676340a68befa8f48e62421)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/6f89151eafd87576b193267b0ba0fed3def95b1f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5452,6 +5460,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(go.d/sql): add per-query execution time charts (#21313)</code>](https://github.com/netdata/netdata.git/commit/fc1dc390bd3801d217ce042ee09190bb762d807a)
 - [ ] [<code>Regenerate integrations docs (#21314)</code>](https://github.com/netdata/netdata.git/commit/976aac30b84d9148ca0c50ea1cb0de979955c256)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-257-nightly.</code>](https://github.com/netdata/netdata.git/commit/26ed44d1dcd880b4ae6c36413dbc597d31727da1)
+- [ ] [<code>Additional checks during initial context load (#21298)</code>](https://github.com/netdata/netdata.git/commit/154cf9263dadc75ef842fb35c32a9cc208970102)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
