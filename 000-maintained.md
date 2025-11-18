@@ -5449,6 +5449,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix csvjsonarray format returning invalid JSON with extra closing bracket when no data present (#21304)</code>](https://github.com/netdata/netdata.git/commit/8bf8fe56532db0640a9ebc3b6f4c572931c56bda)
 - [ ] [<code>improve(go.d/nvidia_smi): add autodetection_retry option (#21311)</code>](https://github.com/netdata/netdata.git/commit/ba6b62cd74650f23585fb66df3dc8675cc082cfb)
 - [ ] [<code>Regenerate integrations docs (#21312)</code>](https://github.com/netdata/netdata.git/commit/431cf2f121d9a096e71e00ef0f1c094796cf0791)
+- [ ] [<code>improve(go.d/sql): add per-query execution time charts (#21313)</code>](https://github.com/netdata/netdata.git/commit/fc1dc390bd3801d217ce042ee09190bb762d807a)
+- [ ] [<code>Regenerate integrations docs (#21314)</code>](https://github.com/netdata/netdata.git/commit/976aac30b84d9148ca0c50ea1cb0de979955c256)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-257-nightly.</code>](https://github.com/netdata/netdata.git/commit/26ed44d1dcd880b4ae6c36413dbc597d31727da1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
