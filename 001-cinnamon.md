@@ -312,7 +312,9 @@
 - [ ] [<code>menu applet: Fix icon names from a9cae55fd6 changes.</code>](https://github.com/linuxmint/cinnamon/commit/7d7f7841ef474db4cc8c86acfe0c94396d34f354)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>main.js: Report animations state at startup and when it changes.</code>](https://github.com/linuxmint/cinnamon/commit/af5f7363c98864f57af67708a032129f6d974524)
+- [ ] [<code>menu@cinnamon.org: Handle another condition in the key-press-event</code>](https://github.com/linuxmint/cinnamon/commit/e589d6aecdba189680eab7cb1a1265b68232d691)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -615,6 +617,7 @@
 - [ ] [<code>Fix an icon name (#3635)</code>](https://github.com/linuxmint/nemo/commit/8eec247afeb0240bf00eb0a7eaeb7101f0e1bd35)
 - [ ] [<code>Add option to allow expanders in empty folders (#3593)</code>](https://github.com/linuxmint/nemo/commit/4193e72d2a8620d403fe0aac718638040a9c231e)
 - [ ] [<code>list-view: Fix change handler, improve preferences description and</code>](https://github.com/linuxmint/nemo/commit/d8de20e21f6751d9d22d319054688e3ed2497bd4)
+- [ ] [<code>nemo-file-management-properties.glade: Fix icon names.</code>](https://github.com/linuxmint/nemo/commit/c6b0512404b8fa1daa8ab5dfe4a77beec51f5932)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
