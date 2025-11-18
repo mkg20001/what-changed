@@ -79,6 +79,8 @@
 - [ ] [<code>chore: Revert "fix: Revert Flutter to 3.32.7 (#369)"</code>](https://github.com/canonical/firmware-updater/commit/be7e3fb2b4fae5a7cc7df92547d916628809e86c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Revert "fix: Revert Flutter to 3.32.7 (#369)" (#371)</code>](https://github.com/canonical/firmware-updater/commit/0052f6b17f40c34a0eacd1ea398b64d802697f2e)
+- [ ] [<code>feat: Reapply "snap: core24 migration"</code>](https://github.com/canonical/firmware-updater/commit/e7a8f1eeb99379343316a42ae72b0e47eff80421)
+- [ ] [<code>feat: Reapply "snap: core24 migration" (#373)</code>](https://github.com/canonical/firmware-updater/commit/fd7581a8f76080bdf528b4d9206be33cf5301203)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -227,6 +229,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/f97c98c1c09ce35e17ba0d5dd18976069b184129)
 - [ ] [<code>refactor: Remove workaround for download files</code>](https://github.com/krille-chan/fluffychat/commit/8589a17eb3f8ab58f676340a68befa8f48e62421)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/6f89151eafd87576b193267b0ba0fed3def95b1f)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/601271187c70050d70136c0c5175a2407f34c34f)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/c47a1bcdc0d334ea5f4de8ddb37de30453003950)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/61e939d04c17fe8459d8a32a4cc217b4c4878287)
+- [ ] [<code>refactor: Use localized emojis for suggestion input</code>](https://github.com/krille-chan/fluffychat/commit/e7f9302e529c05d5c08c2321a76c8fd85c838a6a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: make locale for emoji suggestions configureable</code>](https://github.com/krille-chan/fluffychat/commit/419f57a14ce8c3212edc2a70bdc3c3c03ad4630b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -372,6 +380,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/f97c98c1c09ce35e17ba0d5dd18976069b184129)
 - [ ] [<code>refactor: Remove workaround for download files</code>](https://github.com/krille-chan/fluffychat/commit/8589a17eb3f8ab58f676340a68befa8f48e62421)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/6f89151eafd87576b193267b0ba0fed3def95b1f)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/601271187c70050d70136c0c5175a2407f34c34f)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/c47a1bcdc0d334ea5f4de8ddb37de30453003950)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/61e939d04c17fe8459d8a32a4cc217b4c4878287)
+- [ ] [<code>refactor: Use localized emojis for suggestion input</code>](https://github.com/krille-chan/fluffychat/commit/e7f9302e529c05d5c08c2321a76c8fd85c838a6a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: make locale for emoji suggestions configureable</code>](https://github.com/krille-chan/fluffychat/commit/419f57a14ce8c3212edc2a70bdc3c3c03ad4630b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -462,6 +476,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus-agent: silence warning about break in select in execWs.Do</code>](https://github.com/lxc/incus/commit/fff9f9a0b82442560401c260af2dc8361a2570ed)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/util: #2636 fix linter complaints in `internal/util`</code>](https://github.com/lxc/incus/commit/0a7ac1e76d615b47f97e0d8801e33d4f7ec92441)
+- [ ] [<code>doc: Remove mentions of IRC</code>](https://github.com/lxc/incus/commit/8c14c06f3592bbabc2c3e1952003700d7d20e42f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4424,6 +4439,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus-agent: silence warning about break in select in execWs.Do</code>](https://github.com/lxc/incus/commit/fff9f9a0b82442560401c260af2dc8361a2570ed)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/util: #2636 fix linter complaints in `internal/util`</code>](https://github.com/lxc/incus/commit/0a7ac1e76d615b47f97e0d8801e33d4f7ec92441)
+- [ ] [<code>doc: Remove mentions of IRC</code>](https://github.com/lxc/incus/commit/8c14c06f3592bbabc2c3e1952003700d7d20e42f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5461,6 +5477,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21314)</code>](https://github.com/netdata/netdata.git/commit/976aac30b84d9148ca0c50ea1cb0de979955c256)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-257-nightly.</code>](https://github.com/netdata/netdata.git/commit/26ed44d1dcd880b4ae6c36413dbc597d31727da1)
 - [ ] [<code>Additional checks during initial context load (#21298)</code>](https://github.com/netdata/netdata.git/commit/154cf9263dadc75ef842fb35c32a9cc208970102)
+- [ ] [<code>MSSQL Options (windows.plugin) (#21301)</code>](https://github.com/netdata/netdata.git/commit/feb5e07a948e3e8e02b32b93b42a743aa61ab663)
+- [ ] [<code>Proper locking when searching for datafile (#21302)</code>](https://github.com/netdata/netdata.git/commit/746cc02077813abd67f08df599b798e259ab1de9)
+- [ ] [<code>Reset backfill requests on child reconnect (#21315)</code>](https://github.com/netdata/netdata.git/commit/c8e772db3912170fe775d3effca595daa9ba72a5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7626,6 +7645,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
+- [ ] [<code>Convert aka key from hex to binary</code>](https://github.com/LubosD/twinkle/commit/68043fba5f4cf36432f34a9979219d25d8a976e1)
 
 #### [ucode](https://github.com/jow-/ucode): [v0.0.20250529 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20250529...HEAD)
 
