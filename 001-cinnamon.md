@@ -313,8 +313,9 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>main.js: Report animations state at startup and when it changes.</code>](https://github.com/linuxmint/cinnamon/commit/af5f7363c98864f57af67708a032129f6d974524)
 - [ ] [<code>menu@cinnamon.org: Handle another condition in the key-press-event</code>](https://github.com/linuxmint/cinnamon/commit/e589d6aecdba189680eab7cb1a1265b68232d691)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>networkAgent.js: Fix failed notification when reminding the user</code>](https://github.com/linuxmint/cinnamon/commit/c621f5d0bb1dbd7b1331467ebb3d3f30089a07b3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
