@@ -18,7 +18,7 @@
 - [ ] [<code>refactor: remove unused semaphore 'stopped' from cowsql_node structure</code>](https://github.com/cowsql/cowsql/commit/8e73441c0e68d1cb602e2dbc0cc3f26f20eecd8e)
 - [ ] [<code>refactor: replace semaphores, mutexes, conditions and threads with uv equivalents</code>](https://github.com/cowsql/cowsql/commit/a27e21b9d15e46f6b64b2e94aee165ae492f158c)
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.4/dbeaver-ce-25.2.4-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -81,6 +81,9 @@
 - [ ] [<code>chore: Revert "fix: Revert Flutter to 3.32.7 (#369)" (#371)</code>](https://github.com/canonical/firmware-updater/commit/0052f6b17f40c34a0eacd1ea398b64d802697f2e)
 - [ ] [<code>feat: Reapply "snap: core24 migration"</code>](https://github.com/canonical/firmware-updater/commit/e7a8f1eeb99379343316a42ae72b0e47eff80421)
 - [ ] [<code>feat: Reapply "snap: core24 migration" (#373)</code>](https://github.com/canonical/firmware-updater/commit/fd7581a8f76080bdf528b4d9206be33cf5301203)
+- [ ] [<code>chore(deps): Bump Flutter to 3.38</code>](https://github.com/canonical/firmware-updater/commit/d909aead913f9942ae4e0cdc6f6d2da24b8df237)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deps): Bump Flutter to 3.38 (#374)</code>](https://github.com/canonical/firmware-updater/commit/e4f6080a24bed1b5c5d38d61f41f9bcf03ca5a02)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -243,6 +246,17 @@
 - [ ] [<code>chore: Increase padding for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/6836cab40ed0ec33e8f74f7e78964569c2dcc189)
 - [ ] [<code>chore: Remove horizontal scrolling for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/c3ec0491d1c5af44810f295694f8721815c46df5)
 - [ ] [<code>chore: follow up Simplify codeblock code</code>](https://github.com/krille-chan/fluffychat/commit/5262395340cd92f7b136ea0868fe61cb022d3b3c)
+- [ ] [<code>fix: when user has multi counts,notification not works well</code>](https://github.com/krille-chan/fluffychat/commit/cbb2810b375072d51db57a92d06e49b9f98c13e7)
+- [ ] [<code>chore: do as suggestion</code>](https://github.com/krille-chan/fluffychat/commit/ccb2a23075c49753143fc9c8b5c05a88fafb722e)
+- [ ] [<code>fix: jump cannot work properly when there are multi users</code>](https://github.com/krille-chan/fluffychat/commit/940d3e62dbf1b8d872a66afc360bfee277f3f061)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: do format</code>](https://github.com/krille-chan/fluffychat/commit/acce4a8d7befa525afe64f9158a4c8f0479dbcd2)
+- [ ] [<code>chore: do as suggested</code>](https://github.com/krille-chan/fluffychat/commit/27b2eac7ed1c79312b30c3f9ee93792753bb8a34)
+- [ ] [<code>chore: delete unrelated line</code>](https://github.com/krille-chan/fluffychat/commit/175d06515d5e5cd8c6ba73e621e04c8a3329b2e4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: remove the userId param</code>](https://github.com/krille-chan/fluffychat/commit/1c614490f1d2e54abc886b648ba7fdd03cb704e0)
+- [ ] [<code>chore: Follow up polls</code>](https://github.com/krille-chan/fluffychat/commit/1ab29963fd452623d81bd1855d895dd1f2cf23ad)
+- [ ] [<code>chore: Allow all chars for emoji search</code>](https://github.com/krille-chan/fluffychat/commit/7724de65a2eef2ce153be0ef66d8f31a956075d4)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -402,6 +416,17 @@
 - [ ] [<code>chore: Increase padding for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/6836cab40ed0ec33e8f74f7e78964569c2dcc189)
 - [ ] [<code>chore: Remove horizontal scrolling for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/c3ec0491d1c5af44810f295694f8721815c46df5)
 - [ ] [<code>chore: follow up Simplify codeblock code</code>](https://github.com/krille-chan/fluffychat/commit/5262395340cd92f7b136ea0868fe61cb022d3b3c)
+- [ ] [<code>fix: when user has multi counts,notification not works well</code>](https://github.com/krille-chan/fluffychat/commit/cbb2810b375072d51db57a92d06e49b9f98c13e7)
+- [ ] [<code>chore: do as suggestion</code>](https://github.com/krille-chan/fluffychat/commit/ccb2a23075c49753143fc9c8b5c05a88fafb722e)
+- [ ] [<code>fix: jump cannot work properly when there are multi users</code>](https://github.com/krille-chan/fluffychat/commit/940d3e62dbf1b8d872a66afc360bfee277f3f061)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: do format</code>](https://github.com/krille-chan/fluffychat/commit/acce4a8d7befa525afe64f9158a4c8f0479dbcd2)
+- [ ] [<code>chore: do as suggested</code>](https://github.com/krille-chan/fluffychat/commit/27b2eac7ed1c79312b30c3f9ee93792753bb8a34)
+- [ ] [<code>chore: delete unrelated line</code>](https://github.com/krille-chan/fluffychat/commit/175d06515d5e5cd8c6ba73e621e04c8a3329b2e4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>chore: remove the userId param</code>](https://github.com/krille-chan/fluffychat/commit/1c614490f1d2e54abc886b648ba7fdd03cb704e0)
+- [ ] [<code>chore: Follow up polls</code>](https://github.com/krille-chan/fluffychat/commit/1ab29963fd452623d81bd1855d895dd1f2cf23ad)
+- [ ] [<code>chore: Allow all chars for emoji search</code>](https://github.com/krille-chan/fluffychat/commit/7724de65a2eef2ce153be0ef66d8f31a956075d4)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -420,6 +445,10 @@
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/afe8ad79955894710a48489f44800c7708c4da7d)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/1d06f42a2c30abbcf74e40dc0ddac4cd18fd3626)
+- [ ] [<code>Add linux mint build instructions (#22)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/a61ef934ff6c39558d520662ca5d0d864621d491)
+- [ ] [<code>3.50.8</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/365f94559170feee6f56eca3011ad2017652e144)
+  - <sub>Tags: <code>3.50.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -496,6 +525,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added Windows agent install scripts.</code>](https://github.com/lxc/incus/commit/221cddae4c33d7d761910c0e435fe5ceb6b1848e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc/howto/instances: Update Windows agent instructions</code>](https://github.com/lxc/incus/commit/9db54bd924719dd334edb6a4578bd2d1e1a0696a)
+- [ ] [<code>doc/image_format: Tweak wording</code>](https://github.com/lxc/incus/commit/c51ec44fc656c2f74d4bcef326b2e5c62ba6a07b)
+- [ ] [<code>internal/linux: Add IoctlBlkZname</code>](https://github.com/lxc/incus/commit/69387b236ef768e22fecdfe814e372d7f4fd5f38)
+- [ ] [<code>incusd/storage/zfs: Rework zvol resolution logic</code>](https://github.com/lxc/incus/commit/3a26837acde2f2b8d0612b55780feab5a28ee098)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "tests: Skip XFS on ZFS with Ubuntu 24.04"</code>](https://github.com/lxc/incus/commit/7793160f823324f0f28a130da7ae8b68b808e68f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4462,6 +4496,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added Windows agent install scripts.</code>](https://github.com/lxc/incus/commit/221cddae4c33d7d761910c0e435fe5ceb6b1848e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>doc/howto/instances: Update Windows agent instructions</code>](https://github.com/lxc/incus/commit/9db54bd924719dd334edb6a4578bd2d1e1a0696a)
+- [ ] [<code>doc/image_format: Tweak wording</code>](https://github.com/lxc/incus/commit/c51ec44fc656c2f74d4bcef326b2e5c62ba6a07b)
+- [ ] [<code>internal/linux: Add IoctlBlkZname</code>](https://github.com/lxc/incus/commit/69387b236ef768e22fecdfe814e372d7f4fd5f38)
+- [ ] [<code>incusd/storage/zfs: Rework zvol resolution logic</code>](https://github.com/lxc/incus/commit/3a26837acde2f2b8d0612b55780feab5a28ee098)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>Revert "tests: Skip XFS on ZFS with Ubuntu 24.04"</code>](https://github.com/lxc/incus/commit/7793160f823324f0f28a130da7ae8b68b808e68f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4559,6 +4598,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Initialize cicpSet in avifDecoderFindGainMapItem()</code>](https://github.com/AOMediaCodec/libavif/commit/ad6b520f23f835baedc58aac62576ae40ea3944b)
 - [ ] [<code>Remove AVIF_ENABLE_EXPERIMENTAL_SAMPLE_TRANSFORM (#2904)</code>](https://github.com/AOMediaCodec/libavif/commit/a6ae8c635c2b0c6fe6ae645fb582c2ab5a26fb82)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix upload-sarif dep hash and tag (#2906)</code>](https://github.com/AOMediaCodec/libavif/commit/29f7f1c0d1b2a94938447fa361cc24b9c94ddac7)
+- [ ] [<code>Fix GainMap math comments (#2907)</code>](https://github.com/AOMediaCodec/libavif/commit/d2987a86cf770ab89461f1d260ce5e79fea5366a)
+- [ ] [<code>Document API contract of avifReadColorNclxProperty</code>](https://github.com/AOMediaCodec/libavif/commit/66c460f110c01349fc9b258155ec26383b306028)
+- [ ] [<code>Bump the github-actions group across 1 directory with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/f661cb0363cbfd7a1f45d119e00f6a119e5ebabf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5505,6 +5548,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Proper locking when searching for datafile (#21302)</code>](https://github.com/netdata/netdata.git/commit/746cc02077813abd67f08df599b798e259ab1de9)
 - [ ] [<code>Reset backfill requests on child reconnect (#21315)</code>](https://github.com/netdata/netdata.git/commit/c8e772db3912170fe775d3effca595daa9ba72a5)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-262-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc4141db809596c7433346241ea1fba5fa55bc35)
+- [ ] [<code>Add helm repo when adding kuberentes to the nodes (#21318)</code>](https://github.com/netdata/netdata.git/commit/a7f4ea33884090fc57aebd51c20482cbf5568db4)
+- [ ] [<code>Regenerate integrations docs (#21316)</code>](https://github.com/netdata/netdata.git/commit/9be2e10f01565f75adc42ba7a01bb763dc684e74)
+- [ ] [<code>[ci skip] Minor release v2.8.0.</code>](https://github.com/netdata/netdata.git/commit/661d37bedda1561cc1a1cbee8c4ed12dabc0b0a5)
+  - <sub>Tags: <code>v2.8.0</code></sub>
+- [ ] [<code>fix(cgroups): improve podman container name resolution (#21317)</code>](https://github.com/netdata/netdata.git/commit/b3b04ac530874b48515447ff1f4af7c003b8e96a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7585,6 +7633,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(tools/soundcore-device-faker): add a3933 and a3939</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b0857be862302f1f95291ed5711f0c7b4637d1be)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/911a5e21d4120e97f07056326858831bea489b93)
+- [ ] [<code>Update issue templates</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2742288effba602e8e32c0582205463c0669d012)
+- [ ] [<code>github: remove issue template for other issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/22850a6fc7b85401d57b6478812cd64bd9d10b71)
+- [ ] [<code>fix(lib): suboptimal a3040 sound mode change plan</code>](https://github.com/Oppzippy/OpenSCQ30/commit/14c3565e3a538483c4805f3892a37e45f7e3fd2f)
+- [ ] [<code>style: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/381296b629d98929b7a9a5ab208d411b687d7135)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7731,9 +7783,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fs: reset errno to zero in get_fd()</code>](https://github.com/jow-/ucode/commit/ea579046a619e5325b994780bf2ce1ffde448794)
 - [ ] [<code>examples/execute-file: free program</code>](https://github.com/jow-/ucode/commit/8567eef4d3a5becd7cb8402e4e896c128d84af48)
 - [ ] [<code>examples: free syntax_error</code>](https://github.com/jow-/ucode/commit/292e0f87cbf7bb5de67d407ebe5bd5971d7ac2a0)
+- [ ] [<code>Revert "nl80211: read all pending event messages"</code>](https://github.com/jow-/ucode/commit/fd5889028f5ef88dcf84c749e80ea7ea4b3ba812)
+- [ ] [<code>types: add ucv_string_alloc helper function</code>](https://github.com/jow-/ucode/commit/80a88b852620d8f19b1f62d5adf3e81bccb3bbe3)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.1...HEAD)
 
+- [ ] [<code>Update applications-office</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/9642986d36efd6f5f505a80f9ac1bc7e43b0cb4f)
+- [ ] [<code>Add git and group icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f29d81ee6f3ea04d3c5c6ef54b337f1457c55b01)
+- [ ] [<code>1.0.2</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b8c1d2505a944ea31c7f962c8f0fe699600a3b3b)
+  - <sub>Tags: <code>1.0.2</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
