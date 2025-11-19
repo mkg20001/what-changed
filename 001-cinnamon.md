@@ -8,8 +8,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/bulky/commit/732f34b83582a6969214d37ece80d960488061cd)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/bulky/commit/631685dde725e5a82e61f8893d484489ec697b08)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>4.0</code>](https://github.com/linuxmint/bulky/commit/63464b9b4dad9d78fbce6f643ee89a0ee7bbefcc)
+  - <sub>Tags: <code>4.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.4.13...HEAD)
 
@@ -315,6 +316,7 @@
 - [ ] [<code>menu@cinnamon.org: Handle another condition in the key-press-event</code>](https://github.com/linuxmint/cinnamon/commit/e589d6aecdba189680eab7cb1a1265b68232d691)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>networkAgent.js: Fix failed notification when reminding the user</code>](https://github.com/linuxmint/cinnamon/commit/c621f5d0bb1dbd7b1331467ebb3d3f30089a07b3)
+- [ ] [<code>st-password-entry.c: Use a 'bullet' character for password masking.</code>](https://github.com/linuxmint/cinnamon/commit/178cb82b498776eccdbc91be34ac9f64932c4d55)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
@@ -689,9 +691,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/pix/commit/38e9ff9af335ab13dd94129adb0b8863fe596b7e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.4.8</code>](https://github.com/linuxmint/pix/commit/c7bd81d18645afa139e0f318c33791e90f4ef0b0)
+  - <sub>Tags: <code>3.4.8</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.0 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.0...HEAD)
 
@@ -704,8 +708,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/warpinator/commit/6e705ceb12f7546c3930e42594f57f765747ce24)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/warpinator/commit/78fe18d2642412c52d87bf6ab9d19888321d8c22)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix reconnecting when certificate is unchanged (#238)</code>](https://github.com/linuxmint/warpinator/commit/741a6b1eca98b5c5b9f9bb0213170725a6a4f178)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
 
@@ -719,9 +724,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xreader/commit/4682832acd2b98639dd2bdda31a632e09a392628)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix a minor typo (#683)</code>](https://github.com/linuxmint/xreader/commit/017e59424f518b240f6efa1715c64dd0fe8402c9)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.12...HEAD)
 
