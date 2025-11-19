@@ -5480,6 +5480,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>MSSQL Options (windows.plugin) (#21301)</code>](https://github.com/netdata/netdata.git/commit/feb5e07a948e3e8e02b32b93b42a743aa61ab663)
 - [ ] [<code>Proper locking when searching for datafile (#21302)</code>](https://github.com/netdata/netdata.git/commit/746cc02077813abd67f08df599b798e259ab1de9)
 - [ ] [<code>Reset backfill requests on child reconnect (#21315)</code>](https://github.com/netdata/netdata.git/commit/c8e772db3912170fe775d3effca595daa9ba72a5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.7.0-262-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc4141db809596c7433346241ea1fba5fa55bc35)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7548,6 +7549,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: fix `just fmt` referencing deleted ROADMAP.md</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0aeb6c50d65f52c364bb191d160de9ec469c9ad4)
 - [ ] [<code>style(android): format with ktlint 1.8.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a3b4f343cfc08a8742b61c00a965c19c57617a50)
 - [ ] [<code>ci: update ktlint to 1.8.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/322a16bea5e0e16cd0c3d34a1eb405a66823232c)
+- [ ] [<code>feat(tools/soundcore-device-faker): add option to not have checksum</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f02cb0640f386151b9de9fdb68dcda8157c26672)
+- [ ] [<code>feat(tools/soundcore-device-faker): add a3116</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a54044e916f872522653d6912196455e66a96a01)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(tools/soundcore-device-faker): add a3958</code>](https://github.com/Oppzippy/OpenSCQ30/commit/88f65662d66c02199395f2cc42949ab4208faebd)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
