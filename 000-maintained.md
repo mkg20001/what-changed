@@ -235,6 +235,14 @@
 - [ ] [<code>refactor: Use localized emojis for suggestion input</code>](https://github.com/krille-chan/fluffychat/commit/e7f9302e529c05d5c08c2321a76c8fd85c838a6a)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: make locale for emoji suggestions configureable</code>](https://github.com/krille-chan/fluffychat/commit/419f57a14ce8c3212edc2a70bdc3c3c03ad4630b)
+- [ ] [<code>chore: Escape title in check duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/b72ea373de62733c25796bca24bbb971fa45349f)
+- [ ] [<code>chore: Improve text selection color for messages</code>](https://github.com/krille-chan/fluffychat/commit/f345ec4210e879791754f3e67fe7fbedf720dc01)
+- [ ] [<code>build: Update pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/8e4c61f03be42a7076b70c3febad1cf71c8d7f2a)
+- [ ] [<code>refactor: Use own highlight rendering with working scrollbar and text selection</code>](https://github.com/krille-chan/fluffychat/commit/d8d0abf27cbaf08fb09b2740a9e363834eaec5ab)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Increase padding for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/6836cab40ed0ec33e8f74f7e78964569c2dcc189)
+- [ ] [<code>chore: Remove horizontal scrolling for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/c3ec0491d1c5af44810f295694f8721815c46df5)
+- [ ] [<code>chore: follow up Simplify codeblock code</code>](https://github.com/krille-chan/fluffychat/commit/5262395340cd92f7b136ea0868fe61cb022d3b3c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -386,6 +394,14 @@
 - [ ] [<code>refactor: Use localized emojis for suggestion input</code>](https://github.com/krille-chan/fluffychat/commit/e7f9302e529c05d5c08c2321a76c8fd85c838a6a)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: make locale for emoji suggestions configureable</code>](https://github.com/krille-chan/fluffychat/commit/419f57a14ce8c3212edc2a70bdc3c3c03ad4630b)
+- [ ] [<code>chore: Escape title in check duplicates job</code>](https://github.com/krille-chan/fluffychat/commit/b72ea373de62733c25796bca24bbb971fa45349f)
+- [ ] [<code>chore: Improve text selection color for messages</code>](https://github.com/krille-chan/fluffychat/commit/f345ec4210e879791754f3e67fe7fbedf720dc01)
+- [ ] [<code>build: Update pubspec.lock</code>](https://github.com/krille-chan/fluffychat/commit/8e4c61f03be42a7076b70c3febad1cf71c8d7f2a)
+- [ ] [<code>refactor: Use own highlight rendering with working scrollbar and text selection</code>](https://github.com/krille-chan/fluffychat/commit/d8d0abf27cbaf08fb09b2740a9e363834eaec5ab)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Increase padding for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/6836cab40ed0ec33e8f74f7e78964569c2dcc189)
+- [ ] [<code>chore: Remove horizontal scrolling for code blocks</code>](https://github.com/krille-chan/fluffychat/commit/c3ec0491d1c5af44810f295694f8721815c46df5)
+- [ ] [<code>chore: follow up Simplify codeblock code</code>](https://github.com/krille-chan/fluffychat/commit/5262395340cd92f7b136ea0868fe61cb022d3b3c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -477,6 +493,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/util: #2636 fix linter complaints in `internal/util`</code>](https://github.com/lxc/incus/commit/0a7ac1e76d615b47f97e0d8801e33d4f7ec92441)
 - [ ] [<code>doc: Remove mentions of IRC</code>](https://github.com/lxc/incus/commit/8c14c06f3592bbabc2c3e1952003700d7d20e42f)
+- [ ] [<code>Added Windows agent install scripts.</code>](https://github.com/lxc/incus/commit/221cddae4c33d7d761910c0e435fe5ceb6b1848e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/howto/instances: Update Windows agent instructions</code>](https://github.com/lxc/incus/commit/9db54bd924719dd334edb6a4578bd2d1e1a0696a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4440,6 +4459,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incus/util: #2636 fix linter complaints in `internal/util`</code>](https://github.com/lxc/incus/commit/0a7ac1e76d615b47f97e0d8801e33d4f7ec92441)
 - [ ] [<code>doc: Remove mentions of IRC</code>](https://github.com/lxc/incus/commit/8c14c06f3592bbabc2c3e1952003700d7d20e42f)
+- [ ] [<code>Added Windows agent install scripts.</code>](https://github.com/lxc/incus/commit/221cddae4c33d7d761910c0e435fe5ceb6b1848e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>doc/howto/instances: Update Windows agent instructions</code>](https://github.com/lxc/incus/commit/9db54bd924719dd334edb6a4578bd2d1e1a0696a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4535,6 +4557,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump dav1d to 1.5.2 (#2902)</code>](https://github.com/AOMediaCodec/libavif/commit/59396901bbfc9d29dcc8e5c71167ce054ba325ef)
 - [ ] [<code>CHANGELOG.md: Update to AVM research-v12.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/af4aec8901bc318b802d7111ccdbc09b9f13b8b6)
 - [ ] [<code>Initialize cicpSet in avifDecoderFindGainMapItem()</code>](https://github.com/AOMediaCodec/libavif/commit/ad6b520f23f835baedc58aac62576ae40ea3944b)
+- [ ] [<code>Remove AVIF_ENABLE_EXPERIMENTAL_SAMPLE_TRANSFORM (#2904)</code>](https://github.com/AOMediaCodec/libavif/commit/a6ae8c635c2b0c6fe6ae645fb582c2ab5a26fb82)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -7554,6 +7578,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(tools/soundcore-device-faker): add a3958</code>](https://github.com/Oppzippy/OpenSCQ30/commit/88f65662d66c02199395f2cc42949ab4208faebd)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add a3040 battery level</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1195e33f39843695c01fb9386e4ad137d9a8e83f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add a3040 button actions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1a6b6c6e8edb73fcc4e2c098ded8b3b4683280d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(tools/soundcore-device-faker): add a3933 and a3939</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b0857be862302f1f95291ed5711f0c7b4637d1be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/911a5e21d4120e97f07056326858831bea489b93)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
