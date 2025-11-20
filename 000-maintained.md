@@ -5553,6 +5553,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Minor release v2.8.0.</code>](https://github.com/netdata/netdata.git/commit/661d37bedda1561cc1a1cbee8c4ed12dabc0b0a5)
   - <sub>Tags: <code>v2.8.0</code></sub>
 - [ ] [<code>fix(cgroups): improve podman container name resolution (#21317)</code>](https://github.com/netdata/netdata.git/commit/b3b04ac530874b48515447ff1f4af7c003b8e96a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-2-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ba11b53e0f858a025603192e0ee8f2bf592e38e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7637,6 +7638,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>github: remove issue template for other issues</code>](https://github.com/Oppzippy/OpenSCQ30/commit/22850a6fc7b85401d57b6478812cd64bd9d10b71)
 - [ ] [<code>fix(lib): suboptimal a3040 sound mode change plan</code>](https://github.com/Oppzippy/OpenSCQ30/commit/14c3565e3a538483c4805f3892a37e45f7e3fd2f)
 - [ ] [<code>style: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/381296b629d98929b7a9a5ab208d411b687d7135)
+- [ ] [<code>build: v2.0.0-beta6</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82425823f313129f8e8b32a9a520cdc948797dab)
+  - <sub>Tags: <code>v2.0.0-beta6</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
