@@ -1,16 +1,6 @@
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/3.9 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/3.9...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.0 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.0...HEAD)
 
-- [ ] [<code>Rework 'Remove' mode behavior.</code>](https://github.com/linuxmint/bulky/commit/a7f3490f1a979fadfc4ec456046ab619cc6b0fac)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Clarify the license as defined in debian/copyright and switch to spdx format (#81)</code>](https://github.com/linuxmint/bulky/commit/10ed28d79ee056fe0118d7531b270d4ce668211f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/bulky/commit/732f34b83582a6969214d37ece80d960488061cd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/bulky/commit/631685dde725e5a82e61f8893d484489ec697b08)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.0</code>](https://github.com/linuxmint/bulky/commit/63464b9b4dad9d78fbce6f643ee89a0ee7bbefcc)
-  - <sub>Tags: <code>4.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.4.13 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.4.13...HEAD)
 
@@ -736,6 +726,8 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xviewer/commit/f1f95e17ff83724128a87af07bf3fb40a7f958bd)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix xviewer-metadata-sidebar.h include guard typo (#215)</code>](https://github.com/linuxmint/xviewer/commit/59f273730d16368acbaba17b850aa944197723d1)
+- [ ] [<code>fix indent of some new priv->modified code (#216)</code>](https://github.com/linuxmint/xviewer/commit/de0f70b6878e33ab04c8394560aeab1cd2a3bc93)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
