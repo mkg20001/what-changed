@@ -197,7 +197,7 @@
 - [ ] [<code>build: Fix action indent</code>](https://github.com/krille-chan/fluffychat/commit/bbf5093552223cd98a2552009e3b38f94e239a99)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Fixed free up job</code>](https://github.com/krille-chan/fluffychat/commit/f3bfdf6f0306c36e4a225536ee8b9eb715091a9a)
-  - <sub>Tags: <code>v2.3.0</code></sub>
+  - <sub>Tags: <code>v2.3.0</code> <code>v2.3.1</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/b45f3aade94fe45717d6179f126e1a63ff31bb24)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/02945d6b9d28ab7960a3d9ae6d965a9ac25e4864)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/73b32d011907da7c896a7263ab0dc1febf7d4b06)
@@ -259,6 +259,18 @@
 - [ ] [<code>chore: Allow all chars for emoji search</code>](https://github.com/krille-chan/fluffychat/commit/7724de65a2eef2ce153be0ef66d8f31a956075d4)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/91e60efbb116bdd84293545f6c6a663760f22f83)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/61a4126c0a33142148360b6f74dc29452c54ab60)
+- [ ] [<code>refactor: Improved design and UX for sticker editor</code>](https://github.com/krille-chan/fluffychat/commit/1d92e07c4751f033ca388e3d7891bb344025f184)
+- [ ] [<code>feat: Upload multiple stickers at once</code>](https://github.com/krille-chan/fluffychat/commit/5a3703ff2d989d64f9538237cf59baba74a2f7c6)
+- [ ] [<code>feat: Set usage of custom emojis and stickers</code>](https://github.com/krille-chan/fluffychat/commit/18d69ae608b7692a9cdd953a5da970fbb7126971)
+- [ ] [<code>chore: Improve room custom emote UX</code>](https://github.com/krille-chan/fluffychat/commit/2b4381dd07c437c23a1551d375384f329e4f6295)
+- [ ] [<code>chore: Make sticker previews in editor clickable</code>](https://github.com/krille-chan/fluffychat/commit/726de6e92b115e685d0ff5c860bea39b3362b9de)
+- [ ] [<code>chore: Improve sticker editor UX</code>](https://github.com/krille-chan/fluffychat/commit/ed945311d94d9d45e2301106f89242f0540b6cc2)
+- [ ] [<code>fix: State problem when not changing emote name</code>](https://github.com/krille-chan/fluffychat/commit/b625249ff8d0965849c737a85a7010503b4e2974)
+- [ ] [<code>refactor: Display all sticker packs in same editor with filterchips</code>](https://github.com/krille-chan/fluffychat/commit/3c86da7932b2460d511811cb34b0bd601f9a3dd5)
+- [ ] [<code>chore: Follow up emote settings</code>](https://github.com/krille-chan/fluffychat/commit/43c5c35fcc342e5101ea2d6e1ae4ae4c3efbfa77)
+- [ ] [<code>feat: Create new sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/089932a9f4a39729ddd3a94d4dcdcf387a6df15c)
+- [ ] [<code>chore: Display attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/87ca3c1f1fe712a44c9b6be8a136c4912ea60e5f)
+- [ ] [<code>feat: Edit displayname and attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/489402be91c45a4a8b85a7b3157e0f1b86fb1978)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -369,7 +381,7 @@
 - [ ] [<code>build: Fix action indent</code>](https://github.com/krille-chan/fluffychat/commit/bbf5093552223cd98a2552009e3b38f94e239a99)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build: Fixed free up job</code>](https://github.com/krille-chan/fluffychat/commit/f3bfdf6f0306c36e4a225536ee8b9eb715091a9a)
-  - <sub>Tags: <code>v2.3.0</code></sub>
+  - <sub>Tags: <code>v2.3.0</code> <code>v2.3.1</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/b45f3aade94fe45717d6179f126e1a63ff31bb24)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/02945d6b9d28ab7960a3d9ae6d965a9ac25e4864)
 - [ ] [<code>chore(translations): Translated using Weblate (Finnish)</code>](https://github.com/krille-chan/fluffychat/commit/73b32d011907da7c896a7263ab0dc1febf7d4b06)
@@ -431,6 +443,18 @@
 - [ ] [<code>chore: Allow all chars for emoji search</code>](https://github.com/krille-chan/fluffychat/commit/7724de65a2eef2ce153be0ef66d8f31a956075d4)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/91e60efbb116bdd84293545f6c6a663760f22f83)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/61a4126c0a33142148360b6f74dc29452c54ab60)
+- [ ] [<code>refactor: Improved design and UX for sticker editor</code>](https://github.com/krille-chan/fluffychat/commit/1d92e07c4751f033ca388e3d7891bb344025f184)
+- [ ] [<code>feat: Upload multiple stickers at once</code>](https://github.com/krille-chan/fluffychat/commit/5a3703ff2d989d64f9538237cf59baba74a2f7c6)
+- [ ] [<code>feat: Set usage of custom emojis and stickers</code>](https://github.com/krille-chan/fluffychat/commit/18d69ae608b7692a9cdd953a5da970fbb7126971)
+- [ ] [<code>chore: Improve room custom emote UX</code>](https://github.com/krille-chan/fluffychat/commit/2b4381dd07c437c23a1551d375384f329e4f6295)
+- [ ] [<code>chore: Make sticker previews in editor clickable</code>](https://github.com/krille-chan/fluffychat/commit/726de6e92b115e685d0ff5c860bea39b3362b9de)
+- [ ] [<code>chore: Improve sticker editor UX</code>](https://github.com/krille-chan/fluffychat/commit/ed945311d94d9d45e2301106f89242f0540b6cc2)
+- [ ] [<code>fix: State problem when not changing emote name</code>](https://github.com/krille-chan/fluffychat/commit/b625249ff8d0965849c737a85a7010503b4e2974)
+- [ ] [<code>refactor: Display all sticker packs in same editor with filterchips</code>](https://github.com/krille-chan/fluffychat/commit/3c86da7932b2460d511811cb34b0bd601f9a3dd5)
+- [ ] [<code>chore: Follow up emote settings</code>](https://github.com/krille-chan/fluffychat/commit/43c5c35fcc342e5101ea2d6e1ae4ae4c3efbfa77)
+- [ ] [<code>feat: Create new sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/089932a9f4a39729ddd3a94d4dcdcf387a6df15c)
+- [ ] [<code>chore: Display attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/87ca3c1f1fe712a44c9b6be8a136c4912ea60e5f)
+- [ ] [<code>feat: Edit displayname and attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/489402be91c45a4a8b85a7b3157e0f1b86fb1978)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -445,14 +469,8 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.7 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.7...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.8 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.8...HEAD)
 
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/afe8ad79955894710a48489f44800c7708c4da7d)
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/1d06f42a2c30abbcf74e40dc0ddac4cd18fd3626)
-- [ ] [<code>Add linux mint build instructions (#22)</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/a61ef934ff6c39558d520662ca5d0d864621d491)
-- [ ] [<code>3.50.8</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/365f94559170feee6f56eca3011ad2017652e144)
-  - <sub>Tags: <code>3.50.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -4771,6 +4789,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Update lxc.spec.in to use meson</code>](https://github.com/lxc/lxc/commit/c81e03eb69e10b50a51ec854067bd7995e553b44)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>apparmor: skip /proc and /sys restrictions if nesting is enabled</code>](https://github.com/lxc/lxc/commit/b89ed0a8e6cb48016f5dac68100e4f47003aeb62)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4850,6 +4869,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(cgroups): improve podman container name resolution (#21317)</code>](https://github.com/netdata/netdata.git/commit/b3b04ac530874b48515447ff1f4af7c003b8e96a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-2-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ba11b53e0f858a025603192e0ee8f2bf592e38e)
 - [ ] [<code>build(deps): bump golang.org/x/crypto from 0.43.0 to 0.45.0 in /src/go (#21322)</code>](https://github.com/netdata/netdata.git/commit/189f5bf36730f7b8da0b759cc917b22eb81c7101)
+- [ ] [<code>Remove log message (#21325)</code>](https://github.com/netdata/netdata.git/commit/62c26fe7f930292f585e30b21b2412d2cee58b87)
+- [ ] [<code>improve(health/dyncfg): Add source unit field to alert value (#21326)</code>](https://github.com/netdata/netdata.git/commit/f81b2d18d1818571b045f9ebd6a7ab0784231556)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
