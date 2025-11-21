@@ -307,7 +307,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>networkAgent.js: Fix failed notification when reminding the user</code>](https://github.com/linuxmint/cinnamon/commit/c621f5d0bb1dbd7b1331467ebb3d3f30089a07b3)
 - [ ] [<code>st-password-entry.c: Use a 'bullet' character for password masking.</code>](https://github.com/linuxmint/cinnamon/commit/178cb82b498776eccdbc91be34ac9f64932c4d55)
+- [ ] [<code>keybindings.js: Add dedicated xlet keybinding methods to improve</code>](https://github.com/linuxmint/cinnamon/commit/40e360dc20f070e95db3807f203531e4c5fdc6db)
+- [ ] [<code>applets: Use new keybinding api for xlets.</code>](https://github.com/linuxmint/cinnamon/commit/7be781ae54cc385de4d5417377a6458192836dc0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keybinding settings: Fix keybinding lookup for standalone widgets.</code>](https://github.com/linuxmint/cinnamon/commit/a878e1aa776cfe9b491763096d73a455f2aeb1e9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -700,6 +705,10 @@
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/warpinator/commit/78fe18d2642412c52d87bf6ab9d19888321d8c22)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Fix reconnecting when certificate is unchanged (#238)</code>](https://github.com/linuxmint/warpinator/commit/741a6b1eca98b5c5b9f9bb0213170725a6a4f178)
+- [ ] [<code>Ability to send text messages (#225)</code>](https://github.com/linuxmint/warpinator/commit/b539df26cab49d9f54863163ac7369e437329f68)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>messages: Simplify ellipsizing, remove max-width-chars restriction,</code>](https://github.com/linuxmint/warpinator/commit/2f089ca4ca4e737e13e4c5264fa482d73394145f)
+- [ ] [<code>warpinator.py: Remove leftover print.</code>](https://github.com/linuxmint/warpinator/commit/326dfdc230445af3bf829c96134fa49af66a50df)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
