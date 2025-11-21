@@ -4871,6 +4871,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump golang.org/x/crypto from 0.43.0 to 0.45.0 in /src/go (#21322)</code>](https://github.com/netdata/netdata.git/commit/189f5bf36730f7b8da0b759cc917b22eb81c7101)
 - [ ] [<code>Remove log message (#21325)</code>](https://github.com/netdata/netdata.git/commit/62c26fe7f930292f585e30b21b2412d2cee58b87)
 - [ ] [<code>improve(health/dyncfg): Add source unit field to alert value (#21326)</code>](https://github.com/netdata/netdata.git/commit/f81b2d18d1818571b045f9ebd6a7ab0784231556)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-6-nightly.</code>](https://github.com/netdata/netdata.git/commit/583a4ec7981a7620e954b2a0dae1f32a0bd03e3e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
