@@ -62,7 +62,7 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/bff1c3c434880db1431a3d6d6f5b1bff32a27ea1)
 - [ ] [<code>github: Ignore unrelated GHSA</code>](https://github.com/lxc/distrobuilder/commit/909b5f8700ecbf9512f8c4d91b5cf4e088218aa1)
 
-#### [docuum](https://github.com/stepchowfun/docuum): [v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/v0.25.1...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.25.1...HEAD)
 
 - [ ] [<code>Install v0.25.1 by default</code>](https://github.com/stepchowfun/docuum/commit/0cf78cd26203f31e1ff76885efaea34ec0bb2b21)
 - [ ] [<code>Update Rust to v1.91.0</code>](https://github.com/stepchowfun/docuum/commit/37fd07e1e7eacfd21b429d4fa642b3581b61240b)
@@ -271,6 +271,7 @@
 - [ ] [<code>feat: Create new sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/089932a9f4a39729ddd3a94d4dcdcf387a6df15c)
 - [ ] [<code>chore: Display attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/87ca3c1f1fe712a44c9b6be8a136c4912ea60e5f)
 - [ ] [<code>feat: Edit displayname and attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/489402be91c45a4a8b85a7b3157e0f1b86fb1978)
+- [ ] [<code>build: (deps): bump actions/checkout from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/85500e76c2b7d71edcab5b4bdfad584644abeb2b)
 - [ ] [<code>chore: Replace copy action with pin event action in UI</code>](https://github.com/krille-chan/fluffychat/commit/a8bcf12763b2e91389580542176647c76023d981)
 - [ ] [<code>chore: Allow export of readonly sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/205eb1bbc949c8a98d52bb8e7a0d8431b53e030e)
 - [ ] [<code>chore: Make attribution url field clickable</code>](https://github.com/krille-chan/fluffychat/commit/7efc426c889e419262ba7f244451dc845c2c538b)
@@ -460,6 +461,7 @@
 - [ ] [<code>feat: Create new sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/089932a9f4a39729ddd3a94d4dcdcf387a6df15c)
 - [ ] [<code>chore: Display attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/87ca3c1f1fe712a44c9b6be8a136c4912ea60e5f)
 - [ ] [<code>feat: Edit displayname and attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/489402be91c45a4a8b85a7b3157e0f1b86fb1978)
+- [ ] [<code>build: (deps): bump actions/checkout from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/85500e76c2b7d71edcab5b4bdfad584644abeb2b)
 - [ ] [<code>chore: Replace copy action with pin event action in UI</code>](https://github.com/krille-chan/fluffychat/commit/a8bcf12763b2e91389580542176647c76023d981)
 - [ ] [<code>chore: Allow export of readonly sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/205eb1bbc949c8a98d52bb8e7a0d8431b53e030e)
 - [ ] [<code>chore: Make attribution url field clickable</code>](https://github.com/krille-chan/fluffychat/commit/7efc426c889e419262ba7f244451dc845c2c538b)
@@ -4644,6 +4646,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix GainMap math comments (#2907)</code>](https://github.com/AOMediaCodec/libavif/commit/d2987a86cf770ab89461f1d260ce5e79fea5366a)
 - [ ] [<code>Document API contract of avifReadColorNclxProperty</code>](https://github.com/AOMediaCodec/libavif/commit/66c460f110c01349fc9b258155ec26383b306028)
 - [ ] [<code>Bump the github-actions group across 1 directory with 3 updates</code>](https://github.com/AOMediaCodec/libavif/commit/f661cb0363cbfd7a1f45d119e00f6a119e5ebabf)
+- [ ] [<code>Fix Extended XMP parsing (#2909)</code>](https://github.com/AOMediaCodec/libavif/commit/841ba144947f9a75ff25dfb6ad80cc33bdac5a7b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add optional arg to --depth flag in avifenc (#2905)</code>](https://github.com/AOMediaCodec/libavif/commit/2044c029d5eb7208234874b70368766afe29fbe5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4887,6 +4894,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix compilation when DBENGINE is disabled (#21323)</code>](https://github.com/netdata/netdata.git/commit/49f117b1265929275770f151d233929670fa2233)
 - [ ] [<code>disable apps plugin pss mem by default (#21330)</code>](https://github.com/netdata/netdata.git/commit/74623ba2d4b4b1ff9658ad715c46a926b64549aa)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(go.d): fix dyncfg vnodes configs (#21332)</code>](https://github.com/netdata/netdata.git/commit/e5b1e5a1e1968099aa2b1a756620936857508b32)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
