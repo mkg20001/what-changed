@@ -271,6 +271,11 @@
 - [ ] [<code>feat: Create new sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/089932a9f4a39729ddd3a94d4dcdcf387a6df15c)
 - [ ] [<code>chore: Display attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/87ca3c1f1fe712a44c9b6be8a136c4912ea60e5f)
 - [ ] [<code>feat: Edit displayname and attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/489402be91c45a4a8b85a7b3157e0f1b86fb1978)
+- [ ] [<code>chore: Replace copy action with pin event action in UI</code>](https://github.com/krille-chan/fluffychat/commit/a8bcf12763b2e91389580542176647c76023d981)
+- [ ] [<code>chore: Allow export of readonly sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/205eb1bbc949c8a98d52bb8e7a0d8431b53e030e)
+- [ ] [<code>chore: Make attribution url field clickable</code>](https://github.com/krille-chan/fluffychat/commit/7efc426c889e419262ba7f244451dc845c2c538b)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/32213e1c092aac023f857206b8fb2fa291fbbad4)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/5815dbde17cfa75b7c3516eb82602ad3dff8dc08)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -455,6 +460,11 @@
 - [ ] [<code>feat: Create new sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/089932a9f4a39729ddd3a94d4dcdcf387a6df15c)
 - [ ] [<code>chore: Display attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/87ca3c1f1fe712a44c9b6be8a136c4912ea60e5f)
 - [ ] [<code>feat: Edit displayname and attribution for sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/489402be91c45a4a8b85a7b3157e0f1b86fb1978)
+- [ ] [<code>chore: Replace copy action with pin event action in UI</code>](https://github.com/krille-chan/fluffychat/commit/a8bcf12763b2e91389580542176647c76023d981)
+- [ ] [<code>chore: Allow export of readonly sticker packs</code>](https://github.com/krille-chan/fluffychat/commit/205eb1bbc949c8a98d52bb8e7a0d8431b53e030e)
+- [ ] [<code>chore: Make attribution url field clickable</code>](https://github.com/krille-chan/fluffychat/commit/7efc426c889e419262ba7f244451dc845c2c538b)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/32213e1c092aac023f857206b8fb2fa291fbbad4)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/5815dbde17cfa75b7c3516eb82602ad3dff8dc08)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -556,6 +566,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus-agent: Fix gofumpt</code>](https://github.com/lxc/incus/commit/895feb456ec453cd5338a267d29bdfdac130889a)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/48b53e7e92aa318e25d8d8ea1b1c5ac03f4c36b7)
 - [ ] [<code>lint: Make govulncheck non-fatal</code>](https://github.com/lxc/incus/commit/e8dc7e3c7c4d7ff82b77bdf949f1c38e3a491244)
+- [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4531,6 +4542,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus-agent: Fix gofumpt</code>](https://github.com/lxc/incus/commit/895feb456ec453cd5338a267d29bdfdac130889a)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/48b53e7e92aa318e25d8d8ea1b1c5ac03f4c36b7)
 - [ ] [<code>lint: Make govulncheck non-fatal</code>](https://github.com/lxc/incus/commit/e8dc7e3c7c4d7ff82b77bdf949f1c38e3a491244)
+- [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4872,6 +4884,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove log message (#21325)</code>](https://github.com/netdata/netdata.git/commit/62c26fe7f930292f585e30b21b2412d2cee58b87)
 - [ ] [<code>improve(health/dyncfg): Add source unit field to alert value (#21326)</code>](https://github.com/netdata/netdata.git/commit/f81b2d18d1818571b045f9ebd6a7ab0784231556)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-6-nightly.</code>](https://github.com/netdata/netdata.git/commit/583a4ec7981a7620e954b2a0dae1f32a0bd03e3e)
+- [ ] [<code>Fix compilation when DBENGINE is disabled (#21323)</code>](https://github.com/netdata/netdata.git/commit/49f117b1265929275770f151d233929670fa2233)
+- [ ] [<code>disable apps plugin pss mem by default (#21330)</code>](https://github.com/netdata/netdata.git/commit/74623ba2d4b4b1ff9658ad715c46a926b64549aa)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
