@@ -311,8 +311,10 @@
 - [ ] [<code>applets: Use new keybinding api for xlets.</code>](https://github.com/linuxmint/cinnamon/commit/7be781ae54cc385de4d5417377a6458192836dc0)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keybinding settings: Fix keybinding lookup for standalone widgets.</code>](https://github.com/linuxmint/cinnamon/commit/a878e1aa776cfe9b491763096d73a455f2aeb1e9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>GWL: Refresh all workspaces when change group/ungroup option (#13210)</code>](https://github.com/linuxmint/cinnamon/commit/bbedf324aa7b5af1185a51d0968e0bb9ebc63321)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -709,7 +711,10 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>messages: Simplify ellipsizing, remove max-width-chars restriction,</code>](https://github.com/linuxmint/warpinator/commit/2f089ca4ca4e737e13e4c5264fa482d73394145f)
 - [ ] [<code>warpinator.py: Remove leftover print.</code>](https://github.com/linuxmint/warpinator/commit/326dfdc230445af3bf829c96134fa49af66a50df)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/7921b8f167aa742d14d06dac56b5b5aa8987301b)
+- [ ] [<code>2.0.0</code>](https://github.com/linuxmint/warpinator/commit/750f49deef92a6250b746d6473693449a04a3227)
+  - <sub>Tags: <code>2.0.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
 
@@ -726,7 +731,11 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix a minor typo (#683)</code>](https://github.com/linuxmint/xreader/commit/017e59424f518b240f6efa1715c64dd0fe8402c9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/xreader/commit/7c1333d2a28c5afffd48e16f60c16af3aebd07eb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>4.6.0</code>](https://github.com/linuxmint/xreader/commit/4c1262dd1860dd97dc7703869db1a5ecc96e6ce1)
+  - <sub>Tags: <code>4.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.12...HEAD)
 
@@ -739,4 +748,7 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix xviewer-metadata-sidebar.h include guard typo (#215)</code>](https://github.com/linuxmint/xviewer/commit/59f273730d16368acbaba17b850aa944197723d1)
 - [ ] [<code>fix indent of some new priv->modified code (#216)</code>](https://github.com/linuxmint/xviewer/commit/de0f70b6878e33ab04c8394560aeab1cd2a3bc93)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Fix GDK-PixBuf refcounting (#221)</code>](https://github.com/linuxmint/xviewer/commit/c43d00242b24e2677812b9c1445c1e9c2d80d30d)
+- [ ] [<code>3.4.13</code>](https://github.com/linuxmint/xviewer/commit/69c93a2693a5d51c936a83ea2ab70f226d020646)
+  - <sub>Tags: <code>3.4.13</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
