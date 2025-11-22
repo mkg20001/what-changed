@@ -569,6 +569,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/48b53e7e92aa318e25d8d8ea1b1c5ac03f4c36b7)
 - [ ] [<code>lint: Make govulncheck non-fatal</code>](https://github.com/lxc/incus/commit/e8dc7e3c7c4d7ff82b77bdf949f1c38e3a491244)
 - [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
+- [ ] [<code>incus/storage_volume: Fix determination of target path</code>](https://github.com/lxc/incus/commit/b14ce796c16bbe1237e7c6bd4c738af20ac6ba9c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4545,6 +4547,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/48b53e7e92aa318e25d8d8ea1b1c5ac03f4c36b7)
 - [ ] [<code>lint: Make govulncheck non-fatal</code>](https://github.com/lxc/incus/commit/e8dc7e3c7c4d7ff82b77bdf949f1c38e3a491244)
 - [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
+- [ ] [<code>incus/storage_volume: Fix determination of target path</code>](https://github.com/lxc/incus/commit/b14ce796c16bbe1237e7c6bd4c738af20ac6ba9c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4895,6 +4899,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>disable apps plugin pss mem by default (#21330)</code>](https://github.com/netdata/netdata.git/commit/74623ba2d4b4b1ff9658ad715c46a926b64549aa)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>fix(go.d): fix dyncfg vnodes configs (#21332)</code>](https://github.com/netdata/netdata.git/commit/e5b1e5a1e1968099aa2b1a756620936857508b32)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/12805afee7f54a6d229bab3b1481015c5afdbdfa)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6983,6 +6988,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>style: fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/381296b629d98929b7a9a5ab208d411b687d7135)
 - [ ] [<code>build: v2.0.0-beta6</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82425823f313129f8e8b32a9a520cdc948797dab)
   - <sub>Tags: <code>v2.0.0-beta6</code></sub>
+- [ ] [<code>build(gui): switch back to upstream libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53cf23b700571dd10830405b82e73fcd45579140)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
