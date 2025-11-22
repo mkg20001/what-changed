@@ -688,24 +688,8 @@
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.0 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.0...HEAD)
 
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [1.8.10 → HEAD](https://github.com/linuxmint/warpinator/compare/1.8.10...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.0 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.0...HEAD)
 
-- [ ] [<code>Update README.md</code>](https://github.com/linuxmint/warpinator/commit/4f8217a0c6dff58bcb37b81d87ae6f6176702cb0)
-  - <sub>Tags: <code>master.lmde6</code></sub>
-- [ ] [<code>Ipv6 support (#231)</code>](https://github.com/linuxmint/warpinator/commit/70cc5ebe7baf7aaa9498993c4d77f7169f452177)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/warpinator/commit/6e705ceb12f7546c3930e42594f57f765747ce24)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/warpinator/commit/78fe18d2642412c52d87bf6ab9d19888321d8c22)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>Fix reconnecting when certificate is unchanged (#238)</code>](https://github.com/linuxmint/warpinator/commit/741a6b1eca98b5c5b9f9bb0213170725a6a4f178)
-- [ ] [<code>Ability to send text messages (#225)</code>](https://github.com/linuxmint/warpinator/commit/b539df26cab49d9f54863163ac7369e437329f68)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>messages: Simplify ellipsizing, remove max-width-chars restriction,</code>](https://github.com/linuxmint/warpinator/commit/2f089ca4ca4e737e13e4c5264fa482d73394145f)
-- [ ] [<code>warpinator.py: Remove leftover print.</code>](https://github.com/linuxmint/warpinator/commit/326dfdc230445af3bf829c96134fa49af66a50df)
-- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/warpinator/commit/7921b8f167aa742d14d06dac56b5b5aa8987301b)
-- [ ] [<code>2.0.0</code>](https://github.com/linuxmint/warpinator/commit/750f49deef92a6250b746d6473693449a04a3227)
-  - <sub>Tags: <code>2.0.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
 
