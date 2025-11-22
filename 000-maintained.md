@@ -277,6 +277,22 @@
 - [ ] [<code>chore: Make attribution url field clickable</code>](https://github.com/krille-chan/fluffychat/commit/7efc426c889e419262ba7f244451dc845c2c538b)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/32213e1c092aac023f857206b8fb2fa291fbbad4)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/5815dbde17cfa75b7c3516eb82602ad3dff8dc08)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.2.0 to 1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/585389e3134f142ae688fe29c5201e40e55c91d8)
+- [ ] [<code>build: (deps): bump file_selector from 1.0.4 to 1.1.0</code>](https://github.com/krille-chan/fluffychat/commit/5baa6fce86db2c2decd387db6879cf38f0c05fc7)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/08d3aebfa757f22f133af1ceede86d9c1e4f491d)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/a4e592112283930fe4563b4653ab0e7d83d162e3)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/deedf0b16ff1648e30d32937ebf0401e844e748d)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/e6c870f8afbbeec03d83bc81277c7834f46a640d)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c0148d4ee565f0fe2bf725c06ac05cf2b4f9b129)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.6 to 10.3.7</code>](https://github.com/krille-chan/fluffychat/commit/c850ef05d762bf0361ce74f59464775873150249)
+- [ ] [<code>build: Update to flutter 3.38.3</code>](https://github.com/krille-chan/fluffychat/commit/5d590c2c757b6522b4f929a29f65a808b03a0ae4)
+- [ ] [<code>fix: Do not auto load history in rooms with collapsed state only</code>](https://github.com/krille-chan/fluffychat/commit/5165b1b596dd559d187e2bbc8675804e08453806)
+- [ ] [<code>build: Update build lock files</code>](https://github.com/krille-chan/fluffychat/commit/70e8b5333386e62a963cfa867c68764c784696fa)
+- [ ] [<code>chore: ignore for now deprecated regex</code>](https://github.com/krille-chan/fluffychat/commit/621d52e993abc419a244fecb053b13c6def19d3e)
+- [ ] [<code>chore: Make stickers smaller than normal image messages</code>](https://github.com/krille-chan/fluffychat/commit/f279b40c6733cd6062f7f3e8037226da64e5098b)
+- [ ] [<code>chore: Link how do I get stickers FAQ entry</code>](https://github.com/krille-chan/fluffychat/commit/34a58c5962816058cf0e9cd53ce8b7dd549616fd)
+- [ ] [<code>refactor: Always open Chat Backup as page right after login</code>](https://github.com/krille-chan/fluffychat/commit/31a204f1ea6c3a8b2bbe33fffd31c88048468e38)
+- [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -467,6 +483,22 @@
 - [ ] [<code>chore: Make attribution url field clickable</code>](https://github.com/krille-chan/fluffychat/commit/7efc426c889e419262ba7f244451dc845c2c538b)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/32213e1c092aac023f857206b8fb2fa291fbbad4)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/5815dbde17cfa75b7c3516eb82602ad3dff8dc08)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.2.0 to 1.2.1</code>](https://github.com/krille-chan/fluffychat/commit/585389e3134f142ae688fe29c5201e40e55c91d8)
+- [ ] [<code>build: (deps): bump file_selector from 1.0.4 to 1.1.0</code>](https://github.com/krille-chan/fluffychat/commit/5baa6fce86db2c2decd387db6879cf38f0c05fc7)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/08d3aebfa757f22f133af1ceede86d9c1e4f491d)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/a4e592112283930fe4563b4653ab0e7d83d162e3)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/deedf0b16ff1648e30d32937ebf0401e844e748d)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/e6c870f8afbbeec03d83bc81277c7834f46a640d)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c0148d4ee565f0fe2bf725c06ac05cf2b4f9b129)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.6 to 10.3.7</code>](https://github.com/krille-chan/fluffychat/commit/c850ef05d762bf0361ce74f59464775873150249)
+- [ ] [<code>build: Update to flutter 3.38.3</code>](https://github.com/krille-chan/fluffychat/commit/5d590c2c757b6522b4f929a29f65a808b03a0ae4)
+- [ ] [<code>fix: Do not auto load history in rooms with collapsed state only</code>](https://github.com/krille-chan/fluffychat/commit/5165b1b596dd559d187e2bbc8675804e08453806)
+- [ ] [<code>build: Update build lock files</code>](https://github.com/krille-chan/fluffychat/commit/70e8b5333386e62a963cfa867c68764c784696fa)
+- [ ] [<code>chore: ignore for now deprecated regex</code>](https://github.com/krille-chan/fluffychat/commit/621d52e993abc419a244fecb053b13c6def19d3e)
+- [ ] [<code>chore: Make stickers smaller than normal image messages</code>](https://github.com/krille-chan/fluffychat/commit/f279b40c6733cd6062f7f3e8037226da64e5098b)
+- [ ] [<code>chore: Link how do I get stickers FAQ entry</code>](https://github.com/krille-chan/fluffychat/commit/34a58c5962816058cf0e9cd53ce8b7dd549616fd)
+- [ ] [<code>refactor: Always open Chat Backup as page right after login</code>](https://github.com/krille-chan/fluffychat/commit/31a204f1ea6c3a8b2bbe33fffd31c88048468e38)
+- [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4655,6 +4687,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add optional arg to --depth flag in avifenc (#2905)</code>](https://github.com/AOMediaCodec/libavif/commit/2044c029d5eb7208234874b70368766afe29fbe5)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Don't declare avifImagePushProperty with AVIF_API</code>](https://github.com/AOMediaCodec/libavif/commit/23a7903b3606befc43df847068d5f4da26686af5)
+- [ ] [<code>Remove CONFIG_NEW_CSP CONFIG_NEW_OBU_HEADER code</code>](https://github.com/AOMediaCodec/libavif/commit/2cad0a051fe8235bc891e035434e03b0c5960a14)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4900,6 +4935,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>fix(go.d): fix dyncfg vnodes configs (#21332)</code>](https://github.com/netdata/netdata.git/commit/e5b1e5a1e1968099aa2b1a756620936857508b32)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/12805afee7f54a6d229bab3b1481015c5afdbdfa)
+- [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.6 to 5.6.7 in /src/go (#21339)</code>](https://github.com/netdata/netdata.git/commit/9cec75acc14e9eefe5f3cec494731c4d918dbaa8)
+- [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.1.0 to 5.2.0 in /src/go (#21337)</code>](https://github.com/netdata/netdata.git/commit/9b1d8bf6896a4bed7fb9ac3d9274851d17e5b1f8)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.34.1 to 0.34.2 in /src/go (#21338)</code>](https://github.com/netdata/netdata.git/commit/ab36071510af066ae529e383fd9f0431328ca586)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.67.2 to 0.67.4 in /src/go (#21340)</code>](https://github.com/netdata/netdata.git/commit/2a4b2f07e63596c12ab6477e7d9c1248653d77b2)
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#21335)</code>](https://github.com/netdata/netdata.git/commit/753e965819a4abab90db190f16090f526d474584)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.16.0 to 9.17.0 in /src/go (#21341)</code>](https://github.com/netdata/netdata.git/commit/b3a05fb872ee687848594666bd82f5e1d34ca247)
+- [ ] [<code>ci: fix MCP Registry publishing workflow (#21342)</code>](https://github.com/netdata/netdata.git/commit/73d422317339b17912e08bf7b0adec53c1b81977)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
