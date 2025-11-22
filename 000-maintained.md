@@ -7141,10 +7141,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.1 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.1...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.2...HEAD)
 
-- [ ] [<code>Update applications-office</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/9642986d36efd6f5f505a80f9ac1bc7e43b0cb4f)
-- [ ] [<code>Add git and group icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f29d81ee6f3ea04d3c5c6ef54b337f1457c55b01)
-- [ ] [<code>1.0.2</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b8c1d2505a944ea31c7f962c8f0fe699600a3b3b)
-  - <sub>Tags: <code>1.0.2</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
