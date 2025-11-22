@@ -682,17 +682,8 @@
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.7 → HEAD](https://github.com/linuxmint/pix/compare/3.4.7...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.8 → HEAD](https://github.com/linuxmint/pix/compare/3.4.8...HEAD)
 
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/pix/commit/fcb9f33852805eae16132ee0e3f4992505f6f1bf)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/pix/commit/38e9ff9af335ab13dd94129adb0b8863fe596b7e)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>3.4.8</code>](https://github.com/linuxmint/pix/commit/c7bd81d18645afa139e0f318c33791e90f4ef0b0)
-  - <sub>Tags: <code>3.4.8</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.0 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.0...HEAD)
 
