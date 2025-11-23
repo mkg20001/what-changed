@@ -4942,6 +4942,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#21335)</code>](https://github.com/netdata/netdata.git/commit/753e965819a4abab90db190f16090f526d474584)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.16.0 to 9.17.0 in /src/go (#21341)</code>](https://github.com/netdata/netdata.git/commit/b3a05fb872ee687848594666bd82f5e1d34ca247)
 - [ ] [<code>ci: fix MCP Registry publishing workflow (#21342)</code>](https://github.com/netdata/netdata.git/commit/73d422317339b17912e08bf7b0adec53c1b81977)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-18-nightly.</code>](https://github.com/netdata/netdata.git/commit/a76b20bd2dea2d3647d2c7e3de163ab9d5ffd384)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
