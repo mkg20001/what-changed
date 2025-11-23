@@ -293,6 +293,7 @@
 - [ ] [<code>chore: Link how do I get stickers FAQ entry</code>](https://github.com/krille-chan/fluffychat/commit/34a58c5962816058cf0e9cd53ce8b7dd549616fd)
 - [ ] [<code>refactor: Always open Chat Backup as page right after login</code>](https://github.com/krille-chan/fluffychat/commit/31a204f1ea6c3a8b2bbe33fffd31c88048468e38)
 - [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
+- [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -499,6 +500,7 @@
 - [ ] [<code>chore: Link how do I get stickers FAQ entry</code>](https://github.com/krille-chan/fluffychat/commit/34a58c5962816058cf0e9cd53ce8b7dd549616fd)
 - [ ] [<code>refactor: Always open Chat Backup as page right after login</code>](https://github.com/krille-chan/fluffychat/commit/31a204f1ea6c3a8b2bbe33fffd31c88048468e38)
 - [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
+- [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4943,6 +4945,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.16.0 to 9.17.0 in /src/go (#21341)</code>](https://github.com/netdata/netdata.git/commit/b3a05fb872ee687848594666bd82f5e1d34ca247)
 - [ ] [<code>ci: fix MCP Registry publishing workflow (#21342)</code>](https://github.com/netdata/netdata.git/commit/73d422317339b17912e08bf7b0adec53c1b81977)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-18-nightly.</code>](https://github.com/netdata/netdata.git/commit/a76b20bd2dea2d3647d2c7e3de163ab9d5ffd384)
+- [ ] [<code>Add check for service shutdown while initializing health for a host (#21329)</code>](https://github.com/netdata/netdata.git/commit/827f8c90c429e2a2b307550a9fa40660c8f3adcf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5806,6 +5809,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Set cmake project name</code>](https://github.com/OLSR/OONF/commit/87820df462c6b821032b284f4d6e9db9d661d07c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Do not depend on specific networking.service</code>](https://github.com/OLSR/OONF/commit/11442aae30c9a5d31f8f2b5de71adc3b6ef30fbf)
+- [ ] [<code>build: set cmake_minimum_required to 3.10</code>](https://github.com/OLSR/OONF/commit/aeb6f57d0aa1180511302c948363c59343215aa6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
 
@@ -7032,6 +7037,37 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: v2.0.0-beta6</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82425823f313129f8e8b32a9a520cdc948797dab)
   - <sub>Tags: <code>v2.0.0-beta6</code></sub>
 - [ ] [<code>build(gui): switch back to upstream libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/53cf23b700571dd10830405b82e73fcd45579140)
+- [ ] [<code>feat(lib): add option to opt out of checksums in packets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ff1167d9a50235f83026a01e6cfda404a1da2781)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): basic a3116 support</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aea675e15816f6ef42257f366691030786b8eb5d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): make EqualizerConfiguration generic over min/max volume</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2926b72d7d9ba79ae14070074f6bea611f6d5e88)
+- [ ] [<code>refactor(lib): decouple EqualizerConfiguration and PresetEqualizerProfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e782d44079948082abe73f6ccc26ea3e8fb98e60)
+- [ ] [<code>refactor(lib): make equalizer module generic over min/max volume</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2349b123a334699d63eb472f4fcdd2bd288703bc)
+- [ ] [<code>refactor(lib): customizable equalizer presets</code>](https://github.com/Oppzippy/OpenSCQ30/commit/63b605d0cbb9c54335a322a7201179d28614ae75)
+- [ ] [<code>refactor(lib): prefix VolumeAdjustments with Common</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f66eb41d9537974a9b42ef473fd3004849580382)
+- [ ] [<code>docs(lib): explain reason for so many generics in equalizer module</code>](https://github.com/Oppzippy/OpenSCQ30/commit/eef08bd1b2b918548911dedbd14a3b59f61141aa)
+- [ ] [<code>fix(lib): incorrect packet without checksum parsing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/538198e11e2d73ab6c10ec3051a23f4af16d7d79)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add a3116 equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c90531999f7bc42b3d5e18b42eda24171a2072b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): remove unnecessary StateUpdatePacketType generic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/19a650252eb23b4147246e8e35dbeb3b89a5160a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): replace single flag with config struct</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d269403adca9ad5858ed525270dadaaf0c692a78)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): require ChecksumKind for packet serialization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2afe8576bbc7f46e420736178ba2f65abb0a340a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): only allow _with(out)?_checksum functions in tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3576528f05d3df7bc57b8a7b8945fb2ebc935098)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f29d1a105236d965ff179e343969157fb6f8ee5)
+- [ ] [<code>docs(README): move A3116 to supported</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ff1630ca3b6d8a9f845fa1460aca928dab41fd8a)
+- [ ] [<code>fix(lib): a3116 eq import/export incorrect number of fraction digits</code>](https://github.com/Oppzippy/OpenSCQ30/commit/73c2345967a9355edbd6c3b2ed51894c0493abf2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(lib): document soundcore_device! macro</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab3e6470c96e8e513fb0aa8327e437295434a0e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/13928714f65bfd8ac2ffcaf9c659cc04ef4a515c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: update .build-tool-versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/23faabb59995b6d9c6967e75028b76352b2e982e)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
