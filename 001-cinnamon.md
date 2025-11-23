@@ -712,18 +712,5 @@
   - <sub>Tags: <code>4.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.12 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.12...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.13 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.13...HEAD)
 
-- [ ] [<code>packaging: Don't depend on a transitional package name</code>](https://github.com/linuxmint/xviewer/commit/b8cc32f70b96a523ea35bc06166aa672dab84ffa)
-- [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/xviewer/commit/5aeee772dec4b4b93b070b0eff3f6e6b848961b8)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/xviewer/commit/f1f95e17ff83724128a87af07bf3fb40a7f958bd)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>fix xviewer-metadata-sidebar.h include guard typo (#215)</code>](https://github.com/linuxmint/xviewer/commit/59f273730d16368acbaba17b850aa944197723d1)
-- [ ] [<code>fix indent of some new priv->modified code (#216)</code>](https://github.com/linuxmint/xviewer/commit/de0f70b6878e33ab04c8394560aeab1cd2a3bc93)
-- [ ] [<code>Fix GDK-PixBuf refcounting (#221)</code>](https://github.com/linuxmint/xviewer/commit/c43d00242b24e2677812b9c1445c1e9c2d80d30d)
-- [ ] [<code>3.4.13</code>](https://github.com/linuxmint/xviewer/commit/69c93a2693a5d51c936a83ea2ab70f226d020646)
-  - <sub>Tags: <code>3.4.13</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
