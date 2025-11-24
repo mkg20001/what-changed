@@ -294,6 +294,7 @@
 - [ ] [<code>refactor: Always open Chat Backup as page right after login</code>](https://github.com/krille-chan/fluffychat/commit/31a204f1ea6c3a8b2bbe33fffd31c88048468e38)
 - [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
 - [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eba8360ae85f903d65264907bd2c4eb65e914566)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -501,6 +502,7 @@
 - [ ] [<code>refactor: Always open Chat Backup as page right after login</code>](https://github.com/krille-chan/fluffychat/commit/31a204f1ea6c3a8b2bbe33fffd31c88048468e38)
 - [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
 - [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eba8360ae85f903d65264907bd2c4eb65e914566)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4692,6 +4694,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Don't declare avifImagePushProperty with AVIF_API</code>](https://github.com/AOMediaCodec/libavif/commit/23a7903b3606befc43df847068d5f4da26686af5)
 - [ ] [<code>Remove CONFIG_NEW_CSP CONFIG_NEW_OBU_HEADER code</code>](https://github.com/AOMediaCodec/libavif/commit/2cad0a051fe8235bc891e035434e03b0c5960a14)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix hashFiles path (#2912)</code>](https://github.com/AOMediaCodec/libavif/commit/896fc41edc2a7c387f5336f43a7b5667b8801564)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4947,6 +4950,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-18-nightly.</code>](https://github.com/netdata/netdata.git/commit/a76b20bd2dea2d3647d2c7e3de163ab9d5ffd384)
 - [ ] [<code>Add check for service shutdown while initializing health for a host (#21329)</code>](https://github.com/netdata/netdata.git/commit/827f8c90c429e2a2b307550a9fa40660c8f3adcf)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-20-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3e0789c7d13fea1b680b575964521f2e1cabe73)
+- [ ] [<code>chore(go.d): disable redis lib logging (#21344)</code>](https://github.com/netdata/netdata.git/commit/20a511973291218c9625161e2932334bc004d44f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7069,6 +7073,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/13928714f65bfd8ac2ffcaf9c659cc04ef4a515c)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: update .build-tool-versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/23faabb59995b6d9c6967e75028b76352b2e982e)
+- [ ] [<code>build(tools/soundcore-device-faker): rename just tasks</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d32b0a2e09ddbc9a133e5a9be2a7a90c06c0f283)
+- [ ] [<code>refactor(lib): expand usage of EqualizerModuleSettings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e1641d421c0905bd4624caa70fe89ee29a252d1b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style: fix formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08dd92a42f417a492e5142b197173737b1fdcb1b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
