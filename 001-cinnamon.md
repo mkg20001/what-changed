@@ -503,6 +503,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Add Teams icon (#513)</code>](https://github.com/linuxmint/mint-y-icons/commit/3a73e46f53b0606912695ee256be8fe31bc45b6f)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Add GnuCash system package symbolic link (#522)</code>](https://github.com/linuxmint/mint-y-icons/commit/1a4aa7894a20c2209e345873650baa62a8a2854d)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
