@@ -4946,6 +4946,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: fix MCP Registry publishing workflow (#21342)</code>](https://github.com/netdata/netdata.git/commit/73d422317339b17912e08bf7b0adec53c1b81977)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-18-nightly.</code>](https://github.com/netdata/netdata.git/commit/a76b20bd2dea2d3647d2c7e3de163ab9d5ffd384)
 - [ ] [<code>Add check for service shutdown while initializing health for a host (#21329)</code>](https://github.com/netdata/netdata.git/commit/827f8c90c429e2a2b307550a9fa40660c8f3adcf)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-20-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3e0789c7d13fea1b680b575964521f2e1cabe73)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
