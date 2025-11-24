@@ -295,6 +295,7 @@
 - [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
 - [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eba8360ae85f903d65264907bd2c4eb65e914566)
+- [ ] [<code>chore: Request keys for last room messages after bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/8cfc25a139a2932e7c6c92bcd698aa69b105dde3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -503,6 +504,7 @@
 - [ ] [<code>fix: Do not display empty file description body</code>](https://github.com/krille-chan/fluffychat/commit/22eb82f7d2b0e0b495bb1902806261aac7e1dc1a)
 - [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eba8360ae85f903d65264907bd2c4eb65e914566)
+- [ ] [<code>chore: Request keys for last room messages after bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/8cfc25a139a2932e7c6c92bcd698aa69b105dde3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4695,6 +4697,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove CONFIG_NEW_CSP CONFIG_NEW_OBU_HEADER code</code>](https://github.com/AOMediaCodec/libavif/commit/2cad0a051fe8235bc891e035434e03b0c5960a14)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix hashFiles path (#2912)</code>](https://github.com/AOMediaCodec/libavif/commit/896fc41edc2a7c387f5336f43a7b5667b8801564)
+- [ ] [<code>Removed unused assignments (#2914)</code>](https://github.com/AOMediaCodec/libavif/commit/2b125ba9ea2055593122473cfd80bc0b10436817)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4853,6 +4856,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update lxc.spec.in to use meson</code>](https://github.com/lxc/lxc/commit/c81e03eb69e10b50a51ec854067bd7995e553b44)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>apparmor: skip /proc and /sys restrictions if nesting is enabled</code>](https://github.com/lxc/lxc/commit/b89ed0a8e6cb48016f5dac68100e4f47003aeb62)
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/lxc/commit/66178025643bd166bfec867211ff44b018863ad7)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4951,6 +4955,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add check for service shutdown while initializing health for a host (#21329)</code>](https://github.com/netdata/netdata.git/commit/827f8c90c429e2a2b307550a9fa40660c8f3adcf)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-20-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3e0789c7d13fea1b680b575964521f2e1cabe73)
 - [ ] [<code>chore(go.d): disable redis lib logging (#21344)</code>](https://github.com/netdata/netdata.git/commit/20a511973291218c9625161e2932334bc004d44f)
+- [ ] [<code>fix(go.d): prefer env-provided dirs over build-time defaults (#21345)</code>](https://github.com/netdata/netdata.git/commit/a7cd2fe51888460184c349fdad0896a17724e70d)
+- [ ] [<code>New Sensors (Windows.plugin) (#21319)</code>](https://github.com/netdata/netdata.git/commit/e343e69e93350fdb66373702ced88857c2d8112f)
+- [ ] [<code>Reorganize MSSQL (windows.plugin) (#21334)</code>](https://github.com/netdata/netdata.git/commit/eabfa36896fafc643c4882c9711be93712fe43d4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7171,6 +7178,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Set default non-dev log level to CRITICAL</code>](https://github.com/tribler/Tribler/commit/e021699aa8509dbad6a65e42766c4591adff2adf)
 - [ ] [<code>Make status bar up/down base 1000 instead of 1024</code>](https://github.com/tribler/Tribler/commit/03b54aea0f36f6d59ce21900e8fc23fc14b99c06)
 - [ ] [<code>Various fixes (#8805)</code>](https://github.com/tribler/Tribler/commit/1ecab5d10480e55eefe2cf07fd193b9cdb911b6d)
+- [ ] [<code>Prevent line breaks in downloads table</code>](https://github.com/tribler/Tribler/commit/7ff67abfdd1129f194afcf12b086e0387ff7e60b)
+- [ ] [<code>Update tracker_info</code>](https://github.com/tribler/Tribler/commit/e247cdf921890670161c50a5e09a29fd227a25b3)
+- [ ] [<code>Show additional debug info in on_raw_data</code>](https://github.com/tribler/Tribler/commit/bfd888457373f77bc4c64299e60d07f39b98d91a)
+- [ ] [<code>Remove HTTP logic from TriblerTunnelCommunity</code>](https://github.com/tribler/Tribler/commit/5f4e9713367a7a50d9b7e7e143c21ac2e5b97d15)
+- [ ] [<code>Fix endpoint.get_address always returning an empty address</code>](https://github.com/tribler/Tribler/commit/80209c62e0303b703c121e8fa8a161f4ec026019)
+- [ ] [<code>Introduce the notation of backup exit nodes</code>](https://github.com/tribler/Tribler/commit/7f547c8c4e82efdd6689ab188e256d3d2e158c63)
+- [ ] [<code>Limit the number of introduction points</code>](https://github.com/tribler/Tribler/commit/918bc6c7e400c9edacaff64bf5ae0ce935b71793)
+- [ ] [<code>Try to discover peers that are behind a different port</code>](https://github.com/tribler/Tribler/commit/7987282d1b2fa228c4ac034c79763d6b54fbba19)
+- [ ] [<code>Various fixes (#8822)</code>](https://github.com/tribler/Tribler/commit/3bc225bf8e3f37c6baee5c3e6929cd518befea56)
+- [ ] [<code>Fix for reordered 'add' and 'metainfo' alerts</code>](https://github.com/tribler/Tribler/commit/575d9f383de3d21594efa3fda8689ed16a649863)
+- [ ] [<code>Fix for reordered 'add' and 'metadata' alerts (#8824)</code>](https://github.com/tribler/Tribler/commit/f6d75d807618ab0a22f570506187f8a736049fc8)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -7231,3 +7249,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.2...HEAD)
 
+- [ ] [<code>Add missing xsi-user-favorites-symbolic. (#6)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a5a30d09b882965a304e3d7d0b9e23fef38353af)
+- [ ] [<code>packaging: Switch to architecture "all"</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/0a1d07519bf35681b86d4cdb5831aae8203fac1e)
+- [ ] [<code>packaging: Update description</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dfe88e431cd9813fb1474571b7fa485538db2bc1)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>packaging: Add dependencies</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/8b74b98810e9063f68d8594fda90b73309d50553)
+- [ ] [<code>1.0.3</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e1ad9a03abe14fbcf13ce13364482e1396b9d9fb)
+  - <sub>Tags: <code>1.0.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add xsi-folder-warning-symbolic.svg. (#7)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/8e4b19f451fbe487c7e1259dadce201c885ede01)
+- [ ] [<code>Add folder-recent-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2b7cad760ccfdedf32d4968b718012b21caf4e87)
+- [ ] [<code>1.0.4</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f4621c87d033c18a5f227b2a0fc45abf3cae64f1)
+  - <sub>Tags: <code>1.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
