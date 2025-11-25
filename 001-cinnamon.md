@@ -317,6 +317,7 @@
 - [ ] [<code>menu@cinnamon.org: Fix symbolic icon names for favorites and recents.</code>](https://github.com/linuxmint/cinnamon/commit/94c7ded238be6eff1d4706fae563b8a4a168a852)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix bug which caused duplicate applet orders when dropping them in the same position. (#13057)</code>](https://github.com/linuxmint/cinnamon/commit/27b7edd46864ed59207e6ba793373bce7aea5ae5)
+- [ ] [<code>Fixed an xlet-settings issue causing invalid callback/signal triggers with some setting types (#13199)</code>](https://github.com/linuxmint/cinnamon/commit/4cea7a7478f9315569b6aa5a06ef47f0396db26a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
@@ -333,7 +334,12 @@
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/be4360de3ae8964b8959602939ebfd1e3835621e)
 - [ ] [<code>Add iso-codes as debian build dependecy</code>](https://github.com/linuxmint/cinnamon-control-center/commit/25a616ec4ee495be3a93e6b757c01f9b0731f558)
 - [ ] [<code>iso-codes: Remove unused build dependency (#369)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/883800fbcf38ef671e837b7b26858ec86b8b9f13)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-control-center/commit/d323cbb514c5accb5d7e98566cba789f0629d808)
+- [ ] [<code>l10: Update files</code>](https://github.com/linuxmint/cinnamon-control-center/commit/1468a04d4b99061ff88a371a209d9812ff74e7a9)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-control-center/commit/58605ebf6e1f96a3f9ade2a8111b3cde0c50e689)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 
@@ -360,10 +366,15 @@
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1c41babc8240e65bf5816585ed549997992dacdf)
 - [ ] [<code>org.cinnamon.desktop.keybindings.wm.gschema: Add direct keyboard</code>](https://github.com/linuxmint/cinnamon-desktop/commit/25db5284443c81b2336f37cfa5a35de1c5cd242a)
 - [ ] [<code>Add magnifier reset keybinding.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/5e183f259a5e00c7bc31f413ff66ce5b202ad5d9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-desktop/commit/1f1de0d6151197216204b56f999c303bdd67e4c6)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.4.0...HEAD)
 
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-menus/commit/29d614cf6cc74606c79b69f59cd716844e7d0dee)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.4.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.4.1...HEAD)
 
@@ -371,7 +382,9 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/b35fc4fac71d8da2361239ac753d10e3268b8991)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/550d8d6ed32fdb73de9ee965aaf026fc67a4526d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/d147fe431c501989d1a4336d12ff3ad3028472c7)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.4.2...HEAD)
 
@@ -385,7 +398,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cinnamon-session/commit/b2277bfc389552955672dcb0f8d4c2d5285c6bdd)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-session/commit/363d4d0bb5cb58cfd12082fb72fecd9138433736)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-session/commit/1d7147202a2bdffb3813fae07a5092db687f1ff0)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-session/commit/91384e62a6be3c98ab028ec5181c4a13fc070574)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
 
@@ -428,13 +445,20 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>debian/control: Remove libpulse-dev.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8e882832dcf6f5e24867eba3652eb4dbc0d562c3)
 - [ ] [<code>csd-power: drop unused Tooltip dbus property (#422)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c2c760960dd3e19cccdd05b55105e5956586a396)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4b01c72008351e77a2169e809cd7e016c02052f7)
+- [ ] [<code>packaging: Fix csd-dev removal</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7458d8020048c5ea7631865b2eac1c84c4e8f210)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d9cf5c5d308e59670024593e65d1a3aee2377726)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
 
 - [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/76f20dc62e8ede5d18701d27b55b7a44e89beccf)
-  - <sub>Tags: <code>master.lmde6</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde6</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-translations/commit/295a69bef9de68f6233c40559d0793723f78edeb)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [1f39576bafe6bc05bce960e590dc743dd7990e39 → HEAD](https://github.com/linuxmint/cjs/compare/1f39576bafe6bc05bce960e590dc743dd7990e39...HEAD)
 
@@ -711,7 +735,21 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>sidebar icons: Fix bookmark icons when creating a new bookmark, use a</code>](https://github.com/linuxmint/nemo/commit/81e91c47417e401c78c9d3625dc724ab372d084a)
 - [ ] [<code>nemo-list-view.c: Disconnect some leftover signal handlers.</code>](https://github.com/linuxmint/nemo/commit/a97c45a73678b7803de85a4e5c7eda08d1a4e8b2)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Fix some translation issues.</code>](https://github.com/linuxmint/nemo/commit/5e1fd4b8f7bf135d8d09e4a3b3d99139489c93b8)
+- [ ] [<code>nemo-query-editor.c: Don't translate an empty string.</code>](https://github.com/linuxmint/nemo/commit/4389e9d84681b22bbd78744d61facee89ff3613d)
+- [ ] [<code>Revert "add --select compatibility flag (#3589)"</code>](https://github.com/linuxmint/nemo/commit/89611eeb81d044672d80bc2743d194860854209b)
+- [ ] [<code>Revert "Add option to allow expanders in empty folders (#3593)"</code>](https://github.com/linuxmint/nemo/commit/77526981c91ae391630892ab39f3fc3abe4eb068)
+- [ ] [<code>templates: Rephrase hint in templates folder</code>](https://github.com/linuxmint/nemo/commit/fc866634b4ea446e197050bcd288ef0ce12a9e45)
+- [ ] [<code>preferences: Move document templates to its own tab.</code>](https://github.com/linuxmint/nemo/commit/9604d0fedc6d59abaf28789a1bd23412b76677ed)
+- [ ] [<code>preferences: Add some borders to pages</code>](https://github.com/linuxmint/nemo/commit/0f64f5081ab316e14777238289a2d5fc4f750048)
+- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/nemo/commit/2c580da8e4859e8eb36694325c65aa9afbdfe41e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/3a672057ba803fe1b16539121b5fb870acf6c634)
+- [ ] [<code>preferences: Add some spacing between rows of the actions and</code>](https://github.com/linuxmint/nemo/commit/77090c4980345b56a49d751c9b0af1083bb974cf)
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo/commit/dc1e4fd721e91b5d5558ec31bae8cc014b127e25)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -724,6 +762,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 - [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo-extensions/commit/3bdb43428eedc5527d7f9ecb27227f8d101271dc)
+  - <sub>Tags: <code>6.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -736,6 +777,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 - [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo-extensions/commit/3bdb43428eedc5527d7f9ecb27227f8d101271dc)
+  - <sub>Tags: <code>6.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
@@ -748,6 +792,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 - [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo-extensions/commit/3bdb43428eedc5527d7f9ecb27227f8d101271dc)
+  - <sub>Tags: <code>6.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -760,6 +807,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 - [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo-extensions/commit/3bdb43428eedc5527d7f9ecb27227f8d101271dc)
+  - <sub>Tags: <code>6.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.4.0...HEAD)
 
@@ -772,6 +822,9 @@
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/nemo-extensions/commit/9d2cf36fce0316123ab871484706ba2443ccd98c)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/nemo-extensions/commit/0a45e3f7c4d2f39b9d2773a9b7d958cf0fe1c11e)
 - [ ] [<code>nemo-seahorse: Fix build with gpgme >= 2.0.0 (#553)</code>](https://github.com/linuxmint/nemo-extensions/commit/86e45fb9228fc3836eea6fbefa9d4449586946a8)
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo-extensions/commit/3bdb43428eedc5527d7f9ecb27227f8d101271dc)
+  - <sub>Tags: <code>6.6.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
