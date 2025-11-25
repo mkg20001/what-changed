@@ -18,6 +18,8 @@
 - [ ] [<code>refactor: remove unused semaphore 'stopped' from cowsql_node structure</code>](https://github.com/cowsql/cowsql/commit/8e73441c0e68d1cb602e2dbc0cc3f26f20eecd8e)
 - [ ] [<code>refactor: replace semaphores, mutexes, conditions and threads with uv equivalents</code>](https://github.com/cowsql/cowsql/commit/a27e21b9d15e46f6b64b2e94aee165ae492f158c)
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -66,6 +68,11 @@
 
 - [ ] [<code>Install v0.25.1 by default</code>](https://github.com/stepchowfun/docuum/commit/0cf78cd26203f31e1ff76885efaea34ec0bb2b21)
 - [ ] [<code>Update Rust to v1.91.0</code>](https://github.com/stepchowfun/docuum/commit/37fd07e1e7eacfd21b429d4fa642b3581b61240b)
+- [ ] [<code>Make Docuum compatible with Docker v29</code>](https://github.com/stepchowfun/docuum/commit/cd32282a5f02b0efa98d933349de0bb8683f278a)
+- [ ] [<code>Release v0.26.0</code>](https://github.com/stepchowfun/docuum/commit/89068c83d245d1a0ef8e2c4f387ec3f614e128c8)
+- [ ] [<code>Merge pull request #349 from stepchowfun/v0.26.0</code>](https://github.com/stepchowfun/docuum/commit/588137a10632f7ec9e8287f6df635774a6ba8d44)
+  - <sub>Tags: <code>v0.26.0</code></sub>
+- [ ] [<code>Install v0.26.0 by default</code>](https://github.com/stepchowfun/docuum/commit/f05706b88fe2c13aa5307ef3bb42ffbf795d014b)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -301,6 +308,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eb4ecff9bff40d9f08bfa8a8806959e78422aa66)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/ef1cc391c2b7f1ea9ef064da4825e9f68f6ba45c)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/fbe0345296ac376de59f202bbfbaaa66f2919519)
+- [ ] [<code>build: (deps): bump emoji_picker_flutter from 4.3.0 to 4.4.0</code>](https://github.com/krille-chan/fluffychat/commit/b0e94c77370495cc4cd1fdeaa42b19c9f849311f)
+- [ ] [<code>fix: Unlock app with leading 0 in pin is not possible</code>](https://github.com/krille-chan/fluffychat/commit/07f2396790897d0bf5ce3ed21ddba488602a5242)
+- [ ] [<code>chore: Update privacy policy links</code>](https://github.com/krille-chan/fluffychat/commit/04ea9daa620d97686e76ac550d6461e8ddaa9495)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -515,6 +525,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eb4ecff9bff40d9f08bfa8a8806959e78422aa66)
 - [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/ef1cc391c2b7f1ea9ef064da4825e9f68f6ba45c)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/fbe0345296ac376de59f202bbfbaaa66f2919519)
+- [ ] [<code>build: (deps): bump emoji_picker_flutter from 4.3.0 to 4.4.0</code>](https://github.com/krille-chan/fluffychat/commit/b0e94c77370495cc4cd1fdeaa42b19c9f849311f)
+- [ ] [<code>fix: Unlock app with leading 0 in pin is not possible</code>](https://github.com/krille-chan/fluffychat/commit/07f2396790897d0bf5ce3ed21ddba488602a5242)
+- [ ] [<code>chore: Update privacy policy links</code>](https://github.com/krille-chan/fluffychat/commit/04ea9daa620d97686e76ac550d6461e8ddaa9495)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -619,7 +632,22 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
 - [ ] [<code>incus/storage_volume: Fix determination of target path</code>](https://github.com/lxc/incus/commit/b14ce796c16bbe1237e7c6bd4c738af20ac6ba9c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-simplestream: output of golangci-lint run --fix for cmd/incus-simplestream</code>](https://github.com/lxc/incus/commit/ef3d5b9fd787af9bfeb811780fd4a0c8d0680ec4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-user: refactor to not use os.Exit and instead close listener</code>](https://github.com/lxc/incus/commit/e3f36b1c7d276dfbb092606cda78e6ff39f933e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/lxc-to-incus: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/62ab1c017a75129ea7ea5abac0ba49aec0a847ed)
+- [ ] [<code>cmd/lxc-to-incus: return error instead of using os.Exit</code>](https://github.com/lxc/incus/commit/ec8408939c44235aeefb19236bb1632d3c35d9e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/lxc-to-incus: simplify logic to check mount validity</code>](https://github.com/lxc/incus/commit/440163b19e913c61bd5e9176fa1ec83792903a35)
+- [ ] [<code>cmd/lxc-to-incus: simplify logic to check mount validity</code>](https://github.com/lxc/incus/commit/9da7ce9051bc93edd98d3874f0017b8e07dac3ae)
+- [ ] [<code>cmd/lxc-to-incus: rename argument in protoSendError to avoid package shadowing</code>](https://github.com/lxc/incus/commit/9bab2e1aafcadb98aad433234befda31fb6116d3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/lxd-to-incus: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/ce8b43d8d84b00f8a9f8e44165651b99b6e789c1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/lxd-to-incus: do not use os.Exit outside of main</code>](https://github.com/lxc/incus/commit/23d62c994c885f19185f8393cc37bb7421230f4f)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/incus/commit/ea578b9162a9ec0f18799a6bca600eea8666d424)
+- [ ] [<code>cmd/generate-config: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/8055b291ff630f13cba1a68a1f1d60234b8e5f2b)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4598,7 +4626,22 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
 - [ ] [<code>incus/storage_volume: Fix determination of target path</code>](https://github.com/lxc/incus/commit/b14ce796c16bbe1237e7c6bd4c738af20ac6ba9c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-simplestream: output of golangci-lint run --fix for cmd/incus-simplestream</code>](https://github.com/lxc/incus/commit/ef3d5b9fd787af9bfeb811780fd4a0c8d0680ec4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/incus-user: refactor to not use os.Exit and instead close listener</code>](https://github.com/lxc/incus/commit/e3f36b1c7d276dfbb092606cda78e6ff39f933e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/lxc-to-incus: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/62ab1c017a75129ea7ea5abac0ba49aec0a847ed)
+- [ ] [<code>cmd/lxc-to-incus: return error instead of using os.Exit</code>](https://github.com/lxc/incus/commit/ec8408939c44235aeefb19236bb1632d3c35d9e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/lxc-to-incus: simplify logic to check mount validity</code>](https://github.com/lxc/incus/commit/440163b19e913c61bd5e9176fa1ec83792903a35)
+- [ ] [<code>cmd/lxc-to-incus: simplify logic to check mount validity</code>](https://github.com/lxc/incus/commit/9da7ce9051bc93edd98d3874f0017b8e07dac3ae)
+- [ ] [<code>cmd/lxc-to-incus: rename argument in protoSendError to avoid package shadowing</code>](https://github.com/lxc/incus/commit/9bab2e1aafcadb98aad433234befda31fb6116d3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>cmd/lxd-to-incus: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/ce8b43d8d84b00f8a9f8e44165651b99b6e789c1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>cmd/lxd-to-incus: do not use os.Exit outside of main</code>](https://github.com/lxc/incus/commit/23d62c994c885f19185f8393cc37bb7421230f4f)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/incus/commit/ea578b9162a9ec0f18799a6bca600eea8666d424)
+- [ ] [<code>cmd/generate-config: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/8055b291ff630f13cba1a68a1f1d60234b8e5f2b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4711,6 +4754,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Fix hashFiles path (#2912)</code>](https://github.com/AOMediaCodec/libavif/commit/896fc41edc2a7c387f5336f43a7b5667b8801564)
 - [ ] [<code>Removed unused assignments (#2914)</code>](https://github.com/AOMediaCodec/libavif/commit/2b125ba9ea2055593122473cfd80bc0b10436817)
+- [ ] [<code>Update AVM to commit e3b7bd42</code>](https://github.com/AOMediaCodec/libavif/commit/40d0b387fba00a4d48ee8f411dafdf71b0cdbbd8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
