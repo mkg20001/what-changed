@@ -296,6 +296,11 @@
 - [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eba8360ae85f903d65264907bd2c4eb65e914566)
 - [ ] [<code>chore: Request keys for last room messages after bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/8cfc25a139a2932e7c6c92bcd698aa69b105dde3)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/5ec7f95b8e91b4cced0e36cf80900f24a278f935)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/07f621c42050ece5e71f55ac7c2e30fb689dc536)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eb4ecff9bff40d9f08bfa8a8806959e78422aa66)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/ef1cc391c2b7f1ea9ef064da4825e9f68f6ba45c)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/fbe0345296ac376de59f202bbfbaaa66f2919519)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -505,6 +510,11 @@
 - [ ] [<code>chore: Wait for secrets after bootstrap verification</code>](https://github.com/krille-chan/fluffychat/commit/02b0fcb8a6afe44f7fc0963b2f9807cccfb3cfc6)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eba8360ae85f903d65264907bd2c4eb65e914566)
 - [ ] [<code>chore: Request keys for last room messages after bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/8cfc25a139a2932e7c6c92bcd698aa69b105dde3)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/5ec7f95b8e91b4cced0e36cf80900f24a278f935)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/07f621c42050ece5e71f55ac7c2e30fb689dc536)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/eb4ecff9bff40d9f08bfa8a8806959e78422aa66)
+- [ ] [<code>chore(translations): Translated using Weblate (Uzbek)</code>](https://github.com/krille-chan/fluffychat/commit/ef1cc391c2b7f1ea9ef064da4825e9f68f6ba45c)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/fbe0345296ac376de59f202bbfbaaa66f2919519)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -609,6 +619,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
 - [ ] [<code>incus/storage_volume: Fix determination of target path</code>](https://github.com/lxc/incus/commit/b14ce796c16bbe1237e7c6bd4c738af20ac6ba9c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/incus/commit/ea578b9162a9ec0f18799a6bca600eea8666d424)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4587,9 +4598,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/unix_hotplug: Prevent duplicate uevent injection</code>](https://github.com/lxc/incus/commit/9850c8e28dfd3a06ca22a2db3da8a3b4ad5a6ab9)
 - [ ] [<code>incus/storage_volume: Fix determination of target path</code>](https://github.com/lxc/incus/commit/b14ce796c16bbe1237e7c6bd4c738af20ac6ba9c)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/incus/commit/ea578b9162a9ec0f18799a6bca600eea8666d424)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
+- [ ] [<code>Fix missing current buckets in ui and no storage pool in create bucket form</code>](https://github.com/zabbly/incus-ui-canonical/commit/957303290bb7d069f2f247844be4801e4cefd04e)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4958,6 +4971,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(go.d): prefer env-provided dirs over build-time defaults (#21345)</code>](https://github.com/netdata/netdata.git/commit/a7cd2fe51888460184c349fdad0896a17724e70d)
 - [ ] [<code>New Sensors (Windows.plugin) (#21319)</code>](https://github.com/netdata/netdata.git/commit/e343e69e93350fdb66373702ced88857c2d8112f)
 - [ ] [<code>Reorganize MSSQL (windows.plugin) (#21334)</code>](https://github.com/netdata/netdata.git/commit/eabfa36896fafc643c4882c9711be93712fe43d4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6101a11f3cd5787f9660d228e8ce457f02aa4c9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
