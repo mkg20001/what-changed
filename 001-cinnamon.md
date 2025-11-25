@@ -315,8 +315,9 @@
 - [ ] [<code>GWL: Refresh all workspaces when change group/ungroup option (#13210)</code>](https://github.com/linuxmint/cinnamon/commit/bbedf324aa7b5af1185a51d0968e0bb9ebc63321)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>menu@cinnamon.org: Fix symbolic icon names for favorites and recents.</code>](https://github.com/linuxmint/cinnamon/commit/94c7ded238be6eff1d4706fae563b8a4a168a852)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix bug which caused duplicate applet orders when dropping them in the same position. (#13057)</code>](https://github.com/linuxmint/cinnamon/commit/27b7edd46864ed59207e6ba793373bce7aea5ae5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
