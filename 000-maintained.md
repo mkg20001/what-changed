@@ -647,7 +647,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cmd/lxd-to-incus: do not use os.Exit outside of main</code>](https://github.com/lxc/incus/commit/23d62c994c885f19185f8393cc37bb7421230f4f)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/incus/commit/ea578b9162a9ec0f18799a6bca600eea8666d424)
+- [ ] [<code>shared/resources: Skip broken udev symlinks</code>](https://github.com/lxc/incus/commit/20076d9275d5fd5fd9fd10b7cf54a2e68496a1cc)
 - [ ] [<code>cmd/generate-config: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/8055b291ff630f13cba1a68a1f1d60234b8e5f2b)
+- [ ] [<code>incusd/network/zone: Support setting top level records</code>](https://github.com/lxc/incus/commit/78d9b22d59213593a67489feabbd77a937a24339)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4641,7 +4643,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>cmd/lxd-to-incus: do not use os.Exit outside of main</code>](https://github.com/lxc/incus/commit/23d62c994c885f19185f8393cc37bb7421230f4f)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/incus/commit/ea578b9162a9ec0f18799a6bca600eea8666d424)
+- [ ] [<code>shared/resources: Skip broken udev symlinks</code>](https://github.com/lxc/incus/commit/20076d9275d5fd5fd9fd10b7cf54a2e68496a1cc)
 - [ ] [<code>cmd/generate-config: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/8055b291ff630f13cba1a68a1f1d60234b8e5f2b)
+- [ ] [<code>incusd/network/zone: Support setting top level records</code>](https://github.com/lxc/incus/commit/78d9b22d59213593a67489feabbd77a937a24339)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5016,6 +5020,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>New Sensors (Windows.plugin) (#21319)</code>](https://github.com/netdata/netdata.git/commit/e343e69e93350fdb66373702ced88857c2d8112f)
 - [ ] [<code>Reorganize MSSQL (windows.plugin) (#21334)</code>](https://github.com/netdata/netdata.git/commit/eabfa36896fafc643c4882c9711be93712fe43d4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6101a11f3cd5787f9660d228e8ce457f02aa4c9)
+- [ ] [<code>User Connections (MSSQL) (#21348)</code>](https://github.com/netdata/netdata.git/commit/d137eb9562e00eb3057efc15e28833cd04e9e949)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
