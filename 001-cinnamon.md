@@ -648,7 +648,10 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>Switch to libglvnd build deps (#758)</code>](https://github.com/linuxmint/muffin/commit/8c27537b44dd9453324f260df3ffb2d8c5701283)
 - [ ] [<code>theme.c: Revert symbolic name changes for window controls.</code>](https://github.com/linuxmint/muffin/commit/a5ef2fcd41e1376350902fc47c2d0bb72d60e99d)
+- [ ] [<code>[Wayland] Add wl_shm support for 10 bpc formats and wl_shm/DMA-BUF su… (#748)</code>](https://github.com/linuxmint/muffin/commit/ff7459027f8eb86cb24477384bf026fd8c7c4f5d)
+- [ ] [<code>[Wayland] Use anonymous file abstraction for wayland-keymap sharing (#753)</code>](https://github.com/linuxmint/muffin/commit/6ea2c8c8becfd21ac0542d800d2e3994706700bf)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
