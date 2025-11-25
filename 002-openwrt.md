@@ -138,27 +138,16 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/ubus.git/commit/2737da3819fefafa5b63d5f82efb77ff0032a5d8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-
-#### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
-
-- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/uci.git/commit/2e46a7405f26ec131918c821c30ac0b26fdb22f0)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/uci.git/commit/c1e2eee6c5e35438daf13fa72b04778ff07a00c7)
-- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/uci.git/commit/b65c091a09a97d365da6bfd7d52c76c0b54ded6e)
-- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/uci.git/commit/e1ab90c510ce89228488607b9f8f383c21f9adc6)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>uci: add a simple build script</code>](https://git.openwrt.org/project/uci.git/commit/8022b2e4d01094bf8ebc09f626478c855b89142e)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/uci.git/commit/dec51f48a1144de26897a9983017545082b9b8c5)
-- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/uci.git/commit/238963f48c848bc43917d1131602698b3b395a51)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>build: install uci</code>](https://git.openwrt.org/project/uci.git/commit/ebb3a01a0b014d8f0dd04c8bffc4e2bff4eddb1c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/uci.git/commit/5bea13572325af4fb3057ff600cc7f7d5b82012b)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-
-#### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
-
+> Failed to clone https://git.openwrt.org/project/uci.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/uci.git /home/runner/work/what-changed/what-changed/src/../work/uci.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uci.git'...
+fatal: unable to access 'https://git.openwrt.org/project/uci.git/': The requested URL returned error: 503
+'
+> Failed to clone https://git.openwrt.org/project/uclient.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/uclient.git /home/runner/work/what-changed/what-changed/src/../work/uclient.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uclient.git'...
+fatal: unable to access 'https://git.openwrt.org/project/uclient.git/': The requested URL returned error: 503
+'
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
