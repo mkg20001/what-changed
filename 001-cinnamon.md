@@ -318,6 +318,7 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix bug which caused duplicate applet orders when dropping them in the same position. (#13057)</code>](https://github.com/linuxmint/cinnamon/commit/27b7edd46864ed59207e6ba793373bce7aea5ae5)
 - [ ] [<code>Fixed an xlet-settings issue causing invalid callback/signal triggers with some setting types (#13199)</code>](https://github.com/linuxmint/cinnamon/commit/4cea7a7478f9315569b6aa5a06ef47f0396db26a)
+- [ ] [<code>Fix mouse on autohide panel not being correctly determined. (#13214)</code>](https://github.com/linuxmint/cinnamon/commit/2b70b6bfada29c520313f2e7c67fecede845681d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
