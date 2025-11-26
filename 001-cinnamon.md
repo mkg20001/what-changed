@@ -319,7 +319,9 @@
 - [ ] [<code>Fix bug which caused duplicate applet orders when dropping them in the same position. (#13057)</code>](https://github.com/linuxmint/cinnamon/commit/27b7edd46864ed59207e6ba793373bce7aea5ae5)
 - [ ] [<code>Fixed an xlet-settings issue causing invalid callback/signal triggers with some setting types (#13199)</code>](https://github.com/linuxmint/cinnamon/commit/4cea7a7478f9315569b6aa5a06ef47f0396db26a)
 - [ ] [<code>Fix mouse on autohide panel not being correctly determined. (#13214)</code>](https://github.com/linuxmint/cinnamon/commit/2b70b6bfada29c520313f2e7c67fecede845681d)
+- [ ] [<code>cs_power.py: Discover suspend/hibernate capabilities from cinnamon-</code>](https://github.com/linuxmint/cinnamon/commit/d46cb622a5f5f490aabc6263668d6bc9ca2b032d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -477,15 +479,8 @@
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
 
 
-#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [5d96655e37a85aa5e3d20bc7b38c9675a6145d13 → HEAD](https://github.com/linuxmint/mint-l-icons/compare/5d96655e37a85aa5e3d20bc7b38c9675a6145d13...HEAD)
+#### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [fa88b00e10b0978e0309acccfa95d80005422b1a → HEAD](https://github.com/linuxmint/mint-l-icons/compare/fa88b00e10b0978e0309acccfa95d80005422b1a...HEAD)
 
-- [ ] [<code>add OnlyOffice symlink (#21)</code>](https://github.com/linuxmint/mint-l-icons/commit/b253a49eb0fce9005a5f2729057715c9816b4546)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add icon for mintsystadm</code>](https://github.com/linuxmint/mint-l-icons/commit/3e2624725d0bdaf0691ac51cbbbad329bbc0fc1b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add icon for mintgit</code>](https://github.com/linuxmint/mint-l-icons/commit/1124c9aa77349dca89c2d1c83ca492ceeb2b52b9)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.9</code>](https://github.com/linuxmint/mint-l-icons/commit/fa88b00e10b0978e0309acccfa95d80005422b1a)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [2.0.2 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/2.0.2...HEAD)
 
@@ -522,96 +517,11 @@
 - [ ] [<code>Mint-Y - Don't darken unselected ibus candidates.</code>](https://github.com/linuxmint/mint-themes/commit/c31db2aa95403e86cde7f265259542ce70b9c8eb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.4 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.4...HEAD)
+#### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
-- [ ] [<code>[Fix] Add Adwaita to Inherits (#213)</code>](https://github.com/linuxmint/mint-x-icons/commit/17b930ba7113746026c10d0e73dbece50cf2ca5c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update Xemu</code>](https://github.com/linuxmint/mint-x-icons/commit/d9332d5282cda9649c6ea8e91ebb6213b768cd57)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update obs-studio</code>](https://github.com/linuxmint/mint-x-icons/commit/90613d80a3e916e8d7b92d78fb1663c12fa5ccac)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update notepad-next</code>](https://github.com/linuxmint/mint-x-icons/commit/158820c17b67fd55034de990948a3e79731fca79)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update left4dead</code>](https://github.com/linuxmint/mint-x-icons/commit/60a92d84711f948e56e8e108cc4e5ed0bb4b5f80)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update kdenlive</code>](https://github.com/linuxmint/mint-x-icons/commit/5bc5c50810e9004de493b9cebf44305d7ef0accc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update application-x-7z-compressed</code>](https://github.com/linuxmint/mint-x-icons/commit/8f925df1782e832d26b57f02c3ef345800033fcc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update mimes for msdownload and ms-does-exucutable</code>](https://github.com/linuxmint/mint-x-icons/commit/4a4fabd789b1c1cf8927e2e76b1ddeeede2b8fcc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add discord</code>](https://github.com/linuxmint/mint-x-icons/commit/64f17d0058149e2041b91166b50706ee39ced154)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add bitwarden</code>](https://github.com/linuxmint/mint-x-icons/commit/8d5180479405f99ce87ff31a3b63a7402698add5)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add bulky</code>](https://github.com/linuxmint/mint-x-icons/commit/10a6d6f20160d40f128f69d2a9643b6cc655e929)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add fingwit</code>](https://github.com/linuxmint/mint-x-icons/commit/cbbc593c5b24f41c629befe60f72d1fab461d198)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add webapp-manager</code>](https://github.com/linuxmint/mint-x-icons/commit/74ac49c702d54f63c3fbd544822b8292438dfe38)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add mintupdate</code>](https://github.com/linuxmint/mint-x-icons/commit/9493b9734c1504dc7c9c74c5ef161f7d2f6093aa)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add warpinator</code>](https://github.com/linuxmint/mint-x-icons/commit/7cb3618ce277b9ce3a24ff50a14aac80fe378a9a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add element</code>](https://github.com/linuxmint/mint-x-icons/commit/0064cdc6186c2f8573188060b7d42de94a884e42)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add mumble</code>](https://github.com/linuxmint/mint-x-icons/commit/cb80cc8411cf7434052435fe6d73f783b074cece)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add lutris</code>](https://github.com/linuxmint/mint-x-icons/commit/42cfa58b33b29918328afcfa779fda88ee4e0dbd)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add floorp</code>](https://github.com/linuxmint/mint-x-icons/commit/0239735d4f465bbe24dbf9035b2f3ad16745476b)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add librewolf</code>](https://github.com/linuxmint/mint-x-icons/commit/6fdd33d5eaf4e6b8f0caa6e05516c66a9a1bcb93)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add ardour</code>](https://github.com/linuxmint/mint-x-icons/commit/5c23bd1da7a389b16fe7e18ae6b0dd12be22e220)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add vesktop</code>](https://github.com/linuxmint/mint-x-icons/commit/8c1214b803f9b5351fc033621bb0f81693f4ece3)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add anki</code>](https://github.com/linuxmint/mint-x-icons/commit/6d4878c645ed4fb742828fa913da20c7d9274401)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add godot</code>](https://github.com/linuxmint/mint-x-icons/commit/14c33ebaf2d0703f3f85723abd37d3d12b9dc273)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update mimes for CSV, RTL, Csharp</code>](https://github.com/linuxmint/mint-x-icons/commit/bbfd063809a0b6978b8dc9a60e00ae71589c9d0f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update pgp and certificates mimes</code>](https://github.com/linuxmint/mint-x-icons/commit/b08b4ca254a3d871eac241b2097e213726c8747e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update json mime</code>](https://github.com/linuxmint/mint-x-icons/commit/0535b92f1f21dcd2b2164791c0865af6179d3450)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update sql mime</code>](https://github.com/linuxmint/mint-x-icons/commit/e1089913dd719bf069c3b41fdd3ee7f3d745173e)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>mimes: Add a few links</code>](https://github.com/linuxmint/mint-x-icons/commit/3dc2c424ed5ce09c6fe88a7105ccd274533fee03)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>apps: Add a few links</code>](https://github.com/linuxmint/mint-x-icons/commit/e5c8031beb11fe92e1a0e33de1578b8e3d7aeb94)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.5</code>](https://github.com/linuxmint/mint-x-icons/commit/6de2d76fe44707197e06d4949efb6e63256ddc28)
-  - <sub>Tags: <code>1.7.5</code></sub>
 
-#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.8 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.8...HEAD)
+#### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.9...HEAD)
 
-- [ ] [<code>design icon for Tenacity audio editor (#496)</code>](https://github.com/linuxmint/mint-y-icons/commit/0d2cfb442562e4a00824b478bbea69adf46a4060)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add symbolic link for Code - OSS (#502)</code>](https://github.com/linuxmint/mint-y-icons/commit/697e864428a882aaca0d4b1f05ac7a8873a90cd8)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>update Godot game engine icon (#507)</code>](https://github.com/linuxmint/mint-y-icons/commit/bb921a123c21ce89a5bf6015256ea7a77d64bf7c)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix incorrect linkings of the Terminal icon in symbolic-apps-list (#503)</code>](https://github.com/linuxmint/mint-y-icons/commit/0079eb3db944f9849ec34ab6f1b96101f7ef70fa)
-- [ ] [<code>update FontForge icon (#512)</code>](https://github.com/linuxmint/mint-y-icons/commit/5304d00393ff2736948b0a1ee2f06b1a351f3733)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Teams icon (#513)</code>](https://github.com/linuxmint/mint-y-icons/commit/3a73e46f53b0606912695ee256be8fe31bc45b6f)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add GnuCash system package symbolic link (#522)</code>](https://github.com/linuxmint/mint-y-icons/commit/1a4aa7894a20c2209e345873650baa62a8a2854d)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add icon for mintgit</code>](https://github.com/linuxmint/mint-y-icons/commit/4a285d64e655e80985da2ce1bfa88cb7ad9add41)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add icon for mintsystadm</code>](https://github.com/linuxmint/mint-y-icons/commit/98a237ab8bc914e873583ff37a5321719d10c66a)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Add Apache icon and a symbolic link for Apache JMeter (#519)</code>](https://github.com/linuxmint/mint-y-icons/commit/9e88eaceeef96115b78baa5c2f7c4c16a6765eea)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>add onlyoffice symlinks (#520)</code>](https://github.com/linuxmint/mint-y-icons/commit/afa326db16c0b393f81c30929c6a76a75d34e840)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.8.9</code>](https://github.com/linuxmint/mint-y-icons/commit/96559032abbe87325d25a37df69202d5d1005e40)
-  - <sub>Tags: <code>1.8.9</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
