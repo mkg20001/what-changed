@@ -4783,6 +4783,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix hashFiles path (#2912)</code>](https://github.com/AOMediaCodec/libavif/commit/896fc41edc2a7c387f5336f43a7b5667b8801564)
 - [ ] [<code>Removed unused assignments (#2914)</code>](https://github.com/AOMediaCodec/libavif/commit/2b125ba9ea2055593122473cfd80bc0b10436817)
 - [ ] [<code>Update AVM to commit e3b7bd42</code>](https://github.com/AOMediaCodec/libavif/commit/40d0b387fba00a4d48ee8f411dafdf71b0cdbbd8)
+- [ ] [<code>scale: fix a potential memory leak (#2915)</code>](https://github.com/AOMediaCodec/libavif/commit/a7c82c7abc263b1fc9adadf464f4afea06a94539)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5046,6 +5047,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6101a11f3cd5787f9660d228e8ce457f02aa4c9)
 - [ ] [<code>User Connections (MSSQL) (#21348)</code>](https://github.com/netdata/netdata.git/commit/d137eb9562e00eb3057efc15e28833cd04e9e949)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-27-nightly.</code>](https://github.com/netdata/netdata.git/commit/c3f06f83e9f7269953f672807034375b48c84105)
+- [ ] [<code>Improve replication logic by checking if parent is caught up with child (#21352)</code>](https://github.com/netdata/netdata.git/commit/9bfd83d4a7b145362d81ccc62f1e4587a6b20b89)
+- [ ] [<code>improve(go.d/snmp): add EATON UPS profile (#21355)</code>](https://github.com/netdata/netdata.git/commit/16b5914f8228e6812159688001374cb78152ee22)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5784,8 +5787,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use OVS from apt before snap when both exist.</code>](https://github.com/canonical/netplan/commit/b35228d57e3866c1b0e7291f701f85c68e369183)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
-> Dropped odoo16 - no appropriate URL found OrderedDict({'attr_path': 'odoo16', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip', 'urls': ['https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -7246,6 +7247,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>chore: bump react-admin to `5.8` and `mui` to `7.1` (#679)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e15411a04cbea5040afbc0b70461ac57507962b2)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump form-data from 4.0.2 to 4.0.4 in the npm_and_yarn group (#704)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9e42da91dc67cce16c666783dcb93cee6d330dbd)
+- [ ] [<code>fix: volumes must be list in docker-compose.yml (#687)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/bf9cc661837e47a4365f937e1302512202e64e00)
+- [ ] [<code>Bump actions/setup-node from 4 to 6 (#735)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4f742f707e742740362ca8a2445212d3d08c047e)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.7.3 to 4.7.4 (#740)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4b4718b95a93ca5396ee2e85c16d7d5a9b41448d)
+- [ ] [<code>Bump actions/checkout from 4 to 6 (#741)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b99c5175d2d9dde595b9f1a00474da7837b062f7)
+- [ ] [<code>Bump the npm_and_yarn group across 1 directory with 3 updates (#742)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b694972676c688eb91e9d291b846115fc98cbd27)
+- [ ] [<code>Bump softprops/action-gh-release from 2.2.2 to 2.4.2 (#739)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6cf3625b3a115787f10da69b9b1900e00594188d)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
@@ -7336,21 +7344,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.2 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.2...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.4 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.4...HEAD)
 
-- [ ] [<code>Add missing xsi-user-favorites-symbolic. (#6)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a5a30d09b882965a304e3d7d0b9e23fef38353af)
-- [ ] [<code>packaging: Switch to architecture "all"</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/0a1d07519bf35681b86d4cdb5831aae8203fac1e)
-- [ ] [<code>packaging: Update description</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dfe88e431cd9813fb1474571b7fa485538db2bc1)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>packaging: Add dependencies</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/8b74b98810e9063f68d8594fda90b73309d50553)
-- [ ] [<code>1.0.3</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e1ad9a03abe14fbcf13ce13364482e1396b9d9fb)
-  - <sub>Tags: <code>1.0.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>Add xsi-folder-warning-symbolic.svg. (#7)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/8e4b19f451fbe487c7e1259dadce201c885ede01)
-- [ ] [<code>Add folder-recent-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2b7cad760ccfdedf32d4968b718012b21caf4e87)
-- [ ] [<code>1.0.4</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f4621c87d033c18a5f227b2a0fc45abf3cae64f1)
-  - <sub>Tags: <code>1.0.4</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add git-pr and github</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c822e9b8cf881aa9ee2bfc5fdc96a37189623b1f)
 - [ ] [<code>1.0.5</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f6b9376a35236aa01d2d9d84bb873c8de0b27252)
   - <sub>Tags: <code>1.0.5</code></sub>
