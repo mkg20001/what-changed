@@ -650,6 +650,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/resources: Skip broken udev symlinks</code>](https://github.com/lxc/incus/commit/20076d9275d5fd5fd9fd10b7cf54a2e68496a1cc)
 - [ ] [<code>cmd/generate-config: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/8055b291ff630f13cba1a68a1f1d60234b8e5f2b)
 - [ ] [<code>incusd/network/zone: Support setting top level records</code>](https://github.com/lxc/incus/commit/78d9b22d59213593a67489feabbd77a937a24339)
+- [ ] [<code>cmd/incusd: recursive instance GET returns InstanceFull</code>](https://github.com/lxc/incus/commit/eb6e3615709d18bb69279c72b1ef955678645ec6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/c5842bd5273a98123b7687ce363e2c75d4abaeba)
+- [ ] [<code>incus/remote: Add support for PFX generation</code>](https://github.com/lxc/incus/commit/6a73c64c94c00cc56b7439f0b30aec612acfc658)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/53226b72da9fc8b57958c35865de3edab4f81915)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4646,6 +4652,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/resources: Skip broken udev symlinks</code>](https://github.com/lxc/incus/commit/20076d9275d5fd5fd9fd10b7cf54a2e68496a1cc)
 - [ ] [<code>cmd/generate-config: address golangci-lint issues</code>](https://github.com/lxc/incus/commit/8055b291ff630f13cba1a68a1f1d60234b8e5f2b)
 - [ ] [<code>incusd/network/zone: Support setting top level records</code>](https://github.com/lxc/incus/commit/78d9b22d59213593a67489feabbd77a937a24339)
+- [ ] [<code>cmd/incusd: recursive instance GET returns InstanceFull</code>](https://github.com/lxc/incus/commit/eb6e3615709d18bb69279c72b1ef955678645ec6)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/c5842bd5273a98123b7687ce363e2c75d4abaeba)
+- [ ] [<code>incus/remote: Add support for PFX generation</code>](https://github.com/lxc/incus/commit/6a73c64c94c00cc56b7439f0b30aec612acfc658)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/53226b72da9fc8b57958c35865de3edab4f81915)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5021,6 +5033,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Reorganize MSSQL (windows.plugin) (#21334)</code>](https://github.com/netdata/netdata.git/commit/eabfa36896fafc643c4882c9711be93712fe43d4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6101a11f3cd5787f9660d228e8ce457f02aa4c9)
 - [ ] [<code>User Connections (MSSQL) (#21348)</code>](https://github.com/netdata/netdata.git/commit/d137eb9562e00eb3057efc15e28833cd04e9e949)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-27-nightly.</code>](https://github.com/netdata/netdata.git/commit/c3f06f83e9f7269953f672807034375b48c84105)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
