@@ -311,6 +311,12 @@
 - [ ] [<code>build: (deps): bump emoji_picker_flutter from 4.3.0 to 4.4.0</code>](https://github.com/krille-chan/fluffychat/commit/b0e94c77370495cc4cd1fdeaa42b19c9f849311f)
 - [ ] [<code>fix: Unlock app with leading 0 in pin is not possible</code>](https://github.com/krille-chan/fluffychat/commit/07f2396790897d0bf5ce3ed21ddba488602a5242)
 - [ ] [<code>chore: Update privacy policy links</code>](https://github.com/krille-chan/fluffychat/commit/04ea9daa620d97686e76ac550d6461e8ddaa9495)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/b4dd465f3c366f6c0b7cb717a246ec0257425771)
+- [ ] [<code>chore(translations): Translated using Weblate (Italian)</code>](https://github.com/krille-chan/fluffychat/commit/e3e871d5e837f9b3937fc9b3c9f262c3eefeea43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Italian)</code>](https://github.com/krille-chan/fluffychat/commit/2c2a173235538f778fd15dc7f96e8f07403122dd)
+- [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/bb7e88ad96feed74224d5db968a4bb601dea54fa)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.2.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.2.0...HEAD)
 
@@ -528,6 +534,12 @@
 - [ ] [<code>build: (deps): bump emoji_picker_flutter from 4.3.0 to 4.4.0</code>](https://github.com/krille-chan/fluffychat/commit/b0e94c77370495cc4cd1fdeaa42b19c9f849311f)
 - [ ] [<code>fix: Unlock app with leading 0 in pin is not possible</code>](https://github.com/krille-chan/fluffychat/commit/07f2396790897d0bf5ce3ed21ddba488602a5242)
 - [ ] [<code>chore: Update privacy policy links</code>](https://github.com/krille-chan/fluffychat/commit/04ea9daa620d97686e76ac550d6461e8ddaa9495)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/b4dd465f3c366f6c0b7cb717a246ec0257425771)
+- [ ] [<code>chore(translations): Translated using Weblate (Italian)</code>](https://github.com/krille-chan/fluffychat/commit/e3e871d5e837f9b3937fc9b3c9f262c3eefeea43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Italian)</code>](https://github.com/krille-chan/fluffychat/commit/2c2a173235538f778fd15dc7f96e8f07403122dd)
+- [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/bb7e88ad96feed74224d5db968a4bb601dea54fa)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7160,6 +7172,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): expand usage of EqualizerModuleSettings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e1641d421c0905bd4624caa70fe89ee29a252d1b)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>style: fix formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08dd92a42f417a492e5142b197173737b1fdcb1b)
+- [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#191)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1a5bfe6677e05cc3b88b08105d4eb40254792871)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7337,4 +7350,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add folder-recent-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2b7cad760ccfdedf32d4968b718012b21caf4e87)
 - [ ] [<code>1.0.4</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f4621c87d033c18a5f227b2a0fc45abf3cae64f1)
   - <sub>Tags: <code>1.0.4</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add git-pr and github</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c822e9b8cf881aa9ee2bfc5fdc96a37189623b1f)
+- [ ] [<code>1.0.5</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f6b9376a35236aa01d2d9d84bb873c8de0b27252)
+  - <sub>Tags: <code>1.0.5</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
