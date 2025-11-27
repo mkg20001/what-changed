@@ -668,6 +668,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/53226b72da9fc8b57958c35865de3edab4f81915)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/file: Fix crash on file mount</code>](https://github.com/lxc/incus/commit/882eacdde4b6af6567eb6a582cf643cbb4ce331a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/auth/openfga: Add missing storage volume entitlements</code>](https://github.com/lxc/incus/commit/373608ea76f5757a371594353e42a04b70cb69f0)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/eee51510ae45fcbd3f160f07e97d4229b1188f1e)
+- [ ] [<code>incusd/patches: Upgrade OpenFGA model</code>](https://github.com/lxc/incus/commit/d7d153ce2c508acb40b6dc8327ab661b771616cf)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4670,6 +4675,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/53226b72da9fc8b57958c35865de3edab4f81915)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus/file: Fix crash on file mount</code>](https://github.com/lxc/incus/commit/882eacdde4b6af6567eb6a582cf643cbb4ce331a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/auth/openfga: Add missing storage volume entitlements</code>](https://github.com/lxc/incus/commit/373608ea76f5757a371594353e42a04b70cb69f0)
+- [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/eee51510ae45fcbd3f160f07e97d4229b1188f1e)
+- [ ] [<code>incusd/patches: Upgrade OpenFGA model</code>](https://github.com/lxc/incus/commit/d7d153ce2c508acb40b6dc8327ab661b771616cf)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -5049,6 +5059,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-27-nightly.</code>](https://github.com/netdata/netdata.git/commit/c3f06f83e9f7269953f672807034375b48c84105)
 - [ ] [<code>Improve replication logic by checking if parent is caught up with child (#21352)</code>](https://github.com/netdata/netdata.git/commit/9bfd83d4a7b145362d81ccc62f1e4587a6b20b89)
 - [ ] [<code>improve(go.d/snmp): add EATON UPS profile (#21355)</code>](https://github.com/netdata/netdata.git/commit/16b5914f8228e6812159688001374cb78152ee22)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-30-nightly.</code>](https://github.com/netdata/netdata.git/commit/1cd0d161addaea6a66c474c6213e3cfde7c94204)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
