@@ -515,6 +515,7 @@
 - [ ] [<code>Mint-X: Fix jumpiness when browsing applications in the new menu.</code>](https://github.com/linuxmint/mint-themes/commit/2c87a9126575be80b2c75b27fe0e952d63101c3d)
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-themes/commit/6261a9fe4d3d5ed223c1d4664211e371d0b8079a)
 - [ ] [<code>Mint-Y - Don't darken unselected ibus candidates.</code>](https://github.com/linuxmint/mint-themes/commit/c31db2aa95403e86cde7f265259542ce70b9c8eb)
+- [ ] [<code>Mint-X cinnamon: colour destructive button background instead of text. (#509)</code>](https://github.com/linuxmint/mint-themes/commit/b59d603dced38c9fd3f85e85b75725e5a3f8ce3d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
