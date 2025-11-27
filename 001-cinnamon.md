@@ -320,8 +320,9 @@
 - [ ] [<code>Fixed an xlet-settings issue causing invalid callback/signal triggers with some setting types (#13199)</code>](https://github.com/linuxmint/cinnamon/commit/4cea7a7478f9315569b6aa5a06ef47f0396db26a)
 - [ ] [<code>Fix mouse on autohide panel not being correctly determined. (#13214)</code>](https://github.com/linuxmint/cinnamon/commit/2b70b6bfada29c520313f2e7c67fecede845681d)
 - [ ] [<code>cs_power.py: Discover suspend/hibernate capabilities from cinnamon-</code>](https://github.com/linuxmint/cinnamon/commit/d46cb622a5f5f490aabc6263668d6bc9ca2b032d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>alt-tab: On click, launch the clicked app, not the active one (#12430)</code>](https://github.com/linuxmint/cinnamon/commit/d5d67ed48c89df904e7ddb6be34899b36bec122e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
