@@ -4853,6 +4853,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(go.d/snmp): add EATON UPS profile (#21355)</code>](https://github.com/netdata/netdata.git/commit/16b5914f8228e6812159688001374cb78152ee22)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-30-nightly.</code>](https://github.com/netdata/netdata.git/commit/1cd0d161addaea6a66c474c6213e3cfde7c94204)
 - [ ] [<code>Session connections (MSSQL Plugin) (#21350)</code>](https://github.com/netdata/netdata.git/commit/092e1a831a7ecd59e224015c8333261c997334cc)
+- [ ] [<code>fix(docker): add netdata user to nvidia device group on non-Debian systems (#21358)</code>](https://github.com/netdata/netdata.git/commit/5920582109d9b1a190a99ba7baeb9b91fb63b0b6)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.0 to 9.17.1 in /src/go (#21360)</code>](https://github.com/netdata/netdata.git/commit/615261a437b07233aa8d456a56ee3836e90f17cb)
+- [ ] [<code>chore(go.d): add type=float dimension support (#21362)</code>](https://github.com/netdata/netdata.git/commit/31e8ac86e0f45f449da840f7286847304c677eac)
+- [ ] [<code>chore(go.d): fix get dim value (#21363)</code>](https://github.com/netdata/netdata.git/commit/3bd3b80e64c16743986de26ac585174495a089fb)
+- [ ] [<code>add netdata user to video group (#21359)</code>](https://github.com/netdata/netdata.git/commit/82323ae59e505019e514a20aeaefb086e70dc9b9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7144,6 +7149,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>examples: free syntax_error</code>](https://github.com/jow-/ucode/commit/292e0f87cbf7bb5de67d407ebe5bd5971d7ac2a0)
 - [ ] [<code>Revert "nl80211: read all pending event messages"</code>](https://github.com/jow-/ucode/commit/fd5889028f5ef88dcf84c749e80ea7ea4b3ba812)
 - [ ] [<code>types: add ucv_string_alloc helper function</code>](https://github.com/jow-/ucode/commit/80a88b852620d8f19b1f62d5adf3e81bccb3bbe3)
+- [ ] [<code>lib/fs: fix return value for flush</code>](https://github.com/jow-/ucode/commit/afe4be60628aee70c26896d346a8c102aac38f16)
+- [ ] [<code>lib/uloop: fix return value doc for run()</code>](https://github.com/jow-/ucode/commit/5f08ecf8e37215230ed2dfbc8b83ab69f809b776)
+- [ ] [<code>lib/uloop: pass eof and error to cb</code>](https://github.com/jow-/ucode/commit/1affe484f3020568c32f0efdb1bf037e01711825)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
