@@ -501,6 +501,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shares/resources/usbid: Only load the database once</code>](https://github.com/lxc/incus/commit/185a340466e6057b51d5636c01c2e0d0f376222e)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/909e196eeb04cf9111faa9327016183e78153224)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/30329e220e5cd6d7bf3dd6d37c3f4e3021ce37b9)
+- [ ] [<code>tests: Re-structure test suite for better parallel runs</code>](https://github.com/lxc/incus/commit/fe43941e950bd0eb16503b2e758311e54b7f5ff5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>github: Tweak test matrix</code>](https://github.com/lxc/incus/commit/82513293ec0fff06b98adc41e1741619abb9fc7e)
+- [ ] [<code>test/metrics: Fix missing cleanup</code>](https://github.com/lxc/incus/commit/610ed54163bce2879d710f7da283f9daf456c713)
+- [ ] [<code>tests/tls_restrictions: Query specific certificate</code>](https://github.com/lxc/incus/commit/c9faac395577317492ab242466adaaecddd4a3ad)
+- [ ] [<code>tests/remote: Clear the trusted certificates at beginning of test</code>](https://github.com/lxc/incus/commit/34cf8e86dd0bc7ca7af23792809122d6bbb984ab)
+- [ ] [<code>tests/includes: Fix ensure_has_localhost_remote to clear any existing remote</code>](https://github.com/lxc/incus/commit/86f5f4700755b68da518b126589d011f0911fe97)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4542,6 +4549,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shares/resources/usbid: Only load the database once</code>](https://github.com/lxc/incus/commit/185a340466e6057b51d5636c01c2e0d0f376222e)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/909e196eeb04cf9111faa9327016183e78153224)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/30329e220e5cd6d7bf3dd6d37c3f4e3021ce37b9)
+- [ ] [<code>tests: Re-structure test suite for better parallel runs</code>](https://github.com/lxc/incus/commit/fe43941e950bd0eb16503b2e758311e54b7f5ff5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>github: Tweak test matrix</code>](https://github.com/lxc/incus/commit/82513293ec0fff06b98adc41e1741619abb9fc7e)
+- [ ] [<code>test/metrics: Fix missing cleanup</code>](https://github.com/lxc/incus/commit/610ed54163bce2879d710f7da283f9daf456c713)
+- [ ] [<code>tests/tls_restrictions: Query specific certificate</code>](https://github.com/lxc/incus/commit/c9faac395577317492ab242466adaaecddd4a3ad)
+- [ ] [<code>tests/remote: Clear the trusted certificates at beginning of test</code>](https://github.com/lxc/incus/commit/34cf8e86dd0bc7ca7af23792809122d6bbb984ab)
+- [ ] [<code>tests/includes: Fix ensure_has_localhost_remote to clear any existing remote</code>](https://github.com/lxc/incus/commit/86f5f4700755b68da518b126589d011f0911fe97)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
