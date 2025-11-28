@@ -4858,6 +4858,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): add type=float dimension support (#21362)</code>](https://github.com/netdata/netdata.git/commit/31e8ac86e0f45f449da840f7286847304c677eac)
 - [ ] [<code>chore(go.d): fix get dim value (#21363)</code>](https://github.com/netdata/netdata.git/commit/3bd3b80e64c16743986de26ac585174495a089fb)
 - [ ] [<code>add netdata user to video group (#21359)</code>](https://github.com/netdata/netdata.git/commit/82323ae59e505019e514a20aeaefb086e70dc9b9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-37-nightly.</code>](https://github.com/netdata/netdata.git/commit/08f4cdf4867f524056ff514b44f07f2cfb44505d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
