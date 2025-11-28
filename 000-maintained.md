@@ -213,6 +213,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/bb7e88ad96feed74224d5db968a4bb601dea54fa)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/14b85d1de6306292667d7ae702811e2dc1cf65ab)
+- [ ] [<code>build: (deps): bump device_info_plus from 12.2.0 to 12.3.0</code>](https://github.com/krille-chan/fluffychat/commit/a360be56ec44a2f1dbe447a07fa1de21dc6e2e43)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -332,6 +333,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Greek)</code>](https://github.com/krille-chan/fluffychat/commit/bb7e88ad96feed74224d5db968a4bb601dea54fa)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/14b85d1de6306292667d7ae702811e2dc1cf65ab)
+- [ ] [<code>build: (deps): bump device_info_plus from 12.2.0 to 12.3.0</code>](https://github.com/krille-chan/fluffychat/commit/a360be56ec44a2f1dbe447a07fa1de21dc6e2e43)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -465,6 +467,40 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/auth/openfga: Add missing storage volume entitlements</code>](https://github.com/lxc/incus/commit/373608ea76f5757a371594353e42a04b70cb69f0)
 - [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/eee51510ae45fcbd3f160f07e97d4229b1188f1e)
 - [ ] [<code>incusd/patches: Upgrade OpenFGA model</code>](https://github.com/lxc/incus/commit/d7d153ce2c508acb40b6dc8327ab661b771616cf)
+- [ ] [<code>shared/api: Remove non-existent field from StoragePoolBucketBackup</code>](https://github.com/lxc/incus/commit/525dcb1f143d24a2242c7629a10fd9004bc333cc)
+- [ ] [<code>incusd/backup/bucket: Remove unused field</code>](https://github.com/lxc/incus/commit/4a4aacadb3fbcd04f64bbafe97d66a4849ff7b96)
+- [ ] [<code>shared/api: Add missing CreatedAt on bucket backup</code>](https://github.com/lxc/incus/commit/1e2648bc624e38fde08e2c65f53930da17602a8c)
+- [ ] [<code>incusd/storage/bucket: Fix backup listing endpoint</code>](https://github.com/lxc/incus/commit/fe32bb3842b76076ce04a58b657217ba69b5b7e1)
+- [ ] [<code>api: storage_volume_full</code>](https://github.com/lxc/incus/commit/8534608f3b0a80148c3462e669586fd8e372a1cb)
+- [ ] [<code>api: storage_bucket_full</code>](https://github.com/lxc/incus/commit/f83d262dc6903a6ef6d3f22e736c73aedc390649)
+- [ ] [<code>shared/api: Add StorageVolumeFull</code>](https://github.com/lxc/incus/commit/204b247e79afbdfead7421c888cbbea3990da369)
+- [ ] [<code>shared/api: Add StorageBucketFull</code>](https://github.com/lxc/incus/commit/9b23183b523a586b5e2ce8aeacf4b8b5768f4f63)
+- [ ] [<code>client: Add GetStoragePoolBucketFull and GetStoragePoolVolumeFull</code>](https://github.com/lxc/incus/commit/e5bb1ec415b30279e12be413c1ffa6a9e0d087a2)
+- [ ] [<code>client: Add full variants of volume and bucket list functions</code>](https://github.com/lxc/incus/commit/0d3339685ce0d154411aa95fa5cfc35dd15d4a9e)
+- [ ] [<code>incusd/storage_buckets: Add recursion=1 for storage bucket get</code>](https://github.com/lxc/incus/commit/82650c97877c83beab25090596dad365f4aecee9)
+- [ ] [<code>incusd/storage_volumes: Add recursion=1 for storage volume get</code>](https://github.com/lxc/incus/commit/f1f6bd4bc7e4edb49524862d3446cb3509a0c0b0)
+- [ ] [<code>incusd/storage_volumes: Add recursion=2 for storage volumes get</code>](https://github.com/lxc/incus/commit/7cfcd9d1d7d7b7e1dca6d0f367f317299d845a6a)
+- [ ] [<code>incusd/storage_buckets: Add recursion=2 for storage buckets get</code>](https://github.com/lxc/incus/commit/c35150dbb4c52b6a5a3961d468edc41503e9dc1b)
+- [ ] [<code>doc/rest-api: Refresh swsagger YAML</code>](https://github.com/lxc/incus/commit/c311fded7c6c9dc33d27a6c659729ff14423ee5b)
+- [ ] [<code>tests: Fix snapshot list testing</code>](https://github.com/lxc/incus/commit/523aa1d9bcac7113eea60f60c95837e87a550d73)
+- [ ] [<code>incus: Add support for bulk deletion to all objects</code>](https://github.com/lxc/incus/commit/cab546e51ce8ecc6e1d0705bf63298bb0a0a908a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/5e239549b964d9f522ca424c726b3b87fa8c98ca)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: device_pci_firmware</code>](https://github.com/lxc/incus/commit/787d2eec35f7b1ac8f3f444d4759ed258e878828)
+- [ ] [<code>incusd/device/pci: Add firmware option</code>](https://github.com/lxc/incus/commit/d7b87a6d462c30ce097201fe0a81c2d565ccf1f8)
+- [ ] [<code>incusd/instance/qemu: Add rom-bar to PCI template</code>](https://github.com/lxc/incus/commit/c977701cb802044c822e015c75f774caeb2ff83d)
+- [ ] [<code>incusd/instance/qemu: Pass firmware option to qemuPCIPhysical</code>](https://github.com/lxc/incus/commit/9e4e25449cdaac9cb8b9bd0cd571330be83c9448)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/1b82f1fd70306f20d464c405c7d9f07128540226)
+- [ ] [<code>incusd/instance/qemu: Update tests</code>](https://github.com/lxc/incus/commit/008eeeb43b0b504a0f71cd612bba1b52a745d983)
+- [ ] [<code>api: resources_serial</code>](https://github.com/lxc/incus/commit/9eabf799c229bd7468fa65cb7bdae49498a1339b)
+- [ ] [<code>shared/api: Add Serial device resource types</code>](https://github.com/lxc/incus/commit/ace6cb8e8d1a321f6900c11eb40ad6fa1b615033)
+- [ ] [<code>shared/resources: Add serial device resource support</code>](https://github.com/lxc/incus/commit/69e7e7f94f30ef0582d109d13c93c4364574a752)
+- [ ] [<code>shared/resources: Add test cases for serial device</code>](https://github.com/lxc/incus/commit/b5905e9bb929abc3870aebecc5ef02a0ded99350)
+- [ ] [<code>incus/info: Add Serial devices to --resources</code>](https://github.com/lxc/incus/commit/edbfefb528d4a82cc96e25d384ba42103dd9d627)
+- [ ] [<code>shares/resources/usbid: Only load the database once</code>](https://github.com/lxc/incus/commit/185a340466e6057b51d5636c01c2e0d0f376222e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/909e196eeb04cf9111faa9327016183e78153224)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/30329e220e5cd6d7bf3dd6d37c3f4e3021ce37b9)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4472,6 +4508,40 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/auth/openfga: Add missing storage volume entitlements</code>](https://github.com/lxc/incus/commit/373608ea76f5757a371594353e42a04b70cb69f0)
 - [ ] [<code>incusd/auth/openfga: Rebuild model</code>](https://github.com/lxc/incus/commit/eee51510ae45fcbd3f160f07e97d4229b1188f1e)
 - [ ] [<code>incusd/patches: Upgrade OpenFGA model</code>](https://github.com/lxc/incus/commit/d7d153ce2c508acb40b6dc8327ab661b771616cf)
+- [ ] [<code>shared/api: Remove non-existent field from StoragePoolBucketBackup</code>](https://github.com/lxc/incus/commit/525dcb1f143d24a2242c7629a10fd9004bc333cc)
+- [ ] [<code>incusd/backup/bucket: Remove unused field</code>](https://github.com/lxc/incus/commit/4a4aacadb3fbcd04f64bbafe97d66a4849ff7b96)
+- [ ] [<code>shared/api: Add missing CreatedAt on bucket backup</code>](https://github.com/lxc/incus/commit/1e2648bc624e38fde08e2c65f53930da17602a8c)
+- [ ] [<code>incusd/storage/bucket: Fix backup listing endpoint</code>](https://github.com/lxc/incus/commit/fe32bb3842b76076ce04a58b657217ba69b5b7e1)
+- [ ] [<code>api: storage_volume_full</code>](https://github.com/lxc/incus/commit/8534608f3b0a80148c3462e669586fd8e372a1cb)
+- [ ] [<code>api: storage_bucket_full</code>](https://github.com/lxc/incus/commit/f83d262dc6903a6ef6d3f22e736c73aedc390649)
+- [ ] [<code>shared/api: Add StorageVolumeFull</code>](https://github.com/lxc/incus/commit/204b247e79afbdfead7421c888cbbea3990da369)
+- [ ] [<code>shared/api: Add StorageBucketFull</code>](https://github.com/lxc/incus/commit/9b23183b523a586b5e2ce8aeacf4b8b5768f4f63)
+- [ ] [<code>client: Add GetStoragePoolBucketFull and GetStoragePoolVolumeFull</code>](https://github.com/lxc/incus/commit/e5bb1ec415b30279e12be413c1ffa6a9e0d087a2)
+- [ ] [<code>client: Add full variants of volume and bucket list functions</code>](https://github.com/lxc/incus/commit/0d3339685ce0d154411aa95fa5cfc35dd15d4a9e)
+- [ ] [<code>incusd/storage_buckets: Add recursion=1 for storage bucket get</code>](https://github.com/lxc/incus/commit/82650c97877c83beab25090596dad365f4aecee9)
+- [ ] [<code>incusd/storage_volumes: Add recursion=1 for storage volume get</code>](https://github.com/lxc/incus/commit/f1f6bd4bc7e4edb49524862d3446cb3509a0c0b0)
+- [ ] [<code>incusd/storage_volumes: Add recursion=2 for storage volumes get</code>](https://github.com/lxc/incus/commit/7cfcd9d1d7d7b7e1dca6d0f367f317299d845a6a)
+- [ ] [<code>incusd/storage_buckets: Add recursion=2 for storage buckets get</code>](https://github.com/lxc/incus/commit/c35150dbb4c52b6a5a3961d468edc41503e9dc1b)
+- [ ] [<code>doc/rest-api: Refresh swsagger YAML</code>](https://github.com/lxc/incus/commit/c311fded7c6c9dc33d27a6c659729ff14423ee5b)
+- [ ] [<code>tests: Fix snapshot list testing</code>](https://github.com/lxc/incus/commit/523aa1d9bcac7113eea60f60c95837e87a550d73)
+- [ ] [<code>incus: Add support for bulk deletion to all objects</code>](https://github.com/lxc/incus/commit/cab546e51ce8ecc6e1d0705bf63298bb0a0a908a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/5e239549b964d9f522ca424c726b3b87fa8c98ca)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>api: device_pci_firmware</code>](https://github.com/lxc/incus/commit/787d2eec35f7b1ac8f3f444d4759ed258e878828)
+- [ ] [<code>incusd/device/pci: Add firmware option</code>](https://github.com/lxc/incus/commit/d7b87a6d462c30ce097201fe0a81c2d565ccf1f8)
+- [ ] [<code>incusd/instance/qemu: Add rom-bar to PCI template</code>](https://github.com/lxc/incus/commit/c977701cb802044c822e015c75f774caeb2ff83d)
+- [ ] [<code>incusd/instance/qemu: Pass firmware option to qemuPCIPhysical</code>](https://github.com/lxc/incus/commit/9e4e25449cdaac9cb8b9bd0cd571330be83c9448)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/1b82f1fd70306f20d464c405c7d9f07128540226)
+- [ ] [<code>incusd/instance/qemu: Update tests</code>](https://github.com/lxc/incus/commit/008eeeb43b0b504a0f71cd612bba1b52a745d983)
+- [ ] [<code>api: resources_serial</code>](https://github.com/lxc/incus/commit/9eabf799c229bd7468fa65cb7bdae49498a1339b)
+- [ ] [<code>shared/api: Add Serial device resource types</code>](https://github.com/lxc/incus/commit/ace6cb8e8d1a321f6900c11eb40ad6fa1b615033)
+- [ ] [<code>shared/resources: Add serial device resource support</code>](https://github.com/lxc/incus/commit/69e7e7f94f30ef0582d109d13c93c4364574a752)
+- [ ] [<code>shared/resources: Add test cases for serial device</code>](https://github.com/lxc/incus/commit/b5905e9bb929abc3870aebecc5ef02a0ded99350)
+- [ ] [<code>incus/info: Add Serial devices to --resources</code>](https://github.com/lxc/incus/commit/edbfefb528d4a82cc96e25d384ba42103dd9d627)
+- [ ] [<code>shares/resources/usbid: Only load the database once</code>](https://github.com/lxc/incus/commit/185a340466e6057b51d5636c01c2e0d0f376222e)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/909e196eeb04cf9111faa9327016183e78153224)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/30329e220e5cd6d7bf3dd6d37c3f4e3021ce37b9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4859,6 +4929,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): fix get dim value (#21363)</code>](https://github.com/netdata/netdata.git/commit/3bd3b80e64c16743986de26ac585174495a089fb)
 - [ ] [<code>add netdata user to video group (#21359)</code>](https://github.com/netdata/netdata.git/commit/82323ae59e505019e514a20aeaefb086e70dc9b9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-37-nightly.</code>](https://github.com/netdata/netdata.git/commit/08f4cdf4867f524056ff514b44f07f2cfb44505d)
+- [ ] [<code>fix(docker): fix bugs and refactor Docker entrypoint script (#21364)</code>](https://github.com/netdata/netdata.git/commit/3a3fdab266ed8ba7375eef1dfb091f3e78cb8bda)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
