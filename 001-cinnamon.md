@@ -322,7 +322,9 @@
 - [ ] [<code>cs_power.py: Discover suspend/hibernate capabilities from cinnamon-</code>](https://github.com/linuxmint/cinnamon/commit/d46cb622a5f5f490aabc6263668d6bc9ca2b032d)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>alt-tab: On click, launch the clicked app, not the active one (#12430)</code>](https://github.com/linuxmint/cinnamon/commit/d5d67ed48c89df904e7ddb6be34899b36bec122e)
+- [ ] [<code>cinnamon-settings: add Gnome Left option to Windows buttons layout (#13225)</code>](https://github.com/linuxmint/cinnamon/commit/83f4a2050aaf437e71896dabcdd656ce3d9e1c52)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
