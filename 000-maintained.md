@@ -513,6 +513,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus/server/network/ovn: Add limits support</code>](https://github.com/lxc/incus/commit/c70a2e6b749b2f776beb39c63ee7ee7d2fde8b17)
 - [ ] [<code>incus/server/device/nic_ovn: Add limits support</code>](https://github.com/lxc/incus/commit/0e083c060a7886348baba7fd00cf685ce48682c3)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e35e78e7757a535b575f665a5e469f4149ee4831)
+- [ ] [<code>incusd/instances: Use /tmp for temporary screenshot storage</code>](https://github.com/lxc/incus/commit/696bc3943ac4f47216e978d03f073b072252e7ff)
+- [ ] [<code>client/oci: Use SHA256 of combined layers as digest</code>](https://github.com/lxc/incus/commit/5c1618953c1da50850bfe2ca5068ffe47c19abad)
+- [ ] [<code>shared/ioprogress: Cap download speed to file size</code>](https://github.com/lxc/incus/commit/bc28c668ec101654d468e9b0ef82f907688a7aee)
+- [ ] [<code>incusd/network/acl: Only refresh bridge network rules if ACL is directly used</code>](https://github.com/lxc/incus/commit/ba6a865da3b6d80e4414ce2a5fb831b8fb40cfe7)
+- [ ] [<code>incusd/device/pci: Don't attempt to bind to current driver</code>](https://github.com/lxc/incus/commit/6143063b8188796fcfddd233245070b08091d7b8)
+- [ ] [<code>incusd/instance/lxc: Tweak seccomp category</code>](https://github.com/lxc/incus/commit/841f0ed5926d51a1d5d0b98532dfb2abdeaf5535)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/7c199f1636f25f98bbe2714c6636536bc42ee131)
+- [ ] [<code>Release Incus 6.19</code>](https://github.com/lxc/incus/commit/b19f4195c0f5cbe82444b119a8c4ff5c8f6443ec)
+  - <sub>Tags: <code>v6.19.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4566,6 +4575,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus/server/network/ovn: Add limits support</code>](https://github.com/lxc/incus/commit/c70a2e6b749b2f776beb39c63ee7ee7d2fde8b17)
 - [ ] [<code>incus/server/device/nic_ovn: Add limits support</code>](https://github.com/lxc/incus/commit/0e083c060a7886348baba7fd00cf685ce48682c3)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e35e78e7757a535b575f665a5e469f4149ee4831)
+- [ ] [<code>incusd/instances: Use /tmp for temporary screenshot storage</code>](https://github.com/lxc/incus/commit/696bc3943ac4f47216e978d03f073b072252e7ff)
+- [ ] [<code>client/oci: Use SHA256 of combined layers as digest</code>](https://github.com/lxc/incus/commit/5c1618953c1da50850bfe2ca5068ffe47c19abad)
+- [ ] [<code>shared/ioprogress: Cap download speed to file size</code>](https://github.com/lxc/incus/commit/bc28c668ec101654d468e9b0ef82f907688a7aee)
+- [ ] [<code>incusd/network/acl: Only refresh bridge network rules if ACL is directly used</code>](https://github.com/lxc/incus/commit/ba6a865da3b6d80e4414ce2a5fb831b8fb40cfe7)
+- [ ] [<code>incusd/device/pci: Don't attempt to bind to current driver</code>](https://github.com/lxc/incus/commit/6143063b8188796fcfddd233245070b08091d7b8)
+- [ ] [<code>incusd/instance/lxc: Tweak seccomp category</code>](https://github.com/lxc/incus/commit/841f0ed5926d51a1d5d0b98532dfb2abdeaf5535)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/7c199f1636f25f98bbe2714c6636536bc42ee131)
+- [ ] [<code>Release Incus 6.19</code>](https://github.com/lxc/incus/commit/b19f4195c0f5cbe82444b119a8c4ff5c8f6443ec)
+  - <sub>Tags: <code>v6.19.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -7081,6 +7099,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>style: fix formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08dd92a42f417a492e5142b197173737b1fdcb1b)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#191)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1a5bfe6677e05cc3b88b08105d4eb40254792871)
+- [ ] [<code>deps(gui): fix libcosmic build on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b9ccc6e0c23e091faeb3f513c114f87237484b00)
+- [ ] [<code>feat(lib)!: adjust format of battery level string</code>](https://github.com/Oppzippy/OpenSCQ30/commit/74e74770b1f343ab3e105efe4516421b489c45b4)
+- [ ] [<code>refactor(lib): A3959StateUpdate was missing word "update"</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3b2f61577c73e43b763e3100f900300a991e101a)
+- [ ] [<code>fix(lib): a3959 shoudn't have transparency mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/732223826b2ccf916d5bf83245300beea6ef8bef)
+- [ ] [<code>fix(lib): a3959 incorrect noise canceling mode ids</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9b6e42a7a0e55e4b7a367100ccea65fece285ae0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add support for P30i</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ddefa5c98ac181d44b0fc51109870a154f556bd)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb1b7108e89a8847cfcd3cee7219d6d2ad1abcaa)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7254,9 +7280,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.4 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.4...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.5 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.5...HEAD)
 
-- [ ] [<code>Add git-pr and github</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c822e9b8cf881aa9ee2bfc5fdc96a37189623b1f)
-- [ ] [<code>1.0.5</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f6b9376a35236aa01d2d9d84bb873c8de0b27252)
-  - <sub>Tags: <code>1.0.5</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
