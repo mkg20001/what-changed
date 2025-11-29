@@ -508,6 +508,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests/tls_restrictions: Query specific certificate</code>](https://github.com/lxc/incus/commit/c9faac395577317492ab242466adaaecddd4a3ad)
 - [ ] [<code>tests/remote: Clear the trusted certificates at beginning of test</code>](https://github.com/lxc/incus/commit/34cf8e86dd0bc7ca7af23792809122d6bbb984ab)
 - [ ] [<code>tests/includes: Fix ensure_has_localhost_remote to clear any existing remote</code>](https://github.com/lxc/incus/commit/86f5f4700755b68da518b126589d011f0911fe97)
+- [ ] [<code>api: ovn_nic_limits</code>](https://github.com/lxc/incus/commit/3870ae7b9b7b9db4c94345b2967683a75f3b18e7)
+- [ ] [<code>incus/server/network/ovn/nb: Add QoS function</code>](https://github.com/lxc/incus/commit/922213a885be4f48a51da0d6bd07b5d3ca7c25a0)
+- [ ] [<code>incus/server/network/ovn: Add limits support</code>](https://github.com/lxc/incus/commit/c70a2e6b749b2f776beb39c63ee7ee7d2fde8b17)
+- [ ] [<code>incus/server/device/nic_ovn: Add limits support</code>](https://github.com/lxc/incus/commit/0e083c060a7886348baba7fd00cf685ce48682c3)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e35e78e7757a535b575f665a5e469f4149ee4831)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4556,6 +4561,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests/tls_restrictions: Query specific certificate</code>](https://github.com/lxc/incus/commit/c9faac395577317492ab242466adaaecddd4a3ad)
 - [ ] [<code>tests/remote: Clear the trusted certificates at beginning of test</code>](https://github.com/lxc/incus/commit/34cf8e86dd0bc7ca7af23792809122d6bbb984ab)
 - [ ] [<code>tests/includes: Fix ensure_has_localhost_remote to clear any existing remote</code>](https://github.com/lxc/incus/commit/86f5f4700755b68da518b126589d011f0911fe97)
+- [ ] [<code>api: ovn_nic_limits</code>](https://github.com/lxc/incus/commit/3870ae7b9b7b9db4c94345b2967683a75f3b18e7)
+- [ ] [<code>incus/server/network/ovn/nb: Add QoS function</code>](https://github.com/lxc/incus/commit/922213a885be4f48a51da0d6bd07b5d3ca7c25a0)
+- [ ] [<code>incus/server/network/ovn: Add limits support</code>](https://github.com/lxc/incus/commit/c70a2e6b749b2f776beb39c63ee7ee7d2fde8b17)
+- [ ] [<code>incus/server/device/nic_ovn: Add limits support</code>](https://github.com/lxc/incus/commit/0e083c060a7886348baba7fd00cf685ce48682c3)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e35e78e7757a535b575f665a5e469f4149ee4831)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4945,6 +4955,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-37-nightly.</code>](https://github.com/netdata/netdata.git/commit/08f4cdf4867f524056ff514b44f07f2cfb44505d)
 - [ ] [<code>fix(docker): fix bugs and refactor Docker entrypoint script (#21364)</code>](https://github.com/netdata/netdata.git/commit/3a3fdab266ed8ba7375eef1dfb091f3e78cb8bda)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-39-nightly.</code>](https://github.com/netdata/netdata.git/commit/9f077e610a4565bf035234761c3396974ed85579)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
