@@ -362,6 +362,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.19.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.19.1...HEAD)
 
+- [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4433,6 +4434,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/archive: Fix crash on nil tracker</code>](https://github.com/lxc/incus/commit/c049bac24c30d060b169b18a90c3bafc0b32f8ab)
 - [ ] [<code>Release Incus 6.19.1</code>](https://github.com/lxc/incus/commit/5277dd5dd6df3c2d864a669f06a2ae045d9f1dec)
   - <sub>Tags: <code>v6.19.1</code></sub>
+- [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4823,6 +4825,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(docker): fix bugs and refactor Docker entrypoint script (#21364)</code>](https://github.com/netdata/netdata.git/commit/3a3fdab266ed8ba7375eef1dfb091f3e78cb8bda)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-39-nightly.</code>](https://github.com/netdata/netdata.git/commit/9f077e610a4565bf035234761c3396974ed85579)
+- [ ] [<code>Regenerate integrations docs (#21346)</code>](https://github.com/netdata/netdata.git/commit/ccb05e742a725e6dc12506cb1bef6e91054e2766)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-41-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc24088fd21bfc443cf0c3f58fc10e1d9251ce64)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7026,11 +7030,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 270181 ms: Couldn't connect to server
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
