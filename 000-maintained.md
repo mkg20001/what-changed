@@ -63,6 +63,10 @@
 - [ ] [<code>Makefile: Bump minimum to Go 1.24.7</code>](https://github.com/lxc/distrobuilder/commit/585b31fdb176d62dcd3cd35f3f95e38828288195)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/bff1c3c434880db1431a3d6d6f5b1bff32a27ea1)
 - [ ] [<code>github: Ignore unrelated GHSA</code>](https://github.com/lxc/distrobuilder/commit/909b5f8700ecbf9512f8c4d91b5cf4e088218aa1)
+- [ ] [<code>sources/fedora: Remove legacy releases</code>](https://github.com/lxc/distrobuilder/commit/26121f5ebfa5e4031e193080abb2083d79f51cc8)
+- [ ] [<code>sources: Always use custom HTTP client</code>](https://github.com/lxc/distrobuilder/commit/bf526f359e95749ccad01a4513fab4902848caab)
+- [ ] [<code>sources: Tweak HTTP client to be more compatible</code>](https://github.com/lxc/distrobuilder/commit/27e9ba9b4ea447a14baa505846c768fa81037d04)
+- [ ] [<code>sources: Update the tests for HTTP client</code>](https://github.com/lxc/distrobuilder/commit/deed5039462e28f5848ad1f6d5d2f04e91330f55)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.25.1...HEAD)
 
@@ -363,6 +367,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.19.1 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.19.1...HEAD)
 
 - [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
+- [ ] [<code>incusd/device/nic: Fix link to instances-limit-units</code>](https://github.com/lxc/incus/commit/1efe37d4dd38a1c81af9f6e674af145b567dc824)
+- [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4435,6 +4441,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Release Incus 6.19.1</code>](https://github.com/lxc/incus/commit/5277dd5dd6df3c2d864a669f06a2ae045d9f1dec)
   - <sub>Tags: <code>v6.19.1</code></sub>
 - [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
+- [ ] [<code>incusd/device/nic: Fix link to instances-limit-units</code>](https://github.com/lxc/incus/commit/1efe37d4dd38a1c81af9f6e674af145b567dc824)
+- [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -7030,11 +7038,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 270181 ms: Couldn't connect to server
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
