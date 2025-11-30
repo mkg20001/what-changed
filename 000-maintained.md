@@ -220,6 +220,11 @@
 - [ ] [<code>build: (deps): bump device_info_plus from 12.2.0 to 12.3.0</code>](https://github.com/krille-chan/fluffychat/commit/a360be56ec44a2f1dbe447a07fa1de21dc6e2e43)
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/031c47268eac457cd9e0f1cd72e769bac812dbce)
 - [ ] [<code>chore(translations): Translated using Weblate (Serbian)</code>](https://github.com/krille-chan/fluffychat/commit/0b51a7449e83ea988ff01e9a58e1dcfdf98b4066)
+- [ ] [<code>refactor: Update flutter lints</code>](https://github.com/krille-chan/fluffychat/commit/35983437e25a8584b32ad796f6d4ed6bc84aa75f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Hide no fcm warning after dismissed</code>](https://github.com/krille-chan/fluffychat/commit/75a37f3f7c68ba240551da3569a9b1fc6e1dd528)
+- [ ] [<code>refactor: Update to Dart 3.10 with . shorthands</code>](https://github.com/krille-chan/fluffychat/commit/1ea649f01ee5de0b4c204768eeaecc143f04bc6d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -342,6 +347,11 @@
 - [ ] [<code>build: (deps): bump device_info_plus from 12.2.0 to 12.3.0</code>](https://github.com/krille-chan/fluffychat/commit/a360be56ec44a2f1dbe447a07fa1de21dc6e2e43)
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/031c47268eac457cd9e0f1cd72e769bac812dbce)
 - [ ] [<code>chore(translations): Translated using Weblate (Serbian)</code>](https://github.com/krille-chan/fluffychat/commit/0b51a7449e83ea988ff01e9a58e1dcfdf98b4066)
+- [ ] [<code>refactor: Update flutter lints</code>](https://github.com/krille-chan/fluffychat/commit/35983437e25a8584b32ad796f6d4ed6bc84aa75f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: Hide no fcm warning after dismissed</code>](https://github.com/krille-chan/fluffychat/commit/75a37f3f7c68ba240551da3569a9b1fc6e1dd528)
+- [ ] [<code>refactor: Update to Dart 3.10 with . shorthands</code>](https://github.com/krille-chan/fluffychat/commit/1ea649f01ee5de0b4c204768eeaecc143f04bc6d)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -369,6 +379,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
 - [ ] [<code>incusd/device/nic: Fix link to instances-limit-units</code>](https://github.com/lxc/incus/commit/1efe37d4dd38a1c81af9f6e674af145b567dc824)
 - [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
+- [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4443,6 +4454,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
 - [ ] [<code>incusd/device/nic: Fix link to instances-limit-units</code>](https://github.com/lxc/incus/commit/1efe37d4dd38a1c81af9f6e674af145b567dc824)
 - [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
+- [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4835,6 +4847,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-39-nightly.</code>](https://github.com/netdata/netdata.git/commit/9f077e610a4565bf035234761c3396974ed85579)
 - [ ] [<code>Regenerate integrations docs (#21346)</code>](https://github.com/netdata/netdata.git/commit/ccb05e742a725e6dc12506cb1bef6e91054e2766)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-41-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc24088fd21bfc443cf0c3f58fc10e1d9251ce64)
+- [ ] [<code>Improve stale replication (#21357)</code>](https://github.com/netdata/netdata.git/commit/c6438952c2b4b393bf1f5c0a7e31c09478e8807a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7036,6 +7049,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>raft.h: Fix raft_step() docstring</code>](https://github.com/cowsql/raft/commit/7d64f181a2318a92737004204007c048bc429a94)
 - [ ] [<code>lint: Run clang against unformatted files</code>](https://github.com/cowsql/raft/commit/0bd5a267c4188405f58775fd1231bdd5e49cc078)
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
+- [ ] [<code>github: Bump to Ubuntu 24.04 for Incus downstream tests</code>](https://github.com/cowsql/raft/commit/a3fe2df0a2b3cc3437e5792d817fad27f0a9d644)
+- [ ] [<code>github: Update Incus downstream action to match upstream</code>](https://github.com/cowsql/raft/commit/613f280925865214e4bc513af309cd326819be4d)
+- [ ] [<code>github: Add container, network and storage Incus test targets</code>](https://github.com/cowsql/raft/commit/e5949e345914799ca462f3f63df54d4a10af7c33)
+- [ ] [<code>Update github action code for Incus downstream tests (#201)</code>](https://github.com/cowsql/raft/commit/a64a6436cdc67459478d1cf8cd35e12297c3ec5e)
+- [ ] [<code>step: Improve memory ownership of RAFT_START configuration</code>](https://github.com/cowsql/raft/commit/bc17d89cafc433a69e54f412a0b8c095b4e0180d)
+- [ ] [<code>step: Improve memory ownership of RAFT_START entries</code>](https://github.com/cowsql/raft/commit/7377b75917349fcbcbc13307646f29b1e58d6f6b)
+- [ ] [<code>v1: RAFT_START memory ownership cleanups (#200)</code>](https://github.com/cowsql/raft/commit/47f18054186c596e133b4dfa84d1320978bdb86f)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -7148,6 +7168,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lib/fs: fix return value for flush</code>](https://github.com/jow-/ucode/commit/afe4be60628aee70c26896d346a8c102aac38f16)
 - [ ] [<code>lib/uloop: fix return value doc for run()</code>](https://github.com/jow-/ucode/commit/5f08ecf8e37215230ed2dfbc8b83ab69f809b776)
 - [ ] [<code>lib/uloop: pass eof and error to cb</code>](https://github.com/jow-/ucode/commit/1affe484f3020568c32f0efdb1bf037e01711825)
+- [ ] [<code>lib: introduce io library</code>](https://github.com/jow-/ucode/commit/559860cbd76de8303ea9a6d90f7a04009432b974)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
