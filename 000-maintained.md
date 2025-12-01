@@ -379,6 +379,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
 - [ ] [<code>incusd/device/nic: Fix link to instances-limit-units</code>](https://github.com/lxc/incus/commit/1efe37d4dd38a1c81af9f6e674af145b567dc824)
 - [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
+- [ ] [<code>Added default environment variables for the Windows agent.</code>](https://github.com/lxc/incus/commit/73749572d7af2f2ec390636e66996d67e134202a)
 - [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
@@ -4454,6 +4455,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>agent-loader/install-linux.sh Fix SELinux issue with agent run path</code>](https://github.com/lxc/incus/commit/e6d865e0fcb14ad144550dd0ec8c4dcada4b41f1)
 - [ ] [<code>incusd/device/nic: Fix link to instances-limit-units</code>](https://github.com/lxc/incus/commit/1efe37d4dd38a1c81af9f6e674af145b567dc824)
 - [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
+- [ ] [<code>Added default environment variables for the Windows agent.</code>](https://github.com/lxc/incus/commit/73749572d7af2f2ec390636e66996d67e134202a)
 - [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
@@ -4728,6 +4730,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>apparmor: skip /proc and /sys restrictions if nesting is enabled</code>](https://github.com/lxc/lxc/commit/b89ed0a8e6cb48016f5dac68100e4f47003aeb62)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/lxc/commit/66178025643bd166bfec867211ff44b018863ad7)
+- [ ] [<code>build: Check if P_PIDFD is defined</code>](https://github.com/lxc/lxc/commit/4d00d4f8046972907ef34ac5677d07ae39f3aded)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4848,6 +4852,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21346)</code>](https://github.com/netdata/netdata.git/commit/ccb05e742a725e6dc12506cb1bef6e91054e2766)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-41-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc24088fd21bfc443cf0c3f58fc10e1d9251ce64)
 - [ ] [<code>Improve stale replication (#21357)</code>](https://github.com/netdata/netdata.git/commit/c6438952c2b4b393bf1f5c0a7e31c09478e8807a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/fadb55bcf6d48d86573168115924657bed61c441)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
