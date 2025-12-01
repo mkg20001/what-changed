@@ -36,6 +36,7 @@
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/libubox.git/commit/38d70328ecbd90522727447e62247530eda2b668)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>scripts: devel-build: add missing LUAPATH</code>](https://git.openwrt.org/project/libubox.git/commit/edaf77da740d13bb46e460695709bab6fe395345)
+- [ ] [<code>build: disable static json-c</code>](https://git.openwrt.org/project/libubox.git/commit/c0773869c9d617f94fd4a6745184ed553992599c)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
