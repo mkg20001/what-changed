@@ -225,6 +225,8 @@
 - [ ] [<code>fix: Hide no fcm warning after dismissed</code>](https://github.com/krille-chan/fluffychat/commit/75a37f3f7c68ba240551da3569a9b1fc6e1dd528)
 - [ ] [<code>refactor: Update to Dart 3.10 with . shorthands</code>](https://github.com/krille-chan/fluffychat/commit/1ea649f01ee5de0b4c204768eeaecc143f04bc6d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
+- [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -352,6 +354,8 @@
 - [ ] [<code>fix: Hide no fcm warning after dismissed</code>](https://github.com/krille-chan/fluffychat/commit/75a37f3f7c68ba240551da3569a9b1fc6e1dd528)
 - [ ] [<code>refactor: Update to Dart 3.10 with . shorthands</code>](https://github.com/krille-chan/fluffychat/commit/1ea649f01ee5de0b4c204768eeaecc143f04bc6d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
+- [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4571,6 +4575,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Removed unused assignments (#2914)</code>](https://github.com/AOMediaCodec/libavif/commit/2b125ba9ea2055593122473cfd80bc0b10436817)
 - [ ] [<code>Update AVM to commit e3b7bd42</code>](https://github.com/AOMediaCodec/libavif/commit/40d0b387fba00a4d48ee8f411dafdf71b0cdbbd8)
 - [ ] [<code>scale: fix a potential memory leak (#2915)</code>](https://github.com/AOMediaCodec/libavif/commit/a7c82c7abc263b1fc9adadf464f4afea06a94539)
+- [ ] [<code>Bump the github-actions group with 2 updates (#2917)</code>](https://github.com/AOMediaCodec/libavif/commit/c3c6f7d7d05f927dfa7de69bae185285c3321440)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4853,6 +4858,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-41-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc24088fd21bfc443cf0c3f58fc10e1d9251ce64)
 - [ ] [<code>Improve stale replication (#21357)</code>](https://github.com/netdata/netdata.git/commit/c6438952c2b4b393bf1f5c0a7e31c09478e8807a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-43-nightly.</code>](https://github.com/netdata/netdata.git/commit/fadb55bcf6d48d86573168115924657bed61c441)
+- [ ] [<code>Update security and privacy design links in map.csv (#21369)</code>](https://github.com/netdata/netdata.git/commit/f83c92a605f212d6dd6c0177ec214a917b243fc2)
+- [ ] [<code>Detect in kickstart script if we publish native packages for the platform (#21262)</code>](https://github.com/netdata/netdata.git/commit/d641a3bdd39e4a1b852a791cfa7385ef281e8b30)
+- [ ] [<code>Fix dangling link to sizing documentation (#21372)</code>](https://github.com/netdata/netdata.git/commit/17cfae4e04ed6b527eedd97bc5ab5fc9481a4de6)
+- [ ] [<code>Adjust windows sensors initialization (#21374)</code>](https://github.com/netdata/netdata.git/commit/a87d38e34bae0a4b0b7e4158eb1a6ff75e235827)
+- [ ] [<code>improve(health/notifications/telegram): add option to set API url (#21376)</code>](https://github.com/netdata/netdata.git/commit/fc53ff76275b94be76a66fee6a18159c49c9be16)
+- [ ] [<code>Regenerate integrations docs (#21377)</code>](https://github.com/netdata/netdata.git/commit/9fc74984ca71c5fcef81d851215e84370cb84d24)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5594,7 +5605,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped oils-for-unix - no appropriate URL found OrderedDict({'attr_path': 'oils-for-unix', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.36.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.36.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped oils-for-unix - no appropriate URL found OrderedDict({'attr_path': 'oils-for-unix', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.37.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.37.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [oonf-olsrd2](https://github.com/OLSR/OONF): [v0.15.1 → HEAD](https://github.com/OLSR/OONF/compare/v0.15.1...HEAD)
@@ -6997,6 +7008,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(tools/soundcore-device-faker): spoof mac address</code>](https://github.com/Oppzippy/OpenSCQ30/commit/253b717f140607f1f10df6f30bb2bc67d8df05c4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(android): add per-app language preference</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43406c90ee8e8b4da3b58586773d9fd02b97921d)
+- [ ] [<code>build(android): update build tools and ndk</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a2d7999aa63bb2c4a15742d305d7d809d9c64534)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7010,6 +7023,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [python312Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.1 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.1...HEAD)
 
 - [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
+- [ ] [<code>Add possible exits to extend candidates</code>](https://github.com/tribler/py-ipv8/commit/b4cb8707ed67de9ad5df598e7221422e80699a82)
 
 #### [python312Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -7116,6 +7130,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Various fixes (#8822)</code>](https://github.com/tribler/Tribler/commit/3bc225bf8e3f37c6baee5c3e6929cd518befea56)
 - [ ] [<code>Fix for reordered 'add' and 'metainfo' alerts</code>](https://github.com/tribler/Tribler/commit/575d9f383de3d21594efa3fda8689ed16a649863)
 - [ ] [<code>Fix for reordered 'add' and 'metadata' alerts (#8824)</code>](https://github.com/tribler/Tribler/commit/f6d75d807618ab0a22f570506187f8a736049fc8)
+- [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/7fc3c3f215452d173d90384bb26fc885470a1e7b)
+- [ ] [<code>Add circuit_class to tunnel events</code>](https://github.com/tribler/Tribler/commit/b40ada97a3fe800470b5a0fa791ade95b2a04643)
+- [ ] [<code>Update IPv8 pointer (#8829)</code>](https://github.com/tribler/Tribler/commit/035c088f0928b6786c362c8940b7678bf11f5f66)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -7176,6 +7193,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lib: introduce io library</code>](https://github.com/jow-/ucode/commit/559860cbd76de8303ea9a6d90f7a04009432b974)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>vm: optimize string+string concat with ucv_string_alloc</code>](https://github.com/jow-/ucode/commit/ef07e2448a56f6a49db6303380b99481ea41e056)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
