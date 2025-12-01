@@ -455,9 +455,13 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/4b01c72008351e77a2169e809cd7e016c02052f7)
 - [ ] [<code>packaging: Fix csd-dev removal</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7458d8020048c5ea7631865b2eac1c84c4e8f210)
 - [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d9cf5c5d308e59670024593e65d1a3aee2377726)
-  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>csd-xsettings-manager.c: Always use the ibus im module unless</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b5da80d63357ef740e4f62711cd33a29af5e1fe5)
+  - <sub>Keywords: <code>org.gnome.desktop</code></sub>
+- [ ] [<code>automount: fix automount with active screensaver and memleak (#426)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f98089254744975daef20ac5ab2b685a347a9973)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
 
