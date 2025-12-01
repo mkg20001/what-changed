@@ -662,10 +662,11 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo/commit/3a672057ba803fe1b16539121b5fb870acf6c634)
 - [ ] [<code>preferences: Add some spacing between rows of the actions and</code>](https://github.com/linuxmint/nemo/commit/77090c4980345b56a49d751c9b0af1083bb974cf)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>6.6.0</code>](https://github.com/linuxmint/nemo/commit/dc1e4fd721e91b5d5558ec31bae8cc014b127e25)
-  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code></sub>
+  - <sub>Tags: <code>6.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-action.c: Fix issues in the recent:// folder.</code>](https://github.com/linuxmint/nemo/commit/677f377c159bff3b621ea058f6f5ee974d2a8883)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
