@@ -228,6 +228,8 @@
 - [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
 - [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
 - [ ] [<code>chore: Follow up html tag rendering</code>](https://github.com/krille-chan/fluffychat/commit/86a73f9909b35abcbdaefded2aceee29c149cf2b)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/89a167dc5713b9a50d71e9514da2f8e08f42ff8c)
+- [ ] [<code>chore: Use license_checker from pub again</code>](https://github.com/krille-chan/fluffychat/commit/5c7520fd73c139d7753f6be362fc3db89f06873d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -359,6 +361,7 @@
 - [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
 - [ ] [<code>chore: Follow up html tag rendering</code>](https://github.com/krille-chan/fluffychat/commit/86a73f9909b35abcbdaefded2aceee29c149cf2b)
 - [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/89a167dc5713b9a50d71e9514da2f8e08f42ff8c)
+- [ ] [<code>chore: Use license_checker from pub again</code>](https://github.com/krille-chan/fluffychat/commit/5c7520fd73c139d7753f6be362fc3db89f06873d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4870,6 +4873,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21377)</code>](https://github.com/netdata/netdata.git/commit/9fc74984ca71c5fcef81d851215e84370cb84d24)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.1 to 9.17.2 in /src/go (#21378)</code>](https://github.com/netdata/netdata.git/commit/b8d6dc7cb4c4973523360b5d5940183c5c57bb9b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-51-nightly.</code>](https://github.com/netdata/netdata.git/commit/265952473194ee12ca8137d1ca60867b747dd1df)
+- [ ] [<code>Fix Broken links before adding `-f` to ingest check (#21379)</code>](https://github.com/netdata/netdata.git/commit/164e1bb2ea4719bb7e9e0f7655304db18d52f3c4)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>remove info containing broken link (#21382)</code>](https://github.com/netdata/netdata.git/commit/a283924ff1bff99e88eaf8c2e00b3bb01dd3ca71)
+- [ ] [<code>Use improved compression algorithms when building DEB packages. (#21310)</code>](https://github.com/netdata/netdata.git/commit/908e30b2d4b1d4037b209dbd5d6e803e73be4dcb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21381)</code>](https://github.com/netdata/netdata.git/commit/83fa956f993ea1aa4a61198e35b5e80f54d6e999)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Format plugin (MSSQL) (#21383)</code>](https://github.com/netdata/netdata.git/commit/ee323ea678f95a7cf7a0941044c84e13acfbb11c)
+- [ ] [<code>Mark vkalintiris as CODEOWNER for Rust code. (#21385)</code>](https://github.com/netdata/netdata.git/commit/79f7a201eb9a43556a5053d4fd5a49da7a145733)
+- [ ] [<code>Update home-tab.md (#21386)</code>](https://github.com/netdata/netdata.git/commit/175ab80e01312bd2660e26ba507f8eaf85893bbf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
