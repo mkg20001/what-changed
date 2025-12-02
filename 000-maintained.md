@@ -20,7 +20,7 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.2.5/dbeaver-ce-25.2.5-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -227,6 +227,7 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
 - [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
+- [ ] [<code>chore: Follow up html tag rendering</code>](https://github.com/krille-chan/fluffychat/commit/86a73f9909b35abcbdaefded2aceee29c149cf2b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -356,6 +357,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
 - [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
+- [ ] [<code>chore: Follow up html tag rendering</code>](https://github.com/krille-chan/fluffychat/commit/86a73f9909b35abcbdaefded2aceee29c149cf2b)
+- [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/89a167dc5713b9a50d71e9514da2f8e08f42ff8c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4734,6 +4737,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update lxc.spec.in to use meson</code>](https://github.com/lxc/lxc/commit/c81e03eb69e10b50a51ec854067bd7995e553b44)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>apparmor: skip /proc and /sys restrictions if nesting is enabled</code>](https://github.com/lxc/lxc/commit/b89ed0a8e6cb48016f5dac68100e4f47003aeb62)
+- [ ] [<code>Ensure do_lxcapi_unfreeze returns false when getstate errors</code>](https://github.com/lxc/lxc/commit/1d1700a237f671ec83e49dfa2027b9835debafbb)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/lxc/commit/66178025643bd166bfec867211ff44b018863ad7)
 - [ ] [<code>build: Check if P_PIDFD is defined</code>](https://github.com/lxc/lxc/commit/4d00d4f8046972907ef34ac5677d07ae39f3aded)
   - <sub>Files: <code>meson.build</code></sub>
@@ -7012,6 +7016,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>feat(android): add per-app language preference</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43406c90ee8e8b4da3b58586773d9fd02b97921d)
 - [ ] [<code>build(android): update build tools and ndk</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a2d7999aa63bb2c4a15742d305d7d809d9c64534)
+- [ ] [<code>fix(lib): single_battery not displaying as percentage</code>](https://github.com/Oppzippy/OpenSCQ30/commit/917a5231ec73192f7b547c1c703b401998aa0a58)
+- [ ] [<code>fix(lib): localize_value not respecting Information's translated_value</code>](https://github.com/Oppzippy/OpenSCQ30/commit/21563f4118a97e5738d9a98b1565f3e3084ef68d)
+- [ ] [<code>feat(gui): add setting to change preferred language</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a3a92e2eed7d6ed99a90c07c66f2efd2d3f96510)
+- [ ] [<code>feat(lib): move info and settings header buttons to right side</code>](https://github.com/Oppzippy/OpenSCQ30/commit/778d469d1bd4a8cccac306ed7307da904ec58b65)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ecab07161e69d6083827176348023be3365d0fdd)
+- [ ] [<code>i18n: remove unused translation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9167395b14a5b0d7443027509124c7a83f8b5ab1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
