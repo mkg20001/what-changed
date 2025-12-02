@@ -7,6 +7,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/567be1101523e328c731262626f776228de2bd03)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/40493a655d8caa2ccf5206dde1e733abe2920432)
 
 #### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
 
@@ -37,6 +38,7 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>scripts: devel-build: add missing LUAPATH</code>](https://git.openwrt.org/project/libubox.git/commit/edaf77da740d13bb46e460695709bab6fe395345)
 - [ ] [<code>build: disable static json-c</code>](https://git.openwrt.org/project/libubox.git/commit/c0773869c9d617f94fd4a6745184ed553992599c)
+- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/libubox.git/commit/ecddb31dc34d89be5c9dc4595a4c58070eb090e4)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -139,6 +141,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/ubus.git/commit/2737da3819fefafa5b63d5f82efb77ff0032a5d8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/ubus.git/commit/3cc98db1a422dcf560f2d6347fd410f17565a89d)
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
@@ -157,6 +160,7 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/uci.git/commit/5bea13572325af4fb3057ff600cc7f7d5b82012b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/uci.git/commit/66127cd76c5d0bd46d5a90302cc6110f53a4e2f8)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
