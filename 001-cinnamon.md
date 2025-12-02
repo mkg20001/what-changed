@@ -407,9 +407,11 @@
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cinnamon-session/commit/363d4d0bb5cb58cfd12082fb72fecd9138433736)
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon-session/commit/1d7147202a2bdffb3813fae07a5092db687f1ff0)
 - [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon-session/commit/91384e62a6be3c98ab028ec5181c4a13fc070574)
-  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Set env for qt ibus (#191)</code>](https://github.com/linuxmint/cinnamon-session/commit/c43573bd2889c75866a037a1d4b60a9f58f18767)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
 
@@ -498,6 +500,7 @@
 - [ ] [<code>build: Use pysassc.</code>](https://github.com/linuxmint/mint-l-theme/commit/3e0f656de1b0ae4c220fdc6518bd77f94cbee572)
 - [ ] [<code>cinnamon: Add support for new keyboard and ibus popups.</code>](https://github.com/linuxmint/mint-l-theme/commit/e06c7d38d3eda86b24b97934ead8a862f2e8d7b6)
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-l-theme/commit/42401a6cb3651ce256b63080bb5e527fca5dac22)
+- [ ] [<code>cinnamon: GWL set fixed font size for window count badge (#20)</code>](https://github.com/linuxmint/mint-l-theme/commit/06bc89ba295c42d1617248c15e258c07a86fc7c2)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
