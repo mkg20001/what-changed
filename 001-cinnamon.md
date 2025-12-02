@@ -461,6 +461,7 @@
 - [ ] [<code>csd-xsettings-manager.c: Always use the ibus im module unless</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/b5da80d63357ef740e4f62711cd33a29af5e1fe5)
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>automount: fix automount with active screensaver and memleak (#426)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f98089254744975daef20ac5ab2b685a347a9973)
+- [ ] [<code>csd-xsettings-manager.c: Remove settings mapping for Gtk/IMModule.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69a30e2d5e02fe796bf106aeaba067ea8ab70c07)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
