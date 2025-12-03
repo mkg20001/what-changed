@@ -4883,6 +4883,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Format plugin (MSSQL) (#21383)</code>](https://github.com/netdata/netdata.git/commit/ee323ea678f95a7cf7a0941044c84e13acfbb11c)
 - [ ] [<code>Mark vkalintiris as CODEOWNER for Rust code. (#21385)</code>](https://github.com/netdata/netdata.git/commit/79f7a201eb9a43556a5053d4fd5a49da7a145733)
 - [ ] [<code>Update home-tab.md (#21386)</code>](https://github.com/netdata/netdata.git/commit/175ab80e01312bd2660e26ba507f8eaf85893bbf)
+- [ ] [<code>Remove retention check during datafile initialization (#21387)</code>](https://github.com/netdata/netdata.git/commit/df034fad70615d4b2825db49cd81b2aa2d49ee6c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-60-nightly.</code>](https://github.com/netdata/netdata.git/commit/78dcdea515f152577847bc2f50530a478e50e8ca)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
