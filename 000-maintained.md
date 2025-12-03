@@ -89,6 +89,10 @@
 - [ ] [<code>chore(deps): Bump Flutter to 3.38</code>](https://github.com/canonical/firmware-updater/commit/d909aead913f9942ae4e0cdc6f6d2da24b8df237)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(deps): Bump Flutter to 3.38 (#374)</code>](https://github.com/canonical/firmware-updater/commit/e4f6080a24bed1b5c5d38d61f41f9bcf03ca5a02)
+- [ ] [<code>Revert "feat: Reapply "snap: core24 migration""</code>](https://github.com/canonical/firmware-updater/commit/d562fd1e567728ce36789bc97bba5441bfa99cd7)
+- [ ] [<code>chore: Bump to Flutter 3.38.3</code>](https://github.com/canonical/firmware-updater/commit/2235861e93f3c799c8a0f35fe5b4f84197ae3c82)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Revert "feat: Reapply "snap: core24 migration"" (#378)</code>](https://github.com/canonical/firmware-updater/commit/e608b29ea764d8b974355a0907e8984bdf9ce67c)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -235,6 +239,7 @@
 - [ ] [<code>chore: Use license_checker from pub again</code>](https://github.com/krille-chan/fluffychat/commit/5c7520fd73c139d7753f6be362fc3db89f06873d)
 - [ ] [<code>chore: Override sqlcipher license</code>](https://github.com/krille-chan/fluffychat/commit/037393c5983c9dcbf5654e103b8fafd9317edefd)
 - [ ] [<code>chore: Follow up request history</code>](https://github.com/krille-chan/fluffychat/commit/dc64d1679bca577fd20b232aa05e8f6b48fc5394)
+- [ ] [<code>chore: Improve via calculation</code>](https://github.com/krille-chan/fluffychat/commit/2c4a16d6086178cd5aefa8ea7db5d68fd6f3e8e6)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -378,6 +383,7 @@
 - [ ] [<code>chore: Use license_checker from pub again</code>](https://github.com/krille-chan/fluffychat/commit/5c7520fd73c139d7753f6be362fc3db89f06873d)
 - [ ] [<code>chore: Override sqlcipher license</code>](https://github.com/krille-chan/fluffychat/commit/037393c5983c9dcbf5654e103b8fafd9317edefd)
 - [ ] [<code>chore: Follow up request history</code>](https://github.com/krille-chan/fluffychat/commit/dc64d1679bca577fd20b232aa05e8f6b48fc5394)
+- [ ] [<code>chore: Improve via calculation</code>](https://github.com/krille-chan/fluffychat/commit/2c4a16d6086178cd5aefa8ea7db5d68fd6f3e8e6)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4760,6 +4766,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/lxc/commit/66178025643bd166bfec867211ff44b018863ad7)
 - [ ] [<code>build: Check if P_PIDFD is defined</code>](https://github.com/lxc/lxc/commit/4d00d4f8046972907ef34ac5677d07ae39f3aded)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Enumerated all values in array</code>](https://github.com/lxc/lxc/commit/9a1edb7047cf8a73f3d5a904ab5bb1dece72892e)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4902,6 +4909,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove retention check during datafile initialization (#21387)</code>](https://github.com/netdata/netdata.git/commit/df034fad70615d4b2825db49cd81b2aa2d49ee6c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-60-nightly.</code>](https://github.com/netdata/netdata.git/commit/78dcdea515f152577847bc2f50530a478e50e8ca)
 - [ ] [<code>Replace dots with slashes in OTEL metric families for hierarchical grouping (#21371)</code>](https://github.com/netdata/netdata.git/commit/d7f3bf348bb4bf63a234a47dfb931fe75dcbb99b)
+- [ ] [<code>Create ingest dry run check (#21152)</code>](https://github.com/netdata/netdata.git/commit/dd2202af1206e5fdd7a401d02c0fd4bfdd354ffd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>ci: add concurrency to check-markdown.yml (#21393)</code>](https://github.com/netdata/netdata.git/commit/9114a8b3d7b1608f2b1d73d96ec8d9b02a4eecd2)
+- [ ] [<code>Use systemd-tmpfiles to handle required directories at runtime when possible. (#21243)</code>](https://github.com/netdata/netdata.git/commit/0b04755a1039cb1d5651e19af35650feb71577a0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Improve check for DBENGINE max datafile size allowed (#21390)</code>](https://github.com/netdata/netdata.git/commit/a26cabbb5c49cec326b140c4f52c353f87fb4924)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7119,6 +7133,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>step: Improve memory ownership of RAFT_START configuration</code>](https://github.com/cowsql/raft/commit/bc17d89cafc433a69e54f412a0b8c095b4e0180d)
 - [ ] [<code>step: Improve memory ownership of RAFT_START entries</code>](https://github.com/cowsql/raft/commit/7377b75917349fcbcbc13307646f29b1e58d6f6b)
 - [ ] [<code>v1: RAFT_START memory ownership cleanups (#200)</code>](https://github.com/cowsql/raft/commit/47f18054186c596e133b4dfa84d1320978bdb86f)
+- [ ] [<code>recv: Assert that all entries are in the same batch</code>](https://github.com/cowsql/raft/commit/19dcaac9c5981563215ecdde3a71e6b2ea3edeea)
+- [ ] [<code>recv: Don't destroy received entries in case of error</code>](https://github.com/cowsql/raft/commit/d9ad91a99600a065cb698c78e55d299ee7f78d81)
+- [ ] [<code>v1: Cleanup RAFT_RECEIVE memory ownership</code>](https://github.com/cowsql/raft/commit/bdb3167c2d6b8857b300ce4abc44afbc5156ded8)
+- [ ] [<code>v1: Memory ownership of RAFT_INSTALL_SNAPSHOT messages</code>](https://github.com/cowsql/raft/commit/2ee8f4d405722ac35bd870f62e614bacbca2ed5c)
+- [ ] [<code>v1: Cleanup memory ownership of RAFT_RECEIVE event (#202)</code>](https://github.com/cowsql/raft/commit/8f530666ac90645e45a031943e0fc2d2ebb04ec8)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
