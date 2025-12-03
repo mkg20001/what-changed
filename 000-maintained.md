@@ -68,14 +68,8 @@
 - [ ] [<code>sources: Tweak HTTP client to be more compatible</code>](https://github.com/lxc/distrobuilder/commit/27e9ba9b4ea447a14baa505846c768fa81037d04)
 - [ ] [<code>sources: Update the tests for HTTP client</code>](https://github.com/lxc/distrobuilder/commit/deed5039462e28f5848ad1f6d5d2f04e91330f55)
 
-#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.25.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.25.1...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
-- [ ] [<code>Install v0.25.1 by default</code>](https://github.com/stepchowfun/docuum/commit/0cf78cd26203f31e1ff76885efaea34ec0bb2b21)
-- [ ] [<code>Update Rust to v1.91.0</code>](https://github.com/stepchowfun/docuum/commit/37fd07e1e7eacfd21b429d4fa642b3581b61240b)
-- [ ] [<code>Make Docuum compatible with Docker v29</code>](https://github.com/stepchowfun/docuum/commit/cd32282a5f02b0efa98d933349de0bb8683f278a)
-- [ ] [<code>Release v0.26.0</code>](https://github.com/stepchowfun/docuum/commit/89068c83d245d1a0ef8e2c4f387ec3f614e128c8)
-- [ ] [<code>Merge pull request #349 from stepchowfun/v0.26.0</code>](https://github.com/stepchowfun/docuum/commit/588137a10632f7ec9e8287f6df635774a6ba8d44)
-  - <sub>Tags: <code>v0.26.0</code></sub>
 - [ ] [<code>Install v0.26.0 by default</code>](https://github.com/stepchowfun/docuum/commit/f05706b88fe2c13aa5307ef3bb42ffbf795d014b)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -225,11 +219,22 @@
 - [ ] [<code>fix: Hide no fcm warning after dismissed</code>](https://github.com/krille-chan/fluffychat/commit/75a37f3f7c68ba240551da3569a9b1fc6e1dd528)
 - [ ] [<code>refactor: Update to Dart 3.10 with . shorthands</code>](https://github.com/krille-chan/fluffychat/commit/1ea649f01ee5de0b4c204768eeaecc143f04bc6d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update links to matrix spaces to avoid confusion</code>](https://github.com/krille-chan/fluffychat/commit/ef37f09d25be3ec1ba9c3633825f228e7a54f289)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix regression after new linter rules</code>](https://github.com/krille-chan/fluffychat/commit/9889aae2feefa7d057befdcc3e16e7f7f5562b9e)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/d19cc4f46e08dafc367828a9e95b795463aafe3a)
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/f4e454a0503fed0d249d68410723490303a41c61)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/40dffa17e343c9538642a9a971cde76441d0fb4d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/beca025ccb5050ff54df3371dc65af72d3aa7189)
+- [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/d9c43f976a71dde30f787330d7bc922fa3ebd4f4)
 - [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
 - [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
 - [ ] [<code>chore: Follow up html tag rendering</code>](https://github.com/krille-chan/fluffychat/commit/86a73f9909b35abcbdaefded2aceee29c149cf2b)
 - [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/89a167dc5713b9a50d71e9514da2f8e08f42ff8c)
 - [ ] [<code>chore: Use license_checker from pub again</code>](https://github.com/krille-chan/fluffychat/commit/5c7520fd73c139d7753f6be362fc3db89f06873d)
+- [ ] [<code>chore: Override sqlcipher license</code>](https://github.com/krille-chan/fluffychat/commit/037393c5983c9dcbf5654e103b8fafd9317edefd)
+- [ ] [<code>chore: Follow up request history</code>](https://github.com/krille-chan/fluffychat/commit/dc64d1679bca577fd20b232aa05e8f6b48fc5394)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -357,11 +362,22 @@
 - [ ] [<code>fix: Hide no fcm warning after dismissed</code>](https://github.com/krille-chan/fluffychat/commit/75a37f3f7c68ba240551da3569a9b1fc6e1dd528)
 - [ ] [<code>refactor: Update to Dart 3.10 with . shorthands</code>](https://github.com/krille-chan/fluffychat/commit/1ea649f01ee5de0b4c204768eeaecc143f04bc6d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update links to matrix spaces to avoid confusion</code>](https://github.com/krille-chan/fluffychat/commit/ef37f09d25be3ec1ba9c3633825f228e7a54f289)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix regression after new linter rules</code>](https://github.com/krille-chan/fluffychat/commit/9889aae2feefa7d057befdcc3e16e7f7f5562b9e)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/d19cc4f46e08dafc367828a9e95b795463aafe3a)
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/f4e454a0503fed0d249d68410723490303a41c61)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/40dffa17e343c9538642a9a971cde76441d0fb4d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/beca025ccb5050ff54df3371dc65af72d3aa7189)
+- [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/d9c43f976a71dde30f787330d7bc922fa3ebd4f4)
 - [ ] [<code>fix: Render not permitted html tags as text instead of hiding</code>](https://github.com/krille-chan/fluffychat/commit/903f7c7d1584164f033fe4413a385c28949fae6f)
 - [ ] [<code>fix: Do not render html in unformatted messages</code>](https://github.com/krille-chan/fluffychat/commit/3b181291cc91a536ea2b418171f184cf83bb9dce)
 - [ ] [<code>chore: Follow up html tag rendering</code>](https://github.com/krille-chan/fluffychat/commit/86a73f9909b35abcbdaefded2aceee29c149cf2b)
 - [ ] [<code>chore: Follow up html rendering</code>](https://github.com/krille-chan/fluffychat/commit/89a167dc5713b9a50d71e9514da2f8e08f42ff8c)
 - [ ] [<code>chore: Use license_checker from pub again</code>](https://github.com/krille-chan/fluffychat/commit/5c7520fd73c139d7753f6be362fc3db89f06873d)
+- [ ] [<code>chore: Override sqlcipher license</code>](https://github.com/krille-chan/fluffychat/commit/037393c5983c9dcbf5654e103b8fafd9317edefd)
+- [ ] [<code>chore: Follow up request history</code>](https://github.com/krille-chan/fluffychat/commit/dc64d1679bca577fd20b232aa05e8f6b48fc5394)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4885,6 +4901,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update home-tab.md (#21386)</code>](https://github.com/netdata/netdata.git/commit/175ab80e01312bd2660e26ba507f8eaf85893bbf)
 - [ ] [<code>Remove retention check during datafile initialization (#21387)</code>](https://github.com/netdata/netdata.git/commit/df034fad70615d4b2825db49cd81b2aa2d49ee6c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-60-nightly.</code>](https://github.com/netdata/netdata.git/commit/78dcdea515f152577847bc2f50530a478e50e8ca)
+- [ ] [<code>Replace dots with slashes in OTEL metric families for hierarchical grouping (#21371)</code>](https://github.com/netdata/netdata.git/commit/d7f3bf348bb4bf63a234a47dfb931fe75dcbb99b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
