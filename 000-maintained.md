@@ -240,6 +240,9 @@
 - [ ] [<code>chore: Override sqlcipher license</code>](https://github.com/krille-chan/fluffychat/commit/037393c5983c9dcbf5654e103b8fafd9317edefd)
 - [ ] [<code>chore: Follow up request history</code>](https://github.com/krille-chan/fluffychat/commit/dc64d1679bca577fd20b232aa05e8f6b48fc5394)
 - [ ] [<code>chore: Improve via calculation</code>](https://github.com/krille-chan/fluffychat/commit/2c4a16d6086178cd5aefa8ea7db5d68fd6f3e8e6)
+- [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/3fb05c98541882c3ef3b826f233c5097991e463f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/59a507925dec3ce88c711e92750442af1d520758)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -384,6 +387,9 @@
 - [ ] [<code>chore: Override sqlcipher license</code>](https://github.com/krille-chan/fluffychat/commit/037393c5983c9dcbf5654e103b8fafd9317edefd)
 - [ ] [<code>chore: Follow up request history</code>](https://github.com/krille-chan/fluffychat/commit/dc64d1679bca577fd20b232aa05e8f6b48fc5394)
 - [ ] [<code>chore: Improve via calculation</code>](https://github.com/krille-chan/fluffychat/commit/2c4a16d6086178cd5aefa8ea7db5d68fd6f3e8e6)
+- [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/3fb05c98541882c3ef3b826f233c5097991e463f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/59a507925dec3ce88c711e92750442af1d520758)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4767,6 +4773,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: Check if P_PIDFD is defined</code>](https://github.com/lxc/lxc/commit/4d00d4f8046972907ef34ac5677d07ae39f3aded)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Enumerated all values in array</code>](https://github.com/lxc/lxc/commit/9a1edb7047cf8a73f3d5a904ab5bb1dece72892e)
+- [ ] [<code>checkonfig: Fixed compatible with toybox/gunzip</code>](https://github.com/lxc/lxc/commit/969a3c5992251b6ca180854e7e7844b2daff2677)
+- [ ] [<code>Fallback to XDG_RUNTIME_DIR when /run not found</code>](https://github.com/lxc/lxc/commit/fbeb7ce7eb5dd16a11a5b6b2b895fcbe012f3a01)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4917,6 +4925,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Improve check for DBENGINE max datafile size allowed (#21390)</code>](https://github.com/netdata/netdata.git/commit/a26cabbb5c49cec326b140c4f52c353f87fb4924)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-66-nightly.</code>](https://github.com/netdata/netdata.git/commit/7c36d82892a1aaed5bb687a15e0048ed5baf0760)
+- [ ] [<code>Fix shutdown timeout handling in completion wait function (#21395)</code>](https://github.com/netdata/netdata.git/commit/edb587b89cc2c4983d97fd6751dea3bc0c09f2b6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
