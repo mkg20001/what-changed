@@ -325,7 +325,9 @@
 - [ ] [<code>cinnamon-settings: add Gnome Left option to Windows buttons layout (#13225)</code>](https://github.com/linuxmint/cinnamon/commit/83f4a2050aaf437e71896dabcdd656ce3d9e1c52)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>magnifier.js: Don't try to disable keybindings unless they've</code>](https://github.com/linuxmint/cinnamon/commit/fd20bbebedb571fa6effb5b767af0cb7168f64fc)
+- [ ] [<code>workspace switcher: Add option to display window icons (#12202)</code>](https://github.com/linuxmint/cinnamon/commit/673dc2eb547d96456e41e9cfe1a96005a00cc30b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -528,7 +530,9 @@
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-themes/commit/6261a9fe4d3d5ed223c1d4664211e371d0b8079a)
 - [ ] [<code>Mint-Y - Don't darken unselected ibus candidates.</code>](https://github.com/linuxmint/mint-themes/commit/c31db2aa95403e86cde7f265259542ce70b9c8eb)
 - [ ] [<code>Mint-X cinnamon: colour destructive button background instead of text. (#509)</code>](https://github.com/linuxmint/mint-themes/commit/b59d603dced38c9fd3f85e85b75725e5a3f8ce3d)
+- [ ] [<code>Mint-Y cinnamon: GWL: use fixed size font for window count badge (#524)</code>](https://github.com/linuxmint/mint-themes/commit/ba52ff81a129a85a5118bc0e6581ae73c399263c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Mint-X cinnamon: GWL use fixed font size for window count badge (#525)</code>](https://github.com/linuxmint/mint-themes/commit/32e13860b9bb22b2f296b89b681b36fc00449e7a)
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -599,8 +603,9 @@
 - [ ] [<code>theme.c: Revert symbolic name changes for window controls.</code>](https://github.com/linuxmint/muffin/commit/a5ef2fcd41e1376350902fc47c2d0bb72d60e99d)
 - [ ] [<code>[Wayland] Add wl_shm support for 10 bpc formats and wl_shm/DMA-BUF su… (#748)</code>](https://github.com/linuxmint/muffin/commit/ff7459027f8eb86cb24477384bf026fd8c7c4f5d)
 - [ ] [<code>[Wayland] Use anonymous file abstraction for wayland-keymap sharing (#753)</code>](https://github.com/linuxmint/muffin/commit/6ea2c8c8becfd21ac0542d800d2e3994706700bf)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>workspace.c: Add new method for listing visible window stack. (#766)</code>](https://github.com/linuxmint/muffin/commit/8817820625c059e04c4059b929a28b39fc58634c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
