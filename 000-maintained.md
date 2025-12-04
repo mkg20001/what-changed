@@ -4916,6 +4916,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Improve check for DBENGINE max datafile size allowed (#21390)</code>](https://github.com/netdata/netdata.git/commit/a26cabbb5c49cec326b140c4f52c353f87fb4924)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-66-nightly.</code>](https://github.com/netdata/netdata.git/commit/7c36d82892a1aaed5bb687a15e0048ed5baf0760)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
