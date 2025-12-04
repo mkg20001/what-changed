@@ -4499,6 +4499,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
 - [ ] [<code>Fix missing current buckets in ui and no storage pool in create bucket form</code>](https://github.com/zabbly/incus-ui-canonical/commit/957303290bb7d069f2f247844be4801e4cefd04e)
+- [ ] [<code>Fix displaying number of snapshots on storage volumes page</code>](https://github.com/zabbly/incus-ui-canonical/commit/e6d7c1fa2ed781903e63a6d3dcabf7503f8fef19)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4926,6 +4927,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve check for DBENGINE max datafile size allowed (#21390)</code>](https://github.com/netdata/netdata.git/commit/a26cabbb5c49cec326b140c4f52c353f87fb4924)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-66-nightly.</code>](https://github.com/netdata/netdata.git/commit/7c36d82892a1aaed5bb687a15e0048ed5baf0760)
 - [ ] [<code>Fix shutdown timeout handling in completion wait function (#21395)</code>](https://github.com/netdata/netdata.git/commit/edb587b89cc2c4983d97fd6751dea3bc0c09f2b6)
+- [ ] [<code>Fix validation of extent index in journal file (#21400)</code>](https://github.com/netdata/netdata.git/commit/b50bc52296980dbcedbc590bd08f2ea53b6d30ba)
+- [ ] [<code>fix(kickstart): fix incorrect find command patterns (#21399)</code>](https://github.com/netdata/netdata.git/commit/0f9a0612f0fdf9588216f0ac855f376f6191b881)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5789,6 +5793,91 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Do not depend on specific networking.service</code>](https://github.com/OLSR/OONF/commit/11442aae30c9a5d31f8f2b5de71adc3b6ef30fbf)
 - [ ] [<code>build: set cmake_minimum_required to 3.10</code>](https://github.com/OLSR/OONF/commit/aeb6f57d0aa1180511302c948363c59343215aa6)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add route_modifier plugin to olsrd2</code>](https://github.com/OLSR/OONF/commit/59d3fe443e7380e7dac49a49b38561f1b7699f22)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fixed scaling factor in methods:</code>](https://github.com/OLSR/OONF/commit/8ca2a40970339646fe054955215b57bd18ba0d89)
+- [ ] [<code>Fix definition of ethernet multicast groups</code>](https://github.com/OLSR/OONF/commit/85e74377709c790550692bf7ed926954aa3e30a2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>copy packet socket interface name for os_interface listener</code>](https://github.com/OLSR/OONF/commit/b98e5007ea1e266a3c39b60cee4c2232b01907d8)
+- [ ] [<code>copy acl configuration from managed stream socket into all sub-sockets</code>](https://github.com/OLSR/OONF/commit/d2c9f5fa5e101923ffe52b68e3948444af0c95e1)
+- [ ] [<code>First code revision that does not freeze the netlink sockets in automatic test setup</code>](https://github.com/OLSR/OONF/commit/4ec64f6f3d155b35d3cd4081bceb834d152a8436)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix some comment/formatting issues</code>](https://github.com/OLSR/OONF/commit/6d30a85712249c4a391dcea493d7ff9ef0d17058)
+- [ ] [<code>keep track of peer addresses in L2 db when cleaning up</code>](https://github.com/OLSR/OONF/commit/9a795bd5c7cdf36ad46657535e55afd9f191f48c)
+- [ ] [<code>Fix type in netjsoninfo route output to match the netjson.org schema</code>](https://github.com/OLSR/OONF/commit/bb78b0cfde9b071dff234d74211bf63ed4f8070d)
+- [ ] [<code>Add better debugging output for timer values and l2 originators</code>](https://github.com/OLSR/OONF/commit/1537c1adb9b4385bb8bc1bdfd15cda6b1a77b8bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add support for Netjson LINK command</code>](https://github.com/OLSR/OONF/commit/2068d7d421d564c111e652c25bd1d82e4bec3ace)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix data type of netjsoninfo</code>](https://github.com/OLSR/OONF/commit/5f76ad78b244002bb1f648ef093f54908da30ed9)
+- [ ] [<code>Fix custom netjsoninfo extensions</code>](https://github.com/OLSR/OONF/commit/ebfa38f8dcedc01e4235446f7ee057d924f1d31d)
+- [ ] [<code>Simplify netjsoninfo id output</code>](https://github.com/OLSR/OONF/commit/b6d55db3c8e6f7e194b77dd243cb1ff38be1d393)
+- [ ] [<code>Add ACL setting to dlep_radio to fix TCP session problem because of wrong ACL default</code>](https://github.com/OLSR/OONF/commit/7dd73cc5a866b82946ecb5a7d7d2dddd907b3892)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add IP/Prefix type to layer2 data types and add a DNS interface type based on it.</code>](https://github.com/OLSR/OONF/commit/dd7d5c7e494df72bf48f9667f85c489cda7fec85)
+- [ ] [<code>Add DNS based service discovery</code>](https://github.com/OLSR/OONF/commit/b2bb4531620594455018abbac36c3c6b4b10990d)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Add doxygen comments</code>](https://github.com/OLSR/OONF/commit/d0ac700f4c4b608f4835d3858d00a3a951a89707)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add support for small isoprefixes on string parsing</code>](https://github.com/OLSR/OONF/commit/9030e2ae77a35cc917002d53947415f54a79d682)
+- [ ] [<code>Fix error case for unknown iso prefix</code>](https://github.com/OLSR/OONF/commit/36c666a47edf20326b1d9f10f26f2eda044db81a)
+- [ ] [<code>Fix testcase for isoprefix, 'a' is now a valid prefix</code>](https://github.com/OLSR/OONF/commit/bee7c90e20936fd2928fbbf6684163f33774ea19)
+- [ ] [<code>Add better support for prefix filter in layer2 import and layer2 export</code>](https://github.com/OLSR/OONF/commit/0b2726e128231b4993c945d9c446e160240a443f)
+- [ ] [<code>Unify dlep radio and router plugin and add telnet interface</code>](https://github.com/OLSR/OONF/commit/f9d5f520b1be0b71310bfa672d9a6c8da25435fd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Add support for sending prefixes from router to radio with session update</code>](https://github.com/OLSR/OONF/commit/64d257feb2803a1546e351296bd2d071ed06ed0e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix gcc 8.3 release build</code>](https://github.com/OLSR/OONF/commit/e4c64071e9eb064942889548d260fc9b27b55a6a)
+- [ ] [<code>Continue with next filter-set when one filter of layer2import filter function fails.</code>](https://github.com/OLSR/OONF/commit/145075b093036b3edefadc01b3a9c3199b5edd30)
+- [ ] [<code>Forced trigger of metric recalculation listeners</code>](https://github.com/OLSR/OONF/commit/8ba09bb9ce881de36f0be79653a7bf535b1bfab8)
+- [ ] [<code>Fix netlink multicast definition system</code>](https://github.com/OLSR/OONF/commit/7f6ae439477afdbb498a0ec594b86af9d19a7def)
+- [ ] [<code>fix raw json output for timer entries</code>](https://github.com/OLSR/OONF/commit/36e5ab774e4bc8a44e381d10d962bb1fe5b871a2)
+- [ ] [<code>Add memory guards and class ID to OONF class manager</code>](https://github.com/OLSR/OONF/commit/5fab00a9bc6766137e13a3689560b7c63077b643)
+- [ ] [<code>Fix segfault in DLEP extension deactivation</code>](https://github.com/OLSR/OONF/commit/4debca970b0066077407452b5064681f1027461a)
+- [ ] [<code>First set of DLEP fixes for clean shutdown</code>](https://github.com/OLSR/OONF/commit/754c61deb113cb548d63ea2a091883993e0f2c17)
+- [ ] [<code>Fix DLEP IANA values according to latest registry</code>](https://github.com/OLSR/OONF/commit/2980c7b14513c6c0acc906c11578518c04821e68)
+- [ ] [<code>Add new delayed callback subsystem</code>](https://github.com/OLSR/OONF/commit/d387f3213e472cf879c938318947c5ac1b21ea57)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix dlep telnet source typo</code>](https://github.com/OLSR/OONF/commit/d20c1d9385b0626f37eef1fada6b7737c24b2c5b)
+- [ ] [<code>Fix layer2 access to network default data</code>](https://github.com/OLSR/OONF/commit/6e3c4ae3fcfdc8af0de2e94b2133a02fbea901f0)
+- [ ] [<code>Add support for DLEP rx/tx frame error rate TLV</code>](https://github.com/OLSR/OONF/commit/e09324f5f605297b021016264c3e9afa3b48bd0e)
+- [ ] [<code>Add partial DLEP code for hopcount extension, hopcontrol still missing</code>](https://github.com/OLSR/OONF/commit/c684735b003ef3fb48d0ab092f3714d89bde7daf)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fix tx-error rate and add multihop capability to DLEP</code>](https://github.com/OLSR/OONF/commit/63bd515f1e7d9b8f620f9f9e3efc320753b12996)
+- [ ] [<code>Add packet error rate used size to DLEP/layer2</code>](https://github.com/OLSR/OONF/commit/1766beafcf3c902872025f36640dbfc570d75c59)
+- [ ] [<code>Add logging to olsrv2-l2import</code>](https://github.com/OLSR/OONF/commit/628381f5e80dae2d5bab57af2552c057e41e077f)
+- [ ] [<code>Sync olsrd2-dlep app plugins with olsrd2 app</code>](https://github.com/OLSR/OONF/commit/15f9463a8623ef2c94f7ac50e83f18034510ca02)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Allow routing tables up to 65535</code>](https://github.com/OLSR/OONF/commit/a171e80f66b0a44f59384dc8b0beb405ca5ee110)
+- [ ] [<code>Add support for 32 bit routing tables in netlink code</code>](https://github.com/OLSR/OONF/commit/13eb39e921ebd9a327a884d5f651b08a42b1ce48)
+- [ ] [<code>Add type 'all' to lan-import</code>](https://github.com/OLSR/OONF/commit/171769277b73b531d0e7a7f34a04d3f2c004b8ea)
+- [ ] [<code>Return exit code zero if the user uses --quit and nothing goes wrong</code>](https://github.com/OLSR/OONF/commit/56e428fd6861ee234b34d70ad40a2db91d67c092)
+- [ ] [<code>Add olsrv2info local telnet command</code>](https://github.com/OLSR/OONF/commit/49af1faad74ec679ee646dc4df85fb0c190d177e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix triggering dijkstra when receiving LAN updates</code>](https://github.com/OLSR/OONF/commit/ed936a465699aad013a3648bac80f672938a3a1d)
+- [ ] [<code>Allow import routing tables with a block of a specific protocol</code>](https://github.com/OLSR/OONF/commit/4630609137431585f20ad4114528d599ee7bd1c4)
+- [ ] [<code>Add block_protocol to lan_import</code>](https://github.com/OLSR/OONF/commit/9997d1318312ab5a0cd7428e6edf0c89d3c5a8bd)
+- [ ] [<code>Add l2net import feature</code>](https://github.com/OLSR/OONF/commit/7b9bca441fbe5d53a6a117d19582a90de3e724d0)
+- [ ] [<code>Remove layer2 data on DLEP session teardown</code>](https://github.com/OLSR/OONF/commit/1c50a195e28e525318c89028af0e7f0fc6af1449)
+- [ ] [<code>Add json based import/export plugin for layer2 library</code>](https://github.com/OLSR/OONF/commit/62d15883908eedc309961692fbd504a23830e3ee)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ANSN Check must be skipped if we reset the sequence number of a router</code>](https://github.com/OLSR/OONF/commit/ba83590cb2785ab98daf62f0ca3ce1d1bd7d49f7)
+- [ ] [<code>revert commit e1e49c0496be459f93e1508ff068ae5018622253</code>](https://github.com/OLSR/OONF/commit/eb14438b8ee8f692ee43e69b9659964cb70282bf)
+- [ ] [<code>Allow double-slash prefix for auto-quit telnet commands without command chaining</code>](https://github.com/OLSR/OONF/commit/098ee4d539eadd5e5efe6ba126c9ae89ad0fff8a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add atomic replacement for origin to l2json import</code>](https://github.com/OLSR/OONF/commit/dc22bf734b24e2c31fc5c3d3e3df4901106ae6da)
+- [ ] [<code>Fix some errors (most likely GCC changes) and disable DNS plugins for now</code>](https://github.com/OLSR/OONF/commit/5727573f67786eb706072f11d5666961eb84f162)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ignore not yet implemented TLV 20</code>](https://github.com/OLSR/OONF/commit/01681e8e911a2448f6c90e6981246ecdc40cae18)
+- [ ] [<code>peer update fix for MTU TLV</code>](https://github.com/OLSR/OONF/commit/df28ca4206fbfd1a1e92a149b1cc2248db9b65f4)
+- [ ] [<code>Fix #41: Use correct interface for establishing DLEP TCP session</code>](https://github.com/OLSR/OONF/commit/33fc7f6dd87c462d7c1b443a96e0b143352c6da8)
+- [ ] [<code>Fix openwrt buildscript plugins</code>](https://github.com/OLSR/OONF/commit/adac214e7c170e1bf9a6fb5184f799b3f9252998)
+- [ ] [<code>fix: make it build with gcc15</code>](https://github.com/OLSR/OONF/commit/868b3be3afb09d0804550a5d248a4f3de020a4be)
+- [ ] [<code>Update README.md</code>](https://github.com/OLSR/OONF/commit/b2164126e12340f19ea33070e1e11eb469a051e5)
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v1.12.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v1.12.0...HEAD)
 
@@ -7092,6 +7181,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
 - [ ] [<code>Add possible exits to extend candidates</code>](https://github.com/tribler/py-ipv8/commit/b4cb8707ed67de9ad5df598e7221422e80699a82)
+- [ ] [<code>Fix for extending to the wrong candidate</code>](https://github.com/tribler/py-ipv8/commit/a80373ad8ad3c10e70efab3bc00b54a12f0215df)
 
 #### [python312Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -7148,6 +7238,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>v1: Cleanup RAFT_RECEIVE memory ownership</code>](https://github.com/cowsql/raft/commit/bdb3167c2d6b8857b300ce4abc44afbc5156ded8)
 - [ ] [<code>v1: Memory ownership of RAFT_INSTALL_SNAPSHOT messages</code>](https://github.com/cowsql/raft/commit/2ee8f4d405722ac35bd870f62e614bacbca2ed5c)
 - [ ] [<code>v1: Cleanup memory ownership of RAFT_RECEIVE event (#202)</code>](https://github.com/cowsql/raft/commit/8f530666ac90645e45a031943e0fc2d2ebb04ec8)
+- [ ] [<code>docs: Add memory ownership info for RAFT_START and RAFT_RECEIVE</code>](https://github.com/cowsql/raft/commit/1ee301872030cf37320ed5ce62d19fffbf1cdae0)
+- [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT event</code>](https://github.com/cowsql/raft/commit/1706aa1d7ea64884c1516185015f9e717dec1b68)
+- [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT event (#203)</code>](https://github.com/cowsql/raft/commit/4bdff220b5eb9521af32b866495c580f7c4ae3b0)
+- [ ] [<code>v1: Memory ownership of the RAFT_SNAPSHOT event</code>](https://github.com/cowsql/raft/commit/fd02017e842fca19333dfb2604f5422b3049cbbd)
+- [ ] [<code>v1: Memory ownership of RAFT_CONFIGURATION event</code>](https://github.com/cowsql/raft/commit/f9e37bc39879afe9ceba1825d9e3c1052b843c36)
+- [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT and RAFT_CONFIGURATION (#204)</code>](https://github.com/cowsql/raft/commit/2d8dfe8d91dc800bf5c5f85c8146f51947d3ca96)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -7206,6 +7302,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/7fc3c3f215452d173d90384bb26fc885470a1e7b)
 - [ ] [<code>Add circuit_class to tunnel events</code>](https://github.com/tribler/Tribler/commit/b40ada97a3fe800470b5a0fa791ade95b2a04643)
 - [ ] [<code>Update IPv8 pointer (#8829)</code>](https://github.com/tribler/Tribler/commit/035c088f0928b6786c362c8940b7678bf11f5f66)
+- [ ] [<code>Fix state freeze after updating the hop count</code>](https://github.com/tribler/Tribler/commit/4f01385258106fc23a984cd8253ead959f8ba27e)
+- [ ] [<code>Fix state freeze after updating the hop count (#8832)</code>](https://github.com/tribler/Tribler/commit/778e7a911f05c3a74e03a91a5174260a8eb59c80)
+- [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/45448a07a8d9f013b8e9059caa9f096892e126db)
+- [ ] [<code>Update IPv8 pointer (#8833)</code>](https://github.com/tribler/Tribler/commit/21b57eef930b0fbabe30ca05d53ec3950f907fa5)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
