@@ -4930,6 +4930,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix validation of extent index in journal file (#21400)</code>](https://github.com/netdata/netdata.git/commit/b50bc52296980dbcedbc590bd08f2ea53b6d30ba)
 - [ ] [<code>fix(kickstart): fix incorrect find command patterns (#21399)</code>](https://github.com/netdata/netdata.git/commit/0f9a0612f0fdf9588216f0ac855f376f6191b881)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-70-nightly.</code>](https://github.com/netdata/netdata.git/commit/5a31800783d48943519abcad55729732b44c5d35)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7167,6 +7169,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(lib): move info and settings header buttons to right side</code>](https://github.com/Oppzippy/OpenSCQ30/commit/778d469d1bd4a8cccac306ed7307da904ec58b65)
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ecab07161e69d6083827176348023be3365d0fdd)
 - [ ] [<code>i18n: remove unused translation</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9167395b14a5b0d7443027509124c7a83f8b5ab1)
+- [ ] [<code>deps(gui): back to upstream libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/32156e4e985d7eb760abbfe0af8e77e100bea849)
+- [ ] [<code>test(lib): add basic a3116 test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3c3a6cfec57ec53bc27d53764c1fa246038ed617)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15f02de4fd5ab8cc3b28aa0ce42eab22523f7ea0)
+- [ ] [<code>feat(lib): a3116 voice prompt</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3c51153ab2e82ed96a861a60c2147ce73a61172)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: v2.0.0-beta7</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bfeb3cef8212f01ba65344eada66c91d3e9b390a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
