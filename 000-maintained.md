@@ -67,6 +67,7 @@
 - [ ] [<code>sources: Always use custom HTTP client</code>](https://github.com/lxc/distrobuilder/commit/bf526f359e95749ccad01a4513fab4902848caab)
 - [ ] [<code>sources: Tweak HTTP client to be more compatible</code>](https://github.com/lxc/distrobuilder/commit/27e9ba9b4ea447a14baa505846c768fa81037d04)
 - [ ] [<code>sources: Update the tests for HTTP client</code>](https://github.com/lxc/distrobuilder/commit/deed5039462e28f5848ad1f6d5d2f04e91330f55)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/5f0ce558e6392b4347eff261361e2b009c5f46c4)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -421,6 +422,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
 - [ ] [<code>incusd/instance/lxc: Generate a stable MAC for managed physical bridged networks</code>](https://github.com/lxc/incus/commit/20f383dbb7bad06f93d3af665f7f591bf05bb808)
 - [ ] [<code>Added new Windows environment variable 'SystemDrive'</code>](https://github.com/lxc/incus/commit/7d017f58c16c00e33cd0b7a85f8cb4cca7f99493)
+- [ ] [<code>incus/create: Allow reading Ephemeral flag from stdin</code>](https://github.com/lxc/incus/commit/a30f46bd3a12ae456062ade31682260f6c055edf)
+- [ ] [<code>incusd/device/nic_physical: Fix VLAN for VMs</code>](https://github.com/lxc/incus/commit/f822e318be4d3e03087a8bee65d80fe9bc769a19)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4499,11 +4502,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
 - [ ] [<code>incusd/instance/lxc: Generate a stable MAC for managed physical bridged networks</code>](https://github.com/lxc/incus/commit/20f383dbb7bad06f93d3af665f7f591bf05bb808)
 - [ ] [<code>Added new Windows environment variable 'SystemDrive'</code>](https://github.com/lxc/incus/commit/7d017f58c16c00e33cd0b7a85f8cb4cca7f99493)
+- [ ] [<code>incus/create: Allow reading Ephemeral flag from stdin</code>](https://github.com/lxc/incus/commit/a30f46bd3a12ae456062ade31682260f6c055edf)
+- [ ] [<code>incusd/device/nic_physical: Fix VLAN for VMs</code>](https://github.com/lxc/incus/commit/f822e318be4d3e03087a8bee65d80fe9bc769a19)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
 - [ ] [<code>Fix missing current buckets in ui and no storage pool in create bucket form</code>](https://github.com/zabbly/incus-ui-canonical/commit/957303290bb7d069f2f247844be4801e4cefd04e)
 - [ ] [<code>Fix displaying number of snapshots on storage volumes page</code>](https://github.com/zabbly/incus-ui-canonical/commit/e6d7c1fa2ed781903e63a6d3dcabf7503f8fef19)
+- [ ] [<code>Fix adding devices to an instance</code>](https://github.com/zabbly/incus-ui-canonical/commit/d790ea1057ece9f2eed4d08a7728d1cb585ae1b1)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4940,6 +4946,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add keyword support to the documentation map (#21402)</code>](https://github.com/netdata/netdata.git/commit/a95b034fb8adcf1e917debc95687b0cf007c0981)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21407)</code>](https://github.com/netdata/netdata.git/commit/5c61d4a85087a10a40c8e91b91700c3d397ab3b9)
+- [ ] [<code>Update bundled components for static builds. (#21401)</code>](https://github.com/netdata/netdata.git/commit/40d85f6641fe699ed951640b9facb6cf833e67c6)
+- [ ] [<code>Disable MongoDB exporter for Ubuntu 20.04, 22.04, and 24.04 packages. (#21403)</code>](https://github.com/netdata/netdata.git/commit/739cd718ff7298f12fe78c6223a82b1272cb17c3)
+- [ ] [<code>fix(kickstart): install epel before repo config pkg (#21410)</code>](https://github.com/netdata/netdata.git/commit/9417d5644a9aba218d12fd2594a71b5094c7debf)
+- [ ] [<code>fix(rabbitmq): remove "rabbitmq_version" check (#21411)</code>](https://github.com/netdata/netdata.git/commit/b921c2ea6d413ae8cb957462935f98f544fb7266)
+- [ ] [<code>Change chart variable (Windows.plugin) (#21412)</code>](https://github.com/netdata/netdata.git/commit/bd3157d71045fff8a60d589ec184d26eebdbb771)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
