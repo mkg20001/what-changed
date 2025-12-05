@@ -419,6 +419,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
 - [ ] [<code>Added default environment variables for the Windows agent.</code>](https://github.com/lxc/incus/commit/73749572d7af2f2ec390636e66996d67e134202a)
 - [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
+- [ ] [<code>incusd/instance/lxc: Generate a stable MAC for managed physical bridged networks</code>](https://github.com/lxc/incus/commit/20f383dbb7bad06f93d3af665f7f591bf05bb808)
+- [ ] [<code>Added new Windows environment variable 'SystemDrive'</code>](https://github.com/lxc/incus/commit/7d017f58c16c00e33cd0b7a85f8cb4cca7f99493)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4495,6 +4497,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: fix instances-limit-units reference links</code>](https://github.com/lxc/incus/commit/c36d1199cfee9ecdca9a935893c1ab2a8df3b9f7)
 - [ ] [<code>Added default environment variables for the Windows agent.</code>](https://github.com/lxc/incus/commit/73749572d7af2f2ec390636e66996d67e134202a)
 - [ ] [<code>instance/drivers/driver_common: Fix cat order bug in selinuxContext()</code>](https://github.com/lxc/incus/commit/81d74eedb1da62f7ad4ee0fd3f57980c4acfb10d)
+- [ ] [<code>incusd/instance/lxc: Generate a stable MAC for managed physical bridged networks</code>](https://github.com/lxc/incus/commit/20f383dbb7bad06f93d3af665f7f591bf05bb808)
+- [ ] [<code>Added new Windows environment variable 'SystemDrive'</code>](https://github.com/lxc/incus/commit/7d017f58c16c00e33cd0b7a85f8cb4cca7f99493)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4932,6 +4936,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-70-nightly.</code>](https://github.com/netdata/netdata.git/commit/5a31800783d48943519abcad55729732b44c5d35)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(go.d/pkg/ndexec): return the output along with the error (#21405)</code>](https://github.com/netdata/netdata.git/commit/f483da8f13949288e3045ec5d144bb9790429d4b)
+- [ ] [<code>Add keyword support to the documentation map (#21402)</code>](https://github.com/netdata/netdata.git/commit/a95b034fb8adcf1e917debc95687b0cf007c0981)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21407)</code>](https://github.com/netdata/netdata.git/commit/5c61d4a85087a10a40c8e91b91700c3d397ab3b9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7176,6 +7184,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(lib): a3116 voice prompt</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f3c51153ab2e82ed96a861a60c2147ce73a61172)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build: v2.0.0-beta7</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bfeb3cef8212f01ba65344eada66c91d3e9b390a)
+- [ ] [<code>deps: fix another libcosmic build error on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8808535f14089bc4f87f7986cfe1d1d46c0bd102)
+- [ ] [<code>refactor(lib): remove cosmic-icons bundling, now handled by libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/039747450035025269b165267e6342b9835a3dd1)
+- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b07088fe258b392ef291156152327b84cc26a62)
+  - <sub>Tags: <code>v2.0.0-beta7</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
