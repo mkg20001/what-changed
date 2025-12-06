@@ -768,6 +768,8 @@
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.0 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.0...HEAD)
 
+- [ ] [<code>Remove unnecessary pkg_resources import (#239)</code>](https://github.com/linuxmint/warpinator/commit/50a6d4b9aa522561c713aa216db8e391b399f20e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
 
