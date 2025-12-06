@@ -251,6 +251,7 @@
 - [ ] [<code>chore: Follow up better request history button</code>](https://github.com/krille-chan/fluffychat/commit/4e2b185f5d6c994d51e664e2ed54511975d0bcf9)
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
+- [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -405,6 +406,7 @@
 - [ ] [<code>chore: Follow up better request history button</code>](https://github.com/krille-chan/fluffychat/commit/4e2b185f5d6c994d51e664e2ed54511975d0bcf9)
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
+- [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
