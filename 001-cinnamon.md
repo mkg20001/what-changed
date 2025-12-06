@@ -326,6 +326,8 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>magnifier.js: Don't try to disable keybindings unless they've</code>](https://github.com/linuxmint/cinnamon/commit/fd20bbebedb571fa6effb5b767af0cb7168f64fc)
 - [ ] [<code>workspace switcher: Add option to display window icons (#12202)</code>](https://github.com/linuxmint/cinnamon/commit/673dc2eb547d96456e41e9cfe1a96005a00cc30b)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: Fix album-art never reappearing after changing volume.</code>](https://github.com/linuxmint/cinnamon/commit/9211ead53415add43dec2a4caaa2cf477804139e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
