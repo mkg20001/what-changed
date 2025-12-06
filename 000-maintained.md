@@ -4951,6 +4951,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(kickstart): install epel before repo config pkg (#21410)</code>](https://github.com/netdata/netdata.git/commit/9417d5644a9aba218d12fd2594a71b5094c7debf)
 - [ ] [<code>fix(rabbitmq): remove "rabbitmq_version" check (#21411)</code>](https://github.com/netdata/netdata.git/commit/b921c2ea6d413ae8cb957462935f98f544fb7266)
 - [ ] [<code>Change chart variable (Windows.plugin) (#21412)</code>](https://github.com/netdata/netdata.git/commit/bd3157d71045fff8a60d589ec184d26eebdbb771)
+- [ ] [<code>chore(go.d/snmp): add collection stats (#21409)</code>](https://github.com/netdata/netdata.git/commit/d763e6f909eb1a25afbbd6dfc0b0cc9c4fc1dd5d)
+- [ ] [<code>docs: remove prereq install smartmontools in Docker (#21413)</code>](https://github.com/netdata/netdata.git/commit/38067ac0b680ea303622b37a6e407aac4ff288fc)
+- [ ] [<code>Regenerate integrations docs (#21415)</code>](https://github.com/netdata/netdata.git/commit/b7ccac9cef876875abb3dd9773775491a9a1d394)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-82-nightly.</code>](https://github.com/netdata/netdata.git/commit/2ee82b0a1f21dc880198f074d71f827591b0ac9d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
