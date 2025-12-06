@@ -244,6 +244,13 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/3fb05c98541882c3ef3b826f233c5097991e463f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/59a507925dec3ce88c711e92750442af1d520758)
+- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/66a788129b108a767f952a044055d5caccdba204)
+- [ ] [<code>build: Upgrade to flutter 3.38.4</code>](https://github.com/krille-chan/fluffychat/commit/803602e3c5f0b651f4c8fa2b54c2906fec9f059b)
+- [ ] [<code>refactor: File selector just use default FileType</code>](https://github.com/krille-chan/fluffychat/commit/53af09227fe9ffb75a01e814a3b078d0c46c8f06)
+- [ ] [<code>fix: Scrolling in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/cacb94491898c67087c86f423474edf25ed6ffd2)
+- [ ] [<code>chore: Follow up better request history button</code>](https://github.com/krille-chan/fluffychat/commit/4e2b185f5d6c994d51e664e2ed54511975d0bcf9)
+- [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
+- [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -391,6 +398,13 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/3fb05c98541882c3ef3b826f233c5097991e463f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/59a507925dec3ce88c711e92750442af1d520758)
+- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/66a788129b108a767f952a044055d5caccdba204)
+- [ ] [<code>build: Upgrade to flutter 3.38.4</code>](https://github.com/krille-chan/fluffychat/commit/803602e3c5f0b651f4c8fa2b54c2906fec9f059b)
+- [ ] [<code>refactor: File selector just use default FileType</code>](https://github.com/krille-chan/fluffychat/commit/53af09227fe9ffb75a01e814a3b078d0c46c8f06)
+- [ ] [<code>fix: Scrolling in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/cacb94491898c67087c86f423474edf25ed6ffd2)
+- [ ] [<code>chore: Follow up better request history button</code>](https://github.com/krille-chan/fluffychat/commit/4e2b185f5d6c994d51e664e2ed54511975d0bcf9)
+- [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
+- [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
