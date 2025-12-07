@@ -4971,6 +4971,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: remove prereq install smartmontools in Docker (#21413)</code>](https://github.com/netdata/netdata.git/commit/38067ac0b680ea303622b37a6e407aac4ff288fc)
 - [ ] [<code>Regenerate integrations docs (#21415)</code>](https://github.com/netdata/netdata.git/commit/b7ccac9cef876875abb3dd9773775491a9a1d394)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-82-nightly.</code>](https://github.com/netdata/netdata.git/commit/2ee82b0a1f21dc880198f074d71f827591b0ac9d)
+- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.4 to 1.9.5 in /src/go (#21420)</code>](https://github.com/netdata/netdata.git/commit/c2c36f98b8e019cff89998a557cb3822c8bb5e66)
+- [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.10 to 0.5.11 (#21419)</code>](https://github.com/netdata/netdata.git/commit/09d62e64e3f3550f14e2325b2a700d04141a1fd3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
