@@ -328,6 +328,9 @@
 - [ ] [<code>workspace switcher: Add option to display window icons (#12202)</code>](https://github.com/linuxmint/cinnamon/commit/673dc2eb547d96456e41e9cfe1a96005a00cc30b)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>sound applet: Fix album-art never reappearing after changing volume.</code>](https://github.com/linuxmint/cinnamon/commit/9211ead53415add43dec2a4caaa2cf477804139e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>endSessionDialog: Fix hibernate action (#13243)</code>](https://github.com/linuxmint/cinnamon/commit/24c733d82946aed9b858d1cf8f5d8d4837c968ca)
+- [ ] [<code>cs_startup: fix custom commands with spaces in path (#13229)</code>](https://github.com/linuxmint/cinnamon/commit/0c8b652a9dfcdf611c3912b5e91be00f3ca3fab5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
@@ -533,14 +536,18 @@
 - [ ] [<code>Mint-Y - Don't darken unselected ibus candidates.</code>](https://github.com/linuxmint/mint-themes/commit/c31db2aa95403e86cde7f265259542ce70b9c8eb)
 - [ ] [<code>Mint-X cinnamon: colour destructive button background instead of text. (#509)</code>](https://github.com/linuxmint/mint-themes/commit/b59d603dced38c9fd3f85e85b75725e5a3f8ce3d)
 - [ ] [<code>Mint-Y cinnamon: GWL: use fixed size font for window count badge (#524)</code>](https://github.com/linuxmint/mint-themes/commit/ba52ff81a129a85a5118bc0e6581ae73c399263c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>Mint-X cinnamon: GWL use fixed font size for window count badge (#525)</code>](https://github.com/linuxmint/mint-themes/commit/32e13860b9bb22b2f296b89b681b36fc00449e7a)
+- [ ] [<code>Fixed app menu openning animation lag (#523)</code>](https://github.com/linuxmint/mint-themes/commit/e2dc72c07be49d6a0f63b3afc3e1b883e203444f)
+- [ ] [<code>Mint-Y: Run parse-sass for e2dc72c07b.</code>](https://github.com/linuxmint/mint-themes/commit/a51224cbe0564bf2aa2d509a0b14638db79b7670)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.8.9 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.8.9...HEAD)
 
+- [ ] [<code>Add link (#525)</code>](https://github.com/linuxmint/mint-y-icons/commit/645d5e0d7ebddeceaad79ee69db0b7689e433c64)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
