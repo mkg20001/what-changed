@@ -4973,6 +4973,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-82-nightly.</code>](https://github.com/netdata/netdata.git/commit/2ee82b0a1f21dc880198f074d71f827591b0ac9d)
 - [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.4 to 1.9.5 in /src/go (#21420)</code>](https://github.com/netdata/netdata.git/commit/c2c36f98b8e019cff89998a557cb3822c8bb5e66)
 - [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.10 to 0.5.11 (#21419)</code>](https://github.com/netdata/netdata.git/commit/09d62e64e3f3550f14e2325b2a700d04141a1fd3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-85-nightly.</code>](https://github.com/netdata/netdata.git/commit/7b8704c851b29aec9b72e98ffec7af7d129f9d1f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7221,6 +7222,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): remove cosmic-icons bundling, now handled by libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/039747450035025269b165267e6342b9835a3dd1)
 - [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b07088fe258b392ef291156152327b84cc26a62)
   - <sub>Tags: <code>v2.0.0-beta7</code></sub>
+- [ ] [<code>fix(tools/soundcore-device-faker): spoof mac address requires restart</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bcf1912480426132970a619e56fd251f52b80cf7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
