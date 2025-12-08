@@ -4974,6 +4974,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.4 to 1.9.5 in /src/go (#21420)</code>](https://github.com/netdata/netdata.git/commit/c2c36f98b8e019cff89998a557cb3822c8bb5e66)
 - [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.10 to 0.5.11 (#21419)</code>](https://github.com/netdata/netdata.git/commit/09d62e64e3f3550f14e2325b2a700d04141a1fd3)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-85-nightly.</code>](https://github.com/netdata/netdata.git/commit/7b8704c851b29aec9b72e98ffec7af7d129f9d1f)
+- [ ] [<code>Report inability to update due to native packages no longer being published. (#21288)</code>](https://github.com/netdata/netdata.git/commit/22469558bd735a9821ca39d632bf0b22c9bed063)
+- [ ] [<code>Adjust result when NULL (MSSQL). (#21417)</code>](https://github.com/netdata/netdata.git/commit/6b11dc0e8eebbf3556f4ab017144e029dd5f1d70)
+- [ ] [<code>chore(go.d): log skipped data collection (#21423)</code>](https://github.com/netdata/netdata.git/commit/600d7febb7c3bdede030c8682c8017d8152b8190)
+- [ ] [<code>chore(go.d/snmp): remove non-default update_every from sd config (#21424)</code>](https://github.com/netdata/netdata.git/commit/8ab9cb1ebd6fbeef9983d6ccb13c232bc984d8d4)
+- [ ] [<code>Improve thread join handling (#21421)</code>](https://github.com/netdata/netdata.git/commit/bb05696e076dc3574a4a7bfb9db341de1ee49f91)
+- [ ] [<code>chore(go.d): log data collection duration when skipping tick (#21425)</code>](https://github.com/netdata/netdata.git/commit/733f4fbfd6c5bd5758c327fc9e07fc3242f73d88)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
