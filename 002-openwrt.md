@@ -39,6 +39,7 @@
 - [ ] [<code>scripts: devel-build: add missing LUAPATH</code>](https://git.openwrt.org/project/libubox.git/commit/edaf77da740d13bb46e460695709bab6fe395345)
 - [ ] [<code>build: disable static json-c</code>](https://git.openwrt.org/project/libubox.git/commit/c0773869c9d617f94fd4a6745184ed553992599c)
 - [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/libubox.git/commit/ecddb31dc34d89be5c9dc4595a4c58070eb090e4)
+- [ ] [<code>libubox: Add ability to find ordinal position inside a table</code>](https://git.openwrt.org/project/libubox.git/commit/7928f1711703767b0ac5ce916c7231d0e1af1ca2)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
