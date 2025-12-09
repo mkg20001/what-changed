@@ -4800,6 +4800,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: Check if P_PIDFD is defined</code>](https://github.com/lxc/lxc/commit/4d00d4f8046972907ef34ac5677d07ae39f3aded)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Enumerated all values in array</code>](https://github.com/lxc/lxc/commit/9a1edb7047cf8a73f3d5a904ab5bb1dece72892e)
+- [ ] [<code>Initial changes without testing</code>](https://github.com/lxc/lxc/commit/fee221caeff7e29153a7ca989a657e0e660e1653)
 - [ ] [<code>checkonfig: Fixed compatible with toybox/gunzip</code>](https://github.com/lxc/lxc/commit/969a3c5992251b6ca180854e7e7844b2daff2677)
 - [ ] [<code>Fallback to XDG_RUNTIME_DIR when /run not found</code>](https://github.com/lxc/lxc/commit/fbeb7ce7eb5dd16a11a5b6b2b895fcbe012f3a01)
 
@@ -4980,6 +4981,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/snmp): remove non-default update_every from sd config (#21424)</code>](https://github.com/netdata/netdata.git/commit/8ab9cb1ebd6fbeef9983d6ccb13c232bc984d8d4)
 - [ ] [<code>Improve thread join handling (#21421)</code>](https://github.com/netdata/netdata.git/commit/bb05696e076dc3574a4a7bfb9db341de1ee49f91)
 - [ ] [<code>chore(go.d): log data collection duration when skipping tick (#21425)</code>](https://github.com/netdata/netdata.git/commit/733f4fbfd6c5bd5758c327fc9e07fc3242f73d88)
+- [ ] [<code>Fix MQTT packet ACK  (#21416)</code>](https://github.com/netdata/netdata.git/commit/59119aae4b0983c4acf3f212da8c1f2104f5474b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-93-nightly.</code>](https://github.com/netdata/netdata.git/commit/0e31d23e25fc17c5c00be328fd35a46e56f7f599)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
