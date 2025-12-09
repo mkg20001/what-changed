@@ -4983,6 +4983,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): log data collection duration when skipping tick (#21425)</code>](https://github.com/netdata/netdata.git/commit/733f4fbfd6c5bd5758c327fc9e07fc3242f73d88)
 - [ ] [<code>Fix MQTT packet ACK  (#21416)</code>](https://github.com/netdata/netdata.git/commit/59119aae4b0983c4acf3f212da8c1f2104f5474b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-93-nightly.</code>](https://github.com/netdata/netdata.git/commit/0e31d23e25fc17c5c00be328fd35a46e56f7f599)
+- [ ] [<code>fix(updater): fix deleting /dev/null when URL check fails (#21428)</code>](https://github.com/netdata/netdata.git/commit/410927df80244b7ef9242320e9c4f4da6ae8127b)
+- [ ] [<code>Update PLATFORM_SUPPORT.md (#21422)</code>](https://github.com/netdata/netdata.git/commit/251a1a69f7c7e3c5ccafcdc85372d67cb763becf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
