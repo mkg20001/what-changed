@@ -614,7 +614,9 @@
 - [ ] [<code>[Wayland] Use anonymous file abstraction for wayland-keymap sharing (#753)</code>](https://github.com/linuxmint/muffin/commit/6ea2c8c8becfd21ac0542d800d2e3994706700bf)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>workspace.c: Add new method for listing visible window stack. (#766)</code>](https://github.com/linuxmint/muffin/commit/8817820625c059e04c4059b929a28b39fc58634c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/muffin/commit/e67bb70c022147d18203e78250d38e6b05ae5c11)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.4.5 → HEAD](https://github.com/linuxmint/nemo/compare/6.4.5...HEAD)
 
