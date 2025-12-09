@@ -4985,6 +4985,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-93-nightly.</code>](https://github.com/netdata/netdata.git/commit/0e31d23e25fc17c5c00be328fd35a46e56f7f599)
 - [ ] [<code>fix(updater): fix deleting /dev/null when URL check fails (#21428)</code>](https://github.com/netdata/netdata.git/commit/410927df80244b7ef9242320e9c4f4da6ae8127b)
 - [ ] [<code>Update PLATFORM_SUPPORT.md (#21422)</code>](https://github.com/netdata/netdata.git/commit/251a1a69f7c7e3c5ccafcdc85372d67cb763becf)
+- [ ] [<code>Properly handle package check URL creation for RHEL derivatives. (#21431)</code>](https://github.com/netdata/netdata.git/commit/d8e5d998a8ccf9f3ca4669381d2bc403fc03a7fd)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7440,3 +7441,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.5 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.5...HEAD)
 
+- [ ] [<code>Small fixes (#10)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/089dc92c4601033d1abe58d28e4143102a2fb5a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: remove unused import (#11)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/1469f5add4132008765f69514896d8b23df52bb4)
+  - <sub>Files: <code>meson.build</code></sub>
