@@ -252,6 +252,8 @@
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 - [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/37cafe26d8c4782f24ea87d687cf23c8ba295015)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/26b83b7626f06f407926303a5e7568ccff940cea)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -407,6 +409,8 @@
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 - [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/37cafe26d8c4782f24ea87d687cf23c8ba295015)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/26b83b7626f06f407926303a5e7568ccff940cea)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -440,6 +444,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added new Windows environment variable 'SystemDrive'</code>](https://github.com/lxc/incus/commit/7d017f58c16c00e33cd0b7a85f8cb4cca7f99493)
 - [ ] [<code>incus/create: Allow reading Ephemeral flag from stdin</code>](https://github.com/lxc/incus/commit/a30f46bd3a12ae456062ade31682260f6c055edf)
 - [ ] [<code>incusd/device/nic_physical: Fix VLAN for VMs</code>](https://github.com/lxc/incus/commit/f822e318be4d3e03087a8bee65d80fe9bc769a19)
+- [ ] [<code>incusd/network/bridge: Don't listen for incoming RAs</code>](https://github.com/lxc/incus/commit/bbe92113452030faed2b2acd789be97dd00a8772)
+- [ ] [<code>incusd/network/zone: Allow trailing dot in NS records</code>](https://github.com/lxc/incus/commit/0a9ec27a3d99d9756e5a5fd497a18563ae56f46f)
+- [ ] [<code>incusd/device/physical: Allow live-migration of bridged physical NICs</code>](https://github.com/lxc/incus/commit/4c8e616c634d77e6062c261ecc60cd0b853c108e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4520,12 +4527,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added new Windows environment variable 'SystemDrive'</code>](https://github.com/lxc/incus/commit/7d017f58c16c00e33cd0b7a85f8cb4cca7f99493)
 - [ ] [<code>incus/create: Allow reading Ephemeral flag from stdin</code>](https://github.com/lxc/incus/commit/a30f46bd3a12ae456062ade31682260f6c055edf)
 - [ ] [<code>incusd/device/nic_physical: Fix VLAN for VMs</code>](https://github.com/lxc/incus/commit/f822e318be4d3e03087a8bee65d80fe9bc769a19)
+- [ ] [<code>incusd/network/bridge: Don't listen for incoming RAs</code>](https://github.com/lxc/incus/commit/bbe92113452030faed2b2acd789be97dd00a8772)
+- [ ] [<code>incusd/network/zone: Allow trailing dot in NS records</code>](https://github.com/lxc/incus/commit/0a9ec27a3d99d9756e5a5fd497a18563ae56f46f)
+- [ ] [<code>incusd/device/physical: Allow live-migration of bridged physical NICs</code>](https://github.com/lxc/incus/commit/4c8e616c634d77e6062c261ecc60cd0b853c108e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
 - [ ] [<code>Fix missing current buckets in ui and no storage pool in create bucket form</code>](https://github.com/zabbly/incus-ui-canonical/commit/957303290bb7d069f2f247844be4801e4cefd04e)
 - [ ] [<code>Fix displaying number of snapshots on storage volumes page</code>](https://github.com/zabbly/incus-ui-canonical/commit/e6d7c1fa2ed781903e63a6d3dcabf7503f8fef19)
 - [ ] [<code>Fix adding devices to an instance</code>](https://github.com/zabbly/incus-ui-canonical/commit/d790ea1057ece9f2eed4d08a7728d1cb585ae1b1)
+- [ ] [<code>Merge pull request #103 from presztak/fix_adding_devices</code>](https://github.com/zabbly/incus-ui-canonical/commit/e031adc7108b79925e5f91851249a56500792a30)
+  - <sub>Tags: <code>incus-0.18.4</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
