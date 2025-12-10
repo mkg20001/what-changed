@@ -791,3 +791,5 @@
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.13 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.13...HEAD)
 
+- [ ] [<code>Fix a focus bug when opening a new maximized window (#227)</code>](https://github.com/linuxmint/xviewer/commit/c30f31fb31330dfa2d64eea923d678b3ef8f1e0d)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
