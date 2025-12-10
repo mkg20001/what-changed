@@ -331,8 +331,22 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>endSessionDialog: Fix hibernate action (#13243)</code>](https://github.com/linuxmint/cinnamon/commit/24c733d82946aed9b858d1cf8f5d8d4837c968ca)
 - [ ] [<code>cs_startup: fix custom commands with spaces in path (#13229)</code>](https://github.com/linuxmint/cinnamon/commit/0c8b652a9dfcdf611c3912b5e91be00f3ca3fab5)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>GWL: add notification badges (#12569)</code>](https://github.com/linuxmint/cinnamon/commit/1c995f606972dddd339d6dfbc13dc908bdf757cb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window-list applet: Add notification badges (#13209)</code>](https://github.com/linuxmint/cinnamon/commit/7abbbe859ae7ecdeb6d90a99dcaf89ee4349d0f0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window lists: Tune badges look</code>](https://github.com/linuxmint/cinnamon/commit/62485b0aae108f08533ae28f5fdb4b09546683e1)
+- [ ] [<code>l10n: Generate modules</code>](https://github.com/linuxmint/cinnamon/commit/aa34b6bb59ca0b16c62ac4cdc5b5dc86429ba773)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Generate files</code>](https://github.com/linuxmint/cinnamon/commit/d703650812fb960885217733b139c27df28bbfaa)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/1125610eeace5845aee3e76d45cc0f538ce37c42)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>6.6.0</code>](https://github.com/linuxmint/cinnamon/commit/501a250b180c9febeaee448bbf8ded6f520d2339)
+  - <sub>Tags: <code>6.6.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code> <code>dependency</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.4.2...HEAD)
 
@@ -418,7 +432,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Set env for qt ibus (#191)</code>](https://github.com/linuxmint/cinnamon-session/commit/c43573bd2889c75866a037a1d4b60a9f58f18767)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-session/commit/ae84f20e771fe6ac9190e35c85dd72e896089798)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.4.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.4.3...HEAD)
 
@@ -471,7 +487,9 @@
   - <sub>Keywords: <code>org.gnome.desktop</code></sub>
 - [ ] [<code>automount: fix automount with active screensaver and memleak (#426)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f98089254744975daef20ac5ab2b685a347a9973)
 - [ ] [<code>csd-xsettings-manager.c: Remove settings mapping for Gtk/IMModule.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69a30e2d5e02fe796bf106aeaba067ea8ab70c07)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/37030ef3fbfbd8668ff62fa6730345080426dff7)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.4.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.4.2...HEAD)
 
@@ -485,7 +503,9 @@
 
 - [ ] [<code>Switch to XApp symbolic icons</code>](https://github.com/linuxmint/cjs/commit/a3184be65fdcfaa4480fc85abb1ba25ec3c3af66)
 - [ ] [<code>Switch to xapp-symbolic-icons (XSI)</code>](https://github.com/linuxmint/cjs/commit/9f89ac464ad879a4eb49bba929476ce50dda012b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>128.1</code>](https://github.com/linuxmint/cjs/commit/235b8b98b1d4757858727212d2263f576876578a)
+  - <sub>Tags: <code>128.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [d135f29d688d89a0e7b48acec9e08738c7976ee1 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/d135f29d688d89a0e7b48acec9e08738c7976ee1...HEAD)
 
@@ -508,6 +528,9 @@
 - [ ] [<code>cinnamon: Add support for new keyboard and ibus popups.</code>](https://github.com/linuxmint/mint-l-theme/commit/e06c7d38d3eda86b24b97934ead8a862f2e8d7b6)
 - [ ] [<code>Adapt to new menu improvements</code>](https://github.com/linuxmint/mint-l-theme/commit/42401a6cb3651ce256b63080bb5e527fca5dac22)
 - [ ] [<code>cinnamon: GWL set fixed font size for window count badge (#20)</code>](https://github.com/linuxmint/mint-l-theme/commit/06bc89ba295c42d1617248c15e258c07a86fc7c2)
+- [ ] [<code>Tune cinnamon window badges</code>](https://github.com/linuxmint/mint-l-theme/commit/8d71d8b4721e20d394f3104ba4570ddbbd9f87e1)
+- [ ] [<code>2.0.3</code>](https://github.com/linuxmint/mint-l-theme/commit/83ab49750ab132702cdb3f0e5c24be2d84446aa9)
+  - <sub>Tags: <code>2.0.3</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.2 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.2...HEAD)
 
@@ -539,7 +562,9 @@
 - [ ] [<code>Mint-X cinnamon: GWL use fixed font size for window count badge (#525)</code>](https://github.com/linuxmint/mint-themes/commit/32e13860b9bb22b2f296b89b681b36fc00449e7a)
 - [ ] [<code>Fixed app menu openning animation lag (#523)</code>](https://github.com/linuxmint/mint-themes/commit/e2dc72c07be49d6a0f63b3afc3e1b883e203444f)
 - [ ] [<code>Mint-Y: Run parse-sass for e2dc72c07b.</code>](https://github.com/linuxmint/mint-themes/commit/a51224cbe0564bf2aa2d509a0b14638db79b7670)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Tune Cinnamon window badges</code>](https://github.com/linuxmint/mint-themes/commit/541e5eb7fb367a38d56b0c2f6317434716d035e1)
+- [ ] [<code>2.3.4</code>](https://github.com/linuxmint/mint-themes/commit/18e06f3384af9077ce1571168a1e6f54258bfcd0)
+  - <sub>Tags: <code>2.3.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -548,6 +573,8 @@
 
 - [ ] [<code>Add link (#525)</code>](https://github.com/linuxmint/mint-y-icons/commit/645d5e0d7ebddeceaad79ee69db0b7689e433c64)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.0</code>](https://github.com/linuxmint/mint-y-icons/commit/1cd2cdb88e1b4f851f8eb55283db52f325102a97)
+  - <sub>Tags: <code>1.9.0</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.4.1 → HEAD](https://github.com/linuxmint/muffin/compare/6.4.1...HEAD)
 
@@ -690,7 +717,9 @@
   - <sub>Tags: <code>6.6.0</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>nemo-action.c: Fix issues in the recent:// folder.</code>](https://github.com/linuxmint/nemo/commit/677f377c159bff3b621ea058f6f5ee974d2a8883)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/nemo/commit/acd61172fea15582e24f1d58ae6c2ebfb9e5c539)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
@@ -778,7 +807,9 @@
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.0 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.0...HEAD)
 
 - [ ] [<code>Remove unnecessary pkg_resources import (#239)</code>](https://github.com/linuxmint/warpinator/commit/50a6d4b9aa522561c713aa216db8e391b399f20e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.0.1</code>](https://github.com/linuxmint/warpinator/commit/bac599ca988247984a88d12470f775dc1238f62b)
+  - <sub>Tags: <code>2.0.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
 
@@ -792,4 +823,6 @@
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.13 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.13...HEAD)
 
 - [ ] [<code>Fix a focus bug when opening a new maximized window (#227)</code>](https://github.com/linuxmint/xviewer/commit/c30f31fb31330dfa2d64eea923d678b3ef8f1e0d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>3.4.14</code>](https://github.com/linuxmint/xviewer/commit/549ee3afe20f77263fa3a3c273aa39e61447199c)
+  - <sub>Tags: <code>3.4.14</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
