@@ -7458,3 +7458,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>meson: remove unused import (#11)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/1469f5add4132008765f69514896d8b23df52bb4)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>1.0.6</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/553edc2363aa1627c62895262353e98ba3bbda2d)
+  - <sub>Tags: <code>1.0.6</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
