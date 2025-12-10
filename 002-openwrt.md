@@ -165,11 +165,14 @@
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
-> Failed to clone https://git.openwrt.org/project/udebug.git Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.openwrt.org/project/udebug.git /home/runner/work/what-changed/what-changed/src/../work/udebug.git
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/udebug.git'...
-fatal: unable to access 'https://git.openwrt.org/project/udebug.git/': The requested URL returned error: 500
-'
+
+#### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
+
+- [ ] [<code>CMakeLists.txt: rename udebug-cli to udebug on installation</code>](https://git.openwrt.org/project/udebug.git/commit/8c967bce23aebab7631261324680b02240e75ee1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>add debian package support</code>](https://git.openwrt.org/project/udebug.git/commit/75f39cd4a8067a6f0503c2f1c83c6b1af733a6f2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
 
