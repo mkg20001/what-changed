@@ -4986,6 +4986,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(updater): fix deleting /dev/null when URL check fails (#21428)</code>](https://github.com/netdata/netdata.git/commit/410927df80244b7ef9242320e9c4f4da6ae8127b)
 - [ ] [<code>Update PLATFORM_SUPPORT.md (#21422)</code>](https://github.com/netdata/netdata.git/commit/251a1a69f7c7e3c5ccafcdc85372d67cb763becf)
 - [ ] [<code>Properly handle package check URL creation for RHEL derivatives. (#21431)</code>](https://github.com/netdata/netdata.git/commit/d8e5d998a8ccf9f3ca4669381d2bc403fc03a7fd)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-97-nightly.</code>](https://github.com/netdata/netdata.git/commit/c7969b9d301889b2aa867529e87d01ef2d3fad38)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
