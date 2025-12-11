@@ -511,6 +511,7 @@
 
 - [ ] [<code>do not change folder modification time (#38)</code>](https://github.com/linuxmint/folder-color-switcher/commit/ecb4f388aa4881bc4817d0e99aa64c52d696842f)
   - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>1.6.9</code>](https://github.com/linuxmint/folder-color-switcher/commit/fefe156e336d2a0bbfe1ca61cf4e6873c74ae405)
 > Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz', 'https://web.archive.org/web/20250807131013/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -720,6 +721,7 @@
 - [ ] [<code>6.6.1</code>](https://github.com/linuxmint/nemo/commit/acd61172fea15582e24f1d58ae6c2ebfb9e5c539)
   - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix for progress handling (#3651)</code>](https://github.com/linuxmint/nemo/commit/5e7fe5b78fb7257293372780f95dc34abc4ce0e2)
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.4.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.4.0...HEAD)
 
