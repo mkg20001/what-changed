@@ -447,6 +447,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/bridge: Don't listen for incoming RAs</code>](https://github.com/lxc/incus/commit/bbe92113452030faed2b2acd789be97dd00a8772)
 - [ ] [<code>incusd/network/zone: Allow trailing dot in NS records</code>](https://github.com/lxc/incus/commit/0a9ec27a3d99d9756e5a5fd497a18563ae56f46f)
 - [ ] [<code>incusd/device/physical: Allow live-migration of bridged physical NICs</code>](https://github.com/lxc/incus/commit/4c8e616c634d77e6062c261ecc60cd0b853c108e)
+- [ ] [<code>shared/tls: Move ACME challenge to shared/tls</code>](https://github.com/lxc/incus/commit/46521590e51ac7278d8fc8681af156e997bb749f)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>internal/server/acme: Update certificate renewal call</code>](https://github.com/lxc/incus/commit/b97c720a77c4b7df7175af6290283cce4b5c00f8)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4530,6 +4534,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/bridge: Don't listen for incoming RAs</code>](https://github.com/lxc/incus/commit/bbe92113452030faed2b2acd789be97dd00a8772)
 - [ ] [<code>incusd/network/zone: Allow trailing dot in NS records</code>](https://github.com/lxc/incus/commit/0a9ec27a3d99d9756e5a5fd497a18563ae56f46f)
 - [ ] [<code>incusd/device/physical: Allow live-migration of bridged physical NICs</code>](https://github.com/lxc/incus/commit/4c8e616c634d77e6062c261ecc60cd0b853c108e)
+- [ ] [<code>shared/tls: Move ACME challenge to shared/tls</code>](https://github.com/lxc/incus/commit/46521590e51ac7278d8fc8681af156e997bb749f)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>internal/server/acme: Update certificate renewal call</code>](https://github.com/lxc/incus/commit/b97c720a77c4b7df7175af6290283cce4b5c00f8)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4999,6 +5007,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update PLATFORM_SUPPORT.md (#21422)</code>](https://github.com/netdata/netdata.git/commit/251a1a69f7c7e3c5ccafcdc85372d67cb763becf)
 - [ ] [<code>Properly handle package check URL creation for RHEL derivatives. (#21431)</code>](https://github.com/netdata/netdata.git/commit/d8e5d998a8ccf9f3ca4669381d2bc403fc03a7fd)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-97-nightly.</code>](https://github.com/netdata/netdata.git/commit/c7969b9d301889b2aa867529e87d01ef2d3fad38)
+- [ ] [<code>build(deps): bump peter-evans/create-pull-request from 7 to 8 (#21437)</code>](https://github.com/netdata/netdata.git/commit/c837bf433ea305bfbfbc86424f109f70634ddfe2)
+- [ ] [<code>build(deps): bump k8s.io/client-go from 0.34.2 to 0.34.3 in /src/go (#21438)</code>](https://github.com/netdata/netdata.git/commit/2571b84fa51badf6d33b7dece9135be1ec044f00)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.47.0 to 0.48.0 in /src/go (#21434)</code>](https://github.com/netdata/netdata.git/commit/239f007934756ab61d82e6a94c8542d0f2fd8f62)
+- [ ] [<code>build(deps): bump github.com/valyala/fastjson from 1.6.4 to 1.6.5 in /src/go (#21440)</code>](https://github.com/netdata/netdata.git/commit/44d729af6a06e9287a973b7ab7d4ff326e6f63fd)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-102-nightly.</code>](https://github.com/netdata/netdata.git/commit/7a7da3f0f20d52ff4122a9b96b9c5cbd3c1c41c4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
