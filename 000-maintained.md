@@ -252,8 +252,16 @@
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 - [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
+- [ ] [<code>build: (deps): bump shared_preferences from 2.5.3 to 2.5.4</code>](https://github.com/krille-chan/fluffychat/commit/75b08b3281a719f273fedc5e832f06f188c5817d)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/37cafe26d8c4782f24ea87d687cf23c8ba295015)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/26b83b7626f06f407926303a5e7568ccff940cea)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/590a09fbfafaf9899b2f237105ed4bfac5743c8f)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/758a10d94ac4acc2546c1bfa970549124053bf95)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/684be61ca8ce3f1d77f9e371b3bdb3e36240e1bf)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/8f647d4de9ed2bf5d5c5f2893ccbb9b91b00254a)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6763982445d1b27bc656420f652fa55b8de677e2)
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/5f195399704c4766024750cf3af6ebf4e7cdca74)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b62f16006b7b08d0b688eaa2edd90a2b92147d14)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -409,8 +417,16 @@
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 - [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
+- [ ] [<code>build: (deps): bump shared_preferences from 2.5.3 to 2.5.4</code>](https://github.com/krille-chan/fluffychat/commit/75b08b3281a719f273fedc5e832f06f188c5817d)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/37cafe26d8c4782f24ea87d687cf23c8ba295015)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/26b83b7626f06f407926303a5e7568ccff940cea)
+- [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/590a09fbfafaf9899b2f237105ed4bfac5743c8f)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/758a10d94ac4acc2546c1bfa970549124053bf95)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/684be61ca8ce3f1d77f9e371b3bdb3e36240e1bf)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/8f647d4de9ed2bf5d5c5f2893ccbb9b91b00254a)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6763982445d1b27bc656420f652fa55b8de677e2)
+- [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/5f195399704c4766024750cf3af6ebf4e7cdca74)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b62f16006b7b08d0b688eaa2edd90a2b92147d14)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4546,6 +4562,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix adding devices to an instance</code>](https://github.com/zabbly/incus-ui-canonical/commit/d790ea1057ece9f2eed4d08a7728d1cb585ae1b1)
 - [ ] [<code>Merge pull request #103 from presztak/fix_adding_devices</code>](https://github.com/zabbly/incus-ui-canonical/commit/e031adc7108b79925e5f91851249a56500792a30)
   - <sub>Tags: <code>incus-0.18.4</code></sub>
+- [ ] [<code>Add support for managing user properties</code>](https://github.com/zabbly/incus-ui-canonical/commit/afcc4a9256b516d234d9171e97cf58606ec64f8a)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4657,6 +4674,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update AVM to commit e3b7bd42</code>](https://github.com/AOMediaCodec/libavif/commit/40d0b387fba00a4d48ee8f411dafdf71b0cdbbd8)
 - [ ] [<code>scale: fix a potential memory leak (#2915)</code>](https://github.com/AOMediaCodec/libavif/commit/a7c82c7abc263b1fc9adadf464f4afea06a94539)
 - [ ] [<code>Bump the github-actions group with 2 updates (#2917)</code>](https://github.com/AOMediaCodec/libavif/commit/c3c6f7d7d05f927dfa7de69bae185285c3321440)
+- [ ] [<code>Bump gha-setup-ninja and vcpkg-action in CI (#2924)</code>](https://github.com/AOMediaCodec/libavif/commit/fd9522debbc67fa2f38b7e8f500c9664204ae0ad)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5019,6 +5037,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>docs: fix admonition syntax in snmp (#21445)</code>](https://github.com/netdata/netdata.git/commit/974b7bdbf6d5734688ff7ca8f34801b582f1de5e)
 - [ ] [<code>Regenerate integrations docs (#21446)</code>](https://github.com/netdata/netdata.git/commit/ca82fa184de8ad836c0172955362a0e3c321783c)
+- [ ] [<code>Attempt to fix broken /dev/null resulting from bug in updater script. (#21432)</code>](https://github.com/netdata/netdata.git/commit/8c40d4cc9044a1b9fb4832fde15bb3445090f75f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update MSSQL collection (windows.plugin) (#21426)</code>](https://github.com/netdata/netdata.git/commit/0ecefab68ec0d00314f5c097c16e7b87514dcfb9)
+- [ ] [<code>Adjust hardware collection (windows.plugin) (#21433)</code>](https://github.com/netdata/netdata.git/commit/9b023c394771ec2ed6eeebca04528ebe0d2ee8f0)
+- [ ] [<code>Regenerate integrations docs (#21447)</code>](https://github.com/netdata/netdata.git/commit/859c4a10be43a94ea1bb3fa6a2a6dbf2c59ffe30)
+- [ ] [<code>fix(go.d): avoid blocking all jobs when stopping a slow job (#21448)</code>](https://github.com/netdata/netdata.git/commit/510f134d7ba481ae729ce411eb34c5387e8e7e32)
+- [ ] [<code>fix(go.d): correct Windows install paths (#21451)</code>](https://github.com/netdata/netdata.git/commit/539f59e41562bfc5bc25fe304c6fd6f6ae79fb6a)
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
