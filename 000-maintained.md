@@ -5012,6 +5012,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.47.0 to 0.48.0 in /src/go (#21434)</code>](https://github.com/netdata/netdata.git/commit/239f007934756ab61d82e6a94c8542d0f2fd8f62)
 - [ ] [<code>build(deps): bump github.com/valyala/fastjson from 1.6.4 to 1.6.5 in /src/go (#21440)</code>](https://github.com/netdata/netdata.git/commit/44d729af6a06e9287a973b7ab7d4ff326e6f63fd)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-102-nightly.</code>](https://github.com/netdata/netdata.git/commit/7a7da3f0f20d52ff4122a9b96b9c5cbd3c1c41c4)
+- [ ] [<code>docs(go.d/snmp): add keywords and improve overview (#21442)</code>](https://github.com/netdata/netdata.git/commit/6c5035df577bd3ac73faf403af6119ee31572a99)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>docs: remove network devices prom exporters (#21443)</code>](https://github.com/netdata/netdata.git/commit/5313d920467354d3f98dd2e9c1a1da5a486f06b6)
+- [ ] [<code>Regenerate integrations docs (#21444)</code>](https://github.com/netdata/netdata.git/commit/73403c00c5418a113f65462287195cc6404cdbea)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: fix admonition syntax in snmp (#21445)</code>](https://github.com/netdata/netdata.git/commit/974b7bdbf6d5734688ff7ca8f34801b582f1de5e)
+- [ ] [<code>Regenerate integrations docs (#21446)</code>](https://github.com/netdata/netdata.git/commit/ca82fa184de8ad836c0172955362a0e3c321783c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
