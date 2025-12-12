@@ -5045,6 +5045,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(go.d): avoid blocking all jobs when stopping a slow job (#21448)</code>](https://github.com/netdata/netdata.git/commit/510f134d7ba481ae729ce411eb34c5387e8e7e32)
 - [ ] [<code>fix(go.d): correct Windows install paths (#21451)</code>](https://github.com/netdata/netdata.git/commit/539f59e41562bfc5bc25fe304c6fd6f6ae79fb6a)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>docs(go.d/snmp): add Debugging Gaps on Charts (#21452)</code>](https://github.com/netdata/netdata.git/commit/156a1de791f92160f9355f2d4da49dc0c456b946)
+- [ ] [<code>Regenerate integrations docs (#21453)</code>](https://github.com/netdata/netdata.git/commit/592a6e5e04fe93d19c75871e05a3869a961b4bc1)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-116-nightly.</code>](https://github.com/netdata/netdata.git/commit/341b88d935e7292d27d23eb20b7a26ff437034ff)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
