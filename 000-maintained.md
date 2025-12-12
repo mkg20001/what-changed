@@ -72,6 +72,7 @@
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
 - [ ] [<code>Install v0.26.0 by default</code>](https://github.com/stepchowfun/docuum/commit/f05706b88fe2c13aa5307ef3bb42ffbf795d014b)
+- [ ] [<code>Update Rust to v1.92.0</code>](https://github.com/stepchowfun/docuum/commit/2d557689ba6c50aab998bcb8fec8c8c243b28f7e)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -252,6 +253,7 @@
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 - [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
+- [ ] [<code>fix: enable users without passwords to delete their accounts by using uia request in account deletion</code>](https://github.com/krille-chan/fluffychat/commit/620ad5d19af709127a7326b53a620407a2d9cee1)
 - [ ] [<code>build: (deps): bump shared_preferences from 2.5.3 to 2.5.4</code>](https://github.com/krille-chan/fluffychat/commit/75b08b3281a719f273fedc5e832f06f188c5817d)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/37cafe26d8c4782f24ea87d687cf23c8ba295015)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/26b83b7626f06f407926303a5e7568ccff940cea)
@@ -262,6 +264,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6763982445d1b27bc656420f652fa55b8de677e2)
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/5f195399704c4766024750cf3af6ebf4e7cdca74)
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b62f16006b7b08d0b688eaa2edd90a2b92147d14)
+- [ ] [<code>build: (deps): bump image from 4.5.4 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b5feaba537c7ffbf0311dd52002208ca2925febf)
+- [ ] [<code>build: (deps): bump go_router from 17.0.0 to 17.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee3e5fd1db149bc1ea8fe7d72582d3678fbe7d50)
+- [ ] [<code>build: (deps): bump matrix from 4.0.0 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d21eed350f5da82312c7a9d4671d1557218146fa)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -417,6 +422,7 @@
 - [ ] [<code>refactor: Adjust state event design</code>](https://github.com/krille-chan/fluffychat/commit/fc052c84ac023250d1b89aef662cebcd7c45b240)
 - [ ] [<code>chore: Follow up scroll down in fragmented timeline</code>](https://github.com/krille-chan/fluffychat/commit/e80e3273eabc31101a9f26fc0df33f196433f372)
 - [ ] [<code>fix: Do not request hero users for rooms with name</code>](https://github.com/krille-chan/fluffychat/commit/4f196b29bd475d7368608c88f4cf05073b942c8e)
+- [ ] [<code>fix: enable users without passwords to delete their accounts by using uia request in account deletion</code>](https://github.com/krille-chan/fluffychat/commit/620ad5d19af709127a7326b53a620407a2d9cee1)
 - [ ] [<code>build: (deps): bump shared_preferences from 2.5.3 to 2.5.4</code>](https://github.com/krille-chan/fluffychat/commit/75b08b3281a719f273fedc5e832f06f188c5817d)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/37cafe26d8c4782f24ea87d687cf23c8ba295015)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/26b83b7626f06f407926303a5e7568ccff940cea)
@@ -427,6 +433,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6763982445d1b27bc656420f652fa55b8de677e2)
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/5f195399704c4766024750cf3af6ebf4e7cdca74)
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b62f16006b7b08d0b688eaa2edd90a2b92147d14)
+- [ ] [<code>build: (deps): bump image from 4.5.4 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b5feaba537c7ffbf0311dd52002208ca2925febf)
+- [ ] [<code>build: (deps): bump go_router from 17.0.0 to 17.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee3e5fd1db149bc1ea8fe7d72582d3678fbe7d50)
+- [ ] [<code>build: (deps): bump matrix from 4.0.0 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d21eed350f5da82312c7a9d4671d1557218146fa)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -467,6 +476,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>internal/server/acme: Update certificate renewal call</code>](https://github.com/lxc/incus/commit/b97c720a77c4b7df7175af6290283cce4b5c00f8)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
+- [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4554,6 +4565,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>internal/server/acme: Update certificate renewal call</code>](https://github.com/lxc/incus/commit/b97c720a77c4b7df7175af6290283cce4b5c00f8)
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
+- [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
 
@@ -4841,6 +4854,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Initial changes without testing</code>](https://github.com/lxc/lxc/commit/fee221caeff7e29153a7ca989a657e0e660e1653)
 - [ ] [<code>checkonfig: Fixed compatible with toybox/gunzip</code>](https://github.com/lxc/lxc/commit/969a3c5992251b6ca180854e7e7844b2daff2677)
 - [ ] [<code>Fallback to XDG_RUNTIME_DIR when /run not found</code>](https://github.com/lxc/lxc/commit/fbeb7ce7eb5dd16a11a5b6b2b895fcbe012f3a01)
+- [ ] [<code>added "--rbduser" option in "lxc-create -B rbd"</code>](https://github.com/lxc/lxc/commit/1090d85dfcdfd08c0847deb1ecc5acbf01856598)
+- [ ] [<code>added doc for --rbduser</code>](https://github.com/lxc/lxc/commit/9799ebacc67fbe01b5097c8b7991c49c128d2461)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -7319,6 +7334,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>add the pypi publish steps to the Makefile</code>](https://github.com/FirefighterBlu3/python-pam/commit/2408c2eb8ada2bf5e649959679abe202d9ea7ac9)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>{src/pam,pyproject.toml}: Stop using six module. Deprecated.</code>](https://github.com/FirefighterBlu3/python-pam/commit/8d6f8eefcb0b0edafa585d23d6b3f2169d8e1c6f)
+- [ ] [<code>Don't ship pam.py in the module</code>](https://github.com/FirefighterBlu3/python-pam/commit/3800b4bde388821c2237206e6af14c84fc294752)
+- [ ] [<code>Delete python-pam.sublime-project</code>](https://github.com/FirefighterBlu3/python-pam/commit/b8323e2b7c775ada2ef2b55cbdc977d571455df1)
 
 #### [r3ctl](https://github.com/0xfeedc0de64/r3ctl): [a82cb5b3123224e706835407f21acea9dc7ab0f0 → HEAD](https://github.com/0xfeedc0de64/r3ctl/compare/a82cb5b3123224e706835407f21acea9dc7ab0f0...HEAD)
 
