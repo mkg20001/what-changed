@@ -95,6 +95,11 @@
 - [ ] [<code>chore: Bump to Flutter 3.38.3</code>](https://github.com/canonical/firmware-updater/commit/2235861e93f3c799c8a0f35fe5b4f84197ae3c82)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: Revert "feat: Reapply "snap: core24 migration"" (#378)</code>](https://github.com/canonical/firmware-updater/commit/e608b29ea764d8b974355a0907e8984bdf9ce67c)
+- [ ] [<code>feat: add l10n sync script</code>](https://github.com/canonical/firmware-updater/commit/73b834291e047897bf32d9401b6c48a1500cc1de)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat: sync l10n Names in .desktop file</code>](https://github.com/canonical/firmware-updater/commit/51b1f2e83db2373f5b5298ededac25247f5094d3)
+- [ ] [<code>ci: check .desktop file is in sync with l10n files</code>](https://github.com/canonical/firmware-updater/commit/2e10cfb68e9aeac0b73677795de65fbfb7794605)
+- [ ] [<code>feat: l10n title scripts (#383)</code>](https://github.com/canonical/firmware-updater/commit/05038c4d3a1c1b315af26f6c00df6652a0c4020d)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -452,6 +457,10 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.8 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.8...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/f11854ac120c0bc02b0933286ec1fe9f8c1382b3)
+- [ ] [<code>3.50.9</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/4797f32fdd1e48b3a71461bf299a267ec4f5616a)
+  - <sub>Tags: <code>3.50.9</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -478,6 +487,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
+- [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4567,14 +4577,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
+- [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.3...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
-- [ ] [<code>Fix missing current buckets in ui and no storage pool in create bucket form</code>](https://github.com/zabbly/incus-ui-canonical/commit/957303290bb7d069f2f247844be4801e4cefd04e)
-- [ ] [<code>Fix displaying number of snapshots on storage volumes page</code>](https://github.com/zabbly/incus-ui-canonical/commit/e6d7c1fa2ed781903e63a6d3dcabf7503f8fef19)
-- [ ] [<code>Fix adding devices to an instance</code>](https://github.com/zabbly/incus-ui-canonical/commit/d790ea1057ece9f2eed4d08a7728d1cb585ae1b1)
-- [ ] [<code>Merge pull request #103 from presztak/fix_adding_devices</code>](https://github.com/zabbly/incus-ui-canonical/commit/e031adc7108b79925e5f91851249a56500792a30)
-  - <sub>Tags: <code>incus-0.18.4</code></sub>
 - [ ] [<code>Add support for managing user properties</code>](https://github.com/zabbly/incus-ui-canonical/commit/afcc4a9256b516d234d9171e97cf58606ec64f8a)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
@@ -4688,6 +4694,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>scale: fix a potential memory leak (#2915)</code>](https://github.com/AOMediaCodec/libavif/commit/a7c82c7abc263b1fc9adadf464f4afea06a94539)
 - [ ] [<code>Bump the github-actions group with 2 updates (#2917)</code>](https://github.com/AOMediaCodec/libavif/commit/c3c6f7d7d05f927dfa7de69bae185285c3321440)
 - [ ] [<code>Bump gha-setup-ninja and vcpkg-action in CI (#2924)</code>](https://github.com/AOMediaCodec/libavif/commit/fd9522debbc67fa2f38b7e8f500c9664204ae0ad)
+- [ ] [<code>Quality to QP refactor</code>](https://github.com/AOMediaCodec/libavif/commit/cc4249a9724972c5b2c050b34b16c4058c0ff4be)
+- [ ] [<code>svtCodecEncodeImage: Change quantizer to quality</code>](https://github.com/AOMediaCodec/libavif/commit/497e6c56369004d2a67d5bde74e225e193e010ce)
+- [ ] [<code>Add tune=iq quality to QP formula for libaom</code>](https://github.com/AOMediaCodec/libavif/commit/5dedb0b20c577bfbfac08da80d246f864c6bb3df)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5064,6 +5073,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21453)</code>](https://github.com/netdata/netdata.git/commit/592a6e5e04fe93d19c75871e05a3869a961b4bc1)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-116-nightly.</code>](https://github.com/netdata/netdata.git/commit/341b88d935e7292d27d23eb20b7a26ff437034ff)
+- [ ] [<code>AD fixes (windows.plugin) (#21454)</code>](https://github.com/netdata/netdata.git/commit/22fbd2c429b4a7041b1fc744b8e49d28622f160a)
+- [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.68 to 1.1.69 in /src/go (#21457)</code>](https://github.com/netdata/netdata.git/commit/c13b17577ed69804746e8b2d47ddeae090ed4c41)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
