@@ -5075,6 +5075,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-116-nightly.</code>](https://github.com/netdata/netdata.git/commit/341b88d935e7292d27d23eb20b7a26ff437034ff)
 - [ ] [<code>AD fixes (windows.plugin) (#21454)</code>](https://github.com/netdata/netdata.git/commit/22fbd2c429b4a7041b1fc744b8e49d28622f160a)
 - [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.68 to 1.1.69 in /src/go (#21457)</code>](https://github.com/netdata/netdata.git/commit/c13b17577ed69804746e8b2d47ddeae090ed4c41)
+- [ ] [<code>Improve streaming connection loss detection (#21430)</code>](https://github.com/netdata/netdata.git/commit/b91307e29245672f91d899f4311fbfc88755c59e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-120-nightly.</code>](https://github.com/netdata/netdata.git/commit/176121b73cec0aaf3379f4994fde417d07697964)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7405,11 +7407,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT and RAFT_CONFIGURATION (#204)</code>](https://github.com/cowsql/raft/commit/2d8dfe8d91dc800bf5c5f85c8146f51947d3ca96)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 502
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
