@@ -164,12 +164,8 @@
   - <sub>Tags: <code>3.4.9</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.0 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.0...HEAD)
+#### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.1...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/python-xapp/commit/b307619564d8d40669e31c73a71a604677790acb)
-- [ ] [<code>3.0.1</code>](https://github.com/linuxmint/python-xapp/commit/de4969e5d3d544efc52a61e167dc3e0fb3eadb77)
-  - <sub>Tags: <code>3.0.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.1 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.1...HEAD)
 
