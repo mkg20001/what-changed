@@ -4697,6 +4697,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Quality to QP refactor</code>](https://github.com/AOMediaCodec/libavif/commit/cc4249a9724972c5b2c050b34b16c4058c0ff4be)
 - [ ] [<code>svtCodecEncodeImage: Change quantizer to quality</code>](https://github.com/AOMediaCodec/libavif/commit/497e6c56369004d2a67d5bde74e225e193e010ce)
 - [ ] [<code>Add tune=iq quality to QP formula for libaom</code>](https://github.com/AOMediaCodec/libavif/commit/5dedb0b20c577bfbfac08da80d246f864c6bb3df)
+- [ ] [<code>avmQualityToQuantizer: remove unused `depth` param</code>](https://github.com/AOMediaCodec/libavif/commit/d600a4b5cb8ade8a13f59dc9ae71783e95b639ed)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
