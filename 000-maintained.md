@@ -488,6 +488,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 - [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
+- [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4578,6 +4579,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 - [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
+- [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -7533,12 +7535,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.5 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.5...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.6 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.6...HEAD)
 
-- [ ] [<code>Small fixes (#10)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/089dc92c4601033d1abe58d28e4143102a2fb5a6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>meson: remove unused import (#11)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/1469f5add4132008765f69514896d8b23df52bb4)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>1.0.6</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/553edc2363aa1627c62895262353e98ba3bbda2d)
-  - <sub>Tags: <code>1.0.6</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
