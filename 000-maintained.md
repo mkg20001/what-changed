@@ -4700,6 +4700,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>svtCodecEncodeImage: Change quantizer to quality</code>](https://github.com/AOMediaCodec/libavif/commit/497e6c56369004d2a67d5bde74e225e193e010ce)
 - [ ] [<code>Add tune=iq quality to QP formula for libaom</code>](https://github.com/AOMediaCodec/libavif/commit/5dedb0b20c577bfbfac08da80d246f864c6bb3df)
 - [ ] [<code>avmQualityToQuantizer: remove unused `depth` param</code>](https://github.com/AOMediaCodec/libavif/commit/d600a4b5cb8ade8a13f59dc9ae71783e95b639ed)
+- [ ] [<code>Convert quality to avm's quantizer range directly</code>](https://github.com/AOMediaCodec/libavif/commit/1d7e4d2c17e5112fd30744362861b3ac92d94f55)
+- [ ] [<code>Tweak tune=iq quality to QP formula</code>](https://github.com/AOMediaCodec/libavif/commit/0a28e35e27f2da8975b4417a9c668cc20a0bd8e3)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5080,6 +5082,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.68 to 1.1.69 in /src/go (#21457)</code>](https://github.com/netdata/netdata.git/commit/c13b17577ed69804746e8b2d47ddeae090ed4c41)
 - [ ] [<code>Improve streaming connection loss detection (#21430)</code>](https://github.com/netdata/netdata.git/commit/b91307e29245672f91d899f4311fbfc88755c59e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-120-nightly.</code>](https://github.com/netdata/netdata.git/commit/176121b73cec0aaf3379f4994fde417d07697964)
+- [ ] [<code>fix(go.d/ap):  handle unknown values in station statistics gracefully (#21461)</code>](https://github.com/netdata/netdata.git/commit/d91ea65cb61bbdd1e79f1127c0bcc7e596bd41e3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
