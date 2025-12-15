@@ -5083,6 +5083,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve streaming connection loss detection (#21430)</code>](https://github.com/netdata/netdata.git/commit/b91307e29245672f91d899f4311fbfc88755c59e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-120-nightly.</code>](https://github.com/netdata/netdata.git/commit/176121b73cec0aaf3379f4994fde417d07697964)
 - [ ] [<code>fix(go.d/ap):  handle unknown values in station statistics gracefully (#21461)</code>](https://github.com/netdata/netdata.git/commit/d91ea65cb61bbdd1e79f1127c0bcc7e596bd41e3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-122-nightly.</code>](https://github.com/netdata/netdata.git/commit/b73904d29918cb7b62990f5c5040973fbc81983a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
