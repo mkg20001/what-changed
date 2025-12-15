@@ -17,8 +17,12 @@
 - [ ] [<code>menu@cinnamon.org: check category icon exists (#13258)</code>](https://github.com/linuxmint/cinnamon/commit/035d22365b3834e2b03e4225cbc29b0cba45a0b9)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>ExtensionCore.py: GtkLabel argument should be a string.</code>](https://github.com/linuxmint/cinnamon/commit/02977f15dbb0ffc55ae28b3f52d955cd7c63a84e)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>l10n: Don't use POTFILES.in in makepot</code>](https://github.com/linuxmint/cinnamon/commit/790a588a59569c71c6c1f7b9c6fcf9cfa8381029)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>keyboardManager.js: Use KeybindingManager to setup layout switch (#13251)</code>](https://github.com/linuxmint/cinnamon/commit/6a5105420c98ba6d7f95920e730054e12387435d)
+- [ ] [<code>debian/control: Add Recommends: ibus</code>](https://github.com/linuxmint/cinnamon/commit/33774a8a3515552b01d43fb557ef7e6909e080b3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
