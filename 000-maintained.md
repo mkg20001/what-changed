@@ -272,6 +272,9 @@
 - [ ] [<code>build: (deps): bump image from 4.5.4 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b5feaba537c7ffbf0311dd52002208ca2925febf)
 - [ ] [<code>build: (deps): bump go_router from 17.0.0 to 17.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee3e5fd1db149bc1ea8fe7d72582d3678fbe7d50)
 - [ ] [<code>build: (deps): bump matrix from 4.0.0 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d21eed350f5da82312c7a9d4671d1557218146fa)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/04e277fe49fc1487f893307fad6729836b47257b)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
+- [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -441,6 +444,9 @@
 - [ ] [<code>build: (deps): bump image from 4.5.4 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b5feaba537c7ffbf0311dd52002208ca2925febf)
 - [ ] [<code>build: (deps): bump go_router from 17.0.0 to 17.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee3e5fd1db149bc1ea8fe7d72582d3678fbe7d50)
 - [ ] [<code>build: (deps): bump matrix from 4.0.0 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d21eed350f5da82312c7a9d4671d1557218146fa)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/04e277fe49fc1487f893307fad6729836b47257b)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
+- [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -489,6 +495,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 - [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
 - [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
+- [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4580,6 +4588,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 - [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
 - [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
+- [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4702,6 +4712,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>avmQualityToQuantizer: remove unused `depth` param</code>](https://github.com/AOMediaCodec/libavif/commit/d600a4b5cb8ade8a13f59dc9ae71783e95b639ed)
 - [ ] [<code>Convert quality to avm's quantizer range directly</code>](https://github.com/AOMediaCodec/libavif/commit/1d7e4d2c17e5112fd30744362861b3ac92d94f55)
 - [ ] [<code>Tweak tune=iq quality to QP formula</code>](https://github.com/AOMediaCodec/libavif/commit/0a28e35e27f2da8975b4417a9c668cc20a0bd8e3)
+- [ ] [<code>Bump libjpeg, libpng, libsharpyuv, libxml2, libyuv and zlib (#2923)</code>](https://github.com/AOMediaCodec/libavif/commit/2b9abd5401d137f41a21a23ea72924f0a68e94d1)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5084,6 +5096,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-120-nightly.</code>](https://github.com/netdata/netdata.git/commit/176121b73cec0aaf3379f4994fde417d07697964)
 - [ ] [<code>fix(go.d/ap):  handle unknown values in station statistics gracefully (#21461)</code>](https://github.com/netdata/netdata.git/commit/d91ea65cb61bbdd1e79f1127c0bcc7e596bd41e3)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-122-nightly.</code>](https://github.com/netdata/netdata.git/commit/b73904d29918cb7b62990f5c5040973fbc81983a)
+- [ ] [<code>build(deps): bump github.com/valyala/fastjson from 1.6.5 to 1.6.7 in /src/go (#21465)</code>](https://github.com/netdata/netdata.git/commit/467b240ad6b517d4e0cabde062c3393100df6356)
+- [ ] [<code>build(deps): bump actions/cache from 4 to 5 (#21463)</code>](https://github.com/netdata/netdata.git/commit/d0fe724813e24fc2ce0cb961a5a6457a0ee4410b)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 5.0.0 to 6.0.0 (#21462)</code>](https://github.com/netdata/netdata.git/commit/e158fb8845d627c119c147f83b5d6422526de5c0)
+- [ ] [<code>build(deps): update go toolchain to v1.25.5 (#21459)</code>](https://github.com/netdata/netdata.git/commit/e343af56139667c9cf2210ca9ed31d490e2d2b21)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
