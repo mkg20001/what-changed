@@ -100,6 +100,8 @@
 - [ ] [<code>feat: sync l10n Names in .desktop file</code>](https://github.com/canonical/firmware-updater/commit/51b1f2e83db2373f5b5298ededac25247f5094d3)
 - [ ] [<code>ci: check .desktop file is in sync with l10n files</code>](https://github.com/canonical/firmware-updater/commit/2e10cfb68e9aeac0b73677795de65fbfb7794605)
 - [ ] [<code>feat: l10n title scripts (#383)</code>](https://github.com/canonical/firmware-updater/commit/05038c4d3a1c1b315af26f6c00df6652a0c4020d)
+- [ ] [<code>feat: Reapply "snap: core24 migration"</code>](https://github.com/canonical/firmware-updater/commit/876b23cac4a167ea7638d22d732ab0b4411b07a5)
+- [ ] [<code>feat: Reapply "snap: core24 migration" (#385)</code>](https://github.com/canonical/firmware-updater/commit/a9ee83f8b15477e362b4bf900761d5d1bfcab195)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -497,6 +499,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
 - [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/incus/commit/6e19e438d3049ed6f47fbdf0f50131758a94fc5a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4590,6 +4593,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
 - [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/incus/commit/6e19e438d3049ed6f47fbdf0f50131758a94fc5a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4714,6 +4718,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Tweak tune=iq quality to QP formula</code>](https://github.com/AOMediaCodec/libavif/commit/0a28e35e27f2da8975b4417a9c668cc20a0bd8e3)
 - [ ] [<code>Bump libjpeg, libpng, libsharpyuv, libxml2, libyuv and zlib (#2923)</code>](https://github.com/AOMediaCodec/libavif/commit/2b9abd5401d137f41a21a23ea72924f0a68e94d1)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Accept odd alpha tile coords along 4:2:X chroma (#2929)</code>](https://github.com/AOMediaCodec/libavif/commit/902785afa476d06eb837bfc3fb20bd95e6f40106)
+- [ ] [<code>Have dependabot update all of .github (#2930)</code>](https://github.com/AOMediaCodec/libavif/commit/d10af87f4fd2f38747380a940da42bac5e738fed)
+- [ ] [<code>Fix dependabot.yml: wildcards only work with directories key (#2931)</code>](https://github.com/AOMediaCodec/libavif/commit/3f48e3ccb8bb0156b8b4191538a3e0b576fc368c)
+- [ ] [<code>Bump the github-actions group across 3 directories with 7 updates (#2932)</code>](https://github.com/AOMediaCodec/libavif/commit/0b21e02b274e3e5d49f7b4b507172749e6b262c6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4876,12 +4884,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/lxc/lxc/commit/66178025643bd166bfec867211ff44b018863ad7)
 - [ ] [<code>build: Check if P_PIDFD is defined</code>](https://github.com/lxc/lxc/commit/4d00d4f8046972907ef34ac5677d07ae39f3aded)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson: add meson option for running doxygen in build</code>](https://github.com/lxc/lxc/commit/5d160e2a5a71f3ba7426c68271810e1e697ff4a8)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Enumerated all values in array</code>](https://github.com/lxc/lxc/commit/9a1edb7047cf8a73f3d5a904ab5bb1dece72892e)
 - [ ] [<code>Initial changes without testing</code>](https://github.com/lxc/lxc/commit/fee221caeff7e29153a7ca989a657e0e660e1653)
 - [ ] [<code>checkonfig: Fixed compatible with toybox/gunzip</code>](https://github.com/lxc/lxc/commit/969a3c5992251b6ca180854e7e7844b2daff2677)
 - [ ] [<code>Fallback to XDG_RUNTIME_DIR when /run not found</code>](https://github.com/lxc/lxc/commit/fbeb7ce7eb5dd16a11a5b6b2b895fcbe012f3a01)
 - [ ] [<code>added "--rbduser" option in "lxc-create -B rbd"</code>](https://github.com/lxc/lxc/commit/1090d85dfcdfd08c0847deb1ecc5acbf01856598)
 - [ ] [<code>added doc for --rbduser</code>](https://github.com/lxc/lxc/commit/9799ebacc67fbe01b5097c8b7991c49c128d2461)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/lxc/commit/af691a1fa9585ae3fdcbc6b7e84edf533fa3c2aa)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5100,6 +5112,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/cache from 4 to 5 (#21463)</code>](https://github.com/netdata/netdata.git/commit/d0fe724813e24fc2ce0cb961a5a6457a0ee4410b)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5.0.0 to 6.0.0 (#21462)</code>](https://github.com/netdata/netdata.git/commit/e158fb8845d627c119c147f83b5d6422526de5c0)
 - [ ] [<code>build(deps): update go toolchain to v1.25.5 (#21459)</code>](https://github.com/netdata/netdata.git/commit/e343af56139667c9cf2210ca9ed31d490e2d2b21)
+- [ ] [<code>Perflib fixes (Windows.plugin) (#21458)</code>](https://github.com/netdata/netdata.git/commit/23e396458b194c8e9bc6b358e7ccb30289ea144d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
