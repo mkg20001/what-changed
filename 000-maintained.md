@@ -465,12 +465,8 @@
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
 
-#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.8 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.8...HEAD)
+#### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.9 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.9...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/f11854ac120c0bc02b0933286ec1fe9f8c1382b3)
-- [ ] [<code>3.50.9</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/4797f32fdd1e48b3a71461bf299a267ec4f5616a)
-  - <sub>Tags: <code>3.50.9</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -498,11 +494,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 - [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
+- [ ] [<code>Attempt to make the Incus Agent on Windows better integrated.</code>](https://github.com/lxc/incus/commit/656392fa5d4754074d973e3e9b80f2c4c1e8251a)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
 - [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/incus/commit/6e19e438d3049ed6f47fbdf0f50131758a94fc5a)
 - [ ] [<code>incus/io: #2636 fix linter complaints in `internal/io`</code>](https://github.com/lxc/incus/commit/f0c4438e702be76536d136e2574df7f355f9bc66)
+- [ ] [<code>generate-database: Allow overwriting the target column for a join</code>](https://github.com/lxc/incus/commit/8eefe09172b03fc8300b9bd99910df904204c74b)
+- [ ] [<code>incusd/storage_volumes: Fix state handling in getVolumeFull</code>](https://github.com/lxc/incus/commit/4bda52a72631c2b2adc5c8ea6a65a5bd671abe4a)
+- [ ] [<code>internal/jmap: Refactor Map methods and add comprehensive tests</code>](https://github.com/lxc/incus/commit/045bee77df6455cfd5a237e9a4e04313ddb8c0d7)
+- [ ] [<code>shared/tls: implement Happy Eyeballs (RFC 8305) in RFC3493Dialer</code>](https://github.com/lxc/incus/commit/07852cf61699581d05649eab55b02bc7aff7e68f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4593,11 +4595,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Don't attempt agent connections on frozen VMs</code>](https://github.com/lxc/incus/commit/4ee6f041c7396e808ee6b63a29c73d5c05d5775c)
 - [ ] [<code>incusd/instance/qemu: Rework state reporting</code>](https://github.com/lxc/incus/commit/6a2d1d5944eec249dc13861fa2f2ec5447608583)
 - [ ] [<code>incusd/operations: Return a copy of the metadata to avoid concurrent access</code>](https://github.com/lxc/incus/commit/dd99b7c6bd851a7242248b64655ec1e03f594303)
+- [ ] [<code>Attempt to make the Incus Agent on Windows better integrated.</code>](https://github.com/lxc/incus/commit/656392fa5d4754074d973e3e9b80f2c4c1e8251a)
+  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance/qemu: Fix regression in reported state</code>](https://github.com/lxc/incus/commit/2d6faab20bc4a38586a27fb9b26c5c2eb1763036)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
 - [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/incus/commit/6e19e438d3049ed6f47fbdf0f50131758a94fc5a)
 - [ ] [<code>incus/io: #2636 fix linter complaints in `internal/io`</code>](https://github.com/lxc/incus/commit/f0c4438e702be76536d136e2574df7f355f9bc66)
+- [ ] [<code>generate-database: Allow overwriting the target column for a join</code>](https://github.com/lxc/incus/commit/8eefe09172b03fc8300b9bd99910df904204c74b)
+- [ ] [<code>incusd/storage_volumes: Fix state handling in getVolumeFull</code>](https://github.com/lxc/incus/commit/4bda52a72631c2b2adc5c8ea6a65a5bd671abe4a)
+- [ ] [<code>internal/jmap: Refactor Map methods and add comprehensive tests</code>](https://github.com/lxc/incus/commit/045bee77df6455cfd5a237e9a4e04313ddb8c0d7)
+- [ ] [<code>shared/tls: implement Happy Eyeballs (RFC 8305) in RFC3493Dialer</code>](https://github.com/lxc/incus/commit/07852cf61699581d05649eab55b02bc7aff7e68f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4727,6 +4735,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix dependabot.yml: wildcards only work with directories key (#2931)</code>](https://github.com/AOMediaCodec/libavif/commit/3f48e3ccb8bb0156b8b4191538a3e0b576fc368c)
 - [ ] [<code>Bump the github-actions group across 3 directories with 7 updates (#2932)</code>](https://github.com/AOMediaCodec/libavif/commit/0b21e02b274e3e5d49f7b4b507172749e6b262c6)
 - [ ] [<code>End tuneIqEnum with NULL (#2933)</code>](https://github.com/AOMediaCodec/libavif/commit/1d4c70e7ed006fbf42fc4662bf6643a9564518f7)
+- [ ] [<code>Set tuning before aom codec options (#2935)</code>](https://github.com/AOMediaCodec/libavif/commit/62cac9d306c07d42bbd9ea5d6b006c50ae6d9828)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5125,6 +5135,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-128-nightly.</code>](https://github.com/netdata/netdata.git/commit/9ed1c0685b6ad999f02517b02d1c60cf646add8a)
 - [ ] [<code>Docs: clarify that netdata/netdata defaults to latest and how to use :stable (#21467)</code>](https://github.com/netdata/netdata.git/commit/130d40020bcb762b81d5940f9a43bbfca253e447)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update metadata.yaml (#21469)</code>](https://github.com/netdata/netdata.git/commit/b4a504a18c3823f6b1b19d07e074457792325f55)
+- [ ] [<code>Regenerate integrations docs (#21470)</code>](https://github.com/netdata/netdata.git/commit/c36d1c07cd2a931844bd5b2fef9ddfadbdbcb10e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5862,6 +5874,81 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Ensure netplan directory creation is idempotent</code>](https://github.com/canonical/netplan/commit/02191fdbcf9fb23bd1961e271e70f03a7ca8c7be)
 - [ ] [<code>Use OVS from apt before snap when both exist.</code>](https://github.com/canonical/netplan/commit/b35228d57e3866c1b0e7291f701f85c68e369183)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test_args: fix typo in 'interfaces eth99.46'</code>](https://github.com/canonical/netplan/commit/f543840fda5063993331fdccf6aa90b6f0d2f044)
+- [ ] [<code>test:cli_legacy: Avoid permission warnings</code>](https://github.com/canonical/netplan/commit/2ee37dc94ce66b8bf3617f8fe94e9b9e2227e5b5)
+- [ ] [<code>configure: Add new binary to produce network service configs</code>](https://github.com/canonical/netplan/commit/42db01589cd90753b557b81270fe2e68a28df554)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>generate: Drop non-sd-generator compliant logic</code>](https://github.com/canonical/netplan/commit/6ad42dec51130f28b371ba7bccad60dfa565d1b2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test:generator: Test sd-generator sandbox</code>](https://github.com/canonical/netplan/commit/49720422c8be00cbbe6a45ec46a44a8d33aaf3b2)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>openvswitch: Refactoring into systemd-generator</code>](https://github.com/canonical/netplan/commit/e0cfa11e8855748a125f137cb5876fd61520d327)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>networkd: Refactor wait-online/sd-networkd for sd-generator</code>](https://github.com/canonical/netplan/commit/7150b4216f424f2ce4e39b75dc904dbebab0f53e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test:sd-generator: check output dirs for OVS and wait-online files</code>](https://github.com/canonical/netplan/commit/42a272d98440c1a6f0a900bd9bad350d1b1c3d0a)
+- [ ] [<code>test:sd-generator: Check for WiFi regdom & wpa units</code>](https://github.com/canonical/netplan/commit/f80c9c41c95dfedbc6ff9dada177e42b8dc02841)
+- [ ] [<code>generate: Nothing to do for NM in sd-generator</code>](https://github.com/canonical/netplan/commit/b0f10c7d199c95b0e508aa2a0b0f880111ce8542)
+- [ ] [<code>generate: sriov: test: Refactor SR-IOV for sd-generator</code>](https://github.com/canonical/netplan/commit/f7f0ccdf0d57d14b3d1593dd2b34cb3b104494d8)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>cli:generate: Execute ./generate & ./configure</code>](https://github.com/canonical/netplan/commit/98ca350f6103784cd47374f664235cbd1dedbb1e)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>test:cli_legacy: adopt to new sd-generator</code>](https://github.com/canonical/netplan/commit/04c8194cf3747b02ac4f8a03935670c4809c90cf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>test:parser:base: Adopt for sd-generator (calling ./configure)</code>](https://github.com/canonical/netplan/commit/7a4c1e84cb7a75744cc3cdc3207049b537708e5c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>test:generator:base+sd-generator: execute ./generate in sandbox and ./configure</code>](https://github.com/canonical/netplan/commit/338f907c415bbdb6e43a8d5374675c1ef83a4b7b)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>test:args: adopt to sd-generator</code>](https://github.com/canonical/netplan/commit/decfc8fcb9c58ce1d67ea0a51ad605c05102276d)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>test:generator:auth: adopt for sd-generator</code>](https://github.com/canonical/netplan/commit/63d2798ea65dc3097af78344013d15594f7cd261)
+- [ ] [<code>test:generator:wifis: adopt to sd-generator</code>](https://github.com/canonical/netplan/commit/fe76366c6b15ffbbbc21819d5fd3aec67cbcef03)
+- [ ] [<code>configure: Cannot be called as a sd-generator</code>](https://github.com/canonical/netplan/commit/86651192c1cd9ea58fa6b6251c2516b433bce056)
+  - <sub>Keywords: <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>configure: cli:generate: cleanup legacy --mapping option</code>](https://github.com/canonical/netplan/commit/61442ec50109be3320d48824b243d0bbe2f585de)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>cli:apply: adopt for sd-generator by running the 'configure' stage</code>](https://github.com/canonical/netplan/commit/45d7091ccdd68a5631bfe62e612c29a3cc29a483)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>CI: Install generator-configure stage</code>](https://github.com/canonical/netplan/commit/8c4754fe1ad1031dd308d9a2a6ec43ea23195fb9)
+  - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>sd-generate: fail on missing generator_dir</code>](https://github.com/canonical/netplan/commit/bed2923f41b92b14301826c45cd72e8d8ff9dc96)
+- [ ] [<code>CI: workaround NM integration CAP_CHOWN issue (LP: #2090848)</code>](https://github.com/canonical/netplan/commit/e798b6ccea9f016b9351eabc64307ed234a40081)
+- [ ] [<code>doc: Update docs for sd-generator</code>](https://github.com/canonical/netplan/commit/2d435f426f4bb6116bc185a23ebb315195ecdccb)
+- [ ] [<code>tests:integration: adopt for sd-generator</code>](https://github.com/canonical/netplan/commit/4eed224b448dd1f39c3c25ea8a4c58ea40c9c26f)
+- [ ] [<code>Add initial, basic netplan-configure.service</code>](https://github.com/canonical/netplan/commit/8233cf9df3ba52a8ce76e00b5a4f18c33373fb63)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>CI: install netplan-configure.service</code>](https://github.com/canonical/netplan/commit/deabe0c1bac14d9e21548a6e321fe088605350e7)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>CI: adopt RPM spec for netplan-configure</code>](https://github.com/canonical/netplan/commit/22603b84a2d201cc3eb3b78a161a0eecc2a6ff6a)
+- [ ] [<code>generate: allow to force errors in generator</code>](https://github.com/canonical/netplan/commit/674e494b8cea31c933d622191ef9c643309848d2)
+- [ ] [<code>CI:test:fuzzer: adopt for generate & configure stages</code>](https://github.com/canonical/netplan/commit/d21417339cd3f54fcb50ec54bcef2c7039e7a180)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>generate: accept the /run/netplan/netplan-try.ready stamp</code>](https://github.com/canonical/netplan/commit/5fcbe17ec482ede0819715ec5e9d8ee574bb02f2)
+- [ ] [<code>gen-networkd: wait-online in generator.late stage</code>](https://github.com/canonical/netplan/commit/998c046ed9f6a008076dfc8b50b15222a6902497)
+- [ ] [<code>test:generator:args: netplan.stamp is no more</code>](https://github.com/canonical/netplan/commit/4ea03c7b3bb6295f5d65ffe63fe006a9caf3e46a)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>generate:configure: Synchronize late-stage validation between sd-generator and network-configurator</code>](https://github.com/canonical/netplan/commit/8622557d891efa9faf7c3ffcd2ce94b1fb68a757)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>tests: deterministic listdir() using a set()</code>](https://github.com/canonical/netplan/commit/90ac0bc802009e4962bb29f21170638e5865f666)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cli:try:generate: avoid calling 'daemon-reload' through NetworkManager integration during 'netplan try'</code>](https://github.com/canonical/netplan/commit/eb2e4969d781eb031c34ca4ca0bdb614e828c6ff)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>configure: allow to write only NM configs --networkmanager-only (LP: #2090848)</code>](https://github.com/canonical/netplan/commit/184c44f2a283776eff96ce3d6f455897fe172b72)
+- [ ] [<code>configure: Adopt start_unit_jit() logic for sd-genreator</code>](https://github.com/canonical/netplan/commit/8b82dc05501ff9f114a96e52512cfc9104ba153e)
+- [ ] [<code>CI: fix cloud-init tests in Ubuntu autopkgtest by using a newer version of the test</code>](https://github.com/canonical/netplan/commit/f0011143b0ebf6ac386815768da1637d27f2a5d6)
+- [ ] [<code>CI: avoid warning from netplan-generator.postinst</code>](https://github.com/canonical/netplan/commit/75ca2fe5140282e7e545addf8f8b083f333077ac)
+- [ ] [<code>CI: avoid re-building NetworkManager</code>](https://github.com/canonical/netplan/commit/0602ba1787076429a9301b29414e6d724eaec390)
+- [ ] [<code>configure: drop JIT logic, which is not needed anymore with the sd-generator</code>](https://github.com/canonical/netplan/commit/f27685ccf783731a17159ef82beed01d0d558009)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>tests:gen:base: Don't fail inside sbuild/chroot environment</code>](https://github.com/canonical/netplan/commit/a59cc9450df89e6c2ed2d117bb16315b890fc520)
+- [ ] [<code>Only create a tempdir when needed</code>](https://github.com/canonical/netplan/commit/b0fdccf2d80b256da401f665b8c977466eb2a61c)
+  - <sub>Tags: <code>1.2</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7577,6 +7664,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>vm: optimize string+string concat with ucv_string_alloc</code>](https://github.com/jow-/ucode/commit/ef07e2448a56f6a49db6303380b99481ea41e056)
+- [ ] [<code>rtnl: add module documentation</code>](https://github.com/jow-/ucode/commit/45bf891e1d8d1e9fb91122e7454ab919586f6a04)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nl80211: add module documentation</code>](https://github.com/jow-/ucode/commit/8bbf01215ce30971eb02eee2250d51e422f700e6)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
