@@ -277,6 +277,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/04e277fe49fc1487f893307fad6729836b47257b)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -449,6 +450,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/04e277fe49fc1487f893307fad6729836b47257b)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -500,6 +502,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
 - [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/incus/commit/6e19e438d3049ed6f47fbdf0f50131758a94fc5a)
+- [ ] [<code>incus/io: #2636 fix linter complaints in `internal/io`</code>](https://github.com/lxc/incus/commit/f0c4438e702be76536d136e2574df7f355f9bc66)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4594,6 +4597,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/79725b988f07a6be046a3b1773aadaca7d083076)
 - [ ] [<code>gomod: Get latest umoci</code>](https://github.com/lxc/incus/commit/c0922d457c662d00e79862cfce9f461f90da14ab)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/incus/commit/6e19e438d3049ed6f47fbdf0f50131758a94fc5a)
+- [ ] [<code>incus/io: #2636 fix linter complaints in `internal/io`</code>](https://github.com/lxc/incus/commit/f0c4438e702be76536d136e2574df7f355f9bc66)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4722,6 +4726,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Have dependabot update all of .github (#2930)</code>](https://github.com/AOMediaCodec/libavif/commit/d10af87f4fd2f38747380a940da42bac5e738fed)
 - [ ] [<code>Fix dependabot.yml: wildcards only work with directories key (#2931)</code>](https://github.com/AOMediaCodec/libavif/commit/3f48e3ccb8bb0156b8b4191538a3e0b576fc368c)
 - [ ] [<code>Bump the github-actions group across 3 directories with 7 updates (#2932)</code>](https://github.com/AOMediaCodec/libavif/commit/0b21e02b274e3e5d49f7b4b507172749e6b262c6)
+- [ ] [<code>End tuneIqEnum with NULL (#2933)</code>](https://github.com/AOMediaCodec/libavif/commit/1d4c70e7ed006fbf42fc4662bf6643a9564518f7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4893,7 +4898,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fallback to XDG_RUNTIME_DIR when /run not found</code>](https://github.com/lxc/lxc/commit/fbeb7ce7eb5dd16a11a5b6b2b895fcbe012f3a01)
 - [ ] [<code>added "--rbduser" option in "lxc-create -B rbd"</code>](https://github.com/lxc/lxc/commit/1090d85dfcdfd08c0847deb1ecc5acbf01856598)
 - [ ] [<code>added doc for --rbduser</code>](https://github.com/lxc/lxc/commit/9799ebacc67fbe01b5097c8b7991c49c128d2461)
+- [ ] [<code>Added documentation on unprivileged LXC containers</code>](https://github.com/lxc/lxc/commit/f085a8cbd16ea20279220858887a9df9c4a9fc33)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/lxc/lxc/commit/af691a1fa9585ae3fdcbc6b7e84edf533fa3c2aa)
+- [ ] [<code>start: Remove outdated comment about group dropping</code>](https://github.com/lxc/lxc/commit/e6ad17a796ae056337744980fb0719607a6be985)
+- [ ] [<code>start: Respect lxc.init.groups also in new user namespace</code>](https://github.com/lxc/lxc/commit/9e6caeabec77471c46a629ad5a5a6586ff31e9ce)
+- [ ] [<code>copy_rdepends: Don't fail on missing source file</code>](https://github.com/lxc/lxc/commit/49c34b1bcd72c602953ab9c4cb60bc4f2ebcf653)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5114,6 +5123,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): update go toolchain to v1.25.5 (#21459)</code>](https://github.com/netdata/netdata.git/commit/e343af56139667c9cf2210ca9ed31d490e2d2b21)
 - [ ] [<code>Perflib fixes (Windows.plugin) (#21458)</code>](https://github.com/netdata/netdata.git/commit/23e396458b194c8e9bc6b358e7ccb30289ea144d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-128-nightly.</code>](https://github.com/netdata/netdata.git/commit/9ed1c0685b6ad999f02517b02d1c60cf646add8a)
+- [ ] [<code>Docs: clarify that netdata/netdata defaults to latest and how to use :stable (#21467)</code>](https://github.com/netdata/netdata.git/commit/130d40020bcb762b81d5940f9a43bbfca253e447)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7504,6 +7515,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix state freeze after updating the hop count (#8832)</code>](https://github.com/tribler/Tribler/commit/778e7a911f05c3a74e03a91a5174260a8eb59c80)
 - [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/45448a07a8d9f013b8e9059caa9f096892e126db)
 - [ ] [<code>Update IPv8 pointer (#8833)</code>](https://github.com/tribler/Tribler/commit/21b57eef930b0fbabe30ca05d53ec3950f907fa5)
+  - <sub>Tags: <code>v8.3.0</code></sub>
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
