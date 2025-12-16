@@ -25,8 +25,27 @@
 - [ ] [<code>menu: Tune defaults</code>](https://github.com/linuxmint/cinnamon/commit/85fe2d175e9791df90dd490c1ed312e1432b31a8)
   - <sub>Keywords: <code>usr</code> <code>dependency</code></sub>
 - [ ] [<code>menu: Show favorite category even when there are no favorites</code>](https://github.com/linuxmint/cinnamon/commit/979d0ea0e01391176b7ac1fba6add75a9ff2623b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/eccce8c92064c857e4cf22a5b64f74f7a94760d2)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon/commit/24a16e5ce542d6c4c22da47c9d289cd4cd1fcff6)
+  - <sub>Tags: <code>6.6.1</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>packaging: Update menu favorites</code>](https://github.com/linuxmint/cinnamon/commit/64c5510cf0a77dcc87b1df556571d3d060de78d0)
+- [ ] [<code>main.c: Go back to blocking caribou's osk service.</code>](https://github.com/linuxmint/cinnamon/commit/57d950c64eefa822e9f76ba27efe872380849b6e)
+- [ ] [<code>menu: Add a tiny bit more height to the default size</code>](https://github.com/linuxmint/cinnamon/commit/05ad3ed2e1585af7901c03c72681659c1c97d99f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>AddKeyboardLayout.py: Add checkbox to display less-common layouts.</code>](https://github.com/linuxmint/cinnamon/commit/3c38ce63af3fad584868f558e0fd2b3cb41e31f2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Menu: Removes the icon validation logic that only checked Gtk.IconTheme (#13272)</code>](https://github.com/linuxmint/cinnamon/commit/2f1ffa904697a0c67b83103574ba25783cbfbce8)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/c7fb9f05fb5cf778a1ef4af55e67db19a06d7842)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>menu applet: Restore and fix icon check removed in e15b112e3bb59.</code>](https://github.com/linuxmint/cinnamon/commit/e83f778631e2636f4ddc235f46c24aee54ca645f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>6.6.2</code>](https://github.com/linuxmint/cinnamon/commit/30c641b4f466ec7870a215cfe5de2efcb879052a)
+  - <sub>Tags: <code>6.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -44,6 +63,12 @@
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>Make Caribou dependency optional (#489)</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/255f41e5301e0bc1e6e7adcf19b6f9f9d6acb003)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/2831a3ecb8b4592609681cc5c77e99b4b34c99a8)
+  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.1...HEAD)
 
@@ -51,21 +76,14 @@
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.1...HEAD)
 
 
-#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.0...HEAD)
+#### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.1...HEAD)
 
-- [ ] [<code>Update translations</code>](https://github.com/linuxmint/cinnamon-translations/commit/421859280da10578784f3e05c70c0685590a8409)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>6.6.1</code>](https://github.com/linuxmint/cinnamon-translations/commit/bafa487ae8dc06b52baef022b694942bd72765cd)
-  - <sub>Tags: <code>6.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
 
-#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [fefe156e336d2a0bbfe1ca61cf4e6873c74ae405 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/fefe156e336d2a0bbfe1ca61cf4e6873c74ae405...HEAD)
+#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c528788f05697d1e176df4f869d64bcebbab1528 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c528788f05697d1e176df4f869d64bcebbab1528...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/2e00e30913f17fba5ec15d0565150be83ee89458)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.7.0</code>](https://github.com/linuxmint/folder-color-switcher/commit/c528788f05697d1e176df4f869d64bcebbab1528)
 > Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz', 'https://web.archive.org/web/20250807131013/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -101,7 +119,9 @@
 
 - [ ] [<code>Fix for progress handling (#3651)</code>](https://github.com/linuxmint/nemo/commit/5e7fe5b78fb7257293372780f95dc34abc4ce0e2)
 - [ ] [<code>templates: Improve invalid XDG_TEMPLATES_DIR handling.</code>](https://github.com/linuxmint/nemo/commit/193708997d8b8e97e07c45ce1ce66feb6b801302)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.2</code>](https://github.com/linuxmint/nemo/commit/95cc45e03e37dd1892c88b1b74179fab6480f32a)
+  - <sub>Tags: <code>6.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -120,47 +140,23 @@
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.8 → HEAD](https://github.com/linuxmint/pix/compare/3.4.8...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.9 → HEAD](https://github.com/linuxmint/pix/compare/3.4.9...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/b24028f102b62f161cb1b990bf0ee7fb447a8ecb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.9</code>](https://github.com/linuxmint/pix/commit/4f6a569889d7cd9865a50a7ea278826ddf74ec0e)
-  - <sub>Tags: <code>3.4.9</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.1...HEAD)
 
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.1 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.1...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.2 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/87c109ad19dc690a74cc1974e42c56c9c1384cfe)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>2.0.2</code>](https://github.com/linuxmint/warpinator/commit/048106ea2e1c6afda0102b0f75577af8a30deb00)
-  - <sub>Tags: <code>2.0.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [3.2.0 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.0...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [3.2.1 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.1...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/492618ba9930f398ad8b090a88f9835cfeed5afa)
-- [ ] [<code>3.2.1</code>](https://github.com/linuxmint/xapp/commit/802d5939d9afda78af8c34a94c62863cbb5dfe99)
-  - <sub>Tags: <code>3.2.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.0 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.0...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.1 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.1...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/c6600f756953164cde5bfd166531b3918fb7e1ad)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>4.6.1</code>](https://github.com/linuxmint/xreader/commit/42e2ce8ca5ab90902b35421659cc5ace1ac9b217)
-  - <sub>Tags: <code>4.6.1</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.14 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.14...HEAD)
+#### [xviewer](https://github.com/linuxmint/xviewer): [3.4.15 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.15...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xviewer/commit/8f25284f4cd092d2e644902703e4ee6c50ec1d2c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.15</code>](https://github.com/linuxmint/xviewer/commit/13d67042e0f09026046bf48d4a4fd379a8dd7fd8)
-  - <sub>Tags: <code>3.4.15</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
