@@ -5113,6 +5113,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/upload-artifact from 5.0.0 to 6.0.0 (#21462)</code>](https://github.com/netdata/netdata.git/commit/e158fb8845d627c119c147f83b5d6422526de5c0)
 - [ ] [<code>build(deps): update go toolchain to v1.25.5 (#21459)</code>](https://github.com/netdata/netdata.git/commit/e343af56139667c9cf2210ca9ed31d490e2d2b21)
 - [ ] [<code>Perflib fixes (Windows.plugin) (#21458)</code>](https://github.com/netdata/netdata.git/commit/23e396458b194c8e9bc6b358e7ccb30289ea144d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-128-nightly.</code>](https://github.com/netdata/netdata.git/commit/9ed1c0685b6ad999f02517b02d1c60cf646add8a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
