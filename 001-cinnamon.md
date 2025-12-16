@@ -84,6 +84,8 @@
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.1 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.1...HEAD)
 
 - [ ] [<code>Fix for progress handling (#3651)</code>](https://github.com/linuxmint/nemo/commit/5e7fe5b78fb7257293372780f95dc34abc4ce0e2)
+- [ ] [<code>templates: Improve invalid XDG_TEMPLATES_DIR handling.</code>](https://github.com/linuxmint/nemo/commit/193708997d8b8e97e07c45ce1ce66feb6b801302)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
