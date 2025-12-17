@@ -506,6 +506,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/jmap: Refactor Map methods and add comprehensive tests</code>](https://github.com/lxc/incus/commit/045bee77df6455cfd5a237e9a4e04313ddb8c0d7)
 - [ ] [<code>shared/tls: implement Happy Eyeballs (RFC 8305) in RFC3493Dialer</code>](https://github.com/lxc/incus/commit/07852cf61699581d05649eab55b02bc7aff7e68f)
 - [ ] [<code>incusd/devices/tpm: Make incompatible with live-migration</code>](https://github.com/lxc/incus/commit/30e8f38cefe2091d89bf8ef8c0d6d96f133ecef5)
+- [ ] [<code>incus/util: #2636 fix linter complaints in `internal/filter`</code>](https://github.com/lxc/incus/commit/bb2ffcf15c83a31db2fcbc566b2466bbf7d6737e)
+- [ ] [<code>incus/network_load_balancer: Fix typo in cmd info description</code>](https://github.com/lxc/incus/commit/88f75bcb6b6712e735218fa206ff4195a5cb528a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/32008274cf6323bdc9a40e4f47ecca5775144ffe)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4608,6 +4613,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/jmap: Refactor Map methods and add comprehensive tests</code>](https://github.com/lxc/incus/commit/045bee77df6455cfd5a237e9a4e04313ddb8c0d7)
 - [ ] [<code>shared/tls: implement Happy Eyeballs (RFC 8305) in RFC3493Dialer</code>](https://github.com/lxc/incus/commit/07852cf61699581d05649eab55b02bc7aff7e68f)
 - [ ] [<code>incusd/devices/tpm: Make incompatible with live-migration</code>](https://github.com/lxc/incus/commit/30e8f38cefe2091d89bf8ef8c0d6d96f133ecef5)
+- [ ] [<code>incus/util: #2636 fix linter complaints in `internal/filter`</code>](https://github.com/lxc/incus/commit/bb2ffcf15c83a31db2fcbc566b2466bbf7d6737e)
+- [ ] [<code>incus/network_load_balancer: Fix typo in cmd info description</code>](https://github.com/lxc/incus/commit/88f75bcb6b6712e735218fa206ff4195a5cb528a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/32008274cf6323bdc9a40e4f47ecca5775144ffe)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -5142,6 +5152,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): include Go version in build info (#21473)</code>](https://github.com/netdata/netdata.git/commit/79b7982e20a584aa03cc9d79ee98f2a0c0132a7a)
 - [ ] [<code>Update windows.plugin (#21466)</code>](https://github.com/netdata/netdata.git/commit/00427eb60839a40b04d7cdc9a8c73989a53cd9de)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-134-nightly.</code>](https://github.com/netdata/netdata.git/commit/46aec2e69e802bd570b76a21160007147b7b1963)
+- [ ] [<code>Remove Fedora 41 from CI and package builds. (#21475)</code>](https://github.com/netdata/netdata.git/commit/3d916c365c58c1f94f5e4b80c6cc71bf84d8ac05)
+- [ ] [<code>build(deps): bump actions/download-artifact from 4 to 7 (#21464)</code>](https://github.com/netdata/netdata.git/commit/062eea41e8d958f8a4c88f926716c52b9088cfee)
+- [ ] [<code>Fixes Windows.plugin (Part III) (#21474)</code>](https://github.com/netdata/netdata.git/commit/99c2c047a1c57e2430a7632b5ed86b08055fada8)
+- [ ] [<code>Improve metadata storage stability (#21468)</code>](https://github.com/netdata/netdata.git/commit/b7e7983d26a339b738b0447edd33aeb326f4d48f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7473,6 +7487,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(lib): update windows-rs to v0.62 and remove deprecated feature</code>](https://github.com/Oppzippy/OpenSCQ30/commit/be15cf736c2253251b752fd6f84ec38e7a4e2a5e)
 - [ ] [<code>style(gui): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43a53d61e47b898bab6a31712137c460cc929012)
 - [ ] [<code>ci: bump actions/upload-artifact from 5 to 6 (#195)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1c93c0aa165ea90f14e97520a132d81dbb47ba5)
+- [ ] [<code>docs: remove requested devices section from readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2e06a3c2d11b23616b14beb77ad4325f04d9e1df)
+- [ ] [<code>docs: update readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2fe9464303e8fd06d555b1a8b3cb4086122d7fd2)
+- [ ] [<code>docs: update android build instructions to account for split abi</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1993b2ad9ca528f9895e2af02b290c26900f34ee)
+- [ ] [<code>test(android): fix flaky test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2203990e21858d57cd00ddaef82a7482730cc383)
+- [ ] [<code>build: prepare version number and changelogs for v2.0.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb7ea76db16153a4e91cd2c289d6c604213f06f0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
