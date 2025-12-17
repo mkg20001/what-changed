@@ -505,6 +505,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_volumes: Fix state handling in getVolumeFull</code>](https://github.com/lxc/incus/commit/4bda52a72631c2b2adc5c8ea6a65a5bd671abe4a)
 - [ ] [<code>internal/jmap: Refactor Map methods and add comprehensive tests</code>](https://github.com/lxc/incus/commit/045bee77df6455cfd5a237e9a4e04313ddb8c0d7)
 - [ ] [<code>shared/tls: implement Happy Eyeballs (RFC 8305) in RFC3493Dialer</code>](https://github.com/lxc/incus/commit/07852cf61699581d05649eab55b02bc7aff7e68f)
+- [ ] [<code>incusd/devices/tpm: Make incompatible with live-migration</code>](https://github.com/lxc/incus/commit/30e8f38cefe2091d89bf8ef8c0d6d96f133ecef5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4606,6 +4607,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_volumes: Fix state handling in getVolumeFull</code>](https://github.com/lxc/incus/commit/4bda52a72631c2b2adc5c8ea6a65a5bd671abe4a)
 - [ ] [<code>internal/jmap: Refactor Map methods and add comprehensive tests</code>](https://github.com/lxc/incus/commit/045bee77df6455cfd5a237e9a4e04313ddb8c0d7)
 - [ ] [<code>shared/tls: implement Happy Eyeballs (RFC 8305) in RFC3493Dialer</code>](https://github.com/lxc/incus/commit/07852cf61699581d05649eab55b02bc7aff7e68f)
+- [ ] [<code>incusd/devices/tpm: Make incompatible with live-migration</code>](https://github.com/lxc/incus/commit/30e8f38cefe2091d89bf8ef8c0d6d96f133ecef5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -5137,6 +5139,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update metadata.yaml (#21469)</code>](https://github.com/netdata/netdata.git/commit/b4a504a18c3823f6b1b19d07e074457792325f55)
 - [ ] [<code>Regenerate integrations docs (#21470)</code>](https://github.com/netdata/netdata.git/commit/c36d1c07cd2a931844bd5b2fef9ddfadbdbcb10e)
+- [ ] [<code>chore(go.d): include Go version in build info (#21473)</code>](https://github.com/netdata/netdata.git/commit/79b7982e20a584aa03cc9d79ee98f2a0c0132a7a)
+- [ ] [<code>Update windows.plugin (#21466)</code>](https://github.com/netdata/netdata.git/commit/00427eb60839a40b04d7cdc9a8c73989a53cd9de)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-134-nightly.</code>](https://github.com/netdata/netdata.git/commit/46aec2e69e802bd570b76a21160007147b7b1963)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7461,6 +7466,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4b07088fe258b392ef291156152327b84cc26a62)
   - <sub>Tags: <code>v2.0.0-beta7</code></sub>
 - [ ] [<code>fix(tools/soundcore-device-faker): spoof mac address requires restart</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bcf1912480426132970a619e56fd251f52b80cf7)
+- [ ] [<code>docs(tools/soundcore-device-faker): document a3035 packet</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5ad4eab665d7773debad07372c863754e0397548)
+- [ ] [<code>docs: update changelog for v2.0.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ab74f0b350a53ab138b0498968a6cdf067135e67)
+- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7e6434d75f6921680051ac1017c0f138c911a5e7)
+- [ ] [<code>deps(android): update AGP</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8f5344046c75d8bdf47d87ad3e448717d2da10ec)
+- [ ] [<code>deps(lib): update windows-rs to v0.62 and remove deprecated feature</code>](https://github.com/Oppzippy/OpenSCQ30/commit/be15cf736c2253251b752fd6f84ec38e7a4e2a5e)
+- [ ] [<code>style(gui): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/43a53d61e47b898bab6a31712137c460cc929012)
+- [ ] [<code>ci: bump actions/upload-artifact from 5 to 6 (#195)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1c93c0aa165ea90f14e97520a132d81dbb47ba5)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
