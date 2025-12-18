@@ -5156,6 +5156,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump actions/download-artifact from 4 to 7 (#21464)</code>](https://github.com/netdata/netdata.git/commit/062eea41e8d958f8a4c88f926716c52b9088cfee)
 - [ ] [<code>Fixes Windows.plugin (Part III) (#21474)</code>](https://github.com/netdata/netdata.git/commit/99c2c047a1c57e2430a7632b5ed86b08055fada8)
 - [ ] [<code>Improve metadata storage stability (#21468)</code>](https://github.com/netdata/netdata.git/commit/b7e7983d26a339b738b0447edd33aeb326f4d48f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-139-nightly.</code>](https://github.com/netdata/netdata.git/commit/a210bbadef0880dcddb32f02262143ec2a03d891)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
