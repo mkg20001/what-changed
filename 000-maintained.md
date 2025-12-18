@@ -278,6 +278,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
+- [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -451,6 +452,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
+- [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -535,6 +537,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Don't add new volume options on snapshot</code>](https://github.com/lxc/incus/commit/b740c587d04f749db6e71a686c031908f91c549e)
 - [ ] [<code>incusd/storage/drivers/types: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f955c8c93c57cfce27a709347a49be5f06c21803)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/41a4db08931f41d06d6333513591a40c96695a4c)
+- [ ] [<code>incusd/cluster: Add missing project handling to ConnectIfVolumeIsRemote</code>](https://github.com/lxc/incus/commit/6af3181d9d47ac57376b4088ac6a9895a50dacf0)
+- [ ] [<code>incusd/storage_volumes: Handle remote volumes in recursion=2</code>](https://github.com/lxc/incus/commit/1be6adb874686fa97344ae093096646903a38e36)
+- [ ] [<code>incusd/storage/lvm: Fix incorrect activation mode</code>](https://github.com/lxc/incus/commit/ecc77315ac0facc37b5352777cc0bada14cda338)
+- [ ] [<code>incus/storage: Take project into account during qcow2 operation</code>](https://github.com/lxc/incus/commit/d8e3f7b42dfa3df1c951969eef1964847046c9c8)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4666,6 +4673,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Don't add new volume options on snapshot</code>](https://github.com/lxc/incus/commit/b740c587d04f749db6e71a686c031908f91c549e)
 - [ ] [<code>incusd/storage/drivers/types: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f955c8c93c57cfce27a709347a49be5f06c21803)
 - [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/41a4db08931f41d06d6333513591a40c96695a4c)
+- [ ] [<code>incusd/cluster: Add missing project handling to ConnectIfVolumeIsRemote</code>](https://github.com/lxc/incus/commit/6af3181d9d47ac57376b4088ac6a9895a50dacf0)
+- [ ] [<code>incusd/storage_volumes: Handle remote volumes in recursion=2</code>](https://github.com/lxc/incus/commit/1be6adb874686fa97344ae093096646903a38e36)
+- [ ] [<code>incusd/storage/lvm: Fix incorrect activation mode</code>](https://github.com/lxc/incus/commit/ecc77315ac0facc37b5352777cc0bada14cda338)
+- [ ] [<code>incus/storage: Take project into account during qcow2 operation</code>](https://github.com/lxc/incus/commit/d8e3f7b42dfa3df1c951969eef1964847046c9c8)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4797,6 +4809,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>End tuneIqEnum with NULL (#2933)</code>](https://github.com/AOMediaCodec/libavif/commit/1d4c70e7ed006fbf42fc4662bf6643a9564518f7)
 - [ ] [<code>Set tuning before aom codec options (#2935)</code>](https://github.com/AOMediaCodec/libavif/commit/62cac9d306c07d42bbd9ea5d6b006c50ae6d9828)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Clean CI on windows (#2938)</code>](https://github.com/AOMediaCodec/libavif/commit/b23884d9090960456c0b724560313686ef207ec6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5206,6 +5220,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve metadata storage stability (#21468)</code>](https://github.com/netdata/netdata.git/commit/b7e7983d26a339b738b0447edd33aeb326f4d48f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-139-nightly.</code>](https://github.com/netdata/netdata.git/commit/a210bbadef0880dcddb32f02262143ec2a03d891)
 - [ ] [<code>Regenerate integrations docs (#21477)</code>](https://github.com/netdata/netdata.git/commit/1a5ec9754dbf1e06475b8364ba946d017d073cdd)
+- [ ] [<code>Update nodes-ephemerality.md (#21471)</code>](https://github.com/netdata/netdata.git/commit/bb7e21574dda54f9b76c3d04aba53ed51c9a9c44)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>MSSQL Collection (windows.plugin) (#21478)</code>](https://github.com/netdata/netdata.git/commit/b04a863e6746adf458fcf5259cf385eafd599586)
+- [ ] [<code>Improve ACLK data transmission (#21483)</code>](https://github.com/netdata/netdata.git/commit/49a77d5df793c9c01ecf32db29030876902c33fd)
+- [ ] [<code>Improve error handling and resource cleanup in ACLK query execution (#21479)</code>](https://github.com/netdata/netdata.git/commit/7eaf10d19077abfa9e1fca276750c649e3baec4c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build(deps): bump github.com/axiomhq/hyperloglog from 0.2.5 to 0.2.6 in /src/go (#21489)</code>](https://github.com/netdata/netdata.git/commit/4a0e49bd1eb9005bb82858d4de5bac36366ee39d)
+- [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.7 to 5.7.0 in /src/go (#21490)</code>](https://github.com/netdata/netdata.git/commit/7c8fb5b968130280348a0e3013ec58484af18b5e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
