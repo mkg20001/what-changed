@@ -511,6 +511,30 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/32008274cf6323bdc9a40e4f47ecca5775144ffe)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>api: Add storage_lvmcluster_qcow2 extension</code>](https://github.com/lxc/incus/commit/24eb19de38b24c6ffeda8cd3d5af6a57cb534145)
+- [ ] [<code>incusd/storage/drivers: Add utils for qcow2 manipulation</code>](https://github.com/lxc/incus/commit/01a9a9aa100ed8a8dd49e82d68030fd56b8cfdf3)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/drivers: Add qcow2 block device utility functions</code>](https://github.com/lxc/incus/commit/6704bcb5820097817079b35ccc786049758dcacd)
+- [ ] [<code>incusd/storage/drivers: Add 'block.type' config and additional validation checks</code>](https://github.com/lxc/incus/commit/32c14f99ede056a880d6dec8f2acd646f6f7e398)
+- [ ] [<code>incusd/storage: Implement the creation of qcow2 formatted volumes when on lvmcluster</code>](https://github.com/lxc/incus/commit/3ab376be69dd34e9cb9ca68a41a2a3c34b9f9a3a)
+- [ ] [<code>incusd/instance/drivers/qmp: Add QueryNamedBlockNodes and ChangeBackingFile</code>](https://github.com/lxc/incus/commit/c32fbd9c29cf6e4448f839745b6ada77106b5bec)
+- [ ] [<code>incusd/storage/drivers: Add support for activating and deactivating qcow2-formatted volumes</code>](https://github.com/lxc/incus/commit/3cfb0976b54d5e4804fe21359ceeedb385f3e01e)
+- [ ] [<code>incusd/storage/drivers: Add support for the qcow2 config filesystem snapshots</code>](https://github.com/lxc/incus/commit/644422ce07d1ce432d98f1038810c78ec7ee9ac9)
+- [ ] [<code>incusd/storage/drivers: Add support for creating and renaming qcow2 volume snapshots</code>](https://github.com/lxc/incus/commit/a15aca3f61406378037d9cccd74559bd5388ea6c)
+- [ ] [<code>incusd/storage/drivers: Add GetQcow2BackingFilePath and Qcow2DeletionCleanup</code>](https://github.com/lxc/incus/commit/509ee54e5398208253b1b99c158a5d6171550cee)
+- [ ] [<code>incusd/device/config: Add 'BackingPath' to track backing chain for qcow2 volumes</code>](https://github.com/lxc/incus/commit/4edd91803c818ccbf5a4aabb722950212f3c7e4f)
+- [ ] [<code>incusd/storage: Add 'BackingPath' to track backing chain for qcow2 volumes</code>](https://github.com/lxc/incus/commit/078f84ccbacb007666b29421cb06f78aa82b91d7)
+- [ ] [<code>incusd/storage: Add support for creating, renaming, restoring and deleting qcow2 instance volumes</code>](https://github.com/lxc/incus/commit/6f3013fbba74d2662c6cf4c8635d5e1c46fee18f)
+- [ ] [<code>incusd/instance/drivers: Add support for running instances from a backing chain</code>](https://github.com/lxc/incus/commit/c265847d1edf2c97c82538c3044d85df56ea5271)
+- [ ] [<code>incusd/instance: Add support for creating/deleting qcow2 snapshots while instance is running</code>](https://github.com/lxc/incus/commit/4ccad8b0ce33daf3792522c859d4c3824cc2dfe1)
+- [ ] [<code>incusd/storage/drivers: Show config filesystem only for FS volumes</code>](https://github.com/lxc/incus/commit/cf1ac960f6651e18b9d134c2fe9524c7eff54e6d)
+- [ ] [<code>incusd/storage/lvmcluster: Fix activation for containers</code>](https://github.com/lxc/incus/commit/be9d6a00d8bc5a31b47fc463cd296c0313d1e7e7)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvm: Fix handling of stripe size config</code>](https://github.com/lxc/incus/commit/8b3d233e63a00ba5416434c6b29628b1d3789161)
+- [ ] [<code>incusd/storage/lvmcluster: Set block.filesystem to btrfs</code>](https://github.com/lxc/incus/commit/3382132beea90a7dee5da471ceca1383ce8514fe)
+- [ ] [<code>incusd/storage: Don't add new volume options on snapshot</code>](https://github.com/lxc/incus/commit/b740c587d04f749db6e71a686c031908f91c549e)
+- [ ] [<code>incusd/storage/drivers/types: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f955c8c93c57cfce27a709347a49be5f06c21803)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/41a4db08931f41d06d6333513591a40c96695a4c)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4618,6 +4642,30 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/32008274cf6323bdc9a40e4f47ecca5775144ffe)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>api: Add storage_lvmcluster_qcow2 extension</code>](https://github.com/lxc/incus/commit/24eb19de38b24c6ffeda8cd3d5af6a57cb534145)
+- [ ] [<code>incusd/storage/drivers: Add utils for qcow2 manipulation</code>](https://github.com/lxc/incus/commit/01a9a9aa100ed8a8dd49e82d68030fd56b8cfdf3)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/drivers: Add qcow2 block device utility functions</code>](https://github.com/lxc/incus/commit/6704bcb5820097817079b35ccc786049758dcacd)
+- [ ] [<code>incusd/storage/drivers: Add 'block.type' config and additional validation checks</code>](https://github.com/lxc/incus/commit/32c14f99ede056a880d6dec8f2acd646f6f7e398)
+- [ ] [<code>incusd/storage: Implement the creation of qcow2 formatted volumes when on lvmcluster</code>](https://github.com/lxc/incus/commit/3ab376be69dd34e9cb9ca68a41a2a3c34b9f9a3a)
+- [ ] [<code>incusd/instance/drivers/qmp: Add QueryNamedBlockNodes and ChangeBackingFile</code>](https://github.com/lxc/incus/commit/c32fbd9c29cf6e4448f839745b6ada77106b5bec)
+- [ ] [<code>incusd/storage/drivers: Add support for activating and deactivating qcow2-formatted volumes</code>](https://github.com/lxc/incus/commit/3cfb0976b54d5e4804fe21359ceeedb385f3e01e)
+- [ ] [<code>incusd/storage/drivers: Add support for the qcow2 config filesystem snapshots</code>](https://github.com/lxc/incus/commit/644422ce07d1ce432d98f1038810c78ec7ee9ac9)
+- [ ] [<code>incusd/storage/drivers: Add support for creating and renaming qcow2 volume snapshots</code>](https://github.com/lxc/incus/commit/a15aca3f61406378037d9cccd74559bd5388ea6c)
+- [ ] [<code>incusd/storage/drivers: Add GetQcow2BackingFilePath and Qcow2DeletionCleanup</code>](https://github.com/lxc/incus/commit/509ee54e5398208253b1b99c158a5d6171550cee)
+- [ ] [<code>incusd/device/config: Add 'BackingPath' to track backing chain for qcow2 volumes</code>](https://github.com/lxc/incus/commit/4edd91803c818ccbf5a4aabb722950212f3c7e4f)
+- [ ] [<code>incusd/storage: Add 'BackingPath' to track backing chain for qcow2 volumes</code>](https://github.com/lxc/incus/commit/078f84ccbacb007666b29421cb06f78aa82b91d7)
+- [ ] [<code>incusd/storage: Add support for creating, renaming, restoring and deleting qcow2 instance volumes</code>](https://github.com/lxc/incus/commit/6f3013fbba74d2662c6cf4c8635d5e1c46fee18f)
+- [ ] [<code>incusd/instance/drivers: Add support for running instances from a backing chain</code>](https://github.com/lxc/incus/commit/c265847d1edf2c97c82538c3044d85df56ea5271)
+- [ ] [<code>incusd/instance: Add support for creating/deleting qcow2 snapshots while instance is running</code>](https://github.com/lxc/incus/commit/4ccad8b0ce33daf3792522c859d4c3824cc2dfe1)
+- [ ] [<code>incusd/storage/drivers: Show config filesystem only for FS volumes</code>](https://github.com/lxc/incus/commit/cf1ac960f6651e18b9d134c2fe9524c7eff54e6d)
+- [ ] [<code>incusd/storage/lvmcluster: Fix activation for containers</code>](https://github.com/lxc/incus/commit/be9d6a00d8bc5a31b47fc463cd296c0313d1e7e7)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage/lvm: Fix handling of stripe size config</code>](https://github.com/lxc/incus/commit/8b3d233e63a00ba5416434c6b29628b1d3789161)
+- [ ] [<code>incusd/storage/lvmcluster: Set block.filesystem to btrfs</code>](https://github.com/lxc/incus/commit/3382132beea90a7dee5da471ceca1383ce8514fe)
+- [ ] [<code>incusd/storage: Don't add new volume options on snapshot</code>](https://github.com/lxc/incus/commit/b740c587d04f749db6e71a686c031908f91c549e)
+- [ ] [<code>incusd/storage/drivers/types: Fix gofumpt</code>](https://github.com/lxc/incus/commit/f955c8c93c57cfce27a709347a49be5f06c21803)
+- [ ] [<code>doc: Update metadata</code>](https://github.com/lxc/incus/commit/41a4db08931f41d06d6333513591a40c96695a4c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4999,7 +5047,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [netdata](https://github.com/netdata/netdata.git): [v2.8.0 → HEAD](https://github.com/netdata/netdata.git/compare/v2.8.0...HEAD)
+#### [netdata](https://github.com/netdata/netdata.git): [v2.8.4 → HEAD](https://github.com/netdata/netdata.git/compare/v2.8.4...HEAD)
 
 - [ ] [<code>fix(cgroups): improve podman container name resolution (#21317)</code>](https://github.com/netdata/netdata.git/commit/b3b04ac530874b48515447ff1f4af7c003b8e96a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-2-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ba11b53e0f858a025603192e0ee8f2bf592e38e)
@@ -5157,6 +5205,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixes Windows.plugin (Part III) (#21474)</code>](https://github.com/netdata/netdata.git/commit/99c2c047a1c57e2430a7632b5ed86b08055fada8)
 - [ ] [<code>Improve metadata storage stability (#21468)</code>](https://github.com/netdata/netdata.git/commit/b7e7983d26a339b738b0447edd33aeb326f4d48f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-139-nightly.</code>](https://github.com/netdata/netdata.git/commit/a210bbadef0880dcddb32f02262143ec2a03d891)
+- [ ] [<code>Regenerate integrations docs (#21477)</code>](https://github.com/netdata/netdata.git/commit/1a5ec9754dbf1e06475b8364ba946d017d073cdd)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
