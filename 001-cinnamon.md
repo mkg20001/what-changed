@@ -46,7 +46,7 @@
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c528788f05697d1e176df4f869d64bcebbab1528 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c528788f05697d1e176df4f869d64bcebbab1528...HEAD)
 
-> Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz', 'https://web.archive.org/web/20250807131013/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.2.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.3.tar.xz', 'https://web.archive.org/web/20251218152602/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.3.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [mint-cursor-themes](https://github.com/linuxmint/mint-cursor-themes): [d2c1428b499a347c291dafb13c89699fdbdd4be7 → HEAD](https://github.com/linuxmint/mint-cursor-themes/compare/d2c1428b499a347c291dafb13c89699fdbdd4be7...HEAD)
