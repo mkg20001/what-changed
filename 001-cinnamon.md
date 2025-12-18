@@ -11,6 +11,12 @@
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>cs_user.py: Switch from pam passwd to system-auth or common-auth with login fallback (#13239)</code>](https://github.com/linuxmint/cinnamon/commit/d30780e1aa1bd6246123b5f38c1368943d8ce6bb)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>applets,desklets: Validate tab argument before attempting to</code>](https://github.com/linuxmint/cinnamon/commit/36df5fc3b2a16386a24796eed17e73a1bde717f6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Remove cs-tiling icon and desktop file.</code>](https://github.com/linuxmint/cinnamon/commit/514ef0d9ea7c598e8486ed68935c65ab7917a9f4)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>Regenerate desktop files with latest translations.</code>](https://github.com/linuxmint/cinnamon/commit/2262bc75bc1dd8f3cfd2e4c9c96328c9d881f800)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
