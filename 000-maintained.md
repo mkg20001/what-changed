@@ -543,6 +543,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus/storage: Take project into account during qcow2 operation</code>](https://github.com/lxc/incus/commit/d8e3f7b42dfa3df1c951969eef1964847046c9c8)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>shared/api: add comprehensive unit tests for URL builder</code>](https://github.com/lxc/incus/commit/dd034aa3ddee24753cedd0502739a36754d900c3)
+- [ ] [<code>incus/admin/init: Prepare code for adding initialized server to cluster</code>](https://github.com/lxc/incus/commit/e60abecc21d2bbef036f74319ba40e62371511a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster: Add 'cluster join' command</code>](https://github.com/lxc/incus/commit/d810dd722fc487e681fb66d42f83db52da7ad087)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/47a830f228ef7608378a6ad61cc17fb36725a776)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-agent: Code cleanup</code>](https://github.com/lxc/incus/commit/a9cab98afcd8e46c38624787d4af390f6287da53)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Add OS config path</code>](https://github.com/lxc/incus/commit/2557ab37bb941e0b0326da7e96ff20b927d5994e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incus-agent: Add system configuration support</code>](https://github.com/lxc/incus/commit/2f7b4cb99d352863fcfc18bf1660123385067314)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Add feature checks</code>](https://github.com/lxc/incus/commit/6fc75dc1e3e760afd0017cbc921d7bb73facaa81)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc/instances: Cover incus-agent configuration</code>](https://github.com/lxc/incus/commit/94f05dcb0ab89f8ebf3a28d4ebcd1a25ca5f1847)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>doc/bpf-tokens: Fix markdown</code>](https://github.com/lxc/incus/commit/3ec827810672b26c04150948db620adb1d4e6acb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4680,6 +4697,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus/storage: Take project into account during qcow2 operation</code>](https://github.com/lxc/incus/commit/d8e3f7b42dfa3df1c951969eef1964847046c9c8)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>shared/api: add comprehensive unit tests for URL builder</code>](https://github.com/lxc/incus/commit/dd034aa3ddee24753cedd0502739a36754d900c3)
+- [ ] [<code>incus/admin/init: Prepare code for adding initialized server to cluster</code>](https://github.com/lxc/incus/commit/e60abecc21d2bbef036f74319ba40e62371511a1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster: Add 'cluster join' command</code>](https://github.com/lxc/incus/commit/d810dd722fc487e681fb66d42f83db52da7ad087)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/47a830f228ef7608378a6ad61cc17fb36725a776)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-agent: Code cleanup</code>](https://github.com/lxc/incus/commit/a9cab98afcd8e46c38624787d4af390f6287da53)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Add OS config path</code>](https://github.com/lxc/incus/commit/2557ab37bb941e0b0326da7e96ff20b927d5994e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>incus-agent: Add system configuration support</code>](https://github.com/lxc/incus/commit/2f7b4cb99d352863fcfc18bf1660123385067314)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent: Add feature checks</code>](https://github.com/lxc/incus/commit/6fc75dc1e3e760afd0017cbc921d7bb73facaa81)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc/instances: Cover incus-agent configuration</code>](https://github.com/lxc/incus/commit/94f05dcb0ab89f8ebf3a28d4ebcd1a25ca5f1847)
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>doc/bpf-tokens: Fix markdown</code>](https://github.com/lxc/incus/commit/3ec827810672b26c04150948db620adb1d4e6acb)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4813,6 +4847,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Clean CI on windows (#2938)</code>](https://github.com/AOMediaCodec/libavif/commit/b23884d9090960456c0b724560313686ef207ec6)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Copy Exif/XMP/ICC when splitting into grid (#2940)</code>](https://github.com/AOMediaCodec/libavif/commit/42d89dc530695ecf8952f1d35a36a5dd7c41a2c0)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
