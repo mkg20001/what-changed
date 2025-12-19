@@ -542,6 +542,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage/lvm: Fix incorrect activation mode</code>](https://github.com/lxc/incus/commit/ecc77315ac0facc37b5352777cc0bada14cda338)
 - [ ] [<code>incus/storage: Take project into account during qcow2 operation</code>](https://github.com/lxc/incus/commit/d8e3f7b42dfa3df1c951969eef1964847046c9c8)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/api: add comprehensive unit tests for URL builder</code>](https://github.com/lxc/incus/commit/dd034aa3ddee24753cedd0502739a36754d900c3)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4678,6 +4679,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage/lvm: Fix incorrect activation mode</code>](https://github.com/lxc/incus/commit/ecc77315ac0facc37b5352777cc0bada14cda338)
 - [ ] [<code>incus/storage: Take project into account during qcow2 operation</code>](https://github.com/lxc/incus/commit/d8e3f7b42dfa3df1c951969eef1964847046c9c8)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>shared/api: add comprehensive unit tests for URL builder</code>](https://github.com/lxc/incus/commit/dd034aa3ddee24753cedd0502739a36754d900c3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -5228,6 +5230,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build(deps): bump github.com/axiomhq/hyperloglog from 0.2.5 to 0.2.6 in /src/go (#21489)</code>](https://github.com/netdata/netdata.git/commit/4a0e49bd1eb9005bb82858d4de5bac36366ee39d)
 - [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.7 to 5.7.0 in /src/go (#21490)</code>](https://github.com/netdata/netdata.git/commit/7c8fb5b968130280348a0e3013ec58484af18b5e)
+- [ ] [<code>fix(netdata-updater): fix major version detection for native packages (#21485)</code>](https://github.com/netdata/netdata.git/commit/dfd6a9ce5e6c0d6f6b03c8c5e6cf34990733cf95)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-148-nightly.</code>](https://github.com/netdata/netdata.git/commit/f218efe16fbdfddafbe7a7d6bbd0546acb325a78)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7564,6 +7568,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: update android build instructions to account for split abi</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1993b2ad9ca528f9895e2af02b290c26900f34ee)
 - [ ] [<code>test(android): fix flaky test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2203990e21858d57cd00ddaef82a7482730cc383)
 - [ ] [<code>build: prepare version number and changelogs for v2.0.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb7ea76db16153a4e91cd2c289d6c604213f06f0)
+- [ ] [<code>fix(android): foreground service only binds on first autoconnect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d089e9425334fa4e52b9641c93c0db3f1b266ee6)
+- [ ] [<code>fix(gui): missing icon on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62476603bfc3bc0867e278719127ac0d85944275)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
