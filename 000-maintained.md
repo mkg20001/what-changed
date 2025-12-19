@@ -279,6 +279,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 - [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -453,6 +454,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 - [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -560,6 +562,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/instances: Cover incus-agent configuration</code>](https://github.com/lxc/incus/commit/94f05dcb0ab89f8ebf3a28d4ebcd1a25ca5f1847)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>doc/bpf-tokens: Fix markdown</code>](https://github.com/lxc/incus/commit/3ec827810672b26c04150948db620adb1d4e6acb)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/06ba4a8620ff31b2c34559148fb948fc26aa8fa5)
+- [ ] [<code>incus/file: Improve error messages</code>](https://github.com/lxc/incus/commit/504509a62903ad62b169baf55b3de347e6a277af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/00ce84eda238aa8b8acd9d8db0064aef2525c277)
+- [ ] [<code>doc/network/firewall: Remove warning against IP forward and Docker</code>](https://github.com/lxc/incus/commit/0df2fa35d6ced574f125508e150a994d08262e0d)
+- [ ] [<code>incusd/storage: Generate a clean backup.yaml after a backup is generated</code>](https://github.com/lxc/incus/commit/5f6dbf60ecb09b93b4d5a9d22e6c18956334758e)
+- [ ] [<code>incusd/api_buckets: Provide fastpath for miniod access</code>](https://github.com/lxc/incus/commit/d6186d09f0582ddf8781dcb4aa7974d938baba46)
+- [ ] [<code>incusd: Move ReverseDNS to util</code>](https://github.com/lxc/incus/commit/aa51fa0454a84763f67f09f7f0a64c112f8601ec)
+- [ ] [<code>incusd/network/ovn: Set PTR records</code>](https://github.com/lxc/incus/commit/464b42317487cf29ccba968006b13f3fd6b8337b)
+- [ ] [<code>doc/openfga: Clarify required config keys</code>](https://github.com/lxc/incus/commit/e6b52d69da5874df060d1f49c1c7ca14968b4736)
+- [ ] [<code>incusd/storage/linstor: Disable volume copie with snapshots</code>](https://github.com/lxc/incus/commit/572dad5f8e3e7049be71130d963b24f4b733c7f4)
+- [ ] [<code>tests: Update tests for Linstor limitation</code>](https://github.com/lxc/incus/commit/2fdbdd7a72cf346bde37e09a0542f3c88e0cc71e)
+- [ ] [<code>Release Incus 6.20</code>](https://github.com/lxc/incus/commit/7e6d27123ebaa4bf9bff4d9fc30c11d9206feb83)
+  - <sub>Tags: <code>v6.20.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4714,6 +4730,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/instances: Cover incus-agent configuration</code>](https://github.com/lxc/incus/commit/94f05dcb0ab89f8ebf3a28d4ebcd1a25ca5f1847)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>doc/bpf-tokens: Fix markdown</code>](https://github.com/lxc/incus/commit/3ec827810672b26c04150948db620adb1d4e6acb)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/06ba4a8620ff31b2c34559148fb948fc26aa8fa5)
+- [ ] [<code>incus/file: Improve error messages</code>](https://github.com/lxc/incus/commit/504509a62903ad62b169baf55b3de347e6a277af)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/00ce84eda238aa8b8acd9d8db0064aef2525c277)
+- [ ] [<code>doc/network/firewall: Remove warning against IP forward and Docker</code>](https://github.com/lxc/incus/commit/0df2fa35d6ced574f125508e150a994d08262e0d)
+- [ ] [<code>incusd/storage: Generate a clean backup.yaml after a backup is generated</code>](https://github.com/lxc/incus/commit/5f6dbf60ecb09b93b4d5a9d22e6c18956334758e)
+- [ ] [<code>incusd/api_buckets: Provide fastpath for miniod access</code>](https://github.com/lxc/incus/commit/d6186d09f0582ddf8781dcb4aa7974d938baba46)
+- [ ] [<code>incusd: Move ReverseDNS to util</code>](https://github.com/lxc/incus/commit/aa51fa0454a84763f67f09f7f0a64c112f8601ec)
+- [ ] [<code>incusd/network/ovn: Set PTR records</code>](https://github.com/lxc/incus/commit/464b42317487cf29ccba968006b13f3fd6b8337b)
+- [ ] [<code>doc/openfga: Clarify required config keys</code>](https://github.com/lxc/incus/commit/e6b52d69da5874df060d1f49c1c7ca14968b4736)
+- [ ] [<code>incusd/storage/linstor: Disable volume copie with snapshots</code>](https://github.com/lxc/incus/commit/572dad5f8e3e7049be71130d963b24f4b733c7f4)
+- [ ] [<code>tests: Update tests for Linstor limitation</code>](https://github.com/lxc/incus/commit/2fdbdd7a72cf346bde37e09a0542f3c88e0cc71e)
+- [ ] [<code>Release Incus 6.20</code>](https://github.com/lxc/incus/commit/7e6d27123ebaa4bf9bff4d9fc30c11d9206feb83)
+  - <sub>Tags: <code>v6.20.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -7605,6 +7635,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: prepare version number and changelogs for v2.0.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bb7ea76db16153a4e91cd2c289d6c604213f06f0)
 - [ ] [<code>fix(android): foreground service only binds on first autoconnect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d089e9425334fa4e52b9641c93c0db3f1b266ee6)
 - [ ] [<code>fix(gui): missing icon on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62476603bfc3bc0867e278719127ac0d85944275)
+  - <sub>Tags: <code>v2.0.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
