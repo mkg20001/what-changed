@@ -279,7 +279,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 - [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
+- [ ] [<code>build: (deps): bump image from 4.6.0 to 4.7.1</code>](https://github.com/krille-chan/fluffychat/commit/a4c35e1ec6faaf3c2214d131b1d03753dd212c3e)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
+- [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -454,7 +456,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 - [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
+- [ ] [<code>build: (deps): bump image from 4.6.0 to 4.7.1</code>](https://github.com/krille-chan/fluffychat/commit/a4c35e1ec6faaf3c2214d131b1d03753dd212c3e)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
+- [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
