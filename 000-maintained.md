@@ -7636,6 +7636,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(android): foreground service only binds on first autoconnect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d089e9425334fa4e52b9641c93c0db3f1b266ee6)
 - [ ] [<code>fix(gui): missing icon on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62476603bfc3bc0867e278719127ac0d85944275)
   - <sub>Tags: <code>v2.0.0</code></sub>
+- [ ] [<code>build: fix locale file timestamps affecting reproducible builds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/84ed71d05266aa063ebccf21245959c981b90fc8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
