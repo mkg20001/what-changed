@@ -282,6 +282,8 @@
 - [ ] [<code>build: (deps): bump image from 4.6.0 to 4.7.1</code>](https://github.com/krille-chan/fluffychat/commit/a4c35e1ec6faaf3c2214d131b1d03753dd212c3e)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
 - [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
+- [ ] [<code>build: Use matrix sdk vom pub.dev again</code>](https://github.com/krille-chan/fluffychat/commit/6d5383453c5d14878c378d4a6f7a318d7c6dde36)
+- [ ] [<code>chore: Follow up better search</code>](https://github.com/krille-chan/fluffychat/commit/043189cb477fc3be513b29eed8942022c5fae3ec)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -459,6 +461,8 @@
 - [ ] [<code>build: (deps): bump image from 4.6.0 to 4.7.1</code>](https://github.com/krille-chan/fluffychat/commit/a4c35e1ec6faaf3c2214d131b1d03753dd212c3e)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
 - [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
+- [ ] [<code>build: Use matrix sdk vom pub.dev again</code>](https://github.com/krille-chan/fluffychat/commit/6d5383453c5d14878c378d4a6f7a318d7c6dde36)
+- [ ] [<code>chore: Follow up better search</code>](https://github.com/krille-chan/fluffychat/commit/043189cb477fc3be513b29eed8942022c5fae3ec)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -483,6 +487,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.20.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.20.0...HEAD)
 
+- [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4651,6 +4656,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests: Update tests for Linstor limitation</code>](https://github.com/lxc/incus/commit/2fdbdd7a72cf346bde37e09a0542f3c88e0cc71e)
 - [ ] [<code>Release Incus 6.20</code>](https://github.com/lxc/incus/commit/7e6d27123ebaa4bf9bff4d9fc30c11d9206feb83)
   - <sub>Tags: <code>v6.20.0</code></sub>
+- [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
