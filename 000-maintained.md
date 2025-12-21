@@ -68,6 +68,7 @@
 - [ ] [<code>sources: Tweak HTTP client to be more compatible</code>](https://github.com/lxc/distrobuilder/commit/27e9ba9b4ea447a14baa505846c768fa81037d04)
 - [ ] [<code>sources: Update the tests for HTTP client</code>](https://github.com/lxc/distrobuilder/commit/deed5039462e28f5848ad1f6d5d2f04e91330f55)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/5f0ce558e6392b4347eff261361e2b009c5f46c4)
+- [ ] [<code>Remove deprecated 22.03 architecture path and filename logic </code>](https://github.com/lxc/distrobuilder/commit/de6955faf5544c4512fab85c1d8024c4c3f0e46a)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -488,6 +489,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.20.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.20.0...HEAD)
 
 - [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
+- [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4657,6 +4659,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Release Incus 6.20</code>](https://github.com/lxc/incus/commit/7e6d27123ebaa4bf9bff4d9fc30c11d9206feb83)
   - <sub>Tags: <code>v6.20.0</code></sub>
 - [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
+- [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
