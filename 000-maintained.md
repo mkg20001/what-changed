@@ -5213,6 +5213,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.6.7 to 5.7.0 in /src/go (#21490)</code>](https://github.com/netdata/netdata.git/commit/7c8fb5b968130280348a0e3013ec58484af18b5e)
 - [ ] [<code>fix(netdata-updater): fix major version detection for native packages (#21485)</code>](https://github.com/netdata/netdata.git/commit/dfd6a9ce5e6c0d6f6b03c8c5e6cf34990733cf95)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-148-nightly.</code>](https://github.com/netdata/netdata.git/commit/f218efe16fbdfddafbe7a7d6bbd0546acb325a78)
+- [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.2.0 to 5.2.1 in /src/go (#21497)</code>](https://github.com/netdata/netdata.git/commit/3c480555da1f730ad365af4f2cc0a45b5566daa1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7553,6 +7554,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gui): missing icon on windows</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62476603bfc3bc0867e278719127ac0d85944275)
   - <sub>Tags: <code>v2.0.0</code></sub>
 - [ ] [<code>build: fix locale file timestamps affecting reproducible builds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/84ed71d05266aa063ebccf21245959c981b90fc8)
+- [ ] [<code>build(android): build apks for different abis separately</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a865032113100f10725b0fca45cd5d6e14c486e)
+  - <sub>Keywords: <code>bin</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>fix(lib): review a3936 state update packet and fix mistakes</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86ecd5bd93be7e46d47d08d58048ad482710a168)
+- [ ] [<code>feat(lib): add sound_modes_v2 (wip)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/66d6eb1119456540d03cece70f77f8448c594772)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(lib): a3936 sound modes make invalid state transitions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2880266fd56f5976d649a87ccf5137548db5d450)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): a3936 missing game mode button action</code>](https://github.com/Oppzippy/OpenSCQ30/commit/97618b46ad4b477fe394bb3aaff13520883fb997)
+- [ ] [<code>fix(lib): a3936 manual and adaptive noise canceling values swapped</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e2bfb8dd441c14a4ca6d3cd56f3383c954368329)
+- [ ] [<code>test(lib): add a3936 parses settings correctly test</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5c9b3aa20e601dbd9f6f30fa36403d4f9cb2f32a)
+- [ ] [<code>perf(lib): improve migration planner optimization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7599557db739322cf41c3982df50343dc805d4f7)
+- [ ] [<code>style: run formatter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f1644ac7f34bc85fea439c63d314645318a220b)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/880276e3cf18f89505d69f6195e52deda9aec90b)
+- [ ] [<code>ci: build for arm64 linux</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fa614379e5b41f852ac05cfcb3ade6a753b1a5f7)
+- [ ] [<code>build: fix set-version script setting wrong android version code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6afa2a9414e1cd43a2ffe8dc4864f1045d015676)
+- [ ] [<code>build: v2.0.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d26856d8dae6ee17d279212e01e0eef137cfabec)
+  - <sub>Tags: <code>v2.0.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
