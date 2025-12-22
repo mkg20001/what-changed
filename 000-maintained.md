@@ -20,7 +20,7 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-linux.gtk.x86_64-nojdk.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.0/dbeaver-ce-25.3.0-linux.gtk.x86_64-nojdk.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -69,6 +69,7 @@
 - [ ] [<code>sources: Update the tests for HTTP client</code>](https://github.com/lxc/distrobuilder/commit/deed5039462e28f5848ad1f6d5d2f04e91330f55)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/5f0ce558e6392b4347eff261361e2b009c5f46c4)
 - [ ] [<code>Remove deprecated 22.03 architecture path and filename logic </code>](https://github.com/lxc/distrobuilder/commit/de6955faf5544c4512fab85c1d8024c4c3f0e46a)
+- [ ] [<code>Update OpenWRT config to build also release candidates</code>](https://github.com/lxc/distrobuilder/commit/194b0f40afcced221a35edb72ce8f51db2fa5ade)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -490,6 +491,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
 - [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
+- [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4660,6 +4662,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v6.20.0</code></sub>
 - [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
 - [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
+- [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4794,6 +4797,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Clean CI on windows (#2938)</code>](https://github.com/AOMediaCodec/libavif/commit/b23884d9090960456c0b724560313686ef207ec6)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Copy Exif/XMP/ICC when splitting into grid (#2940)</code>](https://github.com/AOMediaCodec/libavif/commit/42d89dc530695ecf8952f1d35a36a5dd7c41a2c0)
+- [ ] [<code>Skip XMP items in avifEncoderDecodeSatoBaseImage() (#2943)</code>](https://github.com/AOMediaCodec/libavif/commit/905f3915b6b2cf47066ef526f191489b22574519)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5214,6 +5218,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(netdata-updater): fix major version detection for native packages (#21485)</code>](https://github.com/netdata/netdata.git/commit/dfd6a9ce5e6c0d6f6b03c8c5e6cf34990733cf95)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-148-nightly.</code>](https://github.com/netdata/netdata.git/commit/f218efe16fbdfddafbe7a7d6bbd0546acb325a78)
 - [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.2.0 to 5.2.1 in /src/go (#21497)</code>](https://github.com/netdata/netdata.git/commit/3c480555da1f730ad365af4f2cc0a45b5566daa1)
+- [ ] [<code>docs(go.d/prometheus): cleanup metadata.yaml (#21498)</code>](https://github.com/netdata/netdata.git/commit/7a048156ae932045dac9522eacc5c777f844afba)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21499)</code>](https://github.com/netdata/netdata.git/commit/4106b76f1633b62d41690fcdc9c1798b1323093f)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Add AI-Powered Alert Configuration docs entry (#21482)</code>](https://github.com/netdata/netdata.git/commit/319d611bc59eb913f0bf4cee405d29c07551d3be)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
