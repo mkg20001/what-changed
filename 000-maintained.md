@@ -5223,6 +5223,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21499)</code>](https://github.com/netdata/netdata.git/commit/4106b76f1633b62d41690fcdc9c1798b1323093f)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Add AI-Powered Alert Configuration docs entry (#21482)</code>](https://github.com/netdata/netdata.git/commit/319d611bc59eb913f0bf4cee405d29c07551d3be)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-153-nightly.</code>](https://github.com/netdata/netdata.git/commit/e5d3cbc3b743ce779889347da9616d9624945b7c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
