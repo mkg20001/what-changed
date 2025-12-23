@@ -21,7 +21,9 @@
 - [ ] [<code>menu applet: Fix screen-reader/Atk support.</code>](https://github.com/linuxmint/cinnamon/commit/c206d9d4e3b040882424a46a352589f4a7b36bc9)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>main.js: Fix error during expo view - 'action is not defined'.</code>](https://github.com/linuxmint/cinnamon/commit/f79202f29e0c0bf3d3f56f353a2a483ce55d3abb)
+- [ ] [<code>cs_nightlight.py: Increase possible color temp range.</code>](https://github.com/linuxmint/cinnamon/commit/a4bbc982a5d822429b4fec7490c645e11a2e07b4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
