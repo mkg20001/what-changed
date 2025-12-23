@@ -286,6 +286,10 @@
 - [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
 - [ ] [<code>build: Use matrix sdk vom pub.dev again</code>](https://github.com/krille-chan/fluffychat/commit/6d5383453c5d14878c378d4a6f7a318d7c6dde36)
 - [ ] [<code>chore: Follow up better search</code>](https://github.com/krille-chan/fluffychat/commit/043189cb477fc3be513b29eed8942022c5fae3ec)
+- [ ] [<code>build: (deps): bump image from 4.7.1 to 4.7.2</code>](https://github.com/krille-chan/fluffychat/commit/59d1e51b8d2b8b91ce5158343f851a340af8a96f)
+- [ ] [<code>chore: Make cross signing self sign mandatory for bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/81eb4a01a1799ec7b0d51008777c3008b1e216a8)
+- [ ] [<code>chore: Update user device keys before creating bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/5c5511b5ca3812dc6825893d40d95091febe71f7)
+- [ ] [<code>fix: Better wait for secrets after verification bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/040c18d80fec095a4c6ea715a4e876a51e7332ba)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -465,6 +469,10 @@
 - [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
 - [ ] [<code>build: Use matrix sdk vom pub.dev again</code>](https://github.com/krille-chan/fluffychat/commit/6d5383453c5d14878c378d4a6f7a318d7c6dde36)
 - [ ] [<code>chore: Follow up better search</code>](https://github.com/krille-chan/fluffychat/commit/043189cb477fc3be513b29eed8942022c5fae3ec)
+- [ ] [<code>build: (deps): bump image from 4.7.1 to 4.7.2</code>](https://github.com/krille-chan/fluffychat/commit/59d1e51b8d2b8b91ce5158343f851a340af8a96f)
+- [ ] [<code>chore: Make cross signing self sign mandatory for bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/81eb4a01a1799ec7b0d51008777c3008b1e216a8)
+- [ ] [<code>chore: Update user device keys before creating bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/5c5511b5ca3812dc6825893d40d95091febe71f7)
+- [ ] [<code>fix: Better wait for secrets after verification bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/040c18d80fec095a4c6ea715a4e876a51e7332ba)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -492,6 +500,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
 - [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
 - [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
+- [ ] [<code>cmd/incus-user: Don't reset setup if user has access</code>](https://github.com/lxc/incus/commit/eb0b2f5d9b35ecf90d09d63854e80ea8602744a7)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4663,6 +4672,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
 - [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
 - [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
+- [ ] [<code>cmd/incus-user: Don't reset setup if user has access</code>](https://github.com/lxc/incus/commit/eb0b2f5d9b35ecf90d09d63854e80ea8602744a7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -4974,6 +4984,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>start: Remove outdated comment about group dropping</code>](https://github.com/lxc/lxc/commit/e6ad17a796ae056337744980fb0719607a6be985)
 - [ ] [<code>start: Respect lxc.init.groups also in new user namespace</code>](https://github.com/lxc/lxc/commit/9e6caeabec77471c46a629ad5a5a6586ff31e9ce)
 - [ ] [<code>copy_rdepends: Don't fail on missing source file</code>](https://github.com/lxc/lxc/commit/49c34b1bcd72c602953ab9c4cb60bc4f2ebcf653)
+- [ ] [<code>cgfsng: fix reboots when using dbus</code>](https://github.com/lxc/lxc/commit/0f5852edfad06fe4e9f00aaddd3d93576269729e)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -7584,6 +7595,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): remove to/from u8 requirement for derive(MigrationSteps)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d35ee7b26395413b591ddcc04ed40096374e2ed1)
 - [ ] [<code>refactor(lib): replace #[migration] with #[requirement]</code>](https://github.com/Oppzippy/OpenSCQ30/commit/76ad3b86685b8e7bebb106d9e6725e08cb5a4d06)
 - [ ] [<code>perf(lib): fix sound_modes_v2 poor optimization function ordering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/508b75d17d6737623c0ba003b3815053ed0b2464)
+- [ ] [<code>fix(cli): skip settings that are unavailable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dc2bc5b1bc8b5dbd8acaebe4b022ebd7f90421f7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7797,3 +7809,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.6 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.6...HEAD)
 
+- [ ] [<code>Add xsi-applications-wine</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/079a09439304149e8fd7bfea02beb8355290f273)
+- [ ] [<code>1.0.7</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/6f38500deb06df0f851001d12e55accdb86d1fb7)
+  - <sub>Tags: <code>1.0.7</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
