@@ -7581,6 +7581,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: fix set-version script setting wrong android version code</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6afa2a9414e1cd43a2ffe8dc4864f1045d015676)
 - [ ] [<code>build: v2.0.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d26856d8dae6ee17d279212e01e0eef137cfabec)
   - <sub>Tags: <code>v2.0.1</code></sub>
+- [ ] [<code>refactor(lib): remove to/from u8 requirement for derive(MigrationSteps)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d35ee7b26395413b591ddcc04ed40096374e2ed1)
+- [ ] [<code>refactor(lib): replace #[migration] with #[requirement]</code>](https://github.com/Oppzippy/OpenSCQ30/commit/76ad3b86685b8e7bebb106d9e6725e08cb5a4d06)
+- [ ] [<code>perf(lib): fix sound_modes_v2 poor optimization function ordering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/508b75d17d6737623c0ba003b3815053ed0b2464)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
