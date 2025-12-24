@@ -290,6 +290,8 @@
 - [ ] [<code>chore: Make cross signing self sign mandatory for bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/81eb4a01a1799ec7b0d51008777c3008b1e216a8)
 - [ ] [<code>chore: Update user device keys before creating bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/5c5511b5ca3812dc6825893d40d95091febe71f7)
 - [ ] [<code>fix: Better wait for secrets after verification bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/040c18d80fec095a4c6ea715a4e876a51e7332ba)
+- [ ] [<code>refactor: Remove native imaging and enable web worker</code>](https://github.com/krille-chan/fluffychat/commit/70d2a81fee552a4ef0a499e1c6fab9bc808720c4)
+- [ ] [<code>refactor: Remove unused html onfocus streams</code>](https://github.com/krille-chan/fluffychat/commit/7aedd784296e6e092ab74e10336e4f62d86cfc40)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -473,6 +475,8 @@
 - [ ] [<code>chore: Make cross signing self sign mandatory for bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/81eb4a01a1799ec7b0d51008777c3008b1e216a8)
 - [ ] [<code>chore: Update user device keys before creating bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/5c5511b5ca3812dc6825893d40d95091febe71f7)
 - [ ] [<code>fix: Better wait for secrets after verification bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/040c18d80fec095a4c6ea715a4e876a51e7332ba)
+- [ ] [<code>refactor: Remove native imaging and enable web worker</code>](https://github.com/krille-chan/fluffychat/commit/70d2a81fee552a4ef0a499e1c6fab9bc808720c4)
+- [ ] [<code>refactor: Remove unused html onfocus streams</code>](https://github.com/krille-chan/fluffychat/commit/7aedd784296e6e092ab74e10336e4f62d86cfc40)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
