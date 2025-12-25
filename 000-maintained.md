@@ -7607,6 +7607,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/94e35962e3457d9629a061c408ac77f422b46395)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(lib): add test for a3936 serial number and firmware version</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9a970c6d1ad1f284831be77b4167900a4fc3a505)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3117c447799a0e0a8b0ba144845613ded3f29346)
+- [ ] [<code>fix(android): missing page transitions when pairing device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/caa4258cac06baa133ad07e9592bee879a44df2b)
+- [ ] [<code>refactor: add workspace library crates to workspace dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82fb43abb91ad1d5b1c82573df5098a9cc092dc3)
+- [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20fd39de34fa5674fcbafad85cf25e5a8b7ee0ee)
+- [ ] [<code>deps: update cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cbf1c5247c12bd0a6e1e85acb68d631f8bfeade7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
