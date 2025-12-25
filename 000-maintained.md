@@ -7600,6 +7600,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(lib): replace #[migration] with #[requirement]</code>](https://github.com/Oppzippy/OpenSCQ30/commit/76ad3b86685b8e7bebb106d9e6725e08cb5a4d06)
 - [ ] [<code>perf(lib): fix sound_modes_v2 poor optimization function ordering</code>](https://github.com/Oppzippy/OpenSCQ30/commit/508b75d17d6737623c0ba003b3815053ed0b2464)
 - [ ] [<code>fix(cli): skip settings that are unavailable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/dc2bc5b1bc8b5dbd8acaebe4b022ebd7f90421f7)
+- [ ] [<code>feat(cli): add list-models subcommand</code>](https://github.com/Oppzippy/OpenSCQ30/commit/069185d1cad00b4b2c4ed9a9cf3ccee01d7b1ac8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): list-settings --no-categories inverted with --json</code>](https://github.com/Oppzippy/OpenSCQ30/commit/316ee21a6d7bc2590228858c8178d8b6526195ce)
+- [ ] [<code>feat(cli): improve help text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d943d26497ed2e1ef3e92f25b3e1b655b1cf4784)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/94e35962e3457d9629a061c408ac77f422b46395)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
