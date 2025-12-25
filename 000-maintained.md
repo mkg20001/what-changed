@@ -281,6 +281,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 - [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
+- [ ] [<code>build: Reenable shrink resources and minify in gradle</code>](https://github.com/krille-chan/fluffychat/commit/00582c8e7998239508c29f4583f441ed31b036cd)
 - [ ] [<code>build: (deps): bump image from 4.6.0 to 4.7.1</code>](https://github.com/krille-chan/fluffychat/commit/a4c35e1ec6faaf3c2214d131b1d03753dd212c3e)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
 - [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
@@ -292,6 +293,7 @@
 - [ ] [<code>fix: Better wait for secrets after verification bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/040c18d80fec095a4c6ea715a4e876a51e7332ba)
 - [ ] [<code>refactor: Remove native imaging and enable web worker</code>](https://github.com/krille-chan/fluffychat/commit/70d2a81fee552a4ef0a499e1c6fab9bc808720c4)
 - [ ] [<code>refactor: Remove unused html onfocus streams</code>](https://github.com/krille-chan/fluffychat/commit/7aedd784296e6e092ab74e10336e4f62d86cfc40)
+- [ ] [<code>build: (deps): bump flutter_foreground_task from 9.1.0 to 9.2.0</code>](https://github.com/krille-chan/fluffychat/commit/dd8604adbe7715b4912bb577ca1886f7bfca4920)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -466,6 +468,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/01b466b826df70fc3e9caf2f7d8522a67cd5e6ed)
 - [ ] [<code>fix: spoiler formatting in reply</code>](https://github.com/krille-chan/fluffychat/commit/1db0ecc5d4901f69e5c15fe58ab8d3f02ad888d9)
+- [ ] [<code>build: Reenable shrink resources and minify in gradle</code>](https://github.com/krille-chan/fluffychat/commit/00582c8e7998239508c29f4583f441ed31b036cd)
 - [ ] [<code>build: (deps): bump image from 4.6.0 to 4.7.1</code>](https://github.com/krille-chan/fluffychat/commit/a4c35e1ec6faaf3c2214d131b1d03753dd212c3e)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.7 to 10.3.8</code>](https://github.com/krille-chan/fluffychat/commit/6af0562c9908f521f4d632f043e6b7e4523e2486)
 - [ ] [<code>feat: Improved search</code>](https://github.com/krille-chan/fluffychat/commit/fa012027e3130a16c73a2803258eff8278fe03a0)
@@ -477,6 +480,7 @@
 - [ ] [<code>fix: Better wait for secrets after verification bootstrap</code>](https://github.com/krille-chan/fluffychat/commit/040c18d80fec095a4c6ea715a4e876a51e7332ba)
 - [ ] [<code>refactor: Remove native imaging and enable web worker</code>](https://github.com/krille-chan/fluffychat/commit/70d2a81fee552a4ef0a499e1c6fab9bc808720c4)
 - [ ] [<code>refactor: Remove unused html onfocus streams</code>](https://github.com/krille-chan/fluffychat/commit/7aedd784296e6e092ab74e10336e4f62d86cfc40)
+- [ ] [<code>build: (deps): bump flutter_foreground_task from 9.1.0 to 9.2.0</code>](https://github.com/krille-chan/fluffychat/commit/dd8604adbe7715b4912bb577ca1886f7bfca4920)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -505,6 +509,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
 - [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
 - [ ] [<code>cmd/incus-user: Don't reset setup if user has access</code>](https://github.com/lxc/incus/commit/eb0b2f5d9b35ecf90d09d63854e80ea8602744a7)
+- [ ] [<code>api: oidc_allowed_subnets</code>](https://github.com/lxc/incus/commit/705214e0a46f162a41e23561817e8ee7a8540e0e)
+- [ ] [<code>incusd/auth/oidc: Introduce incus.restricted_subnets</code>](https://github.com/lxc/incus/commit/4d28a1ee5aeed801c2bf83432dd79ec75d3409fe)
+- [ ] [<code>doc/authentication: Mentioned incus.allowed_subnets claim</code>](https://github.com/lxc/incus/commit/44369a0cddb65385986cbd80b7bf32cc5158cded)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4677,6 +4684,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
 - [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
 - [ ] [<code>cmd/incus-user: Don't reset setup if user has access</code>](https://github.com/lxc/incus/commit/eb0b2f5d9b35ecf90d09d63854e80ea8602744a7)
+- [ ] [<code>api: oidc_allowed_subnets</code>](https://github.com/lxc/incus/commit/705214e0a46f162a41e23561817e8ee7a8540e0e)
+- [ ] [<code>incusd/auth/oidc: Introduce incus.restricted_subnets</code>](https://github.com/lxc/incus/commit/4d28a1ee5aeed801c2bf83432dd79ec75d3409fe)
+- [ ] [<code>doc/authentication: Mentioned incus.allowed_subnets claim</code>](https://github.com/lxc/incus/commit/44369a0cddb65385986cbd80b7bf32cc5158cded)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -7824,9 +7834,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.6 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.6...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.7 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.7...HEAD)
 
-- [ ] [<code>Add xsi-applications-wine</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/079a09439304149e8fd7bfea02beb8355290f273)
-- [ ] [<code>1.0.7</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/6f38500deb06df0f851001d12e55accdb86d1fb7)
-  - <sub>Tags: <code>1.0.7</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
