@@ -4999,6 +4999,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>start: Respect lxc.init.groups also in new user namespace</code>](https://github.com/lxc/lxc/commit/9e6caeabec77471c46a629ad5a5a6586ff31e9ce)
 - [ ] [<code>copy_rdepends: Don't fail on missing source file</code>](https://github.com/lxc/lxc/commit/49c34b1bcd72c602953ab9c4cb60bc4f2ebcf653)
 - [ ] [<code>cgfsng: fix reboots when using dbus</code>](https://github.com/lxc/lxc/commit/0f5852edfad06fe4e9f00aaddd3d93576269729e)
+- [ ] [<code>Improve the dbus scope creation error handling</code>](https://github.com/lxc/lxc/commit/6a5550ec2263d1b3c1f809e88fbf00d5fb73fad2)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
