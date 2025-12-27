@@ -512,6 +512,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: oidc_allowed_subnets</code>](https://github.com/lxc/incus/commit/705214e0a46f162a41e23561817e8ee7a8540e0e)
 - [ ] [<code>incusd/auth/oidc: Introduce incus.restricted_subnets</code>](https://github.com/lxc/incus/commit/4d28a1ee5aeed801c2bf83432dd79ec75d3409fe)
 - [ ] [<code>doc/authentication: Mentioned incus.allowed_subnets claim</code>](https://github.com/lxc/incus/commit/44369a0cddb65385986cbd80b7bf32cc5158cded)
+- [ ] [<code>internal/instance: Tweak handling of boot.autostart</code>](https://github.com/lxc/incus/commit/81399c2731b52dcce62bedf5b2079078acca7792)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8d6d705ee4944292f27260f82a0d18bcd38dcf62)
+- [ ] [<code>incusd/instances: Support last-state value for boot.autostart</code>](https://github.com/lxc/incus/commit/eee18e103e66566addf28f034c5433233a8b6c67)
+- [ ] [<code>incusd/network/physical: Allow parent re-use for bridges</code>](https://github.com/lxc/incus/commit/f95e2af5b76c91caa20c2ecef85df9ff6074d70e)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4687,6 +4691,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: oidc_allowed_subnets</code>](https://github.com/lxc/incus/commit/705214e0a46f162a41e23561817e8ee7a8540e0e)
 - [ ] [<code>incusd/auth/oidc: Introduce incus.restricted_subnets</code>](https://github.com/lxc/incus/commit/4d28a1ee5aeed801c2bf83432dd79ec75d3409fe)
 - [ ] [<code>doc/authentication: Mentioned incus.allowed_subnets claim</code>](https://github.com/lxc/incus/commit/44369a0cddb65385986cbd80b7bf32cc5158cded)
+- [ ] [<code>internal/instance: Tweak handling of boot.autostart</code>](https://github.com/lxc/incus/commit/81399c2731b52dcce62bedf5b2079078acca7792)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8d6d705ee4944292f27260f82a0d18bcd38dcf62)
+- [ ] [<code>incusd/instances: Support last-state value for boot.autostart</code>](https://github.com/lxc/incus/commit/eee18e103e66566addf28f034c5433233a8b6c67)
+- [ ] [<code>incusd/network/physical: Allow parent re-use for bridges</code>](https://github.com/lxc/incus/commit/f95e2af5b76c91caa20c2ecef85df9ff6074d70e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.18.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.18.4...HEAD)
 
@@ -5251,6 +5259,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add AI-Powered Alert Configuration docs entry (#21482)</code>](https://github.com/netdata/netdata.git/commit/319d611bc59eb913f0bf4cee405d29c07551d3be)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-153-nightly.</code>](https://github.com/netdata/netdata.git/commit/e5d3cbc3b743ce779889347da9616d9624945b7c)
 - [ ] [<code>fix(go.d/vnodes): add additionalProperties to config_schema.json (#21503)</code>](https://github.com/netdata/netdata.git/commit/22ab245325a93584a297ca30dd386483fa0ab3d8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/4ca9ecef5ad663494f2876642fd1b66eaef59b25)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
