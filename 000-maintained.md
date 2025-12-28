@@ -5289,6 +5289,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(go.d/vnodes): add additionalProperties to config_schema.json (#21503)</code>](https://github.com/netdata/netdata.git/commit/22ab245325a93584a297ca30dd386483fa0ab3d8)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/4ca9ecef5ad663494f2876642fd1b66eaef59b25)
 - [ ] [<code>fix(edit-config): ignore container variable inherited from /etc/profile (#21505)</code>](https://github.com/netdata/netdata.git/commit/17bfcfeb3640f74fdc6bc98b9aeda2f504d452fd)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-157-nightly.</code>](https://github.com/netdata/netdata.git/commit/3926e321bc1a28c0beef82fe3c2d3cf8011d714e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7663,6 +7664,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor: add workspace library crates to workspace dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82fb43abb91ad1d5b1c82573df5098a9cc092dc3)
 - [ ] [<code>refactor(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20fd39de34fa5674fcbafad85cf25e5a8b7ee0ee)
 - [ ] [<code>deps: update cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cbf1c5247c12bd0a6e1e85acb68d631f8bfeade7)
+- [ ] [<code>ci: use just from github releases until snap is updated to v1.45.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c685fc7af2f64a65e7e66275ec0ef0f1aae6398d)
+- [ ] [<code>build: provide stable commands for building</code>](https://github.com/Oppzippy/OpenSCQ30/commit/725d98227190e36e4a45ea0512a8a67429b200e4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>build: validate log level in justfile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1cf201a4d2f1edc623e445218d91b537201727d8)
+- [ ] [<code>build: use just for building windows installer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9717d80de7cb21902b52fdd45916ed5617b9c844)
+- [ ] [<code>build: innosetup ArchitecturesAllowed=x64 deprecated</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bcdcc1c43319316cc904ebe28fb9d2e5d6a91d15)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c082084e080815c1a8f8a635465cfa077f7b0178)
+- [ ] [<code>docs: update build instructions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0a2bc4ea58412c73c1c288e68e1d40fc80de5924)
+- [ ] [<code>docs: mark soundcore-device-faker as recommended</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d6add679a91c9b983037b62d6f803c57a25e9256)
+- [ ] [<code>build: v2.1.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b303b027d34894ed7e2135622e258b3e58e4a6f4)
+- [ ] [<code>build: consistently exclude platform from file name, and add it in ci</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1dda2b8f8d89e918e5d861851b794b98091854d)
+  - <sub>Tags: <code>v2.1.0</code></sub>
+- [ ] [<code>build: fix universal apk missing -universal suffix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/40ffb2b59680fb59ef3a7f9783ecb3b0505b7370)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7724,6 +7738,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>raft.h: Fix raft_step() docstring</code>](https://github.com/cowsql/raft/commit/7d64f181a2318a92737004204007c048bc429a94)
 - [ ] [<code>lint: Run clang against unformatted files</code>](https://github.com/cowsql/raft/commit/0bd5a267c4188405f58775fd1231bdd5e49cc078)
 - [ ] [<code>Fix raft_step() docstring (#198)</code>](https://github.com/cowsql/raft/commit/dbdbfa3eef2250050310160134aabe69054deb42)
+- [ ] [<code>documented memory ownership of the raft_event structure passed to raft_step</code>](https://github.com/cowsql/raft/commit/6bb12a07a7e2cbab572511772d1eb3cd902d7ed0)
 - [ ] [<code>github: Bump to Ubuntu 24.04 for Incus downstream tests</code>](https://github.com/cowsql/raft/commit/a3fe2df0a2b3cc3437e5792d817fad27f0a9d644)
 - [ ] [<code>github: Update Incus downstream action to match upstream</code>](https://github.com/cowsql/raft/commit/613f280925865214e4bc513af309cd326819be4d)
 - [ ] [<code>github: Add container, network and storage Incus test targets</code>](https://github.com/cowsql/raft/commit/e5949e345914799ca462f3f63df54d4a10af7c33)
@@ -7731,17 +7746,21 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>step: Improve memory ownership of RAFT_START configuration</code>](https://github.com/cowsql/raft/commit/bc17d89cafc433a69e54f412a0b8c095b4e0180d)
 - [ ] [<code>step: Improve memory ownership of RAFT_START entries</code>](https://github.com/cowsql/raft/commit/7377b75917349fcbcbc13307646f29b1e58d6f6b)
 - [ ] [<code>v1: RAFT_START memory ownership cleanups (#200)</code>](https://github.com/cowsql/raft/commit/47f18054186c596e133b4dfa84d1320978bdb86f)
+- [ ] [<code>changed memory ownership documentation for RAFT_START event</code>](https://github.com/cowsql/raft/commit/dff384e90d2064f137b3e1697a9ce6964df2be17)
 - [ ] [<code>recv: Assert that all entries are in the same batch</code>](https://github.com/cowsql/raft/commit/19dcaac9c5981563215ecdde3a71e6b2ea3edeea)
+- [ ] [<code>updated documentation about RAFT_START and RAFT_RECEIVE</code>](https://github.com/cowsql/raft/commit/4d49611f29a7c80b11a45b44bf98374829821765)
 - [ ] [<code>recv: Don't destroy received entries in case of error</code>](https://github.com/cowsql/raft/commit/d9ad91a99600a065cb698c78e55d299ee7f78d81)
 - [ ] [<code>v1: Cleanup RAFT_RECEIVE memory ownership</code>](https://github.com/cowsql/raft/commit/bdb3167c2d6b8857b300ce4abc44afbc5156ded8)
 - [ ] [<code>v1: Memory ownership of RAFT_INSTALL_SNAPSHOT messages</code>](https://github.com/cowsql/raft/commit/2ee8f4d405722ac35bd870f62e614bacbca2ed5c)
 - [ ] [<code>v1: Cleanup memory ownership of RAFT_RECEIVE event (#202)</code>](https://github.com/cowsql/raft/commit/8f530666ac90645e45a031943e0fc2d2ebb04ec8)
+- [ ] [<code>changed documentation for RECEIVE</code>](https://github.com/cowsql/raft/commit/aee66da809dd39f6590c9dc1e2cd605c35c91203)
 - [ ] [<code>docs: Add memory ownership info for RAFT_START and RAFT_RECEIVE</code>](https://github.com/cowsql/raft/commit/1ee301872030cf37320ed5ce62d19fffbf1cdae0)
 - [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT event</code>](https://github.com/cowsql/raft/commit/1706aa1d7ea64884c1516185015f9e717dec1b68)
 - [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT event (#203)</code>](https://github.com/cowsql/raft/commit/4bdff220b5eb9521af32b866495c580f7c4ae3b0)
 - [ ] [<code>v1: Memory ownership of the RAFT_SNAPSHOT event</code>](https://github.com/cowsql/raft/commit/fd02017e842fca19333dfb2604f5422b3049cbbd)
 - [ ] [<code>v1: Memory ownership of RAFT_CONFIGURATION event</code>](https://github.com/cowsql/raft/commit/f9e37bc39879afe9ceba1825d9e3c1052b843c36)
 - [ ] [<code>v1: Memory ownership of RAFT_PERSISTED_SNAPSHOT and RAFT_CONFIGURATION (#204)</code>](https://github.com/cowsql/raft/commit/2d8dfe8d91dc800bf5c5f85c8146f51947d3ca96)
+- [ ] [<code>Document memory ownership of the raft_event structure passed to raft_step (#199)</code>](https://github.com/cowsql/raft/commit/148951f79a1ed529d6f112661a3067494f1a0917)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
