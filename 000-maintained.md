@@ -5290,6 +5290,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/4ca9ecef5ad663494f2876642fd1b66eaef59b25)
 - [ ] [<code>fix(edit-config): ignore container variable inherited from /etc/profile (#21505)</code>](https://github.com/netdata/netdata.git/commit/17bfcfeb3640f74fdc6bc98b9aeda2f504d452fd)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-157-nightly.</code>](https://github.com/netdata/netdata.git/commit/3926e321bc1a28c0beef82fe3c2d3cf8011d714e)
+- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.6 to 5.8.0 in /src/go (#21509)</code>](https://github.com/netdata/netdata.git/commit/3aaf2d38671b996e361f1ee0ba8f7ad12d1fb507)
+- [ ] [<code>chore(go.d/pgbouncer): use jackc/pgx/v5 (#21510)</code>](https://github.com/netdata/netdata.git/commit/073d5fd0d2f4e8cbacf05fd61d2e26d2ff4d34bc)
+- [ ] [<code>fix: add procfile parsing for non-seekable files (#21507)</code>](https://github.com/netdata/netdata.git/commit/68079befbf3a1f77becf0ef0ed46abe4dc4365b0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7889,6 +7892,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>nl80211: add module documentation</code>](https://github.com/jow-/ucode/commit/8bbf01215ce30971eb02eee2250d51e422f700e6)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nl80211: add new attribute "mlo_links" for per link information</code>](https://github.com/jow-/ucode/commit/40a6aeb698e157b8d9a4fa0a056ea67af1443ae4)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
