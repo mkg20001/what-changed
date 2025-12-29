@@ -5293,6 +5293,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.7.6 to 5.8.0 in /src/go (#21509)</code>](https://github.com/netdata/netdata.git/commit/3aaf2d38671b996e361f1ee0ba8f7ad12d1fb507)
 - [ ] [<code>chore(go.d/pgbouncer): use jackc/pgx/v5 (#21510)</code>](https://github.com/netdata/netdata.git/commit/073d5fd0d2f4e8cbacf05fd61d2e26d2ff4d34bc)
 - [ ] [<code>fix: add procfile parsing for non-seekable files (#21507)</code>](https://github.com/netdata/netdata.git/commit/68079befbf3a1f77becf0ef0ed46abe4dc4365b0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-161-nightly.</code>](https://github.com/netdata/netdata.git/commit/e9857cfd4224c108a295140472b46ff774f3fbca)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
