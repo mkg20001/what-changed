@@ -308,6 +308,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/45ce31206621630b7121abe0db270b560e8e4abd)
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/cebb652b209e7af724997f1bb35b91cd5b15e132)
 - [ ] [<code>fix: Broken ruzzian plurals</code>](https://github.com/krille-chan/fluffychat/commit/fe8a4f1775da3a8faab94cee35fdd2090a626d7d)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/9563f8097bfa4b80f04c4d2565d28ac87457ac24)
+- [ ] [<code>chore(translations): Translated using Weblate (Bengali)</code>](https://github.com/krille-chan/fluffychat/commit/dadda9b52cb1ce8d6efda25fdfe30d9c5e516198)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/840576bc39bca66ee0b67bafe3c35c0a7b42c57d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -509,6 +513,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/45ce31206621630b7121abe0db270b560e8e4abd)
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/cebb652b209e7af724997f1bb35b91cd5b15e132)
 - [ ] [<code>fix: Broken ruzzian plurals</code>](https://github.com/krille-chan/fluffychat/commit/fe8a4f1775da3a8faab94cee35fdd2090a626d7d)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/9563f8097bfa4b80f04c4d2565d28ac87457ac24)
+- [ ] [<code>chore(translations): Translated using Weblate (Bengali)</code>](https://github.com/krille-chan/fluffychat/commit/dadda9b52cb1ce8d6efda25fdfe30d9c5e516198)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/840576bc39bca66ee0b67bafe3c35c0a7b42c57d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
