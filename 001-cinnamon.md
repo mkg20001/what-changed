@@ -134,7 +134,7 @@
 #### [pix](https://github.com/linuxmint/pix): [3.4.9 → HEAD](https://github.com/linuxmint/pix/compare/3.4.9...HEAD)
 
 
-#### [python312Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.1...HEAD)
+#### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.1...HEAD)
 
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.2 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.2...HEAD)
