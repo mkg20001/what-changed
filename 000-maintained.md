@@ -8173,6 +8173,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: fix universal apk missing -universal suffix</code>](https://github.com/Oppzippy/OpenSCQ30/commit/40ffb2b59680fb59ef3a7f9783ecb3b0505b7370)
 - [ ] [<code>fix(lib): bluetooth adapters other than default ignored on linux</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62ef304e3e7451e71b578ebbc03c7e6223b9d51f)
 - [ ] [<code>fix(gui): metadata related small fix (#203)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/995837368a799031d456a5ff5a58e7b44e13161e)
+- [ ] [<code>feat(lib): add support for a3035</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46c91632ca6086f0c8d694afa6405f48d57d9c58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): clean up hear id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db8ad290352287c0c0b33ddeccee569422b43d99)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
