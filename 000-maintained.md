@@ -312,6 +312,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Bengali)</code>](https://github.com/krille-chan/fluffychat/commit/dadda9b52cb1ce8d6efda25fdfe30d9c5e516198)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/840576bc39bca66ee0b67bafe3c35c0a7b42c57d)
+- [ ] [<code>build: (deps): bump translations_cleaner from 0.0.5 to 0.1.0</code>](https://github.com/krille-chan/fluffychat/commit/87861ac9e23384b6bbb1eb9bf0586d247b797589)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -517,6 +518,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Bengali)</code>](https://github.com/krille-chan/fluffychat/commit/dadda9b52cb1ce8d6efda25fdfe30d9c5e516198)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/840576bc39bca66ee0b67bafe3c35c0a7b42c57d)
+- [ ] [<code>build: (deps): bump translations_cleaner from 0.0.5 to 0.1.0</code>](https://github.com/krille-chan/fluffychat/commit/87861ac9e23384b6bbb1eb9bf0586d247b797589)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4865,6 +4867,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Copy Exif/XMP/ICC when splitting into grid (#2940)</code>](https://github.com/AOMediaCodec/libavif/commit/42d89dc530695ecf8952f1d35a36a5dd7c41a2c0)
 - [ ] [<code>Skip XMP items in avifEncoderDecodeSatoBaseImage() (#2943)</code>](https://github.com/AOMediaCodec/libavif/commit/905f3915b6b2cf47066ef526f191489b22574519)
+- [ ] [<code>Bump github/codeql-action (#2945)</code>](https://github.com/AOMediaCodec/libavif/commit/ae8bf8e5932f5b35b2790fa823e7109aa3dfdf7c)
+- [ ] [<code>Bump dav1d to 1.5.3 (#2946)</code>](https://github.com/AOMediaCodec/libavif/commit/143136e938275bd92c90e5c9837d3fedee556006)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5301,6 +5305,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/pgbouncer): use jackc/pgx/v5 (#21510)</code>](https://github.com/netdata/netdata.git/commit/073d5fd0d2f4e8cbacf05fd61d2e26d2ff4d34bc)
 - [ ] [<code>fix: add procfile parsing for non-seekable files (#21507)</code>](https://github.com/netdata/netdata.git/commit/68079befbf3a1f77becf0ef0ed46abe4dc4365b0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-161-nightly.</code>](https://github.com/netdata/netdata.git/commit/e9857cfd4224c108a295140472b46ff774f3fbca)
+- [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.2.1 to 5.2.2 in /src/go (#21511)</code>](https://github.com/netdata/netdata.git/commit/b4e1e69b261db99eb31cbed87e8e9dfbbfca820b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
