@@ -7693,6 +7693,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(lib): add support for a3035</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46c91632ca6086f0c8d694afa6405f48d57d9c58)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): clean up hear id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db8ad290352287c0c0b33ddeccee569422b43d99)
+- [ ] [<code>fix(lib): a3959 set_wind_noise makes invalid state transition</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11d3f9401e841533e4e91eb26a7c082063c2af49)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
