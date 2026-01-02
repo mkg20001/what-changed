@@ -313,6 +313,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/840576bc39bca66ee0b67bafe3c35c0a7b42c57d)
 - [ ] [<code>build: (deps): bump translations_cleaner from 0.0.5 to 0.1.0</code>](https://github.com/krille-chan/fluffychat/commit/87861ac9e23384b6bbb1eb9bf0586d247b797589)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/61913591e69b21672fdff2f6170c5bea572c2922)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/d67dd0519b8c5696bdce7d2ec5da6ed28fad7b9a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -519,6 +521,8 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (French)</code>](https://github.com/krille-chan/fluffychat/commit/840576bc39bca66ee0b67bafe3c35c0a7b42c57d)
 - [ ] [<code>build: (deps): bump translations_cleaner from 0.0.5 to 0.1.0</code>](https://github.com/krille-chan/fluffychat/commit/87861ac9e23384b6bbb1eb9bf0586d247b797589)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/61913591e69b21672fdff2f6170c5bea572c2922)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/d67dd0519b8c5696bdce7d2ec5da6ed28fad7b9a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
