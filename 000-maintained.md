@@ -5306,6 +5306,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: add procfile parsing for non-seekable files (#21507)</code>](https://github.com/netdata/netdata.git/commit/68079befbf3a1f77becf0ef0ed46abe4dc4365b0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-161-nightly.</code>](https://github.com/netdata/netdata.git/commit/e9857cfd4224c108a295140472b46ff774f3fbca)
 - [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.2.1 to 5.2.2 in /src/go (#21511)</code>](https://github.com/netdata/netdata.git/commit/b4e1e69b261db99eb31cbed87e8e9dfbbfca820b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-163-nightly.</code>](https://github.com/netdata/netdata.git/commit/edfacb13a03519a7110cbe0f93a9cf811dfaf2b0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
