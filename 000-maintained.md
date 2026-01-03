@@ -315,6 +315,8 @@
 - [ ] [<code>build: (deps): bump translations_cleaner from 0.0.5 to 0.1.0</code>](https://github.com/krille-chan/fluffychat/commit/87861ac9e23384b6bbb1eb9bf0586d247b797589)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/61913591e69b21672fdff2f6170c5bea572c2922)
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/d67dd0519b8c5696bdce7d2ec5da6ed28fad7b9a)
+- [ ] [<code>build: Bump version to 2.4.0</code>](https://github.com/krille-chan/fluffychat/commit/6368c46c54bba63afffb5abd7f00358a7137fe82)
+  - <sub>Tags: <code>rc2.4.0-0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -523,6 +525,8 @@
 - [ ] [<code>build: (deps): bump translations_cleaner from 0.0.5 to 0.1.0</code>](https://github.com/krille-chan/fluffychat/commit/87861ac9e23384b6bbb1eb9bf0586d247b797589)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/61913591e69b21672fdff2f6170c5bea572c2922)
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/d67dd0519b8c5696bdce7d2ec5da6ed28fad7b9a)
+- [ ] [<code>build: Bump version to 2.4.0</code>](https://github.com/krille-chan/fluffychat/commit/6368c46c54bba63afffb5abd7f00358a7137fe82)
+  - <sub>Tags: <code>rc2.4.0-0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7716,6 +7720,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(soundcore-device-faker): add a3968</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3900f7a7b6aa85ab674fc99de72039063f44f4bc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: update supported devices list in readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe400c4243545bc711a29317b27925061892e99b)
+- [ ] [<code>feat(lib): add support for soundcore a3955  (#184)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5e2519840f68b73633b183711b0d085a3679244f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: add a3955 to supported device list</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8197cf68d9510d9570d83352ed5207c6bf7b1c8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
