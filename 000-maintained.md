@@ -5311,6 +5311,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-161-nightly.</code>](https://github.com/netdata/netdata.git/commit/e9857cfd4224c108a295140472b46ff774f3fbca)
 - [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.2.1 to 5.2.2 in /src/go (#21511)</code>](https://github.com/netdata/netdata.git/commit/b4e1e69b261db99eb31cbed87e8e9dfbbfca820b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-163-nightly.</code>](https://github.com/netdata/netdata.git/commit/edfacb13a03519a7110cbe0f93a9cf811dfaf2b0)
+- [ ] [<code>Fix race condition during journal file deletion (#21512)</code>](https://github.com/netdata/netdata.git/commit/459ee79c635b753331ff89621d0c18d54650d967)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7704,6 +7705,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(lib): clean up hear id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db8ad290352287c0c0b33ddeccee569422b43d99)
 - [ ] [<code>fix(lib): a3959 set_wind_noise makes invalid state transition</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11d3f9401e841533e4e91eb26a7c082063c2af49)
+- [ ] [<code>feat(soundcore-device-faker): add a3949</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b3fbde8141eb0bdb797a213f2ee6686f001da60f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): add support for a3949</code>](https://github.com/Oppzippy/OpenSCQ30/commit/392c3f60f0173d1485cbbf1fb473809fa0286ab8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(lib): a3949 also includes the P25i, so mark that as supported</code>](https://github.com/Oppzippy/OpenSCQ30/commit/608125dc1782fa239bbe08df7a1a1f607249134b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(soundcore-device-faker): add a6611</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ce292c9b55a461e1aa87912e9c76590935aba52f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(soundcore-device-faker): add a3968</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3900f7a7b6aa85ab674fc99de72039063f44f4bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update supported devices list in readme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fe400c4243545bc711a29317b27925061892e99b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
