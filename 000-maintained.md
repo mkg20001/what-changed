@@ -5316,6 +5316,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/godbus/dbus/v5 from 5.2.1 to 5.2.2 in /src/go (#21511)</code>](https://github.com/netdata/netdata.git/commit/b4e1e69b261db99eb31cbed87e8e9dfbbfca820b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-163-nightly.</code>](https://github.com/netdata/netdata.git/commit/edfacb13a03519a7110cbe0f93a9cf811dfaf2b0)
 - [ ] [<code>Fix race condition during journal file deletion (#21512)</code>](https://github.com/netdata/netdata.git/commit/459ee79c635b753331ff89621d0c18d54650d967)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-165-nightly.</code>](https://github.com/netdata/netdata.git/commit/a217befa293578f5f25b9c1cc8e9141134a5aa03)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7723,6 +7724,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(lib): add support for soundcore a3955  (#184)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5e2519840f68b73633b183711b0d085a3679244f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: add a3955 to supported device list</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8197cf68d9510d9570d83352ed5207c6bf7b1c8)
+- [ ] [<code>build: v2.2.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5c5608466588d75d5bc467c86fa5de427909d05)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
