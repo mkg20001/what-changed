@@ -562,6 +562,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8d6d705ee4944292f27260f82a0d18bcd38dcf62)
 - [ ] [<code>incusd/instances: Support last-state value for boot.autostart</code>](https://github.com/lxc/incus/commit/eee18e103e66566addf28f034c5433233a8b6c67)
 - [ ] [<code>incusd/network/physical: Allow parent re-use for bridges</code>](https://github.com/lxc/incus/commit/f95e2af5b76c91caa20c2ecef85df9ff6074d70e)
+- [ ] [<code>incusd/network/physical: Allow vlan.tagged</code>](https://github.com/lxc/incus/commit/969f32300002fd980992e3b62bedf398bdf7dbe6)
+- [ ] [<code>incusd/device: Add vlan.tagged to physical NICs</code>](https://github.com/lxc/incus/commit/b72643a540172fdb69b97b82dd60740ac06ad890)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6dd6948000453fb2ef8f66517001513083a2f3c3)
+- [ ] [<code>incusd/device/nic_physical: Fix internal bridge handling</code>](https://github.com/lxc/incus/commit/add134c50d1ab69af063f8c0af4178129f09d51e)
+- [ ] [<code>incusd: Add X-Incus-force header for file operations</code>](https://github.com/lxc/incus/commit/0f937900baf1d973f8a9df6db1a74004bbdaaf00)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
+- [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4741,6 +4748,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8d6d705ee4944292f27260f82a0d18bcd38dcf62)
 - [ ] [<code>incusd/instances: Support last-state value for boot.autostart</code>](https://github.com/lxc/incus/commit/eee18e103e66566addf28f034c5433233a8b6c67)
 - [ ] [<code>incusd/network/physical: Allow parent re-use for bridges</code>](https://github.com/lxc/incus/commit/f95e2af5b76c91caa20c2ecef85df9ff6074d70e)
+- [ ] [<code>incusd/network/physical: Allow vlan.tagged</code>](https://github.com/lxc/incus/commit/969f32300002fd980992e3b62bedf398bdf7dbe6)
+- [ ] [<code>incusd/device: Add vlan.tagged to physical NICs</code>](https://github.com/lxc/incus/commit/b72643a540172fdb69b97b82dd60740ac06ad890)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6dd6948000453fb2ef8f66517001513083a2f3c3)
+- [ ] [<code>incusd/device/nic_physical: Fix internal bridge handling</code>](https://github.com/lxc/incus/commit/add134c50d1ab69af063f8c0af4178129f09d51e)
+- [ ] [<code>incusd: Add X-Incus-force header for file operations</code>](https://github.com/lxc/incus/commit/0f937900baf1d973f8a9df6db1a74004bbdaaf00)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
+- [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -5317,6 +5331,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-163-nightly.</code>](https://github.com/netdata/netdata.git/commit/edfacb13a03519a7110cbe0f93a9cf811dfaf2b0)
 - [ ] [<code>Fix race condition during journal file deletion (#21512)</code>](https://github.com/netdata/netdata.git/commit/459ee79c635b753331ff89621d0c18d54650d967)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-165-nightly.</code>](https://github.com/netdata/netdata.git/commit/a217befa293578f5f25b9c1cc8e9141134a5aa03)
+- [ ] [<code>Improve EBPF cleanup (#21501)</code>](https://github.com/netdata/netdata.git/commit/a59c441442a8281be77228efca1deb44310edfd5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
