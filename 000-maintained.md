@@ -7725,6 +7725,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: add a3955 to supported device list</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8197cf68d9510d9570d83352ed5207c6bf7b1c8)
 - [ ] [<code>build: v2.2.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f5c5608466588d75d5bc467c86fa5de427909d05)
+  - <sub>Tags: <code>v2.2.0</code></sub>
+- [ ] [<code>fix(lib): windows rfcomm backend not waiting for operations to complete</code>](https://github.com/Oppzippy/OpenSCQ30/commit/467417e7d18b79cc5870cb29f10db0f68d035ff9)
+- [ ] [<code>build: v2.2.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64775fa00b01a1e64145b82228d18fac075d4f85)
+  - <sub>Tags: <code>v2.2.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
