@@ -5332,6 +5332,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix race condition during journal file deletion (#21512)</code>](https://github.com/netdata/netdata.git/commit/459ee79c635b753331ff89621d0c18d54650d967)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-165-nightly.</code>](https://github.com/netdata/netdata.git/commit/a217befa293578f5f25b9c1cc8e9141134a5aa03)
 - [ ] [<code>Improve EBPF cleanup (#21501)</code>](https://github.com/netdata/netdata.git/commit/a59c441442a8281be77228efca1deb44310edfd5)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/7dd172357a1ce851b9d51e27a45713bd06266eb8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
