@@ -4894,6 +4894,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add comment about avifEncoderData::imageMetadata (#2939)</code>](https://github.com/AOMediaCodec/libavif/commit/81f9cde4508e573585d3644e3f4c62070c11b5b6)
 - [ ] [<code>Add avifEncoderSetCodecSpecificOption() tests (#2937)</code>](https://github.com/AOMediaCodec/libavif/commit/5b097dd34aa242de6eb6251f28652973f10b4271)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Move default tune setting earlier in codec_aom.c (#2936)</code>](https://github.com/AOMediaCodec/libavif/commit/08b01f077fec26a09eaa7589395f1d261c99e961)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5339,6 +5340,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Adjust functions event loop to propagate exit code (#21455)</code>](https://github.com/netdata/netdata.git/commit/3153adc70df6c342ca25242f87d81f18a02398b2)
 - [ ] [<code>Improve certificate verification error logging in ACLK connections (#21513)</code>](https://github.com/netdata/netdata.git/commit/8a15f8fbf004f812f4b90453b35476eacb6cac90)
 - [ ] [<code>build(deps): bump github.com/likexian/whois from 1.15.6 to 1.15.7 in /src/go (#21516)</code>](https://github.com/netdata/netdata.git/commit/5f1921d9abd2ec6e2d84b9e3c3b2072cfd07d781)
+- [ ] [<code>build(deps): bump github.com/prometheus/common from 0.67.4 to 0.67.5 in /src/go (#21517)</code>](https://github.com/netdata/netdata.git/commit/248117cd204e6e80ce5101f7940d49777b506eb4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7964,9 +7966,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211: add module documentation</code>](https://github.com/jow-/ucode/commit/8bbf01215ce30971eb02eee2250d51e422f700e6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>nl80211: add new attribute "mlo_links" for per link information</code>](https://github.com/jow-/ucode/commit/40a6aeb698e157b8d9a4fa0a056ea67af1443ae4)
+- [ ] [<code>ubus: complete pending requests when disconnecting locally</code>](https://github.com/jow-/ucode/commit/376e8733609e8205309384b72c42ae714697b384)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.7 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.7...HEAD)
 
+- [ ] [<code>Use nicer style for power profile icons (#15)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b1308a00602061ffe192f3058e1d7d42d1ea2e92)
+- [ ] [<code>Add xsi-network-wireless-signal-*-secure icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/46d744afacee37f661a24ac7fe48f29138f79af5)
+- [ ] [<code>Fix filename in list-missing-icons.py</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/9481ca2c34110a22bf29251c8ace7c3d3b9c3926)
+- [ ] [<code>battery: Add 100-charging in addition to 100-charged</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/48d3c0bf32b4d6f90dbf410da8cbe33ae3b1c974)
+- [ ] [<code>1.0.8</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/efdb174161b11a0ab639e67ae453eb9ed9dfdce0)
+  - <sub>Tags: <code>1.0.8</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
