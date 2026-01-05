@@ -4891,6 +4891,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Skip XMP items in avifEncoderDecodeSatoBaseImage() (#2943)</code>](https://github.com/AOMediaCodec/libavif/commit/905f3915b6b2cf47066ef526f191489b22574519)
 - [ ] [<code>Bump github/codeql-action (#2945)</code>](https://github.com/AOMediaCodec/libavif/commit/ae8bf8e5932f5b35b2790fa823e7109aa3dfdf7c)
 - [ ] [<code>Bump dav1d to 1.5.3 (#2946)</code>](https://github.com/AOMediaCodec/libavif/commit/143136e938275bd92c90e5c9837d3fedee556006)
+- [ ] [<code>Add comment about avifEncoderData::imageMetadata (#2939)</code>](https://github.com/AOMediaCodec/libavif/commit/81f9cde4508e573585d3644e3f4c62070c11b5b6)
+- [ ] [<code>Add avifEncoderSetCodecSpecificOption() tests (#2937)</code>](https://github.com/AOMediaCodec/libavif/commit/5b097dd34aa242de6eb6251f28652973f10b4271)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5333,6 +5336,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-165-nightly.</code>](https://github.com/netdata/netdata.git/commit/a217befa293578f5f25b9c1cc8e9141134a5aa03)
 - [ ] [<code>Improve EBPF cleanup (#21501)</code>](https://github.com/netdata/netdata.git/commit/a59c441442a8281be77228efca1deb44310edfd5)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/7dd172357a1ce851b9d51e27a45713bd06266eb8)
+- [ ] [<code>Adjust functions event loop to propagate exit code (#21455)</code>](https://github.com/netdata/netdata.git/commit/3153adc70df6c342ca25242f87d81f18a02398b2)
+- [ ] [<code>Improve certificate verification error logging in ACLK connections (#21513)</code>](https://github.com/netdata/netdata.git/commit/8a15f8fbf004f812f4b90453b35476eacb6cac90)
+- [ ] [<code>build(deps): bump github.com/likexian/whois from 1.15.6 to 1.15.7 in /src/go (#21516)</code>](https://github.com/netdata/netdata.git/commit/5f1921d9abd2ec6e2d84b9e3c3b2072cfd07d781)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
