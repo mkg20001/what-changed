@@ -54,7 +54,20 @@
 - [ ] [<code>sound applet: Fix panel album art not being discarded and falling</code>](https://github.com/linuxmint/cinnamon/commit/a375617f1c56b5ebb27a4fdb8edb7de55666cb54)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix OSD fading out when updated during hide animation (#13335)</code>](https://github.com/linuxmint/cinnamon/commit/7608160de8d2de26e637dd49cce25aabe649156d)
+- [ ] [<code>network applet: Remove symbolic icons</code>](https://github.com/linuxmint/cinnamon/commit/22c44d2ff9e0dbb61b0bca6f16a1552790d31dc4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>sound applet: Switch leftover Adwaita icon names to XSI</code>](https://github.com/linuxmint/cinnamon/commit/367b4a0c3ca95cdfea2496a668583163e6809d1f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>popupmenu.js: Switch leftover Adwaita icon names to XSI</code>](https://github.com/linuxmint/cinnamon/commit/287dcb8ed4fcf193008af5399798054cf8a7cd86)
+- [ ] [<code>SettingsWidgets: Silently ignore BinFileMonitor errors.</code>](https://github.com/linuxmint/cinnamon/commit/a46c4257272d9c5f6072e326f30c979fb497267d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_calendar: Localize regions and cities</code>](https://github.com/linuxmint/cinnamon/commit/1900988958deee31b14c3f797e0aa1b9ca326165)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/af9be76d32a9276f9c02a5aa3bfa7975bbdecbc7)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix localization in KeybindingWidgets.py</code>](https://github.com/linuxmint/cinnamon/commit/efdc75dd0927d981c38595826a8e73a77b7023be)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
