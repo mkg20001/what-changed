@@ -317,6 +317,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/d67dd0519b8c5696bdce7d2ec5da6ed28fad7b9a)
 - [ ] [<code>build: Bump version to 2.4.0</code>](https://github.com/krille-chan/fluffychat/commit/6368c46c54bba63afffb5abd7f00358a7137fe82)
   - <sub>Tags: <code>rc2.4.0-0</code></sub>
+- [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.3.6 to 2.3.7+1</code>](https://github.com/krille-chan/fluffychat/commit/a361c7ad59218cf63124ed5988ce740ddb9beaaf)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -527,6 +528,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/d67dd0519b8c5696bdce7d2ec5da6ed28fad7b9a)
 - [ ] [<code>build: Bump version to 2.4.0</code>](https://github.com/krille-chan/fluffychat/commit/6368c46c54bba63afffb5abd7f00358a7137fe82)
   - <sub>Tags: <code>rc2.4.0-0</code></sub>
+- [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.3.6 to 2.3.7+1</code>](https://github.com/krille-chan/fluffychat/commit/a361c7ad59218cf63124ed5988ce740ddb9beaaf)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7975,12 +7977,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.7 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.7...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
 
-- [ ] [<code>Use nicer style for power profile icons (#15)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b1308a00602061ffe192f3058e1d7d42d1ea2e92)
-- [ ] [<code>Add xsi-network-wireless-signal-*-secure icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/46d744afacee37f661a24ac7fe48f29138f79af5)
-- [ ] [<code>Fix filename in list-missing-icons.py</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/9481ca2c34110a22bf29251c8ace7c3d3b9c3926)
-- [ ] [<code>battery: Add 100-charging in addition to 100-charged</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/48d3c0bf32b4d6f90dbf410da8cbe33ae3b1c974)
-- [ ] [<code>1.0.8</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/efdb174161b11a0ab639e67ae453eb9ed9dfdce0)
-  - <sub>Tags: <code>1.0.8</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
