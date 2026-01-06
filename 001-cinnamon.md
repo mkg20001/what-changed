@@ -66,8 +66,12 @@
 - [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/af9be76d32a9276f9c02a5aa3bfa7975bbdecbc7)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Fix localization in KeybindingWidgets.py</code>](https://github.com/linuxmint/cinnamon/commit/efdc75dd0927d981c38595826a8e73a77b7023be)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_default: Fix localization in removable_media_defs</code>](https://github.com/linuxmint/cinnamon/commit/111cbf8e4d5136b5654d567ffb0bf096a5de6e50)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/8ee92487238b031b1083b9e78dc071cdad1ba2fa)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
