@@ -4895,6 +4895,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add avifEncoderSetCodecSpecificOption() tests (#2937)</code>](https://github.com/AOMediaCodec/libavif/commit/5b097dd34aa242de6eb6251f28652973f10b4271)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Move default tune setting earlier in codec_aom.c (#2936)</code>](https://github.com/AOMediaCodec/libavif/commit/08b01f077fec26a09eaa7589395f1d261c99e961)
+- [ ] [<code>Ensure gainmapItemCodecConfigSize 0 if data size 0</code>](https://github.com/AOMediaCodec/libavif/commit/5277b7c90909b04732ce3a81ff098848f1e64f73)
+- [ ] [<code>Use alphaItemCodecConfig only when valid</code>](https://github.com/AOMediaCodec/libavif/commit/3533b3355bb6e0e2c496aa8dfd5e650714a69e27)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5341,6 +5343,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve certificate verification error logging in ACLK connections (#21513)</code>](https://github.com/netdata/netdata.git/commit/8a15f8fbf004f812f4b90453b35476eacb6cac90)
 - [ ] [<code>build(deps): bump github.com/likexian/whois from 1.15.6 to 1.15.7 in /src/go (#21516)</code>](https://github.com/netdata/netdata.git/commit/5f1921d9abd2ec6e2d84b9e3c3b2072cfd07d781)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.67.4 to 0.67.5 in /src/go (#21517)</code>](https://github.com/netdata/netdata.git/commit/248117cd204e6e80ce5101f7940d49777b506eb4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-172-nightly.</code>](https://github.com/netdata/netdata.git/commit/3dae87e7fb17b930b091a90f4beac7fc2ba8b668)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
