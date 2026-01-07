@@ -4901,6 +4901,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Move default tune setting earlier in codec_aom.c (#2936)</code>](https://github.com/AOMediaCodec/libavif/commit/08b01f077fec26a09eaa7589395f1d261c99e961)
 - [ ] [<code>Ensure gainmapItemCodecConfigSize 0 if data size 0</code>](https://github.com/AOMediaCodec/libavif/commit/5277b7c90909b04732ce3a81ff098848f1e64f73)
 - [ ] [<code>Use alphaItemCodecConfig only when valid</code>](https://github.com/AOMediaCodec/libavif/commit/3533b3355bb6e0e2c496aa8dfd5e650714a69e27)
+- [ ] [<code>Add support for png iCCP chunk (#2952)</code>](https://github.com/AOMediaCodec/libavif/commit/ba7d876f4e9808a798b4823146fbfee968c241d3)
+- [ ] [<code>Set diagnostic message on aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/22e8562136b8a003371f87bfcae3c3645dc8eae6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5348,6 +5350,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/likexian/whois from 1.15.6 to 1.15.7 in /src/go (#21516)</code>](https://github.com/netdata/netdata.git/commit/5f1921d9abd2ec6e2d84b9e3c3b2072cfd07d781)
 - [ ] [<code>build(deps): bump github.com/prometheus/common from 0.67.4 to 0.67.5 in /src/go (#21517)</code>](https://github.com/netdata/netdata.git/commit/248117cd204e6e80ce5101f7940d49777b506eb4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-172-nightly.</code>](https://github.com/netdata/netdata.git/commit/3dae87e7fb17b930b091a90f4beac7fc2ba8b668)
+- [ ] [<code>Suppress a handful of known warnings during the build process. (#20102)</code>](https://github.com/netdata/netdata.git/commit/222b9dcb0823ce79b2186e0dc81ccb9dc3affaf5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Minor improvements to CMake code. (#21146)</code>](https://github.com/netdata/netdata.git/commit/b22a400d21658bf642a10bf8d5447b98509436e8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
