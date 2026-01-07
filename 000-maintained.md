@@ -70,6 +70,8 @@
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/5f0ce558e6392b4347eff261361e2b009c5f46c4)
 - [ ] [<code>Remove deprecated 22.03 architecture path and filename logic </code>](https://github.com/lxc/distrobuilder/commit/de6955faf5544c4512fab85c1d8024c4c3f0e46a)
 - [ ] [<code>Update OpenWRT config to build also release candidates</code>](https://github.com/lxc/distrobuilder/commit/194b0f40afcced221a35edb72ce8f51db2fa5ade)
+- [ ] [<code>sources: support AlmaLinux 9 and 10 with HTTP sources</code>](https://github.com/lxc/distrobuilder/commit/3c4b82e6be3470951c73ed2ddbde04d73809cd3b)
+- [ ] [<code>sources: refactor AlmaLinux version check to use switch statement</code>](https://github.com/lxc/distrobuilder/commit/a24601ebfd99febc32d2b63d16828c05467f66af)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
