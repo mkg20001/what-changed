@@ -75,7 +75,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>placesManager.js: Add mounts with no associated volume. (#13325)</code>](https://github.com/linuxmint/cinnamon/commit/7741ae13652a5fbc73b560e99db9391cb0bdfd99)
 - [ ] [<code>osk: Restore control and Alt keys (#13337)</code>](https://github.com/linuxmint/cinnamon/commit/321506a5b03aff5cf7a6a202de59eae3472557db)
+- [ ] [<code>wrong app id in calc search provider example (#13249)</code>](https://github.com/linuxmint/cinnamon/commit/ee43cc40496144f950f286a9a3dcd32a7163d617)
+- [ ] [<code>KeybindingWidgets.py: Fix keybinding teaching in wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/8b251d3a34f6440e612f10804189e6afe1ec6bf3)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -84,6 +87,7 @@
 
 - [ ] [<code>gnome-xkb-info.c: Add to existing option group when scanning extras,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/10934dbba0c48a14454da6e6bf70ffcca3930508)
 - [ ] [<code>gnome-xkb-info: Don't rely on gsettings to return the full set</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2bb17da29ebfc2f94d5a975583c85670e04b6ca6)
+- [ ] [<code>gnome-xkb-info: Expose 'allows_multiple_selection'.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/442b45e101f4a59b5344c0b09480d0a9dc80a1dd)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
@@ -126,7 +130,8 @@
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.6 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.6...HEAD)
 
 - [ ] [<code>Mint-Y cinnamon: window-list applet set fixed notification badge font size (#527)</code>](https://github.com/linuxmint/mint-themes/commit/2ef7eeb11a8dfc6d5c99f9a1e9cef5ac5f8b94cc)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.3.7</code>](https://github.com/linuxmint/mint-themes/commit/2678fee0f8200df212561567d26139e17366f1dc)
+  - <sub>Tags: <code>2.3.7</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -181,6 +186,10 @@
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.1 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.1...HEAD)
 
+- [ ] [<code>Fix window icon name (#696)</code>](https://github.com/linuxmint/xreader/commit/f9d291657fe30b62f4b4618f204d8ac64cc17a34)
+- [ ] [<code>4.6.2</code>](https://github.com/linuxmint/xreader/commit/060a28ee28c5b278774aa18e241252a420c21270)
+  - <sub>Tags: <code>4.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.15 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.15...HEAD)
 
