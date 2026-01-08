@@ -321,6 +321,7 @@
 - [ ] [<code>build: Bump version to 2.4.0</code>](https://github.com/krille-chan/fluffychat/commit/6368c46c54bba63afffb5abd7f00358a7137fe82)
   - <sub>Tags: <code>rc2.4.0-0</code></sub>
 - [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.3.6 to 2.3.7+1</code>](https://github.com/krille-chan/fluffychat/commit/a361c7ad59218cf63124ed5988ce740ddb9beaaf)
+- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f15e09235471a5a7873a880eb73222eeb4477955)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -532,6 +533,7 @@
 - [ ] [<code>build: Bump version to 2.4.0</code>](https://github.com/krille-chan/fluffychat/commit/6368c46c54bba63afffb5abd7f00358a7137fe82)
   - <sub>Tags: <code>rc2.4.0-0</code></sub>
 - [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.3.6 to 2.3.7+1</code>](https://github.com/krille-chan/fluffychat/commit/a361c7ad59218cf63124ed5988ce740ddb9beaaf)
+- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f15e09235471a5a7873a880eb73222eeb4477955)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -574,6 +576,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Add X-Incus-force header for file operations</code>](https://github.com/lxc/incus/commit/0f937900baf1d973f8a9df6db1a74004bbdaaf00)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
 - [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
+- [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4760,6 +4763,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Add X-Incus-force header for file operations</code>](https://github.com/lxc/incus/commit/0f937900baf1d973f8a9df6db1a74004bbdaaf00)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
 - [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
+- [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -4905,6 +4909,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add support for png iCCP chunk (#2952)</code>](https://github.com/AOMediaCodec/libavif/commit/ba7d876f4e9808a798b4823146fbfee968c241d3)
 - [ ] [<code>Set diagnostic message on aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/22e8562136b8a003371f87bfcae3c3645dc8eae6)
 - [ ] [<code>Get rid of the TAB character</code>](https://github.com/AOMediaCodec/libavif/commit/08d09e4ee6d3c9bf27b474cad8741d6cfadbeae8)
+- [ ] [<code>Use AOM_TUNE_PSNR by default for alpha (#2949)</code>](https://github.com/AOMediaCodec/libavif/commit/1e295ed7632f9314a7269def4b85b635be377e37)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -7769,6 +7774,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): windows rfcomm backend not waiting for operations to complete</code>](https://github.com/Oppzippy/OpenSCQ30/commit/467417e7d18b79cc5870cb29f10db0f68d035ff9)
 - [ ] [<code>build: v2.2.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64775fa00b01a1e64145b82228d18fac075d4f85)
   - <sub>Tags: <code>v2.2.1</code></sub>
+- [ ] [<code>fix(lib): backwards comparison in assertion</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed26ca71b6bfd6b6025e1a9748df9d1d56963890)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
