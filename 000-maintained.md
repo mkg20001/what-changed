@@ -550,6 +550,10 @@
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.9 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.9...HEAD)
 
+- [ ] [<code>l10n: Update translations</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/97708e292836be6cda1e51f2f485dda75ad97e47)
+- [ ] [<code>3.50.10</code>](https://github.com/xapp-project/gnome-online-accounts-gtk/commit/b42482522bc9089c139ceda9b8a7d81a7a149cf9)
+  - <sub>Tags: <code>3.50.10</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Failed to clone https://github.com/toptal/haste-server Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://github.com/toptal/haste-server /home/runner/work/what-changed/what-changed/src/../work/haste-server
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/haste-server'...
@@ -5088,6 +5092,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>copy_rdepends: Don't fail on missing source file</code>](https://github.com/lxc/lxc/commit/49c34b1bcd72c602953ab9c4cb60bc4f2ebcf653)
 - [ ] [<code>cgfsng: fix reboots when using dbus</code>](https://github.com/lxc/lxc/commit/0f5852edfad06fe4e9f00aaddd3d93576269729e)
 - [ ] [<code>Improve the dbus scope creation error handling</code>](https://github.com/lxc/lxc/commit/6a5550ec2263d1b3c1f809e88fbf00d5fb73fad2)
+- [ ] [<code>build: update Makefile and meson.build</code>](https://github.com/lxc/lxc/commit/4a5aa19d73b90ce1ad6f2e354b69f5ae7e8e2e50)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5362,6 +5368,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Minor improvements to CMake code. (#21146)</code>](https://github.com/netdata/netdata.git/commit/b22a400d21658bf642a10bf8d5447b98509436e8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-175-nightly.</code>](https://github.com/netdata/netdata.git/commit/876c73055241d10155ac00515ef7ccdb01453428)
+- [ ] [<code>Merge MSSQL Queries  (windows.plugin) (#21491)</code>](https://github.com/netdata/netdata.git/commit/c97bc7edf7e7a3dcf1db873041e7eea335deca73)
+- [ ] [<code>Improve storage collector by using dictionary delete callbacks (#21500)</code>](https://github.com/netdata/netdata.git/commit/3bcd59a2346c4b626cf74315877802b641430679)
+- [ ] [<code>Enhance error handling for journal v2 migration (#21514)</code>](https://github.com/netdata/netdata.git/commit/e82c14760a5e6b4cc9cf1e12897576c3c414da5a)
+- [ ] [<code>fix(go.d/proxysql): correct backend status metric mapping (#21524)</code>](https://github.com/netdata/netdata.git/commit/8ea58d7df1c343b9149234ef1902e06a5948104b)
+- [ ] [<code>MCP test client: fix prompts/resources support and schema validation (#21521)</code>](https://github.com/netdata/netdata.git/commit/3c7b50bd763999d1312f25ffe3520a701b608cbb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
