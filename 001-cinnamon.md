@@ -77,6 +77,10 @@
 - [ ] [<code>osk: Restore control and Alt keys (#13337)</code>](https://github.com/linuxmint/cinnamon/commit/321506a5b03aff5cf7a6a202de59eae3472557db)
 - [ ] [<code>wrong app id in calc search provider example (#13249)</code>](https://github.com/linuxmint/cinnamon/commit/ee43cc40496144f950f286a9a3dcd32a7163d617)
 - [ ] [<code>KeybindingWidgets.py: Fix keybinding teaching in wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/8b251d3a34f6440e612f10804189e6afe1ec6bf3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cs_keyboard: Add an XKB options page. (#13343)</code>](https://github.com/linuxmint/cinnamon/commit/87a94c63a5f44b5c2b9c7762a619713b4b54ae0d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/cinnamon/commit/87276593a1acc76d1b68639245f63725043d0213)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
