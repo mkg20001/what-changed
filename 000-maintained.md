@@ -72,6 +72,7 @@
 - [ ] [<code>Update OpenWRT config to build also release candidates</code>](https://github.com/lxc/distrobuilder/commit/194b0f40afcced221a35edb72ce8f51db2fa5ade)
 - [ ] [<code>sources: support AlmaLinux 9 and 10 with HTTP sources</code>](https://github.com/lxc/distrobuilder/commit/3c4b82e6be3470951c73ed2ddbde04d73809cd3b)
 - [ ] [<code>sources: refactor AlmaLinux version check to use switch statement</code>](https://github.com/lxc/distrobuilder/commit/a24601ebfd99febc32d2b63d16828c05467f66af)
+- [ ] [<code>sources: enforce GPG verification across multiple distros</code>](https://github.com/lxc/distrobuilder/commit/64b60db96cefcd03d16a6e2661e842ac937a6e42)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -4903,6 +4904,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use alphaItemCodecConfig only when valid</code>](https://github.com/AOMediaCodec/libavif/commit/3533b3355bb6e0e2c496aa8dfd5e650714a69e27)
 - [ ] [<code>Add support for png iCCP chunk (#2952)</code>](https://github.com/AOMediaCodec/libavif/commit/ba7d876f4e9808a798b4823146fbfee968c241d3)
 - [ ] [<code>Set diagnostic message on aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/22e8562136b8a003371f87bfcae3c3645dc8eae6)
+- [ ] [<code>Get rid of the TAB character</code>](https://github.com/AOMediaCodec/libavif/commit/08d09e4ee6d3c9bf27b474cad8741d6cfadbeae8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5354,6 +5356,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Minor improvements to CMake code. (#21146)</code>](https://github.com/netdata/netdata.git/commit/b22a400d21658bf642a10bf8d5447b98509436e8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-175-nightly.</code>](https://github.com/netdata/netdata.git/commit/876c73055241d10155ac00515ef7ccdb01453428)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
