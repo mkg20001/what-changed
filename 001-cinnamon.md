@@ -1,14 +1,6 @@
 
-#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.0 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.0...HEAD)
+#### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/0c74be97f562dd6400c75553e252dd5f9f3561f6)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>l10n: Update files</code>](https://github.com/linuxmint/bulky/commit/e3bb0dd1f7fe61c83ba1a87b808289ed97fc31bc)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>4.1</code>](https://github.com/linuxmint/bulky/commit/590b0c1512d2e219a0c2635791003e2e7d933774)
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/bulky/commit/8e1e1d3d6104bf2150e55bf0a5970b2c3e0264cd)
-- [ ] [<code>4.2</code>](https://github.com/linuxmint/bulky/commit/13bbd3fdfd11659747b2c05666ca9b9814e5f20e)
-  - <sub>Tags: <code>4.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.3...HEAD)
 
