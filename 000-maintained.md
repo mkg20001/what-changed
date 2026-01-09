@@ -581,6 +581,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
 - [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
 - [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
+- [ ] [<code>incusd: Parallelize instance startup on daemon start</code>](https://github.com/lxc/incus/commit/c92eccaddf574dc4bfd7e1ec8380417a131b9895)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4768,6 +4769,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
 - [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
 - [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
+- [ ] [<code>incusd: Parallelize instance startup on daemon start</code>](https://github.com/lxc/incus/commit/c92eccaddf574dc4bfd7e1ec8380417a131b9895)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -5373,6 +5375,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Enhance error handling for journal v2 migration (#21514)</code>](https://github.com/netdata/netdata.git/commit/e82c14760a5e6b4cc9cf1e12897576c3c414da5a)
 - [ ] [<code>fix(go.d/proxysql): correct backend status metric mapping (#21524)</code>](https://github.com/netdata/netdata.git/commit/8ea58d7df1c343b9149234ef1902e06a5948104b)
 - [ ] [<code>MCP test client: fix prompts/resources support and schema validation (#21521)</code>](https://github.com/netdata/netdata.git/commit/3c7b50bd763999d1312f25ffe3520a701b608cbb)
+- [ ] [<code>fix(go.d/pkg/logs):  fix ParserConfig.CSV omitempty behavior (#21526)</code>](https://github.com/netdata/netdata.git/commit/0c21979f02845dcc985de1a98219af02a5478d82)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/6268b3b3bd841059c009dfbe84e58910ffcd0ae3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7786,6 +7790,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: v2.2.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64775fa00b01a1e64145b82228d18fac075d4f85)
   - <sub>Tags: <code>v2.2.1</code></sub>
 - [ ] [<code>fix(lib): backwards comparison in assertion</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ed26ca71b6bfd6b6025e1a9748df9d1d56963890)
+- [ ] [<code>chore: add FUNDING.yml</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bab7f25a8726c5961433f3476af7eac3a41ede30)
+- [ ] [<code>docs(soundcore-device-faker): document a6611</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3612e0453eb9ec3ad743474a28cb7db9e1d9b030)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
