@@ -20,7 +20,7 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.1/dbeaver-ce-25.3.1-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -322,6 +322,8 @@
   - <sub>Tags: <code>rc2.4.0-0</code></sub>
 - [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.3.6 to 2.3.7+1</code>](https://github.com/krille-chan/fluffychat/commit/a361c7ad59218cf63124ed5988ce740ddb9beaaf)
 - [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f15e09235471a5a7873a880eb73222eeb4477955)
+- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f1e947d2e722048ad828d00fce82f6288bd0d13e)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/513ef6862a353a0b912e3f10af8b08e1383c6d61)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -534,6 +536,8 @@
   - <sub>Tags: <code>rc2.4.0-0</code></sub>
 - [ ] [<code>build: (deps): bump sqflite_common_ffi from 2.3.6 to 2.3.7+1</code>](https://github.com/krille-chan/fluffychat/commit/a361c7ad59218cf63124ed5988ce740ddb9beaaf)
 - [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f15e09235471a5a7873a880eb73222eeb4477955)
+- [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f1e947d2e722048ad828d00fce82f6288bd0d13e)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/513ef6862a353a0b912e3f10af8b08e1383c6d61)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4912,6 +4916,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Set diagnostic message on aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/22e8562136b8a003371f87bfcae3c3645dc8eae6)
 - [ ] [<code>Get rid of the TAB character</code>](https://github.com/AOMediaCodec/libavif/commit/08d09e4ee6d3c9bf27b474cad8741d6cfadbeae8)
 - [ ] [<code>Use AOM_TUNE_PSNR by default for alpha (#2949)</code>](https://github.com/AOMediaCodec/libavif/commit/1e295ed7632f9314a7269def4b85b635be377e37)
+- [ ] [<code>Make libpng treat benign errors as warnings (#2958)</code>](https://github.com/AOMediaCodec/libavif/commit/e40faf5f51da56771d71c818b7bdd5107d4e8df2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5373,6 +5378,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>MCP test client: fix prompts/resources support and schema validation (#21521)</code>](https://github.com/netdata/netdata.git/commit/3c7b50bd763999d1312f25ffe3520a701b608cbb)
 - [ ] [<code>fix(go.d/pkg/logs):  fix ParserConfig.CSV omitempty behavior (#21526)</code>](https://github.com/netdata/netdata.git/commit/0c21979f02845dcc985de1a98219af02a5478d82)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/6268b3b3bd841059c009dfbe84e58910ffcd0ae3)
+- [ ] [<code>use the same type for all time_group_value values (#21528)</code>](https://github.com/netdata/netdata.git/commit/d9fe0b94c4759b1e8d5e4a19148d1a72b00420a4)
+- [ ] [<code>fix(diskspace.plugin): exclude ZFS datasets (#21532)</code>](https://github.com/netdata/netdata.git/commit/27574be28a55423b071603d1940ee32edcbdb4be)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8004,6 +8011,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211: add new attribute "mlo_links" for per link information</code>](https://github.com/jow-/ucode/commit/40a6aeb698e157b8d9a4fa0a056ea67af1443ae4)
 - [ ] [<code>ubus: complete pending requests when disconnecting locally</code>](https://github.com/jow-/ucode/commit/376e8733609e8205309384b72c42ae714697b384)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>io: add ptsname, tcgetattr, tcsetattr, grantpt, unlockpt</code>](https://github.com/jow-/ucode/commit/32449bfb69d6b46b2a5efa40509a7eeb871ea3e8)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
