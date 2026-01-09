@@ -8,38 +8,11 @@
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/567be1101523e328c731262626f776228de2bd03)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/libnl-tiny.git/commit/40493a655d8caa2ccf5206dde1e733abe2920432)
-
-#### [libubox](https://git.openwrt.org/project/libubox.git): [7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191 → HEAD](https://git.openwrt.org/project/libubox.git/compare/7d6b9d98d0bdd4e14aedeb7908c28e4b318c8191...HEAD)
-
-- [ ] [<code>github: improve CI build</code>](https://git.openwrt.org/project/libubox.git/commit/9caf555f00e23c0e467c77ac86ae6cefd4e76053)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/libubox.git/commit/e357be611cd9deb280c61bbdf331f5a85e75a485)
-- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/libubox.git/commit/5b11fb18dc0523bb9c1c37af66edfed1aa0d79bb)
-- [ ] [<code>libubox: add a simple build script</code>](https://git.openwrt.org/project/libubox.git/commit/17143f94dcbfef20d55afab783deb0e24cf67f15)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>libubox: Drop extraneous space when appending values to variable</code>](https://git.openwrt.org/project/libubox.git/commit/82cb5fd66af910c71deef67d49a5c9e3d319bde9)
-- [ ] [<code>tests: shunit2: add test for _jshn_append leading space fix</code>](https://git.openwrt.org/project/libubox.git/commit/240d2d5ef58b7d5637604c0f687d1efbff549f2e)
-- [ ] [<code>scripts: devel-build: disable json-c tests</code>](https://git.openwrt.org/project/libubox.git/commit/af438ba0705f5a20f6f9bc71b2c083dada856ff6)
-- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/libubox.git/commit/be21d12b2bed7a7f997b88c20a2306357079393c)
-- [ ] [<code>github: ci: tests: add build/bin to path</code>](https://git.openwrt.org/project/libubox.git/commit/7686b12d11bab63d64d0e3c07aa3bbb0c5991f04)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: ci: tests: rename test step</code>](https://git.openwrt.org/project/libubox.git/commit/4dd874d2b4128f747b818f2333cdf27f97745927)
-- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/libubox.git/commit/c1f0024fb052a3bfd4457f50eb3de82fbe3629ec)
-- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/libubox.git/commit/e8dafede37fc8f687774e51eb9208091ee5bc0ad)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>github: ci: minor fixes</code>](https://git.openwrt.org/project/libubox.git/commit/97d1839295e5d8a28087d8a883d6405d900c8e82)
-- [ ] [<code>blobmsg: refactor blobmsg_cast_u64/s64</code>](https://git.openwrt.org/project/libubox.git/commit/a75209f62982f7218f73b9b4fd9b705e19f5f94a)
-- [ ] [<code>build: install libubox</code>](https://git.openwrt.org/project/libubox.git/commit/5714bf6ae652b1503022419f9ad766c9c504454b)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>tests: shunit2: add dump and setters coverage</code>](https://git.openwrt.org/project/libubox.git/commit/440b4e988f39ecb7371fe36fd85f96a0eef23465)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>tests: shunit2: add test for _jshn_append via JSON script</code>](https://git.openwrt.org/project/libubox.git/commit/a3ff29ef93df3ec6e40447f6f4e029ebd07a29f1)
-- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/libubox.git/commit/38d70328ecbd90522727447e62247530eda2b668)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>scripts: devel-build: add missing LUAPATH</code>](https://git.openwrt.org/project/libubox.git/commit/edaf77da740d13bb46e460695709bab6fe395345)
-- [ ] [<code>build: disable static json-c</code>](https://git.openwrt.org/project/libubox.git/commit/c0773869c9d617f94fd4a6745184ed553992599c)
-- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/libubox.git/commit/ecddb31dc34d89be5c9dc4595a4c58070eb090e4)
-- [ ] [<code>libubox: Add ability to find ordinal position inside a table</code>](https://git.openwrt.org/project/libubox.git/commit/7928f1711703767b0ac5ce916c7231d0e1af1ca2)
+> Failed to clone https://git.openwrt.org/project/libubox.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/libubox.git /home/runner/work/what-changed/what-changed/src/../work/libubox.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/libubox.git'...
+fatal: unable to access 'https://git.openwrt.org/project/libubox.git/': The requested URL returned error: 503
+'
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -162,9 +135,13 @@
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/uci.git/commit/5bea13572325af4fb3057ff600cc7f7d5b82012b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/uci.git/commit/66127cd76c5d0bd46d5a90302cc6110f53a4e2f8)
-
-#### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
-
+> Failed to clone https://git.openwrt.org/project/uclient.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/uclient.git /home/runner/work/what-changed/what-changed/src/../work/uclient.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/uclient.git'...
+POST git-upload-pack (233 bytes)
+error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
+fatal: the remote end hung up unexpectedly
+'
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
