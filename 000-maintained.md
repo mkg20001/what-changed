@@ -73,6 +73,11 @@
 - [ ] [<code>sources: support AlmaLinux 9 and 10 with HTTP sources</code>](https://github.com/lxc/distrobuilder/commit/3c4b82e6be3470951c73ed2ddbde04d73809cd3b)
 - [ ] [<code>sources: refactor AlmaLinux version check to use switch statement</code>](https://github.com/lxc/distrobuilder/commit/a24601ebfd99febc32d2b63d16828c05467f66af)
 - [ ] [<code>sources: enforce GPG verification across multiple distros</code>](https://github.com/lxc/distrobuilder/commit/64b60db96cefcd03d16a6e2661e842ac937a6e42)
+- [ ] [<code>sources/voidlinux: revert GPG validation changes</code>](https://github.com/lxc/distrobuilder/commit/1cafa6a5a13490195b6f8677527f54a8e8b5f1b2)
+- [ ] [<code>sources/centos: fix GPG verification for plain checksum files</code>](https://github.com/lxc/distrobuilder/commit/6628e5de55eaf0c02b7b4d97ee6936b257960190)
+- [ ] [<code>sources/gentoo: download .DIGESTS separately for GPG verification</code>](https://github.com/lxc/distrobuilder/commit/2bd631eb1b43f6d3807722302aa4d0b6cc8103e1)
+- [ ] [<code>sources/rocky: implement version-specific GPG verification</code>](https://github.com/lxc/distrobuilder/commit/6b6c3dd48f495fc88bc89aa07616da2e9d25838c)
+- [ ] [<code>sources/centos-http: Support CentOS Stream 10 checksum file</code>](https://github.com/lxc/distrobuilder/commit/1015a5ac067c6b5322fc90115accf563b6a940e3)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -5382,6 +5387,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(diskspace.plugin): exclude ZFS datasets (#21532)</code>](https://github.com/netdata/netdata.git/commit/27574be28a55423b071603d1940ee32edcbdb4be)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-185-nightly.</code>](https://github.com/netdata/netdata.git/commit/a84e8393786ea5b55715d047ec9402bb9dc482f0)
 - [ ] [<code>Fix incorrect column index for `old_value` in SQLite health query (#21533)</code>](https://github.com/netdata/netdata.git/commit/25479240cd6498fd2097b86e51e83fd74c6b1a6a)
+- [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.9.1 to 4.9.2 in /src/go (#21537)</code>](https://github.com/netdata/netdata.git/commit/2ec7d243b9003f3b65d024b0978cfadaf020bd7a)
+- [ ] [<code>build(deps): bump gopkg.in/ini.v1 from 1.67.0 to 1.67.1 in /src/go (#21535)</code>](https://github.com/netdata/netdata.git/commit/d03ce6acacda14c9d90406ee11af17587245f16d)
+- [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.69 to 1.1.70 in /src/go (#21536)</code>](https://github.com/netdata/netdata.git/commit/5bcc5e9d5f101d493bdf90b38388bfff1f702856)
+- [ ] [<code>build(deps): bump golang.org/x/text from 0.32.0 to 0.33.0 in /src/go (#21534)</code>](https://github.com/netdata/netdata.git/commit/a393a6325ecf66d1abd3787b1f3396693b0da04a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
