@@ -5380,6 +5380,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-182-nightly.</code>](https://github.com/netdata/netdata.git/commit/6268b3b3bd841059c009dfbe84e58910ffcd0ae3)
 - [ ] [<code>use the same type for all time_group_value values (#21528)</code>](https://github.com/netdata/netdata.git/commit/d9fe0b94c4759b1e8d5e4a19148d1a72b00420a4)
 - [ ] [<code>fix(diskspace.plugin): exclude ZFS datasets (#21532)</code>](https://github.com/netdata/netdata.git/commit/27574be28a55423b071603d1940ee32edcbdb4be)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-185-nightly.</code>](https://github.com/netdata/netdata.git/commit/a84e8393786ea5b55715d047ec9402bb9dc482f0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
