@@ -32,10 +32,8 @@
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
 
-#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [c528788f05697d1e176df4f869d64bcebbab1528 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/c528788f05697d1e176df4f869d64bcebbab1528...HEAD)
+#### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/folder-color-switcher/commit/efc6f3457f07874a9511690bb4a523baa96fb293)
-- [ ] [<code>1.7.1</code>](https://github.com/linuxmint/folder-color-switcher/commit/856f6f27dfa48ee1ac8d7ec40333e3f892458067)
 > Dropped mint-artwork - no appropriate URL found OrderedDict({'attr_path': 'mint-artwork', 'home_url': 'https://github.com/linuxmint/mint-artwork', 'src_url': '', 'urls': ['http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.3.tar.xz', 'https://web.archive.org/web/20251218152602/http://packages.linuxmint.com/pool/main/m/mint-artwork/mint-artwork_1.9.3.tar.xz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -81,13 +79,8 @@
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [pix](https://github.com/linuxmint/pix): [3.4.9 → HEAD](https://github.com/linuxmint/pix/compare/3.4.9...HEAD)
+#### [pix](https://github.com/linuxmint/pix): [3.4.10 → HEAD](https://github.com/linuxmint/pix/compare/3.4.10...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/pix/commit/2149d73887610262cab7f86df94b8b5bf345d019)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>3.4.10</code>](https://github.com/linuxmint/pix/commit/f6ae0cae71bfc6507874fca5a42caec869b3bcd3)
-  - <sub>Tags: <code>3.4.10</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.1...HEAD)
 
@@ -96,30 +89,17 @@
   - <sub>Tags: <code>3.0.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.2 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.2...HEAD)
+#### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/warpinator/commit/eb4c2ecdc42e21327505f47bb0455c9c4aa1a840)
-- [ ] [<code>2.0.3</code>](https://github.com/linuxmint/warpinator/commit/d51681b2f580c4cad13d9c59af40a2952401d195)
-  - <sub>Tags: <code>2.0.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
-#### [xapp](https://github.com/linuxmint/xapp): [3.2.1 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.1...HEAD)
+#### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xapp/commit/eabe039d740a61a3387b2edd563f1f3719b40d71)
-- [ ] [<code>3.2.2</code>](https://github.com/linuxmint/xapp/commit/6b60e1f709502a23f6f68213563c7dad6e852bd6)
-  - <sub>Tags: <code>3.2.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.2 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.2...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/xreader/commit/3efa7be349180e6d947fb7f4ccdb2c52c82e61b7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>4.6.3</code>](https://github.com/linuxmint/xreader/commit/2f7cd3451810500e5799163a1843ca91a086b876)
-  - <sub>Tags: <code>4.6.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
