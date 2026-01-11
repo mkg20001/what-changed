@@ -7808,6 +7808,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore: add FUNDING.yml</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bab7f25a8726c5961433f3476af7eac3a41ede30)
 - [ ] [<code>docs(soundcore-device-faker): document a6611</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3612e0453eb9ec3ad743474a28cb7db9e1d9b030)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(android): ClassCastException when using application.getSystemService</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f652905227be25b63a23731c24adf8a2bf07a70)
+- [ ] [<code>fix(lib): don't try to disassociate from demo devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1305b22b40d9abdac668d704d8c382fc223fd191)
+- [ ] [<code>feat(android): add widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/de878c437e424a225426b7e9064b4bbebd4e8e6b)
+- [ ] [<code>fix(android): race condition causing crash</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e6728cc6cb2a7d9b51f6f3143f91afb872394be)
+- [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80fb595bf674b3483ef3051a120a20570bb2c7b6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
