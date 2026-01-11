@@ -5391,6 +5391,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump gopkg.in/ini.v1 from 1.67.0 to 1.67.1 in /src/go (#21535)</code>](https://github.com/netdata/netdata.git/commit/d03ce6acacda14c9d90406ee11af17587245f16d)
 - [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.69 to 1.1.70 in /src/go (#21536)</code>](https://github.com/netdata/netdata.git/commit/5bcc5e9d5f101d493bdf90b38388bfff1f702856)
 - [ ] [<code>build(deps): bump golang.org/x/text from 0.32.0 to 0.33.0 in /src/go (#21534)</code>](https://github.com/netdata/netdata.git/commit/a393a6325ecf66d1abd3787b1f3396693b0da04a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-191-nightly.</code>](https://github.com/netdata/netdata.git/commit/e13b10d82fa5cb8e450a7f4f1b3e83bd613d4abd)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
