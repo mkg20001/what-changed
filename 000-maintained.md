@@ -5392,6 +5392,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.69 to 1.1.70 in /src/go (#21536)</code>](https://github.com/netdata/netdata.git/commit/5bcc5e9d5f101d493bdf90b38388bfff1f702856)
 - [ ] [<code>build(deps): bump golang.org/x/text from 0.32.0 to 0.33.0 in /src/go (#21534)</code>](https://github.com/netdata/netdata.git/commit/a393a6325ecf66d1abd3787b1f3396693b0da04a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-191-nightly.</code>](https://github.com/netdata/netdata.git/commit/e13b10d82fa5cb8e450a7f4f1b3e83bd613d4abd)
+- [ ] [<code>Add VM templates and clones documentation (#21527)</code>](https://github.com/netdata/netdata.git/commit/5e1822d09cf0a59fd47ca0087ebfdaa116dddb09)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6204,9 +6205,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests:gen:base: Don't fail inside sbuild/chroot environment</code>](https://github.com/canonical/netplan/commit/a59cc9450df89e6c2ed2d117bb16315b890fc520)
 - [ ] [<code>Only create a tempdir when needed</code>](https://github.com/canonical/netplan/commit/b0fdccf2d80b256da401f665b8c977466eb2a61c)
   - <sub>Tags: <code>1.2</code></sub>
-> Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip', 'urls': ['https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+
+> Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped oils-for-unix - no appropriate URL found OrderedDict({'attr_path': 'oils-for-unix', 'home_url': 'https://www.oils.pub/', 'src_url': 'https://oils.pub/download/oils-for-unix-0.37.0.tar.gz', 'urls': ['https://oils.pub/download/oils-for-unix-0.37.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
