@@ -329,6 +329,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f15e09235471a5a7873a880eb73222eeb4477955)
 - [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f1e947d2e722048ad828d00fce82f6288bd0d13e)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/513ef6862a353a0b912e3f10af8b08e1383c6d61)
+- [ ] [<code>chore: Add security.md file</code>](https://github.com/krille-chan/fluffychat/commit/c43c721f7fd97d2fdacc8876b4412f1b9e78c76c)
+- [ ] [<code>fix: Locale unlocalized strings</code>](https://github.com/krille-chan/fluffychat/commit/dba2d2eb98a1d410f3058157b25510a7e806421c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -543,6 +545,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f15e09235471a5a7873a880eb73222eeb4477955)
 - [ ] [<code>chore(translations): Translated using Weblate (Czech)</code>](https://github.com/krille-chan/fluffychat/commit/f1e947d2e722048ad828d00fce82f6288bd0d13e)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/513ef6862a353a0b912e3f10af8b08e1383c6d61)
+- [ ] [<code>chore: Add security.md file</code>](https://github.com/krille-chan/fluffychat/commit/c43c721f7fd97d2fdacc8876b4412f1b9e78c76c)
+- [ ] [<code>fix: Locale unlocalized strings</code>](https://github.com/krille-chan/fluffychat/commit/dba2d2eb98a1d410f3058157b25510a7e806421c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4922,6 +4926,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Get rid of the TAB character</code>](https://github.com/AOMediaCodec/libavif/commit/08d09e4ee6d3c9bf27b474cad8741d6cfadbeae8)
 - [ ] [<code>Use AOM_TUNE_PSNR by default for alpha (#2949)</code>](https://github.com/AOMediaCodec/libavif/commit/1e295ed7632f9314a7269def4b85b635be377e37)
 - [ ] [<code>Make libpng treat benign errors as warnings (#2958)</code>](https://github.com/AOMediaCodec/libavif/commit/e40faf5f51da56771d71c818b7bdd5107d4e8df2)
+- [ ] [<code>Refactor/clarify cICP support. (#2955)</code>](https://github.com/AOMediaCodec/libavif/commit/1049d0ebebd5f3416476e198a5b7c45bb32dcc58)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -7819,6 +7824,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(android): add widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/de878c437e424a225426b7e9064b4bbebd4e8e6b)
 - [ ] [<code>fix(android): race condition causing crash</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e6728cc6cb2a7d9b51f6f3143f91afb872394be)
 - [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80fb595bf674b3483ef3051a120a20570bb2c7b6)
+- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ec9f44c2f17f286cbc087c2f563ba28e38633642)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
