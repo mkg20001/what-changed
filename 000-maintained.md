@@ -5393,6 +5393,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump golang.org/x/text from 0.32.0 to 0.33.0 in /src/go (#21534)</code>](https://github.com/netdata/netdata.git/commit/a393a6325ecf66d1abd3787b1f3396693b0da04a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-191-nightly.</code>](https://github.com/netdata/netdata.git/commit/e13b10d82fa5cb8e450a7f4f1b3e83bd613d4abd)
 - [ ] [<code>Add VM templates and clones documentation (#21527)</code>](https://github.com/netdata/netdata.git/commit/5e1822d09cf0a59fd47ca0087ebfdaa116dddb09)
+- [ ] [<code>docs: Add documentation review findings for quick-start-create-your-first-alert.md</code>](https://github.com/netdata/netdata.git/commit/2822639383c47104d4bdfa801f618d7b200402bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-194-nightly.</code>](https://github.com/netdata/netdata.git/commit/753eb115f3a4a6769bd579eac74515bfed3cd1d7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
