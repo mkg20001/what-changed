@@ -78,6 +78,7 @@
 - [ ] [<code>sources/gentoo: download .DIGESTS separately for GPG verification</code>](https://github.com/lxc/distrobuilder/commit/2bd631eb1b43f6d3807722302aa4d0b6cc8103e1)
 - [ ] [<code>sources/rocky: implement version-specific GPG verification</code>](https://github.com/lxc/distrobuilder/commit/6b6c3dd48f495fc88bc89aa07616da2e9d25838c)
 - [ ] [<code>sources/centos-http: Support CentOS Stream 10 checksum file</code>](https://github.com/lxc/distrobuilder/commit/1015a5ac067c6b5322fc90115accf563b6a940e3)
+- [ ] [<code>sources: Fix portage snapshot GPG verification</code>](https://github.com/lxc/distrobuilder/commit/e46de2b9679e4517f70e8ecd14dd01eef0131558)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -591,6 +592,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
 - [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
 - [ ] [<code>incusd: Parallelize instance startup on daemon start</code>](https://github.com/lxc/incus/commit/c92eccaddf574dc4bfd7e1ec8380417a131b9895)
+- [ ] [<code>incusd/instance/drivers: Add size parameter to UpdateBlockSize method</code>](https://github.com/lxc/incus/commit/58e7df140e1af36dc6d30abc8578b05889be813b)
+- [ ] [<code>incusd/storage/drivers: Export roundAbove function</code>](https://github.com/lxc/incus/commit/06309e0d5fdbc265d7e9a226f773c25d624f654d)
+- [ ] [<code>incusd/storage/drivers: Add Qcow2Resize and export isQcow2Block function</code>](https://github.com/lxc/incus/commit/62b535b9c03f9b21c625bd56369a235fa528afbd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add support for resizing qcow2 volumes</code>](https://github.com/lxc/incus/commit/ef90f5de6a14ca4ac4eb4e8a3d2929128d84d2e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Respect "primary" config for Identifier in mappings</code>](https://github.com/lxc/incus/commit/7659c68b2fb984c711b2e9a60a85a2cb19319a58)
+- [ ] [<code>Added a few more environment variables. PATHEXT and COMPUTERNAME were needed for 'shutdown.exe'. Meanwhile, I've connected as SYSTEM with PsExec to show the environment variables by default and added them.</code>](https://github.com/lxc/incus/commit/27870526d1cb69d50b443c8b89187d9a16a30ea7)
+- [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
+- [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4779,6 +4790,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
 - [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
 - [ ] [<code>incusd: Parallelize instance startup on daemon start</code>](https://github.com/lxc/incus/commit/c92eccaddf574dc4bfd7e1ec8380417a131b9895)
+- [ ] [<code>incusd/instance/drivers: Add size parameter to UpdateBlockSize method</code>](https://github.com/lxc/incus/commit/58e7df140e1af36dc6d30abc8578b05889be813b)
+- [ ] [<code>incusd/storage/drivers: Export roundAbove function</code>](https://github.com/lxc/incus/commit/06309e0d5fdbc265d7e9a226f773c25d624f654d)
+- [ ] [<code>incusd/storage/drivers: Add Qcow2Resize and export isQcow2Block function</code>](https://github.com/lxc/incus/commit/62b535b9c03f9b21c625bd56369a235fa528afbd)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add support for resizing qcow2 volumes</code>](https://github.com/lxc/incus/commit/ef90f5de6a14ca4ac4eb4e8a3d2929128d84d2e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>generate-database: Respect "primary" config for Identifier in mappings</code>](https://github.com/lxc/incus/commit/7659c68b2fb984c711b2e9a60a85a2cb19319a58)
+- [ ] [<code>Added a few more environment variables. PATHEXT and COMPUTERNAME were needed for 'shutdown.exe'. Meanwhile, I've connected as SYSTEM with PsExec to show the environment variables by default and added them.</code>](https://github.com/lxc/incus/commit/27870526d1cb69d50b443c8b89187d9a16a30ea7)
+- [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
+- [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -4927,6 +4948,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use AOM_TUNE_PSNR by default for alpha (#2949)</code>](https://github.com/AOMediaCodec/libavif/commit/1e295ed7632f9314a7269def4b85b635be377e37)
 - [ ] [<code>Make libpng treat benign errors as warnings (#2958)</code>](https://github.com/AOMediaCodec/libavif/commit/e40faf5f51da56771d71c818b7bdd5107d4e8df2)
 - [ ] [<code>Refactor/clarify cICP support. (#2955)</code>](https://github.com/AOMediaCodec/libavif/commit/1049d0ebebd5f3416476e198a5b7c45bb32dcc58)
+- [ ] [<code>colr: add null check in avifTransferCharacteristicsGetGamma (#2961)</code>](https://github.com/AOMediaCodec/libavif/commit/08f54fe9d7415fd975657acdac92348ebaa72e20)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5401,6 +5423,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Add documentation review findings for quick-start-create-your-first-alert.md</code>](https://github.com/netdata/netdata.git/commit/2822639383c47104d4bdfa801f618d7b200402bd)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-194-nightly.</code>](https://github.com/netdata/netdata.git/commit/753eb115f3a4a6769bd579eac74515bfed3cd1d7)
+- [ ] [<code>Fix health alert db lookup parser (#21529)</code>](https://github.com/netdata/netdata.git/commit/60c905e4de80752ec62d8875d955cad03a98d358)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>docs: fix links in vm-templates.md (#21546)</code>](https://github.com/netdata/netdata.git/commit/fdea3cc7c324d19383827a3709a864d96057117b)
+- [ ] [<code>Code improvement (Windows.plugin) (#21523)</code>](https://github.com/netdata/netdata.git/commit/959c15f9b3fd50f5cfee51c491770f6aa6b41c76)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7972,6 +7998,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/45448a07a8d9f013b8e9059caa9f096892e126db)
 - [ ] [<code>Update IPv8 pointer (#8833)</code>](https://github.com/tribler/Tribler/commit/21b57eef930b0fbabe30ca05d53ec3950f907fa5)
   - <sub>Tags: <code>v8.3.0</code></sub>
+- [ ] [<code>Catch exceptions while starting SOCKS5 servers</code>](https://github.com/tribler/Tribler/commit/460498ec78764ff7f78d90dd44366c9fb08bf656)
+- [ ] [<code>Catch exceptions while starting SOCKS5 servers (#8844)</code>](https://github.com/tribler/Tribler/commit/0c4c1179f17e2d3f698e6123f97f0305ba2b5f10)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
