@@ -62,6 +62,8 @@
 
 - [ ] [<code>github: Update workflow file.</code>](https://github.com/linuxmint/muffin/commit/f5ac87c3ba2c5d16a4630aa9f007b47d0af390a3)
 - [ ] [<code>github: Fix build.yml</code>](https://github.com/linuxmint/muffin/commit/d235e8e4627d169da4bf1641cd5ebc48b938d294)
+- [ ] [<code>Revert 23aba56e6d (ignore XkbNewKeyboardNotify) - Filter by (#782)</code>](https://github.com/linuxmint/muffin/commit/98298ea602570c4584a56fe723b9fabac58d285f)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
@@ -86,12 +88,8 @@
 #### [pix](https://github.com/linuxmint/pix): [3.4.10 → HEAD](https://github.com/linuxmint/pix/compare/3.4.10...HEAD)
 
 
-#### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.1 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.1...HEAD)
+#### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.2...HEAD)
 
-- [ ] [<code>l10n: Update translations</code>](https://github.com/linuxmint/python-xapp/commit/776353b515c6fb2d415289e5ab64cc19459b8f44)
-- [ ] [<code>3.0.2</code>](https://github.com/linuxmint/python-xapp/commit/a118b0411c126d3f948e9fa80fe31b3df966659d)
-  - <sub>Tags: <code>3.0.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
