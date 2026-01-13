@@ -20,6 +20,8 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
+> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.4/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.4/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -602,6 +604,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added a few more environment variables. PATHEXT and COMPUTERNAME were needed for 'shutdown.exe'. Meanwhile, I've connected as SYSTEM with PsExec to show the environment variables by default and added them.</code>](https://github.com/lxc/incus/commit/27870526d1cb69d50b443c8b89187d9a16a30ea7)
 - [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
 - [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
+- [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4800,6 +4803,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added a few more environment variables. PATHEXT and COMPUTERNAME were needed for 'shutdown.exe'. Meanwhile, I've connected as SYSTEM with PsExec to show the environment variables by default and added them.</code>](https://github.com/lxc/incus/commit/27870526d1cb69d50b443c8b89187d9a16a30ea7)
 - [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
 - [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
+- [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -7859,6 +7863,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(android): race condition causing crash</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e6728cc6cb2a7d9b51f6f3143f91afb872394be)
 - [ ] [<code>test(android): fix unit tests</code>](https://github.com/Oppzippy/OpenSCQ30/commit/80fb595bf674b3483ef3051a120a20570bb2c7b6)
 - [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ec9f44c2f17f286cbc087c2f563ba28e38633642)
+- [ ] [<code>perf(android): don't update widget when state hasn't changed</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f8720bae188bec25d9275fe33576e970531513e)
+- [ ] [<code>refactor(android): move updateSettingWidgets inside SettingWidget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6bea38fd5023007a3fd1e565a641a7fd8a6af74f)
+- [ ] [<code>refactor(android): remove unused parameter</code>](https://github.com/Oppzippy/OpenSCQ30/commit/593dea735f2f62d41cbe3663c7d9c93272217fa7)
+- [ ] [<code>fix(android): don't call function that requires api 33+</code>](https://github.com/Oppzippy/OpenSCQ30/commit/17cec3a73c5cd4f3577ea818c0b4322ed6c4e0c9)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6d59689060fa036c30b1d23ae42ca3ae95ab7352)
+- [ ] [<code>fix(android): widget sizing compatibility with api <28</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bc1aa7dd48c071bd536792148c2631a7bd71400a)
+- [ ] [<code>fix(android): improve widget compatibility with api <28</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f5ba4552621fa934d3c5624947dc204ac50d05e)
+- [ ] [<code>fix(android): improve logic for deciding layout of radio buttons</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cf90289f899d2779b550abae38bb529ef95fdaf9)
+- [ ] [<code>feat(android): improve design of single row select</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2b48f92e6a6d76f396d851d7c99bfedc477ea4f4)
+- [ ] [<code>refactor(android): move functions out of class</code>](https://github.com/Oppzippy/OpenSCQ30/commit/24f868b7cb6bce25ac583b79f9e5b034bb9ffaed)
+- [ ] [<code>fix(android): scale equalizer values in widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8104f1ab9541f8b71404007c1f66e5a9c981c70)
+- [ ] [<code>fix(android): widget missing initial state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/df29abf6a9a0f3d11c1cfeece45e7516cf4e0968)
+- [ ] [<code>feat(android): add widget preview</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b00fd7c9c43625f9de00211f8d4f1d6940916168)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8008,6 +8025,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v8.3.0</code></sub>
 - [ ] [<code>Catch exceptions while starting SOCKS5 servers</code>](https://github.com/tribler/Tribler/commit/460498ec78764ff7f78d90dd44366c9fb08bf656)
 - [ ] [<code>Catch exceptions while starting SOCKS5 servers (#8844)</code>](https://github.com/tribler/Tribler/commit/0c4c1179f17e2d3f698e6123f97f0305ba2b5f10)
+- [ ] [<code>Torrent checker debug panel</code>](https://github.com/tribler/Tribler/commit/a2ac1be833d656670a2edf2c412afba3c04e03fc)
+- [ ] [<code>Update TorrentChecker</code>](https://github.com/tribler/Tribler/commit/6dada27013338271090d712c1eec256943d12824)
+- [ ] [<code>Remove fake DHT sessions from TorrentChecker</code>](https://github.com/tribler/Tribler/commit/ee81d9206fb40749c7e068a5184d3967a5f79a7a)
+- [ ] [<code>Fix introduction point limit</code>](https://github.com/tribler/Tribler/commit/bed75e0f4d3ae8026978d459d2ae5f69f6cbc30f)
+- [ ] [<code>Update TorrentChecker (#8845)</code>](https://github.com/tribler/Tribler/commit/73c1e726da0fbc0f9d3cc473fab64205175a4d05)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
