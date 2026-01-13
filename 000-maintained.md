@@ -5427,6 +5427,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>docs: fix links in vm-templates.md (#21546)</code>](https://github.com/netdata/netdata.git/commit/fdea3cc7c324d19383827a3709a864d96057117b)
 - [ ] [<code>Code improvement (Windows.plugin) (#21523)</code>](https://github.com/netdata/netdata.git/commit/959c15f9b3fd50f5cfee51c491770f6aa6b41c76)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.48.0 to 0.49.0 in /src/go (#21550)</code>](https://github.com/netdata/netdata.git/commit/c408da657c4fbaff227c3cfbff61bdfc7fd81e8d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-199-nightly.</code>](https://github.com/netdata/netdata.git/commit/f6980670daa9af354cdcea38b8faa8ecdb2b7afb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6239,6 +6241,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests:gen:base: Don't fail inside sbuild/chroot environment</code>](https://github.com/canonical/netplan/commit/a59cc9450df89e6c2ed2d117bb16315b890fc520)
 - [ ] [<code>Only create a tempdir when needed</code>](https://github.com/canonical/netplan/commit/b0fdccf2d80b256da401f665b8c977466eb2a61c)
   - <sub>Tags: <code>1.2</code></sub>
+- [ ] [<code>cli: Fix generate.py to properly handle --root-dir</code>](https://github.com/canonical/netplan/commit/116e89e526f85a3d195cc8ea29d4e13a7985c049)
+- [ ] [<code>CI: downgrade to systemd 248 (from 258) for tests on Noble</code>](https://github.com/canonical/netplan/commit/365e2344dc170c2c5ef6b68283b93b1fd13505ff)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip', 'urls': ['https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
