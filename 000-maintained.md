@@ -5203,7 +5203,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [netdata](https://github.com/netdata/netdata.git): [v2.8.4 → HEAD](https://github.com/netdata/netdata.git/compare/v2.8.4...HEAD)
+#### [netdata](https://github.com/netdata/netdata.git): [v2.8.5 → HEAD](https://github.com/netdata/netdata.git/compare/v2.8.5...HEAD)
 
 - [ ] [<code>fix(cgroups): improve podman container name resolution (#21317)</code>](https://github.com/netdata/netdata.git/commit/b3b04ac530874b48515447ff1f4af7c003b8e96a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-2-nightly.</code>](https://github.com/netdata/netdata.git/commit/3ba11b53e0f858a025603192e0ee8f2bf592e38e)
@@ -5429,6 +5429,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Code improvement (Windows.plugin) (#21523)</code>](https://github.com/netdata/netdata.git/commit/959c15f9b3fd50f5cfee51c491770f6aa6b41c76)
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.48.0 to 0.49.0 in /src/go (#21550)</code>](https://github.com/netdata/netdata.git/commit/c408da657c4fbaff227c3cfbff61bdfc7fd81e8d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-199-nightly.</code>](https://github.com/netdata/netdata.git/commit/f6980670daa9af354cdcea38b8faa8ecdb2b7afb)
+- [ ] [<code>improve(go.d/proxysql): add hostgroup summary metrics (#21549)</code>](https://github.com/netdata/netdata.git/commit/edffdbe9b06d03999fcb7fb48d381245c6f14bd8)
+- [ ] [<code>improve(health/proxysql): add alerts (#21548)</code>](https://github.com/netdata/netdata.git/commit/eb4ea0d8727f3f6f698437210dc3cbc8b255100b)
+- [ ] [<code>Regenerate integrations docs (#21551)</code>](https://github.com/netdata/netdata.git/commit/aefadf2136ead6004c1cac4af5de6dd725b7d92f)
+- [ ] [<code>docs: Add reciprocal links between ephemerality and identity docs (#21552)</code>](https://github.com/netdata/netdata.git/commit/0deb6217c50b479d110617e4ca98838e68904b63)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
