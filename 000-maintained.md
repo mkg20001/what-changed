@@ -5443,6 +5443,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Add reciprocal links between ephemerality and identity docs (#21552)</code>](https://github.com/netdata/netdata.git/commit/0deb6217c50b479d110617e4ca98838e68904b63)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/54a773e7d378ca9fe124bdee761c1098edaf3472)
 - [ ] [<code>add SOC2 badge to security and privacy doc (#21554)</code>](https://github.com/netdata/netdata.git/commit/266f3a9d3c95f39745967657278014e6b3db0fad)
+- [ ] [<code>OTEL logs (#21356)</code>](https://github.com/netdata/netdata.git/commit/d0905d9b99b9c6d8bd24847b020641f9b4455f55)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Additional checks in error paths (#21541)</code>](https://github.com/netdata/netdata.git/commit/4a17fb44755770870ba0992f88bb9f68e8e375cd)
+- [ ] [<code>Adjust lock to prevent crash during ML calculations  (#21555)</code>](https://github.com/netdata/netdata.git/commit/3eeeb039a8f9013730066a3fc11344839a779a56)
+- [ ] [<code>fix(go.d/snmp): fix nil dereferencing when no profiles found (#21557)</code>](https://github.com/netdata/netdata.git/commit/aeca973ea0932adbd37a3529addfd3d4f32ece0c)
+- [ ] [<code>fix(cgroups.plugin): correct is_cgroup_duplicate check (#21559)</code>](https://github.com/netdata/netdata.git/commit/6393b37a06e358962170b8b545d240561a29dd43)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8112,3 +8119,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
 
+- [ ] [<code>Add xsi-applications-electronics</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/fee3b9cf38b62cc861e62c64a0f4627b2d024c50)
+- [ ] [<code>Add licensing info (#21)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f5fa4f822b6bdc4cc5b2485b7ffc1a7b0f6ac3a7)
+  - <sub>Keywords: <code>usr</code></sub>
