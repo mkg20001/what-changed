@@ -5437,6 +5437,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>improve(health/proxysql): add alerts (#21548)</code>](https://github.com/netdata/netdata.git/commit/eb4ea0d8727f3f6f698437210dc3cbc8b255100b)
 - [ ] [<code>Regenerate integrations docs (#21551)</code>](https://github.com/netdata/netdata.git/commit/aefadf2136ead6004c1cac4af5de6dd725b7d92f)
 - [ ] [<code>docs: Add reciprocal links between ephemerality and identity docs (#21552)</code>](https://github.com/netdata/netdata.git/commit/0deb6217c50b479d110617e4ca98838e68904b63)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/54a773e7d378ca9fe124bdee761c1098edaf3472)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
