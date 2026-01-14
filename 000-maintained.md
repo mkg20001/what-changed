@@ -605,6 +605,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
 - [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
 - [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
+- [ ] [<code>incusd/instance/drivers: Fix adding disk with a device name longer than 31 bytes</code>](https://github.com/lxc/incus/commit/bef2fc76a6f9c070cc07e068c7dd3a205884e3d1)
+- [ ] [<code>incusd/instance/drivers: Add tests for hashName</code>](https://github.com/lxc/incus/commit/fe9c020eea99b05ed3eee2a5c50ed124e15df14a)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4804,6 +4806,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
 - [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
 - [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
+- [ ] [<code>incusd/instance/drivers: Fix adding disk with a device name longer than 31 bytes</code>](https://github.com/lxc/incus/commit/bef2fc76a6f9c070cc07e068c7dd3a205884e3d1)
+- [ ] [<code>incusd/instance/drivers: Add tests for hashName</code>](https://github.com/lxc/incus/commit/fe9c020eea99b05ed3eee2a5c50ed124e15df14a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -5438,6 +5442,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21551)</code>](https://github.com/netdata/netdata.git/commit/aefadf2136ead6004c1cac4af5de6dd725b7d92f)
 - [ ] [<code>docs: Add reciprocal links between ephemerality and identity docs (#21552)</code>](https://github.com/netdata/netdata.git/commit/0deb6217c50b479d110617e4ca98838e68904b63)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-204-nightly.</code>](https://github.com/netdata/netdata.git/commit/54a773e7d378ca9fe124bdee761c1098edaf3472)
+- [ ] [<code>add SOC2 badge to security and privacy doc (#21554)</code>](https://github.com/netdata/netdata.git/commit/266f3a9d3c95f39745967657278014e6b3db0fad)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8100,6 +8105,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ubus: complete pending requests when disconnecting locally</code>](https://github.com/jow-/ucode/commit/376e8733609e8205309384b72c42ae714697b384)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>io: add ptsname, tcgetattr, tcsetattr, grantpt, unlockpt</code>](https://github.com/jow-/ucode/commit/32449bfb69d6b46b2a5efa40509a7eeb871ea3e8)
+- [ ] [<code>digest: fix jsdoc to reveal sha512 functions</code>](https://github.com/jow-/ucode/commit/76bf32679d86b4b854180f305752c849e141dbd0)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
