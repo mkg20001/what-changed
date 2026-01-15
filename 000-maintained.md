@@ -5453,6 +5453,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add sentry error reporting (#21558)</code>](https://github.com/netdata/netdata.git/commit/ffcec41d4e844d0ca5fcb08e286356857e38b1b5)
 - [ ] [<code>Allow systemd-journal plugin if journal-viewer does not exist. (#21561)</code>](https://github.com/netdata/netdata.git/commit/2b180ba017d777a9c9fbfc0c092b621ddde186f4)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-213-nightly.</code>](https://github.com/netdata/netdata.git/commit/b14b0dab710a10e32a539d9641d55c3475e4c229)
+- [ ] [<code>fix(go.d): disable logger color in terminal on Win (#21562)</code>](https://github.com/netdata/netdata.git/commit/c1b6747cbd133e2668dcb7174331ccc8b30c50ec)
+- [ ] [<code>docs(go.d/proxysql): add alerts to metadata.yaml (#21565)</code>](https://github.com/netdata/netdata.git/commit/1efd43ae62ae65c7c4edb151c300c193038133a9)
+- [ ] [<code>Regenerate integrations docs (#21566)</code>](https://github.com/netdata/netdata.git/commit/aecfd97d4e001ac198448ba5366d1ac4cabffae0)
+- [ ] [<code>Add On-Prem Release Notes to map.csv (#21571)</code>](https://github.com/netdata/netdata.git/commit/a503dc53fb814d546ecf97647a71a167511c7daf)
+- [ ] [<code>Use host-prefixed log directories under containers. (#21568)</code>](https://github.com/netdata/netdata.git/commit/1fac5653d541f1880c805e3ebb0720fbbd2b0e50)
+- [ ] [<code>bring back systemd-journal.plugin setcap (from source install) (#21569)</code>](https://github.com/netdata/netdata.git/commit/ad6ee9c2617c74ecb77b5539975058997c758da8)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7989,11 +7996,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Document memory ownership of the raft_event structure passed to raft_step (#199)</code>](https://github.com/cowsql/raft/commit/148951f79a1ed529d6f112661a3067494f1a0917)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+remote: Path translation timed out.
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 504
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -8057,6 +8065,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove fake DHT sessions from TorrentChecker</code>](https://github.com/tribler/Tribler/commit/ee81d9206fb40749c7e068a5184d3967a5f79a7a)
 - [ ] [<code>Fix introduction point limit</code>](https://github.com/tribler/Tribler/commit/bed75e0f4d3ae8026978d459d2ae5f69f6cbc30f)
 - [ ] [<code>Update TorrentChecker (#8845)</code>](https://github.com/tribler/Tribler/commit/73c1e726da0fbc0f9d3cc473fab64205175a4d05)
+- [ ] [<code>Ask for confirmation before disabling anonymity</code>](https://github.com/tribler/Tribler/commit/86bc021efab0a3dbce483b5e7f8c49c3a7019748)
+- [ ] [<code>Ask for confirmation before disabling anonymity (#8846)</code>](https://github.com/tribler/Tribler/commit/5911aaf8a136248ab98392bb99ee5b8365fe6ca8)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -8136,3 +8146,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add xsi-applications-electronics</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/fee3b9cf38b62cc861e62c64a0f4627b2d024c50)
 - [ ] [<code>Add licensing info (#21)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f5fa4f822b6bdc4cc5b2485b7ffc1a7b0f6ac3a7)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update licensing info</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/044dea8e41449ec5cac7209291a46b9acb42cccd)
+- [ ] [<code>Redesign git related icons and attribute license to GitLab</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/91325181619eb6564d48ce07ac35445e8b09dcc1)
+- [ ] [<code>Update licensing info for Internet</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/611f3e333da73208522380d79fe6f131f5a6e30c)
+- [ ] [<code>Redesign boot-menu</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/874eda3cde0b3264682c41fdfefa397e14ad8c7a)
+- [ ] [<code>Redesign group</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e00f92b9d4f9912b65e1f583bf900113dd44014b)
+- [ ] [<code>Redesign applications-wine</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/bd3d81bdd83302c59170d573353ee4fa25b83b89)
+- [ ] [<code>Licensing: Remove confusion between LGPL-3 and LGPL-3+</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/1984afb7d1a1976e3999d2b26dc41351baa45055)
+- [ ] [<code>Licensing: Clarify GitLab license</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b7acd762e6887c7673faa668f3b79434e3f7fcaf)
+- [ ] [<code>Licensing: Add missing CC0 license to debian/copyright</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/11c67cdde65358cfcd2797753ebdac74ec057830)
+- [ ] [<code>Redesign applications-education</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c58541d54575c0a9be74c0e11deabec5d008ffd6)
+- [ ] [<code>Redesign cpu/ram</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/350e966570e722ccb24748c4cdc52ad43cbde1bc)
+- [ ] [<code>Redesign temperature</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/ae90cc89f35fde231c4cfeea66ef502775365053)
