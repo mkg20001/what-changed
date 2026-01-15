@@ -5450,6 +5450,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Adjust lock to prevent crash during ML calculations  (#21555)</code>](https://github.com/netdata/netdata.git/commit/3eeeb039a8f9013730066a3fc11344839a779a56)
 - [ ] [<code>fix(go.d/snmp): fix nil dereferencing when no profiles found (#21557)</code>](https://github.com/netdata/netdata.git/commit/aeca973ea0932adbd37a3529addfd3d4f32ece0c)
 - [ ] [<code>fix(cgroups.plugin): correct is_cgroup_duplicate check (#21559)</code>](https://github.com/netdata/netdata.git/commit/6393b37a06e358962170b8b545d240561a29dd43)
+- [ ] [<code>Add sentry error reporting (#21558)</code>](https://github.com/netdata/netdata.git/commit/ffcec41d4e844d0ca5fcb08e286356857e38b1b5)
+- [ ] [<code>Allow systemd-journal plugin if journal-viewer does not exist. (#21561)</code>](https://github.com/netdata/netdata.git/commit/2b180ba017d777a9c9fbfc0c092b621ddde186f4)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-213-nightly.</code>](https://github.com/netdata/netdata.git/commit/b14b0dab710a10e32a539d9641d55c3475e4c229)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
