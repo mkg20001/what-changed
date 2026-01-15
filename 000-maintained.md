@@ -7892,6 +7892,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(android): scale equalizer values in widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f8104f1ab9541f8b71404007c1f66e5a9c981c70)
 - [ ] [<code>fix(android): widget missing initial state</code>](https://github.com/Oppzippy/OpenSCQ30/commit/df29abf6a9a0f3d11c1cfeece45e7516cf4e0968)
 - [ ] [<code>feat(android): add widget preview</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b00fd7c9c43625f9de00211f8d4f1d6940916168)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3f26a4b93f18ccce500e3bd58d1c8b47a4152512)
+- [ ] [<code>refactor(android): move composable to separate function</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c150ef2920108388d6e492b51f4ba0adabb8f4b2)
+- [ ] [<code>feat(android): add disconnect button to widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/aff9ba58cfe6d318208dd7ab07b007a815ac0468)
+- [ ] [<code>fix(android): glance columns only allow up to 10 children</code>](https://github.com/Oppzippy/OpenSCQ30/commit/428c262a10738a4465109b1fc23dd7760fdc77e6)
+- [ ] [<code>fix(android): missing confirm widget creation button when connected</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fb908a17b34562229c241aa1297b7378bead833f)
+- [ ] [<code>build: v2.3.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8887ea840940143843af82dff3a6e32ad506e33b)
+- [ ] [<code>build(gui): disable libcosmic single-instance</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e53fe72f6a8fce72fd5b55f5e25bddf67dc0bb40)
+  - <sub>Tags: <code>v2.3.0</code></sub>
+- [ ] [<code>fix(android): adding device not refreshing device listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1ebdbed34e9f5e8512c84c0252559862e902689)
+- [ ] [<code>build: v2.3.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fab6836fb28ac0bcec08115c28598842960e35e6)
+  - <sub>Tags: <code>v2.3.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
