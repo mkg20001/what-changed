@@ -173,6 +173,9 @@
 - [ ] [<code>add debian package support</code>](https://git.openwrt.org/project/udebug.git/commit/75f39cd4a8067a6f0503c2f1c83c6b1af733a6f2)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>udebug-cli: fix reference to invalid variable in error message</code>](https://git.openwrt.org/project/udebug.git/commit/c5c493ed5787ca067ab1a713061ae02f0bb17046)
+- [ ] [<code>udebug-cli: add logdump command</code>](https://git.openwrt.org/project/udebug.git/commit/875e1a7af6ca9d86524d18169c3a79f4a1920053)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
 
