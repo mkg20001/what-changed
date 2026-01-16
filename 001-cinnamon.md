@@ -9,7 +9,9 @@
 - [ ] [<code>accessibility/cinnamon-hover-click: Keep the active click action</code>](https://github.com/linuxmint/cinnamon/commit/c7afefaff83dad8a90ad5bf3b4779a2b7d27e9dd)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>virtualKeyboard.js: Fix support for OSK ctrl and alt modifier in (#13355)</code>](https://github.com/linuxmint/cinnamon/commit/0275da135572f727d3753491416d37fea7ac1bff)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.5</code>](https://github.com/linuxmint/cinnamon/commit/090423505db2a260fa7fa7bfdb7923b62b91c3b7)
+  - <sub>Tags: <code>6.6.5</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -50,11 +52,14 @@
 
 - [ ] [<code>Cinnamon: window-list applet set notification badge fixed font size (#21)</code>](https://github.com/linuxmint/mint-l-theme/commit/b3cd80516d8a595c4bdee708b06e9a8fcbcdef7e)
 - [ ] [<code>Cinnamon: Fix support for ctrl and alt OSK modifiers. (#24)</code>](https://github.com/linuxmint/mint-l-theme/commit/425a6f08d0ccd7ed87232be80db339a192179c09)
+- [ ] [<code>2.0.6</code>](https://github.com/linuxmint/mint-l-theme/commit/1eaec8dba97dcae456e1b7b1ccb99b6641727d7f)
+  - <sub>Tags: <code>2.0.6</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.7 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.7...HEAD)
 
 - [ ] [<code>Cinnamon: Fix support for ctrl and alt OSK modifiers. (#529)</code>](https://github.com/linuxmint/mint-themes/commit/58d6834d6b15b5f6f70b6e0752124994c7a552a7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.3.8</code>](https://github.com/linuxmint/mint-themes/commit/984fced9da446f90750421fda9a56ef0a5a5b881)
+  - <sub>Tags: <code>2.3.8</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -67,7 +72,9 @@
 - [ ] [<code>github: Update workflow file.</code>](https://github.com/linuxmint/muffin/commit/f5ac87c3ba2c5d16a4630aa9f007b47d0af390a3)
 - [ ] [<code>github: Fix build.yml</code>](https://github.com/linuxmint/muffin/commit/d235e8e4627d169da4bf1641cd5ebc48b938d294)
 - [ ] [<code>Revert 23aba56e6d (ignore XkbNewKeyboardNotify) - Filter by (#782)</code>](https://github.com/linuxmint/muffin/commit/98298ea602570c4584a56fe723b9fabac58d285f)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.2</code>](https://github.com/linuxmint/muffin/commit/fc5662205e5f33f605eb6265958a3c44ef7740e8)
+  - <sub>Tags: <code>6.6.2</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
