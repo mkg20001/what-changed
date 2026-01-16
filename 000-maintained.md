@@ -5460,6 +5460,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use host-prefixed log directories under containers. (#21568)</code>](https://github.com/netdata/netdata.git/commit/1fac5653d541f1880c805e3ebb0720fbbd2b0e50)
 - [ ] [<code>bring back systemd-journal.plugin setcap (from source install) (#21569)</code>](https://github.com/netdata/netdata.git/commit/ad6ee9c2617c74ecb77b5539975058997c758da8)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-220-nightly.</code>](https://github.com/netdata/netdata.git/commit/4aadfc5d795621e5fd24bc38acd4452557fae418)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7996,12 +7997,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Document memory ownership of the raft_event structure passed to raft_step (#199)</code>](https://github.com/cowsql/raft/commit/148951f79a1ed529d6f112661a3067494f1a0917)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-remote: Path translation timed out.
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': The requested URL returned error: 504
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
