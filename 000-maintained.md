@@ -4957,6 +4957,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Make libpng treat benign errors as warnings (#2958)</code>](https://github.com/AOMediaCodec/libavif/commit/e40faf5f51da56771d71c818b7bdd5107d4e8df2)
 - [ ] [<code>Refactor/clarify cICP support. (#2955)</code>](https://github.com/AOMediaCodec/libavif/commit/1049d0ebebd5f3416476e198a5b7c45bb32dcc58)
 - [ ] [<code>colr: add null check in avifTransferCharacteristicsGetGamma (#2961)</code>](https://github.com/AOMediaCodec/libavif/commit/08f54fe9d7415fd975657acdac92348ebaa72e20)
+- [ ] [<code>Add support for Apple gain maps (iPhone jpegs) (#2960)</code>](https://github.com/AOMediaCodec/libavif/commit/2bd7de2efeba5515bbb88b3966c8b81f0f43e981)
+- [ ] [<code>src/codec_aom.c: Include <stdint.h></code>](https://github.com/AOMediaCodec/libavif/commit/9ad6d3fbf8dd787bc8e94da93ac7172587727b18)
+- [ ] [<code>Bump avm dependency to tag research-v13.0.0 (#2959)</code>](https://github.com/AOMediaCodec/libavif/commit/e9a816e32dfb1b5d8257211cd35db75d0be37c93)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code> <code>find_package</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5466,6 +5471,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Additional checks during metric page list retrieval (#21575)</code>](https://github.com/netdata/netdata.git/commit/28ca505ece86e0b866dc1cab272045cc0959b49c)
 - [ ] [<code>Fix incorrect macro definition for netdata_mutex_destroy (#21579)</code>](https://github.com/netdata/netdata.git/commit/0ac84c5b6ca25f3759e64066a42ed7c0b0e9fa69)
 - [ ] [<code>Proper decompression of data object payloads. (#21578)</code>](https://github.com/netdata/netdata.git/commit/7f4ce41c142b38ccbe2a6bc0268858e38b541736)
+- [ ] [<code>Fix response when no log entries have been found. (#21581)</code>](https://github.com/netdata/netdata.git/commit/d0c06b899b92a84c4b83de2c854dcd6602b9f71f)
+- [ ] [<code>Fix 32-bit builds of journal-viewer plugin. (#21580)</code>](https://github.com/netdata/netdata.git/commit/d98adc041a201f7f13f63717bdd33df74292e65c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Enable ARM package builds in PR CI runs. (#21570)</code>](https://github.com/netdata/netdata.git/commit/55b85967688b50a7df43698ebf4434776f2c26c3)
+- [ ] [<code>SQL Chain (Windows.plugin) (#21582)</code>](https://github.com/netdata/netdata.git/commit/ea485bed72e5992fd18a25515c2fe9a3d98bf261)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8080,6 +8091,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update TorrentChecker (#8845)</code>](https://github.com/tribler/Tribler/commit/73c1e726da0fbc0f9d3cc473fab64205175a4d05)
 - [ ] [<code>Ask for confirmation before disabling anonymity</code>](https://github.com/tribler/Tribler/commit/86bc021efab0a3dbce483b5e7f8c49c3a7019748)
 - [ ] [<code>Ask for confirmation before disabling anonymity (#8846)</code>](https://github.com/tribler/Tribler/commit/5911aaf8a136248ab98392bb99ee5b8365fe6ca8)
+- [ ] [<code>Fix export torrent for v2 torrents</code>](https://github.com/tribler/Tribler/commit/06259f1271e9924a591a49f785609c83f02f43a3)
+- [ ] [<code>Fixed export torrent for v2 torrents (#8847)</code>](https://github.com/tribler/Tribler/commit/c168830848742b777cdce74a69c45805c904a6b8)
+- [ ] [<code>Show torrent description in SaveAs dialog</code>](https://github.com/tribler/Tribler/commit/a629432d34a1e16191273e23844a618b3c960991)
+- [ ] [<code>Show torrent description in SaveAs dialog (#8848)</code>](https://github.com/tribler/Tribler/commit/0b58832dbcd611335f47a8c7864007f6f88f0355)
+- [ ] [<code>Round down download progress</code>](https://github.com/tribler/Tribler/commit/00988d2bd336e3bc1c4d61c0de5f8bc5dddb11fd)
+- [ ] [<code>Round down download progress (#8849)</code>](https://github.com/tribler/Tribler/commit/ef1df9a7932dbf5bfa4696bc228d39add4df7b43)
+- [ ] [<code>Update javascript dependencies</code>](https://github.com/tribler/Tribler/commit/6037cc2f2225a16c1bc02ccce437ffe88ecbca6b)
+- [ ] [<code>Update javascript dependencies (#8850)</code>](https://github.com/tribler/Tribler/commit/779c630b7648924523086576832897cbbd430bef)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -8171,3 +8190,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Redesign applications-education</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c58541d54575c0a9be74c0e11deabec5d008ffd6)
 - [ ] [<code>Redesign cpu/ram</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/350e966570e722ccb24748c4cdc52ad43cbde1bc)
 - [ ] [<code>Redesign temperature</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/ae90cc89f35fde231c4cfeea66ef502775365053)
+- [ ] [<code>Licensing: Update info</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2aeec8d9ab7a3829139826a78a7aa1058b6cf9e6)
+- [ ] [<code>1.0.9</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/86bc24d3dc895351d3418969d711bdb5dafb3c29)
+  - <sub>Tags: <code>1.0.9</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
