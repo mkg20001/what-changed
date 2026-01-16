@@ -5461,6 +5461,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>bring back systemd-journal.plugin setcap (from source install) (#21569)</code>](https://github.com/netdata/netdata.git/commit/ad6ee9c2617c74ecb77b5539975058997c758da8)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-220-nightly.</code>](https://github.com/netdata/netdata.git/commit/4aadfc5d795621e5fd24bc38acd4452557fae418)
+- [ ] [<code>fix(go.d/proxysql): use timeout when pinging proxysql instance (#21573)</code>](https://github.com/netdata/netdata.git/commit/30a1331f6a723450047a5fa11eb1726679fb1e3b)
+- [ ] [<code>Fix race condition on shutdown (#21563)</code>](https://github.com/netdata/netdata.git/commit/7d6dcf48d7493cf07900810a6426e82db8a7e181)
+- [ ] [<code>Additional checks during metric page list retrieval (#21575)</code>](https://github.com/netdata/netdata.git/commit/28ca505ece86e0b866dc1cab272045cc0959b49c)
+- [ ] [<code>Fix incorrect macro definition for netdata_mutex_destroy (#21579)</code>](https://github.com/netdata/netdata.git/commit/0ac84c5b6ca25f3759e64066a42ed7c0b0e9fa69)
+- [ ] [<code>Proper decompression of data object payloads. (#21578)</code>](https://github.com/netdata/netdata.git/commit/7f4ce41c142b38ccbe2a6bc0268858e38b541736)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7911,6 +7916,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(android): adding device not refreshing device listing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b1ebdbed34e9f5e8512c84c0252559862e902689)
 - [ ] [<code>build: v2.3.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fab6836fb28ac0bcec08115c28598842960e35e6)
   - <sub>Tags: <code>v2.3.1</code></sub>
+- [ ] [<code>build(android): add retrace script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5594e90a1c1c46fcdd9962e15dc110072388e297)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>deps(android): update to AGP 9.0.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7308450c32a2b0ac74076f9a2101b9577065f189)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>deps(android): migrate to AGP built-in kotlin</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c37a2991e7732da0c89985392af4ce6c0dbab357)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(android): migrate to gradle version catalog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2b4e228069573331171f2675f4ac8976bf520ac0)
+- [ ] [<code>deps(android): update uniffi to 0.31</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5c1e9f7d00e7ee2e66377301dcdd3e5039c0fb1b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
