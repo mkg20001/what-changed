@@ -5477,6 +5477,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Enable ARM package builds in PR CI runs. (#21570)</code>](https://github.com/netdata/netdata.git/commit/55b85967688b50a7df43698ebf4434776f2c26c3)
 - [ ] [<code>SQL Chain (Windows.plugin) (#21582)</code>](https://github.com/netdata/netdata.git/commit/ea485bed72e5992fd18a25515c2fe9a3d98bf261)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-230-nightly.</code>](https://github.com/netdata/netdata.git/commit/0f6ad1ce7fba6c7f54e4395f61fd9c5ad21ac69f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8145,10 +8146,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>socket: fix `recv()` incorrectly reporting unrelated errors</code>](https://github.com/jow-/ucode/commit/e8a7290e55c0fd8cee2dc55c22fc45a93028ea68)
 - [ ] [<code>socket: fix convertion of hw addresses to ucode strings</code>](https://github.com/jow-/ucode/commit/ddde611fb9d4a40db52d192fddf0f870f6b7ba04)
 - [ ] [<code>vm: make sure uc_vm_insn_to_name() always returns a value</code>](https://github.com/jow-/ucode/commit/924ccc95be32a99e2c0e7590d755635c2a6bf9f2)
+- [ ] [<code>vm: rework I_DYNLOAD instruction to read module name from stack</code>](https://github.com/jow-/ucode/commit/d768823fea504e4b31974e31de264aa27375ce9f)
+- [ ] [<code>program: support encoding export symbols in precompiled bytecode</code>](https://github.com/jow-/ucode/commit/9e265b9a1e150a9892156775ef093a81ffbee0c8)
+- [ ] [<code>compiler: add support for runtime module imports</code>](https://github.com/jow-/ucode/commit/926f20b55e13ef329ff72f440cd932cfe833db84)
+- [ ] [<code>lib: avoid stack operations if required code invoked exit()</code>](https://github.com/jow-/ucode/commit/e3d7d77f0e5d6cbc6a0aae1fa1b6cba846cea6e6)
 - [ ] [<code>lexer: fix parsing \xHH and \0OOO escape sequences</code>](https://github.com/jow-/ucode/commit/754590d26f23dd0ef8d5d41cc84fe222a514c154)
 - [ ] [<code>fs: add dup2() function</code>](https://github.com/jow-/ucode/commit/623f550e579a008b30621e6ed52fc9c8ef846ba6)
 - [ ] [<code>fs: add mkdtemp() method for creating temporary directories</code>](https://github.com/jow-/ucode/commit/6c9385a99eddd2a4931fbd62616a8920c50b7dc9)
 - [ ] [<code>fs: reset errno to zero in get_fd()</code>](https://github.com/jow-/ucode/commit/ea579046a619e5325b994780bf2ce1ffde448794)
+- [ ] [<code>compiler: turn static imports of precompiled modules into dynamic loads</code>](https://github.com/jow-/ucode/commit/7f3a0512f49dea4aac281a9446d189e31cd55aa2)
 - [ ] [<code>examples/execute-file: free program</code>](https://github.com/jow-/ucode/commit/8567eef4d3a5becd7cb8402e4e896c128d84af48)
 - [ ] [<code>examples: free syntax_error</code>](https://github.com/jow-/ucode/commit/292e0f87cbf7bb5de67d407ebe5bd5971d7ac2a0)
 - [ ] [<code>Revert "nl80211: read all pending event messages"</code>](https://github.com/jow-/ucode/commit/fd5889028f5ef88dcf84c749e80ea7ea4b3ba812)
@@ -8169,6 +8175,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>io: add ptsname, tcgetattr, tcsetattr, grantpt, unlockpt</code>](https://github.com/jow-/ucode/commit/32449bfb69d6b46b2a5efa40509a7eeb871ea3e8)
 - [ ] [<code>digest: fix jsdoc to reveal sha512 functions</code>](https://github.com/jow-/ucode/commit/76bf32679d86b4b854180f305752c849e141dbd0)
+- [ ] [<code>build: drop remnant</code>](https://github.com/jow-/ucode/commit/58b4597fa2ae110ab72bd725000148216bac867c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>build: respect bin/lib paths</code>](https://github.com/jow-/ucode/commit/6ef0b3ada3fd42dd022fd935ea004a3a0b821229)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>build: adjust flags and definitions</code>](https://github.com/jow-/ucode/commit/28132276a426a6b30826424bea561859494698c9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>zlib: make chunk size configurable</code>](https://github.com/jow-/ucode/commit/cb1b1c1a097bc9a6a62de865f18a281a86ea660e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>debian: refresh packaging</code>](https://github.com/jow-/ucode/commit/6f80655c88c389e8db618631c162c87ae6cdbb3b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>debian: adjust LTO build</code>](https://github.com/jow-/ucode/commit/9fc4889c6e8e758224902dc856308c688206bd5f)
+- [ ] [<code>debian: build "digest" and "zlib" modules</code>](https://github.com/jow-/ucode/commit/a503a49f5cefa9494195430834fa1b6d47c36ad4)
+- [ ] [<code>socket: fix off-by-one in uv_to_sockaddr()</code>](https://github.com/jow-/ucode/commit/ffc48a2a4db98d37542df9c6b4aa90c40bfd22eb)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
