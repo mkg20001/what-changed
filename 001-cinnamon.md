@@ -4,6 +4,8 @@
 
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.5...HEAD)
 
+- [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -22,6 +24,9 @@
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.2...HEAD)
 
+- [ ] [<code>CI/github: Add generate-test-packages hook.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7e9a980db4022aa3bca264f09d6fc318f6036d9f)
+- [ ] [<code>csd-power-manager.c: Sent property updates when the percentage (#438)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8165fc6108476629f357c9fd6c449d395fb3ab8c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
