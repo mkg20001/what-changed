@@ -607,6 +607,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
 - [ ] [<code>incusd/instance/drivers: Fix adding disk with a device name longer than 31 bytes</code>](https://github.com/lxc/incus/commit/bef2fc76a6f9c070cc07e068c7dd3a205884e3d1)
 - [ ] [<code>incusd/instance/drivers: Add tests for hashName</code>](https://github.com/lxc/incus/commit/fe9c020eea99b05ed3eee2a5c50ed124e15df14a)
+- [ ] [<code>shared/validate: Don't allow $ in API names</code>](https://github.com/lxc/incus/commit/26f45a11aee79508623117eeb0dc9e4c0ed97c5d)
+- [ ] [<code>shared/util: Add SingleQuote</code>](https://github.com/lxc/incus/commit/a5c1c73b535fb12d2c1ccd1c6b9a933fd312dc79)
+- [ ] [<code>incusd/instance/lxc: Use SingleQuote instead of Quote</code>](https://github.com/lxc/incus/commit/0e0cf45ecdcc902a6f319f11971ed27df81bd29f)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4808,6 +4811,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
 - [ ] [<code>incusd/instance/drivers: Fix adding disk with a device name longer than 31 bytes</code>](https://github.com/lxc/incus/commit/bef2fc76a6f9c070cc07e068c7dd3a205884e3d1)
 - [ ] [<code>incusd/instance/drivers: Add tests for hashName</code>](https://github.com/lxc/incus/commit/fe9c020eea99b05ed3eee2a5c50ed124e15df14a)
+- [ ] [<code>shared/validate: Don't allow $ in API names</code>](https://github.com/lxc/incus/commit/26f45a11aee79508623117eeb0dc9e4c0ed97c5d)
+- [ ] [<code>shared/util: Add SingleQuote</code>](https://github.com/lxc/incus/commit/a5c1c73b535fb12d2c1ccd1c6b9a933fd312dc79)
+- [ ] [<code>incusd/instance/lxc: Use SingleQuote instead of Quote</code>](https://github.com/lxc/incus/commit/0e0cf45ecdcc902a6f319f11971ed27df81bd29f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
