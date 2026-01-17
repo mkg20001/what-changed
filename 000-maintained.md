@@ -5478,6 +5478,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Enable ARM package builds in PR CI runs. (#21570)</code>](https://github.com/netdata/netdata.git/commit/55b85967688b50a7df43698ebf4434776f2c26c3)
 - [ ] [<code>SQL Chain (Windows.plugin) (#21582)</code>](https://github.com/netdata/netdata.git/commit/ea485bed72e5992fd18a25515c2fe9a3d98bf261)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-230-nightly.</code>](https://github.com/netdata/netdata.git/commit/0f6ad1ce7fba6c7f54e4395f61fd9c5ad21ac69f)
+- [ ] [<code>Add MSSQL collector to go.d.plugin (#21583)</code>](https://github.com/netdata/netdata.git/commit/4da3896ab28c488a6ca18335445047ac20026d39)
+- [ ] [<code>Regenerate integrations docs (#21584)</code>](https://github.com/netdata/netdata.git/commit/983b340536e754216c05fdc4cbb3bade73a16f52)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8193,24 +8196,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.8 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.8...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.9 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.9...HEAD)
 
-- [ ] [<code>Add xsi-applications-electronics</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/fee3b9cf38b62cc861e62c64a0f4627b2d024c50)
-- [ ] [<code>Add licensing info (#21)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/f5fa4f822b6bdc4cc5b2485b7ffc1a7b0f6ac3a7)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update licensing info</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/044dea8e41449ec5cac7209291a46b9acb42cccd)
-- [ ] [<code>Redesign git related icons and attribute license to GitLab</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/91325181619eb6564d48ce07ac35445e8b09dcc1)
-- [ ] [<code>Update licensing info for Internet</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/611f3e333da73208522380d79fe6f131f5a6e30c)
-- [ ] [<code>Redesign boot-menu</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/874eda3cde0b3264682c41fdfefa397e14ad8c7a)
-- [ ] [<code>Redesign group</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e00f92b9d4f9912b65e1f583bf900113dd44014b)
-- [ ] [<code>Redesign applications-wine</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/bd3d81bdd83302c59170d573353ee4fa25b83b89)
-- [ ] [<code>Licensing: Remove confusion between LGPL-3 and LGPL-3+</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/1984afb7d1a1976e3999d2b26dc41351baa45055)
-- [ ] [<code>Licensing: Clarify GitLab license</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b7acd762e6887c7673faa668f3b79434e3f7fcaf)
-- [ ] [<code>Licensing: Add missing CC0 license to debian/copyright</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/11c67cdde65358cfcd2797753ebdac74ec057830)
-- [ ] [<code>Redesign applications-education</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c58541d54575c0a9be74c0e11deabec5d008ffd6)
-- [ ] [<code>Redesign cpu/ram</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/350e966570e722ccb24748c4cdc52ad43cbde1bc)
-- [ ] [<code>Redesign temperature</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/ae90cc89f35fde231c4cfeea66ef502775365053)
-- [ ] [<code>Licensing: Update info</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2aeec8d9ab7a3829139826a78a7aa1058b6cf9e6)
-- [ ] [<code>1.0.9</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/86bc24d3dc895351d3418969d711bdb5dafb3c29)
-  - <sub>Tags: <code>1.0.9</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
