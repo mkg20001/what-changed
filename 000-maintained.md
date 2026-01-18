@@ -20,7 +20,7 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
-> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.4/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.4/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -5487,6 +5487,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add MSSQL collector to go.d.plugin (#21583)</code>](https://github.com/netdata/netdata.git/commit/4da3896ab28c488a6ca18335445047ac20026d39)
 - [ ] [<code>Regenerate integrations docs (#21584)</code>](https://github.com/netdata/netdata.git/commit/983b340536e754216c05fdc4cbb3bade73a16f52)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-233-nightly.</code>](https://github.com/netdata/netdata.git/commit/c4321a3078b457d81d7b937404b218a9d7fd823f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
