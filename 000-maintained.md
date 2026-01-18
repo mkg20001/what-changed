@@ -610,6 +610,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/validate: Don't allow $ in API names</code>](https://github.com/lxc/incus/commit/26f45a11aee79508623117eeb0dc9e4c0ed97c5d)
 - [ ] [<code>shared/util: Add SingleQuote</code>](https://github.com/lxc/incus/commit/a5c1c73b535fb12d2c1ccd1c6b9a933fd312dc79)
 - [ ] [<code>incusd/instance/lxc: Use SingleQuote instead of Quote</code>](https://github.com/lxc/incus/commit/0e0cf45ecdcc902a6f319f11971ed27df81bd29f)
+- [ ] [<code>incusd/device/disk: Use isRequired</code>](https://github.com/lxc/incus/commit/1b6d6016ef5f9b367675f3b5b8538115c1ca1b10)
+- [ ] [<code>incusd/device/disk: Move check for attached property</code>](https://github.com/lxc/incus/commit/bcb13e1584d77fa38468aa3926b8b32b7d88d550)
+- [ ] [<code>incusd/device/disk: Handle required=false on custom volumes</code>](https://github.com/lxc/incus/commit/2af1715caba023077f61c39cd4c4d1f37f1e3f44)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4814,6 +4817,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/validate: Don't allow $ in API names</code>](https://github.com/lxc/incus/commit/26f45a11aee79508623117eeb0dc9e4c0ed97c5d)
 - [ ] [<code>shared/util: Add SingleQuote</code>](https://github.com/lxc/incus/commit/a5c1c73b535fb12d2c1ccd1c6b9a933fd312dc79)
 - [ ] [<code>incusd/instance/lxc: Use SingleQuote instead of Quote</code>](https://github.com/lxc/incus/commit/0e0cf45ecdcc902a6f319f11971ed27df81bd29f)
+- [ ] [<code>incusd/device/disk: Use isRequired</code>](https://github.com/lxc/incus/commit/1b6d6016ef5f9b367675f3b5b8538115c1ca1b10)
+- [ ] [<code>incusd/device/disk: Move check for attached property</code>](https://github.com/lxc/incus/commit/bcb13e1584d77fa38468aa3926b8b32b7d88d550)
+- [ ] [<code>incusd/device/disk: Handle required=false on custom volumes</code>](https://github.com/lxc/incus/commit/2af1715caba023077f61c39cd4c4d1f37f1e3f44)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
