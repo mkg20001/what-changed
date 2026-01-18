@@ -334,6 +334,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/513ef6862a353a0b912e3f10af8b08e1383c6d61)
 - [ ] [<code>chore: Add security.md file</code>](https://github.com/krille-chan/fluffychat/commit/c43c721f7fd97d2fdacc8876b4412f1b9e78c76c)
 - [ ] [<code>fix: Locale unlocalized strings</code>](https://github.com/krille-chan/fluffychat/commit/dba2d2eb98a1d410f3058157b25510a7e806421c)
+- [ ] [<code>fix: Notifications on web correctly managed when tab not focused</code>](https://github.com/krille-chan/fluffychat/commit/a0aeab34ea146cbd14bcb543cdf092292ce98aed)
+- [ ] [<code>chore: Add changelog for android</code>](https://github.com/krille-chan/fluffychat/commit/731932a210649685bab61e8e24683d65231a79d1)
+  - <sub>Tags: <code>rc2.4.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -550,6 +553,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/513ef6862a353a0b912e3f10af8b08e1383c6d61)
 - [ ] [<code>chore: Add security.md file</code>](https://github.com/krille-chan/fluffychat/commit/c43c721f7fd97d2fdacc8876b4412f1b9e78c76c)
 - [ ] [<code>fix: Locale unlocalized strings</code>](https://github.com/krille-chan/fluffychat/commit/dba2d2eb98a1d410f3058157b25510a7e806421c)
+- [ ] [<code>fix: Notifications on web correctly managed when tab not focused</code>](https://github.com/krille-chan/fluffychat/commit/a0aeab34ea146cbd14bcb543cdf092292ce98aed)
+- [ ] [<code>chore: Add changelog for android</code>](https://github.com/krille-chan/fluffychat/commit/731932a210649685bab61e8e24683d65231a79d1)
+  - <sub>Tags: <code>rc2.4.0-2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -4974,6 +4980,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump avm dependency to tag research-v13.0.0 (#2959)</code>](https://github.com/AOMediaCodec/libavif/commit/e9a816e32dfb1b5d8257211cd35db75d0be37c93)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>Rename obuExtensionFlag to obuHeaderExtensionFlag</code>](https://github.com/AOMediaCodec/libavif/commit/b26204855073316bd3a80eb3dfac15772c250c3a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5494,6 +5501,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21584)</code>](https://github.com/netdata/netdata.git/commit/983b340536e754216c05fdc4cbb3bade73a16f52)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-233-nightly.</code>](https://github.com/netdata/netdata.git/commit/c4321a3078b457d81d7b937404b218a9d7fd823f)
+- [ ] [<code>chore(go.d/mssql): remove collect_ options (#21586)</code>](https://github.com/netdata/netdata.git/commit/3a153a9a4475afa0dfb6a96c3c51b09927007531)
+- [ ] [<code>Regenerate integrations docs (#21587)</code>](https://github.com/netdata/netdata.git/commit/a34fb74f6139fa7935769ab3d127848785534980)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
