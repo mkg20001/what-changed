@@ -619,6 +619,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/disk: Use isRequired</code>](https://github.com/lxc/incus/commit/1b6d6016ef5f9b367675f3b5b8538115c1ca1b10)
 - [ ] [<code>incusd/device/disk: Move check for attached property</code>](https://github.com/lxc/incus/commit/bcb13e1584d77fa38468aa3926b8b32b7d88d550)
 - [ ] [<code>incusd/device/disk: Handle required=false on custom volumes</code>](https://github.com/lxc/incus/commit/2af1715caba023077f61c39cd4c4d1f37f1e3f44)
+- [ ] [<code>incusd/api_internal: Block instance hooks until daemon is ready</code>](https://github.com/lxc/incus/commit/22243dbafcefdde777f43bcc4453e9100ff4b397)
+- [ ] [<code>incusd/instance_console: Align cleanup logic with exec</code>](https://github.com/lxc/incus/commit/85402757af1dec21b28ff96a275ec77043121960)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4826,6 +4829,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/device/disk: Use isRequired</code>](https://github.com/lxc/incus/commit/1b6d6016ef5f9b367675f3b5b8538115c1ca1b10)
 - [ ] [<code>incusd/device/disk: Move check for attached property</code>](https://github.com/lxc/incus/commit/bcb13e1584d77fa38468aa3926b8b32b7d88d550)
 - [ ] [<code>incusd/device/disk: Handle required=false on custom volumes</code>](https://github.com/lxc/incus/commit/2af1715caba023077f61c39cd4c4d1f37f1e3f44)
+- [ ] [<code>incusd/api_internal: Block instance hooks until daemon is ready</code>](https://github.com/lxc/incus/commit/22243dbafcefdde777f43bcc4453e9100ff4b397)
+- [ ] [<code>incusd/instance_console: Align cleanup logic with exec</code>](https://github.com/lxc/incus/commit/85402757af1dec21b28ff96a275ec77043121960)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -4981,6 +4987,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code> <code>dependency</code> <code>find_package</code></sub>
 - [ ] [<code>Rename obuExtensionFlag to obuHeaderExtensionFlag</code>](https://github.com/AOMediaCodec/libavif/commit/b26204855073316bd3a80eb3dfac15772c250c3a)
+- [ ] [<code>Support Sample Transform grids (#2964)</code>](https://github.com/AOMediaCodec/libavif/commit/6f3ac3f7be25690eeaaa3af1eddba7a74074c868)
+- [ ] [<code>Update --depth description in avifenc.1.md (#2967)</code>](https://github.com/AOMediaCodec/libavif/commit/af69350248af4cf63a24927c13ce2fe86fccecc8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5505,6 +5513,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21587)</code>](https://github.com/netdata/netdata.git/commit/a34fb74f6139fa7935769ab3d127848785534980)
 - [ ] [<code>chore(go.d/mssql): ignore internal SQL Server databases (#21588)</code>](https://github.com/netdata/netdata.git/commit/8b3cbbd29ca5a3547283353d0897fc9e130a4f7c)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-237-nightly.</code>](https://github.com/netdata/netdata.git/commit/0405598581329d15414459110e774bf5bd87aeee)
+- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.5 to 1.9.6 in /src/go (#21590)</code>](https://github.com/netdata/netdata.git/commit/ba54524aea76ba402a34f2713a3622c7fa0937a3)
+- [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.11 to 1.0.0 (#21589)</code>](https://github.com/netdata/netdata.git/commit/2e271c0c54321fadb1c093b111e6a358ba34a3d7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
