@@ -5169,6 +5169,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve the dbus scope creation error handling</code>](https://github.com/lxc/lxc/commit/6a5550ec2263d1b3c1f809e88fbf00d5fb73fad2)
 - [ ] [<code>build: update Makefile and meson.build</code>](https://github.com/lxc/lxc/commit/4a5aa19d73b90ce1ad6f2e354b69f5ae7e8e2e50)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>github: test io_uring-based event loop</code>](https://github.com/lxc/lxc/commit/4a30d82af6fa873b66e16a92f6a9dcc4b3d75788)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5515,6 +5516,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-237-nightly.</code>](https://github.com/netdata/netdata.git/commit/0405598581329d15414459110e774bf5bd87aeee)
 - [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.5 to 1.9.6 in /src/go (#21590)</code>](https://github.com/netdata/netdata.git/commit/ba54524aea76ba402a34f2713a3622c7fa0937a3)
 - [ ] [<code>build(deps): bump azure/trusted-signing-action from 0.5.11 to 1.0.0 (#21589)</code>](https://github.com/netdata/netdata.git/commit/2e271c0c54321fadb1c093b111e6a358ba34a3d7)
+- [ ] [<code>Add health database check before processing alerts and saving logs (#21592)</code>](https://github.com/netdata/netdata.git/commit/2736dde103040150c25070e3d1af5ceb2e75a07a)
+- [ ] [<code>Send node info when node is switched to ephemeral (#21456)</code>](https://github.com/netdata/netdata.git/commit/b54ea527f4d5387d4cbbca726bf454027017abbc)
+- [ ] [<code>Use static buffer for saving daemon status (#21593)</code>](https://github.com/netdata/netdata.git/commit/be23d2a0dabaf9505be77fcf4a567aaa9672ed47)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7973,6 +7977,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build(android): migrate to gradle version catalog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2b4e228069573331171f2675f4ac8976bf520ac0)
 - [ ] [<code>deps(android): update uniffi to 0.31</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5c1e9f7d00e7ee2e66377301dcdd3e5039c0fb1b)
+- [ ] [<code>feat(scripts): add powershell script for printing rfcomm services</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fed9927afb5bb6ed0ef1133e223b44c34f109e2b)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3857cba3a29b46520335b08060e8f74e4475cea7)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build(android): fix typo in retrace script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/55d49229b88a57417f07d6317981dec88e61d762)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8137,6 +8145,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Round down download progress (#8849)</code>](https://github.com/tribler/Tribler/commit/ef1df9a7932dbf5bfa4696bc228d39add4df7b43)
 - [ ] [<code>Update javascript dependencies</code>](https://github.com/tribler/Tribler/commit/6037cc2f2225a16c1bc02ccce437ffe88ecbca6b)
 - [ ] [<code>Update javascript dependencies (#8850)</code>](https://github.com/tribler/Tribler/commit/779c630b7648924523086576832897cbbd430bef)
+- [ ] [<code>Don't produce 'unexpected crash' on a broken torrent</code>](https://github.com/tribler/Tribler/commit/4d432c4e786a37ad437951dd612511682c81aad5)
+- [ ] [<code>Don't produce 'unexpected crash' on a broken torrent (#8853)</code>](https://github.com/tribler/Tribler/commit/f8f2b15b51eb4df7a26b59a4d607cca451b6e808)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
