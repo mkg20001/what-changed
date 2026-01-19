@@ -5503,6 +5503,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-233-nightly.</code>](https://github.com/netdata/netdata.git/commit/c4321a3078b457d81d7b937404b218a9d7fd823f)
 - [ ] [<code>chore(go.d/mssql): remove collect_ options (#21586)</code>](https://github.com/netdata/netdata.git/commit/3a153a9a4475afa0dfb6a96c3c51b09927007531)
 - [ ] [<code>Regenerate integrations docs (#21587)</code>](https://github.com/netdata/netdata.git/commit/a34fb74f6139fa7935769ab3d127848785534980)
+- [ ] [<code>chore(go.d/mssql): ignore internal SQL Server databases (#21588)</code>](https://github.com/netdata/netdata.git/commit/8b3cbbd29ca5a3547283353d0897fc9e130a4f7c)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-237-nightly.</code>](https://github.com/netdata/netdata.git/commit/0405598581329d15414459110e774bf5bd87aeee)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
