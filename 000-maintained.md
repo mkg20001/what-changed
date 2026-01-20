@@ -337,6 +337,8 @@
 - [ ] [<code>fix: Notifications on web correctly managed when tab not focused</code>](https://github.com/krille-chan/fluffychat/commit/a0aeab34ea146cbd14bcb543cdf092292ce98aed)
 - [ ] [<code>chore: Add changelog for android</code>](https://github.com/krille-chan/fluffychat/commit/731932a210649685bab61e8e24683d65231a79d1)
   - <sub>Tags: <code>rc2.4.0-2</code></sub>
+- [ ] [<code>chore: Remove duplicated localization</code>](https://github.com/krille-chan/fluffychat/commit/4b12353a2086a09362a296715bab3b85588bdd00)
+  - <sub>Tags: <code>rc2.4.0-3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -556,6 +558,8 @@
 - [ ] [<code>fix: Notifications on web correctly managed when tab not focused</code>](https://github.com/krille-chan/fluffychat/commit/a0aeab34ea146cbd14bcb543cdf092292ce98aed)
 - [ ] [<code>chore: Add changelog for android</code>](https://github.com/krille-chan/fluffychat/commit/731932a210649685bab61e8e24683d65231a79d1)
   - <sub>Tags: <code>rc2.4.0-2</code></sub>
+- [ ] [<code>chore: Remove duplicated localization</code>](https://github.com/krille-chan/fluffychat/commit/4b12353a2086a09362a296715bab3b85588bdd00)
+  - <sub>Tags: <code>rc2.4.0-3</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7982,6 +7986,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3857cba3a29b46520335b08060e8f74e4475cea7)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build(android): fix typo in retrace script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/55d49229b88a57417f07d6317981dec88e61d762)
+- [ ] [<code>fix(android): onDeviceFound doesn't always have default implementaion</code>](https://github.com/Oppzippy/OpenSCQ30/commit/582ea7b1f19b9e4450d4160e89c892e979bf3797)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
