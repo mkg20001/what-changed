@@ -339,6 +339,10 @@
   - <sub>Tags: <code>rc2.4.0-2</code></sub>
 - [ ] [<code>chore: Remove duplicated localization</code>](https://github.com/krille-chan/fluffychat/commit/4b12353a2086a09362a296715bab3b85588bdd00)
   - <sub>Tags: <code>rc2.4.0-3</code></sub>
+- [ ] [<code>fix: Sign in label</code>](https://github.com/krille-chan/fluffychat/commit/bcd350d401cd470fae47d6eeb095de87cf292d4f)
+  - <sub>Tags: <code>rc2.4.0-4</code> <code>rc2.4.0-5</code></sub>
+- [ ] [<code>chore: Versionize fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/fa43658923ebd77c43ed1e77ad96faa43df1c242)
+  - <sub>Tags: <code>rc2.4.0-6</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -560,6 +564,10 @@
   - <sub>Tags: <code>rc2.4.0-2</code></sub>
 - [ ] [<code>chore: Remove duplicated localization</code>](https://github.com/krille-chan/fluffychat/commit/4b12353a2086a09362a296715bab3b85588bdd00)
   - <sub>Tags: <code>rc2.4.0-3</code></sub>
+- [ ] [<code>fix: Sign in label</code>](https://github.com/krille-chan/fluffychat/commit/bcd350d401cd470fae47d6eeb095de87cf292d4f)
+  - <sub>Tags: <code>rc2.4.0-4</code> <code>rc2.4.0-5</code></sub>
+- [ ] [<code>chore: Versionize fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/fa43658923ebd77c43ed1e77ad96faa43df1c242)
+  - <sub>Tags: <code>rc2.4.0-6</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -626,6 +634,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/api_internal: Block instance hooks until daemon is ready</code>](https://github.com/lxc/incus/commit/22243dbafcefdde777f43bcc4453e9100ff4b397)
 - [ ] [<code>incusd/instance_console: Align cleanup logic with exec</code>](https://github.com/lxc/incus/commit/85402757af1dec21b28ff96a275ec77043121960)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: pass firmware opt from device/pci to instance/qemu</code>](https://github.com/lxc/incus/commit/0d9635370c2db77613585ed1c60b8ffed383974c)
+- [ ] [<code>incusd/device: Move reusable code into getNumaNodeSet helper</code>](https://github.com/lxc/incus/commit/a16f42b5a0dd26c3f65c41cd9ac6c2cf3f055287)
+- [ ] [<code>incusd/network: Add SRIOVCountFreeVirtualFunctions</code>](https://github.com/lxc/incus/commit/9b07fb98ec8c27c4b26f4af52e8b9c47a6d192b0)
+- [ ] [<code>incusd/device: Add support for nic SR-IOV selection by vendorid, productid and pci</code>](https://github.com/lxc/incus/commit/13104131f1c5ac5ca103b86478e54333c21f0970)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/a0e9f28be768440ec120d001993171b4715141d9)
+- [ ] [<code>api: Add 'nic_sriov_select_ext' extension</code>](https://github.com/lxc/incus/commit/3a3f5201d35ec52d39ecd2e371bc2c2bbeb6bcb5)
+- [ ] [<code>incusd/storage/drivers: Allow setting 'vg_name' for non-clustered LVM during init</code>](https://github.com/lxc/incus/commit/d906be1fe77b3affed02720316f7827309bccf64)
+- [ ] [<code>doc: Fix build failure</code>](https://github.com/lxc/incus/commit/82d2b57b7d301da4f6933bf3672c233eec43a0c0)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4836,6 +4852,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/api_internal: Block instance hooks until daemon is ready</code>](https://github.com/lxc/incus/commit/22243dbafcefdde777f43bcc4453e9100ff4b397)
 - [ ] [<code>incusd/instance_console: Align cleanup logic with exec</code>](https://github.com/lxc/incus/commit/85402757af1dec21b28ff96a275ec77043121960)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: pass firmware opt from device/pci to instance/qemu</code>](https://github.com/lxc/incus/commit/0d9635370c2db77613585ed1c60b8ffed383974c)
+- [ ] [<code>incusd/device: Move reusable code into getNumaNodeSet helper</code>](https://github.com/lxc/incus/commit/a16f42b5a0dd26c3f65c41cd9ac6c2cf3f055287)
+- [ ] [<code>incusd/network: Add SRIOVCountFreeVirtualFunctions</code>](https://github.com/lxc/incus/commit/9b07fb98ec8c27c4b26f4af52e8b9c47a6d192b0)
+- [ ] [<code>incusd/device: Add support for nic SR-IOV selection by vendorid, productid and pci</code>](https://github.com/lxc/incus/commit/13104131f1c5ac5ca103b86478e54333c21f0970)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/a0e9f28be768440ec120d001993171b4715141d9)
+- [ ] [<code>api: Add 'nic_sriov_select_ext' extension</code>](https://github.com/lxc/incus/commit/3a3f5201d35ec52d39ecd2e371bc2c2bbeb6bcb5)
+- [ ] [<code>incusd/storage/drivers: Allow setting 'vg_name' for non-clustered LVM during init</code>](https://github.com/lxc/incus/commit/d906be1fe77b3affed02720316f7827309bccf64)
+- [ ] [<code>doc: Fix build failure</code>](https://github.com/lxc/incus/commit/82d2b57b7d301da4f6933bf3672c233eec43a0c0)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -4993,6 +5017,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Rename obuExtensionFlag to obuHeaderExtensionFlag</code>](https://github.com/AOMediaCodec/libavif/commit/b26204855073316bd3a80eb3dfac15772c250c3a)
 - [ ] [<code>Support Sample Transform grids (#2964)</code>](https://github.com/AOMediaCodec/libavif/commit/6f3ac3f7be25690eeaaa3af1eddba7a74074c868)
 - [ ] [<code>Update --depth description in avifenc.1.md (#2967)</code>](https://github.com/AOMediaCodec/libavif/commit/af69350248af4cf63a24927c13ce2fe86fccecc8)
+- [ ] [<code>Always set seqTier0 in parseAV2SequenceHeader() (#2968)</code>](https://github.com/AOMediaCodec/libavif/commit/df389973d6d36c77925189770787a6cd6fe9571c)
+- [ ] [<code>Add --grid option to avifgainmaputil (#2963)</code>](https://github.com/AOMediaCodec/libavif/commit/fcea2763538a010058bbcb90649a02ad82a32266)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5524,6 +5550,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Send node info when node is switched to ephemeral (#21456)</code>](https://github.com/netdata/netdata.git/commit/b54ea527f4d5387d4cbbca726bf454027017abbc)
 - [ ] [<code>Use static buffer for saving daemon status (#21593)</code>](https://github.com/netdata/netdata.git/commit/be23d2a0dabaf9505be77fcf4a567aaa9672ed47)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-243-nightly.</code>](https://github.com/netdata/netdata.git/commit/40bbd3cea8e6d0fdf3a3974c4c4f93076a82781d)
+- [ ] [<code>Remove Ubuntu 25.04 from CI and package builds. (#21519)</code>](https://github.com/netdata/netdata.git/commit/297e086c2c0f42b28c4cf9e132a58c50d1c1e4c9)
+- [ ] [<code>docs: Add unclaim/reclaim node guide (#21539)</code>](https://github.com/netdata/netdata.git/commit/dfa923c7f0ff9392ea5cedc7082731324e3932bf)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8103,6 +8132,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix temporary video dls, new menu options for selected videos</code>](https://github.com/axcore/tartube/commit/77fe4e81d5b2819b333646c76fa82855bc4517f8)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update to v2.5.197</code>](https://github.com/axcore/tartube/commit/e1a207df9c4e4e390f47e0d6b6f0c115b721dac9)
+  - <sub>Tags: <code>v2.5.197</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
@@ -8153,6 +8185,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update javascript dependencies (#8850)</code>](https://github.com/tribler/Tribler/commit/779c630b7648924523086576832897cbbd430bef)
 - [ ] [<code>Don't produce 'unexpected crash' on a broken torrent</code>](https://github.com/tribler/Tribler/commit/4d432c4e786a37ad437951dd612511682c81aad5)
 - [ ] [<code>Don't produce 'unexpected crash' on a broken torrent (#8853)</code>](https://github.com/tribler/Tribler/commit/f8f2b15b51eb4df7a26b59a4d607cca451b6e808)
+- [ ] [<code>Fix downloads list vis and sort not saving</code>](https://github.com/tribler/Tribler/commit/a119abd028612ac2e346c057e9c2953c55e9b66a)
+- [ ] [<code>Updated ruff rules and reformat</code>](https://github.com/tribler/Tribler/commit/425cdb636cc173dd1fb390ee49b8b31d8eb10210)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Updated ruff rules and reformatted (#8855)</code>](https://github.com/tribler/Tribler/commit/c9800e9285a8a7c9c5b860ea18261a970b41f97e)
+- [ ] [<code>Fixed downloads list vis and sort not saving (#8854)</code>](https://github.com/tribler/Tribler/commit/a7da7418a8ec38034f879d1038306bf4b234e2d2)
+- [ ] [<code>Add Tribler version to default error reports</code>](https://github.com/tribler/Tribler/commit/3763e8fb65ada0f7152dccc17bd79d7866f7068c)
+- [ ] [<code>Added Tribler version to default error reports (#8856)</code>](https://github.com/tribler/Tribler/commit/0a1f99a162d290bb2067796577becae37234073b)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
