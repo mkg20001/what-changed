@@ -5519,6 +5519,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add health database check before processing alerts and saving logs (#21592)</code>](https://github.com/netdata/netdata.git/commit/2736dde103040150c25070e3d1af5ceb2e75a07a)
 - [ ] [<code>Send node info when node is switched to ephemeral (#21456)</code>](https://github.com/netdata/netdata.git/commit/b54ea527f4d5387d4cbbca726bf454027017abbc)
 - [ ] [<code>Use static buffer for saving daemon status (#21593)</code>](https://github.com/netdata/netdata.git/commit/be23d2a0dabaf9505be77fcf4a567aaa9672ed47)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-243-nightly.</code>](https://github.com/netdata/netdata.git/commit/40bbd3cea8e6d0fdf3a3974c4c4f93076a82781d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
