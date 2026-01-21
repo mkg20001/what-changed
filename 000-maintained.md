@@ -342,7 +342,7 @@
 - [ ] [<code>fix: Sign in label</code>](https://github.com/krille-chan/fluffychat/commit/bcd350d401cd470fae47d6eeb095de87cf292d4f)
   - <sub>Tags: <code>rc2.4.0-4</code> <code>rc2.4.0-5</code></sub>
 - [ ] [<code>chore: Versionize fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/fa43658923ebd77c43ed1e77ad96faa43df1c242)
-  - <sub>Tags: <code>rc2.4.0-6</code></sub>
+  - <sub>Tags: <code>rc2.4.0-6</code> <code>v2.4.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -567,7 +567,7 @@
 - [ ] [<code>fix: Sign in label</code>](https://github.com/krille-chan/fluffychat/commit/bcd350d401cd470fae47d6eeb095de87cf292d4f)
   - <sub>Tags: <code>rc2.4.0-4</code> <code>rc2.4.0-5</code></sub>
 - [ ] [<code>chore: Versionize fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/fa43658923ebd77c43ed1e77ad96faa43df1c242)
-  - <sub>Tags: <code>rc2.4.0-6</code></sub>
+  - <sub>Tags: <code>rc2.4.0-6</code> <code>v2.4.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -642,6 +642,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: Add 'nic_sriov_select_ext' extension</code>](https://github.com/lxc/incus/commit/3a3f5201d35ec52d39ecd2e371bc2c2bbeb6bcb5)
 - [ ] [<code>incusd/storage/drivers: Allow setting 'vg_name' for non-clustered LVM during init</code>](https://github.com/lxc/incus/commit/d906be1fe77b3affed02720316f7827309bccf64)
 - [ ] [<code>doc: Fix build failure</code>](https://github.com/lxc/incus/commit/82d2b57b7d301da4f6933bf3672c233eec43a0c0)
+- [ ] [<code>incus: Implement "incus wait"</code>](https://github.com/lxc/incus/commit/e78c2326959551299b874a54ee5073c09a8ae286)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4860,6 +4864,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: Add 'nic_sriov_select_ext' extension</code>](https://github.com/lxc/incus/commit/3a3f5201d35ec52d39ecd2e371bc2c2bbeb6bcb5)
 - [ ] [<code>incusd/storage/drivers: Allow setting 'vg_name' for non-clustered LVM during init</code>](https://github.com/lxc/incus/commit/d906be1fe77b3affed02720316f7827309bccf64)
 - [ ] [<code>doc: Fix build failure</code>](https://github.com/lxc/incus/commit/82d2b57b7d301da4f6933bf3672c233eec43a0c0)
+- [ ] [<code>incus: Implement "incus wait"</code>](https://github.com/lxc/incus/commit/e78c2326959551299b874a54ee5073c09a8ae286)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -5554,6 +5562,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: Add unclaim/reclaim node guide (#21539)</code>](https://github.com/netdata/netdata.git/commit/dfa923c7f0ff9392ea5cedc7082731324e3932bf)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-246-nightly.</code>](https://github.com/netdata/netdata.git/commit/a7655d9e4076073f2e84bda0c538840380e9a3cc)
+- [ ] [<code>updating ai docs (#21594)</code>](https://github.com/netdata/netdata.git/commit/cc58a589f9a3673869a6c7d018a875f84a2353de)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8193,6 +8202,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed downloads list vis and sort not saving (#8854)</code>](https://github.com/tribler/Tribler/commit/a7da7418a8ec38034f879d1038306bf4b234e2d2)
 - [ ] [<code>Add Tribler version to default error reports</code>](https://github.com/tribler/Tribler/commit/3763e8fb65ada0f7152dccc17bd79d7866f7068c)
 - [ ] [<code>Added Tribler version to default error reports (#8856)</code>](https://github.com/tribler/Tribler/commit/0a1f99a162d290bb2067796577becae37234073b)
+  - <sub>Tags: <code>v8.3.1</code></sub>
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
