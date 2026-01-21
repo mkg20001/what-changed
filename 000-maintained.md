@@ -5553,6 +5553,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove Ubuntu 25.04 from CI and package builds. (#21519)</code>](https://github.com/netdata/netdata.git/commit/297e086c2c0f42b28c4cf9e132a58c50d1c1e4c9)
 - [ ] [<code>docs: Add unclaim/reclaim node guide (#21539)</code>](https://github.com/netdata/netdata.git/commit/dfa923c7f0ff9392ea5cedc7082731324e3932bf)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-246-nightly.</code>](https://github.com/netdata/netdata.git/commit/a7655d9e4076073f2e84bda0c538840380e9a3cc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
