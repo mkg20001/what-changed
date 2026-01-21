@@ -22,7 +22,7 @@
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.2/dbeaver-ce-25.3.2-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -115,6 +115,11 @@
 - [ ] [<code>feat: l10n title scripts (#383)</code>](https://github.com/canonical/firmware-updater/commit/05038c4d3a1c1b315af26f6c00df6652a0c4020d)
 - [ ] [<code>feat: Reapply "snap: core24 migration"</code>](https://github.com/canonical/firmware-updater/commit/876b23cac4a167ea7638d22d732ab0b4411b07a5)
 - [ ] [<code>feat: Reapply "snap: core24 migration" (#385)</code>](https://github.com/canonical/firmware-updater/commit/a9ee83f8b15477e362b4bf900761d5d1bfcab195)
+- [ ] [<code>feat: swap to using new status api for determining tpm/fde status</code>](https://github.com/canonical/firmware-updater/commit/4f005a992c3406cf41f81eec33b50f7b02ac5b35)
+- [ ] [<code>test: update mocks</code>](https://github.com/canonical/firmware-updater/commit/25767c3b33c1a42b9b19996273ee9210484e1179)
+- [ ] [<code>test: add tests for covering snapd status api changes</code>](https://github.com/canonical/firmware-updater/commit/1869ac36d9a622a57ea079d3322b02e8c32c68bf)
+- [ ] [<code>fix: formatter and mocks</code>](https://github.com/canonical/firmware-updater/commit/ecd87de7a3c92d3ce3109c0310ed333fad603f47)
+- [ ] [<code>feat: detect tpmfde using new snapd status api (#386)</code>](https://github.com/canonical/firmware-updater/commit/7d2272107d500a650b695630fb4397679290228a)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -5563,6 +5568,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-246-nightly.</code>](https://github.com/netdata/netdata.git/commit/a7655d9e4076073f2e84bda0c538840380e9a3cc)
 - [ ] [<code>updating ai docs (#21594)</code>](https://github.com/netdata/netdata.git/commit/cc58a589f9a3673869a6c7d018a875f84a2353de)
+- [ ] [<code>Use only major version for repo URL in RHEL 9/10. (#21596)</code>](https://github.com/netdata/netdata.git/commit/d2244661760e11fa59336112e2e5a2745bb235c9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(go.d): add Top Queries Functions framework with PostgreSQL, MySQL, MSSQL, and MongoDB support (#21595)</code>](https://github.com/netdata/netdata.git/commit/7fb529ebd20298fa659aba0910c97b2bc21bac22)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>make function error message key camel case (#21602)</code>](https://github.com/netdata/netdata.git/commit/e19a38dc7a012cc26d211ecb05176e9c9e7e8621)
+- [ ] [<code>Prevent race condition during thread exit cleanup (#21603)</code>](https://github.com/netdata/netdata.git/commit/902c1633e5ee20e2198c71c97a040e81f43dc2e0)
+- [ ] [<code>Adjust Windows plugin (#21597)</code>](https://github.com/netdata/netdata.git/commit/373967c45c56d973a6df2f36e04e764828b47d0c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
