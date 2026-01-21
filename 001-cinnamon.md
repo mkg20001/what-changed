@@ -59,9 +59,13 @@
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.2 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.2...HEAD)
 
+- [ ] [<code>display.c: Exclude 'always on top' windows from the monitor</code>](https://github.com/linuxmint/muffin/commit/070ef0135696698f1e56d0bf42581be89fe8e70a)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
+- [ ] [<code>nemo-main-application.c: Clear a window's saved secondary pane</code>](https://github.com/linuxmint/nemo/commit/deef9d124fa89ad616b18f8d0206f87e45c1ecd5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
