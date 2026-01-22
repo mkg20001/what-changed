@@ -651,6 +651,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
+- [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4873,6 +4875,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
+- [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -5575,6 +5579,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>make function error message key camel case (#21602)</code>](https://github.com/netdata/netdata.git/commit/e19a38dc7a012cc26d211ecb05176e9c9e7e8621)
 - [ ] [<code>Prevent race condition during thread exit cleanup (#21603)</code>](https://github.com/netdata/netdata.git/commit/902c1633e5ee20e2198c71c97a040e81f43dc2e0)
 - [ ] [<code>Adjust Windows plugin (#21597)</code>](https://github.com/netdata/netdata.git/commit/373967c45c56d973a6df2f36e04e764828b47d0c)
+- [ ] [<code>chore(go.d/snmp): add ifTypeGroup mapping for interface type categorization (#21605)</code>](https://github.com/netdata/netdata.git/commit/785c97f3f57f2a22cbd7a8eaff325cf789ada4a2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-254-nightly.</code>](https://github.com/netdata/netdata.git/commit/2c72629778bd4328f3ff25e07f625d4a623bee75)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
