@@ -665,6 +665,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/zone: Allow setting DNS admin contact</code>](https://github.com/lxc/incus/commit/b939dae10620ab89dd03996f0e1f7ac0447dca7d)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
 - [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
+- [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4897,9 +4898,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/zone: Allow setting DNS admin contact</code>](https://github.com/lxc/incus/commit/b939dae10620ab89dd03996f0e1f7ac0447dca7d)
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
 - [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
+- [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
+- [ ] [<code>Treat image properties description field as optional</code>](https://github.com/zabbly/incus-ui-canonical/commit/3f16e5f0f8924eab672dbe222845c0fa1d144af1)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5237,6 +5240,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: update Makefile and meson.build</code>](https://github.com/lxc/lxc/commit/4a5aa19d73b90ce1ad6f2e354b69f5ae7e8e2e50)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>github: test io_uring-based event loop</code>](https://github.com/lxc/lxc/commit/4a30d82af6fa873b66e16a92f6a9dcc4b3d75788)
+- [ ] [<code>lxc/{terminal, file_utils}: ensure complete data writes in ptx/peer io handlers</code>](https://github.com/lxc/lxc/commit/4cb9884ed7d3ca98ccd9bf2abbd508255b4e1fb7)
+- [ ] [<code>tests/lxc-attach: ensure no data corruption happens during heavy IO on pts</code>](https://github.com/lxc/lxc/commit/97bd7699c79493f32fcee0f976b6c397cf0f0ad5)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5603,6 +5609,21 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-254-nightly.</code>](https://github.com/netdata/netdata.git/commit/2c72629778bd4328f3ff25e07f625d4a623bee75)
 - [ ] [<code>Regenerate integrations docs (#21601)</code>](https://github.com/netdata/netdata.git/commit/ea3161b04f5ba27fa26ace831af13bb84188a518)
 - [ ] [<code>(learn): Use new OneLineInstall component implementation (#21606)</code>](https://github.com/netdata/netdata.git/commit/87487cc3630a54c35aeae13066f0227c454cb1f2)
+- [ ] [<code>feat(go.d/snmp): add interfaces function (#21604)</code>](https://github.com/netdata/netdata.git/commit/16d6869d700af32508f2f5a63b0010f395f1bf5e)
+- [ ] [<code>feat(go.d): add top-queries functions for 9 additional database collectors (#21607)</code>](https://github.com/netdata/netdata.git/commit/abeb38c4032780e48b9b80acaaa427dd94dc6d61)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21611)</code>](https://github.com/netdata/netdata.git/commit/68953068b3987b75c15bceda70833ed8dea94f16)
+- [ ] [<code>Fix logic for determining when to use $releasever_major. (#21610)</code>](https://github.com/netdata/netdata.git/commit/722d85b1504bbbfc1890b8f7a4d6aef03552138e)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>docs: clarify alert override ordering and add conceptual model (#21613)</code>](https://github.com/netdata/netdata.git/commit/ee75009c0319545c90ae3e845ec903c6a3528369)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Improve statement preparation (#21608)</code>](https://github.com/netdata/netdata.git/commit/74000687429be113894854890c6201fda945613f)
+- [ ] [<code>chore(docs): remove todo docs (#21614)</code>](https://github.com/netdata/netdata.git/commit/08055a8f875a7c725fb4640f2b3f6410f448ec23)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Update kickstart.md (#21600)</code>](https://github.com/netdata/netdata.git/commit/92bb085f0db8b5bcd4771aff4719d152b7f30862)
+- [ ] [<code>chore(go.d): revise funcapi docs (#21617)</code>](https://github.com/netdata/netdata.git/commit/e5bc59000ad41a2e780805988f34e25cfbb1d333)
+- [ ] [<code>chore(go.d): set default update_every to 10 for all functions (#21616)</code>](https://github.com/netdata/netdata.git/commit/6912248086281cf18fc5c826b7669951721bf1f7)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
