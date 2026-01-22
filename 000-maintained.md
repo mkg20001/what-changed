@@ -348,6 +348,8 @@
   - <sub>Tags: <code>rc2.4.0-4</code> <code>rc2.4.0-5</code></sub>
 - [ ] [<code>chore: Versionize fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/fa43658923ebd77c43ed1e77ad96faa43df1c242)
   - <sub>Tags: <code>rc2.4.0-6</code> <code>v2.4.0</code></sub>
+- [ ] [<code>build: Remove unused packag</code>](https://github.com/krille-chan/fluffychat/commit/a1214908c2caceb4a6c352850127fddd72aa9d78)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -573,6 +575,8 @@
   - <sub>Tags: <code>rc2.4.0-4</code> <code>rc2.4.0-5</code></sub>
 - [ ] [<code>chore: Versionize fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/fa43658923ebd77c43ed1e77ad96faa43df1c242)
   - <sub>Tags: <code>rc2.4.0-6</code> <code>v2.4.0</code></sub>
+- [ ] [<code>build: Remove unused packag</code>](https://github.com/krille-chan/fluffychat/commit/a1214908c2caceb4a6c352850127fddd72aa9d78)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -653,6 +657,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
 - [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
+- [ ] [<code>doc/linstor: Add documentation for `source` parameter.</code>](https://github.com/lxc/incus/commit/af86ca6c70dd3cfcfbd139a4af846dbd892d8548)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/86a4c6cb0286cf205c8bcff5e26060ce7e80d92f)
+- [ ] [<code>incusd/network/bridge: Skip dnsmasq on non-routed IPv6</code>](https://github.com/lxc/incus/commit/a0b3fb03a2f883808c1dec844cdc6136202f6511)
+- [ ] [<code>Update Rocky Linux instructions</code>](https://github.com/lxc/incus/commit/189058c1562746a2734522eb6be8920e35480446)
+- [ ] [<code>incusd/network/zone: Use the standard SOA format</code>](https://github.com/lxc/incus/commit/9632a6d4613e721a17b68fdab2c1fcff3f4f1f3f)
+- [ ] [<code>incusd/network/zone: Allow setting DNS admin contact</code>](https://github.com/lxc/incus/commit/b939dae10620ab89dd03996f0e1f7ac0447dca7d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
+- [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4877,6 +4889,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
 - [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
+- [ ] [<code>doc/linstor: Add documentation for `source` parameter.</code>](https://github.com/lxc/incus/commit/af86ca6c70dd3cfcfbd139a4af846dbd892d8548)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/86a4c6cb0286cf205c8bcff5e26060ce7e80d92f)
+- [ ] [<code>incusd/network/bridge: Skip dnsmasq on non-routed IPv6</code>](https://github.com/lxc/incus/commit/a0b3fb03a2f883808c1dec844cdc6136202f6511)
+- [ ] [<code>Update Rocky Linux instructions</code>](https://github.com/lxc/incus/commit/189058c1562746a2734522eb6be8920e35480446)
+- [ ] [<code>incusd/network/zone: Use the standard SOA format</code>](https://github.com/lxc/incus/commit/9632a6d4613e721a17b68fdab2c1fcff3f4f1f3f)
+- [ ] [<code>incusd/network/zone: Allow setting DNS admin contact</code>](https://github.com/lxc/incus/commit/b939dae10620ab89dd03996f0e1f7ac0447dca7d)
+- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
+- [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
@@ -5581,6 +5601,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Adjust Windows plugin (#21597)</code>](https://github.com/netdata/netdata.git/commit/373967c45c56d973a6df2f36e04e764828b47d0c)
 - [ ] [<code>chore(go.d/snmp): add ifTypeGroup mapping for interface type categorization (#21605)</code>](https://github.com/netdata/netdata.git/commit/785c97f3f57f2a22cbd7a8eaff325cf789ada4a2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-254-nightly.</code>](https://github.com/netdata/netdata.git/commit/2c72629778bd4328f3ff25e07f625d4a623bee75)
+- [ ] [<code>Regenerate integrations docs (#21601)</code>](https://github.com/netdata/netdata.git/commit/ea3161b04f5ba27fa26ace831af13bb84188a518)
+- [ ] [<code>(learn): Use new OneLineInstall component implementation (#21606)</code>](https://github.com/netdata/netdata.git/commit/87487cc3630a54c35aeae13066f0227c454cb1f2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
