@@ -33,6 +33,9 @@
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
+- [ ] [<code>Add pkgconfig variable to export the appropriate API version of mozjs (#134)</code>](https://github.com/linuxmint/cjs/commit/3cb58021fb050a06e80433ec8fc8d2621cf3f3df)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
