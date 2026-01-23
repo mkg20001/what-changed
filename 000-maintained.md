@@ -4956,6 +4956,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.1...HEAD)
 
+- [ ] [<code>Fix filtering by cluster node</code>](https://github.com/zabbly/incus-ui-canonical/commit/216c954a2f49d5153ea78079c544b41a27567c72)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5685,6 +5686,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(systemd-units.plugin): correct resp type on info (#21621)</code>](https://github.com/netdata/netdata.git/commit/b7e1095c4dd5f01fa87448b77110049e88bb0c2c)
 - [ ] [<code>Add  check before releasing metric buffer (#21615)</code>](https://github.com/netdata/netdata.git/commit/4c3abc7a4355eacbf9f93a3d24f92c3d9f1e57fc)
+- [ ] [<code>docs: update collector function docs schema and templates (#21622)</code>](https://github.com/netdata/netdata.git/commit/ac68a2f06a2adeb3e78bf8e0a8916554a1355138)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21623)</code>](https://github.com/netdata/netdata.git/commit/3348493437c061355323eb2777a6dbff94f772aa)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: update azure/trusted-signing-action after rebranding (#21591)</code>](https://github.com/netdata/netdata.git/commit/9fa3b3a080f8e0344dbc1f5f1349c94cb202ed37)
+- [ ] [<code>Use debug level for logging of requests. (#21625)</code>](https://github.com/netdata/netdata.git/commit/2e0dd48debe9193a220d623ead640de86f275d09)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8160,6 +8167,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: v2.4.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/847b396adc582e8d824474e6a2db9a5969f3c16d)
 - [ ] [<code>docs: fix minor mistakes in capture-bluetooth-logs.md</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ca227de9eca06055eb815e7598789e76c3f82585)
   - <sub>Tags: <code>v2.4.0</code></sub>
+- [ ] [<code>feat(soundcore-device-faker): add work in progress d1202c</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20d515414f2141bbf69a1bbe219a0a48fd4c048a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): is_soundcore_vendor_rfcomm_uuid too narrow in what it accepts</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f118d29a1476878c60f0dea8243bfd8932923d2)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8432,3 +8442,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.9 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.9...HEAD)
 
+- [ ] [<code>Add tag</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b7821f19262b5bcc4eee005550575223d30d2285)
+- [ ] [<code>Add launch</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/4498f2b0adf8af3256b2ff7ae98f267b33ba9bbe)
+- [ ] [<code>Add empty-icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dba9e8b4b808a1b2c424244fc640b7999050fc7a)
+- [ ] [<code>Fix color of xsi-non-starred-symbolic.svg.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/03ae179980039f12e4b149c346a09817d60182ea)
