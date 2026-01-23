@@ -5,7 +5,29 @@
 #### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.5...HEAD)
 
 - [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
+- [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>printer applet: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/09059104286a44173e12ee6dd764d76cd10627db)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/ff929914f06c2cdd372bcb80954e779fb1483c6e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>network applet: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/73a18566e62ea29f934fa62aca04749e21e2adae)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/cf5dd8c69c5d708a90ff119aaf681141978300bc)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>misc/util.js: Use xsi-symbolics for desktop-file actions.</code>](https://github.com/linuxmint/cinnamon/commit/1e58564296731edd4a1988e1799a00412a9a77a7)
+- [ ] [<code>panel-launchers: Use icons for desktop actions if available.</code>](https://github.com/linuxmint/cinnamon/commit/d1b407f068651a408dc6454acbc1f7aff97ad40a)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>window-list applet: Update context menu action icons to match the</code>](https://github.com/linuxmint/cinnamon/commit/5a6a179967746f83160007664c0f483a6b0609a4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>placesManager.js: Go back to having isRemovable() call can_unmount(). (#13464)</code>](https://github.com/linuxmint/cinnamon/commit/4145c1754146b70bed28040831273337ebff2198)
+- [ ] [<code>menu applet: remove 'force show panel' toggle as ... (#13394)</code>](https://github.com/linuxmint/cinnamon/commit/b10c092ca1acfbb91328a390bf8067c9950eaca6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>menu applet: fix sidebar separator showing inconsistently (#13438)</code>](https://github.com/linuxmint/cinnamon/commit/4620a4c0502d7128a0de0147752d9bbf55e0b0bf)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-window-tracker.c (wayland): Connect to MetaWindow::shown (#13453)</code>](https://github.com/linuxmint/cinnamon/commit/d4166a12f33852e0af8b0bf1106201fd34e669cc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
