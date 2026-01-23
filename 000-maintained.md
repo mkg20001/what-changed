@@ -350,6 +350,9 @@
   - <sub>Tags: <code>rc2.4.0-6</code> <code>v2.4.0</code></sub>
 - [ ] [<code>build: Remove unused packag</code>](https://github.com/krille-chan/fluffychat/commit/a1214908c2caceb4a6c352850127fddd72aa9d78)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: apk crash on some platforms due new flutter version</code>](https://github.com/krille-chan/fluffychat/commit/19e0bda23959959431c9ab2abefd73704694ea0e)
+- [ ] [<code>chore: Correct kotlin format</code>](https://github.com/krille-chan/fluffychat/commit/d61dabd5e7622120bd044f46ea8dcaf61a13a66f)
+  - <sub>Tags: <code>v2.4.1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -577,6 +580,9 @@
   - <sub>Tags: <code>rc2.4.0-6</code> <code>v2.4.0</code></sub>
 - [ ] [<code>build: Remove unused packag</code>](https://github.com/krille-chan/fluffychat/commit/a1214908c2caceb4a6c352850127fddd72aa9d78)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: apk crash on some platforms due new flutter version</code>](https://github.com/krille-chan/fluffychat/commit/19e0bda23959959431c9ab2abefd73704694ea0e)
+- [ ] [<code>chore: Correct kotlin format</code>](https://github.com/krille-chan/fluffychat/commit/d61dabd5e7622120bd044f46ea8dcaf61a13a66f)
+  - <sub>Tags: <code>v2.4.1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -668,7 +674,28 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
 - [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
 - [ ] [<code>doc: Add warning about long device names</code>](https://github.com/lxc/incus/commit/671a8072645ee6f14415e9184c2d1fa6972078bf)
+- [ ] [<code>incusd/device/nic: Add `attached` configuration key</code>](https://github.com/lxc/incus/commit/fbf8b4440636fdafeeed6f17222abd7b9d59e1e9)
+- [ ] [<code>incusd/device/nic: Add `connected` configuration key</code>](https://github.com/lxc/incus/commit/8c27e80a67ea01feea2ef65ad5d1f07e5cf3ee18)
+- [ ] [<code>incusd/instance/qemu: Properly update detached devices</code>](https://github.com/lxc/incus/commit/299db59b4bb72d64a07999a7520e4831308e3688)
+- [ ] [<code>incusd/instance/lxc: Properly update detached devices</code>](https://github.com/lxc/incus/commit/65b0ba52cb43375617b9ec4eecd71d050bb14f68)
+- [ ] [<code>incusd/device/nic_ovn: Factor common options</code>](https://github.com/lxc/incus/commit/0d6bc20fb0597befa28d14d613db662d42ba0b59)
+- [ ] [<code>incusd/device/nic_p2p: Fix boot.priority spelling in gendoc</code>](https://github.com/lxc/incus/commit/f52525b349d87398918e11369b2ee1121dad9256)
+- [ ] [<code>incusd/instance/qemu: Implement NIC connected config key</code>](https://github.com/lxc/incus/commit/189171c269c6237ef926f0e767ec51d9dbdaccab)
+- [ ] [<code>incusd/ip/link: Relax parent detection logic</code>](https://github.com/lxc/incus/commit/74b7cd5d14c5b2c00e44cd2c49222b0fb3be49b1)
+- [ ] [<code>incusd/instance/lxc: Implement NIC connected config key</code>](https://github.com/lxc/incus/commit/7ff5d06a97bfcb55c3666583832b5bf1e5a8fed5)
+- [ ] [<code>api: nic_attached_connected</code>](https://github.com/lxc/incus/commit/79cd4ad52b13080bdbbff2dd098d3e4d8e48d413)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/24ce2b63c469b5664e6ba9cdffaddbe6e23b522e)
 - [ ] [<code>incusd/instance/lxc: Restrict path of template files and targets</code>](https://github.com/lxc/incus/commit/c1d90bd34a7ccc224276b87644d7c75437f1cb64)
+- [ ] [<code>tests: Add NIC tests for attached and connected keys</code>](https://github.com/lxc/incus/commit/3bfc9423b1bbfffe783c53fbac9f64fbf52c71a7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Makefile: Bump to Go 1.24.12</code>](https://github.com/lxc/incus/commit/5722ee3c707ae74d46d876c541d1fe2ff8572da5)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/34d1f766715dd5479c9c6212b1fef2dcc0c6c834)
+- [ ] [<code>mini-oidc: Update for newer Zitadel</code>](https://github.com/lxc/incus/commit/d24ea94363cb2877e8e54bac885fcda75c4b8c7f)
+- [ ] [<code>incusd/cluster: Skip first re-balance</code>](https://github.com/lxc/incus/commit/c8399c28c0344db0a9d636589b18437e17268836)
+- [ ] [<code>incusd/auth/tls: Fix handling of GetPermissionChecker</code>](https://github.com/lxc/incus/commit/5a5555e0bd789db564e4b12c155286337555f925)
+- [ ] [<code>incusd/instance: Report clear error on concurent migrations</code>](https://github.com/lxc/incus/commit/b59c5c87049368fe8d2cf97c44d6b8bc9c44fe7b)
+- [ ] [<code>Release Incus 6.21</code>](https://github.com/lxc/incus/commit/6f11417f35cd3bcb7a2d5e3a6bc9a48558b4cd58)
+  - <sub>Tags: <code>v6.21.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4904,13 +4931,31 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
 - [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
 - [ ] [<code>doc: Add warning about long device names</code>](https://github.com/lxc/incus/commit/671a8072645ee6f14415e9184c2d1fa6972078bf)
+- [ ] [<code>incusd/device/nic: Add `attached` configuration key</code>](https://github.com/lxc/incus/commit/fbf8b4440636fdafeeed6f17222abd7b9d59e1e9)
+- [ ] [<code>incusd/device/nic: Add `connected` configuration key</code>](https://github.com/lxc/incus/commit/8c27e80a67ea01feea2ef65ad5d1f07e5cf3ee18)
+- [ ] [<code>incusd/instance/qemu: Properly update detached devices</code>](https://github.com/lxc/incus/commit/299db59b4bb72d64a07999a7520e4831308e3688)
+- [ ] [<code>incusd/instance/lxc: Properly update detached devices</code>](https://github.com/lxc/incus/commit/65b0ba52cb43375617b9ec4eecd71d050bb14f68)
+- [ ] [<code>incusd/device/nic_ovn: Factor common options</code>](https://github.com/lxc/incus/commit/0d6bc20fb0597befa28d14d613db662d42ba0b59)
+- [ ] [<code>incusd/device/nic_p2p: Fix boot.priority spelling in gendoc</code>](https://github.com/lxc/incus/commit/f52525b349d87398918e11369b2ee1121dad9256)
+- [ ] [<code>incusd/instance/qemu: Implement NIC connected config key</code>](https://github.com/lxc/incus/commit/189171c269c6237ef926f0e767ec51d9dbdaccab)
+- [ ] [<code>incusd/ip/link: Relax parent detection logic</code>](https://github.com/lxc/incus/commit/74b7cd5d14c5b2c00e44cd2c49222b0fb3be49b1)
+- [ ] [<code>incusd/instance/lxc: Implement NIC connected config key</code>](https://github.com/lxc/incus/commit/7ff5d06a97bfcb55c3666583832b5bf1e5a8fed5)
+- [ ] [<code>api: nic_attached_connected</code>](https://github.com/lxc/incus/commit/79cd4ad52b13080bdbbff2dd098d3e4d8e48d413)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/24ce2b63c469b5664e6ba9cdffaddbe6e23b522e)
 - [ ] [<code>incusd/instance/lxc: Restrict path of template files and targets</code>](https://github.com/lxc/incus/commit/c1d90bd34a7ccc224276b87644d7c75437f1cb64)
+- [ ] [<code>tests: Add NIC tests for attached and connected keys</code>](https://github.com/lxc/incus/commit/3bfc9423b1bbfffe783c53fbac9f64fbf52c71a7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Makefile: Bump to Go 1.24.12</code>](https://github.com/lxc/incus/commit/5722ee3c707ae74d46d876c541d1fe2ff8572da5)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/34d1f766715dd5479c9c6212b1fef2dcc0c6c834)
+- [ ] [<code>mini-oidc: Update for newer Zitadel</code>](https://github.com/lxc/incus/commit/d24ea94363cb2877e8e54bac885fcda75c4b8c7f)
+- [ ] [<code>incusd/cluster: Skip first re-balance</code>](https://github.com/lxc/incus/commit/c8399c28c0344db0a9d636589b18437e17268836)
+- [ ] [<code>incusd/auth/tls: Fix handling of GetPermissionChecker</code>](https://github.com/lxc/incus/commit/5a5555e0bd789db564e4b12c155286337555f925)
+- [ ] [<code>incusd/instance: Report clear error on concurent migrations</code>](https://github.com/lxc/incus/commit/b59c5c87049368fe8d2cf97c44d6b8bc9c44fe7b)
+- [ ] [<code>Release Incus 6.21</code>](https://github.com/lxc/incus/commit/6f11417f35cd3bcb7a2d5e3a6bc9a48558b4cd58)
+  - <sub>Tags: <code>v6.21.0</code></sub>
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.1...HEAD)
 
-- [ ] [<code>Treat image properties description field as optional</code>](https://github.com/zabbly/incus-ui-canonical/commit/3f16e5f0f8924eab672dbe222845c0fa1d144af1)
-- [ ] [<code>Merge pull request #113 from presztak/fix_image_selection</code>](https://github.com/zabbly/incus-ui-canonical/commit/05cff945baaedec31e21895c937d1cb5535d2c7a)
-  - <sub>Tags: <code>incus-0.19.1</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5634,6 +5679,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Assortement of journal-viewer plugin fixes. (#21612)</code>](https://github.com/netdata/netdata.git/commit/8f048c8029ccf46686044ba189778d6197d718e8)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-268-nightly.</code>](https://github.com/netdata/netdata.git/commit/e836a999faffa276a64c01cf1f6afbb175bf11b4)
+- [ ] [<code>docs: Add collector function docs metadata (#21618)</code>](https://github.com/netdata/netdata.git/commit/1dc4108e3e3ed235a3f3894928510a8a00c77c32)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21620)</code>](https://github.com/netdata/netdata.git/commit/c4a36fe365ff7cf4e5dc4ecf938d042643146243)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(systemd-units.plugin): correct resp type on info (#21621)</code>](https://github.com/netdata/netdata.git/commit/b7e1095c4dd5f01fa87448b77110049e88bb0c2c)
+- [ ] [<code>Add  check before releasing metric buffer (#21615)</code>](https://github.com/netdata/netdata.git/commit/4c3abc7a4355eacbf9f93a3d24f92c3d9f1e57fc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8097,6 +8148,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build(android): fix typo in retrace script</code>](https://github.com/Oppzippy/OpenSCQ30/commit/55d49229b88a57417f07d6317981dec88e61d762)
 - [ ] [<code>fix(android): onDeviceFound doesn't always have default implementaion</code>](https://github.com/Oppzippy/OpenSCQ30/commit/582ea7b1f19b9e4450d4160e89c892e979bf3797)
+- [ ] [<code>fix(lib): crash when opening preferred language dropdown</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3fd2494fe2bd9dc269bb51959c81e079fe9f3c1a)
+- [ ] [<code>fix(lib): log more information about rfcomm services</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e8a36f7749d259d2744ee7abb631b72f200aa6c5)
+- [ ] [<code>feat(lib): add power off setting for a3116</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7cf170144bd015ec0563e7a9dad4b9a9f2d21710)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bdd7f4247eedfbd3f3dcd44becfd94111971cc46)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9cee6019b45155e8104dee2ff07691b8bf87f992)
+- [ ] [<code>fix(android): action bar affects layout on old android versions</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bddc47bed0fd873ecf6a8ced3f1a1e51a15d693e)
+- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3b9797998073501cdd26c028b29a8ad0d199ac76)
+- [ ] [<code>docs: add guide for capturing bluetooth logs on android</code>](https://github.com/Oppzippy/OpenSCQ30/commit/600e350712908a135a4a1d2641f4cb6f5a2141dd)
+- [ ] [<code>build: v2.4.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/847b396adc582e8d824474e6a2db9a5969f3c16d)
+- [ ] [<code>docs: fix minor mistakes in capture-bluetooth-logs.md</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ca227de9eca06055eb815e7598789e76c3f82585)
+  - <sub>Tags: <code>v2.4.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
