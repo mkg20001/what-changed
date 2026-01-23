@@ -655,6 +655,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>internal/instance: Prevent line breaks in environment variables</code>](https://github.com/lxc/incus/commit/cdf037409fbb35ab0f9fdc4e0e8cc706adbca99e)
 - [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
 - [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
 - [ ] [<code>doc/linstor: Add documentation for `source` parameter.</code>](https://github.com/lxc/incus/commit/af86ca6c70dd3cfcfbd139a4af846dbd892d8548)
@@ -666,6 +667,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
 - [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
 - [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
+- [ ] [<code>doc: Add warning about long device names</code>](https://github.com/lxc/incus/commit/671a8072645ee6f14415e9184c2d1fa6972078bf)
+- [ ] [<code>incusd/instance/lxc: Restrict path of template files and targets</code>](https://github.com/lxc/incus/commit/c1d90bd34a7ccc224276b87644d7c75437f1cb64)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4888,6 +4891,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>internal/instance: Prevent line breaks in environment variables</code>](https://github.com/lxc/incus/commit/cdf037409fbb35ab0f9fdc4e0e8cc706adbca99e)
 - [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
 - [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
 - [ ] [<code>doc/linstor: Add documentation for `source` parameter.</code>](https://github.com/lxc/incus/commit/af86ca6c70dd3cfcfbd139a4af846dbd892d8548)
@@ -4899,10 +4903,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
 - [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
 - [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
+- [ ] [<code>doc: Add warning about long device names</code>](https://github.com/lxc/incus/commit/671a8072645ee6f14415e9184c2d1fa6972078bf)
+- [ ] [<code>incusd/instance/lxc: Restrict path of template files and targets</code>](https://github.com/lxc/incus/commit/c1d90bd34a7ccc224276b87644d7c75437f1cb64)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.0 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.0...HEAD)
 
 - [ ] [<code>Treat image properties description field as optional</code>](https://github.com/zabbly/incus-ui-canonical/commit/3f16e5f0f8924eab672dbe222845c0fa1d144af1)
+- [ ] [<code>Merge pull request #113 from presztak/fix_image_selection</code>](https://github.com/zabbly/incus-ui-canonical/commit/05cff945baaedec31e21895c937d1cb5535d2c7a)
+  - <sub>Tags: <code>incus-0.19.1</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5624,6 +5632,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d): revise funcapi docs (#21617)</code>](https://github.com/netdata/netdata.git/commit/e5bc59000ad41a2e780805988f34e25cfbb1d333)
 - [ ] [<code>chore(go.d): set default update_every to 10 for all functions (#21616)</code>](https://github.com/netdata/netdata.git/commit/6912248086281cf18fc5c826b7669951721bf1f7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Assortement of journal-viewer plugin fixes. (#21612)</code>](https://github.com/netdata/netdata.git/commit/8f048c8029ccf46686044ba189778d6197d718e8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-268-nightly.</code>](https://github.com/netdata/netdata.git/commit/e836a999faffa276a64c01cf1f6afbb175bf11b4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
