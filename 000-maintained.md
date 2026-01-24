@@ -696,6 +696,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance: Report clear error on concurent migrations</code>](https://github.com/lxc/incus/commit/b59c5c87049368fe8d2cf97c44d6b8bc9c44fe7b)
 - [ ] [<code>Release Incus 6.21</code>](https://github.com/lxc/incus/commit/6f11417f35cd3bcb7a2d5e3a6bc9a48558b4cd58)
   - <sub>Tags: <code>v6.21.0</code></sub>
+- [ ] [<code>incusd/device/nic: Fix connected logic for non-NIC QEMU devices</code>](https://github.com/lxc/incus/commit/1c0455c2ca201ec282b504c28096f50cb13a071b)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/c829eba4b7eec64d3d4f8fdc3d20433b40bb5c8c)
+- [ ] [<code>incusd/instance/qmp: Prevent setting link up at initialization</code>](https://github.com/lxc/incus/commit/945a885af9d3f88c905ad5c5b7af9f1232b69433)
+- [ ] [<code>incusd/instance/qemu: Properly initialize connected status</code>](https://github.com/lxc/incus/commit/ee2fc45f2d9300e58d9fb5b378a7f2531034cceb)
 
 #### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
 
@@ -4953,6 +4957,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance: Report clear error on concurent migrations</code>](https://github.com/lxc/incus/commit/b59c5c87049368fe8d2cf97c44d6b8bc9c44fe7b)
 - [ ] [<code>Release Incus 6.21</code>](https://github.com/lxc/incus/commit/6f11417f35cd3bcb7a2d5e3a6bc9a48558b4cd58)
   - <sub>Tags: <code>v6.21.0</code></sub>
+- [ ] [<code>incusd/device/nic: Fix connected logic for non-NIC QEMU devices</code>](https://github.com/lxc/incus/commit/1c0455c2ca201ec282b504c28096f50cb13a071b)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/c829eba4b7eec64d3d4f8fdc3d20433b40bb5c8c)
+- [ ] [<code>incusd/instance/qmp: Prevent setting link up at initialization</code>](https://github.com/lxc/incus/commit/945a885af9d3f88c905ad5c5b7af9f1232b69433)
+- [ ] [<code>incusd/instance/qemu: Properly initialize connected status</code>](https://github.com/lxc/incus/commit/ee2fc45f2d9300e58d9fb5b378a7f2531034cceb)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.1...HEAD)
 
@@ -5692,6 +5700,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>ci: update azure/trusted-signing-action after rebranding (#21591)</code>](https://github.com/netdata/netdata.git/commit/9fa3b3a080f8e0344dbc1f5f1349c94cb202ed37)
 - [ ] [<code>Use debug level for logging of requests. (#21625)</code>](https://github.com/netdata/netdata.git/commit/2e0dd48debe9193a220d623ead640de86f275d09)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-277-nightly.</code>](https://github.com/netdata/netdata.git/commit/1bc1775a17590b3c0fe3a4fe547dc6146d07be89)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8351,6 +8360,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
 - [ ] [<code>Convert aka key from hex to binary</code>](https://github.com/LubosD/twinkle/commit/68043fba5f4cf36432f34a9979219d25d8a976e1)
+- [ ] [<code>Fix typos in escape_hex() hardcoded strings</code>](https://github.com/LubosD/twinkle/commit/a4921b502eb97a2539219b726dbe1a3861c11f5f)
 
 #### [ucode](https://github.com/jow-/ucode): [v0.0.20250529 → HEAD](https://github.com/jow-/ucode/compare/v0.0.20250529...HEAD)
 
