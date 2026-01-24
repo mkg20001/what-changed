@@ -611,6 +611,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/c829eba4b7eec64d3d4f8fdc3d20433b40bb5c8c)
 - [ ] [<code>incusd/instance/qmp: Prevent setting link up at initialization</code>](https://github.com/lxc/incus/commit/945a885af9d3f88c905ad5c5b7af9f1232b69433)
 - [ ] [<code>incusd/instance/qemu: Properly initialize connected status</code>](https://github.com/lxc/incus/commit/ee2fc45f2d9300e58d9fb5b378a7f2531034cceb)
+- [ ] [<code>incusd/storage/zfs: Set IncusOS storage usage property</code>](https://github.com/lxc/incus/commit/9a7eaf1333fbb902b29a328c02ff54c49e4aa03f)
 - [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
   - <sub>Keywords: <code>command</code></sub>
 
@@ -4874,14 +4875,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/c829eba4b7eec64d3d4f8fdc3d20433b40bb5c8c)
 - [ ] [<code>incusd/instance/qmp: Prevent setting link up at initialization</code>](https://github.com/lxc/incus/commit/945a885af9d3f88c905ad5c5b7af9f1232b69433)
 - [ ] [<code>incusd/instance/qemu: Properly initialize connected status</code>](https://github.com/lxc/incus/commit/ee2fc45f2d9300e58d9fb5b378a7f2531034cceb)
+- [ ] [<code>incusd/storage/zfs: Set IncusOS storage usage property</code>](https://github.com/lxc/incus/commit/9a7eaf1333fbb902b29a328c02ff54c49e4aa03f)
 - [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.1...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.2...HEAD)
 
-- [ ] [<code>Fix filtering by cluster node</code>](https://github.com/zabbly/incus-ui-canonical/commit/216c954a2f49d5153ea78079c544b41a27567c72)
-- [ ] [<code>Merge pull request #114 from presztak/filter_by_location</code>](https://github.com/zabbly/incus-ui-canonical/commit/ae304d9432d9acdee72313ae989c48ff70cfa092)
-  - <sub>Tags: <code>incus-0.19.2</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5625,6 +5624,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21627)</code>](https://github.com/netdata/netdata.git/commit/eeb68223abcc224ad1894d6ca73b63215e17375b)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: add comprehensive node states and transitions documentation (#21630)</code>](https://github.com/netdata/netdata.git/commit/20eca72881b7bc29764ce3ae951e2898fe23492e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
