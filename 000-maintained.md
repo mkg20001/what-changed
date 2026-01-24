@@ -605,103 +605,16 @@
 fatal: could not read Username for 'https://github.com': No such device or address
 '
 
-#### [incus](https://github.com/lxc/incus): [refs/tags/v6.20.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.20.0...HEAD)
+#### [incus](https://github.com/lxc/incus): [refs/tags/v6.21.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.21.0...HEAD)
 
-- [ ] [<code>doc/openfga: Improve required config keys</code>](https://github.com/lxc/incus/commit/0b0311794c2750b50e9a0aa598143f547ee5653e)
-- [ ] [<code>incusd/network/ovn: Drop now obsolete DNS check</code>](https://github.com/lxc/incus/commit/eafa7db765970d7f09c20474781efed3c63f5446)
-- [ ] [<code>incusd/storage/truenas: fix SetVolumeQuota issue when growing FS volumes</code>](https://github.com/lxc/incus/commit/539860ce96195859ffc5d477a701c4d7ce967669)
-- [ ] [<code>cmd/incus-user: Don't reset setup if user has access</code>](https://github.com/lxc/incus/commit/eb0b2f5d9b35ecf90d09d63854e80ea8602744a7)
-- [ ] [<code>api: oidc_allowed_subnets</code>](https://github.com/lxc/incus/commit/705214e0a46f162a41e23561817e8ee7a8540e0e)
-- [ ] [<code>incusd/auth/oidc: Introduce incus.restricted_subnets</code>](https://github.com/lxc/incus/commit/4d28a1ee5aeed801c2bf83432dd79ec75d3409fe)
-- [ ] [<code>doc/authentication: Mentioned incus.allowed_subnets claim</code>](https://github.com/lxc/incus/commit/44369a0cddb65385986cbd80b7bf32cc5158cded)
-- [ ] [<code>internal/instance: Tweak handling of boot.autostart</code>](https://github.com/lxc/incus/commit/81399c2731b52dcce62bedf5b2079078acca7792)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/8d6d705ee4944292f27260f82a0d18bcd38dcf62)
-- [ ] [<code>incusd/instances: Support last-state value for boot.autostart</code>](https://github.com/lxc/incus/commit/eee18e103e66566addf28f034c5433233a8b6c67)
-- [ ] [<code>incusd/network/physical: Allow parent re-use for bridges</code>](https://github.com/lxc/incus/commit/f95e2af5b76c91caa20c2ecef85df9ff6074d70e)
-- [ ] [<code>incusd/network/physical: Allow vlan.tagged</code>](https://github.com/lxc/incus/commit/969f32300002fd980992e3b62bedf398bdf7dbe6)
-- [ ] [<code>incusd/device: Add vlan.tagged to physical NICs</code>](https://github.com/lxc/incus/commit/b72643a540172fdb69b97b82dd60740ac06ad890)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/6dd6948000453fb2ef8f66517001513083a2f3c3)
-- [ ] [<code>incusd/device/nic_physical: Fix internal bridge handling</code>](https://github.com/lxc/incus/commit/add134c50d1ab69af063f8c0af4178129f09d51e)
-- [ ] [<code>incusd: Add X-Incus-force header for file operations</code>](https://github.com/lxc/incus/commit/0f937900baf1d973f8a9df6db1a74004bbdaaf00)
-- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/f9c3aff11cecb60e7b18e3a66be58fec19e4ee1f)
-- [ ] [<code>api: file_delete_force</code>](https://github.com/lxc/incus/commit/bf512b985dc05deeeb3f199cd9df6b346c468ad5)
-- [ ] [<code>doc/network_ovn: Add note about advanced external_interfaces syntax</code>](https://github.com/lxc/incus/commit/110a5235313c8b415d12aa2d72ece95e70bd574f)
-- [ ] [<code>incusd: Parallelize instance startup on daemon start</code>](https://github.com/lxc/incus/commit/c92eccaddf574dc4bfd7e1ec8380417a131b9895)
-- [ ] [<code>incusd/instance/drivers: Add size parameter to UpdateBlockSize method</code>](https://github.com/lxc/incus/commit/58e7df140e1af36dc6d30abc8578b05889be813b)
-- [ ] [<code>incusd/storage/drivers: Export roundAbove function</code>](https://github.com/lxc/incus/commit/06309e0d5fdbc265d7e9a226f773c25d624f654d)
-- [ ] [<code>incusd/storage/drivers: Add Qcow2Resize and export isQcow2Block function</code>](https://github.com/lxc/incus/commit/62b535b9c03f9b21c625bd56369a235fa528afbd)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>incusd/storage: Add support for resizing qcow2 volumes</code>](https://github.com/lxc/incus/commit/ef90f5de6a14ca4ac4eb4e8a3d2929128d84d2e4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>generate-database: Respect "primary" config for Identifier in mappings</code>](https://github.com/lxc/incus/commit/7659c68b2fb984c711b2e9a60a85a2cb19319a58)
-- [ ] [<code>Added a few more environment variables. PATHEXT and COMPUTERNAME were needed for 'shutdown.exe'. Meanwhile, I've connected as SYSTEM with PsExec to show the environment variables by default and added them.</code>](https://github.com/lxc/incus/commit/27870526d1cb69d50b443c8b89187d9a16a30ea7)
-- [ ] [<code>Add pires/go-proxyproto</code>](https://github.com/lxc/incus/commit/f9876f5b7d6f753b9a5481cc0a9f4d46f3f2e57c)
-- [ ] [<code>internal/server/endpoints/listeners: Use new proxyproto package</code>](https://github.com/lxc/incus/commit/75fa89e6c153f80b790baf3fe11e0ed27f540fbe)
-- [ ] [<code>generate-database: fix import type for association tables</code>](https://github.com/lxc/incus/commit/3d4f168d12fd0722fbf5fe75dd51dd08a182a456)
-- [ ] [<code>incusd/instance/drivers: Fix adding disk with a device name longer than 31 bytes</code>](https://github.com/lxc/incus/commit/bef2fc76a6f9c070cc07e068c7dd3a205884e3d1)
-- [ ] [<code>incusd/instance/drivers: Add tests for hashName</code>](https://github.com/lxc/incus/commit/fe9c020eea99b05ed3eee2a5c50ed124e15df14a)
-- [ ] [<code>shared/validate: Don't allow $ in API names</code>](https://github.com/lxc/incus/commit/26f45a11aee79508623117eeb0dc9e4c0ed97c5d)
-- [ ] [<code>shared/util: Add SingleQuote</code>](https://github.com/lxc/incus/commit/a5c1c73b535fb12d2c1ccd1c6b9a933fd312dc79)
-- [ ] [<code>incusd/instance/lxc: Use SingleQuote instead of Quote</code>](https://github.com/lxc/incus/commit/0e0cf45ecdcc902a6f319f11971ed27df81bd29f)
-- [ ] [<code>incusd/device/disk: Use isRequired</code>](https://github.com/lxc/incus/commit/1b6d6016ef5f9b367675f3b5b8538115c1ca1b10)
-- [ ] [<code>incusd/device/disk: Move check for attached property</code>](https://github.com/lxc/incus/commit/bcb13e1584d77fa38468aa3926b8b32b7d88d550)
-- [ ] [<code>incusd/device/disk: Handle required=false on custom volumes</code>](https://github.com/lxc/incus/commit/2af1715caba023077f61c39cd4c4d1f37f1e3f44)
-- [ ] [<code>incusd/api_internal: Block instance hooks until daemon is ready</code>](https://github.com/lxc/incus/commit/22243dbafcefdde777f43bcc4453e9100ff4b397)
-- [ ] [<code>incusd/instance_console: Align cleanup logic with exec</code>](https://github.com/lxc/incus/commit/85402757af1dec21b28ff96a275ec77043121960)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>incusd: pass firmware opt from device/pci to instance/qemu</code>](https://github.com/lxc/incus/commit/0d9635370c2db77613585ed1c60b8ffed383974c)
-- [ ] [<code>incusd/device: Move reusable code into getNumaNodeSet helper</code>](https://github.com/lxc/incus/commit/a16f42b5a0dd26c3f65c41cd9ac6c2cf3f055287)
-- [ ] [<code>incusd/network: Add SRIOVCountFreeVirtualFunctions</code>](https://github.com/lxc/incus/commit/9b07fb98ec8c27c4b26f4af52e8b9c47a6d192b0)
-- [ ] [<code>incusd/device: Add support for nic SR-IOV selection by vendorid, productid and pci</code>](https://github.com/lxc/incus/commit/13104131f1c5ac5ca103b86478e54333c21f0970)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/a0e9f28be768440ec120d001993171b4715141d9)
-- [ ] [<code>api: Add 'nic_sriov_select_ext' extension</code>](https://github.com/lxc/incus/commit/3a3f5201d35ec52d39ecd2e371bc2c2bbeb6bcb5)
-- [ ] [<code>incusd/storage/drivers: Allow setting 'vg_name' for non-clustered LVM during init</code>](https://github.com/lxc/incus/commit/d906be1fe77b3affed02720316f7827309bccf64)
-- [ ] [<code>doc: Fix build failure</code>](https://github.com/lxc/incus/commit/82d2b57b7d301da4f6933bf3672c233eec43a0c0)
-- [ ] [<code>incus: Implement "incus wait"</code>](https://github.com/lxc/incus/commit/e78c2326959551299b874a54ee5073c09a8ae286)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/fd8cb473f27c81726657f4a26dd7f09ef0b80ba2)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>internal/instance: Prevent line breaks in environment variables</code>](https://github.com/lxc/incus/commit/cdf037409fbb35ab0f9fdc4e0e8cc706adbca99e)
-- [ ] [<code>incusd/instance/drivers: Rename hashName to hashValue</code>](https://github.com/lxc/incus/commit/7148f0963b0ac15161e3632ad9b45a1799cf5711)
-- [ ] [<code>incusd/instance/drivers: Hash serial value if it exceeds the maximum length</code>](https://github.com/lxc/incus/commit/a7f414b7a4ea88c5756c78091cd042358ff0eff5)
-- [ ] [<code>doc/linstor: Add documentation for `source` parameter.</code>](https://github.com/lxc/incus/commit/af86ca6c70dd3cfcfbd139a4af846dbd892d8548)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/86a4c6cb0286cf205c8bcff5e26060ce7e80d92f)
-- [ ] [<code>incusd/network/bridge: Skip dnsmasq on non-routed IPv6</code>](https://github.com/lxc/incus/commit/a0b3fb03a2f883808c1dec844cdc6136202f6511)
-- [ ] [<code>Update Rocky Linux instructions</code>](https://github.com/lxc/incus/commit/189058c1562746a2734522eb6be8920e35480446)
-- [ ] [<code>incusd/network/zone: Use the standard SOA format</code>](https://github.com/lxc/incus/commit/9632a6d4613e721a17b68fdab2c1fcff3f4f1f3f)
-- [ ] [<code>incusd/network/zone: Allow setting DNS admin contact</code>](https://github.com/lxc/incus/commit/b939dae10620ab89dd03996f0e1f7ac0447dca7d)
-- [ ] [<code>doc: Update configs</code>](https://github.com/lxc/incus/commit/e4db78f8c4d04a58aff52cfa9d28de6f27111fbb)
-- [ ] [<code>api: network_zones_dns_contact</code>](https://github.com/lxc/incus/commit/66ad7d941a26bc0267ab82ebd944bb31f9a12816)
-- [ ] [<code>incusd/network: Remove automatic increasing of SR-IOV VF count</code>](https://github.com/lxc/incus/commit/b13817f2b0936f9d68766d5bfad3d4019668e072)
-- [ ] [<code>doc: Add warning about long device names</code>](https://github.com/lxc/incus/commit/671a8072645ee6f14415e9184c2d1fa6972078bf)
-- [ ] [<code>incusd/device/nic: Add `attached` configuration key</code>](https://github.com/lxc/incus/commit/fbf8b4440636fdafeeed6f17222abd7b9d59e1e9)
-- [ ] [<code>incusd/device/nic: Add `connected` configuration key</code>](https://github.com/lxc/incus/commit/8c27e80a67ea01feea2ef65ad5d1f07e5cf3ee18)
-- [ ] [<code>incusd/instance/qemu: Properly update detached devices</code>](https://github.com/lxc/incus/commit/299db59b4bb72d64a07999a7520e4831308e3688)
-- [ ] [<code>incusd/instance/lxc: Properly update detached devices</code>](https://github.com/lxc/incus/commit/65b0ba52cb43375617b9ec4eecd71d050bb14f68)
-- [ ] [<code>incusd/device/nic_ovn: Factor common options</code>](https://github.com/lxc/incus/commit/0d6bc20fb0597befa28d14d613db662d42ba0b59)
-- [ ] [<code>incusd/device/nic_p2p: Fix boot.priority spelling in gendoc</code>](https://github.com/lxc/incus/commit/f52525b349d87398918e11369b2ee1121dad9256)
-- [ ] [<code>incusd/instance/qemu: Implement NIC connected config key</code>](https://github.com/lxc/incus/commit/189171c269c6237ef926f0e767ec51d9dbdaccab)
-- [ ] [<code>incusd/ip/link: Relax parent detection logic</code>](https://github.com/lxc/incus/commit/74b7cd5d14c5b2c00e44cd2c49222b0fb3be49b1)
-- [ ] [<code>incusd/instance/lxc: Implement NIC connected config key</code>](https://github.com/lxc/incus/commit/7ff5d06a97bfcb55c3666583832b5bf1e5a8fed5)
-- [ ] [<code>api: nic_attached_connected</code>](https://github.com/lxc/incus/commit/79cd4ad52b13080bdbbff2dd098d3e4d8e48d413)
-- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/24ce2b63c469b5664e6ba9cdffaddbe6e23b522e)
-- [ ] [<code>incusd/instance/lxc: Restrict path of template files and targets</code>](https://github.com/lxc/incus/commit/c1d90bd34a7ccc224276b87644d7c75437f1cb64)
-- [ ] [<code>tests: Add NIC tests for attached and connected keys</code>](https://github.com/lxc/incus/commit/3bfc9423b1bbfffe783c53fbac9f64fbf52c71a7)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Makefile: Bump to Go 1.24.12</code>](https://github.com/lxc/incus/commit/5722ee3c707ae74d46d876c541d1fe2ff8572da5)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/34d1f766715dd5479c9c6212b1fef2dcc0c6c834)
-- [ ] [<code>mini-oidc: Update for newer Zitadel</code>](https://github.com/lxc/incus/commit/d24ea94363cb2877e8e54bac885fcda75c4b8c7f)
-- [ ] [<code>incusd/cluster: Skip first re-balance</code>](https://github.com/lxc/incus/commit/c8399c28c0344db0a9d636589b18437e17268836)
-- [ ] [<code>incusd/auth/tls: Fix handling of GetPermissionChecker</code>](https://github.com/lxc/incus/commit/5a5555e0bd789db564e4b12c155286337555f925)
-- [ ] [<code>incusd/instance: Report clear error on concurent migrations</code>](https://github.com/lxc/incus/commit/b59c5c87049368fe8d2cf97c44d6b8bc9c44fe7b)
-- [ ] [<code>Release Incus 6.21</code>](https://github.com/lxc/incus/commit/6f11417f35cd3bcb7a2d5e3a6bc9a48558b4cd58)
-  - <sub>Tags: <code>v6.21.0</code></sub>
 - [ ] [<code>incusd/device/nic: Fix connected logic for non-NIC QEMU devices</code>](https://github.com/lxc/incus/commit/1c0455c2ca201ec282b504c28096f50cb13a071b)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/c829eba4b7eec64d3d4f8fdc3d20433b40bb5c8c)
 - [ ] [<code>incusd/instance/qmp: Prevent setting link up at initialization</code>](https://github.com/lxc/incus/commit/945a885af9d3f88c905ad5c5b7af9f1232b69433)
 - [ ] [<code>incusd/instance/qemu: Properly initialize connected status</code>](https://github.com/lxc/incus/commit/ee2fc45f2d9300e58d9fb5b378a7f2531034cceb)
+- [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
+  - <sub>Keywords: <code>command</code></sub>
 
-#### [incus-lts](https://github.com/lxc/incus): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.0.5...HEAD)
+#### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
 - [ ] [<code>doc/support: Update for LTS</code>](https://github.com/lxc/incus/commit/a95d743f47838fabda684614da6b68bff1cf8639)
 - [ ] [<code>incusd/network: Remove bridge.driver=native requirement for extended external_interfaces syntax</code>](https://github.com/lxc/incus/commit/61ab78a50a6e6268868fdef29f4bfbae5606e666)
@@ -4961,10 +4874,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/c829eba4b7eec64d3d4f8fdc3d20433b40bb5c8c)
 - [ ] [<code>incusd/instance/qmp: Prevent setting link up at initialization</code>](https://github.com/lxc/incus/commit/945a885af9d3f88c905ad5c5b7af9f1232b69433)
 - [ ] [<code>incusd/instance/qemu: Properly initialize connected status</code>](https://github.com/lxc/incus/commit/ee2fc45f2d9300e58d9fb5b378a7f2531034cceb)
+- [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.1 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.1...HEAD)
 
 - [ ] [<code>Fix filtering by cluster node</code>](https://github.com/zabbly/incus-ui-canonical/commit/216c954a2f49d5153ea78079c544b41a27567c72)
+- [ ] [<code>Merge pull request #114 from presztak/filter_by_location</code>](https://github.com/zabbly/incus-ui-canonical/commit/ae304d9432d9acdee72313ae989c48ff70cfa092)
+  - <sub>Tags: <code>incus-0.19.2</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5305,6 +5222,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxc/{terminal, file_utils}: ensure complete data writes in ptx/peer io handlers</code>](https://github.com/lxc/lxc/commit/4cb9884ed7d3ca98ccd9bf2abbd508255b4e1fb7)
 - [ ] [<code>tests/lxc-attach: ensure no data corruption happens during heavy IO on pts</code>](https://github.com/lxc/lxc/commit/97bd7699c79493f32fcee0f976b6c397cf0f0ad5)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>src/confile: fix values of lxc.cap.keep and lxc.cap.drop</code>](https://github.com/lxc/lxc/commit/c97f33e1fa6d4b927a79d6a4695ed5ac342a6883)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5701,6 +5619,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: update azure/trusted-signing-action after rebranding (#21591)</code>](https://github.com/netdata/netdata.git/commit/9fa3b3a080f8e0344dbc1f5f1349c94cb202ed37)
 - [ ] [<code>Use debug level for logging of requests. (#21625)</code>](https://github.com/netdata/netdata.git/commit/2e0dd48debe9193a220d623ead640de86f275d09)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-277-nightly.</code>](https://github.com/netdata/netdata.git/commit/1bc1775a17590b3c0fe3a4fe547dc6146d07be89)
+- [ ] [<code>docs(go.d): improve functions metadata (#21626)</code>](https://github.com/netdata/netdata.git/commit/1ca1e6007f22f512704e69764c4d516f82b772fa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(go.d.plugin): add RequireCloud for database functions (#21629)</code>](https://github.com/netdata/netdata.git/commit/e7173248792e031d33fd00ed08e3359583f377e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21627)</code>](https://github.com/netdata/netdata.git/commit/eeb68223abcc224ad1894d6ca73b63215e17375b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
