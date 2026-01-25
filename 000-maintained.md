@@ -8105,6 +8105,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(soundcore-device-faker): add work in progress d1202c</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20d515414f2141bbf69a1bbe219a0a48fd4c048a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(lib): is_soundcore_vendor_rfcomm_uuid too narrow in what it accepts</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f118d29a1476878c60f0dea8243bfd8932923d2)
+- [ ] [<code>fix(gui): resizing causes freeze on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d9f2687749d47353e74c8f461b1275594cf6120)
+- [ ] [<code>fix(gui): crash when running with ICED_BACKEND=tiny-skia on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/32c7ad684d0559ee76e37aeb561e3185c280e5a1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
