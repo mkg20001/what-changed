@@ -8107,6 +8107,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): is_soundcore_vendor_rfcomm_uuid too narrow in what it accepts</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f118d29a1476878c60f0dea8243bfd8932923d2)
 - [ ] [<code>fix(gui): resizing causes freeze on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d9f2687749d47353e74c8f461b1275594cf6120)
 - [ ] [<code>fix(gui): crash when running with ICED_BACKEND=tiny-skia on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/32c7ad684d0559ee76e37aeb561e3185c280e5a1)
+- [ ] [<code>build: switch release-fast profile to thin LTO</code>](https://github.com/Oppzippy/OpenSCQ30/commit/686da69e28cd2c77464bc585aa7f340f2477bb48)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8214,6 +8215,26 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump actions/checkout from 4 to 6 (#741)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b99c5175d2d9dde595b9f1a00474da7837b062f7)
 - [ ] [<code>Bump the npm_and_yarn group across 1 directory with 3 updates (#742)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b694972676c688eb91e9d291b846115fc98cbd27)
 - [ ] [<code>Bump softprops/action-gh-release from 2.2.2 to 2.4.2 (#739)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6cf3625b3a115787f10da69b9b1900e00594188d)
+- [ ] [<code>Bump softprops/action-gh-release from 2.4.2 to 2.5.0 (#743)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/01a39653f2a912225a8fbf8a1bfe10b2dceb1cc9)
+- [ ] [<code>Bump JamesIves/github-pages-deploy-action from 4.7.4 to 4.8.0 (#746)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d29cad905e7fb2bd9adeaf6b503f2068849f34c1)
+- [ ] [<code>ci: bump NodeJs to v22 (LTS) (#685)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5498a4a41b35bb7311ba0beb211457a3edb076a3)
+- [ ] [<code>Bump eslint-plugin-jsx-a11y from 6.10.0 to 6.10.2 (#672)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2b6008d2f46cf1d11f8d48a054f700f1bf127eda)
+- [ ] [<code>Bump @tanstack/react-query from 5.75.7 to 5.90.5 (#734)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/70434a89b15268b3b17bfe66d85b518885b0913d)
+- [ ] [<code>Bump react-router in the npm_and_yarn group across 1 directory (#745)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a66eb9c7c75a77e205f09d4da00b58ca38e69027)
+- [ ] [<code>Bump @typescript-eslint/eslint-plugin from 7.18.0 to 8.46.2 (#736)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ca0fe31e9ac71b8f88b82cabfdbe418a9a737a99)
+- [ ] [<code>Bump lodash in the npm_and_yarn group across 1 directory (#748)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b561dbbd12d279ca7242aea0cfb79bd588d6fe7b)
+- [ ] [<code>Bump typescript-eslint to 8.53.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/51a80f72ddb69d5755d6434c6c0cc1ad3bd75235)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump jest from 29 to 30</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6300f3e489050613f12d2e125950efa78d8991de)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Upgrade testing-library</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e0e212e8dca8f5f4abd41a808781aa541a4e374b)
+- [ ] [<code>Upgrade vite</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e0d9c88b0c41403e7fdcbe0071e42e37d992c2d6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump typescript from 5.6.3 to 5.9.3 (#730)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5d44e533a4cb2386ce5bef2cd970f0ecafa48003)
+- [ ] [<code>misc: increase `build.chunkSizeWarningLimit` (#682)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/18df68dc06df5a0e27dc714d3edb6bc0dd93a24f)
+- [ ] [<code>Update eslint and plugins</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/193a20457695c4f65db0e774b06e7342a5210160)
+- [ ] [<code>Use vitest instead of jest</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7ca9f26457c347b7fb3268716c0b7f57b80d9150)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
