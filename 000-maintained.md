@@ -5625,6 +5625,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21627)</code>](https://github.com/netdata/netdata.git/commit/eeb68223abcc224ad1894d6ca73b63215e17375b)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>docs: add comprehensive node states and transitions documentation (#21630)</code>](https://github.com/netdata/netdata.git/commit/20eca72881b7bc29764ce3ae951e2898fe23492e)
+- [ ] [<code>docs: add node-states-and-transitions to learn map (#21631)</code>](https://github.com/netdata/netdata.git/commit/b8eea748c4afad6d63eec55c7251bc953a4cbe1a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-283-nightly.</code>](https://github.com/netdata/netdata.git/commit/ecfde66a84603882ce0b108bc87ea4174d9d7fbc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
