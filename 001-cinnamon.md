@@ -48,7 +48,14 @@
 
 - [ ] [<code>CI/github: Add generate-test-packages hook.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7e9a980db4022aa3bca264f09d6fc318f6036d9f)
 - [ ] [<code>csd-power-manager.c: Sent property updates when the percentage (#438)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8165fc6108476629f357c9fd6c449d395fb3ab8c)
+- [ ] [<code>6.6.3</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6762536f1fb84e5fca213426889ac6d2de6d9be8)
+  - <sub>Tags: <code>6.6.3</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>housekeeping: drop ldsm-dialog fallback (#433)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1846634e18e350685ccf8b456c5b20a8940bb4a5)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>power: Remove GpmIdleTime, use libcinnamon-desktop IdleMonitor. (#436)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bb4287dfa14b0b993c11c021566a2f186486911b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -85,7 +92,9 @@
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.2 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.2...HEAD)
 
 - [ ] [<code>display.c: Exclude 'always on top' windows from the monitor</code>](https://github.com/linuxmint/muffin/commit/070ef0135696698f1e56d0bf42581be89fe8e70a)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.6.3</code>](https://github.com/linuxmint/muffin/commit/25f17c16175cc10a25a4581cfa8609443a05bab0)
+  - <sub>Tags: <code>6.6.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
