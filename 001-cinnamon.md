@@ -26,8 +26,10 @@
 - [ ] [<code>menu applet: fix sidebar separator showing inconsistently (#13438)</code>](https://github.com/linuxmint/cinnamon/commit/4620a4c0502d7128a0de0147752d9bbf55e0b0bf)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>cinnamon-window-tracker.c (wayland): Connect to MetaWindow::shown (#13453)</code>](https://github.com/linuxmint/cinnamon/commit/d4166a12f33852e0af8b0bf1106201fd34e669cc)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>python: Stop using pytz, use datetime.timezone and zoneinfo instead.</code>](https://github.com/linuxmint/cinnamon/commit/6bfcabf195c9bbd8592a3050dedd760d5dba8ef9)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
