@@ -2,7 +2,7 @@
 #### [bulky](https://github.com/linuxmint/bulky): [refs/tags/4.2 → HEAD](https://github.com/linuxmint/bulky/compare/refs/tags/4.2...HEAD)
 
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.5 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.5...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.6 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.6...HEAD)
 
 - [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
 - [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
@@ -46,13 +46,8 @@
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.1...HEAD)
 
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.2...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
-- [ ] [<code>CI/github: Add generate-test-packages hook.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/7e9a980db4022aa3bca264f09d6fc318f6036d9f)
-- [ ] [<code>csd-power-manager.c: Sent property updates when the percentage (#438)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8165fc6108476629f357c9fd6c449d395fb3ab8c)
-- [ ] [<code>6.6.3</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6762536f1fb84e5fca213426889ac6d2de6d9be8)
-  - <sub>Tags: <code>6.6.3</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>housekeeping: drop ldsm-dialog fallback (#433)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1846634e18e350685ccf8b456c5b20a8940bb4a5)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>power: Remove GpmIdleTime, use libcinnamon-desktop IdleMonitor. (#436)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/bb4287dfa14b0b993c11c021566a2f186486911b)
@@ -91,12 +86,8 @@
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.1...HEAD)
 
 
-#### [muffin](https://github.com/linuxmint/muffin): [6.6.2 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.2...HEAD)
+#### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
-- [ ] [<code>display.c: Exclude 'always on top' windows from the monitor</code>](https://github.com/linuxmint/muffin/commit/070ef0135696698f1e56d0bf42581be89fe8e70a)
-- [ ] [<code>6.6.3</code>](https://github.com/linuxmint/muffin/commit/25f17c16175cc10a25a4581cfa8609443a05bab0)
-  - <sub>Tags: <code>6.6.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
