@@ -5627,6 +5627,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: add comprehensive node states and transitions documentation (#21630)</code>](https://github.com/netdata/netdata.git/commit/20eca72881b7bc29764ce3ae951e2898fe23492e)
 - [ ] [<code>docs: add node-states-and-transitions to learn map (#21631)</code>](https://github.com/netdata/netdata.git/commit/b8eea748c4afad6d63eec55c7251bc953a4cbe1a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-283-nightly.</code>](https://github.com/netdata/netdata.git/commit/ecfde66a84603882ce0b108bc87ea4174d9d7fbc)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.6 to 1.17.7 in /src/go (#21638)</code>](https://github.com/netdata/netdata.git/commit/c6f092e21df1c0d5d9557913859a9e5748fa85db)
+- [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.9.2 to 4.10.0 in /src/go (#21639)</code>](https://github.com/netdata/netdata.git/commit/a616d04bd36d5d8319af0a54943a892575a34274)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.2 to 9.17.3 in /src/go (#21640)</code>](https://github.com/netdata/netdata.git/commit/1c156d5dc1d97d510a5ca6f8d0d9e54c604666d5)
+- [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.70 to 1.1.72 in /src/go (#21641)</code>](https://github.com/netdata/netdata.git/commit/3b8130a88f3eda71012add5cb0e3e4a150a12fc4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8110,6 +8114,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: switch release-fast profile to thin LTO</code>](https://github.com/Oppzippy/OpenSCQ30/commit/686da69e28cd2c77464bc585aa7f340f2477bb48)
 - [ ] [<code>docs(capture-bluetooth-logs): add alternate log file path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/593bde8768f1312c8a04ca6432a0c4b2fff4abb7)
 - [ ] [<code>docs(capture-bluetooth-logs): missing word</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db69b9af946eac8b251b15b9d7833db44a981da0)
+- [ ] [<code>fix(android): add device not working on android < 33</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ef74ab3fe356ada1286392847d795474ec90f60)
+- [ ] [<code>build(android): enable shrink resources</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d9c222d3af391c883eb5582ec4ec020ba1b33d48)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
