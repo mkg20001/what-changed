@@ -5631,6 +5631,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/bmatcuk/doublestar/v4 from 4.9.2 to 4.10.0 in /src/go (#21639)</code>](https://github.com/netdata/netdata.git/commit/a616d04bd36d5d8319af0a54943a892575a34274)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.2 to 9.17.3 in /src/go (#21640)</code>](https://github.com/netdata/netdata.git/commit/1c156d5dc1d97d510a5ca6f8d0d9e54c604666d5)
 - [ ] [<code>build(deps): bump github.com/miekg/dns from 1.1.70 to 1.1.72 in /src/go (#21641)</code>](https://github.com/netdata/netdata.git/commit/3b8130a88f3eda71012add5cb0e3e4a150a12fc4)
+- [ ] [<code>Improve Netdata architecture description (#21642)</code>](https://github.com/netdata/netdata.git/commit/78b911fbe6ca7c751c357d39c778f2e21dd422dd)
+- [ ] [<code>refactor(go.d.plugin): functions restructure (#21633)</code>](https://github.com/netdata/netdata.git/commit/27984cdcd18e159dd79273e0349a466eef54014c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8318,6 +8321,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add Tribler version to default error reports</code>](https://github.com/tribler/Tribler/commit/3763e8fb65ada0f7152dccc17bd79d7866f7068c)
 - [ ] [<code>Added Tribler version to default error reports (#8856)</code>](https://github.com/tribler/Tribler/commit/0a1f99a162d290bb2067796577becae37234073b)
   - <sub>Tags: <code>v8.3.1</code></sub>
+- [ ] [<code>Added restart button</code>](https://github.com/tribler/Tribler/commit/c7b54033bca1925c1426b4b71a48d8be78d05e64)
+- [ ] [<code>Added restart button (#8860)</code>](https://github.com/tribler/Tribler/commit/971cb20c2a86e0c23e1958b9d0140c306a6f7806)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
