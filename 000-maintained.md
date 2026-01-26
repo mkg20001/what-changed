@@ -8108,6 +8108,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gui): resizing causes freeze on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d9f2687749d47353e74c8f461b1275594cf6120)
 - [ ] [<code>fix(gui): crash when running with ICED_BACKEND=tiny-skia on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/32c7ad684d0559ee76e37aeb561e3185c280e5a1)
 - [ ] [<code>build: switch release-fast profile to thin LTO</code>](https://github.com/Oppzippy/OpenSCQ30/commit/686da69e28cd2c77464bc585aa7f340f2477bb48)
+- [ ] [<code>docs(capture-bluetooth-logs): add alternate log file path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/593bde8768f1312c8a04ca6432a0c4b2fff4abb7)
+- [ ] [<code>docs(capture-bluetooth-logs): missing word</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db69b9af946eac8b251b15b9d7833db44a981da0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8235,6 +8237,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update eslint and plugins</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/193a20457695c4f65db0e774b06e7342a5210160)
 - [ ] [<code>Use vitest instead of jest</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7ca9f26457c347b7fb3268716c0b7f57b80d9150)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove vite-plugin-version-mark</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/858abe0e1f0c7cc3f6375efc48064071d367c807)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update react from 18.3.1 to 19.2.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2616ffd37dead2fbd05bde173778c4b6448efd6b)
+- [ ] [<code>Update react-admin from 5.8.3 to 5.14.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0fc8246639f14f50d2370687d74e07340d59affe)
+- [ ] [<code>Update README.md (#696)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2856f43f194d9798a3115cf4b8e1cf3cb4f46505)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
