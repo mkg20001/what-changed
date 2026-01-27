@@ -5043,6 +5043,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Always set seqTier0 in parseAV2SequenceHeader() (#2968)</code>](https://github.com/AOMediaCodec/libavif/commit/df389973d6d36c77925189770787a6cd6fe9571c)
 - [ ] [<code>Add --grid option to avifgainmaputil (#2963)</code>](https://github.com/AOMediaCodec/libavif/commit/fcea2763538a010058bbcb90649a02ad82a32266)
 - [ ] [<code>fix(svt): Fix building with SVT-AV1 4.0</code>](https://github.com/AOMediaCodec/libavif/commit/3c3140af5515e9ad78dfaf4e8d230c07591a53ff)
+- [ ] [<code>Do not STRING REGEX when the string is empty (#2975)</code>](https://github.com/AOMediaCodec/libavif/commit/44ca9b949dd4e1c185582738532811b7a55dd8fd)
+- [ ] [<code>Bump SVT-AV1 dependency to v4.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/e7b92c0475a708f9495ac10b43c8ffefe48d3a3c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5643,6 +5646,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d.plugin): add function-only mode for modules and jobs (#21646)</code>](https://github.com/netdata/netdata.git/commit/31d01ab26e9b99a051d24ae683de49c22ebc4203)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-291-nightly.</code>](https://github.com/netdata/netdata.git/commit/c4ac4894670a475bd95c6ccbbd1f3ff075144e13)
 - [ ] [<code>feat(diskspace.plugin): smart ZFS dataset deduplication (#21643)</code>](https://github.com/netdata/netdata.git/commit/0f7ccc49db8eec3dbc636efb6f23bb3dfd29912d)
+- [ ] [<code>DB error attribution (#21645)</code>](https://github.com/netdata/netdata.git/commit/9e856e3787d40b9e2c7adc779bd70c5b7dab3690)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21648)</code>](https://github.com/netdata/netdata.git/commit/d5c610d5684a07712fc379109d39418cd5695c62)
+- [ ] [<code>fix(go.d.plugin): mysql error-info function improvements (#21650)</code>](https://github.com/netdata/netdata.git/commit/f270a87070e29b7606e928c45e1039de6b4cea88)
+- [ ] [<code>Switch to using a hard-coded release version for RHEL repo configs. (#21649)</code>](https://github.com/netdata/netdata.git/commit/78fe3a12358f02d5708ae69e8b7d892d5593cd9a)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6457,6 +6466,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>1.2</code></sub>
 - [ ] [<code>cli: Fix generate.py to properly handle --root-dir</code>](https://github.com/canonical/netplan/commit/116e89e526f85a3d195cc8ea29d4e13a7985c049)
 - [ ] [<code>CI: downgrade to systemd 248 (from 258) for tests on Noble</code>](https://github.com/canonical/netplan/commit/365e2344dc170c2c5ef6b68283b93b1fd13505ff)
+- [ ] [<code>Use io.StringIO() instead of tempfile.TemporaryFile()</code>](https://github.com/canonical/netplan/commit/f758e3f6415aa68b7cf28991bc5b3e9631297d6d)
+  - <sub>Tags: <code>1.2.1</code></sub>
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip', 'urls': ['https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -8272,6 +8283,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update to v2.5.197</code>](https://github.com/axcore/tartube/commit/e1a207df9c4e4e390f47e0d6b6f0c115b721dac9)
   - <sub>Tags: <code>v2.5.197</code></sub>
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>GNU license in RTF file format</code>](https://github.com/axcore/tartube/commit/b2ca1c29cb745e7ec395a9beb6177416fbcd7f29)
+- [ ] [<code>Installer improvement - Use RTF license file</code>](https://github.com/axcore/tartube/commit/6a44bbf57a1755dbfe75e6afd6a11fde7cc14005)
+- [ ] [<code>LGPL 2.1 in RTF file format</code>](https://github.com/axcore/tartube/commit/45980081853d69bdcc99e411215ebb41c47f4a00)
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
@@ -8332,6 +8346,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v8.3.1</code></sub>
 - [ ] [<code>Added restart button</code>](https://github.com/tribler/Tribler/commit/c7b54033bca1925c1426b4b71a48d8be78d05e64)
 - [ ] [<code>Added restart button (#8860)</code>](https://github.com/tribler/Tribler/commit/971cb20c2a86e0c23e1958b9d0140c306a6f7806)
+- [ ] [<code>Disk usage icon</code>](https://github.com/tribler/Tribler/commit/ac52f20586756d4e6ddbc4ce80706c14d5489bf6)
+- [ ] [<code>Added disk usage icon (#8862)</code>](https://github.com/tribler/Tribler/commit/281a1ddc1f384a3bf2cb42bfd531d2ed5ef0a7ad)
+- [ ] [<code>Prettier pass on old files</code>](https://github.com/tribler/Tribler/commit/020c42f1d66765c5032db4debcdbef79d333034f)
+- [ ] [<code>Added torrent protocol creation radio button</code>](https://github.com/tribler/Tribler/commit/4b50f6cdd66173d88540ff2dfac57f80e3a85ea5)
+- [ ] [<code>Added create torrent version (#8863)</code>](https://github.com/tribler/Tribler/commit/78677a355a8c0b59d48484d34506e7fb8043dc9e)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
