@@ -28,7 +28,10 @@
 - [ ] [<code>cinnamon-window-tracker.c (wayland): Connect to MetaWindow::shown (#13453)</code>](https://github.com/linuxmint/cinnamon/commit/d4166a12f33852e0af8b0bf1106201fd34e669cc)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>python: Stop using pytz, use datetime.timezone and zoneinfo instead.</code>](https://github.com/linuxmint/cinnamon/commit/6bfcabf195c9bbd8592a3050dedd760d5dba8ef9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>a11y: cinnamon-hover-click - add action-mode lock. (#13363)</code>](https://github.com/linuxmint/cinnamon/commit/dd51a0cf949637006e5597d4fe7722b480a056a3)
+  - <sub>Tags: <code>master.lmde7</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -36,6 +39,8 @@
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
+- [ ] [<code>Add lock setting for hover-click a11y feature. (#261)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/879412ae7299ff43d187a7f461a11183c4376d5c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -88,11 +93,14 @@
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
+- [ ] [<code>Clutter-A11y: Respect new setting to prevent resetting of the active (#781)</code>](https://github.com/linuxmint/muffin/commit/4668c4fe79a6537a05d774ad680c7b1249fd8f82)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
 - [ ] [<code>nemo-main-application.c: Clear a window's saved secondary pane</code>](https://github.com/linuxmint/nemo/commit/deef9d124fa89ad616b18f8d0206f87e45c1ecd5)
 - [ ] [<code>nemo-action-manager.c: Fix layout file monitor and action refresh. (#3675)</code>](https://github.com/linuxmint/nemo/commit/6001bad01ac9daf041f7d7948f4e4d8e9b8983fa)
+- [ ] [<code>nemo-file-utilities.c: Match mounts, volumes and drives with xsi</code>](https://github.com/linuxmint/nemo/commit/3f1d9bb7389b1cd05d9cfd02182751a4532e2cc5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
