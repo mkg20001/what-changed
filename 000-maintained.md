@@ -81,6 +81,7 @@
 - [ ] [<code>sources/rocky: implement version-specific GPG verification</code>](https://github.com/lxc/distrobuilder/commit/6b6c3dd48f495fc88bc89aa07616da2e9d25838c)
 - [ ] [<code>sources/centos-http: Support CentOS Stream 10 checksum file</code>](https://github.com/lxc/distrobuilder/commit/1015a5ac067c6b5322fc90115accf563b6a940e3)
 - [ ] [<code>sources: Fix portage snapshot GPG verification</code>](https://github.com/lxc/distrobuilder/commit/e46de2b9679e4517f70e8ecd14dd01eef0131558)
+- [ ] [<code>source.md: source.same_is is a string</code>](https://github.com/lxc/distrobuilder/commit/f1ea14c33d07004f8a41f519168e1d555c96b808)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -614,6 +615,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage/zfs: Set IncusOS storage usage property</code>](https://github.com/lxc/incus/commit/9a7eaf1333fbb902b29a328c02ff54c49e4aa03f)
 - [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/util: Fix SingleQuote to actually quote</code>](https://github.com/lxc/incus/commit/5e19938aae0d0790e645d5d97309360342cff6c7)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4878,6 +4880,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage/zfs: Set IncusOS storage usage property</code>](https://github.com/lxc/incus/commit/9a7eaf1333fbb902b29a328c02ff54c49e4aa03f)
 - [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>shared/util: Fix SingleQuote to actually quote</code>](https://github.com/lxc/incus/commit/5e19938aae0d0790e645d5d97309360342cff6c7)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.2...HEAD)
 
@@ -5634,6 +5637,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve Netdata architecture description (#21642)</code>](https://github.com/netdata/netdata.git/commit/78b911fbe6ca7c751c357d39c778f2e21dd422dd)
 - [ ] [<code>refactor(go.d.plugin): functions restructure (#21633)</code>](https://github.com/netdata/netdata.git/commit/27984cdcd18e159dd79273e0349a466eef54014c)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(go.d.plugin): add function-only mode for modules and jobs (#21646)</code>](https://github.com/netdata/netdata.git/commit/31d01ab26e9b99a051d24ae683de49c22ebc4203)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-291-nightly.</code>](https://github.com/netdata/netdata.git/commit/c4ac4894670a475bd95c6ccbbd1f3ff075144e13)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8423,3 +8428,6 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add launch</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/4498f2b0adf8af3256b2ff7ae98f267b33ba9bbe)
 - [ ] [<code>Add empty-icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dba9e8b4b808a1b2c424244fc640b7999050fc7a)
 - [ ] [<code>Fix color of xsi-non-starred-symbolic.svg.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/03ae179980039f12e4b149c346a09817d60182ea)
+- [ ] [<code>Improve style of xsi-media-removable-symbolic, add xsi-drive-</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e28f9569e06d40cdfeb5debaef386a4b64d89230)
+- [ ] [<code>icons/meson.build: Don't follow symlinks.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/591e53438f7d00243f1160bbccf2ed99448d8359)
+  - <sub>Files: <code>meson.build</code></sub>
