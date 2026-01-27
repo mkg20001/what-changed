@@ -94,7 +94,12 @@
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
 - [ ] [<code>Clutter-A11y: Respect new setting to prevent resetting of the active (#781)</code>](https://github.com/linuxmint/muffin/commit/4668c4fe79a6537a05d774ad680c7b1249fd8f82)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>Fix region clipping issues when using fractional scaling (#777)</code>](https://github.com/linuxmint/muffin/commit/c6be0339e6227d63391b00939caf4f88577601a3)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>keybindings/modifiers (wayland): Remove old workaround for xwayland (#785)</code>](https://github.com/linuxmint/muffin/commit/68efbd8c54410ad63ca50d8df9b639c46a7e4696)
+- [ ] [<code>clutter-event.c: Add fields for unaccelerated delta motion to touchpad events. (#786)</code>](https://github.com/linuxmint/muffin/commit/8d3dede40371fb95f6aa7b2a791a15b56d1d8332)
+- [ ] [<code>clutter-enums.h: Fix introspection definition and prefix. (#771)</code>](https://github.com/linuxmint/muffin/commit/7453e8de7689934fba20a9fe818a82c59a7406d5)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
 
