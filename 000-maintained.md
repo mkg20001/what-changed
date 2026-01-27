@@ -592,6 +592,8 @@
 
 > Dropped flutter335 - no appropriate URL found OrderedDict({'attr_path': 'flutter335', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
+> Dropped flutter341 - no appropriate URL found OrderedDict({'attr_path': 'flutter341', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -5040,6 +5042,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update --depth description in avifenc.1.md (#2967)</code>](https://github.com/AOMediaCodec/libavif/commit/af69350248af4cf63a24927c13ce2fe86fccecc8)
 - [ ] [<code>Always set seqTier0 in parseAV2SequenceHeader() (#2968)</code>](https://github.com/AOMediaCodec/libavif/commit/df389973d6d36c77925189770787a6cd6fe9571c)
 - [ ] [<code>Add --grid option to avifgainmaputil (#2963)</code>](https://github.com/AOMediaCodec/libavif/commit/fcea2763538a010058bbcb90649a02ad82a32266)
+- [ ] [<code>fix(svt): Fix building with SVT-AV1 4.0</code>](https://github.com/AOMediaCodec/libavif/commit/3c3140af5515e9ad78dfaf4e8d230c07591a53ff)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5639,6 +5642,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>feat(go.d.plugin): add function-only mode for modules and jobs (#21646)</code>](https://github.com/netdata/netdata.git/commit/31d01ab26e9b99a051d24ae683de49c22ebc4203)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-291-nightly.</code>](https://github.com/netdata/netdata.git/commit/c4ac4894670a475bd95c6ccbbd1f3ff075144e13)
+- [ ] [<code>feat(diskspace.plugin): smart ZFS dataset deduplication (#21643)</code>](https://github.com/netdata/netdata.git/commit/0f7ccc49db8eec3dbc636efb6f23bb3dfd29912d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
