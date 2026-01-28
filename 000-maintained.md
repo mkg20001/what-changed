@@ -5050,6 +5050,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump SVT-AV1 dependency to v4.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/e7b92c0475a708f9495ac10b43c8ffefe48d3a3c)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Set SVT-AV1's avif option for v4.0.0 or later</code>](https://github.com/AOMediaCodec/libavif/commit/540c4907eb30e38d61889fa69ce1549b6d9197b2)
+- [ ] [<code>Set aomUsage earlier in aomCodecEncodeImage() (#2973)</code>](https://github.com/AOMediaCodec/libavif/commit/a01ee6f211e84dc0aa81f4e074eaeb58bba3a457)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
