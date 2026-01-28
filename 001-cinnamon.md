@@ -32,8 +32,10 @@
 - [ ] [<code>a11y: cinnamon-hover-click - add action-mode lock. (#13363)</code>](https://github.com/linuxmint/cinnamon/commit/dd51a0cf949637006e5597d4fe7722b480a056a3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>menu@cinnamon.org: Avoid using absolute path as this doesn't work on NixOS (#13500)</code>](https://github.com/linuxmint/cinnamon/commit/f984f50315c23ff24d5ea664fd3daf492eeb37b1)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>cinnamon-settings: Fix util module import to prevent name collisions (#13492)</code>](https://github.com/linuxmint/cinnamon/commit/0344b1138209adc399e5bf2fa0664f5f12d9f132)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
