@@ -139,6 +139,10 @@
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
+- [ ] [<code>Cancel tasks before closing xapp-icon-chooser-dialog (#193)</code>](https://github.com/linuxmint/xapp/commit/2ab3aaf4a09d0be636430462c496affb49310aa4)
+- [ ] [<code>XAppIconChooserDialog: Subclass GtkDialog, not XAppGtkWindow. (#195)</code>](https://github.com/linuxmint/xapp/commit/ec727b7a4a8471058781cf32f21f551ea978c6e8)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
