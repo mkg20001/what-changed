@@ -4886,6 +4886,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.2...HEAD)
 
+- [ ] [<code>Implement an IncusOS management page</code>](https://github.com/zabbly/incus-ui-canonical/commit/f9376049a9641b3f7ab9619edc42131e20d16e17)
+- [ ] [<code>Merge pull request #116 from presztak/incus_os_management</code>](https://github.com/zabbly/incus-ui-canonical/commit/890be7a83a17ca5be45453a70eb99425a1f2e987)
+  - <sub>Tags: <code>incus-0.19.3</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5046,6 +5049,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Do not STRING REGEX when the string is empty (#2975)</code>](https://github.com/AOMediaCodec/libavif/commit/44ca9b949dd4e1c185582738532811b7a55dd8fd)
 - [ ] [<code>Bump SVT-AV1 dependency to v4.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/e7b92c0475a708f9495ac10b43c8ffefe48d3a3c)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Set SVT-AV1's avif option for v4.0.0 or later</code>](https://github.com/AOMediaCodec/libavif/commit/540c4907eb30e38d61889fa69ce1549b6d9197b2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5652,6 +5656,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(go.d.plugin): mysql error-info function improvements (#21650)</code>](https://github.com/netdata/netdata.git/commit/f270a87070e29b7606e928c45e1039de6b4cea88)
 - [ ] [<code>Switch to using a hard-coded release version for RHEL repo configs. (#21649)</code>](https://github.com/netdata/netdata.git/commit/78fe3a12358f02d5708ae69e8b7d892d5593cd9a)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>feat(go.d.plugin/mssql): improve deadlock-info and error-info functions (#21652)</code>](https://github.com/netdata/netdata.git/commit/afd66a9952a783b2cb518a84d110020e2f772aad)
+- [ ] [<code>feat(go.d.plugin): improve db function e2e tests and documentation (#21654)</code>](https://github.com/netdata/netdata.git/commit/84c4ef12aac7bc11db5c3b4dd383804916f777ad)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>refactor(go.d.plugin): use nested functions config for database collectors (#21655)</code>](https://github.com/netdata/netdata.git/commit/f800ddcb12685b2b317665e704ba5acafc4d39f7)
+- [ ] [<code>Regenerate integrations docs (#21653)</code>](https://github.com/netdata/netdata.git/commit/174c5f5b4a7485e79d9893aca1fdf3adde06d81e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-301-nightly.</code>](https://github.com/netdata/netdata.git/commit/0ae6159424bb629893c4eedfa3aa99bb5f5c657e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8139,6 +8149,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(capture-bluetooth-logs): missing word</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db69b9af946eac8b251b15b9d7833db44a981da0)
 - [ ] [<code>fix(android): add device not working on android < 33</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ef74ab3fe356ada1286392847d795474ec90f60)
 - [ ] [<code>build(android): enable shrink resources</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d9c222d3af391c883eb5582ec4ec020ba1b33d48)
+- [ ] [<code>feat(lib): add ability to specify constant RFCOMM service uuid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8a982b4483dcfdd9c9894abe6d917d9b2f6041a7)
+- [ ] [<code>fix(lib): specify constant service uuid for a3116</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8624b4364149634d7f822dd339687d2f29bf6e3)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
