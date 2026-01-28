@@ -618,6 +618,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared/util: Fix SingleQuote to actually quote</code>](https://github.com/lxc/incus/commit/5e19938aae0d0790e645d5d97309360342cff6c7)
+- [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4883,6 +4885,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix typo: Supported cConditions to Supported Conditions</code>](https://github.com/lxc/incus/commit/0de3f4ed7144299457d1f37589fff90b39d42b16)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>shared/util: Fix SingleQuote to actually quote</code>](https://github.com/lxc/incus/commit/5e19938aae0d0790e645d5d97309360342cff6c7)
+- [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.2...HEAD)
 
@@ -5051,6 +5055,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Set SVT-AV1's avif option for v4.0.0 or later</code>](https://github.com/AOMediaCodec/libavif/commit/540c4907eb30e38d61889fa69ce1549b6d9197b2)
 - [ ] [<code>Set aomUsage earlier in aomCodecEncodeImage() (#2973)</code>](https://github.com/AOMediaCodec/libavif/commit/a01ee6f211e84dc0aa81f4e074eaeb58bba3a457)
+- [ ] [<code>Move dep bumps to Changed section in CHANGELOG (#2977)</code>](https://github.com/AOMediaCodec/libavif/commit/934085adfd574d0ef718edceba188eb5a79c0506)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5663,6 +5668,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d.plugin): use nested functions config for database collectors (#21655)</code>](https://github.com/netdata/netdata.git/commit/f800ddcb12685b2b317665e704ba5acafc4d39f7)
 - [ ] [<code>Regenerate integrations docs (#21653)</code>](https://github.com/netdata/netdata.git/commit/174c5f5b4a7485e79d9893aca1fdf3adde06d81e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-301-nightly.</code>](https://github.com/netdata/netdata.git/commit/0ae6159424bb629893c4eedfa3aa99bb5f5c657e)
+- [ ] [<code>fix(freebsd): CPU frequency detection returns unknown causing NaN display (#21658)</code>](https://github.com/netdata/netdata.git/commit/22029fb4cc82265358d173b260ad32ab3f472059)
+- [ ] [<code>fix(notifications): update Matrix sender to comply with Matrix API (#21659)</code>](https://github.com/netdata/netdata.git/commit/413d783682c85370f0a31fcf97d84678a56c552b)
+- [ ] [<code>feat(go.d.plugin/postgres): add running-queries and pg_stat_monitor support (#21656)</code>](https://github.com/netdata/netdata.git/commit/ed49ed27427b5c1ab840d212498732c636dd8fe0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21663)</code>](https://github.com/netdata/netdata.git/commit/24874d5fac035bed5b92dee9d89053c9406beeb9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove unused/stale top-level files. (#21660)</code>](https://github.com/netdata/netdata.git/commit/5dc35a9941d27660f7636c8c9144b9189608e182)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code> <code>find_package</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8364,6 +8377,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Prettier pass on old files</code>](https://github.com/tribler/Tribler/commit/020c42f1d66765c5032db4debcdbef79d333034f)
 - [ ] [<code>Added torrent protocol creation radio button</code>](https://github.com/tribler/Tribler/commit/4b50f6cdd66173d88540ff2dfac57f80e3a85ea5)
 - [ ] [<code>Added create torrent version (#8863)</code>](https://github.com/tribler/Tribler/commit/78677a355a8c0b59d48484d34506e7fb8043dc9e)
+- [ ] [<code>Added anonymization service status icon</code>](https://github.com/tribler/Tribler/commit/7b2b9016a507558e3af422aba895e92ea4c7ca76)
+- [ ] [<code>Added anonymization service status icon (#8864)</code>](https://github.com/tribler/Tribler/commit/991032fe249e0168c7e529caaed6a2d30a95f3b9)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
