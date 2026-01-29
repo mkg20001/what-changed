@@ -5676,6 +5676,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove unused/stale top-level files. (#21660)</code>](https://github.com/netdata/netdata.git/commit/5dc35a9941d27660f7636c8c9144b9189608e182)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-307-nightly.</code>](https://github.com/netdata/netdata.git/commit/7de261efd309b41185cee07f2c7245c9d2deda7b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
