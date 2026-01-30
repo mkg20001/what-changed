@@ -36,6 +36,8 @@
 - [ ] [<code>cinnamon-settings: Fix util module import to prevent name collisions (#13492)</code>](https://github.com/linuxmint/cinnamon/commit/0344b1138209adc399e5bf2fa0664f5f12d9f132)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>[Wayland] Adapt to cursor API changes (#13156)</code>](https://github.com/linuxmint/cinnamon/commit/03e99902b013cf8cb44ac6fad8567bf1a5fe7037)
+- [ ] [<code>src: Adapt to MetaPointerTracker changes in linuxmint/muffin#765.</code>](https://github.com/linuxmint/cinnamon/commit/b558e628537d8ffaee51d494b89f0ed52af63146)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -102,6 +104,10 @@
 - [ ] [<code>keybindings/modifiers (wayland): Remove old workaround for xwayland (#785)</code>](https://github.com/linuxmint/muffin/commit/68efbd8c54410ad63ca50d8df9b639c46a7e4696)
 - [ ] [<code>clutter-event.c: Add fields for unaccelerated delta motion to touchpad events. (#786)</code>](https://github.com/linuxmint/muffin/commit/8d3dede40371fb95f6aa7b2a791a15b56d1d8332)
 - [ ] [<code>clutter-enums.h: Fix introspection definition and prefix. (#771)</code>](https://github.com/linuxmint/muffin/commit/7453e8de7689934fba20a9fe818a82c59a7406d5)
+- [ ] [<code>[Wayland] Add support for cursor-shape-v1 protocol (#756)</code>](https://github.com/linuxmint/muffin/commit/1ad00e0029250264f18c2b0d728f312a91e5a192)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Small cleanup and fixes (#790)</code>](https://github.com/linuxmint/muffin/commit/da3bb2f2d4b051ea57cc5f41a4b766683aabf739)
+- [ ] [<code>[Input] Small API cleanups (#765)</code>](https://github.com/linuxmint/muffin/commit/9f0655eebd86b46943910696c0ea62c90112d9c2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
@@ -109,6 +115,9 @@
 - [ ] [<code>nemo-main-application.c: Clear a window's saved secondary pane</code>](https://github.com/linuxmint/nemo/commit/deef9d124fa89ad616b18f8d0206f87e45c1ecd5)
 - [ ] [<code>nemo-action-manager.c: Fix layout file monitor and action refresh. (#3675)</code>](https://github.com/linuxmint/nemo/commit/6001bad01ac9daf041f7d7948f4e4d8e9b8983fa)
 - [ ] [<code>nemo-file-utilities.c: Match mounts, volumes and drives with xsi</code>](https://github.com/linuxmint/nemo/commit/3f1d9bb7389b1cd05d9cfd02182751a4532e2cc5)
+- [ ] [<code>nemo-list-view.c: Don't allow the 'Location' column for normal</code>](https://github.com/linuxmint/nemo/commit/eb489a160fbfcb793aba5087e8a828ff00465e9f)
+- [ ] [<code>nemo-column-utilities.c: Add some translator comments for the</code>](https://github.com/linuxmint/nemo/commit/9b1539cf5c167b42c288b330786a8d25761b1118)
+- [ ] [<code>nemo-list-view.c: When column expanders are disabled, don't check</code>](https://github.com/linuxmint/nemo/commit/8ff42b6e1831ad1a2974dd71a35b44894c16f628)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
