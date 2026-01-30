@@ -706,6 +706,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/util: Fix SingleQuote to actually quote</code>](https://github.com/lxc/incus/commit/5e19938aae0d0790e645d5d97309360342cff6c7)
 - [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/lvm: Move IncusOS check to pool creation</code>](https://github.com/lxc/incus/commit/336e9c14a31bb63d49b02ba6085d67c425ea3f83)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4973,6 +4974,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/util: Fix SingleQuote to actually quote</code>](https://github.com/lxc/incus/commit/5e19938aae0d0790e645d5d97309360342cff6c7)
 - [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage/lvm: Move IncusOS check to pool creation</code>](https://github.com/lxc/incus/commit/336e9c14a31bb63d49b02ba6085d67c425ea3f83)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
