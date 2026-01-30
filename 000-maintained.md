@@ -396,6 +396,7 @@
 - [ ] [<code>chore: Move show image viewer one step up</code>](https://github.com/krille-chan/fluffychat/commit/b2654f4cc13e65fb75c588af3d51f18bc3998435)
 - [ ] [<code>chore: Hide status list by default</code>](https://github.com/krille-chan/fluffychat/commit/eb5215c81ad2624fefff7a57abaf9ff44085509e)
 - [ ] [<code>chore: Adjust search field design</code>](https://github.com/krille-chan/fluffychat/commit/54cd2af6dc05e214e0656a99af6f54b1f883d27c)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2a8fb81e8c752f4851e83346863671107d433cd5)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -668,6 +669,7 @@
 - [ ] [<code>chore: Move show image viewer one step up</code>](https://github.com/krille-chan/fluffychat/commit/b2654f4cc13e65fb75c588af3d51f18bc3998435)
 - [ ] [<code>chore: Hide status list by default</code>](https://github.com/krille-chan/fluffychat/commit/eb5215c81ad2624fefff7a57abaf9ff44085509e)
 - [ ] [<code>chore: Adjust search field design</code>](https://github.com/krille-chan/fluffychat/commit/54cd2af6dc05e214e0656a99af6f54b1f883d27c)
+- [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2a8fb81e8c752f4851e83346863671107d433cd5)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5140,6 +5142,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump SVT-AV1 dependency to v4.0.1</code>](https://github.com/AOMediaCodec/libavif/commit/0cdfe354ad7362d542b40e9cb7497884ddd05f62)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove support for libaom v2.0.0 or earlier (#2976)</code>](https://github.com/AOMediaCodec/libavif/commit/aac021a8581c1dd03670122b15f6aab29d09c7cf)
+- [ ] [<code>Check planes in avifImageApplyExpression32b() (#2980)</code>](https://github.com/AOMediaCodec/libavif/commit/3126181bed01a79a5716d18869b00b7ed3024708)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5773,6 +5776,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21675)</code>](https://github.com/netdata/netdata.git/commit/680cba45e9eb230f13572a4bf61b11a4befbe4b0)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-318-nightly.</code>](https://github.com/netdata/netdata.git/commit/000e7a28cd1b1f853254e705f603abbffdd32d21)
+- [ ] [<code>test(go.d/snmp): fix tests (#21677)</code>](https://github.com/netdata/netdata.git/commit/fb591bc9a865d894451db8ba3d43db24d25d0a6f)
+- [ ] [<code>fix(go.d/sql): add requireCloud flag to func (#21678)</code>](https://github.com/netdata/netdata.git/commit/f0893721688670d29b846867186267435b51b4b8)
+- [ ] [<code>Update external plugins section in map.csv (#21679)</code>](https://github.com/netdata/netdata.git/commit/46da75a7b87b9d95858bf4809db9ce205292d539)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
