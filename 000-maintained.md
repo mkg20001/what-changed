@@ -4972,11 +4972,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
   - <sub>Keywords: <code>command</code></sub>
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.2 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.2...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
-- [ ] [<code>Implement an IncusOS management page</code>](https://github.com/zabbly/incus-ui-canonical/commit/f9376049a9641b3f7ab9619edc42131e20d16e17)
-- [ ] [<code>Merge pull request #116 from presztak/incus_os_management</code>](https://github.com/zabbly/incus-ui-canonical/commit/890be7a83a17ca5be45453a70eb99425a1f2e987)
-  - <sub>Tags: <code>incus-0.19.3</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5772,6 +5769,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(go.d/sql): fix functions section in metadata.yaml (#21671)</code>](https://github.com/netdata/netdata.git/commit/e89be28348b29d0b08eabf23c43b18814010c5a9)
 - [ ] [<code>fix(integrations): show functions section even with empty list (#21672)</code>](https://github.com/netdata/netdata.git/commit/9104a3f9a426153a2fc7490333bb8d1c6fbb7450)
 - [ ] [<code>Regenerate integrations docs (#21673)</code>](https://github.com/netdata/netdata.git/commit/0017fd0166d5f2bf427e7f921bdde6ffd29a5eb5)
+- [ ] [<code>chore(go.d/snmp): use base units for interfaces function columns (#21674)</code>](https://github.com/netdata/netdata.git/commit/357ace4510459ea8d05e617e5a9cad00bd4838aa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21675)</code>](https://github.com/netdata/netdata.git/commit/680cba45e9eb230f13572a4bf61b11a4befbe4b0)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-318-nightly.</code>](https://github.com/netdata/netdata.git/commit/000e7a28cd1b1f853254e705f603abbffdd32d21)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
