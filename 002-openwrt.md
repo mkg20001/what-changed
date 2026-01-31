@@ -165,6 +165,10 @@
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
+- [ ] [<code>uclient-http: reset fd to -1 after close in disconnect</code>](https://git.openwrt.org/project/uclient.git/commit/b3ee1209a3d09ef56073bf5c1f999d7281fa27fb)
+- [ ] [<code>uclient-http: fix seq field check to use correct field</code>](https://git.openwrt.org/project/uclient.git/commit/9c2ad269c42bca917fc563c97c732d8c47fd1bfc)
+- [ ] [<code>uclient-http: fix hang on HTTP to HTTPS redirect</code>](https://git.openwrt.org/project/uclient.git/commit/80c9bd29c2331f34e91ec47fd7b486f58613a224)
+- [ ] [<code>ucode: fix memory leak when using ssl context</code>](https://git.openwrt.org/project/uclient.git/commit/931bbfeb2c92ecaa8ca2262b9bef27df8614ffb9)
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
