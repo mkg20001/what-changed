@@ -34,10 +34,15 @@
 - [ ] [<code>menu@cinnamon.org: Avoid using absolute path as this doesn't work on NixOS (#13500)</code>](https://github.com/linuxmint/cinnamon/commit/f984f50315c23ff24d5ea664fd3daf492eeb37b1)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>cinnamon-settings: Fix util module import to prevent name collisions (#13492)</code>](https://github.com/linuxmint/cinnamon/commit/0344b1138209adc399e5bf2fa0664f5f12d9f132)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>[Wayland] Adapt to cursor API changes (#13156)</code>](https://github.com/linuxmint/cinnamon/commit/03e99902b013cf8cb44ac6fad8567bf1a5fe7037)
 - [ ] [<code>src: Adapt to MetaPointerTracker changes in linuxmint/muffin#765.</code>](https://github.com/linuxmint/cinnamon/commit/b558e628537d8ffaee51d494b89f0ed52af63146)
+- [ ] [<code>meson: Allow users settings to be excluded</code>](https://github.com/linuxmint/cinnamon/commit/c2d13be529b3f6136850205b77a2d83e2dd99d7f)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>global.screen: Remove remaining usage in js code, add deprecation</code>](https://github.com/linuxmint/cinnamon/commit/927ea5834098e46d566a3932b573db5612cb30d7)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -49,6 +54,9 @@
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-menus/commit/99f59bac202c2e66d3e2d9ad18db75547a70ed66)
+- [ ] [<code>stale: Add more options to inactivity days.</code>](https://github.com/linuxmint/cinnamon-menus/commit/80376626dca006c0773f94e471056524986b53a3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
@@ -89,6 +97,8 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.8...HEAD)
 
+- [ ] [<code>Mint-Y: Add support for gtk3 print dialog</code>](https://github.com/linuxmint/mint-themes/commit/7a8a1ea62edb5425a6f622e248200cdb4f8cc13e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
