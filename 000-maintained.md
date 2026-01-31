@@ -396,7 +396,11 @@
 - [ ] [<code>chore: Move show image viewer one step up</code>](https://github.com/krille-chan/fluffychat/commit/b2654f4cc13e65fb75c588af3d51f18bc3998435)
 - [ ] [<code>chore: Hide status list by default</code>](https://github.com/krille-chan/fluffychat/commit/eb5215c81ad2624fefff7a57abaf9ff44085509e)
 - [ ] [<code>chore: Adjust search field design</code>](https://github.com/krille-chan/fluffychat/commit/54cd2af6dc05e214e0656a99af6f54b1f883d27c)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.2.1 to 1.3.0</code>](https://github.com/krille-chan/fluffychat/commit/5a148521a541b66b964456ff692897afe90e789b)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.8 to 10.3.10</code>](https://github.com/krille-chan/fluffychat/commit/9333cd29fd8e92ac3f1da4d2f46498879980d547)
 - [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2a8fb81e8c752f4851e83346863671107d433cd5)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/ca669124a31e2d5c6363598354cd1edcf39eac4c)
+- [ ] [<code>fix: Send reply to voice messages</code>](https://github.com/krille-chan/fluffychat/commit/f38cee03224c35183340e4f5831be4bd367bde2a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -669,7 +673,11 @@
 - [ ] [<code>chore: Move show image viewer one step up</code>](https://github.com/krille-chan/fluffychat/commit/b2654f4cc13e65fb75c588af3d51f18bc3998435)
 - [ ] [<code>chore: Hide status list by default</code>](https://github.com/krille-chan/fluffychat/commit/eb5215c81ad2624fefff7a57abaf9ff44085509e)
 - [ ] [<code>chore: Adjust search field design</code>](https://github.com/krille-chan/fluffychat/commit/54cd2af6dc05e214e0656a99af6f54b1f883d27c)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.2.1 to 1.3.0</code>](https://github.com/krille-chan/fluffychat/commit/5a148521a541b66b964456ff692897afe90e789b)
+- [ ] [<code>build: (deps): bump file_picker from 10.3.8 to 10.3.10</code>](https://github.com/krille-chan/fluffychat/commit/9333cd29fd8e92ac3f1da4d2f46498879980d547)
 - [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2a8fb81e8c752f4851e83346863671107d433cd5)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/ca669124a31e2d5c6363598354cd1edcf39eac4c)
+- [ ] [<code>fix: Send reply to voice messages</code>](https://github.com/krille-chan/fluffychat/commit/f38cee03224c35183340e4f5831be4bd367bde2a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5145,6 +5153,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove support for libaom v2.0.0 or earlier (#2976)</code>](https://github.com/AOMediaCodec/libavif/commit/aac021a8581c1dd03670122b15f6aab29d09c7cf)
 - [ ] [<code>Check planes in avifImageApplyExpression32b() (#2980)</code>](https://github.com/AOMediaCodec/libavif/commit/3126181bed01a79a5716d18869b00b7ed3024708)
+- [ ] [<code>Cast avifImagePlaneRowBytes() to size_t in product</code>](https://github.com/AOMediaCodec/libavif/commit/0c2757ebc8e851f17b3527c4d7b949ba8a1cdbab)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5784,6 +5793,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d/ping): add jitter and variance metrics (#21683)</code>](https://github.com/netdata/netdata.git/commit/2e00cf6c82b81047d4e7c22c830d097a008846f8)
 - [ ] [<code>Regenerate integrations docs (#21684)</code>](https://github.com/netdata/netdata.git/commit/732c7423e696171790c790da44f256e0a72d42a8)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-324-nightly.</code>](https://github.com/netdata/netdata.git/commit/abb316411e28dfdaa69ea6808f04ce612af1c01b)
+- [ ] [<code>Always capture backtrace on panic. (#21681)</code>](https://github.com/netdata/netdata.git/commit/191de6f12fccd7b360c42acdf4a2531876569680)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
