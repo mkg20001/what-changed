@@ -5781,6 +5781,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(go.d/snmp): fix tests (#21677)</code>](https://github.com/netdata/netdata.git/commit/fb591bc9a865d894451db8ba3d43db24d25d0a6f)
 - [ ] [<code>fix(go.d/sql): add requireCloud flag to func (#21678)</code>](https://github.com/netdata/netdata.git/commit/f0893721688670d29b846867186267435b51b4b8)
 - [ ] [<code>Update external plugins section in map.csv (#21679)</code>](https://github.com/netdata/netdata.git/commit/46da75a7b87b9d95858bf4809db9ce205292d539)
+- [ ] [<code>feat(go.d/ping): add jitter and variance metrics (#21683)</code>](https://github.com/netdata/netdata.git/commit/2e00cf6c82b81047d4e7c22c830d097a008846f8)
+- [ ] [<code>Regenerate integrations docs (#21684)</code>](https://github.com/netdata/netdata.git/commit/732c7423e696171790c790da44f256e0a72d42a8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-324-nightly.</code>](https://github.com/netdata/netdata.git/commit/abb316411e28dfdaa69ea6808f04ce612af1c01b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
