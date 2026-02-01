@@ -41,8 +41,9 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>global.screen: Remove remaining usage in js code, add deprecation</code>](https://github.com/linuxmint/cinnamon/commit/927ea5834098e46d566a3932b573db5612cb30d7)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[Input] Update to MetaCursorTracker API change (#13218)</code>](https://github.com/linuxmint/cinnamon/commit/fed9a1c6cb7a6aa346d673db0d78ee0443ff7da1)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
