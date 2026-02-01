@@ -403,6 +403,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/ca669124a31e2d5c6363598354cd1edcf39eac4c)
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 4.1.0 to 5.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d487939d27fa367452683450de32fdb67f2102dc)
 - [ ] [<code>fix: Send reply to voice messages</code>](https://github.com/krille-chan/fluffychat/commit/f38cee03224c35183340e4f5831be4bd367bde2a)
+- [ ] [<code>feat: Implement new sign in flow</code>](https://github.com/krille-chan/fluffychat/commit/4d7f0295ca3034caeda51e1a1877c6e69f7a522d)
+- [ ] [<code>chore: Make key fingerprints in chat encryption page selectable</code>](https://github.com/krille-chan/fluffychat/commit/8f4c8b7501cbf70c690f91a4ce3ac3f673b5d72c)
+- [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
 
@@ -682,6 +685,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/ca669124a31e2d5c6363598354cd1edcf39eac4c)
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 4.1.0 to 5.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d487939d27fa367452683450de32fdb67f2102dc)
 - [ ] [<code>fix: Send reply to voice messages</code>](https://github.com/krille-chan/fluffychat/commit/f38cee03224c35183340e4f5831be4bd367bde2a)
+- [ ] [<code>feat: Implement new sign in flow</code>](https://github.com/krille-chan/fluffychat/commit/4d7f0295ca3034caeda51e1a1877c6e69f7a522d)
+- [ ] [<code>chore: Make key fingerprints in chat encryption page selectable</code>](https://github.com/krille-chan/fluffychat/commit/8f4c8b7501cbf70c690f91a4ce3ac3f673b5d72c)
+- [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5803,6 +5809,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/coreos/go-systemd/v22 from 22.6.0 to 22.7.0 in /src/go (#21687)</code>](https://github.com/netdata/netdata.git/commit/bdd66acec5432d904462d6ac61ef86a0f171abf7)
 - [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.7 to 1.17.8 in /src/go (#21686)</code>](https://github.com/netdata/netdata.git/commit/5d8fe6c6643990460996636279704b8b04505826)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-328-nightly.</code>](https://github.com/netdata/netdata.git/commit/95e5853da1752ffb7ae23ab33ce72b777af8c1a2)
+- [ ] [<code>Fix relative markdown links for learn site ingestion (#21688)</code>](https://github.com/netdata/netdata.git/commit/b0d500db15f0838abcd47b1253061bfe6981ba1f)
+- [ ] [<code>Fix relative link in Functions developer guide (#21689)</code>](https://github.com/netdata/netdata.git/commit/fe7b143efd3b2bc95a7e5b0c265591df528275ba)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
