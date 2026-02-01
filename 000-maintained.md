@@ -5794,6 +5794,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21684)</code>](https://github.com/netdata/netdata.git/commit/732c7423e696171790c790da44f256e0a72d42a8)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-324-nightly.</code>](https://github.com/netdata/netdata.git/commit/abb316411e28dfdaa69ea6808f04ce612af1c01b)
 - [ ] [<code>Always capture backtrace on panic. (#21681)</code>](https://github.com/netdata/netdata.git/commit/191de6f12fccd7b360c42acdf4a2531876569680)
+- [ ] [<code>build(deps): bump github.com/coreos/go-systemd/v22 from 22.6.0 to 22.7.0 in /src/go (#21687)</code>](https://github.com/netdata/netdata.git/commit/bdd66acec5432d904462d6ac61ef86a0f171abf7)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.7 to 1.17.8 in /src/go (#21686)</code>](https://github.com/netdata/netdata.git/commit/5d8fe6c6643990460996636279704b8b04505826)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
