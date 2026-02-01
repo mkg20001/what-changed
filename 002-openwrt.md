@@ -123,26 +123,11 @@
 - [ ] [<code>veth: delete device before creation to handle stale state</code>](https://git.openwrt.org/project/netifd.git/commit/df2f5c9a30f8faadf8dee962cc17d315e967d70a)
 - [ ] [<code>system-linux: handle RTM_DELLINK events for device state tracking</code>](https://git.openwrt.org/project/netifd.git/commit/b6d371f307705b32e1ef5c63d7bf6440c8859789)
 - [ ] [<code>system-linux: only parse device status for AF_UNSPEC link messages</code>](https://git.openwrt.org/project/netifd.git/commit/777f5942fa7d6245f6ad29daa1daecc400344d37)
-
-#### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
-
-- [ ] [<code>github: improve CI</code>](https://git.openwrt.org/project/ubus.git/commit/6fdf7a97916207ef1de01cd9e662e6daca96516a)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: fix CI apt dependencies</code>](https://git.openwrt.org/project/ubus.git/commit/0d4bcb56f5e1386e7dc99f1ec9f3b6c9211c8ab6)
-- [ ] [<code>github: ci: disable json-c tests</code>](https://git.openwrt.org/project/ubus.git/commit/966c82b2197c139e2b199254a243214c3a803879)
-- [ ] [<code>github: ci: add tests</code>](https://git.openwrt.org/project/ubus.git/commit/c4d7aff97bbe3af36af969564a02bf928932c4f8)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>ubus: add a simple build script</code>](https://git.openwrt.org/project/ubus.git/commit/00010b8af022552eeb9e313cc3db5f45c6afff04)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: ci: add cmake build and source directories</code>](https://git.openwrt.org/project/ubus.git/commit/1eab20d6cda2603bef26aaaac9f4405dd870267a)
-- [ ] [<code>github: ci: add powerpc arch</code>](https://git.openwrt.org/project/ubus.git/commit/f79ddca648068f8b4529dc88a5b062cec2b1ddc4)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>build: install ubus</code>](https://git.openwrt.org/project/ubus.git/commit/5c7eea7fc090120a6912a99fd244847270ad49b9)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/ubus.git/commit/2737da3819fefafa5b63d5f82efb77ff0032a5d8)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/ubus.git/commit/3cc98db1a422dcf560f2d6347fd410f17565a89d)
+> Failed to clone https://git.openwrt.org/project/ubus.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/ubus.git /home/runner/work/what-changed/what-changed/src/../work/ubus.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ubus.git'...
+fatal: unable to access 'https://git.openwrt.org/project/ubus.git/': The requested URL returned error: 503
+'
 
 #### [uci](https://git.openwrt.org/project/uci.git): [57c1e8cd2c051d755ca861a9ab38a8049d2e3f95 → HEAD](https://git.openwrt.org/project/uci.git/compare/57c1e8cd2c051d755ca861a9ab38a8049d2e3f95...HEAD)
 
@@ -169,17 +154,11 @@
 - [ ] [<code>uclient-http: fix seq field check to use correct field</code>](https://git.openwrt.org/project/uclient.git/commit/9c2ad269c42bca917fc563c97c732d8c47fd1bfc)
 - [ ] [<code>uclient-http: fix hang on HTTP to HTTPS redirect</code>](https://git.openwrt.org/project/uclient.git/commit/80c9bd29c2331f34e91ec47fd7b486f58613a224)
 - [ ] [<code>ucode: fix memory leak when using ssl context</code>](https://git.openwrt.org/project/uclient.git/commit/931bbfeb2c92ecaa8ca2262b9bef27df8614ffb9)
-
-#### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
-
-- [ ] [<code>CMakeLists.txt: rename udebug-cli to udebug on installation</code>](https://git.openwrt.org/project/udebug.git/commit/8c967bce23aebab7631261324680b02240e75ee1)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>add debian package support</code>](https://git.openwrt.org/project/udebug.git/commit/75f39cd4a8067a6f0503c2f1c83c6b1af733a6f2)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>udebug-cli: fix reference to invalid variable in error message</code>](https://git.openwrt.org/project/udebug.git/commit/c5c493ed5787ca067ab1a713061ae02f0bb17046)
-- [ ] [<code>udebug-cli: add logdump command</code>](https://git.openwrt.org/project/udebug.git/commit/875e1a7af6ca9d86524d18169c3a79f4a1920053)
-  - <sub>Keywords: <code>command</code></sub>
+> Failed to clone https://git.openwrt.org/project/udebug.git Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.openwrt.org/project/udebug.git /home/runner/work/what-changed/what-changed/src/../work/udebug.git
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/udebug.git'...
+fatal: unable to access 'https://git.openwrt.org/project/udebug.git/': The requested URL returned error: 503
+'
 
 #### [uqmi](https://git.openwrt.org/project/uqmi.git): [7914da43cddaaf6cfba116260c81e6e9adffd5ab → HEAD](https://git.openwrt.org/project/uqmi.git/compare/7914da43cddaaf6cfba116260c81e6e9adffd5ab...HEAD)
 
