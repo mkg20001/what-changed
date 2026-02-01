@@ -293,6 +293,7 @@
 - [ ] [<code>build: (deps): bump image from 4.5.4 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b5feaba537c7ffbf0311dd52002208ca2925febf)
 - [ ] [<code>build: (deps): bump go_router from 17.0.0 to 17.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee3e5fd1db149bc1ea8fe7d72582d3678fbe7d50)
 - [ ] [<code>build: (deps): bump matrix from 4.0.0 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d21eed350f5da82312c7a9d4671d1557218146fa)
+- [ ] [<code>build: (deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/ff1882c3e9e76d22531c7a58db2def10c41667f3)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/04e277fe49fc1487f893307fad6729836b47257b)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
@@ -400,6 +401,7 @@
 - [ ] [<code>build: (deps): bump file_picker from 10.3.8 to 10.3.10</code>](https://github.com/krille-chan/fluffychat/commit/9333cd29fd8e92ac3f1da4d2f46498879980d547)
 - [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2a8fb81e8c752f4851e83346863671107d433cd5)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/ca669124a31e2d5c6363598354cd1edcf39eac4c)
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 4.1.0 to 5.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d487939d27fa367452683450de32fdb67f2102dc)
 - [ ] [<code>fix: Send reply to voice messages</code>](https://github.com/krille-chan/fluffychat/commit/f38cee03224c35183340e4f5831be4bd367bde2a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.3.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.3.1...HEAD)
@@ -570,6 +572,7 @@
 - [ ] [<code>build: (deps): bump image from 4.5.4 to 4.6.0</code>](https://github.com/krille-chan/fluffychat/commit/b5feaba537c7ffbf0311dd52002208ca2925febf)
 - [ ] [<code>build: (deps): bump go_router from 17.0.0 to 17.0.1</code>](https://github.com/krille-chan/fluffychat/commit/ee3e5fd1db149bc1ea8fe7d72582d3678fbe7d50)
 - [ ] [<code>build: (deps): bump matrix from 4.0.0 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d21eed350f5da82312c7a9d4671d1557218146fa)
+- [ ] [<code>build: (deps): bump actions/upload-artifact from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/ff1882c3e9e76d22531c7a58db2def10c41667f3)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/04e277fe49fc1487f893307fad6729836b47257b)
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/95faaac7d0cea6861affcfbd79a38beb836681e5)
 - [ ] [<code>chore(translations): Translated using Weblate (Portuguese (Brazil))</code>](https://github.com/krille-chan/fluffychat/commit/7bf02c4c9f3ecdcc0f597480e87f8ed4bc236e83)
@@ -677,6 +680,7 @@
 - [ ] [<code>build: (deps): bump file_picker from 10.3.8 to 10.3.10</code>](https://github.com/krille-chan/fluffychat/commit/9333cd29fd8e92ac3f1da4d2f46498879980d547)
 - [ ] [<code>chore(translations): Translated using Weblate (Croatian)</code>](https://github.com/krille-chan/fluffychat/commit/2a8fb81e8c752f4851e83346863671107d433cd5)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/ca669124a31e2d5c6363598354cd1edcf39eac4c)
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 4.1.0 to 5.0.1</code>](https://github.com/krille-chan/fluffychat/commit/d487939d27fa367452683450de32fdb67f2102dc)
 - [ ] [<code>fix: Send reply to voice messages</code>](https://github.com/krille-chan/fluffychat/commit/f38cee03224c35183340e4f5831be4bd367bde2a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -5339,6 +5343,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests/lxc-attach: ensure no data corruption happens during heavy IO on pts</code>](https://github.com/lxc/lxc/commit/97bd7699c79493f32fcee0f976b6c397cf0f0ad5)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>src/confile: fix values of lxc.cap.keep and lxc.cap.drop</code>](https://github.com/lxc/lxc/commit/c97f33e1fa6d4b927a79d6a4695ed5ac342a6883)
+- [ ] [<code>lxc: added support OpenRC init system</code>](https://github.com/lxc/lxc/commit/5b64b50160980ae304e57184e4f1cbd15ef8c2da)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5796,6 +5802,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Always capture backtrace on panic. (#21681)</code>](https://github.com/netdata/netdata.git/commit/191de6f12fccd7b360c42acdf4a2531876569680)
 - [ ] [<code>build(deps): bump github.com/coreos/go-systemd/v22 from 22.6.0 to 22.7.0 in /src/go (#21687)</code>](https://github.com/netdata/netdata.git/commit/bdd66acec5432d904462d6ac61ef86a0f171abf7)
 - [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.7 to 1.17.8 in /src/go (#21686)</code>](https://github.com/netdata/netdata.git/commit/5d8fe6c6643990460996636279704b8b04505826)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-328-nightly.</code>](https://github.com/netdata/netdata.git/commit/95e5853da1752ffb7ae23ab33ce72b777af8c1a2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
