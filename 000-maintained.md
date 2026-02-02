@@ -725,6 +725,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage/lvm: Move IncusOS check to pool creation</code>](https://github.com/lxc/incus/commit/336e9c14a31bb63d49b02ba6085d67c425ea3f83)
+- [ ] [<code>incus-migrate: Allow running as non-root</code>](https://github.com/lxc/incus/commit/4fcdbbc47937a4d5ba08ca7dbf045deabfd47ce6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Add URL imports</code>](https://github.com/lxc/incus/commit/7f5bef42bef75c3fe361aa2af69a37a2c52e1c14)
+- [ ] [<code>doc: Ignore broken links on Alpine gitlab</code>](https://github.com/lxc/incus/commit/8d709107af9e4b44e6848fae4c8e2ff0955e7445)
+- [ ] [<code>doc: Ignore broken links on docbook website</code>](https://github.com/lxc/incus/commit/6da39979ec860ddd42b2d89711dd78c7bec6e286)
+- [ ] [<code>github: Deal with new Github images</code>](https://github.com/lxc/incus/commit/2eae0da145a9ff676f24a792b29e862baa086778)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4993,6 +4999,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus: Fix get-client-certificate ignoring per-remote certs</code>](https://github.com/lxc/incus/commit/4e5af56d1205563f53481d27e3ce0f1eb45e573e)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage/lvm: Move IncusOS check to pool creation</code>](https://github.com/lxc/incus/commit/336e9c14a31bb63d49b02ba6085d67c425ea3f83)
+- [ ] [<code>incus-migrate: Allow running as non-root</code>](https://github.com/lxc/incus/commit/4fcdbbc47937a4d5ba08ca7dbf045deabfd47ce6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Add URL imports</code>](https://github.com/lxc/incus/commit/7f5bef42bef75c3fe361aa2af69a37a2c52e1c14)
+- [ ] [<code>doc: Ignore broken links on Alpine gitlab</code>](https://github.com/lxc/incus/commit/8d709107af9e4b44e6848fae4c8e2ff0955e7445)
+- [ ] [<code>doc: Ignore broken links on docbook website</code>](https://github.com/lxc/incus/commit/6da39979ec860ddd42b2d89711dd78c7bec6e286)
+- [ ] [<code>github: Deal with new Github images</code>](https://github.com/lxc/incus/commit/2eae0da145a9ff676f24a792b29e862baa086778)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -5811,6 +5823,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-328-nightly.</code>](https://github.com/netdata/netdata.git/commit/95e5853da1752ffb7ae23ab33ce72b777af8c1a2)
 - [ ] [<code>Fix relative markdown links for learn site ingestion (#21688)</code>](https://github.com/netdata/netdata.git/commit/b0d500db15f0838abcd47b1253061bfe6981ba1f)
 - [ ] [<code>Fix relative link in Functions developer guide (#21689)</code>](https://github.com/netdata/netdata.git/commit/fe7b143efd3b2bc95a7e5b0c265591df528275ba)
+- [ ] [<code>Fix documentation links to work on both GitHub and learn site (#21690)</code>](https://github.com/netdata/netdata.git/commit/0f2497ca8a10bee7a0bb53234ddbf98b61521086)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-332-nightly.</code>](https://github.com/netdata/netdata.git/commit/b4ffd4ad18bf98fb4106bcc720c847e7182de4a0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
