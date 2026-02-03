@@ -43,7 +43,9 @@
 - [ ] [<code>global.screen: Remove remaining usage in js code, add deprecation</code>](https://github.com/linuxmint/cinnamon/commit/927ea5834098e46d566a3932b573db5612cb30d7)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[Input] Update to MetaCursorTracker API change (#13218)</code>](https://github.com/linuxmint/cinnamon/commit/fed9a1c6cb7a6aa346d673db0d78ee0443ff7da1)
+- [ ] [<code>userWidget.js: Fix updating the image when the user avatar changes.</code>](https://github.com/linuxmint/cinnamon/commit/347c39cdf0a97841c2d3317b8c05e3743831d17d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
