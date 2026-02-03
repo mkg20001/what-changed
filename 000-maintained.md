@@ -179,6 +179,7 @@
 - [ ] [<code>feat: Implement new sign in flow</code>](https://github.com/krille-chan/fluffychat/commit/4d7f0295ca3034caeda51e1a1877c6e69f7a522d)
 - [ ] [<code>chore: Make key fingerprints in chat encryption page selectable</code>](https://github.com/krille-chan/fluffychat/commit/8f4c8b7501cbf70c690f91a4ce3ac3f673b5d72c)
 - [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
+- [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -234,6 +235,7 @@
 - [ ] [<code>feat: Implement new sign in flow</code>](https://github.com/krille-chan/fluffychat/commit/4d7f0295ca3034caeda51e1a1877c6e69f7a522d)
 - [ ] [<code>chore: Make key fingerprints in chat encryption page selectable</code>](https://github.com/krille-chan/fluffychat/commit/8f4c8b7501cbf70c690f91a4ce3ac3f673b5d72c)
 - [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
+- [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -278,6 +280,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Ignore broken links on docbook website</code>](https://github.com/lxc/incus/commit/6da39979ec860ddd42b2d89711dd78c7bec6e286)
 - [ ] [<code>github: Deal with new Github images</code>](https://github.com/lxc/incus/commit/2eae0da145a9ff676f24a792b29e862baa086778)
 - [ ] [<code>tests: Fix SR-IOV attached key test</code>](https://github.com/lxc/incus/commit/9bbd1361a80b420ab864b9dcf2d9b8931faed393)
+- [ ] [<code>incusd/device/nic_physical: Allow migration of managed devices</code>](https://github.com/lxc/incus/commit/cbeffb008344906e9b17989d1bfde70a110c2f1b)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4553,6 +4556,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Ignore broken links on docbook website</code>](https://github.com/lxc/incus/commit/6da39979ec860ddd42b2d89711dd78c7bec6e286)
 - [ ] [<code>github: Deal with new Github images</code>](https://github.com/lxc/incus/commit/2eae0da145a9ff676f24a792b29e862baa086778)
 - [ ] [<code>tests: Fix SR-IOV attached key test</code>](https://github.com/lxc/incus/commit/9bbd1361a80b420ab864b9dcf2d9b8931faed393)
+- [ ] [<code>incusd/device/nic_physical: Allow migration of managed devices</code>](https://github.com/lxc/incus/commit/cbeffb008344906e9b17989d1bfde70a110c2f1b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4727,6 +4731,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add more cargo folders to the CI cache (#2989)</code>](https://github.com/AOMediaCodec/libavif/commit/7001d285a0173fd58fca4eb59ec4c638cebecf3a)
 - [ ] [<code>Bump the github-actions group across 3 directories with 7 updates (#2987)</code>](https://github.com/AOMediaCodec/libavif/commit/b6ccda4ce1f6a163ff9a1532c83b4d5943290c1f)
 - [ ] [<code>Fuzz avifDecoder.imageContentToDecode (#2982)</code>](https://github.com/AOMediaCodec/libavif/commit/d55eb9f414642f0b93c84026d31b6e2fa535400c)
+- [ ] [<code>Skip sato tiles depending on imageContentToDecode (#2981)</code>](https://github.com/AOMediaCodec/libavif/commit/e3caeeeac4afc6befa437ee54474e257021274e4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
