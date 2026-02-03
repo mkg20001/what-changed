@@ -4732,6 +4732,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump the github-actions group across 3 directories with 7 updates (#2987)</code>](https://github.com/AOMediaCodec/libavif/commit/b6ccda4ce1f6a163ff9a1532c83b4d5943290c1f)
 - [ ] [<code>Fuzz avifDecoder.imageContentToDecode (#2982)</code>](https://github.com/AOMediaCodec/libavif/commit/d55eb9f414642f0b93c84026d31b6e2fa535400c)
 - [ ] [<code>Skip sato tiles depending on imageContentToDecode (#2981)</code>](https://github.com/AOMediaCodec/libavif/commit/e3caeeeac4afc6befa437ee54474e257021274e4)
+- [ ] [<code>More CI cache improvements (#2993)</code>](https://github.com/AOMediaCodec/libavif/commit/8639189582e84109a43ef2151499ba517969e1c8)
+- [ ] [<code>Fail if imageContentToDecode is color xor alpha (#2988)</code>](https://github.com/AOMediaCodec/libavif/commit/28e82d42a48fdabe4e03a00b72021f8e59e6f5a2)
+- [ ] [<code>Share more cargo caches (#2994)</code>](https://github.com/AOMediaCodec/libavif/commit/6d555a8617538931fd4ad4a202ae86c73e85804e)
+- [ ] [<code>Add a unit test for issue #2979</code>](https://github.com/AOMediaCodec/libavif/commit/c942108dcc0c8dbbb34dfacb304c381a960526cc)
+- [ ] [<code>Check zero width/height in avifRGBImageSetDefaults</code>](https://github.com/AOMediaCodec/libavif/commit/08e09e5ec26b47acf565bbcce642a95971aee210)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5388,6 +5393,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Adjust curl options when submitting events (#21696)</code>](https://github.com/netdata/netdata.git/commit/f1394e0714bae601e933ef02742fc55bc3c9f71d)
 - [ ] [<code>Add object size and bounds validation when reading journal files. (#21697)</code>](https://github.com/netdata/netdata.git/commit/e482ca8f6c1dc6d877dc1d429826f31d5cacc31e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-338-nightly.</code>](https://github.com/netdata/netdata.git/commit/24fe81e33a6fd769106f499b1326a7eb4378632d)
+- [ ] [<code>Update README links to correct otel-plugin paths (#21699)</code>](https://github.com/netdata/netdata.git/commit/088c20a3f928a196124df2e772d3ff8a8d9943d2)
+- [ ] [<code>Fix text sanitizer buffer overflow (#21698)</code>](https://github.com/netdata/netdata.git/commit/2ccc3bbfa95f88600f12f32b4f118267fd17352c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8094,6 +8101,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added anonymization service status icon (#8864)</code>](https://github.com/tribler/Tribler/commit/991032fe249e0168c7e529caaed6a2d30a95f3b9)
 - [ ] [<code>Manually populate resume_data ATP</code>](https://github.com/tribler/Tribler/commit/c1f822e45edd11a0763499e8e4534ff3d86f1bed)
 - [ ] [<code>Updated resume data to manually populate from status (#8866)</code>](https://github.com/tribler/Tribler/commit/f7eabaf61354a4cdacf6afff1bcea377b9ad3fc6)
+- [ ] [<code>Port DownloadConfig to configparser</code>](https://github.com/tribler/Tribler/commit/8b35bc87a7a13eefa09080938ce54a0c51f0390f)
+- [ ] [<code>Added individual seeding ratio to downloads</code>](https://github.com/tribler/Tribler/commit/491b81eefc8dc749f50f58e31837b09c7e28c7c7)
+- [ ] [<code>Various `DownloadConfig` things (#8870)</code>](https://github.com/tribler/Tribler/commit/1801d1fc4a5e56e200709e95ef0f1aaddb6f8ac6)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -8184,6 +8194,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>debian: adjust LTO build</code>](https://github.com/jow-/ucode/commit/9fc4889c6e8e758224902dc856308c688206bd5f)
 - [ ] [<code>debian: build "digest" and "zlib" modules</code>](https://github.com/jow-/ucode/commit/a503a49f5cefa9494195430834fa1b6d47c36ad4)
 - [ ] [<code>socket: fix off-by-one in uv_to_sockaddr()</code>](https://github.com/jow-/ucode/commit/ffc48a2a4db98d37542df9c6b4aa90c40bfd22eb)
+- [ ] [<code>nl80211.h: update to version 6.18</code>](https://github.com/jow-/ucode/commit/ccc25285471b94eb329ae44d6a9155d08106a5b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>nl80211: add WiFi 7 EHT and MLD attributes</code>](https://github.com/jow-/ucode/commit/bb145163147a07bec236eef272b0e218de086cb4)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
