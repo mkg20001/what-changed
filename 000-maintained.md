@@ -5395,6 +5395,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-338-nightly.</code>](https://github.com/netdata/netdata.git/commit/24fe81e33a6fd769106f499b1326a7eb4378632d)
 - [ ] [<code>Update README links to correct otel-plugin paths (#21699)</code>](https://github.com/netdata/netdata.git/commit/088c20a3f928a196124df2e772d3ff8a8d9943d2)
 - [ ] [<code>Fix text sanitizer buffer overflow (#21698)</code>](https://github.com/netdata/netdata.git/commit/2ccc3bbfa95f88600f12f32b4f118267fd17352c)
+- [ ] [<code>Fix ML db model load function (#21700)</code>](https://github.com/netdata/netdata.git/commit/379c4f17c181cfbb60cbec3f816d5c464d269bcf)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-342-nightly.</code>](https://github.com/netdata/netdata.git/commit/4aa8eb7e322974c50a55b5a403c1fe3ae5c5a04a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
