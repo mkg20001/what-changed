@@ -4738,6 +4738,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add a unit test for issue #2979</code>](https://github.com/AOMediaCodec/libavif/commit/c942108dcc0c8dbbb34dfacb304c381a960526cc)
 - [ ] [<code>Check zero width/height in avifRGBImageSetDefaults</code>](https://github.com/AOMediaCodec/libavif/commit/08e09e5ec26b47acf565bbcce642a95971aee210)
 - [ ] [<code>Cache installed vcpkg libraries in the CI (#2995)</code>](https://github.com/AOMediaCodec/libavif/commit/a209fd82800d3c585086798ad59645a427b3265b)
+- [ ] [<code>Fix more caching (#2996)</code>](https://github.com/AOMediaCodec/libavif/commit/d9c90027c38ee6c022fc11a46224cf547c633bb1)
+- [ ] [<code>Have AVIF_FALSE and AVIF_TRUE be enums in the CI (#2712)</code>](https://github.com/AOMediaCodec/libavif/commit/b63a913579ea8644bb990c8be93e5db9132495ff)
+- [ ] [<code>Use all-intra encoding for some layered images</code>](https://github.com/AOMediaCodec/libavif/commit/2a4a06fae1761bee73357d96f778232bd7d6b6c7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5398,6 +5401,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix text sanitizer buffer overflow (#21698)</code>](https://github.com/netdata/netdata.git/commit/2ccc3bbfa95f88600f12f32b4f118267fd17352c)
 - [ ] [<code>Fix ML db model load function (#21700)</code>](https://github.com/netdata/netdata.git/commit/379c4f17c181cfbb60cbec3f816d5c464d269bcf)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-342-nightly.</code>](https://github.com/netdata/netdata.git/commit/4aa8eb7e322974c50a55b5a403c1fe3ae5c5a04a)
+- [ ] [<code>Document logs functionality of otel plugin (#21705)</code>](https://github.com/netdata/netdata.git/commit/83ac4e53cbc7903a77acb9d817a3c3d7a4fc3bac)
+- [ ] [<code>Make new journal viewer plugin a mandatory dependency for native packages to ensure clean upgrades. (#21701)</code>](https://github.com/netdata/netdata.git/commit/3ee561b00229bdc188d8c83d87d97030700ac2b1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Set status flag of active journal file to archived on shutdown. (#21707)</code>](https://github.com/netdata/netdata.git/commit/c2cd26f16658e128a5785309958b2f26d3166941)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8107,6 +8114,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Port DownloadConfig to configparser</code>](https://github.com/tribler/Tribler/commit/8b35bc87a7a13eefa09080938ce54a0c51f0390f)
 - [ ] [<code>Added individual seeding ratio to downloads</code>](https://github.com/tribler/Tribler/commit/491b81eefc8dc749f50f58e31837b09c7e28c7c7)
 - [ ] [<code>Various `DownloadConfig` things (#8870)</code>](https://github.com/tribler/Tribler/commit/1801d1fc4a5e56e200709e95ef0f1aaddb6f8ac6)
+- [ ] [<code>Added download filters for 'not downloading' and 'inactive, unqueued'</code>](https://github.com/tribler/Tribler/commit/ce0b1dc6de1e2f37c309c6c4736e02bce2b6f212)
+- [ ] [<code>Removed accidental console.log</code>](https://github.com/tribler/Tribler/commit/a6d73bd1d64f3ec4bd0503758da8e0895a714058)
+- [ ] [<code>Added download filters for 'not downloading' and 'inactive, unqueued' (#8871)</code>](https://github.com/tribler/Tribler/commit/55afcba56938bc08b07bea8f33a06a784e9a4363)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
