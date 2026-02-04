@@ -4737,6 +4737,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Share more cargo caches (#2994)</code>](https://github.com/AOMediaCodec/libavif/commit/6d555a8617538931fd4ad4a202ae86c73e85804e)
 - [ ] [<code>Add a unit test for issue #2979</code>](https://github.com/AOMediaCodec/libavif/commit/c942108dcc0c8dbbb34dfacb304c381a960526cc)
 - [ ] [<code>Check zero width/height in avifRGBImageSetDefaults</code>](https://github.com/AOMediaCodec/libavif/commit/08e09e5ec26b47acf565bbcce642a95971aee210)
+- [ ] [<code>Cache installed vcpkg libraries in the CI (#2995)</code>](https://github.com/AOMediaCodec/libavif/commit/a209fd82800d3c585086798ad59645a427b3265b)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
