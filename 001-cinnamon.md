@@ -48,6 +48,7 @@
 - [ ] [<code>Revert "userWidget.js: Fix updating the image when the user avatar changes."</code>](https://github.com/linuxmint/cinnamon/commit/0521520551fb7bbd9880f22a96f10c1f63bb2d73)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>st-theme-context.c: Hook up texture cache's texture-file-changed</code>](https://github.com/linuxmint/cinnamon/commit/8f73a54d14dc400a27e7bba121c34efe7e171aed)
+- [ ] [<code>main.js: Fix enum in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/2ed098b6f76ee76111a8115c6029986c204f75f4)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
