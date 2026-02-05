@@ -22,7 +22,7 @@
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.3/dbeaver-ce-25.3.3-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
@@ -4761,6 +4761,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix more caching (#2996)</code>](https://github.com/AOMediaCodec/libavif/commit/d9c90027c38ee6c022fc11a46224cf547c633bb1)
 - [ ] [<code>Have AVIF_FALSE and AVIF_TRUE be enums in the CI (#2712)</code>](https://github.com/AOMediaCodec/libavif/commit/b63a913579ea8644bb990c8be93e5db9132495ff)
 - [ ] [<code>Use all-intra encoding for some layered images</code>](https://github.com/AOMediaCodec/libavif/commit/2a4a06fae1761bee73357d96f778232bd7d6b6c7)
+- [ ] [<code>Return 0 dec rows when contentToDecode is gainmap (#3000)</code>](https://github.com/AOMediaCodec/libavif/commit/f0c6d7f000684642853c434300a72fa3eede3209)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5429,6 +5430,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add documentation for access control and feature availability (#21703)</code>](https://github.com/netdata/netdata.git/commit/c2fec131c002ee3faeb0df4ff2a8c3b172ecfbd4)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[Docs] port the map from csv to yaml (#21692)</code>](https://github.com/netdata/netdata.git/commit/7d64ba69d8fc6b369315407d9bdbcecac347d62e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: Add Windows telemetry opt-out instructions (#21710)</code>](https://github.com/netdata/netdata.git/commit/02e1670d513b93845fb5e44b40054cf20005a1ae)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(go.d/sd): add dyncfg support for service discovery (#21680)</code>](https://github.com/netdata/netdata.git/commit/141f45b229628fe65bcc0c6fba7bbd8635199c03)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>remove otel coll dist (#21714)</code>](https://github.com/netdata/netdata.git/commit/a6036dfac0e59482a96e2cd17bd2ebfd7cdefda1)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7934,6 +7944,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add possible exits to extend candidates</code>](https://github.com/tribler/py-ipv8/commit/b4cb8707ed67de9ad5df598e7221422e80699a82)
 - [ ] [<code>Fix for extending to the wrong candidate</code>](https://github.com/tribler/py-ipv8/commit/a80373ad8ad3c10e70efab3bc00b54a12f0215df)
 - [ ] [<code>Revise message identifier specification for @dataclass</code>](https://github.com/tribler/py-ipv8/commit/a28f5de84e270ef61cabbe29e8260eaceadb4e48)
+- [ ] [<code>Ensure that Community.guess_address() only returns valid addresses, if any</code>](https://github.com/tribler/py-ipv8/commit/b51da583829c45fc459670025a064e83a894bd82)
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -8144,6 +8155,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use cx_Freeze for MacOS build</code>](https://github.com/tribler/Tribler/commit/4ad0484d272fa2be4065d8bfd7b4b0547963f12a)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Updated MacOS build to use cx_Freeze (#8872)</code>](https://github.com/tribler/Tribler/commit/d6897601acc062b49faa65e03dbfb088c2b14700)
+- [ ] [<code>Updated IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/fc13d2f075c97d734120ffd3f98738bfad891084)
+- [ ] [<code>Updated IPv8 pointer (#8873)</code>](https://github.com/tribler/Tribler/commit/aa4d42f666ea07116be39e8c95185a04e2f3dc7d)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
