@@ -135,6 +135,9 @@
 - [ ] [<code>nemo-list-view.c: Don't allow the 'Location' column for normal</code>](https://github.com/linuxmint/nemo/commit/eb489a160fbfcb793aba5087e8a828ff00465e9f)
 - [ ] [<code>nemo-column-utilities.c: Add some translator comments for the</code>](https://github.com/linuxmint/nemo/commit/9b1539cf5c167b42c288b330786a8d25761b1118)
 - [ ] [<code>nemo-list-view.c: When column expanders are disabled, don't check</code>](https://github.com/linuxmint/nemo/commit/8ff42b6e1831ad1a2974dd71a35b44894c16f628)
+- [ ] [<code>build: Fix some warnings.</code>](https://github.com/linuxmint/nemo/commit/13afae5c50e717d7e68a74eb305068cce63cd552)
+- [ ] [<code>dnd: Don't allow drag-and-drop into or out of computer://.</code>](https://github.com/linuxmint/nemo/commit/4e01cdd4e377facae4ef5cf59d81aa7c06973679)
+- [ ] [<code>Add Keyboard Shortcut for Open in Terminal (#3686)</code>](https://github.com/linuxmint/nemo/commit/d00e5fcd19212097ebc3990e23c13252d51338f5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
