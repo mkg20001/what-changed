@@ -281,6 +281,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>github: Deal with new Github images</code>](https://github.com/lxc/incus/commit/2eae0da145a9ff676f24a792b29e862baa086778)
 - [ ] [<code>tests: Fix SR-IOV attached key test</code>](https://github.com/lxc/incus/commit/9bbd1361a80b420ab864b9dcf2d9b8931faed393)
 - [ ] [<code>incusd/device/nic_physical: Allow migration of managed devices</code>](https://github.com/lxc/incus/commit/cbeffb008344906e9b17989d1bfde70a110c2f1b)
+- [ ] [<code>shared/cliconfig: Don't pass scheme to OCI creds helper</code>](https://github.com/lxc/incus/commit/36ad2cbcbc70c9f7c445b4588a997f731ef0f0b2)
+- [ ] [<code>incusd/cluster: Allow restoring a cluster without its instances</code>](https://github.com/lxc/incus/commit/06f30e185f805b9efe59e0599191b34e72423caa)
+- [ ] [<code>incus/cluster: Add --action for restore</code>](https://github.com/lxc/incus/commit/4d5964728fee6da8192724c4ab3e0ca0cd92ec7c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ad3246391e4282a67d1a1b6c57dbd111fb142d4c)
+- [ ] [<code>internal/instance; Correct doc for boot.autostart.priority</code>](https://github.com/lxc/incus/commit/5493daf9587ad45bccfcb0d26ec5e1d8c43c577e)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/80a5519509214172615c713a9b84df5381299ae4)
+- [ ] [<code>incusd/cluster: Restrict join token to database servers</code>](https://github.com/lxc/incus/commit/b2a41e7b9f0883dff992c4d91193648f977c266e)
+- [ ] [<code>incusd/storage/lvm: Prevent use of lvmcluster with loop files</code>](https://github.com/lxc/incus/commit/b234ba988cff3ee1b94347c224a2c37fb2dc1e74)
+- [ ] [<code>incusd/operations: Prevent concurrent access to metadata</code>](https://github.com/lxc/incus/commit/bb6e2b09ebbeb61c84354c1515b3de8f92edc295)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4557,6 +4567,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>github: Deal with new Github images</code>](https://github.com/lxc/incus/commit/2eae0da145a9ff676f24a792b29e862baa086778)
 - [ ] [<code>tests: Fix SR-IOV attached key test</code>](https://github.com/lxc/incus/commit/9bbd1361a80b420ab864b9dcf2d9b8931faed393)
 - [ ] [<code>incusd/device/nic_physical: Allow migration of managed devices</code>](https://github.com/lxc/incus/commit/cbeffb008344906e9b17989d1bfde70a110c2f1b)
+- [ ] [<code>shared/cliconfig: Don't pass scheme to OCI creds helper</code>](https://github.com/lxc/incus/commit/36ad2cbcbc70c9f7c445b4588a997f731ef0f0b2)
+- [ ] [<code>incusd/cluster: Allow restoring a cluster without its instances</code>](https://github.com/lxc/incus/commit/06f30e185f805b9efe59e0599191b34e72423caa)
+- [ ] [<code>incus/cluster: Add --action for restore</code>](https://github.com/lxc/incus/commit/4d5964728fee6da8192724c4ab3e0ca0cd92ec7c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ad3246391e4282a67d1a1b6c57dbd111fb142d4c)
+- [ ] [<code>internal/instance; Correct doc for boot.autostart.priority</code>](https://github.com/lxc/incus/commit/5493daf9587ad45bccfcb0d26ec5e1d8c43c577e)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/80a5519509214172615c713a9b84df5381299ae4)
+- [ ] [<code>incusd/cluster: Restrict join token to database servers</code>](https://github.com/lxc/incus/commit/b2a41e7b9f0883dff992c4d91193648f977c266e)
+- [ ] [<code>incusd/storage/lvm: Prevent use of lvmcluster with loop files</code>](https://github.com/lxc/incus/commit/b234ba988cff3ee1b94347c224a2c37fb2dc1e74)
+- [ ] [<code>incusd/operations: Prevent concurrent access to metadata</code>](https://github.com/lxc/incus/commit/bb6e2b09ebbeb61c84354c1515b3de8f92edc295)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -5405,6 +5425,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Make new journal viewer plugin a mandatory dependency for native packages to ensure clean upgrades. (#21701)</code>](https://github.com/netdata/netdata.git/commit/3ee561b00229bdc188d8c83d87d97030700ac2b1)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Set status flag of active journal file to archived on shutdown. (#21707)</code>](https://github.com/netdata/netdata.git/commit/c2cd26f16658e128a5785309958b2f26d3166941)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-346-nightly.</code>](https://github.com/netdata/netdata.git/commit/264707d198b825cfdf2dfd62ede93a7bf15a304c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
