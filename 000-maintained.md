@@ -5427,6 +5427,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Set status flag of active journal file to archived on shutdown. (#21707)</code>](https://github.com/netdata/netdata.git/commit/c2cd26f16658e128a5785309958b2f26d3166941)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-346-nightly.</code>](https://github.com/netdata/netdata.git/commit/264707d198b825cfdf2dfd62ede93a7bf15a304c)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add documentation for access control and feature availability (#21703)</code>](https://github.com/netdata/netdata.git/commit/c2fec131c002ee3faeb0df4ff2a8c3b172ecfbd4)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8139,6 +8141,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added download filters for 'not downloading' and 'inactive, unqueued'</code>](https://github.com/tribler/Tribler/commit/ce0b1dc6de1e2f37c309c6c4736e02bce2b6f212)
 - [ ] [<code>Removed accidental console.log</code>](https://github.com/tribler/Tribler/commit/a6d73bd1d64f3ec4bd0503758da8e0895a714058)
 - [ ] [<code>Added download filters for 'not downloading' and 'inactive, unqueued' (#8871)</code>](https://github.com/tribler/Tribler/commit/55afcba56938bc08b07bea8f33a06a784e9a4363)
+- [ ] [<code>Use cx_Freeze for MacOS build</code>](https://github.com/tribler/Tribler/commit/4ad0484d272fa2be4065d8bfd7b4b0547963f12a)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Updated MacOS build to use cx_Freeze (#8872)</code>](https://github.com/tribler/Tribler/commit/d6897601acc062b49faa65e03dbfb088c2b14700)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
