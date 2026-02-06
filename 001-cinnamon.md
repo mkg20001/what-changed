@@ -57,12 +57,16 @@
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
 - [ ] [<code>Add lock setting for hover-click a11y feature. (#261)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/879412ae7299ff43d187a7f461a11183c4376d5c)
+- [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e0677dd97494b5dae410aff7ddb3bb3541c4e50e)
+- [ ] [<code>Fix bad comment, workflow extension.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a95ffa42aecc6f5c2970c423a3cdd61ab074168e)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>Add stale issue workflow.</code>](https://github.com/linuxmint/cinnamon-menus/commit/99f59bac202c2e66d3e2d9ad18db75547a70ed66)
 - [ ] [<code>stale: Add more options to inactivity days.</code>](https://github.com/linuxmint/cinnamon-menus/commit/80376626dca006c0773f94e471056524986b53a3)
+- [ ] [<code>stale.yml: Enable cron job.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5e1d20c53a60138c2f7c6a9982aeeada471d1686)
+- [ ] [<code>stale.yml: Remove leftover comment.</code>](https://github.com/linuxmint/cinnamon-menus/commit/ddea01bca27a2a43610db0a483f3e741b48814cb)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
