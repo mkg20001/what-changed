@@ -283,6 +283,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/cluster: Restrict join token to database servers</code>](https://github.com/lxc/incus/commit/b2a41e7b9f0883dff992c4d91193648f977c266e)
 - [ ] [<code>incusd/storage/lvm: Prevent use of lvmcluster with loop files</code>](https://github.com/lxc/incus/commit/b234ba988cff3ee1b94347c224a2c37fb2dc1e74)
 - [ ] [<code>incusd/operations: Prevent concurrent access to metadata</code>](https://github.com/lxc/incus/commit/bb6e2b09ebbeb61c84354c1515b3de8f92edc295)
+- [ ] [<code>incusd/storage: Add support for renaming qcow2 volumes</code>](https://github.com/lxc/incus/commit/5c9b30069d1ddb91ebcb5a0f1f14940e531e6067)
+- [ ] [<code>incusd/storage/drivers: Load NBD module for lvmcluster</code>](https://github.com/lxc/incus/commit/336ec10ad1038c8efc8fad7f755cadda502b1e02)
+- [ ] [<code>incusd/instance/drivers: Pass information about whether migration is live</code>](https://github.com/lxc/incus/commit/e2e098d6f2ae95538b2da212f193fd098b361331)
+- [ ] [<code>incusd/storage: Add support for qcow2 volume migration</code>](https://github.com/lxc/incus/commit/1dde134919cb77115e04e2767aa0009f0558160c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add snapshot mount paths parameter to the task function</code>](https://github.com/lxc/incus/commit/b3b3d1c27cad8a16b8307b6c384ec0854b82943b)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4569,6 +4575,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/cluster: Restrict join token to database servers</code>](https://github.com/lxc/incus/commit/b2a41e7b9f0883dff992c4d91193648f977c266e)
 - [ ] [<code>incusd/storage/lvm: Prevent use of lvmcluster with loop files</code>](https://github.com/lxc/incus/commit/b234ba988cff3ee1b94347c224a2c37fb2dc1e74)
 - [ ] [<code>incusd/operations: Prevent concurrent access to metadata</code>](https://github.com/lxc/incus/commit/bb6e2b09ebbeb61c84354c1515b3de8f92edc295)
+- [ ] [<code>incusd/storage: Add support for renaming qcow2 volumes</code>](https://github.com/lxc/incus/commit/5c9b30069d1ddb91ebcb5a0f1f14940e531e6067)
+- [ ] [<code>incusd/storage/drivers: Load NBD module for lvmcluster</code>](https://github.com/lxc/incus/commit/336ec10ad1038c8efc8fad7f755cadda502b1e02)
+- [ ] [<code>incusd/instance/drivers: Pass information about whether migration is live</code>](https://github.com/lxc/incus/commit/e2e098d6f2ae95538b2da212f193fd098b361331)
+- [ ] [<code>incusd/storage: Add support for qcow2 volume migration</code>](https://github.com/lxc/incus/commit/1dde134919cb77115e04e2767aa0009f0558160c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add snapshot mount paths parameter to the task function</code>](https://github.com/lxc/incus/commit/b3b3d1c27cad8a16b8307b6c384ec0854b82943b)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4754,6 +4766,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Have AVIF_FALSE and AVIF_TRUE be enums in the CI (#2712)</code>](https://github.com/AOMediaCodec/libavif/commit/b63a913579ea8644bb990c8be93e5db9132495ff)
 - [ ] [<code>Use all-intra encoding for some layered images</code>](https://github.com/AOMediaCodec/libavif/commit/2a4a06fae1761bee73357d96f778232bd7d6b6c7)
 - [ ] [<code>Return 0 dec rows when contentToDecode is gainmap (#3000)</code>](https://github.com/AOMediaCodec/libavif/commit/f0c6d7f000684642853c434300a72fa3eede3209)
+- [ ] [<code>Detect multiplication overflow in avifArrayCreate</code>](https://github.com/AOMediaCodec/libavif/commit/3b4ff0fa492c62535278282e613d4bc660372d42)
+- [ ] [<code>avifArrayPush: Fix oldPtr leak if avifAlloc fails</code>](https://github.com/AOMediaCodec/libavif/commit/2b1478469b61ade38ed21edf8ecc1a59608cb864)
+- [ ] [<code>Fix useTuneIq comment in aomCodecEncodeImage() (#2999)</code>](https://github.com/AOMediaCodec/libavif/commit/835d66a5664edfdf2f4d4a3ecc122ad50797ccb3)
+- [ ] [<code>Rely on contentToDecode only in avifDecoderReset() (#3001)</code>](https://github.com/AOMediaCodec/libavif/commit/5f6ca1885b9e5bdcebef7e6b4f1d97dc5e6f29f6)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -8071,6 +8087,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>GNU license in RTF file format</code>](https://github.com/axcore/tartube/commit/b2ca1c29cb745e7ec395a9beb6177416fbcd7f29)
 - [ ] [<code>Installer improvement - Use RTF license file</code>](https://github.com/axcore/tartube/commit/6a44bbf57a1755dbfe75e6afd6a11fde7cc14005)
 - [ ] [<code>LGPL 2.1 in RTF file format</code>](https://github.com/axcore/tartube/commit/45980081853d69bdcc99e411215ebb41c47f4a00)
+- [ ] [<code>Instalelr improvements</code>](https://github.com/axcore/tartube/commit/6c893fbbb213eb0776ebb0949637e8a789556723)
+- [ ] [<code>Misc fixes</code>](https://github.com/axcore/tartube/commit/7b28f377184af8314eb932a43c0771798474f92c)
+  - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
 
