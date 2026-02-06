@@ -49,7 +49,14 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>st-theme-context.c: Hook up texture cache's texture-file-changed</code>](https://github.com/linuxmint/cinnamon/commit/8f73a54d14dc400a27e7bba121c34efe7e171aed)
 - [ ] [<code>main.js: Fix enum in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/2ed098b6f76ee76111a8115c6029986c204f75f4)
+- [ ] [<code>power_applet: rearrange battery label, so the percentage is on left (#13262)</code>](https://github.com/linuxmint/cinnamon/commit/c036182d872d06686027851c017d1a4f433df2ac)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>theme: Add a couple of generic button styles (#13319)</code>](https://github.com/linuxmint/cinnamon/commit/5ac71af98db9be718e5f8d6c4b9f81058bba0829)
+- [ ] [<code>cinnamon-desktop-editor.py: Add import path.</code>](https://github.com/linuxmint/cinnamon/commit/6d15343879693cfcd458857d87a4f7ccfa87c99d)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings: Make imports consistent, instead of a mix of</code>](https://github.com/linuxmint/cinnamon/commit/9397ff363388aff6b88a2fd02044215742302868)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -129,6 +136,8 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Small cleanup and fixes (#790)</code>](https://github.com/linuxmint/muffin/commit/da3bb2f2d4b051ea57cc5f41a4b766683aabf739)
 - [ ] [<code>[Input] Small API cleanups (#765)</code>](https://github.com/linuxmint/muffin/commit/9f0655eebd86b46943910696c0ea62c90112d9c2)
+- [ ] [<code>wayland/xdg-shell: Implement support for xdg_toplevel.wm_capabilities (#780)</code>](https://github.com/linuxmint/muffin/commit/7e578fd86f9fafd5a022d93dab1bb4b8e84ec92f)
+- [ ] [<code>Fix use-after free and race conditions in Wayland idle inhibitation (#779)</code>](https://github.com/linuxmint/muffin/commit/5a4956efa66beaf615992f36bf4a32711791128a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.3 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.3...HEAD)
