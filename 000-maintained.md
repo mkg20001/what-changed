@@ -238,14 +238,6 @@
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped flutter329 - no appropriate URL found OrderedDict({'attr_path': 'flutter329', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
-> Dropped flutter332 - no appropriate URL found OrderedDict({'attr_path': 'flutter332', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
-> Dropped flutter335 - no appropriate URL found OrderedDict({'attr_path': 'flutter335', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
-> Dropped flutter341 - no appropriate URL found OrderedDict({'attr_path': 'flutter341', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
-
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -5439,6 +5431,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>remove otel coll dist (#21714)</code>](https://github.com/netdata/netdata.git/commit/a6036dfac0e59482a96e2cd17bd2ebfd7cdefda1)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Handle fields with high-cardinality and big payloads. (#21716)</code>](https://github.com/netdata/netdata.git/commit/80a5a9f63ea05ce378cf051c809076a21f519557)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-353-nightly.</code>](https://github.com/netdata/netdata.git/commit/43486fb32b0c0f5443b3d387e71cc9654c5eef0a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
