@@ -289,6 +289,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Add support for qcow2 volume migration</code>](https://github.com/lxc/incus/commit/1dde134919cb77115e04e2767aa0009f0558160c)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage: Add snapshot mount paths parameter to the task function</code>](https://github.com/lxc/incus/commit/b3b3d1c27cad8a16b8307b6c384ec0854b82943b)
+- [ ] [<code>incusd/device/nic_riov: Retry MAC setting logic</code>](https://github.com/lxc/incus/commit/c8938372104e34f5b2c2bc438d05765793d1a251)
+- [ ] [<code>doc/howto/instances: Mention keeping agent drive attached</code>](https://github.com/lxc/incus/commit/290594583613db81f9b789e044cab2bbcc5dc98c)
+- [ ] [<code>incusd/instances/agent-loader: Silence semanage</code>](https://github.com/lxc/incus/commit/da03a4bf41b5ea10921b1889b9c547d7a8926802)
+- [ ] [<code>incusd/cluster: Also transfer public key on join</code>](https://github.com/lxc/incus/commit/659a645a743c07c479d23b74e7dd42dfd2db26df)
+- [ ] [<code>doc/cloud-init: Fix bad link</code>](https://github.com/lxc/incus/commit/ebd805b9f29d8715a3b0975c6a57fa00d56fb37d)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4581,6 +4586,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Add support for qcow2 volume migration</code>](https://github.com/lxc/incus/commit/1dde134919cb77115e04e2767aa0009f0558160c)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>incusd/storage: Add snapshot mount paths parameter to the task function</code>](https://github.com/lxc/incus/commit/b3b3d1c27cad8a16b8307b6c384ec0854b82943b)
+- [ ] [<code>incusd/device/nic_riov: Retry MAC setting logic</code>](https://github.com/lxc/incus/commit/c8938372104e34f5b2c2bc438d05765793d1a251)
+- [ ] [<code>doc/howto/instances: Mention keeping agent drive attached</code>](https://github.com/lxc/incus/commit/290594583613db81f9b789e044cab2bbcc5dc98c)
+- [ ] [<code>incusd/instances/agent-loader: Silence semanage</code>](https://github.com/lxc/incus/commit/da03a4bf41b5ea10921b1889b9c547d7a8926802)
+- [ ] [<code>incusd/cluster: Also transfer public key on join</code>](https://github.com/lxc/incus/commit/659a645a743c07c479d23b74e7dd42dfd2db26df)
+- [ ] [<code>doc/cloud-init: Fix bad link</code>](https://github.com/lxc/incus/commit/ebd805b9f29d8715a3b0975c6a57fa00d56fb37d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4770,6 +4780,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>avifArrayPush: Fix oldPtr leak if avifAlloc fails</code>](https://github.com/AOMediaCodec/libavif/commit/2b1478469b61ade38ed21edf8ecc1a59608cb864)
 - [ ] [<code>Fix useTuneIq comment in aomCodecEncodeImage() (#2999)</code>](https://github.com/AOMediaCodec/libavif/commit/835d66a5664edfdf2f4d4a3ecc122ad50797ccb3)
 - [ ] [<code>Rely on contentToDecode only in avifDecoderReset() (#3001)</code>](https://github.com/AOMediaCodec/libavif/commit/5f6ca1885b9e5bdcebef7e6b4f1d97dc5e6f29f6)
+- [ ] [<code>Add an option to optimize for rav1e's size (#3007)</code>](https://github.com/AOMediaCodec/libavif/commit/d245b007d97481634c19f10f427da2d6e3e6008f)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5449,6 +5461,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Handle fields with high-cardinality and big payloads. (#21716)</code>](https://github.com/netdata/netdata.git/commit/80a5a9f63ea05ce378cf051c809076a21f519557)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-353-nightly.</code>](https://github.com/netdata/netdata.git/commit/43486fb32b0c0f5443b3d387e71cc9654c5eef0a)
+- [ ] [<code>refactor(go.d): extract shared dyncfg handler from jobmgr and sd (#21718)</code>](https://github.com/netdata/netdata.git/commit/7208b8353becd8c49767f8c2a9fcc38545cbeaa8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update libbpf (#21717)</code>](https://github.com/netdata/netdata.git/commit/e4fb7895e169d7737738d472b8556adc25a23fe0)
+- [ ] [<code>Docs: Add bearer token protection as recommended security method (#21712)</code>](https://github.com/netdata/netdata.git/commit/a50eaa53324a0a610c2fab32e95857d2ec7573e6)
+- [ ] [<code>Use info-level log for undhandled modification events. (#21719)</code>](https://github.com/netdata/netdata.git/commit/986a187b20f866ca801b9614ae56b9d52840e45d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
