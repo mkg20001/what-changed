@@ -294,6 +294,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instances/agent-loader: Silence semanage</code>](https://github.com/lxc/incus/commit/da03a4bf41b5ea10921b1889b9c547d7a8926802)
 - [ ] [<code>incusd/cluster: Also transfer public key on join</code>](https://github.com/lxc/incus/commit/659a645a743c07c479d23b74e7dd42dfd2db26df)
 - [ ] [<code>doc/cloud-init: Fix bad link</code>](https://github.com/lxc/incus/commit/ebd805b9f29d8715a3b0975c6a57fa00d56fb37d)
+- [ ] [<code>incusd: Search OVS switch external_interfaces</code>](https://github.com/lxc/incus/commit/71588565dbd30a79dab6b511c381e4c5732c4ce0)
+- [ ] [<code>api: nic_sriov_security_trusted</code>](https://github.com/lxc/incus/commit/39963f1e2799440b452258191c25f6671318bda8)
+- [ ] [<code>incusd/ip/link: Add support for virtual function trusted property</code>](https://github.com/lxc/incus/commit/3cd5c98580f5d2c57a0e3d670752beb5db932d7e)
+- [ ] [<code>incusd/device/nic: Add `security.trusted` configuration key</code>](https://github.com/lxc/incus/commit/09c8d0c54d78c5912325123da38e1dd98105bd73)
+- [ ] [<code>internal/instance: Add `volatile.<name>.last_state.vf.trusted`</code>](https://github.com/lxc/incus/commit/bb9c225c8c31f50c05b920f1bd13b90d7a8b2b26)
+- [ ] [<code>tests: Add tests for SR-IOV `security.trusted` property</code>](https://github.com/lxc/incus/commit/be064a701ef0ad3d0edc88486311843235779e16)
+- [ ] [<code>doc: Update config for SR-IOV security.trusted</code>](https://github.com/lxc/incus/commit/842cca5d9ad26b1a0e4e03d17c7e1242f7767977)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4591,6 +4598,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instances/agent-loader: Silence semanage</code>](https://github.com/lxc/incus/commit/da03a4bf41b5ea10921b1889b9c547d7a8926802)
 - [ ] [<code>incusd/cluster: Also transfer public key on join</code>](https://github.com/lxc/incus/commit/659a645a743c07c479d23b74e7dd42dfd2db26df)
 - [ ] [<code>doc/cloud-init: Fix bad link</code>](https://github.com/lxc/incus/commit/ebd805b9f29d8715a3b0975c6a57fa00d56fb37d)
+- [ ] [<code>incusd: Search OVS switch external_interfaces</code>](https://github.com/lxc/incus/commit/71588565dbd30a79dab6b511c381e4c5732c4ce0)
+- [ ] [<code>api: nic_sriov_security_trusted</code>](https://github.com/lxc/incus/commit/39963f1e2799440b452258191c25f6671318bda8)
+- [ ] [<code>incusd/ip/link: Add support for virtual function trusted property</code>](https://github.com/lxc/incus/commit/3cd5c98580f5d2c57a0e3d670752beb5db932d7e)
+- [ ] [<code>incusd/device/nic: Add `security.trusted` configuration key</code>](https://github.com/lxc/incus/commit/09c8d0c54d78c5912325123da38e1dd98105bd73)
+- [ ] [<code>internal/instance: Add `volatile.<name>.last_state.vf.trusted`</code>](https://github.com/lxc/incus/commit/bb9c225c8c31f50c05b920f1bd13b90d7a8b2b26)
+- [ ] [<code>tests: Add tests for SR-IOV `security.trusted` property</code>](https://github.com/lxc/incus/commit/be064a701ef0ad3d0edc88486311843235779e16)
+- [ ] [<code>doc: Update config for SR-IOV security.trusted</code>](https://github.com/lxc/incus/commit/842cca5d9ad26b1a0e4e03d17c7e1242f7767977)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4782,6 +4796,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Rely on contentToDecode only in avifDecoderReset() (#3001)</code>](https://github.com/AOMediaCodec/libavif/commit/5f6ca1885b9e5bdcebef7e6b4f1d97dc5e6f29f6)
 - [ ] [<code>Add an option to optimize for rav1e's size (#3007)</code>](https://github.com/AOMediaCodec/libavif/commit/d245b007d97481634c19f10f427da2d6e3e6008f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Move a comment about still image encoding</code>](https://github.com/AOMediaCodec/libavif/commit/fa8db072caa68136e395889da26874a55129ea23)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5466,6 +5481,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update libbpf (#21717)</code>](https://github.com/netdata/netdata.git/commit/e4fb7895e169d7737738d472b8556adc25a23fe0)
 - [ ] [<code>Docs: Add bearer token protection as recommended security method (#21712)</code>](https://github.com/netdata/netdata.git/commit/a50eaa53324a0a610c2fab32e95857d2ec7573e6)
 - [ ] [<code>Use info-level log for undhandled modification events. (#21719)</code>](https://github.com/netdata/netdata.git/commit/986a187b20f866ca801b9614ae56b9d52840e45d)
+- [ ] [<code>Improve log message when deferred response is too big. (#21720)</code>](https://github.com/netdata/netdata.git/commit/453bc9d4ad22bd7fcde41d754d6d7187957e193a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-359-nightly.</code>](https://github.com/netdata/netdata.git/commit/e3f633a3ce0789296274d458f71c2f0be5bce6d6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
