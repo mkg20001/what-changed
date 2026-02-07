@@ -179,7 +179,11 @@
 - [ ] [<code>feat: Implement new sign in flow</code>](https://github.com/krille-chan/fluffychat/commit/4d7f0295ca3034caeda51e1a1877c6e69f7a522d)
 - [ ] [<code>chore: Make key fingerprints in chat encryption page selectable</code>](https://github.com/krille-chan/fluffychat/commit/8f4c8b7501cbf70c690f91a4ce3ac3f673b5d72c)
 - [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
+- [ ] [<code>build: (deps): bump pretty_qr_code from 3.5.0 to 3.6.0</code>](https://github.com/krille-chan/fluffychat/commit/eaa7e8a1fc2bd1975c72152840e043f8cc352de3)
+- [ ] [<code>build: (deps): bump particles_network from 1.9.0 to 1.9.1</code>](https://github.com/krille-chan/fluffychat/commit/4b1970d613aa7fa718ea7910759c24b675fc408f)
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
+- [ ] [<code>build: Update to matrix 6.1.0</code>](https://github.com/krille-chan/fluffychat/commit/2a390db509f0e535b0d60038bf88ab5c7273a63a)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 19.5.0 to 20.0.0</code>](https://github.com/krille-chan/fluffychat/commit/49003af9498ab34ef489aa0aff04418323c80e7b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -235,7 +239,11 @@
 - [ ] [<code>feat: Implement new sign in flow</code>](https://github.com/krille-chan/fluffychat/commit/4d7f0295ca3034caeda51e1a1877c6e69f7a522d)
 - [ ] [<code>chore: Make key fingerprints in chat encryption page selectable</code>](https://github.com/krille-chan/fluffychat/commit/8f4c8b7501cbf70c690f91a4ce3ac3f673b5d72c)
 - [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
+- [ ] [<code>build: (deps): bump pretty_qr_code from 3.5.0 to 3.6.0</code>](https://github.com/krille-chan/fluffychat/commit/eaa7e8a1fc2bd1975c72152840e043f8cc352de3)
+- [ ] [<code>build: (deps): bump particles_network from 1.9.0 to 1.9.1</code>](https://github.com/krille-chan/fluffychat/commit/4b1970d613aa7fa718ea7910759c24b675fc408f)
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
+- [ ] [<code>build: Update to matrix 6.1.0</code>](https://github.com/krille-chan/fluffychat/commit/2a390db509f0e535b0d60038bf88ab5c7273a63a)
+- [ ] [<code>build: (deps): bump flutter_local_notifications from 19.5.0 to 20.0.0</code>](https://github.com/krille-chan/fluffychat/commit/49003af9498ab34ef489aa0aff04418323c80e7b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4801,6 +4809,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add an option to optimize for rav1e's size (#3007)</code>](https://github.com/AOMediaCodec/libavif/commit/d245b007d97481634c19f10f427da2d6e3e6008f)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Move a comment about still image encoding</code>](https://github.com/AOMediaCodec/libavif/commit/fa8db072caa68136e395889da26874a55129ea23)
+- [ ] [<code>codec_aom/avm.c: Add comments about useAllIntra</code>](https://github.com/AOMediaCodec/libavif/commit/89f02da2e7b8f1aaa0c44ea69152f52d096596b1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
