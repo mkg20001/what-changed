@@ -301,6 +301,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/instance: Add `volatile.<name>.last_state.vf.trusted`</code>](https://github.com/lxc/incus/commit/bb9c225c8c31f50c05b920f1bd13b90d7a8b2b26)
 - [ ] [<code>tests: Add tests for SR-IOV `security.trusted` property</code>](https://github.com/lxc/incus/commit/be064a701ef0ad3d0edc88486311843235779e16)
 - [ ] [<code>doc: Update config for SR-IOV security.trusted</code>](https://github.com/lxc/incus/commit/842cca5d9ad26b1a0e4e03d17c7e1242f7767977)
+- [ ] [<code>doc/backup: Fix MarkdownLint warnings</code>](https://github.com/lxc/incus/commit/337985bfd83f5908894160fc321ccf8d1b7087c0)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4605,6 +4607,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/instance: Add `volatile.<name>.last_state.vf.trusted`</code>](https://github.com/lxc/incus/commit/bb9c225c8c31f50c05b920f1bd13b90d7a8b2b26)
 - [ ] [<code>tests: Add tests for SR-IOV `security.trusted` property</code>](https://github.com/lxc/incus/commit/be064a701ef0ad3d0edc88486311843235779e16)
 - [ ] [<code>doc: Update config for SR-IOV security.trusted</code>](https://github.com/lxc/incus/commit/842cca5d9ad26b1a0e4e03d17c7e1242f7767977)
+- [ ] [<code>doc/backup: Fix MarkdownLint warnings</code>](https://github.com/lxc/incus/commit/337985bfd83f5908894160fc321ccf8d1b7087c0)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
