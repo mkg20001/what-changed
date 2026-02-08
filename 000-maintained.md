@@ -1,5 +1,10 @@
-> Dropped cert-viewer - no appropriate URL found OrderedDict({'attr_path': 'cert-viewer', 'home_url': 'https://github.com/mgit-at/cert-viewer', 'src_url': 'https://github.com/mgit-at/cert-viewer/archive/refs/tags/v0.9.1.tar.gz', 'urls': ['https://github.com/mgit-at/cert-viewer/archive/refs/tags/v0.9.1.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': 'refs/tags/v0.9.1'})
 
+#### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
+
+- [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/ad9d51bb114a4d54f5d9df4bbdf65bf25777e8d2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/fe76fb7c3672a27bccb32f89609148c09fde8568)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -15,7 +20,7 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
-> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.7/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.9/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.10.9/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -307,6 +312,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/backup: Fix MarkdownLint warnings</code>](https://github.com/lxc/incus/commit/337985bfd83f5908894160fc321ccf8d1b7087c0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage_volumes_snapshot: Treat pongo templates as unique</code>](https://github.com/lxc/incus/commit/df76956b950424d43a5bdd95bf9a96a195a7bbda)
+- [ ] [<code>incusd/instance/drivers: Propagate error when adding qcow2 backing block device</code>](https://github.com/lxc/incus/commit/cc9b34b188af8e45cc874a2707ccd8bd4cb8bf95)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4614,6 +4620,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/backup: Fix MarkdownLint warnings</code>](https://github.com/lxc/incus/commit/337985bfd83f5908894160fc321ccf8d1b7087c0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage_volumes_snapshot: Treat pongo templates as unique</code>](https://github.com/lxc/incus/commit/df76956b950424d43a5bdd95bf9a96a195a7bbda)
+- [ ] [<code>incusd/instance/drivers: Propagate error when adding qcow2 backing block device</code>](https://github.com/lxc/incus/commit/cc9b34b188af8e45cc874a2707ccd8bd4cb8bf95)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -5494,6 +5501,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use info-level log for undhandled modification events. (#21719)</code>](https://github.com/netdata/netdata.git/commit/986a187b20f866ca801b9614ae56b9d52840e45d)
 - [ ] [<code>Improve log message when deferred response is too big. (#21720)</code>](https://github.com/netdata/netdata.git/commit/453bc9d4ad22bd7fcde41d754d6d7187957e193a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-359-nightly.</code>](https://github.com/netdata/netdata.git/commit/e3f633a3ce0789296274d458f71c2f0be5bce6d6)
+- [ ] [<code>Fix timeout cleanup race for long-running first web requests (#21722)</code>](https://github.com/netdata/netdata.git/commit/b66a1b78d472cbe419f6069c526d285def3d5b63)
+- [ ] [<code>Refactor function progress: move timeout and progress authority to the plugin runtime and agent (#21723)</code>](https://github.com/netdata/netdata.git/commit/09cbde151aaafa5d15b9340d10e656aceb4d445f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
