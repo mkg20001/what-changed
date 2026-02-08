@@ -1,10 +1,5 @@
+> Dropped cert-viewer - no appropriate URL found OrderedDict({'attr_path': 'cert-viewer', 'home_url': 'https://github.com/mgit-at/cert-viewer', 'src_url': 'https://github.com/mgit-at/cert-viewer/archive/refs/tags/v0.9.1.tar.gz', 'urls': ['https://github.com/mgit-at/cert-viewer/archive/refs/tags/v0.9.1.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': 'refs/tags/v0.9.1'})
 
-#### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
-
-- [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/ad9d51bb114a4d54f5d9df4bbdf65bf25777e8d2)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/fe76fb7c3672a27bccb32f89609148c09fde8568)
-  - <sub>Keywords: <code>bin</code></sub>
 
 #### [cfs-zen-tweaks](https://github.com/igo95862/cfs-zen-tweaks): [1.3.0 → HEAD](https://github.com/igo95862/cfs-zen-tweaks/compare/1.3.0...HEAD)
 
@@ -311,6 +306,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config for SR-IOV security.trusted</code>](https://github.com/lxc/incus/commit/842cca5d9ad26b1a0e4e03d17c7e1242f7767977)
 - [ ] [<code>doc/backup: Fix MarkdownLint warnings</code>](https://github.com/lxc/incus/commit/337985bfd83f5908894160fc321ccf8d1b7087c0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage_volumes_snapshot: Treat pongo templates as unique</code>](https://github.com/lxc/incus/commit/df76956b950424d43a5bdd95bf9a96a195a7bbda)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4617,6 +4613,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config for SR-IOV security.trusted</code>](https://github.com/lxc/incus/commit/842cca5d9ad26b1a0e4e03d17c7e1242f7767977)
 - [ ] [<code>doc/backup: Fix MarkdownLint warnings</code>](https://github.com/lxc/incus/commit/337985bfd83f5908894160fc321ccf8d1b7087c0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage_volumes_snapshot: Treat pongo templates as unique</code>](https://github.com/lxc/incus/commit/df76956b950424d43a5bdd95bf9a96a195a7bbda)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4810,6 +4807,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Move a comment about still image encoding</code>](https://github.com/AOMediaCodec/libavif/commit/fa8db072caa68136e395889da26874a55129ea23)
 - [ ] [<code>codec_aom/avm.c: Add comments about useAllIntra</code>](https://github.com/AOMediaCodec/libavif/commit/89f02da2e7b8f1aaa0c44ea69152f52d096596b1)
+- [ ] [<code>Prevent integer overflow during buffer reallocation</code>](https://github.com/AOMediaCodec/libavif/commit/aa607b352801e860f039eed7294e39e6d14b6198)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
