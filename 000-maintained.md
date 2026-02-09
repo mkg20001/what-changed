@@ -313,6 +313,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage_volumes_snapshot: Treat pongo templates as unique</code>](https://github.com/lxc/incus/commit/df76956b950424d43a5bdd95bf9a96a195a7bbda)
 - [ ] [<code>incusd/instance/drivers: Propagate error when adding qcow2 backing block device</code>](https://github.com/lxc/incus/commit/cc9b34b188af8e45cc874a2707ccd8bd4cb8bf95)
+- [ ] [<code>incusd/instancewriter: Make signature more generic</code>](https://github.com/lxc/incus/commit/9ff17e13f1ceff832cbb9498ed7acbbcd2e66203)
+- [ ] [<code>client/instances: Add direct backup capability</code>](https://github.com/lxc/incus/commit/89baf98b17ed34c0f49b622065335bebfd622d42)
+- [ ] [<code>client/storage_volumes: Add direct backup capability</code>](https://github.com/lxc/incus/commit/7c8099e68e288ae27e97398545d047a02280d064)
+- [ ] [<code>client/storage_buckets: Add direct backup capability</code>](https://github.com/lxc/incus/commit/44b6fd3c7f1593b54151a928cab7bae401962bb5)
+- [ ] [<code>incusd/response: Add pipe response</code>](https://github.com/lxc/incus/commit/3868ef2d6415955657f1392d51fa8138ba7400e3)
+- [ ] [<code>incus/export: Add direct backup capability</code>](https://github.com/lxc/incus/commit/6d247a3f7e6a47bac752d98f169943de573e9e1a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_volume: Add direct backup capability</code>](https://github.com/lxc/incus/commit/bef9d91dce0336c8a45faf6a99903dfba4155441)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Add direct backup capability</code>](https://github.com/lxc/incus/commit/2e7320729fe5b2dbb424874c015a9d6f0ab17be9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/backup: Refactor S3 upload</code>](https://github.com/lxc/incus/commit/2a45853371f02357f25002d399a0453bc4f0b6a0)
+- [ ] [<code>incusd/instance_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/92682f419509a08e244478d8106c9d0cc5c52c4d)
+- [ ] [<code>incusd/storage_volumes_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/e60d3e8ad4007c2b767aab6f232eac84834fc939)
+- [ ] [<code>incusd/storage_buckets_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/13a0d33f45ffcccee7c84eadef2b4e6dffa9b372)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a46a196b07ae4c2046ecb82365e77458ea8b29e8)
+- [ ] [<code>api: direct_backup</code>](https://github.com/lxc/incus/commit/e226cbf1aad7df29ca94cb55676f4558c9508195)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4621,6 +4638,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage_volumes_snapshot: Treat pongo templates as unique</code>](https://github.com/lxc/incus/commit/df76956b950424d43a5bdd95bf9a96a195a7bbda)
 - [ ] [<code>incusd/instance/drivers: Propagate error when adding qcow2 backing block device</code>](https://github.com/lxc/incus/commit/cc9b34b188af8e45cc874a2707ccd8bd4cb8bf95)
+- [ ] [<code>incusd/instancewriter: Make signature more generic</code>](https://github.com/lxc/incus/commit/9ff17e13f1ceff832cbb9498ed7acbbcd2e66203)
+- [ ] [<code>client/instances: Add direct backup capability</code>](https://github.com/lxc/incus/commit/89baf98b17ed34c0f49b622065335bebfd622d42)
+- [ ] [<code>client/storage_volumes: Add direct backup capability</code>](https://github.com/lxc/incus/commit/7c8099e68e288ae27e97398545d047a02280d064)
+- [ ] [<code>client/storage_buckets: Add direct backup capability</code>](https://github.com/lxc/incus/commit/44b6fd3c7f1593b54151a928cab7bae401962bb5)
+- [ ] [<code>incusd/response: Add pipe response</code>](https://github.com/lxc/incus/commit/3868ef2d6415955657f1392d51fa8138ba7400e3)
+- [ ] [<code>incus/export: Add direct backup capability</code>](https://github.com/lxc/incus/commit/6d247a3f7e6a47bac752d98f169943de573e9e1a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_volume: Add direct backup capability</code>](https://github.com/lxc/incus/commit/bef9d91dce0336c8a45faf6a99903dfba4155441)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Add direct backup capability</code>](https://github.com/lxc/incus/commit/2e7320729fe5b2dbb424874c015a9d6f0ab17be9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/backup: Refactor S3 upload</code>](https://github.com/lxc/incus/commit/2a45853371f02357f25002d399a0453bc4f0b6a0)
+- [ ] [<code>incusd/instance_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/92682f419509a08e244478d8106c9d0cc5c52c4d)
+- [ ] [<code>incusd/storage_volumes_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/e60d3e8ad4007c2b767aab6f232eac84834fc939)
+- [ ] [<code>incusd/storage_buckets_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/13a0d33f45ffcccee7c84eadef2b4e6dffa9b372)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a46a196b07ae4c2046ecb82365e77458ea8b29e8)
+- [ ] [<code>api: direct_backup</code>](https://github.com/lxc/incus/commit/e226cbf1aad7df29ca94cb55676f4558c9508195)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -5504,6 +5538,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix timeout cleanup race for long-running first web requests (#21722)</code>](https://github.com/netdata/netdata.git/commit/b66a1b78d472cbe419f6069c526d285def3d5b63)
 - [ ] [<code>Refactor function progress: move timeout and progress authority to the plugin runtime and agent (#21723)</code>](https://github.com/netdata/netdata.git/commit/09cbde151aaafa5d15b9340d10e656aceb4d445f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-362-nightly.</code>](https://github.com/netdata/netdata.git/commit/426091eeec309b29aef4d5ef2aa92d8872797f50)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
