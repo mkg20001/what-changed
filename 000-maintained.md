@@ -82,6 +82,7 @@
 - [ ] [<code>sources/centos-http: Support CentOS Stream 10 checksum file</code>](https://github.com/lxc/distrobuilder/commit/1015a5ac067c6b5322fc90115accf563b6a940e3)
 - [ ] [<code>sources: Fix portage snapshot GPG verification</code>](https://github.com/lxc/distrobuilder/commit/e46de2b9679e4517f70e8ecd14dd01eef0131558)
 - [ ] [<code>source.md: source.same_is is a string</code>](https://github.com/lxc/distrobuilder/commit/f1ea14c33d07004f8a41f519168e1d555c96b808)
+- [ ] [<code>systemd-generator: fix escape sequence</code>](https://github.com/lxc/distrobuilder/commit/7ffe700932a47ddb528975b4ded65d51cb1dafe8)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -330,6 +331,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_buckets_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/13a0d33f45ffcccee7c84eadef2b4e6dffa9b372)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a46a196b07ae4c2046ecb82365e77458ea8b29e8)
 - [ ] [<code>api: direct_backup</code>](https://github.com/lxc/incus/commit/e226cbf1aad7df29ca94cb55676f4558c9508195)
+- [ ] [<code>incusd/instance/qemu: gofumpt</code>](https://github.com/lxc/incus/commit/dd0740be1678b1f128726e4eeca1e6652c6eb203)
+- [ ] [<code>incusd/device/disk: Add IsSpecialDisk</code>](https://github.com/lxc/incus/commit/4410362bfa7adbd5e5dd9e8c0191f1d32188db08)
+- [ ] [<code>incusd/instance/lxc: Skip metrics on special disks</code>](https://github.com/lxc/incus/commit/5980894f36a28af14507475816fe4bfa2ada007b)
+- [ ] [<code>github: Resolve /dev/scratch symlink when consumed</code>](https://github.com/lxc/incus/commit/e95375851003355e86bb8f0d47955a673ad050e4)
 - [ ] [<code>api: instance_snapshot_disk_only_restore</code>](https://github.com/lxc/incus/commit/06378738728e402cdbaaa626c60105281d03477f)
 - [ ] [<code>shared/api: Add DiskOnly option in InstancePut</code>](https://github.com/lxc/incus/commit/463f3fa0398dea1b11f6f41e7c4896666d51724a)
 - [ ] [<code>incusd/instance_put: Add DiskOnly option and check for mismatching options</code>](https://github.com/lxc/incus/commit/55f9a7d48e91d2b8c29819c16061987113bdf8fb)
@@ -4667,6 +4672,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_buckets_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/13a0d33f45ffcccee7c84eadef2b4e6dffa9b372)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a46a196b07ae4c2046ecb82365e77458ea8b29e8)
 - [ ] [<code>api: direct_backup</code>](https://github.com/lxc/incus/commit/e226cbf1aad7df29ca94cb55676f4558c9508195)
+- [ ] [<code>incusd/instance/qemu: gofumpt</code>](https://github.com/lxc/incus/commit/dd0740be1678b1f128726e4eeca1e6652c6eb203)
+- [ ] [<code>incusd/device/disk: Add IsSpecialDisk</code>](https://github.com/lxc/incus/commit/4410362bfa7adbd5e5dd9e8c0191f1d32188db08)
+- [ ] [<code>incusd/instance/lxc: Skip metrics on special disks</code>](https://github.com/lxc/incus/commit/5980894f36a28af14507475816fe4bfa2ada007b)
+- [ ] [<code>github: Resolve /dev/scratch symlink when consumed</code>](https://github.com/lxc/incus/commit/e95375851003355e86bb8f0d47955a673ad050e4)
 - [ ] [<code>api: instance_snapshot_disk_only_restore</code>](https://github.com/lxc/incus/commit/06378738728e402cdbaaa626c60105281d03477f)
 - [ ] [<code>shared/api: Add DiskOnly option in InstancePut</code>](https://github.com/lxc/incus/commit/463f3fa0398dea1b11f6f41e7c4896666d51724a)
 - [ ] [<code>incusd/instance_put: Add DiskOnly option and check for mismatching options</code>](https://github.com/lxc/incus/commit/55f9a7d48e91d2b8c29819c16061987113bdf8fb)
@@ -4873,6 +4882,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Move a comment about still image encoding</code>](https://github.com/AOMediaCodec/libavif/commit/fa8db072caa68136e395889da26874a55129ea23)
 - [ ] [<code>codec_aom/avm.c: Add comments about useAllIntra</code>](https://github.com/AOMediaCodec/libavif/commit/89f02da2e7b8f1aaa0c44ea69152f52d096596b1)
 - [ ] [<code>Prevent integer overflow during buffer reallocation</code>](https://github.com/AOMediaCodec/libavif/commit/aa607b352801e860f039eed7294e39e6d14b6198)
+- [ ] [<code>Check tiles in DecRowCount() and not contentToDec (#3012)</code>](https://github.com/AOMediaCodec/libavif/commit/b0d77af2622df5751b2b9202d08110ec682fe336)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5567,6 +5577,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.8 to 1.17.9 in /src/go (#21724)</code>](https://github.com/netdata/netdata.git/commit/907bb1f000f3275f32e4501d333737d036b23107)
 - [ ] [<code>build(deps): bump github.com/prometheus-community/pro-bing from 0.7.0 to 0.8.0 in /src/go (#21725)</code>](https://github.com/netdata/netdata.git/commit/9026d0f1a58f8cf9fdb2f4c167db43f02fcb0af7)
 - [ ] [<code>chore(go.d/snmp): add Westermo Teleindustri to org_to_vendor (#21727)</code>](https://github.com/netdata/netdata.git/commit/2e5d82249bad50aff93a86b3a46a5d53882d441f)
+- [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.1.2 to 1.1.3 in /src/go (#21704)</code>](https://github.com/netdata/netdata.git/commit/ff6ad5772cc864e20034d86902172827fda5c257)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
