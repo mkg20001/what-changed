@@ -330,6 +330,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_buckets_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/13a0d33f45ffcccee7c84eadef2b4e6dffa9b372)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a46a196b07ae4c2046ecb82365e77458ea8b29e8)
 - [ ] [<code>api: direct_backup</code>](https://github.com/lxc/incus/commit/e226cbf1aad7df29ca94cb55676f4558c9508195)
+- [ ] [<code>api: instance_snapshot_disk_only_restore</code>](https://github.com/lxc/incus/commit/06378738728e402cdbaaa626c60105281d03477f)
+- [ ] [<code>shared/api: Add DiskOnly option in InstancePut</code>](https://github.com/lxc/incus/commit/463f3fa0398dea1b11f6f41e7c4896666d51724a)
+- [ ] [<code>incusd/instance_put: Add DiskOnly option and check for mismatching options</code>](https://github.com/lxc/incus/commit/55f9a7d48e91d2b8c29819c16061987113bdf8fb)
+- [ ] [<code>incusd/instance/qemu: Implement disk-only restore logic in qemu driver</code>](https://github.com/lxc/incus/commit/d64172dd5bd3b7439f0c89debdc22b4d7b6f7858)
+- [ ] [<code>incusd/instance/lxc: Implement disk-only restore logic in lxc driver</code>](https://github.com/lxc/incus/commit/18ee2f63431f659e24df6c3948edf1dca41a4622)
+- [ ] [<code>incusd/instance: Adjust interface for diskOnly parameter</code>](https://github.com/lxc/incus/commit/07de76599594ea765e1655c18c044acafca24f99)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d98cb873337371e2033a4089b1a1bdd5a7147c8e)
+- [ ] [<code>client: Check for diskOnly api extension when invoked</code>](https://github.com/lxc/incus/commit/8d8df2958a2a5952ba791a3859e2b960d8db46d4)
+- [ ] [<code>incus/snapshot: Add disk only restore</code>](https://github.com/lxc/incus/commit/fc6906bd757b80514047d577453ea720d133c40c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a58ade1f599a6069e50293388cf6737fc5b377f9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4655,6 +4667,18 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage_buckets_backup: Add direct backup capability</code>](https://github.com/lxc/incus/commit/13a0d33f45ffcccee7c84eadef2b4e6dffa9b372)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/a46a196b07ae4c2046ecb82365e77458ea8b29e8)
 - [ ] [<code>api: direct_backup</code>](https://github.com/lxc/incus/commit/e226cbf1aad7df29ca94cb55676f4558c9508195)
+- [ ] [<code>api: instance_snapshot_disk_only_restore</code>](https://github.com/lxc/incus/commit/06378738728e402cdbaaa626c60105281d03477f)
+- [ ] [<code>shared/api: Add DiskOnly option in InstancePut</code>](https://github.com/lxc/incus/commit/463f3fa0398dea1b11f6f41e7c4896666d51724a)
+- [ ] [<code>incusd/instance_put: Add DiskOnly option and check for mismatching options</code>](https://github.com/lxc/incus/commit/55f9a7d48e91d2b8c29819c16061987113bdf8fb)
+- [ ] [<code>incusd/instance/qemu: Implement disk-only restore logic in qemu driver</code>](https://github.com/lxc/incus/commit/d64172dd5bd3b7439f0c89debdc22b4d7b6f7858)
+- [ ] [<code>incusd/instance/lxc: Implement disk-only restore logic in lxc driver</code>](https://github.com/lxc/incus/commit/18ee2f63431f659e24df6c3948edf1dca41a4622)
+- [ ] [<code>incusd/instance: Adjust interface for diskOnly parameter</code>](https://github.com/lxc/incus/commit/07de76599594ea765e1655c18c044acafca24f99)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d98cb873337371e2033a4089b1a1bdd5a7147c8e)
+- [ ] [<code>client: Check for diskOnly api extension when invoked</code>](https://github.com/lxc/incus/commit/8d8df2958a2a5952ba791a3859e2b960d8db46d4)
+- [ ] [<code>incus/snapshot: Add disk only restore</code>](https://github.com/lxc/incus/commit/fc6906bd757b80514047d577453ea720d133c40c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a58ade1f599a6069e50293388cf6737fc5b377f9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -5539,6 +5563,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Refactor function progress: move timeout and progress authority to the plugin runtime and agent (#21723)</code>](https://github.com/netdata/netdata.git/commit/09cbde151aaafa5d15b9340d10e656aceb4d445f)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-362-nightly.</code>](https://github.com/netdata/netdata.git/commit/426091eeec309b29aef4d5ef2aa92d8872797f50)
+- [ ] [<code>build(deps): bump github.com/ibm-messaging/mq-golang/v5 from 5.7.0 to 5.7.1 in /src/go (#21726)</code>](https://github.com/netdata/netdata.git/commit/a40a5945a57ad56102d9c2ea18e34049b4a1c3a8)
+- [ ] [<code>build(deps): bump go.mongodb.org/mongo-driver from 1.17.8 to 1.17.9 in /src/go (#21724)</code>](https://github.com/netdata/netdata.git/commit/907bb1f000f3275f32e4501d333737d036b23107)
+- [ ] [<code>build(deps): bump github.com/prometheus-community/pro-bing from 0.7.0 to 0.8.0 in /src/go (#21725)</code>](https://github.com/netdata/netdata.git/commit/9026d0f1a58f8cf9fdb2f4c167db43f02fcb0af7)
+- [ ] [<code>chore(go.d/snmp): add Westermo Teleindustri to org_to_vendor (#21727)</code>](https://github.com/netdata/netdata.git/commit/2e5d82249bad50aff93a86b3a46a5d53882d441f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
