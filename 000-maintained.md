@@ -183,8 +183,12 @@
 - [ ] [<code>build: (deps): bump pretty_qr_code from 3.5.0 to 3.6.0</code>](https://github.com/krille-chan/fluffychat/commit/eaa7e8a1fc2bd1975c72152840e043f8cc352de3)
 - [ ] [<code>build: (deps): bump particles_network from 1.9.0 to 1.9.1</code>](https://github.com/krille-chan/fluffychat/commit/4b1970d613aa7fa718ea7910759c24b675fc408f)
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
+- [ ] [<code>fix: get correct aspect ratio from VideoPlayerController</code>](https://github.com/krille-chan/fluffychat/commit/0c7c8f8d5a122f7ca05cb2cdf0edcd77a000ae03)
 - [ ] [<code>build: Update to matrix 6.1.0</code>](https://github.com/krille-chan/fluffychat/commit/2a390db509f0e535b0d60038bf88ab5c7273a63a)
 - [ ] [<code>build: (deps): bump flutter_local_notifications from 19.5.0 to 20.0.0</code>](https://github.com/krille-chan/fluffychat/commit/49003af9498ab34ef489aa0aff04418323c80e7b)
+- [ ] [<code>build: bump aws-sdk-s3 in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/ab2592bdef2daa72445d1b2841de3dfed0d756c4)
+- [ ] [<code>build: (deps): bump go_router from 17.0.1 to 17.1.0</code>](https://github.com/krille-chan/fluffychat/commit/abea52d4d72f384247e9efe8de08beca8a1bb0a1)
+- [ ] [<code>build: (deps): bump matrix from 6.1.0 to 6.1.1</code>](https://github.com/krille-chan/fluffychat/commit/d052b5385d37ec89088247122f53657f9fc6f2fa)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -243,8 +247,12 @@
 - [ ] [<code>build: (deps): bump pretty_qr_code from 3.5.0 to 3.6.0</code>](https://github.com/krille-chan/fluffychat/commit/eaa7e8a1fc2bd1975c72152840e043f8cc352de3)
 - [ ] [<code>build: (deps): bump particles_network from 1.9.0 to 1.9.1</code>](https://github.com/krille-chan/fluffychat/commit/4b1970d613aa7fa718ea7910759c24b675fc408f)
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
+- [ ] [<code>fix: get correct aspect ratio from VideoPlayerController</code>](https://github.com/krille-chan/fluffychat/commit/0c7c8f8d5a122f7ca05cb2cdf0edcd77a000ae03)
 - [ ] [<code>build: Update to matrix 6.1.0</code>](https://github.com/krille-chan/fluffychat/commit/2a390db509f0e535b0d60038bf88ab5c7273a63a)
 - [ ] [<code>build: (deps): bump flutter_local_notifications from 19.5.0 to 20.0.0</code>](https://github.com/krille-chan/fluffychat/commit/49003af9498ab34ef489aa0aff04418323c80e7b)
+- [ ] [<code>build: bump aws-sdk-s3 in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/ab2592bdef2daa72445d1b2841de3dfed0d756c4)
+- [ ] [<code>build: (deps): bump go_router from 17.0.1 to 17.1.0</code>](https://github.com/krille-chan/fluffychat/commit/abea52d4d72f384247e9efe8de08beca8a1bb0a1)
+- [ ] [<code>build: (deps): bump matrix from 6.1.0 to 6.1.1</code>](https://github.com/krille-chan/fluffychat/commit/d052b5385d37ec89088247122f53657f9fc6f2fa)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -348,6 +356,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a58ade1f599a6069e50293388cf6737fc5b377f9)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage: Prevent moving shared storage volumes</code>](https://github.com/lxc/incus/commit/a5e48412a31e3fe9eb54c91f5f0313352c49ea40)
+- [ ] [<code>incus/image: Add generate-metadata</code>](https://github.com/lxc/incus/commit/eccf85df364ecc014a78663dae23d49ace9f24ac)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/55286bf852d3e8ad38a9eb0657c463e591e5a7ae)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc: Update incus-migrate documentation</code>](https://github.com/lxc/incus/commit/3496d3eb36fe0c96722535dc7de5eb31bdf2f797)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4690,6 +4703,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a58ade1f599a6069e50293388cf6737fc5b377f9)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>incusd/storage: Prevent moving shared storage volumes</code>](https://github.com/lxc/incus/commit/a5e48412a31e3fe9eb54c91f5f0313352c49ea40)
+- [ ] [<code>incus/image: Add generate-metadata</code>](https://github.com/lxc/incus/commit/eccf85df364ecc014a78663dae23d49ace9f24ac)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/55286bf852d3e8ad38a9eb0657c463e591e5a7ae)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>doc: Update incus-migrate documentation</code>](https://github.com/lxc/incus/commit/3496d3eb36fe0c96722535dc7de5eb31bdf2f797)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4888,6 +4906,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Prevent integer overflow in image grid validation</code>](https://github.com/AOMediaCodec/libavif/commit/44a9df9b2d367021ac1d110b8f0cfa94f7569401)
 - [ ] [<code>Add asserts before memcpy during extent merge</code>](https://github.com/AOMediaCodec/libavif/commit/afdcd4887248837625bdca51c20aae2b581d420e)
 - [ ] [<code>Prevent integer overflow when doubling capacity</code>](https://github.com/AOMediaCodec/libavif/commit/ff6541d72876ec012d21d6884e2a055cc8da6176)
+- [ ] [<code>Try to improve cargo-c caching on Windows Visual Studio 2017 (#3021)</code>](https://github.com/AOMediaCodec/libavif/commit/3b31ea001b51ca6089423fa775a18316c90abccd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Adapt avm seq_profile to PROFILE_BITS (#3022)</code>](https://github.com/AOMediaCodec/libavif/commit/3a6522dabdf3aa44506558cf25a8023648bd10e2)
+- [ ] [<code>Restore the cache before installing packages. (#3023)</code>](https://github.com/AOMediaCodec/libavif/commit/c848cde7ff2e5fb94decd6d1a5c5e7c2285989fb)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5584,6 +5606,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go.d/snmp): add Westermo Teleindustri to org_to_vendor (#21727)</code>](https://github.com/netdata/netdata.git/commit/2e5d82249bad50aff93a86b3a46a5d53882d441f)
 - [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.1.2 to 1.1.3 in /src/go (#21704)</code>](https://github.com/netdata/netdata.git/commit/ff6ad5772cc864e20034d86902172827fda5c257)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-368-nightly.</code>](https://github.com/netdata/netdata.git/commit/193b9d1eb9696d98bba55fa74d455be3c9c0a26f)
+- [ ] [<code>Update view-plan-and-billing.md (#21728)</code>](https://github.com/netdata/netdata.git/commit/c88a5c2c3ffb1d1500644df8a01a0294bcbb7e1d)
+- [ ] [<code>Fix handling of LZ4 dependency version. (#21669)</code>](https://github.com/netdata/netdata.git/commit/348030fe9d7faa075404ad89cb079129e7fc3cbc)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>go.d/sd: enable dyncfg integration and update config format (#21730)</code>](https://github.com/netdata/netdata.git/commit/be56b5de5c30d7dd9f997eaa1f0c8747e14eafe6)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8305,6 +8332,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Updated MacOS build to use cx_Freeze (#8872)</code>](https://github.com/tribler/Tribler/commit/d6897601acc062b49faa65e03dbfb088c2b14700)
 - [ ] [<code>Updated IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/fc13d2f075c97d734120ffd3f98738bfad891084)
 - [ ] [<code>Updated IPv8 pointer (#8873)</code>](https://github.com/tribler/Tribler/commit/aa4d42f666ea07116be39e8c95185a04e2f3dc7d)
+- [ ] [<code>Store source of health in the database</code>](https://github.com/tribler/Tribler/commit/2d71c325ee1b704c61a82c7a71c4e163b2089c3e)
+- [ ] [<code>Support multiple trackers in TorrentMetadata</code>](https://github.com/tribler/Tribler/commit/f79024f07f4558305edc1a234f17e60b679857d5)
+- [ ] [<code>Add payloads that support gossiping trackers</code>](https://github.com/tribler/Tribler/commit/0d306baae8154e1ec1a6cb3a80539f99ad9fd42b)
+- [ ] [<code>Debug screen for health history</code>](https://github.com/tribler/Tribler/commit/2cddfe8a982ba10026776836855e32870b5779b5)
+- [ ] [<code>Gossip trackers (#8875)</code>](https://github.com/tribler/Tribler/commit/5cbbc0bcbe3a4a9971b648b1e395e838b13807c9)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
