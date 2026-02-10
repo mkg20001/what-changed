@@ -347,6 +347,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a58ade1f599a6069e50293388cf6737fc5b377f9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage: Prevent moving shared storage volumes</code>](https://github.com/lxc/incus/commit/a5e48412a31e3fe9eb54c91f5f0313352c49ea40)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4688,6 +4689,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/a58ade1f599a6069e50293388cf6737fc5b377f9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd/storage: Prevent moving shared storage volumes</code>](https://github.com/lxc/incus/commit/a5e48412a31e3fe9eb54c91f5f0313352c49ea40)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -4883,6 +4885,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>codec_aom/avm.c: Add comments about useAllIntra</code>](https://github.com/AOMediaCodec/libavif/commit/89f02da2e7b8f1aaa0c44ea69152f52d096596b1)
 - [ ] [<code>Prevent integer overflow during buffer reallocation</code>](https://github.com/AOMediaCodec/libavif/commit/aa607b352801e860f039eed7294e39e6d14b6198)
 - [ ] [<code>Check tiles in DecRowCount() and not contentToDec (#3012)</code>](https://github.com/AOMediaCodec/libavif/commit/b0d77af2622df5751b2b9202d08110ec682fe336)
+- [ ] [<code>Prevent integer overflow in image grid validation</code>](https://github.com/AOMediaCodec/libavif/commit/44a9df9b2d367021ac1d110b8f0cfa94f7569401)
+- [ ] [<code>Add asserts before memcpy during extent merge</code>](https://github.com/AOMediaCodec/libavif/commit/afdcd4887248837625bdca51c20aae2b581d420e)
+- [ ] [<code>Prevent integer overflow when doubling capacity</code>](https://github.com/AOMediaCodec/libavif/commit/ff6541d72876ec012d21d6884e2a055cc8da6176)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5578,6 +5583,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/prometheus-community/pro-bing from 0.7.0 to 0.8.0 in /src/go (#21725)</code>](https://github.com/netdata/netdata.git/commit/9026d0f1a58f8cf9fdb2f4c167db43f02fcb0af7)
 - [ ] [<code>chore(go.d/snmp): add Westermo Teleindustri to org_to_vendor (#21727)</code>](https://github.com/netdata/netdata.git/commit/2e5d82249bad50aff93a86b3a46a5d53882d441f)
 - [ ] [<code>build(deps): bump github.com/lmittmann/tint from 1.1.2 to 1.1.3 in /src/go (#21704)</code>](https://github.com/netdata/netdata.git/commit/ff6ad5772cc864e20034d86902172827fda5c257)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-368-nightly.</code>](https://github.com/netdata/netdata.git/commit/193b9d1eb9696d98bba55fa74d455be3c9c0a26f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
