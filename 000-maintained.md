@@ -189,6 +189,7 @@
 - [ ] [<code>build: bump aws-sdk-s3 in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/ab2592bdef2daa72445d1b2841de3dfed0d756c4)
 - [ ] [<code>build: (deps): bump go_router from 17.0.1 to 17.1.0</code>](https://github.com/krille-chan/fluffychat/commit/abea52d4d72f384247e9efe8de08beca8a1bb0a1)
 - [ ] [<code>build: (deps): bump matrix from 6.1.0 to 6.1.1</code>](https://github.com/krille-chan/fluffychat/commit/d052b5385d37ec89088247122f53657f9fc6f2fa)
+- [ ] [<code>fix: Join room by alias even if not found</code>](https://github.com/krille-chan/fluffychat/commit/58351535aea1380cedfc02d31ef482120f552785)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -253,6 +254,7 @@
 - [ ] [<code>build: bump aws-sdk-s3 in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/ab2592bdef2daa72445d1b2841de3dfed0d756c4)
 - [ ] [<code>build: (deps): bump go_router from 17.0.1 to 17.1.0</code>](https://github.com/krille-chan/fluffychat/commit/abea52d4d72f384247e9efe8de08beca8a1bb0a1)
 - [ ] [<code>build: (deps): bump matrix from 6.1.0 to 6.1.1</code>](https://github.com/krille-chan/fluffychat/commit/d052b5385d37ec89088247122f53657f9fc6f2fa)
+- [ ] [<code>fix: Join room by alias even if not found</code>](https://github.com/krille-chan/fluffychat/commit/58351535aea1380cedfc02d31ef482120f552785)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4922,6 +4924,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Adapt avm seq_profile to PROFILE_BITS (#3022)</code>](https://github.com/AOMediaCodec/libavif/commit/3a6522dabdf3aa44506558cf25a8023648bd10e2)
 - [ ] [<code>Restore the cache before installing packages. (#3023)</code>](https://github.com/AOMediaCodec/libavif/commit/c848cde7ff2e5fb94decd6d1a5c5e7c2285989fb)
+- [ ] [<code>Remove TODO about AUTO and AVM (#3027)</code>](https://github.com/AOMediaCodec/libavif/commit/10c329455f7492084cfce56b5c267aec0ae1136a)
+- [ ] [<code>Remove TODO about alpha ispe check (#3016)</code>](https://github.com/AOMediaCodec/libavif/commit/494a5a33e096acfae909f4b3c0b450f5027297a4)
+- [ ] [<code>Remove TODO about applying infe flags (#3015)</code>](https://github.com/AOMediaCodec/libavif/commit/6b6567f1477b6286a7017129b4f30701f64b0544)
+- [ ] [<code>Remove TODO about backward-incompatible sato (#3014)</code>](https://github.com/AOMediaCodec/libavif/commit/54eac0f95c7550ce15a1af3c81542604a40650d0)
+- [ ] [<code>Implement TODO about gain maps in are_images_equal (#3028)</code>](https://github.com/AOMediaCodec/libavif/commit/bf7c6e3fc33a3f06ada1b53d821c0c766319feaa)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5625,6 +5632,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>go.d/sd: enable dyncfg integration and update config format (#21730)</code>](https://github.com/netdata/netdata.git/commit/be56b5de5c30d7dd9f997eaa1f0c8747e14eafe6)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-372-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3f01d475b3c415601d0312c44d1deafa604e0fe)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Reinstate systemd-journal plugin. (#21729)</code>](https://github.com/netdata/netdata.git/commit/1c0787be6b109087f6f10cbc2acf7352fdc4ca76)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Improve synchronization of dyncfg generated alert configurations to cloud (#21706)</code>](https://github.com/netdata/netdata.git/commit/39a7a68db1f223983bcb7faa98657db34c2f3ec5)
+- [ ] [<code>Format workspace with `cargo fmt` (#21733)</code>](https://github.com/netdata/netdata.git/commit/1528f3d72032e42cc75ab20e6d62c3da60ee7a42)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
