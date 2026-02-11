@@ -361,6 +361,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/55286bf852d3e8ad38a9eb0657c463e591e5a7ae)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: Update incus-migrate documentation</code>](https://github.com/lxc/incus/commit/3496d3eb36fe0c96722535dc7de5eb31bdf2f797)
+- [ ] [<code>incusd: Validate that instance can be migrated</code>](https://github.com/lxc/incus/commit/83edce68d51e89428417a2536f3ae92af01350f3)
+- [ ] [<code>incusd/instance/drivers: Add writable argument to NBDBlockExportAdd</code>](https://github.com/lxc/incus/commit/87d4380fd85ef6dd1201f8b69fef59ba5327654d)
+- [ ] [<code>incusd/instance/drivers/qmp: Add NBDUnixServerStart</code>](https://github.com/lxc/incus/commit/76fb4423ee9a217d0f680d184f18dd2fa131a197)
+- [ ] [<code>incusd/instance: Add ExportQcow2Disk</code>](https://github.com/lxc/incus/commit/356889a52e3aa72bf8a8b21613b4b49d06f6c7ec)
+- [ ] [<code>incusd/storage: Support live migration of qcow2 volumes</code>](https://github.com/lxc/incus/commit/d28d49e020e179ca69dd92cab5ffda774014c6fb)
+- [ ] [<code>doc: Add information about lvmcluster limitations</code>](https://github.com/lxc/incus/commit/2ca7d816411f37304684543d1f2b4f64655dfd26)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4708,6 +4714,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/55286bf852d3e8ad38a9eb0657c463e591e5a7ae)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>doc: Update incus-migrate documentation</code>](https://github.com/lxc/incus/commit/3496d3eb36fe0c96722535dc7de5eb31bdf2f797)
+- [ ] [<code>incusd: Validate that instance can be migrated</code>](https://github.com/lxc/incus/commit/83edce68d51e89428417a2536f3ae92af01350f3)
+- [ ] [<code>incusd/instance/drivers: Add writable argument to NBDBlockExportAdd</code>](https://github.com/lxc/incus/commit/87d4380fd85ef6dd1201f8b69fef59ba5327654d)
+- [ ] [<code>incusd/instance/drivers/qmp: Add NBDUnixServerStart</code>](https://github.com/lxc/incus/commit/76fb4423ee9a217d0f680d184f18dd2fa131a197)
+- [ ] [<code>incusd/instance: Add ExportQcow2Disk</code>](https://github.com/lxc/incus/commit/356889a52e3aa72bf8a8b21613b4b49d06f6c7ec)
+- [ ] [<code>incusd/storage: Support live migration of qcow2 volumes</code>](https://github.com/lxc/incus/commit/d28d49e020e179ca69dd92cab5ffda774014c6fb)
+- [ ] [<code>doc: Add information about lvmcluster limitations</code>](https://github.com/lxc/incus/commit/2ca7d816411f37304684543d1f2b4f64655dfd26)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
@@ -5611,6 +5623,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>go.d/sd: enable dyncfg integration and update config format (#21730)</code>](https://github.com/netdata/netdata.git/commit/be56b5de5c30d7dd9f997eaa1f0c8747e14eafe6)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-372-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3f01d475b3c415601d0312c44d1deafa604e0fe)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
