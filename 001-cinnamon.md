@@ -86,6 +86,8 @@
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.2...HEAD)
 
+- [ ] [<code>.github/workflows: Update build.yml with generate-test-packages.</code>](https://github.com/linuxmint/cinnamon-session/commit/43587a77fd543583070ce52c15983453555da94e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
