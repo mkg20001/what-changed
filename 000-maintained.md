@@ -4929,6 +4929,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove TODO about applying infe flags (#3015)</code>](https://github.com/AOMediaCodec/libavif/commit/6b6567f1477b6286a7017129b4f30701f64b0544)
 - [ ] [<code>Remove TODO about backward-incompatible sato (#3014)</code>](https://github.com/AOMediaCodec/libavif/commit/54eac0f95c7550ce15a1af3c81542604a40650d0)
 - [ ] [<code>Implement TODO about gain maps in are_images_equal (#3028)</code>](https://github.com/AOMediaCodec/libavif/commit/bf7c6e3fc33a3f06ada1b53d821c0c766319feaa)
+- [ ] [<code>Only read non-primary and same-altr sato items (#3017)</code>](https://github.com/AOMediaCodec/libavif/commit/de93fdb904c4c196985fad96d86d6b3ec09e60db)
+- [ ] [<code>Add parse-only fuzz target (#3019)</code>](https://github.com/AOMediaCodec/libavif/commit/1747ee096653fdb09a3f991bbc9de647cf67af1d)
+- [ ] [<code>Remove out-of-date or unlikely to be fixed TODOs (#3024)</code>](https://github.com/AOMediaCodec/libavif/commit/965d621b64c3fd062465060b42115054ae18a608)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5637,6 +5641,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Improve synchronization of dyncfg generated alert configurations to cloud (#21706)</code>](https://github.com/netdata/netdata.git/commit/39a7a68db1f223983bcb7faa98657db34c2f3ec5)
 - [ ] [<code>Format workspace with `cargo fmt` (#21733)</code>](https://github.com/netdata/netdata.git/commit/1528f3d72032e42cc75ab20e6d62c3da60ee7a42)
+- [ ] [<code>Fix SIGSEGV in dbengine extent flush due to unacquired UUID reference (#21667)</code>](https://github.com/netdata/netdata.git/commit/c2df2da48554d168db4dd4ab540847daf3527dea)
+- [ ] [<code>Remove redundant operations from event loops (#21657)</code>](https://github.com/netdata/netdata.git/commit/c35a8dd42daadac43eaacd7ffae43024b5971982)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-378-nightly.</code>](https://github.com/netdata/netdata.git/commit/18fe4929984de4070f23d0b356315fad9a472409)
+- [ ] [<code>Improve cgroups.plugin discoverability with per-technology modules (#21737)</code>](https://github.com/netdata/netdata.git/commit/9ffd16e253a379da3c61682c34b95b1e5dbeff91)
+- [ ] [<code>Add missing type = api to streaming parent config examples (#21739)</code>](https://github.com/netdata/netdata.git/commit/b41cd871e874765e693fed4403ed027a9ecea7e2)
+- [ ] [<code>Regenerate integrations docs (#21738)</code>](https://github.com/netdata/netdata.git/commit/78ec2eddbdc03601359a750c421f9090c8a0ec46)
+- [ ] [<code>Fix cgroups.plugin supported_platforms to Linux only (#21740)</code>](https://github.com/netdata/netdata.git/commit/a62f8c8851c438041427d59a68d89c0281888e1e)
+- [ ] [<code>Regenerate integrations docs (#21741)</code>](https://github.com/netdata/netdata.git/commit/67fcba470d8c25f39ef0e83ad7f25ba223139540)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8363,6 +8375,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add payloads that support gossiping trackers</code>](https://github.com/tribler/Tribler/commit/0d306baae8154e1ec1a6cb3a80539f99ad9fd42b)
 - [ ] [<code>Debug screen for health history</code>](https://github.com/tribler/Tribler/commit/2cddfe8a982ba10026776836855e32870b5779b5)
 - [ ] [<code>Gossip trackers (#8875)</code>](https://github.com/tribler/Tribler/commit/5cbbc0bcbe3a4a9971b648b1e395e838b13807c9)
+- [ ] [<code>Miscellaneous GUI warning fixes</code>](https://github.com/tribler/Tribler/commit/04f2268ad8f07f776431df22067a39b1dbc568a7)
+- [ ] [<code>Miscellaneous GUI warning fixes (#8877)</code>](https://github.com/tribler/Tribler/commit/cdac58b33d0458e294b14d5cb68926ec1162da00)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
