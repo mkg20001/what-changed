@@ -369,6 +369,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance: Add ExportQcow2Disk</code>](https://github.com/lxc/incus/commit/356889a52e3aa72bf8a8b21613b4b49d06f6c7ec)
 - [ ] [<code>incusd/storage: Support live migration of qcow2 volumes</code>](https://github.com/lxc/incus/commit/d28d49e020e179ca69dd92cab5ffda774014c6fb)
 - [ ] [<code>doc: Add information about lvmcluster limitations</code>](https://github.com/lxc/incus/commit/2ca7d816411f37304684543d1f2b4f64655dfd26)
+- [ ] [<code>incusd/instance: Add QCOW2 live migration support for instances with snapshots</code>](https://github.com/lxc/incus/commit/01f1702e9fffdb8b1ad0cd53aa98e9342da6951a)
+- [ ] [<code>incusd/storage: Add QCOW2 live migration support for instances with snapshots</code>](https://github.com/lxc/incus/commit/63a91a126dc960e9e08d26895b94e3ebed08488c)
+- [ ] [<code>incusd: Remove ensureMigratable as checks are no longer valid</code>](https://github.com/lxc/incus/commit/0065387fb1a5291177374033a0c8c72c5863d671)
+- [ ] [<code>doc: Remove outdated doc about live QCOW2 migration limitation</code>](https://github.com/lxc/incus/commit/27ab629c3532dfa86b8771b801ee3138e1fac2a4)
+- [ ] [<code>incusd/instance/drivers: Propagate live migration information</code>](https://github.com/lxc/incus/commit/aaa1b2bea1a1f653194605b78d1caab00e31b0b4)
+- [ ] [<code>incusd/storage: Skip final filesystem sync for VMs during migration</code>](https://github.com/lxc/incus/commit/e43dd3ce26dd4ce101ba297fc09f7196e3c99ee9)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4722,9 +4728,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance: Add ExportQcow2Disk</code>](https://github.com/lxc/incus/commit/356889a52e3aa72bf8a8b21613b4b49d06f6c7ec)
 - [ ] [<code>incusd/storage: Support live migration of qcow2 volumes</code>](https://github.com/lxc/incus/commit/d28d49e020e179ca69dd92cab5ffda774014c6fb)
 - [ ] [<code>doc: Add information about lvmcluster limitations</code>](https://github.com/lxc/incus/commit/2ca7d816411f37304684543d1f2b4f64655dfd26)
+- [ ] [<code>incusd/instance: Add QCOW2 live migration support for instances with snapshots</code>](https://github.com/lxc/incus/commit/01f1702e9fffdb8b1ad0cd53aa98e9342da6951a)
+- [ ] [<code>incusd/storage: Add QCOW2 live migration support for instances with snapshots</code>](https://github.com/lxc/incus/commit/63a91a126dc960e9e08d26895b94e3ebed08488c)
+- [ ] [<code>incusd: Remove ensureMigratable as checks are no longer valid</code>](https://github.com/lxc/incus/commit/0065387fb1a5291177374033a0c8c72c5863d671)
+- [ ] [<code>doc: Remove outdated doc about live QCOW2 migration limitation</code>](https://github.com/lxc/incus/commit/27ab629c3532dfa86b8771b801ee3138e1fac2a4)
+- [ ] [<code>incusd/instance/drivers: Propagate live migration information</code>](https://github.com/lxc/incus/commit/aaa1b2bea1a1f653194605b78d1caab00e31b0b4)
+- [ ] [<code>incusd/storage: Skip final filesystem sync for VMs during migration</code>](https://github.com/lxc/incus/commit/e43dd3ce26dd4ce101ba297fc09f7196e3c99ee9)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
+- [ ] [<code>Limit OS view log entries to 200</code>](https://github.com/zabbly/incus-ui-canonical/commit/ec0b2b46ff69398f6d9564a2a9a276672a711e75)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5649,6 +5662,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21738)</code>](https://github.com/netdata/netdata.git/commit/78ec2eddbdc03601359a750c421f9090c8a0ec46)
 - [ ] [<code>Fix cgroups.plugin supported_platforms to Linux only (#21740)</code>](https://github.com/netdata/netdata.git/commit/a62f8c8851c438041427d59a68d89c0281888e1e)
 - [ ] [<code>Regenerate integrations docs (#21741)</code>](https://github.com/netdata/netdata.git/commit/67fcba470d8c25f39ef0e83ad7f25ba223139540)
+- [ ] [<code>Fix crash in plugin function callback (#21713)</code>](https://github.com/netdata/netdata.git/commit/a56ad2c5a3606e494476dceef09dde6d7a07f1bc)
+- [ ] [<code>Remove unused crates. (#21735)</code>](https://github.com/netdata/netdata.git/commit/95a9d02f67bc04e90a63165882990488b61daa2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-386-nightly.</code>](https://github.com/netdata/netdata.git/commit/9f57ef65131b1e9ae682a0d16b790b6a1624c2ea)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
