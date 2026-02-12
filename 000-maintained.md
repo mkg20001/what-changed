@@ -4946,6 +4946,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add parse-only fuzz target (#3019)</code>](https://github.com/AOMediaCodec/libavif/commit/1747ee096653fdb09a3f991bbc9de647cf67af1d)
 - [ ] [<code>Remove out-of-date or unlikely to be fixed TODOs (#3024)</code>](https://github.com/AOMediaCodec/libavif/commit/965d621b64c3fd062465060b42115054ae18a608)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fail fuzzing on AVIF_RESULT_INTERNAL_ERROR (#3020)</code>](https://github.com/AOMediaCodec/libavif/commit/a527905d2823f5c89aa574ffd9ffc50b43dcd469)
+- [ ] [<code>Enable test IoStatsTest.AnimationObuSize (#3031)</code>](https://github.com/AOMediaCodec/libavif/commit/0a8ca7b1da2981ad8d0d667f97329ea7798402f5)
+- [ ] [<code>Fix avifCodec::csOptions comment (#3030)</code>](https://github.com/AOMediaCodec/libavif/commit/31ca095d91d22b121f04d735b35e4e5f6c693a15)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6482,6 +6485,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>CI: downgrade to systemd 248 (from 258) for tests on Noble</code>](https://github.com/canonical/netplan/commit/365e2344dc170c2c5ef6b68283b93b1fd13505ff)
 - [ ] [<code>Use io.StringIO() instead of tempfile.TemporaryFile()</code>](https://github.com/canonical/netplan/commit/f758e3f6415aa68b7cf28991bc5b3e9631297d6d)
   - <sub>Tags: <code>1.2.1</code></sub>
+- [ ] [<code>generate: sriov: execute udev rules before starting sriov apply service</code>](https://github.com/canonical/netplan/commit/09402c69d158362745f55545e71836dc10935fdf)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip', 'urls': ['https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -8394,6 +8398,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Gossip trackers (#8875)</code>](https://github.com/tribler/Tribler/commit/5cbbc0bcbe3a4a9971b648b1e395e838b13807c9)
 - [ ] [<code>Miscellaneous GUI warning fixes</code>](https://github.com/tribler/Tribler/commit/04f2268ad8f07f776431df22067a39b1dbc568a7)
 - [ ] [<code>Miscellaneous GUI warning fixes (#8877)</code>](https://github.com/tribler/Tribler/commit/cdac58b33d0458e294b14d5cb68926ec1162da00)
+- [ ] [<code>Prefetch trackers</code>](https://github.com/tribler/Tribler/commit/704054b47ea6e7e652d569a724690705fa0fc49d)
+- [ ] [<code>Add TorrentMetadataPayload.tracker_info to db</code>](https://github.com/tribler/Tribler/commit/346100b711dd82407889b5ab04a782ae5b87298c)
+- [ ] [<code>Prefetch trackers (#8878)</code>](https://github.com/tribler/Tribler/commit/012ddc77a52c0b8c341b54941c297530bbb1c092)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
