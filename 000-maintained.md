@@ -190,6 +190,8 @@
 - [ ] [<code>build: (deps): bump go_router from 17.0.1 to 17.1.0</code>](https://github.com/krille-chan/fluffychat/commit/abea52d4d72f384247e9efe8de08beca8a1bb0a1)
 - [ ] [<code>build: (deps): bump matrix from 6.1.0 to 6.1.1</code>](https://github.com/krille-chan/fluffychat/commit/d052b5385d37ec89088247122f53657f9fc6f2fa)
 - [ ] [<code>fix: Join room by alias even if not found</code>](https://github.com/krille-chan/fluffychat/commit/58351535aea1380cedfc02d31ef482120f552785)
+- [ ] [<code>build: (deps): bump particles_network from 1.9.1 to 1.9.3</code>](https://github.com/krille-chan/fluffychat/commit/8ef3dfd360aedd4ee86dfb8f4aa956cf10ab122a)
+- [ ] [<code>build: bump faraday in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/7d4fdb60f7db0ab80111d5151ba29a04c615568f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -255,6 +257,8 @@
 - [ ] [<code>build: (deps): bump go_router from 17.0.1 to 17.1.0</code>](https://github.com/krille-chan/fluffychat/commit/abea52d4d72f384247e9efe8de08beca8a1bb0a1)
 - [ ] [<code>build: (deps): bump matrix from 6.1.0 to 6.1.1</code>](https://github.com/krille-chan/fluffychat/commit/d052b5385d37ec89088247122f53657f9fc6f2fa)
 - [ ] [<code>fix: Join room by alias even if not found</code>](https://github.com/krille-chan/fluffychat/commit/58351535aea1380cedfc02d31ef482120f552785)
+- [ ] [<code>build: (deps): bump particles_network from 1.9.1 to 1.9.3</code>](https://github.com/krille-chan/fluffychat/commit/8ef3dfd360aedd4ee86dfb8f4aa956cf10ab122a)
+- [ ] [<code>build: bump faraday in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/7d4fdb60f7db0ab80111d5151ba29a04c615568f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -375,6 +379,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Remove outdated doc about live QCOW2 migration limitation</code>](https://github.com/lxc/incus/commit/27ab629c3532dfa86b8771b801ee3138e1fac2a4)
 - [ ] [<code>incusd/instance/drivers: Propagate live migration information</code>](https://github.com/lxc/incus/commit/aaa1b2bea1a1f653194605b78d1caab00e31b0b4)
 - [ ] [<code>incusd/storage: Skip final filesystem sync for VMs during migration</code>](https://github.com/lxc/incus/commit/e43dd3ce26dd4ce101ba297fc09f7196e3c99ee9)
+- [ ] [<code>doc/requirements: Bump minimal requirements</code>](https://github.com/lxc/incus/commit/2da034d1c768b53312a742cd4189923aad3655e3)
+- [ ] [<code>Validate requested storage pool during instance migration</code>](https://github.com/lxc/incus/commit/af8f62bf9964e2791b47fc3d4f08d6eb974d4703)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4734,10 +4740,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Remove outdated doc about live QCOW2 migration limitation</code>](https://github.com/lxc/incus/commit/27ab629c3532dfa86b8771b801ee3138e1fac2a4)
 - [ ] [<code>incusd/instance/drivers: Propagate live migration information</code>](https://github.com/lxc/incus/commit/aaa1b2bea1a1f653194605b78d1caab00e31b0b4)
 - [ ] [<code>incusd/storage: Skip final filesystem sync for VMs during migration</code>](https://github.com/lxc/incus/commit/e43dd3ce26dd4ce101ba297fc09f7196e3c99ee9)
+- [ ] [<code>doc/requirements: Bump minimal requirements</code>](https://github.com/lxc/incus/commit/2da034d1c768b53312a742cd4189923aad3655e3)
+- [ ] [<code>Validate requested storage pool during instance migration</code>](https://github.com/lxc/incus/commit/af8f62bf9964e2791b47fc3d4f08d6eb974d4703)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
 
 - [ ] [<code>Limit OS view log entries to 200</code>](https://github.com/zabbly/incus-ui-canonical/commit/ec0b2b46ff69398f6d9564a2a9a276672a711e75)
+- [ ] [<code>Improve error handling for OS views</code>](https://github.com/zabbly/incus-ui-canonical/commit/96f548bb5606104d4a25889634fd570b420679b9)
+- [ ] [<code>Improve instance copy handling</code>](https://github.com/zabbly/incus-ui-canonical/commit/c12dff6693e7698eb31a3311f459f666138fb2da)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -4949,6 +4959,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fail fuzzing on AVIF_RESULT_INTERNAL_ERROR (#3020)</code>](https://github.com/AOMediaCodec/libavif/commit/a527905d2823f5c89aa574ffd9ffc50b43dcd469)
 - [ ] [<code>Enable test IoStatsTest.AnimationObuSize (#3031)</code>](https://github.com/AOMediaCodec/libavif/commit/0a8ca7b1da2981ad8d0d667f97329ea7798402f5)
 - [ ] [<code>Fix avifCodec::csOptions comment (#3030)</code>](https://github.com/AOMediaCodec/libavif/commit/31ca095d91d22b121f04d735b35e4e5f6c693a15)
+- [ ] [<code>Disable Sample Transform decoding by default (#3018)</code>](https://github.com/AOMediaCodec/libavif/commit/35e290d313bfd60267747cce6e0a1217a3ac7304)
+- [ ] [<code>Remove unnecessary fuzztest:: in fuzz_dec_incr (#3036)</code>](https://github.com/AOMediaCodec/libavif/commit/001d8d49e8a6950acee41b1358e474406438c0b8)
+- [ ] [<code>Fix typo in OnlySampleTranformContentToDecode (#3037)</code>](https://github.com/AOMediaCodec/libavif/commit/fb07042b9297fa66dec74ced17a057d02a608131)
+- [ ] [<code>Correct a misspelled word "exercizes"</code>](https://github.com/AOMediaCodec/libavif/commit/37dc20bca104cbc58bccde56b4f804b1ad4c6f06)
+- [ ] [<code>Move the avifCodecSpecificOptionsClear() call</code>](https://github.com/AOMediaCodec/libavif/commit/abb65162136c6e2cc192adbf45cf1d25533683b0)
+- [ ] [<code>Fix the CICP for BT.709 SDR and BT.2100 HLG</code>](https://github.com/AOMediaCodec/libavif/commit/3e30bc64e790d4839f43a236070c5654828bf11f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5669,6 +5685,28 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove unused crates. (#21735)</code>](https://github.com/netdata/netdata.git/commit/95a9d02f67bc04e90a63165882990488b61daa2a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-386-nightly.</code>](https://github.com/netdata/netdata.git/commit/9f57ef65131b1e9ae682a0d16b790b6a1624c2ea)
+- [ ] [<code>Fix the yaml map (#21743)</code>](https://github.com/netdata/netdata.git/commit/2e04a706fdebd05008fef69cd8baf5d1b24c9256)
+- [ ] [<code>go.d: add dcgm-exporter collector with full field classification (#21721)</code>](https://github.com/netdata/netdata.git/commit/8b3ede3ef3617d38ffce5226d849554ef4c3ba9a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21744)</code>](https://github.com/netdata/netdata.git/commit/3ab79d235398a51d3bbfc14df2b40c9d47531e9b)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat: Adds Netdata Cloud MCP server docs (#21736)</code>](https://github.com/netdata/netdata.git/commit/e08c95d74ca703b6d1dbd1d009e916c2fa90a07e)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>nagios plugin support (#21294)</code>](https://github.com/netdata/netdata.git/commit/919dc395c9aca18677f188f114b7bee9ad5f2eac)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>allow for empty categories with items (#21745)</code>](https://github.com/netdata/netdata.git/commit/e4a2b7361168493e265b28c1d7e0061ed8a79447)
+- [ ] [<code>Update docs to reference Cloud MCP alongside Agent/Parent MCP (#21746)</code>](https://github.com/netdata/netdata.git/commit/2c9456ab5ea702c8f3de5c4d70479b4772daeb0c)
+- [ ] [<code>Update MCP Registry entry with Cloud MCP endpoint (#21747)</code>](https://github.com/netdata/netdata.git/commit/a2174fe53210e6e97f126cc92579f9f473b66bd1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Restructure integration categories, fix related_resources, add guides (#21742)</code>](https://github.com/netdata/netdata.git/commit/bf3843d3781235719157977228ec1f0c3643b5a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21748)</code>](https://github.com/netdata/netdata.git/commit/ebc664a57bc730657da769992d5cc05327739ebe)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix MDX build errors in integration docs and regenerate (#21749)</code>](https://github.com/netdata/netdata.git/commit/3832c6b01ccd39d2b913a0bed0748866015a2880)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21750)</code>](https://github.com/netdata/netdata.git/commit/b81e95facf23e5e2636d2582a53f5b092c2be1d7)
+- [ ] [<code>Strip relatedResource tags from GitHub-rendered md files (#21751)</code>](https://github.com/netdata/netdata.git/commit/449b627da7a344800b5223754d1922b2723b1011)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
