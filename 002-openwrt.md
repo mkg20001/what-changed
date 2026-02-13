@@ -43,6 +43,10 @@
 - [ ] [<code>libubox: send warnings to stderr</code>](https://git.openwrt.org/project/libubox.git/commit/d324c0503040914dd125298093c83fd07bf9f012)
 - [ ] [<code>libubox: document positional arguments</code>](https://git.openwrt.org/project/libubox.git/commit/5a65cb5a79b757d24beeab4144333b012a4935ec)
 - [ ] [<code>libubox: add anonymous strings, ints, et al in arrays</code>](https://git.openwrt.org/project/libubox.git/commit/8c7b489daa029b3841584f6ac76e2a0b68d74ef3)
+- [ ] [<code>uloop: use volatile sig_atomic_t for do_sigchld flag</code>](https://git.openwrt.org/project/libubox.git/commit/5ec7ff2effb36bed32de122629b8c1404bd5157a)
+- [ ] [<code>usock: check SO_ERROR after poll in usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/0efa2cd3b74ca295362341f7b21f0449066141f5)
+- [ ] [<code>usock: fix timeout handling in usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/1a73ded9f738d403784aa448910cf5c9f9b05e18)
+- [ ] [<code>usock: implement RFC 8305 Happy Eyeballs for usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/1aa36ee774c8db4d7a396903e0d2e1fb79ee8bf1)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
@@ -172,6 +176,12 @@
 - [ ] [<code>uclient-http: fix seq field check to use correct field</code>](https://git.openwrt.org/project/uclient.git/commit/9c2ad269c42bca917fc563c97c732d8c47fd1bfc)
 - [ ] [<code>uclient-http: fix hang on HTTP to HTTPS redirect</code>](https://git.openwrt.org/project/uclient.git/commit/80c9bd29c2331f34e91ec47fd7b486f58613a224)
 - [ ] [<code>ucode: fix memory leak when using ssl context</code>](https://git.openwrt.org/project/uclient.git/commit/931bbfeb2c92ecaa8ca2262b9bef27df8614ffb9)
+- [ ] [<code>uclient-http: fix HTTP authentication after deferred header processing</code>](https://git.openwrt.org/project/uclient.git/commit/63413daa876066484a4ee62803aa943f3f19348c)
+- [ ] [<code>uclient-fetch: Extract opt_post variable</code>](https://git.openwrt.org/project/uclient.git/commit/4fa6fae02f741db18e681ea40c604c0e159b994e)
+- [ ] [<code>uclient-fetch: Use HEAD for --spider</code>](https://git.openwrt.org/project/uclient.git/commit/8df3120639a4b4e4779c600742a8ebc4ba6eceb1)
+- [ ] [<code>uclient-fetch: Support of --method, --body-data and --body-file</code>](https://git.openwrt.org/project/uclient.git/commit/0392dfc8e8c445fc51a83674b18cc6a2f1700689)
+- [ ] [<code>uclient-fetch: add OPTIONS request type</code>](https://git.openwrt.org/project/uclient.git/commit/115c92824b6d4e2117a26cae9ccc8630ae828210)
+- [ ] [<code>uclient-fetch: support for WebDAV methods</code>](https://git.openwrt.org/project/uclient.git/commit/a1531e89f6c22f92a2ac52b0408a7f5c755a09f2)
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
