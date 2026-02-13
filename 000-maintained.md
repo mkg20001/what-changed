@@ -4748,6 +4748,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Limit OS view log entries to 200</code>](https://github.com/zabbly/incus-ui-canonical/commit/ec0b2b46ff69398f6d9564a2a9a276672a711e75)
 - [ ] [<code>Improve error handling for OS views</code>](https://github.com/zabbly/incus-ui-canonical/commit/96f548bb5606104d4a25889634fd570b420679b9)
 - [ ] [<code>Improve instance copy handling</code>](https://github.com/zabbly/incus-ui-canonical/commit/c12dff6693e7698eb31a3311f459f666138fb2da)
+- [ ] [<code>Merge pull request #126 from presztak/fix_instance_copy</code>](https://github.com/zabbly/incus-ui-canonical/commit/9631fe81fe4c4dcc3d727b8ba28fc22d34961f3c)
+  - <sub>Tags: <code>incus-0.19.4</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5718,6 +5720,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21757)</code>](https://github.com/netdata/netdata.git/commit/2accbea0273823f06c3973966f20454fb8afd1db)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>no such category (#21758)</code>](https://github.com/netdata/netdata.git/commit/2991dc801d1af1a5494e558a7f1a7067fdd6f982)
+- [ ] [<code>feat(collectors): add Windows support for hardware monitoring collectors (#21635)</code>](https://github.com/netdata/netdata.git/commit/686fdb86f912b5cedf2ad3780b6363b6cee67c5c)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(scripts.d): remove zabbix (#21759)</code>](https://github.com/netdata/netdata.git/commit/1bb58dbd8ef403a252159fd1f3de7de1c6c83760)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.49.0 to 0.50.0 in /src/go (#21764)</code>](https://github.com/netdata/netdata.git/commit/f87b2ea56804be5f6f74dccf9a0c57b27a03544e)
+- [ ] [<code>Regenerate integrations docs (#21765)</code>](https://github.com/netdata/netdata.git/commit/cffef5a07c8e19bdde5db5be26ed46e20a3c3402)
+- [ ] [<code>build(deps): bump google.golang.org/grpc from 1.77.0 to 1.79.1 in /src/go (#21766)</code>](https://github.com/netdata/netdata.git/commit/a80df562c790be4b3d3fb0a08d88d3c4b9d31d97)
+- [ ] [<code>icons (#21767)</code>](https://github.com/netdata/netdata.git/commit/3895c027655a3bdfa85643a90a85d86c3c31669b)
+- [ ] [<code>Regenerate integrations docs (#21768)</code>](https://github.com/netdata/netdata.git/commit/e327c879427b6e86eddf68417bb81257969cb8e6)
+- [ ] [<code>Skip field remapping entries when querying logs. (#21755)</code>](https://github.com/netdata/netdata.git/commit/5b422dd84cceec5b66ceba2e7adeca79681acee9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8450,6 +8462,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Prefetch trackers</code>](https://github.com/tribler/Tribler/commit/704054b47ea6e7e652d569a724690705fa0fc49d)
 - [ ] [<code>Add TorrentMetadataPayload.tracker_info to db</code>](https://github.com/tribler/Tribler/commit/346100b711dd82407889b5ab04a782ae5b87298c)
 - [ ] [<code>Prefetch trackers (#8878)</code>](https://github.com/tribler/Tribler/commit/012ddc77a52c0b8c341b54941c297530bbb1c092)
+- [ ] [<code>Add orphaned parts removal feature</code>](https://github.com/tribler/Tribler/commit/1c4a8e1ae25c7bd65383c45dd48481c53632ffa2)
+- [ ] [<code>Added orphaned parts removal feature (#8881)</code>](https://github.com/tribler/Tribler/commit/561673a90d09618f6cb6931888f99567b40068cf)
+- [ ] [<code>Small dirspace changes</code>](https://github.com/tribler/Tribler/commit/c58b878db1c719a3f3104de287c1ff273957ae28)
+- [ ] [<code>Disable ruff ASYNC240</code>](https://github.com/tribler/Tribler/commit/96e2da050d3d290b6a7ab2c4a3770d2cd51d3fcc)
+- [ ] [<code>Small fixes (#8882)</code>](https://github.com/tribler/Tribler/commit/43e23b73e48818b2dffc43bfea3982793df0e385)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
