@@ -4965,6 +4965,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Correct a misspelled word "exercizes"</code>](https://github.com/AOMediaCodec/libavif/commit/37dc20bca104cbc58bccde56b4f804b1ad4c6f06)
 - [ ] [<code>Move the avifCodecSpecificOptionsClear() call</code>](https://github.com/AOMediaCodec/libavif/commit/abb65162136c6e2cc192adbf45cf1d25533683b0)
 - [ ] [<code>Fix the CICP for BT.709 SDR and BT.2100 HLG</code>](https://github.com/AOMediaCodec/libavif/commit/3e30bc64e790d4839f43a236070c5654828bf11f)
+- [ ] [<code>Use const pointers with codec->csOptions</code>](https://github.com/AOMediaCodec/libavif/commit/2d48c03308ca791dbb3ef91f6503c11bd5de7f8c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5707,6 +5708,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21750)</code>](https://github.com/netdata/netdata.git/commit/b81e95facf23e5e2636d2582a53f5b092c2be1d7)
 - [ ] [<code>Strip relatedResource tags from GitHub-rendered md files (#21751)</code>](https://github.com/netdata/netdata.git/commit/449b627da7a344800b5223754d1922b2723b1011)
+- [ ] [<code>Restructure integration categories, add missing metadata (#21753)</code>](https://github.com/netdata/netdata.git/commit/271772e3ac28b5daf07079181a77a9c0c14ba474)
+- [ ] [<code>Regenerate integrations docs (#21754)</code>](https://github.com/netdata/netdata.git/commit/db5ff38e34ad6d14f9443329faf275735113ed13)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-402-nightly.</code>](https://github.com/netdata/netdata.git/commit/4861b5984f0a6b2291dc4633546a0299a60dcee4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
