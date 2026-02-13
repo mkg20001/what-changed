@@ -4966,6 +4966,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Move the avifCodecSpecificOptionsClear() call</code>](https://github.com/AOMediaCodec/libavif/commit/abb65162136c6e2cc192adbf45cf1d25533683b0)
 - [ ] [<code>Fix the CICP for BT.709 SDR and BT.2100 HLG</code>](https://github.com/AOMediaCodec/libavif/commit/3e30bc64e790d4839f43a236070c5654828bf11f)
 - [ ] [<code>Use const pointers with codec->csOptions</code>](https://github.com/AOMediaCodec/libavif/commit/2d48c03308ca791dbb3ef91f6503c11bd5de7f8c)
+- [ ] [<code>Remove yuvRange TODO in avifApplyExpression32b() (#3025)</code>](https://github.com/AOMediaCodec/libavif/commit/ec2ee83ddc27ec100cab07e7b81ef18a6cd045a1)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5712,6 +5713,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21754)</code>](https://github.com/netdata/netdata.git/commit/db5ff38e34ad6d14f9443329faf275735113ed13)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-402-nightly.</code>](https://github.com/netdata/netdata.git/commit/4861b5984f0a6b2291dc4633546a0299a60dcee4)
+- [ ] [<code>Fix metadata validation for ibm.d, network-viewer, and netdata-otel (#21756)</code>](https://github.com/netdata/netdata.git/commit/d89a841f6e42e8f71ede50954e722ac9c7235aef)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21757)</code>](https://github.com/netdata/netdata.git/commit/2accbea0273823f06c3973966f20454fb8afd1db)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>no such category (#21758)</code>](https://github.com/netdata/netdata.git/commit/2991dc801d1af1a5494e558a7f1a7067fdd6f982)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
