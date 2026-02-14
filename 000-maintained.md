@@ -5730,6 +5730,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>icons (#21767)</code>](https://github.com/netdata/netdata.git/commit/3895c027655a3bdfa85643a90a85d86c3c31669b)
 - [ ] [<code>Regenerate integrations docs (#21768)</code>](https://github.com/netdata/netdata.git/commit/e327c879427b6e86eddf68417bb81257969cb8e6)
 - [ ] [<code>Skip field remapping entries when querying logs. (#21755)</code>](https://github.com/netdata/netdata.git/commit/5b422dd84cceec5b66ceba2e7adeca79681acee9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-414-nightly.</code>](https://github.com/netdata/netdata.git/commit/37736cecea75827c61e4d56e9b6ab7b167f90bf7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
