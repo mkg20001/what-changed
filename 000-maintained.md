@@ -192,6 +192,8 @@
 - [ ] [<code>fix: Join room by alias even if not found</code>](https://github.com/krille-chan/fluffychat/commit/58351535aea1380cedfc02d31ef482120f552785)
 - [ ] [<code>build: (deps): bump particles_network from 1.9.1 to 1.9.3</code>](https://github.com/krille-chan/fluffychat/commit/8ef3dfd360aedd4ee86dfb8f4aa956cf10ab122a)
 - [ ] [<code>build: bump faraday in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/7d4fdb60f7db0ab80111d5151ba29a04c615568f)
+- [ ] [<code>fix: Reply voice message displays a broken html body</code>](https://github.com/krille-chan/fluffychat/commit/da8336b1fef89617cc47c559f103892be2144087)
+- [ ] [<code>chore: Follow up calculate file description</code>](https://github.com/krille-chan/fluffychat/commit/db4b3240c36f391e405129dab3bb422181e20ea3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -259,6 +261,8 @@
 - [ ] [<code>fix: Join room by alias even if not found</code>](https://github.com/krille-chan/fluffychat/commit/58351535aea1380cedfc02d31ef482120f552785)
 - [ ] [<code>build: (deps): bump particles_network from 1.9.1 to 1.9.3</code>](https://github.com/krille-chan/fluffychat/commit/8ef3dfd360aedd4ee86dfb8f4aa956cf10ab122a)
 - [ ] [<code>build: bump faraday in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/7d4fdb60f7db0ab80111d5151ba29a04c615568f)
+- [ ] [<code>fix: Reply voice message displays a broken html body</code>](https://github.com/krille-chan/fluffychat/commit/da8336b1fef89617cc47c559f103892be2144087)
+- [ ] [<code>chore: Follow up calculate file description</code>](https://github.com/krille-chan/fluffychat/commit/db4b3240c36f391e405129dab3bb422181e20ea3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4743,13 +4747,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/requirements: Bump minimal requirements</code>](https://github.com/lxc/incus/commit/2da034d1c768b53312a742cd4189923aad3655e3)
 - [ ] [<code>Validate requested storage pool during instance migration</code>](https://github.com/lxc/incus/commit/af8f62bf9964e2791b47fc3d4f08d6eb974d4703)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.3 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.3...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
-- [ ] [<code>Limit OS view log entries to 200</code>](https://github.com/zabbly/incus-ui-canonical/commit/ec0b2b46ff69398f6d9564a2a9a276672a711e75)
-- [ ] [<code>Improve error handling for OS views</code>](https://github.com/zabbly/incus-ui-canonical/commit/96f548bb5606104d4a25889634fd570b420679b9)
-- [ ] [<code>Improve instance copy handling</code>](https://github.com/zabbly/incus-ui-canonical/commit/c12dff6693e7698eb31a3311f459f666138fb2da)
-- [ ] [<code>Merge pull request #126 from presztak/fix_instance_copy</code>](https://github.com/zabbly/incus-ui-canonical/commit/9631fe81fe4c4dcc3d727b8ba28fc22d34961f3c)
-  - <sub>Tags: <code>incus-0.19.4</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
