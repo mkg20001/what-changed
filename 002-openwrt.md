@@ -130,6 +130,16 @@
 - [ ] [<code>veth: delete device before creation to handle stale state</code>](https://git.openwrt.org/project/netifd.git/commit/df2f5c9a30f8faadf8dee962cc17d315e967d70a)
 - [ ] [<code>system-linux: handle RTM_DELLINK events for device state tracking</code>](https://git.openwrt.org/project/netifd.git/commit/b6d371f307705b32e1ef5c63d7bf6440c8859789)
 - [ ] [<code>system-linux: only parse device status for AF_UNSPEC link messages</code>](https://git.openwrt.org/project/netifd.git/commit/777f5942fa7d6245f6ad29daa1daecc400344d37)
+- [ ] [<code>interface-ip: fix fortify build error</code>](https://git.openwrt.org/project/netifd.git/commit/51fa9ed6d4d6f4e1663d55d3db7e34a964addecb)
+- [ ] [<code>proto-ext: extract shared protocol handler code from proto-shell.c</code>](https://git.openwrt.org/project/netifd.git/commit/ca33316f85529d960c825501241f4024d1ef29bf)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>proto: add config_load callback to proto_handler</code>](https://git.openwrt.org/project/netifd.git/commit/2098f29810e83c064efd7a9b90b86a44271deed0)
+- [ ] [<code>proto-ucode: add ucode protocol handler infrastructure</code>](https://git.openwrt.org/project/netifd.git/commit/aaf5b194b15d881db76286327fa90770ef467188)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>proto-ucode: add ucode proto handler scripts</code>](https://git.openwrt.org/project/netifd.git/commit/3fc8b83c8b62ca9dcb6485790216ad5171959223)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>examples: sync wireless scripts with openwrt</code>](https://git.openwrt.org/project/netifd.git/commit/c6122254eb7003377b67a6ad14d284b69725bbee)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
