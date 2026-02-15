@@ -204,6 +204,7 @@
 - [ ] [<code>fix: Audioplayer on web buggy</code>](https://github.com/krille-chan/fluffychat/commit/402801c458f5836adb3a79b72b2343533b826a20)
 - [ ] [<code>chore: Adjust chat input row design</code>](https://github.com/krille-chan/fluffychat/commit/c5b683f8422ef561122f3c50c855cd6ef2417c0f)
 - [ ] [<code>chore: Follow up chat input row</code>](https://github.com/krille-chan/fluffychat/commit/7be2d3df594cc0da826195b3fceac7eb9788ce4c)
+- [ ] [<code>chore: Adjust design of navrail</code>](https://github.com/krille-chan/fluffychat/commit/727e442c94d9f47650d8ccebd769e420a4213a7f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -283,6 +284,7 @@
 - [ ] [<code>fix: Audioplayer on web buggy</code>](https://github.com/krille-chan/fluffychat/commit/402801c458f5836adb3a79b72b2343533b826a20)
 - [ ] [<code>chore: Adjust chat input row design</code>](https://github.com/krille-chan/fluffychat/commit/c5b683f8422ef561122f3c50c855cd6ef2417c0f)
 - [ ] [<code>chore: Follow up chat input row</code>](https://github.com/krille-chan/fluffychat/commit/7be2d3df594cc0da826195b3fceac7eb9788ce4c)
+- [ ] [<code>chore: Adjust design of navrail</code>](https://github.com/krille-chan/fluffychat/commit/727e442c94d9f47650d8ccebd769e420a4213a7f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
