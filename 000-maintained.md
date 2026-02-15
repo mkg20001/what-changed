@@ -202,6 +202,8 @@
 - [ ] [<code>chore: Adjust status header design</code>](https://github.com/krille-chan/fluffychat/commit/819d068485a69321c7508badd7d5acd38ce3f0a1)
 - [ ] [<code>chore: Display spaces filter chip when spaces present even without children</code>](https://github.com/krille-chan/fluffychat/commit/7de276f071683479dd1194addd5127f39428929d)
 - [ ] [<code>fix: Audioplayer on web buggy</code>](https://github.com/krille-chan/fluffychat/commit/402801c458f5836adb3a79b72b2343533b826a20)
+- [ ] [<code>chore: Adjust chat input row design</code>](https://github.com/krille-chan/fluffychat/commit/c5b683f8422ef561122f3c50c855cd6ef2417c0f)
+- [ ] [<code>chore: Follow up chat input row</code>](https://github.com/krille-chan/fluffychat/commit/7be2d3df594cc0da826195b3fceac7eb9788ce4c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -279,6 +281,8 @@
 - [ ] [<code>chore: Adjust status header design</code>](https://github.com/krille-chan/fluffychat/commit/819d068485a69321c7508badd7d5acd38ce3f0a1)
 - [ ] [<code>chore: Display spaces filter chip when spaces present even without children</code>](https://github.com/krille-chan/fluffychat/commit/7de276f071683479dd1194addd5127f39428929d)
 - [ ] [<code>fix: Audioplayer on web buggy</code>](https://github.com/krille-chan/fluffychat/commit/402801c458f5836adb3a79b72b2343533b826a20)
+- [ ] [<code>chore: Adjust chat input row design</code>](https://github.com/krille-chan/fluffychat/commit/c5b683f8422ef561122f3c50c855cd6ef2417c0f)
+- [ ] [<code>chore: Follow up chat input row</code>](https://github.com/krille-chan/fluffychat/commit/7be2d3df594cc0da826195b3fceac7eb9788ce4c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -8254,6 +8258,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(android): enable shrink resources</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d9c222d3af391c883eb5582ec4ec020ba1b33d48)
 - [ ] [<code>feat(lib): add ability to specify constant RFCOMM service uuid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8a982b4483dcfdd9c9894abe6d917d9b2f6041a7)
 - [ ] [<code>fix(lib): specify constant service uuid for a3116</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8624b4364149634d7f822dd339687d2f29bf6e3)
+- [ ] [<code>fix(lib): use constant rfcomm service uuid for a3930</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf3691d2f3e311110d17b2e46b34a281d696d7d6)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a1cf8d23e65611183e1021329afe6a9e50218e1c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(android): incorrect radio button label color in widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9004a2bb2623d1c9d1bbaf740f296264784c629)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
