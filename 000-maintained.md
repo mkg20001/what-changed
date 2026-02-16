@@ -434,6 +434,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Fix cross-server live-migration</code>](https://github.com/lxc/incus/commit/75f50c23fbef65a547c93cd58536b0f9bc87866f)
 - [ ] [<code>incusd/instance/qemu: Report QEMU error on VM restore</code>](https://github.com/lxc/incus/commit/56e15e45c49ef74ba2703bc73a58cad370d5fc95)
 - [ ] [<code>incus-migrate: Fix URL detection</code>](https://github.com/lxc/incus/commit/156800b1135fa54a62dd23b2d5bc3d4f8a00be3d)
+- [ ] [<code>incusd/instance/drivers: Remove instance volume on revert after failed live migration</code>](https://github.com/lxc/incus/commit/46f90806d7992e8a22e1c418eab82e8a58601f8c)
+- [ ] [<code>incusd/instance/drivers: Propagate target migration failure to source using context cancellation</code>](https://github.com/lxc/incus/commit/69d4b28ac27199c67b303d64b61308183fbd0236)
+- [ ] [<code>incusd/storage: Prevent concurrent QCOW2 snapshot deletions</code>](https://github.com/lxc/incus/commit/acf27c1ed354b96cf3e89abbf5d603f82a9649ab)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4804,6 +4807,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Fix cross-server live-migration</code>](https://github.com/lxc/incus/commit/75f50c23fbef65a547c93cd58536b0f9bc87866f)
 - [ ] [<code>incusd/instance/qemu: Report QEMU error on VM restore</code>](https://github.com/lxc/incus/commit/56e15e45c49ef74ba2703bc73a58cad370d5fc95)
 - [ ] [<code>incus-migrate: Fix URL detection</code>](https://github.com/lxc/incus/commit/156800b1135fa54a62dd23b2d5bc3d4f8a00be3d)
+- [ ] [<code>incusd/instance/drivers: Remove instance volume on revert after failed live migration</code>](https://github.com/lxc/incus/commit/46f90806d7992e8a22e1c418eab82e8a58601f8c)
+- [ ] [<code>incusd/instance/drivers: Propagate target migration failure to source using context cancellation</code>](https://github.com/lxc/incus/commit/69d4b28ac27199c67b303d64b61308183fbd0236)
+- [ ] [<code>incusd/storage: Prevent concurrent QCOW2 snapshot deletions</code>](https://github.com/lxc/incus/commit/acf27c1ed354b96cf3e89abbf5d603f82a9649ab)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
@@ -5788,6 +5794,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21768)</code>](https://github.com/netdata/netdata.git/commit/e327c879427b6e86eddf68417bb81257969cb8e6)
 - [ ] [<code>Skip field remapping entries when querying logs. (#21755)</code>](https://github.com/netdata/netdata.git/commit/5b422dd84cceec5b66ceba2e7adeca79681acee9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-414-nightly.</code>](https://github.com/netdata/netdata.git/commit/37736cecea75827c61e4d56e9b6ab7b167f90bf7)
+- [ ] [<code>Change title from 'Netdata MCP Server' to 'Netdata' (#21772)</code>](https://github.com/netdata/netdata.git/commit/2b5851f8d839457914809e52eb8abc3a3a5d27bc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8282,6 +8289,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a1cf8d23e65611183e1021329afe6a9e50218e1c)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix(android): incorrect radio button label color in widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9004a2bb2623d1c9d1bbaf740f296264784c629)
+- [ ] [<code>feat(lib): add support for a3957</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c85c36b3c02f5a5ab59c78f2d3fab9b214fdc187)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -8375,6 +8384,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
