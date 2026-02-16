@@ -214,6 +214,8 @@
 - [ ] [<code>chore: Follow up voice message button</code>](https://github.com/krille-chan/fluffychat/commit/c87e07843f538b1b3649c4c3fd23a44264bb7c13)
 - [ ] [<code>chore: Follow up send button</code>](https://github.com/krille-chan/fluffychat/commit/10a138bb6f24051d0b0a282f3d6256c9435d89e8)
 - [ ] [<code>chore: Follow up seen by row</code>](https://github.com/krille-chan/fluffychat/commit/ecd13b7efc3679b560b541548df53d1e06ba0760)
+- [ ] [<code>feat: Enable audio recording on web</code>](https://github.com/krille-chan/fluffychat/commit/299174c9229a5eff853296cceebfa8f0f6896c92)
+- [ ] [<code>chore: Follow up recording on web</code>](https://github.com/krille-chan/fluffychat/commit/413352628ea830d26ea0f2e6b85d82e26a8f0a07)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -303,6 +305,8 @@
 - [ ] [<code>chore: Follow up voice message button</code>](https://github.com/krille-chan/fluffychat/commit/c87e07843f538b1b3649c4c3fd23a44264bb7c13)
 - [ ] [<code>chore: Follow up send button</code>](https://github.com/krille-chan/fluffychat/commit/10a138bb6f24051d0b0a282f3d6256c9435d89e8)
 - [ ] [<code>chore: Follow up seen by row</code>](https://github.com/krille-chan/fluffychat/commit/ecd13b7efc3679b560b541548df53d1e06ba0760)
+- [ ] [<code>feat: Enable audio recording on web</code>](https://github.com/krille-chan/fluffychat/commit/299174c9229a5eff853296cceebfa8f0f6896c92)
+- [ ] [<code>chore: Follow up recording on web</code>](https://github.com/krille-chan/fluffychat/commit/413352628ea830d26ea0f2e6b85d82e26a8f0a07)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -437,6 +441,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/drivers: Remove instance volume on revert after failed live migration</code>](https://github.com/lxc/incus/commit/46f90806d7992e8a22e1c418eab82e8a58601f8c)
 - [ ] [<code>incusd/instance/drivers: Propagate target migration failure to source using context cancellation</code>](https://github.com/lxc/incus/commit/69d4b28ac27199c67b303d64b61308183fbd0236)
 - [ ] [<code>incusd/storage: Prevent concurrent QCOW2 snapshot deletions</code>](https://github.com/lxc/incus/commit/acf27c1ed354b96cf3e89abbf5d603f82a9649ab)
+- [ ] [<code>incusd/instance/qemu: Require full restart after eject</code>](https://github.com/lxc/incus/commit/b52b3d8cb9083fe975cc363a80593800161a7619)
+- [ ] [<code>incusd/storage: Prevent concurrent snapshot deletions</code>](https://github.com/lxc/incus/commit/1f8a4309d005d07f134efe0144858ae84db14903)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4810,6 +4816,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/drivers: Remove instance volume on revert after failed live migration</code>](https://github.com/lxc/incus/commit/46f90806d7992e8a22e1c418eab82e8a58601f8c)
 - [ ] [<code>incusd/instance/drivers: Propagate target migration failure to source using context cancellation</code>](https://github.com/lxc/incus/commit/69d4b28ac27199c67b303d64b61308183fbd0236)
 - [ ] [<code>incusd/storage: Prevent concurrent QCOW2 snapshot deletions</code>](https://github.com/lxc/incus/commit/acf27c1ed354b96cf3e89abbf5d603f82a9649ab)
+- [ ] [<code>incusd/instance/qemu: Require full restart after eject</code>](https://github.com/lxc/incus/commit/b52b3d8cb9083fe975cc363a80593800161a7619)
+- [ ] [<code>incusd/storage: Prevent concurrent snapshot deletions</code>](https://github.com/lxc/incus/commit/1f8a4309d005d07f134efe0144858ae84db14903)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
@@ -5805,6 +5813,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.0.0 to 1.1.0 (#21773)</code>](https://github.com/netdata/netdata.git/commit/37e641aee10133d1f62f17167131f7d830876ff0)
 - [ ] [<code>fix(scripts.d): reduce nagios perfdata chart registration log spam (#21774)</code>](https://github.com/netdata/netdata.git/commit/2ec6c2d5979b5046527c168c264dab12fed2c0c9)
 - [ ] [<code>bump go mod 1.25.0 (#21775)</code>](https://github.com/netdata/netdata.git/commit/df08d43eb58dd2ec905bf868b9ce997ef705dbd1)
+- [ ] [<code>Rename function from otel-signal-viewer to otel-logs (#21776)</code>](https://github.com/netdata/netdata.git/commit/ba4a0b03f01fec74dd861838faa66e974330aeb3)
+- [ ] [<code>Add readme for otel-signal-viewer plugin. (#21734)</code>](https://github.com/netdata/netdata.git/commit/3ee5b4682b28590b71ce74d16ce6d890db360247)
+- [ ] [<code>[ci skip] Minor release v2.9.0.</code>](https://github.com/netdata/netdata.git/commit/845e8de2be2f2e5d6d0ba2f7c0c9b38de996ff01)
+  - <sub>Tags: <code>v2.9.0</code></sub>
+- [ ] [<code>Increase minimum language standards to C17 and C++17, and update to the latest versions of Protobuf and Abseil. (#21574)</code>](https://github.com/netdata/netdata.git/commit/20960020717117afefe58f09f669fe4367c2fde3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Drop Ubuntu 20.04 from CI and package builds. (#21647)</code>](https://github.com/netdata/netdata.git/commit/35944b50251b86bbf42a84800e9a7bda47848c84)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8556,6 +8571,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Small dirspace changes</code>](https://github.com/tribler/Tribler/commit/c58b878db1c719a3f3104de287c1ff273957ae28)
 - [ ] [<code>Disable ruff ASYNC240</code>](https://github.com/tribler/Tribler/commit/96e2da050d3d290b6a7ab2c4a3770d2cd51d3fcc)
 - [ ] [<code>Small fixes (#8882)</code>](https://github.com/tribler/Tribler/commit/43e23b73e48818b2dffc43bfea3982793df0e385)
+- [ ] [<code>Fix for inaccessible paths</code>](https://github.com/tribler/Tribler/commit/f46fb53eb54ae45ee227f71aeb821ea14fa6ee54)
+- [ ] [<code>Fix for inaccessible paths (#8885)</code>](https://github.com/tribler/Tribler/commit/287b14fae7bb981c52da801a2e59a3accaccd792)
+- [ ] [<code>Fixed duplicate schema warnings</code>](https://github.com/tribler/Tribler/commit/4782532ff2fe26bb5355427f40180756f0539e38)
+- [ ] [<code>Fixed duplicate schema warnings (#8886)</code>](https://github.com/tribler/Tribler/commit/aeb4fed871621debf18037b953268d687e529265)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
