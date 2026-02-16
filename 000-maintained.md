@@ -4813,6 +4813,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
+- [ ] [<code>Add 'target' parameter to /os/1.0</code>](https://github.com/zabbly/incus-ui-canonical/commit/62d216098e21baaad8932d938d634c83c08e04f0)
+- [ ] [<code>Merge pull request #127 from presztak/fix_target_1_0</code>](https://github.com/zabbly/incus-ui-canonical/commit/6a4a327f405e0226b8914dd06cba2e0a91654632)
+  - <sub>Tags: <code>incus-0.19.5</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5032,6 +5035,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix the CICP for BT.709 SDR and BT.2100 HLG</code>](https://github.com/AOMediaCodec/libavif/commit/3e30bc64e790d4839f43a236070c5654828bf11f)
 - [ ] [<code>Use const pointers with codec->csOptions</code>](https://github.com/AOMediaCodec/libavif/commit/2d48c03308ca791dbb3ef91f6503c11bd5de7f8c)
 - [ ] [<code>Remove yuvRange TODO in avifApplyExpression32b() (#3025)</code>](https://github.com/AOMediaCodec/libavif/commit/ec2ee83ddc27ec100cab07e7b81ef18a6cd045a1)
+- [ ] [<code>Reject invalid depth in avifImageAllocatePlanes() (#3038)</code>](https://github.com/AOMediaCodec/libavif/commit/f0aac7dd0356bd903415cc89412164f8940f0a95)
+- [ ] [<code>Add custom FuzzTest printers for types (#3039)</code>](https://github.com/AOMediaCodec/libavif/commit/0812f444de0f5b4cd43b41facfb1f0fce2bca5ec)
+- [ ] [<code>Replace existing check with AVIF_ASSERT_OR_RETURN (#3040)</code>](https://github.com/AOMediaCodec/libavif/commit/8281f2e93c677d872c82e1ef8fdc83fd75aacfc7)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5795,6 +5801,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Skip field remapping entries when querying logs. (#21755)</code>](https://github.com/netdata/netdata.git/commit/5b422dd84cceec5b66ceba2e7adeca79681acee9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-414-nightly.</code>](https://github.com/netdata/netdata.git/commit/37736cecea75827c61e4d56e9b6ab7b167f90bf7)
 - [ ] [<code>Change title from 'Netdata MCP Server' to 'Netdata' (#21772)</code>](https://github.com/netdata/netdata.git/commit/2b5851f8d839457914809e52eb8abc3a3a5d27bc)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.8.0-416-nightly.</code>](https://github.com/netdata/netdata.git/commit/e4a3e3e17c3805049314068b71dd3f099c2e4637)
+- [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.0.0 to 1.1.0 (#21773)</code>](https://github.com/netdata/netdata.git/commit/37e641aee10133d1f62f17167131f7d830876ff0)
+- [ ] [<code>fix(scripts.d): reduce nagios perfdata chart registration log spam (#21774)</code>](https://github.com/netdata/netdata.git/commit/2ec6c2d5979b5046527c168c264dab12fed2c0c9)
+- [ ] [<code>bump go mod 1.25.0 (#21775)</code>](https://github.com/netdata/netdata.git/commit/df08d43eb58dd2ec905bf868b9ce997ef705dbd1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8386,6 +8396,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
