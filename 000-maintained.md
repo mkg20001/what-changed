@@ -443,6 +443,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Prevent concurrent QCOW2 snapshot deletions</code>](https://github.com/lxc/incus/commit/acf27c1ed354b96cf3e89abbf5d603f82a9649ab)
 - [ ] [<code>incusd/instance/qemu: Require full restart after eject</code>](https://github.com/lxc/incus/commit/b52b3d8cb9083fe975cc363a80593800161a7619)
 - [ ] [<code>incusd/storage: Prevent concurrent snapshot deletions</code>](https://github.com/lxc/incus/commit/1f8a4309d005d07f134efe0144858ae84db14903)
+- [ ] [<code>incus: Refactor CLI usage strings</code>](https://github.com/lxc/incus/commit/26acb4b3c0821874bf4e1644854c89f6e9457bf3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ebe7400121247c1a31d4d820441df714a82a96ea)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4818,6 +4822,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/storage: Prevent concurrent QCOW2 snapshot deletions</code>](https://github.com/lxc/incus/commit/acf27c1ed354b96cf3e89abbf5d603f82a9649ab)
 - [ ] [<code>incusd/instance/qemu: Require full restart after eject</code>](https://github.com/lxc/incus/commit/b52b3d8cb9083fe975cc363a80593800161a7619)
 - [ ] [<code>incusd/storage: Prevent concurrent snapshot deletions</code>](https://github.com/lxc/incus/commit/1f8a4309d005d07f134efe0144858ae84db14903)
+- [ ] [<code>incus: Refactor CLI usage strings</code>](https://github.com/lxc/incus/commit/26acb4b3c0821874bf4e1644854c89f6e9457bf3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ebe7400121247c1a31d4d820441df714a82a96ea)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
@@ -5820,6 +5828,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Increase minimum language standards to C17 and C++17, and update to the latest versions of Protobuf and Abseil. (#21574)</code>](https://github.com/netdata/netdata.git/commit/20960020717117afefe58f09f669fe4367c2fde3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Drop Ubuntu 20.04 from CI and package builds. (#21647)</code>](https://github.com/netdata/netdata.git/commit/35944b50251b86bbf42a84800e9a7bda47848c84)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6cddfb670b7d35d62019543f4a1fd2763d4ba1a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
