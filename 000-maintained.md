@@ -5245,6 +5245,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>src/confile: fix values of lxc.cap.keep and lxc.cap.drop</code>](https://github.com/lxc/lxc/commit/c97f33e1fa6d4b927a79d6a4695ed5ac342a6883)
 - [ ] [<code>lxc: added support OpenRC init system</code>](https://github.com/lxc/lxc/commit/5b64b50160980ae304e57184e4f1cbd15ef8c2da)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+- [ ] [<code>meson.build: fix openat2 include typo, fix with glibc-2.43 +FORTIFY</code>](https://github.com/lxc/lxc/commit/511e4db8f2a5b47cdd41eef482647492ce5b0f77)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5833,6 +5835,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Drop Ubuntu 20.04 from CI and package builds. (#21647)</code>](https://github.com/netdata/netdata.git/commit/35944b50251b86bbf42a84800e9a7bda47848c84)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6cddfb670b7d35d62019543f4a1fd2763d4ba1a)
+- [ ] [<code>Clarify default storage retention limits in docs (#21780)</code>](https://github.com/netdata/netdata.git/commit/8b953fe7b084d1174a040b5c4876263637b3954f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-5-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3747553ce8adda9668b1216b5527637f9a1d55a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
