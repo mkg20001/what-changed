@@ -217,6 +217,7 @@
 - [ ] [<code>fix: Add app id to TileLayer user agent</code>](https://github.com/krille-chan/fluffychat/commit/fe51d22b26a433b6638fd5b9054649723ed7fe03)
 - [ ] [<code>feat: Enable audio recording on web</code>](https://github.com/krille-chan/fluffychat/commit/299174c9229a5eff853296cceebfa8f0f6896c92)
 - [ ] [<code>chore: Follow up recording on web</code>](https://github.com/krille-chan/fluffychat/commit/413352628ea830d26ea0f2e6b85d82e26a8f0a07)
+- [ ] [<code>chore: Adjust design of space avatars and more</code>](https://github.com/krille-chan/fluffychat/commit/6d5ceba8856e546759e878e9f5c065a44c34cbce)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -309,6 +310,7 @@
 - [ ] [<code>fix: Add app id to TileLayer user agent</code>](https://github.com/krille-chan/fluffychat/commit/fe51d22b26a433b6638fd5b9054649723ed7fe03)
 - [ ] [<code>feat: Enable audio recording on web</code>](https://github.com/krille-chan/fluffychat/commit/299174c9229a5eff853296cceebfa8f0f6896c92)
 - [ ] [<code>chore: Follow up recording on web</code>](https://github.com/krille-chan/fluffychat/commit/413352628ea830d26ea0f2e6b85d82e26a8f0a07)
+- [ ] [<code>chore: Adjust design of space avatars and more</code>](https://github.com/krille-chan/fluffychat/commit/6d5ceba8856e546759e878e9f5c065a44c34cbce)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -450,6 +452,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ebe7400121247c1a31d4d820441df714a82a96ea)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Force a real reboot after applying templates</code>](https://github.com/lxc/incus/commit/7df3e454d83c707a10fc16019a50e9dd135ae9e2)
+- [ ] [<code>incusd/storage/ceph: Use the standard error for unsupported disk usage</code>](https://github.com/lxc/incus/commit/2414cdaa3478137f5e071d4f78013eb41e835e1e)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4830,6 +4833,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/ebe7400121247c1a31d4d820441df714a82a96ea)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Force a real reboot after applying templates</code>](https://github.com/lxc/incus/commit/7df3e454d83c707a10fc16019a50e9dd135ae9e2)
+- [ ] [<code>incusd/storage/ceph: Use the standard error for unsupported disk usage</code>](https://github.com/lxc/incus/commit/2414cdaa3478137f5e071d4f78013eb41e835e1e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
@@ -5246,6 +5250,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxc: added support OpenRC init system</code>](https://github.com/lxc/lxc/commit/5b64b50160980ae304e57184e4f1cbd15ef8c2da)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
 - [ ] [<code>meson.build: fix openat2 include typo, fix with glibc-2.43 +FORTIFY</code>](https://github.com/lxc/lxc/commit/511e4db8f2a5b47cdd41eef482647492ce5b0f77)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meson.build: fix open_how include with glibc-2.43+</code>](https://github.com/lxc/lxc/commit/061acb0b3835b7b2a6c689588028fd72d0f03dcc)
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
@@ -5837,6 +5843,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6cddfb670b7d35d62019543f4a1fd2763d4ba1a)
 - [ ] [<code>Clarify default storage retention limits in docs (#21780)</code>](https://github.com/netdata/netdata.git/commit/8b953fe7b084d1174a040b5c4876263637b3954f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-5-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3747553ce8adda9668b1216b5527637f9a1d55a)
+- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.3 to 9.18.0 in /src/go (#21782)</code>](https://github.com/netdata/netdata.git/commit/7d367a1934c60666e90b029ffd3ff5fa5b4f0446)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
