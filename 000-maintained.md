@@ -218,6 +218,12 @@
 - [ ] [<code>feat: Enable audio recording on web</code>](https://github.com/krille-chan/fluffychat/commit/299174c9229a5eff853296cceebfa8f0f6896c92)
 - [ ] [<code>chore: Follow up recording on web</code>](https://github.com/krille-chan/fluffychat/commit/413352628ea830d26ea0f2e6b85d82e26a8f0a07)
 - [ ] [<code>chore: Adjust design of space avatars and more</code>](https://github.com/krille-chan/fluffychat/commit/6d5ceba8856e546759e878e9f5c065a44c34cbce)
+- [ ] [<code>chore: Adjust join space child UX</code>](https://github.com/krille-chan/fluffychat/commit/b4fbe46d4367b1a75bd4c08f4a97d6cfffbc1c65)
+- [ ] [<code>chore: Add code lint check for unused code</code>](https://github.com/krille-chan/fluffychat/commit/1896c56544a1a417f0a2a9850979afa21f986578)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Adjust avatar size and chat list item design</code>](https://github.com/krille-chan/fluffychat/commit/e852453dec058ab67fcf5fad2b345c987e13c892)
+- [ ] [<code>build: Upgrade to flutter 3.41.1</code>](https://github.com/krille-chan/fluffychat/commit/83812810863fd83e29874d214d2961fc69aabb1f)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -311,6 +317,12 @@
 - [ ] [<code>feat: Enable audio recording on web</code>](https://github.com/krille-chan/fluffychat/commit/299174c9229a5eff853296cceebfa8f0f6896c92)
 - [ ] [<code>chore: Follow up recording on web</code>](https://github.com/krille-chan/fluffychat/commit/413352628ea830d26ea0f2e6b85d82e26a8f0a07)
 - [ ] [<code>chore: Adjust design of space avatars and more</code>](https://github.com/krille-chan/fluffychat/commit/6d5ceba8856e546759e878e9f5c065a44c34cbce)
+- [ ] [<code>chore: Adjust join space child UX</code>](https://github.com/krille-chan/fluffychat/commit/b4fbe46d4367b1a75bd4c08f4a97d6cfffbc1c65)
+- [ ] [<code>chore: Add code lint check for unused code</code>](https://github.com/krille-chan/fluffychat/commit/1896c56544a1a417f0a2a9850979afa21f986578)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Adjust avatar size and chat list item design</code>](https://github.com/krille-chan/fluffychat/commit/e852453dec058ab67fcf5fad2b345c987e13c892)
+- [ ] [<code>build: Upgrade to flutter 3.41.1</code>](https://github.com/krille-chan/fluffychat/commit/83812810863fd83e29874d214d2961fc69aabb1f)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -453,6 +465,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Force a real reboot after applying templates</code>](https://github.com/lxc/incus/commit/7df3e454d83c707a10fc16019a50e9dd135ae9e2)
 - [ ] [<code>incusd/storage/ceph: Use the standard error for unsupported disk usage</code>](https://github.com/lxc/incus/commit/2414cdaa3478137f5e071d4f78013eb41e835e1e)
+- [ ] [<code>api: unix_hotplug_pci</code>](https://github.com/lxc/incus/commit/bbe7bb6dc9b2811df76b50d4f166ff1315d08915)
+- [ ] [<code>incusd/devices/unix_hotplug: Allow selecting by PCI bus</code>](https://github.com/lxc/incus/commit/57e62a483d354193e835f0ed541b95c2a85bd6b7)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/75fe88b49107d7e3f45f8433e7789cd905476295)
+- [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4834,12 +4850,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incusd/instance/qemu: Force a real reboot after applying templates</code>](https://github.com/lxc/incus/commit/7df3e454d83c707a10fc16019a50e9dd135ae9e2)
 - [ ] [<code>incusd/storage/ceph: Use the standard error for unsupported disk usage</code>](https://github.com/lxc/incus/commit/2414cdaa3478137f5e071d4f78013eb41e835e1e)
+- [ ] [<code>api: unix_hotplug_pci</code>](https://github.com/lxc/incus/commit/bbe7bb6dc9b2811df76b50d4f166ff1315d08915)
+- [ ] [<code>incusd/devices/unix_hotplug: Allow selecting by PCI bus</code>](https://github.com/lxc/incus/commit/57e62a483d354193e835f0ed541b95c2a85bd6b7)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/75fe88b49107d7e3f45f8433e7789cd905476295)
+- [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
 
 - [ ] [<code>Add 'target' parameter to /os/1.0</code>](https://github.com/zabbly/incus-ui-canonical/commit/62d216098e21baaad8932d938d634c83c08e04f0)
 - [ ] [<code>Merge pull request #127 from presztak/fix_target_1_0</code>](https://github.com/zabbly/incus-ui-canonical/commit/6a4a327f405e0226b8914dd06cba2e0a91654632)
   - <sub>Tags: <code>incus-0.19.5</code></sub>
+- [ ] [<code>Pass valid filter to useInstances</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8681caf81e455ed1c904135a191c9d47c321aef)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5062,6 +5083,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Reject invalid depth in avifImageAllocatePlanes() (#3038)</code>](https://github.com/AOMediaCodec/libavif/commit/f0aac7dd0356bd903415cc89412164f8940f0a95)
 - [ ] [<code>Add custom FuzzTest printers for types (#3039)</code>](https://github.com/AOMediaCodec/libavif/commit/0812f444de0f5b4cd43b41facfb1f0fce2bca5ec)
 - [ ] [<code>Replace existing check with AVIF_ASSERT_OR_RETURN (#3040)</code>](https://github.com/AOMediaCodec/libavif/commit/8281f2e93c677d872c82e1ef8fdc83fd75aacfc7)
+- [ ] [<code>Apply clean aperture crop when decoding to PNG or JPEG. (#3041)</code>](https://github.com/AOMediaCodec/libavif/commit/4204ec7b122a0b2284f208da8428720f73a96415)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Add avifRGBImage to the C++ API (#3042)</code>](https://github.com/AOMediaCodec/libavif/commit/4f927e879f1e5d7ea8e5a2b2121e5e51df3445a1)
+- [ ] [<code>AVM: be compatible with profiles when -DCONFIG_AV2_PROFILES=1 (#3044)</code>](https://github.com/AOMediaCodec/libavif/commit/8fa80170ddde1dbd1d8e07cc900f4f7ecc8c059e)
+- [ ] [<code>Add missing ; (#3045)</code>](https://github.com/AOMediaCodec/libavif/commit/ac4aa593630bf284d792f6dc1d50e961b88e7e44)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5844,6 +5871,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Clarify default storage retention limits in docs (#21780)</code>](https://github.com/netdata/netdata.git/commit/8b953fe7b084d1174a040b5c4876263637b3954f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-5-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3747553ce8adda9668b1216b5527637f9a1d55a)
 - [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.3 to 9.18.0 in /src/go (#21782)</code>](https://github.com/netdata/netdata.git/commit/7d367a1934c60666e90b029ffd3ff5fa5b4f0446)
+- [ ] [<code>Add cmake render-docs target for integration doc generation (#21778)</code>](https://github.com/netdata/netdata.git/commit/c21dd9ce9ccfd9531dc21d9ba4f6fbcc0de6efb2)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Replace otel-plugin metrics pipeline with proper aggregation. (#21771)</code>](https://github.com/netdata/netdata.git/commit/a7c78eae8af4f97fb1a56f3a230c8f237e427af4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21783)</code>](https://github.com/netdata/netdata.git/commit/412efa3d8e494c11ced2ceec2a97d9c675784875)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6912,6 +6945,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix for extending to the wrong candidate</code>](https://github.com/tribler/py-ipv8/commit/a80373ad8ad3c10e70efab3bc00b54a12f0215df)
 - [ ] [<code>Revise message identifier specification for @dataclass</code>](https://github.com/tribler/py-ipv8/commit/a28f5de84e270ef61cabbe29e8260eaceadb4e48)
 - [ ] [<code>Ensure that Community.guess_address() only returns valid addresses, if any</code>](https://github.com/tribler/py-ipv8/commit/b51da583829c45fc459670025a064e83a894bd82)
+- [ ] [<code>Disable IPv4 on UDPv6Endpoint</code>](https://github.com/tribler/py-ipv8/commit/155d2bb223d223b170ab587dc94183aa4b7785c4)
+- [ ] [<code>Fix test_register_executor_task_anon</code>](https://github.com/tribler/py-ipv8/commit/692b6ab5c323dec6c3258b389722df33ff6bf453)
+- [ ] [<code>Freeze deprecrated curves to prevent removal</code>](https://github.com/tribler/py-ipv8/commit/bf3aa7ea78daa6c8809021c830649d5cd55ae76d)
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -7159,6 +7195,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Various fixes (#8889)</code>](https://github.com/tribler/Tribler/commit/abe7f930d29716bb67c5217a1a17c84fdab4cd9b)
 - [ ] [<code>Show move_storage errors</code>](https://github.com/tribler/Tribler/commit/1626b54ce18d89bfa9c06ecbf4de80b7cac7100d)
 - [ ] [<code>Show move_storage errors (#8890)</code>](https://github.com/tribler/Tribler/commit/41ee938722fd5a8d25b177847b0664f877ccdb3f)
+- [ ] [<code>Automatically create a Docker build after a new release</code>](https://github.com/tribler/Tribler/commit/c17b11b86489d02d410036840dfc95ef15b6d6be)
+- [ ] [<code>Automatically create a Docker build after a new release (#8893)</code>](https://github.com/tribler/Tribler/commit/36517555b4df32564a436a98d3c9816b4918e4ee)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
