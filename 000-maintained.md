@@ -224,6 +224,10 @@
 - [ ] [<code>chore: Adjust avatar size and chat list item design</code>](https://github.com/krille-chan/fluffychat/commit/e852453dec058ab67fcf5fad2b345c987e13c892)
 - [ ] [<code>build: Upgrade to flutter 3.41.1</code>](https://github.com/krille-chan/fluffychat/commit/83812810863fd83e29874d214d2961fc69aabb1f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Enable rule avoid dynamic</code>](https://github.com/krille-chan/fluffychat/commit/9d007815df25100cdd0623dd8c48d2c4fd2ad6cc)
+- [ ] [<code>refactor: Avoid redundant async</code>](https://github.com/krille-chan/fluffychat/commit/d08364688ea8bec2de51a0da3cf780ebcaf13342)
+- [ ] [<code>refactor: Avoid unnecessary bool comparison</code>](https://github.com/krille-chan/fluffychat/commit/1cd3a9103790bbff0aef4cb29cb69038241fb7c4)
+- [ ] [<code>refactor: Add more linter rules</code>](https://github.com/krille-chan/fluffychat/commit/7a1eded1bb51792b86091011049fcbbad60b80fe)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -323,6 +327,10 @@
 - [ ] [<code>chore: Adjust avatar size and chat list item design</code>](https://github.com/krille-chan/fluffychat/commit/e852453dec058ab67fcf5fad2b345c987e13c892)
 - [ ] [<code>build: Upgrade to flutter 3.41.1</code>](https://github.com/krille-chan/fluffychat/commit/83812810863fd83e29874d214d2961fc69aabb1f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: Enable rule avoid dynamic</code>](https://github.com/krille-chan/fluffychat/commit/9d007815df25100cdd0623dd8c48d2c4fd2ad6cc)
+- [ ] [<code>refactor: Avoid redundant async</code>](https://github.com/krille-chan/fluffychat/commit/d08364688ea8bec2de51a0da3cf780ebcaf13342)
+- [ ] [<code>refactor: Avoid unnecessary bool comparison</code>](https://github.com/krille-chan/fluffychat/commit/1cd3a9103790bbff0aef4cb29cb69038241fb7c4)
+- [ ] [<code>refactor: Add more linter rules</code>](https://github.com/krille-chan/fluffychat/commit/7a1eded1bb51792b86091011049fcbbad60b80fe)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -4860,6 +4868,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.5 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.5...HEAD)
 
 - [ ] [<code>Pass valid filter to useInstances</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8681caf81e455ed1c904135a191c9d47c321aef)
+- [ ] [<code>Merge pull request #129 from stephendotcarter/fix-invalid-filter</code>](https://github.com/zabbly/incus-ui-canonical/commit/894057caa581d0a88d16aee9ef2f22e063f8646d)
+  - <sub>Tags: <code>incus-0.19.6</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5088,6 +5098,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add avifRGBImage to the C++ API (#3042)</code>](https://github.com/AOMediaCodec/libavif/commit/4f927e879f1e5d7ea8e5a2b2121e5e51df3445a1)
 - [ ] [<code>AVM: be compatible with profiles when -DCONFIG_AV2_PROFILES=1 (#3044)</code>](https://github.com/AOMediaCodec/libavif/commit/8fa80170ddde1dbd1d8e07cc900f4f7ecc8c059e)
 - [ ] [<code>Add missing ; (#3045)</code>](https://github.com/AOMediaCodec/libavif/commit/ac4aa593630bf284d792f6dc1d50e961b88e7e44)
+- [ ] [<code>Replace AVIF_ASSERT by avm image->depth condition (#3046)</code>](https://github.com/AOMediaCodec/libavif/commit/5b8e476fdf10f3a279e828aa6cd5e325ffe2315e)
+- [ ] [<code>Make tests/test_cmd_transform.sh executable (#3047)</code>](https://github.com/AOMediaCodec/libavif/commit/3c2a66a7c24723af36de595046499f36fab9171f)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5877,6 +5889,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21783)</code>](https://github.com/netdata/netdata.git/commit/412efa3d8e494c11ced2ceec2a97d9c675784875)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/519b37b9ac546258c6566a8327ee1baf949512b9)
+- [ ] [<code>Fix coverity issue (#21777)</code>](https://github.com/netdata/netdata.git/commit/a0f79da6b436dfdb3e7d337a3ae93b23dee48b6f)
+- [ ] [<code>Improve metadata storage of chart and host labels (#21492)</code>](https://github.com/netdata/netdata.git/commit/4338d8eba1ac9b41724d94866cbed9daa97081d0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6948,6 +6962,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Disable IPv4 on UDPv6Endpoint</code>](https://github.com/tribler/py-ipv8/commit/155d2bb223d223b170ab587dc94183aa4b7785c4)
 - [ ] [<code>Fix test_register_executor_task_anon</code>](https://github.com/tribler/py-ipv8/commit/692b6ab5c323dec6c3258b389722df33ff6bf453)
 - [ ] [<code>Freeze deprecrated curves to prevent removal</code>](https://github.com/tribler/py-ipv8/commit/bf3aa7ea78daa6c8809021c830649d5cd55ae76d)
+- [ ] [<code>Automated version increment</code>](https://github.com/tribler/py-ipv8/commit/49d17db8f2d2889de50860f0389b2bcc9adc1cd6)
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
