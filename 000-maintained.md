@@ -469,6 +469,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/devices/unix_hotplug: Allow selecting by PCI bus</code>](https://github.com/lxc/incus/commit/57e62a483d354193e835f0ed541b95c2a85bd6b7)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/75fe88b49107d7e3f45f8433e7789cd905476295)
 - [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
+- [ ] [<code>incusd/storage/qcow2: Wait for qemu-nbd to be ready</code>](https://github.com/lxc/incus/commit/c4a608a97846f31bdc705056c4b1eae98e3dadb8)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4854,12 +4855,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/devices/unix_hotplug: Allow selecting by PCI bus</code>](https://github.com/lxc/incus/commit/57e62a483d354193e835f0ed541b95c2a85bd6b7)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/75fe88b49107d7e3f45f8433e7789cd905476295)
 - [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
+- [ ] [<code>incusd/storage/qcow2: Wait for qemu-nbd to be ready</code>](https://github.com/lxc/incus/commit/c4a608a97846f31bdc705056c4b1eae98e3dadb8)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.4 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.4...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.5 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.5...HEAD)
 
-- [ ] [<code>Add 'target' parameter to /os/1.0</code>](https://github.com/zabbly/incus-ui-canonical/commit/62d216098e21baaad8932d938d634c83c08e04f0)
-- [ ] [<code>Merge pull request #127 from presztak/fix_target_1_0</code>](https://github.com/zabbly/incus-ui-canonical/commit/6a4a327f405e0226b8914dd06cba2e0a91654632)
-  - <sub>Tags: <code>incus-0.19.5</code></sub>
 - [ ] [<code>Pass valid filter to useInstances</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8681caf81e455ed1c904135a191c9d47c321aef)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
@@ -5877,6 +5876,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Replace otel-plugin metrics pipeline with proper aggregation. (#21771)</code>](https://github.com/netdata/netdata.git/commit/a7c78eae8af4f97fb1a56f3a230c8f237e427af4)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21783)</code>](https://github.com/netdata/netdata.git/commit/412efa3d8e494c11ced2ceec2a97d9c675784875)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/519b37b9ac546258c6566a8327ee1baf949512b9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
