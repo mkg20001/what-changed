@@ -228,6 +228,11 @@
 - [ ] [<code>refactor: Avoid redundant async</code>](https://github.com/krille-chan/fluffychat/commit/d08364688ea8bec2de51a0da3cf780ebcaf13342)
 - [ ] [<code>refactor: Avoid unnecessary bool comparison</code>](https://github.com/krille-chan/fluffychat/commit/1cd3a9103790bbff0aef4cb29cb69038241fb7c4)
 - [ ] [<code>refactor: Add more linter rules</code>](https://github.com/krille-chan/fluffychat/commit/7a1eded1bb51792b86091011049fcbbad60b80fe)
+- [ ] [<code>refactor: Add Flutter lints</code>](https://github.com/krille-chan/fluffychat/commit/2b2b96872d522533a59b069b06555c9a687a4c1c)
+- [ ] [<code>build: Install lld in snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/5bcdd6d1b08c26c7529ac27da1e6b7d906658cb0)
+- [ ] [<code>refactor: Use getCryptoIdentityState to check backup state</code>](https://github.com/krille-chan/fluffychat/commit/66566e6901eb588e0c23de13f8f82d43736117d7)
+- [ ] [<code>build: Update transitive packages</code>](https://github.com/krille-chan/fluffychat/commit/4a9569156a6067550f0367c6860bfcdc00af5942)
+- [ ] [<code>build: Add llvm-18  to packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/c59031c44c2748a79d34a2dfd413c9102901bf2f)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -331,6 +336,11 @@
 - [ ] [<code>refactor: Avoid redundant async</code>](https://github.com/krille-chan/fluffychat/commit/d08364688ea8bec2de51a0da3cf780ebcaf13342)
 - [ ] [<code>refactor: Avoid unnecessary bool comparison</code>](https://github.com/krille-chan/fluffychat/commit/1cd3a9103790bbff0aef4cb29cb69038241fb7c4)
 - [ ] [<code>refactor: Add more linter rules</code>](https://github.com/krille-chan/fluffychat/commit/7a1eded1bb51792b86091011049fcbbad60b80fe)
+- [ ] [<code>refactor: Add Flutter lints</code>](https://github.com/krille-chan/fluffychat/commit/2b2b96872d522533a59b069b06555c9a687a4c1c)
+- [ ] [<code>build: Install lld in snapcraft</code>](https://github.com/krille-chan/fluffychat/commit/5bcdd6d1b08c26c7529ac27da1e6b7d906658cb0)
+- [ ] [<code>refactor: Use getCryptoIdentityState to check backup state</code>](https://github.com/krille-chan/fluffychat/commit/66566e6901eb588e0c23de13f8f82d43736117d7)
+- [ ] [<code>build: Update transitive packages</code>](https://github.com/krille-chan/fluffychat/commit/4a9569156a6067550f0367c6860bfcdc00af5942)
+- [ ] [<code>build: Add llvm-18  to packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/c59031c44c2748a79d34a2dfd413c9102901bf2f)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -478,6 +488,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/75fe88b49107d7e3f45f8433e7789cd905476295)
 - [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
 - [ ] [<code>incusd/storage/qcow2: Wait for qemu-nbd to be ready</code>](https://github.com/lxc/incus/commit/c4a608a97846f31bdc705056c4b1eae98e3dadb8)
+- [ ] [<code>incusd/instance/drivers: Fix backing block device ordering when fetching from QEMU</code>](https://github.com/lxc/incus/commit/6687bbcadad745d2b0a26b6f44e7f7f9aaef6991)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4864,6 +4875,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/75fe88b49107d7e3f45f8433e7789cd905476295)
 - [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
 - [ ] [<code>incusd/storage/qcow2: Wait for qemu-nbd to be ready</code>](https://github.com/lxc/incus/commit/c4a608a97846f31bdc705056c4b1eae98e3dadb8)
+- [ ] [<code>incusd/instance/drivers: Fix backing block device ordering when fetching from QEMU</code>](https://github.com/lxc/incus/commit/6687bbcadad745d2b0a26b6f44e7f7f9aaef6991)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.5 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.5...HEAD)
 
@@ -5100,6 +5112,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add missing ; (#3045)</code>](https://github.com/AOMediaCodec/libavif/commit/ac4aa593630bf284d792f6dc1d50e961b88e7e44)
 - [ ] [<code>Replace AVIF_ASSERT by avm image->depth condition (#3046)</code>](https://github.com/AOMediaCodec/libavif/commit/5b8e476fdf10f3a279e828aa6cd5e325ffe2315e)
 - [ ] [<code>Make tests/test_cmd_transform.sh executable (#3047)</code>](https://github.com/AOMediaCodec/libavif/commit/3c2a66a7c24723af36de595046499f36fab9171f)
+- [ ] [<code>Restrict sato image item's depth to 8,10,12,16</code>](https://github.com/AOMediaCodec/libavif/commit/23404671dc6e50cd9ca1ee3da4fa28ff2d2562bf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5891,6 +5904,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/519b37b9ac546258c6566a8327ee1baf949512b9)
 - [ ] [<code>Fix coverity issue (#21777)</code>](https://github.com/netdata/netdata.git/commit/a0f79da6b436dfdb3e7d337a3ae93b23dee48b6f)
 - [ ] [<code>Improve metadata storage of chart and host labels (#21492)</code>](https://github.com/netdata/netdata.git/commit/4338d8eba1ac9b41724d94866cbed9daa97081d0)
+- [ ] [<code>docs: update consul keywords for discoverability (#21787)</code>](https://github.com/netdata/netdata.git/commit/465fbe7aa1a24add9c5d5e0afe303f929af33dcc)
+- [ ] [<code>Regenerate integrations docs (#21788)</code>](https://github.com/netdata/netdata.git/commit/1e3a9ed6d1b7cccc70d8801aa1d554783a501891)
+- [ ] [<code>Improve datafile deletion process (#21781)</code>](https://github.com/netdata/netdata.git/commit/4c1da82e9a22e14efa58cd73146a99d551ac76a8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6963,6 +6979,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix test_register_executor_task_anon</code>](https://github.com/tribler/py-ipv8/commit/692b6ab5c323dec6c3258b389722df33ff6bf453)
 - [ ] [<code>Freeze deprecrated curves to prevent removal</code>](https://github.com/tribler/py-ipv8/commit/bf3aa7ea78daa6c8809021c830649d5cd55ae76d)
 - [ ] [<code>Automated version increment</code>](https://github.com/tribler/py-ipv8/commit/49d17db8f2d2889de50860f0389b2bcc9adc1cd6)
+- [ ] [<code>Merge pull request #1360 from qstokkink/automated_version_update</code>](https://github.com/tribler/py-ipv8/commit/241d0c272e8828d6f5b576b8f7e7ee783845e164)
+  - <sub>Tags: <code>3.2</code></sub>
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -7212,6 +7230,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Show move_storage errors (#8890)</code>](https://github.com/tribler/Tribler/commit/41ee938722fd5a8d25b177847b0664f877ccdb3f)
 - [ ] [<code>Automatically create a Docker build after a new release</code>](https://github.com/tribler/Tribler/commit/c17b11b86489d02d410036840dfc95ef15b6d6be)
 - [ ] [<code>Automatically create a Docker build after a new release (#8893)</code>](https://github.com/tribler/Tribler/commit/36517555b4df32564a436a98d3c9816b4918e4ee)
+- [ ] [<code>Updated IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/c196647cc727815ea999a0bbf11d43bbffec9528)
+- [ ] [<code>Updated IPv8 pointer (#8894)</code>](https://github.com/tribler/Tribler/commit/aee08d174668eef08a723c792ca2b7f82cb2f004)
+- [ ] [<code>Added corrupt database cleanup</code>](https://github.com/tribler/Tribler/commit/dfc73748cf0ddb8de964e96929141810a4bd6f6e)
+- [ ] [<code>Added corrupt database cleanup (#8895)</code>](https://github.com/tribler/Tribler/commit/ba28d797b9be43dc8f57c9aeb57560c01d6a7a71)
+- [ ] [<code>Add option to Windows installer to register as Startup App</code>](https://github.com/tribler/Tribler/commit/a17fe4dd54bab1abcdb3f28dc701c8ce3ac746c7)
+- [ ] [<code>Use 'Tribler' as a description for Windows Task Manager</code>](https://github.com/tribler/Tribler/commit/81dc997878f5dbfec0f06e192b2610d4ae6fb250)
+- [ ] [<code>Added start minimized setting</code>](https://github.com/tribler/Tribler/commit/dec0fd1c7cbfdd00b5eba41fe31f85c250f34ec6)
+- [ ] [<code>Added Windows quality of life features (#8896)</code>](https://github.com/tribler/Tribler/commit/5dbeaeea7fc045de6d3b987f79b7fa476b376ed8)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
