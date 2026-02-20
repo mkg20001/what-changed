@@ -5920,6 +5920,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21788)</code>](https://github.com/netdata/netdata.git/commit/1e3a9ed6d1b7cccc70d8801aa1d554783a501891)
 - [ ] [<code>Improve datafile deletion process (#21781)</code>](https://github.com/netdata/netdata.git/commit/4c1da82e9a22e14efa58cd73146a99d551ac76a8)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-16-nightly.</code>](https://github.com/netdata/netdata.git/commit/a9838f663e7e50d918833211f9429714ab42fbb9)
+- [ ] [<code>build(deps): bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 in /src/go (#21791)</code>](https://github.com/netdata/netdata.git/commit/9fbbef59b6bc72309e7a4c2fa18f7a53bebcab01)
+- [ ] [<code>Improve print parsed (#21790)</code>](https://github.com/netdata/netdata.git/commit/22962fcffaad907440346954bbe4d81c7e44ce04)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7251,6 +7253,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use 'Tribler' as a description for Windows Task Manager</code>](https://github.com/tribler/Tribler/commit/81dc997878f5dbfec0f06e192b2610d4ae6fb250)
 - [ ] [<code>Added start minimized setting</code>](https://github.com/tribler/Tribler/commit/dec0fd1c7cbfdd00b5eba41fe31f85c250f34ec6)
 - [ ] [<code>Added Windows quality of life features (#8896)</code>](https://github.com/tribler/Tribler/commit/5dbeaeea7fc045de6d3b987f79b7fa476b376ed8)
+- [ ] [<code>Added password type to proxy password field</code>](https://github.com/tribler/Tribler/commit/e5985599940266dd38b9556e54fb77634552f838)
+- [ ] [<code>Added password type to proxy password field (#8898)</code>](https://github.com/tribler/Tribler/commit/5b8942ab452dfa8829887e7c9e3862bd7f23e9a7)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
