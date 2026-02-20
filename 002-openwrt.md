@@ -192,6 +192,7 @@
 - [ ] [<code>uclient-fetch: Support of --method, --body-data and --body-file</code>](https://git.openwrt.org/project/uclient.git/commit/0392dfc8e8c445fc51a83674b18cc6a2f1700689)
 - [ ] [<code>uclient-fetch: add OPTIONS request type</code>](https://git.openwrt.org/project/uclient.git/commit/115c92824b6d4e2117a26cae9ccc8630ae828210)
 - [ ] [<code>uclient-fetch: support for WebDAV methods</code>](https://git.openwrt.org/project/uclient.git/commit/a1531e89f6c22f92a2ac52b0408a7f5c755a09f2)
+- [ ] [<code>uclient-http: fix data_eof for body-less responses</code>](https://git.openwrt.org/project/uclient.git/commit/7a0aa2e4afb4993b7985094aa6847b9fcb04fae8)
 
 #### [udebug](https://git.openwrt.org/project/udebug.git): [5327524e715332daaebf6b04c155d2880d230979 → HEAD](https://git.openwrt.org/project/udebug.git/compare/5327524e715332daaebf6b04c155d2880d230979...HEAD)
 
