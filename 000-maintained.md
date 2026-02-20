@@ -83,6 +83,9 @@
 - [ ] [<code>sources: Fix portage snapshot GPG verification</code>](https://github.com/lxc/distrobuilder/commit/e46de2b9679e4517f70e8ecd14dd01eef0131558)
 - [ ] [<code>source.md: source.same_is is a string</code>](https://github.com/lxc/distrobuilder/commit/f1ea14c33d07004f8a41f519168e1d555c96b808)
 - [ ] [<code>systemd-generator: fix escape sequence</code>](https://github.com/lxc/distrobuilder/commit/7ffe700932a47ddb528975b4ded65d51cb1dafe8)
+- [ ] [<code>windows: Fix viosock registry entries</code>](https://github.com/lxc/distrobuilder/commit/2364ab3af730e9e69bc9c5a508832a71d3573ad0)
+- [ ] [<code>windows: Add Catalog index support</code>](https://github.com/lxc/distrobuilder/commit/2e2b10ac8d592ed80274c2b924bd713278220ae6)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -489,6 +492,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
 - [ ] [<code>incusd/storage/qcow2: Wait for qemu-nbd to be ready</code>](https://github.com/lxc/incus/commit/c4a608a97846f31bdc705056c4b1eae98e3dadb8)
 - [ ] [<code>incusd/instance/drivers: Fix backing block device ordering when fetching from QEMU</code>](https://github.com/lxc/incus/commit/6687bbcadad745d2b0a26b6f44e7f7f9aaef6991)
+- [ ] [<code>internal/server/instance/drivers: Get vsock client for Windows</code>](https://github.com/lxc/incus/commit/e14f947a95e8ccde9f714564317bb711398c59d3)
+- [ ] [<code>cmd/incus-agent: Add serial communication for Windows</code>](https://github.com/lxc/incus/commit/14e2b692d3e7689850af9c3f2e3f2265a6ec323f)
+- [ ] [<code>incusd/storage/drivers: Delete mount paths when deleting snapshots</code>](https://github.com/lxc/incus/commit/496bbf98bc717fa18f77ba963882059072d6c926)
+- [ ] [<code>cmd/incus-agent: Only use TCP agent for macOS</code>](https://github.com/lxc/incus/commit/945b5a4e80f5c50017c119110057e5d3383ff187)
+- [ ] [<code>cmd/incus-agent: Use vsock for Windows agent</code>](https://github.com/lxc/incus/commit/e2393796a7964c86a513ad5158c1bdc6d7ba7205)
+- [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -4876,12 +4885,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Fix gofumpt</code>](https://github.com/lxc/incus/commit/a6f6e60fdd2dd29c282c6197ce76124d34ffa49d)
 - [ ] [<code>incusd/storage/qcow2: Wait for qemu-nbd to be ready</code>](https://github.com/lxc/incus/commit/c4a608a97846f31bdc705056c4b1eae98e3dadb8)
 - [ ] [<code>incusd/instance/drivers: Fix backing block device ordering when fetching from QEMU</code>](https://github.com/lxc/incus/commit/6687bbcadad745d2b0a26b6f44e7f7f9aaef6991)
+- [ ] [<code>internal/server/instance/drivers: Get vsock client for Windows</code>](https://github.com/lxc/incus/commit/e14f947a95e8ccde9f714564317bb711398c59d3)
+- [ ] [<code>cmd/incus-agent: Add serial communication for Windows</code>](https://github.com/lxc/incus/commit/14e2b692d3e7689850af9c3f2e3f2265a6ec323f)
+- [ ] [<code>incusd/storage/drivers: Delete mount paths when deleting snapshots</code>](https://github.com/lxc/incus/commit/496bbf98bc717fa18f77ba963882059072d6c926)
+- [ ] [<code>cmd/incus-agent: Only use TCP agent for macOS</code>](https://github.com/lxc/incus/commit/945b5a4e80f5c50017c119110057e5d3383ff187)
+- [ ] [<code>cmd/incus-agent: Use vsock for Windows agent</code>](https://github.com/lxc/incus/commit/e2393796a7964c86a513ad5158c1bdc6d7ba7205)
+- [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.5 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.5...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.6...HEAD)
 
-- [ ] [<code>Pass valid filter to useInstances</code>](https://github.com/zabbly/incus-ui-canonical/commit/e8681caf81e455ed1c904135a191c9d47c321aef)
-- [ ] [<code>Merge pull request #129 from stephendotcarter/fix-invalid-filter</code>](https://github.com/zabbly/incus-ui-canonical/commit/894057caa581d0a88d16aee9ef2f22e063f8646d)
-  - <sub>Tags: <code>incus-0.19.6</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5907,6 +5919,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: update consul keywords for discoverability (#21787)</code>](https://github.com/netdata/netdata.git/commit/465fbe7aa1a24add9c5d5e0afe303f929af33dcc)
 - [ ] [<code>Regenerate integrations docs (#21788)</code>](https://github.com/netdata/netdata.git/commit/1e3a9ed6d1b7cccc70d8801aa1d554783a501891)
 - [ ] [<code>Improve datafile deletion process (#21781)</code>](https://github.com/netdata/netdata.git/commit/4c1da82e9a22e14efa58cd73146a99d551ac76a8)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-16-nightly.</code>](https://github.com/netdata/netdata.git/commit/a9838f663e7e50d918833211f9429714ab42fbb9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
