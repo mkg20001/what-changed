@@ -236,6 +236,12 @@
 - [ ] [<code>refactor: Use getCryptoIdentityState to check backup state</code>](https://github.com/krille-chan/fluffychat/commit/66566e6901eb588e0c23de13f8f82d43736117d7)
 - [ ] [<code>build: Update transitive packages</code>](https://github.com/krille-chan/fluffychat/commit/4a9569156a6067550f0367c6860bfcdc00af5942)
 - [ ] [<code>build: Add llvm-18  to packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/c59031c44c2748a79d34a2dfd413c9102901bf2f)
+- [ ] [<code>refactor: Add more stricter lints</code>](https://github.com/krille-chan/fluffychat/commit/5283d0fcc857880756d84937fa28b7f1d1c744cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: Avoid unnecessary lambdas</code>](https://github.com/krille-chan/fluffychat/commit/a0a03941c2c4bbd740584c5cd8907f1e6f2104c2)
+- [ ] [<code>Revert "refactor: Avoid unnecessary bool comparison"</code>](https://github.com/krille-chan/fluffychat/commit/a9a8b3946535bef90be76845292963b66ed6261e)
+- [ ] [<code>feat: Reenable native imaging for all platforms</code>](https://github.com/krille-chan/fluffychat/commit/162a594d8005a227b0f5ec23f610d81fd5866887)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -344,6 +350,12 @@
 - [ ] [<code>refactor: Use getCryptoIdentityState to check backup state</code>](https://github.com/krille-chan/fluffychat/commit/66566e6901eb588e0c23de13f8f82d43736117d7)
 - [ ] [<code>build: Update transitive packages</code>](https://github.com/krille-chan/fluffychat/commit/4a9569156a6067550f0367c6860bfcdc00af5942)
 - [ ] [<code>build: Add llvm-18  to packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/c59031c44c2748a79d34a2dfd413c9102901bf2f)
+- [ ] [<code>refactor: Add more stricter lints</code>](https://github.com/krille-chan/fluffychat/commit/5283d0fcc857880756d84937fa28b7f1d1c744cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: Avoid unnecessary lambdas</code>](https://github.com/krille-chan/fluffychat/commit/a0a03941c2c4bbd740584c5cd8907f1e6f2104c2)
+- [ ] [<code>Revert "refactor: Avoid unnecessary bool comparison"</code>](https://github.com/krille-chan/fluffychat/commit/a9a8b3946535bef90be76845292963b66ed6261e)
+- [ ] [<code>feat: Reenable native imaging for all platforms</code>](https://github.com/krille-chan/fluffychat/commit/162a594d8005a227b0f5ec23f610d81fd5866887)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5125,6 +5137,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Replace AVIF_ASSERT by avm image->depth condition (#3046)</code>](https://github.com/AOMediaCodec/libavif/commit/5b8e476fdf10f3a279e828aa6cd5e325ffe2315e)
 - [ ] [<code>Make tests/test_cmd_transform.sh executable (#3047)</code>](https://github.com/AOMediaCodec/libavif/commit/3c2a66a7c24723af36de595046499f36fab9171f)
 - [ ] [<code>Restrict sato image item's depth to 8,10,12,16</code>](https://github.com/AOMediaCodec/libavif/commit/23404671dc6e50cd9ca1ee3da4fa28ff2d2562bf)
+- [ ] [<code>Remember tune=iq option across frames (#2997)</code>](https://github.com/AOMediaCodec/libavif/commit/6064c35b9c076b39d23d50bb4fafa70d68245c53)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5383,6 +5396,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests: add /proc/pressure/* virtualization tests</code>](https://github.com/lxc/lxcfs/commit/39e4724f380d4eb3e51d03fcdeaa3696025bf210)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxcfs: add enable-psi-poll cmdline option</code>](https://github.com/lxc/lxcfs/commit/456047f344722a0df40224e582977cb7ba448ecc)
+- [ ] [<code>cgroups/cgfsng: fix whitespace errors in __cg_mount_direct</code>](https://github.com/lxc/lxcfs/commit/273a0b6ac98624532cfaa106646bc6e11279cce0)
+- [ ] [<code>cgroups/cgfsng: do not change host-wide cgroup2 superblock options</code>](https://github.com/lxc/lxcfs/commit/b7efa0592b32af6040615bb3dd2ecf8d655ead72)
+- [ ] [<code>github: pass LIBFUSE env variable to upgrade tests</code>](https://github.com/lxc/lxcfs/commit/6f2755703d42cc38580f55e51024d2587efd912e)
+- [ ] [<code>github: enable mocks for CI upgrade tests</code>](https://github.com/lxc/lxcfs/commit/726082c78d0b7bf99417d1b235a9c6b8b546f24e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>meson: don't forget to set PSI trigger mocks for liblxcfstest</code>](https://github.com/lxc/lxcfs/commit/06db22cf8ce18e310c3902cbcce64e8194c34f18)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -7255,6 +7275,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added Windows quality of life features (#8896)</code>](https://github.com/tribler/Tribler/commit/5dbeaeea7fc045de6d3b987f79b7fa476b376ed8)
 - [ ] [<code>Added password type to proxy password field</code>](https://github.com/tribler/Tribler/commit/e5985599940266dd38b9556e54fb77634552f838)
 - [ ] [<code>Added password type to proxy password field (#8898)</code>](https://github.com/tribler/Tribler/commit/5b8942ab452dfa8829887e7c9e3862bd7f23e9a7)
+- [ ] [<code>Fixed long magnet link crash</code>](https://github.com/tribler/Tribler/commit/1b393f6172f9bbba91c7f30e3c67ecde8f071e5f)
+- [ ] [<code>Fixed long magnet link crash (#8899)</code>](https://github.com/tribler/Tribler/commit/e13e89b1e2e69976e94fb51a88197a6eec29e60b)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
