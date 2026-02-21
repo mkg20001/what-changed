@@ -86,6 +86,8 @@
 - [ ] [<code>windows: Fix viosock registry entries</code>](https://github.com/lxc/distrobuilder/commit/2364ab3af730e9e69bc9c5a508832a71d3573ad0)
 - [ ] [<code>windows: Add Catalog index support</code>](https://github.com/lxc/distrobuilder/commit/2e2b10ac8d592ed80274c2b924bd713278220ae6)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>windows: Remove catalog injection</code>](https://github.com/lxc/distrobuilder/commit/f234d67ea905752e69c942decb9265b132a4f686)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -5138,6 +5140,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Make tests/test_cmd_transform.sh executable (#3047)</code>](https://github.com/AOMediaCodec/libavif/commit/3c2a66a7c24723af36de595046499f36fab9171f)
 - [ ] [<code>Restrict sato image item's depth to 8,10,12,16</code>](https://github.com/AOMediaCodec/libavif/commit/23404671dc6e50cd9ca1ee3da4fa28ff2d2562bf)
 - [ ] [<code>Remember tune=iq option across frames (#2997)</code>](https://github.com/AOMediaCodec/libavif/commit/6064c35b9c076b39d23d50bb4fafa70d68245c53)
+- [ ] [<code>Address #3029 PR feedback</code>](https://github.com/AOMediaCodec/libavif/commit/979ad61a691afdf841485e733934dfe4a7cc241c)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5942,6 +5945,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-16-nightly.</code>](https://github.com/netdata/netdata.git/commit/a9838f663e7e50d918833211f9429714ab42fbb9)
 - [ ] [<code>build(deps): bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 in /src/go (#21791)</code>](https://github.com/netdata/netdata.git/commit/9fbbef59b6bc72309e7a4c2fa18f7a53bebcab01)
 - [ ] [<code>Improve print parsed (#21790)</code>](https://github.com/netdata/netdata.git/commit/22962fcffaad907440346954bbe4d81c7e44ce04)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-19-nightly.</code>](https://github.com/netdata/netdata.git/commit/d959e44edabc25683c93e82adc6473e059465658)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
