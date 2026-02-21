@@ -622,6 +622,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus-agent: Only use TCP agent for macOS</code>](https://github.com/lxc/incus/commit/945b5a4e80f5c50017c119110057e5d3383ff187)
 - [ ] [<code>cmd/incus-agent: Use vsock for Windows agent</code>](https://github.com/lxc/incus/commit/e2393796a7964c86a513ad5158c1bdc6d7ba7205)
 - [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
+- [ ] [<code>doc/instance_units: Mention common units</code>](https://github.com/lxc/incus/commit/63eee1180396d19011495379c5044bd1ea9421fa)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5015,6 +5016,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus-agent: Only use TCP agent for macOS</code>](https://github.com/lxc/incus/commit/945b5a4e80f5c50017c119110057e5d3383ff187)
 - [ ] [<code>cmd/incus-agent: Use vsock for Windows agent</code>](https://github.com/lxc/incus/commit/e2393796a7964c86a513ad5158c1bdc6d7ba7205)
 - [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
+- [ ] [<code>doc/instance_units: Mention common units</code>](https://github.com/lxc/incus/commit/63eee1180396d19011495379c5044bd1ea9421fa)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.6...HEAD)
 
@@ -6056,6 +6058,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 in /src/go (#21791)</code>](https://github.com/netdata/netdata.git/commit/9fbbef59b6bc72309e7a4c2fa18f7a53bebcab01)
 - [ ] [<code>Improve print parsed (#21790)</code>](https://github.com/netdata/netdata.git/commit/22962fcffaad907440346954bbe4d81c7e44ce04)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-19-nightly.</code>](https://github.com/netdata/netdata.git/commit/d959e44edabc25683c93e82adc6473e059465658)
+- [ ] [<code>Add revalidation for clean pages under lock to ensure queue integrity (#21793)</code>](https://github.com/netdata/netdata.git/commit/2733e6fc60cf9c76a840e70c554dff5a6b6e01e2)
+- [ ] [<code>ML: Reserve cluster centers (#21795)</code>](https://github.com/netdata/netdata.git/commit/00b789eeb0968dbbf9830ecd962c9337cb5c6988)
+- [ ] [<code>Fix crash when processing a corrupted journalfile (#21794)</code>](https://github.com/netdata/netdata.git/commit/ee4fd63af28615cdfdb21b8a98bbf9cf9bfa16d4)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
