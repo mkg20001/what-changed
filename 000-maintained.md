@@ -6061,6 +6061,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add revalidation for clean pages under lock to ensure queue integrity (#21793)</code>](https://github.com/netdata/netdata.git/commit/2733e6fc60cf9c76a840e70c554dff5a6b6e01e2)
 - [ ] [<code>ML: Reserve cluster centers (#21795)</code>](https://github.com/netdata/netdata.git/commit/00b789eeb0968dbbf9830ecd962c9337cb5c6988)
 - [ ] [<code>Fix crash when processing a corrupted journalfile (#21794)</code>](https://github.com/netdata/netdata.git/commit/ee4fd63af28615cdfdb21b8a98bbf9cf9bfa16d4)
+- [ ] [<code>fix dcgm exporter discovery (#21800)</code>](https://github.com/netdata/netdata.git/commit/4bd1ef5f0610f51194fa1dd7e10c9016c909e645)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-24-nightly.</code>](https://github.com/netdata/netdata.git/commit/f07fdd680324b633cdb09e16fa12171a0fceb3bb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
