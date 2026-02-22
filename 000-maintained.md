@@ -238,6 +238,8 @@
 - [ ] [<code>refactor: Use getCryptoIdentityState to check backup state</code>](https://github.com/krille-chan/fluffychat/commit/66566e6901eb588e0c23de13f8f82d43736117d7)
 - [ ] [<code>build: Update transitive packages</code>](https://github.com/krille-chan/fluffychat/commit/4a9569156a6067550f0367c6860bfcdc00af5942)
 - [ ] [<code>build: Add llvm-18  to packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/c59031c44c2748a79d34a2dfd413c9102901bf2f)
+- [ ] [<code>Add lld to install custom dependency for Linux in README</code>](https://github.com/krille-chan/fluffychat/commit/d421f7ec768b2a2486a925e2f24dc3a576735778)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor: Add more stricter lints</code>](https://github.com/krille-chan/fluffychat/commit/5283d0fcc857880756d84937fa28b7f1d1c744cc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Avoid unnecessary lambdas</code>](https://github.com/krille-chan/fluffychat/commit/a0a03941c2c4bbd740584c5cd8907f1e6f2104c2)
@@ -312,6 +314,12 @@
 - [ ] [<code>chore: Remove frei.chat from homeserver list</code>](https://github.com/krille-chan/fluffychat/commit/2ac1193889436d8ff44d4ad2f0effaccfe137cce)
 - [ ] [<code>chore: Update recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/8998d5600a0df8a4dfd7a6f90afc5df0e03637e7)
 - [ ] [<code>feat: OIDC Login on same page</code>](https://github.com/krille-chan/fluffychat/commit/df847abbebc3865a1979cd28c9ca53abe37c0091)
+- [ ] [<code>feat: Add presetHomeserver config to enforce a homeserver for web</code>](https://github.com/krille-chan/fluffychat/commit/e9efce150e20324b6c4262bf34e3be9132bba5f5)
+- [ ] [<code>chore: Fix oidc login on web</code>](https://github.com/krille-chan/fluffychat/commit/bed0a89d65d3995f45b39358f5e489df9e51be24)
+- [ ] [<code>chore: Sanitize hash param for oidc</code>](https://github.com/krille-chan/fluffychat/commit/bfbcd31f352f3ce4e6dfcdd0c45ee56bd5610f29)
+- [ ] [<code>chore: Hide homepage button if not preset</code>](https://github.com/krille-chan/fluffychat/commit/9f5794004e85e6d08ef20abbbfb805d1df9cdf0b)
+- [ ] [<code>chore: Add missing localization</code>](https://github.com/krille-chan/fluffychat/commit/9873c7699b4d504fde6aebf20a82809a1b0283c4)
+- [ ] [<code>chore: Update matrix ID localization</code>](https://github.com/krille-chan/fluffychat/commit/75db25874a9b247ca4f41e85bc7f4985e78c1ddd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -420,6 +428,8 @@
 - [ ] [<code>refactor: Use getCryptoIdentityState to check backup state</code>](https://github.com/krille-chan/fluffychat/commit/66566e6901eb588e0c23de13f8f82d43736117d7)
 - [ ] [<code>build: Update transitive packages</code>](https://github.com/krille-chan/fluffychat/commit/4a9569156a6067550f0367c6860bfcdc00af5942)
 - [ ] [<code>build: Add llvm-18  to packages for snap</code>](https://github.com/krille-chan/fluffychat/commit/c59031c44c2748a79d34a2dfd413c9102901bf2f)
+- [ ] [<code>Add lld to install custom dependency for Linux in README</code>](https://github.com/krille-chan/fluffychat/commit/d421f7ec768b2a2486a925e2f24dc3a576735778)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>refactor: Add more stricter lints</code>](https://github.com/krille-chan/fluffychat/commit/5283d0fcc857880756d84937fa28b7f1d1c744cc)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: Avoid unnecessary lambdas</code>](https://github.com/krille-chan/fluffychat/commit/a0a03941c2c4bbd740584c5cd8907f1e6f2104c2)
@@ -494,6 +504,12 @@
 - [ ] [<code>chore: Remove frei.chat from homeserver list</code>](https://github.com/krille-chan/fluffychat/commit/2ac1193889436d8ff44d4ad2f0effaccfe137cce)
 - [ ] [<code>chore: Update recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/8998d5600a0df8a4dfd7a6f90afc5df0e03637e7)
 - [ ] [<code>feat: OIDC Login on same page</code>](https://github.com/krille-chan/fluffychat/commit/df847abbebc3865a1979cd28c9ca53abe37c0091)
+- [ ] [<code>feat: Add presetHomeserver config to enforce a homeserver for web</code>](https://github.com/krille-chan/fluffychat/commit/e9efce150e20324b6c4262bf34e3be9132bba5f5)
+- [ ] [<code>chore: Fix oidc login on web</code>](https://github.com/krille-chan/fluffychat/commit/bed0a89d65d3995f45b39358f5e489df9e51be24)
+- [ ] [<code>chore: Sanitize hash param for oidc</code>](https://github.com/krille-chan/fluffychat/commit/bfbcd31f352f3ce4e6dfcdd0c45ee56bd5610f29)
+- [ ] [<code>chore: Hide homepage button if not preset</code>](https://github.com/krille-chan/fluffychat/commit/9f5794004e85e6d08ef20abbbfb805d1df9cdf0b)
+- [ ] [<code>chore: Add missing localization</code>](https://github.com/krille-chan/fluffychat/commit/9873c7699b4d504fde6aebf20a82809a1b0283c4)
+- [ ] [<code>chore: Update matrix ID localization</code>](https://github.com/krille-chan/fluffychat/commit/75db25874a9b247ca4f41e85bc7f4985e78c1ddd)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5046,6 +5062,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.6...HEAD)
 
+- [ ] [<code>Fix logic for detecting incus-ui on Incus OS</code>](https://github.com/zabbly/incus-ui-canonical/commit/420fa1d40103ecd5ebd0f7c12e27fd8db207aa6d)
+- [ ] [<code>Pass project flag when fetching storage pools</code>](https://github.com/zabbly/incus-ui-canonical/commit/524d90bfce5b1ad718c4eb05d415cf5c80b8bed4)
+- [ ] [<code>Fix passing source for btrfs driver</code>](https://github.com/zabbly/incus-ui-canonical/commit/1854f236d91fe60acb357d42b04a6084dda40b76)
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
