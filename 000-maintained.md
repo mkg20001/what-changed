@@ -299,6 +299,19 @@
 - [ ] [<code>chore: Update locale config</code>](https://github.com/krille-chan/fluffychat/commit/812ea75aba8cbf20aa6776aa4bf475634cc025ca)
 - [ ] [<code>fix: Wrong placeholder in kab</code>](https://github.com/krille-chan/fluffychat/commit/c3ae496beeb586da5d293494dbbc3a60a008a532)
 - [ ] [<code>chore: Follow up import format</code>](https://github.com/krille-chan/fluffychat/commit/d434489f398df2102d52e2876d1f1fd1391c1996)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/ae1a1919b5fe4ee6515476f23d0a8ce218ca18ab)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/08379a72e51657dbd297d8b4d18fe18db79a1191)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7cde0f9d0a75089a53cd23f0254326c2adc2f6fd)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/0869a93a7a05bd176b3c05618b717b5676dd5cc9)
+- [ ] [<code>build: Deploy web on app.fluffy.chat</code>](https://github.com/krille-chan/fluffychat/commit/15a7053c58ae380e9dc2f4821eb65ae0cb2e6a97)
+- [ ] [<code>feat: Implement matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/c1541bc4bfdde03631a805c78c94b690c5704f86)
+- [ ] [<code>chore: Add recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/39ed7a3aa92eed36932902d2ecaad7771585947f)
+- [ ] [<code>chore: Clean up pages build</code>](https://github.com/krille-chan/fluffychat/commit/f9d1d4a9caa7fc7dcd2e316c678fd91dda5227f6)
+- [ ] [<code>chore: Follow up add default homeserver</code>](https://github.com/krille-chan/fluffychat/commit/c4122f7ac1d05e7093159841fad20fb94e13a81c)
+- [ ] [<code>chore: Only show confirm dialog once</code>](https://github.com/krille-chan/fluffychat/commit/67218a0acb6ab275f9e50782138e30cc9239b4a7)
+- [ ] [<code>chore: Remove frei.chat from homeserver list</code>](https://github.com/krille-chan/fluffychat/commit/2ac1193889436d8ff44d4ad2f0effaccfe137cce)
+- [ ] [<code>chore: Update recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/8998d5600a0df8a4dfd7a6f90afc5df0e03637e7)
+- [ ] [<code>feat: OIDC Login on same page</code>](https://github.com/krille-chan/fluffychat/commit/df847abbebc3865a1979cd28c9ca53abe37c0091)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -468,6 +481,19 @@
 - [ ] [<code>chore: Update locale config</code>](https://github.com/krille-chan/fluffychat/commit/812ea75aba8cbf20aa6776aa4bf475634cc025ca)
 - [ ] [<code>fix: Wrong placeholder in kab</code>](https://github.com/krille-chan/fluffychat/commit/c3ae496beeb586da5d293494dbbc3a60a008a532)
 - [ ] [<code>chore: Follow up import format</code>](https://github.com/krille-chan/fluffychat/commit/d434489f398df2102d52e2876d1f1fd1391c1996)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/ae1a1919b5fe4ee6515476f23d0a8ce218ca18ab)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/08379a72e51657dbd297d8b4d18fe18db79a1191)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/7cde0f9d0a75089a53cd23f0254326c2adc2f6fd)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/0869a93a7a05bd176b3c05618b717b5676dd5cc9)
+- [ ] [<code>build: Deploy web on app.fluffy.chat</code>](https://github.com/krille-chan/fluffychat/commit/15a7053c58ae380e9dc2f4821eb65ae0cb2e6a97)
+- [ ] [<code>feat: Implement matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/c1541bc4bfdde03631a805c78c94b690c5704f86)
+- [ ] [<code>chore: Add recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/39ed7a3aa92eed36932902d2ecaad7771585947f)
+- [ ] [<code>chore: Clean up pages build</code>](https://github.com/krille-chan/fluffychat/commit/f9d1d4a9caa7fc7dcd2e316c678fd91dda5227f6)
+- [ ] [<code>chore: Follow up add default homeserver</code>](https://github.com/krille-chan/fluffychat/commit/c4122f7ac1d05e7093159841fad20fb94e13a81c)
+- [ ] [<code>chore: Only show confirm dialog once</code>](https://github.com/krille-chan/fluffychat/commit/67218a0acb6ab275f9e50782138e30cc9239b4a7)
+- [ ] [<code>chore: Remove frei.chat from homeserver list</code>](https://github.com/krille-chan/fluffychat/commit/2ac1193889436d8ff44d4ad2f0effaccfe137cce)
+- [ ] [<code>chore: Update recommended homeservers</code>](https://github.com/krille-chan/fluffychat/commit/8998d5600a0df8a4dfd7a6f90afc5df0e03637e7)
+- [ ] [<code>feat: OIDC Login on same page</code>](https://github.com/krille-chan/fluffychat/commit/df847abbebc3865a1979cd28c9ca53abe37c0091)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6063,6 +6089,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix crash when processing a corrupted journalfile (#21794)</code>](https://github.com/netdata/netdata.git/commit/ee4fd63af28615cdfdb21b8a98bbf9cf9bfa16d4)
 - [ ] [<code>fix dcgm exporter discovery (#21800)</code>](https://github.com/netdata/netdata.git/commit/4bd1ef5f0610f51194fa1dd7e10c9016c909e645)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-24-nightly.</code>](https://github.com/netdata/netdata.git/commit/f07fdd680324b633cdb09e16fa12171a0fceb3bb)
+- [ ] [<code>build(deps): bump github.com/valyala/fastjson from 1.6.7 to 1.6.10 in /src/go (#21798)</code>](https://github.com/netdata/netdata.git/commit/bdd1d64f8c29a7984306ae5a4adda9f1cff26472)
+- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.52.0 to 0.53.0 in /src/go (#21799)</code>](https://github.com/netdata/netdata.git/commit/ebb16eb6f8fdd2a7cbfe2375a72aa49688b62450)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
