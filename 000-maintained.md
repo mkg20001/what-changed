@@ -666,6 +666,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
 - [ ] [<code>incusd/fsmonitor: Read multiple fanotify events</code>](https://github.com/lxc/incus/commit/51485b6255bab48d7779caa8082e08581f97c5e1)
 - [ ] [<code>doc/instance_units: Mention common units</code>](https://github.com/lxc/incus/commit/63eee1180396d19011495379c5044bd1ea9421fa)
+- [ ] [<code>incusd/instance/qemu: Clarify CPU hotplug error</code>](https://github.com/lxc/incus/commit/0fb068030136c38d668a140af7f28e2f15c975d2)
+- [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
+- [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
+- [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5061,6 +5065,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
 - [ ] [<code>incusd/fsmonitor: Read multiple fanotify events</code>](https://github.com/lxc/incus/commit/51485b6255bab48d7779caa8082e08581f97c5e1)
 - [ ] [<code>doc/instance_units: Mention common units</code>](https://github.com/lxc/incus/commit/63eee1180396d19011495379c5044bd1ea9421fa)
+- [ ] [<code>incusd/instance/qemu: Clarify CPU hotplug error</code>](https://github.com/lxc/incus/commit/0fb068030136c38d668a140af7f28e2f15c975d2)
+- [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
+- [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
+- [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.6...HEAD)
 
@@ -7322,6 +7330,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update react from 18.3.1 to 19.2.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2616ffd37dead2fbd05bde173778c4b6448efd6b)
 - [ ] [<code>Update react-admin from 5.8.3 to 5.14.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0fc8246639f14f50d2370687d74e07340d59affe)
 - [ ] [<code>Update README.md (#696)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2856f43f194d9798a3115cf4b8e1cf3cb4f46505)
+- [ ] [<code>Bump eslint-config-prettier from 9.1.0 to 10.1.8 (#750)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a0065c4a3c01c7103ad59129803c06ce9b27ab09)
+- [ ] [<code>Bump @tanstack/react-query from 5.90.5 to 5.90.20 (#752)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/65a29ca19d30b4d01016834f8aed11f48e425ed4)
+- [ ] [<code>Bump @typescript-eslint/parser from 8.53.1 to 8.54.0 (#754)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/39403bcd65954a586757afb01f13dac436b08bb3)
+- [ ] [<code>Bump happy-dom from 20.3.7 to 20.3.9 (#753)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7d0284727c8ff8204ffb511a531158ccf038e44c)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
