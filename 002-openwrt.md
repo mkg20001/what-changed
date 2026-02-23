@@ -140,6 +140,7 @@
 - [ ] [<code>proto-ucode: add ucode proto handler scripts</code>](https://git.openwrt.org/project/netifd.git/commit/3fc8b83c8b62ca9dcb6485790216ad5171959223)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>examples: sync wireless scripts with openwrt</code>](https://git.openwrt.org/project/netifd.git/commit/c6122254eb7003377b67a6ad14d284b69725bbee)
+- [ ] [<code>global: add support for PSE-PD control</code>](https://git.openwrt.org/project/netifd.git/commit/299a51f0c3011ca98a3f06cd29d50c2e1f86e348)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
