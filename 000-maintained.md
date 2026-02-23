@@ -664,6 +664,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus-agent: Only use TCP agent for macOS</code>](https://github.com/lxc/incus/commit/945b5a4e80f5c50017c119110057e5d3383ff187)
 - [ ] [<code>cmd/incus-agent: Use vsock for Windows agent</code>](https://github.com/lxc/incus/commit/e2393796a7964c86a513ad5158c1bdc6d7ba7205)
 - [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
+- [ ] [<code>incusd/fsmonitor: Read multiple fanotify events</code>](https://github.com/lxc/incus/commit/51485b6255bab48d7779caa8082e08581f97c5e1)
 - [ ] [<code>doc/instance_units: Mention common units</code>](https://github.com/lxc/incus/commit/63eee1180396d19011495379c5044bd1ea9421fa)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
@@ -5058,6 +5059,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus-agent: Only use TCP agent for macOS</code>](https://github.com/lxc/incus/commit/945b5a4e80f5c50017c119110057e5d3383ff187)
 - [ ] [<code>cmd/incus-agent: Use vsock for Windows agent</code>](https://github.com/lxc/incus/commit/e2393796a7964c86a513ad5158c1bdc6d7ba7205)
 - [ ] [<code>Use vsock fork</code>](https://github.com/lxc/incus/commit/9c14b11fcaecaf85ddb4434ecaa57621631c108b)
+- [ ] [<code>incusd/fsmonitor: Read multiple fanotify events</code>](https://github.com/lxc/incus/commit/51485b6255bab48d7779caa8082e08581f97c5e1)
 - [ ] [<code>doc/instance_units: Mention common units</code>](https://github.com/lxc/incus/commit/63eee1180396d19011495379c5044bd1ea9421fa)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.6...HEAD)
@@ -5065,6 +5067,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix logic for detecting incus-ui on Incus OS</code>](https://github.com/zabbly/incus-ui-canonical/commit/420fa1d40103ecd5ebd0f7c12e27fd8db207aa6d)
 - [ ] [<code>Pass project flag when fetching storage pools</code>](https://github.com/zabbly/incus-ui-canonical/commit/524d90bfce5b1ad718c4eb05d415cf5c80b8bed4)
 - [ ] [<code>Fix passing source for btrfs driver</code>](https://github.com/zabbly/incus-ui-canonical/commit/1854f236d91fe60acb357d42b04a6084dda40b76)
+- [ ] [<code>Merge pull request #132 from presztak/fix_incusos_check</code>](https://github.com/zabbly/incus-ui-canonical/commit/42429e7771d29902c3e9db2bc0ab641c7141affe)
+  - <sub>Tags: <code>incus-0.19.7</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -6110,6 +6114,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-24-nightly.</code>](https://github.com/netdata/netdata.git/commit/f07fdd680324b633cdb09e16fa12171a0fceb3bb)
 - [ ] [<code>build(deps): bump github.com/valyala/fastjson from 1.6.7 to 1.6.10 in /src/go (#21798)</code>](https://github.com/netdata/netdata.git/commit/bdd1d64f8c29a7984306ae5a4adda9f1cff26472)
 - [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.52.0 to 0.53.0 in /src/go (#21799)</code>](https://github.com/netdata/netdata.git/commit/ebb16eb6f8fdd2a7cbfe2375a72aa49688b62450)
+- [ ] [<code>fix race condition on js.timer in scripts.d scheduler (#21801)</code>](https://github.com/netdata/netdata.git/commit/b87f24b2238487d4f397a3a6e3768585f16d7600)
+- [ ] [<code>feat(go.d): new metrics collection framework (#21769)</code>](https://github.com/netdata/netdata.git/commit/2b3c73002e04f7fff6d8f8e3dfd3a1934c7b9bbd)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-29-nightly.</code>](https://github.com/netdata/netdata.git/commit/9a0e29f982dfaa208ebc56f4ee5ebc3daf57e270)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -6927,6 +6935,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use io.StringIO() instead of tempfile.TemporaryFile()</code>](https://github.com/canonical/netplan/commit/f758e3f6415aa68b7cf28991bc5b3e9631297d6d)
   - <sub>Tags: <code>1.2.1</code></sub>
 - [ ] [<code>generate: sriov: execute udev rules before starting sriov apply service</code>](https://github.com/canonical/netplan/commit/09402c69d158362745f55545e71836dc10935fdf)
+- [ ] [<code>terminal: handle BlockingIOError in addition to TypeError</code>](https://github.com/canonical/netplan/commit/44f2803ee3be5389f3f86828f83cc2499fb0534e)
 > Dropped odoo - no appropriate URL found OrderedDict({'attr_path': 'odoo', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip', 'urls': ['https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.20260104.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
