@@ -88,6 +88,10 @@
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>windows: Remove catalog injection</code>](https://github.com/lxc/distrobuilder/commit/f234d67ea905752e69c942decb9265b132a4f686)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>doc: Re-sync dependencies with Incus</code>](https://github.com/lxc/distrobuilder/commit/a8343304663b38e1e7043ebccd0393c0fdc53c95)
+- [ ] [<code>Makefile: Bump minimum version to 1.25.6</code>](https://github.com/lxc/distrobuilder/commit/21ae9f0652c8cfe125cb3451ea9833d5c8ef5f3d)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/8651b0452609ab1aa550b77d853be41909be66ff)
+- [ ] [<code>doc: Ignore HTTP errors on docutils.sourceforge.io</code>](https://github.com/lxc/distrobuilder/commit/6d8176ec9d3a90b2d6f6ed57ea2dea32eabbe02d)
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -5070,13 +5074,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.6 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.6...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
-- [ ] [<code>Fix logic for detecting incus-ui on Incus OS</code>](https://github.com/zabbly/incus-ui-canonical/commit/420fa1d40103ecd5ebd0f7c12e27fd8db207aa6d)
-- [ ] [<code>Pass project flag when fetching storage pools</code>](https://github.com/zabbly/incus-ui-canonical/commit/524d90bfce5b1ad718c4eb05d415cf5c80b8bed4)
-- [ ] [<code>Fix passing source for btrfs driver</code>](https://github.com/zabbly/incus-ui-canonical/commit/1854f236d91fe60acb357d42b04a6084dda40b76)
-- [ ] [<code>Merge pull request #132 from presztak/fix_incusos_check</code>](https://github.com/zabbly/incus-ui-canonical/commit/42429e7771d29902c3e9db2bc0ab641c7141affe)
-  - <sub>Tags: <code>incus-0.19.7</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5575,6 +5574,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>meson: don't forget to set PSI trigger mocks for liblxcfstest</code>](https://github.com/lxc/lxcfs/commit/06db22cf8ce18e310c3902cbcce64e8194c34f18)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>cgroups/cgfsng: check memory allocation in add_hierarchy</code>](https://github.com/lxc/lxcfs/commit/3aa14874a716ddc67cfcb575e57a0af39e493721)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -7470,6 +7470,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added password type to proxy password field (#8898)</code>](https://github.com/tribler/Tribler/commit/5b8942ab452dfa8829887e7c9e3862bd7f23e9a7)
 - [ ] [<code>Fixed long magnet link crash</code>](https://github.com/tribler/Tribler/commit/1b393f6172f9bbba91c7f30e3c67ecde8f071e5f)
 - [ ] [<code>Fixed long magnet link crash (#8899)</code>](https://github.com/tribler/Tribler/commit/e13e89b1e2e69976e94fb51a88197a6eec29e60b)
+- [ ] [<code>Catch PermissionError in SelectRemotePath</code>](https://github.com/tribler/Tribler/commit/15cf01e86a18f28570061973d1ba103a3230bd55)
+- [ ] [<code>Catch PermissionError in SelectRemotePath (#8901)</code>](https://github.com/tribler/Tribler/commit/94e44a308244e01ccdea2c9001a24c8b70f4bb25)
+- [ ] [<code>Add custom font settings</code>](https://github.com/tribler/Tribler/commit/225b1c21b0708383ee2997645be2861dcd09e3d4)
+- [ ] [<code>Add custom font settings (#8902)</code>](https://github.com/tribler/Tribler/commit/92b82ab42e5e9cd4e9652161192773bcc3474cac)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
