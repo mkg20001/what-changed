@@ -92,6 +92,8 @@
 - [ ] [<code>Makefile: Bump minimum version to 1.25.6</code>](https://github.com/lxc/distrobuilder/commit/21ae9f0652c8cfe125cb3451ea9833d5c8ef5f3d)
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/8651b0452609ab1aa550b77d853be41909be66ff)
 - [ ] [<code>doc: Ignore HTTP errors on docutils.sourceforge.io</code>](https://github.com/lxc/distrobuilder/commit/6d8176ec9d3a90b2d6f6ed57ea2dea32eabbe02d)
+- [ ] [<code>Release distrobuilder 3.3.0</code>](https://github.com/lxc/distrobuilder/commit/232e78c93721d03c940d7fbae448b00a44142e50)
+  - <sub>Tags: <code>v3.3.0</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -5309,6 +5311,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Restrict sato image item's depth to 8,10,12,16</code>](https://github.com/AOMediaCodec/libavif/commit/23404671dc6e50cd9ca1ee3da4fa28ff2d2562bf)
 - [ ] [<code>Remember tune=iq option across frames (#2997)</code>](https://github.com/AOMediaCodec/libavif/commit/6064c35b9c076b39d23d50bb4fafa70d68245c53)
 - [ ] [<code>Address #3029 PR feedback</code>](https://github.com/AOMediaCodec/libavif/commit/979ad61a691afdf841485e733934dfe4a7cc241c)
+- [ ] [<code>Handle null detail after aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/3e6c8dbb6ba38e31ca6667a4600e6ce827207ee5)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
