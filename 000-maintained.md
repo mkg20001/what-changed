@@ -332,6 +332,9 @@
 - [ ] [<code>refactor: Enable avoid-returning-widgets lint</code>](https://github.com/krille-chan/fluffychat/commit/ab976db8e701e9f82dae2e4c1690ff1e868c59d7)
 - [ ] [<code>chore: Execute dart code linter in CI</code>](https://github.com/krille-chan/fluffychat/commit/2d23f88e6b698f0486b880254219d43b48f0e3af)
 - [ ] [<code>refactor: Enable more strict lints</code>](https://github.com/krille-chan/fluffychat/commit/28af7bb0c76b4adc27fbc42b30db034fe118daad)
+- [ ] [<code>build: Update native imaging</code>](https://github.com/krille-chan/fluffychat/commit/00c95e008c9d5ea9fae57497e8449f04fa3eac1a)
+- [ ] [<code>feat: Remember last successful logged in homeserver</code>](https://github.com/krille-chan/fluffychat/commit/0401456481982ee8a02a657bad988bb0b1545bb6)
+- [ ] [<code>chore: Follow up sign up design</code>](https://github.com/krille-chan/fluffychat/commit/2408568f365e3f3a648ecedb635f8b320c5cbf58)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -528,6 +531,9 @@
 - [ ] [<code>refactor: Enable avoid-returning-widgets lint</code>](https://github.com/krille-chan/fluffychat/commit/ab976db8e701e9f82dae2e4c1690ff1e868c59d7)
 - [ ] [<code>chore: Execute dart code linter in CI</code>](https://github.com/krille-chan/fluffychat/commit/2d23f88e6b698f0486b880254219d43b48f0e3af)
 - [ ] [<code>refactor: Enable more strict lints</code>](https://github.com/krille-chan/fluffychat/commit/28af7bb0c76b4adc27fbc42b30db034fe118daad)
+- [ ] [<code>build: Update native imaging</code>](https://github.com/krille-chan/fluffychat/commit/00c95e008c9d5ea9fae57497e8449f04fa3eac1a)
+- [ ] [<code>feat: Remember last successful logged in homeserver</code>](https://github.com/krille-chan/fluffychat/commit/0401456481982ee8a02a657bad988bb0b1545bb6)
+- [ ] [<code>chore: Follow up sign up design</code>](https://github.com/krille-chan/fluffychat/commit/2408568f365e3f3a648ecedb635f8b320c5cbf58)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -688,6 +694,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
+- [ ] [<code>api: cluster_evacuating_restoring</code>](https://github.com/lxc/incus/commit/f4448698f85e5b741374fb5ad77f577531e75196)
+- [ ] [<code>incusd/cluster: Implement evacuating and restoring states</code>](https://github.com/lxc/incus/commit/554d1191dc3f42c92d55868fe2b6054af9d599ed)
+- [ ] [<code>shared/api: Align JSON and YAML behavior for preseeding</code>](https://github.com/lxc/incus/commit/091c4f2912cac9670e8749d7e1dd204cb88ebc1a)
+- [ ] [<code>client: Update for InitPreseed change</code>](https://github.com/lxc/incus/commit/f9da920f8ae57b1424de7fd480dd3baee42e20f2)
+- [ ] [<code>incus: Update for InitPreseed change</code>](https://github.com/lxc/incus/commit/95266436b9dcbbbdd1d9419aa01476d5472e02f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for InitPreseed change</code>](https://github.com/lxc/incus/commit/c17b9aa48139b17b5e1333d3c62bbf9d80fbb453)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d6aa609e85a1e599fbb206aed2835f17af641877)
+- [ ] [<code>incusd/device/nic_ovn: Fix nested NIC state</code>](https://github.com/lxc/incus/commit/c2e46ec9f2aaa439f5fe17785a16da2f84492d7a)
 - [ ] [<code>incusd/metrics: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/f95d40522e46f8978b10464effc110ae9c7f0be4)
 - [ ] [<code>incus-agent: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/9f67663de8e3673426132b54c75728f87e5f5d67)
 - [ ] [<code>incusd/instance/lxc: Implement time metrics</code>](https://github.com/lxc/incus/commit/fceddab78732d17d68db323bae2d96be78cd188b)
@@ -5091,6 +5106,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
+- [ ] [<code>api: cluster_evacuating_restoring</code>](https://github.com/lxc/incus/commit/f4448698f85e5b741374fb5ad77f577531e75196)
+- [ ] [<code>incusd/cluster: Implement evacuating and restoring states</code>](https://github.com/lxc/incus/commit/554d1191dc3f42c92d55868fe2b6054af9d599ed)
+- [ ] [<code>shared/api: Align JSON and YAML behavior for preseeding</code>](https://github.com/lxc/incus/commit/091c4f2912cac9670e8749d7e1dd204cb88ebc1a)
+- [ ] [<code>client: Update for InitPreseed change</code>](https://github.com/lxc/incus/commit/f9da920f8ae57b1424de7fd480dd3baee42e20f2)
+- [ ] [<code>incus: Update for InitPreseed change</code>](https://github.com/lxc/incus/commit/95266436b9dcbbbdd1d9419aa01476d5472e02f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Update for InitPreseed change</code>](https://github.com/lxc/incus/commit/c17b9aa48139b17b5e1333d3c62bbf9d80fbb453)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/d6aa609e85a1e599fbb206aed2835f17af641877)
+- [ ] [<code>incusd/device/nic_ovn: Fix nested NIC state</code>](https://github.com/lxc/incus/commit/c2e46ec9f2aaa439f5fe17785a16da2f84492d7a)
 - [ ] [<code>incusd/metrics: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/f95d40522e46f8978b10464effc110ae9c7f0be4)
 - [ ] [<code>incus-agent: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/9f67663de8e3673426132b54c75728f87e5f5d67)
 - [ ] [<code>incusd/instance/lxc: Implement time metrics</code>](https://github.com/lxc/incus/commit/fceddab78732d17d68db323bae2d96be78cd188b)
@@ -5333,6 +5357,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Address #3029 PR feedback</code>](https://github.com/AOMediaCodec/libavif/commit/979ad61a691afdf841485e733934dfe4a7cc241c)
 - [ ] [<code>Handle null detail after aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/3e6c8dbb6ba38e31ca6667a4600e6ce827207ee5)
 - [ ] [<code>Set a callback function for dav1d_log()</code>](https://github.com/AOMediaCodec/libavif/commit/0a3f94e37ed564d0945554bb387884f7f93a52ca)
+- [ ] [<code>Write diag msg if aom_codec_peek_stream_info fails</code>](https://github.com/AOMediaCodec/libavif/commit/6d776545e4e606187abbd5b126b649ebe1d8cea8)
+- [ ] [<code>Prevent integer overflows in src/gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/2fdc99960d85be6361c2cd56185e27c29234eeb0)
+- [ ] [<code>Call aom_codec_peek_stream_info() on every image</code>](https://github.com/AOMediaCodec/libavif/commit/912d26b492683e094755fe33d3c61526a9823929)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6150,6 +6177,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(go.d): new metrics collection framework (#21769)</code>](https://github.com/netdata/netdata.git/commit/2b3c73002e04f7fff6d8f8e3dfd3a1934c7b9bbd)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-29-nightly.</code>](https://github.com/netdata/netdata.git/commit/9a0e29f982dfaa208ebc56f4ee5ebc3daf57e270)
+- [ ] [<code>Aclk proxy connect log (#21789)</code>](https://github.com/netdata/netdata.git/commit/b829cb3ae2bd2ff88609a990cdce7732de85fb94)
+- [ ] [<code>chore(go.d): restructure (#21803)</code>](https://github.com/netdata/netdata.git/commit/e11663cdfe1bbd7aba7c02adab137e34de4bf9ea)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21807)</code>](https://github.com/netdata/netdata.git/commit/fff0515b0d7d929b6be2dafaa0ff44a93329c3bb)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7500,6 +7532,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Catch PermissionError in SelectRemotePath (#8901)</code>](https://github.com/tribler/Tribler/commit/94e44a308244e01ccdea2c9001a24c8b70f4bb25)
 - [ ] [<code>Add custom font settings</code>](https://github.com/tribler/Tribler/commit/225b1c21b0708383ee2997645be2861dcd09e3d4)
 - [ ] [<code>Add custom font settings (#8902)</code>](https://github.com/tribler/Tribler/commit/92b82ab42e5e9cd4e9652161192773bcc3474cac)
+- [ ] [<code>Fixed untranslated strings in Linux build</code>](https://github.com/tribler/Tribler/commit/27a70b900698a414d82009ec41429b1ef04c0151)
+- [ ] [<code>Fixed untranslated strings in Linux build (#8903)</code>](https://github.com/tribler/Tribler/commit/5626946328988bb8b72ca8648ee9727d79346d3d)
+- [ ] [<code>Don't check after finish if we finish after checking</code>](https://github.com/tribler/Tribler/commit/f2f174019f64c08b03efa2b408ef4519fc60448e)
+- [ ] [<code>Don't check after finish if we finish after checking (#8905)</code>](https://github.com/tribler/Tribler/commit/799ecfa14f0d70e8080a01063d3c7941a9f6bf9a)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
