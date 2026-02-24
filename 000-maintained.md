@@ -326,6 +326,12 @@
 - [ ] [<code>chore: Hide homepage button if not preset</code>](https://github.com/krille-chan/fluffychat/commit/9f5794004e85e6d08ef20abbbfb805d1df9cdf0b)
 - [ ] [<code>chore: Add missing localization</code>](https://github.com/krille-chan/fluffychat/commit/9873c7699b4d504fde6aebf20a82809a1b0283c4)
 - [ ] [<code>chore: Update matrix ID localization</code>](https://github.com/krille-chan/fluffychat/commit/75db25874a9b247ca4f41e85bc7f4985e78c1ddd)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/8e4b4f1338d02a74839c6d749e4b3ed1e8374385)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/278bd2580e2611d90848d1559d73d328380c07d4)
+- [ ] [<code>build: Check for commented code in CI</code>](https://github.com/krille-chan/fluffychat/commit/e82438975b29264b7652e2d18ba2f510f33b3f88)
+- [ ] [<code>refactor: Enable avoid-returning-widgets lint</code>](https://github.com/krille-chan/fluffychat/commit/ab976db8e701e9f82dae2e4c1690ff1e868c59d7)
+- [ ] [<code>chore: Execute dart code linter in CI</code>](https://github.com/krille-chan/fluffychat/commit/2d23f88e6b698f0486b880254219d43b48f0e3af)
+- [ ] [<code>refactor: Enable more strict lints</code>](https://github.com/krille-chan/fluffychat/commit/28af7bb0c76b4adc27fbc42b30db034fe118daad)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -516,6 +522,12 @@
 - [ ] [<code>chore: Hide homepage button if not preset</code>](https://github.com/krille-chan/fluffychat/commit/9f5794004e85e6d08ef20abbbfb805d1df9cdf0b)
 - [ ] [<code>chore: Add missing localization</code>](https://github.com/krille-chan/fluffychat/commit/9873c7699b4d504fde6aebf20a82809a1b0283c4)
 - [ ] [<code>chore: Update matrix ID localization</code>](https://github.com/krille-chan/fluffychat/commit/75db25874a9b247ca4f41e85bc7f4985e78c1ddd)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/8e4b4f1338d02a74839c6d749e4b3ed1e8374385)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/278bd2580e2611d90848d1559d73d328380c07d4)
+- [ ] [<code>build: Check for commented code in CI</code>](https://github.com/krille-chan/fluffychat/commit/e82438975b29264b7652e2d18ba2f510f33b3f88)
+- [ ] [<code>refactor: Enable avoid-returning-widgets lint</code>](https://github.com/krille-chan/fluffychat/commit/ab976db8e701e9f82dae2e4c1690ff1e868c59d7)
+- [ ] [<code>chore: Execute dart code linter in CI</code>](https://github.com/krille-chan/fluffychat/commit/2d23f88e6b698f0486b880254219d43b48f0e3af)
+- [ ] [<code>refactor: Enable more strict lints</code>](https://github.com/krille-chan/fluffychat/commit/28af7bb0c76b4adc27fbc42b30db034fe118daad)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -676,6 +688,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
+- [ ] [<code>incusd/metrics: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/f95d40522e46f8978b10464effc110ae9c7f0be4)
+- [ ] [<code>incus-agent: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/9f67663de8e3673426132b54c75728f87e5f5d67)
+- [ ] [<code>incusd/instance/lxc: Implement time metrics</code>](https://github.com/lxc/incus/commit/fceddab78732d17d68db323bae2d96be78cd188b)
+- [ ] [<code>doc: Add description of incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/a6466c25bce1c2f907bf3421a94abc466b441991)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5075,6 +5091,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
+- [ ] [<code>incusd/metrics: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/f95d40522e46f8978b10464effc110ae9c7f0be4)
+- [ ] [<code>incus-agent: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/9f67663de8e3673426132b54c75728f87e5f5d67)
+- [ ] [<code>incusd/instance/lxc: Implement time metrics</code>](https://github.com/lxc/incus/commit/fceddab78732d17d68db323bae2d96be78cd188b)
+- [ ] [<code>doc: Add description of incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/a6466c25bce1c2f907bf3421a94abc466b441991)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -5312,6 +5332,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remember tune=iq option across frames (#2997)</code>](https://github.com/AOMediaCodec/libavif/commit/6064c35b9c076b39d23d50bb4fafa70d68245c53)
 - [ ] [<code>Address #3029 PR feedback</code>](https://github.com/AOMediaCodec/libavif/commit/979ad61a691afdf841485e733934dfe4a7cc241c)
 - [ ] [<code>Handle null detail after aom_codec_decode failure</code>](https://github.com/AOMediaCodec/libavif/commit/3e6c8dbb6ba38e31ca6667a4600e6ce827207ee5)
+- [ ] [<code>Set a callback function for dav1d_log()</code>](https://github.com/AOMediaCodec/libavif/commit/0a3f94e37ed564d0945554bb387884f7f93a52ca)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -7337,6 +7358,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump @tanstack/react-query from 5.90.5 to 5.90.20 (#752)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/65a29ca19d30b4d01016834f8aed11f48e425ed4)
 - [ ] [<code>Bump @typescript-eslint/parser from 8.53.1 to 8.54.0 (#754)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/39403bcd65954a586757afb01f13dac436b08bb3)
 - [ ] [<code>Bump happy-dom from 20.3.7 to 20.3.9 (#753)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7d0284727c8ff8204ffb511a531158ccf038e44c)
+- [ ] [<code>Bump happy-dom from 20.3.9 to 20.7.0 (#762)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b225a1e2fe592a450ea3aaabfd466bb46dbbafaf)
+- [ ] [<code>Bump @types/node from 22.15.29 to 25.3.0 (#763)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/93c9b1ee6ae1bba136ab3bcd93fd2e5d65f24417)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
