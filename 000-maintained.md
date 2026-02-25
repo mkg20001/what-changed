@@ -337,8 +337,24 @@
 - [ ] [<code>refactor: Enable more strict lints</code>](https://github.com/krille-chan/fluffychat/commit/28af7bb0c76b4adc27fbc42b30db034fe118daad)
 - [ ] [<code>build: Update native imaging</code>](https://github.com/krille-chan/fluffychat/commit/00c95e008c9d5ea9fae57497e8449f04fa3eac1a)
 - [ ] [<code>feat: Remember last successful logged in homeserver</code>](https://github.com/krille-chan/fluffychat/commit/0401456481982ee8a02a657bad988bb0b1545bb6)
+- [ ] [<code>chore(translations): Translated using Weblate (English)</code>](https://github.com/krille-chan/fluffychat/commit/becdff56b1a2c16115c922fdb78fa98aa0d0aeff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/03d1b279d340932acda8edeb79f76b409dcf5e19)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/9234ac2cc1ef884a2f05dc15ac8d6e64e8d35057)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/a58c2244b3c122266f9abe20a97a027a539a61f3)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/0012dbd42527f4ceaf01e1d325fc79073b815ad5)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/7e9478b92fe1828e110a9b3eda8b7d72caed5a4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/f5992ddeca86921912b6efd0adb7ccab94e9c26f)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2bf200d44ad58f7a54e2a6aa0cc30348365f2df0)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/e3b5cf2baae9d0740adf34028147c96be6c6a41e)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/3cdaf97a4cc7e0129aee3a7e6898700f513bb42a)
 - [ ] [<code>chore: Follow up sign up design</code>](https://github.com/krille-chan/fluffychat/commit/2408568f365e3f3a648ecedb635f8b320c5cbf58)
 - [ ] [<code>chore: Adjust design of user viewer and popup buttons</code>](https://github.com/krille-chan/fluffychat/commit/0052a15b5416310a7f650426b00de22fa9c700ac)
+- [ ] [<code>fix: Do not route to backup on soft logout</code>](https://github.com/krille-chan/fluffychat/commit/740f04206a45efbb0341d9c0a7590e9d6b198afe)
+- [ ] [<code>build: Update iOS to UIScene</code>](https://github.com/krille-chan/fluffychat/commit/88900bf72dec1fc1463e618da42e212230c4a8f2)
+- [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/ad7a2d9a01bbb6c8ccf50fd430d4ba3627128dc0)
+- [ ] [<code>chore: Follow up user dialog and public room dialog</code>](https://github.com/krille-chan/fluffychat/commit/1cbeb16616af6ce0e0599d31f6d2998c8279f76b)
+- [ ] [<code>chore: Follow up profile dialogs</code>](https://github.com/krille-chan/fluffychat/commit/cfe43c23d5063974fced76b50ebef3de47ea5139)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -537,8 +553,24 @@
 - [ ] [<code>refactor: Enable more strict lints</code>](https://github.com/krille-chan/fluffychat/commit/28af7bb0c76b4adc27fbc42b30db034fe118daad)
 - [ ] [<code>build: Update native imaging</code>](https://github.com/krille-chan/fluffychat/commit/00c95e008c9d5ea9fae57497e8449f04fa3eac1a)
 - [ ] [<code>feat: Remember last successful logged in homeserver</code>](https://github.com/krille-chan/fluffychat/commit/0401456481982ee8a02a657bad988bb0b1545bb6)
+- [ ] [<code>chore(translations): Translated using Weblate (English)</code>](https://github.com/krille-chan/fluffychat/commit/becdff56b1a2c16115c922fdb78fa98aa0d0aeff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/03d1b279d340932acda8edeb79f76b409dcf5e19)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/9234ac2cc1ef884a2f05dc15ac8d6e64e8d35057)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/a58c2244b3c122266f9abe20a97a027a539a61f3)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/0012dbd42527f4ceaf01e1d325fc79073b815ad5)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/7e9478b92fe1828e110a9b3eda8b7d72caed5a4c)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/f5992ddeca86921912b6efd0adb7ccab94e9c26f)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2bf200d44ad58f7a54e2a6aa0cc30348365f2df0)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/e3b5cf2baae9d0740adf34028147c96be6c6a41e)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/3cdaf97a4cc7e0129aee3a7e6898700f513bb42a)
 - [ ] [<code>chore: Follow up sign up design</code>](https://github.com/krille-chan/fluffychat/commit/2408568f365e3f3a648ecedb635f8b320c5cbf58)
 - [ ] [<code>chore: Adjust design of user viewer and popup buttons</code>](https://github.com/krille-chan/fluffychat/commit/0052a15b5416310a7f650426b00de22fa9c700ac)
+- [ ] [<code>fix: Do not route to backup on soft logout</code>](https://github.com/krille-chan/fluffychat/commit/740f04206a45efbb0341d9c0a7590e9d6b198afe)
+- [ ] [<code>build: Update iOS to UIScene</code>](https://github.com/krille-chan/fluffychat/commit/88900bf72dec1fc1463e618da42e212230c4a8f2)
+- [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/ad7a2d9a01bbb6c8ccf50fd430d4ba3627128dc0)
+- [ ] [<code>chore: Follow up user dialog and public room dialog</code>](https://github.com/krille-chan/fluffychat/commit/1cbeb16616af6ce0e0599d31f6d2998c8279f76b)
+- [ ] [<code>chore: Follow up profile dialogs</code>](https://github.com/krille-chan/fluffychat/commit/cfe43c23d5063974fced76b50ebef3de47ea5139)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -717,6 +749,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus-agent: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/9f67663de8e3673426132b54c75728f87e5f5d67)
 - [ ] [<code>incusd/instance/lxc: Implement time metrics</code>](https://github.com/lxc/incus/commit/fceddab78732d17d68db323bae2d96be78cd188b)
 - [ ] [<code>doc: Add description of incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/a6466c25bce1c2f907bf3421a94abc466b441991)
+- [ ] [<code>incusd/storage/linstor: Propagate error when volume filler fails</code>](https://github.com/lxc/incus/commit/d9e857863e0b2f243ebf7acabab0fa6880053c19)
+- [ ] [<code>shared/validate: Allow a specific set of compressors</code>](https://github.com/lxc/incus/commit/a16b672a03e366e9bc841518135a50b0f1dbccfd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Validate CompressionAlgorithm everywhere it's received</code>](https://github.com/lxc/incus/commit/cd05e344cc5e42ae525189538991e7e8eac3020b)
+- [ ] [<code>tests: Check compression algorithm validation</code>](https://github.com/lxc/incus/commit/31e1dbaae8d9b05c2ae6e16f5ee3f3a5b44efa92)
+- [ ] [<code>incusd/project: Prevent restricted projects from pulling data</code>](https://github.com/lxc/incus/commit/4280aa97eaf6b47c39c690b3c33573d89a2feecf)
+- [ ] [<code>api: projects_restricted_image_servers</code>](https://github.com/lxc/incus/commit/eaab12e273f367952205783aaa1707349fb20c6f)
+- [ ] [<code>incusd/project: Introduce restricted.images.servers</code>](https://github.com/lxc/incus/commit/ad05844c14d97505abba32200df00061cafd4b24)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/efef135a0ea54ed3f23a937ef0f05c3b9e01e710)
+- [ ] [<code>incusd/project: Implement image server restrictions</code>](https://github.com/lxc/incus/commit/23549678d2f5a5bfc7845a3fcf3672a128d54fc5)
+- [ ] [<code>incusd/images: Check project restrictions on image download</code>](https://github.com/lxc/incus/commit/bc285333289d802c5e90ab98a952627fb42092ec)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5134,6 +5177,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incus-agent: Implement incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/9f67663de8e3673426132b54c75728f87e5f5d67)
 - [ ] [<code>incusd/instance/lxc: Implement time metrics</code>](https://github.com/lxc/incus/commit/fceddab78732d17d68db323bae2d96be78cd188b)
 - [ ] [<code>doc: Add description of incus_boot_time_seconds and incus_time_seconds</code>](https://github.com/lxc/incus/commit/a6466c25bce1c2f907bf3421a94abc466b441991)
+- [ ] [<code>incusd/storage/linstor: Propagate error when volume filler fails</code>](https://github.com/lxc/incus/commit/d9e857863e0b2f243ebf7acabab0fa6880053c19)
+- [ ] [<code>shared/validate: Allow a specific set of compressors</code>](https://github.com/lxc/incus/commit/a16b672a03e366e9bc841518135a50b0f1dbccfd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd: Validate CompressionAlgorithm everywhere it's received</code>](https://github.com/lxc/incus/commit/cd05e344cc5e42ae525189538991e7e8eac3020b)
+- [ ] [<code>tests: Check compression algorithm validation</code>](https://github.com/lxc/incus/commit/31e1dbaae8d9b05c2ae6e16f5ee3f3a5b44efa92)
+- [ ] [<code>incusd/project: Prevent restricted projects from pulling data</code>](https://github.com/lxc/incus/commit/4280aa97eaf6b47c39c690b3c33573d89a2feecf)
+- [ ] [<code>api: projects_restricted_image_servers</code>](https://github.com/lxc/incus/commit/eaab12e273f367952205783aaa1707349fb20c6f)
+- [ ] [<code>incusd/project: Introduce restricted.images.servers</code>](https://github.com/lxc/incus/commit/ad05844c14d97505abba32200df00061cafd4b24)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/efef135a0ea54ed3f23a937ef0f05c3b9e01e710)
+- [ ] [<code>incusd/project: Implement image server restrictions</code>](https://github.com/lxc/incus/commit/23549678d2f5a5bfc7845a3fcf3672a128d54fc5)
+- [ ] [<code>incusd/images: Check project restrictions on image download</code>](https://github.com/lxc/incus/commit/bc285333289d802c5e90ab98a952627fb42092ec)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -6200,6 +6254,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Support environment variable expansion in host labels (#21796)</code>](https://github.com/netdata/netdata.git/commit/9a4c6a80ed3cc363d57576c1a50fd9f641198aea)
 - [ ] [<code>Fix url check (#21805)</code>](https://github.com/netdata/netdata.git/commit/d3831c46efd16a4b90c5317d4f3de24586044a6e)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-35-nightly.</code>](https://github.com/netdata/netdata.git/commit/60e51bcf716910b20627e94fed8b33b3978de2ad)
+- [ ] [<code>refactor(go.d): tighten agent dyncfg flow and type safety (#21808)</code>](https://github.com/netdata/netdata.git/commit/0f8600101c3c63864c8e6baa507b7766c96a7ab7)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7554,6 +7610,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed untranslated strings in Linux build (#8903)</code>](https://github.com/tribler/Tribler/commit/5626946328988bb8b72ca8648ee9727d79346d3d)
 - [ ] [<code>Don't check after finish if we finish after checking</code>](https://github.com/tribler/Tribler/commit/f2f174019f64c08b03efa2b408ef4519fc60448e)
 - [ ] [<code>Don't check after finish if we finish after checking (#8905)</code>](https://github.com/tribler/Tribler/commit/799ecfa14f0d70e8080a01063d3c7941a9f6bf9a)
+- [ ] [<code>Fix for RSS feeds with bad tracker URLs</code>](https://github.com/tribler/Tribler/commit/ea524a697bb5906b7928f3f43d097e3dd2afad06)
+- [ ] [<code>Fix for RSS feeds with bad tracker URLs (#8908)</code>](https://github.com/tribler/Tribler/commit/2ec051e65242134bd753e3cf03c0b2d8a061c3d3)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
