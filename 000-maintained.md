@@ -94,6 +94,9 @@
 - [ ] [<code>doc: Ignore HTTP errors on docutils.sourceforge.io</code>](https://github.com/lxc/distrobuilder/commit/6d8176ec9d3a90b2d6f6ed57ea2dea32eabbe02d)
 - [ ] [<code>Release distrobuilder 3.3.0</code>](https://github.com/lxc/distrobuilder/commit/232e78c93721d03c940d7fbae448b00a44142e50)
   - <sub>Tags: <code>v3.3.0</code></sub>
+- [ ] [<code>global: Update for semver tags</code>](https://github.com/lxc/distrobuilder/commit/15b434c88c4997c75b54e2a9a815d46d854c73fe)
+- [ ] [<code>Release distrobuilder v3.3.1</code>](https://github.com/lxc/distrobuilder/commit/7d4d2da99bf0f28ef64229cdb73922142ff87a5d)
+  - <sub>Tags: <code>v3.3.1</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -335,6 +338,7 @@
 - [ ] [<code>build: Update native imaging</code>](https://github.com/krille-chan/fluffychat/commit/00c95e008c9d5ea9fae57497e8449f04fa3eac1a)
 - [ ] [<code>feat: Remember last successful logged in homeserver</code>](https://github.com/krille-chan/fluffychat/commit/0401456481982ee8a02a657bad988bb0b1545bb6)
 - [ ] [<code>chore: Follow up sign up design</code>](https://github.com/krille-chan/fluffychat/commit/2408568f365e3f3a648ecedb635f8b320c5cbf58)
+- [ ] [<code>chore: Adjust design of user viewer and popup buttons</code>](https://github.com/krille-chan/fluffychat/commit/0052a15b5416310a7f650426b00de22fa9c700ac)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -534,6 +538,7 @@
 - [ ] [<code>build: Update native imaging</code>](https://github.com/krille-chan/fluffychat/commit/00c95e008c9d5ea9fae57497e8449f04fa3eac1a)
 - [ ] [<code>feat: Remember last successful logged in homeserver</code>](https://github.com/krille-chan/fluffychat/commit/0401456481982ee8a02a657bad988bb0b1545bb6)
 - [ ] [<code>chore: Follow up sign up design</code>](https://github.com/krille-chan/fluffychat/commit/2408568f365e3f3a648ecedb635f8b320c5cbf58)
+- [ ] [<code>chore: Adjust design of user viewer and popup buttons</code>](https://github.com/krille-chan/fluffychat/commit/0052a15b5416310a7f650426b00de22fa9c700ac)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -694,6 +699,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
+- [ ] [<code>incusd/storage/drivers: Allow creation of qcow2 custom volumes</code>](https://github.com/lxc/incus/commit/4ed9e204065bd99bef1e8904edff848f021108f3)
+- [ ] [<code>incusd/instance/drivers: Support detaching qcow2 custom volumes</code>](https://github.com/lxc/incus/commit/754b359010a019b1e6262f47751cf1b3d313ca48)
+- [ ] [<code>incusd/storage: Add snapshot management for qcow2 custom volumes</code>](https://github.com/lxc/incus/commit/3c47b7a2469211b2675f262b47fada55b7c4146b)
+- [ ] [<code>incusd/device: Pass backing path information for disk devices</code>](https://github.com/lxc/incus/commit/5203fdc5de6c08be61b9ced060292c701aec1bd2)
+- [ ] [<code>incusd/storage: Block custom volume snapshot create/delete when attached to an instance</code>](https://github.com/lxc/incus/commit/09b258db143066fcdd55d880c473de56fc0a71ae)
 - [ ] [<code>api: cluster_evacuating_restoring</code>](https://github.com/lxc/incus/commit/f4448698f85e5b741374fb5ad77f577531e75196)
 - [ ] [<code>incusd/cluster: Implement evacuating and restoring states</code>](https://github.com/lxc/incus/commit/554d1191dc3f42c92d55868fe2b6054af9d599ed)
 - [ ] [<code>shared/api: Align JSON and YAML behavior for preseeding</code>](https://github.com/lxc/incus/commit/091c4f2912cac9670e8749d7e1dd204cb88ebc1a)
@@ -5106,6 +5116,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/qmp: Add MemoryConfiguration</code>](https://github.com/lxc/incus/commit/2f71c4e555a1dafd6e0bd8ff618f6c355da40687)
 - [ ] [<code>incusd/instance/qemu: Improve error message on memory hotplug</code>](https://github.com/lxc/incus/commit/a8e88e5f9906d9c19b20801e4113ef3c52566454)
 - [ ] [<code>doc/instance: Cover CPU and memory hotplug limits</code>](https://github.com/lxc/incus/commit/24e0a95d2643dc4555a9377d4de08451a7778ab3)
+- [ ] [<code>incusd/storage/drivers: Allow creation of qcow2 custom volumes</code>](https://github.com/lxc/incus/commit/4ed9e204065bd99bef1e8904edff848f021108f3)
+- [ ] [<code>incusd/instance/drivers: Support detaching qcow2 custom volumes</code>](https://github.com/lxc/incus/commit/754b359010a019b1e6262f47751cf1b3d313ca48)
+- [ ] [<code>incusd/storage: Add snapshot management for qcow2 custom volumes</code>](https://github.com/lxc/incus/commit/3c47b7a2469211b2675f262b47fada55b7c4146b)
+- [ ] [<code>incusd/device: Pass backing path information for disk devices</code>](https://github.com/lxc/incus/commit/5203fdc5de6c08be61b9ced060292c701aec1bd2)
+- [ ] [<code>incusd/storage: Block custom volume snapshot create/delete when attached to an instance</code>](https://github.com/lxc/incus/commit/09b258db143066fcdd55d880c473de56fc0a71ae)
 - [ ] [<code>api: cluster_evacuating_restoring</code>](https://github.com/lxc/incus/commit/f4448698f85e5b741374fb5ad77f577531e75196)
 - [ ] [<code>incusd/cluster: Implement evacuating and restoring states</code>](https://github.com/lxc/incus/commit/554d1191dc3f42c92d55868fe2b6054af9d599ed)
 - [ ] [<code>shared/api: Align JSON and YAML behavior for preseeding</code>](https://github.com/lxc/incus/commit/091c4f2912cac9670e8749d7e1dd204cb88ebc1a)
@@ -6182,6 +6197,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21807)</code>](https://github.com/netdata/netdata.git/commit/fff0515b0d7d929b6be2dafaa0ff44a93329c3bb)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Support environment variable expansion in host labels (#21796)</code>](https://github.com/netdata/netdata.git/commit/9a4c6a80ed3cc363d57576c1a50fd9f641198aea)
+- [ ] [<code>Fix url check (#21805)</code>](https://github.com/netdata/netdata.git/commit/d3831c46efd16a4b90c5317d4f3de24586044a6e)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-35-nightly.</code>](https://github.com/netdata/netdata.git/commit/60e51bcf716910b20627e94fed8b33b3978de2ad)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
