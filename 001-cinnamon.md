@@ -116,6 +116,8 @@
 - [ ] [<code>Fix bad comment, workflow extension.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/a95ffa42aecc6f5c2970c423a3cdd61ab074168e)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/e6971b7ef01791f73e2df69c5bd1f9522cc17064)
 - [ ] [<code>input-sources settings: Add a new setting to store the default xkb (#263)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/26cf76088ada8b94be5118bce9586daf2d7f69eb)
+- [ ] [<code>libcvc: refresh from upstream libgnome-volume-control.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2d4f3560ae4abf15ecefafc2d8c8178a92a54dea)
+- [ ] [<code>libcvc: Re-add stream monitor, balance, fade, lfe to channel map,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/249f587db0ea95200baafcbf178c67bc99a44a45)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
