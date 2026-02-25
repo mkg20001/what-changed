@@ -25,78 +25,8 @@
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/distrobuilder-3.2 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/distrobuilder-3.2...HEAD)
+#### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/v3.3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/v3.3.1...HEAD)
 
-- [ ] [<code>sources/archlinux: Add riscv64 support</code>](https://github.com/lxc/distrobuilder/commit/454b1cf9b267c95c26e6adf958c093f0dcd62b5b)
-- [ ] [<code>github: Don't run gomod update</code>](https://github.com/lxc/distrobuilder/commit/90b6f60fab31066ec4a1f3d2bd2632eeebd32888)
-- [ ] [<code>archlinux: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/eab39d5c80b6279dd5672abcceafb183bc0f9a8f)
-- [ ] [<code>pacman: Add riscv64</code>](https://github.com/lxc/distrobuilder/commit/349d5996238021e07afe2160926eed6f886db2a2)
-- [ ] [<code>managers: Fix typo</code>](https://github.com/lxc/distrobuilder/commit/032c7bf3e2090e26eacb8f34381f49db33f210d3)
-- [ ] [<code>Usage: Set image.os for Windows installation</code>](https://github.com/lxc/distrobuilder/commit/f870b35312ae8fd76a02ff30cb2c638845d564a5)
-- [ ] [<code>Replace `gopkg.in/yaml.v2` with `github.com/goccy/go-yaml`</code>](https://github.com/lxc/distrobuilder/commit/50d870b0255453d4f4d8ce035793ba0ce17d0d68)
-- [ ] [<code>Revert "Replace `gopkg.in/yaml.v2` with `github.com/goccy/go-yaml`"</code>](https://github.com/lxc/distrobuilder/commit/bc1dd4f8e212c851c26893a83ddf344fa8275c63)
-- [ ] [<code>Go: Use incus 6.12</code>](https://github.com/lxc/distrobuilder/commit/4ca985cf18935bcd1bf105a1c98c0bffee93f062)
-- [ ] [<code>shared: Update ArchitectureID import</code>](https://github.com/lxc/distrobuilder/commit/5a5663c9ca0b43f6b82955fb575c026c7c242773)
-- [ ] [<code>utils_test.go: TestRecvGPGKeys add missing cleanup</code>](https://github.com/lxc/distrobuilder/commit/cdab568f5b7fafd36a8f6104d81baad3524b9da7)
-- [ ] [<code>chroot: Don't empty mount targets</code>](https://github.com/lxc/distrobuilder/commit/dcd2bba6f55a1eb2861864c8a07027a8ad0909be)
-- [ ] [<code>Makefile: Pin go-jose for Go 1.23</code>](https://github.com/lxc/distrobuilder/commit/b98f82942370b18b527bb29b952c8de664f92724)
-- [ ] [<code>sources/docker: Port to skopeo+umoci</code>](https://github.com/lxc/distrobuilder/commit/5fcd59e6835c459dc5292e31462682f9ec646faf)
-- [ ] [<code>Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/1baf69d4fa95d2a69a7804cced69a70c0c901a33)
-- [ ] [<code>incus: Support compression=none for VMs</code>](https://github.com/lxc/distrobuilder/commit/2a646ab61c196b5daefbaa9d3847d224cd2ebda0)
-- [ ] [<code>windows: Add 2k25 to supported list</code>](https://github.com/lxc/distrobuilder/commit/818231cf9f46036d46875d5f5a4a4bef4d8ad180)
-- [ ] [<code>openwrt: verify checksum and signature by default</code>](https://github.com/lxc/distrobuilder/commit/28c898412e06848c7ed15e6248dfa343bf4065a7)
-- [ ] [<code>almalinux: Add support for AlmaLinux 10</code>](https://github.com/lxc/distrobuilder/commit/8a6088f94a21ef55d8f594e6d7ee42c02755cbc6)
-- [ ] [<code>rockylinux: Add RockyLinux 10 support</code>](https://github.com/lxc/distrobuilder/commit/3fe2a28754abba1500759d656cb6f5bbcab607e2)
-- [ ] [<code>Revert "almalinux: Add support for AlmaLinux 10"</code>](https://github.com/lxc/distrobuilder/commit/f2c14b596578104c70664323eda8e56cb4ea7dbc)
-- [ ] [<code>almalinux: Align nogpgcheck with Rocky</code>](https://github.com/lxc/distrobuilder/commit/be3ac30e61d714780524ba27fa1d35516608dbf1)
-- [ ] [<code>almalinux: Fix install script</code>](https://github.com/lxc/distrobuilder/commit/fc5060aa0d013f953b9b9242b5e8a56b09d672b8)
-- [ ] [<code>fedora-http: Use RsyncLocal</code>](https://github.com/lxc/distrobuilder/commit/78def3425f767bfaf2ce91f8d20c8d7b1b587deb)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>centos: Add support for CentOS Stream 10</code>](https://github.com/lxc/distrobuilder/commit/7f7abc7e6822695115618f5a1135a9343357b6ea)
-- [ ] [<code>centos: Fix GPGKey and mirror for Centos Stream 9 onwards</code>](https://github.com/lxc/distrobuilder/commit/d8d161bdc8464c8b00c930dcbc2cb3361e1a167e)
-- [ ] [<code>windows: Add viosock driver</code>](https://github.com/lxc/distrobuilder/commit/a040931fd953d32b98a5ff5bd3e097b1a4e344a0)
-- [ ] [<code>windows: Write viosock service and lib files</code>](https://github.com/lxc/distrobuilder/commit/d0ec6640a7754548692e455e4ea926005f2add2e)
-- [ ] [<code>distrobuilder: Make linter happy</code>](https://github.com/lxc/distrobuilder/commit/608b70e6f135690dccd81d1ee688cfc525aead12)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>windows: Fix lib dir location</code>](https://github.com/lxc/distrobuilder/commit/5400886f44d710d24ff900175cecd89853c724dc)
-- [ ] [<code>systemd-generator: Fix console-getty handling</code>](https://github.com/lxc/distrobuilder/commit/d0e0b68a627206a6dc5384587603b91f1e41d43b)
-- [ ] [<code>docker: use umoci library and podman image library</code>](https://github.com/lxc/distrobuilder/commit/cab50c066292655bda19cc1334b7f728aa08891b)
-- [ ] [<code>make: use build tags to stub unnecessary dependencies</code>](https://github.com/lxc/distrobuilder/commit/984047ec711a205887d919660df59af3cb0fb94b)
-- [ ] [<code>Makefile: Bump minimum to Go 1.24.7</code>](https://github.com/lxc/distrobuilder/commit/585b31fdb176d62dcd3cd35f3f95e38828288195)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/bff1c3c434880db1431a3d6d6f5b1bff32a27ea1)
-- [ ] [<code>github: Ignore unrelated GHSA</code>](https://github.com/lxc/distrobuilder/commit/909b5f8700ecbf9512f8c4d91b5cf4e088218aa1)
-- [ ] [<code>sources/fedora: Remove legacy releases</code>](https://github.com/lxc/distrobuilder/commit/26121f5ebfa5e4031e193080abb2083d79f51cc8)
-- [ ] [<code>sources: Always use custom HTTP client</code>](https://github.com/lxc/distrobuilder/commit/bf526f359e95749ccad01a4513fab4902848caab)
-- [ ] [<code>sources: Tweak HTTP client to be more compatible</code>](https://github.com/lxc/distrobuilder/commit/27e9ba9b4ea447a14baa505846c768fa81037d04)
-- [ ] [<code>sources: Update the tests for HTTP client</code>](https://github.com/lxc/distrobuilder/commit/deed5039462e28f5848ad1f6d5d2f04e91330f55)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/5f0ce558e6392b4347eff261361e2b009c5f46c4)
-- [ ] [<code>Remove deprecated 22.03 architecture path and filename logic </code>](https://github.com/lxc/distrobuilder/commit/de6955faf5544c4512fab85c1d8024c4c3f0e46a)
-- [ ] [<code>Update OpenWRT config to build also release candidates</code>](https://github.com/lxc/distrobuilder/commit/194b0f40afcced221a35edb72ce8f51db2fa5ade)
-- [ ] [<code>sources: support AlmaLinux 9 and 10 with HTTP sources</code>](https://github.com/lxc/distrobuilder/commit/3c4b82e6be3470951c73ed2ddbde04d73809cd3b)
-- [ ] [<code>sources: refactor AlmaLinux version check to use switch statement</code>](https://github.com/lxc/distrobuilder/commit/a24601ebfd99febc32d2b63d16828c05467f66af)
-- [ ] [<code>sources: enforce GPG verification across multiple distros</code>](https://github.com/lxc/distrobuilder/commit/64b60db96cefcd03d16a6e2661e842ac937a6e42)
-- [ ] [<code>sources/voidlinux: revert GPG validation changes</code>](https://github.com/lxc/distrobuilder/commit/1cafa6a5a13490195b6f8677527f54a8e8b5f1b2)
-- [ ] [<code>sources/centos: fix GPG verification for plain checksum files</code>](https://github.com/lxc/distrobuilder/commit/6628e5de55eaf0c02b7b4d97ee6936b257960190)
-- [ ] [<code>sources/gentoo: download .DIGESTS separately for GPG verification</code>](https://github.com/lxc/distrobuilder/commit/2bd631eb1b43f6d3807722302aa4d0b6cc8103e1)
-- [ ] [<code>sources/rocky: implement version-specific GPG verification</code>](https://github.com/lxc/distrobuilder/commit/6b6c3dd48f495fc88bc89aa07616da2e9d25838c)
-- [ ] [<code>sources/centos-http: Support CentOS Stream 10 checksum file</code>](https://github.com/lxc/distrobuilder/commit/1015a5ac067c6b5322fc90115accf563b6a940e3)
-- [ ] [<code>sources: Fix portage snapshot GPG verification</code>](https://github.com/lxc/distrobuilder/commit/e46de2b9679e4517f70e8ecd14dd01eef0131558)
-- [ ] [<code>source.md: source.same_is is a string</code>](https://github.com/lxc/distrobuilder/commit/f1ea14c33d07004f8a41f519168e1d555c96b808)
-- [ ] [<code>systemd-generator: fix escape sequence</code>](https://github.com/lxc/distrobuilder/commit/7ffe700932a47ddb528975b4ded65d51cb1dafe8)
-- [ ] [<code>windows: Fix viosock registry entries</code>](https://github.com/lxc/distrobuilder/commit/2364ab3af730e9e69bc9c5a508832a71d3573ad0)
-- [ ] [<code>windows: Add Catalog index support</code>](https://github.com/lxc/distrobuilder/commit/2e2b10ac8d592ed80274c2b924bd713278220ae6)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>windows: Remove catalog injection</code>](https://github.com/lxc/distrobuilder/commit/f234d67ea905752e69c942decb9265b132a4f686)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>doc: Re-sync dependencies with Incus</code>](https://github.com/lxc/distrobuilder/commit/a8343304663b38e1e7043ebccd0393c0fdc53c95)
-- [ ] [<code>Makefile: Bump minimum version to 1.25.6</code>](https://github.com/lxc/distrobuilder/commit/21ae9f0652c8cfe125cb3451ea9833d5c8ef5f3d)
-- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/distrobuilder/commit/8651b0452609ab1aa550b77d853be41909be66ff)
-- [ ] [<code>doc: Ignore HTTP errors on docutils.sourceforge.io</code>](https://github.com/lxc/distrobuilder/commit/6d8176ec9d3a90b2d6f6ed57ea2dea32eabbe02d)
-- [ ] [<code>Release distrobuilder 3.3.0</code>](https://github.com/lxc/distrobuilder/commit/232e78c93721d03c940d7fbae448b00a44142e50)
-  - <sub>Tags: <code>v3.3.0</code></sub>
-- [ ] [<code>global: Update for semver tags</code>](https://github.com/lxc/distrobuilder/commit/15b434c88c4997c75b54e2a9a815d46d854c73fe)
-- [ ] [<code>Release distrobuilder v3.3.1</code>](https://github.com/lxc/distrobuilder/commit/7d4d2da99bf0f28ef64229cdb73922142ff87a5d)
-  - <sub>Tags: <code>v3.3.1</code></sub>
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
 
@@ -355,6 +285,10 @@
 - [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/ad7a2d9a01bbb6c8ccf50fd430d4ba3627128dc0)
 - [ ] [<code>chore: Follow up user dialog and public room dialog</code>](https://github.com/krille-chan/fluffychat/commit/1cbeb16616af6ce0e0599d31f6d2998c8279f76b)
 - [ ] [<code>chore: Follow up profile dialogs</code>](https://github.com/krille-chan/fluffychat/commit/cfe43c23d5063974fced76b50ebef3de47ea5139)
+- [ ] [<code>chore: Put oidc behind a feature flag until fixed</code>](https://github.com/krille-chan/fluffychat/commit/1ea607f633aed2e445c50e920c5ea572dd0ba37a)
+- [ ] [<code>chore: Adjust power level UX</code>](https://github.com/krille-chan/fluffychat/commit/47934a33788a52a0e3b9855d2d0f68f3e03c8c06)
+- [ ] [<code>chore: Follow up power level UX</code>](https://github.com/krille-chan/fluffychat/commit/fd70c292e9ad499183cb4cd1e2b02915870390b9)
+- [ ] [<code>chore: Follow up user dialog sharing</code>](https://github.com/krille-chan/fluffychat/commit/a04067d1e99a61bd9c9939236ebfe0010f774fa7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -571,6 +505,10 @@
 - [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/ad7a2d9a01bbb6c8ccf50fd430d4ba3627128dc0)
 - [ ] [<code>chore: Follow up user dialog and public room dialog</code>](https://github.com/krille-chan/fluffychat/commit/1cbeb16616af6ce0e0599d31f6d2998c8279f76b)
 - [ ] [<code>chore: Follow up profile dialogs</code>](https://github.com/krille-chan/fluffychat/commit/cfe43c23d5063974fced76b50ebef3de47ea5139)
+- [ ] [<code>chore: Put oidc behind a feature flag until fixed</code>](https://github.com/krille-chan/fluffychat/commit/1ea607f633aed2e445c50e920c5ea572dd0ba37a)
+- [ ] [<code>chore: Adjust power level UX</code>](https://github.com/krille-chan/fluffychat/commit/47934a33788a52a0e3b9855d2d0f68f3e03c8c06)
+- [ ] [<code>chore: Follow up power level UX</code>](https://github.com/krille-chan/fluffychat/commit/fd70c292e9ad499183cb4cd1e2b02915870390b9)
+- [ ] [<code>chore: Follow up user dialog sharing</code>](https://github.com/krille-chan/fluffychat/commit/a04067d1e99a61bd9c9939236ebfe0010f774fa7)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -760,6 +698,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/efef135a0ea54ed3f23a937ef0f05c3b9e01e710)
 - [ ] [<code>incusd/project: Implement image server restrictions</code>](https://github.com/lxc/incus/commit/23549678d2f5a5bfc7845a3fcf3672a128d54fc5)
 - [ ] [<code>incusd/images: Check project restrictions on image download</code>](https://github.com/lxc/incus/commit/bc285333289d802c5e90ab98a952627fb42092ec)
+- [ ] [<code>incusd/db: Turn NodeSpecificStorageConfig into driver aware function</code>](https://github.com/lxc/incus/commit/3401e04fb13820cc13d71cdd98c2fe83a80c98c8)
+- [ ] [<code>incusd: Switch usages to NodeSpecificStorageConfig function</code>](https://github.com/lxc/incus/commit/1dc48a39e5919daf56181bf6785e5e705235a803)
+- [ ] [<code>incusd/storage: Add support for expanding lvmcluster storage pool</code>](https://github.com/lxc/incus/commit/d48c70d86d3a37db96feecd13f4d8bdc7e1a281c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add DisallowedStorageConfigForCreation and ClusterWideStorageConfig</code>](https://github.com/lxc/incus/commit/0f1bd8974a82bb3f2bd5ef47def6301dde073a88)
+- [ ] [<code>incusd: Add additional checks fro re-sizing lvmcluster pool</code>](https://github.com/lxc/incus/commit/16dad199cf2a3ce945bf283836282e2050717c62)
+- [ ] [<code>api: Add storage_lvmcluster_size extension</code>](https://github.com/lxc/incus/commit/79699cd9b2f3625e3cbfa97cfd895d693e6f9c3f)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1e53e08bdc7a31c5f2ea22320f69518dc1b25d41)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5188,6 +5134,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/efef135a0ea54ed3f23a937ef0f05c3b9e01e710)
 - [ ] [<code>incusd/project: Implement image server restrictions</code>](https://github.com/lxc/incus/commit/23549678d2f5a5bfc7845a3fcf3672a128d54fc5)
 - [ ] [<code>incusd/images: Check project restrictions on image download</code>](https://github.com/lxc/incus/commit/bc285333289d802c5e90ab98a952627fb42092ec)
+- [ ] [<code>incusd/db: Turn NodeSpecificStorageConfig into driver aware function</code>](https://github.com/lxc/incus/commit/3401e04fb13820cc13d71cdd98c2fe83a80c98c8)
+- [ ] [<code>incusd: Switch usages to NodeSpecificStorageConfig function</code>](https://github.com/lxc/incus/commit/1dc48a39e5919daf56181bf6785e5e705235a803)
+- [ ] [<code>incusd/storage: Add support for expanding lvmcluster storage pool</code>](https://github.com/lxc/incus/commit/d48c70d86d3a37db96feecd13f4d8bdc7e1a281c)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incusd/storage: Add DisallowedStorageConfigForCreation and ClusterWideStorageConfig</code>](https://github.com/lxc/incus/commit/0f1bd8974a82bb3f2bd5ef47def6301dde073a88)
+- [ ] [<code>incusd: Add additional checks fro re-sizing lvmcluster pool</code>](https://github.com/lxc/incus/commit/16dad199cf2a3ce945bf283836282e2050717c62)
+- [ ] [<code>api: Add storage_lvmcluster_size extension</code>](https://github.com/lxc/incus/commit/79699cd9b2f3625e3cbfa97cfd895d693e6f9c3f)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1e53e08bdc7a31c5f2ea22320f69518dc1b25d41)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -5620,6 +5574,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meson.build: fix open_how include with glibc-2.43+</code>](https://github.com/lxc/lxc/commit/061acb0b3835b7b2a6c689588028fd72d0f03dcc)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>lxc/network: optimize netdev_get_mtu</code>](https://github.com/lxc/lxc/commit/3ba8131f06d6e0efe0132c6d9a867cdcd2a52343)
+- [ ] [<code>lxc/network: save/restore physical network interfaces altnames</code>](https://github.com/lxc/lxc/commit/5e9b89c8f7fdcd766966fe35d092602e47fdd0eb)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6256,6 +6212,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-35-nightly.</code>](https://github.com/netdata/netdata.git/commit/60e51bcf716910b20627e94fed8b33b3978de2ad)
 - [ ] [<code>refactor(go.d): tighten agent dyncfg flow and type safety (#21808)</code>](https://github.com/netdata/netdata.git/commit/0f8600101c3c63864c8e6baa507b7766c96a7ab7)
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>feat(go.d/logger): add conditional and rate-limited logging (#21813)</code>](https://github.com/netdata/netdata.git/commit/54771625c6f33ca9392bd6dc7b48a7fb053dfcb9)
+- [ ] [<code>docs(go.d/mysql): add User Statistics prerequisite for per-user metrics (#21814)</code>](https://github.com/netdata/netdata.git/commit/51edc7d16da350b49d780a360d6334b76dac35e5)
+- [ ] [<code>Regenerate integrations docs (#21815)</code>](https://github.com/netdata/netdata.git/commit/356b6eaae9d4ae8cd876e7fe027d071c3c20b572)
+- [ ] [<code>chore(go.d/logger): improve caller attribution and unify terminal checks (#21817)</code>](https://github.com/netdata/netdata.git/commit/95d79021969c2e204ac934b45b6f4ac7df8d3084)
+- [ ] [<code>Reduce log noise for indexing limit warnings on online journal files (#21816)</code>](https://github.com/netdata/netdata.git/commit/192fab5ac9c4919c1980f3c99c491d59e1e8260e)
+- [ ] [<code>fix(go.d/sd): skip unsupported discoverer configs (#21818)</code>](https://github.com/netdata/netdata.git/commit/e0dad9f2b1c62603bbc4d46d6d9c4d1e9cff8329)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix potential use after free in RAM mode (#21809)</code>](https://github.com/netdata/netdata.git/commit/c21e5cefba4b4beab106c07b739a2f88cfe9388f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7612,6 +7576,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Don't check after finish if we finish after checking (#8905)</code>](https://github.com/tribler/Tribler/commit/799ecfa14f0d70e8080a01063d3c7941a9f6bf9a)
 - [ ] [<code>Fix for RSS feeds with bad tracker URLs</code>](https://github.com/tribler/Tribler/commit/ea524a697bb5906b7928f3f43d097e3dd2afad06)
 - [ ] [<code>Fix for RSS feeds with bad tracker URLs (#8908)</code>](https://github.com/tribler/Tribler/commit/2ec051e65242134bd753e3cf03c0b2d8a061c3d3)
+- [ ] [<code>Add TSTATEDIR selection to NSIS installer</code>](https://github.com/tribler/Tribler/commit/da44844393bc64b4d4e6312ff34aabfb35a13e45)
+- [ ] [<code>Add TSTATEDIR selection to NSIS installer (#8909)</code>](https://github.com/tribler/Tribler/commit/e77c30eb02785a2370d354078f5ac9bc93a1a74a)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -7718,3 +7684,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve style of xsi-media-removable-symbolic, add xsi-drive-</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e28f9569e06d40cdfeb5debaef386a4b64d89230)
 - [ ] [<code>icons/meson.build: Don't follow symlinks.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/591e53438f7d00243f1160bbccf2ed99448d8359)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>fix and improve d/copyright (#24)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b13f7ad758bf7483c0f04e1897984bc9f3ff68ec)
+  - <sub>Keywords: <code>usr</code></sub>
