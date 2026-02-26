@@ -20,7 +20,7 @@
 - [ ] [<code>Replace platform-dependent threading and synchronization primitives with libuv (#42)</code>](https://github.com/cowsql/cowsql/commit/b33bfb6b907e8d249b7663a0af0c134fa8af44d5)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6</code>](https://github.com/cowsql/cowsql/commit/2fa86081c5cab23f27b903225ab5a0a71e730302)
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
-> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': 'https://storage.googleapis.com/dart-archive/channels/stable/release/3.11.0/sdk/dartsdk-linux-x64-release.zip', 'urls': ['https://storage.googleapis.com/dart-archive/channels/stable/release/3.11.0/sdk/dartsdk-linux-x64-release.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -706,6 +706,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Add additional checks fro re-sizing lvmcluster pool</code>](https://github.com/lxc/incus/commit/16dad199cf2a3ce945bf283836282e2050717c62)
 - [ ] [<code>api: Add storage_lvmcluster_size extension</code>](https://github.com/lxc/incus/commit/79699cd9b2f3625e3cbfa97cfd895d693e6f9c3f)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1e53e08bdc7a31c5f2ea22320f69518dc1b25d41)
+- [ ] [<code>incusd/certificates: Store full API objects in the cache</code>](https://github.com/lxc/incus/commit/ed76fc05e230a2586a49cc67f883e583d3bd49c6)
+- [ ] [<code>incusd/project: Update permissions test for new certificate cache</code>](https://github.com/lxc/incus/commit/4b5a0f9ea5b15b9ec0e6768cbabfb16f89c1c1c8)
+- [ ] [<code>incusd/certificate: Allow to retrieve a single API certificate</code>](https://github.com/lxc/incus/commit/48db801fd63ac7a6f2b006f123da9ac887272919)
+- [ ] [<code>incusd/auth/scriptlet: Expose API certificate and request TLS chain to the scriptlet</code>](https://github.com/lxc/incus/commit/c9602f8d65ac5f65f9cb18212a8aeebc9e74cfd7)
+- [ ] [<code>doc/authorization: Document new scriptlet details fields</code>](https://github.com/lxc/incus/commit/5fed3adf6b23aac43d5466ebdba597bd38791362)
+- [ ] [<code>api: authorization_scriptlet_cert</code>](https://github.com/lxc/incus/commit/1faf993654f95effa3cebde282e9d5e38f6f7dc2)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5142,6 +5148,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Add additional checks fro re-sizing lvmcluster pool</code>](https://github.com/lxc/incus/commit/16dad199cf2a3ce945bf283836282e2050717c62)
 - [ ] [<code>api: Add storage_lvmcluster_size extension</code>](https://github.com/lxc/incus/commit/79699cd9b2f3625e3cbfa97cfd895d693e6f9c3f)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1e53e08bdc7a31c5f2ea22320f69518dc1b25d41)
+- [ ] [<code>incusd/certificates: Store full API objects in the cache</code>](https://github.com/lxc/incus/commit/ed76fc05e230a2586a49cc67f883e583d3bd49c6)
+- [ ] [<code>incusd/project: Update permissions test for new certificate cache</code>](https://github.com/lxc/incus/commit/4b5a0f9ea5b15b9ec0e6768cbabfb16f89c1c1c8)
+- [ ] [<code>incusd/certificate: Allow to retrieve a single API certificate</code>](https://github.com/lxc/incus/commit/48db801fd63ac7a6f2b006f123da9ac887272919)
+- [ ] [<code>incusd/auth/scriptlet: Expose API certificate and request TLS chain to the scriptlet</code>](https://github.com/lxc/incus/commit/c9602f8d65ac5f65f9cb18212a8aeebc9e74cfd7)
+- [ ] [<code>doc/authorization: Document new scriptlet details fields</code>](https://github.com/lxc/incus/commit/5fed3adf6b23aac43d5466ebdba597bd38791362)
+- [ ] [<code>api: authorization_scriptlet_cert</code>](https://github.com/lxc/incus/commit/1faf993654f95effa3cebde282e9d5e38f6f7dc2)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -5383,6 +5395,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Write diag msg if aom_codec_peek_stream_info fails</code>](https://github.com/AOMediaCodec/libavif/commit/6d776545e4e606187abbd5b126b649ebe1d8cea8)
 - [ ] [<code>Prevent integer overflows in src/gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/2fdc99960d85be6361c2cd56185e27c29234eeb0)
 - [ ] [<code>Call aom_codec_peek_stream_info() on every image</code>](https://github.com/AOMediaCodec/libavif/commit/912d26b492683e094755fe33d3c61526a9823929)
+- [ ] [<code>Fix potential integer overflow in rowBytes multiplications</code>](https://github.com/AOMediaCodec/libavif/commit/c79a400a76f4cb9085d451a4b4ea1a0e6d104486)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6220,6 +6233,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(go.d/sd): skip unsupported discoverer configs (#21818)</code>](https://github.com/netdata/netdata.git/commit/e0dad9f2b1c62603bbc4d46d6d9c4d1e9cff8329)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix potential use after free in RAM mode (#21809)</code>](https://github.com/netdata/netdata.git/commit/c21e5cefba4b4beab106c07b739a2f88cfe9388f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-44-nightly.</code>](https://github.com/netdata/netdata.git/commit/d2f9aa35ecd4e12bd80dcbd6e75ba62ef7a80d4c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7286,19 +7300,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 > Dropped python313Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python313Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-2.0.0.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-2.0.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [python313Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.1 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.1...HEAD)
+#### [python313Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.2 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.2...HEAD)
 
-- [ ] [<code>Fixed TestHiddenServices setting bad peer flags</code>](https://github.com/tribler/py-ipv8/commit/f2354a30710ddc514c989b7c9da4d877c89debd6)
-- [ ] [<code>Add possible exits to extend candidates</code>](https://github.com/tribler/py-ipv8/commit/b4cb8707ed67de9ad5df598e7221422e80699a82)
-- [ ] [<code>Fix for extending to the wrong candidate</code>](https://github.com/tribler/py-ipv8/commit/a80373ad8ad3c10e70efab3bc00b54a12f0215df)
-- [ ] [<code>Revise message identifier specification for @dataclass</code>](https://github.com/tribler/py-ipv8/commit/a28f5de84e270ef61cabbe29e8260eaceadb4e48)
-- [ ] [<code>Ensure that Community.guess_address() only returns valid addresses, if any</code>](https://github.com/tribler/py-ipv8/commit/b51da583829c45fc459670025a064e83a894bd82)
-- [ ] [<code>Disable IPv4 on UDPv6Endpoint</code>](https://github.com/tribler/py-ipv8/commit/155d2bb223d223b170ab587dc94183aa4b7785c4)
-- [ ] [<code>Fix test_register_executor_task_anon</code>](https://github.com/tribler/py-ipv8/commit/692b6ab5c323dec6c3258b389722df33ff6bf453)
-- [ ] [<code>Freeze deprecrated curves to prevent removal</code>](https://github.com/tribler/py-ipv8/commit/bf3aa7ea78daa6c8809021c830649d5cd55ae76d)
-- [ ] [<code>Automated version increment</code>](https://github.com/tribler/py-ipv8/commit/49d17db8f2d2889de50860f0389b2bcc9adc1cd6)
-- [ ] [<code>Merge pull request #1360 from qstokkink/automated_version_update</code>](https://github.com/tribler/py-ipv8/commit/241d0c272e8828d6f5b576b8f7e7ee783845e164)
-  - <sub>Tags: <code>3.2</code></sub>
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
