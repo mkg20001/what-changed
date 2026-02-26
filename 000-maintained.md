@@ -712,6 +712,26 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/auth/scriptlet: Expose API certificate and request TLS chain to the scriptlet</code>](https://github.com/lxc/incus/commit/c9602f8d65ac5f65f9cb18212a8aeebc9e74cfd7)
 - [ ] [<code>doc/authorization: Document new scriptlet details fields</code>](https://github.com/lxc/incus/commit/5fed3adf6b23aac43d5466ebdba597bd38791362)
 - [ ] [<code>api: authorization_scriptlet_cert</code>](https://github.com/lxc/incus/commit/1faf993654f95effa3cebde282e9d5e38f6f7dc2)
+- [ ] [<code>incusd/images: Simplify image URL check</code>](https://github.com/lxc/incus/commit/6e40fbcfee9a58a980e103a553f7e687ba8fcbe9)
+- [ ] [<code>api: lvmcluster_remove_snapshots</code>](https://github.com/lxc/incus/commit/aa4d48d0d0cddcee2c03afb3497b2524e59391b5)
+- [ ] [<code>incusd/storage/drivers: Add 'lvmcluster.remove_snapshots' config key</code>](https://github.com/lxc/incus/commit/31960e5cc24674c7a6ad121d8c1a795da244a588)
+- [ ] [<code>incusd/storage: Handle snapshot restore when 'lvmcluster.remove_snapshots' is set</code>](https://github.com/lxc/incus/commit/be0d8992f7d649998673df44c741ea19855f6a8f)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1f88674e863d13f1bb18073deccc329f833a486d)
+- [ ] [<code>incus: Add validation before starting sshSFTPserver</code>](https://github.com/lxc/incus/commit/9778ff4946b1ab984d5acb355d73a9df0e2e056e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Add validation for sftp checks</code>](https://github.com/lxc/incus/commit/1b924895fd329a1206ebfc7045ac5572d47b3e5d)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bdd4811175bcaf984f48d37457f071227d86b715)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Pass volume type to daemonStorageValidate</code>](https://github.com/lxc/incus/commit/fcc892a4c089a32c225a81246478d31c0bb5b88e)
+- [ ] [<code>api: daemon_storage_logs</code>](https://github.com/lxc/incus/commit/d265aa69796f0e4ce12b70ae112db5d77d8cfd57)
+- [ ] [<code>incusd/config: Add storage logs_volume option</code>](https://github.com/lxc/incus/commit/5c9f4d6823b79cc0a8825c8c52aa3fe186f4e7bb)
+- [ ] [<code>incusd/daemon_storage: Add storage operation for 'storage.logs_volume'</code>](https://github.com/lxc/incus/commit/dd3e6ed0fb8127ee523338022fb9049fed98f436)
+- [ ] [<code>incusd/api: Add validation and management of 'storage.logs_volume'</code>](https://github.com/lxc/incus/commit/5579a90e7720a96107722196bdd3ed722296fd8a)
+- [ ] [<code>incusd/instance/common: Use logs folder when configured</code>](https://github.com/lxc/incus/commit/0048a8b53de2615e3a7e6e4f8ac8c47cc36b0574)
+- [ ] [<code>incusd/instance/lxc: Use LogPath for forkstart</code>](https://github.com/lxc/incus/commit/b2d24b1ba5054000e4a69a0f33f391d075578264)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance_logs: Use LogPath</code>](https://github.com/lxc/incus/commit/7864c0039e6acc79ad6a5e47c25389405be0c79d)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/03bb491e469275d5de132553bcfe9583a1cb1da1)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5154,9 +5174,31 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/auth/scriptlet: Expose API certificate and request TLS chain to the scriptlet</code>](https://github.com/lxc/incus/commit/c9602f8d65ac5f65f9cb18212a8aeebc9e74cfd7)
 - [ ] [<code>doc/authorization: Document new scriptlet details fields</code>](https://github.com/lxc/incus/commit/5fed3adf6b23aac43d5466ebdba597bd38791362)
 - [ ] [<code>api: authorization_scriptlet_cert</code>](https://github.com/lxc/incus/commit/1faf993654f95effa3cebde282e9d5e38f6f7dc2)
+- [ ] [<code>incusd/images: Simplify image URL check</code>](https://github.com/lxc/incus/commit/6e40fbcfee9a58a980e103a553f7e687ba8fcbe9)
+- [ ] [<code>api: lvmcluster_remove_snapshots</code>](https://github.com/lxc/incus/commit/aa4d48d0d0cddcee2c03afb3497b2524e59391b5)
+- [ ] [<code>incusd/storage/drivers: Add 'lvmcluster.remove_snapshots' config key</code>](https://github.com/lxc/incus/commit/31960e5cc24674c7a6ad121d8c1a795da244a588)
+- [ ] [<code>incusd/storage: Handle snapshot restore when 'lvmcluster.remove_snapshots' is set</code>](https://github.com/lxc/incus/commit/be0d8992f7d649998673df44c741ea19855f6a8f)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/1f88674e863d13f1bb18073deccc329f833a486d)
+- [ ] [<code>incus: Add validation before starting sshSFTPserver</code>](https://github.com/lxc/incus/commit/9778ff4946b1ab984d5acb355d73a9df0e2e056e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>tests: Add validation for sftp checks</code>](https://github.com/lxc/incus/commit/1b924895fd329a1206ebfc7045ac5572d47b3e5d)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/bdd4811175bcaf984f48d37457f071227d86b715)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incusd: Pass volume type to daemonStorageValidate</code>](https://github.com/lxc/incus/commit/fcc892a4c089a32c225a81246478d31c0bb5b88e)
+- [ ] [<code>api: daemon_storage_logs</code>](https://github.com/lxc/incus/commit/d265aa69796f0e4ce12b70ae112db5d77d8cfd57)
+- [ ] [<code>incusd/config: Add storage logs_volume option</code>](https://github.com/lxc/incus/commit/5c9f4d6823b79cc0a8825c8c52aa3fe186f4e7bb)
+- [ ] [<code>incusd/daemon_storage: Add storage operation for 'storage.logs_volume'</code>](https://github.com/lxc/incus/commit/dd3e6ed0fb8127ee523338022fb9049fed98f436)
+- [ ] [<code>incusd/api: Add validation and management of 'storage.logs_volume'</code>](https://github.com/lxc/incus/commit/5579a90e7720a96107722196bdd3ed722296fd8a)
+- [ ] [<code>incusd/instance/common: Use logs folder when configured</code>](https://github.com/lxc/incus/commit/0048a8b53de2615e3a7e6e4f8ac8c47cc36b0574)
+- [ ] [<code>incusd/instance/lxc: Use LogPath for forkstart</code>](https://github.com/lxc/incus/commit/b2d24b1ba5054000e4a69a0f33f391d075578264)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/instance_logs: Use LogPath</code>](https://github.com/lxc/incus/commit/7864c0039e6acc79ad6a5e47c25389405be0c79d)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/03bb491e469275d5de132553bcfe9583a1cb1da1)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
+- [ ] [<code>networks: Only report global addresses on broadcast interfaces</code>](https://github.com/zabbly/incus-ui-canonical/commit/944b360119a1ec87926b4d7c4d8749dd87bad745)
+  - <sub>Tags: <code>incus-0.19.8</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5396,6 +5438,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Prevent integer overflows in src/gainmap.c</code>](https://github.com/AOMediaCodec/libavif/commit/2fdc99960d85be6361c2cd56185e27c29234eeb0)
 - [ ] [<code>Call aom_codec_peek_stream_info() on every image</code>](https://github.com/AOMediaCodec/libavif/commit/912d26b492683e094755fe33d3c61526a9823929)
 - [ ] [<code>Fix potential integer overflow in rowBytes multiplications</code>](https://github.com/AOMediaCodec/libavif/commit/c79a400a76f4cb9085d451a4b4ea1a0e6d104486)
+- [ ] [<code>Use AOM_TUNE_IQ by default for YUV (#2830)</code>](https://github.com/AOMediaCodec/libavif/commit/9688dcf260f9aa442cfdb5e1dac6dfc6240bcfe4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5589,6 +5632,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>lxc/network: optimize netdev_get_mtu</code>](https://github.com/lxc/lxc/commit/3ba8131f06d6e0efe0132c6d9a867cdcd2a52343)
 - [ ] [<code>lxc/network: save/restore physical network interfaces altnames</code>](https://github.com/lxc/lxc/commit/5e9b89c8f7fdcd766966fe35d092602e47fdd0eb)
+- [ ] [<code>lxc/network: define netlink uAPI constants for link properties</code>](https://github.com/lxc/lxc/commit/aba5d1fbff489c17e2e76dc83478fd86677ba755)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6234,6 +6278,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Fix potential use after free in RAM mode (#21809)</code>](https://github.com/netdata/netdata.git/commit/c21e5cefba4b4beab106c07b739a2f88cfe9388f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-44-nightly.</code>](https://github.com/netdata/netdata.git/commit/d2f9aa35ecd4e12bd80dcbd6e75ba62ef7a80d4c)
+- [ ] [<code>Include corrosion's cargo build dir in the clean target. (#21820)</code>](https://github.com/netdata/netdata.git/commit/e589cc3250045d256b80f26ac9ace4dfc61a127b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Plugins.d doubles (#21349)</code>](https://github.com/netdata/netdata.git/commit/a1d450d2b1444d018c835fa74ee419836a26a016)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove most_popular from integrations (#21811)</code>](https://github.com/netdata/netdata.git/commit/66fe1fdbec4a022ffe230f049cf0d8bbc1f63b4f)
+- [ ] [<code>Regenerate integrations docs (#21824)</code>](https://github.com/netdata/netdata.git/commit/5648a6d1db53760a6d4f6830a4501a856dd6d7a9)
+- [ ] [<code>refactor(go.d): agent decoupling (#21821)</code>](https://github.com/netdata/netdata.git/commit/ff58150626400701d5c603a6d55323d203850de5)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs(dashboards): add TV Mode documentation section (#21812)</code>](https://github.com/netdata/netdata.git/commit/8ab5fc1fb94de8a2f2bb887ed964f9e661595cff)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
