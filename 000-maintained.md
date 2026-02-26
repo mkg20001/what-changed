@@ -732,6 +732,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance_logs: Use LogPath</code>](https://github.com/lxc/incus/commit/7864c0039e6acc79ad6a5e47c25389405be0c79d)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/03bb491e469275d5de132553bcfe9583a1cb1da1)
+- [ ] [<code>incus/server/network/util: Add ipInPoinerRanges util function</code>](https://github.com/lxc/incus/commit/8e1a3f0f9cbb90e61c71e3d950009f6a02164ed2)
+- [ ] [<code>incusd/network/bridge: Trigger dependency notifcation on changes</code>](https://github.com/lxc/incus/commit/c96019d44f4515fd1e8bf791dcaff68abd3df9aa)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>incusd/network/ovn: Resetup network on change of uplink ovn range/gateway</code>](https://github.com/lxc/incus/commit/1de1b506e6a65192b4822e4e972f074e2199973b)
+- [ ] [<code>incus/server/network/ovn/nb: Overwrite static mac bindings if it already exists</code>](https://github.com/lxc/incus/commit/4e70e0139c1bd8a36abf7a14aa99cb3b4b4dda5c)
+- [ ] [<code>incusd/api_cluster: Fix database-client count logic</code>](https://github.com/lxc/incus/commit/5d10ea44c327698c60231bdacf01d3fe1cb2406a)
+- [ ] [<code>incusd/instances: Properly instruct to reset NVRAM when changing secure boot config</code>](https://github.com/lxc/incus/commit/139046c77ec558dc3701fabb1eb741d8e30cbbba)
+- [ ] [<code>incusd/instance/config: Propagate volatile.apply_nvram to copied instances</code>](https://github.com/lxc/incus/commit/6d5709f5553610845d0ab2926f4d3d21d65aab34)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5194,6 +5202,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/instance_logs: Use LogPath</code>](https://github.com/lxc/incus/commit/7864c0039e6acc79ad6a5e47c25389405be0c79d)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/03bb491e469275d5de132553bcfe9583a1cb1da1)
+- [ ] [<code>incus/server/network/util: Add ipInPoinerRanges util function</code>](https://github.com/lxc/incus/commit/8e1a3f0f9cbb90e61c71e3d950009f6a02164ed2)
+- [ ] [<code>incusd/network/bridge: Trigger dependency notifcation on changes</code>](https://github.com/lxc/incus/commit/c96019d44f4515fd1e8bf791dcaff68abd3df9aa)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>incusd/network/ovn: Resetup network on change of uplink ovn range/gateway</code>](https://github.com/lxc/incus/commit/1de1b506e6a65192b4822e4e972f074e2199973b)
+- [ ] [<code>incus/server/network/ovn/nb: Overwrite static mac bindings if it already exists</code>](https://github.com/lxc/incus/commit/4e70e0139c1bd8a36abf7a14aa99cb3b4b4dda5c)
+- [ ] [<code>incusd/api_cluster: Fix database-client count logic</code>](https://github.com/lxc/incus/commit/5d10ea44c327698c60231bdacf01d3fe1cb2406a)
+- [ ] [<code>incusd/instances: Properly instruct to reset NVRAM when changing secure boot config</code>](https://github.com/lxc/incus/commit/139046c77ec558dc3701fabb1eb741d8e30cbbba)
+- [ ] [<code>incusd/instance/config: Propagate volatile.apply_nvram to copied instances</code>](https://github.com/lxc/incus/commit/6d5709f5553610845d0ab2926f4d3d21d65aab34)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -5439,6 +5455,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Call aom_codec_peek_stream_info() on every image</code>](https://github.com/AOMediaCodec/libavif/commit/912d26b492683e094755fe33d3c61526a9823929)
 - [ ] [<code>Fix potential integer overflow in rowBytes multiplications</code>](https://github.com/AOMediaCodec/libavif/commit/c79a400a76f4cb9085d451a4b4ea1a0e6d104486)
 - [ ] [<code>Use AOM_TUNE_IQ by default for YUV (#2830)</code>](https://github.com/AOMediaCodec/libavif/commit/9688dcf260f9aa442cfdb5e1dac6dfc6240bcfe4)
+- [ ] [<code>Apply rotation and mirroring when decoding to PNG or JPEG. (#3059)</code>](https://github.com/AOMediaCodec/libavif/commit/d01ba2218e7059f6cd4450f72a59e8e6d3f6277f)
+- [ ] [<code>Validate grid cell dimensions are <= AV1 maximum</code>](https://github.com/AOMediaCodec/libavif/commit/d23695290c7fb8a2bdf46e7892e9377f8c5ae17a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -5633,6 +5651,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxc/network: optimize netdev_get_mtu</code>](https://github.com/lxc/lxc/commit/3ba8131f06d6e0efe0132c6d9a867cdcd2a52343)
 - [ ] [<code>lxc/network: save/restore physical network interfaces altnames</code>](https://github.com/lxc/lxc/commit/5e9b89c8f7fdcd766966fe35d092602e47fdd0eb)
 - [ ] [<code>lxc/network: define netlink uAPI constants for link properties</code>](https://github.com/lxc/lxc/commit/aba5d1fbff489c17e2e76dc83478fd86677ba755)
+- [ ] [<code>cmd/lxc-user-nic: prevent OOB read in name_is_in_groupnames</code>](https://github.com/lxc/lxc/commit/d8f2c55fae394d6f0cd38a9ed3d648448f59199e)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6287,6 +6306,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d): agent decoupling (#21821)</code>](https://github.com/netdata/netdata.git/commit/ff58150626400701d5c603a6d55323d203850de5)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>docs(dashboards): add TV Mode documentation section (#21812)</code>](https://github.com/netdata/netdata.git/commit/8ab5fc1fb94de8a2f2bb887ed964f9e661595cff)
+- [ ] [<code>feat(go.d/framework): add float dimension option handling (#21825)</code>](https://github.com/netdata/netdata.git/commit/654770c71b7b97a10732009e5b6e66c3d8e9b414)
+- [ ] [<code>Fix compilation warnings (#21827)</code>](https://github.com/netdata/netdata.git/commit/549483de761b2a62f082092dc57df8f5345c0b9a)
+- [ ] [<code>refactor(go/plugin): move dump analyzer to metricsaudit (#21830)</code>](https://github.com/netdata/netdata.git/commit/8a4a53626d9d528547f16a05048051bdc4ea70ce)
+- [ ] [<code>Increase statsd UDP buffer size to localhost MTU (#21822)</code>](https://github.com/netdata/netdata.git/commit/f0aec326b841457cb08293549f9f8ae0483e15a3)
+- [ ] [<code>chore(go.plugin): rename runtimemgr for clarity (#21833)</code>](https://github.com/netdata/netdata.git/commit/5dbedfdc0e5489fc748768172066a892cc09d577)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7742,3 +7766,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>fix and improve d/copyright (#24)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b13f7ad758bf7483c0f04e1897984bc9f3ff68ec)
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Update temperature icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/96b0387201c42f1419068fd0a568ddc71b791ec2)
+- [ ] [<code>Add xsi-power-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/464033acdfd7c71a593a4ecd18a31b90b3df0bb6)
+- [ ] [<code>Add xsi-gauge-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a4085edf074104366e736550c7427c53444abfa9)
+- [ ] [<code>Add xsi-fan-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e7db28b7f833bf193762a151a434649e2b02d2ae)
+- [ ] [<code>Add gauge2 and electric /pyshics icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e5b81d4e0d2656f8a4a5d25c9677a59f27f6c15c)
