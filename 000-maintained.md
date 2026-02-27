@@ -289,6 +289,26 @@
 - [ ] [<code>chore: Adjust power level UX</code>](https://github.com/krille-chan/fluffychat/commit/47934a33788a52a0e3b9855d2d0f68f3e03c8c06)
 - [ ] [<code>chore: Follow up power level UX</code>](https://github.com/krille-chan/fluffychat/commit/fd70c292e9ad499183cb4cd1e2b02915870390b9)
 - [ ] [<code>chore: Follow up user dialog sharing</code>](https://github.com/krille-chan/fluffychat/commit/a04067d1e99a61bd9c9939236ebfe0010f774fa7)
+- [ ] [<code>build: (deps): Bump flutter_webrtc from 1.3.0 to 1.3.1</code>](https://github.com/krille-chan/fluffychat/commit/41393c96beb698ee156a9ca13e148c5dae12cc18)
+- [ ] [<code>build: (deps): Bump actions/upload-artifact from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/f4ee2670a8895a01c6a5a258e007db7d9e3eaf22)
+- [ ] [<code>build: (deps): Bump handy_window from 0.4.0 to 0.4.2</code>](https://github.com/krille-chan/fluffychat/commit/c2f44ad97821335884376c6d374d7465bc45be20)
+- [ ] [<code>chore: Replace duplicate check for stale bot</code>](https://github.com/krille-chan/fluffychat/commit/a2de30360ea11ad539b21df9ef381904755da47d)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/a0f6dc3afe82459bfc419ad7df10e57d83476f18)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/f4c6f431c86cd6962e378661b3f6f2481144930a)
+- [ ] [<code>chore(translations): Translated using Weblate (Hindi)</code>](https://github.com/krille-chan/fluffychat/commit/69bafd1dfeb3e96dcf806f299900687180f606ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/e9ed2db39dc6ebfbff8a1dfe24aeef5d032eb2c7)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c4b008251267224f652d987d7839ec4d7d70081d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/f380219a2c761ee3b1fb682252de47590dc20780)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/bf7a0780155035dcc84a84dc5bb54c87eaf36383)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5b196becaa4f6e3e8d19f94263d92188ab83628d)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/cc35030846329854b190702ba7fc72beb3260b32)
+- [ ] [<code>chore: Check if pubspec.lock is up to date in CI</code>](https://github.com/krille-chan/fluffychat/commit/a91e35bb0b3b3b6c0f9c65697055061af88eee3f)
+- [ ] [<code>chore: Move file cache to subdirectory</code>](https://github.com/krille-chan/fluffychat/commit/6f0ab83ffc44da4e81d0855d0c7247040dff1878)
+- [ ] [<code>refactor: Do show message bubble even for big emotes</code>](https://github.com/krille-chan/fluffychat/commit/746aeed770efe6f61181f980df95a889bd6b85ab)
+- [ ] [<code>chore: Follow up subdirectory for file caches</code>](https://github.com/krille-chan/fluffychat/commit/e7116c97e200dba9841a7f1c3bd3894f4e9fcbcd)
+- [ ] [<code>build: Update macos podfile.lock</code>](https://github.com/krille-chan/fluffychat/commit/29fcc223d63cbf5fe6bb8cbdf4b06fb1f47dd1c5)
+- [ ] [<code>refactor: Use more robust and performant way to detect single emoji messages</code>](https://github.com/krille-chan/fluffychat/commit/f0aa15843b03dd1c482ea1d214d4d3d8cfb1a30c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -509,6 +529,26 @@
 - [ ] [<code>chore: Adjust power level UX</code>](https://github.com/krille-chan/fluffychat/commit/47934a33788a52a0e3b9855d2d0f68f3e03c8c06)
 - [ ] [<code>chore: Follow up power level UX</code>](https://github.com/krille-chan/fluffychat/commit/fd70c292e9ad499183cb4cd1e2b02915870390b9)
 - [ ] [<code>chore: Follow up user dialog sharing</code>](https://github.com/krille-chan/fluffychat/commit/a04067d1e99a61bd9c9939236ebfe0010f774fa7)
+- [ ] [<code>build: (deps): Bump flutter_webrtc from 1.3.0 to 1.3.1</code>](https://github.com/krille-chan/fluffychat/commit/41393c96beb698ee156a9ca13e148c5dae12cc18)
+- [ ] [<code>build: (deps): Bump actions/upload-artifact from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/f4ee2670a8895a01c6a5a258e007db7d9e3eaf22)
+- [ ] [<code>build: (deps): Bump handy_window from 0.4.0 to 0.4.2</code>](https://github.com/krille-chan/fluffychat/commit/c2f44ad97821335884376c6d374d7465bc45be20)
+- [ ] [<code>chore: Replace duplicate check for stale bot</code>](https://github.com/krille-chan/fluffychat/commit/a2de30360ea11ad539b21df9ef381904755da47d)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/a0f6dc3afe82459bfc419ad7df10e57d83476f18)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/f4c6f431c86cd6962e378661b3f6f2481144930a)
+- [ ] [<code>chore(translations): Translated using Weblate (Hindi)</code>](https://github.com/krille-chan/fluffychat/commit/69bafd1dfeb3e96dcf806f299900687180f606ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/e9ed2db39dc6ebfbff8a1dfe24aeef5d032eb2c7)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/c4b008251267224f652d987d7839ec4d7d70081d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/f380219a2c761ee3b1fb682252de47590dc20780)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/bf7a0780155035dcc84a84dc5bb54c87eaf36383)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5b196becaa4f6e3e8d19f94263d92188ab83628d)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/cc35030846329854b190702ba7fc72beb3260b32)
+- [ ] [<code>chore: Check if pubspec.lock is up to date in CI</code>](https://github.com/krille-chan/fluffychat/commit/a91e35bb0b3b3b6c0f9c65697055061af88eee3f)
+- [ ] [<code>chore: Move file cache to subdirectory</code>](https://github.com/krille-chan/fluffychat/commit/6f0ab83ffc44da4e81d0855d0c7247040dff1878)
+- [ ] [<code>refactor: Do show message bubble even for big emotes</code>](https://github.com/krille-chan/fluffychat/commit/746aeed770efe6f61181f980df95a889bd6b85ab)
+- [ ] [<code>chore: Follow up subdirectory for file caches</code>](https://github.com/krille-chan/fluffychat/commit/e7116c97e200dba9841a7f1c3bd3894f4e9fcbcd)
+- [ ] [<code>build: Update macos podfile.lock</code>](https://github.com/krille-chan/fluffychat/commit/29fcc223d63cbf5fe6bb8cbdf4b06fb1f47dd1c5)
+- [ ] [<code>refactor: Use more robust and performant way to detect single emoji messages</code>](https://github.com/krille-chan/fluffychat/commit/f0aa15843b03dd1c482ea1d214d4d3d8cfb1a30c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5251,10 +5291,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Release Incus 6.22</code>](https://github.com/lxc/incus/commit/0b978d096f8e7aae1b0f12353db724f93948bc87)
   - <sub>Tags: <code>v6.22.0</code></sub>
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
-- [ ] [<code>networks: Only report global addresses on broadcast interfaces</code>](https://github.com/zabbly/incus-ui-canonical/commit/944b360119a1ec87926b4d7c4d8749dd87bad745)
-  - <sub>Tags: <code>incus-0.19.8</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5695,7 +5733,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxc/network: define netlink uAPI constants for link properties</code>](https://github.com/lxc/lxc/commit/aba5d1fbff489c17e2e76dc83478fd86677ba755)
 - [ ] [<code>cmd/lxc-user-nic: prevent OOB read in name_is_in_groupnames</code>](https://github.com/lxc/lxc/commit/d8f2c55fae394d6f0cd38a9ed3d648448f59199e)
 
-#### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.5...HEAD)
+#### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
 - [ ] [<code>proc: checks system security policy before trying to get personalities</code>](https://github.com/lxc/lxcfs/commit/276cc1cbf105da1411196b4b5cb10f0886d2617c)
 - [ ] [<code>lxcfs/bindings: Refactor RUNTIME_PATH so that it can be overridden on startup</code>](https://github.com/lxc/lxcfs/commit/328a30b1de78086ff35d522dc5ec3304b57caae9)
@@ -6359,6 +6397,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-58-nightly.</code>](https://github.com/netdata/netdata.git/commit/03abe8a17b6a942760966d46a4249c75ba61f749)
 - [ ] [<code>Add troubleshooting FAQ to query metrics skill (#21837)</code>](https://github.com/netdata/netdata.git/commit/305b143426d8d21df2e39ecc6add4a4f37c73166)
+- [ ] [<code>fix: netdev_mutex deadlock when do_proc_net_dev() fails (#21839)</code>](https://github.com/netdata/netdata.git/commit/d589633869acb3ded53037bf03870f821b2b6970)
+- [ ] [<code>fix: apps.plugin use-after-free crash on parent pointer dereference (#21838)</code>](https://github.com/netdata/netdata.git/commit/54f8668f4bb199ed166e20002d912ecda3057c6a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
