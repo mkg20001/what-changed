@@ -743,6 +743,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/config: Propagate volatile.apply_nvram to copied instances</code>](https://github.com/lxc/incus/commit/6d5709f5553610845d0ab2926f4d3d21d65aab34)
 - [ ] [<code>incusd/network/acl: Use 'allow-related' instead of 'allow' for default egress action</code>](https://github.com/lxc/incus/commit/7d83b6784c2ab2fae06885d53608a7dc84217aa5)
 - [ ] [<code>incusd/daemon_storage: Don't fail on log volume unmount failure</code>](https://github.com/lxc/incus/commit/37995cf144ceef711d258c484e612b28c836a44a)
+- [ ] [<code>incusd/cluster: Handle evacuation on single-node clusters</code>](https://github.com/lxc/incus/commit/df14434eb94430949d10e49bb62c8f9c6b936d0d)
+- [ ] [<code>internal/instance: Add volatile.hotplug.memory</code>](https://github.com/lxc/incus/commit/4f4983f97ad470a12f0cdad348e8624b6f254bdf)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/0887a2c2dd18342a502cffcacaa195ee27eee68e)
+- [ ] [<code>incusd/instance/qemu: Record and re-use base memory configuration</code>](https://github.com/lxc/incus/commit/de2eb6854eb2485e84e681837ccfffeea18a9930)
+- [ ] [<code>incusd/device/nic_bridged: Lookup ACLs in the correct project</code>](https://github.com/lxc/incus/commit/26533bd537ccd909fc485d3763ebae331fca1046)
+- [ ] [<code>ncusd/network/zone: Include records from all relevant projects</code>](https://github.com/lxc/incus/commit/9a8080367a1f6b76240daec17a4511f2dfa8bb62)
+- [ ] [<code>tests: Update for network zone filtering</code>](https://github.com/lxc/incus/commit/010aace147d2c400401fd2b57fbee4c76dc24a0c)
+- [ ] [<code>incusd/response: Store original Host in forwardedResponse</code>](https://github.com/lxc/incus/commit/77e43c46a55e87cd6bd4223efa00c265e6f2d2f8)
+- [ ] [<code>shared/tls: Support multiple domains in ACME functions</code>](https://github.com/lxc/incus/commit/3a28659650406b7791d215b5f0e3c5a6d02409f8)
+- [ ] [<code>incusd/acme: Support multiple domains</code>](https://github.com/lxc/incus/commit/e00e6349ca6ad0d52e0a70274e5e7215345e9894)
+- [ ] [<code>incusd/network/zone: Allow wildcard records</code>](https://github.com/lxc/incus/commit/5f2f67ed862fdbea184bff6b17ed4f9d965850c5)
+- [ ] [<code>incusd/cluster: Don't stop local networking on healing</code>](https://github.com/lxc/incus/commit/7f84fb627294cb1fff28e063933dd0b0f2d7ce8c)
+- [ ] [<code>incusd/db/networks: Set Project in getPartialNetworkByProjectAndName</code>](https://github.com/lxc/incus/commit/a1f00923e8573b13ccdc4c4c15435554e95ed4ed)
+- [ ] [<code>Makefile: Bump minimum to Go 1.25</code>](https://github.com/lxc/incus/commit/79fb03cd2779a83c238f6250d1227fd942bade86)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/b5a5c941fe7ddd799fb0be15520ed1db547873aa)
+- [ ] [<code>Release Incus 6.22</code>](https://github.com/lxc/incus/commit/0b978d096f8e7aae1b0f12353db724f93948bc87)
+  - <sub>Tags: <code>v6.22.0</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5216,6 +5233,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/config: Propagate volatile.apply_nvram to copied instances</code>](https://github.com/lxc/incus/commit/6d5709f5553610845d0ab2926f4d3d21d65aab34)
 - [ ] [<code>incusd/network/acl: Use 'allow-related' instead of 'allow' for default egress action</code>](https://github.com/lxc/incus/commit/7d83b6784c2ab2fae06885d53608a7dc84217aa5)
 - [ ] [<code>incusd/daemon_storage: Don't fail on log volume unmount failure</code>](https://github.com/lxc/incus/commit/37995cf144ceef711d258c484e612b28c836a44a)
+- [ ] [<code>incusd/cluster: Handle evacuation on single-node clusters</code>](https://github.com/lxc/incus/commit/df14434eb94430949d10e49bb62c8f9c6b936d0d)
+- [ ] [<code>internal/instance: Add volatile.hotplug.memory</code>](https://github.com/lxc/incus/commit/4f4983f97ad470a12f0cdad348e8624b6f254bdf)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/0887a2c2dd18342a502cffcacaa195ee27eee68e)
+- [ ] [<code>incusd/instance/qemu: Record and re-use base memory configuration</code>](https://github.com/lxc/incus/commit/de2eb6854eb2485e84e681837ccfffeea18a9930)
+- [ ] [<code>incusd/device/nic_bridged: Lookup ACLs in the correct project</code>](https://github.com/lxc/incus/commit/26533bd537ccd909fc485d3763ebae331fca1046)
+- [ ] [<code>ncusd/network/zone: Include records from all relevant projects</code>](https://github.com/lxc/incus/commit/9a8080367a1f6b76240daec17a4511f2dfa8bb62)
+- [ ] [<code>tests: Update for network zone filtering</code>](https://github.com/lxc/incus/commit/010aace147d2c400401fd2b57fbee4c76dc24a0c)
+- [ ] [<code>incusd/response: Store original Host in forwardedResponse</code>](https://github.com/lxc/incus/commit/77e43c46a55e87cd6bd4223efa00c265e6f2d2f8)
+- [ ] [<code>shared/tls: Support multiple domains in ACME functions</code>](https://github.com/lxc/incus/commit/3a28659650406b7791d215b5f0e3c5a6d02409f8)
+- [ ] [<code>incusd/acme: Support multiple domains</code>](https://github.com/lxc/incus/commit/e00e6349ca6ad0d52e0a70274e5e7215345e9894)
+- [ ] [<code>incusd/network/zone: Allow wildcard records</code>](https://github.com/lxc/incus/commit/5f2f67ed862fdbea184bff6b17ed4f9d965850c5)
+- [ ] [<code>incusd/cluster: Don't stop local networking on healing</code>](https://github.com/lxc/incus/commit/7f84fb627294cb1fff28e063933dd0b0f2d7ce8c)
+- [ ] [<code>incusd/db/networks: Set Project in getPartialNetworkByProjectAndName</code>](https://github.com/lxc/incus/commit/a1f00923e8573b13ccdc4c4c15435554e95ed4ed)
+- [ ] [<code>Makefile: Bump minimum to Go 1.25</code>](https://github.com/lxc/incus/commit/79fb03cd2779a83c238f6250d1227fd942bade86)
+- [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/b5a5c941fe7ddd799fb0be15520ed1db547873aa)
+- [ ] [<code>Release Incus 6.22</code>](https://github.com/lxc/incus/commit/0b978d096f8e7aae1b0f12353db724f93948bc87)
+  - <sub>Tags: <code>v6.22.0</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -7765,6 +7799,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211.h: update to version 6.18</code>](https://github.com/jow-/ucode/commit/ccc25285471b94eb329ae44d6a9155d08106a5b6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>nl80211: add WiFi 7 EHT and MLD attributes</code>](https://github.com/jow-/ucode/commit/bb145163147a07bec236eef272b0e218de086cb4)
+- [ ] [<code>nl80211: add scan, BSS status and BSS use-for constants</code>](https://github.com/jow-/ucode/commit/65d268546453c2457de35a726c86297e7c6ef591)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
