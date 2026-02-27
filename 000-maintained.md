@@ -736,10 +736,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/bridge: Trigger dependency notifcation on changes</code>](https://github.com/lxc/incus/commit/c96019d44f4515fd1e8bf791dcaff68abd3df9aa)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>incusd/network/ovn: Resetup network on change of uplink ovn range/gateway</code>](https://github.com/lxc/incus/commit/1de1b506e6a65192b4822e4e972f074e2199973b)
+- [ ] [<code>incusd/apparmor/instance: Fix logs volume handling</code>](https://github.com/lxc/incus/commit/58b4dded33a52d3b19fdc2e3d2e38e34a197f401)
 - [ ] [<code>incus/server/network/ovn/nb: Overwrite static mac bindings if it already exists</code>](https://github.com/lxc/incus/commit/4e70e0139c1bd8a36abf7a14aa99cb3b4b4dda5c)
 - [ ] [<code>incusd/api_cluster: Fix database-client count logic</code>](https://github.com/lxc/incus/commit/5d10ea44c327698c60231bdacf01d3fe1cb2406a)
 - [ ] [<code>incusd/instances: Properly instruct to reset NVRAM when changing secure boot config</code>](https://github.com/lxc/incus/commit/139046c77ec558dc3701fabb1eb741d8e30cbbba)
 - [ ] [<code>incusd/instance/config: Propagate volatile.apply_nvram to copied instances</code>](https://github.com/lxc/incus/commit/6d5709f5553610845d0ab2926f4d3d21d65aab34)
+- [ ] [<code>incusd/network/acl: Use 'allow-related' instead of 'allow' for default egress action</code>](https://github.com/lxc/incus/commit/7d83b6784c2ab2fae06885d53608a7dc84217aa5)
+- [ ] [<code>incusd/daemon_storage: Don't fail on log volume unmount failure</code>](https://github.com/lxc/incus/commit/37995cf144ceef711d258c484e612b28c836a44a)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5206,10 +5209,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/network/bridge: Trigger dependency notifcation on changes</code>](https://github.com/lxc/incus/commit/c96019d44f4515fd1e8bf791dcaff68abd3df9aa)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>incusd/network/ovn: Resetup network on change of uplink ovn range/gateway</code>](https://github.com/lxc/incus/commit/1de1b506e6a65192b4822e4e972f074e2199973b)
+- [ ] [<code>incusd/apparmor/instance: Fix logs volume handling</code>](https://github.com/lxc/incus/commit/58b4dded33a52d3b19fdc2e3d2e38e34a197f401)
 - [ ] [<code>incus/server/network/ovn/nb: Overwrite static mac bindings if it already exists</code>](https://github.com/lxc/incus/commit/4e70e0139c1bd8a36abf7a14aa99cb3b4b4dda5c)
 - [ ] [<code>incusd/api_cluster: Fix database-client count logic</code>](https://github.com/lxc/incus/commit/5d10ea44c327698c60231bdacf01d3fe1cb2406a)
 - [ ] [<code>incusd/instances: Properly instruct to reset NVRAM when changing secure boot config</code>](https://github.com/lxc/incus/commit/139046c77ec558dc3701fabb1eb741d8e30cbbba)
 - [ ] [<code>incusd/instance/config: Propagate volatile.apply_nvram to copied instances</code>](https://github.com/lxc/incus/commit/6d5709f5553610845d0ab2926f4d3d21d65aab34)
+- [ ] [<code>incusd/network/acl: Use 'allow-related' instead of 'allow' for default egress action</code>](https://github.com/lxc/incus/commit/7d83b6784c2ab2fae06885d53608a7dc84217aa5)
+- [ ] [<code>incusd/daemon_storage: Don't fail on log volume unmount failure</code>](https://github.com/lxc/incus/commit/37995cf144ceef711d258c484e612b28c836a44a)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.7 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.7...HEAD)
 
@@ -5457,6 +5463,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use AOM_TUNE_IQ by default for YUV (#2830)</code>](https://github.com/AOMediaCodec/libavif/commit/9688dcf260f9aa442cfdb5e1dac6dfc6240bcfe4)
 - [ ] [<code>Apply rotation and mirroring when decoding to PNG or JPEG. (#3059)</code>](https://github.com/AOMediaCodec/libavif/commit/d01ba2218e7059f6cd4450f72a59e8e6d3f6277f)
 - [ ] [<code>Validate grid cell dimensions are <= AV1 maximum</code>](https://github.com/AOMediaCodec/libavif/commit/d23695290c7fb8a2bdf46e7892e9377f8c5ae17a)
+- [ ] [<code>fix: prevent uint32_t overflow in avifSetTileConfiguration tile area</code>](https://github.com/AOMediaCodec/libavif/commit/cc3e5dd3300adb915a9dd6ae2bfe896e928cb412)
+- [ ] [<code>Fix avifDecSampleTransformItemValidateProperties()</code>](https://github.com/AOMediaCodec/libavif/commit/0f430dbe158b5c2c8f537ab0df3945afa13a4af8)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.5 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.5...HEAD)
 
@@ -6311,6 +6319,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go/plugin): move dump analyzer to metricsaudit (#21830)</code>](https://github.com/netdata/netdata.git/commit/8a4a53626d9d528547f16a05048051bdc4ea70ce)
 - [ ] [<code>Increase statsd UDP buffer size to localhost MTU (#21822)</code>](https://github.com/netdata/netdata.git/commit/f0aec326b841457cb08293549f9f8ae0483e15a3)
 - [ ] [<code>chore(go.plugin): rename runtimemgr for clarity (#21833)</code>](https://github.com/netdata/netdata.git/commit/5dbedfdc0e5489fc748768172066a892cc09d577)
+- [ ] [<code>Add skill document for querying Netdata Cloud metrics (#21834)</code>](https://github.com/netdata/netdata.git/commit/db22d1f4dfdb8ca1c3af018320be87ecd498d40d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve query metrics skill document (#21836)</code>](https://github.com/netdata/netdata.git/commit/3902e7fdec7b8d25f21f346e55cd6728c487aeb7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-58-nightly.</code>](https://github.com/netdata/netdata.git/commit/03abe8a17b6a942760966d46a4249c75ba61f749)
+- [ ] [<code>Add troubleshooting FAQ to query metrics skill (#21837)</code>](https://github.com/netdata/netdata.git/commit/305b143426d8d21df2e39ecc6add4a4f37c73166)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
