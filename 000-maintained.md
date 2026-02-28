@@ -22,7 +22,7 @@
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.4/dbeaver-ce-25.3.4-linux.gtk.x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/v3.3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/v3.3.1...HEAD)
@@ -316,6 +316,14 @@
 - [ ] [<code>chore: Follow up sign in page</code>](https://github.com/krille-chan/fluffychat/commit/ebebd8809bd0a803718303c50882d89198ded4e4)
 - [ ] [<code>chore: Give issues and PRs more time for stale</code>](https://github.com/krille-chan/fluffychat/commit/959d3da49477a49fdefbba6ee09c80eecec4acdd)
 - [ ] [<code>chore: Exempt assignees from stale</code>](https://github.com/krille-chan/fluffychat/commit/d7d104de91feb5e2fcdbe01354351e643de60e08)
+- [ ] [<code>fix: Edit space child button opens space details page and not space child details page</code>](https://github.com/krille-chan/fluffychat/commit/0436f16aa9d3646690d2c680a152f92e1a206310)
+- [ ] [<code>chore: Add matrix notify workflow</code>](https://github.com/krille-chan/fluffychat/commit/13bd504f17a21b32615c279a11a03a18092930cb)
+- [ ] [<code>chore: Follow up matrix notify script</code>](https://github.com/krille-chan/fluffychat/commit/5e6c80ddd891af9ad71de82a78869b67eaf24c29)
+- [ ] [<code>chore: Follow up matrix notify</code>](https://github.com/krille-chan/fluffychat/commit/26d3f4859d4eb2fda26ce77e5e86a8f17fcc9577)
+- [ ] [<code>chore: Follow up matrix notify</code>](https://github.com/krille-chan/fluffychat/commit/10a5673391de6d200679ef14f10f5e2dcda36141)
+- [ ] [<code>chore: Follow up move fab to navrail</code>](https://github.com/krille-chan/fluffychat/commit/0de474cbe7d059526d2db3bc9f0455d17585fa5c)
+- [ ] [<code>chore: Better context menu for space children</code>](https://github.com/krille-chan/fluffychat/commit/0061c948cdf995dc06c246f89e68031f3539dc30)
+- [ ] [<code>refactor: Better UX for create space children</code>](https://github.com/krille-chan/fluffychat/commit/9fd85a8b584887bb134ecbce1d5b012a818feab3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -563,6 +571,14 @@
 - [ ] [<code>chore: Follow up sign in page</code>](https://github.com/krille-chan/fluffychat/commit/ebebd8809bd0a803718303c50882d89198ded4e4)
 - [ ] [<code>chore: Give issues and PRs more time for stale</code>](https://github.com/krille-chan/fluffychat/commit/959d3da49477a49fdefbba6ee09c80eecec4acdd)
 - [ ] [<code>chore: Exempt assignees from stale</code>](https://github.com/krille-chan/fluffychat/commit/d7d104de91feb5e2fcdbe01354351e643de60e08)
+- [ ] [<code>fix: Edit space child button opens space details page and not space child details page</code>](https://github.com/krille-chan/fluffychat/commit/0436f16aa9d3646690d2c680a152f92e1a206310)
+- [ ] [<code>chore: Add matrix notify workflow</code>](https://github.com/krille-chan/fluffychat/commit/13bd504f17a21b32615c279a11a03a18092930cb)
+- [ ] [<code>chore: Follow up matrix notify script</code>](https://github.com/krille-chan/fluffychat/commit/5e6c80ddd891af9ad71de82a78869b67eaf24c29)
+- [ ] [<code>chore: Follow up matrix notify</code>](https://github.com/krille-chan/fluffychat/commit/26d3f4859d4eb2fda26ce77e5e86a8f17fcc9577)
+- [ ] [<code>chore: Follow up matrix notify</code>](https://github.com/krille-chan/fluffychat/commit/10a5673391de6d200679ef14f10f5e2dcda36141)
+- [ ] [<code>chore: Follow up move fab to navrail</code>](https://github.com/krille-chan/fluffychat/commit/0de474cbe7d059526d2db3bc9f0455d17585fa5c)
+- [ ] [<code>chore: Better context menu for space children</code>](https://github.com/krille-chan/fluffychat/commit/0061c948cdf995dc06c246f89e68031f3539dc30)
+- [ ] [<code>refactor: Better UX for create space children</code>](https://github.com/krille-chan/fluffychat/commit/9fd85a8b584887bb134ecbce1d5b012a818feab3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6187,6 +6203,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-64-nightly.</code>](https://github.com/netdata/netdata.git/commit/d283f0866b956a3adabd850baf0c9b96af86ebc8)
 - [ ] [<code>chore(go/agent/jobmgr): harden dyncfg lifecycle, locking, and wait-decision flow (#21840)</code>](https://github.com/netdata/netdata.git/commit/55f4e5a568b22b0d0143987602669bcd8978412e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.6 to 1.9.7 in /src/go (#21848)</code>](https://github.com/netdata/netdata.git/commit/b7317e69b94e1922c7976ff893ead863b340060a)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.50.0 to 0.51.0 in /src/go (#21846)</code>](https://github.com/netdata/netdata.git/commit/4f01c6ea687749f3890990614bb55a109201cb68)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
