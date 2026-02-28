@@ -309,6 +309,13 @@
 - [ ] [<code>chore: Follow up subdirectory for file caches</code>](https://github.com/krille-chan/fluffychat/commit/e7116c97e200dba9841a7f1c3bd3894f4e9fcbcd)
 - [ ] [<code>build: Update macos podfile.lock</code>](https://github.com/krille-chan/fluffychat/commit/29fcc223d63cbf5fe6bb8cbdf4b06fb1f47dd1c5)
 - [ ] [<code>refactor: Use more robust and performant way to detect single emoji messages</code>](https://github.com/krille-chan/fluffychat/commit/f0aa15843b03dd1c482ea1d214d4d3d8cfb1a30c)
+- [ ] [<code>build: Update to flutter 3.41.2</code>](https://github.com/krille-chan/fluffychat/commit/1fc49db3d367e144efa6eb742a2fda7074881d7e)
+- [ ] [<code>build: Use webcrypto from github to fix 16kb</code>](https://github.com/krille-chan/fluffychat/commit/2e8b3c1e1e3e8ac362f0ffc5b2c2468a0b9ac54e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up sign in page</code>](https://github.com/krille-chan/fluffychat/commit/52f4e007234e5928b76a2ffcc00efb79fdf0e63a)
+- [ ] [<code>chore: Follow up sign in page</code>](https://github.com/krille-chan/fluffychat/commit/ebebd8809bd0a803718303c50882d89198ded4e4)
+- [ ] [<code>chore: Give issues and PRs more time for stale</code>](https://github.com/krille-chan/fluffychat/commit/959d3da49477a49fdefbba6ee09c80eecec4acdd)
+- [ ] [<code>chore: Exempt assignees from stale</code>](https://github.com/krille-chan/fluffychat/commit/d7d104de91feb5e2fcdbe01354351e643de60e08)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -549,6 +556,13 @@
 - [ ] [<code>chore: Follow up subdirectory for file caches</code>](https://github.com/krille-chan/fluffychat/commit/e7116c97e200dba9841a7f1c3bd3894f4e9fcbcd)
 - [ ] [<code>build: Update macos podfile.lock</code>](https://github.com/krille-chan/fluffychat/commit/29fcc223d63cbf5fe6bb8cbdf4b06fb1f47dd1c5)
 - [ ] [<code>refactor: Use more robust and performant way to detect single emoji messages</code>](https://github.com/krille-chan/fluffychat/commit/f0aa15843b03dd1c482ea1d214d4d3d8cfb1a30c)
+- [ ] [<code>build: Update to flutter 3.41.2</code>](https://github.com/krille-chan/fluffychat/commit/1fc49db3d367e144efa6eb742a2fda7074881d7e)
+- [ ] [<code>build: Use webcrypto from github to fix 16kb</code>](https://github.com/krille-chan/fluffychat/commit/2e8b3c1e1e3e8ac362f0ffc5b2c2468a0b9ac54e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up sign in page</code>](https://github.com/krille-chan/fluffychat/commit/52f4e007234e5928b76a2ffcc00efb79fdf0e63a)
+- [ ] [<code>chore: Follow up sign in page</code>](https://github.com/krille-chan/fluffychat/commit/ebebd8809bd0a803718303c50882d89198ded4e4)
+- [ ] [<code>chore: Give issues and PRs more time for stale</code>](https://github.com/krille-chan/fluffychat/commit/959d3da49477a49fdefbba6ee09c80eecec4acdd)
+- [ ] [<code>chore: Exempt assignees from stale</code>](https://github.com/krille-chan/fluffychat/commit/d7d104de91feb5e2fcdbe01354351e643de60e08)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6171,6 +6185,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix FreeBSD 15.0 build failure in freebsd_ipfw.c (#21843)</code>](https://github.com/netdata/netdata.git/commit/c16ffc81295fbf0bd4c7201dd70e14582ea1cd5b)
 - [ ] [<code>chore(go/plugin/sd): dont validate config in userconfig (#21842)</code>](https://github.com/netdata/netdata.git/commit/2fc42064086225764555a03df29672f5a21c094d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-64-nightly.</code>](https://github.com/netdata/netdata.git/commit/d283f0866b956a3adabd850baf0c9b96af86ebc8)
+- [ ] [<code>chore(go/agent/jobmgr): harden dyncfg lifecycle, locking, and wait-decision flow (#21840)</code>](https://github.com/netdata/netdata.git/commit/55f4e5a568b22b0d0143987602669bcd8978412e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
