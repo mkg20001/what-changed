@@ -605,6 +605,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [incus](https://github.com/lxc/incus): [refs/tags/v6.22.0 → HEAD](https://github.com/lxc/incus/compare/refs/tags/v6.22.0...HEAD)
 
+- [ ] [<code>incusd/instance: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/dfd6776eb9767d297a16b396df657ec4b395c59f)
+- [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5095,6 +5097,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>gomod: Update dependencies</code>](https://github.com/lxc/incus/commit/b5a5c941fe7ddd799fb0be15520ed1db547873aa)
 - [ ] [<code>Release Incus 6.22</code>](https://github.com/lxc/incus/commit/0b978d096f8e7aae1b0f12353db724f93948bc87)
   - <sub>Tags: <code>v6.22.0</code></sub>
+- [ ] [<code>incusd/instance: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/dfd6776eb9767d297a16b396df657ec4b395c59f)
+- [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -5539,6 +5543,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lxc/network: save/restore physical network interfaces altnames</code>](https://github.com/lxc/lxc/commit/5e9b89c8f7fdcd766966fe35d092602e47fdd0eb)
 - [ ] [<code>lxc/network: define netlink uAPI constants for link properties</code>](https://github.com/lxc/lxc/commit/aba5d1fbff489c17e2e76dc83478fd86677ba755)
 - [ ] [<code>cmd/lxc-user-nic: prevent OOB read in name_is_in_groupnames</code>](https://github.com/lxc/lxc/commit/d8f2c55fae394d6f0cd38a9ed3d648448f59199e)
+- [ ] [<code>Add description for unprivileged containers to Japanese man page</code>](https://github.com/lxc/lxc/commit/29cd84d8e40d014bebf7a1424d0ccbe32341af40)
+- [ ] [<code>Add --rbuser to Japanese lxc-create(1)</code>](https://github.com/lxc/lxc/commit/a01f7b4aca9f12a926d3acfab5b146965a67e950)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6215,6 +6221,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.50.0 to 0.51.0 in /src/go (#21846)</code>](https://github.com/netdata/netdata.git/commit/4f01c6ea687749f3890990614bb55a109201cb68)
 - [ ] [<code>refactor(go/plugin/framework/functions): redesign manager (#21850)</code>](https://github.com/netdata/netdata.git/commit/49313a28b0acd6d9a2b8fc76431e8b09f4d17b0d)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-69-nightly.</code>](https://github.com/netdata/netdata.git/commit/fb3d93c18d76742e84a54d8ae78194da4e9e1e10)
+- [ ] [<code>Fix  context hub cleanup (#21832)</code>](https://github.com/netdata/netdata.git/commit/a70ea4c306f3a11fbbfa6168fc4a7a01179b374e)
+- [ ] [<code>fix(go/plugin/framework/chartengine): decouple runtime build-cycle dedupe from LastSuccessSeq (#21851)</code>](https://github.com/netdata/netdata.git/commit/67f60fd4c1117330487a04e9e5ddf3b4feecaa88)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7247,30 +7256,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: make it build with gcc15</code>](https://github.com/OLSR/OONF/commit/868b3be3afb09d0804550a5d248a4f3de020a4be)
 - [ ] [<code>Update README.md</code>](https://github.com/OLSR/OONF/commit/b2164126e12340f19ea33070e1e11eb469a051e5)
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.4.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.4.0...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.5.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.5.0...HEAD)
 
-- [ ] [<code>feat(soundcore-device-faker): add work in progress d1202c</code>](https://github.com/Oppzippy/OpenSCQ30/commit/20d515414f2141bbf69a1bbe219a0a48fd4c048a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(lib): is_soundcore_vendor_rfcomm_uuid too narrow in what it accepts</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7f118d29a1476878c60f0dea8243bfd8932923d2)
-- [ ] [<code>fix(gui): resizing causes freeze on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5d9f2687749d47353e74c8f461b1275594cf6120)
-- [ ] [<code>fix(gui): crash when running with ICED_BACKEND=tiny-skia on x11</code>](https://github.com/Oppzippy/OpenSCQ30/commit/32c7ad684d0559ee76e37aeb561e3185c280e5a1)
-- [ ] [<code>build: switch release-fast profile to thin LTO</code>](https://github.com/Oppzippy/OpenSCQ30/commit/686da69e28cd2c77464bc585aa7f340f2477bb48)
-- [ ] [<code>docs(capture-bluetooth-logs): add alternate log file path</code>](https://github.com/Oppzippy/OpenSCQ30/commit/593bde8768f1312c8a04ca6432a0c4b2fff4abb7)
-- [ ] [<code>docs(capture-bluetooth-logs): missing word</code>](https://github.com/Oppzippy/OpenSCQ30/commit/db69b9af946eac8b251b15b9d7833db44a981da0)
-- [ ] [<code>fix(android): add device not working on android < 33</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7ef74ab3fe356ada1286392847d795474ec90f60)
-- [ ] [<code>build(android): enable shrink resources</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d9c222d3af391c883eb5582ec4ec020ba1b33d48)
-- [ ] [<code>feat(lib): add ability to specify constant RFCOMM service uuid</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8a982b4483dcfdd9c9894abe6d917d9b2f6041a7)
-- [ ] [<code>fix(lib): specify constant service uuid for a3116</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d8624b4364149634d7f822dd339687d2f29bf6e3)
-- [ ] [<code>fix(lib): use constant rfcomm service uuid for a3930</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf3691d2f3e311110d17b2e46b34a281d696d7d6)
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a1cf8d23e65611183e1021329afe6a9e50218e1c)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix(android): incorrect radio button label color in widget</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9004a2bb2623d1c9d1bbaf740f296264784c629)
-- [ ] [<code>feat(lib): add support for a3957</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c85c36b3c02f5a5ab59c78f2d3fab9b214fdc187)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0819304ec60d5f4006d53908060b415a7bb2a995)
-- [ ] [<code>deps: update cargo dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3bbaad614d6c99525d98c4d7a0cd65a2bb33bc8a)
-- [ ] [<code>build: v2.5.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ddaa0869033c11f1250fa4057238d7877c7fe3a5)
-  - <sub>Tags: <code>v2.5.0</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -7656,6 +7643,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>nl80211: add WiFi 7 EHT and MLD attributes</code>](https://github.com/jow-/ucode/commit/bb145163147a07bec236eef272b0e218de086cb4)
 - [ ] [<code>nl80211: add scan, BSS status and BSS use-for constants</code>](https://github.com/jow-/ucode/commit/65d268546453c2457de35a726c86297e7c6ef591)
+- [ ] [<code>nl80211: fix listener.request() dropping multicast events</code>](https://github.com/jow-/ucode/commit/e6bf0a9dca7964b67f7ce14d07518127682d27eb)
+- [ ] [<code>nl80211: fix waitfor() busy-spinning on non-blocking event socket</code>](https://github.com/jow-/ucode/commit/520d9f4c878120374e1a2d050535bf2a304fa1bd)
+- [ ] [<code>nl80211: fix memory leak in waitfor() on repeated matching events</code>](https://github.com/jow-/ucode/commit/05328e33f078b73ef120b974528e17cebcacff9d)
+- [ ] [<code>nl80211: don't report waitfor() match on event parse failure</code>](https://github.com/jow-/ucode/commit/e4a165976dbb840dce482e3a30c7763ec3bcad18)
+- [ ] [<code>nl80211: fix dfs_cac_time attribute type</code>](https://github.com/jow-/ucode/commit/a39b74fe329eb969d995ab47b310bbc94f84a75b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
