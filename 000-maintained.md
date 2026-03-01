@@ -324,6 +324,10 @@
 - [ ] [<code>chore: Follow up move fab to navrail</code>](https://github.com/krille-chan/fluffychat/commit/0de474cbe7d059526d2db3bc9f0455d17585fa5c)
 - [ ] [<code>chore: Better context menu for space children</code>](https://github.com/krille-chan/fluffychat/commit/0061c948cdf995dc06c246f89e68031f3539dc30)
 - [ ] [<code>refactor: Better UX for create space children</code>](https://github.com/krille-chan/fluffychat/commit/9fd85a8b584887bb134ecbce1d5b012a818feab3)
+- [ ] [<code>chore: Run matrix notification in pull request target</code>](https://github.com/krille-chan/fluffychat/commit/f18404fb7e0db9ec92dc3070a61cebd76cd96a14)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/197ed41ff2b53e27e2df674b29d908a0af9b31a3)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/ab8574590d768a71bfe0815ec36f7c896836592e)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -579,6 +583,10 @@
 - [ ] [<code>chore: Follow up move fab to navrail</code>](https://github.com/krille-chan/fluffychat/commit/0de474cbe7d059526d2db3bc9f0455d17585fa5c)
 - [ ] [<code>chore: Better context menu for space children</code>](https://github.com/krille-chan/fluffychat/commit/0061c948cdf995dc06c246f89e68031f3539dc30)
 - [ ] [<code>refactor: Better UX for create space children</code>](https://github.com/krille-chan/fluffychat/commit/9fd85a8b584887bb134ecbce1d5b012a818feab3)
+- [ ] [<code>chore: Run matrix notification in pull request target</code>](https://github.com/krille-chan/fluffychat/commit/f18404fb7e0db9ec92dc3070a61cebd76cd96a14)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/197ed41ff2b53e27e2df674b29d908a0af9b31a3)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/ab8574590d768a71bfe0815ec36f7c896836592e)
+  - <sub>Keywords: <code>command</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
