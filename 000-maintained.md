@@ -6205,6 +6205,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.6 to 1.9.7 in /src/go (#21848)</code>](https://github.com/netdata/netdata.git/commit/b7317e69b94e1922c7976ff893ead863b340060a)
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.50.0 to 0.51.0 in /src/go (#21846)</code>](https://github.com/netdata/netdata.git/commit/4f01c6ea687749f3890990614bb55a109201cb68)
+- [ ] [<code>refactor(go/plugin/framework/functions): redesign manager (#21850)</code>](https://github.com/netdata/netdata.git/commit/49313a28b0acd6d9a2b8fc76431e8b09f4d17b0d)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-69-nightly.</code>](https://github.com/netdata/netdata.git/commit/fb3d93c18d76742e84a54d8ae78194da4e9e1e10)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
