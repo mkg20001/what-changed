@@ -328,6 +328,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/197ed41ff2b53e27e2df674b29d908a0af9b31a3)
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/ab8574590d768a71bfe0815ec36f7c896836592e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/2cba2dde8318f1c09416f0504d705c1c2bf28482)
+- [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/6319dd101ca257ca168887eb4881a7a007e32826)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/644601ea937c42d8e6bfcde2813b6d96d67ea7da)
+- [ ] [<code>fix: Fix formatting of messages with newlines</code>](https://github.com/krille-chan/fluffychat/commit/f6a96617c7d92569b41e10bf6aef84df7886b3c2)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -587,6 +591,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/197ed41ff2b53e27e2df674b29d908a0af9b31a3)
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/ab8574590d768a71bfe0815ec36f7c896836592e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/2cba2dde8318f1c09416f0504d705c1c2bf28482)
+- [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/6319dd101ca257ca168887eb4881a7a007e32826)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/644601ea937c42d8e6bfcde2813b6d96d67ea7da)
+- [ ] [<code>fix: Fix formatting of messages with newlines</code>](https://github.com/krille-chan/fluffychat/commit/f6a96617c7d92569b41e10bf6aef84df7886b3c2)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -609,6 +617,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
 - [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
 - [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
+- [ ] [<code>cmd/generate-database: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/02a5da3bd7799f332f7e4f2620afa0e0b8c77f0e)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5103,6 +5112,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
 - [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
 - [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
+- [ ] [<code>cmd/generate-database: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/02a5da3bd7799f332f7e4f2620afa0e0b8c77f0e)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -5353,6 +5363,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>avifEncoder: Add "Version 1.4.0 ends here" marker</code>](https://github.com/AOMediaCodec/libavif/commit/2132c5c9e72db8168c0b7a5cdf362e1d25430a4d)
 - [ ] [<code>Replace RGBImagePtr by RGBImageCleanup</code>](https://github.com/AOMediaCodec/libavif/commit/319b91e7121022f622f1010f44e7e7457ff62bf4)
 - [ ] [<code>Bump the github-actions group across 1 directory with 3 updates (#3071)</code>](https://github.com/AOMediaCodec/libavif/commit/ccf46187b1a8f96f3f3b14e6d787a137d85f3da4)
+- [ ] [<code>Delete ninja install</code>](https://github.com/AOMediaCodec/libavif/commit/11096dd88b58134e86949229968cdfacb125908c)
+- [ ] [<code>Bump zlib to 1.3.2 (#3077)</code>](https://github.com/AOMediaCodec/libavif/commit/a5488e61d3d50f515696f233ac901397ec0b437e)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -5550,6 +5562,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/lxc-user-nic: prevent OOB read in name_is_in_groupnames</code>](https://github.com/lxc/lxc/commit/d8f2c55fae394d6f0cd38a9ed3d648448f59199e)
 - [ ] [<code>Add description for unprivileged containers to Japanese man page</code>](https://github.com/lxc/lxc/commit/29cd84d8e40d014bebf7a1424d0ccbe32341af40)
 - [ ] [<code>Add --rbuser to Japanese lxc-create(1)</code>](https://github.com/lxc/lxc/commit/a01f7b4aca9f12a926d3acfab5b146965a67e950)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 6 to 7</code>](https://github.com/lxc/lxc/commit/e4d847bd02f9f6982aa83eacf93a88f0a213b83b)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6240,6 +6253,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Yaml support (#20544)</code>](https://github.com/netdata/netdata.git/commit/9a7abe091db8f581ae8a3e19acfc39b15562f2a4)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(go/plugin/chartengine): sanitize label value dots in chart IDs (#21859)</code>](https://github.com/netdata/netdata.git/commit/c1bc28e77b22cb7c0605db93dad9d4b1f637a2e4)
+- [ ] [<code>fix(go.d/smartctl): handle non-fatal smartctl exit codes (bits 2-7) (#21858)</code>](https://github.com/netdata/netdata.git/commit/889cc90df0b4522ca6f01af45fde7c0ec3353e40)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(go.d/mongodb): set 30s default timeout for top-queries function (#21860)</code>](https://github.com/netdata/netdata.git/commit/583b006aedfd79f3d0f3fde3d4717b4906281cd0)
+- [ ] [<code>fix(dyncfg): rollback non-disruptive sd update failures (#21861)</code>](https://github.com/netdata/netdata.git/commit/97c7cdf0de04feacd2c6e4b07baca6f261518847)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix data race in ML training during host stop (#21844)</code>](https://github.com/netdata/netdata.git/commit/cee7787b2553e25f1ba37933d35a55d82e3e00ed)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
