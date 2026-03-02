@@ -608,6 +608,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/dfd6776eb9767d297a16b396df657ec4b395c59f)
 - [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
 - [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
+- [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5101,6 +5102,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/dfd6776eb9767d297a16b396df657ec4b395c59f)
 - [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
 - [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
+- [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -5350,6 +5352,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix avifDecSampleTransformItemValidateProperties()</code>](https://github.com/AOMediaCodec/libavif/commit/0f430dbe158b5c2c8f537ab0df3945afa13a4af8)
 - [ ] [<code>avifEncoder: Add "Version 1.4.0 ends here" marker</code>](https://github.com/AOMediaCodec/libavif/commit/2132c5c9e72db8168c0b7a5cdf362e1d25430a4d)
 - [ ] [<code>Replace RGBImagePtr by RGBImageCleanup</code>](https://github.com/AOMediaCodec/libavif/commit/319b91e7121022f622f1010f44e7e7457ff62bf4)
+- [ ] [<code>Bump the github-actions group across 1 directory with 3 updates (#3071)</code>](https://github.com/AOMediaCodec/libavif/commit/ccf46187b1a8f96f3f3b14e6d787a137d85f3da4)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6229,6 +6232,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Preserve UTF-8 characters in RRD string fields (#21694)</code>](https://github.com/netdata/netdata.git/commit/d2ddb54705cac8087d358f2805b27533cccdb0f5)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-73-nightly.</code>](https://github.com/netdata/netdata.git/commit/ef7d8e8da694c22c469bf370e7d61f2cbc7bf629)
+- [ ] [<code>build(deps): bump actions/download-artifact from 7 to 8 (#21856)</code>](https://github.com/netdata/netdata.git/commit/a8b335f93a9bd632e829e33a261474eb42f73689)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 6.0.0 to 7.0.0 (#21855)</code>](https://github.com/netdata/netdata.git/commit/e685f5f53775b38489bf126919ef417bdc1f55d8)
+- [ ] [<code>consolidate info into one file (#21829)</code>](https://github.com/netdata/netdata.git/commit/54d862dce0919567937483df44877a74d4ba3cfb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update units in ping RTT variance chart from `ms^2` to `ms²` for consistency (#21857)</code>](https://github.com/netdata/netdata.git/commit/aca543c56ef761e7bffe47925c8e9e2caabdb1ae)
+- [ ] [<code>Yaml support (#20544)</code>](https://github.com/netdata/netdata.git/commit/9a7abe091db8f581ae8a3e19acfc39b15562f2a4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
