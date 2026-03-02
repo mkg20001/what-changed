@@ -607,6 +607,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>incusd/instance: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/dfd6776eb9767d297a16b396df657ec4b395c59f)
 - [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
+- [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5099,6 +5100,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v6.22.0</code></sub>
 - [ ] [<code>incusd/instance: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/dfd6776eb9767d297a16b396df657ec4b395c59f)
 - [ ] [<code>incusd/server: Allow custom volume snapshot create/delete when attached to running instance</code>](https://github.com/lxc/incus/commit/0bdd30275b8078a4694581d66a68d1b0cccc80b3)
+- [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -6224,6 +6226,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix  context hub cleanup (#21832)</code>](https://github.com/netdata/netdata.git/commit/a70ea4c306f3a11fbbfa6168fc4a7a01179b374e)
 - [ ] [<code>fix(go/plugin/framework/chartengine): decouple runtime build-cycle dedupe from LastSuccessSeq (#21851)</code>](https://github.com/netdata/netdata.git/commit/67f60fd4c1117330487a04e9e5ddf3b4feecaa88)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Preserve UTF-8 characters in RRD string fields (#21694)</code>](https://github.com/netdata/netdata.git/commit/d2ddb54705cac8087d358f2805b27533cccdb0f5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-73-nightly.</code>](https://github.com/netdata/netdata.git/commit/ef7d8e8da694c22c469bf370e7d61f2cbc7bf629)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
