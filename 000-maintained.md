@@ -619,6 +619,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
 - [ ] [<code>cmd/generate-database: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/02a5da3bd7799f332f7e4f2620afa0e0b8c77f0e)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 6 to 7</code>](https://github.com/lxc/incus/commit/2576d3e7f2ce15462fa405e7d3e92d0ea8ba3944)
+- [ ] [<code>incusd/network/bridge: Support disabling DHCPv4 router announcement</code>](https://github.com/lxc/incus/commit/1a94b7dd3f3ab4d6428e95c7ea7be75b31b43def)
+- [ ] [<code>incusd/network/ovn: Implement ipv4.dhcp.gateway</code>](https://github.com/lxc/incus/commit/f6fb30c4e3ce49164543ea4d723328d9ae4136c8)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/73899d1c211417b2220be188a92cb35877a6a456)
+- [ ] [<code>internal/server/firewall: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/71439fa3e30a668c1062b55b89b72223a65338b1)
+- [ ] [<code>internal/server/sys: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/69fb80406e9ced79be000ed3c5b3d158c6aa3792)
+- [ ] [<code>internal/server/project: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/0624971f72a57439c08762bf69c15902e04937b6)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5115,6 +5121,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
 - [ ] [<code>cmd/generate-database: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/02a5da3bd7799f332f7e4f2620afa0e0b8c77f0e)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 6 to 7</code>](https://github.com/lxc/incus/commit/2576d3e7f2ce15462fa405e7d3e92d0ea8ba3944)
+- [ ] [<code>incusd/network/bridge: Support disabling DHCPv4 router announcement</code>](https://github.com/lxc/incus/commit/1a94b7dd3f3ab4d6428e95c7ea7be75b31b43def)
+- [ ] [<code>incusd/network/ovn: Implement ipv4.dhcp.gateway</code>](https://github.com/lxc/incus/commit/f6fb30c4e3ce49164543ea4d723328d9ae4136c8)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/73899d1c211417b2220be188a92cb35877a6a456)
+- [ ] [<code>internal/server/firewall: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/71439fa3e30a668c1062b55b89b72223a65338b1)
+- [ ] [<code>internal/server/sys: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/69fb80406e9ced79be000ed3c5b3d158c6aa3792)
+- [ ] [<code>internal/server/project: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/0624971f72a57439c08762bf69c15902e04937b6)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -6265,6 +6277,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix data race in ML training during host stop (#21844)</code>](https://github.com/netdata/netdata.git/commit/cee7787b2553e25f1ba37933d35a55d82e3e00ed)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/514eeff5dd27d2e2393b66d1cd4084b214fe7411)
+- [ ] [<code>Refactor UID/GID cache updates in apps plugin aggregation logic (#21864)</code>](https://github.com/netdata/netdata.git/commit/b88a35cf8a7781dcbd421a4fcef592d6075c2482)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
