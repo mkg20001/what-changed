@@ -328,10 +328,21 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/197ed41ff2b53e27e2df674b29d908a0af9b31a3)
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/ab8574590d768a71bfe0815ec36f7c896836592e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Remove libssl-dev dependency for linux</code>](https://github.com/krille-chan/fluffychat/commit/a0ad140262bc6e5af19e6f5e262ecdbb3199d7e4)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/2cba2dde8318f1c09416f0504d705c1c2bf28482)
 - [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/6319dd101ca257ca168887eb4881a7a007e32826)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/644601ea937c42d8e6bfcde2813b6d96d67ea7da)
 - [ ] [<code>fix: Fix formatting of messages with newlines</code>](https://github.com/krille-chan/fluffychat/commit/f6a96617c7d92569b41e10bf6aef84df7886b3c2)
+- [ ] [<code>chore: Set operations per run to 1000</code>](https://github.com/krille-chan/fluffychat/commit/5053dd7978a78760a51cd480be83b080d9b7aa01)
+- [ ] [<code>chore: Check conventional commits in CI</code>](https://github.com/krille-chan/fluffychat/commit/c360abb0fca538d14ad384daf80fad3806e4ad2a)
+- [ ] [<code>chore: Set erase flag true on account deactivation</code>](https://github.com/krille-chan/fluffychat/commit/652152481c3aef691fa89d98c706575129542d80)
+- [ ] [<code>chore: Follow up seen by row</code>](https://github.com/krille-chan/fluffychat/commit/1a8a5c6187bc667f105df701087ae7a9d836ee88)
+- [ ] [<code>chore: Adjust paddings</code>](https://github.com/krille-chan/fluffychat/commit/95aca9f9d781db71485caa3bd1ff1b9f0de982c1)
+- [ ] [<code>build: Add maestro based integration tests</code>](https://github.com/krille-chan/fluffychat/commit/23f97df1f1b1d410360edde649823a88e9f8e963)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/d83ea7731a27d6331852bc51fdf42901ca93bc56)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/266f2759df6afb2ac570984fe783a9af4ea0e6cd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -591,10 +602,21 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/197ed41ff2b53e27e2df674b29d908a0af9b31a3)
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/ab8574590d768a71bfe0815ec36f7c896836592e)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: Remove libssl-dev dependency for linux</code>](https://github.com/krille-chan/fluffychat/commit/a0ad140262bc6e5af19e6f5e262ecdbb3199d7e4)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/2cba2dde8318f1c09416f0504d705c1c2bf28482)
 - [ ] [<code>chore(translations): Translated using Weblate (Georgian)</code>](https://github.com/krille-chan/fluffychat/commit/6319dd101ca257ca168887eb4881a7a007e32826)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/644601ea937c42d8e6bfcde2813b6d96d67ea7da)
 - [ ] [<code>fix: Fix formatting of messages with newlines</code>](https://github.com/krille-chan/fluffychat/commit/f6a96617c7d92569b41e10bf6aef84df7886b3c2)
+- [ ] [<code>chore: Set operations per run to 1000</code>](https://github.com/krille-chan/fluffychat/commit/5053dd7978a78760a51cd480be83b080d9b7aa01)
+- [ ] [<code>chore: Check conventional commits in CI</code>](https://github.com/krille-chan/fluffychat/commit/c360abb0fca538d14ad384daf80fad3806e4ad2a)
+- [ ] [<code>chore: Set erase flag true on account deactivation</code>](https://github.com/krille-chan/fluffychat/commit/652152481c3aef691fa89d98c706575129542d80)
+- [ ] [<code>chore: Follow up seen by row</code>](https://github.com/krille-chan/fluffychat/commit/1a8a5c6187bc667f105df701087ae7a9d836ee88)
+- [ ] [<code>chore: Adjust paddings</code>](https://github.com/krille-chan/fluffychat/commit/95aca9f9d781db71485caa3bd1ff1b9f0de982c1)
+- [ ] [<code>build: Add maestro based integration tests</code>](https://github.com/krille-chan/fluffychat/commit/23f97df1f1b1d410360edde649823a88e9f8e963)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/d83ea7731a27d6331852bc51fdf42901ca93bc56)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/266f2759df6afb2ac570984fe783a9af4ea0e6cd)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5381,6 +5403,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump zlib to 1.3.2 (#3077)</code>](https://github.com/AOMediaCodec/libavif/commit/a5488e61d3d50f515696f233ac901397ec0b437e)
 - [ ] [<code>Set PNG Exif orientation to 1 (no rotation, no mirror) when saving.</code>](https://github.com/AOMediaCodec/libavif/commit/d40c64948609f349b08bfd8dfd27fd6146c7d6f1)
 - [ ] [<code>Bump libgav1 to v0.20.0 (#3080)</code>](https://github.com/AOMediaCodec/libavif/commit/15c3ac3a9c430824d038afb1cb291a490d82a3bf)
+- [ ] [<code>Install NASM when building SVT-AV1 locally (#3082)</code>](https://github.com/AOMediaCodec/libavif/commit/3cba078f6a805019e518b9ec4d015a7d12139b95)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6278,6 +6301,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix data race in ML training during host stop (#21844)</code>](https://github.com/netdata/netdata.git/commit/cee7787b2553e25f1ba37933d35a55d82e3e00ed)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/514eeff5dd27d2e2393b66d1cd4084b214fe7411)
 - [ ] [<code>Refactor UID/GID cache updates in apps plugin aggregation logic (#21864)</code>](https://github.com/netdata/netdata.git/commit/b88a35cf8a7781dcbd421a4fcef592d6075c2482)
+- [ ] [<code>build(deps): update go toolchain to v1.26.0 (#21866)</code>](https://github.com/netdata/netdata.git/commit/cd79e53f394241899dd354cc98cc67c412508885)
+- [ ] [<code>feat(go.d/docker): add docker ps -a function (#21868)</code>](https://github.com/netdata/netdata.git/commit/f5799819c3594483c212394f79713c715bc68424)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21870)</code>](https://github.com/netdata/netdata.git/commit/d30a38cf22388cab113354e92d889d77e790abec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Rename Top tab to Live tab across all documentation (#21872)</code>](https://github.com/netdata/netdata.git/commit/ce20d93cae57cb93f4b5581fe2514d52caa6306c)
+- [ ] [<code>docs: fix Top tab leftovers (#21873)</code>](https://github.com/netdata/netdata.git/commit/75c222984bad17201a17a2f05c5be7c0639769de)
+- [ ] [<code>Regenerate integrations docs (#21874)</code>](https://github.com/netdata/netdata.git/commit/740dfc12a917e167b0540c33cb49f3c592c0b31f)
+- [ ] [<code>docs: fix Top tab leftovers (#21875)</code>](https://github.com/netdata/netdata.git/commit/ba559b93c6051c2688abe024adc739bb33853438)
+- [ ] [<code>Add msys-yaml DLL to Windows install dependencies (#21867)</code>](https://github.com/netdata/netdata.git/commit/8c3d96833d2b4f5eafb5541e8a1d4fea27c0dafe)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Update Windows.plugin (#21797)</code>](https://github.com/netdata/netdata.git/commit/cb974ac384e3e64635d638a8334e7e668ef039b6)
+- [ ] [<code>Add compatibility for TCP(SSL) multiplexing (#21715)</code>](https://github.com/netdata/netdata.git/commit/d05b41b19766a4184d0e7ec530f5416237cfa34a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7603,6 +7640,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix for RSS feeds with bad tracker URLs (#8908)</code>](https://github.com/tribler/Tribler/commit/2ec051e65242134bd753e3cf03c0b2d8a061c3d3)
 - [ ] [<code>Add TSTATEDIR selection to NSIS installer</code>](https://github.com/tribler/Tribler/commit/da44844393bc64b4d4e6312ff34aabfb35a13e45)
 - [ ] [<code>Add TSTATEDIR selection to NSIS installer (#8909)</code>](https://github.com/tribler/Tribler/commit/e77c30eb02785a2370d354078f5ac9bc93a1a74a)
+  - <sub>Tags: <code>v8.4.0</code></sub>
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
