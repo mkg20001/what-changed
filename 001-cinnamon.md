@@ -115,8 +115,9 @@
 - [ ] [<code>github: Add stale workflow.</code>](https://github.com/linuxmint/cinnamon/commit/cc6dc6a7b9f6f2ea1ca5e842a79074b17926eeeb)
 - [ ] [<code>screenShield.js: Disable backup-locker in wayland sessions.</code>](https://github.com/linuxmint/cinnamon/commit/3e61da04353d6aedc6b068efb328b620695346d9)
 - [ ] [<code>screensaver: Reset internal state for new sessions, don't set the</code>](https://github.com/linuxmint/cinnamon/commit/e671fdf7fff0c18b1e16b5003cbc4737f93b9507)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 - [ ] [<code>backgrounds: Improve wayland session support. (#13614)</code>](https://github.com/linuxmint/cinnamon/commit/c8e02880228e5ecc4f4a860a6af8add186d24e44)
+- [ ] [<code>screenShield.js: Fix invalid character.</code>](https://github.com/linuxmint/cinnamon/commit/8e6ab58ac584d5c6746b44a590a6e1b52ea4a07e)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
