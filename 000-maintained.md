@@ -618,6 +618,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
 - [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
 - [ ] [<code>cmd/generate-database: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/02a5da3bd7799f332f7e4f2620afa0e0b8c77f0e)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 6 to 7</code>](https://github.com/lxc/incus/commit/2576d3e7f2ce15462fa405e7d3e92d0ea8ba3944)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5113,6 +5114,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/cliconfig: Add lock to prevent panic</code>](https://github.com/lxc/incus/commit/51e416c7efc765cb5364863fa251a67d8d95894f)
 - [ ] [<code>incusd/endpoints/starttls: Report correct ServerName</code>](https://github.com/lxc/incus/commit/f9b3047734eb84f02ed74544c86ab27a9e47bb3d)
 - [ ] [<code>cmd/generate-database: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/02a5da3bd7799f332f7e4f2620afa0e0b8c77f0e)
+- [ ] [<code>build(deps): bump actions/upload-artifact from 6 to 7</code>](https://github.com/lxc/incus/commit/2576d3e7f2ce15462fa405e7d3e92d0ea8ba3944)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -5365,6 +5367,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump the github-actions group across 1 directory with 3 updates (#3071)</code>](https://github.com/AOMediaCodec/libavif/commit/ccf46187b1a8f96f3f3b14e6d787a137d85f3da4)
 - [ ] [<code>Delete ninja install</code>](https://github.com/AOMediaCodec/libavif/commit/11096dd88b58134e86949229968cdfacb125908c)
 - [ ] [<code>Bump zlib to 1.3.2 (#3077)</code>](https://github.com/AOMediaCodec/libavif/commit/a5488e61d3d50f515696f233ac901397ec0b437e)
+- [ ] [<code>Set PNG Exif orientation to 1 (no rotation, no mirror) when saving.</code>](https://github.com/AOMediaCodec/libavif/commit/d40c64948609f349b08bfd8dfd27fd6146c7d6f1)
+- [ ] [<code>Bump libgav1 to v0.20.0 (#3080)</code>](https://github.com/AOMediaCodec/libavif/commit/15c3ac3a9c430824d038afb1cb291a490d82a3bf)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6260,6 +6264,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(dyncfg): rollback non-disruptive sd update failures (#21861)</code>](https://github.com/netdata/netdata.git/commit/97c7cdf0de04feacd2c6e4b07baca6f261518847)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix data race in ML training during host stop (#21844)</code>](https://github.com/netdata/netdata.git/commit/cee7787b2553e25f1ba37933d35a55d82e3e00ed)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/514eeff5dd27d2e2393b66d1cd4084b214fe7411)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
