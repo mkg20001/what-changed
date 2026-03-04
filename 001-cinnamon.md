@@ -277,11 +277,13 @@
 - [ ] [<code>Add stale.yml github workflow.</code>](https://github.com/linuxmint/nemo/commit/15d1d70a26cce5ef02c07a4c76b3b039a21b2c86)
 - [ ] [<code>Try fixing permissions.</code>](https://github.com/linuxmint/nemo/commit/872d62eb813968e6ffc88da04b1d3397262bb1eb)
 - [ ] [<code>packaging: Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/nemo/commit/02699027ff1d89457a6a9dd1ee5d95a1eb2ee044)
-  - <sub>Tags: <code>master.lmde7</code></sub>
 - [ ] [<code>Implement gtk-layer-shell. (#3684)</code>](https://github.com/linuxmint/nemo/commit/844a4f61c50294aea59fffcb115161949707623d)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-desktop-window.c: Fix missing include.</code>](https://github.com/linuxmint/nemo/commit/0a4d1b408dfac8f06e5be4fea3e299da8c09c045)
+- [ ] [<code>meson.build: Add -Werror=implicit-function-declaration</code>](https://github.com/linuxmint/nemo/commit/0ba73e5bae05d14b11100307b7dd49036fd020eb)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
