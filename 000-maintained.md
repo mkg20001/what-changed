@@ -343,6 +343,13 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/d83ea7731a27d6331852bc51fdf42901ca93bc56)
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/266f2759df6afb2ac570984fe783a9af4ea0e6cd)
+- [ ] [<code>build: (deps): Bump actions/cache from 4 to 5</code>](https://github.com/krille-chan/fluffychat/commit/d58b65a4b8caf6df11103c4eb9e8a95157d5b39d)
+- [ ] [<code>build: (deps): Bump actions/download-artifact from 7 to 8</code>](https://github.com/krille-chan/fluffychat/commit/76c5335d3222aa2e2aab27843200da250406ad0b)
+- [ ] [<code>build: (deps): Bump actions/upload-artifact from 5 to 7</code>](https://github.com/krille-chan/fluffychat/commit/d808fc857c391cf73873d15ece6351e5e308db27)
+- [ ] [<code>build: (deps): Bump flutter_foreground_task from 9.2.0 to 9.2.1</code>](https://github.com/krille-chan/fluffychat/commit/c4cf4a3e7cb86ea900f430f8c82e3ecc8d876689)
+- [ ] [<code>chore: Check of unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/7f7e7eb928bdee00842ecece78bd523530d72fe6)
+- [ ] [<code>refactor: Remove unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/08e396c02c34519bc9516e6b45931f9a8db9ad5c)
+- [ ] [<code>refactor: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/4dfa9873eed73c0fa3ff7dec6df59a24bfe93166)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -617,6 +624,13 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/d83ea7731a27d6331852bc51fdf42901ca93bc56)
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/266f2759df6afb2ac570984fe783a9af4ea0e6cd)
+- [ ] [<code>build: (deps): Bump actions/cache from 4 to 5</code>](https://github.com/krille-chan/fluffychat/commit/d58b65a4b8caf6df11103c4eb9e8a95157d5b39d)
+- [ ] [<code>build: (deps): Bump actions/download-artifact from 7 to 8</code>](https://github.com/krille-chan/fluffychat/commit/76c5335d3222aa2e2aab27843200da250406ad0b)
+- [ ] [<code>build: (deps): Bump actions/upload-artifact from 5 to 7</code>](https://github.com/krille-chan/fluffychat/commit/d808fc857c391cf73873d15ece6351e5e308db27)
+- [ ] [<code>build: (deps): Bump flutter_foreground_task from 9.2.0 to 9.2.1</code>](https://github.com/krille-chan/fluffychat/commit/c4cf4a3e7cb86ea900f430f8c82e3ecc8d876689)
+- [ ] [<code>chore: Check of unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/7f7e7eb928bdee00842ecece78bd523530d72fe6)
+- [ ] [<code>refactor: Remove unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/08e396c02c34519bc9516e6b45931f9a8db9ad5c)
+- [ ] [<code>refactor: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/4dfa9873eed73c0fa3ff7dec6df59a24bfe93166)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -648,6 +662,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/sys: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/69fb80406e9ced79be000ed3c5b3d158c6aa3792)
 - [ ] [<code>internal/server/project: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/0624971f72a57439c08762bf69c15902e04937b6)
 - [ ] [<code>internal/server/util: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/cfc2412555b143026b02d32aeba668b66703e2c3)
+- [ ] [<code>incusd/instance/lxc: Add /usr/bin/init to OCI PID1 list</code>](https://github.com/lxc/incus/commit/51f3816a5479041b79d5118712ee65a6d16d4744)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>internal/server/seccomp: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/784341787a9778ec8e234befab68cc47c107d75f)
+- [ ] [<code>internal/server/migration: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/868d95842d6522b8fe6a23cfb19201a64659130f)
+- [ ] [<code>internal/server/task: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/675ed1d3aa62a2a8e708ae8bf3d934d5b3ef66a8)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5151,6 +5170,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/sys: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/69fb80406e9ced79be000ed3c5b3d158c6aa3792)
 - [ ] [<code>internal/server/project: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/0624971f72a57439c08762bf69c15902e04937b6)
 - [ ] [<code>internal/server/util: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/cfc2412555b143026b02d32aeba668b66703e2c3)
+- [ ] [<code>incusd/instance/lxc: Add /usr/bin/init to OCI PID1 list</code>](https://github.com/lxc/incus/commit/51f3816a5479041b79d5118712ee65a6d16d4744)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>internal/server/seccomp: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/784341787a9778ec8e234befab68cc47c107d75f)
+- [ ] [<code>internal/server/migration: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/868d95842d6522b8fe6a23cfb19201a64659130f)
+- [ ] [<code>internal/server/task: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/675ed1d3aa62a2a8e708ae8bf3d934d5b3ef66a8)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -6324,6 +6348,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update Windows.plugin (#21797)</code>](https://github.com/netdata/netdata.git/commit/cb974ac384e3e64635d638a8334e7e668ef039b6)
 - [ ] [<code>Add compatibility for TCP(SSL) multiplexing (#21715)</code>](https://github.com/netdata/netdata.git/commit/d05b41b19766a4184d0e7ec530f5416237cfa34a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-96-nightly.</code>](https://github.com/netdata/netdata.git/commit/2ba7194d725bdf2b88430e6cba8296dffcc6431f)
+- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go (#21865)</code>](https://github.com/netdata/netdata.git/commit/4e03ed2ccb0c7694d964233fd2d9a4dc480da2ba)
+- [ ] [<code>Fix uninitialized string assignment in `json-c-parser-inline.h` (#21878)</code>](https://github.com/netdata/netdata.git/commit/fe92b131bcb163cc2da90fbc2769b6767d9deb09)
+- [ ] [<code>fix(packaging): add --no-same-owner to tar in Go toolchain install (#21883)</code>](https://github.com/netdata/netdata.git/commit/6d05a1419fa1d76d43d0a0097b998a4f2ba76549)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Revert "build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go" (#21884)</code>](https://github.com/netdata/netdata.git/commit/5a5263188b97428e27cc8a31054f9ef52706cbbc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7441,19 +7470,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Document memory ownership of the raft_event structure passed to raft_step (#199)</code>](https://github.com/cowsql/raft/commit/148951f79a1ed529d6f112661a3067494f1a0917)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
-  - <sub>Tags: <code>5.13</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+POST git-upload-pack (148 bytes)
+fatal: expected flush after ref listing
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -7772,6 +7794,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211: fix waitfor() busy-spinning on non-blocking event socket</code>](https://github.com/jow-/ucode/commit/520d9f4c878120374e1a2d050535bf2a304fa1bd)
 - [ ] [<code>nl80211: fix memory leak in waitfor() on repeated matching events</code>](https://github.com/jow-/ucode/commit/05328e33f078b73ef120b974528e17cebcacff9d)
 - [ ] [<code>nl80211: don't report waitfor() match on event parse failure</code>](https://github.com/jow-/ucode/commit/e4a165976dbb840dce482e3a30c7763ec3bcad18)
+- [ ] [<code>nl80211: add missing survey info attributes</code>](https://github.com/jow-/ucode/commit/57367e880e9d4e5d11eb033f968cee80b5dcdd81)
 - [ ] [<code>nl80211: fix dfs_cac_time attribute type</code>](https://github.com/jow-/ucode/commit/a39b74fe329eb969d995ab47b310bbc94f84a75b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
