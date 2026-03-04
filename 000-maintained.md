@@ -647,6 +647,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/firewall: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/71439fa3e30a668c1062b55b89b72223a65338b1)
 - [ ] [<code>internal/server/sys: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/69fb80406e9ced79be000ed3c5b3d158c6aa3792)
 - [ ] [<code>internal/server/project: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/0624971f72a57439c08762bf69c15902e04937b6)
+- [ ] [<code>internal/server/util: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/cfc2412555b143026b02d32aeba668b66703e2c3)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5149,9 +5150,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/firewall: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/71439fa3e30a668c1062b55b89b72223a65338b1)
 - [ ] [<code>internal/server/sys: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/69fb80406e9ced79be000ed3c5b3d158c6aa3792)
 - [ ] [<code>internal/server/project: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/0624971f72a57439c08762bf69c15902e04937b6)
+- [ ] [<code>internal/server/util: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/cfc2412555b143026b02d32aeba668b66703e2c3)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
+- [ ] [<code>instances: Tweak default shell</code>](https://github.com/zabbly/incus-ui-canonical/commit/4f2360542f08456ab90eb9010ceb13053f5e4ea6)
+  - <sub>Tags: <code>incus-0.19.9</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5404,6 +5409,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Set PNG Exif orientation to 1 (no rotation, no mirror) when saving.</code>](https://github.com/AOMediaCodec/libavif/commit/d40c64948609f349b08bfd8dfd27fd6146c7d6f1)
 - [ ] [<code>Bump libgav1 to v0.20.0 (#3080)</code>](https://github.com/AOMediaCodec/libavif/commit/15c3ac3a9c430824d038afb1cb291a490d82a3bf)
 - [ ] [<code>Install NASM when building SVT-AV1 locally (#3082)</code>](https://github.com/AOMediaCodec/libavif/commit/3cba078f6a805019e518b9ec4d015a7d12139b95)
+- [ ] [<code>SVT-AV1: Enable NASM on x86 only, ASM on ARM only.</code>](https://github.com/AOMediaCodec/libavif/commit/80aae8ac37f44d953a774733568eb16bb6652b4c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Bump libpng to 1.6.55</code>](https://github.com/AOMediaCodec/libavif/commit/0dbf30d47ee838c7226348ecb816e1f2f52fd6ab)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6315,6 +6323,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Update Windows.plugin (#21797)</code>](https://github.com/netdata/netdata.git/commit/cb974ac384e3e64635d638a8334e7e668ef039b6)
 - [ ] [<code>Add compatibility for TCP(SSL) multiplexing (#21715)</code>](https://github.com/netdata/netdata.git/commit/d05b41b19766a4184d0e7ec530f5416237cfa34a)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-96-nightly.</code>](https://github.com/netdata/netdata.git/commit/2ba7194d725bdf2b88430e6cba8296dffcc6431f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7492,6 +7501,30 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump happy-dom from 20.3.7 to 20.3.9 (#753)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7d0284727c8ff8204ffb511a531158ccf038e44c)
 - [ ] [<code>Bump happy-dom from 20.3.9 to 20.7.0 (#762)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b225a1e2fe592a450ea3aaabfd466bb46dbbafaf)
 - [ ] [<code>Bump @types/node from 22.15.29 to 25.3.0 (#763)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/93c9b1ee6ae1bba136ab3bcd93fd2e5d65f24417)
+- [ ] [<code>Bump rollup in the npm_and_yarn group across 1 directory (#765)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ed3f0c62dce491fbeaec315a8ba7e7e94aefcce3)
+- [ ] [<code>Bump prettier from 3.3.3 to 3.8.1 (#767)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e2532fe601eeebf2cbc3f8388de160f46136284c)
+- [ ] [<code>Bump react-admin from 5.14.0 to 5.14.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d312a983162ceb2159cdf088e4c5fbebea4df61f)
+- [ ] [<code>Bump react from 19.2.3 to 19.2.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b657583dafd5be208c38eeea4dd953fcac026770)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump react-router-dom from 7.6.1 to 7.13.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7f74f1edb87125d765bdd2492b059bb984fffa68)
+- [ ] [<code>Bump @types/node from 25.3.0 to 25.3.3 (#768)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2fa3631e55dcecadde10aedb532f471848686f74)
+- [ ] [<code>Bump @nuxt/schema from 4.3.0 to 4.3.1 (#769)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0685776e95d35de27868529d8dd874e81994afd3)
+- [ ] [<code>Bump @typescript-eslint/eslint-plugin from 8.53.1 to 8.56.1 (#771)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/25dc76d6753c1f787e9fc74ff50f185f4bcc3cde)
+- [ ] [<code>Bump @typescript-eslint/parser from 8.56.0 to 8.56.1 (#772)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2340230be6d50496bd9744e53c7941eaddb812dd)
+- [ ] [<code>Bump react-hook-form from 7.71.1 to 7.71.2 (#773)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b1624b47e678ca2ccf4aab5271bd34487512e5e9)
+- [ ] [<code>Bump happy-dom from 20.7.0 to 20.8.3 (#774)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/848ba7433c9b28434f701be2510056530c73d593)
+- [ ] [<code>Bump typescript-eslint from 8.53.1 to 8.56.1 (#776)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/900e73ca234306ea4cfb1019638d38cc5e1efaac)
+- [ ] [<code>Bump eslint-plugin-unused-imports from 4.3.0 to 4.4.1 (#778)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ece17671d769476d4833d821fcf158ac62e868a2)
+- [ ] [<code>Bump @emotion/styled from 11.14.0 to 11.14.1 (#775)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/11a6562b025cace48b01281ab08788a2da9d50cd)
+- [ ] [<code>Bump @nuxt/kit from 4.3.0 to 4.3.1 (#779)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7d51556d93a888e86ef910cd3bbec7141fa46d11)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump papaparse and @types/papaparse (#777)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/2b8e8c459189b6ad270c8a4b6670c3208c38675e)
+- [ ] [<code>Bump @eslint/js from 9.12.0 to 10.0.1 (#783)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/46f07125ff13be3da8ea5c5d78316af0bd67c748)
+- [ ] [<code>Bump @tanstack/react-query from 5.90.20 to 5.90.21 (#785)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ea7ee8d40349674497ca3d6391739302a0574a35)
+- [ ] [<code>Bump @types/lodash from 4.17.10 to 4.17.24 (#786)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5245a6ec0baf32cd429a6889c909995698c81185)
+- [ ] [<code>Bump react from 19.2.3 to 19.2.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ff68723140eebba45268757393f0fc7c767d9a42)
+- [ ] [<code>Bump version to 0.11.2</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b015ccfd0ba3e57113b0b5cb89401592fed6d07e)
+  - <sub>Tags: <code>0.11.2</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
