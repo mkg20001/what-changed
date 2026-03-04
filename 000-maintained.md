@@ -350,6 +350,7 @@
 - [ ] [<code>chore: Check of unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/7f7e7eb928bdee00842ecece78bd523530d72fe6)
 - [ ] [<code>refactor: Remove unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/08e396c02c34519bc9516e6b45931f9a8db9ad5c)
 - [ ] [<code>refactor: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/4dfa9873eed73c0fa3ff7dec6df59a24bfe93166)
+- [ ] [<code>chore: Follow up audio player mimetype</code>](https://github.com/krille-chan/fluffychat/commit/03f8f98e03193740df11171d5f3aede96b10c407)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -631,6 +632,7 @@
 - [ ] [<code>chore: Check of unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/7f7e7eb928bdee00842ecece78bd523530d72fe6)
 - [ ] [<code>refactor: Remove unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/08e396c02c34519bc9516e6b45931f9a8db9ad5c)
 - [ ] [<code>refactor: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/4dfa9873eed73c0fa3ff7dec6df59a24bfe93166)
+- [ ] [<code>chore: Follow up audio player mimetype</code>](https://github.com/krille-chan/fluffychat/commit/03f8f98e03193740df11171d5f3aede96b10c407)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5436,6 +5438,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>SVT-AV1: Enable NASM on x86 only, ASM on ARM only.</code>](https://github.com/AOMediaCodec/libavif/commit/80aae8ac37f44d953a774733568eb16bb6652b4c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Bump libpng to 1.6.55</code>](https://github.com/AOMediaCodec/libavif/commit/0dbf30d47ee838c7226348ecb816e1f2f52fd6ab)
+- [ ] [<code>Refactor avifAOMOptionsContainExplicitTuning() (#3060)</code>](https://github.com/AOMediaCodec/libavif/commit/c67bc45d98182236846bb1f6f3470965cb761159)
+- [ ] [<code>Remove Exif orientation after saving it to irot/imir when reading JPEGs.</code>](https://github.com/AOMediaCodec/libavif/commit/d3ec9d45116880609b6c0ff38de61a5ab7274836)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6353,6 +6357,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(packaging): add --no-same-owner to tar in Go toolchain install (#21883)</code>](https://github.com/netdata/netdata.git/commit/6d05a1419fa1d76d43d0a0097b998a4f2ba76549)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>Revert "build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go" (#21884)</code>](https://github.com/netdata/netdata.git/commit/5a5263188b97428e27cc8a31054f9ef52706cbbc)
+- [ ] [<code>health/notifications: enforce Pushover API field length limits (#21882)</code>](https://github.com/netdata/netdata.git/commit/daf58fb35c60f7bcb73235b8c7ffcb7f8289166f)
+- [ ] [<code>Fix initialization handling in `GetHardwareInfo` function (#21885)</code>](https://github.com/netdata/netdata.git/commit/1024b6995a93c76217bf66f8730990b230c331a2)
+- [ ] [<code>Fix integration (#21886)</code>](https://github.com/netdata/netdata.git/commit/8a305728d2bdd9ec8e7b9162bebdb62c8d31db6b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21877)</code>](https://github.com/netdata/netdata.git/commit/8cc3dfc1310b9d33dcd8ea1807dc671ae1baef9e)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7470,12 +7480,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Document memory ownership of the raft_event structure passed to raft_step (#199)</code>](https://github.com/cowsql/raft/commit/148951f79a1ed529d6f112661a3067494f1a0917)
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-POST git-upload-pack (148 bytes)
-fatal: expected flush after ref listing
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
