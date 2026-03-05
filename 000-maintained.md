@@ -354,6 +354,13 @@
 - [ ] [<code>build: (deps): Bump docker/login-action from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/de76969993fba511f7d20eb4ea57f36ce134555a)
 - [ ] [<code>fix: Use correct own person for android notification replies</code>](https://github.com/krille-chan/fluffychat/commit/c206a515156337ec59fd18d20ab3b40ea7a63f39)
 - [ ] [<code>build: Use flutter version from pubspec.yaml instead of env file</code>](https://github.com/krille-chan/fluffychat/commit/386d01296f279a1373d20c5bb6adc7b2180e50bc)
+- [ ] [<code>build: Update to flutter 3.41.4</code>](https://github.com/krille-chan/fluffychat/commit/9d8c332fc3e54b98a75a033be2d741f69834b8b0)
+- [ ] [<code>fix: Do not cancel notification on reply</code>](https://github.com/krille-chan/fluffychat/commit/a22c8fa6fafd53f19c5ab7fe989759182ececfc7)
+- [ ] [<code>chore: Remove web notification custom sound</code>](https://github.com/krille-chan/fluffychat/commit/58d5de4aba0791b2b801b2ff5e5d4e0bacc5914a)
+- [ ] [<code>refactor: Use native uri data from bytes instead of html</code>](https://github.com/krille-chan/fluffychat/commit/bfcd78fcdf43449e13bbc51271abef9a011c981e)
+- [ ] [<code>feat: Add mute notification action</code>](https://github.com/krille-chan/fluffychat/commit/d1abd71527a57178a0d2949bc41870e686ac729f)
+- [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/0fe91bfe14843617c3c9bddb910ceb2d899b336c)
+- [ ] [<code>chore: follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/dba3553a59ed4a9802dca0b88fd9c173e0f3781a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -639,6 +646,13 @@
 - [ ] [<code>build: (deps): Bump docker/login-action from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/de76969993fba511f7d20eb4ea57f36ce134555a)
 - [ ] [<code>fix: Use correct own person for android notification replies</code>](https://github.com/krille-chan/fluffychat/commit/c206a515156337ec59fd18d20ab3b40ea7a63f39)
 - [ ] [<code>build: Use flutter version from pubspec.yaml instead of env file</code>](https://github.com/krille-chan/fluffychat/commit/386d01296f279a1373d20c5bb6adc7b2180e50bc)
+- [ ] [<code>build: Update to flutter 3.41.4</code>](https://github.com/krille-chan/fluffychat/commit/9d8c332fc3e54b98a75a033be2d741f69834b8b0)
+- [ ] [<code>fix: Do not cancel notification on reply</code>](https://github.com/krille-chan/fluffychat/commit/a22c8fa6fafd53f19c5ab7fe989759182ececfc7)
+- [ ] [<code>chore: Remove web notification custom sound</code>](https://github.com/krille-chan/fluffychat/commit/58d5de4aba0791b2b801b2ff5e5d4e0bacc5914a)
+- [ ] [<code>refactor: Use native uri data from bytes instead of html</code>](https://github.com/krille-chan/fluffychat/commit/bfcd78fcdf43449e13bbc51271abef9a011c981e)
+- [ ] [<code>feat: Add mute notification action</code>](https://github.com/krille-chan/fluffychat/commit/d1abd71527a57178a0d2949bc41870e686ac729f)
+- [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/0fe91bfe14843617c3c9bddb910ceb2d899b336c)
+- [ ] [<code>chore: follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/dba3553a59ed4a9802dca0b88fd9c173e0f3781a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5196,11 +5210,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/instance/debug: Implement instance repair API</code>](https://github.com/lxc/incus/commit/2544af0f4dedfc1def952bd95488ab6a5ef93ca9)
   - <sub>Keywords: <code>subprocess</code></sub>
 
-#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
+#### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
-- [ ] [<code>instances: Tweak default shell</code>](https://github.com/zabbly/incus-ui-canonical/commit/4f2360542f08456ab90eb9010ceb13053f5e4ea6)
-  - <sub>Tags: <code>incus-0.19.9</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 
 #### [iso-flags](https://github.com/joielechong/iso-country-flags-svg-collection): [9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d → HEAD](https://github.com/joielechong/iso-country-flags-svg-collection/compare/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d...HEAD)
 
@@ -5462,6 +5473,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v1.4.0</code></sub>
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/a53108e25d7b9dae82a523e25fc0da8f84cb4c26)
+- [ ] [<code>Unify installing packages in the CI (#3086)</code>](https://github.com/AOMediaCodec/libavif/commit/80feb2f8c4be73d61069fb0502bc6d3b44ecc003)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6389,6 +6402,21 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Clarify retention in Parent with tiered storage examples (#21887)</code>](https://github.com/netdata/netdata.git/commit/98faddf55c8f7c722198f4f35e8b5198e6163184)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/167891524278fc9a7b5d6f0d9ca97ff5073b8d80)
 - [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go (#21892)</code>](https://github.com/netdata/netdata.git/commit/d0ad9c845bdc3c737f1ad8443eca7ad9bd922814)
+- [ ] [<code>Cleanup win plugin (Remove MSSQL) (#21876)</code>](https://github.com/netdata/netdata.git/commit/379a099d08d87375591cff2992362607e30965fd)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Update documentation (Windows installer) (#21888)</code>](https://github.com/netdata/netdata.git/commit/00957db3c00ee8945e0ca87452c1e2d46896a52e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Support multi-slot ingestion and batch emission (#21893)</code>](https://github.com/netdata/netdata.git/commit/49476ccc2f224115fa549de8006850439bb33228)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(jobmgr): register collector static functions on first job start (#21894)</code>](https://github.com/netdata/netdata.git/commit/60b130ca4c7eb1776f439e642394d5c2b99dfbd9)
+- [ ] [<code>Improve agent startup time (#21891)</code>](https://github.com/netdata/netdata.git/commit/3219071609790f2a55f9faccdd4e5edb5a2a7746)
+- [ ] [<code>fix(packaging): update min go version in check-for-go-toolchain.sh (#21895)</code>](https://github.com/netdata/netdata.git/commit/d6f6ec8ed27c815407f0278562c768ffc990dc71)
+- [ ] [<code>feat(integrations): link setup option names to detailed configuration sections (#21897)</code>](https://github.com/netdata/netdata.git/commit/f0b15c983f4eca249d6f5f300f18c63aee1a803f)
+- [ ] [<code>Regenerate integrations docs (#21898)</code>](https://github.com/netdata/netdata.git/commit/519f236cb317233062bc9e7ad759ec2ae192a148)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Restructure otel-plugin configuration with layered overrides (#21896)</code>](https://github.com/netdata/netdata.git/commit/753ab18378ce112da66b89a3075ba5c18a58a4fb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7428,6 +7456,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b6398861247423b6e6b1a16e4f35eca7bd0fccb)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>build: v2.5.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/52907806b7e0e9c48c0ab6eea08c5ff0ba921442)
+  - <sub>Tags: <code>v2.5.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
