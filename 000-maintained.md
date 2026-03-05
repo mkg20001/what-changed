@@ -351,6 +351,9 @@
 - [ ] [<code>refactor: Remove unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/08e396c02c34519bc9516e6b45931f9a8db9ad5c)
 - [ ] [<code>refactor: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/4dfa9873eed73c0fa3ff7dec6df59a24bfe93166)
 - [ ] [<code>chore: Follow up audio player mimetype</code>](https://github.com/krille-chan/fluffychat/commit/03f8f98e03193740df11171d5f3aede96b10c407)
+- [ ] [<code>build: (deps): Bump docker/login-action from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/de76969993fba511f7d20eb4ea57f36ce134555a)
+- [ ] [<code>fix: Use correct own person for android notification replies</code>](https://github.com/krille-chan/fluffychat/commit/c206a515156337ec59fd18d20ab3b40ea7a63f39)
+- [ ] [<code>build: Use flutter version from pubspec.yaml instead of env file</code>](https://github.com/krille-chan/fluffychat/commit/386d01296f279a1373d20c5bb6adc7b2180e50bc)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -633,6 +636,9 @@
 - [ ] [<code>refactor: Remove unused localizations</code>](https://github.com/krille-chan/fluffychat/commit/08e396c02c34519bc9516e6b45931f9a8db9ad5c)
 - [ ] [<code>refactor: Remove unused translations</code>](https://github.com/krille-chan/fluffychat/commit/4dfa9873eed73c0fa3ff7dec6df59a24bfe93166)
 - [ ] [<code>chore: Follow up audio player mimetype</code>](https://github.com/krille-chan/fluffychat/commit/03f8f98e03193740df11171d5f3aede96b10c407)
+- [ ] [<code>build: (deps): Bump docker/login-action from 3 to 4</code>](https://github.com/krille-chan/fluffychat/commit/de76969993fba511f7d20eb4ea57f36ce134555a)
+- [ ] [<code>fix: Use correct own person for android notification replies</code>](https://github.com/krille-chan/fluffychat/commit/c206a515156337ec59fd18d20ab3b40ea7a63f39)
+- [ ] [<code>build: Use flutter version from pubspec.yaml instead of env file</code>](https://github.com/krille-chan/fluffychat/commit/386d01296f279a1373d20c5bb6adc7b2180e50bc)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -669,6 +675,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/seccomp: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/784341787a9778ec8e234befab68cc47c107d75f)
 - [ ] [<code>internal/server/migration: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/868d95842d6522b8fe6a23cfb19201a64659130f)
 - [ ] [<code>internal/server/task: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/675ed1d3aa62a2a8e708ae8bf3d934d5b3ef66a8)
+- [ ] [<code>api: instances_debug_repair</code>](https://github.com/lxc/incus/commit/46a116715f89e4efde466660bf054c13dc634ffa)
+- [ ] [<code>shared/api: Add InstanceDebugRepairPost</code>](https://github.com/lxc/incus/commit/c1caca2a0f29eab60535c3cd820e7590b8552403)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/920b6f8b8d563c391ca7d076853d6033927d371c)
+- [ ] [<code>incusd/storage: Implement ActivateTask</code>](https://github.com/lxc/incus/commit/f4b175e432791c4d3c5fb4c9d6957a7d0072e6d4)
+- [ ] [<code>incusd/instance/debug: Implement instance repair API</code>](https://github.com/lxc/incus/commit/2544af0f4dedfc1def952bd95488ab6a5ef93ca9)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5177,6 +5189,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/seccomp: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/784341787a9778ec8e234befab68cc47c107d75f)
 - [ ] [<code>internal/server/migration: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/868d95842d6522b8fe6a23cfb19201a64659130f)
 - [ ] [<code>internal/server/task: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/675ed1d3aa62a2a8e708ae8bf3d934d5b3ef66a8)
+- [ ] [<code>api: instances_debug_repair</code>](https://github.com/lxc/incus/commit/46a116715f89e4efde466660bf054c13dc634ffa)
+- [ ] [<code>shared/api: Add InstanceDebugRepairPost</code>](https://github.com/lxc/incus/commit/c1caca2a0f29eab60535c3cd820e7590b8552403)
+- [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/920b6f8b8d563c391ca7d076853d6033927d371c)
+- [ ] [<code>incusd/storage: Implement ActivateTask</code>](https://github.com/lxc/incus/commit/f4b175e432791c4d3c5fb4c9d6957a7d0072e6d4)
+- [ ] [<code>incusd/instance/debug: Implement instance repair API</code>](https://github.com/lxc/incus/commit/2544af0f4dedfc1def952bd95488ab6a5ef93ca9)
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.8 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.8...HEAD)
 
@@ -6370,6 +6388,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add input validation for socket connection definitions (#21881)</code>](https://github.com/netdata/netdata.git/commit/c6f21a8c5a80b77524b4c91c5772dfef097a8a52)
 - [ ] [<code>Clarify retention in Parent with tiered storage examples (#21887)</code>](https://github.com/netdata/netdata.git/commit/98faddf55c8f7c722198f4f35e8b5198e6163184)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/167891524278fc9a7b5d6f0d9ca97ff5073b8d80)
+- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go (#21892)</code>](https://github.com/netdata/netdata.git/commit/d0ad9c845bdc3c737f1ad8443eca7ad9bd922814)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7404,6 +7423,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.5.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.5.0...HEAD)
 
+- [ ] [<code>fix(android): notification buttons activate wrong quick preset</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5eceef3c9ac945a8556f2104241b861282793d3a)
+- [ ] [<code>deps: bump actions/upload-artifact from 6 to 7 (#233)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6cdba6eeebe17c1d5926f6c802ee41bb5d826f96)
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b6398861247423b6e6b1a16e4f35eca7bd0fccb)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: v2.5.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/52907806b7e0e9c48c0ab6eea08c5ff0ba921442)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
