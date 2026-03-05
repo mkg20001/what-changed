@@ -5440,6 +5440,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump libpng to 1.6.55</code>](https://github.com/AOMediaCodec/libavif/commit/0dbf30d47ee838c7226348ecb816e1f2f52fd6ab)
 - [ ] [<code>Refactor avifAOMOptionsContainExplicitTuning() (#3060)</code>](https://github.com/AOMediaCodec/libavif/commit/c67bc45d98182236846bb1f6f3470965cb761159)
 - [ ] [<code>Remove Exif orientation after saving it to irot/imir when reading JPEGs.</code>](https://github.com/AOMediaCodec/libavif/commit/d3ec9d45116880609b6c0ff38de61a5ab7274836)
+- [ ] [<code>v1.4.0</code>](https://github.com/AOMediaCodec/libavif/commit/d145e1a32af2915779b27e3b0521b6db08dd6bb8)
+  - <sub>Tags: <code>v1.4.0</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/a53108e25d7b9dae82a523e25fc0da8f84cb4c26)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6363,6 +6367,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21877)</code>](https://github.com/netdata/netdata.git/commit/8cc3dfc1310b9d33dcd8ea1807dc671ae1baef9e)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Add input validation for socket connection definitions (#21881)</code>](https://github.com/netdata/netdata.git/commit/c6f21a8c5a80b77524b4c91c5772dfef097a8a52)
+- [ ] [<code>Clarify retention in Parent with tiered storage examples (#21887)</code>](https://github.com/netdata/netdata.git/commit/98faddf55c8f7c722198f4f35e8b5198e6163184)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/167891524278fc9a7b5d6f0d9ca97ff5073b8d80)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
