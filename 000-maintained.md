@@ -5741,6 +5741,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/a53108e25d7b9dae82a523e25fc0da8f84cb4c26)
 - [ ] [<code>Unify installing packages in the CI (#3086)</code>](https://github.com/AOMediaCodec/libavif/commit/80feb2f8c4be73d61069fb0502bc6d3b44ecc003)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Remove CMAKE_DL_LIBS for Rav1e (#3087)</code>](https://github.com/AOMediaCodec/libavif/commit/c7ade389e30842921f748ebdc38aef626c366fc2)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6687,6 +6688,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21899)</code>](https://github.com/netdata/netdata.git/commit/fed0d409582a58db30b516a042819fe9845f34f6)
 - [ ] [<code>Reject incoming streaming connection for own vnode (#21889)</code>](https://github.com/netdata/netdata.git/commit/61b5afbb934bbee7bc09a7231db6dd939fcd03f4)
 - [ ] [<code>chore(go/plugin/functions): change "not instances configured" resp code (#21903)</code>](https://github.com/netdata/netdata.git/commit/f94add990f78cc3102aff310a81fcc0e7ff8ab48)
+- [ ] [<code>Handle fetching IBM MQ libraries in CI package build jobs outside of CMake (#21862)</code>](https://github.com/netdata/netdata.git/commit/15ffa4faeb78cee19bece455f9ceaf1193a74faa)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8043,6 +8046,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add TSTATEDIR selection to NSIS installer</code>](https://github.com/tribler/Tribler/commit/da44844393bc64b4d4e6312ff34aabfb35a13e45)
 - [ ] [<code>Add TSTATEDIR selection to NSIS installer (#8909)</code>](https://github.com/tribler/Tribler/commit/e77c30eb02785a2370d354078f5ac9bc93a1a74a)
   - <sub>Tags: <code>v8.4.0</code></sub>
+- [ ] [<code>Don't allocate disk space for metadata lookups</code>](https://github.com/tribler/Tribler/commit/d6162a432e027876b6a4fa9f19e11e1b3c3ec4a9)
+- [ ] [<code>Fixed untranslated SaveAs method string</code>](https://github.com/tribler/Tribler/commit/33d0b43263d82160f62a3cb79187d7b5b6049ce5)
+- [ ] [<code>Use old lt types pending typed release</code>](https://github.com/tribler/Tribler/commit/3267052458b1965ccd2998a203055e36d555b21e)
+- [ ] [<code>Various Fixes (#8920)</code>](https://github.com/tribler/Tribler/commit/780bc53881415902cd9398b6ffa7fc970b9ef80b)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
