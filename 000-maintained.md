@@ -6417,6 +6417,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Restructure otel-plugin configuration with layered overrides (#21896)</code>](https://github.com/netdata/netdata.git/commit/753ab18378ce112da66b89a3075ba5c18a58a4fb)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-118-nightly.</code>](https://github.com/netdata/netdata.git/commit/4142bea0af83080fcf1472f8b086fec66490a5c3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
