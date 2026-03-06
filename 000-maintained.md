@@ -359,8 +359,12 @@
 - [ ] [<code>chore: Remove web notification custom sound</code>](https://github.com/krille-chan/fluffychat/commit/58d5de4aba0791b2b801b2ff5e5d4e0bacc5914a)
 - [ ] [<code>refactor: Use native uri data from bytes instead of html</code>](https://github.com/krille-chan/fluffychat/commit/bfcd78fcdf43449e13bbc51271abef9a011c981e)
 - [ ] [<code>feat: Add mute notification action</code>](https://github.com/krille-chan/fluffychat/commit/d1abd71527a57178a0d2949bc41870e686ac729f)
+- [ ] [<code>chore: Follow up search for homeserver</code>](https://github.com/krille-chan/fluffychat/commit/18d98d96c622a9ed5ee3a7dfb5aaf83af46d3f59)
 - [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/0fe91bfe14843617c3c9bddb910ceb2d899b336c)
+- [ ] [<code>chore: follow up borderradius</code>](https://github.com/krille-chan/fluffychat/commit/cb8b3be205be8e8a5c7888a7439d589b2960e9be)
 - [ ] [<code>chore: follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/dba3553a59ed4a9802dca0b88fd9c173e0f3781a)
+- [ ] [<code>build: (deps): Bump docker/metadata-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/d0901da51e254868d9f88a9d6a6c18dd2ba32404)
+- [ ] [<code>chore: Retry sign in tap in tests</code>](https://github.com/krille-chan/fluffychat/commit/89864cfd0cb59398784f5af815d8998c8858283a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -651,8 +655,12 @@
 - [ ] [<code>chore: Remove web notification custom sound</code>](https://github.com/krille-chan/fluffychat/commit/58d5de4aba0791b2b801b2ff5e5d4e0bacc5914a)
 - [ ] [<code>refactor: Use native uri data from bytes instead of html</code>](https://github.com/krille-chan/fluffychat/commit/bfcd78fcdf43449e13bbc51271abef9a011c981e)
 - [ ] [<code>feat: Add mute notification action</code>](https://github.com/krille-chan/fluffychat/commit/d1abd71527a57178a0d2949bc41870e686ac729f)
+- [ ] [<code>chore: Follow up search for homeserver</code>](https://github.com/krille-chan/fluffychat/commit/18d98d96c622a9ed5ee3a7dfb5aaf83af46d3f59)
 - [ ] [<code>chore: Follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/0fe91bfe14843617c3c9bddb910ceb2d899b336c)
+- [ ] [<code>chore: follow up borderradius</code>](https://github.com/krille-chan/fluffychat/commit/cb8b3be205be8e8a5c7888a7439d589b2960e9be)
 - [ ] [<code>chore: follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/dba3553a59ed4a9802dca0b88fd9c173e0f3781a)
+- [ ] [<code>build: (deps): Bump docker/metadata-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/d0901da51e254868d9f88a9d6a6c18dd2ba32404)
+- [ ] [<code>chore: Retry sign in tap in tests</code>](https://github.com/krille-chan/fluffychat/commit/89864cfd0cb59398784f5af815d8998c8858283a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -689,12 +697,141 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/seccomp: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/784341787a9778ec8e234befab68cc47c107d75f)
 - [ ] [<code>internal/server/migration: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/868d95842d6522b8fe6a23cfb19201a64659130f)
 - [ ] [<code>internal/server/task: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/675ed1d3aa62a2a8e708ae8bf3d934d5b3ef66a8)
+- [ ] [<code>incus/usage: Add a way to show the user a parsing rule different from the one in use</code>](https://github.com/lxc/incus/commit/72155f385a63bd9076464e779e1fded0c3025811)
+- [ ] [<code>incus/usage: Small tweaks before adding parsers</code>](https://github.com/lxc/incus/commit/708479fd17b2800cb826c9923efa6835fc7179b6)
 - [ ] [<code>api: instances_debug_repair</code>](https://github.com/lxc/incus/commit/46a116715f89e4efde466660bf054c13dc634ffa)
 - [ ] [<code>shared/api: Add InstanceDebugRepairPost</code>](https://github.com/lxc/incus/commit/c1caca2a0f29eab60535c3cd820e7590b8552403)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/920b6f8b8d563c391ca7d076853d6033927d371c)
 - [ ] [<code>incusd/storage: Implement ActivateTask</code>](https://github.com/lxc/incus/commit/f4b175e432791c4d3c5fb4c9d6957a7d0072e6d4)
 - [ ] [<code>incusd/instance/debug: Implement instance repair API</code>](https://github.com/lxc/incus/commit/2544af0f4dedfc1def952bd95488ab6a5ef93ca9)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/usage: Add parsers</code>](https://github.com/lxc/incus/commit/2ee41690d1e008fd857192bcb9c8b8aa2f6ef7da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add --explain global flag</code>](https://github.com/lxc/incus/commit/2151585523dac46cbbd741246918d30b95da998c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/usage: Add legacy support functions</code>](https://github.com/lxc/incus/commit/4037251a0141aba0e8aee33a94b317b742c533cb)
+- [ ] [<code>incus/action: Switch to new parser</code>](https://github.com/lxc/incus/commit/f8f5717216f7206cf33d65bfcd6fd6c19a5ef1fa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_init: Switch to new parser</code>](https://github.com/lxc/incus/commit/84e60a423b893f116e168ffcfa8498447fe2681f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_recover: Switch to new parser</code>](https://github.com/lxc/incus/commit/410556e38041932123585b33875aeebd0d6ca7f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_shutdown: Switch to new parser</code>](https://github.com/lxc/incus/commit/fbced312833a6f0ee6726ad7f4c2695a57673600)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_sql: Switch to new parser</code>](https://github.com/lxc/incus/commit/bef7bee044c0ad1d8cee1d7fc3c16892ccac6a2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_waitready: Switch to new parser</code>](https://github.com/lxc/incus/commit/f3cf1e90301a390a1cc004dd7d9a5bac7528a558)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/alias: Switch to new parser</code>](https://github.com/lxc/incus/commit/f6a0fbfba32f40a1b4c0bb263a2ce3c0351c332f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster: Switch to new parser</code>](https://github.com/lxc/incus/commit/0b7eb1efa0ae10cd9ac7846bdd0570d8f0b96d7d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster_group: Switch to new parser</code>](https://github.com/lxc/incus/commit/a7caefc4933206101fb9dae8b74685ea3cc3fa81)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster_role: Switch to new parser</code>](https://github.com/lxc/incus/commit/90c15c89b2faaa107485aa5f78f92b9c48ba56ec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config: Switch to new parser</code>](https://github.com/lxc/incus/commit/ab071e73a7f7baf3e4956ad9e2c84e6c0f87eec7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_device: Switch to new parser</code>](https://github.com/lxc/incus/commit/6c54d6970ac2894ba220fdd03e4b6742ba5eca06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_metadata: Switch to new parser</code>](https://github.com/lxc/incus/commit/fb351d40593dea6e3ad18eb7ba2e794673b0f6da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_template: Switch to new parser</code>](https://github.com/lxc/incus/commit/e6c237e2aba5403ea5f3a491a027d5f315067181)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_trust: Switch to new parser</code>](https://github.com/lxc/incus/commit/44d813952e579511514406ccca0d63b1935363a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/console: Switch to new parser</code>](https://github.com/lxc/incus/commit/e01ef211754d3890822020aa8dbd354c0fec3d2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/delete: Switch to new parser</code>](https://github.com/lxc/incus/commit/6c68602f8546a3080394694f917a819b5d4e9a8a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Switch `copy` and `move` to new parser</code>](https://github.com/lxc/incus/commit/7e5777f79af5dd732e7ae826ef94ef83f47efcd7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Switch `create` and `launch` to new parser</code>](https://github.com/lxc/incus/commit/f42cc879ef892f08bbc529533aa8427e2047205d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/debug: Switch to new parser</code>](https://github.com/lxc/incus/commit/8398e750f9d24cebb6a9d124a41deb7443194a2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/exec: Switch to new parser</code>](https://github.com/lxc/incus/commit/59e60256dadc6b4a01df164a9b037b15d6848aaf)
+  - <sub>Keywords: <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>incus/export: Switch to new parser</code>](https://github.com/lxc/incus/commit/b1ea2443c66c27c207866ccb86b2d4b977421d88)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Switch to new parser</code>](https://github.com/lxc/incus/commit/c5b54dea6235e52f473df0401a6f5cc53aa6da2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/image: Switch to new parser</code>](https://github.com/lxc/incus/commit/d78c7b54b0a6407c9280b12aec50948dc0663dcd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/image_alias: Switch to new parser</code>](https://github.com/lxc/incus/commit/06524e957cff8ad5f35143f0819c83d9c358e9cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/import: Switch to new parser</code>](https://github.com/lxc/incus/commit/07a66ce2627ae6e89ce98f639cafc38b3ecfbea6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/info: Switch to new parser</code>](https://github.com/lxc/incus/commit/eae83a73bef672903c768d80edb3d613bcad24d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/list: Switch to new parser</code>](https://github.com/lxc/incus/commit/62ded1cf0105a47ebc2e2b9f1216d8e3b020c358)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/manpage: Switch to new parser</code>](https://github.com/lxc/incus/commit/ff427d21cdefcb454d7534e6137471fc9a51b0bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/monitor: Switch to new parser</code>](https://github.com/lxc/incus/commit/ae6ccf56412f9582988f26e1cc8661ca4f1decbb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network: Switch to new parser</code>](https://github.com/lxc/incus/commit/34d4b2979ed82c0c65dffc7faf146950d4fe1fa3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_acl: Switch to new parser</code>](https://github.com/lxc/incus/commit/6e946aa4891dc710d78686414bd34659a51ab194)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_address_set: Switch to new parser</code>](https://github.com/lxc/incus/commit/c33bc6b002cb12b4d7f673b764a5c1e9f37295f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_allocations: Switch to new parser</code>](https://github.com/lxc/incus/commit/9b2a8d614a0587e9f96d0a6bbe5c7e46458f698e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_forward: Switch to new parser</code>](https://github.com/lxc/incus/commit/71a803b21d11c6343e210e56ba48bf02e0dc54a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_integration: Switch to new parser</code>](https://github.com/lxc/incus/commit/51b5a93e5c288f57af84fc773ea4b9f6eef82f43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_load_balancer: Switch to new parser</code>](https://github.com/lxc/incus/commit/189fc0afb1646079c014209bd3bff072b3240c60)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_peer: Switch to new parser</code>](https://github.com/lxc/incus/commit/148fadc0f8e88f34e6500deb6cc9865db12e616e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_zone: Switch to new parser</code>](https://github.com/lxc/incus/commit/a9368d7cf18f2a9803a8fc8571a4a36babeba70c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/operation: Switch to new parser</code>](https://github.com/lxc/incus/commit/95cf37d752d09837a7634a710ba339eceeef29c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/profile: Switch to new parser</code>](https://github.com/lxc/incus/commit/e9d78e33ca41cbad79e3fe4dd835e720e31eea17)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/project: Switch to new parser</code>](https://github.com/lxc/incus/commit/906972f173f4944f50b332a3139bd5ea529758e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/publish: Switch to new parser</code>](https://github.com/lxc/incus/commit/b234dc414ce0d44ffaa516be53a45c2710572b88)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/query: Switch to new parser</code>](https://github.com/lxc/incus/commit/9f14e5da1f792d3cff9e24ddcae0c1644734255f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/rebuild: Switch to new parser</code>](https://github.com/lxc/incus/commit/ad2aa070a0be05249abc66a2e636a5e2fe475580)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/remote: Switch to new parser</code>](https://github.com/lxc/incus/commit/bccaf027efb332c89fb3fb1eabd24dbffd53bee7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/rename: Switch to new parser</code>](https://github.com/lxc/incus/commit/04c34cf2285836c6ea36b2bfd18f1c3dd798783b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/snapshot: Switch to new parser</code>](https://github.com/lxc/incus/commit/da39af327cdc758f3f9bc60344a122852de0e7f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage: Switch to new parser</code>](https://github.com/lxc/incus/commit/144db2dc55d58bb13651f5305460523077d88928)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Switch to new parser</code>](https://github.com/lxc/incus/commit/bab103a6b98e6cefcdc54efc3c52796f57b0460e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_volume: Switch to new parser</code>](https://github.com/lxc/incus/commit/44cfe9e1cb32917e81acbdc5b16c24990a3d7a69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/top: Switch to new parser</code>](https://github.com/lxc/incus/commit/ca71fd0e47272e5936ea77a7874578dc4719193e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/version: Switch to new parser</code>](https://github.com/lxc/incus/commit/e4b21b40393c07d5b0e1686c7ce11ea6d212e977)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/wait: Switch to new parser</code>](https://github.com/lxc/incus/commit/183c261e22c553b754804db2126a53337815afb5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/warning: Switch to new parser</code>](https://github.com/lxc/incus/commit/593192ea223f179a826b672f7b910e937c1b8636)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/webui: Switch to new parser</code>](https://github.com/lxc/incus/commit/bb2b908035067d63410871022d59c446b776e738)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Fix `incus config set` tests</code>](https://github.com/lxc/incus/commit/8410488a67c8111711190339f5f53cbc0ab0f4c5)
+- [ ] [<code>test: Fix `incus profile assign` tests</code>](https://github.com/lxc/incus/commit/61f5c156fcdd7a03e5cdef2eef10351c6520f878)
+- [ ] [<code>test: Fix `incus storage volume attach` tests</code>](https://github.com/lxc/incus/commit/d1fb097324980eedf78aa495de58474fb7970ace)
+- [ ] [<code>test: Fix `incus storage volume snapshot show` tests</code>](https://github.com/lxc/incus/commit/f61e17104b8a85b1f4c9c597538f6306f937d7eb)
+- [ ] [<code>test: ISO import now allows setting no volume name</code>](https://github.com/lxc/incus/commit/af1f223f0e067a13b1446415235c7b6cd9c0daa6)
+- [ ] [<code>go.mod: Make runewidth a direct dependency</code>](https://github.com/lxc/incus/commit/26be0e1602675fb484e1b39b333c4857f0e50051)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Makefile: Properly set POT encoding</code>](https://github.com/lxc/incus/commit/73b67704b22b05b5af8b4b68ad4c6eb2d9b2a17f)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/551c6e395fa49371ca6ffa9f9c559c77033cee8f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5203,12 +5340,141 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>internal/server/seccomp: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/784341787a9778ec8e234befab68cc47c107d75f)
 - [ ] [<code>internal/server/migration: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/868d95842d6522b8fe6a23cfb19201a64659130f)
 - [ ] [<code>internal/server/task: fix linter complaints - #2636</code>](https://github.com/lxc/incus/commit/675ed1d3aa62a2a8e708ae8bf3d934d5b3ef66a8)
+- [ ] [<code>incus/usage: Add a way to show the user a parsing rule different from the one in use</code>](https://github.com/lxc/incus/commit/72155f385a63bd9076464e779e1fded0c3025811)
+- [ ] [<code>incus/usage: Small tweaks before adding parsers</code>](https://github.com/lxc/incus/commit/708479fd17b2800cb826c9923efa6835fc7179b6)
 - [ ] [<code>api: instances_debug_repair</code>](https://github.com/lxc/incus/commit/46a116715f89e4efde466660bf054c13dc634ffa)
 - [ ] [<code>shared/api: Add InstanceDebugRepairPost</code>](https://github.com/lxc/incus/commit/c1caca2a0f29eab60535c3cd820e7590b8552403)
 - [ ] [<code>doc/rest-api: Refresh swagger YAML</code>](https://github.com/lxc/incus/commit/920b6f8b8d563c391ca7d076853d6033927d371c)
 - [ ] [<code>incusd/storage: Implement ActivateTask</code>](https://github.com/lxc/incus/commit/f4b175e432791c4d3c5fb4c9d6957a7d0072e6d4)
 - [ ] [<code>incusd/instance/debug: Implement instance repair API</code>](https://github.com/lxc/incus/commit/2544af0f4dedfc1def952bd95488ab6a5ef93ca9)
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>incus/usage: Add parsers</code>](https://github.com/lxc/incus/commit/2ee41690d1e008fd857192bcb9c8b8aa2f6ef7da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Add --explain global flag</code>](https://github.com/lxc/incus/commit/2151585523dac46cbbd741246918d30b95da998c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/usage: Add legacy support functions</code>](https://github.com/lxc/incus/commit/4037251a0141aba0e8aee33a94b317b742c533cb)
+- [ ] [<code>incus/action: Switch to new parser</code>](https://github.com/lxc/incus/commit/f8f5717216f7206cf33d65bfcd6fd6c19a5ef1fa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_init: Switch to new parser</code>](https://github.com/lxc/incus/commit/84e60a423b893f116e168ffcfa8498447fe2681f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_recover: Switch to new parser</code>](https://github.com/lxc/incus/commit/410556e38041932123585b33875aeebd0d6ca7f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_shutdown: Switch to new parser</code>](https://github.com/lxc/incus/commit/fbced312833a6f0ee6726ad7f4c2695a57673600)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_sql: Switch to new parser</code>](https://github.com/lxc/incus/commit/bef7bee044c0ad1d8cee1d7fc3c16892ccac6a2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/admin_waitready: Switch to new parser</code>](https://github.com/lxc/incus/commit/f3cf1e90301a390a1cc004dd7d9a5bac7528a558)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/alias: Switch to new parser</code>](https://github.com/lxc/incus/commit/f6a0fbfba32f40a1b4c0bb263a2ce3c0351c332f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster: Switch to new parser</code>](https://github.com/lxc/incus/commit/0b7eb1efa0ae10cd9ac7846bdd0570d8f0b96d7d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster_group: Switch to new parser</code>](https://github.com/lxc/incus/commit/a7caefc4933206101fb9dae8b74685ea3cc3fa81)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/cluster_role: Switch to new parser</code>](https://github.com/lxc/incus/commit/90c15c89b2faaa107485aa5f78f92b9c48ba56ec)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config: Switch to new parser</code>](https://github.com/lxc/incus/commit/ab071e73a7f7baf3e4956ad9e2c84e6c0f87eec7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_device: Switch to new parser</code>](https://github.com/lxc/incus/commit/6c54d6970ac2894ba220fdd03e4b6742ba5eca06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_metadata: Switch to new parser</code>](https://github.com/lxc/incus/commit/fb351d40593dea6e3ad18eb7ba2e794673b0f6da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_template: Switch to new parser</code>](https://github.com/lxc/incus/commit/e6c237e2aba5403ea5f3a491a027d5f315067181)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/config_trust: Switch to new parser</code>](https://github.com/lxc/incus/commit/44d813952e579511514406ccca0d63b1935363a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/console: Switch to new parser</code>](https://github.com/lxc/incus/commit/e01ef211754d3890822020aa8dbd354c0fec3d2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/delete: Switch to new parser</code>](https://github.com/lxc/incus/commit/6c68602f8546a3080394694f917a819b5d4e9a8a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Switch `copy` and `move` to new parser</code>](https://github.com/lxc/incus/commit/7e5777f79af5dd732e7ae826ef94ef83f47efcd7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus: Switch `create` and `launch` to new parser</code>](https://github.com/lxc/incus/commit/f42cc879ef892f08bbc529533aa8427e2047205d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/debug: Switch to new parser</code>](https://github.com/lxc/incus/commit/8398e750f9d24cebb6a9d124a41deb7443194a2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/exec: Switch to new parser</code>](https://github.com/lxc/incus/commit/59e60256dadc6b4a01df164a9b037b15d6848aaf)
+  - <sub>Keywords: <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>incus/export: Switch to new parser</code>](https://github.com/lxc/incus/commit/b1ea2443c66c27c207866ccb86b2d4b977421d88)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/file: Switch to new parser</code>](https://github.com/lxc/incus/commit/c5b54dea6235e52f473df0401a6f5cc53aa6da2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/image: Switch to new parser</code>](https://github.com/lxc/incus/commit/d78c7b54b0a6407c9280b12aec50948dc0663dcd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/image_alias: Switch to new parser</code>](https://github.com/lxc/incus/commit/06524e957cff8ad5f35143f0819c83d9c358e9cc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/import: Switch to new parser</code>](https://github.com/lxc/incus/commit/07a66ce2627ae6e89ce98f639cafc38b3ecfbea6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/info: Switch to new parser</code>](https://github.com/lxc/incus/commit/eae83a73bef672903c768d80edb3d613bcad24d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/list: Switch to new parser</code>](https://github.com/lxc/incus/commit/62ded1cf0105a47ebc2e2b9f1216d8e3b020c358)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/manpage: Switch to new parser</code>](https://github.com/lxc/incus/commit/ff427d21cdefcb454d7534e6137471fc9a51b0bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/monitor: Switch to new parser</code>](https://github.com/lxc/incus/commit/ae6ccf56412f9582988f26e1cc8661ca4f1decbb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network: Switch to new parser</code>](https://github.com/lxc/incus/commit/34d4b2979ed82c0c65dffc7faf146950d4fe1fa3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_acl: Switch to new parser</code>](https://github.com/lxc/incus/commit/6e946aa4891dc710d78686414bd34659a51ab194)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_address_set: Switch to new parser</code>](https://github.com/lxc/incus/commit/c33bc6b002cb12b4d7f673b764a5c1e9f37295f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_allocations: Switch to new parser</code>](https://github.com/lxc/incus/commit/9b2a8d614a0587e9f96d0a6bbe5c7e46458f698e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_forward: Switch to new parser</code>](https://github.com/lxc/incus/commit/71a803b21d11c6343e210e56ba48bf02e0dc54a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_integration: Switch to new parser</code>](https://github.com/lxc/incus/commit/51b5a93e5c288f57af84fc773ea4b9f6eef82f43)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_load_balancer: Switch to new parser</code>](https://github.com/lxc/incus/commit/189fc0afb1646079c014209bd3bff072b3240c60)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_peer: Switch to new parser</code>](https://github.com/lxc/incus/commit/148fadc0f8e88f34e6500deb6cc9865db12e616e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/network_zone: Switch to new parser</code>](https://github.com/lxc/incus/commit/a9368d7cf18f2a9803a8fc8571a4a36babeba70c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/operation: Switch to new parser</code>](https://github.com/lxc/incus/commit/95cf37d752d09837a7634a710ba339eceeef29c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/profile: Switch to new parser</code>](https://github.com/lxc/incus/commit/e9d78e33ca41cbad79e3fe4dd835e720e31eea17)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/project: Switch to new parser</code>](https://github.com/lxc/incus/commit/906972f173f4944f50b332a3139bd5ea529758e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/publish: Switch to new parser</code>](https://github.com/lxc/incus/commit/b234dc414ce0d44ffaa516be53a45c2710572b88)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/query: Switch to new parser</code>](https://github.com/lxc/incus/commit/9f14e5da1f792d3cff9e24ddcae0c1644734255f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/rebuild: Switch to new parser</code>](https://github.com/lxc/incus/commit/ad2aa070a0be05249abc66a2e636a5e2fe475580)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/remote: Switch to new parser</code>](https://github.com/lxc/incus/commit/bccaf027efb332c89fb3fb1eabd24dbffd53bee7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/rename: Switch to new parser</code>](https://github.com/lxc/incus/commit/04c34cf2285836c6ea36b2bfd18f1c3dd798783b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/snapshot: Switch to new parser</code>](https://github.com/lxc/incus/commit/da39af327cdc758f3f9bc60344a122852de0e7f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage: Switch to new parser</code>](https://github.com/lxc/incus/commit/144db2dc55d58bb13651f5305460523077d88928)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_bucket: Switch to new parser</code>](https://github.com/lxc/incus/commit/bab103a6b98e6cefcdc54efc3c52796f57b0460e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/storage_volume: Switch to new parser</code>](https://github.com/lxc/incus/commit/44cfe9e1cb32917e81acbdc5b16c24990a3d7a69)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/top: Switch to new parser</code>](https://github.com/lxc/incus/commit/ca71fd0e47272e5936ea77a7874578dc4719193e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/version: Switch to new parser</code>](https://github.com/lxc/incus/commit/e4b21b40393c07d5b0e1686c7ce11ea6d212e977)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/wait: Switch to new parser</code>](https://github.com/lxc/incus/commit/183c261e22c553b754804db2126a53337815afb5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/warning: Switch to new parser</code>](https://github.com/lxc/incus/commit/593192ea223f179a826b672f7b910e937c1b8636)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus/webui: Switch to new parser</code>](https://github.com/lxc/incus/commit/bb2b908035067d63410871022d59c446b776e738)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: Fix `incus config set` tests</code>](https://github.com/lxc/incus/commit/8410488a67c8111711190339f5f53cbc0ab0f4c5)
+- [ ] [<code>test: Fix `incus profile assign` tests</code>](https://github.com/lxc/incus/commit/61f5c156fcdd7a03e5cdef2eef10351c6520f878)
+- [ ] [<code>test: Fix `incus storage volume attach` tests</code>](https://github.com/lxc/incus/commit/d1fb097324980eedf78aa495de58474fb7970ace)
+- [ ] [<code>test: Fix `incus storage volume snapshot show` tests</code>](https://github.com/lxc/incus/commit/f61e17104b8a85b1f4c9c597538f6306f937d7eb)
+- [ ] [<code>test: ISO import now allows setting no volume name</code>](https://github.com/lxc/incus/commit/af1f223f0e067a13b1446415235c7b6cd9c0daa6)
+- [ ] [<code>go.mod: Make runewidth a direct dependency</code>](https://github.com/lxc/incus/commit/26be0e1602675fb484e1b39b333c4857f0e50051)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Makefile: Properly set POT encoding</code>](https://github.com/lxc/incus/commit/73b67704b22b05b5af8b4b68ad4c6eb2d9b2a17f)
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/551c6e395fa49371ca6ffa9f9c559c77033cee8f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6418,6 +6684,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Restructure otel-plugin configuration with layered overrides (#21896)</code>](https://github.com/netdata/netdata.git/commit/753ab18378ce112da66b89a3075ba5c18a58a4fb)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-118-nightly.</code>](https://github.com/netdata/netdata.git/commit/4142bea0af83080fcf1472f8b086fec66490a5c3)
+- [ ] [<code>Regenerate integrations docs (#21899)</code>](https://github.com/netdata/netdata.git/commit/fed0d409582a58db30b516a042819fe9845f34f6)
+- [ ] [<code>Reject incoming streaming connection for own vnode (#21889)</code>](https://github.com/netdata/netdata.git/commit/61b5afbb934bbee7bc09a7231db6dd939fcd03f4)
+- [ ] [<code>chore(go/plugin/functions): change "not instances configured" resp code (#21903)</code>](https://github.com/netdata/netdata.git/commit/f94add990f78cc3102aff310a81fcc0e7ff8ab48)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
