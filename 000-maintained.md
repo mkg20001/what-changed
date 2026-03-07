@@ -365,6 +365,9 @@
 - [ ] [<code>chore: follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/dba3553a59ed4a9802dca0b88fd9c173e0f3781a)
 - [ ] [<code>build: (deps): Bump docker/metadata-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/d0901da51e254868d9f88a9d6a6c18dd2ba32404)
 - [ ] [<code>chore: Retry sign in tap in tests</code>](https://github.com/krille-chan/fluffychat/commit/89864cfd0cb59398784f5af815d8998c8858283a)
+- [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/edf7d81b60f64eaad5be0b32dba749ad45c4e525)
+- [ ] [<code>build: (deps): Bump docker/build-push-action from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/ece4628751cf1bd5aa621794155436658200460e)
+- [ ] [<code>chore: Update redirect android scheme</code>](https://github.com/krille-chan/fluffychat/commit/e0c20f249b40723719ba7539bdc3a8cdab902521)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -661,6 +664,9 @@
 - [ ] [<code>chore: follow up user dialog</code>](https://github.com/krille-chan/fluffychat/commit/dba3553a59ed4a9802dca0b88fd9c173e0f3781a)
 - [ ] [<code>build: (deps): Bump docker/metadata-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/d0901da51e254868d9f88a9d6a6c18dd2ba32404)
 - [ ] [<code>chore: Retry sign in tap in tests</code>](https://github.com/krille-chan/fluffychat/commit/89864cfd0cb59398784f5af815d8998c8858283a)
+- [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/edf7d81b60f64eaad5be0b32dba749ad45c4e525)
+- [ ] [<code>build: (deps): Bump docker/build-push-action from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/ece4628751cf1bd5aa621794155436658200460e)
+- [ ] [<code>chore: Update redirect android scheme</code>](https://github.com/krille-chan/fluffychat/commit/e0c20f249b40723719ba7539bdc3a8cdab902521)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -832,6 +838,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Makefile: Properly set POT encoding</code>](https://github.com/lxc/incus/commit/73b67704b22b05b5af8b4b68ad4c6eb2d9b2a17f)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/551c6e395fa49371ca6ffa9f9c559c77033cee8f)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/operations: Fix missing Unlock</code>](https://github.com/lxc/incus/commit/10145de283c19f552f9cd719bcb427e7fefbfc21)
+- [ ] [<code>doc: Fix typo</code>](https://github.com/lxc/incus/commit/7f241fa4382a1f1037a27e5643dacbee18ea112d)
+- [ ] [<code>incusd: Fix typo</code>](https://github.com/lxc/incus/commit/8f4fc5c3e764950a1a9e14a7275c03deb73811b0)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5475,6 +5484,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Makefile: Properly set POT encoding</code>](https://github.com/lxc/incus/commit/73b67704b22b05b5af8b4b68ad4c6eb2d9b2a17f)
 - [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/551c6e395fa49371ca6ffa9f9c559c77033cee8f)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incusd/operations: Fix missing Unlock</code>](https://github.com/lxc/incus/commit/10145de283c19f552f9cd719bcb427e7fefbfc21)
+- [ ] [<code>doc: Fix typo</code>](https://github.com/lxc/incus/commit/7f241fa4382a1f1037a27e5643dacbee18ea112d)
+- [ ] [<code>incusd: Fix typo</code>](https://github.com/lxc/incus/commit/8f4fc5c3e764950a1a9e14a7275c03deb73811b0)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -7723,14 +7735,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: make it build with gcc15</code>](https://github.com/OLSR/OONF/commit/868b3be3afb09d0804550a5d248a4f3de020a4be)
 - [ ] [<code>Update README.md</code>](https://github.com/OLSR/OONF/commit/b2164126e12340f19ea33070e1e11eb469a051e5)
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.5.0 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.5.0...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.5.1 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.5.1...HEAD)
 
-- [ ] [<code>fix(android): notification buttons activate wrong quick preset</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5eceef3c9ac945a8556f2104241b861282793d3a)
-- [ ] [<code>deps: bump actions/upload-artifact from 6 to 7 (#233)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6cdba6eeebe17c1d5926f6c802ee41bb5d826f96)
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/5b6398861247423b6e6b1a16e4f35eca7bd0fccb)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>build: v2.5.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/52907806b7e0e9c48c0ab6eea08c5ff0ba921442)
-  - <sub>Tags: <code>v2.5.1</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
