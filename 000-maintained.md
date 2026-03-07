@@ -7904,6 +7904,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump react from 19.2.3 to 19.2.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ff68723140eebba45268757393f0fc7c767d9a42)
 - [ ] [<code>Bump version to 0.11.2</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b015ccfd0ba3e57113b0b5cb89401592fed6d07e)
   - <sub>Tags: <code>0.11.2</code></sub>
+- [ ] [<code>Fix app login rendering tests</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d4ebb3d5d6aecf2bcd0869727c83f1fb2f7238d3)
+- [ ] [<code>Bump version to 0.11.3</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ebdc5161c6574647f02763139bde2973550c6e2a)
+  - <sub>Tags: <code>0.11.3</code></sub>
+- [ ] [<code>Fix custom routes rendering</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1ecd88bd0346f4c4a3abb848ae8c52413a5d395e)
+- [ ] [<code>Make sure, only a single version of react-router is used</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f936a49e51ba5b85a6fae9aba21c14dc49a4fbd4)
+- [ ] [<code>Bump version to 0.11.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/84927359eb434259bfde4c5ed85369b72d76f0de)
+  - <sub>Tags: <code>0.11.4</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
