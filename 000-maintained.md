@@ -6690,6 +6690,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go/plugin/functions): change "not instances configured" resp code (#21903)</code>](https://github.com/netdata/netdata.git/commit/f94add990f78cc3102aff310a81fcc0e7ff8ab48)
 - [ ] [<code>Handle fetching IBM MQ libraries in CI package build jobs outside of CMake (#21862)</code>](https://github.com/netdata/netdata.git/commit/15ffa4faeb78cee19bece455f9ceaf1193a74faa)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-123-nightly.</code>](https://github.com/netdata/netdata.git/commit/c97e6f6691a02cf5d1c4adb19886b6b3306433c5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
