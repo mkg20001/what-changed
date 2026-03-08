@@ -377,6 +377,8 @@
 - [ ] [<code>build: (deps): Bump docker/build-push-action from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/ece4628751cf1bd5aa621794155436658200460e)
 - [ ] [<code>chore: Update redirect android scheme</code>](https://github.com/krille-chan/fluffychat/commit/e0c20f249b40723719ba7539bdc3a8cdab902521)
 - [ ] [<code>chore: Follow up matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/aba8c3faf2cf4b1e06ee5552b700c1f7b20a2a42)
+- [ ] [<code>chore: Follow up remote logout handling</code>](https://github.com/krille-chan/fluffychat/commit/bad0a549cb851df7b716f5e682868caea729694b)
+- [ ] [<code>chore: Add reset button for config viewer</code>](https://github.com/krille-chan/fluffychat/commit/a3a2a37a143474370f1731a71510292046913b6e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -677,6 +679,8 @@
 - [ ] [<code>build: (deps): Bump docker/build-push-action from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/ece4628751cf1bd5aa621794155436658200460e)
 - [ ] [<code>chore: Update redirect android scheme</code>](https://github.com/krille-chan/fluffychat/commit/e0c20f249b40723719ba7539bdc3a8cdab902521)
 - [ ] [<code>chore: Follow up matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/aba8c3faf2cf4b1e06ee5552b700c1f7b20a2a42)
+- [ ] [<code>chore: Follow up remote logout handling</code>](https://github.com/krille-chan/fluffychat/commit/bad0a549cb851df7b716f5e682868caea729694b)
+- [ ] [<code>chore: Add reset button for config viewer</code>](https://github.com/krille-chan/fluffychat/commit/a3a2a37a143474370f1731a71510292046913b6e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -7934,6 +7938,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Remove unused dependencies</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a67b4180ce9e8ee0996374fab2afb931f14c387c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Fix typo id_exits -> id_exists</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cdf71b8929a22d66a0ae132fb899aa60d73c69b8)
+- [ ] [<code>Potential fixes for 2 code quality findings (#789)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9bd1c5be3a8cc7e0bb945fd542d8b4af95bbe87c)
+- [ ] [<code>Clean up admin locale registration</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d7de5432051d0e4ee1436a6590cae5503074fc06)
+- [ ] [<code>Align react-query with react-admin</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0a880b055d745693eeaaf5a55f1596ac511b991c)
+- [ ] [<code>Modernize admin shell routing</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1dfea8f7aece761728a55efdac75de74cfdcddb0)
+- [ ] [<code>Add explicit config bootstrap states</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0d26c17f799b9c4b573850eb24973dfb4c9c6292)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
