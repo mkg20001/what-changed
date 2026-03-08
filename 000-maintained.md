@@ -32,6 +32,14 @@
 
 - [ ] [<code>Install v0.26.0 by default</code>](https://github.com/stepchowfun/docuum/commit/f05706b88fe2c13aa5307ef3bb42ffbf795d014b)
 - [ ] [<code>Update Rust to v1.92.0</code>](https://github.com/stepchowfun/docuum/commit/2d557689ba6c50aab998bcb8fec8c8c243b28f7e)
+- [ ] [<code>Skip images in use by containers during vacuum</code>](https://github.com/stepchowfun/docuum/commit/a453a69c275aea6538bd92f3a07c78e90b571c7a)
+- [ ] [<code>Allow clippy::too_many_lines for vacuum function</code>](https://github.com/stepchowfun/docuum/commit/e8ef53d42d02f340f33a7bd74a0dcef3ccefd4b6)
+- [ ] [<code>Update Rust to v1.94.0</code>](https://github.com/stepchowfun/docuum/commit/7475c837e0a6afacdf942ac3d042fa11db3accf5)
+- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/11b92c5f05f34bd1413eb7d5b12872a631111741)
+- [ ] [<code>Release v0.26.1</code>](https://github.com/stepchowfun/docuum/commit/5ad30b91682d6b7348371f943646c578f2fdb04f)
+- [ ] [<code>Merge pull request #356 from stepchowfun/v0.26.1</code>](https://github.com/stepchowfun/docuum/commit/700731f4838684cac1fa35b54686c3359a801ee8)
+  - <sub>Tags: <code>v0.26.1</code></sub>
+- [ ] [<code>Install v0.26.1 by default</code>](https://github.com/stepchowfun/docuum/commit/3a518a51178e553b86203d0004f0eeb80ad63d7b)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6703,6 +6711,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Handle fetching IBM MQ libraries in CI package build jobs outside of CMake (#21862)</code>](https://github.com/netdata/netdata.git/commit/15ffa4faeb78cee19bece455f9ceaf1193a74faa)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-123-nightly.</code>](https://github.com/netdata/netdata.git/commit/c97e6f6691a02cf5d1c4adb19886b6b3306433c5)
+- [ ] [<code>feat(go/plugin/metrix): add MeasureSet structured family support (#21909)</code>](https://github.com/netdata/netdata.git/commit/da76065869a5dc6b14d113e4cde9f5294ef87320)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-125-nightly.</code>](https://github.com/netdata/netdata.git/commit/8484017fa82decdfc7f758d36021dabf3b57a4bc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7911,6 +7921,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Make sure, only a single version of react-router is used</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f936a49e51ba5b85a6fae9aba21c14dc49a4fbd4)
 - [ ] [<code>Bump version to 0.11.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/84927359eb434259bfde4c5ed85369b72d76f0de)
   - <sub>Tags: <code>0.11.4</code></sub>
+- [ ] [<code>Bump dompurify in the npm_and_yarn group across 1 directory (#788)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/64111dde2f95e3c9fad0322db8ad4337545aceac)
+- [ ] [<code>Add agent skill for react-admin</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e7e6361c069c84e6de436dd83068dec14ae2bb97)
+- [ ] [<code>Update yarn to 4.13.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/289e5fc7c73ffd442c20fe995e5d3e527cd8e22d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update vscode settings</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a65798c207df29f5314b5db68a1f4a49c59d6cde)
+- [ ] [<code>Patch TypeScript PnP resolution for VSCode SDK</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3f4a0e7a831dcab75547122f617a853c23f36832)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
