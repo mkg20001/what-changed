@@ -22,7 +22,7 @@
 - [ ] [<code>build(deps): bump actions/checkout from 5 to 6 (#43)</code>](https://github.com/cowsql/cowsql/commit/be10ceab3b2e63461d76c3d373e628e789cbdebe)
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/25.3.5/dbeaver-ce-25.3.5-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/v3.3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/v3.3.1...HEAD)
@@ -376,6 +376,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/edf7d81b60f64eaad5be0b32dba749ad45c4e525)
 - [ ] [<code>build: (deps): Bump docker/build-push-action from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/ece4628751cf1bd5aa621794155436658200460e)
 - [ ] [<code>chore: Update redirect android scheme</code>](https://github.com/krille-chan/fluffychat/commit/e0c20f249b40723719ba7539bdc3a8cdab902521)
+- [ ] [<code>chore: Follow up matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/aba8c3faf2cf4b1e06ee5552b700c1f7b20a2a42)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -675,6 +676,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/edf7d81b60f64eaad5be0b32dba749ad45c4e525)
 - [ ] [<code>build: (deps): Bump docker/build-push-action from 6 to 7</code>](https://github.com/krille-chan/fluffychat/commit/ece4628751cf1bd5aa621794155436658200460e)
 - [ ] [<code>chore: Update redirect android scheme</code>](https://github.com/krille-chan/fluffychat/commit/e0c20f249b40723719ba7539bdc3a8cdab902521)
+- [ ] [<code>chore: Follow up matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/aba8c3faf2cf4b1e06ee5552b700c1f7b20a2a42)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -7927,6 +7929,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Update vscode settings</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a65798c207df29f5314b5db68a1f4a49c59d6cde)
 - [ ] [<code>Patch TypeScript PnP resolution for VSCode SDK</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3f4a0e7a831dcab75547122f617a853c23f36832)
+- [ ] [<code>Integrate base German and Chinese react-admin translations</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e25622a385f04d14202fb5454dd40eb6f41e6fcf)
+- [ ] [<code>Resolve remaining transitive dependency alerts</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c41716203ebce39fa44effe8c03aabc61123b3a7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Remove unused dependencies</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a67b4180ce9e8ee0996374fab2afb931f14c387c)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
