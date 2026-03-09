@@ -344,6 +344,8 @@
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/39f7b5855a851ffd9b4b1ae4ce3f37ed42368d6e)
+- [ ] [<code>screenshot.c: Fix failure handling for xfce sessions, use correct</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/03f4df9773e8ee0c7e47bc4fee239f11f28d06d8)
+- [ ] [<code>wallpaper.c: Fix wrong return code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9701c70e88f9d220a1b4dd42ae182e6da3e587ff)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
