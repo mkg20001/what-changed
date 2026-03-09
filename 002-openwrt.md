@@ -212,3 +212,4 @@
 
 #### [ustream-ssl](https://git.openwrt.org/project/ustream-ssl.git): [5a81c108d20e24724ed847cc4be033f2a74e6635 → HEAD](https://git.openwrt.org/project/ustream-ssl.git/compare/5a81c108d20e24724ed847cc4be033f2a74e6635...HEAD)
 
+- [ ] [<code>ustream-openssl: Fix use-after-free crash under high load and optimize BIO_METHOD lifecycle</code>](https://git.openwrt.org/project/ustream-ssl.git/commit/99f1c0db5a729f615bc5114b3b52fd8ac8083f34)
