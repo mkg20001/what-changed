@@ -383,6 +383,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/4825135de2dca8d75ce6b47678b826be2d697d47)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1cfda2e338f83cb5f5489e17f5f58c5300413213)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/9438594fa2d46817dd2a914475901785be995154)
+- [ ] [<code>refactor: Make file events more fail safe for failed to send</code>](https://github.com/krille-chan/fluffychat/commit/fc7eb6954c592f5cfd9c8e1e6d23bdd8a373c360)
+- [ ] [<code>chore: Move website back to fluffychat.im</code>](https://github.com/krille-chan/fluffychat/commit/85c21e61c30ea5e97cdcbc1e39c219f366f8995b)
+- [ ] [<code>chore: Skip matrix notify for events from myself</code>](https://github.com/krille-chan/fluffychat/commit/47ac9c8f972d8dedb95f22c982b15e0846257e4e)
+- [ ] [<code>fix: Open deep links</code>](https://github.com/krille-chan/fluffychat/commit/1e763f05f5e69121b4f7b263e5eec0f184edae91)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up user viewer</code>](https://github.com/krille-chan/fluffychat/commit/a2857ef36a559abe2571b7440f66798f298a25c8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -689,6 +695,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/4825135de2dca8d75ce6b47678b826be2d697d47)
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1cfda2e338f83cb5f5489e17f5f58c5300413213)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/9438594fa2d46817dd2a914475901785be995154)
+- [ ] [<code>refactor: Make file events more fail safe for failed to send</code>](https://github.com/krille-chan/fluffychat/commit/fc7eb6954c592f5cfd9c8e1e6d23bdd8a373c360)
+- [ ] [<code>chore: Move website back to fluffychat.im</code>](https://github.com/krille-chan/fluffychat/commit/85c21e61c30ea5e97cdcbc1e39c219f366f8995b)
+- [ ] [<code>chore: Skip matrix notify for events from myself</code>](https://github.com/krille-chan/fluffychat/commit/47ac9c8f972d8dedb95f22c982b15e0846257e4e)
+- [ ] [<code>fix: Open deep links</code>](https://github.com/krille-chan/fluffychat/commit/1e763f05f5e69121b4f7b263e5eec0f184edae91)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore: Follow up user viewer</code>](https://github.com/krille-chan/fluffychat/commit/a2857ef36a559abe2571b7440f66798f298a25c8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6734,6 +6746,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump golang.org/x/sync from 0.19.0 to 0.20.0 in /src/go (#21917)</code>](https://github.com/netdata/netdata.git/commit/52982291d8049140a57504c87cfad2280533422d)
 - [ ] [<code>build(deps): bump docker/setup-qemu-action from 3 to 4 (#21919)</code>](https://github.com/netdata/netdata.git/commit/bd28ea1a97963991be8e6f760ab6bb85d87736ac)
 - [ ] [<code>fail on broken metadata.yaml (#21920)</code>](https://github.com/netdata/netdata.git/commit/c8ffe63845956db778d32d9222e05e12da901400)
+- [ ] [<code>go.d: add Azure AD auth for mssql, postgres, and sql collectors (#21905)</code>](https://github.com/netdata/netdata.git/commit/448588476ce6292c9def0fc391e1280fcf27d8e5)
+- [ ] [<code>Regenerate integrations docs (#21923)</code>](https://github.com/netdata/netdata.git/commit/551cc100e7f77fdc892e5fe36a0d00b9544332d2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8112,6 +8126,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed untranslated SaveAs method string</code>](https://github.com/tribler/Tribler/commit/33d0b43263d82160f62a3cb79187d7b5b6049ce5)
 - [ ] [<code>Use old lt types pending typed release</code>](https://github.com/tribler/Tribler/commit/3267052458b1965ccd2998a203055e36d555b21e)
 - [ ] [<code>Various Fixes (#8920)</code>](https://github.com/tribler/Tribler/commit/780bc53881415902cd9398b6ffa7fc970b9ef80b)
+- [ ] [<code>Add metadata dict to ProcessingResult</code>](https://github.com/tribler/Tribler/commit/93cf59c56ffe1caa1117e293464d637f3966f9fe)
+- [ ] [<code>Add metadata dict to ProcessingResult (#8922)</code>](https://github.com/tribler/Tribler/commit/137ae131de72f4361ad6cc64ec28ea6fadaef7e8)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
