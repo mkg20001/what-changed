@@ -379,6 +379,10 @@
 - [ ] [<code>chore: Follow up matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/aba8c3faf2cf4b1e06ee5552b700c1f7b20a2a42)
 - [ ] [<code>chore: Follow up remote logout handling</code>](https://github.com/krille-chan/fluffychat/commit/bad0a549cb851df7b716f5e682868caea729694b)
 - [ ] [<code>chore: Add reset button for config viewer</code>](https://github.com/krille-chan/fluffychat/commit/a3a2a37a143474370f1731a71510292046913b6e)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/8f8309aa63a432d85983287790bd1bb115b1f47a)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/4825135de2dca8d75ce6b47678b826be2d697d47)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1cfda2e338f83cb5f5489e17f5f58c5300413213)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/9438594fa2d46817dd2a914475901785be995154)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -681,6 +685,10 @@
 - [ ] [<code>chore: Follow up matrix native oidc</code>](https://github.com/krille-chan/fluffychat/commit/aba8c3faf2cf4b1e06ee5552b700c1f7b20a2a42)
 - [ ] [<code>chore: Follow up remote logout handling</code>](https://github.com/krille-chan/fluffychat/commit/bad0a549cb851df7b716f5e682868caea729694b)
 - [ ] [<code>chore: Add reset button for config viewer</code>](https://github.com/krille-chan/fluffychat/commit/a3a2a37a143474370f1731a71510292046913b6e)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/8f8309aa63a432d85983287790bd1bb115b1f47a)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/4825135de2dca8d75ce6b47678b826be2d697d47)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/1cfda2e338f83cb5f5489e17f5f58c5300413213)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/9438594fa2d46817dd2a914475901785be995154)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6719,6 +6727,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-123-nightly.</code>](https://github.com/netdata/netdata.git/commit/c97e6f6691a02cf5d1c4adb19886b6b3306433c5)
 - [ ] [<code>feat(go/plugin/metrix): add MeasureSet structured family support (#21909)</code>](https://github.com/netdata/netdata.git/commit/da76065869a5dc6b14d113e4cde9f5294ef87320)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-125-nightly.</code>](https://github.com/netdata/netdata.git/commit/8484017fa82decdfc7f758d36021dabf3b57a4bc)
+- [ ] [<code>build(deps): bump docker/build-push-action from 6 to 7 (#21914)</code>](https://github.com/netdata/netdata.git/commit/902b83d61f2fda6704187a2bf6276f81a2426762)
+- [ ] [<code>build(deps): bump docker/login-action from 3 to 4 (#21916)</code>](https://github.com/netdata/netdata.git/commit/4e2407853f1ba74c4153c5a4c4073dcb5e89660c)
+- [ ] [<code>build(deps): bump crazy-max/ghaction-import-gpg from 6 to 7 (#21913)</code>](https://github.com/netdata/netdata.git/commit/33750258e943ce6f5c562ab3e40e72c1aff77f43)
+- [ ] [<code>build(deps): bump docker/setup-buildx-action from 3 to 4 (#21915)</code>](https://github.com/netdata/netdata.git/commit/adb8beee3107687d21490300917e54f106b6f340)
+- [ ] [<code>build(deps): bump golang.org/x/sync from 0.19.0 to 0.20.0 in /src/go (#21917)</code>](https://github.com/netdata/netdata.git/commit/52982291d8049140a57504c87cfad2280533422d)
+- [ ] [<code>build(deps): bump docker/setup-qemu-action from 3 to 4 (#21919)</code>](https://github.com/netdata/netdata.git/commit/bd28ea1a97963991be8e6f760ab6bb85d87736ac)
+- [ ] [<code>fail on broken metadata.yaml (#21920)</code>](https://github.com/netdata/netdata.git/commit/c8ffe63845956db778d32d9222e05e12da901400)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
