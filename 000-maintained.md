@@ -395,6 +395,8 @@
 - [ ] [<code>chore: Remove converser from recommended homeservers as it doesn't have open registration</code>](https://github.com/krille-chan/fluffychat/commit/cd99f6a460632b68eb42c6e420ff04802547460e)
 - [ ] [<code>chore: Added deeplinks to test protocol</code>](https://github.com/krille-chan/fluffychat/commit/210ebdae6e19b0e40b68a823a50dda93e6919025)
 - [ ] [<code>chore: Implement pick SSO provider from dialog and add tchncs.de</code>](https://github.com/krille-chan/fluffychat/commit/a7c89418ebc8513a5889a828ca468660c479ef2e)
+- [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/14ce0a5927d57ca88d5bf923ca6d8d731022bb7e)
+- [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/5e368b9df09a33c6b6588df80b25d73b4874a5aa)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -713,6 +715,8 @@
 - [ ] [<code>chore: Remove converser from recommended homeservers as it doesn't have open registration</code>](https://github.com/krille-chan/fluffychat/commit/cd99f6a460632b68eb42c6e420ff04802547460e)
 - [ ] [<code>chore: Added deeplinks to test protocol</code>](https://github.com/krille-chan/fluffychat/commit/210ebdae6e19b0e40b68a823a50dda93e6919025)
 - [ ] [<code>chore: Implement pick SSO provider from dialog and add tchncs.de</code>](https://github.com/krille-chan/fluffychat/commit/a7c89418ebc8513a5889a828ca468660c479ef2e)
+- [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/14ce0a5927d57ca88d5bf923ca6d8d731022bb7e)
+- [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/5e368b9df09a33c6b6588df80b25d73b4874a5aa)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5804,6 +5808,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Unify installing packages in the CI (#3086)</code>](https://github.com/AOMediaCodec/libavif/commit/80feb2f8c4be73d61069fb0502bc6d3b44ecc003)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove CMAKE_DL_LIBS for Rav1e (#3087)</code>](https://github.com/AOMediaCodec/libavif/commit/c7ade389e30842921f748ebdc38aef626c366fc2)
+- [ ] [<code>Replace fseek,ftell with platform 64-bit file APIs</code>](https://github.com/AOMediaCodec/libavif/commit/ab8347b75b15fcfc71ef424e45fb6e0e1b530877)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6002,6 +6007,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add description for unprivileged containers to Japanese man page</code>](https://github.com/lxc/lxc/commit/29cd84d8e40d014bebf7a1424d0ccbe32341af40)
 - [ ] [<code>Add --rbuser to Japanese lxc-create(1)</code>](https://github.com/lxc/lxc/commit/a01f7b4aca9f12a926d3acfab5b146965a67e950)
 - [ ] [<code>build(deps): bump actions/upload-artifact from 6 to 7</code>](https://github.com/lxc/lxc/commit/e4d847bd02f9f6982aa83eacf93a88f0a213b83b)
+- [ ] [<code>utils: Add quotes around exec arguments</code>](https://github.com/lxc/lxc/commit/589981f4f1330d23585cc3b1fda66aa1c816e09e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>utils: Update buffer size to account for quotes</code>](https://github.com/lxc/lxc/commit/7174f2e2a474bddc37e8e98794422b4714f84738)
+- [ ] [<code>utils: Only single quote our own arguments</code>](https://github.com/lxc/lxc/commit/2bc6bac9cf2fa29dcce53a4fc810e12fdbfca809)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6766,6 +6776,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21923)</code>](https://github.com/netdata/netdata.git/commit/551cc100e7f77fdc892e5fe36a0d00b9544332d2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ecb6b7a277f0da350c07bc90f0b03f8e8c6c276)
 - [ ] [<code>Refactor stream connection definition parsing  (#21921)</code>](https://github.com/netdata/netdata.git/commit/0d419462989d67f523587662f995df57b48a1b0b)
+- [ ] [<code>Improve discoverability of Alerts Automation docs (#21932)</code>](https://github.com/netdata/netdata.git/commit/905c06847b8bfdfd40b76376e3b635d77fc0c442)
+- [ ] [<code>go.d/mssql: add Always On Availability Group monitoring (#21927)</code>](https://github.com/netdata/netdata.git/commit/2ef679ee9758e37936039ae8a51ff73a4fffe0a5)
+- [ ] [<code>Regenerate integrations docs (#21933)</code>](https://github.com/netdata/netdata.git/commit/9e44fb7b9b33acb1bf6efe81c66281005edd0d59)
+- [ ] [<code>go.d/snmp: add IPSec/VPN monitoring profiles for FortiGate, Juniper, MikroTik, Check Point (#21926)</code>](https://github.com/netdata/netdata.git/commit/567275e0d44b41e17bfc45a3ef77ef818215f642)
+- [ ] [<code>Add SOCKS5 and SOCKS5H proxy support to ACLK (#21831)</code>](https://github.com/netdata/netdata.git/commit/569734dda91421af3861f673ca0895f4f93354b3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
