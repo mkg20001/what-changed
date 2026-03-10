@@ -389,6 +389,12 @@
 - [ ] [<code>fix: Open deep links</code>](https://github.com/krille-chan/fluffychat/commit/1e763f05f5e69121b4f7b263e5eec0f184edae91)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up user viewer</code>](https://github.com/krille-chan/fluffychat/commit/a2857ef36a559abe2571b7440f66798f298a25c8)
+- [ ] [<code>refactor: Disable custom image resizer for macOS and windows</code>](https://github.com/krille-chan/fluffychat/commit/e8ee58d6d9c3287912b7853dbf7834eb8160358d)
+- [ ] [<code>chore: make sendTimelineEventTimeout configurable</code>](https://github.com/krille-chan/fluffychat/commit/c90fdc3e7536d2c42f107cc229bd42bd6a52de04)
+- [ ] [<code>chore: Adjust design</code>](https://github.com/krille-chan/fluffychat/commit/a490a40379c28e0613d140117cfb06b390809557)
+- [ ] [<code>chore: Remove converser from recommended homeservers as it doesn't have open registration</code>](https://github.com/krille-chan/fluffychat/commit/cd99f6a460632b68eb42c6e420ff04802547460e)
+- [ ] [<code>chore: Added deeplinks to test protocol</code>](https://github.com/krille-chan/fluffychat/commit/210ebdae6e19b0e40b68a823a50dda93e6919025)
+- [ ] [<code>chore: Implement pick SSO provider from dialog and add tchncs.de</code>](https://github.com/krille-chan/fluffychat/commit/a7c89418ebc8513a5889a828ca468660c479ef2e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -701,6 +707,12 @@
 - [ ] [<code>fix: Open deep links</code>](https://github.com/krille-chan/fluffychat/commit/1e763f05f5e69121b4f7b263e5eec0f184edae91)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up user viewer</code>](https://github.com/krille-chan/fluffychat/commit/a2857ef36a559abe2571b7440f66798f298a25c8)
+- [ ] [<code>refactor: Disable custom image resizer for macOS and windows</code>](https://github.com/krille-chan/fluffychat/commit/e8ee58d6d9c3287912b7853dbf7834eb8160358d)
+- [ ] [<code>chore: make sendTimelineEventTimeout configurable</code>](https://github.com/krille-chan/fluffychat/commit/c90fdc3e7536d2c42f107cc229bd42bd6a52de04)
+- [ ] [<code>chore: Adjust design</code>](https://github.com/krille-chan/fluffychat/commit/a490a40379c28e0613d140117cfb06b390809557)
+- [ ] [<code>chore: Remove converser from recommended homeservers as it doesn't have open registration</code>](https://github.com/krille-chan/fluffychat/commit/cd99f6a460632b68eb42c6e420ff04802547460e)
+- [ ] [<code>chore: Added deeplinks to test protocol</code>](https://github.com/krille-chan/fluffychat/commit/210ebdae6e19b0e40b68a823a50dda93e6919025)
+- [ ] [<code>chore: Implement pick SSO provider from dialog and add tchncs.de</code>](https://github.com/krille-chan/fluffychat/commit/a7c89418ebc8513a5889a828ca468660c479ef2e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6753,6 +6765,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>go.d: add Azure AD auth for mssql, postgres, and sql collectors (#21905)</code>](https://github.com/netdata/netdata.git/commit/448588476ce6292c9def0fc391e1280fcf27d8e5)
 - [ ] [<code>Regenerate integrations docs (#21923)</code>](https://github.com/netdata/netdata.git/commit/551cc100e7f77fdc892e5fe36a0d00b9544332d2)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ecb6b7a277f0da350c07bc90f0b03f8e8c6c276)
+- [ ] [<code>Refactor stream connection definition parsing  (#21921)</code>](https://github.com/netdata/netdata.git/commit/0d419462989d67f523587662f995df57b48a1b0b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
