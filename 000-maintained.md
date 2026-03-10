@@ -875,6 +875,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/operations: Fix missing Unlock</code>](https://github.com/lxc/incus/commit/10145de283c19f552f9cd719bcb427e7fefbfc21)
 - [ ] [<code>doc: Fix typo</code>](https://github.com/lxc/incus/commit/7f241fa4382a1f1037a27e5643dacbee18ea112d)
 - [ ] [<code>incusd: Fix typo</code>](https://github.com/lxc/incus/commit/8f4fc5c3e764950a1a9e14a7275c03deb73811b0)
+- [ ] [<code>incusd/metrics: Increase node-exporter timeout to 5s</code>](https://github.com/lxc/incus/commit/9888ec0412a44790162e88beea62fdc4669989fd)
+- [ ] [<code>doc: Add preselects to wordlist</code>](https://github.com/lxc/incus/commit/a440b0c6656983af1dd7ad6d2b77d48e73a9584c)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5521,6 +5523,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd/operations: Fix missing Unlock</code>](https://github.com/lxc/incus/commit/10145de283c19f552f9cd719bcb427e7fefbfc21)
 - [ ] [<code>doc: Fix typo</code>](https://github.com/lxc/incus/commit/7f241fa4382a1f1037a27e5643dacbee18ea112d)
 - [ ] [<code>incusd: Fix typo</code>](https://github.com/lxc/incus/commit/8f4fc5c3e764950a1a9e14a7275c03deb73811b0)
+- [ ] [<code>incusd/metrics: Increase node-exporter timeout to 5s</code>](https://github.com/lxc/incus/commit/9888ec0412a44790162e88beea62fdc4669989fd)
+- [ ] [<code>doc: Add preselects to wordlist</code>](https://github.com/lxc/incus/commit/a440b0c6656983af1dd7ad6d2b77d48e73a9584c)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6748,6 +6752,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fail on broken metadata.yaml (#21920)</code>](https://github.com/netdata/netdata.git/commit/c8ffe63845956db778d32d9222e05e12da901400)
 - [ ] [<code>go.d: add Azure AD auth for mssql, postgres, and sql collectors (#21905)</code>](https://github.com/netdata/netdata.git/commit/448588476ce6292c9def0fc391e1280fcf27d8e5)
 - [ ] [<code>Regenerate integrations docs (#21923)</code>](https://github.com/netdata/netdata.git/commit/551cc100e7f77fdc892e5fe36a0d00b9544332d2)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ecb6b7a277f0da350c07bc90f0b03f8e8c6c276)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
