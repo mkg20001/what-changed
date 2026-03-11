@@ -216,7 +216,9 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5a2513a9591fc58edb9fa1704892b71ea5fec90b)
+- [ ] [<code>common: Remove unused csd-keygrab.*</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c03e66e70081c3668c66933d8bd2acf951e7529a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -286,6 +288,12 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>compositor.c: hidden panel windows aren't top (#802)</code>](https://github.com/linuxmint/muffin/commit/ba50900dca5de25e27d0ea600c997f7ebc9a2ec6)
 - [ ] [<code>keybindings.c and prefs.h: Add separate key bindings for toggle window/workspace (#628)</code>](https://github.com/linuxmint/muffin/commit/2b8bed4ce740eb56f75827037803a922c40d1b4a)
+- [ ] [<code>[Wayland] Add support for pointer-warp-v1 protocol (#795)</code>](https://github.com/linuxmint/muffin/commit/ea90b59bc181d9438c8c6e9357a11642d5cc9910)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>[Wayland] Add support for single-pixel-buffer-v1 protocol (#804)</code>](https://github.com/linuxmint/muffin/commit/4075afe702e4efb363da66f520685971ee287175)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-window-actor-wayland.c: Fix a leak.</code>](https://github.com/linuxmint/muffin/commit/85d3b3b1ca40849156b53a9bab541b735036fe73)
+- [ ] [<code>meta-wayland-single-pixel-buffer.c: Use correct cogl ref function,</code>](https://github.com/linuxmint/muffin/commit/ca0c0ecbf36e3f5691cdc47c9e1541e649ab667b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -355,6 +363,7 @@
 - [ ] [<code>XAppIconChooserDialog: Subclass GtkDialog, not XAppGtkWindow. (#195)</code>](https://github.com/linuxmint/xapp/commit/ec727b7a4a8471058781cf32f21f551ea978c6e8)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xapp/commit/458de98bb801a0c690c0650b8c11841103eb628d)
+- [ ] [<code>xapp-gpu-offload-helper.c: Fix a memory leak.</code>](https://github.com/linuxmint/xapp/commit/6e4d54cad084aa95e1225067a4db2e1b7513daf5)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
