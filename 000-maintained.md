@@ -397,6 +397,17 @@
 - [ ] [<code>chore: Implement pick SSO provider from dialog and add tchncs.de</code>](https://github.com/krille-chan/fluffychat/commit/a7c89418ebc8513a5889a828ca468660c479ef2e)
 - [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/14ce0a5927d57ca88d5bf923ca6d8d731022bb7e)
 - [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/5e368b9df09a33c6b6588df80b25d73b4874a5aa)
+- [ ] [<code>chore(translations): Translated using Weblate (Tamil)</code>](https://github.com/krille-chan/fluffychat/commit/2d9710d2b4d887084d74e7d86d0c690490ce3e34)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/d1c96b1c45e889c3a615e0a45d8998fd7e785fac)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/657143b3b6066c389eeaa0e50b661847b4932c4a)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/04edda0b1ab25d8ddc1e9a49012d3e912e681fa5)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/26e72d789f39cdcf25cdfcdcf84a9757a49fbf3f)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5fd377a611ae61d89db8bc79ff79663e1adc726b)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/0eecc9597b5e046428d5bc0f9c680b0d8494c40d)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/b99b23c652aa1e16fb5cffb99ba0e6d57dafc8e4)
+- [ ] [<code>build: (deps): Bump translations_cleaner from 0.1.0 to 0.1.1</code>](https://github.com/krille-chan/fluffychat/commit/922156498f90cd6979848abfeb3b739f9e813823)
+- [ ] [<code>build: (deps): Bump flutter_local_notifications from 20.1.0 to 21.0.0</code>](https://github.com/krille-chan/fluffychat/commit/5cc8ab636cd983cc36bb80b90273f33e59b1ef85)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -717,6 +728,17 @@
 - [ ] [<code>chore: Implement pick SSO provider from dialog and add tchncs.de</code>](https://github.com/krille-chan/fluffychat/commit/a7c89418ebc8513a5889a828ca468660c479ef2e)
 - [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/14ce0a5927d57ca88d5bf923ca6d8d731022bb7e)
 - [ ] [<code>chore: Follow up sso on android</code>](https://github.com/krille-chan/fluffychat/commit/5e368b9df09a33c6b6588df80b25d73b4874a5aa)
+- [ ] [<code>chore(translations): Translated using Weblate (Tamil)</code>](https://github.com/krille-chan/fluffychat/commit/2d9710d2b4d887084d74e7d86d0c690490ce3e34)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/d1c96b1c45e889c3a615e0a45d8998fd7e785fac)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/657143b3b6066c389eeaa0e50b661847b4932c4a)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/04edda0b1ab25d8ddc1e9a49012d3e912e681fa5)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/26e72d789f39cdcf25cdfcdcf84a9757a49fbf3f)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5fd377a611ae61d89db8bc79ff79663e1adc726b)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/0eecc9597b5e046428d5bc0f9c680b0d8494c40d)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/b99b23c652aa1e16fb5cffb99ba0e6d57dafc8e4)
+- [ ] [<code>build: (deps): Bump translations_cleaner from 0.1.0 to 0.1.1</code>](https://github.com/krille-chan/fluffychat/commit/922156498f90cd6979848abfeb3b739f9e813823)
+- [ ] [<code>build: (deps): Bump flutter_local_notifications from 20.1.0 to 21.0.0</code>](https://github.com/krille-chan/fluffychat/commit/5cc8ab636cd983cc36bb80b90273f33e59b1ef85)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -5809,6 +5831,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Remove CMAKE_DL_LIBS for Rav1e (#3087)</code>](https://github.com/AOMediaCodec/libavif/commit/c7ade389e30842921f748ebdc38aef626c366fc2)
 - [ ] [<code>Replace fseek,ftell with platform 64-bit file APIs</code>](https://github.com/AOMediaCodec/libavif/commit/ab8347b75b15fcfc71ef424e45fb6e0e1b530877)
+- [ ] [<code>Remove experimental status for progressive, layered and scaling mode</code>](https://github.com/AOMediaCodec/libavif/commit/b2bb0cbc87577d454ef0366bab7268648ec7717b)
+- [ ] [<code>Set CMP0169 to NEW (#3089)</code>](https://github.com/AOMediaCodec/libavif/commit/1ff7d4bd14e2f59d39d587a5f540a28cedaf3ba6)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -8265,6 +8290,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211: don't report waitfor() match on event parse failure</code>](https://github.com/jow-/ucode/commit/e4a165976dbb840dce482e3a30c7763ec3bcad18)
 - [ ] [<code>nl80211: add missing survey info attributes</code>](https://github.com/jow-/ucode/commit/57367e880e9d4e5d11eb033f968cee80b5dcdd81)
 - [ ] [<code>nl80211: fix dfs_cac_time attribute type</code>](https://github.com/jow-/ucode/commit/a39b74fe329eb969d995ab47b310bbc94f84a75b)
+- [ ] [<code>compiler, lib, resolv: fix const string pointers</code>](https://github.com/jow-/ucode/commit/beafcff845fcdbb46308ee54422661e80300079d)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
