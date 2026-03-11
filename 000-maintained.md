@@ -6810,6 +6810,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>go.d/vsphere: add datastore, cluster, and resource pool monitoring (#21924)</code>](https://github.com/netdata/netdata.git/commit/d2d04ab8d22cde55e6a29ffe5a5062d6179b5e24)
 - [ ] [<code>Regenerate integrations docs (#21935)</code>](https://github.com/netdata/netdata.git/commit/5953aff36f39fcdf0eade2c5ec85e5ba62591fa9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-145-nightly.</code>](https://github.com/netdata/netdata.git/commit/5ac67e357f50d15c3774d3c1a2454799947af6e1)
+- [ ] [<code>Add Ubuntu 26.04 to CI and package builds. (#21939)</code>](https://github.com/netdata/netdata.git/commit/5bc45125696dbe9d6a2cb6c08fd2c77335053b42)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
