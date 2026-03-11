@@ -6781,6 +6781,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21933)</code>](https://github.com/netdata/netdata.git/commit/9e44fb7b9b33acb1bf6efe81c66281005edd0d59)
 - [ ] [<code>go.d/snmp: add IPSec/VPN monitoring profiles for FortiGate, Juniper, MikroTik, Check Point (#21926)</code>](https://github.com/netdata/netdata.git/commit/567275e0d44b41e17bfc45a3ef77ef818215f642)
 - [ ] [<code>Add SOCKS5 and SOCKS5H proxy support to ACLK (#21831)</code>](https://github.com/netdata/netdata.git/commit/569734dda91421af3861f673ca0895f4f93354b3)
+- [ ] [<code>go.d/snmp: add tunnel_index to Check Point VPN tunnel tables (#21934)</code>](https://github.com/netdata/netdata.git/commit/627c1fcf17e70142ab85e75c30cae81b90e05d4a)
+- [ ] [<code>go.d/vsphere: add datastore, cluster, and resource pool monitoring (#21924)</code>](https://github.com/netdata/netdata.git/commit/d2d04ab8d22cde55e6a29ffe5a5062d6179b5e24)
+- [ ] [<code>Regenerate integrations docs (#21935)</code>](https://github.com/netdata/netdata.git/commit/5953aff36f39fcdf0eade2c5ec85e5ba62591fa9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-145-nightly.</code>](https://github.com/netdata/netdata.git/commit/5ac67e357f50d15c3774d3c1a2454799947af6e1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
