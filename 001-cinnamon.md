@@ -160,6 +160,11 @@
 - [ ] [<code>calendar applet: Fix handling for invalid clock formats.</code>](https://github.com/linuxmint/cinnamon/commit/bd770e132184625356bfd5310adde4a117468604)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>main.js: Don't drop key-release events in the captured-event handler</code>](https://github.com/linuxmint/cinnamon/commit/7190db192dd5047b33ec0b4d817f4ec149194613)
+- [ ] [<code>util.js: Add spawnAsyncIO.</code>](https://github.com/linuxmint/cinnamon/commit/e7c5a368b2c4edcac7a6a973c0688ef84f25a5a6)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>Add per app notification settings (#13598)</code>](https://github.com/linuxmint/cinnamon/commit/5304a85f9c3800d5f46a3aefd1fca666a0b3f875)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboardManager: don't append locale layout if already present (#13616)</code>](https://github.com/linuxmint/cinnamon/commit/b0c6e1f61cb30ca599b8fa8974b49377a08df01c)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -247,6 +252,10 @@
 
 - [ ] [<code>Mint-Y: Add support for gtk3 print dialog</code>](https://github.com/linuxmint/mint-themes/commit/7a8a1ea62edb5425a6f622e248200cdb4f8cc13e)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/mint-themes/commit/be16ae17a9fa57e0780787975adbc620a5030fda)
+- [ ] [<code>Mint-Y-Dark: Lighten up base color</code>](https://github.com/linuxmint/mint-themes/commit/bcd96ad539f870427a1af3a42eb10a4e007408a6)
+- [ ] [<code>Mint-Y-Dark: Lighten up pressed buttons</code>](https://github.com/linuxmint/mint-themes/commit/8d200649c029a7fdd324cfe38d40230612d27783)
+- [ ] [<code>Mint-Y-Dark: Update gtk2 theme and assets</code>](https://github.com/linuxmint/mint-themes/commit/a0ae67824b99f240010749211e7b3d88dfb68e73)
+- [ ] [<code>Mint-Y-Dark: Lighten up active applet bg in panel</code>](https://github.com/linuxmint/mint-themes/commit/211c66c5ee534e37a7ed36189338810091da5169)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
