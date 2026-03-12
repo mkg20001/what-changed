@@ -402,6 +402,11 @@
 - [ ] [<code>build: Try out flutter contraints</code>](https://github.com/krille-chan/fluffychat/commit/38cda39672a1ea476475a96bab54ac7136fbf74f)
 - [ ] [<code>refactor: Remove animation dependency</code>](https://github.com/krille-chan/fluffychat/commit/a8aadc834fe695e5bd63d05c2d112e5bbb50c41f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Build website in release job</code>](https://github.com/krille-chan/fluffychat/commit/5c88133691a6f1f35a353dc7fceccba72105e16b)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/a8a0212d3d34880abc9a8e42075cfb1661c1a872)
+- [ ] [<code>chore: Adjust styles and animations</code>](https://github.com/krille-chan/fluffychat/commit/9724b852bb40b347a924a553cc37072b7a3cd81f)
+- [ ] [<code>chore: Add support button everywhere</code>](https://github.com/krille-chan/fluffychat/commit/6c05ed8aaa39a10dd5d7e95e07071ddc0130ed83)
+- [ ] [<code>chore: Login with localhost</code>](https://github.com/krille-chan/fluffychat/commit/9ede56427f348f09d07b4c3b352e7005e65e07ec)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -736,6 +741,11 @@
 - [ ] [<code>build: Try out flutter contraints</code>](https://github.com/krille-chan/fluffychat/commit/38cda39672a1ea476475a96bab54ac7136fbf74f)
 - [ ] [<code>refactor: Remove animation dependency</code>](https://github.com/krille-chan/fluffychat/commit/a8aadc834fe695e5bd63d05c2d112e5bbb50c41f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Build website in release job</code>](https://github.com/krille-chan/fluffychat/commit/5c88133691a6f1f35a353dc7fceccba72105e16b)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/a8a0212d3d34880abc9a8e42075cfb1661c1a872)
+- [ ] [<code>chore: Adjust styles and animations</code>](https://github.com/krille-chan/fluffychat/commit/9724b852bb40b347a924a553cc37072b7a3cd81f)
+- [ ] [<code>chore: Add support button everywhere</code>](https://github.com/krille-chan/fluffychat/commit/6c05ed8aaa39a10dd5d7e95e07071ddc0130ed83)
+- [ ] [<code>chore: Login with localhost</code>](https://github.com/krille-chan/fluffychat/commit/9ede56427f348f09d07b4c3b352e7005e65e07ec)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -919,6 +929,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network_allocations: Use canAccessNetwork</code>](https://github.com/lxc/incus/commit/d56540062b5ed7592f5c4277eb2f7688e20ed5b0)
 - [ ] [<code>incusd/instance/qemu: Relax SEV check</code>](https://github.com/lxc/incus/commit/15ca92d879c87967ea29d66a70b1117cb5e0a928)
+- [ ] [<code>incusd/device/nic_physical: Drop support for connected key</code>](https://github.com/lxc/incus/commit/d95c0f66abce2cb070942fedb46ea89416a7e8eb)
+- [ ] [<code>incusd/device/nic_ovn: Add io.bus key for OVN NICs</code>](https://github.com/lxc/incus/commit/814e1543a0fbeaf1ee408e05b5d157b813380a4c)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/dd14295208607872239fe02427d13bbae5445152)
+- [ ] [<code>api: network_io_bus_ovn</code>](https://github.com/lxc/incus/commit/c596be64581c1fd62d3e45d7a9ab1842f5bce90c)
+- [ ] [<code>shared/api: add new instance-agent events</code>](https://github.com/lxc/incus/commit/d7eacd827ebb78ad4e0126b99de913b68cf5d6be)
+- [ ] [<code>internal/server: fire instance-agent events when agent status changes</code>](https://github.com/lxc/incus/commit/8d100d3093d398870ca2af890f1376df75796a07)
+- [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5574,6 +5591,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network_allocations: Use canAccessNetwork</code>](https://github.com/lxc/incus/commit/d56540062b5ed7592f5c4277eb2f7688e20ed5b0)
 - [ ] [<code>incusd/instance/qemu: Relax SEV check</code>](https://github.com/lxc/incus/commit/15ca92d879c87967ea29d66a70b1117cb5e0a928)
+- [ ] [<code>incusd/device/nic_physical: Drop support for connected key</code>](https://github.com/lxc/incus/commit/d95c0f66abce2cb070942fedb46ea89416a7e8eb)
+- [ ] [<code>incusd/device/nic_ovn: Add io.bus key for OVN NICs</code>](https://github.com/lxc/incus/commit/814e1543a0fbeaf1ee408e05b5d157b813380a4c)
+- [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/dd14295208607872239fe02427d13bbae5445152)
+- [ ] [<code>api: network_io_bus_ovn</code>](https://github.com/lxc/incus/commit/c596be64581c1fd62d3e45d7a9ab1842f5bce90c)
+- [ ] [<code>shared/api: add new instance-agent events</code>](https://github.com/lxc/incus/commit/d7eacd827ebb78ad4e0126b99de913b68cf5d6be)
+- [ ] [<code>internal/server: fire instance-agent events when agent status changes</code>](https://github.com/lxc/incus/commit/8d100d3093d398870ca2af890f1376df75796a07)
+- [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6048,6 +6072,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>utils: Update buffer size to account for quotes</code>](https://github.com/lxc/lxc/commit/7174f2e2a474bddc37e8e98794422b4714f84738)
 - [ ] [<code>utils: Only single quote our own arguments</code>](https://github.com/lxc/lxc/commit/2bc6bac9cf2fa29dcce53a4fc810e12fdbfca809)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix issue where pidfd_ functions were not being detected during meson setup.</code>](https://github.com/lxc/lxc/commit/f5641d6979a0ae16ac741e6248f063c56654e94e)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6829,6 +6855,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-149-nightly.</code>](https://github.com/netdata/netdata.git/commit/02d4cbd0e87cf14e76013a523566872597830f01)
+- [ ] [<code>docs: Update kickstart URL to canonical get.netdata.cloud (#21938)</code>](https://github.com/netdata/netdata.git/commit/d9109347fe6a576f8d2898ec3fd2743f2a75b5f3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix handling of control files for DEB packages. (#21940)</code>](https://github.com/netdata/netdata.git/commit/1bec654e1cff9f84d3b7bcf9cb1eaa28d93e3ea3)
+- [ ] [<code>Remove `.inf` extension from file filter in build workflow (#21941)</code>](https://github.com/netdata/netdata.git/commit/264150a6c90d214dffbfaffbea95aac4dd71ec88)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-153-nightly.</code>](https://github.com/netdata/netdata.git/commit/110f62e90ae099316137817a59bcb9bd1097589c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
