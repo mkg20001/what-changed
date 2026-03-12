@@ -181,6 +181,8 @@
 - [ ] [<code>github: ci: add MIPS64, PowerPC64 and RISCV64</code>](https://git.openwrt.org/project/uci.git/commit/5bea13572325af4fb3057ff600cc7f7d5b82012b)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>formal: fix workflow permissions</code>](https://git.openwrt.org/project/uci.git/commit/66127cd76c5d0bd46d5a90302cc6110f53a4e2f8)
+- [ ] [<code>libuci: fix extra new lines added to errorstr</code>](https://git.openwrt.org/project/uci.git/commit/ccc171953852676a3a4e9086408db117563b1437)
+- [ ] [<code>cli: in batch mode, print empty line if get fails</code>](https://git.openwrt.org/project/uci.git/commit/74f6277aabffc943d026f406df57c22595134c42)
 
 #### [uclient](https://git.openwrt.org/project/uclient.git): [dc909ca71bc884c0e5362e1d7cc7808696cb2add → HEAD](https://git.openwrt.org/project/uclient.git/compare/dc909ca71bc884c0e5362e1d7cc7808696cb2add...HEAD)
 
