@@ -399,6 +399,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/b99b23c652aa1e16fb5cffb99ba0e6d57dafc8e4)
 - [ ] [<code>build: (deps): Bump translations_cleaner from 0.1.0 to 0.1.1</code>](https://github.com/krille-chan/fluffychat/commit/922156498f90cd6979848abfeb3b739f9e813823)
 - [ ] [<code>build: (deps): Bump flutter_local_notifications from 20.1.0 to 21.0.0</code>](https://github.com/krille-chan/fluffychat/commit/5cc8ab636cd983cc36bb80b90273f33e59b1ef85)
+- [ ] [<code>build: Try out flutter contraints</code>](https://github.com/krille-chan/fluffychat/commit/38cda39672a1ea476475a96bab54ac7136fbf74f)
+- [ ] [<code>refactor: Remove animation dependency</code>](https://github.com/krille-chan/fluffychat/commit/a8aadc834fe695e5bd63d05c2d112e5bbb50c41f)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -730,6 +733,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/b99b23c652aa1e16fb5cffb99ba0e6d57dafc8e4)
 - [ ] [<code>build: (deps): Bump translations_cleaner from 0.1.0 to 0.1.1</code>](https://github.com/krille-chan/fluffychat/commit/922156498f90cd6979848abfeb3b739f9e813823)
 - [ ] [<code>build: (deps): Bump flutter_local_notifications from 20.1.0 to 21.0.0</code>](https://github.com/krille-chan/fluffychat/commit/5cc8ab636cd983cc36bb80b90273f33e59b1ef85)
+- [ ] [<code>build: Try out flutter contraints</code>](https://github.com/krille-chan/fluffychat/commit/38cda39672a1ea476475a96bab54ac7136fbf74f)
+- [ ] [<code>refactor: Remove animation dependency</code>](https://github.com/krille-chan/fluffychat/commit/a8aadc834fe695e5bd63d05c2d112e5bbb50c41f)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6117,6 +6123,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>meson: don't forget to set PSI trigger mocks for liblxcfstest</code>](https://github.com/lxc/lxcfs/commit/06db22cf8ce18e310c3902cbcce64e8194c34f18)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>cgroups/cgfsng: check memory allocation in add_hierarchy</code>](https://github.com/lxc/lxcfs/commit/3aa14874a716ddc67cfcb575e57a0af39e493721)
+- [ ] [<code>Fix issue where the pidfd_ functions are not detected during meson setup.</code>](https://github.com/lxc/lxcfs/commit/ed65236d4b95258983d421b9d0f90336e0f9a663)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
