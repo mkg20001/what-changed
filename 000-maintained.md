@@ -28,17 +28,8 @@
 #### [distrobuilder](https://github.com/lxc/distrobuilder): [refs/tags/v3.3.1 → HEAD](https://github.com/lxc/distrobuilder/compare/refs/tags/v3.3.1...HEAD)
 
 
-#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.0 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.0...HEAD)
+#### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.1...HEAD)
 
-- [ ] [<code>Install v0.26.0 by default</code>](https://github.com/stepchowfun/docuum/commit/f05706b88fe2c13aa5307ef3bb42ffbf795d014b)
-- [ ] [<code>Update Rust to v1.92.0</code>](https://github.com/stepchowfun/docuum/commit/2d557689ba6c50aab998bcb8fec8c8c243b28f7e)
-- [ ] [<code>Skip images in use by containers during vacuum</code>](https://github.com/stepchowfun/docuum/commit/a453a69c275aea6538bd92f3a07c78e90b571c7a)
-- [ ] [<code>Allow clippy::too_many_lines for vacuum function</code>](https://github.com/stepchowfun/docuum/commit/e8ef53d42d02f340f33a7bd74a0dcef3ccefd4b6)
-- [ ] [<code>Update Rust to v1.94.0</code>](https://github.com/stepchowfun/docuum/commit/7475c837e0a6afacdf942ac3d042fa11db3accf5)
-- [ ] [<code>Update the copyright year</code>](https://github.com/stepchowfun/docuum/commit/11b92c5f05f34bd1413eb7d5b12872a631111741)
-- [ ] [<code>Release v0.26.1</code>](https://github.com/stepchowfun/docuum/commit/5ad30b91682d6b7348371f943646c578f2fdb04f)
-- [ ] [<code>Merge pull request #356 from stepchowfun/v0.26.1</code>](https://github.com/stepchowfun/docuum/commit/700731f4838684cac1fa35b54686c3359a801ee8)
-  - <sub>Tags: <code>v0.26.1</code></sub>
 - [ ] [<code>Install v0.26.1 by default</code>](https://github.com/stepchowfun/docuum/commit/3a518a51178e553b86203d0004f0eeb80ad63d7b)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
@@ -915,6 +906,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Fix typo</code>](https://github.com/lxc/incus/commit/8f4fc5c3e764950a1a9e14a7275c03deb73811b0)
 - [ ] [<code>incusd/metrics: Increase node-exporter timeout to 5s</code>](https://github.com/lxc/incus/commit/9888ec0412a44790162e88beea62fdc4669989fd)
 - [ ] [<code>doc: Add preselects to wordlist</code>](https://github.com/lxc/incus/commit/a440b0c6656983af1dd7ad6d2b77d48e73a9584c)
+- [ ] [<code>incusd/instance_logs: Prevent bad values for exec-output</code>](https://github.com/lxc/incus/commit/a9afe06dd277e0078ee21ebb9aa834cdf9ec196e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Restrict OVA unpack path</code>](https://github.com/lxc/incus/commit/96b27eece616d88e4e5fe0c02d605b328235a595)
+- [ ] [<code>incus/network_allocation: Fix project handling</code>](https://github.com/lxc/incus/commit/5b8cb2e8ed5be50fb348a0629c34ac48ca93dc47)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network_allocations: Use canAccessNetwork</code>](https://github.com/lxc/incus/commit/d56540062b5ed7592f5c4277eb2f7688e20ed5b0)
+- [ ] [<code>incusd/instance/qemu: Relax SEV check</code>](https://github.com/lxc/incus/commit/15ca92d879c87967ea29d66a70b1117cb5e0a928)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5563,6 +5561,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>incusd: Fix typo</code>](https://github.com/lxc/incus/commit/8f4fc5c3e764950a1a9e14a7275c03deb73811b0)
 - [ ] [<code>incusd/metrics: Increase node-exporter timeout to 5s</code>](https://github.com/lxc/incus/commit/9888ec0412a44790162e88beea62fdc4669989fd)
 - [ ] [<code>doc: Add preselects to wordlist</code>](https://github.com/lxc/incus/commit/a440b0c6656983af1dd7ad6d2b77d48e73a9584c)
+- [ ] [<code>incusd/instance_logs: Prevent bad values for exec-output</code>](https://github.com/lxc/incus/commit/a9afe06dd277e0078ee21ebb9aa834cdf9ec196e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>incus-migrate: Restrict OVA unpack path</code>](https://github.com/lxc/incus/commit/96b27eece616d88e4e5fe0c02d605b328235a595)
+- [ ] [<code>incus/network_allocation: Fix project handling</code>](https://github.com/lxc/incus/commit/5b8cb2e8ed5be50fb348a0629c34ac48ca93dc47)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/network_allocations: Use canAccessNetwork</code>](https://github.com/lxc/incus/commit/d56540062b5ed7592f5c4277eb2f7688e20ed5b0)
+- [ ] [<code>incusd/instance/qemu: Relax SEV check</code>](https://github.com/lxc/incus/commit/15ca92d879c87967ea29d66a70b1117cb5e0a928)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6811,6 +6816,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#21935)</code>](https://github.com/netdata/netdata.git/commit/5953aff36f39fcdf0eade2c5ec85e5ba62591fa9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-145-nightly.</code>](https://github.com/netdata/netdata.git/commit/5ac67e357f50d15c3774d3c1a2454799947af6e1)
 - [ ] [<code>Add Ubuntu 26.04 to CI and package builds. (#21939)</code>](https://github.com/netdata/netdata.git/commit/5bc45125696dbe9d6a2cb6c08fd2c77335053b42)
+- [ ] [<code>Improve logger (#21928)</code>](https://github.com/netdata/netdata.git/commit/7a85b2c8965818d686348ec151fe70c433ed5b5e)
+- [ ] [<code>Improve installer (Windows.plugin) (#21911)</code>](https://github.com/netdata/netdata.git/commit/6d6e52238d3ce5b18ba7b6da874e3c60fea806c5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-149-nightly.</code>](https://github.com/netdata/netdata.git/commit/02d4cbd0e87cf14e76013a523566872597830f01)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
