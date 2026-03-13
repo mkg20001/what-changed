@@ -47,6 +47,8 @@
 - [ ] [<code>usock: check SO_ERROR after poll in usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/0efa2cd3b74ca295362341f7b21f0449066141f5)
 - [ ] [<code>usock: fix timeout handling in usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/1a73ded9f738d403784aa448910cf5c9f9b05e18)
 - [ ] [<code>usock: implement RFC 8305 Happy Eyeballs for usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/1aa36ee774c8db4d7a396903e0d2e1fb79ee8bf1)
+- [ ] [<code>CMakeLists.txt: remove -Werror=format-nonliteral</code>](https://git.openwrt.org/project/libubox.git/commit/815633847cd32ffe6da28943cbeb37edc88265c8)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
