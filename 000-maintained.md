@@ -936,6 +936,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/api: add new instance-agent events</code>](https://github.com/lxc/incus/commit/d7eacd827ebb78ad4e0126b99de913b68cf5d6be)
 - [ ] [<code>internal/server: fire instance-agent events when agent status changes</code>](https://github.com/lxc/incus/commit/8d100d3093d398870ca2af890f1376df75796a07)
 - [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
+- [ ] [<code>incus/usage: Defer remote connection</code>](https://github.com/lxc/incus/commit/cc37ee292f796b4d93f865105a98d96ff18d4d3a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5598,6 +5600,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>shared/api: add new instance-agent events</code>](https://github.com/lxc/incus/commit/d7eacd827ebb78ad4e0126b99de913b68cf5d6be)
 - [ ] [<code>internal/server: fire instance-agent events when agent status changes</code>](https://github.com/lxc/incus/commit/8d100d3093d398870ca2af890f1376df75796a07)
 - [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
+- [ ] [<code>incus/usage: Defer remote connection</code>](https://github.com/lxc/incus/commit/cc37ee292f796b4d93f865105a98d96ff18d4d3a)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6860,6 +6864,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix handling of control files for DEB packages. (#21940)</code>](https://github.com/netdata/netdata.git/commit/1bec654e1cff9f84d3b7bcf9cb1eaa28d93e3ea3)
 - [ ] [<code>Remove `.inf` extension from file filter in build workflow (#21941)</code>](https://github.com/netdata/netdata.git/commit/264150a6c90d214dffbfaffbea95aac4dd71ec88)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-153-nightly.</code>](https://github.com/netdata/netdata.git/commit/110f62e90ae099316137817a59bcb9bd1097589c)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.51.0 to 0.52.0 in /src/go (#21945)</code>](https://github.com/netdata/netdata.git/commit/d6fc8b428535aa2ab1e8c922f62c4c6ffbd28da7)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/6ff0126334dfd86b73ff1055a66bff8374e3fe40)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
