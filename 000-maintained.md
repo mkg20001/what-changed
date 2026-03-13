@@ -407,6 +407,9 @@
 - [ ] [<code>chore: Adjust styles and animations</code>](https://github.com/krille-chan/fluffychat/commit/9724b852bb40b347a924a553cc37072b7a3cd81f)
 - [ ] [<code>chore: Add support button everywhere</code>](https://github.com/krille-chan/fluffychat/commit/6c05ed8aaa39a10dd5d7e95e07071ddc0130ed83)
 - [ ] [<code>chore: Login with localhost</code>](https://github.com/krille-chan/fluffychat/commit/9ede56427f348f09d07b4c3b352e7005e65e07ec)
+- [ ] [<code>chore: Adjust support button design</code>](https://github.com/krille-chan/fluffychat/commit/54ba19d39e8aa7b7d40156f740ee1ce071b1560b)
+- [ ] [<code>build: Update dart to 3.11.1</code>](https://github.com/krille-chan/fluffychat/commit/1f42aa3605f73077323cb8f713f993598b74fbcb)
+- [ ] [<code>chore: Add config search textfield</code>](https://github.com/krille-chan/fluffychat/commit/54a7b4ea69be776d6b822f536d76b1005a378c3e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -746,6 +749,9 @@
 - [ ] [<code>chore: Adjust styles and animations</code>](https://github.com/krille-chan/fluffychat/commit/9724b852bb40b347a924a553cc37072b7a3cd81f)
 - [ ] [<code>chore: Add support button everywhere</code>](https://github.com/krille-chan/fluffychat/commit/6c05ed8aaa39a10dd5d7e95e07071ddc0130ed83)
 - [ ] [<code>chore: Login with localhost</code>](https://github.com/krille-chan/fluffychat/commit/9ede56427f348f09d07b4c3b352e7005e65e07ec)
+- [ ] [<code>chore: Adjust support button design</code>](https://github.com/krille-chan/fluffychat/commit/54ba19d39e8aa7b7d40156f740ee1ce071b1560b)
+- [ ] [<code>build: Update dart to 3.11.1</code>](https://github.com/krille-chan/fluffychat/commit/1f42aa3605f73077323cb8f713f993598b74fbcb)
+- [ ] [<code>chore: Add config search textfield</code>](https://github.com/krille-chan/fluffychat/commit/54a7b4ea69be776d6b822f536d76b1005a378c3e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -929,6 +935,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network_allocations: Use canAccessNetwork</code>](https://github.com/lxc/incus/commit/d56540062b5ed7592f5c4277eb2f7688e20ed5b0)
 - [ ] [<code>incusd/instance/qemu: Relax SEV check</code>](https://github.com/lxc/incus/commit/15ca92d879c87967ea29d66a70b1117cb5e0a928)
+- [ ] [<code>incus: Fix import shadowing</code>](https://github.com/lxc/incus/commit/aef1d651b76a09e058d18d8f76cb62f42e0f3616)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage_volumes: Use switch statement</code>](https://github.com/lxc/incus/commit/11c181acc16912b0af496cea5633e0afc685ed5d)
+- [ ] [<code>incusd/network/common: Use FPrintf instead of WriteString</code>](https://github.com/lxc/incus/commit/b70a01c7f378b0967fde7e4c88c448781cea9eb4)
 - [ ] [<code>incusd/device/nic_physical: Drop support for connected key</code>](https://github.com/lxc/incus/commit/d95c0f66abce2cb070942fedb46ea89416a7e8eb)
 - [ ] [<code>incusd/device/nic_ovn: Add io.bus key for OVN NICs</code>](https://github.com/lxc/incus/commit/814e1543a0fbeaf1ee408e05b5d157b813380a4c)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/dd14295208607872239fe02427d13bbae5445152)
@@ -938,6 +948,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
 - [ ] [<code>incus/usage: Defer remote connection</code>](https://github.com/lxc/incus/commit/cc37ee292f796b4d93f865105a98d96ff18d4d3a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent/darwin: Factor BSD-like bits out</code>](https://github.com/lxc/incus/commit/a05a9e377dba0c12862e8eb3d34a933dda2c0da5)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-agent/freebsd: Add FreeBSD agent</code>](https://github.com/lxc/incus/commit/c7ebba574b41be13aefac4953b1ca3a9e9dd4ee0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/agent-loader: Add FreeBSD files</code>](https://github.com/lxc/incus/commit/ca63676a4c9ba17d6f66b0fb8c01ef007144e372)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Support FreeBSD</code>](https://github.com/lxc/incus/commit/fabc6632c5f9199111ffa949b70361160224df06)
+- [ ] [<code>doc/instance/create: Add details for FreeBSD</code>](https://github.com/lxc/incus/commit/8c660761885282d5328a591435f1f70acd7a58e4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/35c804f36dd48e636c81095636182425897ab040)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5593,6 +5613,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/network_allocations: Use canAccessNetwork</code>](https://github.com/lxc/incus/commit/d56540062b5ed7592f5c4277eb2f7688e20ed5b0)
 - [ ] [<code>incusd/instance/qemu: Relax SEV check</code>](https://github.com/lxc/incus/commit/15ca92d879c87967ea29d66a70b1117cb5e0a928)
+- [ ] [<code>incus: Fix import shadowing</code>](https://github.com/lxc/incus/commit/aef1d651b76a09e058d18d8f76cb62f42e0f3616)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage_volumes: Use switch statement</code>](https://github.com/lxc/incus/commit/11c181acc16912b0af496cea5633e0afc685ed5d)
+- [ ] [<code>incusd/network/common: Use FPrintf instead of WriteString</code>](https://github.com/lxc/incus/commit/b70a01c7f378b0967fde7e4c88c448781cea9eb4)
 - [ ] [<code>incusd/device/nic_physical: Drop support for connected key</code>](https://github.com/lxc/incus/commit/d95c0f66abce2cb070942fedb46ea89416a7e8eb)
 - [ ] [<code>incusd/device/nic_ovn: Add io.bus key for OVN NICs</code>](https://github.com/lxc/incus/commit/814e1543a0fbeaf1ee408e05b5d157b813380a4c)
 - [ ] [<code>doc: Update config</code>](https://github.com/lxc/incus/commit/dd14295208607872239fe02427d13bbae5445152)
@@ -5602,6 +5626,16 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
 - [ ] [<code>incus/usage: Defer remote connection</code>](https://github.com/lxc/incus/commit/cc37ee292f796b4d93f865105a98d96ff18d4d3a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incus-agent/darwin: Factor BSD-like bits out</code>](https://github.com/lxc/incus/commit/a05a9e377dba0c12862e8eb3d34a933dda2c0da5)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>incus-agent/freebsd: Add FreeBSD agent</code>](https://github.com/lxc/incus/commit/c7ebba574b41be13aefac4953b1ca3a9e9dd4ee0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>incusd/instance/agent-loader: Add FreeBSD files</code>](https://github.com/lxc/incus/commit/ca63676a4c9ba17d6f66b0fb8c01ef007144e372)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>incusd/instance/qemu: Support FreeBSD</code>](https://github.com/lxc/incus/commit/fabc6632c5f9199111ffa949b70361160224df06)
+- [ ] [<code>doc/instance/create: Add details for FreeBSD</code>](https://github.com/lxc/incus/commit/8c660761885282d5328a591435f1f70acd7a58e4)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/35c804f36dd48e636c81095636182425897ab040)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
