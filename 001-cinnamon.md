@@ -165,6 +165,8 @@
 - [ ] [<code>Add per app notification settings (#13598)</code>](https://github.com/linuxmint/cinnamon/commit/5304a85f9c3800d5f46a3aefd1fca666a0b3f875)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keyboardManager: don't append locale layout if already present (#13616)</code>](https://github.com/linuxmint/cinnamon/commit/b0c6e1f61cb30ca599b8fa8974b49377a08df01c)
+- [ ] [<code>screensaver: De-clutter main.js of screensaver setup and functions,</code>](https://github.com/linuxmint/cinnamon/commit/0993e5bbdc73d6c3ad0976e81d47feb61feee7c3)
+- [ ] [<code>screenShield/loginManager: call SetLockedHint when locking/unlocking.</code>](https://github.com/linuxmint/cinnamon/commit/e613880004474d73e0d3d67ff0cff3ed639c2fc1)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
