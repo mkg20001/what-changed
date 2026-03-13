@@ -410,6 +410,18 @@
 - [ ] [<code>chore: Adjust support button design</code>](https://github.com/krille-chan/fluffychat/commit/54ba19d39e8aa7b7d40156f740ee1ce071b1560b)
 - [ ] [<code>build: Update dart to 3.11.1</code>](https://github.com/krille-chan/fluffychat/commit/1f42aa3605f73077323cb8f713f993598b74fbcb)
 - [ ] [<code>chore: Add config search textfield</code>](https://github.com/krille-chan/fluffychat/commit/54a7b4ea69be776d6b822f536d76b1005a378c3e)
+- [ ] [<code>chore(translations): Translated using Weblate (English)</code>](https://github.com/krille-chan/fluffychat/commit/0294b8d29b631fbc19eee384510a030eb2c1a270)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/1157cf96b3545874ba81f081bfb733020657d33f)
+- [ ] [<code>chore(translations): Translated using Weblate (English)</code>](https://github.com/krille-chan/fluffychat/commit/46b1a4846d47b56dfd8d16f6011582073690cb6d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/77fbf33f9028b03c1611509f931610e0cae98359)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/25814f4a5244c8b116b32c45a18192b03fee63b2)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/f64cc1e996c3499399c16ba7520907a26225e00b)
+- [ ] [<code>chore: Make banner light red</code>](https://github.com/krille-chan/fluffychat/commit/3b204373e930a27a462e03c5982498416089e8e8)
+- [ ] [<code>chore: Introduce tool versions file</code>](https://github.com/krille-chan/fluffychat/commit/06827038d8a74a6bebdc1fa095e3f9a4d94d89fa)
+- [ ] [<code>build: Update matrix dart sdk to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/de96b27e292b0feb5aa2e1af05d05ae058c13681)
+- [ ] [<code>feat: Implement low priority for rooms</code>](https://github.com/krille-chan/fluffychat/commit/f961b2243576d8e3d2bf942ea51f240e8d6e52f5)
+- [ ] [<code>build: (deps): bump wakelock_plus from 1.4.0 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/c9e16cc4691cf3d2202179126b96a0c92a99c1e5)
+- [ ] [<code>chore: Follow up low priority</code>](https://github.com/krille-chan/fluffychat/commit/ac24b86a3a9470daa3f765f2355a7b085369fd1e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -752,6 +764,18 @@
 - [ ] [<code>chore: Adjust support button design</code>](https://github.com/krille-chan/fluffychat/commit/54ba19d39e8aa7b7d40156f740ee1ce071b1560b)
 - [ ] [<code>build: Update dart to 3.11.1</code>](https://github.com/krille-chan/fluffychat/commit/1f42aa3605f73077323cb8f713f993598b74fbcb)
 - [ ] [<code>chore: Add config search textfield</code>](https://github.com/krille-chan/fluffychat/commit/54a7b4ea69be776d6b822f536d76b1005a378c3e)
+- [ ] [<code>chore(translations): Translated using Weblate (English)</code>](https://github.com/krille-chan/fluffychat/commit/0294b8d29b631fbc19eee384510a030eb2c1a270)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/1157cf96b3545874ba81f081bfb733020657d33f)
+- [ ] [<code>chore(translations): Translated using Weblate (English)</code>](https://github.com/krille-chan/fluffychat/commit/46b1a4846d47b56dfd8d16f6011582073690cb6d)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/77fbf33f9028b03c1611509f931610e0cae98359)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/25814f4a5244c8b116b32c45a18192b03fee63b2)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/f64cc1e996c3499399c16ba7520907a26225e00b)
+- [ ] [<code>chore: Make banner light red</code>](https://github.com/krille-chan/fluffychat/commit/3b204373e930a27a462e03c5982498416089e8e8)
+- [ ] [<code>chore: Introduce tool versions file</code>](https://github.com/krille-chan/fluffychat/commit/06827038d8a74a6bebdc1fa095e3f9a4d94d89fa)
+- [ ] [<code>build: Update matrix dart sdk to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/de96b27e292b0feb5aa2e1af05d05ae058c13681)
+- [ ] [<code>feat: Implement low priority for rooms</code>](https://github.com/krille-chan/fluffychat/commit/f961b2243576d8e3d2bf942ea51f240e8d6e52f5)
+- [ ] [<code>build: (deps): bump wakelock_plus from 1.4.0 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/c9e16cc4691cf3d2202179126b96a0c92a99c1e5)
+- [ ] [<code>chore: Follow up low priority</code>](https://github.com/krille-chan/fluffychat/commit/ac24b86a3a9470daa3f765f2355a7b085369fd1e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -948,6 +972,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
 - [ ] [<code>incus/usage: Defer remote connection</code>](https://github.com/lxc/incus/commit/cc37ee292f796b4d93f865105a98d96ff18d4d3a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/backup: Make extra sure backup.yaml is consistent on disk</code>](https://github.com/lxc/incus/commit/466c8fe825499ec9847919152a1c5c026dc2dca1)
 - [ ] [<code>incus-agent/darwin: Factor BSD-like bits out</code>](https://github.com/lxc/incus/commit/a05a9e377dba0c12862e8eb3d34a933dda2c0da5)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus-agent/freebsd: Add FreeBSD agent</code>](https://github.com/lxc/incus/commit/c7ebba574b41be13aefac4953b1ca3a9e9dd4ee0)
@@ -958,6 +983,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/instance/create: Add details for FreeBSD</code>](https://github.com/lxc/incus/commit/8c660761885282d5328a591435f1f70acd7a58e4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/35c804f36dd48e636c81095636182425897ab040)
+- [ ] [<code>incusd/instance/lxc: Stop any forkfile instances prior to migration</code>](https://github.com/lxc/incus/commit/094b598814703508b279dbaec32cc6d636c47c52)
+- [ ] [<code>incusd/storage/zfs: Freeze ZFS instances when using block_mode</code>](https://github.com/lxc/incus/commit/16c62a0a51cbdfad00afbdeff5b52b7071440e1e)
+- [ ] [<code>incusd/storage/zfs: Don't create temporary snapshot for inactive volumes</code>](https://github.com/lxc/incus/commit/995853ef4a1d3d3141c32b3f10656cc559de0514)
+- [ ] [<code>incusd/storage/zfs: Don't unmap a mounted snapshot</code>](https://github.com/lxc/incus/commit/3b62e861167f640615fb773a1b4e0213fe5c1675)
+- [ ] [<code>incus/storage/volume: Fix image deletion</code>](https://github.com/lxc/incus/commit/1bf8e5192ea4d10f611f0e8dc339df4e273aea8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage: Don't allow loop pools on IncusOS</code>](https://github.com/lxc/incus/commit/b5ca1c523053ed2c2f93b08208908112b9ad9676)
+- [ ] [<code>cmd/incus: fix log in sftpRecursiveMkdir</code>](https://github.com/lxc/incus/commit/4a5dd51189bb63dfdb79206ba488929440e84e94)
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5626,6 +5659,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc: add instance-agent entries to lifecycle events</code>](https://github.com/lxc/incus/commit/35b9d4e6198c4772802915960655ff2cd43cb33f)
 - [ ] [<code>incus/usage: Defer remote connection</code>](https://github.com/lxc/incus/commit/cc37ee292f796b4d93f865105a98d96ff18d4d3a)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/backup: Make extra sure backup.yaml is consistent on disk</code>](https://github.com/lxc/incus/commit/466c8fe825499ec9847919152a1c5c026dc2dca1)
 - [ ] [<code>incus-agent/darwin: Factor BSD-like bits out</code>](https://github.com/lxc/incus/commit/a05a9e377dba0c12862e8eb3d34a933dda2c0da5)
   - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>incus-agent/freebsd: Add FreeBSD agent</code>](https://github.com/lxc/incus/commit/c7ebba574b41be13aefac4953b1ca3a9e9dd4ee0)
@@ -5636,6 +5670,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>doc/instance/create: Add details for FreeBSD</code>](https://github.com/lxc/incus/commit/8c660761885282d5328a591435f1f70acd7a58e4)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>doc/wordlist: Update wordlist</code>](https://github.com/lxc/incus/commit/35c804f36dd48e636c81095636182425897ab040)
+- [ ] [<code>incusd/instance/lxc: Stop any forkfile instances prior to migration</code>](https://github.com/lxc/incus/commit/094b598814703508b279dbaec32cc6d636c47c52)
+- [ ] [<code>incusd/storage/zfs: Freeze ZFS instances when using block_mode</code>](https://github.com/lxc/incus/commit/16c62a0a51cbdfad00afbdeff5b52b7071440e1e)
+- [ ] [<code>incusd/storage/zfs: Don't create temporary snapshot for inactive volumes</code>](https://github.com/lxc/incus/commit/995853ef4a1d3d3141c32b3f10656cc559de0514)
+- [ ] [<code>incusd/storage/zfs: Don't unmap a mounted snapshot</code>](https://github.com/lxc/incus/commit/3b62e861167f640615fb773a1b4e0213fe5c1675)
+- [ ] [<code>incus/storage/volume: Fix image deletion</code>](https://github.com/lxc/incus/commit/1bf8e5192ea4d10f611f0e8dc339df4e273aea8d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>incusd/storage: Don't allow loop pools on IncusOS</code>](https://github.com/lxc/incus/commit/b5ca1c523053ed2c2f93b08208908112b9ad9676)
+- [ ] [<code>cmd/incus: fix log in sftpRecursiveMkdir</code>](https://github.com/lxc/incus/commit/4a5dd51189bb63dfdb79206ba488929440e84e94)
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -5907,6 +5949,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove experimental status for progressive, layered and scaling mode</code>](https://github.com/AOMediaCodec/libavif/commit/b2bb0cbc87577d454ef0366bab7268648ec7717b)
 - [ ] [<code>Set CMP0169 to NEW (#3089)</code>](https://github.com/AOMediaCodec/libavif/commit/1ff7d4bd14e2f59d39d587a5f540a28cedaf3ba6)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Fix build with CMake 3.22 (#3096)</code>](https://github.com/AOMediaCodec/libavif/commit/dba6f1f53be007c6e8fe3c447a90c812191754d7)
+- [ ] [<code>Use the official pnggroup repos (#3099)</code>](https://github.com/AOMediaCodec/libavif/commit/476710c44e6d79df30799293c839c0254c90c48d)
+- [ ] [<code>Bump libxml2 to v2.15.2</code>](https://github.com/AOMediaCodec/libavif/commit/5565c32e0f15ccdda52f23c16b3df7bef4ea8086)
+- [ ] [<code>Bump libyuv to 30809ff64</code>](https://github.com/AOMediaCodec/libavif/commit/559c589b1f3d726c8051ce3e4c876b65b3d4c69a)
 
 #### [lxc](https://github.com/lxc/lxc): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxc/compare/refs/tags/v6.0.6...HEAD)
 
@@ -6900,6 +6946,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-153-nightly.</code>](https://github.com/netdata/netdata.git/commit/110f62e90ae099316137817a59bcb9bd1097589c)
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.51.0 to 0.52.0 in /src/go (#21945)</code>](https://github.com/netdata/netdata.git/commit/d6fc8b428535aa2ab1e8c922f62c4c6ffbd28da7)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/6ff0126334dfd86b73ff1055a66bff8374e3fe40)
+- [ ] [<code>Prevent race condition during pluginsd array operations (#21628)</code>](https://github.com/netdata/netdata.git/commit/ab477a2814b78164d84ab659ee105e4482c877b7)
+- [ ] [<code>Add Fedora 44 to CI and package builds. (#21943)</code>](https://github.com/netdata/netdata.git/commit/cd8d48902f1c82fb43b0048ebaa15a8491808062)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8280,6 +8328,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Various Fixes (#8920)</code>](https://github.com/tribler/Tribler/commit/780bc53881415902cd9398b6ffa7fc970b9ef80b)
 - [ ] [<code>Add metadata dict to ProcessingResult</code>](https://github.com/tribler/Tribler/commit/93cf59c56ffe1caa1117e293464d637f3966f9fe)
 - [ ] [<code>Add metadata dict to ProcessingResult (#8922)</code>](https://github.com/tribler/Tribler/commit/137ae131de72f4361ad6cc64ec28ea6fadaef7e8)
+- [ ] [<code>Add advanced bandwidth allocation feature</code>](https://github.com/tribler/Tribler/commit/c89d30e88cc42e0c2d4cc16244f830f110ab247e)
+- [ ] [<code>Added advanced bandwidth allocation feature (#8924)</code>](https://github.com/tribler/Tribler/commit/e33afad229b832ea881419e0274d6dae1329514a)
+- [ ] [<code>Prettier</code>](https://github.com/tribler/Tribler/commit/8c4eeb87bfa9ae77c272394ef7cf763726a39c0f)
+- [ ] [<code>Updated Actions dependency versions</code>](https://github.com/tribler/Tribler/commit/1565161e73a3ce85ff54114c9de4f6a5602a2812)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Regular maintenance 🧑‍🔧  (#8925)</code>](https://github.com/tribler/Tribler/commit/db9bb75f5a08e36fa2be48ab3dbdcc0679aa25da)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
