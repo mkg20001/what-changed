@@ -8180,6 +8180,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Align react-query with react-admin</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0a880b055d745693eeaaf5a55f1596ac511b991c)
 - [ ] [<code>Modernize admin shell routing</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1dfea8f7aece761728a55efdac75de74cfdcddb0)
 - [ ] [<code>Add explicit config bootstrap states</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0d26c17f799b9c4b573850eb24973dfb4c9c6292)
+- [ ] [<code>Re-add ts-pnp dependency</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/05988c502643931ee7138124e6088725123c91f6)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Bump docker/build-push-action from 6 to 7 (#794)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a3c3725f680a46c2b6a2210a42d9e16182faf18a)
+- [ ] [<code>Bump docker/setup-buildx-action from 3 to 4 (#795)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/79c1896741f238dcd9a24c017f16fd655c74aeca)
+- [ ] [<code>Bump docker/login-action from 3 to 4 (#797)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/d229ebed63f677ba0a51c1a4998ca5b16f192be3)
+- [ ] [<code>Bump docker/setup-qemu-action from 3 to 4 (#798)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/10e5a3636a593051306c4620aea56b8abcaababc)
+- [ ] [<code>Bump docker/metadata-action from 5 to 6 (#799)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/764d0ff90c46ab7e1d588032bb741f9f4ce73fbc)
+- [ ] [<code>Extract Synapse HTTP helpers</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/91dd504c9017d9031a2678ba07c7b21f3701b268)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Modernize auth provider contract</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e12a107bf2ba9d105e453018b8904a8bc06652a9)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
