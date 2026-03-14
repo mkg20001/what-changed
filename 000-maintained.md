@@ -991,6 +991,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage: Don't allow loop pools on IncusOS</code>](https://github.com/lxc/incus/commit/b5ca1c523053ed2c2f93b08208908112b9ad9676)
 - [ ] [<code>cmd/incus: fix log in sftpRecursiveMkdir</code>](https://github.com/lxc/incus/commit/4a5dd51189bb63dfdb79206ba488929440e84e94)
+- [ ] [<code>devcontainer: update Go version and pipx install command</code>](https://github.com/lxc/incus/commit/aff090c707d276dab3fea4ccfdeb23880579f480)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5678,6 +5680,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>incusd/storage: Don't allow loop pools on IncusOS</code>](https://github.com/lxc/incus/commit/b5ca1c523053ed2c2f93b08208908112b9ad9676)
 - [ ] [<code>cmd/incus: fix log in sftpRecursiveMkdir</code>](https://github.com/lxc/incus/commit/4a5dd51189bb63dfdb79206ba488929440e84e94)
+- [ ] [<code>devcontainer: update Go version and pipx install command</code>](https://github.com/lxc/incus/commit/aff090c707d276dab3fea4ccfdeb23880579f480)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6948,6 +6952,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/6ff0126334dfd86b73ff1055a66bff8374e3fe40)
 - [ ] [<code>Prevent race condition during pluginsd array operations (#21628)</code>](https://github.com/netdata/netdata.git/commit/ab477a2814b78164d84ab659ee105e4482c877b7)
 - [ ] [<code>Add Fedora 44 to CI and package builds. (#21943)</code>](https://github.com/netdata/netdata.git/commit/cd8d48902f1c82fb43b0048ebaa15a8491808062)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-158-nightly.</code>](https://github.com/netdata/netdata.git/commit/881589f18267dc2b0bf65cf7ec00480a536660c1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
