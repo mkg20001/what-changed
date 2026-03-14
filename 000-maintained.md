@@ -6162,6 +6162,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Fix issue where pidfd_ functions were not being detected during meson setup.</code>](https://github.com/lxc/lxc/commit/f5641d6979a0ae16ac741e6248f063c56654e94e)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix issue where memfd functions were not being detected during meson setup.</code>](https://github.com/lxc/lxc/commit/110974e9c2d7ab8a4265e1a1193b10d21056a49a)
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
