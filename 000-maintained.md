@@ -1,4 +1,8 @@
 
+#### [audio-mirroring](https://github.com/mkg20001/audio-mirroring): [refs/tags/v0.1.1 → HEAD](https://github.com/mkg20001/audio-mirroring/compare/refs/tags/v0.1.1...HEAD)
+
+- [ ] [<code>feat: prevent duplicate source/target selections</code>](https://github.com/mkg20001/audio-mirroring/commit/aa7d23fa8b6d3676790dca3b84644a002bc37d88)
+
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
 - [ ] [<code>cert-viewer: sync nix files with upstream</code>](https://github.com/mgit-at/cert-viewer/commit/ad9d51bb114a4d54f5d9df4bbdf65bf25777e8d2)
@@ -421,7 +425,19 @@
 - [ ] [<code>build: Update matrix dart sdk to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/de96b27e292b0feb5aa2e1af05d05ae058c13681)
 - [ ] [<code>feat: Implement low priority for rooms</code>](https://github.com/krille-chan/fluffychat/commit/f961b2243576d8e3d2bf942ea51f240e8d6e52f5)
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.4.0 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/c9e16cc4691cf3d2202179126b96a0c92a99c1e5)
+- [ ] [<code>chore: Add changelog for 2.5.0</code>](https://github.com/krille-chan/fluffychat/commit/17b53049955ac5fbc5c55fb2b6c704583a250011)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up low priority</code>](https://github.com/krille-chan/fluffychat/commit/ac24b86a3a9470daa3f765f2355a7b085369fd1e)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/f6a739b78ec57215113b855f03efc240b707d9a6)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/1bd1298443f5c6eef2a958c0d508542450916493)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/358c7f25d4ce58258a49ab895188f2146b87283a)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b333d78c8cdc45360ff8ef667955ef1516de44fe)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/df9325a5e44a4edc11a52b73f9f310d9e00c365e)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/b8a2d19d2fe5b410a2508948952fe1596128e5a0)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/f6c4e693022a5701c60125edd9acccaa73430722)
+- [ ] [<code>fix: invert condition for creating voipPlugin</code>](https://github.com/krille-chan/fluffychat/commit/f9bb2715b06ee7d54be4455c72940c8b131c388f)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/dda8e6cbc7177a297db49012fc92deeead6029c5)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/eab984541e5edd769ba5aa8cc4202e9f0f2faa62)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -775,7 +791,19 @@
 - [ ] [<code>build: Update matrix dart sdk to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/de96b27e292b0feb5aa2e1af05d05ae058c13681)
 - [ ] [<code>feat: Implement low priority for rooms</code>](https://github.com/krille-chan/fluffychat/commit/f961b2243576d8e3d2bf942ea51f240e8d6e52f5)
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.4.0 to 1.5.0</code>](https://github.com/krille-chan/fluffychat/commit/c9e16cc4691cf3d2202179126b96a0c92a99c1e5)
+- [ ] [<code>chore: Add changelog for 2.5.0</code>](https://github.com/krille-chan/fluffychat/commit/17b53049955ac5fbc5c55fb2b6c704583a250011)
+  - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>chore: Follow up low priority</code>](https://github.com/krille-chan/fluffychat/commit/ac24b86a3a9470daa3f765f2355a7b085369fd1e)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/f6a739b78ec57215113b855f03efc240b707d9a6)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/1bd1298443f5c6eef2a958c0d508542450916493)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/358c7f25d4ce58258a49ab895188f2146b87283a)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/b333d78c8cdc45360ff8ef667955ef1516de44fe)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/df9325a5e44a4edc11a52b73f9f310d9e00c365e)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/b8a2d19d2fe5b410a2508948952fe1596128e5a0)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/f6c4e693022a5701c60125edd9acccaa73430722)
+- [ ] [<code>fix: invert condition for creating voipPlugin</code>](https://github.com/krille-chan/fluffychat/commit/f9bb2715b06ee7d54be4455c72940c8b131c388f)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/dda8e6cbc7177a297db49012fc92deeead6029c5)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/eab984541e5edd769ba5aa8cc4202e9f0f2faa62)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -8200,6 +8228,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Modernize destinations resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7e9315c32aa6e3644494a1fabe58dcb5aba62077)
 - [ ] [<code>Modernize registration_token resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/75ae731bc1332ee3f0321b1f0e4eb3c5ab1bd88e)
 - [ ] [<code>Modernize user_media_statistics resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5c632f29175c9a812ee70af12cd321bfa14421d2)
+- [ ] [<code>Modernize reports resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/072eb0e5f531f4a683b96f7976918a5cf8446b6f)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
