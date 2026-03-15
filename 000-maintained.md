@@ -2,6 +2,8 @@
 #### [audio-mirroring](https://github.com/mkg20001/audio-mirroring): [refs/tags/v0.1.1 → HEAD](https://github.com/mkg20001/audio-mirroring/compare/refs/tags/v0.1.1...HEAD)
 
 - [ ] [<code>feat: prevent duplicate source/target selections</code>](https://github.com/mkg20001/audio-mirroring/commit/aa7d23fa8b6d3676790dca3b84644a002bc37d88)
+- [ ] [<code>chore: upgrade flake</code>](https://github.com/mkg20001/audio-mirroring/commit/f26c9c0296d28ca4055f650e0303ff87b4c1f7b2)
+- [ ] [<code>fix: refresh dropdown header when disabled state changes</code>](https://github.com/mkg20001/audio-mirroring/commit/b34db146daba6cedb86c218343a2176974cf59bf)
 
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
@@ -438,6 +440,8 @@
 - [ ] [<code>fix: invert condition for creating voipPlugin</code>](https://github.com/krille-chan/fluffychat/commit/f9bb2715b06ee7d54be4455c72940c8b131c388f)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/dda8e6cbc7177a297db49012fc92deeead6029c5)
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/eab984541e5edd769ba5aa8cc4202e9f0f2faa62)
+- [ ] [<code>Merge pull request #2705 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/6223ea85b51c5119b2093767d8d24edcf81a26ef)
+  - <sub>Tags: <code>rc2.5.0-1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -804,6 +808,8 @@
 - [ ] [<code>fix: invert condition for creating voipPlugin</code>](https://github.com/krille-chan/fluffychat/commit/f9bb2715b06ee7d54be4455c72940c8b131c388f)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/dda8e6cbc7177a297db49012fc92deeead6029c5)
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/eab984541e5edd769ba5aa8cc4202e9f0f2faa62)
+- [ ] [<code>Merge pull request #2705 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/6223ea85b51c5119b2093767d8d24edcf81a26ef)
+  - <sub>Tags: <code>rc2.5.0-1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6192,6 +6198,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Fix issue where memfd functions were not being detected during meson setup.</code>](https://github.com/lxc/lxc/commit/110974e9c2d7ab8a4265e1a1193b10d21056a49a)
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>tests: mount_injection: ensure cleanup on test failure</code>](https://github.com/lxc/lxc/commit/cf5e950eef1ea6e18e51d9d40b1e771ddb21d38a)
+- [ ] [<code>cgroups: Skip systemd dbus logic when not using systemd</code>](https://github.com/lxc/lxc/commit/88b44a5f908eaee1b4753a01a6d7400722db47f1)
 
 #### [lxcfs](https://github.com/lxc/lxcfs): [refs/tags/v6.0.6 → HEAD](https://github.com/lxc/lxcfs/compare/refs/tags/v6.0.6...HEAD)
 
@@ -8229,6 +8237,21 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Modernize registration_token resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/75ae731bc1332ee3f0321b1f0e4eb3c5ab1bd88e)
 - [ ] [<code>Modernize user_media_statistics resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5c632f29175c9a812ee70af12cd321bfa14421d2)
 - [ ] [<code>Modernize reports resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/072eb0e5f531f4a683b96f7976918a5cf8446b6f)
+- [ ] [<code>Add healthcheck to docker-compose.yml</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a790d2b29126d3158bf4e521e28590169223e7c0)
+- [ ] [<code>Bump node to 24 in github workflows</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/3c878f28315f9b0b6e8bacf578fc07c6dfeaebba)
+- [ ] [<code>Bump tar to 7.5.11</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e510a5665b48ab3ebdf93c24b13fb05bea28eece)
+- [ ] [<code>Add Synapse end-to-end test workflow</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e6228d5bd1d5bdbd38e4b1b246232cc4aed52d4f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Bump @typescript-eslint/eslint-plugin from 8.56.1 to 8.57.0 (#802)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0035877701570a7fcbff53298b4ca58ccc8fa1e5)
+- [ ] [<code>Bump @typescript-eslint/parser from 8.56.1 to 8.57.0 (#801)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/6ef013ee54d26d187f9f12974fd607df705b5e03)
+- [ ] [<code>Bump @types/node from 25.3.3 to 25.4.0 (#800)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/210866869c5aa7ba9f71479ec7387030bb33a080)
+- [ ] [<code>Bump react-admin to 5.14.4</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/409586c6e4c0463963f819037b95d1c55c791bae)
+- [ ] [<code>Add agent skill for mui</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/57fd9532c6da376dff697c7b48c7c23a4a900f58)
+- [ ] [<code>Expand auth route and SSO tests</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/41d1b032415f8c955c0d7af498d3a3c1c589ac0e)
+- [ ] [<code>Fix React element typing in import feature</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8a78ec94a05ad564cea8b7ee3ffc124c2c7530b2)
+- [ ] [<code>Add coverage tooling and config</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/43f4a74b65c7ac8399829edf169e4553dd41c25b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Publish coverage badge via GitHub Pages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ad14fda9aa71a403fa1db88c50a4af618e15e091)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
@@ -8483,6 +8506,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211.h: update to version 6.18</code>](https://github.com/jow-/ucode/commit/ccc25285471b94eb329ae44d6a9155d08106a5b6)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>nl80211: add WiFi 7 EHT and MLD attributes</code>](https://github.com/jow-/ucode/commit/bb145163147a07bec236eef272b0e218de086cb4)
+- [ ] [<code>fs: add statvfs flags and fs error codes</code>](https://github.com/jow-/ucode/commit/de986520017a63b4424b755f8c6b49a450f02be2)
 - [ ] [<code>nl80211: add scan, BSS status and BSS use-for constants</code>](https://github.com/jow-/ucode/commit/65d268546453c2457de35a726c86297e7c6ef591)
 - [ ] [<code>nl80211: fix listener.request() dropping multicast events</code>](https://github.com/jow-/ucode/commit/e6bf0a9dca7964b67f7ce14d07518127682d27eb)
 - [ ] [<code>nl80211: fix waitfor() busy-spinning on non-blocking event socket</code>](https://github.com/jow-/ucode/commit/520d9f4c878120374e1a2d050535bf2a304fa1bd)
