@@ -8191,6 +8191,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Modernize auth provider contract</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e12a107bf2ba9d105e453018b8904a8bc06652a9)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Refactor Synapse data provider</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c5bdf1c4db10721e1ea8083d57bc99e1a15c9ac0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Harden datetime input parsing</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f0997737099c62bce4d1323fed393052e9b18fbe)
+- [ ] [<code>Modernize user resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5e09c52dfb2ae90f4cad954a3a7aee7c9c2e7ef3)
+- [ ] [<code>Modernize room resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/742cffb5abbb7990aec4a9e02f8e379a06fff9aa)
+- [ ] [<code>Modernize reports resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f197cc2acc9c189c8c8a61f4e71a80861940dfeb)
+- [ ] [<code>Modernize destinations resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7e9315c32aa6e3644494a1fabe58dcb5aba62077)
+- [ ] [<code>Modernize registration_token resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/75ae731bc1332ee3f0321b1f0e4eb3c5ab1bd88e)
+- [ ] [<code>Modernize user_media_statistics resources</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/5c632f29175c9a812ee70af12cd321bfa14421d2)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
