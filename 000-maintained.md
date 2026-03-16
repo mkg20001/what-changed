@@ -446,6 +446,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/0134e9c3674de6d9780d3e52cfa8be1ce78e818b)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/14ef8a1d0e9bb839c0225c143999e01b34cc0090)
 - [ ] [<code>chore: Fix releas web job</code>](https://github.com/krille-chan/fluffychat/commit/9e2953350215d6cda45bea11d5c4ab24ef46544a)
+- [ ] [<code>refactor: Remove unused dependencies and add CI check</code>](https://github.com/krille-chan/fluffychat/commit/7128ba98b2f0acf084e54e197aedac7a0ee3cc90)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -818,6 +820,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/0134e9c3674de6d9780d3e52cfa8be1ce78e818b)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/14ef8a1d0e9bb839c0225c143999e01b34cc0090)
 - [ ] [<code>chore: Fix releas web job</code>](https://github.com/krille-chan/fluffychat/commit/9e2953350215d6cda45bea11d5c4ab24ef46544a)
+- [ ] [<code>refactor: Remove unused dependencies and add CI check</code>](https://github.com/krille-chan/fluffychat/commit/7128ba98b2f0acf084e54e197aedac7a0ee3cc90)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1035,6 +1039,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus: fix log in sftpRecursiveMkdir</code>](https://github.com/lxc/incus/commit/4a5dd51189bb63dfdb79206ba488929440e84e94)
 - [ ] [<code>devcontainer: update Go version and pipx install command</code>](https://github.com/lxc/incus/commit/aff090c707d276dab3fea4ccfdeb23880579f480)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incus/cluster: Fix default column layout in help text</code>](https://github.com/lxc/incus/commit/4d4cb5485b525fdc22c8f27812dc14ba5169ed40)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/096c7fbe062fe7a183fd2bc26504d781e528dca3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-lts](https://github.com/lxc/incus): [f8da60633e493bb5c0521981fa031bc909988c95 → HEAD](https://github.com/lxc/incus/compare/f8da60633e493bb5c0521981fa031bc909988c95...HEAD)
 
@@ -5724,6 +5732,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>cmd/incus: fix log in sftpRecursiveMkdir</code>](https://github.com/lxc/incus/commit/4a5dd51189bb63dfdb79206ba488929440e84e94)
 - [ ] [<code>devcontainer: update Go version and pipx install command</code>](https://github.com/lxc/incus/commit/aff090c707d276dab3fea4ccfdeb23880579f480)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>incus/cluster: Fix default column layout in help text</code>](https://github.com/lxc/incus/commit/4d4cb5485b525fdc22c8f27812dc14ba5169ed40)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>i18n: Update translation templates</code>](https://github.com/lxc/incus/commit/096c7fbe062fe7a183fd2bc26504d781e528dca3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [incus-ui-canonical](https://github.com/zabbly/incus-ui-canonical): [refs/tags/incus-0.19.9 → HEAD](https://github.com/zabbly/incus-ui-canonical/compare/refs/tags/incus-0.19.9...HEAD)
 
@@ -6999,6 +7011,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Prevent race condition during pluginsd array operations (#21628)</code>](https://github.com/netdata/netdata.git/commit/ab477a2814b78164d84ab659ee105e4482c877b7)
 - [ ] [<code>Add Fedora 44 to CI and package builds. (#21943)</code>](https://github.com/netdata/netdata.git/commit/cd8d48902f1c82fb43b0048ebaa15a8491808062)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-158-nightly.</code>](https://github.com/netdata/netdata.git/commit/881589f18267dc2b0bf65cf7ec00480a536660c1)
+- [ ] [<code>Fix health api call (#21952)</code>](https://github.com/netdata/netdata.git/commit/7bbee1f747df8d07dd6027285f87517d9a84119c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -8438,6 +8451,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Updated Actions dependency versions</code>](https://github.com/tribler/Tribler/commit/1565161e73a3ce85ff54114c9de4f6a5602a2812)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Regular maintenance 🧑‍🔧  (#8925)</code>](https://github.com/tribler/Tribler/commit/db9bb75f5a08e36fa2be48ab3dbdcc0679aa25da)
+  - <sub>Tags: <code>v8.4.1</code></sub>
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -8540,6 +8554,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>nl80211: add missing survey info attributes</code>](https://github.com/jow-/ucode/commit/57367e880e9d4e5d11eb033f968cee80b5dcdd81)
 - [ ] [<code>nl80211: fix dfs_cac_time attribute type</code>](https://github.com/jow-/ucode/commit/a39b74fe329eb969d995ab47b310bbc94f84a75b)
 - [ ] [<code>compiler, lib, resolv: fix const string pointers</code>](https://github.com/jow-/ucode/commit/beafcff845fcdbb46308ee54422661e80300079d)
+- [ ] [<code>lib: fix system() inheriting blocked SIGCHLD mask in child process</code>](https://github.com/jow-/ucode/commit/4170c8dcc56844d07ed89ab2799cbcba1c0ff312)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fs: document glob</code>](https://github.com/jow-/ucode/commit/d2c74298e22da9abba3e61ce558381e2b53f9526)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
