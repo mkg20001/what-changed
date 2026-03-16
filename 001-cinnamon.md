@@ -167,6 +167,9 @@
 - [ ] [<code>keyboardManager: don't append locale layout if already present (#13616)</code>](https://github.com/linuxmint/cinnamon/commit/b0c6e1f61cb30ca599b8fa8974b49377a08df01c)
 - [ ] [<code>screensaver: De-clutter main.js of screensaver setup and functions,</code>](https://github.com/linuxmint/cinnamon/commit/0993e5bbdc73d6c3ad0976e81d47feb61feee7c3)
 - [ ] [<code>screenShield/loginManager: call SetLockedHint when locking/unlocking.</code>](https://github.com/linuxmint/cinnamon/commit/e613880004474d73e0d3d67ff0cff3ed639c2fc1)
+- [ ] [<code>st-entry.c: Remove unused blink code.</code>](https://github.com/linuxmint/cinnamon/commit/c264274dbe03ea3affc4f7dfad1102dbbaaa38a8)
+- [ ] [<code>st-entry: Add progress/busy bar.</code>](https://github.com/linuxmint/cinnamon/commit/69a17a8d3c32ca51c1a5dc31823d001ea8ac5ee9)
+- [ ] [<code>authentication: Enable StEntry busy indicators in the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/bdffa3de70c70150f8e85f44671e058cdf7b9fc1)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -224,6 +227,8 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/5a2513a9591fc58edb9fa1704892b71ea5fec90b)
 - [ ] [<code>common: Remove unused csd-keygrab.*</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c03e66e70081c3668c66933d8bd2acf951e7529a)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>power: drop Phone Manager (#430)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69711a0fdf7bd4e107305c7f389b3d5ef431d87d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
