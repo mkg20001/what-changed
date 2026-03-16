@@ -442,6 +442,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/eab984541e5edd769ba5aa8cc4202e9f0f2faa62)
 - [ ] [<code>Merge pull request #2705 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/6223ea85b51c5119b2093767d8d24edcf81a26ef)
   - <sub>Tags: <code>rc2.5.0-1</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/682090c6d751be70dbe394b93d96d66a64aa43f8)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/0134e9c3674de6d9780d3e52cfa8be1ce78e818b)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/14ef8a1d0e9bb839c0225c143999e01b34cc0090)
+- [ ] [<code>chore: Fix releas web job</code>](https://github.com/krille-chan/fluffychat/commit/9e2953350215d6cda45bea11d5c4ab24ef46544a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -810,6 +814,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/eab984541e5edd769ba5aa8cc4202e9f0f2faa62)
 - [ ] [<code>Merge pull request #2705 from weblate/weblate-fluffychat-translations</code>](https://github.com/krille-chan/fluffychat/commit/6223ea85b51c5119b2093767d8d24edcf81a26ef)
   - <sub>Tags: <code>rc2.5.0-1</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/682090c6d751be70dbe394b93d96d66a64aa43f8)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/0134e9c3674de6d9780d3e52cfa8be1ce78e818b)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/14ef8a1d0e9bb839c0225c143999e01b34cc0090)
+- [ ] [<code>chore: Fix releas web job</code>](https://github.com/krille-chan/fluffychat/commit/9e2953350215d6cda45bea11d5c4ab24ef46544a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
