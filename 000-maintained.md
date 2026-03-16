@@ -8252,6 +8252,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add coverage tooling and config</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/43f4a74b65c7ac8399829edf169e4553dd41c25b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Publish coverage badge via GitHub Pages</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ad14fda9aa71a403fa1db88c50a4af618e15e091)
+- [ ] [<code>Stabilize app rendering tests</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/282b923e4ef07e6fb64080fefc1c0fd8e7e269cc)
+- [ ] [<code>Increase data provider coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/f8a94722b1c6755c4d3d1d78962a83293bb69eb8)
+- [ ] [<code>Increase date helper coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/8062f171fc4f61caaaf6accad6b85e62e5f1c680)
+- [ ] [<code>Increase bootstrap coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/a90483a1e4126bb742c073a7931c12ca24ecffb6)
+- [ ] [<code>Increase devices component coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/df87b50a70faa4a4a29ba835b021c7785c8a4d30)
+- [ ] [<code>Increase server notices component coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e51424994fa399b9580c5d90be09323eebad7107)
+- [ ] [<code>Increase media component coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/58bf3585e407c1679d41bc2bd1c76c772c74c42c)
+- [ ] [<code>Increase registration token coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/13c13695fac2d73d8dc168ee9253381d515c29a3)
+- [ ] [<code>Increase destinations coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cac134fd6de2c84de819aff19b4458aa61628cf8)
+- [ ] [<code>Increase room directory coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/95b330480f5487111e37168cb449533cafcb4e5f)
+- [ ] [<code>Increase rooms coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/782e71bc59c1b1ad9841e8ed4b8cf3f582ad6665)
+- [ ] [<code>Increase users coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/e62ef4bd2dd42a23de19ed767d5d45b9a93235a0)
+- [ ] [<code>Increase user_media_statistics coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/7ccb0493728f2e2a648e64dfd0991a2c82470a79)
+- [ ] [<code>Increase index coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/b4ea1d9e3fc62e3a7a37839927dd5b988ad9b734)
+- [ ] [<code>Increase reports coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4545420e1d6d61bcd6f5611f30956fb5a9e62b15)
+- [ ] [<code>Increase login page coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c8c369362f6defce6c61bd43293c850097c7b2a3)
+- [ ] [<code>Increase import feature coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0ec9ce3b6d03c5e31bb91b5a28eace069a65ec8f)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
