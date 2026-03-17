@@ -435,6 +435,9 @@
 - [ ] [<code>chore: Fix releas web job</code>](https://github.com/krille-chan/fluffychat/commit/9e2953350215d6cda45bea11d5c4ab24ef46544a)
 - [ ] [<code>refactor: Remove unused dependencies and add CI check</code>](https://github.com/krille-chan/fluffychat/commit/7128ba98b2f0acf084e54e197aedac7a0ee3cc90)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Add changelog</code>](https://github.com/krille-chan/fluffychat/commit/9fde066a5b98dc884e9682d1403a76f70490252c)
+- [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
+- [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -809,6 +812,9 @@
 - [ ] [<code>chore: Fix releas web job</code>](https://github.com/krille-chan/fluffychat/commit/9e2953350215d6cda45bea11d5c4ab24ef46544a)
 - [ ] [<code>refactor: Remove unused dependencies and add CI check</code>](https://github.com/krille-chan/fluffychat/commit/7128ba98b2f0acf084e54e197aedac7a0ee3cc90)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Add changelog</code>](https://github.com/krille-chan/fluffychat/commit/9fde066a5b98dc884e9682d1403a76f70490252c)
+- [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
+- [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1096,6 +1102,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use the official pnggroup repos (#3099)</code>](https://github.com/AOMediaCodec/libavif/commit/476710c44e6d79df30799293c839c0254c90c48d)
 - [ ] [<code>Bump libxml2 to v2.15.2</code>](https://github.com/AOMediaCodec/libavif/commit/5565c32e0f15ccdda52f23c16b3df7bef4ea8086)
 - [ ] [<code>Bump libyuv to 30809ff64</code>](https://github.com/AOMediaCodec/libavif/commit/559c589b1f3d726c8051ce3e4c876b65b3d4c69a)
+- [ ] [<code>Cherrypick libaom nasm fix (#3104)</code>](https://github.com/AOMediaCodec/libavif/commit/83ee102c3a07f77e4e805655b8b63bcd62dad96b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
