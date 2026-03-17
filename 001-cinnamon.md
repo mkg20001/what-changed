@@ -170,6 +170,7 @@
 - [ ] [<code>st-entry.c: Remove unused blink code.</code>](https://github.com/linuxmint/cinnamon/commit/c264274dbe03ea3affc4f7dfad1102dbbaaa38a8)
 - [ ] [<code>st-entry: Add progress/busy bar.</code>](https://github.com/linuxmint/cinnamon/commit/69a17a8d3c32ca51c1a5dc31823d001ea8ac5ee9)
 - [ ] [<code>authentication: Enable StEntry busy indicators in the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/bdffa3de70c70150f8e85f44671e058cdf7b9fc1)
+- [ ] [<code>screensaver: Track the screensaver proxy in external mode.</code>](https://github.com/linuxmint/cinnamon/commit/2288d1cb1bb7cb9e976a24cb24a3e904643f88a7)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
