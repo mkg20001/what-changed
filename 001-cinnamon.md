@@ -189,6 +189,7 @@
 - [ ] [<code>libcvc: refresh from upstream libgnome-volume-control.</code>](https://github.com/linuxmint/cinnamon-desktop/commit/2d4f3560ae4abf15ecefafc2d8c8178a92a54dea)
 - [ ] [<code>libcvc: Re-add stream monitor, balance, fade, lfe to channel map,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/249f587db0ea95200baafcbf178c67bc99a44a45)
 - [ ] [<code>org.cinnamon.desktop.keybindings.wm schema: Separate key binding for switching workspace up/down from toggling window/workspace selection (#214)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/110609f9c1bfeacfa5cf7ab3e8568d4dee5ca86f)
+- [ ] [<code>Add per app notifications schemas... (#266)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7bd3aea30bb8bcdaeed09830d848ec1589d86ddf)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
