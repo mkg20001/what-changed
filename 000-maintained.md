@@ -438,6 +438,7 @@
 - [ ] [<code>build: Add changelog</code>](https://github.com/krille-chan/fluffychat/commit/9fde066a5b98dc884e9682d1403a76f70490252c)
 - [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
 - [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5c45e797f22e982e751375d7a4025b0be369b27b)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -815,6 +816,7 @@
 - [ ] [<code>build: Add changelog</code>](https://github.com/krille-chan/fluffychat/commit/9fde066a5b98dc884e9682d1403a76f70490252c)
 - [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
 - [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5c45e797f22e982e751375d7a4025b0be369b27b)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1104,6 +1106,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump libyuv to 30809ff64</code>](https://github.com/AOMediaCodec/libavif/commit/559c589b1f3d726c8051ce3e4c876b65b3d4c69a)
 - [ ] [<code>Cherrypick libaom nasm fix (#3104)</code>](https://github.com/AOMediaCodec/libavif/commit/83ee102c3a07f77e4e805655b8b63bcd62dad96b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove Verify longPathAware from ci-windows (#3105)</code>](https://github.com/AOMediaCodec/libavif/commit/a1153dbccbdf005ce5b6632cdb2cf8be3c28d5ce)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1822,6 +1825,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(go.d/snmp): add multi-device SNMPv3 config example with YAML anchors (#21955)</code>](https://github.com/netdata/netdata.git/commit/b06ddfede8c65e373bab0e0cc0e62a4e9945e13e)
 - [ ] [<code>Regenerate integrations docs (#21956)</code>](https://github.com/netdata/netdata.git/commit/2ea79a5ebbbbebe2b4fca1f7cd5109e2dc521c70)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-162-nightly.</code>](https://github.com/netdata/netdata.git/commit/41d778cacfcaa4a4a59ba2a6dc1943188735a63e)
+- [ ] [<code>Run periodical refresh of timezone (#21944)</code>](https://github.com/netdata/netdata.git/commit/16b6916bfa3a8686bab1ee1225d5bce324f787b9)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Fix permissions for systemd-journal.plugin on offline installs (#21953)</code>](https://github.com/netdata/netdata.git/commit/aa77c3a51c92e6f70c952780516c075cb7cb7ff3)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Ensure thread safety and proper cleanup in `GetHardwareInfo` (#21958)</code>](https://github.com/netdata/netdata.git/commit/e4aeeadaae112b0064548a48637ffe61daea822c)
+- [ ] [<code>Fix windows config editor (#21957)</code>](https://github.com/netdata/netdata.git/commit/dfbf1a527b73a2f1789ed79b5a05f9b3afc98822)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -3204,6 +3214,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Regular maintenance 🧑‍🔧  (#8925)</code>](https://github.com/tribler/Tribler/commit/db9bb75f5a08e36fa2be48ab3dbdcc0679aa25da)
   - <sub>Tags: <code>v8.4.1</code></sub>
+- [ ] [<code>Only upload Docker assets if a .deb was added</code>](https://github.com/tribler/Tribler/commit/1d2547646a6c4cd01ae80d8ed30cb38876cc4fa9)
+- [ ] [<code>Scale Progress element with font size</code>](https://github.com/tribler/Tribler/commit/a313c1a5e0c3cdb7322a16fbd5ba545e92643b21)
+- [ ] [<code>Added last down and ratio columns</code>](https://github.com/tribler/Tribler/commit/650121fd130866f493abafe30b9be85ba8cf36fe)
+- [ ] [<code>Fixed dropdown menu going off-screen</code>](https://github.com/tribler/Tribler/commit/8b1ae7b794850d8aaca916197a460e61b96f7cd4)
+- [ ] [<code>Fixed upload mode not being passed to metainfo lookups</code>](https://github.com/tribler/Tribler/commit/1b1711b82d1aa990f05666f3de3342d81dc99564)
+- [ ] [<code>Stamp build number into releases</code>](https://github.com/tribler/Tribler/commit/46be3fb094eb36a70e499dee4f1f0d0eccd6d107)
+- [ ] [<code>Various fixes (#8931)</code>](https://github.com/tribler/Tribler/commit/7d423fd9c0454a4ace5799ada5fc37740a49c9c9)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
