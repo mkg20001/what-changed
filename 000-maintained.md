@@ -1832,6 +1832,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Ensure thread safety and proper cleanup in `GetHardwareInfo` (#21958)</code>](https://github.com/netdata/netdata.git/commit/e4aeeadaae112b0064548a48637ffe61daea822c)
 - [ ] [<code>Fix windows config editor (#21957)</code>](https://github.com/netdata/netdata.git/commit/dfbf1a527b73a2f1789ed79b5a05f9b3afc98822)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/20f7861eff9a0af18ea9551b72a5eaf1c1b91546)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
