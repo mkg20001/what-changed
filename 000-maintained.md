@@ -439,6 +439,9 @@
 - [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
 - [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5c45e797f22e982e751375d7a4025b0be369b27b)
+- [ ] [<code>chore: Follow up animate in</code>](https://github.com/krille-chan/fluffychat/commit/8643d35a1e9e820596a735696126232c59810c30)
+- [ ] [<code>Merge pull request #2730 from krille-chan/krille/follow-up-animate-in</code>](https://github.com/krille-chan/fluffychat/commit/c15be052465f36dc2bbd0b57ed12e36e7f1f863c)
+  - <sub>Tags: <code>rc2.5.0-2</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -817,6 +820,9 @@
 - [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
 - [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5c45e797f22e982e751375d7a4025b0be369b27b)
+- [ ] [<code>chore: Follow up animate in</code>](https://github.com/krille-chan/fluffychat/commit/8643d35a1e9e820596a735696126232c59810c30)
+- [ ] [<code>Merge pull request #2730 from krille-chan/krille/follow-up-animate-in</code>](https://github.com/krille-chan/fluffychat/commit/c15be052465f36dc2bbd0b57ed12e36e7f1f863c)
+  - <sub>Tags: <code>rc2.5.0-2</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1833,6 +1839,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Ensure thread safety and proper cleanup in `GetHardwareInfo` (#21958)</code>](https://github.com/netdata/netdata.git/commit/e4aeeadaae112b0064548a48637ffe61daea822c)
 - [ ] [<code>Fix windows config editor (#21957)</code>](https://github.com/netdata/netdata.git/commit/dfbf1a527b73a2f1789ed79b5a05f9b3afc98822)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/20f7861eff9a0af18ea9551b72a5eaf1c1b91546)
+- [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.12 to 3.4.13 in /src/go (#21963)</code>](https://github.com/netdata/netdata.git/commit/7938053e329636bdcfc35f73426873e574b5668e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -3222,6 +3229,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed upload mode not being passed to metainfo lookups</code>](https://github.com/tribler/Tribler/commit/1b1711b82d1aa990f05666f3de3342d81dc99564)
 - [ ] [<code>Stamp build number into releases</code>](https://github.com/tribler/Tribler/commit/46be3fb094eb36a70e499dee4f1f0d0eccd6d107)
 - [ ] [<code>Various fixes (#8931)</code>](https://github.com/tribler/Tribler/commit/7d423fd9c0454a4ace5799ada5fc37740a49c9c9)
+- [ ] [<code>Fixed Info.plist not shipping for Mac builds</code>](https://github.com/tribler/Tribler/commit/4f03f8ab79533e42b41bac3b0cf67a3da5dcdf52)
+- [ ] [<code>Fixed Info.plist not shipping for Mac builds (#8934)</code>](https://github.com/tribler/Tribler/commit/c66b6ed6f6b1a99ae81f6f12f34d5055936382d5)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
