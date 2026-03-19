@@ -1,9 +1,7 @@
 
-#### [audio-mirroring](https://github.com/mkg20001/audio-mirroring): [refs/tags/v0.1.1 → HEAD](https://github.com/mkg20001/audio-mirroring/compare/refs/tags/v0.1.1...HEAD)
+#### [audio-mirroring](https://github.com/mkg20001/audio-mirroring): [refs/tags/v0.1.3 → HEAD](https://github.com/mkg20001/audio-mirroring/compare/refs/tags/v0.1.3...HEAD)
 
-- [ ] [<code>feat: prevent duplicate source/target selections</code>](https://github.com/mkg20001/audio-mirroring/commit/aa7d23fa8b6d3676790dca3b84644a002bc37d88)
-- [ ] [<code>chore: upgrade flake</code>](https://github.com/mkg20001/audio-mirroring/commit/f26c9c0296d28ca4055f650e0303ff87b4c1f7b2)
-- [ ] [<code>fix: refresh dropdown header when disabled state changes</code>](https://github.com/mkg20001/audio-mirroring/commit/b34db146daba6cedb86c218343a2176974cf59bf)
+- [ ] [<code>misc: fix cargo.toml title</code>](https://github.com/mkg20001/audio-mirroring/commit/a59c118dead56be1b672e821210049da89fffaab)
 
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
@@ -1346,6 +1344,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#21970)</code>](https://github.com/netdata/netdata.git/commit/007cb62605f0580b8f764ca703c8f38b1d3855d8)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-177-nightly.</code>](https://github.com/netdata/netdata.git/commit/71c8f2a8f2638ae0aa00a8a2c6ea5131bb6b7095)
+- [ ] [<code>Fix netdatacli ping command (#21965)</code>](https://github.com/netdata/netdata.git/commit/bb84d228173e55075cb0292480b74a4146419546)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2739,6 +2740,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed Info.plist not shipping for Mac builds (#8934)</code>](https://github.com/tribler/Tribler/commit/c66b6ed6f6b1a99ae81f6f12f34d5055936382d5)
 - [ ] [<code>Skip AARCH64 Docker build platform check</code>](https://github.com/tribler/Tribler/commit/e477a89b67f8f9665e055d43ed5397d6037d2e6a)
 - [ ] [<code>Ignore FromPlatformFlagConstDisallowed for aarch64 build (#8935)</code>](https://github.com/tribler/Tribler/commit/65573f4520964fe176da82b886443f06c78b1223)
+- [ ] [<code>Allow empty state directory in win installer</code>](https://github.com/tribler/Tribler/commit/21e5b0e43483fd4cace075de1460ab4ab591a94f)
+- [ ] [<code>Allow empty state directory in win installer (#8938)</code>](https://github.com/tribler/Tribler/commit/77bd38fe4008bcf727fa4d0bcc784525bf7f4791)
+- [ ] [<code>Fixed the TSTATEDIR not being modified for the IPv8 config</code>](https://github.com/tribler/Tribler/commit/9d708a0a5b48b7984023d3c225916e623dfacaf6)
+- [ ] [<code>Fixed the TSTATEDIR not being modified for the IPv8 config (#8939)</code>](https://github.com/tribler/Tribler/commit/2ca174fd1968162f8bb69ee5f730d58d34486091)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
