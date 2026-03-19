@@ -1335,6 +1335,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.12 to 3.4.13 in /src/go (#21963)</code>](https://github.com/netdata/netdata.git/commit/7938053e329636bdcfc35f73426873e574b5668e)
 - [ ] [<code>Correctly prefetch IBM MQ libraries in DEB package build CI jobs. (#21959)</code>](https://github.com/netdata/netdata.git/commit/69423cc42b2f6e714a61577adf6487bbaa9c09e2)
 - [ ] [<code>Fix compilation warnings (libbnetdata) (#21961)</code>](https://github.com/netdata/netdata.git/commit/ecd5a88b7ebe9a6a316a058cec69fc4d250484ce)
+- [ ] [<code>feat(go.d): implement secretstore-based secrets management (#21951)</code>](https://github.com/netdata/netdata.git/commit/87946808680b0248c6c19314e2924e7fa30c0136)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Log missing user configuration directory at info level (#21969)</code>](https://github.com/netdata/netdata.git/commit/f8668ed16088f330802d590eb741dfe420a14598)
+- [ ] [<code>Adjust eBPF (user ring) (#21676)</code>](https://github.com/netdata/netdata.git/commit/1cd58c15445aab4727063d3b6f034f687a5db171)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>go.d/powerstore: add Dell PowerStore storage array collector (V2 framework) (#21929)</code>](https://github.com/netdata/netdata.git/commit/fa04535fea7a646342ed338f98404fc7e64da8e2)
+- [ ] [<code>go.d/powervault: add Dell PowerVault ME4/ME5 storage array collector (#21936)</code>](https://github.com/netdata/netdata.git/commit/94f65cead6d9df92845145ada7e58afb803bf6ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21970)</code>](https://github.com/netdata/netdata.git/commit/007cb62605f0580b8f764ca703c8f38b1d3855d8)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
