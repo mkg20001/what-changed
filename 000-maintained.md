@@ -2,6 +2,7 @@
 #### [audio-mirroring](https://github.com/mkg20001/audio-mirroring): [refs/tags/v0.1.3 → HEAD](https://github.com/mkg20001/audio-mirroring/compare/refs/tags/v0.1.3...HEAD)
 
 - [ ] [<code>misc: fix cargo.toml title</code>](https://github.com/mkg20001/audio-mirroring/commit/a59c118dead56be1b672e821210049da89fffaab)
+- [ ] [<code>misc: cleanup old code</code>](https://github.com/mkg20001/audio-mirroring/commit/c58e557475a8bab491483689c64fe268651d3cfb)
 
 #### [cert-viewer](https://github.com/mgit-at/cert-viewer): [refs/tags/v0.9.1 → HEAD](https://github.com/mgit-at/cert-viewer/compare/refs/tags/v0.9.1...HEAD)
 
@@ -1112,6 +1113,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove Verify longPathAware from ci-windows (#3105)</code>](https://github.com/AOMediaCodec/libavif/commit/a1153dbccbdf005ce5b6632cdb2cf8be3c28d5ce)
 - [ ] [<code>Use GIT_* for CMake FetchContent_Declare() (#3107)</code>](https://github.com/AOMediaCodec/libavif/commit/e8fc46ecbb8e614144f24b4aab535fbc85c37522)
+- [ ] [<code>Use packaged nasm on Unix (#3106)</code>](https://github.com/AOMediaCodec/libavif/commit/ee140cf43e468ff7446617a8de557e83cdfb891f)
+- [ ] [<code>Support long path names in Windows (#3101)</code>](https://github.com/AOMediaCodec/libavif/commit/cba025a7ff6757f791c08926717f195ff87418ed)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1347,6 +1350,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-177-nightly.</code>](https://github.com/netdata/netdata.git/commit/71c8f2a8f2638ae0aa00a8a2c6ea5131bb6b7095)
 - [ ] [<code>Fix netdatacli ping command (#21965)</code>](https://github.com/netdata/netdata.git/commit/bb84d228173e55075cb0292480b74a4146419546)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Add basic testing of Windows installs in CI. (#21869)</code>](https://github.com/netdata/netdata.git/commit/d42e83ef6af1accaeaa7c87eea182ea7767477fa)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Fix Coverity issues (Timezone) (#21971)</code>](https://github.com/netdata/netdata.git/commit/9d076a1f85816cddb5dd137112c4f6b18e006b94)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
