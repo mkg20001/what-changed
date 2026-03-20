@@ -1115,6 +1115,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use GIT_* for CMake FetchContent_Declare() (#3107)</code>](https://github.com/AOMediaCodec/libavif/commit/e8fc46ecbb8e614144f24b4aab535fbc85c37522)
 - [ ] [<code>Use packaged nasm on Unix (#3106)</code>](https://github.com/AOMediaCodec/libavif/commit/ee140cf43e468ff7446617a8de557e83cdfb891f)
 - [ ] [<code>Support long path names in Windows (#3101)</code>](https://github.com/AOMediaCodec/libavif/commit/cba025a7ff6757f791c08926717f195ff87418ed)
+- [ ] [<code>Skip ImageMagick test in MinGW</code>](https://github.com/AOMediaCodec/libavif/commit/b3be0b951f11deed2603b339b799037a65bba818)
+- [ ] [<code>Update to libaom v3.13.2 (#3108)</code>](https://github.com/AOMediaCodec/libavif/commit/70fabb41f223d3c2a3f2b06eee33e9a84c675479)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1353,6 +1356,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add basic testing of Windows installs in CI. (#21869)</code>](https://github.com/netdata/netdata.git/commit/d42e83ef6af1accaeaa7c87eea182ea7767477fa)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>Fix Coverity issues (Timezone) (#21971)</code>](https://github.com/netdata/netdata.git/commit/9d076a1f85816cddb5dd137112c4f6b18e006b94)
+- [ ] [<code>fix(go/framweork): restore v2 host-scoped chart emission across host switches (#21979)</code>](https://github.com/netdata/netdata.git/commit/8329088caf5e01da2667b74951a9567f03afe89d)
+- [ ] [<code>Fix uninitialized vnode stale timeout field in pluginsd parser (#21983)</code>](https://github.com/netdata/netdata.git/commit/baf8ccbbb0b416155ea9e371b8acc89585e96d09)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-183-nightly.</code>](https://github.com/netdata/netdata.git/commit/3b149ac01fa890ca03a0077d5c129b62d79bcc4b)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2573,6 +2580,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Increase reports coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/4545420e1d6d61bcd6f5611f30956fb5a9e62b15)
 - [ ] [<code>Increase login page coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/c8c369362f6defce6c61bd43293c850097c7b2a3)
 - [ ] [<code>Increase import feature coverage</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/0ec9ce3b6d03c5e31bb91b5a28eace069a65ec8f)
+- [ ] [<code>Bump actions/upload-artifact from 4 to 7 (#805)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/08776a494fd9b7d1908f86577342a951b104da3e)
+- [ ] [<code>Bump actions/cache from 4 to 5 (#808)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/df2684add4fba93635558dccef2b0d2cbb861537)
+- [ ] [<code>Bump flatted in the npm_and_yarn group across 1 directory (#813)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/fd15c2bfdf6c75ad06e0233bf1f83e5da8f06e7f)
+- [ ] [<code>Bump softprops/action-gh-release from 2.5.0 to 2.6.1 (#806)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/287838c0b3e10ded860dc7c31b8e08187c36c37d)
+- [ ] [<code>Add missing chinese translations (#803)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/64a7bbf9f1e156976e10d85406574f0afc945154)
+- [ ] [<code>Add typecheck quality gate (#814)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/af306d2d053fc17dc04c3490e37e61202f031bf7)
+- [ ] [<code>Bump vite from 7.3.1 to 8.0.0 (#811)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dcb95494c9126f2a2d3c7e8933efa5fb04b4b5e6)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
