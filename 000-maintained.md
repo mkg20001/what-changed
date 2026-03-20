@@ -1122,6 +1122,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Skip ImageMagick test in MinGW</code>](https://github.com/AOMediaCodec/libavif/commit/b3be0b951f11deed2603b339b799037a65bba818)
 - [ ] [<code>Update to libaom v3.13.2 (#3108)</code>](https://github.com/AOMediaCodec/libavif/commit/70fabb41f223d3c2a3f2b06eee33e9a84c675479)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix setting of cicp values in avifgainmaputil combine and convert. (#3110)</code>](https://github.com/AOMediaCodec/libavif/commit/b49fbc9cfd3e71cf0838fd97b5b6748f16e01de0)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix comment typo: overriden => overridden</code>](https://github.com/AOMediaCodec/libavif/commit/33d0aee99bfb846497a938b0b7e55d808cf8abad)
+- [ ] [<code>v1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/6543b22b5bc706c53f038a16fe515f921556d9b3)
+  - <sub>Tags: <code>v1.4.1</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/3ae5cce5d3c84c06cc515c6b75583e821ef59520)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1364,6 +1372,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix uninitialized vnode stale timeout field in pluginsd parser (#21983)</code>](https://github.com/netdata/netdata.git/commit/baf8ccbbb0b416155ea9e371b8acc89585e96d09)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-183-nightly.</code>](https://github.com/netdata/netdata.git/commit/3b149ac01fa890ca03a0077d5c129b62d79bcc4b)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Speed up alerts API filtering with host status snapshots (#21984)</code>](https://github.com/netdata/netdata.git/commit/64e0d811d6d622ad01bbfa2bbed8ff8f4295b97f)
+- [ ] [<code>Improve streaming (#21992)</code>](https://github.com/netdata/netdata.git/commit/5bea95c204461c1be59bb2a09b000c7f3f9a9c8a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2769,6 +2779,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Allow empty state directory in win installer (#8938)</code>](https://github.com/tribler/Tribler/commit/77bd38fe4008bcf727fa4d0bcc784525bf7f4791)
 - [ ] [<code>Fixed the TSTATEDIR not being modified for the IPv8 config</code>](https://github.com/tribler/Tribler/commit/9d708a0a5b48b7984023d3c225916e623dfacaf6)
 - [ ] [<code>Fixed the TSTATEDIR not being modified for the IPv8 config (#8939)</code>](https://github.com/tribler/Tribler/commit/2ca174fd1968162f8bb69ee5f730d58d34486091)
+- [ ] [<code>Fixed recursion error in SimpleTable TableCell className</code>](https://github.com/tribler/Tribler/commit/d5dae3be96868f10db065b689cddfb6506d92b57)
+- [ ] [<code>Fixed recursion error in SimpleTable TableCell className (#8946)</code>](https://github.com/tribler/Tribler/commit/e16f0ed0622ecc5f27aab60347c17645f9ff7090)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -2874,6 +2886,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>lib: fix system() inheriting blocked SIGCHLD mask in child process</code>](https://github.com/jow-/ucode/commit/4170c8dcc56844d07ed89ab2799cbcba1c0ff312)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fs: document glob</code>](https://github.com/jow-/ucode/commit/d2c74298e22da9abba3e61ce558381e2b53f9526)
+- [ ] [<code>types: fix regexp `/.../s` flag inversion</code>](https://github.com/jow-/ucode/commit/8a8b4d12a867f8cbf1f890fe0029b67aefaa15dd)
+- [ ] [<code>lib: slightly expand regexp() JSDoc</code>](https://github.com/jow-/ucode/commit/d7bc7adcb99d3872782258c4970f902faa7ac17b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
