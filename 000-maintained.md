@@ -441,6 +441,8 @@
 - [ ] [<code>chore: Follow up animate in</code>](https://github.com/krille-chan/fluffychat/commit/8643d35a1e9e820596a735696126232c59810c30)
 - [ ] [<code>Merge pull request #2730 from krille-chan/krille/follow-up-animate-in</code>](https://github.com/krille-chan/fluffychat/commit/c15be052465f36dc2bbd0b57ed12e36e7f1f863c)
   - <sub>Tags: <code>rc2.5.0-2</code></sub>
+- [ ] [<code>refactor: Switch from maestro to flutter integration tests</code>](https://github.com/krille-chan/fluffychat/commit/0a42f28cf113dfe2c692456d17cb7e3cc687a652)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -822,6 +824,8 @@
 - [ ] [<code>chore: Follow up animate in</code>](https://github.com/krille-chan/fluffychat/commit/8643d35a1e9e820596a735696126232c59810c30)
 - [ ] [<code>Merge pull request #2730 from krille-chan/krille/follow-up-animate-in</code>](https://github.com/krille-chan/fluffychat/commit/c15be052465f36dc2bbd0b57ed12e36e7f1f863c)
   - <sub>Tags: <code>rc2.5.0-2</code></sub>
+- [ ] [<code>refactor: Switch from maestro to flutter integration tests</code>](https://github.com/krille-chan/fluffychat/commit/0a42f28cf113dfe2c692456d17cb7e3cc687a652)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
