@@ -49,6 +49,7 @@
 - [ ] [<code>usock: implement RFC 8305 Happy Eyeballs for usock_inet_timeout()</code>](https://git.openwrt.org/project/libubox.git/commit/1aa36ee774c8db4d7a396903e0d2e1fb79ee8bf1)
 - [ ] [<code>CMakeLists.txt: remove -Werror=format-nonliteral</code>](https://git.openwrt.org/project/libubox.git/commit/815633847cd32ffe6da28943cbeb37edc88265c8)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>uloop: add ULOOP_PRIORITY support for EPOLLPRI events</code>](https://git.openwrt.org/project/libubox.git/commit/895f92164b665ef84ca804873ddb03fb6f7c8b37)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [02bc2e14d1d37500e888c0c53ac41398a56b5579 → HEAD](https://git.openwrt.org/project/netifd.git/compare/02bc2e14d1d37500e888c0c53ac41398a56b5579...HEAD)
 
