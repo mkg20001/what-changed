@@ -826,6 +826,7 @@
   - <sub>Tags: <code>rc2.5.0-2</code></sub>
 - [ ] [<code>refactor: Switch from maestro to flutter integration tests</code>](https://github.com/krille-chan/fluffychat/commit/0a42f28cf113dfe2c692456d17cb7e3cc687a652)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: Split up tests even more</code>](https://github.com/krille-chan/fluffychat/commit/bb188724ae8c77165613fdcb847996585517b85a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1130,6 +1131,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Tags: <code>v1.4.1</code></sub>
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/3ae5cce5d3c84c06cc515c6b75583e821ef59520)
+- [ ] [<code>Remove unused libaom and AVM image formats</code>](https://github.com/AOMediaCodec/libavif/commit/c46189cdc3b29335292ef747215e35f52be6ea2b)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1382,6 +1384,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>packaging: add go.d secretstore and azure mon stock files (#21997)</code>](https://github.com/netdata/netdata.git/commit/9e3a56ba41f2848730af34883fa6c3a2a4b0992c)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-190-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc77f59054341093dfeeec1bcbac1a07aeaa41ee)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
