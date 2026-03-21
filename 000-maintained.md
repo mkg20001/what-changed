@@ -443,6 +443,17 @@
   - <sub>Tags: <code>rc2.5.0-2</code></sub>
 - [ ] [<code>refactor: Switch from maestro to flutter integration tests</code>](https://github.com/krille-chan/fluffychat/commit/0a42f28cf113dfe2c692456d17cb7e3cc687a652)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Japanese)</code>](https://github.com/krille-chan/fluffychat/commit/28a43c8eadcfd1b9f45bc0488179ff93d71c7047)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Unable to delete devices if server has no valid well known</code>](https://github.com/krille-chan/fluffychat/commit/e38dd75c4f0f5399f77eafd43f346e513900dc20)
+- [ ] [<code>feat: Implement experimental jitsi group calls behind a feature flag</code>](https://github.com/krille-chan/fluffychat/commit/e988a34b76b39f0279f24df04fdac8ff9df9accb)
+- [ ] [<code>chore: Split up tests even more</code>](https://github.com/krille-chan/fluffychat/commit/bb188724ae8c77165613fdcb847996585517b85a)
+- [ ] [<code>chore: Remove inspect calls</code>](https://github.com/krille-chan/fluffychat/commit/e427c84c02c1106b06133b2fc21a4a91986aeab1)
+- [ ] [<code>fix: GoRouter captures receive sharing intents sometimes</code>](https://github.com/krille-chan/fluffychat/commit/dcdaededd20b5c905979589ee2519bd79fd3f29d)
+- [ ] [<code>chore: Follow up sharing fix</code>](https://github.com/krille-chan/fluffychat/commit/22901dc424019b854dac13b1a3b44d11456189a9)
+- [ ] [<code>refactor: Replace import_sorter with directives_ordering lint</code>](https://github.com/krille-chan/fluffychat/commit/69588b8d69e68b55db27c9c0c51c13501bb98c41)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update flutter</code>](https://github.com/krille-chan/fluffychat/commit/74602ecb91effe8d70c655deac74e481277e0f68)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -826,7 +837,17 @@
   - <sub>Tags: <code>rc2.5.0-2</code></sub>
 - [ ] [<code>refactor: Switch from maestro to flutter integration tests</code>](https://github.com/krille-chan/fluffychat/commit/0a42f28cf113dfe2c692456d17cb7e3cc687a652)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Japanese)</code>](https://github.com/krille-chan/fluffychat/commit/28a43c8eadcfd1b9f45bc0488179ff93d71c7047)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: Unable to delete devices if server has no valid well known</code>](https://github.com/krille-chan/fluffychat/commit/e38dd75c4f0f5399f77eafd43f346e513900dc20)
+- [ ] [<code>feat: Implement experimental jitsi group calls behind a feature flag</code>](https://github.com/krille-chan/fluffychat/commit/e988a34b76b39f0279f24df04fdac8ff9df9accb)
 - [ ] [<code>chore: Split up tests even more</code>](https://github.com/krille-chan/fluffychat/commit/bb188724ae8c77165613fdcb847996585517b85a)
+- [ ] [<code>chore: Remove inspect calls</code>](https://github.com/krille-chan/fluffychat/commit/e427c84c02c1106b06133b2fc21a4a91986aeab1)
+- [ ] [<code>fix: GoRouter captures receive sharing intents sometimes</code>](https://github.com/krille-chan/fluffychat/commit/dcdaededd20b5c905979589ee2519bd79fd3f29d)
+- [ ] [<code>chore: Follow up sharing fix</code>](https://github.com/krille-chan/fluffychat/commit/22901dc424019b854dac13b1a3b44d11456189a9)
+- [ ] [<code>refactor: Replace import_sorter with directives_ordering lint</code>](https://github.com/krille-chan/fluffychat/commit/69588b8d69e68b55db27c9c0c51c13501bb98c41)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: Update flutter</code>](https://github.com/krille-chan/fluffychat/commit/74602ecb91effe8d70c655deac74e481277e0f68)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1132,6 +1153,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/3ae5cce5d3c84c06cc515c6b75583e821ef59520)
 - [ ] [<code>Remove unused libaom and AVM image formats</code>](https://github.com/AOMediaCodec/libavif/commit/c46189cdc3b29335292ef747215e35f52be6ea2b)
+- [ ] [<code>Revert "Skip ImageMagick test in MinGW"</code>](https://github.com/AOMediaCodec/libavif/commit/0b82b480e41349883dfe050250a27cd61c6ea52d)
+- [ ] [<code>Stop testing the mingw64 system in ci-mingw.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3b1384c88528434c9451d1f76003f37ed1785e24)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1385,6 +1408,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-190-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc77f59054341093dfeeec1bcbac1a07aeaa41ee)
+- [ ] [<code>Fix mrg unittest (#21986)</code>](https://github.com/netdata/netdata.git/commit/8a8cb992321469439b454193965924957f0b82f8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
