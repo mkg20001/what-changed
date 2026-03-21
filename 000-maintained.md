@@ -1374,6 +1374,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Speed up alerts API filtering with host status snapshots (#21984)</code>](https://github.com/netdata/netdata.git/commit/64e0d811d6d622ad01bbfa2bbed8ff8f4295b97f)
 - [ ] [<code>Improve streaming (#21992)</code>](https://github.com/netdata/netdata.git/commit/5bea95c204461c1be59bb2a09b000c7f3f9a9c8a)
+- [ ] [<code>refactor(go/cloudauth): adopt shared Azure auth schema for collectors and secretstore (#21995)</code>](https://github.com/netdata/netdata.git/commit/0650102c70096fef699bef8131c0cb1466432833)
+- [ ] [<code>feat(go.d): add azure_monitor collector (#21993)</code>](https://github.com/netdata/netdata.git/commit/b802f5d5fdd9eaf5c9e3d93a018a04046be3f0e5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Regenerate integrations docs (#21998)</code>](https://github.com/netdata/netdata.git/commit/5919f18c9259065cea6de0aeb632a91da1fb4cfd)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>packaging: add go.d secretstore and azure mon stock files (#21997)</code>](https://github.com/netdata/netdata.git/commit/9e3a56ba41f2848730af34883fa6c3a2a4b0992c)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
