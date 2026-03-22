@@ -454,6 +454,9 @@
 - [ ] [<code>refactor: Replace import_sorter with directives_ordering lint</code>](https://github.com/krille-chan/fluffychat/commit/69588b8d69e68b55db27c9c0c51c13501bb98c41)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update flutter</code>](https://github.com/krille-chan/fluffychat/commit/74602ecb91effe8d70c655deac74e481277e0f68)
+- [ ] [<code>fix: Always calc correct file extension for voice messages</code>](https://github.com/krille-chan/fluffychat/commit/2eb3d81dd1f654bd755d15e56968b545a94e50d1)
+- [ ] [<code>chore: Disable broken opus recording on web</code>](https://github.com/krille-chan/fluffychat/commit/5ebe891c7b20126f71f500decac99c2686c9329b)
+- [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -848,6 +851,9 @@
 - [ ] [<code>refactor: Replace import_sorter with directives_ordering lint</code>](https://github.com/krille-chan/fluffychat/commit/69588b8d69e68b55db27c9c0c51c13501bb98c41)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Update flutter</code>](https://github.com/krille-chan/fluffychat/commit/74602ecb91effe8d70c655deac74e481277e0f68)
+- [ ] [<code>fix: Always calc correct file extension for voice messages</code>](https://github.com/krille-chan/fluffychat/commit/2eb3d81dd1f654bd755d15e56968b545a94e50d1)
+- [ ] [<code>chore: Disable broken opus recording on web</code>](https://github.com/krille-chan/fluffychat/commit/5ebe891c7b20126f71f500decac99c2686c9329b)
+- [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1412,6 +1418,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.8.0 to 5.9.0 in /src/go (#22003)</code>](https://github.com/netdata/netdata.git/commit/3cc9f6bd9ffb2f718268044293ded9d30db4b95e)
 - [ ] [<code>build(deps): bump nick-invision/retry from 3 to 4 (#22004)</code>](https://github.com/netdata/netdata.git/commit/dcf6304f800f4b41c47ac34d77817cd48bcbc76a)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-194-nightly.</code>](https://github.com/netdata/netdata.git/commit/b929a8c936928f90f8548c7e9cec928efef911e2)
+- [ ] [<code>refactor(go/scripts.d): switch to v2 framework and fixes (#21908)</code>](https://github.com/netdata/netdata.git/commit/a065b60d33658aa829ddf930f1d2f752e71f767b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2639,6 +2647,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add missing chinese translations (#803)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/64a7bbf9f1e156976e10d85406574f0afc945154)
 - [ ] [<code>Add typecheck quality gate (#814)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/af306d2d053fc17dc04c3490e37e61202f031bf7)
 - [ ] [<code>Bump vite from 7.3.1 to 8.0.0 (#811)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/dcb95494c9126f2a2d3c7e8933efa5fb04b4b5e6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump vitest from 4.0.18 to 4.1.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/ea936c1c0843f22f4bb67bba1f9750673b64ebbc)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump @vitest/coverage-v8 from 4.0.18 to 4.1.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1f5c7de838a4b5332b50be3985a73f930ee5bc53)
+- [ ] [<code>Bump @vitejs/plugin-react from 5.1.4 to 6.0.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9129f3f3b8baba53797c68e0bff6c420e08cd22a)
   - <sub>Keywords: <code>bin</code></sub>
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
