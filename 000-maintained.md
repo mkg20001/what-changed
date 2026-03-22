@@ -1409,6 +1409,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-190-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc77f59054341093dfeeec1bcbac1a07aeaa41ee)
 - [ ] [<code>Fix mrg unittest (#21986)</code>](https://github.com/netdata/netdata.git/commit/8a8cb992321469439b454193965924957f0b82f8)
+- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.8.0 to 5.9.0 in /src/go (#22003)</code>](https://github.com/netdata/netdata.git/commit/3cc9f6bd9ffb2f718268044293ded9d30db4b95e)
+- [ ] [<code>build(deps): bump nick-invision/retry from 3 to 4 (#22004)</code>](https://github.com/netdata/netdata.git/commit/dcf6304f800f4b41c47ac34d77817cd48bcbc76a)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
