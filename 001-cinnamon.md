@@ -173,8 +173,9 @@
 - [ ] [<code>screensaver: Track the screensaver proxy in external mode.</code>](https://github.com/linuxmint/cinnamon/commit/2288d1cb1bb7cb9e976a24cb24a3e904643f88a7)
 - [ ] [<code>st-theme.c: Some cleanup, fix an issue with fallback assets not (#13646)</code>](https://github.com/linuxmint/cinnamon/commit/9bc41ec910aa7207670736f476f97392fd82fe8a)
 - [ ] [<code>loginManager.js: Use a normal signal connection for PrepareForSleep.</code>](https://github.com/linuxmint/cinnamon/commit/3e7ec4f700a8223d1d677168119fd8cab91f164d)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>keyboardManager.js: Don't re-activate a layout if it's already</code>](https://github.com/linuxmint/cinnamon/commit/d7ee48268287f34305904e492fd2ff3b5c7e5016)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -268,6 +269,7 @@
 - [ ] [<code>Mint-Y-Dark: Lighten up pressed buttons</code>](https://github.com/linuxmint/mint-themes/commit/8d200649c029a7fdd324cfe38d40230612d27783)
 - [ ] [<code>Mint-Y-Dark: Update gtk2 theme and assets</code>](https://github.com/linuxmint/mint-themes/commit/a0ae67824b99f240010749211e7b3d88dfb68e73)
 - [ ] [<code>Mint-Y-Dark: Lighten up active applet bg in panel</code>](https://github.com/linuxmint/mint-themes/commit/211c66c5ee534e37a7ed36189338810091da5169)
+- [ ] [<code>fix(libadwaita): view background darker than sidebar (This solved #519) (#536)</code>](https://github.com/linuxmint/mint-themes/commit/9ba95ccc5af47cbd7441cc22f26fe04bb2ef3552)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
@@ -315,6 +317,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-window-actor-wayland.c: Fix a leak.</code>](https://github.com/linuxmint/muffin/commit/85d3b3b1ca40849156b53a9bab541b735036fe73)
 - [ ] [<code>meta-wayland-single-pixel-buffer.c: Use correct cogl ref function,</code>](https://github.com/linuxmint/muffin/commit/ca0c0ecbf36e3f5691cdc47c9e1541e649ab667b)
+- [ ] [<code>meta-cursor-sprite-xcursor.c: Fix grab/grabbing cursor names.</code>](https://github.com/linuxmint/muffin/commit/557e4b7fe42776ff75263348d53a410eedebcb03)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
