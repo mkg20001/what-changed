@@ -1420,6 +1420,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-194-nightly.</code>](https://github.com/netdata/netdata.git/commit/b929a8c936928f90f8548c7e9cec928efef911e2)
 - [ ] [<code>refactor(go/scripts.d): switch to v2 framework and fixes (#21908)</code>](https://github.com/netdata/netdata.git/commit/a065b60d33658aa829ddf930f1d2f752e71f767b)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>feat(go/scripts.d): add Nagios V2 alerts and alertable state (#22008)</code>](https://github.com/netdata/netdata.git/commit/bbfdae6a67c3af197ff2f8f3d14b17fa5709d0ac)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
