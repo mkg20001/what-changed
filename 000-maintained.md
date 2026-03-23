@@ -457,6 +457,7 @@
 - [ ] [<code>fix: Always calc correct file extension for voice messages</code>](https://github.com/krille-chan/fluffychat/commit/2eb3d81dd1f654bd755d15e56968b545a94e50d1)
 - [ ] [<code>chore: Disable broken opus recording on web</code>](https://github.com/krille-chan/fluffychat/commit/5ebe891c7b20126f71f500decac99c2686c9329b)
 - [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
+- [ ] [<code>chore(translations): Translated using Weblate (Persian)</code>](https://github.com/krille-chan/fluffychat/commit/ebca535f0ba71d66f91917296e5df5296d2e97e8)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -854,6 +855,7 @@
 - [ ] [<code>fix: Always calc correct file extension for voice messages</code>](https://github.com/krille-chan/fluffychat/commit/2eb3d81dd1f654bd755d15e56968b545a94e50d1)
 - [ ] [<code>chore: Disable broken opus recording on web</code>](https://github.com/krille-chan/fluffychat/commit/5ebe891c7b20126f71f500decac99c2686c9329b)
 - [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
+- [ ] [<code>chore(translations): Translated using Weblate (Persian)</code>](https://github.com/krille-chan/fluffychat/commit/ebca535f0ba71d66f91917296e5df5296d2e97e8)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1422,6 +1424,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
 - [ ] [<code>feat(go/scripts.d): add Nagios V2 alerts and alertable state (#22008)</code>](https://github.com/netdata/netdata.git/commit/bbfdae6a67c3af197ff2f8f3d14b17fa5709d0ac)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-197-nightly.</code>](https://github.com/netdata/netdata.git/commit/9812371dcb2c09eda7b2d7d7b8855263e4ef53f6)
+- [ ] [<code>Regenerate integrations docs (#22006)</code>](https://github.com/netdata/netdata.git/commit/86fda42af07cc70526f42769dcb1c695e206cc94)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.9.0 to 5.9.1 in /src/go (#22010)</code>](https://github.com/netdata/netdata.git/commit/855c469965ab09c8102a67108c5d403967241187)
+- [ ] [<code>build(deps): bump go.opentelemetry.io/otel/sdk from 1.39.0 to 1.40.0 in /src/go (#22011)</code>](https://github.com/netdata/netdata.git/commit/7d2cf67d6bb2a5eee050b81fa20091cf0505f428)
+- [ ] [<code>feat(health): add azure monitor alerts (#22007)</code>](https://github.com/netdata/netdata.git/commit/761a848920a792c8fa4715335e450188beec7a0c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
