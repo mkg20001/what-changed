@@ -458,6 +458,7 @@
 - [ ] [<code>chore: Disable broken opus recording on web</code>](https://github.com/krille-chan/fluffychat/commit/5ebe891c7b20126f71f500decac99c2686c9329b)
 - [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
 - [ ] [<code>chore(translations): Translated using Weblate (Persian)</code>](https://github.com/krille-chan/fluffychat/commit/ebca535f0ba71d66f91917296e5df5296d2e97e8)
+- [ ] [<code>chore: Follow up android deep links</code>](https://github.com/krille-chan/fluffychat/commit/5cf162f6c780c01e8ae5e76e45a13fb3c9330dfc)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -856,6 +857,7 @@
 - [ ] [<code>chore: Disable broken opus recording on web</code>](https://github.com/krille-chan/fluffychat/commit/5ebe891c7b20126f71f500decac99c2686c9329b)
 - [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
 - [ ] [<code>chore(translations): Translated using Weblate (Persian)</code>](https://github.com/krille-chan/fluffychat/commit/ebca535f0ba71d66f91917296e5df5296d2e97e8)
+- [ ] [<code>chore: Follow up android deep links</code>](https://github.com/krille-chan/fluffychat/commit/5cf162f6c780c01e8ae5e76e45a13fb3c9330dfc)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1163,6 +1165,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove unused libaom and AVM image formats</code>](https://github.com/AOMediaCodec/libavif/commit/c46189cdc3b29335292ef747215e35f52be6ea2b)
 - [ ] [<code>Revert "Skip ImageMagick test in MinGW"</code>](https://github.com/AOMediaCodec/libavif/commit/0b82b480e41349883dfe050250a27cd61c6ea52d)
 - [ ] [<code>Stop testing the mingw64 system in ci-mingw.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3b1384c88528434c9451d1f76003f37ed1785e24)
+- [ ] [<code>Remove an obsolete check for CMAKE_VERSION < 3.21</code>](https://github.com/AOMediaCodec/libavif/commit/3b3aa36eaadb66e139b8d62832ea518301cbe169)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1431,6 +1435,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump go.opentelemetry.io/otel/sdk from 1.39.0 to 1.40.0 in /src/go (#22011)</code>](https://github.com/netdata/netdata.git/commit/7d2cf67d6bb2a5eee050b81fa20091cf0505f428)
 - [ ] [<code>feat(health): add azure monitor alerts (#22007)</code>](https://github.com/netdata/netdata.git/commit/761a848920a792c8fa4715335e450188beec7a0c)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: nagios metadata improvements (#22014)</code>](https://github.com/netdata/netdata.git/commit/d1ac11fa7bac89e470fbe2b5c53f486133b875a9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: update Nagios overview for COLLECTORS.md (#22016)</code>](https://github.com/netdata/netdata.git/commit/b60e2bc17c0715c99a0fdf633a80288846b80a56)
+- [ ] [<code>Regenerate integrations docs (#22015)</code>](https://github.com/netdata/netdata.git/commit/dc699d88fe5ac46715b40118662d0dd731a6d557)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Sync Repos (ebpf.plugin) (#21982)</code>](https://github.com/netdata/netdata.git/commit/c0b5f29b31cbf9361fcabbbefe6f4ee62dc65576)
+- [ ] [<code>Create journal directory if missing before watching (#22019)</code>](https://github.com/netdata/netdata.git/commit/6851d51cbe392c4a762825d7148205803014de6d)
+- [ ] [<code>Fix lock order during ctx processing to avoid deadlock (#21996)</code>](https://github.com/netdata/netdata.git/commit/5909940b934ed73664eae0a051ee1f8a2426f070)
+- [ ] [<code>docs: remove Nagios from Prometheus meta (#22020)</code>](https://github.com/netdata/netdata.git/commit/a9243423251649d30fc85802ab58454851457982)
+- [ ] [<code>Regenerate integrations docs (#22022)</code>](https://github.com/netdata/netdata.git/commit/7e06cf9dd66359d4c49a5853667e55e496b3342b)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2664,6 +2679,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump @vitest/coverage-v8 from 4.0.18 to 4.1.0</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/1f5c7de838a4b5332b50be3985a73f930ee5bc53)
 - [ ] [<code>Bump @vitejs/plugin-react from 5.1.4 to 6.0.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9129f3f3b8baba53797c68e0bff6c420e08cd22a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Bump @typescript-eslint/eslint-plugin from 8.57.0 to 8.57.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cdcad8d61e461c4ccc90d69bcccdaf3a7f77972f)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
@@ -2950,6 +2966,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fs: document glob</code>](https://github.com/jow-/ucode/commit/d2c74298e22da9abba3e61ce558381e2b53f9526)
 - [ ] [<code>types: fix regexp `/.../s` flag inversion</code>](https://github.com/jow-/ucode/commit/8a8b4d12a867f8cbf1f890fe0029b67aefaa15dd)
 - [ ] [<code>lib: slightly expand regexp() JSDoc</code>](https://github.com/jow-/ucode/commit/d7bc7adcb99d3872782258c4970f902faa7ac17b)
+- [ ] [<code>nl80211: fix HE MCS set parsing</code>](https://github.com/jow-/ucode/commit/826fbfef2df9b3607d9aa8cf8a7abf25874540f8)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
