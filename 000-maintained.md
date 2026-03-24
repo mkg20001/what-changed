@@ -459,6 +459,16 @@
 - [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
 - [ ] [<code>chore(translations): Translated using Weblate (Persian)</code>](https://github.com/krille-chan/fluffychat/commit/ebca535f0ba71d66f91917296e5df5296d2e97e8)
 - [ ] [<code>chore: Follow up android deep links</code>](https://github.com/krille-chan/fluffychat/commit/5cf162f6c780c01e8ae5e76e45a13fb3c9330dfc)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/3642539642d5a736dedf34ed7ed961bc02317d74)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/c8f867d3616be75f6251c0f457a6e0b962be463a)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/64be9741ecb2a2de88bdfc43eab6f5238d13a775)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/145ebd81b7e3c494a2cc4bf38af82fd3258f5fc9)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/efabf250e8924c5acc9ae7cff1c7cc3263acc3fc)
+- [ ] [<code>chore: Follow up android deep link</code>](https://github.com/krille-chan/fluffychat/commit/0c00ee64754d25387984ce557f0de1c80a323eb3)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/6cc415deadcf5b5717ab590a5f9fd6834c0ded03)
+- [ ] [<code>chore: Revert remove libssl</code>](https://github.com/krille-chan/fluffychat/commit/f8f13bbc630d07ee71f71b90b449761b8b0a7c64)
+- [ ] [<code>Merge pull request #2757 from krille-chan/krille/revert-remove-libsssl</code>](https://github.com/krille-chan/fluffychat/commit/63a771507934eb30e97bd8ce1023dbdf2eb79e86)
+  - <sub>Tags: <code>rc2.5.0-3</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -858,6 +868,16 @@
 - [ ] [<code>chore: Disable web voice message again</code>](https://github.com/krille-chan/fluffychat/commit/2a0405df084f4bfe84326e8b5c6b36f45144d573)
 - [ ] [<code>chore(translations): Translated using Weblate (Persian)</code>](https://github.com/krille-chan/fluffychat/commit/ebca535f0ba71d66f91917296e5df5296d2e97e8)
 - [ ] [<code>chore: Follow up android deep links</code>](https://github.com/krille-chan/fluffychat/commit/5cf162f6c780c01e8ae5e76e45a13fb3c9330dfc)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/3642539642d5a736dedf34ed7ed961bc02317d74)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/c8f867d3616be75f6251c0f457a6e0b962be463a)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/64be9741ecb2a2de88bdfc43eab6f5238d13a775)
+- [ ] [<code>chore(translations): Translated using Weblate (Kabyle)</code>](https://github.com/krille-chan/fluffychat/commit/145ebd81b7e3c494a2cc4bf38af82fd3258f5fc9)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/efabf250e8924c5acc9ae7cff1c7cc3263acc3fc)
+- [ ] [<code>chore: Follow up android deep link</code>](https://github.com/krille-chan/fluffychat/commit/0c00ee64754d25387984ce557f0de1c80a323eb3)
+- [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/6cc415deadcf5b5717ab590a5f9fd6834c0ded03)
+- [ ] [<code>chore: Revert remove libssl</code>](https://github.com/krille-chan/fluffychat/commit/f8f13bbc630d07ee71f71b90b449761b8b0a7c64)
+- [ ] [<code>Merge pull request #2757 from krille-chan/krille/revert-remove-libsssl</code>](https://github.com/krille-chan/fluffychat/commit/63a771507934eb30e97bd8ce1023dbdf2eb79e86)
+  - <sub>Tags: <code>rc2.5.0-3</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
