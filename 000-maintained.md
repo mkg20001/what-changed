@@ -1446,6 +1446,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: remove Nagios from Prometheus meta (#22020)</code>](https://github.com/netdata/netdata.git/commit/a9243423251649d30fc85802ab58454851457982)
 - [ ] [<code>Regenerate integrations docs (#22022)</code>](https://github.com/netdata/netdata.git/commit/7e06cf9dd66359d4c49a5853667e55e496b3342b)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix clocks (ebpf.plugin and others) (#22009)</code>](https://github.com/netdata/netdata.git/commit/790f4a6f0ad44a63b3a6c6132789b4ed557f3611)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-211-nightly.</code>](https://github.com/netdata/netdata.git/commit/f1049a55fa3a0a10881c5d50bfc50fb921dc3813)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
