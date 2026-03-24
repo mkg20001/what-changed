@@ -235,8 +235,9 @@
 - [ ] [<code>common: Remove unused csd-keygrab.*</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/c03e66e70081c3668c66933d8bd2acf951e7529a)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>power: drop Phone Manager (#430)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69711a0fdf7bd4e107305c7f389b3d5ef431d87d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add support for an ambient light sensor. (#444)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/734fd6044ac6fc826e663a7d630069ec90d4a710)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -345,8 +346,13 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>nemo-desktop-window.c: Fix missing include.</code>](https://github.com/linuxmint/nemo/commit/0a4d1b408dfac8f06e5be4fea3e299da8c09c045)
 - [ ] [<code>meson.build: Add -Werror=implicit-function-declaration</code>](https://github.com/linuxmint/nemo/commit/0ba73e5bae05d14b11100307b7dd49036fd020eb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-view.c: Remove 'open-file-and-close-window' action.</code>](https://github.com/linuxmint/nemo/commit/227e2957776545ee0c3a178137753121251811c3)
+- [ ] [<code>Restore Last Window Tabs on Startup (#3661)</code>](https://github.com/linuxmint/nemo/commit/66d42992a2900844f3c1fca57022083daf3b93fd)
+- [ ] [<code>Fix several memory leaks. (#3721)</code>](https://github.com/linuxmint/nemo/commit/0446b9e3f4cf0f5d9bbb0d3aa62e1142e3376d2b)
+  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>nemo-file-operations.c: Fix file copies breaking ownership rules. (#3731)</code>](https://github.com/linuxmint/nemo/commit/58846d5db828125c50a2b9ef2e65b6db83d5a630)
+  - <sub>Tags: <code>master.lmde7</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
