@@ -1187,6 +1187,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Stop testing the mingw64 system in ci-mingw.yml</code>](https://github.com/AOMediaCodec/libavif/commit/3b1384c88528434c9451d1f76003f37ed1785e24)
 - [ ] [<code>Remove an obsolete check for CMAKE_VERSION < 3.21</code>](https://github.com/AOMediaCodec/libavif/commit/3b3aa36eaadb66e139b8d62832ea518301cbe169)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Improve are_images_equal for gain maps. (#3126)</code>](https://github.com/AOMediaCodec/libavif/commit/8f2a140ef1fa3ede3d60c6fc2692455a4de056cb)
+- [ ] [<code>Change CMAKE_C_STANDARD from 99 to 11</code>](https://github.com/AOMediaCodec/libavif/commit/86777019460ea10f4fb8eb5301f978c1f8730b48)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1468,6 +1471,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Fix clocks (ebpf.plugin and others) (#22009)</code>](https://github.com/netdata/netdata.git/commit/790f4a6f0ad44a63b3a6c6132789b4ed557f3611)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-211-nightly.</code>](https://github.com/netdata/netdata.git/commit/f1049a55fa3a0a10881c5d50bfc50fb921dc3813)
+- [ ] [<code>Windows documentation (#22021)</code>](https://github.com/netdata/netdata.git/commit/cc8f52788827b6736c173a5218669905e5be6106)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Compilation Warning (BSD and Windows) (#22024)</code>](https://github.com/netdata/netdata.git/commit/d841e02b98874903840a21b3dd0158816cc5e2cb)
+- [ ] [<code>docs(integrations): add generated secretstore docs and SECRETS page (#22028)</code>](https://github.com/netdata/netdata.git/commit/45450d6436f98d0fd58845f65ec804e54ca628bc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: update secrets management section (#22030)</code>](https://github.com/netdata/netdata.git/commit/2007c25acaa4592136f299eae54368cbfb401f47)
+- [ ] [<code>docs: add file permissions and ownership documentation for claim.conf (#22017)</code>](https://github.com/netdata/netdata.git/commit/99ff08cc6ef97d595c15e3fec7f6a642a65005fa)
+- [ ] [<code>docs: Add cloud.d directory contents section to claim README (#21966)</code>](https://github.com/netdata/netdata.git/commit/2a0cfeafb2664ffd66c3e300835968da1996425a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: fix integration name collision (#22031)</code>](https://github.com/netdata/netdata.git/commit/c375313f1d44b1492d7147489c64c66e0e8f2b12)
+- [ ] [<code>Regenerate integrations docs (#22032)</code>](https://github.com/netdata/netdata.git/commit/ec4bc3077b39ef97b979760bb88ffa80b6745340)
+- [ ] [<code>docs(integrations): reorder collector README sections for better onboarding (#22033)</code>](https://github.com/netdata/netdata.git/commit/999a2c255553314e3a2fe5650eb0aa2c633bb9d1)
+- [ ] [<code>Regenerate integrations docs (#22034)</code>](https://github.com/netdata/netdata.git/commit/68014b1996dda15159a8724389f26ca69777c0c7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
