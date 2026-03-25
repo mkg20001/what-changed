@@ -2521,6 +2521,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 #### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.5.1 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.5.1...HEAD)
 
+- [ ] [<code>build(android): update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08ab7b25782340912e73618796da147791133030)
+- [ ] [<code>Ukrainian translations (#239)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5184b74e894207937f6f8a5a1d04d26a65e70ed)
+- [ ] [<code>fix(gui): disable arz language due to crash when rendering text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e5b9dc5f638e5ba9626bb2cac3200f2c6beebf8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
