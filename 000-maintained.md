@@ -17,7 +17,7 @@
 
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.0.0/dbeaver-ce-26.0.0-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.0.1/dbeaver-ce-26.0.1-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.0.1/dbeaver-ce-26.0.1-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.1...HEAD)
@@ -1190,6 +1190,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve are_images_equal for gain maps. (#3126)</code>](https://github.com/AOMediaCodec/libavif/commit/8f2a140ef1fa3ede3d60c6fc2692455a4de056cb)
 - [ ] [<code>Change CMAKE_C_STANDARD from 99 to 11</code>](https://github.com/AOMediaCodec/libavif/commit/86777019460ea10f4fb8eb5301f978c1f8730b48)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add avif_off_t and avif_fseeko() and avif_ftello()</code>](https://github.com/AOMediaCodec/libavif/commit/a6e895f3e82318d63b9205486f3852101412ad86)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1485,6 +1486,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs(integrations): reorder collector README sections for better onboarding (#22033)</code>](https://github.com/netdata/netdata.git/commit/999a2c255553314e3a2fe5650eb0aa2c633bb9d1)
 - [ ] [<code>Regenerate integrations docs (#22034)</code>](https://github.com/netdata/netdata.git/commit/68014b1996dda15159a8724389f26ca69777c0c7)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-222-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a19ebb1ecd9263b1f3eb3c7f334bbca99ae64f5)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
