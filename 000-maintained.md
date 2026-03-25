@@ -468,7 +468,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/6cc415deadcf5b5717ab590a5f9fd6834c0ded03)
 - [ ] [<code>chore: Revert remove libssl</code>](https://github.com/krille-chan/fluffychat/commit/f8f13bbc630d07ee71f71b90b449761b8b0a7c64)
 - [ ] [<code>Merge pull request #2757 from krille-chan/krille/revert-remove-libsssl</code>](https://github.com/krille-chan/fluffychat/commit/63a771507934eb30e97bd8ce1023dbdf2eb79e86)
-  - <sub>Tags: <code>rc2.5.0-3</code></sub>
+  - <sub>Tags: <code>rc2.5.0-3</code> <code>v2.5.0</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -877,7 +877,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (German)</code>](https://github.com/krille-chan/fluffychat/commit/6cc415deadcf5b5717ab590a5f9fd6834c0ded03)
 - [ ] [<code>chore: Revert remove libssl</code>](https://github.com/krille-chan/fluffychat/commit/f8f13bbc630d07ee71f71b90b449761b8b0a7c64)
 - [ ] [<code>Merge pull request #2757 from krille-chan/krille/revert-remove-libsssl</code>](https://github.com/krille-chan/fluffychat/commit/63a771507934eb30e97bd8ce1023dbdf2eb79e86)
-  - <sub>Tags: <code>rc2.5.0-3</code></sub>
+  - <sub>Tags: <code>rc2.5.0-3</code> <code>v2.5.0</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1191,6 +1191,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Change CMAKE_C_STANDARD from 99 to 11</code>](https://github.com/AOMediaCodec/libavif/commit/86777019460ea10f4fb8eb5301f978c1f8730b48)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add avif_off_t and avif_fseeko() and avif_ftello()</code>](https://github.com/AOMediaCodec/libavif/commit/a6e895f3e82318d63b9205486f3852101412ad86)
+- [ ] [<code>Fix memory leak of altICC if avifDecoderFindGainMapItem returns early. (#3127)</code>](https://github.com/AOMediaCodec/libavif/commit/534c5254f7ddccb3e3956b40925848eb9909f589)
+- [ ] [<code>Remove avm_codec_control(AV2D_SET_OPERATING_POINT)</code>](https://github.com/AOMediaCodec/libavif/commit/f962648242c69bf10e9a0525ea378ba0d03823f4)
+- [ ] [<code>Get fseeko to compile with Android < 24 (#3132)</code>](https://github.com/AOMediaCodec/libavif/commit/78044bd4f216b54fa5d766796ce09341c8589112)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
