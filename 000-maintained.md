@@ -1202,6 +1202,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Get fseeko to compile with Android < 24 (#3132)</code>](https://github.com/AOMediaCodec/libavif/commit/78044bd4f216b54fa5d766796ce09341c8589112)
 - [ ] [<code>src/io.c: Some cleanup related to fseeko/ftello</code>](https://github.com/AOMediaCodec/libavif/commit/1b9e9f678c75bb34272ff00706b22c0ece9f5281)
 - [ ] [<code>Add a --jobs flag to avifgainmaputil for multithreading support. (#3115)</code>](https://github.com/AOMediaCodec/libavif/commit/24eff5475e6275b7655c4bbc68386b5fb89dba02)
+- [ ] [<code>Set offsetBytesA for AVIF_RGB_FORMAT_GRAY (#3139)</code>](https://github.com/AOMediaCodec/libavif/commit/61ec51697141ece353c955ce2a8e91983129f9fe)
+- [ ] [<code>Remove avifCheckCodecVersionAVM()</code>](https://github.com/AOMediaCodec/libavif/commit/f856137610a36be1d632b3f9382bb171e67f9873)
+- [ ] [<code>Split parseSequenceHeaderProfile() into AV1 & AV2</code>](https://github.com/AOMediaCodec/libavif/commit/1814ba2a6236c28ea4d26a6aee21c739a98a88ee)
+- [ ] [<code>Initialize all offsets in avifGetRGBColorSpaceInfo</code>](https://github.com/AOMediaCodec/libavif/commit/8b318b63e20a1cc695aea3d8485ac3160023aac2)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1504,6 +1508,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add ML unit tests (#22043)</code>](https://github.com/netdata/netdata.git/commit/6c5f54409a1299425b85ef6fe9af550f7f07ec20)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Add dictionary benchmark (#22041)</code>](https://github.com/netdata/netdata.git/commit/d4da8d90a93466913a1c6cf8c2f611a0e47d2fbb)
+- [ ] [<code>Make release profile optimize for speed vs. size (#22046)</code>](https://github.com/netdata/netdata.git/commit/2d6e824fa7d2ee8fd74e0ee81c76d3047479dd3f)
+- [ ] [<code>Fix SIGSEGV (contexts) (#22025)</code>](https://github.com/netdata/netdata.git/commit/336738b33b4c0f5ff0f8d0efdb5cabb970334823)
+- [ ] [<code>docs: user-oriented charttpl README rewrite (#22049)</code>](https://github.com/netdata/netdata.git/commit/421c60bb0d35ac1f741b31b3f4b96972ca82e9ba)
+- [ ] [<code>Improve DBENGINE log messages for datafile rotation and startup (#22047)</code>](https://github.com/netdata/netdata.git/commit/c24c7427b0caa318e3fab45d1c062e121d9886a3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
