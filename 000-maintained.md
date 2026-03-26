@@ -1490,6 +1490,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#22034)</code>](https://github.com/netdata/netdata.git/commit/68014b1996dda15159a8724389f26ca69777c0c7)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-222-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a19ebb1ecd9263b1f3eb3c7f334bbca99ae64f5)
+- [ ] [<code>Fix cache (SIGSEGV) (#22026)</code>](https://github.com/netdata/netdata.git/commit/d92f08f02a550ce6c2f8062942518422c1fe6428)
+- [ ] [<code>Windows.plugin (improvements and fixes) (#22039)</code>](https://github.com/netdata/netdata.git/commit/5a80d3eb803acdd64091775238a5eef0d4eaed41)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
