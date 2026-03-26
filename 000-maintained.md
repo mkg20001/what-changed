@@ -469,6 +469,9 @@
 - [ ] [<code>chore: Revert remove libssl</code>](https://github.com/krille-chan/fluffychat/commit/f8f13bbc630d07ee71f71b90b449761b8b0a7c64)
 - [ ] [<code>Merge pull request #2757 from krille-chan/krille/revert-remove-libsssl</code>](https://github.com/krille-chan/fluffychat/commit/63a771507934eb30e97bd8ce1023dbdf2eb79e86)
   - <sub>Tags: <code>rc2.5.0-3</code> <code>v2.5.0</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2076671a7a1ac5b97016744186e7d3ea986d3fcd)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/86a09824b14320c823d8fd93f29265da481fd37e)
+- [ ] [<code>chore: Add missing base href</code>](https://github.com/krille-chan/fluffychat/commit/16fb244bc4f66e80c8464f8a5bf23a7e75b11051)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -878,6 +881,9 @@
 - [ ] [<code>chore: Revert remove libssl</code>](https://github.com/krille-chan/fluffychat/commit/f8f13bbc630d07ee71f71b90b449761b8b0a7c64)
 - [ ] [<code>Merge pull request #2757 from krille-chan/krille/revert-remove-libsssl</code>](https://github.com/krille-chan/fluffychat/commit/63a771507934eb30e97bd8ce1023dbdf2eb79e86)
   - <sub>Tags: <code>rc2.5.0-3</code> <code>v2.5.0</code></sub>
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2076671a7a1ac5b97016744186e7d3ea986d3fcd)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/86a09824b14320c823d8fd93f29265da481fd37e)
+- [ ] [<code>chore: Add missing base href</code>](https://github.com/krille-chan/fluffychat/commit/16fb244bc4f66e80c8464f8a5bf23a7e75b11051)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1194,6 +1200,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix memory leak of altICC if avifDecoderFindGainMapItem returns early. (#3127)</code>](https://github.com/AOMediaCodec/libavif/commit/534c5254f7ddccb3e3956b40925848eb9909f589)
 - [ ] [<code>Remove avm_codec_control(AV2D_SET_OPERATING_POINT)</code>](https://github.com/AOMediaCodec/libavif/commit/f962648242c69bf10e9a0525ea378ba0d03823f4)
 - [ ] [<code>Get fseeko to compile with Android < 24 (#3132)</code>](https://github.com/AOMediaCodec/libavif/commit/78044bd4f216b54fa5d766796ce09341c8589112)
+- [ ] [<code>src/io.c: Some cleanup related to fseeko/ftello</code>](https://github.com/AOMediaCodec/libavif/commit/1b9e9f678c75bb34272ff00706b22c0ece9f5281)
+- [ ] [<code>Add a --jobs flag to avifgainmaputil for multithreading support. (#3115)</code>](https://github.com/AOMediaCodec/libavif/commit/24eff5475e6275b7655c4bbc68386b5fb89dba02)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1492,6 +1500,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-222-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a19ebb1ecd9263b1f3eb3c7f334bbca99ae64f5)
 - [ ] [<code>Fix cache (SIGSEGV) (#22026)</code>](https://github.com/netdata/netdata.git/commit/d92f08f02a550ce6c2f8062942518422c1fe6428)
 - [ ] [<code>Windows.plugin (improvements and fixes) (#22039)</code>](https://github.com/netdata/netdata.git/commit/5a80d3eb803acdd64091775238a5eef0d4eaed41)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-225-nightly.</code>](https://github.com/netdata/netdata.git/commit/a44398d34d838146b0b4b66b40d043ddb6222ce6)
+- [ ] [<code>Add ML unit tests (#22043)</code>](https://github.com/netdata/netdata.git/commit/6c5f54409a1299425b85ef6fe9af550f7f07ec20)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Add dictionary benchmark (#22041)</code>](https://github.com/netdata/netdata.git/commit/d4da8d90a93466913a1c6cf8c2f611a0e47d2fbb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
