@@ -478,6 +478,8 @@
 - [ ] [<code>Merge pull request #2710 from krille-chan/krille/release-update-fcm-shared-isolate</code>](https://github.com/krille-chan/fluffychat/commit/d4b12af61e7dcd53f2010d54fc39e97b91cf746f)
   - <sub>Tags: <code>rc2.5.1-1</code></sub>
 - [ ] [<code>chore: Follow up fix build website</code>](https://github.com/krille-chan/fluffychat/commit/cf4f5a24ab311ae5d3c55947f6f14dd63d67e67d)
+- [ ] [<code>chore: Follow up build website</code>](https://github.com/krille-chan/fluffychat/commit/a3fc1bff01796e90de8a84db2607e29e9b6b4991)
+  - <sub>Tags: <code>v2.5.1</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -896,6 +898,8 @@
 - [ ] [<code>Merge pull request #2710 from krille-chan/krille/release-update-fcm-shared-isolate</code>](https://github.com/krille-chan/fluffychat/commit/d4b12af61e7dcd53f2010d54fc39e97b91cf746f)
   - <sub>Tags: <code>rc2.5.1-1</code></sub>
 - [ ] [<code>chore: Follow up fix build website</code>](https://github.com/krille-chan/fluffychat/commit/cf4f5a24ab311ae5d3c55947f6f14dd63d67e67d)
+- [ ] [<code>chore: Follow up build website</code>](https://github.com/krille-chan/fluffychat/commit/a3fc1bff01796e90de8a84db2607e29e9b6b4991)
+  - <sub>Tags: <code>v2.5.1</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1220,6 +1224,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Initialize all offsets in avifGetRGBColorSpaceInfo</code>](https://github.com/AOMediaCodec/libavif/commit/8b318b63e20a1cc695aea3d8485ac3160023aac2)
 - [ ] [<code>Fix two bugs in parseAV2SequenceHeader()</code>](https://github.com/AOMediaCodec/libavif/commit/bd4e9485ab33a4e960d1a927fd51a86d8cd33231)
 - [ ] [<code>Free grid cell images if avifImageSplitGrid fails</code>](https://github.com/AOMediaCodec/libavif/commit/35f24cefc11c028687bc22aad103a00ea0d02089)
+- [ ] [<code>Update avifImageSplitGrid() comment after PR #3092</code>](https://github.com/AOMediaCodec/libavif/commit/83373d5636322d9da0a5131529beb4d88d688155)
+- [ ] [<code>Pass AVIF_ENABLE_WERROR to libavif in the Android CI (#3133)</code>](https://github.com/AOMediaCodec/libavif/commit/7342fbb815e1493ed5329f380b1dbe015d102de3)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Explain _POSIX_VERSION >= 200112L test for fseeko</code>](https://github.com/AOMediaCodec/libavif/commit/f04579f4556d6120566e25dc3b0fc13feeab5471)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1528,6 +1536,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve DBENGINE log messages for datafile rotation and startup (#22047)</code>](https://github.com/netdata/netdata.git/commit/c24c7427b0caa318e3fab45d1c062e121d9886a3)
 - [ ] [<code>Fix wrong DBENGINE file names in logs (#22053)</code>](https://github.com/netdata/netdata.git/commit/97e8013121a3f5ed618d12d53db0fea97d7c9d8b)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-233-nightly.</code>](https://github.com/netdata/netdata.git/commit/38d0ee47bf45713fb91f44ea09aa0deec657f44e)
+- [ ] [<code>docs: add Space Settings navigation guidance to remove-node.md (#22035)</code>](https://github.com/netdata/netdata.git/commit/f5ff2991cc2efd33a4839ef0cfed7c9bfd76f8e7)
+- [ ] [<code>Fix coverity issues (#22054)</code>](https://github.com/netdata/netdata.git/commit/3c7482d1a0aef01a09292d9aa8d2973be5d83034)
+- [ ] [<code>docs: correct SEND_EMAIL default value from YES to AUTO (#22057)</code>](https://github.com/netdata/netdata.git/commit/071a0b7622681e5ccc834096379105f1fcf96fdf)
+- [ ] [<code>docs: clarify streaming protocol architecture - not HTTP/HTTPS (#22055)</code>](https://github.com/netdata/netdata.git/commit/843038704e541d09f58b74ba58e4e40ca76254a9)
+- [ ] [<code>Regenerate integrations docs (#22061)</code>](https://github.com/netdata/netdata.git/commit/75b52898a057b43511f7d757a5bf8d5ef260af20)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
