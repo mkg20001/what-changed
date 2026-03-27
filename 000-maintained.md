@@ -472,6 +472,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2076671a7a1ac5b97016744186e7d3ea986d3fcd)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/86a09824b14320c823d8fd93f29265da481fd37e)
 - [ ] [<code>chore: Add missing base href</code>](https://github.com/krille-chan/fluffychat/commit/16fb244bc4f66e80c8464f8a5bf23a7e75b11051)
+- [ ] [<code>chore: Correctly pass md to website</code>](https://github.com/krille-chan/fluffychat/commit/af90170d180920de9e6dd0c2f3cbd674910e5a8c)
+- [ ] [<code>build: Update fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/2ad2b1e52c0a7067223395e1b1d2f41f19a0f783)
+- [ ] [<code>build: Add changelog for 2.5.1</code>](https://github.com/krille-chan/fluffychat/commit/24906a0def64ae283fb6c04161e9b28d6aaacda9)
+- [ ] [<code>Merge pull request #2710 from krille-chan/krille/release-update-fcm-shared-isolate</code>](https://github.com/krille-chan/fluffychat/commit/d4b12af61e7dcd53f2010d54fc39e97b91cf746f)
+  - <sub>Tags: <code>rc2.5.1-1</code></sub>
+- [ ] [<code>chore: Follow up fix build website</code>](https://github.com/krille-chan/fluffychat/commit/cf4f5a24ab311ae5d3c55947f6f14dd63d67e67d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -884,6 +890,12 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/2076671a7a1ac5b97016744186e7d3ea986d3fcd)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/86a09824b14320c823d8fd93f29265da481fd37e)
 - [ ] [<code>chore: Add missing base href</code>](https://github.com/krille-chan/fluffychat/commit/16fb244bc4f66e80c8464f8a5bf23a7e75b11051)
+- [ ] [<code>chore: Correctly pass md to website</code>](https://github.com/krille-chan/fluffychat/commit/af90170d180920de9e6dd0c2f3cbd674910e5a8c)
+- [ ] [<code>build: Update fcm shared isolate</code>](https://github.com/krille-chan/fluffychat/commit/2ad2b1e52c0a7067223395e1b1d2f41f19a0f783)
+- [ ] [<code>build: Add changelog for 2.5.1</code>](https://github.com/krille-chan/fluffychat/commit/24906a0def64ae283fb6c04161e9b28d6aaacda9)
+- [ ] [<code>Merge pull request #2710 from krille-chan/krille/release-update-fcm-shared-isolate</code>](https://github.com/krille-chan/fluffychat/commit/d4b12af61e7dcd53f2010d54fc39e97b91cf746f)
+  - <sub>Tags: <code>rc2.5.1-1</code></sub>
+- [ ] [<code>chore: Follow up fix build website</code>](https://github.com/krille-chan/fluffychat/commit/cf4f5a24ab311ae5d3c55947f6f14dd63d67e67d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1207,6 +1219,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Split parseSequenceHeaderProfile() into AV1 & AV2</code>](https://github.com/AOMediaCodec/libavif/commit/1814ba2a6236c28ea4d26a6aee21c739a98a88ee)
 - [ ] [<code>Initialize all offsets in avifGetRGBColorSpaceInfo</code>](https://github.com/AOMediaCodec/libavif/commit/8b318b63e20a1cc695aea3d8485ac3160023aac2)
 - [ ] [<code>Fix two bugs in parseAV2SequenceHeader()</code>](https://github.com/AOMediaCodec/libavif/commit/bd4e9485ab33a4e960d1a927fd51a86d8cd33231)
+- [ ] [<code>Free grid cell images if avifImageSplitGrid fails</code>](https://github.com/AOMediaCodec/libavif/commit/35f24cefc11c028687bc22aad103a00ea0d02089)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1514,6 +1527,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: user-oriented charttpl README rewrite (#22049)</code>](https://github.com/netdata/netdata.git/commit/421c60bb0d35ac1f741b31b3f4b96972ca82e9ba)
 - [ ] [<code>Improve DBENGINE log messages for datafile rotation and startup (#22047)</code>](https://github.com/netdata/netdata.git/commit/c24c7427b0caa318e3fab45d1c062e121d9886a3)
 - [ ] [<code>Fix wrong DBENGINE file names in logs (#22053)</code>](https://github.com/netdata/netdata.git/commit/97e8013121a3f5ed618d12d53db0fea97d7c9d8b)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-233-nightly.</code>](https://github.com/netdata/netdata.git/commit/38d0ee47bf45713fb91f44ea09aa0deec657f44e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
