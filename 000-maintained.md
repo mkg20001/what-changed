@@ -1206,6 +1206,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove avifCheckCodecVersionAVM()</code>](https://github.com/AOMediaCodec/libavif/commit/f856137610a36be1d632b3f9382bb171e67f9873)
 - [ ] [<code>Split parseSequenceHeaderProfile() into AV1 & AV2</code>](https://github.com/AOMediaCodec/libavif/commit/1814ba2a6236c28ea4d26a6aee21c739a98a88ee)
 - [ ] [<code>Initialize all offsets in avifGetRGBColorSpaceInfo</code>](https://github.com/AOMediaCodec/libavif/commit/8b318b63e20a1cc695aea3d8485ac3160023aac2)
+- [ ] [<code>Fix two bugs in parseAV2SequenceHeader()</code>](https://github.com/AOMediaCodec/libavif/commit/bd4e9485ab33a4e960d1a927fd51a86d8cd33231)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1512,6 +1513,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix SIGSEGV (contexts) (#22025)</code>](https://github.com/netdata/netdata.git/commit/336738b33b4c0f5ff0f8d0efdb5cabb970334823)
 - [ ] [<code>docs: user-oriented charttpl README rewrite (#22049)</code>](https://github.com/netdata/netdata.git/commit/421c60bb0d35ac1f741b31b3f4b96972ca82e9ba)
 - [ ] [<code>Improve DBENGINE log messages for datafile rotation and startup (#22047)</code>](https://github.com/netdata/netdata.git/commit/c24c7427b0caa318e3fab45d1c062e121d9886a3)
+- [ ] [<code>Fix wrong DBENGINE file names in logs (#22053)</code>](https://github.com/netdata/netdata.git/commit/97e8013121a3f5ed618d12d53db0fea97d7c9d8b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
