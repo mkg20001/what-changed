@@ -1228,6 +1228,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Pass AVIF_ENABLE_WERROR to libavif in the Android CI (#3133)</code>](https://github.com/AOMediaCodec/libavif/commit/7342fbb815e1493ed5329f380b1dbe015d102de3)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Explain _POSIX_VERSION >= 200112L test for fseeko</code>](https://github.com/AOMediaCodec/libavif/commit/f04579f4556d6120566e25dc3b0fc13feeab5471)
+- [ ] [<code>Use Tune IQ for layered image inter-frame encoding</code>](https://github.com/AOMediaCodec/libavif/commit/a33b3ad4f635a4a3cfbbf5b9131e9f656585f49a)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1541,6 +1542,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: correct SEND_EMAIL default value from YES to AUTO (#22057)</code>](https://github.com/netdata/netdata.git/commit/071a0b7622681e5ccc834096379105f1fcf96fdf)
 - [ ] [<code>docs: clarify streaming protocol architecture - not HTTP/HTTPS (#22055)</code>](https://github.com/netdata/netdata.git/commit/843038704e541d09f58b74ba58e4e40ca76254a9)
 - [ ] [<code>Regenerate integrations docs (#22061)</code>](https://github.com/netdata/netdata.git/commit/75b52898a057b43511f7d757a5bf8d5ef260af20)
+- [ ] [<code>Fix ACLK (#22051)</code>](https://github.com/netdata/netdata.git/commit/fa854401ac211a5eb648ab47255b7c4c86f449c1)
+- [ ] [<code>docs: add NVIDIA/Cumulus/Mellanox to SNMP collector vendor list (#22063)</code>](https://github.com/netdata/netdata.git/commit/4fd5abd82b4171b169814ff8d48a41c2ff01ba0b)
+- [ ] [<code>Improve dbengine memory protection message on startup (#22045)</code>](https://github.com/netdata/netdata.git/commit/084336fc5f9687904d0f6f79a2dfe12e454097c7)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
