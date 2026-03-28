@@ -117,6 +117,7 @@
 - [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
 - [ ] [<code>build: (deps): bump pretty_qr_code from 3.5.0 to 3.6.0</code>](https://github.com/krille-chan/fluffychat/commit/eaa7e8a1fc2bd1975c72152840e043f8cc352de3)
 - [ ] [<code>build: (deps): bump particles_network from 1.9.0 to 1.9.1</code>](https://github.com/krille-chan/fluffychat/commit/4b1970d613aa7fa718ea7910759c24b675fc408f)
+- [ ] [<code>build: (deps): bump record from 6.1.2 to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/beb142b340ea5425f740f9fb5cb5717d294a908c)
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
 - [ ] [<code>fix: get correct aspect ratio from VideoPlayerController</code>](https://github.com/krille-chan/fluffychat/commit/0c7c8f8d5a122f7ca05cb2cdf0edcd77a000ae03)
 - [ ] [<code>build: Update to matrix 6.1.0</code>](https://github.com/krille-chan/fluffychat/commit/2a390db509f0e535b0d60038bf88ab5c7273a63a)
@@ -435,6 +436,7 @@
 - [ ] [<code>refactor: Remove unused dependencies and add CI check</code>](https://github.com/krille-chan/fluffychat/commit/7128ba98b2f0acf084e54e197aedac7a0ee3cc90)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Add changelog</code>](https://github.com/krille-chan/fluffychat/commit/9fde066a5b98dc884e9682d1403a76f70490252c)
+- [ ] [<code>build: (deps): bump webrtc_interface from 1.4.0 to 1.5.1</code>](https://github.com/krille-chan/fluffychat/commit/64140f5781e44548db326c362645a79d5c86f46b)
 - [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
 - [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5c45e797f22e982e751375d7a4025b0be369b27b)
@@ -480,6 +482,9 @@
 - [ ] [<code>chore: Follow up fix build website</code>](https://github.com/krille-chan/fluffychat/commit/cf4f5a24ab311ae5d3c55947f6f14dd63d67e67d)
 - [ ] [<code>chore: Follow up build website</code>](https://github.com/krille-chan/fluffychat/commit/a3fc1bff01796e90de8a84db2607e29e9b6b4991)
   - <sub>Tags: <code>v2.5.1</code></sub>
+- [ ] [<code>refactor: Enable lint use_build_context_synchronously</code>](https://github.com/krille-chan/fluffychat/commit/3296c0d92d92d82e7e6d7649ee9d9e8187f253fc)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/9c90db876d7b6bebb59f78028422db89484f5aa9)
+- [ ] [<code>build: (deps): bump wakelock_plus from 1.5.0 to 1.5.1</code>](https://github.com/krille-chan/fluffychat/commit/f170989122e36be77b4b0ae02ea41aa72a524f32)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -537,6 +542,7 @@
 - [ ] [<code>fix: Do not display formatted body if body is just filename</code>](https://github.com/krille-chan/fluffychat/commit/2e22f8b2c4b5ecae136b4ab7c1f3309687cc5622)
 - [ ] [<code>build: (deps): bump pretty_qr_code from 3.5.0 to 3.6.0</code>](https://github.com/krille-chan/fluffychat/commit/eaa7e8a1fc2bd1975c72152840e043f8cc352de3)
 - [ ] [<code>build: (deps): bump particles_network from 1.9.0 to 1.9.1</code>](https://github.com/krille-chan/fluffychat/commit/4b1970d613aa7fa718ea7910759c24b675fc408f)
+- [ ] [<code>build: (deps): bump record from 6.1.2 to 6.2.0</code>](https://github.com/krille-chan/fluffychat/commit/beb142b340ea5425f740f9fb5cb5717d294a908c)
 - [ ] [<code>fix: Set mimetype for video player on web</code>](https://github.com/krille-chan/fluffychat/commit/dd1e2f34d31c305698df92b884d6cd88a14dec06)
 - [ ] [<code>fix: get correct aspect ratio from VideoPlayerController</code>](https://github.com/krille-chan/fluffychat/commit/0c7c8f8d5a122f7ca05cb2cdf0edcd77a000ae03)
 - [ ] [<code>build: Update to matrix 6.1.0</code>](https://github.com/krille-chan/fluffychat/commit/2a390db509f0e535b0d60038bf88ab5c7273a63a)
@@ -855,6 +861,7 @@
 - [ ] [<code>refactor: Remove unused dependencies and add CI check</code>](https://github.com/krille-chan/fluffychat/commit/7128ba98b2f0acf084e54e197aedac7a0ee3cc90)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>build: Add changelog</code>](https://github.com/krille-chan/fluffychat/commit/9fde066a5b98dc884e9682d1403a76f70490252c)
+- [ ] [<code>build: (deps): bump webrtc_interface from 1.4.0 to 1.5.1</code>](https://github.com/krille-chan/fluffychat/commit/64140f5781e44548db326c362645a79d5c86f46b)
 - [ ] [<code>chore: Add vs code settings</code>](https://github.com/krille-chan/fluffychat/commit/baf67c365d6da6cd8cdc599a4779565bad0e2c9b)
 - [ ] [<code>build: Increase build number</code>](https://github.com/krille-chan/fluffychat/commit/11649dd01e9e127108277d22851a06f3484531c0)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5c45e797f22e982e751375d7a4025b0be369b27b)
@@ -900,6 +907,9 @@
 - [ ] [<code>chore: Follow up fix build website</code>](https://github.com/krille-chan/fluffychat/commit/cf4f5a24ab311ae5d3c55947f6f14dd63d67e67d)
 - [ ] [<code>chore: Follow up build website</code>](https://github.com/krille-chan/fluffychat/commit/a3fc1bff01796e90de8a84db2607e29e9b6b4991)
   - <sub>Tags: <code>v2.5.1</code></sub>
+- [ ] [<code>refactor: Enable lint use_build_context_synchronously</code>](https://github.com/krille-chan/fluffychat/commit/3296c0d92d92d82e7e6d7649ee9d9e8187f253fc)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/9c90db876d7b6bebb59f78028422db89484f5aa9)
+- [ ] [<code>build: (deps): bump wakelock_plus from 1.5.0 to 1.5.1</code>](https://github.com/krille-chan/fluffychat/commit/f170989122e36be77b4b0ae02ea41aa72a524f32)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1545,6 +1555,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix ACLK (#22051)</code>](https://github.com/netdata/netdata.git/commit/fa854401ac211a5eb648ab47255b7c4c86f449c1)
 - [ ] [<code>docs: add NVIDIA/Cumulus/Mellanox to SNMP collector vendor list (#22063)</code>](https://github.com/netdata/netdata.git/commit/4fd5abd82b4171b169814ff8d48a41c2ff01ba0b)
 - [ ] [<code>Improve dbengine memory protection message on startup (#22045)</code>](https://github.com/netdata/netdata.git/commit/084336fc5f9687904d0f6f79a2dfe12e454097c7)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-242-nightly.</code>](https://github.com/netdata/netdata.git/commit/cde2228da3384dc5d33d449fdafdd9064b409500)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
