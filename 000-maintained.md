@@ -1316,6 +1316,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: preserve oauth failure context (#97) (thanks @mavam)</code>](https://github.com/steipete/mcporter/commit/72e3a16f0a74204c6489f56a7a68475774479f7a)
 - [ ] [<code>refactor: simplify oauth transport flow</code>](https://github.com/steipete/mcporter/commit/41e049ddc0fc06f43870e14583488e10df72f980)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(daemon): skip Bun virtual entry path in detached child spawn</code>](https://github.com/steipete/mcporter/commit/586c57d11ba19aec2292c19a0f425f11cdde7869)
+- [ ] [<code>fix: add managed runtime and dedupe keep-alive restarts (#125)</code>](https://github.com/steipete/mcporter/commit/8c66f1c49a682226587f7fe8fee0be4264dcbfae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: trim managed runtime spillover from #125</code>](https://github.com/steipete/mcporter/commit/b49af49402eb0af2bd85cd7878b3966ac9ef0873)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: parse object-type parameters as JSON in generated CLIs</code>](https://github.com/steipete/mcporter/commit/6a60e967a6716d1da9986cd5bb1cf54ad9e804aa)
+- [ ] [<code>fix: improve generated CLI object parsing (#114) (thanks @v2nic)</code>](https://github.com/steipete/mcporter/commit/382afa050212f837e6379fa589ea0a83ffdb043c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: support --args alias for config add (#93) (thanks @Jah-yee)</code>](https://github.com/steipete/mcporter/commit/97ac2090493426a641f19f36787aaad8ce3355f8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: reject unknown call flags (#35)</code>](https://github.com/steipete/mcporter/commit/d7cfc29bff86d98dca6cee4f3eaa24f4d36c9a54)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: clarify call flag escaping</code>](https://github.com/steipete/mcporter/commit/36b2584c17ac325fcac4ddb56bd651f2fc581ca1)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
