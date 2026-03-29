@@ -176,8 +176,10 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>keyboardManager.js: Don't re-activate a layout if it's already</code>](https://github.com/linuxmint/cinnamon/commit/d7ee48268287f34305904e492fd2ff3b5c7e5016)
 - [ ] [<code>power applet/settings: Add support for ambient light sensor. (#13649)</code>](https://github.com/linuxmint/cinnamon/commit/a00cb8b973bf502b056e0dda05605900d35a10fe)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>printers@cinnamon.org: Rework layout, use cupsd dbus notifications (#13674)</code>](https://github.com/linuxmint/cinnamon/commit/769757bd88da65d54144cc5f1e24ee00ae5de78b)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
