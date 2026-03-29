@@ -1258,77 +1258,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [mcporter](https://github.com/steipete/mcporter): [refs/tags/v0.7.3 → HEAD](https://github.com/steipete/mcporter/compare/refs/tags/v0.7.3...HEAD)
+#### [mcporter](https://github.com/steipete/mcporter): [refs/tags/v0.8.1 → HEAD](https://github.com/steipete/mcporter/compare/refs/tags/v0.8.1...HEAD)
 
-- [ ] [<code>chore: start 0.7.4</code>](https://github.com/steipete/mcporter/commit/6b9fa78bdbec289908ebfb432b33cdeb1827f982)
-- [ ] [<code>fix: preserve config imports defaults</code>](https://github.com/steipete/mcporter/commit/d55b813c4f4b1bc058e8b29b7db078e48b56d6d6)
-- [ ] [<code>chore: update copyright year to 2026</code>](https://github.com/steipete/mcporter/commit/8cc23a23881d982bf3fb6eb37b6a2f6633c3987d)
-- [ ] [<code>chore(deps): update dependencies to latest</code>](https://github.com/steipete/mcporter/commit/938c09cf0f160b92e6f567d531b44fd710e0a0b7)
-- [ ] [<code>fix(oauth): three fixes for headless servers and non-standard OAuth providers</code>](https://github.com/steipete/mcporter/commit/31142e03a6eb092d98649bc5ae8cbfbd08cc9f0d)
-- [ ] [<code>fix: close callback server on persistence errors during stale-client check</code>](https://github.com/steipete/mcporter/commit/b908c4bbe3f92865138195093f04b832d91fab26)
-- [ ] [<code>fix: harden oauth headless flow + add scope override/tests (#72) (thanks @mgonto)</code>](https://github.com/steipete/mcporter/commit/98c300b3dc14d0aebcd6e8c5ef02c351a8de7644)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: collect all JSON entries from MCP content arrays instead of only the first</code>](https://github.com/steipete/mcporter/commit/9746dab9d21bcbe8e114510c56668f6af5afbc43)
-- [ ] [<code>fix: harden raw output inspect depth and add regression coverage (#91) (thanks @Blankdlh)</code>](https://github.com/steipete/mcporter/commit/cb0639273864d837ef9508bb8a50ef15aa20f434)
-- [ ] [<code>fix(oauth): prevent race condition in authorization code wait</code>](https://github.com/steipete/mcporter/commit/5edc213a9e3c13ca2d9d313fe7e6966eae407e24)
-- [ ] [<code>fix: stabilize oauth wait/redirect deferred lifecycle (#70) (thanks @monotykamary)</code>](https://github.com/steipete/mcporter/commit/30abe3d9a5cd916103420ea76e965e9f6d7885e6)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add --raw-strings flag to prevent numeric string coercion</code>](https://github.com/steipete/mcporter/commit/079b217f637b257f1066404ec7d0ccfedb8aea68)
-- [ ] [<code>fix: align --raw-strings and --no-coerce semantics (#59) (thanks @nobrainer-tech)</code>](https://github.com/steipete/mcporter/commit/cb179c903d668b069e39e2c17a61fa241b06d1c3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: document call coercion flags</code>](https://github.com/steipete/mcporter/commit/8988adda77d40adb46408ea0fe384360733c2dae)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat: add image content block support</code>](https://github.com/steipete/mcporter/commit/11bbd67969b7aaaebb88a100c954522c6385ad8b)
-- [ ] [<code>fix: make image handling opt-in and preserve output contracts (#61) (thanks @daniella-11ways)</code>](https://github.com/steipete/mcporter/commit/7ff297ef2eb913cca4941d9f354a7eaac911ca8c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor: streamline call parsing/output pipeline</code>](https://github.com/steipete/mcporter/commit/af2f60eecf485d6fa4b6e5b71ce589d784e85f50)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Fix 405 misclassified as auth error in error-classifier</code>](https://github.com/steipete/mcporter/commit/67785b95ebe3266befd8c3da1b30d27662bd5575)
-- [ ] [<code>Discover OAuth scopes from protected resource metadata</code>](https://github.com/steipete/mcporter/commit/e1fdd99b2326460373c8b1439f66dde93445db0e)
-- [ ] [<code>fix: add oauth retry regression coverage (#48) (thanks @caseyg)</code>](https://github.com/steipete/mcporter/commit/83db4fb1ec5457a3ddbe5a0f2fdb84db79a14bec)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: support JSONC in config files</code>](https://github.com/steipete/mcporter/commit/16a09ae0486b943faf0dc63cbdafadb5ea8785aa)
-- [ ] [<code>fix: finalize jsonc config support coverage (#42) (thanks @aryasaatvik)</code>](https://github.com/steipete/mcporter/commit/7270f1f7b9236514fd98a092131fa930cce44a32)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(cli): extract auth/help and template help modules</code>](https://github.com/steipete/mcporter/commit/0c3e8233de94b5823dceb66f35ab8c72737b5c1c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(cli): split call argument parsing helpers</code>](https://github.com/steipete/mcporter/commit/507bb6de9516ea25242282b17ae9e3486d40cb6c)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>refactor(daemon): extract host support utilities</code>](https://github.com/steipete/mcporter/commit/41b0cbcc9cc5472d64f9507dc95230abec9037a8)
-- [ ] [<code>refactor(config): split path discovery and config reading</code>](https://github.com/steipete/mcporter/commit/a272e00784bad2750c7803963410e6bfcf0a3726)
-- [ ] [<code>feat: add JSON Schema generation for config files</code>](https://github.com/steipete/mcporter/commit/1dc2e70061c9fe2be738d92db7a2151c32b760b1)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>fix: stabilize generated config schema + oauthScope coverage (#43) (thanks @aryasaatvik)</code>](https://github.com/steipete/mcporter/commit/74dd794645b583eee1db81c4e5fff97725a14185)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore: bump version to 0.8.0</code>](https://github.com/steipete/mcporter/commit/8af1a77c45f9b0c3f1262994b2dde9fd1b11d5c6)
-- [ ] [<code>fix: detect auth errors from error.code property (StreamableHTTPError/SseError)</code>](https://github.com/steipete/mcporter/commit/cc06993494a37ef314c05ae4448bd0be8a5945af)
-- [ ] [<code>fix: handle resource content blocks in output rendering</code>](https://github.com/steipete/mcporter/commit/2bd30c235c8cbb0278e0225400c703e60d3f1b6d)
-- [ ] [<code>fix: render resource content blocks consistently (#124) (thanks @mvanhorn)</code>](https://github.com/steipete/mcporter/commit/e7c6bef1a27c45de7d8fc65fafda002336b9791a)
-- [ ] [<code>fix(result-utils): avoid collapsing error payloads to data</code>](https://github.com/steipete/mcporter/commit/a04d663f03522baaa51804918323e76c86a26180)
-- [ ] [<code>fix: preserve full structured payloads (#106) (thanks @AielloChan)</code>](https://github.com/steipete/mcporter/commit/666fec0fa6c7b64d7550f7dce8ff7f8723bf1921)
-- [ ] [<code>fix: strip static Authorization header when OAuth is active</code>](https://github.com/steipete/mcporter/commit/6d7c54646a3d6b75db3b4b7f93d8a9175125033b)
-- [ ] [<code>fix: prefer oauth auth headers over static overrides (#123) (thanks @ahonn)</code>](https://github.com/steipete/mcporter/commit/e77b22378b96e633e3a5eb8a30aad7a6a79abaa8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: keep json output valid on raw fallback (#128) (thanks @armanddp)</code>](https://github.com/steipete/mcporter/commit/914e03f89c9f1cf57c8850cc200946d064412100)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(oauth): preserve auth failure context</code>](https://github.com/steipete/mcporter/commit/a61c0475f89589e2ed041c99f2267e93979f76b4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: preserve oauth failure context (#97) (thanks @mavam)</code>](https://github.com/steipete/mcporter/commit/72e3a16f0a74204c6489f56a7a68475774479f7a)
-- [ ] [<code>refactor: simplify oauth transport flow</code>](https://github.com/steipete/mcporter/commit/41e049ddc0fc06f43870e14583488e10df72f980)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(daemon): skip Bun virtual entry path in detached child spawn</code>](https://github.com/steipete/mcporter/commit/586c57d11ba19aec2292c19a0f425f11cdde7869)
-- [ ] [<code>fix: add managed runtime and dedupe keep-alive restarts (#125)</code>](https://github.com/steipete/mcporter/commit/8c66f1c49a682226587f7fe8fee0be4264dcbfae)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: trim managed runtime spillover from #125</code>](https://github.com/steipete/mcporter/commit/b49af49402eb0af2bd85cd7878b3966ac9ef0873)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: parse object-type parameters as JSON in generated CLIs</code>](https://github.com/steipete/mcporter/commit/6a60e967a6716d1da9986cd5bb1cf54ad9e804aa)
-- [ ] [<code>fix: improve generated CLI object parsing (#114) (thanks @v2nic)</code>](https://github.com/steipete/mcporter/commit/382afa050212f837e6379fa589ea0a83ffdb043c)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>fix: support --args alias for config add (#93) (thanks @Jah-yee)</code>](https://github.com/steipete/mcporter/commit/97ac2090493426a641f19f36787aaad8ce3355f8)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: reject unknown call flags (#35)</code>](https://github.com/steipete/mcporter/commit/d7cfc29bff86d98dca6cee4f3eaa24f4d36c9a54)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: clarify call flag escaping</code>](https://github.com/steipete/mcporter/commit/36b2584c17ac325fcac4ddb56bd651f2fc581ca1)
+- [ ] [<code>docs: bump changelog to 0.8.2</code>](https://github.com/steipete/mcporter/commit/53539d90a9a5f2066d7a141c39330873303b0d71)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1643,6 +1575,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve dbengine memory protection message on startup (#22045)</code>](https://github.com/netdata/netdata.git/commit/084336fc5f9687904d0f6f79a2dfe12e454097c7)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-242-nightly.</code>](https://github.com/netdata/netdata.git/commit/cde2228da3384dc5d33d449fdafdd9064b409500)
 - [ ] [<code>Regenerate integrations docs (#22070)</code>](https://github.com/netdata/netdata.git/commit/bd37f67c61ebcfdf6912bf6e7d5240667edb8b07)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-244-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9039a19f99821b6383ed4bcd5dda740e0fe7afe)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
