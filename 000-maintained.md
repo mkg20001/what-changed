@@ -492,6 +492,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Swedish)</code>](https://github.com/krille-chan/fluffychat/commit/2c161ce7daed19076a3ab8100d66e16a6332cc14)
 - [ ] [<code>chore(translations): Translated using Weblate (Catalan)</code>](https://github.com/krille-chan/fluffychat/commit/c994744bdc320dd594a7a9e5a944923c419649b5)
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/30455601e9be463eb3c82f07181848996c40fab5)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/93c8339e1f62da21ed9b507f5a00f6e1ac9cd6da)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5aa7ff8dfaf8f34c130e041deb5b0e392d9422b9)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/30addb944fab54e6b500d9ff2912a5f577e39fc4)
+- [ ] [<code>chore(translations): Translated using Weblate (Catalan)</code>](https://github.com/krille-chan/fluffychat/commit/53e20515829f54d1e34dc341ba4b2274b22ffe7e)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -924,6 +928,10 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Swedish)</code>](https://github.com/krille-chan/fluffychat/commit/2c161ce7daed19076a3ab8100d66e16a6332cc14)
 - [ ] [<code>chore(translations): Translated using Weblate (Catalan)</code>](https://github.com/krille-chan/fluffychat/commit/c994744bdc320dd594a7a9e5a944923c419649b5)
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/30455601e9be463eb3c82f07181848996c40fab5)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/93c8339e1f62da21ed9b507f5a00f6e1ac9cd6da)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5aa7ff8dfaf8f34c130e041deb5b0e392d9422b9)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/30addb944fab54e6b500d9ff2912a5f577e39fc4)
+- [ ] [<code>chore(translations): Translated using Weblate (Catalan)</code>](https://github.com/krille-chan/fluffychat/commit/53e20515829f54d1e34dc341ba4b2274b22ffe7e)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1576,6 +1584,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-242-nightly.</code>](https://github.com/netdata/netdata.git/commit/cde2228da3384dc5d33d449fdafdd9064b409500)
 - [ ] [<code>Regenerate integrations docs (#22070)</code>](https://github.com/netdata/netdata.git/commit/bd37f67c61ebcfdf6912bf6e7d5240667edb8b07)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-244-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9039a19f99821b6383ed4bcd5dda740e0fe7afe)
+- [ ] [<code>Improve ML model loading (#22073)</code>](https://github.com/netdata/netdata.git/commit/56852a144e809c9d1489f367fb39124104e66daf)
+- [ ] [<code>Optimize EBPF memory handling and PID indexing. (#22050)</code>](https://github.com/netdata/netdata.git/commit/fe4eec7199f88322cff0d26f33574c1b1ffe8da3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
