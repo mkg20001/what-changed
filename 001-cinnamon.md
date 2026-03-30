@@ -178,8 +178,14 @@
 - [ ] [<code>power applet/settings: Add support for ambient light sensor. (#13649)</code>](https://github.com/linuxmint/cinnamon/commit/a00cb8b973bf502b056e0dda05605900d35a10fe)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>printers@cinnamon.org: Rework layout, use cupsd dbus notifications (#13674)</code>](https://github.com/linuxmint/cinnamon/commit/769757bd88da65d54144cc5f1e24ee00ae5de78b)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>extend DESKTOP_ACTION_ICON_NAMES (#13641)</code>](https://github.com/linuxmint/cinnamon/commit/6316ca843be948510d080071556b654ce3800ad9)
+- [ ] [<code>Remove previous track actors from coverBox (#13648)</code>](https://github.com/linuxmint/cinnamon/commit/9fa18e6c501c1abd358281c98ae0ebe9cb370f60)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>ListSettingsWidget: allow item edit only if edit button is visible (#13671)</code>](https://github.com/linuxmint/cinnamon/commit/d2e07c59c1e8e7a2f850e283fca60e782ac9f9ac)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>main.js: Don't import NetworkAgent unless nm_agent support is enabled. (#13651)</code>](https://github.com/linuxmint/cinnamon/commit/a7af45cb6a6e7a52e35b7c841ce1385b987af407)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -360,18 +366,23 @@
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
+- [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
