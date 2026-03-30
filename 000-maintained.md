@@ -499,6 +499,7 @@
 - [ ] [<code>fix: Send on enter broken on iOS</code>](https://github.com/krille-chan/fluffychat/commit/f0545aaa85c96c331b3f273052cdab469a04965f)
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/6b76b6de3cd49a0819db029646abe61cb44ce0d6)
 - [ ] [<code>fix: Open deep link on android</code>](https://github.com/krille-chan/fluffychat/commit/383d7085006161a4df291d0840bca4825bcb0d84)
+- [ ] [<code>fix: DMs in spaces are displayed as empty chats</code>](https://github.com/krille-chan/fluffychat/commit/c35e3f8b2b0b6b1c83b426b40b05174406c780c3)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -938,6 +939,7 @@
 - [ ] [<code>fix: Send on enter broken on iOS</code>](https://github.com/krille-chan/fluffychat/commit/f0545aaa85c96c331b3f273052cdab469a04965f)
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/6b76b6de3cd49a0819db029646abe61cb44ce0d6)
 - [ ] [<code>fix: Open deep link on android</code>](https://github.com/krille-chan/fluffychat/commit/383d7085006161a4df291d0840bca4825bcb0d84)
+- [ ] [<code>fix: DMs in spaces are displayed as empty chats</code>](https://github.com/krille-chan/fluffychat/commit/c35e3f8b2b0b6b1c83b426b40b05174406c780c3)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1267,6 +1269,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>Explain _POSIX_VERSION >= 200112L test for fseeko</code>](https://github.com/AOMediaCodec/libavif/commit/f04579f4556d6120566e25dc3b0fc13feeab5471)
 - [ ] [<code>Use Tune IQ for layered image inter-frame encoding</code>](https://github.com/AOMediaCodec/libavif/commit/a33b3ad4f635a4a3cfbbf5b9131e9f656585f49a)
+- [ ] [<code>Make libaom encoder diagnostics null-safe (#3125)</code>](https://github.com/AOMediaCodec/libavif/commit/2b277007e8f2900527715926c57ba501d1f4f963)
+- [ ] [<code>Fix minor coverity finding (#3150)</code>](https://github.com/AOMediaCodec/libavif/commit/f0eb53ea00f34e3ca7d72273f61b005a2da41166)
+- [ ] [<code>codec_aom: improve decoder diagnostics consistency (#3151)</code>](https://github.com/AOMediaCodec/libavif/commit/ffc142f3a63a65637982fdd6d33839a7ed109835)
+- [ ] [<code>Minor PrintEncodingSettings() refactor (#3152)</code>](https://github.com/AOMediaCodec/libavif/commit/7d634088b0de78b8a6c5b0c76f62faf88142801b)
+- [ ] [<code>Add a changelog entry for PR #3068</code>](https://github.com/AOMediaCodec/libavif/commit/d8f90157e1884e79ff60be163474d87efc25a4fe)
+- [ ] [<code>Simplify casts for gridCells</code>](https://github.com/AOMediaCodec/libavif/commit/ee55a76fce172a0a8e5afe3eab3e74538c45a0d6)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1597,6 +1605,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Optimize ML prediction hot path: circular buffer and reduce allocations (#22042)</code>](https://github.com/netdata/netdata.git/commit/f5f237e27e137e17e6e906ceea88a9ea52ff59ba)
 - [ ] [<code>docs: add deprecation notice for /api/v1/charts endpoint (#21974)</code>](https://github.com/netdata/netdata.git/commit/66d6c54f592c74ea1798669338426f7e52536422)
 - [ ] [<code>docs: add Installation section to metrics-centralization-points README (#22036)</code>](https://github.com/netdata/netdata.git/commit/8e263a291bf522b2cb70d8b9e78d288f01ee8a67)
+- [ ] [<code>feat(go.d): add secretstore config resolution and logging (#22083)</code>](https://github.com/netdata/netdata.git/commit/3b48ac828cd5f35b562025584cf54186fb586817)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Strip intermediate objects from flattened JSON (#22085)</code>](https://github.com/netdata/netdata.git/commit/912aa08a3689432c289a57d303942e68220a4b71)
+- [ ] [<code>docs(go.d/mssql): add Windows Authentication setup guide (#22089)</code>](https://github.com/netdata/netdata.git/commit/d1db2c099094f3732f23d89f9069c2791af08455)
+- [ ] [<code>refactor(go.d/azure_monitor): replace profiles magic keyword (#22088)</code>](https://github.com/netdata/netdata.git/commit/d1696cde89d3452a42083cf0040081cc552d1e3a)
+- [ ] [<code>Simplify development on Windows (package-windows.sh) (#22087)</code>](https://github.com/netdata/netdata.git/commit/3116f98b2f06c39672e558023ded73c61eb6eedf)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Regenerate integrations docs (#22090)</code>](https://github.com/netdata/netdata.git/commit/3e99783b1fd8279329b455a1441da48e83c1f26c)
+- [ ] [<code>apps.plugin: add per-Windows-service process tree grouping (#21925)</code>](https://github.com/netdata/netdata.git/commit/753ea0a2c1258838580f076a3263d9841f4d294a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve journal file logging (#22086)</code>](https://github.com/netdata/netdata.git/commit/bb62cfdcf4ad7ed24a32a735c7b5f067879f1091)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2851,6 +2870,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>LGPL 2.1 in RTF file format</code>](https://github.com/axcore/tartube/commit/45980081853d69bdcc99e411215ebb41c47f4a00)
 - [ ] [<code>Instalelr improvements</code>](https://github.com/axcore/tartube/commit/6c893fbbb213eb0776ebb0949637e8a789556723)
 - [ ] [<code>Misc fixes</code>](https://github.com/axcore/tartube/commit/7b28f377184af8314eb932a43c0771798474f92c)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Various fixes</code>](https://github.com/axcore/tartube/commit/8c1866ad4886ebd56db113ed87b4c2aa3694a694)
   - <sub>Keywords: <code>bin</code></sub>
 > Dropped timezonemap - no appropriate URL found OrderedDict({'attr_path': 'timezonemap', 'home_url': 'https://launchpad.net/timezonemap', 'src_url': 'lp:timezonemap', 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': '58'})
 
