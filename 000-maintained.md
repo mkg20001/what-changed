@@ -496,6 +496,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5aa7ff8dfaf8f34c130e041deb5b0e392d9422b9)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/30addb944fab54e6b500d9ff2912a5f577e39fc4)
 - [ ] [<code>chore(translations): Translated using Weblate (Catalan)</code>](https://github.com/krille-chan/fluffychat/commit/53e20515829f54d1e34dc341ba4b2274b22ffe7e)
+- [ ] [<code>fix: Send on enter broken on iOS</code>](https://github.com/krille-chan/fluffychat/commit/f0545aaa85c96c331b3f273052cdab469a04965f)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/6b76b6de3cd49a0819db029646abe61cb44ce0d6)
+- [ ] [<code>fix: Open deep link on android</code>](https://github.com/krille-chan/fluffychat/commit/383d7085006161a4df291d0840bca4825bcb0d84)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -932,6 +935,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/5aa7ff8dfaf8f34c130e041deb5b0e392d9422b9)
 - [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/30addb944fab54e6b500d9ff2912a5f577e39fc4)
 - [ ] [<code>chore(translations): Translated using Weblate (Catalan)</code>](https://github.com/krille-chan/fluffychat/commit/53e20515829f54d1e34dc341ba4b2274b22ffe7e)
+- [ ] [<code>fix: Send on enter broken on iOS</code>](https://github.com/krille-chan/fluffychat/commit/f0545aaa85c96c331b3f273052cdab469a04965f)
+- [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/6b76b6de3cd49a0819db029646abe61cb44ce0d6)
+- [ ] [<code>fix: Open deep link on android</code>](https://github.com/krille-chan/fluffychat/commit/383d7085006161a4df291d0840bca4825bcb0d84)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1586,6 +1592,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-244-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9039a19f99821b6383ed4bcd5dda740e0fe7afe)
 - [ ] [<code>Improve ML model loading (#22073)</code>](https://github.com/netdata/netdata.git/commit/56852a144e809c9d1489f367fb39124104e66daf)
 - [ ] [<code>Optimize EBPF memory handling and PID indexing. (#22050)</code>](https://github.com/netdata/netdata.git/commit/fe4eec7199f88322cff0d26f33574c1b1ffe8da3)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-247-nightly.</code>](https://github.com/netdata/netdata.git/commit/7d5764d07a434021fe8a3a307ef4f97ed73bd967)
+- [ ] [<code>fix(go.d/secretsctl): handle userconfig for job IDs (#22081)</code>](https://github.com/netdata/netdata.git/commit/6e7fa53a278e41d51796b5c6c13f556483f3c9d0)
+- [ ] [<code>Optimize ML prediction hot path: circular buffer and reduce allocations (#22042)</code>](https://github.com/netdata/netdata.git/commit/f5f237e27e137e17e6e906ceea88a9ea52ff59ba)
+- [ ] [<code>docs: add deprecation notice for /api/v1/charts endpoint (#21974)</code>](https://github.com/netdata/netdata.git/commit/66d6c54f592c74ea1798669338426f7e52536422)
+- [ ] [<code>docs: add Installation section to metrics-centralization-points README (#22036)</code>](https://github.com/netdata/netdata.git/commit/8e263a291bf522b2cb70d8b9e78d288f01ee8a67)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -3110,6 +3121,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>types: fix regexp `/.../s` flag inversion</code>](https://github.com/jow-/ucode/commit/8a8b4d12a867f8cbf1f890fe0029b67aefaa15dd)
 - [ ] [<code>lib: slightly expand regexp() JSDoc</code>](https://github.com/jow-/ucode/commit/d7bc7adcb99d3872782258c4970f902faa7ac17b)
 - [ ] [<code>nl80211: fix HE MCS set parsing</code>](https://github.com/jow-/ucode/commit/826fbfef2df9b3607d9aa8cf8a7abf25874540f8)
+- [ ] [<code>socket: strip brackets from IPv6 addresses in addrinfo()</code>](https://github.com/jow-/ucode/commit/617967a3ceb9cfcc9bcd60e62ccb3f0888c32e0a)
+- [ ] [<code>socket: increase IPv6 scope ID buffer to support 15-char interface names</code>](https://github.com/jow-/ucode/commit/a078b72a90bb1482625c7ffb22753a58a9722f9b)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
