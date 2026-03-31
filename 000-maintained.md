@@ -503,6 +503,10 @@
 - [ ] [<code>build: (deps): bump flutter_webrtc from 1.3.1 to 1.4.1</code>](https://github.com/krille-chan/fluffychat/commit/6c461ba5f31ca8c3619e995ec24fccec964ef959)
 - [ ] [<code>build: (deps): bump package_info_plus from 9.0.0 to 9.0.1</code>](https://github.com/krille-chan/fluffychat/commit/5c03bfa16cd9562335c20b9340f56bce7b6cbac4)
 - [ ] [<code>chore: Highlight unread chats at timestamp</code>](https://github.com/krille-chan/fluffychat/commit/afaf61bbeb218db6108628259cbcd5211bf98b18)
+- [ ] [<code>feat: Persist chat filters</code>](https://github.com/krille-chan/fluffychat/commit/6bc233ceeee6afac500b48528f991ff610bb28bf)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/954797e4f4b1db890945a4bd645ad4f4f2bd3836)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5af75321593fbc87e89ab9b61d6a74d4a7490673)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6da3627fabd27089541a93cf26ed6422a31bcc62)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -946,6 +950,10 @@
 - [ ] [<code>build: (deps): bump flutter_webrtc from 1.3.1 to 1.4.1</code>](https://github.com/krille-chan/fluffychat/commit/6c461ba5f31ca8c3619e995ec24fccec964ef959)
 - [ ] [<code>build: (deps): bump package_info_plus from 9.0.0 to 9.0.1</code>](https://github.com/krille-chan/fluffychat/commit/5c03bfa16cd9562335c20b9340f56bce7b6cbac4)
 - [ ] [<code>chore: Highlight unread chats at timestamp</code>](https://github.com/krille-chan/fluffychat/commit/afaf61bbeb218db6108628259cbcd5211bf98b18)
+- [ ] [<code>feat: Persist chat filters</code>](https://github.com/krille-chan/fluffychat/commit/6bc233ceeee6afac500b48528f991ff610bb28bf)
+- [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/954797e4f4b1db890945a4bd645ad4f4f2bd3836)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5af75321593fbc87e89ab9b61d6a74d4a7490673)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6da3627fabd27089541a93cf26ed6422a31bcc62)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1281,6 +1289,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Minor PrintEncodingSettings() refactor (#3152)</code>](https://github.com/AOMediaCodec/libavif/commit/7d634088b0de78b8a6c5b0c76f62faf88142801b)
 - [ ] [<code>Add a changelog entry for PR #3068</code>](https://github.com/AOMediaCodec/libavif/commit/d8f90157e1884e79ff60be163474d87efc25a4fe)
 - [ ] [<code>Simplify casts for gridCells</code>](https://github.com/AOMediaCodec/libavif/commit/ee55a76fce172a0a8e5afe3eab3e74538c45a0d6)
+- [ ] [<code>Document the invariant on avifROStream</code>](https://github.com/AOMediaCodec/libavif/commit/02988cd354c0186050f387bb5a73c1e78b2d5674)
+- [ ] [<code>Check width * 4 in avifReorderARGBThenConvertToYUV</code>](https://github.com/AOMediaCodec/libavif/commit/78888a44f6b52332e7b509a709b952a60f9e04d4)
+- [ ] [<code>Statically assert a strcpy is safe</code>](https://github.com/AOMediaCodec/libavif/commit/58c93df409d994bd815f6744772cc260c900bcf0)
+- [ ] [<code>Follow up on aomDiagPrintf()</code>](https://github.com/AOMediaCodec/libavif/commit/58b3459130636b0bf282d43ea27ecf6bacc82c0c)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1628,6 +1640,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-262-nightly.</code>](https://github.com/netdata/netdata.git/commit/330819b4b4d532fd67f2bb64dfbd1286eb368248)
 - [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.1.0 to 1.2.0 (#22048)</code>](https://github.com/netdata/netdata.git/commit/05fcccbfaace8a5f3e8348d2d308abf9dfa504d5)
 - [ ] [<code>docs: add section on changing the default port (#22084)</code>](https://github.com/netdata/netdata.git/commit/f1dcd09edfecba5b6fe662a5083047987c31c68b)
+- [ ] [<code>refactor(go.d/azure_monitor): redesign discovery and profile selection (#22095)</code>](https://github.com/netdata/netdata.git/commit/2364d3b09bfdee95fb17114fbe2597dbdc2a4cd0)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Regenerate integrations docs (#22096)</code>](https://github.com/netdata/netdata.git/commit/9384321bee9fcebd5dfbf758c807bcddfd8fb7b8)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PID cleanup loop in EBPF to avoid use-after-free errors (#22098)</code>](https://github.com/netdata/netdata.git/commit/137e28a63ead442416ab21900e5fdc2786a238ef)
+- [ ] [<code>docs(secretstore): improve secret store backend documentation (#22099)</code>](https://github.com/netdata/netdata.git/commit/eecca9a91b2104cdea0d25350ec7d0a0b834e32a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix UB in tzif_read_be64() (#22097)</code>](https://github.com/netdata/netdata.git/commit/3baba7a8295c89e6ebdeb9a02b719b1ce2d3367e)
+- [ ] [<code>Fix Coverity (#22094)</code>](https://github.com/netdata/netdata.git/commit/5dd4257202e984f21c9b0c61e4a088041b27011b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
