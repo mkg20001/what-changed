@@ -1616,6 +1616,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>apps.plugin: add per-Windows-service process tree grouping (#21925)</code>](https://github.com/netdata/netdata.git/commit/753ea0a2c1258838580f076a3263d9841f4d294a)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Improve journal file logging (#22086)</code>](https://github.com/netdata/netdata.git/commit/bb62cfdcf4ad7ed24a32a735c7b5f067879f1091)
+- [ ] [<code>Regenerate integrations docs (#22092)</code>](https://github.com/netdata/netdata.git/commit/488370627864160bf951c19bc1c33ad8df68eb98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Remove VLA (variable-length arrays) from collectors (#22066)</code>](https://github.com/netdata/netdata.git/commit/cff3aaef92e644bdf94b132064471f0f9a5336ea)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2653,6 +2656,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(android): update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08ab7b25782340912e73618796da147791133030)
 - [ ] [<code>Ukrainian translations (#239)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5184b74e894207937f6f8a5a1d04d26a65e70ed)
 - [ ] [<code>fix(gui): disable arz language due to crash when rendering text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e5b9dc5f638e5ba9626bb2cac3200f2c6beebf8)
+- [ ] [<code>fix(lib): 0xff means absent for firmware version</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46af7421d34e1a9b2b177dc8498c3e0acfeba82f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
