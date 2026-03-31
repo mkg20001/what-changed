@@ -500,6 +500,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/6b76b6de3cd49a0819db029646abe61cb44ce0d6)
 - [ ] [<code>fix: Open deep link on android</code>](https://github.com/krille-chan/fluffychat/commit/383d7085006161a4df291d0840bca4825bcb0d84)
 - [ ] [<code>fix: DMs in spaces are displayed as empty chats</code>](https://github.com/krille-chan/fluffychat/commit/c35e3f8b2b0b6b1c83b426b40b05174406c780c3)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.3.1 to 1.4.1</code>](https://github.com/krille-chan/fluffychat/commit/6c461ba5f31ca8c3619e995ec24fccec964ef959)
+- [ ] [<code>build: (deps): bump package_info_plus from 9.0.0 to 9.0.1</code>](https://github.com/krille-chan/fluffychat/commit/5c03bfa16cd9562335c20b9340f56bce7b6cbac4)
+- [ ] [<code>chore: Highlight unread chats at timestamp</code>](https://github.com/krille-chan/fluffychat/commit/afaf61bbeb218db6108628259cbcd5211bf98b18)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -940,6 +943,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Basque)</code>](https://github.com/krille-chan/fluffychat/commit/6b76b6de3cd49a0819db029646abe61cb44ce0d6)
 - [ ] [<code>fix: Open deep link on android</code>](https://github.com/krille-chan/fluffychat/commit/383d7085006161a4df291d0840bca4825bcb0d84)
 - [ ] [<code>fix: DMs in spaces are displayed as empty chats</code>](https://github.com/krille-chan/fluffychat/commit/c35e3f8b2b0b6b1c83b426b40b05174406c780c3)
+- [ ] [<code>build: (deps): bump flutter_webrtc from 1.3.1 to 1.4.1</code>](https://github.com/krille-chan/fluffychat/commit/6c461ba5f31ca8c3619e995ec24fccec964ef959)
+- [ ] [<code>build: (deps): bump package_info_plus from 9.0.0 to 9.0.1</code>](https://github.com/krille-chan/fluffychat/commit/5c03bfa16cd9562335c20b9340f56bce7b6cbac4)
+- [ ] [<code>chore: Highlight unread chats at timestamp</code>](https://github.com/krille-chan/fluffychat/commit/afaf61bbeb218db6108628259cbcd5211bf98b18)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1619,6 +1625,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#22092)</code>](https://github.com/netdata/netdata.git/commit/488370627864160bf951c19bc1c33ad8df68eb98)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Remove VLA (variable-length arrays) from collectors (#22066)</code>](https://github.com/netdata/netdata.git/commit/cff3aaef92e644bdf94b132064471f0f9a5336ea)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-262-nightly.</code>](https://github.com/netdata/netdata.git/commit/330819b4b4d532fd67f2bb64dfbd1286eb368248)
+- [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.1.0 to 1.2.0 (#22048)</code>](https://github.com/netdata/netdata.git/commit/05fcccbfaace8a5f3e8348d2d308abf9dfa504d5)
+- [ ] [<code>docs: add section on changing the default port (#22084)</code>](https://github.com/netdata/netdata.git/commit/f1dcd09edfecba5b6fe662a5083047987c31c68b)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2658,6 +2667,27 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gui): disable arz language due to crash when rendering text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e5b9dc5f638e5ba9626bb2cac3200f2c6beebf8)
 - [ ] [<code>fix(lib): 0xff means absent for firmware version</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46af7421d34e1a9b2b177dc8498c3e0acfeba82f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ada2a4a5478a88b19d5ee65a05da8d69f0c8204b)
+- [ ] [<code>test(android): crash in android emulator</code>](https://github.com/Oppzippy/OpenSCQ30/commit/12b4d8f9d3d5012e80a5e334ed53e074ce8ffb45)
+- [ ] [<code>feat: new logo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0f3e3d5244a30dbf051de4843ba43e829ac1213c)
+- [ ] [<code>feat(android): device selection redesign</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91be7dc8c88554ad414b053c40fe665e4751e546)
+- [ ] [<code>refactor(android): organize deviceselection composables</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d31a28402020a93aad17337e1da48dc0427ea5d9)
+- [ ] [<code>refactor(android): organize devicesettings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98af0aaac4032d88f214b82814f1e25adb92416b)
+- [ ] [<code>feat(android): redesign device settings category selection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62c6c3d6a9b1e2c2dd4b1932cd46eac9e579e395)
+- [ ] [<code>feat(android): redesign equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6603dd16373feaf1aded444cc29e21efd5a667dd)
+- [ ] [<code>feat(android): add in app setting to change light/dark theme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/022f8ecc4ada108e650e34335a00f8d8b47338fd)
+- [ ] [<code>feat(android): add in app dynamic color toggle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ddb32dd8bb71231d56f6636f810c31495abc5e1a)
+- [ ] [<code>fix(android): copy logs to clipboard button should fill max width</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11d317152495f02a6ac392f48fd1c9b7e2ed12d8)
+- [ ] [<code>refactor(android): make use of OnSharedPreferenceChangeListener</code>](https://github.com/Oppzippy/OpenSCQ30/commit/471c8190710c2848b374d0c118756acd86113e12)
+- [ ] [<code>feat(android): use new device card design for add device screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82d18b07f7eab836b8425c121b0e9fad641d11d5)
+- [ ] [<code>fix(android): use primary tab row for equalizer tabs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cdb18b2bb678671948129c24b90aae9723397b08)
+- [ ] [<code>fix(android): add all device models to DeviceModelIcon</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f803e678ad0393e7346a74426cfd433e7636106)
+- [ ] [<code>feat(android): replace material icons with material symbols</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1711be9dc994a1b9bd2594605647926e68065845)
+- [ ] [<code>test(android): update tests for redesign</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f6c02e517d1d9849b5a9f167ed6ba0a85f1cbfcb)
+- [ ] [<code>deps(gui): update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3bda04cd7a6197fef89b44f8470ac1c7f693aeb7)
+- [ ] [<code>feat(gui): enable Hebrew and Egyptian Arabic languages</code>](https://github.com/Oppzippy/OpenSCQ30/commit/02fd8c84897ec6b5827676475d4cb004cdeea400)
+- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91c4ced114755ab7940ed7d840591aa6494f7d79)
+- [ ] [<code>build: update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e5ccebf17c9d22684793bd93445f766223bb62d4)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
