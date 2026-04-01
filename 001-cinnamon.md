@@ -186,6 +186,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>main.js: Don't import NetworkAgent unless nm_agent support is enabled. (#13651)</code>](https://github.com/linuxmint/cinnamon/commit/a7af45cb6a6e7a52e35b7c841ce1385b987af407)
 - [ ] [<code>inhibit@cinnamon.org: Make mult-instance capable. (#13678)</code>](https://github.com/linuxmint/cinnamon/commit/cf1f5ada68d4ab6faa9f939ef19c34330dd68598)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Panel cleanup 2 (#13613)</code>](https://github.com/linuxmint/cinnamon/commit/1572920f43f19508c7333c1d0dedef4faf27bc6d)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>panel: minor compatibility, RTL fixes. (#13682)</code>](https://github.com/linuxmint/cinnamon/commit/85e6d5e17fa3937971d9e469a3125cfc3e26a64f)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
