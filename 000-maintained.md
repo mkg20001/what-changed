@@ -1301,6 +1301,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Follow up on aomDiagPrintf()</code>](https://github.com/AOMediaCodec/libavif/commit/58b3459130636b0bf282d43ea27ecf6bacc82c0c)
 - [ ] [<code>Replace strcpy with memcpy for alpha auxiliary URN</code>](https://github.com/AOMediaCodec/libavif/commit/bc4259e8fb59ab71795186745dcf41307a11085c)
 - [ ] [<code>Bump the github-actions group across 3 directories with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/70eb3fcb49d4e9ee6dde26553cfc3bc673b081e7)
+- [ ] [<code>Access stream->offset through avifROStreamOffset()</code>](https://github.com/AOMediaCodec/libavif/commit/a781d77721253239591f77093929844e2b63b040)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1662,6 +1663,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-272-nightly.</code>](https://github.com/netdata/netdata.git/commit/d1b4767162230ac258675476bab6d6e9e9ca5197)
 - [ ] [<code>fix(go.d): derive sd pipeline names from source context (#22105)</code>](https://github.com/netdata/netdata.git/commit/3c2ad5b05593d0815b7c654cc5b0c45fd9f28a18)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: nest secretstore integrations under Secrets Management in sidebar (#22106)</code>](https://github.com/netdata/netdata.git/commit/82834dc07ba6bc1a06f69398e99b051e207e3db7)
+- [ ] [<code>Remove DBENGINE Warnings (Linux compilation) (#22103)</code>](https://github.com/netdata/netdata.git/commit/9e1423dbaba49a6bbdaf85fb5c95ff2e9d8cff66)
+- [ ] [<code>Fix coverity report (#22104)</code>](https://github.com/netdata/netdata.git/commit/025e21565e8def5b52a141592729f5642888b034)
+- [ ] [<code>docs: put collectors under Collecting Metrics/Collectors (#22107)</code>](https://github.com/netdata/netdata.git/commit/2ee3a6c9db3f59011d832b4a24d0d7b81186a35f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
