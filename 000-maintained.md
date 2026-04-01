@@ -1649,6 +1649,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Fix UB in tzif_read_be64() (#22097)</code>](https://github.com/netdata/netdata.git/commit/3baba7a8295c89e6ebdeb9a02b719b1ce2d3367e)
 - [ ] [<code>Fix Coverity (#22094)</code>](https://github.com/netdata/netdata.git/commit/5dd4257202e984f21c9b0c61e4a088041b27011b)
+- [ ] [<code>Remove compilation warning (Windows) (#22091)</code>](https://github.com/netdata/netdata.git/commit/ce1c1fb57e3af4aeb1bc9e6c9ec07d21407dc576)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
