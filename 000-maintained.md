@@ -507,6 +507,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/954797e4f4b1db890945a4bd645ad4f4f2bd3836)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5af75321593fbc87e89ab9b61d6a74d4a7490673)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6da3627fabd27089541a93cf26ed6422a31bcc62)
+- [ ] [<code>build: (deps): bump async from 2.13.0 to 2.13.1</code>](https://github.com/krille-chan/fluffychat/commit/2407dca80cae071bb30c34c228f4938870537dce)
+- [ ] [<code>build: (deps): bump shared_preferences from 2.5.4 to 2.5.5</code>](https://github.com/krille-chan/fluffychat/commit/2e875dd3c580afeed570c4c27c2a9aa7816b049a)
+- [ ] [<code>feat: Implement room tags</code>](https://github.com/krille-chan/fluffychat/commit/101578bc9d393478a01a77baa29588efc71deae0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -954,6 +957,9 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Galician)</code>](https://github.com/krille-chan/fluffychat/commit/954797e4f4b1db890945a4bd645ad4f4f2bd3836)
 - [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/5af75321593fbc87e89ab9b61d6a74d4a7490673)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/6da3627fabd27089541a93cf26ed6422a31bcc62)
+- [ ] [<code>build: (deps): bump async from 2.13.0 to 2.13.1</code>](https://github.com/krille-chan/fluffychat/commit/2407dca80cae071bb30c34c228f4938870537dce)
+- [ ] [<code>build: (deps): bump shared_preferences from 2.5.4 to 2.5.5</code>](https://github.com/krille-chan/fluffychat/commit/2e875dd3c580afeed570c4c27c2a9aa7816b049a)
+- [ ] [<code>feat: Implement room tags</code>](https://github.com/krille-chan/fluffychat/commit/101578bc9d393478a01a77baa29588efc71deae0)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1293,6 +1299,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Check width * 4 in avifReorderARGBThenConvertToYUV</code>](https://github.com/AOMediaCodec/libavif/commit/78888a44f6b52332e7b509a709b952a60f9e04d4)
 - [ ] [<code>Statically assert a strcpy is safe</code>](https://github.com/AOMediaCodec/libavif/commit/58c93df409d994bd815f6744772cc260c900bcf0)
 - [ ] [<code>Follow up on aomDiagPrintf()</code>](https://github.com/AOMediaCodec/libavif/commit/58b3459130636b0bf282d43ea27ecf6bacc82c0c)
+- [ ] [<code>Replace strcpy with memcpy for alpha auxiliary URN</code>](https://github.com/AOMediaCodec/libavif/commit/bc4259e8fb59ab71795186745dcf41307a11085c)
+- [ ] [<code>Bump the github-actions group across 3 directories with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/70eb3fcb49d4e9ee6dde26553cfc3bc673b081e7)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1651,6 +1659,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix Coverity (#22094)</code>](https://github.com/netdata/netdata.git/commit/5dd4257202e984f21c9b0c61e4a088041b27011b)
 - [ ] [<code>Remove compilation warning (Windows) (#22091)</code>](https://github.com/netdata/netdata.git/commit/ce1c1fb57e3af4aeb1bc9e6c9ec07d21407dc576)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-272-nightly.</code>](https://github.com/netdata/netdata.git/commit/d1b4767162230ac258675476bab6d6e9e9ca5197)
+- [ ] [<code>fix(go.d): derive sd pipeline names from source context (#22105)</code>](https://github.com/netdata/netdata.git/commit/3c2ad5b05593d0815b7c654cc5b0c45fd9f28a18)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
