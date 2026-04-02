@@ -57,6 +57,10 @@
 - [ ] [<code>test: add tests for covering snapd status api changes</code>](https://github.com/canonical/firmware-updater/commit/1869ac36d9a622a57ea079d3322b02e8c32c68bf)
 - [ ] [<code>fix: formatter and mocks</code>](https://github.com/canonical/firmware-updater/commit/ecd87de7a3c92d3ce3109c0310ed333fad603f47)
 - [ ] [<code>feat: detect tpmfde using new snapd status api (#386)</code>](https://github.com/canonical/firmware-updater/commit/7d2272107d500a650b695630fb4397679290228a)
+- [ ] [<code>feat: use snapctl system-mode to determine TPM/FDE status</code>](https://github.com/canonical/firmware-updater/commit/2aaaeaa6f344de76c8072846e25238d1d373b418)
+- [ ] [<code>fix: remove executable flag from test file</code>](https://github.com/canonical/firmware-updater/commit/fcaa1071197bc833c1facd907f79bab9e2a4fcac)
+- [ ] [<code>test: update recovery_key_service_test</code>](https://github.com/canonical/firmware-updater/commit/58ec596b3ce588208b7a0171d577a06ed55cef9d)
+- [ ] [<code>fix: use `snapctl system-mode` to check for TPM/FDE (#391)</code>](https://github.com/canonical/firmware-updater/commit/9e387e49aa39d9f7013554b61b7a96444b817a33)
 
 #### [flat-remix-gtk](https://github.com/daniruiz/flat-remix-gtk): [20240730 → HEAD](https://github.com/daniruiz/flat-remix-gtk/compare/20240730...HEAD)
 
@@ -1306,6 +1310,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Replace strcpy with memcpy for alpha auxiliary URN</code>](https://github.com/AOMediaCodec/libavif/commit/bc4259e8fb59ab71795186745dcf41307a11085c)
 - [ ] [<code>Bump the github-actions group across 3 directories with 5 updates</code>](https://github.com/AOMediaCodec/libavif/commit/70eb3fcb49d4e9ee6dde26553cfc3bc673b081e7)
 - [ ] [<code>Access stream->offset through avifROStreamOffset()</code>](https://github.com/AOMediaCodec/libavif/commit/a781d77721253239591f77093929844e2b63b040)
+- [ ] [<code>Fixed minor typo (#3165)</code>](https://github.com/AOMediaCodec/libavif/commit/d7ee2e3e4f71d5191a91dc75aa087f171d46ac09)
+- [ ] [<code>Fixed minor typo (#3166)</code>](https://github.com/AOMediaCodec/libavif/commit/5097f8c543ce6af543c942a6455c1c0592a508e4)
+- [ ] [<code>Update to AVM research-v14.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/a351a0063f2ff4fc378f026470c94804874f3248)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1672,6 +1680,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix coverity report (#22104)</code>](https://github.com/netdata/netdata.git/commit/025e21565e8def5b52a141592729f5642888b034)
 - [ ] [<code>docs: put collectors under Collecting Metrics/Collectors (#22107)</code>](https://github.com/netdata/netdata.git/commit/2ee3a6c9db3f59011d832b4a24d0d7b81186a35f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-278-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9ff5506aee37ec2aecb02cd3b1c76c732d0741e)
+- [ ] [<code>chore(scripts.d/nagios): add float flag to perfdata fields observation (#22116)</code>](https://github.com/netdata/netdata.git/commit/ca95efc4207b383eda71c00586d361c6447253fb)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -3115,6 +3124,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed the TSTATEDIR not being modified for the IPv8 config (#8939)</code>](https://github.com/tribler/Tribler/commit/2ca174fd1968162f8bb69ee5f730d58d34486091)
 - [ ] [<code>Fixed recursion error in SimpleTable TableCell className</code>](https://github.com/tribler/Tribler/commit/d5dae3be96868f10db065b689cddfb6506d92b57)
 - [ ] [<code>Fixed recursion error in SimpleTable TableCell className (#8946)</code>](https://github.com/tribler/Tribler/commit/e16f0ed0622ecc5f27aab60347c17645f9ff7090)
+  - <sub>Tags: <code>v8.4.2</code></sub>
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
