@@ -192,6 +192,7 @@
 - [ ] [<code>panel: minor compatibility, RTL fixes. (#13682)</code>](https://github.com/linuxmint/cinnamon/commit/85e6d5e17fa3937971d9e469a3125cfc3e26a64f)
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>panel: Fix a few more spots using panel.height directly.</code>](https://github.com/linuxmint/cinnamon/commit/a2bea82eb1a23aaaa7ff57f942100aeca051873c)
+- [ ] [<code>dnd.js: Fix incorrect method check.</code>](https://github.com/linuxmint/cinnamon/commit/930b71fcbd0623fc588e2361ccd42729a984e3c9)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
