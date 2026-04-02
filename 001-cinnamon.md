@@ -190,8 +190,9 @@
 - [ ] [<code>Panel cleanup 2 (#13613)</code>](https://github.com/linuxmint/cinnamon/commit/1572920f43f19508c7333c1d0dedef4faf27bc6d)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>panel: minor compatibility, RTL fixes. (#13682)</code>](https://github.com/linuxmint/cinnamon/commit/85e6d5e17fa3937971d9e469a3125cfc3e26a64f)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>panel: Fix a few more spots using panel.height directly.</code>](https://github.com/linuxmint/cinnamon/commit/a2bea82eb1a23aaaa7ff57f942100aeca051873c)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
