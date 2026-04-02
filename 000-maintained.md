@@ -510,6 +510,8 @@
 - [ ] [<code>build: (deps): bump async from 2.13.0 to 2.13.1</code>](https://github.com/krille-chan/fluffychat/commit/2407dca80cae071bb30c34c228f4938870537dce)
 - [ ] [<code>build: (deps): bump shared_preferences from 2.5.4 to 2.5.5</code>](https://github.com/krille-chan/fluffychat/commit/2e875dd3c580afeed570c4c27c2a9aa7816b049a)
 - [ ] [<code>feat: Implement room tags</code>](https://github.com/krille-chan/fluffychat/commit/101578bc9d393478a01a77baa29588efc71deae0)
+- [ ] [<code>build: (deps): bump share_plus from 12.0.1 to 12.0.2</code>](https://github.com/krille-chan/fluffychat/commit/fba24b85062db58a9e4d97c49308c8dcd53bbf19)
+- [ ] [<code>build: (deps): bump flutter_foreground_task from 9.2.1 to 9.2.2</code>](https://github.com/krille-chan/fluffychat/commit/35cd1162c2241614a65e7dfcb945f2749e55f4e0)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -960,6 +962,8 @@
 - [ ] [<code>build: (deps): bump async from 2.13.0 to 2.13.1</code>](https://github.com/krille-chan/fluffychat/commit/2407dca80cae071bb30c34c228f4938870537dce)
 - [ ] [<code>build: (deps): bump shared_preferences from 2.5.4 to 2.5.5</code>](https://github.com/krille-chan/fluffychat/commit/2e875dd3c580afeed570c4c27c2a9aa7816b049a)
 - [ ] [<code>feat: Implement room tags</code>](https://github.com/krille-chan/fluffychat/commit/101578bc9d393478a01a77baa29588efc71deae0)
+- [ ] [<code>build: (deps): bump share_plus from 12.0.1 to 12.0.2</code>](https://github.com/krille-chan/fluffychat/commit/fba24b85062db58a9e4d97c49308c8dcd53bbf19)
+- [ ] [<code>build: (deps): bump flutter_foreground_task from 9.2.1 to 9.2.2</code>](https://github.com/krille-chan/fluffychat/commit/35cd1162c2241614a65e7dfcb945f2749e55f4e0)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1667,6 +1671,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove DBENGINE Warnings (Linux compilation) (#22103)</code>](https://github.com/netdata/netdata.git/commit/9e1423dbaba49a6bbdaf85fb5c95ff2e9d8cff66)
 - [ ] [<code>Fix coverity report (#22104)</code>](https://github.com/netdata/netdata.git/commit/025e21565e8def5b52a141592729f5642888b034)
 - [ ] [<code>docs: put collectors under Collecting Metrics/Collectors (#22107)</code>](https://github.com/netdata/netdata.git/commit/2ee3a6c9db3f59011d832b4a24d0d7b81186a35f)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-278-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9ff5506aee37ec2aecb02cd3b1c76c732d0741e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2728,6 +2733,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91c4ced114755ab7940ed7d840591aa6494f7d79)
 - [ ] [<code>build: update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e5ccebf17c9d22684793bd93445f766223bb62d4)
 - [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3dea3101907e2e2e9ad69fd6eabaf728e8043ee5)
+- [ ] [<code>deps(gui): fork wash2/accesskit to fix windows build error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46a255df9a6cafe4b3bcfcc3546bc60dec05a858)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
