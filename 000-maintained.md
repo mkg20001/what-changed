@@ -2727,6 +2727,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(gui): enable Hebrew and Egyptian Arabic languages</code>](https://github.com/Oppzippy/OpenSCQ30/commit/02fd8c84897ec6b5827676475d4cb004cdeea400)
 - [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91c4ced114755ab7940ed7d840591aa6494f7d79)
 - [ ] [<code>build: update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e5ccebf17c9d22684793bd93445f766223bb62d4)
+- [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3dea3101907e2e2e9ad69fd6eabaf728e8043ee5)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
