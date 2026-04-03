@@ -1315,6 +1315,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update to AVM research-v14.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/a351a0063f2ff4fc378f026470c94804874f3248)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Update to libaom v3.13.3</code>](https://github.com/AOMediaCodec/libavif/commit/5e4c5ae89997b9d7f0efce4f5f821c443a00ec18)
+- [ ] [<code>Explicitly forbid reusing encoder instance (#3163)</code>](https://github.com/AOMediaCodec/libavif/commit/226e112a833bbb3e98632492e4d766e37d661774)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1682,6 +1683,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: put collectors under Collecting Metrics/Collectors (#22107)</code>](https://github.com/netdata/netdata.git/commit/2ee3a6c9db3f59011d832b4a24d0d7b81186a35f)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-278-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9ff5506aee37ec2aecb02cd3b1c76c732d0741e)
 - [ ] [<code>chore(scripts.d/nagios): add float flag to perfdata fields observation (#22116)</code>](https://github.com/netdata/netdata.git/commit/ca95efc4207b383eda71c00586d361c6447253fb)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-280-nightly.</code>](https://github.com/netdata/netdata.git/commit/b751c29c8e57f4118923b57dbf0d9fabb1628ec0)
+- [ ] [<code>feat(plugin/agent): add configurable secretstore backend HTTP timeouts (#22118)</code>](https://github.com/netdata/netdata.git/commit/f09bef03f98010e26cbc7e1abccb70b3656402d2)
+- [ ] [<code>Regenerate integrations docs (#22121)</code>](https://github.com/netdata/netdata.git/commit/3030c7bc4d0efddd1887fdede2cd73abe20b285e)
+- [ ] [<code>fix(plugin/agent): log applyConfig failures in job manager (#22124)</code>](https://github.com/netdata/netdata.git/commit/5c57cff6dd904db4defb8766f0e94d2c5ea64b35)
+- [ ] [<code>docs: add DO_NOT_TRACK environment variable to telemetry documentation (#22076)</code>](https://github.com/netdata/netdata.git/commit/da75d422de8b978c104c62f33f504fd6122796ed)
+- [ ] [<code>chore(go.d/agent): improve terminal-mode behavior (#22125)</code>](https://github.com/netdata/netdata.git/commit/0c03fd9259f80a6a40322eee6ff8a7872311deef)
+- [ ] [<code>Update PR template to remove AI verification checkbox (#22126)</code>](https://github.com/netdata/netdata.git/commit/f1ea7ecbc2239541caf37312b221f85b5727635b)
+- [ ] [<code>feat(go/jobruntime): add config_source field to runtime job logs (#22127)</code>](https://github.com/netdata/netdata.git/commit/b5304aa73f4c5c9d98e78f7f26bc3a206e6747a3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2744,6 +2753,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e5ccebf17c9d22684793bd93445f766223bb62d4)
 - [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3dea3101907e2e2e9ad69fd6eabaf728e8043ee5)
 - [ ] [<code>deps(gui): fork wash2/accesskit to fix windows build error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46a255df9a6cafe4b3bcfcc3546bc60dec05a858)
+- [ ] [<code>ci: attest build artifcats</code>](https://github.com/Oppzippy/OpenSCQ30/commit/462c44c18f5912a547684e73e4acf2ea5ec56334)
+- [ ] [<code>ci: use just from snap again now that the snap is updated</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91a7131fa85a4fd10e898df718b54f2dda47f7d6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
