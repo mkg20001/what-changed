@@ -1314,6 +1314,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fixed minor typo (#3166)</code>](https://github.com/AOMediaCodec/libavif/commit/5097f8c543ce6af543c942a6455c1c0592a508e4)
 - [ ] [<code>Update to AVM research-v14.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/a351a0063f2ff4fc378f026470c94804874f3248)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Update to libaom v3.13.3</code>](https://github.com/AOMediaCodec/libavif/commit/5e4c5ae89997b9d7f0efce4f5f821c443a00ec18)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2750,7 +2751,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped python313Packages.ebaysdk - no appropriate URL found OrderedDict({'attr_path': 'python313Packages.ebaysdk', 'home_url': 'https://github.com/timotheus/ebaysdk-python', 'src_url': 'mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz', 'urls': ['mirror://pypi/e/ebaysdk/ebaysdk-2.2.0.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped python313Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python313Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-2.0.1.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-2.0.1.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped python313Packages.human-readable - no appropriate URL found OrderedDict({'attr_path': 'python313Packages.human-readable', 'home_url': 'https://github.com/staticdev/human-readable', 'src_url': 'mirror://pypi/h/human_readable/human_readable-2.0.2.tar.gz', 'urls': ['mirror://pypi/h/human_readable/human_readable-2.0.2.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [python313Packages.pyipv8](https://github.com/tribler/py-ipv8): [refs/tags/3.2 → HEAD](https://github.com/tribler/py-ipv8/compare/refs/tags/3.2...HEAD)
