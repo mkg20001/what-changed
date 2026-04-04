@@ -516,6 +516,8 @@
 - [ ] [<code>feat: Implement room tags</code>](https://github.com/krille-chan/fluffychat/commit/101578bc9d393478a01a77baa29588efc71deae0)
 - [ ] [<code>build: (deps): bump share_plus from 12.0.1 to 12.0.2</code>](https://github.com/krille-chan/fluffychat/commit/fba24b85062db58a9e4d97c49308c8dcd53bbf19)
 - [ ] [<code>build: (deps): bump flutter_foreground_task from 9.2.1 to 9.2.2</code>](https://github.com/krille-chan/fluffychat/commit/35cd1162c2241614a65e7dfcb945f2749e55f4e0)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/9f73ca61fa37154014f674326e1e77db7d8798c7)
+- [ ] [<code>build: (deps): bump go_router from 17.1.0 to 17.2.0</code>](https://github.com/krille-chan/fluffychat/commit/48c317540fc0391c4b45dd710fa7f0e3622883bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -968,6 +970,8 @@
 - [ ] [<code>feat: Implement room tags</code>](https://github.com/krille-chan/fluffychat/commit/101578bc9d393478a01a77baa29588efc71deae0)
 - [ ] [<code>build: (deps): bump share_plus from 12.0.1 to 12.0.2</code>](https://github.com/krille-chan/fluffychat/commit/fba24b85062db58a9e4d97c49308c8dcd53bbf19)
 - [ ] [<code>build: (deps): bump flutter_foreground_task from 9.2.1 to 9.2.2</code>](https://github.com/krille-chan/fluffychat/commit/35cd1162c2241614a65e7dfcb945f2749e55f4e0)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/9f73ca61fa37154014f674326e1e77db7d8798c7)
+- [ ] [<code>build: (deps): bump go_router from 17.1.0 to 17.2.0</code>](https://github.com/krille-chan/fluffychat/commit/48c317540fc0391c4b45dd710fa7f0e3622883bd)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2498,6 +2502,13 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code></sub>
 - [ ] [<code>Reverts "Roll ICU from ee5f27adc28b to ff7995a708a1 (5 revisions) (#184566)" (#184586)</code>](https://github.com/flutter/flutter/commit/99190f926227ba51ca2d46bb391d0a7021a7d5e7)
 - [ ] [<code>Roll Skia from 4ecb7b28459f to 50f3a9aaa185 (3 revisions) (#184599)</code>](https://github.com/flutter/flutter/commit/a03efd1848e8ae3a53b72b8d4c94c6e80d27b976)
+- [ ] [<code>Roll Skia from 50f3a9aaa185 to ec209c206aa5 (1 revision) (#184601)</code>](https://github.com/flutter/flutter/commit/d02a9b03cc4926b484d37f1dc8123eb73c663f65)
+- [ ] [<code>refactor: remove material from color and image filter test (#183563)</code>](https://github.com/flutter/flutter/commit/a139e5a82f7b13c2962dff2e33873a7abeb4a878)
+- [ ] [<code>Roll Dart SDK from f7be88117622 to 102a3d1c7fe5 (2 revisions) (#184604)</code>](https://github.com/flutter/flutter/commit/cd611ef31081b514b0dce32ea544765bcdd91cc9)
+- [ ] [<code>Roll Skia from ec209c206aa5 to 5e5a7f252b5e (2 revisions) (#184606)</code>](https://github.com/flutter/flutter/commit/91f8d1dddff20f1eac750355dfba44b70d1f9bb0)
+- [ ] [<code>Roll Skia from 5e5a7f252b5e to 500bc1651c86 (1 revision) (#184609)</code>](https://github.com/flutter/flutter/commit/0c1a2f2b6cb7892330f072207ba0e23b2e964c1c)
+- [ ] [<code>Roll Dart SDK from 102a3d1c7fe5 to 79f728f5d66e (1 revision) (#184610)</code>](https://github.com/flutter/flutter/commit/13d7efce4973e49f0a3ecf9f560d1895a0dd717f)
+- [ ] [<code>Roll Fuchsia Linux SDK from PpL3Bn2YMb2h9LbdK... to D2z-jMnRVbcwcraY-... (#184611)</code>](https://github.com/flutter/flutter/commit/ecfd1d7c5d213c8d3b49b109242c0e9d8b02f170)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3227,6 +3238,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>feat(go.d/azure_monitor): add per-profile resource filters (#22132)</code>](https://github.com/netdata/netdata.git/commit/a7fd47fa2b9189c2b6ee94a38cd28e80ce42c971)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-293-nightly.</code>](https://github.com/netdata/netdata.git/commit/554cdd74406f5c6dd435370982fbe2c4616a9c6d)
+- [ ] [<code>Regenerate integrations docs (#22135)</code>](https://github.com/netdata/netdata.git/commit/facaad15a01754eae6238dfc6f57a9c50b3281ac)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4292,6 +4304,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: attest build artifcats</code>](https://github.com/Oppzippy/OpenSCQ30/commit/462c44c18f5912a547684e73e4acf2ea5ec56334)
 - [ ] [<code>ci: use just from snap again now that the snap is updated</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91a7131fa85a4fd10e898df718b54f2dda47f7d6)
 - [ ] [<code>feat(android): add indicator for which equalizer tab is in effect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3759793c3e743d389d4d80427ed761a54a7276d2)
+- [ ] [<code>style(android): remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/192a848f1707c7bd8e5dd7ccd5ce6f51107a7b4f)
+- [ ] [<code>deps: update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf0dd09888bce1e7e9625f1ed0c20f280081868d)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
