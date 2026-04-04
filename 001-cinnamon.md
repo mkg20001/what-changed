@@ -370,9 +370,9 @@
 - [ ] [<code>nemo-view.c: Remove 'open-file-and-close-window' action.</code>](https://github.com/linuxmint/nemo/commit/227e2957776545ee0c3a178137753121251811c3)
 - [ ] [<code>Restore Last Window Tabs on Startup (#3661)</code>](https://github.com/linuxmint/nemo/commit/66d42992a2900844f3c1fca57022083daf3b93fd)
 - [ ] [<code>Fix several memory leaks. (#3721)</code>](https://github.com/linuxmint/nemo/commit/0446b9e3f4cf0f5d9bbb0d3aa62e1142e3376d2b)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>nemo-file-operations.c: Fix file copies breaking ownership rules. (#3731)</code>](https://github.com/linuxmint/nemo/commit/58846d5db828125c50a2b9ef2e65b6db83d5a630)
-  - <sub>Tags: <code>master.lmde7</code></sub>
+- [ ] [<code>nemo-view.c: Cleanup unused code from a removed feature.</code>](https://github.com/linuxmint/nemo/commit/1337cf0cc6e55acf3909a5b32d42e16d77a5763b)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
