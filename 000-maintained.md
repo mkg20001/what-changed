@@ -2490,6 +2490,14 @@
 - [ ] [<code>Roll Skia from 4134f8091147 to 3b0f0f04f97c (2 revisions) (#184582)</code>](https://github.com/flutter/flutter/commit/fba3f2c52eee5449f5c77bbb6a17a7d5986751ba)
 - [ ] [<code>Downgrade CocoaPods doctor check to warning and fix build error messaging (#184511)</code>](https://github.com/flutter/flutter/commit/f6b99132942faf3077c35c65adebae11ef211c69)
 - [ ] [<code>[Dot shorthands] Migrate examples/api/lib/cupertino (#183964)</code>](https://github.com/flutter/flutter/commit/ae7535e870d2a3082c9a8468f57cdf752d1dc961)
+- [ ] [<code>refactor: remove material from list_view_viewporting_test and page_forward_transitions_test (#183564)</code>](https://github.com/flutter/flutter/commit/be2b171f56bd085ef6df0da8958023ecb922dbce)
+- [ ] [<code>Roll Skia from 3b0f0f04f97c to 4ecb7b28459f (7 revisions) (#184594)</code>](https://github.com/flutter/flutter/commit/58d21753a20e2422b92bc01b471981270ba305b1)
+- [ ] [<code>[AGP 9] Add Disable Built-in Kotlin and newDSL Migratorrs (#184255)</code>](https://github.com/flutter/flutter/commit/437f828fa488d5f8bf7a242e658ede4ba933ca03)
+- [ ] [<code>Roll Dart SDK from 46f49142acd9 to f7be88117622 (1 revision) (#184596)</code>](https://github.com/flutter/flutter/commit/3f612e82be567e7db0e4538d62ce2bbb0a6206af)
+- [ ] [<code>Add integration scripts and tools for SwiftPM add to app (#184204)</code>](https://github.com/flutter/flutter/commit/2512f79e4df0514a40e80023b671283055eb4985)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>Reverts "Roll ICU from ee5f27adc28b to ff7995a708a1 (5 revisions) (#184566)" (#184586)</code>](https://github.com/flutter/flutter/commit/99190f926227ba51ca2d46bb391d0a7021a7d5e7)
+- [ ] [<code>Roll Skia from 4ecb7b28459f to 50f3a9aaa185 (3 revisions) (#184599)</code>](https://github.com/flutter/flutter/commit/a03efd1848e8ae3a53b72b8d4c94c6e80d27b976)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3215,6 +3223,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>fix(go.d/mssql): fix database size overflow and Windows Auth docs (#22129)</code>](https://github.com/netdata/netdata.git/commit/2d94de981576aba93b7967dd908e928b9b8131ce)
 - [ ] [<code>Regenerate integrations docs (#22131)</code>](https://github.com/netdata/netdata.git/commit/80562ef6e26e3461531bcf7c3dfffb832f828ef6)
+- [ ] [<code>chore(go): go fix (#22133)</code>](https://github.com/netdata/netdata.git/commit/1ddf37071849969e4ca3b9137029663ff5ec5bf4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(go.d/azure_monitor): add per-profile resource filters (#22132)</code>](https://github.com/netdata/netdata.git/commit/a7fd47fa2b9189c2b6ee94a38cd28e80ce42c971)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-293-nightly.</code>](https://github.com/netdata/netdata.git/commit/554cdd74406f5c6dd435370982fbe2c4616a9c6d)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4279,6 +4291,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(gui): fork wash2/accesskit to fix windows build error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46a255df9a6cafe4b3bcfcc3546bc60dec05a858)
 - [ ] [<code>ci: attest build artifcats</code>](https://github.com/Oppzippy/OpenSCQ30/commit/462c44c18f5912a547684e73e4acf2ea5ec56334)
 - [ ] [<code>ci: use just from snap again now that the snap is updated</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91a7131fa85a4fd10e898df718b54f2dda47f7d6)
+- [ ] [<code>feat(android): add indicator for which equalizer tab is in effect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3759793c3e743d389d4d80427ed761a54a7276d2)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
