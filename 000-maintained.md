@@ -3241,6 +3241,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Regenerate integrations docs (#22135)</code>](https://github.com/netdata/netdata.git/commit/facaad15a01754eae6238dfc6f57a9c50b3281ac)
 - [ ] [<code>chore(go.d/azure_monitor): shorten stock profile selectors (#22137)</code>](https://github.com/netdata/netdata.git/commit/150e5553ee6dc5d17e85ebe26bdc57c304333308)
 - [ ] [<code>chartengine: fix validated framework issues (#22138)</code>](https://github.com/netdata/netdata.git/commit/9a4b3dc9820c3482076157624d2950a10ffc3cea)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-297-nightly.</code>](https://github.com/netdata/netdata.git/commit/3444f6a2462e3a4576c55dd3ac8a7b1f9c6d2841)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
