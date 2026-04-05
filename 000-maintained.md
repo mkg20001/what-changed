@@ -518,6 +518,10 @@
 - [ ] [<code>build: (deps): bump flutter_foreground_task from 9.2.1 to 9.2.2</code>](https://github.com/krille-chan/fluffychat/commit/35cd1162c2241614a65e7dfcb945f2749e55f4e0)
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/9f73ca61fa37154014f674326e1e77db7d8798c7)
 - [ ] [<code>build: (deps): bump go_router from 17.1.0 to 17.2.0</code>](https://github.com/krille-chan/fluffychat/commit/48c317540fc0391c4b45dd710fa7f0e3622883bd)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/f13cbf858d0f2d81950d6fe402ffd1eeb1fa7445)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/42a1047067559c44b1e1b947d082c8da29322982)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/92549cff66637d7a7ce5fc691205fcc28d76adb6)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/3fd3c575f001fa0bcd6b196c53f6de38b43b722c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -972,6 +976,10 @@
 - [ ] [<code>build: (deps): bump flutter_foreground_task from 9.2.1 to 9.2.2</code>](https://github.com/krille-chan/fluffychat/commit/35cd1162c2241614a65e7dfcb945f2749e55f4e0)
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/9f73ca61fa37154014f674326e1e77db7d8798c7)
 - [ ] [<code>build: (deps): bump go_router from 17.1.0 to 17.2.0</code>](https://github.com/krille-chan/fluffychat/commit/48c317540fc0391c4b45dd710fa7f0e3622883bd)
+- [ ] [<code>chore(translations): Translated using Weblate (Estonian)</code>](https://github.com/krille-chan/fluffychat/commit/f13cbf858d0f2d81950d6fe402ffd1eeb1fa7445)
+- [ ] [<code>chore(translations): Translated using Weblate (Irish)</code>](https://github.com/krille-chan/fluffychat/commit/42a1047067559c44b1e1b947d082c8da29322982)
+- [ ] [<code>chore(translations): Translated using Weblate (Norwegian Bokmål)</code>](https://github.com/krille-chan/fluffychat/commit/92549cff66637d7a7ce5fc691205fcc28d76adb6)
+- [ ] [<code>chore(translations): Translated using Weblate (Chinese (Simplified Han script))</code>](https://github.com/krille-chan/fluffychat/commit/3fd3c575f001fa0bcd6b196c53f6de38b43b722c)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2509,6 +2517,7 @@
 - [ ] [<code>Roll Skia from 5e5a7f252b5e to 500bc1651c86 (1 revision) (#184609)</code>](https://github.com/flutter/flutter/commit/0c1a2f2b6cb7892330f072207ba0e23b2e964c1c)
 - [ ] [<code>Roll Dart SDK from 102a3d1c7fe5 to 79f728f5d66e (1 revision) (#184610)</code>](https://github.com/flutter/flutter/commit/13d7efce4973e49f0a3ecf9f560d1895a0dd717f)
 - [ ] [<code>Roll Fuchsia Linux SDK from PpL3Bn2YMb2h9LbdK... to D2z-jMnRVbcwcraY-... (#184611)</code>](https://github.com/flutter/flutter/commit/ecfd1d7c5d213c8d3b49b109242c0e9d8b02f170)
+- [ ] [<code>Roll Skia from 500bc1651c86 to 52b79372764c (1 revision) (#184621)</code>](https://github.com/flutter/flutter/commit/368854608aa92bb243ae3c0b86afdc8748419404)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -4309,6 +4318,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(android): add indicator for which equalizer tab is in effect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3759793c3e743d389d4d80427ed761a54a7276d2)
 - [ ] [<code>style(android): remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/192a848f1707c7bd8e5dd7ccd5ce6f51107a7b4f)
 - [ ] [<code>deps: update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf0dd09888bce1e7e9625f1ed0c20f280081868d)
+- [ ] [<code>fix(android): missing stack trace in exception</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4506ad6eab34595b24b79f390f6ede8d3c36ceb2)
+- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ebe1775460a3974f169389b2244ec4dd25027380)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(gui): search gets reset when toggling demo mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ece275816c004b8bc866e0e4010565529d80e13)
+- [ ] [<code>refactor(gui): remove unnecessary Id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ca3141d1ebcfa5b79d88899617b5c61fb092663)
+- [ ] [<code>refactor(lib): use libcosmic spin button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/77b97b8cb9458f01004742095323a080bb405fe1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
