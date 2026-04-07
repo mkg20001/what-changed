@@ -410,6 +410,9 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/warpinator/commit/18272f7bd40f4fff340fa5bd90cf74465e2cf3d1)
 - [ ] [<code>Update generated protobuf files to match our bundled versions.</code>](https://github.com/linuxmint/warpinator/commit/ba7dacfd8873b20192b8f865ea0589826ebd632e)
+- [ ] [<code>Do not actually link to fake website (#247)</code>](https://github.com/linuxmint/warpinator/commit/d015ec88cbbd4423577deba4db14b47c761f175a)
+- [ ] [<code>Update README</code>](https://github.com/linuxmint/warpinator/commit/75993179a51633114c598945429de432821ae43b)
+- [ ] [<code>Set prgname to application ID (#249)</code>](https://github.com/linuxmint/warpinator/commit/599a871d64a931b75ca23e5fbd3223006b74167a)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
