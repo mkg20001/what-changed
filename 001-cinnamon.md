@@ -400,6 +400,7 @@
 #### [pix](https://github.com/linuxmint/pix): [3.4.10 → HEAD](https://github.com/linuxmint/pix/compare/3.4.10...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/pix/commit/1df5501390da4c27303d0902b17d2bfdf2537ac0)
+- [ ] [<code>Enable scroll in histogram view and curve editor (#246)</code>](https://github.com/linuxmint/pix/commit/3a7dd7f8b41cbe11554d49fe13a4cb6574313d4b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.2...HEAD)
