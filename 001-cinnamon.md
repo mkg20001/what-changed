@@ -194,8 +194,9 @@
 - [ ] [<code>panel: Fix a few more spots using panel.height directly.</code>](https://github.com/linuxmint/cinnamon/commit/a2bea82eb1a23aaaa7ff57f942100aeca051873c)
 - [ ] [<code>dnd.js: Fix incorrect method check.</code>](https://github.com/linuxmint/cinnamon/commit/930b71fcbd0623fc588e2361ccd42729a984e3c9)
 - [ ] [<code>backup-locker.c: Kill xprop during unlock.</code>](https://github.com/linuxmint/cinnamon/commit/b34c4d16a4b99c8566d6f5c0a306a4126194ee53)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>js: Use GioUnix instead of Gio.Unix in a few places.</code>](https://github.com/linuxmint/cinnamon/commit/ab9adeb511017073d486bcba47fa9cf7b17595c4)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
