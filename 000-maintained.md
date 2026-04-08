@@ -543,6 +543,7 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 3.2.1 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/2b17162b941c2599c3d9e144967d06e4daaa6618)
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/a51320bae8eda5024e9190ff0e3c589a04bcaca8)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2f5700657cc1799ebf80a4d97a166817b205c31)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.0.1 to 4.0.2</code>](https://github.com/krille-chan/fluffychat/commit/d7304e03644658ead65c68c6c7f7771d8326830a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1005,6 +1006,7 @@
 - [ ] [<code>build: (deps): bump dart_code_linter from 3.2.1 to 4.0.1</code>](https://github.com/krille-chan/fluffychat/commit/2b17162b941c2599c3d9e144967d06e4daaa6618)
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/a51320bae8eda5024e9190ff0e3c589a04bcaca8)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2f5700657cc1799ebf80a4d97a166817b205c31)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.0.1 to 4.0.2</code>](https://github.com/krille-chan/fluffychat/commit/d7304e03644658ead65c68c6c7f7771d8326830a)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2578,6 +2580,11 @@
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Add Support For Built-in Kotlin (#184227)</code>](https://github.com/flutter/flutter/commit/3d41f267404f6124cc38ed2e994edabe1e72e398)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add a github workflow for reverting PRs. (#184593)</code>](https://github.com/flutter/flutter/commit/d5c5d7aac42cf9c055fd6ecae94bab75f87553ab)
+- [ ] [<code>Collect HCPP adoption analytics for flutter run/build apk/build appbundle (#184225)</code>](https://github.com/flutter/flutter/commit/354f42f4a0a0367b8979c6b1771a194b881ffa4b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Revert "Add Support For Built-in Kotlin (#184227)" (#184739)</code>](https://github.com/flutter/flutter/commit/428e3441482b2c7f4b53c43fde0a1b8aaa8ecd1c)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3334,6 +3341,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>Regenerate integrations docs (#22161)</code>](https://github.com/netdata/netdata.git/commit/766be12b8188e58d59a0599d387e04e71ffff85e)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-314-nightly.</code>](https://github.com/netdata/netdata.git/commit/b5a7271cf4be3d471f006f18233eb9e945ea39cc)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -9534,6 +9542,101 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Tests: align approval gateway seams</code>](https://github.com/openclaw/openclaw/commit/ecc9a65f348c5587ba8a3dd3c6da135a072c1263)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>Docs: document approval adapter subpaths</code>](https://github.com/openclaw/openclaw/commit/cfe71e2e44c0c57329985dc20986138a4b605892)
+- [ ] [<code>Protect gateway exec approval config paths (#62001)</code>](https://github.com/openclaw/openclaw/commit/b9e972e17495bf29feb11d38d53f33fb1c4138b4)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve fallback error details</code>](https://github.com/openclaw/openclaw/commit/5fb6aeaf86c7bcab1984c9719888e4987dfea139)
+- [ ] [<code>types: preserve approval runtime payload typing</code>](https://github.com/openclaw/openclaw/commit/af4a2faa1da0aaab5495de59fbdc8e34a7c7d2a3)
+- [ ] [<code>style: normalize lazy approval adapter signature</code>](https://github.com/openclaw/openclaw/commit/a44a26f0a0a4d69548824f56f1db81c8a1f32a1b)
+- [ ] [<code>refactor: dedupe extension lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/2187b19d7eb7fb15b5a3f81e5a0b56edf993798a)
+- [ ] [<code>refactor: dedupe provider lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/775b78e186c4dd9a2fe5a98182205acc97520e3d)
+- [ ] [<code>refactor: dedupe misc lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/67dc6e82b90586a43e5bb82ed2c8185da846837c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Guard missed base64 decode paths (#62007)</code>](https://github.com/openclaw/openclaw/commit/a31cb155611f23142fa0e5941adc5d041236cf48)
+- [ ] [<code>test: speed up subagent registry tests</code>](https://github.com/openclaw/openclaw/commit/1a72ed7e137862d90620165623383a354e0fe9e0)
+- [ ] [<code>test: speed up agent config auth tests</code>](https://github.com/openclaw/openclaw/commit/81a613f687652f37e0f865261e899c0467b95985)
+- [ ] [<code>fix(git): expand host env denylist coverage (#62002)</code>](https://github.com/openclaw/openclaw/commit/423a14e2bec6d8ea058633bb89b4d468d72a387f)
+- [ ] [<code>fix(env): align inherited host exec env filtering (#59119)</code>](https://github.com/openclaw/openclaw/commit/fa82193c7273db1be8738096b5ab90fa8bd17717)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: dedupe normalization lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/e0ad3e79e6bff9e138e16f84b38da68632b0876f)
+- [ ] [<code>refactor: dedupe canvas lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/5a020cf9a18a57e32234b6b58a4441ca56b5cc67)
+- [ ] [<code>refactor: dedupe path lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/b6970865b65a142c92a564be678cd0776563a0af)
+- [ ] [<code>refactor: dedupe remaining lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/88ac6f1194271ff7d58df7d45921292744d48839)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: dedupe locale lowercase helpers</code>](https://github.com/openclaw/openclaw/commit/7897fb9c8420ce46d700465b306ed9e4a25673fa)
+- [ ] [<code>refactor: dedupe trimmed string readers</code>](https://github.com/openclaw/openclaw/commit/67035a6af8c7d021a26e3bebfbc7711ee6a33c87)
+- [ ] [<code>refactor: dedupe core trimmed string readers</code>](https://github.com/openclaw/openclaw/commit/7999767a0fd4fc6ecb1e4462a3b8c4e6a217795e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: dedupe gateway agent trimmed readers</code>](https://github.com/openclaw/openclaw/commit/fdf60c06b0d00d3491a7e28cf45e6f4df1074724)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: speed up subagent registry persistence resume test</code>](https://github.com/openclaw/openclaw/commit/b2169c429590abd21d044a1b235f5c102aa057a9)
+- [ ] [<code>test: speed up auth profile store tests</code>](https://github.com/openclaw/openclaw/commit/d471bbc94d3f101dedc5508dd55bfb53c344369b)
+- [ ] [<code>fix(test): align boundary and approval suites</code>](https://github.com/openclaw/openclaw/commit/11185f63970f9f3ca46f677437e0b34f76d3cc66)
+- [ ] [<code>refactor: move qa suite definitions into markdown</code>](https://github.com/openclaw/openclaw/commit/c0aed59fca74b2da953d184da2a2b65c6eabd77e)
+- [ ] [<code>Tests: update compaction fallback retry mock</code>](https://github.com/openclaw/openclaw/commit/7e2fc5785821d0e67443e0b5ac0595b0c575ddbb)
+- [ ] [<code>Approvals: align native runtime tests</code>](https://github.com/openclaw/openclaw/commit/a51488c13ca4c19265fc454dc4f1df241cfadbfd)
+- [ ] [<code>Browser: align plugin registration mutability</code>](https://github.com/openclaw/openclaw/commit/ae5118a8b5f20fc126cd2b0313923e943468abfa)
+- [ ] [<code>Tests: align exec approval policy expectations</code>](https://github.com/openclaw/openclaw/commit/a80453f2e1e5c8a732701711e73477b719195f08)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Tests: align extension approval startup seams</code>](https://github.com/openclaw/openclaw/commit/5f5ec841fb22f976e0b3c91701edf06a9ed3bd00)
+- [ ] [<code>Tests: keep route notice coverage in coordinator</code>](https://github.com/openclaw/openclaw/commit/d1019eaa9f0f7648af1a4b70ef6c25679156dc42)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Tests: repair latest main type drift</code>](https://github.com/openclaw/openclaw/commit/6affd09dbe5c209978557914cdf3cc993cbb5df1)
+- [ ] [<code>fix(test): align exec approvals expectations</code>](https://github.com/openclaw/openclaw/commit/6f159a9a28e53c3e44f10212460230be0afb2206)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat: add gh-read GitHub app helper</code>](https://github.com/openclaw/openclaw/commit/d51f527ccaf19f8abe5a84f86f7afe5548630379)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>test: use line adapters in setup-surface tests</code>](https://github.com/openclaw/openclaw/commit/d2fa1de7ba7f8fea0115596f0b4ebefc1ba2e968)
+- [ ] [<code>test: speed up stream and bash tool tests</code>](https://github.com/openclaw/openclaw/commit/f738297bda31d42ffaa31f5c4f14a6edd3bd7954)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: speed up model config provider tests</code>](https://github.com/openclaw/openclaw/commit/8fae1825319bb77192b2bb1950dfe062921c698d)
+- [ ] [<code>refactor: dedupe provider trimmed readers</code>](https://github.com/openclaw/openclaw/commit/5fa3b8d7a06a4718043c094e2521f5033d2a545a)
+- [ ] [<code>refactor: dedupe browser trimmed readers</code>](https://github.com/openclaw/openclaw/commit/1868f301ed0b210893d6dee63a24474ebd9d6d37)
+- [ ] [<code>refactor: dedupe ui trimmed readers</code>](https://github.com/openclaw/openclaw/commit/7a28572caa8873713911902f145a37282de78920)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: dedupe browser trimmed readers</code>](https://github.com/openclaw/openclaw/commit/aaa88398bfc5b49995d88b729994e98b0929046e)
+- [ ] [<code>refactor: dedupe telegram trimmed readers</code>](https://github.com/openclaw/openclaw/commit/96fe85fb7799cd9e958cf93faf55df5517fb5ae8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: dedupe discord trimmed readers</code>](https://github.com/openclaw/openclaw/commit/c7347a492ee26a1b933d2fb07e308dfc8f8a079a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: dedupe command trimmed readers</code>](https://github.com/openclaw/openclaw/commit/e3b9c4a0a3abf4d5652a7be345e55a4a19e15cc2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: dedupe agent trimmed readers</code>](https://github.com/openclaw/openclaw/commit/65ea8c60f3dbca95e33ea9d1daded68c629a0da9)
+- [ ] [<code>refactor: dedupe gateway trimmed readers</code>](https://github.com/openclaw/openclaw/commit/134588fc1776f7855a5ae5c77baf3bebe0e6247d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: dedupe infra trimmed readers</code>](https://github.com/openclaw/openclaw/commit/c7ecc1ebf4f175a73afcced48fab198a1c52192a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: dedupe auto-reply trimmed readers</code>](https://github.com/openclaw/openclaw/commit/669b352d36d8e58bd8f4d9ce7a3d3f0fb99c38ac)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: dedupe gateway trimmed readers</code>](https://github.com/openclaw/openclaw/commit/b3ecabbbb7224744b08426ab083006c220c58d07)
+- [ ] [<code>refactor: dedupe agent trimmed readers</code>](https://github.com/openclaw/openclaw/commit/ee0425a705fdb9feac6d0b6133d968a99e432fee)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: dedupe channel trimmed readers</code>](https://github.com/openclaw/openclaw/commit/ef903d881e57aba15f2587430bcb3c080e6d9a35)
+- [ ] [<code>fix: resolve ci type regressions</code>](https://github.com/openclaw/openclaw/commit/5e2736089d5244e21edac77cd38b4ac74575e1c3)
+- [ ] [<code>perf(test): trim infra provider and approval suites</code>](https://github.com/openclaw/openclaw/commit/1c1eb542b6ce72aa18b271f6b87ececb13777d64)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: honor explicit auth profile selection (#62744)</code>](https://github.com/openclaw/openclaw/commit/6bd480ea1f38f78eb45d20936b4874de50cd2434)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(logging): correct levelToMinLevel mapping and related filter logic for tslog v4 (#44646)</code>](https://github.com/openclaw/openclaw/commit/f6bf8c7202a1976f1cee353a606fee19b78602fb)
+- [ ] [<code>Tests: type provider usage plugin mocks</code>](https://github.com/openclaw/openclaw/commit/cda0c66258ddc9aa5f6bca74bd9d7c64b848a206)
+- [ ] [<code>test: speed up agent auth config tests</code>](https://github.com/openclaw/openclaw/commit/c01666f7ab3251a4e9ad05f4d7bb57eac6ab2dac)
+- [ ] [<code>test: speed up agent runtime helper tests</code>](https://github.com/openclaw/openclaw/commit/f9dcd1e155c08d45017dd677686f3ad79433e8b4)
+- [ ] [<code>test: speed up cli and process tests</code>](https://github.com/openclaw/openclaw/commit/552b5d3859137106838b796766e1ed792f19dedd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Tests: use timeout-classed compaction failure</code>](https://github.com/openclaw/openclaw/commit/7f508755a119052a9efd797422c4e7935d6fa48c)
+- [ ] [<code>test: fix provider usage mocks and trim media runner setup</code>](https://github.com/openclaw/openclaw/commit/93d71acbd8615427aa27a7f7807593993b92a9c6)
+- [ ] [<code>Tests: align provider synthetic auth fixture</code>](https://github.com/openclaw/openclaw/commit/259e9abbc5a0fc425516336b2beaf042d38fb4aa)
+- [ ] [<code>fix: surface Claude CLI API errors</code>](https://github.com/openclaw/openclaw/commit/4d3c72a521cde7c64000e1dca5e28d682f792bc3)
+- [ ] [<code>fix: respect disabled heartbeat guidance</code>](https://github.com/openclaw/openclaw/commit/51633fc13a553c831cf7ec4a4dbe38e9bef6fec0)
+- [ ] [<code>test: trim config defaults and secrets refresh coverage</code>](https://github.com/openclaw/openclaw/commit/b998156083b5ad1dd2ba87802025c559e2ed399d)
+- [ ] [<code>test: fold identity defaults into existing config suites</code>](https://github.com/openclaw/openclaw/commit/cddfd7781eb58a055ac45c7fe8ddb21d55b2137e)
+- [ ] [<code>test: split channel textChunkLimit schema coverage</code>](https://github.com/openclaw/openclaw/commit/c1d08e3ddce4cd231a6090197503a709c617526a)
+- [ ] [<code>test: trim duplicate config migration coverage</code>](https://github.com/openclaw/openclaw/commit/c907dfa058f755c2cebd490cfd2b70243bd89ff6)
+- [ ] [<code>test: narrow config migration smoke coverage</code>](https://github.com/openclaw/openclaw/commit/29decd58ddfb56af25e030dcc6b8a6053d8ddae2)
+- [ ] [<code>fix: pass threadId through sessions_send announce delivery (#62758)</code>](https://github.com/openclaw/openclaw/commit/8359e5f584d34096500f3b1e39e54dc31ca2e582)
+- [ ] [<code>Tests: stabilize memory dreaming time windows</code>](https://github.com/openclaw/openclaw/commit/27f122c4bf9b53cb40c14ee09075a176ca5e57c6)
+- [ ] [<code>test: trim secrets runtime x_search coverage</code>](https://github.com/openclaw/openclaw/commit/bdcf8b9796461f00cd05f749328f96260f03a106)
+- [ ] [<code>Tests: type sessions send gateway mock</code>](https://github.com/openclaw/openclaw/commit/381d22969937b178e9f0f20d5fcd085656b88a29)
+- [ ] [<code>fix(daemon): skip machine-scope fallback on permission-denied bus errors (#62337)</code>](https://github.com/openclaw/openclaw/commit/700efe6d16c4519f29efe7e524f5b014332cec9c)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
