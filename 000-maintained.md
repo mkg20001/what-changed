@@ -2612,6 +2612,19 @@
 - [ ] [<code>Allow personal skills to be gitignored (#184727)</code>](https://github.com/flutter/flutter/commit/54ac9d2f9749d57dc7c64fae38d5a7f9d09faa32)
 - [ ] [<code>Even more awaits v2 (#184552)</code>](https://github.com/flutter/flutter/commit/a443575b65a2f2fa4867f8275968f7b8047cfce9)
 - [ ] [<code>Remove navigator_utils cross-imports from cupertino tests (#184282)</code>](https://github.com/flutter/flutter/commit/94ab18297d88700ab8f6d10956d05d0666ac1fa0)
+- [ ] [<code>Roll Fuchsia Linux SDK from 1rcChbOv4nSTVkUxs... to pDXMXRIjEHTw7B0sk... (#184722)</code>](https://github.com/flutter/flutter/commit/d3d4789db11d809f4474d6c62fb21bad40e89640)
+- [ ] [<code>Roll pub packages (#184772)</code>](https://github.com/flutter/flutter/commit/5c2fb58b1275f2216e044eeddbf5e5e313a16c07)
+- [ ] [<code>Roll Packages from 5299279b93ce to 0e0a032a4a9b (5 revisions) (#184720)</code>](https://github.com/flutter/flutter/commit/50e6d98d05309acf4347b4fc51624b30a9763717)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Roll Skia from e264d870a380 to e9ed4fc9f154 (11 revisions) (#184713)</code>](https://github.com/flutter/flutter/commit/e4ae4e6e8b4159531cd331be748c2b11a2737cc2)
+- [ ] [<code>Correctly handle failure to read /proc/self/exe link (#184700)</code>](https://github.com/flutter/flutter/commit/68502276df33589fb470ec736e3cdff3c5987001)
+- [ ] [<code>Add await or ignore lint to invokeMethod callsites (#182870)</code>](https://github.com/flutter/flutter/commit/8bdaa65b1c1ebe4d5b202248897c46d6d9889587)
+- [ ] [<code>[fuchsia] Give AOT runners the ability to copy FFI callback thunks. (#184696)</code>](https://github.com/flutter/flutter/commit/129628a4dce4128d7f7c0bc6f0e123b47c690a6c)
+- [ ] [<code>[Dot shorthands] Migrate examples/api/test (#183966)</code>](https://github.com/flutter/flutter/commit/87b8190b19013e52a321a36f04ca67a7b246ac83)
+- [ ] [<code>Update to the beta dart version for 3.44 branch cut.  (#184770)</code>](https://github.com/flutter/flutter/commit/a7884d5cf19b5bd0da877c242fd0d669d4e97c9c)
+- [ ] [<code>Change freeze flow to pull_request_target (#184785)</code>](https://github.com/flutter/flutter/commit/75c2a880f1299937ce2e6490524039e39040669a)
+- [ ] [<code>Warn about the use of TestSemantics (#184369)</code>](https://github.com/flutter/flutter/commit/ef44a7c3cef6fee67fbe29d4944632d8188d3ba7)
+- [ ] [<code>Refactor: remove material from autocomplete_test, scrollable_restoration_test, semantics_tester_generate_test_semantics_expression_for_current_semantics_tree_test (#184615)</code>](https://github.com/flutter/flutter/commit/894e391da448e3a9ce428a84a0f46ab347c617ef)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3374,6 +3387,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>MCP Streamable HTTP: add stateless Mcp-Session-Id support (#22000)</code>](https://github.com/netdata/netdata.git/commit/92a40a16bb395c1e11d34888503958beb910748a)
 - [ ] [<code>docs: correct Discord invite URL in 3 files (#22149)</code>](https://github.com/netdata/netdata.git/commit/08d387cef16fb1a73cbfb0f70aa8bb7bef68c06b)
 - [ ] [<code>fix(packaging): disable MongoDB exporter for EL10 (#22163)</code>](https://github.com/netdata/netdata.git/commit/c9250b3897954b56c3d6d30ad37d82058edcfe25)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-318-nightly.</code>](https://github.com/netdata/netdata.git/commit/450e95c030e3edd92e3e1697193297558f6e7125)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -10057,6 +10071,91 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: reuse verbose directive reply imports</code>](https://github.com/openclaw/openclaw/commit/ab46010caa29563ff91406be334661186443824e)
 - [ ] [<code>fix(browser): re-check interaction-driven navigations (#63226)</code>](https://github.com/openclaw/openclaw/commit/5f5b3d733bdd791cb457f838514179e1288b10b3)
 - [ ] [<code>test: move directive state coverage to pure tests</code>](https://github.com/openclaw/openclaw/commit/37fb1eb9ad199822df1ad8e2a0ce5f52fcc3ebc6)
+- [ ] [<code>fix: enable thinking support for the ollama api (#62712)</code>](https://github.com/openclaw/openclaw/commit/d7bf97adb33066d127adbb188b06cbffd020a3a4)
+- [ ] [<code>Slack: treat ACP block text as visible output (#62858)</code>](https://github.com/openclaw/openclaw/commit/30211be1cb5bf67de84b95219497ad13b1c910ac)
+- [ ] [<code>fix: fail fast on qa live auth errors</code>](https://github.com/openclaw/openclaw/commit/491e216c4518036c653f559748b0070265646614)
+- [ ] [<code>fix: fail fast across qa scenario wait paths</code>](https://github.com/openclaw/openclaw/commit/b3f3cfd5982f1366bfae567b0990b3c7e50e34bf)
+- [ ] [<code>test: cover qa scenario wait failure replies</code>](https://github.com/openclaw/openclaw/commit/a6d76df4f0c0d2192a393c0c5e250fa7014beac5)
+- [ ] [<code>fix: sanitize qa missing-key replies</code>](https://github.com/openclaw/openclaw/commit/4ad9f166e21428b4e6d8fdefff822e18dfe52544)
+- [ ] [<code>test: cover sanitized qa missing-key replies</code>](https://github.com/openclaw/openclaw/commit/7d818c32baef83da3ce5a5a60d8974dc20e685bf)
+- [ ] [<code>fix: align qa wait cursor semantics</code>](https://github.com/openclaw/openclaw/commit/204d766b270862d6a4798b24345812525139bd16)
+- [ ] [<code>test: cover mixed-traffic qa wait cursors</code>](https://github.com/openclaw/openclaw/commit/9cfa152962c59a7d1bd15a40dd64bd81b7ea1087)
+- [ ] [<code>fix: classify curated qa missing-key replies</code>](https://github.com/openclaw/openclaw/commit/c63d25bd9b17f201114d7e0d206ea8f5d73cf948)
+- [ ] [<code>test: cover curated qa missing-key reply classification</code>](https://github.com/openclaw/openclaw/commit/d66e2d5b33dd39f1febc70f7a245846c80e07d1f)
+- [ ] [<code>fix: harden qa missing-key provider messages</code>](https://github.com/openclaw/openclaw/commit/705d2dd03ecb55f8489558e78c19b909cb464b83)
+- [ ] [<code>test: cover unsafe qa missing-key providers</code>](https://github.com/openclaw/openclaw/commit/48c4003f2221077ef66fc97e22432f4b6943325f)
+- [ ] [<code>docs(changelog): add qa auth fail-fast entry (#63333) (thanks @shakkernerd)</code>](https://github.com/openclaw/openclaw/commit/540fcd48f76f042c9170a075495d9b7cd0b8d19a)
+- [ ] [<code>fix(matrix/doctor): migrate legacy channels.matrix.dm.policy 'trusted' (fixes #62931) (#62942)</code>](https://github.com/openclaw/openclaw/commit/f6e1da3ab3d5a1ef3a6606b89b46c95fe0d58875)
+- [ ] [<code>Memory/dreaming: feed grounded backfill into short-term promotion (#63370)</code>](https://github.com/openclaw/openclaw/commit/e8209e4cf9b85be743aa56c6195485cac4817bcb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update unreleased changelog</code>](https://github.com/openclaw/openclaw/commit/6b73a74d53915dfca8f5660eaf2f8eda6bec2175)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): classify dream diary actions</code>](https://github.com/openclaw/openclaw/commit/85e222717f91f9edd16d7494d3a85cdfe38ecf4a)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(memory): align dreaming status payloads</code>](https://github.com/openclaw/openclaw/commit/868d03d6d03f49415edd475e442980d8678aa814)
+- [ ] [<code>Memory/dreaming: harden grounded backfill follow-ups</code>](https://github.com/openclaw/openclaw/commit/a71ad1204431bb38f5237faa8b5f7052b2d61065)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: reuse inline directive reply imports</code>](https://github.com/openclaw/openclaw/commit/51bf97a9db1be6fcd19f439d50bd0d3789d5e2e0)
+- [ ] [<code>Docs/memory: explain grounded backfill flows</code>](https://github.com/openclaw/openclaw/commit/85427441a280fca2d0b69f7419e6def32f4d52d3)
+- [ ] [<code>fix(deps): patch basic-ftp advisory</code>](https://github.com/openclaw/openclaw/commit/9286de5d95b15c7b0f2d68b2a397fafd9064000c)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test: move inline directive collisions to pure tests</code>](https://github.com/openclaw/openclaw/commit/f8a57fe47b42d3df74e96807680beb3c45bb4cd8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Slack: dedupe partial streaming replies (#62859)</code>](https://github.com/openclaw/openclaw/commit/10c87527d5d85c42b3733f5b52e95c414b1e0c7a)
+- [ ] [<code>test: replace exec directive e2e with pure coverage</code>](https://github.com/openclaw/openclaw/commit/9ffe216a528c0fe3aaf0c33b70de5776f256584f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(plugins): keep test helpers out of contract barrels (#63311)</code>](https://github.com/openclaw/openclaw/commit/554bc0a9fdd284c8ce01d97095575a3594ecf856)
+- [ ] [<code>test: move cron heartbeat delivery coverage below full turns</code>](https://github.com/openclaw/openclaw/commit/2787b5bcae3cc4c4c92a7891ce7fb91e57205621)
+- [ ] [<code>fix: inter-session messages must not overwrite established external lastRoute (#58013)</code>](https://github.com/openclaw/openclaw/commit/8190cc4d218969bb25ad936213b5319ebfd78415)
+- [ ] [<code>fix(gateway): suppress announce/reply skip chat leakage (#51739)</code>](https://github.com/openclaw/openclaw/commit/68630a9e6ddf2d2183a646b0c5c6649ef54f332c)
+- [ ] [<code>Slack: key turn-local dedupe by dispatch kind</code>](https://github.com/openclaw/openclaw/commit/bd7801eefaa1929f787797a05e65916ef6e9bbf3)
+- [ ] [<code>Dreaming: surface grounded scene lane (#63395)</code>](https://github.com/openclaw/openclaw/commit/d514f4de830dd27d43e08a34877c029b912a7115)
+- [ ] [<code>test: avoid runtime auth overlays in failure-state coverage</code>](https://github.com/openclaw/openclaw/commit/3c7beb4e4210ca67fd8d93bf086ee43720e95794)
+- [ ] [<code>fix(ci): align ollama thinking expectations</code>](https://github.com/openclaw/openclaw/commit/95a4dd5abb02a8aba8219162f9d512c6c3436132)
+- [ ] [<code>chore(ui): refresh zh-CN control ui locale</code>](https://github.com/openclaw/openclaw/commit/be38cea78c4f933a0659d3f3b4b09c9deb7fb1d9)
+- [ ] [<code>chore(ui): refresh pt-BR control ui locale</code>](https://github.com/openclaw/openclaw/commit/3d318dd1ec3338f74e6476d2d1c912597b56f3b0)
+- [ ] [<code>chore(ui): refresh zh-TW control ui locale</code>](https://github.com/openclaw/openclaw/commit/a68e22ebf17afdae1793f95f5aed129e6d026d61)
+- [ ] [<code>chore(ui): refresh de control ui locale</code>](https://github.com/openclaw/openclaw/commit/ceb64dc07e5a80b80a7a521e460aaec3eead677c)
+- [ ] [<code>test(docker): reduce e2e log noise</code>](https://github.com/openclaw/openclaw/commit/b76681f28d902f72dea1b11a69d605e045cb6de0)
+- [ ] [<code>chore(ui): refresh es control ui locale</code>](https://github.com/openclaw/openclaw/commit/1e31dd020b0c313bbe102a3d87bbfd8db324197a)
+- [ ] [<code>chore(ui): refresh fr control ui locale</code>](https://github.com/openclaw/openclaw/commit/e5dab8e60076b28c578ac2715eda51a2cd3f96fe)
+- [ ] [<code>chore(ui): refresh ja-JP control ui locale</code>](https://github.com/openclaw/openclaw/commit/8750701a9382b0489ef42b6305215565c3e2502f)
+- [ ] [<code>chore(ui): refresh ko control ui locale</code>](https://github.com/openclaw/openclaw/commit/f562a31b96a3457396e63dc346d2d8ec4632e075)
+- [ ] [<code>chore(ui): refresh uk control ui locale</code>](https://github.com/openclaw/openclaw/commit/1b596e650b199595b6b44a76e9cfd5638d6d1b16)
+- [ ] [<code>chore(ui): refresh id control ui locale</code>](https://github.com/openclaw/openclaw/commit/955ef1ee2a43e2ec58b9ae22dd5606bb21288dc3)
+- [ ] [<code>chore(ui): refresh pl control ui locale</code>](https://github.com/openclaw/openclaw/commit/5d85d232c935f2fd5029e1fc32f25000967a76eb)
+- [ ] [<code>chore(ui): refresh tr control ui locale</code>](https://github.com/openclaw/openclaw/commit/e93ff841187b79705bedeb2461ad6f71a6cc3d6e)
+- [ ] [<code>fix: restore main ci</code>](https://github.com/openclaw/openclaw/commit/c62a39c7a19560c6411f1322ab114af30cfab85f)
+- [ ] [<code>fix(ci): drop silent history before truncation</code>](https://github.com/openclaw/openclaw/commit/0560f3c9c0b64c56edaebba77eef967aab9cd895)
+- [ ] [<code>docs: reorder unreleased changelog</code>](https://github.com/openclaw/openclaw/commit/ac57c7c30997b86ffa2611d91f188f683492946c)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test(docker): quiet success-path e2e logs</code>](https://github.com/openclaw/openclaw/commit/aa79b9fb7d7e76b211bc453fedb7db832686bd78)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>style: sort session import</code>](https://github.com/openclaw/openclaw/commit/5e83e81af88e9f589f147318006a4fa3d0b51a47)
+- [ ] [<code>build: mirror bundled plugin runtime deps</code>](https://github.com/openclaw/openclaw/commit/0fce013ebf7fe4c4d84178f88c1394f08804b7f5)
+- [ ] [<code>plugins: load lightweight provider discovery entries</code>](https://github.com/openclaw/openclaw/commit/fbbd644d7ae26d20693b245e4f45803d652737d2)
+- [ ] [<code>ci: narrow Windows node test lane</code>](https://github.com/openclaw/openclaw/commit/3d9a151fd1598d82d10e5b592f002e3324973e74)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: filter provider auth aliases by plugin trust</code>](https://github.com/openclaw/openclaw/commit/7fd6e2ec4c7c3c8c65c7d65e60e5191bd821e1ed)
+- [ ] [<code>fix: surface delayed browser navigation blocks</code>](https://github.com/openclaw/openclaw/commit/f2c0482d3cd89a776bb7912adf4ad1c4163e1543)
+- [ ] [<code>style: format memory and gateway touchups</code>](https://github.com/openclaw/openclaw/commit/ac12b0701b5b7401096ea6b2216992ba52da983d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Delete docs/plans directory</code>](https://github.com/openclaw/openclaw/commit/78b6bedd104666ef4e9be51fd4f47a4718164fb4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: avoid remote ollama timeout in api-key preservation coverage</code>](https://github.com/openclaw/openclaw/commit/1abd444a9eda33fe16f43d642baf87cb5e72426e)
+- [ ] [<code>test: keep auth-choice default-model coverage on lightweight provider</code>](https://github.com/openclaw/openclaw/commit/dda1d98645c1f92cf05fdad75a94a1b40896869b)
+- [ ] [<code>test: keep undefined-token auth-choice coverage generic</code>](https://github.com/openclaw/openclaw/commit/dc2a0f5b8a5d71d2959e2ca296a637ddcf015aa4)
+- [ ] [<code>fix: stabilize character eval and Qwen model routing</code>](https://github.com/openclaw/openclaw/commit/39cc6b7dc78c0a80552454ad18b9d5bab86551ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: keep agent command tests off external auth overlays</code>](https://github.com/openclaw/openclaw/commit/b706301b44f7d966a579f9718627de3dd879e589)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix openrouter model picker refs (#63416)</code>](https://github.com/openclaw/openclaw/commit/5f8de8c3f4ca0316196439712bcd01ca68bbbb26)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: stabilize macOS and transcript policy tests</code>](https://github.com/openclaw/openclaw/commit/acdee39fa4201c618d86001700ce5b2f9fe3c086)
+- [ ] [<code>test: keep cli-provider agent command tests off external auth overlays</code>](https://github.com/openclaw/openclaw/commit/1f3171ac910685f0bbba5422d03a1a0d85b6abad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(lint): clear extension lint regressions and add #63416 changelog</code>](https://github.com/openclaw/openclaw/commit/2484064c48a29b9f6960d8fd10e61ea7de4b5e52)
+- [ ] [<code>test: update modelstudio catalog contract sentinel</code>](https://github.com/openclaw/openclaw/commit/0766f0b422a1dd7aeaffe862df408ba133d355f7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
