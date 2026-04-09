@@ -196,6 +196,11 @@
 - [ ] [<code>backup-locker.c: Kill xprop during unlock.</code>](https://github.com/linuxmint/cinnamon/commit/b34c4d16a4b99c8566d6f5c0a306a4126194ee53)
   - <sub>Keywords: <code>subprocess</code></sub>
 - [ ] [<code>js: Use GioUnix instead of Gio.Unix in a few places.</code>](https://github.com/linuxmint/cinnamon/commit/ab9adeb511017073d486bcba47fa9cf7b17595c4)
+- [ ] [<code>loginManager: add sessionIsActive property updated when ActiveChanged</code>](https://github.com/linuxmint/cinnamon/commit/c5151471b0998c1ba3fffa8ebb91142ede4a7d4c)
+- [ ] [<code>Implement mount/unmount/autorun user interaction in Cinnamon.</code>](https://github.com/linuxmint/cinnamon/commit/9bdd28c5930b894a8d8e2ea0eac62e80d2754df5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>main.js: Handle xkb next-group in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/1898e911f1ba45bf6a2f8d901507c9a64a16ca64)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -258,7 +263,10 @@
 - [ ] [<code>power: drop Phone Manager (#430)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/69711a0fdf7bd4e107305c7f389b3d5ef431d87d)
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add support for an ambient light sensor. (#444)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/734fd6044ac6fc826e663a7d630069ec90d4a710)
+- [ ] [<code>csd-automount: Disable autostart. (#445)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6742483f998539e4e85d02ecda42d18ea9a8de36)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -266,8 +274,13 @@
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
 - [ ] [<code>Add pkgconfig variable to export the appropriate API version of mozjs (#134)</code>](https://github.com/linuxmint/cjs/commit/3cb58021fb050a06e80433ec8fc8d2621cf3f3df)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>master.lmde7</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>mozjs 140 + gjs 1.88.0</code>](https://github.com/linuxmint/cjs/commit/3015fd96065d06801ac1f6f2ddaf96f5768e84ec)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>importer: Add 'clear_cache' function to allow reloading of modules.</code>](https://github.com/linuxmint/cjs/commit/d941af3e5f3290b9da3a75277e71e765c9cb6edb)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -373,6 +386,7 @@
 - [ ] [<code>Fix several memory leaks. (#3721)</code>](https://github.com/linuxmint/nemo/commit/0446b9e3f4cf0f5d9bbb0d3aa62e1142e3376d2b)
 - [ ] [<code>nemo-file-operations.c: Fix file copies breaking ownership rules. (#3731)</code>](https://github.com/linuxmint/nemo/commit/58846d5db828125c50a2b9ef2e65b6db83d5a630)
 - [ ] [<code>nemo-view.c: Cleanup unused code from a removed feature.</code>](https://github.com/linuxmint/nemo/commit/1337cf0cc6e55acf3909a5b32d42e16d77a5763b)
+- [ ] [<code>nemo-progress-info-widget.c: Disable start/pause button when an</code>](https://github.com/linuxmint/nemo/commit/4825be242adce942756be57ebde86d8720cb3164)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
