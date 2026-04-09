@@ -2633,6 +2633,9 @@
 - [ ] [<code>Roll Skia from d2b0bd12576a to 7c46cb639dba (1 revision) (#184796)</code>](https://github.com/flutter/flutter/commit/721a6b5d3e25ede0e57f022e9c7d75492249d23e)
 - [ ] [<code>Improve documentation of `frictionFactor` function (#184509)</code>](https://github.com/flutter/flutter/commit/39e21ef20e11c07983adba06daa07a6a638780cb)
 - [ ] [<code>Make `windowing_test` follow repo analyzer rules (#184752)</code>](https://github.com/flutter/flutter/commit/d996d16d7e4f54c18bb8ac9ebfca897260f8500f)
+- [ ] [<code>Roll Skia from 7c46cb639dba to 4d0f5389e131 (7 revisions) (#184812)</code>](https://github.com/flutter/flutter/commit/dd400f2dcfdba5c7f8c1d778be924ba7c311c155)
+- [ ] [<code>Remove last material dependency from cupertino tests (#184781)</code>](https://github.com/flutter/flutter/commit/81c87ea165df95681eb3a07e1f442983bf0e0e17)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -2982,6 +2985,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Avoid MT loop restoration crash in libaom < 3.13.3</code>](https://github.com/AOMediaCodec/libavif/commit/b8d6c1a8d154ac4d0e5c63354e8aa9f2cafb2995)
 - [ ] [<code>setup-macos: Disable installation of imagemagick</code>](https://github.com/AOMediaCodec/libavif/commit/7ac6d8c645f598eddf5642147631151d9dcfbe75)
 - [ ] [<code>Fix layered image decoding with alpha</code>](https://github.com/AOMediaCodec/libavif/commit/d87d7a33d9c6d2e5c1ea18dd540a20d32ebfe48a)
+- [ ] [<code>Bump SVT-AV1 dependency to v4.1.0</code>](https://github.com/AOMediaCodec/libavif/commit/d64d496ec22e97b76fee2078bfd857f58e00f012)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Update to AVM research-v14.1.0 minor release</code>](https://github.com/AOMediaCodec/libavif/commit/b357f083ea5ae0ee7b09a65a48621f345e710588)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -3398,6 +3404,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-318-nightly.</code>](https://github.com/netdata/netdata.git/commit/450e95c030e3edd92e3e1697193297558f6e7125)
 - [ ] [<code>build(deps): bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 in /src/go (#22171)</code>](https://github.com/netdata/netdata.git/commit/4a877d3cce9051ec74af57400823ff0284b5500b)
 - [ ] [<code>fix: bearer token creation truncates client_name and returns wrong expiry for existing tokens (#22167)</code>](https://github.com/netdata/netdata.git/commit/7c64f676b8f20c9dca2b9fe7dc332eadcee00863)
+- [ ] [<code>Make scripts plugin optional but installed by default for native packages. (#22155)</code>](https://github.com/netdata/netdata.git/commit/4fa8b6e05f2ee6f13803e871f8f4d8c86e2c3b7e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Minor release v2.10.0.</code>](https://github.com/netdata/netdata.git/commit/e1d4352a88384886ab120b5fe7138383d65cd684)
+  - <sub>Tags: <code>v2.10.0</code></sub>
+- [ ] [<code>Stabilize runtime metrics shutdown test (#22169)</code>](https://github.com/netdata/netdata.git/commit/5d55cb5bc8cb3b95124e68c390addd58384b8eb1)
+- [ ] [<code>chore(go): go fix (#22173)</code>](https://github.com/netdata/netdata.git/commit/08aae60515ae9327fe4396fbeda68d8c7e4152a7)
+- [ ] [<code>chore(go/ibm.d): remove buildtag comment (#22174)</code>](https://github.com/netdata/netdata.git/commit/848e971faeafed6b9911e426dbc6abd324a6d2d6)
+- [ ] [<code>ci(go-tests): add "go fix" check to workflow (#22172)</code>](https://github.com/netdata/netdata.git/commit/c37a75057d298e0df44d46a765abbc2bcf39e398)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4223,6 +4237,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(android): add lfm moe (#1048)</code>](https://github.com/NexaAI/nexa-sdk/commit/2290372c3c300fe1e94dad92a707862c19b7586b)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>fix: android links in readme (#1052)</code>](https://github.com/NexaAI/nexa-sdk/commit/9b0e5e6d8d93f57adb151f6bd867e07b045c0281)
+- [ ] [<code>ReadME update (#1063)</code>](https://github.com/NexaAI/nexa-sdk/commit/aca9544f46dfcd4088d4e336876b7af90c0ffc96)
 > Dropped odoo17 - no appropriate URL found OrderedDict({'attr_path': 'odoo17', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip', 'urls': ['https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped odoo18 - no appropriate URL found OrderedDict({'attr_path': 'odoo18', 'home_url': 'https://www.odoo.com/', 'src_url': 'https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip', 'urls': ['https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.20250506.zip'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -10334,6 +10349,30 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(feishu): read webhook bodies through pre-auth guard</code>](https://github.com/openclaw/openclaw/commit/8be3a4466cbc69c59689c9c31ec9920023a1044d)
 - [ ] [<code>style: format web fetch ssrf test</code>](https://github.com/openclaw/openclaw/commit/828c64e6b51d9ea72bf5131b6c92bd12be7cfb32)
 - [ ] [<code>docs: add changelog entry for FirePass Kimi fix</code>](https://github.com/openclaw/openclaw/commit/46b1ecd6ed126419c9e2e1fff5dd75fc23ba0684)
+- [ ] [<code>fix(control-ui): preserve configured model metadata in picker (#61382)</code>](https://github.com/openclaw/openclaw/commit/4977c4ab82214344e349eea35632f005556cf96e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: stable auth profile resolution for isolated cron jobs (#62797) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/12544e24d7abc520bd966feb337d8a8184bae97b)
+- [ ] [<code>fix: keep gateway RPC up during startup (#63480)</code>](https://github.com/openclaw/openclaw/commit/5577e2d4410ae1036f0576d3cd8afc2ce828b3db)
+- [ ] [<code>fix: preserve iMessage self-chat aliases (#61619) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/9267c3f8f2f2fd243c52184b4529899f74e124f4)
+- [ ] [<code>fix: allow CLI task cancel for stuck background tasks (#62506) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/7f714609f76443f1db05b238659297c89aef9ffb)
+- [ ] [<code>fix: start tailscale exposure before sidecars</code>](https://github.com/openclaw/openclaw/commit/b8af4d6739d1ef9ec6900a0fbcfc1630ce072f41)
+- [ ] [<code>fix: exclude DM participant lists from iMessage self-chat check</code>](https://github.com/openclaw/openclaw/commit/1ee4a1606e9a5afc13b91b49304d58b84d90c770)
+- [ ] [<code>fix: provider-qualified session context limits (#62493) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/2645ed154b425ead760484a97bf7520f3e16e457)
+- [ ] [<code>Matrix: drop dead legacy crypto wrapper</code>](https://github.com/openclaw/openclaw/commit/414b7b5ac42f80f18ef9d5eec96f2eac1e821ea5)
+- [ ] [<code>fix(qqbot): enforce media storage boundary for all outbound local file paths [AI] (#63271)</code>](https://github.com/openclaw/openclaw/commit/604777e4414cc3b2ff8861f18f4fb04374c702c6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qqbot): add stream config (#63746)</code>](https://github.com/openclaw/openclaw/commit/65b781f9ae3a0d0463dda4b4c6710d8f0b3a2bad)
+- [ ] [<code>fix: exclude workspace shadows from channel setup catalog lookups</code>](https://github.com/openclaw/openclaw/commit/1fede43b948df40ca8674511d4bd08d39f6c5837)
+- [ ] [<code>fix(agents): guard nodes tool outPath against workspace boundary [AI-assisted] (#63551)</code>](https://github.com/openclaw/openclaw/commit/635bb35b68d8faa5bfa2fda35feadd315122748a)
+- [ ] [<code>docs-i18n: chunk raw doc translation (#62969)</code>](https://github.com/openclaw/openclaw/commit/06dea262c4fd82de0a3c58e77d5674ab8842bce2)
+- [ ] [<code>test+ui: fix persistent main CI regressions (#63825)</code>](https://github.com/openclaw/openclaw/commit/2954c7235b3a96f1c3e8790f3ad1f7504a3cec7f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs-i18n: avoid ambiguous body-only wrapper unwrap (#63808)</code>](https://github.com/openclaw/openclaw/commit/164287f0569a271d073dbffc9e8e0657cf00ca0b)
+- [ ] [<code>Feat: Add Active Memory recall plugin (#63286)</code>](https://github.com/openclaw/openclaw/commit/b83726d13e336643d0b68d8aae79f222b8d26e90)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(dreaming): require admin for persistent gateway toggle (#63872)</code>](https://github.com/openclaw/openclaw/commit/6af17b39e11f5f35e23b7e5a5f71a7d0aa3c7310)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory-core): use startup config for dreaming cron reconciliation (#63873)</code>](https://github.com/openclaw/openclaw/commit/2f130c418f862bd8f2dbbbc1dab373fcabe2b305)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
