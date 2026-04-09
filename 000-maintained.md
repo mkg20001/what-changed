@@ -2625,6 +2625,14 @@
 - [ ] [<code>Change freeze flow to pull_request_target (#184785)</code>](https://github.com/flutter/flutter/commit/75c2a880f1299937ce2e6490524039e39040669a)
 - [ ] [<code>Warn about the use of TestSemantics (#184369)</code>](https://github.com/flutter/flutter/commit/ef44a7c3cef6fee67fbe29d4944632d8188d3ba7)
 - [ ] [<code>Refactor: remove material from autocomplete_test, scrollable_restoration_test, semantics_tester_generate_test_semantics_expression_for_current_semantics_tree_test (#184615)</code>](https://github.com/flutter/flutter/commit/894e391da448e3a9ce428a84a0f46ab347c617ef)
+- [ ] [<code>[Android] Allow sensitive content to gracefully fail when unregistering host before registering (#184789)</code>](https://github.com/flutter/flutter/commit/ea46f69492e9a4c16b9f0169121d5063d501c722)
+- [ ] [<code>Roll Skia from e9ed4fc9f154 to d2b0bd12576a (36 revisions) (#184791)</code>](https://github.com/flutter/flutter/commit/96cd112292d0b4d89cfcf7a30539fd12cec74c33)
+- [ ] [<code>Roll pub packages (#184795)</code>](https://github.com/flutter/flutter/commit/87b1ec26e3dcd734cfd1d8ebe0c47129287e6c50)
+- [ ] [<code>Fixed freeze flow (#184793)</code>](https://github.com/flutter/flutter/commit/0f380cd42e9672e3c77224f35c7d3c269c519a81)
+- [ ] [<code>Roll Fuchsia GN SDK from JLBh4Z9PKsjIJcqDU... to SEfYx3xgueX3aFAY3... (#184797)</code>](https://github.com/flutter/flutter/commit/51f7ba2cbf6f4280004c96dec756132a5ebc9f85)
+- [ ] [<code>Roll Skia from d2b0bd12576a to 7c46cb639dba (1 revision) (#184796)</code>](https://github.com/flutter/flutter/commit/721a6b5d3e25ede0e57f022e9c7d75492249d23e)
+- [ ] [<code>Improve documentation of `frictionFactor` function (#184509)</code>](https://github.com/flutter/flutter/commit/39e21ef20e11c07983adba06daa07a6a638780cb)
+- [ ] [<code>Make `windowing_test` follow repo analyzer rules (#184752)</code>](https://github.com/flutter/flutter/commit/d996d16d7e4f54c18bb8ac9ebfca897260f8500f)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3388,6 +3396,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: correct Discord invite URL in 3 files (#22149)</code>](https://github.com/netdata/netdata.git/commit/08d387cef16fb1a73cbfb0f70aa8bb7bef68c06b)
 - [ ] [<code>fix(packaging): disable MongoDB exporter for EL10 (#22163)</code>](https://github.com/netdata/netdata.git/commit/c9250b3897954b56c3d6d30ad37d82058edcfe25)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-318-nightly.</code>](https://github.com/netdata/netdata.git/commit/450e95c030e3edd92e3e1697193297558f6e7125)
+- [ ] [<code>build(deps): bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 in /src/go (#22171)</code>](https://github.com/netdata/netdata.git/commit/4a877d3cce9051ec74af57400823ff0284b5500b)
+- [ ] [<code>fix: bearer token creation truncates client_name and returns wrong expiry for existing tokens (#22167)</code>](https://github.com/netdata/netdata.git/commit/7c64f676b8f20c9dca2b9fe7dc332eadcee00863)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4488,6 +4498,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build: v2.6.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15560cd3a709c394f587cbf09bfbf42f74b29c17)
 - [ ] [<code>Translated using Weblate (Hebrew)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a286c9ecc933f11acf9358ef382b1ab2326f3227)
   - <sub>Tags: <code>v2.6.2</code></sub>
+- [ ] [<code>fix(gui): empty appstream metadata description for v2.6.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc9afd0fc037c6784d44efd27cfa5db5a3f52e37)
+- [ ] [<code>fix(android): crash when device name is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7a4e7cf58513352ffd71c231b063e9e660d66f2f)
+- [ ] [<code>fix(android): crash when device name is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8b3fac91f7d3dbf2557b0dcc24757436cfb7cafc)
+- [ ] [<code>refactor(android): remove redundant catch</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e6a38c8f6ccefec356926e5df221cfa6fa82b669)
+- [ ] [<code>refactor(android): be very careful with nulls in ConnectionBackends</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a91016cf397d6db10a17ee2e8b4efbdc36c56314)
+- [ ] [<code>test(android): add test for AndroidRfcommConnectionBackendImpl</code>](https://github.com/Oppzippy/OpenSCQ30/commit/664c89756e69ab7eaf2cbb71e477737d21d93290)
+- [ ] [<code>ci: pin github actions using pinact</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2e1baf8e82b73e565b629aa701d920b206cf9be1)
+- [ ] [<code>ci(dependabot): add cooldown</code>](https://github.com/Oppzippy/OpenSCQ30/commit/123e824fde76b5cc1ddbc2c2934f62aa8709d2ec)
+- [ ] [<code>ci: fix zizmor warnings except for GITHUB_ENV</code>](https://github.com/Oppzippy/OpenSCQ30/commit/769494130344a4237429b8fb37d1cf3225f9be63)
+- [ ] [<code>ci: add option to build only for specific platforms</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7d0d60537e13ca2d42fe18795330972f1fc4f1b4)
+- [ ] [<code>build(android): remove obsolete release-android profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/637f2d03b6f2d0d9ff59fd7c0249534be4f7c712)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.4.2 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.4.2...HEAD)
 
@@ -10156,6 +10177,163 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(lint): clear extension lint regressions and add #63416 changelog</code>](https://github.com/openclaw/openclaw/commit/2484064c48a29b9f6960d8fd10e61ea7de4b5e52)
 - [ ] [<code>test: update modelstudio catalog contract sentinel</code>](https://github.com/openclaw/openclaw/commit/0766f0b422a1dd7aeaffe862df408ba133d355f7)
+- [ ] [<code>test: update character eval public panel</code>](https://github.com/openclaw/openclaw/commit/be46d0ddc6ed93558e3dcdee07f48cd560e4eded)
+- [ ] [<code>fix: repair Windows dev-channel updater</code>](https://github.com/openclaw/openclaw/commit/a8c47db668e2d1ac951b082ac67d679fdf7b63a7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test: move copilot models-json injection coverage to plan tests</code>](https://github.com/openclaw/openclaw/commit/691e2aa856ed86169c008f5111be4caa007a19ae)
+- [ ] [<code>plugin-sdk: split command status surface</code>](https://github.com/openclaw/openclaw/commit/aa15de8fdc8bfafe868795b45c416c797aab44b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>plugin-sdk: keep command status compatibility path light</code>](https://github.com/openclaw/openclaw/commit/ba636d1206682b21a366a24fc09c97c7819a6e95)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>plugin-sdk: drop investigative weixin repro harness</code>](https://github.com/openclaw/openclaw/commit/edc6c13f1fb76b4b7513375a5e7e60295db45f38)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>tests: document config mock choice for eager warmup</code>](https://github.com/openclaw/openclaw/commit/e892518b63fb9b0caa04d8007c2693b6cb8e9522)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: update command-status SDK baseline (#63174) (thanks @hxy91819)</code>](https://github.com/openclaw/openclaw/commit/6e200f4077bcf475de73f8ad083fa60262f5e250)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: cap broad live model sweeps</code>](https://github.com/openclaw/openclaw/commit/cca9e5b91403ba7124e673c679b9a1b50e002ad0)
+- [ ] [<code>fix: drop raw gateway chat control replies</code>](https://github.com/openclaw/openclaw/commit/6688779d364b48a06563ae6824eff7e60f020140)
+- [ ] [<code>test: make shared-token reload deterministic</code>](https://github.com/openclaw/openclaw/commit/a9f831e06550440417f02ecec20cf4ed9d8129be)
+- [ ] [<code>test: isolate agentic suite smoke tests</code>](https://github.com/openclaw/openclaw/commit/3ae10b02f268ce44b63d1766d5c53810bc56ded2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: replace models-config matrix with narrow coverage</code>](https://github.com/openclaw/openclaw/commit/f0644d761304733897c4c110505ea975d84267a3)
+- [ ] [<code>test: isolate onboard skills status mock</code>](https://github.com/openclaw/openclaw/commit/67a030dfe8e8fe7acbb30443934af94d914db36b)
+- [ ] [<code>plugins: add lightweight anthropic vertex discovery</code>](https://github.com/openclaw/openclaw/commit/f0ea5bf393bb6b14ebd8db1498c68f9d7e55d55a)
+- [ ] [<code>test: isolate model auth module state</code>](https://github.com/openclaw/openclaw/commit/d0c21cf54143f7d99860b057c61970f48fbe8e8d)
+- [ ] [<code>test: isolate subagent registry resume imports</code>](https://github.com/openclaw/openclaw/commit/1cd7ba88dfe562b8f725b48628a6d965d9375dc7)
+- [ ] [<code>plugins: keep google provider policy lightweight</code>](https://github.com/openclaw/openclaw/commit/dcfb3ed4e3887973b9eb133c52be1f960e08fd4a)
+- [ ] [<code>test: keep ollama unreachable discovery on localhost</code>](https://github.com/openclaw/openclaw/commit/0c5e524224cdd60a414f14d37671bad7472c8ea9)
+- [ ] [<code>test: mock auth profile external overlay in oauth tests</code>](https://github.com/openclaw/openclaw/commit/5f710bac35636d2b514e8c9ba1a179a1e2ea42b4)
+- [ ] [<code>auth: avoid plugin setup scans during common auth resolution</code>](https://github.com/openclaw/openclaw/commit/e890db76bc7a9dff86be02695a6111493557120c)
+- [ ] [<code>fix(logging): break console/logger type cycle</code>](https://github.com/openclaw/openclaw/commit/91ad1e5fc58469d41498573c159b23537d45e06e)
+- [ ] [<code>fix(config): stop owner-display barrel cycles</code>](https://github.com/openclaw/openclaw/commit/20f2f39d3030a484ae3b3acdbf9076aa5402a3b8)
+- [ ] [<code>fix(commands): split auth choice apply types</code>](https://github.com/openclaw/openclaw/commit/b13025f378f244a04dbb9f7875a699e85585e6d7)
+- [ ] [<code>fix(infra): extract exec approvals allowlist types</code>](https://github.com/openclaw/openclaw/commit/d9a3ecd109ee3606258628951021953ba8382589)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(commands): split doctor prompt option types</code>](https://github.com/openclaw/openclaw/commit/b73a18dd27f3ea2fea3ffdd491438613978028cf)
+- [ ] [<code>chore: prepare 2026.4.9-beta.1 release</code>](https://github.com/openclaw/openclaw/commit/7810ddc220cbdc034b636c404f6f08a1cd941e30)
+- [ ] [<code>chore: refresh config schema version for 2026.4.9-beta.1</code>](https://github.com/openclaw/openclaw/commit/1961102a59db35d97babf55601a859bde8bd4e35)
+- [ ] [<code>chore: refresh plugin SDK API baseline</code>](https://github.com/openclaw/openclaw/commit/e6797bcd084a6767823a68d55942083fb2d983bb)
+  - <sub>Tags: <code>v2026.4.9-beta.1</code></sub>
+- [ ] [<code>test: run local full suite project shards in parallel</code>](https://github.com/openclaw/openclaw/commit/5b28ab83ef9fb2e324256a38e5554c53c62531e2)
+- [ ] [<code>wizard: add explicit skip option to plugin setup (#63436)</code>](https://github.com/openclaw/openclaw/commit/0faae33b0c738865f5776be18db15e358171e563)
+- [ ] [<code>tests: reset discord native-command seams in model picker (#63267)</code>](https://github.com/openclaw/openclaw/commit/74b5b97f6245defdeedc12d7d8e8a367bdd4ab25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: tolerate noisy npm pack json output</code>](https://github.com/openclaw/openclaw/commit/b27918007ad25d0805d8f0fec408652028f6db6c)
+- [ ] [<code>test: isolate slack thread-ts recovery</code>](https://github.com/openclaw/openclaw/commit/62bde7ede3d3968e8426804dab5324731ed354d4)
+- [ ] [<code>fix(msteams): isolate channel thread sessions by replyToId (#58615) (#62713)</code>](https://github.com/openclaw/openclaw/commit/38aa1edf76dadb39a2bacf9cccdbe7c0e229c49a)
+- [ ] [<code>fix(msteams): route thread replies to correct thread via replyToId (#58030) (#62715)</code>](https://github.com/openclaw/openclaw/commit/9edfefedf7bf5cbaed83cd3f27447aeff62b1981)
+- [ ] [<code>fix(msteams): pin reply target at inbound time to prevent DM/channel leak (#54520) (#62716)</code>](https://github.com/openclaw/openclaw/commit/1fed7bc3796e37c303297cd925b7688ba63fba2b)
+- [ ] [<code>test: keep local full suite serial by default</code>](https://github.com/openclaw/openclaw/commit/b5c3c15dcff86e6965cc591bbdef57172af88094)
+- [ ] [<code>chore: prepare 2026.4.9 stable release</code>](https://github.com/openclaw/openclaw/commit/0512059dd4e6d2e582393828b837c376ddc4719c)
+  - <sub>Tags: <code>v2026.4.9</code></sub>
+- [ ] [<code>test: decouple status update fixture from release version</code>](https://github.com/openclaw/openclaw/commit/90dc0c6ac155740cad6479c5f9df10a40bc4f46d)
+- [ ] [<code>chore: update appcast for 2026.4.9</code>](https://github.com/openclaw/openclaw/commit/a12b8a7258ebfe3c88c80128dc8aea8efa5a7227)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(macos): stabilize shell timeouts and command resolution tests</code>](https://github.com/openclaw/openclaw/commit/0fbaef799f9163b37eb2c42c219b9320d7cff308)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>refactor: break runtime import cycles</code>](https://github.com/openclaw/openclaw/commit/0c278bb93c2d24e66280386e61462d05746f5c47)
+- [ ] [<code>ci: add runtime import cycle guard</code>](https://github.com/openclaw/openclaw/commit/d41188b65e29dcc8a14993d607873aec5b8f4dd7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore: bump version to 2026.4.10</code>](https://github.com/openclaw/openclaw/commit/719f06510cd8d281fb66db22fb66b85a6160046e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: isolate embedded runner provider policy tests</code>](https://github.com/openclaw/openclaw/commit/d838fb518d9c5c0abf928cb28a7552016920ef27)
+- [ ] [<code>fix(whatsapp): preserve replies across reconnects (#62892)</code>](https://github.com/openclaw/openclaw/commit/da1da6110209a7886b8ce4d16439c303a6c773ab)
+- [ ] [<code>test: harden macOS npm update smoke fallback</code>](https://github.com/openclaw/openclaw/commit/15ab29b4a9bd764813b5d2f5b80dbed6f12294bf)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: keep cli reliability and fallback coverage off plugin scans</code>](https://github.com/openclaw/openclaw/commit/fa8723c7e4fb52de1841487a159b19702b698f28)
+- [ ] [<code>test: keep model catalog auth-json tests off provider scans</code>](https://github.com/openclaw/openclaw/commit/a69fce5079b7cf992715841df033bdbf09b358a2)
+- [ ] [<code>test: keep models command coverage off auth scans</code>](https://github.com/openclaw/openclaw/commit/223fe07db9f79ba9159a23c7406a5e01a30b6139)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: allow disabled plugin config writes (#63296) (thanks @fuller-stack-dev)</code>](https://github.com/openclaw/openclaw/commit/6384271963f458acd17984e04bc37d09a56ad344)
+- [ ] [<code>test: fix disabled plugin config validation</code>](https://github.com/openclaw/openclaw/commit/20214d423235042f0684eed164cd3c2f392791b5)
+- [ ] [<code>test: thin runReplyAgent misc runner coverage</code>](https://github.com/openclaw/openclaw/commit/53dbae29b7daa8be27b3a7b0f8b0cf4b74a33138)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: make context injection coverage pure</code>](https://github.com/openclaw/openclaw/commit/714adeb7f6e7172f46423e69cacf1cee204d3dd0)
+- [ ] [<code>test: move context-engine cache coverage to helpers</code>](https://github.com/openclaw/openclaw/commit/ce28073970f1a25191fb9f97c6bbce4e5bd0012e)
+- [ ] [<code>test: project secrets apply path mutations without runtime preflight</code>](https://github.com/openclaw/openclaw/commit/d84902f6896f2ed571412d05795e3944bf624912)
+- [ ] [<code>test: keep claude cli coverage on execute layer</code>](https://github.com/openclaw/openclaw/commit/3b36e386e8e0b29afccde20eec30fc96d38ed5c1)
+- [ ] [<code>test: remove unused claude cli runner helper</code>](https://github.com/openclaw/openclaw/commit/8053096ea4cde36da2ee41d5c3a08086fe244945)
+- [ ] [<code>test: keep native pdf provider tests off runtime hooks</code>](https://github.com/openclaw/openclaw/commit/a4cf0c765f38cf4694caf69ff0d4e44c98844cc4)
+- [ ] [<code>fix(exec): replace TOCTOU check-then-read with atomic pinned-fd open in script preflight [AI] (#62333)</code>](https://github.com/openclaw/openclaw/commit/b024fae9e5df43e9b69b2daebb72be3469d52e91)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: cover memory flush rotation in helper tests</code>](https://github.com/openclaw/openclaw/commit/37625cff6fff76606c1a42cb5c681ad6929e2e55)
+- [ ] [<code>fix(browser): auto-generate browser control auth token for none/trusted-proxy modes [AI] (#63280)</code>](https://github.com/openclaw/openclaw/commit/b1724f8b5f07ccdff46f0d212e68f040da50fa1d)
+- [ ] [<code>test: expand helper coverage for memory flush policy</code>](https://github.com/openclaw/openclaw/commit/c90cb9c3c95cc2f8e86efead0c9ea05565a85c53)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: remove memory flush cases from runReplyAgent e2e</code>](https://github.com/openclaw/openclaw/commit/dd910011e35d4ed2e25ee3db243c47cc3d31413d)
+- [ ] [<code>test: thin stale runReplyAgent e2e expectations</code>](https://github.com/openclaw/openclaw/commit/2d480c5f9d966bf84f699c74876a78786fd5030c)
+- [ ] [<code>test: stabilize exec preflight race coverage</code>](https://github.com/openclaw/openclaw/commit/c9e969c1a6832b8416ef224f290955c6b353421a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: move streamed tool result ordering off runReplyAgent e2e</code>](https://github.com/openclaw/openclaw/commit/19cf9a532643fff164b532f1f527bed10a09af7c)
+- [ ] [<code>test: reset runReplyAgent e2e agent mocks per case</code>](https://github.com/openclaw/openclaw/commit/1e0821c82c5cfe91ac78b247300c38a741feaa80)
+- [ ] [<code>test: update browser and reply mocks for direct imports</code>](https://github.com/openclaw/openclaw/commit/766a676d4885ff029af274f444f86f3c5cb845e8)
+- [ ] [<code>test: move runReplyAgent reset state coverage to helper</code>](https://github.com/openclaw/openclaw/commit/aad9ecd9ccdb1ed3dd108bec04938541c1bcd909)
+- [ ] [<code>test: keep Ollama runtime helpers out of attempt tests</code>](https://github.com/openclaw/openclaw/commit/f0ddbb46193d46f750cfbca4919163f1fca4eac4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: run Ollama stream coverage inside plugin</code>](https://github.com/openclaw/openclaw/commit/2ee39fab83ab8b220ec8c553e225fe4cdac77b12)
+- [ ] [<code>test: isolate doctor state integrity note capture</code>](https://github.com/openclaw/openclaw/commit/9b8eb10196a3ce599ba3239b63ed343ef1618a47)
+- [ ] [<code>test: avoid provider runtime in models list e2e</code>](https://github.com/openclaw/openclaw/commit/0461341613d884e85fb1dc4bb21024850e01d37a)
+- [ ] [<code>matrix: break migration runtime import cycle</code>](https://github.com/openclaw/openclaw/commit/66e52a3e5d4a57be8c1033acedd57e309ca6c3ca)
+- [ ] [<code>Matrix: drop dead helper aliases</code>](https://github.com/openclaw/openclaw/commit/4fd65616d2fbb1c188db4d74ba07484dee748352)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Matrix: remove native approval wrapper</code>](https://github.com/openclaw/openclaw/commit/cc6654a055582b25d4d88d733eec87d4a91d59f3)
+- [ ] [<code>Matrix: trim dead client config exports</code>](https://github.com/openclaw/openclaw/commit/b7c28f3e1f32f84eeaad92dba3def277e010ac2b)
+- [ ] [<code>fix(whatsapp): drain reconnect queue after WhatsApp reconnects (#30806) (#46299)</code>](https://github.com/openclaw/openclaw/commit/e30d0cffc479aad58bb012ac0aecb9835d62b793)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Matrix: gate legacy crypto migration on inspector availability</code>](https://github.com/openclaw/openclaw/commit/1801702ed9592ceeb1d73d1775a210d8e427cbf4)
+- [ ] [<code>fix(gateway): split hook channel types</code>](https://github.com/openclaw/openclaw/commit/ea54beb08a2342cac0ce8f40fde47e71e333270e)
+- [ ] [<code>fix(agents): split skill install result types</code>](https://github.com/openclaw/openclaw/commit/b7cc36161c10bfaf92572d74e89ad9ad8939e5b7)
+- [ ] [<code>fix(cron): split isolated run result types</code>](https://github.com/openclaw/openclaw/commit/a81dc153c61bb850a5d9b47c5041cb0bbc979ac2)
+- [ ] [<code>fix(plugin-sdk): route opencode shim through core onboard helper</code>](https://github.com/openclaw/openclaw/commit/5ece17a8659d831417c0ba4a7da22fa80d925aba)
+- [ ] [<code>test: isolate discord model picker dispatch mock</code>](https://github.com/openclaw/openclaw/commit/03d056989ab5fdb8ec9cff1e8ad51aa6e7c577d9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(commands): split doctor allow-from mode types</code>](https://github.com/openclaw/openclaw/commit/714adcb1246b11f79938b6d3b113768e25fd1326)
+- [ ] [<code>test(boundary): route security audit helper through public plugin surfaces</code>](https://github.com/openclaw/openclaw/commit/2729c91ad5a9167286459a5374cff21531c2a36f)
+- [ ] [<code>macOS: add MLX Talk provider MVP (#63539)</code>](https://github.com/openclaw/openclaw/commit/7c72b694f1099f64ad88a0cfb596fbce3c7b7ad0)
+- [ ] [<code>fix(config): split plugin auto enable types</code>](https://github.com/openclaw/openclaw/commit/2ac71d9488052fc49deb0c1814108dcb7064b9dc)
+- [ ] [<code>fix(config): remove schema hints type cycle</code>](https://github.com/openclaw/openclaw/commit/04f9cc9f6c511f1e8cb3f2bd163a727c92157cc5)
+- [ ] [<code>fix(infra): split restart attempt types</code>](https://github.com/openclaw/openclaw/commit/3d60ed0544e38ab9e3210cf01c6f72cd19a1192c)
+- [ ] [<code>fix(memory-host-sdk): route ollama shim through sdk runtime facade</code>](https://github.com/openclaw/openclaw/commit/5342cc49b10fb1a21da4dcbdd5a2deacadbf41c6)
+- [ ] [<code>test: isolate tasks reply registry state</code>](https://github.com/openclaw/openclaw/commit/8a07ac510b4012c04445455314e07697db3dc9eb)
+- [ ] [<code>fix(agents): split embedded run shared types</code>](https://github.com/openclaw/openclaw/commit/dbcc574e1fc5858bbae6dae5c6f5ba8f52284070)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): split sandbox fs bridge types</code>](https://github.com/openclaw/openclaw/commit/c1969ebf2ae186488c88053cfabc673ef05c68d6)
+- [ ] [<code>fix(memory): split embedding provider types</code>](https://github.com/openclaw/openclaw/commit/77e0e3bac5e6eef0ff5ed98566976862027bf230)
+- [ ] [<code>fix(browser): move browser sdk helper seams into core</code>](https://github.com/openclaw/openclaw/commit/f374fff3bd393130327360eea67e57f653c45b22)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): split sandbox backend handle types</code>](https://github.com/openclaw/openclaw/commit/7d6af7e154c9f28ff75dbd137f85bae3bf549699)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): split registry type surface</code>](https://github.com/openclaw/openclaw/commit/c87994bc9abdfa022499cd0299bf054082ee0e8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(boundary): guard sdk and package imports from bundled plugin paths</code>](https://github.com/openclaw/openclaw/commit/62eca3770f1f782367095ac83e37ff676a23e979)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(openshell): split fs bridge backend types</code>](https://github.com/openclaw/openclaw/commit/ce32697250d5320746b20c61b0975dcb7eb75c56)
+- [ ] [<code>fix(web-fetch): finalize RFC2544 SSRF policy support</code>](https://github.com/openclaw/openclaw/commit/9ed448088b6ac030223421225d99c50344b6edfa)
+- [ ] [<code>refactor(web-fetch): distill rfc2544 policy handling</code>](https://github.com/openclaw/openclaw/commit/ac3999ac8c5a841cd4c26ae6a8122982646145aa)
+- [ ] [<code>fix: add web_fetch RFC2544 SSRF opt-in (#61830) (thanks @xing-xing-coder)</code>](https://github.com/openclaw/openclaw/commit/68781bf2c2ee585dc67364812058e07ec2c23741)
+- [ ] [<code>fix(memory-core): route bundled helpers through facade</code>](https://github.com/openclaw/openclaw/commit/2a372577d4dd079f449e79830f58d05261e06ec3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(bluebubbles): remove status type barrel cycle</code>](https://github.com/openclaw/openclaw/commit/60a3733f12f6ed9970745b7c958226ddc7e6ca83)
+- [ ] [<code>fix(feishu): remove runtime api type cycle</code>](https://github.com/openclaw/openclaw/commit/3f7e6c7c64e0416ff38a3de5ca4bfa6a3aec747c)
+- [ ] [<code>fix(qa): route cli registration through facade</code>](https://github.com/openclaw/openclaw/commit/38100a098e3c847800f889fe5e479194394c55e2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(boundary): guard src imports from bundled plugin paths</code>](https://github.com/openclaw/openclaw/commit/89acb92011b8376ae9b254a4b81d5dbfb8bcaea3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: surface specific sub-issue for config validation union errors (#40841)</code>](https://github.com/openclaw/openclaw/commit/ab49afcd2760998b0b8eb9d93ba41130297ec729)
+- [ ] [<code>fix(qqbot): guard image-size probe against SSRF (#63495)</code>](https://github.com/openclaw/openclaw/commit/08ae021d1f42905a85a550813c0d95169b171a6c)
+- [ ] [<code>fix: preserve safe gateway env vars on reinstall (#63136) (thanks @WarrenJones)</code>](https://github.com/openclaw/openclaw/commit/40c5edb5b1ca4ffe01583bc29dc79d3dc9ebf2dc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(fireworks): disable FirePass Kimi reasoning leak (#63607)</code>](https://github.com/openclaw/openclaw/commit/3e062acbcbf33c822ec0b5e6ac9a5b6ac7926a00)
+- [ ] [<code>fix: treat zero nextRunAtMs as invalid (#63507) (thanks @WarrenJones)</code>](https://github.com/openclaw/openclaw/commit/905e56d1914197c6d56e20b78e6e8026902cfc50)
+- [ ] [<code>fix(status): show configured fallback models in /status output (#33111)</code>](https://github.com/openclaw/openclaw/commit/1b24560392528ce84ba82b6edab753eda9bb0a7f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: stabilize gateway background tests</code>](https://github.com/openclaw/openclaw/commit/7497abc124a3e9612f1fce4497139409910d9892)
+- [ ] [<code>test: allow slower CLI metadata help rendering</code>](https://github.com/openclaw/openclaw/commit/fbbb4f02d1522e46dd86413c7d6a181e133856ae)
+- [ ] [<code>fix(plugins): prevent schema load from re-activating plugin registry (#54971)</code>](https://github.com/openclaw/openclaw/commit/fa2fab70603b7e9d16a642996e12781410049308)
+- [ ] [<code>fix(feishu): read webhook bodies through pre-auth guard</code>](https://github.com/openclaw/openclaw/commit/8be3a4466cbc69c59689c9c31ec9920023a1044d)
+- [ ] [<code>style: format web fetch ssrf test</code>](https://github.com/openclaw/openclaw/commit/828c64e6b51d9ea72bf5131b6c92bd12be7cfb32)
+- [ ] [<code>docs: add changelog entry for FirePass Kimi fix</code>](https://github.com/openclaw/openclaw/commit/46b1ecd6ed126419c9e2e1fff5dd75fc23ba0684)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
