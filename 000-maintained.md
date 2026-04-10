@@ -2636,6 +2636,19 @@
 - [ ] [<code>Roll Skia from 7c46cb639dba to 4d0f5389e131 (7 revisions) (#184812)</code>](https://github.com/flutter/flutter/commit/dd400f2dcfdba5c7f8c1d778be924ba7c311c155)
 - [ ] [<code>Remove last material dependency from cupertino tests (#184781)</code>](https://github.com/flutter/flutter/commit/81c87ea165df95681eb3a07e1f442983bf0e0e17)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>UberSDFContent refactoring and handle stroke miter limit for stroked rects (#184603)</code>](https://github.com/flutter/flutter/commit/47b50322f64ad8bf5f720e85fa1b23d8176ba827)
+- [ ] [<code>Roll Skia from 4d0f5389e131 to af67d5555e35 (3 revisions) (#184825)</code>](https://github.com/flutter/flutter/commit/8b9d733147eb0443627edc036ed21a5f9dc38942)
+- [ ] [<code>Update link for rolling forward to aligned Dart hash (#184780)</code>](https://github.com/flutter/flutter/commit/ab267fe8fc2edd6b6131aae9e8531417cf35f4c9)
+- [ ] [<code>Disable async mode with LLDB (#184768)</code>](https://github.com/flutter/flutter/commit/eb4e55adca4c7e0ca1e87583c30cc403e775cf6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[record_use] Add experimental flag and test project (#184719)</code>](https://github.com/flutter/flutter/commit/eb6acab7f315f3f09e70eff662245f5b86c9fc93)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code> <code>find_package</code></sub>
+- [ ] [<code>Roll Packages from 0e0a032a4a9b to 1aa892c09c8b (9 revisions) (#184829)</code>](https://github.com/flutter/flutter/commit/20a9784e090b5804bbf85e052d055d2e8e5bcddd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove `linux_android_emu_unstable android_engine_vulkan_tests` (#184787)</code>](https://github.com/flutter/flutter/commit/06ce2177980559602788a0cd0a8b4a3b6ec03cb0)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Roll Dart SDK from bd6280c3e8e9 to 98a143f8873e (5 revisions) (#184824)</code>](https://github.com/flutter/flutter/commit/deede5462db7a6998961b2a9cd2a8ed483437ee1)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3412,6 +3425,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go): go fix (#22173)</code>](https://github.com/netdata/netdata.git/commit/08aae60515ae9327fe4396fbeda68d8c7e4152a7)
 - [ ] [<code>chore(go/ibm.d): remove buildtag comment (#22174)</code>](https://github.com/netdata/netdata.git/commit/848e971faeafed6b9911e426dbc6abd324a6d2d6)
 - [ ] [<code>ci(go-tests): add "go fix" check to workflow (#22172)</code>](https://github.com/netdata/netdata.git/commit/c37a75057d298e0df44d46a765abbc2bcf39e398)
+- [ ] [<code>feat(go.d/snmp): add SNMPv3 context name support (#22175)</code>](https://github.com/netdata/netdata.git/commit/13e419cee6eac94bd236fbd9fdebb58c20ec00a6)
+- [ ] [<code>Regenerate integrations docs (#22176)</code>](https://github.com/netdata/netdata.git/commit/a71684acf51d36202b5f4c678186f98be1beffb1)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-7-nightly.</code>](https://github.com/netdata/netdata.git/commit/a8eca8309cb22574221b467e7ed88c46a2669362)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4452,67 +4468,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: make it build with gcc15</code>](https://github.com/OLSR/OONF/commit/868b3be3afb09d0804550a5d248a4f3de020a4be)
 - [ ] [<code>Update README.md</code>](https://github.com/OLSR/OONF/commit/b2164126e12340f19ea33070e1e11eb469a051e5)
 
-#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.5.1 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.5.1...HEAD)
+#### [open-scq30](https://github.com/Oppzippy/OpenSCQ30): [v2.6.2 → HEAD](https://github.com/Oppzippy/OpenSCQ30/compare/v2.6.2...HEAD)
 
-- [ ] [<code>build(android): update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/08ab7b25782340912e73618796da147791133030)
-- [ ] [<code>Ukrainian translations (#239)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d5184b74e894207937f6f8a5a1d04d26a65e70ed)
-- [ ] [<code>fix(gui): disable arz language due to crash when rendering text</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e5b9dc5f638e5ba9626bb2cac3200f2c6beebf8)
-- [ ] [<code>fix(lib): 0xff means absent for firmware version</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46af7421d34e1a9b2b177dc8498c3e0acfeba82f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ada2a4a5478a88b19d5ee65a05da8d69f0c8204b)
-- [ ] [<code>test(android): crash in android emulator</code>](https://github.com/Oppzippy/OpenSCQ30/commit/12b4d8f9d3d5012e80a5e334ed53e074ce8ffb45)
-- [ ] [<code>feat: new logo</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0f3e3d5244a30dbf051de4843ba43e829ac1213c)
-- [ ] [<code>feat(android): device selection redesign</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91be7dc8c88554ad414b053c40fe665e4751e546)
-- [ ] [<code>refactor(android): organize deviceselection composables</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d31a28402020a93aad17337e1da48dc0427ea5d9)
-- [ ] [<code>refactor(android): organize devicesettings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/98af0aaac4032d88f214b82814f1e25adb92416b)
-- [ ] [<code>feat(android): redesign device settings category selection</code>](https://github.com/Oppzippy/OpenSCQ30/commit/62c6c3d6a9b1e2c2dd4b1932cd46eac9e579e395)
-- [ ] [<code>feat(android): redesign equalizer</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6603dd16373feaf1aded444cc29e21efd5a667dd)
-- [ ] [<code>feat(android): add in app setting to change light/dark theme</code>](https://github.com/Oppzippy/OpenSCQ30/commit/022f8ecc4ada108e650e34335a00f8d8b47338fd)
-- [ ] [<code>feat(android): add in app dynamic color toggle</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ddb32dd8bb71231d56f6636f810c31495abc5e1a)
-- [ ] [<code>fix(android): copy logs to clipboard button should fill max width</code>](https://github.com/Oppzippy/OpenSCQ30/commit/11d317152495f02a6ac392f48fd1c9b7e2ed12d8)
-- [ ] [<code>refactor(android): make use of OnSharedPreferenceChangeListener</code>](https://github.com/Oppzippy/OpenSCQ30/commit/471c8190710c2848b374d0c118756acd86113e12)
-- [ ] [<code>feat(android): use new device card design for add device screen</code>](https://github.com/Oppzippy/OpenSCQ30/commit/82d18b07f7eab836b8425c121b0e9fad641d11d5)
-- [ ] [<code>fix(android): use primary tab row for equalizer tabs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cdb18b2bb678671948129c24b90aae9723397b08)
-- [ ] [<code>fix(android): add all device models to DeviceModelIcon</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f803e678ad0393e7346a74426cfd433e7636106)
-- [ ] [<code>feat(android): replace material icons with material symbols</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1711be9dc994a1b9bd2594605647926e68065845)
-- [ ] [<code>test(android): update tests for redesign</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f6c02e517d1d9849b5a9f167ed6ba0a85f1cbfcb)
-- [ ] [<code>deps(gui): update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3bda04cd7a6197fef89b44f8470ac1c7f693aeb7)
-- [ ] [<code>feat(gui): enable Hebrew and Egyptian Arabic languages</code>](https://github.com/Oppzippy/OpenSCQ30/commit/02fd8c84897ec6b5827676475d4cb004cdeea400)
-- [ ] [<code>docs: update changelog</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91c4ced114755ab7940ed7d840591aa6494f7d79)
-- [ ] [<code>build: update rust</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e5ccebf17c9d22684793bd93445f766223bb62d4)
-- [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3dea3101907e2e2e9ad69fd6eabaf728e8043ee5)
-- [ ] [<code>deps(gui): fork wash2/accesskit to fix windows build error</code>](https://github.com/Oppzippy/OpenSCQ30/commit/46a255df9a6cafe4b3bcfcc3546bc60dec05a858)
-- [ ] [<code>ci: attest build artifcats</code>](https://github.com/Oppzippy/OpenSCQ30/commit/462c44c18f5912a547684e73e4acf2ea5ec56334)
-- [ ] [<code>ci: use just from snap again now that the snap is updated</code>](https://github.com/Oppzippy/OpenSCQ30/commit/91a7131fa85a4fd10e898df718b54f2dda47f7d6)
-- [ ] [<code>feat(android): add indicator for which equalizer tab is in effect</code>](https://github.com/Oppzippy/OpenSCQ30/commit/3759793c3e743d389d4d80427ed761a54a7276d2)
-- [ ] [<code>style(android): remove unused imports</code>](https://github.com/Oppzippy/OpenSCQ30/commit/192a848f1707c7bd8e5dd7ccd5ce6f51107a7b4f)
-- [ ] [<code>deps: update libcosmic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bf0dd09888bce1e7e9625f1ed0c20f280081868d)
-- [ ] [<code>fix(android): missing stack trace in exception</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4506ad6eab34595b24b79f390f6ede8d3c36ceb2)
-- [ ] [<code>deps: update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ebe1775460a3974f169389b2244ec4dd25027380)
-  - <sub>Keywords: <code>bin</code></sub>
-- [ ] [<code>fix(gui): search gets reset when toggling demo mode</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ece275816c004b8bc866e0e4010565529d80e13)
-- [ ] [<code>refactor(gui): remove unnecessary Id</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2ca3141d1ebcfa5b79d88899617b5c61fb092663)
-- [ ] [<code>refactor(lib): use libcosmic spin button</code>](https://github.com/Oppzippy/OpenSCQ30/commit/77b97b8cb9458f01004742095323a080bb405fe1)
-- [ ] [<code>build: v2.6.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cf02e9c571312381c33ecd3bb835a95cacd225af)
-- [ ] [<code>fix(gui): url in appstream metadata description</code>](https://github.com/Oppzippy/OpenSCQ30/commit/178414a27bfdc344cae07e1375e2fb0a2e7819ea)
-  - <sub>Tags: <code>v2.6.0</code></sub>
-- [ ] [<code>fix(android): preferences ui randomly stops working in release builds</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9d61bff31b0987ffebc33c1444d893829c4a3dd3)
-- [ ] [<code>chore(android): update fastlane description, icon, and screenshots</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2c83847fca531197ea0006e90c4f96ad68bd6f4a)
-- [ ] [<code>ci: validate fastlane metadata</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a89c42d17869a93b0d68a55fefe672e63bae4b7)
-- [ ] [<code>fix(android): invalid fastlane metadata</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9f4771d91c3d9dda7d02d6e4ec79bc55c6ed1638)
-- [ ] [<code>fix(android): filter spam from logs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6bdd7fecb1dcc991836f89aa68f08849418f0753)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>build: v2.6.1</code>](https://github.com/Oppzippy/OpenSCQ30/commit/369947f434e689cc3a0b3b8df5b8d69684f10615)
-  - <sub>Tags: <code>v2.6.1</code></sub>
-- [ ] [<code>ci: fix validate fastlane metadata workflow name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f566540ed5e42102bcd2a10f3ba4db34846f0d01)
-- [ ] [<code>fix(android): don't crash when bondedDevices is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/6a82d7a1a34788dad8795c4491a2b5634fd0b21b)
-- [ ] [<code>fix(android): update recommended jna proguard rules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/966a6ff73418569910c16d4384235017513882c2)
-- [ ] [<code>fix(android): widget crashes in release build</code>](https://github.com/Oppzippy/OpenSCQ30/commit/cf911d0b328d823122f8e2038d4f711bcd09b795)
-- [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f1f61bca36287410e8eef6c23ebb253631ea2bb2)
-- [ ] [<code>feat(gui): add loading spinners</code>](https://github.com/Oppzippy/OpenSCQ30/commit/212c4a281a56ec9840660a6f1c775365aeb3bc26)
-- [ ] [<code>build: v2.6.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/15560cd3a709c394f587cbf09bfbf42f74b29c17)
-- [ ] [<code>Translated using Weblate (Hebrew)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a286c9ecc933f11acf9358ef382b1ab2326f3227)
-  - <sub>Tags: <code>v2.6.2</code></sub>
 - [ ] [<code>fix(gui): empty appstream metadata description for v2.6.2</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fc9afd0fc037c6784d44efd27cfa5db5a3f52e37)
 - [ ] [<code>fix(android): crash when device name is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7a4e7cf58513352ffd71c231b063e9e660d66f2f)
 - [ ] [<code>fix(android): crash when device name is null</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8b3fac91f7d3dbf2557b0dcc24757436cfb7cafc)
@@ -10373,6 +10330,37 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(dreaming): require admin for persistent gateway toggle (#63872)</code>](https://github.com/openclaw/openclaw/commit/6af17b39e11f5f35e23b7e5a5f71a7d0aa3c7310)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(memory-core): use startup config for dreaming cron reconciliation (#63873)</code>](https://github.com/openclaw/openclaw/commit/2f130c418f862bd8f2dbbbc1dab373fcabe2b305)
+- [ ] [<code>fix: coerce integer plugin config input (#63346)</code>](https://github.com/openclaw/openclaw/commit/2d846e1f1adf5339c2cb05149cce0d2b0187c1b9)
+- [ ] [<code>fix(gateway): add TTL cleanup for 3 Maps that grow unbounded causing OOM (#52731)</code>](https://github.com/openclaw/openclaw/commit/820dc3852530bffd2451bb1a6ddbcdd9f6324d66)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory-lancedb): accept dreaming config for slot-owned memory (#63874)</code>](https://github.com/openclaw/openclaw/commit/4bd720527beb80812445551815eed2b4476c76d6)
+- [ ] [<code>fix: prevent isolated heartbeat session key :heartbeat suffix accumulation (#59606)</code>](https://github.com/openclaw/openclaw/commit/1e15bb2638616b18bf46e90285e68e2a1d9ecae2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): repair protocol drift and audit failures (#63917)</code>](https://github.com/openclaw/openclaw/commit/004bab53fabe66374ac314eac086abd13413a021)
+- [ ] [<code>docs: remove changelog conflict marker</code>](https://github.com/openclaw/openclaw/commit/5b268a04af8b1207401fc0dc59a730ee1dc0d6cf)
+- [ ] [<code>fix(ui): contain Dreaming trace layout (#63875)</code>](https://github.com/openclaw/openclaw/commit/cf0ebd8f25d6d7e3bf28295b9bc3a2181b74169d)
+- [ ] [<code>[codex] fix cron telegram final announce delivery (#63228)</code>](https://github.com/openclaw/openclaw/commit/81c7304a18b8714b56851b141cc8229267bd95f4)
+- [ ] [<code>fix(gateway): preserve thread routing in delivery context for Slack/Telegram/Mattermost (#54840)</code>](https://github.com/openclaw/openclaw/commit/110782a26a8b17685bdd777ebd12fe2ae955c0c5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(memory-core): add dreaming narrative idempotency (#63876)</code>](https://github.com/openclaw/openclaw/commit/bed53c77aa2aa749e117768cd15a11adde8a9f52)
+- [ ] [<code>fix: resolve qa-lab type-aware linting (#63928)</code>](https://github.com/openclaw/openclaw/commit/bd639bbde8719cd7a4d0b1f7bb85e4d15e0e6383)
+- [ ] [<code>Docs: remove changelog merge markers</code>](https://github.com/openclaw/openclaw/commit/6ee170532734fdabdcb631b9e2202e0033a5f5e3)
+- [ ] [<code>fix: pass parent delivery context to ACP stream relay for correct thread routing (#57056)</code>](https://github.com/openclaw/openclaw/commit/e3f81b151ee4a81b41694810eb61d862bfd804ac)
+- [ ] [<code>fix(memory-core): reconcile managed dreaming cron across runtime lifecycle (#63929)</code>](https://github.com/openclaw/openclaw/commit/4eb716062250cabc25bc3b5591994ce00e5c3f9e)
+- [ ] [<code>fix(memory-core): limit runtime dreaming cron reconcile to heartbeats (#63938)</code>](https://github.com/openclaw/openclaw/commit/8b4883d99023126be70155fd10abeb13eac66d48)
+- [ ] [<code>fix: read packed refs for git commit metadata (#63943)</code>](https://github.com/openclaw/openclaw/commit/8e62df661e13f7de353c492d480edf1ebdd632c6)
+- [ ] [<code>fix(ci): clear check-additional follow-up regressions (#63934)</code>](https://github.com/openclaw/openclaw/commit/8cf02e7c4749e0d4262dde40354bfcc63e6fa32f)
+- [ ] [<code>feat: add multipass runner to qa suite</code>](https://github.com/openclaw/openclaw/commit/def2eadb1d0e35d45a3951e6d0b06cb124a6f39e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document qa multipass runner</code>](https://github.com/openclaw/openclaw/commit/a04c331cc1c3200293e40d13eae7135ac6ef599e)
+- [ ] [<code>fix: validate multipass output paths</code>](https://github.com/openclaw/openclaw/commit/445fe553318fe5226d0e9589eafc651d557afd56)
+- [ ] [<code>docs: clarify multipass live auth support</code>](https://github.com/openclaw/openclaw/commit/655cfb477af48e62e7f60e7bccdb70a3d67073c4)
+- [ ] [<code>fix: harden qa multipass runner</code>](https://github.com/openclaw/openclaw/commit/b88387e4c10019b6ef67eb991a19a417f4335d0a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>docs: add changelog for qa multipass runner</code>](https://github.com/openclaw/openclaw/commit/1d25e43ebcc4cbce23c9e6ef071128da4420d30b)
+- [ ] [<code>fix(ci): sync package boundary paths config</code>](https://github.com/openclaw/openclaw/commit/10797cbd81017dc5865de1a18ce3ac2c00f6edc6)
+- [ ] [<code>fix(agents): preserve announce threadId on sessions.list fallback (#63506)</code>](https://github.com/openclaw/openclaw/commit/03f2951e63c444da80f049477b975314583c6dfe)
+- [ ] [<code>qa-lab: use OpenClaw tmp dir for multipass staging</code>](https://github.com/openclaw/openclaw/commit/c6d0baf5623a58f7bcee576eb9e9b98af1004f22)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
