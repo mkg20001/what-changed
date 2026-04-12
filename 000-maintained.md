@@ -2684,6 +2684,7 @@
 - [ ] [<code>Roll Skia from 8cbf3db1a0db to 6942f5774d65 (1 revision) (#184911)</code>](https://github.com/flutter/flutter/commit/8aea1bf74c5c50ad4abe68396c3fb4b21e2b70fe)
 - [ ] [<code>Roll Dart SDK from 7128b5b5142c to 8fdbf58b58bd (1 revision) (#184906)</code>](https://github.com/flutter/flutter/commit/0f84e85fe40361abd9ccabf4efc3e1807bb7526a)
 - [ ] [<code>Roll Fuchsia Linux SDK from lZcRfPoCLnDttrf9P... to tEm4sdcM6twjxQ0w6... (#184917)</code>](https://github.com/flutter/flutter/commit/7d48de2f2eca06e064e773fec0a6609c0aacba37)
+- [ ] [<code>Roll Dart SDK from 8fdbf58b58bd to 77324e51833a (1 revision) (#184921)</code>](https://github.com/flutter/flutter/commit/ed5462cb36545eb8648ad885a15d970f19601fae)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3473,6 +3474,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>go.d/snmp: add reusable profile engine helpers (#22181)</code>](https://github.com/netdata/netdata.git/commit/7d939b03e46bbe5ec92f48b415d8ca9bc436df06)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-15-nightly.</code>](https://github.com/netdata/netdata.git/commit/e7b3007635660a1044cfefb5f1f0aad356b22943)
 - [ ] [<code>refactor(go.d): share ping probing between ping and snmp (#22189)</code>](https://github.com/netdata/netdata.git/commit/7a505cc81e2c1665030b3ee5041a52fab45dc420)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-17-nightly.</code>](https://github.com/netdata/netdata.git/commit/96290576569f3a9f206e1411936cdcef58d1c0f2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5918,6 +5920,65 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(core): align channel runtime and inventory types</code>](https://github.com/openclaw/openclaw/commit/8e952eba751c6f143e6f3b8f7044c78dd8707687)
 - [ ] [<code>fix(pairing): bypass store and channel barrels</code>](https://github.com/openclaw/openclaw/commit/cde21de82854a7136ab020d04cd11399a6bca555)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): preserve channel plugin identity in cache</code>](https://github.com/openclaw/openclaw/commit/dc469a3db532a283b28e6ee2267f67955dbb7b11)
+- [ ] [<code>fix(runtime): split cli provider and abort seams</code>](https://github.com/openclaw/openclaw/commit/d7fcd23091e1d844595992af544b9a2c030049ff)
+- [ ] [<code>fix(pairing): export channel type from store seam</code>](https://github.com/openclaw/openclaw/commit/7808d3f08f51a52a6ed1f32fffe0c9176fd838b1)
+- [ ] [<code>Update INCIDENT_RESPONSE.md</code>](https://github.com/openclaw/openclaw/commit/0f6f80004f08c3bc993a26cfc483ea10dba80103)
+- [ ] [<code>fix: quiet extension unresolved import warnings</code>](https://github.com/openclaw/openclaw/commit/b41091ac7f6cc349338f121b558acf10ee7913f2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>style: apply formatter drift</code>](https://github.com/openclaw/openclaw/commit/057fe786bd84f6cbcdea00021ebf44ab1d66f73f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): split setup registry runtime types</code>](https://github.com/openclaw/openclaw/commit/3607cea9917a4db3c7f0a01837836878ed17d5da)
+- [ ] [<code>fix(agents): extract user-facing text sanitizer</code>](https://github.com/openclaw/openclaw/commit/35664d5447a400ba02397acb1e8188831b9eb905)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(reply): bypass heavy error helper imports</code>](https://github.com/openclaw/openclaw/commit/8a9ead62113bf56e81452e8504f3a1ef2194423a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(plugin-sdk): narrow reply payload type surface</code>](https://github.com/openclaw/openclaw/commit/b1290e61fd8a16980b149887508761f8ede351cd)
+- [ ] [<code>fix(runtime): bypass get-reply barrel exports</code>](https://github.com/openclaw/openclaw/commit/25665dd3350ddff834d6bf58ebfbd24f6e25e32e)
+- [ ] [<code>fix(cycles): split reply payload and option contracts</code>](https://github.com/openclaw/openclaw/commit/a88fbf0f64765dfd96fd79b49000248c0b368903)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cycles): split session hook event types</code>](https://github.com/openclaw/openclaw/commit/8ec838a0d4dd5515f89ad77732ea505c31e55c4d)
+- [ ] [<code>fix(cycles): use loaded channel prompt hints</code>](https://github.com/openclaw/openclaw/commit/53fde90dc2bb0a114ce91533508bf5c4fbc522ad)
+- [ ] [<code>fix(cycles): split provider runtime model types</code>](https://github.com/openclaw/openclaw/commit/61da711b1a7eb49393cb230f9ee9449ee6a8933c)
+- [ ] [<code>fix(cycles): split reply config runtime seams</code>](https://github.com/openclaw/openclaw/commit/8470dc8e0656987bcd54b993e96939129fa607cc)
+- [ ] [<code>fix(cycles): narrow channel registry imports</code>](https://github.com/openclaw/openclaw/commit/0e8225c4a6308b16acb77f63ada774a88e1377d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cycles): bypass context engine and config barrels</code>](https://github.com/openclaw/openclaw/commit/5cd9c2d2de4d84c4a0025fbf15e2e6dd204c919b)
+- [ ] [<code>fix(cycles): split abort runtime resolver types</code>](https://github.com/openclaw/openclaw/commit/10f2e81c04c2a04d26b491295bb1b8ef35a51f35)
+- [ ] [<code>fix(cycles): narrow plugin auto enable imports</code>](https://github.com/openclaw/openclaw/commit/876fc4e43ca3dc600f79205a0fa2f2bc5553e7fe)
+- [ ] [<code>fix(cycles): split command detection runtime types</code>](https://github.com/openclaw/openclaw/commit/d9357f9f39dd0bcdc54a8947b3a2a03b614c8c16)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cycles): narrow provider runtime error hook types</code>](https://github.com/openclaw/openclaw/commit/a948e282448e67cd3c5abd7c9c5cec9026e2b301)
+- [ ] [<code>fix: preserve Telegram topic routing for exec completions (#64580)</code>](https://github.com/openclaw/openclaw/commit/29142a9d4764c6b504c3a9221b396044a37b5088)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(plugin-sdk): untangle tts runtime facade types</code>](https://github.com/openclaw/openclaw/commit/09a41b2da49d582bd7ffd460f5fd66fb93ba423e)
+- [ ] [<code>fix(config): split command flag helpers</code>](https://github.com/openclaw/openclaw/commit/3059b36306ac561091ad26da85a919f18d0ccfed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): split preemptive compaction route types</code>](https://github.com/openclaw/openclaw/commit/44e95065c4f51b633791c331ce4f452f1fc7fb86)
+- [ ] [<code>fix(auto-reply): stop mention-only inline status turns</code>](https://github.com/openclaw/openclaw/commit/9aa9c3ff6262e781d68d46f36f86e84d2fa1f955)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(context-engine): bundle legacy runtime registration</code>](https://github.com/openclaw/openclaw/commit/e26edee39efb7ae2d75a7f2f901cacb4fc58da10)
+- [ ] [<code>test(parallels): stop stale gateway after npm update</code>](https://github.com/openclaw/openclaw/commit/66be8cdc57fdd8bdfc119fc64ffc162e2d8ad585)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test(parallels): stop gateway before npm update</code>](https://github.com/openclaw/openclaw/commit/a60ff003fba4f0fbfcdefe19ab4c1ef24c404428)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(agents): narrow debug proxy URL override</code>](https://github.com/openclaw/openclaw/commit/7740c4d53050a2addd571d7155a44a29470505bc)
+- [ ] [<code>test(parallels): retry killed Windows fresh install</code>](https://github.com/openclaw/openclaw/commit/6debabb002c5aae48b6fd9d158e182d3de6bef59)
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>test(parallels): stop gateway listener before npm update</code>](https://github.com/openclaw/openclaw/commit/ada95aefa92585eae8c299ae17166c94b7448788)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(plugins): preserve bundled host compatibility floor</code>](https://github.com/openclaw/openclaw/commit/0e3f9657da9631f9107cbc4dda3cc9f5e944e39a)
+- [ ] [<code>test(parallels): avoid host Safari substitution</code>](https://github.com/openclaw/openclaw/commit/e20464935a377123a3891404993b439723e089bc)
+- [ ] [<code>test(parallels): recover macos update gateway start</code>](https://github.com/openclaw/openclaw/commit/270a3999e2c3456b56877f02e6017b37045225b1)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(parallels): bound macos dashboard curl</code>](https://github.com/openclaw/openclaw/commit/247705b59cb297d431c1ce086d939d48926cc084)
+- [ ] [<code>test(parallels): stop windows gateway before update</code>](https://github.com/openclaw/openclaw/commit/e08f4c12da3435812e867fae6cc3610753e2263a)
+  - <sub>Keywords: <code>commandline</code></sub>
+- [ ] [<code>chore(config): refresh bundled channel metadata</code>](https://github.com/openclaw/openclaw/commit/1bdd8166b6698272d8117ccf72820a3621ce7aef)
+- [ ] [<code>chore(release): refresh generated baselines</code>](https://github.com/openclaw/openclaw/commit/65267c14d4cb241af1d36e4da983c1a975f41c60)
+- [ ] [<code>fix(canvas): refresh a2ui bundle hash</code>](https://github.com/openclaw/openclaw/commit/329a0f00ce05135dc0fe0e2367a903148b2e1bf9)
+- [ ] [<code>chore(release): prepare 2026.4.11</code>](https://github.com/openclaw/openclaw/commit/769908ec3f713ecde067eb8c8aa54d8f57217aff)
+  - <sub>Tags: <code>v2026.4.11</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
