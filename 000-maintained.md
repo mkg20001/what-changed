@@ -40,6 +40,9 @@
 - [ ] [<code>Update Rust imports to match style guide</code>](https://github.com/stepchowfun/docuum/commit/b8a926ccc20aea1d0c9ba315dcda3362e8d9fa7c)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>Align CI with style-guide imports</code>](https://github.com/stepchowfun/docuum/commit/50f2f681ef6e04580c5992ac92d9cf9c66ace82d)
+- [ ] [<code>Add publish release remote cache settings</code>](https://github.com/stepchowfun/docuum/commit/de06a5cfb105ab4f322a507c930c4e352d0e9b63)
+- [ ] [<code>Move publish release Docker setup</code>](https://github.com/stepchowfun/docuum/commit/009d41b65ae297c4dc60cb7a7a5c1b73a5cd55c0)
+- [ ] [<code>Update publish release Docker setup order</code>](https://github.com/stepchowfun/docuum/commit/ae0d68f74e7e2d11df4631599a8cc04be8749225)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2688,6 +2691,7 @@
 - [ ] [<code>Roll Skia from 6942f5774d65 to 8d35796258a2 (2 revisions) (#184924)</code>](https://github.com/flutter/flutter/commit/b1876d8b3156072a77f84bcea3b3df8c1d4432b7)
 - [ ] [<code>Roll Dart SDK from 77324e51833a to ef28089d6533 (1 revision) (#184929)</code>](https://github.com/flutter/flutter/commit/bc44cf98b1ce739cd3cda3a9b12900c369bd8d36)
 - [ ] [<code>Roll Fuchsia Linux SDK from tEm4sdcM6twjxQ0w6... to K_2AkZL3Drs6cGE1q... (#184930)</code>](https://github.com/flutter/flutter/commit/a04cdec60eab226fcc9c446013b656a5bf7b7a30)
+- [ ] [<code>Roll Skia from 8d35796258a2 to 55ddd6bb8be5 (1 revision) (#184952)</code>](https://github.com/flutter/flutter/commit/ee6bbd9e4a3dc42d65879f0b5987cae79e43fbb4)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3480,6 +3484,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-17-nightly.</code>](https://github.com/netdata/netdata.git/commit/96290576569f3a9f206e1411936cdcef58d1c0f2)
 - [ ] [<code>Regenerate integrations docs (#22182)</code>](https://github.com/netdata/netdata.git/commit/c17acbc3ad975dfb9b1736a8dcc33231f348d2ea)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-19-nightly.</code>](https://github.com/netdata/netdata.git/commit/42811a00ef75cfa516e5b0e42cc69204667f223f)
+- [ ] [<code>Fix ZFS bugs (diskspace.plugin) (#22188)</code>](https://github.com/netdata/netdata.git/commit/d4e069f7298014600c1131ef0fc137a935cb5e29)
+- [ ] [<code>build(deps): bump golang.org/x/net from 0.52.0 to 0.53.0 in /src/go (#22199)</code>](https://github.com/netdata/netdata.git/commit/b090cd77510307641e6b273cbd5e216f65861691)
+- [ ] [<code>build(deps): bump github.com/mattn/go-isatty from 0.0.20 to 0.0.21 in /src/go (#22197)</code>](https://github.com/netdata/netdata.git/commit/9020218fa452a25a56e43501c8e0eacdcf5eeb78)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5355,6 +5362,65 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>test(memory-core): freeze dreaming session-ingest clocks (#65605)</code>](https://github.com/openclaw/openclaw/commit/de1b6abf943d0c67c3b6882d8e62df6c34645cb0)
 - [ ] [<code>test(agents): stabilize steer restart ordering</code>](https://github.com/openclaw/openclaw/commit/4c8337f27b57ce02f6cbe76a1be1fb8a845aff28)
+- [ ] [<code>perf: reduce agents test import overhead</code>](https://github.com/openclaw/openclaw/commit/5b2ae4910739aeb5f07dd5e508c1344896cdaf44)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf: mock hot agents import tests</code>](https://github.com/openclaw/openclaw/commit/03d042d2b9f354f39c7c4a625ccf83f7a87967fd)
+- [ ] [<code>fix(gateway): defer cron AND heartbeat activation until sidecars are ready (#65322)</code>](https://github.com/openclaw/openclaw/commit/92776b8d77c691e320dbb8afba07dc534ebaa454)
+- [ ] [<code>fix: defer gateway scheduled services (#65365) (thanks @lml2468)</code>](https://github.com/openclaw/openclaw/commit/6a7961736a8373317b16cd67c0b84b1999b952be)
+- [ ] [<code>fix: gate startup history and model requests (#65365)</code>](https://github.com/openclaw/openclaw/commit/4fec8073b12bf6facdf986e9b005fc87b5cd8e24)
+- [ ] [<code>Outbound: centralize payload normalization plan</code>](https://github.com/openclaw/openclaw/commit/c4764095f859bddcce9456da03285e9952bff13e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Control UI: refresh slash commands from runtime command list (#65620)</code>](https://github.com/openclaw/openclaw/commit/d0c83777fb5818d48248deecddfcdd2f3ce83d9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>agents: split GPT-5 prompt and retry behavior (#65597)</code>](https://github.com/openclaw/openclaw/commit/c848ebc8ce4b7451ce7105067cb3c4fc83645bc7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(browser): add qa web runtime support</code>](https://github.com/openclaw/openclaw/commit/1a4766051847d38e3f9ef077ebb1c0762aba229a)
+- [ ] [<code>feat(qa-channel): forward inbound media attachments</code>](https://github.com/openclaw/openclaw/commit/f682413f570d9b074028225d8065f5c08a704cd8)
+- [ ] [<code>feat(qa-lab): add control ui qa-channel roundtrip scenario</code>](https://github.com/openclaw/openclaw/commit/20266c14cbca8cfbc35b9aa46d2701cab710f76e)
+- [ ] [<code>fix(ci): refresh qa-lab lockfile</code>](https://github.com/openclaw/openclaw/commit/5da237c887029110ca0dc6484f9357134a3ee987)
+- [ ] [<code>feat(qa-lab): add Convex credential broker and admin CLI (#65596)</code>](https://github.com/openclaw/openclaw/commit/3d07dfbb65ba42b281a9928955dccd2d4b3ab601)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>qa: salvage GPT-5.4 parity proof slice (#65664)</code>](https://github.com/openclaw/openclaw/commit/b13844732e39996c4d32905efc0257445720d559)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>qa: relax repo-contract artifact matcher</code>](https://github.com/openclaw/openclaw/commit/eede5259706c1a53ef13e05aac15c81e500465e2)
+- [ ] [<code>qa: wait for repo-contract artifact signals</code>](https://github.com/openclaw/openclaw/commit/6640b352988b903804eebd6548d12c41e5effd88)
+- [ ] [<code>fix(security): broaden shell-wrapper detection and block env-argv assignment injection [AI-assisted] (#65717)</code>](https://github.com/openclaw/openclaw/commit/8f8492d172f4c5b4fd7dd9a47855ed620c8770ab)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(approval-auth): prevent empty approver list from granting explicit approval authorization [AI] (#65714)</code>](https://github.com/openclaw/openclaw/commit/0a105c0900de701d2ee9f1abc96b017afbd0afdd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(security): remove busybox/toybox from interpreter-like safe bins [AI-assisted] (#65713)</code>](https://github.com/openclaw/openclaw/commit/666f48d9b882a8a1415ca53f9567c72499d850c9)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>qa: prefer codex auth for live defaults</code>](https://github.com/openclaw/openclaw/commit/ae4b997a006c8ea0827c3f0c5412af5168f39e47)
+- [ ] [<code>qa: keep OpenAI live defaults when auth exists</code>](https://github.com/openclaw/openclaw/commit/83f6a26d77ce2668b5d0cfba57667e1b0793a525)
+- [ ] [<code>docs:add maintainer info (#65762)</code>](https://github.com/openclaw/openclaw/commit/5b92dbaeeece4b450a0e238f3695796752932860)
+- [ ] [<code>feat: LM Studio Integration (#53248)</code>](https://github.com/openclaw/openclaw/commit/0cfb83edfae95b3f8c683c8e44c0f92ac23642a1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Feat/fix qq ssrf url list (#65788)</code>](https://github.com/openclaw/openclaw/commit/ddb7a8dd80b8d5dd04aafa44ce7a4354b568bb2d)
+- [ ] [<code>chore(release): prepare 2026.4.12</code>](https://github.com/openclaw/openclaw/commit/72e56097ecd40d6d4d3ad2e0c138cff3cda7000b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): restore 2026.4.11 appcast</code>](https://github.com/openclaw/openclaw/commit/e36f2f92c5c88af288dd3ad20b730e2737e654ef)
+- [ ] [<code>fix(matrix): mirror runtime deps for docker builds</code>](https://github.com/openclaw/openclaw/commit/98c2a38bc3cdeae37c34cd895e5a48967a8e031a)
+- [ ] [<code>fix(build): refresh a2ui bundle hash</code>](https://github.com/openclaw/openclaw/commit/d63394247ebb877eb9d771778ee5f0e6a9fc8fb1)
+- [ ] [<code>fix(matrix): sync runtime dependency lockfile</code>](https://github.com/openclaw/openclaw/commit/45f800f4f87b9a9864faefad73906f6e31c8e83f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(matrix): mirror staged runtime dependencies</code>](https://github.com/openclaw/openclaw/commit/ee601ae9937f7ee034177b815c27e9244ce25470)
+- [ ] [<code>fix(release): allow matrix runtime pack size</code>](https://github.com/openclaw/openclaw/commit/abe33319d33f23873efc8609cbe8c433d687084e)
+- [ ] [<code>[codex] Fix LM Studio header-auth follow-ups (#65806)</code>](https://github.com/openclaw/openclaw/commit/431db078f28f50a793aaddc96b6c649e071debac)
+- [ ] [<code>fix(docker): install bundled plugin deps after prune</code>](https://github.com/openclaw/openclaw/commit/ae3b10c15c64cd091c88a82661b5b2df01a7478c)
+- [ ] [<code>fix: extract shared session status runtime (#65807)</code>](https://github.com/openclaw/openclaw/commit/380de88a61de3b6f229be9d0b3f590b94ddca9a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve qmd command paths</code>](https://github.com/openclaw/openclaw/commit/2e1b5407ddfa1ce35289c49b16e7432750ad2b97)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: harden qmd service startup</code>](https://github.com/openclaw/openclaw/commit/645c7b189757d5d6427dd6cb40431aaa15da5ced)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>test(release): align pack size budget assertion</code>](https://github.com/openclaw/openclaw/commit/3b9fb972daa5da51db6396df8d7ae8c6126aa423)
+- [ ] [<code>feat: Streamline Feishu channel onboarding with QR code scan-to-create flow (#65680)</code>](https://github.com/openclaw/openclaw/commit/9e2ac8a1cb9ace335622a453d742f2b86fcff717)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): verify bundled plugin runtime deps</code>](https://github.com/openclaw/openclaw/commit/21ca387eda33aaa7773c434974035a2a649c4f32)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(feishu): avoid sdk facade cycles</code>](https://github.com/openclaw/openclaw/commit/78448c0a26e1119492a498e7092c4fb7cc6738f5)
+- [ ] [<code>fix(feishu): keep channel auth on local api barrel</code>](https://github.com/openclaw/openclaw/commit/268824ff3ab95da42a38f1800cb93800bd710c41)
+- [ ] [<code>fix(feishu): break auth login barrel cycle</code>](https://github.com/openclaw/openclaw/commit/ebba080ffc0de362fbcec2dc637a750a21bd561b)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
