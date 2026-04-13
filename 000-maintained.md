@@ -2686,6 +2686,8 @@
 - [ ] [<code>Roll Fuchsia Linux SDK from lZcRfPoCLnDttrf9P... to tEm4sdcM6twjxQ0w6... (#184917)</code>](https://github.com/flutter/flutter/commit/7d48de2f2eca06e064e773fec0a6609c0aacba37)
 - [ ] [<code>Roll Dart SDK from 8fdbf58b58bd to 77324e51833a (1 revision) (#184921)</code>](https://github.com/flutter/flutter/commit/ed5462cb36545eb8648ad885a15d970f19601fae)
 - [ ] [<code>Roll Skia from 6942f5774d65 to 8d35796258a2 (2 revisions) (#184924)</code>](https://github.com/flutter/flutter/commit/b1876d8b3156072a77f84bcea3b3df8c1d4432b7)
+- [ ] [<code>Roll Dart SDK from 77324e51833a to ef28089d6533 (1 revision) (#184929)</code>](https://github.com/flutter/flutter/commit/bc44cf98b1ce739cd3cda3a9b12900c369bd8d36)
+- [ ] [<code>Roll Fuchsia Linux SDK from tEm4sdcM6twjxQ0w6... to K_2AkZL3Drs6cGE1q... (#184930)</code>](https://github.com/flutter/flutter/commit/a04cdec60eab226fcc9c446013b656a5bf7b7a30)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3477,6 +3479,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(go.d): share ping probing between ping and snmp (#22189)</code>](https://github.com/netdata/netdata.git/commit/7a505cc81e2c1665030b3ee5041a52fab45dc420)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-17-nightly.</code>](https://github.com/netdata/netdata.git/commit/96290576569f3a9f206e1411936cdcef58d1c0f2)
 - [ ] [<code>Regenerate integrations docs (#22182)</code>](https://github.com/netdata/netdata.git/commit/c17acbc3ad975dfb9b1736a8dcc33231f348d2ea)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-19-nightly.</code>](https://github.com/netdata/netdata.git/commit/42811a00ef75cfa516e5b0e42cc69204667f223f)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5326,6 +5329,32 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Clarify Active Memory embedding provider setup</code>](https://github.com/openclaw/openclaw/commit/598ee39527ae0a134586ad67e332544181c0a2bb)
 - [ ] [<code>Clarify Active Memory lexical fallback behavior</code>](https://github.com/openclaw/openclaw/commit/fdd6b9b525d97785aaa07f8ad185c43b5d8d4e28)
 - [ ] [<code>fix: use installer baseline for windows parallels upgrade</code>](https://github.com/openclaw/openclaw/commit/0bca55aceafadd8772222a5365de9d01db5651e9)
+- [ ] [<code>CLI: detect env-backed audio providers (#65491)</code>](https://github.com/openclaw/openclaw/commit/94ef2f1b0d7898e8e0f8b33061815ec1c2cf5b24)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CI: fix mainline regression blockers (#65269)</code>](https://github.com/openclaw/openclaw/commit/383c8543137b9498c40ab4562e8991dcb06f9466)
+- [ ] [<code>Changelog: note audio provider env fix</code>](https://github.com/openclaw/openclaw/commit/38ad06912be7ed9a7c883ccafe9587dff592b85b)
+- [ ] [<code>OpenAI: strengthen heartbeat overlay guidance (#65148)</code>](https://github.com/openclaw/openclaw/commit/f5447aab88217e765c93c3050c424f76fee13257)
+- [ ] [<code>Release: separate release checks workflow (#65552)</code>](https://github.com/openclaw/openclaw/commit/cdcdb4bb93c0a5e2d04eaf0fe2e12885cef287e3)
+- [ ] [<code>Config: refresh generated release baselines</code>](https://github.com/openclaw/openclaw/commit/b2f94d9bb86b01f45261d5128e03396d3a965e73)
+- [ ] [<code>Config: stabilize bundled channel metadata loading</code>](https://github.com/openclaw/openclaw/commit/4503a43b90d72a273139cec77423538f32d1016d)
+- [ ] [<code>Docs: refresh config baseline hash</code>](https://github.com/openclaw/openclaw/commit/48a7014e6b6723ecd19c844a3836810bc63d488b)
+- [ ] [<code>fix(tts): correct tagged TTS syntax guidance (#65573)</code>](https://github.com/openclaw/openclaw/commit/403783a3b12fb621949ea35df5d0d9e77f3c7f2e)
+- [ ] [<code>CI: use 32vCPU Blacksmith release runners</code>](https://github.com/openclaw/openclaw/commit/82865ad4804e97916a01e0ee7525ebadf477625d)
+- [ ] [<code>fix(whatsapp): send group reactions with target participant (#65512)</code>](https://github.com/openclaw/openclaw/commit/9af8288c05afed38f5e57675ab96605a11fc5b60)
+- [ ] [<code>CI: allow 32vCPU Blacksmith label in actionlint</code>](https://github.com/openclaw/openclaw/commit/afb28631a5a97782340330ea118f4c66536dd25a)
+- [ ] [<code>test(e2e): repair OpenShell prerelease smoke</code>](https://github.com/openclaw/openclaw/commit/cfd5f9e4e355fa5b78104ce73e818e89bff58cce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(parallels): harden Windows npm smoke</code>](https://github.com/openclaw/openclaw/commit/bb064d359abf5e99ab0136c2896efbdeb129b0c6)
+- [ ] [<code>fix(plugins): restore missing native runtime deps</code>](https://github.com/openclaw/openclaw/commit/d77360c07641a1b1492a91b9372b904bbc3854bd)
+- [ ] [<code>fix(test): align trace directive type stubs</code>](https://github.com/openclaw/openclaw/commit/9dbbee8a02c4c45c3d5748845d013e70dcaaf030)
+- [ ] [<code>fix(test): remove duplicate trace directive fixtures</code>](https://github.com/openclaw/openclaw/commit/feb8e1e81fae93305426ab222d919783a8564b85)
+- [ ] [<code>fix(plugins): tolerate bundled peer resolution</code>](https://github.com/openclaw/openclaw/commit/ad7f605a6d713487a8c363f6d598fa6c3e04641b)
+- [ ] [<code>chore(release): prepare 2026.4.12-beta.1</code>](https://github.com/openclaw/openclaw/commit/b42937908d6d82373b6e5289f885798bc0361ba4)
+  - <sub>Tags: <code>v2026.4.12-beta.1</code></sub>
+- [ ] [<code>agents: GPT-5.4 runtime completion rollup  (#65219)</code>](https://github.com/openclaw/openclaw/commit/26945ddb4955686e6bf1da0b4ee8d368723634e8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(memory-core): freeze dreaming session-ingest clocks (#65605)</code>](https://github.com/openclaw/openclaw/commit/de1b6abf943d0c67c3b6882d8e62df6c34645cb0)
+- [ ] [<code>test(agents): stabilize steer restart ordering</code>](https://github.com/openclaw/openclaw/commit/4c8337f27b57ce02f6cbe76a1be1fb8a845aff28)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5838,6 +5867,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 - [ ] [<code>docs: rewrite ubus module intro to expand pub/sub and fix OpenWrt capitalization</code>](https://github.com/jow-/ucode/commit/35a74e92ad6922f36eb3bf313e75e08842dd31a8)
 - [ ] [<code>docs: flatten ubus class hierarchy and fix capitalization</code>](https://github.com/jow-/ucode/commit/b3380068a7e1604dfc8e07e12af54cda2ced79d6)
+- [ ] [<code>docs: math: fix spelling mistakes in documentation</code>](https://github.com/jow-/ucode/commit/3c9d3b5272d7bf28b2a62beddc4dda0516262b98)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
