@@ -202,12 +202,17 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>main.js: Handle xkb next-group in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/1898e911f1ba45bf6a2f8d901507c9a64a16ca64)
   - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon/commit/25c4c341477798976a58ef2769b9519a74303e0e)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e7cb4a7729843e4e7603a516480f581080c5d83c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ffcc3cfc1fbbacb70b7f15f6a9ae3055645bf6bb)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ab4a72208b32bc9781f9c3fe09bf5e3a484d38a8)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -220,7 +225,9 @@
 - [ ] [<code>libcvc: Re-add stream monitor, balance, fade, lfe to channel map,</code>](https://github.com/linuxmint/cinnamon-desktop/commit/249f587db0ea95200baafcbf178c67bc99a44a45)
 - [ ] [<code>org.cinnamon.desktop.keybindings.wm schema: Separate key binding for switching workspace up/down from toggling window/workspace selection (#214)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/110609f9c1bfeacfa5cf7ab3e8568d4dee5ca86f)
 - [ ] [<code>Add per app notifications schemas... (#266)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7bd3aea30bb8bcdaeed09830d848ec1589d86ddf)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/954ed432bc255750bbfe7ce982a89ce35a9a8250)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -229,7 +236,9 @@
 - [ ] [<code>stale.yml: Enable cron job.</code>](https://github.com/linuxmint/cinnamon-menus/commit/5e1d20c53a60138c2f7c6a9982aeeada471d1686)
 - [ ] [<code>stale.yml: Remove leftover comment.</code>](https://github.com/linuxmint/cinnamon-menus/commit/ddea01bca27a2a43610db0a483f3e741b48814cb)
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-menus/commit/34a8bc78cbbda3a01395fbd40c6ac1d9fa8bad12)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-menus/commit/1142b5fb313b486f93d7edd1035301a48cc8b4a2)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-screensaver](https://github.com/linuxmint/cinnamon-screensaver): [refs/tags/6.6.1 → HEAD](https://github.com/linuxmint/cinnamon-screensaver/compare/refs/tags/6.6.1...HEAD)
 
@@ -238,13 +247,17 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>subprocess</code></sub>
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/048253296c51a0ee92379d7fd1480fb73782171b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-screensaver/commit/ef4edcb317f363a9bd26844c05748a22528132fd)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-session](https://github.com/linuxmint/cinnamon-session): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-session/compare/refs/tags/6.6.3...HEAD)
 
 - [ ] [<code>csm-app.c: Fix cinnamon restart limit avoidance.</code>](https://github.com/linuxmint/cinnamon-session/commit/e8238bfa2f7ffd44dc77618d7eaa671e855d1e9c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-session/commit/7f3bb6df15cc89df82634cf7c9ae5b39968ee1b9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/b827aebba9e21d036fee4c4186ea632ac7eb0196)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
 
@@ -264,23 +277,28 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Add support for an ambient light sensor. (#444)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/734fd6044ac6fc826e663a7d630069ec90d4a710)
 - [ ] [<code>csd-automount: Disable autostart. (#445)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/6742483f998539e4e85d02ecda42d18ea9a8de36)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f363155157fb7eeffc0d5e38222d9e70c1fd6d76)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-translations/commit/0aa11c110fe852a9bf283d51b9c3837ab3ebcebf)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
 
 - [ ] [<code>Add pkgconfig variable to export the appropriate API version of mozjs (#134)</code>](https://github.com/linuxmint/cjs/commit/3cb58021fb050a06e80433ec8fc8d2621cf3f3df)
-  - <sub>Tags: <code>master.lmde7</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>mozjs 140 + gjs 1.88.0</code>](https://github.com/linuxmint/cjs/commit/3015fd96065d06801ac1f6f2ddaf96f5768e84ec)
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>importer: Add 'clear_cache' function to allow reloading of modules.</code>](https://github.com/linuxmint/cjs/commit/d941af3e5f3290b9da3a75277e71e765c9cb6edb)
-  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>140.0</code>](https://github.com/linuxmint/cjs/commit/074531498e0464c3bec93f63f1ffb1593c5c4008)
+  - <sub>Tags: <code>140.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
@@ -353,7 +371,9 @@
 - [ ] [<code>meta-window-actor-wayland.c: Fix a leak.</code>](https://github.com/linuxmint/muffin/commit/85d3b3b1ca40849156b53a9bab541b735036fe73)
 - [ ] [<code>meta-wayland-single-pixel-buffer.c: Use correct cogl ref function,</code>](https://github.com/linuxmint/muffin/commit/ca0c0ecbf36e3f5691cdc47c9e1541e649ab667b)
 - [ ] [<code>meta-cursor-sprite-xcursor.c: Fix grab/grabbing cursor names.</code>](https://github.com/linuxmint/muffin/commit/557e4b7fe42776ff75263348d53a410eedebcb03)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/muffin/commit/bfe1671ddaa246251463ecca10bb63e8c49fb983)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -387,7 +407,9 @@
 - [ ] [<code>nemo-file-operations.c: Fix file copies breaking ownership rules. (#3731)</code>](https://github.com/linuxmint/nemo/commit/58846d5db828125c50a2b9ef2e65b6db83d5a630)
 - [ ] [<code>nemo-view.c: Cleanup unused code from a removed feature.</code>](https://github.com/linuxmint/nemo/commit/1337cf0cc6e55acf3909a5b32d42e16d77a5763b)
 - [ ] [<code>nemo-progress-info-widget.c: Disable start/pause button when an</code>](https://github.com/linuxmint/nemo/commit/4825be242adce942756be57ebde86d8720cb3164)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo/commit/f0cec39b8984932f1176a8bda6a9c72b3eedb08b)
+  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
