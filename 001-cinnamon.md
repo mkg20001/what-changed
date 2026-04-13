@@ -211,8 +211,15 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/e7cb4a7729843e4e7603a516480f581080c5d83c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ffcc3cfc1fbbacb70b7f15f6a9ae3055645bf6bb)
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/ab4a72208b32bc9781f9c3fe09bf5e3a484d38a8)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix for loading VPN plugins that are using either NmaCertChooser or NMACertChooser (#376)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/263e049ea63bac25f10a7f804101321eee626e89)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>build: Fix networkmanager-less builds.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/c2cfe3a6dc7d258132f5d56d335354e2a0606451)
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>misc: Cleanup some unity references.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f6f877ed2b4db7b2e64d1b8a9f8d73ddb424fd7d)
+- [ ] [<code>Add 'Fractional' and 'Scaling' keywords to display panel (#375)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/abe1b473f7b73a800421897350e4e4d97a8d2f19)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -408,28 +415,75 @@
 - [ ] [<code>nemo-view.c: Cleanup unused code from a removed feature.</code>](https://github.com/linuxmint/nemo/commit/1337cf0cc6e55acf3909a5b32d42e16d77a5763b)
 - [ ] [<code>nemo-progress-info-widget.c: Disable start/pause button when an</code>](https://github.com/linuxmint/nemo/commit/4825be242adce942756be57ebde86d8720cb3164)
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo/commit/f0cec39b8984932f1176a8bda6a9c72b3eedb08b)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>libnemo-private: fix use-after-free crash in nemo_file_mark_gone (#3724)</code>](https://github.com/linuxmint/nemo/commit/07f5a887c44d49946e94940e0995042719094425)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
 - [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-fileroller](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
 - [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-preview](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-python](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
 - [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-seahorse](https://github.com/linuxmint/nemo-extensions): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/refs/tags/6.6.0...HEAD)
 
 - [ ] [<code>[media-columns] FPS, codec, encode date (#576)</code>](https://github.com/linuxmint/nemo-extensions/commit/fa5fff80620edd37b2b37ca6757af27bbbd68053)
+- [ ] [<code>nemo-seahorse: simplify dependency</code>](https://github.com/linuxmint/nemo-extensions/commit/89c04e4da773fb237f056d44aa31ddbf784aa835)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>nemo-seahorse: Turn it into a python action</code>](https://github.com/linuxmint/nemo-extensions/commit/23075f44c4b609f3e51dd28865b3acd857e068fc)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>l10n: Update POT</code>](https://github.com/linuxmint/nemo-extensions/commit/8e19a6c68ef87926d4dfade8daf1673a6e7e6e8a)
+- [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/nemo-extensions/commit/6e1376f47227ae2bec1a3437d1e870e845c81a3f)
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 > Dropped nemo-with-extensions - no appropriate URL found OrderedDict({'attr_path': 'nemo-with-extensions', 'home_url': 'https://github.com/linuxmint/nemo', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -451,7 +505,10 @@
 - [ ] [<code>Do not actually link to fake website (#247)</code>](https://github.com/linuxmint/warpinator/commit/d015ec88cbbd4423577deba4db14b47c761f175a)
 - [ ] [<code>Update README</code>](https://github.com/linuxmint/warpinator/commit/75993179a51633114c598945429de432821ae43b)
 - [ ] [<code>Set prgname to application ID (#249)</code>](https://github.com/linuxmint/warpinator/commit/599a871d64a931b75ca23e5fbd3223006b74167a)
+- [ ] [<code>warpinator-launch.py: Get rid of pre-populated google namespace</code>](https://github.com/linuxmint/warpinator/commit/8474c2828f0ca0eb32fee148483b83a9ffd66ddf)
+- [ ] [<code>build: Fix nesting output dirs when re-installing an already-built</code>](https://github.com/linuxmint/warpinator/commit/2faebac5ef1d2617171411f958631f336ea6d1d3)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>subprocess</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
@@ -477,4 +534,7 @@
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xviewer/commit/becb779a65e7ef18dcd2edaed8cfcd62b4497ef4)
+- [ ] [<code>build: Add support for GIRepository-2.0.</code>](https://github.com/linuxmint/xviewer/commit/74d7d4ba2584c658ae6fb87208543671664943cc)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
