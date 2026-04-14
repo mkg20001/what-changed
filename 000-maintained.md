@@ -551,6 +551,10 @@
 - [ ] [<code>build: (deps): bump badges from 3.1.2 to 3.2.0</code>](https://github.com/krille-chan/fluffychat/commit/0e0daacff43287d1ee0e9e00b029c834039166cf)
 - [ ] [<code>build: Update to flutter 3.41.6</code>](https://github.com/krille-chan/fluffychat/commit/c7060413d5e5158e3e42f6672f72f44046fcd621)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.10 to 11.0.2</code>](https://github.com/krille-chan/fluffychat/commit/e994f61baa65f57d8ffd8bc52f8dde125003cfb3)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/4467aea69ad7e101d288ab6201b2a15e88992b44)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/31afa9367aef0a2c288997eb0ef4f7f1334b8a26)
+- [ ] [<code>build: (deps): bump go_router from 17.2.0 to 17.2.1</code>](https://github.com/krille-chan/fluffychat/commit/6b3ec45d0f5a9895e134524a70b24792b9dbb11b)
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.1 to 5.0.2</code>](https://github.com/krille-chan/fluffychat/commit/4e5bada20c93c5bdf3e710fe30949bc3f3f7f61a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1018,6 +1022,10 @@
 - [ ] [<code>build: (deps): bump badges from 3.1.2 to 3.2.0</code>](https://github.com/krille-chan/fluffychat/commit/0e0daacff43287d1ee0e9e00b029c834039166cf)
 - [ ] [<code>build: Update to flutter 3.41.6</code>](https://github.com/krille-chan/fluffychat/commit/c7060413d5e5158e3e42f6672f72f44046fcd621)
 - [ ] [<code>build: (deps): bump file_picker from 10.3.10 to 11.0.2</code>](https://github.com/krille-chan/fluffychat/commit/e994f61baa65f57d8ffd8bc52f8dde125003cfb3)
+- [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/4467aea69ad7e101d288ab6201b2a15e88992b44)
+- [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/31afa9367aef0a2c288997eb0ef4f7f1334b8a26)
+- [ ] [<code>build: (deps): bump go_router from 17.2.0 to 17.2.1</code>](https://github.com/krille-chan/fluffychat/commit/6b3ec45d0f5a9895e134524a70b24792b9dbb11b)
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.1 to 5.0.2</code>](https://github.com/krille-chan/fluffychat/commit/4e5bada20c93c5bdf3e710fe30949bc3f3f7f61a)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2700,6 +2708,9 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Preprovision Android NDK for flavored builds and reuse matching unflavored NDKs (#183555)</code>](https://github.com/flutter/flutter/commit/fb3b552304efd7ff61f18b9d13dd26956ad84859)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix codesign verification test for SwiftPM Add to App (#184980)</code>](https://github.com/flutter/flutter/commit/71e21c52efde8f88291226b5177a43a40e15cb41)
+- [ ] [<code>[flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing (#184528)</code>](https://github.com/flutter/flutter/commit/2e3b7c0e4d61e7a27a5aad1311067b12a7e35485)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3496,6 +3507,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump golang.org/x/net from 0.52.0 to 0.53.0 in /src/go (#22199)</code>](https://github.com/netdata/netdata.git/commit/b090cd77510307641e6b273cbd5e216f65861691)
 - [ ] [<code>build(deps): bump github.com/mattn/go-isatty from 0.0.20 to 0.0.21 in /src/go (#22197)</code>](https://github.com/netdata/netdata.git/commit/9020218fa452a25a56e43501c8e0eacdcf5eeb78)
 - [ ] [<code>feat(go.d/snmp): add structured mapping config and bitmask value mappings (#22200)</code>](https://github.com/netdata/netdata.git/commit/a6307e68d3e35ff60299249d3f905b18c4f28ed7)
+- [ ] [<code>fix(go.d/dyncfg): remove wait-decision timeout and make handoff non-droppable (#22201)</code>](https://github.com/netdata/netdata.git/commit/30e29e578d7b91c5f790e031ebe8c1d3f9d4c592)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-25-nightly.</code>](https://github.com/netdata/netdata.git/commit/849e0f9a6af043af259eb5646ff9646f7f857e6e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5264,6 +5278,46 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>perf(config): keep runtime compat migrations lightweight</code>](https://github.com/openclaw/openclaw/commit/10a92e2ff4184a452462c84077422cdca5f21836)
 - [ ] [<code>fix(ui): preserve user-selected session on reconnect and tab switch (#59611) thanks @loong0306</code>](https://github.com/openclaw/openclaw/commit/891e42beec49c7e1eddd7148644e4e97daf3c947)
+- [ ] [<code>fix: count unknown-tool retries only when streamed (#66145)</code>](https://github.com/openclaw/openclaw/commit/8c7f17b95382ba8c554f69422dec06acf0e3c5b1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(active-memory): Move active memory recall into the hidden prompt prefix (#66144)</code>](https://github.com/openclaw/openclaw/commit/f94d6778b1d54832112ba89d034a86300928f2a7)
+- [ ] [<code>fix(ui): replace marked.js with markdown-it to fix ReDoS UI freeze (#46707) thanks @zhangfnf</code>](https://github.com/openclaw/openclaw/commit/9315302516fb1599745fa8503443e71309550ecf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(ci): unblock discord boundary typing</code>](https://github.com/openclaw/openclaw/commit/ea25cf25959b38591f21dfe465165818eb011707)
+- [ ] [<code>fix(ci): repair extension boundary contracts</code>](https://github.com/openclaw/openclaw/commit/f3283a330b4c4c0651b121423dad94118e958f88)
+- [ ] [<code>fix(ci): mirror whatsapp runtime dependency</code>](https://github.com/openclaw/openclaw/commit/36a58e714c1aff51f9cef1e4f6bc68ae2fcfc01f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): align cron and session tests with runtime</code>](https://github.com/openclaw/openclaw/commit/a16331c36e29afaadb136c7299bf528cce2c2296)
+- [ ] [<code>fix(ci): clear residual tsgo blockers</code>](https://github.com/openclaw/openclaw/commit/792653df159717fca0bd5621d5f78b9b3027c5af)
+- [ ] [<code>fix(ci): repair baileys lockfile snapshot</code>](https://github.com/openclaw/openclaw/commit/cc2a37700901b3e827ac75a2d7aa348264f6d1fe)
+- [ ] [<code>fix(memory): unify default root memory handling (#66141)</code>](https://github.com/openclaw/openclaw/commit/3d06d90e835ec0e7f815e8cb181287ad41214690)
+- [ ] [<code>fix: normalize OpenAI minimal reasoning</code>](https://github.com/openclaw/openclaw/commit/3fdc70a434ec22c2aa09757f466511208b8ab550)
+- [ ] [<code>chore: fix pulled lint assertion</code>](https://github.com/openclaw/openclaw/commit/e04a63d08a39712bba5591c5eb4aead7ca4b6a21)
+- [ ] [<code>plugins: trim staged runtime cargo</code>](https://github.com/openclaw/openclaw/commit/b5dcc1127335ea29d575039b179b5a82dcc22dad)
+- [ ] [<code>fix(ci): restore plugin-local whatsapp deps</code>](https://github.com/openclaw/openclaw/commit/8ab89989c210ecf5fd9d3d04fdef29bc28bbfb44)
+- [ ] [<code>fix(ci): align cron tests with default model</code>](https://github.com/openclaw/openclaw/commit/9dc4a270e4d503c5734aa92268b6be2344657dee)
+- [ ] [<code>fix(ci): repair agent test mocks</code>](https://github.com/openclaw/openclaw/commit/a165f7b063a41e54989607aa78986b834664a95a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): repair telegram topic cache typing</code>](https://github.com/openclaw/openclaw/commit/94779b4fb1d2e0c3ea6d271ddb4e55a6d2e7c826)
+- [ ] [<code>fix(ci): repair telegram ui and watch regressions</code>](https://github.com/openclaw/openclaw/commit/955270fb73a16fd7378254ea05c1eac0f72b403b)
+- [ ] [<code>fix(stream): tighten voice stream ingress guards (#66027)</code>](https://github.com/openclaw/openclaw/commit/692438cbb22e3c5c36236adaf556e2768cb1cfbd)
+- [ ] [<code>Feishu: tighten allowlist target canonicalization (#66021)</code>](https://github.com/openclaw/openclaw/commit/a1c44d28fcb83e35dcd04b8b7731986adeed84cf)
+- [ ] [<code>fix(ci): mirror whatsapp runtime dependency</code>](https://github.com/openclaw/openclaw/commit/9376f52419bc523a979e8b8b15552f569c92918b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): note perf fixes</code>](https://github.com/openclaw/openclaw/commit/12246711d800ef3246e2d68c870ae9e9440502e3)
+- [ ] [<code>test: align failover source model expectation</code>](https://github.com/openclaw/openclaw/commit/07b839f9b164def1e3bf3ca90efac7dff65febc7)
+- [ ] [<code>fix: sendPolicy deny should suppress delivery, not inbound processing (#53328) (#65461)</code>](https://github.com/openclaw/openclaw/commit/0362f21784ce8eb2028f7fd1e5d4ad42c6a5e9a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(tts): allow OpenClaw temp directory paths in reply media normalizer (#63511)</code>](https://github.com/openclaw/openclaw/commit/1c496d046eb8562362c43187074663984ad0297d)
+- [ ] [<code>docs(changelog): note sendPolicy suppressDelivery + BB Private API cache fixes (#66220)</code>](https://github.com/openclaw/openclaw/commit/088d3bd6be1e139b8e815d6a15d2022be99e7a3f)
+- [ ] [<code>docs(changelog): add 2026.4.12 dedupe note</code>](https://github.com/openclaw/openclaw/commit/8d3f8a8268d2117e32250d6a285d84fa7e55fa80)
+- [ ] [<code>fix: recover reasoning-only OpenAI turns (#66167)</code>](https://github.com/openclaw/openclaw/commit/14779eaeb0d9de7bbaebd82c40b0a54e20afa4fc)
+- [ ] [<code>test: launch macos parallels gateway in guest</code>](https://github.com/openclaw/openclaw/commit/af62e61fbe40a21d22f65d751aec42a62f55dc68)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>docs(changelog): tidy unreleased entries</code>](https://github.com/openclaw/openclaw/commit/26c9dbdd029b749da30c703cc80131a60e914d70)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(outbound): suppress relay status placeholder leaks</code>](https://github.com/openclaw/openclaw/commit/aac84372abd5b339773d7859a98484c3575d95a4)
+- [ ] [<code>fix(ci): avoid frozen hook test clock hangs</code>](https://github.com/openclaw/openclaw/commit/5577d81ab658d70de86ac98bb30207656b784470)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
