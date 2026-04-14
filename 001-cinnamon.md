@@ -201,10 +201,12 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>main.js: Handle xkb next-group in _stageEventHandler.</code>](https://github.com/linuxmint/cinnamon/commit/1898e911f1ba45bf6a2f8d901507c9a64a16ca64)
-  - <sub>Tags: <code>master.mint22</code></sub>
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon/commit/25c4c341477798976a58ef2769b9519a74303e0e)
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Change lock screen method to use screensaverController (#13708)</code>](https://github.com/linuxmint/cinnamon/commit/f15d635eacd06986d1cd8210331542b25885043e)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
