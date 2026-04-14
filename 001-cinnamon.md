@@ -205,6 +205,13 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>Change lock screen method to use screensaverController (#13708)</code>](https://github.com/linuxmint/cinnamon/commit/f15d635eacd06986d1cd8210331542b25885043e)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>user@cinnamon.org: Fix screensaver and switch-user activation.</code>](https://github.com/linuxmint/cinnamon/commit/86eef33273e0f4beb79ce7b009d6343e21c365e6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>screenShield.js: Don't react twice to loginManager session signals.</code>](https://github.com/linuxmint/cinnamon/commit/2e65052d5fdfb9c9b0c7f7803fe83e03aa43d91f)
+- [ ] [<code>cinnamon-global.c: Don't let a normal popModal cancel an ongoing</code>](https://github.com/linuxmint/cinnamon/commit/c27a6a604afc0235c529ba03bd02451cc5d03ce8)
+- [ ] [<code>screensaver/controller.js: Give lockScreen an optional callback.</code>](https://github.com/linuxmint/cinnamon/commit/889a2ae64098e1968a4844c74b5b612167ea80cd)
+- [ ] [<code>util.js: Lock the screen before switching to the greeter.</code>](https://github.com/linuxmint/cinnamon/commit/5b65946fa250c1c52302aee3253f3746a13bcaf0)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
