@@ -427,7 +427,9 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>libnemo-private: fix use-after-free crash in nemo_file_mark_gone (#3724)</code>](https://github.com/linuxmint/nemo/commit/07f5a887c44d49946e94940e0995042719094425)
+- [ ] [<code>actions: Don't show in the places-sidebar menu, unless Conditions</code>](https://github.com/linuxmint/nemo/commit/86e09b01a815f5de36493791820c5d7bf22d698d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
