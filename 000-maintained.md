@@ -557,6 +557,7 @@
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.1 to 5.0.2</code>](https://github.com/krille-chan/fluffychat/commit/4e5bada20c93c5bdf3e710fe30949bc3f3f7f61a)
 - [ ] [<code>build: (deps): bump flutter_map from 8.2.2 to 8.3.0</code>](https://github.com/krille-chan/fluffychat/commit/142ef1135378e51c6b83e12c8d9f64c69b90c68a)
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/37c96a5cc3095689a79b71e638fac904ce40f2f4)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/c288a3fb1f33ff039ce92d74dcc6805767fa161d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1030,6 +1031,7 @@
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.1 to 5.0.2</code>](https://github.com/krille-chan/fluffychat/commit/4e5bada20c93c5bdf3e710fe30949bc3f3f7f61a)
 - [ ] [<code>build: (deps): bump flutter_map from 8.2.2 to 8.3.0</code>](https://github.com/krille-chan/fluffychat/commit/142ef1135378e51c6b83e12c8d9f64c69b90c68a)
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/37c96a5cc3095689a79b71e638fac904ce40f2f4)
+- [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/c288a3fb1f33ff039ce92d74dcc6805767fa161d)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2757,6 +2759,23 @@
 - [ ] [<code>Move widget_preview_scaffold into pub workspace (#182627)</code>](https://github.com/flutter/flutter/commit/f42a086b6d291f25987e9bb64ba98365c2f733d6)
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>[AGP 9] Update AGP Error (#185043)</code>](https://github.com/flutter/flutter/commit/85d5706abf6489b31d0c3ef02cd04f6ce9ca1109)
+- [ ] [<code>Ignore incoming deprecated_web_configuration lint (#184130)</code>](https://github.com/flutter/flutter/commit/1ec6b2326153a29bd66bdd8c06145d4e3401a309)
+- [ ] [<code>Make `multiple_windows` follow repo analyzer rules (#184753)</code>](https://github.com/flutter/flutter/commit/11c4a63c644a0737c14cc47a5cc5b1e2c2606604)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[fuchsia] Ask for both ambient-replace and VMEX to allow for a softer transition. (#185042)</code>](https://github.com/flutter/flutter/commit/1923d2f30cf10a77533d059ee0b94b51cc423aa7)
+- [ ] [<code>[Android] Add integration test for setting engine flags via the manifest (#182241)</code>](https://github.com/flutter/flutter/commit/a0d589f063055cf0fa6a9a8070e584f2d343fc7b)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>update popular issues documentation (#183196)</code>](https://github.com/flutter/flutter/commit/99913db8d8bd32e30fc03ce663c2cab420caa0d6)
+- [ ] [<code>Use an if-element in a collection literal instead of a conditional expression (#184830)</code>](https://github.com/flutter/flutter/commit/07a071f9c36d14563bb58bd2f26b26c830cc7ab6)
+- [ ] [<code>Adds missing `await`s on forgotten cases (#183466)</code>](https://github.com/flutter/flutter/commit/1ca490e5e0d913c810954bcec7a95641b8723b91)
+- [ ] [<code>refactor: Remove material imports from Widget tests  (#184877)</code>](https://github.com/flutter/flutter/commit/fd141e547b54cd49ba8400a11e07f11e470f2fd1)
+- [ ] [<code>Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart (#181774)</code>](https://github.com/flutter/flutter/commit/ace79202f53d70982c4689f78b4436d42ac832e7)
+- [ ] [<code>Roll Skia from 4c382df6a25a to bda7232e6772 (7 revisions) (#185057)</code>](https://github.com/flutter/flutter/commit/a89b3a586eb3075773b301557df405e94b0a1353)
+- [ ] [<code>Roll Dart SDK from ee5afcef0596 to 87b7c87e7207 (4 revisions) (#185060)</code>](https://github.com/flutter/flutter/commit/a02a2ab600e569bd0e6fa95db59f07b1e8f52199)
+- [ ] [<code>Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator (#179810)</code>](https://github.com/flutter/flutter/commit/745bd2c834eecf592bfb5dcb107375b35bb31958)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>[ios][platform_view]Reland hitTest approach (with a few 2026 update) (#183484)</code>](https://github.com/flutter/flutter/commit/392bb793b24120f21d15b30c467499209d0bdaa9)
+- [ ] [<code>Agent rule: Dart editing (#185045)</code>](https://github.com/flutter/flutter/commit/bc9b0371d817ece42e733e0d8bd6004337f8247e)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3572,6 +3591,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Remove VLA (variable-length arrays) (claim and daemon) (#22114)</code>](https://github.com/netdata/netdata.git/commit/141394aefdb994e88f9eb09b15857dd34d81e833)
 - [ ] [<code>Fix pluginsd cleanup race with active collector (#22207)</code>](https://github.com/netdata/netdata.git/commit/5419eecee594998161e1109e93eb704585723bd9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-38-nightly.</code>](https://github.com/netdata/netdata.git/commit/1311e8cd0b6d376fdcf6182afb9c36241238688e)
+- [ ] [<code>Add SQLite version to build details and startup log message (#22208)</code>](https://github.com/netdata/netdata.git/commit/5e5f64031a9641feba0fbaf1042491b191ca4a93)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5145,6 +5165,101 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(e2e): harden beta preflight failures</code>](https://github.com/openclaw/openclaw/commit/5702ab695bbe7eba87335cec55728408c08e03d8)
 - [ ] [<code>memory: block dreaming self-ingestion (#66852)</code>](https://github.com/openclaw/openclaw/commit/0c4e0d703023c93bed101fcf62a92dbfd3537bcc)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Telegram/documents: sanitize binary payloads to prevent prompt input inflation (#66877)</code>](https://github.com/openclaw/openclaw/commit/734bb9c2e73b18777175ae05953f51b4be034d33)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>QA: expand Matrix config scenario coverage</code>](https://github.com/openclaw/openclaw/commit/9463f1c498bdb5b8810b638037a93670cebcfb2a)
+- [ ] [<code>fix(release): keep legacy update QA sidecars</code>](https://github.com/openclaw/openclaw/commit/e49be93f2c6e9b5aeecfa8666817a312cbc53566)
+- [ ] [<code>fix(ci): make pnpm audit hook dependency-free</code>](https://github.com/openclaw/openclaw/commit/da43277cc9c5a9436751ae72bc338fdb33d95b81)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): parse quoted pnpm snapshot keys</code>](https://github.com/openclaw/openclaw/commit/4c52731051845ba56023fe748b9c9e436ab62de8)
+- [ ] [<code>QA: split Matrix scenario leaf types</code>](https://github.com/openclaw/openclaw/commit/3c03d41f135fcc9910a88794af1b3761ede39461)
+- [ ] [<code>test(e2e): quote linux bad-plugin diagnostic grep</code>](https://github.com/openclaw/openclaw/commit/1c46fa00318be06d043907a71de8c0b45f6d02b8)
+- [ ] [<code>test(e2e): harden Parallels smoke probes</code>](https://github.com/openclaw/openclaw/commit/d974ceac21d571afb5c30ac05eb725272c5e2168)
+- [ ] [<code>fix: restore Telegram native auto defaults (#66843) (thanks @kashevk0)</code>](https://github.com/openclaw/openclaw/commit/ff4edd055918b9f8655dceeff05c7ad5a7c42552)
+- [ ] [<code>feat(bluebubbles): replay missed webhook messages after gateway restart (#66857)</code>](https://github.com/openclaw/openclaw/commit/6f1d321aababd96e7b67e4b8dc7fdd5d9c1a554b)
+- [ ] [<code>fix: keep Telegram command sync process-local (#66730) (thanks @nightq)</code>](https://github.com/openclaw/openclaw/commit/b1d03b4057f811ed3c867a5f4575c96fca1b71c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: restore allowPrivateNetwork for self-hosted STT endpoints (#66692) (thanks @jhsmith409)</code>](https://github.com/openclaw/openclaw/commit/0c0463b2b70f76aa46bdd860efd8ba16c3834711)
+- [ ] [<code>fix: handle OpenRouter Qwen3 reasoning_details streams (#66905) (thanks @bladin)</code>](https://github.com/openclaw/openclaw/commit/e0bf756b50b538d68719a5646d902367682b1d09)
+- [ ] [<code>fix: remove stale media override import</code>](https://github.com/openclaw/openclaw/commit/0bc4472b7eab4bb4bf75c00312539896252a4f78)
+- [ ] [<code>Reply: preserve phased block metadata</code>](https://github.com/openclaw/openclaw/commit/8db4bb758353911f51b920d856dcdf4e31ce7522)
+- [ ] [<code>QA: split Matrix contract runtime</code>](https://github.com/openclaw/openclaw/commit/5042b8b8e37749208f764c8d59cbda8805b20310)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>QA: genericize mock streaming fixtures</code>](https://github.com/openclaw/openclaw/commit/fb92ca1a4dc13f13cd8b728b580490de1bb5c8cf)
+- [ ] [<code>fix: guard against undefined event.content in cron agentTurn payload (#66302)</code>](https://github.com/openclaw/openclaw/commit/90c06c04c8f62a85b4c011de4729657cac0bdb52)
+- [ ] [<code>fix: type media private-network request flag</code>](https://github.com/openclaw/openclaw/commit/5ca65c84cce059d8a6ad8f9558204a07801ef768)
+- [ ] [<code>build: refresh bundled channel metadata</code>](https://github.com/openclaw/openclaw/commit/ec7635256b1393ca453ab5d533f66280aadbc9ce)
+- [ ] [<code>build: refresh config baseline</code>](https://github.com/openclaw/openclaw/commit/cd3e6e1faf07eb444baeae38c700a295c4af5108)
+- [ ] [<code>fix(onboard): crash at channel selection on globally installed CLI (#66736)</code>](https://github.com/openclaw/openclaw/commit/2e2cbdd19de2cf3e150e1fa615bf2d5b22de138b)
+- [ ] [<code>QA: speed up Matrix live lane</code>](https://github.com/openclaw/openclaw/commit/7d7dc7510e61acd152888a6796daac531ec79c08)
+- [ ] [<code>Add Mason Huang as maintainer (#66974)</code>](https://github.com/openclaw/openclaw/commit/0aea99883c550bb2ca42951d64dfd0412e579c88)
+- [ ] [<code>fix: handle native pnpm execpath</code>](https://github.com/openclaw/openclaw/commit/ccedc506a5c82a62babee73c944bcdaa6a4337d3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>style: use non-capturing pnpm regex group</code>](https://github.com/openclaw/openclaw/commit/2cc97989d33b57c0396731c28d5cdc841a5710b2)
+- [ ] [<code>test(qa-matrix): isolate flaky beta scenarios</code>](https://github.com/openclaw/openclaw/commit/7fc5a18d8913c4e7570a3403e5060aabad3f091e)
+- [ ] [<code>CLI/plugins: stop forced-unsafe installs from falling back to hook packs (#58909)</code>](https://github.com/openclaw/openclaw/commit/3d2f51c0a44265e69e2744e4541a589c7bd2dc95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(ui): add Model Auth status card to Overview dashboard (#66211)</code>](https://github.com/openclaw/openclaw/commit/507b7189177a37f67d134536a6d7989b3a53e86e)
+- [ ] [<code>chore(ui): refresh de control ui locale</code>](https://github.com/openclaw/openclaw/commit/808ba47a895fd73611fb3191491c00e892dab3c7)
+- [ ] [<code>chore(ui): refresh zh-TW control ui locale</code>](https://github.com/openclaw/openclaw/commit/adff95686329a7f0a51948199109f60f3d420aa1)
+- [ ] [<code>chore(ui): refresh zh-CN control ui locale</code>](https://github.com/openclaw/openclaw/commit/d2044718798be71fea3fbf169bdff39071a49e1a)
+- [ ] [<code>chore(ui): refresh pt-BR control ui locale</code>](https://github.com/openclaw/openclaw/commit/0ac265f41819fc9c3bf4987cadbf9843b4a54db3)
+- [ ] [<code>chore(ui): refresh ja-JP control ui locale</code>](https://github.com/openclaw/openclaw/commit/1d8713bae338b2bba50185464abb075499fb8f8d)
+- [ ] [<code>chore(ui): refresh fr control ui locale</code>](https://github.com/openclaw/openclaw/commit/bf136ab1d93c7814f7374c41808c4cb0a32eeeeb)
+- [ ] [<code>chore(ui): refresh es control ui locale</code>](https://github.com/openclaw/openclaw/commit/0c3354c320a77e77fa4ead4b14481fced3f55d61)
+- [ ] [<code>chore(ui): refresh ko control ui locale</code>](https://github.com/openclaw/openclaw/commit/1c3c9c9d297382c5da661bfdbf1668f9dbc78ddb)
+- [ ] [<code>chore(ui): refresh tr control ui locale</code>](https://github.com/openclaw/openclaw/commit/b778253cca953e086e1463090e5b8b047606c7ba)
+- [ ] [<code>chore(ui): refresh pl control ui locale</code>](https://github.com/openclaw/openclaw/commit/2e230021b6bba8733ff6d29ff2aaa6ae0da53a71)
+- [ ] [<code>chore(ui): refresh id control ui locale</code>](https://github.com/openclaw/openclaw/commit/8602c8106840bf89c09b4c6eb364a6be92df892e)
+- [ ] [<code>chore(ui): refresh uk control ui locale</code>](https://github.com/openclaw/openclaw/commit/9b1b56aad1fd259a89ac7f8718a56965f714ac60)
+- [ ] [<code>fix: classify "No conversation found" as session_expired (#65028)</code>](https://github.com/openclaw/openclaw/commit/732db752790e36c824f14f0e0684f510b3cbf544)
+- [ ] [<code>fix(context-engine): gracefully degrade to legacy engine on third-party plugin resolution failure (#66930)</code>](https://github.com/openclaw/openclaw/commit/6aa4515798cf8bd71307473f66e8bd3e4d4b098a)
+- [ ] [<code>docs-i18n: add behavior baseline fixtures (#64073)</code>](https://github.com/openclaw/openclaw/commit/059d4b6d47b0aeb8839a5373a59406a72f06774c)
+- [ ] [<code>doc:add qq support to README (#67039)</code>](https://github.com/openclaw/openclaw/commit/dd90297dfc6cd789f81b4bead8e8911afa305553)
+- [ ] [<code>build: refresh plugin sdk api baseline</code>](https://github.com/openclaw/openclaw/commit/277885f0a4c0c5fdfcc159230d753f31078ed7a2)
+- [ ] [<code>fix(update): verify packaged dist inventory</code>](https://github.com/openclaw/openclaw/commit/18d0af3a13db2c8f9d5866cd0177291e2ac62221)
+- [ ] [<code>fix(postinstall): prune stale packaged dist files</code>](https://github.com/openclaw/openclaw/commit/5754667c870ae5d1e9aea3849baadb85a652cc34)
+- [ ] [<code>test(postinstall): use real dist inventory fixtures</code>](https://github.com/openclaw/openclaw/commit/1077cb74f9883e7e1f052805b0bb38ef3fceda9e)
+- [ ] [<code>fix(update): filter dist inventory to packed files</code>](https://github.com/openclaw/openclaw/commit/5e7306bcfc7a4031ac916e24bc4f141d4424b574)
+- [ ] [<code>fix(postinstall): reject unsafe dist symlinks</code>](https://github.com/openclaw/openclaw/commit/9e1df984758331e3839aedac390e8a351c5283a4)
+- [ ] [<code>fix(update): preserve legacy global verify</code>](https://github.com/openclaw/openclaw/commit/aaa6b05f3ba8834d99c9b64ecb632298c253418d)
+- [ ] [<code>fix(update): preserve legacy downgrade verify</code>](https://github.com/openclaw/openclaw/commit/60e2ccbd5ba9b4984fecd91631b41c83ac5b9bfb)
+- [ ] [<code>fix(update): keep downgrade follow-ups in-process</code>](https://github.com/openclaw/openclaw/commit/64f258fc49a69bd469e49aeb0d9ef7d5b09d6214)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(postinstall): reject dist symlink escapes</code>](https://github.com/openclaw/openclaw/commit/2a8226f8e2248b44e423acc7325448126e8e0640)
+- [ ] [<code>fix(update): infer legacy bundled sidecars</code>](https://github.com/openclaw/openclaw/commit/8b7914199791b3ffb39b208b76ba6d1d591c21b1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(build): move compat sidecars into src</code>](https://github.com/openclaw/openclaw/commit/2791b00e7294af25f6b012bc7a3983f7ee444d86)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(inventory): omit qa-matrix dist artifacts</code>](https://github.com/openclaw/openclaw/commit/a1d4eb255acf8ce874c0a8e7e42af3757b60b4e4)
+- [ ] [<code>fix(lint): drop dead compat sidecar imports</code>](https://github.com/openclaw/openclaw/commit/2e61d2ce3f912f2be5db6ccee392faab636659d2)
+- [ ] [<code>fix: prune stale dist chunks after npm upgrades (#66959)</code>](https://github.com/openclaw/openclaw/commit/94d5c3dd6bde5b8079ecd5093271f6192580d5b0)
+- [ ] [<code>feat(memory-lancedb): add cloud storage support to memory-lancedb (#63502)</code>](https://github.com/openclaw/openclaw/commit/df918c4de530f3880b1169b33f70d79167c7b8cf)
+- [ ] [<code>fix(update): harden dist inventory handling</code>](https://github.com/openclaw/openclaw/commit/7f35f76914641a35a99bd66a2a7936b4f556b8f7)
+- [ ] [<code>fix(ts): use typed runtime semver helpers</code>](https://github.com/openclaw/openclaw/commit/9e665e4328ff31521992abf4475cf4f04d13fade)
+- [ ] [<code>fix(update): keep dist verify compat-safe</code>](https://github.com/openclaw/openclaw/commit/ea4889ecdcc69dbd0287a1885735176e289148d7)
+- [ ] [<code>fix(cron): preserve all fields in announce delivery by removing summarization instruction (#65638)</code>](https://github.com/openclaw/openclaw/commit/fb4395c1fea5c028f4ac5a93b218014ba0d21717)
+- [ ] [<code>fix(ui): skip chat history reload during active sends to prevent mess… (#66997)</code>](https://github.com/openclaw/openclaw/commit/7734a40a5650d0861a86a3860a049ad9c3a8f624)
+- [ ] [<code>test(gateway): harden non-isolated channel mocks</code>](https://github.com/openclaw/openclaw/commit/f49d9bcae968b9ee295fdcab05d1dbd4cda294ce)
+- [ ] [<code>build: refresh config docs baseline</code>](https://github.com/openclaw/openclaw/commit/7611d41136a1fe1a65083b13bc47c6909640737e)
+- [ ] [<code>test(perf): speed up slow cron infra and secrets specs</code>](https://github.com/openclaw/openclaw/commit/7320dfc1ff47fb90c7ce82536356acdca8d7e742)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs-i18n: harden behavior fixture path reads (#67046)</code>](https://github.com/openclaw/openclaw/commit/bb669df26a920b1033f1abe36546d7538013a138)
+- [ ] [<code>test(types): fix perf test follow-up mocks</code>](https://github.com/openclaw/openclaw/commit/7821fae05dfb05e56030c9c7aabf06769ea7df44)
+- [ ] [<code>feat(github-copilot): add embedding provider for memory search (#61718)</code>](https://github.com/openclaw/openclaw/commit/88d3620a85bff82a905dbb6ccdfd16c5ac5cf447)
+- [ ] [<code>fix(gateway): clear fired close timeout handles</code>](https://github.com/openclaw/openclaw/commit/9c32c2bf26131fadc1af655e473cbbfde301525c)
+- [ ] [<code>docs: cap release e2e lanes</code>](https://github.com/openclaw/openclaw/commit/f6eb671d6200b2d8121592f55f8bf17936d3b433)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: raise extension boundary compile concurrency</code>](https://github.com/openclaw/openclaw/commit/7bb670c0bc5777d1cb7eaf95ee4b0499f10f4efd)
+- [ ] [<code>test: cap e2e install update phases</code>](https://github.com/openclaw/openclaw/commit/dcaccdc5c44682ac5eb7b852b6022e8eb4af8a22)
+- [ ] [<code>fix(security): redact secrets in exec approval prompts (#61077) (#64790)</code>](https://github.com/openclaw/openclaw/commit/e99a24d6454a743875e65ec43e86685e470c66c8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(configure): re-read config hash after persist to avoid stale-hash race (#64188) (#66528)</code>](https://github.com/openclaw/openclaw/commit/804bb0f2c30ec2e997e0b9d707ddb332f02a2ceb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): stabilize imsg alias test coverage</code>](https://github.com/openclaw/openclaw/commit/becd14424d79de3f39394767e0333cd64961379f)
+- [ ] [<code>Update CHANGELOG.md</code>](https://github.com/openclaw/openclaw/commit/8dd1abedec92c0df6ef2582d611cb6149b0ecf36)
+- [ ] [<code>Tests: align pnpm test expectations with main (#67001)</code>](https://github.com/openclaw/openclaw/commit/edfa074e0f45092b776b38eb0c32af68a7ce6065)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -5345,6 +5460,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump @vitejs/plugin-react from 5.1.4 to 6.0.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/9129f3f3b8baba53797c68e0bff6c420e08cd22a)
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Bump @typescript-eslint/eslint-plugin from 8.57.0 to 8.57.1</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/cdcad8d61e461c4ccc90d69bcccdaf3a7f77972f)
+- [ ] [<code>fix: clear stale device_id on logout and retry login without it when revoked (#824)</code>](https://github.com/Awesome-Technologies/synapse-admin/commit/76d6539d863b9353c509481ca65d8e32fe03f9a3)
 
 #### [tartube](https://github.com/axcore/tartube): [refs/tags/v2.5.164 → HEAD](https://github.com/axcore/tartube/compare/refs/tags/v2.5.164...HEAD)
 
