@@ -2776,6 +2776,11 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>[ios][platform_view]Reland hitTest approach (with a few 2026 update) (#183484)</code>](https://github.com/flutter/flutter/commit/392bb793b24120f21d15b30c467499209d0bdaa9)
 - [ ] [<code>Agent rule: Dart editing (#185045)</code>](https://github.com/flutter/flutter/commit/bc9b0371d817ece42e733e0d8bd6004337f8247e)
+- [ ] [<code>Reverts "Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator (#179810)" (#185067)</code>](https://github.com/flutter/flutter/commit/4634b93d8c0387dae721c8f3c12c348240bf5e63)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Reverts "[ios][platform_view]Reland hitTest approach (with a few 2026 update) (#183484)" (#185082)</code>](https://github.com/flutter/flutter/commit/ab21ec800abfe3412d1a6fccec1c1d987436d754)
+- [ ] [<code>Fix an ordering dependency in the services/system_chrome_test.dart test suite (#185086)</code>](https://github.com/flutter/flutter/commit/6154f7548c56932288114aef3202b0040a0967e8)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -5260,6 +5265,80 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update CHANGELOG.md</code>](https://github.com/openclaw/openclaw/commit/8dd1abedec92c0df6ef2582d611cb6149b0ecf36)
 - [ ] [<code>Tests: align pnpm test expectations with main (#67001)</code>](https://github.com/openclaw/openclaw/commit/edfa074e0f45092b776b38eb0c32af68a7ce6065)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: cover npm global install smoke</code>](https://github.com/openclaw/openclaw/commit/ec3bbae49b14fe052f473f68be0f8205e3cc8d84)
+- [ ] [<code>Update CHANGELOG.md</code>](https://github.com/openclaw/openclaw/commit/7883412294cf9597004e04fb227d75bfcd6b5a94)
+- [ ] [<code>fix(agents): move lean local-model mode behind experimental flag</code>](https://github.com/openclaw/openclaw/commit/f09a4d9ba07d5af00e9dc50587e6b2285069c15c)
+- [ ] [<code>docs: add experimental-features page and de-experimentalize dreaming</code>](https://github.com/openclaw/openclaw/commit/a780151fd1aaabf1f576e21af45aaa0fb84659a2)
+- [ ] [<code>fix(plugins): localize bundled runtime deps to extensions (#67099)</code>](https://github.com/openclaw/openclaw/commit/c727388f937ffc9128ba4e4d2ae37d4c72487bc1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ci): clear extension lint regressions</code>](https://github.com/openclaw/openclaw/commit/b855b1d047eea2c578320e63ee12a956443e6bdd)
+- [ ] [<code>test(plugins): align unreadable manifest traversal failure code</code>](https://github.com/openclaw/openclaw/commit/bb4498cef719d2b5551c842ec25337e4dfb74086)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): align docker smoke cache tests and reuse built dist</code>](https://github.com/openclaw/openclaw/commit/890e299e30ed947f3f0cba7e0011b990aa0489d1)
+- [ ] [<code>test(plugins): align jiti loader cache expectations</code>](https://github.com/openclaw/openclaw/commit/c5b3f00d1173ad0131cf9faa45e893b15a333f7c)
+- [ ] [<code>test(agents): trim extraparams anthropic passthrough cost</code>](https://github.com/openclaw/openclaw/commit/7d2e068b279b25863ddf7d89432dd2bd4c99e644)
+- [ ] [<code>fix(release): mirror bundled runtime deps</code>](https://github.com/openclaw/openclaw/commit/1bca9ba4798753b1db82c7501fc95628db8b3a8c)
+- [ ] [<code>test(perf): speed up slow gateway specs</code>](https://github.com/openclaw/openclaw/commit/3830e687dd611f9f212f3438f91eeebf176c212a)
+- [ ] [<code>QA: extend Matrix live contract coverage</code>](https://github.com/openclaw/openclaw/commit/963ad1df06bb83231cfdc1c29519abc8432e1903)
+- [ ] [<code>test(plugins): allow packaged runtime mirrors</code>](https://github.com/openclaw/openclaw/commit/931581070a5f7d56166456098bd8600debf80ebf)
+- [ ] [<code>fix(qa-matrix): remove unused scenario import</code>](https://github.com/openclaw/openclaw/commit/b9d0fc56302f0bfffb1aac88ae8d707202d9db7b)
+- [ ] [<code>fix(media): allow host-local CSV and Markdown uploads via Slack (#67047)</code>](https://github.com/openclaw/openclaw/commit/d2a219ea44d9cccbe2920b184c6fcd94e4937b98)
+- [ ] [<code>docs(changelog): refresh unreleased section</code>](https://github.com/openclaw/openclaw/commit/ec4c2cb62c6a3092d0e59b8820b0d18fefbbac78)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: isolate Docker live profile-key auth</code>](https://github.com/openclaw/openclaw/commit/20cce166ef9d3e684393a21f6c752e6404ddfdf2)
+- [ ] [<code>fix: simplify ollama onboarding (#67005)</code>](https://github.com/openclaw/openclaw/commit/33154ce74519ad98f1f44a4fd40f6407f4297a2e)
+- [ ] [<code>fix(discord): raise carbon slow listener threshold</code>](https://github.com/openclaw/openclaw/commit/ef98bcf630792f3251c1566de7d384495e63ef32)
+- [ ] [<code>build(release): bump core app versions to 2026.4.15-beta.1</code>](https://github.com/openclaw/openclaw/commit/cb790c858bbc5fdf37b2b2703a90c3466e038ed4)
+- [ ] [<code>build(extensions): bump bundled plugin versions to 2026.4.15-beta.1</code>](https://github.com/openclaw/openclaw/commit/b3fa5880ddf3a4bb96543630fda899ca745f509a)
+- [ ] [<code>build(config): refresh generated schema version for 2026.4.15-beta.1</code>](https://github.com/openclaw/openclaw/commit/69ba56d2c80d5d6db59ba3651b6a6ca514ae1657)
+- [ ] [<code>fix(test): stop overriding host-aware vitest scheduling in prepare gates (#67213)</code>](https://github.com/openclaw/openclaw/commit/dc86349c023a120394e030e7210b4280ab4db86f)
+- [ ] [<code>fix(ci): make non-root installer smoke expect npm latest</code>](https://github.com/openclaw/openclaw/commit/0149ca066938beaf1990715a98455385505851ed)
+- [ ] [<code>docs: clarify test-only vulnerability scope</code>](https://github.com/openclaw/openclaw/commit/8f4331e3b47b8d1d6779ec1855caee88ac5913cf)
+- [ ] [<code>fix(docker): verify matrix-sdk-crypto native addon without hardcoded pnpm path (#65608) (#67143)</code>](https://github.com/openclaw/openclaw/commit/3e60eaa8842c5f078dfbd53e4760502196433e27)
+- [ ] [<code>fix: move Docker changelog entry to unreleased</code>](https://github.com/openclaw/openclaw/commit/568df9573649b77ee3f6a48566f2fb91d322e3a4)
+- [ ] [<code>fix(matrix): fix E2EE SSSS bootstrap for passwordless token-auth bots (#66228)</code>](https://github.com/openclaw/openclaw/commit/b2753fd0dede9cf3918eec769cf3ab40558ffe5f)
+- [ ] [<code>Revise contribution process for new features</code>](https://github.com/openclaw/openclaw/commit/32222812ea4f9c352386741314f4f4163f1c7eae)
+- [ ] [<code>fix(cron): suppress trailing NO_REPLY in announce delivery path [AI-assisted] (#65004)</code>](https://github.com/openclaw/openclaw/commit/ee6b7daca37d98270143c74ca0feec0241fa0046)
+- [ ] [<code>fix(plugins): stabilize bundled setup runtimes (#67200)</code>](https://github.com/openclaw/openclaw/commit/78ac1184274ee9f2c501446d893a1000d6c54860)
+- [ ] [<code>build: exclude private QA from npm package</code>](https://github.com/openclaw/openclaw/commit/229eb72cf6bfa010f4b120bf55d9c477c54d9ed7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(matrix): fix bootstrap password mock typing</code>](https://github.com/openclaw/openclaw/commit/ed28df48a4c171517ff24a0998b2bba0035e3479)
+- [ ] [<code>fix(matrix): block DM pairing-store entries from authorizing room control commands [AI-assisted] (#67294)</code>](https://github.com/openclaw/openclaw/commit/f8705f512b09043df02b5da372c33374734bd921)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Build: prune packaged runtime test cargo (#67275)</code>](https://github.com/openclaw/openclaw/commit/7c6f2c0a5a61e32e835a1aec59d4c5a26cc2a82d)
+- [ ] [<code>fix(gateway): enforce localRoots containment on webchat audio embedding path [AI-assisted] (#67298)</code>](https://github.com/openclaw/openclaw/commit/6e58f1f9f54bca1fea1268ec0ee4c01a2af03dde)
+- [ ] [<code>test(parallels): harden smoke harness progress and gateway startup</code>](https://github.com/openclaw/openclaw/commit/893d0635b64b5a35bc030b6d333587a6c2146442)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(release): ignore leaf test filenames</code>](https://github.com/openclaw/openclaw/commit/4dfcc030aed37138a228dce2ab96b56c4f2d3a05)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test: harden gateway live docker test assertions</code>](https://github.com/openclaw/openclaw/commit/89d2c145dfe3992d4ba1cc67b64db63b53e713e2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(context-window): Tighten context limits and bound memory excerpts (#67277)</code>](https://github.com/openclaw/openclaw/commit/4f00b769251deadadf4a3bb3810045cfc5d7a275)
+- [ ] [<code>fix(matrix): skip pairing-store reads for room auth (#67325)</code>](https://github.com/openclaw/openclaw/commit/2bfd808a83116bd888e3e2633a61473fa2ed81b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(terminal): tolerate undefined path in formatDocsLink (#67076, #67074) (#67086)</code>](https://github.com/openclaw/openclaw/commit/be7f4a23425826b7192c46a7bb147b8b4e39d873)
+- [ ] [<code>docs: clean up clawtributors generator</code>](https://github.com/openclaw/openclaw/commit/84185cb3eb99e0f6466931d695a4e22fd68d7048)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(webchat): reject remote-host file:// URLs in media embedding path [AI-assisted] (#67293)</code>](https://github.com/openclaw/openclaw/commit/1470de5d3e0970856d86cd99336bb8ada3fe87da)
+- [ ] [<code>docs: update beta changelog</code>](https://github.com/openclaw/openclaw/commit/0a572793097a38e080f688a224489a2ee9996c16)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: fix bundled channel smoke layout</code>](https://github.com/openclaw/openclaw/commit/41699cfc2d7c9b06a78c7ccd0e61fa0ff05cdffa)
+- [ ] [<code>test: harden beta release gates</code>](https://github.com/openclaw/openclaw/commit/4efd3c3d7491aa10c492e87ed04e44b0ac153a83)
+- [ ] [<code>test: fix upstream type drift</code>](https://github.com/openclaw/openclaw/commit/23dca0a089aa79de1f030828fc2b74c55b3c3670)
+- [ ] [<code>build: refresh release baselines</code>](https://github.com/openclaw/openclaw/commit/a177d8d454376bbd5acd8f88a7a4adceffdb63fa)
+- [ ] [<code>fix(dreaming): use ingestion date for dayBucket instead of file date (#67091)</code>](https://github.com/openclaw/openclaw/commit/4de56b18badaf7347c11ae71d2f035336fd389cc)
+- [ ] [<code>fix: tighten trusted tool media passthrough (#67303)</code>](https://github.com/openclaw/openclaw/commit/52ef42302ead9e183e6c8810e0a04ee4ef8ae9fc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: harden gateway live docker flake handling</code>](https://github.com/openclaw/openclaw/commit/4caa8824764b8974908a86d36fdb66c7d59f92b2)
+- [ ] [<code>fix(qa): use exported runner sdk seam</code>](https://github.com/openclaw/openclaw/commit/943cb472749f6f0827b95f1d2fb60810b191f2de)
+  - <sub>Tags: <code>v2026.4.15-beta.1</code></sub>
+- [ ] [<code>fix(agents): classify connection-mismatch replay errors as replay-invalid (#66475)</code>](https://github.com/openclaw/openclaw/commit/bd7418d4e91fe5d80a061ebbf14a880e9d910c08)
+- [ ] [<code>fix(release): allow legacy qa sidecar verification</code>](https://github.com/openclaw/openclaw/commit/a5dafa27b6b1f079697a4185d1de605fc48fdd73)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: dedupe replayed exec.finished node events (#67281)</code>](https://github.com/openclaw/openclaw/commit/5dcf526a4344340220d2d8e91a3c59b92391b0ce)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(memory-core): skip dreaming transcript ingestion via session store (#67315)</code>](https://github.com/openclaw/openclaw/commit/a1b01f0281d00d6b716d92fc3b7389b765750941)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
