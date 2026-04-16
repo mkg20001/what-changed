@@ -2790,6 +2790,13 @@
 - [ ] [<code>Fix SliverResizingHeader semantic focus (#179690)</code>](https://github.com/flutter/flutter/commit/14c590754b5333e1b27c4ff265d1d8178ec4f173)
 - [ ] [<code>Allow period characters in iOS and macOS framework names (#184335)</code>](https://github.com/flutter/flutter/commit/0ebbc3f02146ae6af63f7816b9bd5268353c89b7)
 - [ ] [<code>Use the `flutteractionsbot` token to push the release branch. (#184833)</code>](https://github.com/flutter/flutter/commit/3654dd8d01bffaeb4eabe660eb2229afe0fe8890)
+- [ ] [<code>Roll Dart SDK from 87b7c87e7207 to 4ee990654146 (5 revisions) (#185108)</code>](https://github.com/flutter/flutter/commit/f78126786f9ad648726c42783e5de35135b6916d)
+- [ ] [<code>Roll Skia from f4e3cd2c2159 to 2c49b3f9c3c2 (14 revisions) (#185131)</code>](https://github.com/flutter/flutter/commit/8db6d777b420eb2fbfcdadd9b24d22baf7d7d6d2)
+- [ ] [<code>Roll Dart SDK from 4ee990654146 to fbddcbe0cd96 (1 revision) (#185137)</code>](https://github.com/flutter/flutter/commit/ee93d5743b09061c6d71fa3dc7e705d85be0f473)
+- [ ] [<code>Roll Skia from 2c49b3f9c3c2 to 391cdbe3ffe9 (2 revisions) (#185138)</code>](https://github.com/flutter/flutter/commit/afc017a92107d4c4176a3ad30388ae02ab6d2072)
+- [ ] [<code>Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator (#185083)</code>](https://github.com/flutter/flutter/commit/0911a6e3855982df4bac13052506d66cf21c68d9)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Add oval drawing support to the SDF uber shader (#184903)</code>](https://github.com/flutter/flutter/commit/e206d86db36452df295e9429dcb986dd8a050682)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -5355,6 +5362,41 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update CHANGELOG.md</code>](https://github.com/openclaw/openclaw/commit/7694a926c46a1c72471c8a27d27d8d557d3ab6d2)
 - [ ] [<code>models.authStatus: normalize provider ids + tighten env-backed escape hatch (#67253)</code>](https://github.com/openclaw/openclaw/commit/f2fdb9d1253ce3f227ccaa6cb0e3b664a32be4ee)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CI: pin Node 22 runners to 22.18.0</code>](https://github.com/openclaw/openclaw/commit/4ffa6218c41123c14a29d6ff0f97883f85623255)
+- [ ] [<code>docs(gateway): correct protocol.md schema path, hello-ok example, auth precedence, and add client constants table (#67372)</code>](https://github.com/openclaw/openclaw/commit/489404d75ea1112ff50d9432486dd92c449c972b)
+- [ ] [<code>QA: fix private runtime source loading (#67428)</code>](https://github.com/openclaw/openclaw/commit/d5933af80bf1710de844215b84bd61e236997f29)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Docs: remove QA changelog entry</code>](https://github.com/openclaw/openclaw/commit/7fd57717a9fa8cdc4b5823cb46fa26b28221a9ef)
+- [ ] [<code>[Dashboard] Fix exec approval modal overflow for long command content (#67082)</code>](https://github.com/openclaw/openclaw/commit/053c5b05c1f61316b01f1b3b8b7ebaf29c275381)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(msteams): harden security-sensitive flows (#65841)</code>](https://github.com/openclaw/openclaw/commit/c56b56e514f804561075356e22b8ec1ab4893bee)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): persist cli transcript turns</code>](https://github.com/openclaw/openclaw/commit/b8ef507cc08217ef74fab74619dbcb22ee25f9fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(changelog): note cli transcript persistence</code>](https://github.com/openclaw/openclaw/commit/6c343f1f58c64190da60101a24bfef9809abf5b2)
+- [ ] [<code>fix(agents): normalize cli transcript api field</code>](https://github.com/openclaw/openclaw/commit/3a3fae0eac0fe95ab303a7db2d5066d7c6831bdc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(changelog): move cli transcript entry</code>](https://github.com/openclaw/openclaw/commit/c1817c62e3a2b94e66f308491f4b9f7c57dd7918)
+- [ ] [<code>fix(agents): preserve cli session metadata before transcript persist (#67490)</code>](https://github.com/openclaw/openclaw/commit/898fd0482a401c1703a7305b067b9ba334f7aae9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: strip standalone <function> tool call tags from visible text (#67318) (thanks @joelnishanth)</code>](https://github.com/openclaw/openclaw/commit/78df859e15ac21c65ba5f376eb733db6c3e684ff)
+- [ ] [<code>fix: flush creds queue before reconnect socket open (#67464) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/405c63fb3277c0c37e6bcdfb78bbd6213f56db70)
+- [ ] [<code>BlueBubbles/catchup: per-message retry cap for wedged messages (#66870) (#67426)</code>](https://github.com/openclaw/openclaw/commit/4af76413508d99f1b432f13fbc648c59d657182c)
+- [ ] [<code>fix(whatsapp): write creds.json atomically (#63577)</code>](https://github.com/openclaw/openclaw/commit/b878d50e0ed279acffcebf1ef608fb1c60353e52)
+- [ ] [<code>fix: restore Ollama chat model IDs (#67457) (thanks @suboss87)</code>](https://github.com/openclaw/openclaw/commit/6f5459364a0be4f89365e249645fb76515c1f122)
+- [ ] [<code>fix(docs): add active memory speed recommendations</code>](https://github.com/openclaw/openclaw/commit/b10ae0bf13f32c396ab87dc37df9283de50283db)
+- [ ] [<code>fix: add Google Gemini TTS provider (#67515) (thanks @barronlroth)</code>](https://github.com/openclaw/openclaw/commit/bf59917cd161768b431c7e815767a16809259a7d)
+- [ ] [<code>CI: cap parity gate concurrency</code>](https://github.com/openclaw/openclaw/commit/51b5d16faf7255007041bd7f2e197b08bd9fab4f)
+- [ ] [<code>QA: accept nodejs as Node runtime</code>](https://github.com/openclaw/openclaw/commit/8ecb6bbb12dab0d1d3367d8092511de10acbc875)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>QA: split lab runtime and extend Matrix coverage (#67430)</code>](https://github.com/openclaw/openclaw/commit/4db162db7f3ef6754ad5433ee74cf6d8ba3da7b3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>QA: fix private dist freshness check</code>](https://github.com/openclaw/openclaw/commit/05cac5b980f60f2de9f27332c3bc55f6ff9f64e0)
+- [ ] [<code>fix: align host tilde paths with OS home (#62804) (thanks @stainlu)</code>](https://github.com/openclaw/openclaw/commit/ecfaf64526a71391d403a2299a698efd06cdd4be)
+- [ ] [<code>fix: register bundled TTS providers and route overrides correctly (#62846) (thanks @stainlu)</code>](https://github.com/openclaw/openclaw/commit/6ea3cddf0d5025cf6caf1eb8aed109cefc82bed4)
+- [ ] [<code>CI: add explicit permissions to all workflow jobs (fixes code-scanning #40-#57) (#67612)</code>](https://github.com/openclaw/openclaw/commit/01b7516a95882cccb0dba9d84b2e869bdb97ade3)
+- [ ] [<code>fix(deps): bump dompurify to 3.4.0 (#67614)</code>](https://github.com/openclaw/openclaw/commit/2c2dc00fb4d9fd227600177d4e0bbd569f7ce477)
+- [ ] [<code>fix(deps): bump hono to 4.12.14 and @hono/node-server to 1.19.14 (GHSA-458j-xx4x-4375) (#67613)</code>](https://github.com/openclaw/openclaw/commit/fbccc18e745e2cf7477936cb8ad7dec1973a4e49)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
