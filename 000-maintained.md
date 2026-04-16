@@ -2797,6 +2797,10 @@
 - [ ] [<code>Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator (#185083)</code>](https://github.com/flutter/flutter/commit/0911a6e3855982df4bac13052506d66cf21c68d9)
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Add oval drawing support to the SDF uber shader (#184903)</code>](https://github.com/flutter/flutter/commit/e206d86db36452df295e9429dcb986dd8a050682)
+- [ ] [<code>Reverts "Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator (#185083)" (#185145)</code>](https://github.com/flutter/flutter/commit/31f1802cb8594ec021fc501db0ab82d1b2e95c7d)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Revert "Move widget_preview_scaffold into pub workspace" (#185164)</code>](https://github.com/flutter/flutter/commit/e38a002e96f575bf283744e942e55cab09220afd)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3614,6 +3618,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-38-nightly.</code>](https://github.com/netdata/netdata.git/commit/1311e8cd0b6d376fdcf6182afb9c36241238688e)
 - [ ] [<code>Add SQLite version to build details and startup log message (#22208)</code>](https://github.com/netdata/netdata.git/commit/5e5f64031a9641feba0fbaf1042491b191ca4a93)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-40-nightly.</code>](https://github.com/netdata/netdata.git/commit/e7a1dae208dc05f394e3d03a00a9350480e27f45)
+- [ ] [<code>Remove VLA (variable-length arrays)  (dbengine and health) (#22209)</code>](https://github.com/netdata/netdata.git/commit/50b95d6eca0a490262d0b3062ea0744faeffcaa6)
+- [ ] [<code>Add test for ARAL race condition and fix (#22212)</code>](https://github.com/netdata/netdata.git/commit/9f7887ec0da96f66d0c520f342e03588cda8bb1b)
+- [ ] [<code>chore(go/snmp/topology): add MAC OUI vendor lookup table (#22215)</code>](https://github.com/netdata/netdata.git/commit/6572069d318650dd2839449882b82e07ba8c5c0c)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(topology): add role field to presentation actor types (#22217)</code>](https://github.com/netdata/netdata.git/commit/5364e24ea34a825158dec0803d108d77988f0f4c)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5397,6 +5406,91 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>CI: add explicit permissions to all workflow jobs (fixes code-scanning #40-#57) (#67612)</code>](https://github.com/openclaw/openclaw/commit/01b7516a95882cccb0dba9d84b2e869bdb97ade3)
 - [ ] [<code>fix(deps): bump dompurify to 3.4.0 (#67614)</code>](https://github.com/openclaw/openclaw/commit/2c2dc00fb4d9fd227600177d4e0bbd569f7ce477)
 - [ ] [<code>fix(deps): bump hono to 4.12.14 and @hono/node-server to 1.19.14 (GHSA-458j-xx4x-4375) (#67613)</code>](https://github.com/openclaw/openclaw/commit/fbccc18e745e2cf7477936cb8ad7dec1973a4e49)
+- [ ] [<code>Android: modernize WebView and discovery API usage (#67627)</code>](https://github.com/openclaw/openclaw/commit/44a6e50fcc53d5d8a190fb1728e375b0a79334ac)
+- [ ] [<code>CI: pin Docker-related GitHub Actions (#67632)</code>](https://github.com/openclaw/openclaw/commit/f697b017472da3483084acf3875429a03d5a3083)
+- [ ] [<code>fix(openai-codex): normalize stale transport metadata in resolution and discovery (#67635)</code>](https://github.com/openclaw/openclaw/commit/90801ba4007ac69ef098674c14e7082b9c20872b)
+- [ ] [<code>docs(changelog): credit codex fix superseded PRs</code>](https://github.com/openclaw/openclaw/commit/e485f24301d8aee20cb0842494f27dbb19c5871c)
+- [ ] [<code>fix(skills): remove unused model-usage import (#67641)</code>](https://github.com/openclaw/openclaw/commit/55f05df77eac2ceeae42b325d57b6ef8b1d1f349)
+- [ ] [<code>fix: classify HTML provider error pages correctly (#67642) (thanks @stainlu)</code>](https://github.com/openclaw/openclaw/commit/e588e904a744a89d02373115cf02187c9e281882)
+- [ ] [<code>Gateway/skills: invalidate session skills snapshot on config write</code>](https://github.com/openclaw/openclaw/commit/b23d59a522ba054d0854d013f6ee6edc36569fa8)
+- [ ] [<code>Agents/tool-loop: enable unknown-tool stream guard by default</code>](https://github.com/openclaw/openclaw/commit/36ed36768c419de0be5c8c9366bcd02629e9b306)
+- [ ] [<code>TUI/streaming: add watchdog that resets the activity indicator after delta silence</code>](https://github.com/openclaw/openclaw/commit/f44ab20d4db5a556a83b6c082324be1dd3da3ac4)
+- [ ] [<code>Extensions/lmstudio: back off inference preload after consecutive failures</code>](https://github.com/openclaw/openclaw/commit/b555214c9626ae881a2a35a4901a7af41a9cfd2d)
+- [ ] [<code>Gateway/skills: dedupe skills prefix-match + drop dead fallback on log</code>](https://github.com/openclaw/openclaw/commit/d7f489f85ed65c8af3c929bd1b6613a6e965f561)
+- [ ] [<code>fix: keep TUI watchdog bound to active run (#67401) (thanks @xantorres)</code>](https://github.com/openclaw/openclaw/commit/35252739307913f984beb84156f18285aa03320b)
+- [ ] [<code>fix: restrict HTML timeout short-circuit to transient statuses</code>](https://github.com/openclaw/openclaw/commit/de129a6530c0093a5f4abb0f28dab652b940390a)
+- [ ] [<code>fix: repair sanitized replay tool results before send (#67620) (thanks @stainlu)</code>](https://github.com/openclaw/openclaw/commit/c3c7a9953ff01276d83ef1e3bcf2606b8f7cd27d)
+- [ ] [<code>fix(gateway): capture config hash after plugin auto-enable to prevent restart loop (#67557)</code>](https://github.com/openclaw/openclaw/commit/8c11210fe57435d7b1f4482a60386bdff340f207)
+- [ ] [<code>CI: add daily schedule to CodeQL workflow (#67645)</code>](https://github.com/openclaw/openclaw/commit/69d25f5f166b620ba278f2355df94d08bd9159df)
+- [ ] [<code>fix: land node-host approval binding for native binaries (#66731) (thanks @tmimmanuel)</code>](https://github.com/openclaw/openclaw/commit/29919bb6e4bc05a97f6b5e8f26c40d0204e05b02)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: harden node-host shell payload mutability checks</code>](https://github.com/openclaw/openclaw/commit/75c551e89e67d4af596f533c4b6b4e123cc8f0bd)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat: default Anthropic to Opus 4.7</code>](https://github.com/openclaw/openclaw/commit/628b454eff6ecc240398728dfed11af61b11e202)
+- [ ] [<code>test: harden Parallels update smoke</code>](https://github.com/openclaw/openclaw/commit/1a98090bf3792e3529daa4d85c36435cc13d6faa)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>security(codex): restore sandbox protections for resumed CLI sessions</code>](https://github.com/openclaw/openclaw/commit/4c66978591fb51fa661ede6f67cc87f12d403735)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: keep codex resume runs non-interactive (#67666) (thanks @plgonzalezrx8)</code>](https://github.com/openclaw/openclaw/commit/461d0050d997f5c1c241c898eada87630aa763b6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Docs: remove QA Matrix changelog entry</code>](https://github.com/openclaw/openclaw/commit/d74533c7181073d31b2ab7057506b6405651040c)
+- [ ] [<code>Codex: parse Desktop app-server user agents</code>](https://github.com/openclaw/openclaw/commit/728295c04637490a43adf7ed128daa4ac6df425d)
+- [ ] [<code>docs: add changelog for Codex Desktop user agents (#64666) (thanks @cyrusaf)</code>](https://github.com/openclaw/openclaw/commit/99dfc1b616d5ef2bc6d4c7dc60c99588e8220255)
+- [ ] [<code>test: align PDF tool expectations with Opus 4.7</code>](https://github.com/openclaw/openclaw/commit/892baf2e814f3ae230c77e49f5769463bd7fc892)
+- [ ] [<code>test: isolate tts provider auto-selection env</code>](https://github.com/openclaw/openclaw/commit/1d41ef724a2cb50945ae8699b3e1b5b759747a0a)
+- [ ] [<code>fix: harden cron announce NO_REPLY suppression (#65016) (thanks @BKF-Gitty)</code>](https://github.com/openclaw/openclaw/commit/16c608e3937e13a91770c6bcfa0eeb7ec5f13592)
+- [ ] [<code>fix(codex): activate harness plugin for forced runtime</code>](https://github.com/openclaw/openclaw/commit/69ba924b530e23a6ef4031061db3dc744b5035b3)
+- [ ] [<code>test(plugins): remove useless spread in startup config fixture</code>](https://github.com/openclaw/openclaw/commit/f4bbd0122a9f437889fd6162797ab090ea283963)
+- [ ] [<code>fix: share agent harness runtime activation (#67474)</code>](https://github.com/openclaw/openclaw/commit/86f108401bcdc3e03ca5bb6cf8299c21156ae6f3)
+- [ ] [<code>fix(sessions): dedupe redundant delivery mirrors</code>](https://github.com/openclaw/openclaw/commit/e95efa437381cc177c6c6fa6c26d7b25eab37be8)
+- [ ] [<code>fix: tighten delivery mirror dedupe (#67185) (thanks @andyylin)</code>](https://github.com/openclaw/openclaw/commit/d842ec417924c3eb886c9a5ba76680aa18b3ea5c)
+- [ ] [<code>fix: pin codex resume sandbox override</code>](https://github.com/openclaw/openclaw/commit/1183832d4f397b60ae65e1d5d9d4f396847571f5)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(prompt): keep inbound chat ids out of system prefix</code>](https://github.com/openclaw/openclaw/commit/eb1080369165408eb4cf5b4eedbed2ffc07994fa)
+- [ ] [<code>test: keep prompt cache PR gate green</code>](https://github.com/openclaw/openclaw/commit/6429fa0a7f5ed029bbb5eca2a18e2af1e5cdd286)
+- [ ] [<code>fix(bluebubbles): restore inbound image attachments and accept updated-message events (#67510)</code>](https://github.com/openclaw/openclaw/commit/77d9fd693f189d65b4317e826544d902de932b9e)
+- [ ] [<code>fix(skills): sort available_skills alphabetically for prompt cache stability</code>](https://github.com/openclaw/openclaw/commit/a4b94f77b9182234b96dda21bdc5307df1f3ee4b)
+- [ ] [<code>fix: pin localeCompare to 'en' locale for cross-environment stability</code>](https://github.com/openclaw/openclaw/commit/c4488d5ef5872fb622c00159d2361c455edc4f89)
+- [ ] [<code>fix: stabilize skills prompt ordering (#64198) (thanks @Bartok9)</code>](https://github.com/openclaw/openclaw/commit/b31d243c57554817eab118c312e4d91c415cd9d8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: keep discord channel actions on public test SDK</code>](https://github.com/openclaw/openclaw/commit/1d27e0ef084baaaee054e28c8557ce7359e8c656)
+- [ ] [<code>fix(security): 7 P1 hardening fixes — scan-paths, windows-acl, audit-extra (#67003)</code>](https://github.com/openclaw/openclaw/commit/f624b1d246a9aae71465e95620ddb9122492f9b0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): add prompt cache compatibility opt-out</code>](https://github.com/openclaw/openclaw/commit/687ede50a5ac01053c5b3e6f54c1d56cb832bc2f)
+- [ ] [<code>CI: expand native release validation coverage (#67144)</code>](https://github.com/openclaw/openclaw/commit/900e291f31fd8084207688d7b9e2cf56a639d1ef)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>commandline</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): retry stalled core shard checkout</code>](https://github.com/openclaw/openclaw/commit/00d21d1b2392040856d7470590aff47cf7e39c67)
+- [ ] [<code>memory: strip inbound metadata envelopes from user messages in session corpus (#66548)</code>](https://github.com/openclaw/openclaw/commit/82e349a48ad9b672c18d0eec5057d51c8ceafbd8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): move macOS jobs to blacksmith</code>](https://github.com/openclaw/openclaw/commit/42d100c390ed2f7977cc3bc70e42ad10f0a1c7e8)
+- [ ] [<code>fix(ci): silence mlx-audio-swift README warnings</code>](https://github.com/openclaw/openclaw/commit/c2db918c6018f9844377559e6d020aab688a3403)
+- [ ] [<code>test(gateway): avoid mapped hook provenance event race</code>](https://github.com/openclaw/openclaw/commit/ac717a92e8f763867a29249438d89b95d2e018a9)
+- [ ] [<code>fix: stabilize context engine prompt cache touches (#67767)</code>](https://github.com/openclaw/openclaw/commit/a327b6750dbee0e125b589bf66358b4c3ce8c62c)
+- [ ] [<code>chore: prepare 2026.4.15-beta.2 release</code>](https://github.com/openclaw/openclaw/commit/c635efd2333ad202cb83f2637ef6bbf3e92521dd)
+- [ ] [<code>test: keep web search config imports stable</code>](https://github.com/openclaw/openclaw/commit/ad9da24317fc0ad9ad2a5d5cea51e0dc62734b7f)
+- [ ] [<code>ci: register blacksmith macos runner labels</code>](https://github.com/openclaw/openclaw/commit/006a8aeb8c6da1b34a136f25dc0a1506a35ac351)
+- [ ] [<code>docs: update plugin sdk api baseline</code>](https://github.com/openclaw/openclaw/commit/15c7f478da70fbc3f0811e47b3e0d35837f40ab4)
+- [ ] [<code>ci: make mlx audio manifest patch writable</code>](https://github.com/openclaw/openclaw/commit/29427fefc70db9f9fe6fee7e0917a2000f7b438b)
+  - <sub>Tags: <code>v2026.4.15-beta.2</code></sub>
+- [ ] [<code>test(vitest): cut unit-ui startup overhead</code>](https://github.com/openclaw/openclaw/commit/2285429aa210fa70b2f8cb9a9c01c8596d968b04)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): cap core shard checkout stalls</code>](https://github.com/openclaw/openclaw/commit/781b1de9217e62f9f6896b8cbaf495e8820bd9de)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>CI: fix release-check caller permissions (#67787)</code>](https://github.com/openclaw/openclaw/commit/51606e98894c05a440c48128a238a3e8395cc416)
+- [ ] [<code>Prevent Codex HTML challenge pages from looking like DNS failures</code>](https://github.com/openclaw/openclaw/commit/36dd58ac2a5dc5ae15706b4c8dae7d28d033bc89)
+- [ ] [<code>Avoid rescanning HTML challenge pages during error formatting</code>](https://github.com/openclaw/openclaw/commit/59caf03d6783da1dbeea34aaec08f5d12a555cf9)
+- [ ] [<code>fix: handle Codex HTML challenge errors (#67704) (thanks @chris-yyau)</code>](https://github.com/openclaw/openclaw/commit/5262757f9a2402980a2c739b8adbf907e777d243)
+- [ ] [<code>test: relax Parallels install smoke timeout</code>](https://github.com/openclaw/openclaw/commit/894e728fd0529da735cf3643b80e351ba2869ea2)
+- [ ] [<code>fix(compaction): stop retaining credential-like values (#67801)</code>](https://github.com/openclaw/openclaw/commit/8b7d76bfbb0b510f04d5287b3de2039eb2eb61de)
+- [ ] [<code>test: speed up slow import-boundary tests</code>](https://github.com/openclaw/openclaw/commit/372c0051baa7e5f22bb685f2dd4586b5b4a789e8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Check: run type and lint earlier</code>](https://github.com/openclaw/openclaw/commit/5bb180061ac107252c651ca3076d49f590681d8f)
+- [ ] [<code>test: expose bundled plugin QA test APIs</code>](https://github.com/openclaw/openclaw/commit/21d500a65f12c9d1c9bb5b8cd91de46a7f6506db)
+- [ ] [<code>Matrix: expose E2EE QA verification hooks</code>](https://github.com/openclaw/openclaw/commit/0f7c40e508851bfa07f9f8a3a4a3db93c4d0a70d)
+- [ ] [<code>QA Matrix: expand contract coverage</code>](https://github.com/openclaw/openclaw/commit/988447ca240cceb34a5cc27e930835948673a922)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>QA Matrix: capture full runner output</code>](https://github.com/openclaw/openclaw/commit/56a9fd4b34a47e2f91318111fec5e622ac9f81bd)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
