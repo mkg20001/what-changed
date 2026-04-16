@@ -558,6 +558,7 @@
 - [ ] [<code>build: (deps): bump flutter_map from 8.2.2 to 8.3.0</code>](https://github.com/krille-chan/fluffychat/commit/142ef1135378e51c6b83e12c8d9f64c69b90c68a)
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/37c96a5cc3095689a79b71e638fac904ce40f2f4)
 - [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/c288a3fb1f33ff039ce92d74dcc6805767fa161d)
+- [ ] [<code>build: (deps): bump chewie from 1.13.0 to 1.13.1</code>](https://github.com/krille-chan/fluffychat/commit/89442b3fbef2063c597604d45ff41042330437ba)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1032,6 +1033,7 @@
 - [ ] [<code>build: (deps): bump flutter_map from 8.2.2 to 8.3.0</code>](https://github.com/krille-chan/fluffychat/commit/142ef1135378e51c6b83e12c8d9f64c69b90c68a)
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/37c96a5cc3095689a79b71e638fac904ce40f2f4)
 - [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/c288a3fb1f33ff039ce92d74dcc6805767fa161d)
+- [ ] [<code>build: (deps): bump chewie from 1.13.0 to 1.13.1</code>](https://github.com/krille-chan/fluffychat/commit/89442b3fbef2063c597604d45ff41042330437ba)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2781,6 +2783,13 @@
 - [ ] [<code>Reverts "[ios][platform_view]Reland hitTest approach (with a few 2026 update) (#183484)" (#185082)</code>](https://github.com/flutter/flutter/commit/ab21ec800abfe3412d1a6fccec1c1d987436d754)
 - [ ] [<code>Fix an ordering dependency in the services/system_chrome_test.dart test suite (#185086)</code>](https://github.com/flutter/flutter/commit/6154f7548c56932288114aef3202b0040a0967e8)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Roll Fuchsia Linux SDK from rB8LAuZL_DwHMssTU... to IdBT8fSMYrYSip65j... (#185064)</code>](https://github.com/flutter/flutter/commit/30cea3118a8c253906710d7bd4d577acbfccacdc)
+- [ ] [<code>Add initial AI guidance for issues (#184885)</code>](https://github.com/flutter/flutter/commit/ebcb3c71a186fc1ce424e9a5343e163bd448ccc9)
+- [ ] [<code>Roll Skia from bda7232e6772 to f4e3cd2c2159 (4 revisions) (#185063)</code>](https://github.com/flutter/flutter/commit/ab6a890ab6aa5fc84d4b2ea1047c862c5e5493f6)
+- [ ] [<code>ignore avoid_type_to_string lint rule in flutter_tools (#184766)</code>](https://github.com/flutter/flutter/commit/8422af501b3311628fd54a9b86ebc2a209c3da2b)
+- [ ] [<code>Fix SliverResizingHeader semantic focus (#179690)</code>](https://github.com/flutter/flutter/commit/14c590754b5333e1b27c4ff265d1d8178ec4f173)
+- [ ] [<code>Allow period characters in iOS and macOS framework names (#184335)</code>](https://github.com/flutter/flutter/commit/0ebbc3f02146ae6af63f7816b9bd5268353c89b7)
+- [ ] [<code>Use the `flutteractionsbot` token to push the release branch. (#184833)</code>](https://github.com/flutter/flutter/commit/3654dd8d01bffaeb4eabe660eb2229afe0fe8890)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3597,6 +3606,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix pluginsd cleanup race with active collector (#22207)</code>](https://github.com/netdata/netdata.git/commit/5419eecee594998161e1109e93eb704585723bd9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-38-nightly.</code>](https://github.com/netdata/netdata.git/commit/1311e8cd0b6d376fdcf6182afb9c36241238688e)
 - [ ] [<code>Add SQLite version to build details and startup log message (#22208)</code>](https://github.com/netdata/netdata.git/commit/5e5f64031a9641feba0fbaf1042491b191ca4a93)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-40-nightly.</code>](https://github.com/netdata/netdata.git/commit/e7a1dae208dc05f394e3d03a00a9350480e27f45)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5339,6 +5349,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>fix(memory-core): skip dreaming transcript ingestion via session store (#67315)</code>](https://github.com/openclaw/openclaw/commit/a1b01f0281d00d6b716d92fc3b7389b765750941)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(dreaming): default storage.mode to "separate" so phase blocks stop polluting daily memory files (#66412)</code>](https://github.com/openclaw/openclaw/commit/8c392f0019b0c2666cd3bcf739c3cd990a79383c)
+- [ ] [<code>Plugins: prefer scanDir override paths</code>](https://github.com/openclaw/openclaw/commit/b2974da33a7e4a8f067db22d6c01021e99a9cf41)
+- [ ] [<code>test(parallels): clean up npm update guard jobs</code>](https://github.com/openclaw/openclaw/commit/045ea7bf6a94a90cca91c6bd0bb2733cdea7e253)
+- [ ] [<code>Update CHANGELOG.md</code>](https://github.com/openclaw/openclaw/commit/7694a926c46a1c72471c8a27d27d8d557d3ab6d2)
+- [ ] [<code>models.authStatus: normalize provider ids + tighten env-backed escape hatch (#67253)</code>](https://github.com/openclaw/openclaw/commit/f2fdb9d1253ce3f227ccaa6cb0e3b664a32be4ee)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
