@@ -2801,6 +2801,14 @@
   - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 - [ ] [<code>Revert "Move widget_preview_scaffold into pub workspace" (#185164)</code>](https://github.com/flutter/flutter/commit/e38a002e96f575bf283744e942e55cab09220afd)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Sync CHANGELOG.md from stable (#185166)</code>](https://github.com/flutter/flutter/commit/9081d6c5e0b54a282eb42294a84713ff3cd42014)
+- [ ] [<code>Roll Skia from 391cdbe3ffe9 to d8415c5d7b91 (2 revisions) (#185141)</code>](https://github.com/flutter/flutter/commit/5dc859b8594f87f5244c7210f2cbb7dc0d559e55)
+- [ ] [<code>Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626) (#184643)</code>](https://github.com/flutter/flutter/commit/ed9f5d7415e54b94fa11193de1dcf79007344415)
+- [ ] [<code>Unpin sdk package dependencies (#184821)</code>](https://github.com/flutter/flutter/commit/8ec03cfed79cac1300b173a85d159cfcd3b3d1d5)
+- [ ] [<code>Roll Dart SDK from fbddcbe0cd96 to 7c2564c18770 (2 revisions) (#185143)</code>](https://github.com/flutter/flutter/commit/5abc09dbe7d41e5f9982cac43ae13604aa9236ae)
+- [ ] [<code>[Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)</code>](https://github.com/flutter/flutter/commit/990b0a54a239815432862456a7bf564667746ac5)
+- [ ] [<code>[iOS] Clarify provisioning profile error instructions (#184051)</code>](https://github.com/flutter/flutter/commit/dabfef6e3defeeda6d43de2235ba722a353fadeb)
+- [ ] [<code>Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor (#185159)</code>](https://github.com/flutter/flutter/commit/5c5000eff1887d32207b631af75547de92310f2b)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3623,6 +3631,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(go/snmp/topology): add MAC OUI vendor lookup table (#22215)</code>](https://github.com/netdata/netdata.git/commit/6572069d318650dd2839449882b82e07ba8c5c0c)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>feat(topology): add role field to presentation actor types (#22217)</code>](https://github.com/netdata/netdata.git/commit/5364e24ea34a825158dec0803d108d77988f0f4c)
+- [ ] [<code>Fix complilation / enforce size check (#22216)</code>](https://github.com/netdata/netdata.git/commit/acf166ac53f133f97dd9ec3bdc49771cfef0a781)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-46-nightly.</code>](https://github.com/netdata/netdata.git/commit/fd027a98f02557a34a310e312c717bca9af3582e)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -5491,6 +5501,52 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>QA Matrix: capture full runner output</code>](https://github.com/openclaw/openclaw/commit/56a9fd4b34a47e2f91318111fec5e622ac9f81bd)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): trim slow task and gateway paths</code>](https://github.com/openclaw/openclaw/commit/f835da1667ea00927ccd600e2aeda8a2e9787e7d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): prepare plugin sdk dts before lint</code>](https://github.com/openclaw/openclaw/commit/c9103c2e47dc2d46846b35a93abc2ccfd7be54dd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test: stabilize parallels npm update smoke</code>](https://github.com/openclaw/openclaw/commit/cd45f53b4e4b2bed66455d74ab835b6047a9d3b5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>perf: speed up security audit test imports</code>](https://github.com/openclaw/openclaw/commit/8a37bb4ed6fd5bb7535237c145b3602ade916dbf)
+- [ ] [<code>fix(ci): guard qa matrix fault proxy fetch</code>](https://github.com/openclaw/openclaw/commit/012b577e849905db8b2400ecca53202809ea695d)
+- [ ] [<code>CI: fix live Docker auth mounts (#67812)</code>](https://github.com/openclaw/openclaw/commit/3ae5d95bfd815ce05ea5a14dbc6a37021cd36576)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Update contributor details for Josh Lehman (#67824)</code>](https://github.com/openclaw/openclaw/commit/dafc71c9139316af8a55d00304c5cf827eadf629)
+- [ ] [<code>test: stabilize config and plugin scanner tests</code>](https://github.com/openclaw/openclaw/commit/678b01946709d73c51f2b0bae8793846a0f8a757)
+- [ ] [<code>CI: mount writable Docker cache homes (#67825)</code>](https://github.com/openclaw/openclaw/commit/98c681e033f99caaa5b9c2cf94f7ed82b2cbb787)
+- [ ] [<code>test: trim duplicate hotspot coverage</code>](https://github.com/openclaw/openclaw/commit/63e53fbf2e31bea4f94ee6b9188ea3aae3ce7e58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>CI: fix live docker vite temp overlay</code>](https://github.com/openclaw/openclaw/commit/fc137ec5e340c2d484bb8c3f6a25c47dff363c5f)
+- [ ] [<code>docs: unify duplicated 2026.4.15-beta.1 changelog block (#67827)</code>](https://github.com/openclaw/openclaw/commit/80e78f7b90a8fd13522403e828cda73374918672)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: tighten hotspot boundaries</code>](https://github.com/openclaw/openclaw/commit/4d2854a2b08cc3670b5736c45f8243d9c5e20325)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: prepare 2026.4.15 release</code>](https://github.com/openclaw/openclaw/commit/041266a6699cac3baef8ef39db41fa26f29f9db3)
+  - <sub>Tags: <code>v2026.4.15</code></sub>
+- [ ] [<code>test: speed up hotspot boundaries</code>](https://github.com/openclaw/openclaw/commit/d59604b15ede07bdfc236d6c9810099806e1be12)
+- [ ] [<code>refactor(agents): clarify prompt cache compatibility gates</code>](https://github.com/openclaw/openclaw/commit/a98754d50497c4f40f75e1ebd8a9381cf13a7745)
+- [ ] [<code>test: trim duplicate memory hotspot coverage</code>](https://github.com/openclaw/openclaw/commit/b2cae7f12ab2c6197ccf63a7313b1edffed62b2b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: bump basic-ftp override</code>](https://github.com/openclaw/openclaw/commit/350aa6343acd90d62169133e652a2748160881d1)
+- [ ] [<code>ci: include update sidecars in docker build profile</code>](https://github.com/openclaw/openclaw/commit/b21540fabc6a5defc97c1c096146abb087f733e2)
+- [ ] [<code>fix(startup): prioritize bootstrap on fresh sessions</code>](https://github.com/openclaw/openclaw/commit/81818df1b483d15c1cea0c845e5329403172a6cc)
+- [ ] [<code>test: speed gemini embedding tests</code>](https://github.com/openclaw/openclaw/commit/ce1be0f43d358c1a222b845ef4d6dc6fbafe4c5e)
+- [ ] [<code>build: restore qa channel updater sidecar</code>](https://github.com/openclaw/openclaw/commit/ed04d38becf27056873062ed2d16d56eb9000217)
+- [ ] [<code>test: align reset prompt expectation</code>](https://github.com/openclaw/openclaw/commit/f8bac822b6062c12fc888c2378b118c2d10d7247)
+- [ ] [<code>fix(onboard): preserve existing gateway auth token during re-onboard (#67821)</code>](https://github.com/openclaw/openclaw/commit/6878c194495319359acb408d38838d1caff4d6fd)
+- [ ] [<code>docs: consolidate 2026.4.15 changelog</code>](https://github.com/openclaw/openclaw/commit/992ff81ae1fb246b0f22e9119e4ecfcf98eddf29)
+- [ ] [<code>test: reuse system run plan fixtures</code>](https://github.com/openclaw/openclaw/commit/8507935d3a84804d1ea9e12fb7bfbb5d6383db94)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>build: bump protobufjs override</code>](https://github.com/openclaw/openclaw/commit/5c1c52f8706b1f68aad06d8b66f250231dfc1736)
+- [ ] [<code>chore: update mac appcast for 2026.4.15</code>](https://github.com/openclaw/openclaw/commit/0c5bdbde895ae9ec9f56cf12cbdf4f52da75ea29)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build: restore qa lab updater sidecar</code>](https://github.com/openclaw/openclaw/commit/26db52ed69160941ff301268343cc94b9228cf56)
+- [ ] [<code>chore: bump version to 2026.4.16</code>](https://github.com/openclaw/openclaw/commit/0dc4c4076c4baa7ac1da6b54d01cf4e208207c86)
+- [ ] [<code>test: narrow hotspot boundaries</code>](https://github.com/openclaw/openclaw/commit/59b98334f645046eb08bd0a5387a6f017a610eb7)
+- [ ] [<code>test: slim runtime hotspot mocks</code>](https://github.com/openclaw/openclaw/commit/272536015fbdcfbd1bd5a9c0c796004ebd01ca88)
+- [ ] [<code>feat: support xhigh for Claude Opus 4.7</code>](https://github.com/openclaw/openclaw/commit/c73a6d2f689fa20d035af478c0eb5a64a3be66d2)
+- [ ] [<code>fix: keep Opus 4.7 effort separate from adaptive thinking</code>](https://github.com/openclaw/openclaw/commit/a2753e2d9fa66ab7b9fb80b968264437d9e8c894)
+- [ ] [<code>test: slim provider registry mocks</code>](https://github.com/openclaw/openclaw/commit/2e08c77582b21a68212ee095ce2e794060100f53)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6019,6 +6075,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ubus: avoid double close of externally owned channel fds</code>](https://github.com/jow-/ucode/commit/c7e7dfa7b64a6070c82c719aa302335c2f1e977b)
 - [ ] [<code>tests: make run_tests.uc default to build/</code>](https://github.com/jow-/ucode/commit/896ac72caffb83cfe1646c8eb1066b8011ab05c7)
 - [ ] [<code>tests: implement automatic library test skipping</code>](https://github.com/jow-/ucode/commit/b50372e8e8a0fb136df5c61974461bc332a15779)
+- [ ] [<code>math: degrees <-> radians convertors</code>](https://github.com/jow-/ucode/commit/81066c54a07f9bf9f619ed1c2043b0baf22aeb11)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
