@@ -43,6 +43,7 @@
 - [ ] [<code>Add publish release remote cache settings</code>](https://github.com/stepchowfun/docuum/commit/de06a5cfb105ab4f322a507c930c4e352d0e9b63)
 - [ ] [<code>Move publish release Docker setup</code>](https://github.com/stepchowfun/docuum/commit/009d41b65ae297c4dc60cb7a7a5c1b73a5cd55c0)
 - [ ] [<code>Update publish release Docker setup order</code>](https://github.com/stepchowfun/docuum/commit/ae0d68f74e7e2d11df4631599a8cc04be8749225)
+- [ ] [<code>Update Rust to 1.95.0</code>](https://github.com/stepchowfun/docuum/commit/75e55d8216f16825af1a9b4635a2c8c99ac7c36f)
 > Dropped duckscript - no appropriate URL found OrderedDict({'attr_path': 'duckscript', 'home_url': 'https://github.com/sagiegurari/duckscript', 'src_url': 'https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download', 'urls': ['https://crates.io/api/v1/crates/duckscript_cli/0.11.1/download'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -559,6 +560,7 @@
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/37c96a5cc3095689a79b71e638fac904ce40f2f4)
 - [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/c288a3fb1f33ff039ce92d74dcc6805767fa161d)
 - [ ] [<code>build: (deps): bump chewie from 1.13.0 to 1.13.1</code>](https://github.com/krille-chan/fluffychat/commit/89442b3fbef2063c597604d45ff41042330437ba)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/029e85942d3ad64de1d9b07d96a137156b9bc3f7)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1034,6 +1036,7 @@
 - [ ] [<code>build: (deps): bump wakelock_plus from 1.5.1 to 1.5.2</code>](https://github.com/krille-chan/fluffychat/commit/37c96a5cc3095689a79b71e638fac904ce40f2f4)
 - [ ] [<code>chore(translations): Translated using Weblate (Spanish)</code>](https://github.com/krille-chan/fluffychat/commit/c288a3fb1f33ff039ce92d74dcc6805767fa161d)
 - [ ] [<code>build: (deps): bump chewie from 1.13.0 to 1.13.1</code>](https://github.com/krille-chan/fluffychat/commit/89442b3fbef2063c597604d45ff41042330437ba)
+- [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/029e85942d3ad64de1d9b07d96a137156b9bc3f7)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2809,6 +2812,18 @@
 - [ ] [<code>[Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)</code>](https://github.com/flutter/flutter/commit/990b0a54a239815432862456a7bf564667746ac5)
 - [ ] [<code>[iOS] Clarify provisioning profile error instructions (#184051)</code>](https://github.com/flutter/flutter/commit/dabfef6e3defeeda6d43de2235ba722a353fadeb)
 - [ ] [<code>Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor (#185159)</code>](https://github.com/flutter/flutter/commit/5c5000eff1887d32207b631af75547de92310f2b)
+- [ ] [<code>[Impeller] Provide std::optional getter for stroke property (#185112)</code>](https://github.com/flutter/flutter/commit/3e0ca9785a25fe10bb74c612855f4b0bcfacebf8)
+- [ ] [<code>Add dart_skills_lint to dev/tool with test and update readme instructions for new skills authors (#185033)</code>](https://github.com/flutter/flutter/commit/3d6ef4ea1c182ae27747d4e2a31d166d5bbc365f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Roll Fuchsia Linux SDK from IdBT8fSMYrYSip65j... to di3JdYrdE9OFu8Iyl... (#185173)</code>](https://github.com/flutter/flutter/commit/0ea14e6ffd7d5742b0479f1acb87f81a7029a52a)
+- [ ] [<code>Clarify why the `child` is nullable in `AnimatedTransitionBuilder` (#182995)</code>](https://github.com/flutter/flutter/commit/6e34ff8a8c57d7ea2333fad9fb65c3ab2b53ee5a)
+- [ ] [<code>Revert "Unpin sdk package dependencies" (#185186)</code>](https://github.com/flutter/flutter/commit/52ac7e6e5fdfbcae2b561b7903865971912e17a1)
+- [ ] [<code>Fix _scheduleSystemFontsUpdate assertion during non-idle scheduler phase (#184332)</code>](https://github.com/flutter/flutter/commit/7f07a47886f4af02ef307b8f6eb7d5636b73c080)
+- [ ] [<code>`AnimationStyle` methods (#182333)</code>](https://github.com/flutter/flutter/commit/a6e5716957ce30fe1d74edfc6a90d23be2274941)
+- [ ] [<code>[Impeller] Fix morphology filter asymmetric dilation/erosion (#184913)</code>](https://github.com/flutter/flutter/commit/67dec4430000fb69cc5b8ab8c998f9c2bcc588da)
+- [ ] [<code>Roll Fuchsia Test Scripts from R2EllDf4DgBXVNuiN... to dQ4PjIJB5kZFU8Y32... (#185192)</code>](https://github.com/flutter/flutter/commit/5c0bbdba2bb151d723df3aeed703fe3e998616f1)
+- [ ] [<code>Remove unused `FlutterRunArguments.java` file  (#184160)</code>](https://github.com/flutter/flutter/commit/c5e3c2f1cc6df4bc9ce96c5fb11cba44b4f64c20)
+- [ ] [<code>[iOS] Migrate FlutterLaunchEngine to Swift (#185151)</code>](https://github.com/flutter/flutter/commit/02da4c69f0c60287ac89210cef9e5e4d4ddcc061)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -4689,6 +4704,20 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: fix zizmor warnings except for GITHUB_ENV</code>](https://github.com/Oppzippy/OpenSCQ30/commit/769494130344a4237429b8fb37d1cf3225f9be63)
 - [ ] [<code>ci: add option to build only for specific platforms</code>](https://github.com/Oppzippy/OpenSCQ30/commit/7d0d60537e13ca2d42fe18795330972f1fc4f1b4)
 - [ ] [<code>build(android): remove obsolete release-android profile</code>](https://github.com/Oppzippy/OpenSCQ30/commit/637f2d03b6f2d0d9ff59fd7c0249534be4f7c712)
+- [ ] [<code>fix(android): decrease widget title bar size</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ef16c23e390be9fe7416b4e9971b5ade5b9ae197)
+- [ ] [<code>fix(lib): don't give up when only one bluetooth adapter is unavailable</code>](https://github.com/Oppzippy/OpenSCQ30/commit/ac8251c04ad4132c8c560555274a076a380fd484)
+- [ ] [<code>fix(lib): specify client rfcomm role</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8549b5e9755846bc184d27f8ba4e61aab4f708d0)
+- [ ] [<code>build(lib): add script to generate skeleton for new device</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c06012ce95f00e4c5d95e12c660262526dd79d44)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>feat(soundcore-device-faker): add a3952</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e3dcf41232ae442dfa3fae9535af4f63ef4c46b2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: update rust to 1.95.0</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f9e61f1de63a2657bcfec7563c595f0d4f172ff4)
+- [ ] [<code>refactor: replace cfg_if with cfg_select</code>](https://github.com/Oppzippy/OpenSCQ30/commit/86a719148f2894a677a8a0c9f3b89f3e1cd5103f)
+- [ ] [<code>feat(lib): add support for a3952</code>](https://github.com/Oppzippy/OpenSCQ30/commit/bbe9df58640ec851ac749df53024c0183490f2eb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbb608e941392cd771ad1bf95892eb53fc8f43ac)
+- [ ] [<code>refactor(android): tweak SoundcoreEqualizerScreen shouldOverride logic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9457c6723f0c5b227cfb93d45f9f79fe27ae5764)
+- [ ] [<code>style(android): fix formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6e4815fe072610ab0a6e57d829fa9a5575f7d81)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.4.12 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.4.12...HEAD)
 
@@ -5547,6 +5576,115 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat: support xhigh for Claude Opus 4.7</code>](https://github.com/openclaw/openclaw/commit/c73a6d2f689fa20d035af478c0eb5a64a3be66d2)
 - [ ] [<code>fix: keep Opus 4.7 effort separate from adaptive thinking</code>](https://github.com/openclaw/openclaw/commit/a2753e2d9fa66ab7b9fb80b968264437d9e8c894)
 - [ ] [<code>test: slim provider registry mocks</code>](https://github.com/openclaw/openclaw/commit/2e08c77582b21a68212ee095ce2e794060100f53)
+- [ ] [<code>test: trim memory and mcp hotspots</code>](https://github.com/openclaw/openclaw/commit/fd48dfa68f488aa71a3b925ac7f05092332cfd67)
+- [ ] [<code>test: isolate gemini embedding request helpers</code>](https://github.com/openclaw/openclaw/commit/cd330f5f98a80e37ce0aad3f0eb49b5d66fcffea)
+- [ ] [<code>test: narrow hotspot mocks</code>](https://github.com/openclaw/openclaw/commit/dbc8179f3142efc57d99a6dd1652c297d741c23d)
+- [ ] [<code>test: trim remaining hotspot tests</code>](https://github.com/openclaw/openclaw/commit/6ba8626c258b6c02c089235a1a218b056c308042)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: trim more hotspot overhead</code>](https://github.com/openclaw/openclaw/commit/f4853115a9dd88105765fb3418fbc740a29d814c)
+- [ ] [<code>Matrix: add plugin changelog</code>](https://github.com/openclaw/openclaw/commit/4acab55db827baf0bcf2750e0d51e9e1faf8e5af)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>QA Lab: add provider registry</code>](https://github.com/openclaw/openclaw/commit/bb7e9823a8869a6d01d071d939822489a32e2479)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Matrix: refresh crypto bootstrap state</code>](https://github.com/openclaw/openclaw/commit/94081d88633608f65bdc3a3a5122c368df059c31)
+- [ ] [<code>QA Matrix: isolate scenario coverage</code>](https://github.com/openclaw/openclaw/commit/7e659e168bbc3c772d5f7715e7c180eb22f10b35)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>QA Matrix: exit cleanly on failure</code>](https://github.com/openclaw/openclaw/commit/42805d26cfeba4d454d80b54c72fe213bf6e95f6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(ui): overhaul settings and slash command UX (#67819) thanks @BunsDev</code>](https://github.com/openclaw/openclaw/commit/2cfb660a9bb8461036acad5316f798782b51bf52)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: reduce hotspot fixture overhead</code>](https://github.com/openclaw/openclaw/commit/3a59eddd071c19b1f4cff407cd86d07ed77b57cd)
+- [ ] [<code>Check: avoid duplicate boundary prep</code>](https://github.com/openclaw/openclaw/commit/baf11b83d78175085f60ce9b8ae86c20d97404e1)
+- [ ] [<code>test: trim hotspot wait overhead</code>](https://github.com/openclaw/openclaw/commit/12a59b0a18e177c6bbe22fed2ebdd9a8749061ba)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: reuse system-run temp fixtures</code>](https://github.com/openclaw/openclaw/commit/7e9ff0f86e73414377e070982f81c263377df2c4)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>refactor: move memory embeddings into provider plugins</code>](https://github.com/openclaw/openclaw/commit/77e6e4cf87f7a0b6343b48328050e0f31a282117)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test: preserve tool helpers in embedded runner mocks</code>](https://github.com/openclaw/openclaw/commit/acd86a06cdf9d34b974ea85713bb61f9dcc3de80)
+- [ ] [<code>test: speed up safe-bins exec harness</code>](https://github.com/openclaw/openclaw/commit/ee856ab31fa9d83c7ae697d6a149f09a0973fd5b)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>build: declare qa-lab aimock runtime dependency</code>](https://github.com/openclaw/openclaw/commit/24431e511464e1de4fa87c95f46d1d33281ccbac)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: unify responses api capability detection (#67918)</code>](https://github.com/openclaw/openclaw/commit/685f9903ec386153710a37bb5f71c24c77867c81)
+- [ ] [<code>fix: guard WhatsApp setup prompt values (#67895) (thanks @lawrence3699)</code>](https://github.com/openclaw/openclaw/commit/a189394590070f9f657632624169769cf865c233)
+- [ ] [<code>fix: preserve models.json baseUrls on regen (#67893) (thanks @lawrence3699)</code>](https://github.com/openclaw/openclaw/commit/35fb3f7e1c7b06ba8bd1d777fa12cf78119da9e2)
+- [ ] [<code>test: trim messaging test hotspots</code>](https://github.com/openclaw/openclaw/commit/a2f2e5738ee627ef1e6dbb618ad7e39559b9e017)
+- [ ] [<code>test: avoid postinstall fixture installs</code>](https://github.com/openclaw/openclaw/commit/c6af0437c99206348ffd95cd2a76108c1ae54ab4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): reuse shared discovery cache</code>](https://github.com/openclaw/openclaw/commit/9da4d5f5df5d0a9f9d462594e69e8891d3f06fc5)
+- [ ] [<code>test(plugins): address discovery review feedback</code>](https://github.com/openclaw/openclaw/commit/353950894a28dc87e872df952d4ef9536c926043)
+- [ ] [<code>fix: reuse shared plugin discovery cache across workspaces (#67940)</code>](https://github.com/openclaw/openclaw/commit/6b45ba88a17d84f2850ed34a15f19777e0895b08)
+- [ ] [<code>Tests: add grouped performance report benchmark</code>](https://github.com/openclaw/openclaw/commit/8e444ac5a600138eaea403d71a644eeabbd05d0d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Tests: scope grouped benchmark artifacts</code>](https://github.com/openclaw/openclaw/commit/e8ae3901b61386ec0c160614ec6a5cbce9cef10c)
+- [ ] [<code>fix(agents): refresh bundle command discovery</code>](https://github.com/openclaw/openclaw/commit/65645ec54f504ad4794aaab2cd56559a12b04ed7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(gateway): stabilize canvas auth fetch retries</code>](https://github.com/openclaw/openclaw/commit/15b2827fc178ac7ed748c23fed12e5a44f081db4)
+- [ ] [<code>fix(plugins): enforce synchronous registration</code>](https://github.com/openclaw/openclaw/commit/2a283e87a74129fce8f5daea1eaece508e1b1df3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): roll back failed register side effects</code>](https://github.com/openclaw/openclaw/commit/e8fd148437aee8a619da507b67b244fa7798b948)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(plugins): fix sync register call sites</code>](https://github.com/openclaw/openclaw/commit/5c1d6feb335c46bfab151db22f30c4041762aef1)
+- [ ] [<code>fix(plugins): roll back failed register globals</code>](https://github.com/openclaw/openclaw/commit/59d07f0ab478ca6dbc7eef12268f037cecdc7961)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): tighten register rollback</code>](https://github.com/openclaw/openclaw/commit/c95507978f0044a7e0b6d18ee2c997a3698e3c86)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: note plugin registration rollback in changelog (#67941)</code>](https://github.com/openclaw/openclaw/commit/3fe8b24c4ee28bb42d194ebf494b052ac7c01e01)
+- [ ] [<code>fix: dedupe repeated bootstrap truncation warnings (#67906) (thanks @rubencu)</code>](https://github.com/openclaw/openclaw/commit/7e18c07e410c470cc9dd69dcae52481103e6e268)
+- [ ] [<code>fix: keep telegram transient preview across compaction retry (#66939) (thanks @rubencu)</code>](https://github.com/openclaw/openclaw/commit/c65f356ddc958f1930b083ccba38103d16772993)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: clear stale telegram ACP bindings on startup (#67822) (thanks @chinar-amrutkar)</code>](https://github.com/openclaw/openclaw/commit/8205de84a9b9d46a1d06282a6dbae8671f55fd1a)
+- [ ] [<code>fix: dedupe degraded sqlite-vec warnings (#67898) (thanks @rubencu)</code>](https://github.com/openclaw/openclaw/commit/7b0e950e0918c5f3cdca8b7e688575e2e6979cb5)
+- [ ] [<code>fix: preserve post-stream error payloads (#67991)</code>](https://github.com/openclaw/openclaw/commit/671579663bf20a58a6acbeb3d76b254f2eb9fc9e)
+- [ ] [<code>fix(telegram): clear compaction replay after visible boundaries</code>](https://github.com/openclaw/openclaw/commit/5aad79571ee6458fb1fb67e471c071986d56ac86)
+- [ ] [<code>fix: clear compaction replay after visible boundaries (#67993)</code>](https://github.com/openclaw/openclaw/commit/bec52e5f7ec120e273b6fed87f3d6b7439e84753)
+- [ ] [<code>fix(memory-core): preserve vector dims on readonly recovery</code>](https://github.com/openclaw/openclaw/commit/26f7198edaf6cdd3b50f7f23b53cd5846e2a2e80)
+- [ ] [<code>Tests: isolate perf-sensitive env state</code>](https://github.com/openclaw/openclaw/commit/178c36532d155ee63a4fb465c55ac05842d8d760)
+- [ ] [<code>Tests: fast-path gateway auth bypass discovery</code>](https://github.com/openclaw/openclaw/commit/807c6648f971a730963c5472dcda2e03315b24e5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Tests: fast-path Matrix ACP thread binding</code>](https://github.com/openclaw/openclaw/commit/878f2122e5216d6031f57123d9ddae766e987c90)
+- [ ] [<code>Tests: fast-path Slack message tool discovery</code>](https://github.com/openclaw/openclaw/commit/7ae670e5015938f0cfe269d003f59daba53e4d1f)
+- [ ] [<code>test: trim agent test hotspots</code>](https://github.com/openclaw/openclaw/commit/35dcd0676423a88127d6ee510a44f8c08bf174ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: reuse browser server harness imports</code>](https://github.com/openclaw/openclaw/commit/132d3c76a05d72fd519bc26e2da8c5df08ad038b)
+- [ ] [<code>test: trim provider extra-param imports</code>](https://github.com/openclaw/openclaw/commit/d07c921ae3fe82964799dadcbc9548dae2715b92)
+- [ ] [<code>test: collapse exec preflight parser cases</code>](https://github.com/openclaw/openclaw/commit/b71c91022b58095b7863423cd14ff824959cf45d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: trim process-backed agent assertions</code>](https://github.com/openclaw/openclaw/commit/f57ce21d731508ba1dcb158f5a7c1e4f8192a025)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: split browser snapshot target helper</code>](https://github.com/openclaw/openclaw/commit/daaebb8558b38aca77c89b426cdd5862323600c4)
+- [ ] [<code>test: narrow ollama provider discovery setup</code>](https://github.com/openclaw/openclaw/commit/a0d95984254b310ce2671e26e858d7780bc3036c)
+- [ ] [<code>test: merge browser contract server suites</code>](https://github.com/openclaw/openclaw/commit/5817a76236fa0e40b37e7933701d127c05af61b0)
+- [ ] [<code>test: stabilize MCP startup disposal race</code>](https://github.com/openclaw/openclaw/commit/dd9d2ebd01c8e73bde1b26107e701ee9307042ea)
+- [ ] [<code>test: isolate agent auth and spawn hotspots</code>](https://github.com/openclaw/openclaw/commit/92859357bb361a059dfd4b823a7309806cc4f9cb)
+- [ ] [<code>test: trim doctor command hotspots</code>](https://github.com/openclaw/openclaw/commit/c66f16ac55e96170a9ee1ce292c07f83bc9ff6f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: mock doctor preview channel boundaries</code>](https://github.com/openclaw/openclaw/commit/b1a3ad49a41acef15040a49493444b0015ed3b81)
+- [ ] [<code>test: mock channel install boundaries</code>](https://github.com/openclaw/openclaw/commit/b9452486502d2d30a8ef22f82491e6fcbb3958fd)
+- [ ] [<code>test: mock legacy state plugin boundaries</code>](https://github.com/openclaw/openclaw/commit/27130892202185b5ccad1f0dd55ca20fcfdc1147)
+- [ ] [<code>test: mock onboard config io boundary</code>](https://github.com/openclaw/openclaw/commit/299694d7218feac0900285459af1706779794882)
+- [ ] [<code>test: mock health status config boundaries</code>](https://github.com/openclaw/openclaw/commit/9d5ab4a54ce507ce00e64103049c81f542b10ddf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: reduce auth choice fixture churn</code>](https://github.com/openclaw/openclaw/commit/857b9cd326c288fb387053194fb43400a28cd0e9)
+- [ ] [<code>matrix: fix sessions_spawn --thread subagent session spawning (#67643)</code>](https://github.com/openclaw/openclaw/commit/1ce25961950d7065b8bcc4638e96d935193e76dc)
+- [ ] [<code>test: trim duplicate provider auth onboarding cases</code>](https://github.com/openclaw/openclaw/commit/1ffc02e93025e0c64d5703d7913e27d68876426a)
+- [ ] [<code>ci: retry failed custom checkouts</code>](https://github.com/openclaw/openclaw/commit/0ee5baf6c50237c56538784ca53a9ffd07adf611)
+- [ ] [<code>Tests: slim context engine runtime coverage</code>](https://github.com/openclaw/openclaw/commit/74c198f2e8faedf38690c4facb3c302dac693ba8)
+- [ ] [<code>Tests: restore context-engine usage proof</code>](https://github.com/openclaw/openclaw/commit/e4c4f955b35ac59aec7490cebe679c59a26c64d3)
+- [ ] [<code>Docs: add test performance guardrails</code>](https://github.com/openclaw/openclaw/commit/89706d323c97d474863344a2b0bc410b021e56b9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>test: allow ollama public surface boundary test</code>](https://github.com/openclaw/openclaw/commit/7d4f1a6777a289284e58b4846a71187edfa92898)
+- [ ] [<code>fix(auth): serialize OAuth refresh across agents to fix #26322 (#67876)</code>](https://github.com/openclaw/openclaw/commit/8e79080bef7db05a52e9f1fcfb8e1f2c9e5f4b70)
+- [ ] [<code>Docs: refresh agent instructions</code>](https://github.com/openclaw/openclaw/commit/5775fe272abf610b2c09150ed1340026473e390e)
+- [ ] [<code>Tests: speed up channel setup promotion</code>](https://github.com/openclaw/openclaw/commit/82b529a6d9b0bfd166684a9b97723952aa3c6bc9)
+- [ ] [<code>fix(macOS): enable undo/redo in webchat composer text input (#34962)</code>](https://github.com/openclaw/openclaw/commit/00951dc9f95d3f4863402f399acfe0e484133bec)
+- [ ] [<code>Tests: narrow session binding contract setup</code>](https://github.com/openclaw/openclaw/commit/54e4e1684401488456edf66e95e371998784e5e3)
+- [ ] [<code>Auto-reply: avoid eager bundled route fallback</code>](https://github.com/openclaw/openclaw/commit/3ea1bf4232648f42873f20c45aa7127e84e73bfb)
+- [ ] [<code>fix: report shared auth scopes in hello-ok (#67810) thanks @BunsDev</code>](https://github.com/openclaw/openclaw/commit/0b6c39be18754d1e6b563dd70a32e25aac9729f3)
+- [ ] [<code>feat: add macOS screen snapshots for monitor preview (#67954) thanks @BunsDev</code>](https://github.com/openclaw/openclaw/commit/f377db10156473fd39b83c994686e7b40a029c5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve hello-ok scopes for reused device tokens (#68039)</code>](https://github.com/openclaw/openclaw/commit/be7a415eb09609408087d9d2737b6f02f36586ab)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
