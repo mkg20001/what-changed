@@ -2837,6 +2837,9 @@
 - [ ] [<code>Rewrites no-response workflow to work with pr as well (#185163)</code>](https://github.com/flutter/flutter/commit/a8eb8ebd338e55c5b5a605be12745479a9a477a7)
 - [ ] [<code>Roll Dart SDK from 7c2564c18770 to 9648f446f131 (7 revisions) (#185223)</code>](https://github.com/flutter/flutter/commit/0bac134437209381638a3ad67d2dc98d2754643f)
 - [ ] [<code>Change uber SDF to get pixel size (for AA) using euclidean distance rather than manhattan distance. (#184984)</code>](https://github.com/flutter/flutter/commit/4a26bed69800fad5ba12b657f5b7afe0e882b70a)
+- [ ] [<code>Rect constructors for circle bounds (MakeCircle/EllipseBounds) (#185110)</code>](https://github.com/flutter/flutter/commit/887a04901fc63abce01dceeb2cd8a01ff678a45d)
+- [ ] [<code>Fix: text selection context menu should reappear after a non-fling scroll on Android and iOS (#185054)</code>](https://github.com/flutter/flutter/commit/beb2ad17004a1b118ff2bd09f55cee23198f6652)
+- [ ] [<code>Roll Fuchsia Linux SDK from di3JdYrdE9OFu8Iyl... to bWoigpGIb60B6C7hD... (#185231)</code>](https://github.com/flutter/flutter/commit/b28889e393d9b59d4d572aa7d135ea9e43f3034d)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -5971,6 +5974,58 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: skip throwaway control ui auth clients</code>](https://github.com/openclaw/openclaw/commit/e2351b5fdc030f55241d036b9fe05e58de7544f8)
 - [ ] [<code>test: skip throwaway device token auth clients</code>](https://github.com/openclaw/openclaw/commit/b295f4afd8cfdbfbb1323c5253d4bd40bc3f5f90)
 - [ ] [<code>test: disable cron scheduler for manual runs</code>](https://github.com/openclaw/openclaw/commit/0266cf4d10019e1fd25052dd715479a37ed25f06)
+- [ ] [<code>[AI-assisted] fix(agents): mark failed TTS tool synthesis as an error (#67980)</code>](https://github.com/openclaw/openclaw/commit/4749993bb5443f49acbaef538a9e445072641406)
+- [ ] [<code>test: trim browser bootstrap integration</code>](https://github.com/openclaw/openclaw/commit/75ffa2905455418961deb305d984577811dab27d)
+- [ ] [<code>test: keep twitch entry test lazy</code>](https://github.com/openclaw/openclaw/commit/e493d1d2fdbed2a761f18f7102691fbf32e5d6b5)
+- [ ] [<code>test: keep gateway suites minimal</code>](https://github.com/openclaw/openclaw/commit/5cf01ac7c1a43152da6fd416a0924a5c90127946)
+- [ ] [<code>test: merge device token authz cases</code>](https://github.com/openclaw/openclaw/commit/ca34c7cd7bc8ee401fca5c2b289be85fbe4bf7ed)
+- [ ] [<code>test: collapse gateway node authz hotspots</code>](https://github.com/openclaw/openclaw/commit/52b8e318bd44b2f48f2da4a8beb4249fba9542b1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: slim contract suite imports</code>](https://github.com/openclaw/openclaw/commit/7db9a532541ef11e0371ca456c3fa3307edec010)
+- [ ] [<code>test: slim channel directory contracts</code>](https://github.com/openclaw/openclaw/commit/ed65e8017d3606b28a8193616da56702ee658989)
+- [ ] [<code>test: merge provider web-search contracts</code>](https://github.com/openclaw/openclaw/commit/4c12ff6d23ffc452d18ad2e6625e515e5958f18b)
+- [ ] [<code>test: use web search contract artifacts</code>](https://github.com/openclaw/openclaw/commit/3213fcddbe29018411f8518a5547c51676e45373)
+- [ ] [<code>test: slim plugin shape contracts</code>](https://github.com/openclaw/openclaw/commit/30cbfa3457edf71ba04581ef66c778dc9f9eb26d)
+- [ ] [<code>test: use web fetch contract artifacts</code>](https://github.com/openclaw/openclaw/commit/ac39cef969c19e4d087c1c44d1a2a6e7a85daac1)
+- [ ] [<code>test: use provider contract artifacts</code>](https://github.com/openclaw/openclaw/commit/4143da0ffa7d3e796920a3b7338bddf6dd677de5)
+- [ ] [<code>perf: slim zalo group access facade</code>](https://github.com/openclaw/openclaw/commit/576ce7c656d687c0f82f49380d3f660685ef4c68)
+- [ ] [<code>test: speed channel contract hotspots</code>](https://github.com/openclaw/openclaw/commit/569247cff83bd555910ea543b26031309dd31ed6)
+- [ ] [<code>test: slim channel contract hotspots</code>](https://github.com/openclaw/openclaw/commit/3abb5fd291f3cae2f187602fc84ed9304a3acea9)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test: merge session binding contract flow</code>](https://github.com/openclaw/openclaw/commit/6b99917d4ed59699ec0246972295fcca75525c93)
+- [ ] [<code>test: merge provider contract wrappers</code>](https://github.com/openclaw/openclaw/commit/27f34f0491ad497d76c0f70f9246fcd4b294483b)
+- [ ] [<code>test: fix rebased local gates</code>](https://github.com/openclaw/openclaw/commit/c8d722d093a61b53540a488a615b5ea86623f6b7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Tests: avoid bundled Discord runtime lookup</code>](https://github.com/openclaw/openclaw/commit/0e4ddf7b388a373ac5366dbcb1f6c91996550def)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: stabilize whatsapp pdf media test</code>](https://github.com/openclaw/openclaw/commit/36068281fb489b46005a4ccfc5c6f42e782d0b2f)
+- [ ] [<code>test: stabilize telegram status lane test</code>](https://github.com/openclaw/openclaw/commit/a22b78954760c26d7763188ecb20b8ad4205b341)
+- [ ] [<code>CI: stabilize live release lanes (#67838)</code>](https://github.com/openclaw/openclaw/commit/361750775dc01a5ceeca38f8fc83ad52ccb8d5a9)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Plugin SDK: preserve secret input runtime build</code>](https://github.com/openclaw/openclaw/commit/a09bf67fa5a7915220ccb07049245eb105008166)
+- [ ] [<code>Tests: speed up QA lab startup</code>](https://github.com/openclaw/openclaw/commit/a50ec27d3b679153fca18c0c346a35a9e2ffecf8)
+- [ ] [<code>fix(gateway): allow microphone access for same-origin in Permissions-Policy header (#68368)</code>](https://github.com/openclaw/openclaw/commit/dee99f27d1d1a48b446afe32b0d9c53d62e3cdbe)
+- [ ] [<code>fix(plugins): resolve checkout plugin sdk imports</code>](https://github.com/openclaw/openclaw/commit/110f8bd2e1e29b1c2bf92dc6f7b9e1ab8b82623d)
+- [ ] [<code>fix(install): omit checkout alias from dist inventory</code>](https://github.com/openclaw/openclaw/commit/e910fe446a3bf98ea25f016d11e2c98eccd68d97)
+- [ ] [<code>Align documented bootstrap context defaults with runtime values (#67968)</code>](https://github.com/openclaw/openclaw/commit/a0dd5f7e8e6c63a1d87a4d98dd684521bf888bdb)
+- [ ] [<code>fix: allow unknown properties in WakeParams schema (#68355) (thanks @kagura-agent)</code>](https://github.com/openclaw/openclaw/commit/2c3542e3151488a95fe5dd47f3ec68e40716ba5d)
+- [ ] [<code>fix: fence Telegram stale reply delivery after abort (#68100) (thanks @rubencu)</code>](https://github.com/openclaw/openclaw/commit/996eb9a024d03ad68cc2a34f7f1df423aa47e652)
+- [ ] [<code>fix(whatsapp): isolate multi-account inbound state and align shared defaults (#65700)</code>](https://github.com/openclaw/openclaw/commit/458a52610a4deb7f7bc7ce29d55c6bcf9ae3a7c9)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(telegram): require authorized abort supersede</code>](https://github.com/openclaw/openclaw/commit/dc3b10285db8d358729834a30887a70b60bf1c5a)
+- [ ] [<code>Matrix: forward dangerouslyAllowPrivateNetwork config to client SSRF policy (#68332)</code>](https://github.com/openclaw/openclaw/commit/c2fb4007c24a0d8ead011a83a4e814630f73f052)
+- [ ] [<code>Session: skip binding lookup for system events</code>](https://github.com/openclaw/openclaw/commit/18c4fd5678a5bf5f28c5a18dd5ffc291d19a32c3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>[codex] fix(auth): harden OAuth refresh and Codex CLI bootstrap flows (#68396)</code>](https://github.com/openclaw/openclaw/commit/f45bc09206625adfd596417e8d03c0567466527a)
+- [ ] [<code>ci(security): harden workflow steps against template-injection (#68431)</code>](https://github.com/openclaw/openclaw/commit/c778562379d6abca1983e33cf4888cd1bfc7c6de)
+- [ ] [<code>fix: redact credentials in browser.cdpUrl config paths (#67679)</code>](https://github.com/openclaw/openclaw/commit/4b5987829d0f82ea44ae50f2f418ffe5ea445e7f)
+- [ ] [<code>docs(changelog): deduplicate #67679 entry (#68439)</code>](https://github.com/openclaw/openclaw/commit/3b9e0da02d8279c68a2bd024dd24027de1093e7b)
+- [ ] [<code>test(cron): cover message tool with no delivery</code>](https://github.com/openclaw/openclaw/commit/31437b9e3bd1c219d2f84be2099ab1fd876858bb)
+- [ ] [<code>fix(cron): keep message tool without delivery</code>](https://github.com/openclaw/openclaw/commit/49ae60d6cae116c7beefb5ce6b37aefd20fd4613)
+- [ ] [<code>fix(cron): keep runner-owned delivery off message tool</code>](https://github.com/openclaw/openclaw/commit/13a0d7a9e03521effa5826a1e73f4313a66252f4)
+- [ ] [<code>test(cron): use CronDeliveryMode in policy helpers</code>](https://github.com/openclaw/openclaw/commit/eaaab098fbbdd91ac78331c8f14ad5abc9111dee)
+- [ ] [<code>fix(failover): widen raw 402 detection for third-party proxy messages (#45827)</code>](https://github.com/openclaw/openclaw/commit/ef3f9796c8bf6fc7fba5b56032686ad4ebca93ab)
+- [ ] [<code>fix(cron): clean up deleteAfterRun direct deliveries (#67807)</code>](https://github.com/openclaw/openclaw/commit/9501656a8eee3a8e8ed6faa2d43ef4671a3a8329)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
