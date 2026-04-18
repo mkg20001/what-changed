@@ -4,7 +4,7 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/bulky/commit/26be5a532c79ba42065c5b66d19995f04e6684f2)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.7 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.7...HEAD)
+#### [cinnamon](https://github.com/linuxmint/cinnamon): [refs/tags/6.6.8 → HEAD](https://github.com/linuxmint/cinnamon/compare/refs/tags/6.6.8...HEAD)
 
 - [ ] [<code>Add generate-test-packages capability to CI.</code>](https://github.com/linuxmint/cinnamon/commit/e8752bb5e60a97fbf248989842e8b0e4bad0b91c)
 - [ ] [<code>cs_keyboard: Switch to XSI icons</code>](https://github.com/linuxmint/cinnamon/commit/14af6e32726d69779e51a860ac2ba690dfa65768)
@@ -307,17 +307,8 @@
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-translations/commit/0aa11c110fe852a9bf283d51b9c3837ab3ebcebf)
   - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/128.1 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/128.1...HEAD)
+#### [cjs](https://github.com/linuxmint/cjs): [refs/tags/140.0 → HEAD](https://github.com/linuxmint/cjs/compare/refs/tags/140.0...HEAD)
 
-- [ ] [<code>Add pkgconfig variable to export the appropriate API version of mozjs (#134)</code>](https://github.com/linuxmint/cjs/commit/3cb58021fb050a06e80433ec8fc8d2621cf3f3df)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>mozjs 140 + gjs 1.88.0</code>](https://github.com/linuxmint/cjs/commit/3015fd96065d06801ac1f6f2ddaf96f5768e84ec)
-  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>importer: Add 'clear_cache' function to allow reloading of modules.</code>](https://github.com/linuxmint/cjs/commit/d941af3e5f3290b9da3a75277e71e765c9cb6edb)
-- [ ] [<code>140.0</code>](https://github.com/linuxmint/cjs/commit/074531498e0464c3bec93f63f1ffb1593c5c4008)
-  - <sub>Tags: <code>140.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [folder-color-switcher](https://github.com/linuxmint/folder-color-switcher): [856f6f27dfa48ee1ac8d7ec40333e3f892458067 → HEAD](https://github.com/linuxmint/folder-color-switcher/compare/856f6f27dfa48ee1ac8d7ec40333e3f892458067...HEAD)
 
