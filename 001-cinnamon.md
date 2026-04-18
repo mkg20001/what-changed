@@ -212,6 +212,9 @@
 - [ ] [<code>cinnamon-global.c: Don't let a normal popModal cancel an ongoing</code>](https://github.com/linuxmint/cinnamon/commit/c27a6a604afc0235c529ba03bd02451cc5d03ce8)
 - [ ] [<code>screensaver/controller.js: Give lockScreen an optional callback.</code>](https://github.com/linuxmint/cinnamon/commit/889a2ae64098e1968a4844c74b5b612167ea80cd)
 - [ ] [<code>util.js: Lock the screen before switching to the greeter.</code>](https://github.com/linuxmint/cinnamon/commit/5b65946fa250c1c52302aee3253f3746a13bcaf0)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>signalTracker.js: Don't track "destroy" for non-ClutterActors.</code>](https://github.com/linuxmint/cinnamon/commit/d14282364dcec89dd5658d9433cf39c8ccb8ce90)
+- [ ] [<code>expo/overview: Refactor to Use newer/gobject class styles, easing.</code>](https://github.com/linuxmint/cinnamon/commit/bfc454e799f0284a3c2fd3a0ec11a716b2d425bb)
   - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
 
