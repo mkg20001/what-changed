@@ -548,6 +548,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/a51320bae8eda5024e9190ff0e3c589a04bcaca8)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2f5700657cc1799ebf80a4d97a166817b205c31)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.1 to 4.0.2</code>](https://github.com/krille-chan/fluffychat/commit/d7304e03644658ead65c68c6c7f7771d8326830a)
+- [ ] [<code>build: bump addressable in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/01c5433cf93b51f0469f96f1b522fe2261469d56)
 - [ ] [<code>feat(chat): make messagePreviewMaxLines configurable, with default 128</code>](https://github.com/krille-chan/fluffychat/commit/bcc4d4d204b744bf9da554f1830926343c21495d)
 - [ ] [<code>build: (deps): bump badges from 3.1.2 to 3.2.0</code>](https://github.com/krille-chan/fluffychat/commit/0e0daacff43287d1ee0e9e00b029c834039166cf)
 - [ ] [<code>build: Update to flutter 3.41.6</code>](https://github.com/krille-chan/fluffychat/commit/c7060413d5e5158e3e42f6672f72f44046fcd621)
@@ -562,6 +563,10 @@
 - [ ] [<code>build: (deps): bump chewie from 1.13.0 to 1.13.1</code>](https://github.com/krille-chan/fluffychat/commit/89442b3fbef2063c597604d45ff41042330437ba)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/029e85942d3ad64de1d9b07d96a137156b9bc3f7)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/535cace8ae28377dc5f1caf1dbace89b9954b87e)
+- [ ] [<code>fix: add prepare-web.sh support for both python and go yq versions</code>](https://github.com/krille-chan/fluffychat/commit/680504ee6b2188c7ba3becb7f77e8a3c8fac43c7)
+- [ ] [<code>fix: UX feedback for sending events</code>](https://github.com/krille-chan/fluffychat/commit/3e01544a755c78b466658c78d5936e9198071dab)
+- [ ] [<code>feat: Add Android summary notification</code>](https://github.com/krille-chan/fluffychat/commit/8e3f46eee6dbda356fdf4692aa860e1d9c1b5b0b)
+- [ ] [<code>build: (deps): bump matrix from 6.2.0 to 7.0.0</code>](https://github.com/krille-chan/fluffychat/commit/7b2bffc1952c831f99624ed8197311ecf4443779)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1025,6 +1030,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Russian)</code>](https://github.com/krille-chan/fluffychat/commit/a51320bae8eda5024e9190ff0e3c589a04bcaca8)
 - [ ] [<code>chore(translations): Translated using Weblate (Belarusian)</code>](https://github.com/krille-chan/fluffychat/commit/b2f5700657cc1799ebf80a4d97a166817b205c31)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.1 to 4.0.2</code>](https://github.com/krille-chan/fluffychat/commit/d7304e03644658ead65c68c6c7f7771d8326830a)
+- [ ] [<code>build: bump addressable in /ios in the bundler group across 1 directory</code>](https://github.com/krille-chan/fluffychat/commit/01c5433cf93b51f0469f96f1b522fe2261469d56)
 - [ ] [<code>feat(chat): make messagePreviewMaxLines configurable, with default 128</code>](https://github.com/krille-chan/fluffychat/commit/bcc4d4d204b744bf9da554f1830926343c21495d)
 - [ ] [<code>build: (deps): bump badges from 3.1.2 to 3.2.0</code>](https://github.com/krille-chan/fluffychat/commit/0e0daacff43287d1ee0e9e00b029c834039166cf)
 - [ ] [<code>build: Update to flutter 3.41.6</code>](https://github.com/krille-chan/fluffychat/commit/c7060413d5e5158e3e42f6672f72f44046fcd621)
@@ -1039,6 +1045,10 @@
 - [ ] [<code>build: (deps): bump chewie from 1.13.0 to 1.13.1</code>](https://github.com/krille-chan/fluffychat/commit/89442b3fbef2063c597604d45ff41042330437ba)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/029e85942d3ad64de1d9b07d96a137156b9bc3f7)
 - [ ] [<code>chore(translations): Translated using Weblate (Latvian)</code>](https://github.com/krille-chan/fluffychat/commit/535cace8ae28377dc5f1caf1dbace89b9954b87e)
+- [ ] [<code>fix: add prepare-web.sh support for both python and go yq versions</code>](https://github.com/krille-chan/fluffychat/commit/680504ee6b2188c7ba3becb7f77e8a3c8fac43c7)
+- [ ] [<code>fix: UX feedback for sending events</code>](https://github.com/krille-chan/fluffychat/commit/3e01544a755c78b466658c78d5936e9198071dab)
+- [ ] [<code>feat: Add Android summary notification</code>](https://github.com/krille-chan/fluffychat/commit/8e3f46eee6dbda356fdf4692aa860e1d9c1b5b0b)
+- [ ] [<code>build: (deps): bump matrix from 6.2.0 to 7.0.0</code>](https://github.com/krille-chan/fluffychat/commit/7b2bffc1952c831f99624ed8197311ecf4443779)
 
 #### [flutter](https://github.com/flutter/flutter): [refs/tags/3.41.6 → HEAD](https://github.com/flutter/flutter/compare/refs/tags/3.41.6...HEAD)
 
@@ -2842,6 +2852,7 @@
 - [ ] [<code>Rect constructors for circle bounds (MakeCircle/EllipseBounds) (#185110)</code>](https://github.com/flutter/flutter/commit/887a04901fc63abce01dceeb2cd8a01ff678a45d)
 - [ ] [<code>Fix: text selection context menu should reappear after a non-fling scroll on Android and iOS (#185054)</code>](https://github.com/flutter/flutter/commit/beb2ad17004a1b118ff2bd09f55cee23198f6652)
 - [ ] [<code>Roll Fuchsia Linux SDK from di3JdYrdE9OFu8Iyl... to bWoigpGIb60B6C7hD... (#185231)</code>](https://github.com/flutter/flutter/commit/b28889e393d9b59d4d572aa7d135ea9e43f3034d)
+- [ ] [<code>Roll Fuchsia Linux SDK from bWoigpGIb60B6C7hD... to aDbXQm6WA0wFCAUp-... (#185253)</code>](https://github.com/flutter/flutter/commit/2844af6a713467da39a34658fb889a61a953cb67)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -4764,6 +4775,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>deps(android): update dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/fbb608e941392cd771ad1bf95892eb53fc8f43ac)
 - [ ] [<code>refactor(android): tweak SoundcoreEqualizerScreen shouldOverride logic</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9457c6723f0c5b227cfb93d45f9f79fe27ae5764)
 - [ ] [<code>style(android): fix formatting</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b6e4815fe072610ab0a6e57d829fa9a5575f7d81)
+- [ ] [<code>refactor(lib): use pathfinding for MigrationPlanner</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f4ff4316aaa7d6b8931628995a54ee5951e1f411)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat(lib-macros): allow for multiple values in #[migration_requirement]</code>](https://github.com/Oppzippy/OpenSCQ30/commit/550f5dcf4acf23750def1bc09a3562934a61b487)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.4.12 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.4.12...HEAD)
 
@@ -6390,6 +6404,140 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: share orphan key migration fixtures</code>](https://github.com/openclaw/openclaw/commit/046d983d26ba256995c455a2d2c9b039719eec16)
 - [ ] [<code>perf: narrow PDF extractor type surface</code>](https://github.com/openclaw/openclaw/commit/1f71137d1e1578abbf9d08cb9c985dda158a4035)
 - [ ] [<code>test: share core channel delivery harness</code>](https://github.com/openclaw/openclaw/commit/6f076dcde78054bda4c2a7d81f41839e3aec48d7)
+- [ ] [<code>perf: narrow HTML parser type surface</code>](https://github.com/openclaw/openclaw/commit/346aa0ed4745c37df1c5669e7001e0125f74ba48)
+- [ ] [<code>perf: speed up subagent and skill tests</code>](https://github.com/openclaw/openclaw/commit/af711f9e9f61477c0c85c571a4d7ad95eff103e4)
+- [ ] [<code>test: share heartbeat override fixture</code>](https://github.com/openclaw/openclaw/commit/9d8e923ddb9708ad279863456b2ac51a4bd54ecd)
+- [ ] [<code>perf: narrow bonjour and sqlite runtime type surfaces</code>](https://github.com/openclaw/openclaw/commit/805481c176bb0fc78895a25fdda84722ed168d6c)
+- [ ] [<code>test: share ghost reminder heartbeat fixtures</code>](https://github.com/openclaw/openclaw/commit/77876bd05c12b9ccfd046e14fdc1e189986d5d90)
+- [ ] [<code>test: share exec approval policy fallback fixture</code>](https://github.com/openclaw/openclaw/commit/89a5eadd4ef630b50d205e72150bec8bf8de0dea)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: share approval session target fixture</code>](https://github.com/openclaw/openclaw/commit/9a1761d80c7b7fb286b1a9b86e60971712f0559c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore: prepare 2026.4.19-beta.1 release</code>](https://github.com/openclaw/openclaw/commit/ac8f0c9c0d6c63ac4dcfc0f01a3010c37f7c09a6)
+- [ ] [<code>test: stabilize plugin docker bundle command smoke</code>](https://github.com/openclaw/openclaw/commit/caf8d75dfbd7e9bfd2646045fe48d9d0e87002fc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share exec skill prelude fixtures</code>](https://github.com/openclaw/openclaw/commit/37bed56c1d7b1781e3c4911f7ab4f922c4a04f60)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>test: share approval channel event fixture</code>](https://github.com/openclaw/openclaw/commit/10d7c4d50e702a76967ffc72f6762fc3f2f25f7c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: share status memory fixture</code>](https://github.com/openclaw/openclaw/commit/6798cbbd529b3a3144fb76ba2bacc20d3fa31ae5)
+- [ ] [<code>test: share sessions config fixture</code>](https://github.com/openclaw/openclaw/commit/1917c09d1c28ca1f03860498d0b214e56e864c03)
+- [ ] [<code>test: share channel token account fixture</code>](https://github.com/openclaw/openclaw/commit/d1485ada9c9a8933e296f748b200b4f2a2d6a435)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share onboarding discovery beacon fixture</code>](https://github.com/openclaw/openclaw/commit/383fa94c92117adeb0b3322d17968c4e665957ac)
+- [ ] [<code>test: share daemon scheduled repair helper</code>](https://github.com/openclaw/openclaw/commit/496ccc3f732d9a3621e4250afa5bb1a403922131)
+- [ ] [<code>test: share channel add config assertion</code>](https://github.com/openclaw/openclaw/commit/5bbfa4025502d031c4122e2549a59a7238905a61)
+- [ ] [<code>test: share backup temp home helper</code>](https://github.com/openclaw/openclaw/commit/93801281938b93d60ae15c39aee7eef19d8325c6)
+- [ ] [<code>test: share dotenv env key fixtures</code>](https://github.com/openclaw/openclaw/commit/14435c8bdf95bc3526be392b24dd8adc2b9cb2a6)
+- [ ] [<code>test: share cleanup command harness</code>](https://github.com/openclaw/openclaw/commit/b73103ab8501610b52020d09ec98c3764cf29845)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share agent command runtime fixture</code>](https://github.com/openclaw/openclaw/commit/a4ac25972b9ce02cdc0efe064054c084d4faeb92)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share doctor stale plugin fixture</code>](https://github.com/openclaw/openclaw/commit/b7d362ddbb851b2bdfcb21db4561bbe8ad062ce1)
+- [ ] [<code>test: share doctor config mutation fixtures</code>](https://github.com/openclaw/openclaw/commit/f8f98c116e7b694b33165baafd276c98233b29a2)
+- [ ] [<code>test: share qmd multi-agent config fixture</code>](https://github.com/openclaw/openclaw/commit/faae8e08b3c20a582e31753de7bb4f0a36f921b0)
+- [ ] [<code>test: share subagent action fixtures</code>](https://github.com/openclaw/openclaw/commit/ff5904f5f4a5303181869b540b49eee34c5e4925)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share fetch capture fixtures</code>](https://github.com/openclaw/openclaw/commit/2d6f44b6ceaf81c37c35f23dc7082b7029546f82)
+- [ ] [<code>test: share install package fixtures</code>](https://github.com/openclaw/openclaw/commit/0969336ef67487918f87f53f90540f0a1cda07e4)
+- [ ] [<code>test: share update npm root runner</code>](https://github.com/openclaw/openclaw/commit/5200ffb90c60ebe865de53d25e4affeed72186eb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share idle timeout stream fixture</code>](https://github.com/openclaw/openclaw/commit/3d3d58516568b374b99860322cb8313a7a6bcfdd)
+- [ ] [<code>test: share media completion fixture</code>](https://github.com/openclaw/openclaw/commit/e28984c74ae67cbb69ae9254bd6ca95277094df3)
+- [ ] [<code>test: share sessions list details helper</code>](https://github.com/openclaw/openclaw/commit/e39af9545f4f75dd04a408fab08b881dc5e42e80)
+- [ ] [<code>fix: package plugin SDK alias wrappers</code>](https://github.com/openclaw/openclaw/commit/4862d349257a796f0519e5eaa17975ddc0167917)
+  - <sub>Tags: <code>v2026.4.19-beta.1</code></sub>
+- [ ] [<code>test: share channel summary fixtures</code>](https://github.com/openclaw/openclaw/commit/aa8331c836f0209f1bead4ff2eae79cee5ccc13a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test: share requester route binding fixture</code>](https://github.com/openclaw/openclaw/commit/72f4b4186b712653c21a1bf49ac8525c641027db)
+- [ ] [<code>test: share compact skill prompt fixture</code>](https://github.com/openclaw/openclaw/commit/59032f63b1e04ab8f5e6f913cc090d09c1e87419)
+- [ ] [<code>test: share model compat streaming fixture</code>](https://github.com/openclaw/openclaw/commit/a56aa6ccbe5b290979a2c3f6438670954da2fa1c)
+- [ ] [<code>test: share context window model fixture</code>](https://github.com/openclaw/openclaw/commit/1212412ff10f532401266393e05fa837564bd2b9)
+- [ ] [<code>fix: always send stream_options.include_usage when streaming openai-completions</code>](https://github.com/openclaw/openclaw/commit/c56079348243baae9b5a4d100addd12e9ff9c756)
+- [ ] [<code>test: distill openai stream usage regression coverage</code>](https://github.com/openclaw/openclaw/commit/43f6ffd0ae98cee6eb8cdbd5b267463ab3f890c0)
+- [ ] [<code>fix: always send openai stream usage flag (#68746) (thanks @kagura-agent)</code>](https://github.com/openclaw/openclaw/commit/74f0dc87dec6e45e234f6969dd1a1d7e5f72e51a)
+- [ ] [<code>test: share transcript replay defaults fixture</code>](https://github.com/openclaw/openclaw/commit/8f92c0607cd6f87446ea9ff38e63e2d0c00290e0)
+- [ ] [<code>test: share models config env fixture</code>](https://github.com/openclaw/openclaw/commit/22d99ee9df4d0eb1882638a27c5ba990fb5ef5be)
+- [ ] [<code>test: share auth profile env fixture</code>](https://github.com/openclaw/openclaw/commit/314654bd0f6b7fee110b02c88b7dfca3a283c7ce)
+- [ ] [<code>test: share subagent cleanup decision fixture</code>](https://github.com/openclaw/openclaw/commit/83a0f1fd523b5e99a1dc94b114e229b3b1c5173b)
+- [ ] [<code>test: share command delivery media fixture</code>](https://github.com/openclaw/openclaw/commit/6de5f92835168e5ab7c41fdf962b9df611d1f2c5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share cache trace memory fixture</code>](https://github.com/openclaw/openclaw/commit/67bd9edd8be930b0927037a334bc94a5ce947b18)
+- [ ] [<code>fix: scope nested agent lanes per target session (#67785) (thanks @stainlu)</code>](https://github.com/openclaw/openclaw/commit/4da808da50283f14fd25670cb3671e32deb8564f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share anthropic payload fixtures</code>](https://github.com/openclaw/openclaw/commit/199f4d78d9f9bf5b74506e8081dddbcc4548b628)
+- [ ] [<code>test: share vertex ADC auth fixture</code>](https://github.com/openclaw/openclaw/commit/bf2fbf071b21af093052c42a95518086ec1dc38b)
+- [ ] [<code>test: share sandbox docker create fixture</code>](https://github.com/openclaw/openclaw/commit/8233ca64018d01c4a59d286faa1a9dd8525a1747)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: surface preserved stale session totals (#67695) (thanks @stainlu)</code>](https://github.com/openclaw/openclaw/commit/24b915ed413ed0925a4cfefd4be6b715b759459b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share usage accumulator fixtures</code>](https://github.com/openclaw/openclaw/commit/bf5b6cba701066e2b4e8b3695ff95a6a18bac84f)
+- [ ] [<code>test: share ClawHub skill update assertion</code>](https://github.com/openclaw/openclaw/commit/9e93aa0c323eea79f75c23daff18433d59894d6b)
+- [ ] [<code>test: share escaped bundled skill fixture</code>](https://github.com/openclaw/openclaw/commit/555f74cf675bbe97ec4fb75c982e2133b8b1fef3)
+- [ ] [<code>test: share unsafe skill scan fixture</code>](https://github.com/openclaw/openclaw/commit/97a3089cecde7be0acac64eb00995e570ff38c7c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: share skill auth config fixtures</code>](https://github.com/openclaw/openclaw/commit/0a5515297eade93382d7a21500d54b34d5090327)
+- [ ] [<code>test: share bootstrap heartbeat fixture</code>](https://github.com/openclaw/openclaw/commit/0f871664c54e59f3d692f018cd1d246a7b222bee)
+- [ ] [<code>test: share model fallback probe assertions</code>](https://github.com/openclaw/openclaw/commit/6a87d6e81426b7fa77ad4f959de94ef146f21186)
+- [ ] [<code>test: share live model switch params</code>](https://github.com/openclaw/openclaw/commit/44166f7cfe593adc4985e4b2ab80edfe4366ddbc)
+- [ ] [<code>test: share BTW sanitized user assertion</code>](https://github.com/openclaw/openclaw/commit/f54cf74ef6bb76b703208381d7e978b5ad590f8a)
+- [ ] [<code>test: share auth profile env cleanup</code>](https://github.com/openclaw/openclaw/commit/1908967cfaea8e8a9b90d62063c76766e58e8f24)
+- [ ] [<code>refactor: share channel action params</code>](https://github.com/openclaw/openclaw/commit/04697eca88c44a19b5043a4d4f11436b5e9d94f8)
+- [ ] [<code>test: share mcp cache tool turn helper</code>](https://github.com/openclaw/openclaw/commit/91ad6c2739863588e433c9570ede01e197581eeb)
+- [ ] [<code>test: share exec approval disabled fixture</code>](https://github.com/openclaw/openclaw/commit/394c7a2357fca54ddd5392f7551a93cb4775a8a7)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: share gateway exec allowlist fixture</code>](https://github.com/openclaw/openclaw/commit/f5c49758fc618c7d7cf53d25f8b32516f79a2042)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: share anthropic cache payload fixture</code>](https://github.com/openclaw/openclaw/commit/ab4eb5aa94a86300f76a345be6135d3167c71eb1)
+- [ ] [<code>test: share subagent cleanup lookup</code>](https://github.com/openclaw/openclaw/commit/bfea6bebc925d6de6ae8786c546c135a1b0b0a2b)
+- [ ] [<code>test: reuse sanitize assistant fixture</code>](https://github.com/openclaw/openclaw/commit/10e14bd5be89ed6514f2805c0bd53424a9cb4892)
+- [ ] [<code>test: share compact session fixture</code>](https://github.com/openclaw/openclaw/commit/590474a9a49def533c1264db8ac82427bd507520)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: reuse run attempt fixture</code>](https://github.com/openclaw/openclaw/commit/bcbb3de7606d4913a054c58482ebed106ff2904b)
+- [ ] [<code>refactor: reuse codex search config types</code>](https://github.com/openclaw/openclaw/commit/c63d6bf5084c74274190dd72671dc36c0fa043d4)
+- [ ] [<code>refactor: share cron flat recovery</code>](https://github.com/openclaw/openclaw/commit/efda761724fb78bcb5c142f577da15f706cbd690)
+- [ ] [<code>test: share pi embedded helper setup</code>](https://github.com/openclaw/openclaw/commit/2a35ea4f07b4dcd41b99669ad263a5ec5b0384cf)
+- [ ] [<code>refactor: share model allowlist parsing</code>](https://github.com/openclaw/openclaw/commit/3eed32108187bf5c1a31b2f81344cb101c907162)
+- [ ] [<code>refactor: share provider replay hook params</code>](https://github.com/openclaw/openclaw/commit/dfe2e818298f55a2dd32a1ec30011485eba9cd98)
+- [ ] [<code>refactor: share model resolve fallback lookup</code>](https://github.com/openclaw/openclaw/commit/5ca33f7cb45cf3ddc3732bc0a0b66e96e9fbe4e9)
+- [ ] [<code>test: share media generation reset helpers</code>](https://github.com/openclaw/openclaw/commit/9686e518bcf72ac3c5a05a12a373a89c4372b2b7)
+- [ ] [<code>refactor: reduce subagent requester wrapper duplication</code>](https://github.com/openclaw/openclaw/commit/ca3e5ffd892a87578f1e53419939187e673cb67e)
+- [ ] [<code>refactor: share plugin validation diagnostics</code>](https://github.com/openclaw/openclaw/commit/2a14f769641d63edece20e64a90ad7c1f7c3fe9a)
+- [ ] [<code>refactor: share conversation target normalization</code>](https://github.com/openclaw/openclaw/commit/45381135df8d4e436e31fe17496175d707d10822)
+- [ ] [<code>refactor: share acp identity construction</code>](https://github.com/openclaw/openclaw/commit/528f296cfc7cf048cb01b8fa85b0dc35645b9a3a)
+- [ ] [<code>refactor: share legacy config migration pipeline</code>](https://github.com/openclaw/openclaw/commit/984ecd98ca190366f0b946b6ebab4ae474911651)
+- [ ] [<code>refactor: share provider plugin id filtering</code>](https://github.com/openclaw/openclaw/commit/34abb441f69c771af3b1fa8c2ae1aba317d463b8)
+- [ ] [<code>refactor: share media dimension parsing</code>](https://github.com/openclaw/openclaw/commit/d4e1a790abd03f3799b3e7c600abf8579d3ea442)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: share status scan bootstrap params</code>](https://github.com/openclaw/openclaw/commit/d385b96451912d347519ac5892045f50559db0b1)
+- [ ] [<code>refactor: share task flow create params</code>](https://github.com/openclaw/openclaw/commit/2f84c47b8bc2cccf9915d03c4a5eef11e7327908)
+- [ ] [<code>refactor: share gateway reload params</code>](https://github.com/openclaw/openclaw/commit/812f96cf24e278caa3c16ad7cbb4a6900efd5df2)
+- [ ] [<code>refactor: share config observe recovery helpers</code>](https://github.com/openclaw/openclaw/commit/83801c49f7a323c4c792867999afed56cca3c921)
+- [ ] [<code>refactor: share status memory resolver types</code>](https://github.com/openclaw/openclaw/commit/c72f539ced7253a86356f6d2762a44492b46e426)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share task executor param types</code>](https://github.com/openclaw/openclaw/commit/3e081c5d212368713745576481b488d79d9a0ec3)
+- [ ] [<code>refactor: share channel status account formatting</code>](https://github.com/openclaw/openclaw/commit/9a93ea9d7aee2832d96fe6769322fc8be46d7e2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep qa lab compat shim out of release inventory</code>](https://github.com/openclaw/openclaw/commit/bb6ba38a10ff9327bedc520424c52ad5eb501ad0)
+- [ ] [<code>chore: release 2026.4.19-beta.2</code>](https://github.com/openclaw/openclaw/commit/dc3df91e95b45cfd88fdf9fc40a07d312712c350)
+  - <sub>Tags: <code>v2026.4.19-beta.2</code></sub>
+- [ ] [<code>fix: keep cron last delivery sentinel runtime-only (#68829) (thanks @tianhaocui)</code>](https://github.com/openclaw/openclaw/commit/39cb6ecbb983c5e64c5745cd8ca63d55861a7176)
+- [ ] [<code>docs: clarify source control-ui dev/build flow (#68814)</code>](https://github.com/openclaw/openclaw/commit/6d427f8c2ac068308435dab61109d05abbeb0f01)
+- [ ] [<code>fix(ui): stop unsupported wiki RPC probes during startup (#67905)</code>](https://github.com/openclaw/openclaw/commit/a1f277e30e50ac2c537fc838265309506acdde9c)
+- [ ] [<code>test: stabilize standalone Parallels smoke lanes</code>](https://github.com/openclaw/openclaw/commit/beb2fded6d149c29b9909fd0446b9650cc77fbd6)
+- [ ] [<code>fix: strip orphaned OpenAI reasoning blocks before responses API call (#55787)</code>](https://github.com/openclaw/openclaw/commit/6682b12563a74bcad336b1441d46eeedfad8e1ac)
+- [ ] [<code>fix: stabilize release smoke reruns</code>](https://github.com/openclaw/openclaw/commit/8c4ecf42dfcf8f0265081e2801d221a70dc96886)
+- [ ] [<code>test: tolerate empty fireworks live responses</code>](https://github.com/openclaw/openclaw/commit/ec193a2b822f9367117c57254e9c3cf11ebfff21)
+- [ ] [<code>test: make OpenWebUI smoke deterministic</code>](https://github.com/openclaw/openclaw/commit/2ecea9395bf2b5d91583ec7fdf2e8eb20f703a0e)
+- [ ] [<code>tasks: extract detached task lifecycle runtime (#68886)</code>](https://github.com/openclaw/openclaw/commit/0787266637fdee32afaf1ccaf1da383f68ca54c2)
+- [ ] [<code>test: complete workspace setup in update smokes</code>](https://github.com/openclaw/openclaw/commit/53495f5136f88dc790c80fc8857065bd88dff5df)
+- [ ] [<code>fix: parse PowerShell cron tools allow-list (#68858) (thanks @chen-zhang-cs-code)</code>](https://github.com/openclaw/openclaw/commit/25e51bba5245d79677a37de6a6db280e55ae96f1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(browser): discover CDP websocket from bare ws:// URL before attach (#68715)</code>](https://github.com/openclaw/openclaw/commit/4cfc8cd5beb218b2e47cd823a9d4ddc50045bc57)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(tasks): align detached runtime mock return types</code>](https://github.com/openclaw/openclaw/commit/d83215084f3446c1212c79ce0fcddba0c07320a5)
+- [ ] [<code>browser: route existing-session user profile through browser nodes (#68891)</code>](https://github.com/openclaw/openclaw/commit/8cb73844c8005b8db9008dcc69a33ce7b4d3482d)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6415,11 +6563,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 269397 ms: Couldn't connect to server
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
