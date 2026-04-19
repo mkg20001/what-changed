@@ -6538,6 +6538,29 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(tasks): align detached runtime mock return types</code>](https://github.com/openclaw/openclaw/commit/d83215084f3446c1212c79ce0fcddba0c07320a5)
 - [ ] [<code>browser: route existing-session user profile through browser nodes (#68891)</code>](https://github.com/openclaw/openclaw/commit/8cb73844c8005b8db9008dcc69a33ce7b4d3482d)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: default kimi thinking to off (#68907)</code>](https://github.com/openclaw/openclaw/commit/4ca5f51430d74d7abb30aea6b0c192b42bd31e06)
+- [ ] [<code>docs(changelog): note kimi thinking default fix</code>](https://github.com/openclaw/openclaw/commit/28ee477930dfb33ab354a9d4076bfedbd942a110)
+- [ ] [<code>docs(changelog): add thanks for kimi fix</code>](https://github.com/openclaw/openclaw/commit/c67a9c5259074eab1b58b86a30f492d463f0955e)
+- [ ] [<code>tasks: add detached runtime plugin registration contract (#68915)</code>](https://github.com/openclaw/openclaw/commit/bd3ad3436efde3ed2834c4d20ed80765f4b2cd9e)
+- [ ] [<code>fix: tolerate partial discord channel metadata (#68953)</code>](https://github.com/openclaw/openclaw/commit/84cd78691120e1c1b80bdaf39565f6d664afc868)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>bluebubbles: consolidate HTTP traffic through typed BlueBubblesClient (#68234)</code>](https://github.com/openclaw/openclaw/commit/055c17b0887701b3879eb0127c12b32fcd290683)
+- [ ] [<code>refactor(cron): share execution id helper</code>](https://github.com/openclaw/openclaw/commit/f44a7423c239e2af9fd7a9d6a9e62692c57c9864)
+- [ ] [<code>fix(cron): key delivery dedupe by execution</code>](https://github.com/openclaw/openclaw/commit/21cfc21e4f2035fb4521e10419cf7bde84c0a521)
+- [ ] [<code>test(cron): cover recurring delivery dedupe</code>](https://github.com/openclaw/openclaw/commit/34334f0e6800ad0d33b01fbc40c235b69650bdbf)
+- [ ] [<code>fix: key recurring delivery dedupe to execution (#69000)</code>](https://github.com/openclaw/openclaw/commit/99fb9ab44498d8c999bda06af993d69be4830e3f)
+- [ ] [<code>fix: reject invalid cron announce delivery config (#69015)</code>](https://github.com/openclaw/openclaw/commit/64089fd15ed4ba8296612b1a622d11b5662c8b96)
+- [ ] [<code>fix: preserve deferred cron heartbeat target (#69021)</code>](https://github.com/openclaw/openclaw/commit/1d4e4314dddc0f4b2f48b5be541ab07b6279a138)
+- [ ] [<code>fix(whatsapp): stabilize auth state and reconcile local runtime after CLI login (#67815)</code>](https://github.com/openclaw/openclaw/commit/aa76cf43f0113b25091cd6edda0b791b0f611822)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(gateway): cover cron delivery validation follow-ups</code>](https://github.com/openclaw/openclaw/commit/c0563aa53266c689102fba7030961d6cfbd50b29)
+- [ ] [<code>fix(gateway): preserve cron delivery validation behavior</code>](https://github.com/openclaw/openclaw/commit/9b38606d5c1f8d4fdee007fe69b6d770d8e5a990)
+- [ ] [<code>docs(changelog): note cron delivery validation follow-ups</code>](https://github.com/openclaw/openclaw/commit/c206702addc9bf747c6992f1d4bd10716dd0da76)
+- [ ] [<code>fix(matrix): pin event-helpers import to canonical matrix-js-sdk subpath (refs #50477) (#68498)</code>](https://github.com/openclaw/openclaw/commit/517801282aafc6b265fcc4eaa6f4f7e91933836b)
+- [ ] [<code>Skills: add OpenClaw test performance workflow</code>](https://github.com/openclaw/openclaw/commit/d64948f5c211afd0face22ebfd90cde7a58c5cd9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Skills: require manual test performance invocation</code>](https://github.com/openclaw/openclaw/commit/55f094ea334b60201efd22b24c3fe3b9db03b503)
+- [ ] [<code>fix(matrix): hot-reload dm.allowFrom and groupAllowFrom on each inbound message (#68546)</code>](https://github.com/openclaw/openclaw/commit/f38a49898580f95716b1f786ae20393a78e865aa)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6563,19 +6586,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
-  - <sub>Tags: <code>5.13</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+POST git-upload-pack (148 bytes)
+POST git-upload-pack (gzip 3551 to 1620 bytes)
+error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
+fatal: expected 'packfile'
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
