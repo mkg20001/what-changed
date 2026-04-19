@@ -215,8 +215,12 @@
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>signalTracker.js: Don't track "destroy" for non-ClutterActors.</code>](https://github.com/linuxmint/cinnamon/commit/d14282364dcec89dd5658d9433cf39c8ccb8ce90)
 - [ ] [<code>expo/overview: Refactor to Use newer/gobject class styles, easing.</code>](https://github.com/linuxmint/cinnamon/commit/bfc454e799f0284a3c2fd3a0ec11a716b2d425bb)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>expo: Allow drag-and-drop reordering of workspaces.</code>](https://github.com/linuxmint/cinnamon/commit/5e4efae956c7d7fda750142b68d32a769906662b)
+- [ ] [<code>dnd.js: Convert GenericDragPlaceHolderItem to a real class, get rid</code>](https://github.com/linuxmint/cinnamon/commit/11ec157d95553ae7d505afe6f285134dcf4e877f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>dnd.js: Use es6 class for _Draggable.</code>](https://github.com/linuxmint/cinnamon/commit/7fd1830928e3826b0e0f89192ad12bd1b617bb7b)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
