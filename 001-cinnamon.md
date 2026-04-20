@@ -516,8 +516,12 @@
 - [ ] [<code>Set prgname to application ID (#249)</code>](https://github.com/linuxmint/warpinator/commit/599a871d64a931b75ca23e5fbd3223006b74167a)
 - [ ] [<code>warpinator-launch.py: Get rid of pre-populated google namespace</code>](https://github.com/linuxmint/warpinator/commit/8474c2828f0ca0eb32fee148483b83a9ffd66ddf)
 - [ ] [<code>build: Fix nesting output dirs when re-installing an already-built</code>](https://github.com/linuxmint/warpinator/commit/2faebac5ef1d2617171411f958631f336ea6d1d3)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>appdata: Populate with initial and recent releases.</code>](https://github.com/linuxmint/warpinator/commit/952b4e51557a710ef8d2f96c894dc5e14d2628d5)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>appdata: Mark release notes non-translatable.</code>](https://github.com/linuxmint/warpinator/commit/e07443c4afab3e69d9dcd2efbf523ef8b78faf40)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
