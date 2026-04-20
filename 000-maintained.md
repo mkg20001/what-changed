@@ -6561,6 +6561,21 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 - [ ] [<code>Skills: require manual test performance invocation</code>](https://github.com/openclaw/openclaw/commit/55f094ea334b60201efd22b24c3fe3b9db03b503)
 - [ ] [<code>fix(matrix): hot-reload dm.allowFrom and groupAllowFrom on each inbound message (#68546)</code>](https://github.com/openclaw/openclaw/commit/f38a49898580f95716b1f786ae20393a78e865aa)
+- [ ] [<code>bluebubbles: always set method explicitly on text sends, force Private API on macOS 26 (#69070)</code>](https://github.com/openclaw/openclaw/commit/8fbf0972e745b83bbb6b12874f8059b3c78d9f1f)
+- [ ] [<code>Add Matrix QA coverage for MXID-prefixed commands</code>](https://github.com/openclaw/openclaw/commit/efc19f0ddba29690d1755c41eae3e7374760a292)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(matrix): strip mention prefix before slash command matching (#68570)</code>](https://github.com/openclaw/openclaw/commit/733c0c2fda829e60c31f32b6c256a7424165f0d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(docs): remove stale ref</code>](https://github.com/openclaw/openclaw/commit/4d4f3eb404f8bdd27b4b5415806ab90b27dd1f79)
+- [ ] [<code>refactor(terminal): optimize log sanitization (#67205)</code>](https://github.com/openclaw/openclaw/commit/f039d80306f40ccf2b8020ec28852e7df28c1814)
+- [ ] [<code>fix(matrix): align mention-stripped command body</code>](https://github.com/openclaw/openclaw/commit/f309656325143775be16bbd8caf3b79d7eb0cb0e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>qa-matrix: cover Matrix allowlist hot reload</code>](https://github.com/openclaw/openclaw/commit/f9a18751271a3959bca4e04809bffea5d940d580)
+- [ ] [<code>fix(subagent): include role, session key, and timing in error payloads (#68726)</code>](https://github.com/openclaw/openclaw/commit/4277078bc515914c48190721897a8fba92ed37c7)
+- [ ] [<code>fix: invalidate orphaned sessions on agent deletion (#65986)</code>](https://github.com/openclaw/openclaw/commit/d41c9860d79d816034bfa79a21c7f64b99f29c05)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve deleted main session targets</code>](https://github.com/openclaw/openclaw/commit/f06493f0eaffa23a18229d17eaccb07c1039e28b)
+- [ ] [<code>Tests: isolate sessions spawn registry seam</code>](https://github.com/openclaw/openclaw/commit/6159b17cdf001563aeecc16c12c27cf4ea29abd7)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -6586,14 +6601,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-POST git-upload-pack (148 bytes)
-POST git-upload-pack (gzip 3551 to 1620 bytes)
-error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
-fatal: expected 'packfile'
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
