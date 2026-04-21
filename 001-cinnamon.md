@@ -220,6 +220,10 @@
 - [ ] [<code>dnd.js: Convert GenericDragPlaceHolderItem to a real class, get rid</code>](https://github.com/linuxmint/cinnamon/commit/11ec157d95553ae7d505afe6f285134dcf4e877f)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>dnd.js: Use es6 class for _Draggable.</code>](https://github.com/linuxmint/cinnamon/commit/7fd1830928e3826b0e0f89192ad12bd1b617bb7b)
+- [ ] [<code>Add PopupDialog widget - draggable, re-focusable dialog.</code>](https://github.com/linuxmint/cinnamon/commit/81eba1c670c1e4ff1b2747d704247f7aa246ec81)
+- [ ] [<code>mounts/autorun/endSession: Convert to PopupDialog.</code>](https://github.com/linuxmint/cinnamon/commit/7efb8a0beb36a8736dc3e720f8268a62ad0970c4)
+- [ ] [<code>js: Move mount/autorun dialog test widgets to their own folder.</code>](https://github.com/linuxmint/cinnamon/commit/914a28fa32951066bf3c267b27aaa09ac395d56b)
+- [ ] [<code>js/ui: Actually delete moved tests (followup to 914a28fa329).</code>](https://github.com/linuxmint/cinnamon/commit/b3965eedc914f98b0b90eaeff9044aa4f38642ef)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
