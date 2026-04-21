@@ -2991,6 +2991,17 @@
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Fix non-minimal relative imports in flutter_tools (#183971)</code>](https://github.com/flutter/flutter/commit/334ee31747ea0ea30a6d3f424fea15cd603752a1)
 - [ ] [<code>Roll Skia from 3b338913f623 to f8637ade3d92 (9 revisions) (#185331)</code>](https://github.com/flutter/flutter/commit/7428429caa0b3d16ed17dcf88b93885b10edf314)
+- [ ] [<code>Roll Skia from f8637ade3d92 to a234f0ed7245 (2 revisions) (#185334)</code>](https://github.com/flutter/flutter/commit/fa00ea0d9089b0c5a79e6d66da6a32500743506e)
+- [ ] [<code>fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE (#184572)</code>](https://github.com/flutter/flutter/commit/0885f214249c5c8a16b76d178351ffa1247af365)
+- [ ] [<code>Reland "Unpin google_mobile_ads" (#180838)</code>](https://github.com/flutter/flutter/commit/3d0e8228240f4c9e267e23fe4c9811132cc49f0d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>[data_assets] Try fix #184505 (#185330)</code>](https://github.com/flutter/flutter/commit/cf8f0d72c2df82a581e47af065ba8a8a6205bd5f)
+- [ ] [<code>Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus (#184884)</code>](https://github.com/flutter/flutter/commit/3955e2b1535a03eae96a5cf7d1c2f99d47a619f9)
+- [ ] [<code>Roll Skia from a234f0ed7245 to 21789d5e2fee (1 revision) (#185349)</code>](https://github.com/flutter/flutter/commit/a06bb5ab6038f2a55296c169aaffda6ce3360600)
+- [ ] [<code>Improve the error if the tool cannot find the locally built engine (#184546)</code>](https://github.com/flutter/flutter/commit/a28da9a7182fca9241117bc460b5547a51cacd39)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Roll Packages from 01c505f1db24 to 7c8e13eef519 (4 revisions) (#185361)</code>](https://github.com/flutter/flutter/commit/8787e42bfd8ea1eb8673d6f9c866641083764936)
+  - <sub>Keywords: <code>bin</code></sub>
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3852,6 +3863,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Improve UUID handling in SQLite functions and error reporting (#22233)</code>](https://github.com/netdata/netdata.git/commit/ea07b4c1e761cc66491c5460fbf1a56058533296)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-54-nightly.</code>](https://github.com/netdata/netdata.git/commit/610ee257495e6bbc013612d137475b3c685438af)
 - [ ] [<code>ebpf.plugin: fix PID accounting shared-memory pool leak and 100% CPU spin (#22232)</code>](https://github.com/netdata/netdata.git/commit/bd385505c111ee6684738878b84cac7e113edfb6)
+- [ ] [<code>feat: replace cgroups-ebpf SHM transport with netipc IPC (#22221)</code>](https://github.com/netdata/netdata.git/commit/79d43657a332daf9947c2f8dfa45a21b8656c5a4)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat(topology/snmp): SNMP L2/L3 topology engine and collector (#22109)</code>](https://github.com/netdata/netdata.git/commit/ebd373c8f07615b264fbb30bd36e26c312b8bf1b)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(netflow): NetFlow/IPFIX/sFlow flow analysis plugin (#22111)</code>](https://github.com/netdata/netdata.git/commit/745469e3f7caa9f69f0d90f8ac98f2be67178692)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7577,6 +7596,80 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix: fix Telegram media file delivery (#69641)</code>](https://github.com/openclaw/openclaw/commit/f1df354222f8c05bcc8ef7d6780238a8ad2bceea)
 - [ ] [<code>fix(agents): honor explicit long Anthropic cache TTL on custom hosts (#67800)</code>](https://github.com/openclaw/openclaw/commit/4bacdc882454fa6ae557d6522f778b630cb4c4a2)
 - [ ] [<code>docs(changelog): deduplicate #67800 entries in Unreleased (#69670)</code>](https://github.com/openclaw/openclaw/commit/850b6d2d4616a875c8dbc9823f8f834c2e77ef6e)
+- [ ] [<code>fix(codex): exclude codex-app-server synthetic apiKey from secrets audit (#69581)</code>](https://github.com/openclaw/openclaw/commit/081da17090b94405406904e0d223cfae15b2d1b7)
+- [ ] [<code>fix(tui): arm streaming watchdog on every delta, not only visible ones (#69338)</code>](https://github.com/openclaw/openclaw/commit/89b6d0248159c2357b1e151e00c6e30396ee02f0)
+- [ ] [<code>fix(agents): enforce subagent envelope inheritance on ACP child sessions [AI-assisted] (#69383)</code>](https://github.com/openclaw/openclaw/commit/31160dc069b7cc5d833b39c53736a41ad3befda2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preload slugged startup memory files (#69600)</code>](https://github.com/openclaw/openclaw/commit/06ff594a3e9910f8144c9a389331068d1f46e90f)
+- [ ] [<code>perf(plugin-sdk): per-phase + per-jiti-call probes for bundled channel entries (#69537)</code>](https://github.com/openclaw/openclaw/commit/4407df6c03048cfba697a6e1b01d7325626893d8)
+- [ ] [<code>fix(zalo): add SSRF guard on outbound photo URLs [AI-assisted] (#69593)</code>](https://github.com/openclaw/openclaw/commit/a65eb1b864b7630c1242a82de9e5799b80583c3f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(zalo): use managed temp dir for outbound media</code>](https://github.com/openclaw/openclaw/commit/ce0e191ae071ec1b6b33691378e20aee5e3f0ed7)
+- [ ] [<code>test(zalo): use preferred tmp dir in outbound media test</code>](https://github.com/openclaw/openclaw/commit/68fd946e6d4c7f8f882bd30de2d26d1f4edc0927)
+- [ ] [<code>feat: add soft reset command (#68635)</code>](https://github.com/openclaw/openclaw/commit/714598774fb54fb0f5e02508d21bce9d81bb8b67)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: run packed bundled postinstall in release check</code>](https://github.com/openclaw/openclaw/commit/d2185bd45b3c73260d2822dee3adb6a4321f948f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>fix: support older shells in parallels smoke</code>](https://github.com/openclaw/openclaw/commit/66a5864c2ac213a987c046ebf1b08a06cecb1f7e)
+- [ ] [<code>fix: avoid empty bash arrays in linux smoke</code>](https://github.com/openclaw/openclaw/commit/9d3c155bf80c84d8f89a7bea84441d9121d90cbb)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: guard empty docker host args in install smoke</code>](https://github.com/openclaw/openclaw/commit/e01c76eaf9af0abb7d481c212b39388a2aa007fd)
+- [ ] [<code>test: accept codex active-model fallback</code>](https://github.com/openclaw/openclaw/commit/de31f91417ea5febead5cb3351669c02a85443ee)
+- [ ] [<code>test: accept codex sandbox approval fallback</code>](https://github.com/openclaw/openclaw/commit/9a7a6371170b2675b75194cfec3f6ab41fe8307a)
+- [ ] [<code>test: accept codex elevated execution fallback</code>](https://github.com/openclaw/openclaw/commit/f9925421320e2e7d257d7bd39a42a0a78468b647)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: generalize codex rejected-permission fallback</code>](https://github.com/openclaw/openclaw/commit/68e97c99690be9a21ac7d51a782720a2a7b11cf6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: accept codex not-approved fallback</code>](https://github.com/openclaw/openclaw/commit/99c3ec15dff4ac3c6a726097679d8a519660f8be)
+- [ ] [<code>fix: lazy-load discord carbon runtime for npm install</code>](https://github.com/openclaw/openclaw/commit/34a52ea777d10bee6152cd95d865189ae2d8da85)
+- [ ] [<code>test: stabilize stale-pid ancestor override</code>](https://github.com/openclaw/openclaw/commit/06b4e3885e8b7bd1f2fb7aed6816fc4194154811)
+- [ ] [<code>onboard (ollama): populate cloud-only model list from ollama.com/api/tags (#68463)</code>](https://github.com/openclaw/openclaw/commit/1be94b7a374efd44d9c6adfcf953c97ec4034faf)
+- [ ] [<code>onboard: plain-prose security disclaimer, searchable pickers for search/plugins/model-provider (#69760)</code>](https://github.com/openclaw/openclaw/commit/4fdd005b88967a2eca5e20b600b8ffae3ce57b39)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: require owner identity for owner-enforced commands (#69774)</code>](https://github.com/openclaw/openclaw/commit/2aa93d44a1b2c7058c371f261fda2b5d4de4a882)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(control-ui): block remote image loads (#69773)</code>](https://github.com/openclaw/openclaw/commit/e6e83e6ccf2ee82b12f5193ca7fe3b2527404ffa)
+- [ ] [<code>fix(dev): release run-node build lock on SIGINT/SIGTERM/exit (#69785)</code>](https://github.com/openclaw/openclaw/commit/acb27bac3a02c87851de2c4f79aa3001b8770826)
+- [ ] [<code>perf(matrix): narrow register-time runtime surface (#69782)</code>](https://github.com/openclaw/openclaw/commit/13636c4521911d64f226a16b82fa9f2f925ed32b)
+- [ ] [<code>feat(channels): stream tool progress into preview edits (#69611) (thanks @thewilloftheshadow)</code>](https://github.com/openclaw/openclaw/commit/38aaa23e6317967dd44226b8717f698d5f69a872)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(qqbot): extract self-contained engine/ architecture with QR-code onboarding, approval handling (#67960)</code>](https://github.com/openclaw/openclaw/commit/5e72e39c1852a82e8002187b7c9b0c84214e0b08)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>perf: speed up telegram channel registration (#69786)</code>](https://github.com/openclaw/openclaw/commit/ddc1d9aa54fbdeab26ef05e7de45b3f48b0c7d41)
+- [ ] [<code>docs: clarify rescue bot gateway setup (#69788)</code>](https://github.com/openclaw/openclaw/commit/09c5669299aaa2e53bbf866c577ec242a9adff99)
+- [ ] [<code>fix(cli): keep channel status checks off plugin runtimes (#69479)</code>](https://github.com/openclaw/openclaw/commit/24db09a19bde499071e9a85497d753bd3158f51d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: remap thinking levels on model switch</code>](https://github.com/openclaw/openclaw/commit/bcfa781a1b37aba841e61b88ad21053344bc9f06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(synology): validate webhook file urls (#69784)</code>](https://github.com/openclaw/openclaw/commit/38356c658afe0c43030762d9756d5fde1fe697ee)
+- [ ] [<code>docs: front-load rescue bot quickstart (#69803)</code>](https://github.com/openclaw/openclaw/commit/5218c1a01ff47b6ab1bcff813e7b956be55db0ac)
+- [ ] [<code>ci: use larger Blacksmith macOS runners</code>](https://github.com/openclaw/openclaw/commit/b2b43085bcb2c0a3262f7207b5d6020ae7efca04)
+- [ ] [<code>fix: break provider thinking import cycle</code>](https://github.com/openclaw/openclaw/commit/61564147f3bfe0204d16f87866158b0bbfffaf06)
+- [ ] [<code>test: cover active provider thinking registry</code>](https://github.com/openclaw/openclaw/commit/47cfdd2df1e108ce7939beb13cea7b9ccfb69deb)
+- [ ] [<code>docs: restore general multi-gateway guidance (#69810)</code>](https://github.com/openclaw/openclaw/commit/dcf131e54c611297329354eebc60a5e4acae8869)
+- [ ] [<code>fix: prevent stale subagent failure announces</code>](https://github.com/openclaw/openclaw/commit/11efbf5a2eb238c5e313f37443a1bd0f1f729714)
+- [ ] [<code>fix: update Copilot Opus default to 4.7</code>](https://github.com/openclaw/openclaw/commit/2161ed8259692d03f5360949ed9d689952c58bd0)
+- [ ] [<code>docs: add Copilot Opus changelog (#69818) (thanks @shakkernerd)</code>](https://github.com/openclaw/openclaw/commit/fb7bfb411cdb2b6b094fc47317d63a33c3e31da9)
+- [ ] [<code>fix: sanitize LLM special tokens in external content</code>](https://github.com/openclaw/openclaw/commit/2514746b32612f0cac31289fd6b382c24b6515a9)
+- [ ] [<code>feat(fireworks): add Kimi K2.6 model</code>](https://github.com/openclaw/openclaw/commit/6f004ed4d41301a4a32ade91d6637f1ed5f07abc)
+- [ ] [<code>fix(deps): keep qqbot connector plugin-local</code>](https://github.com/openclaw/openclaw/commit/0a6ce260ed19d7af620606bb19e97548274dd568)
+- [ ] [<code>test: cover Telegram session recreation</code>](https://github.com/openclaw/openclaw/commit/895ac965da46ca92716aae3a4da87d94a32e09ea)
+- [ ] [<code>perf: speed up discord channel registration (#69791)</code>](https://github.com/openclaw/openclaw/commit/6b185e2849a55f0927d9232908e5ae6a800a0db9)
+- [ ] [<code>fix(gateway): require auth for control UI avatar route (#69775)</code>](https://github.com/openclaw/openclaw/commit/2ce16e558e9982c41cdb3b3e7e409a9ce27973ec)
+- [ ] [<code>ci: support release branch mac validation</code>](https://github.com/openclaw/openclaw/commit/8d289306de424c83e0a9337fa1c66f9fd572bf0b)
+- [ ] [<code>chore: update appcast for 2026.4.20</code>](https://github.com/openclaw/openclaw/commit/ccfef0f13fea0653f52989cd898a7bb53e066f52)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(exec): block heredoc parameter expansion (#69795)</code>](https://github.com/openclaw/openclaw/commit/b2e8b7d4bb2f22eaa16f5c4b07547774e90b65a5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci(deps): gate extension-owned root dependencies</code>](https://github.com/openclaw/openclaw/commit/e5af4e3b5cbf4cf6a8043ae353f9eb52f3efeb5b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: cover BB tapback fallback, iMessage/SMS routing, Mattermost streaming, Matrix mention-prefixed slash</code>](https://github.com/openclaw/openclaw/commit/7d7c0b1dfe47baf8d7ff5181db8a146b8203c951)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document WS broadcast scope gating and Control UI img-src CSP</code>](https://github.com/openclaw/openclaw/commit/32ccf27e60a3b4c0beccd957c21f144c592e3cbf)
+- [ ] [<code>docs: document stdio env filter, enforceOwnerForCommands, OPENCLAW_* .env blocking</code>](https://github.com/openclaw/openclaw/commit/b4a59be9b6f238aa35d00190ac800ca91f12c376)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: plugin manifest precedence, QQBot engine/bot-approve/QR onboarding, web-search plugin-scoped SecretRefs</code>](https://github.com/openclaw/openclaw/commit/78030d0d52bbe9aa191fa3ad422a44531e585f2f)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
