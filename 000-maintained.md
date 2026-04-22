@@ -3002,6 +3002,17 @@
   - <sub>Keywords: <code>bin</code></sub>
 - [ ] [<code>Roll Packages from 01c505f1db24 to 7c8e13eef519 (4 revisions) (#185361)</code>](https://github.com/flutter/flutter/commit/8787e42bfd8ea1eb8673d6f9c866641083764936)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Roll Fuchsia Linux SDK from LPa7NLiXEZP2A7IwZ... to UdpQnaP5eSaDZd3-i... (#185359)</code>](https://github.com/flutter/flutter/commit/661219bbb0952ce969af0537fa25c720fd4c78cb)
+- [ ] [<code>complex_layout_scroll_perf_macos_impeller__timeline_summary out of bringup (#185356)</code>](https://github.com/flutter/flutter/commit/18c2a8e41ae37e5b2acb23db7565d00f7a4e0f01)
+- [ ] [<code>platform_view_macos_impeller__start_up out of bringup (#185354)</code>](https://github.com/flutter/flutter/commit/62fe48ed417e5b8483b008cfe6812ad917ef1dd1)
+- [ ] [<code>Update libimobiledevice and dependencies (#181932)</code>](https://github.com/flutter/flutter/commit/e166967d22c75843b491cbaf4a478befd4d16bad)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Roll Skia from 21789d5e2fee to 019de7776cfa (9 revisions) (#185365)</code>](https://github.com/flutter/flutter/commit/ba6ed4a059e18a8bb0c6f7c497ac5050509fc54f)
+- [ ] [<code>new_gallery_macos_impeller__transition_perf out of bringup (#185355)</code>](https://github.com/flutter/flutter/commit/047f4edc41af9292e4b374dc6d4c3b6dd122805b)
+- [ ] [<code>Compatibility bridge for analyzer 12 and 13. (#185360)</code>](https://github.com/flutter/flutter/commit/16fa54ceb8547325242e69668eeabfc9f367549b)
+- [ ] [<code>Update the text input triage process to route to platform teams (#185225)</code>](https://github.com/flutter/flutter/commit/42244f29d3735254b272e2fd4e1ab5710fca1ff9)
+- [ ] [<code>[flutter] Remove dead check on null being in a set of non-nullables (#184100)</code>](https://github.com/flutter/flutter/commit/fbbb6d795b49609106a6946a60a7615e5747c6cc)
+- [ ] [<code>Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition` (#185003)</code>](https://github.com/flutter/flutter/commit/9aa1df2a528f111d86f1fb5b71eb0116211f1f4d)
 
 #### [fw-ectool](https://gitlab.howett.net/DHowett/ectool): [abdd574ebe3640047988cb928bb6789a15dd1390 → HEAD](https://gitlab.howett.net/DHowett/ectool/compare/abdd574ebe3640047988cb928bb6789a15dd1390...HEAD)
 
@@ -3871,6 +3882,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat(netflow): NetFlow/IPFIX/sFlow flow analysis plugin (#22111)</code>](https://github.com/netdata/netdata.git/commit/745469e3f7caa9f69f0d90f8ac98f2be67178692)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-59-nightly.</code>](https://github.com/netdata/netdata.git/commit/7b517cd14c99e3754051305af12f37886f3e8bf8)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7670,6 +7682,74 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: plugin manifest precedence, QQBot engine/bot-approve/QR onboarding, web-search plugin-scoped SecretRefs</code>](https://github.com/openclaw/openclaw/commit/78030d0d52bbe9aa191fa3ad422a44531e585f2f)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(plugin-sdk): add presentation and skills runtime contracts</code>](https://github.com/openclaw/openclaw/commit/d7a173e60edb40367e899ed3ba51e48c2158d35f)
+- [ ] [<code>refactor(channels): decouple presentation rendering</code>](https://github.com/openclaw/openclaw/commit/fd0970c077377a30847efb3d118bac7dd093891b)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>feat(plugins): add experimental skill workshop</code>](https://github.com/openclaw/openclaw/commit/c742a706bf2b6dc5b63152c77177957013eb37ed)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(plugins): document message presentation cards</code>](https://github.com/openclaw/openclaw/commit/674feda214f8151f7fd5a2aff1d10162993cf6c1)
+- [ ] [<code>fix(gateway): derive loopback owner context from token (#69796)</code>](https://github.com/openclaw/openclaw/commit/3cb1a56bfc9579a0f2336f9cfa12a8a744332a19)
+- [ ] [<code>docs: tool-progress preview streaming, Control UI avatar auth, exec heredoc and external-content token sanitization</code>](https://github.com/openclaw/openclaw/commit/9702f0bf213e0fc29bde708a713c8b9ff4f0ed0d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: note Kimi K2.6 thinking-disabled on Fireworks and Ollama cloud onboard live-tag fetch</code>](https://github.com/openclaw/openclaw/commit/8f1a87ea47f207a282c9db3b583d9098a32cb537)
+- [ ] [<code>chore: start 2026.4.21 development</code>](https://github.com/openclaw/openclaw/commit/0b1a35363ee6241a2b5b391cdf20b78d7143c46a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(openai): default images to gpt-image-2</code>](https://github.com/openclaw/openclaw/commit/aa94501f5f3e17c916010f7bb4411617d595efe2)
+- [ ] [<code>ci: speed up release metadata pre-commit checks</code>](https://github.com/openclaw/openclaw/commit/8d1b3d45788295043b2a21a509a241e347c07ed1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs(channels): clean troubleshooting link labels, generic imessage path placeholder, drop msteams stamped date</code>](https://github.com/openclaw/openclaw/commit/ff67a890af4d869efa429d49b20447289d7c9b26)
+- [ ] [<code>fix(agents): skip sessions_send A2A flow for parent-owned ACP children</code>](https://github.com/openclaw/openclaw/commit/1c3fbbd72a019879893c93b5d7838a590c34460b)
+- [ ] [<code>fix(agents): gate sessions_send A2A skip on requester ownership</code>](https://github.com/openclaw/openclaw/commit/8a7c21407ae31dc960672b06fe464343a06a47eb)
+- [ ] [<code>fix: land ACP child sessions_send guard (#69817) (thanks @scotthuang)</code>](https://github.com/openclaw/openclaw/commit/ae4c5cd460b4e2b0c9e67a956ded9bcdff01f632)
+- [ ] [<code>fix(openshell): pin host writes to sandbox root (#69797)</code>](https://github.com/openclaw/openclaw/commit/7be82d4fd1193bcb7e44ee38838f00bf924ffa76)
+- [ ] [<code>docs(providers): alphabetize Cloudflare/ComfyUI and vLLM/Vydra entries</code>](https://github.com/openclaw/openclaw/commit/b2f96f7f05ba7e88f9a200616be15eda5cc542ea)
+- [ ] [<code>fix(ollama): register media-understanding provider so image tool can route ollama/* models</code>](https://github.com/openclaw/openclaw/commit/9a22cd212b1e4a01d571680a329657f38f0dd54c)
+- [ ] [<code>docs: note Ollama image routing (#69816) (thanks @soloclz)</code>](https://github.com/openclaw/openclaw/commit/a7ff7dd945def230f958f09657aa0250bd68476e)
+- [ ] [<code>fix: route explicit image describe models</code>](https://github.com/openclaw/openclaw/commit/e71e5433505f0820b238b8328d825b7607f7d188)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(help): add frontmatter to gpt54-codex parity docs</code>](https://github.com/openclaw/openclaw/commit/f1f6214fd576052faf5155d08cd59766bd224f1b)
+- [ ] [<code>docs: document Ollama image understanding</code>](https://github.com/openclaw/openclaw/commit/d2f68af615c924db067478e1b2d6bc58310fd2fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(gateway): replace user-facing 'extension' references with 'plugin' per terminology rules</code>](https://github.com/openclaw/openclaw/commit/475e6ff1d15f401e7aae336c47e6451b1bb2570f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(slack): preserve thread aliases in runtime outbound sends (#62947)</code>](https://github.com/openclaw/openclaw/commit/49b233caa1cdac805a5899717ef12d7134739560)
+- [ ] [<code>test: optimize slow test hotspots</code>](https://github.com/openclaw/openclaw/commit/d1e3789e158c9c6921552408581612b16eb25c2a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(install): mirror node-domexception override for npm (#69819)</code>](https://github.com/openclaw/openclaw/commit/b5c4aaf2a70b0ffcf0e752667ab28f703c8cd83b)
+- [ ] [<code>fix(image-generation): log provider fallback failures</code>](https://github.com/openclaw/openclaw/commit/74668ea8a17e52a2191deed108d96f979a4d639d)
+- [ ] [<code>fix(tlon): guard memex upload target (#69794)</code>](https://github.com/openclaw/openclaw/commit/ee316dbc4bac668f88e6f54879b08b3dc926b27e)
+- [ ] [<code>test: speed channel contract suites</code>](https://github.com/openclaw/openclaw/commit/824c4785e40c549d5c3e0c33b8ebe5110d274940)
+- [ ] [<code>fix(prompt): align system prompt messaging and subagent routing guidance (#64059)</code>](https://github.com/openclaw/openclaw/commit/14dcbd4044ca0752d512d648a6b25ed0e67fa4e6)
+- [ ] [<code>fix(agents): Wake active requester sessions for subagent completions while keeping dormant sessions externally deliverable (#62963)</code>](https://github.com/openclaw/openclaw/commit/0e1d324dd842980191d767b3379d1b8fd53a97bf)
+- [ ] [<code>perf(cli): lazy-load doctor plugin paths (#69840)</code>](https://github.com/openclaw/openclaw/commit/66add9fcd96a7262914107c7aac8c69d8c0392ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: wrap oversized session lines before JSONL write (#64494)</code>](https://github.com/openclaw/openclaw/commit/1acb094579edaee2cb6bc3703bbbf6766bd30ce9)
+- [ ] [<code>fix(qmd): Dedup in-flight manager creation so only one full QMD manager arms per agent/config at a time, eliminating the concurrent exportSessions() collisions that triggered path changed during write errors (#65226)</code>](https://github.com/openclaw/openclaw/commit/dfe0e49c8a3f4c860231fc2bee7a5736c72985c4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: tighten optimizetests skill</code>](https://github.com/openclaw/openclaw/commit/acf67c1a4211f2aa0c6c0d6019c55aa5e9edadd9)
+- [ ] [<code>fix(slack): narrow first turn context seeding to remove redundant thread-starter content (#68402)</code>](https://github.com/openclaw/openclaw/commit/70683179a0fc720e63151f6ac9f9a6c46528969a)
+- [ ] [<code>test: lazy-load openai provider catalog contract</code>](https://github.com/openclaw/openclaw/commit/df3fcbd716f58663e6b2c03886cff8ab5b633c64)
+- [ ] [<code>ci: cap stuck checkout retries</code>](https://github.com/openclaw/openclaw/commit/e822e71410955cda6d781b09603b418e705f75b0)
+- [ ] [<code>ci: quiet mlx swift manifest warnings</code>](https://github.com/openclaw/openclaw/commit/6966f018f7bad5281d5289c795fd23c8b05bd2c5)
+- [ ] [<code>ci: avoid external gradle action in android checks</code>](https://github.com/openclaw/openclaw/commit/cc8ecde36403cb065c02dd9b85296fdde92aef5e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci: cap android checkout and use build cache</code>](https://github.com/openclaw/openclaw/commit/6bf56d8637fc5b5ef6f4284b235e1f2ef5192b17)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(slack): Annotate inbound Slack mention tokens in Slack RawBody and BodyForAgent content so the agent sees both the actionable Slack mention token and a human-readable name. (#65731)</code>](https://github.com/openclaw/openclaw/commit/e116b343b25224b1ae4f3102ec30fda511625203)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: preserve swift build cache hits</code>](https://github.com/openclaw/openclaw/commit/a426ef5b6aa8ac00ed6a115df06d246bce4b7d7f)
+- [ ] [<code>ci: skip swift package patch in macos node lane</code>](https://github.com/openclaw/openclaw/commit/85c63942a55711fec1e275558e0c18329b60d409)
+- [ ] [<code>docs(skills): add duplicate triage maintainer skill (#69780)</code>](https://github.com/openclaw/openclaw/commit/99787dbf45e4f8093bf0954079b7479fd735e559)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci: increase package boundary compile concurrency</code>](https://github.com/openclaw/openclaw/commit/37463af5e1a27a36fe1eb9059f3fe24cf044ed38)
+- [ ] [<code>chore(docs): update stale docs ref</code>](https://github.com/openclaw/openclaw/commit/06a6dd5a6b70865dc14b97083cddf806c5abd559)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>WhatsApp: add group and direct system prompt support (#59553)</code>](https://github.com/openclaw/openclaw/commit/08bc16853ef47fe4793f5f5c2a2a781643e0ce40)
+- [ ] [<code>fix(discord): keep slash follow-ups ephemeral (#69869)</code>](https://github.com/openclaw/openclaw/commit/19354c9a6a95f6c7867f86e55f8f461030fd08e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: validate plugin source entries before runtime inference (#69868)</code>](https://github.com/openclaw/openclaw/commit/819d15481d83494ebf8519c1f1e299d0fffd4750)
+- [ ] [<code>ci: preserve exact swift build cache</code>](https://github.com/openclaw/openclaw/commit/ce0541893025c34908ca1018bcb0d64671b31b1a)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
