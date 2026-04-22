@@ -224,7 +224,11 @@
 - [ ] [<code>mounts/autorun/endSession: Convert to PopupDialog.</code>](https://github.com/linuxmint/cinnamon/commit/7efb8a0beb36a8736dc3e720f8268a62ad0970c4)
 - [ ] [<code>js: Move mount/autorun dialog test widgets to their own folder.</code>](https://github.com/linuxmint/cinnamon/commit/914a28fa32951066bf3c267b27aaa09ac395d56b)
 - [ ] [<code>js/ui: Actually delete moved tests (followup to 914a28fa329).</code>](https://github.com/linuxmint/cinnamon/commit/b3965eedc914f98b0b90eaeff9044aa4f38642ef)
+- [ ] [<code>screensaver: Clear cinnamon modal before activating.</code>](https://github.com/linuxmint/cinnamon/commit/ed81d01b48a352ce7bb4b2941f1616285ebcf2d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>screensaver: Move custom-screensaver check to the controller, so</code>](https://github.com/linuxmint/cinnamon/commit/64bb7476ce626786aaee75150cd691ef28808966)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
