@@ -57,6 +57,7 @@
 - [ ] [<code>device: realign DEV_OPT_* bits with DEV_ATTR_* enum positions</code>](https://git.openwrt.org/project/netifd.git/commit/18ba5f3e357533576245db73a8c036e7897635c1)
 - [ ] [<code>device: centralise device-attr diff handling in device_set_config</code>](https://git.openwrt.org/project/netifd.git/commit/5bddddb4df09c1ca5d2853baba6a3e6c7ca7d861)
 - [ ] [<code>device: live-apply pure-sysctl config changes without teardown</code>](https://git.openwrt.org/project/netifd.git/commit/1375538b9d8361abd91da909410f9dd62c56c26c)
+- [ ] [<code>system-linux: gate ethtool reapply on apply_mask</code>](https://git.openwrt.org/project/netifd.git/commit/8c319597d6aa5a06a23020d9c62127ab9b8ff3e1)
 
 #### [ubus](https://git.openwrt.org/project/ubus.git): [60e04048a0e2f3e33651c19e62861b41be4c290f → HEAD](https://git.openwrt.org/project/ubus.git/compare/60e04048a0e2f3e33651c19e62861b41be4c290f...HEAD)
 
