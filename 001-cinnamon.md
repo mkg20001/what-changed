@@ -227,8 +227,9 @@
 - [ ] [<code>screensaver: Clear cinnamon modal before activating.</code>](https://github.com/linuxmint/cinnamon/commit/ed81d01b48a352ce7bb4b2941f1616285ebcf2d3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>screensaver: Move custom-screensaver check to the controller, so</code>](https://github.com/linuxmint/cinnamon/commit/64bb7476ce626786aaee75150cd691ef28808966)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>polkitAuthenticationAgent.js: Fix initial focus widget.</code>](https://github.com/linuxmint/cinnamon/commit/b389ce8c0907baee68177c5d58d9fdf0d460974e)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -311,8 +312,10 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/f363155157fb7eeffc0d5e38222d9e70c1fd6d76)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>debian: Add automount desktop file for removal.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d92af861d00c166d8134cda45c04933b4cf34bf3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
