@@ -1781,6 +1781,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>web_client: allow MCP Streamable HTTP headers in CORS preflight (#22258)</code>](https://github.com/netdata/netdata.git/commit/da62bf57870385ce4ffcc8b3429fd12f6e7b447b)
 - [ ] [<code>remove mcp-web-client and mcp-test-client from tree (#22257)</code>](https://github.com/netdata/netdata.git/commit/70e5379ef80849740df807ca97c795c69aa6234b)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Active Directory  (windows.plugin) (#22093)</code>](https://github.com/netdata/netdata.git/commit/ff6cde51f4e7347d4d198b27c3292701e866b30a)
+- [ ] [<code>Remove VLA (variable-length arrays)  (libnetdata) (#22218)</code>](https://github.com/netdata/netdata.git/commit/f54defa27b005f2f1b71e9af699e58640d06cd94)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: add architecture connectivity diagram to welcome page (#22261)</code>](https://github.com/netdata/netdata.git/commit/8d65b11edb0444c2c9aca229792544632f311755)
+- [ ] [<code>Fix memory-safety and correctness bugs surfaced by Coverity audit (part 1) (#22266)</code>](https://github.com/netdata/netdata.git/commit/a50db9c14d3fc8c2d3eddde0bd37b253721b42a2)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -4785,6 +4790,230 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: fold sandbox skill sync coverage</code>](https://github.com/openclaw/openclaw/commit/f3c37a946cc49d26e5fe65a1043f7286a86aa4a4)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>test: mock acp spawn config load</code>](https://github.com/openclaw/openclaw/commit/3814dc860b30c9928242a5a69dadac020304f3b2)
+- [ ] [<code>test: narrow oauth lock timeout coverage</code>](https://github.com/openclaw/openclaw/commit/320d52a23e41a326287826219a20f1f29f334554)
+- [ ] [<code>test: slim google oauth project discovery</code>](https://github.com/openclaw/openclaw/commit/9ece33c50506ba031df382f69bde65dfda19bea5)
+- [ ] [<code>test: retry Claude capacity failures in live backend</code>](https://github.com/openclaw/openclaw/commit/fcaf6a23dd0eca592c5d5192dfaa03bcbebccab5)
+- [ ] [<code>test: narrow provider discovery test imports</code>](https://github.com/openclaw/openclaw/commit/45146913007da723b4f06aba6a66cf4a695974c0)
+- [ ] [<code>perf: lazy load bluebubbles catchup</code>](https://github.com/openclaw/openclaw/commit/2e2a134489b410203ab13c46ed60e0b8bcb164bd)
+- [ ] [<code>test: bypass discord monitor barrel in tests</code>](https://github.com/openclaw/openclaw/commit/9b7f6250f43bbc1816cdaf26e8c07116dfa4975f)
+- [ ] [<code>test: mock web tools manifest lookup</code>](https://github.com/openclaw/openclaw/commit/9faa9d33e6a9041d442e962e982d513c9d8ebbf8)
+- [ ] [<code>test: mock secrets apply runtime preflight</code>](https://github.com/openclaw/openclaw/commit/11fa1d2dc710af5e79dca2db4d70b7b415c3be05)
+- [ ] [<code>test: avoid whatsapp setup jiti load</code>](https://github.com/openclaw/openclaw/commit/ebd7f19a3b20001960474ec9ba9cc424e45f7b23)
+- [ ] [<code>test: slim feishu monitor handler imports</code>](https://github.com/openclaw/openclaw/commit/68b9ad4205aa4f931afa9f2beb0353af5dc74999)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: narrow mattermost nested runtime barrel</code>](https://github.com/openclaw/openclaw/commit/6944d7025d9c0ba4891cbe646ab5dab039d504ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: slim slack media imports</code>](https://github.com/openclaw/openclaw/commit/04a54cf54ec02976bdca5614ce5ea2eb2f083408)
+- [ ] [<code>test: split slack client option imports</code>](https://github.com/openclaw/openclaw/commit/0783090da0090982c19f7803a9daf9a2ec29538e)
+- [ ] [<code>test: narrow slack inbound contract imports</code>](https://github.com/openclaw/openclaw/commit/608c08fc54da2f86338366f8eeafd7e2a02713aa)
+- [ ] [<code>test: extend Open WebUI docker startup wait</code>](https://github.com/openclaw/openclaw/commit/577ff767fad9a81a2abaf4eec35998486ffc717d)
+- [ ] [<code>test: narrow matrix client runtime import</code>](https://github.com/openclaw/openclaw/commit/55c45307d006465b5d8aee4f8f6dfe746a910908)
+- [ ] [<code>test: narrow xai test helper imports</code>](https://github.com/openclaw/openclaw/commit/aa3a5f9ff7907c2a41d6259d24b529bda41f293a)
+- [ ] [<code>test: bridge xai test helper imports</code>](https://github.com/openclaw/openclaw/commit/60f7a59f5ed581839cfd1d52583449c5aa1f03a4)
+- [ ] [<code>test: slim browser and msteams imports</code>](https://github.com/openclaw/openclaw/commit/8866544ffefb42ca234c66c337134fb60743d8d0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: wait for ACPX runtime in MCP docker lane</code>](https://github.com/openclaw/openclaw/commit/8f64cd3e4d8339a6aab3ca230d5e14944c91cfaf)
+- [ ] [<code>perf: avoid redundant device pairing writes</code>](https://github.com/openclaw/openclaw/commit/a6aa151653ab478e9aa23e95c6446c41adc4fce1)
+- [ ] [<code>perf: slim irc inbound imports</code>](https://github.com/openclaw/openclaw/commit/34896839ba22f3a71a3d5a8fb4ca5f4c6989a534)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf: slim whatsapp test imports</code>](https://github.com/openclaw/openclaw/commit/5ca6b3568c672c90d2d18771e0a59ee840653665)
+- [ ] [<code>docs: clarify live plugin runtime reloads</code>](https://github.com/openclaw/openclaw/commit/d3d9b5738f83d92787f57db9186ddcebda60af9a)
+- [ ] [<code>perf: slim browser test imports</code>](https://github.com/openclaw/openclaw/commit/a3ae336c512ac624b71baacf86e11f5e05f148dc)
+- [ ] [<code>ci: avoid scarce runners for node fanout</code>](https://github.com/openclaw/openclaw/commit/7130e56f872aea96577ac9fcbda0c7555a9ecc69)
+- [ ] [<code>fix(gateway): surface chat.send lifecycle errors to clients (#69747)</code>](https://github.com/openclaw/openclaw/commit/1ff07245f33af8f27c4be76239e1b1416b2ee87e)
+- [ ] [<code>test: speed matrix verification waits</code>](https://github.com/openclaw/openclaw/commit/50667db2974518f9d1db8cf2e9491b48b7c35a51)
+- [ ] [<code>test: speed zalo polling waits</code>](https://github.com/openclaw/openclaw/commit/4f4288e3b5be2e55abfce5213f0bcf182a252f5e)
+- [ ] [<code>feat(deepseek): support v4 models</code>](https://github.com/openclaw/openclaw/commit/7d1891e6e63dc35dd9dcb688ba308049e68fe695)
+- [ ] [<code>test: speed discord queue waits</code>](https://github.com/openclaw/openclaw/commit/2c701ab296cb3586ad1dfa341d4ecd8f9fe68baa)
+- [ ] [<code>feat: harden Google Meet realtime join</code>](https://github.com/openclaw/openclaw/commit/2b45a112cb654d5c9e94113974b2f863ca621cb8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>build: preserve staged plugin runtime deps</code>](https://github.com/openclaw/openclaw/commit/f3bcea8732728f83d23b7aeb6adc63b4231b3252)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci: offload selected node lanes to blacksmith</code>](https://github.com/openclaw/openclaw/commit/6b618f063516aa9ba85903aa4565c5a204c055b2)
+- [ ] [<code>test(deepseek): add live v4 model coverage</code>](https://github.com/openclaw/openclaw/commit/aef0bb49158225a598e48805c5cf1881814ee3fc)
+- [ ] [<code>docs(deepseek): expand v4 testing notes</code>](https://github.com/openclaw/openclaw/commit/3a64aa49a9014518fa1977fbc023f3e0b978ae5d)
+- [ ] [<code>Bridge Codex native hooks into OpenClaw</code>](https://github.com/openclaw/openclaw/commit/7a958d920c8835a02c0911272741fe6c91abbed1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(deps): update workspace dependencies</code>](https://github.com/openclaw/openclaw/commit/27c61ed0d4d9122ddb01b73543b1d638665f9a78)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(a2ui): refresh bundled canvas host asset</code>](https://github.com/openclaw/openclaw/commit/1b997bebd0dd0df849a67f6c2ba661766ce7be5f)
+- [ ] [<code>fix(plugins): warn on invalid install default choice (#71011)</code>](https://github.com/openclaw/openclaw/commit/5dfc1b90e176a9e4d13b9e91ad6affec6b92f213)
+- [ ] [<code>fix(plugins): warn on orphan install integrity (#71163)</code>](https://github.com/openclaw/openclaw/commit/bbe023472028cd1249f0478a4867c117fc0801b6)
+- [ ] [<code>fix: use browser automation for Google Meet join</code>](https://github.com/openclaw/openclaw/commit/bda391e4c296f169e70f15bd29d97aeb97ff0ae5)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(diagnostics): harden event emission (#71164)</code>](https://github.com/openclaw/openclaw/commit/7ba13fbc2ba7ad82ea0ced9cd399602abcfb273f)
+- [ ] [<code>fix: stage WhatsApp runtime deps before setup login</code>](https://github.com/openclaw/openclaw/commit/f7a426d516558215816940c2866725e4e9ca65a9)
+- [ ] [<code>ci: split blacksmith node lanes by runner size</code>](https://github.com/openclaw/openclaw/commit/c05791f619e6d7f39479b9f5fc59464ca0847a30)
+- [ ] [<code>feat(deps): add SBOM risk report</code>](https://github.com/openclaw/openclaw/commit/58f54801b74779df6979b5331b06ab0c6f62cb83)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>test: shard Docker aggregate lanes</code>](https://github.com/openclaw/openclaw/commit/cbfc21badb19ae0ee53668f7bda337148026d45f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: harden Docker lanes for 10-way runs</code>](https://github.com/openclaw/openclaw/commit/23c7a7d5571e6d069762e82d7935516a965e1a82)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: restore diagnostic error export</code>](https://github.com/openclaw/openclaw/commit/d5880ae6a578e3233dc70dd1ee8d6cd0d512038f)
+- [ ] [<code>fix: export model diagnostic error category</code>](https://github.com/openclaw/openclaw/commit/d3e66e36f6972b207449fea6c05794736f08cba1)
+- [ ] [<code>perf: parallelize Docker aggregate image builds</code>](https://github.com/openclaw/openclaw/commit/7e49cc87f9e9cdad47d0572331d7a7a47281a83e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(capability-cookbook): normalize Provider and Harness Seams heading to sentence case</code>](https://github.com/openclaw/openclaw/commit/12f7de3ef38a9fa389527c63682bccb001904a01)
+- [ ] [<code>fix: remove google meet sync await</code>](https://github.com/openclaw/openclaw/commit/d9c547902914cf903fe73a7c4d06d4d04bf575bd)
+- [ ] [<code>ci: move long tail checks to blacksmith</code>](https://github.com/openclaw/openclaw/commit/16c7de085c99884367d34eaa9e52806d62ebf871)
+- [ ] [<code>docs(google-meet): drop duplicate H1 and merge intro sentences</code>](https://github.com/openclaw/openclaw/commit/32163e0e98e6d5d5d883647a4e9957e2d2d50df4)
+- [ ] [<code>docs(standing-orders): drop duplicate H1 where frontmatter title already covers it</code>](https://github.com/openclaw/openclaw/commit/c1ad8076a3c18009b2b82ee82d8d899b49aed4ce)
+- [ ] [<code>docs: normalize Title Case H2 headings to sentence case in recent files</code>](https://github.com/openclaw/openclaw/commit/1cf79803d7a2853cb88c066bc823a219790fb9af)
+- [ ] [<code>perf: reuse Docker aggregate package tarball</code>](https://github.com/openclaw/openclaw/commit/27b348b3e512a2bdf12c6b7f45ac01b36130ca05)
+- [ ] [<code>ci: reduce ubuntu preflight queue</code>](https://github.com/openclaw/openclaw/commit/f4ffed8482ccad0c516d984ae4c5b2f7abcfe4bd)
+- [ ] [<code>refactor(tui): remove cli-highlight dependency</code>](https://github.com/openclaw/openclaw/commit/06d46869f80413107f37f44eaf4bd3ce17f4ea4f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci: keep preflight off congested blacksmith</code>](https://github.com/openclaw/openclaw/commit/3df9fd43541e873d345f6a39e322e3456e3713de)
+- [ ] [<code>docs: update mcp vision</code>](https://github.com/openclaw/openclaw/commit/90877e0d4274c53fd91bf5787265c4d6889dc9a7)
+- [ ] [<code>fix(plugins): warn on install source package drift</code>](https://github.com/openclaw/openclaw/commit/4d1ee3a73ed19063d16ac627d3071b7637fda82d)
+- [ ] [<code>docs: clarify clawhub plugin promotion</code>](https://github.com/openclaw/openclaw/commit/f738b73107f669f43ae542faf12cad904fb0b7e3)
+- [ ] [<code>docs: simplify mcp vision</code>](https://github.com/openclaw/openclaw/commit/2fe7c6fed4a35ab2867a4a1c26a8d90e4e2cb785)
+- [ ] [<code>docs: clarify plugin style preference</code>](https://github.com/openclaw/openclaw/commit/0340321c12294969fb64b9eab4c672c9abe25560)
+- [ ] [<code>feat(diagnostics): export lifecycle OTEL spans</code>](https://github.com/openclaw/openclaw/commit/f8573fe9c2559565b7a375d6e2e03023ea3ad28e)
+- [ ] [<code>docs: clarify plugin api extension path</code>](https://github.com/openclaw/openclaw/commit/11abe5ec49542fe37c129267dd90da1921474142)
+- [ ] [<code>ci: split docs-only push checks</code>](https://github.com/openclaw/openclaw/commit/5deef28b7adabe9de0023d4175a9f91333f752c9)
+- [ ] [<code>test: stabilize Docker MCP lanes under load</code>](https://github.com/openclaw/openclaw/commit/11ad1919edc7278f9d3e36c87c56bd3cb52c6e41)
+- [ ] [<code>fix(whatsapp): setting systemPrompt to "" suppresses the wildcard prompt (#70381)</code>](https://github.com/openclaw/openclaw/commit/3de44fe593057b508d76f65abb36d58e0936ef1d)
+- [ ] [<code>fix: honor disabled plugin runtime deps</code>](https://github.com/openclaw/openclaw/commit/f6dcf968ca30773d7cfce74d8ec4416c619add87)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>ci: try smaller blacksmith support lanes</code>](https://github.com/openclaw/openclaw/commit/c15edc3641c1b19d0392be996fe2183a6498ee8b)
+- [ ] [<code>docs: clarify beta Telegram release verification</code>](https://github.com/openclaw/openclaw/commit/769ab4a91caecdae54ff37e58f56682bc51ba530)
+- [ ] [<code>fix: export diagnostic error category</code>](https://github.com/openclaw/openclaw/commit/51c11cfd903033947f01f96a7169ebf92d194064)
+- [ ] [<code>docs: improve 2026.4.23 release docs</code>](https://github.com/openclaw/openclaw/commit/b2352c3e2483d5ff9d07b27acb54cd9d11957c68)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: try larger blacksmith lint lane</code>](https://github.com/openclaw/openclaw/commit/afc0c32bd0eb9f984fcf5bcf26c9ea821834b74d)
+- [ ] [<code>fix: remove duplicate diagnostic category export</code>](https://github.com/openclaw/openclaw/commit/11cffb230013c2d8bd1e0e18da04b0b985b8abd5)
+- [ ] [<code>ci: move tail node shards to blacksmith</code>](https://github.com/openclaw/openclaw/commit/660cea680ae5d3d8b7a95c0e2fa7cf0da2f52a27)
+- [ ] [<code>ci: pass node shard runner overrides</code>](https://github.com/openclaw/openclaw/commit/c9f2403547b05229fa1defb827b5d9014069228b)
+- [ ] [<code>fix: Align silent reply prompt guidance (#70954)</code>](https://github.com/openclaw/openclaw/commit/cc57d56b92f5d42a030a3d67ff2ce839010b97a6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf: avoid slow Docker live lane cleanup</code>](https://github.com/openclaw/openclaw/commit/560b04d4c66ecb2ed93a0fbf9a8ca28cfa777fbf)
+- [ ] [<code>test: update ci shard and reply mocks</code>](https://github.com/openclaw/openclaw/commit/1981622b92b207fbd03e98f2670ec0e70f466122)
+- [ ] [<code>fix: resolve bare fallback model providers</code>](https://github.com/openclaw/openclaw/commit/a08a2e381f2bfd63cf0d1d81b6aeebd23b7741c4)
+- [ ] [<code>fix(discord): require real gateway readiness</code>](https://github.com/openclaw/openclaw/commit/78a431ed224b6f5b9d58672346551a5b411ad200)
+- [ ] [<code>ci: try blacksmith preflight runner</code>](https://github.com/openclaw/openclaw/commit/e35e6e1d155f71885fa32ecad33a9f9f2bba06bf)
+- [ ] [<code>fix: deprecate models add command (#71175)</code>](https://github.com/openclaw/openclaw/commit/59e282527499386ebbc66f94de33fe77816a069b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(release): restore 2026.4.23 notes on main</code>](https://github.com/openclaw/openclaw/commit/3eb7605318a29b60b582c5e338c3952a6c71a133)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(release): harden packed runtime smoke</code>](https://github.com/openclaw/openclaw/commit/5b0ee04c0df3aa7fb94c642550f8c1a483212c3f)
+- [ ] [<code>fix(release): preserve plugin-local runtime deps in postpublish verify</code>](https://github.com/openclaw/openclaw/commit/f191dd3d536ceb8b499fd0e68ff7f1c4f98baf50)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci(release): parse logged agent payload text</code>](https://github.com/openclaw/openclaw/commit/042c031c5c49c56a623a7ab0b4cb18d432bafa78)
+- [ ] [<code>fix(release): accept logged cross-os agent output</code>](https://github.com/openclaw/openclaw/commit/da36c1967f95effefd08439c51140156c9ad9ab8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(release): harden subagent completion delivery</code>](https://github.com/openclaw/openclaw/commit/bbef1c55579187f9abb744f4d5380a5281d4253f)
+- [ ] [<code>fix(plugins): avoid plugin sdk alias rewrite races</code>](https://github.com/openclaw/openclaw/commit/6b4f6ca20ca4c5c608c58360f7bc078dbc6c2866)
+- [ ] [<code>ci(release): configure shared docker e2e builder</code>](https://github.com/openclaw/openclaw/commit/712b7c6637daa7cd9c78b29aa26625fa1ba4d084)
+- [ ] [<code>test: make bundled channel docker lane resumable</code>](https://github.com/openclaw/openclaw/commit/5738201b2270c33112eccd0eb9f174bd4d919c66)
+- [ ] [<code>test: fix models list e2e static catalog mock</code>](https://github.com/openclaw/openclaw/commit/342583348da75f2b9e739e75352a63ab2d4ea39f)
+- [ ] [<code>docs: add plugin hooks reference</code>](https://github.com/openclaw/openclaw/commit/7330a0c7e047d67d6335e085e08239bda53e71fb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: add plugin hook glossary labels</code>](https://github.com/openclaw/openclaw/commit/95db5966a0aead1477e161c0c7b31ef625963ba7)
+- [ ] [<code>fix: export diagnostic error category once</code>](https://github.com/openclaw/openclaw/commit/129f548c4438940e7e78a593c53b953949c5330c)
+- [ ] [<code>fix(gateway): await startup sidecars by default</code>](https://github.com/openclaw/openclaw/commit/cba92f893da447028e5e045a713f1df9fbb63aaf)
+- [ ] [<code>fix: report google meet manual actions</code>](https://github.com/openclaw/openclaw/commit/0c70cb3b9cee0a1705fad87b885a8b029b11b9ce)
+- [ ] [<code>test: type legacy codex model fixture</code>](https://github.com/openclaw/openclaw/commit/ec3dbd22a4dea8da4bcc0d0832da48a83ae27d46)
+- [ ] [<code>[codex] Add contract-first Pi/Codex runtime plan suite (#71096)</code>](https://github.com/openclaw/openclaw/commit/860dad268d35a944d352b0adbf34c68aa4d3aac9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: cover Telegram topic model switches</code>](https://github.com/openclaw/openclaw/commit/1cfebfe0e1cd8d1966a4f389ee6c0b9832c62418)
+- [ ] [<code>fix: prevent malformed docs accordions</code>](https://github.com/openclaw/openclaw/commit/80608ae26cb8118774089342213de00e93cea2d7)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: fix gateway security accordion</code>](https://github.com/openclaw/openclaw/commit/67a2b187b7017d28a7623c88f031107d3308d11a)
+- [ ] [<code>perf: shrink Docker dependency build contexts</code>](https://github.com/openclaw/openclaw/commit/24958862877c96670b9787aba4df436044202116)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: add Gradium text-to-speech provider (#64958)</code>](https://github.com/openclaw/openclaw/commit/d7e2939791e1d435f86b92020dd64493cad091f6)
+- [ ] [<code>docs(release): require tmux for 1password fallback</code>](https://github.com/openclaw/openclaw/commit/62adf6349de31c74794c5b6af8777ada9575163e)
+- [ ] [<code>docs(release): prefer npm token workflow for dist-tags</code>](https://github.com/openclaw/openclaw/commit/8207567cbab6294e3e5b489d3537f9a9dee626e7)
+- [ ] [<code>test: remove duplicate direct chat mock</code>](https://github.com/openclaw/openclaw/commit/a155b84cdadef068de50274318952032cd867788)
+- [ ] [<code>docs: drop parenthetical H1s across gateway, channels, providers, concepts, and reference pages</code>](https://github.com/openclaw/openclaw/commit/1042b893f617c70a8e64303785976cbe5b178e44)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep disabled channel doctor probes lazy</code>](https://github.com/openclaw/openclaw/commit/94275f13fb776bfa071ed80949bf1ef880d3d61b)
+- [ ] [<code>docs: clarify google meet mode choice</code>](https://github.com/openclaw/openclaw/commit/c2bffc6033c932b8bcc5feb7e7a00c07efb9a2ee)
+- [ ] [<code>docs(nav): surface orphan pages in sidebar (message-presentation, skill-workshop, qa-e2e-automation, proxy, gpt54-codex-agentic-parity)</code>](https://github.com/openclaw/openclaw/commit/9439d633efab6f14c5e219f0a710456a1797c734)
+- [ ] [<code>ci: skip stale docs sync publishes</code>](https://github.com/openclaw/openclaw/commit/6fea42fc2d372d2cc76776859060dc59e4a2f261)
+- [ ] [<code>docs: add reliable taskflow workflow pattern</code>](https://github.com/openclaw/openclaw/commit/3bc99bc70e537ae9b816b42e9480c2cfa04479d8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(gateway): rename startup sidecar deferral option</code>](https://github.com/openclaw/openclaw/commit/f07b00de664989b655d13272d0f43fc6439f57b3)
+- [ ] [<code>ci: rebase docs sync with source preference</code>](https://github.com/openclaw/openclaw/commit/7a63dd3f12b549ce98fb65f1ec88fe10f1e51d1f)
+- [ ] [<code>test: fold tiny media fallback specs</code>](https://github.com/openclaw/openclaw/commit/a16f8dff1553e179b665b93e822bd068f967f4d2)
+- [ ] [<code>fix(plugins): honor descriptor-only setup flag</code>](https://github.com/openclaw/openclaw/commit/7418adf875faec34a1062ff49e8b32e1dcb25def)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(plugins/hooks): regroup hook catalog by surface, mark decision hooks, sync before_tool_call result type with code</code>](https://github.com/openclaw/openclaw/commit/5d7d5ca2a9bf62063fb8649a8d30a4662dd52dfc)
+- [ ] [<code>test(deepseek): add live model smoke</code>](https://github.com/openclaw/openclaw/commit/926068b14fc661e915a0247e9ecb5949fb95b4f7)
+- [ ] [<code>test: isolate doctor switch shell profiles</code>](https://github.com/openclaw/openclaw/commit/3ffd944e6ba6dfe4c7c4c275848f1c0a1f246e28)
+- [ ] [<code>feat(plugins): report setup descriptor drift (#71194)</code>](https://github.com/openclaw/openclaw/commit/6bc0dc8fb6714b4e858fb65f9f8051e6b64c8440)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: stabilize qa lab scenarios</code>](https://github.com/openclaw/openclaw/commit/e54c04f495c1f2e9fe05fbedb21e8a77797dc751)
+- [ ] [<code>refactor: share speech provider HTTP errors</code>](https://github.com/openclaw/openclaw/commit/b1016c39fddf849024eb43a311d5d1acddb18dda)
+- [ ] [<code>refactor: share provider HTTP errors with google</code>](https://github.com/openclaw/openclaw/commit/a43c1f880757e830b5fb4d3c7b5532a625f0e3e4)
+- [ ] [<code>feat(plugins): expose hook correlation fields</code>](https://github.com/openclaw/openclaw/commit/3bd2ee78b6acf105c23656bb2d61416d6ccb2fa7)
+- [ ] [<code>perf: speed up Docker aggregate smokes</code>](https://github.com/openclaw/openclaw/commit/dcf01ce72f015a5b2d4d6bcdfa0d927059b4d380)
+- [ ] [<code>fix(models): separate Codex harness from model choices (#71193)</code>](https://github.com/openclaw/openclaw/commit/bc0f54bd04469d79095283c3b7ab55a3118fc3ae)
+- [ ] [<code>refactor: move provider HTTP errors out of tts</code>](https://github.com/openclaw/openclaw/commit/70f5c26a71ec001ce9c249509fa4be1cf9bb50df)
+- [ ] [<code>refactor: remove old provider error utility path</code>](https://github.com/openclaw/openclaw/commit/59523e66da03591bc7bcc183a11f690fa0aae641)
+- [ ] [<code>test: speed up embedded run orchestration specs</code>](https://github.com/openclaw/openclaw/commit/07f33b290987219d68edf15c353573bd21781a67)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(anthropic-vertex): move SDK runtime to plugin (#71174)</code>](https://github.com/openclaw/openclaw/commit/d795000377aea11654e6f6691bf189fed5ca21b5)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix: wizard no clobber model.primary on re-run</code>](https://github.com/openclaw/openclaw/commit/8d57d745cf5f1d83648e3a755957825805f6d77b)
+- [ ] [<code>fix(elevenlabs): use guarded TTS fetch</code>](https://github.com/openclaw/openclaw/commit/d12b52361148e2c0e281537e467aa0a2277eeb6b)
+- [ ] [<code>ci: move fast bundled checks to blacksmith</code>](https://github.com/openclaw/openclaw/commit/7b5307acfc347a4e6d6647156600ee4b8d6eaa37)
+- [ ] [<code>ci: move node fanout to blacksmith</code>](https://github.com/openclaw/openclaw/commit/c9998af44d81e7c16c3c999d51bafa568e4a7438)
+- [ ] [<code>perf: speed up live Docker staging</code>](https://github.com/openclaw/openclaw/commit/ed7ea75fc0eafc101754de104103408ba13debc7)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: keep only fast core on blacksmith</code>](https://github.com/openclaw/openclaw/commit/65c9cb852e833fe2753233fa08b471d2b5e10f45)
+- [ ] [<code>fix: restore reliable live Docker staging</code>](https://github.com/openclaw/openclaw/commit/0651e5dc97ddd930ab586024ff12b2329b347bec)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(googlechat): log webhook auth reject reasons and warn on appPrincipal misconfig (#71145)</code>](https://github.com/openclaw/openclaw/commit/0e50fee9967c60d98a1641817c60de1956ad6bbd)
+- [ ] [<code>fix(gateway): allow chat.abort to stop agent RPC runs</code>](https://github.com/openclaw/openclaw/commit/8cae2ed645ed8edfd108e3f7833d8498ff9d7f24)
+- [ ] [<code>fix(gateway): enforce owner-only tool policy and before-tool-call hook on MCP loopback surface (#71159)</code>](https://github.com/openclaw/openclaw/commit/8b76392e3e7934b1cdd6d461148263fd56141ec8)
+- [ ] [<code>ci: tune oxlint threads</code>](https://github.com/openclaw/openclaw/commit/e6d04682d33c9576edc4ad77b031949f84407bec)
+- [ ] [<code>fix: tweak group silent caution prompt (#71209)</code>](https://github.com/openclaw/openclaw/commit/5c8a5fa8fa864e1edec34671230cc6f4ae7a6f62)
+- [ ] [<code>test(google-meet): verify twilio setup readiness</code>](https://github.com/openclaw/openclaw/commit/14934f0b7c874e6af4ed93a1c307a17d222ef739)
+- [ ] [<code>test: wait for ACPX in cron Docker smoke</code>](https://github.com/openclaw/openclaw/commit/b9cc2931677938c8c7b63a16b27ac45dff8f7c29)
+- [ ] [<code>docs(google-meet): add setup troubleshooting</code>](https://github.com/openclaw/openclaw/commit/ef9ca09b8e9c6e1762164b1986e14824f1c96c3a)
+- [ ] [<code>fix(config): allow plugin conversation access hook policy (#71221)</code>](https://github.com/openclaw/openclaw/commit/51dd4f288f67ef4df4c7a121f078f508535df1fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf: shorten extension ci tail</code>](https://github.com/openclaw/openclaw/commit/c2a353a3bde9b4fd64e38624c7322cd309b580ed)
+- [ ] [<code>ci: run preflight on github hosted ubuntu</code>](https://github.com/openclaw/openclaw/commit/e471d40942bad7fb7f175173d90ea1df37fd3a30)
+- [ ] [<code>feat(plugins): add harness tool result middleware (#71021)</code>](https://github.com/openclaw/openclaw/commit/47f6a98909b53810519d9ee84202fa1276ddccb3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: stabilize qa suite concurrency</code>](https://github.com/openclaw/openclaw/commit/88c91675e277505fb64c13a00988757e092a38c9)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test: add weighted Docker aggregate scheduler</code>](https://github.com/openclaw/openclaw/commit/0f689d22f46c257529dd00dfc29f4c77e3b18f6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(onboard): add skip bootstrap flag (#71218)</code>](https://github.com/openclaw/openclaw/commit/8226a3f8fed5b3f244e25d7cab8c3cfdafff8f29)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(matrix): pass loaded cfg to verify CLI subcommands (#70992) [AI-assisted] (#71102)</code>](https://github.com/openclaw/openclaw/commit/37d5c34749a0e4ef0835603f9b0025984285c54b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share provider HTTP error parsing</code>](https://github.com/openclaw/openclaw/commit/2c516fe5169c9ba9883a7c3539dd362a9cc1dbcc)
+- [ ] [<code>test: add provider HTTP live coverage</code>](https://github.com/openclaw/openclaw/commit/def392ad7d4793dd5cebbfbc69b0c7e8c5bb7bf0)
+- [ ] [<code>fix: serialize bundled runtime dependency repair</code>](https://github.com/openclaw/openclaw/commit/56e299cbcab713ea209d6785697e1544110c0c40)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: preserve live runtime dependency locks</code>](https://github.com/openclaw/openclaw/commit/d43b3b3b708e70b1eaa92c5fe4d551889f13ee72)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci: give lint enough blacksmith cpu</code>](https://github.com/openclaw/openclaw/commit/c3f4c75d39e3aa55d4bb5a7c42299c62e23102fa)
+- [ ] [<code>docs: clarify post-land ci waiting</code>](https://github.com/openclaw/openclaw/commit/588e59db26156f5bf3bcdaf98c2df3b63e337bd5)
+- [ ] [<code>docs: condense agent instructions</code>](https://github.com/openclaw/openclaw/commit/ecac696643c604c6d854341bfe6424bfa31423e9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: add ci wait matrix</code>](https://github.com/openclaw/openclaw/commit/25ad66520b8b4a7654caa6de68f4d272a40c4619)
+- [ ] [<code>fix: guard speech provider fetches</code>](https://github.com/openclaw/openclaw/commit/7425cb0549d6eedddea225a9e83c0ea1bfdce2fb)
+- [ ] [<code>test: cover OpenAI thinking payload contract</code>](https://github.com/openclaw/openclaw/commit/02112803b5336e8e6a68b90750dbfb7860c97bab)
+- [ ] [<code>feat(google-meet): format setup status by default</code>](https://github.com/openclaw/openclaw/commit/0e23107ffbabc5303ee50f656015eccf5723915e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: bound Docker smoke host commands</code>](https://github.com/openclaw/openclaw/commit/037d12974c3cff22088d810e1a5903d6f2b7020a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: trim root agent guide</code>](https://github.com/openclaw/openclaw/commit/b4d756c746e71f2fdbde358b6a0540dcce93ad14)
+- [ ] [<code>feat(plugins): read setup provider env vars (#71226)</code>](https://github.com/openclaw/openclaw/commit/7536993397c69742facb1b2405f7743aa750924c)
+- [ ] [<code>feat(gateway): add VoiceClaw realtime brain endpoint (#70938)</code>](https://github.com/openclaw/openclaw/commit/c997a9f9788e0a96e8eab05e7ae94959e76cdb4a)
+- [ ] [<code>docs(plugins): catalog active deprecations in sdk-migration and cross-link from hooks</code>](https://github.com/openclaw/openclaw/commit/ff8b7145d714e04336d43e20df580b73f990d300)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: tune Docker aggregate service pressure</code>](https://github.com/openclaw/openclaw/commit/7a168150e63c99dc74973c8d01e169d02364f189)
+- [ ] [<code>fix(whatsapp): emit message received hooks (#71217)</code>](https://github.com/openclaw/openclaw/commit/8154337cb6ffd8625e95692f2ee9d8670ea19573)
+- [ ] [<code>feat(plugins): surface manifest provider setup choices (#71240)</code>](https://github.com/openclaw/openclaw/commit/cf858258c71701ef62dddf88aa777873a4962046)
+- [ ] [<code>ci: centralize workflow openai model defaults (#70845)</code>](https://github.com/openclaw/openclaw/commit/f896c3935ef8d706fe4193443c5c5eede5e64178)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -4810,14 +5039,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-POST git-upload-pack (148 bytes)
-POST git-upload-pack (gzip 3551 to 1620 bytes)
-error: RPC failed; HTTP 503 curl 22 The requested URL returned error: 503
-fatal: expected 'packfile'
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
@@ -5318,6 +5552,8 @@ fatal: expected 'packfile'
 - [ ] [<code>tests: implement automatic library test skipping</code>](https://github.com/jow-/ucode/commit/b50372e8e8a0fb136df5c61974461bc332a15779)
 - [ ] [<code>math: degrees <-> radians convertors</code>](https://github.com/jow-/ucode/commit/81066c54a07f9bf9f619ed1c2043b0baf22aeb11)
 - [ ] [<code>ubus: drop unconditional garbage collection calls</code>](https://github.com/jow-/ucode/commit/388ef3f35e0a2bb62a626ed86ed727af12bfff02)
+- [ ] [<code>main: fix option argument parsing on glibc</code>](https://github.com/jow-/ucode/commit/aebdb2c0262e94a3d4a79549afa001925690d2db)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
