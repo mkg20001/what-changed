@@ -229,7 +229,9 @@
 - [ ] [<code>screensaver: Move custom-screensaver check to the controller, so</code>](https://github.com/linuxmint/cinnamon/commit/64bb7476ce626786aaee75150cd691ef28808966)
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Fix initial focus widget.</code>](https://github.com/linuxmint/cinnamon/commit/b389ce8c0907baee68177c5d58d9fdf0d460974e)
+- [ ] [<code>sound@cinnamon.org: Move MprisManager setup after _showFixedElements.</code>](https://github.com/linuxmint/cinnamon/commit/1c50d511b25f956e96003d697f1934c743a42d44)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
