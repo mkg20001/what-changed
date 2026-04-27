@@ -2901,6 +2901,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>deps: update rust dependencies</code>](https://github.com/Oppzippy/OpenSCQ30/commit/e300add182bd50bb2ec108ebbc0254823b485b2a)
 - [ ] [<code>ci: bump actions/upload-artifact from 7.0.0 to 7.0.1 (#256)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c0f267c5d4136815e60c10285274c3bc6096fcb7)
+- [ ] [<code>refactor(lib): add level_offset option for battery modules</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8808aae8835fe669f14960a08b4d1bd6128ff98c)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.4.21 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.4.21...HEAD)
 
@@ -6896,6 +6898,159 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(logging): redact persisted transcript text</code>](https://github.com/openclaw/openclaw/commit/406ae72fd2789c78053f6b94006ec8f488bc1c00)
 - [ ] [<code>test(gateway): retry gemini acp startup warmup timeout</code>](https://github.com/openclaw/openclaw/commit/edf40ab6c9440604fe6a74aeaa8d8bc81b5ee16b)
 - [ ] [<code>fix(logging): expose trace fields in file logs</code>](https://github.com/openclaw/openclaw/commit/df542f75a9c186001a3fbfbac9310791314893c1)
+- [ ] [<code>Add Codex Computer Use setup for Codex mode (#71842)</code>](https://github.com/openclaw/openclaw/commit/67ffa3df8b07addd0cbd14644233cc87e78e9ec8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: chunk release Docker e2e jobs</code>](https://github.com/openclaw/openclaw/commit/ffa84cdc025b3396d5044e322fbe6ff27cbeaf22)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve cron telegram topic delivery after timeout (#72317)</code>](https://github.com/openclaw/openclaw/commit/8ba82534e6c98410e19b226f3534b285fd75d278)
+- [ ] [<code>fix(ollama): honor native model capabilities</code>](https://github.com/openclaw/openclaw/commit/7a4574376a79568cf619ea16d01770d700a858cb)
+- [ ] [<code>test(gateway): skip codex acp bind when auth is unavailable</code>](https://github.com/openclaw/openclaw/commit/487f8c5d3a62c025a4e3a12882f7b0ee627df41b)
+- [ ] [<code>refactor(plugins): split installed plugin index modules</code>](https://github.com/openclaw/openclaw/commit/71e361af8ae8b69de3c6f04e9760cbc3f7259292)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(plugins): make provider discovery runtime explicit</code>](https://github.com/openclaw/openclaw/commit/522eedc754370ecc7229556fac6c74ecc627a07f)
+- [ ] [<code>perf(plugins): reuse persisted registry fallback read</code>](https://github.com/openclaw/openclaw/commit/9eb071c3f169d03f66bdf65d56023291d6818e93)
+- [ ] [<code>refactor(plugins): split plugin registry facade</code>](https://github.com/openclaw/openclaw/commit/8e1755928c6a219cbffc477273b5d27e0ce2ad5b)
+- [ ] [<code>feat(diagnostics): capture model call size timing</code>](https://github.com/openclaw/openclaw/commit/c6e98493511b3a18e6f2f402693ef7dc832a071f)
+- [ ] [<code>docs(diagnostics): document model call size timing</code>](https://github.com/openclaw/openclaw/commit/f0566e410ab8cb81e2ff84b80d0cc55b4c8d57a0)
+- [ ] [<code>ci: run release Docker chunks through scheduler</code>](https://github.com/openclaw/openclaw/commit/b4a9ac3516b467b40f093de92454bd22884a6e05)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: codify formatter tooling</code>](https://github.com/openclaw/openclaw/commit/c082cf892a810037084155fe993e6057e14a6128)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: fix ACPX Docker update repair target</code>](https://github.com/openclaw/openclaw/commit/e3cbad4fb66655b8cdc30fa76b660a56737b8439)
+- [ ] [<code>feat(logging): propagate request trace scopes</code>](https://github.com/openclaw/openclaw/commit/3ae6f01d619e147083a0f1d78acf1f300e70c877)
+- [ ] [<code>fix(diagnostics): chain run traces to request scope</code>](https://github.com/openclaw/openclaw/commit/410783c12661baaead06f5ee9e76133e57abda06)
+- [ ] [<code>docs(logging): document request trace scopes</code>](https://github.com/openclaw/openclaw/commit/2194a8c64caa5bdbbe8347d9882ccf1a501a2b5c)
+- [ ] [<code>ci: enable docker image attestations</code>](https://github.com/openclaw/openclaw/commit/824c3e2b71a151d79343537043557e467465adc2)
+- [ ] [<code>ci: centralize docker build wrapper</code>](https://github.com/openclaw/openclaw/commit/b28de9a7d9a2a330b0c425ee8fa3e157ae1d83e8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>refactor(plugins): isolate loader cache state</code>](https://github.com/openclaw/openclaw/commit/2edbdc42ae647a04f1d2aa8a3266bdef8793ab9e)
+- [ ] [<code>fix: isolate cron context-engine session keys (#72292)</code>](https://github.com/openclaw/openclaw/commit/a3c51f91c58a76fa3dbd9e808071d0b41c981649)
+- [ ] [<code>ci: add targeted docker lane reruns</code>](https://github.com/openclaw/openclaw/commit/b68b4b9151ba394efcdfff77a601fd1e84eed7bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(plugins): share lookup cache eviction</code>](https://github.com/openclaw/openclaw/commit/82262387651ab270b565f71533ce4937c9c00dc6)
+- [ ] [<code>docs: add OpenClaw testing skill</code>](https://github.com/openclaw/openclaw/commit/5abb7171122bb83d6746ba41de23927c02303b72)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: verify docker release attestations</code>](https://github.com/openclaw/openclaw/commit/b61954919c2c517246326cba0026f6604ee949e0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: skip docker apt upgrades</code>](https://github.com/openclaw/openclaw/commit/018f2e78ba5c51f2215705f4a9fa3cff160c940c)
+- [ ] [<code>fix(acp): keep server logs off stdout</code>](https://github.com/openclaw/openclaw/commit/d46de6cff7f3156766ec00e1f3459dc77b2fcda6)
+- [ ] [<code>docs(changelog): note acp stdout fix</code>](https://github.com/openclaw/openclaw/commit/fa85e6c26eeffbbac1b52bb08d5fd94524f9c85b)
+- [ ] [<code>fix: short-circuit live model switch fallback redirects (#72375)</code>](https://github.com/openclaw/openclaw/commit/43a003b8a0629ad2c73947b2a863d99dd506bcb9)
+- [ ] [<code>build: use slim docker runtime</code>](https://github.com/openclaw/openclaw/commit/2cd23957c06adcff7c002d8c44ec739aaa23365f)
+- [ ] [<code>fix(ollama): expose native thinking efforts</code>](https://github.com/openclaw/openclaw/commit/ff570f3a61ad4bf3fdf86124ad46d5c97f0d20e8)
+- [ ] [<code>test: copy docker build helper in setup e2e</code>](https://github.com/openclaw/openclaw/commit/3a8961af0f318f0e76cab14e182bcabd72596e9b)
+- [ ] [<code>ci: split docker e2e images</code>](https://github.com/openclaw/openclaw/commit/baaad523897e65ce0b31b897bf8e16a4d6dc2684)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: allow trusted exec approvals home symlinks (#72377)</code>](https://github.com/openclaw/openclaw/commit/364d49889e675f720f908fd00cd5fb917e78ae13)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>UI: localize command palette labels (#72378)</code>](https://github.com/openclaw/openclaw/commit/070b55f336165e25ecea578de2a56bd39744db3e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(ui): refresh th control ui locale</code>](https://github.com/openclaw/openclaw/commit/5c4c33c7ded3afe04ed9a710ac13bb9a486ea008)
+- [ ] [<code>feat(logging): add file log correlation fields</code>](https://github.com/openclaw/openclaw/commit/e8df081a1f1d8b7bd204072225b5262a7f724486)
+- [ ] [<code>docs(logging): document structured file fields</code>](https://github.com/openclaw/openclaw/commit/fc0e6e4650b57119a32a611b01340d690c353e79)
+- [ ] [<code>fix(logging): skip unserializable file log message parts</code>](https://github.com/openclaw/openclaw/commit/d9e9e61e77bc7d32d22feaa6e4c40fcf0b1bdc71)
+- [ ] [<code>ci: preserve docker test runner path</code>](https://github.com/openclaw/openclaw/commit/1b1eea238c85e9260cea88dcc2e8c32dd5973202)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: use packaged tarball for docker e2e</code>](https://github.com/openclaw/openclaw/commit/d108110a894b48d4e867988f4fd2b2d736df7922)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>style: format codex and loader tests</code>](https://github.com/openclaw/openclaw/commit/9f5bc5465c0ef9811cd487b5891113d013fedd1c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: cap Telegram E2E build cache</code>](https://github.com/openclaw/openclaw/commit/3746e5b969d74ecdc91796ca932c31fdc41a11ac)
+- [ ] [<code>fix(agents): validate thinking with model catalog</code>](https://github.com/openclaw/openclaw/commit/ff9fefb79beac75e9a257aa43fce39db36fa828e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: disable bonjour in install e2e docker</code>](https://github.com/openclaw/openclaw/commit/5aa3779d8c5e1ad7e13580e395f442115d4a8188)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs(changelog): note Ollama thinking validation fix</code>](https://github.com/openclaw/openclaw/commit/ff6044f4411d3e720940d60990e624bd7be29d46)
+- [ ] [<code>fix(feishu): repair interactive card content extraction (#72397)</code>](https://github.com/openclaw/openclaw/commit/c6cf37068cae6524e119697ad94780ea1fff11f3)
+- [ ] [<code>fix: keep bonjour failures non-fatal</code>](https://github.com/openclaw/openclaw/commit/8a60e57846ce7b68b4e4ef3656d8420d2d705b90)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>chore: clarify bonjour fatal guard naming</code>](https://github.com/openclaw/openclaw/commit/0472b6197ab2a62f39ce9e685b54299f4a921742)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(bonjour): keep ciao failure handling extension-owned</code>](https://github.com/openclaw/openclaw/commit/c9c0ab3a44904a2d2bc815799c1deabb270c5fdb)
+- [ ] [<code>refactor(test): split docker e2e planner</code>](https://github.com/openclaw/openclaw/commit/a2adb05f746def87813fde47eaf39e681dc74565)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ci: derive docker e2e artifacts from plan</code>](https://github.com/openclaw/openclaw/commit/cd417f3b68854bc430bcb97b2bb24d58f453d6ed)
+- [ ] [<code>docs(test): document docker e2e layout</code>](https://github.com/openclaw/openclaw/commit/2efc4a8233197793b12ea044af1fad7c16445021)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: clarify extension ownership boundaries</code>](https://github.com/openclaw/openclaw/commit/084dde89fd966f7a4ced4d30cf28325607da85ba)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(telegram): send fresh finals for stale previews (#72038)</code>](https://github.com/openclaw/openclaw/commit/a08b65a90a454fbfe2ea4025f5bcdab08640d983)
+- [ ] [<code>test: add docker e2e planner guards</code>](https://github.com/openclaw/openclaw/commit/6cba12caaec02b03033ac3b3612791dfffdbd14d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ci: reuse docker e2e plan action</code>](https://github.com/openclaw/openclaw/commit/7a86448a6eea1de1d7eb2726efbf705f470607c5)
+- [ ] [<code>refactor(test): share docker e2e shell helpers</code>](https://github.com/openclaw/openclaw/commit/b5714b90edbe62819b333f95201f8d9b222c4be3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>fix: restart package updates through updated install</code>](https://github.com/openclaw/openclaw/commit/6077941d0bd73625e18f159fe3758859d9c1496c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update changelog attribution guidance</code>](https://github.com/openclaw/openclaw/commit/cfe58387a7f574b1c766b458a045d1c98ef10f12)
+- [ ] [<code>test: add docker e2e rerun helpers</code>](https://github.com/openclaw/openclaw/commit/1a02d00eb4501cc00218f123d7d125a27f747dc4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>ci: skip existing docker e2e images</code>](https://github.com/openclaw/openclaw/commit/1ddf6b4e39c2b15bb84de718d8bc950a58bbca0b)
+- [ ] [<code>refactor(test): split bundled channel docker scenarios</code>](https://github.com/openclaw/openclaw/commit/2fe11020d283ee1b686857f23eeb81a2790de447)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs(test): explain cheap docker reruns</code>](https://github.com/openclaw/openclaw/commit/199d5f765f113f214db742416beb679f50ed9c22)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test: simplify changed test routing</code>](https://github.com/openclaw/openclaw/commit/89ab39ca640d3589cd6157a77946571d60e18903)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(bonjour): auto-disable advertising in containers</code>](https://github.com/openclaw/openclaw/commit/989cfd1e33dbca9907d5b940445a7e61cadc4545)
+- [ ] [<code>ci: keep docker bonjour setting automatic</code>](https://github.com/openclaw/openclaw/commit/6018f29dbff2e39bf44c224f70eb15ed00e6b2ea)
+- [ ] [<code>docs: document automatic bonjour container policy</code>](https://github.com/openclaw/openclaw/commit/20d6daaeaa4e4d6b8530aa88313ff380ca5caede)
+- [ ] [<code>refactor: deduplicate changed lane detection</code>](https://github.com/openclaw/openclaw/commit/4a578740a2ebf7ea10d08df7bd210ceb34103a4d)
+- [ ] [<code>fix(test): allow legacy qa inventory entry</code>](https://github.com/openclaw/openclaw/commit/41ad03dda4603deb40979b36709402c4fdae380e)
+- [ ] [<code>fix(hooks): use local timezone for session-memory filenames (#72408)</code>](https://github.com/openclaw/openclaw/commit/97e64196a01d533ac5898bff91e557262ef63a92)
+- [ ] [<code>docs: explain test routing model</code>](https://github.com/openclaw/openclaw/commit/95ae3c00bd94dc57c4957ece8e4773f357a420b8)
+- [ ] [<code>fix(release): harden beta validation lanes</code>](https://github.com/openclaw/openclaw/commit/ef3309a986629f71a1a1aef91ecc3abbcfc08f4a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(release): allow npm telegram e2e from release branch</code>](https://github.com/openclaw/openclaw/commit/16c6a92c53a7a23d0a489ee64614548c0da9db09)
+- [ ] [<code>ci(release): trust release branch docker checks</code>](https://github.com/openclaw/openclaw/commit/17094640f876be133de430428bead4c5799339bd)
+- [ ] [<code>test(qa): relax telegram mention reply assertion</code>](https://github.com/openclaw/openclaw/commit/e7d069edcf0df4da827565f040222d3391c7c2c0)
+- [ ] [<code>ci(docker): preserve pnpm path in scheduler lanes</code>](https://github.com/openclaw/openclaw/commit/43e651db9a05d29f7f91e17c44c62902114f478d)
+- [ ] [<code>ci(docker): use resolved pnpm for scheduled lanes</code>](https://github.com/openclaw/openclaw/commit/54e77a9ec448e1e8ec056913c62f4b11d958e30e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(docker): test release installer against beta</code>](https://github.com/openclaw/openclaw/commit/1bb46ce68ac1198a375bdc807c4cec3fed128427)
+- [ ] [<code>ci(docker): pass beta env to installer e2e</code>](https://github.com/openclaw/openclaw/commit/8d909ed0da85b16371d3a20990183fe458214275)
+- [ ] [<code>ci(qa): remove telegram beta approval gate</code>](https://github.com/openclaw/openclaw/commit/efe940e9cb69ce63423e2be7e701139c66a81b17)
+- [ ] [<code>test(qa): drop brittle telegram workflow assertions</code>](https://github.com/openclaw/openclaw/commit/5b257cb352b5ee66d7b554a6400ea471bbb90b36)
+- [ ] [<code>test: fix main release validation forward-port</code>](https://github.com/openclaw/openclaw/commit/09a635a28b2b0029ef01cb7224eb16e75c3a9a1e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: remove private QA package compat shims</code>](https://github.com/openclaw/openclaw/commit/eccb79db99a5227dbeefa7ea5bccd378f217c623)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>docs: document installer recovery cleanup</code>](https://github.com/openclaw/openclaw/commit/9be8d43c3182c2b773bbb25a79a08895320addab)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(codex): normalize cached harness input tokens</code>](https://github.com/openclaw/openclaw/commit/7902c769dabe5fdd45c7bd2edef2eb823e9d5dd4)
+- [ ] [<code>docs(changelog): note codex usage accounting fix</code>](https://github.com/openclaw/openclaw/commit/3cc52d9050310cc7dc6ce1f3beb6d4b3d60bf39a)
+- [ ] [<code>ci: allow installer smoke baseline override</code>](https://github.com/openclaw/openclaw/commit/998e37fcb3d5b937fcf70d7509b677efba939f10)
+- [ ] [<code>Fail package update on unhealthy restart (#72422)</code>](https://github.com/openclaw/openclaw/commit/560ddd2f9b13fe2cf2073ea2922df481b7c06bb4)
+  - <sub>Keywords: <code>command</code> <code>commandline</code></sub>
+- [ ] [<code>test(docker): add observability smoke</code>](https://github.com/openclaw/openclaw/commit/5d7c6e6bda3f779e324d72f58f9f2fe18a2a8106)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(docker): run observability on shared image</code>](https://github.com/openclaw/openclaw/commit/42db865673a05bd5fcf0a276496c29e266183df0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(plugins): guard command cold registry paths</code>](https://github.com/openclaw/openclaw/commit/265bc6b6ea790ee9388b4005dd2d91848060458f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(docker): resolve otel decoder from plugin runtime</code>](https://github.com/openclaw/openclaw/commit/21c51bc140295e4286f1adc871a96b9b33c6a8b9)
+- [ ] [<code>test: auto-discover vitest suites</code>](https://github.com/openclaw/openclaw/commit/fa0729e1458063603ffacb38a526e1aad997e53f)
+- [ ] [<code>test(docker): run observability harness with global tsx</code>](https://github.com/openclaw/openclaw/commit/d2786fb969b90dcf0bca8ad9685e51356eac299b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: scope qmd root memory collection</code>](https://github.com/openclaw/openclaw/commit/be56f172ab956ef5a34fcc65238ee39fb2928dbb)
+- [ ] [<code>fix(ollama): harden native provider routing</code>](https://github.com/openclaw/openclaw/commit/a3e0674261633234aba1bdb855c4bb4a511608a7)
+- [ ] [<code>test(gateway): stabilize session cleanup gates</code>](https://github.com/openclaw/openclaw/commit/30d9e70988607c606310024f7b5eb94605a31057)
+- [ ] [<code>test(docker): stabilize package update lanes</code>](https://github.com/openclaw/openclaw/commit/82b928232e072d06ff2e867f57ebbdaed909c709)
+- [ ] [<code>test(docker): run mounted harnesses with image tsx</code>](https://github.com/openclaw/openclaw/commit/3b514ad5f379b6f81ecc51ea2f6a44a48e5369ee)
+- [ ] [<code>test: fix full ci suite follow-ups</code>](https://github.com/openclaw/openclaw/commit/b825c8d34b7d1c419f6883fc5f7cfe7939f8197f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ollama): align web search endpoint routing</code>](https://github.com/openclaw/openclaw/commit/0f672dcc738e820ce1ea1037ac5196db9d22a1a4)
+- [ ] [<code>test(plugins): guard cold status snapshots</code>](https://github.com/openclaw/openclaw/commit/7cecbe1002c017a12e2333bcf3773282289d0cb6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: align release boundary expectations</code>](https://github.com/openclaw/openclaw/commit/6fed7872973c5f76de8053266c1ab1b90b93070f)
+- [ ] [<code>fix(gateway): harden macOS launchd service startup</code>](https://github.com/openclaw/openclaw/commit/d7c173b6945687985a60842e500aeabec522f060)
+- [ ] [<code>fix(gateway): defer implicit qmd memory startup</code>](https://github.com/openclaw/openclaw/commit/732a5842ee99f569cdd21214f38dd9f80af794c7)
+- [ ] [<code>test(docker): align package harness image</code>](https://github.com/openclaw/openclaw/commit/7ca2f9fed52226d0e02128872d087268d07c62b2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>test(docker): fix update fixture pnpm patch config</code>](https://github.com/openclaw/openclaw/commit/90b3cdb6a7221974a7293872c26b517cb65a0d41)
+- [ ] [<code>ci: include node22 compat in manual full ci</code>](https://github.com/openclaw/openclaw/commit/11e17793e1d22b7ad342a76e71507ad229327326)
+- [ ] [<code>fix(exec): skip node approval prepare in yolo mode</code>](https://github.com/openclaw/openclaw/commit/acd1bd7d3111b7d4c2f23a182be52021cbd69cab)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
