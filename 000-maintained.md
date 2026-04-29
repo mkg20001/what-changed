@@ -694,6 +694,8 @@
 - [ ] [<code>chore: Follow up sync in push helper</code>](https://github.com/krille-chan/fluffychat/commit/e4b923f3e95fe27e70beacc144701a4d9c14c1e0)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/68008241ec318b6926c2a65ae6f8d0d44af731cd)
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/482a62e0cd4f82fc3dbc1b6f6212efc389367460)
+- [ ] [<code>build: (deps): bump image_picker from 1.2.1 to 1.2.2</code>](https://github.com/krille-chan/fluffychat/commit/99f479e5e4e1ecb54614497c2abf09e1f1575499)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.0.2 to 4.0.3</code>](https://github.com/krille-chan/fluffychat/commit/9f03eb66788269b454286853d8ece8d4b0b28f1d)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1189,6 +1191,8 @@
 - [ ] [<code>chore: Follow up sync in push helper</code>](https://github.com/krille-chan/fluffychat/commit/e4b923f3e95fe27e70beacc144701a4d9c14c1e0)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/68008241ec318b6926c2a65ae6f8d0d44af731cd)
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/482a62e0cd4f82fc3dbc1b6f6212efc389367460)
+- [ ] [<code>build: (deps): bump image_picker from 1.2.1 to 1.2.2</code>](https://github.com/krille-chan/fluffychat/commit/99f479e5e4e1ecb54614497c2abf09e1f1575499)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.0.2 to 4.0.3</code>](https://github.com/krille-chan/fluffychat/commit/9f03eb66788269b454286853d8ece8d4b0b28f1d)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -8971,6 +8975,92 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test(qa): add gateway CPU scenario pack</code>](https://github.com/openclaw/openclaw/commit/4509420dd44e136e047ef3d8992ab0d3e8542526)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Clear Codex app-server env keys case-insensitively on Windows (#73102)</code>](https://github.com/openclaw/openclaw/commit/78d51dcebe9e4fe21ccdc63052909fddb630e572)
+- [ ] [<code>fix(ci): build complete release package artifacts</code>](https://github.com/openclaw/openclaw/commit/11d212882063db45319ec4c0b8c49e5adddd8d1e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(update): disable compile cache for post-update commands</code>](https://github.com/openclaw/openclaw/commit/d84ce5e419b4acaabf30d8e6685f663df760ac0b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(providers/bedrock): document Opus 4.7 temperature omission</code>](https://github.com/openclaw/openclaw/commit/14f140d6f0d31fed802869622c38c7e8f8e19587)
+- [ ] [<code>test(plugin): bound plugin update package smoke</code>](https://github.com/openclaw/openclaw/commit/61960342b1a405c061f80920172dd68fe30e2af0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: use standard runner for cross-os preparation</code>](https://github.com/openclaw/openclaw/commit/35059d1e3ab1b257c7ba4f1737ed81de78422557)
+- [ ] [<code>podman: wire OPENCLAW_INSTALL_BROWSER build-arg to setup script (#63407)</code>](https://github.com/openclaw/openclaw/commit/652bde387dcde9d27ae2265eb34e2d0fffd4dc21)
+- [ ] [<code>ci: use standard runner for release package preparation</code>](https://github.com/openclaw/openclaw/commit/969cb8b4c0fa58710482ceace0618615352a8ac6)
+- [ ] [<code>fix(gateway): reuse paired auth for probes</code>](https://github.com/openclaw/openclaw/commit/193c7432e33ffebd560dc7ab632a7ce17cf05fdf)
+- [ ] [<code>test(qa): restore GPT-5.5 scenario live metadata</code>](https://github.com/openclaw/openclaw/commit/7a5638ea8848114aa5b1e1f4085d1169f8625fb7)
+- [ ] [<code>fix(ci): disable compile cache for cross-os upgrades</code>](https://github.com/openclaw/openclaw/commit/7b2b0d07e84e3e124bdd55747f30ca4946e15edd)
+- [ ] [<code>fix(ci): harden cross-os release harness</code>](https://github.com/openclaw/openclaw/commit/25f7e062e14449d117c41840b1726af2321bba3a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: start repo live release checks earlier</code>](https://github.com/openclaw/openclaw/commit/d9b46e0551c27c6133771c2f11bb659848414e9f)
+- [ ] [<code>fix(ci): harden full release validation monitors</code>](https://github.com/openclaw/openclaw/commit/69fb7455c6223682a45dd8b8fb720bc3231bfa43)
+- [ ] [<code>test(ci): add plugin prerelease suite to CI (#73741)</code>](https://github.com/openclaw/openclaw/commit/e7947948b68f16ca7b27fbf78ad479d94a678371)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): skip plugin bootstrap for json gateway agents</code>](https://github.com/openclaw/openclaw/commit/5ef6e82685b57f8ff78397a0b5c42bfbc837dc6a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: normalize QA model refs for parity gates</code>](https://github.com/openclaw/openclaw/commit/cc7a209982500239fc2a35ebd1508d5e0af8bff2)
+- [ ] [<code>fix(ci): speed up release validation live probes</code>](https://github.com/openclaw/openclaw/commit/11849255722fd73d9e941f1c5a5a15c43b31b259)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(tasks): repair terminal mirrored flow timestamps</code>](https://github.com/openclaw/openclaw/commit/eb970bdb4220c92ee5afc71da02735e75de8838c)
+- [ ] [<code>test(ci): stabilize release validation flakes</code>](https://github.com/openclaw/openclaw/commit/e583db63c602d8d21b4ebdcd119061571a2e40a9)
+- [ ] [<code>ci: use api key auth for Codex CLI backend smoke</code>](https://github.com/openclaw/openclaw/commit/60861b382306dc2e47dbe83e6956a4f788fb866d)
+- [ ] [<code>test: speed up tts contract shard</code>](https://github.com/openclaw/openclaw/commit/baeba45be9f38b176a21baba835ee662cfb556d6)
+- [ ] [<code>fix(model): explain rejected session overrides</code>](https://github.com/openclaw/openclaw/commit/f4a9d34f984a943e89634c462f40d1016c00c427)
+- [ ] [<code>fix(gateway): reduce TUI history startup latency</code>](https://github.com/openclaw/openclaw/commit/7e41913a203a737dc26b76a5dd2b1512c6726021)
+- [ ] [<code>Wire diagnostics through the core chat command (#72936)</code>](https://github.com/openclaw/openclaw/commit/6ce1058296cc611fd8bebd8de73a2d5196e18b6a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(plugins): cache runtime mirror file decisions</code>](https://github.com/openclaw/openclaw/commit/75df09b9ec0b36fe3894deacff367c0081df039d)
+- [ ] [<code>fix(gateway): make handshake timeout configurable</code>](https://github.com/openclaw/openclaw/commit/bcc6a2400d2aba5874a0250273f42659c118ebed)
+- [ ] [<code>feat(docker): add OPENCLAW_SKIP_ONBOARDING env to skip onboarding during Docker setup (#55518)</code>](https://github.com/openclaw/openclaw/commit/490e6d6dc590515135abe2f318283a0e4e8c6546)
+- [ ] [<code>fix(ci): stabilize full release validation</code>](https://github.com/openclaw/openclaw/commit/955b4df0939f90b4b6de5e7e6f3149dd125e1e50)
+- [ ] [<code>build: ignore generated docker-compose.sandbox.yml (#64257)</code>](https://github.com/openclaw/openclaw/commit/a3f74410e448ca625210803fc435aa32deeec274)
+- [ ] [<code>test(ci): accept compact codex status output</code>](https://github.com/openclaw/openclaw/commit/d86ad7a61b3c7282f02ad94085561e8dcce66db1)
+- [ ] [<code>test(ci): tolerate live STT brand drift</code>](https://github.com/openclaw/openclaw/commit/a0f0c964fd40afc57b832fb313f4275c7406f360)
+- [ ] [<code>ci: shard agent runtime codeql quality</code>](https://github.com/openclaw/openclaw/commit/9c9dcd4d5d7cc5dc5099c3f513937294beb09882)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: add local build context to docker-compose (#65894)</code>](https://github.com/openclaw/openclaw/commit/e2b825eba4e224ad694944be3e16581614734f14)
+- [ ] [<code>docs: add clawhub rescan recovery guidance (#73414)</code>](https://github.com/openclaw/openclaw/commit/a235a487d029e30d24437c7b58bb599837b381b9)
+- [ ] [<code>fix(telegram): use owners for exec approvals (#73852)</code>](https://github.com/openclaw/openclaw/commit/43fa40a35dc3237bc78a3e51ed20299ef76e0a46)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): harden full release live checks</code>](https://github.com/openclaw/openclaw/commit/b04c9380ed63f5f7e98adfec155ff901b1490aba)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(ci): keep video live helper within plugin boundary</code>](https://github.com/openclaw/openclaw/commit/ef58307f843eed1a7832e9c23c519591f1b7cdbd)
+- [ ] [<code>test(plugins): add gateway gauntlet</code>](https://github.com/openclaw/openclaw/commit/a6dfaaeb4e5f9ac940154ac92827b7c934643b19)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(plugins): link gauntlet lifecycle installs</code>](https://github.com/openclaw/openclaw/commit/516a91243fef472755783adfde048984fab7c95f)
+- [ ] [<code>fix(plugins): print gauntlet failure details</code>](https://github.com/openclaw/openclaw/commit/8c9cac244dfc1236b962c324c80b70957aa1227d)
+- [ ] [<code>fix(plugins): run gauntlet against built cli</code>](https://github.com/openclaw/openclaw/commit/dd31a27e7169abcd8fd955aab7595474d7ec9ed4)
+- [ ] [<code>fix(plugins): allow bundled gauntlet install scan</code>](https://github.com/openclaw/openclaw/commit/de3f8af48e9f76b39caf55d0bd613cb9b0060e72)
+- [ ] [<code>fix(plugins): run gauntlet qa through source cli</code>](https://github.com/openclaw/openclaw/commit/e4cb0f668382fbbcbcf55ee287891582b49dacb3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): satisfy gauntlet script lint</code>](https://github.com/openclaw/openclaw/commit/8cca1598d9c17788fd07a66b1c581733452a5d2a)
+- [ ] [<code>Use kitchen sink for ClawHub plugin E2E (#73821)</code>](https://github.com/openclaw/openclaw/commit/2a7ba582cbfdd9dd4c89748b932762c6088e6b84)
+- [ ] [<code>fix(sandbox): add once option to Docker abort listener (#58277)</code>](https://github.com/openclaw/openclaw/commit/7dc0041ca9997c0c3323dd25d130ef6e6810a3fe)
+- [ ] [<code>fix(bonjour): recover from ciao cancellation</code>](https://github.com/openclaw/openclaw/commit/d3683a61c5f8b7a42e66c291d6646dd67eafc1a5)
+- [ ] [<code>perf(prompt): stabilize channel prompt suffix</code>](https://github.com/openclaw/openclaw/commit/8f4cbbbe6658608f95525dff84041669ced2f581)
+- [ ] [<code>test: add reusable OpenClaw test instance helper</code>](https://github.com/openclaw/openclaw/commit/5a0702ecf828e82be5d9f608fd9ad4d2217083fa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): speed up tarball checks and avoid CLI bootstrap</code>](https://github.com/openclaw/openclaw/commit/212a32648fe70e9f8088d8145736a0e31e6ba0b3)
+- [ ] [<code>fix(bonjour): suppress ciao internal cancellations</code>](https://github.com/openclaw/openclaw/commit/0487cc59f0aa646ee19fd61fc7d79078d1cc44f3)
+- [ ] [<code>test(ci): add kitchen-sink npm plugin prerelease lane</code>](https://github.com/openclaw/openclaw/commit/2eac4baceeecc24e453bccb97a0185f5bbe6c932)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(plugins): resolve ClawHub tags in prerelease CI</code>](https://github.com/openclaw/openclaw/commit/fd2625a16252f79be569454a206034e070c11777)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docker): add config dir defaults to compose mounts (#64485)</code>](https://github.com/openclaw/openclaw/commit/054b2e1b7e227a7f1e6eb7b190c267a014786976)
+- [ ] [<code>fix(ci): preserve imported dist chunks after install</code>](https://github.com/openclaw/openclaw/commit/03b1731d0f8a707e5a53e29e0c5195a9593f940f)
+- [ ] [<code>ci: raise Blacksmith Docker cache caps</code>](https://github.com/openclaw/openclaw/commit/6249c32826d8d8b560e85d8660bb50f766fa9785)
+- [ ] [<code>refactor: share docker e2e instance helpers</code>](https://github.com/openclaw/openclaw/commit/3286e99bc2b21a412b61e7e0a64ecbcf077c8e26)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(cli): skip plugin preload for json agent runs</code>](https://github.com/openclaw/openclaw/commit/45f3074ee68794f7d5ca1143846146b728add4b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): keep postinstall script self-contained</code>](https://github.com/openclaw/openclaw/commit/a820a307dfeb950fa633c0ae6fb2386a35a91991)
+- [ ] [<code>test(parallels): prefer arm64 mingit downloads</code>](https://github.com/openclaw/openclaw/commit/c24c8bab137180ca408e2af0e4fd8cb8b8290c1c)
+- [ ] [<code>fix(cli): load plugins for local JSON agent runs</code>](https://github.com/openclaw/openclaw/commit/e94e9347a4fbabb612a7c3293636698370ac9bc7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Route sensitive group commands to the owner privately (#73872)</code>](https://github.com/openclaw/openclaw/commit/4aa8da375659f34914d243ef4c0bb532d17f591b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: dispatch commit reviews on main pushes</code>](https://github.com/openclaw/openclaw/commit/ceeb3a7398bb5e9bf67782875220538db8272ecf)
+- [ ] [<code>fix(ci): pin release validation child ref</code>](https://github.com/openclaw/openclaw/commit/7229ec5e044d3e0ed8ff2f429dc49d40dc10b991)
+- [ ] [<code>fix(test): stabilize core runtime infra shard</code>](https://github.com/openclaw/openclaw/commit/8e5fcfff50260ebbc52518851e919adccc495d66)
+- [ ] [<code>fix(plugins): prebuild private qa for gauntlet</code>](https://github.com/openclaw/openclaw/commit/293348b429b43488fea57f9c38c4cc89c38977c6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
