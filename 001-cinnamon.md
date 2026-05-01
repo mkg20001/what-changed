@@ -293,7 +293,7 @@
   - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
-#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.3 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.3...HEAD)
+#### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
 - [ ] [<code>housekeeping: drop ldsm-dialog fallback (#433)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/1846634e18e350685ccf8b456c5b20a8940bb4a5)
   - <sub>Files: <code>meson.build</code></sub>
@@ -340,6 +340,10 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.6 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.6...HEAD)
 
+- [ ] [<code>Add support for libadwaita-1.9</code>](https://github.com/linuxmint/mint-l-theme/commit/618adf8795f47b65d4984e926788b301fc6b1771)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>2.0.7</code>](https://github.com/linuxmint/mint-l-theme/commit/26b9bfcfc2c0dd3eff3a1a8aa5d63a07dc11ca87)
+  - <sub>Tags: <code>2.0.7</code></sub>
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.8 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.8...HEAD)
 
@@ -350,7 +354,10 @@
 - [ ] [<code>Mint-Y-Dark: Update gtk2 theme and assets</code>](https://github.com/linuxmint/mint-themes/commit/a0ae67824b99f240010749211e7b3d88dfb68e73)
 - [ ] [<code>Mint-Y-Dark: Lighten up active applet bg in panel</code>](https://github.com/linuxmint/mint-themes/commit/211c66c5ee534e37a7ed36189338810091da5169)
 - [ ] [<code>fix(libadwaita): view background darker than sidebar (This solved #519) (#536)</code>](https://github.com/linuxmint/mint-themes/commit/9ba95ccc5af47cbd7441cc22f26fe04bb2ef3552)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Mint-X/Y: Add libadwaita 1.9 support.</code>](https://github.com/linuxmint/mint-themes/commit/b19430fbc7205457d8843f6f17805097a3865628)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>2.3.9</code>](https://github.com/linuxmint/mint-themes/commit/ee0e2ed9bb6ec7950a1aa2d90ab686b24ba1b281)
+  - <sub>Tags: <code>2.3.9</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
