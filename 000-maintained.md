@@ -1277,6 +1277,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Port the PoC for b/506387278 to libavif</code>](https://github.com/AOMediaCodec/libavif/commit/f416fdc0e813d40b7336556847bdd6d3b3b4732d)
 - [ ] [<code>Update to AVM research-v15.0.0 anchor RC1</code>](https://github.com/AOMediaCodec/libavif/commit/d9fe950c041734e6d8c034f20a7c5ae40ace7637)
 - [ ] [<code>Update comment for avifDecoderItem::mergedExtents</code>](https://github.com/AOMediaCodec/libavif/commit/b9d9bc17abbaaab89fd91b6912ef01f243ab03fe)
+- [ ] [<code>Replace memcpy call with struct member assignment</code>](https://github.com/AOMediaCodec/libavif/commit/9e918bbc82c0d72e1c56296287ac42b0c8f54a70)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -10340,6 +10341,36 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix: quiet Discord slash command deploy rate limits</code>](https://github.com/openclaw/openclaw/commit/bb3a0c954505145e1e0d00dc60f9eb222059dbb7)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[codex] Make external CLI credential discovery explicit (#75209)</code>](https://github.com/openclaw/openclaw/commit/90419df6633faa870c10f1a1bc43e8b886da8355)
+- [ ] [<code>docs(security): clarify disclosure policy</code>](https://github.com/openclaw/openclaw/commit/4429ee7d2e7f6261bc5af5827e20d9566b2287da)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): show config recovery validation details (#75081)</code>](https://github.com/openclaw/openclaw/commit/aa9db998f7bfb4785e47ba766a749a93691b9c0a)
+- [ ] [<code>fix(plugins): restore disabled TTS provider fallback</code>](https://github.com/openclaw/openclaw/commit/1d74ecd71f0facc2cf5a106f23f8b142c2815522)
+- [ ] [<code>chore(release): update appcast for 2026.4.29</code>](https://github.com/openclaw/openclaw/commit/f48f31aac9a5986ede4a5a6ac704130a5d421eb2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>ci(release): allow public mac validation from main</code>](https://github.com/openclaw/openclaw/commit/231e5c618f8ae700d51d080e4182a57588da888b)
+- [ ] [<code>test(parallels): harden npm update smoke transport</code>](https://github.com/openclaw/openclaw/commit/af5a1fbddb14a1f1ef2f6e9f3487f108d54ce066)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(changelog): credit TTS provider fallback report</code>](https://github.com/openclaw/openclaw/commit/f5e52566322ba820ac80cccd0e9d3550bd844dba)
+- [ ] [<code>fix(plugins): stop runtime deps reinstall loops</code>](https://github.com/openclaw/openclaw/commit/e311ffdcb94e760796a0a8a2c7e58fb8223678bf)
+- [ ] [<code>test(parallels): allow mac update script fallback user</code>](https://github.com/openclaw/openclaw/commit/359d871293e801dc9e5506b5002a4bf545c42662)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>Update SECURITY.md</code>](https://github.com/openclaw/openclaw/commit/148a34679f4b1a5b77e33e4dafd2c31e92067cfb)
+- [ ] [<code>docs: surface Codex harness quick config</code>](https://github.com/openclaw/openclaw/commit/c67629fe0c8dc79ebfc646132768d4714e4fd666)
+- [ ] [<code>test(parallels): retry post-update cli readiness</code>](https://github.com/openclaw/openclaw/commit/5a3b75de33dda11de7931686264ecf86df93de2d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: exclude app PRs from active limit</code>](https://github.com/openclaw/openclaw/commit/ef799fd57a77ff34eba85cae283267fb98543ad4)
+- [ ] [<code>test(parallels): retry stale post-update cli imports</code>](https://github.com/openclaw/openclaw/commit/919a68c64d295293845e77f3a0af2c5317292a31)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: add published upgrade survivor lane (#75221)</code>](https://github.com/openclaw/openclaw/commit/c0058fda2f8a6bc742d2e37bd0cc1ac77d252404)
+- [ ] [<code>test(parallels): recover stale windows update swap</code>](https://github.com/openclaw/openclaw/commit/48794b9f88c3939115abe3ae14cd3e64ea56690f)
+- [ ] [<code>fix(qa-lab): preserve gateway log offset order</code>](https://github.com/openclaw/openclaw/commit/1e87f6bf703dd3571bb719900e29a160d2e911a7)
+- [ ] [<code>fix(ci): escape stale update import regex</code>](https://github.com/openclaw/openclaw/commit/52bf20b07d6e08b92f670c23ab55637fcb3f1035)
+- [ ] [<code>chore(release): forward-port 2026.4.29 fixes and bump 2026.4.30</code>](https://github.com/openclaw/openclaw/commit/1ad50a36ac72c16c5e3819d52db0b50fd6c52ec3)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): GitHub App active-PR-limit exemption regression (#75311)</code>](https://github.com/openclaw/openclaw/commit/e47a7448e90ff75f2d21082a1c33a18695b49162)
+- [ ] [<code>fix(gateway): harden artifact RPCs</code>](https://github.com/openclaw/openclaw/commit/a102f4dede6af52523473ac29575c7e442493d15)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
