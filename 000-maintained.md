@@ -1279,6 +1279,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update comment for avifDecoderItem::mergedExtents</code>](https://github.com/AOMediaCodec/libavif/commit/b9d9bc17abbaaab89fd91b6912ef01f243ab03fe)
 - [ ] [<code>Replace memcpy call with struct member assignment</code>](https://github.com/AOMediaCodec/libavif/commit/9e918bbc82c0d72e1c56296287ac42b0c8f54a70)
 - [ ] [<code>Bump the github-actions group across 2 directories with 4 updates</code>](https://github.com/AOMediaCodec/libavif/commit/a1fa5df53a1e9f0a13de04260d3379cb6988e617)
+- [ ] [<code>Delete the unused variable i_cell</code>](https://github.com/AOMediaCodec/libavif/commit/ee88f984f540e7fb67ae6dc2212565b6a3d82b84)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1886,6 +1887,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>SMB Protocol (Windows.plugin) (#22236)</code>](https://github.com/netdata/netdata.git/commit/d3f74d66f137014fb8aafd7d49a0c80d808ae4d7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>snmp profiles: fix Netgear switch topology discovery (LLDP/FDB/STP) (#22366)</code>](https://github.com/netdata/netdata.git/commit/344ac976ff895dd596bc60387f530eb078020bd2)
+- [ ] [<code>Remove VLA (variable-length arrays)  (Streaming and Web) (#22276)</code>](https://github.com/netdata/netdata.git/commit/9d8440cb4f5a184971d81996d275253ae52578d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cmake): IBM MQ FetchContent check breaks incremental rebuilds (#22223)</code>](https://github.com/netdata/netdata.git/commit/8cecd94898b86c947deefb6b9006d2c138510045)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2989,6 +2993,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): serial numbers can contain non-hex alphabetic characters too</code>](https://github.com/Oppzippy/OpenSCQ30/commit/907cea07aa6fbabb7af56f1bec47ef3f9782aa58)
 - [ ] [<code>docs(README): add script for generating table of supported devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/9352bb88cf3049281129d510f024cb5406bf52a7)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat(lib): add a3040 voice prompt, low battery alert, and ldac</code>](https://github.com/Oppzippy/OpenSCQ30/commit/c3d09499080f22bc3ae164d9674cd9624b4d09fb)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.4.21 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.4.21...HEAD)
 
@@ -10969,6 +10975,207 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor: trim command args type export</code>](https://github.com/openclaw/openclaw/commit/62e1be2b980491ac46a65485382d3567cffc4dd0)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor: trim transport model helper exports</code>](https://github.com/openclaw/openclaw/commit/732aa11f2bec432a0ab73f964b0dedd987b17674)
+- [ ] [<code>refactor: trim agent helper shape exports</code>](https://github.com/openclaw/openclaw/commit/2e8e9cd6ca188d6b8f09b02e83eb775ef782a5fa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: simplify plugin dependency handling</code>](https://github.com/openclaw/openclaw/commit/ed8f50f240a8efdc7d1bea416a03218d8219c92a)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: trim live model scan exports</code>](https://github.com/openclaw/openclaw/commit/188ab3a5be9909fabcc358f86039e3e132f11dcc)
+- [ ] [<code>refactor: trim openai helper exports</code>](https://github.com/openclaw/openclaw/commit/f52fdd8553793ace41e2d73aa9d2cf56b9487701)
+- [ ] [<code>chore: clean up plugin dependency leftovers</code>](https://github.com/openclaw/openclaw/commit/4b7a000dcb7098263c8da9876788f34d8405c2d1)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore: clean up plugin dependency wording</code>](https://github.com/openclaw/openclaw/commit/1e4f511f0a3fd5975fb4ad3b1194e88e4246d584)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: trim pi helper exports</code>](https://github.com/openclaw/openclaw/commit/06fe78e4c4f5abe825234eb16ea2e272768a0d1b)
+- [ ] [<code>fix: allow subagent thinking config patch (#75802)</code>](https://github.com/openclaw/openclaw/commit/df478a82927479346ad4d7b5890f1d2220bdce81)
+- [ ] [<code>refactor: trim provider attribution exports</code>](https://github.com/openclaw/openclaw/commit/ac8633debe0afc56c2dcbab6369bca6d9ad1792b)
+- [ ] [<code>test(release): prefer GPT-5.5 smoke models</code>](https://github.com/openclaw/openclaw/commit/364ec537850072a2275d246adc67a64f07c1f3f6)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: keep OpenAI streams on OpenClaw transport</code>](https://github.com/openclaw/openclaw/commit/cf511288b84b0c8ce437b1fb7a92cf9ec684b80a)
+- [ ] [<code>refactor: trim agent core helper exports</code>](https://github.com/openclaw/openclaw/commit/b97a6f2849046293a41da8c6d18e93a40619273b)
+- [ ] [<code>refactor: remove bundled public surface runtime shim</code>](https://github.com/openclaw/openclaw/commit/9045a7c644d9a60c4265373bad3d29eabb33ec1a)
+- [ ] [<code>refactor: trim subagent helper exports</code>](https://github.com/openclaw/openclaw/commit/33e527d1fcc25cf2f4460aae45996f7dec24ffc3)
+- [ ] [<code>refactor: remove plugin dependency cleanup leftovers</code>](https://github.com/openclaw/openclaw/commit/112dedd0939b8a4972c49686f626124c68c36364)
+  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: simplify plugin dependency loading</code>](https://github.com/openclaw/openclaw/commit/257a3c068d1360874ca2099d5e503571d916f327)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(deps): update workspace dependencies</code>](https://github.com/openclaw/openclaw/commit/4144180eb0b3dcfed24f660cebb625d7ded58848)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: remove stale runtime deps lock smoke</code>](https://github.com/openclaw/openclaw/commit/8e63600c14bce64b3528f373f32d98e2f3eb821e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: trim auto reply helper exports</code>](https://github.com/openclaw/openclaw/commit/82e8518bd7b57b559e40eb17ea3eed41907ccc00)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: collapse plugin loader native fallbacks</code>](https://github.com/openclaw/openclaw/commit/dabddb21655c45cbdac0f2b8f31f08b0db1c35fd)
+- [ ] [<code>refactor: trim cli helper exports</code>](https://github.com/openclaw/openclaw/commit/4def4073d48103294f3e9b40f226abad4be1e0e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: prune legacy plugin dependency debris on postinstall</code>](https://github.com/openclaw/openclaw/commit/01c384cbf92d0dbfaaa0ebc514736ee686dfa0dc)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: trim cli shape exports</code>](https://github.com/openclaw/openclaw/commit/5c7362fe9d69fa3ff080831947dddeaf93d454f2)
+- [ ] [<code>fix(plugins): harden managed plugin install lifecycle</code>](https://github.com/openclaw/openclaw/commit/e302353d6187ceda2f4ee844e928c93690788553)
+- [ ] [<code>refactor: trim channel plugin loader helpers</code>](https://github.com/openclaw/openclaw/commit/9efa9419a9f645500f08f050ff07f0f7119e6c70)
+- [ ] [<code>Allow config includes from approved roots (#75746)</code>](https://github.com/openclaw/openclaw/commit/407c84e5737f01cecb1311498cfb023d70c9de41)
+- [ ] [<code>refactor: trim command shape exports</code>](https://github.com/openclaw/openclaw/commit/4b8856ecbb9238bc9dfcae2e8be5d2deaee13d5b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: stop masking legacy plugin dependency staging</code>](https://github.com/openclaw/openclaw/commit/eb2701e59526026885a5feaab89c307e38e1ecdb)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: remove stale plugin test cache hooks</code>](https://github.com/openclaw/openclaw/commit/019f4a5bb87687e6e2d7ee9c1307bf23d193894e)
+- [ ] [<code>chore: refresh release metadata baselines</code>](https://github.com/openclaw/openclaw/commit/0640db72b0596175d8f667fd63349fde7791299e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: trim status fixture exports</code>](https://github.com/openclaw/openclaw/commit/deeec3117c0db7be8604077ffe6917dc683ff870)
+- [ ] [<code>test: drop stale Docker plugin deps guard</code>](https://github.com/openclaw/openclaw/commit/ed97d628686dbda62eccf0f388b1f55d1fe8a140)
+- [ ] [<code>refactor: trim config helper exports</code>](https://github.com/openclaw/openclaw/commit/35a9785753aae1327bb48345ad482fd5f08cece2)
+- [ ] [<code>refactor: remove unused plugin test reset hooks</code>](https://github.com/openclaw/openclaw/commit/83c1d25d6bfc8ea69316158eddc39fc16ae7b17b)
+- [ ] [<code>refactor: trim config type exports</code>](https://github.com/openclaw/openclaw/commit/5b613cfa898d74c518db6695af5a239d8bceb3b9)
+- [ ] [<code>refactor: trim cron and rescue exports</code>](https://github.com/openclaw/openclaw/commit/a45c92b9927b8266826498f9569ab79a475fb68b)
+- [ ] [<code>fix: restore release ci guardrails</code>](https://github.com/openclaw/openclaw/commit/4b9aa3021a4512106eff23069746009c6e6784f7)
+- [ ] [<code>docs: remove stale plugin dependency staging wording</code>](https://github.com/openclaw/openclaw/commit/d93867baf3645d1458a73832e07b0cd0b598c589)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: trim cron validation exports</code>](https://github.com/openclaw/openclaw/commit/9e5c45484cd69cf6696330f9287431e949586b3e)
+- [ ] [<code>test: align plugin archive install expectation</code>](https://github.com/openclaw/openclaw/commit/ff64b96ff70928ad8fb38dada7ae07e2a3c0e448)
+- [ ] [<code>fix(slack): print setup manifest as plain JSON</code>](https://github.com/openclaw/openclaw/commit/c2a2cfe3147af199f7911956cbb12c993900df30)
+- [ ] [<code>fix(plugins): require declared runtime setup entries</code>](https://github.com/openclaw/openclaw/commit/d2ae2a3fb0cd155865bb3426374e9e80663f79fa)
+- [ ] [<code>fix(channels): clear stale terminal status reactions</code>](https://github.com/openclaw/openclaw/commit/4373103c2252c1344a92c984fb4100114641e3f2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: stop channel runtime before WhatsApp removal</code>](https://github.com/openclaw/openclaw/commit/fe8966b4eaf87135e474d9cc4dd5001e60d2abf1)
+- [ ] [<code>refactor: trim gateway local type exports</code>](https://github.com/openclaw/openclaw/commit/e0cc374b07c160b430a1078efca7ecbc6b975f3a)
+- [ ] [<code>refactor: trim gateway policy exports</code>](https://github.com/openclaw/openclaw/commit/eb02161bbe95f28447a97c50ba93bba6671c9198)
+- [ ] [<code>fix(discord): migrate channel agent route config</code>](https://github.com/openclaw/openclaw/commit/33b043b92074da8150d535f3fd237bda9ad5f142)
+- [ ] [<code>refactor: trim gateway helper type exports</code>](https://github.com/openclaw/openclaw/commit/5657710e15e5c3c6372c72b94e4fc49bf0e68a3e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: warn on legacy WhatsApp cron health checks</code>](https://github.com/openclaw/openclaw/commit/6af6688ce2a3118831a3191e2be3176983b1c09b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>refactor: trim gateway hook exports</code>](https://github.com/openclaw/openclaw/commit/236bd42bb36c54db2c3b1d4a54d78654d8aaaa66)
+- [ ] [<code>fix: honor telephony tts directives</code>](https://github.com/openclaw/openclaw/commit/4389ceedac2118a0b7b8c6df71571ec6eb56f170)
+- [ ] [<code>docs(agents): require review before sweep commits</code>](https://github.com/openclaw/openclaw/commit/dc3e8973c3000dec4efc6f04c2bcf7d5b06483e2)
+- [ ] [<code>refactor: trim gateway mcp node exports</code>](https://github.com/openclaw/openclaw/commit/54907045992dead0d4bfa6d17423aa564047ed56)
+- [ ] [<code>refactor: trim gateway runtime type exports</code>](https://github.com/openclaw/openclaw/commit/663552630a41f7672832768d382f760cfbf2afe5)
+- [ ] [<code>fix: exclude plugin dependency debris from package inventory</code>](https://github.com/openclaw/openclaw/commit/11a268819e82b40ef697858f6da870ef7d719b30)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>feat: support openai tts extra body</code>](https://github.com/openclaw/openclaw/commit/5e3265b09bfe06f0a3c1c848f10ba3095b0498e2)
+- [ ] [<code>refactor: drop legacy implicit startup sidecar fallback</code>](https://github.com/openclaw/openclaw/commit/7ac23eeeb58100601710efb3101f2af6ab0be4d0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: trim gateway server type exports</code>](https://github.com/openclaw/openclaw/commit/58f2d17e9e05f76c382c47e8a533af3595df0231)
+- [ ] [<code>refactor: trim gateway session type exports</code>](https://github.com/openclaw/openclaw/commit/47009dd7186864424ae0998a0650494831383034)
+- [ ] [<code>test: drop implicit startup sidecar smoke fallback</code>](https://github.com/openclaw/openclaw/commit/bac552faf7af67989c271cab755b26ccc601f7d8)
+- [ ] [<code>refactor: trim gateway tail type exports</code>](https://github.com/openclaw/openclaw/commit/13d1983ec7bae8f7755ce751e73604e16d96fe4d)
+- [ ] [<code>refactor: trim hooks local exports</code>](https://github.com/openclaw/openclaw/commit/4fd1b17cf0188f54798794f4e454d98c6f9aef2e)
+- [ ] [<code>fix(config): log observe recovery write failures (#75441)</code>](https://github.com/openclaw/openclaw/commit/667371dd5186b64461d6c38a9ece18a03a88dfd2)
+- [ ] [<code>fix: trace plugin tool factory timings (#75823)</code>](https://github.com/openclaw/openclaw/commit/0df90d9b8d5c4b67ca3e583fafef4a5163ed4a70)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: speed up slow vitest hotspots</code>](https://github.com/openclaw/openclaw/commit/bc2bb10fc1e18eb29eb08db83fc3c9d2e61bd7ce)
+- [ ] [<code>refactor: drop config metadata node_modules isolation</code>](https://github.com/openclaw/openclaw/commit/84e4f72350480ea5dbc77625c97c9f3238e65766)
+- [ ] [<code>refactor: trim approval infra exports</code>](https://github.com/openclaw/openclaw/commit/566cbb24aa0dddd43936b14bc2491735a6d9b127)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: remove stale plugin runtime deps reload planning</code>](https://github.com/openclaw/openclaw/commit/7abca33790895a3d31841c5e18cf555802eee09c)
+- [ ] [<code>refactor: trim approval runtime reexports</code>](https://github.com/openclaw/openclaw/commit/ce73e6647c0d4a27e3bc056054006cb4cbe15928)
+- [ ] [<code>refactor: trim infra path diagnostic exports</code>](https://github.com/openclaw/openclaw/commit/ebece95058f0b0192094f32c77340a509cc7dc96)
+- [ ] [<code>test(release): harden Windows smoke model setup</code>](https://github.com/openclaw/openclaw/commit/cce08881ecba48097959fdd90f7738e6636a7cdf)
+- [ ] [<code>refactor(matrix): avoid jiti on packaged runtime path</code>](https://github.com/openclaw/openclaw/commit/0bb52118e6c85620438b13340401e4cd0bc5e4dd)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(release): fix Windows smoke config patch quoting</code>](https://github.com/openclaw/openclaw/commit/34b40b007c44b44884b37908a207d7565e13891a)
+- [ ] [<code>test: harden plugin update validation</code>](https://github.com/openclaw/openclaw/commit/bcd6499abd4034d2d129276ed7d5e273157d1067)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: add update testing glossary label</code>](https://github.com/openclaw/openclaw/commit/60d0516a4e8618e6f2e7c2be06160c0f87c980fc)
+- [ ] [<code>test: remove stale config loader import</code>](https://github.com/openclaw/openclaw/commit/b20752501dd3e336b8a0f91253c284ed5cefc93d)
+- [ ] [<code>refactor: trim exec infra exports</code>](https://github.com/openclaw/openclaw/commit/45dee50c28604a2b8e4ac8cfdaf6b304afce8880)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>refactor(matrix): keep runtime wrapper native-only</code>](https://github.com/openclaw/openclaw/commit/4fce56294d33d23dc5899ab4a43b82070bd30223)
+  - <sub>Keywords: <code>bin</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: trim infra env exports</code>](https://github.com/openclaw/openclaw/commit/4babd925c40d9eeaecee95482b630342540da4f9)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>fix: refresh release validation expectations</code>](https://github.com/openclaw/openclaw/commit/d85980a529932bb14841c9ca3fdce63a1f93cc86)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: trim install infra exports</code>](https://github.com/openclaw/openclaw/commit/194c51695701431bf92988c4f593737516de7c21)
+- [ ] [<code>refactor(plugins): remove extension jiti test hooks</code>](https://github.com/openclaw/openclaw/commit/8043923910e9d8f18030580aa5ae826d4fef8d2d)
+- [ ] [<code>refactor: trim push infra exports</code>](https://github.com/openclaw/openclaw/commit/638437b7588df000f7ece356b390a111c020e21b)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: trim session infra exports</code>](https://github.com/openclaw/openclaw/commit/bf0f4080ef44bb44734ff9e997939823f018ebc1)
+- [ ] [<code>refactor: trim system infra exports</code>](https://github.com/openclaw/openclaw/commit/536e4f49bc39e44f21e4527f1bbcc5bf2e2546e9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(discord): allow DM access groups from channel audiences</code>](https://github.com/openclaw/openclaw/commit/b217cd09726f6c793dddac58b6d7a283b90840aa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: generalize message access groups (#75813)</code>](https://github.com/openclaw/openclaw/commit/20945b84b44a62d634967073ed1de743f05fe2fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document access groups</code>](https://github.com/openclaw/openclaw/commit/f64b660b243cec831626275900d8c3997647f024)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: trim logging helper exports</code>](https://github.com/openclaw/openclaw/commit/e165b7595832850866f344031dd54b8c670bddd3)
+- [ ] [<code>ci: run Telegram package E2E in full release validation</code>](https://github.com/openclaw/openclaw/commit/0c23584c2c04d2aac3cc04ef1b719b58e74eafb8)
+- [ ] [<code>test(release): strip BOM from Windows smoke config</code>](https://github.com/openclaw/openclaw/commit/890a053062b681caaef542537591a07e233aabae)
+- [ ] [<code>refactor(channels): load bundled modules without jiti</code>](https://github.com/openclaw/openclaw/commit/42773cb89f0ef059962ea41b211d4d2de345b7de)
+- [ ] [<code>refactor: trim mcp media exports</code>](https://github.com/openclaw/openclaw/commit/4f9bbc4ff982d338b882f6fce41011c6c383a465)
+- [ ] [<code>refactor: trim memory host wrappers</code>](https://github.com/openclaw/openclaw/commit/c7e3c68fde6967238e854ee8482bf6a68f2767ec)
+- [ ] [<code>build: prepare twitch plugin beta release</code>](https://github.com/openclaw/openclaw/commit/543b248c5a86486ca101d73af3293d57f60cea00)
+- [ ] [<code>refactor(plugins): keep bundled runtime boundaries native</code>](https://github.com/openclaw/openclaw/commit/c8451947e0ae590411960ddbeff13ae15ff35127)
+- [ ] [<code>fix(plugins): type web runtime plugin origins</code>](https://github.com/openclaw/openclaw/commit/4f44377312c04610cd8b4989e4c1325f7fcc08bb)
+- [ ] [<code>fix(plugins): redact git install failure urls</code>](https://github.com/openclaw/openclaw/commit/f7fd8033b49ca64f5fcaae5b45b59a39d4b24456)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(plugins): cover install lifecycle edges</code>](https://github.com/openclaw/openclaw/commit/c8d4fefe18e1af9972bf23fbec1798b631c5d13c)
+- [ ] [<code>docs(changelog): credit git install redaction fix</code>](https://github.com/openclaw/openclaw/commit/5fbfa1411b47b312475c1d080740e238f293397a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(shared): redact repeated URL userinfo</code>](https://github.com/openclaw/openclaw/commit/04cd8617328808b6ecac6968b0a0e7f840a16f7a)
+- [ ] [<code>fix: keep twitch beta package lockfile-stable</code>](https://github.com/openclaw/openclaw/commit/fd16687a0b9e48d0441202527d405730675c51fb)
+- [ ] [<code>fix: classify session liveness diagnostics</code>](https://github.com/openclaw/openclaw/commit/32db81ca5c352846ff16751dde703e510e7c8cea)
+- [ ] [<code>fix: preserve queued session recovery diagnostics</code>](https://github.com/openclaw/openclaw/commit/66c58e6d544fcfa47b4787ce7b7d374c3d9d8a67)
+- [ ] [<code>refactor: remove unused memory runtime wrappers</code>](https://github.com/openclaw/openclaw/commit/e964f567359c18d71d76e6a9754eb4b3cc00cde9)
+- [ ] [<code>test: strengthen release workflow contract coverage</code>](https://github.com/openclaw/openclaw/commit/e38fcb254b25913ef9fe1591e32e9fb8238e07a6)
+- [ ] [<code>refactor: extract diagnostic session classifier</code>](https://github.com/openclaw/openclaw/commit/f8a454e95ec04dd0fe99c6b11aa42880a932b57b)
+- [ ] [<code>test(plugins): cover jiti runtime package fallback</code>](https://github.com/openclaw/openclaw/commit/ad92b5dc06aa361a0c5b35328fb1cf8c733a5a16)
+- [ ] [<code>refactor: trim model catalog exports</code>](https://github.com/openclaw/openclaw/commit/e40c381fb878348f3f7630929a60334c91309d82)
+- [ ] [<code>ci: authenticate plugin npm publishes</code>](https://github.com/openclaw/openclaw/commit/41f2eada278d85018654274b316c01a09b7154d8)
+- [ ] [<code>test: speed up auto-reply reply shard</code>](https://github.com/openclaw/openclaw/commit/47286e7349656a1887cb753841aee0db9b23b113)
+- [ ] [<code>refactor: trim model planner exports</code>](https://github.com/openclaw/openclaw/commit/8e78c412e9394338eed7e979faf18f630c70d137)
+- [ ] [<code>fix: keep plugin release previews scoped</code>](https://github.com/openclaw/openclaw/commit/d09395dc04b23976e6efa348c8baf389318998c9)
+- [ ] [<code>refactor: trim node host exports</code>](https://github.com/openclaw/openclaw/commit/076fa5eae6e1739453bdb8bc2b3d2722a4dd87b8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor: trim acp client exports</code>](https://github.com/openclaw/openclaw/commit/a15ad36221e8b6c9780e10ec94347e7ea5f212ad)
+- [ ] [<code>refactor: trim agent type exports</code>](https://github.com/openclaw/openclaw/commit/c6ceb3e7724e8eb164924c9e96d57490c49a802d)
+- [ ] [<code>refactor: trim auth and exec type exports</code>](https://github.com/openclaw/openclaw/commit/3f4ca7c53bb2175dd7b59b3bb4c837ebe81821a1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: add update migration package gate</code>](https://github.com/openclaw/openclaw/commit/682e05532d8588c9c2d5828918de03918ec17796)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: trim subagent type exports</code>](https://github.com/openclaw/openclaw/commit/42b7b2b9242a4d30ac749bdabc7dcb435f93e9af)
+- [ ] [<code>fix: track diagnostic progress before stuck warnings</code>](https://github.com/openclaw/openclaw/commit/2d8d50d418a2dd4024a83fd15e6f9230340dc954)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: trim tool runtime type exports</code>](https://github.com/openclaw/openclaw/commit/a7a8c8121a6759760916b1d8cae738410a4551a8)
+- [ ] [<code>build: add twitch package repository metadata</code>](https://github.com/openclaw/openclaw/commit/fa54dcf8b486035c515cf783bf680a5818628d83)
+- [ ] [<code>refactor: trim auto reply type exports</code>](https://github.com/openclaw/openclaw/commit/07f523be4a2f48f27a0ec72b551fd6f12fc4fc03)
+- [ ] [<code>fix: tolerate update migration pre-doctor cleanup</code>](https://github.com/openclaw/openclaw/commit/683549b17f05ddd05f51956e456b6faf6af20ea1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: trim channel resolution type exports</code>](https://github.com/openclaw/openclaw/commit/106f8a4288033e12230d680596c2e4add9b77d27)
+- [ ] [<code>test: require plugin npm provenance repository</code>](https://github.com/openclaw/openclaw/commit/632b9f697eba2ce88bee3119414d201b494c2856)
+- [ ] [<code>refactor: trim auto reply type exports</code>](https://github.com/openclaw/openclaw/commit/5b38005a4ca4244f90f0305be510418b7125c2e6)
+- [ ] [<code>[AI-assisted] fix(agents): initialize context engines before subagent spawn prep (#73904)</code>](https://github.com/openclaw/openclaw/commit/f6b0281298dec3a260689fb1d1b8c63860027148)
+- [ ] [<code>refactor: trim startup channel type exports</code>](https://github.com/openclaw/openclaw/commit/ca0199490037fdf4d4537b5defe9e1644e2efccb)
+- [ ] [<code>ci: drop stale deadcode allowlist entries</code>](https://github.com/openclaw/openclaw/commit/edbe8d0ec35d084b6b275d347d52d67e2a9c5c29)
+- [ ] [<code>refactor: trim cli helper type exports</code>](https://github.com/openclaw/openclaw/commit/900e21fb1ac6c8c3212dd241db8bfad57c2c717d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: clarify session liveness telemetry</code>](https://github.com/openclaw/openclaw/commit/2be441062d7bb6d9ba5b58ea12f5ea3df2880696)
+- [ ] [<code>refactor: trim command helper type exports</code>](https://github.com/openclaw/openclaw/commit/b37234ff4e321293246a2a3d615b2b3e5fa56eaa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(release): default cross-os OpenAI smoke to GPT-5.5</code>](https://github.com/openclaw/openclaw/commit/4b4fbd7ea28076dd16c0c984d4774b33137efd35)
+- [ ] [<code>refactor: trim command option type exports</code>](https://github.com/openclaw/openclaw/commit/056c8eb488362f824eb9ad2689438b221e881c07)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: trim agent helper type exports</code>](https://github.com/openclaw/openclaw/commit/bcd058399163db4e03bca79920bf7838388fd52e)
+- [ ] [<code>refactor: trim subagent helper type exports</code>](https://github.com/openclaw/openclaw/commit/df32527298a2f449e987ee072e8f0ac6009bc358)
+- [ ] [<code>feat(plugins): persist clawhub storepack metadata</code>](https://github.com/openclaw/openclaw/commit/20e8769d9326d2da20fb29cf77f06529540140d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): keep clawhub storepack metadata version-scoped</code>](https://github.com/openclaw/openclaw/commit/3e3d7a82a49ac4d244ec8a51c89eab45a6a51d5c)
+- [ ] [<code>fix: use declarative channel configured-state probes</code>](https://github.com/openclaw/openclaw/commit/002c1d9c357b281c51f56932a17804f452ae1efd)
+- [ ] [<code>refactor: trim chat attachment type exports</code>](https://github.com/openclaw/openclaw/commit/c80ffe3f018344f392e735caca7eeeb2bb936904)
+- [ ] [<code>fix: type declarative channel state metadata</code>](https://github.com/openclaw/openclaw/commit/ca8da951f9774fa27a0ff4f77fef72f78a4cc8b4)
+- [ ] [<code>refactor: trim cli tagline exports</code>](https://github.com/openclaw/openclaw/commit/0217db53875dbed88eb7f486e8ad70a6fb6c7575)
+- [ ] [<code>fix: repair ci lint and clawhub fixtures</code>](https://github.com/openclaw/openclaw/commit/25d3f11243c6cf30f89afe983c4dafaa566eea97)
+- [ ] [<code>refactor: trim agent local helper exports</code>](https://github.com/openclaw/openclaw/commit/322139c84ee9aa4fc191e701873bf8190fb769c2)
+- [ ] [<code>perf: speed up bundled metadata test paths</code>](https://github.com/openclaw/openclaw/commit/4d06491ce8baa4204b5e7659989baa468c6265ca)
+- [ ] [<code>refactor: trim pi settings helper exports</code>](https://github.com/openclaw/openclaw/commit/74e18266d34c75fd2be98076d09cbfe9d53b5c81)
+- [ ] [<code>ci: stage generated plugin manifests for npm publish</code>](https://github.com/openclaw/openclaw/commit/d8c3e9ed6d27f07a0aec2a065f1062f2cda5a282)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: trim tool display type exports</code>](https://github.com/openclaw/openclaw/commit/096321a264264361c3a30db500f7492f48f39a63)
+- [ ] [<code>refactor: trim subagent capability exports</code>](https://github.com/openclaw/openclaw/commit/280d52963e848135e22bf2b98263a66f405cde70)
+- [ ] [<code>test: split secrets coverage migration gate</code>](https://github.com/openclaw/openclaw/commit/a7bdf56870a1ee99e356edcdcbf751e78e83278e)
+- [ ] [<code>refactor(plugins): rename clawhub storepack metadata to clawpack</code>](https://github.com/openclaw/openclaw/commit/0aa8022e887fddfc7c319e4e2a18559a1ea02cb3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(plugins): install clawhub clawpack artifacts</code>](https://github.com/openclaw/openclaw/commit/0a3a89810b69c111ddc6fe700aa289e63229500f)
+- [ ] [<code>fix: parse generated plugin manifest metadata safely</code>](https://github.com/openclaw/openclaw/commit/644caea8a71d21e3f6653cbbeb7f8ebf15646725)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -10994,11 +11201,19 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
-  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
-  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 270715 ms: Couldn't connect to server
-'
+
+#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
+
+- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
+  - <sub>Tags: <code>5.13</code></sub>
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
