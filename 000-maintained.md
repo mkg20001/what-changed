@@ -697,10 +697,12 @@
 - [ ] [<code>build: (deps): bump image_picker from 1.2.1 to 1.2.2</code>](https://github.com/krille-chan/fluffychat/commit/99f479e5e4e1ecb54614497c2abf09e1f1575499)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.2 to 4.0.3</code>](https://github.com/krille-chan/fluffychat/commit/9f03eb66788269b454286853d8ece8d4b0b28f1d)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/1bc1fd9bf87ed0910637bc3bb2497a51ef047056)
+- [ ] [<code>build: (deps): bump particles_network from 1.9.3 to 1.9.4</code>](https://github.com/krille-chan/fluffychat/commit/3ab8ca618930fd77ea30a86cf1f6285228ac41bd)
 - [ ] [<code>build: (deps): bump matrix from 7.0.0 to 7.1.0</code>](https://github.com/krille-chan/fluffychat/commit/67ee467d704e06ba37f7270d5b582962296ec30c)
 - [ ] [<code>build: Update to flutter 3.41.9</code>](https://github.com/krille-chan/fluffychat/commit/8a473bd8f721b745375aa734fa32789e9dcb1f0d)
 - [ ] [<code>build: (deps): bump go_router from 17.2.2 to 17.2.3</code>](https://github.com/krille-chan/fluffychat/commit/a5412c548bf7b6213437f8f618f68d4be613ec36)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/00d12080c447fa8128d8d6565cd46304dfde1059)
+- [ ] [<code>chore: Move support banner to changelog notification</code>](https://github.com/krille-chan/fluffychat/commit/29d2b2bbce4adc668b5c44cd871303e66361e75a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.4.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.4.1...HEAD)
 
@@ -1199,10 +1201,12 @@
 - [ ] [<code>build: (deps): bump image_picker from 1.2.1 to 1.2.2</code>](https://github.com/krille-chan/fluffychat/commit/99f479e5e4e1ecb54614497c2abf09e1f1575499)
 - [ ] [<code>build: (deps): bump dart_code_linter from 4.0.2 to 4.0.3</code>](https://github.com/krille-chan/fluffychat/commit/9f03eb66788269b454286853d8ece8d4b0b28f1d)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/1bc1fd9bf87ed0910637bc3bb2497a51ef047056)
+- [ ] [<code>build: (deps): bump particles_network from 1.9.3 to 1.9.4</code>](https://github.com/krille-chan/fluffychat/commit/3ab8ca618930fd77ea30a86cf1f6285228ac41bd)
 - [ ] [<code>build: (deps): bump matrix from 7.0.0 to 7.1.0</code>](https://github.com/krille-chan/fluffychat/commit/67ee467d704e06ba37f7270d5b582962296ec30c)
 - [ ] [<code>build: Update to flutter 3.41.9</code>](https://github.com/krille-chan/fluffychat/commit/8a473bd8f721b745375aa734fa32789e9dcb1f0d)
 - [ ] [<code>build: (deps): bump go_router from 17.2.2 to 17.2.3</code>](https://github.com/krille-chan/fluffychat/commit/a5412c548bf7b6213437f8f618f68d4be613ec36)
 - [ ] [<code>chore(translations): Translated using Weblate (Polish)</code>](https://github.com/krille-chan/fluffychat/commit/00d12080c447fa8128d8d6565cd46304dfde1059)
+- [ ] [<code>chore: Move support banner to changelog notification</code>](https://github.com/krille-chan/fluffychat/commit/29d2b2bbce4adc668b5c44cd871303e66361e75a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1901,6 +1905,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(dbengine): validate extent disk size and fix uncompressed page bounds (#22324)</code>](https://github.com/netdata/netdata.git/commit/1608f65b04124c7e20384667162195875dad4349)
 - [ ] [<code>agents: project-writing-collectors skill + SOW lifecycle updates (#22386)</code>](https://github.com/netdata/netdata.git/commit/5d611c4ce8c23560f8b392d110b9121e028de026)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>agents: strip leftover stash markers in SOW audit script and template (#22388)</code>](https://github.com/netdata/netdata.git/commit/355706cb02e45e95b8e8bf4fc374b8a71afadebf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -12107,6 +12112,108 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(gateway): reuse subagent registry snapshot in session listing (#75019)</code>](https://github.com/openclaw/openclaw/commit/a1dc8c066347f35623bcb7d5e96535ab3daebd4d)
 - [ ] [<code>feat(whatsapp): support newsletter targets in message tool (#73393)</code>](https://github.com/openclaw/openclaw/commit/0fad53a19281abf934c5101d681dfe21f3770351)
 - [ ] [<code>fix(heartbeat): make phase scheduling active-hours-aware (#75487) (#75597)</code>](https://github.com/openclaw/openclaw/commit/10448a0ad14cede01c6742f482e8f22672936c71)
+- [ ] [<code>fix: memoize plugin descriptor config keys (#76240)</code>](https://github.com/openclaw/openclaw/commit/b779c45a78147337fda65dc400519ded7190c8b1)
+- [ ] [<code>fix(cli): reject codex simple-completion probes</code>](https://github.com/openclaw/openclaw/commit/292bbcc2925321d0e27e683dc515d68a964d91c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Wizard: bound hatch TUI timeout (#76241)</code>](https://github.com/openclaw/openclaw/commit/86cc29274e03368f78d2bae275dde03e925c38e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): catalog externalized npm installs</code>](https://github.com/openclaw/openclaw/commit/d4268b1b2b746b17d60d315223e56a1e387e6bcf)
+- [ ] [<code>ci: use npm token for plugin publishes</code>](https://github.com/openclaw/openclaw/commit/0dafc37e579f4850593eb975f0cb4efbaf45c664)
+- [ ] [<code>fix(plugins): satisfy external catalog lint</code>](https://github.com/openclaw/openclaw/commit/94521a1cdd671c3b1753c5c2d890fb776ea9d397)
+- [ ] [<code>docs: sync docs with source truth</code>](https://github.com/openclaw/openclaw/commit/2dfa4b082a41240bbee87a3e4098c85496740feb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: install codex runtime plugin during doctor</code>](https://github.com/openclaw/openclaw/commit/47375fd6dc98e8912f5d734086d0a559f372615e)
+- [ ] [<code>fix: recover missing plugin payloads during update</code>](https://github.com/openclaw/openclaw/commit/63a3a0e1ec13cabdd42cc0b78826d9081c7fd620)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): install external search plugins during onboarding</code>](https://github.com/openclaw/openclaw/commit/46d4238425cafc18ad723ac95b7c24021c7a1263)
+- [ ] [<code>docs: update plugin npm distribution guidance</code>](https://github.com/openclaw/openclaw/commit/fd83c49cffc05af5f3722c2fb7df85a57cf4bcca)
+- [ ] [<code>fix(plugins): clarify unavailable clawhub artifacts</code>](https://github.com/openclaw/openclaw/commit/cd710bcfb2979a53ac37b6523d895ca3df600a1d)
+- [ ] [<code>fix(agents): lower session repair success logging</code>](https://github.com/openclaw/openclaw/commit/929df0f5567faf092ccaecb0cd5f8b92a1f68124)
+- [ ] [<code>fix: install disabled external search providers</code>](https://github.com/openclaw/openclaw/commit/282051a14fa5a49031c7d801db5f0e1293d1122c)
+- [ ] [<code>fix(release): exclude publishable plugin dist trees</code>](https://github.com/openclaw/openclaw/commit/3afd4fdeebc5ddfea73574b79efbacf5ade50b6e)
+- [ ] [<code>fix(doctor): preserve third-party plugin dependencies</code>](https://github.com/openclaw/openclaw/commit/24d0562d7d81d51bc657b9ddefc1ab52b069a2b3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: support home-relative media paths</code>](https://github.com/openclaw/openclaw/commit/3312ce5acba9175e45d19b091c3d456ceea648f2)
+- [ ] [<code>fix(config): reject unavailable provider refs</code>](https://github.com/openclaw/openclaw/commit/0841bcdc012a6f5c15c268f01d9774182a3692d0)
+- [ ] [<code>fix(status): show configured channels without gateway</code>](https://github.com/openclaw/openclaw/commit/871cd475af8f54b4dfc1fc3cc897437465f07108)
+- [ ] [<code>fix(plugins): tolerate missing clawhub artifact resolver</code>](https://github.com/openclaw/openclaw/commit/dc6d9973e925aef23b822346517878336c7d8eac)
+- [ ] [<code>test(ui): update home-relative media expectation</code>](https://github.com/openclaw/openclaw/commit/cb9a97f211c1d0b88c3d45bd78a2b5baf23ca4ac)
+- [ ] [<code>fix(status): report beta registry channel</code>](https://github.com/openclaw/openclaw/commit/d68ca425bd983e1d28fb5427bb77b8796290196a)
+- [ ] [<code>fix(plugins): suppress mirrored provider env warnings</code>](https://github.com/openclaw/openclaw/commit/0fbf4636f52c8968033dc3a7df69ee6f53893a34)
+- [ ] [<code>fix(status): trust live channel credential state</code>](https://github.com/openclaw/openclaw/commit/ce04ad83fa673347ed19150a0e141d0591676b8d)
+- [ ] [<code>fix(discord): persist slash command deploy hash</code>](https://github.com/openclaw/openclaw/commit/343e4723d88bf75edc505a006086270e8d0e4f03)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: complete source-backed docs sweep</code>](https://github.com/openclaw/openclaw/commit/c5013eaf43954adda2b1103dc8cad595c920b5f1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(doctor): repair effective plugin installs</code>](https://github.com/openclaw/openclaw/commit/5d6445417f343aa2ea113f886683db720d53120f)
+- [ ] [<code>Improve Codex happy path prompt snapshots (#76229)</code>](https://github.com/openclaw/openclaw/commit/9e57b98bb944807b10eaf7e11208c07a20743dc7)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs(experimental): explain local model lean mode for operators</code>](https://github.com/openclaw/openclaw/commit/3dbf31885cfd4a3d433a919b20a6e9d05aac97ee)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs(local-models): add hardware floor + backend picker, restructure stricter backend section as numbered triage flow</code>](https://github.com/openclaw/openclaw/commit/624eaf5d4a7939c7b565257ecc379cdba1114d4b)
+- [ ] [<code>fix(gateway): expose restart drain controls</code>](https://github.com/openclaw/openclaw/commit/f6f8d74419a14d2d25ea74c1352c57ffb216dd61)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(changelog): note beta upgrade fixes</code>](https://github.com/openclaw/openclaw/commit/9f8744b140445e29e83e5ff24b650301e5fe206b)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: normalize LM Studio binary reasoning efforts</code>](https://github.com/openclaw/openclaw/commit/2fd1e7b32dd8843fc36772ae3dd6da483e84f162)
+- [ ] [<code>fix(plugins): use default tags for official plugin installs</code>](https://github.com/openclaw/openclaw/commit/00ad13b5990813c6eacf386c7d4d268551cd7d84)
+- [ ] [<code>fix(plugins): detect stale persisted registry metadata</code>](https://github.com/openclaw/openclaw/commit/e5f8c5195f3142f8483ca3ed3b071f830bd5c086)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(release): align pack checks with externalized plugins</code>](https://github.com/openclaw/openclaw/commit/15dc7d3f57eab7fe42022e6d25512c6acf9bf6a2)
+- [ ] [<code>fix(ci): satisfy lint after restart controls</code>](https://github.com/openclaw/openclaw/commit/2a7d6f6f1386ee9f448fe82f9737e972f6e6008e)
+- [ ] [<code>fix: reserve auth CLI root from plugin allowlist gating</code>](https://github.com/openclaw/openclaw/commit/7f83ba8ddf84f595ab20ba19016d91cc5dadaa8b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): narrow active task restart blockers</code>](https://github.com/openclaw/openclaw/commit/123a507fa2b1151f380299587e4b62982daca2c1)
+- [ ] [<code>fix: repair stale configured channel plugins</code>](https://github.com/openclaw/openclaw/commit/192e750035e7b018c257eb47ec73b1ae008724d2)
+- [ ] [<code>chore(config): refresh config docs baseline</code>](https://github.com/openclaw/openclaw/commit/1f03b629befc1e90ebdac72b1e80272e347f7e17)
+- [ ] [<code>fix(codex): forward workspace bootstrap context</code>](https://github.com/openclaw/openclaw/commit/9fdc0e703077228b4b8308813ba845cda32c4223)
+- [ ] [<code>fix(active-memory): fast-fail stalled recall paths (#76183)</code>](https://github.com/openclaw/openclaw/commit/ae82a39150f9e02668ea34ca5955ccfc9bd67b70)
+- [ ] [<code>test(plugins): harden package plugin e2e lanes</code>](https://github.com/openclaw/openclaw/commit/1417008ff75903984be3fe4d9ad36555052e1378)
+- [ ] [<code>test(plugins): pin kitchen sink npm fixture</code>](https://github.com/openclaw/openclaw/commit/a8f62725e549f43c2ea38eb09c914d3cc2a15f4d)
+- [ ] [<code>test(plugins): avoid kitchen sink config drift</code>](https://github.com/openclaw/openclaw/commit/7a540767701b67dab56cf442818b3a030e0085fd)
+- [ ] [<code>fix(onboarding): surface official plugin installs</code>](https://github.com/openclaw/openclaw/commit/c8fa0fd1c9d588d7000380fd561c377cc2897952)
+- [ ] [<code>fix(plugins): canonicalize install provenance paths</code>](https://github.com/openclaw/openclaw/commit/dc005e1bccbf1332f3a3b06eacf878e11b032cea)
+- [ ] [<code>fix(channels): keep matrix and mattermost bundled</code>](https://github.com/openclaw/openclaw/commit/e3d76d2e1f76fb42b4e9f5f90ada268eb0763402)
+- [ ] [<code>Rename Codex runtime prompt snapshot directory (#76274)</code>](https://github.com/openclaw/openclaw/commit/bcb2476ae717342a0808003cdc2dfeee42ea078b)
+- [ ] [<code>test(docker): expect discord onboard package lane</code>](https://github.com/openclaw/openclaw/commit/9ef7c024c8ed19c51031d1b9f91ab25808c4c1e7)
+- [ ] [<code>docs: remove alpha release references</code>](https://github.com/openclaw/openclaw/commit/816f3f11a1c222ff6cc450c600048eaa98b6b4ed)
+- [ ] [<code>fix: stop bonjour stuck-announcing churn</code>](https://github.com/openclaw/openclaw/commit/9404a4ddcd11cc00849951e75a126f48f569faec)
+- [ ] [<code>fix(gateway): keep requested plugin tools invokable (#76285) thanks @BunsDev</code>](https://github.com/openclaw/openclaw/commit/57d6e63f30bcafd3af1f33cce5bda174553f2ec5)
+- [ ] [<code>fix(plugins): allow Discord install repair</code>](https://github.com/openclaw/openclaw/commit/e857c795a813dacf47d4ee104c03e975eaab28b3)
+- [ ] [<code>fix: allow beta gateway refresh for same release config</code>](https://github.com/openclaw/openclaw/commit/550d6f5c4345f6733def7dd2fbcf8a38e32e7695)
+- [ ] [<code>test(tooling): align plugin prerelease expectations</code>](https://github.com/openclaw/openclaw/commit/9a899a29b81021bb87051c84d430977867f250d1)
+- [ ] [<code>fix(channels): clarify remote install hints</code>](https://github.com/openclaw/openclaw/commit/15bbf4f2f304b2b116e588643fc8d99daa9f245d)
+- [ ] [<code>feat(webchat): add server-side dictation (#76021)</code>](https://github.com/openclaw/openclaw/commit/68359cacbf58ac5b4775c11bb435977e64af34fc)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fix Trinity main-session compatibility mismatch (#73388)</code>](https://github.com/openclaw/openclaw/commit/dd43caa27aa1a805af6a4f1bdaa9a7122d609100)
+- [ ] [<code>fix: trusted installs</code>](https://github.com/openclaw/openclaw/commit/5ed7f1fd264d27102a5f39aff41eb0960500721b)
+- [ ] [<code>fix(feishu): split timeout env parsing from client</code>](https://github.com/openclaw/openclaw/commit/282b9fe6168bcdbf7491b6491240089fc9452b83)
+- [ ] [<code>test(e2e): allow npm configured plugin installs</code>](https://github.com/openclaw/openclaw/commit/a1054fbe1b2e327bd7c03fed215ddb801240f5ba)
+- [ ] [<code>test: show bootstrap context in prompt snapshots (#76302)</code>](https://github.com/openclaw/openclaw/commit/ad0e1a0d5d9b03dbca2729e95e5786f16989c279)
+- [ ] [<code>fix(ci): pass upgrade survivor matrix to package planning</code>](https://github.com/openclaw/openclaw/commit/7be0d6e76d5caf87416ba686ac7f40b5326f649a)
+- [ ] [<code>fix: keep media provider inventory internal (#75550)</code>](https://github.com/openclaw/openclaw/commit/9ef7f241f605bd598aceef77d1be065cc2603908)
+- [ ] [<code>test(e2e): accept bundled configured plugins</code>](https://github.com/openclaw/openclaw/commit/1c4d3e2f4fcbaf7fc266693ae845df8a5d8c247d)
+- [ ] [<code>fix: reduce WebUI session latency churn (#76277) thanks @BunsDev</code>](https://github.com/openclaw/openclaw/commit/05c9492bff0f57e65fbb27b9b251cb586802ba2d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: prune legacy plugin runtime deps on install</code>](https://github.com/openclaw/openclaw/commit/f7549079ceb3d7c558497acba33a571ba4d647f3)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): preserve every client tool call when agent calls multiple tools per turn</code>](https://github.com/openclaw/openclaw/commit/2584d0d415fa063b0e45b23b254d64d2545eab75)
+- [ ] [<code>docs(changelog): add 2026.4.30 highlight for file-transfer plugin</code>](https://github.com/openclaw/openclaw/commit/f30aca95c3b74440c84f3df3b31579248fc4af64)
+- [ ] [<code>test(e2e): accept external discord survivor installs</code>](https://github.com/openclaw/openclaw/commit/76fb2c4b87b6ce5591ea7f81b64336c271c5d450)
+- [ ] [<code>test(e2e): keep matrix survivor installs internal</code>](https://github.com/openclaw/openclaw/commit/4c33f7d751433a24492c44bbe0634479e4c9a2e5)
+- [ ] [<code>fix: reset turns bypass active queue modes (#74144) (thanks @yelog)</code>](https://github.com/openclaw/openclaw/commit/c8ab22997ba6e5cad3e871c67e7a4a1d200ce197)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(doctor): repair phantom configured plugin installs</code>](https://github.com/openclaw/openclaw/commit/4bc6b9d7cf3a7c8196ab7787e8879516f3930c1c)
+- [ ] [<code>fix(slack): ignore no_reaction in remove helpers (#76320)</code>](https://github.com/openclaw/openclaw/commit/cf46dc54ffd6c4ebed994ddcbd6e841162163eb9)
+- [ ] [<code>fix(cron): persist manual run ids in history (#76288)</code>](https://github.com/openclaw/openclaw/commit/f30dc0aeb4ce87ada1aef40042fda5729951a0bf)
+- [ ] [<code>fix(e2e): escape Windows stale update import regex (#75315) thanks @steipete</code>](https://github.com/openclaw/openclaw/commit/afe42fc9774a1c94903b686c6220631c786b03d2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(pr): prefer verified GitHub commits for prep pushes (#76323) thanks @BunsDev</code>](https://github.com/openclaw/openclaw/commit/a81c7f5d32147c35edc2793796459c6f1aa2960f)
+- [ ] [<code>test(active-memory): avoid wall-clock fragile terminal recall assertions</code>](https://github.com/openclaw/openclaw/commit/bcfa5bc32b787fce5ce40afd300562559c50f6a9)
+- [ ] [<code>[AI-assisted] fix(feishu): probe status with account credentials (#76321)</code>](https://github.com/openclaw/openclaw/commit/10c9200f759ea3b0b7507ee400e4392c580bae0d)
+- [ ] [<code>fix(doctor): reinstall missing configured plugin payloads</code>](https://github.com/openclaw/openclaw/commit/4026af1a8bf7a79ee16cd43c78d28acad3147a0c)
+- [ ] [<code>test(memory): keep promotion signal fixture inside age window</code>](https://github.com/openclaw/openclaw/commit/06cdb17ad28111fe0515c5b4c6f6fdbc1dc36e1a)
+- [ ] [<code>fix(cron): route CLI-runtime cron models through compatible backend (#76319)</code>](https://github.com/openclaw/openclaw/commit/004e8716569cfc6a24c3b2919ca01bb0e3353a20)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -12135,7 +12242,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 > Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
   cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
   stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
-fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 269740 ms: Couldn't connect to server
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Failed to connect to git.launchpad.net port 443 after 269171 ms: Couldn't connect to server
 '
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
