@@ -230,8 +230,13 @@
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>polkitAuthenticationAgent.js: Fix initial focus widget.</code>](https://github.com/linuxmint/cinnamon/commit/b389ce8c0907baee68177c5d58d9fdf0d460974e)
 - [ ] [<code>sound@cinnamon.org: Move MprisManager setup after _showFixedElements.</code>](https://github.com/linuxmint/cinnamon/commit/1c50d511b25f956e96003d697f1934c743a42d44)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>gwl: Add overflow support through slide/scroll list (#13352)</code>](https://github.com/linuxmint/cinnamon/commit/902502141411e13bd6af7eb0cee284fb3ba2a21e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>gwl: Add overflow support through slide/scroll list (#13352)</code>](https://github.com/linuxmint/cinnamon/commit/7e9c81f4b76e6c8c1827f0b13aabec4be827519f)
+- [ ] [<code>Change session type from Application to XSession (#13677)</code>](https://github.com/linuxmint/cinnamon/commit/2692b3749f609ca0563ddb30a1f18ea8d76a341b)
+- [ ] [<code>pointerTracker: fix ny coordinate using nx in get_real_pointer_position (#13723)</code>](https://github.com/linuxmint/cinnamon/commit/e6fd59b237e8cd2e561df57b318a4f48e5a39a27)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
