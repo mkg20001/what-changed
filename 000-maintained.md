@@ -12701,6 +12701,146 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(config): refresh config docs baseline</code>](https://github.com/openclaw/openclaw/commit/62fb50d7fc5d8451852526a29814ccec619c4dcf)
 - [ ] [<code>fix: avoid fresh launchd repair kickstart</code>](https://github.com/openclaw/openclaw/commit/b726214cf3c3be2185bc072d3431ecbaf5b5859b)
 - [ ] [<code>fix(test): align plugin gauntlet with built runtime</code>](https://github.com/openclaw/openclaw/commit/53cc52981b84b41a4d23ed1b4267d3ab261c9e34)
+- [ ] [<code>docs: clarify update diagnostics</code>](https://github.com/openclaw/openclaw/commit/3147efbed40babd3a36eba6a4ea4bad3e56073a6)
+- [ ] [<code>feat(qa): add Mantis before-after CLI</code>](https://github.com/openclaw/openclaw/commit/d4af125b52ef9248d2c4f94cb94c90262460c88d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(qa): trigger Mantis Discord QA from PR comments</code>](https://github.com/openclaw/openclaw/commit/d8b82df5d430d41d14331f5fa4f64bb6e97ac4b6)
+- [ ] [<code>docs: note crabbox macos windows targets</code>](https://github.com/openclaw/openclaw/commit/ac1e56f4ec489910bf1747eb98e4ae0bfd489748)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>ci(qa): upsert Mantis PR comments by marker</code>](https://github.com/openclaw/openclaw/commit/e387764014d6d18f8c9fadaf4366fc509fb136c6)
+- [ ] [<code>fix: honor env proxy for provider guarded fetch</code>](https://github.com/openclaw/openclaw/commit/ca620fbd4f9f7eade5f7962755bd0d0ed786f432)
+- [ ] [<code>fix(daemon): prefer system node for gateway install</code>](https://github.com/openclaw/openclaw/commit/d0ad5c3eaaef2d3f05b6a058ace6f68d5ed5ff05)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: avoid launchd kickstart after fresh bootstrap</code>](https://github.com/openclaw/openclaw/commit/1ace6a0d6a0dc764834253aca9220ea8507a0634)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: prune stale plugin runtime symlinks</code>](https://github.com/openclaw/openclaw/commit/797d02497e8e5121201c80b16aa77d07482a4b1d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: record upgrade recovery fixes</code>](https://github.com/openclaw/openclaw/commit/33017605678be69b5caec159e7522939143ab6ff)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: thread package root into symlink cleanup</code>](https://github.com/openclaw/openclaw/commit/9ebdd2602002c7509ae5508ca3e297890b52b875)
+- [ ] [<code>fix(plugins): dedupe manifest diagnostics</code>](https://github.com/openclaw/openclaw/commit/5355ef0f080bc79492ae7d55782b7e99e53aa539)
+- [ ] [<code>feat: add channel progress drafts</code>](https://github.com/openclaw/openclaw/commit/c33e578554695145c1428268b740891bdf01deaa)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(upgrade): unlink stale plugin runtime symlinks</code>](https://github.com/openclaw/openclaw/commit/990f931a2efc1b55ba4556312f54bb50373e4e3f)
+- [ ] [<code>fix(channels): normalize progress auto labels</code>](https://github.com/openclaw/openclaw/commit/257c5a517fa12035c3ee21febe57ce912925aa71)
+- [ ] [<code>fix(discord): seed progress drafts at dispatch start</code>](https://github.com/openclaw/openclaw/commit/be324914cb16e4bb2e6e48a1735da2c28bdcb055)
+- [ ] [<code>fix(channels): expose progress draft config hints</code>](https://github.com/openclaw/openclaw/commit/8beda864164b85e1b222376f4357928334769126)
+- [ ] [<code>fix(gateway): dedupe active WebChat sends</code>](https://github.com/openclaw/openclaw/commit/bd2f8560fee61788c76d9bb5eb99912b7932b010)
+- [ ] [<code>fix: add trusted env proxy opt-in for web fetch</code>](https://github.com/openclaw/openclaw/commit/66336bf7c846d79725c236b158d25851f21de915)
+- [ ] [<code>feat(agents): add current-session steer command</code>](https://github.com/openclaw/openclaw/commit/3e80805d11de4eec7f015edf5c87d02a55003c5a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: repair Google Meet media permission grants</code>](https://github.com/openclaw/openclaw/commit/5fa7d3b1a4a097fd90729e3e731c336cd2343642)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(doctor): repair configured missing plugins</code>](https://github.com/openclaw/openclaw/commit/bdd68a75eadcbaf5513fda5b876046302f7e6d87)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(mattermost): accept streaming config</code>](https://github.com/openclaw/openclaw/commit/35f6071d8d5841b185db070826263c9c64f22aaf)
+- [ ] [<code>docs: document ship it shortcut</code>](https://github.com/openclaw/openclaw/commit/545a7e55906c34b7503cf0a0ff6549b7280cd6a9)
+- [ ] [<code>fix(cron): clarify no-delivery previews</code>](https://github.com/openclaw/openclaw/commit/0872b505b00e1a80e02ff9c0ef1bd9fc5227d0e2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(googlechat): correct group setup example</code>](https://github.com/openclaw/openclaw/commit/d3ee67b420eaaf8d16abf6b234a38c04104ca60c)
+- [ ] [<code>fix(discord): keep progress drafts through interim blocks</code>](https://github.com/openclaw/openclaw/commit/dd3225460734743339e866aa2e396c369e8ab4a9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: retry delayed Google Meet speech</code>](https://github.com/openclaw/openclaw/commit/b5d240332f9871d78c104016f9a1f89c692291ed)
+- [ ] [<code>ci(testbox): add maintainer os harnesses</code>](https://github.com/openclaw/openclaw/commit/56de90e87677d117bded219229063dfd1b5ce969)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(discord): bind draft boundary callbacks</code>](https://github.com/openclaw/openclaw/commit/41df8191c5380ca34e7a8047812b8f1c71a4442e)
+- [ ] [<code>fix(tlon): expose group invite allowlist</code>](https://github.com/openclaw/openclaw/commit/d57b16ff8131c19a901245445288fc9149a71199)
+- [ ] [<code>docs: add steer command guide</code>](https://github.com/openclaw/openclaw/commit/90a5b08fb7995609b8bb5d698d9d3e89d067dba5)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(plugins): recover managed npm install ledger</code>](https://github.com/openclaw/openclaw/commit/4047f4d0b4207a475d5380ba46a50d6294bd909c)
+- [ ] [<code>test(qa): add Slack live transport lane</code>](https://github.com/openclaw/openclaw/commit/31cafbb80265a006aca6d69fb6357711318d46c2)
+- [ ] [<code>ci(testbox): remove unusable windows harness</code>](https://github.com/openclaw/openclaw/commit/d3043345ca142f43b45f733e880ca3abb9efd71c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: detect muted Google Meet microphone</code>](https://github.com/openclaw/openclaw/commit/940487e20f02d9e6110edbc034ef31b93168aec7)
+- [ ] [<code>fix(docs): validate channel config snippets</code>](https://github.com/openclaw/openclaw/commit/9ae93179e2ea8c246df60202a888aa69220a6110)
+- [ ] [<code>test(googlechat): mirror gaxios interceptor surface</code>](https://github.com/openclaw/openclaw/commit/3f27ef8ef8a43c12aff0a6ec3a48dd0666194825)
+- [ ] [<code>fix(docs): make slack manifest snippets parseable</code>](https://github.com/openclaw/openclaw/commit/f275e9d4b91b70fa542346800dad9f1467372101)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(e2e): require configured plugin npm repair</code>](https://github.com/openclaw/openclaw/commit/95ef5eb7620a6599cebe4dca0996d1bfd6e64536)
+- [ ] [<code>fix(qa): fail slack no-reply on any reply</code>](https://github.com/openclaw/openclaw/commit/a027ac0195f4edfe774b5a5614d49768096341e5)
+- [ ] [<code>test(extensions): keep shard balance assertion stable</code>](https://github.com/openclaw/openclaw/commit/7e92c440ebe889f22aebc14c8314ac70e3ea3644)
+- [ ] [<code>test(qa): preserve Slack live failure artifacts</code>](https://github.com/openclaw/openclaw/commit/1fbc240e702ce64448365cc7138541d97c2abc01)
+- [ ] [<code>docs(changelog): drop docs-only Channel docs and Google Chat setup-example entries</code>](https://github.com/openclaw/openclaw/commit/9f2f75ff02936c8526a770b0c3de395e4bde9e6d)
+- [ ] [<code>fix(cli): avoid local preload for gateway-owned message actions (#76898)</code>](https://github.com/openclaw/openclaw/commit/6529cad499424f2942807f59ed1734f43abcfc2a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docs): validate strict channel json fences</code>](https://github.com/openclaw/openclaw/commit/0bf19f540d2ee98ad6e44a27bef5b9b0c3fef4ca)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(plugins): discover alsoAllow plugin tools</code>](https://github.com/openclaw/openclaw/commit/e5ec14a06a670c9ac276f746be6e794748c2cb22)
+- [ ] [<code>fix(docs): validate plugin json examples</code>](https://github.com/openclaw/openclaw/commit/9ba7183b634dc604114722d0e2aa8f8573404822)
+- [ ] [<code>test(agents): stabilize anthropic abort live harness</code>](https://github.com/openclaw/openclaw/commit/d62fb9eac315148ad2891169157b89bd9fe0a27e)
+- [ ] [<code>fix(docs): use additive llm task allowlist</code>](https://github.com/openclaw/openclaw/commit/b2fd814f91f777d55414c0a5fa49729be497148b)
+- [ ] [<code>fix(discord): handle SecretRef runtime status (#76987)</code>](https://github.com/openclaw/openclaw/commit/911ac6dd10931b8173bb990fe81316237d3d8107)
+- [ ] [<code>fix(mattermost): expose streaming config hints</code>](https://github.com/openclaw/openclaw/commit/60cf8c79fe1d9ea738b2936b5c3630d536421dbb)
+- [ ] [<code>fix(channels): add ellipses to progress draft defaults</code>](https://github.com/openclaw/openclaw/commit/107aad97422ed7168fe9553d0669b1047382f5a3)
+- [ ] [<code>fix(plugins): fall back to stable official npm versions</code>](https://github.com/openclaw/openclaw/commit/250be27f64b655cdba7a59e82b1872e2891ab715)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): relax Matrix tool progress matching</code>](https://github.com/openclaw/openclaw/commit/8a1e2202734476d79b462bbdf66e6291c26104d7)
+- [ ] [<code>fix(mattermost): honor progress tool silence</code>](https://github.com/openclaw/openclaw/commit/3546a5400317d4571e8ba409f7f5f8ff9f1bbaa7)
+- [ ] [<code>fix(openai): wait for realtime transcription session update</code>](https://github.com/openclaw/openclaw/commit/f66af6a5f552f0ffb8e16071aed8c8586246e239)
+- [ ] [<code>fix(openai): avoid duplicate realtime setup errors</code>](https://github.com/openclaw/openclaw/commit/0a8694c522f1762cdac403204120440e06377d99)
+- [ ] [<code>fix(plugins): allow prerelease-only official packages</code>](https://github.com/openclaw/openclaw/commit/3efa82de86c72f70863272d89f596537939c4308)
+- [ ] [<code>docs: clarify fixed issue closeout</code>](https://github.com/openclaw/openclaw/commit/4419a9de2a50b8c1b3730dd5fc70c96e4ad8376e)
+- [ ] [<code>fix(plugins): supplement external catalog contracts</code>](https://github.com/openclaw/openclaw/commit/b5affa64b3bbbf24e1a35b5629e053ec08e7c188)
+- [ ] [<code>fix(msteams): stream progress tool lines</code>](https://github.com/openclaw/openclaw/commit/12dbfab678b8723e478743e3fc8cdadeff16ed9e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: stabilize Google Meet realtime audio</code>](https://github.com/openclaw/openclaw/commit/88b983a7139e147f46aa12fef8b66794a27c96a6)
+  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(channels): delay progress drafts until work is visible</code>](https://github.com/openclaw/openclaw/commit/392897304cc57b96c74e52b0457d141332037948)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(plugins): merge external catalog channel hints</code>](https://github.com/openclaw/openclaw/commit/b520e40cf6d4dbf32594b98a93be4eef5b5e3940)
+- [ ] [<code>fix(plugins): prefer newest official prerelease install</code>](https://github.com/openclaw/openclaw/commit/cde959116814cf4fe660fbc3691f99bd7f4f5d32)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(agents): retry empty live cache probe text</code>](https://github.com/openclaw/openclaw/commit/7fb2e5506f364b3958c77cde1bf7f20cf90697b5)
+- [ ] [<code>fix(memory-lancedb): declare apache-arrow peer</code>](https://github.com/openclaw/openclaw/commit/7915110259c29f178db9841abc94dbe8fe477349)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(openai): wait for realtime voice session readiness</code>](https://github.com/openclaw/openclaw/commit/50a7b95227543a174284262b8f06937fd63aba51)
+- [ ] [<code>test(qa): harden Matrix tool progress live check</code>](https://github.com/openclaw/openclaw/commit/d841394eba035723372a7120b34b8283514ec87e)
+- [ ] [<code>fix(daemon): preserve systemd env-file secrets on re-stage</code>](https://github.com/openclaw/openclaw/commit/f8f881f63fab6e2a28074b87bb01274c6befd3f6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(doctor): commit legacy migrations even when unrelated validation fails (#76800)</code>](https://github.com/openclaw/openclaw/commit/b1db87fb3646597971866d0e37fe2986790aafb2)
+- [ ] [<code>fix(qa): align mock tool progress markers</code>](https://github.com/openclaw/openclaw/commit/07b52b4a016e409f4fd4ee65be43e87bec3325fc)
+- [ ] [<code>fix(plugins): narrow optional tool cold loads</code>](https://github.com/openclaw/openclaw/commit/baadd74b6bb515f4a20aadf10ccadbec156e4f28)
+- [ ] [<code>fix(cli): retry admin device approval after ownership denial</code>](https://github.com/openclaw/openclaw/commit/c3f5c20f2cc0ed7a5d7a8f45fd0df3a4ddc6b5ce)
+- [ ] [<code>test: simplify parallels smoke harness</code>](https://github.com/openclaw/openclaw/commit/d609859a8beaff280070e0a8bc3e7ee825e670d6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(channels): skip empty progress drafts</code>](https://github.com/openclaw/openclaw/commit/d2ba09b3017091408bd52ab353c4b3f59e0c42e0)
+- [ ] [<code>test(qa): relax Matrix tool progress preview wording</code>](https://github.com/openclaw/openclaw/commit/744b7e56e25f925d8af19d40f71e7deded0093c7)
+- [ ] [<code>fix(slack): skip empty progress refreshes</code>](https://github.com/openclaw/openclaw/commit/c90a828d171c014da197b406ff6614fe4644b57d)
+- [ ] [<code>docs(changelog): credit @hclsys for doctor legacy-migration fix</code>](https://github.com/openclaw/openclaw/commit/ef0f5d8cfa462240bb7efb62a8f5c35bb2e520d3)
+- [ ] [<code>fix(workspace): allow @whiskeysockets/libsignal-node in onlyBuiltDependencies (#76539)</code>](https://github.com/openclaw/openclaw/commit/df5c45362529eb2cb435cdf44e1e8f426888391d)
+- [ ] [<code>fix(channels): unify progress draft line formatting</code>](https://github.com/openclaw/openclaw/commit/36c047c0264ef7124d957ac8791f0406d7b10fb1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: update maintainer closeout guidance</code>](https://github.com/openclaw/openclaw/commit/a94897d99c388b6bebcd608c8186c47c48071e45)
+- [ ] [<code>fix(qa): require cache probe marker</code>](https://github.com/openclaw/openclaw/commit/de82d17de2a7964bfa05988698f019ffe7801f1e)
+- [ ] [<code>fix(openai): omit realtime transcription session type</code>](https://github.com/openclaw/openclaw/commit/d057a308f3f4796389991c4c2fe77547e6ed9367)
+- [ ] [<code>fix(openai): fail realtime voice pre-ready closes</code>](https://github.com/openclaw/openclaw/commit/f88e1f4c1c165af2797dfe6890d5b69390d62153)
+- [ ] [<code>feat(openrouter): add opt-in response caching</code>](https://github.com/openclaw/openclaw/commit/34b3471f85539bcd937e8d3896cf3e01c0c7fe12)
+- [ ] [<code>fix(realtime): label pre-ready transcription closes</code>](https://github.com/openclaw/openclaw/commit/ecd562b2b5f0c20a35a6a44f9532cc439cf81bf5)
+- [ ] [<code>fix(openai): flatten realtime transcription session update</code>](https://github.com/openclaw/openclaw/commit/4dc2aedb767d81928a37da8a1d76585429cdd048)
+- [ ] [<code>test(qa): wait for Matrix approval reaction echo</code>](https://github.com/openclaw/openclaw/commit/e782f47ecabf1f4fc00d3ba0f1468229bc171e14)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(qa): narrow Matrix approval test id</code>](https://github.com/openclaw/openclaw/commit/52dbc4d6807b98c9364eb53e14d191b80487ab87)
+- [ ] [<code>feat(openrouter): expand app attribution categories</code>](https://github.com/openclaw/openclaw/commit/f1340be051500867bb34895a4c2c4d29f9b31a48)
+- [ ] [<code>fix: preserve Codex binding OAuth transport</code>](https://github.com/openclaw/openclaw/commit/05d11a43189356c0314310d21bc195a98fb21ec5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: select Codex OAuth profile for bound app-server turns</code>](https://github.com/openclaw/openclaw/commit/71f55214ecafbc6762c8ec1ad930e517207443ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(changelog): note Codex binding auth fix</code>](https://github.com/openclaw/openclaw/commit/12d90a26f7b8c7de25c2a03047ed704c60ea8148)
+- [ ] [<code>fix: resolve Codex native auth by profile provider</code>](https://github.com/openclaw/openclaw/commit/8ea04f994a454aaec1bf89f8f1700417bfcc7777)
+- [ ] [<code>test: harden Codex binding provider normalization</code>](https://github.com/openclaw/openclaw/commit/c308d04bca86301327987888e1808c8bb0f85daf)
+- [ ] [<code>fix(plugins): filter unavailable optional tools</code>](https://github.com/openclaw/openclaw/commit/443f7035a2e5e31cab659de6b4927978eda5e3d8)
+- [ ] [<code>chore: Update active PR limit to 20</code>](https://github.com/openclaw/openclaw/commit/40b8d52240bf1dff6e65b44205855d1063ed256a)
+- [ ] [<code>fix(plugins): update trusted prerelease installs</code>](https://github.com/openclaw/openclaw/commit/f5927cbb43c4011ae9416115a96e7aa0e9dc6420)
+- [ ] [<code>test(qa): accept Matrix read progress labels</code>](https://github.com/openclaw/openclaw/commit/5f416f09f60fe816f126cd4e68665428b96cb1b9)
+- [ ] [<code>fix(plugins): trust official externalized npm installs</code>](https://github.com/openclaw/openclaw/commit/c42a349b42cb9098ce3a4bfeed970c5823276e81)
+- [ ] [<code>fix: stabilize Google Meet realtime talkback</code>](https://github.com/openclaw/openclaw/commit/b13e9f186491ab8954a62cfd098c370f5444aa8a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): clean pinned externalized load paths</code>](https://github.com/openclaw/openclaw/commit/9799e412f863b0eca3df6a33ea2d6b0b61552b4f)
+- [ ] [<code>fix: harden gateway install recovery paths</code>](https://github.com/openclaw/openclaw/commit/9c37cfcbdbf7d49ebee84ae2d60dca3b1f66602b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(qa): add Mantis desktop browser smoke</code>](https://github.com/openclaw/openclaw/commit/57b2d297613a29010b14eca8fefbeced00e5db86)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix: keep bootstrap context in system prompt</code>](https://github.com/openclaw/openclaw/commit/0fa70f5a47f89e201ec8a35e214f42b0eb452899)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -12726,19 +12866,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 > Dropped soundwireserver - no appropriate URL found OrderedDict({'attr_path': 'soundwireserver', 'home_url': 'https://georgielabs.net/', 'src_url': 'https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz', 'urls': ['https://web.archive.org/web/20211120182526/https://georgielabs.net/SoundWire_Server_linux64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-
-#### [ssh-import-id](https://git.launchpad.net/ssh-import-id): [refs/tags/5.11 → HEAD](https://git.launchpad.net/ssh-import-id/compare/refs/tags/5.11...HEAD)
-
-- [ ] [<code>Replace use of ssh-keygen with python code to do the same.</code>](https://git.launchpad.net/ssh-import-id/commit/7b72b5c2f30afe3b08cf54ef63354e8401420b01)
-  - <sub>Keywords: <code>subprocess</code></sub>
-- [ ] [<code>SECURITY: Fix critical security vulnerabilities in ssh-import-id v5.12</code>](https://git.launchpad.net/ssh-import-id/commit/aab19a968b0dcba492573168c0c263b110721382)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Add GitLab support to ssh-import-id v5.13</code>](https://git.launchpad.net/ssh-import-id/commit/dbaaaf121cce53053563d63d9c8cbf2febb35c70)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Add experimental Go implementation v6.0</code>](https://git.launchpad.net/ssh-import-id/commit/986bdab3920692b9438e4beeb9028d7253680e2f)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PyPI metadata format in setup.py</code>](https://git.launchpad.net/ssh-import-id/commit/152911cac4b019ea0702fdb0b97c0f52655cc828)
-  - <sub>Tags: <code>5.13</code></sub>
+> Failed to clone https://git.launchpad.net/ssh-import-id Cmd('git') failed due to: exit code(128)
+  cmdline: git clone -v -- https://git.launchpad.net/ssh-import-id /home/runner/work/what-changed/what-changed/src/../work/ssh-import-id
+  stderr: 'Cloning into '/home/runner/work/what-changed/what-changed/src/../work/ssh-import-id'...
+fatal: unable to access 'https://git.launchpad.net/ssh-import-id/': Recv failure: Connection reset by peer
+'
 > Dropped steam - no appropriate URL found OrderedDict({'attr_path': 'steam', 'home_url': 'https://store.steampowered.com/', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 > Dropped steam-unwrapped - no appropriate URL found OrderedDict({'attr_path': 'steam-unwrapped', 'home_url': 'https://store.steampowered.com/', 'src_url': 'https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz', 'urls': ['https://repo.steampowered.com/steam/archive/stable/steam_1.0.0.85.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
