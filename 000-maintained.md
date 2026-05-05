@@ -17,7 +17,7 @@
 
 > Dropped dart - no appropriate URL found OrderedDict({'attr_path': 'dart', 'home_url': 'https://dart.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
-> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.0.3/dbeaver-ce-26.0.3-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.0.3/dbeaver-ce-26.0.3-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
+> Dropped dbeaver-bin - no appropriate URL found OrderedDict({'attr_path': 'dbeaver-bin', 'home_url': 'https://dbeaver.io/', 'src_url': 'https://github.com/dbeaver/dbeaver/releases/download/26.0.4/dbeaver-ce-26.0.4-linux-x86_64.tar.gz', 'urls': ['https://github.com/dbeaver/dbeaver/releases/download/26.0.4/dbeaver-ce-26.0.4-linux-x86_64.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
 #### [docuum](https://github.com/stepchowfun/docuum): [refs/tags/v0.26.1 → HEAD](https://github.com/stepchowfun/docuum/compare/refs/tags/v0.26.1...HEAD)
@@ -1291,6 +1291,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump the github-actions group across 2 directories with 4 updates</code>](https://github.com/AOMediaCodec/libavif/commit/a1fa5df53a1e9f0a13de04260d3379cb6988e617)
 - [ ] [<code>Delete the unused variable i_cell</code>](https://github.com/AOMediaCodec/libavif/commit/ee88f984f540e7fb67ae6dc2212565b6a3d82b84)
 - [ ] [<code>Use size_t arithmetic in pixel offset calculations</code>](https://github.com/AOMediaCodec/libavif/commit/f17110dac426a7dd046a34b99276e64d9fb73c28)
+- [ ] [<code>avifenc: reject mismatched --depth for Y4M input</code>](https://github.com/AOMediaCodec/libavif/commit/9bd9e4dacd933f1e30d4cefe1ff88262338367ea)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1986,6 +1987,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/3b55b5803129dcca80aaed8e1fca455ed90f0b1f)
 - [ ] [<code>docs: fix incorrect Docker nightly tag in switching-install-types.md (#22306)</code>](https://github.com/netdata/netdata.git/commit/0bfb12cba2022c017d1e21b7be7363a5ac847322)
 - [ ] [<code>docs: add note about negative multipliers in Prometheus as-collected export (#22321)</code>](https://github.com/netdata/netdata.git/commit/d2c6f680d903dbe4898611260271c59f4011692a)
+- [ ] [<code>docs: add anomaly rate alerting guidance and cross-references (#22283)</code>](https://github.com/netdata/netdata.git/commit/2d697d0db134bcbccd13ecb1d312137cbd489be9)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Bump repositroy config package version used by kickstart script to the latest. (#22420)</code>](https://github.com/netdata/netdata.git/commit/01611572b3aebe0ab94d43d7c6baa875f30634fd)
+- [ ] [<code>Add AI-assistant skills (query-netdata, integrations, learn, agent-events, mirror) (#22423)</code>](https://github.com/netdata/netdata.git/commit/d8531e4ba7134581b9eb5d6f780fd2dae513b7b4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -12632,6 +12638,62 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>ci: harden Mantis Crabbox CLI help check</code>](https://github.com/openclaw/openclaw/commit/70d92b5e59df55d6d3d26f2cdb1d6f188182257a)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix: avoid early Slack credential leases in Mantis</code>](https://github.com/openclaw/openclaw/commit/0c977cd687939eb61f80f6d5d78d57aa9a809e7d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: allow Mantis Slack smoke to reuse desktop leases</code>](https://github.com/openclaw/openclaw/commit/fb20567500043f4ce19f03ca42ab49df1d243f0e)
+- [ ] [<code>ci: run Slack Mantis harness on GitHub runners</code>](https://github.com/openclaw/openclaw/commit/10725c9e01444975ed052cc3df5c30feb548f72d)
+- [ ] [<code>fix(update): stop dev updates after fetch failure</code>](https://github.com/openclaw/openclaw/commit/c1a385df8395a48bb8bf108994aff8cb0d239e07)
+- [ ] [<code>docs(changelog): note dev update fetch failure fix</code>](https://github.com/openclaw/openclaw/commit/9f4a3932eda4e1ea156205cea3ff9f64f64d74b2)
+- [ ] [<code>feat(gateway): add SDK environment discovery RPCs (#74867) thanks @ai-hpc</code>](https://github.com/openclaw/openclaw/commit/63de304102fa992e26003b69a92f9f95b4a44da8)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>ci: skip Slack Mantis comments without artifacts</code>](https://github.com/openclaw/openclaw/commit/04442f4c059faa5206437f075391a029e18fe394)
+- [ ] [<code>ci: allow Slack Mantis failure evidence without screenshots</code>](https://github.com/openclaw/openclaw/commit/e6f5f5693d2204d355b8b50e4ec427d411be3040)
+- [ ] [<code>fix(cli): handle closed plugin uninstall prompt (#73566)</code>](https://github.com/openclaw/openclaw/commit/a3870686947b54246474a48020e094f1f6bbc0fa)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Harden config backup restore permissions (#77488)</code>](https://github.com/openclaw/openclaw/commit/91879ac442d18d305e72e360e4f4255d2843a3a7)
+- [ ] [<code>fix: re-ingest daily memory during dreaming (#76359) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/8faf91a2a8c9e0f522eeb20b56ad164a4a07565c)
+- [ ] [<code>fix(embed): set lastBlockReplyText only after emitting block reply</code>](https://github.com/openclaw/openclaw/commit/cb8c94a8cb4c44dbf951cfdfc9afa5516303104b)
+- [ ] [<code>fix: preserve final text after silent block chunks (#77840) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/5d03fb2553d2a9af246c4d9ea5d0c7dc0f214194)
+- [ ] [<code>fix: skip compile cache permission warnings (#76362) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/77ae06bfaa018f9e687ceebb46c9af50e0eb3d26)
+- [ ] [<code>fix(agent-reply): surface CLI subprocess timeouts in user-facing replies</code>](https://github.com/openclaw/openclaw/commit/a01ba8099b1701aeb5a2c3901466df8ccbe0697d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix: surface CLI subprocess timeout copy (#77015) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/3a0812b157d4f593aabd06f8933c1c3417412521)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix: persist embedded session transcripts (#77839) (thanks @neeravmakwana)</code>](https://github.com/openclaw/openclaw/commit/63ce0ca966db3d36485b1f1cb42025d7063def2f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): bump version to 2026.5.5</code>](https://github.com/openclaw/openclaw/commit/c37871e77bc404e2151ded7432b8d1da21c95601)
+- [ ] [<code>docs: consolidate moved docs pages</code>](https://github.com/openclaw/openclaw/commit/b31774749cc012476f4be17f9d1bbf5009450539)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(gateway): flush initial openai chat stream chunk</code>](https://github.com/openclaw/openclaw/commit/d520bc4cb6b335076f9093c8e1c7493e4d68a90c)
+- [ ] [<code>fix(gateway): mark openai role chunks unfinished</code>](https://github.com/openclaw/openclaw/commit/fd86ab2e50038eeffb9e106a6ffb77634c83a2b1)
+- [ ] [<code>fix: avoid media completion fallback while announce pending</code>](https://github.com/openclaw/openclaw/commit/b32d4c5255c5d3ad089bf9a8c6dc25cf9e46c563)
+- [ ] [<code>refactor: centralize agent run pending status</code>](https://github.com/openclaw/openclaw/commit/7188e4f4ad87a51a11d3dc3c7909fd79ea01d6e9)
+- [ ] [<code>fix(plugins): forward install records to channel catalog registry (#77269)</code>](https://github.com/openclaw/openclaw/commit/5fae1c32b5f8e33c9fabcad0cc3cbdbc6e899051)
+- [ ] [<code>fix: keep successful Mantis Slack summaries clean</code>](https://github.com/openclaw/openclaw/commit/7d5ca3064a513aebc84083c2a1d48b674c9e96c8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: speed up changed test paths</code>](https://github.com/openclaw/openclaw/commit/64b1f5fbf498b4b87d3e60e42e61a071f1f4d787)
+- [ ] [<code>fix(doctor): warn when OPENCLAW_GATEWAY_TOKEN env overrides gateway.auth.token config (#74433)</code>](https://github.com/openclaw/openclaw/commit/7dc6007aeea23e4fa8c96db0eaabc455e412a0ce)
+- [ ] [<code>refactor: compute base config schema at runtime</code>](https://github.com/openclaw/openclaw/commit/55d1cf87d7ca6f3543d7bec2f6c5d11f27ee4c07)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf: speed up Mantis Slack desktop smoke</code>](https://github.com/openclaw/openclaw/commit/e8a9c766c2c3d3cba17b46f58c62f6c148552f6a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: remove legacy agent dir resolver</code>](https://github.com/openclaw/openclaw/commit/35da7d2c992cd4dc6640bf17e6997a4963e69d8a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: drop legacy agent path files</code>](https://github.com/openclaw/openclaw/commit/4ddbdff7c00706afde5edbc8443bcd4d872d5a10)
+- [ ] [<code>Add WhatsApp live QA lane (#77704)</code>](https://github.com/openclaw/openclaw/commit/84e8e0972570c58067b6aaff443374bc92fcb7d8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: narrow changed-test routing for shared internals</code>](https://github.com/openclaw/openclaw/commit/e28ad6a8697baddd4cd828690c56e895f444e984)
+- [ ] [<code>feat(DX): Add Out-of-the-Box Support for Debugging in VSCode-Based IDEs (#45710)</code>](https://github.com/openclaw/openclaw/commit/9abf01faf01b1118b0456104d0814c601201b7ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: compact generated protocol metadata</code>](https://github.com/openclaw/openclaw/commit/782963ae66a0d129ab3a7c54a5cd789f7af5b367)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(voice-call): improve realtime Meet voice agent</code>](https://github.com/openclaw/openclaw/commit/79dd65e208894f2bc8bef8fc627aa43e2bd04488)
+- [ ] [<code>fix: restore Codex agent dir runtime import</code>](https://github.com/openclaw/openclaw/commit/a6d88e3cd91fcd93f8c0c020814a7bcc235b058f)
+- [ ] [<code>perf: add Mantis Slack hydrate timings</code>](https://github.com/openclaw/openclaw/commit/26bc40c1a4f2736d88aa3b068c3cea25b989c914)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: cover mantis slack failure summary metadata</code>](https://github.com/openclaw/openclaw/commit/d65d401c29f4d15548e18f23cc0987f3649c3173)
+- [ ] [<code>fix: mark accepted Mantis remote runs</code>](https://github.com/openclaw/openclaw/commit/c319f3c4d583a69545713753de5f31d0abf11aed)
+- [ ] [<code>test: scope unit coverage gate</code>](https://github.com/openclaw/openclaw/commit/6455ed24cffd55e09e81f76b12687f2bb1c7b204)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
