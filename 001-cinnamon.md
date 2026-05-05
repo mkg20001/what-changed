@@ -236,7 +236,9 @@
 - [ ] [<code>gwl: Add overflow support through slide/scroll list (#13352)</code>](https://github.com/linuxmint/cinnamon/commit/7e9c81f4b76e6c8c1827f0b13aabec4be827519f)
 - [ ] [<code>Change session type from Application to XSession (#13677)</code>](https://github.com/linuxmint/cinnamon/commit/2692b3749f609ca0563ddb30a1f18ea8d76a341b)
 - [ ] [<code>pointerTracker: fix ny coordinate using nx in get_real_pointer_position (#13723)</code>](https://github.com/linuxmint/cinnamon/commit/e6fd59b237e8cd2e561df57b318a4f48e5a39a27)
+- [ ] [<code>Fix some runtime and python bytecompile warnings.</code>](https://github.com/linuxmint/cinnamon/commit/127fe2d5ceb411f981257ab47d9ee5e13007c052)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -322,7 +324,10 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>debian: Add automount desktop file for removal.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d92af861d00c166d8134cda45c04933b4cf34bf3)
+- [ ] [<code>Update csd-disk-space-helper.c (#449)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8e1dfa131ec4914f5f2694511cb5d6ac844a8d3d)
+- [ ] [<code>Don't install the static csd library. (#450)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dd21a780743f4d9df1fe058b975a55a9cd151b7c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
