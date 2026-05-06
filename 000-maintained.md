@@ -1292,6 +1292,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Delete the unused variable i_cell</code>](https://github.com/AOMediaCodec/libavif/commit/ee88f984f540e7fb67ae6dc2212565b6a3d82b84)
 - [ ] [<code>Use size_t arithmetic in pixel offset calculations</code>](https://github.com/AOMediaCodec/libavif/commit/f17110dac426a7dd046a34b99276e64d9fb73c28)
 - [ ] [<code>avifenc: reject mismatched --depth for Y4M input</code>](https://github.com/AOMediaCodec/libavif/commit/9bd9e4dacd933f1e30d4cefe1ff88262338367ea)
+- [ ] [<code>Add pull request #3179 to CHANGELOG.md</code>](https://github.com/AOMediaCodec/libavif/commit/ee0ce4ea86b4240c35d96d05a685ed00146dba56)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1992,6 +1993,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump repositroy config package version used by kickstart script to the latest. (#22420)</code>](https://github.com/netdata/netdata.git/commit/01611572b3aebe0ab94d43d7c6baa875f30634fd)
 - [ ] [<code>Add AI-assistant skills (query-netdata, integrations, learn, agent-events, mirror) (#22423)</code>](https://github.com/netdata/netdata.git/commit/d8531e4ba7134581b9eb5d6f780fd2dae513b7b4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-161-nightly.</code>](https://github.com/netdata/netdata.git/commit/ab43ea482b3b297870c958a3bf535cdc2382af37)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -12694,6 +12696,62 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: cover mantis slack failure summary metadata</code>](https://github.com/openclaw/openclaw/commit/d65d401c29f4d15548e18f23cc0987f3649c3173)
 - [ ] [<code>fix: mark accepted Mantis remote runs</code>](https://github.com/openclaw/openclaw/commit/c319f3c4d583a69545713753de5f31d0abf11aed)
 - [ ] [<code>test: scope unit coverage gate</code>](https://github.com/openclaw/openclaw/commit/6455ed24cffd55e09e81f76b12687f2bb1c7b204)
+- [ ] [<code>Revert "test: narrow changed-test routing for shared internals"</code>](https://github.com/openclaw/openclaw/commit/01dda73e9bb1ecb787e2762612fc3bb586d731a0)
+- [ ] [<code>fix(discord): show reasoning text in progress drafts (#78050)</code>](https://github.com/openclaw/openclaw/commit/d94e7f5114dcf4ee5dccb99eee5938d6355eb692)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Tolerate corrupt plugins during update (#77706)</code>](https://github.com/openclaw/openclaw/commit/8aa7b7a4ca177752f9b9ddc93494f03f1d8c24b9)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(gateway): skip media sidecar for unrelated HTTP routes</code>](https://github.com/openclaw/openclaw/commit/d38e30e02cd12164e17d13555a2b78550bf631ac)
+- [ ] [<code>test(agents): isolate auth profile store fixtures</code>](https://github.com/openclaw/openclaw/commit/a36981a2c57054b9d2f535d6a73c086541eb9078)
+- [ ] [<code>fix: recognize attachment message sends</code>](https://github.com/openclaw/openclaw/commit/a0ea07e462f66d73bdbbd7cbd2e5d456c860ba60)
+- [ ] [<code>test: cover generated media delivery evidence fallback</code>](https://github.com/openclaw/openclaw/commit/add9a49c40f90353632a9153552cdce0b981bc8d)
+- [ ] [<code>test(secrets): trust source plugin contracts in coverage</code>](https://github.com/openclaw/openclaw/commit/1ff07517b0c3d5d05af0fb0e2875be9ccaec873b)
+- [ ] [<code>test(plugins): accept shared bundled runtime roots</code>](https://github.com/openclaw/openclaw/commit/92b04557a67f2adb2ebbdbb86c5edc57fff47c4b)
+- [ ] [<code>docs: add Mantis Slack desktop runbook</code>](https://github.com/openclaw/openclaw/commit/430814ebc180fa48db488e4cbf292230dfec4716)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): show session runtime in sessions table</code>](https://github.com/openclaw/openclaw/commit/16454f5c7ae11a06d52a02c3474c1997d5704cff)
+- [ ] [<code>fix(gateway): cancel delayed maintenance on shutdown</code>](https://github.com/openclaw/openclaw/commit/1e1903487f86653a788af82ed9a44f66365fc0c8)
+- [ ] [<code>fix(cli): fast-path bare channels help (#77659)</code>](https://github.com/openclaw/openclaw/commit/fdddb413ef2633374cd94dfeba5e9f3dcce50ec5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): avoid lint-blocked dev installs (#77181)</code>](https://github.com/openclaw/openclaw/commit/a4c860a70cdcd120ef6ff76c244bd0794089f156)
+- [ ] [<code>chore: add positive proof labels (#78117)</code>](https://github.com/openclaw/openclaw/commit/33c42c8d3b65dad62a7317345356aa2cb3bd5056)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: expand slack live qa coverage (#77713)</code>](https://github.com/openclaw/openclaw/commit/dd643b52df44273f1ebf9975bc42373b3118c793)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): rotate previews after visible tool output</code>](https://github.com/openclaw/openclaw/commit/1470b439e27cf3cf70ec72ee6ca798378656c6a0)
+- [ ] [<code>fix(sessions): show runtime in sessions table</code>](https://github.com/openclaw/openclaw/commit/c874c0863ada70748abf85e075eb879a2b2e0d8c)
+- [ ] [<code>docs: replace ampersand headings for stable Mintlify anchors</code>](https://github.com/openclaw/openclaw/commit/82fd83418e22c44af82c4abd59a7cab9127dc509)
+- [ ] [<code>fix(tui): prevent orphaned terminal sessions (#77662)</code>](https://github.com/openclaw/openclaw/commit/5af1fe1bd0c27478105b4213e3fa9805a4366beb)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: stabilize event loop health samples</code>](https://github.com/openclaw/openclaw/commit/7af1a87830be8e54edc01a8b9b79d39200ca52e2)
+- [ ] [<code>docs(providers): rewrite Alibaba page with code-verified setup</code>](https://github.com/openclaw/openclaw/commit/d9545babb575a1377973d704c2d3daaf9a16f5fb)
+- [ ] [<code>feat: improve Codex skill migration selection (#77597)</code>](https://github.com/openclaw/openclaw/commit/81349cdc2a9d5143fd0991ed858b739e7d96e05c)
+- [ ] [<code>docs(providers): rewrite Fireworks page with thinking-off context</code>](https://github.com/openclaw/openclaw/commit/67657356f056ca0eb81b5f1472440636e0359b3e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): filter runtime context from context engines</code>](https://github.com/openclaw/openclaw/commit/b3ab3cde96e7b21f01d6d9cf6727c3d14cef3214)
+- [ ] [<code>docs(tools): rewrite loop detection, code execution, and tighten elevated/skills</code>](https://github.com/openclaw/openclaw/commit/180e295dc604461d7e586dabe467e28a78a513fb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(status): show runtime in CLI sessions (#77776)</code>](https://github.com/openclaw/openclaw/commit/46c99cff0b2ff3fe744bb954b4bd8336907b979a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: add focused seams for faster isolated tests</code>](https://github.com/openclaw/openclaw/commit/e428a2dfe2a3c9174e6bf1b5bafd92e2cbb095cd)
+- [ ] [<code>test: trim slow agent fallback coverage</code>](https://github.com/openclaw/openclaw/commit/cb42efb6e660b39ad7ab94e23a454105bfcbc7a3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: speed extension and contract scenarios</code>](https://github.com/openclaw/openclaw/commit/093b2b9b5f9704bc5645969d11aeb421fb43739b)
+- [ ] [<code>docs(providers): rewrite Cerebras, Groq, and SGLang with code-verified setup</code>](https://github.com/openclaw/openclaw/commit/58c706451e1d413504075033b5b1df475fc8e245)
+- [ ] [<code>fix(memory): enforce wiki session visibility (#75722)</code>](https://github.com/openclaw/openclaw/commit/1daba5240bb27e61f6bc4ee44287512284f7f181)
+- [ ] [<code>test: streamline model fallback probe coverage</code>](https://github.com/openclaw/openclaw/commit/d11160545383563ab366b79d60aa348c8acb233f)
+- [ ] [<code>fix(cli): guard device fallback state</code>](https://github.com/openclaw/openclaw/commit/01377ddbe28483b47854f1ddd50ae934030ddc97)
+- [ ] [<code>docs(providers): rewrite GLM, Runway, and Vydra with code-verified setup</code>](https://github.com/openclaw/openclaw/commit/6aaf235aeedd65bf0a79b1dc294e6a88a9103619)
+- [ ] [<code>fix(discord): preserve thread reply file attachments</code>](https://github.com/openclaw/openclaw/commit/ad2d13cc678c01115ed2820380b01aa72699f66f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(exec): enforce allowlist argument patterns (#75143)</code>](https://github.com/openclaw/openclaw/commit/d583013b8f961f5cb609c72264d3c680f08a1d2f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(providers): rewrite Tencent, Mistral, and Inferrs with code-verified setup</code>](https://github.com/openclaw/openclaw/commit/813fe0a3be90c07685562655a0c634443cb5d493)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(plugins): sync official plugin installs during update (#78065)</code>](https://github.com/openclaw/openclaw/commit/2014c2327b20ffeb1c91658ba1491c659bc97bfd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci(mantis): add discord thread attachment workflow</code>](https://github.com/openclaw/openclaw/commit/67fe2097f387e782d91694c8d79840a27d17d1e9)
+- [ ] [<code>docs(providers): tighten SenseAudio, Xiaomi, and Inworld pages</code>](https://github.com/openclaw/openclaw/commit/fcb188a41a4821a89e8a760581f40ebe2fdb79be)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
