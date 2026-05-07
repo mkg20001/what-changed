@@ -237,8 +237,12 @@
 - [ ] [<code>Change session type from Application to XSession (#13677)</code>](https://github.com/linuxmint/cinnamon/commit/2692b3749f609ca0563ddb30a1f18ea8d76a341b)
 - [ ] [<code>pointerTracker: fix ny coordinate using nx in get_real_pointer_position (#13723)</code>](https://github.com/linuxmint/cinnamon/commit/e6fd59b237e8cd2e561df57b318a4f48e5a39a27)
 - [ ] [<code>Fix some runtime and python bytecompile warnings.</code>](https://github.com/linuxmint/cinnamon/commit/127fe2d5ceb411f981257ab47d9ee5e13007c052)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>spices: Fix theme update and improve spice update and delete process (#13600)</code>](https://github.com/linuxmint/cinnamon/commit/62815df8c650972ebd18cc596d12aea6904dd565)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>Change spinbutton and scale validation to inclusive (#13750)</code>](https://github.com/linuxmint/cinnamon/commit/17de264673339d6ec33880383c371fc926b286f2)
+- [ ] [<code>panel.js: Fix missing y_coord declaration.</code>](https://github.com/linuxmint/cinnamon/commit/dd9c8c284d4bf2cd0c1725dca30ed853c8d935d7)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
