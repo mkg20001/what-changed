@@ -1293,6 +1293,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Use size_t arithmetic in pixel offset calculations</code>](https://github.com/AOMediaCodec/libavif/commit/f17110dac426a7dd046a34b99276e64d9fb73c28)
 - [ ] [<code>avifenc: reject mismatched --depth for Y4M input</code>](https://github.com/AOMediaCodec/libavif/commit/9bd9e4dacd933f1e30d4cefe1ff88262338367ea)
 - [ ] [<code>Add pull request #3179 to CHANGELOG.md</code>](https://github.com/AOMediaCodec/libavif/commit/ee0ce4ea86b4240c35d96d05a685ed00146dba56)
+- [ ] [<code>Update to AVM research-v15.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/257b1e45f979491d905786d80691ba33a7597290)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1385,6 +1386,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: add static GitHub Pages site</code>](https://github.com/steipete/mcporter/commit/7d345bc7db9c1191e4e7e89e617dbb30403fc038)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: preserve spaced stdio paths</code>](https://github.com/steipete/mcporter/commit/23d3f9ef8d76da4b686b2f4a62d5203a6220fb33)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -2004,6 +2007,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix vnode take over crash (#22417)</code>](https://github.com/netdata/netdata.git/commit/4c110489bcef724e0b398ff03b308cf93913b02c)
 - [ ] [<code>Code cleanup (#22431)</code>](https://github.com/netdata/netdata.git/commit/01790f6551519b098c83945bd4e9782c16e8f7c9)
 - [ ] [<code>Fix based on Coverity and Sonar audits (part 1) (#22329)</code>](https://github.com/netdata/netdata.git/commit/83179b715ba6a60e4173b53ec521d07a37c2d746)
+- [ ] [<code>Fix sender replication counter leak on obsolete charts (#22428)</code>](https://github.com/netdata/netdata.git/commit/177a3b6ffa883706840bf38de29c7c23684184ed)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(snmp): clean up profile projection and topology tests (#22433)</code>](https://github.com/netdata/netdata.git/commit/850853cfec5eac455c081bc4e553a8be1a6dc3e2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix based on Coverity and Sonar audits (part 3) (#22331)</code>](https://github.com/netdata/netdata.git/commit/d6029b8bb7cb61d7803b3ac828fe1edc0f1d5e75)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -13200,6 +13208,72 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(discord): prompt agents to suppress link embeds (#78614)</code>](https://github.com/openclaw/openclaw/commit/197edaa33d7b1e5faf52bd3b7a3a5014922a6eb1)
 - [ ] [<code>fix(discord): keep agents quiet when others are addressed (#78615)</code>](https://github.com/openclaw/openclaw/commit/9c7c0ae891e887ea2d150376d3aee7c0d384588d)
 - [ ] [<code>changelog: add Discord groups quiet-when-addressed and link-embed entries</code>](https://github.com/openclaw/openclaw/commit/97b07eaeaf38b9906b5fe89e12c5b97f5dc0e6b0)
+- [ ] [<code>Fix repeated Codex native approval prompts after allow-always (#78234)</code>](https://github.com/openclaw/openclaw/commit/f011d6bc0a75789df753321b48e63f9531ad31c3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(imessage): deprecate bluebubbles for new setups</code>](https://github.com/openclaw/openclaw/commit/63dc7321efadaad0cb02a1c70ace3ce438a9e0dd)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(discord): default to progress previews</code>](https://github.com/openclaw/openclaw/commit/4647400c2246442f4967521a035e88099fab3146)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: clean stale managed npm plugin deps on uninstall</code>](https://github.com/openclaw/openclaw/commit/858038320dcb3ae022360475df17b91334798403)
+- [ ] [<code>ci: skip CodeQL critical selector for draft PRs</code>](https://github.com/openclaw/openclaw/commit/9dd5014cf38cdec76e28591892792a3f63c124ce)
+- [ ] [<code>ci: skip Testbox workflow checks for draft PRs</code>](https://github.com/openclaw/openclaw/commit/1d685304c3383d891fdf9816bd5940880ba2a4ce)
+- [ ] [<code>fix: skip npm uninstall when managed root is absent</code>](https://github.com/openclaw/openclaw/commit/3e8b5b4ee70d12357035260dc6dbfdf61f1fcde3)
+- [ ] [<code>fix(docker): avoid package node_modules copy conflicts</code>](https://github.com/openclaw/openclaw/commit/ffd212ca4338848a4e27f71fcc346347ee02b65c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(docker): preserve functional image dependencies</code>](https://github.com/openclaw/openclaw/commit/445dda54f142b9d685a331fb6eb805642311f821)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(docker): ignore artifacts in live source staging</code>](https://github.com/openclaw/openclaw/commit/78b252682b0b962c0da5ac159b785e545bdeed5a)
+- [ ] [<code>test(live): defer model normalization until after filtering</code>](https://github.com/openclaw/openclaw/commit/cfa2b90752472c1ef8ba029d0a6adaed250848a1)
+- [ ] [<code>test(live): bound model auth discovery</code>](https://github.com/openclaw/openclaw/commit/1ed1185974bf6d0d71af826c4ae48e5291cbf0ee)
+- [ ] [<code>test(docker): disable live model transform cache</code>](https://github.com/openclaw/openclaw/commit/90f713453562b5353d0f767880dc6f1da42e1f8f)
+- [ ] [<code>test(live): cap default model discovery</code>](https://github.com/openclaw/openclaw/commit/f5746bb2782e13b1f6340583afee8e3a8286889e)
+- [ ] [<code>test(live): load default priority models directly</code>](https://github.com/openclaw/openclaw/commit/e92175576298d75ae00e7a0613a0b9ef03b551b6)
+- [ ] [<code>test(live): scope gateway model discovery</code>](https://github.com/openclaw/openclaw/commit/beee6449a1d2f235702337d16f9a9e5cceaf1e01)
+- [ ] [<code>test(live): guard provider scoped gateway path</code>](https://github.com/openclaw/openclaw/commit/d47497c99f1effc5d8e5486715de495ea180d098)
+- [ ] [<code>test(live): read gateway provider models</code>](https://github.com/openclaw/openclaw/commit/6587832f2583e318f52ffca9f1db6ef1076c2da5)
+- [ ] [<code>test(live): tolerate codex ask-back preflight refusal</code>](https://github.com/openclaw/openclaw/commit/3a12a7a7e62b3dfe94a0d5065ecbb21d91ac724d)
+- [ ] [<code>test(live): type provider scoped model loading</code>](https://github.com/openclaw/openclaw/commit/0f4f7e32cb420f89a5309aac98773110af0072f5)
+- [ ] [<code>chore(plugin-sdk): update api baseline</code>](https://github.com/openclaw/openclaw/commit/eb3de950251439d6fa3cc8941ab534e90005bdcd)
+- [ ] [<code>fix(discord): parse provider-prefixed channel targets (#78625)</code>](https://github.com/openclaw/openclaw/commit/51356620e968a3cc460b6cdec03eaedc28686640)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(deps): bump basic-ftp (#78637)</code>](https://github.com/openclaw/openclaw/commit/3be4251f21ad264b08fda520983da28b69cd807f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>[AI-assisted] fix(agents): invalidate context engine cache (#78163)</code>](https://github.com/openclaw/openclaw/commit/609a5d70a5501b230f4f8cff6aabe8ac537f6e8a)
+- [ ] [<code>changelog: credit @Patrick-Erichsen for #78625</code>](https://github.com/openclaw/openclaw/commit/6b97f577ed900a8d3cd12058d000e2f359297ac6)
+- [ ] [<code>fix: clamp compaction max_tokens to model output limit (#54392)</code>](https://github.com/openclaw/openclaw/commit/ac4313598472fe1c0ea1cce24128337f6808138d)
+- [ ] [<code>test(agents): refresh codex group prompt snapshot</code>](https://github.com/openclaw/openclaw/commit/93579a8a424c70fac37aa5eccffc58731670b62f)
+- [ ] [<code>docs: remind contributors to redact proof evidence (#78630)</code>](https://github.com/openclaw/openclaw/commit/d05415d6036c7af71b239e250eb457a1ba11a3b1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(deps): pin fs-safe with full git sha</code>](https://github.com/openclaw/openclaw/commit/2ab74e9ef728809527379d6ed6dc4c1de2c20d3d)
+- [ ] [<code>fix(agents): bound live exec output events (#78645)</code>](https://github.com/openclaw/openclaw/commit/3ee7c02bcacfdf6327747c1fe24dd6d11de8612a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix gateway optional plugin startup (#78642)</code>](https://github.com/openclaw/openclaw/commit/5572ee1a1a9058ad72a26ad5e49a1230aafba8ba)
+- [ ] [<code>fix(cron): repair bad persisted model sentinels (#78641)</code>](https://github.com/openclaw/openclaw/commit/6aafdf121ac468ed31f5278916732cc6605be952)
+- [ ] [<code>perf: reuse auto-enable manifest registry</code>](https://github.com/openclaw/openclaw/commit/e66edcc8b9ebfe014714f42fe947872ac2da8cdf)
+- [ ] [<code>docs: clarify sub-agent security boundaries</code>](https://github.com/openclaw/openclaw/commit/33b112ad314dc8d9dfe0f5a68caed4811a23245a)
+- [ ] [<code>test(agents): isolate client tool policy hook e2e</code>](https://github.com/openclaw/openclaw/commit/14336e332555dacd2af8900ee3a28e4c32db87ea)
+- [ ] [<code>test(e2e): serialize default e2e runner</code>](https://github.com/openclaw/openclaw/commit/120eb3426a1427add583e3b47e08b303473d1bca)
+- [ ] [<code>docs(ci): reduce owned aws pressure</code>](https://github.com/openclaw/openclaw/commit/6c9a848dd30cc7684260d31f8dacbe7447027a93)
+- [ ] [<code>docs(ci): document blacksmith outage fallback</code>](https://github.com/openclaw/openclaw/commit/75f7f30209804f5c4db2d1e45ee3c0ab6cbc59d0)
+- [ ] [<code>ci(crabbox): default owned aws to standard</code>](https://github.com/openclaw/openclaw/commit/d3cfc5fd6a30592c40bb21b3a11492b1a479e520)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>ci(crabbox): enable owned capacity hints</code>](https://github.com/openclaw/openclaw/commit/b2368e10404452fca448f71b74134e62b9083f1b)
+- [ ] [<code>fix(cli/completion): guard shell profile source line with file-exists check (#78659)</code>](https://github.com/openclaw/openclaw/commit/5ff283cfbba84a630c8e683c6e263720645ac4c4)
+- [ ] [<code>changelog: credit @sjf for #78659</code>](https://github.com/openclaw/openclaw/commit/8934095c828de8d6268e0e42d8cfe6651ccf5a1b)
+- [ ] [<code>ci: add runner fallback timing telemetry</code>](https://github.com/openclaw/openclaw/commit/c3853611eefd7106e902b5bd87a1b3d3af769d94)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(telegram): honor access group allowlists</code>](https://github.com/openclaw/openclaw/commit/b6ae0b83a61a1f779ee41b5d639b6049bfd422ce)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(delivery): require outbound send result for success</code>](https://github.com/openclaw/openclaw/commit/372e270871a2e45be1484df57651f1a1891610bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: fix runner telemetry lint</code>](https://github.com/openclaw/openclaw/commit/c53f63ccb81c985406984cf4cb43379c312dfbcc)
+- [ ] [<code>ci: fall back by runner family</code>](https://github.com/openclaw/openclaw/commit/8cffc5a2f4aae50c6b0ceb6dc00736b2e6de772c)
+- [ ] [<code>fix(cron): preflight implicit announce targets (#78644)</code>](https://github.com/openclaw/openclaw/commit/20c34b8c0f716c23ca5eefe7fc522a2a7ddb648a)
+- [ ] [<code>fix(agents): fail fast on session lock fallback (#78633)</code>](https://github.com/openclaw/openclaw/commit/a74894a9540133ebe7695c1335a724455b531530)
+- [ ] [<code>fix(agents): cap live exec update payloads</code>](https://github.com/openclaw/openclaw/commit/b7d0d92600dc1c80d970ded2b587266e6776b8b0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: scope prompt snapshot boundary check</code>](https://github.com/openclaw/openclaw/commit/7cab067bce195979a0d228cd7366aad5d80a93d1)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
