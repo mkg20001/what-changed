@@ -2016,6 +2016,13 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix based on Coverity and Sonar audits (part 11) (#22339)</code>](https://github.com/netdata/netdata.git/commit/735549f1839a99ee788c84731594f0bb04c607a5)
 - [ ] [<code>Fix memory ordering for aclk_host_config publish (#22429)</code>](https://github.com/netdata/netdata.git/commit/65c43f455c58bdd09120ebfec7913fbb23d5c7d2)
 - [ ] [<code>Do not coerce ints to doubles during flattening. (#22418)</code>](https://github.com/netdata/netdata.git/commit/8d0da7a898070d7fd44bef1edc1f54b22bf76aff)
+- [ ] [<code>Network Flows: docs rewrite, integrations, benchmarks (#22439)</code>](https://github.com/netdata/netdata.git/commit/a073bcf24f79ce70e5cf3935ec6fa0996160ab30)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>Fix SIGSEGV in ctx_hosts_load during shutdown     (#22419)</code>](https://github.com/netdata/netdata.git/commit/101a1e673c8a309c188e315ec6dade329d25b191)
+- [ ] [<code>Network Flows: fix MDX deploy preview + capture MDX gotchas in skills (#22445)</code>](https://github.com/netdata/netdata.git/commit/916eb8ee443d245b1c9bc7e467e22cedceadcd9f)
+- [ ] [<code>Refactor chart/dim/label cleanup functions (#22435)</code>](https://github.com/netdata/netdata.git/commit/a334f942984f463aaf495f1b6909817b5012269d)
+- [ ] [<code>Fix eBPF FD PID map iteration (#22436)</code>](https://github.com/netdata/netdata.git/commit/de9a825ebf5df6ee8b48d83985266f4a29f8da4c)
+- [ ] [<code>Fix based on Coverity and Sonar audits (part 7) (#22335)</code>](https://github.com/netdata/netdata.git/commit/7a8ac3abd22537858be7f0dd6aa702273f5d6bd3)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -13469,6 +13476,85 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Route OpenAI agents through Codex by default (#78899)</code>](https://github.com/openclaw/openclaw/commit/1c33990108155febc8edc572437f91e619517b27)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>fix(ci): account for canvas a2ui deps</code>](https://github.com/openclaw/openclaw/commit/7ad53cefeef963b204785c0214e037bc5c7f5e47)
+- [ ] [<code>fix: await control ui chat startup refresh</code>](https://github.com/openclaw/openclaw/commit/0fd6607d560c508846daa7706c746bc38c3a439a)
+- [ ] [<code>fix: restore canvas ci checks</code>](https://github.com/openclaw/openclaw/commit/2c0f8a0beb7847e68104cd1336fb24f7524efd5e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: keep bluebubbles schema tests extension-local</code>](https://github.com/openclaw/openclaw/commit/6ef7fa08afd68d0316bd7eab75ad1a5886c6845d)
+- [ ] [<code>fix(ci): restore main validation</code>](https://github.com/openclaw/openclaw/commit/56636dfe578f7bbef5eb2484414f3e4cf4b07436)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: harden sandbox runtime cleanup</code>](https://github.com/openclaw/openclaw/commit/55a8f56a1546147f0af3f3e6465f6a2a526cfb5c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve late sandbox rename writes</code>](https://github.com/openclaw/openclaw/commit/2f69c40a6202c8fcfb6a83cc3a7dc7a85dace536)
+- [ ] [<code>build: update fs-safe dependency</code>](https://github.com/openclaw/openclaw/commit/113761ab57dc8ffcc224679847dc23253cdeab4e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: use fs-safe for staged package swaps</code>](https://github.com/openclaw/openclaw/commit/530e4f93de8662277cf76ab33b8a2ac173f1bf1b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: guard sandbox move cleanup identity</code>](https://github.com/openclaw/openclaw/commit/f2bf925a387fc15988d9e3bde2a83f30438b7b36)
+- [ ] [<code>test: import os in canvas a2ui test</code>](https://github.com/openclaw/openclaw/commit/e867ab7e16b49682886b9d6e575e985d08e365d0)
+- [ ] [<code>test: remove unused canvas temp helper</code>](https://github.com/openclaw/openclaw/commit/64514a6548fb9645c7e6c477879edbafab48a219)
+- [ ] [<code>test: stabilize prompt snapshot plugin tools</code>](https://github.com/openclaw/openclaw/commit/01dd593cfd3dba32e4e88805072943fc4f453b62)
+- [ ] [<code>fix(sessions): skip durable fsync for session store</code>](https://github.com/openclaw/openclaw/commit/897bac5b8cd3efaa224318e486958bc8fd1019e6)
+- [ ] [<code>docs(changelog): clarify session-store fsync scope</code>](https://github.com/openclaw/openclaw/commit/037174141e83f75041ea26ecfca251b51d3cad0d)
+- [ ] [<code>feat: add native sqlite Kysely dialect</code>](https://github.com/openclaw/openclaw/commit/955b0256976a7f964db8ce968ac325594dbf3c15)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>test: expand native sqlite Kysely coverage</code>](https://github.com/openclaw/openclaw/commit/be33b68fd4a00473f509ebbdeaac2fd72af7fb80)
+- [ ] [<code>Compute plugin callback authorization dynamically [AI] (#78866)</code>](https://github.com/openclaw/openclaw/commit/c65f3bc70ed7172bb2b61f311a299587063c20d0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: strip tools for no-tool completions models</code>](https://github.com/openclaw/openclaw/commit/772034d741078e9e1692ab845ad963bc2111decb)
+- [ ] [<code>fix: strip unsupported Fireworks tool schema keywords</code>](https://github.com/openclaw/openclaw/commit/548b55676fd07e66618749e0975f947d39c02d6f)
+- [ ] [<code>fix: sanitize existing prompt images</code>](https://github.com/openclaw/openclaw/commit/347b51be4be7db5997b3ea9fb32c5da53915f88a)
+- [ ] [<code>fix: normalize auth profile inline secrets</code>](https://github.com/openclaw/openclaw/commit/6ce1c98b6189c4933adaa8f8632148a2693d0b8b)
+- [ ] [<code>fix(cli): fall back to sips for HEIC infer inputs</code>](https://github.com/openclaw/openclaw/commit/a85261932e89aa93db3e45694fb94b3754b95176)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(arcee): disable tools for Trinity thinking</code>](https://github.com/openclaw/openclaw/commit/dd09e6fe40e10a37cebc55d2197641485b1d5f82)
+- [ ] [<code>build(canvas): refresh A2UI bundle hash</code>](https://github.com/openclaw/openclaw/commit/a966303216932ac9cb34fc0a16a3dd679de4ff0c)
+- [ ] [<code>refactor(telegram): unify outbound delivery adapter</code>](https://github.com/openclaw/openclaw/commit/6554e85ad6e93b5ebe4a6f624cc1ed6c2dabff8d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(telegram): centralize access authorization</code>](https://github.com/openclaw/openclaw/commit/53efb6747d3e68e157b590d90283f062955cc997)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(telegram): use grammY native helpers</code>](https://github.com/openclaw/openclaw/commit/923ea990fd8831f3ca546af1cf3cee0874f73b4f)
+- [ ] [<code>fix(telegram): restore outbound poll cap</code>](https://github.com/openclaw/openclaw/commit/c9676288166ca8c3a62bffa53ae0f20856963a83)
+- [ ] [<code>fix(telegram): keep dm allow separate from group auth</code>](https://github.com/openclaw/openclaw/commit/11d6a3f89257fd2114cef9ba15efa15543004240)
+- [ ] [<code>docs(changelog): note telegram poll cap (#78762) (thanks @obviyus)</code>](https://github.com/openclaw/openclaw/commit/238e72d74d80ac8437ff4263421bf0ddcd49576c)
+- [ ] [<code>docs(providers/arcee): note Trinity Large Thinking has tools disabled</code>](https://github.com/openclaw/openclaw/commit/c41a73b82829952494e8fc8df8f40381e0b21ef2)
+- [ ] [<code>ci(release): speed up beta publish path</code>](https://github.com/openclaw/openclaw/commit/a68ad39877dd9cf2ac563b9a8a5059446576d7a0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(infra): support hardlink-safe package moves</code>](https://github.com/openclaw/openclaw/commit/3a89e20b7b5f47031498955f0d7cabff36e0f4b8)
+- [ ] [<code>fix(infra): support non-durable text writes</code>](https://github.com/openclaw/openclaw/commit/11a038207b95f2f5bb9b5dd79012ae2f8d500f43)
+- [ ] [<code>fix(agents): reclaim reported stale session locks</code>](https://github.com/openclaw/openclaw/commit/9b279ef17332c2a8533892e24b810de0e61aac05)
+- [ ] [<code>test(llm-task): use real typebox schemas</code>](https://github.com/openclaw/openclaw/commit/237fcbcbf1799f7aa6d224df44f54d0298f7588b)
+- [ ] [<code>test(openai): align codex default auth contract</code>](https://github.com/openclaw/openclaw/commit/fcb9dcc886e2592f1b97d6c0ef49e00c244ab398)
+- [ ] [<code>test(plugins): align canvas startup metadata</code>](https://github.com/openclaw/openclaw/commit/8e88c7b297685c7c60215408fc4cf4ce67f36825)
+- [ ] [<code>lint: classify raw socket callsites</code>](https://github.com/openclaw/openclaw/commit/f4797921ac01ad80dafa2c2ac7684c62cc0e2ca3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>chore: add proxy guardrail changelog</code>](https://github.com/openclaw/openclaw/commit/9eaadcdf298e13a3970b4d09359705f4f5af0a4c)
+- [ ] [<code>lint: allow managed proxy mutation scopes</code>](https://github.com/openclaw/openclaw/commit/f05e2222f320fe3d786fbfcb20cf613c70f19e64)
+- [ ] [<code>lint: replace proxy mutation guard with opengrep</code>](https://github.com/openclaw/openclaw/commit/9cc5e49e65129b9cb0defb65cf4aeeed5fde24bc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>lint: replace raw socket guard with codeql</code>](https://github.com/openclaw/openclaw/commit/dd0a9bf8693083841cb195dfdf15e87a2f371b4b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>lint: move managed proxy guard to codeql</code>](https://github.com/openclaw/openclaw/commit/cf9e9cd119f02e70f40b570342457a72f4473d19)
+- [ ] [<code>chore: preserve opengrep generated timestamp</code>](https://github.com/openclaw/openclaw/commit/b6c9ed66c34f87136beb5349c8e5dab3b4cb6e9c)
+- [ ] [<code>ci: make network CodeQL shard additive</code>](https://github.com/openclaw/openclaw/commit/95a1c915312a520c3c33d2b96943aa3e3b48a10e)
+- [ ] [<code>docs: document docker cli dns override</code>](https://github.com/openclaw/openclaw/commit/484a289be34e6d744d158c72cef95bba5061dd94)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(channels): surface missing external plugin repairs</code>](https://github.com/openclaw/openclaw/commit/f482e4d3359c83c3fd43364f8f88bd51ff91599e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(channels): remove bluebubbles bundled surface</code>](https://github.com/openclaw/openclaw/commit/c97998ce21f323f1c8d0d42cd39290eb73a00295)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(channels): delete bluebubbles plugin package</code>](https://github.com/openclaw/openclaw/commit/07bf572f35bedd0bc66adc3cbd11bd7574d81695)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test(channels): drop bluebubbles fixture assumptions</code>](https://github.com/openclaw/openclaw/commit/4ad4be9aff3798399b58a596df11f403d36de678)
+- [ ] [<code>fix(imessage): report non-mac default imsg hosts</code>](https://github.com/openclaw/openclaw/commit/84638bfbb07b98652a275e246352f707e32ecf1e)
+- [ ] [<code>docs(imessage): make imsg the supported setup path</code>](https://github.com/openclaw/openclaw/commit/91ed1604b011e07bab6d3a11d0dfdcac3be5db8f)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(config): refresh bundled channel metadata</code>](https://github.com/openclaw/openclaw/commit/7f4c0b319262c0c3c1935b43786312a5483bf8b1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): align main channel assumptions</code>](https://github.com/openclaw/openclaw/commit/2597723dfcc99ee4a5cf1f2a59db01c2984c5362)
+- [ ] [<code>docs(imessage): document bluebubbles deprecation</code>](https://github.com/openclaw/openclaw/commit/0fca66549794b6a27fd9750904aa323d6526db28)
+- [ ] [<code>Implement ACP bridge lifecycle handlers (#78880)</code>](https://github.com/openclaw/openclaw/commit/6a8b4e422e820752435b81bc908b85114e4bc5de)
+- [ ] [<code>fix: print resolved installer follow-up command</code>](https://github.com/openclaw/openclaw/commit/56fe64e8e36978fa31a4c8ddaa1246db0377acb2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
