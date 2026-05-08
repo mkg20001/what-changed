@@ -405,8 +405,10 @@
 - [ ] [<code>meta-wayland-single-pixel-buffer.c: Use correct cogl ref function,</code>](https://github.com/linuxmint/muffin/commit/ca0c0ecbf36e3f5691cdc47c9e1541e649ab667b)
 - [ ] [<code>meta-cursor-sprite-xcursor.c: Fix grab/grabbing cursor names.</code>](https://github.com/linuxmint/muffin/commit/557e4b7fe42776ff75263348d53a410eedebcb03)
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/muffin/commit/bfe1671ddaa246251463ecca10bb63e8c49fb983)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>meta-x11-background-actor.c: Fix signal handler accumulation leak.</code>](https://github.com/linuxmint/muffin/commit/b51f973b170580670c158d77e98ad6dc3a60d1fd)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
