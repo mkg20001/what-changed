@@ -242,7 +242,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
 - [ ] [<code>Change spinbutton and scale validation to inclusive (#13750)</code>](https://github.com/linuxmint/cinnamon/commit/17de264673339d6ec33880383c371fc926b286f2)
 - [ ] [<code>panel.js: Fix missing y_coord declaration.</code>](https://github.com/linuxmint/cinnamon/commit/dd9c8c284d4bf2cd0c1725dca30ed853c8d935d7)
+- [ ] [<code>screenShield.js: Destroy the background actors when the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/a9476d4889de82bfedabf33798a060daa2e30ef6)
+- [ ] [<code>backgrounds: Add 'wallpaper' to keywords (#13755)</code>](https://github.com/linuxmint/cinnamon/commit/f569d718f44a46422f50a8d2dba093377e8b9b31)
   - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>usr</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -408,6 +411,7 @@
   - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-x11-background-actor.c: Fix signal handler accumulation leak.</code>](https://github.com/linuxmint/muffin/commit/b51f973b170580670c158d77e98ad6dc3a60d1fd)
+- [ ] [<code>meta-x11-background-actor.c: Skip a background transition if the</code>](https://github.com/linuxmint/muffin/commit/3353a4259181660e5819b58fd461b21029ce700c)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
