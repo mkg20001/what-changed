@@ -244,8 +244,15 @@
 - [ ] [<code>panel.js: Fix missing y_coord declaration.</code>](https://github.com/linuxmint/cinnamon/commit/dd9c8c284d4bf2cd0c1725dca30ed853c8d935d7)
 - [ ] [<code>screenShield.js: Destroy the background actors when the screensaver</code>](https://github.com/linuxmint/cinnamon/commit/a9476d4889de82bfedabf33798a060daa2e30ef6)
 - [ ] [<code>backgrounds: Add 'wallpaper' to keywords (#13755)</code>](https://github.com/linuxmint/cinnamon/commit/f569d718f44a46422f50a8d2dba093377e8b9b31)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>Spices.py: delegate most work to the python 'harvester' module.</code>](https://github.com/linuxmint/cinnamon/commit/7d3158757b9b98f8d68dd88902bfe3426185490d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code></sub>
+- [ ] [<code>ExtensionCore.py: load spice rows in batches to prevent lag when</code>](https://github.com/linuxmint/cinnamon/commit/eada69413eab0382ca2401cd249e254d30dc9bd3)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>cinnamon-settings/spices: Use xapp for proxy setup instead of</code>](https://github.com/linuxmint/cinnamon/commit/23f1d9ed998190b0853ad68e15f4f56296791698)
+  - <sub>Tags: <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>org.gnome.system</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -531,7 +538,9 @@
 #### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.2...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/python-xapp/commit/ecca9b998b28968c496d3a5fe1fdcd9b6eaf6cd1)
+- [ ] [<code>os.py: Add add_network_proxy_to_env() to replace proxygsettings.py</code>](https://github.com/linuxmint/python-xapp/commit/6291e4ef58efeb07172091fd7af0fd0f3162f07b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>command</code> <code>org.gnome.system</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
