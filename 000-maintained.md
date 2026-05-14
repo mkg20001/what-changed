@@ -520,6 +520,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update to AVM research-v15.0.0 anchor</code>](https://github.com/AOMediaCodec/libavif/commit/257b1e45f979491d905786d80691ba33a7597290)
 - [ ] [<code>Fix NaN bypass of AVIF_CLAMP in gain map pixel clamping (#3189)</code>](https://github.com/AOMediaCodec/libavif/commit/3e9371f563a6bd96440b0e3d425afdc1f91c7f45)
 - [ ] [<code>Use libaom AOMD_SET_FRAME_SIZE_LIMIT if available</code>](https://github.com/AOMediaCodec/libavif/commit/41ee8abe2613de364559f73011683b4d97227a85)
+- [ ] [<code>Set aomVersion_3_14_0 to the correct value</code>](https://github.com/AOMediaCodec/libavif/commit/4b817bb98ec9e4be299aa28e0d7c29456a0f6b93)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -2329,6 +2330,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lib): potential race condition with dual connections</code>](https://github.com/Oppzippy/OpenSCQ30/commit/0e7f028e5faea8c8d111785643d186b40b8eb8a3)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>style(lib): fix clippy warnings</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f67ea2644662ab696e1ee8c5a38acd5c3b161337)
+- [ ] [<code>fix(lib): tolerate unexpected dual connections device index</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8d28cf6de263cc0f3ff124afdc75049960da2193)
+- [ ] [<code>fix(lib): disallow dual connections from connecting to >2 devices</code>](https://github.com/Oppzippy/OpenSCQ30/commit/64abc128636ffcd60d8804e3076b9598a14dfa03)
+- [ ] [<code>chore(lib): add TODOs regarding dual connections synchronization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/222624fb64efd45f9e221843601835edd7ccccb0)
+- [ ] [<code>feat(lib): add dual connections for a3035, a3040, and a3062</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1978f1280306742f67d95da6e3bf738ece3ea968)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.5.7 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.5.7...HEAD)
 
@@ -11675,6 +11681,34 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(codex-migrate): use String#replace in display name</code>](https://github.com/openclaw/openclaw/commit/49adf206e891cde76b8fa5ba168cbbf682f8c96d)
 - [ ] [<code>test(codex-migrate): cover new preview/result format</code>](https://github.com/openclaw/openclaw/commit/b85259c443983e58be5f5a6830918e084d1b1232)
 - [ ] [<code>test(codex-migrate): stub clack log in migrate mock</code>](https://github.com/openclaw/openclaw/commit/6602884b063586a428df8857705b15f525d78428)
+- [ ] [<code>fix(memory-lancedb): support cjk auto-capture triggers</code>](https://github.com/openclaw/openclaw/commit/4d2e70872640a047c94aa4242131dc9761608223)
+- [ ] [<code>fix(cli): report stale plugin doctor config (#81515)</code>](https://github.com/openclaw/openclaw/commit/b8ea6097d9acbffe7f9dc0db1a92347c2c18c891)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(sessions): display ACP runtime sentinel for ACP sessions (#79543)</code>](https://github.com/openclaw/openclaw/commit/207fb9951d673a296f8b6b28c92d29cc7add1480)
+- [ ] [<code>fix(acp): preserve RequestError details</code>](https://github.com/openclaw/openclaw/commit/c5071a80617758564fc02bb528850da5a992395a)
+- [ ] [<code>docs: add acp request error changelog</code>](https://github.com/openclaw/openclaw/commit/26da4edbe150f8395445497c4eec71f97a0374c8)
+- [ ] [<code>fix: restore Codex cron automation compatibility (#81510)</code>](https://github.com/openclaw/openclaw/commit/6395117142e8ad089f4b3ed504248d3dca945e94)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(whatsapp): allow audio runtime dependency</code>](https://github.com/openclaw/openclaw/commit/c654f1f81109cd248d617b7e0e97faf4e9dfd913)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build(whatsapp): keep audio decoder dependency</code>](https://github.com/openclaw/openclaw/commit/25dd30d65605a66e7994f0b044c1c93b82043374)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(e2e): cover root-managed VPS upgrades</code>](https://github.com/openclaw/openclaw/commit/d08f68dee733b04d5c20e472434c5bc7e2b20b19)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(slack): normalize read timestamp bounds (#81338)</code>](https://github.com/openclaw/openclaw/commit/72f50dd12750cec44091dd6fea070ebeed9727b4)
+- [ ] [<code>docs(clawhub): remove missing security route</code>](https://github.com/openclaw/openclaw/commit/b10b946b125d3147b4237e46033d9ae48f4af88e)
+- [ ] [<code>perf: cache pi model discovery</code>](https://github.com/openclaw/openclaw/commit/dc7fab4dc5f604d8e84be4df07ee38b4c73b1a4a)
+- [ ] [<code>fix(telegram): clear progress draft before answer</code>](https://github.com/openclaw/openclaw/commit/b5c337909713b27a775d6a18299dcd3264524a19)
+- [ ] [<code>fix(update): clear stale plugin refs after failed updates</code>](https://github.com/openclaw/openclaw/commit/5214f16e295910880ea5cc29d2fbe31ca866f256)
+- [ ] [<code>docs: add plugin update changelog (#81512) (thanks @JARVIS-Glasses)</code>](https://github.com/openclaw/openclaw/commit/8046b5e4621b1f797ed6cbcc6f384af299b3cc8c)
+- [ ] [<code>fix(codex): preserve user home for app-server launches</code>](https://github.com/openclaw/openclaw/commit/74860e93fd6e1369b726abce7799510a9d8c8b74)
+- [ ] [<code>fix(sessions): classify spawn-child sessions correctly</code>](https://github.com/openclaw/openclaw/commit/9431d18aaf9f149fc71b277abdbbf9e4c46e4f1d)
+- [ ] [<code>ci(release): fail full validation on child failure</code>](https://github.com/openclaw/openclaw/commit/23446a248b666204ba0c926986179d8d398cc9f2)
+- [ ] [<code>test(plugin-install): align npm peer scan expectations</code>](https://github.com/openclaw/openclaw/commit/3225ec43c8870acd11bdb021c98e9cf13a67b96f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(plugins): isolate capability provider runtime mocks</code>](https://github.com/openclaw/openclaw/commit/0b553174949987bc9fd81eba0620aba124baf84d)
+- [ ] [<code>feat(ui): add browser-local Control UI text size setting</code>](https://github.com/openclaw/openclaw/commit/52370c59980b4c3dce7e1bde22a256d3dfd6b5a7)
+- [ ] [<code>test(agents): surface live OpenAI replay auth failures</code>](https://github.com/openclaw/openclaw/commit/f3361dc92870fa951d1e4f205877e57af12f27be)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
