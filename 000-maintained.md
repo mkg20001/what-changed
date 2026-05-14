@@ -541,6 +541,40 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>style: format docs site builder</code>](https://github.com/steipete/mcporter/commit/0ea394356f311c780f4341595446c236c0ac6f10)
 - [ ] [<code>fix(oauth): refresh expired cached access tokens</code>](https://github.com/steipete/mcporter/commit/f9f60d7cc45aeec58fe7853cb63d7fc2ba0dfdf0)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add OAuth no-browser session support</code>](https://github.com/steipete/mcporter/commit/033abb4358e61f241d7f1947e8ce998736f0f278)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add no-browser auth CLI contract</code>](https://github.com/steipete/mcporter/commit/b29854ebf2d905aa012b6937889dec33f673eccd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document headless OAuth auth flow</code>](https://github.com/steipete/mcporter/commit/7ddb433479244d1477985481d1f462cd53d31c46)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: add mcporter serve bridge</code>](https://github.com/steipete/mcporter/commit/6879a69f49e724f34981787a4d7d91caa41dd5ff)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: cover serve daemon edge cases</code>](https://github.com/steipete/mcporter/commit/bfe727150c9479953da29f7166370e849bde3e5f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: disambiguate bridged tool names</code>](https://github.com/steipete/mcporter/commit/89f5053c15b2d04b24c3d8119fff5392cdba662f)
+- [ ] [<code>fix: patch chrome-devtools auto-connect hang</code>](https://github.com/steipete/mcporter/commit/eee954e4a143dd5c0c8cfc2259acae505a75adde)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix: keep served tool names readable</code>](https://github.com/steipete/mcporter/commit/907ba78d983426d5459d48373089393e6ae3c1ab)
+- [ ] [<code>Merge remote-tracking branch 'origin/main' into feat/mcporter-serve</code>](https://github.com/steipete/mcporter/commit/8d962fbd79fc5df85dbfdd8baf561fead94d15fd)
+- [ ] [<code>fix: harden concurrent config writes</code>](https://github.com/steipete/mcporter/commit/23565e21669f2b0eef175e7b92d699ebc59cae0a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve headless auth stdout</code>](https://github.com/steipete/mcporter/commit/33afa744e069000290dd023871e7d83e6786a94a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: add HTTP fetch compatibility mode</code>](https://github.com/steipete/mcporter/commit/3e06e582ef20a7cd305dc3a7136036380414ce19)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: support refreshable bearer stdio auth</code>](https://github.com/steipete/mcporter/commit/7f1e9a8ce0b941c8506a7a10bdb78a45cb2ac9d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: strengthen main workflow</code>](https://github.com/steipete/mcporter/commit/c87150895dd5145cb072ff75efa262c21314bdad)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>chore: release 0.11.0</code>](https://github.com/steipete/mcporter/commit/2ce585a1eb72414dc32002befd7ea7d31c77701b)
+  - <sub>Tags: <code>v0.11.0</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: open 0.11.1 changelog</code>](https://github.com/steipete/mcporter/commit/dd000bdec44be3bcab58bcc58aa5a969ef8b4f1e)
+- [ ] [<code>fix: harden generated cli bundles</code>](https://github.com/steipete/mcporter/commit/46cc31cafe1ac3d936358392a32a35624a67739b)
+  - <sub>Tags: <code>v0.11.1</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: start 0.11.2 changelog</code>](https://github.com/steipete/mcporter/commit/5ec589698f431f19a0560929573388256c4d8604)
+- [ ] [<code>chore: bump development version to 0.11.2</code>](https://github.com/steipete/mcporter/commit/cbd84fd6d2aef93c7cc4f07008f7257008a0e9d5)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -11915,6 +11949,62 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(google-meet): wrap malformed node host params</code>](https://github.com/openclaw/openclaw/commit/7a65b8a3d53ee599e43dea795ad0aceb61657fab)
 - [ ] [<code>fix(channels): list manifest-only plugins</code>](https://github.com/openclaw/openclaw/commit/a1de61bf6524b7881450710ce067b9bcb8dca55c)
 - [ ] [<code>fix(cli): wrap malformed trajectory export requests</code>](https://github.com/openclaw/openclaw/commit/49e288823cda6efeef12b0ebfca3777fe36fbe12)
+- [ ] [<code>fix(twilio): wrap malformed api json</code>](https://github.com/openclaw/openclaw/commit/99d7b206fd879216b27d87829302cc44328cb3ad)
+- [ ] [<code>fix(auto-reply): bridge cli assistant text-delta into reasoning preview</code>](https://github.com/openclaw/openclaw/commit/f3875ac93703bffe8d6ae62c866aea9ca2860323)
+- [ ] [<code>fix(auto-reply): gate claude cli reasoning bridge</code>](https://github.com/openclaw/openclaw/commit/02f2e08493f4b71f10ee217240cb45c15adb036b)
+- [ ] [<code>fix(voice-call): wrap guarded api json parse</code>](https://github.com/openclaw/openclaw/commit/79bd0185f5d399959633a6d5f4b28812305f238f)
+- [ ] [<code>changelog: cover claude-cli reasoning preview bridge + gating</code>](https://github.com/openclaw/openclaw/commit/f3fecb7218546d68aa0811f8d560e30b239b0d24)
+- [ ] [<code>fix(realtime): wrap malformed transcription frames</code>](https://github.com/openclaw/openclaw/commit/278e3eabf29dd8ff31d633907525bda35ec6474a)
+- [ ] [<code>fix(foundry): wrap malformed az token json</code>](https://github.com/openclaw/openclaw/commit/c96181fdbe98ac0ed6df82187eda7c8b08e527d4)
+- [ ] [<code>fix(gateway): wrap malformed pricing catalog json</code>](https://github.com/openclaw/openclaw/commit/875409429244ca860890301effb3ddfc65f5f9fb)
+- [ ] [<code>fix(plugins): repair legacy npm declaration stubs</code>](https://github.com/openclaw/openclaw/commit/8f7a3cbff34678ac127882d33e06a54d12315995)
+- [ ] [<code>fix(qa-lab): wrap malformed model catalog json</code>](https://github.com/openclaw/openclaw/commit/b02de2e9481a5fc4ae9eb7764032d666ac694ac6)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(google-meet): wrap malformed browser status json</code>](https://github.com/openclaw/openclaw/commit/ae0cb0ac6fd94725f4fd974f3f3ce7d882e1d846)
+- [ ] [<code>fix(google): wrap malformed sse json</code>](https://github.com/openclaw/openclaw/commit/1fc82347a7e31b1a4ba08089c20f92033d316f81)
+- [ ] [<code>fix(build): keep externalized plugins out of root dist</code>](https://github.com/openclaw/openclaw/commit/1b77553115849a4447996e5fbdfbc612fe62d6b4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(node-host): wrap malformed invoke params json</code>](https://github.com/openclaw/openclaw/commit/1bdb151d0d97f20212a85b01356c73e261c3ce9d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(bedrock): wrap malformed embedding json</code>](https://github.com/openclaw/openclaw/commit/2d9ef76d5b6bd3bc386c1295e5ec26e6ec3d0656)
+- [ ] [<code>fix(qqbot): wrap malformed token json</code>](https://github.com/openclaw/openclaw/commit/d9c6036a8f5312a59663c31b0bcae1697193a4ba)
+- [ ] [<code>fix(openai): wrap malformed embedding batch jsonl</code>](https://github.com/openclaw/openclaw/commit/8813b79990f44bf038655fddd1e5dcc59d5ae53c)
+- [ ] [<code>fix(cli): keep plugin json output parseable</code>](https://github.com/openclaw/openclaw/commit/2d6fd54ebdfe83d57cf157ba46f61867c71fe990)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(synology-chat): wrap malformed webhook json</code>](https://github.com/openclaw/openclaw/commit/e692f5c1cfcb2d04465644b9de0dc170084075c1)
+- [ ] [<code>fix(plugins): harden git ref checkout</code>](https://github.com/openclaw/openclaw/commit/42b95a9eb1eb1b243f39e210868967063277e779)
+- [ ] [<code>fix(mattermost): wrap malformed interaction json</code>](https://github.com/openclaw/openclaw/commit/74dae6088b1107ecfaca31c91660b309704c1a8a)
+- [ ] [<code>feat: WhatsApp status reactions, new emoji categories, self-explanatory defaults (#59077) (#80612)</code>](https://github.com/openclaw/openclaw/commit/83b8289ee274fa826fe633f0ba96ff0112001ab9)
+- [ ] [<code>feat(secret-scanning): add automated message header to maintainer notifications</code>](https://github.com/openclaw/openclaw/commit/1f45b37fe17cf4fa292437f3c586183ccde3e421)
+- [ ] [<code>fix(changelog): reject bot/app handles as Thanks attribution and require explicit human credit (#81357)</code>](https://github.com/openclaw/openclaw/commit/83d7ab0d362fdb50922c4875a0cad8e02ec9a344)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix telegram isolated spool lane draining</code>](https://github.com/openclaw/openclaw/commit/3f132370f4a3cd7e7a2134c1cb5801ff326d5365)
+- [ ] [<code>refactor(telegram): simplify spooled lane tracking</code>](https://github.com/openclaw/openclaw/commit/52c9860bdecfa4d47771c30afab923cd2b50fb12)
+- [ ] [<code>fix(telegram): add isolated lane drain changelog (#81849) (thanks @VACInc)</code>](https://github.com/openclaw/openclaw/commit/85eb3cda6508285b20ca22e25a85b0c28f21b3e7)
+- [ ] [<code>fix(telegram): reuse sticky IPv4 dispatcher for getMe health check (#76852) (#76856)</code>](https://github.com/openclaw/openclaw/commit/0de6f93805d8ffa2e07c68df2d8b0f62e40be809)
+- [ ] [<code>Fix gateway handling for undici HTTP2 session teardown (#81838)</code>](https://github.com/openclaw/openclaw/commit/d0f22ccf97232f6bed6487b9b2b24eed855040d9)
+- [ ] [<code>fix(doctor): respect runtime message tool grants</code>](https://github.com/openclaw/openclaw/commit/28550a798cf7633bad1fc226a811d4bf66bf2dd6)
+- [ ] [<code>build(deps): route node proxy helpers through proxyline</code>](https://github.com/openclaw/openclaw/commit/59be6d6390eaf1faacc2290c57dc200023290e17)
+- [ ] [<code>fix(mantis): stop git-backed evidence publishing</code>](https://github.com/openclaw/openclaw/commit/c9b6b0be0e364071eaf9a33b6684b9858546e6f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Bind gateway approval access to requester metadata [AI] (#81380)</code>](https://github.com/openclaw/openclaw/commit/386d321634b3681b22d0f2cf027cdfef49de0049)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: prevent codex app-server surrogate stalls</code>](https://github.com/openclaw/openclaw/commit/f64feab47a66d161b6e13d0e57a14892b38ec91a)
+- [ ] [<code>Fix Telegram polling lease cleanup on restart (#81890)</code>](https://github.com/openclaw/openclaw/commit/130c2d5044c2941a6799f027bea0b19b2e414fb5)
+- [ ] [<code>fix: enforce Codex forced OAuth refresh (#80738)</code>](https://github.com/openclaw/openclaw/commit/c4047117030c76452256c0fc323ae4b51e0df300)
+- [ ] [<code>fix(memory): prioritize canonical daily notes</code>](https://github.com/openclaw/openclaw/commit/e575325af6b4b78070362ea563605f2845f3fb8f)
+- [ ] [<code>fix: keep command cron turns lightweight</code>](https://github.com/openclaw/openclaw/commit/686b93e5c7107fe9b05e0124a76e34d0b265011a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(webchat): render tts audio command replies</code>](https://github.com/openclaw/openclaw/commit/817dca5ae9d4f06a2ae51a7f51294514764f36fe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(clawhub): cancel stalled archive body reads</code>](https://github.com/openclaw/openclaw/commit/86b0a7ddda8a7461367fcbf6098d2d9b5a8ef0cd)
+- [ ] [<code>refactor(clawhub): reuse response body timeout helper</code>](https://github.com/openclaw/openclaw/commit/21f1b46f8af681f4ed18f3bb7ec9bc7fa40d2231)
+- [ ] [<code>test: align mantis evidence assertions</code>](https://github.com/openclaw/openclaw/commit/697103604367a6aa54137407ac20479c7c4c49ee)
+- [ ] [<code>fix: plan managed npm peer pins with npm</code>](https://github.com/openclaw/openclaw/commit/d9ff8cfb012e0594b7c1cea58c481ccfcc304ae6)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>Stream Codex preambles in channel progress drafts (#81887)</code>](https://github.com/openclaw/openclaw/commit/1a5548203e093255c87ab5c0f21586371860b0ad)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build(clawhub): publish bedrock providers</code>](https://github.com/openclaw/openclaw/commit/f6f05c48597b3f3076dd09283c7e7cb0d7ae43cd)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
