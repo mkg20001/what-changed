@@ -2376,6 +2376,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(lib): add TODOs regarding dual connections synchronization</code>](https://github.com/Oppzippy/OpenSCQ30/commit/222624fb64efd45f9e221843601835edd7ccccb0)
 - [ ] [<code>feat(lib): add dual connections for a3035, a3040, and a3062</code>](https://github.com/Oppzippy/OpenSCQ30/commit/1978f1280306742f67d95da6e3bf738ece3ea968)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(lib): add common AutoPowerOffDuration</code>](https://github.com/Oppzippy/OpenSCQ30/commit/2f92d405f0ad846cc9835a378af9ef1b5f587678)
+- [ ] [<code>ci: bump taiki-e/install-action from 2.75.1 to 2.77.1 (#271)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a82b75d80f571535837ad10126f02925921700ca)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.5.7 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.5.7...HEAD)
 
@@ -12005,6 +12007,47 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Stream Codex preambles in channel progress drafts (#81887)</code>](https://github.com/openclaw/openclaw/commit/1a5548203e093255c87ab5c0f21586371860b0ad)
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>build(clawhub): publish bedrock providers</code>](https://github.com/openclaw/openclaw/commit/f6f05c48597b3f3076dd09283c7e7cb0d7ae43cd)
+- [ ] [<code>chore(release): prepare 2026.5.14</code>](https://github.com/openclaw/openclaw/commit/1d8d6645700d73a6324781a76aee3a2777bccd0d)
+- [ ] [<code>fix(acp): tolerate unsupported timeout config hints</code>](https://github.com/openclaw/openclaw/commit/82f4297311e5eeeef7c73247bf98e54cf9c6f7f6)
+- [ ] [<code>docs(plugin-sdk): document Codex helper subpaths</code>](https://github.com/openclaw/openclaw/commit/ba61d12c45c08b3568743e49ff2b8bf57a9e54b5)
+- [ ] [<code>fix: tolerate unsupported ACP timeout hints (#81603) (thanks @qkal)</code>](https://github.com/openclaw/openclaw/commit/f9112f0e0a37b5e914dcd2748bc5188ffbeafd57)
+- [ ] [<code>fix: narrow ACP timeout config suppression (#81603)</code>](https://github.com/openclaw/openclaw/commit/f8ae0fb1c4ff47d6e2693653e1a9d2757ef43fd3)
+- [ ] [<code>fix(skills): trust managed skill symlink roots</code>](https://github.com/openclaw/openclaw/commit/cca4f3c63cc198a3fe3ef5e44042110e4ae8a0b1)
+- [ ] [<code>fix(skills): sync managed symlink skills as directories</code>](https://github.com/openclaw/openclaw/commit/926bf66ee3369ba538f92d63ac8cbc9ee9fe3416)
+- [ ] [<code>docs: consolidate plugin management docs (#81898)</code>](https://github.com/openclaw/openclaw/commit/079bf9967165dbd223337e78d9aac706c9c6ef11)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): return persisted config write responses (#81445)</code>](https://github.com/openclaw/openclaw/commit/abf59205fcbd0513c0174cd190b729a42d08d607)
+- [ ] [<code>fix(acpx): surface Codex ACP diagnostics</code>](https://github.com/openclaw/openclaw/commit/99a6b1c5a886c4664104240ecb9fbe53f02cba93)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Render provider errors in chat history (#65689)</code>](https://github.com/openclaw/openclaw/commit/f6c00456dc52887491115fcf332fb8d265ad4e5b)
+- [ ] [<code>fix ollama native num_ctx migration (#81928)</code>](https://github.com/openclaw/openclaw/commit/bd0555d5fc8e6b6d479674cf0dc27419e8d35437)
+- [ ] [<code>docs changelog for ollama num_ctx fix</code>](https://github.com/openclaw/openclaw/commit/3f0a39510b85a8182e082b5afec9c6d4b124df7a)
+- [ ] [<code>fix(discord): honor threadName when sending to threads (#81933)</code>](https://github.com/openclaw/openclaw/commit/bcbf4fc35f8aac9bd6f47bee20b2dfbc635555be)
+- [ ] [<code>fix: align Codex cron bootstrap context (#81822)</code>](https://github.com/openclaw/openclaw/commit/3f80f889fab71cb6abfbc481287aa4aaaaf6715a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(control-ui): make log stream height responsive</code>](https://github.com/openclaw/openclaw/commit/70ed7c987370435715e445ee2236a815cda96fd0)
+- [ ] [<code>docs: restore 2026.5.12 changelog section (#81943)</code>](https://github.com/openclaw/openclaw/commit/9cfb4c747a035e00dfd2f1ba1ff448d984e744d4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix: use Codex context windows for OpenAI runtime (#81906)</code>](https://github.com/openclaw/openclaw/commit/4004c9342d7dcc78fd33a94b248d5420f3b92f3f)
+- [ ] [<code>fix(plugins): expose effective context budget in hooks</code>](https://github.com/openclaw/openclaw/commit/eb4e20ca1da2a2e667137bd1724d76ef91b483c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(runner): gate surface_error throw on failoverFailure (#70900)</code>](https://github.com/openclaw/openclaw/commit/d7e946eb349511e90ae858c51a081fa55815f29b)
+- [ ] [<code>fix(voice-call): wrap malformed media stream json</code>](https://github.com/openclaw/openclaw/commit/63d72e219176238c8ab25ab4a24ea6fb3ac36670)
+- [ ] [<code>fix(tlon): wrap malformed sse json</code>](https://github.com/openclaw/openclaw/commit/c59e9009039dfca23dec6ae539f8e1ed31c794cb)
+- [ ] [<code>fix(signal): wrap malformed release metadata</code>](https://github.com/openclaw/openclaw/commit/77e5a492f2752900fced5a2c285727d981ac8d75)
+- [ ] [<code>fix(clawhub): wrap malformed marketplace json</code>](https://github.com/openclaw/openclaw/commit/eb07aba9731b2f365a29d2e4f01df8f4a65d44e8)
+- [ ] [<code>feat: add update finalization command</code>](https://github.com/openclaw/openclaw/commit/92f8c1edac78d092bd0cc0cb904bb7e806234bf7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: refresh finalize state after doctor</code>](https://github.com/openclaw/openclaw/commit/4199034de2417a5c25d6825aa01e4755c4cb4453)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: add update finalizer changelog</code>](https://github.com/openclaw/openclaw/commit/0179efc022cc474fa6efb741d4cb42de36276320)
+- [ ] [<code>fix(usage): wrap malformed usage json</code>](https://github.com/openclaw/openclaw/commit/a118e114fe5fb0bfe6df707ff0aa300967ad5034)
+- [ ] [<code>fix(tlon): wrap malformed scry json</code>](https://github.com/openclaw/openclaw/commit/d77f428441f28510c77c23cbf4c075c97b0caef0)
+- [ ] [<code>fix(lmstudio): wrap malformed model json</code>](https://github.com/openclaw/openclaw/commit/6e191f0e1e90434bdb3abd7d66a302ce9dba5bab)
+- [ ] [<code>fix(lint): quiet ollama num_ctx normalizer</code>](https://github.com/openclaw/openclaw/commit/62375ae8603f660155ca2b37b331f13fcf254b48)
+- [ ] [<code>fix(comfy): wrap malformed workflow json</code>](https://github.com/openclaw/openclaw/commit/1d46a2f0b53632580fd86f3fca20c2d01de5bc3d)
+- [ ] [<code>fix(doctor): honor alternate memory slot owners</code>](https://github.com/openclaw/openclaw/commit/c589680e952e716f14efc4fb530bf82cf9e881ea)
+- [ ] [<code>fix(deepinfra): wrap malformed video json</code>](https://github.com/openclaw/openclaw/commit/9f99464119a633d756798e1bd019e9ca45288b65)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
