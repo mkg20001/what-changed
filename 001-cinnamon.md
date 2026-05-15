@@ -311,7 +311,11 @@
 - [ ] [<code>csm-app.c: Fix cinnamon restart limit avoidance.</code>](https://github.com/linuxmint/cinnamon-session/commit/e8238bfa2f7ffd44dc77618d7eaa671e855d1e9c)
 - [ ] [<code>Add stale workflow.</code>](https://github.com/linuxmint/cinnamon-session/commit/7f3bb6df15cc89df82634cf7c9ae5b39968ee1b9)
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/b827aebba9e21d036fee4c4186ea632ac7eb0196)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>wayland: Terminate the session if cinnamon-wayland fails to load</code>](https://github.com/linuxmint/cinnamon-session/commit/1c424d3e9ff4cb07b3e32f48cfb5d65fb0a002a2)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/3fc3b0148ce7f12e79a149a96eef6cae36171bac)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
