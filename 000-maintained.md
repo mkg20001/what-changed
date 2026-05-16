@@ -12438,6 +12438,54 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(auto-reply): restrict no-reply to automatic groups</code>](https://github.com/openclaw/openclaw/commit/f0ceb3c5aa977a2a907a2c710be8b9b3f6a927d0)
 - [ ] [<code>fix(auto-reply): clean up no-reply migration paths</code>](https://github.com/openclaw/openclaw/commit/445ed9b0b40abc690ed82b551d5615a67d494705)
 - [ ] [<code>fix(codex): use stable hooks feature flag (#82078)</code>](https://github.com/openclaw/openclaw/commit/3de97057d0bca95e63d91cd71c7e027ecd42c124)
+- [ ] [<code>feat(reply): add room event turn semantics</code>](https://github.com/openclaw/openclaw/commit/503c3d139c9abebe2b563b3f65d797ab42124aa9)
+- [ ] [<code>feat(telegram): route ambient chatter as room events</code>](https://github.com/openclaw/openclaw/commit/56cc1507715899b98040fb7deefcef5cd2b22621)
+- [ ] [<code>docs(channels): describe room events</code>](https://github.com/openclaw/openclaw/commit/c2e659472a754c69794625948aa16d046be2e472)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): keep room events fully quiet</code>](https://github.com/openclaw/openclaw/commit/fb0f29b9cc03d2a0bd1a21fbefedd3a92dad8e33)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(channels): isolate inbound turn kind type</code>](https://github.com/openclaw/openclaw/commit/6f7897d8ad1a816cfbf9e1b5606fbd952f5613c3)
+- [ ] [<code>fix(reply): clarify room event turn context</code>](https://github.com/openclaw/openclaw/commit/7ed4ad8d1779d9e46e815a86e41490b054a860a2)
+- [ ] [<code>fix(agents): submit quiet room events to model</code>](https://github.com/openclaw/openclaw/commit/4db5cb1a203d170156ddf6a289dca3a28545e939)
+- [ ] [<code>fix(telegram): keep room events quiet</code>](https://github.com/openclaw/openclaw/commit/61f3a4d71d292b7b524c34574610c98a34fce296)
+- [ ] [<code>fix: gate ambient room event turns</code>](https://github.com/openclaw/openclaw/commit/d4b98f0dc992851cb9b474da458ab8594c992434)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep explicit quiet replies suppressed</code>](https://github.com/openclaw/openclaw/commit/ba8b4377f74b957e6f98c4dab06747f092d99648)
+- [ ] [<code>fix: isolate telegram room event dispatch fence</code>](https://github.com/openclaw/openclaw/commit/46409d30b70eac88436913ab0cfdcfdabd490d4a)
+- [ ] [<code>fix: keep room events quiet without breaking delivery fallback</code>](https://github.com/openclaw/openclaw/commit/8c8241140e27fd8bcd41b7927d86393b1b288005)
+- [ ] [<code>fix: isolate telegram room event delivery correlation</code>](https://github.com/openclaw/openclaw/commit/b5fde36c41766e21bc1a2cef5f567128be4ef709)
+- [ ] [<code>fix: keep telegram room events fully quiet</code>](https://github.com/openclaw/openclaw/commit/4b11d65adab7ca5d7f5d3a6e2958d48a772ff937)
+- [ ] [<code>fix: propagate room event tool context</code>](https://github.com/openclaw/openclaw/commit/ddcfde148970912893d9e9975de9bb194f6bf2d9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: carry room event gateway actions</code>](https://github.com/openclaw/openclaw/commit/f1351bcbcf29d68046de4d49af9528dccd9ddb38)
+- [ ] [<code>fix: preserve overlapping telegram room event correlations</code>](https://github.com/openclaw/openclaw/commit/ad29f089e47a0199c5ffcb423045d7f8822e22f3)
+- [ ] [<code>fix: abort superseded telegram room events</code>](https://github.com/openclaw/openclaw/commit/fa9c7ddadfd201db6a1bcc146d99aa76fa979907)
+- [ ] [<code>fix: cancel queued room event followups</code>](https://github.com/openclaw/openclaw/commit/b9ffc0eda9af04a85ff80f06343762411ca82687)
+- [ ] [<code>fix: finish room event gating</code>](https://github.com/openclaw/openclaw/commit/2e5a86adfea7058374cb51fec07d51a810363705)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: satisfy room-event strict smoke types</code>](https://github.com/openclaw/openclaw/commit/903e246e871f7cdbc842211640d4a2ff118046e1)
+- [ ] [<code>fix(doctor): materialize group allowFrom fallback (#82316)</code>](https://github.com/openclaw/openclaw/commit/cce12697a1eef4b17746cd7772c031136200d37a)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(cron): separate failure notification delivery</code>](https://github.com/openclaw/openclaw/commit/a6dd9fdf08369a06e7e281bed80e62bc3243b3e7)
+- [ ] [<code>fix: surface stalled telegram ingress backlog</code>](https://github.com/openclaw/openclaw/commit/25a8f5f3f8529fbecdadd3447147b4886e491aef)
+- [ ] [<code>fix(telegram): retain transcript-backed truncated finals</code>](https://github.com/openclaw/openclaw/commit/d0218d3e592fe1ce52e35bccd1b3c7701b51e3ee)
+- [ ] [<code>fix(cron): honor subagent model fallbacks</code>](https://github.com/openclaw/openclaw/commit/e22a7e45a40a07726d2cfc1b93b4663585898f2f)
+- [ ] [<code>fix: repair release validation type and lint gates</code>](https://github.com/openclaw/openclaw/commit/a87fcefe313476a3264544ab273cd7b4f29c8bda)
+- [ ] [<code>chore(release): set 2026.5.16 version</code>](https://github.com/openclaw/openclaw/commit/b7e8f6da6ac13a6a9b365460665a89776e7bec53)
+- [ ] [<code>refactor(agents): share subagent cron fallback selection (#82328)</code>](https://github.com/openclaw/openclaw/commit/0ad3d25fb7cd8597e92f1f1fc5c2bbe1b2c76cf4)
+- [ ] [<code>Adopt Proxyline for managed proxy routing</code>](https://github.com/openclaw/openclaw/commit/6921d9072e91df4761edc37048f990c97774026b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(codex): yield app-server notification projection (#82333)</code>](https://github.com/openclaw/openclaw/commit/ea16a5e9e10c5b2be28ed46ea77ba5a7aa787d8c)
+- [ ] [<code>Fix gateway auth logout aborting active runs (#82346)</code>](https://github.com/openclaw/openclaw/commit/64b94daf92c4d80ac39f5fd5eb70d3458dce6ec8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(auto-reply): abort active text stop runs</code>](https://github.com/openclaw/openclaw/commit/8d3b5c2d19d66b9dc33f546539de4a6be639dd24)
+- [ ] [<code>fix(configure): unify OpenAI auth provider picker (#82324)</code>](https://github.com/openclaw/openclaw/commit/49e9382cc05a33d12a79cfbe9f00a6d31908f689)
+- [ ] [<code>fix: clarify provider timeout ceiling</code>](https://github.com/openclaw/openclaw/commit/b08e0da25b8a217b55393cac22d6709b0c8d6672)
+- [ ] [<code>fix fallback provenance across reloads (#82363)</code>](https://github.com/openclaw/openclaw/commit/1dac68c0bbe75a78df75d500ea86c7f13aca91bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Revert "chore(release): set 2026.5.16 version"</code>](https://github.com/openclaw/openclaw/commit/73aab6abd835c38f962d0b283a8d6726fb33ae40)
+- [ ] [<code>changelog: credit reporters for #82239, #65867, #82167, #47444 follow-up</code>](https://github.com/openclaw/openclaw/commit/9c2044d3b7b4238bdae7bdfcf0134d9c19f3f5dc)
+- [ ] [<code>fix(test): defer unit coverage source discovery</code>](https://github.com/openclaw/openclaw/commit/9a1fa5f23fbc36ca0cf2972d3f149218bb11d9f0)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
