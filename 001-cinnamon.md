@@ -250,9 +250,10 @@
 - [ ] [<code>ExtensionCore.py: load spice rows in batches to prevent lag when</code>](https://github.com/linuxmint/cinnamon/commit/eada69413eab0382ca2401cd249e254d30dc9bd3)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>cinnamon-settings/spices: Use xapp for proxy setup instead of</code>](https://github.com/linuxmint/cinnamon/commit/23f1d9ed998190b0853ad68e15f4f56296791698)
-  - <sub>Tags: <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>org.gnome.system</code></sub>
+- [ ] [<code>layout.js: Ignore actors without a metawindow in</code>](https://github.com/linuxmint/cinnamon/commit/a9cf0e00375a37f1af08d27e5cb12901ed50fbfc)
+  - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
