@@ -561,7 +561,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>appdata: Mark release notes non-translatable.</code>](https://github.com/linuxmint/warpinator/commit/e07443c4afab3e69d9dcd2efbf523ef8b78faf40)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>2.0.4</code>](https://github.com/linuxmint/warpinator/commit/9cd5dbbf7d08a7965deb96d8708186d2afd68453)
+  - <sub>Tags: <code>2.0.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xapp](https://github.com/linuxmint/xapp): [3.2.2 → HEAD](https://github.com/linuxmint/xapp/compare/3.2.2...HEAD)
 
