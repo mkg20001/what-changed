@@ -13476,6 +13476,45 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Doctor: add health-check contract and --lint validation (#80055)</code>](https://github.com/openclaw/openclaw/commit/9a5f2f61e76fcc66e5f5039236a7a0bd29bdf517)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
 - [ ] [<code>Log Telegram outbound delivery success (#83247)</code>](https://github.com/openclaw/openclaw/commit/bacc18a575ebbd12d83dd68d25e5b660c6045d26)
+- [ ] [<code>docs: clean up building plugins guide</code>](https://github.com/openclaw/openclaw/commit/d0736919aa2518dbb582b0617df568b58bf7b235)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: fix building plugin typebox import</code>](https://github.com/openclaw/openclaw/commit/d85a7c6b67bd34550fcbe4047b28c78b1db09e59)
+- [ ] [<code>Fix Telegram stop debounce bypass (#83248)</code>](https://github.com/openclaw/openclaw/commit/aa71f7fe15685a00b76fd088e33cab8d5a9066ab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(gateway): keep unmanaged restarts in-process (#83138)</code>](https://github.com/openclaw/openclaw/commit/c93d6d8daa37fadbbd98611f08c7489b3dc14097)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>style(macos): align sessions settings padding</code>](https://github.com/openclaw/openclaw/commit/127f3f86d737e7ee5f9eb08e0540d804fd6e6394)
+- [ ] [<code>Fix Discord verbose tool progress delivery (#80042)</code>](https://github.com/openclaw/openclaw/commit/57da466ecbb5f63b5a1881ae8caa7359c02ec40c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat(browser): surface observed dialogs (#83099)</code>](https://github.com/openclaw/openclaw/commit/7afac6015f78688d4cbe79ec560ed77f6e9a687a)
+- [ ] [<code>fix(gemini-transport): validate thought_signature base64 before forwarding to Gemini (#82995)</code>](https://github.com/openclaw/openclaw/commit/d63c581dec4b80b7350881928036ed001d4756ff)
+- [ ] [<code>fix(codex): honor denied app-server tool policy</code>](https://github.com/openclaw/openclaw/commit/dad3db40d3a7e7e686aa0ec0a1497ec016ca0424)
+- [ ] [<code>fix(codex): fail closed restricted native tools</code>](https://github.com/openclaw/openclaw/commit/5f1d8a2ee4bf3254442a2cedc18ac5090e95969a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(codex): type denied tool policy mocks (#82374) (thanks @VACInc)</code>](https://github.com/openclaw/openclaw/commit/7bcd5acc1a85e2af63e11b581710c48d35e598d9)
+- [ ] [<code>test: keep slow tests under duration cap</code>](https://github.com/openclaw/openclaw/commit/691d62630f61b59ef362b6e675131cc4ba2efbe8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: fix CI regressions</code>](https://github.com/openclaw/openclaw/commit/9a936b3063e107000caeb9c0c68fe78ba6efe229)
+- [ ] [<code>Keep legacy Codex OAuth sidecar profiles usable (#83312)</code>](https://github.com/openclaw/openclaw/commit/06f4c97130c6c1a0cb667b69b9465b01480f7094)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve recent Codex context projections</code>](https://github.com/openclaw/openclaw/commit/72e164a3fe20b6937cf924f7346d6a0c02aa6490)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: add maintainer assignment triage workflow</code>](https://github.com/openclaw/openclaw/commit/086d3d012e52e4929d2b7dc6399ea66a98807594)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(macos): keep dashboard failures in window</code>](https://github.com/openclaw/openclaw/commit/bef33563756f4de2c93d21d800cd4eb5825adb9c)
+- [ ] [<code>docs: run autoreview with full-access sandbox</code>](https://github.com/openclaw/openclaw/commit/77bbffb998e36ffcf232f2c7a4798ae2bf3ac56a)
+- [ ] [<code>fix(openai): allow available Codex OAuth models</code>](https://github.com/openclaw/openclaw/commit/9da0f8035660aeba54274ac64347d7030d87fec7)
+- [ ] [<code>fix: hide display-hidden chat transcript messages</code>](https://github.com/openclaw/openclaw/commit/47a2efe4839084a91543e8f729e0c983f7a66cc0)
+- [ ] [<code>fix(telegram): bound isolated long-poll timeout</code>](https://github.com/openclaw/openclaw/commit/91266fa9288a791b23efeb1281c6770597718234)
+- [ ] [<code>ci: reduce main workflow queue time</code>](https://github.com/openclaw/openclaw/commit/17ab3b11cb85d70788083c4ccbfd8408aaac5d31)
+- [ ] [<code>fix: seed control UI origins for bind aliases</code>](https://github.com/openclaw/openclaw/commit/b0b18d1e4a304a3c3bbf6a75a16766692e7c2e47)
+- [ ] [<code>fix(cli): keep subcommand help lightweight</code>](https://github.com/openclaw/openclaw/commit/9bdc183b7d056f302bbd03005494e1b7d58cd4f8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): recognize gateway run command chunk</code>](https://github.com/openclaw/openclaw/commit/bb691a0d25448967008ed86d20c4257df954a4b6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(ci): update prerelease runner expectation</code>](https://github.com/openclaw/openclaw/commit/3d85e84df32953bf00086df4d9f2c22726bc3b23)
+- [ ] [<code>test: speed up prompt snapshot checks</code>](https://github.com/openclaw/openclaw/commit/2d2c420ed2c0784ed835a2b6c112a87bc68e2bee)
+- [ ] [<code>test: cover one-chunk progress final payload</code>](https://github.com/openclaw/openclaw/commit/6ebe91d92b2a1972dd6350142f59f851145589cf)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
