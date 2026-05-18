@@ -372,6 +372,11 @@
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.9...HEAD)
 
+- [ ] [<code>Round frames and containers</code>](https://github.com/linuxmint/mint-themes/commit/2cbec58132225b5d53b33cf60b7b2f6eed74a2b3)
+- [ ] [<code>Don't round the frame of the sidebar</code>](https://github.com/linuxmint/mint-themes/commit/5d5689c01ad66244d893d86eddc9ff070daa1fc3)
+- [ ] [<code>Round notebooks and notebook tabs</code>](https://github.com/linuxmint/mint-themes/commit/1fa6b0f21bd77a5e5336ce4e731abc9eca3a92ec)
+- [ ] [<code>2.4.0</code>](https://github.com/linuxmint/mint-themes/commit/7078425a39fc7a81bd5a16abfd274250dafd7c6b)
+  - <sub>Tags: <code>2.4.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -544,8 +549,13 @@
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/python-xapp/commit/ecca9b998b28968c496d3a5fe1fdcd9b6eaf6cd1)
 - [ ] [<code>os.py: Add add_network_proxy_to_env() to replace proxygsettings.py</code>](https://github.com/linuxmint/python-xapp/commit/6291e4ef58efeb07172091fd7af0fd0f3162f07b)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>command</code> <code>org.gnome.system</code></sub>
+- [ ] [<code>Implement Dialog</code>](https://github.com/linuxmint/python-xapp/commit/838128c8aa439436f544b18c3933219509cf48f3)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>3.0.3</code>](https://github.com/linuxmint/python-xapp/commit/5b178b9bbc7c54d9fade6bf59491cd6d117f7fd0)
+  - <sub>Tags: <code>3.0.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
@@ -584,7 +594,12 @@
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
 
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xreader/commit/ef5a50dd85e303331ed5a64cd73c3c9153ef42a6)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>ev-application: Quote user-supplied strings in ev_spawn command line</code>](https://github.com/linuxmint/xreader/commit/50052eaa91c3c750c51c245799e3747495feeece)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>4.6.4</code>](https://github.com/linuxmint/xreader/commit/8a894030e898a09d733170ce123fe7e3807052b8)
+  - <sub>Tags: <code>4.6.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
