@@ -1330,6 +1330,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code></sub>
 - [ ] [<code>build(deps): bump k8s.io modules to v0.36.1 (#22505)</code>](https://github.com/netdata/netdata.git/commit/d048db5c1ef4211e8061f266c49e93ee066e283f)
 - [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.2.0 to 2.0.0 (#22498)</code>](https://github.com/netdata/netdata.git/commit/cdc2082325ab035e86618dc3b8e9d8c6e6d83389)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-227-nightly.</code>](https://github.com/netdata/netdata.git/commit/be589ec88ef3499d00eb8c0717a6b15d001e710d)
+- [ ] [<code>Avoid returning uninitialized packet_id on ACLK publish failure (#22504)</code>](https://github.com/netdata/netdata.git/commit/2eb7d2f9a23a0b282a0ba02403a4f6d18c2500c0)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -13901,6 +13903,65 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>style: refine mac voice settings layout</code>](https://github.com/openclaw/openclaw/commit/8aff1807fa659588096d04e8de4e74934a95a592)
 - [ ] [<code>fix(push): use valid default VAPID subject (#83317)</code>](https://github.com/openclaw/openclaw/commit/9b517b50cb2c20ed2ca8d741d93cb63cd81a3cd3)
 - [ ] [<code>fix(skills): refresh snapshots when watch roots change (#83823)</code>](https://github.com/openclaw/openclaw/commit/f1a55cbd52038a7c18613c6d4fe416bb36484802)
+- [ ] [<code>fix: add Copilot IDE headers to resolved models (#82275)</code>](https://github.com/openclaw/openclaw/commit/6f18decb7a2cbe4687c1ab8f09a5a58b95f17c30)
+- [ ] [<code>test(qa-lab): add personal no-fake-progress scenario (#83824)</code>](https://github.com/openclaw/openclaw/commit/a9eaf0c99381e9475ba0f241390afefe80b50413)
+- [ ] [<code>Harden final delivery routing refresh (#83835)</code>](https://github.com/openclaw/openclaw/commit/2c8f78e723ec2baee5ace4ae1a31647819b246b4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory-wiki): preserve fs-safe write diagnostics (#83839)</code>](https://github.com/openclaw/openclaw/commit/1a242cd4f5011b0364fba3af15701cbe99096e32)
+- [ ] [<code>fix(ui): keep delete confirm in viewport (#83825)</code>](https://github.com/openclaw/openclaw/commit/d160342b554096875168f5816fcbc358cc6fd4d6)
+- [ ] [<code>fix(cli): include loopback tools in cli prompts (#83828)</code>](https://github.com/openclaw/openclaw/commit/48d9966aa1de5015eca635dcc5497a9bf90524b5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>codex: surface deferred dynamic tool names (#83813)</code>](https://github.com/openclaw/openclaw/commit/0b4fc26d4addf61e5c1b88ede26e33d8b321b268)
+- [ ] [<code>Fix memory plugin CLI help dispatch (#83841)</code>](https://github.com/openclaw/openclaw/commit/eb6dd2c65d1147225dcf2d42f4e80fd9580c5747)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(config): keep agent model overrides selection-only (#83319)</code>](https://github.com/openclaw/openclaw/commit/88585da2e8123d921377fff63d4b7227b76ca2b5)
+- [ ] [<code>Improve Telegram groups config shape diagnostics (#83260)</code>](https://github.com/openclaw/openclaw/commit/19065e4a2fc83e46b755f36ab0f287f447380b85)
+- [ ] [<code>Fix Telegram forum topic parallel flow (#83829)</code>](https://github.com/openclaw/openclaw/commit/f526d96c98abe302154edaf08d866bf44d108216)
+- [ ] [<code>fix(migrate): use resolved provider for options (#83323)</code>](https://github.com/openclaw/openclaw/commit/8eb0a1777f08b064db1de40e2a93af4e63fd180b)
+- [ ] [<code>fix(deepseek): normalize mcp union tool schemas (#83848)</code>](https://github.com/openclaw/openclaw/commit/6f7d9736e26494f48b0fc9da19b3e6668725e778)
+- [ ] [<code>fix(codex): guard against stale codex app snapshots leading to plugin invocation failure (#83807)</code>](https://github.com/openclaw/openclaw/commit/f169e0aafde8a12b3cde4fd53bfb6ff3504e7431)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Preserve queued Telegram topic followups (#83827)</code>](https://github.com/openclaw/openclaw/commit/a559ccc0844a5b07073f85bcb717b2093adb76f2)
+- [ ] [<code>docker: support optional pip packages in local builds (#83850)</code>](https://github.com/openclaw/openclaw/commit/ff4bf0c367c15de5a1850e3a212859eff0dcba63)
+- [ ] [<code>fix(whatsapp): periodic delivery-queue drain so enqueued items don't wait for next reconnect (#79083)</code>](https://github.com/openclaw/openclaw/commit/e9989f3a92e5ab28c900d962ea6058fabb94bee7)
+- [ ] [<code>Allow trusted plugin keyed state (#83775)</code>](https://github.com/openclaw/openclaw/commit/10b313d628df760090764b2c13a88a94224ec065)
+- [ ] [<code>fix(codex): honor Docker bind write policy (#83849)</code>](https://github.com/openclaw/openclaw/commit/3ee03420613fe2f73ab606df6a60204205d43636)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(codex): preserve plugin tool auth profiles (#83845)</code>](https://github.com/openclaw/openclaw/commit/8bd24ad6d4abe57a8d35a1b07ac8949e9ba6a250)
+- [ ] [<code>Guard final delivery session refresh (#83928)</code>](https://github.com/openclaw/openclaw/commit/e9961597381054492a51823c01ccc1ca615101da)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(mantis): preserve telegram account queue</code>](https://github.com/openclaw/openclaw/commit/131577a4dc6de8e368c4b21cf7d87a200f8ee88d)
+- [ ] [<code>fix(mantis): ignore stale telegram queue blockers</code>](https://github.com/openclaw/openclaw/commit/d75e16a1b920a1a1a831e782e29d68f18388fa70)
+- [ ] [<code>fix(agents): skip dormant completion wake probes</code>](https://github.com/openclaw/openclaw/commit/57ec361682e2100542f70c5c301a4f108136672e)
+- [ ] [<code>Fix stuck Codex-native subagent tasks after blocked spawn (#83945)</code>](https://github.com/openclaw/openclaw/commit/ba7ce3c6b99aad374b4de22a56fef3a7ceacca8d)
+- [ ] [<code>fix(mantis): skip zombie telegram queue runs</code>](https://github.com/openclaw/openclaw/commit/1f794d2816d10319490356b0661e7bfed78565fc)
+- [ ] [<code>fix: retry config snapshot after rejection (#83944)</code>](https://github.com/openclaw/openclaw/commit/cbaf858227985e004d7c06e2386e7cf216d58f6a)
+- [ ] [<code>fix(agents): preserve bare Telegram reply context (#83953)</code>](https://github.com/openclaw/openclaw/commit/cc835b6d72765ff81aeab7d8ad8628b425c24547)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(mantis): wait for telegram desktop bootstrap</code>](https://github.com/openclaw/openclaw/commit/6da73ac90f1edad109653080b961170709a5d940)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(whatsapp): clarify inbound group diagnostics (#83969)</code>](https://github.com/openclaw/openclaw/commit/b2f9f197a50e5faa169e0619033b1dcec562f161)
+- [ ] [<code>fix: include gateway plugin commands in TUI autocomplete (#83941)</code>](https://github.com/openclaw/openclaw/commit/6fcfeed5dc6709ecff6bed5ac2e0085465772767)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: forward-port Tideclaw alpha release fixes</code>](https://github.com/openclaw/openclaw/commit/b86435f0b597e58cd2eb904fe7fa12f881ca4dba)
+- [ ] [<code>Add Telegram progress preview flows (#83847)</code>](https://github.com/openclaw/openclaw/commit/d60ab485114a564f1403d1c98f0fc3e53f5add71)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(mantis): release interrupted telegram proof leases</code>](https://github.com/openclaw/openclaw/commit/f0a86450b1d3af60522eb93acb0617f91c89f507)
+- [ ] [<code>fix(config): allow bundled provider timeout overlays (#83267)</code>](https://github.com/openclaw/openclaw/commit/ff871e162aafc0ff2e52c17b37fb4ba257601075)
+- [ ] [<code>fix(android): remove photo library access from play build</code>](https://github.com/openclaw/openclaw/commit/ac077018331088b97c27f5924ff1f264053da8d8)
+- [ ] [<code>chore(android): bump play upload version code</code>](https://github.com/openclaw/openclaw/commit/cf235b209f1eee9ecad5bdb9bd899250ed745e5d)
+- [ ] [<code>fix(agents): ignore duplicate embedded run clears</code>](https://github.com/openclaw/openclaw/commit/754b4234cba13fa8d922a1476f792dc4d3d2c1ec)
+- [ ] [<code>fix: recover stale subagent completion announces</code>](https://github.com/openclaw/openclaw/commit/04eac15f43d5d5d272f56ef4c343c9260a0d3d64)
+- [ ] [<code>fix(agents): add trajectory flush timeout diagnostics</code>](https://github.com/openclaw/openclaw/commit/ddeaebfc6807aa18ef90b14851a3646f3f0b3454)
+- [ ] [<code>feat(xai): add device code oauth login</code>](https://github.com/openclaw/openclaw/commit/896fd13b1c613ac7fcce3ef2106e0712c8da0dc8)
+- [ ] [<code>fix(xai): decouple device code discovery</code>](https://github.com/openclaw/openclaw/commit/b66e91ba77e33878f65f65e698ca207c8327c070)
+- [ ] [<code>fix(xai): add device code changelog (#84005) (thanks @fuller-stack-dev)</code>](https://github.com/openclaw/openclaw/commit/6ee60fcfe22872529bd6c9144fd34c52b291441d)
+- [ ] [<code>fix(xai): use public plugin test runtime (#84005) (thanks @fuller-stack-dev)</code>](https://github.com/openclaw/openclaw/commit/1d77170a305b039ce609a04ae17f0ec1c5b69ce8)
+- [ ] [<code>fix(installer): preserve windows onboarding tui (#84044)</code>](https://github.com/openclaw/openclaw/commit/aef93881af5f2a9fd96481f902238d42bd1b5c68)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(memory): close local embedding providers on timeout (#84048)</code>](https://github.com/openclaw/openclaw/commit/1c1c75df72783007eeff6f3f647f7b95c24c6dbd)
+- [ ] [<code>fix(ollama): default unknown capabilities to tools (#84075)</code>](https://github.com/openclaw/openclaw/commit/5e0850fc548ceab82af7244938b833024e485834)
+- [ ] [<code>chore: move Motivation section above Change Type in PR template (#84098)</code>](https://github.com/openclaw/openclaw/commit/d7083bab4c6eda82d600461940ddb549caf6fe1a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
