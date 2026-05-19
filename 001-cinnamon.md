@@ -545,17 +545,8 @@
 - [ ] [<code>Enable scroll in histogram view and curve editor (#246)</code>](https://github.com/linuxmint/pix/commit/3a7dd7f8b41cbe11554d49fe13a4cb6574313d4b)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.2 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.2...HEAD)
+#### [python313Packages.python-xapp](https://github.com/linuxmint/python-xapp): [3.0.3 → HEAD](https://github.com/linuxmint/python-xapp/compare/3.0.3...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/python-xapp/commit/ecca9b998b28968c496d3a5fe1fdcd9b6eaf6cd1)
-- [ ] [<code>os.py: Add add_network_proxy_to_env() to replace proxygsettings.py</code>](https://github.com/linuxmint/python-xapp/commit/6291e4ef58efeb07172091fd7af0fd0f3162f07b)
-  - <sub>Keywords: <code>command</code> <code>org.gnome.system</code></sub>
-- [ ] [<code>Implement Dialog</code>](https://github.com/linuxmint/python-xapp/commit/838128c8aa439436f544b18c3933219509cf48f3)
-  - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>3.0.3</code>](https://github.com/linuxmint/python-xapp/commit/5b178b9bbc7c54d9fade6bf59491cd6d117f7fd0)
-  - <sub>Tags: <code>3.0.3</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
 
 #### [warpinator](https://github.com/linuxmint/warpinator): [2.0.3 → HEAD](https://github.com/linuxmint/warpinator/compare/2.0.3...HEAD)
 
