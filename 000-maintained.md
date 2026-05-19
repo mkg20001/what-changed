@@ -587,6 +587,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>avifImageCopy: check avifImageCreateEmpty() result</code>](https://github.com/AOMediaCodec/libavif/commit/96e91c48e26b1dc232abb47cc46073cae2606ea1)
 - [ ] [<code>gainmap: check avifImageCreateEmpty() result</code>](https://github.com/AOMediaCodec/libavif/commit/15c8b002222ea82466eb42a12b809e930704efa4)
 - [ ] [<code>avifenc: Follow up on PR #3179</code>](https://github.com/AOMediaCodec/libavif/commit/786926e4b151886c3a4ef3f897e4d143f1bd7c6f)
+- [ ] [<code>Document the marker parameter of box writing funcs</code>](https://github.com/AOMediaCodec/libavif/commit/4e3fed82b35a4711bedaf8b58485fc07714ee746)
+- [ ] [<code>Detect invalid box size in avifRWStreamFinishBox()</code>](https://github.com/AOMediaCodec/libavif/commit/ed4f11dcf6e684025f0a2225a48099ef213fe7c2)
+- [ ] [<code>Check null return value from avifImageCreateEmpty</code>](https://github.com/AOMediaCodec/libavif/commit/a854856d05ccd05db91ee49e3c54b4e5a6d70582)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1332,6 +1335,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.2.0 to 2.0.0 (#22498)</code>](https://github.com/netdata/netdata.git/commit/cdc2082325ab035e86618dc3b8e9d8c6e6d83389)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-227-nightly.</code>](https://github.com/netdata/netdata.git/commit/be589ec88ef3499d00eb8c0717a6b15d001e710d)
 - [ ] [<code>Avoid returning uninitialized packet_id on ACLK publish failure (#22504)</code>](https://github.com/netdata/netdata.git/commit/2eb7d2f9a23a0b282a0ba02403a4f6d18c2500c0)
+- [ ] [<code>Fix dynamic configuration unittest  (#22506)</code>](https://github.com/netdata/netdata.git/commit/7e710150cff0f297120aa991417c635d55d490d9)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -13962,6 +13966,33 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(memory): close local embedding providers on timeout (#84048)</code>](https://github.com/openclaw/openclaw/commit/1c1c75df72783007eeff6f3f647f7b95c24c6dbd)
 - [ ] [<code>fix(ollama): default unknown capabilities to tools (#84075)</code>](https://github.com/openclaw/openclaw/commit/5e0850fc548ceab82af7244938b833024e485834)
 - [ ] [<code>chore: move Motivation section above Change Type in PR template (#84098)</code>](https://github.com/openclaw/openclaw/commit/d7083bab4c6eda82d600461940ddb549caf6fe1a)
+- [ ] [<code>fix(cli): reject out-of-range port numbers in parsePort (#83900) (#84008)</code>](https://github.com/openclaw/openclaw/commit/e2c8e7c8ae65ecd4c7621a041e80da54fbdccf34)
+- [ ] [<code>fix(cli): preserve equals in root option values [AI-assisted] (#84107)</code>](https://github.com/openclaw/openclaw/commit/d916f176e19455a268880a7ada08109590a0ef77)
+- [ ] [<code>fix(media): decode remote URL fallback filenames (#84108)</code>](https://github.com/openclaw/openclaw/commit/4e60ad7212098b5648be3595167c11121a972bc0)
+- [ ] [<code>[codex] Fix Control UI terminal run status recovery (#84112)</code>](https://github.com/openclaw/openclaw/commit/03d774d6d8be3e797bca1f024f27770548ad18d1)
+- [ ] [<code>Fix config queue overrides for Matrix (#84104)</code>](https://github.com/openclaw/openclaw/commit/f07c87405c3094feceaaf2f0f19a2e765a25e78d)
+- [ ] [<code>fix(cli): preserve first line of channels logs at window boundary (#84106)</code>](https://github.com/openclaw/openclaw/commit/b7ba7c3f2a1e0c8bfead084596911aa7a0ef9852)
+- [ ] [<code>feat(agents): support per-agent local model lean mode (#84073)</code>](https://github.com/openclaw/openclaw/commit/13c97c5a8d04897c84cbb4a82eeac502330cdee8)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli): format acp client errors with formatErrorMessage (#83904) (#84080)</code>](https://github.com/openclaw/openclaw/commit/5d19beb547e1c538bff2c3402015799e57e429f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docker): keep codex plugin in release images</code>](https://github.com/openclaw/openclaw/commit/d0f7c8fa280534c3be786fd1ec69b569bbd72200)
+- [ ] [<code>harden update restart script creation [AI] (#84088)</code>](https://github.com/openclaw/openclaw/commit/48acdd3d85eaf4c1f6fbee557e38a483f5e33944)
+- [ ] [<code>fix(llm-idle-timeout): honor models.providers.<id>.timeoutSeconds for cloud providers</code>](https://github.com/openclaw/openclaw/commit/9e9feb52f43c5b20975fc64263e1a7eeabb726b0)
+- [ ] [<code>test: cover provider timeout bare hostnames</code>](https://github.com/openclaw/openclaw/commit/6899eff155ec321c3aca98ecf9c3f309d78d123d)
+- [ ] [<code>docs: add provider timeout changelog entry</code>](https://github.com/openclaw/openclaw/commit/78d226bb3b6933c28a32e12bfa69435d8d7237d1)
+- [ ] [<code>fix(mantis): finish interrupted telegram proof sessions</code>](https://github.com/openclaw/openclaw/commit/edcf862da5d02d484678935f5be36115317eda09)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>[Docs] Document gateway benchmark probes (#83866)</code>](https://github.com/openclaw/openclaw/commit/323c9760d32780276abefb2020cea85da426da11)
+- [ ] [<code>docs: clarify /new vs /reset semantics in slash-commands (#81073)</code>](https://github.com/openclaw/openclaw/commit/e00cb664ad4bd346866dfb1ad863e7b6c72dd7e6)
+- [ ] [<code>[codex] restore QR bootstrap operator handoff (#83684)</code>](https://github.com/openclaw/openclaw/commit/94d8391c0323b10b3ae14e9b940d184a0a5ffdc2)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(codex): add plugin list enable disable commands (#83293)</code>](https://github.com/openclaw/openclaw/commit/9b97e1ef2fd2315b1ea50fbb970c274bc078390b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[codex] fix iOS TestFlight release archive (#84255)</code>](https://github.com/openclaw/openclaw/commit/edd7c8e4a1d84655541f8cea04ead7611edb0739)
+- [ ] [<code>perf(plugins): thread explicit discovery to avoid redundant filesystem walks (#75451)</code>](https://github.com/openclaw/openclaw/commit/28beea9e881ce3be7497f60c221e3fe51ba34d99)
+- [ ] [<code>perf(plugins): extend discovery threading to loader, manifest registry, installed-index, and config contracts (#84258)</code>](https://github.com/openclaw/openclaw/commit/f5f0b2c7c9e072975dc6e8206b79944a5342dfc6)
+- [ ] [<code>Revert "perf(plugins): extend discovery threading to loader, manifest registr…" (#84278)</code>](https://github.com/openclaw/openclaw/commit/3d96111a5afe377b529c9bb5a9db510d74607344)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
