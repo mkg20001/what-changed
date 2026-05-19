@@ -429,6 +429,7 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>meta-x11-background-actor.c: Fix signal handler accumulation leak.</code>](https://github.com/linuxmint/muffin/commit/b51f973b170580670c158d77e98ad6dc3a60d1fd)
 - [ ] [<code>meta-x11-background-actor.c: Skip a background transition if the</code>](https://github.com/linuxmint/muffin/commit/3353a4259181660e5819b58fd461b21029ce700c)
+- [ ] [<code>events.c: Guard against a mouse zoom modifier value of 0.</code>](https://github.com/linuxmint/muffin/commit/647e8fd238c6d47aa7e59597a82b051c85fc03a8)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
