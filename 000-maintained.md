@@ -13869,6 +13869,38 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code> <code>exec</code></sub>
 - [ ] [<code>fix(auto-reply): honor webchat textChunkLimit/chunkMode config overrides [AI-assisted] (#83742)</code>](https://github.com/openclaw/openclaw/commit/424c6d0a5f4665b803ad6768d08b0be7659deaf4)
 - [ ] [<code>fix(outbound): resolve send-capable channel registry (#83733)</code>](https://github.com/openclaw/openclaw/commit/b2c5ba6d4c4e8135e73f459eefc8af007a219755)
+- [ ] [<code>fix: keep inter-session provenance out of transcripts (#83755)</code>](https://github.com/openclaw/openclaw/commit/721ad1587ae5988fa1ad2acc3e42a5087c3df11f)
+- [ ] [<code>fix(cli): fix flaky config set help text test caused by env var leakage and word wrapping (#83423)</code>](https://github.com/openclaw/openclaw/commit/d124c5aa2005d959a239bdf64f326d62f12682d6)
+- [ ] [<code>fix(github): preserve clawsweeper proof labels (#83781)</code>](https://github.com/openclaw/openclaw/commit/9968db65db76ab5a0cdc959a1d1c128b3c49ffb1)
+- [ ] [<code>chore: bump release version to 2026.5.19</code>](https://github.com/openclaw/openclaw/commit/c1579b77272c818b46c758b2a24233613e6ae4aa)
+- [ ] [<code>chore: refresh release generated baselines</code>](https://github.com/openclaw/openclaw/commit/83c225b2430e40dd4f45f727e49a93a27328f302)
+- [ ] [<code>fix(anthropic): preserve Claude image capability (#83756)</code>](https://github.com/openclaw/openclaw/commit/98cc6df7ff2332f874d55b1fbb66dbeb09609b52)
+- [ ] [<code>fix(memory-core): yield event loop during fallback vector search (#81172) (#83758)</code>](https://github.com/openclaw/openclaw/commit/d761b98adc6ff2c824b95d0b2a7a54dfa1177d18)
+- [ ] [<code>fix: bypass npm freshness for managed installs (#83761)</code>](https://github.com/openclaw/openclaw/commit/85a3d5312f7dfcc28aef318774836aea870cbd8d)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>refactor(channels): unify session route projection</code>](https://github.com/openclaw/openclaw/commit/8477a67fafc66cb1f299e3f6abbe4038d76a623d)
+- [ ] [<code>fix(channels): clear canonical stale routes</code>](https://github.com/openclaw/openclaw/commit/02f8fb7147c0d9b98d8874d90e0f474c8639705b)
+- [ ] [<code>fix(channels): preserve route metadata on agent updates</code>](https://github.com/openclaw/openclaw/commit/17eab1ed4de8a8f26ad62e3df7fde2cc1d1cc884)
+- [ ] [<code>fix(channels): compare normalized routes without serialization</code>](https://github.com/openclaw/openclaw/commit/cde6d60c1851b9ca865e749ce8df71c2cc92ad8f)
+- [ ] [<code>docs(refactor): remove completed channel route plan</code>](https://github.com/openclaw/openclaw/commit/b77444ee48c8cc3c57ffd44325f897be96ea912e)
+- [ ] [<code>chore(release): update appcast for 2026.5.18</code>](https://github.com/openclaw/openclaw/commit/46d53d3b593a705a4cd77b1688cbcfaf5c572343)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>ci(release): disable notarytool s3 acceleration</code>](https://github.com/openclaw/openclaw/commit/583eb711ecb1a7537002822e3a1e1efb1dc3accf)
+- [ ] [<code>fix(update): guide EACCES manual recovery</code>](https://github.com/openclaw/openclaw/commit/26bcc9566549e79e9b3b1cf4b41b7790cd32d718)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>docs: update changelog for EACCES recovery (#83757) (thanks @brokemac79)</code>](https://github.com/openclaw/openclaw/commit/bcdfbb8b8419dfe464b127edff0ff5fe0b9144b3)
+- [ ] [<code>docs: fix update recovery verification (#83757)</code>](https://github.com/openclaw/openclaw/commit/0903fa61d08e4ff569bd294225630cec0aa34922)
+- [ ] [<code>test: cover installer npm freshness policy</code>](https://github.com/openclaw/openclaw/commit/df8505b09d2eb7e4f4be3782e9ec608d0b092abf)
+- [ ] [<code>fix(doctor): include channel model provider repairs (#83328)</code>](https://github.com/openclaw/openclaw/commit/567fe2957d6ca750e814f6193a9a4591b70484e4)
+- [ ] [<code>fix(export): preserve explicit trajectory session keys (#83308)</code>](https://github.com/openclaw/openclaw/commit/87aa31956840c5909aba7fd2af798d478e2aa610)
+- [ ] [<code>docs(release): add mac release recovery skill</code>](https://github.com/openclaw/openclaw/commit/ab398ae86d56a0e04295dde5bdced6cc12c0e22e)
+- [ ] [<code>ci(release): fix beta validation gates</code>](https://github.com/openclaw/openclaw/commit/59defa3e71591b49bae1793fa96a15c7a562b408)
+- [ ] [<code>ci(release): stabilize beta validation assertions</code>](https://github.com/openclaw/openclaw/commit/1c3ff34d752f976920775dc2aca3277c8262f628)
+- [ ] [<code>fix(codex): expose sandbox shell tools for ssh backends</code>](https://github.com/openclaw/openclaw/commit/b4fdd1470b7015f51a21a45d5e73ec53636587d6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>style: refine mac voice settings layout</code>](https://github.com/openclaw/openclaw/commit/8aff1807fa659588096d04e8de4e74934a95a592)
+- [ ] [<code>fix(push): use valid default VAPID subject (#83317)</code>](https://github.com/openclaw/openclaw/commit/9b517b50cb2c20ed2ca8d741d93cb63cd81a3cd3)
+- [ ] [<code>fix(skills): refresh snapshots when watch roots change (#83823)</code>](https://github.com/openclaw/openclaw/commit/f1a55cbd52038a7c18613c6d4fe416bb36484802)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
