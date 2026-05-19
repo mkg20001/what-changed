@@ -370,13 +370,8 @@
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
 
-#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.3.9 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.3.9...HEAD)
+#### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
 
-- [ ] [<code>Round frames and containers</code>](https://github.com/linuxmint/mint-themes/commit/2cbec58132225b5d53b33cf60b7b2f6eed74a2b3)
-- [ ] [<code>Don't round the frame of the sidebar</code>](https://github.com/linuxmint/mint-themes/commit/5d5689c01ad66244d893d86eddc9ff070daa1fc3)
-- [ ] [<code>Round notebooks and notebook tabs</code>](https://github.com/linuxmint/mint-themes/commit/1fa6b0f21bd77a5e5336ce4e731abc9eca3a92ec)
-- [ ] [<code>2.4.0</code>](https://github.com/linuxmint/mint-themes/commit/7078425a39fc7a81bd5a16abfd274250dafd7c6b)
-  - <sub>Tags: <code>2.4.0</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
@@ -471,7 +466,10 @@
 - [ ] [<code>actions: Don't show in the places-sidebar menu, unless Conditions</code>](https://github.com/linuxmint/nemo/commit/86e09b01a815f5de36493791820c5d7bf22d698d)
   - <sub>Keywords: <code>usr</code> <code>exec</code></sub>
 - [ ] [<code>Renaming: Fix renaming in the list view being canceled when the</code>](https://github.com/linuxmint/nemo/commit/957ed147bcc0942812ca733d7647d2393fd52d72)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>view: Increase navigation speed</code>](https://github.com/linuxmint/nemo/commit/736b7ba02c94590172c94f4ab745b15ff154d90c)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo/commit/9b16b30431f8c3b4466d0be7814ab0169b058a66)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
 
@@ -583,15 +581,12 @@
 - [ ] [<code>wallpaper.c: Fix wrong return code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9701c70e88f9d220a1b4dd42ae182e6da3e587ff)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
-#### [xreader](https://github.com/linuxmint/xreader): [4.6.3 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.3...HEAD)
+#### [xreader](https://github.com/linuxmint/xreader): [4.6.4 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.4...HEAD)
 
-- [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xreader/commit/ef5a50dd85e303331ed5a64cd73c3c9153ef42a6)
-- [ ] [<code>ev-application: Quote user-supplied strings in ev_spawn command line</code>](https://github.com/linuxmint/xreader/commit/50052eaa91c3c750c51c245799e3747495feeece)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>4.6.4</code>](https://github.com/linuxmint/xreader/commit/8a894030e898a09d733170ce123fe7e3807052b8)
-  - <sub>Tags: <code>4.6.4</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>Depend on xapp-symbolic-icons</code>](https://github.com/linuxmint/xreader/commit/3578ccbd13d2d47001177e42d011ef14a5dea4a7)
+- [ ] [<code>4.6.5</code>](https://github.com/linuxmint/xreader/commit/93f91d755e4c374b5fbdc7bccecdbc7fc21ce435)
+  - <sub>Tags: <code>4.6.5</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 
 #### [xviewer](https://github.com/linuxmint/xviewer): [3.4.16 → HEAD](https://github.com/linuxmint/xviewer/compare/3.4.16...HEAD)
 
