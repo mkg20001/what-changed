@@ -253,6 +253,13 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>subprocess</code> <code>org.gnome.system</code></sub>
 - [ ] [<code>layout.js: Ignore actors without a metawindow in</code>](https://github.com/linuxmint/cinnamon/commit/a9cf0e00375a37f1af08d27e5cb12901ed50fbfc)
+- [ ] [<code>screenshot: Fix crash for SSD windows and include_frame=False</code>](https://github.com/linuxmint/cinnamon/commit/3ea931e5a2057ea7680aa4e87d3d4678e775adff)
+- [ ] [<code>screenshot: Fix shot for SSD without frame</code>](https://github.com/linuxmint/cinnamon/commit/0f893719fca004602a29b8b04dc674e3ce1bf57e)
+- [ ] [<code>screenshot: Include full shadow for CSD when frame is requested</code>](https://github.com/linuxmint/cinnamon/commit/b0dee509a490fbe0c896bca95db1f54bcfeab0ee)
+- [ ] [<code>screenshot: CSD+frame, remove semi-transparent pixels in corners</code>](https://github.com/linuxmint/cinnamon/commit/e0bda16cf6f9c4815c3d710af142de5bf412f001)
+- [ ] [<code>screenshot: SSD+frame, add muffin shadow</code>](https://github.com/linuxmint/cinnamon/commit/98c6bceacbe26735d1e45e0fc8ae907dcd49b6b5)
+- [ ] [<code>screenshot: SSD, clean up corners when no shadows are requested</code>](https://github.com/linuxmint/cinnamon/commit/d88fe5c10f3ad92ae3a2399daacd30079f698154)
+- [ ] [<code>screenshot: Switch to org.cinnamon.Screenshot DBUS interface</code>](https://github.com/linuxmint/cinnamon/commit/d8d166ace11fe9be142cf46c511afa1bacebd11f)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
@@ -268,7 +275,10 @@
   - <sub>Files: <code>meson.build</code></sub>
 - [ ] [<code>misc: Cleanup some unity references.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f6f877ed2b4db7b2e64d1b8a9f8d73ddb424fd7d)
 - [ ] [<code>Add 'Fractional' and 'Scaling' keywords to display panel (#375)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/abe1b473f7b73a800421897350e4e4d97a8d2f19)
+- [ ] [<code>networking: Add WPA3, OWE support.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3cc59b388865a7a0939fef8333d056fc6107aec9)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -282,8 +292,14 @@
 - [ ] [<code>org.cinnamon.desktop.keybindings.wm schema: Separate key binding for switching workspace up/down from toggling window/workspace selection (#214)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/110609f9c1bfeacfa5cf7ab3e8568d4dee5ca86f)
 - [ ] [<code>Add per app notifications schemas... (#266)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/7bd3aea30bb8bcdaeed09830d848ec1589d86ddf)
 - [ ] [<code>6.7.0-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/954ed432bc255750bbfe7ce982a89ce35a9a8250)
-  - <sub>Tags: <code>6.7.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.0-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>thumbnailer: Use bubblewrap to appease glycin and work around</code>](https://github.com/linuxmint/cinnamon-desktop/commit/eaefca914c2b03956c0a805a4698ec52dcf89eb1)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>gnome-desktop-thumbnail.c: Support a (mimetype argument to</code>](https://github.com/linuxmint/cinnamon-desktop/commit/37f34a3b2390a96221f7b73262eb7cd652161d98)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -366,6 +382,9 @@
 
 #### [mint-l-icons](https://github.com/linuxmint/mint-l-icons): [256fe2e44655ce197701e35aefc40f49fe30356d → HEAD](https://github.com/linuxmint/mint-l-icons/compare/256fe2e44655ce197701e35aefc40f49fe30356d...HEAD)
 
+- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-l-icons/commit/5a4e9c1969a8c61b794b60eb3c6ec4d0ad2256d5)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.8.1</code>](https://github.com/linuxmint/mint-l-icons/commit/f9f679c9bed2f2462040fed9872988e705bf5630)
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
@@ -375,9 +394,17 @@
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
+- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-x-icons/commit/35a4ff0a0ed77dccb8b59611124533d1bd77d16f)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.7.6</code>](https://github.com/linuxmint/mint-x-icons/commit/e506282623ee5fc7eb0fd571329918e3f017b29a)
+  - <sub>Tags: <code>1.7.6</code></sub>
 
 #### [mint-y-icons](https://github.com/linuxmint/mint-y-icons): [1.9.1 → HEAD](https://github.com/linuxmint/mint-y-icons/compare/1.9.1...HEAD)
 
+- [ ] [<code>Update icons used in GTK file picker to match XSI</code>](https://github.com/linuxmint/mint-y-icons/commit/083ee35c07e2f40b50b72321bdc35880342f34a6)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.9.2</code>](https://github.com/linuxmint/mint-y-icons/commit/98871ed1f6054ef21536b009c8d216dbac837538)
+  - <sub>Tags: <code>1.9.2</code></sub>
 
 #### [muffin](https://github.com/linuxmint/muffin): [6.6.3 → HEAD](https://github.com/linuxmint/muffin/compare/6.6.3...HEAD)
 
@@ -425,6 +452,7 @@
 - [ ] [<code>meta-x11-background-actor.c: Fix signal handler accumulation leak.</code>](https://github.com/linuxmint/muffin/commit/b51f973b170580670c158d77e98ad6dc3a60d1fd)
 - [ ] [<code>meta-x11-background-actor.c: Skip a background transition if the</code>](https://github.com/linuxmint/muffin/commit/3353a4259181660e5819b58fd461b21029ce700c)
 - [ ] [<code>events.c: Guard against a mouse zoom modifier value of 0.</code>](https://github.com/linuxmint/muffin/commit/647e8fd238c6d47aa7e59597a82b051c85fc03a8)
+- [ ] [<code>layer-shell: Allow indirect popups from layer-shell clients that</code>](https://github.com/linuxmint/muffin/commit/206c0ae9715fab88f258a04de97136533d3cf89d)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
@@ -468,7 +496,15 @@
 - [ ] [<code>Renaming: Fix renaming in the list view being canceled when the</code>](https://github.com/linuxmint/nemo/commit/957ed147bcc0942812ca733d7647d2393fd52d72)
 - [ ] [<code>view: Increase navigation speed</code>](https://github.com/linuxmint/nemo/commit/736b7ba02c94590172c94f4ab745b15ff154d90c)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/nemo/commit/9b16b30431f8c3b4466d0be7814ab0169b058a66)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>nemo-application: Fix FileManager1.ShowItems().</code>](https://github.com/linuxmint/nemo/commit/409fced9cafcc49cd1c8c98528aadbd4f8e7d6ca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>all: Remove pango-1.44 conditional checks, bump minimum version req.</code>](https://github.com/linuxmint/nemo/commit/b836def3cce25232eb17284ad9ea9c4b1474d2bc)
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Implement a filtered view for interactive-search.</code>](https://github.com/linuxmint/nemo/commit/11df68ccb3ca1e3787959b1d36b75c10bd4d339c)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -572,7 +608,10 @@
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xapp/commit/458de98bb801a0c690c0650b8c11841103eb628d)
 - [ ] [<code>xapp-gpu-offload-helper.c: Fix a memory leak.</code>](https://github.com/linuxmint/xapp/commit/6e4d54cad084aa95e1225067a4db2e1b7513daf5)
+- [ ] [<code>xapp-status-icon: Use gkt-layer-shell if available for positioning</code>](https://github.com/linuxmint/xapp/commit/9caa27d216287fe750e69e2da1c5cb7c580e5318)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
