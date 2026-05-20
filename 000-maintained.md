@@ -347,6 +347,8 @@
 - [ ] [<code>chore: Follow up designs</code>](https://github.com/krille-chan/fluffychat/commit/8625d1436b2e9d0fb7924cb61d18c162dad8bf32)
 - [ ] [<code>chore: Follow up set pusher check</code>](https://github.com/krille-chan/fluffychat/commit/72fb56c38db0c9fdf43819bcb739ef5d1865dafe)
 - [ ] [<code>chore: Follow up summary notification for multiaccount</code>](https://github.com/krille-chan/fluffychat/commit/7232f6a4965dce153cdbca86467598ab372e1c07)
+- [ ] [<code>build: (deps): bump fsfe/reuse-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/e6027b4c0cc8b0bbaa16ea5a50f8f0b02268e025)
+- [ ] [<code>chore: Update readme</code>](https://github.com/krille-chan/fluffychat/commit/13035a4c35e9fd96c1fcbd5cc2c53cebd47859bd)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.5.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.5.1...HEAD)
 
@@ -493,6 +495,8 @@
 - [ ] [<code>chore: Follow up designs</code>](https://github.com/krille-chan/fluffychat/commit/8625d1436b2e9d0fb7924cb61d18c162dad8bf32)
 - [ ] [<code>chore: Follow up set pusher check</code>](https://github.com/krille-chan/fluffychat/commit/72fb56c38db0c9fdf43819bcb739ef5d1865dafe)
 - [ ] [<code>chore: Follow up summary notification for multiaccount</code>](https://github.com/krille-chan/fluffychat/commit/7232f6a4965dce153cdbca86467598ab372e1c07)
+- [ ] [<code>build: (deps): bump fsfe/reuse-action from 5 to 6</code>](https://github.com/krille-chan/fluffychat/commit/e6027b4c0cc8b0bbaa16ea5a50f8f0b02268e025)
+- [ ] [<code>chore: Update readme</code>](https://github.com/krille-chan/fluffychat/commit/13035a4c35e9fd96c1fcbd5cc2c53cebd47859bd)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -593,6 +597,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Detect invalid box size in avifRWStreamFinishBox()</code>](https://github.com/AOMediaCodec/libavif/commit/ed4f11dcf6e684025f0a2225a48099ef213fe7c2)
 - [ ] [<code>Check null return value from avifImageCreateEmpty</code>](https://github.com/AOMediaCodec/libavif/commit/a854856d05ccd05db91ee49e3c54b4e5a6d70582)
 - [ ] [<code>Make avifAlloc(0) deterministic and fix RWData shrink-to-zero handling (#3212)</code>](https://github.com/AOMediaCodec/libavif/commit/80f489a010fe84f6e3f825105e232e07346bb426)
+- [ ] [<code>Change avifRWStreamFinishBox to return avifResult</code>](https://github.com/AOMediaCodec/libavif/commit/b76fe84462a20023c6c9990f592e364bbd37f83a)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -644,6 +649,23 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore: start 0.11.2 changelog</code>](https://github.com/steipete/mcporter/commit/5ec589698f431f19a0560929573388256c4d8604)
 - [ ] [<code>chore: bump development version to 0.11.2</code>](https://github.com/steipete/mcporter/commit/cbd84fd6d2aef93c7cc4f07008f7257008a0e9d5)
 - [ ] [<code>chore(deps): update dependencies</code>](https://github.com/steipete/mcporter/commit/ae3b83cecb0b69afc1e3e69e3730405bcca8ea91)
+- [ ] [<code>docs: clarify headless OAuth process lifetime</code>](https://github.com/steipete/mcporter/commit/8c63bbe81e042f4bd5ce1b04a659fa741eecfdcf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(daemon): pass allowCachedAuth to runtime for OAuth token reuse</code>](https://github.com/steipete/mcporter/commit/1e6ce66d22d7689d3f6c7b0b75d2af1502929da4)
+- [ ] [<code>docs: clarify triage workflow</code>](https://github.com/steipete/mcporter/commit/90e8d00f12fad7696dc73112b56728c0752f5cd4)
+- [ ] [<code>docs: add vision triage guidance</code>](https://github.com/steipete/mcporter/commit/b8909e7cc0c1e779e1c396278ced77f8a3420be9)
+- [ ] [<code>fix: make generated cli bundles deterministic</code>](https://github.com/steipete/mcporter/commit/524e0a2d2f4844dee5c18d4947c8559e2c7fdf05)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: add project vision</code>](https://github.com/steipete/mcporter/commit/1948ba7bef071a092270796d25232ec7fd412354)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: use cached auth for daemon OAuth calls</code>](https://github.com/steipete/mcporter/commit/86e19f4413ba66874e6ba1ff617bbb23bafd9dbb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: update changelog for daemon OAuth fix</code>](https://github.com/steipete/mcporter/commit/e6e9675519697d86ce11a06828b26ddf142bee79)
+- [ ] [<code>fix: preserve valid cached OAuth tokens</code>](https://github.com/steipete/mcporter/commit/31bbaa804f34328fcc25dcff9eae87ae4f951ade)
+- [ ] [<code>fix: support daemon idle timeout config</code>](https://github.com/steipete/mcporter/commit/a1201d19558518ce92ed54bc99960ef599447ec5)
+- [ ] [<code>feat: add list health check flags (#183)</code>](https://github.com/steipete/mcporter/commit/de7c811271cb7b369aded1dc60d94e83522d61a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: release 0.11.2 changelog</code>](https://github.com/steipete/mcporter/commit/348483ea9f47aadf8d3f085709a5378b330c7b0f)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1341,6 +1363,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix dynamic configuration unittest  (#22506)</code>](https://github.com/netdata/netdata.git/commit/7e710150cff0f297120aa991417c635d55d490d9)
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-230-nightly.</code>](https://github.com/netdata/netdata.git/commit/9e64521b7a915ed6ff0e7cb37b1629cdeecfe883)
 - [ ] [<code>Fix SonarCloud security hotspots and cgroup-network namespace handling (#22460)</code>](https://github.com/netdata/netdata.git/commit/47c33343384e5bd57e052269ba0b1ff82616d155)
+- [ ] [<code>Fix pipe cleanup logic during shutdown to handle ENOENT case (#22509)</code>](https://github.com/netdata/netdata.git/commit/225d72660cc691abadf07e71d9bf4d680660e753)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -14157,6 +14181,36 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: note GitHub paste preflight</code>](https://github.com/openclaw/openclaw/commit/9c5e8eb4950e799efbf5a366e9015cc71ed5f72f)
 - [ ] [<code>feat(policy): add channel conformance checks (#80407)</code>](https://github.com/openclaw/openclaw/commit/cbf72e5e26eed6bd686edf08b795be08dbe67fec)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: update dependencies</code>](https://github.com/openclaw/openclaw/commit/94ac563399b3ccca6984c90b71ec8bf7da380517)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix: stabilize mac app packaging</code>](https://github.com/openclaw/openclaw/commit/d1470360c4208215020ee215334977b3e67d0fbe)
+- [ ] [<code>feat(discord): follow configured users in voice</code>](https://github.com/openclaw/openclaw/commit/befb0f3d39bd33410cee85d0e193834af96d2773)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf(plugins): scan-scoped package.json cache in discovery (#84302)</code>](https://github.com/openclaw/openclaw/commit/9a6744baba6e7f534b19f8d6cf7a5842248f27ce)
+- [ ] [<code>fix(macos): update embedded Peekaboo bridge</code>](https://github.com/openclaw/openclaw/commit/99c88629c336430d8f4a0b387cdc4f1060331952)
+- [ ] [<code>fix(codex/command-account): respect explicit auth order over lastGood (#84412)</code>](https://github.com/openclaw/openclaw/commit/5d775122c1f64fa2e34fd98dfe1d97680f397cab)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: honour tool error suppression for mutating tools (#81561)</code>](https://github.com/openclaw/openclaw/commit/9c00268914b9c28261bb426fe4691150f99fa48c)
+- [ ] [<code>test(cli): cover parsePort edge cases (#84518)</code>](https://github.com/openclaw/openclaw/commit/32fbb9ff0193c49ddbbde051abad7955b0dc34fc)
+- [ ] [<code>feat(discord): add realtime voice bootstrap context</code>](https://github.com/openclaw/openclaw/commit/48a14e41e233657639a777554ce4671a46cd2ba3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Add OpenRouter provider routing params (#84579)</code>](https://github.com/openclaw/openclaw/commit/ac69776330927622e1089c0f8d39a6c5d8f7ac15)
+- [ ] [<code>fix: keep cron final output over tool warnings</code>](https://github.com/openclaw/openclaw/commit/c8a953af9371f0c1e5980283abf554f89f641fea)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: clarify pinned session model status</code>](https://github.com/openclaw/openclaw/commit/a13468320c63573917c185db278f3d4e13389a78)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: check billing errors before surfacing rate-limit message (#79489)</code>](https://github.com/openclaw/openclaw/commit/0af55f971d00c577c7b1dac6bba8f1427038bb04)
+- [ ] [<code>fix(agents): credit delivered subagent completions (#84383)</code>](https://github.com/openclaw/openclaw/commit/950e5c8c50379646851492aa7ab6e2f58e10a48d)
+- [ ] [<code>fix(errors): dedupe identical messages when traversing error .cause chain (#84556)</code>](https://github.com/openclaw/openclaw/commit/447a3643c69b9ed8cd6a80dd99ecc5299ea4e02a)
+- [ ] [<code>fix: update fs-safe fallback dependency</code>](https://github.com/openclaw/openclaw/commit/1a7669bc63a0c3731577465b130873e849fc2773)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(browser): honor image sanitization config for screenshots (#84595)</code>](https://github.com/openclaw/openclaw/commit/d5cc0d53b7e3fdd8208034d32b6f89b55a7620ae)
+- [ ] [<code>fix(cli): gate exported subcli descriptors (#84519)</code>](https://github.com/openclaw/openclaw/commit/ca0fe884ff736572b9a23dee4105318bcc1708b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(deps): update whatsapp baileys</code>](https://github.com/openclaw/openclaw/commit/6e7bd551f2a8000f97e2a0a48600731aef1f5bb3)
+- [ ] [<code>fix(codex): bridge computer use elicitations</code>](https://github.com/openclaw/openclaw/commit/404fd6d9abceea9123a856971c1fb7ffb02cea8f)
+- [ ] [<code>fix(slack): normalize approval user ids (#84671)</code>](https://github.com/openclaw/openclaw/commit/9e4eca00ff0ffc1de05f1a3784bb6a98bdb8146e)
+  - <sub>Keywords: <code>exec</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -14171,6 +14225,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Update rust module</code>](https://github.com/tribler/py-ipv8/commit/7c206b9832c62810b28af4de80cfb2b280637f58)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>Remove pyOpenSSL and pyasn1 from dependencies</code>](https://github.com/tribler/py-ipv8/commit/0ed79abd9c388072139ea36bfcf2b61d32426d34)
+- [ ] [<code>Automated version increment</code>](https://github.com/tribler/py-ipv8/commit/bca3d5bde4e9348ecd910b751f09b1fe408c20c3)
+- [ ] [<code>Merge pull request #1365 from qstokkink/automated_version_update</code>](https://github.com/tribler/py-ipv8/commit/c9d2b1ceef8268c958865e785d407c9231a85022)
+  - <sub>Tags: <code>3.2.1</code></sub>
 
 #### [python313Packages.python-pam](https://github.com/FirefighterBlu3/python-pam): [refs/tags/v2.0.2 → HEAD](https://github.com/FirefighterBlu3/python-pam/compare/refs/tags/v2.0.2...HEAD)
 
@@ -14575,6 +14633,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Added extreme content warning banner (#8990)</code>](https://github.com/tribler/Tribler/commit/da1196de2bb3289664a208ada00f7807405f171b)
 - [ ] [<code>Removed experimental features</code>](https://github.com/tribler/Tribler/commit/56c9f42bb0a689aed80f9afa5837e34f583c6ac6)
 - [ ] [<code>Removed unused experimental features (#8994)</code>](https://github.com/tribler/Tribler/commit/832300a3be7a85d7d09229f38ade95677f22d3a1)
+- [ ] [<code>Update IPv8 pointer</code>](https://github.com/tribler/Tribler/commit/253905f41ae6305d9cc6ca67e59b1dec827e5623)
+- [ ] [<code>Update IPv8 pointer (#8995)</code>](https://github.com/tribler/Tribler/commit/f4e4c05f03e5255bf331c765bc312ae26b76a747)
 
 #### [twinkle](https://github.com/LubosD/twinkle): [e067dcba28f4e2acd7f71b875fc4168e9706aaaa → HEAD](https://github.com/LubosD/twinkle/compare/e067dcba28f4e2acd7f71b875fc4168e9706aaaa...HEAD)
 
@@ -14731,3 +14791,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add xsi-gauge-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a4085edf074104366e736550c7427c53444abfa9)
 - [ ] [<code>Add xsi-fan-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e7db28b7f833bf193762a151a434649e2b02d2ae)
 - [ ] [<code>Add gauge2 and electric /pyshics icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e5b81d4e0d2656f8a4a5d25c9677a59f27f6c15c)
+- [ ] [<code>Add xsi-image-crop-symbolic.svg</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c0783eca97ad2e01925893be38be6f934bbd2c26)
+- [ ] [<code>Add licensing info for xsi-image-crop-symbolic.svg</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/34f9f359385ee5f23869eca3a62818cab5d9e7ea)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>1.1.0</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2c91ca1f3fb398992fa12007b76c3b100e32690e)
+  - <sub>Tags: <code>1.1.0</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
