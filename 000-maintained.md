@@ -346,6 +346,7 @@
 - [ ] [<code>chore: Redesign one column spaces pro mode</code>](https://github.com/krille-chan/fluffychat/commit/136f1b9020eeb5cb6c342d010d82629a3a04139a)
 - [ ] [<code>chore: Follow up designs</code>](https://github.com/krille-chan/fluffychat/commit/8625d1436b2e9d0fb7924cb61d18c162dad8bf32)
 - [ ] [<code>chore: Follow up set pusher check</code>](https://github.com/krille-chan/fluffychat/commit/72fb56c38db0c9fdf43819bcb739ef5d1865dafe)
+- [ ] [<code>chore: Follow up summary notification for multiaccount</code>](https://github.com/krille-chan/fluffychat/commit/7232f6a4965dce153cdbca86467598ab372e1c07)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.5.1 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.5.1...HEAD)
 
@@ -491,6 +492,7 @@
 - [ ] [<code>chore: Redesign one column spaces pro mode</code>](https://github.com/krille-chan/fluffychat/commit/136f1b9020eeb5cb6c342d010d82629a3a04139a)
 - [ ] [<code>chore: Follow up designs</code>](https://github.com/krille-chan/fluffychat/commit/8625d1436b2e9d0fb7924cb61d18c162dad8bf32)
 - [ ] [<code>chore: Follow up set pusher check</code>](https://github.com/krille-chan/fluffychat/commit/72fb56c38db0c9fdf43819bcb739ef5d1865dafe)
+- [ ] [<code>chore: Follow up summary notification for multiaccount</code>](https://github.com/krille-chan/fluffychat/commit/7232f6a4965dce153cdbca86467598ab372e1c07)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -590,6 +592,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Document the marker parameter of box writing funcs</code>](https://github.com/AOMediaCodec/libavif/commit/4e3fed82b35a4711bedaf8b58485fc07714ee746)
 - [ ] [<code>Detect invalid box size in avifRWStreamFinishBox()</code>](https://github.com/AOMediaCodec/libavif/commit/ed4f11dcf6e684025f0a2225a48099ef213fe7c2)
 - [ ] [<code>Check null return value from avifImageCreateEmpty</code>](https://github.com/AOMediaCodec/libavif/commit/a854856d05ccd05db91ee49e3c54b4e5a6d70582)
+- [ ] [<code>Make avifAlloc(0) deterministic and fix RWData shrink-to-zero handling (#3212)</code>](https://github.com/AOMediaCodec/libavif/commit/80f489a010fe84f6e3f825105e232e07346bb426)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1336,6 +1339,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-227-nightly.</code>](https://github.com/netdata/netdata.git/commit/be589ec88ef3499d00eb8c0717a6b15d001e710d)
 - [ ] [<code>Avoid returning uninitialized packet_id on ACLK publish failure (#22504)</code>](https://github.com/netdata/netdata.git/commit/2eb7d2f9a23a0b282a0ba02403a4f6d18c2500c0)
 - [ ] [<code>Fix dynamic configuration unittest  (#22506)</code>](https://github.com/netdata/netdata.git/commit/7e710150cff0f297120aa991417c635d55d490d9)
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-230-nightly.</code>](https://github.com/netdata/netdata.git/commit/9e64521b7a915ed6ff0e7cb37b1629cdeecfe883)
+- [ ] [<code>Fix SonarCloud security hotspots and cgroup-network namespace handling (#22460)</code>](https://github.com/netdata/netdata.git/commit/47c33343384e5bd57e052269ba0b1ff82616d155)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -14021,6 +14026,137 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(discord): preserve streamed replies after tool warnings (#84169)</code>](https://github.com/openclaw/openclaw/commit/165cc581cddb989f3655bf16230574fcb9601f6f)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>test(codex): avoid provider normalization in sandbox tool test</code>](https://github.com/openclaw/openclaw/commit/4408e60c319070aea66c33c01f17654d17628489)
+- [ ] [<code>gateway: use identity.name in agent summaries when name is unset (#84355)</code>](https://github.com/openclaw/openclaw/commit/ab7aa88ef221e12f499d5060db83a8c5d617ee5f)
+- [ ] [<code>fix(cron): use structured denial signals (#84311)</code>](https://github.com/openclaw/openclaw/commit/7f8141ead97433d84b96756330382bd37a4713af)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: keep ClawHub advisory for alpha publish</code>](https://github.com/openclaw/openclaw/commit/2a01fbb56c2432fe74ec0403653540301462dbe0)
+- [ ] [<code>Fix Anthropic CLI auth routing for shorthand refs (#84374)</code>](https://github.com/openclaw/openclaw/commit/f6de2b3885baefd1460047cbe2831ab3703490ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: retry release artifact downloads</code>](https://github.com/openclaw/openclaw/commit/d7896ed4c98161badb9663d7a54fc6c011a35a6c)
+- [ ] [<code>fix(cron): keep recovered tool warnings diagnostic (#84308)</code>](https://github.com/openclaw/openclaw/commit/6048cd43a5abb01531b96ceffdc3fa69f6301414)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(code-mode): sharpen exec tool description so models stop wasting turns rediscovering constraints (#84368)</code>](https://github.com/openclaw/openclaw/commit/0e2a06ae10e66837c82fc04c8fafc6472fc854c3)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(doctor): preserve unknown web search records (#83315)</code>](https://github.com/openclaw/openclaw/commit/70e51b81cff8f7626acca33bad2e0cb5cd551b06)
+- [ ] [<code>fix(update): carry candidate plugin API version through doctor</code>](https://github.com/openclaw/openclaw/commit/6b82eaa2cd03a969b2bca10bb42fbbae8f2f28d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): refresh generated release baselines</code>](https://github.com/openclaw/openclaw/commit/fd790e29775a2391f1b45e52365df1813c729a2d)
+- [ ] [<code>fix(update): omit compatibility host env when package version is missing</code>](https://github.com/openclaw/openclaw/commit/a002c416c7af8bcb22a6716491e466e6affcab62)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix Codex image generation tool timeout (#84369)</code>](https://github.com/openclaw/openclaw/commit/eb814b021648cc310a88b885f3cd190a98e99ee5)
+- [ ] [<code>fix(update): repair plugins for legacy updater doctors</code>](https://github.com/openclaw/openclaw/commit/0556ac0291a894836382307eeeeb3b503aa1c0e5)
+- [ ] [<code>Fix node approval scope requests (#84392)</code>](https://github.com/openclaw/openclaw/commit/e1c1c57242815191096b7e328f5bb2ba94700273)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(msteams): mark external system events as non-owner</code>](https://github.com/openclaw/openclaw/commit/125f0c31dd0359d7a7ceca776af954ebdcff6d87)
+- [ ] [<code>fix: yield diagnostic event drains (#82937)</code>](https://github.com/openclaw/openclaw/commit/5d799c2d20526f343d9f85e2257f8b467b784f5f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Filter heartbeat response-tool transcript artifacts (#83477)</code>](https://github.com/openclaw/openclaw/commit/2ab3a4e422a09fcd34c89809648e9110b38081cf)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Include delivery errors in subagent announce give-up logs (#84281)</code>](https://github.com/openclaw/openclaw/commit/9108ae011471c51461f0cdeee3bc2b75d1aa04fe)
+- [ ] [<code>Preserve AGENTS.md policy during bootstrap truncation (#82921)</code>](https://github.com/openclaw/openclaw/commit/ad925bd43b1e6d7111cd83ee5411ac9e3ef5c4fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(anthropic): preserve configured Claude image capability (#84180)</code>](https://github.com/openclaw/openclaw/commit/33fc2375f8a376caba4db800b6e418592505e6e3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: align xai code execution auth docs (#84416)</code>](https://github.com/openclaw/openclaw/commit/18a514e39e8baa67c1d7917e9ac046d884104387)
+- [ ] [<code>fix: dedupe OpenAI strict schema downgrade diagnostics (#82933)</code>](https://github.com/openclaw/openclaw/commit/c982358753bb1464be6d766a9fa2e287c93f46f0)
+- [ ] [<code>docs(imessage): warn that cliPath wrappers must stream JSON-RPC stdio (#84330) (#84420)</code>](https://github.com/openclaw/openclaw/commit/a57ab2448f2a545c3e2053b51f7515da63c3c641)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): provenance-bound Codex reasoning replay (#84367)</code>](https://github.com/openclaw/openclaw/commit/a54c73687f5816d8415fbe8f1a5a0d4a1ed6d411)
+- [ ] [<code>fix(cron): isolate main-session cron wake lanes (#82767)</code>](https://github.com/openclaw/openclaw/commit/9eee202a694b84f25dd818501255a680d2ddf34b)
+- [ ] [<code>fix: prompt Codex to send visible channel replies (#84397)</code>](https://github.com/openclaw/openclaw/commit/47eb4ca14fcc8ee4a4eefa2af5093125f24f8af2)
+- [ ] [<code>ci: harden pnpm setup node selection</code>](https://github.com/openclaw/openclaw/commit/5c39e0019d2f838038d27d8a2624605e13c8988f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>[AI-assisted] fix(cron): preserve legacy array stores (#84433)</code>](https://github.com/openclaw/openclaw/commit/29f8715f05c8c12648ed726a67dd562e5c8c6141)
+- [ ] [<code>fix(gateway): expose runtime version in gateway status</code>](https://github.com/openclaw/openclaw/commit/ddf9fbed348a2e22bfa0d6ced8d8aa6d310dd499)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(channels): suppress verbose failed-tool dumps (#84354)</code>](https://github.com/openclaw/openclaw/commit/7811e313b3921219e202b22fae7e70ba47661846)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(pi): keep message-tool delivery in session lock (#84437)</code>](https://github.com/openclaw/openclaw/commit/65030f31649b279401abc9950359ddecfb81cce2)
+- [ ] [<code>Revert "fix: prompt Codex to send visible channel replies (#84397)" (#84442)</code>](https://github.com/openclaw/openclaw/commit/448eb36f750ba987fdf98a573adeea38014ba6be)
+- [ ] [<code>feat(android): add v2 design system</code>](https://github.com/openclaw/openclaw/commit/ac43f47820ef5b62f8c1709dc92e7d8d600f5e07)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(android): add v2 app shell</code>](https://github.com/openclaw/openclaw/commit/5200e8a4363c00af1f975e03571adbeafd19b37c)
+- [ ] [<code>feat(android): overhaul gateway onboarding</code>](https://github.com/openclaw/openclaw/commit/7e0584579cd416b053accef7f07bd3582ce998be)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(android): rebuild chat experience</code>](https://github.com/openclaw/openclaw/commit/ff50cdf39622057ca34c128f1b4d85b867833cbd)
+- [ ] [<code>feat(android): tighten overview experience</code>](https://github.com/openclaw/openclaw/commit/26352f5a13d9e21f2a2c5d082fe82ae6f3720a73)
+- [ ] [<code>feat(android): tighten sessions experience</code>](https://github.com/openclaw/openclaw/commit/9342deeae390c2deb8bf70c5e5c7568ecc3a6145)
+- [ ] [<code>feat(android): tighten voice hub</code>](https://github.com/openclaw/openclaw/commit/18829843808cac0941479f451c1deb5343bc0f09)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(android): add focused talk session</code>](https://github.com/openclaw/openclaw/commit/7d0bb236f266ffaf0c36c6234f18e40897a2f85f)
+- [ ] [<code>feat(android): add focused dictation</code>](https://github.com/openclaw/openclaw/commit/818aa36f7c6d8ec2c4ccc6bda0f92bf6be6f5ba7)
+- [ ] [<code>feat(android): tighten chat chrome</code>](https://github.com/openclaw/openclaw/commit/6db48f70e87eb9872298eaa13c26a410b9b0cbff)
+- [ ] [<code>feat(android): tighten settings screen</code>](https://github.com/openclaw/openclaw/commit/6af2fa4ec3cc5a7e9fbfeaf45a3e5172d92d1c6d)
+- [ ] [<code>feat(android): add providers models surface</code>](https://github.com/openclaw/openclaw/commit/d593f5b062157fed6ceaab96f96c89d1123df934)
+- [ ] [<code>feat(android): tighten chat density</code>](https://github.com/openclaw/openclaw/commit/eff8b41fb04c80cc4572f5ef40be0a623f9bc4b0)
+- [ ] [<code>feat(android): tighten voice hub density</code>](https://github.com/openclaw/openclaw/commit/5a82e4aa19c23d026727c7d134b579d36e47bbeb)
+- [ ] [<code>feat(android): tighten sessions density</code>](https://github.com/openclaw/openclaw/commit/f4cc4655ef377a5613b5e56d6e1b0ad30cb76235)
+- [ ] [<code>feat(android): tighten overview density</code>](https://github.com/openclaw/openclaw/commit/af5e0b26efa28333a5ea670584783e021e4d88e5)
+- [ ] [<code>feat(android): tighten chat mockup fidelity</code>](https://github.com/openclaw/openclaw/commit/ca4264202e77ce0a1586f023fad14bf1772617fe)
+- [ ] [<code>feat(android): tighten voice mockup fidelity</code>](https://github.com/openclaw/openclaw/commit/ac28341ebfcc6fb12a1f3f9893f018f49570a75e)
+- [ ] [<code>feat(android): tighten provider model fidelity</code>](https://github.com/openclaw/openclaw/commit/289eea04d0558d8b19db4bf4508540cd890efc85)
+- [ ] [<code>feat(android): tighten settings fidelity</code>](https://github.com/openclaw/openclaw/commit/2ce12552bb4e8dcf3bc9734ed6d830a309e30da6)
+- [ ] [<code>feat(android): tighten talk session fidelity</code>](https://github.com/openclaw/openclaw/commit/abf70ac04e14b3c70823fdbe2674f44a2ae17935)
+- [ ] [<code>feat(android): tighten dictation fidelity</code>](https://github.com/openclaw/openclaw/commit/ee6c42945a72435f4b58326d9c2b43260c4e0556)
+- [ ] [<code>feat(android): keep overview modules honest</code>](https://github.com/openclaw/openclaw/commit/ceb7e04108db00c6b8b8d7f09192e53aec3a4b45)
+- [ ] [<code>feat(android): tighten voice transcript cards</code>](https://github.com/openclaw/openclaw/commit/415a338dc67c9ace422c3edcdbbbd56a4712b9d3)
+- [ ] [<code>feat(android): restore readable v2 typography</code>](https://github.com/openclaw/openclaw/commit/c842f542cd4d0f41a7a29eafb0591d1eacc5e757)
+- [ ] [<code>feat(android): add v2 command palette</code>](https://github.com/openclaw/openclaw/commit/e8a90a03dfad05b2d2f1c00626aa26968e880df4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(android): add v2 settings detail screens</code>](https://github.com/openclaw/openclaw/commit/aca22366f23c58f49dce05606bab5aa1cd84d392)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(android): split v2 shell screens</code>](https://github.com/openclaw/openclaw/commit/e5cd050e511626226de49c0eb7e11aa8c50cfade)
+- [ ] [<code>feat(android): add v2 agents settings</code>](https://github.com/openclaw/openclaw/commit/d7a90ebea61ad58c1c02268f12a9408b5be3ba03)
+- [ ] [<code>feat(android): add v2 approvals settings</code>](https://github.com/openclaw/openclaw/commit/efe7393064c4c570981ba17a7f0982f2959e6bce)
+- [ ] [<code>feat(android): add v2 cron jobs settings</code>](https://github.com/openclaw/openclaw/commit/b6e04fa6a2a68674e61b2460a89d951447967c2f)
+- [ ] [<code>feat(android): add v2 usage settings</code>](https://github.com/openclaw/openclaw/commit/41175edd98020a1bfac88bab43fc1c53d292c765)
+- [ ] [<code>feat(android): add v2 skills settings</code>](https://github.com/openclaw/openclaw/commit/817ca4bf659fbc379c7c6e4752bfb85ea8b9cd49)
+- [ ] [<code>feat(android): add v2 nodes devices settings</code>](https://github.com/openclaw/openclaw/commit/e067203b2217ebd61b4669f4e6cbda13c26f28cd)
+- [ ] [<code>feat(android): add v2 canvas settings</code>](https://github.com/openclaw/openclaw/commit/fd05179d0ad247cf0be463cb0b243037f370e659)
+- [ ] [<code>feat(android): add v2 channels settings</code>](https://github.com/openclaw/openclaw/commit/6db000630c84c93105eabfc74be3fb02bbc9efc1)
+- [ ] [<code>feat(android): add v2 dreaming settings</code>](https://github.com/openclaw/openclaw/commit/3d5be4c5a9578116a3575467271e64a12749d7d8)
+- [ ] [<code>feat(android): add v2 health logs</code>](https://github.com/openclaw/openclaw/commit/f359299df47c3ab0218e346a682a84ecb26308de)
+- [ ] [<code>feat(android): add v2 about update status</code>](https://github.com/openclaw/openclaw/commit/357e3ecc65e35802341fa2965482cd8274c9797f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(android): reuse v2 list primitives</code>](https://github.com/openclaw/openclaw/commit/de195645f94ac699544e777890d173cab06945c2)
+- [ ] [<code>feat(android): add v2 cron job editor</code>](https://github.com/openclaw/openclaw/commit/499ccd1522f82614fddffc25980c03483e37f574)
+- [ ] [<code>style(android): refine v2 touch rhythm</code>](https://github.com/openclaw/openclaw/commit/2294c283558522b563373bace71fe9d9880b24d2)
+- [ ] [<code>feat(android): polish v2 overview navigation</code>](https://github.com/openclaw/openclaw/commit/a9669c0f9fa6d6f8a6e477877e477f2883ece3d0)
+- [ ] [<code>feat(android): polish v2 provider setup</code>](https://github.com/openclaw/openclaw/commit/d41f595c752d6082d52858fd8a66dbeb5d9aaf09)
+- [ ] [<code>fix(android): prevent provider setup button overlap</code>](https://github.com/openclaw/openclaw/commit/69e646f68028e5b5b7131be0890ab0b53d40f97c)
+- [ ] [<code>feat(android): add v2 chat starters</code>](https://github.com/openclaw/openclaw/commit/338a0062c44c13fae1100ba6d0a841cddbbba43d)
+- [ ] [<code>feat(android): polish v2 voice surfaces</code>](https://github.com/openclaw/openclaw/commit/5de8f8e8a9c6ac1a54e73df0e43e0603fd946068)
+- [ ] [<code>fix(android): wire v2 navigation controls</code>](https://github.com/openclaw/openclaw/commit/8d492637af0bf5e3a0e37a4a833c951bdc1c22d0)
+- [ ] [<code>fix(android): wire v2 onboarding actions</code>](https://github.com/openclaw/openclaw/commit/3aefd355c47aa139044b0892f658f261dbbaa368)
+- [ ] [<code>fix(android): remove dead v2 chat controls</code>](https://github.com/openclaw/openclaw/commit/d3cf65eb14156a2b5b4a6b633c36370d89caf781)
+- [ ] [<code>fix(android): align v2 control affordances</code>](https://github.com/openclaw/openclaw/commit/9868f4cf2912b1876fc8f26f4b6ef760e4162edd)
+- [ ] [<code>fix(android): expand v2 model catalog groups</code>](https://github.com/openclaw/openclaw/commit/43b03b76211e54655320b2917550f73374e507d9)
+- [ ] [<code>fix(android): tighten v2 navigation affordances</code>](https://github.com/openclaw/openclaw/commit/dd772307a3bc27633b92e16d6342e8136570da38)
+- [ ] [<code>feat(android): wire v2 chat image attachments</code>](https://github.com/openclaw/openclaw/commit/c885a1c2433fd90858d93dd45ea84d0dd7e31b22)
+- [ ] [<code>fix(android): request v2 capability permissions</code>](https://github.com/openclaw/openclaw/commit/85ef8fb975ac607ef116608850b89adf0ca15699)
+- [ ] [<code>fix(android): gate v2 cron job save action</code>](https://github.com/openclaw/openclaw/commit/07b28a6dd67d0920d23239cd644fcae36a8925c8)
+- [ ] [<code>fix(android): clarify v2 voice settings action</code>](https://github.com/openclaw/openclaw/commit/c0ac4564f787390d33ce24f45aa253103de20774)
+- [ ] [<code>fix(android): expand v2 settings toggle hit areas</code>](https://github.com/openclaw/openclaw/commit/c289e3ea87305619d2ffb2179ee408472a4642fd)
+- [ ] [<code>refactor(android): centralize v2 separated list rows</code>](https://github.com/openclaw/openclaw/commit/98f2e568b364925f3f3e7fb209bf0c15c392405a)
+- [ ] [<code>test(android): update gateway hello callback fixtures</code>](https://github.com/openclaw/openclaw/commit/64b6cafcaaaca0db7603a35c833ca3140a4a973d)
+- [ ] [<code>refactor(android): make overhaul UI canonical</code>](https://github.com/openclaw/openclaw/commit/bbcac0019b11ce14c9b0a976549fae7c9827aa07)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(android): address overhaul review findings</code>](https://github.com/openclaw/openclaw/commit/989e53c20d395d3c8bf47efc21fdb9d56e7227b0)
+- [ ] [<code>fix(cli): use active node for startup bench scripts (#84451)</code>](https://github.com/openclaw/openclaw/commit/67c12e036802224e76547092938e3b9759846956)
+- [ ] [<code>Recheck rebuilt system.run argv [AI] (#84090)</code>](https://github.com/openclaw/openclaw/commit/e98760a1bf386265241e94e681ecdf0ed1ef3a07)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(mattermost): fail closed on missing channel type [AI] (#84091)</code>](https://github.com/openclaw/openclaw/commit/0c67dc7f82af33bf26ff2c957eba38a41e4a69ba)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(config): accept execApprovals.enabled="auto" in zod schema</code>](https://github.com/openclaw/openclaw/commit/ea8f4ebb4dc3dc06edb7b148107f63a0e3daccb1)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cron-cli): bound loadCronJobForShow pagination (#83856) (#83989)</code>](https://github.com/openclaw/openclaw/commit/110042d840bbcc8742187a4ad05a4038debb9a79)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>build: bump bundled Codex harness to 0.132.0</code>](https://github.com/openclaw/openclaw/commit/167e73cd5f842e7b04837356fee90eca578b7029)
+- [ ] [<code>docs: keep qa proof out of release tweets</code>](https://github.com/openclaw/openclaw/commit/45930457ca196e09fc96cd9149def0a7e1714b76)
+- [ ] [<code>docs: keep developer tooling out of release tweets</code>](https://github.com/openclaw/openclaw/commit/3c8050c44ca5e5eeb9ecc5bdce2fb412312e2b7e)
+- [ ] [<code>docs: note GitHub paste preflight</code>](https://github.com/openclaw/openclaw/commit/9c5e8eb4950e799efbf5a366e9015cc71ed5f72f)
+- [ ] [<code>feat(policy): add channel conformance checks (#80407)</code>](https://github.com/openclaw/openclaw/commit/cbf72e5e26eed6bd686edf08b795be08dbe67fec)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
