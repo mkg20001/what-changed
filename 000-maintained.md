@@ -13993,6 +13993,34 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>perf(plugins): thread explicit discovery to avoid redundant filesystem walks (#75451)</code>](https://github.com/openclaw/openclaw/commit/28beea9e881ce3be7497f60c221e3fe51ba34d99)
 - [ ] [<code>perf(plugins): extend discovery threading to loader, manifest registry, installed-index, and config contracts (#84258)</code>](https://github.com/openclaw/openclaw/commit/f5f0b2c7c9e072975dc6e8206b79944a5342dfc6)
 - [ ] [<code>Revert "perf(plugins): extend discovery threading to loader, manifest registr…" (#84278)</code>](https://github.com/openclaw/openclaw/commit/3d96111a5afe377b529c9bb5a9db510d74607344)
+- [ ] [<code>Fix managed Gateway updates across CLI and service Node skew (#84043)</code>](https://github.com/openclaw/openclaw/commit/c81271ee6e3a78e961ff4db7b26ff206b61653a8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(twitch): register chat intent for refreshing auth (#83750)</code>](https://github.com/openclaw/openclaw/commit/3bc728eaa993655698d7b731aad72e03139efcd4)
+- [ ] [<code>fix(agents): bound plugin-owned context-engine compaction with a safety timeout (#84083)</code>](https://github.com/openclaw/openclaw/commit/a059309a9f9a7aeab9f476b6debe68674f60d631)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): honor --no-prefix-cwd in acp</code>](https://github.com/openclaw/openclaw/commit/d7b23d5bcab9ac85d082d5bcb6a60b16f89570d0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): add default timeout for before_compaction/after_compaction hooks (#84153)</code>](https://github.com/openclaw/openclaw/commit/5c9a8f33b312f2a0e3428fcb1e43d22f4141b3d9)
+- [ ] [<code>docs: move codex native plugins nav (#84341)</code>](https://github.com/openclaw/openclaw/commit/ecb6da9289b1777d12d7e914633b14cb7c7b728f)
+- [ ] [<code>fix(clawhub): preserve base URL path prefix [AI-assisted] (#83982)</code>](https://github.com/openclaw/openclaw/commit/b9a2c1152100eea4dae2496662892e5e81d6be54)
+- [ ] [<code>perf(plugins): extend discovery threading to loader, manifest registry, installed-index, and config contracts (#84283)</code>](https://github.com/openclaw/openclaw/commit/88d8d6af9336ca35c6b0e2fe9a5ca912da8c0947)
+- [ ] [<code>feat(ui): tool name style in usage panel (#84310)</code>](https://github.com/openclaw/openclaw/commit/e61fe1c53970826bfae214e3d905c3af9a531d9f)
+- [ ] [<code>Preserve disabled Discord presentation buttons (#84312)</code>](https://github.com/openclaw/openclaw/commit/97aa0c8c010cb5b0d9bccab1f24e31dc8a0b2d08)
+- [ ] [<code>Expose messageId in message CLI JSON output (#84191)</code>](https://github.com/openclaw/openclaw/commit/1bb0ebab0b067196c96526251e2dfbf9d9dd0556)
+- [ ] [<code>docs: clarify xai oauth setup (#84350)</code>](https://github.com/openclaw/openclaw/commit/a00e7d3898cf812dccd0efdf4714d59e7cfcf2e0)
+- [ ] [<code>ci: cancel duplicate Tideclaw alpha release runs</code>](https://github.com/openclaw/openclaw/commit/375afbad2ddbe664e4f862a2cedef2e41ae71459)
+- [ ] [<code>fix(config): dedupe missing official plugin warnings (#84227)</code>](https://github.com/openclaw/openclaw/commit/68c5a892d05f973ba3f435c30b70991f05e552b8)
+- [ ] [<code>Move Codex soul context to developer instructions (#84331)</code>](https://github.com/openclaw/openclaw/commit/e0d1a2a9b9a817606064d42b1fb0149caf539288)
+- [ ] [<code>test(plugins): update prerelease shard expectations</code>](https://github.com/openclaw/openclaw/commit/d0bc520de8adcca5d2add7caf3ce434121d084ba)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci(release): stabilize beta validation gates</code>](https://github.com/openclaw/openclaw/commit/79197b3196a0ad55d6e91b4621edf39db6a7c136)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(release): update workflow concurrency expectations</code>](https://github.com/openclaw/openclaw/commit/eea71708ac53bdb6230c16d8564daec71263d6e5)
+- [ ] [<code>fix: constrain wildcard subagent targets (#84357)</code>](https://github.com/openclaw/openclaw/commit/00da318350e2a9e207f24e91e94793213e9ead01)
+- [ ] [<code>fix(twitch): export clearRegistryForTest for cross-test isolation (#83887) (#84309)</code>](https://github.com/openclaw/openclaw/commit/ff5354ee4fbdacdc39b207e4bec3bb1576cfa81d)
+- [ ] [<code>fix(discord): preserve streamed replies after tool warnings (#84169)</code>](https://github.com/openclaw/openclaw/commit/165cc581cddb989f3655bf16230574fcb9601f6f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(codex): avoid provider normalization in sandbox tool test</code>](https://github.com/openclaw/openclaw/commit/4408e60c319070aea66c33c01f17654d17628489)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
