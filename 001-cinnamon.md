@@ -260,7 +260,9 @@
 - [ ] [<code>screenshot: SSD+frame, add muffin shadow</code>](https://github.com/linuxmint/cinnamon/commit/98c6bceacbe26735d1e45e0fc8ae907dcd49b6b5)
 - [ ] [<code>screenshot: SSD, clean up corners when no shadows are requested</code>](https://github.com/linuxmint/cinnamon/commit/d88fe5c10f3ad92ae3a2399daacd30079f698154)
 - [ ] [<code>screenshot: Switch to org.cinnamon.Screenshot DBUS interface</code>](https://github.com/linuxmint/cinnamon/commit/d8d166ace11fe9be142cf46c511afa1bacebd11f)
-  - <sub>Tags: <code>master.mint22</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon/commit/124e0356fd59936e45062b013fcb86303095276c)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -276,9 +278,11 @@
 - [ ] [<code>misc: Cleanup some unity references.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/f6f877ed2b4db7b2e64d1b8a9f8d73ddb424fd7d)
 - [ ] [<code>Add 'Fractional' and 'Scaling' keywords to display panel (#375)</code>](https://github.com/linuxmint/cinnamon-control-center/commit/abe1b473f7b73a800421897350e4e4d97a8d2f19)
 - [ ] [<code>networking: Add WPA3, OWE support.</code>](https://github.com/linuxmint/cinnamon-control-center/commit/3cc59b388865a7a0939fef8333d056fc6107aec9)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-control-center/commit/5fb7b030f904f37d13a1f0fe1e1de2fbeea43987)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-desktop](https://github.com/linuxmint/cinnamon-desktop): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-desktop/compare/refs/tags/6.6.2...HEAD)
 
@@ -298,8 +302,10 @@
   - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>gnome-desktop-thumbnail.c: Support a (mimetype argument to</code>](https://github.com/linuxmint/cinnamon-desktop/commit/37f34a3b2390a96221f7b73262eb7cd652161d98)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/b835c44f130fa9b771e4633cd5f559aa07632898)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -453,7 +459,10 @@
 - [ ] [<code>meta-x11-background-actor.c: Skip a background transition if the</code>](https://github.com/linuxmint/muffin/commit/3353a4259181660e5819b58fd461b21029ce700c)
 - [ ] [<code>events.c: Guard against a mouse zoom modifier value of 0.</code>](https://github.com/linuxmint/muffin/commit/647e8fd238c6d47aa7e59597a82b051c85fc03a8)
 - [ ] [<code>layer-shell: Allow indirect popups from layer-shell clients that</code>](https://github.com/linuxmint/muffin/commit/206c0ae9715fab88f258a04de97136533d3cf89d)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+- [ ] [<code>clutter-offscreen-effect.c: Fix offset for asymmetric paint volumes.</code>](https://github.com/linuxmint/muffin/commit/c4d4924e1f5db2d8f06b94485862aef9ca8ca1cb)
+- [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/muffin/commit/1b07851c8440bfe05e2c94dab3c05b4bf3bfa644)
+  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
@@ -504,7 +513,9 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>Implement a filtered view for interactive-search.</code>](https://github.com/linuxmint/nemo/commit/11df68ccb3ca1e3787959b1d36b75c10bd4d339c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>6.7.2-unstable</code>](https://github.com/linuxmint/nemo/commit/80544ae2c7c8c4c2165aaac00e5031614537be86)
+  - <sub>Tags: <code>6.7.2-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [nemo-emblems](https://github.com/linuxmint/nemo-extensions): [6.6.0 → HEAD](https://github.com/linuxmint/nemo-extensions/compare/6.6.0...HEAD)
@@ -609,9 +620,11 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xapp/commit/458de98bb801a0c690c0650b8c11841103eb628d)
 - [ ] [<code>xapp-gpu-offload-helper.c: Fix a memory leak.</code>](https://github.com/linuxmint/xapp/commit/6e4d54cad084aa95e1225067a4db2e1b7513daf5)
 - [ ] [<code>xapp-status-icon: Use gkt-layer-shell if available for positioning</code>](https://github.com/linuxmint/xapp/commit/9caa27d216287fe750e69e2da1c5cb7c580e5318)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/xapp/commit/fb4659be378d1e2db5c3b69f7e77224fa7b11a35)
+  - <sub>Tags: <code>3.3.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
 
