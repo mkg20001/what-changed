@@ -600,6 +600,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Change avifRWStreamFinishBox to return avifResult</code>](https://github.com/AOMediaCodec/libavif/commit/b76fe84462a20023c6c9990f592e364bbd37f83a)
 - [ ] [<code>avifenc: refer to standard input in error message</code>](https://github.com/AOMediaCodec/libavif/commit/1eb52718e253cf542452b47bf3042ab79594736e)
 - [ ] [<code>Switch to AVM's new repository on GitHub</code>](https://github.com/AOMediaCodec/libavif/commit/729927c8d6c27159f5a97c41cf218d8244dc8897)
+- [ ] [<code>Replace strcpy/strcat with memcpy in aviftest.c</code>](https://github.com/AOMediaCodec/libavif/commit/3a63fd99d00109a5e0732b9cdee92277dcf09953)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -668,418 +669,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>feat: add list health check flags (#183)</code>](https://github.com/steipete/mcporter/commit/de7c811271cb7b369aded1dc60d94e83522d61a2)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>docs: release 0.11.2 changelog</code>](https://github.com/steipete/mcporter/commit/348483ea9f47aadf8d3f085709a5378b330c7b0f)
+- [ ] [<code>docs: correct 0.11.2 release date</code>](https://github.com/steipete/mcporter/commit/9ec79f2b80c033329d5792d1e7dec8d4f93c7db3)
+  - <sub>Tags: <code>v0.11.2</code></sub>
+- [ ] [<code>docs: start 0.11.3 changelog</code>](https://github.com/steipete/mcporter/commit/82b19535d84de576ce71310d9ae9e7c9388a62bc)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
-#### [netdata](https://github.com/netdata/netdata.git): [v2.9.0 → HEAD](https://github.com/netdata/netdata.git/compare/v2.9.0...HEAD)
+#### [netdata](https://github.com/netdata/netdata.git): [v2.10.3 → HEAD](https://github.com/netdata/netdata.git/compare/v2.10.3...HEAD)
 
-- [ ] [<code>Increase minimum language standards to C17 and C++17, and update to the latest versions of Protobuf and Abseil. (#21574)</code>](https://github.com/netdata/netdata.git/commit/20960020717117afefe58f09f669fe4367c2fde3)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Drop Ubuntu 20.04 from CI and package builds. (#21647)</code>](https://github.com/netdata/netdata.git/commit/35944b50251b86bbf42a84800e9a7bda47848c84)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-3-nightly.</code>](https://github.com/netdata/netdata.git/commit/e6cddfb670b7d35d62019543f4a1fd2763d4ba1a)
-- [ ] [<code>Clarify default storage retention limits in docs (#21780)</code>](https://github.com/netdata/netdata.git/commit/8b953fe7b084d1174a040b5c4876263637b3954f)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-5-nightly.</code>](https://github.com/netdata/netdata.git/commit/b3747553ce8adda9668b1216b5527637f9a1d55a)
-- [ ] [<code>build(deps): bump github.com/redis/go-redis/v9 from 9.17.3 to 9.18.0 in /src/go (#21782)</code>](https://github.com/netdata/netdata.git/commit/7d367a1934c60666e90b029ffd3ff5fa5b4f0446)
-- [ ] [<code>Add cmake render-docs target for integration doc generation (#21778)</code>](https://github.com/netdata/netdata.git/commit/c21dd9ce9ccfd9531dc21d9ba4f6fbcc0de6efb2)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Replace otel-plugin metrics pipeline with proper aggregation. (#21771)</code>](https://github.com/netdata/netdata.git/commit/a7c78eae8af4f97fb1a56f3a230c8f237e427af4)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Regenerate integrations docs (#21783)</code>](https://github.com/netdata/netdata.git/commit/412efa3d8e494c11ced2ceec2a97d9c675784875)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-10-nightly.</code>](https://github.com/netdata/netdata.git/commit/519b37b9ac546258c6566a8327ee1baf949512b9)
-- [ ] [<code>Fix coverity issue (#21777)</code>](https://github.com/netdata/netdata.git/commit/a0f79da6b436dfdb3e7d337a3ae93b23dee48b6f)
-- [ ] [<code>Improve metadata storage of chart and host labels (#21492)</code>](https://github.com/netdata/netdata.git/commit/4338d8eba1ac9b41724d94866cbed9daa97081d0)
-- [ ] [<code>docs: update consul keywords for discoverability (#21787)</code>](https://github.com/netdata/netdata.git/commit/465fbe7aa1a24add9c5d5e0afe303f929af33dcc)
-- [ ] [<code>Regenerate integrations docs (#21788)</code>](https://github.com/netdata/netdata.git/commit/1e3a9ed6d1b7cccc70d8801aa1d554783a501891)
-- [ ] [<code>Improve datafile deletion process (#21781)</code>](https://github.com/netdata/netdata.git/commit/4c1da82e9a22e14efa58cd73146a99d551ac76a8)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-16-nightly.</code>](https://github.com/netdata/netdata.git/commit/a9838f663e7e50d918833211f9429714ab42fbb9)
-- [ ] [<code>build(deps): bump filippo.io/edwards25519 from 1.1.0 to 1.1.1 in /src/go (#21791)</code>](https://github.com/netdata/netdata.git/commit/9fbbef59b6bc72309e7a4c2fa18f7a53bebcab01)
-- [ ] [<code>Improve print parsed (#21790)</code>](https://github.com/netdata/netdata.git/commit/22962fcffaad907440346954bbe4d81c7e44ce04)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-19-nightly.</code>](https://github.com/netdata/netdata.git/commit/d959e44edabc25683c93e82adc6473e059465658)
-- [ ] [<code>Add revalidation for clean pages under lock to ensure queue integrity (#21793)</code>](https://github.com/netdata/netdata.git/commit/2733e6fc60cf9c76a840e70c554dff5a6b6e01e2)
-- [ ] [<code>ML: Reserve cluster centers (#21795)</code>](https://github.com/netdata/netdata.git/commit/00b789eeb0968dbbf9830ecd962c9337cb5c6988)
-- [ ] [<code>Fix crash when processing a corrupted journalfile (#21794)</code>](https://github.com/netdata/netdata.git/commit/ee4fd63af28615cdfdb21b8a98bbf9cf9bfa16d4)
-- [ ] [<code>fix dcgm exporter discovery (#21800)</code>](https://github.com/netdata/netdata.git/commit/4bd1ef5f0610f51194fa1dd7e10c9016c909e645)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-24-nightly.</code>](https://github.com/netdata/netdata.git/commit/f07fdd680324b633cdb09e16fa12171a0fceb3bb)
-- [ ] [<code>build(deps): bump github.com/valyala/fastjson from 1.6.7 to 1.6.10 in /src/go (#21798)</code>](https://github.com/netdata/netdata.git/commit/bdd1d64f8c29a7984306ae5a4adda9f1cff26472)
-- [ ] [<code>build(deps): bump github.com/vmware/govmomi from 0.52.0 to 0.53.0 in /src/go (#21799)</code>](https://github.com/netdata/netdata.git/commit/ebb16eb6f8fdd2a7cbfe2375a72aa49688b62450)
-- [ ] [<code>fix race condition on js.timer in scripts.d scheduler (#21801)</code>](https://github.com/netdata/netdata.git/commit/b87f24b2238487d4f397a3a6e3768585f16d7600)
-- [ ] [<code>feat(go.d): new metrics collection framework (#21769)</code>](https://github.com/netdata/netdata.git/commit/2b3c73002e04f7fff6d8f8e3dfd3a1934c7b9bbd)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-29-nightly.</code>](https://github.com/netdata/netdata.git/commit/9a0e29f982dfaa208ebc56f4ee5ebc3daf57e270)
-- [ ] [<code>Aclk proxy connect log (#21789)</code>](https://github.com/netdata/netdata.git/commit/b829cb3ae2bd2ff88609a990cdce7732de85fb94)
-- [ ] [<code>chore(go.d): restructure (#21803)</code>](https://github.com/netdata/netdata.git/commit/e11663cdfe1bbd7aba7c02adab137e34de4bf9ea)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Regenerate integrations docs (#21807)</code>](https://github.com/netdata/netdata.git/commit/fff0515b0d7d929b6be2dafaa0ff44a93329c3bb)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>Support environment variable expansion in host labels (#21796)</code>](https://github.com/netdata/netdata.git/commit/9a4c6a80ed3cc363d57576c1a50fd9f641198aea)
-- [ ] [<code>Fix url check (#21805)</code>](https://github.com/netdata/netdata.git/commit/d3831c46efd16a4b90c5317d4f3de24586044a6e)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-35-nightly.</code>](https://github.com/netdata/netdata.git/commit/60e51bcf716910b20627e94fed8b33b3978de2ad)
-- [ ] [<code>refactor(go.d): tighten agent dyncfg flow and type safety (#21808)</code>](https://github.com/netdata/netdata.git/commit/0f8600101c3c63864c8e6baa507b7766c96a7ab7)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>feat(go.d/logger): add conditional and rate-limited logging (#21813)</code>](https://github.com/netdata/netdata.git/commit/54771625c6f33ca9392bd6dc7b48a7fb053dfcb9)
-- [ ] [<code>docs(go.d/mysql): add User Statistics prerequisite for per-user metrics (#21814)</code>](https://github.com/netdata/netdata.git/commit/51edc7d16da350b49d780a360d6334b76dac35e5)
-- [ ] [<code>Regenerate integrations docs (#21815)</code>](https://github.com/netdata/netdata.git/commit/356b6eaae9d4ae8cd876e7fe027d071c3c20b572)
-- [ ] [<code>chore(go.d/logger): improve caller attribution and unify terminal checks (#21817)</code>](https://github.com/netdata/netdata.git/commit/95d79021969c2e204ac934b45b6f4ac7df8d3084)
-- [ ] [<code>Reduce log noise for indexing limit warnings on online journal files (#21816)</code>](https://github.com/netdata/netdata.git/commit/192fab5ac9c4919c1980f3c99c491d59e1e8260e)
-- [ ] [<code>fix(go.d/sd): skip unsupported discoverer configs (#21818)</code>](https://github.com/netdata/netdata.git/commit/e0dad9f2b1c62603bbc4d46d6d9c4d1e9cff8329)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix potential use after free in RAM mode (#21809)</code>](https://github.com/netdata/netdata.git/commit/c21e5cefba4b4beab106c07b739a2f88cfe9388f)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-44-nightly.</code>](https://github.com/netdata/netdata.git/commit/d2f9aa35ecd4e12bd80dcbd6e75ba62ef7a80d4c)
-- [ ] [<code>Include corrosion's cargo build dir in the clean target. (#21820)</code>](https://github.com/netdata/netdata.git/commit/e589cc3250045d256b80f26ac9ace4dfc61a127b)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Plugins.d doubles (#21349)</code>](https://github.com/netdata/netdata.git/commit/a1d450d2b1444d018c835fa74ee419836a26a016)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove most_popular from integrations (#21811)</code>](https://github.com/netdata/netdata.git/commit/66fe1fdbec4a022ffe230f049cf0d8bbc1f63b4f)
-- [ ] [<code>Regenerate integrations docs (#21824)</code>](https://github.com/netdata/netdata.git/commit/5648a6d1db53760a6d4f6830a4501a856dd6d7a9)
-- [ ] [<code>refactor(go.d): agent decoupling (#21821)</code>](https://github.com/netdata/netdata.git/commit/ff58150626400701d5c603a6d55323d203850de5)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>docs(dashboards): add TV Mode documentation section (#21812)</code>](https://github.com/netdata/netdata.git/commit/8ab5fc1fb94de8a2f2bb887ed964f9e661595cff)
-- [ ] [<code>feat(go.d/framework): add float dimension option handling (#21825)</code>](https://github.com/netdata/netdata.git/commit/654770c71b7b97a10732009e5b6e66c3d8e9b414)
-- [ ] [<code>Fix compilation warnings (#21827)</code>](https://github.com/netdata/netdata.git/commit/549483de761b2a62f082092dc57df8f5345c0b9a)
-- [ ] [<code>refactor(go/plugin): move dump analyzer to metricsaudit (#21830)</code>](https://github.com/netdata/netdata.git/commit/8a4a53626d9d528547f16a05048051bdc4ea70ce)
-- [ ] [<code>Increase statsd UDP buffer size to localhost MTU (#21822)</code>](https://github.com/netdata/netdata.git/commit/f0aec326b841457cb08293549f9f8ae0483e15a3)
-- [ ] [<code>chore(go.plugin): rename runtimemgr for clarity (#21833)</code>](https://github.com/netdata/netdata.git/commit/5dbedfdc0e5489fc748768172066a892cc09d577)
-- [ ] [<code>Add skill document for querying Netdata Cloud metrics (#21834)</code>](https://github.com/netdata/netdata.git/commit/db22d1f4dfdb8ca1c3af018320be87ecd498d40d)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Improve query metrics skill document (#21836)</code>](https://github.com/netdata/netdata.git/commit/3902e7fdec7b8d25f21f346e55cd6728c487aeb7)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-58-nightly.</code>](https://github.com/netdata/netdata.git/commit/03abe8a17b6a942760966d46a4249c75ba61f749)
-- [ ] [<code>Add troubleshooting FAQ to query metrics skill (#21837)</code>](https://github.com/netdata/netdata.git/commit/305b143426d8d21df2e39ecc6add4a4f37c73166)
-- [ ] [<code>fix: netdev_mutex deadlock when do_proc_net_dev() fails (#21839)</code>](https://github.com/netdata/netdata.git/commit/d589633869acb3ded53037bf03870f821b2b6970)
-- [ ] [<code>fix: apps.plugin use-after-free crash on parent pointer dereference (#21838)</code>](https://github.com/netdata/netdata.git/commit/54f8668f4bb199ed166e20002d912ecda3057c6a)
-- [ ] [<code>Fix FreeBSD 15.0 build failure in freebsd_ipfw.c (#21843)</code>](https://github.com/netdata/netdata.git/commit/c16ffc81295fbf0bd4c7201dd70e14582ea1cd5b)
-- [ ] [<code>chore(go/plugin/sd): dont validate config in userconfig (#21842)</code>](https://github.com/netdata/netdata.git/commit/2fc42064086225764555a03df29672f5a21c094d)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-64-nightly.</code>](https://github.com/netdata/netdata.git/commit/d283f0866b956a3adabd850baf0c9b96af86ebc8)
-- [ ] [<code>chore(go/agent/jobmgr): harden dyncfg lifecycle, locking, and wait-decision flow (#21840)</code>](https://github.com/netdata/netdata.git/commit/55f4e5a568b22b0d0143987602669bcd8978412e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.6 to 1.9.7 in /src/go (#21848)</code>](https://github.com/netdata/netdata.git/commit/b7317e69b94e1922c7976ff893ead863b340060a)
-- [ ] [<code>build(deps): bump golang.org/x/net from 0.50.0 to 0.51.0 in /src/go (#21846)</code>](https://github.com/netdata/netdata.git/commit/4f01c6ea687749f3890990614bb55a109201cb68)
-- [ ] [<code>refactor(go/plugin/framework/functions): redesign manager (#21850)</code>](https://github.com/netdata/netdata.git/commit/49313a28b0acd6d9a2b8fc76431e8b09f4d17b0d)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-69-nightly.</code>](https://github.com/netdata/netdata.git/commit/fb3d93c18d76742e84a54d8ae78194da4e9e1e10)
-- [ ] [<code>Fix  context hub cleanup (#21832)</code>](https://github.com/netdata/netdata.git/commit/a70ea4c306f3a11fbbfa6168fc4a7a01179b374e)
-- [ ] [<code>fix(go/plugin/framework/chartengine): decouple runtime build-cycle dedupe from LastSuccessSeq (#21851)</code>](https://github.com/netdata/netdata.git/commit/67f60fd4c1117330487a04e9e5ddf3b4feecaa88)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Preserve UTF-8 characters in RRD string fields (#21694)</code>](https://github.com/netdata/netdata.git/commit/d2ddb54705cac8087d358f2805b27533cccdb0f5)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-73-nightly.</code>](https://github.com/netdata/netdata.git/commit/ef7d8e8da694c22c469bf370e7d61f2cbc7bf629)
-- [ ] [<code>build(deps): bump actions/download-artifact from 7 to 8 (#21856)</code>](https://github.com/netdata/netdata.git/commit/a8b335f93a9bd632e829e33a261474eb42f73689)
-- [ ] [<code>build(deps): bump actions/upload-artifact from 6.0.0 to 7.0.0 (#21855)</code>](https://github.com/netdata/netdata.git/commit/e685f5f53775b38489bf126919ef417bdc1f55d8)
-- [ ] [<code>consolidate info into one file (#21829)</code>](https://github.com/netdata/netdata.git/commit/54d862dce0919567937483df44877a74d4ba3cfb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Update units in ping RTT variance chart from `ms^2` to `ms²` for consistency (#21857)</code>](https://github.com/netdata/netdata.git/commit/aca543c56ef761e7bffe47925c8e9e2caabdb1ae)
-- [ ] [<code>Yaml support (#20544)</code>](https://github.com/netdata/netdata.git/commit/9a7abe091db8f581ae8a3e19acfc39b15562f2a4)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
-- [ ] [<code>fix(go/plugin/chartengine): sanitize label value dots in chart IDs (#21859)</code>](https://github.com/netdata/netdata.git/commit/c1bc28e77b22cb7c0605db93dad9d4b1f637a2e4)
-- [ ] [<code>fix(go.d/smartctl): handle non-fatal smartctl exit codes (bits 2-7) (#21858)</code>](https://github.com/netdata/netdata.git/commit/889cc90df0b4522ca6f01af45fde7c0ec3353e40)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>fix(go.d/mongodb): set 30s default timeout for top-queries function (#21860)</code>](https://github.com/netdata/netdata.git/commit/583b006aedfd79f3d0f3fde3d4717b4906281cd0)
-- [ ] [<code>fix(dyncfg): rollback non-disruptive sd update failures (#21861)</code>](https://github.com/netdata/netdata.git/commit/97c7cdf0de04feacd2c6e4b07baca6f261518847)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix data race in ML training during host stop (#21844)</code>](https://github.com/netdata/netdata.git/commit/cee7787b2553e25f1ba37933d35a55d82e3e00ed)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-84-nightly.</code>](https://github.com/netdata/netdata.git/commit/514eeff5dd27d2e2393b66d1cd4084b214fe7411)
-- [ ] [<code>Refactor UID/GID cache updates in apps plugin aggregation logic (#21864)</code>](https://github.com/netdata/netdata.git/commit/b88a35cf8a7781dcbd421a4fcef592d6075c2482)
-- [ ] [<code>build(deps): update go toolchain to v1.26.0 (#21866)</code>](https://github.com/netdata/netdata.git/commit/cd79e53f394241899dd354cc98cc67c412508885)
-- [ ] [<code>feat(go.d/docker): add docker ps -a function (#21868)</code>](https://github.com/netdata/netdata.git/commit/f5799819c3594483c212394f79713c715bc68424)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Regenerate integrations docs (#21870)</code>](https://github.com/netdata/netdata.git/commit/d30a38cf22388cab113354e92d889d77e790abec)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Rename Top tab to Live tab across all documentation (#21872)</code>](https://github.com/netdata/netdata.git/commit/ce20d93cae57cb93f4b5581fe2514d52caa6306c)
-- [ ] [<code>docs: fix Top tab leftovers (#21873)</code>](https://github.com/netdata/netdata.git/commit/75c222984bad17201a17a2f05c5be7c0639769de)
-- [ ] [<code>Regenerate integrations docs (#21874)</code>](https://github.com/netdata/netdata.git/commit/740dfc12a917e167b0540c33cb49f3c592c0b31f)
-- [ ] [<code>docs: fix Top tab leftovers (#21875)</code>](https://github.com/netdata/netdata.git/commit/ba559b93c6051c2688abe024adc739bb33853438)
-- [ ] [<code>Add msys-yaml DLL to Windows install dependencies (#21867)</code>](https://github.com/netdata/netdata.git/commit/8c3d96833d2b4f5eafb5541e8a1d4fea27c0dafe)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Update Windows.plugin (#21797)</code>](https://github.com/netdata/netdata.git/commit/cb974ac384e3e64635d638a8334e7e668ef039b6)
-- [ ] [<code>Add compatibility for TCP(SSL) multiplexing (#21715)</code>](https://github.com/netdata/netdata.git/commit/d05b41b19766a4184d0e7ec530f5416237cfa34a)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-96-nightly.</code>](https://github.com/netdata/netdata.git/commit/2ba7194d725bdf2b88430e6cba8296dffcc6431f)
-- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go (#21865)</code>](https://github.com/netdata/netdata.git/commit/4e03ed2ccb0c7694d964233fd2d9a4dc480da2ba)
-- [ ] [<code>Fix uninitialized string assignment in `json-c-parser-inline.h` (#21878)</code>](https://github.com/netdata/netdata.git/commit/fe92b131bcb163cc2da90fbc2769b6767d9deb09)
-- [ ] [<code>fix(packaging): add --no-same-owner to tar in Go toolchain install (#21883)</code>](https://github.com/netdata/netdata.git/commit/6d05a1419fa1d76d43d0a0097b998a4f2ba76549)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Revert "build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go" (#21884)</code>](https://github.com/netdata/netdata.git/commit/5a5263188b97428e27cc8a31054f9ef52706cbbc)
-- [ ] [<code>health/notifications: enforce Pushover API field length limits (#21882)</code>](https://github.com/netdata/netdata.git/commit/daf58fb35c60f7bcb73235b8c7ffcb7f8289166f)
-- [ ] [<code>Fix initialization handling in `GetHardwareInfo` function (#21885)</code>](https://github.com/netdata/netdata.git/commit/1024b6995a93c76217bf66f8730990b230c331a2)
-- [ ] [<code>Fix integration (#21886)</code>](https://github.com/netdata/netdata.git/commit/8a305728d2bdd9ec8e7b9162bebdb62c8d31db6b)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Regenerate integrations docs (#21877)</code>](https://github.com/netdata/netdata.git/commit/8cc3dfc1310b9d33dcd8ea1807dc671ae1baef9e)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Add input validation for socket connection definitions (#21881)</code>](https://github.com/netdata/netdata.git/commit/c6f21a8c5a80b77524b4c91c5772dfef097a8a52)
-- [ ] [<code>Clarify retention in Parent with tiered storage examples (#21887)</code>](https://github.com/netdata/netdata.git/commit/98faddf55c8f7c722198f4f35e8b5198e6163184)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-107-nightly.</code>](https://github.com/netdata/netdata.git/commit/167891524278fc9a7b5d6f0d9ca97ff5073b8d80)
-- [ ] [<code>build(deps): bump github.com/microsoft/go-mssqldb from 1.9.7 to 1.9.8 in /src/go (#21892)</code>](https://github.com/netdata/netdata.git/commit/d0ad9c845bdc3c737f1ad8443eca7ad9bd922814)
-- [ ] [<code>Cleanup win plugin (Remove MSSQL) (#21876)</code>](https://github.com/netdata/netdata.git/commit/379a099d08d87375591cff2992362607e30965fd)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>Update documentation (Windows installer) (#21888)</code>](https://github.com/netdata/netdata.git/commit/00957db3c00ee8945e0ca87452c1e2d46896a52e)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Support multi-slot ingestion and batch emission (#21893)</code>](https://github.com/netdata/netdata.git/commit/49476ccc2f224115fa549de8006850439bb33228)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix(jobmgr): register collector static functions on first job start (#21894)</code>](https://github.com/netdata/netdata.git/commit/60b130ca4c7eb1776f439e642394d5c2b99dfbd9)
-- [ ] [<code>Improve agent startup time (#21891)</code>](https://github.com/netdata/netdata.git/commit/3219071609790f2a55f9faccdd4e5edb5a2a7746)
-- [ ] [<code>fix(packaging): update min go version in check-for-go-toolchain.sh (#21895)</code>](https://github.com/netdata/netdata.git/commit/d6f6ec8ed27c815407f0278562c768ffc990dc71)
-- [ ] [<code>feat(integrations): link setup option names to detailed configuration sections (#21897)</code>](https://github.com/netdata/netdata.git/commit/f0b15c983f4eca249d6f5f300f18c63aee1a803f)
-- [ ] [<code>Regenerate integrations docs (#21898)</code>](https://github.com/netdata/netdata.git/commit/519f236cb317233062bc9e7ad759ec2ae192a148)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Restructure otel-plugin configuration with layered overrides (#21896)</code>](https://github.com/netdata/netdata.git/commit/753ab18378ce112da66b89a3075ba5c18a58a4fb)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-118-nightly.</code>](https://github.com/netdata/netdata.git/commit/4142bea0af83080fcf1472f8b086fec66490a5c3)
-- [ ] [<code>Regenerate integrations docs (#21899)</code>](https://github.com/netdata/netdata.git/commit/fed0d409582a58db30b516a042819fe9845f34f6)
-- [ ] [<code>Reject incoming streaming connection for own vnode (#21889)</code>](https://github.com/netdata/netdata.git/commit/61b5afbb934bbee7bc09a7231db6dd939fcd03f4)
-- [ ] [<code>chore(go/plugin/functions): change "not instances configured" resp code (#21903)</code>](https://github.com/netdata/netdata.git/commit/f94add990f78cc3102aff310a81fcc0e7ff8ab48)
-- [ ] [<code>Handle fetching IBM MQ libraries in CI package build jobs outside of CMake (#21862)</code>](https://github.com/netdata/netdata.git/commit/15ffa4faeb78cee19bece455f9ceaf1193a74faa)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-123-nightly.</code>](https://github.com/netdata/netdata.git/commit/c97e6f6691a02cf5d1c4adb19886b6b3306433c5)
-- [ ] [<code>feat(go/plugin/metrix): add MeasureSet structured family support (#21909)</code>](https://github.com/netdata/netdata.git/commit/da76065869a5dc6b14d113e4cde9f5294ef87320)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-125-nightly.</code>](https://github.com/netdata/netdata.git/commit/8484017fa82decdfc7f758d36021dabf3b57a4bc)
-- [ ] [<code>build(deps): bump docker/build-push-action from 6 to 7 (#21914)</code>](https://github.com/netdata/netdata.git/commit/902b83d61f2fda6704187a2bf6276f81a2426762)
-- [ ] [<code>build(deps): bump docker/login-action from 3 to 4 (#21916)</code>](https://github.com/netdata/netdata.git/commit/4e2407853f1ba74c4153c5a4c4073dcb5e89660c)
-- [ ] [<code>build(deps): bump crazy-max/ghaction-import-gpg from 6 to 7 (#21913)</code>](https://github.com/netdata/netdata.git/commit/33750258e943ce6f5c562ab3e40e72c1aff77f43)
-- [ ] [<code>build(deps): bump docker/setup-buildx-action from 3 to 4 (#21915)</code>](https://github.com/netdata/netdata.git/commit/adb8beee3107687d21490300917e54f106b6f340)
-- [ ] [<code>build(deps): bump golang.org/x/sync from 0.19.0 to 0.20.0 in /src/go (#21917)</code>](https://github.com/netdata/netdata.git/commit/52982291d8049140a57504c87cfad2280533422d)
-- [ ] [<code>build(deps): bump docker/setup-qemu-action from 3 to 4 (#21919)</code>](https://github.com/netdata/netdata.git/commit/bd28ea1a97963991be8e6f760ab6bb85d87736ac)
-- [ ] [<code>fail on broken metadata.yaml (#21920)</code>](https://github.com/netdata/netdata.git/commit/c8ffe63845956db778d32d9222e05e12da901400)
-- [ ] [<code>go.d: add Azure AD auth for mssql, postgres, and sql collectors (#21905)</code>](https://github.com/netdata/netdata.git/commit/448588476ce6292c9def0fc391e1280fcf27d8e5)
-- [ ] [<code>Regenerate integrations docs (#21923)</code>](https://github.com/netdata/netdata.git/commit/551cc100e7f77fdc892e5fe36a0d00b9544332d2)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-135-nightly.</code>](https://github.com/netdata/netdata.git/commit/7ecb6b7a277f0da350c07bc90f0b03f8e8c6c276)
-- [ ] [<code>Refactor stream connection definition parsing  (#21921)</code>](https://github.com/netdata/netdata.git/commit/0d419462989d67f523587662f995df57b48a1b0b)
-- [ ] [<code>Improve discoverability of Alerts Automation docs (#21932)</code>](https://github.com/netdata/netdata.git/commit/905c06847b8bfdfd40b76376e3b635d77fc0c442)
-- [ ] [<code>go.d/mssql: add Always On Availability Group monitoring (#21927)</code>](https://github.com/netdata/netdata.git/commit/2ef679ee9758e37936039ae8a51ff73a4fffe0a5)
-- [ ] [<code>Regenerate integrations docs (#21933)</code>](https://github.com/netdata/netdata.git/commit/9e44fb7b9b33acb1bf6efe81c66281005edd0d59)
-- [ ] [<code>go.d/snmp: add IPSec/VPN monitoring profiles for FortiGate, Juniper, MikroTik, Check Point (#21926)</code>](https://github.com/netdata/netdata.git/commit/567275e0d44b41e17bfc45a3ef77ef818215f642)
-- [ ] [<code>Add SOCKS5 and SOCKS5H proxy support to ACLK (#21831)</code>](https://github.com/netdata/netdata.git/commit/569734dda91421af3861f673ca0895f4f93354b3)
-- [ ] [<code>go.d/snmp: add tunnel_index to Check Point VPN tunnel tables (#21934)</code>](https://github.com/netdata/netdata.git/commit/627c1fcf17e70142ab85e75c30cae81b90e05d4a)
-- [ ] [<code>go.d/vsphere: add datastore, cluster, and resource pool monitoring (#21924)</code>](https://github.com/netdata/netdata.git/commit/d2d04ab8d22cde55e6a29ffe5a5062d6179b5e24)
-- [ ] [<code>Regenerate integrations docs (#21935)</code>](https://github.com/netdata/netdata.git/commit/5953aff36f39fcdf0eade2c5ec85e5ba62591fa9)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-145-nightly.</code>](https://github.com/netdata/netdata.git/commit/5ac67e357f50d15c3774d3c1a2454799947af6e1)
-- [ ] [<code>Add Ubuntu 26.04 to CI and package builds. (#21939)</code>](https://github.com/netdata/netdata.git/commit/5bc45125696dbe9d6a2cb6c08fd2c77335053b42)
-- [ ] [<code>Improve logger (#21928)</code>](https://github.com/netdata/netdata.git/commit/7a85b2c8965818d686348ec151fe70c433ed5b5e)
-- [ ] [<code>Improve installer (Windows.plugin) (#21911)</code>](https://github.com/netdata/netdata.git/commit/6d6e52238d3ce5b18ba7b6da874e3c60fea806c5)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-149-nightly.</code>](https://github.com/netdata/netdata.git/commit/02d4cbd0e87cf14e76013a523566872597830f01)
-- [ ] [<code>docs: Update kickstart URL to canonical get.netdata.cloud (#21938)</code>](https://github.com/netdata/netdata.git/commit/d9109347fe6a576f8d2898ec3fd2743f2a75b5f3)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix handling of control files for DEB packages. (#21940)</code>](https://github.com/netdata/netdata.git/commit/1bec654e1cff9f84d3b7bcf9cb1eaa28d93e3ea3)
-- [ ] [<code>Remove `.inf` extension from file filter in build workflow (#21941)</code>](https://github.com/netdata/netdata.git/commit/264150a6c90d214dffbfaffbea95aac4dd71ec88)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-153-nightly.</code>](https://github.com/netdata/netdata.git/commit/110f62e90ae099316137817a59bcb9bd1097589c)
-- [ ] [<code>build(deps): bump golang.org/x/net from 0.51.0 to 0.52.0 in /src/go (#21945)</code>](https://github.com/netdata/netdata.git/commit/d6fc8b428535aa2ab1e8c922f62c4c6ffbd28da7)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-155-nightly.</code>](https://github.com/netdata/netdata.git/commit/6ff0126334dfd86b73ff1055a66bff8374e3fe40)
-- [ ] [<code>Prevent race condition during pluginsd array operations (#21628)</code>](https://github.com/netdata/netdata.git/commit/ab477a2814b78164d84ab659ee105e4482c877b7)
-- [ ] [<code>Add Fedora 44 to CI and package builds. (#21943)</code>](https://github.com/netdata/netdata.git/commit/cd8d48902f1c82fb43b0048ebaa15a8491808062)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-158-nightly.</code>](https://github.com/netdata/netdata.git/commit/881589f18267dc2b0bf65cf7ec00480a536660c1)
-- [ ] [<code>Fix health api call (#21952)</code>](https://github.com/netdata/netdata.git/commit/7bbee1f747df8d07dd6027285f87517d9a84119c)
-- [ ] [<code>docs(go.d/snmp): add multi-device SNMPv3 config example with YAML anchors (#21955)</code>](https://github.com/netdata/netdata.git/commit/b06ddfede8c65e373bab0e0cc0e62a4e9945e13e)
-- [ ] [<code>Regenerate integrations docs (#21956)</code>](https://github.com/netdata/netdata.git/commit/2ea79a5ebbbbebe2b4fca1f7cd5109e2dc521c70)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-162-nightly.</code>](https://github.com/netdata/netdata.git/commit/41d778cacfcaa4a4a59ba2a6dc1943188735a63e)
-- [ ] [<code>Run periodical refresh of timezone (#21944)</code>](https://github.com/netdata/netdata.git/commit/16b6916bfa3a8686bab1ee1225d5bce324f787b9)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Fix permissions for systemd-journal.plugin on offline installs (#21953)</code>](https://github.com/netdata/netdata.git/commit/aa77c3a51c92e6f70c952780516c075cb7cb7ff3)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Ensure thread safety and proper cleanup in `GetHardwareInfo` (#21958)</code>](https://github.com/netdata/netdata.git/commit/e4aeeadaae112b0064548a48637ffe61daea822c)
-- [ ] [<code>Fix windows config editor (#21957)</code>](https://github.com/netdata/netdata.git/commit/dfbf1a527b73a2f1789ed79b5a05f9b3afc98822)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-167-nightly.</code>](https://github.com/netdata/netdata.git/commit/20f7861eff9a0af18ea9551b72a5eaf1c1b91546)
-- [ ] [<code>build(deps): bump github.com/go-ldap/ldap/v3 from 3.4.12 to 3.4.13 in /src/go (#21963)</code>](https://github.com/netdata/netdata.git/commit/7938053e329636bdcfc35f73426873e574b5668e)
-- [ ] [<code>Correctly prefetch IBM MQ libraries in DEB package build CI jobs. (#21959)</code>](https://github.com/netdata/netdata.git/commit/69423cc42b2f6e714a61577adf6487bbaa9c09e2)
-- [ ] [<code>Fix compilation warnings (libbnetdata) (#21961)</code>](https://github.com/netdata/netdata.git/commit/ecd5a88b7ebe9a6a316a058cec69fc4d250484ce)
-- [ ] [<code>feat(go.d): implement secretstore-based secrets management (#21951)</code>](https://github.com/netdata/netdata.git/commit/87946808680b0248c6c19314e2924e7fa30c0136)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
-- [ ] [<code>Log missing user configuration directory at info level (#21969)</code>](https://github.com/netdata/netdata.git/commit/f8668ed16088f330802d590eb741dfe420a14598)
-- [ ] [<code>Adjust eBPF (user ring) (#21676)</code>](https://github.com/netdata/netdata.git/commit/1cd58c15445aab4727063d3b6f034f687a5db171)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>bin</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>go.d/powerstore: add Dell PowerStore storage array collector (V2 framework) (#21929)</code>](https://github.com/netdata/netdata.git/commit/fa04535fea7a646342ed338f98404fc7e64da8e2)
-- [ ] [<code>go.d/powervault: add Dell PowerVault ME4/ME5 storage array collector (#21936)</code>](https://github.com/netdata/netdata.git/commit/94f65cead6d9df92845145ada7e58afb803bf6ab)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Regenerate integrations docs (#21970)</code>](https://github.com/netdata/netdata.git/commit/007cb62605f0580b8f764ca703c8f38b1d3855d8)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-177-nightly.</code>](https://github.com/netdata/netdata.git/commit/71c8f2a8f2638ae0aa00a8a2c6ea5131bb6b7095)
-- [ ] [<code>Fix netdatacli ping command (#21965)</code>](https://github.com/netdata/netdata.git/commit/bb84d228173e55075cb0292480b74a4146419546)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Add basic testing of Windows installs in CI. (#21869)</code>](https://github.com/netdata/netdata.git/commit/d42e83ef6af1accaeaa7c87eea182ea7767477fa)
-  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
-- [ ] [<code>Fix Coverity issues (Timezone) (#21971)</code>](https://github.com/netdata/netdata.git/commit/9d076a1f85816cddb5dd137112c4f6b18e006b94)
-- [ ] [<code>fix(go/framweork): restore v2 host-scoped chart emission across host switches (#21979)</code>](https://github.com/netdata/netdata.git/commit/8329088caf5e01da2667b74951a9567f03afe89d)
-- [ ] [<code>Fix uninitialized vnode stale timeout field in pluginsd parser (#21983)</code>](https://github.com/netdata/netdata.git/commit/baf8ccbbb0b416155ea9e371b8acc89585e96d09)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-183-nightly.</code>](https://github.com/netdata/netdata.git/commit/3b149ac01fa890ca03a0077d5c129b62d79bcc4b)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Speed up alerts API filtering with host status snapshots (#21984)</code>](https://github.com/netdata/netdata.git/commit/64e0d811d6d622ad01bbfa2bbed8ff8f4295b97f)
-- [ ] [<code>Improve streaming (#21992)</code>](https://github.com/netdata/netdata.git/commit/5bea95c204461c1be59bb2a09b000c7f3f9a9c8a)
-- [ ] [<code>refactor(go/cloudauth): adopt shared Azure auth schema for collectors and secretstore (#21995)</code>](https://github.com/netdata/netdata.git/commit/0650102c70096fef699bef8131c0cb1466432833)
-- [ ] [<code>feat(go.d): add azure_monitor collector (#21993)</code>](https://github.com/netdata/netdata.git/commit/b802f5d5fdd9eaf5c9e3d93a018a04046be3f0e5)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Regenerate integrations docs (#21998)</code>](https://github.com/netdata/netdata.git/commit/5919f18c9259065cea6de0aeb632a91da1fb4cfd)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>packaging: add go.d secretstore and azure mon stock files (#21997)</code>](https://github.com/netdata/netdata.git/commit/9e3a56ba41f2848730af34883fa6c3a2a4b0992c)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-190-nightly.</code>](https://github.com/netdata/netdata.git/commit/bc77f59054341093dfeeec1bcbac1a07aeaa41ee)
-- [ ] [<code>Fix mrg unittest (#21986)</code>](https://github.com/netdata/netdata.git/commit/8a8cb992321469439b454193965924957f0b82f8)
-- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.8.0 to 5.9.0 in /src/go (#22003)</code>](https://github.com/netdata/netdata.git/commit/3cc9f6bd9ffb2f718268044293ded9d30db4b95e)
-- [ ] [<code>build(deps): bump nick-invision/retry from 3 to 4 (#22004)</code>](https://github.com/netdata/netdata.git/commit/dcf6304f800f4b41c47ac34d77817cd48bcbc76a)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-194-nightly.</code>](https://github.com/netdata/netdata.git/commit/b929a8c936928f90f8548c7e9cec928efef911e2)
-- [ ] [<code>refactor(go/scripts.d): switch to v2 framework and fixes (#21908)</code>](https://github.com/netdata/netdata.git/commit/a065b60d33658aa829ddf930f1d2f752e71f767b)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>subprocess</code></sub>
-- [ ] [<code>feat(go/scripts.d): add Nagios V2 alerts and alertable state (#22008)</code>](https://github.com/netdata/netdata.git/commit/bbfdae6a67c3af197ff2f8f3d14b17fa5709d0ac)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-197-nightly.</code>](https://github.com/netdata/netdata.git/commit/9812371dcb2c09eda7b2d7d7b8855263e4ef53f6)
-- [ ] [<code>Regenerate integrations docs (#22006)</code>](https://github.com/netdata/netdata.git/commit/86fda42af07cc70526f42769dcb1c695e206cc94)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>build(deps): bump github.com/jackc/pgx/v5 from 5.9.0 to 5.9.1 in /src/go (#22010)</code>](https://github.com/netdata/netdata.git/commit/855c469965ab09c8102a67108c5d403967241187)
-- [ ] [<code>build(deps): bump go.opentelemetry.io/otel/sdk from 1.39.0 to 1.40.0 in /src/go (#22011)</code>](https://github.com/netdata/netdata.git/commit/7d2cf67d6bb2a5eee050b81fa20091cf0505f428)
-- [ ] [<code>feat(health): add azure monitor alerts (#22007)</code>](https://github.com/netdata/netdata.git/commit/761a848920a792c8fa4715335e450188beec7a0c)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>docs: nagios metadata improvements (#22014)</code>](https://github.com/netdata/netdata.git/commit/d1ac11fa7bac89e470fbe2b5c53f486133b875a9)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>docs: update Nagios overview for COLLECTORS.md (#22016)</code>](https://github.com/netdata/netdata.git/commit/b60e2bc17c0715c99a0fdf633a80288846b80a56)
-- [ ] [<code>Regenerate integrations docs (#22015)</code>](https://github.com/netdata/netdata.git/commit/dc699d88fe5ac46715b40118662d0dd731a6d557)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Sync Repos (ebpf.plugin) (#21982)</code>](https://github.com/netdata/netdata.git/commit/c0b5f29b31cbf9361fcabbbefe6f4ee62dc65576)
-- [ ] [<code>Create journal directory if missing before watching (#22019)</code>](https://github.com/netdata/netdata.git/commit/6851d51cbe392c4a762825d7148205803014de6d)
-- [ ] [<code>Fix lock order during ctx processing to avoid deadlock (#21996)</code>](https://github.com/netdata/netdata.git/commit/5909940b934ed73664eae0a051ee1f8a2426f070)
-- [ ] [<code>docs: remove Nagios from Prometheus meta (#22020)</code>](https://github.com/netdata/netdata.git/commit/a9243423251649d30fc85802ab58454851457982)
-- [ ] [<code>Regenerate integrations docs (#22022)</code>](https://github.com/netdata/netdata.git/commit/7e06cf9dd66359d4c49a5853667e55e496b3342b)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Fix clocks (ebpf.plugin and others) (#22009)</code>](https://github.com/netdata/netdata.git/commit/790f4a6f0ad44a63b3a6c6132789b4ed557f3611)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-211-nightly.</code>](https://github.com/netdata/netdata.git/commit/f1049a55fa3a0a10881c5d50bfc50fb921dc3813)
-- [ ] [<code>Windows documentation (#22021)</code>](https://github.com/netdata/netdata.git/commit/cc8f52788827b6736c173a5218669905e5be6106)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Compilation Warning (BSD and Windows) (#22024)</code>](https://github.com/netdata/netdata.git/commit/d841e02b98874903840a21b3dd0158816cc5e2cb)
-- [ ] [<code>docs(integrations): add generated secretstore docs and SECRETS page (#22028)</code>](https://github.com/netdata/netdata.git/commit/45450d6436f98d0fd58845f65ec804e54ca628bc)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>docs: update secrets management section (#22030)</code>](https://github.com/netdata/netdata.git/commit/2007c25acaa4592136f299eae54368cbfb401f47)
-- [ ] [<code>docs: add file permissions and ownership documentation for claim.conf (#22017)</code>](https://github.com/netdata/netdata.git/commit/99ff08cc6ef97d595c15e3fec7f6a642a65005fa)
-- [ ] [<code>docs: Add cloud.d directory contents section to claim README (#21966)</code>](https://github.com/netdata/netdata.git/commit/2a0cfeafb2664ffd66c3e300835968da1996425a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: fix integration name collision (#22031)</code>](https://github.com/netdata/netdata.git/commit/c375313f1d44b1492d7147489c64c66e0e8f2b12)
-- [ ] [<code>Regenerate integrations docs (#22032)</code>](https://github.com/netdata/netdata.git/commit/ec4bc3077b39ef97b979760bb88ffa80b6745340)
-- [ ] [<code>docs(integrations): reorder collector README sections for better onboarding (#22033)</code>](https://github.com/netdata/netdata.git/commit/999a2c255553314e3a2fe5650eb0aa2c633bb9d1)
-- [ ] [<code>Regenerate integrations docs (#22034)</code>](https://github.com/netdata/netdata.git/commit/68014b1996dda15159a8724389f26ca69777c0c7)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-222-nightly.</code>](https://github.com/netdata/netdata.git/commit/0a19ebb1ecd9263b1f3eb3c7f334bbca99ae64f5)
-- [ ] [<code>Fix cache (SIGSEGV) (#22026)</code>](https://github.com/netdata/netdata.git/commit/d92f08f02a550ce6c2f8062942518422c1fe6428)
-- [ ] [<code>Windows.plugin (improvements and fixes) (#22039)</code>](https://github.com/netdata/netdata.git/commit/5a80d3eb803acdd64091775238a5eef0d4eaed41)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-225-nightly.</code>](https://github.com/netdata/netdata.git/commit/a44398d34d838146b0b4b66b40d043ddb6222ce6)
-- [ ] [<code>Add ML unit tests (#22043)</code>](https://github.com/netdata/netdata.git/commit/6c5f54409a1299425b85ef6fe9af550f7f07ec20)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>Add dictionary benchmark (#22041)</code>](https://github.com/netdata/netdata.git/commit/d4da8d90a93466913a1c6cf8c2f611a0e47d2fbb)
-- [ ] [<code>Make release profile optimize for speed vs. size (#22046)</code>](https://github.com/netdata/netdata.git/commit/2d6e824fa7d2ee8fd74e0ee81c76d3047479dd3f)
-- [ ] [<code>Fix SIGSEGV (contexts) (#22025)</code>](https://github.com/netdata/netdata.git/commit/336738b33b4c0f5ff0f8d0efdb5cabb970334823)
-- [ ] [<code>docs: user-oriented charttpl README rewrite (#22049)</code>](https://github.com/netdata/netdata.git/commit/421c60bb0d35ac1f741b31b3f4b96972ca82e9ba)
-- [ ] [<code>Improve DBENGINE log messages for datafile rotation and startup (#22047)</code>](https://github.com/netdata/netdata.git/commit/c24c7427b0caa318e3fab45d1c062e121d9886a3)
-- [ ] [<code>Fix wrong DBENGINE file names in logs (#22053)</code>](https://github.com/netdata/netdata.git/commit/97e8013121a3f5ed618d12d53db0fea97d7c9d8b)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-233-nightly.</code>](https://github.com/netdata/netdata.git/commit/38d0ee47bf45713fb91f44ea09aa0deec657f44e)
-- [ ] [<code>docs: add Space Settings navigation guidance to remove-node.md (#22035)</code>](https://github.com/netdata/netdata.git/commit/f5ff2991cc2efd33a4839ef0cfed7c9bfd76f8e7)
-- [ ] [<code>Fix coverity issues (#22054)</code>](https://github.com/netdata/netdata.git/commit/3c7482d1a0aef01a09292d9aa8d2973be5d83034)
-- [ ] [<code>docs: correct SEND_EMAIL default value from YES to AUTO (#22057)</code>](https://github.com/netdata/netdata.git/commit/071a0b7622681e5ccc834096379105f1fcf96fdf)
-- [ ] [<code>docs: clarify streaming protocol architecture - not HTTP/HTTPS (#22055)</code>](https://github.com/netdata/netdata.git/commit/843038704e541d09f58b74ba58e4e40ca76254a9)
-- [ ] [<code>Regenerate integrations docs (#22061)</code>](https://github.com/netdata/netdata.git/commit/75b52898a057b43511f7d757a5bf8d5ef260af20)
-- [ ] [<code>Fix ACLK (#22051)</code>](https://github.com/netdata/netdata.git/commit/fa854401ac211a5eb648ab47255b7c4c86f449c1)
-- [ ] [<code>docs: add NVIDIA/Cumulus/Mellanox to SNMP collector vendor list (#22063)</code>](https://github.com/netdata/netdata.git/commit/4fd5abd82b4171b169814ff8d48a41c2ff01ba0b)
-- [ ] [<code>Improve dbengine memory protection message on startup (#22045)</code>](https://github.com/netdata/netdata.git/commit/084336fc5f9687904d0f6f79a2dfe12e454097c7)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-242-nightly.</code>](https://github.com/netdata/netdata.git/commit/cde2228da3384dc5d33d449fdafdd9064b409500)
-- [ ] [<code>Regenerate integrations docs (#22070)</code>](https://github.com/netdata/netdata.git/commit/bd37f67c61ebcfdf6912bf6e7d5240667edb8b07)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-244-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9039a19f99821b6383ed4bcd5dda740e0fe7afe)
-- [ ] [<code>Improve ML model loading (#22073)</code>](https://github.com/netdata/netdata.git/commit/56852a144e809c9d1489f367fb39124104e66daf)
-- [ ] [<code>Optimize EBPF memory handling and PID indexing. (#22050)</code>](https://github.com/netdata/netdata.git/commit/fe4eec7199f88322cff0d26f33574c1b1ffe8da3)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-247-nightly.</code>](https://github.com/netdata/netdata.git/commit/7d5764d07a434021fe8a3a307ef4f97ed73bd967)
-- [ ] [<code>fix(go.d/secretsctl): handle userconfig for job IDs (#22081)</code>](https://github.com/netdata/netdata.git/commit/6e7fa53a278e41d51796b5c6c13f556483f3c9d0)
-- [ ] [<code>Optimize ML prediction hot path: circular buffer and reduce allocations (#22042)</code>](https://github.com/netdata/netdata.git/commit/f5f237e27e137e17e6e906ceea88a9ea52ff59ba)
-- [ ] [<code>docs: add deprecation notice for /api/v1/charts endpoint (#21974)</code>](https://github.com/netdata/netdata.git/commit/66d6c54f592c74ea1798669338426f7e52536422)
-- [ ] [<code>docs: add Installation section to metrics-centralization-points README (#22036)</code>](https://github.com/netdata/netdata.git/commit/8e263a291bf522b2cb70d8b9e78d288f01ee8a67)
-- [ ] [<code>feat(go.d): add secretstore config resolution and logging (#22083)</code>](https://github.com/netdata/netdata.git/commit/3b48ac828cd5f35b562025584cf54186fb586817)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Strip intermediate objects from flattened JSON (#22085)</code>](https://github.com/netdata/netdata.git/commit/912aa08a3689432c289a57d303942e68220a4b71)
-- [ ] [<code>docs(go.d/mssql): add Windows Authentication setup guide (#22089)</code>](https://github.com/netdata/netdata.git/commit/d1db2c099094f3732f23d89f9069c2791af08455)
-- [ ] [<code>refactor(go.d/azure_monitor): replace profiles magic keyword (#22088)</code>](https://github.com/netdata/netdata.git/commit/d1696cde89d3452a42083cf0040081cc552d1e3a)
-- [ ] [<code>Simplify development on Windows (package-windows.sh) (#22087)</code>](https://github.com/netdata/netdata.git/commit/3116f98b2f06c39672e558023ded73c61eb6eedf)
-  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
-- [ ] [<code>Regenerate integrations docs (#22090)</code>](https://github.com/netdata/netdata.git/commit/3e99783b1fd8279329b455a1441da48e83c1f26c)
-- [ ] [<code>apps.plugin: add per-Windows-service process tree grouping (#21925)</code>](https://github.com/netdata/netdata.git/commit/753ea0a2c1258838580f076a3263d9841f4d294a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Improve journal file logging (#22086)</code>](https://github.com/netdata/netdata.git/commit/bb62cfdcf4ad7ed24a32a735c7b5f067879f1091)
-- [ ] [<code>Regenerate integrations docs (#22092)</code>](https://github.com/netdata/netdata.git/commit/488370627864160bf951c19bc1c33ad8df68eb98)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Remove VLA (variable-length arrays) from collectors (#22066)</code>](https://github.com/netdata/netdata.git/commit/cff3aaef92e644bdf94b132064471f0f9a5336ea)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-262-nightly.</code>](https://github.com/netdata/netdata.git/commit/330819b4b4d532fd67f2bb64dfbd1286eb368248)
-- [ ] [<code>build(deps): bump azure/artifact-signing-action from 1.1.0 to 1.2.0 (#22048)</code>](https://github.com/netdata/netdata.git/commit/05fcccbfaace8a5f3e8348d2d308abf9dfa504d5)
-- [ ] [<code>docs: add section on changing the default port (#22084)</code>](https://github.com/netdata/netdata.git/commit/f1dcd09edfecba5b6fe662a5083047987c31c68b)
-- [ ] [<code>refactor(go.d/azure_monitor): redesign discovery and profile selection (#22095)</code>](https://github.com/netdata/netdata.git/commit/2364d3b09bfdee95fb17114fbe2597dbdc2a4cd0)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Regenerate integrations docs (#22096)</code>](https://github.com/netdata/netdata.git/commit/9384321bee9fcebd5dfbf758c807bcddfd8fb7b8)
-  - <sub>Keywords: <code>usr</code> <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>Fix PID cleanup loop in EBPF to avoid use-after-free errors (#22098)</code>](https://github.com/netdata/netdata.git/commit/137e28a63ead442416ab21900e5fdc2786a238ef)
-- [ ] [<code>docs(secretstore): improve secret store backend documentation (#22099)</code>](https://github.com/netdata/netdata.git/commit/eecca9a91b2104cdea0d25350ec7d0a0b834e32a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>Fix UB in tzif_read_be64() (#22097)</code>](https://github.com/netdata/netdata.git/commit/3baba7a8295c89e6ebdeb9a02b719b1ce2d3367e)
-- [ ] [<code>Fix Coverity (#22094)</code>](https://github.com/netdata/netdata.git/commit/5dd4257202e984f21c9b0c61e4a088041b27011b)
-- [ ] [<code>Remove compilation warning (Windows) (#22091)</code>](https://github.com/netdata/netdata.git/commit/ce1c1fb57e3af4aeb1bc9e6c9ec07d21407dc576)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-272-nightly.</code>](https://github.com/netdata/netdata.git/commit/d1b4767162230ac258675476bab6d6e9e9ca5197)
-- [ ] [<code>fix(go.d): derive sd pipeline names from source context (#22105)</code>](https://github.com/netdata/netdata.git/commit/3c2ad5b05593d0815b7c654cc5b0c45fd9f28a18)
-  - <sub>Keywords: <code>usr</code> <code>command</code></sub>
-- [ ] [<code>docs: nest secretstore integrations under Secrets Management in sidebar (#22106)</code>](https://github.com/netdata/netdata.git/commit/82834dc07ba6bc1a06f69398e99b051e207e3db7)
-- [ ] [<code>Remove DBENGINE Warnings (Linux compilation) (#22103)</code>](https://github.com/netdata/netdata.git/commit/9e1423dbaba49a6bbdaf85fb5c95ff2e9d8cff66)
-- [ ] [<code>Fix coverity report (#22104)</code>](https://github.com/netdata/netdata.git/commit/025e21565e8def5b52a141592729f5642888b034)
-- [ ] [<code>docs: put collectors under Collecting Metrics/Collectors (#22107)</code>](https://github.com/netdata/netdata.git/commit/2ee3a6c9db3f59011d832b4a24d0d7b81186a35f)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-278-nightly.</code>](https://github.com/netdata/netdata.git/commit/f9ff5506aee37ec2aecb02cd3b1c76c732d0741e)
-- [ ] [<code>chore(scripts.d/nagios): add float flag to perfdata fields observation (#22116)</code>](https://github.com/netdata/netdata.git/commit/ca95efc4207b383eda71c00586d361c6447253fb)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-280-nightly.</code>](https://github.com/netdata/netdata.git/commit/b751c29c8e57f4118923b57dbf0d9fabb1628ec0)
-- [ ] [<code>feat(plugin/agent): add configurable secretstore backend HTTP timeouts (#22118)</code>](https://github.com/netdata/netdata.git/commit/f09bef03f98010e26cbc7e1abccb70b3656402d2)
-- [ ] [<code>Regenerate integrations docs (#22121)</code>](https://github.com/netdata/netdata.git/commit/3030c7bc4d0efddd1887fdede2cd73abe20b285e)
-- [ ] [<code>fix(plugin/agent): log applyConfig failures in job manager (#22124)</code>](https://github.com/netdata/netdata.git/commit/5c57cff6dd904db4defb8766f0e94d2c5ea64b35)
-- [ ] [<code>docs: add DO_NOT_TRACK environment variable to telemetry documentation (#22076)</code>](https://github.com/netdata/netdata.git/commit/da75d422de8b978c104c62f33f504fd6122796ed)
-- [ ] [<code>chore(go.d/agent): improve terminal-mode behavior (#22125)</code>](https://github.com/netdata/netdata.git/commit/0c03fd9259f80a6a40322eee6ff8a7872311deef)
-- [ ] [<code>Update PR template to remove AI verification checkbox (#22126)</code>](https://github.com/netdata/netdata.git/commit/f1ea7ecbc2239541caf37312b221f85b5727635b)
-- [ ] [<code>feat(go/jobruntime): add config_source field to runtime job logs (#22127)</code>](https://github.com/netdata/netdata.git/commit/b5304aa73f4c5c9d98e78f7f26bc3a206e6747a3)
-- [ ] [<code>chore(go.d/azure_monitor): format profiles and fix IO family (#22128)</code>](https://github.com/netdata/netdata.git/commit/4a6cb8ebeccbe780aa7fd9e355954e312730071d)
-  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
-- [ ] [<code>fix(go.d/mssql): fix database size overflow and Windows Auth docs (#22129)</code>](https://github.com/netdata/netdata.git/commit/2d94de981576aba93b7967dd908e928b9b8131ce)
-- [ ] [<code>Regenerate integrations docs (#22131)</code>](https://github.com/netdata/netdata.git/commit/80562ef6e26e3461531bcf7c3dfffb832f828ef6)
-- [ ] [<code>chore(go): go fix (#22133)</code>](https://github.com/netdata/netdata.git/commit/1ddf37071849969e4ca3b9137029663ff5ec5bf4)
-  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
-- [ ] [<code>feat(go.d/azure_monitor): add per-profile resource filters (#22132)</code>](https://github.com/netdata/netdata.git/commit/a7fd47fa2b9189c2b6ee94a38cd28e80ce42c971)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-293-nightly.</code>](https://github.com/netdata/netdata.git/commit/554cdd74406f5c6dd435370982fbe2c4616a9c6d)
-- [ ] [<code>Regenerate integrations docs (#22135)</code>](https://github.com/netdata/netdata.git/commit/facaad15a01754eae6238dfc6f57a9c50b3281ac)
-- [ ] [<code>chore(go.d/azure_monitor): shorten stock profile selectors (#22137)</code>](https://github.com/netdata/netdata.git/commit/150e5553ee6dc5d17e85ebe26bdc57c304333308)
-- [ ] [<code>chartengine: fix validated framework issues (#22138)</code>](https://github.com/netdata/netdata.git/commit/9a4b3dc9820c3482076157624d2950a10ffc3cea)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-297-nightly.</code>](https://github.com/netdata/netdata.git/commit/3444f6a2462e3a4576c55dd3ac8a7b1f9c6d2841)
-- [ ] [<code>docs: Add guidance on obtaining TLS certificates for production use (#22037)</code>](https://github.com/netdata/netdata.git/commit/9b5e0156c23217c07d963b0e30ac9c943fac5359)
-- [ ] [<code>docs: add warning about mode=none disabling streaming capability (#22056)</code>](https://github.com/netdata/netdata.git/commit/0694157fe5d0d35b828f4ccc8e5638f7270a359a)
-- [ ] [<code>docs: add HTTP 412 troubleshooting and publish bearer token protection docs on Learn (#22044)</code>](https://github.com/netdata/netdata.git/commit/51fcf3aa3874280ad8906cf3ba832588af381939)
-- [ ] [<code>docs: clarify alert behavior for non-existent mount points (#22038)</code>](https://github.com/netdata/netdata.git/commit/8115e2a1da6f9d966d19b415c9faab25a6e11ed3)
-- [ ] [<code>fix(go.d/azure_monitor): ignore invalid user profile overrides (#22146)</code>](https://github.com/netdata/netdata.git/commit/0d0a0fb5c9e88d7361e3ade5b9f7ba8711a8fbfe)
-- [ ] [<code>fix: restore _hw_product_name, _hw_sys_vendor, and _hw_product_type labels in netdata_info (#22134)</code>](https://github.com/netdata/netdata.git/commit/9a90c5b9b5b512f050d0ddf1ddd771ba9bbb6aad)
-- [ ] [<code>Active Directory Federation Service (windows.plugin) (#22113)</code>](https://github.com/netdata/netdata.git/commit/cbe92ea5e83914f9c892dc6b87d330bd75538a21)
-- [ ] [<code>packaging: enable scripts plugin by default (#22148)</code>](https://github.com/netdata/netdata.git/commit/fdafe447ea23a92ec2a3f14aded6f1c84ddae683)
-  - <sub>Files: <code>CMakeLists.txt</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-306-nightly.</code>](https://github.com/netdata/netdata.git/commit/e29085c3afef2d8b6c3dad01a06535349f6399e3)
-- [ ] [<code>feat(scripts.d/nagios): add optional check_name for perfdata identity (#22154)</code>](https://github.com/netdata/netdata.git/commit/6dc93113b9f61f9de4fcc52b9d60f3f05f8c0b2c)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Regenerate integrations docs (#22150)</code>](https://github.com/netdata/netdata.git/commit/de0013ce3c26f69c9c39606eee72d2402f7243e1)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Coverity and ML (#22120)</code>](https://github.com/netdata/netdata.git/commit/e4c83f419757743d374ad14b25381d9790639ffd)
-- [ ] [<code>feat(scripts.d/nagios): validate plugin path security (#22160)</code>](https://github.com/netdata/netdata.git/commit/f6f0b6f137905cdec4d7b79300dc767bc5ece84a)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Update to the latest version of Sentry Native to fix build issues. (#22159)</code>](https://github.com/netdata/netdata.git/commit/9c6b5be5368d4f0f91218b4d7342821a71dc122a)
-- [ ] [<code>feat(scripts.d/nagios): auto-invoke Windows script files (.ps1, .bat, .cmd) through their interpreters (#22162)</code>](https://github.com/netdata/netdata.git/commit/9b837d836791c73fd46791c7b380bf410c3d5312)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>Regenerate integrations docs (#22161)</code>](https://github.com/netdata/netdata.git/commit/766be12b8188e58d59a0599d387e04e71ffff85e)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-314-nightly.</code>](https://github.com/netdata/netdata.git/commit/b5a7271cf4be3d471f006f18233eb9e945ea39cc)
-- [ ] [<code>MCP Streamable HTTP: add stateless Mcp-Session-Id support (#22000)</code>](https://github.com/netdata/netdata.git/commit/92a40a16bb395c1e11d34888503958beb910748a)
-- [ ] [<code>docs: correct Discord invite URL in 3 files (#22149)</code>](https://github.com/netdata/netdata.git/commit/08d387cef16fb1a73cbfb0f70aa8bb7bef68c06b)
-- [ ] [<code>fix(packaging): disable MongoDB exporter for EL10 (#22163)</code>](https://github.com/netdata/netdata.git/commit/c9250b3897954b56c3d6d30ad37d82058edcfe25)
-- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.9.0-318-nightly.</code>](https://github.com/netdata/netdata.git/commit/450e95c030e3edd92e3e1697193297558f6e7125)
-- [ ] [<code>build(deps): bump go.opentelemetry.io/otel/sdk from 1.40.0 to 1.43.0 in /src/go (#22171)</code>](https://github.com/netdata/netdata.git/commit/4a877d3cce9051ec74af57400823ff0284b5500b)
-- [ ] [<code>fix: bearer token creation truncates client_name and returns wrong expiry for existing tokens (#22167)</code>](https://github.com/netdata/netdata.git/commit/7c64f676b8f20c9dca2b9fe7dc332eadcee00863)
-- [ ] [<code>Make scripts plugin optional but installed by default for native packages. (#22155)</code>](https://github.com/netdata/netdata.git/commit/4fa8b6e05f2ee6f13803e871f8f4d8c86e2c3b7e)
-  - <sub>Keywords: <code>dependency</code></sub>
-- [ ] [<code>[ci skip] Minor release v2.10.0.</code>](https://github.com/netdata/netdata.git/commit/e1d4352a88384886ab120b5fe7138383d65cd684)
-  - <sub>Tags: <code>v2.10.0</code></sub>
 - [ ] [<code>Stabilize runtime metrics shutdown test (#22169)</code>](https://github.com/netdata/netdata.git/commit/5d55cb5bc8cb3b95124e68c390addd58384b8eb1)
 - [ ] [<code>chore(go): go fix (#22173)</code>](https://github.com/netdata/netdata.git/commit/08aae60515ae9327fe4396fbeda68d8c7e4152a7)
 - [ ] [<code>chore(go/ibm.d): remove buildtag comment (#22174)</code>](https://github.com/netdata/netdata.git/commit/848e971faeafed6b9911e426dbc6abd324a6d2d6)
@@ -1375,6 +972,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Exclude ND_REMAPPING bookkeeping entries from journal index (#22513)</code>](https://github.com/netdata/netdata.git/commit/5c2b637c5ed4379f621a82d63a290872e4746074)
 - [ ] [<code>docs: task class: improve_docs - add a prometheus/openmetrics example to the (#22479)</code>](https://github.com/netdata/netdata.git/commit/b41374bfb6613a0c8c58a1e4ef3b3968bb5c912c)
 - [ ] [<code>docs: task class: improve_docs — add v3 cloud api endpoints to the common (#22481)</code>](https://github.com/netdata/netdata.git/commit/6500f03af69247963e4a364d9a9febe5fb8b20c4)
+- [ ] [<code>fix(packaging): correct rust macro name in spec _have_rust gate (#22515)</code>](https://github.com/netdata/netdata.git/commit/09823130f623e6baa3841f98f791e98cc7c5fdfe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Translate Path (Windows) (#22194)</code>](https://github.com/netdata/netdata.git/commit/283900dee677ae7a8480be4516cfa2a0a9bf3947)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>modify NetdataYAML.cmake to fix compilation error (#21295)</code>](https://github.com/netdata/netdata.git/commit/130e0a8f694012e7f03aabefffae3905c0ed0239)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -14334,6 +13937,71 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore(deadcode): dedupe repeated helpers</code>](https://github.com/openclaw/openclaw/commit/88c49f9e68fc7c59239d8b84c4948712957706a4)
   - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>fix(agents): cap heartbeat context hint fallback</code>](https://github.com/openclaw/openclaw/commit/04061bc801891060fb34a425af5fc08c38dd1ad3)
+- [ ] [<code>fix(tests): wrap kitchen sink pnpm runner</code>](https://github.com/openclaw/openclaw/commit/bde07ddb1552d2b31e0e8ea128fe676f7bf9071a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(plugins): reuse compatible gateway startup registry</code>](https://github.com/openclaw/openclaw/commit/d2ad7d6b4c63710ac98299af9c2bfb037e6852cc)
+- [ ] [<code>test: cover dispatch registry reuse caller</code>](https://github.com/openclaw/openclaw/commit/b248b4816b0d26c09847b52ea0a3e195fe5ec7a3)
+- [ ] [<code>docs: add plugin registry reuse changelog</code>](https://github.com/openclaw/openclaw/commit/6ccca4ae952935d08953518814f14fd0ef1da8a5)
+- [ ] [<code>docs(changelog): note VAPID subject fix</code>](https://github.com/openclaw/openclaw/commit/db606a8475f7ee3bfa13db49d9d81fe647888732)
+- [ ] [<code>docs: document rejected autoreview findings</code>](https://github.com/openclaw/openclaw/commit/c49647ee238a63abf57dfa3984b20c325dc3f05b)
+- [ ] [<code>Fix stale WebChat typing indicator after terminal session patch (#84565)</code>](https://github.com/openclaw/openclaw/commit/a901396ad199e1ac63e5ab62c10407f3174f0abb)
+- [ ] [<code>fix(xai): keep OAuth URL clickable (#84927)</code>](https://github.com/openclaw/openclaw/commit/159b3002e4d3eb8903d1ca8e7c3ef20ae3bbe075)
+- [ ] [<code>refactor: remove sender owner tool gating</code>](https://github.com/openclaw/openclaw/commit/02182d5a30315307f0a65fc1d587ef4c09ae5933)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: remove stale owner tool wording</code>](https://github.com/openclaw/openclaw/commit/e0b53cae418263332b9292b324434e66d0f2ac5d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: update command auth expectations</code>](https://github.com/openclaw/openclaw/commit/95eac52e92b5089533c6d8d29fba484b46d70588)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): fence embedded session writes</code>](https://github.com/openclaw/openclaw/commit/2bb00f6726d4245c673c40bcbfe4416879e3512f)
+- [ ] [<code>Policy: add model, network, and MCP conformance checks (#80783)</code>](https://github.com/openclaw/openclaw/commit/6dbd5bd4460e5be753c2c0716829568a398a9562)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(release): prefer 1Password provider preflight</code>](https://github.com/openclaw/openclaw/commit/94b6d9f8b238c5cae393130d194fe51c9137b325)
+- [ ] [<code>fix(openshell): use NVIDIA CLI contract</code>](https://github.com/openclaw/openclaw/commit/e72f601925716d489e65ce09e020c99473f65c2d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>chore(release): refresh generated baselines</code>](https://github.com/openclaw/openclaw/commit/1b1580cbc3f578cac26ae516fa41e516d853a26c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): beta blocker - keep context engine on canonical session key (#84954)</code>](https://github.com/openclaw/openclaw/commit/66dcc4ee8fd1cebc56736b400f138dac3f8a9adb)
+- [ ] [<code>feat(qa-lab): add jsonl replay harness</code>](https://github.com/openclaw/openclaw/commit/cf0657852f65e2d30a96b2fa8d360025e8653596)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>ci: tune crabbox developer image config</code>](https://github.com/openclaw/openclaw/commit/0e6f314dbb1f61ccae4df43dfc84dd09cf793da7)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(qa-lab): add personal failure recovery scenario</code>](https://github.com/openclaw/openclaw/commit/229323d37adfa3b0cc0727a57659562e431a3da7)
+- [ ] [<code>fix(ollama): allow Orb host local auth (#84999)</code>](https://github.com/openclaw/openclaw/commit/277a4b695264ce133f4c3d07931673029852edaf)
+- [ ] [<code>test(e2e): isolate kitchen sink rpc gateway</code>](https://github.com/openclaw/openclaw/commit/da1925cb67a1560e4d450a647b18db5f766608db)
+- [ ] [<code>fix(qa): keep searchable tool coverage report-only</code>](https://github.com/openclaw/openclaw/commit/9f2c0a80b40f3a858c2d9c87aaf651b1c0072c1f)
+- [ ] [<code>ci(qa): publish soak parity artifacts</code>](https://github.com/openclaw/openclaw/commit/652712e0ad964673a38d2b3a7e657b605a21f22b)
+- [ ] [<code>fix(sessions): preserve compatible auth overrides (#85014)</code>](https://github.com/openclaw/openclaw/commit/b33deb41594e2b9a8d6b761d01eacf2acc95816a)
+- [ ] [<code>test(qa-lab): trace scenario issue evidence</code>](https://github.com/openclaw/openclaw/commit/efb7e4742fa67da81959cd54a224c324577fd128)
+- [ ] [<code>fix(status): add gateway delivery health telemetry (#85016)</code>](https://github.com/openclaw/openclaw/commit/5955f354f74de8798c6a3904011eecf252c76471)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(json): retry on transient File changed during read race condition (#85029)</code>](https://github.com/openclaw/openclaw/commit/7f943b5d8f838389167a79af172a78d88d9b207d)
+- [ ] [<code>test(qa-lab): cover update package sentinel</code>](https://github.com/openclaw/openclaw/commit/178e510aae251475fb341f5de3fd4a7d388ed1ae)
+- [ ] [<code>fix(auth): skip OAuth refresh adapter when credential has no refresh token (#85028)</code>](https://github.com/openclaw/openclaw/commit/205c595b134c21e25dee7a7200ce01bcf8ea4327)
+- [ ] [<code>fix(docker): prune omitted plugin runtime deps</code>](https://github.com/openclaw/openclaw/commit/23c58081d062346b5dafb5b4a0db7f833c315b8c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>revert(qa-lab): remove scenario github traceability metadata</code>](https://github.com/openclaw/openclaw/commit/46c88640482a46b23576940c9f386d6c8105ff7b)
+- [ ] [<code>fix(tests): allow slower kitchen sink installs</code>](https://github.com/openclaw/openclaw/commit/ec0cf9af047e4cfc20103575fe8080d3f36191cd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa-lab): cover codex plugin lifecycle fixtures</code>](https://github.com/openclaw/openclaw/commit/bbf3eec7867b1fac735f80341f73d1a0a72663ad)
+- [ ] [<code>fix #84745: scope Google preview model normalization to Google providers only (#84762)</code>](https://github.com/openclaw/openclaw/commit/7d5afcbb3f836f0ae83de602b1a603a3bb2ab82a)
+- [ ] [<code>test(gateway): relax e2e node status waits</code>](https://github.com/openclaw/openclaw/commit/b25a0d013b647ad0e2e090c34846a70c9216aa3e)
+- [ ] [<code>fix(qa-lab): rename codex lifecycle fixtures to match knip ignore pattern (#85066)</code>](https://github.com/openclaw/openclaw/commit/ebd8b00cc318bd71a10cafeb6540f72162ce37ce)
+- [ ] [<code>perf(models): pre-warm provider auth state at gateway startup</code>](https://github.com/openclaw/openclaw/commit/4f80cc1943b924114b435e34a985de65633ee8cb)
+- [ ] [<code>test(model-provider-auth): cover prepared-state short-circuit and clear</code>](https://github.com/openclaw/openclaw/commit/180cecda8546dd124ef829a7d5eaefc48c0c8147)
+- [ ] [<code>address review: scope short-circuit by caller auth context + rewarm on reload</code>](https://github.com/openclaw/openclaw/commit/01087cb93620968985bca70485ab642faa85364c)
+- [ ] [<code>address review v2: workspace scope, warm generation guard, plugin reload trigger</code>](https://github.com/openclaw/openclaw/commit/c452a1e7e539a3d5ff7da52fbbc9da4806475da6)
+- [ ] [<code>address review v3: invalidate prepared map on auth-profile logout + defer plugin-reload rewarm</code>](https://github.com/openclaw/openclaw/commit/7ddcca6c77fd7d4542705ca8823860d5d1563857)
+- [ ] [<code>fix(models): reset warmed provider auth on hot reload</code>](https://github.com/openclaw/openclaw/commit/aef8d1771dc88840e9c548dcdaebcc4df01c26b0)
+- [ ] [<code>fix(codex): demote plugin thread eligibility log</code>](https://github.com/openclaw/openclaw/commit/1d5b5db4d221b6d6b81d40c0c05cc644796d5b3b)
+- [ ] [<code>Fix/codex deactivated workspace failover (#55893)</code>](https://github.com/openclaw/openclaw/commit/016c34ff1d2ac4cb7521c8cfe4240581332bef09)
+- [ ] [<code>fix(auth): load legacy Codex OAuth sidecars in embedded secrets-runtime loaders (#85074)</code>](https://github.com/openclaw/openclaw/commit/4399eee6e0e41bd7db22b31b9482dc71fc6fab46)
+- [ ] [<code>test: fix environment sensitivity in resolveNpmCommandInvocation test (#83405)</code>](https://github.com/openclaw/openclaw/commit/faf96ff99bd46cae5af9098b2d209903a7bb9d01)
+- [ ] [<code>refactor(gateway): remove unused readLastMessagePreviewFromTranscript helper (#84427)</code>](https://github.com/openclaw/openclaw/commit/9b7e431b89594e6214b8cd675cb535f36e69ff1d)
+- [ ] [<code>fix(exec): protect pathPrepend against posix login-shell RC overrides (#81403)</code>](https://github.com/openclaw/openclaw/commit/b77f36fb1cbdc48d9c0a8c02e3e526599547a4d4)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(installer): handle headless onboarding tty</code>](https://github.com/openclaw/openclaw/commit/504f0dfa36be281606f090d1f94452318911ffe2)
+- [ ] [<code>fix(gateway): allow bearer-auth session history reads (#81815)</code>](https://github.com/openclaw/openclaw/commit/01d95b9757a0a8fc593a957ef1f45a3e800792dd)
+- [ ] [<code>fix(agents): classify auth HTML provider responses (#79900)</code>](https://github.com/openclaw/openclaw/commit/7f4462e5c06d5b87c8eee4380dec1eff9fcbf691)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -14898,25 +14566,5 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
 
-#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.0.9 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.0.9...HEAD)
+#### [xapp-symbolic-icons](https://github.com/xapp-project/xapp-symbolic-icons): [refs/tags/1.1.0 → HEAD](https://github.com/xapp-project/xapp-symbolic-icons/compare/refs/tags/1.1.0...HEAD)
 
-- [ ] [<code>Add tag</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b7821f19262b5bcc4eee005550575223d30d2285)
-- [ ] [<code>Add launch</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/4498f2b0adf8af3256b2ff7ae98f267b33ba9bbe)
-- [ ] [<code>Add empty-icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/dba9e8b4b808a1b2c424244fc640b7999050fc7a)
-- [ ] [<code>Fix color of xsi-non-starred-symbolic.svg.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/03ae179980039f12e4b149c346a09817d60182ea)
-- [ ] [<code>Improve style of xsi-media-removable-symbolic, add xsi-drive-</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e28f9569e06d40cdfeb5debaef386a4b64d89230)
-- [ ] [<code>icons/meson.build: Don't follow symlinks.</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/591e53438f7d00243f1160bbccf2ed99448d8359)
-  - <sub>Files: <code>meson.build</code></sub>
-- [ ] [<code>fix and improve d/copyright (#24)</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/b13f7ad758bf7483c0f04e1897984bc9f3ff68ec)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>Update temperature icon</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/96b0387201c42f1419068fd0a568ddc71b791ec2)
-- [ ] [<code>Add xsi-power-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/464033acdfd7c71a593a4ecd18a31b90b3df0bb6)
-- [ ] [<code>Add xsi-gauge-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/a4085edf074104366e736550c7427c53444abfa9)
-- [ ] [<code>Add xsi-fan-symbolic</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e7db28b7f833bf193762a151a434649e2b02d2ae)
-- [ ] [<code>Add gauge2 and electric /pyshics icons</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/e5b81d4e0d2656f8a4a5d25c9677a59f27f6c15c)
-- [ ] [<code>Add xsi-image-crop-symbolic.svg</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/c0783eca97ad2e01925893be38be6f934bbd2c26)
-- [ ] [<code>Add licensing info for xsi-image-crop-symbolic.svg</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/34f9f359385ee5f23869eca3a62818cab5d9e7ea)
-  - <sub>Keywords: <code>usr</code></sub>
-- [ ] [<code>1.1.0</code>](https://github.com/xapp-project/xapp-symbolic-icons/commit/2c91ca1f3fb398992fa12007b76c3b100e32690e)
-  - <sub>Tags: <code>1.1.0</code></sub>
-  - <sub>Files: <code>meson.build</code></sub>
