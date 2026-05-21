@@ -623,7 +623,15 @@
   - <sub>Files: <code>meson.build</code></sub>
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>3.3.0-unstable</code>](https://github.com/linuxmint/xapp/commit/fb4659be378d1e2db5c3b69f7e77224fa7b11a35)
-  - <sub>Tags: <code>3.3.0-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>3.3.0-unstable</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>xapp-status-icon: unrealize GtkStatusIcon before clearing to prevent stale GdkWindow XID mappings crashing during Cinnamon restart (#200)</code>](https://github.com/linuxmint/xapp/commit/ebd20fd7f334e8a34815bdbfbbc5aa4d2a2e0535)
+- [ ] [<code>sn-item:  Fix error handling to address SIGSEGV (#201)</code>](https://github.com/linuxmint/xapp/commit/2212d1c9f9ccc8b437d305fe8c45a3c1fc55b3b6)
+- [ ] [<code>build: Add gtk-layer-shell to depends, make it a requirement for</code>](https://github.com/linuxmint/xapp/commit/8830e46cd9c7cabc880a3d11a15b0ef8329c0b15)
+  - <sub>Files: <code>meson.build</code> <code>meson_options.txt</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>3.3.1-unstable</code>](https://github.com/linuxmint/xapp/commit/0a429364f7d2f8e4fad0a3e409a3a22729be4cd4)
+  - <sub>Tags: <code>3.3.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
 
 #### [xdg-desktop-portal-xapp](https://github.com/linuxmint/xdg-desktop-portal-xapp): [1.1.3 → HEAD](https://github.com/linuxmint/xdg-desktop-portal-xapp/compare/1.1.3...HEAD)
