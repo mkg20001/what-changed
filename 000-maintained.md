@@ -598,6 +598,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Check null return value from avifImageCreateEmpty</code>](https://github.com/AOMediaCodec/libavif/commit/a854856d05ccd05db91ee49e3c54b4e5a6d70582)
 - [ ] [<code>Make avifAlloc(0) deterministic and fix RWData shrink-to-zero handling (#3212)</code>](https://github.com/AOMediaCodec/libavif/commit/80f489a010fe84f6e3f825105e232e07346bb426)
 - [ ] [<code>Change avifRWStreamFinishBox to return avifResult</code>](https://github.com/AOMediaCodec/libavif/commit/b76fe84462a20023c6c9990f592e364bbd37f83a)
+- [ ] [<code>avifenc: refer to standard input in error message</code>](https://github.com/AOMediaCodec/libavif/commit/1eb52718e253cf542452b47bf3042ab79594736e)
+- [ ] [<code>Switch to AVM's new repository on GitHub</code>](https://github.com/AOMediaCodec/libavif/commit/729927c8d6c27159f5a97c41cf218d8244dc8897)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -14211,6 +14213,32 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(codex): bridge computer use elicitations</code>](https://github.com/openclaw/openclaw/commit/404fd6d9abceea9123a856971c1fb7ffb02cea8f)
 - [ ] [<code>fix(slack): normalize approval user ids (#84671)</code>](https://github.com/openclaw/openclaw/commit/9e4eca00ff0ffc1de05f1a3784bb6a98bdb8146e)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(doctor): migrate invalid thinking formats (#84626)</code>](https://github.com/openclaw/openclaw/commit/6e9d47bd12b0aedb632adde59bac169267fa1dfe)
+- [ ] [<code>chore(release): bump version to 2026.5.20</code>](https://github.com/openclaw/openclaw/commit/7b9066120a345d574edade599e813a7f35ce798d)
+- [ ] [<code>chore(release): refresh generated baselines</code>](https://github.com/openclaw/openclaw/commit/6c7fe5846896d9ab245873cdaa61548518e33240)
+- [ ] [<code>chore(release): update appcast for 2026.5.19</code>](https://github.com/openclaw/openclaw/commit/ec8e7003a66f88b7951501db6ececf7205077da2)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(update): prefer existing npm plugins during repair</code>](https://github.com/openclaw/openclaw/commit/3c3ef6067e01f51f0f12f07231d625c9e5c0e141)
+- [ ] [<code>fix(update): preserve post-core host version</code>](https://github.com/openclaw/openclaw/commit/e57fa51412ccca7e8c9d877a1bed7637f6f55c95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): adopt post-core plugin payloads</code>](https://github.com/openclaw/openclaw/commit/aa687a08cda4930817d7f74ba2639ee41fb3a242)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(update): defer legacy parent plugin repair</code>](https://github.com/openclaw/openclaw/commit/f4dc9b123237d6fc4ac3f270ab5143d09f9c9987)
+- [ ] [<code>fix(update): prefer npm during post-core repair</code>](https://github.com/openclaw/openclaw/commit/2e389b6a46a0e005b53a42c464d1409c99aaf2ef)
+- [ ] [<code>fix: preserve update compatibility host during release upgrades</code>](https://github.com/openclaw/openclaw/commit/1fdeee380e75aa8c2bb4fa8976a6f4973c1fd6c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: preserve node path across setup action steps</code>](https://github.com/openclaw/openclaw/commit/d786b4eb55dfbec534b669ee9fa4c7b1ccebf985)
+- [ ] [<code>ci: extend stable release validation monitors</code>](https://github.com/openclaw/openclaw/commit/6b52105b23ab2e9d948cf963a8f4d5883414b12d)
+- [ ] [<code>test: align release timeout budget expectations</code>](https://github.com/openclaw/openclaw/commit/384451343191f9f6f205aa4bfdc2386168482e45)
+- [ ] [<code>fix(infra): restore symlink rejection in tryReadSecretFileSync (#84711)</code>](https://github.com/openclaw/openclaw/commit/90fd26b602b06751cb556d94c0fc4f69950f6692)
+- [ ] [<code>test(secret-file): cover NickServ + account-level symlinks, narrow inspect catch (#84713)</code>](https://github.com/openclaw/openclaw/commit/4d47f9a4c0385e9d1a9076ca0bed4c3858d9920f)
+- [ ] [<code>fix(approval): route /approve through approval resolver (#84678)</code>](https://github.com/openclaw/openclaw/commit/b58572e283bce6ee947fc833f7aab1cf826953d8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>[codex] Fix macOS app copyright year (#84729)</code>](https://github.com/openclaw/openclaw/commit/5c4c6a42071c57efda8bec3fc81e903d42fa5c0d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>build: suppress rolldown-plugin-dts CommonJS dts warnings from bundled zod locales (#84592)</code>](https://github.com/openclaw/openclaw/commit/cd019cfa412b67c89d2349c57d58a59eac2dcab1)
+- [ ] [<code>Route JSON-mode plugin registration logs to stderr (#84741)</code>](https://github.com/openclaw/openclaw/commit/b3ec4f08d14153b8ab9ebc2d69ef15f7bc4f1d10)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
