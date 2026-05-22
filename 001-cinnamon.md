@@ -263,6 +263,9 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon/commit/124e0356fd59936e45062b013fcb86303095276c)
   - <sub>Tags: <code>6.7.1-unstable</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon/commit/b780321697ddc1c13755743d7aa6ac8e1561c549)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>cinnamon-screenshot.c: Don't apply ssd shadow for tiled, maximized</code>](https://github.com/linuxmint/cinnamon/commit/607217b8f2127fc306e30a578d85b0b70f168b57)
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
 
@@ -367,8 +370,9 @@
 - [ ] [<code>debian: Add automount desktop file for removal.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/d92af861d00c166d8134cda45c04933b4cf34bf3)
 - [ ] [<code>Update csd-disk-space-helper.c (#449)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8e1dfa131ec4914f5f2694511cb5d6ac844a8d3d)
 - [ ] [<code>Don't install the static csd library. (#450)</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/dd21a780743f4d9df1fe058b975a55a9cd151b7c)
-  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>csd-media-keys-manager.c: Replace gnome- with cinnamon-screenshot.</code>](https://github.com/linuxmint/cinnamon-settings-daemon/commit/8fd80da514907dd76d083533b50c6bc373baa180)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [cinnamon-translations](https://github.com/linuxmint/cinnamon-translations): [refs/tags/6.6.2 → HEAD](https://github.com/linuxmint/cinnamon-translations/compare/refs/tags/6.6.2...HEAD)
 
@@ -639,7 +643,9 @@
 - [ ] [<code>.github/workflows: Add generate-test-packages trigger.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/39f7b5855a851ffd9b4b1ae4ce3f37ed42368d6e)
 - [ ] [<code>screenshot.c: Fix failure handling for xfce sessions, use correct</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/03f4df9773e8ee0c7e47bc4fee239f11f28d06d8)
 - [ ] [<code>wallpaper.c: Fix wrong return code.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/9701c70e88f9d220a1b4dd42ae182e6da3e587ff)
+- [ ] [<code>screenshot: Adapt to cinnamon-screensaver, update interface version.</code>](https://github.com/linuxmint/xdg-desktop-portal-xapp/commit/782e2536f0551cdd4b9ee024c1eca049e6005368)
   - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
 
 #### [xreader](https://github.com/linuxmint/xreader): [4.6.4 → HEAD](https://github.com/linuxmint/xreader/compare/4.6.4...HEAD)
 
