@@ -672,6 +672,11 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: correct 0.11.2 release date</code>](https://github.com/steipete/mcporter/commit/9ec79f2b80c033329d5792d1e7dec8d4f93c7db3)
   - <sub>Tags: <code>v0.11.2</code></sub>
 - [ ] [<code>docs: start 0.11.3 changelog</code>](https://github.com/steipete/mcporter/commit/82b19535d84de576ce71310d9ae9e7c9388a62bc)
+- [ ] [<code>fix: fall back to legacy config after empty xdg home (#185)</code>](https://github.com/steipete/mcporter/commit/67e3f5250f2212212bdb99adf95abcb61f5372d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: release 0.11.3</code>](https://github.com/steipete/mcporter/commit/94e65ba0572e06c9830ffd0f9c19dac65e271315)
+  - <sub>Tags: <code>v0.11.3</code></sub>
+- [ ] [<code>docs: start 0.11.4 changelog</code>](https://github.com/steipete/mcporter/commit/0c36a6d3f833f1836641fe276c97351c0f11197b)
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -14002,6 +14007,60 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(installer): handle headless onboarding tty</code>](https://github.com/openclaw/openclaw/commit/504f0dfa36be281606f090d1f94452318911ffe2)
 - [ ] [<code>fix(gateway): allow bearer-auth session history reads (#81815)</code>](https://github.com/openclaw/openclaw/commit/01d95b9757a0a8fc593a957ef1f45a3e800792dd)
 - [ ] [<code>fix(agents): classify auth HTML provider responses (#79900)</code>](https://github.com/openclaw/openclaw/commit/7f4462e5c06d5b87c8eee4380dec1eff9fcbf691)
+- [ ] [<code>fix(cli): reject invalid node run port (#84307)</code>](https://github.com/openclaw/openclaw/commit/8961eae3f022e39402045c4482d7de2919c6016a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(discord): allow component registry ttl override</code>](https://github.com/openclaw/openclaw/commit/ee915cfede0b5c12ef53c575565fa878498dc6e7)
+- [ ] [<code>fix(config): refresh Discord component ttl metadata</code>](https://github.com/openclaw/openclaw/commit/9a4fb3ed7edd549a1342952b9a7d66b10f2a7b5c)
+- [ ] [<code>docs(discord): document component ttl config</code>](https://github.com/openclaw/openclaw/commit/c17a48ccfdcd13eac0765ba7681bf65ce7e8598a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(discord): deep merge agent component config</code>](https://github.com/openclaw/openclaw/commit/814386a10b3edf62784001fb70cc6735ae469c0c)
+- [ ] [<code>fix(discord): cap component ttl at one day</code>](https://github.com/openclaw/openclaw/commit/4c6fe55d20edac011128d4e035599f6a8ebcd2f1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(config): refresh Discord component TTL metadata (#84189) (thanks @100menotu001)</code>](https://github.com/openclaw/openclaw/commit/48bb3b0a74761fa50e2ff5367132595dcff64121)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Fix Ollama cloud API key discovery (#85091)</code>](https://github.com/openclaw/openclaw/commit/5f5e3b45110e38cb57ef9261eecaf9a044644a7d)
+- [ ] [<code>fix(discord): preserve reusable presentation buttons</code>](https://github.com/openclaw/openclaw/commit/0212188cb6432926d9b3572d15580a7e81943a24)
+- [ ] [<code>fix(channels): hint at  when bundled channel module is missing (#76974)</code>](https://github.com/openclaw/openclaw/commit/98af51748d19e79390b7b7575ebd37761044fa8d)
+- [ ] [<code>fix(discord): log component registry error details</code>](https://github.com/openclaw/openclaw/commit/f52db027a0cb896219a441e8964d04d656635691)
+- [ ] [<code>fix(whatsapp): update baileys dependency</code>](https://github.com/openclaw/openclaw/commit/26e64bda14850b3ca1434323a9f8d9cce02710f1)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>chore(release): update appcast for 2026.5.20</code>](https://github.com/openclaw/openclaw/commit/de5f1fa99a096342dea5e72f19c933cf414a6980)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>fix(whatsapp): remove baileys logger patch</code>](https://github.com/openclaw/openclaw/commit/c5e8bd08b85e9d06ce5d95193f3cde3dfdd9f3b9)
+- [ ] [<code>Fix Discord session recovery abort ownership (#85100)</code>](https://github.com/openclaw/openclaw/commit/0ab1449215f51c9fd0fc08cab792d45b4e654160)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(plugin-sdk): add session entry workflow helpers</code>](https://github.com/openclaw/openclaw/commit/cabb55380f84fe745ef23d2f980c8a4a2748da21)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(release): respect stable ClawHub channel</code>](https://github.com/openclaw/openclaw/commit/8aabb79a830754c0540f6a5704a3f88397bc9620)
+- [ ] [<code>fix(qa): accept Telegram no-reply timeout details</code>](https://github.com/openclaw/openclaw/commit/75a011977d1e130dd54c47b5becfb9ef428b5fcb)
+- [ ] [<code>test(parallels): allow npm smoke host ip override</code>](https://github.com/openclaw/openclaw/commit/61150870e2d056a04437ab25e3abdca094860d96)
+- [ ] [<code>Handle Codex turns missing completion (#85107)</code>](https://github.com/openclaw/openclaw/commit/7cda26aa6c72eaccf09fcf3bb21933f03958c680)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agents): tolerate in-process session writes during prompt release (#84250)</code>](https://github.com/openclaw/openclaw/commit/1b77145687ca6c5234d8f853e155199340e637f4)
+- [ ] [<code>fix(cli): preserve numeric config set record keys (#83769)</code>](https://github.com/openclaw/openclaw/commit/6b5eba1f433aad41abb075ae160d7823a6b16962)
+- [ ] [<code>docs: credit per-agent lean changelog entry</code>](https://github.com/openclaw/openclaw/commit/d4c6bdfeaeff19a928f39c2fe962f656c4db253c)
+- [ ] [<code>perf(plugins): thread install records through plugin load options (#85026)</code>](https://github.com/openclaw/openclaw/commit/dca9cecaeed9577375988e4ccb3d94023d1c7e57)
+- [ ] [<code>ci(release): link durable release evidence</code>](https://github.com/openclaw/openclaw/commit/08f66133ef9a1c91ea94170c32cec3fc2150d3e6)
+- [ ] [<code>fix: harden autoreview target handling</code>](https://github.com/openclaw/openclaw/commit/373e3fc71927f79ed828d07db4fca3a5ca3e7f12)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): surface blocked subagent completions (#80886)</code>](https://github.com/openclaw/openclaw/commit/c2004fe6622d117ee546c1c9b633b47b00fad532)
+- [ ] [<code>fix: harden codex sandbox execution</code>](https://github.com/openclaw/openclaw/commit/ba06376c79550e52bfb51008a0622bed4dc53637)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(release): bump version to 2026.5.21</code>](https://github.com/openclaw/openclaw/commit/e2c92be90b06baf07f8557867949c687e3e82c51)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa-lab): add long-context watchdog scenario</code>](https://github.com/openclaw/openclaw/commit/fad1c8a0711e1c06a5d70046b8cae4b732274ed3)
+- [ ] [<code>fix(update): reject openclaw source package targets</code>](https://github.com/openclaw/openclaw/commit/15a0156a8cdabcf6b786d151b047cd32b1dca282)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(qa-lab): tag live-only runtime sentinels</code>](https://github.com/openclaw/openclaw/commit/f015c3ff5236c70ddf2d85d2a80feab1af8a8e44)
+- [ ] [<code>fix(gateway): mirror source message sends into transcript (#84837)</code>](https://github.com/openclaw/openclaw/commit/0df9f297b60cd774cc5f81b4b4143327dda79e0d)
+- [ ] [<code>fix: allow provider timeout overlays (#83990)</code>](https://github.com/openclaw/openclaw/commit/bc9e601491ba8b0d6abbb0fbbd59fd0be454a70f)
+- [ ] [<code>fix(codex): await computer use elicitation bridge (#85117)</code>](https://github.com/openclaw/openclaw/commit/777a113973e9871ede562cb701e7f9d2f575446e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>enhance(slack): deliver native plugin approvals (#85062)</code>](https://github.com/openclaw/openclaw/commit/7f499643b232472de6cbcb4f558bbb96e4f6175e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: refactor plugin bundle docs</code>](https://github.com/openclaw/openclaw/commit/6fe3088bc68a6a89032efebf5cdf2639ea14d9ac)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix: address issue (#81069)</code>](https://github.com/openclaw/openclaw/commit/0aabaebba17280f67f2cec88acc1d6f5c615c39a)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
