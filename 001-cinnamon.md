@@ -307,8 +307,12 @@
 - [ ] [<code>gnome-desktop-thumbnail.c: Support a (mimetype argument to</code>](https://github.com/linuxmint/cinnamon-desktop/commit/37f34a3b2390a96221f7b73262eb7cd652161d98)
   - <sub>Keywords: <code>exec</code></sub>
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-desktop/commit/b835c44f130fa9b771e4633cd5f559aa07632898)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Fix build for non seccomp arches (#272)</code>](https://github.com/linuxmint/cinnamon-desktop/commit/8cc65c781d798cc510b424d450899f7912ec33d3)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Files: <code>meson.build</code></sub>
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [cinnamon-menus](https://github.com/linuxmint/cinnamon-menus): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-menus/compare/refs/tags/6.6.0...HEAD)
 
@@ -398,9 +402,12 @@
 
 #### [mint-l-theme](https://github.com/linuxmint/mint-l-theme): [refs/tags/2.0.7 → HEAD](https://github.com/linuxmint/mint-l-theme/compare/refs/tags/2.0.7...HEAD)
 
+- [ ] [<code>cinnamon: Adapt to PopupDialog changes.</code>](https://github.com/linuxmint/mint-l-theme/commit/7bc7688104f6d5dd83379dd3e023c3f3c43d0ff1)
 
 #### [mint-themes](https://github.com/linuxmint/mint-themes): [2.4.0 → HEAD](https://github.com/linuxmint/mint-themes/compare/2.4.0...HEAD)
 
+- [ ] [<code>cinnamon: Add support for PopupDialog.</code>](https://github.com/linuxmint/mint-themes/commit/dbacada3d9a64474a2f2068efda4c9b40b1c39bc)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [mint-x-icons](https://github.com/linuxmint/mint-x-icons): [1.7.5 → HEAD](https://github.com/linuxmint/mint-x-icons/compare/1.7.5...HEAD)
 
