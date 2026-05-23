@@ -604,6 +604,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Fix bug in avifToLinearIEC61966 (#3218)</code>](https://github.com/AOMediaCodec/libavif/commit/eb6e0e6c9017935bd8ac54b01b55a4c330f5e976)
 - [ ] [<code>Update to libaom v3.14.1</code>](https://github.com/AOMediaCodec/libavif/commit/9bf3dd48dcd947c9946aa68d30c1c4b9c642f3dc)
 - [ ] [<code>Bump libpng to 1.6.58</code>](https://github.com/AOMediaCodec/libavif/commit/b28a5b1d871e7dcc75d2f5da9bcc4090bf4c2457)
+- [ ] [<code>Use std::array for pixel buffers in avifrgbtest</code>](https://github.com/AOMediaCodec/libavif/commit/6a3615c508fcfd69772c4ce4775d01ddfe9b5e6d)
+- [ ] [<code>Bump libjpeg-turbo to 3.1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/7d67150badf57c2389877af71461bf889041090c)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -680,6 +682,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>chore: release 0.11.3</code>](https://github.com/steipete/mcporter/commit/94e65ba0572e06c9830ffd0f9c19dac65e271315)
   - <sub>Tags: <code>v0.11.3</code></sub>
 - [ ] [<code>docs: start 0.11.4 changelog</code>](https://github.com/steipete/mcporter/commit/0c36a6d3f833f1836641fe276c97351c0f11197b)
+- [ ] [<code>chore: add constrained Crabbox setup</code>](https://github.com/steipete/mcporter/commit/1c5e96483e68dfb1d74f52e42ed49cb8423dfe8c)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 > Dropped mslink - no appropriate URL found OrderedDict({'attr_path': 'mslink', 'home_url': 'http://www.mamachine.org/mslink/index.en.html', 'src_url': 'http://www.mamachine.org/mslink/mslink_v1.3.tar.gz', 'urls': ['http://www.mamachine.org/mslink/mslink_v1.3.tar.gz'], 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -14451,6 +14455,72 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(slack): surface auth.test failure + normalize explicit-bot mention check (#85101)</code>](https://github.com/openclaw/openclaw/commit/995a02033decdf78f105ba4eb70e3095b9e74308)
 - [ ] [<code>fix: guard openai-completions tool payload with supportsTools compat flag (#74738)</code>](https://github.com/openclaw/openclaw/commit/76a025c2fd85747f8d6c3703a883adda40ae0244)
 - [ ] [<code>fix(security): escape entry.id in HTML export to prevent attribute XSS (#83104)</code>](https://github.com/openclaw/openclaw/commit/7bc4a333aa09caa38d369470590e5915f93e642b)
+- [ ] [<code>Add TUI PTY integration coverage (#85485)</code>](https://github.com/openclaw/openclaw/commit/0a50cbdf345d59034e48308a901c5018a883d936)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: cancel stale provider auth prewarms (#85503)</code>](https://github.com/openclaw/openclaw/commit/60e3749de339e8fd942be9e278222d5aa3cec0e2)
+- [ ] [<code>docs: absorb docs sweep</code>](https://github.com/openclaw/openclaw/commit/bb5010b89a5a2b1dfe03e15e03f7d648ce21daa1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(installer): tolerate WSL UNC launch cwd</code>](https://github.com/openclaw/openclaw/commit/684a9b2e6edb5ab0fcdccb8ce3abe93614b95bca)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>ci: unblock advisory Tideclaw alpha release checks</code>](https://github.com/openclaw/openclaw/commit/dcfc7e58fafa0b25fc7d71a61e611367b855acaf)
+- [ ] [<code>Policy: add gateway exposure checks (#81981)</code>](https://github.com/openclaw/openclaw/commit/dcc5e45b5006cafa9efc93a58f3e6c972ce856b9)
+- [ ] [<code>docs: require visual proof for control ui e2e (#85513)</code>](https://github.com/openclaw/openclaw/commit/8174bfc734cd1e63f119ac0f70eb4b17b4277266)
+- [ ] [<code>fix: recover stuck Codex compaction</code>](https://github.com/openclaw/openclaw/commit/44d5330993ce7856446a6e15272e1a78ec1b54b6)
+- [ ] [<code>test: align release validation package acceptance check (#85515)</code>](https://github.com/openclaw/openclaw/commit/423f525438b1c7ba7f4e45f7087fbae0fb844389)
+- [ ] [<code>fix(agents): handle parallel tool call deltas in openai-completions stream (#82263)</code>](https://github.com/openclaw/openclaw/commit/bf1a22ced4cc0e25dd144059aff99a3420b34696)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory): report qmd workspace cwd probe failures (#63167)</code>](https://github.com/openclaw/openclaw/commit/7134a95c903331c89ecd660fed0fe39e0894b127)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(proxy): add missing clientSocket error handler in CONNECT tunnel (#82444)</code>](https://github.com/openclaw/openclaw/commit/e008bc92c396be326630301bbf540c331b90cf33)
+- [ ] [<code>fix(diffs): continue after card hydration errors (#84775)</code>](https://github.com/openclaw/openclaw/commit/9b5c281a3a07c1026a64ae1bbd81d1ffbb947966)
+- [ ] [<code>docs: add bugbash landing changelog entries</code>](https://github.com/openclaw/openclaw/commit/faad2b0a7160eb1436c8d6d47bce0c7ca216e953)
+- [ ] [<code>fix(media): replace Gemini CLI fallback with sandboxed Antigravity (#85518)</code>](https://github.com/openclaw/openclaw/commit/0622fb6d90a11c60712ed490044925e321607d2c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore: ignore antigravity cli state</code>](https://github.com/openclaw/openclaw/commit/dd07fb400fc5e6f5b52d1cc8c9d983521d5d2263)
+- [ ] [<code>fix: use native mac settings sidebar</code>](https://github.com/openclaw/openclaw/commit/0556958d82d7fe1ebc6170a572f75855a3750106)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: simplify chat session search</code>](https://github.com/openclaw/openclaw/commit/7e16a50c7eac293712c0b41c8ad9e4bbea7e318f)
+- [ ] [<code>fix(update): prepack npm git update specs</code>](https://github.com/openclaw/openclaw/commit/84f6b5c7f8de9217b8ac9e63a912392aedbad443)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>docs: refresh contributor docs</code>](https://github.com/openclaw/openclaw/commit/64d13c017a5ead063a3e18d10a3c8ee058ee5509)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>feat: start onboarding for fresh CLI installs (#85519)</code>](https://github.com/openclaw/openclaw/commit/464ffc10034f385717680b4ed517702d5a5e182c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: keep session picker focus separate</code>](https://github.com/openclaw/openclaw/commit/7e1237032bfd5515d7f1a420c984b00f9f72dacf)
+- [ ] [<code>fix: reuse provider auth lookup facts (#85499)</code>](https://github.com/openclaw/openclaw/commit/299ed808347ce72ac904f7fd7f396073462b28f0)
+- [ ] [<code>docs: tighten landable bug sweep gates</code>](https://github.com/openclaw/openclaw/commit/8f8638393ef46c18a0f627ae22d980d9faaebf44)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: absorb contributor documentation fixes</code>](https://github.com/openclaw/openclaw/commit/b3622beecb11291b539ab4161ed88bfd064c4a81)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(google): print Gemini OAuth URL before browser launch (#71469)</code>](https://github.com/openclaw/openclaw/commit/2d5bda91994a1b0f35d99e96658bbf11fb088c10)
+- [ ] [<code>fix(skills): restore executable bit on bundled whisper script + release-time check (#41351)</code>](https://github.com/openclaw/openclaw/commit/1dd3b52cb760d84620b80cf28cd0895fed1f8a90)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>dependency</code></sub>
+- [ ] [<code>fix(telegram): honor outbound media max bytes (#83478)</code>](https://github.com/openclaw/openclaw/commit/f2d4f9328cd0d699fbbae69eab380ea8d5bb1286)
+- [ ] [<code>fix(scripts): preserve bws resolver parse errors (#85528)</code>](https://github.com/openclaw/openclaw/commit/13a4c579910a7dd816ecffec11c26a27f44c1b61)
+- [ ] [<code>docs: absorb small documentation PRs</code>](https://github.com/openclaw/openclaw/commit/658be7f1c721138ce6c0110eeed60506442f9c9e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(codex): stabilize heartbeat dynamic tool schema (#84681)</code>](https://github.com/openclaw/openclaw/commit/c52daa4cdf6ae0539607aba036c2611756a50dd4)
+- [ ] [<code>fix(openai-codex): preserve image input capability (#85393)</code>](https://github.com/openclaw/openclaw/commit/49ce171aa588746fc08f14bb4db4c1c736795256)
+- [ ] [<code>fix(dreaming): open report cards from memory palace (#85144)</code>](https://github.com/openclaw/openclaw/commit/2e15830d021d9b64e4800ae23269c995cf02aac3)
+- [ ] [<code>fix(cron): document best-effort edit delivery mode (#84526)</code>](https://github.com/openclaw/openclaw/commit/1cd6dce07550bce9feeb118e3707247035662463)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Scope config preflight note suppression (#84439)</code>](https://github.com/openclaw/openclaw/commit/91d85e70c3e7bd06ef6bfe090e8493030652c914)
+- [ ] [<code>Fix heartbeat message-tool delivery policy (#85357)</code>](https://github.com/openclaw/openclaw/commit/bd9c78f957b8abf1bd69cd3b0c3531de23965c3c)
+- [ ] [<code>fix: use fs-safe trash for agent delete (#84394)</code>](https://github.com/openclaw/openclaw/commit/951bbe67b08203e51b89f993acb6ff9f53b7c061)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(changelog): note heartbeat message-tool fix</code>](https://github.com/openclaw/openclaw/commit/c1273342d32003ff755b5a83cd5ac63f69d2af13)
+- [ ] [<code>fix: honor openai video provider request network policy</code>](https://github.com/openclaw/openclaw/commit/cc48c34f91dcefc84b7c32639f6bfefb43943613)
+- [ ] [<code>fix: thread openai video request policy</code>](https://github.com/openclaw/openclaw/commit/31b51455942caac5448b5b34d0d9147fa68acdfd)
+- [ ] [<code>fix: preserve guarded video operation cleanup</code>](https://github.com/openclaw/openclaw/commit/ed7d99aa0edb69a18960b2fcc9aa9fc90115cf5b)
+- [ ] [<code>fix: retry guarded video downloads</code>](https://github.com/openclaw/openclaw/commit/efbf9f3d4657b673cc34bdd115627a68549627ee)
+- [ ] [<code>Revert chat session picker inline search (#85527)</code>](https://github.com/openclaw/openclaw/commit/d69bcfd933aa1e58f6792c3a78b0dadb48ad6713)
+- [ ] [<code>docs: fix troubleshooting logs link (#85545)</code>](https://github.com/openclaw/openclaw/commit/60582b671b3d05f0f575b03fd6f1671fc16db307)
+- [ ] [<code>fix(ui): run ui script through junction paths (#85525)</code>](https://github.com/openclaw/openclaw/commit/ad19dd8691e2af0a66337ada5f1fe6ae2b013058)
+- [ ] [<code>fix(testbox): preserve clean sparse checkouts</code>](https://github.com/openclaw/openclaw/commit/58e9628300aae38b037f755dc04755e213877e88)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(qmd): normalize direct file collection paths (#65212)</code>](https://github.com/openclaw/openclaw/commit/227b4bffee0c8d624cd9e75fee5c0e323f055d34)
+- [ ] [<code>fix: route openai video edits to edits endpoint</code>](https://github.com/openclaw/openclaw/commit/6c3fcb8bfca11176208e9fbed7e7b7eb14e30d5b)
+- [ ] [<code>fix: satisfy openai video test typecheck</code>](https://github.com/openclaw/openclaw/commit/743caedb052a119274f03cbe98c44a39446f1452)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
