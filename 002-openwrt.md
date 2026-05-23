@@ -72,6 +72,10 @@
 - [ ] [<code>blobmsg: fix integer overflow in blobmsg_realloc_string_buffer()</code>](https://git.openwrt.org/project/libubox.git/commit/8c9862b6921b8fa7a53a5454ceb62286eed64ba4)
 - [ ] [<code>ustream: avoid INT_MAX overflow on malloc in ustream_vprintf()</code>](https://git.openwrt.org/project/libubox.git/commit/5fbef5bb94fbddba71d43d816d637c13c8ddf4d3)
 - [ ] [<code>md5: detect read errors in md5sum() instead of returning a bogus hash</code>](https://git.openwrt.org/project/libubox.git/commit/1501e60e5554bd206c9b13532b7352e668508420)
+- [ ] [<code>json_script: use size_t for calloc_a() length argument</code>](https://git.openwrt.org/project/libubox.git/commit/19e88cc41288478ae01d9246065ad319f9ca4e8e)
+- [ ] [<code>udebug-remote: pass size_t to calloc_a()</code>](https://git.openwrt.org/project/libubox.git/commit/9afc710534817a3066e42542b3ef07ccd1e903a7)
+- [ ] [<code>treewide: use size_t for length variables to avoid implicit narrowing</code>](https://git.openwrt.org/project/libubox.git/commit/73a21977c52a47f9a0ccb6116553083b118d0084)
+- [ ] [<code>blob, udebug-remote: silence -Wconversion warnings in trivial cases</code>](https://git.openwrt.org/project/libubox.git/commit/1fe93d2fefb213ec987763e7e94ce5eaa757bfc3)
 
 #### [netifd](https://git.openwrt.org/project/netifd.git): [69a5afc9713adf31edbf3228a7a372ada7bba449 → HEAD](https://git.openwrt.org/project/netifd.git/compare/69a5afc9713adf31edbf3228a7a372ada7bba449...HEAD)
 
