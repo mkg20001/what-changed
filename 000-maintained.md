@@ -621,49 +621,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 
 - [ ] [<code>Change regex to adapt to new url</code>](https://github.com/Avature/lxd-image-server/commit/2e01cc64ae84699bc6ab09df2ebf50def6e809e9)
 
-#### [mcporter](https://github.com/steipete/mcporter): [refs/tags/v0.10.2 → HEAD](https://github.com/steipete/mcporter/compare/refs/tags/v0.10.2...HEAD)
+#### [mcporter](https://github.com/steipete/mcporter): [refs/tags/v0.11.1 → HEAD](https://github.com/steipete/mcporter/compare/refs/tags/v0.11.1...HEAD)
 
-- [ ] [<code>docs: add shell syntax highlighting</code>](https://github.com/steipete/mcporter/commit/5d71e9ce4937195b9029a915e5167abeb0e94085)
-- [ ] [<code>fix: resolve config env placeholders</code>](https://github.com/steipete/mcporter/commit/ea9108627350e5f393ec80678ae1f6e94694a742)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat: add headless OAuth vault seeding</code>](https://github.com/steipete/mcporter/commit/a64e29b4fea38cb9f3457e149cf059994bac3747)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: generate llms index</code>](https://github.com/steipete/mcporter/commit/ed698d9e482310b6efab137cae1e6be3841b12d2)
-- [ ] [<code>style: format docs site builder</code>](https://github.com/steipete/mcporter/commit/0ea394356f311c780f4341595446c236c0ac6f10)
-- [ ] [<code>fix(oauth): refresh expired cached access tokens</code>](https://github.com/steipete/mcporter/commit/f9f60d7cc45aeec58fe7853cb63d7fc2ba0dfdf0)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat: add OAuth no-browser session support</code>](https://github.com/steipete/mcporter/commit/033abb4358e61f241d7f1947e8ce998736f0f278)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat: add no-browser auth CLI contract</code>](https://github.com/steipete/mcporter/commit/b29854ebf2d905aa012b6937889dec33f673eccd)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>docs: document headless OAuth auth flow</code>](https://github.com/steipete/mcporter/commit/7ddb433479244d1477985481d1f462cd53d31c46)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat: add mcporter serve bridge</code>](https://github.com/steipete/mcporter/commit/6879a69f49e724f34981787a4d7d91caa41dd5ff)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: cover serve daemon edge cases</code>](https://github.com/steipete/mcporter/commit/bfe727150c9479953da29f7166370e849bde3e5f)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: disambiguate bridged tool names</code>](https://github.com/steipete/mcporter/commit/89f5053c15b2d04b24c3d8119fff5392cdba662f)
-- [ ] [<code>fix: patch chrome-devtools auto-connect hang</code>](https://github.com/steipete/mcporter/commit/eee954e4a143dd5c0c8cfc2259acae505a75adde)
-  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
-- [ ] [<code>fix: keep served tool names readable</code>](https://github.com/steipete/mcporter/commit/907ba78d983426d5459d48373089393e6ae3c1ab)
-- [ ] [<code>Merge remote-tracking branch 'origin/main' into feat/mcporter-serve</code>](https://github.com/steipete/mcporter/commit/8d962fbd79fc5df85dbfdd8baf561fead94d15fd)
-- [ ] [<code>fix: harden concurrent config writes</code>](https://github.com/steipete/mcporter/commit/23565e21669f2b0eef175e7b92d699ebc59cae0a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: preserve headless auth stdout</code>](https://github.com/steipete/mcporter/commit/33afa744e069000290dd023871e7d83e6786a94a)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>fix: add HTTP fetch compatibility mode</code>](https://github.com/steipete/mcporter/commit/3e06e582ef20a7cd305dc3a7136036380414ce19)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>feat: support refreshable bearer stdio auth</code>](https://github.com/steipete/mcporter/commit/7f1e9a8ce0b941c8506a7a10bdb78a45cb2ac9d5)
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>ci: strengthen main workflow</code>](https://github.com/steipete/mcporter/commit/c87150895dd5145cb072ff75efa262c21314bdad)
-  - <sub>Keywords: <code>exec</code></sub>
-- [ ] [<code>chore: release 0.11.0</code>](https://github.com/steipete/mcporter/commit/2ce585a1eb72414dc32002befd7ea7d31c77701b)
-  - <sub>Tags: <code>v0.11.0</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
-- [ ] [<code>chore: open 0.11.1 changelog</code>](https://github.com/steipete/mcporter/commit/dd000bdec44be3bcab58bcc58aa5a969ef8b4f1e)
-- [ ] [<code>fix: harden generated cli bundles</code>](https://github.com/steipete/mcporter/commit/46cc31cafe1ac3d936358392a32a35624a67739b)
-  - <sub>Tags: <code>v0.11.1</code></sub>
-  - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore: start 0.11.2 changelog</code>](https://github.com/steipete/mcporter/commit/5ec589698f431f19a0560929573388256c4d8604)
 - [ ] [<code>chore: bump development version to 0.11.2</code>](https://github.com/steipete/mcporter/commit/cbd84fd6d2aef93c7cc4f07008f7257008a0e9d5)
 - [ ] [<code>chore(deps): update dependencies</code>](https://github.com/steipete/mcporter/commit/ae3b83cecb0b69afc1e3e69e3730405bcca8ea91)
@@ -14742,6 +14701,85 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>test: make Codex diagnostic test deterministic</code>](https://github.com/openclaw/openclaw/commit/f6b332c7354375681c3151b9454587a158e2ea38)
 - [ ] [<code>fix(ollama): bypass managed proxy for loopback embeddings (#85707)</code>](https://github.com/openclaw/openclaw/commit/fd2a9adbe6b0a38cd2eb348376e58d237d40df3c)
   - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: use channel target resolution APIs (#85814)</code>](https://github.com/openclaw/openclaw/commit/c4f0da00a9fec2db072b1e398c16fe5032f0614d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: isolate Codex terminal release decision</code>](https://github.com/openclaw/openclaw/commit/00388134c4ed9b5e70929a5a50b29efda2f2aef1)
+- [ ] [<code>Adapt image compression quality by model (#85742)</code>](https://github.com/openclaw/openclaw/commit/4c210e22fa973068134c0544d0c6ff0f14a683d4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test: isolate Codex terminal batch scheduler</code>](https://github.com/openclaw/openclaw/commit/6a3781dd7f5a253df6d41829d45c2004f4192d2b)
+- [ ] [<code>feat(whatsapp): support thumb approval reactions (#85477)</code>](https://github.com/openclaw/openclaw/commit/5fbaf2a8a2367508a12f4194a628ba326d524cf3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: route Codex image API keys through OpenAI</code>](https://github.com/openclaw/openclaw/commit/38e1654e098895d6677df257ec6b3f2b62a6b959)
+- [ ] [<code>test: isolate Codex native item release guard</code>](https://github.com/openclaw/openclaw/commit/cd102efb701ac15ea92a1e85235d3adf0aca9034)
+- [ ] [<code>feat(agents): expose estimated context budget status</code>](https://github.com/openclaw/openclaw/commit/05c6e7a553916855904b4bb9d11de6ad74750d6b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: drain Codex app-server attempts</code>](https://github.com/openclaw/openclaw/commit/a705a9c911bc9d26a03df78efb58e97c9216fa8b)
+- [ ] [<code>fix(discord): keep forced voice consult diagnostics private (#84411)</code>](https://github.com/openclaw/openclaw/commit/f603fa58fec7f4b0cd4d50255d34d759a8e39861)
+- [ ] [<code>test: isolate Codex terminal diagnostic fallback</code>](https://github.com/openclaw/openclaw/commit/fa5c8345f38b2ee41dad0f3df432321657de280b)
+- [ ] [<code>test: isolate Codex duplicate terminal diagnostics</code>](https://github.com/openclaw/openclaw/commit/f6204d081fc35574c86c0df36fed0cced43db8ef)
+- [ ] [<code>test: isolate Codex hook channel context</code>](https://github.com/openclaw/openclaw/commit/32a80d995404c1e3207a6f1519574760596b763e)
+- [ ] [<code>test: isolate Codex replay timeout outcome</code>](https://github.com/openclaw/openclaw/commit/1b68dbe95ad51f28237380bf484e6dda2dd8158c)
+- [ ] [<code>chore: sync autoreview skill snapshot</code>](https://github.com/openclaw/openclaw/commit/2cd73d4c89b60bbd06c88e63cb6c06ad2c0a2a32)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(channels): honor /verbose in group sessions (#85488)</code>](https://github.com/openclaw/openclaw/commit/45fbf2d81a0e6955d977bc4b1c7d29458c2894d0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>perf: reuse plugin metadata snapshots (#85843)</code>](https://github.com/openclaw/openclaw/commit/431467405486ad0cde9a739997c4e17924deccf5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: speed up agent tool tests</code>](https://github.com/openclaw/openclaw/commit/b52c31fe0e12d4c36a6214d066af31fd2c36d835)
+- [ ] [<code>ci: mount local installer scripts in smoke containers</code>](https://github.com/openclaw/openclaw/commit/4cc2b293db9e2ca29c213b2f2570c0111c222bf3)
+- [ ] [<code>fix(gateway): preserve deferred lifecycle errors</code>](https://github.com/openclaw/openclaw/commit/9d56f4aa14a843e6df902f732d0941e59217b16d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(gateway): preserve lifecycle cleanup</code>](https://github.com/openclaw/openclaw/commit/bc2d501b1dcbfb02f966016290679cfe395695a6)
+- [ ] [<code>fix: preserve gateway lifecycle error cleanup (#85256) (thanks @samzong)</code>](https://github.com/openclaw/openclaw/commit/6394dd1ac5fe2e207deeab73bb8f67ef74ea56ec)
+- [ ] [<code>fix(agents): omit empty tools array for proxy-like openai-completions endpoints</code>](https://github.com/openclaw/openclaw/commit/75081569b047b7117632f67901f8776d604e6af5)
+- [ ] [<code>fix: omit empty proxy tools (#85835)</code>](https://github.com/openclaw/openclaw/commit/69e8039f9ad7450de0c2292aa5a8335e4b1a3fba)
+- [ ] [<code>fix(browser): bypass managed proxy for loopback CDP</code>](https://github.com/openclaw/openclaw/commit/a37ebb2d496c8effed2626078a04867d4b67d5b1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix: summarize internal webchat message tool results</code>](https://github.com/openclaw/openclaw/commit/83c2e96a16e8635106ae783322a10a67b318644d)
+- [ ] [<code>docs: add changelog for webchat tool result fix (#84773)</code>](https://github.com/openclaw/openclaw/commit/bb947eed6ceb155a3b083dc9ca3e7b10e5d1b0f3)
+- [ ] [<code>fix(gateway): omit stream-error placeholders from agent prompts (#85652)</code>](https://github.com/openclaw/openclaw/commit/0050245bc7bf4fbab8b0e727aa180e5555d5b4a9)
+- [ ] [<code>fix(whatsapp): serialize Error in auto-reply delivery log (#85777)</code>](https://github.com/openclaw/openclaw/commit/f0ec7309fc87d949d16aebf755b2c57512286afe)
+- [ ] [<code>fix(twitch): evict client manager on disconnect failure (#85796)</code>](https://github.com/openclaw/openclaw/commit/0c044596c5bfa854a3280a58e981f5c70bdb2c77)
+- [ ] [<code>fix(webchat): scope attachment button input</code>](https://github.com/openclaw/openclaw/commit/cf70bdcceb899c1663422f10515bbc40db529b25)
+- [ ] [<code>docs: require blame-backed bug provenance</code>](https://github.com/openclaw/openclaw/commit/ec0e76792cf5e9a8805c6e64f0d5b8bc0d1d5116)
+- [ ] [<code>fix(telegram): cache outbound replies for context</code>](https://github.com/openclaw/openclaw/commit/3cf806d172158bbc11557ad8a5f8887fba04297d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: split subagent delivery state</code>](https://github.com/openclaw/openclaw/commit/d73f3ac85d5fd68cecf33dd474e69372fadf22f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(backup): dereference archive hardlinks</code>](https://github.com/openclaw/openclaw/commit/d8a2cd5204052122a42f8b3be38cecc5d27f124a)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(backup): reject missing hardlink targets</code>](https://github.com/openclaw/openclaw/commit/77d115761805a8578e1c876093189b3d7d6acff3)
+- [ ] [<code>docs: thank backup hardlink contributor (#83938)</code>](https://github.com/openclaw/openclaw/commit/846f56642bbb3083a1b7c2df1360c4133806064d)
+- [ ] [<code>fix(cli-runner): keep recent tail when reseed history exceeds maxHistoryChars (#83117)</code>](https://github.com/openclaw/openclaw/commit/5c4a733912a813df8fe583ddde556bda687f518b)
+- [ ] [<code>fix(sandbox): mount workspace skills read-only</code>](https://github.com/openclaw/openclaw/commit/1b7bf4a56f9c92c0ddb78b26f547a13e4f25996d)
+- [ ] [<code>fix(sandbox): block bridge writes to workspace skills</code>](https://github.com/openclaw/openclaw/commit/9e5b416130a362bef9ca3f4e8763469936e7af5e)
+- [ ] [<code>fix(sandbox): block remote bridge writes to skills</code>](https://github.com/openclaw/openclaw/commit/71528069509177b55c7f4f35ccbbb0e04e760e44)
+- [ ] [<code>test(sandbox): resolve skill roots read-only</code>](https://github.com/openclaw/openclaw/commit/07abb1943104ae66063ef02d69379741be639908)
+- [ ] [<code>fix(sandbox): filter remote skill mounts by existing roots</code>](https://github.com/openclaw/openclaw/commit/dd5fb1e71f24f7f3e5db0de5b2238e086af0a3e1)
+- [ ] [<code>test(sandbox): allow remote writes under absent skill roots</code>](https://github.com/openclaw/openclaw/commit/10942102e346c0e5cbddd231afab68d78acd4970)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: harden sandbox skill mounts (#85591)</code>](https://github.com/openclaw/openclaw/commit/a3526789a44f7831e50ebdd7d42ae2b1320c432d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: guard remote sandbox skill roots (#85591)</code>](https://github.com/openclaw/openclaw/commit/a8f68877a5c047f3c8fb7b1fd6a6fddcccf6e5a2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: close remote sandbox skill symlink aliases (#85591)</code>](https://github.com/openclaw/openclaw/commit/68487f494c34ead9c5d40d9645009a71232bd6bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve sandbox skill overlay precedence (#85591)</code>](https://github.com/openclaw/openclaw/commit/a0f6ce03ce883778ddb4b11da10421c9af4a5d9b)
+- [ ] [<code>fix: order meeting notes startup around channels</code>](https://github.com/openclaw/openclaw/commit/e2249d8d1eabe4015273427a525d8e9d03faf23d)
+- [ ] [<code>perf: reduce gateway benchmark filesystem churn</code>](https://github.com/openclaw/openclaw/commit/e5534dd2f3e0560f0e5d3369ce3facaacb5d2052)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>docs: codify gateway plugin metadata stability</code>](https://github.com/openclaw/openclaw/commit/d4299dcbaa533a6a6f6e38bcd59f4313f8db821f)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: simplify channel catalog cache</code>](https://github.com/openclaw/openclaw/commit/a1c2d093c2f93ee5850f15bd76eb643d3de54dba)
+- [ ] [<code>fix(session-lock): enforce maxHoldMs in shouldReclaim during lock acquisition (#85764)</code>](https://github.com/openclaw/openclaw/commit/a1eb765f0a322d291d9b8ddc62840801af5d8cbc)
+- [ ] [<code>Policy: add tool posture conformance checks (#85482)</code>](https://github.com/openclaw/openclaw/commit/1e2e6147480cfd24bd23e7ada99f9186e6be1fc8)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs(policy): add policy rule reference tables (#85795)</code>](https://github.com/openclaw/openclaw/commit/4ffbd07c06a8b2fa5d8a5b8bf10363dbbf37ce72)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix #84857: skip CLI runtime harness preflight during compaction (#85862)</code>](https://github.com/openclaw/openclaw/commit/fa39bef3893d02ac7b261901f4a2aa4d7cf831d1)
+- [ ] [<code>fix(telegram): normalize durable group retry targets (#85656)</code>](https://github.com/openclaw/openclaw/commit/f05f2438248be4f2c1ec3f091a1f29a35a3f9468)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs(skills): prefer latest Parallels snapshots</code>](https://github.com/openclaw/openclaw/commit/acf265d4d51dda5f92ba56dadb24f4d160553065)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
