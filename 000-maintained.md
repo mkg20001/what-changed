@@ -214,6 +214,7 @@
 - [ ] [<code>chore: Remove status header and adjust paddings</code>](https://github.com/krille-chan/fluffychat/commit/af7bc6cafa3bc1e268f8ec12747de1462cca9d62)
 - [ ] [<code>chore: Simplify input row buttons</code>](https://github.com/krille-chan/fluffychat/commit/87feafd9b4e08e8bb0a91ab5e06ccac5c49a37cc)
 - [ ] [<code>chore: Follow up redesign</code>](https://github.com/krille-chan/fluffychat/commit/23e70d4bb6e6d2bf72d512e269378075b11bbba0)
+- [ ] [<code>chore: Follow up redesign</code>](https://github.com/krille-chan/fluffychat/commit/94728fcfcc74fd20541fa4389bd3b4799f57582a)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -227,6 +228,7 @@
 - [ ] [<code>chore: Remove status header and adjust paddings</code>](https://github.com/krille-chan/fluffychat/commit/af7bc6cafa3bc1e268f8ec12747de1462cca9d62)
 - [ ] [<code>chore: Simplify input row buttons</code>](https://github.com/krille-chan/fluffychat/commit/87feafd9b4e08e8bb0a91ab5e06ccac5c49a37cc)
 - [ ] [<code>chore: Follow up redesign</code>](https://github.com/krille-chan/fluffychat/commit/23e70d4bb6e6d2bf72d512e269378075b11bbba0)
+- [ ] [<code>chore: Follow up redesign</code>](https://github.com/krille-chan/fluffychat/commit/94728fcfcc74fd20541fa4389bd3b4799f57582a)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -6965,6 +6967,39 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor(config): extract GoogleChat schema into zod-schema.providers-googlechat.ts (#82100)</code>](https://github.com/openclaw/openclaw/commit/fe34141a3d23cbf45174f1a420a4c44765438af8)
 - [ ] [<code>fix(ui): split control ui runtime chunks</code>](https://github.com/openclaw/openclaw/commit/8bf4f7d4a88d2e370787aa77b6c0558ceb62cfb2)
+- [ ] [<code>perf(plugins,gateway): thread metadata snapshot + discovery through hot paths + plugin owner fixes (#84649)</code>](https://github.com/openclaw/openclaw/commit/8ccb11cbfca7ff3cd03c6e857f3e883e0531b115)
+- [ ] [<code>fix(installer): detect musl linux shells</code>](https://github.com/openclaw/openclaw/commit/acfed375eed17b3b42d43647c10edbb8dd39894f)
+- [ ] [<code>fix(installer): install node with apk on alpine</code>](https://github.com/openclaw/openclaw/commit/367d584ee3bc563bfb74eee96f16017eceb6b41a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): retry Windows kitchen sink probes</code>](https://github.com/openclaw/openclaw/commit/3e275a53dc9ec39d058100442a3247c86bf9f03a)
+- [ ] [<code>fix(installer): avoid before with npm release-age configs (#85491)</code>](https://github.com/openclaw/openclaw/commit/4742db6c3195609e0ed644f1f65aa013ae3fb976)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: add ClawSweeper review policy to AGENTS (#86197)</code>](https://github.com/openclaw/openclaw/commit/242e8767e7a74a2ab486a1db2f3c5dcf6075a33d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(scripts): prefilter conflict marker scans</code>](https://github.com/openclaw/openclaw/commit/500c95b1ba8a7cae365fa3caa0700663a19aa619)
+- [ ] [<code>fix(doctor): migrate Feishu account bot names (#86081)</code>](https://github.com/openclaw/openclaw/commit/9e8cc7e07757cf9b8d17602ca20d0a135cbe501c)
+- [ ] [<code>fix(test): make max Vitest scripts Windows-safe</code>](https://github.com/openclaw/openclaw/commit/b681d5d5a6267e8cd84f94d66ed2534f69aaae7a)
+- [ ] [<code>fix(telegram): transient Telegram pairing prompts (#85555)</code>](https://github.com/openclaw/openclaw/commit/82094268675dd51777a5add856bf0a2a875d1d9c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(test): make import timing scripts Windows-safe</code>](https://github.com/openclaw/openclaw/commit/8ae997749d3ab72405addb07e50487048585edbc)
+- [ ] [<code>fix(agents): cache fallback provider resolution</code>](https://github.com/openclaw/openclaw/commit/3c8d101f5a85192a37acaa09fb5fb928571ab507)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): launch env package scripts on Windows</code>](https://github.com/openclaw/openclaw/commit/4d4ce9e2f3382d5abfeb581157e1fa42388fe4c9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(agents): keep runtime-plan provider mock current</code>](https://github.com/openclaw/openclaw/commit/2a73725b5d6a3f2dfe2add73eaf104c83f650b38)
+- [ ] [<code>fix(installer): support alpine cli installs</code>](https://github.com/openclaw/openclaw/commit/f68ed721b16ce37a18452339c0a34b6b285eb647)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>chore: release 2026.5.25</code>](https://github.com/openclaw/openclaw/commit/c422e7240fb5cbba90fa3e5a2b7e6fb37c61099a)
+- [ ] [<code>fix(config): do not suppress recovery retry after failed backup restore (#85787)</code>](https://github.com/openclaw/openclaw/commit/5d174a5becee989c11d0c0e1679da880e5300a46)
+- [ ] [<code>fix(compaction): preserve partial summary on mid-chain chunk failure (#82952)</code>](https://github.com/openclaw/openclaw/commit/f0061ddc54c93f1655437450845e1326685a76dd)
+- [ ] [<code>fix(agents): log warnings instead of swallowing subagent errors (#82943)</code>](https://github.com/openclaw/openclaw/commit/907bc0371c3abda0964bfa455d8ccea54f93cd26)
+- [ ] [<code>Clean up browser MCP subprocess tree (#85832)</code>](https://github.com/openclaw/openclaw/commit/8dc6b4d330834edec6b19c58b49cf657909056f8)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>test(e2e): harden multi-node update smoke</code>](https://github.com/openclaw/openclaw/commit/ec168fa2bdda15be7430f41cb7ef0b610b6e68bf)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(codex): log app-server approval promotion trigger</code>](https://github.com/openclaw/openclaw/commit/d9af23fb5af5885d924cf69c1eb3f718cb4f3239)
+- [ ] [<code>test(e2e): expose corrupt plugin deps smoke</code>](https://github.com/openclaw/openclaw/commit/fa3ff4d503bfe48ee004a2947357b96064dce455)
+- [ ] [<code>fix(google-vertex): support production ADC modes (#83971)</code>](https://github.com/openclaw/openclaw/commit/f09b4ebe314ea357f5d0a5528965219871ca8831)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
