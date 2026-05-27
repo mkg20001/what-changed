@@ -352,6 +352,7 @@
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/cinnamon-session/commit/3fc3b0148ce7f12e79a149a96eef6cae36171bac)
   - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>Add  xfce4-notifyd to -blacklist in SessionManager schema (#203)</code>](https://github.com/linuxmint/cinnamon-session/commit/b19e5abac14da999f42e9df9d62b7d1aa0aade8e)
 
 #### [cinnamon-settings-daemon](https://github.com/linuxmint/cinnamon-settings-daemon): [refs/tags/6.6.4 → HEAD](https://github.com/linuxmint/cinnamon-settings-daemon/compare/refs/tags/6.6.4...HEAD)
 
