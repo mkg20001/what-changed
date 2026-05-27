@@ -384,6 +384,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump libjpeg-turbo to 3.1.4.1</code>](https://github.com/AOMediaCodec/libavif/commit/7d67150badf57c2389877af71461bf889041090c)
 - [ ] [<code>Bump libxml2 to v2.15.3</code>](https://github.com/AOMediaCodec/libavif/commit/196cf824aa891b83abe7fc8772c0dd6711d9a0c2)
 - [ ] [<code>Bump libyuv to 644251f25</code>](https://github.com/AOMediaCodec/libavif/commit/267f924c90938f81b97458754c9c8e36d9c224ee)
+- [ ] [<code>v1.4.2</code>](https://github.com/AOMediaCodec/libavif/commit/c5240fc79fe5c2407e10afd35f5505ef6333ea49)
+  - <sub>Tags: <code>v1.4.2</code></sub>
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/50c9345a4c0c1ea6682fd705f8f59bce25301336)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -767,6 +771,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>usr</code> <code>command</code></sub>
 - [ ] [<code>docs: task class: improve_docs — add free-tier alert silencing/disabling (#22567)</code>](https://github.com/netdata/netdata.git/commit/4e1a9def33157b11663484020fcb4ee433b2cd7c)
 - [ ] [<code>Fix systemd journal plugin OTEL log directory discovery (#22569)</code>](https://github.com/netdata/netdata.git/commit/59e2da4fe4aee8e190563ac6dc4bb45a411ae1da)
+- [ ] [<code>Remove OTel journal discovery from systemd-journal.plugin (#22572)</code>](https://github.com/netdata/netdata.git/commit/3c28458f5db39be692a2acbcfb9cd878beb97152)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -7833,6 +7838,136 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(lock): require owner identity proof before stale removal</code>](https://github.com/openclaw/openclaw/commit/daa7b1d06ba09c4e8a82804826119e556edcbe2d)
 - [ ] [<code>test: fix current suite drift</code>](https://github.com/openclaw/openclaw/commit/80655fe9552f1c3ec19805a6797c203059c6bc26)
   - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(config): narrow profiled tool section doctor repair (#87030)</code>](https://github.com/openclaw/openclaw/commit/3c16648ad72927111e4162beebc04db0d850946c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): repair legacy tool results before replay</code>](https://github.com/openclaw/openclaw/commit/4e45b11983c8f20a9264821fe2dfa03c121a752f)
+- [ ] [<code>refactor: delegate image processing to Rastermill</code>](https://github.com/openclaw/openclaw/commit/50b98a18789547c3880e807f30f44e7018bffb5d)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>build: update rastermill pin</code>](https://github.com/openclaw/openclaw/commit/7d4d7512e40055e773435d2636a3f4e267ec390f)
+- [ ] [<code>fix: infer realtime smoke dev server type</code>](https://github.com/openclaw/openclaw/commit/4e84229e82be0168e36fe5ab743970563d451546)
+- [ ] [<code>refactor: delegate image limits to Rastermill</code>](https://github.com/openclaw/openclaw/commit/4f728f8321bde4f766122ff8932a95f68caf34a1)
+- [ ] [<code>ci: satisfy opengrep git add guard</code>](https://github.com/openclaw/openclaw/commit/16d06aa1120b5b10b48e9b25d7baffe011939d0f)
+- [ ] [<code>ci: normalize Windows toolcache paths</code>](https://github.com/openclaw/openclaw/commit/03ae999a1ac2c26aee47a13e0b6448b95c573871)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: use unified rastermill encode API</code>](https://github.com/openclaw/openclaw/commit/a3325c9fb44e2a63694837d8640dda2fd46bb6ae)
+- [ ] [<code>build: update rastermill dependency</code>](https://github.com/openclaw/openclaw/commit/e6edccad3a966d8a8d44e6020862102f5df37556)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>build: use rastermill 0.3.0</code>](https://github.com/openclaw/openclaw/commit/cee8c8773bd44c68f20f4075c34973d62147cccc)
+- [ ] [<code>fix: keep EXIF normalization best-effort (#86923)</code>](https://github.com/openclaw/openclaw/commit/acb942f634a76a30d2deb39fc1bc8025224e5d72)
+- [ ] [<code>docs(changelog): regroup 2026.5.26 release notes</code>](https://github.com/openclaw/openclaw/commit/a6973ab9b40198496227d129e196515a8b447141)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): note rastermill exif fix</code>](https://github.com/openclaw/openclaw/commit/b414020bef8c8e793517092e2af6c4430e0666a5)
+- [ ] [<code>fix(agents): mark repaired legacy tool results errored</code>](https://github.com/openclaw/openclaw/commit/8523d3268a6e5832ce8f28415f625aa101a11813)
+- [ ] [<code>ci: fix post-merge Rastermill checks</code>](https://github.com/openclaw/openclaw/commit/b546998b9b7d3f39b73a18eaa3588fe2b6afa4f1)
+- [ ] [<code>test: keep legacy tool-result error proof</code>](https://github.com/openclaw/openclaw/commit/72bc429f60061d4e89d8a8ff15ee707bc1aaefd4)
+- [ ] [<code>fix(agents): handle deferred maintenance drain</code>](https://github.com/openclaw/openclaw/commit/94fb547fe25f3832e0297a253d8ddaab79ea92f2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): preserve command slots for aliases (#85270)</code>](https://github.com/openclaw/openclaw/commit/77505daa854d7006ba1ee3f186a22ea1be597a59)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Fix status JSON plugin scan (#87001)</code>](https://github.com/openclaw/openclaw/commit/f3e61580bdc1698bc9a08a934844c102327b43ce)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>ci: allow Windows Node 22 patch range</code>](https://github.com/openclaw/openclaw/commit/ce4db4f9f3b71ad0320e2cf392c7da61bd58841a)
+- [ ] [<code>ci: enforce Node 22 floor in setup helper</code>](https://github.com/openclaw/openclaw/commit/1d972af69db9c8b68b49dbc3961bac0595470ad0)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(ui): show failed tool results as errors (#85786)</code>](https://github.com/openclaw/openclaw/commit/950007dd9ccfca9258b99d702b654f2eafdac8ff)
+- [ ] [<code>fix(status): surface systemd gateway hygiene (#86976)</code>](https://github.com/openclaw/openclaw/commit/0a085bf15e64d5e86508371889c23cad53023424)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(ui): ignore stale running session rows</code>](https://github.com/openclaw/openclaw/commit/17051894d071cf2250b804d6d5f1761e507f1ab0)
+- [ ] [<code>fix(build): stabilize shrinkwrap generation</code>](https://github.com/openclaw/openclaw/commit/538b537cc5a3459f00d6dec50808e0593f483ffc)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(agents): pin native anthropic replay policy</code>](https://github.com/openclaw/openclaw/commit/acd3ce00ea79fa7e96a3d1b314c1e20c43f4c6ad)
+- [ ] [<code>ci: support windows node download fallback</code>](https://github.com/openclaw/openclaw/commit/bb48fcf36a2db4fe7c5fb04cc985265560c951f8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): preserve docker pull retry failures</code>](https://github.com/openclaw/openclaw/commit/be2213e46e713ab8d855da85573de1e9444086d3)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: stabilize media-related tests</code>](https://github.com/openclaw/openclaw/commit/a818556dd9c2c00d0dec439489a84e6b443f1db3)
+- [ ] [<code>fix(agents): keep model browse normalization bounded</code>](https://github.com/openclaw/openclaw/commit/9fc71e90761eff663065be1c774de6a58ff31c98)
+- [ ] [<code>fix(codex): bound app-server timeout fallout</code>](https://github.com/openclaw/openclaw/commit/5a7d5c6defe5afca8a020c729638d48b87f482f3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory): reject invalid CLI numeric options</code>](https://github.com/openclaw/openclaw/commit/d569e41c58f5035d281af3e1226bb7892c7a5d0a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(diagnostics): flush OTel trace batches</code>](https://github.com/openclaw/openclaw/commit/c4b9f54b4628c4ce0beac48b0df470b5458ff7eb)
+- [ ] [<code>fix(release): stabilize plugin prerelease tests</code>](https://github.com/openclaw/openclaw/commit/5a684c455335473ebcdc85950e9ce1db8e0fb7c4)
+- [ ] [<code>fix(codex): share native hook relay registry (#73950)</code>](https://github.com/openclaw/openclaw/commit/6729dea36f756800b6973626fe48f77ac9f7156a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docker): require bounded e2e docker commands</code>](https://github.com/openclaw/openclaw/commit/3736d7b60be1e2a784785c55875fb2cd94fb7e55)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(channel): handle plugin channel markdown fallback</code>](https://github.com/openclaw/openclaw/commit/6158742f803e719e1fed2946ce91065279311742)
+- [ ] [<code>fix(gateway): reject RPCs from invalidated device-token clients durin… (#70707)</code>](https://github.com/openclaw/openclaw/commit/1e1cf14da242280502b28142a8f696675c4c00f6)
+- [ ] [<code>fix(crabbox): scope env-wrapped macOS bootstrap</code>](https://github.com/openclaw/openclaw/commit/2f7bfdbd10fdd6b15f07b94c5745924304f62512)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test(auto-reply): mock manifest model catalog in trigger harness</code>](https://github.com/openclaw/openclaw/commit/989d449404b8f6c85c3bca54abb336a0870c60f7)
+- [ ] [<code>fix(docker): bound live docker runs</code>](https://github.com/openclaw/openclaw/commit/96307ca9b4a367be17af8d5286cf41a4aff98727)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(auto-reply): type manifest catalog harness mock</code>](https://github.com/openclaw/openclaw/commit/4f83cd65281168c6123878c165bbfbdaf98c74bf)
+- [ ] [<code>feat(plugin-sdk): add reaction approval helpers (#86735)</code>](https://github.com/openclaw/openclaw/commit/7d6b7f434c2eac9aefc4bb314320e4f6d4d10c02)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: restore ios build stability</code>](https://github.com/openclaw/openclaw/commit/1daef79f8064f86ab96b2642e9f716ac31190d3d)
+- [ ] [<code>fix(docker): bound live setup commands</code>](https://github.com/openclaw/openclaw/commit/eb15c443fcba0cf7c1ebd39511ef2699b10ca35a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(daemon): ignore recursive Windows gateway wrapper</code>](https://github.com/openclaw/openclaw/commit/126a3363a343aace5bed80fa6db1f0cf03378f30)
+- [ ] [<code>perf: cache npm globalconfig lookups</code>](https://github.com/openclaw/openclaw/commit/3f524a6423e614756b5552fd367d0d13a97515b1)
+- [ ] [<code>fix: preserve whatsapp inbound batch order</code>](https://github.com/openclaw/openclaw/commit/84a33c743e0307bc21814bf83460a93ce4da09cc)
+- [ ] [<code>fix: keep bundled OpenClaw plugins image-owned</code>](https://github.com/openclaw/openclaw/commit/771675e826f721eea2f5987f3dea14dc51f48c7f)
+- [ ] [<code>test: fix bundled install mock typing</code>](https://github.com/openclaw/openclaw/commit/669bfdd9b0f186c3a15ae34c6a046e86d9aa3e89)
+- [ ] [<code>docs: explain bundled plugin npm override</code>](https://github.com/openclaw/openclaw/commit/40fa750b4fdce43b021f7f3ecd70cf4947e6dcf5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: mark ios watch app as watchkit app</code>](https://github.com/openclaw/openclaw/commit/1600bcd44d89db295873bbd2b1b9bcc306a4ef8c)
+- [ ] [<code>fix(mac): use corepack pnpm for app packaging</code>](https://github.com/openclaw/openclaw/commit/728b61a0a4ca87aabd16e8ac31a0bee71079bd97)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(docker): bound telegram npm installs</code>](https://github.com/openclaw/openclaw/commit/130464e797315c8f4788bceb2812e0195dbd80dd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(commands): preserve async skill commands</code>](https://github.com/openclaw/openclaw/commit/1313e15241f4064158974a373e26f6dc05487530)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(auto-reply): suppress repeated silent tokens (#86848)</code>](https://github.com/openclaw/openclaw/commit/8ec2b2d09b24e2656d1ab2a6edf8d216070c3584)
+- [ ] [<code>test: speed up hot test fixtures</code>](https://github.com/openclaw/openclaw/commit/0f608bc4974f4f84c21a7b8f06f972218dbb22ec)
+- [ ] [<code>fix(ui): eliminate double scrollbar on Logs view</code>](https://github.com/openclaw/openclaw/commit/068d88c142618553cd4c3a75b307cadfd713de6c)
+- [ ] [<code>fix(e2e): require bounded helper timeouts</code>](https://github.com/openclaw/openclaw/commit/0028c2f793fccb14af90bef1cc98dd7c2728c33f)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: improve full-suite failure summaries</code>](https://github.com/openclaw/openclaw/commit/8f1fb675aa1aa7ee30965d886a335b90c055acc4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat: stream autoreview progress</code>](https://github.com/openclaw/openclaw/commit/322ceb36ce4cd4fd33dea8cf5e10eae47052b5e5)
+  - <sub>Keywords: <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>perf: speed up test hotspots</code>](https://github.com/openclaw/openclaw/commit/980d73dc5a15bdabe137a9e4ac0967f07e142702)
+  - <sub>Keywords: <code>usr</code></sub>
+- [ ] [<code>fix(config): render transform-backed config schema inputs (#67328)</code>](https://github.com/openclaw/openclaw/commit/678a0ee9440b95415045971558b1768bd6c8be74)
+- [ ] [<code>fix(live): classify Z.ai plan denials as billing drift</code>](https://github.com/openclaw/openclaw/commit/693f06d811e77b952d0dbfefefd78f78ef3d61da)
+- [ ] [<code>fix(e2e): keep mac smoke commands bounded without timeout</code>](https://github.com/openclaw/openclaw/commit/3e701449ff12b300097a9bdf7c5f1b730e1dcbab)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: speed up infra test hotspots</code>](https://github.com/openclaw/openclaw/commit/8592352c24133570f480dc245b3ffc90e31a8d21)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(cli-runner): scale Claude CLI reseed history automatically</code>](https://github.com/openclaw/openclaw/commit/474b1e0386bbeb2cddd0cd4b63ef86c478e0d8e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: filter claude autoreview streaming</code>](https://github.com/openclaw/openclaw/commit/fa384d4de0c489e91b2f8e14e31e31fc662867c7)
+- [ ] [<code>Preserve xAI usage limit errors in local TUI (#86614)</code>](https://github.com/openclaw/openclaw/commit/532494b12aed65ee0cea628962baeece057429aa)
+- [ ] [<code>fix(irc): use channel routes for group inbound targets</code>](https://github.com/openclaw/openclaw/commit/bf8be79b88438b36986b11f36e0fd3913c5d70c4)
+- [ ] [<code>test: speed up plugin install suites</code>](https://github.com/openclaw/openclaw/commit/75fc0bce0f92d45bf06f3575d209244298f48553)
+- [ ] [<code>test: bound gateway live model discovery</code>](https://github.com/openclaw/openclaw/commit/dc1e6fb02bfde3b288c0d0f8ca8914a2b06ea52a)
+- [ ] [<code>ci: retry corepack pnpm activation</code>](https://github.com/openclaw/openclaw/commit/d122839eb777cb8a26e49475495e0b4d4d2f8fa1)
+- [ ] [<code>fix(slack): fast-path wildcard open DM policy</code>](https://github.com/openclaw/openclaw/commit/9cd1d27a896487efbffcd148eeee1f5de24bcbc0)
+- [ ] [<code>fix(agents): unwrap standalone message tool JSON (#86626)</code>](https://github.com/openclaw/openclaw/commit/030861e5d1e5452d467e0358b9e505bb38ef0314)
+- [ ] [<code>fix(docker): bound e2e image builds</code>](https://github.com/openclaw/openclaw/commit/6ef0cbb94f3897ec2224caceb0f51241749428a1)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: speed up run-node infra tests</code>](https://github.com/openclaw/openclaw/commit/7e913c08f82b56d3949eab35aaf0e1f65c35532f)
+- [ ] [<code>fix(docs): use Cloudflare docs search API</code>](https://github.com/openclaw/openclaw/commit/69d84d775b63f024609393ed998d7307f2f541ed)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: speed up plugin runtime tests</code>](https://github.com/openclaw/openclaw/commit/9f7584c385d26a69f0a5eef134f6b9dd2edb4f05)
+- [ ] [<code>test(docs): avoid URL default stringification</code>](https://github.com/openclaw/openclaw/commit/61fa2b285eafeac81caf482dc986f51873e94f7c)
+- [ ] [<code>fix(e2e): resolve mac update smoke commands from PATH</code>](https://github.com/openclaw/openclaw/commit/b65411740e1cb0d708d4ed04a48db7b98932e807)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: fix CI type checks</code>](https://github.com/openclaw/openclaw/commit/eac918d69b3acf82d933c030ac975b615de423c9)
+- [ ] [<code>fix: scrub serialized tool-call text from replies (#86924)</code>](https://github.com/openclaw/openclaw/commit/ee655f4d9492d8386a6a591e43ab4db06127b5ca)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: improve PR blame provenance</code>](https://github.com/openclaw/openclaw/commit/ebfcddbaed6c967257a02e6b644a6f5b8fa5b47e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(docker): bound plugin sweep commands</code>](https://github.com/openclaw/openclaw/commit/e46b92cc5843548b262d7b30d2c81a78abea8bd9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(cli): handle Bun launcher module misses</code>](https://github.com/openclaw/openclaw/commit/a1934e9d0e5696a89c08163cc284924d0fc68a40)
+- [ ] [<code>fix(codex): raise dynamic tool timeout</code>](https://github.com/openclaw/openclaw/commit/0f18d52f16e3da4bc77794421cc12a93e1ac392a)
+- [ ] [<code>docs: show PR LOC in maintainer reviews</code>](https://github.com/openclaw/openclaw/commit/8b8e08862039fca2456764c9be549e0b307e5058)
+- [ ] [<code>fix(skills): sync plugin skills to sandbox workspaces</code>](https://github.com/openclaw/openclaw/commit/d8f6d655253e66819aa146a9b4a90ad23f4cad12)
+- [ ] [<code>fix(anthropic): pass system prompt on resumed claude-cli sessions</code>](https://github.com/openclaw/openclaw/commit/84e62824f683186d67a7e46d202d49dbe3700f56)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
