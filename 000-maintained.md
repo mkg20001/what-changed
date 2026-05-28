@@ -8566,6 +8566,77 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(testing): bound openclaw instance logs</code>](https://github.com/openclaw/openclaw/commit/1eb27da55d85817a9a3a83157be32ccf773dbba9)
 - [ ] [<code>fix(e2e): bound MCP channel harness buffers</code>](https://github.com/openclaw/openclaw/commit/f39f1a4712a669f01d75f24298203bd21b0f1b22)
 - [ ] [<code>chore(ui): mark generated locale artifacts (#87406)</code>](https://github.com/openclaw/openclaw/commit/87944c0d80ec39edfd75c4dbb1286ffff7cdcc05)
+- [ ] [<code>fix(codex): preserve shared app-server after startup app errors (#87399)</code>](https://github.com/openclaw/openclaw/commit/7f7eca1ad2baee222206d767d16b6f1bf86ea594)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(cli): wait for respawn child shutdown</code>](https://github.com/openclaw/openclaw/commit/00004ca798d99dd1849acf86104348496f9eadad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(openai): resolve gpt-5.5 without cached catalog</code>](https://github.com/openclaw/openclaw/commit/09d2682cd8c3acab436242b09cde186e48dd83d1)
+- [ ] [<code>fix: migrate legacy memory auto provider</code>](https://github.com/openclaw/openclaw/commit/a7d2d9c6df002d718badc5500cf52f516d97d248)
+- [ ] [<code>fix(gateway): quarantine unsupported effective tool schemas</code>](https://github.com/openclaw/openclaw/commit/21d96098664d86d92b2cbee5afbfe5f9612e5112)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): move session write lock into owned session runtime (#87409)</code>](https://github.com/openclaw/openclaw/commit/5f68291f4f5404fff197604acc9ff0d7327060dd)
+- [ ] [<code>fix(oauth): bound Codex token requests</code>](https://github.com/openclaw/openclaw/commit/67277088ebeb5c90d608908a51b2659d4f342b9b)
+- [ ] [<code>fix(cli): respect subcommand version options (#87398)</code>](https://github.com/openclaw/openclaw/commit/b4e5038692a66cbb900fce062b7b55fdb484c072)
+- [ ] [<code>fix(oauth): bound GitHub Copilot requests</code>](https://github.com/openclaw/openclaw/commit/7b967c570109dcf9f439e1203072d5f092f213f1)
+- [ ] [<code>test(openai): stabilize live audio transcription</code>](https://github.com/openclaw/openclaw/commit/5ad8036bda8266d3c2c45011a5ce918d4934c8fb)
+- [ ] [<code>test(agents): clarify live subagent steering prompt</code>](https://github.com/openclaw/openclaw/commit/dfcf2112324655c25756e5ca99d411ff43b2014e)
+- [ ] [<code>Revert "feat: expose plugin approval action metadata" (#87419)</code>](https://github.com/openclaw/openclaw/commit/bb752c2b4701f6742550c1e8d56303d9b04e87ab)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(agent-job): preserve grace for pending error diagnostics</code>](https://github.com/openclaw/openclaw/commit/039fcbaa4c76f36847c1b79744e7ffea90c90f7c)
+- [ ] [<code>Fix sub-agent cwd/workspace separation (#87218)</code>](https://github.com/openclaw/openclaw/commit/7299c5695317f74ddbe4a1a68efafd723a38c6c1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): wait for compaction before requester steering fallback</code>](https://github.com/openclaw/openclaw/commit/a7b8e6a5a9489f3b41614c3c1750b592884cd446)
+- [ ] [<code>fix(agents): clamp compaction steer retry wait to remaining delivery window</code>](https://github.com/openclaw/openclaw/commit/ea2e9ce8bdab75068177b0ee7022cce509ebbd78)
+- [ ] [<code>fix(agents): bound compaction wake retry timeouts</code>](https://github.com/openclaw/openclaw/commit/db549137d3bb9377fa3b88568d7ba67130914a5f)
+- [ ] [<code>fix: reject partial numeric parsing</code>](https://github.com/openclaw/openclaw/commit/f24844d801dde41b1a0829d6ca9a68ded9b34282)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: preserve retry-after fallback</code>](https://github.com/openclaw/openclaw/commit/efbd00f282b1a21fd345d9e9f1a74c66332321b3)
+- [ ] [<code>test(ci): align startup and model fixtures</code>](https://github.com/openclaw/openclaw/commit/cf47580a4570310b280966911c1dbee824c0903c)
+- [ ] [<code>fix(slack): retain delivered final replies during late cleanup</code>](https://github.com/openclaw/openclaw/commit/fb1dfd486bb9aca05055d88c51efe4fbc279a9fc)
+- [ ] [<code>fix(web-search): preserve runtime-only provider config</code>](https://github.com/openclaw/openclaw/commit/5d437de70f954de6b115a04891f13d7a7b79f7ac)
+- [ ] [<code>docs(changelog): require contributor thanks</code>](https://github.com/openclaw/openclaw/commit/78c5eeab0188ab4320267de74dd27ba7d0620f3d)
+- [ ] [<code>fix(crabbox): preserve sparse run artifacts</code>](https://github.com/openclaw/openclaw/commit/53ad531df9185700e1d77a760d7ab99c1dbfbbb0)
+- [ ] [<code>fix(doctor): make restart follow-up actionable (#87361)</code>](https://github.com/openclaw/openclaw/commit/f3e285126aaac5bd6c5195210ab8b91ab6860d98)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(agents): resolve Codex runtime models first</code>](https://github.com/openclaw/openclaw/commit/5cef288d651127fc959f8206dc6bbf2fc22708d9)
+- [ ] [<code>[Fix] Warm provider auth off main thread (#86281)</code>](https://github.com/openclaw/openclaw/commit/316fd5b62572cdcc845528e125f0af733923e77c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Improve stale Codex auth recovery guidance</code>](https://github.com/openclaw/openclaw/commit/77fe36bb98ea85287d97db15fe0b6c5fbea41073)
+- [ ] [<code>fix(codex): format skills command output (#87400)</code>](https://github.com/openclaw/openclaw/commit/6ac3561c6983e3bba5d5317507c506aa5b77b6e7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(status): show active subagent details</code>](https://github.com/openclaw/openclaw/commit/169effacc2843166622bbc58826fedd7da905e0a)
+- [ ] [<code>test(ci): bound image tool iMessage fixtures</code>](https://github.com/openclaw/openclaw/commit/550a9b459a3564b97b5f403ddf397714a5c4a0aa)
+- [ ] [<code>fix(gateway): drain probe client close</code>](https://github.com/openclaw/openclaw/commit/cc72519053842ef9af36663245f0d6b405283660)
+- [ ] [<code>fix(sessions): avoid stale restart continuation reuse</code>](https://github.com/openclaw/openclaw/commit/d8641a661b862ad5d249babe3644c1a9138e7b06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(imessage): suppress duplicate native exec approvals</code>](https://github.com/openclaw/openclaw/commit/40bca6d8bbfc089ddf45b2838cbce6f1367e87dc)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(codex): report quarantined dynamic tools</code>](https://github.com/openclaw/openclaw/commit/da5fe990d8b3d38d6497e053824f8a20a3d5bf71)
+- [ ] [<code>fix(provider): honor Codex response timeouts</code>](https://github.com/openclaw/openclaw/commit/c20a055341accb454f30aaff249589565b19544a)
+- [ ] [<code>fix(agents): release session lock on timeout abort</code>](https://github.com/openclaw/openclaw/commit/65fb56513fb2623e14793a77f6875fa3d3161716)
+- [ ] [<code>fix(imessage): continue polling after denied reactions</code>](https://github.com/openclaw/openclaw/commit/59c3ee7c4507d62cddda26ea7805e77c5c74c502)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(gateway): retry live exec read probe wording</code>](https://github.com/openclaw/openclaw/commit/92043f75479691e2ed73dc43bf92ae22deed23a6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(sessions): preserve Matrix room-id case in session keys (#75670) (#87366)</code>](https://github.com/openclaw/openclaw/commit/b5bd6e882885999e0e7ae5c58154967c4c9caff4)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>commandline</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(doctor): rewrite non-canonical api_key auth profiles</code>](https://github.com/openclaw/openclaw/commit/603aa8a2ed1870c2460125242152a4d13476a49b)
+- [ ] [<code>fix(agents): keep hook context prompt-local (#86875)</code>](https://github.com/openclaw/openclaw/commit/8b7a4826a1ff9fbf8ee91c5c8dfe491243146e5d)
+- [ ] [<code>fix(cron): stabilize isolated prompt cache affinity</code>](https://github.com/openclaw/openclaw/commit/3f9d2415acc8d4631a7811d7fe0b07a96755c2ee)
+- [ ] [<code>fix(discord): suppress recovered tool warnings (#87451)</code>](https://github.com/openclaw/openclaw/commit/da279041aba2aa71637fbba750bc0c27779d4f72)
+- [ ] [<code>chore: forward gateway profiling env</code>](https://github.com/openclaw/openclaw/commit/1f1cdd84ea24c813305096c6dc7a30f2480f750f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(provider): bound local service startup</code>](https://github.com/openclaw/openclaw/commit/c9151ba9029073265090efa916dc33c49978482b)
+- [ ] [<code>fix(outbound): thread session keys into outbound hooks (#73706)</code>](https://github.com/openclaw/openclaw/commit/05db9117750eaf78f5bcab80feb30f179b869dea)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: accept uncommitted autoreview mode</code>](https://github.com/openclaw/openclaw/commit/ff0990d800c0ccd3a609445e1e7ee940544fdf10)
+- [ ] [<code>test(discord): use reply payload SDK test helper (#87454)</code>](https://github.com/openclaw/openclaw/commit/c86667c5cfac76006e45876d3df2aed53ccbeae4)
+- [ ] [<code>fix(heartbeat): stop pending final replay</code>](https://github.com/openclaw/openclaw/commit/d00e764e66555320ac75f048c2767ba5877de0a9)
+- [ ] [<code>fix(hooks): pass media metadata to received hook</code>](https://github.com/openclaw/openclaw/commit/65e2120f8c0dd0b514d8a826a436db3ab2b44184)
+- [ ] [<code>fix: reject partial numeric command values</code>](https://github.com/openclaw/openclaw/commit/d1aa3cb92528c61497442864e5877cb72b624a58)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: reject partial numeric runtime values</code>](https://github.com/openclaw/openclaw/commit/45e6af5e571f4b6bf4b8a249b39697bdef545f25)
+- [ ] [<code>fix(doctor): validate tool schemas for configured agents</code>](https://github.com/openclaw/openclaw/commit/748510b7a3e1358320a78de12618a1fdf08074f9)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
