@@ -850,6 +850,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Re-enable AVIF_VERSION_DEVEL</code>](https://github.com/AOMediaCodec/libavif/commit/50c9345a4c0c1ea6682fd705f8f59bce25301336)
 - [ ] [<code>avifenc: add --ignore-alpha flag to discard alpha</code>](https://github.com/AOMediaCodec/libavif/commit/693855b664244c0dfd1992ab301fad7b5aa1e085)
 - [ ] [<code>Update to AVM v1.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/d8b4e042cde136995909a7c5753d5f2910772248)
+- [ ] [<code>Bump the github-actions group across 2 directories with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/27ec163acc16da9cb1294161904f85a985dc5ce3)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1256,6 +1257,9 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>preparation for virtual logs functions (#22584)</code>](https://github.com/netdata/netdata.git/commit/7e9cbb5dab6fb32d2a95dd8a3e575dc094dd0c41)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-305-nightly.</code>](https://github.com/netdata/netdata.git/commit/44d5e9c9fd651ec12b385c6ea7e5dab6db1bafc4)
+- [ ] [<code>Improve error handling in netdata-updater when fetching files. (#22422)</code>](https://github.com/netdata/netdata.git/commit/0ec096dd6b7394040c45cc6e16e06b73f54b8692)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>Assorted CI fixes for IBM MQ library handlign in packaging workflow. (#22491)</code>](https://github.com/netdata/netdata.git/commit/785ec827b6ffcb4aec66215f7e2395cc89e1a897)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -12463,6 +12467,143 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(ci): bound deadcode knip scan</code>](https://github.com/openclaw/openclaw/commit/27097bed6584629593776a6a3e4c80da29bd6c92)
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>refactor: share sessions list changed test helpers</code>](https://github.com/openclaw/openclaw/commit/8fe5e834629b5631dd899adf3d89518c5aed3141)
+- [ ] [<code>fix(ci): clean gateway watch temp home</code>](https://github.com/openclaw/openclaw/commit/5117f457bb470beb010b9060639e2032b7786ffb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share mcp http test helpers</code>](https://github.com/openclaw/openclaw/commit/1742f3f77c901cc456dca9c39a0a407ba767d3f4)
+- [ ] [<code>test(memory): drive timeout tests with explicit fake clocks</code>](https://github.com/openclaw/openclaw/commit/ec2455a842cfc038fa8551415dcc20d177257ab7)
+- [ ] [<code>fix(docs): clean link audit temp docs</code>](https://github.com/openclaw/openclaw/commit/d4f6e0a1f24a047cf64afec3437847d4797a4c92)
+- [ ] [<code>refactor: share startup secrets test helpers</code>](https://github.com/openclaw/openclaw/commit/1f91e97353685f7f980fd3623a84a51f3e81f56b)
+- [ ] [<code>fix(e2e): bound Parallels host VM commands</code>](https://github.com/openclaw/openclaw/commit/421ea1f4580667a0cecbcaee0b1eed79254521af)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>refactor: share system run approval test helpers</code>](https://github.com/openclaw/openclaw/commit/5bd8dbd0b89a6addad7d6ff1cce0897d4c80a3f6)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test(release): activate manifest channels in bundle smoke</code>](https://github.com/openclaw/openclaw/commit/c1e132195d3cc0f0ddf4c18ad4f22d2b01279a1f)
+- [ ] [<code>fix(e2e): catch runtime package-manager descendants</code>](https://github.com/openclaw/openclaw/commit/c0e49a2c525373fe28aa632c237356b97944982b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): keep kitchen-sink process snapshots wide</code>](https://github.com/openclaw/openclaw/commit/44b388f86385b640505d7c1cdfd2bc94b1abcf95)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share session reset hook test helpers</code>](https://github.com/openclaw/openclaw/commit/cbc5f277bbb0cf34c73fe3b5c3aa730a48651b50)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share sessions patch test helpers</code>](https://github.com/openclaw/openclaw/commit/c2aaf8afec539cdcee5cc344bebbc0cc3e3497d0)
+- [ ] [<code>fix(ci): fail gateway CPU spawn errors</code>](https://github.com/openclaw/openclaw/commit/b9f181635fde9af4992b96266adcc6b5ec590e57)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): page CI timing job reads</code>](https://github.com/openclaw/openclaw/commit/930bc9691b3e81d369b70de35fc0ccd61059ac1f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): fail gateway watch spawn errors promptly</code>](https://github.com/openclaw/openclaw/commit/e895479a214952597be5e36e11678f3ed9afd8a9)
+- [ ] [<code>refactor: share mcp http loopback test helpers</code>](https://github.com/openclaw/openclaw/commit/3e592a8bd7af81a3b96c51157c87805eac1ecec8)
+- [ ] [<code>fix(e2e): clean OTEL collector startup failures</code>](https://github.com/openclaw/openclaw/commit/409f78a1ea62e0cd2812852c2daac1156038258a)
+- [ ] [<code>refactor: share server aux reload test helpers</code>](https://github.com/openclaw/openclaw/commit/671909d6d3ca8cb8d56c55016bc0e9614b22f8f6)
+- [ ] [<code>fix(test): stabilize watch-node shutdown tests</code>](https://github.com/openclaw/openclaw/commit/408fa6e9512ca30d268705a600b4d7c10ba01ac5)
+- [ ] [<code>fix(test): keep app parity checks sparse safe</code>](https://github.com/openclaw/openclaw/commit/a0fbb6cfe2b08b381b19a6ddf3392283e8913451)
+- [ ] [<code>fix(test): keep runtime tests raw-sync safe</code>](https://github.com/openclaw/openclaw/commit/42bcf9cd0beb5713226a61f1edc3bbc5378a8bdd)
+- [ ] [<code>test(qa): cover QA lab help runtime boundary</code>](https://github.com/openclaw/openclaw/commit/b942a958b303498e9191c97f8708200646152403)
+- [ ] [<code>test(codex): clean up fake timer spies</code>](https://github.com/openclaw/openclaw/commit/2c0e835b48dd0b28c524bcb6d249673c9a4dcdcc)
+- [ ] [<code>refactor: share node registry system run test helpers</code>](https://github.com/openclaw/openclaw/commit/eaeccf5fdf3530af1daa727c7004ccdf0bdba1b7)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(scripts): clean session log temp roots</code>](https://github.com/openclaw/openclaw/commit/9e58ef1c82cc02b9a183e589bbba60ecb255d5fb)
+- [ ] [<code>test(gateway): scope lazy server mock</code>](https://github.com/openclaw/openclaw/commit/2075d1992361e71289d89ebb6a10921f40db659e)
+- [ ] [<code>fix(ci): use QA runtime build for release checks</code>](https://github.com/openclaw/openclaw/commit/e8c126eaf2c37965bb0f55ecead0bed88775988c)
+- [ ] [<code>refactor: share node allowlist test helpers</code>](https://github.com/openclaw/openclaw/commit/4253517070eb00b9f6b7af421e6beed97e91364e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): clean check-changed pnpm shim temp dirs</code>](https://github.com/openclaw/openclaw/commit/a4847297b85c87b56bfae04abe27668a3ba295ce)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>refactor: share gateway misc test helpers</code>](https://github.com/openclaw/openclaw/commit/645c7dc40bee950d895820a689b5f54f1b82a616)
+- [ ] [<code>fix(scripts): clean Z.AI fallback repro temp state</code>](https://github.com/openclaw/openclaw/commit/110f7d55e3beb1b2324596038ca9fc98bfedc705)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: stabilize slow shard regressions</code>](https://github.com/openclaw/openclaw/commit/b226a752a131cc72d5def6fec583ab9f6d15c09d)
+- [ ] [<code>fix: stabilize full-suite regressions</code>](https://github.com/openclaw/openclaw/commit/cb7a4239ef2922bfc0191bb26e42904e4268c6d3)
+- [ ] [<code>test: stabilize order-sensitive assertions</code>](https://github.com/openclaw/openclaw/commit/bdd6cf3d5e39db626a294dab515ac2f880698d3a)
+- [ ] [<code>test: harden changed-gate assertions</code>](https://github.com/openclaw/openclaw/commit/4b54a423f0f94742a0c35e6dda693e75efc26ccb)
+- [ ] [<code>test: close oxlint signal readiness race</code>](https://github.com/openclaw/openclaw/commit/00caead80ab3fdfd195e4153a334f1a33d099ffd)
+- [ ] [<code>test(e2e): exercise Parallels smoke cleanup path</code>](https://github.com/openclaw/openclaw/commit/12087ac9d4b2a8a3355d3ce1b6fac9acb23093c3)
+- [ ] [<code>refactor: share startup recovery test helpers</code>](https://github.com/openclaw/openclaw/commit/1b928592efb243bde08f4fdca4e0bb2cc699f5a3)
+- [ ] [<code>fix(ui): clear chat composer after send (#89106)</code>](https://github.com/openclaw/openclaw/commit/c1ce51546e5f7111cbbfa4b141bda530bbcff9bd)
+- [ ] [<code>fix(scripts): clean Anthropic prompt probe temp state</code>](https://github.com/openclaw/openclaw/commit/0a9e594420c737f99eff815bcfa0f8058a90d099)
+- [ ] [<code>test(release): stabilize beta validation regressions</code>](https://github.com/openclaw/openclaw/commit/fed7d1f38516e836f803a9ff424a1e1e0ce249d2)
+- [ ] [<code>refactor: share silent reconnect test helpers</code>](https://github.com/openclaw/openclaw/commit/d9f6e03e32856117a44625ab413197cb6685e30b)
+- [ ] [<code>fix(e2e): harden Parallels helper cleanup</code>](https://github.com/openclaw/openclaw/commit/dfeb5b81ca674701623e9178152a0908a4431944)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share device pair authz test helpers</code>](https://github.com/openclaw/openclaw/commit/050f0c0af60ec8288ac8efbf072f159068c2a903)
+- [ ] [<code>fix(e2e): escalate stuck PTY children</code>](https://github.com/openclaw/openclaw/commit/b1ec23e05f63d9567d6681cb1d074e5d6e9b6d1f)
+- [ ] [<code>test(gateway): fix node invoke capture race</code>](https://github.com/openclaw/openclaw/commit/0b9187c780cca1f4a7b4b4ef174c6567390747e4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test(agents): align provider auth alias fixtures</code>](https://github.com/openclaw/openclaw/commit/a9866a405c7803fbab2061b45a25f294f189b02b)
+- [ ] [<code>test(openrouter): stabilize music timeout clamp assertion</code>](https://github.com/openclaw/openclaw/commit/3f54d150b3c8bda87861e5ea89e19a181b265e26)
+- [ ] [<code>refactor: share config patch test helpers</code>](https://github.com/openclaw/openclaw/commit/1fd2259e2872ee92ba09c580bff005847a32602a)
+- [ ] [<code>fix(dev): close stalled gateway websocket handshakes</code>](https://github.com/openclaw/openclaw/commit/1d7e5f48ed028c6edd23cb72ec135ba382947545)
+- [ ] [<code>fix(dev): close gateway smoke websocket on failures</code>](https://github.com/openclaw/openclaw/commit/9cb347e4c364a42ce63788710ff6059e6464f711)
+- [ ] [<code>fix(dev): clean Telegram flow previews on failure</code>](https://github.com/openclaw/openclaw/commit/461999c0603594a5138f106b11ccdd6a1b46e771)
+- [ ] [<code>test(codex): avoid sessions list wait in live harness start probe</code>](https://github.com/openclaw/openclaw/commit/460cf7ed75fb76f7c468ecd5a209da143826424e)
+- [ ] [<code>fix(e2e): isolate MCP channel client temp state</code>](https://github.com/openclaw/openclaw/commit/72436217ff72a89a25b6537925be3887d98d91aa)
+- [ ] [<code>test(codex): drop unused live harness helper</code>](https://github.com/openclaw/openclaw/commit/6668eb82258c9847d38d841349a4d5937e0735a3)
+- [ ] [<code>refactor: share session reset test helpers</code>](https://github.com/openclaw/openclaw/commit/488b65ab87bd64ab595ec03338893e30bb956649)
+- [ ] [<code>fix: bound remote media reference reads [AI] (#88974)</code>](https://github.com/openclaw/openclaw/commit/fbdf593778be1a76b6f816c77b9e4b9211306806)
+- [ ] [<code>refactor: share shared auth rotation test helpers</code>](https://github.com/openclaw/openclaw/commit/c053b90290159dfff72eb61236644b2f6be8c530)
+- [ ] [<code>refactor: share codex harness model assertions</code>](https://github.com/openclaw/openclaw/commit/373ef81e83b84b4ab1a816412b3aab802b3f909a)
+- [ ] [<code>fix(usage): skip empty timeseries scans</code>](https://github.com/openclaw/openclaw/commit/a8bc1716ddc6f53476627a976c018138c4eba168)
+- [ ] [<code>refactor: share maintenance test fixtures</code>](https://github.com/openclaw/openclaw/commit/285a792aa87f0aa4e69bc7f951ee41a67e02bb67)
+- [ ] [<code>fix(codex): abort app-server thread startup cleanly</code>](https://github.com/openclaw/openclaw/commit/9153aab037bd625d3e688ac9a3c8e83c2ea978fa)
+- [ ] [<code>refactor: share talk transcription relay test setup</code>](https://github.com/openclaw/openclaw/commit/ab1042d11582fabf1f0740dd7d0bd156b339aba6)
+- [ ] [<code>refactor: share probe request dispatch helper</code>](https://github.com/openclaw/openclaw/commit/0b8f6b81e69fed7e0c7d1038f3c9519855543205)
+- [ ] [<code>fix(e2e): clean timed-out runtime commands</code>](https://github.com/openclaw/openclaw/commit/4e1f8b8ac72640e1465bc9c2a17cefdef03c419e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share startup secrets test helpers</code>](https://github.com/openclaw/openclaw/commit/3113fe95eac0371c9fca61bec8bed22d5cf5ea07)
+- [ ] [<code>fix(e2e): bound cron mcp probe waits</code>](https://github.com/openclaw/openclaw/commit/f2eea90dac76051a4bdf72abb239ed8b440ff307)
+- [ ] [<code>refactor: share startup memory test helpers</code>](https://github.com/openclaw/openclaw/commit/25c19e013aa101b8ec6c1cd6f81db0848db665e9)
+- [ ] [<code>fix(repro): clean webchat tts proof artifacts</code>](https://github.com/openclaw/openclaw/commit/ef26e8dfce77cee19aab66a123b00be74aeeb5c0)
+- [ ] [<code>refactor: share startup plugin test helpers</code>](https://github.com/openclaw/openclaw/commit/101db565caf7a597f7d4ae388a9f79dcc6b2a8e6)
+- [ ] [<code>test(codex): keep live subagent smoke lightweight</code>](https://github.com/openclaw/openclaw/commit/469bec97ef96a97ea042beb3bb858a685d5d05bb)
+- [ ] [<code>fix: allow admins to approve dependency guard (#88966)</code>](https://github.com/openclaw/openclaw/commit/e3d24faecd08004b2807bf2cdb840a7e0ce9a25f)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>refactor: share node invoke approval test helpers</code>](https://github.com/openclaw/openclaw/commit/16807824cc2b9567519bd2f14dc4769bcaee7d5a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): bound bundled plugin lifecycle commands</code>](https://github.com/openclaw/openclaw/commit/83cd3cbe2aa68b469709a02e2c534a4f0d10e3bc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share plugin node auth test helpers</code>](https://github.com/openclaw/openclaw/commit/d767e296e2d862ae1b6a84dc265c77538e105ef8)
+- [ ] [<code>fix(e2e): clean plugin lifecycle temp state</code>](https://github.com/openclaw/openclaw/commit/ba88b7a1780f5e4f846cdf676f05ed869507d0a4)
+- [ ] [<code>refactor: share compaction checkpoint test helpers</code>](https://github.com/openclaw/openclaw/commit/3c324590ae6251033fd7cf6edb03a9dcb7f37457)
+- [ ] [<code>fix(dev): clean tui pty watch children</code>](https://github.com/openclaw/openclaw/commit/ee4802802843235da403516da868cd5aafe23eaf)
+- [ ] [<code>refactor: share single-row cache test helpers</code>](https://github.com/openclaw/openclaw/commit/26e61b208707aa86a21d95464efcd86ae7663b13)
+- [ ] [<code>fix(e2e): require expected web search rejection</code>](https://github.com/openclaw/openclaw/commit/c8a67768e354e680064ff74d714dcd363cb79c96)
+- [ ] [<code>fix(subagents): rotate steered restart sessions</code>](https://github.com/openclaw/openclaw/commit/bddcf4448cde58ec18b2c46fa7dfc2b2868f7899)
+- [ ] [<code>fix(ci): restore dist cache before artifact builds (#89169)</code>](https://github.com/openclaw/openclaw/commit/8ba6dfeaf63f165f0e6447f6fe7e7cb1f821ebb2)
+- [ ] [<code>fix(e2e): isolate release media temp files</code>](https://github.com/openclaw/openclaw/commit/92b3d52e8ab83945a531afd1187006adf14b8454)
+- [ ] [<code>refactor: table-drive lifecycle state tests</code>](https://github.com/openclaw/openclaw/commit/1cf39a2d6f5fd0561a4ae262f597951312037831)
+- [ ] [<code>test(control-ui): clean i18n timeout temp dirs</code>](https://github.com/openclaw/openclaw/commit/965e6806034248dc93a943b70ea411bbadd056c4)
+- [ ] [<code>refactor: share session history message fixtures</code>](https://github.com/openclaw/openclaw/commit/96187089d42bd1941b1ff0f13fc6ba582ddca2de)
+- [ ] [<code>fix(agents): actionable copy for exhausted auth-profile failover (#85798)</code>](https://github.com/openclaw/openclaw/commit/64a946ac21d14384eabb136d260155a8a8d2308c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share startup early test inputs</code>](https://github.com/openclaw/openclaw/commit/62cfc613f127a890c79e9ab7d1fe70e30fe5da44)
+- [ ] [<code>test(deps): clean dependency evidence temp roots</code>](https://github.com/openclaw/openclaw/commit/1c3095e029da8aaaf20d80777dac3191ca5be8cc)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>refactor: share http endpoint test scaffolding</code>](https://github.com/openclaw/openclaw/commit/30819ed3dae6bc908739f97195e7aa2d2c081644)
+- [ ] [<code>fix(testing): keep crabbox sync checkouts durable</code>](https://github.com/openclaw/openclaw/commit/7f7f0775ed7d3a5aee35852dcbf9c220f377d20a)
+- [ ] [<code>test(release): tolerate MiniMax portal nonce drift</code>](https://github.com/openclaw/openclaw/commit/82de2647102f2d7ab90b98626cbda0512f127658)
+- [ ] [<code>Keep machine-readable CLI startup output parseable (#88689)</code>](https://github.com/openclaw/openclaw/commit/9ac30b587ebdc15dd8ae2fb5c6574eb93e150fd5)
+- [ ] [<code>refactor: share session kill http test fixtures</code>](https://github.com/openclaw/openclaw/commit/b18bab0bcc15a4eb2a642a9ff4ce884b6b12f3d3)
+- [ ] [<code>fix(e2e): harden web search cleanup</code>](https://github.com/openclaw/openclaw/commit/65a805ac2878574d640dc6485084cd6034ca468d)
+- [ ] [<code>fix(e2e): wait for plugin update registry cleanup</code>](https://github.com/openclaw/openclaw/commit/66f797b22c1081e379f67e59ea858478b6269e1c)
+- [ ] [<code>refactor: share startup auth test assertions</code>](https://github.com/openclaw/openclaw/commit/a20f57bf2ea2eb1878b5f45a084c2559c18676b3)
+- [ ] [<code>fix(e2e): isolate onboard temp artifacts</code>](https://github.com/openclaw/openclaw/commit/193988bc5ba4923a40fc61ae3f4b880ad404241a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(memory): retry transient FileProvider-backed reads (#85351)</code>](https://github.com/openclaw/openclaw/commit/5a551351465fa3cb442e4e19a83e71d0887b36d8)
+- [ ] [<code>fix(memory-core): reduce Linux watcher fan-out (#89188)</code>](https://github.com/openclaw/openclaw/commit/5a67c5c5566ec29c0a5c1985a117a57854eb1da6)
+- [ ] [<code>refactor: share model catalog test helpers</code>](https://github.com/openclaw/openclaw/commit/eb58c88598f359357c5f5df4ab12d57aaa039d30)
+- [ ] [<code>docs: refresh ClawHub showcase cards (#88734)</code>](https://github.com/openclaw/openclaw/commit/05ea36a81f9f5aa54b6f02593d01a71c0c145544)
+- [ ] [<code>test: reset gateway timers at test boundaries (#89212)</code>](https://github.com/openclaw/openclaw/commit/a99cbf29bd9c2027072a554a7d94024590247cc5)
+- [ ] [<code>refactor: share browser auth test helpers</code>](https://github.com/openclaw/openclaw/commit/fe97c6000c5c6565d492df7b0178355338feef7e)
+- [ ] [<code>fix(agents): dispatch auth failures by type (#89181)</code>](https://github.com/openclaw/openclaw/commit/50b69e16dc0dfdf0558c51a85a5cb2857b33af89)
+- [ ] [<code>fix(scripts): forward run-with-env termination</code>](https://github.com/openclaw/openclaw/commit/c9d35c7172d3df970f82a7cbf476ccc6cf26199c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share session history test helpers</code>](https://github.com/openclaw/openclaw/commit/2af2111ae076c1a30bb2f59d39b4b84b28783029)
+- [ ] [<code>refactor: share session delete lifecycle test helpers</code>](https://github.com/openclaw/openclaw/commit/a2fdd5bc70b50ad1062ddb93d81d464e21034796)
+- [ ] [<code>fix(ui): terminate child on wrapper shutdown</code>](https://github.com/openclaw/openclaw/commit/f8d5f162a129fc6f70f6c5c65443cafbcb2aa491)
+- [ ] [<code>refactor: share voicewake model test helpers</code>](https://github.com/openclaw/openclaw/commit/98e943ebdd1dcc83ee98827ee8386dffdd81685c)
+- [ ] [<code>enhance(slack): route plugin approvals through native UI</code>](https://github.com/openclaw/openclaw/commit/f8491b0fcf12b96ab419f3756f4ea5a9f340f82c)
+- [ ] [<code>fix(ci): timeout dependency guard GitHub requests</code>](https://github.com/openclaw/openclaw/commit/420450b5cb8ffd636ffd2bd0c302f64513aab1b9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(scripts): trap test-state temp homes</code>](https://github.com/openclaw/openclaw/commit/61aa499b53b4867ac961ac7ebd9e7e2068b17100)
+- [ ] [<code>refactor: share session reset model test helpers</code>](https://github.com/openclaw/openclaw/commit/67983a00c86de46ac158e9229fdd3ff44e1adfc8)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
