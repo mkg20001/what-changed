@@ -851,6 +851,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>avifenc: add --ignore-alpha flag to discard alpha</code>](https://github.com/AOMediaCodec/libavif/commit/693855b664244c0dfd1992ab301fad7b5aa1e085)
 - [ ] [<code>Update to AVM v1.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/d8b4e042cde136995909a7c5753d5f2910772248)
 - [ ] [<code>Bump the github-actions group across 2 directories with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/27ec163acc16da9cb1294161904f85a985dc5ce3)
+- [ ] [<code>Add avifCalloc() and harden allocation call sites</code>](https://github.com/AOMediaCodec/libavif/commit/c64ea9468ddf5f0b3cdf14d07da3e200c8c208b5)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -12604,6 +12605,74 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>test(scripts): trap test-state temp homes</code>](https://github.com/openclaw/openclaw/commit/61aa499b53b4867ac961ac7ebd9e7e2068b17100)
 - [ ] [<code>refactor: share session reset model test helpers</code>](https://github.com/openclaw/openclaw/commit/67983a00c86de46ac158e9229fdd3ff44e1adfc8)
+- [ ] [<code>fix(e2e): isolate release media memory artifacts</code>](https://github.com/openclaw/openclaw/commit/403190572bc93d0f4e4c3febf2877ab4b658d7dc)
+- [ ] [<code>fix(memory): warn on gateway watcher FD risk (#89185)</code>](https://github.com/openclaw/openclaw/commit/2405bbcbafa69414a295a78d753e4fe0956ddd91)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>fix(scripts): guard delayed docker package kills</code>](https://github.com/openclaw/openclaw/commit/72ed2121f8f527564222278b7908feae3996ec18)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share talk config test helpers</code>](https://github.com/openclaw/openclaw/commit/afdf9aaea0a0af5924fc9f920952786b7c3cf4c2)
+- [ ] [<code>ci(release): fail fast on red release children</code>](https://github.com/openclaw/openclaw/commit/4e45010203b1ffd07e81ef8964a4dbdd926ea184)
+- [ ] [<code>fix(e2e): clean timed-out docker harness containers</code>](https://github.com/openclaw/openclaw/commit/0cfd6b0504629bc211bb865654b7fd4547885c06)
+- [ ] [<code>refactor: share session permission client setup</code>](https://github.com/openclaw/openclaw/commit/74cf5c7e7d4f610df73802d193a2445f7b4ea04c)
+- [ ] [<code>refactor: share discovery runtime test setup</code>](https://github.com/openclaw/openclaw/commit/0771bbbd206bf8c9ed0a0d4fd82e9cb6f2969583)
+- [ ] [<code>perf(gateway): narrow plugin lookup memo key</code>](https://github.com/openclaw/openclaw/commit/bd8baeb323c90c3907b3254f664773ca7240d931)
+- [ ] [<code>fix(e2e): scope gateway cleanup to tracked pid</code>](https://github.com/openclaw/openclaw/commit/990f0baff9398a91e6b6bcea24fdefbda60a94e1)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(ui): render skill workshop tab</code>](https://github.com/openclaw/openclaw/commit/8c180c9153ee52ea93916f21e3df8eab249d62c0)
+- [ ] [<code>fix skill workshop filtered navigation</code>](https://github.com/openclaw/openclaw/commit/a34e822cd4b9be23474d09a92b18c40b3e625e7f)
+- [ ] [<code>address skill workshop review comments</code>](https://github.com/openclaw/openclaw/commit/211321ce5c498ce609903dd0366cd5eae21e5815)
+- [ ] [<code>fix skill workshop filtered fallback</code>](https://github.com/openclaw/openclaw/commit/646df2da83df23c775b4852c699ce034405f3bc2)
+- [ ] [<code>chore(release): set version 2026.6.2</code>](https://github.com/openclaw/openclaw/commit/a14eacf37222831406cce7f8fd31815d211f05e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share preauth hardening test helpers</code>](https://github.com/openclaw/openclaw/commit/0f3a63b12e7b468e088de14260dc59ab7061a9fa)
+- [ ] [<code>fix(test): clean delegated vitest runners</code>](https://github.com/openclaw/openclaw/commit/14f61d0637a2170127a2900f9ccbfa01a91f5b90)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(discord): classify corrupt opus packets structurally</code>](https://github.com/openclaw/openclaw/commit/bd4a7f41192d6a0a525e3d2e043b37e687b85372)
+- [ ] [<code>fix(memory): reattach Linux watchers on directory rename</code>](https://github.com/openclaw/openclaw/commit/65d7fa2420a48b6ab41b976f3076bd2e7373ecc9)
+- [ ] [<code>refactor: share node pairing request test helpers</code>](https://github.com/openclaw/openclaw/commit/cb12a9af94567fa210b9d91594aa40b985f5b4a1)
+- [ ] [<code>fix(test): clean live wrapper children</code>](https://github.com/openclaw/openclaw/commit/e9aae26b223a5cd05e1e51f86ed7f390d929f554)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>chore(release): add matrix plugin changelog</code>](https://github.com/openclaw/openclaw/commit/64697fbe24d13de4d4a2fcdd1cf35a6f75084a5e)
+- [ ] [<code>refactor: share cli session history test helpers</code>](https://github.com/openclaw/openclaw/commit/285401ced8bc2efe5cb63e7839edb80b997d5404)
+- [ ] [<code>fix(scripts): clean boundary step process groups</code>](https://github.com/openclaw/openclaw/commit/2770aa5f4cf627070635c5875da594150806c39a)
+- [ ] [<code>revert: undo gateway memory watch warning (#89246)</code>](https://github.com/openclaw/openclaw/commit/0904f3e5539d55473765c8c36db80c3aff0b703d)
+  - <sub>Keywords: <code>subprocess</code></sub>
+- [ ] [<code>ci(release): retry quiet node shard stalls</code>](https://github.com/openclaw/openclaw/commit/e8120a72e1d84fbd821563b46a917571859a9b04)
+- [ ] [<code>fix(discord): use libopus structured decode errors</code>](https://github.com/openclaw/openclaw/commit/2d17cb295ddd76ab9040ba3c794a8610619a46ef)
+- [ ] [<code>refactor: share gateway shutdown abort helpers</code>](https://github.com/openclaw/openclaw/commit/45e0545e823b87086e40c8e0b2245a5fe099c21d)
+- [ ] [<code>fix(test): preserve vitest batch wrapper signals</code>](https://github.com/openclaw/openclaw/commit/af44fb9b6cdd459645bd29864a3785fcc83ab581)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>refactor: share chat abort test setup</code>](https://github.com/openclaw/openclaw/commit/d91d8ff060f3b6eaae03d919a2cc4ecd51892ef5)
+- [ ] [<code>refactor: share gateway auth request guards</code>](https://github.com/openclaw/openclaw/commit/4bd74211824d3e2c7ac87d50d62aa9eb6d415e8a)
+- [ ] [<code>fix(e2e): forward sighup in node watchdogs</code>](https://github.com/openclaw/openclaw/commit/32f98d7fe8b6eae9eaaddb93d5fddb8363c943a6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>refactor: share ios approval push delivery</code>](https://github.com/openclaw/openclaw/commit/42d3acfc99a31b25ca0cfac9a3413b47ec32d4a1)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(e2e): clean plugin fixture servers on timeout</code>](https://github.com/openclaw/openclaw/commit/7c52969d496a54b17643d012c65b07e5ca3c0eac)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>test(release): retry google tool-read failovers</code>](https://github.com/openclaw/openclaw/commit/4c6285e8ff79e873c39b86ae6f5d3c306d38cf22)
+- [ ] [<code>fix(e2e): clean generated docker client state</code>](https://github.com/openclaw/openclaw/commit/829fb5dcb314ca701ba0922d27d7a3d0687f35f4)
+- [ ] [<code>refactor: share node pairing authz test setup</code>](https://github.com/openclaw/openclaw/commit/ed07a7a2de595d7dd870d158981783eafdc6eee9)
+- [ ] [<code>test(e2e): exercise onboard wizard exit status</code>](https://github.com/openclaw/openclaw/commit/086274fd7e7a33d7085c95373b19cd18945c4b59)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(imessage): keep typing active during tool work (#88948)</code>](https://github.com/openclaw/openclaw/commit/02192bd27fd651671b2527d31ba6f91e959b4d88)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(agents): avoid duplicate generated media fallback (#89220)</code>](https://github.com/openclaw/openclaw/commit/12798eb789bd61c873dcc59baa0599aba733a116)
+- [ ] [<code>test(changelog): exercise attribution gate policy</code>](https://github.com/openclaw/openclaw/commit/1ed7692d2faca12d9391f80c1338ce730b31eb1a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor: share node invoke approval test helpers</code>](https://github.com/openclaw/openclaw/commit/3baf78dd0a0bafdd339fac3e1a4a6bd420c92737)
+- [ ] [<code>fix(testing): fail plugin gauntlet on failed qa summaries</code>](https://github.com/openclaw/openclaw/commit/bd8353dbaafab8dcfc638f88ca4d2c0b090758e0)
+- [ ] [<code>test(mac): exercise codesign entitlement use</code>](https://github.com/openclaw/openclaw/commit/8a9acd29409340ba2df149dc93e7c7e442cf65ce)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>refactor: share chat attachment test helpers</code>](https://github.com/openclaw/openclaw/commit/dacd18a8aa98188f5c98ea01d32548157eab0f8c)
+- [ ] [<code>test(release): accept gateway schema rejection wrapper</code>](https://github.com/openclaw/openclaw/commit/722af385d29ac97f95b6541434b7238fae936aac)
+- [ ] [<code>refactor: share channel health policy test fixtures</code>](https://github.com/openclaw/openclaw/commit/dea3e835c5b41e5424334c99af03a45e836fbe30)
+- [ ] [<code>refactor: share handshake auth helper test fixtures</code>](https://github.com/openclaw/openclaw/commit/ebbb2e8f01ec5fb72d00703736f9be14eacc0f12)
+- [ ] [<code>fix(ci): avoid rg dependency in changelog gate</code>](https://github.com/openclaw/openclaw/commit/6667b9734aaf56fefb676c377ae585071edc76ff)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(e2e): clean kitchen sink sweep state</code>](https://github.com/openclaw/openclaw/commit/222ade9fa6da39489f30b28533ac9b2d8bface38)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>refactor: share agent wait dedupe test fixtures</code>](https://github.com/openclaw/openclaw/commit/be8cb5d4ea602741f923ce5054597ce7b1b80aa1)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
