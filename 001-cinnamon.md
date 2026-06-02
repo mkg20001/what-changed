@@ -485,8 +485,10 @@
 - [ ] [<code>layer-shell: Allow indirect popups from layer-shell clients that</code>](https://github.com/linuxmint/muffin/commit/206c0ae9715fab88f258a04de97136533d3cf89d)
 - [ ] [<code>clutter-offscreen-effect.c: Fix offset for asymmetric paint volumes.</code>](https://github.com/linuxmint/muffin/commit/c4d4924e1f5db2d8f06b94485862aef9ca8ca1cb)
 - [ ] [<code>6.7.1-unstable</code>](https://github.com/linuxmint/muffin/commit/1b07851c8440bfe05e2c94dab3c05b4bf3bfa644)
-  - <sub>Tags: <code>6.7.1-unstable</code> <code>master.lmde7</code> <code>master.mint22</code></sub>
+  - <sub>Tags: <code>6.7.1-unstable</code></sub>
   - <sub>Files: <code>meson.build</code></sub>
+- [ ] [<code>compositor.c (x11): Sink the background actors to the bottom of</code>](https://github.com/linuxmint/muffin/commit/babfe8a9e1312bb98562fcedae5142937f70d414)
+  - <sub>Tags: <code>master.lmde7</code> <code>master.mint22</code></sub>
 
 #### [nemo](https://github.com/linuxmint/nemo): [6.6.4 → HEAD](https://github.com/linuxmint/nemo/compare/6.6.4...HEAD)
 
