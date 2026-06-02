@@ -896,6 +896,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Update to AVM v1.0.0</code>](https://github.com/AOMediaCodec/libavif/commit/d8b4e042cde136995909a7c5753d5f2910772248)
 - [ ] [<code>Bump the github-actions group across 2 directories with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/27ec163acc16da9cb1294161904f85a985dc5ce3)
 - [ ] [<code>Add avifCalloc() and harden allocation call sites</code>](https://github.com/AOMediaCodec/libavif/commit/c64ea9468ddf5f0b3cdf14d07da3e200c8c208b5)
+- [ ] [<code>Max frame dims apply to AV2 in avifValidateGrid()</code>](https://github.com/AOMediaCodec/libavif/commit/67f7589ee7a72e8ceca420607566d3c1727b81ed)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1311,6 +1312,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: update Go area instructions (#22600)</code>](https://github.com/netdata/netdata.git/commit/ff0bc17560a77d0a2927b04352f3b6c1bd5c6f51)
   - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
 - [ ] [<code>docs: task class: improve_docs — add a non-systemd linux section to the logs (#22518)</code>](https://github.com/netdata/netdata.git/commit/265f66c2bce9f22677361d945c21ac22fbbc1d4b)
+- [ ] [<code>Network Viewer (Connections on Windows) (#22585)</code>](https://github.com/netdata/netdata.git/commit/8be0c4deb2156d721a3c2ad2743618a829b44cf7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -12884,6 +12887,71 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(gateway): share node agent dispatch</code>](https://github.com/openclaw/openclaw/commit/335c3a8d3165025a3ea1d1e2fda4d207e276b144)
 - [ ] [<code>refactor(gateway): derive connection auth options</code>](https://github.com/openclaw/openclaw/commit/4b7f39e40610b98e61a10f5e11a726a238e5c098)
 - [ ] [<code>fix(codex): clear stale context-engine projection after overflow retry</code>](https://github.com/openclaw/openclaw/commit/e7aac172d5a18142d53d051f6adface6b03e52ee)
+- [ ] [<code>fix(providers): use native reasoning mode for Gemini instead of tagged (#89379)</code>](https://github.com/openclaw/openclaw/commit/b1bdc29d332f4ac91f0c448b8fdf44bd6ba941b1)
+- [ ] [<code>fix: surface unresolved OAuth sidecar auth failures</code>](https://github.com/openclaw/openclaw/commit/e992af4b6ed2552f0a78bade7ca7893f73b38174)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat(plugin-sdk): add resolve_exec_env hook</code>](https://github.com/openclaw/openclaw/commit/10d10faa257ddd5a0dd53b35660f614d75640237)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(testing): probe plugin CLI help while installed</code>](https://github.com/openclaw/openclaw/commit/d830e4affc5202b1a3919f274db3759e749058fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: align auth health status after Codex sidecar merge</code>](https://github.com/openclaw/openclaw/commit/95880ae21cfb8eb1a014bbb2e8922b5adcd50766)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(qqbot): migrate state stores to sqlite kv</code>](https://github.com/openclaw/openclaw/commit/6467ddd7edf1eadba2d42e8b6ed90d9d2d66f89e)
+- [ ] [<code>fix: recover corrupt managed npm installs</code>](https://github.com/openclaw/openclaw/commit/a326faa10cf818d00634f4f86e82de197c855572)
+- [ ] [<code>fix(llm): gate OpenAI-compatible reasoning output</code>](https://github.com/openclaw/openclaw/commit/06434d85a05319d1c5c77ff647c9e9d6f1fcfff1)
+- [ ] [<code>fix(agents): gate finalize hooks before delivery</code>](https://github.com/openclaw/openclaw/commit/895dccd0582d7387f0145b186c6795c49f2a944b)
+- [ ] [<code>docs: document Android notification picker helpers</code>](https://github.com/openclaw/openclaw/commit/2ffeca1d78224f045d53c268058667c6c489ea45)
+- [ ] [<code>fix(llm): keep OpenAI-compatible reasoning streams active</code>](https://github.com/openclaw/openclaw/commit/5259fa4495ac42408dcb8ab1bffd466507d79c8b)
+- [ ] [<code>fix(mistral): enable prompt cache keys</code>](https://github.com/openclaw/openclaw/commit/1824aa07a0d59f63b42a8b7519b2c1cbd74ac348)
+- [ ] [<code>fix(memory): keep FTS-only sync offline</code>](https://github.com/openclaw/openclaw/commit/cd0af35e5cf1f2d68458fbd729ba11970ae6bae1)
+- [ ] [<code>fix(scripts): keep watch proof asset copies out of idle window</code>](https://github.com/openclaw/openclaw/commit/4115f0c82f63729fe51064af86c416778d201cea)
+- [ ] [<code>fix(memory): scope provider-none FTS bypass</code>](https://github.com/openclaw/openclaw/commit/5a4f868de0db1902a7fc51a9b59dedd52cb50779)
+- [ ] [<code>fix(scripts): clean memory fd temp dirs after preindex failures</code>](https://github.com/openclaw/openclaw/commit/f6e8a1b2a8044ce7b97ed246e742b7b6af57c56e)
+- [ ] [<code>fix(scripts): avoid spread in runtime output collection</code>](https://github.com/openclaw/openclaw/commit/2d1140220869a9cfe2c6177242f8d600476aadcd)
+- [ ] [<code>fix(memory): report provider-none probes as FTS-only</code>](https://github.com/openclaw/openclaw/commit/0b61add47914bddf7e44732b7c9b55f6bb0bce18)
+- [ ] [<code>fix(memory): initialize provider-none lifecycle during sync</code>](https://github.com/openclaw/openclaw/commit/0b7c94a5e109a018d9fc9f15835d4233b6daafcd)
+- [ ] [<code>fix(scripts): avoid dead child assignment in fd repro</code>](https://github.com/openclaw/openclaw/commit/984c3ded9a345ffad734ab32ecf772164d7fa1dd)
+- [ ] [<code>fix(memory): force provider-none indexes to FTS-only vectors</code>](https://github.com/openclaw/openclaw/commit/212eaead01375c203c50fb9674f83a826af8004f)
+- [ ] [<code>fix(memory): avoid optional vector status dereference</code>](https://github.com/openclaw/openclaw/commit/36c1a3e0062cfd30f3565999204afa0f54d71002)
+- [ ] [<code>fix: audit and repair hooks token reuse with Gateway auth</code>](https://github.com/openclaw/openclaw/commit/3509f7613ec1e38e0ab2670ea4e701c77c06a1f6)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(google): forward Gemini stop sequences</code>](https://github.com/openclaw/openclaw/commit/4bb86877e2cf4ae8edc4294de68a693b1119b7c3)
+- [ ] [<code>docs: clarify autoreview follow-up scope</code>](https://github.com/openclaw/openclaw/commit/c3baec7136f067cb242f9e923c5705cb142a9c1d)
+- [ ] [<code>fix(models): preserve provider prompt cache boundaries</code>](https://github.com/openclaw/openclaw/commit/eef24d452fb5f7bec62a787b41130477cd70abba)
+- [ ] [<code>fix(test): isolate gateway CPU QA state</code>](https://github.com/openclaw/openclaw/commit/96277245dc975e0fa9e32958658c683f94080e3b)
+- [ ] [<code>fix(update): keep plugin repair fetch failures nonblocking</code>](https://github.com/openclaw/openclaw/commit/12c6ef6d57cd68fc45df9ce87b9125d3ba2eb746)
+- [ ] [<code>docs(changelog): note update repair stall handling</code>](https://github.com/openclaw/openclaw/commit/97d4d5effbce147b3dec5c5f15a3ad00310bec30)
+- [ ] [<code>fix: restore Skill Workshop view switcher</code>](https://github.com/openclaw/openclaw/commit/1b9860aa56eaf6dd3f01d1adeef8f895ef74cd49)
+- [ ] [<code>fix(kimi): strip anthropic cache markers</code>](https://github.com/openclaw/openclaw/commit/00d846daf76732b025beb271535ce45e44201b8d)
+- [ ] [<code>fix: recover suspicious gateway startup configs (#89480)</code>](https://github.com/openclaw/openclaw/commit/c8d21fe7f05b1fba01066caf2daa4cd04de2be0b)
+- [ ] [<code>fix(test): stabilize ARM extension timer tests</code>](https://github.com/openclaw/openclaw/commit/6c7644268f59770361d2760a27cb49823ec76717)
+- [ ] [<code>test(gateway): defer sidecars in tools invoke e2e</code>](https://github.com/openclaw/openclaw/commit/388dc56ba5726211523b000d8547d08659ebbf36)
+- [ ] [<code>test(gateway): abort accepted agent run in e2e</code>](https://github.com/openclaw/openclaw/commit/f789081bae123099e5a057ca43d8be35e35c6c48)
+- [ ] [<code>fix(providers): avoid custom provider runtime fanout</code>](https://github.com/openclaw/openclaw/commit/d07ba5f2656d6902e690fafe0b9c0107ac22c63f)
+- [ ] [<code>chore(scripts): drop legacy moltbot rpc alias</code>](https://github.com/openclaw/openclaw/commit/1ff2ffa160ae5695a6b2390a2816514dcd8ea8d6)
+- [ ] [<code>Policy: add data handling conformance checks (#87056)</code>](https://github.com/openclaw/openclaw/commit/1d3cfc4b016898fb6266a48daccee19b52432e0f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(rpc): enforce kitchen sink command rss ceiling</code>](https://github.com/openclaw/openclaw/commit/8bf6206a3e78d7b6fc5e832c706b6c13c5d26e3f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): validate gateway watch numeric options</code>](https://github.com/openclaw/openclaw/commit/5d4868c036b3c99ac281fe58cea26730d0c87a84)
+- [ ] [<code>fix(test): reject malformed full-suite parallel env</code>](https://github.com/openclaw/openclaw/commit/d007b9aba310b6a8b896341f7290a5483ddb9ad5)
+- [ ] [<code>fix(lint): reject malformed oxlint shard env</code>](https://github.com/openclaw/openclaw/commit/054e734e53b9a44833a80ec7c6d3c6c41637fe7e)
+- [ ] [<code>fix(test): reject malformed boundary check env</code>](https://github.com/openclaw/openclaw/commit/e59e65be67dcc9876c1dec994e0979b0d5b49ae0)
+- [ ] [<code>Harden node exec approval precheck env [AI] (#81488)</code>](https://github.com/openclaw/openclaw/commit/c208a1061951ba37bf98eaa8ba7b810f7a8ec548)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(ci): reject malformed targeted docker group size</code>](https://github.com/openclaw/openclaw/commit/36a596aa9fed8916897e48c8103cdc72519d475f)
+- [ ] [<code>fix(docs): reject malformed mdx max error limits</code>](https://github.com/openclaw/openclaw/commit/661c763b28da0d547cc4898124b5efa15a76d47d)
+- [ ] [<code>fix(test): reject malformed group report numeric flags</code>](https://github.com/openclaw/openclaw/commit/28b1ea7c0d6e2dcf71256e2afd6971aa35065cce)
+- [ ] [<code>fix(docker): reject malformed timing limits</code>](https://github.com/openclaw/openclaw/commit/aed3743630ab1bca94893a900248a13e2285a0c4)
+- [ ] [<code>fix(ci): reject malformed ci timing limits</code>](https://github.com/openclaw/openclaw/commit/36d7ac31c2bda2a48ff8fc9a4a796ec763e56413)
+- [ ] [<code>fix(perf): reject malformed cpuprofile limits</code>](https://github.com/openclaw/openclaw/commit/5f6a8083bf1401eeccae180087bd0ff7353173e3)
+- [ ] [<code>fix(test): reject malformed extension shard counts</code>](https://github.com/openclaw/openclaw/commit/432a5978b945ccf657c9ecba86d547f8cc87fa08)
+- [ ] [<code>fix(test): reject malformed extension batch parallelism</code>](https://github.com/openclaw/openclaw/commit/97509ed1d7be35b4984d825c1b802037c6fd5db4)
+- [ ] [<code>fix(test): reject malformed extension boundary concurrency</code>](https://github.com/openclaw/openclaw/commit/0188c541de7b5c4396ae5062f7d1840c4ef986de)
+- [ ] [<code>fix(tooling): reject malformed topology limits</code>](https://github.com/openclaw/openclaw/commit/ac8338bb026d432d0fce2b418b2d772bd70b70a4)
+- [ ] [<code>fix(test): reject malformed boundary prep timeouts</code>](https://github.com/openclaw/openclaw/commit/6af047c7f6d8b9f8eb7a620c1cf3527de31d7b95)
+- [ ] [<code>fix(test): reject malformed local check limits</code>](https://github.com/openclaw/openclaw/commit/8cecf2c7eafddf709e8438bd82d7ed8bdd732ddc)
+- [ ] [<code>feat(ui): add workboard keyboard movement controls</code>](https://github.com/openclaw/openclaw/commit/be336cc1e489a2f9d966d6489105e05fad98b3bd)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
