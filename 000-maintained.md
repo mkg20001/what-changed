@@ -12952,6 +12952,17 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(test): reject malformed boundary prep timeouts</code>](https://github.com/openclaw/openclaw/commit/6af047c7f6d8b9f8eb7a620c1cf3527de31d7b95)
 - [ ] [<code>fix(test): reject malformed local check limits</code>](https://github.com/openclaw/openclaw/commit/8cecf2c7eafddf709e8438bd82d7ed8bdd732ddc)
 - [ ] [<code>feat(ui): add workboard keyboard movement controls</code>](https://github.com/openclaw/openclaw/commit/be336cc1e489a2f9d966d6489105e05fad98b3bd)
+- [ ] [<code>fix(tooling): reject malformed tsdown watchdog limits</code>](https://github.com/openclaw/openclaw/commit/a86a1de8499f18ce54f056ff9ec12434ad068418)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(policy): reject unsupported policy keys (#87074)</code>](https://github.com/openclaw/openclaw/commit/646974b7d8fbedcd4eee4ca5de455165737a77c4)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): reject malformed cron cleanup limits</code>](https://github.com/openclaw/openclaw/commit/e38b8f6a201d6f69ba21a47596b3816437788ab1)
+- [ ] [<code>fix(tooling): reject malformed crabbox sync limits</code>](https://github.com/openclaw/openclaw/commit/2a3421a0da2e5455c86d385b537edc67a1b7f166)
+- [ ] [<code>chore(tooling): drop stale deadcode allowlist entries</code>](https://github.com/openclaw/openclaw/commit/85633eb61543060619f07fc94eb875630ff33631)
+- [ ] [<code>fix(tooling): reject malformed cross-os release timeouts</code>](https://github.com/openclaw/openclaw/commit/dd46fd36a3ca6c0e752769ce802babf7d2e9aa6b)
+- [ ] [<code>fix(release): reject malformed beta smoke limits</code>](https://github.com/openclaw/openclaw/commit/3d4d30fd5a9165cfe84a2145216f5d7656861c3f)
+- [ ] [<code>fix(test): reject malformed parallels smoke limits</code>](https://github.com/openclaw/openclaw/commit/1f35ad12b3d6cd0dac78b276792a8effc7adbc88)
+- [ ] [<code>fix(outbound): stop schema-padded poll modifiers from blocking send (#89601)</code>](https://github.com/openclaw/openclaw/commit/8b546facaf490582a3b7c783fdc610f6802e7796)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
