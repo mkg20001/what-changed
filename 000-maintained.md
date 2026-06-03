@@ -1326,6 +1326,10 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add engineering task issue template (#22615)</code>](https://github.com/netdata/netdata.git/commit/ea04264fe52ff8077d9469ee060705dc106dbf70)
 - [ ] [<code>chore(go.d): retire legacy Go topology payloads (#22614)</code>](https://github.com/netdata/netdata.git/commit/e1fae9304827db54792daebbbd38baed71dd7fbb)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(journal-index): avoid ValueGuardInUse when indexing otel journals (#22621)</code>](https://github.com/netdata/netdata.git/commit/5ac1358c4213dcba403efe384e7dcde2da41c2a3)
+- [ ] [<code>Windows compatibility (P1) (#21972)</code>](https://github.com/netdata/netdata.git/commit/dca98ffaf021485d5f1a20ae1b37ebc2f2ac2b1b)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -13082,6 +13086,68 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>refactor(android): distill companion shell cleanup</code>](https://github.com/openclaw/openclaw/commit/4f8740029a0d5336eceb930f226565aeec6d15db)
 - [ ] [<code>fix(android): hide nav under command palette</code>](https://github.com/openclaw/openclaw/commit/e5e6cf04a2f403ffbdd545bcb1ea6f7c6c944c89)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): stop interrupted docker builds</code>](https://github.com/openclaw/openclaw/commit/d31f4e2d62359cd695494f7546eb9a6d73a5a92e)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(agents): release session write lock if fence read throws on prompt release (#89811)</code>](https://github.com/openclaw/openclaw/commit/409d1a7135415b34052e4a8d59c8e363294d6e97)
+- [ ] [<code>test(gateway): shard default gateway vitest config</code>](https://github.com/openclaw/openclaw/commit/6d7b80fa1c149d4383710518f60d7d600a21b98a)
+- [ ] [<code>test(e2e): assert mcp reconnect temp state</code>](https://github.com/openclaw/openclaw/commit/03ccdb9fbc2d6a556ccf2ea63d1bd6b0d1a82ef7)
+- [ ] [<code>perf(ui): trace chat send server milestones</code>](https://github.com/openclaw/openclaw/commit/98ff56d70e330e421312cd09c6553f2e09af9fd8)
+- [ ] [<code>test: lengthen ARM contracts shard watchdog</code>](https://github.com/openclaw/openclaw/commit/9dc1694eb78e89f91deb41f848974815efc1cbbc)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(telegram): isolate verbose status after streamed finals (#89813)</code>](https://github.com/openclaw/openclaw/commit/07006943dea51542d97e43373e7de926e12ab2bc)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(vitest): make channel helper config runnable</code>](https://github.com/openclaw/openclaw/commit/2fa60af960731b506037e04dfb30e135d8bea154)
+- [ ] [<code>test(qa): require channel scenario markers</code>](https://github.com/openclaw/openclaw/commit/a9f099d279a6623b7648339a820c48169b75bdd4)
+- [ ] [<code>fix(feishu): wire setup runtime setter (#89814)</code>](https://github.com/openclaw/openclaw/commit/a61c94b1f1794a2fe11dd65c61a1806a71c908f6)
+- [ ] [<code>fix(telegram): retain preview on generation race</code>](https://github.com/openclaw/openclaw/commit/0a4927d0b8c240f8e62f730dbb44cc7ad67b8d3c)
+- [ ] [<code>test(telegram): simplify preview race harness</code>](https://github.com/openclaw/openclaw/commit/b3b203bf67b9f5284d0c898b867692c7493e8b61)
+- [ ] [<code>fix #88773: [Bug]: Telegram DM exec requires approval despite allowlist + ask:off — works in webchat, not in Telegram (#89035)</code>](https://github.com/openclaw/openclaw/commit/60dcaa3cf537dcd1027505c81aa192968bcfe40a)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(scripts): stop rpc rtt process groups</code>](https://github.com/openclaw/openclaw/commit/90493ee8e2cf9d33c83b8bcc45fe1ceb0f97c64f)
+- [ ] [<code>fix(telegram): prevent preview duplication in partial and block streaming modes</code>](https://github.com/openclaw/openclaw/commit/e4993ec00f05254fbb3a5d048fa21ad40157b35c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(e2e): require kitchen sink command rss samples</code>](https://github.com/openclaw/openclaw/commit/446a2b24c359a51c625941c184d2d2f6a7c58da5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): force stop memory fd gateway child</code>](https://github.com/openclaw/openclaw/commit/a7d5ae18729402eeab4b67c8f6895afccc663446)
+- [ ] [<code>fix(outbound): keep channel send durable when transcript mirror fails (#89626) (#89812)</code>](https://github.com/openclaw/openclaw/commit/79896a24d9bb941f7c9f3801a69f3ea01fb31043)
+- [ ] [<code>fix(e2e): clean clawhub install temp home</code>](https://github.com/openclaw/openclaw/commit/d6bea4c5ac8291482751416131fa3bfc20250a1e)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>fix(installer): fail on onboarding exit code</code>](https://github.com/openclaw/openclaw/commit/ff5667a582293e11d7f5a78b3db99aa7809259eb)
+- [ ] [<code>ci(docker): disable alpha image publishes</code>](https://github.com/openclaw/openclaw/commit/b7450f83a16e1b3131e71ccb61cf75b1854d9055)
+- [ ] [<code>test(e2e): tighten onboard status assertions</code>](https://github.com/openclaw/openclaw/commit/70a989a97a9ff69dd2dfceab26e8adb83d0ad8a5)
+- [ ] [<code>fix(telegram): require admin for target writeback [AI] (#88973)</code>](https://github.com/openclaw/openclaw/commit/5483ff705fd97e68137d65024413f1d44ccbf070)
+- [ ] [<code>refactor(gateway): share duplicated test helpers</code>](https://github.com/openclaw/openclaw/commit/c219c625986731f0be58c0bdd89c940a66e1319b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(telegram): slow polling restart storms</code>](https://github.com/openclaw/openclaw/commit/946eed685d479691751879a5d19b841bbbe5d814)
+- [ ] [<code>refactor(telegram): distill polling restart stops</code>](https://github.com/openclaw/openclaw/commit/0bcdb9c0d1f5d64055da12ea00d3b126ac99dda0)
+- [ ] [<code>fix(telegram): cancel clean restart stop timers</code>](https://github.com/openclaw/openclaw/commit/0b26a1bca728705dd7240f37685bb09c91720310)
+- [ ] [<code>test(codex): cover bad dynamic tool schemas</code>](https://github.com/openclaw/openclaw/commit/acacd32415022adfb41995eab232ee6440f746e4)
+- [ ] [<code>fix(ci): harden ARM smoke and browser checks</code>](https://github.com/openclaw/openclaw/commit/d3ab7e92ef2dce52c90e91ed19ea9399b639fa64)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(testing): keep plugin gauntlet pnpm noninteractive</code>](https://github.com/openclaw/openclaw/commit/f4868b79e3ad4ae386bd84604d8148bd7e8a6704)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(vitest): extend full agentic watchdog</code>](https://github.com/openclaw/openclaw/commit/8f6f2617ec066a7553f71d724d2ef534c130eb4d)
+- [ ] [<code>fix(e2e): rethrow lifecycle shutdown promptly</code>](https://github.com/openclaw/openclaw/commit/38f1db6d67f0b9ff25fb437ecb95f8a59e9dc004)
+- [ ] [<code>test(canvas): cover A2UI static asset compatibility</code>](https://github.com/openclaw/openclaw/commit/3a643025855e16d1f5d30762629c5c3343a4e4e7)
+- [ ] [<code>fix(e2e): fail timed rpc commands</code>](https://github.com/openclaw/openclaw/commit/21b262f507f602347f6193573f97e5d9ced110c7)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(scripts): guard codex protocol generation disk headroom</code>](https://github.com/openclaw/openclaw/commit/e0ab71d3dcf10680a060d01a7e2a3bc976cbda6f)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>test(ui): defer control ui vite import</code>](https://github.com/openclaw/openclaw/commit/34808326149fa8b02feab6328376c468ab0e19cd)
+- [ ] [<code>test(plugins): anchor provider family inventory to source roots</code>](https://github.com/openclaw/openclaw/commit/d358294f897c4c9c16137c7a6a4995f3dcd5efb1)
+- [ ] [<code>fix(gateway): cancel stop terminate fallback</code>](https://github.com/openclaw/openclaw/commit/8c89d35a8ad8a6656ba5fc8483691be5e50d76f5)
+- [ ] [<code>fix(canvas): restore A2UI compatibility assets</code>](https://github.com/openclaw/openclaw/commit/ec47d1cdd56f2c87b0255ad883854eaf816e95c2)
+- [ ] [<code>fix(testing): route source targets through test planner</code>](https://github.com/openclaw/openclaw/commit/344e04b5d5591903e90fa8b4896f8698e68c354a)
+- [ ] [<code>fix(discord): match libopus error shape</code>](https://github.com/openclaw/openclaw/commit/158c4d75402d1cf5dc49d0f5c363cce0c8489b19)
+- [ ] [<code>test(startup): make cli startup budgets arch-aware</code>](https://github.com/openclaw/openclaw/commit/286e5ffe0767a0bd3325b0cbae40218a19e38eab)
+- [ ] [<code>fix(testing): harden bundled channel contract loading</code>](https://github.com/openclaw/openclaw/commit/6d5061c234bde957b15b408114cff6311d74dd23)
+- [ ] [<code>fix(models): recover bundled provider aliases</code>](https://github.com/openclaw/openclaw/commit/7098e335bfe96f7999f4ff1de5641bf89393f413)
+- [ ] [<code>test(channels): fix guardrail regex lint (#89960)</code>](https://github.com/openclaw/openclaw/commit/79a8dec44d037e3d8d4453a423c70308c69445ab)
+- [ ] [<code>test(live): harden ARM live harness defaults</code>](https://github.com/openclaw/openclaw/commit/892602eaba07a04cac3c073c1b6a235e51caf682)
+- [ ] [<code>fix(memory): warn after startup watcher pressure check (#89244)</code>](https://github.com/openclaw/openclaw/commit/f0237caf27d7083e6c79fb2b8563055d4f73a972)
+- [ ] [<code>fix(testing): speed channel contract loading</code>](https://github.com/openclaw/openclaw/commit/a0717ef61c77e3d7fd7c4f269bcdc72d285e8b27)
+- [ ] [<code>test(live): keep cache prereq skips provider-aware</code>](https://github.com/openclaw/openclaw/commit/932034f1fc8a3fcccff54ba30cc2f76dd63369f7)
+- [ ] [<code>ci(crabbox): keep hydrated modules under node_modules</code>](https://github.com/openclaw/openclaw/commit/7b82901e58d32ce52472f55be36c289a37443400)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
