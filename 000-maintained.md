@@ -489,6 +489,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/e6933503786db2e34b468702ebe4dc9d31a784da)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/c4953e7664325f345d4a6fca66c990ab733aab71)
 - [ ] [<code>chore: Clean translations</code>](https://github.com/krille-chan/fluffychat/commit/976619b964307a91516174db55e6f98f5e0c9fae)
+- [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -777,6 +778,7 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Ukrainian)</code>](https://github.com/krille-chan/fluffychat/commit/e6933503786db2e34b468702ebe4dc9d31a784da)
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/c4953e7664325f345d4a6fca66c990ab733aab71)
 - [ ] [<code>chore: Clean translations</code>](https://github.com/krille-chan/fluffychat/commit/976619b964307a91516174db55e6f98f5e0c9fae)
+- [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -897,6 +899,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Bump the github-actions group across 2 directories with 2 updates</code>](https://github.com/AOMediaCodec/libavif/commit/27ec163acc16da9cb1294161904f85a985dc5ce3)
 - [ ] [<code>Add avifCalloc() and harden allocation call sites</code>](https://github.com/AOMediaCodec/libavif/commit/c64ea9468ddf5f0b3cdf14d07da3e200c8c208b5)
 - [ ] [<code>Max frame dims apply to AV2 in avifValidateGrid()</code>](https://github.com/AOMediaCodec/libavif/commit/67f7589ee7a72e8ceca420607566d3c1727b81ed)
+- [ ] [<code>Disallow dstImage == srcImage</code>](https://github.com/AOMediaCodec/libavif/commit/a660226935e62194c4129d57fd352d611969806b)
+- [ ] [<code>Reject 'sato' items with no input image items (#3237)</code>](https://github.com/AOMediaCodec/libavif/commit/383d8c8087c50be7b5a6ad5152e3bbc09bf1e9e0)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1314,6 +1318,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: task class: improve_docs — add a non-systemd linux section to the logs (#22518)</code>](https://github.com/netdata/netdata.git/commit/265f66c2bce9f22677361d945c21ac22fbbc1d4b)
 - [ ] [<code>Network Viewer (Connections on Windows) (#22585)</code>](https://github.com/netdata/netdata.git/commit/8be0c4deb2156d721a3c2ad2743618a829b44cf7)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-314-nightly.</code>](https://github.com/netdata/netdata.git/commit/35613888acd759f1558e643db8d651aad2929e43)
+- [ ] [<code>Rework SOW lifecycle (#22606)</code>](https://github.com/netdata/netdata.git/commit/3b4c0e8a9940b7d5f1f9dbd7047402a1a3b12db2)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>chore(go.d): rename topology engine package to l2topology (#22611)</code>](https://github.com/netdata/netdata.git/commit/ecb54e818c2377823be6204e75817cf061a840e2)
+- [ ] [<code>Regenerate integrations docs (#22607)</code>](https://github.com/netdata/netdata.git/commit/67d2195619ced76405945376c33e87126f6796c2)
+- [ ] [<code>Add engineering task issue template (#22615)</code>](https://github.com/netdata/netdata.git/commit/ea04264fe52ff8077d9469ee060705dc106dbf70)
+- [ ] [<code>chore(go.d): retire legacy Go topology payloads (#22614)</code>](https://github.com/netdata/netdata.git/commit/e1fae9304827db54792daebbbd38baed71dd7fbb)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2142,6 +2154,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix: remove exclusion for OpenStack files as the tests should pass</code>](https://github.com/canonical/netplan/commit/901eeca87af88dcbb91c4f3375dcd18d0eea787f)
   - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(ci): fix autopkgtest CI failures (#591)</code>](https://github.com/canonical/netplan/commit/a03d06e0af2bbbd42bb5be9a9d62070274a08d21)
+- [ ] [<code>docs: remove pull request description heading (#593)</code>](https://github.com/canonical/netplan/commit/4c68ed83aadd6517f63244461c83842afc201f33)
 
 #### [nexa](https://github.com/NexaAI/nexa-sdk): [refs/tags/v0.2.73 → HEAD](https://github.com/NexaAI/nexa-sdk/compare/refs/tags/v0.2.73...HEAD)
 
@@ -12963,6 +12977,111 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(release): reject malformed beta smoke limits</code>](https://github.com/openclaw/openclaw/commit/3d4d30fd5a9165cfe84a2145216f5d7656861c3f)
 - [ ] [<code>fix(test): reject malformed parallels smoke limits</code>](https://github.com/openclaw/openclaw/commit/1f35ad12b3d6cd0dac78b276792a8effc7adbc88)
 - [ ] [<code>fix(outbound): stop schema-padded poll modifiers from blocking send (#89601)</code>](https://github.com/openclaw/openclaw/commit/8b546facaf490582a3b7c783fdc610f6802e7796)
+- [ ] [<code>fix(tooling): reject malformed release command limits</code>](https://github.com/openclaw/openclaw/commit/6d643ccd11c62f0dc28d515c85a4a9379f9f08a3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(tooling): run knip through pnpm package dlx</code>](https://github.com/openclaw/openclaw/commit/0fa384c6f6f1c54022fb30cd33192c1212c9af69)
+- [ ] [<code>fix(tooling): bound deadcode knip subprocesses</code>](https://github.com/openclaw/openclaw/commit/f2a46b0661206a0b7264ad05749e2304fbfe6a61)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>perf: avoid broad Telegram reset boundary scan</code>](https://github.com/openclaw/openclaw/commit/d76f2c0c3bd1707f55882cb53088df7d42de9442)
+- [ ] [<code>refactor(telegram): fold reset boundary lookup</code>](https://github.com/openclaw/openclaw/commit/a9f014e9dfa0776781c75909afaa60bb4f329f46)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(discord): suppress internal agent failure traces</code>](https://github.com/openclaw/openclaw/commit/a8bf14da846e45e1a5d7026a1b230696b02c074b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(discord): preserve channel-label suppression</code>](https://github.com/openclaw/openclaw/commit/5629c44547d1b8b8efc36142f7a2cf9558e6b981)
+- [ ] [<code>fix(discord): cover compact gh failure traces</code>](https://github.com/openclaw/openclaw/commit/d82bfcecb1d8e08bb9b3978e5f83344f450fb25d)
+- [ ] [<code>fix(discord): sanitize tool progress scaffolding</code>](https://github.com/openclaw/openclaw/commit/8f1ae5967ef27e251e361622259db6faea6c21b0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ci): reset crabbox pnpm hydrate state</code>](https://github.com/openclaw/openclaw/commit/78b3f60dbd96f65dfde38fe88e290be01b5687db)
+- [ ] [<code>fix(ci): show docker build heartbeats</code>](https://github.com/openclaw/openclaw/commit/6b25b788000d4a61a879a0768186dafc92893eb5)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>fix(ci): trim docker e2e heartbeat latency</code>](https://github.com/openclaw/openclaw/commit/17795c6c4c17d03c756f89ee2dd35cb07ce5bdc2)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>feat(ui): tighten workboard card operations</code>](https://github.com/openclaw/openclaw/commit/7cbdebc4edeef21c48b436cbd3467b7d68c18f96)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>test(extensions): reset fake timers before tests</code>](https://github.com/openclaw/openclaw/commit/97dde195776bfa6dc8ec78aaa1bdb9bdce2e622f)
+- [ ] [<code>chore(scripts): add gateway rpc rtt probe</code>](https://github.com/openclaw/openclaw/commit/5056dd47ca00a6dbfc9954193e7ca06cbcdcb1d5)
+- [ ] [<code>fix(ui): narrow workboard dependency fixtures</code>](https://github.com/openclaw/openclaw/commit/f02c1209aa2dfea96e3dd2ed7888bf52fc63d770)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(exec): reject corrupt shell snapshots (#89701)</code>](https://github.com/openclaw/openclaw/commit/c0c4156b6dc90bda629afca8e836d82912c2f036)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: allowlist pending agent sqlite scaffold (#89705)</code>](https://github.com/openclaw/openclaw/commit/58160094e82e52a0d1f0ff9036e7806ac2ae02a4)
+- [ ] [<code>refactor(channels): share progress draft compositor</code>](https://github.com/openclaw/openclaw/commit/a4b09d72b92b07b971543307614874cf4e2ee57f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>refactor(discord): use shared progress compositor</code>](https://github.com/openclaw/openclaw/commit/7f79bd86831810ad36dd5c15d0aa5462e07f2f5e)
+- [ ] [<code>feat(telegram): compose progress draft reasoning</code>](https://github.com/openclaw/openclaw/commit/2a512025ad3e18420935aa1ba9a234c6fd6b0cda)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>perf(control-ui): coalesce chat metadata startup</code>](https://github.com/openclaw/openclaw/commit/c0b05a2100d319ecf9c13f9ea069e3ea70c214f9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): lazy load usage dashboard</code>](https://github.com/openclaw/openclaw/commit/f8fcb350649b07baa63145d691cfa870fb36a984)
+- [ ] [<code>fix(build): externalize optional baileys image backends</code>](https://github.com/openclaw/openclaw/commit/7c1a83ff2edeccff71c54fd16936c18d7956ce17)
+- [ ] [<code>fix(codex): close startup client on timeout</code>](https://github.com/openclaw/openclaw/commit/f47277871791b0329f6ddfba87ce20a517dd0f3d)
+- [ ] [<code>fix(e2e): isolate release journey artifacts</code>](https://github.com/openclaw/openclaw/commit/a462601f0511d9bd0fc142ae55112b4f94d70b29)
+- [ ] [<code>fix(release): bound candidate GitHub requests</code>](https://github.com/openclaw/openclaw/commit/ed4c4afc0f6e6ce455bafcd3a2d4857fd1ebc778)
+- [ ] [<code>fix(release): bound cross-os discord fetches</code>](https://github.com/openclaw/openclaw/commit/2c9297339817c19e52bbd66553dee0a7d776f6a4)
+- [ ] [<code>fix(testing): bound rpc readiness probes</code>](https://github.com/openclaw/openclaw/commit/7ccbffcb1bd5bcf0981e8337e0aa10217e4fbad7)
+- [ ] [<code>fix(ci): isolate ARM Testbox workflow</code>](https://github.com/openclaw/openclaw/commit/6d788a237c3a8660298f1eb8ce7fa70ac6239c5b)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>exec</code></sub>
+- [ ] [<code>fix: report gateway health auth diagnostics (#89337)</code>](https://github.com/openclaw/openclaw/commit/d48b9274d819a369ed936bdcbee1ecdb42416703)
+- [ ] [<code>fix(scripts): clean run-with-env process groups</code>](https://github.com/openclaw/openclaw/commit/b6cee3fc35a144430d3a8b74c1ca4f0dab49cee2)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>perf(control-ui): render chat history incrementally</code>](https://github.com/openclaw/openclaw/commit/85e5d486df116fab3443973ac4e180f01244510d)
+- [ ] [<code>fix(gateway): stabilize webchat prompt cache affinity</code>](https://github.com/openclaw/openclaw/commit/175cfe4846a11d48dcaa6f6eb33ed8406e5facfb)
+- [ ] [<code>fix(e2e): isolate multi-node artifacts</code>](https://github.com/openclaw/openclaw/commit/d5df1a1cd6a703736e2930a044686cde31a30a87)
+- [ ] [<code>fix(e2e): isolate telegram package artifacts</code>](https://github.com/openclaw/openclaw/commit/5820378b90159430c70994c010baf2caa5ded00b)
+- [ ] [<code>fix(e2e): surface secret proof cleanup failures</code>](https://github.com/openclaw/openclaw/commit/d004b80c91881587796da52bd38a2980bed55ed7)
+- [ ] [<code>fix(webchat): show sessions_send handoffs as forwarded</code>](https://github.com/openclaw/openclaw/commit/932d6ea8e5cef3de5d672e1a68b682492c910439)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(e2e): keep cleanup retries covered</code>](https://github.com/openclaw/openclaw/commit/54fe0e7f719b033c85218e964868b40b9694cf01)
+- [ ] [<code>fix(e2e): close rpc rtt gateway log handles</code>](https://github.com/openclaw/openclaw/commit/34c3827290a701f78298adf2452342a65030d0a4)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>fix(e2e): fail rpc rtt cleanup leaks</code>](https://github.com/openclaw/openclaw/commit/380a8f140e44c73eecd6944e5bf54d4a6df0588f)
+- [ ] [<code>fix(auto-reply): surface fatal channel errors</code>](https://github.com/openclaw/openclaw/commit/a10faca06f62405b645b450b8b104e7bf7394abd)
+- [ ] [<code>test(auto-reply): cover channel-agnostic failure routing</code>](https://github.com/openclaw/openclaw/commit/a5ef086e3c54aba1238c0a0028cfcaebb9b1e0a8)
+- [ ] [<code>refactor(auto-reply): unify transient failure visibility</code>](https://github.com/openclaw/openclaw/commit/1bd1483b62aadc97844e05f88d337b662f5ef09d)
+- [ ] [<code>fix(e2e): fail kitchen sink cleanup leaks</code>](https://github.com/openclaw/openclaw/commit/114864185bb8f14d98e63a2d09929360432028c6)
+- [ ] [<code>fix(ui): reconcile completed chat sends</code>](https://github.com/openclaw/openclaw/commit/0b98aea71a52e8d1e77002cec4e4bf055553d5f0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(ui): clear chat stream before terminal commits</code>](https://github.com/openclaw/openclaw/commit/c2d7b4a486b1fe179f3c0aaee1a78f79c550c9f7)
+- [ ] [<code>fix(ui): preserve visible chat stream text</code>](https://github.com/openclaw/openclaw/commit/17a285f29825abffa50d029ddafff7a3a07517d9)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(test): route parallels helper changes</code>](https://github.com/openclaw/openclaw/commit/3cdb87be866c0176195dd47100d7146311e8088c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>refactor(channels): share progress draft primitives</code>](https://github.com/openclaw/openclaw/commit/04f93c2fb4946885fca9d3cca0fe227dd6d32a7f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>feat(telegram): show commentary in progress drafts</code>](https://github.com/openclaw/openclaw/commit/41ee6b1dd68c05864427388192505b1a23f48cc5)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(test): avoid empty script changed runs</code>](https://github.com/openclaw/openclaw/commit/4a67e4b976882dba879e67107d72de4ea53e23c6)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(e2e): fail package worktree cleanup leaks</code>](https://github.com/openclaw/openclaw/commit/84dca54ef270f6f54d9669cd3f19a15f963c14f9)
+- [ ] [<code>fix(e2e): clean failed tarball extracts</code>](https://github.com/openclaw/openclaw/commit/1e4ff80604e057fe49f8ddcd88399463f7435c47)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>perf(ui): start chat refresh before bootstrap</code>](https://github.com/openclaw/openclaw/commit/f49f5973b0c131c20335c4f68ffa0c737f49a8f4)
+- [ ] [<code>fix(ui): scroll pending sends into view</code>](https://github.com/openclaw/openclaw/commit/26301f318f15be5cdb0ad64a40ba37e34b53328b)
+- [ ] [<code>perf(ui): label delayed chat sends in telemetry (#89777)</code>](https://github.com/openclaw/openclaw/commit/7074cf8e23c1f64362c4f8c4bf32971ca94d5221)
+- [ ] [<code>fix(e2e): isolate plugin lifecycle artifacts</code>](https://github.com/openclaw/openclaw/commit/7cee0bca0bea31e50dfb45a89fd50f9ecece9c69)
+- [ ] [<code>fix(codex): retire abandoned app-server startups</code>](https://github.com/openclaw/openclaw/commit/5a0d9d6326f7ae771fcd895be5e05f387a952ab9)
+- [ ] [<code>fix(e2e): bound mock readiness probes</code>](https://github.com/openclaw/openclaw/commit/a7c8b2a46ae56578637f58e8a755065c6d5379aa)
+- [ ] [<code>perf(gateway): overlap chat catalog startup</code>](https://github.com/openclaw/openclaw/commit/c68938c19e4b7a1b5ebe65e21ec4893e62b5f4e3)
+- [ ] [<code>fix(tooling): cancel oversized audit responses</code>](https://github.com/openclaw/openclaw/commit/44fea3c94abe69fce393021c7c82f30f07596a86)
+- [ ] [<code>fix(e2e): stop tracked process groups</code>](https://github.com/openclaw/openclaw/commit/76c8b36031d76c1e162f13b9582ac665138b514f)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>test(e2e): assert channel credential fields</code>](https://github.com/openclaw/openclaw/commit/2accf3875ba07254becc74f65eecaf5383e74e9d)
+- [ ] [<code>test(ui): cover control chat send timing phases</code>](https://github.com/openclaw/openclaw/commit/9947a2676817f0a0ea8c7bd7c7059fb63e0b9314)
+- [ ] [<code>fix(e2e): bound clickclack fixture bodies</code>](https://github.com/openclaw/openclaw/commit/1b5cb4a0d3440a58d422ce4461cbc06a7403fe9d)
+- [ ] [<code>test: stabilize timing-sensitive ARM suites</code>](https://github.com/openclaw/openclaw/commit/a46181f1680bfd51061b08e9fde0ebd41281facf)
+- [ ] [<code>test(codex): stabilize app-server startup races</code>](https://github.com/openclaw/openclaw/commit/b96c0d932f9351ba0d86097d8796dd074f8c7e2d)
+- [ ] [<code>fix(e2e): settle credential shutdown promptly</code>](https://github.com/openclaw/openclaw/commit/287dee4593938bd26e4a8c0ac01fd506f2214903)
+- [ ] [<code>perf(ui): surface chat ack server timing (#89801)</code>](https://github.com/openclaw/openclaw/commit/b1fccd06058eba49dce3390b76614c2a77641665)
+- [ ] [<code>fix(ui): harden Workboard dialog accessibility</code>](https://github.com/openclaw/openclaw/commit/529282dcff293a84f705c92666fe45682b3ad6e7)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>fix(e2e): bound image auth mock bodies</code>](https://github.com/openclaw/openclaw/commit/87eaac4010dd2c341d1bd54b1103ceb7a7941d00)
+- [ ] [<code>docs(web): document chat ack timing metadata (#89802)</code>](https://github.com/openclaw/openclaw/commit/6ec579a0c2f10672888376bc0105db25db833009)
+- [ ] [<code>test(e2e): require kitchen sink tool coverage</code>](https://github.com/openclaw/openclaw/commit/eddf1c776dd2c17dfdf9ee3db0966c3f7ce0ce06)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>Improve Android companion-first shell UX</code>](https://github.com/openclaw/openclaw/commit/9159b3bf8e470a974c0af7028a7d7ac8f6356434)
+- [ ] [<code>refactor(android): distill companion shell cleanup</code>](https://github.com/openclaw/openclaw/commit/4f8740029a0d5336eceb930f226565aeec6d15db)
+- [ ] [<code>fix(android): hide nav under command palette</code>](https://github.com/openclaw/openclaw/commit/e5e6cf04a2f403ffbdd545bcb1ea6f7c6c944c89)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
@@ -13524,8 +13643,34 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>tests: implement automatic library test skipping</code>](https://github.com/jow-/ucode/commit/b50372e8e8a0fb136df5c61974461bc332a15779)
 - [ ] [<code>math: degrees <-> radians convertors</code>](https://github.com/jow-/ucode/commit/81066c54a07f9bf9f619ed1c2043b0baf22aeb11)
 - [ ] [<code>ubus: drop unconditional garbage collection calls</code>](https://github.com/jow-/ucode/commit/388ef3f35e0a2bb62a626ed86ed727af12bfff02)
+- [ ] [<code>math: min and max</code>](https://github.com/jow-/ucode/commit/1ac496a91a3092fa194c0469e5d3697d80cbe7c5)
+- [ ] [<code>math: clamp</code>](https://github.com/jow-/ucode/commit/4c917958038dacb9b2ac54265cbd448f5b564a3a)
+- [ ] [<code>math: sign functions</code>](https://github.com/jow-/ucode/commit/c6404b6af75c20629b638b5fab71d0ce460bb427)
+- [ ] [<code>math: copysign</code>](https://github.com/jow-/ucode/commit/597b17d0edea087ca9f050f1052a61cd71f3d426)
+- [ ] [<code>math: floor</code>](https://github.com/jow-/ucode/commit/9747c8bbfa27f0f647b828800952c69a841c36ed)
+- [ ] [<code>math: ceil</code>](https://github.com/jow-/ucode/commit/933b11802060258a0084f971a4a3c8439a51b380)
+- [ ] [<code>math: round</code>](https://github.com/jow-/ucode/commit/46581cf1314999b8346de6b0a780513f171b1309)
+- [ ] [<code>math: trunc</code>](https://github.com/jow-/ucode/commit/4aee92d5aa8923fa2d93565fe0a872e6e6da661c)
+- [ ] [<code>math: log functions</code>](https://github.com/jow-/ucode/commit/c8f71433a3d69ad955a52956ceaba307dad7c684)
+- [ ] [<code>math: Infinity handling note</code>](https://github.com/jow-/ucode/commit/840aa6e61196304410e5687107f52975968334bf)
+- [ ] [<code>math: isinf</code>](https://github.com/jow-/ucode/commit/990558c2a027f382a2f699803916e22e45a44635)
+- [ ] [<code>math: tan</code>](https://github.com/jow-/ucode/commit/c3e76e45fdad11ee691d36fd79c6c7e227f249f5)
+- [ ] [<code>math: acos, asin, atan</code>](https://github.com/jow-/ucode/commit/08c6ef98fa2f9a721a347b450e36ea1e2a7b7580)
+- [ ] [<code>math: cosh, sinh, tanh</code>](https://github.com/jow-/ucode/commit/21a0f37d4c7c1910e0a586b55d3d15f5a3f2c228)
+- [ ] [<code>math: cbrt, hypot</code>](https://github.com/jow-/ucode/commit/28ec6e4466b527567d87dda93b083c18007f07f0)
+- [ ] [<code>math: expm1, log1p</code>](https://github.com/jow-/ucode/commit/fb2fc094875c5e5cd59d359349604f9cee1385a2)
+- [ ] [<code>math: jsdoc fixes</code>](https://github.com/jow-/ucode/commit/1a911dbc72b034efc77f1cd7a6f364c0cc007da0)
+- [ ] [<code>math: add double/int output toggle flag to floor/ceil/round/trunc</code>](https://github.com/jow-/ucode/commit/7b3b15dc7d25254b4bbd7a1be88287d6ab44ff53)
 - [ ] [<code>main: fix option argument parsing on glibc</code>](https://github.com/jow-/ucode/commit/aebdb2c0262e94a3d4a79549afa001925690d2db)
   - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>make: improve make (install) on macOS</code>](https://github.com/jow-/ucode/commit/7424c3bd14e0e6fdbf31c69246236743d4f370f7)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>types: release previous prototype reference in ucv_prototype_set</code>](https://github.com/jow-/ucode/commit/965d76557dee5ff883bb6dfe8b02d5cc2f5f875a)
+- [ ] [<code>uloop: unregister task output fd from uloop before closing it</code>](https://github.com/jow-/ucode/commit/b702323ec1379bd68e68e8fdca4343f18c0cecae)
+- [ ] [<code>uloop: clear resource values when releasing callback resources</code>](https://github.com/jow-/ucode/commit/106b1179765acd3623525efa97f72beddaa42511)
+- [ ] [<code>ubus: clear resource values when releasing connection/object resources</code>](https://github.com/jow-/ucode/commit/acc70db934fc5b073a6eea0fa2308f0c52e02d70)
+- [ ] [<code>ubus: prevent UAF when channel disconnect_cb triggers re-entrant disconnect</code>](https://github.com/jow-/ucode/commit/9d7ade9e4c68d37521764de2e32f7af6aa25e26f)
 
 #### [wg-friendly-peer-names](https://github.com/FlyveHest/wg-friendly-peer-names): [b0c3e1a95c843dc9c6432895105b839ef9b362fc → HEAD](https://github.com/FlyveHest/wg-friendly-peer-names/compare/b0c3e1a95c843dc9c6432895105b839ef9b362fc...HEAD)
 
