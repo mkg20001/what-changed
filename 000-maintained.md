@@ -490,6 +490,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/c4953e7664325f345d4a6fca66c990ab733aab71)
 - [ ] [<code>chore: Clean translations</code>](https://github.com/krille-chan/fluffychat/commit/976619b964307a91516174db55e6f98f5e0c9fae)
 - [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
+- [ ] [<code>build: (deps): bump go_router from 17.2.3 to 17.3.0</code>](https://github.com/krille-chan/fluffychat/commit/f76a28422ad4d1a66158a405730b5694c654b157)
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -779,6 +781,8 @@
 - [ ] [<code>chore(translations): Translated using Weblate (Dutch)</code>](https://github.com/krille-chan/fluffychat/commit/c4953e7664325f345d4a6fca66c990ab733aab71)
 - [ ] [<code>chore: Clean translations</code>](https://github.com/krille-chan/fluffychat/commit/976619b964307a91516174db55e6f98f5e0c9fae)
 - [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
+- [ ] [<code>build: (deps): bump go_router from 17.2.3 to 17.3.0</code>](https://github.com/krille-chan/fluffychat/commit/f76a28422ad4d1a66158a405730b5694c654b157)
+- [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -901,6 +905,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Max frame dims apply to AV2 in avifValidateGrid()</code>](https://github.com/AOMediaCodec/libavif/commit/67f7589ee7a72e8ceca420607566d3c1727b81ed)
 - [ ] [<code>Disallow dstImage == srcImage</code>](https://github.com/AOMediaCodec/libavif/commit/a660226935e62194c4129d57fd352d611969806b)
 - [ ] [<code>Reject 'sato' items with no input image items (#3237)</code>](https://github.com/AOMediaCodec/libavif/commit/383d8c8087c50be7b5a6ad5152e3bbc09bf1e9e0)
+- [ ] [<code>codec_libgav1.c: Remove #include <string.h></code>](https://github.com/AOMediaCodec/libavif/commit/ed2839513419ead71dfdfe44faaf129d8a705fd3)
 
 #### [lxd-image-server](https://github.com/Avature/lxd-image-server): [0.0.4 → HEAD](https://github.com/Avature/lxd-image-server/compare/0.0.4...HEAD)
 
@@ -1330,6 +1335,15 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Windows compatibility (P1) (#21972)</code>](https://github.com/netdata/netdata.git/commit/dca98ffaf021485d5f1a20ae1b37ebc2f2ac2b1b)
   - <sub>Files: <code>CMakeLists.txt</code></sub>
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-322-nightly.</code>](https://github.com/netdata/netdata.git/commit/d1bd6ff70beaaa42ed2c41dc8a4019e7fd53463b)
+- [ ] [<code>chore(go.d): add topology overlay helpers for vSphere (#22625)</code>](https://github.com/netdata/netdata.git/commit/c71dcfc6037ad9901173c77beecd5bc188ff8c71)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix memory-safety and correctness bugs surfaced by Coverity audit (part 7) (#22280)</code>](https://github.com/netdata/netdata.git/commit/b194a287f18dad41672442f3a43afbd33f24b27c)
+- [ ] [<code>docs: consolidate windows docs and service status (#22519)</code>](https://github.com/netdata/netdata.git/commit/7461f79227a647269f58c1c89e2a02caa0a41f88)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: clarify dbengine tier 0 retention size enforcement and disk usage overflow (#22521)</code>](https://github.com/netdata/netdata.git/commit/c5f079388ef086f439694b118d5a669728f3ef97)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Add Markdown copy of Windows package EULA. (#22421)</code>](https://github.com/netdata/netdata.git/commit/0c34411b292743dccf29d32522cb46ada1991fe1)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -13262,6 +13276,521 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>docs: document plugin overlay memory helpers</code>](https://github.com/openclaw/openclaw/commit/69c8097dd13cf40fd3ae466e2ec9dd472eb0a66f)
 - [ ] [<code>test: preserve version exports in partial mocks</code>](https://github.com/openclaw/openclaw/commit/b4234d40285e82aa9915846a831dbbc141390cbc)
 - [ ] [<code>fix(deps): keep managed overrides in workspace metadata</code>](https://github.com/openclaw/openclaw/commit/392af2e61201d37253ae2cdd5e6c6b062cd03fe6)
+- [ ] [<code>docs: document plugin runtime config helpers</code>](https://github.com/openclaw/openclaw/commit/d1fef1d50dcb8e11ef4bdc53d967ba2cb2abad91)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Pin official npm plugin install records (#88585)</code>](https://github.com/openclaw/openclaw/commit/7b5f75eb98f469583e8a90f9553da6c4c286810c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>ci: stabilize live e2e resource lanes</code>](https://github.com/openclaw/openclaw/commit/4fbc318e307fc08d0fb84fe9cdd0444359912c39)
+- [ ] [<code>docs: document plugin security channel helpers</code>](https://github.com/openclaw/openclaw/commit/9b6cd2ea7576c084d9e3ceb87ec58db008d68fa2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin registry helper APIs</code>](https://github.com/openclaw/openclaw/commit/179ff9b4230c003c1e08cc356fac93fc7c849c6d)
+- [ ] [<code>feat: add Skill Workshop revision request</code>](https://github.com/openclaw/openclaw/commit/bf08234ee36f42ef6b73e6243f35c1b2bec9273f)
+- [ ] [<code>fix: separate Skill Workshop revision target agent</code>](https://github.com/openclaw/openclaw/commit/7150c3c9577fe987e416b76bcab34b4d1486ab10)
+- [ ] [<code>fix: route Skill Workshop revisions through request RPC</code>](https://github.com/openclaw/openclaw/commit/25e3162cceb068a2dda1edd23263583bdf300d0d)
+- [ ] [<code>fix: treat Skill Workshop slash drafts as revisions</code>](https://github.com/openclaw/openclaw/commit/f7e44ac6b55fb4da85b8a53ee3438786080b6b7f)
+- [ ] [<code>fix: namespace chat dedupe by system context</code>](https://github.com/openclaw/openclaw/commit/3da05d01a7c702cd635da1680a38e8bb7034e6fb)
+- [ ] [<code>refactor: centralize chat command interpretation</code>](https://github.com/openclaw/openclaw/commit/4bcae169e226ae413740e89e73a6636f904e4d3b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: suppress commands for revision handoff sends</code>](https://github.com/openclaw/openclaw/commit/0059f5c24a0c07fde54d6793e9612a8a887ea40c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix: refresh generated gateway protocol</code>](https://github.com/openclaw/openclaw/commit/4cb34f3999cc28c6ed1ed7a5382a4d09fc11ec88)
+- [ ] [<code>docs: document channel helper APIs</code>](https://github.com/openclaw/openclaw/commit/0416117168dba868d7743cebba45fefb85f6182d)
+- [ ] [<code>perf(gateway): avoid heavy chat imports in history tests</code>](https://github.com/openclaw/openclaw/commit/25f3d2d714e91bdcd834c885c9fcb31c33e5c780)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(scripts): run RPC RTT probe without pnpm</code>](https://github.com/openclaw/openclaw/commit/009d7335b50756afdbee4f111eafeb46b4b2c650)
+- [ ] [<code>perf(gateway): delay provider auth warmup</code>](https://github.com/openclaw/openclaw/commit/eb5d6c7294b64d6fbc6ecd8347a80b5d6e17f8ce)
+- [ ] [<code>perf(gateway): bypass config facade for config handlers</code>](https://github.com/openclaw/openclaw/commit/deea78da72c5b0e6210da907c502578d0c0387c9)
+- [ ] [<code>fix(scripts): run deadcode knip through pnpm runner</code>](https://github.com/openclaw/openclaw/commit/036b730321787b6f8884835e4979bafb95e362eb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: align e2e fixtures with current runtime stores</code>](https://github.com/openclaw/openclaw/commit/c286f56167449913e9782cf140fcfdc0a4f89d72)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document daemon process helpers</code>](https://github.com/openclaw/openclaw/commit/604597d825271224ec151a82c4138130db1e00c6)
+- [ ] [<code>docs: document session helper APIs</code>](https://github.com/openclaw/openclaw/commit/d0bf656a3f71df350f050fafcacc39befeb07c76)
+- [ ] [<code>docs: document fetch header normalization</code>](https://github.com/openclaw/openclaw/commit/9eb525de0e61438fdeea5156a11dcb652dd38410)
+- [ ] [<code>docs: document agent helper barrels</code>](https://github.com/openclaw/openclaw/commit/d54addcd284f436f76b0f9a7399f27ee59674172)
+- [ ] [<code>docs: document agent safety helpers</code>](https://github.com/openclaw/openclaw/commit/51e279153f662837995600d36637398c790b0b30)
+- [ ] [<code>docs: document agent model auth helpers</code>](https://github.com/openclaw/openclaw/commit/45f4875613a3fab4d3c0591b6ea2cd670d86b33e)
+- [ ] [<code>test: seed auto-reply auth profiles through store</code>](https://github.com/openclaw/openclaw/commit/dcfd033746d1d5d5a33d6040d18d930e69da4a48)
+- [ ] [<code>docs: document agent schema and outcome helpers</code>](https://github.com/openclaw/openclaw/commit/ca3250a3c19887263ce088d4b6c6733ddf950b3b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document agent provider auth helpers</code>](https://github.com/openclaw/openclaw/commit/caa6102144118edc51b9fba021a93ca6409bf713)
+- [ ] [<code>docs: document agent workspace helpers</code>](https://github.com/openclaw/openclaw/commit/9dce23f2950827100c1e967de7c8e5b28ddff614)
+- [ ] [<code>docs: document subagent sqlite registry</code>](https://github.com/openclaw/openclaw/commit/0328f29707f7e8aab7a567b06272dd8dde6bc4dd)
+- [ ] [<code>fix(e2e): fail gateway frame waits on socket close</code>](https://github.com/openclaw/openclaw/commit/7e5ea598c582b5422aea01afab48485e2df65c4c)
+- [ ] [<code>docs: document agent catalog helpers</code>](https://github.com/openclaw/openclaw/commit/e1e095d020632254064ee8557d21eb6ef8a42d1a)
+- [ ] [<code>fix(ci): preserve crabbox hydrate pnpm store</code>](https://github.com/openclaw/openclaw/commit/d26cef42490caae2c7b731973d8a2a10f39072f6)
+- [ ] [<code>docs: document agent runtime tool policies</code>](https://github.com/openclaw/openclaw/commit/d4867ec20ddf3ee97e1c1b6dcd0f4dc7a547bca1)
+- [ ] [<code>docs: document agent inventory recovery helpers</code>](https://github.com/openclaw/openclaw/commit/eda170f328bffcc36f942946a36f2abe7c73556b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document agent provider request helpers</code>](https://github.com/openclaw/openclaw/commit/076178adc68261466eab80a1a47fcec3f100895c)
+- [ ] [<code>test: align dependency override guard with workspace metadata</code>](https://github.com/openclaw/openclaw/commit/474be452a7c83825b4f03a569d85e8145ce66ea5)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document agent command shared helpers</code>](https://github.com/openclaw/openclaw/commit/233666366f7df9813552c9ba032c97fb13608042)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document agent command exec helpers</code>](https://github.com/openclaw/openclaw/commit/2e89655a03d5dccf61d842461ac2c281714a02dd)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document agent runtime utility helpers</code>](https://github.com/openclaw/openclaw/commit/0d0632d88d0c70d037f7f086e9078266486b8c9e)
+- [ ] [<code>docs: document agent routing state helpers</code>](https://github.com/openclaw/openclaw/commit/c86eb20dc5be5db1429b8baa582c27b3d1e59857)
+- [ ] [<code>docs: document agent runtime preset helpers</code>](https://github.com/openclaw/openclaw/commit/fc5cb461c9ed8c24202e67a7ff128bcbf3b1238d)
+- [ ] [<code>docs: document agent tool policy helpers</code>](https://github.com/openclaw/openclaw/commit/2ff2ed4099ab7ffb169e3be63f811662ced93d21)
+- [ ] [<code>docs: document auth profile path state helpers</code>](https://github.com/openclaw/openclaw/commit/a2a49246792069063d3738a0c3a18d3c0ad89390)
+- [ ] [<code>docs: document auth profile discovery helpers</code>](https://github.com/openclaw/openclaw/commit/003bb8546db779421df87c65db6b0f2e0ed29386)
+- [ ] [<code>test(codex): isolate app-server auth fixtures</code>](https://github.com/openclaw/openclaw/commit/0451dcdc56d3a14a9c6ee0bd11872fd9c8805d76)
+- [ ] [<code>docs: document auth profile selection helpers</code>](https://github.com/openclaw/openclaw/commit/ad958fd97aaba3647062286b2e8294d6b12b4ce0)
+- [ ] [<code>fix(e2e): fail secret provider startup exits fast</code>](https://github.com/openclaw/openclaw/commit/50c3995894b3896caba40217e7f2926881a93241)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>test: read codex on-demand auth store from sqlite</code>](https://github.com/openclaw/openclaw/commit/d6ab1fdfe4eff2ae64208d46f4caaefff50a8a7d)
+- [ ] [<code>docs: document auth profile persistence helpers</code>](https://github.com/openclaw/openclaw/commit/ac2dbfcfca8a207a87902e916ccda1853a5a9d0b)
+- [ ] [<code>docs: document auth profile oauth helpers</code>](https://github.com/openclaw/openclaw/commit/7ce1487f33ce11edb2879c266ccb7c9d2c83bcc7)
+- [ ] [<code>docs: document model path helpers</code>](https://github.com/openclaw/openclaw/commit/155260eb04d38a6409d9e92a628194364c9cd2c4)
+- [ ] [<code>docs: document subagent model helpers</code>](https://github.com/openclaw/openclaw/commit/658f90f845264ae75bb1fb74bfc12c8be9b180b5)
+- [ ] [<code>fix(e2e): report gauntlet log write failures</code>](https://github.com/openclaw/openclaw/commit/546aa5770a6ef274fcf8d5a1bf755486aeab01d6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document model auth helpers</code>](https://github.com/openclaw/openclaw/commit/44bcaf00b70feb3eca675a37404cd6d238eff1bd)
+- [ ] [<code>docs: document runtime tool helpers</code>](https://github.com/openclaw/openclaw/commit/b6d6ed34ed4abdd1129b0b0dc5f02fb3ad141134)
+- [ ] [<code>docs: document agent steering helpers</code>](https://github.com/openclaw/openclaw/commit/3788a2fd3d019927ec65390d69a5d415a8c9f470)
+- [ ] [<code>docs: document agent diagnostics helpers</code>](https://github.com/openclaw/openclaw/commit/8f7808d1e6c33ea03273cb0a017ab33987e74567)
+- [ ] [<code>docs: document auth redaction helpers</code>](https://github.com/openclaw/openclaw/commit/32e51f250fb8db4a3583ca22a9727ba0b3ad9f00)
+- [ ] [<code>fix(e2e): abort kitchen sink readiness on gateway exit</code>](https://github.com/openclaw/openclaw/commit/b12114e45ca8f6ffb005979bd63996e752b72d07)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document tool hook helpers</code>](https://github.com/openclaw/openclaw/commit/8835787ed6a4560c1a6b83ab41f593633c215a26)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document auth profile store helpers</code>](https://github.com/openclaw/openclaw/commit/ef17cecca945a0a12e3646f000b4cb2e513fca81)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document bash process helpers</code>](https://github.com/openclaw/openclaw/commit/c7a8114f540f07769891622f50b496b3b980182d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document bootstrap cache helpers</code>](https://github.com/openclaw/openclaw/commit/83eab79d150349cd71936704f8ec89ee0019b64e)
+- [ ] [<code>docs: document cli runner mcp helpers</code>](https://github.com/openclaw/openclaw/commit/e168a82367ed7f85e19da981b0846abb169f2978)
+- [ ] [<code>docs: document runtime utility helpers</code>](https://github.com/openclaw/openclaw/commit/8b47fa5a76d64ec3069825d65da7f59f3e607a08)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document codex context helpers</code>](https://github.com/openclaw/openclaw/commit/18d036326c3d71690d78dc1884c3a6ece28777a6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document subagent session helpers</code>](https://github.com/openclaw/openclaw/commit/d714803e6de29b8e3b5141bf72f12fbaaf5319ad)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document model tool utilities</code>](https://github.com/openclaw/openclaw/commit/20e443b96587ff79d4219efe1d3932767fc6995c)
+- [ ] [<code>docs: document prompt routing helpers</code>](https://github.com/openclaw/openclaw/commit/1b35d46257636a618a525cb3ff939be4ee8be8d4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document runtime test helpers</code>](https://github.com/openclaw/openclaw/commit/59768909ba5f119060e5cfe1d7b922f0fb13383f)
+- [ ] [<code>fix(e2e): keep parallels json output parseable</code>](https://github.com/openclaw/openclaw/commit/8c74fd4e2359d3c7f90e8d5555f5c26bdedf1b0f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document provider tool helpers</code>](https://github.com/openclaw/openclaw/commit/dd555073d0a48b0367e1fe8d2ddb86394e0809ec)
+- [ ] [<code>docs: document live provider helpers</code>](https://github.com/openclaw/openclaw/commit/0df6292ab30406d518718ff70be9d42459b1ecda)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document model normalization helpers</code>](https://github.com/openclaw/openclaw/commit/c635716297fb785c07a0ed6b070b545d5a237ff8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document provider config helpers</code>](https://github.com/openclaw/openclaw/commit/86c071035dd0b23b934bd74943d172a41e1ea8f2)
+- [ ] [<code>docs: document agent test helpers</code>](https://github.com/openclaw/openclaw/commit/5169d19ce8c0ff57356e2cdda7f383780580afc0)
+- [ ] [<code>docs: document mcp workspace helpers</code>](https://github.com/openclaw/openclaw/commit/1d2e91e20dbb340f9c1740f564aba9dc5a8c980e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document runtime timeout helpers</code>](https://github.com/openclaw/openclaw/commit/06fee678e1d90e818cb965fa5544b742c526a285)
+- [ ] [<code>fix(auto-reply): count message tool sends as delivery (#90123)</code>](https://github.com/openclaw/openclaw/commit/88dc177afc29690cfdf79d05b4e73f94301649b2)
+- [ ] [<code>docs: document agent contract helpers</code>](https://github.com/openclaw/openclaw/commit/e98b864752dc119306a700f4313c940af772586a)
+- [ ] [<code>fix(whatsapp): restart channel when a per-account config field changes so disabled accounts are torn down (#87965)</code>](https://github.com/openclaw/openclaw/commit/d9664862423473bdfafe330aa11e7a4a2346874e)
+- [ ] [<code>docs: document text transform helpers</code>](https://github.com/openclaw/openclaw/commit/48d6c7511164c3f966a3388365a5493b491cbda2)
+- [ ] [<code>docs: document oauth test helpers</code>](https://github.com/openclaw/openclaw/commit/ae8b868342019f9238fb9fe1f3ba6188bca6c427)
+- [ ] [<code>docs: document provider error helpers</code>](https://github.com/openclaw/openclaw/commit/059277f83b631cf30d0451bbc95641b2719ba52d)
+- [ ] [<code>docs: document live provider probes</code>](https://github.com/openclaw/openclaw/commit/fba1e490838eceb092990f7c1641434059b8d3b7)
+- [ ] [<code>docs: document status capability helpers</code>](https://github.com/openclaw/openclaw/commit/ddaa2c5dc8b9597e8ad466e15e7a710e550590f1)
+- [ ] [<code>docs: document runtime system helpers</code>](https://github.com/openclaw/openclaw/commit/2fb968a42516ddc4a1ad7cdc595080e25ccbbd58)
+- [ ] [<code>docs: document shared runtime helpers</code>](https://github.com/openclaw/openclaw/commit/6439b64c90e255cc14ecce7096d426dc1b50c5b9)
+- [ ] [<code>docs: document model tool helpers</code>](https://github.com/openclaw/openclaw/commit/48557cecff3c214d55d34cebc04849904bd61eb9)
+- [ ] [<code>docs: document agent utility helpers</code>](https://github.com/openclaw/openclaw/commit/e4f6dd3440699f8dbebd5a8d1ef699e1964e445f)
+- [ ] [<code>docs: document cli compat helpers</code>](https://github.com/openclaw/openclaw/commit/ff43ede8878cad9fe5d3d3ee4162e2dbbc28e838)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document mcp plugin helpers</code>](https://github.com/openclaw/openclaw/commit/3eaab8632e5b606604024b0c4c87a967eb738693)
+- [ ] [<code>docs: document schema status helpers</code>](https://github.com/openclaw/openclaw/commit/32282418eb88b3983355887bfea27be8a31b8d0b)
+- [ ] [<code>docs: document dispatch report helpers</code>](https://github.com/openclaw/openclaw/commit/c90f42dbaead952297b274cfda96e1a9d0dad44d)
+- [ ] [<code>docs: document runtime utility helpers</code>](https://github.com/openclaw/openclaw/commit/7b02080fa179d4fd307b3ceb521a7a6e69876492)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document harness helpers</code>](https://github.com/openclaw/openclaw/commit/73a81d1d6ade5a6994bcfc6bcbe9e917339dc881)
+- [ ] [<code>fix(e2e): fail vanished crabbox sync checkouts</code>](https://github.com/openclaw/openclaw/commit/54c3f53de55177a61078952895fe8e64461b314d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document harness classification helpers</code>](https://github.com/openclaw/openclaw/commit/2bb3132a5caafe62d981cd5bd8415f14866428d6)
+- [ ] [<code>docs: document agent test fixtures</code>](https://github.com/openclaw/openclaw/commit/87b5796649be50e569d4fde19a0027425d6b65fa)
+- [ ] [<code>docs: document harness hook helpers</code>](https://github.com/openclaw/openclaw/commit/46f3efe7ceec0b2cc2aa98f0e86b5d92189f3a96)
+- [ ] [<code>docs: document tool model helpers</code>](https://github.com/openclaw/openclaw/commit/b77c272fb9ab85b6ab1a5549b6a992126be3babb)
+- [ ] [<code>docs: document model auth helpers</code>](https://github.com/openclaw/openclaw/commit/f4369d225a3150a45eadc63ae6e5a919f867a5bb)
+- [ ] [<code>docs: document tool policy helpers</code>](https://github.com/openclaw/openclaw/commit/ed4c133c2cbb8a51b80688b79fb28478f04ad822)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document exec utility helpers</code>](https://github.com/openclaw/openclaw/commit/301c6d0043d7f57805f5f884947e42fc74816c4f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document tool inventory helpers</code>](https://github.com/openclaw/openclaw/commit/b90fb1ef713e062c04d322076c31105ad33c0648)
+- [ ] [<code>fix(e2e): fail pty transcript log errors</code>](https://github.com/openclaw/openclaw/commit/2baa9d550e378be322e66b741f65e0f4d5701ae8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document session keybinding helpers</code>](https://github.com/openclaw/openclaw/commit/59605498162aaeb8c01b9a03f56b0654fcaeee9d)
+- [ ] [<code>docs: document subagent session helpers</code>](https://github.com/openclaw/openclaw/commit/3c21fdad3c65a1c7c008cc05eee4b5471ffce043)
+- [ ] [<code>docs: document web search helper config</code>](https://github.com/openclaw/openclaw/commit/20c3736dae86c4bbe065c777652fa202f3aac771)
+- [ ] [<code>docs: document session tool helpers</code>](https://github.com/openclaw/openclaw/commit/6f08a1a3dd2afbd2a7eb3a470950b9b2e93603e9)
+- [ ] [<code>fix: protect global agent config defaults (#90145)</code>](https://github.com/openclaw/openclaw/commit/85b26bd20663fe038878d1f553f69b70273a836e)
+- [ ] [<code>docs: document subagent announce runtime helpers</code>](https://github.com/openclaw/openclaw/commit/5a62a896b23d84de9b9abcac6bfc12ba06713cc9)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document session support helpers</code>](https://github.com/openclaw/openclaw/commit/fd3cc7d224a0649d3d82e949de29590d29b52ab4)
+- [ ] [<code>docs: document session tool render helpers</code>](https://github.com/openclaw/openclaw/commit/bb1f3e8eafbb00408b4527acf0352dd52a5dfcba)
+- [ ] [<code>docs: document subagent registry read helpers</code>](https://github.com/openclaw/openclaw/commit/07676fbb44a60c4f3e64863536cc4cba91d79441)
+- [ ] [<code>docs: document tool runtime availability helpers</code>](https://github.com/openclaw/openclaw/commit/4cd8b5eb7849640012c0feb42b02448a2f47b888)
+- [ ] [<code>docs: document web fetch helpers</code>](https://github.com/openclaw/openclaw/commit/9c10ef2ffa49e2d6f59caafada4e770fb21a59c8)
+- [ ] [<code>docs: document subagent tool step helpers</code>](https://github.com/openclaw/openclaw/commit/52f96fab51053938cf6ecb2e44af066437c383d0)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>Rate limit node pairing requests [AI] (#90147)</code>](https://github.com/openclaw/openclaw/commit/3f1e0ebb864377fd06ade33aa9cd993d8e5b1f08)
+- [ ] [<code>docs: document media generation task helpers</code>](https://github.com/openclaw/openclaw/commit/5820d105c9e0b7beaaf428e605c0e1659e21cf85)
+- [ ] [<code>docs: document embedded gateway helpers</code>](https://github.com/openclaw/openclaw/commit/918d5afd67d6d9fd4c80aa56dc006422e78f8531)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document sandbox safety helpers</code>](https://github.com/openclaw/openclaw/commit/1c640622dd746296f28aee59ac6491f2e0db82a4)
+- [ ] [<code>docs: document sandbox hash helpers</code>](https://github.com/openclaw/openclaw/commit/bb8e0ab5dcbd2ea012def7aa34a57f4ea5233424)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): fail mock openai request log errors</code>](https://github.com/openclaw/openclaw/commit/61d16dd173227befb3267cca66694a0d94daa1a9)
+- [ ] [<code>docs: document sandbox backend contracts</code>](https://github.com/openclaw/openclaw/commit/d901f85abbb7922cc7284fe1aea73db0022764ae)
+- [ ] [<code>docs: document goal planning tools</code>](https://github.com/openclaw/openclaw/commit/35d801a1e54ffa77e525b816bcc869c63ec61ae2)
+- [ ] [<code>docs: document session reply sentinels</code>](https://github.com/openclaw/openclaw/commit/b1053ef9e95476da694015a92d3826802010f766)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document image pdf model helpers</code>](https://github.com/openclaw/openclaw/commit/e1db0f01fe88c2482c428333512203b94b3f736b)
+- [ ] [<code>docs: document embedded runner helpers</code>](https://github.com/openclaw/openclaw/commit/8f14a1c59aafffeedab7303a2dc8227bcf574607)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document agent harness helpers</code>](https://github.com/openclaw/openclaw/commit/a590fd24a9464fcfd72061f4aa601e1b99daef30)
+- [ ] [<code>docs: document session helper metadata</code>](https://github.com/openclaw/openclaw/commit/edd3870d53323958760274dee2ed0dbd6db68a8f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document sandbox helper utilities</code>](https://github.com/openclaw/openclaw/commit/7e85ba6139827e62b0aff9eb54aa95b3dd0098c0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document embedded runner state helpers</code>](https://github.com/openclaw/openclaw/commit/5a557b5e10ac8e646d84a7e2ab6f6dd0109d8a47)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): fail parallels host log write errors</code>](https://github.com/openclaw/openclaw/commit/68307afb5b0d53c2cd4b9043f92225cab4879717)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document runner guard helpers</code>](https://github.com/openclaw/openclaw/commit/64b9b60d94b72317b1775bbf8c5e1515a52e8b55)
+- [ ] [<code>docs: document sandbox support types</code>](https://github.com/openclaw/openclaw/commit/cc191e8021b799e0c1b10704c5b3d2279d830751)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document session tool bridges</code>](https://github.com/openclaw/openclaw/commit/9b4e2fa8a8d7f1e7803018cd31f4bacc3e039958)
+- [ ] [<code>docs: document sandbox lifecycle registry</code>](https://github.com/openclaw/openclaw/commit/5b36bbf83e72cc68f73c33e409ad71a9f844f74e)
+- [ ] [<code>docs: document model helper normalization</code>](https://github.com/openclaw/openclaw/commit/45144ce2e856c61a94d6f15690da41ea9e31dfd4)
+- [ ] [<code>docs: document agent test helpers</code>](https://github.com/openclaw/openclaw/commit/fe52654d2eccdea231bf95e9049751e4ebfed92d)
+- [ ] [<code>docs: document embedded attempt helpers</code>](https://github.com/openclaw/openclaw/commit/3a5baf122931b6460deeb59f3e767b40aef9dc41)
+- [ ] [<code>docs: document media generation actions</code>](https://github.com/openclaw/openclaw/commit/79f6c5a8ad0caddf22a4998cfc014781b9b23e7b)
+- [ ] [<code>docs: document schema media planning helpers</code>](https://github.com/openclaw/openclaw/commit/ce1ef04efe1233259beb2f3bc94284e72a30a68d)
+- [ ] [<code>docs: document e2e helper mocks</code>](https://github.com/openclaw/openclaw/commit/c768a9e6ca02fbbdca180957557a9d63338a4e4c)
+- [ ] [<code>docs: document embedded compaction helpers</code>](https://github.com/openclaw/openclaw/commit/340fca0a453c4ab745108b872f2979ae953e8d32)
+- [ ] [<code>docs: document Claude CLI runner helpers</code>](https://github.com/openclaw/openclaw/commit/b7b069c4d69fecddad54cb3a808e1e725f2dee6a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document session list web search tools</code>](https://github.com/openclaw/openclaw/commit/376bf65d8e40ce526fb7de6c14d128d5f96f281d)
+- [ ] [<code>docs: document subagent display seams</code>](https://github.com/openclaw/openclaw/commit/cf36b9456da7fafded281c304215697300d65b88)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document sandbox backend bridges</code>](https://github.com/openclaw/openclaw/commit/d8a67ef39a4c54428764f6c5f372be411ea2d50d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document transcript state harness</code>](https://github.com/openclaw/openclaw/commit/81f359ec5b7066cdb7c464a1f41027dac912af90)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document subscribe helper seams</code>](https://github.com/openclaw/openclaw/commit/f1ec2605b719aff5cff11c687d4d7a6bf2f0bebe)
+- [ ] [<code>docs: document tool search surfaces</code>](https://github.com/openclaw/openclaw/commit/ba445e0e3f323cb4d1709febb5a758a6105d0f2a)
+- [ ] [<code>docs: document model selection reconciliation</code>](https://github.com/openclaw/openclaw/commit/9bc7712c405acc0dde808f6f94dede3d485ee848)
+- [ ] [<code>docs: document code mode bridge</code>](https://github.com/openclaw/openclaw/commit/9877f31fdd8f47bc4b79fbafe7ce158b81ed5d6d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document ssh sandbox helpers</code>](https://github.com/openclaw/openclaw/commit/546f44f39507bd0c69b1b3dff877404da09f6c79)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document embedded agent barrels</code>](https://github.com/openclaw/openclaw/commit/55bde6750fbd034176f0f272fa970f12e1018a35)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document speech core facades</code>](https://github.com/openclaw/openclaw/commit/aafdf67d3983a50a75f0692731c0153ab89e4a89)
+- [ ] [<code>docs: document agent core package</code>](https://github.com/openclaw/openclaw/commit/bdfeece56263342d24c66740cc8b5cc0ce8b286e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document sdk package facades</code>](https://github.com/openclaw/openclaw/commit/5a10f46c56a0e6f88b04a36df01ce2518c2b78a0)
+- [ ] [<code>docs: document memory host sdk helpers</code>](https://github.com/openclaw/openclaw/commit/8b6bed9c9c2ff785e89c6c72554d396d90c9b428)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document memory batch helpers</code>](https://github.com/openclaw/openclaw/commit/c40dd6ff5c2fb84e6e5e12b6572ba64002069e25)
+- [ ] [<code>docs: document memory remote helpers</code>](https://github.com/openclaw/openclaw/commit/eecec7495f2672f6244b46c1ab56aa039800bb68)
+- [ ] [<code>docs: document memory host runtime helpers</code>](https://github.com/openclaw/openclaw/commit/5b98f03c64d24ce35d7ae16ac9ac48b32244d4fa)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document terminal core helpers</code>](https://github.com/openclaw/openclaw/commit/d14fe163b5b50a6c2fdb452b8a49fd2e57c4eb23)
+- [ ] [<code>docs: document shared package contracts</code>](https://github.com/openclaw/openclaw/commit/eaf803b22337c846aacc916945c5e11761adc058)
+- [ ] [<code>fix(qa): bound malformed otlp receiver requests</code>](https://github.com/openclaw/openclaw/commit/cc122956dfcdb3a1e2b4bf1713064ea0f786c895)
+- [ ] [<code>docs: document voice call helper APIs</code>](https://github.com/openclaw/openclaw/commit/ae5376a599e7db7ec75df3206ad73fbd852a01bf)
+- [ ] [<code>docs: document voice call manager helpers</code>](https://github.com/openclaw/openclaw/commit/5dd026f3f72fbe4a128c0d220ce5a8ff222b9c32)
+- [ ] [<code>docs: document voice call runtime surfaces</code>](https://github.com/openclaw/openclaw/commit/d8b5e22e8bfddbea4927aa51a98eb7bce5bb3dbe)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document shared test helpers</code>](https://github.com/openclaw/openclaw/commit/86150a3e51421e0639b52d0d9dbd1a5984922c14)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document media and sdk package facades</code>](https://github.com/openclaw/openclaw/commit/344417c0de19c23ceb68a88c044b473fe1847f8f)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document gateway helper contracts</code>](https://github.com/openclaw/openclaw/commit/bf1056c55449cbebe624ed683b6cfeab040a20db)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply top-level helpers</code>](https://github.com/openclaw/openclaw/commit/450356008482ff8464b8124c2d5ac95382473590)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply command contracts</code>](https://github.com/openclaw/openclaw/commit/826cdd884c2217c3b99635681267bb29711fc0bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): fail codex app server log errors</code>](https://github.com/openclaw/openclaw/commit/ce0d5117bf041506e9b37297e3e0f311e24c266c)
+- [ ] [<code>docs: document auto reply delivery helpers</code>](https://github.com/openclaw/openclaw/commit/25c0699fe909ed7069f3a140e952500293c327e9)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auto reply command helpers</code>](https://github.com/openclaw/openclaw/commit/1c0fb5768beed120e9909ea2d4d33423c75dd59a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auto reply run helpers</code>](https://github.com/openclaw/openclaw/commit/20d7c7ae02f6eead429560f23a54007eba8354f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply routing helpers</code>](https://github.com/openclaw/openclaw/commit/a70e618b20c3873ee169ead91ee53b28f03f7b71)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply runner internals</code>](https://github.com/openclaw/openclaw/commit/82e5dd4da74fea7f7a47542d895fd25c85baf07c)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply top-level tests</code>](https://github.com/openclaw/openclaw/commit/1053a76dd8f5ae6411ceff1db66ac3a81501d047)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply command tests</code>](https://github.com/openclaw/openclaw/commit/0289b046da1eca53bff4f374208b9aa90d1c6cc9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply reply tests</code>](https://github.com/openclaw/openclaw/commit/08b1b06aab4f738bba7dc3897dee42e3aa80312a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply behavior tests</code>](https://github.com/openclaw/openclaw/commit/4e5752631c3102c7152f508589ac0600d44400f5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply routing helpers</code>](https://github.com/openclaw/openclaw/commit/afeab32780ef354eca363770ccc99545c9e93e30)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply runtime helpers</code>](https://github.com/openclaw/openclaw/commit/e61fb145fc7201e587a6915d1d5e4165c3d1bcfc)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply runner support</code>](https://github.com/openclaw/openclaw/commit/a66462b58368fc937f98b430d7abd86fb0033bb9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply directive helpers</code>](https://github.com/openclaw/openclaw/commit/88b27c378d91dcda6d8807e3a5e31046d1e620ad)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): share gateway websocket request handling</code>](https://github.com/openclaw/openclaw/commit/d0f05d98d24ea8a08a8e59a2a1a383f58ca7cc51)
+- [ ] [<code>docs: document auto reply session routing</code>](https://github.com/openclaw/openclaw/commit/25e9097af084eac523260a11c7b1cdcfcb847e48)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply delivery runtime</code>](https://github.com/openclaw/openclaw/commit/26355cc35df670b397aae67d893bb4d4d5d27275)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auto reply dispatch helpers</code>](https://github.com/openclaw/openclaw/commit/ea6d3a35ff01adb6cb462cb57153c0e5971b4796)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply fast path helpers</code>](https://github.com/openclaw/openclaw/commit/e71e585969d6c18c6a822a6952ad92de9c184220)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): tighten kitchen sink error log allowlist</code>](https://github.com/openclaw/openclaw/commit/21c3d6993bf2a6adae078b397a4d8b5707512fdb)
+- [ ] [<code>docs: document auto reply command gates</code>](https://github.com/openclaw/openclaw/commit/119bb5762714771fafec14b8cc345dbc679da849)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto reply admission helpers</code>](https://github.com/openclaw/openclaw/commit/29f057b2421c2314be32807a2089e7d6c917598c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auto reply queue and acp helpers</code>](https://github.com/openclaw/openclaw/commit/b18a05ae3ef6389d6b7cf966dc07a17a5c979d1e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document src root entry helpers</code>](https://github.com/openclaw/openclaw/commit/c1aa424d6b84e4b945487fed5f569b5b30bd7102)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document root and music generation helpers</code>](https://github.com/openclaw/openclaw/commit/2db057423b1a2acf50fb446d24b712f481658cb5)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(e2e): tighten kitchen sink plugin log allowlist</code>](https://github.com/openclaw/openclaw/commit/e17bfc49386baf76340d03d4079ceae88631e991)
+- [ ] [<code>docs: document pairing and transcript helpers</code>](https://github.com/openclaw/openclaw/commit/b4f16c7bcb45ac02fb9276fd16e05320731fa370)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document test utility helpers</code>](https://github.com/openclaw/openclaw/commit/4295329ec31f02101c2ce0884242e1aa89cbbd8b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document test utils and infra helpers</code>](https://github.com/openclaw/openclaw/commit/a9a386dee19f9f917e251a9cd2818228ffc6969e)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra runtime helpers</code>](https://github.com/openclaw/openclaw/commit/0d109750aec7d3f242a9a509e321b24c8db6d773)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): stream docker stats resource scans</code>](https://github.com/openclaw/openclaw/commit/5c08fb225a017e91e7a7ab61bdae20882f8cdca5)
+- [ ] [<code>docs: document infra package helpers</code>](https://github.com/openclaw/openclaw/commit/334a1dd7169872a8604c83ed9c03d43348289484)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra status helpers</code>](https://github.com/openclaw/openclaw/commit/d819ef3e32d0f49ac23a98481ac257f9325f9abd)
+- [ ] [<code>docs: document infra process helpers</code>](https://github.com/openclaw/openclaw/commit/dc3f2bd1d9273f150ede6992cf92f04434953e4f)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra execution helpers</code>](https://github.com/openclaw/openclaw/commit/2f814c6c928c4c9ae7c20e7e69dc6b22ac991a75)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix(e2e): bound parallels package progress extraction</code>](https://github.com/openclaw/openclaw/commit/cce1a1479560ea6fd422eae513721ec6828caa78)
+- [ ] [<code>docs: document infra config helpers</code>](https://github.com/openclaw/openclaw/commit/6851dc9505f152202babbfb75084d048fc096f0c)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix: guard mcp http redirects (#89732)</code>](https://github.com/openclaw/openclaw/commit/3c6259ebb70c76523a7b3fb7cfdac2e40a7f7449)
+- [ ] [<code>docs: document infra pairing helpers</code>](https://github.com/openclaw/openclaw/commit/f542e23a2fd53cbc8e59f99a7b0eb46ee4985edb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra update helpers</code>](https://github.com/openclaw/openclaw/commit/a881181fd8c1a619f5fb83324bad3b64818571b2)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document infra install helpers</code>](https://github.com/openclaw/openclaw/commit/1275368151dddced3c606eaf74e97ef7a3d72c73)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra runtime helpers</code>](https://github.com/openclaw/openclaw/commit/59fca2d738c556e59a1c719349a073ea222afce0)
+  - <sub>Keywords: <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document infra approval helpers</code>](https://github.com/openclaw/openclaw/commit/d3b38311b08d97e8307ddd725fee718af378a14d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra push helpers</code>](https://github.com/openclaw/openclaw/commit/5dcb2ab40eb0bb9f6f3b5f551027884c39d71210)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra database helpers</code>](https://github.com/openclaw/openclaw/commit/79dc5658256d80c986e03d0f4cf17fd07a1b919f)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra event helpers</code>](https://github.com/openclaw/openclaw/commit/25eb63885d9e1a4edf29ecfa86d3daca50f1984b)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra policy helpers</code>](https://github.com/openclaw/openclaw/commit/cfe31ca3b29962f84fd01d996a7f28aa8f862441)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra heartbeat helpers</code>](https://github.com/openclaw/openclaw/commit/5780aa1cd65c11f3959e4b10e87ef7bdc904b2b8)
+- [ ] [<code>docs: document infra socket helpers</code>](https://github.com/openclaw/openclaw/commit/73b6de101189a5b547c0ecc9166c6b45e8ca8b11)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra transport helpers</code>](https://github.com/openclaw/openclaw/commit/ec3aa5def46047bbe2c7d5988c31e55dcf083764)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra approval runtime helpers</code>](https://github.com/openclaw/openclaw/commit/117aca7f4e267dadc3820c9bf5592a56baac02d3)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra install runtime helpers</code>](https://github.com/openclaw/openclaw/commit/d13a431860ed222b6db89049272a51ab105eb6c8)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra storage helpers</code>](https://github.com/openclaw/openclaw/commit/2e8b444da8756a5a7a61a53e0509de7e817052f2)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>docs: document infra flow helpers</code>](https://github.com/openclaw/openclaw/commit/4930766711012ab02532176ef219bff5dcf3a52c)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document task registry helpers</code>](https://github.com/openclaw/openclaw/commit/cca24cc78b63a11c87a899e52031f2c57543e375)
+- [ ] [<code>docs: document task execution helpers</code>](https://github.com/openclaw/openclaw/commit/606e3d78669ab3cc5f72860f360d268789a48ada)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document tool and model helpers</code>](https://github.com/openclaw/openclaw/commit/bff849b874e85c9066a6e0568d4dbb1820f1daca)
+  - <sub>Keywords: <code>bin</code> <code>subprocess</code></sub>
+- [ ] [<code>docs: document config and commitments helpers</code>](https://github.com/openclaw/openclaw/commit/6f358fd8e0be35582cc43638050195819be44382)
+- [ ] [<code>docs: document config schema helpers</code>](https://github.com/openclaw/openclaw/commit/43190f5248b5842744be1a80fefbc4c6a8415d1c)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>subprocess</code></sub>
+- [ ] [<code>docs: document config io helpers</code>](https://github.com/openclaw/openclaw/commit/6989d6283a5bf480404e925fdb94b2476ff0741e)
+- [ ] [<code>docs: document config runtime helpers</code>](https://github.com/openclaw/openclaw/commit/54fe5dc8429b9cda2cd4befb3dc1dab6fd991a28)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document config mutation helpers</code>](https://github.com/openclaw/openclaw/commit/51474b6f1549bfe8f1056792a2846adb0ea5cb25)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document config agent helpers</code>](https://github.com/openclaw/openclaw/commit/186e9664836060f8ed938039a391da02ead6a584)
+- [ ] [<code>docs: document config validation helpers</code>](https://github.com/openclaw/openclaw/commit/edc6042c65d325509f41d276a7da05768402dc08)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document config recovery helpers</code>](https://github.com/openclaw/openclaw/commit/9572267f64a6d983be7261b9dc136cd2ee2c41f9)
+- [ ] [<code>fix(feishu): preserve streaming card content (#90181)</code>](https://github.com/openclaw/openclaw/commit/1f1ce8a1fe45e973038273f1d23099245e15075c)
+- [ ] [<code>docs: document config schema runtime helpers</code>](https://github.com/openclaw/openclaw/commit/0796e992e463d836ff35c1fd20cc181b8bf23eed)
+- [ ] [<code>docs: document config policy helpers</code>](https://github.com/openclaw/openclaw/commit/838644b989f1cb76b2e90bf2300144d8776e8d27)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document config provider helpers</code>](https://github.com/openclaw/openclaw/commit/40c8ed0dff653d7839578b2c45d8bce96d959c8e)
+- [ ] [<code>docs: document config diagnostics helpers</code>](https://github.com/openclaw/openclaw/commit/8408c16da4db610a36326ae05928df021c977293)
+- [ ] [<code>docs: document security audit helpers</code>](https://github.com/openclaw/openclaw/commit/0e8c5fd85d202b62d1326893ab873a6ba1e32d9d)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document security finding helpers</code>](https://github.com/openclaw/openclaw/commit/961759c08b39880bc99e874fcf53b24af1641878)
+- [ ] [<code>fix(docker): qualify base image refs for podman short-name mode (#90058)</code>](https://github.com/openclaw/openclaw/commit/d522e02fe47f63402f51826897ccb73b84261e0c)
+- [ ] [<code>docs: document security policy helpers</code>](https://github.com/openclaw/openclaw/commit/bced79b63df0f70f68711e8641c35b989cdeab2e)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document tui runtime helpers</code>](https://github.com/openclaw/openclaw/commit/4ed2fb75f26cbe93c23b9c804d92dc6d2422a0d4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document tui and plugin helpers</code>](https://github.com/openclaw/openclaw/commit/e8e6c684bbfbf5b673633f098d55b98031bd1c80)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document plugin metadata helpers</code>](https://github.com/openclaw/openclaw/commit/6a2b1b219852f3f52c2814909188e86f67922548)
+- [ ] [<code>docs: document plugin install helpers</code>](https://github.com/openclaw/openclaw/commit/a6d084113a9f64cc3534e71a55df452f16f8b6b9)
+- [ ] [<code>docs: document plugin runtime helpers</code>](https://github.com/openclaw/openclaw/commit/6d6aba2be518bb5a2d3842bcab308575e687f1cb)
+- [ ] [<code>docs: document plugin auth helpers</code>](https://github.com/openclaw/openclaw/commit/ee282c6de53d88628c4790feb61bfa91d2dbd07d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>fix(release): bound cross-os agent log fallback reads</code>](https://github.com/openclaw/openclaw/commit/10b9df6d8ac6cc289a3728e4737c9faeae3531eb)
+- [ ] [<code>docs: document plugin install metadata helpers</code>](https://github.com/openclaw/openclaw/commit/463e9f2704340f7351ec60308f9849f97867b763)
+- [ ] [<code>docs: document plugin public surface helpers</code>](https://github.com/openclaw/openclaw/commit/8975f75c8b4802d92bc034d72457da925563d475)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document plugin provider helpers</code>](https://github.com/openclaw/openclaw/commit/d33664aef0b118af1a5fb8f4f9b8a9f85c45516c)
+- [ ] [<code>docs: document plugin loader helpers</code>](https://github.com/openclaw/openclaw/commit/6082f01b971e9224cc9e4bf41e24ebc7e6af52f1)
+- [ ] [<code>docs: document plugin command helpers</code>](https://github.com/openclaw/openclaw/commit/507e237d8c63bad93c8438be62bfe7aa2476a747)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document plugin registry helpers</code>](https://github.com/openclaw/openclaw/commit/6de517cbcbc182912acc777071a3da7dc64c1a87)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(e2e): ignore stale agent output markers</code>](https://github.com/openclaw/openclaw/commit/d77d231507e249bd28da1f4b21ce9ce10f858648)
+- [ ] [<code>docs: document plugin discovery helpers</code>](https://github.com/openclaw/openclaw/commit/f6049db20fe4acb5b1b856d73ea63c0828c624cb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document plugin lifecycle helpers</code>](https://github.com/openclaw/openclaw/commit/21572415c84fed3ad56730ce36f57f856328abe4)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document plugin compatibility helpers</code>](https://github.com/openclaw/openclaw/commit/fffd72f36de91e15377e1cce376278b069de2a99)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin discovery helpers</code>](https://github.com/openclaw/openclaw/commit/4d54d196c99a65473904d551e2c4e5a6a9a83991)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin registry helpers</code>](https://github.com/openclaw/openclaw/commit/a77f20a6d67fd757bb4bdc2960dc828aad560ce1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document plugin manifest helpers</code>](https://github.com/openclaw/openclaw/commit/f91fab8b1818c94422b074cbfb340eb32104ca72)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin runtime contracts</code>](https://github.com/openclaw/openclaw/commit/040ebadfc52f9de9fba579f93ec82fad0db15316)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document plugin host contracts</code>](https://github.com/openclaw/openclaw/commit/f875b519e51b8367f5b75e4bf4eb90319cadbe32)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin setup state</code>](https://github.com/openclaw/openclaw/commit/7c1deea5fae07c7e290bcc0701f424d450e24516)
+- [ ] [<code>fix(e2e): bound release journey output assertions</code>](https://github.com/openclaw/openclaw/commit/72bb5cd69226b3c26e76b8c3b03930032dbd5cc0)
+- [ ] [<code>docs: document plugin metadata utilities</code>](https://github.com/openclaw/openclaw/commit/f4d2748ca5123bfc4c65a3ff8b83aa2ff1be6505)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document image generation runtime</code>](https://github.com/openclaw/openclaw/commit/0135a0a7803f8dde611691faa2f252df2636daca)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document node host runtime</code>](https://github.com/openclaw/openclaw/commit/5a869eea5a2866c21afca9787d38e08665f4a9fd)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document secrets runtime state</code>](https://github.com/openclaw/openclaw/commit/a720a1f9de303188e3311c676a264ee6203b1992)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document secrets target registry</code>](https://github.com/openclaw/openclaw/commit/d28ac4dbdb93f2f414f6998d77e114c929fcda5a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document secrets resolution helpers</code>](https://github.com/openclaw/openclaw/commit/bea35d090220498697a3556b744301339b088c4a)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document secrets surface helpers</code>](https://github.com/openclaw/openclaw/commit/3c1e9984e0066c4fb98151f9548905b7c48ca526)
+- [ ] [<code>docs: document web fetch runtime</code>](https://github.com/openclaw/openclaw/commit/053fbf0209235c8e94ffea942525dc1eeb19fd6f)
+- [ ] [<code>docs: document acp client helpers</code>](https://github.com/openclaw/openclaw/commit/5a350aeaf52cc28a14d38109bc24676d385d6659)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document acp control plane failover</code>](https://github.com/openclaw/openclaw/commit/c782e8e44f7389980bd1f5f9205ffba84e87efab)
+- [ ] [<code>docs: document acp runtime handles</code>](https://github.com/openclaw/openclaw/commit/d88b06cb75841af7a210e307e98213de268d0747)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document acp turn control plane</code>](https://github.com/openclaw/openclaw/commit/05289f1aa04556549ccbddff72b6d1883ece561d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document acp events and bindings</code>](https://github.com/openclaw/openclaw/commit/fc64494b03baed263b3603862882a47005092011)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document acp runtime bridge</code>](https://github.com/openclaw/openclaw/commit/61fdc7bf34aafddf0533417e13b9de06a79311d1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document acp translator bridge</code>](https://github.com/openclaw/openclaw/commit/e112fb939a9b88fecedfae6e178bea680b74cf15)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document agents acp auth helpers</code>](https://github.com/openclaw/openclaw/commit/b851ba2f9847a094f10dba0d933d5730addf36a6)
+- [ ] [<code>docs: document agent bundle runtimes</code>](https://github.com/openclaw/openclaw/commit/f2d8facb487686bfd25bb2928ac4545b50eb5f6c)
+- [ ] [<code>docs: document agent command hooks</code>](https://github.com/openclaw/openclaw/commit/6c113837b88c5275f5b3c6da4d318a5f5affe004)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document agent model settings</code>](https://github.com/openclaw/openclaw/commit/634174f050b4347265380b214e42d61c52786898)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document agent tool adapters</code>](https://github.com/openclaw/openclaw/commit/60e0d2a7b91030bf39fd215edd09b5da4cb8c5bf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document agent tool guards</code>](https://github.com/openclaw/openclaw/commit/c25800ccc1a6f1757d6bbad6499938fad5515eb1)
+- [ ] [<code>docs: document agent tool assembly</code>](https://github.com/openclaw/openclaw/commit/523537a627a8e48d6d550393f75e5613b70ebb21)
+  - <sub>Keywords: <code>bin</code> <code>exec</code></sub>
+- [ ] [<code>docs: document anthropic agent transports</code>](https://github.com/openclaw/openclaw/commit/479df18caf269162118e8def1ba7ce00706cf307)
+- [ ] [<code>docs: document apply patch helpers</code>](https://github.com/openclaw/openclaw/commit/f7ef52e66d9747c0ddb0683cb9e2d3f3a38f9c09)
+- [ ] [<code>test(infra): remove empty skipped builtin placeholder</code>](https://github.com/openclaw/openclaw/commit/2cba10a49f1c58f94a240ae7b19af11380456f94)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auth health helpers</code>](https://github.com/openclaw/openclaw/commit/474d6e520aafcaae95068dc6257cda68c643bfb9)
+- [ ] [<code>docs: document external auth overlays</code>](https://github.com/openclaw/openclaw/commit/81516ca1a4f56b3b3f86b852a9af771383a0fb70)
+- [ ] [<code>docs: document oauth identity helpers</code>](https://github.com/openclaw/openclaw/commit/9d20ad261ad52f0f31dc07416d709882908a6d68)
+- [ ] [<code>docs: document oauth refresh manager</code>](https://github.com/openclaw/openclaw/commit/d581d9d733a7ce97783f638f8d1fceacae7477b3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document oauth profile resolution</code>](https://github.com/openclaw/openclaw/commit/e1da5a36d4632b1d55929d34278ff4213611957d)
+- [ ] [<code>fix: stabilize Anthropic cache marker through tool loops</code>](https://github.com/openclaw/openclaw/commit/ca9ab974270b33c80675096f8d868ef46b1c86c1)
+- [ ] [<code>refactor(agents): distill Anthropic cache marker cleanup</code>](https://github.com/openclaw/openclaw/commit/77c383d1e0d6089e581a20a39a5205c5631a5997)
+- [ ] [<code>fix(agents): keep Anthropic tool cache breakpoint advancing</code>](https://github.com/openclaw/openclaw/commit/2454952544b1237a774d5627752a235174ea089e)
+- [ ] [<code>fix(agents): bound Anthropic cache markers</code>](https://github.com/openclaw/openclaw/commit/01cc68ee0d22dc4a24d174f40a383af3f92006ee)
+- [ ] [<code>fix(agents): restore Anthropic system cache boundary</code>](https://github.com/openclaw/openclaw/commit/9ed9af4f393926667ae8e54e74ba0b095193f0c9)
+- [ ] [<code>docs: document auth profile persistence</code>](https://github.com/openclaw/openclaw/commit/f9613ff01e2bad1932983b07a1f4e3339f9bb792)
+- [ ] [<code>docs: document auth profile state store</code>](https://github.com/openclaw/openclaw/commit/db7a228e6c03abf9b26752b4d0cb936e15964011)
+- [ ] [<code>docs: document auth profile usage</code>](https://github.com/openclaw/openclaw/commit/7b8da193023d40de8959d2c671334da6fb983b5e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document bash process registry</code>](https://github.com/openclaw/openclaw/commit/41cefdff8fa8bcb671f4cb268bf0affb3e6049fa)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document bash tool helpers</code>](https://github.com/openclaw/openclaw/commit/11eb9ac1b95f1020899d84f84485b4ed8477e2e4)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document exec approval followups</code>](https://github.com/openclaw/openclaw/commit/e5f3bf99ccbcee7bda29242870d7838a9cd5e5bf)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document exec approval requests</code>](https://github.com/openclaw/openclaw/commit/8cd4d74d94f9c46050ec01ab53c8aef5bea4b38d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document gateway exec host</code>](https://github.com/openclaw/openclaw/commit/653708067403c0e9325e5042acacae5056938a53)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document node exec host</code>](https://github.com/openclaw/openclaw/commit/ec6cf6a2ac40597b2a612c937fec761ce6471573)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document exec runtime</code>](https://github.com/openclaw/openclaw/commit/045145c700824707aafc4d78c1955641c0be7992)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document exec tool entry</code>](https://github.com/openclaw/openclaw/commit/2feb81249fbc2008da76e77d582cb2c419077dbb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>style: restore exec approval e2e formatting</code>](https://github.com/openclaw/openclaw/commit/bc88f735cd52cffdb814ab4b05142c2ffd73d92a)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>style: restore exec approval e2e formatting</code>](https://github.com/openclaw/openclaw/commit/ac7ef5b8c617d9027cf50e8c8b8ec7509a08b364)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document process tool controls</code>](https://github.com/openclaw/openclaw/commit/d2d2dfd9f20e5d03872dc04506705b1e7007c801)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document agent helper contracts</code>](https://github.com/openclaw/openclaw/commit/53d08d4aefecc9ea843befd0f531a2be2d42793c)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document transcript policy helpers</code>](https://github.com/openclaw/openclaw/commit/36ae3dd23530af3c6b14f50de5cf2e0bb7847adb)
+- [ ] [<code>docs: document tool utility helpers</code>](https://github.com/openclaw/openclaw/commit/88eb405491882eb86b8b0d8505662c9af65b84a7)
+- [ ] [<code>docs: document auth marker helpers</code>](https://github.com/openclaw/openclaw/commit/76f2a12ad77f35a30740aa954fa1146cdb9e5ce4)
+- [ ] [<code>docs: document live model helpers</code>](https://github.com/openclaw/openclaw/commit/a8f6e7601b047911767d850264475f9853a850c3)
+- [ ] [<code>docs: document agent utility helpers</code>](https://github.com/openclaw/openclaw/commit/5181a9339140485856a85290638666c98e9ede66)
+- [ ] [<code>docs: document model policy helpers</code>](https://github.com/openclaw/openclaw/commit/21031c2243f04928d1f6ab9652d5bce89b87bfea)
+- [ ] [<code>docs: document failover utility helpers</code>](https://github.com/openclaw/openclaw/commit/fbf3e009d49ed5d18fb42906e9d885e6cac24071)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document runtime helper contracts</code>](https://github.com/openclaw/openclaw/commit/e533ff4c4a11d757bb1ff16d6abdccc5a8f35540)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document provider auth helpers</code>](https://github.com/openclaw/openclaw/commit/f5f046a736d753e35df039b93d2c15c99f146de9)
+- [ ] [<code>docs: document agent test helpers</code>](https://github.com/openclaw/openclaw/commit/f3a2488ab06d18c7dfd6d35c4e0368fcc508f497)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document agent control helpers</code>](https://github.com/openclaw/openclaw/commit/7913b6cd278d579f051af0713b20808d61d084ca)
+- [ ] [<code>docs: document models config runtime</code>](https://github.com/openclaw/openclaw/commit/511f1141387657f3eb8380ee92170538b37fc251)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document agent utility contracts</code>](https://github.com/openclaw/openclaw/commit/eb48b6bd0632e1f12a6669460ef7a393eeac3f36)
+- [ ] [<code>docs: document agent policy helpers</code>](https://github.com/openclaw/openclaw/commit/7fb74310f066f8d815d0e3e771a041d5005f8267)
+- [ ] [<code>docs: document session output helpers</code>](https://github.com/openclaw/openclaw/commit/8edd7e84ada81d750ed858ba6e38a0dc6f50283c)
+- [ ] [<code>docs: document provider planning helpers</code>](https://github.com/openclaw/openclaw/commit/18ed27bf5f8e8d93b2654aa1ddc927f2c80aa09c)
+- [ ] [<code>docs: document auth redaction helpers</code>](https://github.com/openclaw/openclaw/commit/1a8263c2f51843aed44eeeb6348eff059cd3e81b)
+- [ ] [<code>docs: document runtime config helpers</code>](https://github.com/openclaw/openclaw/commit/6ca104d129cbb3132ac35f65faec5b128351fad8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document runtime plan contracts</code>](https://github.com/openclaw/openclaw/commit/7ef836812b62f4f9b451372d3b16b5fbd9b91111)
+- [ ] [<code>docs: document workspace policy helpers</code>](https://github.com/openclaw/openclaw/commit/1cbbfe8ed2e4505e149ee062d45d3a24cc27d179)
+- [ ] [<code>docs: document acpx entry contracts</code>](https://github.com/openclaw/openclaw/commit/33c284ca0d1d78047dc4ec995312dd2497ec6b71)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document acpx process runtime helpers</code>](https://github.com/openclaw/openclaw/commit/198d0b36a2d9c39cf4495466ac93fe182aa60145)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document acpx runtime internals</code>](https://github.com/openclaw/openclaw/commit/bac84c5858c536faa0b8a77de4f7031420e0f51f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document active memory admin alibaba plugins</code>](https://github.com/openclaw/openclaw/commit/8c02521c47b72537c582ea57d6308804d79d2f41)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
