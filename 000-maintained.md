@@ -13148,6 +13148,120 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>fix(testing): speed channel contract loading</code>](https://github.com/openclaw/openclaw/commit/a0717ef61c77e3d7fd7c4f269bcdc72d285e8b27)
 - [ ] [<code>test(live): keep cache prereq skips provider-aware</code>](https://github.com/openclaw/openclaw/commit/932034f1fc8a3fcccff54ba30cc2f76dd63369f7)
 - [ ] [<code>ci(crabbox): keep hydrated modules under node_modules</code>](https://github.com/openclaw/openclaw/commit/7b82901e58d32ce52472f55be36c289a37443400)
+- [ ] [<code>Add operator install policy and remove dangerous-code install scanners (#89516)</code>](https://github.com/openclaw/openclaw/commit/154f439c81035c467c27d5656b8fb88d057b63e0)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): publish 2026.6.1 notes on main</code>](https://github.com/openclaw/openclaw/commit/b411c53248b923017a656b94ffa9b86d6b6f6e24)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs(release): document GitHub release note edits</code>](https://github.com/openclaw/openclaw/commit/e9379ef22bf3c2b0b8990cb69cca8723d4fae0fe)
+- [ ] [<code>docs(config): refresh channel config baseline hash</code>](https://github.com/openclaw/openclaw/commit/0f05aff312ee34f60cf20d0fd5952e53af61cb9f)
+- [ ] [<code>chore(release): update appcast for 2026.6.1</code>](https://github.com/openclaw/openclaw/commit/639ff985093a83969e64059def0a822611371c92)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): add 2026.6.2 notes</code>](https://github.com/openclaw/openclaw/commit/0756680421df257af2a99ac0cc8fb4eead1c5d39)
+- [ ] [<code>ci(release): promote Windows node installers</code>](https://github.com/openclaw/openclaw/commit/bf368e760957664d4948953aae0f55dbba4755ae)
+- [ ] [<code>docs(release): require verified Windows asset links</code>](https://github.com/openclaw/openclaw/commit/ed283490b542b3f04e75dfe0a4f7c1ff4f4051f8)
+- [ ] [<code>docs(plugin-sdk): refresh API baseline hash</code>](https://github.com/openclaw/openclaw/commit/2b31ad2ee5fbbd4f3cb609adb8b4889ed18317b9)
+- [ ] [<code>docs: warn about install policy plugin update footguns</code>](https://github.com/openclaw/openclaw/commit/10830bc4a77cf12f0fcd36ba6c86459c7936cc98)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(changelog): add 2026.6.3 notes</code>](https://github.com/openclaw/openclaw/commit/20fa8a92a7c3d5941fcaebe2cbb962c9513742fe)
+- [ ] [<code>docs(changelog): normalize 2026.6.3 unreleased notes</code>](https://github.com/openclaw/openclaw/commit/8de37e1ce4a98c165096f35ad3934388c62006f1)
+- [ ] [<code>docs: document auth profile failure policy contract (#89613)</code>](https://github.com/openclaw/openclaw/commit/0b8aabe8648e094187153146f16c784267341b57)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>docs(changelog): expand 2026.6.3 release notes</code>](https://github.com/openclaw/openclaw/commit/90b8b41c41d5967afd16183d99e589b5f701c17b)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document cli shared helpers</code>](https://github.com/openclaw/openclaw/commit/4f4cd2e8aee00226451bc59834e00771c4e797a6)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document cli gateway plugin helpers</code>](https://github.com/openclaw/openclaw/commit/95045b1d5bb2c40a9b18f9db7b01092ae3d1b13d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): classify read-only shell commands as non-mutating</code>](https://github.com/openclaw/openclaw/commit/32acef01b38350bf34a690f024162258358e50a0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix: keep stream-to-parent ACP spawns registered</code>](https://github.com/openclaw/openclaw/commit/7f1a920a893b6ce35000e55ca661a85b46c18451)
+- [ ] [<code>docs(changelog): restore 2026.6.2 package notes</code>](https://github.com/openclaw/openclaw/commit/2ecd1d32997d122e791cb969cda6ef776d937854)
+- [ ] [<code>fix(agents): repair context-engine tool-result pairing</code>](https://github.com/openclaw/openclaw/commit/d5c8e90e284b71f41fc2560def3e7c18d47faefb)
+- [ ] [<code>revert(codex): revert first-party marketplace allowlist</code>](https://github.com/openclaw/openclaw/commit/fce002ad03200e0e17abf79232942217bb016b49)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(browser): honor Chrome MCP tab timeouts</code>](https://github.com/openclaw/openclaw/commit/308114e1486dc2a2409ab1d99a1e5f8e05d97b7e)
+- [ ] [<code>chore(release): prepare 2026.6.3 beta</code>](https://github.com/openclaw/openclaw/commit/e254346bc23230c7e5146d56bf4f65e6c648ff8a)
+- [ ] [<code>docs: document remaining cli helpers</code>](https://github.com/openclaw/openclaw/commit/381c5e0762d1e28062412bad92e597120034237d)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(plugin-sdk): stabilize API baseline source paths</code>](https://github.com/openclaw/openclaw/commit/41e56d56fcae90b7c5f7ee7a4eee88a75934a8d4)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document remaining plugin sdk helpers</code>](https://github.com/openclaw/openclaw/commit/a53a545542e3254cc5e7701a75c640b1a3a32c51)
+- [ ] [<code>test(canvas): verify a2ui compatibility assets</code>](https://github.com/openclaw/openclaw/commit/8fe67e4b70735dff28b73e681be74cbc8efcdc67)
+- [ ] [<code>refactor: add awaitable chat session switch</code>](https://github.com/openclaw/openclaw/commit/8c919801237edfc1aea0ab636566e5652b480ecd)
+- [ ] [<code>test: cover awaited chat session switching</code>](https://github.com/openclaw/openclaw/commit/03c730c48f2125cdec8a59e20fb61a1c3abf384a)
+- [ ] [<code>fix: restore Skill Workshop current chat toggle</code>](https://github.com/openclaw/openclaw/commit/0771a8ab6f87f427bb8ba7ab1fdf4a1f7a788497)
+- [ ] [<code>docs: document gateway utility helpers</code>](https://github.com/openclaw/openclaw/commit/59366ca4208d5befe0c68a18d06eec8f9aaa7b4e)
+- [ ] [<code>docs: refresh Windows Hub platform guide</code>](https://github.com/openclaw/openclaw/commit/190fd034d59c98f6c6d373ba2945e20b8c94123f)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document gateway general helpers</code>](https://github.com/openclaw/openclaw/commit/3ad7049cba9d3284bf8ae3f3440d43a89fa938b9)
+- [ ] [<code>fix(test): keep explicit ui tests scoped</code>](https://github.com/openclaw/openclaw/commit/1fde4ae3b1978f23c6f6dab78699ebf087d7a701)
+- [ ] [<code>docs: document gateway server methods</code>](https://github.com/openclaw/openclaw/commit/46f015a6273c43adca9f310838c76e5151cdaaef)
+- [ ] [<code>test(canvas): pin a2ui compatibility assets</code>](https://github.com/openclaw/openclaw/commit/28a2e795da96c9dd19769ca32edda60bdc65ec3e)
+- [ ] [<code>fix(update): surface plugin channel fallbacks (#81422)</code>](https://github.com/openclaw/openclaw/commit/c96a12d3c887465437285e530c759a1c9c3e82d3)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>chore(release): prepare 2026.6.2 beta</code>](https://github.com/openclaw/openclaw/commit/1878ca0820855a98eb5b1d864ea8de945f6a072f)
+- [ ] [<code>docs: surface Windows Hub across docs</code>](https://github.com/openclaw/openclaw/commit/116bc2a0f0c478bbce8042d7b295a601c0e5d654)
+- [ ] [<code>refactor(auth): store auth profiles in sqlite (#89102)</code>](https://github.com/openclaw/openclaw/commit/e16ac0433092da879e88213a47d6f4dae0432a6e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auto-reply top-level helpers</code>](https://github.com/openclaw/openclaw/commit/8129fc0f3a6a814cdc200c0173f3e6f23c18c960)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto-reply runtime helpers</code>](https://github.com/openclaw/openclaw/commit/6d4d313d440e0fea63311a76bb999b97804182e0)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: clarify legacy openai-codex auth (#90028)</code>](https://github.com/openclaw/openclaw/commit/208fec6ddc25682866a038f7da575e52f4b29835)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto-reply queue helpers</code>](https://github.com/openclaw/openclaw/commit/9a1e896c96b42f64b6752839f0119718506ffc81)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto-reply dispatch helpers</code>](https://github.com/openclaw/openclaw/commit/93917413dedf52430a24f2d206ed8a952d384b94)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document auto-reply block helpers</code>](https://github.com/openclaw/openclaw/commit/90b1ab1c7026e019883b4d3adc9e12af69ecffdd)
+- [ ] [<code>docs: document auto-reply queue exec helpers</code>](https://github.com/openclaw/openclaw/commit/05d92d8761e7151a77087f0490199ad34c6d448e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document auto-reply directive helpers</code>](https://github.com/openclaw/openclaw/commit/d9d4514c00b549fac8ed3f2bb8913ffefd5d53c0)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>Fix Workboard status persistence</code>](https://github.com/openclaw/openclaw/commit/e07dbb27d91f961e98533dda99a8cea32ed48206)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document auto-reply policy helpers</code>](https://github.com/openclaw/openclaw/commit/0b6fff44f5f46f665e2a9443988cff6c529553f4)
+- [ ] [<code>fix: harden mobile a2ui bridge trust</code>](https://github.com/openclaw/openclaw/commit/d5d3e9983edb0725c6af6b1d6efc4af1f471a22b)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document auto-reply runtime facades</code>](https://github.com/openclaw/openclaw/commit/6baa5ca5b130479ef0720e805e3638dea09a7b2b)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document auto-reply session runtime helpers</code>](https://github.com/openclaw/openclaw/commit/01d69041a250231efc29ae39dac0cf11c59b7699)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test(release): read auth refs from sqlite store</code>](https://github.com/openclaw/openclaw/commit/edc9be1b7f97bc0fc5731aa9ecfcbfac79d3b0cb)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>fix(deps): align root override metadata</code>](https://github.com/openclaw/openclaw/commit/99e627b28329f32c75c75d190a21a701496be9ec)
+- [ ] [<code>docs: document auto-reply final helpers</code>](https://github.com/openclaw/openclaw/commit/e993e1c334c6ee0995106730d750d44a9320e5bb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(plugins): align auth profile tests with sqlite store</code>](https://github.com/openclaw/openclaw/commit/96136e6d71476475be25bd20c61cada89398e9b6)
+- [ ] [<code>docs: document plugin host helpers</code>](https://github.com/openclaw/openclaw/commit/9a4d28695bef6ebc6f4d014901a2c4a7a509befe)
+- [ ] [<code>docs: document plugin index policy helpers</code>](https://github.com/openclaw/openclaw/commit/bbff9518808273b7453253ae92044298afba609f)
+- [ ] [<code>test(infra): follow active npm override pins</code>](https://github.com/openclaw/openclaw/commit/a7f442ffd89c08f8f52575e9bfae0a7e6bb6e630)
+- [ ] [<code>docs: document plugin provider helpers</code>](https://github.com/openclaw/openclaw/commit/b1d434b666b919616dada471032981a3ff4c437b)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin auth runtime helpers</code>](https://github.com/openclaw/openclaw/commit/ca7c2714f695e337cfb4ba039959ce530206495d)
+- [ ] [<code>docs: document plugin runtime loaders</code>](https://github.com/openclaw/openclaw/commit/371777ad14bd2eed43cca23c292f110f1d0844a4)
+- [ ] [<code>docs: document plugin manifest helpers</code>](https://github.com/openclaw/openclaw/commit/335f04539383b194dede6abd881e4b88e37a06b3)
+- [ ] [<code>test(plugins): read migrated auth profiles from sqlite store</code>](https://github.com/openclaw/openclaw/commit/6d84fb35c7a5b1c8914b24d7fabc180359d84518)
+- [ ] [<code>docs: document plugin test helpers</code>](https://github.com/openclaw/openclaw/commit/c821ef274b45b0d49183744121c578f562f69588)
+- [ ] [<code>docs: document plugin install helpers</code>](https://github.com/openclaw/openclaw/commit/02c6630f116af226807af2377ec1561069d45eda)
+- [ ] [<code>docs: document plugin runtime status helpers</code>](https://github.com/openclaw/openclaw/commit/27b1d05a1d59bca407b6610f089341eacc09f52e)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin public artifact helpers</code>](https://github.com/openclaw/openclaw/commit/06ad1d0d74f6cbbbe13dab4be2a3315aa70d3a5d)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin runtime utilities</code>](https://github.com/openclaw/openclaw/commit/c5d52bf2a715d33afc320a8812413ae5bd6caf71)
+- [ ] [<code>docs: document plugin hook provider helpers</code>](https://github.com/openclaw/openclaw/commit/bb8192ff7cddf8863192aa82f6442717d90fb83e)
+- [ ] [<code>docs: document plugin manifest install helpers</code>](https://github.com/openclaw/openclaw/commit/0ad13b714e16ea29182873e34dbca0687485c5a4)
+- [ ] [<code>docs: document plugin scope state helpers</code>](https://github.com/openclaw/openclaw/commit/58f7d7e5f8ffc997f92a28e85c11ffbbb7a9dc06)
+- [ ] [<code>test(e2e): read onboard auth profiles from sqlite</code>](https://github.com/openclaw/openclaw/commit/822ebb4c9449dcaf7f7a8714da51efaa1025ef68)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>docs: document plugin runtime helper APIs</code>](https://github.com/openclaw/openclaw/commit/7b4d14f7868310b601aa560b54e723f8691829b2)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document plugin runtime load context</code>](https://github.com/openclaw/openclaw/commit/f6aa2c02d1c71f422404a531bc5a1663edb7e0bc)
+- [ ] [<code>docs: document plugin catalog install helpers</code>](https://github.com/openclaw/openclaw/commit/fd5dc5bb3abe7110f6bdf38eb519a96bda1b6fd4)
+- [ ] [<code>fix(workboard): isolate stale lifecycle bulk patches</code>](https://github.com/openclaw/openclaw/commit/60104fe254805c3ff78c532d5bbe82d67032b924)
+- [ ] [<code>docs: document plugin overlay memory helpers</code>](https://github.com/openclaw/openclaw/commit/69c8097dd13cf40fd3ae466e2ec9dd472eb0a66f)
+- [ ] [<code>test: preserve version exports in partial mocks</code>](https://github.com/openclaw/openclaw/commit/b4234d40285e82aa9915846a831dbbc141390cbc)
+- [ ] [<code>fix(deps): keep managed overrides in workspace metadata</code>](https://github.com/openclaw/openclaw/commit/392af2e61201d37253ae2cdd5e6c6b062cd03fe6)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
