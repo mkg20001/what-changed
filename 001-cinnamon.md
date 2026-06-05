@@ -290,6 +290,7 @@
 - [ ] [<code>modalDialog.js: Remove on-screen-keyboard/lightbox workaround.</code>](https://github.com/linuxmint/cinnamon/commit/de330fe03bee067bb6adb2347fd418a42f5de8bb)
 - [ ] [<code>main.js: In _stageEventHandler, ignore modifier-only key-release</code>](https://github.com/linuxmint/cinnamon/commit/a64cefd7d5fe8b79d7abfa30076d8e85cd3e1e1a)
 - [ ] [<code>_dialogs.scss: Remove device-selection-dialog (ref: a30f3f5).</code>](https://github.com/linuxmint/cinnamon/commit/d405e44704c52e503ce67ee957de3337cb5863cb)
+- [ ] [<code>keyboardManager.js: Seed empty xkb-options when reading from the</code>](https://github.com/linuxmint/cinnamon/commit/c433277a0bdae78267e9814b2aebe9a246c40bd7)
   - <sub>Tags: <code>master.mint22</code></sub>
 
 #### [cinnamon-control-center](https://github.com/linuxmint/cinnamon-control-center): [refs/tags/6.6.0 → HEAD](https://github.com/linuxmint/cinnamon-control-center/compare/refs/tags/6.6.0...HEAD)
