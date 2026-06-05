@@ -492,6 +492,8 @@
 - [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
 - [ ] [<code>build: (deps): bump go_router from 17.2.3 to 17.3.0</code>](https://github.com/krille-chan/fluffychat/commit/f76a28422ad4d1a66158a405730b5694c654b157)
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.0.5 to 4.1.2</code>](https://github.com/krille-chan/fluffychat/commit/0a666790bf3c64e49cbd5ba8d3f565c9be297575)
+  - <sub>Keywords: <code>dependency</code></sub>
 
 #### [fluffychat-web](https://github.com/krille-chan/fluffychat): [refs/tags/v2.6.0 → HEAD](https://github.com/krille-chan/fluffychat/compare/refs/tags/v2.6.0...HEAD)
 
@@ -783,6 +785,8 @@
 - [ ] [<code>chore: Follow up disable oidc default</code>](https://github.com/krille-chan/fluffychat/commit/0405a69903c764a424ba2d035f0998f5f30308fb)
 - [ ] [<code>build: (deps): bump go_router from 17.2.3 to 17.3.0</code>](https://github.com/krille-chan/fluffychat/commit/f76a28422ad4d1a66158a405730b5694c654b157)
 - [ ] [<code>build: (deps): bump flutter_web_auth_2 from 5.0.2 to 5.0.3</code>](https://github.com/krille-chan/fluffychat/commit/13c7d102331fb02981c863cc813d50c15d666a0c)
+- [ ] [<code>build: (deps): bump dart_code_linter from 4.0.5 to 4.1.2</code>](https://github.com/krille-chan/fluffychat/commit/0a666790bf3c64e49cbd5ba8d3f565c9be297575)
+  - <sub>Keywords: <code>dependency</code></sub>
 > Dropped flutter - no appropriate URL found OrderedDict({'attr_path': 'flutter', 'home_url': 'https://flutter.dev', 'src_url': None, 'urls': None, 'kind': 'github', 'to_rev': 'HEAD', 'url': '', 'from_rev': ''})
 
 
@@ -1347,6 +1351,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>Add Markdown copy of Windows package EULA. (#22421)</code>](https://github.com/netdata/netdata.git/commit/0c34411b292743dccf29d32522cb46ada1991fe1)
 - [ ] [<code>chore: clarify the SOW lifecycle and strengthen the Mandatory Development Principles (#22630)</code>](https://github.com/netdata/netdata.git/commit/b695fa41f8ef49b983cde3842fcf8db9d7bca780)
   - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-329-nightly.</code>](https://github.com/netdata/netdata.git/commit/dd244a82cb0eba234a979d14b3f9669d049cf920)
+- [ ] [<code>docs: consolidate dbengine retention sizing guidance (#22517)</code>](https://github.com/netdata/netdata.git/commit/f340a0e3ffb77f2d6ea3a02ffa6528ce7fd93dcf)
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -2177,6 +2183,7 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>fix(ci): fix autopkgtest CI failures (#591)</code>](https://github.com/canonical/netplan/commit/a03d06e0af2bbbd42bb5be9a9d62070274a08d21)
 - [ ] [<code>docs: remove pull request description heading (#593)</code>](https://github.com/canonical/netplan/commit/4c68ed83aadd6517f63244461c83842afc201f33)
+- [ ] [<code>generate: order service After=systemd-sysusers.service (#573)</code>](https://github.com/canonical/netplan/commit/427e003ca98da27a35797a8fdb113a627d44040f)
 
 #### [nexa](https://github.com/NexaAI/nexa-sdk): [refs/tags/v0.2.73 → HEAD](https://github.com/NexaAI/nexa-sdk/compare/refs/tags/v0.2.73...HEAD)
 
@@ -2548,6 +2555,12 @@ fatal: could not read Username for 'https://github.com': No such device or addre
 - [ ] [<code>ci: bump taiki-e/install-action from 2.77.1 to 2.78.0 (#279)</code>](https://github.com/Oppzippy/OpenSCQ30/commit/d332fceebfcc143ff23c0be8f0813960d486f6db)
 - [ ] [<code>docs: add what data is collected by bluetooth logs</code>](https://github.com/Oppzippy/OpenSCQ30/commit/b4f89096b875e6f4afe19e2b6c3fa7373e01b0fb)
 - [ ] [<code>docs: inform of device request prioritization by thumbs up</code>](https://github.com/Oppzippy/OpenSCQ30/commit/be9074d66d22806a73156eefdfa37ac6beaea7b8)
+- [ ] [<code>docs(cli): add man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/4cb8b5096d956523e7a57963e9c82af2df6dc7fd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs(cli): fix typos and minor mistakes in man page</code>](https://github.com/Oppzippy/OpenSCQ30/commit/8240465fea846304abcf133dfef885abc65a373a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(lib): clarify that Q30 and Life Q30 are the same thing</code>](https://github.com/Oppzippy/OpenSCQ30/commit/f0cb16d18df5a5b17fcc6565d1f813a61253cce7)
+- [ ] [<code>fix(lib): repeated Soundcore word in a3959 device name</code>](https://github.com/Oppzippy/OpenSCQ30/commit/a9c78aaf82d41e08ae70426977bb386506ccb5f9)
 
 #### [openclaw](https://github.com/openclaw/openclaw): [refs/tags/v2026.5.12 → HEAD](https://github.com/openclaw/openclaw/compare/refs/tags/v2026.5.12...HEAD)
 
@@ -14513,6 +14526,173 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>dependency</code></sub>
 - [ ] [<code>docs: document vitest config files</code>](https://github.com/openclaw/openclaw/commit/25211167e8e51ec4149e0e523117d88719c642d2)
 - [ ] [<code>docs: document test helpers</code>](https://github.com/openclaw/openclaw/commit/29f5e9d35c33c55289e0fb042f588905b0092101)
+- [ ] [<code>fix(whastapp): bound connection startup waits (#90486)</code>](https://github.com/openclaw/openclaw/commit/dd2083c7ec5194044569b4e6907f3227960dea8e)
+- [ ] [<code>docs: document script tests</code>](https://github.com/openclaw/openclaw/commit/58c663920d0403632a3f5d503aee2c4517c6babd)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>test: scope inherited agent dir fixture</code>](https://github.com/openclaw/openclaw/commit/79b6dd049e4e19dd03617d6ab1dea471b13808e5)
+- [ ] [<code>test: snapshot task owner state env</code>](https://github.com/openclaw/openclaw/commit/0f9bb59b7342779b87329ad6b671459384383db5)
+- [ ] [<code>test: snapshot task flow audit env</code>](https://github.com/openclaw/openclaw/commit/064182aff834491db559c859fd4dd093bdcd4e7a)
+- [ ] [<code>test: snapshot task registry store env</code>](https://github.com/openclaw/openclaw/commit/99a838fac47d3f526b6e4fe5c182ef7c768183d2)
+- [ ] [<code>test: snapshot task flow maintenance env</code>](https://github.com/openclaw/openclaw/commit/9f6ed16a6d437747cf3e1b6321c4d961efc9b72f)
+- [ ] [<code>test: snapshot task executor env</code>](https://github.com/openclaw/openclaw/commit/f57adba40096baa2d2382dddff3406022c443317)
+- [ ] [<code>test: let flow registry helper own state env</code>](https://github.com/openclaw/openclaw/commit/cb17c84410e393ee54a71b4cdf024d98a4d2022b)
+- [ ] [<code>test: share env api key snapshot</code>](https://github.com/openclaw/openclaw/commit/ed52d27d78efffa2ede97cd61e5e43d183227ad1)
+- [ ] [<code>test: scope bun install detection env</code>](https://github.com/openclaw/openclaw/commit/442a2107b5d151fb40cf6d5d9a2d5d6fb0bf9f2c)
+- [ ] [<code>test: snapshot npm global config env</code>](https://github.com/openclaw/openclaw/commit/323c8aa87fe66b5e4911d3aa290d98e688c93529)
+- [ ] [<code>test: share brew env helpers</code>](https://github.com/openclaw/openclaw/commit/4957e3b02fd358e8787c3e75802c4006f733bc90)
+- [ ] [<code>test: snapshot tts prefs env</code>](https://github.com/openclaw/openclaw/commit/c4ed850f9b88d4bf1b119dae7dd113d6bf57553e)
+- [ ] [<code>test: snapshot openai provider env</code>](https://github.com/openclaw/openclaw/commit/d6e1ca997bcaf2deac5d46ad8e3b3548987143c7)
+- [ ] [<code>test: reuse release env helper</code>](https://github.com/openclaw/openclaw/commit/74680e3484a257a3dc8ea255825b2d562826091e)
+- [ ] [<code>test: reuse parallels env helper</code>](https://github.com/openclaw/openclaw/commit/55c414ca815fae33b4f7736fd0a830532630d129)
+- [ ] [<code>test: snapshot logger level env</code>](https://github.com/openclaw/openclaw/commit/5392cb713979eb057a965b893e00935b87c4edc0)
+- [ ] [<code>test: snapshot logger settings env</code>](https://github.com/openclaw/openclaw/commit/28b63e69e9d8edfc261335b088e04f8121de2836)
+- [ ] [<code>test: snapshot console settings env</code>](https://github.com/openclaw/openclaw/commit/28737a0b09e4584c0f86f7bad949132f7cef2264)
+- [ ] [<code>test: snapshot logging config env</code>](https://github.com/openclaw/openclaw/commit/abc00f4c98e3d9961b917a08ada5fc7ca46a2e90)
+- [ ] [<code>test: scope channel status locale</code>](https://github.com/openclaw/openclaw/commit/61d9ac8c5d485469a0a1e960f226e48f80570c43)
+- [ ] [<code>test: scope search setup locale</code>](https://github.com/openclaw/openclaw/commit/dbb80f3bb7a405cbe884b86300a08e93441523f0)
+- [ ] [<code>test: scope channel prompts locale</code>](https://github.com/openclaw/openclaw/commit/9739249043e0a50e5baa519a2200a87a17abe2ff)
+- [ ] [<code>test: scope doctor gateway token env</code>](https://github.com/openclaw/openclaw/commit/8ede9e0e07c43cf0bfee0d73058d4d887818c7f4)
+- [ ] [<code>test: snapshot diagnostic state env</code>](https://github.com/openclaw/openclaw/commit/dc4c9030fcdfa3b62611577e3e75785baf755391)
+- [ ] [<code>test: snapshot log tail config env</code>](https://github.com/openclaw/openclaw/commit/5c6a501269c6b9060e5acadaab0d6171bd65707e)
+- [ ] [<code>test: snapshot redact config env</code>](https://github.com/openclaw/openclaw/commit/95d51c5fe8a53c8826c2f266acf688159a7d1502)
+- [ ] [<code>docs: document repository scripts</code>](https://github.com/openclaw/openclaw/commit/b8d08f0cfd0cac85738d187649c9fb2e5eb9ea4e)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document package sources</code>](https://github.com/openclaw/openclaw/commit/4df95d3c3fd614463307b12e7152f7862e786b30)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: scope tui shutdown grace env</code>](https://github.com/openclaw/openclaw/commit/39cc11ad28f20f1450a1d51cecd9a98ed9899ed4)
+- [ ] [<code>docs: document control ui sources</code>](https://github.com/openclaw/openclaw/commit/12a56d4d46dd837237d59e4f7dfe097810d03074)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>test: scope embedded shutdown grace env</code>](https://github.com/openclaw/openclaw/commit/86d958647fa1bb47c0df30bffc63e8c7b8ceb3f9)
+- [ ] [<code>test: snapshot exec audit home env</code>](https://github.com/openclaw/openclaw/commit/5cf63f295b905f6c42225fb3d5a15f9ab3a3c805)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: isolate group report planner env</code>](https://github.com/openclaw/openclaw/commit/cef423d066aa8e1e2bc6aa8a2351c2001da71073)
+- [ ] [<code>test: isolate npm update smoke env</code>](https://github.com/openclaw/openclaw/commit/53a3d58d626ef6f59381163bdd510934d4403c4a)
+- [ ] [<code>docs: document small extension sources</code>](https://github.com/openclaw/openclaw/commit/4fa5092cdc39aa66271ee931db267dbf34e538a9)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: narrow media proxy env scope</code>](https://github.com/openclaw/openclaw/commit/6f419b3853a1b295cdfcebfff6dddc55cc64c45b)
+- [ ] [<code>test: contain media roots state env</code>](https://github.com/openclaw/openclaw/commit/e282cb2af50c38247dc8fb928e30dae05235d0ac)
+- [ ] [<code>test: snapshot pairing gateway env</code>](https://github.com/openclaw/openclaw/commit/0973eb61c35fdd4ba143099e97b5e52b13e74205)
+- [ ] [<code>test: contain web media home env</code>](https://github.com/openclaw/openclaw/commit/4dd00347fc952f6bac7801c5ad3f5788fc1a23d4)
+- [ ] [<code>test: bound proxy resolver env</code>](https://github.com/openclaw/openclaw/commit/38e142657b67edb82fdf26b98c1d04f5f68e5d98)
+- [ ] [<code>test: scope preauth budget env</code>](https://github.com/openclaw/openclaw/commit/85e16da2b48a9ec150c519946cbeab5d190cdd99)
+- [ ] [<code>test: confine web fetch key env</code>](https://github.com/openclaw/openclaw/commit/afcf1ddb9d6572cae1536035fdd9c57ba0c45f47)
+- [ ] [<code>test: isolate windows acl system root</code>](https://github.com/openclaw/openclaw/commit/e7bcbd3e7ede0a05d8d6270e5a95591edee1f27d)
+  - <sub>Keywords: <code>exec</code></sub>
+- [ ] [<code>test: localize control ui home env</code>](https://github.com/openclaw/openclaw/commit/5a704d26a179a917b0fb524499098dbc7978cb12)
+- [ ] [<code>test: pin oauth tls brew env</code>](https://github.com/openclaw/openclaw/commit/56f652b499ab3874d35537a002daf6fd5491d3a7)
+- [ ] [<code>test: scope model scan key env</code>](https://github.com/openclaw/openclaw/commit/4b151593e20e329592c054f648320b463ff87571)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>test: share probe target env cleanup</code>](https://github.com/openclaw/openclaw/commit/126ebfc997105cb31207caa2094cc1057cb47f92)
+- [ ] [<code>docs: document medium extension sources</code>](https://github.com/openclaw/openclaw/commit/96e5812426050d29236c772351426cdb0dd37c4b)
+- [ ] [<code>fix: accept codex app-server auth aliases</code>](https://github.com/openclaw/openclaw/commit/3c7c25afd2f6cf2619d411dc36b116917c48c2ea)
+- [ ] [<code>docs: document large extension sources</code>](https://github.com/openclaw/openclaw/commit/6868cde4d45f70a2add630ca990d5f5b9d137025)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document channel extension sources</code>](https://github.com/openclaw/openclaw/commit/58912f8fd842202add4e6aff265e84dbb023dcd0)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>fix service env placeholder collection (#90488)</code>](https://github.com/openclaw/openclaw/commit/7ac1eeb1222034115f3c985ec8576a4b8f20fa57)
+- [ ] [<code>docs: document messaging extension sources</code>](https://github.com/openclaw/openclaw/commit/efd1a9ace6f5e2c404f3048ecc168759a17d533b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document discord extension sources</code>](https://github.com/openclaw/openclaw/commit/23716de4468bd97a6d50323e04f413e21b71ad59)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document scoped extension sources</code>](https://github.com/openclaw/openclaw/commit/5380d11977a9ad1b0c7ccead58aa51929c2875bd)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>feat: install GitHub-backed ClawHub skills (#90478)</code>](https://github.com/openclaw/openclaw/commit/8f85f949465acbb73c7f64a3d79c2ab0d12594cb)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document generated locale bundles</code>](https://github.com/openclaw/openclaw/commit/b311fd607f6c1e1cafff08ce236c478f743255b8)
+- [ ] [<code>docs: document public sdk contract helpers</code>](https://github.com/openclaw/openclaw/commit/848f39e70d003c4060e2474874e7b33890362884)
+- [ ] [<code>docs: document sdk runtime helper contracts</code>](https://github.com/openclaw/openclaw/commit/de68623ffed718aaa36f730ddc9fef4508c0638d)
+- [ ] [<code>docs: document sdk single-export contracts</code>](https://github.com/openclaw/openclaw/commit/5d350e785a91c71dcab4c289e45f88f50d27615b)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document sdk utility contracts</code>](https://github.com/openclaw/openclaw/commit/d6c0f9ccb84a5fbc8d6bba8ef8d1737d698a752e)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document sdk payload and fetch contracts</code>](https://github.com/openclaw/openclaw/commit/c1b49bb1d0e608f0856eaee2f3546c9d0a1b9b01)
+- [ ] [<code>docs: document sdk facade contracts</code>](https://github.com/openclaw/openclaw/commit/9e22b8560cdcac21b61782c944c68e263adfd6a9)
+- [ ] [<code>docs: document sdk migration and approval contracts</code>](https://github.com/openclaw/openclaw/commit/4756d6a42a06df9b79f8ef2442e476f3ab39656e)
+- [ ] [<code>docs: document provider facade constants</code>](https://github.com/openclaw/openclaw/commit/a4087c54b53d126ac636db38cb44861307b0bd94)
+- [ ] [<code>docs: document sdk dedupe and group contracts</code>](https://github.com/openclaw/openclaw/commit/de4571da4b262b458a32b386e62d4f102dca62cf)
+- [ ] [<code>docs: document sdk facade loader contracts</code>](https://github.com/openclaw/openclaw/commit/99bb94589b90ab81f89083fd0c85f259463954aa)
+- [ ] [<code>docs: document browser session oauth sdk contracts</code>](https://github.com/openclaw/openclaw/commit/14690904f033503c02a5e301d50d26ab10d3c863)
+- [ ] [<code>docs: document approval reaction reply contracts</code>](https://github.com/openclaw/openclaw/commit/1e6fb5089bb80ce8cf1a11b075d0216492e6d934)
+- [ ] [<code>docs: document qa video gateway sdk contracts</code>](https://github.com/openclaw/openclaw/commit/506c2ee1818663d2c4ef39b9ed41455a6157366d)
+- [ ] [<code>docs: document channel approval ingress contracts</code>](https://github.com/openclaw/openclaw/commit/86872e0880062759e1b869054288776b46de67b2)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>docs: document tts runtime contracts</code>](https://github.com/openclaw/openclaw/commit/2f00fbf28ed9fcefef0d139c384d8e2c5113aa4a)
+- [ ] [<code>docs: document qa runtime facade contracts</code>](https://github.com/openclaw/openclaw/commit/d23558e691503f2463bd2c22e30df30bb1c92c04)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document lmstudio runtime contracts</code>](https://github.com/openclaw/openclaw/commit/82710b4f1f100a7ec58e0740a8f3c89e65ab5d9a)
+- [ ] [<code>docs: document discord sdk facade contracts</code>](https://github.com/openclaw/openclaw/commit/5613a0fb6ed9a3a8978410f7525d1115f8684951)
+- [ ] [<code>docs: document memory runtime contracts</code>](https://github.com/openclaw/openclaw/commit/9448f91e6f1a2bcf09484fb0e97b92eac1f84467)
+- [ ] [<code>docs: document agent harness sdk contracts</code>](https://github.com/openclaw/openclaw/commit/8f6e71087b01182e9e308038939ce8ea20e82dbb)
+- [ ] [<code>docs: document channel sdk core contracts</code>](https://github.com/openclaw/openclaw/commit/8732ef2f28874ec3de1b533a2ede4d2039135ae0)
+- [ ] [<code>docs: add headers to build check scripts</code>](https://github.com/openclaw/openclaw/commit/c8bb7330b5cf9a075f1e0ae2d3c2031779251ea6)
+  - <sub>Keywords: <code>bin</code></sub>
+- [ ] [<code>docs: document script lib helper contracts</code>](https://github.com/openclaw/openclaw/commit/88158525a713a5121c387b7d288a531fb61fea75)
+- [ ] [<code>docs: document script lib scan helpers</code>](https://github.com/openclaw/openclaw/commit/62a6fd81391b6ed4919c464351db15b6a627d83a)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document script lib guard helpers</code>](https://github.com/openclaw/openclaw/commit/e662435067b1d1c6ecb4df26a173f4c045e1d40d)
+- [ ] [<code>docs: document script lib extension helpers</code>](https://github.com/openclaw/openclaw/commit/1de46bb425dd643bc36a57290e5da4763fe659fb)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document script lib inventory helpers</code>](https://github.com/openclaw/openclaw/commit/ee74fff7addab96b2aa26d6611b345f1a84c2034)
+- [ ] [<code>docs: document script lib process helpers</code>](https://github.com/openclaw/openclaw/commit/1da49dcfd02fa211da28d3f904760cd34f7133b8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document script lib package helpers</code>](https://github.com/openclaw/openclaw/commit/d77bac89115480d72cec5b9100ae6aadcc336458)
+- [ ] [<code>docs: document script lib plugin helpers</code>](https://github.com/openclaw/openclaw/commit/44cd0ec13fbb0fb317961c1f30d5ca19c86ad845)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document script lib runtime package helpers</code>](https://github.com/openclaw/openclaw/commit/3cf1bd22f942da305dc47bcd2b1b6325f7a41f17)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document script lib report helpers</code>](https://github.com/openclaw/openclaw/commit/92cdcae50000757e3bd43983b05bee5ff6f34f4d)
+- [ ] [<code>docs: document script lib test helpers</code>](https://github.com/openclaw/openclaw/commit/f3abe61b78faeac8ce0894c02abf83307e56f130)
+  - <sub>Keywords: <code>bin</code> <code>usr</code></sub>
+- [ ] [<code>feat(memory): support qmd query rerank toggle</code>](https://github.com/openclaw/openclaw/commit/0dbf17471b4132c43eeec9fb81a933f511775f25)
+- [ ] [<code>fix(test): stage live docker home credentials</code>](https://github.com/openclaw/openclaw/commit/4dd7bc6d8897fbfc77fe5105c277026af0ba2746)
+- [ ] [<code>docs: document source bridge files</code>](https://github.com/openclaw/openclaw/commit/9fd5f9ee7ca0d88956086bb62a688e03b1d18bf2)
+- [ ] [<code>docs: document cjs bridge headers</code>](https://github.com/openclaw/openclaw/commit/deff9ea180956a957501d533ce8b16aca25c65e4)
+- [ ] [<code>docs: document root build check scripts</code>](https://github.com/openclaw/openclaw/commit/74f3baebb7ad9df1545e79a01af68590adbfbba0)
+- [ ] [<code>docs: document root guard scripts</code>](https://github.com/openclaw/openclaw/commit/978fdd7d2a8484bb24778f46db9d7d0766f89f55)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>Fix main CI guard drift (#90532)</code>](https://github.com/openclaw/openclaw/commit/fb750e6eed9f14d9808d0768622004cc62564ff8)
+- [ ] [<code>docs: document root runtime guard scripts</code>](https://github.com/openclaw/openclaw/commit/056421f4f84c87888c58df43943c059b8c76ae9d)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document package boundary scripts</code>](https://github.com/openclaw/openclaw/commit/6b0ffa2106fbea380403a473f87eda6a58cc68f8)
+  - <sub>Keywords: <code>bin</code> <code>usr</code> <code>command</code></sub>
+- [ ] [<code>docs: document ci dependency docs scripts</code>](https://github.com/openclaw/openclaw/commit/980c91d293268e643d8758c80a72d9a13ef46401)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document release runner scripts</code>](https://github.com/openclaw/openclaw/commit/57f8d71c5087b5d9a33a6ae5315a54639c64c495)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document profiling scripts</code>](https://github.com/openclaw/openclaw/commit/26bc069308488d3551cc1a54e7fbb6b466ba3bd7)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code> <code>dependency</code></sub>
+- [ ] [<code>docs: document release audit scripts</code>](https://github.com/openclaw/openclaw/commit/72547a1ac6d076eb353dff1430e1c1a8ef23f453)
+  - <sub>Keywords: <code>command</code> <code>dependency</code></sub>
+- [ ] [<code>fix(test): install playwright deps after host validation failure</code>](https://github.com/openclaw/openclaw/commit/48c19590eba721f7579069eb0121522367f0a2b6)
+  - <sub>Keywords: <code>bin</code> <code>command</code> <code>exec</code></sub>
+- [ ] [<code>chore(release): refresh plugin sdk api baseline</code>](https://github.com/openclaw/openclaw/commit/13078d24abd48d1d736ac8624d67ebb1824d67ee)
+- [ ] [<code>docs: document runner scripts</code>](https://github.com/openclaw/openclaw/commit/ff83d4d1641e7e817b7cb762daf72ee540d7a92a)
+  - <sub>Keywords: <code>command</code> <code>exec</code> <code>dependency</code></sub>
+- [ ] [<code>fix(ios): label chat attachment button</code>](https://github.com/openclaw/openclaw/commit/748881e0a84af539b13c7bc41dbe055595a344e7)
+- [ ] [<code>fix(ios): keep talk unavailable without config</code>](https://github.com/openclaw/openclaw/commit/1447a4507a6e1d87b3f011f32d1dfc94b24a03b9)
+- [ ] [<code>fix(ios): keep gateway row grouped and tappable</code>](https://github.com/openclaw/openclaw/commit/853f1c0d9ede3a07189c3746a7ade72fcecd643f)
+- [ ] [<code>fix(ios): keep diagnostics action reachable</code>](https://github.com/openclaw/openclaw/commit/697eeb8bab5274029775805292eed2877d24d0e5)
+- [ ] [<code>fix(ios): use dynamic settings bottom margin</code>](https://github.com/openclaw/openclaw/commit/17ab517047ead979971779d176d74ebabdd5f218)
+- [ ] [<code>docs: document smoke test scripts</code>](https://github.com/openclaw/openclaw/commit/29746cf7a92a3787dc04c21afce96bbe00ac1b30)
+- [ ] [<code>docs: document test wrapper scripts</code>](https://github.com/openclaw/openclaw/commit/9b1a01e4f962366e0eb889ccc2b64fd275f0a5d8)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document test project scripts</code>](https://github.com/openclaw/openclaw/commit/a59eba3ee172dacef7c934a79a549c5309f748f1)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document scoped script helpers</code>](https://github.com/openclaw/openclaw/commit/613a2835cbcd68f94ce462f88b6422819dc31f82)
+  - <sub>Keywords: <code>dependency</code></sub>
+- [ ] [<code>docs: document vitest routing maps</code>](https://github.com/openclaw/openclaw/commit/bafe17e60bcdebcccf014f5d48592d610a0372d5)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>docs: document e2e helpers</code>](https://github.com/openclaw/openclaw/commit/cb5bb9b936bbd90a0a734e3a755d5ad333c2981b)
+  - <sub>Keywords: <code>command</code> <code>subprocess</code></sub>
+- [ ] [<code>fix(mattermost): anchor slash state on globalThis (#68113) (#90534)</code>](https://github.com/openclaw/openclaw/commit/69d1d786491cdfa246bf1ccaa81f9c60455997ae)
+  - <sub>Keywords: <code>command</code></sub>
+- [ ] [<code>fix(agents): reject empty completion handoffs</code>](https://github.com/openclaw/openclaw/commit/e0018382eb00b8f2bad6ada8ee5f66956ac9cc21)
+- [ ] [<code>feat(googlechat): add native approval cards</code>](https://github.com/openclaw/openclaw/commit/d7759c6a35acd0df949f283c1c8804772b88720d)
+  - <sub>Keywords: <code>command</code> <code>exec</code></sub>
+- [ ] [<code>Add Codex multi-agent migration coverage (#90317)</code>](https://github.com/openclaw/openclaw/commit/cfd5f1ad13a7ac282de7655a4951370096a6b768)
+- [ ] [<code>test: add Codex session route migration coverage (#90319)</code>](https://github.com/openclaw/openclaw/commit/560b77a4aff78b0002421ed901f4a30d73ad6895)
+- [ ] [<code>fix(qqbot): sanitize outbound text to strip reasoning/thinking content (#90132)</code>](https://github.com/openclaw/openclaw/commit/1a3ce7c2a8da266cd0bb2844d44ba5af3942908b)
+- [ ] [<code>fix(agents): detect unsigned thinking-only stall when reasoning payload inflates payloadCount (#89874)</code>](https://github.com/openclaw/openclaw/commit/12a569109b60c7fcbf643799c54712e767562482)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
