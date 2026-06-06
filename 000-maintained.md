@@ -794,6 +794,13 @@
 
 - [ ] [<code>Fix -Wwritable-strings in abdd574</code>](https://gitlab.howett.net/DHowett/ectool/commit/39d64fb0e79e874cfe9877af69158fc2520b1a80)
 - [ ] [<code>Propagate MIT license from Chromium OS ec repo</code>](https://gitlab.howett.net/DHowett/ectool/commit/0ac6155abbb7d4622d3bcf2cdf026dde2f80dad7)
+- [ ] [<code>build: raise minimum cmake version</code>](https://gitlab.howett.net/DHowett/ectool/commit/b600f3175b02f474d0d315dc1ad5fcde91a821ff)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>fwpdversion: add sakura, tulip, marigold and sunflower</code>](https://gitlab.howett.net/DHowett/ectool/commit/09bcb1e0e53ea70b6c1ca8ca8ac33ca0ecc1fbc9)
+- [ ] [<code>win32: add a resource file with version info</code>](https://gitlab.howett.net/DHowett/ectool/commit/bc9f9c9ba293025510b9184f5e72710b02934cc5)
+  - <sub>Files: <code>CMakeLists.txt</code></sub>
+- [ ] [<code>ver: update to 0.0.2, fix win32 res to use CROS macro</code>](https://gitlab.howett.net/DHowett/ectool/commit/38f92b1f2773c30c0d911453051619c0a07773d3)
+  - <sub>Tags: <code>v0.0.2</code></sub>
 
 #### [gnome-online-accounts-gtk](https://github.com/xapp-project/gnome-online-accounts-gtk): [3.50.10 → HEAD](https://github.com/xapp-project/gnome-online-accounts-gtk/compare/3.50.10...HEAD)
 
@@ -1354,6 +1361,8 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>[ci skip] Update changelog and version for nightly build: v2.10.0-329-nightly.</code>](https://github.com/netdata/netdata.git/commit/dd244a82cb0eba234a979d14b3f9669d049cf920)
 - [ ] [<code>docs: consolidate dbengine retention sizing guidance (#22517)</code>](https://github.com/netdata/netdata.git/commit/f340a0e3ffb77f2d6ea3a02ffa6528ce7fd93dcf)
+- [ ] [<code>chore(go/pkg/prometheus):  unified single-pass stream parser (#22640)</code>](https://github.com/netdata/netdata.git/commit/415f0fcf8d4bf35956182b158140b60ab25e5ede)
+  - <sub>Keywords: <code>command</code></sub>
 
 #### [netplan](https://github.com/canonical/netplan): [0.106.1 → HEAD](https://github.com/canonical/netplan/compare/0.106.1...HEAD)
 
@@ -14749,6 +14758,14 @@ fatal: could not read Username for 'https://github.com': No such device or addre
   - <sub>Keywords: <code>command</code></sub>
 - [ ] [<code>chore(deps): bump the swift-deps group across 1 directory with 3 updates (#86483)</code>](https://github.com/openclaw/openclaw/commit/aee45f5f73fe98cbbdb1e574b7baec6c0346bfd8)
 - [ ] [<code>chore(deps): bump the actions group across 1 directory with 4 updates (#90601)</code>](https://github.com/openclaw/openclaw/commit/662d366f0142d9c0b08ea1215262946a864b92c6)
+- [ ] [<code>chore(deps): bump github.com/apple/swift-testing (#81757)</code>](https://github.com/openclaw/openclaw/commit/c6972a0664ff05a400e30ee7cc5ae1807dcb75ff)
+- [ ] [<code>chore(deps): bump the android-deps group across 1 directory with 9 updates (#86481)</code>](https://github.com/openclaw/openclaw/commit/c965141d67cc69318154078d0b75b792603744ee)
+  - <sub>Keywords: <code>bin</code> <code>command</code></sub>
+- [ ] [<code>build(deps): bump docker/login-action from 3.6.0 to 4.1.0 (#74980)</code>](https://github.com/openclaw/openclaw/commit/2ab4eaa2b182363462911473aa9ebb44b7ee28e4)
+- [ ] [<code>fix(agents): re-probe single-provider primary during cooldown (#90717)</code>](https://github.com/openclaw/openclaw/commit/6da3b1f6a35101a988e83394c3405efde279f758)
+- [ ] [<code>fix(google): preserve Vertex ADC catalog auth (#90609)</code>](https://github.com/openclaw/openclaw/commit/a4f7e4cbb94658d1fcae49a1dfd0e4f1dd230cb3)
+- [ ] [<code>fix: refresh prompt fence after compaction writes</code>](https://github.com/openclaw/openclaw/commit/bbfe8ccaf60e87e84a3c695e56f4bee7c687c5b0)
+- [ ] [<code>test(codex): cover thread abandonment after completion-idle timeout (#90027)</code>](https://github.com/openclaw/openclaw/commit/e5d1fadea7e2fa6282430e4fac96bb502559ab99)
 
 #### [pick-colour-picker](https://github.com/stuartlangridge/ColourPicker): [e3e4c2bcec5d7285425582b92bb564c74be2cf77 → HEAD](https://github.com/stuartlangridge/ColourPicker/compare/e3e4c2bcec5d7285425582b92bb564c74be2cf77...HEAD)
 
